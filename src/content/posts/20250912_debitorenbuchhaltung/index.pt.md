@@ -1,118 +1,162 @@
 ---
-title: 'Contabilidade optimizada de contas a receber com SeaTable - SeaTable'
+title: 'Otimização da contabilidade das contas a receber com o SeaTable'
+description: 'Assegurar a liquidez, minimizar os riscos, permitir o crescimento - a contabilidade das contas a receber é muito mais do que um simples cálculo de números. Se não tiver as suas contas a receber sob controlo, perde rapidamente o controlo do seu fluxo de caixa e das relações com os clientes.'
 date: 2021-08-26
-lastmod: '2023-07-11'
+lastmod: '2025-09-18'
 author: 'pbr'
-url: '/pt/contabilidade-devedores'
-aliases:
-    - /pt/debitorenbuchhaltung
+url: '/pt/Contas-a-receber'
 color: '#7cbaef'
-draft: true
 seo:
-    title:
-    description:
+    title: 'Gestão de contas a receber: template digital completo'
+    description: 'Organize cobranças e pagamentos com eficiência usando um modelo adaptável.'
 ---
 
-Os pagamentos recebidos têm de ser verificados, os clientes têm de ser lembrados dos pagamentos e, por vezes, há mesmo a parte que cada empresa quer evitar: o processo de cobrança. Isto pode tornar-se um verdadeiro desafio para muitas empresas. Perde-se rapidamente no seu próprio caos e ninguém na sua empresa ainda sabe quando e se uma factura foi sequer paga. No final, a liquidez da sua própria empresa acaba por sofrer. No entanto, não deve deixá-lo chegar tão longe!
+É preciso estar atento aos pagamentos recebidos, lembrar os clientes das facturas pendentes e enviar lembretes, se necessário. Sem a estrutura correta, isto pode rapidamente tornar-se confuso - e nem sempre é imediatamente reconhecível quais as facturas que já foram pagas. Por isso, é ainda mais importante manter uma visão geral para que a liquidez da sua empresa permaneça segura.
 
-Com o [SeaTable]({{< relref "pages/registration" >}}) tem finalmente todas as facturas ou créditos devidos pelos seus clientes num relance e sabe exactamente sobre cada estatuto individual. SeaTable permite ao seu departamento de contas a receber gerir de forma óptima e eficiente os seus créditos. Além disso, as informações podem ser facilmente trocadas entre os departamentos individuais da sua empresa. Para que todos possam trabalhar com a mesma e correcta informação e o senhor, como empresário, possa dormir de novo mais tranquilamente.
+Com uma contabilidade de contas a receber claramente estruturada, sabe sempre quais os pagamentos que foram recebidos e quais os que ainda estão pendentes. Não só lhe permite gerir as contas a receber de forma eficiente, como também permite uma troca de informações sem problemas entre departamentos. Isto significa que todos na empresa trabalham com os mesmos dados actualizados e que mantém sempre o controlo total.
 
-[Clique aqui para ir diretamente para o nosso modelo "CRM Contas a Receber".]({{< relref "templates/sales/crm-accounts-receivable" >}})
+![Contas a receber](Buchhaltung.jpg)
 
-## O que é a Contabilidade de Clientes?
+## O que são contas a receber?
 
-A contabilidade das contas a receber faz parte da contabilidade financeira. Na contabilidade das contas a receber, todas as transacções comerciais relativas aos próprios clientes da empresa são registadas. Em princípio, todos os créditos de clientes são aqui registados e geridos. Estes resultam normalmente da venda de bens e serviços da própria empresa. Os devedores são sempre, portanto, devedores que têm de liquidar contas a receber de entregas e serviços. Para ser franco, os devedores mostram quanto dinheiro os seus clientes ainda lhe devem e certificam-se de que essas dívidas são pagas. No final, o devedor individual deverá ser capaz de registar uma entrada de pagamento positiva.
+A contabilidade de contas a receber é uma componente central da **contabilidade financeira** e trata de todas as transacções comerciais relacionadas com os clientes da sua empresa. O foco aqui está nas contas a receber decorrentes da venda de bens ou serviços. Assim que a sua empresa presta um serviço ou vende um produto, surge uma conta a receber do cliente - o chamado devedor.
 
-## O que faz realmente a contabilidade das contas a receber?
+A tarefa da contabilidade de contas a receber consiste em registar, controlar e gerir cuidadosamente estas contas a receber. Isto inclui não só o lançamento correto das facturas pendentes, mas também o acompanhamento dos pagamentos recebidos. Se um cliente se atrasar, a contabilidade de contas a receber também assume o processo de reclamação e assegura que os montantes pendentes são cobrados.
 
-A contabilidade das contas a receber tem quatro importantes campos de actividade. Nestes, tratam extensivamente da reserva de créditos e notas de crédito de entregas e serviços, do controlo dos pagamentos individuais recebidos, da cobrança e da solvabilidade real de cada cliente na sua empresa. Isto também é frequentemente referido como pontuação de devedor. A contabilidade das contas a receber assegura que tudo, desde a facturação efectiva até à recepção do pagamento, é acompanhado ou documentado e desencadeia o processo de cobrança ou cobrança de dívidas em caso de não pagamento.
+## O que envolve a contabilidade de contas a receber?
 
-### **Gestão de contas a receber**
+A contabilidade de contas a receber tem quatro áreas de atividade importantes. Nestas, lida-se extensivamente com o lançamento de créditos e notas de crédito de fornecimentos e serviços, o controlo de entradas de pagamentos individuais, a cobrança de dívidas e a capacidade de crédito real de cada cliente na sua empresa. Isto também é muitas vezes referido como "debtor scoring". A contabilidade das contas a receber garante, portanto, que tudo, desde a **faturação** até à **receção do pagamento**, é acompanhado e documentado. Se o pagamento não for recebido, inicia-se o processo de reclamação e cobrança de dívidas.
 
-Se um cliente comprar um produto à sua empresa, receberá uma factura. Isto é enviado ao cliente pelo departamento de contas a receber. O cliente tem agora a opção de pagar o montante da factura à sua empresa dentro de um determinado período de pagamento pré-definido, por exemplo por débito directo ou transferência bancária. A factura para o cliente é também frequentemente referida como um crédito (gestão de créditos). Os créditos em aberto são verificados diariamente. Isto também serve como trabalho preparatório para o processo de cobrança.
+![O cliente torna-se um devedor](kunden.jpg)
 
-### **Cobrança**
+### Gestão das contas a receber
 
-No processo de cobrança, é feita uma distinção entre cobrança extrajudicial e judicial. No procedimento de cobrança extrajudicial, o próprio devedor (cliente) tenta primeiro cobrar o montante da factura que ainda lhe é devido. Isto é normalmente feito com os chamados níveis de cobrança. A cada nível de cobrança, o cliente é novamente lembrado de liquidar o pagamento pendente. Cada empresa decide por si própria quantos níveis de cobrança existem até ao processo de cobrança judicial.
+Se um cliente comprar um produto à sua empresa, receberá uma fatura. Esta é enviada ao cliente pela Contabilidade de Contas a Receber. O cliente tem agora a opção de pagar o montante da fatura à sua empresa dentro de um determinado período de pagamento predefinido, por exemplo, por débito direto ou transferência bancária. A fatura ao cliente é também frequentemente referida como uma conta a receber (gestão de contas a receber). As contas a receber pendentes são verificadas diariamente. Isso também serve como trabalho preparatório para o processo de cobrança.
 
-Na melhor das hipóteses, o cliente recebe um lembrete de pagamento amigável antes do início do processo de cobrança extraordinária. O objectivo aqui é, em particular, não enfraquecer a relação comercial existente e resolver o conflito o mais "a nível pessoal" possível.
 
-No caso do procedimento de cobrança judicial, o procedimento de cobrança extraordinária, infelizmente, não funcionou e o pagamento pendente ainda não foi liquidado pelo devedor (cliente). Neste caso, é considerado um lembrete judicial. Isto é feito por advogados ou agências de cobrança de dívidas, mas também pode ser feito pelo seu próprio departamento de contas a receber, se tiver os conhecimentos necessários. É importante estar familiarizado com os processos dos tribunais e oficiais de justiça.
+### Cobrança
 
-### **Pontuação do devedor**
+No processo de cobrança, é feita uma distinção entre cobrança extrajudicial e judicial. No **processo de cobrança extrajudicial**, primeiro tenta-se cobrar o montante da fatura que o devedor (cliente) ainda lhe deve internamente. Isso geralmente é feito com os chamados níveis de cobrança. A cada nível de cobrança, o cliente é lembrado novamente para liquidar o pagamento pendente. Cada empresa decide quantos níveis de cobrança existem antes de se iniciar um processo de cobrança judicial.
 
-No entanto, a chamada pontuação de devedor é também particularmente importante na empresa. Isto deverá fornecer informações importantes sobre a vontade real dos seus clientes de pagar. Podem ser feitas declarações explícitas sobre o histórico de pagamento de cada cliente individual, por exemplo, sobre a fiabilidade do pagamento ou incumprimentos individuais. Desta forma, as insolvências dos clientes podem ser reconhecidas numa fase inicial e os danos financeiros reais podem ser reduzidos ao mínimo. Neste caso, o cliente é simplesmente bloqueado e não é mais fornecido com produtos ou serviços até novo aviso.
+Na melhor das hipóteses, o cliente receberá também um aviso de pagamento amigável antes de se iniciar o processo extraordinário de cobrança. O objetivo é, sobretudo, não enfraquecer a relação comercial existente e resolver o conflito a um nível tão "pessoal" quanto possível.
 
-### **Gestão da informação**
+No caso do **processo de reclamação judicial**, o processo de reclamação extraordinária infelizmente não funcionou e o pagamento pendente ainda não foi liquidado pelo devedor (cliente). Neste caso, considera-se a hipótese de uma interpelação judicial. Este procedimento é levado a cabo por advogados ou agências de cobrança de dívidas, mas também pode ser efectuado pelo seu próprio departamento de contas a receber, se tiver os conhecimentos necessários. É importante que esteja familiarizado com os processos dos tribunais e dos oficiais de justiça.
 
-Para além de todos os pontos já mencionados, é também particularmente importante transmitir informações sobre pagamentos pendentes. A partir disto, as decisões podem ser tomadas em pouco tempo sobre possíveis investimentos futuros e sobre a sua própria liquidez. Se cada vez mais pagamentos falharem, a sua empresa poderá não ser capaz de iniciar novos investimentos. Se, por outro lado, a maioria dos seus créditos tiver sido liquidada, a sua empresa será líquida e nada impedirá a realização de mais investimentos. A liquidez de uma empresa depende sempre, portanto, dos créditos pendentes ou liquidados.
 
-## Qual é o risco do devedor e como pode ser combatido?
+### Pontuação de contas a receber
 
-Nem todos os clientes pagam sempre a tempo ou alguns clientes não pagam deliberadamente as suas facturas. Contudo, o seu departamento de contas a receber deve ser capaz de lidar da melhor forma possível com este chamado risco do devedor e de avaliar as opções de pagamento, que diferem em atraso de pagamento, incapacidade de pagamento e falta de vontade de pagar, da forma mais precisa possível.
+No entanto, a pontuação do devedor também é particularmente importante na empresa. Esta deve fornecer informações relevantes sobre a vontade real de pagamento dos seus clientes. Podem ser feitas declarações explícitas sobre o histórico de pagamentos de cada cliente individual, por exemplo, sobre a fiabilidade do pagamento ou incumprimentos de pagamento individuais. Isto permite reconhecer as insolvências dos clientes numa fase inicial e minimizar a perda financeira efectiva. Neste caso, o cliente é simplesmente bloqueado e deixa de receber produtos ou serviços até nova ordem.
 
-Em caso de atraso de pagamento, o cliente (devedor) não paga a sua factura no prazo de pagamento já acordado. Em caso de insolvência, já estamos a falar de insolvência. Neste caso, o cliente já não pode cumprir as suas obrigações de pagamento. Em caso de falta de vontade de pagar, por outro lado, o cliente recusa-se a pagar e age intencionalmente. Isto só pode ser contrariado através de uma pontuação adequada.
 
-A pontuação é um exame detalhado do cliente. Os pagamentos passados são listados em detalhe na conta devedora real de cada cliente individual e estão incluídos na classificação de crédito. Se houver problemas com pagamentos que tenham de ser liquidados no passado, a pontuação do cliente será reduzida. Isto também pode levar ao bloqueio efectivo ou à não entrega do devedor. Isto pode ser corrigido, por exemplo, através do pagamento adiantado. Se, por outro lado, o cliente tiver sempre pago todas as suas facturas a tempo, deverá ter a melhor pontuação possível na sua contabilidade de contas a receber.
+### Gestão da informação
 
-## Como gerir eficazmente as suas contas a receber no SeaTable
+Para além de todos os pontos já mencionados, é também particularmente importante transmitir informações sobre pagamentos pendentes. Esta informação pode ser utilizada para tomar decisões sobre possíveis investimentos futuros e a sua própria liquidez num instante. Se um número crescente de pagamentos for cancelado, pode não ser possível iniciar novos investimentos na sua empresa. Se, por outro lado, a maioria das suas contas a receber tiver sido liquidada, a sua empresa será líquida e nada impedirá novos investimentos. Por conseguinte, a liquidez de uma empresa depende sempre das contas a receber pendentes ou liquidadas.
 
-No nosso último artigo,["CRM: Da Entrada do Cliente à Cotação]({{< relref "posts/crm-angebotsmanagement" >}})", mostramos-lhe como pode criar o seu próprio sistema de CRM no SeaTable em pouco tempo. Neste artigo ou modelo, seguimos agora o artigo que acaba de ser mencionado e mostramos-lhe como pode mapear eficazmente as suas contas a receber no SeaTable. Até agora, tudo tem girado em torno da base de clientes, da carteira de produtos e da criação de cotações. Agora passamos da citação para a facturação. Assim, para além das folhas de cálculo "Dados do cliente", "Equipa de vendas", "Ofertas" e "Catálogo de produtos", encontrará também a nova folha de cálculo "Facturas" no próprio modelo.
+{{< warning headline="Dica" >}}
+Se quiser aprofundar o tema [Planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) também pode obter mais informações sobre o[Plano de investimento]({{< relref "posts/investitionsplan" >}}) e o [Plano de liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) experiência. Aí encontrará dicas práticas, exemplos e modelos para o ajudar a gerir as finanças da sua empresa de forma ainda mais eficiente.
+{{< /warning >}}
 
-### **Desde a oferta até à encomenda da factura**
 
-A folha de cálculo "Ofertas" foi agora alargada com as três novas [colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) "Departamento de contabilidade", "Estado de pagamento" e "Facturas". Se o seu cliente aceitou a sua oferta e pretende comprar os bens ou serviços, tem agora a opção de informar o departamento de contabilidade para faturar o cliente com apenas um clique no botão "Please create Invoice". Todos os dados importantes da oferta aceite são transferidos diretamente como uma nova linha para a folha de cálculo "Facturas". Para este efeito, é executado um script em segundo plano que escreve os dados diretamente na tabela "Facturas" e assegura uma ligação com as folhas de cálculo "Facturas", "Ofertas" e "Dados do cliente".
+## Tarefas de contabilidade de contas a receber
 
-![Contas a Receber - Oferta](Ansicht_Offers.png)
+As tarefas da contabilidade de contas a receber vão muito além do simples lançamento de transacções comerciais. Incluem todas as actividades necessárias para gerir de forma transparente as contas a receber dos clientes, assegurar a entrada de pagamentos e evitar incumprimentos. Isto inclui, entre outras coisas
 
-Visão geral da página de ofertas em SeaTable
+* Criação e envio de **facturas de saída**
+* Registo de contas a receber de **entregas e serviços**
+* Registo de **pagamentos** recebidos
+* Monitorização de **pagamentos devidos** e de itens em aberto
+* Gestão ativa dos créditos para cobrar os pagamentos
+* Organização e aplicação de procedimentos de cobrança
+* Criação e tratamento de **notas de crédito**
+* Reconciliação de **contas a receber** para garantir lançamentos corretos
+**Pessoa de contacto** para clientes com perguntas sobre facturas e pagamentos
+* Avaliação e revisão do risco de **contas a receber** para evitar incumprimentos de pagamento
 
-Poderá então ver convenientemente o estado de pagamento real na [coluna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) "Estado de Pagamento". Todas as facturas estão também ligadas à folha de cálculo "Facturas" e podem, evidentemente, ser visualizadas na coluna "Facturas". Isto significa que, como empresário e a sua equipa de vendas, tem sempre todas as informações importantes num relance e, se necessário, pode acompanhar pessoalmente o cliente se um pagamento não for efectuado a tempo.
+{{< warning headline="Conta a receber" text="Uma conta de cliente é uma conta especial da contabilidade financeira na qual são registadas todas as transacções comerciais com um cliente individual. É mantida uma conta separada para cada cliente, ou seja, para cada cliente que recebe uma fatura. As facturas emitidas, as entradas de pagamento, as notas de crédito e, eventualmente, os avisos são aí lançados." />}}
 
-### **Criação de facturas em apenas alguns segundos**
+## De que se trata o risco do devedor?
 
-Como já mencionado, todas as informações importantes sobre a oferta aceite pelo cliente são transferidas directamente para a folha de cálculo "Facturas". Assim, todos os dados tais como número da oferta, nome do cliente, número do cliente, pessoa de contacto, rua e número da casa, código postal, cidade, país e toda a informação do produto com nome do produto, preço unitário, quantidade e montante total são automaticamente transferidos. Tudo o que o seu departamento de contabilidade tem de fazer agora é premir o botão "Criar factura" na coluna "Factura".
+Nem todos os clientes pagam sempre a tempo e alguns até não pagam deliberadamente as suas facturas. No entanto, o seu departamento de contas a receber deve ser capaz de lidar com este chamado risco de devedor da melhor forma possível e de avaliar as opções de pagamento, que diferem em termos de atraso de pagamento, incapacidade de pagamento e falta de vontade de pagar, com a maior exatidão possível.
 
-![Contas a Receber - Facturas](Ansicht_Invoices.png)
+![O risco do devedor](risiko.jpg)
 
-Todas as exigências num relance
+Em caso de atraso de pagamento, o cliente (devedor) não paga a sua fatura no prazo de pagamento acordado. Em caso de insolvência, já estamos a falar de insolvência. Neste caso, o seu cliente já não pode cumprir as suas obrigações de pagamento. Em caso de falta de vontade de pagar, por outro lado, o cliente recusa-se a pagar e age deliberadamente. Só é possível contrariar esta situação através de uma pontuação adequada.
 
-O "Page Design" plug-in abre-se automaticamente e preenche toda a informação importante. Pode então guardar facilmente a factura como ficheiro PDF e armazená-la na coluna "Ficheiros" ou imprimi-la e enviá-la ao seu cliente por e-mail ou carta. Naturalmente, pode adaptar ou acrescentar ao modelo de desenho de página predefinido, de acordo com os seus desejos, em apenas alguns minutos.
+A classificação consiste em analisar o cliente de perto. Os pagamentos anteriores são registados na conta de devedor real de cada cliente individual e são incluídos na notação de crédito. Os atrasos nos pagamentos no passado fazem com que o seu cliente tenha uma classificação mais baixa na pontuação. Isto também pode levar ao bloqueio efetivo ou à não entrega do devedor. O pagamento antecipado, por exemplo, pode remediar esta situação. Se, por outro lado, o seu cliente sempre pagou todas as facturas a tempo, deve ter a melhor classificação possível nas suas contas a receber.
 
-![Contas a Receber - Factura](PageDesign_Invoice.png)
+## O que são contas a pagar?
 
-A sua factura final no plug-in de design da página
+As contas a pagar são uma sub-área da contabilidade financeira e tratam das responsabilidades de uma empresa perante os seus fornecedores e prestadores de serviços - os chamados credores. Sempre que uma empresa adquire bens ou serviços e recebe uma fatura pelos mesmos, é criado um passivo que é registado e monitorizado nas contas a pagar.
 
-### **Manter um olho no estado de pagamento**
+![Relações estáveis com os fornecedores](lieferanten.jpg)
 
-Para garantir que todas as pessoas relevantes na sua empresa, para além do departamento de contas a receber, saibam se um cliente paga ou não as suas facturas, a coluna "Estado de pagamento" está disponível. Se uma oferta for aceite pelo cliente e for gerada uma fatura, o estado do pagamento é automaticamente alterado para "Pendente". Assim que um pagamento é efectuado, o seu departamento de contas a receber pode alterar a coluna "Estado do pagamento" do Single Select para "Pago" e introduzir a data do pagamento em "Data de pagamento". Com a [função de agrupamento]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) e as diferentes [vistas]({{< relref "help/base-editor/ansichten" >}}) por "Estado de pagamento", obtém a melhor vista possível de todos os estados de pagamento actuais. Além disso, agora também encontrará o "Estado da fatura" no plug-in Kanban, para que não possa perder de vista qualquer estado de pagamento.
+As tarefas centrais incluem o registo e a verificação das facturas recebidas, o lançamento destas obrigações nas contas corretas e o controlo dos prazos de pagamento. O objetivo é liquidar as facturas a tempo, utilizar descontos ou abatimentos e, ao mesmo tempo, manter uma visão geral de todas as obrigações de pagamento pendentes. A contabilidade das contas a pagar contribui assim de forma decisiva para assegurar a ordem financeira da empresa e garantir relações estáveis com os fornecedores.
 
-![Contas a Receber - Pagamentos](Ansicht_Invoices_Status.png)
+## O que envolve a contabilidade de contas a pagar?
 
-Os diferentes estados de pagamento
+A contabilidade das contas a pagar abrange todas as actividades relacionadas com o registo, a administração e o processamento das obrigações para com os fornecedores e prestadores de serviços. Em pormenor, inclui
 
-A vantagem adicional sobre o estado de pagamento: cada estado também afecta o seu verdadeiro mestre de clientes sob a ficha de trabalho "Dados do cliente". Isto significa: Se um cliente paga todas as suas facturas ou está "Pendente", a fila real é marcada a verde. Se o cliente não tiver pago a sua factura por qualquer razão, a cor da linha muda para vermelho e cada empregado sabe que este cliente está actualmente em processo de cobrança e não deve ser fornecido com produtos ou serviços até novo aviso.
+* Registo e verificação de **facturas recebidas**
+* A classificação contabilística e o **lançamento de facturas** nas contas relevantes
+* Acompanhamento dos prazos de pagamento e liquidação atempada das facturas pendentes
+* Utilização de **descontos e abatimentos** para poupar custos
+* Gestão de **notas de crédito** e outras correcções
+* Conciliação e manutenção das contas dos fornecedores
+**Comunicação** com os fornecedores sobre facturas ou pagamentos
+* Preparação de **cursos de pagamento** (por exemplo, transferências, débitos diretos)
+* Verificação e avaliação do passivo, a fim de apresentar a situação financeira de forma transparente
 
-![](Customer-data.jpg)
+## Contabilidade de contas a receber vs. contabilidade de contas a pagar
 
-### **Comunique o estado de pagamento aos seus clientes com apenas um clique**
+Enquanto a contabilidade de contas a pagar regista as contas a pagar aos fornecedores, a contabilidade de contas a receber monitoriza as contas a receber dos clientes. A comparação que se segue mostra as suas tarefas, diferenças e efeitos no fluxo de pagamentos:
 
-Para que o seu departamento de contas a receber possa também informar os seus clientes sobre a recepção do pagamento ou um atraso no pagamento, os dois botões "Recibo de Pagamento" e "Informação de Cobrança" estão disponíveis no SeaTable. Com apenas um clique no respectivo botão, é automaticamente enviado um e-mail para o endereço de e-mail de contacto sob a coluna "Endereço de e-mail". Neste e-mail, informações tais como o número da factura ou o montante são automaticamente acrescentadas. Naturalmente, pode facilmente personalizar a mensagem aos seus clientes sobre os respectivos estados de pagamento, como desejar.
+|                     | **Contas a pagar** | **Contas a receber** | 
+| ------------------- | --------------------- | --------------------- | 
+| **Definição** | Registo de todas as transacções comerciais com fornecedores (passivo)        | Registar todas as transacções comerciais com clientes (contas a receber)| 
+| **Participantes**      | Fornecedores / credores | Clientes / devedores  | 
+| **Objetivo**       | Controlo e gestão das contas a pagar aos fornecedores    | Controlo e gestão das contas a receber dos clientes      | 
+| **Tarefa principal** | - Verificar facturas, preparar pagamentos, gerir descontos e lembretes      | Criar facturas, controlar as entradas de pagamentos, executar procedimentos de cobrança | 
+| **Efeitos no balanço**      | Aumento do passivo| Aumento das contas a receber  | 
+| **Fluxo de caixa**       | Despesas → O dinheiro sai da empresa     | Receitas → Dinheiro que entra na empresa      | 
 
-![Contas a Receber - Informação ao Cliente](Email.png)
+## Vantagens da contabilidade de contas a receber e de contas a pagar
 
-Envie informações de pagamento aos seus clientes directamente da SeaTable
+As contas a receber e as contas a pagar oferecem inúmeras vantagens às empresas, melhorando tanto a estabilidade financeira como a organização interna. Uma das principais vantagens é a melhoria da segurança do planeamento financeiro. Ao registar sistematicamente as contas a receber e a pagar e ao calcular os riscos de incumprimento, as empresas podem planear melhor a sua liquidez e evitar estrangulamentos imprevistos. Ao mesmo tempo, as perdas devidas a incumprimentos de pagamento podem ser significativamente reduzidas, uma vez que as rubricas pendentes são ativamente monitorizadas e, se necessário, são iniciados avisos ou medidas de cobrança.
 
-### **Sempre todos os números em vista**
+![As vantagens da contabilidade das contas a receber](vorteile_debitorenbuchhaltung.jpg)
 
-Para garantir que tem sempre uma visão geral dos números mais importantes, o modelo foi complementado com três [estatísticas]({{< relref "help/base-editor/statistiken" >}}) adicionais relevantes. Em "Volume de negócios de todos os produtos" encontrará agora o volume de negócios total que gerou através de serviços ou bens na sua empresa. Em "Estado das facturas em percentagem" pode ver exactamente quantas facturas foram registadas no total e como estas são divididas em percentagem de acordo com os três diferentes estados de pagamento "Pago", "Pendente" e "Cobrança". Para que saiba sempre exactamente o que isto significa em termos de volume de negócios, a estatística "Estado de Pagamento (Volume de Negócios)" também foi integrada. Isto reflecte exactamente o volume de negócios dos diferentes estados de pagamento dos seus clientes.
+A contabilidade também fornece uma visão clara de todos os clientes e fornecedores, permitindo que os processos sejam organizados de forma mais eficiente. Por exemplo, as facturas e os pagamentos estão claramente ligados, o que simplifica os processos e reduz as discrepâncias. Além disso, as contas a receber e as contas a pagar facilitam a obtenção de informações e o planeamento das relações comerciais. As empresas podem tomar decisões específicas com base nos dados contabilísticos, por exemplo, sobre limites de crédito, condições de pagamento ou investimentos futuros com determinados clientes ou fornecedores.
 
-## Com SeaTable você e o seu departamento de contas a receber podem dormir descansados
+## Como organizar as suas contas a receber de forma eficiente no SeaTable
 
-Assim, nem sempre tem de acabar com software de contabilidade caro como o [Lexware](https://shop.lexware.de/), [Lexoffice](https://testen.lexoffice.de/online/), [sevDesk](https://sevdesk.de/), [orgaMax](https://www.deltra.com/) ou [Billie](https://www.billie.io/), por exemplo, que pode até mergulhar a sua empresa em enormes despesas gerais. Pode definitivamente poupar o dinheiro.
+A contabilidade das contas a receber constitui a espinha dorsal de uma contabilidade financeira eficiente em todas as empresas. Com o software SeaTable**, compatível com o RGPD, pode mapear digitalmente esta área, gerir todas as informações relevantes de forma centralizada e, assim, simplificar significativamente todo o processo, desde a preparação da cotação até à receção do pagamento. O software gratuito[Modelo]({{< relref "templates/sales/crm-accounts-receivable" >}}) oferece-lhe folhas de tabela para clientes, produtos e ofertas, bem como uma folha de faturação especial na qual todos os dados importantes são claramente resumidos.
 
-Graças à sua enorme flexibilidade, a SeaTable também pode fazer com que o seu departamento de contas a receber funcione perfeitamente. A vantagem clara que o SeaTable traz consigo é a diversidade em que o próprio produto pode ser utilizado. Para além das contas a receber, outros casos importantes de utilização na sua empresa também podem ser cobertos. Pode encontrar mais sobre isto no nosso [blog]({{< relref "posts" >}}) ou directamente nos nossos [modelos]({{< relref "templates" >}}). Convença-se da folha de cálculo mais poderosa e inovadora e comece hoje mesmo a fazer a sua contabilidade de contas a receber.
+{{< template-box id="9abcb338414a450b8f66" submit="Modelo de teste" text="Percorra o nosso modelo interativo e descubra as primeiras funções." >}}
 
-[Para o modelo "Contas a Receber de CRM]({{< relref "templates/sales/crm-accounts-receivable" >}})  
-[Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
-[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados]({{< relref "pages/product/seatable-server" >}})
+Assim que uma oferta é aceite pelo cliente, a informação correspondente é automaticamente transferida para a folha de faturação. Isto significa que as facturas podem ser criadas com apenas alguns cliques e enviadas diretamente para o cliente. O estado de pagamento de cada fatura pode ser visualizado a qualquer momento, para que a contabilidade e as vendas tenham sempre uma visão geral. Além disso, as entradas de pagamentos e os lembretes podem ser documentados diretamente no sistema, o que acelera os processos e reduz os erros. O SeaTable permite-lhe, portanto, gerir as suas contas a receber de uma forma transparente e que poupa tempo, sem necessidade de software adicional dispendioso. [Registo]({{< relref "pages/registration" >}}) Registe-se gratuitamente hoje e teste o modelo.
+
+## FAQs
+
+{{< faq "O que são os devedores e os credores?" >}}
+
+Os devedores são os clientes de uma empresa que têm facturas pendentes para pagar, ou seja, as contas a receber. Os credores, por outro lado, são os fornecedores ou parceiros de negócios a quem a empresa deve dinheiro, ou seja, existem passivos. Em conjunto, constituem a base para o controlo das entradas e saídas de pagamentos na empresa.
+
+{{< /faq >}}
+
+{{< faq "Qual é a diferença entre contas a receber e contas a pagar?" >}}
+
+A contabilidade das contas a receber regista e monitoriza todas as contas a receber dos clientes, ou seja, as facturas que a empresa emitiu e cujo pagamento ainda está pendente. As contas a pagar, por outro lado, gerem todas as responsabilidades para com os fornecedores, ou seja, as facturas que a empresa tem de pagar. Por conseguinte, a contabilidade das contas a receber analisa o dinheiro que entra, enquanto a contabilidade das contas a pagar analisa o dinheiro que sai.
+
+{{< /faq >}}
+
+{{< faq "Que software pode ser utilizado para implementar a contabilidade de contas a pagar e de contas a receber?" >}}
+
+Com o SeaTable, a contabilidade de contas a receber e de contas a pagar pode ser implementada de forma eficiente e flexível - sem qualquer conhecimento de programação. O SeaTable é uma plataforma sem código, em conformidade com o RGPD, que foi especialmente desenvolvida para a gestão e automatização de processos empresariais. Permite criar aplicações de contabilidade personalizadas que são perfeitamente adaptadas às necessidades da sua empresa.
+
+{{< /faq >}}
+
+{{< faq "As contas a receber desempenham um papel nas contas a pagar?" >}}
+
+Não, os devedores não desempenham qualquer papel na contabilidade das contas a pagar. A contabilidade de contas a pagar centra-se exclusivamente em fornecedores e passivos - por outras palavras, a quem a empresa deve dinheiro e quando os pagamentos são devidos. As contas a receber, por outro lado, são clientes que devem dinheiro à empresa e são registadas na contabilidade de contas a receber.
+
+{{< /faq >}}
