@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/zeilen-per-automation-hinzufuegen'
+url: '/ru/pomoshch/avtomaticheskoe-dobavlenie-strok-seatable'
+aliases:
+    - '/ru/pomoshch/zeilen-per-automation-hinzufuegen'
+seo:
+    title: 'Автоматическое добавление строк в SeaTable'
+    description: 'В SeaTable добавляйте строки в таблицы автоматически по расписанию, триггеру или условию – без ручного ввода.'
 ---
 
 С помощью автоматизаций вам больше не придется вручную добавлять строки с определенными записями в таблицы, эти действия будут выполняться автоматически. Просто определите соответствующую автоматизацию для любого вида таблицы.

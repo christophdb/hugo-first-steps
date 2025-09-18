@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+url: '/fr/aide/partage-individuel-donnees-communes'
+aliases:
+    - '/fr/aide/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+seo:
+    title: 'Partage individuel ou jeux de données communs SeaTable ?'
+    description: 'Différences et avantages du partage individuel comparé à l’utilisation de jeux de données communs pour équipes en SeaTable.'
 ---
 
 SeaTable met à votre disposition différents **partages individuels**. Vous avez par exemple la possibilité de partager des bases, des tableaux et des vues avec des utilisateurs individuels ou des groupes entiers.

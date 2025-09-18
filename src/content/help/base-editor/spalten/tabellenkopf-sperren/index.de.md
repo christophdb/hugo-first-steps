@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/tabellenkopf-sperren'
+seo:
+    title: 'Tabellenkopf in SeaTable schnell und sicher sperren'
+    description: 'Schützen Sie Ihre Tabellenstruktur: Sperren Sie den Tabellenkopf, um Spaltenänderungen durch andere Nutzer zu verhindern.'
 ---
 
 Wenn Sie über die notwendige Berechtigung verfügen, können Sie in jeder Tabelle den **Tabellenkopf sperren**, um das Hinzufügen, Verschieben und Bearbeiten von Spalten in der Tabelle zu verhindern. Der große Vorteil ist, dass Sie so mit einem Klick **alle Spalten gleichzeitig** sperren können.

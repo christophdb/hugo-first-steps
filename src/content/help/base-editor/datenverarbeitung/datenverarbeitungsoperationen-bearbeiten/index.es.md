@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/es/ayuda/datenverarbeitungsoperationen-bearbeiten'
+url: '/es/ayuda/editar-operaciones-procesamiento-seatable'
+aliases:
+    - '/es/ayuda/datenverarbeitungsoperationen-bearbeiten'
+seo:
+    title: 'Editar operaciones de procesamiento en SeaTable'
+    description: 'Modifique operaciones matemáticas o relacionales de SeaTable para adaptar el análisis de datos a cada necesidad.'
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar diversas **operaciones**. Puede realizar cálculos matemáticos en todos los valores de una columna, así como correlacionar valores cuando las entradas de dos tablas diferentes son idénticas.

@@ -6,6 +6,9 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/zeilen-per-automation-hinzufuegen'
+seo:
+    title: 'Zeilen automatisch mit SeaTable Automation hinzufügen'
+    description: 'Fügen Sie Zeilen in Ihren Tabellen automatisch hinzu – mit periodischen oder bedingten SeaTable-Automationen.'
 ---
 
 Mithilfe von Automationen müssen Sie Zeilen mit bestimmten Einträgen nicht mehr manuell in Ihren Tabellen hinzufügen, sondern können diese Schritte automatisch ausführen lassen. Definieren Sie hierfür einfach eine entsprechende Automation für eine beliebige Tabellenansicht.

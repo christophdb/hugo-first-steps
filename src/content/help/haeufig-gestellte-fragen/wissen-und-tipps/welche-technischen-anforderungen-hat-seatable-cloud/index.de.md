@@ -6,6 +6,9 @@ categories:
   - "haeufig-gestellte-fragen"
 author: "nsc2"
 url: "/de/hilfe/welche-technischen-anforderungen-hat-seatable-cloud"
+seo:
+    title: 'Technische Anforderungen für SeaTable Cloud'
+    description: 'SeaTable Cloud benötigt nur einen aktuellen Browser mit JavaScript. Ohne Installation, läuft auf jedem System.'
 ---
 
 Sie haben Interesse an SeaTable Cloud, sind sich jedoch noch unsicher, welche **technischen Anforderungen** erfüllt werden müssen? Kein Problem, in diesem Artikel finden Sie alle technischen Informationen zu Browser, Betriebssystem usw., die Sie vorab wissen sollten.

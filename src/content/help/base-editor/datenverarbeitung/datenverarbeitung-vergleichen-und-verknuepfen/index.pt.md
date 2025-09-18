@@ -5,7 +5,12 @@ lastmod: '2023-03-20'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/pt/ajuda/datenverarbeitung-vergleichen-und-verknuepfen'
+url: '/pt/ajuda/comparar-vincular-dados-seatable'
+aliases:
+    - '/pt/ajuda/datenverarbeitung-vergleichen-und-verknuepfen'
+seo:
+    title: 'Comparar e vincular registros no SeaTable'
+    description: 'Vincule registros automaticamente entre tabelas SeaTable com valores iguais – tudo feito com uma operação prática.'
 ---
 
 Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. **Comparar e ligar** é uma operação que lhe permite ligar registos em duas tabelas diferentes se um valor de coluna em ambas as tabelas for idêntico.

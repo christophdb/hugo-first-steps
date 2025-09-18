@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/welche-technischen-anforderungen-hat-seatable-cloud'
+url: '/ru/pomoshch/tekhnicheskie-trebovaniya-seatable-cloud'
+aliases:
+    - '/ru/pomoshch/welche-technischen-anforderungen-hat-seatable-cloud'
+seo:
+    title: 'Технические требования для SeaTable Cloud'
+    description: 'Достаточно современного браузера с JavaScript. Без установки, работает на любой системе.'
 ---
 
 Вы заинтересовались SeaTable Cloud, но все еще не уверены в **технических требованиях**? Нет проблем, в этой статье вы найдете всю техническую информацию о браузере, операционной системе и т.д., которую вы должны знать заранее.

@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/help/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+url: '/help/delete-or-mark-notifications-seatable'
+aliases:
+    - '/help/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+seo:
+    title: 'Delete or mark all notifications as read in SeaTable'
+    description: 'Learn to delete or mark all notifications as read in SeaTable – for better organization, teamwork, and automation clarity.'
 ---
 
 Notifications are an important part of collaboration in SeaTable and inform you, among other things, that automations have been triggered in your bases, comments have been added to a row , or bases have been shared with you. To help you keep track of notifications you receive, you can access them both from the Home screen and from within your bases.

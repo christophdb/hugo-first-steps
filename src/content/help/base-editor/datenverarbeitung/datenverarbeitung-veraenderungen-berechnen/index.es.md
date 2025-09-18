@@ -5,7 +5,12 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/es/ayuda/datenverarbeitung-veraenderungen-berechnen'
+url: '/es/ayuda/procesamiento-calcular-cambios-seatable'
+aliases:
+    - '/es/ayuda/datenverarbeitung-veraenderungen-berechnen'
+seo:
+    title: 'Calcule cambios entre valores numéricos en SeaTable'
+    description: 'Analice tendencias y calcule fácilmente las diferencias entre valores numéricos en sus tablas SeaTable gracias al plugin adecuado.'
 ---
 
 Con la función de tratamiento de datos, puede realizar varias operaciones en una columna. Una operación es el **cálculo de cambios**, con el que puede calcular los cambios de valor a valor en una columna numérica. Para ello, basta con definir la operación de tratamiento de datos correspondiente a través de las opciones de vista de la tabla.

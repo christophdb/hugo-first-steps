@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/welche-technischen-anforderungen-hat-seatable-cloud'
+url: '/help/seatable-cloud-requirements'
+aliases:
+    - '/help/welche-technischen-anforderungen-hat-seatable-cloud'
+seo:
+    title: 'SeaTable Cloud requirements: simply a browser'
+    description: 'All you need for SeaTable Cloud is a browser with JavaScript enabled. No installation or hardware required.'
 ---
 
 You are interested in SeaTable Cloud, but you are still unsure about the **technical requirements**? No problem, in this article you will find all the technical information about browser, operating system, etc. that you should know in advance.

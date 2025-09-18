@@ -6,6 +6,9 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-benutzernamen-uebertragen'
+seo:
+    title: 'Benutzernamen per Datenverarbeitung in SeaTable übertragen'
+    description: 'Übertragen Sie Benutzernamen automatisiert aus Mitarbeiter- oder Systemspalten in Textspalten – für Listen, Workflows und Filter.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) oder [Letzter Bearbeiter]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kopiert werden können.

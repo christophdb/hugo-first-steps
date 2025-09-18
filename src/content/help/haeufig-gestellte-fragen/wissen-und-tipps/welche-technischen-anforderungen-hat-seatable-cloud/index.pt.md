@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/pt/ajuda/welche-technischen-anforderungen-hat-seatable-cloud'
+url: '/pt/ajuda/requisitos-tecnicos-seatable-cloud'
+aliases:
+    - '/pt/ajuda/welche-technischen-anforderungen-hat-seatable-cloud'
+seo:
+    title: 'Requisitos técnicos para o SeaTable Cloud'
+    description: 'Navegador moderno com JavaScript basta para usar SeaTable Cloud. Funciona em qualquer SO, sem instalação.'
 ---
 
 Está interessado no SeaTable Cloud, mas ainda não tem a certeza sobre os **requisitos técnicos**? Não há problema, neste artigo encontrará toda a informação técnica sobre o navegador, sistema operativo, etc. que deverá conhecer com antecedência.

@@ -5,7 +5,12 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-veraenderungen-berechnen'
+url: '/help/data-processing-calculate-changes'
+aliases:
+    - '/help/datenverarbeitung-veraenderungen-berechnen'
+seo:
+    title: 'Calculate changes in numbers with SeaTable'
+    description: 'Calculate changes and differences between numeric values across rows in SeaTable. Perfect for data analysis and tracking trends.'
 ---
 
 Using the data processing function, you can perform various operations over a column. One operation is the **calculation of changes**, which allows you to calculate the changes from value to value in a numeric column. To do this, simply define an appropriate data processing operation using the view options of your table.

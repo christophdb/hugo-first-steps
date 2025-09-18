@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/es/ayuda/tabellenkopf-sperren'
+url: '/es/ayuda/bloquear-encabezado-seatable'
+aliases:
+    - '/es/ayuda/tabellenkopf-sperren'
+seo:
+    title: 'Bloquee el encabezado de la tabla en SeaTable'
+    description: 'Controle su estructura: Bloquee el encabezado y evite cambios en columnas de SeaTable por otros usuarios fácilmente.'
 ---
 
 Si dispone de la autorización necesaria, puede bloquear la **cabecera de** cada tabla para impedir que se añadan, muevan y editen columnas en la tabla. La gran ventaja es que puedes bloquear **todas las columnas al mismo** tiempo con un solo clic.

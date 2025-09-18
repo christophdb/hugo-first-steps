@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/pt/ajuda/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+url: '/pt/ajuda/compartilhamento-vs-dataset-comum'
+aliases:
+    - '/pt/ajuda/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+seo:
+    title: 'Compartilhamento individual x dataset comum no SeaTable'
+    description: 'Entenda melhor as diferenças e usos de compartilhamentos individuais e conjuntos de dados comuns na colaboração SeaTable.'
 ---
 
 No SeaTable, várias **acções individuais** estão disponíveis para si. Por exemplo, tem a opção de partilhar bases individuais, tabelas e pontos de vista com utilizadores individuais ou grupos inteiros.

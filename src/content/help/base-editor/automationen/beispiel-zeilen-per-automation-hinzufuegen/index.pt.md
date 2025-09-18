@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/pt/ajuda/zeilen-per-automation-hinzufuegen'
+url: '/pt/ajuda/adicionar-linhas-automaticamente-seatable'
+aliases:
+    - '/pt/ajuda/zeilen-per-automation-hinzufuegen'
+seo:
+    title: 'Adicione linhas automaticamente no SeaTable'
+    description: 'Crie novas linhas em tabelas SeaTable automaticamente por regras ou agenda – sem lançamentos manuais repetitivos.'
 ---
 
 Com a ajuda de automatizações, já não tem de adicionar manualmente linhas com determinadas entradas às suas tabelas, mas pode ter estas etapas executadas automaticamente. Basta definir uma automatização correspondente para qualquer visualização de tabela.

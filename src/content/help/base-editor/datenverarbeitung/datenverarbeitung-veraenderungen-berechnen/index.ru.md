@@ -5,7 +5,12 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-veraenderungen-berechnen'
+url: '/ru/pomoshch/obrabotka-vychislenie-izmeneniy-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-veraenderungen-berechnen'
+seo:
+    title: 'Вычисляйте изменения значений в SeaTable'
+    description: 'Рассчитывайте разницу между числами по строкам таблицы в SeaTable — просто управляйте тенденциями ваших данных и результатами.'
 ---
 
 Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. Одной из операций является **вычисление изменений**, с помощью которой можно вычислить изменения от значения к значению в числовом столбце. Для этого просто определите соответствующую операцию обработки данных в параметрах представления таблицы.

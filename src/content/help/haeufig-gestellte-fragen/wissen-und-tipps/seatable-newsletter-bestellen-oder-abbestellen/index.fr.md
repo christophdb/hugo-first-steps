@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/seatable-newsletter-bestellen-oder-abbestellen'
+url: '/fr/aide/newsletter-seatable-abonner-desabonner'
+aliases:
+    - '/fr/aide/seatable-newsletter-bestellen-oder-abbestellen'
+seo:
+    title: 'S’abonner ou se désabonner de la newsletter SeaTable'
+    description: 'Pour recevoir ou arrêter la newsletter SeaTable, utilisez le lien présent dans chaque email ou modifiez vos préférences.'
 ---
 
 Veillez à ne recevoir que les e-mails contenant des informations importantes pour vous en modifiant vos paramètres d'abonnement à la messagerie.

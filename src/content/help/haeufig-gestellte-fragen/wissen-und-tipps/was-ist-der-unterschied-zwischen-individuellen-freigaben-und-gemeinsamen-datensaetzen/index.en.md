@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+url: '/help/sharing-vs-common-datasets'
+aliases:
+    - '/help/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+seo:
+    title: 'Sharing vs. common datasets: key differences in SeaTable'
+    description: 'Learn the difference between individual sharing and common datasets in SeaTable, and which is best for your use case.'
 ---
 
 SeaTable provides you with various **individual sharing options**. For example, you have the option of sharing individual bases, tables and views with individual users or entire groups.

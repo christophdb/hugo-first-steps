@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/seatable-newsletter-bestellen-oder-abbestellen'
+url: '/ru/pomoshch/newsletter-seatable-podpiska-otpiska'
+aliases:
+    - '/ru/pomoshch/seatable-newsletter-bestellen-oder-abbestellen'
+seo:
+    title: 'Подписаться или отписаться от рассылки SeaTable'
+    description: 'Управляйте подпиской на рассылку SeaTable просто через ссылку в письме или настройки аккаунта — быстро и удобно.'
 ---
 
 Убедитесь, что вы получаете только важные для вас письма, изменив настройки подписки на электронную почту.

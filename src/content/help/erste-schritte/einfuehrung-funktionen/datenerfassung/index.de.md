@@ -6,6 +6,9 @@ categories:
     - 'seatable-nutzen'
 author: 'kgr'
 url: '/de/hilfe/datenerfassung'
+seo:
+    title: 'Datenerfassung in SeaTable: alle Möglichkeiten'
+    description: 'Erfahren Sie, wie Sie per Eingabe, Copy-and-Paste, Import, Webformularen und Automation in SeaTable Daten erfassen.'
 ---
 
 Dieser Artikel beleuchtet schlaglichtartig einige Möglichkeiten, wie Sie Daten in SeaTable erfassen können.

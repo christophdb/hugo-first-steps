@@ -5,7 +5,12 @@ lastmod: '2023-03-20'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/es/ayuda/datenverarbeitung-vergleichen-und-verknuepfen'
+url: '/es/ayuda/datos-comparar-vincular-seatable'
+aliases:
+    - '/es/ayuda/datenverarbeitung-vergleichen-und-verknuepfen'
+seo:
+    title: 'Compare y vincule datos en tablas de SeaTable'
+    description: 'Relacione registros de varias tablas en SeaTable automáticamente cuando los valores coincidan, sin esfuerzo manual.'
 ---
 
 Mediante la función de tratamiento de datos, puede realizar diversas operaciones con una columna. **Comparar y vincular** es una operación que permite vincular registros de dos tablas diferentes si el valor de una columna de ambas tablas es idéntico.

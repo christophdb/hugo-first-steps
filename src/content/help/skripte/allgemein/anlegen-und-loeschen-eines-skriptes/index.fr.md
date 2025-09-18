@@ -5,7 +5,12 @@ lastmod: '2023-07-21'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/fr/aide/anlegen-und-loeschen-eines-skriptes'
+url: '/fr/aide/creer-supprimer-script-seatable'
+aliases:
+    - '/fr/aide/anlegen-und-loeschen-eines-skriptes'
+seo:
+    title: 'Créer et supprimer des scripts dans SeaTable'
+    description: 'Ajoutez ou supprimez des scripts JS et Python dans SeaTable et accélérez vos automatisations facilement.'
 ---
 
 Qu'il s'agisse d'un script JavaScript ou Python, un script permet de faire de grandes choses dans SeaTable. Alors que JavaScript s'exécute dans le navigateur de l'utilisateur et est destiné à des manipulations de fichiers plutôt simples, les scripts Python s'exécutent directement sur le serveur SeaTable et sont donc plus puissants et plus polyvalents. Essayez-le et créez n'importe quel script au sein d'une base.

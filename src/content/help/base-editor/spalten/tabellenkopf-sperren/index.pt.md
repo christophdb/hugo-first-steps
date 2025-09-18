@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/pt/ajuda/tabellenkopf-sperren'
+url: '/pt/ajuda/travar-cabecalho-seatable'
+aliases:
+    - '/pt/ajuda/tabellenkopf-sperren'
+seo:
+    title: 'Trave o cabeçalho da tabela no SeaTable com facilidade'
+    description: 'Evite alterações indesejadas nas colunas travando o cabeçalho da tabela e mantenha sua estrutura intacta no SeaTable.'
 ---
 
 Se tiver a autorização necessária, pode **bloquear** o **cabeçalho da tabela em** cada tabela para impedir a adição, deslocação e edição de colunas na tabela. A grande vantagem é que pode bloquear **todas as colunas ao mesmo tempo** com um clique.

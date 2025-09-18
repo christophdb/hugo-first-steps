@@ -5,7 +5,12 @@ lastmod: '2023-04-12'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/pt/ajuda/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+url: '/pt/ajuda/adicionar-entradas-tabelas-automacao-seatable'
+aliases:
+    - '/pt/ajuda/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+seo:
+    title: 'Adicione entradas automaticamente noutras tabelas no SeaTable'
+    description: 'Crie entradas em várias tabelas do SeaTable com automação sempre que um gatilho for ativado, sem digitação manual.'
 ---
 
 Com a ajuda de automatizações, já não tem de fazer entradas noutras tabelas manualmente, mas pode ter estas etapas executadas automaticamente. A grande vantagem disto é que o gatilho não tem de estar na mesma tabela que a acção desencadeada.
