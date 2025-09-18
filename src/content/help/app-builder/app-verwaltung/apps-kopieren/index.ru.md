@@ -9,8 +9,8 @@ url: '/ru/pomoshch/kopirovat-i-nastroit-prilozhenie-v-seatable'
 aliases:
     - '/ru/pomoshch/apps-kopieren'
 seo:
-    title: 'Kopirovat i nastroĭit prilozhenie v SeaTable'
-    description: 'Uznaĭte, kak skopirovat priloženie SeaTable i bystro nastroĭt ego pod novye gruppy pol zovateleĭ ili trebovaniya.'
+    title: 'Копирование и настройка приложений в SeaTable'
+    description: 'Узнайте, как скопировать приложение SeaTable и быстро адаптировать его под новые группы пользователей или индивидуальные требования вашей команды.'
 ---
 
 Вы создали сложное **приложение**, которое хотели бы использовать в аналогичном виде для другой группы пользователей? Тогда просто **скопируйте** существующее приложение и адаптируйте его по своему усмотрению.
