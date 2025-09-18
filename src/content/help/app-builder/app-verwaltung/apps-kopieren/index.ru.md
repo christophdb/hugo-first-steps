@@ -5,7 +5,12 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'kgr'
-url: '/ru/pomoshch/apps-kopieren'
+url: '/ru/pomoshch/kopirovat-i-nastroit-prilozhenie-v-seatable'
+aliases:
+    - '/ru/pomoshch/apps-kopieren'
+seo:
+    title: 'Kopirovat i nastroĭit prilozhenie v SeaTable'
+    description: 'Uznaĭte, kak skopirovat priloženie SeaTable i bystro nastroĭt ego pod novye gruppy pol zovateleĭ ili trebovaniya.'
 ---
 
 Вы создали сложное **приложение**, которое хотели бы использовать в аналогичном виде для другой группы пользователей? Тогда просто **скопируйте** существующее приложение и адаптируйте его по своему усмотрению.

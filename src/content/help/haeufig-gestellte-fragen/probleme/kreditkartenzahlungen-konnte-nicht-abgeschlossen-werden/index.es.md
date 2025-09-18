@@ -5,7 +5,13 @@ lastmod: '2023-05-04'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/es/ayuda/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
+url: '/es/ayuda/pago-tarjeta-fallido-seatable'
+aliases:
+    - '/es/ayuda/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
+seo:
+    title: 'Pago con tarjeta fallido en SeaTable: soluciones'
+    description: 'Descubra cómo resolver errores de pago con tarjeta, problemas con 3D Secure y complete su suscripción de SeaTable.'
+
 ---
 
 Cuando contrata una suscripción de pago a SeaTable, normalmente se le pide que proporcione una autenticación adicional en forma de autenticación 3D Secure, además de proporcionar la información de su tarjeta de crédito. 3D Secure es una capa de autenticación adicional para las transacciones con tarjeta de crédito que se supone que hace más seguros los pagos en Internet. Este mecanismo de seguridad causa problemas una y otra vez, por lo que el pago deseado no puede realizarse con éxito y usted no puede cambiar a SeaTable Plus o Enterprise.

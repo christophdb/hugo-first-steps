@@ -6,6 +6,10 @@ categories:
     - 'big-data'
 author: 'cdb'
 url: '/de/hilfe/potenzial-big-data'
+seo:
+    title: 'SeaTable Big Data: Millionen Zeilen in einer Base speichern'
+    description: 'Entdecken Sie, wie Sie dank Big-Data-Speicher in SeaTable Millionen Zeilen pro Base verarbeiten und flexibel nutzen.'
+
 ---
 
 {{< required-version "Enterprise" >}}

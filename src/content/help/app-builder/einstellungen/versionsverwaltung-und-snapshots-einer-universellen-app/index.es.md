@@ -5,7 +5,12 @@ lastmod: '2024-02-16'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/es/ayuda/versionsverwaltung-und-snapshots-einer-universellen-app'
+url: '/es/ayuda/control-versiones-y-snapshots-app-universal'
+aliases:
+    - '/es/ayuda/versionsverwaltung-und-snapshots-einer-universellen-app'
+seo:
+    title: 'Control de versiones y snapshots en la App Universal'
+    description: 'Descubra cómo usar snapshots para guardar, ver, restaurar y gestionar versiones en la App Universal y mantener control total sobre sus cambios.'
 ---
 
 Puede utilizar **instantáneas** para guardar la versión actual de una aplicación universal. Puede **crear**, **ver**, **restaurar** y **eliminar** instantáneas en la gestión de versiones de Universal App Builder. También puedes hacer **notas** en las instantáneas individuales para registrar información sobre una versión.

@@ -6,6 +6,10 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
 url: '/de/hilfe/was-ist-eine-ansicht'
+seo:
+    title: 'Was ist eine Ansicht in SeaTable?'
+    description: 'Erfahren Sie, wie Ansichten in SeaTable funktionieren und wie Sie individuelle Sichten auf Ihre Tabellendaten anlegen.'
+
 ---
 
 Immer wenn Sie Ihre Daten in einer Tabelle betrachten, betrachten Sie diese über eine **Ansicht**. Selbst wenn Sie eine brandneue Tabelle angelegt haben, betrachten Sie diese bereits in der standardmäßig mitgelieferten Ansicht **"Default View"**.

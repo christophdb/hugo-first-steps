@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/pt/ajuda/was-ist-eine-ansicht'
+url: '/pt/ajuda/o-que-e-uma-visualizacao'
+aliases:
+    - '/pt/ajuda/was-ist-eine-ansicht'
+seo:
+    title: 'O que é uma visualização no SeaTable?'
+    description: 'Saiba o que é uma visualização no SeaTable e como personalizar a visualização dos seus dados em tabelas.'
+
 ---
 
 Sempre que visualiza os seus dados numa tabela, está a visualizá-los através de uma **vista**. Mesmo que tenha criado uma nova tabela, já está a visualizá-la na **"Vista predefinida"** fornecida por defeito.

@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/es/ayuda/das-dateimanagement-einer-base'
+url: '/es/ayuda/gestion-archivos-base-seatable'
+aliases:
+    - '/es/ayuda/das-dateimanagement-einer-base'
+seo:
+    title: 'Gestión de archivos en SeaTable: organiza y edita fácil'
+    description: 'Descubra cómo gestionar y editar archivos y carpetas en su base de SeaTable de forma centralizada y eficiente.'
+
 ---
 
 La **gestión de** archivos revoluciona la forma de manejar los archivos en tu Base. Puedes cargar, renombrar, copiar, mover, descargar y eliminar **archivos** directamente. Incluso puedes crear **nuevos documentos** (por ejemplo, archivos Excel, Word o PowerPoint) y editarlos con el editor integrado.

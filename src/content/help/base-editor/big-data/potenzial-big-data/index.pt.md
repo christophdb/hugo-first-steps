@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/pt/ajuda/potenzial-big-data'
+url: '/pt/ajuda/big-data-funcionalidades-seatable'
+aliases:
+    - '/pt/ajuda/potenzial-big-data'
+seo:
+    title: 'SeaTable Big Data: milhões de linhas em uma base'
+    description: 'Veja como a função Big Data do SeaTable permite trabalhar com milhões de linhas por base na plataforma.'
+
 ---
 
 {{< required-version "Empresa" >}}

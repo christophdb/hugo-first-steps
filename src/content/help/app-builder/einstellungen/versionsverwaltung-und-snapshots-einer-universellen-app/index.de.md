@@ -6,6 +6,9 @@ categories:
     - 'universelle-apps'
 author: 'kgr'
 url: '/de/hilfe/versionsverwaltung-und-snapshots-einer-universellen-app'
+seo:
+    title: 'Versionsverwaltung & Snapshots in der Universellen App'
+    description: 'Erfahren Sie, wie Sie mit Snapshots Versionen Ihrer Universellen App speichern, anzeigen, wiederherstellen und verwalten, um Änderungen sicher nachzuvollziehen.'
 ---
 
 Mithilfe von **Snapshots** können Sie die aktuelle Version einer Universellen App speichern. Snapshots können Sie in der Versionsverwaltung des Universal App Builders **erstellen**, **ansehen**, **wiederherstellen** und **löschen**. Zudem können Sie **Hinweise** zu den einzelnen Snapshots notieren, um Informationen zu einer Version festzuhalten.

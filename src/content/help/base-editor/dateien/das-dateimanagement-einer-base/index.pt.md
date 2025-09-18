@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/pt/ajuda/das-dateimanagement-einer-base'
+url: '/pt/ajuda/gerenciamento-arquivos-base-seatable'
+aliases:
+    - '/pt/ajuda/das-dateimanagement-einer-base'
+seo:
+    title: 'Gerenciamento de arquivos na base do SeaTable'
+    description: 'Aprenda a organizar, gerenciar e editar arquivos e pastas com facilidade na sua base do SeaTable.'
+
 ---
 
 **A gestão de ficheiros** revoluciona a forma como trata os ficheiros na sua Base. Pode carregar, renomear, copiar, mover, descarregar e apagar **ficheiros** diretamente na Base. Pode até criar **novos documentos** (por exemplo, ficheiros Excel, Word ou PowerPoint) e editá-los utilizando o editor integrado.

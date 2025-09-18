@@ -6,6 +6,9 @@ categories:
     - 'zapier-integration'
 author: 'cdb'
 url: '/de/hilfe/haeufige-fragen-und-probleme-rund-um-zapier'
+seo:
+    title: 'Zapier: Häufige Fragen und typische Probleme'
+    description: 'Antworten auf die meistgestellten Fragen zu Zapier, bekannte Probleme und wertvolle Praxistipps für Nutzer.'
 ---
 
 Zapier beschreibt sich selbst als Plattform, mit der man intuitiv Automationen zwischen über 5.000+ Apps erstellen kann. Es erfordert lediglich wenige Klicks im drag-and-drop Editor, um die notwendigen Trigger und Aktionen zu definieren.

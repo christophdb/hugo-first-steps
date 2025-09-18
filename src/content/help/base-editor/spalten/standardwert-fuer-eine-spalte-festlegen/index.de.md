@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'kgr'
 url: '/de/hilfe/standardwert-fuer-eine-spalte-festlegen'
+seo:
+    title: 'Standardwert für eine Spalte in SeaTable festlegen'
+    description: 'Erfahren Sie, wie Sie Standardwerte für Spalten definieren, um neue Zeilen automatisch mit voreingestellten Werten auszufüllen und Zeit zu sparen.'
 ---
 
 Wenn Sie einen **Standardwert** für eine Spalte festlegen, wird dieser **automatisch in jede neue Zeile** der Tabelle eingetragen. Mit vordefinierten Standardwerten können Sie sich also einige Klicks beim [Hinzufügen neuer Zeilen]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) ersparen. Die automatisch eingetragenen Werte können Sie anschließend natürlich noch manuell anpassen.

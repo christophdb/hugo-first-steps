@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/was-ist-eine-ansicht'
+url: '/ru/pomoshch/chto-takoe-predstavlenie'
+aliases:
+    - '/ru/pomoshch/was-ist-eine-ansicht'
+seo:
+    title: 'Chto takoye predstavlenie v SeaTable?'
+    description: 'Uznaĭte, chto takoye predstavlenie v SeaTable i kak nastroĭt individyal nyy vid dlya svoikh dannykh tablitsy.'
+
 ---
 
 Всякий раз, когда вы просматриваете данные в таблице, вы просматриваете их с помощью **представления**. Даже если вы создали совершенно новую таблицу, вы уже просматриваете ее в **"Представлении по умолчанию"**, предусмотренном по умолчанию.

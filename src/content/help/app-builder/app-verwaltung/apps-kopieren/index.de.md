@@ -6,6 +6,9 @@ categories:
     - 'apps'
 author: 'kgr'
 url: '/de/hilfe/apps-kopieren'
+seo:
+    title: 'App in SeaTable kopieren und anpassen'
+    description: 'Erfahren Sie, wie Sie bestehende Apps in SeaTable mit wenigen Klicks kopieren und flexibel an neue Anforderungen anpassen.'
 ---
 
 Sie haben eine ausgefeilte **App** gebaut, die Sie in ähnlicher Form für eine weitere Nutzergruppe verwenden möchten? Dann **kopieren** Sie einfach die bestehende App und passen Sie die Kopie nach Belieben an.

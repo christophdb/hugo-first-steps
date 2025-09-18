@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'kgr'
-url: '/pt/ajuda/standardwert-fuer-eine-spalte-festlegen'
+url: '/pt/ajuda/definir-valor-padrao-coluna'
+aliases:
+    - '/pt/ajuda/standardwert-fuer-eine-spalte-festlegen'
+seo:
+    title: 'Definir valor padrão para uma coluna no SeaTable'
+    description: 'Saiba como definir valores padrão em colunas do SeaTable para preencher novas linhas automaticamente e ganhar tempo na inserção de dados.'
 ---
 
 Se definir um **valor prede** finido para uma coluna, este é **automaticamente introduzido em cada nova linha** da tabela. Com valores predefinidos, pode poupar alguns cliques ao [adicionar novas linhas]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). É claro que pode ajustar manualmente os valores introduzidos automaticamente mais tarde.
