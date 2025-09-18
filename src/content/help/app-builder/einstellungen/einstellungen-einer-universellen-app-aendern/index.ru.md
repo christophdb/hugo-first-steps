@@ -5,7 +5,12 @@ lastmod: '2025-07-03'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/ru/pomoshch/einstellungen-einer-universellen-app-aendern'
+url: '/ru/pomoshch/izmenit-globalnye-nastroyki-universalnogo-prilozheniya'
+aliases:
+    - '/ru/pomoshch/einstellungen-einer-universellen-app-aendern'
+seo:
+    title: 'Izmenit global nye nastroĭki Universal nogo Prilozheniya'
+    description: 'Uznaite, kak naстраivat global nye nastroĭki, URL i prava dostupa v Universal nom Prilozhenii SeaTable.'
 ---
 
 В **универсальном приложении** можно несколькими щелчками мыши задать различные **глобальные настройки**, которые влияют на конфигурацию и внешний вид всего приложения.

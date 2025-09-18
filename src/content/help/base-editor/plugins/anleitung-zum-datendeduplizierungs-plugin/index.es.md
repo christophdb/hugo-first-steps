@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/es/ayuda/anleitung-zum-datendeduplizierungs-plugin'
+url: '/es/ayuda/guia-plugin-deduplicacion-datos'
+aliases:
+    - '/es/ayuda/anleitung-zum-datendeduplizierungs-plugin'
+seo:
+    title: 'Elimine duplicados fácil con el plugin de deduplicación'
+    description: 'Detecte y borre registros duplicados en sus tablas SeaTable de manera sencilla gracias al plugin de deduplicación de datos.'
 ---
 
 Con el complemento de deduplicación de datos, puede comprobar si hay **entradas duplicadas en** sus tablas y **eliminarlas** automáticamente con un solo clic.

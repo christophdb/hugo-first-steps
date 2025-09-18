@@ -6,6 +6,11 @@ categories:
     - 'universelle-apps'
 author: 'kgr'
 url: '/fr/aide/einstellungen-einer-universellen-app-aendern'
+aliases:
+    - '/fr/aide/einstellungen-einer-universellen-app-aendern'
+seo:
+    title: 'Modifier les réglages globaux d’une App Universelle'
+    description: 'Découvrez comment ajuster les paramètres globaux, URLs et droits d’accès dans une App Universelle SeaTable.'
 ---
 
 Au sein d'une **application universelle**, il est possible de procéder en quelques clics à différents **réglages globaux** qui concernent la configuration et l'apparence de l'ensemble de l'application.

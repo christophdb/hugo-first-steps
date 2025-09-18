@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/fr/aide/anleitung-zum-datendeduplizierungs-plugin'
+url: '/fr/aide/guide-plugin-deduplication'
+aliases:
+    - '/fr/aide/anleitung-zum-datendeduplizierungs-plugin'
+seo:
+    title: 'Supprimez les doublons rapidement avec le plugin dédié'
+    description: 'Repérez et supprimez les doublons dans vos tableaux SeaTable en un clic avec ce plugin simple et performant pour votre gestion.'
 ---
 
 Le plug-in de déduplication des données vous permet de vérifier si vos tableaux **contiennent des entrées en double** et de les **supprimer** automatiquement en un seul clic.

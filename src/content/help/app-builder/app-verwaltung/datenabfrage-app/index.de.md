@@ -6,6 +6,9 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/datenabfrage-app'
+seo:
+    title: 'Datenabfrage-App: Datensätze gezielt durchsuchen'
+    description: 'Erfahren Sie, wie Sie mit der Datenabfrage-App große Datensätze einfach per Suchmaske durchsuchen und Suchergebnisse teilen.'
 ---
 
 Mithilfe einer **Datenabfrage-App** können Sie anderen Nutzern ermöglichen, Ihre Datensätze über bestimmte **Felder** hinweg nach spezifischen **Werten** zu durchsuchen. Eine solche **Suchmaske** erweist sich besonders bei umfangreichen Datensätzen wie Produktkatalogen oder Bibliotheken als hilfreich.
