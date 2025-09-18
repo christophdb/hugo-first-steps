@@ -5,7 +5,13 @@ lastmod: '2023-05-04'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/pt/ajuda/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
+url: '/pt/ajuda/pagamento-cartao-recusado-seatable'
+aliases:
+    - '/pt/ajuda/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
+seo:
+    title: 'Pagamento com cartão recusado no SeaTable: como agir'
+    description: 'Saiba porque seu pagamento com cartão foi recusado no SeaTable e veja dicas para resolver problemas com 3D Secure.'
+
 ---
 
 Quando efectua uma subscrição paga do SeaTable, é-lhe normalmente pedido que forneça uma autenticação adicional sob a forma de autenticação 3D Secure, para além de fornecer as informações do seu cartão de crédito. O 3D Secure é uma camada de autenticação adicional para transacções com cartão de crédito que, supostamente, torna os pagamentos na Internet mais seguros. Este mecanismo de segurança causa problemas repetidamente, razão pela qual o pagamento pretendido não pode ser efectuado com êxito e não é possível mudar para o SeaTable Plus ou Enterprise.

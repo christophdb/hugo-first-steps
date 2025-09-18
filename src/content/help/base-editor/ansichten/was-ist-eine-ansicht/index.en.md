@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/was-ist-eine-ansicht'
+url: '/help/what-is-a-view'
+aliases:
+    - '/help/was-ist-eine-ansicht'
+seo:
+    title: 'What is a view in SeaTable?'
+    description: 'Learn what a view is in SeaTable and how to create, customize and manage table views for personal productivity.'
+
 ---
 
 Whenever you view your data in a table, you view it through a **view**. Even if you have created a brand new table, you are already viewing it in the **Default** View that comes with it by default.

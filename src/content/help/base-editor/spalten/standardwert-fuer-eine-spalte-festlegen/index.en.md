@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'kgr'
-url: '/help/standardwert-fuer-eine-spalte-festlegen'
+url: '/help/set-default-value-for-a-column'
+aliases:
+    - '/help/standardwert-fuer-eine-spalte-festlegen'
+seo:
+    title: 'Set default value for a column in SeaTable'
+    description: 'Learn how to define default column values in SeaTable to automatically fill new rows with predefined entries and streamline data entry.'
 ---
 
 If you define a **default value** for a column, this is **automatically entered in every new row** in the table. With predefined default values, you can save yourself a few clicks when [adding new rows]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Of course, you can still adjust the automatically entered values manually afterwards.

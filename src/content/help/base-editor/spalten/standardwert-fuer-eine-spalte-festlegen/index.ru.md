@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'kgr'
-url: '/ru/pomoshch/standardwert-fuer-eine-spalte-festlegen'
+url: '/ru/pomoshch/ustanovit-znachenie-po-umolchaniyu-dlya-stolbtsa'
+aliases:
+    - '/ru/pomoshch/standardwert-fuer-eine-spalte-festlegen'
+seo:
+    title: 'Ustanovit znachenie po umolchaniyu dlya stolbtsa'
+    description: 'Uznaĭte, kak zadat znacheniya po umolchaniyu v stolbtsakh SeaTable, chtoby avtomaticheski zapolnyat novye stroki i sokhranit vremya.'
 ---
 
 Если вы зададите **значение по умолчанию** для столбца, оно будет **автоматически вводиться в каждую новую строку** таблицы. Благодаря предопределенным значениям по умолчанию вы можете сэкономить несколько кликов при [добавлении новых строк]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Разумеется, впоследствии вы можете вручную скорректировать автоматически введенные значения.

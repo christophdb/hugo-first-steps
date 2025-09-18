@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/pomoshch/potenzial-big-data'
+url: '/ru/pomoshch/seatable-big-data-vozmozhnosti'
+aliases:
+    - '/ru/pomoshch/potenzial-big-data'
+seo:
+    title: 'SeaTable Big Data: milliony strok v odnoy baze'
+    description: 'Uznaite, kak organizovat i analizirovat milliony strok v SeaTable blagodarya funktsii Big Data.'
+
 ---
 
 {{< required-version "Предприятие" >}}

@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/fr/aide/potenzial-big-data'
+url: '/fr/aide/big-data-fonctionnalites-seatable'
+aliases:
+    - '/fr/aide/potenzial-big-data'
+seo:
+    title: 'SeaTable Big Data : stockez des millions de lignes par base'
+    description: 'Apprenez à gérer efficacement des millions de lignes dans SeaTable grâce au stockage Big Data pour chaque base.'
+
 ---
 
 {{< required-version "Entreprise" >}}

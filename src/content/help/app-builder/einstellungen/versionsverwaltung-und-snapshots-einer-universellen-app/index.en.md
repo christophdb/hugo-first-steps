@@ -5,7 +5,12 @@ lastmod: '2024-02-16'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/help/versionsverwaltung-und-snapshots-einer-universellen-app'
+url: '/help/version-control-and-snapshots-universal-app'
+aliases:
+    - '/help/versionsverwaltung-und-snapshots-einer-universellen-app'
+seo:
+    title: 'Version control & snapshots in the Universal App Builder'
+    description: 'Learn how to use snapshots in the Universal App Builder to save, view, restore and manage app versions, ensuring control over changes and settings.'
 ---
 
 You can use **snapshots** to save the current version of a universal app. You can **create**, **view**, **restore** and **delete** snapshots in the version management of the Universal App Builder. You can also make **notes** on the individual snapshots to record information about a version.

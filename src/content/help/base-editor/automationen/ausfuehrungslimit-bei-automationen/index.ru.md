@@ -6,6 +6,9 @@ categories:
     - 'automationen'
 author: 'kgr'
 url: '/ru/pomoshch/ausfuehrungslimit-bei-automationen'
+seo:
+    title: 'Limit vypolneniya avtomatizatsii v SeaTable'
+    description: 'Uznaĭte o limite 50 zapuskov avtomatizatsii v minutu v SeaTable i pravil no organizuĭte svoĭ avtomatizirovannyi rabochiĭ process.'
 ---
 
 Вы работаете с [автоматизациями]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) в своей базе, которые срабатывают по новым или измененным записям? Тогда обратите внимание на следующее: Если Вы добавляете или изменяете более 50 записей в минуту, то может случиться так, что нужные [действия автоматики]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) не будут запущены. Причиной этого является ограничение на выполнение автоматизаций.

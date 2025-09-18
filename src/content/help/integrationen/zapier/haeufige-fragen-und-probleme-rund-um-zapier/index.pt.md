@@ -5,7 +5,12 @@ lastmod: '2023-07-03'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/pt/ajuda/haeufige-fragen-und-probleme-rund-um-zapier'
+url: '/pt/ajuda/zapier-duvidas-frequentes-problemas'
+aliases:
+    - '/pt/ajuda/haeufige-fragen-und-probleme-rund-um-zapier'
+seo:
+    title: 'Zapier: principais dúvidas e problemas resolvidos'
+    description: 'Confira as respostas para dúvidas frequentes sobre Zapier e como resolver problemas típicos rapidamente.'
 ---
 
 O Zapier descreve-se como uma plataforma que lhe permite criar intuitivamente automações entre mais de 5.000 aplicações. São necessários apenas alguns cliques no editor de arrastar e largar para definir os accionadores e as acções necessárias.

@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/es/ayuda/was-ist-eine-ansicht'
+url: '/es/ayuda/que-es-una-vista'
+aliases:
+    - '/es/ayuda/was-ist-eine-ansicht'
+seo:
+    title: '¿Qué es una vista en SeaTable?'
+    description: 'Descubra qué es una vista en SeaTable y cómo usarla para mostrar y filtrar sus datos de forma personalizada.'
+
 ---
 
 Siempre que visualiza sus datos en una tabla, lo hace a través de una **vista**. Incluso si ha creado una tabla nueva, ya la está visualizando en la **"Vista por defecto**" proporcionada por defecto.

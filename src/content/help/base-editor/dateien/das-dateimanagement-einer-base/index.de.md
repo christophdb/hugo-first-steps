@@ -6,6 +6,10 @@ categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
 url: '/de/hilfe/das-dateimanagement-einer-base'
+seo:
+    title: 'Dateiverwaltung in SeaTable: Dateien einfach organisieren'
+    description: 'Erfahren Sie, wie Sie Dateien und Ordner in Ihrer SeaTable Base effizient verwalten, bearbeiten und strukturieren.'
+
 ---
 
 Die **Dateiverwaltung** revolutioniert den Umgang mit Dateien in Ihrer Base. Sie können **Dateien** dort direkt hochladen, umbenennen, kopieren, verschieben, herunterladen und löschen. Sogar **neue Dokumente** (z. B. Excel-, Word- oder PowerPoint-Dateien) können Sie dort erstellen und über den integrierten Editor bearbeiten.

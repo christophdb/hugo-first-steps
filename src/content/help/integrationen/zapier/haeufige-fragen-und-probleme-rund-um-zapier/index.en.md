@@ -5,7 +5,12 @@ lastmod: '2023-07-03'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/help/haeufige-fragen-und-probleme-rund-um-zapier'
+url: '/help/zapier-faq-and-common-issues'
+aliases:
+    - '/help/haeufige-fragen-und-probleme-rund-um-zapier'
+seo:
+    title: 'Zapier FAQ: Troubleshooting & helpful answers'
+    description: 'Find the most frequently asked questions about Zapier plus solutions to common issues and expert best practices.'
 ---
 
 Zapier describes itself as a platform that allows you to intuitively create automations between over 5,000+ apps. It requires only a few clicks in the drag-and-drop editor to define the necessary triggers and actions.

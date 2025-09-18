@@ -5,7 +5,12 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'kgr'
-url: '/fr/aide/apps-kopieren'
+url: '/fr/aide/copier-app'
+aliases:
+    - '/fr/aide/apps-kopieren'
+seo:
+    title: 'Copier et adapter une app dans SeaTable'
+    description: 'Apprenez à dupliquer et personnaliser une app SeaTable pour réutiliser vos configurations avec de nouveaux utilisateurs ou équipes.'
 ---
 
 Vous avez construit une **app** sophistiquée que vous souhaitez utiliser sous une forme similaire pour un autre groupe d'utilisateurs ? Il vous suffit alors de **copier** l'application existante et d'adapter la copie à votre guise.

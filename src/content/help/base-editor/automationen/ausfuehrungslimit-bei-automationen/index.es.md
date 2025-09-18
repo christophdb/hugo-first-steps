@@ -5,7 +5,12 @@ lastmod: '2023-08-07'
 categories:
     - 'automationen'
 author: 'kgr'
-url: '/es/ayuda/ausfuehrungslimit-bei-automationen'
+url: '/es/ayuda/limite-ejecucion-automatizaciones'
+aliases:
+    - '/es/ayuda/ausfuehrungslimit-bei-automationen'
+seo:
+    title: 'Límite de ejecución para automatizaciones en SeaTable'
+    description: 'Descubra cómo funciona el límite de 50 ejecuciones por minuto en las automatizaciones de SeaTable y evite errores en sus flujos de trabajo.'
 ---
 
 ¿Trabaja con [automatizaciones]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) en su base que se activan por entradas nuevas o modificadas? Entonces tenga en cuenta lo siguiente: Si añade o modifica más de 50 entradas por minuto, puede ocurrir que no se inicien las [acciones]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) de automatización deseadas. El motivo es el límite de ejecución de las automatizaciones.

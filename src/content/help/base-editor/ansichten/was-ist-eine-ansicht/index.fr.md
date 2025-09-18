@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/fr/aide/was-ist-eine-ansicht'
+url: '/fr/aide/quest-ce-quune-vue-seatable'
+aliases:
+    - '/fr/aide/was-ist-eine-ansicht'
+seo:
+    title: 'Qu’est-ce qu’une vue dans SeaTable ?'
+    description: 'Découvrez le fonctionnement des vues dans SeaTable et personnalisez simplement l’affichage de vos données.'
+
 ---
 
 Chaque fois que vous consultez vos données dans un tableau, vous le faites via une **vue**. Même si vous avez créé un tout nouveau tableau, vous le consultez déjà dans la **vue "Default View"** fournie par défaut **.**

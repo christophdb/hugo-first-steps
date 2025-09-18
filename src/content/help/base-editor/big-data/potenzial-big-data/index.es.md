@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/es/ayuda/potenzial-big-data'
+url: '/es/ayuda/big-data-opciones-seatable'
+aliases:
+    - '/es/ayuda/potenzial-big-data'
+seo:
+    title: 'SeaTable Big Data: millones de filas en una base'
+    description: 'Descubra cómo SeaTable permite almacenar y gestionar millones de filas por base gracias a la función de big data.'
+
 ---
 
 {{< required-version "Empresa" >}}

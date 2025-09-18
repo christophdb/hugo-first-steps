@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/ru/pomoshch/das-dateimanagement-einer-base'
+url: '/ru/pomoshch/upravlenie-faylami-v-baze-seatable'
+aliases:
+    - '/ru/pomoshch/das-dateimanagement-einer-base'
+seo:
+    title: 'Upravlenie faylami v baze SeaTable'
+    description: 'Uznaĭte, kak upravlyat, organizovyvat i redaktirovat fayly v baze SeaTable bystro i effektivno.'
+
 ---
 
 **Управление файлами** революционизирует способ работы с файлами в вашей базе. Вы можете загружать, переименовывать, копировать, перемещать, скачивать и удалять **файлы** напрямую. Вы даже можете создавать **новые документы** (например, файлы Excel, Word или PowerPoint) и редактировать их с помощью встроенного редактора.
