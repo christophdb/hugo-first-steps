@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+url: '/help/how-team-members-affect-subscription-costs'
+aliases:
+    - '/help/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+seo:
+    title: 'How team size affects SeaTable subscription costs'
+    description: 'Find out how your team’s user count directly impacts subscription pricing in SeaTable Cloud.'
 ---
 
 There are always questions about the SeaTable Cloud license model and the costs for individual users. This article is intended to clarify the matter and answer all your questions.

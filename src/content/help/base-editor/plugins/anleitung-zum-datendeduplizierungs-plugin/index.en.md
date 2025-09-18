@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/help/anleitung-zum-datendeduplizierungs-plugin'
+url: '/help/data-deduplication-plugin-guide'
+aliases:
+    - '/help/anleitung-zum-datendeduplizierungs-plugin'
+seo:
+    title: 'Remove duplicate data easily with the deduplication plugin'
+    description: 'Quickly identify and delete duplicate records in SeaTable tables. Clean up your data with just a click using this plugin.'
 ---
 
 With the data deduplication plugin you can check your tables for **duplicate entries** and have them **deleted** automatically with just one click.

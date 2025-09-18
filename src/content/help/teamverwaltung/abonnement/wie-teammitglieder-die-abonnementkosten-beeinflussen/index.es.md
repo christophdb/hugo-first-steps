@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+url: '/es/ayuda/como-miembros-influyen-coste-suscripcion'
+aliases:
+    - '/es/ayuda/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+seo:
+    title: 'Cómo los miembros influyen en el coste de la suscripción'
+    description: 'Descubra cómo el número de miembros de su equipo determina el coste total de su suscripción a SeaTable Cloud.'
 ---
 
 Siempre surgen preguntas sobre el modelo de licencia de SeaTable Cloud y los costes para usuarios individuales. Este artículo pretende aclarar el asunto y responder a todas sus preguntas.

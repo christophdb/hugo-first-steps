@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/ru/pomoshch/anleitung-zum-datendeduplizierungs-plugin'
+url: '/ru/pomoshch/instruktsiya-po-plaginu-poiska-dublikatov'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-datendeduplizierungs-plugin'
+seo:
+    title: 'Найдите и удалите дубликаты с помощью плагина'
+    description: 'Быстро находите и удаляйте дублирующиеся записи в таблицах SeaTable с помощью удобного плагина для дедупликации.'
 ---
 
 С помощью плагина дедупликации данных вы можете проверить свои таблицы на наличие **дубликатов** и автоматически **удалить** их одним щелчком мыши.

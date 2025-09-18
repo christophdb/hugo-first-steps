@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/ru/pomoshch/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+url: '/ru/pomoshch/filtr-po-id-polzovatelya'
+aliases:
+    - '/ru/pomoshch/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+seo:
+    title: 'Фильтр по ID пользователя в SeaTable'
+    description: 'Используйте ID пользователя для динамических фильтров и гибкого распределения задач. Больше, чем обычные столбцы.'
 ---
 
 Идентификатор пользователя лучше всего описать как **персональный идентификационный номер**. Идентификатор пользователя уникален в пределах команды и всегда принадлежит члену команды.

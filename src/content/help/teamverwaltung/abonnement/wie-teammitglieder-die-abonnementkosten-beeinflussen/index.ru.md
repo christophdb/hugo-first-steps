@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+url: '/ru/pomoshch/kak-uchastniki-komandy-vliyayut-na-stoimost-podpisk'
+aliases:
+    - '/ru/pomoshch/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+seo:
+    title: 'Как участники команды влияют на стоимость подписки SeaTable'
+    description: 'Узнайте, как количество участников вашей команды влияет на общую стоимость подписки SeaTable Cloud.'
 ---
 
 Всегда возникают вопросы о модели лицензирования SeaTable Cloud и стоимости для отдельных пользователей. Цель этой статьи - внести ясность в этот вопрос и ответить на все ваши вопросы.

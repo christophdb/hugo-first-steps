@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/fr/aide/datenabfrage-app'
+url: '/fr/aide/application-recherche-donnees'
+aliases:
+    - '/fr/aide/datenabfrage-app'
+seo:
+    title: 'Appli de recherche de données : filtrer et partager des résultats'
+    description: 'Découvrez comment la recherche de données permet de trouver, filtrer et partager rapidement des ensembles volumineux de données.'
 ---
 
 Une **application de recherche de données** vous permet de permettre à d'autres utilisateurs de rechercher des **valeurs** spécifiques dans vos ensembles de données à travers certains **champs**. Un tel **masque de recherche** est particulièrement utile pour les ensembles de données volumineux tels que les catalogues de produits ou les bibliothèques.

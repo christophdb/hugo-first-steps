@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'nsc2'
 url: '/de/hilfe/anleitung-zum-datendeduplizierungs-plugin'
+seo:
+    title: 'Doppelte Daten per Plugin schnell finden und löschen'
+    description: 'Finden und entfernen Sie doppelte Einträge in Ihren SeaTable-Tabellen mit dem Plugin schnell und komfortabel – jetzt testen.'
 ---
 
 Mit dem Datendeduplizierungs-Plugin können Sie Ihre Tabellen auf **doppelte Einträge** überprüfen und diese automatisch mit nur einem Klick **löschen** lassen.

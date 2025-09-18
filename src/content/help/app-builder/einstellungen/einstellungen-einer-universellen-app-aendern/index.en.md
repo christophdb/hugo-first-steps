@@ -5,7 +5,12 @@ lastmod: '2025-07-03'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/help/einstellungen-einer-universellen-app-aendern'
+url: '/help/change-universal-app-global-settings'
+aliases:
+    - '/help/einstellungen-einer-universellen-app-aendern'
+seo:
+    title: 'Change global settings in a Universal App'
+    description: 'Learn how to customize global settings, URLs, navigation and access control in your SeaTable Universal App.'
 ---
 
 Within a **universal app**, you can make various **global settings** that affect the configuration and appearance of the entire app with just a few clicks.

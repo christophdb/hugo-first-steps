@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/pt/ajuda/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+url: '/pt/ajuda/id-usuario-filtro-seatable'
+aliases:
+    - '/pt/ajuda/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+seo:
+    title: 'ID do usuário: filtro dinâmico no SeaTable'
+    description: 'Use a ID do usuário em filtros para atribuições flexíveis e seguras de tarefas no SeaTable, além das colunas padrão.'
 ---
 
 O ID de utilizador é melhor descrito como um **número de identificação pessoal**. O ID de utilizador é único dentro da equipa e pertence sempre a um membro da equipa.

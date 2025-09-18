@@ -6,6 +6,9 @@ categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
 url: '/de/hilfe/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+seo:
+    title: 'User-ID in SeaTable: Filtern nach eindeutiger Kennung'
+    description: 'Nutzen Sie die User-ID für dynamische Filter und optimale Aufgabenverteilung. Mehr Flexibilität als mit klassischen Spalten.'
 ---
 
 Die ID des Users lässt sich am besten mit einer **persönlichen Identifikationsnummer** beschreiben. Die ID des Users ist einzigartig innerhalb des Teams und gehört immer zu einem Teammitglied.
