@@ -5,7 +5,12 @@ lastmod: '2023-03-20'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-verknuepfen'
+url: '/ru/pomoshch/sravnit-i-svyazat-dannye-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-vergleichen-und-verknuepfen'
+seo:
+    title: 'Сравните и свяжите данные в SeaTable'
+    description: 'Связывайте записи двух таблиц SeaTable автоматически при совпадении значений в выбранных столбцах – всё за пару шагов.'
 ---
 
 Функция обработки данных позволяет выполнять различные операции над столбцом. **Сравнение и связь** - это операция, которая позволяет связать записи в двух разных таблицах, если значение столбца в обеих таблицах одинаково.

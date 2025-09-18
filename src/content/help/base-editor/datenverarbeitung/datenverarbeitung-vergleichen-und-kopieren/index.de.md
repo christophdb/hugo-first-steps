@@ -6,6 +6,9 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-vergleichen-und-kopieren'
+seo:
+    title: 'Daten vergleichen und kopieren in SeaTable'
+    description: 'Kopieren Sie mit einer Operation Werte aus einer Tabelle in eine andere, wenn Vergleichswerte übereinstimmen – einfach und sicher.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. **Vergleichen und kopieren** stellt dabei eine Operation dar, mit der Sie die Werte einer Spalte von einer Tabelle in die Spalte einer anderen Tabelle kopieren können, sofern ein bestimmter Vergleichswert in beiden Datensätzen identisch ist.

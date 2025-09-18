@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/es/ayuda/zeilen-per-automation-hinzufuegen'
+url: '/es/ayuda/anadir-filas-automaticas-seatable'
+aliases:
+    - '/es/ayuda/zeilen-per-automation-hinzufuegen'
+seo:
+    title: 'Añada filas automáticamente con la automatización'
+    description: 'Añada filas nuevas en tablas SeaTable según condiciones o calendario, con automations y sin tareas manuales repetitivas.'
 ---
 
 Con la ayuda de las automatizaciones, ya no tendrá que añadir manualmente filas con determinadas entradas a sus tablas, sino que podrá hacer que estos pasos se realicen automáticamente. Basta con definir una automatización correspondiente para cualquier vista de tabla.

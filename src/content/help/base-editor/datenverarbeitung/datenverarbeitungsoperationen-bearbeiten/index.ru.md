@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitungsoperationen-bearbeiten'
+url: '/ru/pomoshch/redaktirovat-operatsii-obrabotki-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitungsoperationen-bearbeiten'
+seo:
+    title: 'Редактируйте операции обработки данных в SeaTable'
+    description: 'Изменяйте математические и реляционные операции обработки данных в SeaTable – быстро и с учетом бизнес-задач.'
 ---
 
 С помощью функции обработки данных можно выполнять различные **операции**. Вы можете выполнять математические вычисления по всем значениям в столбце, а также соотносить значения, когда записи в двух разных таблицах идентичны.

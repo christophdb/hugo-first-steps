@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitungsoperationen-in-seatable'
+url: '/help/data-processing-operations-seatable'
+aliases:
+    - '/help/datenverarbeitungsoperationen-in-seatable'
+seo:
+    title: 'Data processing in SeaTable: cross-row operations'
+    description: 'Perform mathematical and relational operations in SeaTable, analyze data and link values across tables for advanced workflows.'
 ---
 
 The data processing function is a useful feature of SeaTable that allows you to perform **operations** on a column across multiple rows . By defining an operation, you can either perform various **mathematical calculations** or establish **relationships between values** in different tables. Data processing operations have a particularly great effect in large data sets where you can handle a high number of computational processes.

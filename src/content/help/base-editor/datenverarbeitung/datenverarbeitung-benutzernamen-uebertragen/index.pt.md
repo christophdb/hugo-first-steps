@@ -5,7 +5,12 @@ lastmod: '2023-03-17'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/pt/ajuda/datenverarbeitung-benutzernamen-uebertragen'
+url: '/pt/ajuda/transferir-nomes-usuario-seatable'
+aliases:
+    - '/pt/ajuda/datenverarbeitung-benutzernamen-uebertragen'
+seo:
+    title: 'Transfira nomes de usuário rapidamente no SeaTable'
+    description: 'Transfira nomes de usuário entre colunas SeaTable usando processamento de dados – para listas, filtros e fluxos automatizados.'
 ---
 
 Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Último modificador]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) para uma [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).

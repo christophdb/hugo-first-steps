@@ -5,7 +5,12 @@ lastmod: '2023-03-17'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-benutzernamen-uebertragen'
+url: '/ru/pomoshch/peredacha-imeni-polzovatelya-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-benutzernamen-uebertragen'
+seo:
+    title: 'Передавайте имена пользователей через SeaTable'
+    description: 'Передавайте имена пользователей из отдельных или системных столбцов в текстовые — для списков, фильтров и автоматизации.'
 ---
 
 Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. **Перенос имен пользователей** – это операция, которая может копировать данные из столбцов типа [Сотрудник]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Создатель]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) или [Последний редактор]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) в [текстовый столбец]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).

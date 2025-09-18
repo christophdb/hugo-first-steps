@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/fr/aide/tabellenkopf-sperren'
+url: '/fr/aide/verrouiller-tete-table'
+aliases:
+    - '/fr/aide/tabellenkopf-sperren'
+seo:
+    title: 'Verrouillez la tête de table dans SeaTable'
+    description: 'Protégez la structure de vos tableaux en verrouillant la tête, empêchez toute modification non voulue des colonnes.'
 ---
 
 Si vous disposez de l'autorisation nécessaire, vous pouvez **verrouiller** l'**en-tête du tableau** dans chaque tableau afin d'empêcher l'ajout, le déplacement et la modification de colonnes dans le tableau. Le grand avantage est que vous pouvez ainsi bloquer **toutes les colonnes en même temps** en un seul clic.

@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/es/ayuda/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+url: '/es/ayuda/eliminar-marcar-notificaciones-seatable'
+aliases:
+    - '/es/ayuda/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+seo:
+    title: 'Elimine o marque todas las notificaciones en SeaTable'
+    description: 'Descubra cómo borrar o marcar todas sus notificaciones como leídas en SeaTable y mantenga la organización de su equipo.'
 ---
 
 Las notificaciones son una parte importante de la colaboración en SeaTable y le informan, entre otras cosas, de que se han activado automatizaciones en sus bases, se han añadido comentarios a una fila o se han compartido bases con usted. Para ayudarle a realizar un seguimiento de las notificaciones que recibe, puede acceder a ellas desde la página de inicio, así como desde dentro de sus bases.

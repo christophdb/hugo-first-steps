@@ -6,6 +6,9 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-veraenderungen-berechnen'
+seo:
+    title: 'Veränderungen in Zahlen mit SeaTable berechnen'
+    description: 'Berechnen Sie Differenzen zwischen Werten in Zahlen-Spalten über mehrere Zeilen hinweg – ideal zur Trend- und Ergebnisanalyse.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Eine Operation stellt dabei die **Berechnung von Veränderungen** dar, mit der Sie in einer numerischen Spalte die Veränderungen von Wert zu Wert berechnen können. Definieren Sie hierfür einfach eine entsprechende Datenverarbeitungsoperation über die Ansichtsoptionen Ihrer Tabelle.

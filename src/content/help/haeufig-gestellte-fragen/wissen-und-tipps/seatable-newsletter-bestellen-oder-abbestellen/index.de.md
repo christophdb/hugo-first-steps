@@ -6,6 +6,9 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
 url: '/de/hilfe/seatable-newsletter-bestellen-oder-abbestellen'
+seo:
+    title: 'SeaTable Newsletter abonnieren oder abbestellen'
+    description: 'So bestellen oder kündigen Sie den SeaTable Newsletter – ganz einfach über den Link in jeder Mail oder Ihr Konto.'
 ---
 
 Sorgen Sie dafür, dass Sie nur E-Mails erhalten, die für Sie wichtige Informationen erhalten, indem Sie Ihre E-Mail-Abonnement-Einstellungen ändern.

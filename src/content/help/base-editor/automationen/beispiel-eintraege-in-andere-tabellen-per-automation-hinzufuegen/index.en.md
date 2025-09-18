@@ -5,7 +5,12 @@ lastmod: '2023-04-12'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+url: '/help/add-entries-to-other-tables-automation-seatable'
+aliases:
+    - '/help/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+seo:
+    title: 'Add entries across tables automatically in SeaTable'
+    description: 'Use automation to add rows to any table in SeaTable when triggers fire – streamline onboarding and cross-table processes.'
 ---
 
 With the help of automations, you no longer have to make entries in other tables manually, but can have these steps performed automatically. The big advantage of this is that the trigger does not have to be in the same table as the action that is triggered.

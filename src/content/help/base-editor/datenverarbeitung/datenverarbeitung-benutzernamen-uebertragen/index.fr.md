@@ -5,7 +5,12 @@ lastmod: '2023-03-17'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitung-benutzernamen-uebertragen'
+url: '/fr/aide/transfert-noms-utilisateurs-seatable'
+aliases:
+    - '/fr/aide/datenverarbeitung-benutzernamen-uebertragen'
+seo:
+    title: 'Transfert des noms d’utilisateurs avec SeaTable'
+    description: 'Transférez automatiquement des noms d’utilisateurs dans des champs texte pour rapports, listes et intégration de processus.'
 ---
 
 La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Dernier éditeur]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).

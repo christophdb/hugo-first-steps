@@ -5,7 +5,12 @@ lastmod: '2023-04-12'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/es/ayuda/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+url: '/es/ayuda/anadir-registros-otras-tablas-automatizacion-seatable'
+aliases:
+    - '/es/ayuda/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+seo:
+    title: 'Añada registros a otras tablas por automatización'
+    description: 'Automatice la creación de registros en otras tablas SeaTable según condiciones; ahorre tiempo y evite tareas repetitivas.'
 ---
 
 Con la ayuda de las automatizaciones, ya no tendrá que realizar entradas en otras tablas manualmente, sino que podrá hacer que estos pasos se lleven a cabo automáticamente. La gran ventaja de esto es que el desencadenante no tiene que estar en la misma tabla que la acción desencadenada.

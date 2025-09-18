@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/help/seatable-newsletter-bestellen-oder-abbestellen'
+url: '/help/seatable-newsletter-subscribe-unsubscribe'
+aliases:
+    - '/help/seatable-newsletter-bestellen-oder-abbestellen'
+seo:
+    title: 'Subscribe or unsubscribe from the SeaTable newsletter'
+    description: 'Learn how to subscribe or opt out of the SeaTable newsletter easily using links in any email or in your account.'
 ---
 
 Make sure you only receive emails that are important to you by changing your email subscription settings.

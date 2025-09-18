@@ -6,6 +6,9 @@ categories:
     - 'benachrichtigungen'
 author: 'nsc2'
 url: '/de/hilfe/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+seo:
+    title: 'Benachrichtigungen: Alle löschen oder als gelesen speichern'
+    description: 'So löschen oder markieren Sie alle Benachrichtigungen in SeaTable als gelesen – mehr Übersicht im Team und bei Automationen.'
 ---
 
 Benachrichtigungen sind ein wichtiger Bestandteil bei der Zusammenarbeit in SeaTable und informieren Sie unter anderem darüber, dass Automationen in Ihren Bases ausgelöst, Kommentare zu einer Zeile hinzugefügt oder Bases mit Ihnen geteilt wurden. Um Ihnen die Übersicht über eingegangene Benachrichtigungen zu erleichtern, können Sie auf diese sowohl von der Startseite aus als auch innerhalb Ihrer Bases zugreifen.

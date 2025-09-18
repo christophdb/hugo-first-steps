@@ -5,7 +5,12 @@ lastmod: '2023-04-12'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/fr/aide/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+url: '/fr/aide/ajouter-donnees-tables-automatiser-seatable'
+aliases:
+    - '/fr/aide/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+seo:
+    title: 'Ajoutez des enregistrements à d’autres tables automatiquement'
+    description: 'Automatisez l’ajout de lignes dans d’autres tables SeaTable avec des déclencheurs sans saisie manuelle – processus fluides.'
 ---
 
 Grâce à l'automatisation, vous ne devez plus effectuer manuellement des entrées dans d'autres tableaux, mais vous pouvez faire en sorte que ces étapes soient exécutées automatiquement. Le grand avantage est que le déclencheur ne doit pas se trouver dans le même tableau que l'action déclenchée.

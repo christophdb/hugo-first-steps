@@ -5,7 +5,12 @@ lastmod: '2023-03-17'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-benutzernamen-uebertragen'
+url: '/help/data-processing-transfer-usernames'
+aliases:
+    - '/help/datenverarbeitung-benutzernamen-uebertragen'
+seo:
+    title: 'Transfer usernames via data processing in SeaTable'
+    description: 'Transfer usernames from staff or creator columns to text fields – for lists, workflows, filters, and process automation in SeaTable.'
 ---
 
 Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Collaborator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creator]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) or [Last modifier]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) into a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).

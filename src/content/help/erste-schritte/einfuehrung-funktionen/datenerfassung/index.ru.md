@@ -5,7 +5,12 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'kgr'
-url: '/ru/pomoshch/datenerfassung'
+url: '/ru/pomoshch/vvod-dannykh'
+aliases:
+    - '/ru/pomoshch/datenerfassung'
+seo:
+    title: 'Ввод данных в SeaTable: все методы'
+    description: 'Собирайте данные в SeaTable через ручной ввод, импорт, копирование, веб-формы и автоматизацию быстро и просто.'
 ---
 
 В этой статье рассказывается о некоторых способах сбора данных в SeaTable.

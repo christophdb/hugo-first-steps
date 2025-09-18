@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/pt/ajuda/seatable-newsletter-bestellen-oder-abbestellen'
+url: '/pt/ajuda/newsletter-seatable-assinar-cancelar'
+aliases:
+    - '/pt/ajuda/seatable-newsletter-bestellen-oder-abbestellen'
+seo:
+    title: 'Assine ou cancele o newsletter do SeaTable'
+    description: 'Saiba como assinar ou cancelar o newsletter SeaTable a qualquer momento por link em email ou configuração de conta.'
 ---
 
 Certifique-se de que só recebe e-mails que são importantes para si, alterando as suas definições de subscrição de e-mail.

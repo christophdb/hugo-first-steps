@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/es/ayuda/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+url: '/es/ayuda/diferencia-compartir-conjuntos-datos-comunes'
+aliases:
+    - '/es/ayuda/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+seo:
+    title: 'Compartir datos o conjuntos comunes en SeaTable: ¿qué elegir?'
+    description: 'Descubra ventajas y diferencias entre compartir bases individualmente y utilizar conjuntos de datos comunes en SeaTable.'
 ---
 
 En SeaTable, tiene a su disposición varios **recursos compartidos individuales**. Por ejemplo, tiene la opción de compartir bases, tablas y vistas individuales con usuarios individuales o grupos enteros.

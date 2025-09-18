@@ -6,6 +6,9 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
 url: '/de/hilfe/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+seo:
+    title: 'Individuelle Freigabe vs. gemeinsame Datensätze bei SeaTable'
+    description: 'Erfahren Sie, wann individuelle Freigaben oder gemeinsame Datensätze sinnvoller sind – für flexibles Teilen und Teamarbeit.'
 ---
 
 In SeaTable stehen Ihnen verschiedene **individuelle Freigaben** zur Verfügung. So haben Sie beispielsweise die Möglichkeit, einzelne Bases, Tabellen und Ansichten mit einzelnen Nutzern oder ganzen Gruppen zu teilen.

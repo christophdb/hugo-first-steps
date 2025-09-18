@@ -6,6 +6,9 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+seo:
+    title: 'Automatisch Einträge in andere Tabellen SeaTable hinzufügen'
+    description: 'Automatisieren Sie das Hinzufügen von Zeilen in andere Tabellen mit SeaTable Automationen – kein manuelles Übertragen mehr.'
 ---
 
 Mithilfe von Automationen müssen Sie Einträge in andere Tabellen nicht mehr manuell durchführen, sondern können diese Schritte automatisch ausführen lassen. Der große Vorteil daran ist, dass sich der Trigger nicht in derselben Tabelle befinden muss wie die ausgelöste Aktion.

@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/tabellenkopf-sperren'
+url: '/help/lock-table-header-seatable'
+aliases:
+    - '/help/tabellenkopf-sperren'
+seo:
+    title: 'Lock the table header in SeaTable for more security'
+    description: 'Prevent users from editing, moving or adding columns by locking the table header in SeaTable – protect your structure.'
 ---
 
 If you have the necessary permission, you can **lock** the **table header in** each table to prevent adding, moving and editing columns in the table. The big advantage is that this way you can lock **all columns at once** with one click.

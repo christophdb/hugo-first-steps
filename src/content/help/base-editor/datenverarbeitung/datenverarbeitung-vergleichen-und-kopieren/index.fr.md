@@ -5,7 +5,12 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitung-vergleichen-und-kopieren'
+url: '/fr/aide/comparer-copier-donnees-seatable'
+aliases:
+    - '/fr/aide/datenverarbeitung-vergleichen-und-kopieren'
+seo:
+    title: 'Comparer et copier des données dans SeaTable'
+    description: 'Copiez des valeurs entre deux tableaux SeaTable dès que certains champs sont identiques – simple et automatisé.'
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. **Comparer et copier** est une opération qui vous permet de copier les valeurs d'une colonne d'un tableau dans la colonne d'un autre tableau, à condition qu'une certaine valeur de comparaison soit identique dans les deux enregistrements.

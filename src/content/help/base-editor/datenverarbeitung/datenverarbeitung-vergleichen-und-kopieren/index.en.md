@@ -5,7 +5,12 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-vergleichen-und-kopieren'
+url: '/help/data-processing-compare-copy'
+aliases:
+    - '/help/datenverarbeitung-vergleichen-und-kopieren'
+seo:
+    title: 'Compare and copy data between tables in SeaTable'
+    description: 'Use compare and copy to transfer values between tables in SeaTable when matching. Automate data transfer simply.'
 ---
 
 You can use the data processing function to perform various operations across a column. **Compare and copy** is an operation with which you can copy the values of a column from one table to the column of another table, provided that a certain comparison value is identical in both data records.

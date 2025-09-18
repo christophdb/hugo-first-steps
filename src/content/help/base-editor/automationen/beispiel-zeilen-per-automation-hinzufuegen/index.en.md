@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/zeilen-per-automation-hinzufuegen'
+url: '/help/add-rows-via-automation-seatable'
+aliases:
+    - '/help/zeilen-per-automation-hinzufuegen'
+seo:
+    title: 'Add rows automatically in SeaTable via automation'
+    description: 'Use SeaTable automations to add rows on schedule or by trigger – no more manual entries and fully dynamic lists.'
 ---
 
 With the help of automations, you no longer have to manually add rows with certain entries to your tables, but can have these steps performed automatically. To do this, simply define an appropriate automation for any table view.
