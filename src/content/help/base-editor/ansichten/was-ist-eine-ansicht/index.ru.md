@@ -9,8 +9,8 @@ url: '/ru/pomoshch/chto-takoe-predstavlenie'
 aliases:
     - '/ru/pomoshch/was-ist-eine-ansicht'
 seo:
-    title: 'Chto takoye predstavlenie v SeaTable?'
-    description: 'Uznaĭte, chto takoye predstavlenie v SeaTable i kak nastroĭt individyal nyy vid dlya svoikh dannykh tablitsy.'
+    title: 'Что такое представление в SeaTable? Преимущества и настройка видов'
+    description: 'Узнайте, что такое представление в SeaTable, как фильтровать, группировать и настраивать персональный вид таблицы для удобной работы с данными.'
 
 ---
 

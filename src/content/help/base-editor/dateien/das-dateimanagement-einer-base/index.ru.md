@@ -9,8 +9,8 @@ url: '/ru/pomoshch/upravlenie-faylami-v-baze-seatable'
 aliases:
     - '/ru/pomoshch/das-dateimanagement-einer-base'
 seo:
-    title: 'Upravlenie faylami v baze SeaTable'
-    description: 'Uznaĭte, kak upravlyat, organizovyvat i redaktirovat fayly v baze SeaTable bystro i effektivno.'
+    title: 'Управление файлами и папками в базе SeaTable'
+    description: 'Узнайте, как эффективно загружать, сортировать, редактировать и организовывать файлы и папки с помощью файлового менеджера базы SeaTable.'
 
 ---
 

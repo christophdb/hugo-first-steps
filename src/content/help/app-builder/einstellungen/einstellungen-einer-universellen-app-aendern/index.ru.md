@@ -9,8 +9,8 @@ url: '/ru/pomoshch/izmenit-globalnye-nastroyki-universalnogo-prilozheniya'
 aliases:
     - '/ru/pomoshch/einstellungen-einer-universellen-app-aendern'
 seo:
-    title: 'Izmenit global nye nastroĭki Universal nogo Prilozheniya'
-    description: 'Uznaite, kak naстраivat global nye nastroĭki, URL i prava dostupa v Universal nom Prilozhenii SeaTable.'
+    title: 'Глобальные настройки универсального приложения в SeaTable'
+    description: 'Как изменить имя, URL, права доступа, открытый доступ и другие глобальные настройки универсального приложения SeaTable для максимальной гибкости и безопасности работы.'
 ---
 
 В **универсальном приложении** можно несколькими щелчками мыши задать различные **глобальные настройки**, которые влияют на конфигурацию и внешний вид всего приложения.

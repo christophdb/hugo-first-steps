@@ -9,8 +9,8 @@ url: '/ru/pomoshch/seatable-big-data-vozmozhnosti'
 aliases:
     - '/ru/pomoshch/potenzial-big-data'
 seo:
-    title: 'SeaTable Big Data: milliony strok v odnoy baze'
-    description: 'Uznaite, kak organizovat i analizirovat milliony strok v SeaTable blagodarya funktsii Big Data.'
+    title: 'Big Data в SeaTable: миллионы строк в одной базе'
+    description: 'Узнайте, как хранить, организовать и анализировать миллионы строк в SeaTable с помощью Big Data — решение для больших объемов и гибких бизнес-процессов.'
 
 ---
 

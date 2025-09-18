@@ -9,8 +9,8 @@ url: '/ru/pomoshch/migratsiya-baz-airtable-v-seatable'
 aliases:
     - '/ru/pomoshch/migration-von-airtable-bases-zu-seatable'
 seo:
-    title: 'Migratsiya baz Airtable v SeaTable: instruktsiya'
-    description: 'Uznaĭte, kak legko migririvat bazy Airtable v SeaTable s pomoshch yu skripta i shagovogo rukovodstva.'
+    title: 'Миграция баз Airtable в SeaTable: пошаговая инструкция'
+    description: 'Узнайте, как быстро перенести базы Airtable в SeaTable: скрипт, настройка, перенос данных, советы и готовое руководство для успешной миграции.'
 ---
 
 Вы хотите перенести свои базы Airtable на SeaTable и боитесь, что это будет сложно? Не волнуйтесь! Даже базы со сложной структурой данных и многими тысячами записей могут быть быстро перенесены в SeaTable.

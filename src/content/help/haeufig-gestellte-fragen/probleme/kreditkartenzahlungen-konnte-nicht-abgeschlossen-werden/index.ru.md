@@ -9,8 +9,8 @@ url: '/ru/pomoshch/oplata-kreditnoy-kartoy-ne-proshla-seatable'
 aliases:
     - '/ru/pomoshch/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
 seo:
-    title: 'Oplata kreditnoy kartoy v SeaTable ne proshla: resheniya'
-    description: 'Pochemu platezh SeaTable ne prokhodit? Sovety dlya resheniya problem s 3D Secure i uspeshnoy oplaty.'
+    title: 'Проблемы оплаты картой в SeaTable: как решить ошибку 3D Secure'
+    description: 'Что делать, если не проходит оплата по карте в SeaTable? Решения для ошибок 3D Secure, советы по браузеру, повторной попытке и обращению в банк.'
 
 ---
 
