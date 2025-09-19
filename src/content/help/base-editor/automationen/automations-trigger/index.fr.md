@@ -5,7 +5,13 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/automations-trigger'
+url: '/fr/aide/automations-triggers-seatable'
+aliases:
+    - '/fr/aide/automations-trigger'
+seo:
+    title: 'Déclencheurs d’automations dans SeaTable'
+    description: 'Découvrez les types de triggers pour automatisations dans SeaTable et les actions associées pour chaque événement.'
+
 ---
 
 {{< required-version "Entreprise" >}}

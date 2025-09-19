@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/es/ayuda/die-spalten-text-und-formatierter-text'
+url: '/es/ayuda/campos-texto-vs-texto-formato-seatable'
+aliases:
+    - '/es/ayuda/die-spalten-text-und-formatierter-text'
+seo:
+    title: 'Campos texto vs texto con formato en SeaTable'
+    description: 'Elija columnas de texto normal para entradas cortas y formato avanzado para textos largos y estructurados en sus tablas.'
+
 ---
 
 SeaTable proporciona dos tipos de columnas diferentes para introducir **cadenas** y **textos de** cualquier tipo: **Texto** y **Texto con formato**. Pero, ¿cuál es exactamente la diferencia entre los dos tipos de columna? ¿Y en qué casos tiene sentido utilizar la columna de texto formateado?

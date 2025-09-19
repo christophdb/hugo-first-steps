@@ -5,7 +5,13 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/automations-trigger'
+url: '/help/automation-triggers-seatable'
+aliases:
+    - '/help/automations-trigger'
+seo:
+    title: 'Automation triggers: SeaTable options at a glance'
+    description: 'Find out which triggers can start automations in SeaTable – conditions, new records, schedules, or advanced periodic actions.'
+
 ---
 
 {{< required-version "Enterprise" >}}

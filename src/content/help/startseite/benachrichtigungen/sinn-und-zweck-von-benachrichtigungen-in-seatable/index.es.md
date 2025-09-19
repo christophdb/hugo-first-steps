@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'cdb'
-url: '/es/ayuda/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+url: '/es/ayuda/beneficios-notificaciones-seatable'
+aliases:
+    - '/es/ayuda/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+seo:
+    title: 'Utilidad de las notificaciones en SeaTable'
+    description: 'Aproveche las notificaciones de SeaTable para controlar tareas, ver cambios y recibir avisos importantes del equipo.'
+
 ---
 
 Con la multitud de temas diferentes que llegan a su mesa cada día, puede ocurrir que pierda la visión de conjunto en SeaTable: Se olvida **una cita**, pasa desapercibido el **comentario** de un compañero o se pasa por alto un **cambio** importante.

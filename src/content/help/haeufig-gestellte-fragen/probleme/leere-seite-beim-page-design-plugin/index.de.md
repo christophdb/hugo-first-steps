@@ -6,6 +6,10 @@ categories:
     - 'bekannte-probleme'
 author: 'cdb'
 url: '/de/hilfe/leere-seite-beim-page-design-plugin'
+seo:
+    title: 'Leere Seite im PDF beim SeaTable Seitendesign-Plugin'
+    description: 'Beim PDF-Export mit dem Seitendesign-Plugin kann eine leere Extraseite entstehen. Mit Version 3.4 wurde dieser Bug behoben.'
+
 ---
 
 {{< required-version "Wurde mit Version 3.4. behoben" >}}

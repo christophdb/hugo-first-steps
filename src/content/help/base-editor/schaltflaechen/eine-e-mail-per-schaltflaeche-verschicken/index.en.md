@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/help/eine-e-mail-per-schaltflaeche-verschicken'
+url: '/help/send-email-via-button-seatable'
+aliases:
+    - '/help/eine-e-mail-per-schaltflaeche-verschicken'
+seo:
+    title: 'Send emails via button in SeaTable'
+    description: 'Easily send formatted emails – with attachments and dynamic content – via button columns in your SeaTable base.'
+
 ---
 
 With the help of a **button** in your rows you can send e-mails to one or more recipients. All you need to do is add an **email account** in SeaTable in advance.

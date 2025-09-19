@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'cdb'
-url: '/help/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+url: '/help/seatable-notification-benefits'
+aliases:
+    - '/help/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+seo:
+    title: 'The benefits of notifications in SeaTable'
+    description: 'Stay organized: Learn how SeaTable notifications alert you to deadlines, changes, team feedback and improve your workflow.'
+
 ---
 
 With the multitude of different topics that land on your desk every day, it can happen that you lose the overview in SeaTable: An **appointment** gets forgotten, a **feedback** from a colleague goes unnoticed or an important **change** is overlooked.

@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'cdb'
-url: '/es/ayuda/leere-seite-beim-page-design-plugin'
+url: '/es/ayuda/pagina-vacia-plugin-diseno-seatable'
+aliases:
+    - '/es/ayuda/leere-seite-beim-page-design-plugin'
+seo:
+    title: 'Página vacía en PDFs con el plugin de diseños'
+    description: 'Exportar PDF con el plugin de diseño podía añadir una página extra vacía. Solucionado a partir de la versión 3.4 de SeaTable.'
+
 ---
 
 {{< required-version "Corregido con la versión 3.4." >}}

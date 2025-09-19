@@ -6,6 +6,10 @@ categories:
     - 'benachrichtigungen'
 author: 'cdb'
 url: '/de/hilfe/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+seo:
+    title: 'Sinn & Nutzen von Benachrichtigungen in SeaTable'
+    description: 'Verpassen Sie nichts – Benachrichtigungen in SeaTable informieren zu Terminen, Änderungen und Aktivitäten im Team.'
+
 ---
 
 Bei der Vielzahl an unterschiedlichen Themen, die tagtäglich auf Ihrem Schreibtisch landen, kann es schon mal passieren, dass Sie ein wenig die Übersicht in SeaTable verlieren: Ein **Termin** gerät in Vergessenheit, ein **Feedback** des Kollegen bleibt unbeachtet oder eine wichtige **Änderung** wird übersehen.

@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/fr/aide/die-spalten-text-und-formatierter-text'
+url: '/fr/aide/colonne-texte-ou-texte-formate-seatable'
+aliases:
+    - '/fr/aide/die-spalten-text-und-formatierter-text'
+seo:
+    title: 'Colonne texte ou texte formaté dans SeaTable ?'
+    description: 'Utilisez la colonne texte standard pour champs courts, la colonne texte formaté pour contenus longs ou structurés.'
+
 ---
 
 Deux types de colonnes sont disponibles dans SeaTable pour la saisie de **chaînes de caractères** et **de textes** de toute sorte : **Texte** et **Texte formaté**. Mais en quoi ces deux types de colonnes diffèrent-ils exactement ? Et dans quels cas est-il utile de recourir à la colonne Texte formaté ?

@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'cdb'
-url: '/pt/ajuda/leere-seite-beim-page-design-plugin'
+url: '/pt/ajuda/pagina-em-branco-plugin-design-seatable'
+aliases:
+    - '/pt/ajuda/leere-seite-beim-page-design-plugin'
+seo:
+    title: 'Página em branco em PDF do plugin de design de página'
+    description: 'Exportar PDF poderia gerar páginas em branco no plugin – corrigido na versão 3.4 do SeaTable.'
+
 ---
 
 {{< required-version "Fixado com a versão 3.4." >}}

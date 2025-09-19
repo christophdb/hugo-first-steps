@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'cdb'
-url: '/ru/pomoshch/leere-seite-beim-page-design-plugin'
+url: '/ru/pomoshch/pustaya-stranitsa-page-design-plugin'
+aliases:
+    - '/ru/pomoshch/leere-seite-beim-page-design-plugin'
+seo:
+    title: 'Пустая страница в PDF при использовании Page Design'
+    description: 'Экспорт PDF с помощью Page Design мог создавать пустую страницу. Исправлено в SeaTable версии 3.4.'
+
 ---
 
 {{< required-version "Исправлено в версии 3.4." >}}

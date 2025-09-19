@@ -6,6 +6,10 @@ categories:
     - 'text-und-zahlen'
 author: 'nsc2'
 url: '/de/hilfe/die-spalten-text-und-formatierter-text'
+seo:
+    title: 'Text vs. Formatierter Text: Spaltentypen in SeaTable'
+    description: 'Nutzen Sie Text-Spalten für kurze Einträge und formatierte Text-Spalten für längere Inhalte mit Formatierungsmöglichkeiten.'
+
 ---
 
 Für das Erfassen von **Zeichenfolgen** und **Texten** jeglicher Art stehen Ihnen in SeaTable zwei verschiedene Spaltentypen zur Verfügung: **Text** und **Formatierter Text**. Doch worin unterscheiden sich die zwei Spaltentypen genau? Und in welchen Fällen ist es sinnvoll, auf die formatierte Text-Spalte zurückzugreifen?

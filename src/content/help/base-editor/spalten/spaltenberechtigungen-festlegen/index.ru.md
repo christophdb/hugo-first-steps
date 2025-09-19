@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/spaltenberechtigungen-festlegen'
+url: '/ru/pomoshch/nastroit-prava-na-stolbtsy-seatable'
+aliases:
+    - '/ru/pomoshch/spaltenberechtigungen-festlegen'
+seo:
+    title: 'Настройте права на столбцы в SeaTable'
+    description: 'Определите, кто может редактировать ячейки или настройки столбцов в SeaTable — больше защиты и гибкости управления.'
+
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

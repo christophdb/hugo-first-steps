@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'cdb'
-url: '/fr/aide/leere-seite-beim-page-design-plugin'
+url: '/fr/aide/page-blanche-plugin-conception-seatable'
+aliases:
+    - '/fr/aide/leere-seite-beim-page-design-plugin'
+seo:
+    title: 'Page blanche dans le plugin de conception SeaTable'
+    description: 'Une page blanche pouvait s’ajouter aux PDF créés par le plugin. Problème corrigé dès la version 3.4 de SeaTable.'
+
 ---
 
 {{< required-version "A été corrigé dans la version 3.4." >}}

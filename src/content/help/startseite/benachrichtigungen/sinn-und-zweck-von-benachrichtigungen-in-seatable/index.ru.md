@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'cdb'
-url: '/ru/pomoshch/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+url: '/ru/pomoshch/znachenie-polza-uvedomleniy-seatable'
+aliases:
+    - '/ru/pomoshch/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+seo:
+    title: 'Значение и польза уведомлений в SeaTable'
+    description: 'Уведомления SeaTable — гарантия не пропустить дедлайны, изменения и события. Всегда в курсе работы команды.'
+
 ---
 
 Из-за множества различных тем, которые ежедневно попадают на ваш стол, может случиться так, что вы потеряете обзор в SeaTable: Забывается **назначенная встреча**, **отзыв** коллеги остается незамеченным или упускается из виду важное **изменение**.

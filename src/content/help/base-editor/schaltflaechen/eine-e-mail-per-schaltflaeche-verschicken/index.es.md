@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/es/ayuda/eine-e-mail-per-schaltflaeche-verschicken'
+url: '/es/ayuda/enviar-correo-por-boton-seatable'
+aliases:
+    - '/es/ayuda/eine-e-mail-per-schaltflaeche-verschicken'
+seo:
+    title: 'Enviar correo por botón en SeaTable'
+    description: 'Envíe correos electrónicos personalizados desde una tabla SeaTable con botón y adjuntos, ideal para automatizaciones.'
+
 ---
 
 Con la ayuda de un **botón** en sus filas, puede enviar correos electrónicos a uno o varios destinatarios. Todo lo que tiene que hacer es añadir una **cuenta de correo electrónico** en SeaTable por adelantado.

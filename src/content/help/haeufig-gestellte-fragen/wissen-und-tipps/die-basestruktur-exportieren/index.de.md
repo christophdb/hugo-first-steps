@@ -6,6 +6,10 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
 url: '/de/hilfe/die-basestruktur-exportieren'
+seo:
+    title: 'Base-Struktur aus SeaTable einfach exportieren'
+    description: 'Exportieren Sie die Tabellen- und Spaltenstruktur einer Base mit Python – perfekt für Forumseinträge oder Support-Anfragen.'
+
 ---
 
 Im folgenden Artikel finden Sie ein Python-Skript, das es Ihnen erlaubt, die gesamte **Tabellen- und Spaltenstruktur einer Base** als Klartext auszugeben. Diese Struktur hilft zum Beispiel dem User Support beim Verständnis, wenn Sie eine Frage im Forum stellen.

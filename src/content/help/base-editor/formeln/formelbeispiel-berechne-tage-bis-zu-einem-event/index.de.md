@@ -6,6 +6,10 @@ categories:
     - 'formeln'
 author: 'nsc2'
 url: '/de/hilfe/formelbeispiel-berechne-tage-bis-zu-einem-event'
+seo:
+    title: 'Formel: Tage bis zum Event in SeaTable berechnen'
+    description: 'Berechnen Sie mit einer Formel dynamisch die verbleibenden Tage bis zu einem Datum oder Event direkt in Ihrer Tabelle.'
+
 ---
 
 SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine davon ist die **Berechnung der Tage bis zu einem zukünftigen Ereignis**. Mithilfe einer entsprechenden Formel können Sie beispielsweise die verbleibenden Tage bis zu einer Schulung, einem Geburtstag oder einem anderen Event berechnen lassen.

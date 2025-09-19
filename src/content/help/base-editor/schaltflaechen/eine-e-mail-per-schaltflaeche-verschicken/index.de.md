@@ -6,6 +6,10 @@ categories:
     - 'andere-spalten'
 author: 'nsc2'
 url: '/de/hilfe/eine-e-mail-per-schaltflaeche-verschicken'
+seo:
+    title: 'E-Mail per Schaltfläche in SeaTable versenden'
+    description: 'Per Schaltfläche gezielt E-Mails formatiert und mit Anhängen aus SeaTable verschicken – ideal für Serienmails und Workflows.'
+
 ---
 
 Mithilfe einer **Schaltfläche** in Ihren Zeilen können Sie E-Mails an einen oder mehrere Empfänger verschicken. Hierfür müssen Sie im Vorhinein lediglich ein **E-Mail-Konto** in SeaTable hinzugefügt haben.

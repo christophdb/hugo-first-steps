@@ -6,6 +6,10 @@ categories:
   - "haeufig-gestellte-fragen"
 author: "cdb"
 url: "/de/hilfe/gibt-es-bei-seatable-auch-ein-dark-theme-dunkelmodus"
+seo:
+    title: 'Gibt es einen SeaTable Dark Mode?'
+    description: 'Aktuell gibt es keinen Dark Mode in SeaTable Cloud. Einstellungen für Dunkelmodus nur bei Selbst-Hosting mit CSS möglich.'
+
 ---
 
 Leider nein. SeaTable Cloud bietet aktuell noch keinen Dunkelmodus an. Es ist jedoch nicht ausgeschlossen, dass wir in Zukunft einen solchen anbieten werden.
