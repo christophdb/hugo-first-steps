@@ -5,7 +5,7 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/pustaya-stranitsa-page-design-plugin'
+url: '/ru/pomoshch/eksport-struktury-bazy'
 aliases:
   - '/ru/pomoshch/die-basestruktur-exportieren'
 seo:
