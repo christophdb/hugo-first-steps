@@ -1,8 +1,8 @@
 ---
-title: 'Angariação de fundos: Como recolher e gerir donativos - SeaTable'
-description: 'Dê vida à sua causa: técnicas modernas, comunicação emocional e plataforma para gerenciar arrecadações, recibos e contato dos doadores – perfeito para ONGs, eventos ou campanhas comunitárias.'
+title: 'Angariação de fundos: Como recolher e gerir donativos'
+description: 'A angariação de fundos é muito mais do que a simples recolha de donativos - é a chave para tornar visíveis projectos, ideias e visões e implementá-los de forma sustentável. Descubra como funciona, como são criadas campanhas de angariação de fundos bem sucedidas e porque é que o software certo é um parceiro indispensável.'
 date: 2024-04-16
-lastmod: '2024-04-16'
+lastmod: '2025-09-18'
 url: '/pt/arrecadacao-fundos'
 aliases:
     - /pt/fundraising
@@ -17,114 +17,116 @@ tags:
 color: '#465b46'
 ---
 
-**A angariação de fundos** é mais do que uma simples estratégia de financiamento: é uma forma de alcançar objectivos em conjunto. Desde o apoio a **organizações sem fins lucrativos** e **campanhas políticas** até ao financiamento de **inovações empresariais**, está presente em quase todos os domínios da vida social. Recorre a uma variedade de estratégias para promover o empenhamento e a solidariedade das pessoas.
+## O que significa angariação de fundos? Significado e definição
 
-Neste artigo, analisamos exaustivamente o tema da angariação de fundos e destacamos vários **métodos** que pode utilizar para entusiasmar as pessoas com as suas ideias e incentivar os donativos. Para o ajudar a atingir de forma consistente o seu objetivo de angariação de fundos, recolher donativos e emitir um recibo de donativo, terá finalmente a oportunidade de experimentar **um software gratuito de gestão de donativos**.
+A angariação de fundos significa a obtenção organizada e sistemática de recursos para fins ou projectos específicos. Pode tratar-se de contribuições em espécie, dinheiro, serviços ou trabalho voluntário. Como método de angariação de capital, pode utilizá-lo tanto para fins de **caridade** como de **empresa**.
 
-![A palavra angariação de fundos está escrita num folheto com figuras de paus](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
+No contexto empresarial, a angariação de fundos é utilizada como alternativa a um empréstimo bancário tradicional para financiar projectos empresariais através de investidores ou subvenções. No entanto, o termo está normalmente associado a fins caritativos, em que os donativos são recolhidos para **projectos sociais**. Neste caso, o foco não está na expetativa de um serviço de retorno direto do doador, mas sim no objetivo de ter um impacto positivo na sociedade ou num grupo-alvo específico.
 
-Uma angariação de fundos bem planeada pode ajudar uma organização a atingir os seus objectivos.
+![A palavra angariação de fundos está escrita num folheto com bonecos de palito](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
-## O que significa a angariação de fundos
+## Angariação de fundos vs. crowdfunding
 
-Fundraising é um termo inglês composto pelas palavras _fund_ (meios) e _raising_ (aquisição). Significa a obtenção organizada e sistemática de recursos para fins ou projectos específicos. Como método de angariação de capital, pode ser utilizado tanto para fins **caritativos** como **empresariais**.
+**O crowdfunding** é uma forma cada vez mais popular de angariar donativos online. Especialmente no contexto empresarial - mas não só - é agora uma ferramenta permanente na caixa de ferramentas de uma campanha de angariação de fundos online. No entanto, o crowdfunding não é o mesmo que a angariação de fundos, mas apenas um dos seus aspectos. Nas suas actividades de angariação de fundos, as organizações têm a flexibilidade de recolher donativos independentemente de uma plataforma específica. A duração é flexível e os donativos angariados beneficiam a causa anunciada, mesmo que o objetivo real não tenha sido alcançado. É raro receber algo em troca dos donativos feitos e não se espera que isso aconteça, exceto sob a forma de um recibo de donativo.
 
-No contexto empresarial, os investidores angariam fundos para financiar actividades empresariais e permitir o crescimento. Por outro lado, a angariação de fundos é também utilizada para fins caritativos, em que os donativos são recolhidos para **projectos sociais**, quer por grandes organizações, quer por associações mais pequenas. Neste caso, a tónica não é colocada na expetativa de um serviço de retorno direto por parte do doador, mas sim no objetivo de ter um impacto positivo na sociedade ou num grupo-alvo específico.
+Em contrapartida, as campanhas de crowdfunding decorrem durante um período de tempo fixo - normalmente entre 30 e 60 dias - durante o qual o objetivo do donativo deve ser atingido. Se o objetivo de donativo não for atingido, toda a campanha é considerada um fracasso e não são pagos quaisquer donativos. **A angariação de fundos para empresas** é frequentemente concebida como crowdfunding, em que os dadores recebem por vezes algo em troca sob a forma de um pequeno presente de agradecimento.
 
-## Como convencer os dadores
+![Diferenças entre angariação de fundos e crowdfunding](Crowdfunding-vs.-Fundraising-711x533.png)
 
-Para angariar fundos com sucesso e convencer as pessoas do seu projeto, é crucial uma **abordagem** direta e **pessoal**. Os potenciais doadores devem saber **quem é** e **qual o projeto** para o qual pretende obter donativos.
+## Que métodos e canais são utilizados na angariação de fundos?
 
-É importante que forneça informações pormenorizadas, incluindo o **montante** específico de que necessita para o **objetivo** definido. Utilize **uma linguagem emocional e descritiva** para inspirar o maior número possível de interessados na sua ideia.
+As medidas e os canais de angariação de fundos podem ser divididos em duas áreas: A angariação de fundos offline e a angariação de fundos online.
 
-{{< warning headline="Dica" text="Uma abordagem experimentada e testada é o envio de **cartas de donativos**. Estas permitem-lhe comunicar a sua mensagem de forma clara e eficaz e dirigir-se aos potenciais doadores a um nível pessoal." />}}
+### O que é a angariação de fundos online?
+A angariação de fundos online inclui todas as medidas que são levadas a cabo na Internet. Isto inclui campanhas nas redes sociais, marketing nos motores de busca e **plataformas de donativos** como a Betterplace ou a GoFundMe, que podem ser utilizadas para apresentar projectos e recolher donativos. No sentido mais lato, o marketing por correio eletrónico e as newsletters também estão incluídos nesta área. As campanhas online permitem-lhe atingir um **espetro alargado de grupos-alvo** e faixas etárias a um custo mais baixo e apelar a um maior número de potenciais doadores.
 
-![Frasco com moedas, do qual nasce uma pequena planta](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
+### O que é a angariação de fundos offline?
 
-A angariação de fundos requer criatividade para atrair a atenção das pessoas.
-
-## Angariação de fundos vs. financiamento coletivo
-
-**A angariação de fundos** dá às organizações a flexibilidade de recolher donativos sem terem de respeitar um calendário específico. Isto permite-lhe planear e executar as suas campanhas durante um período de tempo mais longo, o que pode ser particularmente benéfico quando se trata de angariar montantes maiores ou de realizar projectos complexos.
-
-Em contrapartida, **o crowdfunding** estabelece frequentemente um período de tempo específico, normalmente entre 30 e 60 dias, em que o objetivo do donativo deve ser alcançado. Se o objetivo não for atingido dentro deste período, os donativos não são normalmente pagos e a campanha é considerada como tendo falhado.
-
-O diagrama seguinte apresenta uma breve panorâmica das principais diferenças.
-
-![Diferenças entre angariação de fundos e financiamento coletivo](Crowdfunding-vs.-Fundraising-711x533.png)
-
-A diferença entre angariação de fundos e financiamento coletivo
-
-## Conceitos e ideias para angariação de fundos
-
-Existem muitos conceitos e ideias diferentes de angariação de fundos que podem ser implementados tanto offline como online. Talvez já se tenha deparado com a tradicional **angariação de fundos cara a cara** em zonas pedonais? Embora muitas pessoas passem pelos stands sem se impressionarem, este método continua a ser um dos mais bem sucedidos. Em alternativa, os eventos de angariação de fundos offline, como **eventos de caridade**, **leilões** e **corridas de caridade**, podem ser uma forma eficaz de recolher donativos e envolver a comunidade.
-
-No mundo digital, tem inúmeras opções para recolher donativos. As campanhas em linha permitem-lhe alcançar uma vasta gama de **grupos-alvo** e **faixas etárias**, dando-lhe a oportunidade de chegar a um maior número de potenciais dadores.
-
-**Fora de linha**
-
-- Eventos de angariação de fundos, como leilões ou corridas
-- Cartas de donativos, folhetos e cartazes
-- Chamadas telefónicas
-- Visitas pessoais
-- Discurso na zona pedonal
-
-**Em linha**
-
-- Correio eletrónico pessoal e boletins informativos
-- Formulários de donativos
-- Plataformas de angariação de fundos
-- Ofertas actuais
-- Motores de pesquisa e marketing nas redes sociais
+Talvez também já se tenha deparado com a tradicional angariação de fundos **face-a-face** em zonas pedonais? Embora muitas pessoas passem pelos stands sem se impressionarem, este método continua a ser um dos mais bem sucedidos. Em alternativa, os eventos de angariação de fundos offline, tais como **eventos de caridade**, **leilões** e **corridas de donativos** podem ser uma forma eficaz de recolher donativos e envolver a comunidade. A **recolha de fundos junto das empresas** faz parte de muitas campanhas e é frequentemente efectuada offline.
 
 ![Apelo a donativos num computador](donation-community-service-volunteer-support-711x595.jpg)
 
-As redes sociais estão a desempenhar um papel cada vez mais importante na angariação de fundos.
+## Como é que encontra e retém os dadores?
 
-## A pirâmide dos dadores
+Utilizando os métodos corretos de angariação de fundos, pode construir uma **rede de dadores** que estará disponível para o seu projeto ou organização a longo prazo. A **pirâmide de dadores** é uma ferramenta útil para ilustrar como um dador passa de dador potencial a dador inicial e, mais tarde, possivelmente a dador permanente ou principal.
 
-A pirâmide de dadores, desenvolvida por Joan Flanagan em 1991, é considerada um dos **modelos** básicos na angariação de fundos. Estrutura os dadores de acordo com o montante dos seus donativos e mostra como **o empenho** aumenta com cada nível, enquanto o **número de dadores** diminui. Além disso, a pirâmide de dadores fornece informações sobre o **tempo** necessário para obter donativos e o **rendimento** esperado por categoria de dador.
+### A pirâmide do doador
 
-Hoje em dia, a pirâmide de donativos é vista de forma crítica por várias razões, uma vez que a sua **estrutura hierárquica** está desactualizada e já não reflecte o comportamento moderno em matéria de donativos. A variedade de novas oportunidades de doação, desde o crowdfunding em linha até à angariação de fundos entre pares, está a conduzir a uma dinâmica mais complexa que desafia a pirâmide tradicional.
+A pirâmide de dadores é considerada um dos **modelos básicos na angariação de fundos**. Foi desenvolvida por Joan Flanagan em 1991 e estrutura os dadores de acordo com o montante dos seus donativos. Isto permite mostrar como o compromisso aumenta a cada nível, enquanto o número de dadores diminui. Além disso, a pirâmide de dadores fornece informações sobre o tempo necessário para a angariação de fundos e o **rendimento esperado por categoria de dador**.
 
-No entanto, as **categorias de d** adores podem ainda ser úteis para segmentar melhor os dadores. Normalmente, distinguem-se os seguintes grupos de dadores:
+Hoje em dia, a pirâmide de dadores como modelo de angariação de fundos é vista de forma crítica por várias razões, uma vez que a sua estrutura hierárquica está desactualizada e já não reflecte o comportamento moderno de doação. A variedade de novas oportunidades de donativos, desde o crowdfunding online à angariação de fundos entre pares, conduz a uma dinâmica mais complexa que não pode ser representada pela pirâmide tradicional. No entanto, as categorias de dadores continuam a ser úteis para uma melhor segmentação dos dadores. Normalmente, distinguem-se os seguintes grupos de dadores:
 
-- Partes interessadas
+- Dadores potenciais
 - Dadores de primeira viagem
 - Dadores múltiplos e permanentes
-- Principais doadores
-- Testador
+- Dadores principais
+- Decedente
 
-## Como funciona a angariação de fundos
+### Como é que convence os doadores?
 
-Utilizando os métodos correctos de angariação de fundos, é possível construir uma **rede** de doadores que estarão disponíveis para o seu projeto ou organização a **longo prazo**. A pirâmide de dadores é uma ferramenta útil para ilustrar como um dador passa de dador potencial a dador inicial e, mais tarde, possivelmente a dador permanente ou principal.
+Para angariar fundos com sucesso e convencer as pessoas do seu projeto, uma abordagem direta e **pessoal** é crucial. Deve ser claro para os potenciais doadores quem você é e para que projeto está à procura de donativos. É importante que forneça informações detalhadas, incluindo o montante específico de que necessita para o objetivo que definiu. Utilize uma linguagem **emocional e descritiva** para entusiasmar o maior número possível de pessoas com a sua ideia. Vale a pena investir tempo e recursos para construir e manter relações duradouras com os seus doadores.
 
-Quanto mais um doador estiver envolvido no seu projeto, mais importante se torna uma **abordagem pessoal e individual**. Vale a pena investir tempo e recursos para construir e manter relações duradouras com os seus doadores.
+Por muito importante que seja a abordagem pessoal e emocional, deve estabelecer as bases para campanhas de angariação de fundos bem sucedidas através de um planeamento cuidadoso. Não é por acaso que um conceito de angariação de fundos bem elaborado pode servir de exemplo de uma [campanha de marketing]({{< relref "posts/marketing-kampagne-planung/" >}}). Afinal de contas, é exatamente disso que se trata e não há qualquer diferença na estrutura e nas etapas conceptuais:
 
-Isto contrasta com a **chamada fria**, em que se abordam potenciais doadores que não tiveram qualquer contacto prévio com o projeto. Neste caso, a tónica é colocada na **comunicação de massas**, uma vez que o objetivo é atingir um público vasto. Este método requer menos tempo, mas o retorno esperado por contacto é bastante baixo.
+- Análise dos seus próprios pontos fortes e recursos, bem como do ambiente
+- Definição do grupo-alvo, dos objectivos da campanha e das metas de comunicação
+- Determinação das medidas e dos canais
+- Criação da campanha
+- Controlo e avaliação
 
-## Encontrar e manter os dadores
+![Copo com moedas a partir do qual está a crescer uma pequena planta](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
-Muitas organizações sem fins lucrativos perdem uma grande parte dos seus dadores entre o primeiro e o segundo donativo. De acordo com uma [análise](https://link.springer.com/book/10.1007/978-3-8349-6308-6) efectuada por Beat Hunziker, apenas cerca de metade dos dadores fazem um segundo donativo. O **ciclo de fidelização dos** dadores é um modelo que mostra como as pessoas interessadas em dar um donativo podem tornar-se apoiantes empenhados.
+### Ciclo de fidelização dos dadores
 
-![Ciclo de fidelização dos dadores na angariação de fundos](Spendenloyalitaetszyklus-711x533.png)
+Entre a primeira e a segunda doação, muitas organizações sem fins lucrativos perdem uma grande parte dos seus doadores - de acordo com uma análise de Beat Hunziker, a perda é de cerca de 50%. O **Ciclo de fidelização de dadores** mostra como os dadores interessados podem tornar-se apoiantes empenhados. Este modelo de angariação de fundos compreende várias fases, incluindo a aquisição de novos dadores, a conversão de dadores de primeira viagem em dadores recorrentes, o cultivo e reforço da lealdade e a reativação de dadores inactivos.
 
-Ciclo de fidelização dos dadores
+- Durante a **aquisição**, identifica os potenciais doadores e dá-lhes a conhecer a sua causa através de medidas adequadas. Pode utilizar uma abordagem adequada para persuadir as partes interessadas a fazer o seu primeiro donativo.
+- Depois, é importante reforçar a **ligação** e transformar o dador num apoiante regular. A gestão da relação é um processo contínuo que visa consolidar o compromisso e a lealdade do doador a longo prazo.
+- Por último, a **reativação** dos dadores inactivos é importante para reutilizar o potencial dos antigos apoiantes. Através de contactos e ofertas específicas, pode encorajar os dadores inactivos a doar novamente e a voltar a envolver-se com a sua organização.
 
-Este ciclo compreende várias **fases**, incluindo a aquisição de novos doadores, a conversão de doadores de primeira viagem em doadores recorrentes, a manutenção e o reforço da fidelidade e a reativação de doadores inactivos.
+![Ciclo de fidelização de dadores na angariação de fundos](Spendenloyalitaetszyklus-711x533.png)
 
-Durante a **aquisição**, identifica os potenciais doadores e chama a sua atenção para a sua causa através de medidas adequadas, quer se trate de campanhas específicas, actividades de relações públicas ou marketing em linha. Pode utilizar uma abordagem adequada para persuadir as partes interessadas a fazer um **donativo inicial**.
+## Como é que os donativos podem ser geridos eficazmente?
 
-É então importante reforçar a **ligação** e transformar o dador num apoiante regular. Isto pode ser conseguido através de uma comunicação personalizada, gestos de agradecimento e envolvimento na organização. A gestão da relação é um processo contínuo que visa consolidar o **empenhamento** e **a lealdade** do doador a longo prazo. Isto inclui relatórios regulares sobre o trabalho da organização, a criação de laços emocionais e a oportunidade de participar em eventos ou programas.
+Todas as campanhas de angariação de fundos também envolvem administração: os fundos angariados devem ser registados, os dados dos doadores geridos e os **recibos de donativos** emitidos. Para este efeito, pode utilizar um software especial. O **software de angariação de fundos** combina a gestão financeira, a **gestão de doadores**, o [planeamento de eventos]({{< relref "posts/202503-veranstaltung-verwalten" >}}) e o planeamento da campanha num único sistema. Muitas vezes, estes programas também oferecem a opção de fazer um donativo direto e disponibilizam vários métodos de pagamento para o efeito. As principais vantagens são:
 
-Por último, a **reativação dos doadores inactivos** é importante para concretizar o potencial dos antigos apoiantes. Através de abordagens e ofertas específicas, pode incentivar os doadores inactivos a doar novamente e a envolverem-se mais com a sua organização.
+- Registo eficiente dos donativos e dos dados dos doadores
+- Abordagem individual dos dadores através da análise do seu historial e do registo das suas preferências
+- Emissão automatizada de recibos de donativos
+- Integração simples de prestadores de serviços de pagamento
+- Planeamento e criação de campanhas
+- Funções integradas de análise e relatório
 
 ## Gerir os donativos com o SeaTable
 
-Com o [modelo gratuito]({{< relref "templates/finance/donation-overview" >}}) da SeaTable, pode organizar facilmente a angariação de fundos e tornar a gestão dos donativos o mais simples possível. Organize vários projectos num único local e mantenha-se organizado.
+O [modelo gratuito]({{< relref "templates/finance/donation-overview" >}}) do SeaTable torna a angariação de fundos numa brincadeira de crianças e simplifica ao máximo a sua gestão de donativos. Organize vários projectos num único local e mantenha-se organizado. Como uma solução **sem código**, o SeaTable é completamente flexível e escalável, permitindo-lhe personalizar o modelo de acordo com as suas necessidades específicas com pouco esforço, em vez de utilizar software especializado pronto a usar. Como uma solução compatível com o RGPD** que está alojada exclusivamente em servidores na Alemanha, o SeaTable também é adequado para o processamento de dados particularmente sensíveis, como informações de doadores.
 
-Na sua [base de dados online]({{< relref "templates/finance/donation-overview" >}}), pode não só **recolher e gerir os donativos**, mas também calcular automaticamente a diferença entre os donativos já efectuados e o montante pretendido. Crie **recibos de donativos** com um clique e mantenha um registo dos dados **de contacto** dos seus doadores. Pode ver todos os factos importantes e o **progresso dos seus projectos** num relance num quadro Kanban claramente organizado.
+{{< template-box id="f64c97dc0723400887c0" submit="Testar modelo" text="Percorra o nosso modelo interativo e descubra as primeiras funções." >}}
 
-Para as organizações mais pequenas, as funções e os limites de armazenamento do SeaTable Free (versão gratuita) devem ser suficientes. Se tiver planos maiores, a sua organização sem fins lucrativos beneficiará de [descontos]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) normais no custo do SeaTable Plus ou Enterprise.
+Na sua base de dados em linha, pode não só recolher e gerir donativos, mas também calcular automaticamente a diferença entre os donativos já efectuados e o montante pretendido. **Integre o seu fornecedor de serviços de pagamento**, crie recibos de donativos** com um único clique e mantenha um registo dos dados de contacto e do histórico dos seus doadores. Pode ver todos os factos importantes e o progresso dos seus projectos num relance num quadro Kanban claro. Os seus empregados trabalham em conjunto **colaborativamente em tempo real** para que haja sempre uma transparência total dos dados. Com a **Aplicação Universal** pode facilmente construir a sua própria base de dados e fornecer aos seus doadores relatórios e outras informações.
 
-Primeiro, [registe-se]({{< relref "pages/registration" >}}) para obter a subscrição gratuita e, em seguida, apresente um pedido correspondente através da administração da equipa. Estamos ansiosos por apoiar a sua organização sem fins lucrativos com o nosso software!
+## FAQs - Angariação de fundos
+
+{{< faq "Qual é a diferença entre donativo e patrocínio?" >}}
+
+Um donativo é uma contribuição voluntária em espécie ou em dinheiro pela qual não é esperada qualquer contrapartida. Em contrapartida, o patrocinador recebe uma contrapartida previamente acordada pelo seu donativo, normalmente sob a forma de publicidade.
+
+{{< /faq >}}
+
+{{< faq "O que é o financiamento empresarial?" >}}
+
+O financiamento empresarial é um conceito em que as empresas e as organizações sem fins lucrativos estabelecem uma parceria para angariar fundos para os objectivos da organização sem fins lucrativos. Pode tratar-se de dinheiro, voluntários ou apoio material. As organizações beneficiam dos recursos da empresa parceira, o que, por sua vez, melhora a sua reputação e notoriedade da marca.
+
+{{< /faq >}}
+
+{{< faq "O que é um software de angariação de fundos?" >}}
+
+O software de angariação de fundos foi especificamente concebido para apoiar o planeamento e a gestão de campanhas de angariação de fundos. Para além da gestão de campanhas e dos doadores, a análise e a elaboração de relatórios, bem como a gestão de eventos, são também funções importantes que este software deve oferecer.
+
+{{< /faq >}}
+
+{{< faq "Quais são as caraterísticas especiais da angariação de fundos para empresas em fase de arranque?" >}}
+
+As empresas em fase de arranque procuram frequentemente outras opções de financiamento para além dos empréstimos bancários tradicionais. Ao contrário da angariação de fundos convencional, a "angariação de fundos para empresas em fase de arranque" funciona principalmente através de crowdfunding e dirige-se especificamente a investidores e business angels. O processo baseia-se num plano de negócios bem desenvolvido. Do ponto de vista dos doadores, trata-se de um investimento financeiro com uma expetativa de lucro. Por conseguinte, não são dadores, mas sim investidores.
+
+{{< /faq >}}
