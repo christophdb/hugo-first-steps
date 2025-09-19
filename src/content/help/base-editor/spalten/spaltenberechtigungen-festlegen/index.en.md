@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/spaltenberechtigungen-festlegen'
+url: '/help/set-column-permissions-seatable'
+aliases:
+    - '/help/spaltenberechtigungen-festlegen'
+seo:
+    title: 'Set column permissions precisely in SeaTable'
+    description: 'Define precisely who can edit column cells or settings in SeaTable – maximize teamwork and data control in your tables.'
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

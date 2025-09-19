@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/help/die-spalten-text-und-formatierter-text'
+url: '/help/text-formatted-text-columns-seatable'
+aliases:
+    - '/help/die-spalten-text-und-formatierter-text'
+seo:
+    title: 'Text vs formatted text columns in SeaTable'
+    description: 'Use text columns for short entries, formatted text columns for longer, structured data with markdown and more formatting.'
+
 ---
 
 For capturing **strings** and **texts of** any kind, SeaTable provides you with two different column types: **Text** and **Formatted Text**. But what exactly is the difference between the two column types? And in which cases does it make sense to use the formatted text column?

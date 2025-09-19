@@ -6,6 +6,10 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/automations-trigger'
+seo:
+    title: 'Automations-Trigger in SeaTable: alle Möglichkeiten'
+    description: 'Diese Übersicht zeigt, welche Trigger-Ereignisse SeaTable für Automationen bietet – inkl. Beispiele und unterstützter Aktionen.'
+
 ---
 
 {{< required-version "Enterprise" >}}

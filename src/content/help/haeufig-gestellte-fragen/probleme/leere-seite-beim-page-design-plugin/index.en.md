@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'cdb'
-url: '/help/leere-seite-beim-page-design-plugin'
+url: '/help/blank-page-page-design-plugin'
+aliases:
+    - '/help/leere-seite-beim-page-design-plugin'
+seo:
+    title: 'Blank page issue in SeaTable Page Design plugin'
+    description: 'A blank page was sometimes added to PDF exports via the Page Design plugin. Version 3.4 resolves this bug completely.'
+
 ---
 
 {{< required-version "Fixed with version 3.4." >}}

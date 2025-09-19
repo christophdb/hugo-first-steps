@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/spaltenberechtigungen-festlegen'
+seo:
+    title: 'Spaltenberechtigungen in SeaTable gezielt festlegen'
+    description: 'Legen Sie individuell fest, wer Zellen und Einstellungen einer Spalte in SeaTable bearbeiten darf – für mehr Kontrolle.'
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/fr/aide/eine-e-mail-per-schaltflaeche-verschicken'
+url: '/fr/aide/envoyer-email-bouton-seatable'
+aliases:
+    - '/fr/aide/eine-e-mail-per-schaltflaeche-verschicken'
+seo:
+    title: 'Envoyer un e-mail par bouton via SeaTable'
+    description: 'Envoyez des e-mails avec ou sans pièces jointes par bouton dans SeaTable, idéal pour campagnes et communication rapide.'
+
 ---
 
 Un **bouton** dans vos lignes vous permet d'envoyer un e-mail à un ou plusieurs destinataires. Pour ce faire, il vous suffit d'ajouter au préalable un **compte de messagerie** dans SeaTable.

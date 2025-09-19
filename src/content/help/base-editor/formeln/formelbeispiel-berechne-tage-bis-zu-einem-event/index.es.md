@@ -5,7 +5,13 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/es/ayuda/formelbeispiel-berechne-tage-bis-zu-einem-event'
+url: '/es/ayuda/formula-calcular-dias-hasta-evento-seatable'
+aliases:
+    - '/es/ayuda/formelbeispiel-berechne-tage-bis-zu-einem-event'
+seo:
+    title: 'Fórmula: calcule días hasta evento en SeaTable'
+    description: 'Calcule automáticamente los días restantes hasta una fecha o evento usando una fórmula simple en su tabla SeaTable.'
+
 ---
 
 Las fórmulas de SeaTable le ofrecen varias formas de trabajar con los datos de sus tablas. Una de ellas es calcular los días que **faltan para un evento** futuro. Por ejemplo, puede utilizar una fórmula para calcular los días que faltan para un entrenamiento, cumpleaños u otro evento.

@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'cdb'
-url: '/pt/ajuda/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+url: '/pt/ajuda/finalidade-notificacoes-seatable'
+aliases:
+    - '/pt/ajuda/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+seo:
+    title: 'Finalidade das notificações no SeaTable'
+    description: 'Descubra como as notificações do SeaTable ajudam a lembrar prazos, mudanças, tarefas e melhoram a colaboração.'
+
 ---
 
 Com a multiplicidade de diferentes tópicos que aterram todos os dias na sua secretária, pode acontecer que perca a visão geral no SeaTable: Um **compromisso** é esquecido, o **feedback** de um colega passa despercebido ou uma **mudança** importante é negligenciada.

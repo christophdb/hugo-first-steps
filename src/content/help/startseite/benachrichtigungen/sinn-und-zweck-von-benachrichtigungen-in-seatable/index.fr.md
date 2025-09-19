@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'cdb'
-url: '/fr/aide/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+url: '/fr/aide/notifications-seatable-importance'
+aliases:
+    - '/fr/aide/sinn-und-zweck-von-benachrichtigungen-in-seatable'
+seo:
+    title: 'Notifications SeaTable : importance et utilité'
+    description: 'Les notifications SeaTable vous aident à ne rien rater : rappels, changements, collaboration et gestion efficace.'
+
 ---
 
 Avec la multitude de sujets différents qui atterrissent chaque jour sur votre bureau, il peut arriver que vous perdiez un peu la vue d'ensemble dans SeaTable : Un **rendez-vous** est oublié, un **feedback** d'un collègue passe inaperçu ou une **modification** importante est oubliée.

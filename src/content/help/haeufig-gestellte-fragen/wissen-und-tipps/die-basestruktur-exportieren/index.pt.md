@@ -5,7 +5,13 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/pt/ajuda/die-basestruktur-exportieren'
+url: '/pt/ajuda/exportar-estrutura-base-seatable'
+aliases:
+  - '/pt/ajuda/die-basestruktur-exportieren'
+seo:
+    title: 'Exporte a estrutura de base no SeaTable facilmente'
+    description: 'Exporte a estrutura de tabelas e colunas no SeaTable usando Python – útil para fóruns ou suporte técnico detalhado.'
+
 ---
 
 No artigo seguinte encontrará um guião Python que lhe permite produzir toda a **tabela e estrutura de colunas de uma base** como texto simples. Esta estrutura ajuda, por exemplo, o apoio do utilizador a compreender quando se faz uma pergunta no fórum.

@@ -5,7 +5,13 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/automations-trigger'
+url: '/ru/pomoshch/avtomatizatsiya-triggery-seatable'
+aliases:
+    - '/ru/pomoshch/automations-trigger'
+seo:
+    title: 'Триггеры автоматизаций в SeaTable: полное описание'
+    description: 'Узнайте о типах триггеров в SeaTable для автоматизации: условия, новые записи, расписания и продвинутые сценарии.'
+
 ---
 
 {{< required-version "Предприятие" >}}

@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/pt/ajuda/die-spalten-text-und-formatierter-text'
+url: '/pt/ajuda/texto-vs-texto-formatado-seatable'
+aliases:
+    - '/pt/ajuda/die-spalten-text-und-formatierter-text'
+seo:
+    title: 'Texto vs. texto formatado: tipos de coluna SeaTable'
+    description: 'Campo texto para registros simples; texto formatado para descrições, listas e estrutura avançada – conheça os dois jeitos!'
+
 ---
 
 SeaTable fornece dois tipos diferentes de colunas para a introdução de **cordas** e **textos** de qualquer tipo: **Texto** e **Texto formatado**. Mas qual é exactamente a diferença entre os dois tipos de coluna? E em que casos é que faz sentido utilizar a coluna de texto formatado?

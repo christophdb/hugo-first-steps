@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-e-mail-per-schaltflaeche-verschicken'
+url: '/ru/pomoshch/otpravka-email-po-knopke-seatable'
+aliases:
+    - '/ru/pomoshch/eine-e-mail-per-schaltflaeche-verschicken'
+seo:
+    title: 'Отправка e-mail по кнопке в SeaTable'
+    description: 'Отправляйте письма по кнопке прямо из таблицы SeaTable с вложениями и динамическими данными – быстро и удобно.'
+
 ---
 
 С помощью **кнопки** в вашей строке вы можете отправлять электронные письма одному или нескольким адресатам. Все, что вам нужно сделать, это заранее добавить **учетную запись электронной почты** в SeaTable.

@@ -5,7 +5,13 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/die-basestruktur-exportieren'
+url: '/ru/pomoshch/pustaya-stranitsa-page-design-plugin'
+aliases:
+  - '/ru/pomoshch/die-basestruktur-exportieren'
+seo:
+    title: 'Экспортируйте структуру базы SeaTable за пару кликов'
+    description: 'Экспортируйте структуру таблиц и столбцов SeaTable с помощью Python – для форумов или поддержки, быстро и понятно.'
+
 ---
 
 В следующей статье вы найдете сценарий Python, который позволяет вывести всю **структуру таблиц и столбцов базы** в виде обычного текста. Эта структура помогает, например, службе поддержки пользователей понять, когда вы задаете вопрос на форуме.

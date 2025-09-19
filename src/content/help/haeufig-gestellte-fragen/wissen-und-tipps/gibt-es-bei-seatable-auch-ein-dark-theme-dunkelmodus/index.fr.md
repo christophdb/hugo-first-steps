@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/gibt-es-bei-seatable-auch-ein-dark-theme-dunkelmodus'
+url: '/fr/aide/seatable-mode-sombre'
+aliases:
+    - '/fr/aide/gibt-es-bei-seatable-auch-ein-dark-theme-dunkelmodus'
+seo:
+    title: 'Y a-t-il un mode sombre sur SeaTable ?'
+    description: 'Pas de mode sombre natif sur SeaTable Cloud pour le moment ; solution existant uniquement pour serveurs auto-hébergés CSS.'
+
 ---
 
 Malheureusement, non. Actuellement, SeaTable Cloud ne propose pas encore de mode sombre. Il n'est toutefois pas exclu que nous en proposions un à l'avenir.

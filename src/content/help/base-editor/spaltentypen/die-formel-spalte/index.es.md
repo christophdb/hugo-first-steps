@@ -5,9 +5,14 @@ lastmod: '2023-09-14'
 categories:
     - 'formeln'
 author: 'ssc'
-url: '/es/ayuda/die-formel-spalte'
+url: '/es/ayuda/columna-formula-seatable'
 aliases: 
     - '/es/ayuda/grundlagen-von-seatable-formeln'
+    - '/es/ayuda/die-formel-spalte'
+seo:
+    title: 'La columna fórmula de SeaTable: guía y ejemplos'
+    description: 'Descubra cómo usar la columna de fórmulas en SeaTable para cálculos y operaciones de texto dentro de cada fila de datos.'
+
 ---
 
 SeaTable le ofrece muchas funciones diferentes que puede añadir a su tabla. Una de ellas es la llamada **columna de fórmulas**. Con la ayuda de las fórmulas puede vincular valores de diferentes columnas y crear diferentes funciones basadas en los tipos de datos de estas columnas. Entre otras cosas, puedes calcular con valores de una fila, fusionarlos o relacionarlos entre sí.

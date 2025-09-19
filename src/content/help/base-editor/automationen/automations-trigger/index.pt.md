@@ -5,7 +5,13 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/automations-trigger'
+url: '/pt/ajuda/automations-triggers-seatable'
+aliases:
+    - '/pt/ajuda/automations-trigger'
+seo:
+    title: 'Disparadores de automação: SeaTable em resumo'
+    description: 'Veja quais eventos (triggers) podem iniciar automações no SeaTable – condições, novos dados ou execuções programadas.'
+
 ---
 
 {{< required-version "Empresa" >}}
