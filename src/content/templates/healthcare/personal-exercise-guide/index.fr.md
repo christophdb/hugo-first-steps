@@ -2,12 +2,14 @@
 title: "Plan d'entraînement personnel"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/personal-exercise-guide'
+url: '/fr/modele/programme-entrainement-personnel'
+aliases:
+    - '/fr/modele/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Programme d’entraînement personnel : modèle à personnaliser'
+    description: 'Planifiez, suivez et adaptez votre programme d’entraînement personnel.'
 template: '59bc81daee554d35bf9f'
 ---
 

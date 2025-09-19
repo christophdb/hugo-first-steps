@@ -2,12 +2,14 @@
 title: "Gestion de la galerie d'art"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/art-gallery-management'
+url: '/fr/modele/gestion-galerie-art'
+aliases:
+    - '/fr/modele/art-gallery-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de gestion de galerie : œuvres, expos, artistes'
+    description: 'Centralisez œuvres, artistes, prêts, expos et contacts : solution complète pour musées et galeries d’art, utilisation flexible.'
 template: '59d653f20de446a79f03'
 ---
 

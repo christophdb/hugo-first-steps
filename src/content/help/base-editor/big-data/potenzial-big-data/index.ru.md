@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/pomoshch/potenzial-big-data'
+url: '/ru/pomoshch/seatable-big-data-vozmozhnosti'
+aliases:
+    - '/ru/pomoshch/potenzial-big-data'
+seo:
+    title: 'Big Data в SeaTable: миллионы строк в одной базе'
+    description: 'Узнайте, как хранить, организовать и анализировать миллионы строк в SeaTable с помощью Big Data — решение для больших объемов и гибких бизнес-процессов.'
+
 ---
 
 {{< required-version "Предприятие" >}}

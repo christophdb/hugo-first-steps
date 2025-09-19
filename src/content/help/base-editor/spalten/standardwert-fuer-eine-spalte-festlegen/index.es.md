@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'kgr'
-url: '/es/ayuda/standardwert-fuer-eine-spalte-festlegen'
+url: '/es/ayuda/establecer-valor-predeterminado-columna'
+aliases:
+    - '/es/ayuda/standardwert-fuer-eine-spalte-festlegen'
+seo:
+    title: 'Establecer valor predeterminado en una columna'
+    description: 'Descubra cómo definir valores predeterminados en columnas de SeaTable para completar filas nuevas automáticamente y agilizar la gestión de datos.'
 ---
 
 Si define un **valor** por defecto para una columna, éste se **introduce automáticamente en cada nueva** fila de la tabla. Con los valores por defecto predefinidos, puede ahorrarse unos cuantos clics al [añadir nuevas filas]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Por supuesto, después puede ajustar manualmente los valores introducidos automáticamente.

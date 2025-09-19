@@ -1,5 +1,6 @@
 ---
 title: 'Долги Klarna - как взять финансы под контроль'
+description: 'Всё об онлайн-долгах через Klarna: почему «купи сейчас – плати потом» рискует привести к проблемам, как выйти из долгов, не попасть в просрочку и сохранить кредитную историю в порядке.'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/ru/dolgi-klarna'
 aliases:
     - /ru/klarna-schulden
 seo:
-    title:
-    description:
+    title: 'Долги Klarna: как выбраться из долговой ловушки'
+    description: 'Долги в Klarna — причины, риски, стратегии выхода: подробная инструкция.'
 categories:
     - 'best-practice'
 tags:

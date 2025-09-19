@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.0: Validación de datos, editores web de oficina y nuevo backend de almacenamiento - SeaTable'
+description: 'Domine la entrada de datos con validación en columnas, colabore en Word, Excel o PowerPoint en tiempo real, optimice almacenamiento y use nuevos controles de gestión de equipos. Sincronización entre bases mejorada y mejoras menores en menú y exportaciones. Colaborar y organizar datos nunca fue tan fácil.'
 date: 2022-06-21
 lastmod: '2022-06-27'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#cfe107'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.0: Validación y documentos Office online'
+    description: 'Valide datos flexiblemente, edite Office online y use nuevo backend; sincronización y gestión mejoradas en SeaTable 3.0.'
 ---
 
 ¡SeaTable 3.0 ya está aquí! La tercera gran versión de SeaTable ofrece edición en línea de documentos de Office, validación automática de datos, más funciones para conjuntos de datos compartidos y un nuevo componente de servidor para un almacenamiento más eficaz de las bases. Como siempre, el [registro de cambios]({{< relref "pages/changelog" >}}) ofrece información sobre otras muchas mejoras y correcciones de errores en la nueva versión. Las nuevas funciones están disponibles inmediatamente para [los usuarios de SeaTable Cloud](https://cloud.seatable.io/). La imagen de SeaTable 3.0 se ha publicado esta noche en [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  

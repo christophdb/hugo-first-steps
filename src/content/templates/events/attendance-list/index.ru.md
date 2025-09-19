@@ -8,8 +8,8 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон журнала посещаемости: фиксация участников онлайн'
+    description: 'Лёгкий шаблон журнала посещаемости: быстрая отметка, экспорт, защита данных.'
 template: '7e0a717a66ca4658bbb4'
 ---
 

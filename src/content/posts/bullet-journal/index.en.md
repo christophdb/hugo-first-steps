@@ -3,11 +3,10 @@ title: 'Bullet journal - how to organize your life with creativity'
 date: 2023-12-19
 lastmod: '2024-01-25'
 coverImage: 'Bullet-Journal-Dot-Grid-Blank-Journal-.png'
-author: 'lsc'
 url: '/bullet-journal'
 seo:
-    title:
-    description:
+    title: 'Bullet Journal: How to Organize Life Creatively'
+    description: 'Discover bullet journal methods for organizing tasks, goals, and creativity in daily life.'
 categories:
     - 'best-practice'
 tags:

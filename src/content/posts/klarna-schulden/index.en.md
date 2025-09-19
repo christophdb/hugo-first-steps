@@ -1,15 +1,16 @@
 ---
 title: 'Klarna debt - how to get your finances under control'
 date: 2024-04-19
+description: 'Klarna debt is a growing problem for young and older consumers. Learn how to review your BNPL purchases, avoid late fees, and create a repayment plan to regain control over your finances.'
 lastmod: '2024-04-19'
 coverImage: 'pexels-karolina-grabowska-5632397-scaled.jpg'
 author: 'nsc'
-url: '/klarna-schulden'
+url: '/klarna-debt'
 aliases:
     - /klarna-schulden
 seo:
-    title:
-    description:
+    title: 'Klarna Debt: How to Get Your Finances Back on Track'
+    description: 'Klarna debt and BNPL traps – best strategies to pay off & avoid financial trouble.'
 categories:
     - 'best-practice'
 tags:

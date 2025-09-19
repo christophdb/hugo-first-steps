@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.4: Aplicação universal, importação de Excel e conjuntos de dados comuns'
+description: 'Botões nas páginas de consulta, autopreenchimento de colunas, arraste no calendário, campos de colaborador em formulários, dashboards aprimorados, títulos ocultáveis. Apps Galeria/Consulta fundidas na Universal, importação mais rápida e confiável, datasets sincronizáveis, padrão em todo processo.	/pt/seatable-release-4-4'
 date: 2024-05-15
 lastmod: '2024-05-15'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#96b228'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.4: app universal, Excel, datasets'
+    description: 'App Universal lança botões, calendários mais flexíveis, importação Excel potente, datasets otimizados e default global.'
 ---
 
 No SeaTable 4.4, continuamos a desenvolver o Universal App Builder com entusiasmo. Muitas funções novas permitem aplicações Web ainda mais poderosas e práticas. Também aperfeiçoámos a função de importação e os conjuntos de dados partilhados. Os valores práticos por defeito aplicam-se agora universalmente.

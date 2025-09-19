@@ -1,5 +1,6 @@
 ---
 title: 'Keep a budget book: Save money with these 12 tips'
+description: 'Do you often wonder where your money disappears each month? A budget book brings clarity by recording fixed and variable costs. This article explains why tracking your expenses is essential and provides 12 actionable tips on saving—from reviewing contracts and subscriptions to smart meal planning.'
 date: 2024-01-02
 lastmod: '2024-01-03'
 coverImage: 'Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg'
@@ -8,8 +9,8 @@ url: '/keep-household-budget'
 aliases:
     - /haushaltsbuch-fuehren
 seo:
-    title:
-    description:
+    title: 'Keep a Budget Book: 12 Tips to Save Money'
+    description: 'Track your expenses effectively. A budget book and 12 smart tips help you stay in control of your finances and save money.'
 categories:
     - 'best-practice'
 tags:

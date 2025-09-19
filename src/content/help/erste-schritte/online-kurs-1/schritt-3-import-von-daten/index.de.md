@@ -6,6 +6,9 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/schritt-3-import-von-daten'
+seo:
+    title: 'Schritt 3: Daten importieren in SeaTable'
+    description: 'So importieren Sie schnell Datensätze per CSV in Ihre Ausgabenverwaltung mit SeaTable. Übersicht zu Format, Kontrolle, Export.'
 ---
 
 Wahrscheinlich haben Sie jetzt bereits ein paar Ausgaben in Ihrer neuen Ausgabenverwaltung erfasst. Für die folgenden Schritte benötigen wir jedoch ein paar mehr Daten. Deshalb werden wir ihre bisherigen Einträge entfernen und neue Datensätze in die Tabelle importieren.

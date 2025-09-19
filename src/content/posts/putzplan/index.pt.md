@@ -1,5 +1,6 @@
 ---
 title: 'Crie um plano de limpeza de acordo com os seus desejos: Modelo e dicas'
+description: 'Crie um plano de limpeza eficiente – divida tarefas, acompanhe prazos e incentive a colaboração. O modelo SeaTable facilita a rotina em família, república ou escritório, sempre com ambientes limpos.'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/pt/plano-limpeza'
 aliases:
     - /pt/putzplan
 seo:
-    title:
-    description:
+    title: 'Modelo de cronograma de limpeza: tarefas bem divididas'
+    description: 'Organize e distribua a limpeza da casa com um modelo pronto e personalizável.'
 categories:
     - 'best-practice'
 tags:

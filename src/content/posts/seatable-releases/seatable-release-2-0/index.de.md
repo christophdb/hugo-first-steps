@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.0: Drei neue Spaltentypen, neue und verbesserte Plugins und Russisch als Benutzersprache - SeaTable'
+description: 'Neues: Link-Formel, Bewertung & Geodaten als Spalte, Defaultwerte, Page-Design (PDF), Kanban, Ordner, Snapshots. Webforms jetzt mit Logo & Link. Plugins verbessert (Kalender, Timeline, Galerie, Map). DLP & Security, Python-Umgebung & Russisch als Sprache. Das Major-Update für smarte Teams und fortschrittliche Datenprozesse.'
 date: 2021-05-27
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#819efe'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.0: Neue Spalten, Plugins & Russisch'
+    description: '3 neue Spaltentypen, Page-Design & Kanban-Plugin, Standardwerte, bessere Verknüpfungen, Ordner, Python-Skripte & Russisch – SeaTable 2.0!'
 ---
 
 Am 1. Juli 2020 hat SeaTable in der Version 1.0 das Licht der Welt erblickt. Mehr als 100.000 Mal wurde es seitdem von Docker Hub heruntergeladen. Dieses überwältigende Interesse an SeaTable hat uns angetrieben und so sind wir jetzt glücklich und stolz darauf, einen weiteren Meilenstein in der Entwicklung von SeaTable bekannt zu geben: SeaTable 2.0 wurde heute auf [SeaTable Cloud](https://cloud.seatable.io) aufgespielt und auf [Docker Hub](https://hub.docker.com/u/seatable) für private Installationen veröffentlicht.

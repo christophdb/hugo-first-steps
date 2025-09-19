@@ -2,12 +2,14 @@
 title: 'Contratación de personal'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/hr-recruiting'
+url: '/es/plantilla/reclutamiento'
+aliases:
+    - '/es/plantilla/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de reclutamiento: gestión de candidatos'
+    description: 'Organiza procesos de selección: currículums, entrevistas y seguimiento – todo digital y fácil en una plantilla de RRHH moderna.'
 template: '9abba02477a7435eb3d7'
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.4: Opções de visualização melhoradas para um trabalho mais rápido - SeaTable'
+description: 'Menu de views fixo facilita troca, links exibem qualquer campo escolhido. Formato condicional detecta duplicatas, operação de percentual para análises, PDF via botão, visualização TIFF, múltiplas colunas para linking e novos cálculos – tudo com muitos detalhes que tornam seu fluxo mais inteligente.'
 date: 2021-10-19
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#8a9c54'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.4: navegação e links flexíveis'
+    description: 'Navegação ancorada, colunas link personalizadas, detecção de duplicatas e PDF automatizado: SeaTable 2.4 otimiza o trabalho em equipe!'
 ---
 
 O SeaTable 2.4 viu a luz do dia! A última encarnação do SeaTable Server foi carregada em [Docker](https://hub.docker.com/u/seatable) Hub no final da semana passada e o SeaTable Cloud foi actualizado esta manhã. A nova versão oferece uma série de melhorias e novas funcionalidades: Ver navegação está agora acoplável, o tipo de coluna Link to Other Entries oferece configurações melhoradas, uma nova e melhorada operação de processamento de dados torna a análise quantitativa mais fácil. Além disso, uma nova formatação condicional oferece ajuda com grandes conjuntos de dados. E estas são apenas as características que se destacam da multidão. A SeaTable 2.4 também oferece muito mais. Encontrará as informações mais importantes sobre a nova versão nestas notas de lançamento. Encontrará a lista completa de alterações - como sempre no [changelog]({{< relref "pages/changelog" >}}).

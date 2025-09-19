@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+url: '/ru/pomoshch/raznitsa-individualnye-prava-obshchi-dataset'
+aliases:
+    - '/ru/pomoshch/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+seo:
+    title: 'Индивидуальные права или общий датасет: что выбрать?'
+    description: 'Узнайте, чем различаются индивидуальный доступ и общий датасет в SeaTable, и что подходит для вашей работы.'
 ---
 
 В SeaTable вам доступны различные **индивидуальные общие ресурсы**. Например, у вас есть возможность открыть общий доступ к отдельным базам, таблицам и представлениям для отдельных пользователей или целых групп.

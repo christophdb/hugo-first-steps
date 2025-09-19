@@ -1,5 +1,6 @@
 ---
 title: 'AWS: SeaTable Cloud se separa de Amazon y se hace más europea - SeaTable'
+description: 'La nube de SeaTable se muda de AWS a Exoscale, un proveedor europeo. Te explicamos por qué esto impulsa la seguridad, la privacidad y el cumplimiento legal, para que tus datos estén realmente protegidos en la Unión Europea.'
 date: 2021-05-20
 lastmod: '2023-07-11'
 author: 'cdb'
@@ -10,8 +11,8 @@ color: 'e86569'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable Cloud: ahora bajo normativa europea de datos'
+    description: 'SeaTable migra a una nube europea: más privacidad y seguridad para tus datos empresariales.'
 ---
 
 Con SeaTable podrá gestionar y organizar proyectos, clientes, activos, ideas y resultados de trabajo de todo tipo. De este modo, confía a SeaTable los datos centrales y más importantes de su empresa o de su equipo. El hecho de que seamos el único proveedor de soluciones de hojas de cálculo en línea que ofrece a nuestros clientes la opción de manejar su propio [servidor]({{< relref "pages/product/seatable-server" >}}) personal [SeaTable]({{< relref "pages/product/seatable-server" >}}) demuestra que la protección de sus datos es muy importante para nosotros. Sólo así se mantiene el control total y la soberanía absoluta de los datos. Pero también establecemos los estándares más altos para la seguridad de sus datos con nuestros clientes de la nube.

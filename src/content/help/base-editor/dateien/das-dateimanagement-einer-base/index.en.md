@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/help/das-dateimanagement-einer-base'
+url: '/help/file-management-in-a-base'
+aliases:
+    - '/help/das-dateimanagement-einer-base'
+seo:
+    title: 'File management in SeaTable: organize and edit files'
+    description: 'Learn how to manage, organize, edit and share files and folders efficiently within your SeaTable base.'
+
 ---
 
 **File management** revolutionizes the way you handle files in your base. You can upload, rename, copy, move, download and delete **files** there directly. You can even create **new documents** (e.g. Excel, Word or PowerPoint files) and edit them using the integrated editor.

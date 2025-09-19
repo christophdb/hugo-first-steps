@@ -5,7 +5,12 @@ lastmod: '2023-03-20'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-vergleichen-und-verknuepfen'
+url: '/help/data-processing-compare-link'
+aliases:
+    - '/help/datenverarbeitung-vergleichen-und-verknuepfen'
+seo:
+    title: 'Compare and link data automatically in SeaTable'
+    description: 'Link records across tables in SeaTable when values match. Automate relations easily with the compare and link operation.'
 ---
 
 Using the data processing function, you can perform various operations across a column. **Compare and link** is an operation that allows you to link records in two different tables when a column value in both tables is identical.

@@ -2,12 +2,14 @@
 title: 'Modelo de lista de inventário'
 description: ''
 date: '2025-02-28'
-url: '/pt/modelo/inventory-list'
+url: '/pt/modelo/lista-inventario'
+aliases:
+    - '/pt/modelo/inventory-list'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de inventário: estoque sob controle'
+    description: 'Inventário digital: registre, organize e analise estoque e ativos facilmente. Template gratuito com relatórios e acesso compartilhado.'
 template: '11568480344f4a61ab49'
 ---
 

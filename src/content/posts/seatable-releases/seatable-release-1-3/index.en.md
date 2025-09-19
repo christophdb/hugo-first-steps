@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.3: A wave of new features and improvements - SeaTable'
+description: 'Automate tasks with JS scripts, base your work on templates, apply conditional row colors, print tables or rows, and use auto numbers for data order. Enjoy autofill, clickable URLs, group controls, mass uploads and even more user-centric improvements — SeaTable 1.3 delivers an ocean of productivity.'
 date: 2020-09-14
 lastmod: '2022-01-24'
 coverImage: 'michael-shannon.jpg'
@@ -9,8 +10,8 @@ color: '#c96afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.3: Scripting, Templates, Row Colors'
+    description: 'Scripting engine, template integration, conditional formatting, print enhancements and auto number land in feature-packed SeaTable 1.3!'
 ---
 
 The September release, uploaded on September 14, brings plenty of new features, functionalities and user experience improvements to ALL users. The hottest new addition is SeaTable’s scripting engine. Other great new features are the seamless integration of templates, conditional row formatting, a new print function and the new column type auto number. And this is by far not all. For the full list of changes, check our [Changelog]({{< relref "pages/changelog" >}}). Living up to its name, SeaTable offers an ocean of possibilities. [Register now]({{< relref "pages/registration" >}}) and hit the waves.

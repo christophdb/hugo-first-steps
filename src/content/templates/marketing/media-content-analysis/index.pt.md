@@ -2,12 +2,14 @@
 title: 'Revisão da imprensa / análise de conteúdo'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/media-content-analysis'
+url: '/pt/modelo/analise-midia'
+aliases:
+    - '/pt/modelo/media-content-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de análise de mídia: cobertura & menções'
+    description: 'Analise notícias, citação, alcance e cobertura com modelo digital para relatórios, monitoramento de imprensa e reputação.'
 template: '2064f57fadc14bc884cb'
 ---
 

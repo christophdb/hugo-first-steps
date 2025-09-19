@@ -5,8 +5,8 @@ date: 2024-02-16
 lastmod: '2024-02-16'
 url: '/de/gender-reveal-party'
 seo:
-    title: 'Gender Reveal Party: So wird Ihre Babyparty ein Erfolg'
-    description: 'Ein Baby ist auf dem Weg und Sie möchten das mit einer Gender Reveal Party feiern? Hier erfahren Sie, wie Sie so eine Babyparty organisieren.'
+    title: 'Gender Reveal Party planen – Tipps, Ideen, Checkliste'
+    description: 'Gender Reveal Party richtig planen: Checkliste, Deko, Spiele und Rezepte – so wird Ihre Babyparty ein emotionales Highlight!'
 categories:
     - 'best-practice'
 tags:

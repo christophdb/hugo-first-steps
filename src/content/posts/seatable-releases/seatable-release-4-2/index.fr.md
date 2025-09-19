@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 4.2 : nouvelles fonctions dans l'Universal App Builder et plus encore"
+description: 'Gérez versions d’applis, vérifiez doublons sur formulaires, dupliquez/suspendez pages, personnalisez vos thèmes, liez via images, nouvelle formule iserror(), automatisations périodiques, conversion de vue privée, classement: tout pour piloter vos données en toute maîtrise et simplicité!'
 date: 2023-11-22
 lastmod: '2023-11-22'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#a6d8b7'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.2 : versions, doublons, auto'
+    description: 'Sauvegardes d’apps, blocage de doublons, duplication de pages, suspension d’applis : SeaTable 4.2 dope apps, formules, recherche, automatisation.'
 ---
 
 Dans **SeaTable 4.2**, le développement de l'Universal App Builder passe à la vitesse supérieure : la nouvelle **gestion des versions** permet de revenir aux versions précédentes d'une application. Le **contrôle des doublons** sur les pages de tableaux et de formulaires permet d'empêcher efficacement la saisie d'entrées identiques. En outre, il est désormais possible de dupliquer des pages dans l'app universelle et de **suspendre temporairement des apps**.

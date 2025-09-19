@@ -2,12 +2,14 @@
 title: 'Gestión de galerías de arte'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/art-gallery-management'
+url: '/es/plantilla/gestion-galeria-arte'
+aliases:
+    - '/es/plantilla/art-gallery-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla para gestión de galerías de arte y exposiciones'
+    description: 'Organiza arte, artistas, préstamos y eventos: plantilla digital para el control integral de tu museo o galería, gratis y editable.'
 template: '59d653f20de446a79f03'
 ---
 

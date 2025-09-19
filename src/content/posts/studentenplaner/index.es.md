@@ -1,5 +1,6 @@
 ---
 title: 'Personalice su agenda estudiantil | con SeaTable'
+description: 'El planificador estudiantil SeaTable te ayuda a organizar clases, tareas, entregas y libros. Visualiza tu progreso en tiempo real y adapta el plan a tu semestre universitaro – fácil, intuitivo y gratuito.'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
@@ -7,8 +8,8 @@ url: '/es/planificador-estudiantil'
 aliases:
     - /es/studentenplaner
 seo:
-    title:
-    description:
+    title: 'Planificador estudiantil: plantilla digital y flexible'
+    description: 'Organiza todas tus tareas, exámenes, horarios y libros en una sola herramienta digital – mejora tu estudio y controla tus plazos sin estrés.'
 categories:
     - 'best-practice'
 tags:

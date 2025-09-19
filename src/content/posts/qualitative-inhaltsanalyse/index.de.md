@@ -1,13 +1,13 @@
 ---
 title: 'Qualitative Inhaltsanalyse einfach erklärt – am Beispiel eines Pressespiegels'
-description: 'Ob in der Forschung oder in der Arbeitswelt: Eine qualitative Inhaltsanalyse hilft Ihnen, strukturiert Datenmaterial auszuwerten. Wie Sie dabei am besten vorgehen und worauf Sie achten sollten, erfahren Sie in diesem Artikel. Im Anschluss wird die Durchführung einer Inhaltsanalyse auch am Beispiel eines Pressespiegels beleuchtet.'
+description: 'Was unterscheidet qualitative von quantitativer Inhaltsanalyse? Dieser Leitfaden erklärt die Methode Schritt für Schritt und zeigt am Beispiel Pressespiegel, wie du Daten analytisch und verständlich kodierst.'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
 url: '/de/qualitative-inhaltsanalyse'
 seo:
-    title: 'Qualitative Inhaltsanalyse einfach erklärt – Beispiel: Pressespiegel'
-    description: 'Die qualitative Inhaltsanalyse kann Material systematisch auswerten und interpretierbar machen. Wie Sie diese durchführen, erfahren Sie hier.'
+    title: 'Qualitative Inhaltsanalyse einfach erklärt & Beispielfall'
+    description: 'Was ist qualitative Inhaltsanalyse nach Mayring? Definition, Schritte & Praxistipps – anschauliches Beispiel: Pressespiegel.'
 categories:
     - 'best-practice'
 tags:

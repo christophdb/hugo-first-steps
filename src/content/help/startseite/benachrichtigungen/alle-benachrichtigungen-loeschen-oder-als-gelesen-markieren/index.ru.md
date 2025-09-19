@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/pomoshch/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+url: '/ru/pomoshch/udalit-ili-otmetit-uvedomleniya-seatable'
+aliases:
+    - '/ru/pomoshch/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+seo:
+    title: 'Удаляйте или отмечайте все уведомления в SeaTable'
+    description: 'Узнайте, как удалить или отметить все уведомления как прочитанные в SeaTable — для порядка в команде и автоматизации.'
 ---
 
 Уведомления являются важной частью совместной работы в SeaTable и информируют вас, среди прочего, о том, что в ваших базах сработали автоматики, комментарии были добавлены к строке или базы были переданы вам. Чтобы помочь вам отслеживать получаемые уведомления, вы можете получить к ним доступ с главной страницы, а также из ваших баз.

@@ -1,5 +1,8 @@
 ---
 title: 'Contact'
+seo:
+    title: 'Contact – Assistance et conseil SeaTable'
+    description: 'Contactez SeaTable : support, conseil et service pour Cloud ou serveur dédié. Nous répondons à vos questions, contactez-nous !'
 date: '2025-04-03'
 url: '/fr/contact'
 

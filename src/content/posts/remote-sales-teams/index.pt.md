@@ -1,5 +1,6 @@
 ---
 title: '6 dicas para aumentar a produtividade da sua equipa remota - SeaTable'
+description: 'Trabalhar remoto desafia equipes a se manterem produtivas e conectadas. Veja 6 dicas essenciais para melhorar reuniões, comunicação e uso de ferramentas – e conquiste resultados notáveis no seu time mesmo longe do escritório tradicional.'
 date: 2021-10-07
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /pt/remote-sales-teams
 color: '#4b9480'
 seo:
-    title:
-    description:
+    title: '6 dicas para aumentar a produtividade do time remoto'
+    description: 'Colaboração remota eficiente: veja 6 dicas para equipes à distância mais produtivas e unidas.'
 ---
 
 A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade]({{< relref "posts/homeoffice-tipps" >}}) é muitas vezes [prejudicada]({{< relref "posts/homeoffice-tipps" >}}). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.

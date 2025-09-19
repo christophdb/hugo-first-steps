@@ -5,7 +5,12 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'kgr'
-url: '/help/datenerfassung'
+url: '/help/data-entry'
+aliases:
+    - '/help/datenerfassung'
+seo:
+    title: 'Data entry in SeaTable: all efficient methods'
+    description: 'Learn how to collect data in SeaTable – manually, with copy-paste, file import, web forms, and time-saving automation.'
 ---
 
 This article highlights some of the ways you can capture data in SeaTable.

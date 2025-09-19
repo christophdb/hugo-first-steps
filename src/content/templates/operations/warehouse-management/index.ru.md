@@ -8,8 +8,8 @@ aliases:
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Складской учет: шаблон для цифрового склада'
+    description: 'Эффективный складской учет и автоматизация запасов в шаблоне SeaTable.'
 template: 'ab96101c9e5b4470a2d2'
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.1: plugin de diseño de páginas mejorado y nuevo backend de Big Data'
+description: 'El plugin de diseño ahora permite imprimir listas, usar cabeceras, pies y campos dinámicos. Con el backend Big Data, almacena millones de filas por base y mejora la gestión de vistas y carpetas. Pensado para grandes equipos y proyectos que piden más rendimiento y colaboración personalizada.'
 date: 2022-08-26
 lastmod: '2022-08-26'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#f5757a'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.1: Diseño de página y Big Data backend'
+    description: 'Impresión de listas, campos dinámicos y backend big data: la versión 3.1 de SeaTable apunta alto.'
 ---
 
 Nos complace presentar la última versión de SeaTable. Se trata sólo de una versión "menor", pero viene a lo grande. El plugin de diseño de páginas ampliado ofrece ahora más opciones para diseñar y gestionar plantillas sofisticadas. Las nuevas funciones también permiten escenarios de aplicación completamente nuevos. Lo mismo hace el Big Data Backend, que está listo para la producción con la versión 3.1. La función Enterprise supera el límite anterior de SeaTable de 100.000 filas por base y hace que SeaTable esté preparado para tareas de mayor envergadura. Los equipos más grandes estarán encantados con la posibilidad de ordenar los grupos en la página de inicio y de categorizar las vistas en las bases. Aquí se presentan estos aspectos destacados y algunas otras novedades. El registro de cambios contiene la lista completa de cambios.

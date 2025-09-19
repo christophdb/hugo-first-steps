@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/es/ayuda/datenabfrage-app'
+url: '/es/ayuda/app-consulta-datos'
+aliases:
+    - '/es/ayuda/datenabfrage-app'
+seo:
+    title: 'App de consulta de datos: búsqueda y filtrado rápido'
+    description: 'Descubra cómo utilizar la app de consulta para buscar y filtrar grandes volúmenes de datos y compartir resultados fácilmente.'
 ---
 
 Con la ayuda de una **aplicación de consulta de datos**, puede permitir que otros usuarios busquen sus registros en **campos** específicos para **valores** concretos. Esta **pantalla de búsqueda** es especialmente útil para grandes conjuntos de datos, como catálogos de productos o bibliotecas.

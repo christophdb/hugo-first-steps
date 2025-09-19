@@ -1,14 +1,14 @@
 ---
 title: 'Abastécete de suministros de emergencia: Lo que siempre debe tener en casa'
+description: '¿Corte de luz o desabastecimiento? Con una buena despensa de emergencia tienes todo bajo control. Descubre qué alimentos, agua, medicamentos y artículos de higiene no deben faltar y cómo conservarlos correctamente para toda la familia.'
 date: 2023-09-20
 lastmod: '2023-09-20'
-author: 'lsc'
 url: '/es/crear-kit-emergencia'
 aliases:
     - /es/notvorrat-anlegen
 seo:
-    title:
-    description:
+    title: 'Almacén de emergencia: lo esencial frente a crisis'
+    description: 'Prepara tu despensa para cualquier emergencia – checklist y consejos prácticos.'
 categories:
     - 'best-practice'
 tags:

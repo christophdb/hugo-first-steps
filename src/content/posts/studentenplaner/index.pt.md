@@ -1,5 +1,6 @@
 ---
 title: 'Personalize o seu planeador de alunos | com SeaTable'
+description: 'Com o planner estudantil SeaTable seu semestre fica muito mais fácil: acompanhe tarefas, provas, agenda, leituras e contatos em um mesmo lugar. Personalize seu fluxo acadêmico e nunca mais perca um prazo importante – grátis para todos os estudantes.'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
@@ -7,8 +8,8 @@ url: '/pt/planejador-estudantil'
 aliases:
     - /pt/studentenplaner
 seo:
-    title:
-    description:
+    title: 'Planner estudantil: modelo digital personalizável'
+    description: 'Organize tarefas, avaliações, horários, leituras e contatos com um planner digital. Tenha controle do seu progresso e dos trabalhos acadêmicos.'
 categories:
     - 'best-practice'
 tags:

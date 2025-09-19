@@ -2,12 +2,14 @@
 title: 'CRM & Vendas'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/crm-sales'
+url: '/pt/modelo/crm-vendas'
+aliases:
+    - '/pt/modelo/crm-sales'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM & Vendas: gerencie clientes e negócios online'
+    description: 'Organize clientes, oportunidades e ofertas em um sistema central: acompanhe processos, tarefas e análises em tempo real com SeaTable CRM.'
 template: '76c0775460d44fee93a4'
 ---
 

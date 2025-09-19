@@ -2,12 +2,14 @@
 title: 'Planificación de la campaña'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/content-calendar'
+url: '/es/plantilla/calendario-contenidos'
+aliases:
+    - '/es/plantilla/content-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Calendario de Contenidos: Plantilla para Editorial y Campañas'
+    description: 'Organiza, visualiza y gestiona todas tus campañas de contenido en un solo lugar con el calendario digital SeaTable.'
 template: 'bea0242b70f64ec698cb'
 ---
 

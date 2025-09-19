@@ -2,12 +2,14 @@
 title: 'Revista de prensa / análisis de contenidos'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/media-content-analysis'
+url: '/es/plantilla/analyse-medias'
+aliases:
+    - '/es/plantilla/media-content-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de análisis de medios: noticias & mención'
+    description: 'Controla menciones, noticias, alcance y tono – plantilla para análisis y reporting de medios, relaciones públicas y reputación.'
 template: '2064f57fadc14bc884cb'
 ---
 

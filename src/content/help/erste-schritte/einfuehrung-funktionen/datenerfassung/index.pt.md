@@ -5,7 +5,12 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'kgr'
-url: '/pt/ajuda/datenerfassung'
+url: '/pt/ajuda/coleta-dados'
+aliases:
+    - '/pt/ajuda/datenerfassung'
+seo:
+    title: 'Coleta de dados em SeaTable: como fazer'
+    description: 'Veja como inserir dados em SeaTable: manualmente, por importação, formulário web, copy-paste ou automação simples.'
 ---
 
 Este artigo destaca algumas das formas como se podem captar dados no SeaTable.

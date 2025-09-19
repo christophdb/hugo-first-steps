@@ -2,12 +2,14 @@
 title: 'Bibliothèque de produits'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/product-library'
+url: '/fr/modele/bibliotheque-produits'
+aliases:
+    - '/fr/modele/product-library'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de bibliothèque de produits : gestion simplifiée'
+    description: 'Gérez vos données produit, fiches techniques et fournisseurs — tout centralisé.'
 template: 'faf9c0823ac748b59ef5'
 ---
 

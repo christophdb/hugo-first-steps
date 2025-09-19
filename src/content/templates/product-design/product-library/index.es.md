@@ -2,12 +2,14 @@
 title: 'Biblioteca de productos'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/product-library'
+url: '/es/plantilla/biblioteca-productos'
+aliases:
+    - '/es/plantilla/product-library'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de biblioteca de productos'
+    description: 'Controle datos y fichas de productos con la plantilla digital de SeaTable.'
 template: 'faf9c0823ac748b59ef5'
 ---
 

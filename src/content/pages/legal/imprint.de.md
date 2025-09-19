@@ -1,6 +1,9 @@
 ---
 title: 'Impressum'
 description: ''
+seo:
+    title: 'Impressum SeaTable GmbH: Rechtliche Angaben'
+    description: 'Rechtliche Informationen, Kontakt und Verantwortlicher der SeaTable GmbH nach TMG & DSGVO'
 date: 2025-03-24
 type: 'legal'
 url: '/de/impressum'

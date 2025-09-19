@@ -9,7 +9,7 @@ aliases:
     - /de/patriot-act-vs-privacy-canada
 seo:
     title: 'Patriot Act vs. Datenschutz – Kanadische Daten sicher verarbeiten'
-    description: 'In diesem Artikel erfahren Sie, wie Sie kanadische Daten datenschutzkonform und außer Reichweite des Patriot Act verarbeiten können.'
+    description: 'Erfahren Sie, wie Kanadas Gesetz 25 mit dem US-Patriot Act kollidiert und welche datenschutzkonformen Alternativen für Unternehmen bestehen.'
 categories:
     - 'best-practice'
 tags:

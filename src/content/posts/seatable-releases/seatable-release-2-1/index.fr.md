@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.1 : Autorisations de table et traitement des données - SeaTable'
+description: 'Droits ajustés table par table, traitements cumulés et copiés ligne à ligne/entre tables, droits restreints sur sélections, cases plus ergonomiques, imports Excel par lots, abandon de groupe facilité, filtres dates malins et nouvel assistant impression : gestion de données performante.'
 date: 2021-07-06
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#9ebb00'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.1 : droits, traitements, sélecteurs'
+    description: 'Contrôle par table, traitement ligne à ligne, restriction des sélecteurs et cases plus pratiques : SeaTable 2.1 affine la gestion des données.'
 ---
 
 Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://cloud.seatable.io) en SeaTable 2.1 et téléchargé la nouvelle image Docker sur Docker Hub. Les points forts de cette version sont les nouvelles autorisations de table et une nouvelle fonction appelée Traitement des données. En outre, nous avons amélioré les types de colonnes sélection simple et multiple ainsi que la colonne case à cocher. Dans ces notes de mise à jour, nous présentons - comme toujours - les développements centraux et renvoyons au [changelog de SeaTable]({{< relref "pages/changelog" >}}) (disponible uniquement en anglais) pour la liste complète des changements.

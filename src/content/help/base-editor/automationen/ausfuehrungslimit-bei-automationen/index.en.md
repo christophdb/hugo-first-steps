@@ -5,7 +5,12 @@ lastmod: '2023-08-07'
 categories:
     - 'automationen'
 author: 'kgr'
-url: '/help/ausfuehrungslimit-bei-automationen'
+url: '/help/automation-run-limit'
+aliases:
+    - '/help/ausfuehrungslimit-bei-automationen'
+seo:
+    title: 'Automation run limit in SeaTable explained'
+    description: 'Learn how the 50 runs per minute limit affects SeaTable automations and how to optimize your workflow efficiently.'
 ---
 
 Do you work with [automations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) in your base that are triggered by new or changed entries? Then please note the following: If you add or modify more than 50 entries per minute, it may happen that the desired [automation actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) are not started. The reason for this is the execution limit for automations.

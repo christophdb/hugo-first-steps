@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.7: Conditional cell formatting, column freezing and default value for date column'
+description: 'Get better control with SeaTable 2.7: Create color-based rules, calculate rankings, freeze multiple columns for big tables and set default dates. Enhanced entry linking, password protection and improved search boost productivity and safeguarding. Admins now enforce 2FA easily for more secure teams.'
 date: 2022-02-02
 lastmod: '2022-02-03'
 coverImage: 'release-2.7.jpg'
@@ -9,8 +10,8 @@ color: '#c29eca'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.7: Conditional Formatting & Column Freeze'
+    description: 'Conditional cell formatting, column freezing, date defaults and password-protected bases — major upgrades in SeaTable 2.7!'
 ---
 
 This morning, [SeaTable Cloud](https://cloud.seatable.io) was updated to version 2.7. This means that all Cloud users can now also enjoy the new functions and improvements of the new version, which has already been available for download for self-hosters on Docker Hub for a few days. The table editor benefited most from the version change: the conditional cell formatting, the new data processing operation "Calculate Ranking", the extended column fixing and the default value function for date columns offer a lot of new functionality. Outside the table editor, the password-protected bases are an important improvement. All changes can be found - as always - in the [SeaTable changelog]({{< relref "pages/changelog" >}}).

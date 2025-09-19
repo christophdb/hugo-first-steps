@@ -1,6 +1,11 @@
 ---
-title: Quick Guide
+title: 'Quick Guide'
+seo:
+    title: 'SeaTable Quick Guide – Get Started Fast'
+    description: 'Learn the SeaTable basics in minutes – organize data, collaborate in teams, automate tasks. Start your first project quickly.'
 url: '/quick-guide'
+aliases:
+    - '/quick-quide/'
 
 sections:
     - name: 'hero-2'

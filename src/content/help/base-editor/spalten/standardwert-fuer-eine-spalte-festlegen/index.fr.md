@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'kgr'
-url: '/fr/aide/standardwert-fuer-eine-spalte-festlegen'
+url: '/fr/aide/definir-valeur-par-defaut-colonne'
+aliases:
+    - '/fr/aide/standardwert-fuer-eine-spalte-festlegen'
+seo:
+    title: 'Définir une valeur par défaut pour une colonne'
+    description: 'Apprenez à définir des valeurs par défaut pour vos colonnes SeaTable et remplissez automatiquement les nouvelles lignes afin de gagner du temps.'
 ---
 
 Lorsque vous définissez une **valeur par défaut** pour une colonne, celle-ci est **automatiquement** insérée **dans chaque nouvelle ligne** du tableau. Les valeurs par défaut prédéfinies vous permettent donc d'économiser quelques clics lors de l'[ajout de nouvelles lignes]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Vous pouvez bien sûr ensuite adapter manuellement les valeurs saisies automatiquement.

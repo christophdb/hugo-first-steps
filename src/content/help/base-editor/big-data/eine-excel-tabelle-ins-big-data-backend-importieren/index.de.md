@@ -6,6 +6,9 @@ categories:
     - 'big-data'
 author: 'kgr'
 url: '/de/hilfe/eine-excel-tabelle-ins-big-data-backend-importieren'
+seo:
+    title: 'XLSX in Big-Data-Speicher importieren (SeaTable Anleitung)'
+    description: 'So importieren Sie eine große Excel-Tabelle in SeaTables Big-Data-Backend. Schritt-für-Schritt, Hinweise zu Struktur & Aktualisierung.'
 ---
 
 {{< required-version "Enterprise" >}}

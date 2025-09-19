@@ -2,12 +2,14 @@
 title: 'Escrever oferta'
 description: ''
 date: '2025-04-06'
-url: '/pt/modelo/quotation-management'
+url: '/pt/modelo/gestao-orcamentos'
+aliases:
+    - '/pt/modelo/quotation-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gerenciamento de Orçamentos: Modelo Digital de Propostas'
+    description: 'Faça, envie e gerencie orçamentos rapidamente com o modelo SeaTable: automação, armazenamento central e envio por e-mail.'
 template: '584c3121cf4a4ffd86e5'
 ---
 

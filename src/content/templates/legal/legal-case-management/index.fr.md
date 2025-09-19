@@ -2,12 +2,14 @@
 title: 'Gestion des cas'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/legal-case-management'
+url: '/fr/modele/gestion-dossiers-juridiques'
+aliases:
+    - '/fr/modele/legal-case-management'
 category: 'legal'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion des dossiers juridiques digitalisée'
+    description: 'Centralisez les dossiers, clients et documents, visualisez les tâches, planifiez les échéances et automatisez les rappels : tout est accessible partout.'
 template: '8a314f809d5f4945847c'
 ---
 

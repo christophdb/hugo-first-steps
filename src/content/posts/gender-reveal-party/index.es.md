@@ -1,5 +1,6 @@
 ---
 title: 'Fiesta de revelación del sexo: cómo hacer que tu baby shower sea un éxito'
+description: 'Celebra la revelación del sexo del bebé a lo grande: esta guía te ofrece ideas originales, consejos de decoración, sugerencias de menú, juegos divertidos y una checklist práctica para organizar tu baby shower sin estrés.'
 date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/es/fiesta-revelacion-genero'
 aliases:
     - /es/gender-reveal-party
 seo:
-    title:
-    description:
+    title: 'Fiesta gender reveal: guía, ideas y planificación'
+    description: 'Organiza la mejor fiesta gender reveal: guía de organización, ideas para la revelación, decoración, juegos y lista de control.'
 categories:
     - 'best-practice'
 tags:

@@ -2,12 +2,14 @@
 title: 'Plano de redação'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/writing-plan'
+url: '/pt/modelo/plano-escrita'
+aliases:
+    - '/pt/modelo/writing-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de plano de escrita: livro, trama, personagens'
+    description: 'Escreva seu livro: capítulos, trama, fichário de personagens – modelo para organizar romance, biografia ou roteiro no digital.'
 template: 'f4d05c56e13e4dd1bb57'
 ---
 

@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/kalenderseiten-in-universellen-apps'
+url: '/ru/pomoshch/kalendarnye-stranitsy-v-universalnykh-prilozheniyakh'
+aliases:
+    - '/ru/pomoshch/kalenderseiten-in-universellen-apps'
+seo:
+    title: 'Календарь в универсальных приложениях'
+    description: 'Календарные страницы в Universal Apps SeaTable: встречи, задачи, фильтры и редактирование событий в календаре.'
 ---
 
 Этот тип страницы универсального приложения работает аналогично [плагину календаря]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) вашей таблицы в виде **календаря**. Конкретным вариантом использования может быть, например, отображение в календаре предстоящих **встреч**.

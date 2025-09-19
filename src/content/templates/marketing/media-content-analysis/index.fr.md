@@ -2,12 +2,14 @@
 title: 'Revue de presse / analyse de contenu'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/media-content-analysis'
+url: '/fr/modele/analyse-medias'
+aliases:
+    - '/fr/modele/media-content-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle d’analyse médiatique : reporting & mentions'
+    description: 'Analysez articles, citations, médias & portée : modèle numérique de suivi presse, réputation et rapports pour communication.'
 template: '2064f57fadc14bc884cb'
 ---
 

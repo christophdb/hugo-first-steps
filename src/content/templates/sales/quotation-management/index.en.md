@@ -6,8 +6,8 @@ url: '/template/quotation-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Quotation Management Template: Create & Send Quotes Easily'
+    description: 'Create, manage, and send quotations digitally with SeaTable’s template—automatic calculations, fast exports, seamless workflows.'
 template: '584c3121cf4a4ffd86e5'
 ---
 

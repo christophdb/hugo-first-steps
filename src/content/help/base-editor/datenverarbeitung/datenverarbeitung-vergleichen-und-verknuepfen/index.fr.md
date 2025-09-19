@@ -5,7 +5,12 @@ lastmod: '2023-03-20'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitung-vergleichen-und-verknuepfen'
+url: '/fr/aide/comparer-lier-donnees-seatable'
+aliases:
+    - '/fr/aide/datenverarbeitung-vergleichen-und-verknuepfen'
+seo:
+    title: 'Comparer et lier des données dans SeaTable'
+    description: 'Reliez les enregistrements entre plusieurs tableaux SeaTable dès que les valeurs concordent grâce à une opération rapide.'
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. **Comparer et lier** est une opération qui vous permet de lier des enregistrements dans deux tableaux différents si une valeur de colonne est identique dans les deux tableaux.

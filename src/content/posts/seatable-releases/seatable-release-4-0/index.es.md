@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.0: nuevo tipo de columna, gestión de archivos mejorada y avances con Universal App Builder - SeaTable'
+description: 'Ahora puedes firmar digitalmente tus documentos y gestionar archivos/folders más fácilmente. Integración nativa con Seafile para big data, estadísticas avanzadas fusionadas, mejoras visuales en el Universal App Builder y branding personalizable. Ideal para equipos modernos y análisis complejos.'
 date: 2023-06-27
 lastmod: '2023-06-27'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#3aa3f4'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.0: firmas digitales y gestor archivos'
+    description: 'Gestión avanzada de archivos, firmas digitales, integración Seafile, estadísticas fusionadas, nuevo App Builder: grandes mejoras en SeaTable 4.0.'
 ---
 
 Mientras el sol abrasa en el exterior, nuestros desarrolladores han mantenido la cabeza fría y han completado la cuarta gran versión de SeaTable. La versión 4.0 de SeaTable mejora las funciones existentes, pero también sacia la sed de nuevas características. Novedades de la versión 4.0: un tipo de columna para firmas digitales, un gestor de archivos integrado para facilitar la gestión de archivos adjuntos y, para nuestros clientes de Cloud Enterprise, una función de logotipo personalizado como opción de marca.

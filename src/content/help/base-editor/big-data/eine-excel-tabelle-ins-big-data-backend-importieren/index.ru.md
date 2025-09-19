@@ -5,7 +5,12 @@ lastmod: '2024-05-14'
 categories:
     - 'big-data'
 author: 'kgr'
-url: '/ru/pomoshch/eine-excel-tabelle-ins-big-data-backend-importieren'
+url: '/ru/pomoshch/import-xlsx-v-big-data-khranilishche'
+aliases:
+    - '/ru/pomoshch/eine-excel-tabelle-ins-big-data-backend-importieren'
+seo:
+    title: 'Импорт XLSX в Big Data хранилище (SeaTable)'
+    description: 'Как импортировать большой Excel-файл в Big Data SeaTable: пошагово, структура и автообновление.'
 ---
 
 {{< required-version "Предприятие" >}}

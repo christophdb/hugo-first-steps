@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.3: Even more deployment flexibility with archive function - SeaTable'
+description: 'SeaTable 2.3 transforms big data handling: archive tables with millions of rows, filter and analyze historic records like live ones. New default values in forms, column duplication, enhanced PDF export and email integration grow your power and flexibility. Usable for large, data-intensive teams and processes.'
 date: 2021-09-02
 lastmod: '2023-07-11'
 coverImage: 'SeaTable-2-3.png'
@@ -9,8 +10,8 @@ color: '#fa77b6'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.3: Archive for Millions of Rows'
+    description: 'Break the row limit — the archive feature (beta) stores millions of entries, all queryable and filterable, plus new column and form defaults now available.'
 ---
 
 SeaTable version 2.3, available since today, is getting ready to conquer new fields of application. With the archive function, which is presented as a beta in this release, SeaTable is now also recommended for data-intensive use cases: Tables with millions of data records can be stored and evaluated in SeaTable. It is the focus of these release notes. Further innovations and improvements are presented in an overview. The complete list of changes can be found - as always - in the [SeaTable Changelog]({{< relref "pages/changelog" >}}).

@@ -1,6 +1,6 @@
 ---
 title: 'Kundenzufriedenheit messen, auswerten und steigern'
-description: ''
+description: 'Zufriedene Kunden kaufen wieder und empfehlen Ihr Unternehmen weiter. Doch wie misst man Kundenzufriedenheit richtig? Mit NPS-Umfragen und Online-Befragungen sammeln Sie strukturiert Feedback. SeaTable hilft Ihnen, Antworten auszuwerten, Schwachstellen zu analysieren und Maßnahmen abzuleiten, um die Customer Experience zu optimieren.'
 date: '2021-03-05'
 lastmod: '2023-06-28'
 author: 'cdb'

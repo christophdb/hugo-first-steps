@@ -2,12 +2,14 @@
 title: 'Registro del tiempo de trabajo'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/recording-working-time'
+url: '/es/plantilla/control-horario'
+aliases:
+    - '/es/plantilla/recording-working-time'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla control horario: registro laboral y ausencias'
+    description: 'Registra horario, ausencias y vacaciones – cumple con la normativa europea con esta plantilla digital para tu empresa.'
 template: '7b72578c0e714750954a'
 ---
 

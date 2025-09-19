@@ -6,8 +6,8 @@ url: '/de/vorlage/ernaehrungstagebuch'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Ernährungstagebuch App: Ernährung dokumentieren & auswerten'
+    description: 'Mit dem Food Diary von SeaTable dokumentieren Sie Mahlzeiten und Unverträglichkeiten. Analysieren Sie Ihre Ernährungsgewohnheiten einfach digital.'
 template: '166dab67dcff4ee799fb'
 ---
 

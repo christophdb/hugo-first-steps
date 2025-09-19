@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Коллекция кроссовок: учёт и галерея онлайн'
+    description: 'Вся коллекция онлайн: бренд, редкость, стоимость, фото, контакты для обмена — SeaTable систематизирует каждую пару.'
 template: 'cc4113f9d66f488db6e2'
 ---
 

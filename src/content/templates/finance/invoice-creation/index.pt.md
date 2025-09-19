@@ -2,12 +2,14 @@
 title: 'Redigir fatura'
 description: ''
 date: '2025-03-24'
-url: '/pt/modelo/invoice-creation'
+url: '/pt/modelo/emissao-fatura'
+aliases:
+    - '/pt/modelo/invoice-creation'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de fatura: emissão simples e rápida'
+    description: 'Gere e envie suas faturas em segundos com o modelo SeaTable: cálculos, PDFs, clientes e integração fácil.'
 template: '0341827ed80f4be3888a'
 ---
 

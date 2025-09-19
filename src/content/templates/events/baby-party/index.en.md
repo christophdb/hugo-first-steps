@@ -6,8 +6,8 @@ url: '/template/baby-party'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Baby Shower Planner Template – Guest List & Checklist'
+    description: 'Baby shower planning made easy: track guests, gifts, tasks, games and food – organized, digital & free.'
 template: 'f49862deac1d4d1ea078'
 ---
 

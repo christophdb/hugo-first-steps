@@ -8,8 +8,8 @@ aliases:
 category: 'software-development'
 functions:
 seo:
-    title: 'Technologie-Roadmap | Vorlage zur Strategieplanung'
-    description: 'Planen Sie Ihre technische Strategie effektiv. Mit dieser Vorlage visualisieren Sie Projekte, Technologien und Meilensteine klar für Ihr gesamtes Team'
+    title: 'Technologie-Roadmap Vorlage | IT-Strategie & Projekte'
+    description: 'IT-Roadmap Vorlage: Meilensteine, Releases, Aufgaben & Teams zentral planen und steuern – für agile IT- und Digitalprojekte optimiert.'
 template: '1b086534c58049f481eb'
 ---
 

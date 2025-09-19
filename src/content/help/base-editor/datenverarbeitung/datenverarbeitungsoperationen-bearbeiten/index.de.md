@@ -6,6 +6,9 @@ categories:
   - "datenverarbeitung"
 author: "nsc2"
 url: "/de/hilfe/datenverarbeitungsoperationen-bearbeiten"
+seo:
+    title: 'Datenverarbeitungsoperationen in SeaTable bearbeiten'
+    description: 'Bearbeiten Sie mathematische und relationale Datenverarbeitungsaktionen in SeaTable jederzeit komfortabel und flexibel.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl mathematische Berechnungen über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind.

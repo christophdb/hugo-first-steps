@@ -2,12 +2,14 @@
 title: "Modèle de liste d'inventaire"
 description: ''
 date: '2025-02-28'
-url: '/fr/modele/inventory-list'
+url: '/fr/modele/liste-inventaire'
+aliases:
+    - '/fr/modele/inventory-list'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle d’inventaire : gestion claire et gratuite'
+    description: 'Suivez votre inventaire, gérez stocks, biens et emplacements : modèle gratuit, rapports visuels, accès partagé pour toute l’équipe.'
 template: '11568480344f4a61ab49'
 ---
 

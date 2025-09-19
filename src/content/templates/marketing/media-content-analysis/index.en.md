@@ -6,8 +6,8 @@ url: '/template/media-content-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Media Content Analysis Template – PR Monitoring Tool'
+    description: 'Analyze news & articles for mentions, reach & sentiment. All-in-one template for media monitoring, reporting & content research.'
 template: '2064f57fadc14bc884cb'
 ---
 

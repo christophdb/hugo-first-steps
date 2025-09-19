@@ -5,7 +5,12 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'kgr'
-url: '/es/ayuda/datenerfassung'
+url: '/es/ayuda/captura-datos'
+aliases:
+    - '/es/ayuda/datenerfassung'
+seo:
+    title: 'Captura de datos: métodos en SeaTable'
+    description: 'Descubra cómo recopilar datos en SeaTable con entrada manual, copy-paste, importación, formularios y automatización.'
 ---
 
 Este artículo destaca algunas de las formas en que puede capturar datos en SeaTable.

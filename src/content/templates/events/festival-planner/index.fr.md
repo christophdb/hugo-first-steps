@@ -2,12 +2,14 @@
 title: 'Planificateur de festival'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/festival-planner'
+url: '/fr/modele/planificateur-festival'
+aliases:
+    - '/fr/modele/festival-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de planification de festival : line-up, horaires'
+    description: 'Festival sans stress : line-up, horaires, packlist, invités – organisez chaque moment avec le planificateur digital, seul ou en groupe.'
 template: '1aa1f7e441554bf6887b'
 ---
 

@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/pt/ajuda/datenabfrage-app'
+url: '/pt/ajuda/aplicativo-consulta-dados'
+aliases:
+    - '/pt/ajuda/datenabfrage-app'
+seo:
+    title: 'Aplicativo de consulta de dados: pesquisa eficiente'
+    description: 'Veja como usar o aplicativo de consulta de dados para pesquisar grandes conjuntos e compartilhar resultados com facilidade.'
 ---
 
 Com a ajuda de uma **aplicação de consulta de dados**, pode permitir que outros utilizadores pesquisem os seus registos em **campos** específicos para **valores** específicos. Este **ecrã de pesquisa** é particularmente útil para grandes conjuntos de dados, como catálogos de produtos ou bibliotecas.

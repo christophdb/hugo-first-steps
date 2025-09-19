@@ -6,8 +6,8 @@ url: '/template/password-manager'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Password Manager Template – Secure Account List'
+    description: 'Password manager template: organize your logins, passwords, subscriptions & notes securely – never forget a password again.'
 template: '0467fede46ee48a8a1c2'
 ---
 

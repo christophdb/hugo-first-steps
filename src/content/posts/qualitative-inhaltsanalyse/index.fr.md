@@ -1,5 +1,6 @@
 ---
 title: "L'analyse qualitative de contenu expliquée simplement - Exemple : revue de presse"
+description: 'Découvrez comment réaliser une analyse de contenu qualitative : explications simples des étapes clés et démonstration d’un cas concret avec revue de presse et catégories de codage.'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/fr/analyse-contenu-qualitative'
 aliases:
     - /fr/qualitative-inhaltsanalyse
 seo:
-    title:
-    description:
+    title: 'Analyse de contenu qualitative : explication & exemple presse'
+    description: 'Méthode d’analyse de contenu qualitative : définition, étapes, bonnes pratiques et illustration par revue de presse.'
 categories:
     - 'best-practice'
 tags:

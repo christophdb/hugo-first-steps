@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.5 : Archives, traitement des données et automatisations optimisés - SeaTable'
+description: 'Archivage pour tous types de colonnes (formules, liens), traitements de données plus souples, déclenchement de scripts Python, colonne note avec choix d’icônes et summary auto. Export/import Excel revus, galeries personnalisables, fonction countitems et intégration de 4 plateformes d’automation facilitent grandes bases et équipes.'
 date: 2021-11-16
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#e7cae0'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.5 : archivage, process, automation'
+    description: 'Archivage compatible formules, liens, process plus souples, automatisations améliorées et notation étoffée – SeaTable 2.5 multiplie vos options!'
 ---
 
 La version 2.5 de SeaTable est arrivée ! La nouvelle image Docker a déjà été mise à disposition sur Docker Hub à la fin de la semaine dernière et ce matin, SeaTable Cloud a été mis à jour avec la dernière version. Cette nouvelle version améliore encore de nombreuses fonctions de SeaTable ! La fonction d'archivage, dont les fonctionnalités s'élargissent, est recommandée pour un nombre croissant de cas d'utilisation, les fonctions de traitement des données disponibles sont plus flexibles et les automatisations intégrées ainsi que la colonne de notation offrent de nouvelles options. Il convient également de mentionner que les colonnes de type lien et formule de lien sont désormais entièrement prises en charge dans les vues externes. Lisez la suite pour en savoir plus sur ces nouveautés. Comme toujours, vous trouverez la liste complète des modifications dans le [changelog de SeaTable]({{< relref "pages/changelog" >}}).

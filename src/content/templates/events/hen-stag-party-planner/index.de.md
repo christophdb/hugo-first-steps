@@ -8,8 +8,8 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: 'Der perfekte Junggesellenabschied planen: Die Vorlage'
-    description: 'Einen Junggesellenabschied planen ohne Stress. Nutzen Sie unsere Vorlage, um Aufgaben, Budget und Gäste effizient zu organisieren'
+    title: 'Junggesellenabschied planen: Digitale Party-Planer Vorlage'
+    description: 'Mit SeaTable den perfekten Junggesellen- oder Junggesellinnenabschied einfach zentral organisieren, To-dos verteilen und das Eventbudget digital verwalten.'
 template: '88ed38a6b4b04683a4c8'
 ---
 

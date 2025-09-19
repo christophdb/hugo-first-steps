@@ -6,6 +6,9 @@ categories:
     - 'javascript-python'
 author: 'nsc2'
 url: '/de/hilfe/anlegen-und-loeschen-eines-skriptes'
+seo:
+    title: 'Skript in SeaTable anlegen und löschen'
+    description: 'Erstellen oder entfernen Sie JavaScript- und Python-Skripte schnell in Ihrer SeaTable Base – starten Sie Ihre Automatisierung!'
 ---
 
 Egal ob JavaScript oder Python-Skript, mit einem Skript können Sie in SeaTable großartige Dinge vollbringen. Während JavaScript im Browser des Anwenders ausgeführt wird und für eher einfache Dateimanipulationen gedacht ist, werden Python-Skripte direkt auf dem SeaTable Server ausgeführt und sind daher leistungsfähiger und vielseitiger einsetzbar. Probieren Sie es einfach mal aus und legen Sie ein beliebiges Skript innerhalb einer Base an.

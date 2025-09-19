@@ -2,12 +2,14 @@
 title: 'Gestión de casos'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/legal-case-management'
+url: '/es/plantilla/gestion-casos-legales'
+aliases:
+    - '/es/plantilla/legal-case-management'
 category: 'legal'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de casos legales: plantilla digital SeaTable'
+    description: 'Administre casos legales, clientes y documentos en un sistema central; Kanban, calendario y recordatorios incluidos, seguro y flexible.'
 template: '8a314f809d5f4945847c'
 ---
 

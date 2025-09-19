@@ -2,12 +2,14 @@
 title: 'Studienplaner'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/semester-schedule'
+url: '/de/vorlage/semesterplaner'
+aliases:
+    - '/de/vorlage/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Semesterplaner Vorlage – Stundenplan & To-dos'
+    description: 'Semester, Stundenplan, Aufgaben und Zeitmanagement clever strukturieren: digitaler Semesterplan für Studium und optimale Übersicht.'
 template: '44ac24b866ac446f8fda'
 ---
 

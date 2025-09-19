@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 4.3 : nouveaux liens de formulaires, automatisations & fonctionnalités de l'app"
+description: 'Personnalisez vos liens de webforms, automatisez PDF et notifications en app, attribuez des collaborateurs même hors base, gérez commentaires, cartes et conteneurs par page. Mails enrichis, thèmes couleurs, droits groupes affûtés et simplification admin : la donnée au service du collectif.'
 date: 2024-02-08
 lastmod: '2024-02-16'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#fd5d04'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.3 : liens forms, automation, apps'
+    description: 'Liens forms personnalisés, PDF et notifications auto, nouvelles apps universelles : SeaTable 4.3 élargit encore vos possibilités.'
 ---
 
 La période du carnaval en Allemagne approche de son apogée - et chez SeaTable aussi, les canons à confettis claquent ! La version 4.3 apporte quelques fonctions et améliorations attendues depuis longtemps.

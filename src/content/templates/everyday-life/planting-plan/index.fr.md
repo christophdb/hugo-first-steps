@@ -2,12 +2,14 @@
 title: 'Plan de plantation'
 description: ''
 date: '2025-05-15'
-url: '/fr/modele/planting-plan'
+url: '/fr/modele/plan-plantation'
+aliases:
+    - '/fr/modele/planting-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de Plan de Plantation: Jardinez organisé'
+    description: 'Plantez, entretenez et récoltez : construisez votre jardin efficacement avec un plan centralisé, disponible à tout moment.'
 template: '945ae9dc4c9c4968a035'
 ---
 

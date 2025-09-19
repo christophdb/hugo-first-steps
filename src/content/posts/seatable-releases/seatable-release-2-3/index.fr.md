@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 2.3 : Encore plus de flexibilité de déploiement avec la fonction d'archivage - SeaTable"
+description: 'Archives : surmontez la limite des lignes pour traiter des millions de données filtrables et exploitables. Par défaut pour formulaires, duplication de colonnes, export PDF, nouveaux outils d’automatisation et d’analyse : SeaTable 2.3 s’adapte aux grands projets et aux exigences data les plus avancées.'
 date: 2021-09-02
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fa77b6'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.3 : archivage et gestion massive des données'
+    description: 'Fonction archive bêta : stockez, filtrez et analysez des millions de lignes ; nouveaux paramètres de colonnes/formulaires et duplications inclus.'
 ---
 
 La version 2.3 de SeaTable, disponible depuis aujourd'hui, s'apprête à conquérir de nouveaux champs d'application. Avec la fonction d'archivage, qui est présentée en version bêta dans cette version, SeaTable est désormais également recommandé pour les cas d'utilisation intensive des données : Des tableaux contenant des millions d'enregistrements de données peuvent être stockés et analysés dans SeaTable. C'est l'objet de ces notes de mise à jour. D'autres innovations et améliorations sont présentées dans un aperçu. La liste complète des changements peut être trouvée - comme toujours - dans le [Changelog de SeaTable]({{< relref "pages/changelog" >}}).

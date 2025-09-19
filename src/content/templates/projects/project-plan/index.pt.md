@@ -2,12 +2,14 @@
 title: 'Modelo de plano de projeto'
 description: ''
 date: '2025-03-07'
-url: '/pt/modelo/project-plan'
+url: '/pt/modelo/plano-projeto'
+aliases:
+    - '/pt/modelo/project-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de plano de projeto: grátis com Gantt e Kanban'
+    description: 'Visualize e acompanhe seu projeto: modelo gratuito com timeline Gantt, quadro Kanban, tarefas e progresso – perfeito p/ qualquer equipe.'
 template: 'f5a615ac93104c44a1e4'
 ---
 

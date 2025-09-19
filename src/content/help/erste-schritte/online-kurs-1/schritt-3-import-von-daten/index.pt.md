@@ -5,7 +5,12 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/pt/ajuda/schritt-3-import-von-daten'
+url: '/pt/ajuda/passo-3-importacao-dados'
+aliases:
+    - '/pt/ajuda/schritt-3-import-von-daten'
+seo:
+    title: 'Passo 3: Importar dados no SeaTable'
+    description: 'Como importar rapidamente registros CSV no seu controle de despesas do SeaTable. Guia sobre formatos, controle e exportação.'
 ---
 
 É provável que já tenha introduzido algumas despesas no seu novo sistema de gestão de despesas. No entanto, precisamos de um pouco mais de dados para as etapas seguintes. Por isso, vamos remover as entradas existentes e importar novos registos de dados para a tabela.

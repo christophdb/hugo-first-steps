@@ -1,13 +1,14 @@
 ---
 title: 'Festa de revelação do sexo: como fazer da festa do bebé um sucesso'
+description: 'Tudo para sua festa de chá revelação ser um sucesso: passo a passo prático, inspirações para decoração temática, jogos, convites, bolos e surpresas para pais e convidados – checklist grátis para não esquecer nada!'
 date: 2024-02-16
 lastmod: '2024-02-16'
 url: '/pt/cha-revelacao'
 aliases:
     - /pt/gender-reveal-party
 seo:
-    title:
-    description:
+    title: 'Chá revelação: dicas, guia prático e checklist'
+    description: 'Como planejar um chá revelação inesquecível: ideias de decoração, brincadeiras, comidinhas e checklist completa da celebração.'
 categories:
     - 'best-practice'
 tags:

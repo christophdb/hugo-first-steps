@@ -2,12 +2,14 @@
 title: 'Festivalplaner'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/festival-planner'
+url: '/de/vorlage/festivalplaner'
+aliases:
+    - '/de/vorlage/festival-planner'
 category: 'events'
 functions:
 seo:
-    title: 'Kostenlose Vorlage für die Festival-Planung '
-    description: 'Nutzen Sie eine Vorlage für Ihre Festival-Planung - von der Packliste bis zum Festival-Line-Up. So wird Ihr Festivalbesuch ein Erfolg'
+    title: 'Festivalplaner Vorlage – Line-up, Packliste, Zeitplan'
+    description: 'Festival optimal planen: Line-up, Packliste, Zeitplan und Gäste auf einen Blick – Festivalplaner für Gruppen. Gratis & digital.'
 template: '1aa1f7e441554bf6887b'
 ---
 

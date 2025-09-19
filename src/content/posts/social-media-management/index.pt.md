@@ -1,5 +1,6 @@
 ---
 title: 'A gestão das redes sociais explicada de forma simples: exemplos e modelos'
+description: 'Gerencie redes sociais com eficiência: conheça as melhores estratégias, exemplos reais e baixe um template pronto para planejar seu calendário de posts, engajamento e análise de resultados.'
 date: 2024-01-17
 lastmod: '2025-01-28'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/gestao-midia-social'
 aliases:
     - /pt/social-media-management
 seo:
-    title:
-    description:
+    title: 'Social Media Management: exemplos práticos e template grátis'
+    description: 'Aprenda social media management com dicas, exemplos e modelo gratuito completo.'
 categories:
     - 'best-practice'
 tags:

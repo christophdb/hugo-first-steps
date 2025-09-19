@@ -1,14 +1,14 @@
 ---
 title: 'Planeie a sua mudança com uma lista de verificação: Como fazer uma mudança sem stress'
+description: 'Mudança à vista? Com um bom planejamento, checklist certeiro e orientações fiscais, seu processo fica mais fácil. Veja como organizar tudo, evitar imprevistos e aproveitar dicas profissionais para economizar tempo e dinheiro.'
 date: 2023-10-30
 lastmod: '2023-10-30'
-author: 'lsc'
 url: '/pt/mudanca'
 aliases:
     - /pt/umzug
 seo:
-    title:
-    description:
+    title: 'Mudança: checklist e dicas para organizar sem estresse'
+    description: 'Organize-se para mudar com checklist, economia e tranquilidade – guia completo e prático.'
 categories:
     - 'best-practice'
 tags:

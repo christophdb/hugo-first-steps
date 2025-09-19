@@ -2,12 +2,14 @@
 title: "Gestion de l'association"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/association-management'
+url: '/fr/modele/gestion-association'
+aliases:
+    - '/fr/modele/association-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion d’Association: Modèle pour Membres & Activités'
+    description: 'Gérez membres, cotisations et événements au même endroit : solution centralisée, numérique et sûre.'
 template: '6ad94b534b8548c8a10a'
 ---
 

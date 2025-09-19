@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitungsoperationen-bearbeiten'
+url: '/help/edit-data-processing-operations-seatable'
+aliases:
+    - '/help/datenverarbeitungsoperationen-bearbeiten'
+seo:
+    title: 'Edit data processing operations in SeaTable'
+    description: 'Edit mathematical and relational data processing operations in SeaTable easily at any time using convenient view options.'
 ---
 
 You can perform various **operations** using the data processing function. You can perform mathematical calculations across all values in a column, as well as correlate values when entries in two different tables are identical.

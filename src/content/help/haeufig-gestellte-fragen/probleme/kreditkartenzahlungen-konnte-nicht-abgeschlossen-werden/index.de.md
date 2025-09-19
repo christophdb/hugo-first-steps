@@ -6,6 +6,10 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
 url: '/de/hilfe/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
+seo:
+    title: 'Kreditkartenzahlung bei SeaTable fehlgeschlagen: Tipps'
+    description: 'Kreditkartenzahlung nicht möglich? Hier finden Sie Lösungen für 3D Secure-Probleme und erfahren, was Sie beachten sollten.'
+
 ---
 
 Wenn Sie ein kostenpflichtiges SeaTable Abonnement abschließen, müssen Sie typischerweise neben der Angabe Ihrer Kreditkarteninformation noch eine zusätzliche Authentifizierung in Form einer 3D-Secure Authentifizierung durchführen. 3D Secure ist eine zusätzliche Authentifizierungsschicht für Kreditkartentransaktionen, die Zahlungen im Internet sicherer machen soll. Diese Sicherheitsmechanik sorgt immer wieder für Probleme, weshalb die gewünschte Zahlung nicht erfolgreich durchgeführt werden kann und Sie nicht zu SeaTable Plus oder Enterprise wechseln können.

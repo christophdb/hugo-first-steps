@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/help/anleitung-zum-organigramm-plugin'
+url: '/help/guide-to-org-chart-plugin'
+aliases:
+    - '/help/anleitung-zum-organigramm-plugin'
+seo:
+    title: 'Org Chart Plugin: Visualize Hierarchies & Teams'
+    description: 'Org Chart Plugin: Visualize teams, company roles, or project structures as a concise chart in SeaTable. Simple setup & customization.'
 ---
 
 You can use the organization chart plugin to display **hierarchies** between the data records in a table. This is useful, for example, to visualize the positions in a company or [superordinate and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}).

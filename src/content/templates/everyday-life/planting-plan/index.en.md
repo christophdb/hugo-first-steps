@@ -6,8 +6,8 @@ url: '/template/planting-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planting Plan Template: Digital Garden Planner'
+    description: 'Plan and document beds, care and harvests efficiently—your central tool for successful gardening and bed planning in any season.'
 template: '945ae9dc4c9c4968a035'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Feuille de route technologique'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/technology-roadmap'
+url: '/fr/modele/feuille-route-techno'
+aliases:
+    - '/fr/modele/technology-roadmap'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de feuille de route technologique : IT & Agile'
+    description: 'Planifiez le développement IT: releases, étapes clés, équipes, tâches et priorités avec une roadmap technologique complète et claire.'
 template: '1b086534c58049f481eb'
 ---
 

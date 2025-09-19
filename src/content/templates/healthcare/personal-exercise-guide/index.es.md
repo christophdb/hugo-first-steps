@@ -2,12 +2,14 @@
 title: 'Plan de entrenamiento personal'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/personal-exercise-guide'
+url: '/es/plantilla/plan-entrenamiento-personal'
+aliases:
+    - '/es/plantilla/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plan de entrenamiento personal: plantilla digital'
+    description: 'Crea y gestiona tu propio plan de entrenamiento personal y lleva el control.'
 template: '59bc81daee554d35bf9f'
 ---
 

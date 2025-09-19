@@ -6,6 +6,11 @@ categories:
     - 'apps'
 author: 'kgr'
 url: '/es/ayuda/apps-kopieren'
+aliases:
+    - '/es/ayuda/copiar-app'
+seo:
+    title: 'Copiar y personalizar una app en SeaTable'
+    description: 'Descubra cómo duplicar y adaptar fácilmente una app de SeaTable para nuevos grupos de usuarios o necesidades específicas.'
 ---
 
 ¿Ha creado una **aplicación** sofisticada que le gustaría utilizar de forma similar para otro grupo de usuarios? Entonces sólo tiene que **copiar** la aplicación existente y adaptarla como desee.

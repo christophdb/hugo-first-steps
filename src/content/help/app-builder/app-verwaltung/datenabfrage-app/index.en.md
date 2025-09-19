@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/help/datenabfrage-app'
+url: '/help/data-query-app'
+aliases:
+    - '/help/datenabfrage-app'
+seo:
+    title: 'Data query app: search records efficiently'
+    description: 'Learn how to use the data query app to search, filter, and share results from large data sets in SeaTable.'
 ---
 
 Using a **data query app**, you can enable other users to search your records across specific **fields** for specific **values**. Such a **search screen** proves especially helpful for large data sets such as product catalogs or libraries.

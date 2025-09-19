@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.4: Concepção dinâmica da página, mais funções de pesquisa e formulários web melhorados'
+description: 'Layout de documentos adaptável, campos editáveis nas webforms, preenchimento por URL, busca avançada em colunas e listas, app de consulta cruzada de dados, filtros e novos menus elevam a personalização e automação dos processos para outro patamar no seu time de dados.'
 date: 2023-03-01
 lastmod: '2023-03-01'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#f36f22'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.4: layout dinâmico e busca potente'
+    description: 'Layout dinâmico no plugin de design, buscas melhores, formulários flexíveis e múltiplos filtros chegam ao SeaTable 3.4.'
 ---
 
 Despertar da Primavera no SeaTable! Enquanto as primeiras flores estão a brotar no exterior, estamos a sair das férias de Inverno com o SeaTable 3.4. Aqueça-se para uma melhor experiência de utilização e ainda mais liberdade de desenho! O plugin de design da página desdobra agora todo o seu potencial, tal como o editor de formulários web - com funções alargadas para posicionamento dinâmico de elementos e outras opções úteis. Descubra a nova função de pesquisa ao filtrar, ordenar e agrupar nas definições de visualização e ao criar opções nas colunas de selecção. Foram também feitas inovações notáveis na Data Query App, que permite agora pesquisas refinadas em múltiplos campos. O menu de contexto de linha também tem mais opções e as entradas no registo de linha brilham em novo esplendor.

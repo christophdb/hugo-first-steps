@@ -6,8 +6,8 @@ url: '/template/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Apartment Hunting Template – Checklist & Comparison Sheet'
+    description: 'Track apartment viewings, compare rental properties and features, manage contacts & notes. The smart spreadsheet for your move.'
 template: '3ab08a59c6b34166b852'
 ---
 

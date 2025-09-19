@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.7: Formato de celdas condicional, fijación flexible de columnas y práctico valor por defecto de la fecha - SeaTable'
+description: 'Controla fácilmente los datos: reglas visuales por celda, relajate fijando columnas clave, asigna fechas automáticas y habilita protección por contraseña en bases sensibles. Encuentra entradas y enlaces más rápido, administra autenticación 2FA y explora mejoras de búsqueda y recuperación de vínculos.'
 date: 2022-02-02
 lastmod: '2022-02-03'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#c29eca'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.7: Formato condicional de celdas y fijación'
+    description: 'Formato condicional, congelar columnas, valores por defecto — SeaTable 2.7 potencia la gestión de datos y la seguridad del acceso.'
 ---
 
 Esta mañana, [SeaTable Cloud](https://cloud.seatable.io) se ha actualizado a la versión 2.7. Esto significa que todos los usuarios de Cloud pueden disfrutar también de las nuevas funciones y mejoras de la nueva versión, que ya está disponible para su descarga para los auto-alojadores en Docker Hub desde hace unos días. El editor de tablas es el que más se ha beneficiado del cambio de versión: el formato condicional de las celdas, la nueva operación de tratamiento de datos "Calcular clasificación", la fijación ampliada de las columnas y la función de valor por defecto para las columnas de fecha ofrecen una gran cantidad de nuevas funcionalidades. Fuera del editor de tablas, las bases protegidas por contraseña son una mejora importante. Todos los cambios se pueden encontrar - como siempre - en el [registro de cambios de SeaTable]({{< relref "pages/changelog" >}}).

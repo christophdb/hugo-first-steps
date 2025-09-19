@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/es/ayuda/anleitung-zum-organigramm-plugin'
+url: '/es/ayuda/guia-plugin-organigrama'
+aliases:
+    - '/es/ayuda/anleitung-zum-organigramm-plugin'
+seo:
+    title: 'Plugin Organigrama: Visualiza equipos y jerarquías'
+    description: 'Plugin de organigrama: Muestra jerarquías, equipos, o estructuras de proyectos con claridad. Configuración fácil en SeaTable.'
 ---
 
 Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las [tareas superordinadas y subordinadas en un proyecto]({{< relref "templates/projects/work-breakdown-structure" >}}).

@@ -2,12 +2,14 @@
 title: 'Plano de relocalização'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/moving-plan'
+url: '/pt/modelo/plano-mudanca'
+aliases:
+    - '/pt/modelo/moving-plan'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plano de mudança: checklist e organização'
+    description: 'Tenha controle total do seu novo lar: tarefas, malas, endereço e despesas no planner de mudança digital. Checklist grátis e fácil.'
 template: 'fc4bbfc83848400a8669'
 ---
 

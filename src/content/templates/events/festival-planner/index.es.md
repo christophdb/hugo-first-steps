@@ -2,12 +2,14 @@
 title: 'Planificador de festivales'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/festival-planner'
+url: '/es/plantilla/planificador-festival'
+aliases:
+    - '/es/plantilla/festival-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla festival: lista, horarios y amigos'
+    description: 'Organiza el festival perfecto: lista de equipaje, programa, grupo y artistas – descarga gratis, todo en una sola plantilla.'
 template: '1aa1f7e441554bf6887b'
 ---
 

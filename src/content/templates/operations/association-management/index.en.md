@@ -6,8 +6,8 @@ url: '/template/association-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Association Management Template: Members & Events Covered'
+    description: 'Manage your membership data, events, finances and tasks centrally and securely—your digital hub for all association needs.'
 template: '6ad94b534b8548c8a10a'
 ---
 

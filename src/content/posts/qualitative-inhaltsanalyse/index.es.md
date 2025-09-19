@@ -1,5 +1,6 @@
 ---
 title: 'El análisis de contenido cualitativo explicado de forma sencilla - ejemplo: revista de prensa'
+description: 'Descubre el análisis cualitativo paso a paso: diferencias frente al cuantitativo, proceso de codificación y ejemplo real con análisis de artículos de prensa – explicado de forma clara y comprensible.'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/es/analisis-cualitativo-contenido'
 aliases:
     - /es/qualitative-inhaltsanalyse
 seo:
-    title:
-    description:
+    title: 'Análisis de contenido cualitativo: método y ejemplo'
+    description: 'Cómo hacer análisis cualitativo de contenido – guía fácil paso a paso y ejemplo práctico con revisión de prensa codificada.'
 categories:
     - 'best-practice'
 tags:

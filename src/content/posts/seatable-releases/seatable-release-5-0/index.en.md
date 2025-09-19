@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 5.0: App builder, new plugins and more accessibility'
+description: 'SeaTable 5.0 unlocks no-code app building, letting anyone create apps and custom data frontends. Add full org charts, table links and whiteboards with new plugins. Accessibility is stronger, Excel import granular—choose tables and columns as needed. The release enables more innovation and digital transformation for everyone.'
 date: 2024-07-15
 lastmod: '2024-07-15'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#efba4b'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 5.0: App Builder, Plugins, Accessibility'
+    description: 'Launch of no-code app builder, new organizational, relations and whiteboard plugins, improved accessibility and column-accurate Excel import!'
 ---
 
 The time has come: Our app builder is officially launched! With this version of our **no-code database with integrated no-code app builder**, anyone, whether programmer or citizen developer, can now easily create their own apps! With SeaTable 5.0, we are ready to take a leading position in digital transformation and innovation on the international market.

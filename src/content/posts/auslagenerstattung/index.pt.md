@@ -1,6 +1,6 @@
 ---
 title: 'Reembolso de despesas - conselhos para empregadores e empregados'
-description: 'Quer se trate de uma refeição de negócios, de um bilhete de comboio ou do telemóvel da empresa - faz regularmente pagamentos adiantados no trabalho e quer saber o que deve ter em conta quando reembolsa despesas? Ou é um empregador e está à procura de uma forma de tornar o processo de reembolso de despesas mais eficiente? Então encontrará neste artigo tudo o que precisa de saber e um modelo gratuito para o reembolso de despesas na sua empresa.'
+description: 'Seja uma refeição de negócios, uma passagem de trem ou material para escritório, o reembolso de despesas exige cuidado e boa documentação. Este artigo traz as regras principais, dicas práticas e mostra como um modelo digital pode simplificar os processos e melhorar a transparência financeira.'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -8,8 +8,8 @@ url: '/pt/reembolso-despesas'
 aliases:
     - /pt/auslagenerstattung
 seo:
-    title:
-    description:
+    title: 'Reembolso de Despesas: Orientações para Empresas e Colaboradores'
+    description: 'Aprenda a organizar reembolsos de despesas de forma eficiente e digital, com menos erros e burocracia.'
 categories:
     - 'best-practice'
 tags:

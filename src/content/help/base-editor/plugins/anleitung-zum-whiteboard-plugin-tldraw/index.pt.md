@@ -5,7 +5,12 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/pt/ajuda/anleitung-zum-whiteboard-plugin-tldraw'
+url: '/pt/ajuda/guia-whiteboard-plugin-tldraw'
+aliases:
+    - '/pt/ajuda/anleitung-zum-whiteboard-plugin-tldraw'
+seo:
+    title: 'Whiteboard Plugin (tldraw): desenho, colaboração, exportar'
+    description: 'Novo plugin tldraw Whiteboard : colaboração visual, esboço, layout, importação/exportação e recursos para grupos.'
 ---
 
 O **plugin de quadro branco** dá-lhe a liberdade de visualizar graficamente processos e estruturas que não pode apresentar com os plugins anteriores. Também pode esboçar livremente esquemas e maquetas. Para o desenho, tem vários **elementos** como quadrados, elipses e setas, bem como **ferramentas** como a caneta, o apagador e a ferramenta de texto à escolha.

@@ -1,13 +1,13 @@
 ---
 title: 'Was ein Storyboard ist und wie Sie es erstellen'
-description: ''
+description: 'Was macht ein gutes Storyboard aus? In diesem Praxisartikel erfahren Sie alles über Storyboard-Technik, Beispiele für kreative Filmarbeit und eine kostenlose, editierbare Vorlage zum Planen Ihres Projekts.'
 date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'
 url: '/de/storyboard'
 seo:
-    title: 'Was ein Storyboard ist und wie Sie es erstellen'
-    description: 'Erfahren Sie mehr darüber, wie ein Storyboard die Planung und Umsetzung Ihres Filmprojekts erleichtert. Mit kostenloser Vorlage!'
+    title: 'Storyboard Vorlage – Filmideen visualisieren'
+    description: 'Storyboard für Film, Video, Animation: So strukturieren Sie Ihr Projekt – mit gratis Vorlage, Tipps und Checkliste.'
 categories:
     - 'best-practice'
 tags:

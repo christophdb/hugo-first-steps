@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Контент-календарь: шаблон для планирования кампаний'
+    description: 'Планируйте публикации и кампании, отслеживайте задачи и дедлайны — SeaTable объединяет весь контент в едином инструменте.'
 template: 'bea0242b70f64ec698cb'
 ---
 

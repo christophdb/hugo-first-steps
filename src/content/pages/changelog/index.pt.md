@@ -1,5 +1,8 @@
 ---
-title: Registo de alterações
+title: 'Changelog'
+seo:
+    title: 'Changelog do SeaTable: Atualizações & Novidades'
+    description: 'Veja todas as atualizações e melhorias do SeaTable Server, com acesso rápido aos changelogs e notas de versão.'
 url: '/pt/changelog'
 
 sections:

@@ -6,8 +6,8 @@ url: '/template/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Hen & Stag Party Planner: All-in-One Organizer Template'
+    description: 'Easily plan your ultimate bachelor or bachelorette party—daily schedule, tasks, budget, guests and docs in one digital workspace.'
 template: '88ed38a6b4b04683a4c8'
 ---
 

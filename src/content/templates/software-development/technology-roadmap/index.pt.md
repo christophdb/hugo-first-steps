@@ -2,12 +2,14 @@
 title: 'Roteiro tecnológico'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/technology-roadmap'
+url: '/pt/modelo/roadmap-tecnologico'
+aliases:
+    - '/pt/modelo/technology-roadmap'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de roadmap tecnológico: TI e metas estratégicas'
+    description: 'Template de tecnologia : alinhe projetos, marcos, releases e equipes de TI – planejamento de inovação digital centralizado e simples.'
 template: '1b086534c58049f481eb'
 ---
 

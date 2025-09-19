@@ -6,8 +6,8 @@ url: '/template/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Net Promoter Score (NPS) Survey Template'
+    description: 'Measure customer satisfaction with the NPS survey template – 100% free.'
 template: '895068666cae411b9da7'
 ---
 

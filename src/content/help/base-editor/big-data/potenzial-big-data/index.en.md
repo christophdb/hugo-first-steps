@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/help/potenzial-big-data'
+url: '/help/big-data-capabilities'
+aliases:
+    - '/help/potenzial-big-data'
+seo:
+    title: 'SeaTable Big Data: store millions of rows per base'
+    description: 'Learn how SeaTable’s big data feature lets you manage and analyze millions of rows per base flexibly and securely.'
+
 ---
 
 {{< required-version "Enterprise" >}}

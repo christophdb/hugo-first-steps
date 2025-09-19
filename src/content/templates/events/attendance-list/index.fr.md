@@ -2,12 +2,14 @@
 title: 'Liste de présence'
 description: ''
 date: '2025-02-28'
-url: '/fr/modele/attendance-list'
+url: '/fr/modele/feuille-presence'
+aliases:
+    - '/fr/modele/attendance-list'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de feuille de présence : suivi facile et sécurisé'
+    description: 'Suivi moderne des présences : liste digitale prête à l’emploi, optimale pour tout type d’événement.'
 template: '7e0a717a66ca4658bbb4'
 ---
 

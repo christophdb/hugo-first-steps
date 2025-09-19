@@ -6,8 +6,8 @@ url: '/de/vorlage/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'NPS Fragebogen Vorlage: Net Promoter Score & Feedback'
+    description: 'Mit NPS Fragebogen die Kundenzufriedenheit messen – kostenloses Template für Ihren Net Promoter Score.'
 template: '895068666cae411b9da7'
 ---
 

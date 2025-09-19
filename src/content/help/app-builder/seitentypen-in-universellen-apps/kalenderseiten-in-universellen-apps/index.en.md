@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/kalenderseiten-in-universellen-apps'
+url: '/help/calendar-pages-in-universal-apps'
+aliases:
+    - '/help/kalenderseiten-in-universellen-apps'
+seo:
+    title: 'Calendar Pages in Universal Apps: Schedule & Plan'
+    description: 'Calendar page in SeaTable Universal Apps: Manage events, tasks, and meetings in a collaborative calendar view.'
 ---
 
 This page type of the Universal App works in a similar way to the [calendar plugin]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) of your table in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.

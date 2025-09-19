@@ -2,12 +2,14 @@
 title: 'Modelo de lista de inventario'
 description: ''
 date: '2025-02-28'
-url: '/es/plantilla/inventory-list'
+url: '/es/plantilla/lista-inventario'
+aliases:
+    - '/es/plantilla/inventory-list'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de inventario: controla tu stock gratis'
+    description: 'Descarga la plantilla de inventario: registra, gestiona y analiza existencias, almacén y activos de forma digital y sencilla.'
 template: '11568480344f4a61ab49'
 ---
 

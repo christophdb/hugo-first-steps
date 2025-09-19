@@ -2,12 +2,14 @@
 title: 'Podcast Redaktionskalender'
 description: ''
 date: '2024-08-16'
-url: '/de/vorlage/podcast-editorial-calendar'
+url: '/de/vorlage/podcast-redaktionsplan'
+aliases:
+    - '/de/vorlage/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Podcast Redaktionsplan – Episoden, Gäste, Werbung'
+    description: 'Podcast-Inhalte, Gäste, Werbung & Promotion zentral verwalten – Redaktionsplan für Podcasts, Produktion und Reichweite, digital & gratis.'
 template: '00fdb62203c74a0e87b4'
 ---
 

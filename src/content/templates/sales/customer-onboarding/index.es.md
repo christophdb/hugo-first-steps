@@ -2,12 +2,14 @@
 title: 'Incorporación de clientes'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/customer-onboarding'
+url: '/es/plantilla/onboarding-clientes'
+aliases:
+    - '/es/plantilla/customer-onboarding'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla onboarding clientes: checklist y automatización'
+    description: 'Optimiza el onboarding de clientes con tareas, emails y automatización – gestión clara y proceso personalizable.'
 template: 'c33b819f0a694f3b8cf1'
 ---
 

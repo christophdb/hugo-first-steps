@@ -1,5 +1,6 @@
 ---
 title: 'O planeamento perfeito do casamento com SeaTable - SeaTable'
+description: 'Um casamento demanda organização: convidados, orçamento, fornecedores. Com SeaTable você tem um checklist de mais de 200 tarefas, listas de convidados e mesas, gestão de custos e espaço para anotações. Planeje cada detalhe da forma mais prática e transforme seu dia especial em algo inesquecível.'
 date: 2021-07-22
 lastmod: '2023-07-11'
 categories:
@@ -11,8 +12,8 @@ aliases:
     - /pt/hochzeitsplanung-wedding-planner
 color: '#c6ae94'
 seo:
-    title:
-    description:
+    title: 'Planeje sua Festa de Casamento com SeaTable'
+    description: 'Prepare seu casamento com eficiência. Com checklists, lista de convidados e controle de orçamento tudo fica mais fácil.'
 ---
 
 Um dos dias mais bonitos e importantes da vida está mesmo ao virar da esquina: o seu próprio casamento. Nada deve correr mal aqui, e é por isso que o planeamento estruturado do casamento é de grande importância para a maioria dos casais. O que precisa de ser feito 12 meses antes do casamento, o que precisa de ser feito 5 meses antes do grande dia? Se não tiver meios financeiros para contratar um organizador de casamentos profissional, ou se simplesmente gostar de planear o seu próprio casamento, a SeaTable ajuda-o a não perder a visão geral ao planear o seu casamento.

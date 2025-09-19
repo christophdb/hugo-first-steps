@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.5: Formeln in der ersten Spalte, neue Automations-Aktionen und allerlei Erfreuliches - SeaTable'
+description: 'Jetzt mit Formeln in der ersten Spalte, neuen Aktionen für Automationen (Links, Data-Prozess), Buttons mit Bedingungen und sequenzieller Ausführung sowie Lookup mit Kriterien. Universal App Builder (Beta) eröffnet App-Design ohne Code, eigene Farben und Import aus anderen Bases – Datenmanagement flexibler, schneller, individueller!'
 date: 2023-04-12
 lastmod: '2023-09-04'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#f3fa61'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.5: Formeln, Automationen, App-Builder'
+    description: 'Formelspalte in der ersten Spalte, Automationen mit Add-Link & Data-Prozess, bedingte Buttons und Lookup – das Top-Update 3.5!'
 ---
 
 Der April macht, was er will – aber SeaTable macht, was Sie wollen! Mit der Version 3.5 gehen einige lang gehegte Wünsche unserer Nutzer in Erfüllung: Die erste Spalte unterstützt nun auch [Formeln]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) und per [Automation]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) können Sie zwei zusätzliche Aktionen periodisch ausführen lassen. Mehr Flexibilität für anspruchsvollere Anwendungsfälle gewinnen Sie durch die bedingte Ausführung von [Schaltflächen]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})\-Aktionen und die bedingten [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}). Im Folgenden stellen wir Ihnen diese Verbesserungen im Detail vor.

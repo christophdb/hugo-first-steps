@@ -2,12 +2,14 @@
 title: 'Registo de saúde digital'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/electronic-health-record'
+url: '/pt/modelo/prontuario-eletronico'
+aliases:
+    - '/pt/modelo/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Prontuário eletrônico: modelo para saúde digital'
+    description: 'Prontuário eletrônico para cadastrar dados, diagnósticos, exames, receitas – segurança e controle total da informação clínica.'
 template: '8180670a338044d4a602'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Écrire une offre'
 description: ''
 date: '2025-04-06'
-url: '/fr/modele/quotation-management'
+url: '/fr/modele/gestion-devis'
+aliases:
+    - '/fr/modele/quotation-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion des Devis: Modèle pour Créer et Envoyer des Offres'
+    description: 'Générez vos devis simplement, automatisez l’envoi et la gestion grâce au modèle SeaTable.'
 template: '584c3121cf4a4ffd86e5'
 ---
 

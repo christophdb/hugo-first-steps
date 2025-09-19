@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.0: Tres nuevos tipos de columnas, nuevos y mejorados plugins y el ruso como idioma de usuario - SeaTable'
+description: 'Columna fórmula-enlace, valoración y geodatos, defaults, diseño páginas PDF, Kanban, carpetas, snapshots y logo en formularios. Plugins mejorados, seguridad DLP, scripts Python y soporte de ruso para equipos que crecen.'
 date: 2021-05-27
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#819efe'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.0: nuevas columnas, plugins y ruso'
+    description: '3 nuevos tipos de columna, plugins avanzados, valores por defecto, linking flexible, carpetas, Python y Ruso en SeaTable 2.0.'
 ---
 
 La versión 1.0 de SeaTable vio la luz el 1 de julio de 2020. Desde entonces se ha descargado más de 100.000 veces desde Docker Hub. Este abrumador interés en SeaTable nos ha impulsado y por eso ahora estamos felices y orgullosos de anunciar otro hito en el desarrollo de SeaTable: SeaTable 2.0 se ha subido hoy a [SeaTable Cloud](https://cloud.seatable.io) y se ha publicado en [Docker](https://hub.docker.com/u/seatable) Hub para instalaciones privadas.

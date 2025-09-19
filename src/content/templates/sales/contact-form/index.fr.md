@@ -2,12 +2,14 @@
 title: 'Formulaire de contact'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/contact-form'
+url: '/fr/modele/formulaire-contact'
+aliases:
+    - '/fr/modele/contact-form'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Formulaire de Contact: Modèle pour Demandes & Tickets'
+    description: 'Centralisez les demandes clients dans un formulaire web et suivez chaque ticket avec Kanban et notifications.'
 template: '94a17598acf3466f8706'
 ---
 

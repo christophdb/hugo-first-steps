@@ -1,12 +1,13 @@
 ---
 title: 'O que é um storyboard e como criá-lo'
+description: 'Quer planejar seu roteiro visualmente? Veja como funciona o storyboard, os principais segredos para criar o seu e baixe um modelo personalizável para organização de projetos audiovisuais, cinema ou publicidade.'
 date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'
 url: '/pt/storyboard'
 seo:
-    title:
-    description:
+    title: 'Modelo de storyboard: visualize filmes e animações'
+    description: 'Storyboard para filmes, vídeos, animações – saiba como criar, estruturar e usar um template gratuito passo a passo.'
 categories:
     - 'best-practice'
 tags:

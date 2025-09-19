@@ -1,13 +1,14 @@
 ---
 title: 'Patriot Act vs. data protection - processing Canadian data securely'
+description: 'The US Patriot Act grants U.S. agencies access to data stored with American providers, directly conflicting with Quebec’s Law 25. This article highlights the legal risks for Canadian companies and presents secure, privacy-compliant alternatives to U.S. cloud providers for handling sensitive personal data.'
 date: 2023-07-17
 lastmod: '2023-08-18'
 coverImage: 'titelbild-patriot-act.png'
 author: 'cdb'
 url: '/patriot-act-vs-privacy-canada'
 seo:
-    title:
-    description:
+    title: 'Patriot Act vs. Privacy: Secure Canadian Data'
+    description: 'Learn how Quebec’s Law 25 conflicts with the US Patriot Act and which privacy-compliant cloud alternatives businesses can use.'
 categories:
     - 'best-practice'
 tags:

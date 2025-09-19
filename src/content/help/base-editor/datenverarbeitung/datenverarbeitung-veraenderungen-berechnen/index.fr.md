@@ -5,7 +5,12 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitung-veraenderungen-berechnen'
+url: '/fr/aide/traitement-calculer-variations-seatable'
+aliases:
+    - '/fr/aide/datenverarbeitung-veraenderungen-berechnen'
+seo:
+    title: 'Calculer les variations dans SeaTable'
+    description: 'Calculez instantanément la différence entre des valeurs numériques entre lignes pour suivre tendances et évolutions dans SeaTable.'
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. L'une de ces opérations est le **calcul des variations**, qui vous permet de calculer les variations de valeur à valeur dans une colonne numérique. Pour ce faire, il suffit de définir une opération de traitement des données correspondante via les options d'affichage de votre tableau.

@@ -6,8 +6,8 @@ url: '/template/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'HR Recruiting Template – Applicant Tracking & Workflow'
+    description: 'Streamline your hiring with our HR recruiting template: manage candidates, interviews & tracking in one digital HR workflow.'
 template: '9abba02477a7435eb3d7'
 ---
 

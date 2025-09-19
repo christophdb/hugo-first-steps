@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.3: Una oleada de nuevas funciones y mejoras - SeaTable'
+description: 'Automatiza procesos con scripts, crea bases desde plantillas mejoradas, usa formatos condicionales para organizar, imprime vistas o filas, numera automáticamente registros y aprovecha autofill, URLs clicables y gestión de grupos. Docenas de mejoras de experiencia agilizan tu trabajo.'
 date: 2020-09-14
 lastmod: '2022-01-24'
 author: 'mwu'
@@ -8,8 +9,8 @@ color: '#c96afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.3: scripts, plantillas y colores'
+    description: 'Motor de scripts, plantillas, formato condicional, impresión y autonumerado potencian SeaTable 1.3.'
 ---
 
 La versión de septiembre, que subimos el 14 de septiembre, ofrece una impresionante serie de nuevas características, funcionalidades y mejoras para TODOS los usuarios. La adición más interesante es el motor de scripting de SeaTable. Otras grandes novedades son la perfecta integración de nuestras plantillas, el formato condicional de las filas, una nueva función de impresión y el nuevo tipo de columna numérica automática. Y eso no es todo, ni mucho menos. La lista completa de cambios está disponible en el [registro de cambios]({{< relref "pages/changelog" >}}). SeaTable hace honor a su nombre y ofrece un mar de posibilidades. [Empieza ahora]({{< relref "pages/registration" >}}) y juega con las olas.

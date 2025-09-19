@@ -5,7 +5,12 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'kgr'
-url: '/fr/aide/datenerfassung'
+url: '/fr/aide/saisie-donnees'
+aliases:
+    - '/fr/aide/datenerfassung'
+seo:
+    title: 'Saisie de données dans SeaTable : tous les moyens'
+    description: 'Découvrez toutes les façons d’entrer des données dans SeaTable : saisie manuelle, import, formulaires, automatisation.'
 ---
 
 Cet article met en lumière quelques-unes des manières dont vous pouvez saisir des données dans SeaTable.

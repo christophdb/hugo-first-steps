@@ -2,12 +2,14 @@
 title: 'Persönlicher Trainingsplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/personal-exercise-guide'
+url: '/de/vorlage/trainingsplan'
+aliases:
+    - '/de/vorlage/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Persönlicher Trainingsplan: Individuelles Workout erstellen'
+    description: 'Workout individuell planen: Ihr persönlicher Trainingsplan als Vorlage.'
 template: '59bc81daee554d35bf9f'
 ---
 

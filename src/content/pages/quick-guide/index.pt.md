@@ -1,5 +1,8 @@
 ---
-title: Guia rápido
+title: 'Guia rápido'
+seo:
+    title: 'Guia rápido SeaTable: comece a organizar agora'
+    description: 'Aprenda o básico do SeaTable em poucos minutos – bases, automação e colaboração para times ágeis.'
 url: '/pt/quick-guide'
 aliases:
     - '/pt/quick-quide/'

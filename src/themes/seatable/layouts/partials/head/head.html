@@ -27,7 +27,7 @@
 
 
     <!-- Do not index taxonomy and term pages -->
-    {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+    {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.seo.index "noindex") -}}
         <meta name="robots" content="noindex" />
     {{- end }}
 

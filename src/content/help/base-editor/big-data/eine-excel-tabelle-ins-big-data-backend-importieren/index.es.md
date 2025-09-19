@@ -5,7 +5,12 @@ lastmod: '2024-05-14'
 categories:
     - 'big-data'
 author: 'kgr'
-url: '/es/ayuda/eine-excel-tabelle-ins-big-data-backend-importieren'
+url: '/es/ayuda/importar-xlsx-al-almacenamiento-big-data'
+aliases:
+    - '/es/ayuda/eine-excel-tabelle-ins-big-data-backend-importieren'
+seo:
+    title: 'Importar XLSX a almacenamiento Big Data (SeaTable)'
+    description: 'Aprende a importar archivos Excel grandes al almacenamiento Big Data de SeaTable. Guía sencilla y consejos.'
 ---
 
 {{< required-version "Empresa" >}}

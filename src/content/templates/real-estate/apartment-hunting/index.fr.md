@@ -2,12 +2,14 @@
 title: 'Recherche de logement'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/apartment-hunting'
+url: '/fr/modele/recherche-appartement'
+aliases:
+    - '/fr/modele/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de recherche d’appartement : liste & checklist'
+    description: 'Suivez chaque visite, comparez les offres de location, centralisez contacts et avis – la gestion simplifiée de votre projet.'
 template: '3ab08a59c6b34166b852'
 ---
 

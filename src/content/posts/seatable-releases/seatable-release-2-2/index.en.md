@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.2: Automation and Integration - SeaTable'
+description: 'Four new automations, external query apps, three-level nested grouping, context-driven cascading selects, advanced access rights on tables, auto-add link for table merges, process saving. Improved text input, better linked columns, Excel import speed, and email logs round out the release.'
 date: 2021-08-10
 lastmod: '2023-07-11'
 coverImage: 'release-notes-2.2-1.jpg'
@@ -9,8 +10,8 @@ color: '#fc8a6e'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.2: Automations, Integration, Groups'
+    description: 'Automations, external apps, nested groups, cascading selects, table permissions, enhanced data processing—SeaTable 2.2 a workflow leap!'
 ---
 
 SeaTable knows no summer break! We keep our monthly release cycle and so, beginning today, all [SeaTable Cloud](https://cloud.seatable.io) users benefit from the advantages of SeaTable 2.2. Automations and external apps are two new features introduced in this version. Other highlights of the new release include nested groups, cascading single select columns, as well as improved table permissions and data processing operations. These release notes describe all these new features. The much more comprehensive, complete list of changes can be found - as always - in the SeaTable changelog. On [Docker Hub](https://hub.docker.com/u/seatable/), SeaTable 2.2 - in both editions of SeaTable Server - will be available tomorrow.

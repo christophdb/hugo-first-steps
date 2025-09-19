@@ -2,12 +2,14 @@
 title: 'Colección de zapatillas'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/sneaker-collection'
+url: '/es/plantilla/coleccion-zapatillas'
+aliases:
+    - '/es/plantilla/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Colección de Zapatillas: Organízala digitalmente'
+    description: 'Lleva un registro de tus zapatillas: marca, modelo, rareza y precio, junto con tus coleccionistas y contactos, todo centralizado y editable en SeaTable.'
 template: 'cc4113f9d66f488db6e2'
 ---
 

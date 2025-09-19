@@ -1,5 +1,6 @@
 ---
 title: 'Manter um livro de orçamento: Poupe dinheiro com estas 12 dicas'
+description: 'Chega ao fim do mês sem saber para onde foi o dinheiro? Um livro de orçamento revela gastos fixos e variáveis. Este artigo apresenta 12 dicas práticas para cortar custos, rever contratos, eliminar despesas desnecessárias e gerir melhor o seu orçamento para aumentar as economias.'
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/pt/manter-caderno-financas'
 aliases:
     - /pt/haushaltsbuch-fuehren
 seo:
-    title:
-    description:
+    title: 'Livro de Orçamentos: 12 Dicas para Economizar'
+    description: 'Mantenha o controle das despesas. Um livro de orçamento e 12 dicas ajudam a organizar as finanças e economizar.'
 categories:
     - 'best-practice'
 tags:

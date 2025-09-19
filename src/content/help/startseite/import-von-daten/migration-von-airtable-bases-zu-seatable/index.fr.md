@@ -5,7 +5,12 @@ lastmod: '2024-11-21'
 categories:
     - 'import-von-daten'
 author: 'fsa'
-url: '/fr/aide/migration-von-airtable-bases-zu-seatable'
+url: '/fr/aide/migrer-bases-airtable-seatable'
+aliases:
+    - '/fr/aide/migration-von-airtable-bases-zu-seatable'
+seo:
+    title: 'Migrer une base Airtable vers SeaTable étape par étape'
+    description: 'Apprenez à transférer vos bases Airtable vers SeaTable facilement grâce au script de migration fourni dans ce guide.'
 ---
 
 Vous souhaitez déplacer vos bases Airtable vers SeaTable et vous avez peur de l'effort ? Pas de soucis! Même les bases avec des structures de données complexes et plusieurs milliers d'ensembles de données peuvent être rapidement transférées vers SeaTable.

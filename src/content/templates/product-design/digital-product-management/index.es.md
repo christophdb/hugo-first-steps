@@ -8,8 +8,8 @@ aliases:
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de gestión digital de productos'
+    description: 'Coordina catálogo, ventas, tareas y equipos en una sola plantilla digital de product management sencilla y adaptable.'
 template: '563da026db8e4782ac62'
 ---
 

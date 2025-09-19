@@ -8,8 +8,8 @@ aliases:
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Обратная связь для разработки продукта в SeaTable'
+    description: 'Собирайте отзывы клиентов: анализ пожеланий, проблем и предложений для совершенствования продукта – легко с SeaTable.'
 template: '9ea387bd5e6a43388286'
 ---
 

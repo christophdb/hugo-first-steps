@@ -6,8 +6,8 @@ url: '/de/vorlage/password-manager'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Passwortmanager Vorlage – Logins & Accounts sicher'
+    description: 'Passwörter, Logins, Abos & Notizen verwalten: Passwortmanager Vorlage für sicheren, zentralen Überblick und digitale Nachlassplanung.'
 template: '0467fede46ee48a8a1c2'
 ---
 

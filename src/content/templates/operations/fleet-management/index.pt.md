@@ -2,12 +2,14 @@
 title: 'Software de gerenciamento de frota'
 description: ''
 date: '2025-03-12'
-url: '/pt/modelo/fleet-management'
+url: '/pt/modelo/software-gestao-frotas'
+aliases:
+    - '/pt/modelo/fleet-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Software de gestão de frotas: controle digital'
+    description: 'Centralize e otimize sua frota com nosso software de gestão de frotas flexível.'
 template: 'd781991c26e24261bdce'
 ---
 

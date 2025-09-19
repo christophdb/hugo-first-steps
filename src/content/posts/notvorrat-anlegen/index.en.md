@@ -1,14 +1,14 @@
 ---
 title: 'Stock up on emergency supplies: What you should always have at home'
+description: 'What if power or water supply fails? Make sure you and your loved ones have emergency food, water, medicine and hygiene items for 10 days. This guide shows you how to build, store, and rotate your emergency supplies efficiently.'
 date: 2023-09-20
 lastmod: '2023-09-20'
-author: 'lsc'
 url: '/create-emergency-supplies'
 aliases:
     - /notvorrat-anlegen
 seo:
-    title:
-    description:
+    title: 'Emergency Supplies: Must-Have Essentials for Every Home'
+    description: 'Emergency preparedness made easy: Checklist for the perfect home emergency stock.'
 categories:
     - 'best-practice'
 tags:

@@ -2,12 +2,14 @@
 title: 'Gestão de pedidos de férias'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/holiday-request-management'
+url: '/pt/modelo/gestao-ferias'
+aliases:
+    - '/pt/modelo/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestão de férias online: eficiente e centralizada'
+    description: 'Gerencie pedidos de férias online com SeaTable: formulário web, aprovações ágeis, notificações automáticas e calendário para evitar conflitos facilmente.'
 template: 'a4065ce03d4d4bd5959c'
 ---
 

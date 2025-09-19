@@ -6,8 +6,8 @@ url: '/fr/modele/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plan Social Media: Modèle pour Unifier Vos Contenus'
+    description: 'Simplifiez la gestion de vos réseaux sociaux, planifiez et analysez vos publications sur une plateforme collaborative SeaTable.'
 template: 'e386be96230744a18802'
 ---
 

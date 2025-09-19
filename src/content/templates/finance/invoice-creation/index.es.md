@@ -2,12 +2,14 @@
 title: 'Redactar factura'
 description: ''
 date: '2025-03-24'
-url: '/es/plantilla/invoice-creation'
+url: '/es/plantilla/creacion-factura'
+aliases:
+    - '/es/plantilla/invoice-creation'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de factura: facturación automática'
+    description: 'Factura fácil y rápido: la plantilla digital automatiza cálculos, genera PDFs y administra clientes y productos.'
 template: '0341827ed80f4be3888a'
 ---
 

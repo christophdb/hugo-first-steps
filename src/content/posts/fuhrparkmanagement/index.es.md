@@ -1,13 +1,14 @@
 ---
 title: 'Gestión de flotas: cómo gestionar su flota de forma inteligente'
+description: 'Aprende a gestionar flotas paso a paso: desde adquisición y control de costes hasta mantenimiento, telemetría y cumplimiento legal. Incluye claves, consejos prácticos y soluciones digitales para tu empresa.'
 date: 2024-01-09
 lastmod: '2025-02-12'
 url: '/es/gestion-flotas'
 aliases:
     - /es/fuhrparkmanagement
 seo:
-    title:
-    description:
+    title: 'Gestión de flotas: guía, claves y digitalización'
+    description: 'Qué es la gestión de flotas: proceso, claves, costes y mejores prácticas para empresas – software y checklist incluidos.'
 categories:
     - 'best-practice'
 tags:

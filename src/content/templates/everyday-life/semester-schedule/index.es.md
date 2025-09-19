@@ -2,12 +2,14 @@
 title: 'Planificador de estudios'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/semester-schedule'
+url: '/es/plantilla/plan-semestre'
+aliases:
+    - '/es/plantilla/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla para plan semestral: horario y tareas'
+    description: 'Organiza tus cursos y tareas en un planificador digital de semestre – horario, tiempo y análisis personalizados.'
 template: '44ac24b866ac446f8fda'
 ---
 

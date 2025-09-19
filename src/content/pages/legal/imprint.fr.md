@@ -1,6 +1,9 @@
 ---
 title: 'Mentions-legales'
 description: ''
+seo:
+    title: 'Mentions légales SeaTable GmbH: informations officielles'
+    description: 'Informations légales et contacts officiels pour SeaTable GmbH, conformité RGPD et TMG.'
 date: 2025-03-24
 type: 'legal'
 url: '/fr/mentions-legales'

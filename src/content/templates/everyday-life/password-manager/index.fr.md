@@ -2,12 +2,14 @@
 title: 'Gestionnaire de mots de passe'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/password-manager'
+url: '/fr/modele/gestion-mots-passe'
+aliases:
+    - '/fr/modele/password-manager'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de gestion de mots de passe : sécurité totale'
+    description: 'Centralisez vos mots de passe, comptes et abonnements: modèle digital sécurisé pour ne rien oublier.'
 template: '0467fede46ee48a8a1c2'
 ---
 

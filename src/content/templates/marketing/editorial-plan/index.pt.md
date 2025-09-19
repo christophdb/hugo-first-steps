@@ -2,12 +2,14 @@
 title: 'Plano editorial'
 description: ''
 date: '2025-02-17'
-url: '/pt/modelo/editorial-plan'
+url: '/pt/modelo/plano-editorial'
+aliases:
+    - '/pt/modelo/editorial-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plano Editorial: Modelo para Gestão de Conteúdo'
+    description: 'Planeje, atribua e acompanhe conteúdos, prazos e responsáveis em um só lugar, facilitando a colaboração da equipe.'
 template: '62d7d05bf70348c080e8'
 ---
 

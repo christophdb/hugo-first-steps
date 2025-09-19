@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/fr/aide/das-dateimanagement-einer-base'
+url: '/fr/aide/gestion-fichiers-base-seatable'
+aliases:
+    - '/fr/aide/das-dateimanagement-einer-base'
+seo:
+    title: 'Gestion des fichiers dans SeaTable : organiser et éditer'
+    description: 'Découvrez comment organiser, gérer et modifier les fichiers et dossiers dans votre base SeaTable rapidement et facilement.'
+
 ---
 
 Le **gestionnaire de fichiers** révolutionne l'utilisation des fichiers dans votre base. Vous pouvez y télécharger directement **des fichiers**, les renommer, les copier, les déplacer, les télécharger et les supprimer. Vous pouvez même y créer **de nouveaux documents** (par exemple des fichiers Excel, Word ou PowerPoint) et les modifier grâce à l'éditeur intégré.

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.5: Optimised archive, data processing and automations - SeaTable'
+description: 'Archive supports all column types including formula, link & link formula; data processing is more flexible, automations trigger Python scripts, rating column gets icons and summaries. Improved Excel handling, gallery tweaks, countitems, and integration with Zapier, Integromat, n8n and Locoia bring more power for teams and data pros.'
 date: 2021-11-16
 lastmod: '2023-07-11'
 coverImage: 'SeaTable_2.5_background.jpg'
@@ -9,8 +10,8 @@ color: '#e7cae0'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.5: Archive, Processing & Automations'
+    description: 'Archive now supports formulas and links, smarter data operations, new automations and flexible rating columns — SeaTable 2.5 expands your toolkit!'
 ---
 
 SeaTable 2.5 is out now! The new Docker image was uploaded to Docker Hub at the end of last week and SeaTable Cloud was updated this morning. The new release makes numerous SeaTable features even better! The maturing archive function lends itself to more and more use cases, the data processing operations become more flexible, the integrated automations and the rating column offer more options. Last but not least, link and link formula columns are now fully supported in external links for views. Read on, if you want to know more. For a complete list of changes, have a look at the [SeaTable Changelog]({{< relref "pages/changelog" >}}).

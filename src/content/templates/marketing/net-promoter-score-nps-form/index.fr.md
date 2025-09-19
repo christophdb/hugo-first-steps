@@ -6,8 +6,8 @@ url: '/fr/modele/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Questionnaire NPS : modèle Net Promoter Score à personnaliser'
+    description: 'Modèle gratuit NPS pour mesurer la satisfaction et la fidélité de vos clients.'
 template: '895068666cae411b9da7'
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.4 : design dynamique des pages, fonctions de recherche supplémentaires et amélioration des formulaires web'
+description: 'Disposez librement blocs et tableaux, créez formulaires avec intitulés et valeurs préremplies, interrogez sélections et listes. Data Query app pour data multi-champs, simplification des menus, nouveau contexte affichages : plus d’efficacité et de créativité collective au quotidien.'
 date: 2023-03-01
 lastmod: '2023-03-01'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#f36f22'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.4 : design dynamique & recherche étendue'
+    description: 'Positionnement dynamique en page design, recherche avancée sur champs, formulaires enrichis – SeaTable 3.4 privilégie la personnalisation !'
 ---
 
 Réveil printanier chez SeaTable ! Alors que les premières fleurs poussent à l'extérieur, nous sortons brillamment de la pause hivernale avec SeaTable 3.4. Préparez-vous à une expérience utilisateur améliorée et à une plus grande liberté de création ! Le plug-in de conception de pages, tout comme l'éditeur de formulaires Web, déploie désormais tout son potentiel, avec des fonctions avancées de positionnement dynamique des éléments et d'autres options utiles. Découvrez la nouvelle fonction de recherche lors du filtrage, du tri et du regroupement dans les paramètres d'affichage, ainsi que lors de la création d'options dans les colonnes de sélection. L'application Data Query, qui permet désormais d'affiner la recherche sur plusieurs champs, présente également des nouveautés remarquables. Le menu contextuel des lignes dispose également d'options supplémentaires et les entrées du journal des lignes brillent d'un nouvel éclat.

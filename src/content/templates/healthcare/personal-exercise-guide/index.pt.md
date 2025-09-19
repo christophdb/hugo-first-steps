@@ -2,12 +2,14 @@
 title: 'Plano de formação pessoal'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/personal-exercise-guide'
+url: '/pt/modelo/plano-treino-personalizado'
+aliases:
+    - '/pt/modelo/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plano de treino personalizado: modelo digital grátis'
+    description: 'Monte seu plano de treino personalizado, registre avanços e resultados.'
 template: '59bc81daee554d35bf9f'
 ---
 

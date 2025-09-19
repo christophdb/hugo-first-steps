@@ -2,12 +2,14 @@
 title: 'Feedback sur le développement de produits'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/product-development-feedback'
+url: '/fr/modele/feedback-developpement-produit'
+aliases:
+    - '/fr/modele/product-development-feedback'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Feedback produit: développement piloté par clients'
+    description: 'Centralisez retours utilisateurs : analysez suggestions et plaintes, pilotez évolution produit en fonction des vrais besoins dans SeaTable.'
 template: '9ea387bd5e6a43388286'
 ---
 

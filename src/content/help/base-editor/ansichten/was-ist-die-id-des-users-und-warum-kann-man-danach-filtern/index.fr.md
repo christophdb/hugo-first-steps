@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/fr/aide/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+url: '/fr/aide/filtrer-par-id-utilisateur'
+aliases:
+    - '/fr/aide/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+seo:
+    title: 'Filtrer par ID utilisateur dans SeaTable'
+    description: 'Utilisez l’ID utilisateur pour des filtres dynamiques et attribuez des tâches de façon flexible et sécurisée dans SeaTable.'
 ---
 
 L'ID de l'utilisateur se décrit le mieux par un **numéro d'identification personnel**. L'ID de l'utilisateur est unique au sein de l'équipe et appartient toujours à un membre de l'équipe.

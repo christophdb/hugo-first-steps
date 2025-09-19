@@ -2,12 +2,14 @@
 title: "Planificateur d'études"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/semester-schedule'
+url: '/fr/modele/planning-semestre'
+aliases:
+    - '/fr/modele/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de planning semestriel : étudiant complet'
+    description: 'Visualisez emploi du temps et tâches avec un planificateur semestriel: gestion simple, stats et réussite garantie, modèle gratuit.'
 template: '44ac24b866ac446f8fda'
 ---
 

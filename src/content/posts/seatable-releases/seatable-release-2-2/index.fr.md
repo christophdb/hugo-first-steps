@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.2 : Automatisation et intégration - SeaTable'
+description: '4 automatisations, apps d’accès externe, triple niveau de groupes, listes déroulantes dépendantes, droits table/ligne détaillés, liens automatiques, processus sauvegardés – plus import rapide, logs mail, new boutons : la gestion s’accélère !'
 date: 2021-08-10
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fc8a6e'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.2 : automatisation, intégration, groupes'
+    description: 'Automatisations, apps externes, groupes imbriqués, listes déroulantes, droits affinés, traitement avancé : SeaTable 2.2 évolue vite !'
 ---
 
 Chez SeaTable, il n'y a pas de pause estivale ! Nous maintenons notre rythme de publication mensuel et, dès aujourd'hui, tous les utilisateurs [de SeaTable Cloud](https://cloud.seatable.io) bénéficient des avantages de la version 2.2. Les automatisations et les applications externes sont deux nouvelles fonctionnalités introduites dans cette version. Nous en parlerons plus souvent dans les prochaines notes de version. Les autres points forts de la nouvelle version sont les groupes imbriqués, les champs de sélection en cascade ainsi que les autorisations de table étendues et les fonctions de traitement des données améliorées. Nous présentons ces nouveautés dans ces notes de version. Comme toujours, vous trouverez la liste complète des modifications dans le [changelog de SeaTable]({{< relref "pages/changelog" >}}). Sur Docker Hub, SeaTable 2.2 - dans les deux éditions du serveur SeaTable - sera disponible demain.

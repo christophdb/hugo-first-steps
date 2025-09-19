@@ -9,8 +9,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Team Meeting Template: Organize Efficient Team Meetings'
+    description: 'Organize and streamline your team meetings – collaborate, document, track tasks in one place.'
 template: '049628c4ea884375b7b9'
 ---
 

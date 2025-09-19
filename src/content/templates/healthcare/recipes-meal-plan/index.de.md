@@ -2,12 +2,14 @@
 title: 'Rezepte und Essensplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/recipes-meal-plan'
+url: '/de/vorlage/rezepte-meal-plan'
+aliases:
+    - '/de/vorlage/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Rezeptdatenbank & Essensplan mit SeaTable'
+    description: 'Lieblingsrezepte speichern, Meal Plans für die Woche erstellen und alle Zutaten, Fotos und Werte zentral verwalten – smart und übersichtlich.'
 template: 'f1b6279b2aa8466fbcea'
 ---
 

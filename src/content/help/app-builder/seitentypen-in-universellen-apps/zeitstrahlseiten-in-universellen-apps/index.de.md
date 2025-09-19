@@ -6,6 +6,9 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/zeitstrahlseiten-in-universellen-apps'
+seo:
+    title: 'Zeitstrahlseiten in Universellen Apps: Projekte & Planung'
+    description: 'Zeitstrahlseiten in SeaTable: Termine, Projekte und Urlaube als Timeline visualisieren, bearbeiten und filtern.'
 ---
 
 Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) auf und ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Da diese Datenansicht Überschneidungen von Terminen aufdeckt, könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** ein konkreter Anwendungsfall sein.

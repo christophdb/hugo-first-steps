@@ -6,8 +6,8 @@ url: '/template/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Personal Training Plan Template: Custom Fitness Guide'
+    description: 'Build a personal training plan and track your workout progress easily.'
 template: '59bc81daee554d35bf9f'
 ---
 

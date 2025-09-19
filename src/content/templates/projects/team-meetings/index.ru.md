@@ -10,8 +10,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Планёрки: шаблон для эффективной командной встречи'
+    description: 'Автоматизируйте и фиксируйте все планёрки команды – повестка, задачи, протоколы.'
 template: '049628c4ea884375b7b9'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Formulário de contacto'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/contact-form'
+url: '/pt/modelo/formulario-contato'
+aliases:
+    - '/pt/modelo/contact-form'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Formulário de Contato: Modelo para Solicitações Online'
+    description: 'Organize consultas e suporte com um formulário digital e workflow automatizado — tickets, Kanban e notificações centralizados.'
 template: '94a17598acf3466f8706'
 ---
 

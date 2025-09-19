@@ -6,6 +6,9 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-vergleichen-und-verknuepfen'
+seo:
+    title: 'Daten vergleichen und verknüpfen in SeaTable'
+    description: 'Verknüpfen Sie in SeaTable Datensätze automatisch über identische Spaltenwerte in zwei Tabellen mit einer einfachen Operation.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. **Vergleichen und verknüpfen** stellt dabei eine Operation dar, mit der Sie Datensätze in zwei verschiedenen Tabellen verlinken können, wenn ein Spaltenwert in beiden Tabellen identisch ist.

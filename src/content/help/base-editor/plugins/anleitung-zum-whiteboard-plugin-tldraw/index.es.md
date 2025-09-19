@@ -5,7 +5,12 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/es/ayuda/anleitung-zum-whiteboard-plugin-tldraw'
+url: '/es/ayuda/guia-del-plugin-whiteboard-tldraw'
+aliases:
+    - '/es/ayuda/anleitung-zum-whiteboard-plugin-tldraw'
+seo:
+    title: 'Whiteboard Plugin (tldraw): Dibujo, colaboración, exportar'
+    description: 'El nuevo Whiteboard tldraw: colaboración visual, bocetos, layouts, importación/exportación y agrupación, integrado en SeaTable.'
 ---
 
 El **plugin de pizarra blanca** te da la libertad de visualizar gráficamente procesos y estructuras que no puedes mostrar con los plugins anteriores. También puedes esbozar libremente diseños y maquetas. Para el diseño, dispones de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.

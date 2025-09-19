@@ -5,7 +5,12 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'kgr'
-url: '/help/apps-kopieren'
+url: '/help/copy-app'
+aliases:
+    - '/help/apps-kopieren'
+seo:
+    title: 'Copy and customize your app in SeaTable'
+    description: 'Learn how to duplicate your SeaTable app and adjust the copy to fit any new use case or user group in seconds.'
 ---
 
 You have built a sophisticated **app** that you want to use in a similar way for another user group? Then simply **copy** the existing app and customize the copy as you see fit.

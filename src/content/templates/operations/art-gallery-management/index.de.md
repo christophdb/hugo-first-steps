@@ -2,12 +2,14 @@
 title: 'Kunstgalerie Management'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/art-gallery-management'
+url: '/de/vorlage/galeriemanagement'
+aliases:
+    - '/de/vorlage/art-gallery-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Galeriemanagement Vorlage – Kunst, Sammlung, Ausstellungen'
+    description: 'Kunstwerke, Künstler, Leihgaben & Termine zentral verwalten: Mit der Galeriemanagement Vorlage für Museen, Sammler und Galerien.'
 template: '59d653f20de446a79f03'
 ---
 

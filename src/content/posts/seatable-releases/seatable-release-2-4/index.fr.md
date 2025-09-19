@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 2.4 : Amélioration des options d'affichage pour un travail plus rapide - SeaTable"
+description: 'Liste de vues ancrable, choix du champ affiché dans un lien, doublons mis en évidence, pourcentages calculés, PDF généré par bouton. Prévisualisez TIFF, mieux gérer liens multiples, plus d’options pour vos totaux : tout est prévu pour donner vitesse et clarté à vos datas et vos équipes.'
 date: 2021-10-19
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#8a9c54'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.4 : vues ancrables, liens flexibles'
+    description: 'Navigation ancrable, liens personnalisés, détection de doublons, calculs, PDF, TIFF : SeaTable 2.4 booste vos process!'
 ---
 
 SeaTable 2.4 a vu le jour ! La dernière incarnation du serveur SeaTable a été téléchargée sur [Docker](https://hub.docker.com/u/seatable) Hub à la fin de la semaine dernière et SeaTable Cloud a été mis à jour ce matin. La nouvelle version offre un grand nombre d'améliorations et de nouvelles fonctionnalités : La navigation dans les vues est désormais ancrable, le type de colonne Lien vers d'autres entrées offre des paramètres avancés, une nouvelle opération de traitement des données et une opération améliorée rendent l'analyse quantitative plus facile. En outre, une nouvelle mise en forme conditionnelle permet de gérer les grands ensembles de données. Et ce ne sont là que les fonctions qui se distinguent de la masse. SeaTable 2.4 offre bien plus encore. Vous trouverez les informations les plus importantes sur la nouvelle version dans ces notes de mise à jour. Vous trouverez la liste complète des modifications - comme toujours dans le [changelog]({{< relref "pages/changelog" >}}).

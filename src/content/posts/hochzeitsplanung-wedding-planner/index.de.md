@@ -1,6 +1,6 @@
 ---
 title: 'Die perfekte Hochzeitsplanung mit SeaTable'
-description: ''
+description: 'Eine Hochzeit erfordert Organisation: Location, Gäste, Budget und vieles mehr. Mit SeaTable erleichtern über 200 To-dos, smarte Checklisten und übersichtliche Vorlagen Ihre Planung. Gästeverwaltung, Sitzordnung, Budgetkontrolle und Ideenlisten helfen Ihnen, den Überblick zu behalten und Ihren schönsten Tag perfekt zu gestalten.'
 date: 2021-07-22
 categories:
     - 'best-practice'
@@ -9,8 +9,8 @@ tags:
 url: '/de/hochzeitsplanung-wedding-planner'
 color: '#c6ae94'
 seo:
-    title: ''
-    description: ''
+    title: 'Hochzeitsplanung leicht gemacht mit SeaTable'
+    description: 'Planen Sie Ihre Traumhochzeit strukturiert und stressfrei. Mit Checklisten, Gäste- & Budgetplanung behalten Sie alles unter Kontrolle.'
 ---
 
 Einer der schönsten und wichtigsten Tage im Leben steht vor der Tür: die eigene Hochzeit. Hier soll auf keinen Fall etwas schief gehen, weshalb eine strukturierte Hochzeitsplanung von großer Bedeutung für die meisten Paare ist. Was muss man bereits 12 Monate vor der Hochzeit erledigen, was ist 5 Monate vor dem großen Tag alles zu tun? Hat man nicht die finanziellen Mittel, sich einen professionellen Hochzeitsplaner zu engagieren, oder hat man ganz einfach Spaß an der Planung der eigenen Hochzeit, so hilft SeaTable bei der Hochzeitsplanung nicht den Überblick zu verlieren.

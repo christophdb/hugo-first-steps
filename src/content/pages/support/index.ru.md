@@ -1,5 +1,8 @@
 ---
 title: 'поддержка'
+seo:
+    title: 'Поддержка – помощь и сообщество SeaTable'
+    description: 'SeaTable: поддержка через тикеты (Enterprise), форум сообщества и справочная система для любых вопросов, ошибок и счётов.'
 date: '2025-04-03'
 url: '/ru/podderzhka'
 aliases:

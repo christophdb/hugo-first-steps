@@ -2,12 +2,14 @@
 title: 'Inventarliste Vorlage'
 description: ''
 date: '2025-02-28'
-url: '/de/vorlage/inventory-list'
+url: '/de/vorlage/inventarliste'
+aliases:
+    - '/de/vorlage/inventory-list'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Inventarliste Vorlage – Lager digital verwalten'
+    description: 'Kostenlose Inventarliste: Erfassen, sortieren, analysieren & optimieren – für Lager, Assets & Warenbestand. Visuelle Reports, alles digital.'
 template: '11568480344f4a61ab49'
 ---
 

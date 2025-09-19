@@ -6,8 +6,8 @@ url: '/pt/modelo/diario-alimentar'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Diário Alimentar: App para Monitorar sua Nutrição'
+    description: 'Registre refeições e hábitos alimentares, detecte intolerâncias e analise padrões usando o Diário Alimentar SeaTable.'
 template: '166dab67dcff4ee799fb'
 ---
 

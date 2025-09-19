@@ -2,12 +2,14 @@
 title: 'Schreibplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/writing-plan'
+url: '/de/vorlage/schreibplan'
+aliases:
+    - '/de/vorlage/writing-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Schreibplan Vorlage – Plot, Figuren & Kapitel'
+    description: 'Alle Romanideen, Charaktere, Orte & Kapitel übersichtlich digital planen – Schreibplan Vorlage für Bücher, Thriller & Sachtexte.'
 template: 'f4d05c56e13e4dd1bb57'
 ---
 

@@ -5,7 +5,12 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
+url: '/ru/pomoshch/sravnit-i-kopirovat-dannye-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
+seo:
+    title: 'Сравнивайте и копируйте данные в SeaTable'
+    description: 'Автоматически переносите значения между таблицами SeaTable, если выбранные поля совпадают – удобно и быстро.'
 ---
 
 С помощью функции обработки данных можно выполнять различные операции над столбцом. **Сравнение и копирование** - это операция, с помощью которой можно скопировать значения столбца из одной таблицы в столбец другой таблицы при условии, что определенное значение сравнения совпадает в обеих записях данных.
