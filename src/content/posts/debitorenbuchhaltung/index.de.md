@@ -1,116 +1,168 @@
 ---
 title: 'Mit SeaTable zur optimalen Debitorenbuchhaltung'
-description: 'Behalten Sie Kundenrechnungen, offene Posten, Zahlungen und Mahnwesen im Griff. Die SeaTable Vorlage bietet übersichtliches Forderungsmanagement, automatische Prozesse und volle Transparenz für Ihr Unternehmen.'
+description: 'Liquidität sichern, Risiken minimieren, Wachstum ermöglichen – die Debitorenbuchhaltung ist weit mehr als reine Zahlenschieberei. Wer seine Forderungen nicht im Griff hat, verliert schnell den Überblick über Cashflow und Kundenbeziehungen.'
 date: 2021-08-26
-lastmod: '2023-07-11'
+lastmod: '2025-09-18'
 author: 'pbr'
 url: '/de/debitorenbuchhaltung'
 color: '#7cbaef'
 seo:
-    title: '	Debitorenbuchhaltung digitalisieren: Vorlage & Anleitung'
+    title: 'Debitorenbuchhaltung digitalisieren: Vorlage & Anleitung'
     description: 'Optimieren Sie Ihre Debitorenbuchhaltung mit SeaTable – alles zu Rechnungen, Mahnwesen, Liquidität.'
 ---
 
-Zahlungseingänge müssen geprüft, Kunden an Zahlungen erinnert werden und teilweise kommt es sogar zu dem Part, den jedes Unternehmen vermeiden möchte: dem Mahnwesen. Das kann für viele Unternehmen zu einer wirklichen Herausforderung werden. Schnell verliert man sich im eigenen Chaos und niemand in Ihrem Unternehmen weiß noch, wann und ob eine Rechnung überhaupt bezahlt wurde. Am Ende leidet noch die Liquidität Ihres eigenen Unternehmens darunter. Soweit sollten Sie es jedoch nicht kommen lassen!
+Sie behalten Zahlungseingänge im Blick, erinnern Kunden an offene Rechnungen und versenden bei Bedarf auch Mahnungen. Ohne die richtige Struktur kann das schnell unübersichtlich werden - und es ist nicht immer sofort erkennbar, welche Rechnungen bereits beglichen wurden. Umso wichtiger ist es, den Überblick zu behalten, damit die Liquidität Ihres Unternehmens gesichert bleibt.
 
-Mit [SeaTable]({{< relref "pages/registration" >}}) haben Sie endlich alle Rechnungen bzw. Forderungen an Ihre Kunden auf einen Blick und wissen genau über jeden einzelnen Stand Bescheid. SeaTable ermöglicht Ihrer Debitorenbuchhaltung ein optimales und effizientes Forderungsmanagement. Zudem können Informationen ganz einfach unter den einzelnen Abteilungen in Ihrem Unternehmen ausgetauscht werden. Damit jeder auch mit den gleichen und richtigen Infos arbeiten kann und auch Sie als Unternehmer wieder ruhiger schlafen können.
+Mit einer klar strukturierten Debitorenbuchhaltung wissen Sie immer, welche Zahlungen eingegangen sind und welche noch offenstehen. Sie ermöglicht Ihnen nicht nur ein effizientes Forderungsmanagement, sondern auch einen reibungslosen Informationsaustausch zwischen den Abteilungen. So arbeitet jeder im Unternehmen mit den gleichen, aktuellen Daten und Sie behalten stets die volle Kontrolle.
 
-[Hier geht es direkt zu unserem Template “CRM-Debitorenbuchhaltung”]({{< relref "templates/sales/crm-accounts-receivable" >}})
+![Debitorenbuchhaltung](Buchhaltung.jpg)
 
-## Was versteht man unter Debitorenbuchhaltung?
+## Was ist Debitorenbuchhaltung?
 
-Die Debitorenbuchhaltung gehört der Finanzbuchhaltung an. In der Debitorenbuchhaltung werden alle Geschäftsvorgänge erfasst, die die eigenen Kunden des Unternehmens betreffen. Im Prinzip werden hier also alle Forderungen gegenüber den Debitoren (Kunden) erfasst und verwaltet. Diese ergeben sich im Normalfall aus dem Verkauf von Waren und Dienstleistungen aus dem eigenen Unternehmen. Debitoren sind also immer Schuldner, die Forderungen aus Lieferungen und Leistungen begleichen müssen. Ganz plakativ gesprochen zeigen Debitoren also auf, wie viel Geld Ihnen Ihre Kunden noch schulden und kümmern sich darum, dass diese Schulden auch beglichen werden. Am Ende sollte ein positiver Zahlungseingang des einzelnen Debitoren verzeichnet werden können.
+Die Debitorenbuchhaltung ist ein zentraler Bestandteil der **Finanzbuchhaltung** und befasst sich mit allen Geschäftsvorgängen, die die Kunden Ihres Unternehmens betreffen. Im Mittelpunkt stehen dabei die Forderungen, die aus dem Verkauf von Waren oder Dienstleistungen entstehen. Sobald Ihr Unternehmen eine Leistung erbringt oder ein Produkt verkauft, entsteht eine Forderung gegenüber dem Kunden - dem sogenannten Debitor.
 
-## Was macht eigentlich eine Debitorenbuchhaltung?
+Die Aufgabe der Debitorenbuchhaltung ist es, diese Forderungen sorgfältig zu erfassen, zu überwachen und zu verwalten. Dazu gehört nicht nur die ordnungsgemäße Buchung offener Rechnungen, sondern auch die Nachverfolgung der Zahlungseingänge. Sollte ein Kunde in Verzug geraten, übernimmt die Debitorenbuchhaltung zudem das Mahnwesen und sorgt dafür, dass ausstehende Beträge eingefordert werden.
 
-Die Debitorenbuchhaltung hat vier wichtige Tätigkeitsfelder. In diesen beschäftigen sie sich ausgiebig mit den Verbuchungen von Forderungen und Gutschriften aus Lieferungen und Leistungen, mit der Überwachung von den einzelnen Zahlungseingängen, mit dem Mahnwesen und Inkasso und mit der eigentlichen Bonität jedes Kunden in Ihrem Unternehmen. Hierbei wird auch gerne von einem Debitoren Scoring gesprochen. Die Debitorenbuchhaltung sorgt also dafür, dass angefangen von der eigentlichen Rechnungsstellung bis zum Zahlungseingang alles nachgehalten bzw. dokumentiert wird und stößt bei ausbleibender Zahlung das Mahnwesen bzw. Inkasso an.
+## Was gehört zur Debitorenbuchhaltung dazu? 
 
-### **Forderungsmanagement**
+Die Debitorenbuchhaltung hat vier wichtige Tätigkeitsfelder. In diesen beschäftigen sie sich ausgiebig mit den Verbuchungen von Forderungen und Gutschriften aus Lieferungen und Leistungen, mit der Überwachung der einzelnen Zahlungseingänge, mit dem Mahnwesen und Inkasso und mit der eigentlichen Bonität jedes Kunden in Ihrem Unternehmen. Hierbei wird auch gerne von einem Debitoren Scoring gesprochen. Die Debitorenbuchhaltung sorgt also dafür, dass angefangen von der eigentlichen **Rechnungsstellung** bis zum **Zahlungseingang** alles nachgehalten bzw. dokumentiert. Bei ausbleibender Zahlung stößt sie das Mahnwesen und Inkasso an.
+
+![Der Kunde wird zum Debitor](kunden.jpg)
+
+### Forderungsmanagement
 
 Sollte ein Kunde in Ihrem Unternehmen ein Produkt kaufen, erhält dieser im Anschluss eine Rechnung. Diese wird durch die Debitorenbuchhaltung an den Kunden versendet. Der Kunde hat nun die Möglichkeit, innerhalb eines bestimmten vordefinierten Zahlungszeitraums den Rechnungsbetrag zum Beispiel per Lastschrift oder Banküberweisung an Ihr Unternehmen zu zahlen. Die Rechnung an den Kunden wird auch gerne als Forderung (Forderungsmanagement) bezeichnet. Die offenen Forderungen werden täglich geprüft. Dies dient zudem als Vorarbeit für das Mahnwesen.
 
-### **Mahnwesen**
 
-Beim Mahnwesen unterscheidet man zwischen dem außergerichtlichen und dem gerichtlichen Mahnwesen. Bei dem außergerichtlichen Mahnverfahren versucht man erst einmal intern die Rechnungssumme, die einem der Debitor (Kunde) noch schuldet, selbstständig einzuholen. Dies geschieht in der Regel mit sogenannten Mahnstufen. Mit jeder Mahnstufe wird der Kunde erneut daran erinnert, die noch ausstehende Zahlung zu begleichen. Wie viele Mahnstufen es bis zum gerichtlichen Mahnwesen gibt, entscheidet jedes Unternehmen für sich.
+### Mahnwesen
+
+Beim Mahnwesen unterscheidet man zwischen dem außergerichtlichen und dem gerichtlichen Mahnwesen. Bei dem **außergerichtlichen Mahnverfahren** versucht man erst einmal intern die Rechnungssumme, die einem der Debitor (Kunde) noch schuldet, selbstständig einzuholen. Dies geschieht in der Regel mit sogenannten Mahnstufen. Mit jeder Mahnstufe wird der Kunde erneut daran erinnert, die noch ausstehende Zahlung zu begleichen. Wie viele Mahnstufen es bis zum gerichtlichen Mahnwesen gibt, entscheidet jedes Unternehmen für sich.
 
 Im besten Fall erhält der Kunde auch vorerst eine freundliche Zahlungserinnerung, bevor das außerordentliche Mahnwesen startet. Ziel hierbei ist insbesondere die bestehende Geschäftsbeziehung nicht zu schwächen und den Konflikt auf einer noch möglichst „persönlichen Ebene“ zu regeln.
 
-Bei dem gerichtlichen Mahnwesen hat das außerordentliche Mahnwesen also leider nicht funktioniert und die ausstehende Zahlung wurde immer noch nicht durch den Schuldner (Kunden) beglichen. In diesem Fall wird eine gerichtliche Mahnung ins Auge gefasst. Diese erfolgt durch Rechtsanwälte oder Inkassounternehmen, kann aber auch durch die eigene Debitorenbuchhaltung erfolgen, wenn hier die nötigen Kenntnisse vorhanden sind. Wichtig hierbei ist, sich mit den Prozessen der Gerichte bzw. Gerichtsvollziehern auszukennen.
+Bei dem **gerichtlichen Mahnwesen** hat das außerordentliche Mahnwesen also leider nicht funktioniert und die ausstehende Zahlung wurde immer noch nicht durch den Schuldner (Kunden) beglichen. In diesem Fall wird eine gerichtliche Mahnung ins Auge gefasst. Diese erfolgt durch Rechtsanwälte oder Inkassounternehmen, kann aber auch durch die eigene Debitorenbuchhaltung erfolgen, wenn hier die nötigen Kenntnisse vorhanden sind. Wichtig hierbei ist, dass Sie sich mit den Prozessen der Gerichte bzw. Gerichtsvollziehern auskennen.
 
-### **Debitoren Scoring**
 
-Besonders wichtig ist aber auch das sogenannte Debitoren Scoring im Unternehmen. Dieses soll wichtige Informationen geben über die eigentliche Zahlungsbereitschaft Ihrer Kunden. Über die getätigten Zahlungshistorien jedes einzelnen Kunden können explizite Aussagen getroffen werden, z. B. über die Zahlungszuverlässigkeit oder einzelne Zahlungsausfälle. Dadurch können gerade auch Insolvenzen der Kunden früh erkannt werden und der eigentliche finanzielle Schaden daraus auf ein Minimum reduziert werden. Der Kunde wird in diesem Fall einfach gesperrt und bis auf Weiteres nicht mehr mit Produkten oder Dienstleistungen beliefert.
+### Debitoren Scoring
 
-### **Informationsmanagement**
+Besonders wichtig ist aber auch das sogenannte Debitoren Scoring im Unternehmen. Dieses soll relevante Informationen über die eigentliche Zahlungsbereitschaft Ihrer Kunden geben. Über die getätigten Zahlungshistorien jedes einzelnen Kunden können explizite Aussagen getroffen werden, z. B. über die Zahlungszuverlässigkeit oder einzelne Zahlungsausfälle. Dadurch können gerade auch Insolvenzen der Kunden früh erkannt werden und der eigentliche finanzielle Schaden daraus auf ein Minimum reduziert werden. Der Kunde wird in diesem Fall einfach gesperrt und bis auf Weiteres nicht mehr mit Produkten oder Dienstleistungen beliefert.
 
-Neben allen bereits genannten Punkten ist aber auch die Informationsweitergabe über ausstehende Zahlungen besonders wichtig. Hieraus können im Handumdrehen Entscheidungen über mögliche anstehende Investitionen und zur eigenen Liquidität getroffen werden. Sollten also vermehrt Zahlungen ausfallen, so können in Ihrem Unternehmen zu Folge eventuell keine neuen Investitionen angestoßen werden. Sollte hingegen der größte Teil Ihrer Forderungen beglichen sein, so steht ihr Unternehmen liquide da und weiteren Investitionen steht nichts mehr im Wege. Die Liquidität eines Unternehmens hängt also immer von den noch offenen bzw. beglichenen Forderungen ab.
 
-## Was hat es mit dem Debitorenrisiko auf sich und wie kann man diesem entgegenwirken?
+### Informationsmanagement
 
-Nicht alle Kunden zahlen immer pünktlich bzw. mache Kunden zahlen deren Rechnungen bewusst nicht. Mit diesem sogenannten Debitorenrisiko muss Ihre Debitorenbuchhaltung aber bestmöglich umgehen können und die Zahlungsmöglichkeiten, die sich in Zahlungsverzug, Zahlungsunfähigkeit und Zahlungsunwilligkeit unterscheiden, möglichst genau einschätzen zu können.
+Neben allen bereits genannten Punkten ist aber auch die Informationsweitergabe über ausstehende Zahlungen besonders bedeutend. Hieraus können im Handumdrehen Entscheidungen über mögliche anstehende Investitionen und zur eigenen Liquidität getroffen werden. Sollten also vermehrt Zahlungen ausfallen, so können in Ihrem Unternehmen zu Folge eventuell keine neuen Investitionen angestoßen werden. Sollte hingegen der größte Teil Ihrer Forderungen beglichen sein, so steht Ihr Unternehmen liquide da und weiteren Investitionen steht nichts mehr im Wege. Die Liquidität eines Unternehmens hängt also immer von den noch offenen bzw. beglichenen Forderungen ab.
 
-Beim Zahlungsverzug bezahlt der Kunde (Schuldner) seine Rechnung nicht bis zu dem bereits vereinbarten Zahlungsziel. Bei der Zahlungsunfähigkeit sprechen wir bereits von einer Insolvenz. Hierbei kann der Kunde seinen Zahlungspflichten nicht mehr nachkommen. Bei der Zahlungsunwilligkeit hingegen verweigert der Kunde die Zahlung und handelt hier vorsätzlich. Entgegenwirken kann man diesem nur durch ein ordentliches Scoring.
+{{< warning headline="Hinweis" >}}
+Wenn Sie sich weiter in das Thema [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Investitionsplan]({{< relref "posts/investitionsplan" >}}) und den [Liquiditätsplan]({{< relref "posts/20250628_liquiditaetsplanung" >}}) erfahren. Dort finden Sie praxisnahe Tipps, Beispiele und Vorlagen, die Ihnen helfen, Ihre Unternehmensfinanzen noch effizienter zu steuern.
+{{< /warning >}}
 
-Beim Scoring wird der Kunde genau beleuchtet. Vergangene Zahlungen werden hierbei genausten im eigentlichen Debitorenkonto jedes einzelnen Kunden gelistet und laufen in die Bonität ein. Sollte es also mal zu Problemen mit in der Vergangenheit zu begleichenden Zahlungen gekommen sein, so wird der Kunde schlechter im Scoring eingestuft. Dies kann auch bis zur eigentlichen Sperrung bzw. Nichtbelieferung des Debitoren führen. Hierbei kann z. B. Vorauszahlung Abhilfe schaffen. Sollte der Kunde hingegen alle seine Rechnungen immer fristgerecht bezahlt haben, so sollte er das bestmögliche Scoring in Ihrer Debitorenbuchhaltung haben.
+
+## Aufgaben der Debitorenbuchhaltung
+
+Die Aufgaben der Debitorenbuchhaltung gehen weit über das reine Buchen von Geschäftsvorgängen hinaus. Sie umfassen alle Tätigkeiten, die notwendig sind, damit Sie die Forderungen gegenüber Ihren Kunden transparent verwalten, Zahlungseingänge sichern und Ausfälle vermeiden können. Dazu gehören unter anderem:
+
+* Erstellung und Versand von **Ausgangsrechnungen**
+* Verbuchung der Forderungen aus **Lieferungen und Leistungen**
+* Erfassung von **Zahlungseingängen**
+* Überwachung von **fälligen Zahlungen** und offenen Posten
+* Aktives **Forderungsmanagement**, um Zahlungen einzuholen
+* Organisation und Durchführung des **Mahnwesens**
+* Erstellung und Bearbeitung von **Gutschriften**
+* Abstimmung der **Debitorenkonten** zur Sicherstellung korrekter Buchungen
+* **Ansprechpartner** für Kunden bei Fragen zu Rechnungen und Zahlungen
+* Bewertung und Prüfung des **Debitorenrisikos**, um Zahlungsausfälle zu vermeiden
+
+{{< warning headline="Debitorenkonto" text="Ein Debitorenkonto ist ein spezielles Konto in der Finanzbuchhaltung, auf dem alle Geschäftsvorgänge mit einem einzelnen Kunden erfasst werden. Für jeden Debitor – also jeden Kunden, der eine Rechnung erhält – wird ein eigenes Konto geführt. Dort werden die Ausgangsrechnungen, Zahlungseingänge, Gutschriften und eventuell auch Mahnungen gebucht." />}}
+
+## Was hat es mit dem Debitorenrisiko auf sich?
+
+Nicht alle Kunden zahlen immer pünktlich und manche Kunden zahlen ihre Rechnungen sogar bewusst nicht. Mit diesem sogenannten Debitorenrisiko muss Ihre Debitorenbuchhaltung aber bestmöglich umgehen können und die Zahlungsmöglichkeiten, die sich in Zahlungsverzug, Zahlungsunfähigkeit und Zahlungsunwilligkeit unterscheiden, möglichst genau einschätzen zu können.
+
+![Das Debitorenrisiko](risiko.jpg)
+
+Beim Zahlungsverzug bezahlt der Kunde (Schuldner) seine Rechnung nicht bis zu dem bereits vereinbarten Zahlungsziel. Bei der Zahlungsunfähigkeit sprechen wir bereits von einer Insolvenz. Hierbei kann Ihr Kunde seinen Zahlungspflichten nicht mehr nachkommen. Bei der Zahlungsunwilligkeit hingegen verweigert Ihr Kunde die Zahlung und handelt vorsätzlich. Entgegenwirken können Sie dem nur durch ein ordentliches Scoring.
+
+Beim Scoring beleuchten Sie Ihren Kunden genau. Vergangene Zahlungen werden hierbei im eigentlichen Debitorenkonto jedes einzelnen Kunden gelistet und laufen in die Bonität ein. Zahlungsverzögerungen in der Vergangenheit führen dazu, dass Ihr Kunde im Scoring schlechter bewertet wird. Dies kann auch bis zur eigentlichen Sperrung bzw. Nichtbelieferung des Debitoren führen. Hierbei kann z. B. Vorauszahlung Abhilfe schaffen. Sollte Ihr Kunde hingegen alle seine Rechnungen immer fristgerecht bezahlt haben, so sollte er das bestmögliche Scoring in Ihrer Debitorenbuchhaltung haben.
+
+## Was ist Kreditorenbuchhaltung?
+
+Die Kreditorenbuchhaltung ist ein Teilbereich der Finanzbuchhaltung und befasst sich mit den Verbindlichkeiten eines Unternehmens gegenüber seinen Lieferanten und Dienstleistern - den sogenannten Kreditoren. Immer dann, wenn ein Unternehmen Waren oder Dienstleistungen einkauft und dafür eine Rechnung erhält, entsteht eine Verbindlichkeit, die in der Kreditorenbuchhaltung erfasst und überwacht wird.
+
+![Stabile Lieferantenbeziehungen](lieferanten.jpg)
+
+Zu den zentralen Aufgaben gehören die Erfassung und Prüfung von Eingangsrechnungen, die kontengerechte Verbuchung dieser Verbindlichkeiten sowie die Überwachung der Zahlungsfristen. Ziel ist es, Rechnungen termingerecht zu begleichen, Skonti oder Rabatte zu nutzen und gleichzeitig einen Überblick über alle offenen Zahlungsverpflichtungen zu behalten. Die Kreditorenbuchhaltung trägt somit entscheidend dazu bei, die finanzielle Ordnung im Unternehmen zu gewährleisten und stabile Lieferantenbeziehungen zu sichern.
+
+## Was gehört zur Kreditorenbuchhaltung?
+
+Die Kreditorenbuchhaltung umfasst alle Tätigkeiten rund um die Erfassung, Verwaltung und Abwicklung von Verbindlichkeiten gegenüber Lieferanten und Dienstleistern. Im Detail umfasst sie:
+
+* Erfassung und Prüfung von **Eingangsrechnungen**
+* Kontierung und **Verbuchung der Rechnungen** auf die entsprechenden Konten
+* Überwachung von **Zahlungsfristen** und termingerechte Begleichung offener Rechnungen
+* Nutzung von **Skonti und Rabatten**, um Kosten zu sparen
+* Verwaltung von **Gutschriften** und sonstigen Korrekturen
+* Abstimmung und Pflege der **Kreditorenkonten**
+* **Kommunikation** mit Lieferanten bei Fragen zu Rechnungen oder Zahlungen
+* Vorbereitung von **Zahlungsläufen** (z. B. Überweisungen, Lastschriften)
+* **Prüfung und Bewertung** von Verbindlichkeiten, um die finanzielle Situation transparent darzustellen
+
+## Debitorenbuchhaltung vs. Kreditorenbuchhaltung
+
+Während die Kreditorenbuchhaltung die Verbindlichkeiten gegenüber Lieferanten erfasst, überwacht die Debitorenbuchhaltung die Forderungen gegenüber Kunden. Die folgende Gegenüberstellung zeigt ihre Aufgaben, Unterschiede und Auswirkungen auf den Zahlungsfluss:
+
+|                     | **Kreditorenbuchhaltung** | **Debitorenbuchhaltung** | 
+| ------------------- | --------------------- | --------------------- | 
+| **Definition** | Erfasst alle Geschäftsvorfälle mit Lieferanten (Verbindlichkeiten)         | Erfasst alle Geschäftsvorfälle mit Kunden (Forderungen) | 
+| **Beteiligte**      | Lieferanten / Gläubiger | Kunden / Schuldner   | 
+| **Ziel**       | Kontrolle und Verwaltung der Verbindlichkeiten gegenüber Lieferanten     | Kontrolle und Verwaltung der Forderungen gegenüber Kunden       | 
+| **Hauptaufgabe** | - Rechnungen prüfen, Zahlungen vorbereiten, Skonti und Mahnungen verwalten        | Rechnungen erstellen, Zahlungseingänge überwachen, Mahnwesen durchführen | 
+| **Auswirkungen auf Bilanz**      | Erhöhung der Verbindlichkeiten | Erhöhung der Forderungen   | 
+| **Zahlungsfluss**       | Ausgaben → Geld verlässt das Unternehmen     | Einnahmen → Geld fließt ins Unternehmen       | 
+
+
+## Vorteile von Debitoren- und Kreditorenbuchhaltung
+
+Die Debitoren- und Kreditorenbuchhaltung bietet für Unternehmen zahlreiche Vorteile, die sowohl die finanzielle Stabilität als auch die interne Organisation verbessern. Ein wesentlicher Vorteil ist die Verbesserung der finanziellen Planungssicherheit. Durch die systematische Erfassung von Forderungen und Verbindlichkeiten sowie die Kalkulation von Ausfallrisiken können Unternehmen ihre Liquidität besser planen und unvorhergesehene Engpässe vermeiden. Gleichzeitig lassen sich Verluste durch Zahlungsausfälle deutlich verringern, da offene Posten aktiv überwacht und bei Bedarf Mahnungen oder Inkassomaßnahmen eingeleitet werden.
+
+![Die Vorteile der Debitorenbuchhaltung](vorteile_debitorenbuchhaltung.jpg)
+
+Die Buchhaltung verschafft zudem einen klaren Überblick über alle Kunden und Lieferanten, wodurch Prozesse effizienter gestaltet werden können. Beispielsweise werden Rechnungen und Zahlungen übersichtlich miteinander verknüpft, was die Abläufe vereinfacht und Unstimmigkeiten reduziert. Darüber hinaus erleichtert die Debitoren- und Kreditorenbuchhaltung die Informationsbeschaffung und die Planung von Geschäftsbeziehungen. Unternehmen können auf Basis der Buchhaltungsdaten gezielte Entscheidungen treffen, etwa über Kreditlimits, Zahlungsbedingungen oder zukünftige Investitionen bei bestimmten Kunden oder Lieferanten.
 
 ## So effizient gestalten Sie Ihre Debitorenbuchhaltung in SeaTable
 
-In unserem letzten Artikel „[CRM: Von der Kundenerfassung bis zum Angebot]({{< relref "posts/crm-angebotsmanagement" >}})“ haben wir Ihnen gezeigt, wie Sie im Handumdrehen Ihr ganz persönliches CRM-System in SeaTable erstellen können. In diesem Artikel bzw. Template knüpfen wir nun an den eben genannten Artikel an und zeigen Ihnen, wie Sie in SeaTable Ihre Debitorenbuchhaltung effizient abbilden können. Bislang drehte sich alles um den Kundenstamm, das Produktportfolio und die Angebotserstellung. Jetzt kommen wir vom Angebot zur Rechnungsstellung. Somit finden Sie in dem eigentlichen Template neben den Tabellenblättern „Customer data“, „Sales team“, „Offers“ und „Product Catalogue“ auch das neue Tabellenblatt „Invoices“ wieder.
+Die Debitorenbuchhaltung bildet das Rückgrat einer effizienten Finanzbuchaltung in jedem Unternehmen. Mit der **DSGVO-konformen Software SeaTable** können Sie diesen Bereich digital abbilden, alle relevanten Informationen zentral verwalten und so den gesamten Prozess von der Angebotserstellung bis zum Zahlungseingang deutlich vereinfachen. Das kostenlose [Template]({{< relref "templates/sales/crm-accounts-receivable" >}}) bietet Ihnen neben Tabellenblättern für Kunden, Produkte und Angebote auch ein spezielles Rechnungsblatt, in dem alle wichtigen Daten übersichtlich zusammenlaufen.
 
-### **Vom Angebot zur Rechnungsbeauftragung**
+{{< template-box id="9abcb338414a450b8f66" submit="Vorlage testen" text="Scrollen Sie durch unser interaktives Template und entdecken Sie erste Funktionen." >}}
 
-Das Tabellenblatt „Offers“ wurde nun um die drei neuen [Spalten]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) „Accounting Department“, „Payment Status“ und „Invoices“ ergänzt. Sollte nun Ihr Kunde ihr gestelltes Angebot akzeptiert haben und die Ware oder Dienstleistung beziehen wollen, so haben Sie nun die Möglichkeit, mit nur einem Klick auf die Schaltfläche „Please create Invoice“ die Buchhaltung darüber zu informieren, dem Kunden bitte eine Rechnung zu stellen. Alle wichtigen Daten zum akzeptierten Angebot wandern direkt als neue Zeile in das Tabellenblatt „Invoices“. Hierfür wird im Hintergrund ein Skript ausgeführt, dass die Daten zum Einen direkt in die Tabelle “Invoices” schreibt und zum Anderen eine Verknüpfung mit den Tabellenblättern “Invoices”, “Offers” und “Customer data” sicherstellt.
+Sobald ein Angebot vom Kunden akzeptiert wird, werden die entsprechenden Informationen automatisch in das Rechnungsblatt übertragen. Dadurch lassen sich Rechnungen mit wenigen Klicks erstellen und direkt an die Kunden verschicken. Der Zahlungsstatus jeder Rechnung ist jederzeit einsehbar, sodass Buchhaltung und Vertrieb stets den Überblick behalten. Zusätzlich lassen sich Zahlungseingänge und Mahnungen direkt im System dokumentieren, wodurch Prozesse beschleunigt und Fehler reduziert werden. SeaTable ermöglicht Ihnen somit eine transparente und zeitsparende Verwaltung der Debitorenbuchhaltung, ohne dass teure Zusatzsoftware erforderlich ist. [Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute kostenlos und testen Sie die Vorlage.
 
-![Debitorenbuchhaltung - Angebot](Ansicht_Offers.png)
+## FAQs
 
-Übersicht der Angebotsseite in SeaTable
+{{< faq "Was sind Debitoren und Kreditoren?" >}}
 
-Den eigentlichen Zahlungsstatus können Sie dann bequem in der [Spalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) „Payment Status“ einsehen. Alle Rechnungen sind zudem verknüpft mit dem Tabellenblatt „Invoices“ und können selbstverständlich auch in der Spalte „Invoices“ eingesehen werden. Somit haben Sie als Unternehmer aber auch ihr Salesteam immer alle wichtigen Infos auf einen Blick und können zur Not auch persönlich bei den Kunden nachhaken, falls eine Zahlung eventuell mal nicht rechtzeitig getätigt werden sollte.
+Debitoren sind die Kunden eines Unternehmens, die offene Rechnungen zu begleichen haben, also Forderungen darstellen. Kreditoren hingegen sind die Lieferanten oder Geschäftspartner, denen das Unternehmen Geld schuldet, also Verbindlichkeiten bestehen. Zusammen bilden sie die Basis für die Überwachung von Ein- und Auszahlungen im Unternehmen.
 
-### **Rechnungserstellung in nur wenigen Sekunden**
+{{< /faq >}}
 
-Wie bereits erwähnt, wandern alle wichtigen Informationen zum akzeptierten Angebot durch den Kunden direkt in das Tabellenblatt „Invoices“. Somit werden alle Daten wie beispielsweise Angebotsnummer, Kundenname, Kundennummer, Kontaktperson, Straße und Hausnummer, Postleitzahl, Stadt, Land und alle Produktinfos mit Produktname, Einzelpreis, Menge und Gesamtsumme automatisch übertragen. Alles, was Ihre Buchhaltung nun machen muss, ist in der Spalte „Invoice“ auf die Schaltfläche „Create Invoice“ zu drücken.
+{{< faq "Wie unterscheiden sich Debitoren- und Kreditorenbuchhaltung?" >}}
 
-![Debitorenbuchhaltung - Rechnungen](Ansicht_Invoices.png)
+Die Debitorenbuchhaltung erfasst und überwacht alle Forderungen gegenüber Kunden – also Rechnungen, die das Unternehmen gestellt hat und deren Zahlung noch aussteht. Die Kreditorenbuchhaltung hingegen verwaltet alle Verbindlichkeiten gegenüber Lieferanten, also Rechnungen, die das Unternehmen bezahlen muss. Debitorenbuchhaltung schaut also auf das Geld, das hereinkommt, Kreditorenbuchhaltung auf das Geld, das ausgeht.
 
-Alle Forderungen auf einen Blick
+{{< /faq >}}
 
-Nun öffnet sich vollautomatisch das Plug-in „Page-Design“ und füllt bereits alle wichtigen Informationen aus. Die Rechnung können Sie im Anschluss ganz einfach als PDF-Datei speichern und in der Spalte „Files“ ablegen oder ausdrucken und an Ihren Kunden per E-Mail oder per Brief verschicken. Natürlich können Sie das vordefinierte Page-Design-Template in wenigen Minuten nach Ihren Wünschen anpassen bzw. ergänzen.
+{{< faq "Mit welcher Software lässt sich die Buchhaltung von Kreditoren und Debitoren umsetzen?" >}}
 
-![Debitorenbuchhaltung - Rechnung](PageDesign_Invoice.png)
+Mit SeaTable lässt sich die Debitoren- und Kreditorenbuchhaltung effizient und flexibel umsetzen – ganz ohne Programmierkenntnisse. SeaTable ist eine DSGVO-konforme No-Code-Plattform, die speziell für die Verwaltung und Automatisierung von Geschäftsprozessen entwickelt wurde. Sie ermöglicht es, individuelle Anwendungen für die Buchhaltung zu erstellen, die perfekt auf die Bedürfnisse Ihres Unternehmens zugeschnitten sind.
 
-Ihre fertige Rechnung im Page-Design-Plug-in
+{{< /faq >}}
 
-### **Den Zahlungsstatus im Blick behalten**
+{{< faq "Spielen Debitoren in der Kreditorenbuchhaltung eine Rolle?" >}}
 
-Damit auch alle relevanten Personen neben der eigentlichen Debitorenbuchhaltung in Ihrem Unternehmen Bescheid wissen, ob ein Kunde seine Rechnungen bezahlt oder nicht, steht Ihnen die Spalte „Payment Status“ zur Verfügung. Wird ein Angebot durch den Kunden akzeptiert und eine Rechnung erzeugt, so wird automatisch der Zahlungsstatus auf „Pending“ geändert. Sobald ein Zahlungseingang stattfindet, kann Ihre Debitorenbuchhaltung die Single Select-Spalte „Payment Status“ auf „Paid“ ändern und das Datum des Zahlungseingangs unter „Date of Payment“ erfassen. Mit der [Gruppierungsfunktion]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) und den verschiedenen [Ansichten]({{< relref "help/base-editor/ansichten" >}}) nach “Payment Status” erhält man den bestmöglichen Blick auf alle derzeitigen Zahlungsstände. Des Weiteren finden Sie im Kanban Plug-in nun auch den “Invoice Status”, damit Sie auch wirklich keinen Zahlungsstatus aus den Augen verlieren können.
+Nein, Debitoren spielen in der Kreditorenbuchhaltung grundsätzlich keine Rolle. Die Kreditorenbuchhaltung konzentriert sich ausschließlich auf Lieferanten und Verbindlichkeiten – also darauf, wem das Unternehmen Geld schuldet und wann Zahlungen fällig sind. Debitoren hingegen sind Kunden, die dem Unternehmen Geld schulden, und werden in der Debitorenbuchhaltung erfasst.
 
-![Debitorenbuchhaltung - Zahlungen](Ansicht_Invoices_Status.png)
+{{< /faq >}}
 
-Die verschiedenen Zahlungsstände
 
-Das zusätzlich großartige an dem Payment Status: Jeder Status wirkt sich auch auf Ihren eigentlichen Kundenstamm unter dem Tabellenblatt „Customer data“ aus. Bedeutet: Bezahlt ein Kunde alle seine Rechnungen bzw. steht auf „Pending“, ist die eigentliche Zeile grün markiert. Sollte der Kunde seine Rechnung aus irgendwelchen Gründen nicht bezahlt haben, so ändert sich die Zeilenfarbe auf Rot und jeder Mitarbeiter weiß Bescheid, dass dieser Kunde sich gerade im Mahnwesen befindet und bis auf Weiteres nicht mehr mit Produkten oder Dienstleistungen beliefert werden sollte.
 
-![](Customer-data.jpg)
 
-### **Mit nur einem Klick den Zahlungsstatus Ihren Kunden mitteilen**
 
-Damit Ihre Debitorenbuchhaltung auch Ihre Kunden über den Zahlungseingang oder einen Zahlungsverzug informieren können, stehen Ihnen in SeaTable die beiden Schaltflächen „Receipt of Payment“ und „Dunning Info“ zur Verfügung. Mit nur einem Klick auf die jeweilige Schaltfläche wird automatisch eine E-Mail an die Kontakt-E-Mail-Adresse unter der Spalte „Email adress“ verschickt. In dieser werden auch Infos, wie beispielsweise die Rechnungsnummer oder der Betrag automatisch ergänzt. Die Nachricht an Ihre Kunden über die jeweiligen Zahlungsstände können Sie natürlich bequem nach Ihrem Belieben anpassen.
-
-![Debitorenbuchhaltung - Kundeninformationen](Email.png)
-
-Zahlungsinformationen an Ihre Kunden direkt aus SeaTable heraus verschicken
-
-### **Immer alle Zahlen im Blick**
-
-Damit Sie auch permanent die wichtigsten Zahlen im Blick haben, wurde das Template mit drei weiteren relevanten [Statistiken]({{< relref "help/base-editor/statistiken" >}}) ergänzt. Unter „Turnover of all product“ finden Sie nun den gesamten Umsatz wieder, den Sie durch Dienstleistungen oder Waren in Ihrem Unternehmen erwirtschaftet haben. Unter „Invoice status in percentage“ können Sie genau einsehen, wie viele Rechnungen insgesamt erfasst wurden und wie sich diese in Prozent nach den drei verschiedenen Zahlungsständen „Paid“, „Pending“ und „Dunning“ aufteilen. Damit Sie auch immer genau wissen, was dies in genauen Umsätzen bedeutet, wurde ebenfalls die Statistik „Payment Status (Turnover)“ integriert. Dies spiegelt genau die Umsätze der verschiedenen Zahlungsstände Ihrer Kunden wider.
-
-## Mit SeaTable können Sie und Ihre Debitorenbuchhaltung ruhig schlafen
-
-Es muss also nicht immer bei einer teuren Buchhaltungssoftware wie beispielsweise [Lexware](https://shop.lexware.de/), [Lexoffice](https://testen.lexoffice.de/online/), [sevDesk](https://sevdesk.de/), [orgaMax](https://www.deltra.com/) oder [Billie](https://www.billie.io/) enden, die Ihr Unternehmen eventuell sogar in enorme Unkosten stürzen kann. Das Geld können Sie sich definitiv sparen.
-
-SeaTable schafft es durch seine enorme Flexibilität auch Ihre Debitorenbuchhaltung perfekt arbeiten zu lassen. Den klaren Vorteil, den SeaTable mit sich bringt, ist die Vielfältigkeit, in welcher Form das Produkt selbst eingesetzt werden kann. Neben der Debitorenbuchhaltung können auch weitere wichtige Anwendungsfälle in Ihrem Unternehmen abgedeckt werden. Mehr hierzu finden Sie in unserem [Blog]({{< relref "posts" >}}) oder unter direkt in unseren [Templates]({{< relref "templates" >}}). Überzeugen Sie sich nun selbst von dem mächtigsten und innovativsten Spreadsheet und starten Sie noch heute mit Ihrer Debitorenbuchhaltung so richtig durch.
-
-[Zum Template „CRM-Debitorenbuchhaltung“]({{< relref "templates/sales/crm-accounts-receivable" >}})  
-[Jetzt SeaTable kostenlos in der Cloud ausprobieren]({{< relref "pages/registration" >}})  
-[Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben]({{< relref "pages/product/seatable-server" >}})

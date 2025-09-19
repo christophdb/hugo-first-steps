@@ -1,118 +1,163 @@
 ---
-title: 'Une comptabilité clients optimale avec SeaTable - SeaTable'
-description: 'Centralisez vos factures, paiements et relances avec le modèle SeaTable. Optimisez votre gestion de la trésorerie, suivez les encaissements et réduisez le risque client grâce à un système digital performant.'
+title: 'Une comptabilité clients optimale avec SeaTable'
+description: "Garantir les liquidités, minimiser les risques, permettre la croissance - la comptabilité des débiteurs est bien plus qu'une simple affaire de chiffres. Si l'on ne maîtrise pas ses créances, on perd rapidement la vue d'ensemble du cash-flow et des relations avec les clients."
 date: 2021-08-26
-lastmod: '2023-07-11'
+lastmod: '2025-09-18'
 author: 'pbr'
-url: '/fr/comptabilite-clients'
-aliases:
-    - /fr/debitorenbuchhaltung
+url: '/fr/comptabilité-des-débiteurs'
 color: '#7cbaef'
 seo:
     title: 'Gestion des comptes clients : modèle tout-en-un'
-    description: 'Automatisez la gestion des comptes clients : factures, relances et cash-flow.'
+    description: 'Automatisez la gestion des comptes clients : factures, relances et cash-flow'
 ---
 
-Il faut vérifier les paiements entrants, rappeler les paiements aux clients et, parfois, il y a même la partie que toute entreprise veut éviter : le processus de relance. Cela peut devenir un véritable défi pour de nombreuses entreprises. Vous vous perdez rapidement dans votre propre chaos et personne dans votre entreprise ne sait toujours quand et si une facture a même été payée. Au final, c'est la liquidité de votre propre entreprise qui en pâtit. Cependant, il ne faut pas que cela aille aussi loin !
+Vous gardez un œil sur les paiements entrants, vous rappelez aux clients les factures impayées et, si nécessaire, vous envoyez des rappels. Sans la bonne structure, cela peut vite devenir confus - et il n'est pas toujours possible de savoir immédiatement quelles factures ont déjà été réglées. Il est donc d'autant plus important de garder une vue d'ensemble afin de garantir les liquidités de votre entreprise.
 
-Avec [SeaTable]({{< relref "pages/registration" >}}), vous avez enfin toutes les factures ou créances dues par vos clients en un coup d'œil et vous connaissez exactement le statut de chacune d'entre elles. SeaTable permet à votre service des comptes débiteurs de gérer les créances de manière optimale et efficace. En outre, les informations peuvent être facilement échangées entre les différents départements de votre entreprise. Ainsi, tout le monde peut travailler avec des informations identiques et correctes et vous, en tant qu'entrepreneur, pouvez à nouveau dormir plus tranquillement.
+Avec une comptabilité clients clairement structurée, vous savez toujours quels paiements ont été reçus et lesquels sont encore ouverts. Elle vous permet non seulement une gestion efficace des créances, mais aussi un échange d'informations fluide entre les services. Ainsi, tout le monde dans l'entreprise travaille avec les mêmes données actualisées et vous gardez toujours le contrôle total.
 
-[Cliquez ici pour accéder directement à notre modèle "CRM-Comptabilité clients".]({{< relref "templates/sales/crm-accounts-receivable" >}})
+![Comptabilité des débiteurs](Buchhaltung.jpg)
 
-## Qu'est-ce que la comptabilité des comptes clients ?
+## Qu'est-ce que la comptabilité clients ?
 
-La comptabilité des comptes clients fait partie de la comptabilité financière. Dans la comptabilité des débiteurs, toutes les transactions commerciales concernant les propres clients de l'entreprise sont enregistrées. En principe, toutes les créances sur les clients sont enregistrées et gérées ici. Ils résultent normalement de la vente de biens et de services par l'entreprise elle-même. Les débiteurs sont donc toujours des débiteurs qui doivent régler des créances résultant de livraisons et de prestations. En d'autres termes, les débiteurs indiquent combien d'argent vos clients vous doivent encore et veillent à ce que ces dettes soient payées. Au final, le débiteur individuel devrait pouvoir enregistrer un encaissement positif.
+La comptabilité clients est un élément central de la **comptabilité financière** et s'occupe de toutes les opérations commerciales qui concernent les clients de votre entreprise. Elle se concentre sur les créances résultant de la vente de marchandises ou de services. Dès que votre entreprise fournit une prestation ou vend un produit, une créance est créée vis-à-vis du client - ce qu'on appelle le débiteur.
 
-## Que fait réellement la comptabilité des comptes clients ?
+La tâche de la comptabilité clients est d'enregistrer, de surveiller et de gérer soigneusement ces créances. Cela implique non seulement la comptabilisation correcte des factures ouvertes, mais aussi le suivi des paiements reçus. Si un client est en retard, la comptabilité clients se charge en outre des rappels et veille à ce que les montants dus soient réclamés.
 
-La comptabilité clients comporte quatre domaines d'activité importants. Ils traitent en détail de la comptabilisation des créances et des notes de crédit résultant de livraisons et de services, du suivi des différents paiements entrants, de la relance et du recouvrement, ainsi que de la solvabilité réelle de chaque client de votre entreprise. On parle aussi souvent de "debtor scoring". La comptabilité clients garantit que tout, de la facturation à la réception du paiement, est suivi ou documenté et déclenche le processus de relance ou de recouvrement en cas de non-paiement.
+## Qu'est-ce qui fait partie de la comptabilité clients ?
 
-### **Gestion des créances**
+La comptabilité clients a quatre domaines d'activité importants. Elle s'occupe de la comptabilisation des créances et des avoirs résultant de livraisons et de prestations, de la surveillance des différents encaissements, des rappels et du recouvrement et de la solvabilité de chaque client de votre entreprise. On parle aussi volontiers de scoring des débiteurs. La comptabilité clients veille donc à ce que tout soit suivi et documenté, depuis la **facturation** proprement dite jusqu'à la **réception du paiement**. En cas de non-paiement, elle déclenche le processus de relance et de recouvrement.
 
-Si un client achète un produit de votre entreprise, il reçoit une facture. Ce document est envoyé au client par le service des comptes clients. Le client a maintenant la possibilité de payer le montant de la facture à votre entreprise dans un certain délai de paiement prédéfini, par exemple par prélèvement automatique ou par virement bancaire. La facture adressée au client est aussi souvent appelée créance (gestion des créances). Les créances ouvertes sont vérifiées quotidiennement. Cela sert également de travail préparatoire pour le processus de relance.
+![Le client devient un débiteur](kunden.jpg)
 
-### **Dunning**
+### Gestion des créances
 
-Dans le processus de relance, on distingue la relance extrajudiciaire et la relance judiciaire. Dans le cadre de la procédure de relance extrajudiciaire, vous essayez d'abord de recouvrer vous-même le montant de la facture que vous doit encore le débiteur (client). Cela se fait généralement avec des niveaux de relance. À chaque niveau de relance, le client reçoit un nouveau rappel pour régler l'impayé. Chaque entreprise décide elle-même du nombre de niveaux de relance jusqu'à la procédure de relance judiciaire.
+Si un client achète un produit dans votre entreprise, il reçoit ensuite une facture. Celle-ci est envoyée au client par la comptabilité clients. Le client a alors la possibilité de payer le montant de la facture à votre entreprise dans un délai de paiement prédéfini, par exemple par prélèvement automatique ou par virement bancaire. La facture adressée au client est également volontiers appelée créance (gestion des créances). Les créances ouvertes sont contrôlées quotidiennement. Cela sert en outre de travail préparatoire pour les rappels.
 
-Dans le meilleur des cas, le client reçoit un rappel de paiement amical avant que le processus de relance extraordinaire ne commence. Il s'agit notamment de ne pas affaiblir la relation d'affaires existante et de régler le conflit sur un plan aussi "personnel" que possible.
 
-Dans le cas du processus de relance judiciaire, le processus de relance extraordinaire n'a donc malheureusement pas fonctionné et le paiement en souffrance n'a toujours pas été réglé par le débiteur (client). Dans ce cas, un rappel judiciaire est envisagé. Ce sont des avocats ou des agences de recouvrement qui s'en chargent, mais cela peut aussi être fait par votre propre service des comptes clients si vous avez les connaissances nécessaires. Il est important de se familiariser avec les procédures des tribunaux et des huissiers.
+### Gestion des rappels
 
-### **Cotation du débiteur**
+Dans le domaine des rappels, on distingue les rappels extrajudiciaires et les rappels judiciaires. Dans la **procédure de relance extrajudiciaire**, on essaie tout d'abord de récupérer en interne le montant de la facture que le débiteur (client) nous doit encore. Cela se fait généralement à l'aide de "niveaux de rappel". Chaque niveau de rappel rappelle au client de payer ce qu'il doit encore. Chaque entreprise décide du nombre de niveaux de rappel jusqu'à la relance judiciaire.
 
-Cependant, le scoring dit du débiteur est également particulièrement important dans l'entreprise. Cela devrait fournir des informations importantes sur la volonté réelle de payer de vos clients. Des déclarations explicites peuvent être faites sur l'historique de paiement de chaque client, par exemple sur la fiabilité des paiements ou les défauts de paiement individuels. De cette façon, les insolvabilités des clients peuvent être reconnues à un stade précoce et le préjudice financier réel peut être réduit au minimum. Dans ce cas, le client est simplement bloqué et ne reçoit plus de produits ou de services jusqu'à nouvel ordre.
+Dans le meilleur des cas, le client reçoit d'abord un rappel amical avant que la procédure de rappel extraordinaire ne soit lancée. L'objectif est de ne pas affaiblir la relation commerciale existante et de régler le conflit à un "niveau personnel".
 
-### **Gestion de l'information**
+Dans le cas de la ** relance judiciaire**, la relance extraordinaire n'a malheureusement pas fonctionné et le paiement en souffrance n'a toujours pas été réglé par le débiteur (client). Dans ce cas, une mise en demeure judiciaire est envisagée. Celle-ci est effectuée par des avocats ou des sociétés de recouvrement, mais peut également être effectuée par votre propre comptabilité clients si vous disposez des connaissances nécessaires. Il est important à cet égard de connaître les procédures des tribunaux ou des huissiers de justice.
 
-En plus de tous les points déjà mentionnés, il est également particulièrement important de transmettre des informations sur les paiements en souffrance. À partir de ces informations, des décisions peuvent être prises en un rien de temps concernant les éventuels investissements à venir et vos propres liquidités. Si de plus en plus de paiements ne sont pas effectués, votre entreprise risque de ne pas être en mesure de lancer de nouveaux investissements. Si, au contraire, la majorité de vos créances ont été payées, votre entreprise est liquide et rien ne s'oppose à de nouveaux investissements. La liquidité d'une entreprise dépend donc toujours des créances en cours ou réglées.
 
-## Quel est le risque lié au débiteur et comment le contrer ?
+### Scoring des débiteurs
 
-Tous les clients ne paient pas toujours à temps ou certains clients ne paient délibérément pas leurs factures. Toutefois, votre service des comptes clients doit être en mesure de gérer au mieux ce "risque débiteur" et d'évaluer le plus précisément possible les possibilités de paiement, qui se différencient par le retard de paiement, l'incapacité de payer et le refus de payer.
+Mais le scoring des débiteurs est aussi particulièrement important dans l'entreprise. Celui-ci doit fournir des informations pertinentes sur la propension à payer de vos clients. Les historiques de paiement de chaque client permettent de tirer des conclusions explicites, par exemple sur la fiabilité des paiements ou sur les différents défauts de paiement. Cela permet de détecter rapidement les cas d'insolvabilité des clients et de réduire au minimum les dommages financiers qui en résultent. Dans ce cas, le client est simplement bloqué et ne reçoit plus de produits ou de services jusqu'à nouvel ordre.
 
-En cas de retard de paiement, le client (débiteur) ne paie pas sa facture dans le délai de paiement déjà convenu. Dans le cas de l'insolvabilité, on parle déjà d'insolvabilité. Dans ce cas, le client ne peut plus faire face à ses obligations de paiement. Dans le cas du refus de paiement, en revanche, le client refuse de payer et agit intentionnellement. Cela ne peut être contrecarré que par une notation appropriée.
 
-Le scoring est un examen détaillé du client. Les paiements passés sont répertoriés en détail dans le compte débiteur réel de chaque client individuel et sont inclus dans la notation de crédit. S'il y a des problèmes avec des paiements qui doivent être réglés dans le passé, le score du client sera abaissé. Cela peut également conduire au blocage ou à la non-livraison effective du débiteur. Il est possible d'y remédier en effectuant un paiement anticipé, par exemple. Si, en revanche, le client a toujours payé toutes ses factures dans les délais, il devrait avoir le meilleur score possible dans votre comptabilité clients.
+### Gestion de l'information
 
-## Comment gérer efficacement vos comptes débiteurs dans SeaTable
+En plus de tous les points déjà mentionnés, la transmission d'informations sur les paiements en souffrance est particulièrement importante. Cela permet de prendre rapidement des décisions sur d'éventuels investissements à venir et sur ses propres liquidités. Si les impayés se multiplient, il se peut qu'aucun nouvel investissement ne puisse être lancé dans votre entreprise. En revanche, si la majeure partie de vos créances est réglée, votre entreprise est liquide et plus rien ne s'oppose à de nouveaux investissements. La liquidité d'une entreprise dépend donc toujours des créances encore ouvertes ou réglées.
 
-Dans notre dernier article,["CRM : de l'entrée du client au devis]({{< relref "posts/crm-angebotsmanagement" >}})", nous vous avons montré comment vous pouvez créer votre propre système CRM dans SeaTable en un rien de temps. Dans cet article ou modèle, nous faisons suite à l'article mentionné ci-dessus et vous montrons comment cartographier efficacement vos comptes clients dans SeaTable. Jusqu'à présent, tout tournait autour de la base de clients, du portefeuille de produits et de la création de devis. Nous passons maintenant du devis à la facturation. Ainsi, en plus des feuilles de calcul "Données clients", "Équipe de vente", "Offres" et "Catalogue de produits", vous trouverez également la nouvelle feuille de calcul "Factures" dans le modèle actuel.
+{{< warning headline="Remarque" >}}
+Si vous souhaitez aller plus loin dans la [Planification financière]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Plan d'investissement]({{< relref "posts/investitionsplan" >}}) et le [Plan de trésorerie]({{< relref "posts/20250628_liquiditaetsplanung" >}}) sur le sujet. Vous y trouverez des conseils pratiques, des exemples et des modèles qui vous aideront à gérer encore plus efficacement les finances de votre entreprise.
+{{< /warning >}}
 
-### **De l'offre à la commande de la facture**
 
-La feuille de calcul "Offers" a été complétée par trois nouvelles [colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}): "Accounting Department", "Payment Status" et "Invoices". Si votre client a accepté votre offre et souhaite acheter la marchandise ou le service, vous avez maintenant la possibilité d'informer le service comptable de l'établissement d'une facture en cliquant sur le bouton "Please create Invoice". Toutes les données importantes relatives à l'offre acceptée sont directement transférées sous forme de nouvelle ligne dans la feuille de calcul "Invoices". Pour ce faire, un script est exécuté en arrière-plan qui, d'une part, écrit les données directement dans le tableau "Invoices" et, d'autre part, assure un lien avec les feuilles de calcul "Invoices", "Offers" et "Customer data".
+## Tâches de la comptabilité clients
 
-![Comptes débiteurs - Offre](Ansicht_Offers.png)
+Les tâches de la comptabilité clients vont bien au-delà de la simple comptabilisation des opérations commerciales. Elles englobent toutes les activités nécessaires pour que vous puissiez gérer de manière transparente les créances envers vos clients, garantir les entrées de paiement et éviter les défaillances. En font partie, entre autres
 
-Aperçu de la page d'offre dans SeaTable
+* établissement et envoi des **factures clients**.
+* Comptabilisation des créances résultant de **livraisons et prestations**.
+* Enregistrement des **entrées de paiement**.
+* Surveillance des **paiements échus** et des postes ouverts
+* Gestion active des **créances** afin d'obtenir les paiements
+* Organisation et exécution des **relances**.
+* Création et traitement des **avoirs**.
+* Réconciliation des **comptes débiteurs** pour garantir des écritures correctes
+**interlocuteur** des clients pour les questions relatives aux factures et aux paiements
+* Évaluation et contrôle du **risque débiteur** afin d'éviter les défauts de paiement
 
-Vous pouvez ensuite consulter l'état réel du paiement dans la [colonne]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) "État du paiement". Toutes les factures sont également liées à la feuille de calcul "Factures" et peuvent bien sûr être consultées dans la colonne "Factures". De cette manière, vous, en tant qu'entrepreneur, et votre équipe de vente, disposez toujours de toutes les informations importantes en un coup d'œil et, si nécessaire, vous pouvez également assurer un suivi personnel auprès du client si un paiement ne doit pas être effectué à temps.
+{{< warning headline="Compte à recevoir" text="Un compte client est un compte spécial dans la comptabilité financière, sur lequel sont enregistrées toutes les transactions commerciales avec un seul client. Un compte spécifique est tenu pour chaque client - c'est-à-dire pour chaque client qui reçoit une facture. Les factures sortantes, les paiements entrants, les avoirs et éventuellement les rappels y sont enregistrés." />}}
 
-### **Création de factures en quelques secondes**
+## Qu'est-ce que le risque d'impayés ?
 
-Comme nous l'avons déjà mentionné, toutes les informations importantes concernant l'offre acceptée par le client sont transférées directement dans la feuille de calcul "Factures". Ainsi, toutes les données telles que le numéro de l'offre, le nom du client, le numéro de client, la personne de contact, la rue et le numéro de maison, le code postal, la ville, le pays et toutes les informations sur les produits avec le nom du produit, le prix unitaire, la quantité et le montant total sont automatiquement transférées. Il ne reste plus à votre service comptable qu'à appuyer sur le bouton "Créer une facture" dans la colonne "Facture".
+Tous les clients ne paient pas toujours à temps et certains clients ne paient même pas leurs factures en connaissance de cause. Or, votre comptabilité clients doit pouvoir gérer au mieux ce que l'on appelle le risque client et évaluer le plus précisément possible les possibilités de paiement, qui se distinguent par les retards de paiement, l'incapacité de paiement et la réticence à payer.
 
-![Comptes clients - Factures](Ansicht_Invoices.png)
+![Le risque d'impayés](risiko.jpg)
 
-Toutes les demandes en un coup d'œil
+En cas de retard de paiement, le client (débiteur) ne paie pas sa facture à la date de paiement déjà convenue. En cas d'incapacité de paiement, nous parlons déjà d'insolvabilité. Dans ce cas, votre client ne peut plus s'acquitter de ses obligations de paiement. En revanche, dans le cas de la réticence à payer, votre client refuse de payer et agit intentionnellement. Vous ne pouvez y remédier que par un scoring en bonne et due forme.
 
-Le plug-in "Conception de la page" s'ouvre automatiquement et remplit toutes les informations importantes. Vous pouvez ensuite facilement enregistrer la facture sous forme de fichier PDF et la stocker dans la colonne "Fichiers" ou l'imprimer et l'envoyer à votre client par courrier électronique ou par lettre. Bien entendu, vous pouvez adapter ou compléter le modèle de page prédéfini selon vos souhaits en quelques minutes seulement.
+Lors du scoring, vous examinez votre client de près. Les paiements passés sont répertoriés dans le compte client proprement dit de chaque client et sont pris en compte dans la solvabilité. Les retards de paiement dans le passé font que votre client est moins bien noté dans le scoring. Cela peut également aller jusqu'au blocage ou à l'impossibilité de livrer le client. Le paiement anticipé, par exemple, peut y remédier. En revanche, si votre client a toujours payé toutes ses factures dans les délais, il devrait avoir le meilleur scoring possible dans votre comptabilité clients.
 
-![Comptes débiteurs - Facture](PageDesign_Invoice.png)
+## Qu'est-ce que la comptabilité fournisseurs ?
 
-Votre facture terminée dans le plug-in de conception de pages
+La comptabilité fournisseurs est un domaine de la comptabilité financière qui s'occupe des dettes d'une entreprise envers ses fournisseurs et prestataires de services - ce que l'on appelle les créanciers. Chaque fois qu'une entreprise achète des marchandises ou des services et reçoit une facture en contrepartie, il en résulte une dette qui est enregistrée et surveillée dans la comptabilité fournisseurs.
 
-### **Garder un œil sur l'état des paiements**
+![Des relations stables avec les fournisseurs](lieferanten.jpg)
 
-Pour que toutes les personnes concernées, en plus de la comptabilité clients proprement dite dans votre entreprise, sachent si un client paie ses factures ou non, vous disposez de la colonne "Payment Status". Si une offre est acceptée par le client et qu'une facture est générée, le statut de paiement est automatiquement modifié en "En attente". Dès qu'une entrée de paiement a lieu, votre comptabilité clients peut modifier la colonne Single Select "Payment Status" en "Paid" et saisir la date de l'entrée de paiement sous "Date of Payment". Grâce à la [fonction de regroupement]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) et aux différentes [vues]({{< relref "help/base-editor/ansichten" >}}) par "Payment Status", on obtient la meilleure vue possible de tous les états de paiement actuels. En outre, vous trouverez désormais dans le plug-in Kanban le "Invoice Status", afin de ne perdre de vue aucun statut de paiement.
+Parmi les tâches centrales figurent la saisie et la vérification des factures entrantes, la comptabilisation de ces dettes en fonction des comptes et la surveillance des délais de paiement. L'objectif est de régler les factures dans les délais, de bénéficier d'escomptes ou de rabais tout en gardant une vue d'ensemble sur toutes les obligations de paiement en cours. La comptabilité fournisseurs contribue donc de manière décisive à garantir l'ordre financier dans l'entreprise et à assurer des relations stables avec les fournisseurs.
 
-![Comptes débiteurs - Paiements](Ansicht_Invoices_Status.png)
+## Qu'est-ce qui fait partie de la comptabilité fournisseurs ?
 
-Les différents statuts de paiement
+La comptabilité fournisseurs comprend toutes les activités relatives à la saisie, à la gestion et au traitement des dettes envers les fournisseurs et les prestataires de services. Dans le détail, elle comprend
 
-L'autre avantage de l'état des paiements est que chaque état affecte également la fiche de votre client actuel dans la feuille de calcul "Données client". Cela signifie que si un client paie toutes ses factures ou est "en attente", la ligne en question est marquée en vert. Si le client n'a pas payé sa facture pour quelque raison que ce soit, la couleur de la ligne passe au rouge et chaque employé sait que ce client est en cours de relance et qu'il ne doit pas recevoir de produits ou de services jusqu'à nouvel ordre.
+* saisie et contrôle des **factures entrantes**.
+* imputation et **comptabilisation des factures** sur les comptes correspondants
+* Surveillance des **délais de paiement** et règlement des factures ouvertes dans les délais.
+* Utilisation des **escomptes et des rabais** pour économiser des coûts
+* gestion des **avoirs** et autres corrections
+* Rapprochement et gestion des **comptes créditeurs**.
+**communication** avec les fournisseurs en cas de questions sur les factures ou les paiements
+* préparation des **cycles de paiement** (par ex. virements, prélèvements)
+**vérification et évaluation** des dettes afin de présenter la situation financière de manière transparente
 
-![](Customer-data.jpg)
+## Comptabilité des débiteurs vs. comptabilité des créanciers
 
-### **Communiquez le statut du paiement à vos clients en un seul clic.**
+Alors que la comptabilité fournisseurs enregistre les dettes envers les fournisseurs, la comptabilité clients surveille les créances envers les clients. La comparaison suivante montre leurs tâches, leurs différences et leurs effets sur le flux de paiement :
 
-Pour que votre service de comptabilité clients puisse également informer vos clients de la réception d'un paiement ou d'un retard de paiement, les deux boutons "Réception du paiement" et "Info relance" sont disponibles dans SeaTable. En un seul clic sur le bouton correspondant, un courriel est automatiquement envoyé à l'adresse électronique de contact figurant dans la colonne "Adresse électronique". Dans cet e-mail, des informations telles que le numéro de la facture ou le montant sont automatiquement ajoutées. Bien entendu, vous pouvez facilement personnaliser le message adressé à vos clients sur les statuts de paiement respectifs comme vous le souhaitez.
+| | **Comptabilité des créanciers** | **Comptabilité des débiteurs** |
+| ------------------- | --------------------- | --------------------- |
+| **Définition** | Saisit toutes les opérations avec les fournisseurs (dettes) | Saisit toutes les opérations avec les clients (créances) |
+| **Participants** | Fournisseurs / Créanciers | Clients / Débiteurs |
+| **But** | Contrôle et gestion des dettes envers les fournisseurs | Contrôle et gestion des créances envers les clients |
+| **Tâche principale** | - Contrôler les factures, préparer les paiements, gérer les escomptes et les rappels | Établir les factures, surveiller les encaissements, effectuer les rappels |
+| **Incidence sur le bilan** | Augmentation des dettes | Augmentation des créances |
+| **Flux de paiement** | Dépenses → L'argent quitte l'entreprise | Recettes → L'argent entre dans l'entreprise |
 
-![Comptes clients - Informations sur les clients](Email.png)
 
-Envoyez les informations de paiement à vos clients directement depuis SeaTable
+## Avantages de la comptabilité clients et de la comptabilité fournisseurs
 
-### **Toujours tous les chiffres en vue**
+La comptabilité clients et fournisseurs présente de nombreux avantages pour les entreprises, tant en termes de stabilité financière que d'organisation interne. L'un des principaux avantages est l'amélioration de la sécurité de la planification financière. Grâce à la saisie systématique des créances et des dettes ainsi qu'au calcul des risques de défaillance, les entreprises peuvent mieux planifier leurs liquidités et éviter les goulots d'étranglement imprévus. Parallèlement, les pertes dues aux défauts de paiement peuvent être considérablement réduites, car les postes ouverts sont activement surveillés et, si nécessaire, des rappels ou des mesures de recouvrement sont lancés.
 
-Pour que vous ayez toujours sous les yeux les chiffres les plus importants, le modèle a été complété par trois autres [statistiques]({{< relref "help/base-editor/statistiken" >}}) pertinentes. Sous "Chiffre d'affaires de tous les produits", vous trouverez maintenant le chiffre d'affaires total que vous avez généré par des services ou des biens dans votre entreprise. Sous "Statut de la facture en pourcentage", vous pouvez voir exactement combien de factures ont été enregistrées au total et comment elles sont réparties en pourcentage selon les trois différents statuts de paiement "Payé", "En attente" et "Relance". Pour que vous sachiez toujours exactement ce que cela signifie en termes de chiffre d'affaires, la statistique "État des paiements (chiffre d'affaires)" a également été intégrée. Cela reflète fidèlement le chiffre d'affaires des différents statuts de paiement de vos clients.
+![Les avantages de la comptabilité clients](vorteile_debitorenbuchhaltung.jpg)
 
-## Avec SeaTable, vous et votre département des comptes clients pouvez dormir sur vos deux oreilles.
+La comptabilité donne également une vue d'ensemble claire de tous les clients et fournisseurs, ce qui permet d'organiser les processus de manière plus efficace. Par exemple, les factures et les paiements sont clairement reliés entre eux, ce qui simplifie les processus et réduit les incohérences. En outre, la comptabilité clients et fournisseurs facilite la collecte d'informations et la planification des relations commerciales. Les entreprises peuvent prendre des décisions ciblées sur la base des données comptables, par exemple sur les limites de crédit, les conditions de paiement ou les investissements futurs chez certains clients ou fournisseurs.
 
-Il n'est donc pas toujours nécessaire d'opter pour des logiciels de comptabilité onéreux tels que [Lexware](https://shop.lexware.de/), [Lexoffice](https://testen.lexoffice.de/online/), [sevDesk](https://sevdesk.de/), [orgaMax](https://www.deltra.com/) ou [Billie](https://www.billie.io/), par exemple, qui peuvent même plonger votre entreprise dans des frais généraux énormes. Vous pouvez certainement économiser de l'argent.
+## Pour organiser efficacement votre comptabilité clients dans SeaTable
 
-Grâce à son énorme flexibilité, SeaTable peut également faire fonctionner parfaitement votre département des comptes clients. L'avantage évident que présente SeaTable est la diversité des utilisations possibles du produit lui-même. Outre les comptes clients, d'autres cas d'utilisation importants dans votre entreprise peuvent également être couverts. Vous pouvez en savoir plus à ce sujet sur notre [blog]({{< relref "posts" >}}) ou directement dans nos [modèles]({{< relref "templates" >}}). Convainquez-vous de la feuille de calcul la plus puissante et la plus innovante et lancez-vous dès aujourd'hui dans la comptabilité des comptes clients.
+La comptabilité clients constitue l'épine dorsale d'une comptabilité financière efficace dans toute entreprise. Le logiciel SeaTable**, conforme au **RGPD, vous permet de représenter numériquement ce domaine, de gérer toutes les informations pertinentes de manière centralisée et de simplifier ainsi considérablement l'ensemble du processus, de l'établissement du devis à la réception du paiement. Le logiciel gratuit [Modèle]({{< relref "templates/sales/crm-accounts-receivable" >}}) vous propose, outre des feuilles de calcul pour les clients, les produits et les offres, une feuille de calcul spéciale dans laquelle toutes les données importantes sont clairement regroupées.
 
-[Vers le modèle "CRM Comptes clients".]({{< relref "templates/sales/crm-accounts-receivable" >}})  
-[Essayez SeaTable dans le nuage gratuitement maintenant](/fr/enregistrement/)  
-[Ou vous préférez utiliser SeaTable Enterprise dans votre propre centre de données.]({{< relref "pages/product/seatable-server" >}})
+{{< template-box id="9abcb338414a450b8f66" submit="Modèle de test" text="Faites défiler notre modèle interactif et découvrez les premières fonctionnalités." >}}
+
+Dès qu'une offre est acceptée par le client, les informations correspondantes sont automatiquement transférées sur la feuille de facture. Les factures peuvent ainsi être créées en quelques clics et envoyées directement aux clients. Le statut de paiement de chaque facture peut être consulté à tout moment, ce qui permet au service comptable et au service commercial de garder une vue d'ensemble. De plus, les entrées de paiement et les rappels peuvent être documentés directement dans le système, ce qui accélère les processus et réduit les erreurs. SeaTable vous permet donc de gérer la comptabilité clients de manière transparente et en gagnant du temps, sans avoir besoin de logiciels supplémentaires coûteux.[S'inscrire]({{< relref "pages/registration" >}}) Inscrivez-vous gratuitement dès aujourd'hui et testez le modèle.
+
+## FAQs
+
+{{< faq "Que sont les débiteurs et les créanciers ?" >}}
+
+Les débiteurs sont les clients d'une entreprise qui ont des factures impayées à régler, c'est-à-dire des créances. Les créanciers, en revanche, sont les fournisseurs ou les partenaires commerciaux auxquels l'entreprise doit de l'argent, c'est-à-dire qu'il existe des dettes. Ensemble, ils constituent la base du suivi des encaissements et des décaissements dans l'entreprise.
+
+{{< /faq >}}
+
+{{< faq "Quelle est la différence entre la comptabilité clients et la comptabilité fournisseurs ?" >}}
+
+La comptabilité clients enregistre et surveille toutes les créances envers les clients, c'est-à-dire les factures que l'entreprise a émises et dont le paiement n'a pas encore été effectué. La comptabilité fournisseurs, quant à elle, gère toutes les dettes envers les fournisseurs, c'est-à-dire les factures que l'entreprise doit payer. La comptabilité clients regarde donc l'argent qui rentre, la comptabilité fournisseurs l'argent qui sort.
+
+{{< /faq >}}
+
+{{< faq "Quel logiciel permet de mettre en œuvre la comptabilité des créanciers et des débiteurs ?" >}}
+
+SeaTable permet de mettre en œuvre la comptabilité clients et fournisseurs de manière efficace et flexible, sans aucune connaissance en programmation. SeaTable est une plateforme sans code conforme au RGPD, spécialement conçue pour la gestion et l'automatisation des processus commerciaux. Elle permet de créer des applications personnalisées pour la comptabilité, parfaitement adaptées aux besoins de votre entreprise.
+
+{{< /faq >}}
+
+{{< faq "Les débiteurs jouent-ils un rôle dans la comptabilité fournisseurs ?" >}}
+
+Non, les débiteurs ne jouent en principe aucun rôle dans la comptabilité fournisseurs. La comptabilité fournisseurs se concentre exclusivement sur les fournisseurs et les dettes - c'est-à-dire sur les personnes à qui l'entreprise doit de l'argent et sur la date d'échéance des paiements. Les débiteurs, en revanche, sont des clients qui doivent de l'argent à l'entreprise et sont enregistrés dans la comptabilité clients.
+
+{{< /faq >}}

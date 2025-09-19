@@ -1,118 +1,163 @@
 ---
-title: 'Contabilidad óptima de las cuentas por cobrar con SeaTable - SeaTable'
-description: 'La gestión de cuentas por cobrar digitalizada permite seguir facturas, pagos y morosidad paso a paso. Gestione alertas automatizadas y mantenga el flujo de caja transparente en su negocio.'
+title: 'Optimización de la contabilidad de deudores con SeaTable'
+description: 'Garantizar la liquidez, minimizar los riesgos, permitir el crecimiento: la contabilidad de las cuentas por cobrar es mucho más que hacer números. Si no tiene sus cuentas por cobrar bajo control, perderá rápidamente el control de su flujo de caja y sus relaciones con los clientes.'
 date: 2021-08-26
-lastmod: '2023-07-11'
+lastmod: '2025-09-18'
 author: 'pbr'
-url: '/es/contabilidad-deudores'
-aliases:
-    - /es/debitorenbuchhaltung
+url: '/es/Cuentas-por-cobrar'
 color: '#7cbaef'
 seo:
     title: 'Gestión de cuentas por cobrar: plantilla digital'
     description: 'Controle facturas, cobros y recordatorios con la plantilla SeaTable.'
 ---
 
-Hay que comprobar los pagos recibidos, recordar a los clientes los pagos y, a veces, incluso está la parte que toda empresa quiere evitar: el proceso de reclamación. Esto puede convertirse en un verdadero reto para muchas empresas. Rápidamente te pierdes en tu propio caos y nadie en tu empresa sabe aún cuándo y si una factura fue pagada. Al final, la liquidez de su propia empresa se resiente. Sin embargo, ¡no hay que dejar que llegue tan lejos!
+Controla los pagos recibidos, recuerda a los clientes las facturas pendientes y envía recordatorios si es necesario. Sin la estructura adecuada, todo esto puede resultar confuso y no siempre es fácil saber qué facturas se han pagado. Por eso es tan importante mantener una visión de conjunto que garantice la liquidez de la empresa.
 
-Con [SeaTable]({{< relref "pages/registration" >}}) tendrá por fin todas las facturas o cuentas por cobrar de sus clientes de un vistazo y sabrá exactamente el estado de cada una de ellas. SeaTable permite a su departamento de cuentas por cobrar gestionar las cuentas por cobrar de forma óptima y eficiente. Además, la información puede intercambiarse fácilmente entre los distintos departamentos de su empresa. Para que todos puedan trabajar con la misma y correcta información y usted como empresario pueda volver a dormir más tranquilo.
+Con una contabilidad de deudores claramente estructurada, siempre sabrá qué pagos se han recibido y cuáles están pendientes. No sólo le permite gestionar las cuentas por cobrar de forma eficiente, sino que también posibilita un intercambio fluido de información entre departamentos. Esto significa que todos los miembros de la empresa trabajan con los mismos datos actualizados y que usted mantiene siempre el control total.
 
-[Haga clic aquí para ir directamente a nuestra plantilla "CRM Cuentas por cobrar".]({{< relref "templates/sales/crm-accounts-receivable" >}})
+![Cuentas por cobrar](Buchhaltung.jpg)
 
-## ¿Qué es la contabilidad de cuentas por cobrar?
+## ¿Qué son las cuentas por cobrar?
 
-La contabilidad de las cuentas por cobrar forma parte de la contabilidad financiera. En la contabilidad de las cuentas por cobrar, se registran todas las transacciones comerciales relativas a los propios clientes de la empresa. En principio, aquí se registran y gestionan todos los créditos de los clientes. Normalmente son el resultado de la venta de bienes y servicios de la propia empresa. Por lo tanto, los deudores son siempre deudores que tienen que liquidar las cuentas por cobrar de las entregas y los servicios. En pocas palabras, los deudores muestran cuánto dinero le deben todavía sus clientes y se aseguran de que estas deudas se paguen. Al final, el deudor individual debería poder registrar un ingreso positivo.
+La contabilidad de deudores es un componente central de la **contabilidad financiera** y se ocupa de todas las transacciones comerciales relacionadas con los clientes de su empresa. Aquí nos centramos en las cuentas por cobrar derivadas de la venta de bienes o servicios. En el momento en que su empresa presta un servicio o vende un producto, surge una cuenta a cobrar del cliente, el denominado deudor.
 
-## ¿Qué hace realmente la contabilidad de cuentas por cobrar?
+La tarea de la contabilidad de las cuentas por cobrar consiste en registrar, controlar y gestionar cuidadosamente estas cuentas por cobrar. Esto incluye no sólo la contabilización adecuada de las facturas pendientes, sino también el seguimiento de los pagos recibidos. Si un cliente entra en mora, la contabilidad de deudores también se encarga del proceso de reclamación y garantiza el cobro de los importes pendientes.
 
-La contabilidad de las cuentas por cobrar tiene cuatro importantes campos de actividad. En ellas, se ocupan ampliamente de la contabilización de los créditos y las notas de crédito de las entregas y los servicios, del seguimiento de los cobros individuales, de la reclamación y el cobro y de la solvencia real de cada cliente de su empresa. Esto también se denomina a menudo scoring de deudores. La contabilidad de las cuentas por cobrar garantiza que todo, desde la facturación real hasta la recepción del pago, sea rastreado o documentado y desencadena el proceso de reclamación o cobro de la deuda en caso de impago.
+## ¿En qué consiste la contabilidad de deudores?
 
-### **Gestión de cuentas por cobrar**
+La contabilidad de deudores tiene cuatro áreas de actividad importantes. En ellas, se ocupa ampliamente de la contabilización de los créditos y abonos de entregas y servicios, el seguimiento de las entradas de pagos individuales, la reclamación y el cobro de deudas y la solvencia real de cada cliente de su empresa. Esto también suele denominarse scoring de deudores. Por tanto, la contabilidad de deudores garantiza el seguimiento y la documentación de todo, desde la **facturación** real hasta la **recepción del pago**. Si no se recibe el pago, se inicia el proceso de reclamación y cobro de la deuda.
 
-Si un cliente compra un producto de su empresa, recibirá una factura. El departamento de cuentas por cobrar se encarga de enviarla al cliente. El cliente tiene ahora la opción de pagar el importe de la factura a su empresa dentro de un determinado plazo de pago predefinido, por ejemplo, mediante domiciliación bancaria o transferencia. La factura al cliente también suele denominarse cuenta por cobrar (gestión de cuentas por cobrar). Los créditos pendientes se comprueban diariamente. Esto también sirve como trabajo preparatorio para el proceso de reclamación.
+![El cliente se convierte en deudor](kunden.jpg)
 
-### **Reclamaciones**
+### Gestión de cobros
 
-En el proceso de reclamación se distingue entre reclamación extrajudicial y judicial. En el procedimiento de reclamación extrajudicial, primero se intenta cobrar el importe de la factura que aún le debe el deudor (cliente). Esto se suele hacer con los llamados niveles de reclamación. Con cada nivel de reclamación, se recuerda de nuevo al cliente que debe liquidar el pago pendiente. Cada empresa decide por sí misma cuántos niveles de reclamación hay hasta el proceso de reclamación judicial.
+Si un cliente compra un producto de su empresa, recibirá una factura. La contabilidad de deudores se encarga de enviarla al cliente. El cliente tiene ahora la opción de pagar el importe de la factura a su empresa dentro de un plazo de pago predefinido, por ejemplo mediante domiciliación bancaria o transferencia bancaria. La factura al cliente también suele denominarse cuenta por cobrar (gestión de cuentas por cobrar). Los créditos pendientes se comprueban diariamente. Esto también sirve como trabajo preparatorio para el proceso de reclamación.
 
-En el mejor de los casos, el cliente recibe un recordatorio de pago amistoso antes de que se inicie el proceso de reclamación extraordinaria. El objetivo es, en particular, no debilitar la relación comercial existente y resolver el conflicto en un nivel lo más "personal" posible.
 
-Por lo tanto, en el caso del proceso de reclamación judicial, el proceso de reclamación extraordinaria no ha funcionado, lamentablemente, y el deudor (cliente) aún no ha liquidado el pago pendiente. En este caso, se considera un recordatorio judicial. Esto lo hacen los abogados o las agencias de cobro de deudas, pero también puede hacerlo su propio departamento de cuentas por cobrar si tiene los conocimientos necesarios. Es importante estar familiarizado con los procesos de los tribunales y los agentes judiciales.
+### Reclamación
 
-### **Puntuación del deudor**
+En el proceso de reclamación se distingue entre reclamación extrajudicial y judicial. En el **procedimiento de reclamación extrajudicial**, primero se intenta cobrar el importe de la factura que el deudor (cliente) aún le debe internamente. Esto se suele hacer con los llamados niveles de reclamación. Con cada nivel de reclamación, se recuerda de nuevo al cliente que debe liquidar el pago pendiente. Cada empresa decide por sí misma cuántos niveles de reclamación hay antes de iniciar un procedimiento de reclamación judicial.
 
-Sin embargo, el llamado scoring de deudores también es especialmente importante en la empresa. Esto debería proporcionar información importante sobre la disposición real de sus clientes a pagar. Se pueden hacer declaraciones explícitas sobre el historial de pagos de cada cliente individual, por ejemplo, sobre la fiabilidad de los pagos o los impagos individuales. De este modo, las insolvencias de los clientes pueden reconocerse en una fase temprana y el daño financiero real puede reducirse al mínimo. En este caso, el cliente queda simplemente bloqueado y no se le suministran más productos o servicios hasta nuevo aviso.
+En el mejor de los casos, el cliente también recibirá un recordatorio de pago amistoso antes de que se inicie el proceso de reclamación extraordinaria. El objetivo es, en particular, no debilitar la relación comercial existente y resolver el conflicto a un nivel lo más "personal" posible.
 
-### **Gestión de la información**
+En el caso del **procedimiento de reclamación judicial**, el procedimiento de reclamación extraordinaria lamentablemente no ha funcionado y el deudor (cliente) aún no ha liquidado el pago pendiente. En este caso, se plantea un recordatorio judicial. De ello se encargan abogados o agencias de cobro de deudas, pero también puede hacerlo su propio departamento de cuentas por cobrar si dispone de los conocimientos necesarios. Es importante que esté familiarizado con los procesos de los tribunales y los agentes judiciales.
 
-Además de todos los puntos ya mencionados, también es especialmente importante transmitir la información sobre los pagos pendientes. A partir de esta información, se pueden tomar decisiones en un abrir y cerrar de ojos sobre posibles inversiones futuras y sobre la propia liquidez. Si se incumplen cada vez más pagos, es posible que su empresa no pueda iniciar nuevas inversiones. Si, por el contrario, se ha pagado la mayor parte de las cuentas por cobrar, la empresa tiene liquidez y nada se interpone en el camino de nuevas inversiones. Por lo tanto, la liquidez de una empresa siempre depende de los créditos pendientes o liquidados.
 
-## ¿Cuál es el riesgo del deudor y cómo se puede contrarrestar?
+### Puntuación del deudor
 
-No todos los clientes pagan siempre a tiempo o algunos clientes no pagan deliberadamente sus facturas. Sin embargo, su departamento de cuentas por cobrar debe ser capaz de manejar este llamado riesgo de deudor de la mejor manera posible y evaluar las opciones de pago, que difieren en la morosidad, la incapacidad de pago y la falta de voluntad de pago, con la mayor precisión posible.
+Sin embargo, el scoring de deudores también es especialmente importante en la empresa. Debe proporcionar información relevante sobre la voluntad real de pago de sus clientes. Se pueden hacer afirmaciones explícitas sobre el historial de pago de cada cliente individual, por ejemplo, sobre la fiabilidad de pago o los impagos individuales. Esto permite reconocer las insolvencias de los clientes en una fase temprana y minimizar las pérdidas financieras reales. En este caso, simplemente se bloquea al cliente y se le deja de suministrar productos o servicios hasta nuevo aviso.
 
-En el caso de la morosidad, el cliente (deudor) no paga su factura en el plazo de pago ya acordado. En el caso de la insolvencia, ya estamos hablando de insolvencia. En este caso, el cliente ya no puede cumplir sus obligaciones de pago. En cambio, en el caso de la falta de voluntad de pago, el cliente se niega a pagar y actúa intencionadamente. Esto sólo se puede contrarrestar con una puntuación adecuada.
 
-La puntuación es un examen detallado del cliente. Los pagos anteriores se detallan en la cuenta de deudor real de cada cliente individual y se incluyen en la calificación crediticia. Si hay problemas con los pagos que hay que liquidar en el pasado, la puntuación del cliente bajará. Esto también puede llevar al bloqueo o a la no entrega del deudor. Esto se puede remediar, por ejemplo, con el pago por adelantado. Si, por el contrario, el cliente siempre ha pagado todas sus facturas a tiempo, debería tener la mejor puntuación posible en su contabilidad de cuentas por cobrar.
+### Gestión de la información
 
-## Cómo gestionar eficazmente sus cuentas por cobrar en SeaTable
+Además de todos los puntos ya mencionados, también es especialmente importante transmitir información sobre los pagos pendientes. Esta información puede utilizarse para tomar decisiones sobre posibles inversiones futuras y sobre su propia liquidez en un abrir y cerrar de ojos. Si se cancela un número creciente de pagos, puede que no sea posible iniciar nuevas inversiones en su empresa. Si, por el contrario, se ha liquidado la mayor parte de los créditos, su empresa tendrá liquidez y nada se interpondrá en el camino de nuevas inversiones. Por lo tanto, la liquidez de una empresa depende siempre de los créditos pendientes o liquidados.
 
-En nuestro último artículo,["CRM: de la entrada de clientes a la cotización]({{< relref "posts/crm-angebotsmanagement" >}})", le mostramos cómo puede crear su propio sistema CRM en SeaTable en muy poco tiempo. En este artículo o plantilla, seguimos con el artículo que acabamos de mencionar y le mostramos cómo puede asignar eficazmente sus cuentas por cobrar en SeaTable. Hasta ahora, todo ha girado en torno a la base de clientes, la cartera de productos y la creación de presupuestos. Ahora pasamos del presupuesto a la facturación. Así, además de las hojas de cálculo "Datos del cliente", "Equipo de ventas", "Ofertas" y "Catálogo de productos", también encontrará la nueva hoja de cálculo "Facturas" en la plantilla actual.
+{{< warning headline="Sugerencia" >}}
+Si desea profundizar en el tema de la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}), también puede obtener más información sobre la [Plan de inversión]({{< relref "posts/investitionsplan" >}}) y el [Plan de liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) experiencia. Allí encontrará consejos prácticos, ejemplos y plantillas que le ayudarán a gestionar las finanzas de su empresa de forma aún más eficiente.
+{{< /warning >}}
 
-### **De la oferta a la orden de facturación**
 
-La hoja de cálculo "Ofertas" se ha ampliado con las tres nuevas [columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) "Departamento de contabilidad", "Estado de pago" y "Facturas". Si su cliente ha aceptado su oferta y desea adquirir los bienes o servicios, ahora tiene la opción de informar al departamento de contabilidad para que facture al cliente con un solo clic en el botón "Crear factura". Todos los datos importantes de la oferta aceptada se trasladan directamente como una nueva línea a la hoja de cálculo "Facturas". Para ello, se ejecuta un script en segundo plano que escribe los datos directamente en la tabla "Facturas" y garantiza un enlace con las hojas de tabla "Facturas", "Ofertas" y "Datos del cliente".
+## Tareas de contabilidad de deudores
 
-![Cuentas por cobrar - Oferta](Ansicht_Offers.png)
+Las tareas de la contabilidad de deudores van mucho más allá de la simple contabilización de transacciones comerciales. Incluyen todas las actividades necesarias para gestionar de forma transparente las cuentas a cobrar de sus clientes, asegurar los pagos entrantes y evitar los impagos. Esto incluye, entre otras cosas
 
-Resumen de la página de ofertas en SeaTable
+* Creación y envío de facturas emitidas.
+* Registro de las cuentas a cobrar por entregas y servicios.
+* Registro de los pagos recibidos
+* Seguimiento de los pagos pendientes y de las partidas pendientes.
+* Gestión activa de las cuentas por cobrar para cobrar los pagos.
+* Organización y aplicación de procedimientos de reclamación.
+* Creación y tratamiento de notas de crédito.
+* Conciliación de las cuentas por cobrar para garantizar la contabilización correcta.
+* Persona de contacto para clientes con preguntas sobre facturas y pagos
+* Evaluación y revisión del riesgo de las cuentas por cobrar para evitar impagos.
 
-A continuación, podrá ver cómodamente el estado real del pago en la [columna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) "Estado del pago". Todas las facturas también están vinculadas a la hoja de cálculo "Facturas" y, por supuesto, también pueden verse en la columna "Facturas". De este modo, usted, como empresario, y su equipo de ventas tienen siempre toda la información importante a la vista y, si es necesario, también pueden hacer un seguimiento personal del cliente si un pago no se realiza a tiempo.
+{{< warning headline="Debitorenkonto" text="Ein Debitorenkonto ist ein spezielles Konto in der Finanzbuchhaltung, auf dem alle Geschäftsvorgänge mit einem einzelnen Kunden erfasst werden. Für jeden Debitor – also jeden Kunden, der eine Rechnung erhält – wird ein eigenes Konto geführt. Dort werden die Ausgangsrechnungen, Zahlungseingänge, Gutschriften und eventuell auch Mahnungen gebucht." />}}
 
-### **Creación de facturas en pocos segundos**
+## ¿En qué consiste el riesgo de deudor?
 
-Como ya se ha mencionado, toda la información importante sobre la oferta aceptada por el cliente se transfiere directamente a la hoja de cálculo "Facturas". Así, todos los datos como el número de oferta, el nombre del cliente, el número de cliente, la persona de contacto, la calle y el número de casa, el código postal, la ciudad, el país y toda la información del producto con el nombre del producto, el precio unitario, la cantidad y el importe total se transfieren automáticamente. Lo único que tiene que hacer su departamento de contabilidad es pulsar el botón "Crear factura" en la columna "Factura".
+No todos los clientes pagan siempre a tiempo y algunos incluso no pagan deliberadamente sus facturas. Sin embargo, su departamento de cuentas por cobrar debe ser capaz de hacer frente a este llamado riesgo de deudor de la mejor manera posible y ser capaz de evaluar las opciones de pago, que difieren en términos de morosidad, incapacidad de pago y falta de voluntad de pago, con la mayor precisión posible.
 
-![Cuentas por cobrar - Facturas](Ansicht_Invoices.png)
+![El riesgo del deudor](risiko.jpg)
 
-Todas las exigencias de un vistazo
+En caso de morosidad, el cliente (deudor) no paga su factura en el plazo de pago acordado. En caso de insolvencia, ya estamos hablando de insolvencia. En este caso, su cliente ya no puede cumplir sus obligaciones de pago. En cambio, en el caso de la falta de voluntad de pago, su cliente se niega a pagar y actúa de forma deliberada. Esto sólo se puede contrarrestar con un scoring adecuado.
 
-El complemento "Diseño de página" se abre automáticamente y rellena toda la información importante. A continuación, puede guardar fácilmente la factura como archivo PDF y almacenarla en la columna "Archivos" o imprimirla y enviarla a su cliente por correo electrónico o carta. Por supuesto, puede adaptar o añadir a la plantilla de diseño de página predefinida según sus deseos en sólo unos minutos.
+El scoring consiste en examinar detenidamente al cliente. Los pagos anteriores figuran en la cuenta de deudor real de cada cliente y se incluyen en la calificación crediticia. Los retrasos en los pagos en el pasado hacen que su cliente reciba una calificación más baja en el scoring. Esto también puede provocar el bloqueo o la falta de entrega del deudor. El pago por adelantado, por ejemplo, puede remediar esta situación. Si, por el contrario, su cliente siempre ha pagado todas sus facturas a tiempo, debería tener la mejor puntuación posible en su cuenta de deudores.
 
-![Cuentas por cobrar - Factura](PageDesign_Invoice.png)
+## ¿Qué son las cuentas por pagar?
 
-Su factura terminada en el plugin de diseño de páginas
+Las cuentas por pagar son una subárea de la contabilidad financiera y se ocupan de las obligaciones de una empresa con sus proveedores y prestadores de servicios, los llamados acreedores. Cada vez que una empresa adquiere bienes o servicios y recibe una factura por ellos, se crea un pasivo que se registra y controla en las cuentas por pagar.
 
-### **Vigilar el estado de los pagos**
+![Relaciones estables con los proveedores](lieferanten.jpg)
 
-Para garantizar que todas las personas relevantes de su empresa, además del departamento de cuentas por cobrar propiamente dicho, sepan si un cliente paga o no sus facturas, dispone de la columna "Estado de pago". Si el cliente acepta una oferta y se genera una factura, el estado de pago cambia automáticamente a "Pendiente". En cuanto se produce un pago, su departamento de contabilidad puede cambiar la columna de selección única "Estado de pago" a "Pagado" e introducir la fecha del pago recibido en "Fecha de pago". Con la [función de agrupación]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) y las diferentes [vistas]({{< relref "help/base-editor/ansichten" >}}) por "Estado de pago" obtendrá la mejor vista posible de todos los estados de pago actuales. Además, ahora también encontrará el "Estado de la factura" en el complemento Kanban, para que realmente no pueda perder de vista ningún estado de pago.
+Las tareas centrales incluyen el registro y la comprobación de las facturas recibidas, la contabilización de estas obligaciones en las cuentas correctas y el seguimiento de los plazos de pago. El objetivo es liquidar las facturas a tiempo, utilizar descuentos o rebajas y, al mismo tiempo, mantener una visión general de todas las obligaciones de pago pendientes. Por lo tanto, la contabilidad de acreedores contribuye de forma decisiva a garantizar el orden financiero en la empresa y a asegurar unas relaciones estables con los proveedores.
 
-![Cuentas por cobrar - Pagos](Ansicht_Invoices_Status.png)
+## ¿En qué consiste la contabilidad de acreedores?
 
-Los diferentes estados de pago
+La contabilidad de acreedores abarca todas las actividades relacionadas con el registro, la administración y el procesamiento de las obligaciones con proveedores y prestadores de servicios. En concreto, incluye
 
-Lo mejor del estado de los pagos es que cada estado afecta también a su maestro de clientes real en la hoja de trabajo "Datos del cliente". Esto significa: Si un cliente paga todas sus facturas o está "Pendiente", la fila actual se marca en verde. Si el cliente no ha pagado su factura por cualquier motivo, el color de la línea cambia a rojo y todos los empleados saben que ese cliente está en proceso de reclamación y que no se le deben suministrar productos o servicios hasta nuevo aviso.
+* Registro y comprobación de **facturas recibidas**.
+* Imputación y contabilización de las facturas en las cuentas correspondientes.
+* Seguimiento de los plazos de pago y liquidación puntual de las facturas pendientes.
+* Utilización de descuentos y rebajas para ahorrar costes.
+* Gestión de notas de crédito y otras correcciones.
+* Conciliación y mantenimiento de las cuentas de proveedores.
+**Comunicación** con proveedores en relación con facturas o pagos
+* Preparación de los pagos (transferencias, domiciliaciones, etc.).
+* Comprobación y evaluación del pasivo para presentar la situación financiera de forma transparente
 
-![](Customer-data.jpg)
+## Contabilidad de deudores frente a contabilidad de acreedores
 
-### **Comunique el estado del pago a sus clientes con un solo clic**
+Mientras que la contabilidad de acreedores registra las deudas con los proveedores, la contabilidad de deudores controla las deudas con los clientes. La siguiente comparación muestra sus tareas, diferencias y efectos en el flujo de pagos:
 
-Para que su departamento de cuentas por cobrar también pueda informar a sus clientes sobre la recepción de un pago o un retraso en el mismo, en SeaTable están disponibles los dos botones "Recepción del pago" e "Información de la reclamación". Con un solo clic en el botón correspondiente, se envía automáticamente un correo electrónico a la dirección de correo electrónico de contacto de la columna "Dirección de correo electrónico". En este correo electrónico se añade automáticamente información como el número de factura o el importe. Por supuesto, puede personalizar fácilmente el mensaje a sus clientes sobre los respectivos estados de pago como desee.
+| **Cuentas a pagar** | **Cuentas a cobrar** |
+| ------------------- | --------------------- | --------------------- |
+| **Definición** | Reconoce todas las transacciones comerciales con los proveedores (cuentas a pagar) | Reconoce todas las transacciones comerciales con los clientes (cuentas a cobrar) | 
+| **Partícipes** | Proveedores / acreedores | Clientes / deudores.|
+| **Objetivo** | Control y gestión de las cuentas a pagar a los proveedores | Control y gestión de las cuentas a cobrar de los clientes | Control y gestión de las cuentas a cobrar de los clientes | Control y gestión de las cuentas a cobrar de los clientes
+| **Tarea principal** | - Comprobar facturas, preparar pagos, gestionar descuentos y recordatorios | Crear facturas, controlar los cobros, gestionar los procedimientos de reclamación | | Controlar los cobros de los clientes.
+| **Impacto en el balance** | Incremento del pasivo | Incremento de las cuentas a cobrar |
+| **Flujo de pagos** | Gastos → El dinero sale de la empresa | Ingresos → El dinero entra en la empresa |
 
-![Cuentas por cobrar - Información del cliente](Email.png)
 
-Envíe la información de pago a sus clientes directamente desde SeaTable
+## Ventajas de la contabilidad de deudores y acreedores
 
-### **Siempre todas las cifras a la vista**
+La contabilidad de deudores y acreedores ofrece a las empresas numerosas ventajas que mejoran tanto la estabilidad financiera como la organización interna. Una ventaja clave es la mejora de la seguridad de la planificación financiera. Al registrar sistemáticamente las cuentas por cobrar y por pagar y calcular los riesgos de impago, las empresas pueden planificar mejor su liquidez y evitar cuellos de botella imprevistos. Al mismo tiempo, las pérdidas debidas a impagos pueden reducirse significativamente, ya que las partidas pendientes se controlan activamente y, en caso necesario, se inician recordatorios o medidas de cobro.
 
-Para que siempre tenga una visión general de las cifras más importantes, la plantilla se ha completado con tres [estadísticas]({{< relref "help/base-editor/statistiken" >}}) adicionales relevantes. En "Facturación de todo el producto" encontrará ahora la facturación total que ha generado a través de servicios o bienes en su empresa. En "Estado de la factura en porcentaje" puede ver exactamente cuántas facturas se han registrado en total y cómo se dividen en porcentaje según los tres diferentes estados de pago "Pagado", "Pendiente" y "Reclamado". Para que siempre sepa exactamente lo que significa en términos de volumen de negocios, también se ha integrado la estadística "Estado de pago (volumen de negocios)". Esto refleja con precisión el volumen de negocios de los diferentes estados de pago de sus clientes.
+![Ventajas de la contabilidad de deudores](vorteile_debitorenbuchhaltung.jpg)
 
-## Con SeaTable usted y su departamento de cuentas por cobrar pueden dormir tranquilos
+La contabilidad también proporciona una visión clara de todos los clientes y proveedores, lo que permite organizar los procesos de forma más eficiente. Por ejemplo, las facturas y los pagos están claramente vinculados, lo que simplifica los procesos y reduce las discrepancias. Además, las cuentas de deudores y acreedores facilitan la obtención de información y la planificación de las relaciones comerciales. Las empresas pueden tomar decisiones específicas basadas en los datos contables, por ejemplo sobre límites de crédito, condiciones de pago o futuras inversiones con determinados clientes o proveedores.
 
-Así pues, no tiene por qué acabar siempre con costosos programas de contabilidad como [Lexware](https://shop.lexware.de/), [Lexoffice](https://testen.lexoffice.de/online/), [sevDesk](https://sevdesk.de/), [orgaMax](https://www.deltra.com/) o [Billie](https://www.billie.io/), por ejemplo, que pueden llegar a hundir a su empresa en enormes gastos generales. Definitivamente puedes ahorrarte el dinero.
+## Cómo organizar eficazmente sus cuentas por cobrar en SeaTable
 
-Gracias a su enorme flexibilidad, SeaTable también puede hacer que su departamento de cuentas por cobrar funcione perfectamente. La clara ventaja que aporta SeaTable es la diversidad de usos que puede tener el propio producto. Además de las cuentas por cobrar, también se pueden cubrir otros casos de uso importantes en su empresa. Puede encontrar más información al respecto en nuestro [blog]({{< relref "posts" >}}) o directamente en nuestras [plantillas]({{< relref "templates" >}}). Convénzase de la hoja de cálculo más potente e innovadora y comience hoy mismo con su contabilidad de cuentas por cobrar.
+La contabilidad de las cuentas por cobrar constituye la columna vertebral de una contabilidad financiera eficiente en todas las empresas. Con el software SeaTable**, que cumple con la directiva GDPR, puede mapear digitalmente esta área, gestionar toda la información relevante de forma centralizada y, por lo tanto, simplificar significativamente todo el proceso, desde la preparación de la oferta hasta la recepción del pago. El software [Template]({{< relref "templates/sales/crm-accounts-receivable" >}}) le ofrece hojas de tablas para clientes, productos y ofertas, así como una hoja de facturas especial en la que se resumen claramente todos los datos importantes.
 
-[A la plantilla "CRM Cuentas por Cobrar"]({{< relref "templates/sales/crm-accounts-receivable" >}})  
-[Pruebe ahora SeaTable en la nube de forma gratuita]({{< relref "pages/registration" >}})  
-[O prefiere ejecutar SeaTable Enterprise en su propio centro de datos]({{< relref "pages/product/seatable-server" >}})
+{{< template-box id="9abcb338414a450b8f66" submit="Plantilla de prueba" text="Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
+
+En cuanto el cliente acepta una oferta, la información correspondiente se transfiere automáticamente a la hoja de facturación. Esto significa que las facturas pueden crearse con unos pocos clics y enviarse directamente al cliente. El estado de pago de cada factura puede consultarse en cualquier momento para que contabilidad y ventas tengan siempre una visión de conjunto. Además, los pagos recibidos y los recordatorios pueden documentarse directamente en el sistema, lo que acelera los procesos y reduce los errores. Por lo tanto, SeaTable le permite gestionar sus cuentas por cobrar de forma transparente y ahorrando tiempo, sin necesidad de un costoso software adicional. [Regístrese en]({{< relref "pages/registration" >}}) Regístrese gratis hoy mismo y pruebe la plantilla.
+
+## FAQs
+
+{{< faq "¿Qué son los deudores y los acreedores?" >}}
+
+Los deudores son los clientes de una empresa que tienen facturas pendientes de pago, es decir, derechos de cobro. Los acreedores, por su parte, son los proveedores o socios comerciales a los que la empresa debe dinero, es decir, hay pasivos. Juntos forman la base para controlar los pagos entrantes y salientes de la empresa.
+
+{{< /faq >}}
+
+{{< faq "¿Cuál es la diferencia entre cuentas por cobrar y cuentas por pagar?" >}}
+
+La contabilidad de deudores registra y controla todas las cuentas a cobrar de los clientes, es decir, las facturas que la empresa ha emitido y cuyo pago aún está pendiente. La contabilidad de acreedores, por su parte, gestiona todas las deudas con los proveedores, es decir, las facturas que la empresa tiene que pagar. Por tanto, la contabilidad de las cuentas por cobrar se ocupa del dinero que entra, mientras que la contabilidad de las cuentas por pagar se ocupa del dinero que sale.
+
+{{< /faq >}}
+
+{{< faq "¿Qué programas informáticos pueden utilizarse para implantar la contabilidad de acreedores y deudores?" >}}
+
+Con SeaTable, la contabilidad de cuentas por cobrar y cuentas por pagar se puede implementar de manera eficiente y flexible, sin necesidad de conocimientos de programación. SeaTable es una plataforma sin código que cumple la normativa GDPR y que se ha desarrollado especialmente para la gestión y automatización de procesos empresariales. Permite crear aplicaciones de contabilidad personalizadas que se adaptan perfectamente a las necesidades de su empresa.
+
+{{< /faq >}}
+
+{{< faq "¿Las cuentas por cobrar influyen en las cuentas por pagar?" >}}
+
+No, los deudores no desempeñan ningún papel en la contabilidad de acreedores. La contabilidad de acreedores se centra exclusivamente en los proveedores y los pasivos, es decir, a quién debe dinero la empresa y cuándo deben efectuarse los pagos. Las cuentas por cobrar, en cambio, son clientes que deben dinero a la empresa y se registran en la contabilidad de cuentas por cobrar.
+
+{{< /faq >}}
