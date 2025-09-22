@@ -5,7 +5,13 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/es/ayuda/die-funktionen-der-teamverwaltung-in-der-uebersicht'
+url: '/es/ayuda/funciones-panel-equipo-seatable'
+aliases:
+    - '/es/ayuda/die-funktionen-der-teamverwaltung-in-der-uebersicht'
+seo:
+    title: 'Funciones clave del panel de equipo en SeaTable'
+    description: 'Gestione equipos, roles, grupos, datos y soporte desde un solo lugar. Conozca todas las herramientas de administración SeaTable.'
+
 ---
 
 En SeaTable, su equipo es el centro. Trabajáis juntos en vuestras tareas y proyectos. Como equipo, celebras los éxitos, experimentas los contratiempos y desarrollas tu potencial. En este artículo aprenderás cómo gestionar tu equipo a través de la **administración de equipos** y qué puedes hacer allí.

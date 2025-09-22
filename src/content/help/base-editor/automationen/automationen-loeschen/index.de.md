@@ -6,6 +6,10 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/automationen-loeschen'
+seo:
+    title: 'Automatisierungsregeln in SeaTable sicher löschen'
+    description: 'Lernen Sie, wie Sie Automationen in SeaTable dauerhaft entfernen. Sehen Sie alle Auswirkungen, Folgen und Schritte zur Löschung.'
+
 ---
 
 {{< required-version "Enterprise" >}}

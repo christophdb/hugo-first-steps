@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/einen-av-vertrag-beantragen'
+url: '/es/ayuda/solicitar-contrato-encargado-seatable'
+aliases:
+    - '/es/ayuda/einen-av-vertrag-beantragen'
+seo:
+    title: 'Solicitar contrato de encargado en SeaTable paso a paso'
+    description: 'Genere fácilmente un contrato de encargado (AVV/Art. 28 RGPD) directamente en el panel de SeaTable y mantenga la legalidad.'
+
 ---
 
 {{< required-version "Administradores de equipo" >}}

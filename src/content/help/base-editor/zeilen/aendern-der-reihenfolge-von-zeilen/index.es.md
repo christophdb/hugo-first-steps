@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/es/ayuda/aendern-der-reihenfolge-von-zeilen'
+url: '/es/ayuda/cambiar-orden-filas-seatable'
+aliases:
+    - '/es/ayuda/aendern-der-reihenfolge-von-zeilen'
+seo:
+    title: 'Cambiar orden de filas en SeaTable con arrastrar y soltar'
+    description: 'Reorganice filas fácilmente con drag-and-drop. SeaTable actualiza números y posiciones de manera intuitiva y eficiente.'
+
 ---
 
 Puede cambiar el orden de las filas **arrastrando y soltando**. Si reordena las filas, SeaTable ajusta automáticamente la numeración.

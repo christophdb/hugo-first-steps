@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/fr/aide/anzahl-der-fixierten-spalten-anpassen'
+url: '/fr/aide/adapter-colonnes-figees-seatable'
+aliases:
+    - '/fr/aide/anzahl-der-fixierten-spalten-anpassen'
+seo:
+    title: 'Adapter colonnes figées dans SeaTable simplement'
+    description: 'Personnalisez le nombre de colonnes qu’on souhaite figer. Un clic pour figer ou libérer l’affichage et garder la clarté totale.'
+
 ---
 
 Si vous remplissez peu à peu vos tableaux avec un grand nombre de nouvelles colonnes, il ne sera plus possible à un moment donné d'avoir un aperçu de toutes les colonnes du tableau sans devoir faire défiler vers la droite. SeaTable permet donc de **fixer une ou plusieurs colonnes**, qui restent alors en place indépendamment du défilement.

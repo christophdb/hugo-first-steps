@@ -5,7 +5,13 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/help/eine-geloeschte-tabelle-wiederherstellen'
+url: '/help/recover-deleted-table-seatable'
+aliases:
+    - '/help/eine-geloeschte-tabelle-wiederherstellen'
+seo:
+    title: 'How to recover deleted tables in SeaTable'
+    description: 'Accidentally deleted a table or row? Learn step-by-step how to restore them using the trash feature in your SeaTable base easily.'
+
 ---
 
 In SeaTable you don't need to be afraid of losing your data. Even accidentally deleted tables - and even individual columns and rows - can be easily restored afterwards via the **trash** in the **base options**.

@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/pt/ajuda/wie-man-dateien-dauerhaft-entfernt'
+url: '/pt/ajuda/excluir-arquivos-permanente-seatable'
+aliases:
+    - '/pt/ajuda/wie-man-dateien-dauerhaft-entfernt'
+seo:
+    title: 'Excluir arquivos do SeaTable permanentemente – tutorial'
+    description: 'Aprenda a excluir definitivamente arquivos, imagens e assinaturas, limpando a lixeira no gerenciador de arquivos do SeaTable.'
+
 ---
 
 **Os ficheiros**, **imagens** e **assinaturas** que **eliminar** numa tabela podem ainda ser encontrados no gestor de [ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base. Para removê-los permanentemente, também é necessário excluir os arquivos do gerenciador de arquivos.

@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/aendern-der-reihenfolge-von-zeilen'
+url: '/fr/aide/reorganiser-lignes-seatable'
+aliases:
+    - '/fr/aide/aendern-der-reihenfolge-von-zeilen'
+seo:
+    title: 'Réorganiser les lignes : drag-and-drop sur SeaTable'
+    description: 'Modifiez la position de vos lignes individuellement ou groupées. SeaTable ajuste tout automatiquement pour une gestion optimale.'
+
 ---
 
 Vous pouvez modifier l'ordre des lignes **par glisser-déposer**. Si vous réorganisez les lignes, SeaTable adapte automatiquement les numérotations.

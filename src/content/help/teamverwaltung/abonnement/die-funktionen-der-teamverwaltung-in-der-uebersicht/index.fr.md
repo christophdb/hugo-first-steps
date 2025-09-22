@@ -5,7 +5,13 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/fr/aide/die-funktionen-der-teamverwaltung-in-der-uebersicht'
+url: '/fr/aide/fonctionnalites-admin-equipe-seatable'
+aliases:
+    - '/fr/aide/die-funktionen-der-teamverwaltung-in-der-uebersicht'
+seo:
+    title: 'Fonctionnalités majeures administration d’équipe SeaTable'
+    description: 'Ajoutez, supprimez, gérez groupes, droits ou abonnements. Toutes les fonctionnalités clés d’administration d’équipe SeaTable ici.'
+
 ---
 
 Dans SeaTable, votre équipe est au centre de l'action. Vous travaillez ensemble sur vos tâches et vos projets. C'est en équipe que vous célébrez vos succès, que vous vivez vos échecs et que vous développez votre potentiel. Dans cet article, vous découvrirez comment gérer votre équipe via l'**administration de l'équipe** et tout ce que vous pouvez y faire.

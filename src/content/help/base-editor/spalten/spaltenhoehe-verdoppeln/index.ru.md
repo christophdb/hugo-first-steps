@@ -5,7 +5,13 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/ru/pomoshch/spaltenhoehe-verdoppeln'
+url: '/ru/pomoshch/uvelichit-vysotu-zagolovka-seatable'
+aliases:
+    - '/ru/pomoshch/spaltenhoehe-verdoppeln'
+seo:
+    title: 'Увеличить высоту заголовка таблицы в SeaTable вдвое'
+    description: 'SeaTable позволяет легко увеличить высоту заголовка таблицы для длинных названий столбцов — всё регулируется через настройки.'
+
 ---
 
 Удвойте **высоту заголовка таблицы**, чтобы иметь возможность полностью прочитать длинные имена столбцов.

@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/pt/ajuda/anzahl-der-fixierten-spalten-anpassen'
+url: '/pt/ajuda/ajustar-colunas-fixas-seatable'
+aliases:
+    - '/pt/ajuda/anzahl-der-fixierten-spalten-anpassen'
+seo:
+    title: 'Ajustar número de colunas fixas no SeaTable'
+    description: 'Defina a quantidade de colunas bloqueadas conforme sua necessidade — máxima eficiência visual para grandes tabelas SeaTable.'
+
 ---
 
 Se tiver enchido gradualmente as suas tabelas com um grande número de novas colunas, a certa altura já não será possível vigiar todas as colunas das tabelas sem ter de se deslocar para a direita. O SeaTable permite-lhe, portanto, **fixar uma ou mais colunas**, que depois permanecem na sua posição independentemente da rolagem.

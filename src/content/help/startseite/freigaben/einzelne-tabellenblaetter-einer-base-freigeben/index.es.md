@@ -5,7 +5,13 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/es/ayuda/einzelne-tabellenblaetter-einer-base-freigeben'
+url: '/es/ayuda/compartir-tablas-especificas-seatable'
+aliases:
+    - '/es/ayuda/einzelne-tabellenblaetter-einer-base-freigeben'
+seo:
+    title: 'Compartir solo tablas específicas en SeaTable'
+    description: 'Comparta solo ciertas hojas de una base SeaTable, asignando permisos diferenciados por usuario o grupo, de forma fácil y flexible.'
+
 ---
 
 ¿No quiere **compartir** una base entera, sino **tablas individuales**? Puede hacerlo mediante una **liberación definida por el** usuario para [usuarios]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).

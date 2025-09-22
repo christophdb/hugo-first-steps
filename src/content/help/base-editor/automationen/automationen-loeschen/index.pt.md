@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/automationen-loeschen'
+url: '/pt/ajuda/excluir-automacoes-seatable'
+aliases:
+    - '/pt/ajuda/automationen-loeschen'
+seo:
+    title: 'Excluir automações em SeaTable: guia e consequências'
+    description: 'Descubra como excluir automações em SeaTable, os efeitos em cada ação e o passo a passo para remoção definitiva das regras.'
+
 ---
 
 {{< required-version "Empresa" >}}

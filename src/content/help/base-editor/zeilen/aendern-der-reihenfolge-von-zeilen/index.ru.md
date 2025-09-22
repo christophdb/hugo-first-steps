@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/pomoshch/aendern-der-reihenfolge-von-zeilen'
+url: '/ru/pomoshch/izmenit-poryadok-strok-seatable'
+aliases:
+    - '/ru/pomoshch/aendern-der-reihenfolge-von-zeilen'
+seo:
+    title: 'Поменять порядок строк в SeaTable перетаскиванием'
+    description: 'В SeaTable изменяйте порядок отдельных или нескольких строк простым перетаскиванием — все данные и номера обновляются автоматически.'
+
 ---
 
 Вы можете изменить порядок следования строк, **перетаскивая** их. При изменении порядка следования строк SeaTable автоматически корректирует нумерацию.

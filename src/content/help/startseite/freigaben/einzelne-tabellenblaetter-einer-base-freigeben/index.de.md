@@ -6,6 +6,10 @@ categories:
     - 'freigaben'
 author: 'nsc2'
 url: '/de/hilfe/einzelne-tabellenblaetter-einer-base-freigeben'
+seo:
+    title: 'Einzelne Tabellen in SeaTable gezielt freigeben'
+    description: 'Teilen Sie individuelle Tabellenblätter aus einer Base mit benutzerdefinierten Rechten für einzelne Nutzer oder Gruppen – ganz flexibel.'
+
 ---
 
 Sie möchten keine ganze Base, sondern **einzelne Tabellen freigeben**? Dies können Sie über eine **benutzerdefinierte Freigabe** an bestimmte [Benutzer]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) bewerkstelligen.

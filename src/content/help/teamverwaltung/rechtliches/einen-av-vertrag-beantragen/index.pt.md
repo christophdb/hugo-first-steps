@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/einen-av-vertrag-beantragen'
+url: '/pt/ajuda/solicitar-contrato-dados-seatable'
+aliases:
+    - '/pt/ajuda/einen-av-vertrag-beantragen'
+seo:
+    title: 'Solicitar contrato de dados (DPA) na SeaTable facilmente'
+    description: 'Solicite e baixe facilmente seu contrato de processamento de dados (DPA – Art. 28 RGPD) no painel SeaTable e mantenha conformidade.'
+
 ---
 
 {{< required-version "Administradores de equipa" >}}

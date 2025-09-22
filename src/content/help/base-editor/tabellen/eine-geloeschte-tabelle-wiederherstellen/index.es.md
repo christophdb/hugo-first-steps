@@ -5,7 +5,13 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/es/ayuda/eine-geloeschte-tabelle-wiederherstellen'
+url: '/es/ayuda/recuperar-tabla-eliminada-seatable'
+aliases:
+    - '/es/ayuda/eine-geloeschte-tabelle-wiederherstellen'
+seo:
+    title: 'Recuperar una tabla eliminada en SeaTable: guía fácil'
+    description: 'En SeaTable puede restaurar tablas, columnas o filas borradas desde la papelera. Revierta errores y recupere datos en segundos.'
+
 ---
 
 En SeaTable, no tienes que preocuparte por perder tus datos. Incluso las tablas borradas accidentalmente -e incluso columnas y filas individuales- pueden restaurarse fácilmente después a través de la **papelera de reciclaje** de las **opciones básicas**.

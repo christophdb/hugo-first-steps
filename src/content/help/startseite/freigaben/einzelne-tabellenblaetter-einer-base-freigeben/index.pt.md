@@ -5,7 +5,13 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/pt/ajuda/einzelne-tabellenblaetter-einer-base-freigeben'
+url: '/pt/ajuda/compartilhar-tabelas-especificas-seatable'
+aliases:
+    - '/pt/ajuda/einzelne-tabellenblaetter-einer-base-freigeben'
+seo:
+    title: 'Compartilhe apenas tabelas específicas no SeaTable'
+    description: 'Dê acesso apenas a algumas tabelas da sua base SeaTable, configurando permissões exclusivas para usuários ou grupos selecionados.'
+
 ---
 
 Não quer **partilhar** uma base inteira, mas sim **tabelas individuais**? Pode fazê-lo através de um **lançamento definido pelo utilizador** para [utilizadores]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) inteiros.

@@ -5,7 +5,13 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/fr/aide/eine-geloeschte-tabelle-wiederherstellen'
+url: '/fr/aide/restaurer-table-supprimee-seatable'
+aliases:
+    - '/fr/aide/eine-geloeschte-tabelle-wiederherstellen'
+seo:
+    title: 'Restaurer une table supprimée dans SeaTable facilement'
+    description: 'Restaurez rapidement toute table, colonne ou ligne supprimée via la corbeille SeaTable. Protection maximale contre la perte de données.'
+
 ---
 
 Dans SeaTable, vous n'avez pas à craindre de perdre vos données. Même les tableaux supprimés par erreur - et même les colonnes et les lignes individuelles - peuvent être facilement restaurés après coup via la **corbeille** dans les **options de base**.

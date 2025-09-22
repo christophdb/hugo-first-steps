@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/help/wie-man-dateien-dauerhaft-entfernt'
+url: '/help/delete-files-permanently-seatable'
+aliases:
+    - '/help/wie-man-dateien-dauerhaft-entfernt'
+seo:
+    title: 'Delete files permanently from SeaTable – step-by-step'
+    description: 'Remove files, images and signatures permanently by emptying the trash folder in the SeaTable file manager. Complete walkthrough.'
+
 ---
 
 **Files**, **images** and **signatures** that you **delete** in a table can still be found in the base [file]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) manager. To remove these permanently, you must also delete the files from the file manager.

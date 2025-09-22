@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/anzahl-der-fixierten-spalten-anpassen'
+seo:
+    title: 'Mehrere Spalten in SeaTable gleichzeitig fixieren'
+    description: 'Passen Sie einfach per Drag-and-Drop die Zahl der fixierten Spalten einer Tabelle an, erleichtern Sie Vergleich und Übersicht.'
+
 ---
 
 Wenn Sie Ihre Tabellen nach und nach mit einer Vielzahl an neuen Spalten gefüllt haben, wird es ab einem gewissen Zeitpunkt nicht mehr möglich sein, alle Tabellenspalten im Blick zu haben, ohne nach rechts scrollen zu müssen. SeaTable erlaubt daher das **Fixieren von einer oder mehreren Spalten**, welche dann unabhängig vom Scrollen an ihrer Position bleiben.

@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/funktionsweise-von-gemeinsamen-datensaetzen'
+url: '/fr/aide/fonctionnement-donnees-partagees-seatable'
+aliases:
+    - '/fr/aide/funktionsweise-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Fonctionnement jeux de données partagés dans SeaTable'
+    description: 'Tout savoir sur l’usage, la synchronisation et les bénéfices des jeux de données partagés pour collaboration, modèles et updates faciles.'
+
 ---
 
 Les jeux de données communs permettent de partager une vue de tableau prédéfinie avec d'autres groupes et utilisateurs afin qu'ils puissent accéder à des données spécifiques dans différents contextes et départements. Les jeux de données communs sont une fonctionnalité puissante et extrêmement utile de SeaTable, car ils peuvent faciliter le flux de travail de votre équipe.

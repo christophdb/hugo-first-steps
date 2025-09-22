@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/aendern-der-reihenfolge-von-zeilen'
+url: '/help/change-row-order-seatable'
+aliases:
+    - '/help/aendern-der-reihenfolge-von-zeilen'
+seo:
+    title: 'Change row order in SeaTable with drag-and-drop'
+    description: 'Move one or more rows anywhere in your table using drag-and-drop—SeaTable instantly renumbers and reflects order changes for you.'
+
 ---
 
 You can change the order of rows **by dragging and dropping**. If you reorder rows , SeaTable automatically adjusts the numberings.

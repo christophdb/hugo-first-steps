@@ -5,7 +5,13 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/help/einzelne-tabellenblaetter-einer-base-freigeben'
+url: '/help/share-single-tables-seatable'
+aliases:
+    - '/help/einzelne-tabellenblaetter-einer-base-freigeben'
+seo:
+    title: 'Share single tables from a SeaTable base, not the whole base'
+    description: 'Grant access to just one or more tables in your SeaTable base, define custom permissions and share with selected users or entire groups.'
+
 ---
 
 You do not want to **share** a whole base, but **individual tables**? You can do this via a **custom sharing permission** to specific [users]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
