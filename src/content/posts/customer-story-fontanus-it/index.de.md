@@ -3,7 +3,7 @@ title: 'Effizienter IT-Support am Johannes Fontanus College dank SeaTable'
 description: 'In einer Bildungsumgebung, in der Technologie eine entscheidende Rolle im täglichen Lehr- und Lernbetrieb spielt, stand die IT-Abteilung des Johannes Fontanus College in den Niederlanden vor steigenden Herausforderungen. Matthias van Laar schildert, wie die College-IT ihre Prozesse mit SeaTable optimiert hat.'
 seo:
     title: 'Johannes Fontanus College: Effizienter IT-Support mit SeaTable'
-    description: ''
+    description: 'Das Johannes Fontanus College hat mit SeaTable seinen IT-Support erfolgreich digitalisiert. Matthias van Laar berichtete über ihre Erfahrungen.'
 date: 2025-09-08
 categories:
     - 'customer-story'
@@ -12,7 +12,6 @@ tags:
     - 'No Code / Low Code'
 color: '#73aecf'
 url: '/de/johannes-fontanus-college-it-support'
-draft: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Bildungseinrichtung" ort="Niederlande" >}}
@@ -23,9 +22,7 @@ Am [Johannes Fontanus College](https://www.jfc.nl/), einer Sekundarschule in Bar
 
 {{< testimonial image="" alt="" name="Matthias van Laar, IT-Departement" >}}
 
-Als Bildungseinrichtung, die Tausende von Geräten und Support-Tickets verwaltet, brauchten wir 
-eine robuste und dennoch flexible Lösung. SeaTable bot genau das – es ermöglichte uns 
-benutzerdefinierte Anwendungen für verschiedene Abteilungen zu erstellen und gleichzeitig ein einheitliches System für unseren IT-Betrieb.
+Als Bildungseinrichtung, die Tausende von Geräten und Support-Tickets verwaltet, brauchten wir eine robuste und dennoch flexible Lösung. SeaTable bot genau das – es ermöglichte uns benutzerdefinierte Anwendungen für verschiedene Abteilungen zu erstellen und gleichzeitig ein einheitliches System für unseren IT-Betrieb.
 
 {{</ testimonial >}}
 
@@ -34,6 +31,7 @@ Die Umstellung begann, als Ko Smidt, der an der Schule bereits mit der Implement
 
 Die **Implementierung verlief bemerkenswert reibungslos**. Die Mitarbeiter des IT-Service Desk und die  Systemadministratoren arbeiteten zusammen, um individuelle Schnittstellen zu schaffen, die auf die technischen Fähigkeiten der verschiedenen Benutzergruppen zugeschnitten waren. Denn dank der benutzerfreundlichen Oberfläche und **leistungsstarken Automatisierungsfunktionen** kommen auch nicht-technische Mitarbeiter mühelos mit dem Tool zurecht. Die Möglichkeit, Lösungen iterativ zu entwickeln und einzusetzen, ermöglichte eine kontinuierliche Prozessoptimierung, ohne den täglichen Betrieb zu stören.
 
+![Johannes Fontanus College](img_johannes_fontanus_2.png)
 
 ## Sichtbare Erfolge in kurzer Zeit
 

@@ -1,9 +1,9 @@
 ---
 title: 'Johannes Fontanus College digitalisiert den Examensprozess mit SeaTable'
-description: 'Das Johannes Fontanus College in den Niederlanden hat mit SeaTable seine Examensverwaltung erfolgreich digitalisiert – und die staatlichen Datenschutzvorgaben erfüllt. Ko Smidt, Head of Exam, hat uns von ihrem Weg zu SeaTable und seinen Erfahrungen erzählt.'
+description: 'Das Johannes Fontanus College in den Niederlanden hat mit SeaTable seine Examensverwaltung erfolgreich digitalisiert – und die staatlichen Datenschutzvorgaben erfüllt. Ko Smidt, Head of Exam, berichtete über den Weg des Colleges zu SeaTable und welche Erfahrungen er dabei gemacht hat.'
 seo:
     title: 'Johannes Fontanus College digitalisiert Examensprozess'
-    description: ''
+    description: 'Das Johannes Fontanus College hat mit SeaTable seine Examensverwaltung erfolgreich digitalisiert. Ko Smidt, Head of Exam, berichtete über ihre Erfahrungen.'
 date: 2025-09-08
 categories:
     - 'customer-story'
@@ -11,9 +11,7 @@ tags:
     - 'Öffentliche Verwaltung'
 color: '#f4ba81'
 url: '/de/johannes-fontanus-college-examensverwaltung'
-draft: true
 ---
-<!-- Beschreibung: "Ko Smidt, Head of Exam, hat uns von ihrem Weg zu SeaTable und seinen Erfahrungen erzählt." Finde ich unglücklich, weil sich "von ihrem Weg zu SeaTable" auch auf Ko Smidt beziehen könnte. Vielleicht lieber: "Ko Smidt, Head of Exam, berichtete über den Weg des Colleges zu SeaTable und welche Erfahrungen er dabei gemacht hat." -->
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Bildungseinrichtung" ort="Niederlande" >}}
 
@@ -40,14 +38,16 @@ SeaTable wurde im ersten Schritt für das Exam Departement eingeführt. Die **Im
 
 Ein weiterer Vorteil dieses Ansatzes: Da alle Nutzer an der schrittweisen Entwicklung, Testung und Einführung der neuen Prozesse und der App beteiligt waren, verlief die Umstellung auf die neuen Prozesse für alle Kollegen problemlos.
 
-## Digitalisierung zum Nutzen der Teams
+![Johannes Fontanus College](img_johannes_fontanus_1.png)
+
+## Digitalisierung zum Nutzen des Teams
 Für Ko Smidt ist klar: „SeaTable hat unseren Arbeitsalltag deutlich verbessert.“ Die Datenqualität wurde durch eine konsolidierte, einheitliche Datenquelle gesteigert, Prozesse effizienter. Vielleicht am wichtigsten ist indes, dass durch verringerte manuelle, repetitive Aufgaben und klarere Prozesse die **Arbeitszufriedenheit gestiegen** ist. 
 
 Durch die Implementierung von SeaTable konnte insbesondere in zwei kritischen Verwaltungsbereichen eine deutliche Optimierung erreicht werden: Prüfungsverwaltung und Schülerbetreuung. Bei der Examensprüfung digitalisierte Ko Smidt den Workflow und ersetzte so manuelle, papierbasierte Systeme durch einen automatisierten, nachvollziehbaren Prozess. Die Prüfer werden nun automatisiert benachrichtigt, wodurch etwa 250 manuelle E-Mails wegfallen und alle Beteiligten einen **Echtzeiteinblick in den Prüfungsstatus** erhalten.
 
 Die Schülerbetreuung kümmert sich u. a. um die Anforderungen der Schüler mit besonderen Bedürfnissen. Hier können ausgewählte Mitarbeiter dank SeaTable alle Anfragen, z. B. für zusätzliche Einrichtungen, mit allen erforderlichen Dokumenten digital einreichen. Die ausgefeilten Automatisierungen in SeaTable ermöglichen es den Mitarbeitern, den Status von Anträgen zu verfolgen, genaue Berechtigungen festzulegen und die Kommunikationskanäle zu optimieren. So konnte das Team den Verwaltungsaufwand erheblich reduzieren, **ohne Abstriche bei Datenschutz und Transparenz** zu machen.
 
-Inzwischen nutzen auch die [Schul-IT]({{< relref "posts/customer-story-fontanus-it" >}}) und die Mensa SeaTable. Und **auch die Personalabteilung plant bereits die Einführung**.
+Inzwischen nutzen auch die [Schul-IT]({{< relref "posts/customer-story-fontanus-it" >}}) und die Mensa SeaTable. Und **auch die Personalabteilung plant bereits die Einführung.**
 
 ## Fazit
 „SeaTable bietet einen kompetenten, kundenorientierten und freundlichen Support. Die Dokumentation ist umfassend, und die Software ist stabil, zuverlässig und benutzerfreundlich. Das macht es unserem Team leicht, das System anzupassen und effektiv zu nutzen.“ erklärte Ko Smidt in unserem Interview. **SeaTable kann er uneingeschränkt jedem empfehlen, der eine effiziente, transparente, DSGVO-konforme Prozessmanagement- und Datenbanklösung mit einem hohen Anspruch an Datensicherheit braucht.**
