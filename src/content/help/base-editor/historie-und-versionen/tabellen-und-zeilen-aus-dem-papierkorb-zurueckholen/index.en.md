@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/help/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+url: '/help/restore-tables-rows-columns-seatable'
+aliases:
+    - '/help/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+seo:
+    title: 'Restore deleted tables, rows and columns from SeaTable trash'
+    description: 'Bring back deleted tables, rows and columns from the recycle bin in your SeaTable base—restore data easily, whenever it’s needed.'
+
 ---
 
 Deleted tables, rows and columns can be found and restored at any time in the trash of the respective base. You don't have to be afraid of losing data, because within bases, deleted tables, rows and columns remain available indefinitely.

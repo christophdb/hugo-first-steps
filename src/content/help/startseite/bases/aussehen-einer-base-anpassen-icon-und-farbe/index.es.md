@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/aussehen-einer-base-anpassen-icon-und-farbe'
+url: '/es/ayuda/personalizar-icono-color-base-seatable'
+aliases:
+    - '/es/ayuda/aussehen-einer-base-anpassen-icon-und-farbe'
+seo:
+    title: 'Personalizar color e icono de base SeaTable'
+    description: 'Elija un color e icono únicos para cada base en SeaTable, optimizando la visualización; modifique estos atributos cuando quiera.'
+
 ---
 
 Para facilitarle el seguimiento de sus bases en SeaTable, tiene la opción de asignar un color y un icono a una base cuando la crea. Después puedes cambiar tanto el color como el icono. Aquí puedes aprender a personalizar el aspecto de una base:

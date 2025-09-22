@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/fr/aide/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+url: '/fr/aide/recuperer-tables-lignes-colonnes-seatable'
+aliases:
+    - '/fr/aide/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+seo:
+    title: 'Récupérer tables, lignes supprimées depuis la corbeille'
+    description: 'Restaurez en quelques clics toutes vos tables, lignes et colonnes perdues dans SeaTable – aucune crainte, vos données restent sûres.'
+
 ---
 
 Les tableaux, lignes et colonnes supprimés peuvent être trouvés et restaurés à tout moment dans la corbeille de la base concernée. Vous ne devez pas avoir peur de perdre des données, car au sein des bases, les tableaux, lignes et colonnes supprimés restent disponibles indéfiniment.

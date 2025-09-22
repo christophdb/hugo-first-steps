@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/aussehen-einer-base-anpassen-icon-und-farbe'
+url: '/ru/pomoshch/nastroit-ikonku-cvet-bazy-seatable'
+aliases:
+    - '/ru/pomoshch/aussehen-einer-base-anpassen-icon-und-farbe'
+seo:
+    title: 'Иконка и цвет базы в SeaTable: просто измените индивидуально'
+    description: 'В SeaTable можно легко настроить цвет и иконку любой базы – улучшите навигацию и внешний вид всего в пару кликов через меню.'
+
 ---
 
 Чтобы вам было легче отслеживать свои базы в SeaTable, у вас есть возможность назначить цвет и значок базе при ее создании. Впоследствии вы можете изменить как цвет, так и значок. Здесь вы можете узнать, как настроить внешний вид базы:

@@ -5,7 +5,13 @@ lastmod: '2023-04-06'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/es/ayuda/die-lookup-funktion'
+url: '/es/ayuda/columna-lookup-seatable'
+aliases:
+    - '/es/ayuda/die-lookup-funktion'
+seo:
+    title: 'Columna lookup: consulta datos desde tablas vinculadas'
+    description: 'Consulte y muestre fácilmente información de tablas vinculadas con la columna lookup en SeaTable. Ideal para evitar duplicidades.'
+
 ---
 
 La función de búsqueda permite mostrar valores adicionales de una tabla ya vinculada en la tabla actual. Esto le evita tener que introducir los datos dos veces y, al mismo tiempo, puede relacionarlos entre sí. En Excel esta función se conoce como _VLOOKUP_ o _SVERWEIS_.

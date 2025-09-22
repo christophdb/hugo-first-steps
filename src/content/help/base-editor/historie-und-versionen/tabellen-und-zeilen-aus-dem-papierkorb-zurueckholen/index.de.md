@@ -6,6 +6,10 @@ categories:
     - 'historie-und-versionen'
 author: 'nsc2'
 url: '/de/hilfe/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+seo:
+    title: 'Gelöschte Tabellen, Zeilen & Spalten aus dem Papierkorb retten'
+    description: 'Stellen Sie gelöschte Tabellen, Zeilen und Spalten direkt aus dem SeaTable-Papierkorb wieder her – ohne Datenverlust, einfach erklärt.'
+
 ---
 
 Gelöschte Tabellen, Zeilen und Spalten können Sie jederzeit im Papierkorb der jeweiligen Base finden und wiederherstellen. Sie müssen keine Angst davor haben, Daten zu verlieren, denn innerhalb von Bases bleiben gelöschte Tabellen, Zeilen und Spalten auf unbegrenzte Zeit verfügbar.

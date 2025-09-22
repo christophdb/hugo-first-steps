@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/hinzufuegen-einer-spaltenbeschreibung'
+url: '/help/add-column-description-seatable'
+aliases:
+    - '/help/hinzufuegen-einer-spaltenbeschreibung'
+seo:
+    title: 'Add column descriptions in SeaTable tables'
+    description: 'Store instructions or notes per column: how to add, edit and see descriptions for every field in your SeaTable workspace.'
+
 ---
 
 To store information, instructions or explanations about a column, you can add a description to your table columns in SeaTable. Here you will learn how to do that:

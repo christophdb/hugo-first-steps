@@ -6,6 +6,10 @@ categories:
     - 'verknuepfungen'
 author: 'vge'
 url: '/de/hilfe/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+seo:
+    title: 'Tabellen in SeaTable miteinander verknüpfen – Anleitung'
+    description: 'So verbinden Sie Daten aus mehreren Tabellen per Link-Spalte – erstellen, bearbeiten und nutzen Sie echte Querverweise flexibel und einfach.'
+
 ---
 
 SeaTable ermöglicht es Ihnen, Informationen aus unterschiedlichen Tabellen miteinander zu verknüpfen. Verwenden Sie hierfür den Spaltentyp **Verknüpfung zu anderen Einträgen**.

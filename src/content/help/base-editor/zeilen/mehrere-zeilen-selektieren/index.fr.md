@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'cdb'
-url: '/fr/aide/mehrere-zeilen-selektieren'
+url: '/fr/aide/selectionner-plusieurs-lignes-seatable'
+aliases:
+    - '/fr/aide/mehrere-zeilen-selektieren'
+seo:
+    title: 'Sélectionner plusieurs lignes dans SeaTable : méthodes rapides'
+    description: 'Utilisez cases, Shift ou en-tête pour marquer plusieurs lignes SeaTable et gagner du temps sur vos actions collectives.'
+
 ---
 
 Il vous arrivera certainement de vouloir [copier]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) 'édition de **plusieurs lignes** en même temps. Pour effectuer ces actions, vous devez préalablement **sélectionner** les lignes souhaitées.

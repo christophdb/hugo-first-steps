@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'cdb'
 url: '/de/hilfe/mehrere-zeilen-selektieren'
+seo:
+    title: 'Mehrere Zeilen in SeaTable schnell & flexibel auswählen'
+    description: 'Durch Checkboxen, Shift-Klick oder Tabelle-Klick selektieren Sie mehrere Zeilen effizient – und sind bereit für schnelle Aktionen.'
+
 ---
 
 Es kommt sicher vor, dass Sie **mehrere Zeilen** gleichzeitig [kopieren]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) möchten. Um diese Aktionen durchzuführen, müssen Sie die gewünschten Zeilen vorher **auswählen**.

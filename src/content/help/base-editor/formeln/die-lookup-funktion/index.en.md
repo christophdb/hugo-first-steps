@@ -5,7 +5,13 @@ lastmod: '2023-04-06'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/help/die-lookup-funktion'
+url: '/help/lookup-column-seatable'
+aliases:
+    - '/help/die-lookup-funktion'
+seo:
+    title: 'Lookup column: show values from linked tables in SeaTable'
+    description: 'SeaTable’s lookup lets you display data from linked tables, eliminate double entry and connect project info quickly and accurately.'
+
 ---
 
 The Lookup function allows you to display additional values from an already linked table in your current table. This prevents you from having to enter the data twice and allows you to relate the data at the same time. In Excel this function is known as _VLOOKUP_ or _SVERWEIS_.

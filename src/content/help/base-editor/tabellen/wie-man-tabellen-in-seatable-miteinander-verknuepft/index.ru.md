@@ -5,7 +5,13 @@ lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/pomoshch/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+url: '/ru/pomoshch/kak-svyazat-tablitsy-seatable'
+aliases:
+    - '/ru/pomoshch/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+seo:
+    title: 'Как связать таблицы между собой в SeaTable: инструкция'
+    description: 'В SeaTableTables можно связать между собой через специальную колонку — подробный гайд по созданию, редактированию и работе с связями.'
+
 ---
 
 SeaTable позволяет связывать информацию из разных таблиц. Для этого используйте тип столбца **Ссылка на другие записи**.

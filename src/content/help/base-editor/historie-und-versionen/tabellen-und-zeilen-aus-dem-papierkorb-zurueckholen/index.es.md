@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/es/ayuda/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+url: '/es/ayuda/recuperar-tablas-filas-columnas-seatable'
+aliases:
+    - '/es/ayuda/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+seo:
+    title: 'Recuperar tablas, filas y columnas eliminadas en SeaTable'
+    description: 'Recupere tablas, filas y columnas borradas desde la papelera de su base SeaTable ante cualquier error; guía simple y rápida.'
+
 ---
 
 Puede encontrar y restaurar tablas, filas y columnas eliminadas en cualquier momento en la papelera de reciclaje de la base correspondiente. No hay que tener miedo a perder datos, porque dentro de las bases, las tablas, filas y columnas borradas siguen disponibles indefinidamente.

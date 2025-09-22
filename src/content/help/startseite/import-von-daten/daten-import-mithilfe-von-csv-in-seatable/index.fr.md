@@ -5,7 +5,13 @@ lastmod: '2024-08-07'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/fr/aide/daten-import-mithilfe-von-csv-in-seatable'
+url: '/fr/aide/importer-csv-dans-seatable'
+aliases:
+    - '/fr/aide/daten-import-mithilfe-von-csv-in-seatable'
+seo:
+    title: 'Importer un fichier CSV dans SeaTable : explications'
+    description: 'Importez données CSV dans SeaTable en base ou tableau existant, contrôlez les entêtes et l’encodage, vérifiez facilement vos résultats.'
+
 ---
 
 L'article suivant est un aperçu de l'**importation de données** dans SeaTable à l'aide de **fichiers CSV**. Vous y trouverez **des instructions** détaillées sur la manière d'importer des fichiers CSV dans SeaTable. Il présente également les **particularités** à prendre en compte lors de l'importation de données.

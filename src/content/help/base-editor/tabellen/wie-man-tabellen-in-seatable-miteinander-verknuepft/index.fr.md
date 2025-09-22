@@ -5,7 +5,13 @@ lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/fr/aide/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+url: '/fr/aide/comment-lier-tables-seatable'
+aliases:
+    - '/fr/aide/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+seo:
+    title: 'Comment lier des tables dans SeaTable – guide complet'
+    description: 'Créez des liens entre plusieurs tables, gérez et affichez les relations d’un simple clic, pour analyses et automatisations.'
+
 ---
 
 SeaTable vous permet de relier entre elles des informations provenant de différents tableaux. Pour ce faire, utilisez le type de colonne **Lien vers d'autres entrées**.

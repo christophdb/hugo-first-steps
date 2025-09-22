@@ -5,7 +5,13 @@ lastmod: '2023-04-06'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/pt/ajuda/die-lookup-funktion'
+url: '/pt/ajuda/coluna-lookup-seatable'
+aliases:
+    - '/pt/ajuda/die-lookup-funktion'
+seo:
+    title: 'Coluna lookup: veja valores de tabelas vinculadas SeaTable'
+    description: 'Obtenha e exiba dados de tabelas vinculadas com a coluna lookup no SeaTable – sem duplicidade, tudo integrado de forma prática.'
+
 ---
 
 A função de pesquisa permite-lhe exibir valores adicionais de uma tabela já ligada na sua tabela actual. Isto evita que tenha de introduzir os dados duas vezes e ao mesmo tempo pode relacionar os dados uns com os outros. No Excel esta função é conhecida como _VLOOKUP_ ou _SVERWEIS_.

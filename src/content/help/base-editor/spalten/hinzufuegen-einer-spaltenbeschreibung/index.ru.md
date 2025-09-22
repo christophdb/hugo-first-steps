@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/hinzufuegen-einer-spaltenbeschreibung'
+url: '/ru/pomoshch/dobavit-opisanie-k-stolbcu-seatable'
+aliases:
+    - '/ru/pomoshch/hinzufuegen-einer-spaltenbeschreibung'
+seo:
+    title: 'Добавить описание к столбцу в SeaTable'
+    description: 'В SeaTable легко добавить описание к столбцу для инструкций и пояснений — тексты доступны по наведению на значок информации.'
+
 ---
 
 Чтобы хранить информацию, инструкции или пояснения о столбце, вы можете добавить описание к столбцам вашей таблицы в SeaTable. Здесь вы можете узнать, как это сделать:

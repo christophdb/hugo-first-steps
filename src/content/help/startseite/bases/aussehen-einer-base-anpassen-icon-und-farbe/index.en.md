@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/aussehen-einer-base-anpassen-icon-und-farbe'
+url: '/help/customize-base-icon-color-seatable'
+aliases:
+    - '/help/aussehen-einer-base-anpassen-icon-und-farbe'
+seo:
+    title: 'Customize your SeaTable base icon & color easily'
+    description: 'Personalize each base with its own color and icon for better overview—change at any time directly from the edit menu, step by step.'
+
 ---
 
 To make it easier for you to keep track of your bases in SeaTable, you have the option to assign a color and an icon to a base when you create it. Both color and icon can be changed afterwards. Here you can learn how to customize the appearance of a base:

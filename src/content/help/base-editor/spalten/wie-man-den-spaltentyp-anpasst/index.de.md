@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/wie-man-den-spaltentyp-anpasst'
+seo:
+    title: 'Spaltentyp in SeaTable flexibel ändern – so funktioniert es'
+    description: 'Passen Sie den Spaltentyp nachträglich an: Spaltenmenü öffnen, neuen Typ auswählen und speichern. Warnhinweise erscheinen bei drohendem Datenverlust.'
+
 ---
 
 Je nachdem, welche **Werte** Sie in SeaTable erfassen möchten, können Sie diesen verschiedene **Spaltentypen** zuordnen. Eine Übersicht über alle 25 Spaltentypen in SeaTable finden Sie [hier]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
