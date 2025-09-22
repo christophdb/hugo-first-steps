@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/anleitung-zum-galerie-plugin'
+url: '/ru/pomoshch/galereya-instruktsiya-seatable'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-galerie-plugin'
+seo:
+    title: 'Галерея SeaTable: инструкции и отображение изображений'
+    description: 'Плагин галереи SeaTable собирает изображения из таблицы в альбом, показывает превью и позволяет настраивать отображение данных.'
+
 ---
 
 **Плагин галереи** особенно хорошо подходит для отображения иллюстрированных записей, поскольку в первую очередь речь идет о содержимом [колонки изображений]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).

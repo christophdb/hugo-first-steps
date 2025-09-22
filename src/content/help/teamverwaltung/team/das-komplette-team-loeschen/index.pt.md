@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/das-komplette-team-loeschen'
+url: '/pt/ajuda/excluir-time-completo-seatable'
+aliases:
+    - '/pt/ajuda/das-komplette-team-loeschen'
+seo:
+    title: 'Excluir totalmente o time e dados no SeaTable'
+    description: 'Exclua seu time SeaTable com segurança: entenda o passo a passo, consequências, o que é removido e o que permanece após o comando de exclusão.'
+
 ---
 
 Como **administrador da equipa**, pode **apagar completamente** a sua equipa com todos os seus membros, bases e dados.

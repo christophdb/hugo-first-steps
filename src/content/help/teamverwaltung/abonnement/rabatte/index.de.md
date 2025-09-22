@@ -6,6 +6,10 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
+seo:
+    title: 'SeaTable Rabatte für Non-Profits, Vereine & Bildungseinrichtungen'
+    description: 'Öffentliche Träger, Non-Profits und Bildung erhalten 25–75% Rabatt auf SeaTable. Antrag einfach über die Teamverwaltung stellen und sparen!'
+
 ---
 
 Sie möchten SeaTable nutzen und haben einen eingetragenen Verein, arbeiten in einer öffentlichen Einrichtung oder einer gemeinnützigen Non-Profit-Organisation? Dann genießen Sie besondere Vorteile, weil wir Menschen unterstützen wollen, die sich für das Gemeinwohl einsetzen – sei es durch soziale Arbeit, humanitäre Hilfe, ökologische Projekte oder Bildung und Forschung.

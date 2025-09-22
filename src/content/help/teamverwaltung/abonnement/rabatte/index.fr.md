@@ -5,7 +5,13 @@ lastmod: '2024-04-11'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
+url: '/fr/aide/reductions-seatable-associations-education-secteur-public'
+aliases:
+    - '/fr/aide/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
+seo:
+    title: 'Réductions SeaTable : associations, éducation, secteur public'
+    description: 'SeaTable accorde jusqu’à 75 % de réduction aux associations, écoles et institutions publiques : faites votre demande en ligne rapidement.'
+
 ---
 
 Vous souhaitez utiliser SeaTable et vous avez une association enregistrée, vous travaillez dans une institution publique ou une organisation à but non lucratif ? Dans ce cas, vous bénéficiez d'avantages particuliers, car nous souhaitons soutenir les personnes qui s'engagent pour le bien commun, que ce soit par le biais d'un travail social, d'une aide humanitaire, de projets écologiques ou de l'éducation et de la recherche.

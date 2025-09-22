@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
+url: '/help/add-calendar-entries-calendar-plugin-seatable'
+aliases:
+    - '/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
+seo:
+    title: 'Add new entries in SeaTable calendar plugin'
+    description: 'Instantly add events to your SeaTable calendar via click, double-click or by selecting time slots – easy and efficient workflow.'
+
 ---
 
 You have various options for adding **new entries** to the calendar. You can do this **in the underlying table** by creating a new row there and entering an appointment in the [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}), which is then also displayed in the calendar plugin.

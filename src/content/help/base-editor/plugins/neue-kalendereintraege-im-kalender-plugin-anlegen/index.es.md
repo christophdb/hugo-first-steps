@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/es/ayuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
+url: '/es/ayuda/anadir-entradas-plugin-calendario-seatable'
+aliases:
+    - '/es/ayuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
+seo:
+    title: 'Añadir nuevas entradas en el plugin calendario de SeaTable'
+    description: 'Cree eventos directamente en la vista de calendario: añada, edite o arrastre citas de forma rápida con el plugin de SeaTable.'
+
 ---
 
 Dispone de varias opciones para añadir **nuevas entradas** al calendario. Puede hacerlo **en la tabla subyacente**, creando allí una nueva fila e introduciendo una cita en la [columna de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}), que se mostrará también en el complemento de calendario.

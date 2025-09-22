@@ -5,7 +5,13 @@ lastmod: '2024-04-11'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
+url: '/help/seatable-discounts-npo-education-public'
+aliases:
+    - '/help/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
+seo:
+    title: 'SeaTable discounts for NPOs, education and public sector'
+    description: 'SeaTable offers 25–75% off plans for charities, nonprofits, education and public organizations. Find out more and apply in your account.'
+
 ---
 
 Would you like to use SeaTable and are you a registered association, work in a public institution or a charitable non-profit organization? Then you will enjoy special benefits because we want to support people who work for the common good - be it through social work, humanitarian aid, ecological projects or education and research.

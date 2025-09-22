@@ -5,7 +5,13 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+url: '/help/manage-groups-members-team-administration'
+aliases:
+    - '/help/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+seo:
+    title: 'Manage teams and groups in SeaTable team administration'
+    description: 'Set up groups, assign members and roles in SeaTable – keep your team organized, permissions clear, and collaboration productive.'
+
 ---
 
 The **team administrator** has control over which team member is part of which group. Once someone is a **member of** a group, they usually have **read and write permissions** to all bases in that group.

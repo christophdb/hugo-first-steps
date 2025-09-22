@@ -6,6 +6,10 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/mehrere-kalender-fuer-eine-base-anlegen'
+seo:
+    title: 'Mehrere Kalender pro SeaTable-Base erstellen'
+    description: 'Legen Sie spezifische Kalender für verschiedene Projekte, Tabellen, Ansichten oder Datumsfelder innerhalb Ihrer SeaTable-Base an.'
+
 ---
 
 Indem Sie **mehrere Kalender** in einer Base anlegen, können Sie spezifische Termine in unterschiedlichen Kalendern speichern. Beispielsweise können Sie einzelne Kalender für unterschiedliche Projekte anlegen. Wenn Sie in einer Base mit mehreren Personen zusammenarbeiten, kann jedes Teammitglied individuelle Kalender erstellen.

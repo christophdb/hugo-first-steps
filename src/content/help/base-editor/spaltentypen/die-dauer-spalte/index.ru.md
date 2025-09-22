@@ -5,7 +5,13 @@ lastmod: '2023-01-23'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-dauer-spalte'
+url: '/ru/pomoshch/kolonka-dlitelnost-seatable'
+aliases:
+    - '/ru/pomoshch/die-dauer-spalte'
+seo:
+    title: 'Колонка «Длительность» SeaTable: учет времени'
+    description: 'Записывайте продолжительность событий в SeaTable с точностью до минуты или секунды – удобно для учета работы и анализа.'
+
 ---
 
 **Колонка Периода** особенно подходит для записи продолжительности различных событий. Он может записывать **период времени** с точностью до минуты или даже до секунды. Например, колонка периода может использоваться в сочетании со столбцом [даты]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) для учета рабочих часов.

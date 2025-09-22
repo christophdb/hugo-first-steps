@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/fr/aide/neue-kalendereintraege-im-kalender-plugin-anlegen'
+url: '/fr/aide/ajouter-evenements-plugin-calendrier-seatable'
+aliases:
+    - '/fr/aide/neue-kalendereintraege-im-kalender-plugin-anlegen'
+seo:
+    title: 'Ajouter des événements dans le plugin calendrier SeaTable'
+    description: 'Ajoutez un événement par clic, double-clic ou glisser-déposer avec le plugin calendrier SeaTable pour une planification flexible.'
+
 ---
 
 Pour ajouter **de nouvelles entrées** dans le calendrier, vous avez plusieurs possibilités. Vous pouvez le faire **dans le tableau sous-jacent** en y créant une nouvelle ligne et en inscrivant une date dans la [colonne des dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}), qui sera ensuite également affichée dans le plug-in de calendrier.

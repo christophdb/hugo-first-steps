@@ -5,7 +5,13 @@ lastmod: '2023-01-23'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/es/ayuda/die-dauer-spalte'
+url: '/es/ayuda/columna-duracion-seatable'
+aliases:
+    - '/es/ayuda/die-dauer-spalte'
+seo:
+    title: 'Columna duración en SeaTable: gestione períodos'
+    description: 'Registre la duración de eventos en minutos o segundos con la columna duración de SeaTable. Ideal para horas y proyectos.'
+
 ---
 
 La **columna de duración** es especialmente adecuada para registrar la duración de diversos eventos. Puede grabar un **periodo** de tiempo al minuto o incluso al segundo. Por ejemplo, la columna de duración puede utilizarse junto con una columna de [fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) para registrar las horas de trabajo.

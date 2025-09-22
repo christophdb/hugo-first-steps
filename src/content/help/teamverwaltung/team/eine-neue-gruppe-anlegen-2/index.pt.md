@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/eine-neue-gruppe-anlegen-2'
+url: '/pt/ajuda/criar-novo-grupo-seatable'
+aliases:
+    - '/pt/ajuda/eine-neue-gruppe-anlegen-2'
+seo:
+    title: 'Como criar um novo grupo na equipe SeaTable'
+    description: 'Veja as etapas para criar grupo no SeaTable, adicionar membros e definir cargos para colaboração eficiente entre equipes.'
+
 ---
 
 Como administrador da equipa, pode criar novos grupos na administração da equipa. Siga estas instruções:

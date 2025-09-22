@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/das-komplette-team-loeschen'
+url: '/ru/pomoshch/udalit-polnostyu-komandu-seatable'
+aliases:
+    - '/ru/pomoshch/das-komplette-team-loeschen'
+seo:
+    title: 'Как полностью удалить команду и данные в SeaTable'
+    description: 'SeaTable позволяет администратору навсегда удалить команду и все данные. Узнайте о последствиях удаления и мерах предосторожности в этой инструкции.'
+
 ---
 
 Как **администратор команды**, вы можете **полностью удалить** свою команду со всеми ее членами, базами и данными.

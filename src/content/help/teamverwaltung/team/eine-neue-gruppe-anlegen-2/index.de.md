@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/eine-neue-gruppe-anlegen-2'
+seo:
+    title: 'Neue Gruppe erstellen: Teamverwaltung in SeaTable nutzen'
+    description: 'Erfahren Sie Schritt für Schritt, wie Sie eine neue Gruppe in SeaTable anlegen, Mitglieder hinzufügen und Rollen zuweisen.'
+
 ---
 
 Als Team-Administrator können Sie in der Teamverwaltung neue Gruppen anlegen. Folgen Sie dazu dieser Anleitung:

@@ -6,6 +6,10 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/anleitung-zum-galerie-plugin'
+seo:
+    title: 'Galerie-Plugin: Bilder übersichtlich in SeaTable darstellen'
+    description: 'Mit dem Galerie-Plugin machen Sie Bilder aus Bildspalten als Alben sichtbar, sehen Vorschauen und steuern, was im Album erscheint.'
+
 ---
 
 Das **Galerie-Plugin** eignet sich besonders gut, um bebilderte Datensätze darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) bezieht.

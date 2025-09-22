@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/das-komplette-team-loeschen'
+url: '/es/ayuda/eliminar-equipo-completo-seatable'
+aliases:
+    - '/es/ayuda/das-komplette-team-loeschen'
+seo:
+    title: 'Eliminar todo el equipo y datos en SeaTable'
+    description: 'Descubra cómo borrar su equipo y todos los datos en SeaTable irreversiblemente y cuál es el alcance de esta operación para administradores.'
+
 ---
 
 Como **administrador de equipo**, puedes **eliminar completamente** tu equipo con todos sus miembros, bases y datos.
