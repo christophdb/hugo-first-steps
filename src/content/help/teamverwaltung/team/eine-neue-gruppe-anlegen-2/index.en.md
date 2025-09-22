@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/eine-neue-gruppe-anlegen-2'
+url: '/help/create-new-group-seatable'
+aliases:
+    - '/help/eine-neue-gruppe-anlegen-2'
+seo:
+    title: 'Create a new group in SeaTable: step-by-step guide'
+    description: 'Learn how to set up a new group in SeaTable management, assign members and define roles for clear teamwork and organization.'
+
 ---
 
 As a team administrator, you can create new groups in the team administration. To do this, follow these instructions:

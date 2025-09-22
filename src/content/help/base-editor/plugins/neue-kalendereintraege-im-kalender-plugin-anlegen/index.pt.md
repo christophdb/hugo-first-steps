@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/pt/ajuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
+url: '/pt/ajuda/criar-entradas-plugin-calendario-seatable'
+aliases:
+    - '/pt/ajuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
+seo:
+    title: 'Crie novos eventos no plugin calendário do SeaTable'
+    description: 'Marque compromissos pelo click, duplo click ou arraste na agenda – controle total em cada calendário do SeaTable facilmente.'
+
 ---
 
 Existem várias opções para adicionar **novas entradas** ao calendário. Pode fazê-lo **na tabela subjacente**, criando aí uma nova linha e introduzindo um compromisso na [coluna da data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}), que é depois também apresentada no plugin do calendário.

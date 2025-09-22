@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/das-komplette-team-loeschen'
+url: '/help/delete-entire-team-seatable'
+aliases:
+    - '/help/das-komplette-team-loeschen'
+seo:
+    title: 'How to delete your SeaTable team and data permanently'
+    description: 'Step-by-step guide: Safely remove all members, bases and data when deleting your SeaTable team. Learn what’s lost and what’s retained.'
+
 ---
 
 As a **team administrator**, you can **completely delete** your team with all its members, bases and data.

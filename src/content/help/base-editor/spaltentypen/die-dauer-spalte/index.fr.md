@@ -5,7 +5,13 @@ lastmod: '2023-01-23'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/fr/aide/die-dauer-spalte'
+url: '/fr/aide/colonne-duree-seatable'
+aliases:
+    - '/fr/aide/die-dauer-spalte'
+seo:
+    title: 'Colonne durée SeaTable : mesurer le temps facilement'
+    description: 'Mesurez des durées à la minute ou seconde grâce à la colonne durée : parfaite pour le temps de travail et l’analyse !'
+
 ---
 
 La **colonne de durée** est particulièrement bien adaptée pour enregistrer la durée de différents événements. Elle peut saisir une **période** à la minute ou même à la seconde près. Par exemple, pour la saisie du temps de travail, il est intéressant d'utiliser la colonne de durée en combinaison avec une [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).

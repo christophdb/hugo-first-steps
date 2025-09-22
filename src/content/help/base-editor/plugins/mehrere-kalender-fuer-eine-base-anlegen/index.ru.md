@@ -5,7 +5,13 @@ lastmod: '2023-08-16'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/mehrere-kalender-fuer-eine-base-anlegen'
+url: '/ru/pomoshch/neskolko-kalendarej-v-odnoj-baze-seatable'
+aliases:
+    - '/ru/pomoshch/mehrere-kalender-fuer-eine-base-anlegen'
+seo:
+    title: 'Несколько календарей в одной базе SeaTable'
+    description: 'Создавайте отдельные календари для проектов, таблиц или видов в одной базе SeaTable – удобно для совместной работы и планирования.'
+
 ---
 
 Создав **несколько календарей** в базе, можно хранить конкретные встречи в разных календарях. Например, можно создать отдельные календари для разных проектов. Если в базе работают несколько человек, то каждый член команды может создавать отдельные календари.

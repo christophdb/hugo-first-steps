@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/das-komplette-team-loeschen'
+url: '/fr/aide/supprimer-equipe-complete-seatable'
+aliases:
+    - '/fr/aide/das-komplette-team-loeschen'
+seo:
+    title: 'Supprimer toute l’équipe et données dans SeaTable'
+    description: 'Guide rigoureux pour effacer intégralement une équipe SeaTable : suppression maîtrisée, impacts, précautions et conseils pour l’admin.'
+
 ---
 
 En tant qu'**administrateur d'équipe**, vous pouvez **supprimer complètement** votre équipe avec tous ses membres, ses bases et ses données.

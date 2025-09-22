@@ -5,7 +5,13 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/fr/aide/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+url: '/fr/aide/dernier-editeur-date-modifiee-seatable'
+aliases:
+    - '/fr/aide/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+seo:
+    title: 'Dernier éditeur et date modification : colonnes SeaTable'
+    description: 'Les colonnes système SeaTable révèlent qui édite une ligne et à quelle date, pour un suivi fiable, l’automatisation et la gestion d’équipe précise.'
+
 ---
 
 Les colonnes **Dernier éditeur** et **Date de dernière modification** sont exclusivement remplies **automatiquement** par SeaTable et constituent donc des types de colonnes particuliers. Elles sont très utiles si vous souhaitez savoir **quand** et **par qui** une entrée a été **modifiée pour la dernière fois**.

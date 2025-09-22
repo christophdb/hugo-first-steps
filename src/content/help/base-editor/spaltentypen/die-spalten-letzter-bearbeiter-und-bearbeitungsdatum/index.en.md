@@ -5,7 +5,13 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+url: '/help/last-editor-modified-date-seatable'
+aliases:
+    - '/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+seo:
+    title: 'Last editor and modified date columns in SeaTable'
+    description: 'SeaTable’s system columns show exactly who changed each row and when. They are vital for tracking, auditing and efficient team processes.'
+
 ---
 
 The columns **Last modifier** and **Last modified time** are exclusively filled **automatically** by SeaTable and therefore represent special column types. They prove to be extremely useful if you want to track **when** and **by whom** an entry was **last edited**.

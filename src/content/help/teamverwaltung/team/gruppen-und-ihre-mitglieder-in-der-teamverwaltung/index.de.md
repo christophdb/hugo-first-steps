@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+seo:
+    title: 'Gruppen und Mitglieder in der SeaTable Teamverwaltung verwalten'
+    description: 'In der Teamverwaltung legen Sie fest, wer zu welcher Gruppe gehört, Ordnen Sie Mitglieder und Rollen gezielt zu – einfach & sicher.'
+
 ---
 
 Der **Team-Administrator** hat die Kontrolle darüber, welches Teammitglied Teil welcher Gruppe ist. Sobald jemand **Mitglied** einer Gruppe ist, hat er normalerweise **Lese- und Schreibrechte** für alle Bases in dieser Gruppe.

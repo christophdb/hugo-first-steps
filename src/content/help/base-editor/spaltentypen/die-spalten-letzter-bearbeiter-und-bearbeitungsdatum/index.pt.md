@@ -5,7 +5,13 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/pt/ajuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+url: '/pt/ajuda/ultimo-editor-data-alteracao-seatable'
+aliases:
+    - '/pt/ajuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+seo:
+    title: 'Último editor e data de alteração em SeaTable'
+    description: 'As colunas especiais do SeaTable informam que usuário alterou cada linha e quando, proporcionando rastreio, automações e controle de versões.'
+
 ---
 
 As colunas **Último modificador** y **Último tempo modificado** são exclusivamente preenchidas **automaticamente** pelo SeaTable e são, portanto, tipos de colunas especiais. Revelam-se extremamente úteis se pretender registar **quando** e **por quem** uma entrada foi **editada pela última vez**.

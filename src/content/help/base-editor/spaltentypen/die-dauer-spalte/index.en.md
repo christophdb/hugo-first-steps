@@ -5,7 +5,13 @@ lastmod: '2023-01-23'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/help/die-dauer-spalte'
+url: '/help/duration-column-seatable'
+aliases:
+    - '/help/die-dauer-spalte'
+seo:
+    title: 'Duration column in SeaTable: track time precisely'
+    description: "Use SeaTable's duration column to record event times down to minutes or seconds. Perfect for working hours and analytics.'
+
 ---
 
 The **duration column** is particularly suitable for recording the duration of various events. It can record a **period of time** to the minute or even to the second. For example, the duration column can be used in conjunction with a [date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) column for recording working hours.

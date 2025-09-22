@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/fr/aide/anleitung-zum-galerie-plugin'
+url: '/fr/aide/guide-plugin-galerie-seatable'
+aliases:
+    - '/fr/aide/anleitung-zum-galerie-plugin'
+seo:
+    title: 'Plugin galerie: afficher images dans SeaTable'
+    description: 'Affichez vos données visuelles en albums, prévisualisez et pilotez toutes les infos – mode galerie efficace sous SeaTable.'
+
 ---
 
 Le **plug-in Galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).

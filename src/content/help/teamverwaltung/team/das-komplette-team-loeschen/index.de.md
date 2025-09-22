@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/das-komplette-team-loeschen'
+seo:
+    title: 'SeaTable: Komplettes Team mit allen Daten sicher löschen'
+    description: 'Löschen Sie als Team-Admin Ihr Team inkl. Mitglieder, Bases und Daten unwiderruflich aus SeaTable. Was passiert und was ist zu beachten?'
+
 ---
 
 Als **Team-Administrator** können Sie Ihr Team mit all seinen Mitgliedern, Bases und Daten **vollständig löschen**.

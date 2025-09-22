@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/eine-neue-gruppe-anlegen-2'
+url: '/ru/pomoshch/sozdat-novuyu-gruppu-v-seatable'
+aliases:
+    - '/ru/pomoshch/eine-neue-gruppe-anlegen-2'
+seo:
+    title: 'Создать новую группу в SeaTable: подробная инструкция'
+    description: 'Простая пошаговая инструкция по созданию групп в SeaTable: добавьте участников, задайте роли и управляйте командой легко.'
+
 ---
 
 Как администратор команды, вы можете создавать новые группы в администрации команды. Следуйте этим инструкциям:

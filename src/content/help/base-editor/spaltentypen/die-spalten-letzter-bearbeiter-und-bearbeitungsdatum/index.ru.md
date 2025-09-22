@@ -5,7 +5,13 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+url: '/ru/pomoshch/posledniy-redaktor-data-izmeneniya-seatable'
+aliases:
+    - '/ru/pomoshch/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+seo:
+    title: 'Последний редактор и дата изменения в SeaTable'
+    description: 'Системные колонки SeaTable отображают, кто и когда изменял строку таблицы — удобно для аудита, истории изменений и автоматизации работы.'
+
 ---
 
 Колонки **Последний редактор** и **Время последнего изменения** заполняются SeaTable исключительно **автоматически** и поэтому являются колонками специального типа. Они оказываются чрезвычайно полезными, если необходимо отследить, **когда** и **кем** была **отредактирована** запись.

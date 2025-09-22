@@ -5,7 +5,13 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+url: '/fr/aide/groupes-membres-administration-equipe-seatable'
+aliases:
+    - '/fr/aide/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+seo:
+    title: 'Gérer les groupes et membres dans l’admin SeaTable'
+    description: 'Définissez les groupes, attribuez des rôles et organisez vos membres : collaboration fluide et gestion d’équipe optimale sur SeaTable.'
+
 ---
 
 L'**administrateur d'équipe** a le contrôle sur quel membre de l'équipe fait partie de quel groupe. Dès qu'une personne est **membre** d'un groupe, elle a normalement **des droits de lecture et d'écriture** sur toutes les bases de ce groupe.

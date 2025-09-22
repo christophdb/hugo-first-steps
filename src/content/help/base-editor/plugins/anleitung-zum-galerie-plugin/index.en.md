@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/anleitung-zum-galerie-plugin'
+url: '/help/gallery-plugin-guide-seatable'
+aliases:
+    - '/help/anleitung-zum-galerie-plugin'
+seo:
+    title: 'Gallery plugin: display images clearly in SeaTable'
+    description: 'Present image fields as albums, preview pictures larger and see extra data from your tables with the SeaTable gallery plugin quickly.'
+
 ---
 
 The **Gallery plugin** is particularly well suited to displaying illustrated records, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).

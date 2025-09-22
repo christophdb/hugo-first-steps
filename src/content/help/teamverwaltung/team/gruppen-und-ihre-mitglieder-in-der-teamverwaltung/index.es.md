@@ -5,7 +5,13 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+url: '/es/ayuda/grupos-miembros-administracion-equipos-seatable'
+aliases:
+    - '/es/ayuda/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+seo:
+    title: 'Administre grupos y miembros en la gestión de equipos SeaTable'
+    description: 'Sepa cómo añadir miembros, cambiar roles y gestionar grupos para maximizar el trabajo en equipo y la estructura en SeaTable.'
+
 ---
 
 El **administrador del equipo** tiene el control sobre qué miembro del equipo forma parte de qué grupo. Una vez que alguien es **miembro de** un grupo, normalmente tiene **acceso de lectura y escritura** a todas las bases de ese grupo.

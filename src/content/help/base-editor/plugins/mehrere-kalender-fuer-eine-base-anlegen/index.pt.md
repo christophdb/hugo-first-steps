@@ -5,7 +5,13 @@ lastmod: '2023-08-16'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/pt/ajuda/mehrere-kalender-fuer-eine-base-anlegen'
+url: '/pt/ajuda/varios-calendarios-base-seatable'
+aliases:
+    - '/pt/ajuda/mehrere-kalender-fuer-eine-base-anlegen'
+seo:
+    title: 'Vários calendários em uma base SeaTable: como fazer'
+    description: 'Organize projetos e equipes com múltiplos calendários por tabela, visualização ou campo de data em SeaTable – fácil e eficiente.'
+
 ---
 
 Ao criar **vários calendários** numa base, é possível armazenar compromissos específicos em calendários diferentes. Por exemplo, é possível criar calendários individuais para diferentes projectos. Se trabalhar com várias pessoas numa base, cada membro da equipa pode criar calendários individuais.

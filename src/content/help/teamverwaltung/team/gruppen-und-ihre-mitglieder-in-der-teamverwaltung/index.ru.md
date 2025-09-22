@@ -5,7 +5,13 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+url: '/ru/pomoshch/upravlenie-gruppami-i-uchastnikami-seatable'
+aliases:
+    - '/ru/pomoshch/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
+seo:
+    title: 'Управление группами и участниками в SeaTable'
+    description: 'SeaTable позволяет гибко управлять группами и ролями в команде — распределяйте участников, контролируйте доступ и структуру работы.'
+
 ---
 
 **Администратор команды** имеет возможность контролировать, кто из членов команды входит в какую группу. Как только кто-то становится **членом** группы, он обычно имеет **доступ на чтение и запись** ко всем базам в этой группе.

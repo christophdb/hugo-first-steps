@@ -6,6 +6,10 @@ categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
 url: '/de/hilfe/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+seo:
+    title: 'Letzter Bearbeiter und Bearbeitungsdatum in SeaTable nutzen'
+    description: 'Die speziellen SeaTable-Spalten zeigen automatisch an, wer und wann eine Zeile zuletzt verändert hat – ideal für Historie und Tracking im Team.'
+
 ---
 
 Die Spalten **Letzter Bearbeiter** und **Zuletzt bearbeitet** werden von SeaTable ausschließlich **automatisch** gefüllt und stellen daher besondere Spaltentypen dar. Sie erweisen sich als äußerst sinnvoll, wenn Sie nachvollziehen möchten, **wann** und **von wem** ein Eintrag **zuletzt bearbeitet** wurde.

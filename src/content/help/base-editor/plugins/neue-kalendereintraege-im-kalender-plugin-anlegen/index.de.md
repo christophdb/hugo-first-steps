@@ -6,6 +6,10 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/neue-kalendereintraege-im-kalender-plugin-anlegen'
+seo:
+    title: 'Neue Kalendereinträge im SeaTable Kalender-Plugin anlegen'
+    description: 'Legen Sie Termine direkt per Klick, Doppelklick, Plus-Symbol oder durch Ziehen von Zeiträumen im Kalender-Plugin schnell an.'
+
 ---
 
 Um **neue Einträge** im Kalender hinzuzufügen, haben Sie verschiedene Möglichkeiten. Sie können das **in der zugrundeliegenden Tabelle** tun, indem Sie dort eine neue Zeile anlegen und einen Termin in die [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) eintragen, der dann auch im Kalender-Plugin angezeigt wird.

@@ -5,7 +5,13 @@ lastmod: '2025-03-07'
 categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'cdb'
-url: '/pt/ajuda/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+url: '/pt/ajuda/configurar-gmail-para-smtp-seatable'
+aliases:
+    - '/pt/ajuda/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+seo:
+    title: 'Como configurar Gmail para SMTP no SeaTable'
+    description: 'Aprenda passo a passo a integrar Gmail ao SeaTable por SMTP, usando app password ou OAuth2. Resultados seguros e integração confiável.'
+
 ---
 
 O Gmail, o popular serviço de correio eletrónico da Google, pode ser utilizado para enviar mensagens de correio eletrónico a partir do SeaTable. A autenticação da conta Google pode ser feita através de uma palavra-passe da aplicação ou através de OAuth. O OAuth é o método preferido pela Google, mas também é muito mais difícil de configurar. (A autenticação através do nome de utilizador e da palavra-passe do utilizador não é possível com o Gmail).

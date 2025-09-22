@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/es/ayuda/anleitung-zum-galerie-plugin'
+url: '/es/ayuda/guia-plugin-galeria-seatable'
+aliases:
+    - '/es/ayuda/anleitung-zum-galerie-plugin'
+seo:
+    title: 'Plugin galería: muestra imágenes en SeaTable'
+    description: 'Transforme columnas de imágenes en galerías, con vistas previas, álbumes y opción de mostrar detalles relevantes fácilmente.'
+
 ---
 
 El **plugin de galería** es especialmente adecuado para mostrar registros ilustrados, ya que se refiere principalmente al contenido de una [columna de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
