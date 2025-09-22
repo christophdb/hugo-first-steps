@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/automationen-loeschen'
+url: '/help/delete-automations-seatable'
+aliases:
+    - '/help/automationen-loeschen'
+seo:
+    title: 'Delete automations in SeaTable: steps and impact'
+    description: 'Find out how to permanently delete automations in SeaTable. Step-by-step instructions and overview of effects on various actions.'
+
 ---
 
 {{< required-version "Enterprise" >}}

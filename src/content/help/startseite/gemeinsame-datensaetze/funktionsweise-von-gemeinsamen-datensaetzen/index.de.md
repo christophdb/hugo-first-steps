@@ -6,6 +6,10 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
 url: '/de/hilfe/funktionsweise-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Funktionsweise gemeinsamer Datensätze in SeaTable einfach erklärt'
+    description: 'Gemeinsame Datensätze erleichtern Teamarbeit: Tabellenvorlagen, Synchronisation, flexible Nutzung – alle Vorteile und Tipps im Überblick.'
+
 ---
 
 Mithilfe von gemeinsamen Datensätzen ist es möglich, eine im Voraus definierte Tabellenansicht anderen Gruppen und Nutzern zur Verfügung zu stellen, sodass diese in verschiedensten Kontexten und Abteilungen auf bestimmte Daten zugreifen können. Gemeinsame Datensätze sind ein mächtiges und extrem nützliches Feature in SeaTable, da sie den Workflow in Ihrem Team erleichtern können.

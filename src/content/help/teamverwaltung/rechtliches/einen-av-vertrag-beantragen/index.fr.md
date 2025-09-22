@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/einen-av-vertrag-beantragen'
+url: '/fr/aide/demander-contrat-rgpd-seatable'
+aliases:
+    - '/fr/aide/einen-av-vertrag-beantragen'
+seo:
+    title: 'Demander un contrat de sous-traitance RGPD sur SeaTable'
+    description: 'Créez et téléchargez un contrat de sous-traitance (Art. 28 RGPD) en un clic dans SeaTable — restez conforme aux exigences légales.'
+
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}

@@ -5,7 +5,13 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/es/ayuda/spaltenhoehe-verdoppeln'
+url: '/es/ayuda/duplicar-altura-cabecera-seatable'
+aliases:
+    - '/es/ayuda/spaltenhoehe-verdoppeln'
+seo:
+    title: 'Duplicar altura de cabecera en SeaTable'
+    description: 'Aumente el alto de cabecera para leer nombres de columnas largos. Use la opción de menú para ajustar fácilmente la visualización.'
+
 ---
 
 Duplique la **altura de la cabecera de la tabla para** poder leer completamente los nombres largos de las columnas.

@@ -5,7 +5,13 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
+url: '/ru/pomoshch/osnovnye-funkcii-upravleniya-komandoj-seatable'
+aliases:
+    - '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
+seo:
+    title: 'Основные функции управления командой в SeaTable'
+    description: 'Мощная панель SeaTable: управление участниками, группами, правами, базами и подпиской — инструкции по работе с командой подробно.'
+
 ---
 
 В SeaTable ваша команда находится в центре внимания. Вы вместе работаете над своими задачами и проектами. В команде вы празднуете успехи, переживаете неудачи и развиваете свой потенциал. В этой статье вы узнаете, как управлять своей командой через **администрацию команды** и что вы можете там делать.

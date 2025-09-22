@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/pomoshch/wie-man-dateien-dauerhaft-entfernt'
+url: '/ru/pomoshch/udalit-fajly-navozhno-seatable'
+aliases:
+    - '/ru/pomoshch/wie-man-dateien-dauerhaft-entfernt'
+seo:
+    title: 'Удалить файлы из SeaTable навсегда – подробная инструкция'
+    description: 'Как полностью удалить файлы, изображения и подписи из базы SeaTable: пошагово через удаление и очистку корзины файлов.'
+
 ---
 
 **Dateien**, **Bilder** und **Signaturen**, die Sie in einer Tabelle **löschen**, sind weiterhin in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base zu finden. Um diese endgültig zu entfernen, müssen Sie die Dateien auch aus der Dateiverwaltung löschen.

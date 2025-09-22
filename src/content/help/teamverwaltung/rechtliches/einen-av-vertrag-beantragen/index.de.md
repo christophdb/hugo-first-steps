@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/einen-av-vertrag-beantragen'
+seo:
+    title: 'AV-Vertrag nach DSGVO bei SeaTable online beantragen'
+    description: 'Schließen Sie in der Teamverwaltung mit wenigen Klicks Ihren AV-Vertrag nach DSGVO ab, laden Sie ihn als PDF herunter und bleiben Sie datenschutzkonform.'
+
 ---
 
 {{< required-version "Team-Administratoren" >}}

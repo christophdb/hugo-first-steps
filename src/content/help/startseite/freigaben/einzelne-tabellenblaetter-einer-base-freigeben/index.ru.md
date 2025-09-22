@@ -5,7 +5,13 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/pomoshch/einzelne-tabellenblaetter-einer-base-freigeben'
+url: '/ru/pomoshch/otkryt-otdelnye-tablitsy-seatable'
+aliases:
+    - '/ru/pomoshch/einzelne-tabellenblaetter-einer-base-freigeben'
+seo:
+    title: 'Открыть доступ к отдельным таблицам в SeaTable'
+    description: 'В SeaTable вы можете делиться отдельными таблицами из базы с кастомными правами доступа для пользователей или групп – просто и гибко.'
+
 ---
 
 Вы хотите **поделиться** не всей базой, а **отдельными таблицами**? Вы можете сделать это с помощью **пользовательского выпуска** для определенных [пользователей]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).

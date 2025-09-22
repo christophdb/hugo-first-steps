@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/einen-av-vertrag-beantragen'
+url: '/ru/pomoshch/zaprosit-dpa-dogovor-seatable'
+aliases:
+    - '/ru/pomoshch/einen-av-vertrag-beantragen'
+seo:
+    title: 'Запросить DPA (AV-договор) для SeaTable: инструкция'
+    description: 'Оформите и скачайте договор на обработку персональных данных (GDPR, ст. 28) через панель команды SeaTable быстро и законно.'
+
 ---
 
 {{< required-version "Администраторы команд" >}}

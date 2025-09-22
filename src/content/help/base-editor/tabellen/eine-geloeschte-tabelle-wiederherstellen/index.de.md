@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
 url: '/de/hilfe/eine-geloeschte-tabelle-wiederherstellen'
+seo:
+    title: 'Gelöschte Tabelle in SeaTable sicher wiederherstellen'
+    description: 'Tabellen, Spalten und Zeilen können Sie in SeaTable einfach über den Papierkorb wiederherstellen – selbst nach versehentlichem Löschen.'
+
 ---
 
 In SeaTable brauchen Sie keine Angst vor dem Verlust Ihrer Daten zu haben. Selbst versehentlich gelöschte Tabellen – und sogar einzelne Spalten und Zeilen – können Sie im Nachhinein einfach über den **Papierkorb** in den **Base-Optionen** wiederherstellen.

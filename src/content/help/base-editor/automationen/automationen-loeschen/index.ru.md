@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/automationen-loeschen'
+url: '/ru/pomoshch/udalit-avtomatizatsii-seatable'
+aliases:
+    - '/ru/pomoshch/automationen-loeschen'
+seo:
+    title: 'Удаление автоматизаций в SeaTable: пошаговая инструкция'
+    description: 'Научитесь навсегда удалять автоматизации в SeaTable. Подробное описание последствий для действий и все этапы безопасного удаления.'
+
 ---
 
 {{< required-version "Предприятие" >}}

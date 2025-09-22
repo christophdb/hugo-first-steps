@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/anzahl-der-fixierten-spalten-anpassen'
+url: '/help/adjust-frozen-columns-seatable'
+aliases:
+    - '/help/anzahl-der-fixierten-spalten-anpassen'
+seo:
+    title: 'Adjust number of frozen columns in SeaTable easily'
+    description: 'Quickly freeze as many table columns as you need in SeaTable for better overview and comparison. Drag or use the column menu.'
+
 ---
 
 If you have gradually filled your tables with a large number of new columns, at a certain point it will no longer be possible to have all table columns in view without having to scroll to the right. SeaTable therefore allows you to **fix one or more columns**, which will then remain in their position regardless of scrolling.

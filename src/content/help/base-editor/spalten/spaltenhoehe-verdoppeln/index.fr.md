@@ -5,7 +5,13 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/fr/aide/spaltenhoehe-verdoppeln'
+url: '/fr/aide/doubler-hauteur-entete-seatable'
+aliases:
+    - '/fr/aide/spaltenhoehe-verdoppeln'
+seo:
+    title: 'Doubler la hauteur d en-tête dans SeaTable'
+    description: 'Affichez des noms de colonne longs sans couper : doublez la hauteur de l’en-tête en un clic avec les options d’affichage.'
+
 ---
 
 Doublez la **hauteur de l'en-tête du tableau** pour pouvoir lire entièrement les longs noms de colonne.

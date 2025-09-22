@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
 url: '/de/hilfe/spaltenhoehe-verdoppeln'
+seo:
+    title: 'Tabellenkopfhöhe in SeaTable verdoppeln'
+    description: 'Verdoppeln Sie die Höhe des Tabellenkopfes, um lange Spaltennamen vollständig sichtbar zu machen. Einfach per Einstellungsmenü.'
+
 ---
 
 Verdoppeln Sie die **Höhe des Tabellenkopfes**, um lange Spaltennamen komplett lesen zu können.

@@ -5,7 +5,13 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/pt/ajuda/eine-geloeschte-tabelle-wiederherstellen'
+url: '/pt/ajuda/restaurar-tabela-excluida-seatable'
+aliases:
+    - '/pt/ajuda/eine-geloeschte-tabelle-wiederherstellen'
+seo:
+    title: 'Como restaurar uma tabela apagada no SeaTable'
+    description: 'No SeaTable, recupere facilmente tabelas, colunas e linhas excluídas pelo recurso da lixeira. Erros são reversíveis rapidamente.'
+
 ---
 
 No SeaTable, não tem de se preocupar em perder os seus dados. Mesmo tabelas eliminadas acidentalmente - e mesmo colunas e linhas individuais - podem ser facilmente restauradas posteriormente através do **caixote da reciclagem** nas **opções de base**.

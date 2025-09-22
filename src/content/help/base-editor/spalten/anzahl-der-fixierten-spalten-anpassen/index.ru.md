@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/anzahl-der-fixierten-spalten-anpassen'
+url: '/ru/pomoshch/nastroit-kolichestvo-stolbcov-seatable'
+aliases:
+    - '/ru/pomoshch/anzahl-der-fixierten-spalten-anpassen'
+seo:
+    title: 'Настроить число закрепленных столбцов в SeaTable'
+    description: 'В SeaTable можно закрепить нужное количество столбцов для лучшего сравнения и обзора — настройка простым перетаскиванием.'
+
 ---
 
 Если вы постепенно заполняли свои таблицы большим количеством новых колонок, то в определенный момент уже невозможно будет следить за всеми колонками таблицы без прокрутки вправо. Поэтому SeaTable позволяет **зафиксировать одну или несколько колонок**, которые затем остаются в своем положении независимо от прокрутки.

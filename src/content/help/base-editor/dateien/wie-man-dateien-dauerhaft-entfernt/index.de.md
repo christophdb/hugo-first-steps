@@ -6,6 +6,10 @@ categories:
     - 'dateien-und-bilder'
 author: 'vge'
 url: '/de/hilfe/wie-man-dateien-dauerhaft-entfernt'
+seo:
+    title: 'Dateien dauerhaft aus SeaTable löschen – Anleitung'
+    description: 'Entfernen Sie Dateien, Bilder und Signaturen endgültig aus Ihrer Base: Anleitung für Dateiverwaltung und das Leeren des Papierkorbs.'
+
 ---
 
 **Dateien**, **Bilder** und **Signaturen**, die Sie in einer Tabelle **löschen**, sind weiterhin in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base zu finden. Um diese endgültig zu entfernen, müssen Sie die Dateien auch aus der Dateiverwaltung löschen.

@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/es/ayuda/wie-man-dateien-dauerhaft-entfernt'
+url: '/es/ayuda/eliminar-archivos-permanente-seatable'
+aliases:
+    - '/es/ayuda/wie-man-dateien-dauerhaft-entfernt'
+seo:
+    title: 'Eliminar archivos de SeaTable para siempre – guía rápida'
+    description: 'Descubra cómo borrar archivos de la base de datos para siempre: gestión y vaciado de papelera desde la administración de archivos.'
+
 ---
 
 **Los** archivos, **imágenes** y **firmas** que **elimine** en una tabla pueden seguir encontrándose en el gestor de [archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la Base. Para eliminarlos de forma permanente, también debes borrar los archivos del gestor de archivos.

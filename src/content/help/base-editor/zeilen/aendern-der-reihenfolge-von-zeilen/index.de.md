@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/aendern-der-reihenfolge-von-zeilen'
+seo:
+    title: 'Zeilenreihenfolge in SeaTable per Drag-and-Drop anpassen'
+    description: 'Mit Drag-and-Drop verschieben Sie einzelne oder mehrere Zeilen flexibel, schnell und intuitiv – SeaTable passt Nummerierungen automatisch an.'
+
 ---
 
 Die Reihenfolge der Zeilen können Sie **per Drag-and-Drop** verändern. Wenn Sie Zeilen neu ordnen, passt SeaTable die Nummerierungen automatisch an.

@@ -5,7 +5,13 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-geloeschte-tabelle-wiederherstellen'
+url: '/ru/pomoshch/vosstanovit-udalennuyu-tablitsu-seatable'
+aliases:
+    - '/ru/pomoshch/eine-geloeschte-tabelle-wiederherstellen'
+seo:
+    title: 'Восстановить удалённую таблицу в SeaTable: пошагово'
+    description: 'В SeaTable можно быстро вернуть удалённую таблицу, строку или столбец через корзину — подробная инструкция по восстановлению данных.'
+
 ---
 
 В SeaTable вам не нужно беспокоиться о потере данных. Даже случайно удаленные таблицы - и даже отдельные столбцы и строки - могут быть легко восстановлены после этого через **корзину** в **базовых опциях**.

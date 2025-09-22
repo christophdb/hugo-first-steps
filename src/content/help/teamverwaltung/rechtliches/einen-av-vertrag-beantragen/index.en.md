@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/einen-av-vertrag-beantragen'
+url: '/help/request-dpa-seatable'
+aliases:
+    - '/help/einen-av-vertrag-beantragen'
+seo:
+    title: 'Request a data processing agreement (DPA) in SeaTable'
+    description: 'SeaTable lets you create and download a DPA (Art. 28 GDPR) for your team in minutes. Keep your data processing compliant.'
+
 ---
 
 {{< required-version "Team Administrators" >}}
