@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/es/ayuda/hinzufuegen-einer-spaltenbeschreibung'
+url: '/es/ayuda/anadir-descripcion-columna-seatable'
+aliases:
+    - '/es/ayuda/hinzufuegen-einer-spaltenbeschreibung'
+seo:
+    title: 'Añadir descripción a columna en SeaTable'
+    description: 'Agregue notas, instrucciones o aclaraciones visibles al colocar el cursor en el icono de información de cualquier columna.'
+
 ---
 
 Para almacenar información, instrucciones o explicaciones sobre una columna, puede añadir una descripción a las columnas de su tabla en SeaTable. Aquí puede averiguar cómo hacerlo:

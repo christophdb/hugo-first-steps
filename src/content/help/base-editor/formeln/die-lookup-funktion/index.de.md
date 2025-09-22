@@ -6,6 +6,10 @@ categories:
     - 'verknuepfungen'
 author: 'vge'
 url: '/de/hilfe/die-lookup-funktion'
+seo:
+    title: 'Lookup-Spalte in SeaTable: Werte verknüpfter Tabellen holen'
+    description: 'Mit der Lookup-Spalte zeigen Sie Daten aus verknüpften Tabellen direkt an, vermeiden Doppeleingaben und verknüpfen Informationen effizient.'
+
 ---
 
 Die Lookup-Funktion ermöglicht es Ihnen, zusätzliche Werte aus einer bereits verknüpften Tabelle in Ihrer aktuellen Tabelle darzustellen. So wird verhindert, dass Sie die Daten doppelt erfassen müssen, und Sie können gleichzeitig die Daten miteinander in Beziehung setzen. In Excel kennt man diese Funktion als _VLOOKUP_ oder _SVERWEIS_.

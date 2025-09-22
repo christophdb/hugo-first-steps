@@ -5,7 +5,13 @@ lastmod: '2022-12-29'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/pomoshch/welche-import-formate-unterstuetzt-seatable'
+url: '/ru/pomoshch/kakie-formaty-importa-podderzhivaet-seatable'
+aliases:
+    - '/ru/pomoshch/welche-import-formate-unterstuetzt-seatable'
+seo:
+    title: 'Какие форматы импорта поддерживает SeaTable?'
+    description: 'SeaTable принимает данные из Excel, CSV, Google Sheets, Access и DTABLE–идеально для работы со всеми распространенными источниками.'
+
 ---
 
 SeaTable предлагает вам широкий выбор вариантов сбора данных: вы можете вводить данные в таблицы вручную, а также собирать данные через [веб-форму]({{< relref "help/base-editor/webformulare" >}}) или с помощью автоматики.

@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/fr/aide/wie-man-den-spaltentyp-anpasst'
+url: '/fr/aide/modifier-type-colonne-seatable'
+aliases:
+    - '/fr/aide/wie-man-den-spaltentyp-anpasst'
+seo:
+    title: 'Modifier le type de colonne SeaTable simplement'
+    description: 'Changez le type de colonne via le menu SeaTable. Vous êtes alerté si une conversion risque d entraîner une perte de données avant l enregistrement.'
+
 ---
 
 Selon les **valeurs** que vous souhaitez saisir dans SeaTable, vous pouvez leur attribuer différents **types de colonnes**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) un aperçu des 25 types de colonnes de SeaTable.

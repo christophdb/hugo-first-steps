@@ -5,7 +5,13 @@ lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/pt/ajuda/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+url: '/pt/ajuda/como-vincular-tabelas-seatable'
+aliases:
+    - '/pt/ajuda/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+seo:
+    title: 'Como vincular tabelas no SeaTable de forma eficiente'
+    description: 'Conecte dados entre diferentes tabelas em SeaTable usando colunas de ligação – veja como criar relações e facilitar a análise.'
+
 ---
 
 SeaTable permite-lhe ligar informações de diferentes tabelas. Para tal, utilizar o tipo de coluna **Link para outras entradas**.

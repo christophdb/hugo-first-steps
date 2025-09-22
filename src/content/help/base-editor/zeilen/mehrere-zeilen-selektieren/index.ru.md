@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'cdb'
-url: '/ru/pomoshch/mehrere-zeilen-selektieren'
+url: '/ru/pomoshch/vydelit-neskolko-strok-seatable'
+aliases:
+    - '/ru/pomoshch/mehrere-zeilen-selektieren'
+seo:
+    title: 'Выделить несколько строк в SeaTable просто и быстро'
+    description: 'В SeaTable можно выделять строки чекбоксами, Shift-кликом или через заголовок – удобно для массовых действий и работы с данными.'
+
 ---
 
 Конечно, бывает так, что вы хотите [скопировать]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) для редактирования **несколько строк** одновременно. Чтобы выполнить эти действия, необходимо предварительно **выделить** нужные строки.

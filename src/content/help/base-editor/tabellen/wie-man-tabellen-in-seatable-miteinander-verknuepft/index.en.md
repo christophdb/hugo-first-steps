@@ -5,7 +5,13 @@ lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/help/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+url: '/help/how-to-link-tables-seatable'
+aliases:
+    - '/help/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+seo:
+    title: 'How to link tables in SeaTable for powerful relations'
+    description: 'Link tables in SeaTable for cross-references and data integration. Step-by-step guide to connect and manage related tables.'
+
 ---
 
 SeaTable allows you to link information from different tables. To do this, use the **Link to other entries** column type.

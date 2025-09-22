@@ -5,7 +5,13 @@ lastmod: '2023-04-06'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/pomoshch/die-lookup-funktion'
+url: '/ru/pomoshch/lookup-kolonka-seatable'
+aliases:
+    - '/ru/pomoshch/die-lookup-funktion'
+seo:
+    title: 'Lookup-колонка: показать данные из связанных таблиц'
+    description: 'Колонка lookup в SeaTable позволяет отображать значения из связанных таблиц, избавляет от дублей и ускоряет построение связей.'
+
 ---
 
 Функция поиска позволяет отображать дополнительные значения из уже связанной таблицы в текущей таблице. Это позволит вам не вводить данные дважды, и в то же время вы сможете соотнести их друг с другом. В Excel эта функция известна как _VLOOKUP_ или _SVERWEIS_.

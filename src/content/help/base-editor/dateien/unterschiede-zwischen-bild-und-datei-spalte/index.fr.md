@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/fr/aide/unterschiede-zwischen-bild-und-datei-spalte'
+url: '/fr/aide/difference-colonne-image-fichier-seatable'
+aliases:
+    - '/fr/aide/unterschiede-zwischen-bild-und-datei-spalte'
+seo:
+    title: 'Différence : colonne image ou fichier dans SeaTable'
+    description: 'La colonne « image » accepte uniquement des photos (BMP, GIF, JPG, PNG, SVG…), la colonne « fichier » prend tout type de données.'
+
 ---
 
 Pour la saisie de **fichiers** et **d'images**, SeaTable propose deux types de colonnes du même nom. La [colonne Image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) est une [colonne de fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) limitée, car elle n'accepte que des formats de fichiers image spécifiques. Cette restriction peut être très pratique dans certains cas d'utilisation.

@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/pt/ajuda/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+url: '/pt/ajuda/recuperar-tabelas-linhas-colunas-lixeira-seatable'
+aliases:
+    - '/pt/ajuda/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+seo:
+    title: 'Recuperar tabelas, linhas, colunas apagadas no SeaTable'
+    description: 'Traga de volta para sua base qualquer tabela, linha ou coluna excluída com o recurso da lixeira. Segurança garantida, passo a passo.'
+
 ---
 
 Pode encontrar e restaurar tabelas, filas e colunas eliminadas em qualquer altura no caixote da reciclagem da respectiva base. Não é preciso ter medo de perder dados, porque dentro das bases, tabelas, linhas e colunas apagadas permanecem disponíveis indefinidamente.

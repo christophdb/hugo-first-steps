@@ -6,6 +6,10 @@ categories:
     - 'dateien-und-bilder'
 author: 'vge'
 url: '/de/hilfe/unterschiede-zwischen-bild-und-datei-spalte'
+seo:
+    title: 'Unterschied: Bild- und Datei-Spalte in SeaTable'
+    description: 'Bildspalte nimmt nur BMP, GIF, ICO, JPG, PNG, SVG, TIF an und zeigt Vorschaubilder, Datei-Spalte erlaubt beliebige Dateiformate.'
+
 ---
 
 Für die Erfassung von **Dateien** und **Bildern** stehen Ihnen in SeaTable die zwei gleichnamigen Spaltentypen zur Verfügung. Die [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ist dabei eine eingeschränkte [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), da sie nur spezielle Bild-Dateiformate akzeptiert. Diese Einschränkung kann in gewissen Anwendungsfällen sehr praktisch sein.

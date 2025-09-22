@@ -5,7 +5,13 @@ lastmod: '2023-04-06'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/fr/aide/die-lookup-funktion'
+url: '/fr/aide/colonne-lookup-seatable'
+aliases:
+    - '/fr/aide/die-lookup-funktion'
+seo:
+    title: 'Colonne lookup : valeurs multi-tables dans SeaTable'
+    description: 'Affichez aisément des données provenant de tables liées avec la colonne lookup SeaTable – zéro redondance, tout est connecté.'
+
 ---
 
 La fonction Lookup vous permet d'afficher des valeurs supplémentaires d'un tableau déjà liée dans votre tableau actuelle. Cela vous évite de devoir saisir les données deux fois et vous permet en même temps de mettre les données en relation les unes avec les autres. Dans Excel, cette fonction est connue sous le nom de _VLOOKUP_ ou _SVERWEIS_.

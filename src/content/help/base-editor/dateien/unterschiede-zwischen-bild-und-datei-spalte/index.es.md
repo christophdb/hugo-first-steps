@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/es/ayuda/unterschiede-zwischen-bild-und-datei-spalte'
+url: '/es/ayuda/diferencia-columna-imagen-archivo-seatable'
+aliases:
+    - '/es/ayuda/unterschiede-zwischen-bild-und-datei-spalte'
+seo:
+    title: 'Diferencia entre columna imagen y archivo en SeaTable'
+    description: 'La columna de imagen admite solo formatos gráficos y previsualización, mientras que la de archivo permite cualquier tipo de dato.'
+
 ---
 
 En SeaTable existen dos tipos de columnas con el mismo nombre para registrar **archivos** e **imágenes**. La columna de [imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) es una [columna de archivos]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) restringida porque sólo acepta formatos especiales de archivos de imágenes. Esta restricción puede resultar muy práctica en determinadas aplicaciones.

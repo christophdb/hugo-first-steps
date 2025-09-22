@@ -6,6 +6,10 @@ categories:
     - 'import-von-daten'
 author: 'nsc2'
 url: '/de/hilfe/welche-import-formate-unterstuetzt-seatable'
+seo:
+    title: 'Diese Import-Formate unterstützt SeaTable'
+    description: 'Importieren Sie Daten aus Excel, CSV, Google Sheets, Microsoft Access oder im DTABLE-Format in SeaTable für maximale Flexibilität.'
+
 ---
 
 SeaTable bietet Ihnen vielfältige Möglichkeiten zur Datenerfassung: Sie können manuell Daten in Tabellen eingeben und Daten per [Webformular]({{< relref "help/base-editor/webformulare" >}}) oder mithilfe von Automationen erfassen lassen.

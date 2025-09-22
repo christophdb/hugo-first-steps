@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/hinzufuegen-einer-spaltenbeschreibung'
+seo:
+    title: 'Spaltenbeschreibung zu SeaTable-Spalte hinzufügen'
+    description: 'Fügen Sie Erklärungen, Infos oder Hinweise als Beschreibung jeder Spalte hinzu – einfach bearbeiten und per Icon jederzeit einsehbar!'
+
 ---
 
 Um Informationen, Anweisungen oder Erklärungen zu einer Spalte zu speichern, können Sie Ihren Tabellenspalten in SeaTable eine Beschreibung hinzufügen. Hier erfahren Sie, wie Sie das machen:

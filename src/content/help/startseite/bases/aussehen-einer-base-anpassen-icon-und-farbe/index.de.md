@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/aussehen-einer-base-anpassen-icon-und-farbe'
+seo:
+    title: 'Base-Icon & Farbe in SeaTable individuell einstellen'
+    description: 'Wählen Sie für jede Base ein eigenes Icon und eine Farbe, um Ihre Übersicht zu verbessern – direkt im Bearbeitungsmenü anpassbar.'
+
 ---
 
 Um Ihnen die Übersicht über Ihre Bases in SeaTable zu erleichtern, haben Sie beim Erstellen einer Base die Möglichkeit, ihr eine Farbe und ein Icon zuzuweisen. Sowohl Farbe als auch Icon können Sie im Nachhinein noch ändern. Hier erfahren Sie, wie Sie das Aussehen einer Base anpassen können:

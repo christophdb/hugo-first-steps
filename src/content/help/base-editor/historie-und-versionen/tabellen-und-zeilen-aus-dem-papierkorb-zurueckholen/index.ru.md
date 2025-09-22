@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/pomoshch/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+url: '/ru/pomoshch/vosstanovit-tablitsy-stroki-stolbtsy-seatable'
+aliases:
+    - '/ru/pomoshch/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+seo:
+    title: 'Восстановить таблицы, строки и столбцы из корзины SeaTable'
+    description: 'В SeaTable можно вернуть любые удалённые таблицы, строки и столбцы из корзины — подробная инструкция, ничего не теряется.'
+
 ---
 
 Вы можете в любое время найти и восстановить удаленные таблицы, строки и столбцы в корзине соответствующей базы. Вам не нужно бояться потери данных, поскольку в базах удаленные таблицы, строки и столбцы остаются доступными неограниченное время.

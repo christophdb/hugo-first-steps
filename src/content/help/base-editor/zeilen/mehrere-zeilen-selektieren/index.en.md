@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'cdb'
-url: '/help/mehrere-zeilen-selektieren'
+url: '/help/select-multiple-rows-seatable'
+aliases:
+    - '/help/mehrere-zeilen-selektieren'
+seo:
+    title: 'Select multiple rows in SeaTable quickly and easily'
+    description: 'Use checkboxes, Shift-click range or header select to mark multiple rows for fast actions and bulk processing in SeaTable tables.'
+
 ---
 
 It surely happens that you want to [copy]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) **several rows** at the same time. To perform these actions, you must **select** the desired rows beforehand.

@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'cdb'
-url: '/pt/ajuda/mehrere-zeilen-selektieren'
+url: '/pt/ajuda/selecionar-varias-linhas-seatable'
+aliases:
+    - '/pt/ajuda/mehrere-zeilen-selektieren'
+seo:
+    title: 'Selecionar várias linhas no SeaTable: simples e prático'
+    description: 'Selecione múltiplas linhas rapidamente com caixas, Shift ou botão de seleção do cabeçalho em tabelas SeaTable com muita agilidade.'
+
 ---
 
 Acontece certamente que quer [copiar]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) **várias filas** para edição ao mesmo tempo. Para realizar estas acções, deve **seleccionar** previamente as linhas desejadas.
