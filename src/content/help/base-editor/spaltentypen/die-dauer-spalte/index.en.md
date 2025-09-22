@@ -9,8 +9,8 @@ url: '/help/duration-column-seatable'
 aliases:
     - '/help/die-dauer-spalte'
 seo:
-    title: 'Duration column in SeaTable: track time precisely'
-    description: "Use SeaTable's duration column to record event times down to minutes or seconds. Perfect for working hours and analytics.'
+    title: Duration column in SeaTable: track time precisely'
+    description: 'Use SeaTables duration column to record event times down to minutes or seconds. Perfect for working hours and analytics.'
 
 ---
 
