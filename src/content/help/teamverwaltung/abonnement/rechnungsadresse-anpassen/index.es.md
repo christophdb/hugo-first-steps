@@ -22,6 +22,6 @@ url: '/es/ayuda/rechnungsadresse-anpassen'
 
 {{< faq "¿Cuándo es válida la dirección de facturación?" >}}Si cambia su dirección de facturación, todas las facturas futuras se crearán con su nueva dirección de facturación.
 {{< /faq >}}
-{{< faq "¿Puede modificarse la dirección de facturación con carácter retroactivo?" >}}Desgraciadamente, no. Lamentablemente, no es posible modificar la dirección de facturación de las facturas ya generadas. En casos excepcionales, podremos emitirle una nueva factura, pero en cualquier caso le cobraremos 10 euros en concepto de gastos de tramitación. Envíenos la correspondiente [solicitud de asistencia](https://account.seatable.io/support) con el número de factura y las solicitudes de cambio exactas.
+{{< faq "¿Puede modificarse la dirección de facturación con carácter retroactivo?" >}}Desgraciadamente, no. Lamentablemente, no es posible modificar la dirección de facturación de las facturas ya generadas. En casos excepcionales, podremos emitirle una nueva factura, pero en cualquier caso le cobraremos 10 euros en concepto de gastos de tramitación. Envíenos la correspondiente [solicitud de asistencia](https://account.seatable.com/support) con el número de factura y las solicitudes de cambio exactas.
 
 {{< /faq >}}

@@ -220,13 +220,13 @@ sections:
             a: 'Com nossa assinatura Free, você pode usar o SeaTable Cloud permanentemente com até 25 usuários sem custo. Ao se registrar, você ativa essa assinatura.<br><br>Se os limites ou recursos da assinatura Free forem insuficientes, você pode atualizar a qualquer momento para os planos pagos Plus ou Enterprise com limites maiores e funcionalidades estendidas.'
 
           - q: Posso testar os recursos do Enterprise?
-            a: Podemos atualizar sua assinatura Free ou Plus para Enterprise por tempo limitado sem custo. [Envie uma solicitação via gerenciamento de equipe](https://account.seatable.io/).
+            a: Podemos atualizar sua assinatura Free ou Plus para Enterprise por tempo limitado sem custo. [Envie uma solicitação via gerenciamento de equipe](https://account.seatable.com/).
 
           - q: O que é um time e o que é um usuário?
             a: No SeaTable Cloud, você colabora em times. Cada membro tem uma conta de usuário (um time pode ter apenas um membro).<br><br>Ao se registrar, um time é criado onde você é o administrador. Você pode adicionar mais usuários e designar outros administradores.<br><br>Usuários são identificados por e-mail e só podem estar em um time.
 
           - q: Posso alterar o número de usuários no meu time?
-            a: 'Você pode ajustar o número de usuários a qualquer momento.<br><br>Nos planos Free, Plus e Enterprise, faça isso no [gerenciamento de time](https://account.seatable.io/). Para SeaTable Dedicated, contate seu representante.<br><br>O plano Free limita a 25 usuários. Plus, Enterprise e Dedicated não têm limite.'
+            a: 'Você pode ajustar o número de usuários a qualquer momento.<br><br>Nos planos Free, Plus e Enterprise, faça isso no [gerenciamento de time](https://account.seatable.com/). Para SeaTable Dedicated, contate seu representante.<br><br>O plano Free limita a 25 usuários. Plus, Enterprise e Dedicated não têm limite.'
 
           - q: Posso combinar diferentes assinaturas no meu time?
             a: 'Não é possível combinar assinaturas em um mesmo time.<br><br>Mas você pode distribuir usuários em vários times com assinaturas diferentes.'
@@ -235,7 +235,7 @@ sections:
             a: 'Não é possível combinar períodos de cobrança. Um time é cobrado totalmente mensal ou anualmente.<br><br>O pagamento anual oferece cerca de 20% de desconto.'
 
           - q: Como cancelo uma assinatura Plus ou Enterprise?
-            a: 'Cancele pelo [gerenciamento de time](https://account.seatable.io/). Você poderá usar os recursos até o fim do período.<br><br>Depois, voltará ao plano Free, que pode limitar seu acesso a somente leitura.'
+            a: 'Cancele pelo [gerenciamento de time](https://account.seatable.com/). Você poderá usar os recursos até o fim do período.<br><br>Depois, voltará ao plano Free, que pode limitar seu acesso a somente leitura.'
 
           - q: 'O que acontece se eu atingir os limites da minha assinatura?'
             a: 'Te avisaremos. Você ainda poderá acessar suas bases mas não adicionar linhas ou arquivos.'
@@ -244,11 +244,11 @@ sections:
             a: 'Cartões, Apple Pay e Google Pay. Clientes Enterprise com pagamento anual e 10+ usuários podem pagar por transferência.'
 
           - q: 'Como altero o endereço de cobrança?'
-            a: 'Atualize a qualquer momento no [gerenciamento de time](https://account.seatable.io/).<br><br>Faturas emitidas não podem ser alteradas.'
+            a: 'Atualize a qualquer momento no [gerenciamento de time](https://account.seatable.com/).<br><br>Faturas emitidas não podem ser alteradas.'
 
           - q: 'E sobre privacidade e segurança?'
             a: 'São nossa prioridade máxima. Seus dados são processados exclusivamente em data centers alemães com monitoramento contínuo. Mais detalhes em [Privacidade]({{< relref "pages/legal/data-privacy" >}}) e [Segurança]({{< relref "pages/legal/security" >}}).'
 
           - q: 'Como excluo minha conta?'
-            a: 'O administrador pode excluir usuários ou times inteiros pelo [gerenciamento](https://account.seatable.io). Se for o único usuário, você é o administrador.<br><br>Lamentamos sua saída. [Compartilhe seus motivos]({{< relref "pages/contact" >}}).<br><br>Os [Termos de Serviço]({{< relref "pages/legal/terms-of-service" >}}) detalham o tratamento de dados após exclusão.'
+            a: 'O administrador pode excluir usuários ou times inteiros pelo [gerenciamento](https://account.seatable.com). Se for o único usuário, você é o administrador.<br><br>Lamentamos sua saída. [Compartilhe seus motivos]({{< relref "pages/contact" >}}).<br><br>Os [Termos de Serviço]({{< relref "pages/legal/terms-of-service" >}}) detalham o tratamento de dados após exclusão.'
 ---

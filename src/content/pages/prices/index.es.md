@@ -210,7 +210,7 @@ sections:
           - q: ¿Para qué periodos de licencia puedo adquirir una licencia para SeaTable Server?
             a: La duración mínima de una licencia de software para SeaTable Server es de 1 año. También puede adquirir licencias con plazos de 2 y 3 años. Ahorra un 5% o un 10% en licencias con plazos de 2 o 3 años.<br><br>Por lo general, el canon de licencia se factura y vence al principio del periodo de licencia por la totalidad del plazo.<br><br>Para licencias con un plazo más largo, póngase en contacto con [nuestro departamento de ventas]({{< relref "pages/contact" >}}) e indique el plazo deseado y el número de usuarios. Recibirá una oferta por correo electrónico.
           - q: ¿Cómo activo la licencia para SeaTable Server?
-            a: Debe tomar medidas para activar la licencia. Inicie sesión en su instancia de SeaTable Server como usuario con derechos de administrador y acceda a la administración del sistema. Para ello, haga clic en su avatar en la esquina superior derecha de la página de inicio. Puede cargar el archivo de licencia en el área de información de la administración del sistema. El periodo de validez de la licencia se mostrará inmediatamente en el área de información.<br><br>Si la interfaz web de su instancia de SeaTable Server ya no es accesible, debe guardar el archivo de licencia en el sistema de archivos del host. Encontrará más información en el [Manual de administración de SeaTable](https://admin.seatable.io).
+            a: Debe tomar medidas para activar la licencia. Inicie sesión en su instancia de SeaTable Server como usuario con derechos de administrador y acceda a la administración del sistema. Para ello, haga clic en su avatar en la esquina superior derecha de la página de inicio. Puede cargar el archivo de licencia en el área de información de la administración del sistema. El periodo de validez de la licencia se mostrará inmediatamente en el área de información.<br><br>Si la interfaz web de su instancia de SeaTable Server ya no es accesible, debe guardar el archivo de licencia en el sistema de archivos del host. Encontrará más información en el [Manual de administración de SeaTable](https://admin.seatable.com).
           - q: ¿Qué derechos me otorga la licencia del software SeaTable Server?
             a: Una licencia de software para SeaTable es la autorización para que el licenciatario utilice SeaTable Server. Los derechos de uso otorgados por la licencia y otros derechos se pueden encontrar en el [EULA de SeaTable Server Enterprise Edition]({{< relref "pages/legal/eula" >}}).
           - q: ¿Es transferible una licencia?
@@ -218,7 +218,7 @@ sections:
           - q: ¿Puedo adquirir también una licencia para SeaTable Server a través de un distribuidor?
             a: Sólo puede adquirir licencias de SeaTable Server directamente de SeaTable GmbH.
           - q: ¿Cuáles son los requisitos mínimos para utilizar SeaTable Server?
-            a: Consulte el [Manual de administración de SeaTable](https://admin.seatable.io) para todas las cuestiones técnicas.
+            a: Consulte el [Manual de administración de SeaTable](https://admin.seatable.com) para todas las cuestiones técnicas.
 
     - name: faq
       weight: 20
@@ -229,13 +229,13 @@ sections:
             a: 'Con nuestra suscripción Free puedes usar SeaTable Cloud permanentemente con hasta 25 usuarios sin costo. Al registrarte, activas esta suscripción.<br><br>Si los límites o funciones de la suscripción Free son insuficientes, puedes actualizar en cualquier momento a la suscripción de pago Plus o Enterprise con mayores límites y funciones extendidas.'
 
           - q: ¿Puedo probar las funciones Enterprise?
-            a: Podemos actualizar tu suscripción Free o Plus a Enterprise por tiempo limitado sin costo. [Envía una solicitud a través de la administración de equipo](https://account.seatable.io/).
+            a: Podemos actualizar tu suscripción Free o Plus a Enterprise por tiempo limitado sin costo. [Envía una solicitud a través de la administración de equipo](https://account.seatable.com/).
 
           - q: ¿Qué es un equipo y qué es un usuario?
             a: En SeaTable Cloud colaboras en equipos. Cada miembro tiene una cuenta de usuario (un equipo puede tener solo un miembro).<br><br>Al registrarte se crea un equipo donde eres el administrador. Puedes agregar más usuarios y asignar otros administradores.<br><br>Los usuarios se identifican por email y solo pueden estar en un equipo.
 
           - q: ¿Puedo cambiar el número de usuarios en mi equipo?
-            a: 'Puedes ajustar el número de usuarios en cualquier momento.<br><br>En los planes Free, Plus y Enterprise hazlo desde la [administración de equipo](https://account.seatable.io/). Para SeaTable Dedicated contacta a tu representante.<br><br>El plan Free limita a 25 usuarios. Plus, Enterprise y Dedicated no tienen límite.'
+            a: 'Puedes ajustar el número de usuarios en cualquier momento.<br><br>En los planes Free, Plus y Enterprise hazlo desde la [administración de equipo](https://account.seatable.com/). Para SeaTable Dedicated contacta a tu representante.<br><br>El plan Free limita a 25 usuarios. Plus, Enterprise y Dedicated no tienen límite.'
 
           - q: ¿Puedo combinar diferentes suscripciones en mi equipo?
             a: 'No es posible combinar suscripciones en un mismo equipo.<br><br>Pero puedes distribuir usuarios en varios equipos con diferentes suscripciones.'
@@ -244,7 +244,7 @@ sections:
             a: 'No se pueden combinar períodos de facturación. Un equipo se factura completamente mensual o anual.<br><br>El pago anual ofrece un 20% de descuento.'
 
           - q: ¿Cómo cancelo una suscripción Plus o Enterprise?
-            a: 'Cancela desde la [administración de equipo](https://account.seatable.io/). Podrás usar las funciones hasta el final del período.<br><br>Luego volverás al plan Free, que podría limitar tu acceso a solo lectura.'
+            a: 'Cancela desde la [administración de equipo](https://account.seatable.com/). Podrás usar las funciones hasta el final del período.<br><br>Luego volverás al plan Free, que podría limitar tu acceso a solo lectura.'
 
           - q: '¿Qué pasa si alcanzo los límites de mi suscripción?'
             a: 'Te notificaremos. Podrás acceder a tus bases pero no añadir filas ni archivos.'
@@ -253,11 +253,11 @@ sections:
             a: 'Tarjetas, Apple Pay y Google Pay. Clientes Enterprise con pago anual y 10+ usuarios pueden pagar por transferencia.'
 
           - q: '¿Cómo cambio la dirección de facturación?'
-            a: 'Ajústala en cualquier momento desde la [administración de equipo](https://account.seatable.io/).<br><br>No se pueden modificar facturas emitidas.'
+            a: 'Ajústala en cualquier momento desde la [administración de equipo](https://account.seatable.com/).<br><br>No se pueden modificar facturas emitidas.'
 
           - q: '¿Qué hay sobre privacidad y seguridad?'
             a: 'Son prioridad absoluta. Tus datos se procesan exclusivamente en centros de datos alemanes con monitoreo continuo. Más detalles en [Privacidad]({{< relref "pages/legal/data-privacy" >}}) y [Seguridad]({{< relref "pages/legal/security" >}}).'
 
           - q: '¿Cómo elimino mi cuenta?'
-            a: 'El administrador puede eliminar usuarios o equipos completos desde la [administración](https://account.seatable.io). Si eres el único usuario, eres administrador.<br><br>Lamentamos que dejes SeaTable. [Comparte tus razones]({{< relref "pages/contact" >}}).<br><br>Los [Términos de Servicio]({{< relref "pages/legal/terms-of-service" >}}) detallan el tratamiento de datos tras la eliminación.'
+            a: 'El administrador puede eliminar usuarios o equipos completos desde la [administración](https://account.seatable.com). Si eres el único usuario, eres administrador.<br><br>Lamentamos que dejes SeaTable. [Comparte tus razones]({{< relref "pages/contact" >}}).<br><br>Los [Términos de Servicio]({{< relref "pages/legal/terms-of-service" >}}) detallan el tratamiento de datos tras la eliminación.'
 ---

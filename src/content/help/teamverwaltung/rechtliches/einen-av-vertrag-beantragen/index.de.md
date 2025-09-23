@@ -9,7 +9,6 @@ url: '/de/hilfe/einen-av-vertrag-beantragen'
 seo:
     title: 'AV-Vertrag nach DSGVO bei SeaTable online beantragen'
     description: 'Schließen Sie in der Teamverwaltung mit wenigen Klicks Ihren AV-Vertrag nach DSGVO ab, laden Sie ihn als PDF herunter und bleiben Sie datenschutzkonform.'
-
 ---
 
 {{< required-version "Team-Administratoren" >}}
@@ -20,7 +19,7 @@ In der **Teamverwaltung** haben Sie die Möglichkeit, Ihren persönlichen **Auft
 
 ## So können Sie einen AV-Vertrag beantragen
 
-1. Wechseln Sie in die [Teamverwaltung](https://account.seatable.io).
+1. Wechseln Sie in die [Teamverwaltung](https://account.seatable.com).
 2. Gehen Sie unter **Navigation** auf **Rechtliches**.
 3. Klicken Sie auf **Auftragsverarbeitungs(AV)-Vertrag erstellen**.
 4. Rechts öffnet sich ein Panel. Geben Sie in die Zeile **Auftraggeber inkl. Adresse** Ihren Firmennamen samt der Firmenadresse ein.

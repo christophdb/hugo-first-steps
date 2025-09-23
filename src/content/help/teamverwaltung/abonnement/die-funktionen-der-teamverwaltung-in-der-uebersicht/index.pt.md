@@ -11,12 +11,11 @@ aliases:
 seo:
     title: 'Principais funções do painel de equipe SeaTable'
     description: 'Gerencie membros, grupos, permissões, contratos e suporte de forma centralizada: tudo sobre o painel de equipe SeaTable.'
-
 ---
 
 Em SeaTable, a sua equipa está no centro. Trabalham em conjunto nas vossas tarefas e projectos. Como equipa, festeja sucessos, experimenta contratempos e desenvolve o seu potencial. Neste artigo aprenderá como gerir a sua equipa através da **administração da equipa** e o que lá pode fazer.
 
-Gere a sua equipa, incluindo todos os utilizadores, grupos e bases, na [administração da equipa SeaTable](https://account.seatable.io). A sua **assinatura** está também ligada à sua equipa, independentemente de ter uma assinatura **gratuita** ou uma assinatura **Plus** ou **Enterprise** paga. Também gere a sua inscrição na administração da equipa.
+Gere a sua equipa, incluindo todos os utilizadores, grupos e bases, na [administração da equipa SeaTable](https://account.seatable.com). A sua **assinatura** está também ligada à sua equipa, independentemente de ter uma assinatura **gratuita** ou uma assinatura **Plus** ou **Enterprise** paga. Também gere a sua inscrição na administração da equipa.
 
 {{< warning  headline="Acesso apenas para administradores"  text="A administração da equipa só pode ser acedida pelos **administradores da equipa**." />}}
 

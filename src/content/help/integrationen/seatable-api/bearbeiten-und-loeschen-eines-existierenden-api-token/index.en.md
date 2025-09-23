@@ -27,4 +27,4 @@ On the SeaTable home page, you manage your API tokens each within a base.
 
 {{< required-version "Team Administrators" >}}
 
-A team administrator also has the possibility to manage the API tokens of all bases he has access to via the team administration. Switch to the team administration and there to the [API & Integrations](https://account.seatable.io/api) section. There you will find all API tokens, which you can delete if necessary.
+A team administrator also has the possibility to manage the API tokens of all bases he has access to via the team administration. Switch to the team administration and there to the [API & Integrations](https://account.seatable.com/api) section. There you will find all API tokens, which you can delete if necessary.

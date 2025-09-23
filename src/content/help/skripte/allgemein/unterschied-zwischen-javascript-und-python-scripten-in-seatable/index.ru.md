@@ -18,14 +18,14 @@ SeaTable позволяет выполнять **сценарии JavaScript и 
 
 Сценарий JavaScript выполняется в браузере пользователя. Никакие данные не передаются на сервер. По этой причине невозможно выполнить сценарий JavaScript с помощью автоматизации в фоновом режиме.
 
-Дополнительную информацию и простые примеры использования JavaScript в SeaTable можно найти в [руководстве разработчика SeaTable](https://developer.seatable.io/scripts/javascript/basic_structure_js/).
+Дополнительную информацию и простые примеры использования JavaScript в SeaTable можно найти в [руководстве разработчика SeaTable](https://developer.seatable.com/scripts/javascript/basic_structure_js/).
 
 ## Python в SeaTable
 
-Среда Python в SeaTable поддерживает множество [известных библиотек Python](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) и позволяет обращаться к внешним сервисам и API. Это означает, что даже обширные и сложные задачи могут быть решены с помощью сценариев Python.
+Среда Python в SeaTable поддерживает множество [известных библиотек Python](https://developer.seatable.com/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) и позволяет обращаться к внешним сервисам и API. Это означает, что даже обширные и сложные задачи могут быть решены с помощью сценариев Python.
 
 В отличие от JavaScript, код Python выполняется компонентом сервера SeaTable Server. Результаты выполнения Python-скрипта записываются непосредственно в базу. Это позволяет запускать и обрабатывать Python-скрипт с помощью автоматики на основе правил или событий.
 
 Пользователи с подпиской SeaTable Enterprise могут запускать неограниченное количество скриптов Python. Подписчики Free и Plus могут запускать только ограниченное количество сценариев Python в месяц.
 
-Дополнительную информацию о работе со сценариями на Python в SeaTable можно найти в [руководстве разработчика SeaTable](https://developer.seatable.io/scripts/python/basic_structure_python/).
+Дополнительную информацию о работе со сценариями на Python в SeaTable можно найти в [руководстве разработчика SeaTable](https://developer.seatable.com/scripts/python/basic_structure_python/).

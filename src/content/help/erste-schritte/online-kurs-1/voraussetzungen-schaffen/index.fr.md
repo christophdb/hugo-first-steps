@@ -26,7 +26,7 @@ La manière de loin la plus simple est d'enregistrer un compte gratuit pour le S
 
 ### 2\. serveur SeaTable
 
-Nous vous offrons également la possibilité d'installer vous-même SeaTable sur votre propre serveur grâce à notre [serveur SeaTable](https://admin.seatable.io/). Nous ne pouvons cependant le recommander qu'aux utilisateurs avancés ayant des connaissances techniques dans le domaine Docker .
+Nous vous offrons également la possibilité d'installer vous-même SeaTable sur votre propre serveur grâce à notre [serveur SeaTable](https://admin.seatable.com/). Nous ne pouvons cependant le recommander qu'aux utilisateurs avancés ayant des connaissances techniques dans le domaine Docker .
 
 ### 3\. SeaTable Dédié
 

@@ -210,7 +210,7 @@ sections:
           - q: Pour quelles périodes de licence puis-je acheter une licence pour SeaTable Server ?
             a: La durée minimale d'une licence logicielle pour SeaTable Server est d'un an. Vous pouvez également acheter des licences d'une durée de 2 et 3 ans. Vous économisez respectivement 5% et 10% sur les licences de 2 et 3 ans.<br><br>Les frais de licence sont en principe facturés et exigibles au début de la période de licence pour toute la durée de celle-ci.<br><br>Pour les licences de longue durée, veuillez contacter [notre service des ventes]({{< relref "pages/contact" >}}) et indiquer la durée souhaitée ainsi que le nombre d'utilisateurs. Vous recevrez ensuite une offre par e-mail.
           - q: Comment activer la licence du serveur SeaTable ?
-            a: Vous devez être actif pour activer la licence ! Connectez-vous à votre instance de serveur SeaTable en tant qu'utilisateur avec des droits d'administrateur et accédez à l'administration du système. Pour ce faire, cliquez sur votre avatar dans le coin supérieur droit de la page d'accueil. Dans la zone d'information de l'administration système, vous pouvez télécharger le fichier de licence. La période de validité de la licence est alors immédiatement affichée dans la zone d'information.<br><br>Si l'interface web de votre instance de serveur SeaTable n'est plus accessible, vous devez alors sauvegarder le fichier de licence dans le système de fichiers de l'hôte. Pour plus d'informations, consultez le [manuel d'administration de SeaTable](https://admin.seatable.io).
+            a: Vous devez être actif pour activer la licence ! Connectez-vous à votre instance de serveur SeaTable en tant qu'utilisateur avec des droits d'administrateur et accédez à l'administration du système. Pour ce faire, cliquez sur votre avatar dans le coin supérieur droit de la page d'accueil. Dans la zone d'information de l'administration système, vous pouvez télécharger le fichier de licence. La période de validité de la licence est alors immédiatement affichée dans la zone d'information.<br><br>Si l'interface web de votre instance de serveur SeaTable n'est plus accessible, vous devez alors sauvegarder le fichier de licence dans le système de fichiers de l'hôte. Pour plus d'informations, consultez le [manuel d'administration de SeaTable](https://admin.seatable.com).
           - q: Quels sont les droits que me confère la licence du logiciel SeaTable Server ?
             a: Une licence logicielle pour SeaTable est l'autorisation donnée au titulaire de la licence d'utiliser SeaTable Server. Les droits d'utilisation accordés par la licence et les autres droits sont décrits dans le [CLUF de SeaTable Server Enterprise Edition]({{< relref "pages/legal/eula" >}}).
           - q: Une licence est-elle transférable ?
@@ -218,7 +218,7 @@ sections:
           - q: Puis-je acheter une licence SeaTable Server auprès d'un revendeur ?
             a: Vous ne pouvez acheter des licences SeaTable Server que directement auprès de SeaTable GmbH.
           - q: Quelle est la configuration minimale requise pour faire fonctionner le serveur SeaTable ?
-            a: Consultez le [manuel d'administration de SeaTable](https://admin.seatable.io) pour toute question technique.
+            a: Consultez le [manuel d'administration de SeaTable](https://admin.seatable.com) pour toute question technique.
 
     - name: faq
       weight: 20
@@ -230,13 +230,13 @@ sections:
 Si les limites ou fonctionnalités de l'abonnement Free sont insuffisantes, vous pouvez à tout moment passer aux abonnements payants Plus ou Enterprise avec des limites étendues et des fonctionnalités supplémentaires."
 
         - q: Puis-je tester les fonctionnalités Enterprise ?
-          a: Nous pouvons mettre à niveau temporairement votre abonnement Free ou Plus vers Enterprise sans frais. [Envoyez une demande via la gestion d'équipe](https://account.seatable.io/).
+          a: Nous pouvons mettre à niveau temporairement votre abonnement Free ou Plus vers Enterprise sans frais. [Envoyez une demande via la gestion d'équipe](https://account.seatable.com/).
 
         - q: Qu'est-ce qu'une équipe et un utilisateur ?
           a: Dans SeaTable Cloud, vous travaillez en équipe. Chaque membre possède un compte utilisateur (une équipe peut ne compter qu'une personne).<br><br>Lors de l'inscription, une équipe est créée dont vous êtes l'administrateur. Vous pouvez ajouter des membres et désigner d'autres administrateurs.<br><br>Les utilisateurs sont identifiés par email et ne peuvent appartenir qu'à une seule équipe.
 
         - q: Puis-je modifier le nombre d'utilisateurs dans mon équipe ?
-          a: "Vous pouvez ajuster le nombre d'utilisateurs à tout moment.<br><br>Pour les abonnements Free, Plus et Enterprise, utilisez la [gestion d'équipe](https://account.seatable.io/). Pour SeaTable Dedicated, contactez votre responsable.<br><br>La version Free est limitée à 25 utilisateurs. Les versions Plus, Enterprise et Dedicated n'ont pas de limite."
+          a: "Vous pouvez ajuster le nombre d'utilisateurs à tout moment.<br><br>Pour les abonnements Free, Plus et Enterprise, utilisez la [gestion d'équipe](https://account.seatable.com/). Pour SeaTable Dedicated, contactez votre responsable.<br><br>La version Free est limitée à 25 utilisateurs. Les versions Plus, Enterprise et Dedicated n'ont pas de limite."
 
         - q: Puis-je combiner différents abonnements dans une même équipe ?
           a: "Il est impossible de combiner différents abonnements dans une même équipe.<br><br>Mais vous pouvez répartir les utilisateurs entre plusieurs équipes avec des abonnements différents."
@@ -245,7 +245,7 @@ Si les limites ou fonctionnalités de l'abonnement Free sont insuffisantes, vous
           a: "Le mélange de périodes de facturation est impossible. Toute l'équipe est facturée soit mensuellement soit annuellement.<br><br>Le paiement annuel offre environ 20% d'économie."
 
         - q: Comment résilier un abonnement Plus ou Enterprise ?
-          a: "La résiliation s'effectue via la [gestion d'équipe](https://account.seatable.io/). Les fonctionnalités restent accessibles jusqu'à la fin de la période payée.<br><br>Après résiliation, l'abonnement repasse en version Free, ce qui peut limiter l'accès aux données."
+          a: "La résiliation s'effectue via la [gestion d'équipe](https://account.seatable.com/). Les fonctionnalités restent accessibles jusqu'à la fin de la période payée.<br><br>Après résiliation, l'abonnement repasse en version Free, ce qui peut limiter l'accès aux données."
 
         - q: "Que se passe-t-il quand j'atteins les limites de mon abonnement ?"
           a: "Nous vous en informerons. Vous conservez l'accès aux bases mais ne pourrez plus ajouter de lignes ou fichiers."
@@ -254,12 +254,12 @@ Si les limites ou fonctionnalités de l'abonnement Free sont insuffisantes, vous
           a: "Cartes bancaires, Apple Pay et Google Pay. Les clients Enterprise avec paiement annuel (10+ utilisateurs) peuvent payer par virement bancaire."
 
         - q: "Comment modifier l'adresse de facturation ?"
-          a: "Modifiez l'adresse à tout moment via la [gestion d'équipe](https://account.seatable.io/).<br><br>Les factures déjà émises ne peuvent être modifiées."
+          a: "Modifiez l'adresse à tout moment via la [gestion d'équipe](https://account.seatable.com/).<br><br>Les factures déjà émises ne peuvent être modifiées."
 
         - q: "Qu'en est-il de la confidentialité et sécurité ?"
           a: "C'est notre priorité absolue. Vos données sont traitées exclusivement dans des centres de données allemands sous surveillance constante. Plus de détails dans [Confidentialité]({{< relref \"pages/legal/data-privacy\" >}}) et [Sécurité]({{< relref \"pages/legal/security\" >}})."
 
         - q: "Comment supprimer mon compte ?"
-          a: "L'administrateur peut supprimer des utilisateurs ou des équipes via la [gestion](https://account.seatable.io). Le seul membre d'une équipe en est l'administrateur.<br><br>Nous regrettons votre départ. [Partagez-nous vos raisons]({{< relref \"pages/contact\" >}}).<br><br>Les [Conditions d'utilisation]({{< relref \"pages/legal/terms-of-service\" >}}) détaillent le traitement des données après suppression."
+          a: "L'administrateur peut supprimer des utilisateurs ou des équipes via la [gestion](https://account.seatable.com). Le seul membre d'une équipe en est l'administrateur.<br><br>Nous regrettons votre départ. [Partagez-nous vos raisons]({{< relref \"pages/contact\" >}}).<br><br>Les [Conditions d'utilisation]({{< relref \"pages/legal/terms-of-service\" >}}) détaillent le traitement des données après suppression."
 
 ---

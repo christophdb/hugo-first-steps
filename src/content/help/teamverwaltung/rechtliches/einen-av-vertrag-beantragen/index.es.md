@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'Solicitar contrato de encargado en SeaTable paso a paso'
     description: 'Genere fácilmente un contrato de encargado (AVV/Art. 28 RGPD) directamente en el panel de SeaTable y mantenga la legalidad.'
-
 ---
 
 {{< required-version "Administradores de equipo" >}}
@@ -22,7 +21,7 @@ En la **administración del equipo**, usted tiene la opción de concluir y desca
 
 ## Cómo solicitar un contrato AV
 
-1. Cambiar a la [administración del equipo](https://account.seatable.io).
+1. Cambiar a la [administración del equipo](https://account.seatable.com).
 2. Vaya a **Legal** en **Navegación**.
 3. Haga clic en **Crear contrato de procesamiento de pedidos (AV)**.
 4. Se abre un panel a la derecha. Introduzca el nombre **y** la dirección de su empresa en la línea **Cliente incl.** dirección.

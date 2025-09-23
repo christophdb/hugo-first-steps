@@ -14,7 +14,7 @@ Les utilisateurs qui n'utilisent plus le programme peuvent toutefois être rendu
 Vous pouvez aussi simplement utiliser ce lien :  
 (vous devez bien sûr être connecté à cloud.seatable.io)
 
-[Vers l'administration d'équipe](https://account.seatable.io/team)
+[Vers l'administration d'équipe](https://account.seatable.com/team)
 
 ## Rendre l'utilisateur inactif
 

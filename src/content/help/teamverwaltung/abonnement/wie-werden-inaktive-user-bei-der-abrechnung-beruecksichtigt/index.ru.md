@@ -14,7 +14,7 @@ url: '/ru/pomoshch/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
 Кроме того, вы можете просто воспользоваться этой ссылкой:  
 (разумеется, вы должны войти на cloud.seatable.io).
 
-[Руководству команды](https://account.seatable.io/team)
+[Руководству команды](https://account.seatable.com/team)
 
 ## Перевести пользователя в неактивный режим
 

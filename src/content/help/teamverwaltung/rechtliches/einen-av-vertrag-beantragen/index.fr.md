@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'Demander un contrat de sous-traitance RGPD sur SeaTable'
     description: 'Créez et téléchargez un contrat de sous-traitance (Art. 28 RGPD) en un clic dans SeaTable — restez conforme aux exigences légales.'
-
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}
@@ -22,7 +21,7 @@ Dans la **gestion de l'équipe**, vous avez la possibilité de conclure et de t�
 
 ## Comment demander un contrat MO
 
-1. Passez à [l'administration d'équipe](https://account.seatable.io).
+1. Passez à [l'administration d'équipe](https://account.seatable.com).
 2. Sous **Navigation**, allez dans **Mentions légales**.
 3. Cliquez sur **Créer un contrat de traitement des commandes (CT)**.
 4. Un tableau de bord s'ouvre à droite. Saisissez le nom et l'adresse de votre entreprise dans la ligne **Client et adresse**.

@@ -14,7 +14,7 @@ Dans cet article, vous apprendrez où trouver les modèles et comment travailler
 
 ## Bibliothèque de modèles
 
-Vous pouvez accéder à la collection de modèles, qui ne cesse de s'agrandir, de différentes manières : via la [bibliothèque de modèles sur le site SeaTable.io]({{< relref "templates" >}}) - ceci est possible sans login - , via le bouton **Modèles** sur la page d'accueil de SeaTable et lors de la création d'une nouvelle base, en sélectionnant **Créer une base à partir d'un modèle**.
+Vous pouvez accéder à la collection de modèles, qui ne cesse de s'agrandir, de différentes manières : via la [bibliothèque de modèles sur le site SeaTable.com]({{< relref "templates" >}}) - ceci est possible sans login - , via le bouton **Modèles** sur la page d'accueil de SeaTable et lors de la création d'une nouvelle base, en sélectionnant **Créer une base à partir d'un modèle**.
 
 Les modèles de SeaTable sont répartis en différentes catégories. Il s'agit entre autres de la gestion de projet, des ressources humaines, du marketing, des ventes ou de la vie quotidienne. Dans chaque catégorie, vous trouverez plusieurs modèles. Chaque modèle est accompagné d'une brève description et d'une description du cas d'utilisation. Sous la description, vous trouverez une image interactive du modèle avec sa mise en page de tableau, ses vues ainsi que des données factices. Regardez attentivement le modèle, cliquez autour et vérifiez s'il convient à votre cas d'application !
 

@@ -13,7 +13,7 @@ Puede ver y descargar sus facturas con sólo unos clics a través de la administ
 También puedes utilizar este enlace:  
 (por supuesto, debes iniciar sesión en cloud.seatable.io)
 
-[A sus facturas](https://account.seatable.io/subscription#tabs-subscription-2)
+[A sus facturas](https://account.seatable.com/subscription#tabs-subscription-2)
 
 ## Ver facturas
 

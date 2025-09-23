@@ -13,7 +13,7 @@ Um SeaTable in Ihrem Team nutzen zu können, muss für jeden Benutzer separat ei
 Alternativ können Sie auch einfach diesen Link benutzen:  
 (Sie müssen natürlich in cloud.seatable.io eingeloggt sein)
 
-[Zur Teamverwaltung](https://account.seatable.io/team)
+[Zur Teamverwaltung](https://account.seatable.com/team)
 
 ## Benutzer auf inaktiv setzen
 

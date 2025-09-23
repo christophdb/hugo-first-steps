@@ -14,7 +14,7 @@ No entanto, os utilizadores que já não utilizem o programa podem ser definidos
 Alternativamente, pode simplesmente utilizar este link:  
 (tem de estar logado no cloud.seatable.io)
 
-[À direcção da equipa](https://account.seatable.io/team)
+[À direcção da equipa](https://account.seatable.com/team)
 
 ## Definir o utilizador como inactivo
 

@@ -20,11 +20,11 @@ SeaTable Server ist SeaTable für den eigenen Server. Durch die Installation von
 ### SeaTable Enterprise Edition
 
 Die SeaTable Server Enterprise Edition ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die den vollen Funktionsumfang und volle Datenkontrolle erhalten möchten. Nur die Enterprise Edition bietet die Möglichkeit eine externe Authentifizierung per LDAP oder SAML zu verwenden. Auch die erweiterten Freigabeberechtigungen und Automationen finden Sie nur in dieser Edition.  
-Sie können jederzeit eine SeaTable Enterprise Lizenz für bis zu drei Anwender erhalten. Sie finden das entsprechende Registrierungsformular [unter diesem Link](/on-premises/). Die Installation erfolgt gemäß dem [Administrationshandbuch](https://admin.seatable.io) mithilfe von Docker.
+Sie können jederzeit eine SeaTable Enterprise Lizenz für bis zu drei Anwender erhalten. Sie finden das entsprechende Registrierungsformular [unter diesem Link](/on-premises/). Die Installation erfolgt gemäß dem [Administrationshandbuch](https://admin.seatable.com) mithilfe von Docker.
 
 ### SeaTable Developer Edition
 
-Die SeaTable Server Developer Edition richtet sich primär an Entwickler, die SeaTable als flexible Datenbank verwenden möchten und eventuell gar nicht auf das Frontend zurückgreifen werden. Hier punktet die Developer Edition mit der leistungsfähigen [SeaTable API](https://api.seatable.com/), den Apps für die verschiedenen Automatisierungsplattform und der vollen Unterstützung sämtlicher Spaltentypen. Für die Developer Edition kann kostenfrei genutzt werden. Die Installationsanleitung finden Sie [hier](https://admin.seatable.io).
+Die SeaTable Server Developer Edition richtet sich primär an Entwickler, die SeaTable als flexible Datenbank verwenden möchten und eventuell gar nicht auf das Frontend zurückgreifen werden. Hier punktet die Developer Edition mit der leistungsfähigen [SeaTable API](https://api.seatable.com/), den Apps für die verschiedenen Automatisierungsplattform und der vollen Unterstützung sämtlicher Spaltentypen. Für die Developer Edition kann kostenfrei genutzt werden. Die Installationsanleitung finden Sie [hier](https://admin.seatable.com).
 
 ## Unterschiede in der Gegenüberstellung
 

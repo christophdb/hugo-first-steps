@@ -39,7 +39,7 @@ Como administrador del equipo, puede crear y editar los tokens de API de forma c
 ![Generar tokens API a través de la gestión de equipos](images/generate-api-token-team-administrator.png)
 
 1. Abrir la administración del equipo
-2. Vaya a la sección [API e integraciones](https://account.seatable.io/api).
+2. Vaya a la sección [API e integraciones](https://account.seatable.com/api).
 3. Haga clic en Generar token de API.
 4. Seleccione un nombre, la base y la autorización deseada.
 5. Envíe el formulario para generar su token de API.

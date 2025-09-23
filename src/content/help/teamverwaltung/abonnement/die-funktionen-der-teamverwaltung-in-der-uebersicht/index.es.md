@@ -11,12 +11,11 @@ aliases:
 seo:
     title: 'Funciones clave del panel de equipo en SeaTable'
     description: 'Gestione equipos, roles, grupos, datos y soporte desde un solo lugar. Conozca todas las herramientas de administración SeaTable.'
-
 ---
 
 En SeaTable, su equipo es el centro. Trabajáis juntos en vuestras tareas y proyectos. Como equipo, celebras los éxitos, experimentas los contratiempos y desarrollas tu potencial. En este artículo aprenderás cómo gestionar tu equipo a través de la **administración de equipos** y qué puedes hacer allí.
 
-Usted gestiona su equipo, incluyendo todos los usuarios, grupos y bases, en la [administración del equipo SeaTable](https://account.seatable.io). Tu **suscripción** también está vinculada a tu equipo, independientemente de si tienes una suscripción **gratuita** o una suscripción **Plus** o **Enterprise** de pago. También puedes gestionar tu suscripción en la administración del equipo.
+Usted gestiona su equipo, incluyendo todos los usuarios, grupos y bases, en la [administración del equipo SeaTable](https://account.seatable.com). Tu **suscripción** también está vinculada a tu equipo, independientemente de si tienes una suscripción **gratuita** o una suscripción **Plus** o **Enterprise** de pago. También puedes gestionar tu suscripción en la administración del equipo.
 
 {{< warning  headline="Acceso sólo para administradores"  text="A la administración del equipo sólo pueden acceder **los administradores del equipo**." />}}
 

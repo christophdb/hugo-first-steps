@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'Réductions SeaTable : associations, éducation, secteur public'
     description: 'SeaTable accorde jusqu’à 75 % de réduction aux associations, écoles et institutions publiques : faites votre demande en ligne rapidement.'
-
 ---
 
 Vous souhaitez utiliser SeaTable et vous avez une association enregistrée, vous travaillez dans une institution publique ou une organisation à but non lucratif ? Dans ce cas, vous bénéficiez d'avantages particuliers, car nous souhaitons soutenir les personnes qui s'engagent pour le bien commun, que ce soit par le biais d'un travail social, d'une aide humanitaire, de projets écologiques ou de l'éducation et de la recherche.
@@ -22,7 +21,7 @@ SeaTable accorde une remise de 25% aux institutions publiques, une remise standa
 
 Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez par vous [inscrire]({{< relref "pages/registration" >}}). Commencez toujours par créer une équipe avec l'[abonnement gratuit]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}). Ensuite, procédez comme suit :
 
-1. Ouvrez [l'administration d'équipe](https://account.seatable.io).
+1. Ouvrez [l'administration d'équipe](https://account.seatable.com).
 2. Passez à la section **Abonnement**.
 3. Cliquez sur **Êtes-vous une organisation à but non lucratif ?**
    ![Faire une demande de réduction via l'administration de l'équipe](images/Antrag-auf-Rabatt-in-SeaTable.png)

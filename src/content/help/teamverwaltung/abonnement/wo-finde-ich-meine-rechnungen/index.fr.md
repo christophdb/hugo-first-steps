@@ -13,7 +13,7 @@ Vous pouvez consulter et télécharger vos factures en quelques clics via l'admi
 Vous pouvez aussi simplement utiliser ce lien :  
 (vous devez bien sûr être connecté à cloud.seatable.io)
 
-[Vers vos factures](https://account.seatable.io/subscription#tabs-subscription-2)
+[Vers vos factures](https://account.seatable.com/subscription#tabs-subscription-2)
 
 ## Consulter les factures
 

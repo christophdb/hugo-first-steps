@@ -25,4 +25,4 @@ Para além da subscrição gratuita, a SeaTable oferece também duas subscriçõ
 
 ## É possível testar Plus ou Enterprise gratuitamente?
 
-Em princípio, oferecemos às empresas a possibilidade de testar gratuitamente o SeaTable Enterprise durante 30 dias, a fim de poderem testar elas próprias as funções adicionais. Para tal pedido, oferecemos um formulário correspondente na [administração da equipa na secção de subscrição](https://account.seatable.io/subscription).
+Em princípio, oferecemos às empresas a possibilidade de testar gratuitamente o SeaTable Enterprise durante 30 dias, a fim de poderem testar elas próprias as funções adicionais. Para tal pedido, oferecemos um formulário correspondente na [administração da equipa na secção de subscrição](https://account.seatable.com/subscription).

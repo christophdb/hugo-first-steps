@@ -22,6 +22,6 @@ Gostaria de alterar o seu endereço de facturação? Não há problema, isto é 
 
 {{< faq "Quando é que o endereço de facturação se torna válido?" >}}Se alterar o seu endereço de facturação, todas as futuras facturas serão criadas com o seu novo endereço de facturação.
 {{< /faq >}}
-{{< faq "O endereço de facturação pode ser alterado retroactivamente?" >}}Infelizmente não. Infelizmente, não é possível alterar o endereço de facturação nas facturas que já tenham sido geradas. Em casos excepcionais, poderemos emitir-lhe uma nova factura, mas cobraremos uma taxa de processamento de 10 euros em qualquer caso. Envie-nos um [pedido de apoio](https://account.seatable.io/support) correspondente com o número da factura e os pedidos de alteração exactos.
+{{< faq "O endereço de facturação pode ser alterado retroactivamente?" >}}Infelizmente não. Infelizmente, não é possível alterar o endereço de facturação nas facturas que já tenham sido geradas. Em casos excepcionais, poderemos emitir-lhe uma nova factura, mas cobraremos uma taxa de processamento de 10 euros em qualquer caso. Envie-nos um [pedido de apoio](https://account.seatable.com/support) correspondente com o número da factura e os pedidos de alteração exactos.
 
 {{< /faq >}}

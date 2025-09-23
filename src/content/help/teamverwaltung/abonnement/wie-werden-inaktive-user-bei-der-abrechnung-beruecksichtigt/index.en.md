@@ -14,7 +14,7 @@ However, users who no longer use the program can be set to **inactive** via the 
 Alternatively, you can simply use this link:  
 (you must of course be logged into cloud.seatable.io)
 
-[To the team administration](https://account.seatable.io/team)
+[To the team administration](https://account.seatable.com/team)
 
 ## Set user to inactive
 

@@ -14,7 +14,7 @@ En este artículo aprenderás dónde encontrar las plantillas y cómo trabajar c
 
 ## Biblioteca de plantillas
 
-Puede acceder a la colección de plantillas en continuo crecimiento de varias maneras: a través de la [biblioteca de plantillas en el sitio web SeaTable.io]({{< relref "templates" >}}) - esto es posible sin necesidad de iniciar sesión - , a través del botón **Plantillas** en la página de inicio de SeaTable y al crear una nueva base seleccionando **Crear base a partir de plantilla**.
+Puede acceder a la colección de plantillas en continuo crecimiento de varias maneras: a través de la [biblioteca de plantillas en el sitio web SeaTable.com]({{< relref "templates" >}}) - esto es posible sin necesidad de iniciar sesión - , a través del botón **Plantillas** en la página de inicio de SeaTable y al crear una nueva base seleccionando **Crear base a partir de plantilla**.
 
 Las plantillas de SeaTable se dividen en distintas categorías. Entre ellas se encuentran la gestión de proyectos, los recursos humanos, el marketing, las ventas o la vida cotidiana. En cada categoría encontrará varias plantillas. Cada plantilla tiene una breve descripción y una descripción del caso de uso. Debajo de la descripción encontrará una imagen interactiva de la plantilla con su diseño de tabla, vistas y datos ficticios. Eche un vistazo a la plantilla, haga clic en ella y compruebe si se adapta a su caso de uso.
 

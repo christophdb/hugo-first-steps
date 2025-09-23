@@ -18,14 +18,14 @@ Das Laden externer Bibliotheken ist nicht möglich, weshalb sich ein JavaScript 
 
 Die Ausführung eines JavaScript Skripts erfolgt im Browser des Anwenders. Es werden keine Daten an den Server übergeben. Aus diesem Grund ist es nicht möglich, ein JavaSript Skript über eine Automation im Hintergrund auszuführen.
 
-Weitere Informationen und einfache Beispiele zum Thema JavaScript in SeaTable finden Sie im [SeaTable Developer Manual](https://developer.seatable.io/scripts/javascript/basic_structure_js/).
+Weitere Informationen und einfache Beispiele zum Thema JavaScript in SeaTable finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/scripts/javascript/basic_structure_js/).
 
 ## Python in SeaTable
 
-Die Python Umgebung von SeaTable unterstützt zahlreiche [bekannte Python Bibliotheken](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) und erlaubt die Abfrage von externen Diensten und APIs. Dadurch lassen sich mit Python Skripten auch umfangreiche und komplexe Aufgaben erledigen.
+Die Python Umgebung von SeaTable unterstützt zahlreiche [bekannte Python Bibliotheken](https://developer.seatable.com/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) und erlaubt die Abfrage von externen Diensten und APIs. Dadurch lassen sich mit Python Skripten auch umfangreiche und komplexe Aufgaben erledigen.
 
 Im Gegensatz zu JavaScript wird der Python Code von einer Komponente des SeaTable Server ausgeführt. Die Ergebnisse des Python Runners werden direkt in die Base geschrieben. Dies macht es möglich, dass ein Python Skript durch eine Automation regel- oder eventbasiert ausgelöst und verarbeitet wird.
 
 Anwender mit einem SeaTable Enterprise Abonnement können unlimitiert Python Skripte ausführen. Free und Plus Abonnenten können Python Skripte nur eine begrenzte Anzahl pro Monat ausführen.
 
-Weitere Informationen zum Python Scripting in SeaTable finden Sie im [SeaTable Developer Manual](https://developer.seatable.io/scripts/python/basic_structure_python/).
+Weitere Informationen zum Python Scripting in SeaTable finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/scripts/python/basic_structure_python/).

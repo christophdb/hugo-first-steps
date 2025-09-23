@@ -22,6 +22,6 @@ You want to change your billing address? No problem, via the team administration
 
 {{< faq "When does the billing address become valid?" >}}If you change your billing address, all future invoices will be created with your new billing address.
 {{< /faq >}}
-{{< faq "Can the billing address be changed retroactively?" >}}Unfortunately no. Unfortunately, it is not possible to change the billing address on invoices that have already been generated. In exceptional cases, we may be able to issue you a new invoice, but will charge a processing fee of 10 € in any case. Please send us an appropriate [support request](https://account.seatable.io/support) with the invoice number and the exact change requests.
+{{< faq "Can the billing address be changed retroactively?" >}}Unfortunately no. Unfortunately, it is not possible to change the billing address on invoices that have already been generated. In exceptional cases, we may be able to issue you a new invoice, but will charge a processing fee of 10 € in any case. Please send us an appropriate [support request](https://account.seatable.com/support) with the invoice number and the exact change requests.
 
 {{< /faq >}}

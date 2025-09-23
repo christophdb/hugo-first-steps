@@ -13,7 +13,7 @@ Ihre Rechnungen können Sie mit nur wenigen Klicks über die Teamverwaltung eins
 Alternativ können Sie auch einfach diesen Link benutzen:  
 (Sie müssen natürlich in cloud.seatable.io eingeloggt sein)
 
-[Zu Ihren Rechnungen](https://account.seatable.io/subscription#tabs-subscription-2)
+[Zu Ihren Rechnungen](https://account.seatable.com/subscription#tabs-subscription-2)
 
 ## Rechnungen einsehen
 

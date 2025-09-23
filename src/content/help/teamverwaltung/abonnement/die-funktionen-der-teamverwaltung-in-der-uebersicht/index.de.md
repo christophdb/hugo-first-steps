@@ -9,12 +9,11 @@ url: '/de/hilfe/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 seo:
     title: 'Die wichtigsten Funktionen der SeaTable Teamverwaltung'
     description: 'Verwalten Sie Mitglieder, Gruppen, Bases, Rechte und Abos zentral: Alle Tools, Tipps und Bereiche der Teamverwaltung auf einen Blick.'
-
 ---
 
 In SeaTable steht Ihr Team im Mittelpunkt. Gemeinsam arbeiten Sie an Ihren Aufgaben und Projekten. Im Team feiern Sie Erfolge, erleben Rückschläge und entfalten Ihre Potenziale. In diesem Beitrag erfahren Sie, wie Sie Ihr Team über die **Teamverwaltung** managen und was Sie dort alles machen können.
 
-Ihr Team inklusive aller Benutzer, Gruppen und Bases verwalten Sie in der [Teamverwaltung von SeaTable](https://account.seatable.io). Mit Ihrem Team ist auch Ihr **Abonnement** verknüpft, egal ob Sie ein kostenfreies **Free** oder ein kostenpflichtiges **Plus** bzw. **Enterprise** Abonnement haben. Ihr Abonnement verwalten Sie ebenfalls in der Teamverwaltung.
+Ihr Team inklusive aller Benutzer, Gruppen und Bases verwalten Sie in der [Teamverwaltung von SeaTable](https://account.seatable.com). Mit Ihrem Team ist auch Ihr **Abonnement** verknüpft, egal ob Sie ein kostenfreies **Free** oder ein kostenpflichtiges **Plus** bzw. **Enterprise** Abonnement haben. Ihr Abonnement verwalten Sie ebenfalls in der Teamverwaltung.
 
 {{< warning  type="warning" headline="Zugang nur für Administratoren"  text="Die Teamverwaltung ist nur für **Team-Administratoren** erreichbar." />}}
 

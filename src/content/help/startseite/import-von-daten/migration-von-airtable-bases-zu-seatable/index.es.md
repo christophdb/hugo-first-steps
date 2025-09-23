@@ -82,7 +82,7 @@ excluded_column_types = [
     ColumnTypes.FILE
 ]
 # Specify the column types which are to be excluded from the data import when running the script in import-rows mode (excluded column types are still created in import-header mode)
-# Use the constants from https://developer.seatable.io/scripts/python/objects/constants/, i.e. ColumnTypes.FILE to exclude file columns
+# Use the constants from https://developer.seatable.com/scripts/python/objects/constants/, i.e. ColumnTypes.FILE to exclude file columns
 # The specified column types must be comma-separated
 # If no column types are to be excluded, just leave the brackets empty
 # ColumnTypes.LINK_FORMULA are always excluded

@@ -39,7 +39,7 @@ As a team administrator, you can create and edit API tokens centrally in the tea
 ![Generate API tokens via team administration](images/generate-api-token-team-administrator.png)
 
 1. Open the team administration.
-2. Switch to the [API & Integrations](https://account.seatable.io/api) section.
+2. Switch to the [API & Integrations](https://account.seatable.com/api) section.
 3. Click Generate API Token.
 4. Select a name, the base and the desired permission.
 5. Submit the form to generate your API token.

@@ -98,11 +98,11 @@ Wenn Sie gerne **Spaltenberechtigungen** nutzen, um Werte vor unerwünschten Än
 
 Es wird künftig die Option geben, Bases ohne die hochgeladenen Anhänge in der Dateiverwaltung zu [exportieren]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}), sofern diese das Exportlimit von 100 MB pro Base überschreiten.
 
-In Sachen API unterstützt SeaTable 4.3 erstmals [JOIN Queries](https://developer.seatable.io/scripts/sql/reference/), mit denen Sie aus unterschiedlichen Tabellen diejenigen Datensätze abfragen können, die eine gemeinsame Schnittmenge an Attributen teilen. Mehr dazu erfahren Sie im Developer Manual.
+In Sachen API unterstützt SeaTable 4.3 erstmals [JOIN Queries](https://developer.seatable.com/scripts/sql/reference/), mit denen Sie aus unterschiedlichen Tabellen diejenigen Datensätze abfragen können, die eine gemeinsame Schnittmenge an Attributen teilen. Mehr dazu erfahren Sie im Developer Manual.
 
 ## Vereinfachte Installation von SeaTable und zusätzlichen Komponenten
 
-Für **On-Premises-Kunden** haben wir zum Schluss noch ein besonderes Schmankerl: Zeitgleich mit der Veröffentlichung von Version 4.3 der SeaTable Cloud haben wir auch die **Installationsanleitung** in unserem [Admin-Handbuch](https://admin.seatable.io) überarbeitet.
+Für **On-Premises-Kunden** haben wir zum Schluss noch ein besonderes Schmankerl: Zeitgleich mit der Veröffentlichung von Version 4.3 der SeaTable Cloud haben wir auch die **Installationsanleitung** in unserem [Admin-Handbuch](https://admin.seatable.com) überarbeitet.
 
 Unser zentrales Ziel ist es, die **Installation und zukünftige Updates Ihres eigenen SeaTable Servers** noch einfacher zu gestalten. Zum Beispiel startet der Dienst zukünftig automatisch, wenn Sie den zugehörigen Container starten, und auch Datenbank-Updates müssen Sie nicht mehr händisch anstoßen. Dies sind nur einige der vielen kleinen Verbesserungen, die Ihnen als Administrator das Leben leichter machen und ab sofort im Admin-Handbuch zu finden sind.
 

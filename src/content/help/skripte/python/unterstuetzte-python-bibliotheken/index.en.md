@@ -12,10 +12,10 @@ The Python environment of SeaTable 5.0 (October 2024) uses Python 3.11 and impor
 
 ## SeaTable Cloud
 
-In addition to the modules of the standard library, the Python environment of SeaTable Cloud also includes some popular Python packages. A list of the available Python packages can be found in the [SeaTable Developer Manual](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment).
+In addition to the modules of the standard library, the Python environment of SeaTable Cloud also includes some popular Python packages. A list of the available Python packages can be found in the [SeaTable Developer Manual](https://developer.seatable.com/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment).
 
 Other Python packages cannot be imported.
 
 ## SeaTable Server
 
-If you run your own SeaTable server, you can add additional Python packages to the Python environment. In the [SeaTable Admin Manual](https://admin.seatable.io/installation/advanced/python-pipeline-custom-python-runner/) you will find instructions on how to build your custom Python runner.
+If you run your own SeaTable server, you can add additional Python packages to the Python environment. In the [SeaTable Admin Manual](https://admin.seatable.com/installation/advanced/python-pipeline-custom-python-runner/) you will find instructions on how to build your custom Python runner.

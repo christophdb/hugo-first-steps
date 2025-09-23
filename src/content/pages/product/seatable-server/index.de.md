@@ -28,7 +28,7 @@ sections:
       image_position: left
       buttons:
           - label: Zum Adminhandbuch
-            link: https://admin.seatable.io
+            link: https://admin.seatable.com
 
     - name: content-11
       weight: 3

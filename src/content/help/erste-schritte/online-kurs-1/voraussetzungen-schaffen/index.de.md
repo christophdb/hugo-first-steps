@@ -25,7 +25,7 @@ Der mit Abstand einfachste Weg ist es, wenn Sie sich einen kostenlosen Account f
 
 ### 2. SeaTable Server
 
-Alternativ bieten wir Ihnen mit unserem [SeaTable Server](https://admin.seatable.io/) die Möglichkeit, SeaTable auf Ihrem eigenen Server selbst zu installieren. Dies können wir aber nur fortgeschrittenen Benutzer mit technischen Kenntnissen im Bereich Docker empfehlen.
+Alternativ bieten wir Ihnen mit unserem [SeaTable Server](https://admin.seatable.com/) die Möglichkeit, SeaTable auf Ihrem eigenen Server selbst zu installieren. Dies können wir aber nur fortgeschrittenen Benutzer mit technischen Kenntnissen im Bereich Docker empfehlen.
 
 ### 3. SeaTable Dedicated
 

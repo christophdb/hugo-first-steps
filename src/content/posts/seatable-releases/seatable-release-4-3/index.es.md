@@ -98,11 +98,11 @@ Si desea utilizar **autorizaciones de columna** para proteger los valores de cam
 
 En el futuro, habrá una opción para [exportar]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) bases sin los archivos adjuntos cargados en el gestor de archivos si superan el límite de exportación de 100 MB por base.
 
-En términos de API, SeaTable 4.3 soporta por primera vez [consultas JOIN](https://developer.seatable.io/scripts/sql/reference/), con las que podrá consultar aquellos registros de datos de diferentes tablas que compartan una intersección común de atributos. Encontrará más información al respecto en el Manual del desarrollador.
+En términos de API, SeaTable 4.3 soporta por primera vez [consultas JOIN](https://developer.seatable.com/scripts/sql/reference/), con las que podrá consultar aquellos registros de datos de diferentes tablas que compartan una intersección común de atributos. Encontrará más información al respecto en el Manual del desarrollador.
 
 ## Instalación simplificada de SeaTable y componentes adicionales
 
-Por último, tenemos un regalo especial para los **clientes locales**: para coincidir con el lanzamiento de la versión 4.3 de SeaTable Cloud, también hemos revisado las **instrucciones de instalación** en nuestro [manual de administración](https://admin.seatable.io).
+Por último, tenemos un regalo especial para los **clientes locales**: para coincidir con el lanzamiento de la versión 4.3 de SeaTable Cloud, también hemos revisado las **instrucciones de instalación** en nuestro [manual de administración](https://admin.seatable.com).
 
 Nuestro principal objetivo es facilitar aún más la **instalación y futuras actualizaciones de su propio servidor SeaTable**. Por ejemplo, en el futuro el servicio se iniciará automáticamente cuando inicie el contenedor asociado, y ya no tendrá que iniciar las actualizaciones de la base de datos manualmente. Estas son sólo algunas de las muchas pequeñas mejoras que le harán la vida más fácil como administrador y que ahora puede encontrar en el manual del administrador.
 

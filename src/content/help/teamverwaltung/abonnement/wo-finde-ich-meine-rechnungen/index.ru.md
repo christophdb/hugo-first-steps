@@ -13,7 +13,7 @@ url: '/ru/pomoshch/wo-finde-ich-meine-rechnungen'
 Кроме того, вы можете просто воспользоваться этой ссылкой:  
 (разумеется, вы должны войти на cloud.seatable.io).
 
-[К вашим счетам](https://account.seatable.io/subscription#tabs-subscription-2)
+[К вашим счетам](https://account.seatable.com/subscription#tabs-subscription-2)
 
 ## Просмотр счетов-фактур
 

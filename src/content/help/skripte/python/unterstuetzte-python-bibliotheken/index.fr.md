@@ -12,10 +12,10 @@ L'environnement Python de SeaTable 5.0 (octobre 2024) utilise Python 3.11 et imp
 
 ## SeaTable Cloud
 
-Outre les modules de la bibliothèque standard, l'environnement Python de SeaTable Cloud propose également quelques paquets Python populaires. Une liste des paquets Python disponibles est disponible dans le [manuel du développeur de SeaTable](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment).
+Outre les modules de la bibliothèque standard, l'environnement Python de SeaTable Cloud propose également quelques paquets Python populaires. Une liste des paquets Python disponibles est disponible dans le [manuel du développeur de SeaTable](https://developer.seatable.com/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment).
 
 Il n'est pas possible d'importer d'autres paquets Python.
 
 ## Serveur SeaTable
 
-Si vous exploitez votre propre serveur SeaTable, vous pouvez ajouter d'autres paquets Python à l'environnement Python. Vous trouverez dans le [manuel d'administration de SeaTable](https://admin.seatable.io/installation/advanced/python-pipeline-custom-python-runner/) des instructions sur la manière de construire votre Custom Python Runner.
+Si vous exploitez votre propre serveur SeaTable, vous pouvez ajouter d'autres paquets Python à l'environnement Python. Vous trouverez dans le [manuel d'administration de SeaTable](https://admin.seatable.com/installation/advanced/python-pipeline-custom-python-runner/) des instructions sur la manière de construire votre Custom Python Runner.

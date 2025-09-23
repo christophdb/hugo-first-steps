@@ -11,7 +11,6 @@ categories:
 seo:
     title: 'SeaTable 4.3: Form Links, Automation & App Tools'
     description: 'Customizable form links, automated PDFs, app notifications, and universal app upgrades: SeaTable 4.3 boosts workflow and creative data management!'
-
 ---
 
 The carnival season in Germany is approaching its peak - and the confetti cannons are popping at SeaTable too! Version 4.3 brings with it some long-awaited functions and improvements.
@@ -99,11 +98,11 @@ If you like **column permissions** to protect values from unwanted changes, you 
 
 In future, there will be an option to [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) bases without the uploaded attachments in the file manager if they exceed the export limit of 100 MB per base.
 
-In terms of API, SeaTable 4.3 supports [JOIN queries](https://developer.seatable.io/scripts/sql/reference/) for the first time, with which you can query those data records from different tables that share a common intersection of attributes. You can find out more about this in the Developer Manual.
+In terms of API, SeaTable 4.3 supports [JOIN queries](https://developer.seatable.com/scripts/sql/reference/) for the first time, with which you can query those data records from different tables that share a common intersection of attributes. You can find out more about this in the Developer Manual.
 
 ## Simplified installation of SeaTable and additional components
 
-Finally, we have a special treat for **on-premises customers**: to coincide with the release of version 4.3 of SeaTable Cloud, we have also revised the **installation instructions** in our [admin manual](https://admin.seatable.io).
+Finally, we have a special treat for **on-premises customers**: to coincide with the release of version 4.3 of SeaTable Cloud, we have also revised the **installation instructions** in our [admin manual](https://admin.seatable.com).
 
 Our main goal is to make the **installation and future updates of your own SeaTable server** even easier. For example, in future the service will start automatically when you start the associated container, and you will no longer have to initiate database updates manually. These are just a few of the many small improvements that will make your life as an administrator easier and can now be found in the admin manual.
 

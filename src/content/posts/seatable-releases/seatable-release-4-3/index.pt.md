@@ -98,11 +98,11 @@ Se gosta de utilizar **autorizações de coluna** para proteger os valores de al
 
 No futuro, haverá uma opção para [exportar]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) bases sem os anexos carregados no gestor de ficheiros se estes excederem o limite de exportação de 100 MB por base.
 
-Em termos de API, o SeaTable 4.3 suporta pela primeira vez [consultas JOIN](https://developer.seatable.io/scripts/sql/reference/), com as quais é possível consultar os registos de dados de diferentes tabelas que partilham uma intersecção comum de atributos. Pode obter mais informações sobre este assunto no Manual do Programador.
+Em termos de API, o SeaTable 4.3 suporta pela primeira vez [consultas JOIN](https://developer.seatable.com/scripts/sql/reference/), com as quais é possível consultar os registos de dados de diferentes tabelas que partilham uma intersecção comum de atributos. Pode obter mais informações sobre este assunto no Manual do Programador.
 
 ## Instalação simplificada do SeaTable e componentes adicionais
 
-Por fim, temos uma surpresa especial para os **clientes locais**: para coincidir com o lançamento da versão 4.3 do SeaTable Cloud, também revimos as **instruções de instalação** no nosso [manual de administração](https://admin.seatable.io).
+Por fim, temos uma surpresa especial para os **clientes locais**: para coincidir com o lançamento da versão 4.3 do SeaTable Cloud, também revimos as **instruções de instalação** no nosso [manual de administração](https://admin.seatable.com).
 
 O nosso principal objetivo é facilitar ainda mais a **instalação e as futuras actualizações do seu próprio servidor SeaTable**. Por exemplo, no futuro, o serviço será iniciado automaticamente quando iniciar o contentor associado e já não terá de iniciar manualmente as actualizações da base de dados. Estas são apenas algumas das muitas pequenas melhorias que irão facilitar a sua vida como administrador e que podem agora ser encontradas no manual de administração.
 

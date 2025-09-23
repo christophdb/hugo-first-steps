@@ -14,7 +14,7 @@ In this post you will learn where to find the templates and how to work with the
 
 ## Template library
 
-You can access the continuously growing template collection in several ways: via the [template library on the SeaTable.io website]({{< relref "templates" >}}) - this is possible without logging in - , via the **Templates** button on the SeaTable home page and when creating a new base, if you select **Create base from Template**.
+You can access the continuously growing template collection in several ways: via the [template library on the SeaTable.com website]({{< relref "templates" >}}) - this is possible without logging in - , via the **Templates** button on the SeaTable home page and when creating a new base, if you select **Create base from Template**.
 
 The templates for SeaTable are divided into different categories. These include project management, human resources, marketing, sales or everyday life. In each category you will find several templates. Each template has a short description and a description of the use case. Below the description you will find an interactive image of the template with its table layout, views as well as dummy data. Take a close look at the template, click around in it and check if it fits your use case!
 

@@ -39,7 +39,7 @@ En tant qu'administrateur d'équipe, vous pouvez créer et modifier les jetons A
 ![Créer un jeton API via l'administration d'équipe](images/generate-api-token-team-administrator.png)
 
 1. Ouvrez dans l'administration d'équipe
-2. Passez à la section [API & intégrations](https://account.seatable.io/api).
+2. Passez à la section [API & intégrations](https://account.seatable.com/api).
 3. Cliquez sur Générer un jeton API.
 4. Choisissez un nom, la base et l'autorisation souhaitée.
 5. Soumettez le formulaire pour générer votre jeton API.

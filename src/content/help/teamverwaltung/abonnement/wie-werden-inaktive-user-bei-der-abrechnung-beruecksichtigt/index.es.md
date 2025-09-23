@@ -14,7 +14,7 @@ Sin embargo, los usuarios que ya no utilicen el programa pueden pasar a **inacti
 También puedes utilizar este enlace:  
 (por supuesto, debes iniciar sesión en cloud.seatable.io)
 
-[A la dirección del equipo](https://account.seatable.io/team)
+[A la dirección del equipo](https://account.seatable.com/team)
 
 ## Establecer usuario como inactivo
 

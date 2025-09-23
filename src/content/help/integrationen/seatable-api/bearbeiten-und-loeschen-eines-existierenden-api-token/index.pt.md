@@ -27,4 +27,4 @@ Na página inicial do SeaTable, gere os seus tokens API cada um dentro de uma Ba
 
 {{< required-version "Administradores de equipa" >}}
 
-Um administrador de equipa também tem a opção de gerir os tokens API de todas as bases a que tem acesso através da administração da equipa. Mude para a administração da equipa e vá para a secção [API & Integrações](https://account.seatable.io/api). Aí encontrará todos os tokens de API, que pode eliminar se necessário.
+Um administrador de equipa também tem a opção de gerir os tokens API de todas as bases a que tem acesso através da administração da equipa. Mude para a administração da equipa e vá para a secção [API & Integrações](https://account.seatable.com/api). Aí encontrará todos os tokens de API, que pode eliminar se necessário.

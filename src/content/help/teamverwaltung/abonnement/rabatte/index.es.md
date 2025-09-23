@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'Descuentos SeaTable para entidades públicas y ONG'
     description: 'Instituciones públicas, ONG y organizaciones educativas obtienen hasta 75 % de descuento en SeaTable. Infórmese y solicítelo fácilmente online.'
-
 ---
 
 ¿Le gustaría utilizar SeaTable y es usted una asociación registrada, trabaja en una institución pública o en una organización benéfica sin ánimo de lucro? Entonces disfrutará de ventajas especiales porque queremos apoyar a las personas que trabajan por el bien común, ya sea a través del trabajo social, la ayuda humanitaria, los proyectos ecológicos o la educación y la investigación.
@@ -22,7 +21,7 @@ SeaTable concede a las instituciones públicas un descuento del 25%, las organiz
 
 Si aún no has registrado un equipo en cloud.seatable.io, empieza por [registrarte]({{< relref "pages/registration" >}}). Crea siempre primero un equipo con la [suscripción]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) gratuita. A continuación, proceda como se indica a continuación:
 
-1. Abre la [administración del equipo](https://account.seatable.io).
+1. Abre la [administración del equipo](https://account.seatable.com).
 2. Pase a la sección **Suscripción**.
 3. Haga clic en ¿Es **usted una organización sin ánimo de lucro?**
    ![Solicitar un descuento a través de la administración del equipo](images/Antrag-auf-Rabatt-in-SeaTable.png)

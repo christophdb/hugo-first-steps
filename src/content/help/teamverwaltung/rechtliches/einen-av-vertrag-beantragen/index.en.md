@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'Request a data processing agreement (DPA) in SeaTable'
     description: 'SeaTable lets you create and download a DPA (Art. 28 GDPR) for your team in minutes. Keep your data processing compliant.'
-
 ---
 
 {{< required-version "Team Administrators" >}}
@@ -22,7 +21,7 @@ In the **team administration** you have the possibility to conclude and download
 
 ## How to apply for an AV contract
 
-1. Switch to the [team administration](https://account.seatable.io).
+1. Switch to the [team administration](https://account.seatable.com).
 2. Go to **Legal** under **Navigation**.
 3. Click **Create order processing (AV) contract**.
 4. A panel opens on the right. Enter your company name**including** the company address in the row **Client incl.** address.

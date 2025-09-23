@@ -13,7 +13,7 @@ You can view and download your invoices with just a few clicks via the team admi
 Alternatively, you can simply use this link:  
 (you must of course be logged into cloud.seatable.io)
 
-[To your invoices](https://account.seatable.io/subscription#tabs-subscription-2)
+[To your invoices](https://account.seatable.com/subscription#tabs-subscription-2)
 
 ## View invoices
 

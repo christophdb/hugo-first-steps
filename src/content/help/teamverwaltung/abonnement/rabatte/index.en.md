@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'SeaTable discounts for NPOs, education and public sector'
     description: 'SeaTable offers 25–75% off plans for charities, nonprofits, education and public organizations. Find out more and apply in your account.'
-
 ---
 
 Would you like to use SeaTable and are you a registered association, work in a public institution or a charitable non-profit organization? Then you will enjoy special benefits because we want to support people who work for the common good - be it through social work, humanitarian aid, ecological projects or education and research.
@@ -22,7 +21,7 @@ SeaTable grants public institutions a 25% discount, charitable non-profit organi
 
 If you have not yet registered a team on cloud.seatable.io, start by [registering]({{< relref "pages/registration" >}}). Always create a team with the free [subscription]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) first. Then proceed as follows:
 
-1. Open the [Team administration](https://account.seatable.io).
+1. Open the [Team administration](https://account.seatable.com).
 2. Switch to the **Subscription** section.
 3. Click on **Are you a non-profit organization?**
    ![Submit request for discount via team administration](images/Antrag-auf-Rabatt-in-SeaTable.png)

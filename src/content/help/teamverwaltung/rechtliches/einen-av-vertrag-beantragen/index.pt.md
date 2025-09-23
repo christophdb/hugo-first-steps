@@ -11,7 +11,6 @@ aliases:
 seo:
     title: 'Solicitar contrato de dados (DPA) na SeaTable facilmente'
     description: 'Solicite e baixe facilmente seu contrato de processamento de dados (DPA – Art. 28 RGPD) no painel SeaTable e mantenha conformidade.'
-
 ---
 
 {{< required-version "Administradores de equipa" >}}
@@ -22,7 +21,7 @@ Na **administração da equipa**, tem a opção de celebrar e descarregar o seu 
 
 ## Como candidatar-se a um contrato AV
 
-1. Mudar para a [administração da equipa](https://account.seatable.io).
+1. Mudar para a [administração da equipa](https://account.seatable.com).
 2. Ir para **Legal** sob **Navegação**.
 3. Clique em **Criar Contrato de Processamento de Pedidos (AV)**.
 4. Abre-se um painel à direita. Digite o nome da sua empresa **incluindo** o endereço da empresa na linha **Cliente incl.** endereço.

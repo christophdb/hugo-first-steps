@@ -231,7 +231,7 @@ sections:
       title: Perguntas frequentes sobre SeaTable como alternativa ao Airtable
       items:
           - q: 'Posso experimentar SeaTable?'
-            a: 'Sim, claro. A versão gratuita do SeaTable Cloud é ideal para ter uma primeira impressão do SeaTable. Tudo o que você precisa é de um e-mail e conexão com a internet. Você pode [se cadastrar]({{< relref "pages/registration" >}}) gratuitamente agora e migrar para uma assinatura paga ou um sistema auto-hospedado a qualquer momento.<br><br>Se quiser começar diretamente com uma instalação on-premises, todas as informações estão em nosso [manual do administrador](https://admin.seatable.io).'
+            a: 'Sim, claro. A versão gratuita do SeaTable Cloud é ideal para ter uma primeira impressão do SeaTable. Tudo o que você precisa é de um e-mail e conexão com a internet. Você pode [se cadastrar]({{< relref "pages/registration" >}}) gratuitamente agora e migrar para uma assinatura paga ou um sistema auto-hospedado a qualquer momento.<br><br>Se quiser começar diretamente com uma instalação on-premises, todas as informações estão em nosso [manual do administrador](https://admin.seatable.com).'
 
           - q: 'Para quem SeaTable é indicado?'
             a: 'Como uma alternativa flexível ao Airtable, SeaTable não tem apenas <em>um</em> público-alvo. Pelo contrário: acreditamos que toda empresa e equipe pode se beneficiar do SeaTable. Sempre nos surpreendemos com a variedade de processos e fluxos de trabalho criados com SeaTable. Se você procura casos de uso concretos, encontrará alguns exemplos em nossas histórias de sucesso ou em nosso [blog]({{< relref "posts" >}}).'
@@ -240,7 +240,7 @@ sections:
             a: 'Sim, com certeza. Como uma verdadeira alternativa ao Airtable, você pode instalar SeaTable Enterprise no seu PC local, em uma máquina virtual, no data center de sua escolha ou até mesmo em um provedor de servidores em nuvem. O único requisito é um sistema Linux com Docker e Docker Compose.'
 
           - q: 'Como instalar seu próprio sistema SeaTable?'
-            a: 'A instalação de um sistema SeaTable Enterprise on-premises não é difícil e está explicada em nosso [manual do administrador](https://admin.seatable.io). Se preferir um vídeo, confira nosso [canal no YouTube](https://youtube.com/seatable).'
+            a: 'A instalação de um sistema SeaTable Enterprise on-premises não é difícil e está explicada em nosso [manual do administrador](https://admin.seatable.com). Se preferir um vídeo, confira nosso [canal no YouTube](https://youtube.com/seatable).'
 
           - q: 'Existe suporte empresarial?'
             a: 'Estamos sempre disponíveis para os usuários do SeaTable Enterprise. O caminho mais direto é através do nosso [formulário de contato]({{< relref "pages/contact" >}}). Mais informações sobre as opções de suporte podem ser encontradas em nossa página de [Suporte]({{< relref "pages/support" >}}).'

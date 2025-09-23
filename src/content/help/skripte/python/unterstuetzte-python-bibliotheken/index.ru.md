@@ -12,10 +12,10 @@ url: '/ru/pomoshch/unterstuetzte-python-bibliotheken'
 
 ## Облако SeaTable
 
-Помимо модулей стандартной библиотеки, среда Python в SeaTable Cloud также включает некоторые популярные пакеты Python. Список доступных пакетов Python можно найти в [руководстве разработчика SeaTable](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment).
+Помимо модулей стандартной библиотеки, среда Python в SeaTable Cloud также включает некоторые популярные пакеты Python. Список доступных пакетов Python можно найти в [руководстве разработчика SeaTable](https://developer.seatable.com/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment).
 
 Другие пакеты Python импортировать нельзя.
 
 ## Сервер SeaTable
 
-Если вы запускаете собственный сервер SeaTable, вы можете добавить дополнительные пакеты Python в среду Python. В [руководстве администратора SeaTable](https://admin.seatable.io/installation/advanced/python-pipeline-custom-python-runner/) вы найдете инструкции по созданию собственного бегуна Python.
+Если вы запускаете собственный сервер SeaTable, вы можете добавить дополнительные пакеты Python в среду Python. В [руководстве администратора SeaTable](https://admin.seatable.com/installation/advanced/python-pipeline-custom-python-runner/) вы найдете инструкции по созданию собственного бегуна Python.

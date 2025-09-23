@@ -84,5 +84,5 @@ sections:
         - q: Onde posso baixar o SeaTable?
           a: 'O SeaTable é publicado como um contêiner Docker. Você pode obter a imagem mais recente no [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise)'
         - q: 'Quero executar meu próprio SeaTable Server. Onde posso obter mais informações?'
-          a: 'Por favor, consulte o [Manual de Administração do SeaTable](https://admin.seatable.io) para instruções sobre como instalar seu próprio servidor. Você pode comprar um arquivo de licença diretamente em nossa [página de preços]({{< relref "pages/prices" >}}).'
+          a: 'Por favor, consulte o [Manual de Administração do SeaTable](https://admin.seatable.com) para instruções sobre como instalar seu próprio servidor. Você pode comprar um arquivo de licença diretamente em nossa [página de preços]({{< relref "pages/prices" >}}).'
 ---

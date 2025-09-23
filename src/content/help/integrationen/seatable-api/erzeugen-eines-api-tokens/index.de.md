@@ -39,7 +39,7 @@ Als Team-Administrator können Sie für alle Bases, auf die Sie Zugriff haben, d
 ![API-Token über die Teamverwaltung erzeugen](images/generate-api-token-team-administrator.png)
 
 1. Öffnen Sie in die Teamverwaltung
-2. Wechseln Sie in den Bereich [API & Integrationen](https://account.seatable.io/api).
+2. Wechseln Sie in den Bereich [API & Integrationen](https://account.seatable.com/api).
 3. Klicken Sie auf API-Token erzeugen.
 4. Wählen Sie einen Namen, die Base und die gewünschte Berechtigung.
 5. Schicken Sie das Formular ab, um Ihren API-Token zu erzeugen.

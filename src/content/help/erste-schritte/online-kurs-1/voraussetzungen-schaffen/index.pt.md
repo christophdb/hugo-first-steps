@@ -26,7 +26,7 @@ A forma mais fácil é, de longe, registar uma conta gratuita no SeaTable Cloud.
 
 ### 2\. Servidor seaTable
 
-Em alternativa, com o nosso [SeaTable Server](https://admin.seatable.io/), oferecemos-lhe a opção de instalar o SeaTable no seu próprio servidor. Docker No entanto, só podemos recomendar esta opção a utilizadores avançados com conhecimentos técnicos de .
+Em alternativa, com o nosso [SeaTable Server](https://admin.seatable.com/), oferecemos-lhe a opção de instalar o SeaTable no seu próprio servidor. Docker No entanto, só podemos recomendar esta opção a utilizadores avançados com conhecimentos técnicos de .
 
 ### 3) SeaTable Dedicado
 

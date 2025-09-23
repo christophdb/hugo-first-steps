@@ -98,11 +98,11 @@ Si vous souhaitez utiliser **des autorisations de colonnes** pour protéger les 
 
 Il y aura à l'avenir l'option d'[exporter]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) les bases sans les pièces jointes téléchargées dans la gestion des fichiers, si celles-ci dépassent la limite d'exportation de 100 Mo par base.
 
-En ce qui concerne l'API, SeaTable 4.3 supporte pour la première fois [les requêtes JOIN](https://developer.seatable.io/scripts/sql/reference/), qui permettent d'interroger les enregistrements de différentes tables qui partagent une intersection commune d'attributs. Pour en savoir plus, consultez le manuel du développeur.
+En ce qui concerne l'API, SeaTable 4.3 supporte pour la première fois [les requêtes JOIN](https://developer.seatable.com/scripts/sql/reference/), qui permettent d'interroger les enregistrements de différentes tables qui partagent une intersection commune d'attributs. Pour en savoir plus, consultez le manuel du développeur.
 
 ## Installation simplifiée de SeaTable et de composants supplémentaires
 
-Enfin, pour les **clients sur site**, nous avons une petite gâterie : en même temps que la sortie de la version 4.3 de SeaTable Cloud, nous avons également revu les **instructions d'installation** dans notre [manuel d'administration](https://admin.seatable.io).
+Enfin, pour les **clients sur site**, nous avons une petite gâterie : en même temps que la sortie de la version 4.3 de SeaTable Cloud, nous avons également revu les **instructions d'installation** dans notre [manuel d'administration](https://admin.seatable.com).
 
 Notre objectif principal est de rendre l'**installation et les futures mises à jour de votre propre serveur SeaTable** encore plus faciles. Par exemple, le service démarrera automatiquement lorsque vous lancerez le conteneur correspondant, et vous n'aurez plus besoin de lancer manuellement les mises à jour de la base de données. Ce ne sont là que quelques-unes des nombreuses petites améliorations qui vous facilitent la vie en tant qu'administrateur et que vous trouverez dès maintenant dans le manuel d'administration.
 
