@@ -1,50 +1,66 @@
 ---
-title: 'Wie ein Notizbuch-Hersteller sein Angebotsmanagement mit SeaTable transformierte'
-description: ''
+title: 'How a notebook manufacturer transformed its quotation management with SeaTable'
+description: 'With SeaTable, the Corporate Gifts department at Leuchtturm1917 was able to reduce complexity in its order and quotation management and create a flexible, efficient and transparent solution.'
 seo:
-    title: 'Leuchtturm: Effektives Angebotsmanagement mit SeaTable'
-    description: ''
+    title: 'Leuchtturm1917: Efficient offer management with SeaTable'
+    description: 'With SeaTable, the Corporate Gifts team at Leuchtturm1917 has set up a modern, flexible and efficient quotation management process.'
 date: 2025-09-08
 categories:
     - 'customer-story'
 tags:
-    - ''
+    - 'Sales Planning'
+    - 'Customer Relationship Management'
 color: '#28544b'
-url: '/leuchtturm-angebotsmanagement'
-draft: true
+url: '/leuchtturm1917-quotation-management'
 ---
 
-{{< customer-logo image="" firma="Leuchtturm" branche="Schreibwaren und Notizbücher" ort="Deutschland" >}}
+{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Stationery and notebooks" ort="Germany" >}}
 
-## Hintergrund
+## Background
 
-Für Unternehmen und Vertriebsabteilungen, die jährlich tausende von Anfragen und Aufträgen bearbeiten, bedeutet ein effizientes Angebots- und Auftragsmanagement auch, Umsatzpotentiale zu erkennen und mit aktiven Maßnahmen zu verwirklichen. Genau vor dieser Herausforderung stand der B2B-Vertrieb bei Leuchtturm1917. Die Corporate Gifts-Abteilung des Schreibwaren- und Notizbuch-Herstellers bearbeitet jährlich alleine etwa 4.000 B2B-Anfragen. Seine Erfahrung mit SeaTable zeigt, wie mit dem richtigen Tool komplexe und zeitaufwendige Prozesse in optimierte, effiziente Abläufe verwandelt werden und die ganze Sales-Pipeline immer im Blick bleibt.
+For companies and sales departments processing thousands of inquiries and orders every year, efficient quotation and order management also means recognizing sales potential and realizing it with active measures. The B2B sales department at [Leuchtturm1917](https://www.leuchtturm1917.de/) faced precisely this challenge. The corporate gifts department of the stationery and notebook manufacturer processes around 4,000 B2B inquiries a year alone. Their experience with SeaTable shows how the right tool can transform complex and time-consuming processes into optimized, efficient workflows and keep the entire sales pipeline in view at all times.
 
-## Die Herausforderung: Komplexes und ineffizientes Angebotsmanagement
-Das sechsköpfige Vertriebsteam B2B bei Leuchtturm1917 stand gleich vor mehreren Herausforderungen im Angebotsmanagement. Das international ausgerichtete Unternehmen vertreibt überwiegend Notizbücher mit verschiedenen Veredelungen und Personalisierungsoptionen. Jedes Angebot muss also das Grundprodukt, die gewählte(n) Veredelung(en), Produktionsfixkosten und Versandkosten beinhalten. Je nach Mengenstaffelung müssen dabei unterschiedliche Rabatte je Veredelung oder Artikel berücksichtigt werden. "Diese Komplexität zu managen und dabei unterschiedliche Grundpreise für drei Währungen und drei Kundenrabattstufen in zwei Sprachen zu verwalten, wurde zunehmend herausfordernd.", erklärte Björn Augustin. 
+## The challenge: Complex and inefficient quotation management
+The six-strong B2B sales team at Leuchtturm1917 faced several challenges in quotation management. The internationally oriented company mainly sells **notebooks with various finishes and personalization options**. Each quotation must therefore include the basic product, the chosen finish(es), fixed production costs and shipping costs. Depending on the quantity scale, different discounts must be taken into account for each finishing or article. "Managing this complexity and managing different base prices for three currencies and three customer discount levels in two languages became increasingly challenging," explained Björn Augustin, Team Lead Corporate Gift.
 
-## Die Lösung: Eine voll anpassbare No-Code-Datenbank
-Nachdem die B2B-Abteilung mit Excel und der CRM-Komponente ihres ERP-Systems an die Grenzen gekommen war, wurde begonnen nach einer flexibleren Lösung zu suchen. Das Ziel war, ein neues Tool zu implementieren, mit dem alle Vorgänge im Angebots- und Auftragsmanagement transparent im Blick behalten werden konnten. Eine naheliegende Lösung war AirTable, mit dem der Vertriebsleiter bereits erste Erfahrungen gemacht hatte. Letztlich wurde nach einer Evaluationsphase jedoch SeaTable der Vorzug gegeben. Zwei wesentliche Gründe gaben den Ausschlag. Neben der besseren Nutzererfahrung in der Evaluationsphase vor allem, dass SeaTable als deutsche Firma mit Servern ausschließlich in Deutschland einen besseren Datenschutz gewährleistet, als die amerikanische Konkurrenz. 
-Die Implementierung übernahm der "Excel-Crack" der Abteilung, der die Herausforderung annahm, alle Anforderungen des Teams abzubilden und dann einen Prozess in SeaTable umzusetzen. Und das Ganze ohne Schnittstellen oder neue Funktionen programmieren lassen zu müssen. 
+![Leuchtturm1917 in Geesthacht](leuchtturm1917.png)
 
-> Mit Hilfe von SeaTable haben wir es geschafft einen Überblick über den Verkaufsprozess vor der Auftragserstellung zu erhalten. Angebotserstellung, -Nachverfolgung und -Auswertung sind in einem flexiblem System, welches für unsere Bedürfnisse maßgeschneidert ist. **Björn Augustin, Team Lead Corporate Gift**
+## The solution: a fully customizable no-code database
+After the B2B department had reached the limits of Excel and the CRM component of their ERP system, they started looking for a more flexible solution. The aim was to implement a new tool that would allow them to keep a transparent overview of all processes in quotation and order management. One obvious solution was AirTable, with which the sales manager had already had initial experience. Ultimately, however, SeaTable was chosen after an evaluation phase. There were two main reasons for this. In addition to the better user experience during the evaluation phase, above all **the fact that SeaTable, as a German company with servers exclusively in Germany, guarantees better data protection** than the American competition.
 
-Heute nutzen sechs bis acht Teammitglieder erfolgreich SeaTable und verwalten damit den gesamten Vertriebsprozess von der ersten Anfrage bis zur Auftragserteilung losgelöst von den bisherigen Systemen. Nur die Rechnungsstellung erfolgt bisher noch im ERP-System. Schrittweise werden inzwischen auch die B2B-Marketingaufgaben in SeaTable integriert. 
+The implementation was carried out by the department's "Excel crack", who took on the challenge of mapping all the team's requirements and then implementing a process in SeaTable. And all without having to have interfaces or new functions programmed.
 
-## Das Resultat: Effizienzsteigerung und bessere Einblicke in die Vertriebspipeline
+{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
 
-Die Auswirkungen der SeaTable-Implementierung waren unmittelbar – und enorm: 
+With the help of SeaTable, we have managed to get an overview of the sales process before the order is created. Quotation creation, tracking and evaluation are in a flexible system that is customized for our needs.
 
-- Deutliche Zeiteinsparung bei der Angebotserstellung dank Automatisierungen
-- Gesprächsnotizen und Status-Updates werden nun in einem Bruchteil der vorherigen Zeit verarbeitet
-- Alles in einem System: Angebote, Absagegründe, Konvertierungsraten und Bestellintervalle der Kunden
-- Gezieltere Kundenreaktivierungsmaßnahmen dank integrierter Daten 
+{{</ testimonial >}}
 
-"Wir haben uns ein Tool geschaffen, welches unsere Vertriebsprozesse übersichtlich darstellt und sich dynamisch ins Tagesgeschäft integriert“, so Björn Augustin. Indem bisher manuelle Prozesse automatisiert wurden, gewann das Team Zeit, um sich gezielt um die Konvertierung zu kümmern. Besonders geschätzt wird dabei die Nutzerfreundlichkeit des Systems. Automatisierte Prozesse und das nun alle Informationen zu einem Angebots- und Auftragsvorgang in einer Datenbank übersichtlich dargestellt werden, verbesserten die Zusammenarbeit und Effizienz erkennbar.  
-Dieser Erfolg ist nur der Anfang, denn bislang nutzt das Team noch nicht SeaTables volles Potential. Im nächsten Schritt, sollen die Möglichkeiten ausgelotet werden, die sich durch integrierte Scripte ergeben, um die Datenverarbeitung noch weiter zu optimieren. 
+Today, six to eight team members successfully use SeaTable to manage the entire sales process independently of the previous systems - from the initial inquiry to order placement. Only invoicing is still carried out in the ERP system. In the meantime, B2B marketing tasks are also gradually being integrated into SeaTable.
 
-## Komplexität ade: Digitale Transformation ermöglicht schlanke Workflows für zukünftiges Wachstum 
+## The result: more efficient processes and more transparent data
 
-Das Vertriebsteam B2B bei Leuchtturm1917 hat dank SeaTable seine Prozesse in kurzer Zeit erfolgreich auf ein neues Level gehoben. An die Stelle komplexer, intransparenter Prozesse mit verschiedenen Tools ist ein automatisierter, transparenter und zeitsparender Workflow getreten, bei dem alle Daten in einem System zusammenfließen. So bleibt den Teammitgliedern jetzt deutlich mehr Zeit, um sich auf ihre Kernaufgaben zu konzentrieren: Anfragen in Bestellungen und Erstbestellungen in Folgebestellungen umzuwandeln.  
+The effects of the SeaTable implementation were immediate - and enormous:
 
-Diese Erfolgsgeschichte zeigt, wie SeaTable dabei helfen kann, komplexe Preisstrukturen und Angebotserstellungsprozesse zu verwalten und dabei hohe Effizienz und Datengenauigkeit zu gewährleisten. Die digitale Transformation des Vertriebs schafft dadurch die Voraussetzung für das zukünftige Wachstum des Unternehmens. Dank der No-Code-Plattform SeaTable ohne aufwendige Implementierung oder teure Programmierungen. 
+- **Significant time savings** in quote preparation thanks to automations
+- Call notes and status updates are now processed in a **fraction of the previous time**
+- **All in one system:** Quotes, rejection reasons, conversion rates and customer order intervals
+- **More targeted customer reactivation measures** thanks to integrated data
+
+{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
+
+We have created a tool that presents our sales processes clearly and integrates dynamically into our day-to-day business.
+
+{{</ testimonial >}}
+
+By automating previously manual processes, the team gained time to focus on conversion. The user-friendliness of the system is particularly appreciated. Automated processes and the fact that all information relating to a quotation and order process is now clearly displayed in a database have noticeably improved collaboration and efficiency.
+
+This success is just the beginning, as the team is not yet using SeaTable to its full potential. The next step will be to explore the possibilities offered by [integrated scripts]({{< relref "help/skripte" >}}) to further optimize data processing.
+
+## Goodbye complexity: lean workflows for future growth
+
+The B2B sales team at Leuchtturm1917 has successfully raised its processes to a new level in a short space of time thanks to SeaTable. Complex, non-transparent processes with various tools have been replaced by an **automated, transparent and time-saving workflow** in which all data flows together in one system. This means that team members now have significantly more time to concentrate on their core tasks: Converting inquiries into orders and initial orders into follow-up orders.  
+
+This success story shows how SeaTable can help manage complex pricing structures and quoting processes while ensuring high efficiency and data accuracy. The digital transformation of sales thus creates the conditions for the company's future growth. Thanks to the no-code SeaTable platform, no complex implementation or expensive programming - and with [many free templates]({{< relref "/templates" >}}) for a quick start.
+
+{{< template-box id="e88ee7aedd00470e9310" submit="Test template" text="Scroll through our interactive CRM template and discover the first functions." >}}
