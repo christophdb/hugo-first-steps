@@ -3,7 +3,7 @@ title: 'Kanban Methode – eine Einführung'
 description: 'Kanban ist eine weit verbreitete, flexible Methode für agiles Arbeiten und zur Visualisierung von Arbeitsprozessen. Doch was genau ist die Kanban-Methode, auf welchen Prinzipien basiert sie und worauf müssen Sie bei der Umsetzung achten? In diesem Artikel erfahren Sie mehr.'
 seo:
     title: 'Kanban Methode – eine Einführung'
-    description: 'Die Kanban Methode gehört zu den beliebtesten agilen Methoden. '
+    description: 'Die Kanban Methode gehört zu den beliebtesten agilen Methoden. Hier erfahren sie, wie die Methode funktioniert und wie sie umgesetzt werden kann. '
 date: 2025-09-08
 categories:
     - 'best-practice'
