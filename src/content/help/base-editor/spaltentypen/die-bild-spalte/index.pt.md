@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/pt/ajuda/die-bild-spalte'
+url: '/pt/ajuda/coluna-imagens'
+aliases:
+    - '/pt/ajuda/die-bild-spalte'
+seo:
+    title: 'Coluna de imagens: fotos em tabelas SeaTable'
+    description: 'Envie e organize fotos nas tabelas do SeaTable. Adicione arquivos por upload, URL, arraste ou gerenciador de arquivos, visualize miniaturas e baixe facilmente.'
+
 ---
 
 Com a ajuda de uma **coluna de imagens**, pode carregar, guardar e gerir novas imagens nas suas tabelas com apenas alguns cliques.

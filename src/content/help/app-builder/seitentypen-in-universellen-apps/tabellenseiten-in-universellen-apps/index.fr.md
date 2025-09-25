@@ -5,7 +5,13 @@ lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/tabellenseiten-in-universellen-apps'
+url: '/fr/aide/pages-tableau-apps-universelles'
+aliases:
+    - '/fr/aide/tabellenseiten-in-universellen-apps'
+seo:
+    title: 'Pages de tableau dans les Apps Universelles'
+    description: 'Ajoutez des tableaux comme pages dans une App Universelle, réglez filtres, tris, groupes et visibilité des colonnes. Gérez les droits, exportez vers Excel, tout est possible.'
+
 ---
 
 Ce type de page vous permet d'[ajouter]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) n'importe quel **tableau** de votre base comme page à votre application universelle.

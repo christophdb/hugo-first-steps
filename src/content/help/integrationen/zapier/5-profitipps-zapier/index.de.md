@@ -6,6 +6,10 @@ categories:
     - 'zapier-integration'
 author: 'cdb'
 url: '/de/hilfe/5-profitipps-zapier'
+seo:
+    title: '5 Profitipps für SeaTable und Zapier Integration'
+    description: 'Erfahren Sie, wie Sie SeaTable und Zapier effektiv verbinden: Lookup-Spalten, zeitgesteuerte Zaps, Formeln, API-Limits und individuelle API-Requests optimal nutzen.'
+
 ---
 
 Mithilfe von Zapier erstellen Sie in wenigen Minuten eine Schnittstelle zwischen SeaTable und einer von tausenden anderen Apps. Doch auch wenn Zapier einfach und intuitiv zu bedienen ist, sollten Sie einen Blick auf die folgenden Möglichkeiten werfen, um noch mehr aus Ihren Zaps herauszuholen.

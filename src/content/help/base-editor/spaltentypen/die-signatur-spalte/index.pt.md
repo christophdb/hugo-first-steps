@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/pt/ajuda/die-signatur-spalte'
+url: '/pt/ajuda/coluna-assinatura'
+aliases:
+    - '/pt/ajuda/die-signatur-spalte'
+seo:
+    title: 'Coluna de assinatura: assine digitalmente no SeaTable'
+    description: 'A coluna de assinatura permite capturar, salvar e gerenciar assinaturas digitais em SeaTable. Armazene, edite ou exclua como arquivos PNG na gestão de arquivos.'
+
 ---
 
 Pode armazenar uma assinatura digital numa **coluna de assinatura**, que é guardada como um ficheiro PNG no gestor de ficheiros Base.

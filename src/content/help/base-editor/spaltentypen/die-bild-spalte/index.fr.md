@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/fr/aide/die-bild-spalte'
+url: '/fr/aide/colonne-images'
+aliases:
+    - '/fr/aide/die-bild-spalte'
+seo:
+    title: 'Colonne d’images : gérer photos dans SeaTable'
+    description: 'Ajoutez et gérez des images dans vos tableaux SeaTable. Importez, liez, glissez-déposez, prévisualisez et téléchargez vos photos rapidement dans la colonne d’images.'
+
 ---
 
 Grâce à une **colonne d'images**, vous pouvez télécharger, enregistrer et gérer de nouvelles images dans vos tableaux en quelques clics seulement.

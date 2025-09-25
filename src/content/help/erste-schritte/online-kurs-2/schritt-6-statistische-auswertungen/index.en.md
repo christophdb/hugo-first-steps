@@ -5,7 +5,13 @@ lastmod: '2024-09-25'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-6-statistische-auswertungen'
+url: '/help/step-6-statistical-analysis'
+aliases:
+    - '/help/schritt-6-statistische-auswertungen'
+seo:
+    title: 'Statistical analysis with the SeaTable statistics module'
+    description: 'Easily create charts and graphics in SeaTable: revenue, registrations, popular courses – all statistics always automatically updated and clearly displayed in your base.'
+
 ---
 
 We are nearing the end of this second online course. While the process for your customers is complete with the receipt of the confirmation of participation, you can take one more step: analyzing the data you have collected. This provides an excellent basis for statistical evaluations that will help you to make your services better and more successful.

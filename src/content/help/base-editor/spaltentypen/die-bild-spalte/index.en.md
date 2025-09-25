@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/help/die-bild-spalte'
+url: '/help/image-column'
+aliases:
+    - '/help/die-bild-spalte'
+seo:
+    title: 'Image column: Manage photos in your SeaTable tables'
+    description: 'Upload and manage images in SeaTable tables easily. Add files by upload, URL, drag-and-drop or file manager, preview all images and download them for further use.'
+
 ---
 
 With the help of an **image column** you can upload, save and manage new images in your tables with just a few clicks.

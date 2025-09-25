@@ -6,6 +6,10 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/schritt-6-statistische-auswertungen'
+seo:
+    title: 'Statistische Auswertungen mit dem Statistik-Modul'
+    description: 'Erstellen Sie mit SeaTable schnell Diagramme und Grafiken: Umsatz, Anmeldungen, beliebte Kurse – alle Statistiken in Ihrer Base stets automatisch aktuell und übersichtlich.'
+
 ---
 
 Wir nähern uns dem Ende dieses zweiten Online-Kurses. Während der Prozess für Ihre Kunden mit dem Erhalt der Teilnahmebestätigung abgeschlossen ist, können Sie noch einen weiteren Schritt unternehmen: die Analyse Ihrer gesammelten Daten. Diese bieten eine hervorragende Grundlage für statistische Auswertungen, die Ihnen helfen, Ihre Dienstleistungen besser und erfolgreicher zu gestalten.

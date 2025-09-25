@@ -6,6 +6,10 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
 url: '/de/hilfe/reimport-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Reimport von gemeinsamen Datensätzen in SeaTable'
+    description: 'Erfahren Sie, wie Sie die Verbindung zu gemeinsamen Datensätzen nach Kopie oder Wiederherstellung einer Base wiederherstellen, synchronisieren und mögliche Folgen prüfen.'
+
 ---
 
 Wenn Sie **Bases**, in die gemeinsame Datensätze eingebunden sind, [kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) oder aus [Snapshots wiederherstellen]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}), geht die **Verbindung zu den gemeinsamen Datensätzen** verloren. Die Daten liegen dann zwar in einer normalen Tabelle vor, lassen sich aber nicht mehr synchronisieren. Daher können Sie gemeinsame Datensätze wieder in bestehende Tabellen **reimportieren** und dadurch die **Synchronisation** mit den dortigen Daten ermöglichen.

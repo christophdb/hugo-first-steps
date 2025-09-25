@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/abfrageseiten-in-universellen-apps'
+url: '/help/query-pages-universal-apps'
+aliases:
+    - '/help/abfrageseiten-in-universellen-apps'
+seo:
+    title: 'Use query pages in Universal Apps'
+    description: 'Search and filter large datasets in Universal Apps by specific values. Define filters, sorting and query fields for customized results—edit found data directly if allowed.'
+
 ---
 
 Using this page type, which works in a similar way to the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), you can search your data records for specific values across certain fields. The page type is particularly useful for **extensive data records** such as product catalogs or libraries. A specific use case could be, for example, querying an employee directory.

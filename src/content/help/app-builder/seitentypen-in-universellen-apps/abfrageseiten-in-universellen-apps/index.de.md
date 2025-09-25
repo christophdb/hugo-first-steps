@@ -6,6 +6,10 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/abfrageseiten-in-universellen-apps'
+seo:
+    title: 'Abfrageseiten in Universellen Apps nutzen'
+    description: 'Durchsuchen und filtern Sie große Datensätze in Universellen Apps gezielt nach Werten. Definieren Sie Filter, Sortierungen und Abfragefelder für individuelle Ergebnisse.'
+
 ---
 
 Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage eines Mitarbeiterverzeichnisses sein.

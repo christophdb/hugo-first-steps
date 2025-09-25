@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/abfrageseiten-in-universellen-apps'
+url: '/fr/aide/pages-requete-apps-universelles'
+aliases:
+    - '/fr/aide/abfrageseiten-in-universellen-apps'
+seo:
+    title: 'Pages de requête dans les Apps Universelles'
+    description: 'Recherchez, filtrez et affichez de grands ensembles de données dans une App Universelle. Définissez champs de requête, filtres, tris et éditez les résultats si besoin.'
+
 ---
 
 Ce type de page, qui fonctionne de la même manière que l'[application de requête de données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), vous permet de rechercher des valeurs spécifiques dans vos ensembles de données à travers certains champs. Ce type de page est particulièrement utile pour les **ensembles de données volumineux** tels que les catalogues de produits ou les bibliothèques. Une application concrète pourrait être par exemple la consultation d'un répertoire d'employés.

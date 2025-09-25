@@ -6,6 +6,10 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/tabellenseiten-in-universellen-apps'
+seo:
+    title: 'Tabellenseiten in Universellen Apps gestalten'
+    description: 'Fügen Sie Tabellen als Seiten zur Universellen App hinzu, steuern Sie Filter, Sortierungen, Spalten oder Bearbeitungsrechte. Alle Einstellungen direkt in der Tabellenseite wählen.'
+
 ---
 
 Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als [Seite zu Ihrer Universellen App hinzufügen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).

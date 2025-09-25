@@ -5,7 +5,13 @@ lastmod: '2023-06-28'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/fr/aide/5-profitipps-zapier'
+url: '/fr/aide/5-astuces-zapier'
+aliases:
+    - '/fr/aide/5-profitipps-zapier'
+seo:
+    title: '5 astuces SeaTable et Zapier pour automatiser'
+    description: 'Optimisez l intégration SeaTable-Zapier : colonnes lookup, déclenchements par date, formules, limites API et requêtes personnalisées pour vos automatisations.'
+
 ---
 
 Zapier vous permet de créer en quelques minutes une interface entre SeaTable et l'une des milliers d'autres applications. Mais même si Zapier est facile et intuitif à utiliser, vous devriez jeter un coup d'œil aux possibilités suivantes pour tirer encore plus de vos Zaps.

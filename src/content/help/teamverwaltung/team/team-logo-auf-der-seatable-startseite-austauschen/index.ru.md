@@ -5,7 +5,13 @@ lastmod: '2023-06-27'
 categories:
     - 'teamverwaltung'
 author: 'nsc2'
-url: '/ru/pomoshch/team-logo-auf-der-seatable-startseite-austauschen'
+url: '/ru/pomoshch/smenit-logotip-komandy-seatable'
+aliases:
+    - '/ru/pomoshch/team-logo-auf-der-seatable-startseite-austauschen'
+seo:
+    title: 'Сменить логотип команды на главной странице SeaTable'
+    description: 'Администраторы в Enterprise могут быстро заменить логотип команды на главной странице SeaTable через управление командой и отразить фирменный стиль компании.'
+
 ---
 
 {{< required-version "Предприятие" >}}

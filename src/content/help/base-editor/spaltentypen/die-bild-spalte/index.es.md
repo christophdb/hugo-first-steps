@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/es/ayuda/die-bild-spalte'
+url: '/es/ayuda/columna-imagenes'
+aliases:
+    - '/es/ayuda/die-bild-spalte'
+seo:
+    title: 'Columna de imágenes: gestiona fotos en SeaTable'
+    description: 'Sube, organiza y descarga imágenes en tablas de SeaTable. Añade archivos por carga, URL, arrastrar o gestor de archivos y visualiza todas tus imágenes en miniatura.'
+
 ---
 
 Con la ayuda de una **columna de imágenes**, puedes cargar, guardar y gestionar nuevas imágenes en tus tablas con sólo unos clics.

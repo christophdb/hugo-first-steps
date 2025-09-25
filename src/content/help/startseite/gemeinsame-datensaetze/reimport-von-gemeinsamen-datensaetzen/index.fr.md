@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/fr/aide/reimport-von-gemeinsamen-datensaetzen'
+url: '/fr/aide/reimport-jeux-donnees-partages'
+aliases:
+    - '/fr/aide/reimport-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Réimporter des jeux de données partagés dans SeaTable'
+    description: 'Apprenez à reconnecter des jeux de données partagés après copie ou restauration d’une base SeaTable. Suivez les étapes et comprenez les effets du réimport.'
+
 ---
 
 Si vous [copiez]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) ou [restaurez]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) des **bases** dans lesquelles des jeux de données communs sont intégrés, la **connexion aux jeux de données communs** est perdue. Les données sont alors disponibles dans un tableau normal, mais ne peuvent plus être synchronisées. C'est pourquoi vous pouvez **réimporter** les jeux de données communs dans des tableaux existants et permettre ainsi la **synchronisation** avec les données qui s'y trouvent.

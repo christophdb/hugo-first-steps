@@ -5,7 +5,13 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-7-quiz'
+url: '/ru/pomoshch/shag-7-viktorina'
+aliases:
+    - '/ru/pomoshch/schritt-7-quiz'
+seo:
+    title: 'Шаг 7: Викторина — проверьте знания SeaTable'
+    description: 'Пройдите викторину из 12 вопросов о SeaTable (на английском языке). Повторяйте ее сколько нужно, пока не дадите не менее 10 верных ответов.'
+
 ---
 
 **Вы сделали это!** Вы дошли до конца учебника.

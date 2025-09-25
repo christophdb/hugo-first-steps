@@ -5,7 +5,13 @@ lastmod: '2024-09-25'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/pt/ajuda/schritt-6-statistische-auswertungen'
+url: '/pt/ajuda/etapa-6-analise-estatistica'
+aliases:
+    - '/pt/ajuda/schritt-6-statistische-auswertungen'
+seo:
+    title: 'Análise estatística com módulo de estatísticas'
+    description: 'Crie gráficos e visuais no SeaTable: receitas, inscrições, cursos populares. Todas as estatísticas da base se atualizam automaticamente e ficam sempre acessíveis.'
+
 ---
 
 Estamos a chegar ao fim deste segundo curso em linha. Enquanto o processo para os seus clientes está concluído com a receção da confirmação de participação, pode dar mais um passo: analisar os dados recolhidos. Esta é uma excelente base para análises estatísticas que o ajudarão a melhorar os seus serviços e a ter mais sucesso.

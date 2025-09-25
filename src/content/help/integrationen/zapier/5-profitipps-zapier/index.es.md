@@ -5,7 +5,13 @@ lastmod: '2023-06-28'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/es/ayuda/5-profitipps-zapier'
+url: '/es/ayuda/5-consejos-avanzados-zapier'
+aliases:
+    - '/es/ayuda/5-profitipps-zapier'
+seo:
+    title: '5 consejos avanzados para SeaTable y Zapier'
+    description: 'Aprovecha SeaTable y Zapier con lookup, triggers por fecha, fórmulas, límites de API y peticiones personalizadas. Automatiza y mejora tus procesos fácilmente.'
+
 ---
 
 Zapier le permite crear una interfaz entre SeaTable y una de las miles de otras aplicaciones en tan sólo unos minutos. Pero aunque Zapier es fácil e intuitivo de usar, deberías echar un vistazo a las siguientes posibilidades para sacar aún más partido a tus Zaps.
