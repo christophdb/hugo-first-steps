@@ -5,7 +5,13 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/ru/pomoshch/modus-farbe-und-icon-einer-universellen-app-einstellen'
+url: '/ru/pomoshch/nastroika-rezhima-tsveta-znachka-universalnogo-prilozheniya'
+aliases:
+    - '/ru/pomoshch/modus-farbe-und-icon-einer-universellen-app-einstellen'
+seo:
+    title: 'Настроить режим, цвет и значок универсального приложения'
+    description: 'Измените режим, цвет и значок универсального приложения SeaTable. Выберите светлый/тёмный режим, цветовую схему и загрузите свой значок для индивидуального дизайна.'
+
 ---
 
 Для каждого [универсального приложения]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) можно **задать визуальные настройки**, чтобы привести его в соответствие с вашими личными пожеланиями или корпоративным дизайном вашей компании. Параметры брендинга включают **режим**, **цвет** и **иконку** универсального приложения.

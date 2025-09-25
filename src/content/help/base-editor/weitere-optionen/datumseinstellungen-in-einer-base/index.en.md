@@ -5,7 +5,13 @@ lastmod: '2025-07-02'
 categories:
     - 'arbeiten-mit-bases'
 author: 'kgr'
-url: '/help/datumseinstellungen-in-einer-base'
+url: '/help/date-settings-in-base'
+aliases:
+    - '/help/datumseinstellungen-in-einer-base'
+seo:
+    title: 'Adjusting date settings in your SeaTable base easily'
+    description: 'Change the first day of the week for each SeaTable base. Set Monday, Saturday or Sunday to match your calendar needs. All changes are saved automatically.'
+
 ---
 
 As is common in Europe and many other regions, SeaTable uses **Monday** as the first day of the week by default. However, depending on which country you live in, Saturday or Sunday may be the **first day of the week**. You can therefore adapt SeaTable to your regional circumstances: In the **Date settings**, the first day of the week can be set individually for each base.

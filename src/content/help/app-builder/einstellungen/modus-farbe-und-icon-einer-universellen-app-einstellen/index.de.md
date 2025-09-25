@@ -6,6 +6,10 @@ categories:
     - 'universelle-apps'
 author: 'kgr'
 url: '/de/hilfe/modus-farbe-und-icon-einer-universellen-app-einstellen'
+seo:
+    title: 'Modus, Farbe & Icon für Universelle App einstellen'
+    description: 'Passen Sie Modus, Farbe und Icon Ihrer Universellen App in SeaTable individuell an. Hell-/Dunkelmodus, Farbschema und eigene Icons: So gestalten Sie das App-Design selbst.'
+
 ---
 
 Für jede [Universelle App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) können Sie **visuelle Einstellungen** vornehmen, um die App an Ihre persönlichen Wünsche oder das Corporate Design Ihres Unternehmens anzupassen. Zu den Branding-Optionen zählen der **Modus**, die **Farbe** und das **Icon** einer Universellen App.
