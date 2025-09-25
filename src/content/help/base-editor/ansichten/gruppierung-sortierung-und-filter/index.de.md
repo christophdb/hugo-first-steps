@@ -6,6 +6,10 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'cdb'
 url: '/de/hilfe/gruppierung-sortierung-und-filter'
+seo:
+    title: 'Gruppieren, sortieren & filtern in SeaTable richtig nutzen'
+    description: 'Filtern, Sortieren und Gruppieren in SeaTable: So organisieren Sie Ihre Tabellen effizient und erhalten die gewünschten Daten in wenigen Klicks.'
+
 ---
 
 SeaTable bietet diverse Methoden, um Daten auszuwerten. Filter, Sortierung und Gruppierung sind SeaTables einfache Auswertungswerkzeuge. Mit wenigen Klicks organisieren Sie mit ihnen Ihre Daten um und erhalten einfacher die gewünschten Informationen. Einfach heißt aber nicht simpel. Richtig angewendet, gerade in Kombination, bieten Filter, Sortierungen und Gruppierungen vielfältige Auswertungsmöglichkeiten.

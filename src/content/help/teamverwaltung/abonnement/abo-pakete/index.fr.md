@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/fr/aide/abo-pakete'
+url: '/fr/aide/formules-abonnement'
+aliases:
+    - '/fr/aide/abo-pakete'
+seo:
+    title: 'Les abonnements SeaTable : vue d’ensemble & options'
+    description: 'Découvrez Free, Plus, Enterprise, Dedicated Cloud et Licence. Comparez toutes les offres, leurs fonctions et choisissez la meilleure formule.'
+
 ---
 
 Nous proposons plusieurs versions de SeaTable à différents niveaux de prix, ce qui permet à chacun de trouver son bonheur. Les fonctions et les possibilités varient en fonction du niveau de prix et sont donc entièrement adaptables à vos besoins individuels. Pour comparer rapidement nos abonnements, consultez [notre page de prix]({{< relref "pages/prices" >}}).

@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/help/abo-pakete'
+url: '/help/subscription-plans'
+aliases:
+    - '/help/abo-pakete'
+seo:
+    title: 'SeaTable subscription plans – overview & features'
+    description: 'Find the right plan: Free, Plus, Enterprise, Dedicated Cloud or License. Compare SeaTable plans, features and choose the best option for your team.'
+
 ---
 
 We offer SeaTable in different versions in different price ranges - so there is something for everyone. The features and capabilities vary depending on the price level and are therefore fully customizable to your individual needs. You can get a quick comparison of our subscriptions on [our price page]({{< relref "pages/prices" >}}).

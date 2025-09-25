@@ -5,7 +5,13 @@ lastmod: '2023-03-24'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/duplizieren-einer-bestehenden-base'
+url: '/ru/pomoshch/dublirovat-bazu'
+aliases:
+    - '/ru/pomoshch/duplizieren-einer-bestehenden-base'
+seo:
+    title: 'SeaTable: Дублирование базы пошагово'
+    description: 'Узнайте, как дублировать существующую базу в SeaTable. Создайте копию вашей базы и сохраните её в рабочем пространстве или группе.'
+
 ---
 
 В SeaTable у вас есть возможность дублировать существующие базы. Вы можете создать копию своей базы в одной из [групп]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) или в области " **Мои базы** ". Последний вариант работает следующим образом:

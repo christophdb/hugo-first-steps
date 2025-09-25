@@ -5,7 +5,13 @@ lastmod: '2022-08-29'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'cdb'
-url: '/help/gruppierung-sortierung-und-filter'
+url: '/help/grouping-sorting-filter'
+aliases:
+    - '/help/gruppierung-sortierung-und-filter'
+seo:
+    title: 'Group, sort & filter data in SeaTable step by step'
+    description: 'Learn how to group, sort and filter tables efficiently in SeaTable. Organize your data to get exactly the information you need – with just a few clicks.'
+
 ---
 
 SeaTable offers various methods to analyse data. Filters, sorting and grouping are SeaTable's simple evaluation tools. With just a few clicks, you can reorganise your data and get the information you want more easily. Simple, however, does not mean simplistic. Used correctly, especially in combination, filters, sorting and grouping offer a wide range of evaluation options.

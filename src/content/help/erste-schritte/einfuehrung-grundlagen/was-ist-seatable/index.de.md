@@ -6,6 +6,10 @@ categories:
     - 'erste-schritte'
 author: 'cdb'
 url: '/de/hilfe/was-ist-seatable'
+seo:
+    title: 'SeaTable: No-Code Datenbank & App Builder Plattform'
+    description: 'SeaTable ist eine No-Code Datenbank mit integriertem App Builder. Erstellen Sie ohne Programmieren eigene Anwendungen, Workflows und Datenbanken online.'
+
 weight: 1
 star: true
 ---

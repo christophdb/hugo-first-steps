@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/pt/ajuda/abo-pakete'
+url: '/pt/ajuda/pacotes-assinatura'
+aliases:
+    - '/pt/ajuda/abo-pakete'
+seo:
+    title: 'Pacotes de assinatura SeaTable: tipos e recursos'
+    description: 'Explore Free, Plus, Enterprise, Dedicated Cloud e licença. Compare todos os pacotes, funcionalidades e escolha a opção correta para seu time.'
+
 ---
 
 Oferecemos SeaTable em diferentes versões em diferentes gamas de preços - por isso, há algo para todos. As funções e possibilidades variam em função do nível de preços e podem, portanto, ser adaptadas às suas necessidades individuais. Pode obter uma rápida comparação das nossas subscrições na [nossa página de preços]({{< relref "pages/prices" >}}).

@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/es/ayuda/abo-pakete'
+url: '/es/ayuda/planes-suscripcion'
+aliases:
+    - '/es/ayuda/abo-pakete'
+seo:
+    title: 'Planes de suscripción SeaTable: tipos y funciones'
+    description: 'Conozca todas las suscripciones disponibles: Free, Plus, Enterprise, Dedicated Cloud y licencia. Compare opciones y elija la ideal para su equipo.'
+
 ---
 
 Ofrecemos SeaTable en distintas versiones y con diferentes precios, por lo que hay algo para todos los gustos. Las funciones y posibilidades varían en función del nivel de precios, por lo que pueden adaptarse a sus necesidades individuales. Puede obtener una comparación rápida de nuestros abonos en [nuestra página de precios]({{< relref "pages/prices" >}}).

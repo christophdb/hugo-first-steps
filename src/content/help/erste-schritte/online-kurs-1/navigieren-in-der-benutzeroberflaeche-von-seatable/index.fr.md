@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/navigieren-in-der-benutzeroberflaeche-von-seatable'
+url: '/fr/aide/navigation-interface-seatable'
+aliases:
+    - '/fr/aide/navigieren-in-der-benutzeroberflaeche-von-seatable'
+seo:
+    title: 'Naviguer dans l’interface utilisateur de SeaTable'
+    description: 'Prenez en main l’interface SeaTable : page d’accueil, bases, tableaux, vues. Chaque étape et fonction expliquée pour une organisation optimale de vos données.'
+
 weight: 3
 ---
 

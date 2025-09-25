@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/navigieren-in-der-benutzeroberflaeche-von-seatable'
+url: '/ru/pomoshch/navigatsiya-interfeys-seatable'
+aliases:
+    - '/ru/pomoshch/navigieren-in-der-benutzeroberflaeche-von-seatable'
+seo:
+    title: 'Навигация в интерфейсе пользователя SeaTable'
+    description: 'Узнайте, как устроен интерфейс SeaTable: главная страница, базы, таблицы, виды. Все элементы подробно объяснены для легкой работы с данными.'
+
 weight: 3
 ---
 

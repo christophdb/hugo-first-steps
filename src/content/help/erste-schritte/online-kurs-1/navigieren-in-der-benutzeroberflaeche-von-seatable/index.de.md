@@ -6,6 +6,10 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/navigieren-in-der-benutzeroberflaeche-von-seatable'
+seo:
+    title: 'Navigieren in der SeaTable Benutzeroberfläche'
+    description: 'Lernen Sie die Navigation und alle Elemente der SeaTable Oberfläche kennen. Schritt-für-Schritt: Startseite, Bases, Tabellen, Ansichten & Funktionen verständlich erklärt.'
+
 weight: 3
 ---
 

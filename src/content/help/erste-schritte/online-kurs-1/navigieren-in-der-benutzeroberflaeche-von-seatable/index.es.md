@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/navigieren-in-der-benutzeroberflaeche-von-seatable'
+url: '/es/ayuda/navegar-interfaz-seatable'
+aliases:
+    - '/es/ayuda/navigieren-in-der-benutzeroberflaeche-von-seatable'
+seo:
+    title: 'Cómo navegar la interfaz de usuario de SeaTable'
+    description: 'Descubre la interfaz de SeaTable: inicio, bases, tablas y vistas. Aprende dónde encontrar cada función y navega cada área fácilmente siguiendo los pasos.'
+
 weight: 3
 ---
 

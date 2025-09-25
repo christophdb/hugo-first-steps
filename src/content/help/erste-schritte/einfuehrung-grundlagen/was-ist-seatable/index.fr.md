@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/fr/aide/was-ist-seatable'
+url: '/fr/aide/quest-ce-que-seatable'
+aliases:
+    - '/fr/aide/was-ist-seatable'
+seo:
+    title: 'SeaTable : base de données & App Builder No-Code'
+    description: 'SeaTable est une base de données No-Code avec App Builder intégré. Construisez des apps, automatisez vos workflows et gérez vos données sans coder.'
+
 weight: 1
 star: true
 ---
