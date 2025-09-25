@@ -5,7 +5,13 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-7-quiz'
+url: '/help/step-7-quiz'
+aliases:
+    - '/help/schritt-7-quiz'
+seo:
+    title: 'Step 7: Quiz – Test your SeaTable knowledge'
+    description: 'Complete the tutorial with a 12-question SeaTable quiz. Answer general and project-related questions. Repeat as often as needed until you score at least 10 correct.'
+
 ---
 
 **You've done it!** You have reached the end of the tutorial.

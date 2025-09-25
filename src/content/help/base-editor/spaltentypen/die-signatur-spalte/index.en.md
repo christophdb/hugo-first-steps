@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/help/die-signatur-spalte'
+url: '/help/signature-column'
+aliases:
+    - '/help/die-signatur-spalte'
+seo:
+    title: 'Signature column: store digital signatures in SeaTable'
+    description: 'Use the signature column in SeaTable to capture, save and manage digital signatures as PNG files. Signatures can be edited anytime or deleted in file management.'
+
 ---
 
 You can store a digital signature in a **signature column**, which is saved as a PNG file in the base file manager.

@@ -6,6 +6,10 @@ categories:
   - "teamverwaltung"
 author: "nsc2"
 url: "/de/hilfe/team-logo-auf-der-seatable-startseite-austauschen"
+seo:
+    title: 'Team-Logo auf SeaTable Startseite austauschen'
+    description: 'Administratoren können in der Teamverwaltung für Enterprise-Teams das Logo auf der SeaTable Startseite mit wenigen Klicks durch das eigene Firmenlogo austauschen.'
+
 ---
 
 {{< required-version "Enterprise" >}}

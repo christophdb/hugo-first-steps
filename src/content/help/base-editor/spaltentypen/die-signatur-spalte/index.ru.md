@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/ru/pomoshch/die-signatur-spalte'
+url: '/ru/pomoshch/stolbets-podpisi'
+aliases:
+    - '/ru/pomoshch/die-signatur-spalte'
+seo:
+    title: 'Столбец подписи: сохраняйте электронные подписи'
+    description: 'Храните цифровые подписи в столбце SeaTable. Добавляйте, изменяйте и управляйте подписями в формате PNG, удаляйте и скачивайте их в файловом менеджере базы.'
+
 ---
 
 Цифровую подпись можно хранить в **столбце подписи**, который сохраняется в виде PNG-файла в файловом менеджере Base.

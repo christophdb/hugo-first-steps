@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/es/ayuda/reimport-von-gemeinsamen-datensaetzen'
+url: '/es/ayuda/reimportar-datasets-compartidos'
+aliases:
+    - '/es/ayuda/reimport-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Reimportar conjuntos de datos compartidos en SeaTable'
+    description: 'Descubre cómo volver a vincular conjuntos de datos compartidos en SeaTable tras copiar una base o restaurar desde un snapshot y qué sucede con los datos tras la sincronización.'
+
 ---
 
 Si se [copian]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **bases** en las que están integrados registros de **datos compartidos** o se [restauran]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}), se pierde la **conexión con los registros de datos compartidos**. Aunque los datos están disponibles en una tabla normal, ya no se pueden sincronizar. Por lo tanto, puede **volver a importar** registros de datos compartidos en tablas existentes para permitir la **sincronización** con los datos que allí se encuentran.

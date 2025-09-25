@@ -5,7 +5,13 @@ lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/tabellenseiten-in-universellen-apps'
+url: '/help/table-pages-universal-apps'
+aliases:
+    - '/help/tabellenseiten-in-universellen-apps'
+seo:
+    title: 'Design table pages in Universal Apps'
+    description: 'Add tables as pages in Universal Apps, set filters, sorting, grouping and column visibility. Manage editing rights and export the page to Excel with one click.'
+
 ---
 
 You can use this page type to [add a table from your base to your app]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).

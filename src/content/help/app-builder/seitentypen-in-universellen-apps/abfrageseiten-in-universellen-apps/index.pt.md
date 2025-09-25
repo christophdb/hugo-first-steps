@@ -5,7 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/abfrageseiten-in-universellen-apps'
+url: '/pt/ajuda/paginas-consulta-apps-universais'
+aliases:
+    - '/pt/ajuda/abfrageseiten-in-universellen-apps'
+seo:
+    title: 'Páginas de consulta em Apps Universais'
+    description: 'Pesquise e filtre grandes volumes de dados em Apps Universais. Defina filtros, ordenações e campos de pesquisa para visualizar apenas os resultados desejados.'
+
 ---
 
 Utilizando este tipo de página, que funciona de forma semelhante à [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), pode procurar nos seus registos de dados valores específicos em determinados campos. O tipo de página é particularmente útil para **registos de dados extensos**, como catálogos de produtos ou bibliotecas. Um caso de utilização específico poderia ser, por exemplo, a consulta de um diretório de empregados.

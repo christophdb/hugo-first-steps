@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/pt/ajuda/reimport-von-gemeinsamen-datensaetzen'
+url: '/pt/ajuda/reimportar-dados-compartilhados'
+aliases:
+    - '/pt/ajuda/reimport-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Reimportar dados compartilhados em tabelas SeaTable'
+    description: 'Veja como restaurar a ligação com conjuntos de dados compartilhados após copiar ou restaurar uma base. Sincronize e mantenha os dados atualizados facilmente.'
+
 ---
 
 Se [copiar]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **bases** nas quais estão integrados registos de dados partilhados ou se [as restaurar]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}), a **ligação aos registos de dados partilhados** perde-se. Embora os dados estejam então disponíveis numa tabela normal, já não podem ser sincronizados. Por conseguinte, é possível **reimportar** os registos de dados partilhados para as tabelas existentes para permitir **a sincronização** com os dados aí existentes.

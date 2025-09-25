@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/es/ayuda/die-signatur-spalte'
+url: '/es/ayuda/columna-firmas'
+aliases:
+    - '/es/ayuda/die-signatur-spalte'
+seo:
+    title: 'Columna de firmas: guarda firmas digitales en SeaTable'
+    description: 'La columna de firmas permite capturar y gestionar firmas digitales en SeaTable. Guarda, edita y elimina las firmas como archivos PNG en tu base de datos.'
+
 ---
 
 Puede almacenar una firma digital en una **columna de firma**, que se guarda como archivo PNG en el gestor de archivos Base.

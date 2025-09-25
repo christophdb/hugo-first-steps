@@ -5,7 +5,13 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-8-quiz'
+url: '/ru/pomoshch/shag-8-viktorina'
+aliases:
+    - '/ru/pomoshch/schritt-8-quiz'
+seo:
+    title: 'Шаг 8: Викторина — проверьте знания SeaTable'
+    description: 'Завершите обучение викториной из 12 вопросов о SeaTable. Проходите ее любое количество раз, пока не дадите не менее 10 верных ответов. Ваш прогресс засчитывается.'
+
 ---
 
 **Вы сделали это!** Вы дошли до конца второго урока.

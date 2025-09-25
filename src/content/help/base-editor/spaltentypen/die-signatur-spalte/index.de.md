@@ -6,6 +6,10 @@ categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
 url: '/de/hilfe/die-signatur-spalte'
+seo:
+    title: 'Die Signatur-Spalte: Digitale Unterschrift speichern'
+    description: 'Erfassen Sie mit der Signatur-Spalte digitale Unterschriften in SeaTable. Speichern, ändern und verwalten Sie Signaturen als PNG-Dateien direkt in der Dateiverwaltung.'
+
 ---
 
 In einer **Signatur-Spalte** können Sie eine digitale Unterschrift hinterlegen, die als PNG-Datei in der Dateiverwaltung der Base gespeichert wird.

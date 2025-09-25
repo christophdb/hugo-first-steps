@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/ru/pomoshch/die-bild-spalte'
+url: '/ru/pomoshch/stolbets-izobrazheniy'
+aliases:
+    - '/ru/pomoshch/die-bild-spalte'
+seo:
+    title: 'Столбец изображений: фото в таблицах SeaTable'
+    description: 'Загружайте и управляйте изображениями в таблицах SeaTable: через загрузку, URL, drag-and-drop и менеджер файлов. Просматривайте, скачивайте и редактируйте миниатюры.'
+
 ---
 
 С помощью **колонки изображений** вы можете загружать, сохранять и управлять новыми изображениями в ваших таблицах всего несколькими щелчками мыши.

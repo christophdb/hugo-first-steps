@@ -5,7 +5,13 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/pt/ajuda/schritt-8-quiz'
+url: '/pt/ajuda/etapa-8-quiz'
+aliases:
+    - '/pt/ajuda/schritt-8-quiz'
+seo:
+    title: 'Etapa 8: Quiz – Teste seu conhecimento SeaTable'
+    description: 'Conclua o tutorial com um quiz de 12 perguntas sobre SeaTable. Repita o teste quanto quiser até acertar pelo menos 10 respostas e avançar no curso.'
+
 ---
 
 **Conseguiu!** Chegou ao fim do segundo tutorial.

@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/help/reimport-von-gemeinsamen-datensaetzen'
+url: '/help/reimport-shared-datasets'
+aliases:
+    - '/help/reimport-von-gemeinsamen-datensaetzen'
+seo:
+    title: 'Reimport shared datasets in SeaTable tables'
+    description: 'Learn how to restore the connection with shared datasets in SeaTable after copying or snapshot restoration. Reimport and resynchronize your tables easily and securely.'
+
 ---
 
 If you [copy]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **bases** into which common datasets are integrated or [restore them]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}), the **connection to the common datasets** is lost. Although the data is then available in a normal table, it can no longer be synchronized. You can therefore **reimport** common datasets back into existing tables and thus enable **synchronization** with the data there.

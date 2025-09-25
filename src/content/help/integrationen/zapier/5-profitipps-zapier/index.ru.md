@@ -5,7 +5,13 @@ lastmod: '2023-06-28'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/ru/pomoshch/5-profitipps-zapier'
+url: '/ru/pomoshch/5-sovetov-zapier'
+aliases:
+    - '/ru/pomoshch/5-profitipps-zapier'
+seo:
+    title: '5 советов по интеграции SeaTable и Zapier'
+    description: 'Получите максимум от SeaTable и Zapier: связанные столбцы, триггеры по дате, формулы, лимиты API и кастомные API-запросы для эффективной автоматизации.'
+
 ---
 
 Zapier позволяет вам создать интерфейс между SeaTable и одним из тысяч других приложений всего за несколько минут. Но несмотря на то, что Zapier прост и интуитивно понятен в использовании, вам стоит обратить внимание на следующие возможности, чтобы получить еще больше пользы от ваших Zapier.

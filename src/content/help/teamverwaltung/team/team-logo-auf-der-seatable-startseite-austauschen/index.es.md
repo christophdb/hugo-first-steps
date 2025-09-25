@@ -5,7 +5,13 @@ lastmod: '2023-06-27'
 categories:
     - 'teamverwaltung'
 author: 'nsc2'
-url: '/es/ayuda/team-logo-auf-der-seatable-startseite-austauschen'
+url: '/es/ayuda/cambiar-logo-equipo-seatable'
+aliases:
+    - '/es/ayuda/team-logo-auf-der-seatable-startseite-austauschen'
+seo:
+    title: 'Cambia el logo del equipo en la portada de SeaTable'
+    description: 'Los administradores pueden actualizar el logo del equipo desde la administración en SeaTable Enterprise y personalizar la portada con el branding corporativo.'
+
 ---
 
 {{< required-version "Empresa" >}}

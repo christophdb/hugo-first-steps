@@ -5,7 +5,13 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-8-quiz'
+url: '/help/step-8-quiz'
+aliases:
+    - '/help/schritt-8-quiz'
+seo:
+    title: 'Step 8: Quiz – Test your SeaTable knowledge'
+    description: 'Finish the tutorial with a 12-question SeaTable quiz. Review basic features and base setup. You can repeat the quiz as often as needed until you answer at least 10 questions correctly.'
+
 ---
 
 **You've done it!** You have reached the end of the second tutorial.

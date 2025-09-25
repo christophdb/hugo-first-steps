@@ -5,7 +5,13 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/pt/ajuda/schritt-7-quiz'
+url: '/pt/ajuda/etapa-7-quiz'
+aliases:
+    - '/pt/ajuda/schritt-7-quiz'
+seo:
+    title: 'Etapa 7: Quiz – Teste seu conhecimento SeaTable'
+    description: 'Finalize o tutorial com um quiz de 12 perguntas sobre SeaTable, em inglês. Repita o teste até acertar pelo menos 10 respostas corretas. Prossiga no aprendizado.'
+
 ---
 
 **Conseguiu!** Chegou ao fim do tutorial.

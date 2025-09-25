@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/fr/aide/die-signatur-spalte'
+url: '/fr/aide/colonne-signature'
+aliases:
+    - '/fr/aide/die-signatur-spalte'
+seo:
+    title: 'Colonne signature : stockez des signatures numériques'
+    description: 'Avec la colonne signature, saisissez et gérez des signatures numériques visibles dans SeaTable. Enregistrez, modifiez et supprimez vos signatures en fichiers PNG.'
+
 ---
 
 Dans une **colonne de signature**, vous pouvez déposer une signature numérique qui sera enregistrée sous forme de fichier PNG dans le gestionnaire de fichiers de la base.

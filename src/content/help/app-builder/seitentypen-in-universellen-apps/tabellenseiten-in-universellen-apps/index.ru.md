@@ -5,7 +5,13 @@ lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/tabellenseiten-in-universellen-apps'
+url: '/ru/pomoshch/tablichnye-stranitsy-universalnye-prilozheniya'
+aliases:
+    - '/ru/pomoshch/tabellenseiten-in-universellen-apps'
+seo:
+    title: 'Табличные страницы в универсальных приложениях'
+    description: 'Добавьте таблицы как страницы, настройте фильтры, сортировку и права доступа. Управляйте видимостью столбцов, экспортируйте таблицу в Excel, всё — на одной странице.'
+
 ---
 
 Вы можете использовать этот тип страницы, чтобы [добавить]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) любую **таблицу** из Вашей базы в качестве страницы в Ваше универсальное приложение.
