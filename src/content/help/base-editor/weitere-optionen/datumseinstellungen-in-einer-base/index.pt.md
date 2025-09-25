@@ -5,7 +5,13 @@ lastmod: '2025-07-02'
 categories:
     - 'arbeiten-mit-bases'
 author: 'kgr'
-url: '/pt/ajuda/datumseinstellungen-in-einer-base'
+url: '/pt/ajuda/configuracao-data-base'
+aliases:
+    - '/pt/ajuda/datumseinstellungen-in-einer-base'
+seo:
+    title: 'Configurar dias da semana na base SeaTable'
+    description: 'Ajuste o primeiro dia da semana em cada base SeaTable: segunda, sábado ou domingo. Personalize o calendário conforme sua região. Configuração fácil e automática.'
+
 ---
 
 Tal como é comum na Europa e em muitas outras regiões, o SeaTable utiliza **segunda-feira** como o primeiro dia da semana por defeito. No entanto, dependendo do país em que vive, o sábado ou o domingo pode ser o **primeiro dia da semana**. Por conseguinte, pode adaptar o SeaTable às suas circunstâncias regionais: Nas **Definições de data**, o primeiro dia da semana pode ser definido individualmente para cada base.

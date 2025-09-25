@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'kgr'
 url: '/de/hilfe/datumseinstellungen-in-einer-base'
+seo:
+    title: 'Datumseinstellungen in der Base individuell anpassen'
+    description: 'Stellen Sie in SeaTable den ersten Wochentag für jede Base ein. Montag, Samstag oder Sonntag – passen Sie die Kalenderansicht Ihren regionalen Bedürfnissen flexibel an.'
+
 ---
 
 Wie in Europa und vielen anderen Regionen üblich, nutzt SeaTable standardmäßig **Montag** als ersten Tag der Woche. Je nachdem, in welchem Land Sie wohnen, gilt aber womöglich Samstag oder Sonntag als **erster Tag der Woche**. Daher können Sie SeaTable an Ihre regionalen Gegebenheiten anpassen: In den **Datumseinstellungen** lässt sich der erste Tag der Woche für jede Base individuell einstellen.
