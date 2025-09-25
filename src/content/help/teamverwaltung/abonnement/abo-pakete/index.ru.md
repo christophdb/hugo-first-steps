@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
-url: '/ru/pomoshch/abo-pakete'
+url: '/ru/pomoshch/tarify-podpiski'
+aliases:
+    - '/ru/pomoshch/abo-pakete'
+seo:
+    title: 'SeaTable: тарифные планы и функции – обзор'
+    description: 'Выберите оптимальный тариф: Free, Plus, Enterprise, Dedicated Cloud или Лицензия. Сравните функции SeaTable и найдите подходящий вариант.'
+
 ---
 
 Мы предлагаем SeaTable в различных версиях в разных ценовых диапазонах - так что для каждого найдется что-то свое. Функции и возможности зависят от уровня цены и поэтому могут быть адаптированы к вашим индивидуальным потребностям. Вы можете быстро сравнить наши подписки на [странице цен]({{< relref "pages/prices" >}}).

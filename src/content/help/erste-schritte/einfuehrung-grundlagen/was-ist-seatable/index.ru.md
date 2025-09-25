@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/pomoshch/was-ist-seatable'
+url: '/ru/pomoshch/chto-takoe-seatable'
+aliases:
+    - '/ru/pomoshch/was-ist-seatable'
+seo:
+    title: 'SeaTable: No-Code база данных и App Builder'
+    description: 'SeaTable — это No-Code база данных и конструктор приложений. Создавайте приложения и автоматизируйте процессы онлайн без программирования.'
+
 weight: 1
 star: true
 ---

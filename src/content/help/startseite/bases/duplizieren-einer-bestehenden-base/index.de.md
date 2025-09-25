@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/duplizieren-einer-bestehenden-base'
+seo:
+    title: 'SeaTable: Base duplizieren leicht gemacht'
+    description: 'Duplizieren Sie Ihre bestehende Base in SeaTable. Erstellen Sie in wenigen Schritten eine exakte Kopie Ihrer Base in Meine Bases.'
+
 ---
 
 In SeaTable haben Sie die Möglichkeit, Ihre bestehenden Bases zu duplizieren. Die Kopie Ihrer Base können Sie entweder in einer Ihrer [Gruppen]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) oder im Bereich **Meine Bases** anlegen lassen. Letzteres funktioniert wie folgt:

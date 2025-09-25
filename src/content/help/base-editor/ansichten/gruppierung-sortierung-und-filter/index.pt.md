@@ -5,7 +5,13 @@ lastmod: '2022-08-29'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'cdb'
-url: '/pt/ajuda/gruppierung-sortierung-und-filter'
+url: '/pt/ajuda/agrupar-ordenar-filtrar'
+aliases:
+    - '/pt/ajuda/gruppierung-sortierung-und-filter'
+seo:
+    title: 'Agrupar, ordenar e filtrar dados no SeaTable passo a passo'
+    description: 'Saiba como agrupar, ordenar e filtrar dados no SeaTable. Organize suas tabelas e encontre as informações que precisa com poucos cliques.'
+
 ---
 
 SeaTable oferece vários métodos de análise de dados. Filtros, classificação e agrupamento são as ferramentas simples de avaliação do SeaTable. Com apenas alguns cliques, pode utilizá-los para reorganizar os seus dados e obter mais facilmente a informação que deseja. Simples, no entanto, não significa simplista. Usados correctamente, especialmente em combinação, os filtros, classificação e agrupamento oferecem uma vasta gama de opções de avaliação.

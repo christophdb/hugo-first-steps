@@ -5,7 +5,13 @@ lastmod: '2022-08-29'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'cdb'
-url: '/fr/aide/gruppierung-sortierung-und-filter'
+url: '/fr/aide/grouper-trier-filtrer'
+aliases:
+    - '/fr/aide/gruppierung-sortierung-und-filter'
+seo:
+    title: 'Grouper, trier et filtrer vos données dans SeaTable'
+    description: 'Apprenez à grouper, trier et filtrer vos données avec SeaTable. Organisez vos tableaux et trouvez les informations utiles rapidement et facilement.'
+
 ---
 
 SeaTable propose diverses méthodes d'évaluation des données. Filtres, tris et regroupements sont des outils d'évaluation simples de SeaTable. En quelques clics, ils vous permettent de réorganiser vos données et d'obtenir plus facilement les informations souhaitées. Simple ne signifie pas simpliste. Utilisés correctement, notamment en combinaison, les filtres, les tris et les regroupements offrent de nombreuses possibilités d'évaluation.

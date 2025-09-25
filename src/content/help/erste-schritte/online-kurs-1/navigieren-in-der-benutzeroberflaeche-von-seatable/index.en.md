@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/navigieren-in-der-benutzeroberflaeche-von-seatable'
+url: '/help/navigate-seatable-interface'
+aliases:
+    - '/help/navigieren-in-der-benutzeroberflaeche-von-seatable'
+seo:
+    title: 'Navigating the SeaTable user interface made easy'
+    description: 'Find your way in the SeaTable interface: Home, bases, tables and views explained. Discover where to find key features and how to organize data step by step.'
+
 weight: 3
 ---
 

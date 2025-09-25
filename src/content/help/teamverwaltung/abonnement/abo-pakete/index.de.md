@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung-abonnement'
 author: 'cdb'
 url: '/de/hilfe/abo-pakete'
+seo:
+    title: 'Übersicht der SeaTable Abo-Pakete und Funktionen'
+    description: 'Entdecken Sie alle SeaTable Abos: Free, Plus, Enterprise, Dedicated Cloud & Lizenz. Vergleichen Sie Funktionen und wählen Sie den passenden Tarif.'
+
 ---
 
 Wir bieten SeaTable in verschiedenen Versionen in unterschiedlichen Preisklassen an - damit ist für jeden etwas dabei. Die Funktionen und Möglichkeiten variieren je nach Preisstufe und sind somit ganz auf ihre individuellen Bedürfnisse anpassbar. Einen schnellen Vergleich unserer Abonnements erhalten Sie auf [unserer Preis-Seite]({{< relref "pages/prices" >}}).
