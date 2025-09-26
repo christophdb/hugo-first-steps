@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/help/der-geheime-schluessel-eines-webhooks'
+url: '/help/webhook-secret-key-seatable'
+aliases:
+  - '/help/der-geheime-schluessel-eines-webhooks'
+seo:
+    title: 'Webhook security: secret key and signature in SeaTable'
+    description: 'Learn how a secret key secures your SeaTable webhooks: validate the signature, verify event origins and block unauthorized access using shared secrets.'
+
 ---
 
 If the destination of a webhook is publicly reachable, it is necessary to ensure that incoming requests come from the desired source system. A secret key can be used to ensure the origin of a webhook.

@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/pomoshch/verarbeitung-eines-webhooks-mit-hilfe-von-php'
+url: '/ru/pomoshch/obrabotka-webhook-php-seatable'
+aliases:
+    - '/ru/pomoshch/verarbeitung-eines-webhooks-mit-hilfe-von-php'
+seo:
+    title: 'Обработка вебхуков SeaTable с помощью PHP: пример'
+    description: 'Получайте и анализируйте события вебхука SeaTable через PHP: удаляйте строки, проверяйте поля, ведите журнал. Готовый код для быстрой интеграции.'
+
 ---
 
 Обработка события webhooks может быть выполнена с помощью любого языка программирования и зависит от языка программирования. В следующем примере показана простая обработка с помощью PHP, которая может послужить основой для всех дальнейших разработок.

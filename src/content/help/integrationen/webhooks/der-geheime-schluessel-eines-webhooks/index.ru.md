@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/pomoshch/der-geheime-schluessel-eines-webhooks'
+url: '/ru/pomoshch/bezopasnost-webhook-sekret-seatable'
+aliases:
+  - '/ru/pomoshch/der-geheime-schluessel-eines-webhooks'
+seo:
+    title: 'Безопасность вебхуков: секрет и подпись в SeaTable'
+    description: 'Как секретный ключ защищает вебхук SeaTable: проверяйте подпись, подтверждайте источник событий и блокируйте несанкционированный доступ. Практическая настройка.'
+
 ---
 
 Если назначение веб-крючка общедоступно, то для входящих запросов необходимо убедиться, что они исходят от нужной системы-исходника. С помощью секретного ключа можно гарантировать происхождение веб-крючка.

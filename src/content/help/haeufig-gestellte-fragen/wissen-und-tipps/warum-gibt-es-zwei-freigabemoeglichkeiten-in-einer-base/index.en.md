@@ -5,7 +5,13 @@ lastmod: '2023-03-14'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+url: '/help/two-sharing-types-base-view-seatable'
+aliases:
+    - '/help/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+seo:
+    title: 'Two sharing types in SeaTable: bases vs. views'
+    description: 'SeaTable lets you share entire bases or just single views—flexibly grant full access or restrict sharing to certain tables, all using the share dialog and detailed permissions.'
+
 ---
 
 Two different sharing options are available in your bases, allowing you to share either **individual views** or your **entire base**.

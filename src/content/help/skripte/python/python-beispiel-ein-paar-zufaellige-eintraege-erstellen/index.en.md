@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/help/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+url: '/help/python-generate-random-entries-seatable'
+aliases:
+  - '/help/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+seo:
+    title: 'Python: generate random entries in SeaTable'
+    description: 'Use this Python script to quickly add random sample rows to your SeaTable base—perfect for tests, demos, or automating database population in one click.'
+
 ---
 
 {{< required-version "Enterprise" >}}

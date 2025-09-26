@@ -6,6 +6,10 @@ categories:
     - 'javascript-python'
 author: 'nsc2'
 url: '/de/hilfe/das-ausfuehrungslog-von-skripten'
+seo:
+    title: 'Ausführungslog von Skripten in SeaTable ansehen'
+    description: 'So prüfen Sie das Ausführungslog von Python-Skripten: Startzeit, Endzeit, Dauer, Status und Details zu jedem Lauf für Ihre Analyse und Fehlerdiagnose einsehen.'
+
 ---
 
 Mit einem Skript können Sie in SeaTable großartige Dinge vollbringen. In Ihren Bases angelegte Skripte verfügen dabei über ein Ausführungslog, in dem Sie nützliche Informationen über die Läufe des Skriptes finden.

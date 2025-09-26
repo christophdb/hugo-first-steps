@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/fr/aide/der-geheime-schluessel-eines-webhooks'
+url: '/fr/aide/securite-webhook-cle-secrete-seatable'
+aliases:
+  - '/fr/aide/der-geheime-schluessel-eines-webhooks'
+seo:
+    title: 'Sécurité des webhooks : secret et signature SeaTable'
+    description: 'Comment utiliser une clé secrète et la signature pour sécuriser vos webhooks SeaTable : vérifiez la source et empêchez tout accès indésirable par validation.'
+
 ---
 
 Si la cible d'un webhook est accessible au public, il faut s'assurer, pour les requêtes entrantes, qu'elles proviennent du système d'origine souhaité. L'origine d'un webhook peut être garantie à l'aide d'une clé secrète.

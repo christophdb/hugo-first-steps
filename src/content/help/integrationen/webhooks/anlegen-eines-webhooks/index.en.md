@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/help/anlegen-eines-webhooks'
+url: '/help/create-delete-webhook-seatable'
+aliases:
+    - '/help/anlegen-eines-webhooks'
+seo:
+    title: 'Create and delete webhooks in SeaTable step by step'
+    description: 'Easily set up a webhook in your SeaTable base: add the target URL, activate notifications for changes, and remove or update webhooks as needed.'
+
 ---
 
 A webhook is always created for a base. Once the webhook is set up, any change to the contents of the base is sent to the target URL.

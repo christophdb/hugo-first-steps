@@ -5,7 +5,13 @@ lastmod: '2024-06-10'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/pt/ajuda/eigenes-passwort-aendern'
+url: '/pt/ajuda/alterar-senha-seatable'
+aliases:
+    - '/pt/ajuda/eigenes-passwort-aendern'
+seo:
+    title: 'Como alterar sua senha no SeaTable com segurança'
+    description: 'Passo a passo para trocar sua senha pessoal no SeaTable, incluindo dicas sobre força da senha e como garantir sua segurança de acesso.'
+
 ---
 
 Quer alterar a sua própria **palavra-passe**? Não há problema! Pode fazer isto em apenas alguns passos nas **configurações pessoais da** sua conta.

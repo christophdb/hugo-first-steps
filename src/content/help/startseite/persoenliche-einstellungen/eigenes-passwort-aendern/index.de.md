@@ -6,6 +6,10 @@ categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
 url: '/de/hilfe/eigenes-passwort-aendern'
+seo:
+    title: 'Eigenes Passwort in SeaTable sicher ändern'
+    description: 'Schritt-für-Schritt: So ändern Sie Ihr Passwort in den persönlichen Einstellungen von SeaTable. Tipps für Passwortstärke und Sicherheit inklusive.'
+
 ---
 
 Sie möchten Ihr eigenes **Passwort** ändern? Kein Problem! In den **persönlichen Einstellungen** Ihres Kontos ist dies in nur wenigen Schritten möglich.

@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-kumulierte-werte-berechnen'
+url: '/ru/pomoshch/kumulyatsiya-znacheniy-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-kumulierte-werte-berechnen'
+seo:
+    title: 'Кумуляция значений в таблице SeaTable: инструкция'
+    description: 'Автоматически вычисляйте и записывайте накопленные суммы в отдельную колонку SeaTable. Применяйте для аналитики посещаемости, продаж и временных рядов.'
+
 ---
 
 Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. Одной из операций является **вычисление кумулятивных значений**, с помощью которого можно суммировать все значения числового столбца. Для этого просто определите соответствующую операцию обработки данных в опциях представления таблицы.

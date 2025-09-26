@@ -6,6 +6,10 @@ categories:
     - 'webhooks'
 author: 'cdb'
 url: '/de/hilfe/der-geheime-schluessel-eines-webhooks'
+seo:
+    title: 'Webhook-Sicherheit: Geheimer Schlüssel und Signatur'
+    description: 'Wie schützt ein geheimer Schlüssel SeaTable-Webhooks? So prüfen Sie Signaturen, validieren die Herkunft der Anfrage und verhindern unerlaubten Zugriff auf Ihre Schnittstelle.'
+
 ---
 
 Wenn das Ziel eines Webhooks öffentlich erreichbar ist, muss bei den eingehenden Anfragen sichergestellt werden, dass diese vom gewünschten Ursprungssystem kommen. Mit Hilfe eines geheimen Schlüssels kann die Herkunft eines Webhooks sichergestellt werden.

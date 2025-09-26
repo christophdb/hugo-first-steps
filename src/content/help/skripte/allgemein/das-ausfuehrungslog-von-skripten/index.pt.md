@@ -5,7 +5,13 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/pt/ajuda/das-ausfuehrungslog-von-skripten'
+url: '/pt/ajuda/log-execucao-scripts-seatable'
+aliases:
+    - '/pt/ajuda/das-ausfuehrungslog-von-skripten'
+seo:
+    title: 'Log de execução de scripts no SeaTable: guia completo'
+    description: 'Veja como acessar o log de execução dos scripts Python: início, fim, duração, status e mais detalhes para monitoramento e resolução de problemas na base SeaTable.'
+
 ---
 
 Pode fazer grandes coisas em SeaTable com um guião. Os guiões criados nas suas bases têm um registo de execução onde pode encontrar informações úteis sobre a execução do guião.

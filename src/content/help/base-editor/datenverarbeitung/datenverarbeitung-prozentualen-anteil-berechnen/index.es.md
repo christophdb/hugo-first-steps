@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/es/ayuda/datenverarbeitung-prozentualen-anteil-berechnen'
+url: '/es/ayuda/calculo-porcentaje-total-seatable'
+aliases:
+    - '/es/ayuda/datenverarbeitung-prozentualen-anteil-berechnen'
+seo:
+    title: 'SeaTable: calcula el porcentaje en columnas numéricas'
+    description: 'Calcula automáticamente el porcentaje de cada valor respecto al total en SeaTable. Los resultados se representan en una nueva columna de la tabla.'
+
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar varias operaciones en una columna. Una de ellas es el **cálculo de porcentajes**, con el que puede calcular el porcentaje de un valor en la suma de todos los valores de una columna. Para ello, basta con definir la operación de tratamiento de datos correspondiente a través de las opciones de vista de la tabla.

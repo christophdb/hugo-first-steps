@@ -6,6 +6,10 @@ categories:
   - "javascript-python"
 author: "nsc2"
 url: "/de/hilfe/import-und-export-eines-skriptes"
+seo:
+    title: 'Skripte in SeaTable importieren und exportieren'
+    description: 'JavaScript- oder Python-Skripte einfach in SeaTable importieren oder exportieren: Anleitung für Upload und Download einzelner Skriptdateien im Base-Header.'
+
 ---
 
 SeaTable ermöglicht es Ihnen, individuelle JavaScript- und Python-Skripte in einer Base auszuführen. Neben der Möglichkeit, Skripte manuell in das Textfeld zu schreiben, haben Sie die Möglichkeit, Skripte in SeaTable zu importieren sowie bestehende Skripte zu exportieren.
