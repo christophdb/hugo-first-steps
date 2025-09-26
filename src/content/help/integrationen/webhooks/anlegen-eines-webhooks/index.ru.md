@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/pomoshch/anlegen-eines-webhooks'
+url: '/ru/pomoshch/sozdanie-udaleniye-webhook-seatable'
+aliases:
+    - '/ru/pomoshch/anlegen-eines-webhooks'
+seo:
+    title: 'Создание и удаление вебхуков в SeaTable: инструкция'
+    description: 'Настройте вебхук для вашей базы в SeaTable: введите URL-приемник, получайте обновления и управляйте уведомлениями простым удалением в пару шагов.'
+
 ---
 
 Для базы всегда создается веб-крючок. Как только веб-крючок настроен, каждое изменение содержимого базы отправляется на целевой URL.

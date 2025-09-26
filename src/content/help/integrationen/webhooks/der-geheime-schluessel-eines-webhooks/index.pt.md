@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/pt/ajuda/der-geheime-schluessel-eines-webhooks'
+url: '/pt/ajuda/seguranca-webhook-chave-secreta-seatable'
+aliases:
+  - '/pt/ajuda/der-geheime-schluessel-eines-webhooks'
+seo:
+    title: 'Segurança de webhook: chave secreta e assinatura'
+    description: 'Saiba como a chave secreta protege webhooks: valide assinaturas, confirme a origem dos eventos no SeaTable e bloqueie requisições não autorizadas no endpoint.'
+
 ---
 
 Se o alvo de um gancho da web for acessível ao público, deve ser assegurado para os pedidos recebidos que provêm do sistema de origem desejado. Com a ajuda de uma chave secreta, a origem de um gancho da web pode ser assegurada.

@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/fr/aide/anlegen-eines-webhooks'
+url: '/fr/aide/creer-supprimer-webhook-seatable'
+aliases:
+    - '/fr/aide/anlegen-eines-webhooks'
+seo:
+    title: 'Créer et supprimer des webhooks dans SeaTable'
+    description: 'Ajoutez ou retirez des webhooks pour vos bases SeaTable : saisissez l’URL, activez la collecte automatique et bénéficiez d’un contrôle total sur les notifications.'
+
 ---
 
 Un webhook est toujours créé pour une base. Dès que le webhook est créé, toute modification du contenu de la base est envoyée à l'URL cible.

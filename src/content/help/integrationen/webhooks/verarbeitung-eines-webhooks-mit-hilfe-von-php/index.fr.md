@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/fr/aide/verarbeitung-eines-webhooks-mit-hilfe-von-php'
+url: '/fr/aide/traiter-webhook-php-seatable'
+aliases:
+    - '/fr/aide/verarbeitung-eines-webhooks-mit-hilfe-von-php'
+seo:
+    title: 'Traiter un webhook SeaTable par PHP : code type'
+    description: 'Gérez facilement les webhooks SeaTable en PHP : décodez les événements puis contrôlez les suppressions, sélections ou mises à jour. Exemple de script fourni.'
+
 ---
 
 Le traitement d'un événement Webhooks peut être effectué avec n'importe quel langage de programmation et varie selon le langage de programmation. L'exemple suivant montre un traitement simple par PHP, qui peut servir de base à tous les développements ultérieurs.

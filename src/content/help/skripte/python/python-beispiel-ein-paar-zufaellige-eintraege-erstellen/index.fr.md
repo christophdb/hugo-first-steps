@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/fr/aide/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+url: '/fr/aide/python-exemples-aleatoires-seatable'
+aliases:
+  - '/fr/aide/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+seo:
+    title: 'Python : générer des exemples aléatoires sur SeaTable'
+    description: 'Ajoutez rapidement des lignes aléatoires à une base SeaTable grâce à un script Python : tests, remplissage automatique et gain de temps pour vos démos et essais.'
+
 ---
 
 {{< required-version "Entreprise" >}}

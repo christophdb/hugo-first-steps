@@ -5,7 +5,13 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/es/ayuda/das-ausfuehrungslog-von-skripten'
+url: '/es/ayuda/registro-ejecucion-scripts-seatable'
+aliases:
+    - '/es/ayuda/das-ausfuehrungslog-von-skripten'
+seo:
+    title: 'Ver el registro de ejecución de scripts en SeaTable'
+    description: 'Descubra cómo revisar el log de ejecución de scripts en SeaTable: información de inicio, fin, duración y estado de cada ejecución para control total y soluciones.'
+
 ---
 
 Puede hacer grandes cosas en SeaTable con un script. Los scripts creados en sus bases tienen un registro de ejecución donde puede encontrar información útil sobre las ejecuciones del script.

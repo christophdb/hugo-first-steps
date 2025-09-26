@@ -5,7 +5,13 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/ru/pomoshch/das-ausfuehrungslog-von-skripten'
+url: '/ru/pomoshch/zhurnal-vypolneniya-skriptov-seatable'
+aliases:
+    - '/ru/pomoshch/das-ausfuehrungslog-von-skripten'
+seo:
+    title: 'Журнал выполнения скриптов в SeaTable: руководство'
+    description: 'Как просматривать журнал выполнения Python-скриптов: время запуска, завершения, длительность, статус и детали каждого запуска для контроля и поиска ошибок.'
+
 ---
 
 С помощью скрипта в SeaTable можно делать большие вещи. Сценарии, созданные в ваших базах, имеют журнал выполнения, в котором вы можете найти полезную информацию о выполнении сценария.

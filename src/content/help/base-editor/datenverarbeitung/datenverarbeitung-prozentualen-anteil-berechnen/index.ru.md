@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-prozentualen-anteil-berechnen'
+url: '/ru/pomoshch/vychislenie-protsentnoj-doli-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-prozentualen-anteil-berechnen'
+seo:
+    title: 'SeaTable: вычисление процентной доли по колонке'
+    description: 'Считайте процентное соотношение каждого значения к общей сумме столбца—результаты сохраняются в новой колонке для удобного анализа ваших данных.'
+
 ---
 
 С помощью функции обработки данных можно выполнять различные операции над столбцом. Одной из операций является **вычисление процентных долей**, с помощью которой можно вычислить процентную долю значения в сумме всех значений в столбце. Для этого просто определите соответствующую операцию обработки данных через параметры представления вашей таблицы.

@@ -5,7 +5,13 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/help/das-ausfuehrungslog-von-skripten'
+url: '/help/script-execution-log-seatable'
+aliases:
+    - '/help/das-ausfuehrungslog-von-skripten'
+seo:
+    title: 'View script execution logs in SeaTable in detail'
+    description: 'Learn how to access script logs for each Python run in SeaTable: check start/end, execution time, status and invocation type for full tracking and error checks.'
+
 ---
 
 With a script you can do great things in SeaTable. Scripts created in your bases have an execution log where you can find useful information about the runs of the script.

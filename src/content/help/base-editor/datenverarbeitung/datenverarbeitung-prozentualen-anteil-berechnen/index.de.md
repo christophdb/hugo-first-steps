@@ -6,6 +6,10 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-prozentualen-anteil-berechnen'
+seo:
+    title: 'Prozentualen Anteil mit SeaTable Datenverarbeitung'
+    description: 'Berechnen Sie mit SeaTable automatisch Prozentanteile einzelner Werte an der Gesamtsumme einer Spalte. Ergebnisse erscheinen direkt in einer neuen Tabellenspalte.'
+
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Eine Operation stellt dabei die **Berechnung prozentualer Anteile** dar, mit der Sie prozentualen Anteil eines Werts an der Summe aller Werte in einer Spalte berechnen können. Definieren Sie hierfür einfach eine entsprechende Datenverarbeitungsoperation über die Ansichtsoptionen Ihrer Tabelle.

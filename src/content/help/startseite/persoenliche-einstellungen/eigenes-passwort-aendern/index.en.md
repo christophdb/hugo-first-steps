@@ -5,7 +5,13 @@ lastmod: '2024-06-10'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/help/eigenes-passwort-aendern'
+url: '/help/change-password-seatable'
+aliases:
+    - '/help/eigenes-passwort-aendern'
+seo:
+    title: 'Change your SeaTable password easily and securely'
+    description: 'Learn how to update your password in SeaTable’s personal settings—clear instructions, password strength indicators and all security best practices included.'
+
 ---
 
 You want to change your own **password**? No problem! In the **personal settings of** your account this is possible in just a few steps.

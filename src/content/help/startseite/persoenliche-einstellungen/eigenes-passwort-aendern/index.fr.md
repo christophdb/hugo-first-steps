@@ -5,7 +5,13 @@ lastmod: '2024-06-10'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/fr/aide/eigenes-passwort-aendern'
+url: '/fr/aide/modifier-mot-de-passe-seatable'
+aliases:
+    - '/fr/aide/eigenes-passwort-aendern'
+seo:
+    title: 'Modifier votre mot de passe SeaTable facilement'
+    description: 'Changez votre mot de passe depuis les paramètres SeaTable : instructions claires, évaluation automatique de la robustesse et sécurité assurée.'
+
 ---
 
 Vous souhaitez modifier votre propre **mot de passe**? Pas de problème ! Vous pouvez le faire en quelques étapes dans les **paramètres personnels** de votre compte.

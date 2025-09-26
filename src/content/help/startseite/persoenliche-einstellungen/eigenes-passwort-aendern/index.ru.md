@@ -5,7 +5,13 @@ lastmod: '2024-06-10'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/ru/pomoshch/eigenes-passwort-aendern'
+url: '/ru/pomoshch/izmenit-parol-seatable'
+aliases:
+    - '/ru/pomoshch/eigenes-passwort-aendern'
+seo:
+    title: 'Как изменить пароль в SeaTable: инструкция и советы'
+    description: 'Подробная инструкция по смене пароля в SeaTable: пошагово, с подсказками по сложности и советами для максимальной безопасности вашего аккаунта.'
+
 ---
 
 Хотите изменить собственный **пароль**? Нет проблем! Вы можете сделать это всего за несколько шагов в **личных настройках** вашей учетной записи.

@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-prozentualen-anteil-berechnen'
+url: '/help/calculate-percentage-total-seatable'
+aliases:
+    - '/help/datenverarbeitung-prozentualen-anteil-berechnen'
+seo:
+    title: 'SeaTable: calculate percentage of total automatically'
+    description: 'Use SeaTable to compute each value’s percentage of the column total. Automate results for analysis and reporting, stored in a dedicated result column.'
+
 ---
 
 Using the data processing function, you can perform various operations over a column. One operation is the **calculation of percentages**, which allows you to calculate the percentage of a value to the sum of all values in a column. To do this, simply define a corresponding data processing operation via the view options of your table.

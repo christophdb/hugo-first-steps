@@ -5,7 +5,13 @@ lastmod: '2024-06-10'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/es/ayuda/eigenes-passwort-aendern'
+url: '/es/ayuda/cambiar-contrasena-seatable'
+aliases:
+    - '/es/ayuda/eigenes-passwort-aendern'
+seo:
+    title: 'Cambiar contraseña en SeaTable: guía segura y fácil'
+    description: 'Descubra cómo modificar la contraseña en SeaTable, paso a paso, desde su perfil. Consejos para una clave fuerte y cuenta protegida.'
+
 ---
 
 ¿Quieres cambiar tu propia **contraseña**? No se preocupe. Puede hacerlo en unos pocos pasos en los **ajustes personales de** su cuenta.

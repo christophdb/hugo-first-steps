@@ -6,6 +6,10 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-kumulierte-werte-berechnen'
+seo:
+    title: 'Kumulierte Werte berechnen mit SeaTable Datenverarbeitung'
+    description: 'Berechnen Sie in SeaTable kumulierte Werte für jede Zeile Ihrer Tabelle. Automatisieren Sie die mathematische Summierung in separaten Spalten – schnell und übersichtlich.'
+
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Eine Operation stellt dabei die **Berechnung kumulierter Werte** dar, mit der Sie alle Werte einer numerischen Spalte kumulieren können. Definieren Sie hierfür einfach eine entsprechende Datenverarbeitungsoperation über die Ansichtsoptionen Ihrer Tabelle.

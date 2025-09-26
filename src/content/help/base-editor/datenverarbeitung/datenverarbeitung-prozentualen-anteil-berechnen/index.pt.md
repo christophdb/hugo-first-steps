@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/pt/ajuda/datenverarbeitung-prozentualen-anteil-berechnen'
+url: '/pt/ajuda/calculo-percentual-coluna-seatable'
+aliases:
+    - '/pt/ajuda/datenverarbeitung-prozentualen-anteil-berechnen'
+seo:
+    title: 'SeaTable: cálculo percentual automático em colunas'
+    description: 'Saiba como calcular automaticamente a porcentagem de cada valor em SeaTable, exibindo os resultados numa coluna criada para análise completa.'
+
 ---
 
 Com a ajuda da função de processamento de dados, pode realizar várias operações através de uma coluna. Uma operação é o **cálculo de quotas percentuais**, com a qual se pode calcular a quota percentual de um valor na soma de todos os valores de uma coluna. Para o fazer, basta definir uma operação de processamento de dados correspondente através das opções de visualização da sua tabela.

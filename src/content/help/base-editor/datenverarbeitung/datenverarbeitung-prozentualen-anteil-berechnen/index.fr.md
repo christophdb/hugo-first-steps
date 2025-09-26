@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitung-prozentualen-anteil-berechnen'
+url: '/fr/aide/calculer-pourcentage-colonne-seatable'
+aliases:
+    - '/fr/aide/datenverarbeitung-prozentualen-anteil-berechnen'
+seo:
+    title: 'SeaTable : calculez part en pourcentage sur une colonne'
+    description: 'Calculez la part de chaque valeur par rapport au total avec SeaTable. Les résultats s’affichent dans une colonne dédiée pour un suivi facilité au quotidien.'
+
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. L'une de ces opérations est le **calcul des pourcentages**, qui vous permet de calculer le pourcentage d'une valeur par rapport à la somme de toutes les valeurs d'une colonne. Pour cela, il suffit de définir une opération de traitement des données correspondante via les options d'affichage de votre tableau.

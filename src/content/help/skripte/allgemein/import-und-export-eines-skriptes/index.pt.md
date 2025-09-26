@@ -5,7 +5,13 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/pt/ajuda/import-und-export-eines-skriptes'
+url: '/pt/ajuda/importar-exportar-scripts-seatable'
+aliases:
+    - '/pt/ajuda/import-und-export-eines-skriptes'
+seo:
+    title: 'Importe e exporte scripts na sua base SeaTable'
+    description: 'Envie ou baixe scripts .js e .py na base SeaTable: passo a passo para importar códigos, exportar arquivos e garantir backup ou migração simples.'
+
 ---
 
 SeaTable permite-lhe executar scripts individuais de JavaScript e Python numa base. Além da possibilidade de escrever scripts manualmente no campo de texto, tem a possibilidade de importar scripts para SeaTable, bem como de exportar scripts existentes.

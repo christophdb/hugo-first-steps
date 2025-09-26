@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/pt/ajuda/anlegen-eines-webhooks'
+url: '/pt/ajuda/criar-excluir-webhook-seatable'
+aliases:
+    - '/pt/ajuda/anlegen-eines-webhooks'
+seo:
+    title: 'Como criar e excluir webhooks no SeaTable'
+    description: 'Aprenda a criar webhooks para sua Base SeaTable: envie eventos para um endereço, ative notificações automáticas e desative a conexão quando necessário.'
+
 ---
 
 É sempre criado um gancho da web para uma base. Assim que o webhook é criado, cada alteração ao conteúdo da base é enviada para o URL de destino.

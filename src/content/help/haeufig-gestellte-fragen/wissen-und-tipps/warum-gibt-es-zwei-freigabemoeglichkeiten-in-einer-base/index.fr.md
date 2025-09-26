@@ -5,7 +5,13 @@ lastmod: '2023-03-14'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+url: '/fr/aide/deux-partages-base-vue-seatable'
+aliases:
+    - '/fr/aide/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+seo:
+    title: 'Deux modes de partage dans SeaTable : base ou vue'
+    description: 'Partagez une base complète ou une simple vue dans SeaTable : choisissez quelles données montrer, accédez aux paramètres précis et adaptez les droits à vos besoins.'
+
 ---
 
 Dans vos bases, vous disposez de deux possibilités de partage différentes, qui vous permettent de partager soit **des vues individuelles**, soit l'**ensemble** de votre **base**.

@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/pomoshch/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+url: '/ru/pomoshch/python-sluchaynye-zapisi-seatable'
+aliases:
+  - '/ru/pomoshch/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+seo:
+    title: 'Python: быстро создавать случайные строки в SeaTable'
+    description: 'Скрипт Python мгновенно генерирует примеры данных прямо в SeaTable—идеально для тестов, прототипирования и автозаполнения новых таблиц любым количеством.'
+
 ---
 
 {{< required-version "Предприятие" >}}

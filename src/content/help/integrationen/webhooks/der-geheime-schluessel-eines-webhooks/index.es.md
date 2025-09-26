@@ -5,7 +5,13 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/es/ayuda/der-geheime-schluessel-eines-webhooks'
+url: '/es/ayuda/seguridad-webhook-clave-secreta-seatable'
+aliases:
+  - '/es/ayuda/der-geheime-schluessel-eines-webhooks'
+seo:
+    title: 'Seguridad de webhook: clave secreta y firma SeaTable'
+    description: 'Así protege una clave secreta sus webhooks: valide la firma de SeaTable, confirme el origen y evite accesos no autorizados a su endpoint con shared secret.'
+
 ---
 
 Si el destino de un webhook es de acceso público, debe garantizarse para las solicitudes entrantes que proceden del sistema de origen deseado. Con la ayuda de una clave secreta, se puede garantizar el origen de un webhook.

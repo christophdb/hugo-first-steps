@@ -5,7 +5,13 @@ lastmod: '2023-03-14'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+url: '/ru/pomoshch/dva-sposoba-dostupa-baza-vid-seatable'
+aliases:
+    - '/ru/pomoshch/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+seo:
+    title: 'Два способа доступа: вся база или отдельные виды'
+    description: 'В SeaTable можно делиться как всей базой, так и отдельными представлениями — определяйте уровни доступа через виджет и гибко управляйте доступом коллег.'
+
 ---
 
 В ваших базах доступны два варианта совместного использования, позволяющие делиться либо **отдельными видами**, либо **всей базой**.

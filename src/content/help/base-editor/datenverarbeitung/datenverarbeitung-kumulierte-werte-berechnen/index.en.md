@@ -5,7 +5,13 @@ lastmod: '2023-03-16'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-kumulierte-werte-berechnen'
+url: '/help/calculate-cumulative-values-seatable'
+aliases:
+    - '/help/datenverarbeitung-kumulierte-werte-berechnen'
+seo:
+    title: 'Calculate cumulative values with SeaTable data processing'
+    description: 'Use SeaTable to sum up values across table rows—automate the process and store results in a new column for ongoing insights and analysis. Fast cumulative calculations.'
+
 ---
 
 Using the data processing function, you can perform various operations over a column. One operation is the **calculation of cumulated values**, which allows you to cumulate all values of a numeric column. To do this, simply define a corresponding data processing operation via the view options of your table.

@@ -5,7 +5,13 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/fr/aide/das-ausfuehrungslog-von-skripten'
+url: '/fr/aide/journal-execution-scripts-seatable'
+aliases:
+    - '/fr/aide/das-ausfuehrungslog-von-skripten'
+seo:
+    title: 'Afficher le journal d’exécution des scripts SeaTable'
+    description: 'Accédez au journal d’exécution des scripts Python : heure de début/fin, durée, statut et détails pour chaque lancement dans SeaTable. Suivi et dépannage faciles.'
+
 ---
 
 Un script vous permet de faire de grandes choses dans SeaTable. Les scripts créés dans vos bases disposent d'un journal d'exécution dans lequel vous trouverez des informations utiles sur les exécutions du script.
