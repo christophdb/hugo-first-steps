@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/einrichtung-eines-e-mail-kontos-in-einer-base'
+seo:
+    title: 'E-Mail-Konto in SeaTable Base einrichten & versenden'
+    description: 'So verbinden Sie Ihr E-Mail-Konto mit einer Base in SeaTable: Setup für Google, Microsoft, Web.de, GMX, Test-Mail, Sicherheit und Versand per Automation oder Schaltfläche.'
+
 ---
 
 Eine der unzähligen Möglichkeiten, die Ihnen in SeaTable zur Verfügung stehen, ist das **Versenden von E-Mails** aus Ihren Bases. Diese Funktion von SeaTable bietet Ihnen eine beachtliche Zeitersparnis, wenn Sie zu einem bestimmten Zeitpunkt in einem Prozess immer bestimmte E-Mails versenden möchten – zum Beispiel eine Zahlungserinnerung, sobald die Frist für das Begleichen einer Rechnung überschritten ist.

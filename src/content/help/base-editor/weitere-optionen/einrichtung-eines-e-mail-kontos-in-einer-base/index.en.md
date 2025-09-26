@@ -5,7 +5,13 @@ lastmod: '2025-03-08'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/einrichtung-eines-e-mail-kontos-in-einer-base'
+url: '/help/setup-email-account-seatable'
+aliases:
+    - '/help/einrichtung-eines-e-mail-kontos-in-einer-base'
+seo:
+    title: 'Set up email account in SeaTable base and send mails'
+    description: 'Learn how to connect your email account with a SeaTable base: provider setup, test sending, security and automated mail dispatch for workflow efficiency.'
+
 ---
 
 One of the countless options available to you in SeaTable is **sending emails** from your bases. This feature of SeaTable will save you a considerable amount of time if you always want to send certain emails at a certain point in a process - for example, a payment reminder once the deadline for paying an invoice has passed.

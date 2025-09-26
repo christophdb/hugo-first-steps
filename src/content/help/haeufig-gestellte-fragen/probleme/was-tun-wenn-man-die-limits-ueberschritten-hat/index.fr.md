@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/was-tun-wenn-man-die-limits-ueberschritten-hat'
+url: '/fr/aide/limites-depassees-solution'
+aliases:
+    - '/fr/aide/was-tun-wenn-man-die-limits-ueberschritten-hat'
+seo:
+    title: 'Que faire si les limites SeaTable sont atteintes ?'
+    description: 'Lorsque les limites sont dépassées, accès en lecture seule. Supprimez des données ou modifiez l’abonnement pour restaurer la modification des bases.'
+
 ---
 
 Vous n'avez plus qu'**un accès en lecture** à vos bases et ne pouvez plus y ajouter de données ? Vous avez alors atteint une **limite dans votre abonnement**. Ne vous inquiétez pas, vos données sont en sécurité, vous ne pouvez simplement plus les modifier jusqu'à ce que vous augmentiez vos limites d'abonnement ou libériez de l'espace de stockage.

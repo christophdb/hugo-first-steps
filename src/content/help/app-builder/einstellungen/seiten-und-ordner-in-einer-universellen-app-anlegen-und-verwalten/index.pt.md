@@ -5,7 +5,13 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/pt/ajuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+url: '/pt/ajuda/gerenciar-paginas-pastas-app-universal'
+aliases:
+    - '/pt/ajuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+seo:
+    title: 'Gerencie páginas e pastas em Apps Universais'
+    description: 'Crie, mova e exclua páginas e pastas nas Apps Universais do SeaTable. Organize seus dados e facilite a navegação para todos os usuários da sua equipe.'
+
 ---
 
 Numa aplicação universal, pode criar tantas **páginas** e **pastas** quantas desejar para tornar os dados de uma base acessíveis a um grupo de utilizadores específico, para os organizar e para os apresentar de forma apelativa. Existe uma variedade de [tipos de páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) que já conhece de outros locais no SeaTable e que pode criar na sua aplicação universal com apenas alguns cliques.

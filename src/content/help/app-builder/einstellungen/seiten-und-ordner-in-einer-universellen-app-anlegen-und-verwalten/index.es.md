@@ -5,7 +5,13 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/es/ayuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+url: '/es/ayuda/gestionar-paginas-carpetas-apps-universales'
+aliases:
+    - '/es/ayuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+seo:
+    title: 'Gestione páginas y carpetas en Apps Universales'
+    description: 'Cree, mueva y elimine páginas y carpetas en las Apps Universales de SeaTable. Organice datos y navegación de forma estructurada para todos sus usuarios.'
+
 ---
 
 En una Universal App, puede crear tantas **páginas** y **carpetas** como desee para que los datos de una base sean accesibles a un grupo específico de usuarios, para organizarlos y presentarlos de forma atractiva. Hay una variedad de [tipos de páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) que ya conoce de otros lugares en SeaTable y que puede crear en su Universal App con sólo unos clics.

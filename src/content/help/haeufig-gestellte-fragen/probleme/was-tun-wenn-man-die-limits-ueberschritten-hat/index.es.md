@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/es/ayuda/was-tun-wenn-man-die-limits-ueberschritten-hat'
+url: '/es/ayuda/limites-excedidos-solucion'
+aliases:
+    - '/es/ayuda/was-tun-wenn-man-die-limits-ueberschritten-hat'
+seo:
+    title: 'Qué hacer si excede los límites en SeaTable'
+    description: 'Si supera un límite, la base es solo lectura. Elimine datos o cambie de plan para volver a añadir y editar información. Ambas opciones están detalladas aquí.'
+
 ---
 
 ¿Sólo tienes **acceso de lectura a** tus bases y ya no puedes añadir datos? Entonces has alcanzado un **límite en tu suscripción**. No te preocupes, tus datos están a salvo, solo que ya no puedes editarlos hasta que aumentes los límites de tu suscripción o liberes espacio de almacenamiento.

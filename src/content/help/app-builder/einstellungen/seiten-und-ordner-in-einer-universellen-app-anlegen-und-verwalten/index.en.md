@@ -5,7 +5,13 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+url: '/help/manage-pages-folders-universal-app'
+aliases:
+    - '/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+seo:
+    title: 'Manage pages and folders in Universal Apps'
+    description: 'Create, move and delete pages and folders in SeaTable Universal Apps. Keep your data organized and ensure clear navigation for all user groups. All steps explained.'
+
 ---
 
 In a Universal App you can create as many **pages** and **folders** as you like to make the data in a base accessible to a specific user group, to organize it and to present it in an appealing way. There are a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) that you already know from other places in SeaTable and can create in your Universal App with just a few clicks.

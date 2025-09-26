@@ -6,6 +6,10 @@ categories:
     - 'formeln'
 author: 'nsc2'
 url: '/de/hilfe/typische-fehler-beim-arbeiten-mit-formeln'
+seo:
+    title: 'Typische Fehler beim Arbeiten mit Formeln in SeaTable'
+    description: 'Erkennen und beheben Sie die häufigsten Fehler bei SeaTable-Formeln: Anführungszeichen, Klammern, Kommas und Spaltenverweise richtig setzen und Fehlermeldungen vermeiden.'
+
 ---
 
 Die Formelfunktion eröffnet Ihnen neue Möglichkeiten in der Arbeit mit Ihren Daten. Mithilfe von _Formeln_ können Sie beispielsweise Werte von unterschiedlichen Spalten verknüpfen und basierend auf dem Inhalt dieser Spalten verschiedene Funktionen erstellen. Da die Arbeit mit komplexeren Formeln jedoch vor allem Anfänger leicht vor Probleme stellen kann, stellen wir Ihnen in diesem Artikel Lösungen für die uns bekanntesten und typischsten Probleme zur Verfügung.

@@ -5,7 +5,13 @@ lastmod: '2024-12-16'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/ru/pomoshch/einschraenkungen-in-der-nutzung-von-big-data'
+url: '/ru/pomoshch/ogranicheniya-big-data-seatable'
+aliases:
+    - '/ru/pomoshch/einschraenkungen-in-der-nutzung-von-big-data'
+seo:
+    title: 'Ограничения Big Data в SeaTable: краткий обзор'
+    description: 'Узнайте главные ограничения Big Data в SeaTable: синхронизация, редактирование, доступ, операции и полезные советы для управления данными.'
+
 ---
 
 Обычное представление в SeaTable обеспечивает **совместную работу** в режиме **реального времени** для **100 000 строк**. Big Data позволяет **хранить неограниченное количество** строк, но снижает возможности совместной работы. Прежде чем использовать Big Data, обязательно ознакомьтесь с этой справочной статьей, чтобы узнать, какие ограничения следует ожидать при использовании Big Data.

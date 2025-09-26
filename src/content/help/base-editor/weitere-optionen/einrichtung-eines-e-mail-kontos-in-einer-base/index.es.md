@@ -5,7 +5,13 @@ lastmod: '2025-03-08'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/einrichtung-eines-e-mail-kontos-in-einer-base'
+url: '/es/ayuda/configurar-email-base-seatable'
+aliases:
+    - '/es/ayuda/einrichtung-eines-e-mail-kontos-in-einer-base'
+seo:
+    title: 'Configurar correo electrónico en base de SeaTable'
+    description: 'Integre su cuenta de correo electrónico a una base SeaTable, incluya pruebas, envíe mails automáticos y optimice la seguridad con los principales proveedores.'
+
 ---
 
 Una de las innumerables opciones que le ofrece SeaTable es el **envío de correos electrónicos** desde sus bases. Esta función de SeaTable le ahorrará una cantidad de tiempo considerable si desea enviar siempre determinados correos electrónicos en un momento determinado de un proceso; por ejemplo, un recordatorio de pago en cuanto haya vencido el plazo para abonar una factura.

@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/typische-fehler-beim-arbeiten-mit-formeln'
+url: '/ru/pomoshch/oshibki-formuly-seatable'
+aliases:
+    - '/ru/pomoshch/typische-fehler-beim-arbeiten-mit-formeln'
+seo:
+    title: 'Частые ошибки формул в SeaTable: решения'
+    description: 'Узнайте и исправьте типичные ошибки формул SeaTable: кавычки, скобки, запятые и ссылки на столбцы для простых и правильных вычислений.'
+
 ---
 
 Функция формул открывает новые возможности для работы с данными. С помощью _формул_ можно, например, связывать значения из разных столбцов и создавать различные функции на основе содержимого этих столбцов.  

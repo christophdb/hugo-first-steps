@@ -5,7 +5,13 @@ lastmod: '2024-03-11'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/help/validierung-der-eingabe-bei-textfeldern'
+url: '/help/validate-textfield-regex-seatable'
+aliases:
+    - '/help/validierung-der-eingabe-bei-textfeldern'
+seo:
+    title: 'Validate text fields in SeaTable using regular expressions'
+    description: 'Use regular expressions to check and highlight values in SeaTable text fields. Automatically detect and prevent incorrect formats for high data quality.'
+
 ---
 
 When using text columns in your tables, you have the option to validate inputs. Using validation that supports regular expressions, you can validate cell values and highlight cells with content that deviates from the valid format.

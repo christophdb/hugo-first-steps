@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/datenverarbeitungsoperation-per-automation-ausfuehren'
+url: '/help/automate-data-processing-seatable'
+aliases:
+    - '/help/datenverarbeitungsoperation-per-automation-ausfuehren'
+seo:
+    title: 'Automate data processing operations in SeaTable'
+    description: 'Set up recurring data processing with SeaTable Automations: Perform calculations, connect tables and streamline workflows without manual effort, daily or weekly.'
+
 ---
 
 With the help of automations, you no longer have to perform a data processing operation manually, but can have it performed automatically. The variety of [data processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) available - from mathematical calculations to creating links between values in different tables - opens up new possibilities for automating your work processes.

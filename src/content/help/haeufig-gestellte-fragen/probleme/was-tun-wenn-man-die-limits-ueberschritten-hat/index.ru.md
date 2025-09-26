@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/was-tun-wenn-man-die-limits-ueberschritten-hat'
+url: '/ru/pomoshch/prevyshenie-limitov-reshenie'
+aliases:
+    - '/ru/pomoshch/was-tun-wenn-man-die-limits-ueberschritten-hat'
+seo:
+    title: 'Что делать при превышении лимитов в SeaTable?'
+    description: 'При превышении лимитов база становится доступной только для чтения. Удалите данные или смените тариф для полного функционала и редактирования.'
+
 ---
 
 Вы имеете только **доступ на чтение к** своим базам и больше не можете добавлять данные? Тогда вы достигли **лимита подписки**. Не волнуйтесь, ваши данные в безопасности, просто вы больше не сможете их редактировать, пока не увеличите лимит подписки или не освободите место для хранения.

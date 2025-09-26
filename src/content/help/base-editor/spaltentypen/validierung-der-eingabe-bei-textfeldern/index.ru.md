@@ -5,7 +5,13 @@ lastmod: '2024-03-11'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/ru/pomoshch/validierung-der-eingabe-bei-textfeldern'
+url: '/ru/pomoshch/validaciya-teksta-regex-seatable'
+aliases:
+    - '/ru/pomoshch/validierung-der-eingabe-bei-textfeldern'
+seo:
+    title: 'Валидация полей текста в SeaTable с помощью RegEx'
+    description: 'Проверяйте и выделяйте некорректные значения в текстовых полях SeaTable с помощью регулярных выражений для лучшей защиты структуры данных.'
+
 ---
 
 При использовании текстовых столбцов в таблицах у вас есть возможность проверки записей. С помощью валидации, которая поддерживает регулярные выражения, можно проверить значения ячеек и выделить ячейки с содержимым, отклоняющимся от допустимого формата.

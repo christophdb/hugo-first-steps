@@ -5,7 +5,13 @@ lastmod: '2024-12-16'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/fr/aide/einschraenkungen-in-der-nutzung-von-big-data'
+url: '/fr/aide/limites-big-data-seatable'
+aliases:
+    - '/fr/aide/einschraenkungen-in-der-nutzung-von-big-data'
+seo:
+    title: 'Big Data SeaTable : limites et conseils essentiels'
+    description: 'Explorez les restrictions clés du Big Data dans SeaTable – synchronisation, édition, droits d’accès, opérations et bonnes pratiques pour exploiter vos données.'
+
 ---
 
 Une vue normale dans SeaTable permet le travail **collaboratif** **en temps réel** pour **jusqu'à 100 000 lignes**. Le Big Data vous permet de **stocker un** nombre **illimité** de lignes, mais réduit vos possibilités de collaboration. Avant d'utiliser Big Data, n'oubliez pas de jeter un coup d'œil à cet article d'aide pour connaître les restrictions auxquelles vous devez vous attendre lors de l'utilisation de Big Data.
