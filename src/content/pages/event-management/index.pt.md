@@ -6,8 +6,7 @@ seo:
     description: 'Planeie eventos sem stress: participantes, tarefas e prazos num único local - ideal para equipas e agências.'
 date: '2025-07-08'
 url: '/pt/planeamento-de-eventos/'
-aliases:
-    - '/pt/gestão de eventos/'
+
 
 sections:
     - name: hero-5
