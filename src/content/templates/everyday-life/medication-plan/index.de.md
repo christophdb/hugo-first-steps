@@ -65,7 +65,7 @@ sections:
       - text: 'Übersichtliche Darstellung: Dank des Seitendesign-Plugins entsteht ein Mediplan zum Ausdrucken.'
       - text: 'Mehr Sicherheit: Nichts geht verloren, die Daten bleiben geschützt und nachvollziehbar gespeichert.'
       image_position: [left]
-      image: '/images/Templat-Page_Medikamentenplan_Screenshot_3.png'
+      image: '/images/template_page_medikamentenplan_screenshot_3.png'
       image_alt: 'Medikamentenplan Vorlage online ausfüllen, mobil dabei haben, stets aktuell und sicher verwalten.'
 
     - name: "content-13"
@@ -98,7 +98,7 @@ sections:
         image_alt: 'Medikamentenplan Vorlage: Ärzte mit Medikamenten verknüpft, Kontaktdaten und Standorte im Blick.'
       - headline: 'Eigene Gesundheitsdaten speichern und verwalten'
         text: 'In einer separaten Tabelle erfassen Sie alle relevanten persönlichen Informationen. Legen Sie Größe und Gewicht für die Dosierungsberechnung, Allergien, Vorerkrankungen, wichtige Dokumente oder Bilder zentral ab. So haben Sie Ihre Gesundheitsdaten immer strukturiert und griffbereit.'
-        image: '/images/Template-Page_Medikamentenplan_Screenshot_5.png'
+        image: '/images/template_page_medikamentenplan_screenshot_5.png'
         image_alt: 'Medikamentenplan Vorlage: Gesundheitsdaten, Allergien, Größe und Gewicht sicher speichern.'
       - headline: 'Datenschutz und Sicherheit'
         text: 'Gerade bei Gesundheitsdaten ist Vertrauen entscheidend. SeaTable legt großen Wert auf Datenschutz und Sicherheit. Ihre Daten werden ausschließlich auf Servern in Deutschland gespeichert und unterliegen den strengen Vorgaben der DSGVO. Sie behalten jederzeit die volle Kontrolle.'
@@ -132,9 +132,9 @@ sections:
       items:
       - q: "Ist SeaTables Vorlage für einen Medikamentenplan kostenlos?"
         a: 'Ja, die Medikationsplan Vorlage von SeaTable kann kostenlos genutzt werden. Sie benötigen lediglich einen SeaTable-Account, um die Vorlage Medikamentenplan kostenlos anzupassen und alle Funktionen zu nutzen.'
-        q: "Warum sollte ich einen Medikamentenplan online erstellen?"
+      - q: "Warum sollte ich einen Medikamentenplan online erstellen?"
         a: "Wenn Sie Ihren Medikamentenplan online ausfüllen und verwalten, haben Sie jederzeit und von jedem Ort Zugriff auf den aktuellen Stand und können Informationen leicht mit Ärzten oder Therapeuten teilen. Mit unserer Vorlage für einen Medikamentenplan bleibt Ihre Medikation sicher und transparent. Dank des in unserer Vorlage für einen Medikamentenplan integrierten Seitendesign-Plugins können Sie bei Bedarf Ihren Medikamentenplan auch ausdrucken."
-        q: "Kann ich die Vorlage für den Medikamentenplan ausdrucken?"
+      - q: "Kann ich die Vorlage für den Medikamentenplan ausdrucken?"
         a: 'Ja, Sie können Ihren Medikamentenplan online erstellen und mit dem Seitendesign-Plugin automatisch einen übersichtlichen Mediplan zum Ausdrucken erzeugen.'
       - q: 'Kann ich die Medikamentenplan Vorlage auch für mehrere Personen nutzen?'
         a: 'Ja, Sie können unsere Vorlage für einen Medikamentenplan auch für mehrere Pläne nutzen. Mit SeaTable erstellen Sie einen Medikamentenplan kostenlos für bis zu fünf Nutzer.'
