@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/uebersicht-ueber-automationen'
+url: '/pt/ajuda/automatizacoes-visao-exemplos-seatable'
+aliases:
+    - '/pt/ajuda/uebersicht-ueber-automationen'
+seo:
+    title: 'Automatizações no SeaTable: visão geral e exemplos'
+    description: 'Veja como agilizar tarefas com as automações SeaTable: acionadores, ações, registro de execuções e exemplos práticos de uso para melhorar o seu fluxo.'
+
 ---
 
 {{< required-version "Empresa" >}}

@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/es/ayuda/uebersicht-ueber-automationen'
+url: '/es/ayuda/automatizaciones-guia-seatable'
+aliases:
+    - '/es/ayuda/uebersicht-ueber-automationen'
+seo:
+    title: 'Automatizaciones en SeaTable: guía y casos de uso'
+    description: 'Descubra cómo crear y gestionar automatizaciones en SeaTable: disparadores, acciones, historial y ejemplos prácticos para optimizar operaciones.'
+
 ---
 
 {{< required-version "Empresa" >}}

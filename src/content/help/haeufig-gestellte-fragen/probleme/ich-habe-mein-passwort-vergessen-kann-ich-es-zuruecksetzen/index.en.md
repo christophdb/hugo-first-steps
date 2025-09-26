@@ -5,7 +5,13 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/help/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+url: '/help/forgot-password-reset-seatable'
+aliases:
+    - '/help/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+seo:
+    title: 'Forgot password? Reset it now in SeaTable'
+    description: 'Forgot your SeaTable password? Request a reset link by email via the login page and easily choose a new password for instant access to your account.'
+
 ---
 
 You can have a link sent to your SeaTable account email address that will allow you to reassign your password. You can find this function on the login page of SeaTable Cloud.

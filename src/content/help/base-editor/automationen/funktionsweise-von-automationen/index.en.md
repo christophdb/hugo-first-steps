@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/funktionsweise-von-automationen'
+url: '/help/how-automations-work-seatable'
+aliases:
+    - '/help/funktionsweise-von-automationen'
+seo:
+    title: 'How automations work in SeaTable: triggers & actions'
+    description: 'Learn how SeaTable automations can streamline work: trigger events, actions, conditions and practical use cases make data processing faster and more reliable.'
+
 ---
 
 {{< required-version "Enterprise" >}}

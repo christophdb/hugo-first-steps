@@ -5,7 +5,13 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/rechnungsadresse-anpassen'
+url: '/fr/aide/modifier-adresse-facturation-seatable'
+aliases:
+    - '/fr/aide/rechnungsadresse-anpassen'
+seo:
+    title: 'Modifier l’adresse de facturation SeaTable facilement'
+    description: 'Changez rapidement l’adresse de facturation dans SeaTable via admin d’équipe. Guide étape par étape, validité et questions fréquentes sur les factures.'
+
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}

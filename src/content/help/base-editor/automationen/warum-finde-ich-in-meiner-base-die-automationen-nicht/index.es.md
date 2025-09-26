@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/es/ayuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+url: '/es/ayuda/automatizaciones-no-disponibles-seatable'
+aliases:
+    - '/es/ayuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+seo:
+    title: '¿No ve las automatizaciones? Revise su plan SeaTable'
+    description: 'Las automatizaciones solo están en el Plan Enterprise. Verifique su suscripción y cambie de plan para activar rápidamente esta función avanzada en su equipo.'
+
 ---
 
 ¿No puede crear automatizaciones en sus bases? Una posible causa podría ser una [suscripción]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) insuficiente.

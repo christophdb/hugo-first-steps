@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/funktionsweise-von-automationen'
+url: '/ru/pomoshch/funksionirovanie-avtomatizaciy-seatable'
+aliases:
+    - '/ru/pomoshch/funktionsweise-von-automationen'
+seo:
+    title: 'Как работают автоматизации в SeaTable: инструкция'
+    description: 'Освойте автоматизацию в SeaTable: настройка триггеров, действий, условий и реальных сценариев для эффективной работы с большими данными.'
+
 ---
 
 {{< required-version "Предприятие" >}}

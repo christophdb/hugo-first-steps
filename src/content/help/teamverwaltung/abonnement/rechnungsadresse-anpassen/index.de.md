@@ -6,6 +6,10 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/rechnungsadresse-anpassen'
+seo:
+    title: 'Rechnungsadresse im SeaTable-Abo ändern – Anleitung'
+    description: 'So aktualisieren Sie die Rechnungsadresse für Ihr SeaTable Team: Schritt-für-Schritt über die Teamverwaltung und wichtige FAQ zu Abrechnungen und Änderungen.'
+
 ---
 
 {{< required-version "Team-Administratoren" >}}

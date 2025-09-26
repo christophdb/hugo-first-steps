@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/funktionsweise-von-automationen'
+url: '/fr/aide/fonctionnement-automatisations-seatable'
+aliases:
+    - '/fr/aide/funktionsweise-von-automationen'
+seo:
+    title: 'Fonctionnement des automatisations dans SeaTable'
+    description: 'Automatisez vos processus dans SeaTable : paramétrez des déclencheurs, conditions et actions pour rendre vos flux de travail fluides et fiables au quotidien.'
+
 ---
 
 {{< required-version "Entreprise" >}}

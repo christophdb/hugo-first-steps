@@ -5,7 +5,13 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/rechnungsadresse-anpassen'
+url: '/ru/pomoshch/izmenit-adres-dlya-scheta-seatable'
+aliases:
+    - '/ru/pomoshch/rechnungsadresse-anpassen'
+seo:
+    title: 'Изменить адрес для счета в SeaTable: инструкция'
+    description: 'Изменяйте адрес для счета SeaTable через панель управления: пошагово, с пояснениями по срокам и важным моментам реквизитов счетов и новой информации.'
+
 ---
 
 {{< required-version "Администраторы команд" >}}

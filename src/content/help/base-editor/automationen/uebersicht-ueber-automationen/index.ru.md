@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/uebersicht-ueber-automationen'
+url: '/ru/pomoshch/avtomatizatsiya-obzor-seatable'
+aliases:
+    - '/ru/pomoshch/uebersicht-ueber-automationen'
+seo:
+    title: 'SeaTable: обзор автоматизации и рабочие примеры'
+    description: 'Используйте автоматизацию в SeaTable: виды триггеров, действия, логи, управление и реальные сценарии для ускорения работы с большими данными.'
+
 ---
 
 {{< required-version "Предприятие" >}}

@@ -6,6 +6,10 @@ categories:
   - "statistiken-und-datenanalyse"
 author: "vge"
 url: "/de/hilfe/anleitung-zum-statistik-modul"
+seo:
+    title: 'Statistiken und Diagramme im SeaTable Statistik-Modul'
+    description: 'Erstellen Sie ansprechende Grafiken und Dashboards mit dem Statistik-Modul von SeaTable. Daten visuell analysieren, Trends erkennen und Layouts individuell anpassen.'
+
 ---
 
 Mit dem **Statistik-Modul** können Sie die Daten aus Ihrer Tabelle visuell in Form von verschiedenen **Grafiken** und **Diagrammen** darstellen. Dies ist für Ihre Arbeit in SeaTable äußerst nützlich: Dank der **Dashboards** behalten Sie immer den Überblick über die Zahlen und statistischen Entwicklungen in Ihrer Base.

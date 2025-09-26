@@ -6,6 +6,10 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/automations-aktionen'
+seo:
+    title: 'Automations-Aktionen in SeaTable: Alle Optionen erklärt'
+    description: 'Übersicht: Diese Aktionen können SeaTable Automationen automatisch auslösen – E-Mail, Zeile oder Link hinzufügen, Benachrichtigungen, Skripte, Datenverarbeitung und mehr.'
+
 ---
 
 {{< required-version "Enterprise" >}}

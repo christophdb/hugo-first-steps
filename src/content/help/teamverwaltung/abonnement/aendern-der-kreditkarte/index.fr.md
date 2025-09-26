@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/aendern-der-kreditkarte'
+url: '/fr/aide/modifier-carte-bancaire-seatable'
+aliases:
+    - '/fr/aide/aendern-der-kreditkarte'
+seo:
+    title: 'Modifier la carte bancaire de votre abonnement SeaTable'
+    description: 'Gérez et modifiez simplement la carte de paiement de votre abonnement SeaTable via la gestion d’équipe. Instructions pour une nouvelle carte rapide et sûre.'
+
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}

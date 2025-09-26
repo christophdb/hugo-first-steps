@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+url: '/help/automations-missing-seatable'
+aliases:
+    - '/help/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+seo:
+    title: 'Missing automations in SeaTable? Check your plan'
+    description: 'Automations are only accessible with a SeaTable Enterprise plan. See how to check your subscription and upgrade to unlock automation features for your team.'
+
 ---
 
 You cannot create automations in your bases? A possible cause could be an insufficient [subscription]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}).

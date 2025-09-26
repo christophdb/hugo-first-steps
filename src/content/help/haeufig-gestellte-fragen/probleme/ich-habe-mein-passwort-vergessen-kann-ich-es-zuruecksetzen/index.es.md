@@ -5,7 +5,13 @@ lastmod: "2023-03-01"
 categories: 
   - "haeufig-gestellte-fragen"
 author: "cdb"
-url: "/es/ayuda/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen"
+url: "/es/ayuda/olvido-contrasena-restaurar-seatable"
+aliases:
+  - "/es/ayuda/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen"
+seo:
+    title: '¿Olvidó su contraseña? Restáurela en SeaTable'
+    description: '¿Olvidó la clave de SeaTable? Solicite el enlace de restablecimiento por mail desde la página de inicio de sesión y configure fácilmente una nueva contraseña segura.'
+
 ---
 
 Puede hacer que le envíen un enlace a la dirección de correo electrónico de su cuenta SeaTable que le permitirá reasignar su contraseña. Encontrará esta función en la página de inicio de sesión de SeaTable Cloud.

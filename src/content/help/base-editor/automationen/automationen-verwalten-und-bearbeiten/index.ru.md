@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/automationen-verwalten-und-bearbeiten'
+url: '/ru/pomoshch/upravlenie-avtomatizatsiyami-seatable'
+aliases:
+    - '/ru/pomoshch/automationen-verwalten-und-bearbeiten'
+seo:
+    title: 'Управление и редактирование автоматизаций SeaTable'
+    description: 'Научитесь изменять и настраивать автоматизации: переименовывайте, редактируйте действия, триггеры и поддерживайте правильную логику бизнес-процессов.'
+
 ---
 
 {{< required-version "Предприятие" >}}
