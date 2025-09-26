@@ -6,6 +6,10 @@ categories:
   - "haeufig-gestellte-fragen"
 author: "cdb"
 url: "/de/hilfe/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen"
+seo:
+    title: 'Passwort vergessen? So setzen Sie es in SeaTable zurück'
+    description: 'Passwort vergessen? In SeaTable erhalten Sie per E-Mail einen Reset-Link – einfach über die Login-Seite anfordern und ein neues Passwort nach Wunsch festlegen.'
+
 ---
 
 Sie können sich an die E-Mail-Adresse Ihres SeaTable Kontos einen Link senden lassen, mit dem Sie Ihr Passwort neu vergeben können. Diese Funktion finden Sie auf der Login-Seite der SeaTable Cloud.

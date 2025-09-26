@@ -5,7 +5,13 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/rechnungsadresse-anpassen'
+url: '/es/ayuda/cambiar-direccion-facturacion-seatable'
+aliases:
+    - '/es/ayuda/rechnungsadresse-anpassen'
+seo:
+    title: 'Actualizar dirección de facturación en SeaTable'
+    description: 'Modifique la dirección de facturación a través de la administración de equipo en SeaTable. Guía y respuestas sobre cambios y validez en las facturas.'
+
 ---
 
 {{< required-version "Administradores de equipo" >}}

@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+url: '/ru/pomoshch/avtomatizacii-nedostupny-seatable'
+aliases:
+    - '/ru/pomoshch/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+seo:
+    title: 'Не видны автоматизации? Проверьте тариф SeaTable'
+    description: 'Автоматизации доступны только в тарифе SeaTable Enterprise. Проверьте командную подписку и при необходимости выполните апгрейд для активации функции.'
+
 ---
 
 Вы не можете создать автоматизацию в своих базах? Одной из возможных причин может быть недостаточная [подписка]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}).

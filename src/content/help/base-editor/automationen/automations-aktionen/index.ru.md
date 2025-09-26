@@ -5,7 +5,13 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/automations-aktionen'
+url: '/ru/pomoshch/deystviya-avtomatizatsii-seatable'
+aliases:
+    - '/ru/pomoshch/automations-aktionen'
+seo:
+    title: 'Действия автоматизации SeaTable: полный обзор'
+    description: 'Все действия автоматизации SeaTable: e-mail, строки, уведомления, python-скрипты, обработка данных и улучшение процессов в Enterprise-версии.'
+
 ---
 
 {{< required-version "Предприятие" >}}

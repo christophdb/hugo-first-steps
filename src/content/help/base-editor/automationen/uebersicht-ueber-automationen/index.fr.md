@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/uebersicht-ueber-automationen'
+url: '/fr/aide/automatisations-guide-seatable'
+aliases:
+    - '/fr/aide/uebersicht-ueber-automationen'
+seo:
+    title: 'Automatisations SeaTable : guide, fonctions et usages'
+    description: 'Structurez et automatisez vos tâches dans SeaTable : déclencheurs, actions, gestion, logs et exemples d’automatisations réussir vos workflows.'
+
 ---
 
 {{< required-version "Entreprise" >}}

@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/ru/pomoshch/typische-fehler-im-umgang-mit-der-seatable-api'
+url: '/ru/pomoshch/oshibki-api-resheniya-seatable'
+aliases:
+    - '/ru/pomoshch/typische-fehler-im-umgang-mit-der-seatable-api'
+seo:
+    title: 'Ошибки API SeaTable: причины и решение'
+    description: 'Авторизация 401, лимиты 429 и другие частые ошибки API SeaTable: как быстро найти причину, исправить и грамотно обратиться в поддержку.'
+
 ---
 
 Иногда при вызовах API могут возникать ошибки. Цель этой статьи - объяснить и устранить наиболее распространенные ошибки или проблемы. Подробный список ошибок вы можете найти в нашей [документации по API](https://api.seatable.com).

@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+url: '/pt/ajuda/automacoes-nao-visiveis-seatable'
+aliases:
+    - '/pt/ajuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+seo:
+    title: 'Não encontra automações? Verifique o plano SeaTable'
+    description: 'As automações são exclusivas do SeaTable Enterprise. Veja como conferir a assinatura do time e fazer upgrade para liberar automações avançadas.'
+
 ---
 
 Não pode criar automatismos nas suas bases? Uma causa possível poderia ser uma [subscrição]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) insuficiente.

@@ -5,7 +5,13 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/fr/aide/typische-fehler-im-umgang-mit-der-seatable-api'
+url: '/fr/aide/erreurs-api-corrections-seatable'
+aliases:
+    - '/fr/aide/typische-fehler-im-umgang-mit-der-seatable-api'
+seo:
+    title: 'SeaTable API : erreurs fréquentes et corrections'
+    description: 'Principales erreurs de l’API SeaTable : codes 401/429, explications, corrections rapides et recommandations pour contacter le support technique.'
+
 ---
 
 Des erreurs peuvent parfois survenir lors des appels à l'API. Cet article a pour but d'expliquer et de corriger les erreurs ou les problèmes les plus courants que l'on peut rencontrer. Vous trouverez une liste détaillée des erreurs dans notre [documentation API](https://api.seatable.com).

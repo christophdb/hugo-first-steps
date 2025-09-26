@@ -5,7 +5,13 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/rechnungsadresse-anpassen'
+url: '/help/change-billing-address-seatable'
+aliases:
+    - '/help/rechnungsadresse-anpassen'
+seo:
+    title: 'Change your billing address in SeaTable step by step'
+    description: 'Update your SeaTable team billing address quickly in the admin area. Guide on where to edit info and what to know about invoices and recurring payments.'
+
 ---
 
 {{< required-version "Team Administrators" >}}

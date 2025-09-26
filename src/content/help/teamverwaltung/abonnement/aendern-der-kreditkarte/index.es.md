@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/aendern-der-kreditkarte'
+url: '/es/ayuda/cambiar-tarjeta-suscripcion-seatable'
+aliases:
+    - '/es/ayuda/aendern-der-kreditkarte'
+seo:
+    title: 'Cambie la tarjeta del abono SeaTable fácilmente'
+    description: 'Modifique la tarjeta para su suscripción SeaTable: acceda a la administración del equipo y reemplace los datos para una facturación segura y automática.'
+
 ---
 
 {{< required-version "Administradores de equipo" >}}

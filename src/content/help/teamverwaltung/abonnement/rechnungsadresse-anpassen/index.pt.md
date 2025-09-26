@@ -5,7 +5,13 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/rechnungsadresse-anpassen'
+url: '/pt/ajuda/alterar-endereco-faturamento-seatable'
+aliases:
+    - '/pt/ajuda/rechnungsadresse-anpassen'
+seo:
+    title: 'Alterar endereço de faturamento do SeaTable'
+    description: 'Atualize o endereço de faturamento no SeaTable pelo painel do time. Tudo sobre validade das mudanças e dúvidas frequentes sobre cobranças.'
+
 ---
 
 {{< required-version "Administradores de equipa" >}}

@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'statistiken-und-datenanalyse'
 author: 'vge'
-url: '/pt/ajuda/anleitung-zum-statistik-modul'
+url: '/pt/ajuda/modulo-estatisticas-tutorial-seatable'
+aliases:
+    - '/pt/ajuda/anleitung-zum-statistik-modul'
+seo:
+    title: 'Estatísticas e gráficos no módulo SeaTable: tutorial'
+    description: 'Visualize seus dados em gráficos no SeaTable: organize dashboards, crie estatística e otimize relatórios com o módulo de análise visual e configurações práticas.'
+
 ---
 
 O **módulo de estatísticas** permite-lhe visualizar os dados da sua tabela sob a forma de vários **gráficos** e **diagramas**. Isto é extremamente útil para o seu trabalho no SeaTable: graças aos **painéis de controlo**, tem sempre uma visão geral dos números e da evolução estatística da sua base.

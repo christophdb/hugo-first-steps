@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+url: '/fr/aide/automatisations-pas-de-disponibles-seatable'
+aliases:
+    - '/fr/aide/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+seo:
+    title: 'Automatisations absentes ? Vérifiez votre offre SeaTable'
+    description: 'Les automatisations sont réservées à l’abonnement Enterprise. Consultez votre formule d’équipe et effectuez une mise à niveau pour activer cette option puissante.'
+
 ---
 
 Vous ne parvenez pas à créer des automatisations dans vos bases ? Une cause possible pourrait être un [abonnement]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) insuffisant.

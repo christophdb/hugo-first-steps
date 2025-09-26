@@ -6,6 +6,10 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+seo:
+    title: 'Keine Automationen? Abo prüfen in SeaTable'
+    description: 'Die Automationen sind nur im SeaTable Enterprise-Abo verfügbar. Prüfen Sie Ihr Team-Abo und erfahren Sie, wie Sie Automationen durch Upgrade aktivieren können.'
+
 ---
 
 Sie können in Ihren Bases keine Automationen anlegen? Eine mögliche Ursache könnte ein unzureichendes [Abonnement]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}) sein.

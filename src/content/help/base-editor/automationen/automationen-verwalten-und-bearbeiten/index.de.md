@@ -6,6 +6,10 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/automationen-verwalten-und-bearbeiten'
+seo:
+    title: 'Automationen in SeaTable verwalten und bearbeiten'
+    description: 'Lernen Sie, wie Sie bestehende Automationen einfach verwalten, bearbeiten oder anpassen: Trigger, Aktionen, Ansichten und weitere Optionen flexibel ändern.'
+
 ---
 
 {{< required-version "Enterprise" >}}

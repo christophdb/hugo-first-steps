@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/aendern-der-kreditkarte'
+url: '/help/update-credit-card-seatable'
+aliases:
+    - '/help/aendern-der-kreditkarte'
+seo:
+    title: 'Update your SeaTable credit card: step-by-step guide'
+    description: 'Change your SeaTable subscription credit card in just a few clicks via team admin settings. Update payment details securely for seamless billing.'
+
 ---
 
 {{< required-version "Team Administrators" >}}

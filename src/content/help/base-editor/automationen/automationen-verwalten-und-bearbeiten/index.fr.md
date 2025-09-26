@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/automationen-verwalten-und-bearbeiten'
+url: '/fr/aide/gerer-modifier-automatisations-seatable'
+aliases:
+    - '/fr/aide/automationen-verwalten-und-bearbeiten'
+seo:
+    title: 'Gérer et modifier les automatisations SeaTable'
+    description: 'Gérez et modifiez vos automatisations existantes : ajustez déclencheurs, actions et vues pour optimiser les processus de vos bases SeaTable au quotidien.'
+
 ---
 
 {{< required-version "Entreprise" >}}

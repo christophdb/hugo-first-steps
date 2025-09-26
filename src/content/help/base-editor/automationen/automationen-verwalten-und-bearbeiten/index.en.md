@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/automationen-verwalten-und-bearbeiten'
+url: '/help/manage-edit-automations-seatable'
+aliases:
+    - '/help/automationen-verwalten-und-bearbeiten'
+seo:
+    title: 'Manage and edit automations in SeaTable: quick guide'
+    description: 'Discover how to manage and edit existing automations in SeaTable: rename, change triggers, update actions and keep your automated workflows up to date.'
+
 ---
 
 {{< required-version "Enterprise" >}}

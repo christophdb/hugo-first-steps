@@ -6,6 +6,10 @@ categories:
     - 'seatable-api'
 author: 'cdb'
 url: '/de/hilfe/typische-fehler-im-umgang-mit-der-seatable-api'
+seo:
+    title: 'SeaTable API: Typische Fehler erkennen und beheben'
+    description: 'Häufige API-Probleme in SeaTable: Fehlercodes wie 401/429, Ursachen, schnelle Lösungen und Tipps für Support-Anfragen verständlich zusammengefasst.'
+
 ---
 
 Gelegentlich können bei API-Aufrufen Fehler auftreten. Dieser Artikel soll die häufigsten Fehler oder Probleme erklären und beheben, auf die man stößt. Eine ausführliche Liste der Fehler finden Sie in unserer [API-Dokumentation](https://api.seatable.com).

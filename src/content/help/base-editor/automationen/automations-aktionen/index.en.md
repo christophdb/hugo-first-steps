@@ -5,7 +5,13 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/automations-aktionen'
+url: '/help/automation-actions-seatable'
+aliases:
+    - '/help/automations-aktionen'
+seo:
+    title: 'Automation actions in SeaTable: full list and options'
+    description: 'See every automation action in SeaTable Enterprise: send emails, add or lock rows, notifications, scripts, data processing and useful use cases.'
+
 ---
 
 {{< required-version "Enterprise" >}}

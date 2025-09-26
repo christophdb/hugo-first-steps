@@ -5,7 +5,13 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/es/ayuda/funktionsweise-von-automationen'
+url: '/es/ayuda/como-funcionan-automatizaciones-seatable'
+aliases:
+    - '/es/ayuda/funktionsweise-von-automationen'
+seo:
+    title: 'Cómo funcionan las automatizaciones en SeaTable'
+    description: 'Entienda cómo automatizar procesos en SeaTable: defina triggers, condiciones y acciones para optimizar tareas y reducir errores humanos.'
+
 ---
 
 {{< required-version "Empresa" >}}

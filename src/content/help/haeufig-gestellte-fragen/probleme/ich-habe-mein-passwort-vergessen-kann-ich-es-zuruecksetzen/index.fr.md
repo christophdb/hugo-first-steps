@@ -5,7 +5,13 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+url: '/fr/aide/mot-de-passe-oublie-reinitialiser-seatable'
+aliases:
+    - '/fr/aide/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+seo:
+    title: 'Mot de passe oublié ? Réinitialisez-le dans SeaTable'
+    description: 'Lost your password? Ask SeaTable for a reset link – receive it in your inbox, follow the instructions and set a new password in minutes via the login page.'
+
 ---
 
 Vous pouvez demander à ce qu'un lien vous soit envoyé à l'adresse e-mail de votre compte SeaTable afin de réattribuer votre mot de passe. Vous trouverez cette fonction sur la page de connexion de SeaTable Cloud.

@@ -5,7 +5,13 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/pt/ajuda/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+url: '/pt/ajuda/senha-esquecida-redefinir-seatable'
+aliases:
+    - '/pt/ajuda/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+seo:
+    title: 'Esqueceu a senha? Redefina no SeaTable facilmente'
+    description: 'Esqueceu sua senha do SeaTable? Receba o link de redefinição por e-mail, siga o procedimento e escolha uma nova senha por meio da página de login.'
+
 ---
 
 Pode ter um link enviado para o endereço de correio electrónico da sua conta SeaTable que lhe permitirá reatribuir a sua palavra-passe. Pode encontrar esta função na página de login do SeaTable Cloud.

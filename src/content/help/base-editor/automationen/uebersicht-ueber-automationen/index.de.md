@@ -6,6 +6,10 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/uebersicht-ueber-automationen'
+seo:
+    title: 'Automationen in SeaTable: Überblick und Beispiele'
+    description: 'Lernen Sie, wie SeaTable Arbeitsprozesse automatisiert: Trigger, Aktionen, Logs, Verwaltung und praktische Anwendungsfälle für effizientes Datenmanagement.'
+
 ---
 
 {{< required-version "Enterprise" >}}

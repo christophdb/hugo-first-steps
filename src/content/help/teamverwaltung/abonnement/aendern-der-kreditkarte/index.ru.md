@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/aendern-der-kreditkarte'
+url: '/ru/pomoshch/izmenit-kreditnuyu-kartu-seatable'
+aliases:
+    - '/ru/pomoshch/aendern-der-kreditkarte'
+seo:
+    title: 'Изменить кредитную карту SeaTable для оплаты'
+    description: 'Как быстро заменить карту для оплаты SeaTable: инструкция по обновлению данных в настройках команды, всё для безопасных и успешных платежей.'
+
 ---
 
 {{< required-version "Администраторы команд" >}}

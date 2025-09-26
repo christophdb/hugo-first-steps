@@ -6,6 +6,10 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/aendern-der-kreditkarte'
+seo:
+    title: 'Kreditkarte für Ihr SeaTable Abo schnell ändern'
+    description: 'So aktualisieren Sie Ihre Kreditkarte für SeaTable: In wenigen Schritten im Bereich Teamverwaltung neue Karte hinterlegen und Zahlungsdaten sicher anpassen.'
+
 ---
 
 {{< required-version "Team-Administratoren" >}}
