@@ -6,6 +6,10 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
 url: '/de/hilfe/was-tun-wenn-man-die-limits-ueberschritten-hat'
+seo:
+    title: 'Was tun, wenn SeaTable-Limits überschritten sind?'
+    description: 'Bei Überschreitung eines Limits ist Ihre Base nur noch lesbar. Löschen Sie Daten oder upgraden Sie das Abo, um wieder alle Funktionen nutzen zu können.'
+
 ---
 
 Sie haben nur noch **Lesezugriff** auf Ihre Bases und können keine Daten mehr hinzufügen? Dann haben Sie ein **Limit in Ihrem Abonnement** erreicht. Keine Sorge, Ihre Daten sind sicher, Sie können diese lediglich nicht mehr bearbeiten, bis Sie Ihre Abo-Limits erhöhen oder Speicherplatz freimachen.

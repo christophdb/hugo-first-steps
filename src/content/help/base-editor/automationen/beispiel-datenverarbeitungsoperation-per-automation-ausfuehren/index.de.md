@@ -6,6 +6,10 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitungsoperation-per-automation-ausfuehren'
+seo:
+    title: 'Datenverarbeitungsoperation automatisch in SeaTable'
+    description: 'Lassen Sie Datenverarbeitungsoperationen per Automation ausführen und sparen Sie Zeit: Mathematische Berechnungen, Verbindungen und mehr – bequem, wiederkehrend, sicher.'
+
 ---
 
 Mithilfe von Automationen müssen Sie eine Datenverarbeitungsoperation nicht mehr manuell ausführen, sondern können diese automatisch ausführen lassen. Die Vielfalt der verfügbaren [Datenverarbeitungsoperationen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) – von mathematischen Berechnungen bis hin zur Herstellung von Verknüpfungen zwischen Werten in verschiedenen Tabellen – eröffnet Ihnen dabei neue Möglichkeiten in der Automatisierung Ihrer Arbeitsprozesse.

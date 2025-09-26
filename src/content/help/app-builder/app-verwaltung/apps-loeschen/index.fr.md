@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/fr/aide/apps-loeschen'
+url: '/fr/aide/supprimer-apps-definitivement-seatable'
+aliases:
+    - '/fr/aide/apps-loeschen'
+seo:
+    title: 'Supprimez définitivement des apps de votre base SeaTable'
+    description: 'Effacez les apps inutiles de votre base SeaTable simplement et rapidement. Seuls admins ou propriétaires le peuvent, les données ne sont pas supprimées.'
+
 ---
 
 Vous souhaitez supprimer de votre base une application dont vous n’avez plus besoin ? Aucun problème! Cela peut être fait à tout moment en quelques clics.

@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/help/typische-fehler-beim-arbeiten-mit-formeln'
+url: '/help/formula-errors-seatable'
+aliases:
+    - '/help/typische-fehler-beim-arbeiten-mit-formeln'
+seo:
+    title: 'Common formula errors in SeaTable: avoid pitfalls'
+    description: 'Spot and fix frequent errors in SeaTable formulas: use quotes, brackets, commas and column references correctly to prevent issues and write error-free calculations.'
+
 ---
 
 The formula function opens up new possibilities in working with your data. For example, you can use _formulas_ to link values from different columns and create different functions based on the contents of these columns.  

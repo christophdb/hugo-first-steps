@@ -6,6 +6,10 @@ categories:
     - 'text-und-zahlen'
 author: 'nsc2'
 url: '/de/hilfe/validierung-der-eingabe-bei-textfeldern'
+seo:
+    title: 'Textfeld-Validierung mit Regex in SeaTable konfigurieren'
+    description: 'Prüfen und markieren Sie Eingaben in Textspalten mit regulären Ausdrücken, um Formatabweichungen automatisch zu erkennen. Ideal zur Absicherung Ihrer Datenqualität.'
+
 ---
 
 Bei der Verwendung von Textspalten in Ihren Tabellen haben Sie die Möglichkeit, Eingaben zu validieren. Mithilfe einer Validierung, bei der reguläre Ausdrücke (Regular Expressions) unterstützt werden, können Sie Zellwerte überprüfen und Zellen mit einem vom gültigen Format abweichenden Inhalt hervorheben.

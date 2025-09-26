@@ -6,6 +6,10 @@ categories:
     - 'big-data'
 author: 'nsc2'
 url: '/de/hilfe/einschraenkungen-in-der-nutzung-von-big-data'
+seo:
+    title: 'Big Data in SeaTable: Alle Einschränkungen im Überblick'
+    description: 'Informieren Sie sich über die wichtigsten Einschränkungen bei SeaTable Big Data: Synchronisation, Bearbeitung, Freigabe, Operationsmöglichkeiten und Tipps zur Nutzung.'
+
 ---
 
 Eine normale Ansicht in SeaTable erlaubt das **kollaborative** Arbeiten **in Echtzeit** für **bis zu 100.000 Zeilen**. Big Data ermöglicht Ihnen die **unbegrenzte Speicherung** von Zeilen, reduziert jedoch Ihre Möglichkeiten zur kollaborativen Zusammenarbeit. Werfen Sie vor der Nutzung von Big Data unbedingt einen Blick in diesen Hilfeartikel, um zu erfahren, mit welchen Einschränkungen Sie bei der Nutzung von Big Data rechnen müssen.

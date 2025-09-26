@@ -5,7 +5,13 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/fr/aide/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+url: '/fr/aide/gerer-pages-dossiers-app-universelle'
+aliases:
+    - '/fr/aide/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+seo:
+    title: 'Gérer pages et dossiers dans une App Universelle'
+    description: 'Ajoutez, déplacez et supprimez pages et dossiers dans vos Apps Universelles SeaTable. Structurez vos données et la navigation pour chaque équipe facilement.'
+
 ---
 
 Dans une application universelle, vous pouvez créer autant de **pages** et **de dossiers** que vous le souhaitez afin de rendre les données d'une base accessibles à un groupe d'utilisateurs spécifique, de les organiser et de les présenter de manière attrayante. Il existe à cet effet un grand nombre de [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) que vous connaissez déjà d'autres endroits dans SeaTable et que vous pouvez créer en quelques clics dans votre application universelle.

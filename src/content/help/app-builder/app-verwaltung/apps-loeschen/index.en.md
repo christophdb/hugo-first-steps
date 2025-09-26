@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/help/apps-loeschen'
+url: '/help/delete-apps-permanently-seatable'
+aliases:
+    - '/help/apps-loeschen'
+seo:
+    title: 'Permanently delete apps from your SeaTable base'
+    description: 'Remove unused apps from your SeaTable base quickly and easily. Admin or owner rights required; data in underlying tables stays safe after deletion.'
+
 ---
 
 Do you want to delete an app from your base that you no longer need? No problem! This can be done at any time with just a few clicks.

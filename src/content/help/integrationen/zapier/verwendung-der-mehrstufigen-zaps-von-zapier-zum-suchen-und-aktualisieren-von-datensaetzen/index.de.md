@@ -6,6 +6,10 @@ categories:
     - 'zapier-integration'
 author: 'cdb'
 url: '/de/hilfe/verwendung-der-mehrstufigen-zaps-von-zapier-zum-suchen-und-aktualisieren-von-datensaetzen'
+seo:
+    title: 'Mehrstufige Zaps: Suchen & Aktualisieren in SeaTable'
+    description: 'So automatisieren Sie in SeaTable die Suche und Aktualisierung von Einträgen mit Zapier: Kontakte finden, verändern und synchron halten – Schritt für Schritt mit mehreren Aktionen.'
+
 ---
 
 Zapier ist der führende Anbieter von No-Code-Automatisierung und lässt sich in mehr als 5.000 Anwendungen von Partnern wie Google, Salesforce und Microsoft integrieren. In diesem Artikel erfahren Sie, wie Sie einen mehrstufigen Zap entwerfen, um eine Integration zu erstellen, die die Aktualisierung von existierenden SeaTable-Einträgen automatisiert. Hierzu wird eine Suche in Zapier verwendet, um die gewünschten Einträge in SeaTable zu identifizieren, um sie dann entsprechend zu aktualisieren.

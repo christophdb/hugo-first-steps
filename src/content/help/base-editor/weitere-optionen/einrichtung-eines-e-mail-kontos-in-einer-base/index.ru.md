@@ -5,7 +5,13 @@ lastmod: '2025-03-08'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/einrichtung-eines-e-mail-kontos-in-einer-base'
+url: '/ru/pomoshch/nastrojka-email-baza-seatable'
+aliases:
+    - '/ru/pomoshch/einrichtung-eines-e-mail-kontos-in-einer-base'
+seo:
+    title: 'Настройка e-mail в базе SeaTable и автоматизация писем'
+    description: 'Подключите почту в базе SeaTable: настройка для Gmail, Microsoft, тестовые письма, безопасность и автоматические рассылки через кнопки или автоматизацию.'
+
 ---
 
 Одной из бесчисленных опций, доступных вам в SeaTable, является **отправка электронных писем** из ваших баз. Эта функция SeaTable сэкономит вам значительное количество времени, если вы всегда хотите отправлять определенные электронные письма в определенный момент процесса - например, напоминание об оплате, как только истечет срок оплаты счета.

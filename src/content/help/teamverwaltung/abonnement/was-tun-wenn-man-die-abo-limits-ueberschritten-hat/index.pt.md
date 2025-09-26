@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+url: '/pt/ajuda/limite-assinatura-seatable-solucao'
+aliases:
+    - '/pt/ajuda/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+seo:
+    title: 'O que fazer ao exceder os limites da assinatura SeaTable'
+    description: 'Atingiu o limite do SeaTable? Faça upgrade de plano ou exclua dados para uso pleno. Veja todas as opções e saiba como obter suporte em caso de dúvidas.'
+
 ---
 
 Se tiver ultrapassado os limites disponíveis na sua assinatura actual, existem basicamente duas opções para poder voltar a trabalhar plenamente com os seus dados:

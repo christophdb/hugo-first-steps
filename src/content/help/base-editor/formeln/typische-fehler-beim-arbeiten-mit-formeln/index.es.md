@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/es/ayuda/typische-fehler-beim-arbeiten-mit-formeln'
+url: '/es/ayuda/errores-formulas-seatable'
+aliases:
+    - '/es/ayuda/typische-fehler-beim-arbeiten-mit-formeln'
+seo:
+    title: 'Errores comunes de fórmulas en SeaTable: solución'
+    description: 'Descubra y corrija los errores habituales en fórmulas SeaTable: comillas, paréntesis, comas y referencias de columnas para cálculos sin problemas ni errores.'
+
 ---
 
 La función de fórmula abre nuevas posibilidades para trabajar con sus datos. Con la ayuda de las _fórmulas_ puede, por ejemplo, vincular valores de diferentes columnas y crear diferentes funciones basadas en el contenido de estas columnas.  

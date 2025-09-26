@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+url: '/help/subscription-limits-exceeded-solution'
+aliases:
+    - '/help/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+seo:
+    title: 'What to do if you exceed your SeaTable subscription limits'
+    description: 'If you reach plan limits in SeaTable, upgrade your subscription or delete unneeded data to restore full functionality. See all options and support resources here.'
+
 ---
 
 If you have exceeded the limits available to you in your current subscription, you basically have two options to get back to working fully with your data:

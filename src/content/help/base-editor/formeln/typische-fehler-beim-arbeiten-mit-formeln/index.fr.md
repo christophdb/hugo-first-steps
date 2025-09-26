@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/fr/aide/typische-fehler-beim-arbeiten-mit-formeln'
+url: '/fr/aide/erreurs-formules-seatable'
+aliases:
+    - '/fr/aide/typische-fehler-beim-arbeiten-mit-formeln'
+seo:
+    title: 'Erreurs fréquentes avec les formules dans SeaTable'
+    description: 'Identifiez et corrigez les erreurs courantes de formules SeaTable : guillemets, parenthèses, virgules et références pour des calculs exacts et sans souci.'
+
 ---
 
 La fonction de formule vous ouvre de nouvelles possibilités pour travailler avec vos données. Les _formules_ vous permettent par exemple de combiner les valeurs de différentes colonnes et de créer différentes fonctions basées sur le contenu de ces colonnes.  

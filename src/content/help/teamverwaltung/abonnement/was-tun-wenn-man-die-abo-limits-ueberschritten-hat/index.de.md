@@ -6,6 +6,10 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+seo:
+    title: 'Was tun bei Überschreitung der SeaTable Abo-Limits?'
+    description: 'Sie haben das Speicher-, Zeilen- oder Nutzerlimit erreicht? Jetzt Abo upgraden oder Daten löschen, um wieder uneingeschränkt weiterzuarbeiten. Alle Optionen im Überblick.'
+
 ---
 
 Wenn Sie die Limits, die Ihnen in Ihrem aktuellen Abo zur Verfügung stehen, überschritten haben, stehen Ihnen grundsätzlich zwei Möglichkeiten zur Verfügung, um wieder vollständig mit Ihren Daten arbeiten zu können:

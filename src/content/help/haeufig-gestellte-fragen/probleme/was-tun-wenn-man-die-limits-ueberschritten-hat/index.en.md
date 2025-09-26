@@ -5,7 +5,13 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/was-tun-wenn-man-die-limits-ueberschritten-hat'
+url: '/help/limits-exceeded-solution'
+aliases:
+    - '/help/was-tun-wenn-man-die-limits-ueberschritten-hat'
+seo:
+    title: 'What to do if SeaTable limits are exceeded?'
+    description: 'With limit exceeded, base is read-only. Delete data or upgrade your plan to regain full access and continue editing, importing or adding rows or files.'
+
 ---
 
 You have **read-only access to** your bases and cannot add any more data? Then you have reached a **limit in your subscription**. Don't worry, your data is safe, you just can't edit it anymore until you increase your subscription limits or free up space.

@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+url: '/ru/pomoshch/prevyshenie-limitov-tarifa-seatable'
+aliases:
+    - '/ru/pomoshch/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+seo:
+    title: 'Что делать при превышении лимитов тарифа SeaTable?'
+    description: 'Превышены лимиты SeaTable? Обновите тариф или удалите часть данных, чтобы снова получить полный доступ. Все возможные шаги и инструкции — в этой статье.'
+
 ---
 
 Если вы превысили лимиты, доступные вам в рамках вашей текущей подписки, есть два варианта, которые позволят вам снова полноценно работать с вашими данными:

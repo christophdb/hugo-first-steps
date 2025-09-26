@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/pt/ajuda/apps-loeschen'
+url: '/pt/ajuda/excluir-apps-permanentes-seatable'
+aliases:
+    - '/pt/ajuda/apps-loeschen'
+seo:
+    title: 'Exclua apps de sua base SeaTable para sempre'
+    description: 'Remova apps desnecessárias de sua base SeaTable de forma definitiva. Somente administradores ou proprietários podem excluir – dados permanecem seguros.'
+
 ---
 
 Gostaria de excluir um aplicativo que não precisa mais da sua base? Sem problemas! Isso pode ser feito a qualquer momento com apenas alguns cliques.

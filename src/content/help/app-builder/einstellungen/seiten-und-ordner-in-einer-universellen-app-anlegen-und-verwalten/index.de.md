@@ -6,6 +6,10 @@ categories:
     - 'universelle-apps'
 author: 'nsc2'
 url: '/de/hilfe/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+seo:
+    title: 'Seiten & Ordner in Universellen Apps verwalten'
+    description: 'Erstellen, verschieben und löschen Sie Seiten und Ordner in Universellen Apps. So organisieren Sie Daten und Navigation in Ihrer SeaTable App flexibel und übersichtlich.'
+
 ---
 
 In einer Universellen App können Sie beliebig viele **Seiten** und **Ordner** erstellen, um die Daten in einer Base für eine bestimmte Nutzergruppe zugänglich zu machen, zu ordnen und ansprechend aufzubereiten. Es gibt dazu eine Vielzahl an [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), die Sie schon von anderen Stellen in SeaTable kennen und mit nur wenigen Klicks in Ihrer Universellen App anlegen können.

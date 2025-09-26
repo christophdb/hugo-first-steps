@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitungsoperation-per-automation-ausfuehren'
+url: '/ru/pomoshch/avtomatizatsiya-operatsiy-dannykh-seatable'
+aliases:
+    - '/ru/pomoshch/datenverarbeitungsoperation-per-automation-ausfuehren'
+seo:
+    title: 'Автоматизация операций данных в SeaTable'
+    description: 'Назначьте периодическое выполнение операций в SeaTable: автоматические вычисления, связи между таблицами, экономия времени и отсутствие рутины.'
+
 ---
 
 С помощью автоматики вам больше не придется выполнять операции по обработке данных вручную, а можно сделать это автоматически. Разнообразие доступных [операций обработки данных]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) - от математических расчетов до создания связей между значениями в различных таблицах - открывает новые возможности для автоматизации рабочих процессов.

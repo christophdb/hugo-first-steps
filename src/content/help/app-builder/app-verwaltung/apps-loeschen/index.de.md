@@ -6,6 +6,10 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/apps-loeschen'
+seo:
+    title: 'Apps aus Ihrer SeaTable Base endgültig löschen'
+    description: 'Entfernen Sie Apps, die Sie nicht mehr benötigen – schnell aus Ihrer Base löschen, mit Gruppenberechtigung. Die Daten im Hintergrund bleiben in Ihrer Tabelle erhalten.'
+
 ---
 
 Sie möchten eine App, die Sie nicht mehr benötigen, aus Ihrer Base löschen? Kein Problem! Dies ist jederzeit mit nur wenigen Klicks möglich.

@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+url: '/fr/aide/depassement-limites-abonnement-seatable'
+aliases:
+    - '/fr/aide/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+seo:
+    title: 'Que faire si vous dépassez les limites d’abonnement ?'
+    description: 'Limite SeaTable atteinte ? Passez à une formule supérieure ou supprimez des données pour restaurer toutes les fonctionnalités. Découvrez vos options et l’assistance.'
+
 ---
 
 Si vous avez dépassé les limites dont vous disposez dans votre abonnement actuel, vous disposez en principe de deux possibilités pour pouvoir à nouveau travailler pleinement avec vos données :

@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/pomoshch/apps-loeschen'
+url: '/ru/pomoshch/udalit-prilozheniya-navsegda-seatable'
+aliases:
+    - '/ru/pomoshch/apps-loeschen'
+seo:
+    title: 'Удалить приложения из базы SeaTable навсегда'
+    description: 'Быстро удаляйте ненужные приложения из базы SeaTable полностью. Только администратор или владелец, данные таблицы сохраняются после удаления.'
+
 ---
 
 Вы хотите удалить приложение из своей базы, которое вам больше не нужно? Ничего! Это можно сделать в любое время всего за несколько кликов.

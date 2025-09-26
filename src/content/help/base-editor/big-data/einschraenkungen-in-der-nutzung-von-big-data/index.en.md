@@ -5,7 +5,13 @@ lastmod: '2024-12-16'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/help/einschraenkungen-in-der-nutzung-von-big-data'
+url: '/help/big-data-limitations-seatable'
+aliases:
+    - '/help/einschraenkungen-in-der-nutzung-von-big-data'
+seo:
+    title: 'SeaTable Big Data: All limitations at a glance'
+    description: 'Find out key limitations of SeaTable Big Data: real-time sync, editing, sharing, operations, and practical tips. Optimize your data management and collaboration.'
+
 ---
 
 A normal view in SeaTable allows **collaborative** work **in real time** for **up to 100,000 rows**. Big Data allows you to **store unlimited** rows, but reduces your ability to collaborate. Before using Big Data, be sure to take a look at this help article to find out what limitations you should expect when using Big Data.

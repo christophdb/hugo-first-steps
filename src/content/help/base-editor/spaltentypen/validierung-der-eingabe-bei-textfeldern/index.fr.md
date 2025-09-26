@@ -5,7 +5,13 @@ lastmod: '2024-03-11'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/fr/aide/validierung-der-eingabe-bei-textfeldern'
+url: '/fr/aide/validation-texte-regex-seatable'
+aliases:
+    - '/fr/aide/validierung-der-eingabe-bei-textfeldern'
+seo:
+    title: 'Validation de texte SeaTable : expressions régulières'
+    description: 'Vérifiez et signalez les valeurs saisies dans SeaTable avec des regex. Détectez automatiquement les formats incorrects et améliorez la qualité de vos données.'
+
 ---
 
 Lorsque vous utilisez des colonnes de texte dans vos tableaux, vous avez la possibilité de valider les entrées. La validation, qui prend en charge les expressions régulières, vous permet de vérifier les valeurs des cellules et de mettre en évidence les cellules dont le contenu diffère du format valide.
