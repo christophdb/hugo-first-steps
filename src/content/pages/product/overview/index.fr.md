@@ -7,6 +7,7 @@ date: '2025-03-30'
 url: '/fr/produits'
 aliases:
     - '/fr/products/'
+    - '/fr/produkte/'
 
 sections:
     - name: hero-2

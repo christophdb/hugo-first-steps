@@ -10,7 +10,10 @@ categories:
 tags:
     - 'Applicants & Talents Management'
 color: '#d0e4e9'
-url: '/onboarding-prozess'
+url: '/onboarding-process'
+aliases:
+    - '/onboarding-prozess'
+    - '/en/onboarding-prozess/'
 ---
 
 ## Optimize your onboarding process
