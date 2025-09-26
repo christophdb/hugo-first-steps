@@ -6,6 +6,8 @@ seo:
     description: 'Planeamento financeiro eficiente: mantenha-se atento aos números e às despesas, tome decisões informadas e ganhe clareza com painéis de controlo claros.'
 date: '2025-08-05'
 url: '/pt/criar-um-plano-financeiro/'
+aliases:
+    - '/pt/criar um plano financeiro/'
 
 sections:
     - name: hero-5

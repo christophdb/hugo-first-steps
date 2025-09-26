@@ -10,6 +10,8 @@ categories:
 tags:
 color: '#c4d69f'
 url: '/fr/plan-de-plante-expert-en-rotation-de-cultures-pour-votre-jardin'
+aliases:
+    - '/fr/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten/'
 ---
 
 Les personnes qui se lancent dans la planification des plates-bandes au printemps peuvent vite être dépassées. Entre le plan de plantation, la rotation des cultures et les cultures mixtes, il n'est pas si facile de garder une vue d'ensemble. Quelles sont les plantes qui vont ensemble ? Que faut-il cultiver après les tomates, les pommes de terre ou les haricots ? Et comment éviter que le sol ne s'épuise avec le temps ?
