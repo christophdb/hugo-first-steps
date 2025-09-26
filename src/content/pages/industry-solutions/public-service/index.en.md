@@ -10,7 +10,7 @@ aliases:
     - '/en/digitale-verwaltung/'
     - '/LG/offentlicher-dienst/'
     - '/offentlicher-dienst/'
-    - '/digital-government/'
+    - '/public-service/'
 
 sections:
     - name: hero-5
