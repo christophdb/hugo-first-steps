@@ -29,7 +29,7 @@
             {{ range .items }}
                 <div class="mx-auto mt-4 grid max-w-[900px] grid-cols-1" x-data="{ open: false }">
                     <div class="cursor-pointer border-b border-gray-200 px-0 py-6 sm:px-6" @click="open = !open">
-                        <dt class="flex items-center justify-between" aria-controls="faq-1">
+                        <dt class="flex items-center justify-between" aria-controls="faq">
                             <p class="font-poppins text-xl font-bold leading-normal" :class="{ 'gradient': open }">{{ .q }}</p>
                             {{ partial "icon.html" "chevron-up" }}
                         </dt>
