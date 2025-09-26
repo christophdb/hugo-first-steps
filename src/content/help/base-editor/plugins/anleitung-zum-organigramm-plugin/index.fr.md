@@ -1,5 +1,5 @@
 ---
-title: "Instructions pour le plugin d'organigramme"
+title: "Guide du plugin Organigram Chart"
 date: 2024-07-18
 lastmod: '2025-02-28'
 categories:
