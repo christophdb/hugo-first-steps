@@ -2,9 +2,11 @@
 title: 'VS Code Tipps'
 description: 'Tipps und Tricks für den VS Code Profi'
 draft: true
-date: 2025-08-11
+date: 2025-09-29
 url: '/de/vscode-tipps'
 color: '#085b79'
+register:
+    show: true
 ---
 
 ## Sprache deaktivieren

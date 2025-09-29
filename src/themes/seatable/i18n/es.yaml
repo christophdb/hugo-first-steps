@@ -159,7 +159,8 @@ templates:
     preview: 'Vista previa'
 
 template-box:
-    text: 'Pruebe nuestra plantilla interactiva. Las vistas también son personalizables.'
+    text: '¿Tienes curiosidad? Desplázate por nuestra plantilla interactiva y descubre sus primeras funciones.'
+    submit: 'Probar plantilla'
 
 customer-logo:
     company: 'Empresa'
