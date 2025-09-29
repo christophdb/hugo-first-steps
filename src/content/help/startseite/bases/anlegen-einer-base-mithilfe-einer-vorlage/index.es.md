@@ -5,7 +5,7 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/crear-nueva-base'
+url: '/es/ayuda/crear-base-con-plantilla'
 aliases:
     - '/es/ayuda/anlegen-einer-base-mithilfe-einer-vorlage'
 seo:
