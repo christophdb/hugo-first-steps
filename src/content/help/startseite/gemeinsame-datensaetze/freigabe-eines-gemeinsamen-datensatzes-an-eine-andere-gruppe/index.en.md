@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+url: '/help/share-shared-dataset-group-seatable'
+aliases:
+    - '/help/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+seo:
+    title: 'Share shared dataset with another group in SeaTable'
+    description: 'Grant access to a shared dataset for another group in SeaTable, manage permissions, and see what happens after access removal. Step-by-step instructions included.'
+
 ---
 
 You can not only use common datasets in the respective group in which you created them, but also share them with other groups. In this way, other users have the opportunity to access the data of the common dataset. They are then able to work with the common dataset and create a new table. A common dataset is shared with another group via the start page.

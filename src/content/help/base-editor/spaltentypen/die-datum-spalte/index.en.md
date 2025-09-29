@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/help/die-datum-spalte'
+url: '/help/date-column-settings-seatables'
+aliases:
+    - '/help/die-datum-spalte'
+seo:
+    title: 'Date column in SeaTable: format, defaults and options'
+    description: 'Record dates with calendar or keyboard in SeaTable. Choose date or minute detail, flexible regional format and define default values for each row. Full configuration guide.'
+
 ---
 
 You can use the date column to enter **times** and **dates** in your tables down to the minute. Simply use the displayed calendar or your keyboard to enter a date manually. Please note that SeaTable does not accept any other data inputs in a date column.

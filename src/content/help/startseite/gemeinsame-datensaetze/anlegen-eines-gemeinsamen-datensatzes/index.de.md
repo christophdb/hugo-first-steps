@@ -6,6 +6,10 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
 url: '/de/hilfe/anlegen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Gemeinsamen Datensatz in SeaTable anlegen: Anleitung'
+    description: 'So erstellen Sie einen gemeinsamen Datensatz in einer Gruppen-Base, veröffentlichen individuelle Ansichten und importieren diese für zentrales Team-Management.'
+
 ---
 
 In jeder zu einer Gruppe gehörenden Base können Sie eine Tabellenansicht als **gemeinsamen Datensatz** anlegen. Voraussetzung dafür ist, dass Sie Eigentümer oder Administrator der Gruppe (und nicht nur Mitglied) sind. Den gemeinsamen Datensatz können Sie anschließend inklusive seiner spezifischen Filter- und Sortierbedingungen als neue Tabelle in eine beliebige andere Base der Gruppe importieren.

@@ -5,7 +5,13 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/pomoshch/die-countlinks-formel'
+url: '/ru/pomoshch/countlinks-formula-seatable'
+aliases:
+    - '/ru/pomoshch/die-countlinks-formel'
+seo:
+    title: 'Countlinks в SeaTable: как посчитать связи строк'
+    description: 'Формула Countlinks мгновенно считает количество связанных записей для любой ячейки — идеально для учета участников, проектов и перекрестных данных.'
+
 ---
 
 Формула Countlinks подсчитывает количество связанных записей столбца типа **Link с другими записями** в соответствующей строке.

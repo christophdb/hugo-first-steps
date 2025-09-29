@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/pt/ajuda/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+url: '/pt/ajuda/expandir-tabela-dataset-compartilhado-seatable'
+aliases:
+    - '/pt/ajuda/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+seo:
+    title: 'Estenda uma tabela de dataset comum no SeaTable'
+    description: 'Acrescente colunas personalizadas a uma tabela derivada de dataset compartilhado no SeaTable – dados próprios permanecem seguros nas sincronizações.'
+
 ---
 
 As tabelas criadas com um registo de dados partilhados contêm inicialmente todas as colunas e linhas que também podem ser encontradas na vista de tabela do registo de dados partilhados. Naturalmente, também tem a opção de adicionar **novas colunas** a estas tabelas e preenchê-las com os seus próprios dados. A vantagem: os dados das colunas que não estão ligadas ao registo de dados partilhado **não** são **substituídos** durante a [sincronização]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).

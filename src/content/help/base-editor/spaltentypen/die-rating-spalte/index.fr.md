@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'spalten'
 author: 'nsc2'
-url: '/fr/aide/die-rating-spalte'
+url: '/fr/aide/colonne-notation-seatable'
+aliases:
+    - '/fr/aide/die-rating-spalte'
+seo:
+    title: 'Colonne de notation SeaTable : explications & astuces'
+    description: 'Paramétrez et exploitez la colonne de notation : icône, barème 1–10, valeur par défaut. Classements et évaluations claires pour tous les projets d’équipe.'
+
 ---
 
 La colonne Classement permet de **classer** vos enregistrements afin d'établir un **ordre** ou une **évaluation de la qualité**. Lors de la création de la colonne, vous pouvez définir des paramètres spécifiques concernant l'apparence et le nombre maximal de **symboles de classement** autorisés.

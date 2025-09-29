@@ -5,7 +5,13 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/pt/ajuda/anlegen-eines-webformulars'
+url: '/pt/ajuda/criar-formulario-web-seatable'
+aliases:
+    - '/pt/ajuda/anlegen-eines-webformulars'
+seo:
+    title: 'Como criar um formulário web no SeaTable'
+    description: 'Converta tabelas em formulários web no SeaTable, edite campos facilmente via drag-and-drop e compartilhe o link para captar dados de qualquer usuário.'
+
 ---
 
 Um **formulário Web** converte a sua tabela num formulário com campos abertos. Uma coluna na sua tabela corresponde a um campo no formulário Web associado.

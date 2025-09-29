@@ -5,7 +5,13 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/fr/aide/die-countlinks-formel'
+url: '/fr/aide/formule-countlinks-seatable'
+aliases:
+    - '/fr/aide/die-countlinks-formel'
+seo:
+    title: 'Countlinks SeaTable : calcul des liaisons entre tables'
+    description: 'Utilisez Countlinks pour connaître en temps réel le nombre de liens dans vos colonnes reliées. Idéal pour listes de membres, références croisées et projets.'
+
 ---
 
 La formule Countlinks compte le nombre d'entrées liées du type de colonne **Lien vers d'autres entrées** dans la ligne correspondante.

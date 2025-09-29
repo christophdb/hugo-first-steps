@@ -5,7 +5,13 @@ lastmod: '2023-06-22'
 categories:
     - 'historie-und-versionen'
 author: 'kgr'
-url: '/fr/aide/aenderungen-ueber-die-logs-rueckgaengig-machen'
+url: '/fr/aide/annuler-changements-log-seatable'
+aliases:
+    - '/fr/aide/aenderungen-ueber-die-logs-rueckgaengig-machen'
+seo:
+    title: 'Annuler les modifications via logs dans SeaTable'
+    description: 'Restaurez des cellules, lignes ou colonnes dans SeaTable directement depuis les logs : méthode, limite de l’historique et conseils pratiques.'
+
 ---
 
 SeaTable consigne toutes les activités au sein d'une base dans un journal. Celui-ci permet de restaurer non seulement des valeurs individuelles, mais aussi des lignes, des colonnes et des tableaux. Les journaux permettent donc de voir les modifications de manière plus détaillée et d'en annuler davantage que la corbeille.

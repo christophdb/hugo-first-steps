@@ -5,7 +5,13 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/den-papierkorb-in-der-teamverwaltung-leeren'
+url: '/help/empty-trash-team-admin-seatable'
+aliases:
+    - '/help/den-papierkorb-in-der-teamverwaltung-leeren'
+seo:
+    title: 'Empty the trash in SeaTable team administration'
+    description: 'Permanently delete all bases from the trash in SeaTable team management. Free up space and keep your storage clean with this step-by-step guide for admins.'
+
 ---
 
 After **30 days**, deleted bases are **automatically** removed from the system. However, you can also permanently delete the bases **manually** by **emptying the trash in the team administration**.

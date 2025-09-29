@@ -5,7 +5,13 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/den-papierkorb-in-der-teamverwaltung-leeren'
+url: '/fr/aide/vider-corbeille-admin-equipe-seatable'
+aliases:
+    - '/fr/aide/den-papierkorb-in-der-teamverwaltung-leeren'
+seo:
+    title: 'Vider la corbeille en gestion d’équipe SeaTable'
+    description: 'Supprimez définitivement les bases supprimées : vider la corbeille dans l’administration d’équipe SeaTable avec un tutoriel clair pour libérer de l’espace.'
+
 ---
 
 Après **30 jours**, les bases supprimées sont **automatiquement** retirées du système. Mais vous pouvez aussi supprimer définitivement les bases **manuellement** en **vidant la corbeille dans l'administration d'équipe**.

@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'spalten'
 author: 'nsc2'
-url: '/pt/ajuda/die-rating-spalte'
+url: '/pt/ajuda/coluna-avaliacao-seatable'
+aliases:
+    - '/pt/ajuda/die-rating-spalte'
+seo:
+    title: 'Coluna de avaliação do SeaTable: tutorial detalhado'
+    description: 'Crie sistemas de avaliação com ícone e escala de 1 a 10. Ajuste valores padrão, simplifique rankings e organize feedback facilmente nas tabelas SeaTable.'
+
 ---
 
 A coluna de avaliação permite-lhe **classificar** os seus registos de modo a dar-lhes uma **pontuação** ou **avaliação de qualidade**. Ao criar a coluna, pode fazer configurações específicas relativamente à aparência e ao número máximo de **símbolos de avaliação** permitidos.

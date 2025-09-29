@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/pomoshch/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+url: '/ru/pomoshch/peredacha-obshchego-dataseta-gruppe-seatable'
+aliases:
+    - '/ru/pomoshch/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+seo:
+    title: 'Предоставить общий датасет другой группе в SeaTable'
+    description: 'Пошагово: откройте доступ к общему датасету для группы в SeaTable, управляйте синхронизацией и узнайте, что произойдет после отключения прав.'
+
 ---
 
 Общие записи данных можно использовать не только в той группе, в которой вы их создали, но и предоставлять их другим группам. Таким образом, другие пользователи могут получить доступ к данным в общей записи данных. Они могут работать с общей записью данных и создавать новые таблицы. Общая запись данных передается другой группе через стартовую страницу.

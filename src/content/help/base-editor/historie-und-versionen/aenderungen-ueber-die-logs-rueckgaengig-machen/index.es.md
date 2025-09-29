@@ -5,7 +5,13 @@ lastmod: '2023-06-22'
 categories:
     - 'historie-und-versionen'
 author: 'kgr'
-url: '/es/ayuda/aenderungen-ueber-die-logs-rueckgaengig-machen'
+url: '/es/ayuda/deshacer-cambios-log-seatable'
+aliases:
+    - '/es/ayuda/aenderungen-ueber-die-logs-rueckgaengig-machen'
+seo:
+    title: 'Deshacer cambios por logs en SeaTable: recuperación'
+    description: 'Restaure valores, filas o columnas desde el registro de cambios SeaTable. Guía fácil para ver logs, revertir y conocer límites de restauración.'
+
 ---
 
 SeaTable registra todas las actividades dentro de una base en un registro. Este registro puede utilizarse para restaurar no sólo valores individuales, sino también filas, columnas y tablas. Los registros permiten ver los cambios con más detalle y deshacer más que a través de la papelera de reciclaje.

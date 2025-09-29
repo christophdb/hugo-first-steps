@@ -5,7 +5,13 @@ lastmod: '2023-06-22'
 categories:
     - 'historie-und-versionen'
 author: 'kgr'
-url: '/ru/pomoshch/aenderungen-ueber-die-logs-rueckgaengig-machen'
+url: '/ru/pomoshch/otmetit-izmeneniya-cherez-zhurnal-seatable'
+aliases:
+    - '/ru/pomoshch/aenderungen-ueber-die-logs-rueckgaengig-machen'
+seo:
+    title: 'SeaTable: как откатить изменения через журнал'
+    description: 'Пошагово: восстановите значения, строки, столбцы и таблицы в SeaTable через журнал изменений. Важно – есть ограничения на некоторые действия.'
+
 ---
 
 SeaTable регистрирует все действия в пределах базы в журнале. Этот журнал можно использовать для восстановления не только отдельных значений, но и строк, столбцов и таблиц. Журналы позволяют более детально просмотреть изменения и отменить их более чем через корзину.

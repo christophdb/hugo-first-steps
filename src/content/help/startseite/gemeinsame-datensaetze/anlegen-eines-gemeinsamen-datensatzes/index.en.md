@@ -5,7 +5,13 @@ lastmod: '2024-06-13'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/anlegen-eines-gemeinsamen-datensatzes'
+url: '/help/create-shared-dataset-seatable'
+aliases:
+    - '/help/anlegen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Create a shared dataset in SeaTable: step-by-step guide'
+    description: 'Learn how to publish, manage and import a shared dataset in a SeaTable group base—centralize key info and enable team-wide collaboration easily and securely.'
+
 ---
 
 In each base belonging to a group, you can create a table view as a **common dataset**. The prerequisite for this is that you are the owner or administrator of the group (and not just a member). You can then import the common dataset, including its specific filtering and sorting conditions, as a new table into any other base in the group.

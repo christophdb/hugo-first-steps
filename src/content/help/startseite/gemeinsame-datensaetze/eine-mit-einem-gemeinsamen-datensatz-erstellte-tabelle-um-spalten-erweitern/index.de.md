@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/de/hilfe/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+url: '/de/hilfe/gemeinsamen-datensatz-tabelle-erweitern-seatable'
+aliases:
+    - '/de/hilfe/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+seo:
+    title: 'Gemeinsamen Datensatz: Tabelle in SeaTable erweitern'
+    description: 'Fügen Sie einer auf Basis eines gemeinsamen Datensatzes erstellten Tabelle beliebig viele eigene Spalten hinzu – für mehr Flexibilität und individuelle Datenpflege ohne Überschreiben bei Synchronisation.'
+
 ---
 
 Tabellen, die Sie mit einem gemeinsamen Datensatz angelegt haben, enthalten zu Beginn alle Spalten und Zeilen, die auch in der Tabellenansicht des gemeinsamen Datensatzes zu finden sind. Darüber hinaus haben Sie selbstverständlich die Möglichkeit, diese Tabellen um **neue Spalten** zu erweitern und zusätzlich mit eigenen Daten zu befüllen. Der Vorteil: Daten in Spalten, die nicht mit dem gemeinsamen Datensatz verknüpft sind, werden bei der [Synchronisation]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) **nicht überschrieben**.

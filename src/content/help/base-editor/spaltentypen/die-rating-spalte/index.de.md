@@ -6,6 +6,10 @@ categories:
     - 'spalten'
 author: 'nsc2'
 url: '/de/hilfe/die-rating-spalte'
+seo:
+    title: 'Die Rating-Spalte in SeaTable: Anleitung & Optionen'
+    description: 'Nutzen Sie die Rating-Spalte für Bewertungen in Tabellen, mit Symbolwahl, Skalen von 1 bis 10 und Standardwert. Ideal für Rankings, Feedback und Priorisierung.'
+
 ---
 
 Die Rating-Spalte ermöglicht die **Einstufung** Ihrer Datensätze, um ein **Ranking** oder eine **Qualitätsbewertung** vorzunehmen. Beim Erstellen der Spalte können Sie spezifische Einstellungen vornehmen, die das Aussehen und die maximal zulässige Anzahl der **Rating-Symbole** betreffen.

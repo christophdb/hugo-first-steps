@@ -5,7 +5,13 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/alle-zugriffsberechtigungen-einer-base-einsehen'
+url: '/fr/aide/droits-acces-base-seatable'
+aliases:
+    - '/fr/aide/alle-zugriffsberechtigungen-einer-base-einsehen'
+seo:
+    title: 'Voir les droits d’accès à une base SeaTable'
+    description: 'Découvrez pour chaque base SeaTable qui accède ou modifie les données. Gardez une gestion claire et sécurisée grâce au panneau d’administration d’équipe.'
+
 ---
 
 Dans l'**administration d'équipe**, vous pouvez voir toutes les **autorisations d'accès** pour une base afin de garder une vue d'ensemble sur les personnes qui peuvent voir ou modifier les données.

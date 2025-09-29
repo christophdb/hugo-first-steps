@@ -5,7 +5,13 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/help/die-countlinks-formel'
+url: '/help/countlinks-formula-seatable'
+aliases:
+    - '/help/die-countlinks-formel'
+seo:
+    title: 'Countlinks formula in SeaTable: count linked records'
+    description: 'Use the Countlinks formula to count linked entries in any column. Perfect for project tracking, attendance, or cross-referencing records.'
+
 ---
 
 The Countlinks formula counts the number of linked entries of the column type **Link to other entries** in the respective row.

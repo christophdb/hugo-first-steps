@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/de/hilfe/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+url: '/de/hilfe/gemeinsamen-datensatz-an-gruppe-freigeben'
+aliases:
+    - '/de/hilfe/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+seo:
+    title: 'Gemeinsamen Datensatz in andere Gruppe freigeben'
+    description: 'So geben Sie einen gemeinsamen Datensatz in SeaTable an eine andere Gruppe frei: Zugriff verwalten, Synchronisation ermöglichen und Folgen beim Auflösen der Berechtigung.'
+
 ---
 
 Sie können gemeinsame Datensätze nicht nur in der jeweiligen Gruppe nutzen, in der Sie sie erstellt haben, sondern auch an andere Gruppen freigeben. Auf diesem Weg haben weitere Nutzer die Möglichkeit, auf die Daten des gemeinsamen Datensatzes zuzugreifen. Diese sind folglich dazu in der Lage, mit dem gemeinsamen Datensatz zu arbeiten und eine neue Tabelle anzulegen. Die Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe erfolgt über die Startseite.

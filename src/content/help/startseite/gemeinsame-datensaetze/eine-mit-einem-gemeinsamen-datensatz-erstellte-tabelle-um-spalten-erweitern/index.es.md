@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/es/ayuda/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+url: '/es/ayuda/ampliar-tabla-dataset-comun-seatable'
+aliases:
+    - '/es/ayuda/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+seo:
+    title: 'Ampliar tabla desde conjunto común en SeaTable'
+    description: 'Añada columnas propias a una tabla creada a partir de un conjunto compartido y conserve sus datos personalizados aunque la base se sincronice.'
+
 ---
 
 Las tablas que ha creado con un registro de datos compartido contienen inicialmente todas las columnas y filas que también se pueden encontrar en la vista de tabla del registro de datos compartido. Por supuesto, también tiene la opción de añadir **nuevas columnas** a estas tablas y rellenarlas con sus propios datos. La ventaja: los datos de las columnas que no están vinculadas a la base de datos compartida **no se sobrescriben** durante [la sincronización]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).

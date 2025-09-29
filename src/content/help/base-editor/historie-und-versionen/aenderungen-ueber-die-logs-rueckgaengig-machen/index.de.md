@@ -6,6 +6,10 @@ categories:
     - 'historie-und-versionen'
 author: 'kgr'
 url: '/de/hilfe/aenderungen-ueber-die-logs-rueckgaengig-machen'
+seo:
+    title: 'SeaTable: Änderungen im Log rückgängig machen'
+    description: 'So stellen Sie Werte, Zeilen und Spalten gezielt aus dem Änderungslog in SeaTable wieder her – Anleitung zu Logs, Wiederherstellungsoptionen und Einschränkungen.'
+
 ---
 
 SeaTable protokolliert alle Aktivitäten innerhalb einer Base in einem Log. Über dieses lassen sich nicht nur einzelne Werte, sondern auch Zeilen, Spalten und Tabellen wiederherstellen. Über die Logs können Sie also detaillierter die Änderungen einsehen und mehr wieder rückgängig machen als über den Papierkorb.
