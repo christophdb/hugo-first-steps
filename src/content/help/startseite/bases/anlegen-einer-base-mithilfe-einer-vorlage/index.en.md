@@ -5,7 +5,7 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/create-new-base'
+url: '/help/create-base-from-template'
 aliases:
     - '/help/anlegen-einer-base-mithilfe-einer-vorlage'
 seo:

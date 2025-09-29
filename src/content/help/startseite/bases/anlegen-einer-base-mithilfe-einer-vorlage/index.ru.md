@@ -5,7 +5,7 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/sozdat-novuyu-bazu'
+url: '/ru/pomoshch/sozdat-bazu-s-shablonom'
 aliases:
     - '/ru/pomoshch/anlegen-einer-base-mithilfe-einer-vorlage'
 seo:

@@ -5,7 +5,7 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/creer-nouvelle-base'
+url: '/fr/aide/creer-base-avec-modele'
 aliases:
     - '/fr/aide/anlegen-einer-base-mithilfe-einer-vorlage'
 seo:
