@@ -7,8 +7,8 @@ author: 'pbr'
 url: '/accounts-receivable-accounting'
 color: '#7cbaef'
 seo:
-    title: 'Accounts Receivable Management: Digital Best Practice'
-    description: 'Upgrade your accounts receivable: manage invoices, reminders, dunning & KPIs.'
+    title: 'Digitize accounts receivable: template & expert guide'
+    description: 'Optimize your accounts receivable with SeaTable: invoices, dunning, liquidity & customer management in a single, flexible solution for teams of all sizes.'
 ---
 
 You keep an eye on incoming payments, remind customers of outstanding invoices and send reminders if necessary. Without the right structure, this can quickly become confusing - and it is not always immediately apparent which invoices have already been paid. This makes it all the more important to maintain an overview so that your company's liquidity remains secure.

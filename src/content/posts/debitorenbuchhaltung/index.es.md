@@ -7,8 +7,8 @@ author: 'pbr'
 url: '/es/Cuentas-por-cobrar'
 color: '#7cbaef'
 seo:
-    title: 'Gestión de cuentas por cobrar: plantilla digital'
-    description: 'Controle facturas, cobros y recordatorios con la plantilla SeaTable.'
+    title: 'Digitalizar cuentas por cobrar: plantilla y guía práctica'
+    description: 'Gestione sus cuentas por cobrar en SeaTable: facturación, recordatorios, cobros y liquidez. Solución moderna y flexible para la gestión financiera en empresas.'
 ---
 
 Controla los pagos recibidos, recuerda a los clientes las facturas pendientes y envía recordatorios si es necesario. Sin la estructura adecuada, todo esto puede resultar confuso y no siempre es fácil saber qué facturas se han pagado. Por eso es tan importante mantener una visión de conjunto que garantice la liquidez de la empresa.

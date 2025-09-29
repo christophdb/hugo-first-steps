@@ -8,7 +8,7 @@ url: '/de/debitorenbuchhaltung'
 color: '#7cbaef'
 seo:
     title: 'Debitorenbuchhaltung digitalisieren: Vorlage & Anleitung'
-    description: 'Optimieren Sie Ihre Debitorenbuchhaltung mit SeaTable – alles zu Rechnungen, Mahnwesen, Liquidität.'
+    description: 'Optimieren Sie Ihre Debitorenbuchhaltung mit SeaTable – alles zu Rechnungen, Mahnwesen, Liquidität und Forderungsmanagement. DSGVO-konform und flexibel einsetzbar.'
 ---
 
 Sie behalten Zahlungseingänge im Blick, erinnern Kunden an offene Rechnungen und versenden bei Bedarf auch Mahnungen. Ohne die richtige Struktur kann das schnell unübersichtlich werden - und es ist nicht immer sofort erkennbar, welche Rechnungen bereits beglichen wurden. Umso wichtiger ist es, den Überblick zu behalten, damit die Liquidität Ihres Unternehmens gesichert bleibt.
