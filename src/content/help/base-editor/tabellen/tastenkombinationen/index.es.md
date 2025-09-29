@@ -5,7 +5,12 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/es/ayuda/tastenkombinationen'
+url: '/es/ayuda/atajos-teclado-seatable'
+aliases:
+    - '/es/ayuda/tastenkombinationen'
+seo:
+    title: 'SeaTable: atajos de teclado y combinaciones clave'
+    description: 'Conozca los atajos de teclado SeaTable. Optimice su trabajo en tablas de datos, vea diferencias de teclados y mejore su productividad rápidamente.'
 ---
 
 En SeaTable, las acciones y operaciones recurrentes pueden realizarse cómodamente mediante combinaciones de teclas. Insertar una nueva fila, mostrar los detalles de la fila o deshacer una acción: en SeaTable todo esto puede hacerse en una fracción de segundo con la combinación de teclas adecuada.

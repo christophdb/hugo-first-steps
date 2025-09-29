@@ -5,7 +5,12 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/pt/ajuda/tastenkombinationen'
+url: '/pt/ajuda/atalhos-teclado-seatable'
+aliases:
+    - '/pt/ajuda/tastenkombinationen'
+seo:
+    title: 'SeaTable: atalhos, comandos e dicas de teclado'
+    description: 'Descubra atalhos SeaTable para maior produtividade, incluindo comparação de teclados e lista completa para uso rápido em tabelas.'
 ---
 
 No SeaTable, as acções e operações recorrentes podem ser realizadas convenientemente utilizando combinações chave. Inserir uma nova linha, exibir os detalhes da linha ou desfazer uma acção - em SeaTable isto pode ser feito numa fracção de segundo com a combinação chave certa.

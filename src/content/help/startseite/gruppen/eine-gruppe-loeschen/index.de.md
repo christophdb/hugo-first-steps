@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
 url: '/de/hilfe/eine-gruppe-loeschen'
+seo:
+    title: 'SeaTable Gruppen löschen: Anleitung für Gruppen-Owner'
+    description: 'Löschen Sie als Eigentümer SeaTable Gruppen. Gruppen mit Bases müssen vor dem Entfernen erst geleert werden. Anleitung Schritt für Schritt.'
 ---
 
 Gruppen, die nicht mehr aktiv sind oder aus anderen Gründen nicht mehr benötigt werden, können vom Eigentümer ganz einfach gelöscht werden. Gruppenadministratoren und Gruppenmitglieder sind hingegen nicht dazu berechtigt.

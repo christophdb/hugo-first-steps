@@ -5,7 +5,12 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/ru/pomoshch/tastenkombinationen'
+url: '/ru/pomoshch/klaviaturnye-komandy-seatable'
+aliases:
+    - '/ru/pomoshch/tastenkombinationen'
+seo:
+    title: 'Клавиатурные команды SeaTable: удобные сочетания'
+    description: 'Все сочетания клавиш SeaTable — ускорьте работу с таблицами, сравните англ. и немецкую раскладку, используйте горячие клавиши ежедневно.'
 ---
 
 В SeaTable повторяющиеся действия и операции можно удобно выполнять с помощью комбинаций клавиш. Вставка нового ряда, отображение сведений о ряде или отмена действия - в SeaTable это можно сделать за доли секунды с помощью правильной комбинации клавиш.

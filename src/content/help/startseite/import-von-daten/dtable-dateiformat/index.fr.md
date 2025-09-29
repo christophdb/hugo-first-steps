@@ -5,7 +5,12 @@ lastmod: '2023-05-09'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/fr/aide/dtable-dateiformat'
+url: '/fr/aide/format-dtable-export-sauvegarde'
+aliases:
+    - '/fr/aide/dtable-dateiformat'
+seo:
+    title: 'SeaTable : format DTABLE, exportation et sauvegarde'
+    description: 'Comprenez le format DTABLE de SeaTable : exportez, sauvegardez, migrez vos bases avec fichiers JSON et dossiers d’assets bien structurés.'
 ---
 
 SeaTable exporte les **bases** dans des fichiers DTABLE. Il s'agit d'un **format d'exportation** spécifique. Les fichiers DTABLE peuvent être utilisés pour la sauvegarde des données ou pour la migration d'un système SeaTable vers un autre.

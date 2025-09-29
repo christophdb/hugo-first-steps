@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/fr/aide/die-erste-base'
+url: '/fr/aide/creer-premiere-base-seatable'
+aliases:
+    - '/fr/aide/die-erste-base'
+seo:
+    title: 'Créer votre première base SeaTable: guide complet'
+    description: 'Découvrez comment créer et organiser une base SeaTable : tableaux, colonnes et relations pour une gestion des données plus efficace.'
 ---
 
 Dans SeaTable, vous organisez vos données dans des [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Une base est un conteneur pour une ou plusieurs tableaux. Les tableaux d'une base peuvent être juxtaposés indépendamment les uns des autres ou, comme dans une base de données, reliés entre eux par des relations.

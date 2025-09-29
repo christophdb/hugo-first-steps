@@ -6,6 +6,9 @@ categories:
     - 'seatable-nutzen'
 author: 'cdb'
 url: '/de/hilfe/allgemeiner-ueberblick'
+seo:
+    title: 'SeaTable Überblick: Alles zu Daten, Analyse und Zusammenarbeit'
+    description: 'Entdecken Sie, wie SeaTable Daten jeder Art organisiert. Erfahren Sie mehr zu Funktionen, Analyse, Zusammenarbeit und individuellen Ansichten.'
 ---
 
 In SeaTable organisieren Sie Daten jedes Typs und jedes Formats, ganz wie Sie es wollen: Termine und Aufgaben für den anstehenden Produktlaunch, Bildmaterial für die nächste Ausstellung genauso wie Objektdaten für die effiziente Hausverwaltung. Doch die Nutzung eines so mächtigen Tools wie SeaTable will gelernt sein.

@@ -5,7 +5,12 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/fr/aide/eine-gruppe-loeschen'
+url: '/fr/aide/supprimer-groupe'
+aliases:
+    - '/fr/aide/eine-gruppe-loeschen'
+seo:
+    title: 'Supprimer un groupe dans SeaTable : guide pratique'
+    description: 'Supprimez un groupe SeaTable si vous êtes propriétaire. Les groupes contenant des bases doivent d’abord être vidés. Suivez ces étapes.'
 ---
 
 Les groupes qui ne sont plus actifs ou qui ne sont plus nécessaires pour d'autres raisons peuvent être tout simplement supprimés par leur propriétaire. En revanche, les administrateurs de groupe et les membres du groupe ne sont pas autorisés à le faire.

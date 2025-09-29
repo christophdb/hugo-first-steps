@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/pomoshch/die-erste-base'
+url: '/ru/pomoshch/pervaya-baza-seatable-instruktsiya'
+aliases:
+    - '/ru/pomoshch/die-erste-base'
+seo:
+    title: 'Первая база в SeaTable: пошаговая инструкция'
+    description: 'Узнайте, как создать первую базу SeaTable, добавить таблицы, настроить столбцы, использовать связи и эффективно управлять данными.'
 ---
 
 В SeaTable вы организуете свои данные в [базах]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). База - это контейнер для одной или нескольких таблиц. Таблицы базы могут стоять независимо друг от друга или, как в базе данных, быть связаны друг с другом отношениями.

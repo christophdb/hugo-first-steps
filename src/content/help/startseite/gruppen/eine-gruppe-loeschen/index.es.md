@@ -5,7 +5,12 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/es/ayuda/eine-gruppe-loeschen'
+url: '/es/ayuda/eliminar-grupo'
+aliases:
+    - '/es/ayuda/eine-gruppe-loeschen'
+seo:
+    title: 'Cómo eliminar grupos en SeaTable: guía detallada'
+    description: 'Elimina grupos de SeaTable como propietario. Si el grupo tiene bases debes eliminarlas primero. Sigue estos pasos para borrar sin errores.'
 ---
 
 Los grupos que ya no están activos o que ya no son necesarios por otras razones pueden ser simplemente eliminados por el propietario. Sin embargo, los administradores y los miembros del grupo no están autorizados a hacerlo.

@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/eine-neue-base-erstellen'
+url: '/fr/aide/creer-nouvelle-base'
+aliases:
+    - '/fr/aide/eine-neue-base-erstellen'
+seo:
+    title: 'Créer une nouvelle Base SeaTable'
+    description: 'Apprenez à créer une base SeaTable vide depuis l’accueil ou un dossier. Ajoutez nom, couleur et icône pour commencer vos projets.'
 ---
 
 Dans SeaTable, vous avez la possibilité de créer une nouvelle base vide dans l'espace de travail **Mes bases**. Vous pouvez également créer une nouvelle base dans l'un de vos **groupes** si vous êtes propriétaire ou administrateur de ce groupe. Cependant, en tant que simple membre d'un groupe, vous ne pouvez pas créer une nouvelle base dans un groupe.

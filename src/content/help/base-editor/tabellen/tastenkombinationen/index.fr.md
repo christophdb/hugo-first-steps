@@ -5,7 +5,12 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/fr/aide/tastenkombinationen'
+url: '/fr/aide/raccourcis-clavier-seatable'
+aliases:
+    - '/fr/aide/tastenkombinationen'
+seo:
+    title: 'Raccourcis clavier SeaTable : liste et astuces clés'
+    description: 'Maîtrisez tous les raccourcis SeaTable. Comparez clavier anglais/français et facilitez votre gestion de données et vos actions courantes.'
 ---
 
 Les actions et manipulations répétitives peuvent être facilement effectuées dans SeaTable à l'aide de combinaisons de touches. Insérer une nouvelle ligne, afficher les détails d'une ligne ou annuler une action - dans SeaTable, cela se fait en une fraction de seconde avec la bonne combinaison de touches.
