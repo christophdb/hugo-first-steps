@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/fr/aide/eine-tabelle-in-einer-base-hinzufuegen'
+url: '/fr/aide/ajouter-table-base-seatable'
+aliases:
+    - '/fr/aide/eine-tabelle-in-einer-base-hinzufuegen'
+seo:
+    title: 'Ajouter une table à une base dans SeaTable : tutoriel'
+    description: 'Ajoutez une table par clic ou import à une base. Import CSV possible, liens entre tables simples et gestion claire des ensembles de données.'
+
 ---
 
 Les bases se composent d'un ou de plusieurs tableaux qui peuvent à leur tour contenir des données très différentes et les relier entre elles. Une base peut contenir jusqu'à **200 tableaux**. Pour des raisons de clarté, il est toutefois conseillé de répartir les tableaux sur plusieurs bases à partir de 20 tableaux et de synchroniser les données à l'aide de la fonction [Enregistrements communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}).

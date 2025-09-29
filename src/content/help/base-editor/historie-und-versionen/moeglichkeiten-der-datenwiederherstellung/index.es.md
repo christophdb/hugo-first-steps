@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'cdb'
-url: '/es/ayuda/moeglichkeiten-der-datenwiederherstellung'
+url: '/es/ayuda/recuperar-datos-seatable'
+aliases:
+    - '/es/ayuda/moeglichkeiten-der-datenwiederherstellung'
+seo:
+    title: 'Recuperación de datos en SeaTable: opciones clave'
+    description: 'Recupere sus datos fácilmente con las funciones de SeaTable: papelera, historial, undo, snapshots, importación y versiones. Guía para todos los métodos.'
+
 ---
 
 Es fácil borrar accidentalmente filas o valores de una tabla. O desea comparar los datos actuales con una versión anterior de la tabla y, si es necesario, volver a la versión anterior. Con SeaTable, restaurar datos borrados y versiones anteriores es muy fácil.

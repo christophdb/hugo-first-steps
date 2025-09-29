@@ -5,7 +5,13 @@ lastmod: '2023-01-05'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/duplizieren-einer-zeile'
+url: '/fr/aide/dupliquer-ligne-seatable'
+aliases:
+    - '/fr/aide/duplizieren-einer-zeile'
+seo:
+    title: 'Dupliquer une ligne dans SeaTable : le guide rapide'
+    description: 'Dupliquez par clic droit, poignée de recopie ou copier-coller. Optimisez la gestion de vos données répétitives dans le tableur SeaTable.'
+
 ---
 
 Dans SeaTable, vous avez plusieurs possibilités pour dupliquer une ligne. Pour savoir quelle est la meilleure approche dans votre situation, consultez cet article.

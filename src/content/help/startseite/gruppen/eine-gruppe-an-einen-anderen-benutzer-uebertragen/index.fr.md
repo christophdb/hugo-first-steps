@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/fr/aide/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
+url: '/fr/aide/transferer-groupe-seatable'
+aliases:
+    - '/fr/aide/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
+seo:
+    title: 'Transférer un groupe à un autre utilisateur SeaTable'
+    description: 'Donnez la propriété d’un groupe en quelques clics : l’utilisateur désigné devient propriétaire, l’ancien propriétaire est membre simple du groupe.'
+
 ---
 
 Dans SeaTable, les groupes existants peuvent être transférés de leur propriétaire à un autre utilisateur. Dans ce cas, l'utilisateur sélectionné devient le nouveau propriétaire du groupe, tandis que le propriétaire d'origine n'est désormais plus qu'un membre. Vous trouverez ici des informations sur la manière de transférer un groupe à un autre utilisateur.

@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/duplizieren-einer-zeile'
+seo:
+    title: 'Zeile duplizieren in SeaTable: so geht es schnell'
+    description: 'Duplizieren Sie per Rechtsklick, Füllgriff oder Copy-Paste Zeilen. Arbeiten Sie effizient und sparen Sie Zeit bei wiederkehrenden Tabelleninhalten.'
+
 ---
 
 In SeaTable haben Sie verschiedene Möglichkeiten, um eine Zeile zu duplizieren. Welches das beste Vorgehen in Ihrer Situation ist, erfahren Sie in diesem Artikel.

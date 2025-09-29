@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/pt/ajuda/anlegen-einer-neuen-ansicht'
+url: '/pt/ajuda/criar-nova-visualizacao-seatable'
+aliases:
+    - '/pt/ajuda/anlegen-einer-neuen-ansicht'
+seo:
+    title: 'Nova visualização no SeaTable: tutorial completo'
+    description: 'Organize dados criando visualizações personalizadas. Filtros, grupos ou ordenação—vistas normais ou privadas, guia prático para todos.'
+
 ---
 
 Em SeaTable pode criar e guardar diferentes vistas para as suas mesas. Por exemplo, se quiser filtrar uma tabela por um determinado valor, pode guardar a vista filtrada da tabela e assim aceder a ela mais rapidamente no futuro sem ter de filtrar novamente.  

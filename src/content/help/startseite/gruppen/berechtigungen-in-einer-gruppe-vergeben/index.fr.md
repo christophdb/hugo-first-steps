@@ -5,7 +5,13 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/fr/aide/berechtigungen-in-einer-gruppe-vergeben'
+url: '/fr/aide/roles-groupe-attribuer-seatable'
+aliases:
+    - '/fr/aide/berechtigungen-in-einer-gruppe-vergeben'
+seo:
+    title: 'Attribuer des rôles de groupe dans SeaTable : pratique'
+    description: 'Attribuez propriétaires, administrateurs, membres et gérez les droits d accès de chaque groupe SeaTable avec la plus grande simplicité et sécurité.'
+
 ---
 
 Dans un groupe SeaTable, vous pouvez attribuer des autorisations en attribuant un rôle spécifique aux membres du groupe. Il faut distinguer les rôles de **propriétaire**, d'**administrateur** et de **membre**, qui ont tous des [autorisations]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) différentes.

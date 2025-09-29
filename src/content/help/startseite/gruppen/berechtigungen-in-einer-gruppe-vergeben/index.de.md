@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
 url: '/de/hilfe/berechtigungen-in-einer-gruppe-vergeben'
+seo:
+    title: 'Gruppenrechte in SeaTable vergeben: Guide für Rollen'
+    description: 'Vergeben Sie als Eigentümer oder Admin gezielt die Rollen Eigentümer, Administrator oder Mitglied und verwalten Sie Zugriffsrechte jeder Gruppe sicher.'
+
 ---
 
 Innerhalb einer SeaTable Gruppe können Sie Berechtigungen vergeben, indem Sie Gruppenmitgliedern eine bestimmte Rolle zuweisen. Zu unterscheiden gilt es dabei zwischen den Rollen **Eigentümer**, **Administrator** und **Mitglied**, welche allesamt über unterschiedliche [Berechtigungen]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) verfügen.

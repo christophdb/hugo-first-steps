@@ -5,7 +5,13 @@ lastmod: '2024-08-05'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/pt/ajuda/import-von-excel-dateien-in-seatable'
+url: '/pt/ajuda/importar-excel-xlsx-seatable'
+aliases:
+    - '/pt/ajuda/import-von-excel-dateien-in-seatable'
+seo:
+    title: 'Importar Excel XLSX para SeaTable: guia prático e rápido'
+    description: 'Importe Excel como base ou tabela nova, insira em registros já existentes. Pré-visualização garante controle a cada etapa do processo de importação.'
+
 ---
 
 O artigo seguinte fornece uma visão geral do tópico de **importação de dados de ficheiros XLSX** para o SeaTable. No artigo, encontrará **instruções** detalhadas sobre como importar exatamente tabelas do Excel para o SeaTable. Também apresentamos **características especiais** que devem ser tidas em conta aquando da importação de dados.

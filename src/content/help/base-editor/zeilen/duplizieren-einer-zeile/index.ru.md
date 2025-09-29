@@ -5,7 +5,13 @@ lastmod: '2023-01-05'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/pomoshch/duplizieren-einer-zeile'
+url: '/ru/pomoshch/dubliruy-strku-seatable'
+aliases:
+    - '/ru/pomoshch/duplizieren-einer-zeile'
+seo:
+    title: 'Дублирование строки в SeaTable: инструкция и Tipps'
+    description: 'Дублируйте строки: правый клик, маркер или копипаст. Работайте быстрее и автоматизируйте шаблоны в своих таблицах SeaTable.'
+
 ---
 
 В SeaTable у вас есть различные возможности для дублирования строки. В этой статье вы можете узнать, какая процедура является лучшей в вашей ситуации.

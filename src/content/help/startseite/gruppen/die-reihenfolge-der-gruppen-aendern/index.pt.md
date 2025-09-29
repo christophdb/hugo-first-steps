@@ -5,7 +5,13 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/pt/ajuda/die-reihenfolge-der-gruppen-aendern'
+url: '/pt/ajuda/alterar-ordem-grupos-seatable'
+aliases:
+    - '/pt/ajuda/die-reihenfolge-der-gruppen-aendern'
+seo:
+    title: 'Altere a ordem dos grupos no SeaTable: tutorial simples'
+    description: 'Mude rapidamente os grupos com arrastar e soltar em SeaTable. Recarregue a página para ativar e visualizar a nova ordem conforme desejado.'
+
 ---
 
 Para personalizar o seu espaço de trabalho, tem a opção de alterar a ordem em que os seus grupos aparecem na página inicial da SeaTable. Aprenda aqui como alterar a ordem dos grupos:

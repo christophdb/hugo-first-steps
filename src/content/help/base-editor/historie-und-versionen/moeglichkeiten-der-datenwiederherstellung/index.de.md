@@ -6,6 +6,10 @@ categories:
     - 'historie-und-versionen'
 author: 'cdb'
 url: '/de/hilfe/moeglichkeiten-der-datenwiederherstellung'
+seo:
+    title: 'Datenwiederherstellung mit SeaTable: 6 Methoden'
+    description: 'Wiederherstellen: Papierkorb, Undo, Logs, Snapshots, Datei-Import und Versionen. So holen Sie gelöschte Daten in SeaTable effektiv zurück.'
+
 ---
 
 Schnell ist es passiert, dass man aus Versehen Zeilen oder Werte aus einer Tabelle gelöscht hat. Oder man möchte die aktuellen Daten mit einem früheren Versionsstand der Tabelle vergleichen und ggf. auf den früheren Versionsstand zurückspringen. Mit SeaTable ist die Wiederherstellung gelöschter Daten und früherer Versionsstände ganz einfach.

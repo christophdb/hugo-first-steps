@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'cdb'
-url: '/pt/ajuda/moeglichkeiten-der-datenwiederherstellung'
+url: '/pt/ajuda/recuperar-dados-seatable'
+aliases:
+    - '/pt/ajuda/moeglichkeiten-der-datenwiederherstellung'
+seo:
+    title: 'Recuperação de dados SeaTable: métodos essenciais'
+    description: 'Recupere dados apagados usando SeaTable: lixeira, desfazer, logs, snapshots, importação DTABLE e versões – tutorial de todas as opções disponíveis.'
+
 ---
 
 É fácil apagar acidentalmente linhas ou valores de uma tabela. Ou pretende comparar os dados actuais com uma versão anterior da tabela e voltar à versão anterior, se necessário. Com o SeaTable, restaurar dados apagados e versões anteriores é muito fácil.

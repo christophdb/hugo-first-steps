@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
 url: '/de/hilfe/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
+seo:
+    title: 'SeaTable Gruppe an anderen Benutzer übertragen'
+    description: 'Übertragen Sie die Eigentümerschaft einer Gruppe mit wenigen Klicks. Der neue Nutzer wird Eigentümer, der bisherige Eigentümer wird normales Mitglied.'
+
 ---
 
 Bestehende Gruppen können in SeaTable vom Eigentümer an einen anderen Benutzer übertragen werden. In diesem Fall wird der ausgewählte Benutzer zum neuen Eigentümer der Gruppe, während der ursprüngliche Eigentümer ab sofort nur noch als Mitglied fungiert. Hier erfahren Sie, wie Sie eine Gruppe an einen anderen Benutzer übertragen können.

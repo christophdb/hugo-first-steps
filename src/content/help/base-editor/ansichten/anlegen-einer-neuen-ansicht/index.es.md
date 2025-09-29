@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/es/ayuda/anlegen-einer-neuen-ansicht'
+url: '/es/ayuda/crear-nueva-vista-seatable'
+aliases:
+    - '/es/ayuda/anlegen-einer-neuen-ansicht'
+seo:
+    title: 'Crear una nueva vista en SeaTable: paso a paso'
+    description: 'Guarde y personalice vistas privadas o estándar para filtrar, ordenar o agrupar información eficazmente. Guía visual clara para usuarios nuevos.'
+
 ---
 
 En SeaTable puede crear y guardar diferentes vistas para sus tablas. Por ejemplo, si desea filtrar una tabla por un determinado valor, puede guardar la vista filtrada de la tabla y así acceder a ella más rápidamente en el futuro sin tener que volver a filtrar.  

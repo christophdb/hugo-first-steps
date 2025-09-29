@@ -5,7 +5,13 @@ lastmod: '2022-12-29'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/es/ayuda/daten-import-aus-google-sheets-in-seatable'
+url: '/es/ayuda/importar-google-sheets-seatable'
+aliases:
+    - '/es/ayuda/daten-import-aus-google-sheets-in-seatable'
+seo:
+    title: 'Importar Google Sheets a SeaTable: guía fácil'
+    description: 'Descargue su hoja en CSV o Excel y fácil importación en SeaTable. Mantenga la estructura y gestione tablas con gran volumen de datos fácilmente.'
+
 ---
 
 En el siguiente artículo encontrará instrucciones sobre cómo importar datos de Google Sheets a SeaTable.
