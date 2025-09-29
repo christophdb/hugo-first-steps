@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/pt/ajuda/sortieren-von-eintraegen-in-einer-ansicht'
+url: '/pt/ajuda/ordenar-entradas-vizualizacao-seatable'
+aliases:
+    - '/pt/ajuda/sortieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Ordenar entradas em uma visualização SeaTable'
+    description: 'Ordene listas pelas colunas desejadas, crie hierarquia de critérios e conserve seus dados organizados nas diferentes visualizações e plugins SeaTable.'
+
 ---
 
 A função de ordenação permite exibir as entradas não ordenadas numa tabela, numa **sequência ordenada**.

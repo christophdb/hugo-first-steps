@@ -5,7 +5,13 @@ lastmod: '2022-12-30'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/fr/aide/hinzufuegen-von-daten-per-copy-and-paste'
+url: '/fr/aide/ajouter-donnees-copier-coller-seatable'
+aliases:
+    - '/fr/aide/hinzufuegen-von-daten-per-copy-and-paste'
+seo:
+    title: 'Ajouter des données par copier-coller dans SeaTable'
+    description: 'Importez vos données dans SeaTable par copier-coller : Ctrl+C/V, adaptation automatique des colonnes, duplication de lignes et colonnes très rapide.'
+
 ---
 
 SeaTable connaît les raccourcis clavier populaires {{< key "Ctrl" >}}+{{< key "C" >}} et {{< key "Ctrl" >}}+{{< key "V" >}} pour copier et coller des données. Cela fonctionne aussi bien pour les données que vous voulez copier à l'intérieur de SeaTable que pour les données que vous voulez coller dans SeaTable.

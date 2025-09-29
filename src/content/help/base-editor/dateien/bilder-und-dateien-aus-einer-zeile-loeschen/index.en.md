@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/help/bilder-und-dateien-aus-einer-zeile-loeschen'
+url: '/help/delete-images-files-row-seatable'
+aliases:
+    - '/help/bilder-und-dateien-aus-einer-zeile-loeschen'
+seo:
+    title: 'Delete images and files from a row in SeaTable'
+    description: 'Remove attachments—images and files—from a SeaTable row: simple instructions for cell or row details, including confirmation dialogs and fail-safes.'
+
 ---
 
 SeaTable allows you to **delete** **files** and **images** in several ways. The following instructions apply to both [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).

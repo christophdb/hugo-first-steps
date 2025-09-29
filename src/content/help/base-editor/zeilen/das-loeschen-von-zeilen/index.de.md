@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/das-loeschen-von-zeilen'
+seo:
+    title: 'Zeile oder mehrere Zeilen in SeaTable löschen'
+    description: 'Löschen Sie einzelne oder mehrere Zeilen per Rechtsklick oder Auswahlfeld. Gelöschte Zeilen sind im Papierkorb wiederherstellbar. Schritt-für-Schritt.'
+
 ---
 
 In diesem Artikel lernen Sie, wie Sie eine **einzelne Zeile**, **mehrere Zeilen** und **Einträge** aus einer Zeile **löschen** können.

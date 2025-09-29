@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/fr/aide/bilder-und-dateien-aus-einer-zeile-loeschen'
+url: '/fr/aide/supprimer-images-fichiers-ligne-seatable'
+aliases:
+    - '/fr/aide/bilder-und-dateien-aus-einer-zeile-loeschen'
+seo:
+    title: 'Supprimer images et fichiers d’une ligne SeaTable'
+    description: 'Supprimez images et fichiers d’une ligne : tutoriel pas à pas, sécurité via confirmation et options pour toutes colonnes de type image ou fichier.'
+
 ---
 
 SeaTable permet de **supprimer** des **fichiers** et **des images** de différentes manières. Les instructions suivantes s'appliquent aussi bien aux [colonnes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) qu'aux [colonnes de fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).

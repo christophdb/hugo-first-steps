@@ -6,6 +6,10 @@ categories:
     - 'ansichtsoptionen'
 author: 'vge'
 url: '/de/hilfe/gruppieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Gruppieren von Einträgen in einer Ansicht – SeaTable'
+    description: 'Gruppieren Sie Tabellen nach bis zu drei Kriterien, nutzen Sie Gruppenheader und Statistiken wie Summe, Durchschnitt oder Median für optimale Übersicht.'
+
 ---
 
 Mit der Gruppierungsfunktion können Sie die Tabelleneinträge in **Gruppierungen** zusammenfassen und einfache deskriptive Statistiken wie die Anzahl der Elemente oder Summen und Durchschnittswerte von Zahlspalten ermitteln.

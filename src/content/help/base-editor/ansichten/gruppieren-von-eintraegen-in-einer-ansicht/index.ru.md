@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/pomoshch/gruppieren-von-eintraegen-in-einer-ansicht'
+url: '/ru/pomoshch/gruppirovka-zapisej-vid-seatable'
+aliases:
+    - '/ru/pomoshch/gruppieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Группировка строк в представлении SeaTable: инструкция'
+    description: 'Группируйте записи по 3 критериям, отображайте суммы, средние и медианы, управляйте сворачиванием и раскрытием групп для быстрой аналитики.'
+
 ---
 
 С помощью функции группировки можно объединить записи таблицы в **группы** и определить простые описательные статистики, такие как количество элементов или итоговые и средние значения числовых столбцов.

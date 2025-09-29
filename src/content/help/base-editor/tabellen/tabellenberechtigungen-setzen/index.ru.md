@@ -5,7 +5,13 @@ lastmod: '2023-08-09'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/ru/pomoshch/tabellenberechtigungen-setzen'
+url: '/ru/pomoshch/nastroit-prava-tablicy-seatable'
+aliases:
+    - '/ru/pomoshch/tabellenberechtigungen-setzen'
+seo:
+    title: 'Права на таблицы в SeaTable: настройка доступа'
+    description: 'Установите, кто может просматривать, изменять, добавлять или удалять строки – гибкая настройка прав для любого пользователя или группы в таблице.'
+
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

@@ -6,6 +6,10 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
 url: '/de/hilfe/ansichten-in-ordnern-gruppieren'
+seo:
+    title: 'Ansichten in Ordnern gruppieren in SeaTable'
+    description: 'Ordnen Sie Ansichten in beliebigen Ordnern, verschieben Sie sie per Drag & Drop und behalten Sie so auch bei vielen Views maximale Übersicht über Ihre Daten.'
+
 ---
 
 Neben der Veränderung der Reihenfolge können Sie Ihre Ansichten auch durch **Ordner** übersichtlicher anordnen. Erstellen Sie hierzu beliebig viele Ansichts-Ordner und sortieren Sie Ihre Ansichten.

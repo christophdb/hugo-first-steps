@@ -5,7 +5,13 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/help/farbliche-markierung-von-zeilen'
+url: '/help/color-highlight-rows-seatable'
+aliases:
+  - '/help/farbliche-markierung-von-zeilen'
+seo:
+    title: 'Color highlight rows in SeaTable: easy rules & options'
+    description: 'Assign colors to rows: use single select, custom rules or highlight duplicates for better table organization, status tracking or quick overviews in SeaTable.'
+
 ---
 
 With the help of the **rows-format tool** you can set colored markings at the beginning of rows. The **color marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.

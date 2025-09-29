@@ -5,7 +5,13 @@ lastmod: '2022-12-30'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/help/hinzufuegen-von-daten-per-copy-and-paste'
+url: '/help/copy-paste-data-seatable'
+aliases:
+    - '/help/hinzufuegen-von-daten-per-copy-and-paste'
+seo:
+    title: 'Copy and paste data in SeaTable: quick import'
+    description: 'Effortlessly copy and paste table data in SeaTable. Use Ctrl+C/V, match formats, auto-add columns, and duplicate rows or columns with one click.'
+
 ---
 
 SeaTable knows the popular keyboard shortcuts {{< key "Ctrl" >}}+{{< key "C" >}} and {{< key "Ctrl" >}}+{{< key "V" >}} for copying and pasting data. This works both with data you want to copy within SeaTable and with data you want to paste into SeaTable.

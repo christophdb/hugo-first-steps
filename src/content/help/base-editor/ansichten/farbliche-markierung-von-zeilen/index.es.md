@@ -5,7 +5,13 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/es/ayuda/farbliche-markierung-von-zeilen'
+url: '/es/ayuda/marcar-filas-color-seatable'
+aliases:
+  - '/es/ayuda/farbliche-markierung-von-zeilen'
+seo:
+    title: 'Marcar filas con color en SeaTable: guía detallada'
+    description: 'Resalte rápidamente filas por color usando reglas, selección única, o para detectar duplicados. Facilita la priorización y visión rápida en sus tablas.'
+
 ---
 
 Puede utilizar la **herramienta de formato de línea para** establecer marcas de color al **principio de las líneas**. El **marcado** por colores **de las filas** sirve para identificar rápidamente determinados registros de datos. Esto no debe confundirse con [colorear celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), que permite resaltar celdas individuales.

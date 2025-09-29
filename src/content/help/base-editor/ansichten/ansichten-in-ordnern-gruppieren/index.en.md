@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/ansichten-in-ordnern-gruppieren'
+url: '/help/group-views-in-folders-seatable'
+aliases:
+    - '/help/ansichten-in-ordnern-gruppieren'
+seo:
+    title: 'Group views in folders in SeaTable: easy organization'
+    description: 'Organize your table views in SeaTable using folders: group, drag & drop and arrange views for fast navigation and improved data clarity.'
+
 ---
 
 In addition to changing the order, you can also arrange your views more clearly using **folders**. To do this, create as many view folders as you like and sort your views.

@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/es/ayuda/sortieren-von-eintraegen-in-einer-ansicht'
+url: '/es/ayuda/ordenar-registros-vista-seatable'
+aliases:
+    - '/es/ayuda/sortieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Ordenar registros en una vista de SeaTable'
+    description: 'Ordene filas por columna y tipo en SeaTable: combine múltiples criterios, agilice la visualización y mantenga el control, compatible con plugins visuales.'
+
 ---
 
 La función de ordenación permite mostrar las entradas no ordenadas de una tabla en una **secuencia ordenada**.

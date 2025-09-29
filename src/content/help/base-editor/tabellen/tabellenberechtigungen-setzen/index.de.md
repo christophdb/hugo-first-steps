@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
 url: '/de/hilfe/tabellenberechtigungen-setzen'
+seo:
+    title: 'Tabellenberechtigungen in SeaTable: Zugriffsrechte setzen'
+    description: 'Legen Sie fest, wer Zeilen in Tabellen sehen, bearbeiten, hinzufügen oder löschen darf – granular für Administratoren, Nutzer oder ganze Gruppen.'
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

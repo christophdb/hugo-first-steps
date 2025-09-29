@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/pomoshch/bilder-und-dateien-aus-einer-zeile-loeschen'
+url: '/ru/pomoshch/udalit-foto-fajly-stroki-seatable'
+aliases:
+    - '/ru/pomoshch/bilder-und-dateien-aus-einer-zeile-loeschen'
+seo:
+    title: 'Удалить фото и файлы из строки SeaTable: инструкция'
+    description: 'Удаляйте вложения (фото, файлы) из строки SeaTable через детали строки или ячейки с подтверждением удаления для максимальной надежности.'
+
 ---
 
 SeaTable позволяет **удалять** **файлы** и **изображения** разными способами. Следующие инструкции относятся как к [столбцам]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), так и к [столбцам файлов]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).

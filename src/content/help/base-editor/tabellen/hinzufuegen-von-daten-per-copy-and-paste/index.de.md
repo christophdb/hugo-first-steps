@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
 url: '/de/hilfe/hinzufuegen-von-daten-per-copy-and-paste'
+seo:
+    title: 'Daten per Copy-and-Paste in SeaTable einfügen'
+    description: 'Kopieren und Einfügen von Werten aus externen Tabellen: Nutze Strg+C/V, Beachte Spaltenformate, dupliziere ganze Zeilen oder Spalten per Klick.'
+
 ---
 
 SeaTable kennt die beliebten Tastenkombinationen {{< key "Strg" >}}+{{< key "C" >}} und {{< key "Strg" >}}+{{< key "V" >}} für das Kopieren und Einfügen von Daten. Dies funktioniert sowohl mit Daten, die Sie innerhalb von SeaTable kopieren wollen, als auch mit Daten, die Sie in SeaTable einfügen wollen.

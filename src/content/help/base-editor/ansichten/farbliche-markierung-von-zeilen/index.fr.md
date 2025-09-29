@@ -5,7 +5,13 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/fr/aide/farbliche-markierung-von-zeilen'
+url: '/fr/aide/couleur-lignes-seatable'
+aliases:
+  - '/fr/aide/farbliche-markierung-von-zeilen'
+seo:
+    title: 'Couleur des lignes dans SeaTable : méthode & exemples'
+    description: 'Colorez des lignes pour la gestion des statuts ou des doublons : sélection simple, règles personnalisées ou surbrillance automatique pour vos bases SeaTable.'
+
 ---
 
 L'**outil de formatage des lignes** vous permet d'ajouter des marques de couleur au **début des lignes**. Le **marquage des lignes en couleur** sert à identifier rapidement certains enregistrements. Il ne faut pas confondre cela avec le [coloriage des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), qui permet de mettre en évidence certaines cellules.

@@ -5,7 +5,13 @@ lastmod: '2023-08-09'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/help/tabellenberechtigungen-setzen'
+url: '/help/set-table-permissions-seatable'
+aliases:
+    - '/help/tabellenberechtigungen-setzen'
+seo:
+    title: 'Table permissions in SeaTable: set access rights'
+    description: 'Define who can view, edit, add or delete rows in a SeaTable table. Flexible options per table for admins, users or groups. Easy rights management.'
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

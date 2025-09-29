@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/pt/ajuda/bilder-und-dateien-aus-einer-zeile-loeschen'
+url: '/pt/ajuda/excluir-imagens-arquivos-linha-seatable'
+aliases:
+    - '/pt/ajuda/bilder-und-dateien-aus-einer-zeile-loeschen'
+seo:
+    title: 'Excluir imagens e arquivos de linha no SeaTable'
+    description: 'Apague imagens ou arquivos facilmente pela linha: passo a passo com caixa de confirmação e dicas para colunas de imagem e de arquivo.'
+
 ---
 
 O SeaTable permite-lhe **eliminar** **ficheiros** e **imagens de** diferentes formas. As instruções seguintes aplicam-se às [colunas de]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) e [ficheiros]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).

@@ -5,7 +5,13 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/drucken-von-zeilendetails'
+url: '/help/print-row-details-seatable'
+aliases:
+   - '/help/drucken-von-zeilendetails'
+seo:
+    title: 'Print row details in SeaTable: types & instructions'
+    description: 'Print individual row details in SeaTable as normal or compact view for clear documentation. Quick guide for print dialog and layout selection.'
+
 ---
 
 You have the option to print **row details** similar to [table views]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}). Unlike the table view, the row details list the columns below each other (instead of next to each other) and thus provide a clearer breakdown of the entered data for a row.

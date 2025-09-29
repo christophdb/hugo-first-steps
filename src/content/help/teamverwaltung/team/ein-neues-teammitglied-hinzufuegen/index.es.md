@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/ein-neues-teammitglied-hinzufuegen'
+url: '/es/ayuda/anadir-miembro-equipo-seatable'
+aliases:
+    - '/es/ayuda/ein-neues-teammitglied-hinzufuegen'
+seo:
+    title: 'Añadir miembro al equipo en SeaTable: paso a paso'
+    description: 'Sume usuarios al equipo SeaTable, asigne roles y grupos, configure seguridad y envíe todas las credenciales por correo de forma automática y sencilla.'
+
 ---
 
 Como **administrador** del equipo, puede crear nuevos miembros del equipo a través de la **administración del equipo** sin que estén ya registrados en SeaTable. Durante el proceso de creación, ya puede asignar a su nuevo miembro del equipo a los grupos iniciales y realizar ajustes relevantes para la seguridad. A continuación, el nuevo miembro de su equipo recibirá sus **datos de acceso por correo electrónico** y podrá trabajar con usted de inmediato.

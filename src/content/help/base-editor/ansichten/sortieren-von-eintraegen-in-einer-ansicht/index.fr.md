@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/fr/aide/sortieren-von-eintraegen-in-einer-ansicht'
+url: '/fr/aide/trier-entrees-vue-seatable'
+aliases:
+    - '/fr/aide/sortieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Trier des entrées dans une vue SeaTable : astuces'
+    description: 'Triez vos données selon divers critères : par colonne, ordre ou combinaison, et gardez vos vues toujours parfaitement organisées, y compris dans les plugins.'
+
 ---
 
 La fonction de tri vous permet d'afficher les entrées non classées d'un tableau dans un **ordre ordonné**.

@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/ansichten-in-ordnern-gruppieren'
+url: '/ru/pomoshch/gruppirovat-predstavleniya-papki-seatable'
+aliases:
+    - '/ru/pomoshch/ansichten-in-ordnern-gruppieren'
+seo:
+    title: 'Группировка представлений по папкам в SeaTable'
+    description: 'Создавайте папки для представлений, сортируйте и быстро находите нужные виды таблиц – максимум порядка для больших проектов и команд.'
+
 ---
 
 Помимо изменения порядка, вы также можете более четко упорядочить свои представления с помощью **папок**. Для этого создайте столько папок представлений, сколько вам нужно, и отсортируйте ваши представления.

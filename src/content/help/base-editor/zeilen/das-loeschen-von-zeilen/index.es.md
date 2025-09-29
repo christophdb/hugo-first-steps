@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/es/ayuda/das-loeschen-von-zeilen'
+url: '/es/ayuda/eliminar-fila-seatable'
+aliases:
+    - '/es/ayuda/das-loeschen-von-zeilen'
+seo:
+    title: 'Eliminar una o varias filas en SeaTable: tutorial'
+    description: 'Elimine filas con clic derecho o marcas de selección y recupere las filas borradas desde la papelera o con Ctrl+Z, fácil e intuitivo.'
+
 ---
 
 En este artículo aprenderás a **eliminar** una **fila**, **varias filas** y **entradas** de una fila.

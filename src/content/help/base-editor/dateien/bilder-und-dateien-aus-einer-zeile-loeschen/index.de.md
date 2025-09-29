@@ -6,6 +6,10 @@ categories:
     - 'dateien-und-bilder'
 author: 'vge'
 url: '/de/hilfe/bilder-und-dateien-aus-einer-zeile-loeschen'
+seo:
+    title: 'Bilder und Dateien aus Zeile in SeaTable löschen'
+    description: 'Löschen Sie Anhänge gezielt: Anleitung für Bilder und Dateien – direkt über Zeilendetails, Bild- oder Datei-Spalten. Schritt für Schritt mit Dialog-Sicherheit.'
+
 ---
 
 SeaTable erlaubt das **Löschen** von **Dateien** und **Bildern** auf verschiedenen Wegen. Die folgenden Anleitungen gelten sowohl für [Bild-]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) als auch für [Datei-Spalten]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).

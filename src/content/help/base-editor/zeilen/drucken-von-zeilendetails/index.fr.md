@@ -5,7 +5,13 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/drucken-von-zeilendetails'
+url: '/fr/aide/imprimer-details-ligne-seatable'
+aliases:
+   - '/fr/aide/drucken-von-zeilendetails'
+seo:
+    title: 'Imprimer les détails de ligne dans SeaTable : guide'
+    description: "Imprimez chaque ligne de votre base SeaTable : vue normale ou compacte, choix de la présentation, accès rapide à l'impression de détails individualisés.'
+
 ---
 
 Vous avez la possibilité d'imprimer **les détails des lignes** de la même manière que [les vues de tableau]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}). Contrairement à l'affichage sous forme de tableau, les détails de ligne listent les colonnes les unes sous les autres (au lieu de les juxtaposer) et offrent ainsi une ventilation plus claire des données saisies pour une ligne.

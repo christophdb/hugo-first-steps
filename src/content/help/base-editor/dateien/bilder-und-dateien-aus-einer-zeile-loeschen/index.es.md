@@ -5,7 +5,13 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/es/ayuda/bilder-und-dateien-aus-einer-zeile-loeschen'
+url: '/es/ayuda/eliminar-imagenes-archivos-fila-seatable'
+aliases:
+    - '/es/ayuda/bilder-und-dateien-aus-einer-zeile-loeschen'
+seo:
+    title: 'Eliminar imágenes y archivos de una fila en SeaTable'
+    description: 'Borre archivos e imágenes directamente desde una fila: instrucciones claras, confirmación antes de eliminar y métodos para columnas de archivos o imágenes.'
+
 ---
 
 SeaTable le permite **borrar** **archivos** e **imágenes** de diferentes maneras. Las siguientes instrucciones se aplican tanto a las [columnas de]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) como a las [de]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) archivos.
