@@ -6,6 +6,10 @@ categories:
   - "arbeiten-in-tabellen"
 author: "nsc2"
 url: "/de/hilfe/suchen-und-ersetzen-von-werten-in-seatable"
+seo:
+    title: 'Suchen und Ersetzen in SeaTable: Schritt-für-Schritt'
+    description: 'Finden und Ersetzen Sie gezielt Werte in Spalten oder die ganze Tabelle. Exakte Übereinstimmungen, einfache Navigation, alle Ergebnisse markiert.'
+
 ---
 
 SeaTable bietet Ihnen eine komfortable Funktion, um in einer Tabelle nach allen Einträgen eines speziellen Wertes zu suchen und entweder gezielt einzelne Werte oder alle gleichzeitig zu ersetzen. Sie werden begeistert sein, wie einfach das ist.

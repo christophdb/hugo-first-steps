@@ -5,7 +5,13 @@ lastmod: '2023-01-05'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/duplizieren-einer-zeile'
+url: '/help/duplicate-row-seatable'
+aliases:
+    - '/help/duplizieren-einer-zeile'
+seo:
+    title: 'Duplicate a row in SeaTable: step-by-step guide'
+    description: 'Clone rows in SeaTable by right-click, drag handle or copy-paste. Save time and boost productivity for repeating data sets and templates.'
+
 ---
 
 In SeaTable you have several options to duplicate a row. To find out which is the best approach in your situation, read this article.

@@ -6,6 +6,10 @@ categories:
     - 'import-von-daten'
 author: 'nsc2'
 url: '/de/hilfe/daten-import-aus-google-sheets-in-seatable'
+seo:
+    title: 'Google Sheets in SeaTable importieren: Anleitung'
+    description: 'Exportieren Sie Ihre Google Sheets als CSV oder Excel und importieren Sie die Datei komfortabel nach SeaTable. Schnellstart auch für große Datenmengen.'
+
 ---
 
 Im folgenden Artikel finden Sie eine Anleitung, wie Sie Daten aus Google Sheets in SeaTable importieren können.

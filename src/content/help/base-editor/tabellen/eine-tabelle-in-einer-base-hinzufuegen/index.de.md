@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
 url: '/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen'
+seo:
+    title: 'Neue Tabelle zur Base in SeaTable hinzufügen'
+    description: 'Erstellen oder importieren Sie Tabellen in eine bestehende Base. Direktes Hinzufügen oder Dateiimport, verknüpft und performant für viele Daten.'
+
 ---
 
 Bases bestehen aus einer oder mehreren Tabellen, die wiederum ganz unterschiedliche Daten aufnehmen und untereinander verlinken können. Eine Base kann **bis zu 200 Tabellen** enthalten. Der Übersichtlichkeit zuliebe sollten Sie aber ab 20 Tabellen darüber nachdenken, die Tabellen auf mehrere Bases aufzuteilen und die Daten mit der Funktion [Gemeinsame Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) zu synchronisieren.

@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/fr/aide/anlegen-einer-neuen-ansicht'
+url: '/fr/aide/creer-nouvelle-vue-seatable'
+aliases:
+    - '/fr/aide/anlegen-einer-neuen-ansicht'
+seo:
+    title: 'Créer une nouvelle vue dans SeaTable : guide complet'
+    description: 'Enregistrez des perspectives personnalisées‚ filtrez ou groupez vos données. Choix entre vues privées ou standard pour gagner en efficacité.'
+
 ---
 
 SeaTable vous permet de créer et de sauvegarder différentes vues pour vos tableaux. Par exemple, si vous souhaitez filtrer un tableau en fonction d'une valeur spécifique, vous pouvez enregistrer la vue filtrée du tableau et y accéder plus rapidement à l'avenir, sans devoir filtrer à nouveau.  

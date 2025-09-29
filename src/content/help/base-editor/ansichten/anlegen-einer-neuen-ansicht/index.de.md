@@ -6,6 +6,10 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
 url: '/de/hilfe/anlegen-einer-neuen-ansicht'
+seo:
+    title: 'Neue Ansicht in SeaTable anlegen: ausführlich erklärt'
+    description: 'Erstellen Sie individuelle Ansichten für Filter, Gruppierung und Sortierung. Speichern Sie private oder normale Ansichten für jeden Datenblick.'
+
 ---
 
 In SeaTable können Sie für Ihre Tabellen verschiedene Ansichten erstellen und abspeichern. Möchten Sie beispielsweise in einer Tabelle nach einem bestimmten Wert filtern, können Sie die gefilterte Ansicht der Tabelle abspeichern und somit in Zukunft schneller auf diese zugreifen, ohne erneut filtern zu müssen. Zusätzlich haben Sie die Option, private Ansichten zu erstellen. In welchen Punkten sich private Ansichten von normalen Ansichten unterscheiden, erfahren Sie [in diesem Artikel]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).

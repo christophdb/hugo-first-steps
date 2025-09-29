@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'cdb'
-url: '/help/moeglichkeiten-der-datenwiederherstellung'
+url: '/help/data-recovery-seatable'
+aliases:
+    - '/help/moeglichkeiten-der-datenwiederherstellung'
+seo:
+    title: 'Data recovery in SeaTable: 6 restoration options'
+    description: 'Restore your deleted data easily with SeaTable: trash, logs, undo, snapshots, DTABLE import and versioning—clear overview of all methods.'
+
 ---
 
 It can quickly happen that you have accidentally deleted rows or values from a table. Or you want to compare the current data with a previous version of the table and jump back to the previous version if necessary. With SeaTable the recovery of deleted data and earlier versions is very easy.

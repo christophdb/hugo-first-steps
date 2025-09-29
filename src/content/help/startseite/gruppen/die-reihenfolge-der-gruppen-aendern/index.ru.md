@@ -5,7 +5,13 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-reihenfolge-der-gruppen-aendern'
+url: '/ru/pomoshch/izmenit-poryadok-grupp-seatable'
+aliases:
+    - '/ru/pomoshch/die-reihenfolge-der-gruppen-aendern'
+seo:
+    title: 'Изменить порядок групп в SeaTable: быстро и просто'
+    description: 'Перемещайте группы мышкой и меняйте их порядок. Перезагрузите страницу, чтобы новый порядок был сохранён и отображён в рабочей области.'
+
 ---
 
 Чтобы настроить свое рабочее пространство, у вас есть возможность изменить порядок появления ваших групп на главной странице SeaTable. Узнать, как изменить порядок групп, можно здесь:

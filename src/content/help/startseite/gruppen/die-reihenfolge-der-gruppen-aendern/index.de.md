@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
 url: '/de/hilfe/die-reihenfolge-der-gruppen-aendern'
+seo:
+    title: 'Gruppenreihenfolge in SeaTable ändern: Anleitung'
+    description: 'Verschieben Sie Gruppen per Drag-and-Drop in SeaTable und ordnen Sie Ihren Arbeitsbereich individuell. Neue Reihenfolge gilt nach erneutem Laden der Seite.'
+
 ---
 
 Um Ihren Arbeitsbereich nach Belieben zu gestalten, haben Sie die Möglichkeit, die Reihenfolge zu ändern, in der Ihre Gruppen auf der Startseite von SeaTable erscheinen. Hier erfahren Sie, wie Sie die Reihenfolge der Gruppen ändern können:

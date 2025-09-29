@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'cdb'
-url: '/fr/aide/moeglichkeiten-der-datenwiederherstellung'
+url: '/fr/aide/recuperation-donnees-seatable'
+aliases:
+    - '/fr/aide/moeglichkeiten-der-datenwiederherstellung'
+seo:
+    title: 'Récupération de données SeaTable : guide des options'
+    description: 'Restaurez efficacement avec SeaTable: corbeille, annuler, logs, snapshots, import DTABLE et gestion des versions – toutes les méthodes présentées ici.'
+
 ---
 
 Il est vite arrivé que l'on ait supprimé par erreur des lignes ou des valeurs d'un tableau. Ou bien on souhaite comparer les données actuelles avec une version antérieure du tableau et, le cas échéant, revenir à la version précédente. Avec SeaTable, la récupération des données supprimées et des versions antérieures est très simple.

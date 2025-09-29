@@ -5,7 +5,13 @@ lastmod: '2023-01-05'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/pt/ajuda/duplizieren-einer-zeile'
+url: '/pt/ajuda/duplicar-linha-seatable'
+aliases:
+    - '/pt/ajuda/duplizieren-einer-zeile'
+seo:
+    title: 'Duplicar linha no SeaTable: método simples e rápido'
+    description: 'Crie cópias de linhas com clique direito, alça ou colar. Agilize planilhas e otimize processos para dados recorrentes.'
+
 ---
 
 Em SeaTable tem várias possibilidades de duplicar uma fila. Pode descobrir qual é o melhor procedimento na sua situação neste artigo.

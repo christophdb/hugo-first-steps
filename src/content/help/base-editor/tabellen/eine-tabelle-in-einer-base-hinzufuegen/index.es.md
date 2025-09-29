@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/es/ayuda/eine-tabelle-in-einer-base-hinzufuegen'
+url: '/es/ayuda/anadir-tabla-base-seatable'
+aliases:
+    - '/es/ayuda/eine-tabelle-in-einer-base-hinzufuegen'
+seo:
+    title: 'Añadir tabla nueva a una base en SeaTable: fácil'
+    description: 'Cree o importe una tabla nueva a una base existente. Añada manualmente o desde archivo y gestione vínculos entre tablas fácilmente.'
+
 ---
 
 Las bases constan de una o varias tablas, que a su vez pueden contener datos muy diferentes y enlazarse entre sí. Una base puede contener **hasta 200 mesas**. Sin embargo, en aras de la claridad, debería considerar dividir las tablas en varias bases y sincronizar los datos con la función [Conjuntos de datos compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) si tiene más de 20 tablas.

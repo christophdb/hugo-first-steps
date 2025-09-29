@@ -5,7 +5,13 @@ lastmod: '2024-08-05'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/help/import-von-excel-dateien-in-seatable'
+url: '/help/excel-xlsx-import-seatable'
+aliases:
+    - '/help/import-von-excel-dateien-in-seatable'
+seo:
+    title: 'Import Excel XLSX files to SeaTable: step-by-step guide'
+    description: 'Import Excel files as new base, table or into existing tables – with fast, scalable upload and preview. Clear instructions for successful data import.'
+
 ---
 
 The following article serves as an overview of the topic of **importing data from XLSX files** into SeaTable. In the article you will find detailed **instructions** on how exactly you can import Excel tables into SeaTable. We also present **special features** that you should be aware of when importing data.

@@ -5,7 +5,13 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'cdb'
-url: '/ru/pomoshch/moeglichkeiten-der-datenwiederherstellung'
+url: '/ru/pomoshch/vosstanovit-dannye-seatable'
+aliases:
+    - '/ru/pomoshch/moeglichkeiten-der-datenwiederherstellung'
+seo:
+    title: 'Восстановление данных SeaTable: все способы'
+    description: 'В SeaTable можно вернуть удалённые данные: корзина, отмена, логи, снимки, DTABLE-импорт и версии. Подробная инструкция для всех методов.'
+
 ---
 
 Легко случайно удалить строки или значения из таблицы. Или вы хотите сравнить текущие данные с более ранней версией таблицы и при необходимости вернуться к более ранней версии. С помощью SeaTable восстановить удаленные данные и более ранние версии очень просто.

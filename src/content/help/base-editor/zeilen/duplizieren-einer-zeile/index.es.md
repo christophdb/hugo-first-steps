@@ -5,7 +5,13 @@ lastmod: '2023-01-05'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/es/ayuda/duplizieren-einer-zeile'
+url: '/es/ayuda/duplicar-fila-seatable'
+aliases:
+    - '/es/ayuda/duplizieren-einer-zeile'
+seo:
+    title: 'Duplicar una fila en SeaTable: tutorial completo'
+    description: 'Copie filas en SeaTable fácilmente: clic derecho, tirador o copiar-pegar. Ahorre tiempo y mantenga sus datos listos con rapidez.'
+
 ---
 
 En SeaTable tiene varias posibilidades para duplicar una fila. En este artículo puede averiguar cuál es el mejor procedimiento en su situación.

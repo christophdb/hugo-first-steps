@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/help/anlegen-einer-neuen-ansicht'
+url: '/help/create-new-view-seatable'
+aliases:
+    - '/help/anlegen-einer-neuen-ansicht'
+seo:
+    title: 'Create a new view in SeaTable: full workflow'
+    description: 'Set up personal or standard views in SeaTable: filter, sort or group your data and save perspectives for any workflow. Step-by-step for beginners.'
+
 ---
 
 In SeaTable you can create and save different views for your tables. For example, if you want to filter a table by a certain value, you can save the filtered view of the table and thus access it faster in the future without having to filter again.  

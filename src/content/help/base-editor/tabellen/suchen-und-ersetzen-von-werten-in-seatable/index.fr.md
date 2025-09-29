@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/fr/aide/suchen-und-ersetzen-von-werten-in-seatable'
+url: '/fr/aide/rechercher-remplacer-seatable'
+aliases:
+    - '/fr/aide/suchen-und-ersetzen-von-werten-in-seatable'
+seo:
+    title: 'Rechercher et remplacer dans SeaTable : mode d’emploi'
+    description: 'Trouvez et remplacez facilement des valeurs dans SeaTable : colonne, exactitude, navigation entre résultats et remplacement très intuitif.'
+
 ---
 
 SeaTable vous offre une fonction pratique pour rechercher dans un tableau toutes les entrées d'une valeur spécifique et les remplacer soit de manière ciblée, soit toutes en même temps. Vous serez enthousiasmé par la simplicité de cette opération.

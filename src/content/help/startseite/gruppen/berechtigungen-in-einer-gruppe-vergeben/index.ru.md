@@ -5,7 +5,13 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/pomoshch/berechtigungen-in-einer-gruppe-vergeben'
+url: '/ru/pomoshch/naznachenie-rolej-gruppa-seatable'
+aliases:
+    - '/ru/pomoshch/berechtigungen-in-einer-gruppe-vergeben'
+seo:
+    title: 'Назначение ролей в группе SeaTable: права доступа'
+    description: 'Задайте владельца, администратора или участника в группе SeaTable и контролируйте доступ каждого пользователя легко и надежно.'
+
 ---
 
 В группе SeaTable вы можете назначать разрешения, присваивая членам группы определенную роль. Необходимо проводить различие между ролями **владельца**, **администратора** и **члена**, которые имеют различные [разрешения]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).

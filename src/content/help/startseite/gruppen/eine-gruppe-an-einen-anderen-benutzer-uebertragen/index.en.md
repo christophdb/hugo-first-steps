@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/help/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
+url: '/help/transfer-group-ownership-seatable'
+aliases:
+    - '/help/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
+seo:
+    title: 'Transfer group ownership in SeaTable: simple steps'
+    description: 'Change group owner in SeaTable: transfer rights in a few clicks. The new user becomes owner, previous owner continues as a normal group member.'
+
 ---
 
 Existing groups can be transferred from the owner to another user in SeaTable. In this case, the selected user becomes the new owner of the group, while the original owner from now on acts only as a member. Here you can learn how to transfer a group to another user.
