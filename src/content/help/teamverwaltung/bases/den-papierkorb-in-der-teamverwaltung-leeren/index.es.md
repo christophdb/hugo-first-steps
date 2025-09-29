@@ -5,7 +5,13 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/den-papierkorb-in-der-teamverwaltung-leeren'
+url: '/es/ayuda/vaciar-papelera-admin-equipo-seatable'
+aliases:
+    - '/es/ayuda/den-papierkorb-in-der-teamverwaltung-leeren'
+seo:
+    title: 'Vaciar papelera en administración del equipo SeaTable'
+    description: 'Elimine bases borradas de forma permanente vaciando la papelera en la administración de equipos SeaTable. Libere espacio y gestione sus datos fácilmente.'
+
 ---
 
 Transcurridos **30 días**, las bases borradas se eliminan **automáticamente** del sistema. Sin embargo, también puedes eliminar permanentemente las bases **manualmente** **vaciando la papelera de reciclaje en la administración del equipo**.

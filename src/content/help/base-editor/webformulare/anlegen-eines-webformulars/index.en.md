@@ -5,7 +5,13 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/help/anlegen-eines-webformulars'
+url: '/help/create-web-form-seatable'
+aliases:
+    - '/help/anlegen-eines-webformulars'
+seo:
+    title: 'Create a web form in SeaTable: quick guide & options'
+    description: 'Turn any SeaTable table into a web form, configure fields via drag-and-drop, customize content and share forms with a link for easy data collection.'
+
 ---
 
 A **web form** converts your table into a form with open fields. A column in your table corresponds to a field in the associated web form.

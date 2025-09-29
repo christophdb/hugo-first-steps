@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/pt/ajuda/die-datum-spalte'
+url: '/pt/ajuda/coluna-data-configuracao-seatable'
+aliases:
+    - '/pt/ajuda/die-datum-spalte'
+seo:
+    title: 'Coluna de data no SeaTable: opções e padrões'
+    description: 'Defina datas no SeaTable: insira via calendário ou teclado, escolha formato regional, precisão por dia ou minuto e valores padrão para automação.'
+
 ---
 
 Pode utilizar a coluna de data para introduzir **horas** e **datas** nas suas tabelas até ao minuto. Basta utilizar o calendário que aparece ou o teclado para introduzir uma data manualmente. Tenha em atenção que o SeaTable não aceita quaisquer outras entradas de dados numa coluna de data.

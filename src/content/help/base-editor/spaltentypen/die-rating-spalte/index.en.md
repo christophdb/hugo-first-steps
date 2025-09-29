@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'spalten'
 author: 'nsc2'
-url: '/help/die-rating-spalte'
+url: '/help/rating-column-seatable'
+aliases:
+    - '/help/die-rating-spalte'
+seo:
+    title: 'The rating column in SeaTable: tutorial & options'
+    description: 'Set up, use, and adjust the rating column in SeaTable: choose symbol, scale (1–10), and default. Perfect for rankings, evaluation and quick qualitative feedback.'
+
 ---
 
 The Rating column allows you to **grade** your records in order to **rank** them or give them a **quality score**. When creating the column, you can make specific settings concerning the appearance and the maximum number of **rating symbols** allowed.

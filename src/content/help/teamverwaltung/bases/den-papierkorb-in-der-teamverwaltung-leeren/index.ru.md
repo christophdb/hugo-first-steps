@@ -5,7 +5,13 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/den-papierkorb-in-der-teamverwaltung-leeren'
+url: '/ru/pomoshch/ochistit-korzinu-teamadmin-seatable'
+alaises:
+    - '/ru/pomoshch/den-papierkorb-in-der-teamverwaltung-leeren'
+seo:
+    title: 'Очистить корзину в командной панели SeaTable'
+    description: 'Удалите базы безвозвратно — очистите корзину в командной панели SeaTable вручную и освободите место. Подробная инструкция для администраторов.'
+
 ---
 
 По истечении **30 дней** удаленные базы **автоматически** удаляются из системы. Однако вы также можете окончательно удалить базы **вручную**, **очистив корзину в администрировании команды**.

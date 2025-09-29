@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+url: '/fr/aide/etendre-table-dataset-commun-seatable'
+aliases:
+    - '/fr/aide/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+seo:
+    title: 'Étendre une table de dataset commun dans SeaTable'
+    description: 'Ajoutez des colonnes à une table issue d’un dataset partagé : les champs additionnels restent préservés lors des synchronisations – pour plus de souplesse.'
+
 ---
 
 Les tableaux que vous avez créés avec un jeu de données commun contiennent au départ toutes les colonnes et lignes qui se trouvent également dans la vue tableau du jeu de données commun. En outre, vous avez bien entendu la possibilité d'ajouter **de nouvelles colonnes** à ces tableaux et de les remplir avec vos propres données. L'avantage : les données des colonnes qui ne sont pas liées au jeu de données commun ne sont **pas écrasées** lors de la [synchronisation]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).

@@ -5,7 +5,13 @@ lastmod: '2024-06-13'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/anlegen-eines-gemeinsamen-datensatzes'
+url: '/fr/aide/creer-dataset-commun-seatable'
+aliases:
+    - '/fr/aide/anlegen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Créer un dataset commun dans SeaTable : tutoriel'
+    description: 'Publiez et gérez un dataset partagé : SeaTable permet la mutualisation de données pour tous les membres d’un groupe et facilite leur import dans d’autres bases.'
+
 ---
 
 Dans chaque base appartenant à un groupe, vous pouvez créer une vue de tableau comme **jeu de données commun**. Pour cela, vous devez être propriétaire ou administrateur du groupe (et pas seulement membre). Vous pouvez ensuite importer le jeu de données commun, y compris ses conditions de filtrage et de tri spécifiques, en tant que nouveau tableau dans n'importe quelle autre base du groupe.

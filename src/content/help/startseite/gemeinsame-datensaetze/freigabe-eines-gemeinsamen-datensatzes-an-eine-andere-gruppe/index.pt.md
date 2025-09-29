@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/pt/ajuda/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+url: '/pt/ajuda/compartilhar-dataset-grupo-seatable'
+aliases:
+    - '/pt/ajuda/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+seo:
+    title: 'Compartilhar dataset comum com outro grupo SeaTable'
+    description: 'Aprenda a liberar acesso ao dataset compartilhado para outro grupo no SeaTable, como gerenciar permissões, sincronia e remover acesso quando necessário.'
+
 ---
 
 É possível utilizar registos de dados partilhados não só no respetivo grupo em que foram criados, mas também partilhá-los com outros grupos. Desta forma, outros utilizadores podem aceder aos dados no registo de dados partilhados. Podem então trabalhar com o registo de dados partilhado e criar uma nova tabela. Um registo de dados partilhado é partilhado para outro grupo através da página inicial.

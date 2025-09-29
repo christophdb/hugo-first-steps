@@ -5,7 +5,13 @@ lastmod: '2024-06-13'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/es/ayuda/anlegen-eines-gemeinsamen-datensatzes'
+url: '/es/ayuda/crear-dataset-compartido-seatable'
+aliases:
+    - '/es/ayuda/anlegen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Crear conjunto de datos compartido en SeaTable'
+    description: 'Descubra cómo crear y publicar conjuntos de datos compartidos en SeaTable para equipos, centralizando datos y gestionando permisos multiusuario.'
+
 ---
 
 En cada base perteneciente a un grupo, puede crear una vista de tabla como **registro común**. El requisito para ello es que seas el propietario o administrador del grupo (y no sólo un miembro). A continuación, puede importar el conjunto de datos compartidos, incluidas sus condiciones específicas de filtrado y ordenación, como una nueva tabla en cualquier otra base del grupo.

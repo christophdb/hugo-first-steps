@@ -5,7 +5,13 @@ lastmod: '2023-06-22'
 categories:
     - 'historie-und-versionen'
 author: 'kgr'
-url: '/help/aenderungen-ueber-die-logs-rueckgaengig-machen'
+url: '/help/undo-changes-log-seatable'
+aliases:
+    - '/help/aenderungen-ueber-die-logs-rueckgaengig-machen'
+seo:
+    title: 'Undo changes in SeaTable logs: full recovery guide'
+    description: 'Recover values, rows, columns and tables via the SeaTable log. Step-by-step: open log, select entry, restore and see which edits are not reversible.'
+
 ---
 
 SeaTable logs all activities within a base in a log. This log can be used to restore not only individual values, but also rows, columns and tables. With the logs you can see the changes in more detail and undo more than with the trash.

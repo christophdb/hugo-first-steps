@@ -5,7 +5,13 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/alle-zugriffsberechtigungen-einer-base-einsehen'
+url: '/ru/pomoshch/prosmotr-prav-dostupa-baza-seatable'
+aliases:
+    - '/ru/pomoshch/alle-zugriffsberechtigungen-einer-base-einsehen'
+seo:
+    title: 'Просмотр прав доступа к базе в SeaTable'
+    description: 'Проверьте, кто и с какими правами может видеть или редактировать вашу базу SeaTable. Полный контроль над ролями и безопасностью данных.'
+
 ---
 
 В **администрировании команды** можно просмотреть все **разрешения доступа к** базе, чтобы отслеживать, кто может видеть или редактировать данные.

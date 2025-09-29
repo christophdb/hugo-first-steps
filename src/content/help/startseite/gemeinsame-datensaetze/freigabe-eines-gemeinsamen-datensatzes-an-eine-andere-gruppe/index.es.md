@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/es/ayuda/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+url: '/es/ayuda/compartir-dataset-con-grupo-seatable'
+aliases:
+    - '/es/ayuda/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+seo:
+    title: 'Compartir conjunto de datos con otro grupo en SeaTable'
+    description: 'Comparta un dataset común entre grupos en SeaTable: gestione accesos, sincronización y sepa qué sucede al retirar la autorización. Pasos claros para equipos.'
+
 ---
 
 Puede utilizar registros de datos compartidos no sólo en el grupo respectivo en el que los creó, sino también compartirlos con otros grupos. De este modo, otros usuarios pueden acceder a los datos del registro de datos compartidos. A continuación, podrán trabajar con el registro de datos compartido y crear una nueva tabla. Un registro de datos compartido se libera a otro grupo a través de la página de inicio.

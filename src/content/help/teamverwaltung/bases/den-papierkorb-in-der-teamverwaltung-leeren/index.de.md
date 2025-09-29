@@ -6,6 +6,10 @@ categories:
   - "teamverwaltung"
 author: "vge"
 url: "/de/hilfe/den-papierkorb-in-der-teamverwaltung-leeren"
+seo:
+    title: 'Papierkorb in der Teamverwaltung von SeaTable leeren'
+    description: 'Löschen Sie gelöschte Bases endgültig: In der Teamverwaltung Papierkorb manuell leeren und Speicherplatz sofort freigeben. Anleitung für Team-Admins Schritt für Schritt.'
+
 ---
 
 Nach **30 Tagen** werden gelöschte Bases **automatisch** aus dem System entfernt. Sie können die Bases aber auch **manuell** endgültig löschen, indem Sie den **Papierkorb in der Teamverwaltung leeren**.

@@ -5,7 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+url: '/help/extend-common-dataset-table-seatable'
+aliases:
+    - '/help/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+seo:
+    title: 'Extend a table from a common dataset in SeaTable'
+    description: 'Easily add new columns to a table created with a common dataset in SeaTable. Custom fields remain safe during sync—ideal for team workflows and flexibility.'
+
 ---
 
 Tables that you have created with a common dataset initially contain all columns and rows that can also be found in the table view of the common dataset. Of course, you also have the option of adding **new columns** to these tables and filling them with your own data. The advantage: data in columns that are not linked to the common dataset are **not overwritten** during [synchronization]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).

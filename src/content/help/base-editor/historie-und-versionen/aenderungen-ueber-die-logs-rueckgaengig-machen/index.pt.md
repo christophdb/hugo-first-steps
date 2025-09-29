@@ -5,7 +5,13 @@ lastmod: '2023-06-22'
 categories:
     - 'historie-und-versionen'
 author: 'kgr'
-url: '/pt/ajuda/aenderungen-ueber-die-logs-rueckgaengig-machen'
+url: '/pt/ajuda/desfazer-mudancas-log-seatable'
+aliases:
+    - '/pt/ajuda/aenderungen-ueber-die-logs-rueckgaengig-machen'
+seo:
+    title: 'Desfaça mudanças via log no SeaTable: tutorial'
+    description: 'Recupere entradas, linhas ou colunas facilmente no SeaTable pelo log de alterações. Veja limites e como usar o recurso de restauração.'
+
 ---
 
 SeaTable regista todas as actividades dentro de uma base num tronco. Este registo pode ser utilizado para restaurar não só valores individuais, mas também linhas, colunas e tabelas. Os registos permitem visualizar as alterações com mais detalhe e desfazer mais do que através do caixote do lixo da reciclagem.

@@ -5,7 +5,13 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/es/ayuda/die-countlinks-formel'
+url: '/es/ayuda/countlinks-formula-seatable'
+aliases:
+    - '/es/ayuda/die-countlinks-formel'
+seo:
+    title: 'Countlinks en SeaTable: contar registros relacionados'
+    description: 'Con Countlinks cuente enlaces de columnas al instante. Perfecto para listas, planificación de eventos y gestión de relaciones entre tablas conectadas.'
+
 ---
 
 La fórmula Countlinks cuenta el número de entradas enlazadas del tipo de columna **Enlace a otras entradas** de la fila correspondiente.

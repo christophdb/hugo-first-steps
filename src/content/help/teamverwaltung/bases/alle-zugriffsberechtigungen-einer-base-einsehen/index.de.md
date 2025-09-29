@@ -6,6 +6,10 @@ categories:
   - "teamverwaltung"
 author: "vge"
 url: "/de/hilfe/alle-zugriffsberechtigungen-einer-base-einsehen"
+seo:
+    title: 'Zugriffsberechtigungen in SeaTable einfach einsehen'
+    description: 'Prüfen Sie in der Teamverwaltung, wer auf Ihre Base Zugriff hat und mit welchen Rechten. So behalten Sie jederzeit die Kontrolle über Daten und Freigaben.'
+
 ---
 
 In der **Teamverwaltung** können Sie alle **Zugriffsberechtigungen** für eine Base einsehen, um den Überblick darüber zu behalten, wer die Daten sehen oder bearbeiten kann.

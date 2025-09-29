@@ -5,7 +5,13 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/pomoshch/anlegen-eines-webformulars'
+url: '/ru/pomoshch/sozdat-veb-formu-seatable'
+aliases:
+    - '/ru/pomoshch/anlegen-eines-webformulars'
+seo:
+    title: 'Как создать веб-форму в SeaTable: инструкция'
+    description: 'Создайте веб-форму для сбора данных на базе таблицы SeaTable, настройте поля, используйте перетаскивание и делитесь ссылкой с любыми участниками.'
+
 ---
 
 **Веб-форма** преобразует вашу таблицу в форму с открытыми полями. Столбец в таблице соответствует полю в связанной веб-форме.

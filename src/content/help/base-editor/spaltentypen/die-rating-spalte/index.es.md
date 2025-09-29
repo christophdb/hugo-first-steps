@@ -5,7 +5,13 @@ lastmod: '2023-11-08'
 categories:
     - 'spalten'
 author: 'nsc2'
-url: '/es/ayuda/die-rating-spalte'
+url: '/es/ayuda/columna-puntuacion-seatable'
+aliases:
+    - '/es/ayuda/die-rating-spalte'
+seo:
+    title: 'Columna de puntuación SeaTable: guía completa'
+    description: 'Añada una columna de valoración: elija icono, escala 1–10 y valor por defecto. Perfecta para encuestas, priorización y evaluaciones visuales rápidas.'
+
 ---
 
 La columna de calificación le permite **calificar** sus registros para **ordenarlos** o darles una **puntuación**. Al crear la columna, puede realizar ajustes específicos relativos a la apariencia y al número máximo de **símbolos de calificación** permitidos.

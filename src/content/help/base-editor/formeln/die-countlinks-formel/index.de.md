@@ -6,6 +6,10 @@ categories:
     - 'verknuepfungen'
 author: 'vge'
 url: '/de/hilfe/die-countlinks-formel'
+seo:
+    title: 'Countlinks-Formel in SeaTable: Verknüpfungen zählen'
+    description: 'Mit Countlinks zählen Sie automatisch die verknüpften Einträge einer Spalte. Ideal für Teilnehmerlisten, Querverweise oder jede Form von Mehrfachverknüpfung.'
+
 ---
 
 Die Countlinks-Formel zählt die Anzahl der verknüpften Einträge des Spaltentyps **Verknüpfung zu anderen Einträgen** in der jeweiligen Zeile.
