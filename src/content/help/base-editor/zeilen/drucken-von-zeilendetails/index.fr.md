@@ -10,7 +10,7 @@ aliases:
    - '/fr/aide/drucken-von-zeilendetails'
 seo:
     title: 'Imprimer les détails de ligne dans SeaTable : guide'
-    description: "Imprimez chaque ligne de votre base SeaTable : vue normale ou compacte, choix de la présentation, accès rapide à l'impression de détails individualisés.'
+    description: 'Imprimez chaque ligne de votre base SeaTable : vue normale ou compacte, choix de la présentation, accès rapide à l impression de détails individualisés.'
 
 ---
 
