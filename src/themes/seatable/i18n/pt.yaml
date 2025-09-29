@@ -159,7 +159,8 @@ templates:
     preview: 'Pré-visualização'
 
 template-box:
-    text: 'Experimente o nosso modelo interativo. As vistas também podem ser personalizadas.'
+    text: 'Ficou curioso? Percorra o nosso modelo interativo e descubra as suas primeiras funcionalidades.'
+    submit: 'Testar modelo'
 
 customer-logo:
     company: 'Empresa'

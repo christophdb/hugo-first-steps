@@ -2,7 +2,7 @@
 title: 'Blog Design Tutorial'
 description: 'Welche Stylings gibt es? Wie nutze ich diese?'
 draft: true
-date: 2025-08-29
+date: 2025-09-29
 url: '/de/style-guide'
 color: '#eef0f2'
 
@@ -130,6 +130,14 @@ Nur `id` ist verpflichtend. Die anderen Parameter `submit` und `text` sind optio
 ```
 
 {{< template-box id="14498b7d75cd47ab934c" submit="Yeah" text="Ich bin der Text..." >}}
+
+Hier die Template-Box mit Ihren Standardtexten:
+
+```
+{{</* template-box id="14498b7d75cd47ab934c" */>}}
+```
+
+{{< template-box id="14498b7d75cd47ab934c" >}}
 
 ## FAQs
 
@@ -418,7 +426,12 @@ register:
 register: 'hide'
 ```
 
-Default-Texte sind auch noch keine festgelegt.
+Default-Texte sind definiert. Folgender Eintrag im Frontmatter genügt aktuell:
+
+```
+register:
+   show: true
+```
 
 ## Tabs
 

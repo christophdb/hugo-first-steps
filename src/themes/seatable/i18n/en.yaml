@@ -159,7 +159,8 @@ templates:
     preview: 'Preview'
 
 template-box:
-    text: 'Test our interactive template. The views are also customizable'
+    text: 'Got curious? Scroll through our interactive template and discover its first features.'
+    submit: 'Test template'
 
 customer-logo:
     company: 'Company'

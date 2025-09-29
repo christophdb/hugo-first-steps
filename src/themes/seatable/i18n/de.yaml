@@ -159,7 +159,8 @@ templates:
     preview: 'Vorschau'
 
 template-box:
-    text: 'Testen Sie unser interaktives Template. Auch die Ansichten sind anpassbar.'
+    text: 'Neugierig geworden? Scrollen Sie durch unsere interaktive Vorlage und entdecken Sie erste Funktionen.'
+    submit: 'Vorlage testen'
 
 customer-logo:
     company: 'Firma'
