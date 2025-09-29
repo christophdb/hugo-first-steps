@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/fr/aide/ansichten-in-ordnern-gruppieren'
+url: '/fr/aide/grouper-vues-dossiers-seatable'
+aliases:
+    - '/fr/aide/ansichten-in-ordnern-gruppieren'
+seo:
+    title: 'Grouper les vues en dossiers dans SeaTable : explications'
+    description: 'Rangez vos vues dans des dossiers personnalisés pour mieux vous y retrouver et organiser l’accès rapide à toutes vos visualisations de données.'
+
 ---
 
 Outre la modification de l'ordre, vous pouvez également organiser vos vues de manière plus claire en créant **des dossiers**. Pour ce faire, créez autant de dossiers de vues que vous le souhaitez et triez vos vues.

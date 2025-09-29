@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/das-loeschen-von-zeilen'
+url: '/help/delete-row-seatable'
+aliases:
+    - '/help/das-loeschen-von-zeilen'
+seo:
+    title: 'Delete a row or multiple rows in SeaTable: guide'
+    description: 'Remove single or multiple rows with a right-click. Restore deleted rows from the recycle bin or undo the last deletion with Ctrl+Z. Simple instructions.'
+
 ---
 
 In this article you will learn how to**delete** a **single row**, **multiple rows** and **entries** from a row .

@@ -5,7 +5,13 @@ lastmod: '2023-08-09'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/fr/aide/tabellenberechtigungen-setzen'
+url: '/fr/aide/gestion-droits-table-seatable'
+aliases:
+    - '/fr/aide/tabellenberechtigungen-setzen'
+seo:
+    title: 'Droits sur table SeaTable : réglages & gestion facile'
+    description: 'Limitez l’ajout, l’édition, la suppression ou la visibilité des lignes selon profils. Gérez finement les autorisations dans vos tables SeaTable.'
+
 ---
 
 {{< required-version "Plus" "Entreprise" >}}

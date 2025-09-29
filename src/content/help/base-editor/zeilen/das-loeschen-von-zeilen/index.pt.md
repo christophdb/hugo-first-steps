@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/pt/ajuda/das-loeschen-von-zeilen'
+url: '/pt/ajuda/excluir-linha-seatable'
+aliases:
+    - '/pt/ajuda/das-loeschen-von-zeilen'
+seo:
+    title: 'Excluir linha(s) em SeaTable: passo a passo fácil'
+    description: 'Apague linhas individualmente ou em lote, restaure dados apagados pelo lixo ou via Ctrl+Z. Guia rápido para gerenciamento de dados.'
+
 ---
 
 Neste artigo aprenderá como **eliminar** uma **única linha**, **várias linhas** e **entradas** de uma linha.

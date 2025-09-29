@@ -6,6 +6,10 @@ categories:
     - 'ansichtsoptionen'
 author: 'vge'
 url: '/de/hilfe/sortieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Sortieren von Einträgen in einer Ansicht: SeaTable Guide'
+    description: 'Sortieren Sie Tabellen und Views nach beliebigen Spalten und mehreren Kriterien. Für strukturierte Daten, schnelle Übersicht und individuelle Ansichten.'
+
 ---
 
 Mit der Sortierungsfunktion können Sie die ungeordneten Einträge in einer Tabelle in einer **geordneten Reihenfolge** anzeigen lassen.

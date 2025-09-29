@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/pomoshch/sortieren-von-eintraegen-in-einer-ansicht'
+url: '/ru/pomoshch/sortirovka-zapisej-vid-seatable'
+aliases:
+    - '/ru/pomoshch/sortieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Сортировка записей в представлении SeaTable: инструкция'
+    description: 'Сортировка по столбцам, многоуровневая организация и быстрый доступ к данным — сортировки работают во всех видах таблицы и подключаемых модулях.'
+
 ---
 
 Функция сортировки позволяет отображать неупорядоченные записи в таблице в **упорядоченной последовательности**.

@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/das-loeschen-von-zeilen'
+url: '/fr/aide/supprimer-ligne-seatable'
+aliases:
+    - '/fr/aide/das-loeschen-von-zeilen'
+seo:
+    title: 'Supprimer une ou plusieurs lignes dans SeaTable'
+    description: 'Supprimez une ou plusieurs lignes rapidement : clic droit ou sélection. Restaurez des lignes supprimées via la corbeille ou Ctrl+Z.'
+
 ---
 
 Dans cet article, vous apprendrez à **supprimer** une **seule ligne**, **plusieurs lignes** et **des entrées** d'une ligne.

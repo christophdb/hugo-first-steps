@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/es/ayuda/gruppieren-von-eintraegen-in-einer-ansicht'
+url: '/es/ayuda/agrupar-registros-vista-seatable'
+aliases:
+    - '/es/ayuda/gruppieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Agrupar registros en una vista de SeaTable: tutorial'
+    description: 'Agrupe datos por hasta tres criterios, acceda a totales y promedios directamente en su vista. Expanda y reduzca grupos de manera flexible y visual.'
+
 ---
 
 Con la función de agrupación, puede combinar las entradas de la tabla en **agrupaciones** y determinar estadísticas descriptivas sencillas, como el número de elementos o los totales y valores medios de las columnas numéricas.

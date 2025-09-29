@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/es/ayuda/ansichten-in-ordnern-gruppieren'
+url: '/es/ayuda/agrupar-vistas-carpetas-seatable'
+aliases:
+    - '/es/ayuda/ansichten-in-ordnern-gruppieren'
+seo:
+    title: 'Agrupar vistas en carpetas en SeaTable: tutorial'
+    description: 'Organice las vistas de sus tablas en carpetas personalizadas: agrupe, mueva y ordene para conseguir la máxima visibilidad y control.'
+
 ---
 
 Además de cambiar el orden, también puedes organizar tus vistas de forma más clara utilizando **carpetas**. Para ello, cree tantas carpetas de vistas como desee y ordene sus vistas.

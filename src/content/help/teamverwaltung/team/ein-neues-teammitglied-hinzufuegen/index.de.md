@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/ein-neues-teammitglied-hinzufuegen'
+seo:
+    title: 'Neues Teammitglied in SeaTable hinzufügen: Anleitung'
+    description: 'Fügen Sie neue Mitglieder zu Ihrem SeaTable-Team hinzu – samt Gruppen, Rollen und Sicherheitsoptionen. Zugang per E-Mail mit wenigen Klicks vergeben.'
+
 ---
 
 Als **Team-Administrator** können Sie über die **Teamverwaltung** neue Teammitglieder anlegen, ohne dass diese bereits bei SeaTable registriert sind. Während der Anlage können Sie Ihr neues Teammitglied bereits ersten Gruppen zuordnen und sicherheitsrelevante Einstellungen vornehmen. Ihr neues Teammitglied erhält daraufhin seine **Zugangsdaten per E-Mail** und kann sofort mit Ihnen zusammenarbeiten.

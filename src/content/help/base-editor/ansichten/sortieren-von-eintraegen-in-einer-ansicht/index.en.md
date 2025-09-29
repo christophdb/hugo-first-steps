@@ -5,7 +5,13 @@ lastmod: '2023-01-09'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/help/sortieren-von-eintraegen-in-einer-ansicht'
+url: '/help/sort-entries-view-seatable'
+aliases:
+    - '/help/sortieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Sort entries in a SeaTable view: multi-level sorting'
+    description: 'Sort table entries in SeaTable by column and order, apply several sorts at once and keep data tidy for best overview—works in all views and plugins.'
+
 ---
 
 The sort function allows you to display the unordered entries in a table in an **ordered sequence**.

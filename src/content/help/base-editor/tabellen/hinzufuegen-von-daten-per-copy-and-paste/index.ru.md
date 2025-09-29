@@ -5,7 +5,13 @@ lastmod: '2022-12-30'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/ru/pomoshch/hinzufuegen-von-daten-per-copy-and-paste'
+url: '/ru/pomoshch/dobavit-dannye-kopirovanie-seatable'
+aliases:
+    - '/ru/pomoshch/hinzufuegen-von-daten-per-copy-and-paste'
+seo:
+    title: 'Добавление данных копированием и вставкой в SeaTable'
+    description: 'Вставляйте данные через Ctrl+C/V, форматируйте правильно, автоматически добавляйте столбцы, дублируйте строки и столбцы одним кликом.'
+
 ---
 
 SeaTable знает популярные комбинации клавиш {{< key "Ctrl" >}}+{{< key "C" >}} и {{< key "Ctrl" >}}+{{< key "V" >}} для копирования и вставки данных. Это работает как с данными, которые вы хотите скопировать в SeaTable, так и с данными, которые вы хотите вставить в SeaTable.

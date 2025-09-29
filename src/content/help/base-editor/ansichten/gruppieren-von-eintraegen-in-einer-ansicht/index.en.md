@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/help/gruppieren-von-eintraegen-in-einer-ansicht'
+url: '/help/group-entries-view-seatable'
+aliases:
+    - '/help/gruppieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Group entries in a view – how to use SeaTable groups'
+    description: 'Group table entries by up to three fields, use smart headers and see stats (sum, avg, median). Easily collapse and expand groups for fast overview.'
+
 ---
 
 The grouping function allows you to combine table entries into **groupings** and calculate simple descriptive statistics such as the number of elements or totals and averages of number columns.

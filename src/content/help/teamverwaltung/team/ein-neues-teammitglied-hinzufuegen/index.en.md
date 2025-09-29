@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/ein-neues-teammitglied-hinzufuegen'
+url: '/help/add-team-member-seatable'
+aliases:
+    - '/help/ein-neues-teammitglied-hinzufuegen'
+seo:
+    title: 'Add a new team member in SeaTable: quick guide'
+    description: 'Easily add new users to your SeaTable team: assign to groups, set roles, enforce two-factor authentication, and send credentials by email.'
+
 ---
 
 As a **team administrator**, you can create new team members via the **team administration** without them already being registered with SeaTable. During the creation you can already assign your new team member to first groups and make security relevant settings. Your new team member will then receive his or her **access data by e-mail** and can start working with you immediately.

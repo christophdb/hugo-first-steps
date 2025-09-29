@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/pt/ajuda/ansichten-in-ordnern-gruppieren'
+url: '/pt/ajuda/agrupar-visualizacoes-pastas-seatable'
+aliases:
+    - '/pt/ajuda/ansichten-in-ordnern-gruppieren'
+seo:
+    title: 'Agrupar visualizações em pastas no SeaTable: passo a passo'
+    description: 'Mantenha suas visualizações organizadas criando pastas, arrastando e soltando – perfeita clareza e navegação rápida para suas tabelas.'
+
 ---
 
 Para além de alterar a encomenda, pode também organizar as suas opiniões de forma mais clara utilizando **pastas**. Para o fazer, crie tantas pastas de visualização quantas quiser e classifique as suas opiniões.

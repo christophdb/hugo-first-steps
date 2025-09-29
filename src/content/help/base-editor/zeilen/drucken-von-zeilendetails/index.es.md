@@ -5,7 +5,13 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/es/ayuda/drucken-von-zeilendetails'
+url: '/es/ayuda/imprimir-detalles-fila-seatable'
+aliases:
+   - '/es/ayuda/drucken-von-zeilendetails'
+seo:
+    title: 'Imprimir detalles de fila en SeaTable: instrucciones'
+    description: 'Imprima los detalles de cualquier fila en SeaTable en formato normal o compacto para un informe ordenado y personalizable. Guía paso a paso sencilla.'
+
 ---
 
 Tiene la opción de imprimir detalles **de fila** similares a [las]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) vistas de tabla. A diferencia de la vista de tabla, los detalles de fila enumeran las columnas una debajo de otra (en lugar de una al lado de la otra) y proporcionan así un desglose más claro de los datos introducidos para una fila.

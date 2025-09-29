@@ -5,7 +5,13 @@ lastmod: '2023-08-09'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/pt/ajuda/tabellenberechtigungen-setzen'
+url: '/pt/ajuda/definir-permissoes-tabela-seatable'
+aliases:
+    - '/pt/ajuda/tabellenberechtigungen-setzen'
+seo:
+    title: 'Permissões de tabela SeaTable: defina direitos de acesso'
+    description: 'Quem pode ver, editar ou excluir linhas na tabela? Defina permissões específicas por usuário, grupo ou admin para máxima segurança e controle.'
+
 ---
 
 {{< required-version "Mais" "Empresa" >}}

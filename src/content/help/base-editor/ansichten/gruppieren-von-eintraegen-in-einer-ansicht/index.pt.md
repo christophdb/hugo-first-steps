@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/pt/ajuda/gruppieren-von-eintraegen-in-einer-ansicht'
+url: '/pt/ajuda/agrupar-entradas-vizualizacao-seatable'
+aliases:
+    - '/pt/ajuda/gruppieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Agrupar entradas em uma visualização do SeaTable'
+    description: 'Agrupe dados por até três campos: veja soma, média ou medianas e alterne entre expandir ou reduzir grupos conforme sua necessidade.'
+
 ---
 
 Com a função de agrupamento, é possível combinar as entradas da tabela em **agrupamentos** e determinar estatísticas descritivas simples tais como o número de elementos ou totais e valores médios das colunas de números.

@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/drucken-von-zeilendetails'
+seo:
+    title: 'Zeilendetails drucken in SeaTable: Optionen & Anleitung'
+    description: 'Drucken Sie die Zeilendetails einzeln: Als normale oder kompakte Druckversion mit nur wenigen Klicks. Übersichtliche Darstellung für jede einzelne Zeile.'
+
 ---
 
 Sie haben die Möglichkeit, **Zeilendetails** ähnlich wie [Tabellenansichten]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) auszudrucken. Im Gegensatz zur Tabellenansicht listen die Zeilendetails die Spalten untereinander (statt nebeneinander) auf und bieten so eine übersichtlichere Aufschlüsselung der eingetragenen Daten für eine Zeile.

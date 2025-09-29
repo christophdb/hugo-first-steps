@@ -5,7 +5,13 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/pomoshch/das-loeschen-von-zeilen'
+url: '/ru/pomoshch/udalit-stroku-seatable'
+aliases:
+    - '/ru/pomoshch/das-loeschen-von-zeilen'
+seo:
+    title: 'Удаление строки или нескольких строк в SeaTable'
+    description: 'Удаляйте одну или несколько строк, восстанавливайте удалённое из корзины или с помощью Ctrl+Z. Пошаговая инструкция для пользователей.'
+
 ---
 
 В этой статье вы узнаете, как **удалить** **одну строку**, **несколько строк** и **записи** из строки.

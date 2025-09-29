@@ -5,7 +5,13 @@ lastmod: '2023-01-13'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/fr/aide/gruppieren-von-eintraegen-in-einer-ansicht'
+url: '/fr/aide/grouper-entrees-vue-seatable'
+aliases:
+    - '/fr/aide/gruppieren-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Grouper des entrées dans une vue SeaTable : méthode'
+    description: 'Groupez vos données sur trois niveaux, affichez totaux, moyennes ou médianes et profitez de la gestion fluide des groupes avec SeaTable.'
+
 ---
 
 La fonction de regroupement permet de **regrouper** les entrées du tableau et d'obtenir des statistiques descriptives simples telles que le nombre d'éléments ou les totaux et moyennes des colonnes de chiffres.

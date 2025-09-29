@@ -5,7 +5,13 @@ lastmod: '2023-11-07'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/ein-neues-teammitglied-hinzufuegen'
+url: '/pt/ajuda/adicionar-membro-equipe-seatable'
+aliases:
+    - '/pt/ajuda/ein-neues-teammitglied-hinzufuegen'
+seo:
+    title: 'Como adicionar novo membro à equipe SeaTable'
+    description: 'Inclua rapidamente novos membros, atribua grupos e funções, defina autenticação e envie login por e-mail. Gestão de equipe moderna e segura.'
+
 ---
 
 Como **administrador da equipa**, pode criar novos membros da equipa através da **administração da equipa** sem que eles já estejam registados no SeaTable. Durante o processo de criação, já pode designar o seu novo membro de equipa para os grupos iniciais e fazer configurações relevantes em termos de segurança. O seu novo membro da equipa receberá então os seus **dados de acesso por e-mail** e poderá trabalhar consigo imediatamente.

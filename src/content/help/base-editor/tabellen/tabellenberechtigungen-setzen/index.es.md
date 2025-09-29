@@ -5,7 +5,13 @@ lastmod: '2023-08-09'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/es/ayuda/tabellenberechtigungen-setzen'
+url: '/es/ayuda/establecer-permisos-tabla-seatable'
+aliases:
+    - '/es/ayuda/tabellenberechtigungen-setzen'
+seo:
+    title: 'Permisos de tabla en SeaTable: controlar accesos'
+    description: 'Decida quién puede ver, editar, añadir o borrar filas en cada tabla de SeaTable. Opciones detalladas para admins, usuarios y grupos. Gestión sencilla.'
+
 ---
 
 {{< required-version "Más" "Empresa" >}}
