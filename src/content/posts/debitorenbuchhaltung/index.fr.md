@@ -7,8 +7,8 @@ author: 'pbr'
 url: '/fr/comptabilité-des-débiteurs'
 color: '#7cbaef'
 seo:
-    title: 'Gestion des comptes clients : modèle tout-en-un'
-    description: 'Automatisez la gestion des comptes clients : factures, relances et cash-flow'
+    title: 'Digitaliser la gestion des comptes clients : modèle & guide'
+    description: 'Optimisez la gestion des comptes clients avec SeaTable : facturation, relances, gestion des liquidités et scoring client dans une plateforme collaborative.'
 ---
 
 Vous gardez un œil sur les paiements entrants, vous rappelez aux clients les factures impayées et, si nécessaire, vous envoyez des rappels. Sans la bonne structure, cela peut vite devenir confus - et il n'est pas toujours possible de savoir immédiatement quelles factures ont déjà été réglées. Il est donc d'autant plus important de garder une vue d'ensemble afin de garantir les liquidités de votre entreprise.

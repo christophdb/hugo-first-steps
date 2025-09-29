@@ -7,8 +7,8 @@ author: 'pbr'
 url: '/pt/Contas-a-receber'
 color: '#7cbaef'
 seo:
-    title: 'Gestão de contas a receber: template digital completo'
-    description: 'Organize cobranças e pagamentos com eficiência usando um modelo adaptável.'
+    title: 'Digitalize contas a receber: modelo, dicas & solução'
+    description: 'Controle financeiro eficiente com SeaTable: cobranças, avisos, recebimentos e fluxo de caixa. Solução pronta para equipes modernas – prática e segura.'
 ---
 
 É preciso estar atento aos pagamentos recebidos, lembrar os clientes das facturas pendentes e enviar lembretes, se necessário. Sem a estrutura correta, isto pode rapidamente tornar-se confuso - e nem sempre é imediatamente reconhecível quais as facturas que já foram pagas. Por isso, é ainda mais importante manter uma visão geral para que a liquidez da sua empresa permaneça segura.
