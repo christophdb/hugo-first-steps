@@ -5,7 +5,12 @@ lastmod: "2023-05-09"
 categories: 
   - "import-von-daten"
 author: "cdb"
-url: "/de/hilfe/dtable-dateiformat"
+url: "/de/hilfe/dtable-dateiformat-export-struktur"
+aliases:
+  - "/de/hilfe/dtable-dateiformat"
+seo:
+    title: 'SeaTable DTABLE-Dateiformat: Export und Struktur erklärt'
+    description: 'Erfahren Sie alles über das DTABLE-Dateiformat von SeaTable. Exportieren, sichern, migrieren und öffnen Sie Bases einfach dank klarer Struktur.'
 ---
 
 SeaTable exportiert **Bases** in DTABLE-Dateien. Dabei handelt es sich um ein eigenes **Exportformat**. DTABLE-Dateien lassen sich für die Datensicherung ebenso wie für die Migration von einem auf ein anderes SeaTable System verwenden.

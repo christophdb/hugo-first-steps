@@ -5,7 +5,12 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/help/tastenkombinationen'
+url: '/help/keyboard-shortcuts-seatable'
+aliases:
+    - '/help/tastenkombinationen'
+seo:
+    title: 'SeaTable Keyboard Shortcuts: Full Hotkey Overview'
+    description: 'Discover all SeaTable keyboard shortcuts. Work faster with our shortcut list, comparison of layouts and tips for efficient data table workflows.'
 ---
 
 In SeaTable, recurring actions and actions can be conveniently performed using key combinations. Inserting a new row , displaying the row details or undoing an action - in SeaTable this can be done in a fraction of a second with the right key combination.

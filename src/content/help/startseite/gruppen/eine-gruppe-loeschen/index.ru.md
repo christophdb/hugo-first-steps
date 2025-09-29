@@ -5,7 +5,12 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-gruppe-loeschen'
+url: '/ru/pomoshch/udalit-gruppu'
+aliases:
+    - '/ru/pomoshch/eine-gruppe-loeschen'
+seo:
+    title: 'Как удалить группу в SeaTable: подробная инструкция'
+    description: 'Удаляйте группы в SeaTable только как владелец. Если в группе есть базы, сначала удалите их. Следуйте этим шагам для безопасного удаления.'
 ---
 
 Группы, которые больше не активны или не нужны по другим причинам, могут быть просто удалены владельцем. Администраторы групп и члены групп, однако, не уполномочены делать это.

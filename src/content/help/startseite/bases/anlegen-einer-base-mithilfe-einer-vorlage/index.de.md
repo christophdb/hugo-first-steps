@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/anlegen-einer-base-mithilfe-einer-vorlage'
+seo:
+    title: 'Neue Base in SeaTable einfach erstellen'
+    description: 'Erfahren Sie, wie Sie in SeaTable schnell eine neue Base anlegen, benennen, gestalten und direkt mit eigenen Datensätzen starten.'
 ---
 
 Falls Sie mit der Gestaltung Ihrer Base noch unschlüssig sind oder einfach nur nach neuen Inspirationen suchen, haben Sie in SeaTable die Möglichkeit, schnell und einfach eine Base aus einer Vorlage zu erstellen.

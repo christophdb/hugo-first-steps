@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/fr/aide/allgemeiner-ueberblick'
+url: '/fr/aide/apercu-general'
+aliases:
+    - '/fr/aide/allgemeiner-ueberblick'
+seo:
+    title: 'SeaTable : présentation, analyse et collaboration efficace'
+    description: 'Découvrez SeaTable : organisez vos données selon vos besoins, collaborez, analysez et personnalisez affichages et plugins facilement.'
 ---
 
 SeaTable vous permet d'organiser des données de tout type et de tout format, comme vous le souhaitez : Des rendez-vous et des tâches pour le lancement imminent d'un produit, des images pour la prochaine exposition ou des données d'objets pour une gestion efficace de l'immeuble. Mais il faut apprendre à utiliser un outil aussi puissant que SeaTable.

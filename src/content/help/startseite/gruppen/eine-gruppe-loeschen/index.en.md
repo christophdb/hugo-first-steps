@@ -5,7 +5,12 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/help/eine-gruppe-loeschen'
+url: '/help/delete-group'
+aliases:
+    - '/help/eine-gruppe-loeschen'
+seo:
+    title: 'How to Delete Groups in SeaTable: Step-by-Step Guide'
+    description: 'Delete groups as owner in SeaTable. Groups with any bases must be emptied first before removal. Follow these instructions for secure deletion. '
 ---
 
 Groups that are no longer active or are no longer needed for other reasons can be easily deleted by the owner. Group administrators and group members, on the other hand, are not authorized to do so.

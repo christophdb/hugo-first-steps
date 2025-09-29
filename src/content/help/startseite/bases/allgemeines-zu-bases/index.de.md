@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
-url: '/de/hilfe/bases'
+url: '/de/hilfe/bases-funktionen-verwaltung-seatable'
+aliases:
+  - '/de/hilfe/bases'
+seo:
+    title: 'Bases in SeaTable: Funktionen und Verwaltung im Überblick'
+    description: 'Alles zu Bases in SeaTable: Verwaltung, Erstellung, Freigabe, Export, Löschung, Eigentümerwechsel und Funktionen für produktives Arbeiten.'
 star: true
 weight: 1
 ---

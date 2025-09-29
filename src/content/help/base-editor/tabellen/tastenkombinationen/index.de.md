@@ -5,7 +5,12 @@ lastmod: '2023-01-12'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/de/hilfe/tastenkombinationen'
+url: '/de/hilfe/tastatur-shortcuts-seatable'
+aliases:
+    - '/de/hilfe/tastenkombinationen'
+seo:
+    title: 'SeaTable: Tastaturbefehle und Shortcuts im Überblick'
+    description: 'Lernen Sie alle SeaTable-Tastaturkürzel kennen. Mit deutscher und englischer Tastatur Ihre Arbeit schneller, effizienter und zeitsparend erledigen.'
 ---
 
 Wiederkehrende Aktionen und Handgriffe lassen sich in SeaTable bequem über Tastenkombinationen erledigen. Eine neue Zeile einfügen, die Zeilendetails anzeigen oder eine Aktion rückgängig machen – in SeaTable geht das mit der richtigen Tastenkombination in Sekundenbruchteilen.

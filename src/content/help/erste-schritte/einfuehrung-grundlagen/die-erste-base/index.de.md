@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/de/hilfe/die-erste-base'
+url: '/de/hilfe/erste-base-erstellen-anleitung-seatable'
+aliases:
+    - '/de/hilfe/die-erste-base'
+seo:
+    title: 'Erste Base in SeaTable erstellen: Anleitung & Tipps'
+    description: 'Erstellen und verwalten Sie Ihre erste SeaTable Base: Tabellen, Spaltentypen, Relationen und praktische Funktionen für den Datenstart.'
 ---
 
 In SeaTable organisieren Sie Ihre Daten in [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Eine Base ist ein Container für eine oder mehrere Tabellen. Die Tabellen einer Base können unabhängig nebeneinander stehen oder - wie in einer Datenbank - über Relationen miteinander verknüpft werden.

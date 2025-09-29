@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
-url: '/ru/pomoshch/bases'
+url: '/ru/pomoshch/bazy-funkcii-upravlenie-seatable'
+aliases:
+    - '/ru/pomoshch/bases'
+seo:
+    title: 'Базы SeaTable: функции, управление, импорт и экспорт'
+    description: 'Узнайте всё о базах SeaTable: создание, организация, права доступа, экспорт, удаление, восстановление, эффективное использование данных.'
 star: true
 weight: 1
 ---

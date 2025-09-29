@@ -5,7 +5,12 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/anlegen-einer-base-mithilfe-einer-vorlage'
+url: '/fr/aide/creer-nouvelle-base'
+aliases:
+    - '/fr/aide/anlegen-einer-base-mithilfe-einer-vorlage'
+seo:
+    title: 'Créer une nouvelle base dans SeaTable'
+    description: 'Apprenez à créer une base SeaTable : nommez-la, ajoutez couleur et icône, puis débutez facilement l’organisation de vos données.'
 ---
 
 Si vous hésitez encore sur la conception de votre base ou si vous êtes simplement à la recherche de nouvelles inspirations, SeaTable vous offre la possibilité de créer rapidement et facilement une base à partir d'un modèle.

@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
-url: '/help/bases'
+url: '/help/manage-bases-overview-seatable'
+aliases:
+    - '/help/bases'
+seo:
+    title: 'SeaTable Bases: Overview, Features and Administration Guide'
+    description: 'Find out all about SeaTable bases: organizing, permissions, sharing, exporting, deleting, restoring, and working productively with your data.'
 star: true
 weight: 1
 ---

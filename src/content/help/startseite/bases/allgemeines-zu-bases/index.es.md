@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
-url: '/es/ayuda/bases'
+url: '/es/ayuda/bases-funciones-gestion-seatable'
+aliases:
+    - '/es/ayuda/bases'
+seo:
+    title: 'Bases en SeaTable: guía completa para gestión eficiente'
+    description: 'Bases en SeaTable: saiba cómo organizarlas, gestionarlas, compartir, exportar, restaurar, eliminar y trabajar más productivo cada día.'
 star: true
 weight: 1
 ---

@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/eine-neue-base-erstellen'
+seo:
+    title: 'Neue Base in SeaTable erstellen'
+    description: 'Erstellen Sie eine neue Base in SeaTable über Startseite oder Ordner. Vergeben Sie Namen, Farbe, Icon und starten Sie Ihre Arbeitsprozesse.'
 ---
 
 In SeaTable haben Sie die Möglichkeit, im Arbeitsbereich **Meine Bases** eine neue leere Base zu erstellen. Auch in einer Ihrer **Gruppen** können Sie eine neue Base anlegen, wenn Sie Eigentümer oder Administrator dieser Gruppe sind. Als einfaches Gruppenmitglied können Sie allerdings keine neue Base in einer Gruppe anlegen.

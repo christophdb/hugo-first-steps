@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/pt/ajuda/allgemeiner-ueberblick'
+url: '/pt/ajuda/visao-geral'
+aliases:
+    - '/pt/ajuda/allgemeiner-ueberblick'
+seo:
+    title: 'SeaTable: Organize, analise e colabore com seus dados'
+    description: 'Descubra SeaTable: organize seus dados, colabore, analise estatísticas e personalize visualizações e plugins para mais produtividade.'
 ---
 
 No SeaTable pode organizar dados de qualquer tipo e de qualquer formato, tal como desejar: Nomeações e tarefas para o próximo lançamento do produto, material de imagem para a próxima exposição, bem como dados de propriedade para uma gestão eficiente da propriedade. Mas a utilização de uma ferramenta tão poderosa como o SeaTable precisa de ser aprendida.
