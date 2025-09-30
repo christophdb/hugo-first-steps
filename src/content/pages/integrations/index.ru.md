@@ -4,14 +4,26 @@ description: 'Соедините SeaTable с вашими любимыми пр�
 seo:
     title: ''
     description: ''
-url: '/ru/integrations/'
+url: '/ru/integratsii/'
+aliases:
+  - '/ru/integrations/'
 
 sections:
-    - name: hero-2
+    - name: "content-10"
       weight: 1
+      classes:
       title: Автоматизируйте свою работу
       subtitle: Интеграции с SeaTable
-      text: Интегрируйте SeaTable с вашими любимыми инструментами, чтобы связать важнейшую бизнес-информацию и создавать более мощные приложения.
+      description: Интегрируйте SeaTable с вашими любимыми инструментами, чтобы связать важнейшую бизнес-информацию и создавать более мощные приложения.
+      items:
+      - image: '/images/logos/zapier.svg'
+        image_alt: 'Интеграция с SeaTable и Zapier'
+      - image: '/images/logos/make.svg'
+        image_alt: 'Интеграция с SeaTable и Make'
+      - image: '/images/logos/n8n.svg'
+        image_alt: 'Интеграция с SeaTable и n8n'
+      - image: '/images/logos/integrately.png'
+        image_alt: 'Интеграция с SeaTable и Integrately' 
 
     - name: 'customer-2'
       weight: 2

@@ -9,14 +9,24 @@ url: '/de/integrationen/'
 # TODO: mehr inhalte wie auf https://monday.com/lang/de/integrations, z.B. Kundenstimmen
 
 sections:
-    - name: hero-2
+    - name: "content-10"
       weight: 1
+      classes:
       title: Automatisieren Sie Ihre Arbeit
       subtitle: Integrationen mit SeaTable
-      text: Integrieren Sie SeaTable in Ihre bevorzugten Tools, um Ihre wichtigsten Geschäftsinformationen zu verknüpfen und leistungsfähigere Anwendungen zu erstellen.
+      description: Integrieren Sie SeaTable in Ihre bevorzugten Tools, um Ihre wichtigsten Geschäftsinformationen zu verknüpfen und leistungsfähigere Anwendungen zu erstellen.
+      items:
+      - image: '/images/logos/zapier.svg'
+        image_alt: 'Integrationen mit SeaTable und Zapier'
+      - image: '/images/logos/make.svg'
+        image_alt: 'Integrationen mit SeaTable und Make'
+      - image: '/images/logos/n8n.svg'
+        image_alt: 'Integrationen mit SeaTable und n8n'
+      - image: '/images/logos/integrately.png'
+        image_alt: 'Integrationen mit SeaTable und Integrately'        
 
     - name: 'customer-2'
-      weight: 2
+      weight: 3
       marquee_rows: 2
       title: Tausende von Integrationen stehen zur Verfügung
       subtitle: Apps & Tools für jede Art der Arbeit
