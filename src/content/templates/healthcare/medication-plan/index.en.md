@@ -136,7 +136,7 @@ sections:
       - q: "Can I print the medication schedule template?"
         a: 'Yes, you can create your medication schedule online and use the page design plugin to automatically generate a clear medication schedule for printing.'
       - q: 'Can I also use the medication plan template for several people?'
-        a: 'Yes, you can also use our medication plan template for multiple plans. With SeaTable you can create a medication plan for up to five users free of charge.'
+        a: 'Yes, you can also use our medication plan template for multiple plans. With SeaTable you can create a medication plan for up to 25 users free of charge.'
       - q: 'Is there an example of a medication schedule to fill out?'
         a: 'Yes, the medication schedule template contains a clear medication schedule example that you can use as a guide. You can use and customize our medication schedule template free of charge - to suit your personal medication.'
 ---

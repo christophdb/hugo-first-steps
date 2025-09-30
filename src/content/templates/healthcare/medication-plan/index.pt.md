@@ -136,7 +136,7 @@ sections:
       - q: "Posso imprimir o modelo de horário de medicação?"
         a: "Sim, pode criar a sua agenda de medicação online e utilizar o plug-in de design de página para gerar automaticamente uma agenda de medicação clara para impressão."
       - q: "Também posso utilizar o modelo de plano de medicação para várias pessoas?"
-        a: "Sim, também pode utilizar o nosso modelo de plano de medicação para vários planos. Com o SeaTable, pode criar um plano de medicação para até cinco utilizadores gratuitamente."
+        a: "Sim, também pode utilizar o nosso modelo de plano de medicação para vários planos. Com o SeaTable, pode criar um plano de medicação para até 25 utilizadores gratuitamente."
       - q: "Existe um exemplo de um plano de medicação para preencher?"
         a: "Sim, o modelo de plano de medicação contém um exemplo claro de plano de medicação que pode utilizar como guia. Pode utilizar e personalizar gratuitamente o nosso modelo de horário de medicação - de acordo com a sua medicação pessoal."
 ---
