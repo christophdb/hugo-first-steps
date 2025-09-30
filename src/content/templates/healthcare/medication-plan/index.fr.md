@@ -136,7 +136,7 @@ sections:
       - q : "Puis-je imprimer le modèle de calendrier de prise de médicaments ?"
         a : "Oui, vous pouvez créer votre feuille de médicaments en ligne et utiliser le plugin de mise en page pour générer automatiquement une feuille de médicaments claire à imprimer."
       - q : "Puis-je utiliser le modèle de plan de traitement pour plusieurs personnes ?"
-        a : "Oui, vous pouvez également utiliser notre modèle de plan de traitement pour plusieurs personnes. Avec SeaTable, vous pouvez créer gratuitement un plan de traitement pour un maximum de cinq utilisateurs."
+        a : "Oui, vous pouvez également utiliser notre modèle de plan de traitement pour plusieurs personnes. Avec SeaTable, vous pouvez créer gratuitement un plan de traitement pour un maximum de 25 utilisateurs."
       - q : "Existe-t-il un exemple de plan de traitement à remplir ?"
         a : "Oui, le modèle de plan de traitement contient un exemple clair de plan de traitement que vous pouvez utiliser comme guide. Vous pouvez utiliser et personnaliser gratuitement notre modèle de calendrier de prise de médicaments pour l'adapter à vos médicaments personnels."
 ---

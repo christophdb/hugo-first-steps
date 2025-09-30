@@ -136,7 +136,7 @@ sections:
       - q: "¿Puedo imprimir la plantilla de horario de medicación?"
         a: "Sí, puede crear su horario de medicación en línea y utilizar el plugin de diseño de páginas para generar automáticamente un horario de medicación transparente para imprimir."
       - q: "¿Puedo utilizar también la plantilla del plan de medicación para varias personas?"
-        a: 'Sí, también puede utilizar nuestra plantilla de plan de medicación para varios planes. Con SeaTable puede crear un plan de medicación para hasta cinco usuarios de forma gratuita.'
+        a: 'Sí, también puede utilizar nuestra plantilla de plan de medicación para varios planes. Con SeaTable puede crear un plan de medicación para hasta 25 usuarios de forma gratuita.'
       - q: '¿Hay algún ejemplo de plan de medicación para rellenar?'
         a: 'Sí, la plantilla del plan de medicación contiene un ejemplo claro de plan de medicación que puede utilizar como guía. Puede utilizar y personalizar gratuitamente nuestra plantilla de horario de medicación para adaptarla a su medicación personal.'
 ---

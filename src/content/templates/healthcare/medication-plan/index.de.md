@@ -60,7 +60,7 @@ sections:
       items:
       - text: 'Immer aktuell: Änderungen lassen sich sofort eintragen und sind in der nächsten Sekunde verfügbar.'
       - text: 'Zugriff von überall: Über den Online-Zugang haben Sie Ihre Daten jederzeit parat.'
-      - text: 'Teilen mit Angehörigen: Gewähren Sie Ihrer Familie oder Pflegepersonal Einsicht'
+      - text: 'Teilen mit Angehörigen: Gewähren Sie Ihrer Familie oder Pflegepersonal Einsicht.'
       - text: 'Übersichtliche Darstellung: Dank des Seitendesign-Plugins entsteht ein Mediplan zum Ausdrucken.'
       - text: 'Mehr Sicherheit: Nichts geht verloren, die Daten bleiben geschützt und nachvollziehbar gespeichert.'
       image_position: [left]
@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Medikamentenplan für Übersicht und Sicherheit'
       subtitle: 'Überblick digital'
-      description: 'SeaTable ist eine moderne No-Code Datenbanklösung mit App Builder und bietet alle Funktionen, die ein elektronischer Medikationsplan benötigt. So behalten Sie ganz leicht den Überblick und können Nebenwirkunken erfassen, um sie mit Ihrem Arzt zu besprechen.'
+      description: 'SeaTable ist eine moderne No-Code Datenbanklösung mit App Builder und bietet alle Funktionen, die ein elektronischer Medikationsplan benötigt. So behalten Sie ganz leicht den Überblick und können Nebenwirkungen erfassen, um sie mit Ihrem Arzt zu besprechen.'
       box-position: [right!]
       items:
       - headline: Risiken vermeiden
@@ -92,7 +92,7 @@ sections:
         image: '/images/Template-Page_Medikamentenplan_Screenshot_1.png'
         image_alt: 'Medikamentenplan Vorlage zum Ausdrucken: klar, ausfüllbar, für Arztbesuch und Notfall nutzbar.'
       - headline: 'Alle Ihre Ärzte im Überblick'
-        text: 'Verknüpfen Sie Ihre Arzneimittel direkt mit den Ärzten, die sie verschrieben haben. So behalten Sie den Überbclik und können bei Fragen gezielt nachhaken. Zusätzlich speichern Sie die Kontaktdaten Ihrer Ärzte und stellen deren Standorte mithilfe des Karten-Plugins visuell dar.'
+        text: 'Verknüpfen Sie Ihre Arzneimittel direkt mit den Ärzten, die sie verschrieben haben. So behalten Sie den Überblick und können bei Fragen gezielt nachhaken. Zusätzlich speichern Sie die Kontaktdaten Ihrer Ärzte und stellen deren Standorte mithilfe des Karten-Plugins visuell dar.'
         image: '/images/Templatee-Page_Medikamentenplan_Screenshot_2.png'
         image_alt: 'Medikamentenplan Vorlage: Ärzte mit Medikamenten verknüpft, Kontaktdaten und Standorte im Blick.'
       - headline: 'Eigene Gesundheitsdaten speichern und verwalten'
@@ -120,7 +120,7 @@ sections:
       title: 'Ihre eigene Medikamentenplan App mit SeaTable'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie in wenigen Schritten Ihre persönliche Gesundheits-App. Neben Medikamenten und Arztkontakten können Sie beispielsweise auch Nebenwirkungen oder zusätzliche Daten wie Blutdruckwerte notieren, um diese beim nächsten Behandlungstermin zu besprechen. Die integrierte Erinnerungsfunktionen sorgt für zusätzliche Sicherheit.'
+      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie in wenigen Schritten Ihre persönliche Gesundheits-App. Neben Medikamenten und Arztkontakten können Sie beispielsweise auch Nebenwirkungen oder zusätzliche Daten wie Blutdruckwerte notieren, um diese beim nächsten Behandlungstermin zu besprechen. Die integrierte Erinnerungsfunktion sorgt für zusätzliche Sicherheit.'
       image: '/images/Template-Page_Medikamentenplan_Screenshot_6.png'
       image_alt: 'Medikamentenplan Vorlage: No-Code App mit Erinnerungsfunktion, Arztkontakten, Messwerten, Notizen.'
 
@@ -136,7 +136,7 @@ sections:
       - q: "Kann ich die Vorlage für den Medikamentenplan ausdrucken?"
         a: 'Ja, Sie können Ihren Medikamentenplan online erstellen und mit dem Seitendesign-Plugin automatisch einen übersichtlichen Mediplan zum Ausdrucken erzeugen.'
       - q: 'Kann ich die Medikamentenplan Vorlage auch für mehrere Personen nutzen?'
-        a: 'Ja, Sie können unsere Vorlage für einen Medikamentenplan auch für mehrere Pläne nutzen. Mit SeaTable erstellen Sie einen Medikamentenplan kostenlos für bis zu fünf Nutzer.'
+        a: 'Ja, Sie können unsere Vorlage für einen Medikamentenplan auch für mehrere Pläne nutzen. Mit SeaTable erstellen Sie einen Medikamentenplan kostenlos für bis zu 25 Nutzer.'
       - q: 'Gibt es ein Beispiel für einen Medikationsplan zum Ausfüllen?'
         a: 'Ja, die Medikamentenplan Vorlage enthält ein übersichtliches Medikamentenplan Beispiel, das Sie als Orientierung nutzen können. Sie können unseren Vorlage für einen Medikamentenplan kostenlos nutzen und anpassen – passend zu Ihrer persönlichen Medikation.'
 
