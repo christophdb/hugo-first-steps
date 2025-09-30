@@ -273,8 +273,9 @@ Um eine Tastenkombination wie z.B. {{< key "STRG" >}} + {{< key "C" >}} auszugeb
 Das sind Tags, in den Farben {{< tag color="blue" text="Blau" >}}, {{< tag color="red" text="Rot" >}} oder {{< tag text="irgendwas anderes" >}}.
 Hier die gesamte Übersicht:
 
-- ...
-- ...
+- `{{</* tag color="blue" text="Blau" */>}}`
+- `{{</* tag color="rot" text="Rot" */>}}`
+- `{{</* tag text="irgendwas anderes" */>}}`
 
 ## Icons
 
@@ -386,7 +387,7 @@ Mit dem Shortcode `{{</* newsletter /*/>}}` kann man die Newsletter-Anmeldung in
 Alternativ kann man auch die beiden Überschriften, den Button-Text und die Beschreibung inviduell anpassen. Hier der dafür benötigte Shortcode:
 
 ```
-{{</* newsletter title=="Title" subtitle="Ich bin optional" submit="Ich will" */>}}
+{{</* newsletter title="Title" subtitle="Ich bin optional" submit="Ich will" */>}}
 
 Abonnieren Sie unseren **Newsletter** und bleiben Sie informiert! Hier funktioniert nun auch _Markdown_.
 
