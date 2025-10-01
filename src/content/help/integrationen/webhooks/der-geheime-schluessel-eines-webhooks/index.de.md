@@ -9,7 +9,6 @@ url: '/de/hilfe/der-geheime-schluessel-eines-webhooks'
 seo:
     title: 'Webhook-Sicherheit: Geheimer Schlüssel und Signatur'
     description: 'Wie schützt ein geheimer Schlüssel SeaTable-Webhooks? So prüfen Sie Signaturen, validieren die Herkunft der Anfrage und verhindern unerlaubten Zugriff auf Ihre Schnittstelle.'
-
 ---
 
 Wenn das Ziel eines Webhooks öffentlich erreichbar ist, muss bei den eingehenden Anfragen sichergestellt werden, dass diese vom gewünschten Ursprungssystem kommen. Mit Hilfe eines geheimen Schlüssels kann die Herkunft eines Webhooks sichergestellt werden.
@@ -22,7 +21,33 @@ Wenn Sie einen geheimen Schlüssel angeben, hat der Webhook einen zusätzlichen 
 
 Wenn ein geheimer Schlüssel gesetzt ist, sieht ein Webhook-Request zum Beispiel so aus:
 
-` ``` -- HEADER -- Content-Type: application/json Content-Length: 625 X-Seatable-Signature: sha256=598b55485e7875def064746867ff220e79d7c75512fdb931a39e313af5abfe60 Connection: keep-alive Accept: */* Accept-Encoding: gzip, deflate User-Agent: python-requests/2.28.1 Host: example.com  -- CONTENT -- {   event:update   data: {     dtable_uuid: 6c17f178ee724c109c68ecee364027fc     row_id: Y_aYcE6wTo-IzGWb-oDmaQ     op_user: 92d8f9b243f8437db0131c2536398403@auth.local     op_type: create_row     op_time: 1677595743.088     table_id: 0000     table_name: Table1     row_name: ""     row_data: []   } }  ``` `
+```
+-- HEADER --
+Content-Type: application/json
+Content-Length: 625
+X-Seatable-Signature: sha256=598b55485e7875def064746867ff220e79d7c75512fdb931a39e313af5abfe60
+Connection: keep-alive
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: python-requests/2.28.1
+Host: example.com
+
+-- CONTENT --
+{
+  event:update
+  data: {
+    dtable_uuid: 6c17f178ee724c109c68ecee364027fc
+    row_id: Y_aYcE6wTo-IzGWb-oDmaQ
+    op_user: 92d8f9b243f8437db0131c2536398403@auth.local
+    op_type: create_row
+    op_time: 1677595743.088
+    table_id: 0000
+    table_name: Table1
+    row_name: ""
+    row_data: []
+  }
+}
+```
 
 ## Die Berechnung des geheimen Schlüssels
 
@@ -34,4 +59,26 @@ In jeder Programmiersprache sollte es entsprechende Funktionen geben, um eine so
 
 Für Python könnte eine Prüfung so aussehen:
 
-` ``` import hmac from flask import Flask, request  app = Flask(__name__)   @app.route('/receive-seatable-webhook', methods=['POST']) def receive-seatable_webhook():     secret = 'secret'     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')      signature = hmac.new(         secret.encode('utf-8'), request.data, digestmod='sha256').hexdigest()      signature_compare = hmac.compare_digest(signature, seatable_signature)      if signature_compare:         # do something         pass      return {'success': signature_compare}  ``` `
+```
+import hmac
+from flask import Flask, request
+
+app = Flask(__name__)
+
+@app.route('/receive-seatable-webhook', methods=['POST'])
+def receive-seatable_webhook():
+    secret = 'secret'
+    seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
+
+    signature = hmac.new(
+        secret.encode('utf-8'), request.data, digestmod='sha256').hexdigest()
+
+    signature_compare = hmac.compare_digest(signature, seatable_signature)
+
+    if signature_compare:
+        # do something
+        pass
+
+    return {'success': signature_compare}
+
+```
