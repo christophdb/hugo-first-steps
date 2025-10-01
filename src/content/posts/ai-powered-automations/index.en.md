@@ -16,7 +16,9 @@ tags:
 color: '#f2d1e3'
 ---
 
-September 1, 2025 marks a special moment for us at SeaTable: the release of version 6.0. And this version is a big step forward. With the new **AI powered automations**, we are opening a whole new chapter – one that will noticeably change everyday work in companies.
+October 1, 2025 marks a special moment for us at SeaTable: the release of version 6.0. And this version is a big step forward. With the new **AI powered automations**, we are opening a whole new chapter – one that will noticeably change everyday work in companies.
+
+{{< info-box headline="Staggered Release" text="SeaTable 6.0 is available for all self-hosters to download from [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) starting today (01.10.2025). We will update SeaTable Cloud to version 6.0 **in mid-October**." />}}
 
 Automations have always been a core part of SeaTable. They help standardize recurring processes and simplify workflows. But now we're taking the decisive next step: we're combining our automations with artificial intelligence (AI). Suddenly, processes can be not only _automated_ but also _intelligently_ controlled. Invoices that are automatically entered into tables, emails that are sorted and forwarded based on content, or long texts that are condensed to the essentials in seconds – all of this is now reality with SeaTable.
 
@@ -47,7 +49,7 @@ And the performance is impressive:
 | ----------------- | ------------------------------------------------------- |
 | Token throughput  | 1,200–2,000 tokens per second                           |
 | Parallel requests | 5–10 simultaneously                                     |
-| Response times    | 1–3 seconds per request                                 |
+| Response times    | ~5 seconds                                              |
 
 Fast, efficient, and stable enough to provide real added value in daily operations.
 
