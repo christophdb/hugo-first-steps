@@ -5,7 +5,7 @@ seo:
     title: 'Unternehmen gründen leicht gemacht – Schritt für Schritt erklärt'
     description: 'Selbständig werden bedeutet, den Schritt in die Freiheit zu wagen und Ihre Geschäftsidee erfolgreich umzusetzen. Erfahren Sie, wie Sie von Anfang an strukturiert starten und typische Hürden souverän meistern.'
 date: 2025-09-25
-url: '/de/unternehmen-gründen'
+url: '/unternehmen-gründen'
 tags:
     - 'Build your Business'
 categories:

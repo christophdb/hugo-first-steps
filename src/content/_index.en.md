@@ -242,8 +242,48 @@ sections:
   - text: "Our no-code platform supports integration with numerous tools and helps you to optimize your IT infrastructure."
   image: "/images/seatable-integrations.png"
 
-- name: banner-2
+- name: content-5
   weight: 13
+  items:
+  - title: Airtable alternative
+    subtitle: Teamwork, GDPR-compliant
+    text: "As an Airtable alternative, SeaTable offers fully-fledged no-code database functions, app builder, relational tables, cloud and on-premises operation and the whole thing is hosted in Germany in compliance with the GDPR - ideal for structured, cross-team workflows for companies."
+    buttons:
+    - label: "Find out more about SeaTable as an Airtable alternative"
+      link: "/pages/airtable-alternative"
+  - subtitle: Task management, project planning
+    title: Asana alternative
+    text: "Task and project management with Asana? SeaTable as a flexible Asana alternative, combines task management, project planning, resource overview, milestone and time management, dashboards and file management - ideal as a scalable alternative to Asana."
+    buttons:
+    - label: "Learn more about SeaTable as an Asana alternative"
+      link: "/pages/asana-alternative"
+  - subtitle: Automation, collaboration
+    title: Excel alternative & Microsoft Access alternative
+    text: "From classic lists to complex data models: SeaTable replaces Excel and Microsoft Access databases, picking up where both programs reach their limits and enabling modern, collaborative tables with added structure, security and automation."
+    buttons:
+    - label: "Learn more about SeaTable as an Excel alternative"
+      link: "/pages/excel-alternative"
+  - subtitle: Flexibility, data protection
+    title: Personio alternative
+    text: "Digital HR processes, smart workflows and data security: SeaTable enables companies to manage their personnel and sensitive data efficiently, flexibly and in compliance with GDPR. Statistics and individualized dashboards are on a par with Personio's performance management and can also be flexibly adapted."
+    buttons:
+    - label: "Learn more about SeaTable as a Personio alternative"
+      link: "/pages/industry-solutions/hr"
+  - subtitle: Sales processes, scalability
+    title: HubSpot alternative
+    text: "The most flexible of the CRM alternatives: SeaTable brings all relevant sales data into one platform.  You bring your processes and your teams into the tool and do not have to adapt to predefined structures - the most flexible and scalable solution among the HubSpot alternatives."
+    buttons:
+    - label: "Learn more about SeaTable as a HubSpot alternative"
+      link: "/pages/industry-solutions/kundenmanagement"
+  - subtitle: Knowledge management, relational data
+    title: Notion alternative
+    text: "SeaTable combines knowledge management, structured data and collaborative tools - with a no-code database, relational structures and app builder - the GDPR-compliant solution among the Notion alternatives for complex business requirements."
+    buttons:
+    - label: "Learn more about SeaTable as a Notion alternative"
+      link: "/posts/wissensmanagement"
+
+- name: banner-2
+  weight: 14
   title: Whatever your workflow looks like, you can realize it with <span class="text-seatable-blue">SeaTable</span>
   buttons:
     - link: "pages/registration"
@@ -251,7 +291,7 @@ sections:
       id: en-homepage-registration-banner-2
 
 - name: "faq"
-  weight: 14
+  weight: 15
   title: Frequently asked questions about the SeaTable no-code solution
   items:
   - q: "How do I create an app?"
@@ -268,7 +308,7 @@ sections:
     a: "With our platform, you can digitize, automate and optimize business processes to increase efficiency and reduce costs. We offer individual app creation to develop customized solutions for your specific business needs. Start with our free version to create your own app with no initial investment. We also allow you to quickly prototype and test your ideas before going into full development, ideal for creating Minimal Viable Products (MVPs)."
 
 - name: content-6
-  weight: 15
+  weight: 16
   classes:
   - curved
   - bg-gray-100
@@ -292,7 +332,7 @@ sections:
   image: "/img/seatable-security-1.jpg"
 
 - name: "form-contact"
-  weight: 16
+  weight: 17
   subtitle: Get in touch with us
   title: Let us drive your process digitization forward.
   description: Our team is available to answer your questions about no-code platforms, programming without code and low-code solutions with SeaTable. We'll help you find the best solution for your business and use case. Discover the transformative power of the SeaTable No-Code Digital Solution today!
