@@ -7,89 +7,150 @@ category: 'operations'
 functions:
 seo:
     title: 'Lagerverwaltung Vorlage: Lager effizient digital managen'
-    description: 'Die No-Code Warehouse Management Vorlage von SeaTable – flexibel, digital, skalierbar.'
+    description: 'Vorlage für Lagerverwaltung: Bestände, Lagerorte, automatische Meldungen & Dashboards – jetzt mit SeaTable individuell anpassbar nutzen.'
 template: 'ab96101c9e5b4470a2d2'
+
+type: pages
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'SeaTable – Ihre Lagerverwaltung Software'
+      text: 'Behalten Sie stets den Überblick über Ihre Lagerbestände – ohne teure Spezialsoftware oder eine unübersichtliche Lagerverwaltung in Excel. Mit der Lagersoftware von SeaTable managen Sie Ihr Lager einfach, schnell, übersichtlich und automatisiert.'
+      classes:
+          - bg-white
+      template: ab96101c9e5b4470a2d2
+      buttons:
+          - label: Jetzt kostenlos registrieren und Vorlage nutzen
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'Ihre Lagerverwaltung Software in der Cloud'
+      subtitle: Intuitiv, flexibel, sicher
+      text: 
+      items:
+        - icon: 'star-full'
+          headline: 'Zentral'
+          text: 'Einfache Lagerverwaltung mit einer Übersicht über alle Produkte – u.a. mit Bestand, Lagerort und Lieferzeit.'
+        - icon: 'palette'
+          headline: 'Flexibilität'
+          text: 'Passen Sie die Vorlage einfach Ihren Bedürfnissen an – ohne Programmieraufwand oder IT-Kenntnisse.'
+        - icon: 'pencil'
+          headline: 'Eingabe'
+          text: 'Erfassen Sie Warenbewegungen schnell und einfach über das integrierte Formular – Buchungsfehler werden reduziert.'
+        - icon: 'bell'
+          headline: 'Benachrichtigungen'
+          text: 'Integrierte Benachrichtigungen verhindern, dass Mindestbestände unterschritten werden – ohne manuellen Aufwand.' 
+        - icon: 'image'
+          headline: 'Produktkatalog'
+          text: 'Ihre Produkte werden mit Bild und relevanten Informationen in einer Galerie dargestellt – für eine bessere Übersicht.'
+        - icon: 'chart-line'
+          headline: 'Universal App'
+          text: 'Nutzen Sie die App als Frontend für Ihre Lagersoftware – mit Formularen, Analyse-Dashboard und Bestandsabfragen.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "Führende Unternehmen weltweit vertrauen auf SeaTable"
+      subtitle: "Wer nutzt SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads im ersten Jahr von Docker Hub
+      - number: "1.500+"
+        text: "Tägliche Nutzer auf SeaTable Cloud"
+      - number: "4.6"
+        text: "Bewertung auf Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable im Einsatz - Erfolgsgeschichten"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Einfache Lagerverwaltung online mit SeaTable'
+      subtitle: 'App für Lagerverwaltung'
+      description: 'Die No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. So lassen sich auch dynamische Prozesse in Ihrer Lagerverwaltungssoftware einfach abbilden.'
+      items:
+      - text: 'Aktuelle Daten: Bestandsänderungen lassen sich schnell eintragen und sind sofort für alle verfügbar.'
+      - text: 'Echte Kollaboration: Arbeiten Sie im Team gemeinsam an Daten – ohne Zeitverzögerung oder Systemabstürze.'
+      - text: 'Einfach skalierbar: Ihre Lagersoftware wächst mit Ihren Anforderungen – ohne teure Zusatzfunktionen.'
+      - text: 'Einfache Integrationen: Mit der SeaTable API lassen sich Drittanbieter wie Versanddienstleister oder E-Commerce-Plattformen einfach einbinden.'
+      image_position: [left]
+      image: '/images/template_page_lagerverwaltung_01.png'
+      image_alt: 'SeaTable App für Lagerverwaltung mit flexibler No-Code-Lösung, Echtzeit-Dateneingabe und Team-Kollaboration'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Bauen Sie sich mit SeaTable Ihre Lagerverwaltung App'
+      subtitle: 'Lagerverwaltung online'
+      items:
+      - headline: 'Alle Artikeldaten auf einen Blick'
+        text: 'Legen Sie Ihre Produkte und Artikel im Table "Article Master" an und verknüpfen Sie es mit der Table "Warehouses and Capacity", um jederzeit den aktuellen Lagerbestand zu haben. Neue Artikel oder Produkte legen Sie ganz einfach über ein Formular an.'
+        image: '/images/template_page_lagerverwaltung_02.png'
+        image_alt: 'SeaTable Artikelübersicht im Article Master mit Verknüpfung zur Lagerbestandstabelle und Formular zum Anlegen neuer Produkte'
+      - headline: 'Warenein- und ausgänge einfach erfassen'
+        text: 'Buchen Sie Lagerein- und -ausgänge über ein Formular in der Lagerverwaltung App ein. Erfassen Sie dazu neben dem Bestand und ggf. einer Zustandbeschreibung auch den Lagerort, von dem der Bestand abgebucht werden soll. So bleiben Ihre Lagerdaten jederzeit aktuell!'
+        image: '/images/template_page_lagerverwaltung_03.png'
+        image_alt: 'Formular zur Erfassung von Warenein- und -ausgängen in der SeaTable Lagerverwaltungs-App mit Angaben zu Bestand, Zustand und Lagerort'
+      - headline: 'Lagerplatzbelegung und Lagerauslastung auf einen Blick'
+        text: 'Verknüpfen Sie die Lagerplatzbelegung und -auslastung mit Ihrer Produktübersicht und dem Warenein- und -ausgang. So können Sie neben dem Warenumschlag auch den Lagerflächen-Nutzungsgrad auswerten – und so rechtzeitig auf Mehr- oder Minderbedarfe reagieren.'
+        image: '/images/template_page_lagerverwaltung_04.png'
+        image_alt: 'Übersicht der Lagerplatzbelegung und Lagerauslastung in SeaTable, verknüpft mit Produktbestand und Warenein- und -ausgängen'
+      - headline: 'Integrierte Benachrichtigungen'
+        text: 'Ein Lagerplatz ist überbucht? Der Sicherheitsbestand wurde unterschritten und es muss nachbestellt werden? Nutzen Sie automatisierte Benachrichtigungen, damit kritische Bestandsveränderungen nicht mehr übersehen werden.'
+        image: '/images/template_page_lagerverwaltung_05.png'
+        image_alt: 'SeaTable Lagerverwaltungs-App mit automatisierten Benachrichtigungen bei Überbuchung und Unterschreitung des Sicherheitsbestands'
+
+    - name: "content-6"
+      weight: 15
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'Übersichtliche Frontend App für Lagerverwaltung'
+      subtitle: 
+      items:
+      - text: 'Nutzen Sie die No-Code Universal App als Lagerverwaltung Online Frontend und erstellen Sie mit wenigen Klicks Formulare, übersichtliche Ansichten oder Dashboards mit relevanten KPI für Ihre Analysen. Die Bestands- und Lagerabfrage bietet gezielte Informationen zu einzelnen Produkten oder Belegungsinformationen zu Lagerorten – ohne umständliche manuelle Suchen.'
+      image: '/images/template_page_lagerverwaltung_06.png'
+      image_alt: 'SeaTable No-Code Universal App als Frontend für Lagerverwaltung mit Formularen, KPI-Dashboards und gezielter Bestandsabfrage'
+
+    - name: "banner-3"
+      weight: 12
+      title: 'Die perfekte Alternative zu teurer Lagerverwaltungssoftware – alle Daten immer im Blick'
+      buttons:
+        - label: Jetzt die Lagerverwaltung nutzen
+          link: pages/registration
+          id: de-vorlage-Lagerverwaltung-registration-3
+
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Ihre Lagerverwaltung Software von SeaTable'
+      subtitle: 'Lagerverwaltung online'
+      description: 'Mit der Lagerverwaltungssoftware von SeaTable erfassen Sie alles in einer flexiblen No-Code-Datenbank und behalten stets den Überblick. Dank der integrierten Statistiken können Sie z. B. Lagerumschlagshäufigkeit, Lagerreichweite oder Lagerflächen-Nutzungsgrad in Echtzeit analysieren.'
+      box-position: [right!]
+      items:
+      - headline: Produktivität
+        text: Reduzieren Sie Fehler und steigern Sie Ihre Lieferbereitschaft durch ein optimiertes Lager- und Bestandsmanagement. Die Lagermanagement Vorlage hilft Ihnen, Ressourcen zu steuern, Prozesse zu beschleunigen und Kosten zu senken.
+      - headline: Transparenz
+        text: Mit dieser Vorlage haben Sie alle relevanten Lagerinformationen für alle zugänglich an einem Ort. So vermeiden Sie Missverständnisse und Fehlplanungen. Mit der App werden Informationen übersichtlich dargestellt.
+
+    - name: "faq"
+      weight: 20
+      title: 'FAQs zur Lagerverwaltungssoftware von SeaTable'
+      subtitle: 
+      items:
+      - q: "Welche Vorteile hat SeaTable gegenüber anderen kostenlosen Anbietern?"
+        a: 'Anbieter kostenloser Lager Software oder eine Excel-Vorlage für Lagerverwaltung bieten häufig nur begrenzte Basis-Versionen, oder wachsen nicht mit Ihren Anforderungen mit. SeaTable dagegen bietet bereits im Free Abo alle notwendigen Funktionen für eine effiziente Lagerverwaltung und lässt sich unbegrenzt skalieren.'
+      - q: "Lässt sich SeaTables System zur Lagerverwaltung erweitern?"
+        a: "Passen Sie unsere Vorlage einfach Ihrem Bedarf an: Unsere einfache Lagerverwaltung Software ist nur der Anfang und lässt sich zu jedem Datenmanagement-Anwendungsfall ausbauen, den Sie benötigen."
+      - q: "Für wen eignet sich SeaTable als Lagersoftware?"
+        a: 'SeaTable eignet sich als Lagerverwaltungssoftware speziell für kleine Unternehmen oder Handwerksbetriebe, die Ihr Lager effizienter organisieren möchten und nach einer Alternative zu teurer Spezialsoftware oder einer Lagerverwaltung in Excel suchen.'
+
+
 ---
-
-Behalten Sie stets den Überblick über Ihre Lagerbestände und die Auslastung Ihres Lagerplatzes – ohne teure Spezialsoftware oder eine unübersichtliche Lagerverwaltung in Excel. Mit der Lagersoftware von SeaTable managen Sie Ihr Lager **einfach, schnell, übersichtlich und automatisiert**.
-
-{{< template id="ab96101c9e5b4470a2d2" >}}
-
-## Behalten Sie mit unserer Vorlage für Ihre einfache Lagerverwaltung den Überblick
-
-Ihnen fehlen Echtzeitdaten für aussagkräftige Auswertungen? Jetzt nicht mehr! Oder vermissen Sie ein automatisiertes Benachrichtigungssystem, wenn Lagerbestände kritisch werden? In wenigen Klicks eingerichtet – ohne Programmierkenntnisse oder Mehrkosten! Die einfache **No-Code Lagermanagement Vorlage** von SeaTable bietet
-
-- **Übersicht über alle Produkte** mit Bestand, Einkaufspreis, Lieferzeit etc.
-- **Warenein- und ausgänge**
-- **Lagerort** der Produkte und Auslastung deiner Lager
-- **Dashboards für Echtzeit-Auswertungen** z. B. Lagerumschlagshäufigkeit oder Lagerflächen-Nutzungsgrad
-
-## SeaTable ist Ihre Lagerverwaltung Software, weil ...
-
-- es Ihnen **kollaboratives Arbeiten** an gemeinsamen Daten in Echtzeit ermöglicht – anders als bei einer Lagerverwaltung in Excel.
-- es sich individuell **an Ihre spezifischen Lagersoftware Anforderungen anpassen** lässt – ohne Programmierkenntnisse oder teure Zusatzfunktionen.
-- es **unendlich skalierbar und erweiterbar ist** – machen Sie aus Ihrem Lagermanagement z. B. ein vollwertiges [Supply Chain Management]({{< relref "templates/sales/supply-chain-management" >}}) oder ERP-System.
-- es ausschließlich auf Servern in Deutschland gehostet wird und dadurch **100 % DSGVO-konform** ist.
-- Sie durch **individuelle Nutzerberechtigungen**. entscheiden, wer welche Informationen sehen oder bearbeiten darf.
-- Sie mit SeaTable Server Ihre Lagerverwaltung online **bei Bedarf auch on-premises** nutzen können.
-
-![Einfache Lagerdatensuche](warehouse-enquiry.jpg)
-
-## Lagerverwaltung Software in der Cloud
-
-SeaTable ist eine vollwertige No-Code Datenbanklösung und bietet alle Funktionen integriert an, die für eine moderne Lagerverwaltung in der Cloud benötigt werden. Verknüpfen Sie Ihre Produktdaten mit Ihren Lagerdaten, bauen Sie ein eigenes System zur **Lagerverwaltung mit Frontend**, automatisieren Sie Benachrichtigungen und verbinden Sie Drittanbietersoftware dank **integrierter API** – einfach, schnell und ohne technische Integration.
-
-## Einfache Lagerverwaltung online dank benutzerfreundlicher Oberfläche
-
-SeaTable eignet sich als Lagerverwaltungssoftware speziell für kleine Unternehmen oder Handwerksbetriebe, die Ihr Produkt- oder Materiallager effizienter organisieren möchten und die nach einer **Alternative zur Lagerverwaltung in Excel** suchen oder denen Spezialsoftware zu unflexibel oder teuer ist. Denn SeaTable bietet beides: eine vollwertige, anpassbare und skalierbare Datenbank für verschiedenste Anwendungsfälle und eine Lagerverwaltung App als Frontend.
-
-## Bauen Sie sich mit SeaTable Ihre Lagerverwaltung Software
-
-Unsere Vorlage ermöglicht es Ihnen ein umfassendes System zur Lagerverwaltung mit wenigen Klicks aufzubauen. Da SeaTable vollkommen flexibel anpassbar ist können Sie auch die Vorlage nach Ihrem individuellen Bedarf anpassen und zusätzliche Spalten, Tables, Benachrichtigungen, Automatisierungen, Verknüpfungen u.v.m. hinzufügen – oder um weitere Komponenten wie ein **Lieferantenmanagement** erweitern. Setzen Sie Ihr eigenes System zur Lagerverwaltung um!
-
-![Artikel-Gallerie](stock-gallery.jpg)
-
-### Alle Artikeldaten auf einen Blick
-
-Legen Sie Ihre Produkte und Artikel im Table "Article Master" an und verknüpfen Sie es mit der Table "Warehouses and Capacity", um jederzeit den aktuellen Lagerbestand zu haben. Neue Artikel oder Produkte legen Sie ganz einfach über ein Formular an.
-
-### Warenein- und ausgänge einfach erfassen
-
-Buchen Sie Lagerein- und -ausgänge einfach über ein Formular in der Lagerverwaltung App ein. Erfassen Sie dazu neben dem Bestand und ggf. einer Zustandsbeschreibung auch den Lagerort – z. B. Warenhaus und Lagerort – von dem der Bestand abgebucht werden soll. So bleiben Ihre Lagerdaten jederzeit aktuell!
-
-### Lagerplatzbelegung und Lagerauslastung auf einen Blick
-
-Die Auslastung Ihrer Lagerplätze und Lagerräume erfassen Sie im Table "Warehouses and Capacity". Dieses Table ist mit Ihrer Produktübersicht und dem Warenein- und -ausgang verknüpft. So wissen Sie jederzeit wie viel von welchem Produkt auf welchem Lagerplatz eingelagert ist und können den **Warenumschlag und den Lagerflächen-Nutzungsgrad auswerten** – und so rechtzeitig auf Mehr- oder Minderbedarfe reagieren.
-
-![Lagerverwaltung Statistiken](warehouse-statistics.jpg)
-
-### Integrierte Benachrichtigungen
-
-Ein Artikel wurde falsch eingebucht und nun ist ein Lagerplatz überbucht? Oder der Sicherheitsbestand wurde unterschritten und es muss nachbestellt werden? Nutzen Sie die automatisierten Benachrichtigungen damit kritische Bestandveränderungen in Ihrem Lager nicht mehr übersehen werden.
-
-### Übersichtliche Frontend App für Lagerverwaltung
-
-Nutzen Sie die No-Code Universal App als Lagerverwaltung Online Frontend und erstellen Sie mit wenigen Klicks Formulare, übersichtliche Ansichten oder Dashboards mit relevanten KPI für Ihre Analysen. Die Bestands- und Lagerabfrage bietet **gezielte Bestandsinformationen** zu einzelnen Produkten oder **Belegungsinformationen zu Lagerorten** – ohne umständliche manuelle Suchen.
-
-## Die perfekte Alternative zu teurer Lagerverwaltung Software  
-
-Spezielle Lagerverwaltungssoftware lässt sich oft nur im Rahmen eines größeren Warenwirtschafts- oder ERP-Systems nutzen und wird dadurch schnell teuer. Kostenlose Anbieter sind dagegen oft nicht flexibel genug und es fehlt an wichtigen Kernfuktionen, die für ein effizientes System zur Lagerverwaltung unerlässlich sind. SeaTable überzeugt durch seine Flexibilität und Anpassbarkeit, die es ermöglicht, auch dynamische Prozesse in Ihrer Lagerverwaltungssoftware einfach abzubilden.
-
-- **keine Integrations-Kosten** oder IT-Aufwände
-- **keine Excel-Formel-Kenntnisse notwendig**
-- **einfache Anbindung von Drittanbieter-Tools** durch integrierte API
-- **flexibel und skalierbar**
-
-## FAQ – Lagerverwaltungssoftware
-
-{{< faq "Wie hilft das SeaTable Lagermanagement meinem Unternehmen dabei, produktiver zu werden?" >}}
-Mit der Lagerverwaltungssoftware von SeaTable erfassen Sie alle relevanten Produkt- und Lagerdaten in einer Datenbank. So behalten Sie stets den Überblick über Ihre Lagerbestände, die Lagerorte und die Auslastung Ihrer Warenlager. Dank der integrierten Statistiken können Sie Lagerdaten wie Lagerumschlagshäufigkeit, Lagerreichweite, Durchschnittlicher Lagerbestand oder Lagerflächen-Nutzungsgrad jederzeit in Echtzeit analysieren und Entscheidungen ableiten.
-{{< /faq >}}
-
-{{< faq "Welche Vorteile hat SeaTable gegenüber anderen kostenlosen Anbietern oder als Excel Alternative?" >}}
-Anbieter kostenloser Lager Software oder eine Excel-Vorlage Lagersoftware bieten in der Regel entweder nur begrenzte kostenlose Basis-Versionen, die schnell teuer werden, wenn Ihr Bedarf steigt, oder stellen ein System zur Verfügung, dass nicht mit Ihren Anforderungen wächst. SeaTable dagegen bietet bereits im Free Abo alle notwendigen Funktionen für eine effiziente Lagerverwaltungssoftware. Sie können unbegrenzt skalieren und zahlen für zusätzlichen Kapazitäten oder Features erst, wenn Sie sie brauchen.
-{{< /faq >}}
-
-{{< faq "Lässt sich die Lagerverwaltung Software von SeaTable erweitern?" >}}
-Die Software Lagerverwaltung von SeaTable kann jeden Anwendungsfall abdecken. Möchten Sie Ihre Lagersoftware zu einem vollwertigen Warenwirtschaftssystem erweitern? Ihre komplette Supply Chain managen? Oder vielleicht ein ERP-System aufbauen? Die einfache Lagerverwaltung Software von SeaTable ist nur der Anfang und lässt sich zu jedem Datenmanagement Anwendungsfall ausbauen, den Sie benötigen.
-{{< /faq >}}

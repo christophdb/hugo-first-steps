@@ -6,90 +6,151 @@ url: '/fr/modele/gestion-des-stocks'
 category: 'operations'
 functions:
 seo:
-    title: 'Gestion d’entrepôt : modèle digital et flexible'
-    description: 'Pilotez votre gestion d’entrepôt avec SeaTable : stocks, alertes et automatisation.'
+    title: "Modèle de gestion d'entrepôt : gérer efficacement son entrepôt de manière numérique"
+    description: "Modèle de gestion d'entrepôt : stocks, emplacements, messages automatiques & tableaux de bord - à utiliser maintenant de manière personnalisable avec SeaTable."
 template: 'ab96101c9e5b4470a2d2'
+
+type: pages
+sections:
+    - name: hero-5
+      weight: 1
+      title: "SeaTable - Votre logiciel de gestion d'entrepôt"
+      text: "Gardez toujours une vue d'ensemble de vos stocks, sans avoir recours à un logiciel spécialisé coûteux ou à une gestion d'entrepôt confuse dans Excel. Avec le logiciel d'entrepôt SeaTable, vous gérez votre entrepôt de manière simple, rapide, claire et automatisée."
+      classes:
+          - bg-white
+      template: ab96101c9e5b4470a2d2
+      buttons:
+          - label: Inscrivez-vous gratuitement dès maintenant et utilisez le modèle
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: "Votre logiciel de gestion d'entrepôt dans le cloud"
+      subtitle: Intuitif, flexible, sécurisé
+      text: 
+      items:
+        - icon: 'star-full'
+          headline: 'Central'
+          text: 'Gestion simple des stocks avec un aperçu de tous les produits - y compris le stock, le lieu de stockage et le délai de livraison.'
+        - icon: 'palette'
+          headline: 'Flexibilité'
+          text: 'Personnalisez simplement le modèle en fonction de vos besoins, sans programmation ni connaissances informatiques.'
+        - icon: 'pencil'
+          headline: 'Entrée'
+          text: "Saisissez rapidement et facilement les mouvements de stock à l'aide du formulaire intégré - les erreurs d'enregistrement sont réduites."
+        - icon: 'bell'
+          headline: 'Notifications'
+          text: "Des alertes intégrées permettent d'éviter de tomber en dessous des niveaux de stock minimum, sans aucune intervention manuelle."
+        - icon: 'image'
+          headline: 'Catalogue de produits'
+          text: "Vos produits sont présentés avec une image et des informations pertinentes dans une galerie - pour une meilleure vue d'ensemble."
+        - icon: 'chart-line'
+          headline: 'Application universelle'
+          text: "Utilisez l'application comme frontal de votre logiciel d'entrepôt - avec des formulaires, un tableau de bord d'analyse et des requêtes de stock."
+
+    - name: "customer-1"
+      weight: 4
+      title: "Les plus grandes entreprises du monde font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Téléchargements au cours de la première année de Docker Hub
+      - number: "1.500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4.6"
+        text: "Évaluation sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action - Success stories"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Gestion simple des stocks en ligne avec SeaTable'
+      subtitle: "Application de gestion d'entrepôt"
+      description: "La solution sans code SeaTable convainc par sa flexibilité et son adaptabilité. Ainsi, même les processus dynamiques peuvent être facilement représentés dans votre logiciel de gestion d'entrepôt."
+      items:
+      - text: "Des données à jour : Les changements d'inventaire peuvent être saisis rapidement et sont immédiatement disponibles pour tous."
+      - text: 'Véritable collaboration : travaillez en équipe sur des données, sans délai ni blocage du système.'
+      - text: "Tout simplement évolutif : Votre logiciel d'entrepôt évolue avec vos besoins - sans fonctions supplémentaires coûteuses."
+      - text: "Des intégrations faciles à réaliser : L'API SeaTable permet d'intégrer facilement des fournisseurs tiers tels que des services d'expédition ou des plateformes de commerce électronique."
+      image_position: [left]
+      image: '/images/template_page_lagerverwaltung_01.png'
+      image_alt: "L'application SeaTable pour la gestion d'entrepôt avec solution flexible sans code, saisie de données en temps réel et collaboration en équipe"
+
+    - name: "content-25"
+      weight: 10
+      title: "Construisez votre application de gestion d'entrepôt avec SeaTable"
+      subtitle: 'Gestion des stocks en ligne'
+      items:
+      - headline: "Toutes les données des articles en un coup d'œil"
+        text: "Créez vos produits et articles dans le tableau Article Master et reliez-le au tableau Warehouses and Capacity afin de disposer à tout moment de l'état actuel des stocks. Vous créez facilement de nouveaux articles ou produits à l'aide d'un formulaire."
+        image: '/images/template_page_lagerverwaltung_02.png'
+        image_alt: “Vue d'ensemble des articles SeaTable dans Article Master avec lien vers la table des stocks et formulaire de création de nouveaux produits“
+      - headline: 'Saisir facilement les entrées et sorties de marchandises'
+        text: "Enregistrez les entrées et sorties de stock via un formulaire dans l'application Gestion des stocks. Pour ce faire, saisissez non seulement le stock et, le cas échéant, une description de l'état, mais aussi le lieu de stockage à partir duquel le stock doit être débité. Vos données de stock sont ainsi toujours à jour !"
+        image: '/images/template_page_lagerverwaltung_03.png'
+        image_alt: "Formulaire de saisie des entrées et sorties de marchandises dans l'application de gestion d'entrepôt SeaTable, avec informations sur le stock, l'état et le lieu de stockage"
+      - headline: "Aperçu de l'occupation et de l'utilisation des emplacements de stockage."
+        text : "Reliez l'occupation et l'utilisation des emplacements de stockage à votre aperçu des produits et aux entrées et sorties de marchandises. Vous pouvez ainsi évaluer non seulement la rotation des marchandises, mais aussi le taux d'utilisation de l'espace de stockage - et réagir ainsi à temps en cas de besoin accru ou réduit."
+        image: '/images/template_page_lagerverwaltung_04.png'
+        image_alt: "Aperçu de l'occupation des emplacements et de l'utilisation de l'entrepôt dans SeaTable, lié au stock de produits et aux entrées/sorties de marchandises"
+      - headline: 'Notifications intégrées'
+        text: "Un emplacement est surréservé ? Le stock de sécurité n'est plus atteint et il faut le réapprovisionner ? Utilisez les notifications automatisées pour ne plus négliger les changements de stock critiques."
+        image: '/images/template_page_lagerverwaltung_05.png'
+        image_alt: “Application de gestion d'entrepôt SeaTable avec alertes automatisées en cas de surréservation et de stock de sécurité insuffisant“
+
+    - name: "content-6"
+      weight: 15
+      classes:
+        - curved
+        - bg-gray-100
+      title: "Application frontale claire pour la gestion d'entrepôt"
+      subtitle: 
+      items:
+      - text: "Utilisez l'application universelle No-Code comme frontal de gestion d'entrepôt en ligne et créez en quelques clics des formulaires, des vues claires ou des tableaux de bord avec des KPI pertinents pour vos analyses. La consultation des stocks et des entrepôts fournit des informations ciblées sur des produits individuels ou des informations d'occupation sur les emplacements de stockage - sans recherches manuelles fastidieuses."
+      image: '/images/template_page_lagerverwaltung_06.png'
+      image_alt: “Application universelle SeaTable No-Code en tant que frontal pour la gestion d'entrepôt avec formulaires, tableaux de bord KPI et consultation ciblée des stocks“
+
+    - name: "banner-3"
+      weight: 12
+      title: "L'alternative parfaite aux logiciels de gestion d'entrepôt onéreux - toutes les données toujours en vue"
+      buttons:
+        - label: Utilisez maintenant la gestion des stocks
+          link: pages/registration
+          id: fr-vorlage-Lagerverwaltung-registration-3
+
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: "Votre logiciel de gestion d'entrepôt par SeaTable"
+      subtitle: 'Gestion des stocks en ligne'
+      description: "Le logiciel de gestion d'entrepôt SeaTable vous permet de tout enregistrer dans une base de données no code flexible et de garder une vue d'ensemble. Grâce aux statistiques intégrées, vous pouvez par exemple analyser en temps réel le taux de rotation des stocks, la couverture des stocks ou le taux d'utilisation de l'espace de stockage."
+      box-position: [right!]
+      items:
+      - headline: Productivité
+        text: Réduisez les erreurs et augmentez la disponibilité de vos livraisons grâce à une gestion optimisée des stocks et des entrepôts. Le modèle de gestion d'entrepôt vous aide à gérer les ressources, à accélérer les processus et à réduire les coûts.
+      - headline: Transparence
+        text: Ce modèle vous permet de disposer de toutes les informations pertinentes sur l'entrepôt, accessibles à tous et au même endroit. Vous évitez ainsi les malentendus et les erreurs de planification. Grâce à l'application, les informations sont présentées de manière claire.
+
+    - name: "faq"
+      weight: 20
+      title: "FAQ sur le logiciel de gestion d'entrepôt SeaTable"
+      subtitle: 
+      items:
+      - q: "Quels sont les avantages de SeaTable par rapport aux autres fournisseurs de services gratuits ?"
+        a: "Les fournisseurs de logiciels gratuits de gestion d'entrepôt ou de modèles Excel de gestion d'entrepôt ne proposent souvent que des versions de base limitées ou n'évoluent pas avec vos besoins. En revanche, SeaTable offre toutes les fonctionnalités nécessaires à une gestion d'entrepôt efficace dès l'abonnement gratuit et peut évoluer indéfiniment."
+      - q: "Le système SeaTable peut-il être étendu à la gestion des stocks ?"
+        a: "Il vous suffit de personnaliser notre modèle en fonction de vos besoins : Notre logiciel de gestion d'entrepôt simple n'est qu'un début et peut être étendu à tout cas d'utilisation de gestion de données dont vous avez besoin."
+      - q: "À qui s'adresse le logiciel de gestion d'entrepôt SeaTable ?"
+        a: "SeaTable est un logiciel de gestion d'entrepôt spécialement conçu pour les petites entreprises ou les artisans qui souhaitent organiser leur entrepôt de manière plus efficace et qui recherchent une alternative aux logiciels spécialisés coûteux ou à la gestion d'entrepôt dans Excel."
+
+
 ---
-
-Gardez toujours une vue d'ensemble de vos stocks et de l'utilisation de votre espace de stockage - sans logiciel spécialisé coûteux ou gestion d'entrepôt confuse dans Excel. Avec le logiciel d'entrepôt de SeaTable, vous gérez votre entrepôt **de manière simple, rapide, claire et automatisée**.
-
-{{< template id="ab96101c9e5b4470a2d2" >}}
-
-## Gardez le contrôle grâce à notre modèle de gestion d'entrepôt simple
-
-Vous manquez de données en temps réel pour obtenir des analyses pertinentes ? Ce n'est plus le cas ! Ou vous manque-t-il un système de notification automatisé lorsque les niveaux de stock deviennent critiques ? Configuré en quelques clics - sans connaissances en programmation ni coûts supplémentaires ! Le modèle de gestion d'entrepôt simple **Non-Code** de SeaTable offre
-
-- **Un aperçu de tous les produits** avec le stock, le prix d'achat, le délai de livraison, etc.
-- **Entrées et sorties de marchandises**.
-- **emplacement** des produits et taux d'occupation de vos entrepôts
-- **Des tableaux de bord pour des analyses en temps réel** comme le taux de rotation des stocks ou le taux d'utilisation de l'espace de stockage.
-
-## SeaTable est votre logiciel de gestion d'entrepôt parce que ...
-
-- il vous permet de **travailler en collaboration** sur des données partagées en temps réel, contrairement à une gestion d'entrepôt sous Excel.
-- il est personnalisable **en fonction de vos besoins spécifiques en matière de logiciel de gestion d'entrepôt**, sans nécessiter de connaissances en programmation ou de fonctions supplémentaires coûteuses.
-- il est **évolutif et extensible à l'infini** - faites de votre système de gestion d'entrepôt un [Supply Chain Management]({{< relref "templates/sales/supply-chain-management" >}}) ou un système ERP à part entière, par exemple.
-- il est hébergé exclusivement sur des serveurs en Allemagne et est donc **100% conforme au RGPD**.
-- Vous décidez qui peut voir ou modifier quelles informations grâce à des **autorisations d'utilisateurs personnalisées**.
-- SeaTable Server vous permet d'utiliser votre système de gestion d'entrepôt en ligne **et sur site si nécessaire**.
-
-![Recherche simple de données d'entrepôt](warehouse-enquiry.jpg)
-
-## Logiciel de gestion d'entrepôt dans le cloud
-
-SeaTable est une solution de base de données No-Code à part entière et offre toutes les fonctionnalités intégrées nécessaires à une gestion d'entrepôt moderne dans le cloud. Reliez vos données de produits à vos données d'entrepôt, construisez votre propre système de **gestion d'entrepôt avec front-end**, automatisez les notifications et connectez-vous à des logiciels tiers grâce à **l'API intégrée** - c'est simple, rapide et sans intégration technique.
-
-## Gestion d'entrepôt en ligne facile grâce à une interface conviviale
-
-SeaTable est un logiciel de gestion d'entrepôt spécialement conçu pour les petites entreprises ou les artisans qui souhaitent organiser plus efficacement leur stock de produits ou de matériaux et qui recherchent une **alternative à la gestion d'entrepôt dans Excel** ou qui trouvent les logiciels spécialisés trop rigides ou trop chers. En effet, SeaTable offre les deux : une base de données complète, personnalisable et évolutive pour différents cas d'utilisation et une application frontale de gestion d'entrepôt.
-
-## Construisez votre logiciel de gestion d'entrepôt avec SeaTable
-
-Notre modèle vous permet de construire un système de gestion d'entrepôt complet en quelques clics. Étant donné que SeaTable est entièrement personnalisable, vous pouvez également adapter le modèle à vos propres besoins en ajoutant des colonnes, des tableaux, des notifications, des automatismes, des liens et bien plus encore - ou en ajoutant d'autres composants tels qu'une **gestion des fournisseurs**. Mettez en place votre propre système de gestion d'entrepôt !
-
-![Galerie d'articles](stock-gallery.jpg)
-
-### Toutes les données des articles en un coup d'œil
-
-Créez vos produits et articles dans le tableau "Article Master" et reliez-le au tableau "Warehouses and Capacity" pour avoir à tout moment l'état actuel de votre stock. Créez facilement de nouveaux articles ou produits via un formulaire.
-
-### Saisie facile des entrées et sorties de marchandises
-
-Enregistrez facilement les entrées et sorties de stock via un formulaire dans l'application de gestion des stocks. Pour ce faire, saisissez le stock et, le cas échéant, une description de l'état, ainsi que le lieu de stockage - par exemple, le magasin et l'entrepôt - à partir duquel le stock doit être débité. Vos données de stock sont ainsi toujours à jour !
-
-### Aperçu de l'occupation des emplacements et de l'utilisation des stocks
-
-Vous saisissez l'utilisation de vos emplacements et espaces de stockage dans le tableau "Warehouses and Capacity". Ce tableau est lié à votre aperçu des produits et aux entrées et sorties de marchandises. Vous savez ainsi à tout moment quelle quantité de tel ou tel produit est stockée dans tel ou tel emplacement et vous pouvez évaluer **la rotation des marchandises et le taux d'utilisation de l'espace de stockage** - et ainsi réagir à temps en cas de besoin accru ou réduit.
-
-![Statistiques de gestion d'entrepôt](warehouse-statistics.jpg)
-
-### Notifications intégrées
-
-Un article a été mal enregistré et un emplacement est maintenant surréservé ? Ou le stock de sécurité n'a pas été atteint et un réapprovisionnement est nécessaire ? Utilisez les notifications automatisées pour ne plus manquer les changements de stock critiques dans votre entrepôt.
-
-### Application frontale claire pour la gestion d'entrepôt
-
-Utilisez l'application universelle No-Code comme frontal de gestion d'entrepôt en ligne et créez en quelques clics des formulaires, des vues claires ou des tableaux de bord avec des KPI pertinents pour vos analyses. La consultation des stocks et des entrepôts fournit des **informations ciblées sur les stocks** pour des produits individuels ou des **informations sur l'occupation des emplacements** - sans recherches manuelles fastidieuses.
-
-## L'alternative parfaite aux logiciels de gestion d'entrepôt coûteux
-
-Les logiciels de gestion d'entrepôt spécialisés ne peuvent souvent être utilisés que dans le cadre d'un système de gestion des marchandises ou d'un système ERP plus important, ce qui les rend rapidement coûteux. Les fournisseurs gratuits manquent souvent de flexibilité et de fonctions clés essentielles à un système de gestion d'entrepôt efficace. SeaTable convainc par sa flexibilité et son adaptabilité, qui permettent de reproduire facilement des processus dynamiques dans votre logiciel de gestion d'entrepôt.
-
-- **Pas de coûts d'intégration** ni d'efforts informatiques.
-- **Pas besoin de connaître les formules Excel**.
-- **facile à connecter à des outils tiers** grâce à l'API intégrée.
-- **flexible et évolutif**
-
-## FAQ - Logiciel de gestion d'entrepôt
-
-{{< faq "Comment la gestion d'entrepôt SeaTable aide-t-elle mon entreprise à être plus productive ?" >}}
-Avec le logiciel de gestion d'entrepôt SeaTable, vous enregistrez toutes les données pertinentes sur les produits et les stocks dans une seule base de données. Vous gardez ainsi en permanence une vue d'ensemble de vos stocks, des emplacements de stockage et de l'utilisation de vos entrepôts. Grâce aux statistiques intégrées, vous pouvez analyser à tout moment et en temps réel des données d'entrepôt telles que le taux de rotation des stocks, la couverture des stocks, le stock moyen ou le taux d'utilisation de l'espace de stockage, et prendre des décisions en conséquence.
-{{< /faq >}}
-
-{{< faq "Quels sont les avantages de SeaTable par rapport à d'autres fournisseurs gratuits ou comme alternative à Excel ?" >}}
-Les fournisseurs de logiciels d'entrepôt gratuits ou de modèles Excel de logiciels d'entrepôt proposent généralement des versions de base gratuites limitées qui deviennent rapidement coûteuses à mesure que vos besoins augmentent, ou fournissent un système qui n'évolue pas avec vos besoins. SeaTable, en revanche, offre toutes les fonctionnalités nécessaires à un logiciel de gestion d'entrepôt efficace dès son abonnement gratuit. Vous pouvez évoluer de manière illimitée et ne payez pour des capacités ou des fonctionnalités supplémentaires que lorsque vous en avez besoin.
-{{< /faq >}}
-
-{{< faq "Le logiciel de gestion d'entrepôt SeaTable peut-il être étendu ?" >}}
-Le logiciel de gestion d'entrepôt de SeaTable peut couvrir n'importe quel cas d'utilisation. Vous souhaitez étendre votre logiciel d'entrepôt pour en faire un système de gestion des stocks à part entière ? Gérer l'ensemble de votre chaîne d'approvisionnement ? Ou peut-être mettre en place un système ERP ? Le simple logiciel de gestion d'entrepôt de SeaTable n'est qu'un début et peut être étendu à tous les cas d'utilisation de gestion de données dont vous avez besoin.
-{{< /faq >}}

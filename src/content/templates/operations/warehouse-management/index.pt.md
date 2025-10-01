@@ -6,90 +6,151 @@ url: '/pt/modelo/gestao-de-armazens'
 category: 'operations'
 functions:
 seo:
-    title: 'Gestão de armazém: modelo simples e digital'
-    description: 'Controle seus estoques com a solução de gestão de armazém digital da SeaTable.'
+    title: 'Modelo de gestão de armazéns: gestão digital eficiente de armazéns'
+    description: 'Modelo para gestão de armazéns: stocks, locais de armazenamento, mensagens automáticas e painéis de controlo - agora personalizável com o SeaTable.'
 template: 'ab96101c9e5b4470a2d2'
+
+type: pages
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'SeaTable - O seu software de gestão de armazéns'
+      text: 'Mantenha uma visão geral dos seus níveis de stock em qualquer altura - sem software especializado dispendioso ou gestão de armazém confusa em Excel. Com o software de armazém da SeaTable, pode gerir o seu armazém de forma fácil, rápida, clara e automática.'
+      classes:
+          - bg-white
+      template: ab96101c9e5b4470a2d2
+      buttons:
+          - label: Registe-se agora gratuitamente e utilize o modelo
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'O seu software de gestão de armazéns na nuvem'
+      subtitle: Intuitivo, flexível, seguro
+      text: 
+      items:
+        - icon: 'star-full'
+          headline: 'Central'
+          text: 'Gestão simples do armazém com uma visão geral de todos os produtos - incluindo stock, local de armazenamento e tempo de entrega.'
+        - icon: 'palette'
+          headline: 'Flexibilidade'
+          text: 'Basta personalizar o modelo de acordo com as suas necessidades - sem qualquer esforço de programação ou conhecimentos de TI.'
+        - icon: 'pencil'
+          headline: 'Entrada'
+          text: 'Registe os movimentos de mercadorias de forma rápida e fácil utilizando o formulário integrado - os erros de registo são reduzidos.'
+        - icon: 'bell'
+          headline: 'Notificações'
+          text: 'As notificações integradas impedem que os níveis de stock desçam abaixo dos níveis mínimos - sem qualquer esforço manual.' 
+        - icon: 'image'
+          headline: 'Catálogo de produtos'
+          text: 'Os seus produtos são apresentados com imagens e informações relevantes numa galeria - para uma melhor visão geral.'
+        - icon: 'chart-line'
+          headline: 'Aplicação universal'
+          text: 'Utilize a aplicação como um front end para o seu software de armazém - com formulários, painel de análise e consultas de stock.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "As empresas líderes a nível mundial confiam no SeaTable"
+      subtitle: "Quem utiliza o SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads no primeiro ano do Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários no SeaTable Cloud"
+      - number: "4.6"
+        text: "Classificação em Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em utilização - histórias de sucesso"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Gestão simples de armazéns em linha com o SeaTable'
+      subtitle: 'Aplicação para gestão de armazéns'
+      description: 'A solução SeaTable no-code impressiona pela sua flexibilidade e personalização. Isto significa que mesmo os processos dinâmicos podem ser facilmente mapeados no seu software de gestão de armazém.'
+      items:
+      - text: 'Dados actualizados: As alterações de stock podem ser introduzidas rapidamente e ficam imediatamente disponíveis para todos.'
+      - text: 'Colaboração real: trabalhe em conjunto com os dados como uma equipa - sem atrasos ou falhas no sistema.'
+      - text: 'Simplesmente escalável: O seu software de armazém cresce com as suas necessidades - sem funções adicionais dispendiosas.'
+      - text: 'Integrações simples: Com a API SeaTable, pode integrar facilmente fornecedores terceiros, tais como fornecedores de serviços de transporte ou plataformas de comércio eletrónico.'
+      image_position: [left]
+      image: '/images/template_page_lagerverwaltung_01.png'
+      image_alt: 'Aplicação SeaTable para gestão de armazéns com solução flexível sem código, introdução de dados em tempo real e colaboração entre equipas.'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Crie a sua aplicação de gestão de armazéns com o SeaTable'
+      subtitle: 'Gestão de armazéns em linha'
+      items:
+      - headline: 'Todos os dados do artigo num relance'
+        text: 'Crie os seus produtos e artigos na tabela "Mestre de artigos" e ligue-a à tabela "Armazéns e capacidade" para ter sempre o nível de stock atual. Pode criar facilmente novos artigos ou produtos utilizando um formulário.'
+        image: '/images/template_page_lagerverwaltung_02.png'
+        image_alt: 'Vista geral do artigo SeaTable no Mestre de Artigos com ligação à tabela de stocks e formulário para criar novos produtos'
+      - headline: 'Registe facilmente as entradas e saídas de mercadorias'
+        text: 'Registe as entradas e saídas de mercadorias através de um formulário na aplicação de gestão de armazém. Para além do stock e, se aplicável, de uma descrição do estado, introduza também o local de armazenamento a partir do qual o stock deve ser debitado. Isto mantém os dados do seu armazém sempre actualizados!'
+        image: '/images/template_page_lagerverwaltung_03.png'
+        image_alt: 'Formulário para registar as entradas e saídas de mercadorias na aplicação de gestão de armazém SeaTable, com informações sobre o stock, o estado e o local de armazenamento'
+      - headline: 'Visão geral da ocupação das posições no depósito e da utilização do armazém'
+        text: 'Ligue a ocupação e a utilização do local de armazenamento à sua visão geral de produtos e às entradas e saídas de mercadorias. Para além da rotação de mercadorias, também pode analisar a taxa de utilização do espaço de armazenamento - e assim reagir atempadamente a necessidades excessivas ou reduzidas.'
+        image: '/images/template_page_lagerverwaltung_04.png'
+        image_alt: 'Síntese da ocupação das posições no depósito e da utilização do armazém no SeaTable, associada ao stock de produtos e às entradas e saídas de mercadorias'
+      - headline: 'Notificações integradas'
+        text: 'Uma posição de armazenamento está sobrelotada? O stock de segurança foi reduzido e precisa de ser reordenado? Utilize notificações automáticas para que as alterações críticas de stock não passem despercebidas.'
+        image: '/images/template_page_lagerverwaltung_05.png'
+        image_alt: 'Aplicação de gestão de armazém SeaTable com notificações automáticas em caso de sobre-reserva e de ficar abaixo do nível de stock de segurança'
+
+    - name: "content-6"
+      weight: 15
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'Aplicação front-end clara para gestão de armazéns'
+      subtitle: 
+      items:
+      - text: 'Utilize a aplicação universal sem código como um front end online de gestão de armazém e crie formulários, visualizações claras ou painéis de controlo com KPIs relevantes para as suas análises com apenas alguns cliques. A consulta de stocks e armazéns fornece informações específicas sobre produtos individuais ou informações de ocupação sobre locais de armazenamento - sem necessidade de pesquisas manuais complicadas.'
+      image: '/images/template_page_lagerverwaltung_06.png'
+      image_alt: 'SeaTable No-Code Universal App como front end para a gestão do armazém com formulários, painéis de KPI e consultas de stock específicas'
+
+    - name: "banner-3"
+      weight: 12
+      title: 'A alternativa perfeita ao dispendioso software de gestão de armazéns - todos os dados sempre à vista'
+      buttons:
+        - label: Utilize a gestão de armazéns agora
+          link: pages/registration
+          id: pt-vorlage-Lagerverwaltung-registration-3
+
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'O seu software de gestão de armazéns da SeaTable'
+      subtitle: 'Gestão de armazéns em linha'
+      description: 'Com o software de gestão de armazéns SeaTable, pode registar tudo numa base de dados flexível e sem código e ter sempre uma visão geral. Graças às estatísticas integradas, pode analisar, por exemplo, a taxa de rotação das existências, o intervalo de armazenamento ou a taxa de utilização do espaço de armazenamento em tempo real.'
+      box-position: [right!]
+      items:
+      - headline: Produtividade
+        text: Reduza os erros e aumente a sua capacidade de entrega através de uma gestão optimizada do armazém e do inventário. O modelo de gestão de armazém ajuda-o a controlar os recursos, a acelerar os processos e a reduzir os custos.
+      - headline: Transparência
+        text: Com este modelo, tem todas as informações relevantes sobre o armazém acessíveis a todos num único local. Isto ajuda-o a evitar mal-entendidos e erros de planeamento. A aplicação apresenta as informações de forma clara.
+
+    - name: "faq"
+      weight: 20
+      title: 'Perguntas frequentes sobre o software de gestão de armazéns da SeaTable'
+      subtitle: 
+      items:
+      - q: "Que vantagens tem o SeaTable em relação a outros fornecedores gratuitos?"
+        a: 'Os fornecedores de software de armazém gratuito ou de um modelo Excel para a gestão de armazéns oferecem frequentemente apenas versões básicas limitadas ou não crescem de acordo com as suas necessidades. O SeaTable, por outro lado, já oferece todas as funções necessárias para uma gestão de armazém eficiente na subscrição gratuita e pode ser expandido indefinidamente.'
+      - q: "O sistema SeaTable pode ser alargado à gestão de armazéns?"
+        a: "Basta personalizar o nosso modelo para o adaptar às suas necessidades: O nosso software simples de gestão de armazéns é apenas o início e pode ser alargado a qualquer caso de utilização de gestão de dados de que necessite."
+      - q: "Para quem é que o SeaTable é adequado como software de armazém?"
+        a: 'O SeaTable é particularmente adequado como software de gestão de armazém para pequenas empresas ou empresas artesanais que pretendam organizar o seu armazém de forma mais eficiente e que procurem uma alternativa a software especial dispendioso ou à gestão de armazém em Excel.'
+
+
 ---
-
-Mantenha sempre uma visão geral dos seus níveis de stock e da utilização do seu espaço de armazenamento - sem software especial dispendioso ou uma gestão de armazém confusa em Excel. Com o software de armazém da SeaTable, pode gerir o seu armazém de forma **simples, rápida, clara e automática**.
-
-{{< template id="ab96101c9e5b4470a2d2" >}}
-
-## Mantenha uma visão geral com o nosso modelo para a gestão simples do seu armazém
-
-Está a perder dados em tempo real para avaliações significativas? Já não precisa! Ou sente falta de um sistema de notificação automática quando os níveis de stock se tornam críticos? Configure-o em apenas alguns cliques - sem conhecimentos de programação ou custos adicionais! O simples **modelo de gestão de armazém sem código** da SeaTable oferece-lhe
-
-- **Visão geral de todos os produtos** com stock, preço de compra, prazo de entrega, etc.
-- **Entrada e saída de mercadorias**
-- **Localização de armazenamento** dos produtos e utilização dos seus armazéns
-- **Painéis de controlo para avaliações em tempo real**, por exemplo, taxa de rotação de stocks ou taxa de utilização do espaço de armazenamento
-
-## O SeaTable é o seu software de gestão de armazéns porque ...
-
-- permite-lhe trabalhar **colaborativamente** em dados partilhados em tempo real - ao contrário da gestão de armazéns em Excel.
-- pode ser **personalizado** individualmente de acordo com os requisitos específicos do seu software de armazém - sem conhecimentos de programação ou funções adicionais dispendiosas.
-- é **infinitamente escalável e expansível** - transforme a sua gestão de armazém num sistema completo de [gestão da cadeia de fornecimento]({{< relref "templates/sales/supply-chain-management" >}}) ou ERP, por exemplo.
-- está alojado exclusivamente em servidores na Alemanha e, por conseguinte, está **100% em conformidade com o RGPD**.
-- pode decidir quem pode ver ou editar que informação através de **autorizações individuais de utilizador**.
-- com o SeaTable Server pode utilizar a sua gestão de armazém online **se necessário também no local**.
-
-![Pesquisa simples de dados de armazém](warehouse-enquiry.jpg)
-
-## Software de gestão de armazéns na nuvem
-
-O SeaTable é uma solução completa de base de dados sem código e oferece todas as funções integradas necessárias para a gestão moderna de armazéns na nuvem. Ligue os dados dos seus produtos aos dados do seu armazém, crie o seu próprio sistema de **gestão de armazém com front end**, automatize as notificações e ligue software de terceiros graças à **API integrada** - de forma fácil, rápida e sem integração técnica.
-
-## Gestão fácil do armazém online graças à interface de fácil utilização
-
-O SeaTable é particularmente adequado como software de gestão de armazém para pequenas empresas ou empresas artesanais que pretendem organizar o seu armazém de produtos ou materiais de forma mais eficiente e procuram uma **alternativa à gestão de armazém em Excel** ou para quem um software especial é demasiado inflexível ou dispendioso. O SeaTable oferece ambos: uma base de dados completa, personalizável e escalável para uma vasta gama de aplicações e uma aplicação de gestão de armazém como front end.
-
-## Crie o seu próprio software de gestão de armazéns com o SeaTable
-
-O nosso modelo permite-lhe construir um sistema de gestão de armazém abrangente com apenas alguns cliques. Uma vez que o SeaTable é completamente personalizável, também pode adaptar o modelo às suas necessidades individuais e adicionar colunas, tabelas, notificações, automatizações, ligações e muito mais - ou ampliá-lo com componentes adicionais, tais como **gestão de fornecedores**. Implemente o seu próprio sistema de gestão de armazéns!
-
-![Article-Gallery](stock-gallery.jpg)
-
-### Todos os dados do artigo num relance
-
-Crie os seus produtos e artigos na tabela "Mestre de artigos" e ligue-a à tabela "Armazéns e capacidade" para ter sempre o nível de stock atual. Pode criar facilmente novos artigos ou produtos utilizando um formulário.
-
-### Registe facilmente as entradas e saídas de mercadorias
-
-Introduza simplesmente as entradas e saídas de mercadorias através de um formulário na aplicação de gestão de armazém. Para além do stock e, se necessário, de uma descrição do estado, introduza também o local de armazenamento - por exemplo, armazém e local de armazenamento - a partir do qual o stock deve ser registado. Isto mantém os dados do seu armazém sempre actualizados!
-
-### Veja rapidamente a ocupação das posições no depósito e a utilização do armazém
-
-Registe a utilização dos seus locais de armazenamento e salas de armazenamento na tabela "Armazéns e capacidade". Esta tabela está ligada à sua visão geral de produtos e às entradas e saídas de mercadorias. Isto significa que sabe sempre quanto de cada produto está armazenado em cada posição no depósito e pode avaliar o **volume de mercadorias e a taxa de utilização do espaço de armazenamento** - e assim reagir atempadamente a necessidades excessivas ou reduzidas.
-
-![Estatísticas de gestão de armazém](warehouse-statistics.jpg)
-
-### Notificações integradas
-
-Um artigo foi registado incorretamente e agora uma posição no armazém está sobrelotada? Ou o stock de segurança não foi atingido e precisa de fazer uma nova encomenda? Utilize as notificações automáticas para que as alterações críticas de stock no seu armazém não passem despercebidas.
-
-### Aplicação de front-end clara para gestão de armazéns
-
-Utilize a aplicação universal sem código como um front-end online de gestão de armazém e crie formulários, vistas claras ou painéis de controlo com KPIs relevantes para as suas análises com apenas alguns cliques. A consulta de stock e armazém fornece **informações de stock direcionadas** sobre produtos individuais ou **informações de ocupação em locais de armazenamento** - sem pesquisas manuais complicadas.
-
-## A alternativa perfeita ao dispendioso software de gestão de armazéns
-
-Muitas vezes, o software especializado de gestão de armazéns só pode ser utilizado como parte de um sistema de gestão de mercadorias ou ERP de maior dimensão e, por isso, torna-se rapidamente dispendioso. Os fornecedores gratuitos, por outro lado, muitas vezes não são suficientemente flexíveis e carecem de importantes funções essenciais para um sistema de gestão de armazém eficiente. O SeaTable impressiona pela sua flexibilidade e capacidade de personalização, o que facilita o mapeamento de processos dinâmicos no seu software de gestão de armazém.
-
-- **Sem custos de integração** ou esforço de TI
-- **não necessita de conhecimentos de fórmulas Excel**
-- **fácil ligação de ferramentas de terceiros** através da API integrada
-- **flexível e escalável**
-
-## FAQ - Software de gestão de armazéns
-
-{{< faq "Como é que a gestão de armazéns SeaTable ajuda a minha empresa a tornar-se mais produtiva?" >}}
-Com o software de gestão de armazém da SeaTable, pode registar todos os dados relevantes do produto e do armazém numa base de dados. Isto significa que tem sempre uma visão geral dos seus níveis de stock, locais de armazenamento e utilização da capacidade do armazém. Graças às estatísticas integradas, pode analisar os dados do armazém, como a taxa de rotação do inventário, o intervalo de armazenamento, o nível médio de stock ou a taxa de utilização do espaço de armazenamento, em qualquer altura e em tempo real, e tomar decisões.
-{{< /faq >}}
-
-{{< faq "Que vantagens tem o SeaTable em relação a outros fornecedores gratuitos ou como alternativa ao Excel?" >}}
-Os fornecedores de software de armazém gratuito ou de um modelo de software de armazém em Excel geralmente oferecem apenas versões básicas gratuitas e limitadas, que rapidamente se tornam caras à medida que as suas necessidades aumentam, ou fornecem um sistema que não cresce com as suas necessidades. O SeaTable, por outro lado, oferece todas as funções necessárias para um software de gestão de armazém eficiente, mesmo com uma subscrição gratuita. Pode escalar indefinidamente e só pagar por capacidade ou funcionalidades adicionais quando precisar delas.
-{{< /faq >}}
-
-{{< faq "O software de gestão de armazéns do SeaTable pode ser expandido?" >}}
-O software de gestão de armazéns da SeaTable pode abranger qualquer caso de utilização. Gostaria de expandir o seu software de armazém para um sistema de gestão de inventário completo? Gerir toda a sua cadeia de fornecimento? Ou talvez configurar um sistema ERP? O software simples de gestão de armazéns da SeaTable é apenas o começo e pode ser alargado a qualquer caso de utilização de gestão de dados de que necessite.
-{{< /faq >}}
