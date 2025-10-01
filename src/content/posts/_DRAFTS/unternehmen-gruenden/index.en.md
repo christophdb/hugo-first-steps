@@ -44,7 +44,7 @@ Damit aus einer Geschäftsidee ein funktionierendes Unternehmen wird, braucht es
 
 Ebenso entscheidend sind die Einnahmequellen und die passende Preisstrategie, denn sie bilden die Grundlage für die Wirtschaftlichkeit. Über welche Kanäle Sie Ihr Angebot vertreiben und wie Sie langfristig Kundenbeziehungen aufbauen, rundet das Modell ab. So entsteht ein klares Bild davon, wie Ihr Unternehmen Mehrwert schafft und sich am Markt behauptet.
 
-![Text](geschäftsmodell_entwickeln.jpg)
+![Text](geschaeftsmodell_entwickeln.jpg)
 
 ## Businessplan erstellen
 
