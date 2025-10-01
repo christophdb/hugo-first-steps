@@ -1,11 +1,11 @@
 ---
-title: 'AI powered automations: Das Highlight von SeaTable Cloud v6.0'
-description: 'Mit SeaTable 6.0 halten AI powered automations Einzug in die Cloud. Profitieren Sie von intelligenter Prozessautomatisierung, voller DSGVO-Konformität und maximaler Datensouveränität dank eigenem KI-Server in Deutschland.'
+title: 'KI unterstützte Automationen: Das Highlight von SeaTable Cloud v6.0'
+description: 'Mit SeaTable 6.0 halten KI unterstützte Automationen Einzug in die Cloud. Profitieren Sie von intelligenter Prozessautomatisierung, voller DSGVO-Konformität und maximaler Datensouveränität dank eigenem KI-Server in Deutschland.'
 date: '2025-09-30'
 url: '/ki-automationen-datenschutz'
 seo:
-    title: 'KI made in Europe: SeaTable bringt sichere AI powered automations in die Cloud'
-    description: 'Erleben Sie mit SeaTable 6.0 sichere AI powered automations in der Cloud. Unsere Lösung vereint modernste KI-Technologie mit europäischem Datenschutz – betrieben auf eigenem KI-Server in Deutschland.'
+    title: 'KI made in Europe: SeaTable bringt sichere KI unterstützte Automationen in die Cloud'
+    description: 'Erleben Sie mit SeaTable 6.0 sichere KI gestützte Automationen in der Cloud. Unsere Lösung vereint modernste KI-Technologie mit europäischem Datenschutz – betrieben auf eigenem KI-Server in Deutschland.'
 categories:
     - 'product-features'
 tags:
@@ -16,7 +16,9 @@ tags:
 color: '#f2d1e3'
 ---
 
-Der 1. September 2025 markiert für uns bei SeaTable einen besonderen Moment: Die Veröffentlichung von Version 6.0. Und diese Version hat es in sich. Mit den neuen **AI powered automations** schlagen wir ein ganz neues Kapitel auf – eines, das den Arbeitsalltag in Unternehmen spürbar verändern wird.
+Der 1. Oktober 2025 markiert für uns bei SeaTable einen besonderen Moment: Die Veröffentlichung von Version 6.0. Und diese Version hat es in sich. Mit den neuen **KI unterstützten Automationen** schlagen wir ein ganz neues Kapitel auf – eines, das den Arbeitsalltag in Unternehmen spürbar verändern wird.
+
+{{< info-box headline="Gestaffelte Veröffentlichung" text="SeaTable 6.0 steht ab heute (01.10.2025) für alle Self-Hoster auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download zur Verfügung. SeaTable Cloud werden wir **Mitte Oktober** auf die Version 6.0 aktualisieren." />}}
 
 Denn Automationen waren schon immer ein Kernstück von SeaTable. Sie helfen dabei, wiederkehrende Prozesse zu standardisieren und Abläufe einfacher zu machen. Aber jetzt gehen wir den entscheidenden Schritt weiter: Wir kombinieren unsere Automationen mit künstlicher Intelligenz (=KI). Plötzlich können Prozesse nicht nur _automatisiert_, sondern auch _intelligent_ gesteuert werden. Rechnungen, die automatisch in Tabellen eingetragen werden, E-Mails, die nach Inhalt sortiert und weitergeleitet werden, oder lange Texte, die in Sekundenschnelle auf das Wesentliche reduziert werden – all das wird nun Realität in SeaTable.
 
@@ -47,7 +49,7 @@ Und die Leistung kann sich sehen lassen:
 | ------------------ | -------------------------------------------------------- |
 | Token-Durchsatz    | 1.200-2.000 Tokens/Sekunde                               |
 | Parallele Anfragen | 5-10 gleichzeitig                                        |
-| Antwortzeiten      | 1-3 Sekunden pro Anfrage                                 |
+| Antwortzeiten      | ~5 Sekunden                                              |
 
 Schnell, effizient und stabil genug, um echten Mehrwert im täglichen Betrieb zu bringen.
 
@@ -66,7 +68,7 @@ Alle Funktionen sind so gestaltet, dass sie auch für KI-Neulinge problemlos nut
 
 ## Verfügbarkeit und Ausblick
 
-Mit **Version 6.0** stehen die _AI powered automations_ allen **Enterprise-Kunden** kostenlos zur Verfügung – mit ausreichenden Kontingenten, um die neuen Möglichkeiten intensiv zu testen.
+Mit **Version 6.0** stehen die _KI unterstützten Automationen_ allen **Enterprise-Kunden** kostenlos zur Verfügung – mit ausreichenden Kontingenten, um die neuen Möglichkeiten intensiv zu testen.
 
 Mit **Version 6.1** öffnen wir die Funktionen auch für Free- und Plus-Pläne in kleinerem Umfang. Darüber hinaus werden wir das **Logging erweitern** und die Möglichkeit schaffen, zusätzliche **AI-Credits** direkt über uns zu beziehen, um auch anspruchsvollere Szenarien abzubilden.
 
@@ -74,7 +76,7 @@ Mit **Version 6.1** öffnen wir die Funktionen auch für Free- und Plus-Pläne i
 
 Mit SeaTable 6.0 bringen wir nicht nur eine neue Version auf den Markt, sondern eröffnen Unternehmen die Chance, ihre Arbeit auf ein neues Niveau zu heben. Intelligente Automatisierung spart Zeit, macht Prozesse effizienter und schafft Freiräume – und mit unserem europäischen Ansatz bleibt dabei das höchste Gut unangetastet: die Hoheit über Ihre Daten.
 
-_AI powered automations – ein Versprechen an Innovation, Datenschutz und Zukunftssicherheit. Made in Europe, made for you._
+_KI-gestützte Automationen – ein Versprechen an Innovation, Datenschutz und Zukunftssicherheit. Made in Europe, made for you._
 
 {{< newsletter title="Interessiert an KI, Automationen und Datenschutz?" submit="Jetzt anmelden" >}}
 
