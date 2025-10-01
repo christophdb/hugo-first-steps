@@ -238,8 +238,48 @@ sections:
   - text: "Nuestra plataforma no-code soporta integración con numerosas herramientas y le ayuda a optimizar su infraestructura IT."
   image: "/images/seatable-integrations.png"
 
-- name: banner-2
+- name: content-5
   weight: 13
+  items:
+  - title: Alternativa Airtable 
+    subtitle: Trabajo en equipo, Cumple con el RGPD
+    text: "Como alternativa a Airtable, SeaTable ofrece funciones completas de base de datos sin código, creador de aplicaciones, tablas relacionales, funcionamiento en la nube y en las instalaciones, y todo ello alojado en Alemania en cumplimiento de la GDPR: ideal para flujos de trabajo estructurados y entre equipos para empresas."
+    buttons:
+    - label: "Más información sobre SeaTable como alternativa a Airtable"
+      link: "/pages/airtable-alternative"
+  - subtitle: Gestión de tareas, planificación de proyectos
+    title: Alternativas a Asana
+    text: "¿Gestión de tareas y proyectos con Asana? SeaTable, como alternativa flexible a Asana, combina la gestión de tareas, la planificación de proyectos, la visión general de recursos, la gestión de hitos y tiempos, los cuadros de mando y la gestión de archivos, ideal como alternativa escalable a Asana."
+    buttons:
+    - label: "Más información sobre SeaTable como alternativa a Asana"
+      link: "/pages/asana-alternative"
+  - subtitle: Automatización, colaboración
+    title: Alternativa a Excel y alternativa a Microsoft Access
+    text: "Desde listas clásicas hasta complejos modelos de datos: SeaTable sustituye a las bases de datos de Excel y Microsoft Access, recogiendo el testigo allí donde ambos programas llegan a sus límites y permitiendo tablas modernas y colaborativas con estructura, seguridad y automatización añadidas."
+    buttons:
+    - label: "Más información sobre SeaTable como alternativa a Excel"
+      link: "/pages/excel-alternative"
+  - subtitle: Flexibilidad, protección de datos
+    title: Alternativas a Personio
+    text: "Procesos digitales de RRHH, flujos de trabajo inteligentes y seguridad de los datos: SeaTable permite a las empresas gestionar su personal y sus datos sensibles de forma eficiente, flexible y cumpliendo con la GDPR. Las estadísticas y los cuadros de mando personalizados están a la altura de la gestión del rendimiento de Personio y también pueden adaptarse de forma flexible."
+    buttons:
+    - label: "Más información sobre SeaTable como alternativa a Personio"
+      link: "/pages/industry-solutions/hr"
+  - subtitle: Procesos de venta, escalabilidad
+    title: HubSpot Alternativa
+    text: "La más flexible de las alternativas CRM: SeaTable reúne todos los datos de ventas relevantes en una sola plataforma.  Usted lleva sus procesos y sus equipos a la herramienta y no tiene que adaptarse a estructuras predefinidas: la solución más flexible y escalable entre las alternativas de HubSpot."
+    buttons:
+    - label: "Más información sobre SeaTable como alternativa a HubSpot"
+      link: "/pages/industry-solutions/kundenmanagement"
+  - subtitle: Gestión del conocimiento, datos relacionales
+    title: Noción alternativa
+    text: "SeaTable combina la gestión del conocimiento, los datos estructurados y las herramientas de colaboración -con una base de datos sin código, estructuras relacionales y un creador de aplicaciones- la solución que cumple con la GDPR entre las alternativas de Notion para requisitos empresariales complejos."
+    buttons:
+    - label: "Más información sobre SeaTable como alternativa a Notion"
+      link: "/posts/wissensmanagement"
+
+- name: banner-2
+  weight: 14
   title: Sea cual sea su flujo de trabajo, puede realizarlo con  <span class="text-seatable-blue">SeaTable</span>
   buttons:
   - link: "pages/registration"
@@ -247,7 +287,7 @@ sections:
     id: es-homepage-registration-banner-2
 
 - name: "faq"
-  weight: 14
+  weight: 15
   title: Preguntas frecuentes sobre la solución no-code de SeaTable
   items:
   - q: "¿Cómo creo una aplicación?"
