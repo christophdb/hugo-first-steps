@@ -11,10 +11,11 @@ aliases:
 seo:
     title: 'Como criar e excluir webhooks no SeaTable'
     description: 'Aprenda a criar webhooks para sua Base SeaTable: envie eventos para um endereço, ative notificações automáticas e desative a conexão quando necessário.'
-
 ---
 
 É sempre criado um gancho da web para uma base. Assim que o webhook é criado, cada alteração ao conteúdo da base é enviada para o URL de destino.
+
+{{< info-box headline="POST-Request" text="O webhook é sempre enviado para a URL de destino por meio de uma requisição POST." />}}
 
 ## Criar um gancho para a web
 

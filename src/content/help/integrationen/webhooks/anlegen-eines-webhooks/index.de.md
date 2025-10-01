@@ -9,10 +9,11 @@ url: '/de/hilfe/anlegen-eines-webhooks'
 seo:
     title: 'Webhooks in SeaTable anlegen und löschen – Anleitung'
     description: 'So richten Sie einen Webhook für Ihre Base ein: Ziel-URL eingeben, aktivieren und Änderungen automatisch empfangen. Schnelle Schritte für Einrichtung und Entfernung.'
-
 ---
 
-Ein Webhook wird immer für eine Base angelegt. Sobald der Webhook eingerichtet ist, wird jede Änderung an den Inhalten der Base an die Ziel-URL verschickt.
+Ein Webhook wird immer für eine Base angelegt. Sobald der Webhook eingerichtet ist, wird jede Änderung per an den Inhalten der Base an die Ziel-URL per verschickt.
+
+{{< info-box headline="POST-Request" text="Der Webhook wird immer per POST-Request an die Ziel-URL verschickt." />}}
 
 ## Einen Webhook einrichten
 
