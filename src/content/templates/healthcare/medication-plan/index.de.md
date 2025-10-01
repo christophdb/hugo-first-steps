@@ -126,7 +126,7 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQs zu der Medikamentenplan-Vorlag von SeaTable'
+      title: 'FAQs zu der Medikamentenplan-Vorlage von SeaTable'
       subtitle: 
       items:
       - q: "Ist SeaTables Vorlage für einen Medikamentenplan kostenlos?"
