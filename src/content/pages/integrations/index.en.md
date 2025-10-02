@@ -7,11 +7,22 @@ seo:
 url: '/integrations/'
 
 sections:
-    - name: hero-2
+    - name: "content-10"
       weight: 1
+      classes:
       title: Automate Your Work
       subtitle: Integrations with SeaTable
-      text: Integrate SeaTable with your favorite tools to link your most important business information and create more powerful applications.
+      description: Integrate SeaTable with your favorite tools via the SeaTable API or automation platforms to connect your key business information and create more powerful applications.
+      items:
+      - image: '/images/logos/zapier.svg'
+        image_alt: 'Integrations with SeaTable and Zapier'
+      - image: '/images/logos/make.svg'
+        image_alt: 'Integrations with SeaTable and Make'
+      - image: '/images/logos/n8n.svg'
+        image_alt: 'Integrations with SeaTable and n8n'
+      - image: '/images/logos/integrately.png'
+        image_alt: 'Integrations with SeaTable and Integrately' 
+
 
     - name: 'customer-2'
       weight: 2
