@@ -12,7 +12,7 @@ sections:
       classes:
       title: Automatize seu trabalho
       subtitle: Integrações com o SeaTable
-      description: Integre o SeaTable com suas ferramentas favoritas para conectar suas informações de negócios mais importantes e criar aplicações mais poderosas.
+      description: Integre o SeaTable com as suas ferramentas favoritas através da API do SeaTable ou de plataformas de automatização para ligar as suas principais informações comerciais e criar aplicações mais poderosas.
       items:
       - image: '/images/logos/zapier.svg'
         image_alt: 'Integrações com SeaTable e Zapier'
