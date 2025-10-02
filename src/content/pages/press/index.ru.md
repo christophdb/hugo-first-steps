@@ -1,40 +1,65 @@
 ---
-title: 'SeaTable пресса: Новости и сообщения СМИ'
-description: 'Узнайте больше о SeaTable Press и интересных публикациях в СМИ, которые освещают нашу платформу и ее применение.'
+title: 'Пресса SeaTable: Новости и сообщения СМИ'
+description: 'Узнайте больше о SeaTable и прочитайте интересные репортажи в СМИ, в которых подробно рассматривается наша бескодовая платформа.'
 date: '2025-04-03'
 url: '/ru/pressa'
 aliases:
     - '/ru/press/'
-    - '/ru/пресса/'
 
 sections:
-    - name: 'content-23'
+    - name: hero-1
       weight: 1
-      title: Пресс-центр и Медиа-отчеты
-      subtitle: 'Мы в центре внимания'
-      text: 'Мы не только рассказываем о себе, но и многочисленные медиа-отчеты делают это. Вы можете найти их все здесь, в нашем пресс-центре. Хотите написать о нас? Всегда рады! [Свяжитесь с нами]({{< relref "pages/contact" >}}) для получения дополнительной информации.'
-      subheadline: Кто уже сообщил о нас...
-      image: /images/Logo_PR.png
-      items:
-          - headline: 'Медиа-кит'
-            text: '43.87 MB'
-          - headline: 'Логотип SeaTable PNG'
-            text: '300dpi, 5.12 MB'
-          - headline: 'Флаер'
-            text: '12.13 MB'
-          - headline: 'Пресс-кит'
-            text: '300dpi, 12.44 MB'
+      h2_left: "Пресса и"
+      h2_right: "Новости"
+      description: "На этой странице Вы найдете наш пресс-кит и подборку материалов для СМИ, а также интересные сообщения СМИ о SeaTable. Ведь о нас пишем не только мы, но и многочисленные СМИ.<br></br>Вы тоже хотели бы написать о нас? Всегда рады!"
+      buttons:
+        - label: "Познакомьтесь с нашим набором материалов для прессы и СМИ"
+          link: "https://cloud.seatable.io/apps/custom/press-and-media-kit"
+          style: "primary"
+          id: de-homepage-registration-hero-1
+      image: "/images/seatable-press-and-media-kit.png"
 
-    - name: 'content-24'
+    - name: "banner-3"
       weight: 2
-      title: SeaTable представлен в
+      title: "У Вас есть конкретный запрос для прессы или интервью?"
+      buttons:
+        - label: "Не стесняйтесь обращаться к нам в любое время"
+          link: "pages/contact"
 
     - name: 'content-3'
       weight: 3
-      title: Свяжитесь с нами для получения дополнительной информации
-      subtitle: Контактное лицо
+      title: 'Наша подборка материалов для прессы и СМИ'
+      subtitle: 'Информация и изображения'
+      description: 'Откройте для себя самые свежие пресс-релизы, наглядные презентации и мгновенно используемые имиджевые материалы. Все это Вы можете скачать в нашем компактном наборе материалов для прессы и СМИ.'
+      items:
+      - headline: 'Презентации'
+        text: 'Вся информация в двух словах'
+        image: /images/seatable-presentations.jpg
+        image_alt:
+      - headline: 'Пресс-релизы'
+        text: 'Все последние новости о SeaTable'
+        image: /images/seatable-press-release.png
+        image_alt:
+      - headline: 'Изображения'
+        text: 'Все скриншоты, фотографии и логотипы'
+        image: /images/seatable-screenshots.png
+        image_alt:
       buttons:
-          - label: Связаться сейчас
-            link: 'pages/contact'
+          - label: 'Просмотрите нашу подборку материалов для прессы и СМИ'
+            link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
+
+    - name: "hero-2"
+      weight: 4
+      classes:
+      title: 'SeaTable у всех на устах'
+      subtitle: 'Публикации'
+      text: 'Здесь Вы можете увидеть подборку СМИ, которые уже писали о SeaTable.'
+      image: /images/Logo_PR.png
+      image_alt:
+
+    - name: 'content-24'
+      weight: 5
+      title: 'Пресса и сообщения СМИ'
+
 ---
