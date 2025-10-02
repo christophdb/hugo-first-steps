@@ -13,13 +13,13 @@ seo:
 template: '14498b7d75cd47ab934c'
 ---
 
-Das Problem kennen viele Fahrer von Dienst- und Firmenwagen: Das Fahrtenbuch ist beschädigt, unleserlich oder vielleicht sogar ganz verloren gegangen. Doch die Lösung für dieses alltägliche Problem könnte kaum einfacher sein: ein digitales Fahrtenbuch! Mit dieser Fahrtenbuch Vorlage erfassen Sie und Ihre Mitarbeiter alle Fahrten ganz einfach online – bequem, sicher und jederzeit abrufbar.
+Das Problem kennen viele Fahrer von Dienst- und Firmenwagen: Das Fahrtenbuch ist beschädigt, unleserlich oder vielleicht sogar ganz verloren gegangen. Doch die Lösung für dieses alltägliche Problem könnte kaum einfacher sein: ein **digitales Fahrtenbuch**! Mit dieser Fahrtenbuch Vorlage erfassen Sie und Ihre Mitarbeiter alle Fahrten ganz einfach online – bequem, sicher und jederzeit abrufbar.
 
 ## So funktioniert die Fahrtenbuch Vorlage
 
 Über ein Webformular lassen sich alle täglichen Fahrten unkompliziert und direkt dokumentieren. SeaTable generiert sogar einen individuellen QR-Code, der sich im Fahrzeuginnenraum anbringen lässt. So können Sie bei jedem Fahrtantritt einfach den Code scannen und direkt auf das Formular zugreifen.
 
-Verwalten Sie gleich mehrere Fahrzeuge in einer Base und halten Sie alle wichtigen Dokumente wie Versicherungen, Tankbelege oder TÜV-Nachweise zentral an einem Ort fest. Dank der übersichtlichen Statistiken bleiben Sie immer bestens über die Nutzung der Fahrzeuge informiert. Auf einen Blick sehen Sie zum Beispiel, wie viele Kilometer insgesamt zurückgelegt wurden und wie hoch der Anteil an Privatfahrten ist.
+Verwalten Sie gleich mehrere Fahrzeuge in einer Base und halten Sie alle wichtigen **Dokumente wie Versicherungen, Tankbelege oder TÜV-Nachweise** zentral an einem Ort fest. Dank der übersichtlichen Statistiken bleiben Sie immer bestens über die Nutzung der Fahrzeuge informiert. Auf einen Blick sehen Sie zum Beispiel, wie viele Kilometer insgesamt zurückgelegt wurden und wie hoch der Anteil an Privatfahrten ist.
 
 Wenn Sie mehr über die (steuerlichen) Vorteile eines Fahrtenbuchs erfahren möchten, empfehlen wir Ihnen unseren ausführlichen Blog-Artikel.
 
@@ -37,9 +37,9 @@ Die Vorteile unserer Lösung auf einen Blick:​
 - **Leistungsstark:** ​Profitieren Sie von den umfangreichen Funktionen der SeaTable Plattform.
 - **Skalierbar:** ​Die Lösung wächst mit Ihrem Unternehmen mit.
 
-###Warum SeaTable?​###
+## Warum SeaTable?
 
-SeaTable ist eine leistungsstarke No-Code-Plattform für die Erstellung von Datenbanken und Anwendungen. Mit unserer Fahrtenbuch Vorlage können Sie Ihre Prozesse ganz einfach digitalisieren und Ihre Kosten reduzieren. Testen Sie es noch heute und überzeugen Sie sich selbst!
+SeaTable ist eine [leistungsstarke No-Code-Plattform]({{< relref "/" >}}) für die Erstellung von Datenbanken und Anwendungen. Mit unserer Fahrtenbuch Vorlage können Sie Ihre Prozesse ganz einfach digitalisieren und Ihre Kosten reduzieren. Testen Sie es noch heute und überzeugen Sie sich selbst!
 
 ## Interaktives Template
 
