@@ -1,82 +1,91 @@
 ---
-title: 'SecUnity zündet mit SeaTable den Produktivitäts-Turbo'
-description: ''
+title: 'SecUnity ignites the productivity turbo with SeaTable'
+description: 'Stephan Lehniger, CEO des IT Secirity Dienstleister SecUnity spricht im Interview über seine Erfahrungen mit SeaTable und die Gründe für den Umstieg.'
 seo:
-    title: 'SecUnity zündet mit SeaTable den Produktivitäts-Turbo'
-    description: ''
-date: 2025-09-08
+    title: 'SecUnity ignites the productivity turbo with SeaTable'
+    description: 'Stephan Lehniger, CEO des IT Secirity Dienstleister SecUnity spricht im Interview über seine Erfahrungen mit SeaTable und die Gründe für den Umstieg'
+date: 2025-09-29
 categories:
     - 'customer-story'
 tags:
     - 'Workflows'
-    - 'Wenn Excel nicht mehr reicht'
-    - 'Projektmanagement'
-    - 'Kundenmanagement'
-    - 'Rechnungswesen'
-    - 'Kollaboratives Arbeiten'
+    - 'When Excel is no longer sufficient'
+    - 'Project Management'
+    - 'Customer Relationship Management'
+    - 'Accounting'
+    - 'Collaborative Work'
 color: '#5a97bc'
 url: '/secunity-growth'
-draft: true
 ---
 
-{{< customer-logo image="logo-secunity.jpg" firma="SecUnity GmbH" branche="IT Security Managed Services" ort="Deutschland" >}}
+{{< customer-logo image="logo-secunity.jpg" firma="SecUnity GmbH" branche="IT Security Managed Services" ort="Germany" >}}
 
-## Mit SeaTable zu schnelleren und besseren Entscheidungen
+![Headquarter SecUnity](secunity.png)
 
-Spezialsoftware für Rechnungslegung, Angebotserstellung, ERP oder Marketing und Sales sind in vielen Unternehmen keine Seltenheit. Ist das ein Problem? In den allermeisten Fällen definitiv. Es ist der Klotz am Unternehmens-Bein, der die digitale Transformation be- und modernes, datengetriebenes Arbeiten verhindert. Diese Erfahrung machte auch der norddeutsche IT Security Dienstleister [SecUnity](https://secunity.global/). Nach der Einführung von SeaTable als zentralem Datenbank- und Management-Tool für nahezu alle Geschäftsbereiche gewann das Team ein besseres Verständnis der vorhandenen Daten, Entscheidungen wurde schneller und datenbasiert getroffen. Das Unternehmen zündete den Produktivitäts-Turbo.
+## With SeaTable to faster and better decisions
 
-Wir haben mit Stephan Lehninger, CEO von SecUnity, über seine Erfahrungen gesprochen.
+Specialized software for invoicing, quotation preparation, ERP or marketing and sales is not uncommon in many companies. Is that a problem? In the vast majority of cases, definitely. It's the clog on the company's leg that slows down the digital transformation and prevents modern, data-driven work. This was also the experience of the northern German IT security service provider [SecUnity](https://secunity.global/). After introducing SeaTable as a central database and management tool for almost all business areas, the team gained a better understanding of the available data and decisions were made faster and based on data. The company ignited the productivity turbo.
 
-### Herr Lehninger, gleich vorab einmal: Würden Sie SeaTable weiterempfehlen?
+We spoke to Stephan Lehniger, CEO of SecUnity, about his experiences.
 
-**Stephan Lehninger**: Auf jeden Fall – tatsächlich empfehlen wir Seatable nicht nur weiter, wir arbeiten selber als externe Berater, als Ideengeber und als Betreiber von Seatable Umgebungen für Kunden und wollen dieses Geschäft ausbauen.
+{{< testimonial image="portrait_lehniger.png" alt="Stephan Lehniger, CEO SecUnity" name="Stephan Lehniger, CEO SecUnity" >}}
 
-### Stellen Sie Ihre Firma doch kurz vor. Was machen Sie?
+We have been extremely satisfied with SeaTable over the past months and years. We are impressed with how the product has developed. Especially in view of the fact that we want to implement highly customized solutions.
 
-**SL:** Gerne, ich bin Gründer und Geschäftsführer von SecUnity. Wir bieten Managed Security Services für IT-Umgebungen an. Im Grunde für Kunden jeglicher Größe und in jedem Land.
+{{</ testimonial >}}
 
-### Ich weiß bereits, dass Sie SeaTable sehr intensiv einsetzen. Können Sie noch einmal kurz schildern, in welchen Bereichen es konkret genutzt wird?
+**SeaTable: Mr. Lehniger, first of all: Would you recommend SeaTable to others?**
 
-**SL:** Derzeit nutzen wir Seatable in sämtlichen Bereichen des Unternehmens.Es gibt bis auf unser Ticketsystem, unser Instant Messaging System und unsere E-Mail-Kommunikationen aktuell keinen Prozess, keine Kommunikation, keinen täglichen Ablauf, der nicht auf Seatable beruht. Wenn neue Themen kommen, neue Bedarfe aufkommen, überlegen wir inzwischen erst,  ob das Ganze mit Seatable umsetzbar ist bevor wir anfangen nach einer Drittlösung zu suchen. 
+**Stephan Lehniger:** Absolutely - in fact, we not only recommend SeaTable, we also work as external consultants, as idea providers and as operators of SeaTable environments for customers and want to expand this business.
 
-### Wie sah die Situation vor SeaTable aus? Welche Tools haben Sie genutzt? 
+**ST: Why don't you briefly introduce your company? What do you do?**
 
-**SL:** Vor der Einführung von SeaTable haben wir für jede Art von Prozess innerhalb von SecUnity unterschiedliche Tools genutzt. Beispielsweise Warenwirtschaftssoftware für die Angebotserstellung, Rechnungslegung, Dokumentationssysteme wie OpenProject, Systeme für die Organisation zwischen den Kollegen etc. Die Herausforderung dabei war, dass wir sämtliche Daten in verschiedenen Systemen gepflegt haben und es so immer schwieriger wurde, die Daten zusammenzuführen. Wir pflegten einfach an zu vielen Stellen die gleichen Daten. Alle Systeme und Prozesse liefen dezentral,  jeder Kollege hat die Informationen in einem individuellen Format wie Excel, Notepad oder Word gepflegt. So hatten wir dann eine Dimension an unterschiedlichen Dokumenten mit den verschiedensten Versionen. 
+**SL:** Gladly, I am the founder and managing director of SecUnity. We offer **managed security services for IT environments**. Basically for customers of any size and in any country.
 
-Gerade für mich als Geschäftsführer waren das einfach zu viele Programme, die uns gezwungen haben, uns an sie anzupassen, unsere Prozesse in ihre Strukturen zu zwängen, anstatt das die Programme sich an unser Unternehmen angepasst haben. Das führte dann dazu, dass Prozesse bei uns nicht effizient liefen, Entwicklungen deutlich langsamer vorangebracht wurden, als wir es aktuell können. Vor allem die Individualität, die wir für unser Kerngeschäft brauchen, konnten wir in keinem anderen Tool genauso abbilden konnten, wie wir sie heute in SeaTable abbilden können.
+**ST: We already know that you use SeaTable very intensively. Can you briefly describe the specific areas in which it is used?**
 
-### Wie seid ihr auf SeaTable aufmerksam geworden?
+**SL:** We currently use **SeaTable in all areas of the company.** With the exception of our ticket system, our instant messaging system and our e-mail communications, there is currently no process, no communication, no daily routine that is not based on SeaTable. When new topics come up, new needs arise, we now first consider whether the whole thing can be implemented with SeaTable before we start looking for a third-party solution.
 
-**SL:** Durch eine Empfehlung eines ehemaligen Kollegen aus dem Schweriner Raum. Seine Firma hatte SeaTable geprüft, um hausintern ISO-Zertifizierung und Zertifizierungsprüfungen zu organisieren. Ich war zusehends unzufrieden mit unserer Organisation und habe eine flexible Plattform gesucht, die es uns ermöglicht, von Null zu starten und die Prozesse zusammenzuführen. 
+**ST: What was the situation like before SeaTable? Which tools did you use?**
 
-### Es gibt ja ganz unterschiedliche Gründe, sich für eine Software zu entscheiden. Was hat für euch den Ausschlag gegeben?
+**SL:** Before the introduction of SeaTable, we used different tools for each type of process within SecUnity. For example, merchandise management software for preparing quotations, invoicing, documentation systems, systems for organizing between colleagues, etc. The challenge was that we maintained all the data in different systems, which made it increasingly difficult to merge the data. **We were simply maintaining the same data in too many places.** All systems and processes were decentralized and each colleague maintained the information in an individual format. As a result, we had a dimension of different documents with different versions.
 
-**SL:** Drei Punkte waren aus meiner Sicht ausschlaggebend: der sehr einfache Einstieg, dass wir schnell Ergebnisse sehen konnten, und wir durch den Kontakt zu Seatable als Firma in Deutschland auch sehr schnell Vertrauen aufgebaut haben. Wir hatten einfach das Gefühl, dass wir mit der Firma zusammenwachsen können und dass unsere Interessen wirklich gehört wurden. Gerade aus der Situation heraus, dass wir mit Seatable viele kritische Daten und schützenswerte Kundendaten verarbeiten, kam uns die Unterstützung von Seatable beim Betrieb einer eigenen Instanz in unserem Haus sehr entgegen. 
+For me as Managing Director in particular, there were simply too many programs that forced us to adapt to them, to force our processes into their structures, instead of the programs adapting to our company. As a result, our processes did not run efficiently and developments progressed much more slowly than we are currently able to. Above all, the **individuality** that we need for our core business could not be mapped in any other tool in exactly the same way as we can in SeaTable today.
 
-### Wie schnell konntet ihr dann tasächlich umsteigen? Hat die Implementierung lange gedauert?
+**ST: How did you become aware of SeaTable?**
 
-**SL:** Im Gegenteil, der Implementierungs-Prozess lief enorm schnell. Das hatte primär aber auch als Ausgangssituation, dass ich als Geschäftsführer die Entscheidungsgewalt hatte, um zu sagen, dass wir sehr schnell unsere Prozesse auf Seatable beschränken und wir nicht erst lange Demo-Umgebungen im Haus aufbauen mussten, um dann erst zu einer Entscheidungsfindung zu kommen. 
+**SL:** Through a recommendation from a former colleague from the Schwerin area. His company had tested SeaTable in order to organize in-house ISO certification and certification tests. I was increasingly dissatisfied with our organization and was looking for a flexible platform that would allow us to start from scratch and consolidate our processes.
 
-### Gab es Herausforderung bei der Einführung? 
+**ST: There are many different reasons for choosing software. What was the deciding factor for you?**
 
-**SL:** Ja, allerdings primär im Kopf der einzelnen Mitarbeiter und Kollegen, die erst mal lernen mussten „SeaTable“ zu denken. Es ist ja eine sehr flexible Plattform mit der an sich erst mal nahezu jeder Prozess, jede Erfassung und Verarbeitung von Daten, jede Organisation, jede Übersicht möglich ist. Man muss aber auch die Kreativität und das Vorstellungsvermögen haben, um das dementsprechend in ein Tabellenformat bringen zu können. Neue Mitarbeiter hingegen starten direkt in unser Ökosystem Seatable. Sie haben während der Einarbeitung noch nichts anderes bei uns kennengelernt und sind dadurch sehr schnell in der Lage sich in das System einzufühlen.
+**SL:** From my point of view, three points were decisive: the very easy start, the fact that we were able to see results quickly, and we also built up trust very quickly through our contact with SeaTable as a company in Germany. We simply had the feeling that we could grow together with the company and that our interests were really being heard. Especially in view of the fact that we process a lot of critical data and sensitive customer data with SeaTable, SeaTable's support in operating our own instance** in our company was very helpful.
 
-### Die eigenen Prozesse und gewohnten Strukturen neu zu denken und flexibel neu aufzusetzen kann ziemlich herausfordernd sein, da haben Sie recht. Wie haben Sie diese Umstellung gemanagt?
+**ST: How quickly were you actually able to switch over? Did the implementation take a long time?**
 
-**SL:** Als Geschäftsführung war meine Hauptaufgabe zu schauen, wie die Daten strukturiert zusammenlaufen, die Verantwortung der einzelnen Bereiche und Abteilungen lag dann da drin für sich selber zu definieren, wie sollen bestimmte Prozesse laufen. D. h. beispielsweise in der Rechnungslegung, haben wir den Gesamtabrechnungsprozess komplett neu gestaltet, über die Zeit umgebaut und mithilfe der Seatable-Automatisierung und den Möglichkeiten gerade innerhalb der Universal App ganz anders strukturiert und ganz anders auch effizient ausgebaut als es uns vorher möglich war.
+**SL:** On the contrary, **the implementation process was extremely fast**, but this was primarily due to the fact that I, as the managing director, had the decision-making power to say that we had to restrict our processes to SeaTable very quickly and we didn't have to set up long demo environments in-house before making a decision.
 
-### Wo sehen Sie bei SecUnity noch Bedarf?
+**ST: Were there any challenges during the introduction?**
 
-**SL:** Es gibt kaum noch Bereiche, in denen SeaTable nicht eingesetzt wird. Wie gesagt, unser Ticketsystem, unsere E-Mail-Kommunikation und unser Live-Chat sind Lösungen, die wir aktuell nicht in SeaTable haben. Alle weiteren Bereiche die sich nebenbei in unserem täglichen Betrieb gerade entwickeln – zum Beispiel Change Management, Marketing, Social Media Pflege und komplexeres Projektmanagement – sind alles Themen die wir immer Stück für Stück weiter ausbauen. Kurz gesagt: Seatable in weiteren Bereichen des Unternehmens einzusetzen ist kaum möglich. Aber Seatable wird in den kommenden Jahren massiv mit uns mit wachsen müssen; hoffentlich mit uns mit wachsen so wie wir uns das wünschen.
+**SL:** Yes, but primarily in the minds of the individual employees and colleagues, who first had to learn to think "SeaTable". It is a very flexible platform with which almost any process, any data collection and processing, any organization, any overview is possible. But you also have to have the creativity and imagination to be able to put this into a table format. New employees, on the other hand, start directly in our SeaTable ecosystem. During their induction, they have not yet experienced anything else with us and are therefore able to familiarize themselves with the system very quickly.
 
-### Was hat sich durch die Einführung von SeaTable konkret verbessert? Gab es messbare Veränderungen?
+**ST: Rethinking your own processes and familiar structures and setting them up flexibly can be quite challenging, you're right. How did you manage this changeover?**
 
-**SL:** Messbare Verbesserung haben wir insofern im Unternehmen, dass wir unseren Verwaltungsbereich im Vergleich zu unseren technischen Kollegen, die ja unser Kerngeschäft nach außen darstellen, deutlich verringern konnten. Das Verhältnis von Verwaltungsmitarbeitern im Verhältnis zu Projekt-Mitarbeitern  ist weit zurückgegangen. Dabei haben aber die Menge an Prozessen, die Anforderungen an die Einzelprozesse, Einzelschritte und die Komplexität der Einzelprozesse deutlich zugenommen. Wir schaffen also mehr Arbeit – effizienter und schneller – mit im Verhältnis weniger Personal. 
+**SL:** As the management, my main task was to look at how the data should be structured; the responsibility of the individual divisions and departments was then to define for themselves how certain processes should run. In accounting, for example, we completely redesigned the overall accounting process, rebuilt it over time and, with the help of SeaTable automation and the possibilities within the **Universal App** in particular, structured it completely differently and expanded it efficiently in a completely different way than we had been able to before.
 
-Qualitative Veränderungen sehen wir vor allem in der Qualität unserer Arbeit mit unseren Kunden. Beispielsweise hatten wir verschieden Projektmanagement-Lösungen getestet und kein Tool gefunden, was zu dem Zeitpunkt an dem Leistungsstand war, den wir im Unternehmen hatten. Entweder waren die Systeme viel zu komplex und viel zu zukunftsorientiert. An dem Punkt waren wir einfach intern noch nicht. Oder die Systeme waren einfach zu unflexibel, sodass wir an dem Punkt nicht effektiv mit ihnen arbeiten konnten. Mit SeaTable war es uns möglich, das Projektmanagement genau zu dem Zeitpunkt so aufzusetzen wie wir es brauchten und seitdem wächst es monatlich mit uns mit. Wir haben mehrere Anpassungen pro Monat und das System wächst zum einen mit den Fähigkeiten unserer Mitarbeiter wie mit der Komplexität unserer Kundenprojekte.
+**ST: Where do you still see a need for SecUnity?**
 
-### Man merkt ja schon, dass Sie SeaTable sehr positiv gegenüber stehen, dennoch zum Schluss noch die Frage: Wie zufrieden sind Sie? Was könnten wir Ihrer Meinung nach besser machen?
+**SL:** We currently use **SeaTable in all areas of the company**. As I said, our ticket system, our e-mail communication and our live chat are solutions that we do not currently have in SeaTable. All other areas that are currently developing in our daily operations - for example change management, marketing, social media maintenance and more complex project management - are all topics that we are expanding bit by bit. In short: using SeaTable in other areas of the company is hardly possible. But SeaTable will have to grow massively with us in the coming years; hopefully it will grow with us as we would like it to.
 
-**SL:** Wir sind enorm zufrieden mit Seatable über die letzten Monate und Jahre. Wir sind beeindruckt davon, wie sich das Produkt entwickelt. Wir sind beeindruckt davon, dass die Entwicklung aus China heraus Interesse an dem Feedback aus Deutschland hat und dieses umgesetzt wird. Vor allem unter der Maßgabe, dass wir doch sehr individuelle Lösungen umsetzen wollen. Jeder Mitarbeiter hat eine andere Idealvorstellung wie er gerne mit Daten arbeiten möchte. Der eine mit Tabellen, der andere mit Web-Apps, der nächste mit Statistiken. Wir profitieren sehr davon, dass wir Daten flexibel und individuell zu jedem Zeitpunkt miteinander verarbeiten können und auch voneinander getrennt weiterverarbeiten können, sehen aber auch, dass gerade diese Vernetzung von Daten innerhalb von Seatable doch viele Ressourcen benötigt. Gerade die Synchronisierung zwischen Datenbeständen nimmt merklich Zeit in Anspruch. Würde Seatable sich dahingehend weiterentwickeln das Daten noch schneller miteinander verknüpft werden können, Automatismen direkt im System Trigger auslösen ohne dass dafür Automatisierungs-Tools gebraucht werden, würde Seatable als alleinige Lösung sicherlich für noch viel mehr Kunden interessant sein. 
+**ST: What has the introduction of SeaTable actually improved? Have there been measurable changes?**
 
-### Herr Lehninger, vielen Dank für das Gespärch.
+**SL:** We have measurable improvements in the company in that the ratio of administrative staff to project staff, which is our core business externally, has decreased. This is not because we have cut jobs, but because SeaTable has made us much more efficient in administrative terms and we are growing more in the technical area than in administration. At the same time, the number of processes, the requirements for individual processes, individual steps and the complexity of individual processes have increased significantly. We are therefore creating more work - **more efficiently and faster** - with proportionally fewer staff.
+
+We see qualitative changes above all in the quality of our work with our customers. For example, we had tested various project management solutions and found no tool that was at the level of performance we had in the company at the time. The systems were either far too complex or far too future-oriented. We simply hadn't reached that point internally yet. Or the systems were simply too inflexible for us to work with them effectively at that point. **With SeaTable, we were able to set up project management exactly the way we needed it** and it has been growing with us every month ever since. We have several customizations per month and the system grows with the skills of our staff as well as the complexity of our client projects.
+
+**ST: It's clear that you have a very positive attitude towards SeaTable, but finally, how satisfied are you? What do you think we could do better?**
+
+**SL:** We are extremely satisfied with SeaTable over the past months and years. We are impressed with how the product is developing. We are impressed that the development from China is interested in the feedback from Germany and that this is being implemented. Especially in view of the fact that we want to implement very individual solutions. Every employee has a different ideal of how they would like to work with data. One with tables, the other with web apps, the next with statistics. **We benefit greatly from the fact that we can process data flexibly and individually with each other at any time and also process it separately from each other,** but we also realize that this networking of data within SeaTable requires a lot of resources.
+
+Synchronization between data sets in particular takes a considerable amount of time. If SeaTable were to be further developed in such a way that data could be linked together even faster and automated processes could trigger directly in the system without the need for automation tools, SeaTable would certainly be of interest to many more customers as a stand-alone solution.
+
+**ST: Mr. Lehniger, thank you very much for the interview.**
