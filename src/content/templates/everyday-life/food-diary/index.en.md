@@ -6,71 +6,129 @@ url: '/template/food-diary'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Food Diary App: Log and Analyze Your Nutrition'
-    description: "Use SeaTable's digital food diary to record meals and intolerances. Get insights into eating habits with customizable analysis."
+    title: 'Food Diary Template: Free Nutrition App Online'
+    description: 'Free nutrition diary template: log meals, spot intolerances, track nutrients, analyze data & share with doctors. Simple with SeaTable app.'
 template: '166dab67dcff4ee799fb'
+
+type: pages
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'Free food diary template'
+      text: 'Track down food intolerances and unhealthy eating habits - with the SeaTable food diary app. Record your meals in just a few clicks and make connections between food, eating habits and complaints visible.'
+      classes:
+          - bg-white
+      template: 166dab67dcff4ee799fb
+      buttons:
+          - label: Register now for free and use the template
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'Keep an overview with our food diary template'
+      subtitle: Digital food diary
+      text: 
+      items:
+        - icon: 'pencil'
+          headline: 'Flexible'
+          text: 'You can easily adapt our free template to your individual needs and add to it - without any effort.'
+        - icon: 'pencil'
+          headline: 'Input'
+          text: 'Easily order your meals directly using the integrated form - even when you are on the move.'
+        - icon: 'list'
+          headline: 'Clearly arranged'
+          text: 'Group and filter your entries and visualize correlations - perfect for suspected allergies.'
+        - icon: 'globe'
+          headline: 'Universal App'
+          text: 'Use the app to record data and as a food diary front end - with input masks and a knowledge base.' 
+        - icon: 'bell'
+          headline: 'Reminder'
+          text: 'Document meals, malaise and relevant information - reliably thanks to integrated reminders.'
+        - icon: 'chart-line'
+          headline: 'Evaluations'
+          text: 'Use the dashboard in the Universal App and evaluate your food diary - without extra tools.' 
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'With SeaTable to your nutrition log app'
+      subtitle: 'Use the food diary app online for free'
+      description: 'SeaTable is a modern no-code database solution and as easy to use as a spreadsheet - with all the functions you need for a food diary.'
+      items:
+      - text: 'Customizable: Create a nutrition log app according to your wishes.'
+      - text: 'Access from anywhere: You can access your data at any time via online access.'
+      - text: 'Share with others: Share your digital food diary with doctors or nutritionists.'
+      - text: 'Always at hand: You can access your food diary from anywhere and at any time.'
+      image_position: [left]
+      image: '/images/Template-Page_Ernährungsplan_Screenshot_1.png'
+      image_alt: 'Food diary app in table view with icons for data protection, sharing and mobile use'
+
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'A digital food diary with SeaTable'
+      subtitle: 'Your advantages with SeaTable'
+      description: 'SeaTable offers a unique combination of a familiar spreadsheet interface, the advanced features of a no-code database and a universal app builder. Create your own nutrition log app for free with just a few clicks and keep track of your eating habits.'
+      box-position: [right!]
+      items:
+      - headline: Recognize allergies
+        text: Unrecognized food intolerances or allergies can cause serious problems in the long term. Careful documentation of your own diet and any symptoms helps to identify allergies at an early stage and provides clarity.
+      - headline: Transparency
+        text: This template facilitates the exchange of information with doctors and nutritionists. Structured and up-to-date data saves you time and facilitates communication. A template can be particularly helpful during ongoing therapy.
+
+    - name: "content-25"
+      weight: 10
+      title: 'Create your individual food diary app with SeaTable'
+      subtitle: 'More than a conventional food diary app'
+      items:
+      - headline: 'Food diary app'
+        text: 'Record all meals and snacks with the foods they contain. You can easily enter all data via a customizable web form in the Universal App and adjust it at any time. Group and filter your entries or create new views to recognize connections.'
+        image: '/images/Template-Page_Ernährungsplan_Screenshot_2.png'
+        image_alt: 'Free online food diary app with SeaTable, table, customizable, sharing with doctors, high data protection, and mobile access'
+      - headline: 'Database for intolerances and allergens'
+        text: 'SeaTables food diary app is more than just a simple food log app. In the integrated and expandable database on food intolerances, you will find the most common symptoms and allergenic foods of the most common intolerances.'
+        image: '/images/Template-Page_Ernährungsplan_Screenshot_3.png'
+        image_alt: 'Database for intolerances and allergens in food diary app with symptoms and food overview, customizable.'
+      - headline: 'Universal app for data acquisition and evaluation'
+        text: 'Your nutrition log app consists of two parts: an Excel-like database and a no-code universal app as the front end. Here you will find the data entry form, an analysis dashboard, an overview of your daily fluid intake and the search mask for the intolerance database.'
+        image: '/images/Template-Page_Ernährungsplan_Screenshot_4.png'
+        image_alt: 'App with database, dashboard and form for food diary.'
+      
+    - name: "banner-3"
+      weight: 12
+      title: 'Register now for free and use the food diary template'
+      buttons:
+        - label: Use the food diary now
+          link: pages/registration
+          id: en-vorlage-ernährungstagebuch-registration-3
+
+    - name: "content-6"
+      weight: 15
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'Your own food diary app with SeaTable'
+      subtitle: 
+      items:
+      - text: 'With SeaTables integrated no-code app builder, you can create your own personalized nutrition app in just a few steps. In addition to meals, meal times and complaints, you can also record nutrients or detailed information on the eating situation or exercise patterns, for example. Your requirements and wishes determine what your digital food diary looks like!'
+      image: '/images/Template-Page_Ernährungsplan_Screenshot_5.png'
+      image_alt: 'Individual food diary app with SeaTable No-Code Builder, data collection of meals, nutrients and complaints.'
+
+    - name: "faq"
+      weight: 20
+      title: 'FAQ - Nutrition diary app template'
+      subtitle: 
+      items:
+      - q: "Can the food diary app be shared with third parties?"
+        a: 'Yes, you can share your digital food diary with third parties, e.g. doctors or therapists, in various ways and give each user individual access rights. If you want to share your food diary app with third parties who do not have a SeaTable account, they will only have read-only access.'
+      - q: "Is my food log app safe with SeaTable?"
+        a: "Yes, SeaTable stands for the highest standards of data protection and data security. The SeaTable Cloud is hosted exclusively on certified servers in Germany and is 100% GDPR-compliant."
+      - q: "Is the food diary app free to use?"
+        a: 'Yes, you can use the nutrition log app for free, without time restrictions or limited functions. All you need is a SeaTable Free account.'
+      
 ---
-
-Track down food intolerances and unhealthy eating habits – with the SeaTable food diary app. Record your meals in just a few clicks and make connections between food, eating habits and complaints visible.
-
-{{< template id="166dab67dcff4ee799fb" >}}
-
-## Keep an overview with our food diary app
-
-* Simple data entry via a web form
-
-* Customizable, free template
-
-* Integrated universal app with intuitive user interface
-
-* Integrated, customizable database for food intolerances
-
-* Easy grouping and filtering of your entries
-
-* Evaluation via customizable analysis dashboard
-
-## SeaTable is your nutrition log app
-
-SeaTable is a **modern no-code database solution with App Builder** and offers all the functions required for a nutrition diary. You don't need any programming knowledge or introduction to use and expand your nutrition log app. All you need is a SeaTable account and you can get started right away thanks to the Excel-like user interface and intuitive drag-and-drop app builder. SeaTable is hosted exclusively on servers in Germany and meets all the requirements of the GDPR for modern data protection. Start your food diary for yourself or your whole family today – the option to share your food diary app and use it collaboratively with others makes it possible.
-
-## Create your individual digital food diary with SeaTable
-
-Use our food diary app for free and record your meals and eating habits with little effort. Since SeaTable is completely customizable, you can also adapt the template (and the Unversal App) to your individual needs and add additional columns, tables, notifications, automations, links and much more - and thus create your own personal food diary.
-
-### Food diary app
-
-Record all meals and snacks with the foods and drinks they contain in the "Eating habits and complaints" base. You can easily enter all data via a customizable web form in the Universal App and adjust it at any time. Group and filter your entries or create new views to identify connections. By linking to the "Intolerances and allergies" table, you can see at a glance which complaints could be related to allergies or intolerances.
-
-### Database for intolerances and allergens
-
-SeaTable's food diary app is more than just a simple food log app. In the integrated and expandable database of food intolerances and allergies in the "Intolerances and allergies" table, you can see the most common symptoms and allergenic foods listed for each intolerance. Cross-reactions can be recorded in a separate column. The database in our food diary app is already pre-filled with the most common intolerances and allergies and can be expanded as required.
-
-### Universal app for data collection and evaluation
-
-Your food diary app consists of two parts: an Excel-like database and a no-code universal app as the front end. Here you will find the data entry form, an analysis dashboard, an overview of daily fluid intake and the search mask for the intolerance database. You can easily add more pages to the app and adapt it to your needs.
-
-## FAQ - Nutrition diary app template
-
-{{< faq "What are the advantages of SeaTable?" >}}
-SeaTable offers a unique combination of a familiar table interface, the advanced features of a no-code database, a universal app builder and strong data protection. Databases and universal apps can be flexibly adapted to the user's requirements. You can already use almost all functions with the free account. For your food diary app, this means that you can adapt and expand our template with complete flexibility.
-{{< /faq >}}
-
-{{< faq "Can the food diary app be shared with third parties?" >}}
-Yes, no problem. You can share your digital food diary with third parties, e.g. doctors or therapists, in various ways and give each user individual access rights. Users can access the base directly via a link or only the universal app. If you want to share your nutrition log app with third parties who do not have a SeaTable account, they will only have read-only access. In other cases, you can set individual access rights.
-{{< /faq >}}
-
-{{< faq "Is my data safe with SeaTable?" >}}
-Yes, SeaTable stands for the highest standards of data protection and data security. The SeaTable Cloud is hosted exclusively on certified servers in Germany and is 100% GDPR compliant. Your data is not transferred to other countries. If you use SeaTable to create a food diary app, you can additionally protect your data by using two-factor authentication.
-{{< /faq >}}
-
-{{< faq "How does the food diary app from SeaTable work?" >}}
-You can easily record meals and ailments in your digital food diary template from anywhere via a web form - on mobile or desktop. An analysis dashboard in the integrated universal app shows correlations between diet, eating situation and complaints. If you also record the quantities, you can also check in the universal app, for example, on which days you have consumed too little liquid. SeaTable's food diary app is already equipped with an integrated food intolerance database. This helps you to identify problematic foods and categorize complaints.
-{{< /faq >}}
-
-{{< faq "What are the benefits of a digital food diary?" >}}
-With a food diary app, you can identify unhealthy eating habits and indications of intolerances. The analysis functions give you valuable insights into the links between complaints and eating habits and you can work specifically on feeling better. If you suspect you are suffering from a food intolerance or allergy, a food diary app is an important first step and can easily be shared with a doctor or therapist. Use our food diary software for free and see the benefits for yourself.
-{{< /faq >}}
-
-{{< faq "Is the food diary app free to use?" >}}
-Yes, you can use the food diary app for free, without time restrictions or limited functions. All you need is a SeaTable Free account.
-{{< /faq >}}
