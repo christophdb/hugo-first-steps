@@ -1,39 +1,66 @@
 ---
-title: 'SeaTable Press: Notícias e relatórios dos media'
-description: 'Saiba mais sobre o SeaTable Press e as interessantes reportagens dos media que destacam a nossa plataforma e as suas aplicações.'
+title: 'Imprensa sobre SeaTable: Notícias e reportagens dos media'
+description: 'Saiba mais sobre SeaTable e as interessantes reportagens dos media que destacam a nossa plataforma sem código.'
 date: '2025-04-03'
 url: '/pt/imprensa'
 aliases:
     - '/pt/press/'
 
 sections:
-    - name: 'content-23'
+    - name: hero-1
       weight: 1
-      title: Área de Imprensa e Relatórios da Mídia
-      subtitle: 'Estamos em destaque'
-      text: 'Não apenas falamos sobre nós mesmos, mas também inúmeros relatórios da mídia o fazem. Você pode encontrá-los todos aqui na nossa área de imprensa. Gostaria de escrever sobre nós também? Fique à vontade! [Entre em contato conosco]({{< relref "pages/contact" >}}) para mais informações.'
-      subheadline: Quem já falou de nós...
-      image: /images/Logo_PR.png
-      items:
-          - headline: 'Kit de Mídia'
-            text: '43.87 MB'
-          - headline: 'Logo do SeaTable PNG'
-            text: '300dpi, 5.12 MB'
-          - headline: 'Folheto'
-            text: '12.13 MB'
-          - headline: 'Kit de Imprensa'
-            text: '300dpi, 12.44 MB'
+      h2_left: "Imprensa"
+      h2_right: "e Notícias"
+      description: "Nesta página, encontrará o nosso kit de imprensa e mídia, bem como reportagens interessantes sobre SeaTable. Porque não somos apenas nós que escrevemos sobre SeaTable, mas também numerosos meios de comunicação.<br></br>Também gostaria de escrever sobre nós? Teremos todo o gosto em fornecer-lhe informações."
+      buttons:
+        - label: "Descubra o nosso kit de imprensa e mídia"
+          link: "https://cloud.seatable.io/apps/custom/press-and-media-kit"
+          style: "primary"
+          id: de-homepage-registration-hero-1
+      image: "/images/seatable-press-and-media-kit.png"
 
-    - name: 'content-24'
+    - name: "banner-3"
       weight: 2
-      title: 'SeaTable é destaque em'
+      title: "Tem um pedido específico de imprensa ou de entrevista?"
+      buttons:
+        - label: "Não hesite em contactar-nos em qualquer altura"
+          link: "pages/contact"
 
     - name: 'content-3'
       weight: 3
-      title: 'Entre em contato conosco para mais informações'
-      subtitle: 'Pessoa de contato'
+      title: 'O nosso kit de imprensa e mídia'
+      subtitle: 'Informações e imagens'
+      description: 'Descubra os mais recentes comunicados de imprensa, apresentações claras e material de imagem imediatamente utilizável. Tudo isto está disponível para descarregar no nosso kit de imprensa e mídia.'
+      items:
+      - headline: 'Apresentações'
+        text: 'Todas as informações em poucas palavras'
+        image: /images/seatable-presentations.jpg
+        image_alt:
+      - headline: 'Comunicados de imprensa'
+        text: 'Todas as últimas notícias sobre SeaTable'
+        image: /images/seatable-press-release.png
+        image_alt:
+      - headline: 'Material de imagem'
+        text: 'Todas as capturas de ecrã, fotos e logótipos'
+        image: /images/seatable-screenshots.png
+        image_alt:
       buttons:
-          - label: 'Entre em contato agora'
-            link: 'pages/contact'
+          - label: 'Consulte o nosso kit de imprensa e mídia'
+            link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
+
+    - name: "hero-2"
+      weight: 4
+      classes:
+      title: 'SeaTable anda nas bocas do mundo'
+      subtitle: 'Publicações'
+      text: 'Aqui pode ver uma seleção de meios de comunicação que já fizeram reportagens sobre SeaTable.'
+      image: /images/Logo_PR.png
+      image_alt:
+
+    - name: 'content-24'
+      weight: 5
+      title: 'Artigos de imprensa e reportagens na mídia'
+
 ---
+
