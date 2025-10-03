@@ -5,7 +5,13 @@ lastmod: '2023-05-15'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/pomoshch/erste-schritte-mit-seatable'
+url: '/ru/pomoshch/pervye-shagi-seatable'
+aliases:
+    - '/ru/pomoshch/erste-schritte-mit-seatable'
+seo:
+    title: 'Первые шаги в SeaTable: инструкции и советы'
+    description: 'SeaTable с нуля: пошаговая инструкция, начните свой проект, изучите шаблоны, найдите ответы в справке и на форуме.'
+
 weight: 3
 ---
 

@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
-url: '/pt/ajuda/verknuepfungen-innerhalb-einer-tabelle'
+url: '/pt/ajuda/vincular-registros-mesma-tabela'
+aliases:
+    - '/pt/ajuda/verknuepfungen-innerhalb-einer-tabelle'
+seo:
+    title: 'Vincular registros na mesma tabela: Guia SeaTable'
+    description: 'Saiba como vincular linhas na mesma tabela SeaTable: hierarquia, relação pai-filho, dupla coluna e dicas para usar conexões.'
+
 ---
 
 É possível utilizar uma **coluna de ligação** no SeaTable não só para [ligar várias tabelas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também para **relacionar registos de dados numa única tabela**.

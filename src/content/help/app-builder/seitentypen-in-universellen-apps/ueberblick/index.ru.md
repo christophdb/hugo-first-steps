@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/pomoshch/seitentypen-in-der-universellen-app'
+url: '/ru/pomoshch/tipy-stranic-universal-app'
+aliases:
+    - '/ru/pomoshch/seitentypen-in-der-universellen-app'
+seo:
+    title: 'Типы страниц Universal App: полный обзор'
+    description: 'Описание всех типов страниц Universal App: таблица, форма, галерея, календарь, Канбан, таймлайн и другие для гибких решений.'
+
 weight: 1
 ---
 

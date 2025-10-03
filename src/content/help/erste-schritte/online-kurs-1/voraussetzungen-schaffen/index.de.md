@@ -6,6 +6,10 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/voraussetzungen-schaffen'
+seo:
+    title: 'Voraussetzungen für SeaTable Online-Kurs: Anmeldung'
+    description: 'Voraussetzungen für den SeaTable Online-Kurs: Account bei SeaTable und im Community-Forum schnell erstellen und direkt mit dem Kurs starten.'
+
 weight: 2
 ---
 

@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
-url: '/es/ayuda/verknuepfungen-innerhalb-einer-tabelle'
+url: '/es/ayuda/vincular-registros-misma-tabla'
+aliases:
+    - '/es/ayuda/verknuepfungen-innerhalb-einer-tabelle'
+seo:
+    title: 'Vincular registros en la misma tabla: SeaTable'
+    description: 'Aprende a vincular datos dentro de una tabla SeaTable: jerarquía, relaciones padre-hijo, columnas dobles y consejos de configuración.'
+
 ---
 
 Puede utilizar una **columna de enlace** en SeaTable no sólo para [enlazar varias tablas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sino también para **relacionar registros de datos de una misma tabla**.

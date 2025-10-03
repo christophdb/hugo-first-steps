@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
-url: '/help/verknuepfungen-innerhalb-einer-tabelle'
+url: '/help/linking-records-within-table'
+aliases:
+    - '/help/verknuepfungen-innerhalb-einer-tabelle'
+seo:
+    title: 'Linking Records Within a Table: SeaTable Guide'
+    description: 'How to link rows in the same SeaTable: hierarchy, parent-child relations, double link columns, and clear tips for table connections.'
+
 ---
 
 With the help of a **link column**, you can not only [link several tables with each other]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in SeaTable, but also **relate data records in one and the same table to each other**.

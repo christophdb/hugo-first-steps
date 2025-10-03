@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
-url: '/ru/pomoshch/verknuepfungen-innerhalb-einer-tabelle'
+url: '/ru/pomoshch/svyazi-v-odnoy-tablitse'
+aliases:
+    - '/ru/pomoshch/verknuepfungen-innerhalb-einer-tabelle'
+seo:
+    title: 'Связи в одной таблице: инструкция SeaTable'
+    description: 'Связывайте записи внутри одной таблицы SeaTable: иерархия, родительские и дочерние строки, двойные колонки, практические советы.'
+
 ---
 
 С помощью **столбца ссылок** в SeaTable можно не только [связать несколько таблиц]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), но и **соотнести записи данных в одной и той же таблице**.

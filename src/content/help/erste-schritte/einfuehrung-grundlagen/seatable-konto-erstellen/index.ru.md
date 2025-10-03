@@ -5,7 +5,13 @@ lastmod: '2023-09-07'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/pomoshch/seatable-konto-erstellen'
+url: '/ru/pomoshch/sozdanie-akkaunta-seatable'
+aliases:
+    - '/ru/pomoshch/seatable-konto-erstellen'
+seo:
+    title: 'Создать аккаунт SeaTable: быстро и бесплатно'
+    description: 'Регистрация SeaTable за пару минут: не нужны платежные данные, приглашайте команду, работайте бесплатно, используйте шаблоны.'
+
 weight: 2
 ---
 

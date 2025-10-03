@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/pt/ajuda/seitentypen-in-der-universellen-app'
+url: '/pt/ajuda/tipos-pagina-app-universal'
+aliases:
+    - '/pt/ajuda/seitentypen-in-der-universellen-app'
+seo:
+    title: 'Tipos de página em App Universal: visão geral'
+    description: 'Veja todos os tipos de página na App Universal: tabela, formulário, galeria, calendário, Kanban, timeline e outros, para apps flexíveis.'
+
 weight: 1
 ---
 

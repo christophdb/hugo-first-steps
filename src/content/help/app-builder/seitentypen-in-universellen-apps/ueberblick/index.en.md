@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/help/seitentypen-in-der-universellen-app'
+url: '/help/page-types-overview-universal-app'
+aliases:
+    - '/help/seitentypen-in-der-universellen-app'
+seo:
+    title: 'Universal App Page Types: Features & Overview'
+    description: 'Discover all Universal App page types: table, form, gallery, calendar, Kanban, timeline and more – flexible views for your app project.'
+
 weight: 1
 ---
 

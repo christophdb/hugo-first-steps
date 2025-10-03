@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
 url: '/de/hilfe/tabellen-ausblenden'
+seo:
+    title: 'Tabellen ausblenden: SeaTable Anleitung für Übersicht'
+    description: 'Wenig genutzte Tabellen einfach ausblenden: Tabs im Base-Header reduzieren, Drop-down nutzen und Fokus bei großen Bases behalten.'
+
 ---
 
 Besonders bei Bases mit sehr vielen Tabellen kann es im Base-Header unübersichtlich werden. Deshalb bietet SeaTable die Möglichkeit, weniger oft genutzte **Tabellen auszublenden**. Eine ausgeblendete Tabelle wird nicht mehr als Tab im Base-Header angezeigt und ist nur noch über das **Drop-down-Menü** aufrufbar.

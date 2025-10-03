@@ -6,6 +6,10 @@ categories:
     - 'verknuepfungen'
 author: 'kgr'
 url: '/de/hilfe/verknuepfungen-innerhalb-einer-tabelle'
+seo:
+    title: 'Verknüpfungen in einer Tabelle: SeaTable Anleitung'
+    description: 'Datensätze in einer Tabelle per Verknüpfungsspalte verbinden: Hierarchien, Eltern-Kind-Beziehung und praktische Tipps für SeaTable Nutzer.'
+
 ---
 
 Mithilfe einer **Verknüpfungsspalte** können Sie in SeaTable nicht nur [mehrere Tabellen miteinander verlinken]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sondern auch **Datensätze in ein und derselben Tabelle miteinander in Beziehung setzen**.

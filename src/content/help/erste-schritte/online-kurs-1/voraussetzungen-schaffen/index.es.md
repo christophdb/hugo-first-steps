@@ -5,7 +5,13 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/voraussetzungen-schaffen'
+url: '/es/ayuda/requisitos-curso-online'
+aliases:
+    - '/es/ayuda/voraussetzungen-schaffen'
+seo:
+    title: 'Requisitos para el curso online de SeaTable'
+    description: 'Curso online SeaTable: Registra tu cuenta, únete al foro y empieza el aprendizaje interactivo, consigue ayuda y distintivos.'
+
 weight: 2
 ---
 

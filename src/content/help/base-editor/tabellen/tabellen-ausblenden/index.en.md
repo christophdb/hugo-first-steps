@@ -5,7 +5,13 @@ lastmod: '2025-02-25'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/help/tabellen-ausblenden'
+url: '/help/hide-tables-seatable'
+aliases:
+    - '/help/tabellen-ausblenden'
+seo:
+    title: 'Hide Tables: SeaTable Guide for Clearer Bases'
+    description: 'Hide rarely used tables in SeaTable: use dropdowns, reduce tabs, and keep your base header organized even with many tables.'
+
 ---
 
 The base header can become confusing, especially for bases with a large number of tables. SeaTable therefore offers the option of **hiding** less frequently used **tables**. A hidden table is no longer displayed as a tab in the base header and can only be accessed via the **drop-down menu**.

@@ -6,6 +6,10 @@ categories:
     - 'erste-schritte'
 author: 'cdb'
 url: '/de/hilfe/seatable-konto-erstellen'
+seo:
+    title: 'SeaTable Konto erstellen: Schnell & kostenlos'
+    description: 'Neues SeaTable Konto anlegen: Registrierung in Minuten, keine Zahlungsdaten notwendig, Team einladen und direkt starten mit Free-Abo.'
+
 weight: 2
 ---
 

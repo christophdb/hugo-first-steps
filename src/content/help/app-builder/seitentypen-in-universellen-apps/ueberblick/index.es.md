@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/es/ayuda/seitentypen-in-der-universellen-app'
+url: '/es/ayuda/tipos-pagina-app-universal'
+aliases:
+    - '/es/ayuda/seitentypen-in-der-universellen-app'
+seo:
+    title: 'Tipos de página en app universal: guía y usos'
+    description: 'Conozca todos los tipos de página en la App Universal: tabla, formulario, galería, calendario, Kanban y más. Encuentre el formato ideal.'
+
 weight: 1
 ---
 
