@@ -5,7 +5,13 @@ lastmod: '2025-02-25'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/pt/ajuda/tabellen-ausblenden'
+url: '/pt/ajuda/ocultar-tabelas-seatable'
+aliases:
+    - '/pt/ajuda/tabellen-ausblenden'
+seo:
+    title: 'Ocultar tabelas no SeaTable: guia para mais ordem'
+    description: 'Oculte tabelas menos usadas e mantenha sua base arrumada: menos abas, menu dropdown e total controle sobre a interface do SeaTable.'
+
 ---
 
 O cabeçalho da base pode tornar-se confuso, especialmente para bases com um grande número de tabelas. Por este motivo, o SeaTable oferece a opção de **ocultar as tabelas** utilizadas com menos frequência. Uma tabela oculta deixa de ser apresentada como um separador no cabeçalho da base e só pode ser acedida através do **menu pendente**.

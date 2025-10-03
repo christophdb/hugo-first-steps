@@ -6,6 +6,10 @@ categories:
     - 'universelle-apps'
 author: 'nsc2'
 url: '/de/hilfe/seitentypen-in-der-universellen-app'
+seo:
+    title: 'Seitentypen Universal App: Übersicht & Funktionen'
+    description: 'Alle Seitentypen der Universellen App erklärt: Tabelle, Kalender, Formular, Kanban, Timeline und mehr. Finden Sie die passende App-Seite!'
+
 weight: 1
 ---
 

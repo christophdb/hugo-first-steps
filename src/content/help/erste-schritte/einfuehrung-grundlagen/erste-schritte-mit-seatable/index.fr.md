@@ -5,7 +5,13 @@ lastmod: '2023-05-15'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/fr/aide/erste-schritte-mit-seatable'
+url: '/fr/aide/premiers-pas-seatable'
+aliases:
+    - '/fr/aide/erste-schritte-mit-seatable'
+seo:
+    title: 'Premiers pas avec SeaTable : mode d’emploi'
+    description: 'Découvrez SeaTable : guide rapide, lancez votre projet, trouvez des modèles, consultez la FAQ et profitez de la communauté en ligne.'
+
 weight: 3
 ---
 

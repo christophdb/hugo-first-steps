@@ -5,7 +5,13 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/voraussetzungen-schaffen'
+url: '/fr/aide/prerequis-cours-en-ligne'
+aliases:
+    - '/fr/aide/voraussetzungen-schaffen'
+seo:
+    title: 'Prérequis pour le cours en ligne SeaTable'
+    description: 'Cours en ligne SeaTable : inscrivez-vous, rejoignez le forum et suivez les étapes nécessaires pour commencer et obtenir votre badge.'
+
 weight: 2
 ---
 

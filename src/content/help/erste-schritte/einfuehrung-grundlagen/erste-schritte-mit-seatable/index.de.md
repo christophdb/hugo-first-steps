@@ -6,6 +6,10 @@ categories:
     - 'erste-schritte'
 author: 'cdb'
 url: '/de/hilfe/erste-schritte-mit-seatable'
+seo:
+    title: 'Erste Schritte mit SeaTable: Anleitung & Tipps'
+    description: 'Schnell produktiv werden: SeaTable Kurzanleitung, Projekt starten, Vorlagen entdecken, Hilfe und Community-Funktionen einfach nutzen.'
+
 weight: 3
 ---
 

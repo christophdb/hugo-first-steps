@@ -5,7 +5,13 @@ lastmod: '2023-05-15'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/help/erste-schritte-mit-seatable'
+url: '/help/getting-started-seatable'
+aliases:
+    - '/help/erste-schritte-mit-seatable'
+seo:
+    title: 'Getting Started with SeaTable: Guide & Tips'
+    description: 'Get up and running with SeaTable: quick guide, start your first project, explore templates, and find answers in our help section.'
+
 weight: 3
 ---
 

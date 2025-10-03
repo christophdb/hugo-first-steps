@@ -5,7 +5,13 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/voraussetzungen-schaffen'
+url: '/ru/pomoshch/trebovaniya-onlayn-kursa'
+aliases:
+    - '/ru/pomoshch/voraussetzungen-schaffen'
+seo:
+    title: 'Требования для онлайн-курса SeaTable: регистрация'
+    description: 'Как начать онлайн-курс SeaTable: зарегистрируйте аккаунт в системе и на форуме, получите помощь, бейдж и доступ к урокам.'
+
 weight: 2
 ---
 

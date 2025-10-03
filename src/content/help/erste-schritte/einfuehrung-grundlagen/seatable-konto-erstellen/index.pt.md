@@ -5,7 +5,13 @@ lastmod: '2023-09-07'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/pt/ajuda/seatable-konto-erstellen'
+url: '/pt/ajuda/criar-conta-seatable'
+aliases:
+    - '/pt/ajuda/seatable-konto-erstellen'
+seo:
+    title: 'Criar conta SeaTable: cadastro rápido e gratuito'
+    description: 'Cadastre-se no SeaTable em instantes: sem cartão, convide equipe e importe modelos para usar de imediato. Gratuito!'
+
 weight: 2
 ---
 

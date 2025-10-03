@@ -5,7 +5,13 @@ lastmod: '2025-02-28'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
-url: '/fr/aide/verknuepfungen-innerhalb-einer-tabelle'
+url: '/fr/aide/liaisons-dans-meme-table'
+aliases:
+    - '/fr/aide/verknuepfungen-innerhalb-einer-tabelle'
+seo:
+    title: 'Liaisons dans une même table : Guide SeaTable'
+    description: 'Reliez des enregistrements dans une table SeaTable : hiérarchies, parent-enfant, colonnes liées et conseils pratiques pas à pas.'
+
 ---
 
 Une **colonne de liaison** dans SeaTable permet non seulement de [lier plusieurs tableaux entre eux]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi **de mettre en relation les enregistrements d'un même tableau**.
