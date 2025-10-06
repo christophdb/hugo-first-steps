@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/pomoshch/apps-bearbeiten'
+url: '/ru/pomoshch/redaktirovat-prilozheniya'
+aliases:
+    - '/ru/pomoshch/apps-bearbeiten'
+seo:
+    title: 'Редактирование приложений в SeaTable: подробная инструкция'
+    description: 'Узнайте, как редактировать приложения в SeaTable: как открыть режим редактирования, управлять правами и настраивать все параметры.'
+
 ---
 
 Приложения, которые вы уже добавили в одну из своих баз, можно редактировать в любое время на одноименной вкладке в шапке базы.

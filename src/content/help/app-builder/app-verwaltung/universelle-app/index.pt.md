@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/pt/ajuda/universelle-app'
+url: '/pt/ajuda/app-universal-seatable'
+aliases:
+    - '/pt/ajuda/universelle-app'
+seo:
+    title: 'App Universal SeaTable: recursos e instruções'
+    description: 'Saiba tudo sobre a App Universal SeaTable: tipos de página, dashboards, permissões, usuários, compartilhamento, cópia e design.'
+
 ---
 
 Ao criar uma **aplicação universal**, pode dar asas à sua criatividade. A aplicação tem uma série de [tipos de páginas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) uma **página individual**, pode criar dashboards com **estatísticas** significativas dos seus dados que pode partilhar com outros utilizadores (externos).

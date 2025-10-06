@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/fr/aide/zeilen-aus-dem-big-data-backend-zurueckholen'
+url: '/fr/aide/recuperer-lignes-big-data'
+aliases:
+    - '/fr/aide/zeilen-aus-dem-big-data-backend-zurueckholen'
+seo:
+    title: 'Récupérer des lignes du stockage Big Data SeaTable'
+    description: 'Apprenez à récupérer les lignes archivées du stockage Big Data dans SeaTable et à les remettre dans une vue normale rapidement.'
+
 ---
 
 Pour récupérer des lignes de la mémoire Big Data, vous avez besoin d'une [vue Big Data]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) souhaitées et les déplacer à nouveau vers une **vue normale**.

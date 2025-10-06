@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/funktioniert-seatable-auch-auf-mobilen-geraeten-und-handys'
+url: '/fr/aide/seatable-mobiles-smartphones'
+aliases:
+    - '/fr/aide/funktioniert-seatable-auch-auf-mobilen-geraeten-und-handys'
+seo:
+    title: 'SeaTable sur mobiles et smartphones : guide'
+    description: 'SeaTable fonctionne sur smartphone, tablette et navigateur. Appli Android et affichage adapté garantissent une expérience optimale partout.'
+
 ---
 
 Bien entendu, SeaTable peut également être utilisé sur **des appareils mobiles** tels que les smartphones et les tablettes. L'accès à SeaTable se fait soit par le navigateur, soit par [l'application Android, que l'on trouve dans le Google Play Store](https://play.google.com/store/apps/details?id=io.seatable&pli=1). Une application pour iOS est déjà prévue, mais il n'existe pas encore de date de publication.

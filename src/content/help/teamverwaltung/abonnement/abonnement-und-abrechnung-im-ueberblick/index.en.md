@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'nsc2'
-url: '/help/abonnement-und-abrechnung-im-ueberblick'
+url: '/help/subscription-billing-overview'
+aliases:
+    - '/help/abonnement-und-abrechnung-im-ueberblick'
+seo:
+    title: 'SeaTable Subscription & Billing: Full Overview'
+    description: 'Find all about SeaTable subscription plans, billing, invoices, upgrading, team settings, cancellation and discounts in one place.'
+
 ---
 
 The following article serves as an overview article on subscription and billing. From the individual subscription packages available, to retrieving your invoices, to canceling your subscription - you will find any links to the available help articles that will answer any questions you may have regarding subscription and billing.

@@ -6,6 +6,10 @@ categories:
     - 'big-data'
 author: 'nsc2'
 url: '/de/hilfe/zeilen-aus-dem-big-data-backend-zurueckholen'
+seo:
+    title: 'Zeilen aus Big-Data-Speicher zurückholen: Anleitung'
+    description: 'Erfahren Sie, wie Sie archivierte Zeilen aus dem SeaTable Big-Data-Speicher zurückholen und wieder in eine normale Ansicht verschieben können.'
+
 ---
 
 Um Zeilen aus dem Big-Data-Speicher zurückzuholen, benötigen Sie eine [Big-Data-Ansicht]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) und wieder in eine **normale Ansicht** verschieben.

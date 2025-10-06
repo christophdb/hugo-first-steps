@@ -5,7 +5,13 @@ lastmod: '2023-08-22'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/help/wie-aendert-man-die-eigene-e-mail-adresse'
+url: '/help/how-to-change-email-address'
+aliases:
+    - '/help/wie-aendert-man-die-eigene-e-mail-adresse'
+seo:
+    title: 'How to Change Your Email Address in SeaTable'
+    description: 'Learn how to change your email in SeaTable by migrating to a new account with export/import of bases and team member transfer.'
+
 ---
 
 The SeaTable Cloud does **not currently allow users to change their email address**. Neither the user nor the team administrator can change the email address of an existing account. However, this is possible **by** creating a **new account** with a **new email address** and deleting the existing account. This procedure is described in the following article.

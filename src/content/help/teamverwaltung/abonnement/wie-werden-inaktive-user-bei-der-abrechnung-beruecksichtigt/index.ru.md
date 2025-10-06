@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+url: '/ru/pomoshch/neudalyonnyye-polzovateli-oplata'
+aliases:
+    - '/ru/pomoshch/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+seo:
+    title: 'Неактивные пользователи и расчет лицензий SeaTable'
+    description: 'В SeaTable неактивные пользователи не требуют лицензии и не учитываются в общем числе оплачиваемых мест—легко экономьте бюджет.'
+
 ---
 
 Для того чтобы использовать SeaTable в вашей команде, лицензия должна быть приобретена отдельно для каждого пользователя.  

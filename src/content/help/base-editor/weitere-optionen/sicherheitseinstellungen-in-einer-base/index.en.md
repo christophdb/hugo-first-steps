@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/sicherheitseinstellungen-in-einer-base'
+url: '/help/security-settings-in-a-base'
+aliases:
+    - '/help/sicherheitseinstellungen-in-einer-base'
+seo:
+    title: 'Security Settings in a SeaTable Base: Complete Guide'
+    description: 'Manage security in SeaTable: control exports, printing, copying, and data processing for all users and groups step by step.'
+
 ---
 
 In the security settings of your base, you can make settings at any time that affect the security of your base and the protection of the data contained therein. The security settings apply specifically to a complete base and can differ from base to base depending on the settings made.

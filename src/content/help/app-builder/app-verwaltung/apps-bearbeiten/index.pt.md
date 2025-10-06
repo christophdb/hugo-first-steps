@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/pt/ajuda/apps-bearbeiten'
+url: '/pt/ajuda/editar-apps'
+aliases:
+    - '/pt/ajuda/apps-bearbeiten'
+seo:
+    title: 'Como editar apps no SeaTable: guia passo a passo'
+    description: 'Edite aplicativos SeaTable facilmente – tutorial completo para acessar o modo de edição, gerenciar permissões e fazer ajustes rápidos.'
+
 ---
 
 As aplicações que já adicionou a uma das suas bases podem ser editadas em qualquer altura através do separador com o mesmo nome no cabeçalho da base.

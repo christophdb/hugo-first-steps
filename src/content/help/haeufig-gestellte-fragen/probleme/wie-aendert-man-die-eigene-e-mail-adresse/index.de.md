@@ -6,6 +6,10 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
 url: '/de/hilfe/wie-aendert-man-die-eigene-e-mail-adresse'
+seo:
+    title: 'Wie ändert man die eigene E-Mail-Adresse?'
+    description: 'Erfahren Sie, wie Sie in SeaTable Ihre E-Mail-Adresse ändern können – per Migration zu neuem Account mit Export der Bases und Teamverwaltung.'
+
 ---
 
 In der SeaTable Cloud ist ein **Wechsel der eigenen E-Mail-Adresse aktuell nicht vorgesehen**. Weder der Benutzer selbst noch der Team-Administrator kann bei einem bestehenden Account die E-Mail-Adresse ändern. Über einen **Umweg** ist dies aber möglich, indem Sie einen **neuen Account** mit einer **neuen E-Mail-Adresse** anlegen und den bisherigen Account löschen. Im folgenden Artikel wird dieses Vorgehen beschrieben.

@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung-abonnement'
 author: 'nsc2'
 url: '/de/hilfe/abonnement-und-abrechnung-im-ueberblick'
+seo:
+    title: 'SeaTable Abonnement & Abrechnung: Überblick & Infos'
+    description: 'Alles zu SeaTable Abo-Paketen, Verwaltung, Lizenzen, Zahlungsmethoden, Limits, Kündigung und Infos für Teams auf einen Blick.'
+
 ---
 
 Der folgende Artikel dient als Übersichtsartikel zum Thema Abonnement und Abrechnung. Von den einzelnen verfügbaren Abo-Paketen, dem Abruf Ihrer Rechnungen bis hin zur Kündigung Ihres Abos - Sie finden hier jegliche Links zu den verfügbaren Hilfe-Artikeln, die Ihnen alle Fragen bezüglich Abonnement und Abrechnung beantworten.

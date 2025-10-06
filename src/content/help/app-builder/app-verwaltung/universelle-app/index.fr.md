@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/fr/aide/universelle-app'
+url: '/fr/aide/app-universelle-seatable'
+aliases:
+    - '/fr/aide/universelle-app'
+seo:
+    title: 'App Universelle SeaTable : mode d’emploi complet'
+    description: 'Découvrez l’App universelle SeaTable : pages, tableaux de bord, droits, gestion d’utilisateurs, partage, duplication et conseils design.'
+
 ---
 
 Lorsque vous construisez une **application universelle**, vous pouvez laisser libre cours à votre créativité. L'appli dispose de plusieurs [types de pages]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) une **page individuelle**, vous pouvez créer des tableaux de bord avec des **statistiques** pertinentes à partir de vos données, que vous pouvez partager avec d'autres utilisateurs (externes).

@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+url: '/es/ayuda/usuarios-inactivos-facturacion'
+aliases:
+    - '/es/ayuda/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+seo:
+    title: 'Cómo afectan usuarios inactivos a la facturación'
+    description: 'Descubra cómo los usuarios inactivos en SeaTable no cuentan a efectos de licencias ni en el total de usuarios facturados.'
+
 ---
 
 Para utilizar SeaTable en su equipo, debe adquirir una licencia por separado para cada usuario.  

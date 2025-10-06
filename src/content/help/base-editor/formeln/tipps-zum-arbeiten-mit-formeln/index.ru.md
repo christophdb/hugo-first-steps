@@ -5,7 +5,13 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/tipps-zum-arbeiten-mit-formeln'
+url: '/ru/pomoshch/sovety-po-formulam-seatable'
+aliases:
+    - '/ru/pomoshch/tipps-zum-arbeiten-mit-formeln'
+seo:
+    title: 'Советы по работе с формулами в SeaTable'
+    description: 'Полезные советы для формул в SeaTable: переносы строк, подсветка, скобки, планирование, типовые ошибки и работа с редактором.'
+
 ---
 
 Здесь Вы найдете помощь и советы, которые облегчат Вашу работу с формулами Seatable. Список всех доступных формул можно найти [здесь]({{< relref "help/base-editor/formeln/formelreferenz" >}}).

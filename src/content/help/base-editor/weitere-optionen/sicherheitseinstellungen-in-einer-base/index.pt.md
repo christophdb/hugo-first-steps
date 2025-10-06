@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/pt/ajuda/sicherheitseinstellungen-in-einer-base'
+url: '/pt/ajuda/configuracoes-seguranca-base'
+aliases:
+    - '/pt/ajuda/sicherheitseinstellungen-in-einer-base'
+seo:
+    title: 'Configurações de segurança em uma base SeaTable'
+    description: 'Proteja sua base SeaTable: controle exportação, impressão, cópias e operações de dados para usuários e grupos facilmente.'
+
 ---
 
 Nas definições de segurança da sua base, pode efectuar, em qualquer altura, definições que afectam a segurança da sua base e a protecção dos dados nela contidos. As definições de segurança aplicam-se especificamente a uma base completa e podem diferir de base para base, consoante as definições efectuadas.

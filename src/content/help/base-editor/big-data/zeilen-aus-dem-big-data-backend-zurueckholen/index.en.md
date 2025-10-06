@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/help/zeilen-aus-dem-big-data-backend-zurueckholen'
+url: '/help/restore-rows-big-data-storage'
+aliases:
+    - '/help/zeilen-aus-dem-big-data-backend-zurueckholen'
+seo:
+    title: 'Restore Rows from Big Data Storage: SeaTable Guide'
+    description: 'Learn how to restore archived rows from SeaTable’s Big Data storage back to normal views quickly and effectively.'
+
 ---
 
 To retrieve rows from the big data storage, you need a [big data view]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) **normal view**.

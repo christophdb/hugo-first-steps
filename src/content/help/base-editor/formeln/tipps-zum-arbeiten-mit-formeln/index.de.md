@@ -6,6 +6,10 @@ categories:
     - 'formeln'
 author: 'nsc2'
 url: '/de/hilfe/tipps-zum-arbeiten-mit-formeln'
+seo:
+    title: 'Tipps für die Arbeit mit Formeln in SeaTable'
+    description: 'Praktische Tipps für SeaTable Formeln: Zeilenumbrüche, Syntaxhilfen, Farbmarkierung, Klammern, Planung und Fehlervermeidung.'
+
 ---
 
 Hier finden Sie Hilfestellungen und Tipps, die Ihnen die Arbeit mit Seatable Formeln erleichtern. Eine Liste aller verfügbaren Formeln finden Sie [hier]({{< relref "help/base-editor/formeln/formelreferenz" >}}).

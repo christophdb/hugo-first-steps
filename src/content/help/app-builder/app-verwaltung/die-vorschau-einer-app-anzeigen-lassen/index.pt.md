@@ -5,7 +5,13 @@ lastmod: '2024-07-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/pt/ajuda/die-vorschau-einer-app-anzeigen-lassen'
+url: '/pt/ajuda/visualizar-previa-app'
+aliases:
+    - '/pt/ajuda/die-vorschau-einer-app-anzeigen-lassen'
+seo:
+    title: 'Visualize a prévia do app no SeaTable: como testar'
+    description: 'Veja e teste seus apps SeaTable antes de lançar, exibindo a prévia no modo edição ou abrindo diretamente o app.'
+
 ---
 
 Para optimizar o design das suas aplicações, deve, naturalmente, **testá-las** antes de as publicar. Para ver as suas aplicações como os utilizadores as vêem, pode **pré-visualizar** o estado de edição actual em qualquer altura ou simplesmente **abrir** as aplicações no modo normal.

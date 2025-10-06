@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+url: '/help/inactive-users-billing'
+aliases:
+    - '/help/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+seo:
+    title: 'How Inactive Users Affect Billing in SeaTable'
+    description: 'See how inactive users in SeaTable require no license and are excluded from your total billed user count—manage team costs easily.'
+
 ---
 
 To use SeaTable in your team, a license must be purchased separately for each user.  

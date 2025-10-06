@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'nsc2'
-url: '/es/ayuda/abonnement-und-abrechnung-im-ueberblick'
+url: '/es/ayuda/abonos-facturacion-overview'
+aliases:
+    - '/es/ayuda/abonnement-und-abrechnung-im-ueberblick'
+seo:
+    title: 'Abonos y facturación en SeaTable: guía completa'
+    description: 'Conoce paquetes de abono, facturación, usuarios, cambios, pagos, límites y cancelación en SeaTable para tu equipo y organización.'
+
 ---
 
 El siguiente artículo ofrece una visión general sobre el tema de la suscripción y la facturación. Desde los paquetes de suscripción individuales disponibles, pasando por la recuperación de sus facturas, hasta la cancelación de su suscripción - encontrará todos los enlaces a los artículos de ayuda disponibles que responderán a cualquier pregunta que pueda tener en relación con la suscripción y la facturación.

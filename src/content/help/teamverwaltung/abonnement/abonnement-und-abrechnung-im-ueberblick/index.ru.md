@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'nsc2'
-url: '/ru/pomoshch/abonnement-und-abrechnung-im-ueberblick'
+url: '/ru/pomoshch/podpiska-oplata-obzor'
+aliases:
+    - '/ru/pomoshch/abonnement-und-abrechnung-im-ueberblick'
+seo:
+    title: 'SeaTable: подписка и оплата — полный обзор'
+    description: 'Всё о тарифах, оплате, счетах, смене команд, лимитах, оплате, скидках, отмене подписки и правилах для пользователей SeaTable.'
+
 ---
 
 Следующая статья представляет собой обзорную статью по теме подписки и выставления счетов. Здесь вы найдете все ссылки на доступные справочные статьи, которые ответят на любые вопросы, касающиеся подписки и выставления счетов, начиная с отдельных доступных пакетов подписки и заканчивая получением счетов и отменой подписки.

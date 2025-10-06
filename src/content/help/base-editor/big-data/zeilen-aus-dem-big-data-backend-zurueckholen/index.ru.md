@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/ru/pomoshch/zeilen-aus-dem-big-data-backend-zurueckholen'
+url: '/ru/pomoshch/vosstanovlenie-strok-big-data'
+aliases:
+    - '/ru/pomoshch/zeilen-aus-dem-big-data-backend-zurueckholen'
+seo:
+    title: 'Восстановление строк из Big-Data-хранилища SeaTable'
+    description: 'Узнайте, как быстро вернуть архивные строки из Big Data хранилища SeaTable в обычный вид для дальнейшей работы.'
+
 ---
 
 Для извлечения строк из памяти больших данных необходимо [представление больших данных]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) нужные строки и переместить их обратно в **обычное представление**.

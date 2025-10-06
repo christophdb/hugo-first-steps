@@ -6,6 +6,10 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/apps-bearbeiten'
+seo:
+    title: 'Apps in SeaTable bearbeiten: Anleitung und Einstellungen'
+    description: 'Bearbeiten Sie Apps in SeaTable sicher – Schritt-für-Schritt-Anleitung zu Bearbeitungsmodus, Nutzerrechten und wichtigen Einstellungen.'
+
 ---
 
 Apps, die Sie bereits zu einer Ihrer Bases hinzugefügt haben, können Sie jederzeit über den gleichnamigen Reiter im Base-Header bearbeiten.

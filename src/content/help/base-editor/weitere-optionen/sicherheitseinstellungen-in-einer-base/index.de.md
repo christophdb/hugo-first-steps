@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/sicherheitseinstellungen-in-einer-base'
+seo:
+    title: 'Sicherheitseinstellungen in einer SeaTable Base ändern'
+    description: 'Schützen Sie Ihre Base: So definieren Sie Exporte, Druck, Kopieren und Datenverarbeitung individuell für Nutzer und Gruppen in SeaTable.'
+
 ---
 
 In den Sicherheitseinstellungen Ihrer Base können Sie jederzeit Einstellungen vornehmen, welche die Sicherheit Ihrer Base und den Schutz der darin befindlichen Daten betreffen. Die Sicherheitseinstellungen gelten dabei spezifisch für eine komplette Base und können sich je nach vorgenommenen Einstellungen von Base zu Base unterscheiden.
