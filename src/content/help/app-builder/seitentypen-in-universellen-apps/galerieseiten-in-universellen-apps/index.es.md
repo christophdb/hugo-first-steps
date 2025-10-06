@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/galerieseiten-in-universellen-apps'
+url: '/es/ayuda/paginas-galeria-apps-universales'
+aliases:
+    - '/es/ayuda/galerieseiten-in-universellen-apps'
+seo:
+    title: 'Páginas de galería en Apps Universales: guía'
+    description: 'Muestre imágenes y datos en galerías dentro de SeaTable: controle filtros, permisos y enlaces de tablas según sus necesidades.'
+
 ---
 
 Puede utilizar este tipo de página para mostrar **imágenes** y otros datos que haya guardado en su hoja de cálculo en forma de **galería** dentro de una aplicación universal. Podrías utilizar una página de galería para **perfiles claros de tus** empleados, por ejemplo.

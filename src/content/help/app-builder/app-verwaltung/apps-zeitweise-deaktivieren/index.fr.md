@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'kgr'
-url: '/fr/aide/apps-zeitweise-deaktivieren'
+url: '/fr/aide/desactiver-temporairement-apps'
+aliases:
+    - '/fr/aide/apps-zeitweise-deaktivieren'
+seo:
+    title: 'Désactiver temporairement les apps SeaTable'
+    description: 'Apprenez à désactiver temporairement les apps SeaTable, gérer les droits et réactiver l’accès facilement lors des modifications.'
+
 ---
 
 Il peut arriver que vous souhaitiez **empêcher temporairement l’utilisation d’une application** parce que, par exemple, vous apportez des modifications importantes à la base sous-jacente. Dans ce cas, vous pouvez désactiver les applications à tout moment en quelques clics.

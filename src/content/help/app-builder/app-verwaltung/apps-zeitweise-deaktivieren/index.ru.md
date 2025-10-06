@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'kgr'
-url: '/ru/pomoshch/apps-zeitweise-deaktivieren'
+url: '/ru/pomoshch/vremenno-otklyuchat-prilozheniya'
+aliases:
+    - '/ru/pomoshch/apps-zeitweise-deaktivieren'
+seo:
+    title: 'Временное отключение приложений SeaTable'
+    description: 'Узнайте, как временно отключать приложения в SeaTable, управлять правами доступа и быстро восстанавливать работу по необходимости.'
+
 ---
 
 Может случиться так, что вы захотите **временно запретить использование приложения** , потому что, например, вы вносите значительные изменения в базовую базу. В этом случае вы можете отключить приложения в любое время всего несколькими щелчками мыши.

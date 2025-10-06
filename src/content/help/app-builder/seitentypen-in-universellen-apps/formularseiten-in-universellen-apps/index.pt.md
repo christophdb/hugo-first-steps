@@ -5,7 +5,13 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/formularseiten-in-universellen-apps'
+url: '/pt/ajuda/paginas-formulario-apps-universais'
+aliases:
+    - '/pt/ajuda/formularseiten-in-universellen-apps'
+seo:
+    title: 'Páginas de formulário em Apps Universais: guia'
+    description: 'Crie páginas de formulário no SeaTable: campos por drag-and-drop, obrigatórios, textos de ajuda e controle de acesso fácil.'
+
 ---
 
 Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. As páginas de formulário em aplicações universais são ideais para recolher dados de muitos utilizadores diferentes. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados]({{< relref "pages/arbeitszeiterfassung" >}}).

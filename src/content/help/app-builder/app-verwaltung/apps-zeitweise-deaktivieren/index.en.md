@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'kgr'
-url: '/help/apps-zeitweise-deaktivieren'
+url: '/help/temporarily-disable-apps'
+aliases:
+    - '/help/apps-zeitweise-deaktivieren'
+seo:
+    title: 'Temporarily Disable Apps: SeaTable How-To'
+    description: 'Learn to temporarily disable apps in SeaTable, manage permissions, and restore access easily when needed for base maintenance.'
+
 ---
 
 It may happen that you want to **temporarily prevent the use of an app** because, for example, you are making extensive changes to the underlying base. In this case, you can disable apps at any time with just a few clicks.

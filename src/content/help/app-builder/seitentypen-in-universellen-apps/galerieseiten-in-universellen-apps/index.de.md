@@ -6,6 +6,10 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/galerieseiten-in-universellen-apps'
+seo:
+    title: 'Galerieseiten in Universellen Apps: Anleitung'
+    description: 'Erstellen Sie Galerieseiten in SeaTable Apps: Bilder & Datensätze als Galerie, Filter, Berechtigungen & verknüpfte Tabellen flexibel nutzen.'
+
 ---
 
 Mithilfe dieses Seitentyps können Sie **Bilder** und andere Daten, die Sie in Ihrer Tabelle gespeichert haben, in Form einer **Galerie** innerhalb einer Universellen App anzeigen lassen. Eine Galerieseite könnten Sie zum Beispiel für übersichtliche **Steckbriefe Ihrer Mitarbeiter** verwenden.

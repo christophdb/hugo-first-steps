@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/galerieseiten-in-universellen-apps'
+url: '/fr/aide/pages-galerie-apps-universelles'
+aliases:
+    - '/fr/aide/galerieseiten-in-universellen-apps'
+seo:
+    title: 'Pages galerie dans Apps universelles : mode d’emploi'
+    description: 'Présentez images & données en galerie dans SeaTable Apps : filtres, droits d’accès et liens de tables personnalisables.'
+
 ---
 
 Ce type de page vous permet d'afficher **des images** et d'autres données que vous avez enregistrées dans votre tableau sous la forme d'une **galerie** au sein d'une application universelle. Vous pouvez par exemple utiliser une page de galerie pour **créer des fiches d'information** claires sur **vos collaborateurs**.

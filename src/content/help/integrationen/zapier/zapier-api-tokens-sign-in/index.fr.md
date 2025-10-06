@@ -5,7 +5,13 @@ lastmod: '2023-06-27'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/fr/aide/zapier-api-tokens-sign-in'
+url: '/fr/aide/creer-token-api-zapier'
+aliases:
+    - '/fr/aide/zapier-api-tokens-sign-in'
+seo:
+    title: 'Créer un token API pour Zapier avec SeaTable'
+    description: 'Apprenez à créer un token API dans SeaTable pour Zapier, gérer les accès et connecter vos apps pour une automatisation sécurisée.'
+
 ---
 
 Dès que vous utilisez l'application SeaTable dans Zapier, vous devez autoriser Zapier à accéder à l'une de vos bases. Pour cela, vous créez un [jeton d'API]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) dans SeaTable et l'utilisez dans Zapier. Cet article d'aide vous montre ce à quoi vous devez faire attention.

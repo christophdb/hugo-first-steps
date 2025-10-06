@@ -5,7 +5,13 @@ lastmod: '2024-02-13'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/pomoshch/webhook-bei-mehreren-gleichzeitigen-aenderungen'
+url: '/ru/pomoshch/webhook-pri-odnovremennyh-izmeneniyah'
+aliases:
+    - '/ru/pomoshch/webhook-bei-mehreren-gleichzeitigen-aenderungen'
+seo:
+    title: 'Webhook при одновременных изменениях в SeaTable'
+    description: 'Узнайте, как SeaTable отправляет один webhook при изменениях нескольких строк и о значении параметра row_count для передачи данных.'
+
 ---
 
 Обычно SeaTable отправляет веб-хук для каждого изменения строки. Однако если изменение в веб-редакторе изменяет несколько рядов одновременно, генерируется только один веб-хук с дополнительным параметром _row_count_.

@@ -5,7 +5,13 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/formularseiten-in-universellen-apps'
+url: '/ru/pomoshch/formy-v-universalnyh-prilozheniyah'
+aliases:
+    - '/ru/pomoshch/formularseiten-in-universellen-apps'
+seo:
+    title: 'Формы в Универсальных приложениях: инструкция'
+    description: 'Создайте страницы форм в SeaTable: перетаскивайте поля, задавайте обязательные, пишите подсказки и управляйте доступом легко.'
+
 ---
 
 Вы можете использовать этот тип страницы для создания различных **форм**, которые пользователи могут отправлять. Страницы форм в универсальных приложениях идеально подходят для сбора данных от разных пользователей. Один из возможных вариантов использования - [учет рабочего времени ваших сотрудников]({{< relref "pages/arbeitszeiterfassung" >}}).
