@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'kgr'
-url: '/es/ayuda/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+url: '/es/ayuda/copiar-filas-otra-tabla-boton'
+aliases:
+    - '/es/ayuda/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+seo:
+    title: 'Copiar filas a otra tabla con botón: guía SeaTable'
+    description: 'Copie datos entre tablas por botón en SeaTable: use filtros, condiciones y automatice procesos fácilmente según sus necesidades.'
+
 ---
 
 Puede utilizar un **botón** para **copiar filas a otras tablas**. Esto resulta útil si necesita determinados registros de datos en diferentes tablas pero no desea utilizar [un enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Las siguientes instrucciones ilustran el caso de uso utilizando un ejemplo.

@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
 url: '/de/hilfe/duplizieren-einer-tabelle'
+seo:
+    title: 'Tabellen duplizieren: Struktur & Einträge kopieren'
+    description: 'Kopieren Sie Tabellen in SeaTable mit allen Einstellungen und Einträgen oder nur die Struktur: Ideal für Budget, Planung und Varianten.'
+
 ---
 
 Sie benötigen eine Tabelle in Ihrer Base mehrmals in leicht abgewandelter Form? Dann können Sie diese mit wenigen Mausklicks duplizieren. So einfach geht es:

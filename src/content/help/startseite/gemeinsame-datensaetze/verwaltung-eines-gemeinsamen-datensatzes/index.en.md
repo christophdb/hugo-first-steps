@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/help/verwaltung-eines-gemeinsamen-datensatzes'
+url: '/help/managing-shared-records'
+aliases:
+    - '/help/verwaltung-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Managing Shared Records: SeaTable Guide'
+    description: 'Manage shared datasets in SeaTable with ease: overview, permissions, renaming, forced sync and deletion explained in this step-by-step guide.'
+
 ---
 
 Once you have created a common dataset, you can perform various operations to manage your data set. You can access the overview of your common datasets via the start page.

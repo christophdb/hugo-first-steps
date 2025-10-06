@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/fr/aide/verwaltung-eines-gemeinsamen-datensatzes'
+url: '/fr/aide/gestion-enregistrements-partages'
+aliases:
+    - '/fr/aide/verwaltung-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Gestion des enregistrements partagés SeaTable'
+    description: 'Apprenez à gérer les enregistrements communs dans SeaTable : aperçu, droits, renommage, synchronisation et suppression expliqués simplement.'
+
 ---
 
 Une fois que vous avez créé un jeu de données commun, vous pouvez effectuer différentes opérations pour gérer votre jeu de données. Vous pouvez accéder à l'aperçu de vos jeux de données communs via la page d'accueil.

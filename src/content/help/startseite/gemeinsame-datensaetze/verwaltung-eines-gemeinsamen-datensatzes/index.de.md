@@ -6,6 +6,10 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
 url: '/de/hilfe/verwaltung-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Gemeinsame Datensätze verwalten: Anleitung SeaTable'
+    description: 'Lernen Sie die Verwaltung gemeinsamer Datensätze in SeaTable: Übersicht, Berechtigungen, Umbenennen, Synchronisation und Löschung einfach erklärt.'
+
 ---
 
 Sobald Sie einen gemeinsamen Datensatz erstellt haben, können Sie verschiedene Operationen ausführen, um Ihren Datensatz zu verwalten. Die Übersicht über Ihre gemeinsamen Datensätze erreichen Sie über die Startseite.

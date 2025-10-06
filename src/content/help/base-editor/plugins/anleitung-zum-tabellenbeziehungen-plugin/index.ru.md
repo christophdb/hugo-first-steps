@@ -5,7 +5,13 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/pomoshch/anleitung-zum-tabellenbeziehungen-plugin'
+url: '/ru/pomoshch/rukovodstvo-plagin-svyazi-tablits'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-tabellenbeziehungen-plugin'
+seo:
+    title: 'Руководство по плагину связей между таблицами SeaTable'
+    description: 'Узнайте, как использовать плагин связей в SeaTable для визуализации и управления отношениями между таблицами в базах.'
+
 ---
 
 Особенно когда в базе много таблиц с десятками столбцов, легко потерять представление о том, как они связаны друг с другом. Вы можете использовать плагин отношений таблиц, чтобы визуализировать, какие таблицы связаны друг с другом через какие столбцы.

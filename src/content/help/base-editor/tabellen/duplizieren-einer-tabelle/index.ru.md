@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/ru/pomoshch/duplizieren-einer-tabelle'
+url: '/ru/pomoshch/dublirovanie-tablitsy'
+aliases:
+    - '/ru/pomoshch/duplizieren-einer-tabelle'
+seo:
+    title: 'Дублирование таблицы: копия структуры и данных'
+    description: 'Копируйте таблицы в SeaTable: полностью или только структуру, с настройками и записями – удобно для бюджета, отчетов и шаблонов.'
+
 ---
 
 Вам нужно, чтобы таблица в вашей базе несколько раз использовалась в несколько ином виде? Тогда вы можете продублировать ее всего несколькими щелчками мыши. Это так просто:

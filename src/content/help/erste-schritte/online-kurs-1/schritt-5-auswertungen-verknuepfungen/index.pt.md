@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/pt/ajuda/schritt-5-auswertungen-verknuepfungen'
+url: '/pt/ajuda/passo-5-analises-com-links'
+aliases:
+    - '/pt/ajuda/schritt-5-auswertungen-verknuepfungen'
+seo:
+    title: 'Passo 5: análise de dados com links no SeaTable'
+    description: 'Aprenda a usar links no SeaTable para criar análises estatísticas dinâmicas e rápidas, agregando dados vinculados com fórmulas rollup.'
+
 ---
 
 Ligámos agora os registos de dados de ambas as tabelas. É importante que esta ligação não seja unilateral. Se ligar à tabela `Categories` verá que também foi adicionada uma nova coluna, que mostra as ligações. No nosso caso, isto significa que um problema está ligado a uma categoria e que uma categoria pode estar ligada a muitos problemas.

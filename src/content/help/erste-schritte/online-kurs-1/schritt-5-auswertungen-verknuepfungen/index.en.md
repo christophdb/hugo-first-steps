@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-5-auswertungen-verknuepfungen'
+url: '/help/step-5-analyses-with-links'
+aliases:
+    - '/help/schritt-5-auswertungen-verknuepfungen'
+seo:
+    title: 'Step 5: Analyzing Data Using Links in SeaTable'
+    description: 'Discover how to create powerful statistical analyses in SeaTable by linking tables and using rollup formulas for dynamic data summaries.'
+
 ---
 
 We have now linked the data records from both tables. It is important that this link is not one-sided. If you go to the table `Categories` you will see that a new column has also been added there, showing the links. In our case, this means that an issue is linked to a category, and a category can be linked to many issues.

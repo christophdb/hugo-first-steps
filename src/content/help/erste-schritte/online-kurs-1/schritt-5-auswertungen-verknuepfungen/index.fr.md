@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/schritt-5-auswertungen-verknuepfungen'
+url: '/fr/aide/etape-5-analyses-avec-liens'
+aliases:
+    - '/fr/aide/schritt-5-auswertungen-verknuepfungen'
+seo:
+    title: 'Étape 5 : analyses avec liens dans SeaTable'
+    description: 'Maîtrisez les analyses statistiques dans SeaTable grâce aux liens entre tables et aux formules rollup pour des synthèses dynamiques.'
+
 ---
 
 Nous avons maintenant lié les enregistrements des deux tableaux. Il est important que cette liaison ne soit pas unilatérale. Si vous allez au tableau `Categories` vous verrez qu'une nouvelle colonne a été ajoutée pour afficher les liens. Dans notre cas, cela signifie qu'une sortie est liée à une catégorie et qu'une catégorie peut être liée à de nombreuses sorties.

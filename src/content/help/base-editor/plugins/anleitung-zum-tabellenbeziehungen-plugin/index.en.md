@@ -5,7 +5,13 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/help/anleitung-zum-tabellenbeziehungen-plugin'
+url: '/help/table-relationships-plugin-guide'
+aliases:
+    - '/help/anleitung-zum-tabellenbeziehungen-plugin'
+seo:
+    title: 'Guide to Table Relationships Plugin in SeaTable'
+    description: 'Learn how to use the Table Relationships Plugin in SeaTable to visualize and manage table links clearly within your bases.'
+
 ---
 
 Especially when there are many tables with dozens of columns in a base, it is easy to lose track of how they relate to each other. Using the table relationships plugin, you can visualize which tables are linked to each other via which columns.
