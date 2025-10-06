@@ -5,7 +5,13 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/formularseiten-in-universellen-apps'
+url: '/help/form-pages-in-universal-apps'
+aliases:
+    - '/help/formularseiten-in-universellen-apps'
+seo:
+    title: 'Form Pages in Universal Apps: SeaTable Guide'
+    description: 'Create custom form pages in SeaTable Universal Apps: drag-and-drop fields, required fields, help texts & submission controls made easy.'
+
 ---
 
 You can use this page type to build different **forms** that users can then submit. Form pages in universal apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "pages/arbeitszeiterfassung" >}}).

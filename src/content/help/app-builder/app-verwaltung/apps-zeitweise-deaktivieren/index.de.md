@@ -6,6 +6,10 @@ categories:
     - 'apps'
 author: 'kgr'
 url: '/de/hilfe/apps-zeitweise-deaktivieren'
+seo:
+    title: 'Apps zeitweise deaktivieren: Anleitung SeaTable'
+    description: 'Lernen Sie, wie Sie Apps in SeaTable temporär deaktivieren, Rechte verwalten und Zugriff bei Bedarf einfach wiederherstellen können.'
+
 ---
 
 Es kann vorkommen, dass Sie die **Nutzung einer App vorübergehend unterbinden** möchten, weil Sie zum Beispiel gerade umfangreiche Änderungen an der zugrundeliegenden Base vornehmen. In diesem Fall können Sie Apps jederzeit mit nur wenigen Klicks deaktivieren.

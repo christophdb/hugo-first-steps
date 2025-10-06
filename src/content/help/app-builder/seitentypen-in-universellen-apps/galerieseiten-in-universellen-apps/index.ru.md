@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/galerieseiten-in-universellen-apps'
+url: '/ru/pomoshch/galereynye-stranitsy-v-universalnyh-prilozheniyah'
+aliases:
+    - '/ru/pomoshch/galerieseiten-in-universellen-apps'
+seo:
+    title: 'Галерейные страницы в Универсальных приложениях'
+    description: 'Создавайте галерейные страницы в SeaTable: отображение данных и изображений, фильтры, доступ, настройка связей между таблицами.'
+
 ---
 
 Вы можете использовать этот тип страницы для отображения **изображений** и других данных, сохраненных в электронной таблице, в виде **галереи** в универсальном приложении. Например, вы можете использовать страницу галереи для наглядных **профилей ваших сотрудников**.

@@ -5,7 +5,13 @@ lastmod: '2024-02-13'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/fr/aide/webhook-bei-mehreren-gleichzeitigen-aenderungen'
+url: '/fr/aide/webhook-modifications-simultanees'
+aliases:
+    - '/fr/aide/webhook-bei-mehreren-gleichzeitigen-aenderungen'
+seo:
+    title: 'Webhooks pour modifications simultanées dans SeaTable'
+    description: 'Comprenez l’envoi d’un seul webhook par SeaTable lors de modifications multiples avec le paramètre row_count pour le flux de données.'
+
 ---
 
 SeaTable envoie généralement un webhook pour chaque modification apportée à une ligne. Toutefois, si une modification dans l'éditeur web modifie plusieurs lignes à la fois, un seul webhook est généré avec le paramètre supplémentaire _row_count_.

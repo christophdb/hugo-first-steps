@@ -6,6 +6,10 @@ categories:
   - "webhooks"
 author: "cdb"
 url: "/de/hilfe/webhook-bei-mehreren-gleichzeitigen-aenderungen"
+seo:
+    title: 'Webhooks bei mehreren gleichzeitigen Änderungen'
+    description: 'Erfahren Sie, wie SeaTable Webhooks bei mehreren Änderungen zusammenfasst und was der Parameter row_count für den Datentransfer bedeutet.'
+
 ---
 
 SeaTable schickt üblicherweise für jede Änderung an einer Zeile einen Webhook. Sollte jedoch eine Änderung im Web-Editor mehrere Zeilen gleichzeitig verändern, wird nur ein Webhook mit dem zusätzlichen Parameter _row\_count_ erzeugt.

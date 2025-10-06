@@ -6,6 +6,10 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/formularseiten-in-universellen-apps'
+seo:
+    title: 'Formularseiten in Universellen Apps: Anleitung'
+    description: 'Erstellen Sie individuelle Formularseiten in SeaTable Apps – mit Drag-and-Drop, Pflichtfeldern, individuellen Einstellungen & Zugriffskontrolle.'
+
 ---
 
 Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in Universellen Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter]({{< relref "pages/arbeitszeiterfassung" >}}).

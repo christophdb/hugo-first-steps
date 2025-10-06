@@ -5,7 +5,13 @@ lastmod: '2024-08-02'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/galerieseiten-in-universellen-apps'
+url: '/help/gallery-pages-in-universal-apps'
+aliases:
+    - '/help/galerieseiten-in-universellen-apps'
+seo:
+    title: 'Gallery Pages in Universal Apps: SeaTable Guide'
+    description: 'Create gallery pages in SeaTable Apps to show images & data, set filters, manage permissions & leverage flexible linking options.'
+
 ---
 
 You can use this page type to display **images** and other data that you have saved in your spreadsheet in the form of a **gallery** within a universal app. You could use a gallery page for clear **profiles of your employees**, for example.
