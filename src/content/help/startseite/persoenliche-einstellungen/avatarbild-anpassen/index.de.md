@@ -6,6 +6,10 @@ categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
 url: '/de/hilfe/avatarbild-anpassen'
+seo:
+    title: 'Avatarbild in SeaTable anpassen: Schritt‑für‑Schritt'
+    description: 'Passen Sie Ihr Avatarbild in SeaTable über die persönlichen Einstellungen an; JPG/PNG/GIF bis 1 MB, Upload wird automatisch skaliert.'
+
 ---
 
 Ihr eigenes **Avatarbild** können Sie in nur wenigen Schritten in den **persönlichen Einstellungen** Ihres Kontos anpassen.

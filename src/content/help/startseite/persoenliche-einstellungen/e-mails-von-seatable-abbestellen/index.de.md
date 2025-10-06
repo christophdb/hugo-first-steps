@@ -6,6 +6,10 @@ categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
 url: '/de/hilfe/e-mails-von-seatable-abbestellen'
+seo:
+    title: 'Benachrichtigungs-E-Mails von SeaTable abbestellen'
+    description: 'So stellen Sie E-Mail-Benachrichtigungen über Bases und Zusammenarbeit in SeaTable in wenigen Schritten ab – persönlich & flexibel.'
+
 ---
 
 Sie möchten **keine E-Mail-Benachrichtigungen** mehr über Änderungen an Bases und/oder über die Zusammenarbeit (z. B. geteilte Bases, Kommentare) erhalten? Kein Problem! In den **persönlichen Einstellungen** Ihres Kontos können Sie diese jederzeit in nur wenigen Schritten abbestellen.

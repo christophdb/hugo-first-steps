@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'persoenliche-einstellungen'
 author: 'cdb'
-url: '/ru/pomoshch/2-faktor-authentifizierung-aktivieren'
+url: '/ru/pomoshch/vklyuchit-dvuhfaktornuyu-autentifikatsiyu'
+aliases:
+    - '/ru/pomoshch/2-faktor-authentifizierung-aktivieren'
+seo:
+    title: 'Включить двухфакторную аутентификацию (2FA) в SeaTable'
+    description: 'Защитите вход: 2FA в SeaTable с шестизначными кодами, быстрая настройка по QR и сохранение резервных токенов.'
+
 ---
 
 Каждый пользователь SeaTable может активировать **двухфакторную аутентификацию (2FA)** для своей учетной записи. Как это сделать, вы можете узнать в этой статье.

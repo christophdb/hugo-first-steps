@@ -5,7 +5,13 @@ lastmod: '2023-02-27'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/fr/aide/anpassen-der-oberflaechensprache'
+url: '/fr/aide/changer-langue-interface'
+aliases:
+    - '/fr/aide/anpassen-der-oberflaechensprache'
+seo:
+    title: 'Changer la langue d’interface SeaTable : mode d’emploi'
+    description: 'Modifiez la langue de l’interface dans les paramètres personnels : allemand, anglais, espagnol, français, portugais, russe et chinois.'
+
 ---
 
 Vous souhaitez changer la **langue** de SeaTable ? Pas de problème ! Vous pouvez à tout moment modifier la langue de l'interface en quelques étapes seulement via les **paramètres personnels** de votre compte.

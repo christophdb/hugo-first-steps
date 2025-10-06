@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/ru/pomoshch/e-mails-von-seatable-abbestellen'
+url: '/ru/pomoshch/otkaz-ot-uvedomleniy-emails'
+aliases:
+    - '/ru/pomoshch/e-mails-von-seatable-abbestellen'
+seo:
+    title: 'Отказ от уведомлений SeaTable по электронной почте'
+    description: 'Узнайте, как отключить уведомления по email о базах и совместной работе в SeaTable через личные настройки учетной записи.'
+
 ---
 
 Вы больше **не** хотите получать **уведомления по электронной почте** об изменениях в базах и/или о совместной работе (например, общие базы, комментарии)? Нет проблем! В **личных настройках** вашей учетной записи вы можете в любой момент отказаться от рассылки всего за несколько шагов.

@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/pt/ajuda/deaktivierung-eines-webhooks-bei-fehlern'
+url: '/pt/ajuda/desativar-webhooks-erros'
+aliases:
+    - '/pt/ajuda/deaktivierung-eines-webhooks-bei-fehlern'
+seo:
+    title: 'Desativar webhooks em SeaTable após erros: instruções'
+    description: 'Veja como o SeaTable desativa webhooks após erros HTTP e saiba como reativar ganchos inválidos para automação confiável.'
+
 ---
 
 Se for criado um gancho para uma base SeaTable, SeaTable envia um _pedido POST_ para o URL alvo sempre que é feita uma alteração. Normalmente, o sistema receptor devolve uma mensagem de estado sob a forma de um [código de estado de três dígitos](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), que o SeaTable então processa e desactiva o gancho da web, se necessário.

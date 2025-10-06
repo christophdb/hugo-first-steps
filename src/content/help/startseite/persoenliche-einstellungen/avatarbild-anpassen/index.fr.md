@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/fr/aide/avatarbild-anpassen'
+url: '/fr/aide/modifier-avatar-seatable'
+aliases:
+    - '/fr/aide/avatarbild-anpassen'
+seo:
+    title: 'Modifier votre avatar SeaTable : guide pas à pas'
+    description: 'Mettez à jour l’avatar via les paramètres personnels ; formats JPG/PNG/GIF jusqu’à 1 Mo, redimensionnement automatique au téléversement.'
+
 ---
 
 Vous pouvez personnaliser votre propre **image d'avatar** en quelques étapes seulement dans les **paramètres personnels** de votre compte.
