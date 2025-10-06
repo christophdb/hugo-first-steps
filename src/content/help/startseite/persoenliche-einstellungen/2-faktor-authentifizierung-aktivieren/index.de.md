@@ -6,6 +6,10 @@ categories:
     - 'persoenliche-einstellungen'
 author: 'cdb'
 url: '/de/hilfe/2-faktor-authentifizierung-aktivieren'
+seo:
+    title: '2‑Faktor‑Authentifizierung in SeaTable aktivieren'
+    description: 'Aktivieren Sie 2FA in SeaTable: zusätzlicher Schutz beim Login mit sechsstelligen Codes, Einrichtung per QR‑Code und Backup‑Tokens.'
+
 ---
 
 Jeder SeaTable Nutzer kann die **2-Faktor-Authentifizierung (2FA)** für das eigene Benutzerkonto aktivieren. Wie das geht, erfahren Sie in diesem Artikel.

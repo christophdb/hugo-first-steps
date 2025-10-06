@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/fr/aide/e-mails-von-seatable-abbestellen'
+url: '/fr/aide/desabonnement-emails-notification'
+aliases:
+    - '/fr/aide/e-mails-von-seatable-abbestellen'
+seo:
+    title: 'Désabonnement des e-mails de notification SeaTable'
+    description: 'Guide pour désactiver les e-mails de notification concernant bases et collaboration dans SeaTable via vos paramètres personnels.'
+
 ---
 
 Vous ne souhaitez **plus** recevoir de **notifications par e-mail** sur les modifications apportées aux bases et/ou sur la collaboration (par ex. bases partagées, commentaires) ? Pas de problème ! Dans les **paramètres personnels** de votre compte, vous pouvez à tout moment vous désabonner en quelques étapes seulement.

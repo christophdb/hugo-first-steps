@@ -6,6 +6,10 @@ categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
 url: '/de/hilfe/anpassen-der-oberflaechensprache'
+seo:
+    title: 'Oberflächensprache in SeaTable ändern: so geht’s'
+    description: 'Sprache der Oberfläche über persönliche Einstellungen umstellen – Deutsch, Englisch, Spanisch, Französisch, Portugiesisch, Russisch, Chinesisch.'
+
 ---
 
 Sie möchten die **Sprache** in SeaTable ändern? Kein Problem! Über die **persönlichen Einstellungen** Ihres Kontos können Sie die Oberflächensprache jederzeit in nur wenigen Schritten anpassen.

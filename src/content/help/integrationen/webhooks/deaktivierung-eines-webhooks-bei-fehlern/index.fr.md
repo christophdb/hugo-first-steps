@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/fr/aide/deaktivierung-eines-webhooks-bei-fehlern'
+url: '/fr/aide/desactivation-webhooks-erreurs'
+aliases:
+    - '/fr/aide/deaktivierung-eines-webhooks-bei-fehlern'
+seo:
+    title: 'Désactivation des webhooks sur erreurs dans SeaTable'
+    description: 'Guide SeaTable : découvrez comment les webhooks sont désactivés après plusieurs erreurs HTTP et comment les réactiver facilement.'
+
 ---
 
 Si un webhook est configuré pour une Base SeaTable, SeaTable envoie une _requête POST_ à l'URL cible à chaque modification. Normalement, le système récepteur renvoie un message d'état sous la forme d'un [code d'état à trois chiffres](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), que SeaTable traite ensuite et désactive le webhook si nécessaire.

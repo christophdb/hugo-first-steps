@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/es/ayuda/e-mails-von-seatable-abbestellen'
+url: '/es/ayuda/cancelar-correos-notificaciones'
+aliases:
+    - '/es/ayuda/e-mails-von-seatable-abbestellen'
+seo:
+    title: 'Cancelar correos de notificaciones de SeaTable'
+    description: 'Descubra cómo cancelar los correos de notificaciones sobre bases y colaboración en SeaTable desde la configuración personal fácilmente.'
+
 ---
 
 ¿Ya no quieres recibir **notificaciones por correo electrónico** sobre los cambios en las bases y/o sobre la colaboración (por ejemplo, bases compartidas, comentarios)? No hay problema. En la **configuración personal de** su cuenta, puede darse de baja en cualquier momento en unos pocos pasos.

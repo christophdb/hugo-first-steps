@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/ru/pomoshch/avatarbild-anpassen'
+url: '/ru/pomoshch/izmenit-avatar-seatable'
+aliases:
+    - '/ru/pomoshch/avatarbild-anpassen'
+seo:
+    title: 'Изменить аватар в SeaTable: пошаговая инструкция'
+    description: 'Обновите аватар в личных настройках; поддерживаются JPG/PNG/GIF до 1 МБ, изображение автоматически масштабируется при загрузке.'
+
 ---
 
 Вы можете настроить **изображение** своего **аватара** всего за несколько шагов в **личных настройках** своей учетной записи.

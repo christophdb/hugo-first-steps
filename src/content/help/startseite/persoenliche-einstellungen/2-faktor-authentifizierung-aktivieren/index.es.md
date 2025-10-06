@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'persoenliche-einstellungen'
 author: 'cdb'
-url: '/es/ayuda/2-faktor-authentifizierung-aktivieren'
+url: '/es/ayuda/activar-autenticacion-dos-pasos'
+aliases:
+    - '/es/ayuda/2-faktor-authentifizierung-aktivieren'
+seo:
+    title: 'Activar la autenticación en dos pasos (2FA) en SeaTable'
+    description: 'Proteja su cuenta: active 2FA en SeaTable con códigos de seis dígitos, configure con código QR y guarde los tokens de respaldo.'
+
 ---
 
 Cada usuario de SeaTable puede activar **la autenticación de 2 factores (2FA)** para su propia cuenta de usuario. Puede averiguar cómo hacerlo en este artículo.
