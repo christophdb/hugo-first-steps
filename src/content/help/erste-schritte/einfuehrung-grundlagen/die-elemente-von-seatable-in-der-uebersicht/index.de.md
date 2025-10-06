@@ -6,6 +6,10 @@ categories:
     - 'kurzanleitungen'
 author: 'cdb'
 url: '/de/hilfe/die-elemente-von-seatable-in-der-uebersicht'
+seo:
+    title: 'Die wichtigsten Elemente von SeaTable im Überblick'
+    description: 'Entdecken Sie die wichtigsten SeaTable-Elemente: Bases, Tabellen, Spalten, Ansichten, Plugins, Gruppen, Berechtigungen und Teamverwaltung.'
+
 ---
 
 Die intuitive und dennoch leistungsstarke Low-Code-Plattform SeaTable gibt jedem die Flexibilität, seine eigene Lösung zu erstellen und seine Arbeitsabläufe zu beschleunigen. In diesem Artikel finden Sie eine Übersicht über die wichtigsten Elemente und Funktionen in SeaTable sowie Links zu weiteren Dokumentationen für jeden Bereich.

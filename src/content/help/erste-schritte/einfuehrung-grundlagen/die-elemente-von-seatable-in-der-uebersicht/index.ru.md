@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/pomoshch/die-elemente-von-seatable-in-der-uebersicht'
+url: '/ru/pomoshch/osnovnye-elementy-seatable'
+aliases:
+    - '/ru/pomoshch/die-elemente-von-seatable-in-der-uebersicht'
+seo:
+    title: 'Основные элементы SeaTable: обзор и возможности'
+    description: 'Изучите ключевые элементы SeaTable: базы, таблицы, столбцы, виды, плагины, группы, права доступа и управление командой.'
+
 ---
 
 Интуитивно понятная, но мощная платформа SeaTable с низким кодом дает возможность каждому создать собственное решение и ускорить рабочий процесс. В этой статье вы найдете обзор наиболее важных элементов и функций SeaTable, а также ссылки на дополнительную документацию по каждой области.

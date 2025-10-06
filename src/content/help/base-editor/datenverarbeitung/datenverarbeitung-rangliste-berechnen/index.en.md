@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitung-rangliste-berechnen'
+url: '/help/calculate-rankings-data-processing'
+aliases:
+    - '/help/datenverarbeitung-rangliste-berechnen'
+seo:
+    title: 'Calculate Rankings in SeaTable: Data Processing Guide'
+    description: 'Automatically rank numerical column values in SeaTable tables using data processing operations: step-by-step and with real examples.'
+
 ---
 
 Using the data processing function, you can perform various operations over a column. One operation is the **calculation of rank** ings, which allows you to rank all the values in a numeric column. To do this, simply define an appropriate data processing operation using the view options of your table.

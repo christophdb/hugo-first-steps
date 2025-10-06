@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitung-rangliste-berechnen'
+url: '/ru/pomoshch/rating-seatable-obrabotka-dannyh'
+aliases:
+    - '/ru/pomoshch/datenverarbeitung-rangliste-berechnen'
+seo:
+    title: 'Рейтинг в SeaTable: обработка данных и расчет мест'
+    description: 'Как рассчитать рейтинг в SeaTable: пошаговое руководство по обработке данных и примеры для ранжирования числовых значений.'
+
 ---
 
 С помощью функции обработки данных можно выполнять различные операции над столбцом. Одной из операций является **вычисление рангов**, которое позволяет ранжировать все значения в числовом столбце. Для этого просто определите соответствующую операцию обработки данных в параметрах представления таблицы.

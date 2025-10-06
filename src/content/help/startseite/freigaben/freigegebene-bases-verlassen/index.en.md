@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/help/freigegebene-bases-verlassen'
+url: '/help/leaving-shared-bases'
+aliases:
+    - '/help/freigegebene-bases-verlassen'
+seo:
+    title: 'Leaving Shared Bases in SeaTable: Step-by-Step Guide'
+    description: 'Learn to leave shared bases in SeaTable and remove access—your prior changes remain in place, but you’ll lose further data access.'
+
 ---
 
 If another user has shared a base with you, you can **leave this share**. This is possible at any time with just a few clicks via the start page.

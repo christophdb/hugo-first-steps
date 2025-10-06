@@ -6,6 +6,10 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-rangliste-berechnen'
+seo:
+    title: 'Rangliste berechnen in SeaTable: Datenverarbeitung'
+    description: 'Ranglisten schnell berechnen: So ordnen Sie Spaltenwerte per Datenverarbeitungsoperation und erstellen automatisiert Rankings samt Beispielen.'
+
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Eine Operation stellt dabei die **Berechnungen von Ranglisten** dar, mit der Sie alle Werte einer numerischen Spalte in eine Rangordnung bringen können. Definieren Sie hierfür einfach eine entsprechende Datenverarbeitungsoperation über die Ansichtsoptionen Ihrer Tabelle.

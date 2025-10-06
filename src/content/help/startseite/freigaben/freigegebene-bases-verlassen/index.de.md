@@ -6,6 +6,10 @@ categories:
     - 'freigaben'
 author: 'nsc2'
 url: '/de/hilfe/freigegebene-bases-verlassen'
+seo:
+    title: 'Freigegebene Bases verlassen: Anleitung SeaTable'
+    description: 'Lernen Sie, wie Sie freigegebene Bases in SeaTable selbst verlassen und Ihren Zugriff auf geteilte Daten beenden – Änderungen bleiben erhalten.'
+
 ---
 
 Wenn ein anderer Nutzer eine Base an Sie freigegeben hat, können Sie diese **Freigabe von sich aus wieder verlassen**. Dies ist jederzeit mit nur wenigen Klicks über die Startseite möglich.

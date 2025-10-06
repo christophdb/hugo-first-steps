@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'nsc2'
-url: '/fr/aide/die-zeilen-url-kopieren'
+url: '/fr/aide/copier-url-ligne'
+aliases:
+    - '/fr/aide/die-zeilen-url-kopieren'
+seo:
+    title: 'Copier l’URL d’une ligne dans SeaTable : mode d’emploi'
+    description: 'Copiez l’URL d’une ligne SeaTable : partagez un enregistrement précis en équipe, automatisez ou retrouvez rapidement une entrée.'
+
 ---
 
 Chaque ligne d'une base a une **URL** unique. Vous pouvez copier cette URL si vous souhaitez faire référence exactement à l'enregistrement d'une ligne donnée, par exemple pour transmettre les données à un membre de l'équipe. Cependant, l'URL ne peut être ouverte que par des personnes connectées à SeaTable et ayant accès à la ligne.

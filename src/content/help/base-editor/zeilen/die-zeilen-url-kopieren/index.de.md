@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'nsc2'
 url: '/de/hilfe/die-zeilen-url-kopieren'
+seo:
+    title: 'Zeilen-URL in SeaTable kopieren: Anleitung & Tipps'
+    description: 'Zeilen-URLs einfach kopieren: So teilen Sie Datensätze präzise in SeaTable und versenden Zeilen-Links gezielt – für Teams und Automationen.'
+
 ---
 
 Jede Zeile einer Base hat eine eindeutige **URL**. Diese können Sie kopieren, wenn Sie exakt auf den Datensatz in einer bestimmten Zeile referenzieren möchten, beispielsweise um die Daten einem Teammitglied weiterzuleiten. Die URL kann allerdings nur von Personen geöffnet werden, die in SeaTable eingeloggt sind und Zugriff auf die Zeile haben.

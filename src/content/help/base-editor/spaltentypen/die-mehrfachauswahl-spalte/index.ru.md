@@ -5,7 +5,13 @@ lastmod: '2025-07-15'
 categories:
     - 'spalten'
 author: 'kgr'
-url: '/ru/pomoshch/die-mehrfachauswahl-spalte'
+url: '/ru/pomoshch/multiple-select-column'
+aliases:
+    - '/ru/pomoshch/die-mehrfachauswahl-spalte'
+seo:
+    title: 'Множественный выбор в SeaTable: опции и цвета'
+    description: 'Как работает множественный выбор: метки, сортировка, экспорт, импорт, индивидуальные цвета и отличия от одиночного выбора.'
+
 ---
 
 Столбец с множественным выбором идеально подходит, если вы хотите назначить своим строкам в столбце **несколько вариантов** из заданного списка. Опциям присваиваются красочные метки, которые можно использовать для маркировки записей и наглядности таблиц, например, для [фильтрации]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) по определенным опциям.

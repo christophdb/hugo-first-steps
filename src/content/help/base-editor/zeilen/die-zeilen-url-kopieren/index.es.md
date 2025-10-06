@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'nsc2'
-url: '/es/ayuda/die-zeilen-url-kopieren'
+url: '/es/ayuda/copiar-url-fila'
+aliases:
+    - '/es/ayuda/die-zeilen-url-kopieren'
+seo:
+    title: 'Copiar URL de fila en SeaTable: pasos y consejos'
+    description: 'Sepa cómo copiar la URL de una fila en SeaTable para compartir registros precisos, automatizar tareas o facilitar búsquedas en equipos.'
+
 ---
 
 Cada fila de una Base tiene una **URL** única. Puede copiarla si desea hacer referencia al registro exacto de una fila en particular, por ejemplo para reenviar los datos a un miembro del equipo. Sin embargo, la URL sólo puede ser abierta por personas que hayan iniciado sesión en SeaTable y tengan acceso a la fila.

@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/es/ayuda/externe-links-und-einladungs-links-loeschen'
+url: '/es/ayuda/eliminar-enlaces-compartidos'
+aliases:
+    - '/es/ayuda/externe-links-und-einladungs-links-loeschen'
+seo:
+    title: 'Eliminar enlaces externos y de invitación en SeaTable'
+    description: 'Descubra cómo borrar enlaces compartidos externos e invitación en SeaTable, con información sobre permisos y consecuencias de eliminar.'
+
 ---
 
 Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitación** en cualquier momento y de dos formas distintas. Tenga en cuenta qué consecuencias tiene la eliminación para el acceso a sus datos.

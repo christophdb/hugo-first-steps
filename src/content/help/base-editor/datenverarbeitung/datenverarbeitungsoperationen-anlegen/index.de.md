@@ -6,6 +6,10 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitungsoperationen-anlegen'
+seo:
+    title: 'Datenverarbeitungsoperationen in SeaTable anlegen'
+    description: 'Anleitung: So erstellen Sie in SeaTable eigene Datenverarbeitungsoperationen, nutzen mathematische Funktionen und verknüpfen tabellenübergreifend.'
+
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl mathematische Berechnungen über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind.

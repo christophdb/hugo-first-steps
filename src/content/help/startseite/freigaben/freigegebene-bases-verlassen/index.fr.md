@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/fr/aide/freigegebene-bases-verlassen'
+url: '/fr/aide/quitter-base-partagee'
+aliases:
+    - '/fr/aide/freigegebene-bases-verlassen'
+seo:
+    title: 'Quitter une base partagée dans SeaTable : tutoriel'
+    description: 'Apprenez à quitter une base partagée dans SeaTable : cessez l’accès aux données partagées tout en conservant vos modifications.'
+
 ---
 
 Si un autre utilisateur a partagé une base avec vous, vous pouvez **quitter** ce **partage** de votre propre initiative. Cela est possible à tout moment en quelques clics depuis la page d'accueil.

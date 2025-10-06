@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/fr/aide/die-elemente-von-seatable-in-der-uebersicht'
+url: '/fr/aide/elements-cles-de-seatable'
+aliases:
+    - '/fr/aide/die-elemente-von-seatable-in-der-uebersicht'
+seo:
+    title: 'Éléments clés de SeaTable : aperçu complet'
+    description: 'Découvrez les éléments principaux de SeaTable : bases, tables, colonnes, vues, plugins, groupes, droits et gestion des équipes.'
+
 ---
 
 Intuitive mais puissante, la plateforme Low-Code SeaTable offre à chacun la flexibilité de créer sa propre solution et d'accélérer ses processus de travail. Dans cet article, vous trouverez un aperçu des principaux éléments et fonctions de SeaTable ainsi que des liens vers des documentations supplémentaires pour chaque domaine.

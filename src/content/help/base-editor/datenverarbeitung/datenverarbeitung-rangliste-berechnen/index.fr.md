@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitung-rangliste-berechnen'
+url: '/fr/aide/calculer-classement-traitement-donnees'
+aliases:
+    - '/fr/aide/datenverarbeitung-rangliste-berechnen'
+seo:
+    title: 'Calculer un classement SeaTable : traitement des données'
+    description: 'Classez vos valeurs numériques dans SeaTable : tutoriel complet sur le traitement des données pour créer des classements automatiques.'
+
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. L'une de ces opérations est le **calcul des classements**, qui vous permet de classer toutes les valeurs d'une colonne numérique. Pour ce faire, il suffit de définir une opération de traitement des données correspondante via les options d'affichage de votre tableau.

@@ -5,7 +5,13 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/pomoshch/python-beispiel-die-metastruktur-einer-base-auslesen'
+url: '/ru/pomoshch/python-primer-chitat-metastrukturu-bazy'
+aliases:
+    - '/ru/pomoshch/python-beispiel-die-metastruktur-einer-base-auslesen'
+seo:
+    title: 'Пример Python: чтение метаструктуры базы SeaTable'
+    description: 'Как считать метаструктуру базы SeaTable с помощью Python: готовый скрипт, структурированный вывод, обработка столбцов-ссылок.'
+
 ---
 
 Эта статья знакомит вас с Python-скриптом, который выводит полную метаструктуру базы. Это полезно, например, если у вас возник вопрос о базе на [форуме сообщества](https://forum.seatable.com/) и вы хотите быстро и просто описать структуру базы без скриншотов.

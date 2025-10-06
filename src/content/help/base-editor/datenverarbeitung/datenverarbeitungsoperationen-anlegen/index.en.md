@@ -5,7 +5,13 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitungsoperationen-anlegen'
+url: '/help/creating-data-processing-operations'
+aliases:
+    - '/help/datenverarbeitungsoperationen-anlegen'
+seo:
+    title: 'Creating Data Processing Operations in SeaTable'
+    description: 'Learn step-by-step how to create SeaTable data processing operations: calculations, linking, ranking, and copying data between tables.'
+
 ---
 
 You can perform various **operations** using the data processing function. You can perform mathematical calculations across all values in a column, as well as correlate values when entries in two different tables are identical.

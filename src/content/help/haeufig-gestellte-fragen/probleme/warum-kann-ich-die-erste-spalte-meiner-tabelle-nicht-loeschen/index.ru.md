@@ -5,7 +5,13 @@ lastmod: '2023-03-23'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+url: '/ru/pomoshch/pochemu-nelzya-udalit-pervyy-stolbets'
+aliases:
+    - '/ru/pomoshch/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+seo:
+    title: 'Почему нельзя удалить первый столбец в SeaTable'
+    description: 'Узнайте, почему первый столбец SeaTable — это уникальный идентификатор записи и не подлежит удалению; советы по изменению колонок.'
+
 ---
 
 Вы хотите **удалить** первый столбец своей таблицы и удивлены тем, что необходимая опция в настройках столбца **не отображается**? Не стоит беспокоиться, это сделано намеренно и имеет конкретную причину, которую мы объясним вам в этой статье.

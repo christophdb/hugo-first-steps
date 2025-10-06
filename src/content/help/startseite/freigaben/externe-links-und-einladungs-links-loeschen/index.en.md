@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/help/externe-links-und-einladungs-links-loeschen'
+url: '/help/delete-external-and-invitation-links'
+aliases:
+    - '/help/externe-links-und-einladungs-links-loeschen'
+seo:
+    title: 'Delete External and Invitation Links in SeaTable'
+    description: 'Learn how to securely remove shared external and invitation links in SeaTable, with details on access rights and effects of deletion.'
+
 ---
 
 You can **delete** both **external links** and **invitation links** at any time in two different ways. Please note what consequences the deletion has for access to your data.

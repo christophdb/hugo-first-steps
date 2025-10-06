@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
+url: '/ru/pomoshch/udalit-vneshnie-i-priglasitelnye-ssylki'
+aliases:
+    - '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
+seo:
+    title: 'Удаление внешних и пригласительных ссылок SeaTable'
+    description: 'Узнайте, как безопасно удалить внешние и приглашительные ссылки в SeaTable, с пояснениями по доступу и последствиям удаления.'
+
 ---
 
 Вы можете в любое время **удалить** как **внешние ссылки**, так и **пригласительные ссылки** двумя различными способами. Обратите внимание, какие последствия имеет удаление для доступа к вашим данным.

@@ -5,7 +5,13 @@ lastmod: '2023-03-23'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+url: '/fr/aide/pourquoi-pas-supprimer-premiere-colonne'
+aliases:
+    - '/fr/aide/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+seo:
+    title: 'Pourquoi ne pas supprimer la première colonne SeaTable'
+    description: 'Découvrez pourquoi la première colonne SeaTable fait office de clé principale, ne peut pas être supprimée, et comment adapter votre table.'
+
 ---
 
 Vous souhaitez **supprimer** la première colonne de votre tableau et vous vous étonnez de ne **pas** voir apparaître l'option nécessaire dans les paramètres des colonnes ? Ne vous inquiétez pas, c'est intentionnel et a une raison précise que nous vous expliquons dans cet article.

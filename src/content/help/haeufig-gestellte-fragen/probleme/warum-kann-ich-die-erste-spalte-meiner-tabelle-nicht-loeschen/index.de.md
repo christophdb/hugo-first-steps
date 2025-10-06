@@ -6,6 +6,10 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
 url: '/de/hilfe/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+seo:
+    title: 'Erste Spalte in SeaTable: Warum sie nicht löschbar ist'
+    description: 'Erfahren Sie, warum die erste Spalte Ihrer SeaTable-Tabelle als Primärschlüssel festgelegt ist und nicht gelöscht werden kann. Tipps zur Anpassung.'
+
 ---
 
 Sie möchten die erste Spalte Ihrer Tabelle **löschen** und wundern sich, dass Ihnen die dafür nötige Option in den Spalten-Einstellungen **nicht angezeigt** wird? Kein Grund zur Sorge, dies ist beabsichtigt und hat einen bestimmten Grund, den wir Ihnen in diesem Artikel erläutern.

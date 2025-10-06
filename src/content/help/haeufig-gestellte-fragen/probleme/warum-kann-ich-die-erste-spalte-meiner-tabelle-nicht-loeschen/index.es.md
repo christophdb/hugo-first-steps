@@ -5,7 +5,13 @@ lastmod: '2023-03-23'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/es/ayuda/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+url: '/es/ayuda/por-que-no-borrar-primera-columna'
+aliases:
+    - '/es/ayuda/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+seo:
+    title: 'Por qué no se puede borrar la primera columna SeaTable'
+    description: 'Descubre por qué la primera columna es clave primaria en SeaTable y no se puede eliminar, y cómo adaptar tu tabla según tus necesidades.'
+
 ---
 
 ¿Quiere **eliminar** la primera columna de su tabla y se pregunta por qué **no aparece** la opción necesaria en la configuración de la columna? No se preocupe, esto es intencionado y tiene un motivo concreto, que le explicaremos en este artículo.

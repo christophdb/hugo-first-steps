@@ -6,6 +6,10 @@ categories:
     - 'historie-und-versionen'
 author: 'nsc2'
 url: '/de/hilfe/historie-und-logs'
+seo:
+    title: 'Historie & Logs in SeaTable: Änderungen im Überblick'
+    description: 'Alles zu SeaTable Historie und Logs: Aktivitätenprotokoll, Base-Logs, Zeilen-Logs, Ausführungsprotokolle von Automationen und Skripten im Detail.'
+
 ---
 
 Damit Sie jederzeit nachvollziehen können, wer wann welche **Änderungen** an den Daten in Ihren Bases vorgenommen hat, wird die **Historie** temporär an verschiedenen Stellen in SeaTable gespeichert. Es gibt ein übergreifendes **Aktivitätenprotokoll** auf der Startseite, ein **Log** für jede Base und für jede Zeile. Zudem können Sie erfolgte Automationen und Skripte jeweils in einem **Ausführungslog** überprüfen.

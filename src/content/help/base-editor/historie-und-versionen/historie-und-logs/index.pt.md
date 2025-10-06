@@ -5,7 +5,13 @@ lastmod: '2024-12-16'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/pt/ajuda/historie-und-logs'
+url: '/pt/ajuda/historico-logs'
+aliases:
+    - '/pt/ajuda/historie-und-logs'
+seo:
+    title: 'Histórico e logs no SeaTable: veja todas as mudanças'
+    description: 'Veja como monitorar tudo no SeaTable – rastreie histórico, logs de base, logs de linhas, execuções automáticas e alterações em scripts.'
+
 ---
 
 Para lhe permitir seguir quem fez as **alterações aos** dados nas suas bases e quando, o **histórico** é temporariamente armazenado em vários locais no SeaTable. Há um **registo de actividade** global na página inicial, um **registo** para cada base e para cada linha. Além disso, é possível verificar as automatizações e os scripts que tiveram lugar num **registo de execução**.
