@@ -1,6 +1,6 @@
 ---
 title: 'Casos de sucesso'
-url: 'categories/casos-de-sucesso'
+url: '/categories/casos-de-sucesso'
 aliases: 
-    - /categories/casos-de-clientes/
+    - '/categories/casos-de-clientes'
 ---

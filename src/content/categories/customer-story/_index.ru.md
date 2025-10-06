@@ -1,6 +1,6 @@
 ---
 title: 'истории успеха'
-url: 'categories/istorii-uspekha'
+url: '/categories/istorii-uspekha'
 aliases:
-    - /categories/истории-клиентов/
+    - '/categories/истории-клиентов'
 ---
