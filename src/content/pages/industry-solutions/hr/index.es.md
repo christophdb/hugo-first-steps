@@ -9,6 +9,7 @@ url: '/es/procesos-rrhh'
 aliases:
     - '/es/hr/'
     - '/es/hr-processes/'
+    - '/es/hr-prozesse/'
 
 sections:
     - name: hero-5

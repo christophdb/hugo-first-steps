@@ -10,7 +10,11 @@ categories:
 tags:
     - 'HR Administration'
 color: '#fdf505'
-url: '/urlaubsplanung'
+url: '/vacation-planning'
+aliases:
+    - '/en/urlaubsplanung/'
+    - '/urlaubsplanung/'
+---
 ---
 
 ## How to coordinate vacation requests without any problems
