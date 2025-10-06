@@ -12,6 +12,8 @@ star: true
 
 Con el {{< tag color="blue" text="node SeaTable" >}} en n8n, puedes integrar directamente tus datos de SeaTable en flujos de trabajo automatizados, sin necesidad de scripts personalizados ni llamadas API. Desde la **versión 1.85.0**, el nodo SeaTable forma parte del **n8n Core** y soporta todas las funciones esenciales para procesar, actualizar o activar flujos de trabajo según los cambios en los datos de SeaTable.
 
+![Logo of core and community node](community-vs-core.png)
+
 ## SeaTable en n8n Core
 
 El nodo Core ofrece todas las funciones clave para integrar SeaTable en n8n:
