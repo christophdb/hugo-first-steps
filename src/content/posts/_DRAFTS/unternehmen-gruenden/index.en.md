@@ -1,113 +1,112 @@
 ---
-title: 'Unternehmen gründen leicht gemacht – Schritt für Schritt erklärt'
-description: 'Selbständig werden bedeutet, den Schritt in die Freiheit zu wagen und Ihre Geschäftsidee erfolgreich umzusetzen. Erfahren Sie, wie Sie von Anfang an strukturiert starten und typische Hürden souverän meistern.'
+title: 'Starting a business made easy - explained step by step'
+description: 'Becoming self-employed means taking the plunge into freedom and successfully implementing your business idea. Find out how you can get off to a structured start right from the start and overcome typical hurdles with confidence.'
 seo:
-    title: 'Unternehmen gründen leicht gemacht – Schritt für Schritt erklärt'
-    description: 'Selbständig werden bedeutet, den Schritt in die Freiheit zu wagen und Ihre Geschäftsidee erfolgreich umzusetzen. Erfahren Sie, wie Sie von Anfang an strukturiert starten und typische Hürden souverän meistern.'
+    title: 'Starting a business made easy - explained step by step'
+    description: 'Becoming self-employed means taking the plunge into freedom and successfully implementing your business idea. Find out how you can get off to a structured start right from the start and overcome typical hurdles with confidence.'
 date: 2025-09-25
-url: '/unternehmen-gruenden'
+url: '/company-foundation'
 tags:
     - 'Build your Business'
 categories:
     - 'best-practice'
 color: '#a6c9bd'
-draft: true
 ---
 
-Sich selbständig zu machen bedeutet, den Wunsch nach Unabhängigkeit und Selbstverwirklichung in die Tat umzusetzen. Vielleicht träumen auch Sie davon, Ihre eigene Idee auf den Markt zu bringen und damit etwas zu bewegen. Auf diesem Weg begegnen Ihnen jedoch nicht nur Inspiration und Tatendrang, sondern auch Fragen nach der richtigen Planung, der Finanzierung und den notwendigen Formalitäten. Was Sie dabei beachten sollten, wenn Sie ein Unternehmen gründen, und welches Tool Sie dabei unterstützt, Ihre Gründung Schritt für Schritt erfolgreich voranzubringen, erfahren Sie in diesem Artikel.
+Becoming self-employed means putting your desire for independence and self-realization into practice. Perhaps you too dream of launching your own idea on the market and making a difference. Along the way, however, you will not only encounter inspiration and a thirst for action, but also questions about the right **planning**, **financing** and the necessary **formalities**. In this article, you will find out what you should consider when setting up a company and which tool will help you to successfully advance your start-up step by step.
 
-![Text](to-do_business.jpg)
+![Hand points to Post-Its on a white board](markeitngstrategie_unternehmen.jpg)
 
-## Die ultimative Geschäftsidee
+## The ultimate business idea
 
-Am Anfang jeder Unternehmensgründung steht die Geschäftsidee. Damit aus einer ersten Inspiration ein tragfähiges Konzept wird, lohnt es sich, strukturiert vorzugehen. Ein guter Ansatzpunkt ist die Frage nach einem konkreten Problem, das Sie mit Ihrem Angebot lösen können. Prüfen Sie anschließend, ob es für diese Lösung tatsächlich eine Nachfrage gibt – eine Marktanalyse hilft Ihnen dabei, Chancen und Potenziale realistisch einzuschätzen. 
+Every business start-up starts with a business idea. To turn an initial inspiration into a viable concept, it is worth taking a structured approach. A good starting point is to ask yourself a **concrete problem** that you can solve with your offer. Then check whether there is actually a demand for this solution - a **market analysis** will help you to realistically assess the opportunities and potential.
 
-Im nächsten Schritt sollten Sie klar definieren, was Ihr Angebot einzigartig macht: Ihr Alleinstellungsmerkmal (USP). Daraus ergibt sich schließlich, welche Nische Sie besetzen können und welche Zielgruppe Sie ansprechen möchten. So verwandeln Sie eine vage Idee in eine fundierte Grundlage für Ihr zukünftiges Unternehmen.
+In the next step, you should clearly define what makes your offer unique: Your **Unique Selling Proposition (USP)**. This will ultimately determine which niche you can occupy and which target group you want to address. This is how you turn a vague idea into a solid foundation for your future company.
 
-## Die richtige Rechtsform wählen
+## Choose the right legal form
 
-Wenn Sie ein Unternehmen gründen wollen, spielt die Wahl der passenden Rechtsform eine zentrale Rolle. Für Einzelgründer bietet sich oft das Einzelunternehmen an – unkompliziert und kostengünstig, jedoch mit voller persönlicher Haftung. Gründen Sie gemeinsam mit anderen, kommt eine Gesellschaft bürgerlichen Rechts (GbR) infrage. Sie lässt sich ebenfalls leicht aufsetzen, erfordert jedoch mindestens zwei Gründer und bedeutet ebenfalls persönliche Haftung. 
+If you want to set up a company, choosing the right legal form plays a key role. For individual founders, the **sole proprietorship** is often the best option - uncomplicated and inexpensive, but with full personal liability. If you are founding a company together with others, a **civil law partnership (GbR)** is an option. This is also easy to set up, but requires at least two founders and also means personal liability.
 
-![Text](rechtsform_waehlen.jpg)
+![Two people stand at a table while a contract is being signed](rechtsform_waehlen.jpg)
 
-Wer das Risiko begrenzen möchte, kann eine Unternehmergesellschaft (UG) gründen – eine haftungsbeschränkte Variante mit geringen Startkosten, die auch als „Mini-GmbH“ bekannt ist. Die klassische GmbH genießt hohes Ansehen, schützt das Privatvermögen und erfordert ein Stammkapital von 25.000 Euro. Darüber hinaus existieren weitere Rechtsformen wie die Aktiengesellschaft (AG), die Offene Handelsgesellschaft (OHG) oder das eingetragene Kaufmannsunternehmen (e.K.), die jedoch meist für spezielle Konstellationen in Betracht kommen.
+If you want to limit the risk, you can set up a **Unternehmergesellschaft (UG)** - a limited liability variant with low start-up costs, also known as a "mini-GmbH". The classic **GmbH** enjoys a high reputation, protects private assets and requires a share capital of 25,000 euros. There are also other legal forms such as the **Aktiengesellschaft (AG)**, the **Offene Handelsgesellschaft (OHG)** or the **eingetragene Kaufmannsunternehmen (e.K.)**, but these are mostly considered for special constellations.
 
-{{< warning headline="Tipp" >}}
+{{< warning headline="Tip" >}}
 
-Gerade zu Beginn Ihrer Gründung ist es wichtig, steuerliche und rechtliche Fragen nicht aufzuschieben. Holen Sie sich frühzeitig Unterstützung von Experten, damit Sie bei Themen wie Rechtsformwahl, Verträgen oder Buchführung keine teuren Fehler machen. So stellen Sie sicher, dass Ihr Unternehmen von Anfang an auf einem soliden Fundament steht und Sie sich ganz auf Ihr Geschäft konzentrieren können.
-
-{{< /warning >}}
-
-## Das Geschäftsmodell entwickeln
-
-Damit aus einer Geschäftsidee ein funktionierendes Unternehmen wird, braucht es ein durchdachtes Geschäftsmodell. Ein bewährtes Hilfsmittel dafür ist das Business Model Canvas. Es hilft Ihnen, alle wichtigen Bausteine Ihres Unternehmens auf einen Blick zu strukturieren. Zunächst steht die Frage nach Ihrer Zielgruppe im Mittelpunkt: Wen möchten Sie mit Ihrem Angebot erreichen? Darauf aufbauend definieren Sie Ihr Wertangebot – also den konkreten Nutzen, den Ihre Produkte oder Dienstleistungen bieten. 
-
-Ebenso entscheidend sind die Einnahmequellen und die passende Preisstrategie, denn sie bilden die Grundlage für die Wirtschaftlichkeit. Über welche Kanäle Sie Ihr Angebot vertreiben und wie Sie langfristig Kundenbeziehungen aufbauen, rundet das Modell ab. So entsteht ein klares Bild davon, wie Ihr Unternehmen Mehrwert schafft und sich am Markt behauptet.
-
-![Text](geschaeftsmodell_entwickeln.jpg)
-
-## Businessplan erstellen
-
-Ein Businessplan ist mehr als nur ein Dokument – er ist Ihr Fahrplan während Sie Ihr Unternehmen gründen. Mit ihm halten Sie Ihre Ideen strukturiert fest, prüfen die Machbarkeit Ihres Vorhabens und zeigen potenziellen Investoren oder Partnern, dass Sie Ihr Geschäftsvorhaben durchdacht haben. In den folgenden Abschnitten erfahren Sie Schritt für Schritt, welche Elemente ein vollständiger Businessplan enthält und worauf Sie bei jedem Punkt besonders achten sollten.
-
-### Zusammenfassung (Executive Summary)
-
-Die Executive Summary fasst Ihre Geschäftsidee, die Ziele und das geplante Vorgehen kurz und prägnant zusammen. Sie sollte so klar und überzeugend sein, dass potenzielle Investoren oder Partner sofort verstehen, worum es geht und welchen Mehrwert Ihr Unternehmen bietet.
-
-### Marktanalyse und Wettbewerber
-
-Eine gründliche Marktanalyse hilft Ihnen, Chancen und Risiken realistisch einzuschätzen. Untersuchen Sie Trends, die Nachfrage nach Ihrem Angebot und die wichtigsten Wettbewerber. So erkennen Sie, wo Sie sich differenzieren und wie Sie Ihre Position am Markt stärken können.
-
-### Produkt oder Dienstleistung
-
-Beschreiben Sie Ihr Produkt oder Ihre Dienstleistung detailliert. Gehen Sie darauf ein, welchen Nutzen es für Ihre Kunden hat und warum es sich von bestehenden Angeboten unterscheidet. Ein klarer Fokus auf den Mehrwert erleichtert später auch Marketing und Vertrieb.
-
-### Marketing- und Vertriebsstrategie
-
-Dieser Abschnitt zeigt, wie Sie Ihre Zielgruppe erreichen und langfristig binden möchten. Legen Sie dar, über welche Kanäle Sie Ihr Angebot vertreiben, welche Kommunikationsmittel Sie einsetzen und wie Sie Ihre Marke aufbauen.
-
-### Finanzplanung
-
-Die Finanzplanung bildet die Grundlage für die Wirtschaftlichkeit Ihres Vorhabens. Schätzen Sie alle Kosten realistisch ein, kalkulieren Sie erwartete Umsätze und prüfen Sie, ab wann Ihr Unternehmen profitabel arbeitet. Eine solide Finanzplanung umfasst dabei Kosten, Umsatz und Rentabilität.
-
-### Anhang 
-
-Im Anhang können Sie zusätzliche Informationen bereitstellen, die Ihren Businessplan ergänzen und Ihre Professionalität unterstreichen. Dazu gehören Lebensläufe der Gründer, Referenzen oder anschauliche Grafiken, die Zahlen und Abläufe visualisieren.
-
-{{< warning headline="Tipp" >}}
-
-Mit SeaTable haben Sie die Möglichkeit, Ihren gesamten Businessplan digital abzubilden. Zahlen, Ideen, Aufgaben und Dokumente sind an einem Ort gebündelt, wodurch Sie jederzeit den Überblick behalten. Gleichzeitig können Sie gemeinsam mit Ihrem Team daran arbeiten, Änderungen direkt einpflegen und Fortschritte verfolgen. So wird die Planung transparent, effizient und deutlich einfacher, als mit klassischen Dokumenten oder Tabellen.
+Especially at the beginning of your start-up, it is important not to put off tax and legal issues. Get support from experts at an early stage so that you don't make any costly mistakes in areas such as the choice of legal form, contracts or accounting. This will ensure that your company has a solid foundation right from the start and that you can concentrate fully on your business.
 
 {{< /warning >}}
 
-## Finanzierungen und Förderungen
+## Developing the business model
 
-Die passende Finanzierung ist ein entscheidender Faktor für den erfolgreichen Start Ihres Unternehmens. Eigenkapital bildet dabei oft die Grundlage und signalisiert auch potenziellen Geldgebern Vertrauen in Ihr Vorhaben. Ergänzend können Bankkredite – etwa über die Hausbank oder spezielle Förderbanken wie die KfW – genutzt werden, um größere Investitionen zu stemmen.
+To turn a business idea into a functioning company, you need a well thought-out business model. The **Business Model Canvas** is a proven tool for this. It helps you to structure all the important building blocks of your company at a glance. First of all, focus on the question of your target group: Who do you want to reach with your offer? Based on this, you define your value proposition - i.e. the specific benefits that your products or services offer.
 
-![Text](finanzierung_bank.jpg)
+The sources of revenue and the right pricing strategy are just as important, as they form the basis for profitability. The model is rounded off by the channels through which you distribute your offer and how you build long-term customer relationships. This creates a clear picture of how your company creates added value and asserts itself on the market.
 
-Darüber hinaus stehen Ihnen, wenn Sie ein Unternehmen gründen, verschiedene Förderprogramme offen, zum Beispiel vom BAFA, EXIST oder der Arbeitsagentur über den Gründerzuschuss. Für innovative oder wachstumsstarke Projekte kommen zudem Business Angels oder Venture-Capital-Investoren infrage, die nicht nur Kapital, sondern auch Erfahrung und Netzwerke einbringen. Schließlich bietet sich in manchen Fällen Crowdfunding oder Crowdinvesting an, um sowohl finanzielle Mittel zu erhalten als auch die Marktresonanz direkt zu testen.
+![Colleagues sit in front of a laptop and look at statistics](geschaeftsmodell_entwickeln.jpg)
 
-## Anmeldung des Gewerbes
+## Create a business plan
 
-Bevor Sie offiziell starten können, müssen Sie Ihr Gewerbe anmelden. Der erste Schritt führt Sie zum Gewerbeamt, wo Ihr Unternehmen offiziell registriert wird. Anschließend meldet sich das Finanzamt, vergibt eine Steuernummer und klärt, ob die Kleinunternehmerregelung für Sie infrage kommt. Je nach Branche ist zudem eine Mitgliedschaft bei der IHK oder der Handwerkskammer (HWK) verpflichtend. 
+A business plan is more than just a document - it is your roadmap as you set up your company. You use it to record your ideas in a structured way, check the feasibility of your project and show potential investors or partners that you have thought your business project through. In the following sections, you will learn step by step which elements a complete business plan contains and what you should pay particular attention to at each point.
 
-Prüfen Sie außerdem Ihre Verpflichtungen gegenüber der Berufsgenossenschaft und der Sozialversicherung, um rechtlich auf der sicheren Seite zu sein. Für bestimmte Tätigkeiten, wie im Handwerk oder der Gastronomie, sind gegebenenfalls zusätzliche Genehmigungen erforderlich.
+### Executive summary
 
-{{< warning headline="Tipp" >}}
+The executive summary briefly and concisely summarizes your business idea, objectives and planned approach. It should be so clear and convincing that potential investors or partners immediately understand what it is about and what added value your company offers.
 
-Mit SeaTable behalten Sie alle wichtigen Termine und Fristen im Blick während Sie Ihr Unternehmen gründen. Nutzen Sie den Kalender und das Timeline-Plugin, um Meilensteine wie Businessplan-Abgabe, Anmeldungen, Behördentermine oder Förderanträge übersichtlich darzustellen. So verpassen Sie keine Deadline und sorgen dafür, dass Ihre Gründung Schritt für Schritt planmäßig voranschreitet.
+### Market analysis and competitors
+
+A thorough market analysis helps you to realistically assess opportunities and risks. Examine trends, the demand for your offer and the most important competitors. This will help you recognize where you can differentiate yourself and how you can strengthen your position in the market.
+
+### Product or service
+
+Describe your product or service in detail. Explain what benefits it has for your customers and why it differs from existing offers. A clear focus on the added value will also make marketing and sales easier later on.
+
+### Marketing and sales strategy
+
+This section shows how you want to reach your target group and retain them in the long term. Explain which channels you will use to distribute your offer, which means of communication you will use and how you will build your brand.
+
+### Financial planning
+
+Financial planning forms the basis for the profitability of your project. Make a realistic estimate of all costs, calculate expected sales and check when your company will start operating profitably. Sound financial planning includes costs, turnover and profitability.
+
+### Appendix
+
+In the appendix, you can provide additional information that complements your business plan and underlines your professionalism. This includes CVs of the founders, references or clear graphics that visualize figures and processes.
+
+{{< warning headline="Tip" >}}
+
+With SeaTable, you have the option of mapping your entire business plan digitally. Figures, ideas, tasks and documents are bundled in one place, allowing you to maintain an overview at all times. At the same time, you can work on it together with your team, enter changes directly and track progress. This makes planning transparent, efficient and much easier than with traditional documents or spreadsheets.
 
 {{< /warning >}}
 
-## Marketingstrategien für Ihr neues Unternehmen
+## Financing and subsidies
 
-Erfolgreiches Marketing ist entscheidend, um Ihr Unternehmen bekannt zu machen und Kunden zu gewinnen. Doch bevor Sie Marketingmaßnahmen ergreifen, sollten Sie Ihre Zielgruppe genau kennen. Eine Zielgruppenanalyse und die Erstellung von Buyer Personas helfen Ihnen dabei, typische Bedürfnisse, Herausforderungen und Wünsche Ihrer potenziellen Kunden zu verstehen. Mit diesem Wissen lassen sich die passenden Marketingmaßnahmen gezielt auswählen.
+The right financing is a decisive factor for the successful launch of your company. **Equity capital** often forms the basis and also signals confidence in your project to potential lenders. In addition, **bank loans** - for example via your house bank or special development banks such as KfW - can be used to finance larger investments.
 
-- **Online-Marketing (SEO, SEA, Social Media)**: Nutzen Sie digitale Kanäle, um Ihre Reichweite zu erhöhen. Optimieren Sie Ihre Website für Suchmaschinen, schalten Sie gezielte Anzeigen und treten Sie aktiv in Social Media mit Ihrer Zielgruppe in Kontakt. 
-- **Content-Marketing & Newsletter**: Bieten Sie wertvolle Inhalte, die informieren oder unterhalten. So bauen Sie Vertrauen auf und stärken die langfristige Bindung Ihrer Kunden. 
-- **PR & Medienarbeit (Pressemitteilungen, Interviews)**: Klassische Medien steigern Ihre Bekanntheit und positionieren Sie als Experte in Ihrer Branche. Pressemitteilungen und Interviews erhöhen die Sichtbarkeit Ihres Unternehmens.
-- **Guerilla-Marketing / Events / Messebesuche**: Kreative Aktionen und persönliche Begegnungen bleiben im Gedächtnis. Ob ungewöhnliche Kampagnen, Veranstaltungen oder Messeauftritte – solche Maßnahmen schaffen direkte Kundenerlebnisse.
+![Two women sit opposite each other and talk](finanzierung_bank.jpg)
+
+In addition, when you set up a company, there are various **funding programs** available to you, for example from BAFA, EXIST or the employment agency via the start-up grant. For innovative or high-growth projects, business angels or venture capital investors can also be considered, who not only provide capital, but also experience and networks. Finally, in some cases **crowdfunding or crowdinvesting** can be used to obtain financial resources and to test the market response directly.
+
+## Registration of the business
+
+Before you can officially start, you need to register your business. The first step takes you to the **Gewerbeamt**, where your company will be officially registered. The **Finanzamt** then contacts you, assigns a tax number and clarifies whether you are eligible for the small business regulation. Depending on the sector, membership of the **Chamber of Industry and Commerce (IHK)** or the **Chamber of Crafts (HWK)** is also mandatory.
+
+Also check your obligations to the **professional association** and **social insurance** to be on the safe side legally. Additional **permits** may be required for certain activities, such as in the skilled trades or catering sector.
+
+{{< warning headline="Tip" >}}
+
+With SeaTable, you can keep track of all important dates and deadlines while you are setting up your company. Use the calendar and the timeline plugin to clearly display milestones such as business plan submission, registrations, appointments with authorities or funding applications. This way, you will never miss a deadline and ensure that your start-up progresses step by step according to plan.
+
+{{< /warning >}}
+
+## Marketing strategies for your new company
+
+Successful marketing is crucial to making your company known and gaining customers. But before you take any marketing measures, you should know your target group exactly. A **target group analysis and the creation of buyer personas** will help you to understand the typical needs, challenges and wishes of your potential customers. With this knowledge, you can select the appropriate marketing measures in a targeted manner.
+
+- **Online marketing (SEO, SEA, social media)**: Use digital channels to increase your reach. Optimize your website for search engines, place targeted ads and actively engage with your target group on social media.
+- **Content Marketing & Newsletter**: Provide valuable content that informs or entertains. This builds trust and strengthens the long-term loyalty of your customers.
+- **PR & media relations (press releases, interviews)**: Traditional media increase your profile and position you as an expert in your industry. Press releases and interviews increase the visibility of your company.
+- **Guerrilla marketing / events / trade fair visits**: Creative campaigns and personal encounters are memorable. Whether unusual campaigns, events or trade fair appearances - such measures create direct customer experiences.
 
 {{< warning headline="Tipp" >}}
 
@@ -115,65 +114,67 @@ Nutzen Sie SeaTable, um die wichtigsten Kennzahlen Ihrer Marketingstrategie scho
 
 {{< /warning >}}
 
-## Networking und Partnerschaften aufbauen
+## Networking and building partnerships
 
-Erfolgreiches Netzwerken und strategische Partnerschaften können den Unterschied für Ihre Gründung ausmachen. Gründungszentren und Co-Working-Spaces bieten nicht nur einen Arbeitsplatz, sondern auch die Möglichkeit, Gleichgesinnte zu treffen und Ideen auszutauschen. Branchenevents und Meetups sind ideale Gelegenheiten, um neue Kontakte zu knüpfen und aktuelle Trends kennenzulernen. 
+Successful networking and strategic partnerships can make all the difference for your start-up. **Incubators and co-working spaces** offer not only a place to work, but also the opportunity to meet like-minded people and exchange ideas. **Industry events and meetups** are ideal opportunities to make new contacts and learn about current trends.
 
-![Text](networking_partnerschaften.jpg)
+![Three businessmen sit around a table and work together](networking_partnerschaften.jpg)
 
-Auch online können Sie aktiv werden: LinkedIn und XING ermöglichen es, Ihr professionelles Netzwerk gezielt zu erweitern. Kooperationen mit Startups oder kleinen und mittleren Unternehmen (KMU) eröffnen Chancen für gemeinsame Projekte und gegenseitige Unterstützung. Zusätzlich gibt es spezielle Gründungsnetzwerke und Communities, wie beispielsweise den Startup-Verband, die wertvolle Ressourcen, Mentoring und Austauschmöglichkeiten bieten.
+You can also become active online: **LinkedIn and XING** allow you to expand your professional network in a targeted manner. **Collaborations** with start-ups or small and medium-sized enterprises (SMEs) open up opportunities for joint projects and mutual support. In addition, there are special **start-up networks and communities**, such as the Startup Association, which offer valuable resources, mentoring and exchange opportunities.
 
-## Von Anfang an die richtige Software
+## The right software right from the start
 
-Wenn Sie Ihr Unternehmen gründen, brauchen Sie ein Werkzeug, das Ihnen Struktur gibt und Sie Schritt für Schritt unterstützt. Mit SeaTable behalten Sie alle Ideen, Aufgaben, Dokumente und Zahlen an einem zentralen Ort im Blick und arbeiten von Anfang an effizient und transparent.
+When you start your business, you need a tool that gives you structure and supports you step by step. With SeaTable, you can keep track of all ideas, tasks, documents and figures in one central location and work efficiently and transparently right from the start.
 
-SeaTable deckt dabei alle wesentlichen Schritte ab:
+SeaTable covers all the essential steps:
 
-- **Ideenentwicklung & Geschäftsmodell**: Visualisieren Sie Ihr Business Model Canvas, prüfen Sie Märkte und halten Sie Ihr Allein
-- **Businessplan & Finanzplanung**: Planen Sie Kosten, Umsätze und Fördermöglichkeiten digital und behalten Sie Versionen, Anhänge und Aufgaben jederzeit griffbereit.
-- **Organisation & Formalitäten**: Verwalten Sie Termine, Fristen und Anträge zentral und verpassen Sie keine wichtigen Deadlines dank Kalender- und Timeline-Funktion.
-- **Marketing & Wachstum**: Erfassen Sie Kennzahlen (KPIs) zu Reichweite, Kundenakquise oder Kosten und werten Sie diese mit Dashboards anschaulich aus.
-- **Zusammenarbeit & Transparenz**: Arbeiten Sie in Echtzeit mit Mitgründern, Beratern oder Investoren an denselben Informationen – ohne Versionschaos.
+- **Idea development & business model**: Visualize your business model canvas, check markets and keep your sole
+- **Business plan & financial planning**: Plan costs, sales and funding opportunities digitally and keep versions, attachments and tasks to hand at all times.
+- **Organization & Formalities**: Manage appointments, deadlines and applications centrally and never miss any important deadlines thanks to the calendar and timeline function.
+- **Marketing & Growth**: Record key performance indicators (KPIs) for reach, customer acquisition or costs and evaluate them clearly with dashboards.
+- **Collaboration & transparency**: Work in real time with co-founders, advisors or investors on the same information - without version chaos.
 
-Der entscheidende Vorteil liegt darin, dass SeaTable mit Ihnen wächst. Was Sie zu Beginn für Businessplan, Finanzplanung und Organisation nutzen, können Sie später zu einem umfassenden System für Projektmanagement, CRM, Reporting und Teamorganisation ausbauen. So haben Sie von Anfang an ein Tool an Ihrer Seite, das Ihre Gründung unterstützt und Sie langfristig begleitet.
+{{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Scroll through our interactive template and discover the first functions." >}}
+
+The decisive advantage is that SeaTable grows with you. What you use at the beginning for **business plan, financial planning and organization**, you can later expand into a comprehensive system for **project management, CRM, reporting and team organization**. This means you have a tool at your side right from the start that supports your start-up and accompanies you in the long term.
 
 ## FAQs
 
-{{< faq "Wie gründet man ein Unternehmen?" >}}
+{{< faq "How do you set up a company?" >}}
 
-Wenn Sie ein Start Up gründen, beginnen Sie mit einer Geschäftsidee, entwickeln daraus ein Geschäftsmodell und erstellen einen Businessplan. Anschließend wählen Sie die passende Rechtsform, kümmern sich um die Finanzierung und melden Ihr Gewerbe offiziell an. Danach folgen steuerliche Registrierung, eventuelle Genehmigungen und der Aufbau von Marketing- und Vertriebsstrukturen.
-
-{{< /faq >}}
-
-{{< faq "Welche Kosten kommen auf mich zu, wenn ich mich selbständig machen will?" >}}
-
-Wenn Sie eine eigene Firma gründen, sind Kosten ein wichtiges Thema. Sie hängen von der Rechtsform und der Branche ab. Typische Posten sind Gebühren für die Gewerbeanmeldung, Notar- und Handelsregisterkosten, mögliche Einlagen für Stammkapital, Ausgaben für Versicherungen, Beratung und erste Marketingmaßnahmen. Hinzu kommen laufende Betriebskosten wie Miete, Technik und Personal.
+When you found a start-up, you start with a business idea, develop a business model and create a business plan. You then choose the right legal form, take care of the financing and officially register your business. This is followed by tax registration, any necessary permits and the establishment of marketing and sales structures.
 
 {{< /faq >}}
 
-{{< faq "Was muss ich bei der Gründung von Einzelunternehmen beachten?" >}}
+{{< faq "What costs will I incur if I want to become self-employed?" >}}
 
-Sie benötigen lediglich eine Gewerbeanmeldung beim zuständigen Amt. Die Einzelunternehmen Gründung ist kostengünstig und unkompliziert, allerdings haften Sie mit Ihrem gesamten Privatvermögen. Sie sollten frühzeitig Ihre steuerlichen Pflichten klären und eine ordentliche Buchführung einrichten.
-
-{{< /faq >}}
-
-{{< faq "Was braucht man, um eine Firma zu gründen?" >}}
-
-Wenn Sie ein Unternehmen gründen, ist eine Checkliste von Vorteil, um nichts zu vergessen. Folgende Punkte sollten sich darauf befinden:
-
-- Geschäftsidee und Geschäftsmodell entwickeln
-- Rechtsform wählen
-- Businessplan erstellen
-- Finanzierung sichern
-- Gewerbe anmelden und steuerliche Registrierung durchführen
-- Versicherungen und Mitgliedschaften klären
-- Marketing- und Vertriebsstrategie planen
-- Organisation und Buchhaltung aufsetzen
+When you set up your own company, costs are an important issue. They depend on the legal form and the sector. Typical items are fees for business registration, notary and commercial register costs, possible contributions for share capital, expenses for insurance, advice and initial marketing measures. There are also ongoing operating costs such as rent, technology and personnel.
 
 {{< /faq >}}
 
-{{< faq "Wie gründet man eine Firma ohne Eigenkapital?" >}}
+{{< faq "What do I need to consider when setting up a sole proprietorship?" >}}
 
-Wenn Sie kein Eigenkapital einsetzen können, stehen Ihnen verschiedene Optionen offen. Sie können auf Förderprogramme, Gründerzuschüsse, Bankdarlehen oder Mikrokredite zurückgreifen. Auch Business Angels, Venture Capital oder Crowdfunding bieten Möglichkeiten, Kapital ohne eigene Einlagen zu beschaffen. Wichtig ist, dass Sie mit einem überzeugenden Businessplan auftreten, um Investoren und Geldgeber von Ihrer Idee zu überzeugen.
+All you need is a business registration with the relevant office. Setting up a sole proprietorship is inexpensive and uncomplicated, but you are liable with all your private assets. You should clarify your tax obligations at an early stage and set up proper bookkeeping.
+
+{{< /faq >}}
+
+{{< faq "What do you need to set up a company?" >}}
+
+When you start a business, it is useful to have a checklist so that you don't forget anything. The following points should be on it:
+
+- Develop a business idea and business model
+- Choose legal form
+- Create a business plan
+- Secure financing
+- Register business and complete tax registration
+- Clarify insurance and memberships
+- Plan marketing and sales strategy
+- Set up organization and accounting
+
+{{< /faq >}}
+
+{{< faq "How do you set up a company without equity?" >}}
+
+If you cannot use your own capital, there are various options open to you. You can fall back on funding programs, start-up grants, bank loans or microloans. Business angels, venture capital or crowdfunding also offer opportunities to raise capital without your own investment. It is important that you present a convincing business plan in order to convince investors and funders of your idea.
 
 {{< /faq >}}
