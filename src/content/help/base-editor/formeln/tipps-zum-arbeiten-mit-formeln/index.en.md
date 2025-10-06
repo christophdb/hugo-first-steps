@@ -5,7 +5,13 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/help/tipps-zum-arbeiten-mit-formeln'
+url: '/help/formula-tips-working-seatable'
+aliases:
+    - '/help/tipps-zum-arbeiten-mit-formeln'
+seo:
+    title: 'Formula Tips for Working in SeaTable'
+    description: 'Helpful SeaTable formula tips: line breaks, syntax, color highlights, bracket matching, planning formulas, and avoiding errors.'
+
 ---
 
 Here you will find help and tips to facilitate your work with Seatable formulas. A list of all available formulas can be found [here]({{< relref "help/base-editor/formeln/formelreferenz" >}}).

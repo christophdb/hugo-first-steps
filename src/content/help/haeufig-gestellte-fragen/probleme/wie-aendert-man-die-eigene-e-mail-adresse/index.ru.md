@@ -5,7 +5,13 @@ lastmod: '2023-08-22'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/wie-aendert-man-die-eigene-e-mail-adresse'
+url: '/ru/pomoshch/kak-izmenit-email'
+aliases:
+    - '/ru/pomoshch/wie-aendert-man-die-eigene-e-mail-adresse'
+seo:
+    title: 'Как изменить email в SeaTable: инструкция'
+    description: 'Узнайте, как в SeaTable сменить email, создав новый аккаунт, экспортировав базы и оформив членов команды заново.'
+
 ---
 
 В **настоящее время** SeaTable Cloud **не позволяет пользователям изменять свой адрес электронной почты**. Ни сам пользователь, ни администратор команды не могут изменить адрес электронной почты существующей учетной записи. Однако это можно сделать **обходным** путем, создав новую **учетную запись** с **новым адресом электронной почты** и удалив предыдущую. Эта процедура описана в следующей статье.

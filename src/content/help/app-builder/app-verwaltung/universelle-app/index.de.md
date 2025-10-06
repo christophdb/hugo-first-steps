@@ -6,6 +6,10 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/universelle-app'
+seo:
+    title: 'Universelle App in SeaTable: Funktionen & Anleitung'
+    description: 'Alles zur SeaTable Universellen App: Seitentypen, Dashboards, Rechte, Nutzerverwaltung, Teilen, Kopieren, Löschen & Tipps zur Gestaltung.'
+
 ---
 
 Beim Bauen einer **Universellen App** können Sie Ihrer Kreativität freien Lauf lassen. Die App verfügt über eine Reihe von [Seitentypen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}), können Sie Dashboards mit aussagekräftigen **Statistiken** aus Ihren Daten erstellen, die Sie mit anderen (externen) Nutzern teilen können.

@@ -5,7 +5,13 @@ lastmod: '2024-07-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/fr/aide/die-vorschau-einer-app-anzeigen-lassen'
+url: '/fr/aide/apercu-dune-app'
+aliases:
+    - '/fr/aide/die-vorschau-einer-app-anzeigen-lassen'
+seo:
+    title: 'Aperçu d’une app SeaTable : guide de test'
+    description: 'Testez votre app SeaTable avant publication : affichez un aperçu en mode édition ou ouvrez directement l’app pour vérifier l’état.'
+
 ---
 
 Pour optimiser la conception de vos apps, vous devez bien entendu les **tester** avant de les publier. Pour voir vos apps comme les utilisateurs les voient, vous pouvez à tout moment afficher l'état actuel de traitement dans un **aperçu** ou simplement **ouvrir** les apps en mode normal.

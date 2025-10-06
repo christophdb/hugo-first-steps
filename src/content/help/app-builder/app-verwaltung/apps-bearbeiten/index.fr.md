@@ -5,7 +5,13 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/fr/aide/apps-bearbeiten'
+url: '/fr/aide/modifier-apps'
+aliases:
+    - '/fr/aide/apps-bearbeiten'
+seo:
+    title: 'Modifier vos apps SeaTable : guide complet étape par étape'
+    description: 'Découvrez comment modifier vos apps SeaTable : mode édition, droits d’accès, paramètres essentiels expliqués pas à pas en détail.'
+
 ---
 
 Les apps que vous avez déjà ajoutées à l'une de vos bases peuvent être modifiées à tout moment via l'onglet du même nom dans l'en-tête de la base.

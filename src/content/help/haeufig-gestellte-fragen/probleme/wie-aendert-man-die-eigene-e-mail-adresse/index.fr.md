@@ -5,7 +5,13 @@ lastmod: '2023-08-22'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/wie-aendert-man-die-eigene-e-mail-adresse'
+url: '/fr/aide/changer-adresse-email'
+aliases:
+    - '/fr/aide/wie-aendert-man-die-eigene-e-mail-adresse'
+seo:
+    title: 'Comment changer votre adresse email dans SeaTable'
+    description: 'Découvrez comment changer votre email dans SeaTable via la migration du compte, export/import de bases et gestion des équipes.'
+
 ---
 
 Dans le nuage SeaTable, il n'est **actuellement pas prévu de changer d'adresse e-mail personnelle**. Ni l'utilisateur ni l'administrateur de l'équipe ne peuvent changer l'adresse e-mail d'un compte existant. Il est toutefois possible de le faire de manière **détournée** en créant un **nouveau compte** avec une **nouvelle adresse e-mail** et en supprimant le compte existant. L'article suivant décrit cette procédure.

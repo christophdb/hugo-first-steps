@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/sicherheitseinstellungen-in-einer-base'
+url: '/fr/aide/parametres-securite-base'
+aliases:
+    - '/fr/aide/sicherheitseinstellungen-in-einer-base'
+seo:
+    title: 'Paramètres de sécurité d’une base SeaTable: guide'
+    description: 'Sécurisez vos données SeaTable : réglages pour export, impression, copie et traitements sur les utilisateurs et groupes détaillés ici.'
+
 ---
 
 Dans les paramètres de sécurité de votre base, vous pouvez à tout moment procéder à des réglages qui concernent la sécurité de votre base et la protection des données qui s'y trouvent. Les réglages de sécurité sont spécifiques à une base complète et peuvent varier d'une base à l'autre en fonction des réglages effectués.

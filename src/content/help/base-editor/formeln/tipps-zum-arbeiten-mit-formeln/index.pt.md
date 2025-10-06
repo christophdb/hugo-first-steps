@@ -5,7 +5,13 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/pt/ajuda/tipps-zum-arbeiten-mit-formeln'
+url: '/pt/ajuda/dicas-formulas-seatable'
+aliases:
+    - '/pt/ajuda/tipps-zum-arbeiten-mit-formeln'
+seo:
+    title: 'Dicas de fórmulas para o SeaTable'
+    description: 'Dicas práticas para fórmulas no SeaTable: quebras de linha, sintaxe, cores, colchetes, planejamento e correção de erros.'
+
 ---
 
 Aqui encontrará ajuda e conselhos para facilitar o seu trabalho com as fórmulas Seatable. Pode encontrar uma lista de todas as fórmulas disponíveis [aqui]({{< relref "help/base-editor/formeln/formelreferenz" >}}).

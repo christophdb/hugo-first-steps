@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'nsc2'
-url: '/pt/ajuda/abonnement-und-abrechnung-im-ueberblick'
+url: '/pt/ajuda/assinatura-cobranca-overview'
+aliases:
+    - '/pt/ajuda/abonnement-und-abrechnung-im-ueberblick'
+seo:
+    title: 'Assinatura e cobrança no SeaTable: visão geral'
+    description: 'Saiba tudo sobre planos de assinatura, gestão, pagamentos, limites, uso em equipe e cancelamento do SeaTable centralizado aqui.'
+
 ---
 
 O artigo que se segue serve como um artigo de síntese sobre o tema da subscrição e facturação. Desde os pacotes de subscrição individuais disponíveis, passando pela consulta das suas facturas, até à anulação da sua subscrição - encontrará todas as ligações para os artigos de ajuda disponíveis que responderão a quaisquer perguntas que possa ter sobre a subscrição e a facturação.

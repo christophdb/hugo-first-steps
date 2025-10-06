@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+url: '/pt/ajuda/usuarios-inativos-cobranca'
+aliases:
+    - '/pt/ajuda/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+seo:
+    title: 'Usuários inativos na cobrança do SeaTable'
+    description: 'Usuários inativos em SeaTable não precisam de licença e não são incluídos na contagem total de usuários faturados.'
+
 ---
 
 Para utilizar o SeaTable na sua equipa, é necessário adquirir uma licença separadamente para cada utilizador.  

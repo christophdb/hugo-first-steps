@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/funktioniert-seatable-auch-auf-mobilen-geraeten-und-handys'
+url: '/ru/pomoshch/seatable-na-mobilnyh-ustroystvah-telefonah'
+aliases:
+    - '/ru/pomoshch/funktioniert-seatable-auch-auf-mobilen-geraeten-und-handys'
+seo:
+    title: 'SeaTable на мобильных устройствах и телефонах'
+    description: 'SeaTable доступен на смартфоне, планшете и в браузере. Приложение Android и мобильный интерфейс делают работу с данными простой.'
+
 ---
 
 Конечно, вы также можете использовать SeaTable на **мобильных устройствах**, таких как смартфоны и планшеты. Доступ к SeaTable возможен как через браузер, так и через [приложение для Android, которое можно найти в Google Play Store](https://play.google.com/store/apps/details?id=io.seatable&pli=1). Приложение для iOS уже планируется, но дата его выхода пока не определена.

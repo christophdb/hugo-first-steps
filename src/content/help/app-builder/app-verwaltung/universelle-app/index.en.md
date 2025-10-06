@@ -5,7 +5,13 @@ lastmod: '2025-02-13'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/help/universelle-app'
+url: '/help/universal-app'
+aliases:
+    - '/help/universelle-app'
+seo:
+    title: 'Universal App in SeaTable: Features & Guide'
+    description: 'Discover SeaTable Universal App: page types, dashboards, permissions, user & role management, sharing, copying and design tips.'
+
 ---
 
 When building a **Universal app**, you can let your creativity run wild. The app has a number of [page types]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) a **custom page**, you can create dashboards with meaningful **statistics** from your data that you can share with other (external) users.

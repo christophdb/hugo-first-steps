@@ -5,7 +5,13 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+url: '/fr/aide/utilisateurs-inactifs-facturation'
+aliases:
+    - '/fr/aide/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+seo:
+    title: 'Utilisateurs inactifs : impact sur la facturation'
+    description: 'Les utilisateurs inactifs dans SeaTable ne requièrent pas de licence et ne sont pas comptés dans votre facturation. Gérez vos équipes.'
+
 ---
 
 Pour pouvoir utiliser SeaTable dans votre équipe, vous devez acheter une licence pour chaque utilisateur séparément.  

@@ -6,6 +6,10 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/die-vorschau-einer-app-anzeigen-lassen'
+seo:
+    title: 'Die Vorschau einer App in SeaTable anzeigen'
+    description: 'Testen Sie Ihre SeaTable Apps vor Veröffentlichung mit der Vorschau-Funktion oder öffnen Sie sie direkt im Bearbeitungsmodus.'
+
 ---
 
 Zur optimalen Gestaltung Ihrer Apps sollten Sie diese vor der Veröffentlichung natürlich **testen**. Um Ihre Apps so zu sehen, wie die Nutzer es tun, können Sie sich den aktuellen Bearbeitungsstand jederzeit in einer **Vorschau** anzeigen lassen oder die Apps einfach im normalen Modus **öffnen**.

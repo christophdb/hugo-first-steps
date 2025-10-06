@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/pt/ajuda/zeilen-aus-dem-big-data-backend-zurueckholen'
+url: '/pt/ajuda/restaurar-linhas-big-data'
+aliases:
+    - '/pt/ajuda/zeilen-aus-dem-big-data-backend-zurueckholen'
+seo:
+    title: 'Restaurar linhas do armazenamento Big Data SeaTable'
+    description: 'Saiba como restaurar linhas arquivadas do Big Data do SeaTable e devolvê-las a uma visualização normal com eficiência.'
+
 ---
 
 Para recuperar linhas da memória de grandes volumes de dados, é necessária uma [vista de grandes volumes de dados]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) as linhas desejadas e movê-las de volta para uma **vista normal**.

@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/es/ayuda/zeilen-aus-dem-big-data-backend-zurueckholen'
+url: '/es/ayuda/recuperar-filas-big-data'
+aliases:
+    - '/es/ayuda/zeilen-aus-dem-big-data-backend-zurueckholen'
+seo:
+    title: 'Recuperar filas del almacenamiento Big Data SeaTable'
+    description: 'Descubra cómo recuperar filas archivadas en el almacenamiento Big Data de SeaTable y devolverlas a vistas normales fácilmente.'
+
 ---
 
 Para recuperar filas de la memoria de big data, se necesita una vista de [big data]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) las filas deseadas y volver a moverlas a una **vista normal**.

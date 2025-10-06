@@ -5,7 +5,13 @@ lastmod: '2024-07-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/help/die-vorschau-einer-app-anzeigen-lassen'
+url: '/help/preview-your-app'
+aliases:
+    - '/help/die-vorschau-einer-app-anzeigen-lassen'
+seo:
+    title: 'Preview Your App in SeaTable: How to Test'
+    description: 'Preview and test your SeaTable apps anytime before release by viewing them in edit mode or opening them directly.'
+
 ---
 
 For optimal design of your apps, you should of course **test** them before publishing. To see your apps as users do, you can **preview** the current editing status at any time or simply **open** the apps in normal mode.

@@ -5,7 +5,13 @@ lastmod: '2024-07-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/es/ayuda/die-vorschau-einer-app-anzeigen-lassen'
+url: '/es/ayuda/vista-previa-de-tu-app'
+aliases:
+    - '/es/ayuda/die-vorschau-einer-app-anzeigen-lassen'
+seo:
+    title: 'Vista previa de tu app en SeaTable: guía rápida'
+    description: 'Prueba y muestra la vista previa de tus apps en SeaTable antes de publicar para asegurar funcionamiento y apariencia correctos.'
+
 ---
 
 Para que el diseño de tus aplicaciones sea óptimo, por supuesto debes **probarlas** antes de publicarlas. Para ver tus apps como las ven los usuarios, puedes **previsualizar** el estado de edición actual en cualquier momento o simplemente **abrir** las apps en modo normal.

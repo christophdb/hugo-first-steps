@@ -5,7 +5,13 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung-abonnement'
 author: 'nsc2'
-url: '/fr/aide/abonnement-und-abrechnung-im-ueberblick'
+url: '/fr/aide/abonnement-facturation-apercu'
+aliases:
+    - '/fr/aide/abonnement-und-abrechnung-im-ueberblick'
+seo:
+    title: 'Abonnement SeaTable : gestion & facturation'
+    description: 'Toutes les infos : packs d’abonnements, gestion, paiements, factures, limites, modification et résiliation d’un compte SeaTable.'
+
 ---
 
 L'article suivant est un article de synthèse sur l'abonnement et la facturation. Des différentes formules d'abonnement disponibles, de la consultation de vos factures à la résiliation de votre abonnement, vous trouverez ici tous les liens vers les articles d'aide disponibles qui répondent à toutes vos questions concernant l'abonnement et la facturation.

@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/sicherheitseinstellungen-in-einer-base'
+url: '/es/ayuda/configuracion-seguridad-base'
+aliases:
+    - '/es/ayuda/sicherheitseinstellungen-in-einer-base'
+seo:
+    title: 'Configuración de seguridad en una base SeaTable'
+    description: 'Proteja los datos: restrinja exportaciones, impresión, copias y operaciones según usuarios y grupos en una base SeaTable fácilmente.'
+
 ---
 
 En los ajustes de seguridad de su base, puede realizar ajustes en cualquier momento que afectan a la seguridad de su base y a la protección de los datos que contiene. Los ajustes de seguridad se aplican específicamente a una base completa y pueden diferir de una base a otra en función de los ajustes realizados.
