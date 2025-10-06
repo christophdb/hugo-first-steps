@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'nsc2'
-url: '/help/die-zeilen-url-kopieren'
+url: '/help/copy-row-url'
+aliases:
+    - '/help/die-zeilen-url-kopieren'
+seo:
+    title: 'How to Copy Row URL in SeaTable: Step-by-Step Guide'
+    description: 'Learn to copy row URLs in SeaTable for precise record sharing—send row links directly or use for scripts, with browser tips included.'
+
 ---
 
 Each row of a base has a unique **URL**. You can copy this if you want to reference the exact record in a specific row , for example to forward the data to a team member. However, the URL can only be opened by people who are logged into SeaTable and have access to the row .

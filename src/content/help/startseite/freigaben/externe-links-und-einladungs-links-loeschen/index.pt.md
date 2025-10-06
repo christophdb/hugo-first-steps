@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/pt/ajuda/externe-links-und-einladungs-links-loeschen'
+url: '/pt/ajuda/apagar-links-externos-convite'
+aliases:
+    - '/pt/ajuda/externe-links-und-einladungs-links-loeschen'
+seo:
+    title: 'Apagar links externos e de convite no SeaTable'
+    description: 'Saiba como remover links externos e de convite compartilhados no SeaTable com segurança, direitos de acesso e efeitos da exclusão.'
+
 ---
 
 Pode **apagar** tanto as **ligações externas** como as **ligações de convite** em qualquer altura de duas formas diferentes. Por favor, tenha em atenção as consequências que a eliminação tem para o acesso aos seus dados.

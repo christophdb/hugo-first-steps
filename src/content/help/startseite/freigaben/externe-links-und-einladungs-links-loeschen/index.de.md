@@ -6,6 +6,10 @@ categories:
     - 'freigaben'
 author: 'nsc2'
 url: '/de/hilfe/externe-links-und-einladungs-links-loeschen'
+seo:
+    title: 'Externe Links und Einladungs-Links in SeaTable löschen'
+    description: 'So entfernen Sie geteilte externe und Einladungs-Links in SeaTable sicher – mit Hinweisen zu Zugriff, Berechtigungen und Auswirkungen.'
+
 ---
 
 Sowohl **externe Links** als auch **Einladungs-Links** können Sie jederzeit auf zwei unterschiedlichen Wegen **löschen**. Beachten Sie dabei, welche Konsequenzen die Löschung für den Zugang zu Ihren Daten hat.

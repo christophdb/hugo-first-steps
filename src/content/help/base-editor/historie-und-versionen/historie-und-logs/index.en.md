@@ -5,7 +5,13 @@ lastmod: '2024-12-16'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/help/historie-und-logs'
+url: '/help/history-logs'
+aliases:
+    - '/help/historie-und-logs'
+seo:
+    title: 'History & Logs in SeaTable: Track Data Changes'
+    description: 'SeaTable logging and history: activity overview, base logs, row logs, automation run logs, and tracking changes for transparent collaboration.'
+
 ---
 
 In order to keep track of who made what **changes to** the data in your bases and when, the **history** is temporarily stored in various places in SeaTable. There is an overall **activity log** on the start page, a **log** for each base and for each row. In addition, you can review automations and scripts that have been performed in an **execution log** for each.

@@ -5,7 +5,13 @@ lastmod: '2023-03-09'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-zeilen-url-kopieren'
+url: '/ru/pomoshch/kak-skopirovat-url-stroki'
+aliases:
+    - '/ru/pomoshch/die-zeilen-url-kopieren'
+seo:
+    title: 'Как скопировать URL строки в SeaTable: инструкция'
+    description: 'Легко копируйте адрес строки в SeaTable — делитесь записями, создавайте ссылки для скриптов и работы в команде. Советы и лайфхаки.'
+
 ---
 
 Каждая строка в базе имеет уникальный **URL-адрес**. Вы можете скопировать его, если хотите сослаться на конкретную запись в определенном ряду, например, чтобы переслать данные члену команды. Однако URL может быть открыт только теми людьми, которые вошли в SeaTable и имеют доступ к строке.

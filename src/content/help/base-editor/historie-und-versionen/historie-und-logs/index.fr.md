@@ -5,7 +5,13 @@ lastmod: '2024-12-16'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/fr/aide/historie-und-logs'
+url: '/fr/aide/historique-logs'
+aliases:
+    - '/fr/aide/historie-und-logs'
+seo:
+    title: 'Historique et logs SeaTable : suivi des modifications'
+    description: 'Découvrez historiques et logs dans SeaTable : protocole d’activités, bases, lignes, logs d’automatisations et scripts en détail.'
+
 ---
 
 Pour que vous puissiez à tout moment savoir qui a **apporté** quelles **modifications** aux données de vos bases et à quel moment, l'**historique** est enregistré temporairement à différents endroits de SeaTable. Il existe un **journal d'activité** global sur la page d'accueil, un **journal** pour chaque base et pour chaque ligne. De plus, vous pouvez vérifier les automatisations et les scripts dans un **journal d'exécution**.

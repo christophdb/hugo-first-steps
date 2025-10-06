@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/pomoshch/freigegebene-bases-verlassen'
+url: '/ru/pomoshch/vyyti-iz-obschey-bazy'
+aliases:
+    - '/ru/pomoshch/freigegebene-bases-verlassen'
+seo:
+    title: 'Как выйти из общей базы в SeaTable: инструкция'
+    description: 'Узнайте, как выйти из общей базы SeaTable и потерять доступ к данным – старые изменения останутся сохранены в базе.'
+
 ---
 
 Если другой пользователь освободил для вас базу, вы можете **оставить** это **освобождение самостоятельно**. Это возможно в любое время с помощью нескольких щелчков мыши на стартовой странице.

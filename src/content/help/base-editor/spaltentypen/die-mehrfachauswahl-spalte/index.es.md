@@ -5,7 +5,13 @@ lastmod: '2025-07-15'
 categories:
     - 'spalten'
 author: 'kgr'
-url: '/es/ayuda/die-mehrfachauswahl-spalte'
+url: '/es/ayuda/columna-seleccion-multiple'
+aliases:
+    - '/es/ayuda/die-mehrfachauswahl-spalte'
+seo:
+    title: 'Columna de selección múltiple en SeaTable: guía'
+    description: 'Gestiona opciones, colores, exportación/importación, orden flexible y diferencias clave de la columna de selección múltiple SeaTable.'
+
 ---
 
 Una columna de selección múltiple es ideal si desea asignar a las filas de una columna **varias opciones** de una lista de opciones por definir. Las opciones reciben etiquetas de colores que puede utilizar para etiquetar sus registros y hacer tablas claras, por ejemplo, [filtrando]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) por opciones específicas.

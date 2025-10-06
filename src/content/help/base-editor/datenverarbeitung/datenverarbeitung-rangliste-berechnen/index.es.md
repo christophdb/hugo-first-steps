@@ -5,7 +5,13 @@ lastmod: '2023-11-27'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/es/ayuda/datenverarbeitung-rangliste-berechnen'
+url: '/es/ayuda/calcular-ranking-procesamiento-datos'
+aliases:
+    - '/es/ayuda/datenverarbeitung-rangliste-berechnen'
+seo:
+    title: 'Calcular ranking en SeaTable: procesamiento de datos'
+    description: 'Aprenda a ordenar valores numéricos en SeaTable con operaciones de procesamiento y cree rankings automatizados fácilmente y con ejemplos.'
+
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar varias operaciones en una columna. Una de estas operaciones es el **cálculo de clasificaciones**, que le permite clasificar todos los valores de una columna numérica. Para ello, basta con definir la operación de tratamiento de datos correspondiente en las opciones de vista de la tabla.

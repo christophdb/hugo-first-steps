@@ -5,7 +5,13 @@ lastmod: '2023-03-28'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/es/ayuda/freigegebene-bases-verlassen'
+url: '/es/ayuda/salir-bases-compartidas'
+aliases:
+    - '/es/ayuda/freigegebene-bases-verlassen'
+seo:
+    title: 'Salir de bases compartidas en SeaTable: guía fácil'
+    description: 'Descubre cómo salir de una base compartida en SeaTable y revocar tu acceso; tus cambios anteriores se conservan en la base.'
+
 ---
 
 Si otro usuario te ha liberado una base, puedes **dejar** esta **liberación por ti mismo**. Esto es posible en cualquier momento con sólo unos clics en la página de inicio.

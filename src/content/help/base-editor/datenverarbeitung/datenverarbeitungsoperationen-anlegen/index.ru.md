@@ -5,7 +5,13 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitungsoperationen-anlegen'
+url: '/ru/pomoshch/operatsii-obrabotki-dannyh'
+aliases:
+    - '/ru/pomoshch/datenverarbeitungsoperationen-anlegen'
+seo:
+    title: 'Как создать операции обработки данных в SeaTable'
+    description: 'Пошаговая инструкция: создавайте операции обработки данных в SeaTable, математические вычисления, сравнение и объединение данных.'
+
 ---
 
 С помощью функции обработки данных можно выполнять различные **операции**. Вы можете выполнять математические вычисления по всем значениям в столбце, а также соотносить значения, когда записи в двух разных таблицах идентичны.

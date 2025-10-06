@@ -5,7 +5,13 @@ lastmod: '2023-03-23'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/pt/ajuda/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+url: '/pt/ajuda/por-que-nao-apagar-primeira-coluna'
+aliases:
+    - '/pt/ajuda/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+seo:
+    title: 'Por que não apagar a primeira coluna no SeaTable'
+    description: 'Entenda porque a primeira coluna do SeaTable funciona como chave primária, não pode ser removida e saiba adaptar seus dados facilmente.'
+
 ---
 
 Quer **apagar** a primeira coluna da sua tabela e fica surpreendido por a opção necessária nas definições da coluna **não** ser **exibida**? Não precisa de se preocupar, isto é intencional e tem uma razão específica, que lhe explicaremos neste artigo.

@@ -5,7 +5,13 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/es/ayuda/datenverarbeitungsoperationen-anlegen'
+url: '/es/ayuda/crear-operaciones-procesamiento-datos'
+aliases:
+    - '/es/ayuda/datenverarbeitungsoperationen-anlegen'
+seo:
+    title: 'Crear operaciones de procesamiento de datos en SeaTable'
+    description: 'Descubre cómo realizar operaciones matemáticas y vincular tablas en SeaTable: guía paso a paso para automatizar y comparar datos.'
+
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar diversas **operaciones**. Puede realizar cálculos matemáticos en todos los valores de una columna, así como correlacionar valores cuando las entradas de dos tablas diferentes son idénticas.

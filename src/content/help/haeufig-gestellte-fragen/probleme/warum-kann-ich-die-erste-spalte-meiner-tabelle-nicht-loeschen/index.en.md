@@ -5,7 +5,13 @@ lastmod: '2023-03-23'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+url: '/help/why-cant-delete-first-column'
+aliases:
+    - '/help/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
+seo:
+    title: 'Why You Cannot Delete the First Column in SeaTable'
+    description: 'Learn why SeaTable’s first column acts as a unique record key and cannot be deleted—and how you can adapt the fields in your table.'
+
 ---
 
 You want to **delete** the first column of your table and wonder why you don **'t see** the necessary option in the column settings? No need to worry, this is intentional and has a specific reason, which we will explain to you in this article.

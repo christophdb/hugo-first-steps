@@ -5,7 +5,13 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/pt/ajuda/python-beispiel-die-metastruktur-einer-base-auslesen'
+url: '/pt/ajuda/exemplo-python-ler-metastrutura-base'
+aliases:
+    - '/pt/ajuda/python-beispiel-die-metastruktur-einer-base-auslesen'
+seo:
+    title: 'Exemplo Python: ler metastrutura da base SeaTable'
+    description: 'Saiba ler e organizar a metastrutura completa de uma base SeaTable com Python—script, saída estruturada e colunas de ligação.'
+
 ---
 
 Este artigo apresenta-lhe um script Python que produz a meta-estrutura completa de uma base. Isto é útil, por exemplo, se tiver uma pergunta sobre uma base no [fórum da comunidade](https://forum.seatable.com/) e quiser descrever a estrutura da sua base de forma rápida e fácil sem capturas de ecrã.

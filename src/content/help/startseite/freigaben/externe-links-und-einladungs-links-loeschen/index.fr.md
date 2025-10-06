@@ -5,7 +5,13 @@ lastmod: '2023-03-02'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/fr/aide/externe-links-und-einladungs-links-loeschen'
+url: '/fr/aide/supprimer-liens-externes-invitations'
+aliases:
+    - '/fr/aide/externe-links-und-einladungs-links-loeschen'
+seo:
+    title: 'Supprimer liens externes et invitations dans SeaTable'
+    description: 'Guide complet pour supprimer les liens externes et d’invitation dans SeaTable en toute sécurité, avec explications sur les accès.'
+
 ---
 
 Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d'invitation** de deux manières différentes. Attention aux conséquences de la suppression sur l'accès à vos données.
