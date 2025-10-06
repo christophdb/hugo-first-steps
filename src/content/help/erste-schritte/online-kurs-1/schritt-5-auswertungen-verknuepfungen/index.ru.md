@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-5-auswertungen-verknuepfungen'
+url: '/ru/pomoshch/shag-5-analiz-svyazey'
+aliases:
+    - '/ru/pomoshch/schritt-5-auswertungen-verknuepfungen'
+seo:
+    title: 'Шаг 5: анализ данных через связи в SeaTable'
+    description: 'Научитесь создавать статистические отчеты в SeaTable с помощью связей таблиц и формул rollup для автоматического суммирования.'
+
 ---
 
 Теперь мы связали записи данных из обеих таблиц. Важно, чтобы эта связь не была односторонней. Если вы свяжете таблицу `Categories` вы увидите, что там также появился новый столбец, показывающий связи. В нашем случае это означает, что задание связано с категорией, а категория может быть связана со многими заданиями.

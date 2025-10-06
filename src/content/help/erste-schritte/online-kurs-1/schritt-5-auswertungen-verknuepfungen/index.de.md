@@ -6,6 +6,10 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/schritt-5-auswertungen-verknuepfungen'
+seo:
+    title: 'Schritt 5: Auswertungen mit Verknüpfungen erstellen'
+    description: 'Lernen Sie, wie Sie mit SeaTable Verknüpfungen statistische Auswertungen erstellen und damit Ihre Daten effektiv analysieren und zusammenfassen.'
+
 ---
 
 Nun haben wir die Datensätze aus beiden Tabellen miteinander verknüpft. Wichtig ist, dass diese Verknüpfung nicht einseitig ist. Wenn Sie zur Tabelle `Categories` wechseln, sehen Sie, dass auch dort eine neue Spalte hinzugefügt wurde, die die Verknüpfungen anzeigt. In unserem Fall bedeutet das: Eine Ausgabe ist mit einer Kategorie verknüpft, und eine Kategorie kann mit vielen Ausgaben verknüpft sein.

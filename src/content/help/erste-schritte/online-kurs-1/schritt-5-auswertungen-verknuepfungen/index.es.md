@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/schritt-5-auswertungen-verknuepfungen'
+url: '/es/ayuda/paso-5-analisis-con-vinculos'
+aliases:
+    - '/es/ayuda/schritt-5-auswertungen-verknuepfungen'
+seo:
+    title: 'Paso 5: Análisis con vínculos en SeaTable'
+    description: 'Aprende a usar vínculos en SeaTable para crear análisis estadísticos rápidos y precisos que resuman y conecten tus datos automáticamente.'
+
 ---
 
 Ahora hemos vinculado los registros de datos de ambas tablas. Es importante que este enlace no sea unilateral. Si enlaza la tabla `Categories` verá que también se ha añadido una nueva columna que muestra los enlaces. En nuestro caso, esto significa que una incidencia está vinculada a una categoría, y que una categoría puede estar vinculada a muchas incidencias.

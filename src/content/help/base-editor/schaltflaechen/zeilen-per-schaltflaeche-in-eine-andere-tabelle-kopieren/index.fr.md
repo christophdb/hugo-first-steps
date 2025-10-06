@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'kgr'
-url: '/fr/aide/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+url: '/fr/aide/copier-lignes-autre-table-bouton'
+aliases:
+    - '/fr/aide/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+seo:
+    title: 'Copier des lignes vers une autre table par bouton'
+    description: 'Copiez des lignes dans une table différente par bouton : SeaTable permet de combiner filtres, conditions et automatisations en un clic.'
+
 ---
 
 Vous pouvez utiliser un **bouton** pour **copier des lignes dans d'autres tableaux**. C'est utile si vous avez besoin de certains enregistrements dans différents tableaux, mais que vous ne souhaitez pas utiliser de [lien]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Les instructions suivantes illustrent le cas d'utilisation à l'aide d'un exemple.

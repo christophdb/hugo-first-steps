@@ -5,7 +5,13 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/es/ayuda/anleitung-zum-tabellenbeziehungen-plugin'
+url: '/es/ayuda/guia-plugin-relaciones-tablas'
+aliases:
+    - '/es/ayuda/anleitung-zum-tabellenbeziehungen-plugin'
+seo:
+    title: 'Guía del plugin de relaciones entre tablas SeaTable'
+    description: 'Aprenda a usar el plugin relaciones entre tablas de SeaTable para visualizar y gestionar conexiones entre tablas en sus bases.'
+
 ---
 
 Especialmente cuando hay muchas tablas con docenas de columnas en una base, es fácil perder la pista de cómo se relacionan entre sí. Puedes utilizar el complemento de relaciones entre tablas para visualizar qué tablas están vinculadas entre sí a través de qué columnas.

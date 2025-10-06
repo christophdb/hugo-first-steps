@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/help/duplizieren-einer-tabelle'
+url: '/help/duplicate-table'
+aliases:
+    - '/help/duplizieren-einer-tabelle'
+seo:
+    title: 'Duplicate Tables: Copy Structure & Entries in SeaTable'
+    description: 'Easily duplicate SeaTable tables with views and settings – choose to copy entries or only the structure for budgeting, planning or templates.'
+
 ---
 
 Do you need a table in your base several times in a slightly modified form? Then you can duplicate it with just a few mouse clicks. It's that simple:

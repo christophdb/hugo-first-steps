@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'kgr'
-url: '/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+url: '/help/copy-rows-to-another-table-by-button'
+aliases:
+    - '/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+seo:
+    title: 'Copy Rows to Another Table by Button: SeaTable Guide'
+    description: 'Learn to copy records by button in SeaTable: move data between tables with click, filters, conditions, and automation for full flexibility.'
+
 ---
 
 You can use a **button** to **copyrows to other tables**. This is helpful if you need certain data records in different tables but do not want to use [a link]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). The following instructions illustrate the use case using an example.

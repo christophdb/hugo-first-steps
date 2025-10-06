@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/ru/pomoshch/verwaltung-eines-gemeinsamen-datensatzes'
+url: '/ru/pomoshch/upravlenie-obshchimi-zapisami'
+aliases:
+    - '/ru/pomoshch/verwaltung-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Управление общими записями в SeaTable: инструкция'
+    description: 'Узнайте, как управлять общими данными в SeaTable: обзор, права доступа, переименование, синхронизация и удаление в понятной инструкции.'
+
 ---
 
 После создания записи общих данных вы можете выполнять различные операции по управлению записью данных. Вы можете получить доступ к обзору записей общих данных на стартовой странице.

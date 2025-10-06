@@ -5,7 +5,13 @@ lastmod: '2024-02-20'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/pt/ajuda/duplizieren-einer-tabelle'
+url: '/pt/ajuda/duplicar-tabela'
+aliases:
+    - '/pt/ajuda/duplizieren-einer-tabelle'
+seo:
+    title: 'Duplicar tabelas: estrutura e dados no SeaTable'
+    description: 'Duplique tabelas no SeaTable: escolha copiar estrutura e registros ou só o formato, ideal para orçamento, planejamento e variações.'
+
 ---
 
 Precisa de uma tabela na sua Base várias vezes com uma forma ligeiramente diferente? Então pode duplicá-la com apenas alguns cliques no rato. É simples assim:

@@ -6,6 +6,10 @@ categories:
     - 'andere-spalten'
 author: 'kgr'
 url: '/de/hilfe/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+seo:
+    title: 'Zeilen per Schaltfläche in andere Tabelle kopieren'
+    description: 'Kopieren Sie Datensätze mit einer Schaltfläche in andere Tabellen: So einfach geht’s in SeaTable – mit Filtern, Bedingungen und Automationen.'
+
 ---
 
 Mithilfe einer **Schaltfläche** können Sie **Zeilen in andere Tabellen kopieren**. Dies ist hilfreich, wenn Sie bestimmte Datensätze in verschiedenen Tabellen benötigen, aber keine [Verknüpfung]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) nutzen möchten. Die folgende Anleitung illustriert den Anwendungsfall anhand eines Beispiels.

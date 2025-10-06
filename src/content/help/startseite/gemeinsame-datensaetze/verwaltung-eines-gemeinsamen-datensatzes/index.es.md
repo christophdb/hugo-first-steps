@@ -5,7 +5,13 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/es/ayuda/verwaltung-eines-gemeinsamen-datensatzes'
+url: '/es/ayuda/gestion-registros-compartidos'
+aliases:
+    - '/es/ayuda/verwaltung-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Gestión de registros compartidos: guía SeaTable'
+    description: 'Controle registros compartidos en SeaTable: vista general, permisos, cambio de nombre, sincronización forzada y eliminación fácil en esta guía.'
+
 ---
 
 Una vez que haya creado un registro de datos compartidos, podrá realizar diversas operaciones para gestionar su registro de datos. Puede acceder a la vista general de sus registros de datos compartidos a través de la página de inicio.

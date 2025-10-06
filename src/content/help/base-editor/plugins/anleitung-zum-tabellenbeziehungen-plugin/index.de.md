@@ -6,6 +6,10 @@ categories:
     - 'plugins'
 author: 'kgr'
 url: '/de/hilfe/anleitung-zum-tabellenbeziehungen-plugin'
+seo:
+    title: 'Anleitung Tabellenbeziehungen-Plugin in SeaTable'
+    description: 'Erfahren Sie, wie Sie mit dem Tabellenbeziehungen-Plugin Ihre Base-Tabellen und Verknüpfungen visualisieren und effizient verwalten.'
+
 ---
 
 Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind.
