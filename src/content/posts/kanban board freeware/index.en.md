@@ -13,6 +13,8 @@ tags:
     - 'Workflows'
     - 'Tools & Plugins'
 color: '#dbdf25'
+register:
+   show: true
 ---
 
 ## Kanban - an agile workflow management method

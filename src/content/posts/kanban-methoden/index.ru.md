@@ -12,6 +12,8 @@ tags:
     - 'Рабочие процессы'
 color: '#e16f4e'
 url: '/ru/metod-kanban-vvedenije'
+register:
+   show: true
 ---
 
 ## Что такое метод Канбан?

@@ -13,6 +13,8 @@ tags:
     - 'Workflows'
     - 'Ferramentas e plugins'
 color: '#dbdf25'
+register:
+   show: true
 ---
 
 ## Kanban - um método ágil de gestão do fluxo de trabalho

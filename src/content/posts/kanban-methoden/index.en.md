@@ -12,6 +12,8 @@ tags:
     - 'Workflows'
 color: '#e16f4e'
 url: '/kanban-method-introduction'
+register:
+   show: true
 ---
 
 ## What is the Kanban method?
