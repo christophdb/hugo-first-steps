@@ -2,7 +2,7 @@
 title: 'Kanban-Tools im Vergleich: Die besten Kanban Board Freeware Lösungen'
 description: 'Es gibt zahlreiche Kanban Board Freeware Tools auf dem Markt. Doch nicht jedes eignet sich für alle Anwednungsfälle und es gibt zum Teil deutliche Funktionsunterschiede. Um Ihnen die Auswahl zu erleichtern, vergleichen wir 15 beliebte Freeware Tools, mit denen Sie ein Kanban Board kostenlos nutzen können.'
 date: 2025-09-30
-url: '/de/kanban-board-freeware-vergleich'
+url: '/kanban-board-freeware'
 seo:
     title: 'Kanban Board Freeware – 15 Tools im Vergleich'
     description: 'Kanban Board Freeware Tools bieten verschiedene Funktionen und Limits. Dieser Tool-Vergleich hilft Ihnen bei der Auswahl.'
