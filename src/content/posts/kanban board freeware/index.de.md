@@ -1,7 +1,7 @@
 ---
 title: 'Kanban-Tools im Vergleich: Die besten Kanban Board Freeware Lösungen'
 description: 'Es gibt zahlreiche Kanban Board Freeware Tools auf dem Markt. Doch nicht jedes eignet sich für alle Anwendungsfälle und es gibt zum Teil deutliche Funktionsunterschiede. Um Ihnen die Auswahl zu erleichtern, vergleichen wir 15 beliebte Freeware Tools, mit denen Sie ein Kanban Board kostenlos nutzen können.'
-date: 2025-09-30
+date: 2025-10-06
 url: '/de/kanban-board-freeware-vergleich'
 seo:
     title: 'Kanban Board Freeware – 15 Tools im Vergleich'
@@ -13,14 +13,13 @@ tags:
     - 'Workflows'
     - 'Toolings & Plugins'
 color: '#dbdf25'
-draft: true
 ---
 
 ## Kanban – eine agile Workflow Management Methode
 
 Kanban ist eine sehr beliebte [agile Methode]({{< relref "posts/20250318-agiles-projektmanagement" >}}), um **Arbeitsprozesse zu visualisieren** und zu optimieren. Mit einem Kanban-Board können Sie die Arbeit Ihres Teams transparent abstimmen, Engpässe leicht identifizieren und Prioritäten setzen. Die **Einstiegshürde ist sehr niedrig** und Sie können diese Methode ohne besondere Vorbereitungen oder Umstrukturierungen in Ihre Prozesse integrieren. Um wirklich optimal davon zu profitieren, empfehlen wir Ihnen dennoch, sich auch mit den [Kanban-Grundsätzen]({{< relref "posts/kanban-methoden" >}}) vertraut zu machen.
 
-![Kanban Board Freeware unterstützt bei agilem Projektmanagement](kanban_methode.png)
+![Kanban Board Freeware unterstützt bei agilem Projektmanagement](kanban_methoden.png)
 
 ## Worauf sollten Sie bei der Auswahl des richtigen Kanban Tools achten?
 
