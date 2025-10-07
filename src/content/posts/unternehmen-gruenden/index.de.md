@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#a6c9bd'
+register:
+   show: true
 ---
 
 Sich selbständig zu machen bedeutet, den Wunsch nach Unabhängigkeit und Selbstverwirklichung in die Tat umzusetzen. Vielleicht träumen auch Sie davon, Ihre eigene Idee auf den Markt zu bringen und damit etwas zu bewegen. Auf diesem Weg begegnen Ihnen jedoch nicht nur Inspiration und Tatendrang, sondern auch Fragen nach der richtigen **Planung**, der **Finanzierung** und den notwendigen **Formalitäten**. Was Sie dabei beachten sollten, wenn Sie ein Unternehmen gründen, und welches Tool Sie dabei unterstützt, Ihre Gründung Schritt für Schritt erfolgreich voranzubringen, erfahren Sie in diesem Artikel.

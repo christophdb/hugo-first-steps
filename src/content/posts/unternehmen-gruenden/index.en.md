@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#a6c9bd'
+register:
+   show: true
 ---
 
 Becoming self-employed means putting your desire for independence and self-realization into practice. Perhaps you too dream of launching your own idea on the market and making a difference. Along the way, however, you will not only encounter inspiration and a thirst for action, but also questions about the right **planning**, **financing** and the necessary **formalities**. In this article, you will find out what you should consider when setting up a company and which tool will help you to successfully advance your start-up step by step.

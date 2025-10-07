@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#a6c9bd'
+register:
+   show: true
 ---
 
 Se mettre à son compte signifie concrétiser son désir d'indépendance et d'épanouissement personnel. Vous rêvez peut-être vous aussi de lancer votre propre idée sur le marché et de faire bouger les choses. Sur cette voie, vous ne rencontrez pas seulement l'inspiration et l'envie d'agir, mais aussi des questions sur la bonne **planification**, le **financement** et les **formalités** nécessaires. Dans cet article, vous apprendrez à quoi vous devez faire attention lorsque vous créez une entreprise et quel outil vous aidera à réussir votre création étape par étape.
