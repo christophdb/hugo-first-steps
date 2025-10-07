@@ -140,57 +140,57 @@ Die indische Software Zoho Projects kombiniert Aufgaben- und Zeitmanagement mit 
 
 ### Microsoft Planner
 
-Wenn Sie bereits die Microsoft Suite oder Microsoft Teams nutzen, dann bietet sich Microsoft Planner als Kanban Board Freeware an. Im Vergleich zu anderen Tools vermag Microsofts Lösung jedoch nicht zu überzeugen, da außer den Grundfunktionen wie Echtzeit-Kollaboration, Aufgabenzuweisung und Benachrichtigungen **erweiterte Funktionen fehlen**, z. B. WIP-Limits oder flexible Dashboards. Insgesamt ist Microsoft Planner als nur eingeschränkt anpassbar.
+Wenn Sie bereits die Microsoft Suite oder Microsoft Teams nutzen, dann bietet sich Microsoft Planner als Kanban Board Freeware an. Im Vergleich zu anderen Tools vermag Microsofts Lösung jedoch nicht zu überzeugen, da außer den Grundfunktionen wie Echtzeit-Kollaboration, Aufgabenzuweisung und Benachrichtigungen **erweiterte Funktionen fehlen**, z. B. WIP-Limits oder flexible Dashboards. Insgesamt ist Microsoft Planner nur eingeschränkt anpassbar.
 
-**Vorteile:** Nahtlose Microsoft-Integration, einfache Nutzung
+**Vorteile:** nahtlose Microsoft-Integration, einfache Nutzung
 
 **Nachteile:** nur eingeschränkt anpassbar, limitierte Kanban-Funktionen
 
-**Preis:** Für Microsoft 365-Nutzer kostenlos, andernfalls ab 8,60 € pro Nutzer/Monat
+**Preis:** für Microsoft 365-Nutzer kostenlos, andernfalls ab 8,60 € pro Nutzer/Monat
 
 ### Businessmap
 
-Businessmap (ehemals Kanbanize) ist eine bulgarische Software-Lösung, die sich besonders für die Darstellung komplexer Prozesse eignet. Neben Echtzeit-Kollaboration, Automatisierungen und WIP-Limits bietet Businessmap die Möglichkeit, erweiterte Prozesskarten neben Kanban Boards anzulegen. Ein Nachteil ist jedoch die **Komplexität des Tools,** die neuen Nutzern den Einstieg erschwert. Als Kanban Board Freeware eignet sich Businessmap nur für kleine Projekte, oder um Kanban einmal auszuprobieren, da es **lediglich eine vierzehntägige Testversion** gibt
+Businessmap (ehemals Kanbanize) ist eine bulgarische Software-Lösung, die sich besonders für die Darstellung komplexer Prozesse eignet. Neben Echtzeit-Kollaboration, Automatisierungen und WIP-Limits bietet Businessmap die Möglichkeit, erweiterte Prozesskarten neben Kanban Boards anzulegen. Ein Nachteil ist jedoch die **Komplexität des Tools**, die neuen Nutzern den Einstieg erschwert. Als Kanban Board Freeware eignet sich Businessmap nur für kleine Projekte, oder um Kanban einmal auszuprobieren, da es **lediglich eine vierzehntägige Testversion** gibt.
 
 **Vorteile:** Prozesskarten neben Kanban, integrierte Chat-Funktion, WIP-Limits, Automatisierungen
 
 **Nachteile:** sehr teuer, steile Lernkurve
 
-**Preis:** 14tägige Testversion, danach ab 161 € für mind. 15 Nutzer/Monat
+**Preis:** 14-tägige Testversion, danach ab 161 € für mind. 15 Nutzer/Monat
 
 ### Airtable
 
-Airtable vereint wie SeaTable Tabellenkalkulation mit Datenbankfunktionen. Nutzer können Ihre Daten in einer Kanban-Ansicht organisieren und per Drag-and-Drop Aufgaben verschieben. Die Grundfunktionalitäten unterscheiden sich nicht wesentlich von SeaTable. Jedoch **fehlt die Möglichkeit, Kanban mit Zeitleisten zu kombinieren,** da diese Ansicht in der Free-Version bei AirTable nicht enthalten ist. Als amerikanisches Unternehmen mit Serverstandort in den USA kann diese Lösung auch **datenschutzrechtlich nicht voll überzeugen.** AirTable biete **keine integrierten WIP-Limits,** Nutzer können jedoch über Automatisierungen Limits kontrollieren oder Skripte verwenden. Anders als bei SeaTable sind jedoch z. B. **Python-Skripte nicht integriert.**
+Airtable vereint wie SeaTable Tabellenkalkulation mit Datenbankfunktionen. Nutzer können Ihre Daten in einer Kanban-Ansicht organisieren und per Drag-and-Drop Aufgaben verschieben. Die Grundfunktionalitäten unterscheiden sich nicht wesentlich von SeaTable. Jedoch **fehlt die Möglichkeit, Kanban mit Zeitleisten zu kombinieren**, da diese Ansicht in der Free-Version bei AirTable nicht enthalten ist. Als amerikanisches Unternehmen mit Serverstandort in den USA kann diese Lösung auch **datenschutzrechtlich nicht voll überzeugen**. AirTable bietet **keine integrierten WIP-Limits**, Nutzer können jedoch über Automatisierungen Limits kontrollieren oder Skripte verwenden. Anders als bei SeaTable sind jedoch z. B. **Python-Skripte nicht integriert**.
 
 **Vorteile:** Verknüpfung von Datensätzen, Automatisierung, grundlegende Kanban-Funktionen
 
 **Nachteile:** kein WIP-Limit, eher teuer, Serverstandort in den USA, keine Zeitleisten-Ansicht im Free-Abo
 
-**Preis:** Kostenlos mit Grundfunktionen für 5 Nutzer; sonst ab ca. 17 € pro Nutzer/Monat.
+**Preis:** kostenlos mit Grundfunktionen für 5 Nutzer; sonst ab ca. 17 € pro Nutzer/Monat.
 
 ### KanbanFlow
 
-KanbanFlow ist ein simples Workflow-Tool für Kanban-Boards. Ein Alleinstellungsmerkmal ist die Kombination mit **Zeiterfassung nach der Pomodoro-Methode.** Das Tool richtet sich mit seinem starken Fokus auf Kanban primär an Einsteiger, die **nur grundlegende Funktionen** benötigen. Dadurch ist zwar der Einstieg sehr leicht, gleichzeitig stößt dieses Free Kanban Tool an Grenzen, sobald die Anforderungen steigen. Free User müssen auf Integrationen und zusätzliche Sicherheit durch eine Zwei-Faktor-Authentifizierung verzichten.
+KanbanFlow ist ein simples Workflow-Tool für Kanban-Boards. Ein Alleinstellungsmerkmal ist die Kombination mit **Zeiterfassung nach der Pomodoro-Methode**. Das Tool richtet sich mit seinem starken Fokus auf Kanban primär an Einsteiger, die **nur grundlegende Funktionen** benötigen. Dadurch ist zwar der Einstieg sehr leicht, gleichzeitig stößt dieses Free Kanban Tool an Grenzen, sobald die Anforderungen steigen. Free User müssen auf Integrationen und zusätzliche Sicherheit durch eine Zwei-Faktor-Authentifizierung verzichten.
 
-**Vorteile:** Gut für Einsteiger, **i**ntegrierter Pomodoro-Timer, Priorisierung, einfache Nutzung
+**Vorteile:** gut für Einsteiger, integrierter Pomodoro-Timer, Priorisierung, einfache Nutzung
 
 **Nachteile:** keine Integrationen im Free-Tarif, keine 2FA, eingeschränkte Reportings
 
-**Preis:** Kostenlos mit eingeschränkten Funktionen; Premium ab etwa 4,25 € pro Nutzer/Monat
+**Preis:** kostenlos mit eingeschränkten Funktionen; Premium ab etwa 4,25 € pro Nutzer/Monat
 
 ### Wrike
 
-Wrike bietet eine Kombination aus Kanban-Boards, Gantt-Diagrammen und umfassenden Reportings. Jedoch müssen Free-User auf Gantt-Diagramme, Zeitleisten, Dashboards und Echtzeit-Reportings verzichten. Das Tool bietet nur eine **eingeschränkte Chat-Funktion,** was insbesondere bei größeren Teams ein Problem darstellt. Zwar können im Free-Tarif unbegrenzt viele Nutzer arbeiten, die **insgesamt eingeschränkten Funktionen** werden dadurch jedoch nicht ausgeglichen. Wer eine einfache Free Kanban Software sucht, findet bei anderen Anbietern ein besseres Gesamtpaket.
+Wrike bietet eine Kombination aus Kanban-Boards, Gantt-Diagrammen und umfassenden Reportings. Jedoch müssen Free-User auf Gantt-Diagramme, Zeitleisten, Dashboards und Echtzeit-Reportings verzichten. Das Tool bietet nur eine **eingeschränkte Chat-Funktion**, was insbesondere bei größeren Teams ein Problem darstellt. Zwar können im Free-Tarif unbegrenzt viele Nutzer arbeiten, die **insgesamt eingeschränkten Funktionen** werden dadurch jedoch nicht ausgeglichen. Wer eine einfache Free Kanban Software sucht, findet bei anderen Anbietern ein besseres Gesamtpaket.
 
 **Vorteile:** einfache Kanban-Boards, WIP-Limits, Integration in zahlreiche Drittanbieter-Tools
 
 **Nachteile:** steile Lernkurve, keine erweiterten Kanban-Funktionen oder Metriken, eingeschränkte Chat-Funktion
 
-**Preis:** Kostenlos mit Basisfunktionen; sonst ab etwa 8,50 € pro Nutzer/Monat
+**Preis:** kostenlos mit Basisfunktionen; sonst ab etwa 8,50 € pro Nutzer/Monat
 
 ## Welche Kanban Board Freeware eignet sich am besten?
 
-Wenn Sie nach der passenden Kanban-Lösung für Ihr Unternehmen suchen, haben Sie die Qual der Wahl. Zahlreiche Anbieter bieten kostenlose Tools, die sich jedoch in den Funktionen, der Bedienbarkeit oder der Skalierbarkeit voneinander unterscheiden. Insbesondere den letzten Punkt sollten Sie bei der Entscheidung für eine Kanban Tool Freeware berücksichtigen. Bei Limitierungen auf wenige Benutzer oder wenige Boards kommen Teams schnell an einen Punkt, wo doch auf einen Paid Plan umgestiegen werden muss. Wenn Sie die **benutzerfreundlichste, flexibelste und skalierbarste Lösung** suchen, um ein Kanban Board kostenlos zu erstellen, dann ist **SeaTable der klare Favorit.**  
+Wenn Sie nach der passenden Kanban-Lösung für Ihr Unternehmen suchen, haben Sie die Qual der Wahl. Zahlreiche Anbieter bieten kostenlose Tools, die sich jedoch in den Funktionen, der Bedienbarkeit oder der Skalierbarkeit voneinander unterscheiden. Insbesondere den letzten Punkt sollten Sie bei der Entscheidung für eine Kanban Tool Freeware berücksichtigen. Bei Limitierungen auf wenige Benutzer oder wenige Boards kommen Teams schnell an einen Punkt, wo sie doch auf einen Paid Plan umsteigen müssen. Wenn Sie die **benutzerfreundlichste, flexibelste und skalierbarste Lösung** suchen, um ein Kanban Board kostenlos zu erstellen, dann ist **SeaTable der klare Favorit**.
 
 ## FAQ – Kanban Board Freeware
 
@@ -199,9 +199,9 @@ Um Ihr digitales Kanban-Board effizient zu nutzen, sollte Ihre Free Kanban Softw
 {{< /faq >}}
 
 {{< faq "Mit welchen Einschränkungen muss ich bei der Nutzung einer Kanban Tool Freeware rechnen?" >}}
-Um ein einfaches Kanban Board zu erstellen eignen sich alle Kanban Board Tools. Viele Kanban Tool Freeware Anbieter begrenzen jedoch die Funktionen, die Anzahl verfügbarer Boards oder die Anzahl der Nutzer. Es lohnt sich daher, nicht nur die Kanban Board Free Tarife zu vergleichen, sondern auch die kostenpflichtigen Tarife. So können Sie Ihre Nutzung skalieren ohne Ihr digitales Kanban-Board wechseln zu müssen, sobald die Anforderungen steigen.
+Um ein einfaches Kanban Board zu erstellen, eignen sich alle Kanban Board Tools. Viele Kanban Tool Freeware Anbieter begrenzen jedoch die Funktionen, die Anzahl verfügbarer Boards oder die Anzahl der Nutzer. Es lohnt sich daher, nicht nur die Kanban Board Free Tarife zu vergleichen, sondern auch die kostenpflichtigen Tarife. So können Sie Ihre Nutzung skalieren, ohne Ihr digitales Kanban-Board wechseln zu müssen, sobald die Anforderungen steigen.
 {{< /faq >}}
 
 {{< faq "Sind meine Daten bei der Nutzung einer Free Kanban Software sicher?" >}}
-Bei kostenlosen Kanban Tools ist es wichtig, auch auf die Datensicherheit zu achten. Hier gibt es Unterschiede zwischen den Anbietern. Achten Sie auf Kriterien wie SSL-Verschlüsselung, den Server-Standort und allgemein DSGVO-Konformität. Wenn Datensicherheit bei Ihnen besonders wichtig ist, sollten Sie über ein on-premises Kanban Tool wie z. B. SeaTable Server nachdenken.
+Bei kostenlosen Kanban Tools ist es wichtig, auch auf die Datensicherheit zu achten. Hier gibt es Unterschiede zwischen den Anbietern. Achten Sie auf Kriterien wie SSL-Verschlüsselung, den Server-Standort und allgemeine DSGVO-Konformität. Wenn Datensicherheit bei Ihnen besonders wichtig ist, sollten Sie über ein On-Premises Kanban Tool wie z. B. SeaTable Server nachdenken.
 {{< /faq >}}
