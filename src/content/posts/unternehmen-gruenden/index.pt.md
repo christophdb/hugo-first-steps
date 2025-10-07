@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#a6c9bd'
+register:
+   show: true
 ---
 
 Trabalhar por conta própria significa pôr em prática o seu desejo de independência e de auto-realização. Talvez também sonhe em lançar a sua própria ideia no mercado e fazer a diferença. No entanto, ao longo do caminho, não encontrará apenas inspiração e sede de ação, mas também questões sobre o **planeamento**, o **financiamento** e as **formalidades** necessárias. Neste artigo, descobrirá o que deve ter em conta ao criar uma empresa e qual a ferramenta que o ajudará a avançar com sucesso, passo a passo, na sua criação.
