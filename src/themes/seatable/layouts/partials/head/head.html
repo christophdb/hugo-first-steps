@@ -62,6 +62,13 @@
     {{ if hugo.IsProduction }}
         {{ template "_internal/opengraph.html" . }}
         {{ template "_internal/twitter_cards.html" . }}
+
+        {{ if or (eq .Type "help") (eq .Type "help-start") }}
+            <meta property="og:image" content="{{ absURL `images/logos/seatable-og-help.png` }}" />
+        {{ else if and (or (eq .Type "page") (eq .Type "pages")) (ne .Section "templates") }}
+            {{/* Image for pages (excluding templates since they have a featured image) */}}
+            <meta property="og:image" content="{{ absURL `images/logos/seatable-og-pages.png` }}" />
+        {{ end }}
     {{ else }}
         {{ "<!-- OpenGraph and Twitter cards are not generated in development mode -->" | safeHTML }}
     {{ end }}
