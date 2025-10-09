@@ -5,7 +5,14 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/es/ayuda/einfuehrung-in-die-nutzung-der-seatable-api'
+url: '/es/ayuda/introduccion-uso-api-seatable'
+aliases:
+    - '/es/ayuda/einfuehrung-in-die-nutzung-der-seatable-api'
+seo:
+    title: 'Introducción al uso de la API de SeaTable: guía'
+    description: 'Descubre cómo usar la API de SeaTable: gestionar tablas, datos, autenticación y recomendaciones de seguridad, incluidas las limitaciones.'
+
+
 ---
 
 La API de SeaTable es una interfaz estandarizada con la que se puede realizar prácticamente cualquier acción que también se podría realizar como usuario a través de la interfaz web. Con la API SeaTable se pueden crear nuevas estructuras como bases, tablas o filas, así como leer los valores existentes.

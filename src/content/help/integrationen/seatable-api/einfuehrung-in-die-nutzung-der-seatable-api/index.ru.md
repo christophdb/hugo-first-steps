@@ -5,7 +5,14 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/ru/pomoshch/einfuehrung-in-die-nutzung-der-seatable-api'
+url: '/ru/pomoshch/vvedenie-api-seatable'
+aliases:
+    - '/ru/pomoshch/einfuehrung-in-die-nutzung-der-seatable-api'
+seo:
+    title: 'Введение в использование API SeaTable: доступ и токены'
+    description: 'Научитесь работать с API SeaTable: создавать базы, управлять данными, безопасно использовать токены и соблюдать лимиты запросов.'
+
+
 ---
 
 SeaTable API - это стандартизированный интерфейс, с помощью которого можно выполнить практически любое действие, которое можно выполнить и как пользователь через веб-интерфейс. С помощью SeaTable API можно создавать новые структуры, такие как базы, таблицы или строки, а также считывать существующие значения.

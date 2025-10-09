@@ -5,7 +5,14 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/fr/aide/einfuehrung-in-die-nutzung-der-seatable-api'
+url: '/fr/aide/introduction-api-seatable'
+aliases:
+    - '/fr/aide/einfuehrung-in-die-nutzung-der-seatable-api'
+seo:
+    title: 'Introduction à l’API SeaTable : accès & sécurité '
+    description: 'Initiez-vous à l’API SeaTable : création de bases, gestion, authentification sécurisée, jetons et limites d’utilisation expliqués pas-à-pas.'
+
+
 ---
 
 L'API SeaTable est une interface standardisée qui permet d'effectuer pratiquement toutes les actions que l'utilisateur pourrait réaliser via l'interface web. L'API SeaTable permet de créer de nouvelles structures telles que des bases, des tableaux ou des lignes, mais aussi d'extraire des valeurs existantes.

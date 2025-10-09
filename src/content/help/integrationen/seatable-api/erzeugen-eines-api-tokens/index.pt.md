@@ -5,7 +5,14 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/pt/ajuda/erzeugen-eines-api-tokens'
+url: '/pt/ajuda/criar-api-token-seatable'
+aliases:
+    - '/pt/ajuda/erzeugen-eines-api-tokens'
+seo:
+    title: 'Como criar API Token no SeaTable: segurança e uso'
+    description: 'Crie tokens API no SeaTable com validade ilimitada por base; token base expira, gere para cada app ou integração e proteja seu acesso.'
+
+
 ---
 
 Para interagir com uma base através do SeaTable API, deve ser criado primeiro um denominado token API. Um token API permite ou o acesso de leitura ou de escrita a exactamente uma base.

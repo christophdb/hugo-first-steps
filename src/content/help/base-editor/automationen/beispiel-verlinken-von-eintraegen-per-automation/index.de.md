@@ -6,6 +6,11 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/verlinken-von-eintraegen-per-automation'
+seo:
+    title: 'Einträge automatisch verlinken: SeaTable Automation'
+    description: 'Verlinken Sie Datensätze gezielt per Automation: Setzen Sie Trigger, wählen Sie Spalten, und lassen Sie Einträge in SeaTable vollautomatisch zusammenführen.'
+
+
 ---
 
 Mithilfe von Automationen müssen Sie Einträge in Ihren Tabellen nicht mehr manuell miteinander verknüpfen, sondern können diese Schritte automatisch ausführen lassen. Definieren Sie hierfür einfach eine entsprechende Automation für eine beliebige Tabellenansicht.

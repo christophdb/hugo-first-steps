@@ -5,7 +5,14 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/fr/aide/erzeugen-eines-api-tokens'
+url: '/fr/aide/creer-token-api-seatable'
+aliases:
+    - '/fr/aide/erzeugen-eines-api-tokens'
+seo:
+    title: 'Créer un token API SeaTable : sécurité et étapes'
+    description: 'Créez des tokens API dans SeaTable pour bases et interfaces : durée illimitée, gestion sécurisée, token base temporaire, instructions simples.'
+
+
 ---
 
 Pour interagir avec une base via l'API SeaTable, il faut d'abord créer un jeton API. Un jeton API permet un accès en lecture ou en écriture à une seule base.

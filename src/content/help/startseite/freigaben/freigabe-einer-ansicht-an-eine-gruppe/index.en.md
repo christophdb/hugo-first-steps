@@ -5,7 +5,14 @@ lastmod: '2023-02-14'
 categories:
     - 'freigaben'
 author: 'kgr'
-url: '/help/freigabe-einer-ansicht-an-eine-gruppe'
+url: '/help/share-view-with-group'
+aliases:
+    - '/help/freigabe-einer-ansicht-an-eine-gruppe'
+seo:
+    title: 'Share a SeaTable View with Groups: Step-by-Step Guide'
+    description: 'Share SeaTable table views with whole groups—grant read or edit permissions easily, name the share, and enable collaboration in seconds.'
+
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

@@ -5,7 +5,14 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/es/ayuda/erzeugen-eines-api-tokens'
+url: '/es/ayuda/generar-token-api'
+aliases:
+    - '/es/ayuda/erzeugen-eines-api-tokens'
+seo:
+    title: 'Cómo generar tokens API en SeaTable: guía práctica'
+    description: 'Genere tokens API en SeaTable para bases y aplicaciones; vigencia ilimitada, opciones seguras, base tokens por tiempo limitado.'
+
+
 ---
 
 Para interactuar con una base a través de la API de SeaTable, primero debe crearse un token de API. Un token de API permite el acceso de lectura o escritura a exactamente una base.

@@ -5,7 +5,14 @@ lastmod: '2023-02-14'
 categories:
     - 'freigaben'
 author: 'kgr'
-url: '/ru/pomoshch/freigabe-einer-ansicht-an-eine-gruppe'
+url: '/ru/pomoshch/podelitsya-vidom-s-gruppoy'
+aliases:
+    - '/ru/pomoshch/freigabe-einer-ansicht-an-eine-gruppe'
+seo:
+    title: 'Как поделиться видом SeaTable с группой: инструкция'
+    description: 'Делитесь видами таблиц SeaTable с группами — настройте права доступа, название и быстро включайте командную работу.'
+
+
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

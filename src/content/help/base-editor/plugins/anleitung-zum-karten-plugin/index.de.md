@@ -6,6 +6,11 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/anleitung-zum-karten-plugin'
+seo:
+    title: 'Karten‑Plugin in SeaTable: Anleitung & Funktionen'
+    description: 'Standorte einfach visualisieren: So richtest du das SeaTable Karten‑Plugin ein, nutzt Geoposition, Einstellungen, Markerfarben und Bildanzeige optimal.'
+
+
 ---
 
 Wenn Sie in Ihrer Tabelle eine Textspalte mit Adressen bzw. Ortsnamen erstellt oder den Spaltentyp [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) verwendet haben, können Sie mit dem **Karten-Plugin** die in der Spalte eingetragenen Standorte darstellen.

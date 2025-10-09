@@ -6,6 +6,11 @@ categories:
     - 'freigaben'
 author: 'kgr'
 url: '/de/hilfe/freigabe-einer-ansicht-an-eine-gruppe'
+seo:
+    title: 'Ansicht in SeaTable für Gruppe freigeben: Anleitung'
+    description: 'So teilen Sie Ansichten mit Gruppenmitgliedern in SeaTable – wählen Sie Lese- oder Bearbeitungsrechte, benennen und bestätigen Sie die Freigabe.'
+
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

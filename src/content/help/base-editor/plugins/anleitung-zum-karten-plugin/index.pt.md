@@ -5,7 +5,14 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/pt/ajuda/anleitung-zum-karten-plugin'
+url: '/pt/ajuda/plugin-mapas-seatable'
+aliases:
+    - '/pt/ajuda/anleitung-zum-karten-plugin'
+seo:
+    title: 'Guia do plugin de mapas SeaTable: recursos e configurações'
+    description: 'Visualize seus dados no mapa: como instalar e configurar o plugin no SeaTable, definir marcadores, imagens, cores e várias tabelas.'
+
+
 ---
 
 Se criou uma coluna de texto com endereços ou nomes de locais na sua tabela ou utilizou o tipo de coluna [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), pode utilizar o **Plugin do Mapa** para exibir os locais introduzidos na coluna.

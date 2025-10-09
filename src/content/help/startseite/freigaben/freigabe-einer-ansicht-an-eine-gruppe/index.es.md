@@ -5,7 +5,14 @@ lastmod: '2023-02-14'
 categories:
     - 'freigaben'
 author: 'kgr'
-url: '/es/ayuda/freigabe-einer-ansicht-an-eine-gruppe'
+url: '/es/ayuda/compartir-vista-grupo'
+aliases:
+    - '/es/ayuda/freigabe-einer-ansicht-an-eine-gruppe'
+seo:
+    title: 'Compartir una vista de SeaTable con grupo: guía completa'
+    description: 'Compartir vistas con grupos en SeaTable: así asignas permisos de lectura o edición, nombras la compartición y colaboras mejor.'
+
+
 ---
 
 {{< required-version "Más" "Empresa" >}}
