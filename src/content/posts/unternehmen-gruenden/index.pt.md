@@ -107,7 +107,7 @@ Um marketing bem sucedido é crucial para divulgar a sua empresa e atrair client
 
 - **Marketing em linha (SEO, SEA, redes sociais)**: Utilize os canais digitais para aumentar o seu alcance. Optimize o seu sítio Web para os motores de busca, coloque anúncios direcionados e interaja ativamente com o seu grupo-alvo nas redes sociais.
 - **Marketing de conteúdos e boletins informativos**: Forneça conteúdos valiosos que informem ou divirtam. Isto irá criar confiança e reforçar a fidelidade a longo prazo dos seus clientes.
-- **Relações públicas e relações com os media (comunicados de imprensa, entrevistas)**: Os meios de comunicação tradicionais aumentam o seu perfil e posicionam-no como um especialista no seu sector. Os comunicados de imprensa e as entrevistas aumentam a visibilidade da sua empresa.
+- **RP e relações com os media (comunicados de imprensa, entrevistas)**: As publicações e entrevistas nos meios de comunicação tradicionais (por exemplo, revistas de empresas em fase de arranque, jornais regionais e estações de rádio) aumentam o seu perfil e posicionam-no como um especialista no seu sector.
 - **Marketing de guerrilha / eventos / visitas a feiras comerciais**: As campanhas criativas e os encontros pessoais são memoráveis. Quer se trate de campanhas invulgares, eventos ou visitas a feiras comerciais - estas medidas criam experiências diretas com os clientes.
 
 {{< warning headline="Dica" >}}
@@ -130,7 +130,7 @@ Quando começa o seu negócio, precisa de uma ferramenta que lhe dê estrutura e
 
 O SeaTable cobre todos os passos essenciais:
 
-- **Desenvolvimento de ideias e modelo de negócio**: Visualize o seu modelo de negócio, verifique os mercados e mantenha-se a par das suas ideias
+  - **Desenvolvimento de ideias e modelo de negócio**: Visualize o seu modelo de negócio, verifique os mercados e capte a sua proposta de venda única.
 - **Plano de negócios e planeamento financeiro**: Planeie digitalmente os custos, as vendas e as oportunidades de financiamento e mantenha sempre à mão as versões, os anexos e as tarefas.
 - **Organização e formalidades**: Faça a gestão centralizada de compromissos, prazos e aplicações e nunca perca prazos importantes graças à função de calendário e cronologia.
 - **Marketing e crescimento**: Registe indicadores-chave de desempenho (KPI) para alcance, aquisição de clientes ou custos e analise-os claramente com painéis de controlo.

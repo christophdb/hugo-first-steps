@@ -107,7 +107,7 @@ Successful marketing is crucial to making your company known and gaining custome
 
 - **Online marketing (SEO, SEA, social media)**: Use digital channels to increase your reach. Optimize your website for search engines, place targeted ads and actively engage with your target group on social media.
 - **Content Marketing & Newsletter**: Provide valuable content that informs or entertains. This builds trust and strengthens the long-term loyalty of your customers.
-- **PR & media relations (press releases, interviews)**: Traditional media increase your profile and position you as an expert in your industry. Press releases and interviews increase the visibility of your company.
+- **PR & media relations (press releases, interviews)**: Publications and interviews in traditional media (e.g. startup magazines, trade journals, regional newspapers and radio stations) will raise your profile and position you as an expert in your industry.
 - **Guerrilla marketing / events / trade fair visits**: Creative campaigns and personal encounters are memorable. Whether unusual campaigns, events or trade fair appearances - such measures create direct customer experiences.
 
 {{< warning headline="Tipp" >}}
@@ -130,7 +130,7 @@ When you start your business, you need a tool that gives you structure and suppo
 
 SeaTable covers all the essential steps:
 
-- **Idea development & business model**: Visualize your business model canvas, check markets and keep your sole
+- **Idea development & business model**: Visualize your business model canvas, review markets and capture your unique selling proposition.
 - **Business plan & financial planning**: Plan costs, sales and funding opportunities digitally and keep versions, attachments and tasks to hand at all times.
 - **Organization & Formalities**: Manage appointments, deadlines and applications centrally and never miss any important deadlines thanks to the calendar and timeline function.
 - **Marketing & Growth**: Record key performance indicators (KPIs) for reach, customer acquisition or costs and evaluate them clearly with dashboards.
