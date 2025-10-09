@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/pt/ajuda/benachrichtigungsregeln-bearbeiten-und-entfernen'
+url: '/pt/ajuda/editar-excluir-regras-notificacao'
+aliases:
+    - '/pt/ajuda/benachrichtigungsregeln-bearbeiten-und-entfernen'
+seo:
+    title: 'Editar e excluir regras de notificação no SeaTable'
+    description: 'Altere ou remova regras de notificação no SeaTable rapidamente para usuários em alemão, inglês, espanhol, francês, português ou russo.'
+
 ---
 
 Pode **editar** e **eliminar** regras de notificação que já tenham sido criadas em qualquer altura. Note os efeitos que isto tem sobre o envio de notificações.

@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/pomoshch/benachrichtigungsregeln-bearbeiten-und-entfernen'
+url: '/ru/pomoshch/redaktirovat-udalit-pravila-uvedomleniy'
+aliases:
+    - '/ru/pomoshch/benachrichtigungsregeln-bearbeiten-und-entfernen'
+seo:
+    title: 'Редактировать и удалять правила уведомлений SeaTable'
+    description: 'Легко изменяйте или удаляйте правила уведомлений SeaTable для немецкого, английского, испанского, французского, португальского и русского языка.'
+
 ---
 
 Вы можете **редактировать** и **удалять** уже созданные правила уведомления в любое время. Обратите внимание, как это влияет на отправку уведомлений.

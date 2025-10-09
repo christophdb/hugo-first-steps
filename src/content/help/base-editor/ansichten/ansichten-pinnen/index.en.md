@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/help/ansichten-pinnen'
+url: '/help/pin-views'
+aliases:
+    - '/help/ansichten-pinnen'
+seo:
+    title: 'Pin Views in SeaTable: Fast Access to Your Data'
+    description: 'Learn to pin views for fast navigation, quick switching and easy comparison—in German, English, Spanish, French, Portuguese, and Russian interfaces.'
+
 ---
 
 In each table, you have the option of permanently displaying all available [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) in a navigation bar on the left-hand side. This is particularly useful if you often switch between views and **quick access** makes this more efficient.

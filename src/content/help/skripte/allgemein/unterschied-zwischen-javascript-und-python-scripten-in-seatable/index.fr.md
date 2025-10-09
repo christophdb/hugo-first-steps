@@ -5,7 +5,14 @@ lastmod: '2024-10-27'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/fr/aide/unterschied-zwischen-javascript-und-python-scripten-in-seatable'
+url: '/fr/aide/differences-scripts-javascript-python-seatable'
+aliases:
+    - '/fr/aide/unterschied-zwischen-javascript-und-python-scripten-in-seatable'
+seo:
+    title: 'Différences entre scripts JavaScript et Python SeaTable'
+    description: 'JavaScript s’exécute dans le navigateur pour les calculs simples, Python côté serveur pour automatisations, analyse et API externes.'
+
+
 ---
 
 SeaTable permet d'exécuter **des scripts JavaScript et Python** dans une base. JavaScript est adapté aux manipulations simples de données déclenchées par un utilisateur. Les scripts Python sont exécutés par le serveur et peuvent donc être déclenchés sans interaction de l'utilisateur. Grâce aux nombreux modules Python utilisables, ils se prêtent également à des opérations de traitement de données plus importantes.

@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/es/ayuda/ansichten-pinnen'
+url: '/es/ayuda/fijar-vistas'
+aliases:
+    - '/es/ayuda/ansichten-pinnen'
+seo:
+    title: 'Fijar vistas en SeaTable: acceso rápido y sencillo'
+    description: 'Descubre cómo fijar vistas para una navegación ágil, comparar datos y cambiar entre alemán, inglés, español, francés, portugués, ruso fácilmente.'
+
 ---
 
 En cada tabla tiene la opción de mostrar permanentemente todas las [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) disponibles en una barra de navegación en el margen izquierdo. Esto tiene sentido sobre todo si cambias a menudo de vista y un **acceso** hace que esto sea más eficiente.

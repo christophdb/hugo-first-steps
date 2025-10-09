@@ -5,7 +5,13 @@ lastmod: '2023-03-31'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/pomoshch/benachrichtigungen-per-automation-versenden'
+url: '/ru/pomoshch/otpravka-uvedomleniy-avtomatizatsiya'
+aliases:
+    - '/ru/pomoshch/benachrichtigungen-per-automation-versenden'
+seo:
+    title: 'Отправка уведомлений через автоматизацию в SeaTable'
+    description: 'SeaTable автоматизация уведомлений: настрой правила для отправки оповещений пользователям на немецком, английском, испанском, французском, португальском, русском и китайском.'
+
 ---
 
 {{< required-version "Предприятие" >}}

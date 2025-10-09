@@ -6,6 +6,10 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
 url: '/de/hilfe/ansichten-pinnen'
+seo:
+    title: 'Ansichten in SeaTable pinnen: Schnellzugriff aktivieren'
+    description: 'So pinnst du Ansichten an: Schneller wechseln, Navigation dauerhaft einblenden, Vergleich und Effizienz in Deutsch, Englisch, Spanisch, Französisch, Portugiesisch, Russisch.'
+
 ---
 
 In jeder Tabelle haben Sie die Möglichkeit, alle verfügbaren [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
