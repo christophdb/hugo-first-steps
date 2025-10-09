@@ -107,7 +107,7 @@ El éxito del marketing es crucial para dar a conocer su empresa y atraer client
 
 - **Marketing online (SEO, SEA, redes sociales)**: Utilice los canales digitales para aumentar su alcance. Optimice su sitio web para los motores de búsqueda, publique anuncios orientados e interactúe activamente con su grupo objetivo en las redes sociales.
 - **Marketing de contenidos y boletines informativos**: Ofrezca contenidos valiosos que informen o entretengan. Esto generará confianza y reforzará la fidelidad a largo plazo de sus clientes.
-- **Relaciones públicas y con los medios (comunicados de prensa, entrevistas)**: Los medios de comunicación tradicionales aumentan su perfil y le posicionan como experto en su sector. Los comunicados de prensa y las entrevistas aumentan la visibilidad de su empresa.
+- **Relaciones públicas y con los medios (comunicados de prensa, entrevistas)**: Las publicaciones y entrevistas en medios de comunicación tradicionales (por ejemplo, revistas especializadas, periódicos regionales y emisoras de radio) aumentan su notoriedad y le posicionan como experto en su sector.
 - **Marketing de guerrilla / eventos / visitas a ferias**: Las campañas creativas y los encuentros personales son memorables. Ya sean campañas inusuales, eventos o apariciones en ferias, estas medidas crean experiencias directas con los clientes.
 
 {{< warning headline="Consejo" >}}
@@ -130,7 +130,7 @@ Cuando pone en marcha su empresa, necesita una herramienta que le proporcione es
 
 SeaTable cubre todos los pasos esenciales:
 
-- **Desarrollo de ideas y modelo de negocio**: Visualiza tu lienzo de modelo de negocio, comprueba los mercados y mantén tu suela
+- **Desarrollo de ideas y modelo de negocio**: Visualiza tu modelo de negocio, comprueba los mercados y capta tu propuesta única de venta.
 - **Plan de negocio y planificación financiera**: Planifique los costes, las ventas y las oportunidades de financiación de forma digital y tenga siempre a mano las versiones, los archivos adjuntos y las tareas.
 - **Organización y trámites**: Gestione citas, plazos y solicitudes de forma centralizada y no pierda nunca ningún plazo importante gracias a la función de calendario y cronograma.
 - **Marketing y crecimiento**: Registre indicadores clave de rendimiento (KPI) para el alcance, la captación de clientes o los costes y analícelos claramente con paneles de control.

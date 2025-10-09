@@ -107,7 +107,7 @@ Un marketing réussi est essentiel pour faire connaître votre entreprise et att
 
 - **Marketing en ligne (SEO, SEA, médias sociaux)** : Utilisez les canaux numériques pour augmenter votre portée. Optimisez votre site web pour les moteurs de recherche, placez des annonces ciblées et entrez activement en contact avec votre groupe cible dans les médias sociaux.
 - **Content marketing & newsletter** : Proposez des contenus de valeur qui informent ou divertissent. Vous établissez ainsi la confiance et renforcez la relation à long terme avec vos clients.
-- **RP & relations avec les médias (communiqués de presse, interviews)** : Les médias classiques augmentent votre notoriété et vous positionnent comme expert dans votre secteur. Les communiqués de presse et les interviews augmentent la visibilité de votre entreprise.
+- **PR & relations avec les médias (communiqués de presse, interviews)** : Les publications et les interviews dans les médias classiques (par exemple les magazines de démarrage, les revues spécialisées, les journaux régionaux et les stations de radio) augmentent votre notoriété et vous positionnent comme expert dans votre secteur.
 - **Guerilla marketing / événements / visites de salons** : Les actions créatives et les rencontres personnelles restent dans les mémoires. Qu'il s'agisse de campagnes inhabituelles, d'événements ou de présence sur des salons, de telles mesures créent des expériences directes pour les clients.
 
 {{< warning headline="Conseil" >}}
@@ -130,7 +130,7 @@ Lorsque vous créez votre entreprise, vous avez besoin d'un outil qui vous donne
 
 SeaTable couvre toutes les étapes essentielles :
 
-- **développement d'idées & modèle d'entreprise** : Visualisez votre business model canvas, examinez les marchés et maintenez votre seul.
+- **Développement d'idées & modèle d'entreprise** : Visualisez votre Business Model Canvas, examinez les marchés et consignez votre argumentaire de vente unique.
 - **Business plan & planification financière** : Planifiez numériquement les coûts, le chiffre d'affaires et les possibilités de financement et gardez les versions, les annexes et les tâches à portée de main à tout moment.
 - **Organisation & formalités** : Gérez les rendez-vous, les délais et les demandes de manière centralisée et ne manquez aucune échéance importante grâce à la fonction de calendrier et de ligne du temps.
 - **Marketing & croissance** : Saisissez des chiffres clés (KPI) sur la portée, l'acquisition de clients ou les coûts et évaluez-les clairement à l'aide de tableaux de bord.
