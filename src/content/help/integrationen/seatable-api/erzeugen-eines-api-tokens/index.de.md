@@ -6,6 +6,10 @@ categories:
     - 'seatable-api'
 author: 'cdb'
 url: '/de/hilfe/erzeugen-eines-api-tokens'
+seo:
+    title: 'API‑Token in SeaTable erzeugen: Anleitung & Sicherheit'
+    description: 'Erstellen Sie unbegrenzt gültige API‑Tokens in SeaTable für jede Anwendung, Base oder Schnittstelle. Base‑Token mit Zeitlimit, Zugriff sicher verwalten.'
+
 ---
 
 Für die Interaktion über die SeaTable-API mit einer Base muss zuerst ein sogenannter API-Token erzeugt werden. Ein API-Token erlaubt entweder lesenden oder schreibenden Zugriff auf genau eine Base.

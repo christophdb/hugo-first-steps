@@ -5,7 +5,14 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/help/einfuehrung-in-die-nutzung-der-seatable-api'
+url: '/help/getting-started-seatable-api'
+aliases:
+    - '/help/einfuehrung-in-die-nutzung-der-seatable-api'
+seo:
+    title: 'Getting Started with the SeaTable API: Secure Access'
+    description: 'Learn how to interact with SeaTable’s API: create, read, update, and secure your data—plus authentication, token handling, and rate limits.'
+
+
 ---
 
 The SeaTable API is a standardized interface that could be used to perform virtually any action that a user could also perform via the web interface. With the SeaTable API it is possible to create new structures like bases, tables or rows as well as to read existing values.

@@ -5,7 +5,14 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/fr/aide/anleitung-zum-karten-plugin'
+url: '/fr/aide/plugin-carte-seatable'
+aliases:
+    - '/fr/aide/anleitung-zum-karten-plugin'
+seo:
+    title: 'Guide du plugin Carte SeaTable : installation & options'
+    description: 'Affichez des adresses sur la carte : installation du plugin, mise en place des marqueurs, couleurs, images, supports multi‑tables et zoom.'
+
+
 ---
 
 Si vous avez créé une colonne de texte dans votre tableau avec des adresses ou des noms de lieux ou si vous avez utilisé le type de colonne [Géoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), vous pouvez utiliser le **plugin de carte** pour représenter les lieux saisis dans la colonne.

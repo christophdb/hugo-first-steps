@@ -5,7 +5,14 @@ lastmod: '2023-04-06'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/verlinken-von-eintraegen-per-automation'
+url: '/ru/pomoshch/avtomaticheskoe-svyazyvanie-zapisei'
+aliases:
+    - '/ru/pomoshch/verlinken-von-eintraegen-per-automation'
+seo:
+    title: 'Автоматическое связывание записей в SeaTable: инструкция'
+    description: 'Настройте автоматическое связывание данных в SeaTable: задайте триггеры, выберите столбцы и объединяйте записи без ручной работы.'
+
+
 ---
 
 С помощью автоматизаций вам больше не придется связывать записи в таблицах вручную, эти действия могут выполняться автоматически. Просто определите соответствующую автоматизацию для любого табличного представления.

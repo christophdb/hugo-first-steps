@@ -5,7 +5,14 @@ lastmod: '2023-04-06'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/fr/aide/verlinken-von-eintraegen-per-automation'
+url: '/fr/aide/lier-entrees-automatisation'
+aliases:
+    - '/fr/aide/verlinken-von-eintraegen-per-automation'
+seo:
+    title: 'Lier des entrées dans SeaTable par automatisation : guide'
+    description: 'Automatisez vos liens dans SeaTable : définissez les déclencheurs, champs et reliez automatiquement les enregistrements entre tables.'
+
+
 ---
 
 Grâce aux automatisations, vous ne devez plus relier manuellement les entrées de vos tableaux entre elles, mais vous pouvez exécuter ces étapes automatiquement. Il suffit de définir une automatisation pour n'importe quelle vue du tableau.

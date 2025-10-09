@@ -5,7 +5,14 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/anleitung-zum-karten-plugin'
+url: '/ru/pomoshch/plugin-karty-seatable'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-karten-plugin'
+seo:
+    title: 'Карты SeaTable: пошаговая инструкция по работе с плагином'
+    description: 'Отображайте локации в SeaTable: настройка плагина, маркеры, изображения, многотабличность и оформление местоположений на карте.'
+
+
 ---
 
 Если вы создали в таблице текстовую колонку с адресами или географическими названиями или использовали тип колонки [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), вы можете использовать **Map Plugin** для отображения мест, введенных в колонку.

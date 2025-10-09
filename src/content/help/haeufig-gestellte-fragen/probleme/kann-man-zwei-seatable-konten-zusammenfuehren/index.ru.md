@@ -5,7 +5,14 @@ lastmod: '2023-11-07'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/kann-man-zwei-seatable-konten-zusammenfuehren'
+url: '/ru/pomoshch/obedineniye-dvukh-akkauntov-seatable'
+aliases:
+    - '/ru/pomoshch/kann-man-zwei-seatable-konten-zusammenfuehren'
+seo:
+    title: 'Как объединить два аккаунта SeaTable: решение'
+    description: 'Прямое объединение аккаунтов невозможно — экспортируйте данные, удалите старый аккаунт и добавьте себя в новую команду с тем же email.'
+
+
 ---
 
 К сожалению, в системе **невозможно** объединить отдельные учетные записи SeaTable или перевести людей из одной команды в другую. Поэтому **нельзя** добавить **члена команды**, который уже создал другой аккаунт SeaTable с тем **же адресом электронной почты**.

@@ -5,7 +5,14 @@ lastmod: '2023-04-06'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/es/ayuda/verlinken-von-eintraegen-per-automation'
+url: '/es/ayuda/vincular-registros-automatizacion'
+aliases:
+    - '/es/ayuda/verlinken-von-eintraegen-per-automation'
+seo:
+    title: 'Vincular registros en SeaTable automáticamente: guía'
+    description: 'Automatiza enlaces entre registros en SeaTable: usa triggers, selecciona las columnas y crea vínculos automáticos entre tus datos fácilmente.'
+
+
 ---
 
 Con la ayuda de las automatizaciones, ya no tendrá que vincular manualmente las entradas de sus tablas, sino que podrá hacer que estos pasos se realicen automáticamente. Basta con definir una automatización correspondiente para cualquier vista de tabla.

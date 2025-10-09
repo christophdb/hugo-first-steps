@@ -5,7 +5,14 @@ lastmod: '2023-04-06'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/verlinken-von-eintraegen-per-automation'
+url: '/help/link-entries-automation'
+aliases:
+    - '/help/verlinken-von-eintraegen-per-automation'
+seo:
+    title: 'Link Entries Automatically in SeaTable: Automation Guide'
+    description: 'Automatically connect records in SeaTable — configure triggers, choose fields, and let automation seamlessly link related table entries for you.'
+
+
 ---
 
 With the help of automations, you no longer have to link entries in your tables manually, but can have these steps performed automatically. Simply define a corresponding automation for any table view.

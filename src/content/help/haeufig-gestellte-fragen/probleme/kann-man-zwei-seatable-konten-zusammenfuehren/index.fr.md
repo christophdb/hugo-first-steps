@@ -5,7 +5,14 @@ lastmod: '2023-11-07'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/kann-man-zwei-seatable-konten-zusammenfuehren'
+url: '/fr/aide/fusionner-comptes-seatable'
+aliases:
+    - '/fr/aide/kann-man-zwei-seatable-konten-zusammenfuehren'
+seo:
+    title: 'Fusionner deux comptes SeaTable : étapes & conseils'
+    description: 'La fusion directe est impossible – exportez, supprimez et intégrez-vous à une autre équipe avec le même courriel pour migration des bases.'
+
+
 ---
 
 Malheureusement, le système ne **permet pas** de fusionner des comptes SeaTable individuels ou de transférer des personnes d'une équipe à une autre. Par conséquent, vous ne pouvez pas ajouter **un membre de l'équipe** qui a déjà créé un autre compte SeaTable **avec la même adresse e-mail**.

@@ -6,6 +6,11 @@ categories:
     - 'seatable-api'
 author: 'cdb'
 url: '/de/hilfe/einfuehrung-in-die-nutzung-der-seatable-api'
+seo:
+    title: 'SeaTable API nutzen: Einführung & Authentifizierung'
+    description: 'Erfahren Sie, wie Sie die SeaTable API für Bases, Tabellen und Datenabfragen sicher anwenden, Token verwenden und Limits beachten.'
+
+
 ---
 
 Die SeaTable API ist eine standardisierte Schnittstelle, mit der man praktisch jede Aktion durchführen könnte, die man als Benutzer auch über das Webinterface ausführen könnte. Mit der SeaTable-API können sowohl neue Strukturen wie Bases, Tabellen oder Zeilen angelegt werden, sowie auch existierende Werte ausgelesen werden.

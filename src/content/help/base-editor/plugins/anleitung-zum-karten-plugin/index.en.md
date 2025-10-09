@@ -5,7 +5,14 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/anleitung-zum-karten-plugin'
+url: '/help/map-plugin-guide'
+aliases:
+    - '/help/anleitung-zum-karten-plugin'
+seo:
+    title: 'SeaTable Map Plugin Guide: Features & Setup Walkthrough'
+    description: 'Easily display locations in SeaTable: Map plugin setup, markers, images, settings, zoom, and multi‑table support for advanced visualization.'
+
+
 ---
 
 If you have created a text column with addresses or place names in your table or used the [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) column type, you can use the **Map plugin** to display the locations entered in the column.

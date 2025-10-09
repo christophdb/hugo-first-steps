@@ -5,7 +5,14 @@ lastmod: '2023-11-07'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/help/kann-man-zwei-seatable-konten-zusammenfuehren'
+url: '/help/merge-two-seatable-accounts'
+aliases:
+    - '/help/kann-man-zwei-seatable-konten-zusammenfuehren'
+seo:
+    title: 'Can You Merge Two SeaTable Accounts? Process Guide'
+    description: 'Merging accounts is not directly possible—see how to export data, delete old accounts, and join teams with the same email instead.'
+
+
 ---
 
 Unfortunately, it is **not possible** in the system to merge individual SeaTable accounts or to transfer people from one team to another team. Therefore, you **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**.

@@ -5,7 +5,14 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/es/ayuda/anleitung-zum-karten-plugin'
+url: '/es/ayuda/plugin-mapas-seatable'
+aliases:
+    - '/es/ayuda/anleitung-zum-karten-plugin'
+seo:
+    title: 'Guía del plugin de mapas SeaTable: funciones detalladas'
+    description: 'Visualiza ubicaciones en SeaTable: instala el plugin de mapas, configura marcadores, imágenes y opciones avanzadas para geolocalización.'
+
+
 ---
 
 Si ha creado una columna de texto con direcciones o topónimos en su tabla o ha utilizado el tipo de columna [Geoposición]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), puede utilizar el **complemento de mapa** para mostrar las ubicaciones introducidas en la columna.
