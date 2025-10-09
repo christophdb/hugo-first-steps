@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/pt/ajuda/ansichten-pinnen'
+url: '/pt/ajuda/fixar-visualizacoes'
+aliases:
+    - '/pt/ajuda/ansichten-pinnen'
+seo:
+    title: 'Fixar visualizações no SeaTable: navegação eficiente'
+    description: 'Saiba como fixar visualizações para alternar rápido, comparar dados e ativar navegação em alemão, inglês, espanhol, francês, português, russo.'
+
 ---
 
 Em cada mesa tem a opção de exibir permanentemente todas as [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) disponíveis numa barra de navegação na margem esquerda. Isto faz sentido especialmente se alternar frequentemente entre vistas e um **acesso** torna isto mais eficiente.

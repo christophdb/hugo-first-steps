@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/ru/pomoshch/ansichten-pinnen'
+url: '/ru/pomoshch/zakreplenie-vidov'
+aliases:
+    - '/ru/pomoshch/ansichten-pinnen'
+seo:
+    title: 'Закрепление видов в SeaTable: быстрый доступ'
+    description: 'Узнайте, как закреплять виды для быстрой навигации, сравнения и работы на немецком, английском, испанском, французском, португальском, русском языках.'
+
 ---
 
 В каждой таблице у вас есть возможность постоянно отображать все доступные [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) в навигационной панели на левом поле. Это имеет смысл, особенно если вы часто переключаетесь между видами, а **доступ** делает это более эффективным.

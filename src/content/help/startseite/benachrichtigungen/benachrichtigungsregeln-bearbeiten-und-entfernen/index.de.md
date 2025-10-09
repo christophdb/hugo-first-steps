@@ -6,6 +6,10 @@ categories:
     - 'benachrichtigungen'
 author: 'nsc2'
 url: '/de/hilfe/benachrichtigungsregeln-bearbeiten-und-entfernen'
+seo:
+    title: 'Benachrichtigungsregeln in SeaTable bearbeiten & löschen'
+    description: 'Passe Benachrichtigungsregeln einfach an oder lösche sie dauerhaft in SeaTable; verfügbar für Deutsch, Englisch, Spanisch, Französisch, Portugiesisch, Russisch.'
+
 ---
 
 Bereits angelegte Benachrichtigungsregeln können Sie jederzeit **bearbeiten** und wieder **löschen**. Beachten Sie dabei, welche Auswirkungen dies auf den Versand von Benachrichtigungen hat.

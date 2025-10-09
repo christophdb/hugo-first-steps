@@ -5,7 +5,13 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/help/benachrichtigungsregeln-bearbeiten-und-entfernen'
+url: '/help/edit-delete-notification-rules'
+aliases:
+    - '/help/benachrichtigungsregeln-bearbeiten-und-entfernen'
+seo:
+    title: 'Edit & Delete Notification Rules in SeaTable: Guide'
+    description: 'Easily adjust or permanently delete notification rules in SeaTable for German, English, Spanish, French, Portuguese, and Russian speaking users.'
+
 ---
 
 You can **edit** and **delete** notification rules that have already been created at any time. Please note what effects this has on the sending of notifications.

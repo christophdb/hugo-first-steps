@@ -6,6 +6,10 @@ categories:
     - 'benachrichtigungen'
 author: 'nsc2'
 url: '/de/hilfe/benachrichtigungen-per-automation-versenden'
+seo:
+    title: 'Benachrichtigungen per Automation in SeaTable versenden'
+    description: 'Automatisiere Benachrichtigungen – so richtest du in SeaTable eine Regel ein, die automatisch Mitteilungen an Deutsch, Englisch, Spanisch, Französisch, Portugiesisch, Russisch und Chinesisch sprechende Nutzer versendet.'
+
 ---
 
 {{< required-version "Enterprise" >}}

@@ -5,7 +5,13 @@ lastmod: '2023-03-31'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/fr/aide/benachrichtigungen-per-automation-versenden'
+url: '/fr/aide/envoyer-notifications-automatisation'
+aliases:
+    - '/fr/aide/benachrichtigungen-per-automation-versenden'
+seo:
+    title: 'Envoyez des notifications par automatisation SeaTable'
+    description: 'Notifications automatiques dans SeaTable : configurez des alertes selon des règles pour utilisateurs allemand, anglais, espagnol, français, portugais, russe, chinois.'
+
 ---
 
 {{< required-version "Entreprise" >}}

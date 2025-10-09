@@ -5,7 +5,13 @@ lastmod: '2023-02-21'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/fr/aide/ansichten-pinnen'
+url: '/fr/aide/epingler-vues'
+aliases:
+    - '/fr/aide/ansichten-pinnen'
+seo:
+    title: 'Épingler des vues dans SeaTable : accès rapide'
+    description: 'Comment épingler des vues : accédez rapidement, naviguez simplement et comparez vos données en allemand, anglais, espagnol, français, portugais, russe.'
+
 ---
 
 Dans chaque tableau, vous avez la possibilité d'afficher en permanence toutes les [vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) disponibles dans une barre de navigation sur le bord gauche. Cela a surtout du sens si vous passez souvent d'une vue à l'autre et qu'un accès rend cela plus efficace.
