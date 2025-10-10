@@ -49,9 +49,8 @@ sections:
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
 
-    - name: "hero-2"
+    - name: "content-23"
       weight: 4
-      classes:
       title: 'SeaTable anda nas bocas do mundo'
       subtitle: 'Publicações'
       text: 'Aqui pode ver uma seleção de meios de comunicação que já fizeram reportagens sobre SeaTable.'
