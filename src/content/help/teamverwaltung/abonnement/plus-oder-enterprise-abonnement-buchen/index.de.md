@@ -6,6 +6,11 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/plus-oder-enterprise-abonnement-buchen'
+seo:
+    title: 'SeaTable Plus- oder Enterprise-Abo buchen: Anleitung'
+    description: 'So wechseln Sie von Free auf Plus oder Enterprise: Upgrade-Schritte, Zahlungsarten, Administratorrechte und sofort nutzbare Vorteile im Überblick.'
+
+
 ---
 
 Ihr Team verfügt über ein SeaTable Free-Abonnement und Sie möchten auf Plus oder Enterprise upgraden? Kein Problem! Nutzen Sie hierfür einfach den Reiter **Abonnement** in der **Teamverwaltung** und buchen Sie Ihr gewünschtes Abo-Paket.

@@ -6,6 +6,9 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/das-abo-kuendigen'
+seo:
+    title: 'SeaTable Abo kündigen: Schritt-für-Schritt Anleitung'
+    description: 'So beenden Sie Ihr SeaTable-Abonnement: Teamadministrator benötigt, Kündigung wird zum Laufzeitende aktiv, Free-Modus und Datenlöschung beachten.'
 ---
 
 Sie möchten Ihr SeaTable-Abo kündigen? Nutzen Sie hierfür den Reiter Abonnement in der Teamverwaltung. Beachten Sie jedoch, dass die Kündigung von bestehenden Abonnements erst zum Ende der Laufzeit in Kraft tritt. Bis dieser Zeitpunkt erreicht ist, können Sie Ihr gekündigtes Abo noch vollumfänglich nutzen.

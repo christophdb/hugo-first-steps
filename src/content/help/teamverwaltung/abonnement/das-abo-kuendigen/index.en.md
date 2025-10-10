@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/das-abo-kuendigen'
+url: '/help/cancel-subscription'
+aliases:
+    - '/help/das-abo-kuendigen'
+seo:
+    title: 'Cancel Your SeaTable Subscription: How-To Guide'
+    description: 'Step-by-step to cancel SeaTable plans: Only team admins, cancellation valid at end of term, access remains until then, data policies explained.'
 ---
 
 You want to cancel your SeaTable subscription? To do so, use the Subscription tab in team administration. Please note, however, that the cancellation of existing subscriptions only takes effect at the end of the subscription period. You can still use your cancelled subscription to its full extent until this point is reached.

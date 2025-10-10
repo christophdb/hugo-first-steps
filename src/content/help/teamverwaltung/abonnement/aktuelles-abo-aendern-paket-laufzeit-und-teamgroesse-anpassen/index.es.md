@@ -5,7 +5,12 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+url: '/es/ayuda/cambiar-suscripcion-paquete-equipo'
+aliases:
+    - '/es/ayuda/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+seo:
+    title: 'Cambiar suscripción SeaTable: paquete, equipo, periodo'
+    description: 'Así modificas tu plan SeaTable: sube o baja de paquete, ajusta usuarios, cambia el periodo de pago — todo explicado paso a paso.'
 ---
 
 En la administración del equipo, usted, como **administrador del equipo**, puede realizar cambios en la suscripción en cualquier momento. En este artículo se explica cómo realizar cambios, cuándo surten efecto y qué efectos tienen sobre la duración.

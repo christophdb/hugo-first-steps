@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/fr/aide/die-rollup-formel'
+url: '/fr/aide/formule-rollup-seatable'
+aliases:
+    - '/fr/aide/die-rollup-formel'
+seo:
+    title: 'Formule rollup SeaTable : lier et agréger des données'
+    description: 'Agrégez les valeurs liées : total, moyenne, minimum, maximum ou concaténation de données reliées, réglages de formats et multiples relations.'
 ---
 
 À l'aide de la formule de rollup du type de colonne **Formule pour les relations**, vous pouvez établir un rapport entre plusieurs valeurs numériques d'une colonne liée et effectuer des calculs statistiques simples.

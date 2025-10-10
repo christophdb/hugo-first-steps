@@ -5,7 +5,12 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+url: '/pt/ajuda/alterar-assinatura-plano-equipe'
+aliases:
+    - '/pt/ajuda/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+seo:
+    title: 'Alterar assinatura SeaTable: plano, membros, cobrança'
+    description: 'Ajuste plano, equipe e período de pagamento no SeaTable – upgrades rápidos, downgrades no fim do ciclo e cobrança proporcional fácil.'
 ---
 
 Na administração da equipa, enquanto **administrador da equipa**, pode fazer alterações à subscrição em qualquer altura. Este artigo explica como efetuar alterações, quando estas entram em vigor e quais os efeitos que têm na duração.

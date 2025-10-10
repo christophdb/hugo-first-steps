@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/help/die-rollup-formel'
+url: '/help/rollup-formula'
+aliases:
+    - '/help/die-rollup-formel'
+seo:
+    title: 'Rollup Formula in SeaTable: Stats & Aggregation Guide'
+    description: 'Learn to use SeaTable rollup formulas: sum, average, min, max or join values from linked records, plus formatting and setup for number relations.'
 ---
 
 With the help of the rollup formula of the column type **Formula for links** you can set several numerical values of a linked column in relation to each other and perform simple statistical calculations.

@@ -6,6 +6,9 @@ categories:
     - 'verknuepfungen'
 author: 'vge'
 url: '/de/hilfe/die-rollup-formel'
+seo:
+    title: 'SeaTable Rollup-Formel: Zahlenbeziehungen & Auswertungen'
+    description: 'So nutzen Sie die Rollup-Formel: Mehrere Werte verknüpfen, Summen, Durchschnitt, Min/Max oder Verkettung berechnen – inklusive Formatoptionen.'
 ---
 
 Mithilfe der Rollup-Formel des Spaltentyps **Formel für Verknüpfungen** können Sie mehrere Zahlenwerte einer verknüpften Spalte zueinander ins Verhältnis setzen und einfache statistische Berechnungen durchführen.

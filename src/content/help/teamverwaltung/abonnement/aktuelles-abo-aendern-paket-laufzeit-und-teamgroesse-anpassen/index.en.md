@@ -5,7 +5,12 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+url: '/help/change-subscription-plan-team-size'
+aliases:
+    - '/help/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+seo:
+    title: 'Change SeaTable Subscription: Plan, Team Size, Billing'
+    description: 'Update your SeaTable plan, team size or billing — immediate upgrades, deferred downgrades, pro-rated payments and admin change steps.'
 ---
 
 In team administration, as a **team administrator**, you can make changes to the subscription at any time. Learn how to make changes, when they take effect, and what effects they have on the term in this article.

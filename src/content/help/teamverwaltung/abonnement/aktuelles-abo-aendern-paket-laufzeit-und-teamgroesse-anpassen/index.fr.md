@@ -5,7 +5,12 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+url: '/fr/aide/modifier-abonnement-equipe-forfait'
+aliases:
+    - '/fr/aide/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+seo:
+    title: 'Modifier l’abonnement SeaTable : équipe, forfait, durée'
+    description: 'Gérez votre abonnement : changez le forfait, la taille de l’équipe ou la durée ; upgrades immédiats, paiements au prorata, administration claire.'
 ---
 
 Dans l'administration d'équipe, vous pouvez, en tant qu'**administrateur d'équipe**, apporter à tout moment des modifications à l'abonnement. Vous apprendrez dans cet article comment effectuer des modifications, quand elles prennent effet et quelles en sont les conséquences sur la durée de l'abonnement.

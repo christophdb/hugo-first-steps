@@ -6,6 +6,13 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/fr/aide/plus-oder-enterprise-abonnement-buchen'
+aliases:
+    - '/fr/aide/passer-plus-enterprise'
+seo:
+    title: 'Passer à SeaTable Plus ou Enterprise : guide abonnement'
+    description: 'Passez de Free à Plus ou Enterprise dans SeaTable : étapes d’upgrade, paiement, droit d’admin, accès instantané aux fonctionnalités avancées.'
+
+
 ---
 
 Votre équipe dispose d'un abonnement SeaTable Free et vous souhaitez passer à Plus ou Enterprise ? Pas de problème ! Pour cela, il vous suffit d'utiliser l'onglet **Abonnement** dans l'**administration d'équipe** et de réserver le pack d'abonnement de votre choix.
