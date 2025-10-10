@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/fr/aide/zeilen-per-automation-sperren'
+url: '/fr/aide/verrouiller-lignes-automatisation'
+aliases:
+    - '/fr/aide/zeilen-per-automation-sperren'
+seo:
+    title: 'Verrouiller des lignes SeaTable par automatisation : guide'
+    description: 'Verrouillez des lignes dans SeaTable automatiquement : déclencheurs, conditions et gestion rapide des accès collaboratifs par automatisation.'
 ---
 
 Avec l'aide des automatisations, vous ne devez plus bloquer manuellement les lignes dans vos tableaux, mais vous pouvez faire en sorte que le [blocage des lignes]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) s'effectue automatiquement. C'est très utile si vous voulez toujours empêcher qu'une ligne puisse être traitée à partir d'un certain moment (par exemple lorsqu'une opération est terminée).

@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/zeilen-per-automation-sperren'
+url: '/help/lock-rows-automation'
+aliases:
+    - '/help/zeilen-per-automation-sperren'
+seo:
+    title: 'Lock SeaTable Rows Automatically: Automation Guide'
+    description: 'Learn to lock table rows via automation: choose triggers, set rules, and restrict editing rapidly for efficient team workflows.'
 ---
 
 With the help of automations, you no longer have to manually lock rows in your tables, but can have [rows perform the]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) automatically. This is very useful if you always want to prevent a row from being processed further from a certain point in time (e.g. when a process has been completed).

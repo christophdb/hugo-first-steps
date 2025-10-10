@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/das-abo-kuendigen'
+url: '/fr/aide/resilier-abonnement-seatable'
+aliases:
+    - '/fr/aide/das-abo-kuendigen'
+seo:
+    title: 'Résilier un abonnement SeaTable : méthode facile'
+    description: 'Comment résilier SeaTable : admin requis, désactivation en fin de période, bénéfices actifs jusqu’à l’échéance, suppression et gestion des données.'
 ---
 
 Vous souhaitez résilier votre abonnement à SeaTable ? Utilisez pour cela l'onglet Abonnement dans l'administration d'équipe. Notez toutefois que la résiliation des abonnements existants ne prend effet qu'à la fin de la période de validité. Jusqu'à ce que cette date soit atteinte, vous pouvez encore utiliser pleinement votre abonnement résilié.

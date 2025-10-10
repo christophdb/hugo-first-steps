@@ -5,7 +5,14 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/plus-oder-enterprise-abonnement-buchen'
+url: '/pt/ajuda/assinar-plus-enterprise'
+aliases:
+    - '/pt/ajuda/plus-oder-enterprise-abonnement-buchen'
+seo:
+    title: 'Assinar SeaTable Plus ou Enterprise: passo a passo'
+    description: 'Saiba como migrar do plano Free para Plus ou Enterprise : etapas do upgrade, opções de pagamento e benefícios liberados na hora.'
+
+
 ---
 
 A sua equipa tem uma subscrição SeaTable Free e pretende atualizar para Plus ou Enterprise? Não há problema! Basta utilizar o separador **Subscrição** na **administração da equipa** e reservar o pacote de subscrição pretendido.

@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/pomoshch/die-rollup-formel'
+url: '/ru/pomoshch/formula-rollup-seatable'
+aliases:
+    - '/ru/pomoshch/die-rollup-formel'
+seo:
+    title: 'Rollup-формула в SeaTable: агрегация и анализ данных'
+    description: 'Используйте rollup: суммы, средние, min/max, объединение значений по связям, настройка формата для сложной аналитики и связей.'
 ---
 
 С помощью свернутой формулы столбца типа **Формула для связей** можно установить несколько числовых значений связанного столбца относительно друг друга и выполнить простые статистические расчеты.

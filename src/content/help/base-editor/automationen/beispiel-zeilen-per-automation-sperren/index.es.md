@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/es/ayuda/zeilen-per-automation-sperren'
+url: '/es/ayuda/bloquear-filas-automatizacion'
+aliases:
+    - '/es/ayuda/zeilen-per-automation-sperren'
+seo:
+    title: 'Bloquear filas automáticamente en SeaTable: tutorial'
+    description: 'Automatiza el bloqueo de filas en SeaTable: define triggers, establece condiciones y gestiona el acceso a los datos fácilmente.'
 ---
 
 Con la ayuda de las automatizaciones, ya no tendrá que bloquear manualmente las [filas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) de sus tablas, sino que podrá hacerlo automáticamente. Esto es muy útil si siempre quiere evitar que una fila se siga editando después de un determinado momento (por ejemplo, cuando finaliza una operación).

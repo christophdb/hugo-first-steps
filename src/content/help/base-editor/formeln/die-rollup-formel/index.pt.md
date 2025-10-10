@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/pt/ajuda/die-rollup-formel'
+url: '/pt/ajuda/formula-rollup-seatable'
+aliases:
+    - '/pt/ajuda/die-rollup-formel'
+seo:
+    title: 'Fórmula rollup SeaTable: soma, média, ligação de dados'
+    description: 'Veja como usar o rollup: some, calcule média, min/máx, concatene registros de colunas vinculadas, ajustes de formato e análise de relacionamentos.'
 ---
 
 Com a ajuda da fórmula de roll-up do tipo de coluna **Fórmula para ligações**, é possível definir vários valores numéricos de uma coluna ligada em relação umas às outras e efectuar cálculos estatísticos simples.

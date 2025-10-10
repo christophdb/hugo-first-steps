@@ -5,7 +5,14 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/plus-oder-enterprise-abonnement-buchen'
+url: '/help/upgrade-plus-or-enterprise'
+aliases:
+    - '/help/plus-oder-enterprise-abonnement-buchen'
+seo:
+    title: 'Upgrade to SeaTable Plus or Enterprise: Subscription Guide'
+    description: 'Learn how to upgrade from Free to Plus or Enterprise in SeaTable—admin steps, credit card or invoice payment, instant access to more features.'
+
+
 ---
 
 Your team has a SeaTable Free subscription and you want to upgrade to Plus or Enterprise? No problem! Just use the **Subscription** tab in **Team administration** and book your desired subscription package.

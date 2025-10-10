@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/das-abo-kuendigen'
+url: '/pt/ajuda/cancelar-assinatura-seatable'
+aliases:
+    - '/pt/ajuda/das-abo-kuendigen'
+seo:
+    title: 'Como cancelar assinatura SeaTable: tutorial completo'
+    description: 'Cancele planos SeaTable como admin: válido ao fim do ciclo, acesso liberado até lá, veja informações sobre downgrade e exclusão dos dados.'
 ---
 
 Gostaria de cancelar a sua subscrição SeaTable? Para o fazer, utilizar o separador Subscrição na administração da equipa. Note-se, contudo, que o cancelamento das subscrições existentes só tem efeito no final do prazo. Pode ainda fazer pleno uso da sua subscrição cancelada até este ponto ser alcançado.

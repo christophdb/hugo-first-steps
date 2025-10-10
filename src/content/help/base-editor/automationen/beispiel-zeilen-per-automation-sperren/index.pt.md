@@ -5,7 +5,12 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/pt/ajuda/zeilen-per-automation-sperren'
+url: '/pt/ajuda/bloquear-linhas-automacao'
+aliases:
+    - '/pt/ajuda/zeilen-per-automation-sperren'
+seo:
+    title: 'Bloquear linhas no SeaTable automaticamente: tutorial'
+    description: 'Saiba como bloquear linhas via automação – defina acionadores, condições e restrinja edições nas tabelas facilmente para todo o time.'
 ---
 
 Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas mesas, mas pode ter [as linhas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).

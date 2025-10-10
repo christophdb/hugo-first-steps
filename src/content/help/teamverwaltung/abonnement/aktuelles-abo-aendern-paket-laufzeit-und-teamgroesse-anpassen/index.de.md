@@ -6,6 +6,9 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+seo:
+    title: 'SeaTable Abo ändern: Teamgröße, Paket & Laufzeit anpassen'
+    description: 'So passen Sie Ihr SeaTable Abonnement schnell an – Upgrade, Downgrade, Teamgröße und Zahlungsintervall; alle Änderungen in der Teamverwaltung erklärt.'
 ---
 
 In der Teamverwaltung können Sie als **Team-Administrator** jederzeit Änderungen am Abonnement vornehmen. Wie Sie Änderungen vornehmen, wann diese wirksam werden und welche Auswirkungen diese auf die Laufzeit haben, erfahren Sie in diesem Artikel.

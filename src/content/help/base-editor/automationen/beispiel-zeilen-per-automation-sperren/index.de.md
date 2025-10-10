@@ -6,6 +6,9 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/zeilen-per-automation-sperren'
+seo:
+    title: 'Zeilen sperren in SeaTable per Automation: Anleitung'
+    description: 'So sperren Sie Tabellenzeilen automatisch – Trigger wählen, Bedingungen festlegen und Kontrolle für alle Teammitglieder sicher automatisieren.'
 ---
 
 Mithilfe von Automationen müssen Sie Zeilen in Ihren Tabellen nicht mehr manuell sperren, sondern können die [Sperrung von Zeilen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) automatisch ausführen lassen. Das ist sehr nützlich, wenn Sie immer ab einem bestimmten Zeitpunkt (z. B. wenn ein Vorgang abgeschlossen ist) verhindern wollen, dass eine Zeile weiter bearbeitet werden kann.

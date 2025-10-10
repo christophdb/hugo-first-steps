@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/es/ayuda/die-rollup-formel'
+url: '/es/ayuda/formula-rollup-seatable'
+aliases:
+    - '/es/ayuda/die-rollup-formel'
+seo:
+    title: 'Fórmula rollup SeaTable: sumar, promediar y enlazar datos'
+    description: 'Usa la fórmula rollup: suma, promedio, mínimo/máximo o concatenación desde columnas vinculadas; permite múltiples relaciones y formatos.'
 ---
 
 Con la ayuda de la fórmula roll-up del tipo de columna **Fórmula para enlaces**, puede establecer varios valores numéricos de una columna enlazada en relación con los demás y realizar cálculos estadísticos sencillos.
