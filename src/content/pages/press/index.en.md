@@ -47,9 +47,8 @@ sections:
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
 
-    - name: "hero-2"
+    - name: "content-23"
       weight: 4
-      classes:
       title: 'Many talk about SeaTable'
       subtitle: 'Publications'
       text: 'Here you can see a selection of media that have already reported on SeaTable.'
