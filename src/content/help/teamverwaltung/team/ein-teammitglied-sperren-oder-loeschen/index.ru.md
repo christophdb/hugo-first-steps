@@ -5,7 +5,13 @@ lastmod: '2023-06-26'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/ein-teammitglied-sperren-oder-loeschen'
+url: '/ru/pomoshch/blokirovka-udalenie-uchastnika-seatable'
+aliases:
+    - '/ru/pomoshch/ein-teammitglied-sperren-oder-loeschen'
+seo:
+    title: 'Заблокировать или удалить участника в SeaTable – инструкция'
+    description: 'Узнайте, как заблокировать или удалить пользователя в SeaTable. Все шаги, нужные права и последствия для баз и групп при удалении.'
+
 ---
 
 Чтобы блокировать или удалять членов команды, вы должны обладать **правами администратора**.

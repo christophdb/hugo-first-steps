@@ -5,7 +5,12 @@ lastmod: '2023-01-20'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+url: '/help/view-terms-privacy-policy'
+aliases:
+    - '/help/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+seo:
+    title: 'View SeaTable Terms & Privacy Policy: Secure Access'
+    description: 'Discover how team admins view and download SeaTable’s Terms of Service and Privacy Policy in the team admin menu or on the main site.'
 ---
 
 As a **team administrator**, you can view several **legal documents** in SeaTable's team administration and download them for your records. Here you can find, among others, the **Terms of Use** and the **Privacy Policy**.

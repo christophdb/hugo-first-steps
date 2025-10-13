@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/fr/aide/benutzerdefinierte-freigabe-erstellen'
+url: '/fr/aide/creer-partage-personnalise'
+aliases:
+    - '/fr/aide/benutzerdefinierte-freigabe-erstellen'
+seo:
+    title: 'Partage personnalisé pour tableaux et vues dans SeaTable'
+    description: 'Partagez des tableaux ou vues SeaTable en fixant droits de lecture et écriture. Options de partage flexibles pour équipes et groupes.'
 ---
 
 {{< required-version "Plus" "Entreprise" >}}

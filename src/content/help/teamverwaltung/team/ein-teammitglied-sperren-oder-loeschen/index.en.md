@@ -5,7 +5,13 @@ lastmod: '2023-06-26'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/ein-teammitglied-sperren-oder-loeschen'
+url: '/help/block-or-remove-a-team-member'
+aliases:
+    - '/help/ein-teammitglied-sperren-oder-loeschen'
+seo:
+    title: 'Block or remove a SeaTable team member – step by step'
+    description: 'Learn to block or delete a SeaTable team member. Detailed steps, permissions required, and what happens to shared bases or groups after removal.'
+
 ---
 
 To lock or delete team members, you must have **administration permissions**.

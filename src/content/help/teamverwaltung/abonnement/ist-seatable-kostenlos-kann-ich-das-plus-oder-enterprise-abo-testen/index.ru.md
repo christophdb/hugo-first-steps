@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-testen'
+url: '/ru/pomoshch/seatable-besplatno-mogu-testirovat-plus-enterprise'
+aliases:
+    - '/ru/pomoshch/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-testen'
+seo:
+    title: 'SeaTable бесплатно? Тест Plus и Enterprise — 30 дней'
+    description: 'В SeaTable Cloud есть бесплатная версия! Тестируйте Plus и Enterprise 30 дней: без карты, полный доступ, удобно и безопасно.'
+
 ---
 
 SeaTable Cloud, онлайн-предложение SeaTable, поначалу является бесплатным для всех. Мы называем это нашей **бесплатной подпиской**, с помощью которой создается каждая команда.

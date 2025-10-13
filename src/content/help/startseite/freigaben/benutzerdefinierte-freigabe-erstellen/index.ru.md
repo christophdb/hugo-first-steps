@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/pomoshch/benutzerdefinierte-freigabe-erstellen'
+url: '/ru/pomoshch/sozdanie-polzovatelskogo-dostupa'
+aliases:
+    - '/ru/pomoshch/benutzerdefinierte-freigabe-erstellen'
+seo:
+    title: 'Пользовательский доступ к таблицам и видам SeaTable'
+    description: 'Делитесь таблицами и представлениями SeaTable с определёнными правами. Настройте чтение и редактирование для каждой команды.'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'vge'
 url: '/de/hilfe/benutzerdefinierte-freigabe-erstellen'
+seo:
+    title: 'Benutzerdefinierte Freigabe in SeaTable erstellen'
+    description: 'So richten Sie individuelle Freigaben in SeaTable ein und teilen Tabellen und Ansichten flexibel mit dem Team. Rechte präzise steuern.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

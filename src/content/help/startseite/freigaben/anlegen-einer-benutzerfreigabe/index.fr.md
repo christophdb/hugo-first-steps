@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/fr/aide/anlegen-einer-benutzerfreigabe'
+url: '/fr/aide/partager-base-utilisateurs'
+aliases:
+    - '/fr/aide/anlegen-einer-benutzerfreigabe'
+seo:
+    title: 'Partager une base SeaTable à des utilisateurs: guide'
+    description: 'Donnez droits de lecture/édition, ajoutez plusieurs membres et gérez la base depuis SeaTable – contrôle et retrait des accès inclus.'
 ---
 
 Vous pouvez **partager des bases avec d'autres utilisateurs** au sein de votre équipe. Pour cela, vous pouvez choisir entre un **partage en lecture** et un **partage en lecture et écriture**.
