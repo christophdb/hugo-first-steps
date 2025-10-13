@@ -5,7 +5,13 @@ lastmod: '2023-06-26'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/ein-teammitglied-sperren-oder-loeschen'
+url: '/fr/aide/bloquer-supprimer-membre-seatable'
+aliases:
+    - '/fr/aide/ein-teammitglied-sperren-oder-loeschen'
+seo:
+    title: 'Bloquer ou supprimer un membre dans SeaTable – tutoriel'
+    description: 'Découvrez comment bloquer ou supprimer un membre d’équipe dans SeaTable. Toutes les étapes, droits nécessaires et conséquences expliqués.'
+
 ---
 
 Pour bloquer ou supprimer des membres de l'équipe, vous devez disposer de **droits d'administration**.

@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/ein-teammitglied-sperren-oder-loeschen'
+seo:
+    title: 'Teammitglied in SeaTable sperren oder löschen – Anleitung'
+    description: 'Erfahren Sie, wie Sie in SeaTable ein Teammitglied sperren oder löschen. Übersicht über Rechte, typische Folgen und Schritt-für-Schritt-Anleitung.'
+
 ---
 
 Um Teammitglieder zu sperren oder zu löschen, müssen Sie **Administrationsberechtigungen** haben.

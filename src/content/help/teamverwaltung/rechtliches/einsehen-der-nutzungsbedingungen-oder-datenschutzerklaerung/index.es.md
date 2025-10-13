@@ -5,7 +5,12 @@ lastmod: '2023-01-20'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+url: '/es/ayuda/ver-condiciones-privacidad-seatable'
+aliases:
+    - '/es/ayuda/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+seo:
+    title: 'Ver las condiciones de uso y privacidad en SeaTable'
+    description: 'Accede y descarga términos de uso y política de privacidad en SeaTable desde la gestión de equipos o en la web pública oficial.'
 ---
 
 Como **administrador de un equipo**, puede ver varios **documentos legales** en la administración de equipos de SeaTable y descargarlos para sus archivos. Aquí encontrará, entre otras cosas, las **condiciones de uso** y la **política de privacidad**.

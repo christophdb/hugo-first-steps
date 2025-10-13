@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/pomoshch/anlegen-einer-benutzerfreigabe'
+url: '/ru/pomoshch/predostavit-dostup-k-baze-seatable'
+aliases:
+    - '/ru/pomoshch/anlegen-einer-benutzerfreigabe'
+seo:
+    title: 'Делегировать доступ к базе SeaTable: пошаговая инструкция'
+    description: 'Предоставляйте права чтения/редактирования, выбирайте пользователей, управляйте доступом и отзывайте разрешения для командных баз SeaTable.'
 ---
 
 Вы можете предоставлять **общий доступ к базам другим пользователям** в вашей команде. Вы можете выбрать между **общим доступом для чтения** и **общим доступом для чтения и записи**.

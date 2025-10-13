@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/help/anlegen-einer-benutzerfreigabe'
+url: '/help/share-base-with-users'
+aliases:
+    - '/help/anlegen-einer-benutzerfreigabe'
+seo:
+    title: 'Share a SeaTable Base with Users: Step-by-Step Guide'
+    description: 'Grant view or edit rights for team Bases in SeaTable—select users, manage permissions, add or remove members, and control base access easily.'
 ---
 
 You can **share bases with other users** within your team. Here you can choose between a **read share** and a **read and write share**.

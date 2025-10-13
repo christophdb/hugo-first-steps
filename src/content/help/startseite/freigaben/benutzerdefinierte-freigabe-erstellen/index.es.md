@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/es/ayuda/benutzerdefinierte-freigabe-erstellen'
+url: '/es/ayuda/crear-comparticion-personalizada'
+aliases:
+    - '/es/ayuda/benutzerdefinierte-freigabe-erstellen'
+seo:
+    title: 'Compartición personalizada para tablas y vistas en SeaTable'
+    description: 'Descubra cómo compartir tablas y vistas en SeaTable con permisos personalizados de lectura y edición de manera fácil y flexible.'
 ---
 
 {{< required-version "Más" "Empresa" >}}

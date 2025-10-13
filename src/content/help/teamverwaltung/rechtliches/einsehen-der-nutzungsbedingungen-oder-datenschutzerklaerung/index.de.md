@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+seo:
+    title: 'Nutzungsbedingungen & Datenschutz SeaTable einsehen'
+    description: 'So finden und speichern Sie rechtliche Dokumente wie Nutzungsbedingungen und Datenschutzerklärung in der Teamverwaltung und auf SeaTable.io.'
 ---
 
 Als **Team-Administrator** können Sie in der Teamverwaltung von SeaTable mehrere **rechtliche Dokumente** einsehen und für Ihre Unterlagen downloaden. Hier finden Sie unter anderem die **Nutzungsbedingungen** und die **Datenschutzerklärung**.

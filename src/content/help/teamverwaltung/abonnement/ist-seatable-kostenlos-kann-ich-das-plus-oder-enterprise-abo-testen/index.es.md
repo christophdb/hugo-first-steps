@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-testen'
+url: '/es/ayuda/es-seatable-gratis-puedo-probar-plus-o-enterprise'
+aliases:
+    - '/es/ayuda/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-testen'
+seo:
+    title: '¿SeaTable es gratis? Pruebe Plus o Enterprise gratis hoy'
+    description: 'SeaTable Cloud ofrece versión básica gratuita. Pruebe Plus o Enterprise 30 días gratis: sin tarjeta, acceso total y máxima flexibilidad.'
+
 ---
 
 SeaTable Cloud, la oferta en línea de SeaTable, es básicamente gratuita para todos al principio. Lo llamamos nuestra **suscripción gratuita**, con la que se crean todos los equipos.

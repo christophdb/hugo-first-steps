@@ -5,7 +5,12 @@ lastmod: '2023-01-20'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+url: '/pt/ajuda/ver-termos-politicas-seatable'
+aliases:
+    - '/pt/ajuda/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+seo:
+    title: 'Ver políticas e termos SeaTable: onde acessar e baixar'
+    description: 'Encontre e baixe termos de uso e política de privacidade SeaTable na administração de equipe ou publicamente no site oficial.'
 ---
 
 Como **administrador da equipa**, pode visualizar vários **documentos legais** na administração da equipa do SeaTable e descarregá-los para os seus registos. Aqui encontrará, entre outras coisas, os **termos de utilização** e a **política de privacidade**.

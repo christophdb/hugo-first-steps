@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/help/benutzerdefinierte-freigabe-erstellen'
+url: '/help/create-custom-sharing'
+aliases:
+    - '/help/benutzerdefinierte-freigabe-erstellen'
+seo:
+    title: 'Create custom sharing for tables and views in SeaTable'
+    description: 'Share multiple tables and views in SeaTable. Assign read and write permissions quickly and flexibly with custom sharing options.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

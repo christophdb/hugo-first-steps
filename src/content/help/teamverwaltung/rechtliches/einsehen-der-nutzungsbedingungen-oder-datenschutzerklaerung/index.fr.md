@@ -5,7 +5,12 @@ lastmod: '2023-01-20'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+url: '/fr/aide/consulter-cgu-politique-confidentialite'
+aliases:
+    - '/fr/aide/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+seo:
+    title: 'Consulter CGU et politique de confidentialité SeaTable'
+    description: 'Où trouver les CGU et la politique de confidentialité : téléchargement rapide dans l’administration d’équipe ou sur SeaTable.io public.'
 ---
 
 En tant qu'**administrateur d'équipe**, vous pouvez consulter plusieurs **documents juridiques** dans l'administration d'équipe de SeaTable et les télécharger pour vos dossiers. Vous y trouverez notamment les **conditions d'utilisation** et la **déclaration de confidentialité**.

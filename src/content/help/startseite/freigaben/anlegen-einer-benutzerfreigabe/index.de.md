@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'vge'
 url: '/de/hilfe/anlegen-einer-benutzerfreigabe'
+seo:
+    title: 'Base in SeaTable für Benutzer freigeben: Anleitung'
+    description: 'So teilen Sie Bases im Team: Schritt-für-Schritt Lese- oder Schreibrechte vergeben, mehrere Nutzer auswählen, Rechte verwalten, Freigabe widerrufen.'
 ---
 
 Sie können innerhalb Ihres Teams **Bases mit anderen Benutzern teilen**. Hierbei können Sie zwischen einer **Lesefreigabe** und einer **Lese- und Schreibfreigabe** wählen.
