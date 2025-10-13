@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/pomoshch/synchronisation-eines-gemeinsamen-datensatzes'
+url: '/ru/pomoshch/sinhronizaciya-obschego-dataseda-seatable'
+aliases:
+    - '/ru/pomoshch/synchronisation-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Синхронизация общего датасета в SeaTable – инструкция'
+    description: 'Синхронизируйте общие датасеты в SeaTable: вручную, автоматически или принудительно. Все подробности, ограничения, изменения строк и столбцов.'
 ---
 
 Jede Tabelle, die Sie aus einem gemeinsamen Datensatz erstellt haben, können Sie **synchronisieren**. Dabei gleicht SeaTable die Daten des gemeinsamen Datensatzes mit den identischen Spalten in der Tabelle ab. Die Werte in diesen Spalten werden **überschrieben**, falls Sie oder Ihre Gruppenmitglieder seit der letzten Synchronisation **Veränderungen am gemeinsamen Datensatz** vorgenommen haben.

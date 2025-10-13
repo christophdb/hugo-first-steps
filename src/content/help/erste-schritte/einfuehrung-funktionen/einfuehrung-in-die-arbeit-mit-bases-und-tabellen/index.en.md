@@ -5,7 +5,12 @@ lastmod: '2023-03-24'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+url: '/help/introduction-to-bases-and-tables'
+aliases:
+    - '/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+seo:
+    title: 'Introduction to Bases & Tables in SeaTable – getting started'
+    description: 'Discover how Bases and Tables work in SeaTable: Setup, links, column types, views, and more. Your essential guide to starting with SeaTable.'
 ---
 
 Each of the square icons on your Home page represents a **base**. It is a database, comparable to a workbook in a conventional spreadsheet and can contain several **tables** on different topics.

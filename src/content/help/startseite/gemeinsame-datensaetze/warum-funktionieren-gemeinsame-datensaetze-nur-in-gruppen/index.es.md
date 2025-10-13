@@ -5,7 +5,12 @@ lastmod: '2022-12-15'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/es/ayuda/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+url: '/es/ayuda/por-que-compartidos-solo-funcionan-en-grupos'
+aliases:
+    - '/es/ayuda/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+seo:
+    title: 'Por qué conjuntos compartidos solo funcionan en grupos'
+    description: 'Los conjuntos de datos compartidos de SeaTable sólo funcionan en bases de grupo. Descubra la limitación y cómo sortearla fácilmente.'
 ---
 
 Hasta ahora, los conjuntos de datos compartidos **sólo** pueden crearse a partir de vistas de bases de grupos. Esto se debe a una **limitación técnica** que podría eliminarse en una futura versión de SeaTable.

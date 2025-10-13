@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/anleitung-zum-kanban-plugin'
+seo:
+    title: 'Anleitung für das Kanban-Plugin in SeaTable – Board & Tipps'
+    description: 'Lernen Sie, wie Sie das Kanban-Plugin in SeaTable einrichten und für die flexible Visualisierung von Prozessen im Team optimal nutzen.'
 ---
 
 Ein **Kanban-Board** kann sinnvoll sein, um dynamische Prozesse mit verschiedenen Phasen darzustellen. In dieser Hinsicht ermöglicht es Ihnen beispielsweise die Visualisierung von **Workflows** und **Projektfortschritten**. Besonders hilfreich ist dies bei der Projektplanung, Produktentwicklung oder Aufgabenverteilung **im Team**.

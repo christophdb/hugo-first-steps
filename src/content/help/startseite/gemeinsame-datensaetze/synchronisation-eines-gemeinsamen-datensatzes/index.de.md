@@ -6,6 +6,9 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
 url: '/de/hilfe/synchronisation-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Gemeinsamen Datensatz in SeaTable synchronisieren – Anleitung'
+    description: 'Synchronisieren Sie gemeinsame Datensätze in SeaTable: Automatisch, manuell oder per Push. Alles zu Ablauf, Einschränkungen, Zeilen und Spalten.'
 ---
 
 Jede Tabelle, die Sie aus einem gemeinsamen Datensatz erstellt haben, können Sie **synchronisieren**. Dabei gleicht SeaTable die Daten des gemeinsamen Datensatzes mit den identischen Spalten in der Tabelle ab. Die Werte in diesen Spalten werden **überschrieben**, falls Sie oder Ihre Gruppenmitglieder seit der letzten Synchronisation **Veränderungen am gemeinsamen Datensatz** vorgenommen haben.
