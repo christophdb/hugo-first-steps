@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/fr/aide/anleitung-zum-kanban-plugin'
+url: '/fr/aide/tutoriel-plugin-kanban'
+aliases:
+    - '/fr/aide/anleitung-zum-kanban-plugin'
+seo:
+    title: 'Tutoriel du plugin Kanban pour SeaTable – gérer vos boards'
+    description: 'Découvrez comment créer et organiser des tableaux Kanban dans SeaTable pour optimiser la planification et la gestion d’équipe.'
 ---
 
 Un **tableau Kanban** peut être utile pour représenter des processus dynamiques avec différentes phases. Dans cette optique, il vous permet par exemple de visualiser les **flux de travail** et l **'avancement du projet**. Cela est particulièrement utile pour la planification de projets, le développement de produits ou la répartition des tâches **au sein de l'équipe**.

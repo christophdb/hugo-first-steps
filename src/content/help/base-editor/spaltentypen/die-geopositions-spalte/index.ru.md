@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/die-geopositions-spalte'
+url: '/ru/pomoshch/geopozitsionnaya-kolonka-seatable'
+aliases:
+    - '/ru/pomoshch/die-geopositions-spalte'
+seo:
+    title: 'Геопозиционная колонка в SeaTable – координаты и места'
+    description: 'С помощью геопозиционной колонки в SeaTable сохраняйте координаты или регионы: ввод вручную или быстрая выборка по карте и поиску.'
 ---
 
 С помощью колонки Геолокация можно собрать долготу и широту любого места в ваших таблицах. Кроме того, вы можете использовать функцию поиска, чтобы найти страну или регион и добавить его в качестве записи.

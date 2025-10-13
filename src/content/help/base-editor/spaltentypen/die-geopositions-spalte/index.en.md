@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/help/die-geopositions-spalte'
+url: '/help/geoposition-column-seatable'
+aliases:
+    - '/help/die-geopositions-spalte'
+seo:
+    title: 'Geoposition Column in SeaTable – locations and coordinates'
+    description: 'Use the Geoposition column in SeaTable to save latitude, longitude or countries. Add locations precisely with map view or smart autocomplete.'
 ---
 
 Using the Geolocation column, you can collect the longitude and latitude of any location in your tables. Additionally, you have the possibility to find a country or region using the search function and add it as an entry.

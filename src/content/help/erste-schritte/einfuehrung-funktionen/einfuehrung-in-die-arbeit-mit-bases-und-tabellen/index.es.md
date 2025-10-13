@@ -5,7 +5,12 @@ lastmod: '2023-03-24'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/es/ayuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+url: '/es/ayuda/introduccion-bases-tablas-seatable'
+aliases:
+    - '/es/ayuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+seo:
+    title: 'Introducción a Bases y Tablas en SeaTable – guía esencial'
+    description: 'Aprenda a gestionar Bases y Tablas en SeaTable. Pasos, vistas, tipos de columnas y consejos para estructuras y relaciones de datos eficientes.'
 ---
 
 Cada uno de los iconos cuadrados de su página de inicio representa una **Base**. Se trata de una base de datos, comparable a un libro de trabajo de una hoja de cálculo convencional, y puede contener varias **tablas** sobre distintos temas.

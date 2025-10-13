@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/pt/ajuda/die-geopositions-spalte'
+url: '/pt/ajuda/coluna-geoposicao-seatable'
+aliases:
+    - '/pt/ajuda/die-geopositions-spalte'
+seo:
+    title: 'Coluna de geoposição no SeaTable – coordenadas/lugares'
+    description: 'Cadastre coordenadas ou regiões na coluna de geoposição do SeaTable: insira lat-long manualmente ou use busca de países e regiões no mapa.'
 ---
 
 Com a ajuda da coluna Geolocation, pode recolher a longitude e latitude de qualquer local nas suas tabelas. Além disso, pode usar a função de pesquisa para encontrar um país ou região e adicioná-la como entrada.

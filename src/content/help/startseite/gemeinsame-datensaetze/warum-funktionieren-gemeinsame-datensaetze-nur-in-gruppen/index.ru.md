@@ -5,7 +5,12 @@ lastmod: '2022-12-15'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/pomoshch/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+url: '/ru/pomoshch/pochemu-obschie-datasedy-tolko-v-gruppakh'
+aliases:
+    - '/ru/pomoshch/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+seo:
+    title: 'Почему общие датасеты работают только в группах'
+    description: 'В SeaTable общие датасеты реализованы только в группах. Узнайте о технических причинах и способах обхода этого ограничения.'
 ---
 
 Общие наборы данных пока можно создавать **только** из представлений групповых баз. Это связано с **техническим ограничением**, которое может быть устранено в будущей версии SeaTable.

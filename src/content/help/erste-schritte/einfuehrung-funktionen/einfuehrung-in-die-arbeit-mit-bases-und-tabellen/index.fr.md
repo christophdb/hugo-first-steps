@@ -5,7 +5,12 @@ lastmod: '2023-03-24'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/fr/aide/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+url: '/fr/aide/introduction-bases-tableaux-seatable'
+aliases:
+    - '/fr/aide/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+seo:
+    title: 'Introduction aux bases et tableaux SeaTable – bonnes pratiques'
+    description: 'Découvrez comment structurer, relier et gérer bases et tableaux dans SeaTable. Typologie, vues et les étapes clés pour réussir vos projets.'
 ---
 
 Chacune des icônes carrées sur votre page d'accueil représente une **base**. Il s'agit d'une base de données, comparable à un classeur dans un tableur traditionnel, qui peut contenir plusieurs **tableaux** sur différents thèmes.

@@ -5,7 +5,12 @@ lastmod: '2022-12-15'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+url: '/fr/aide/pourquoi-partages-fonctionnent-groupes'
+aliases:
+    - '/fr/aide/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+seo:
+    title: 'Pourquoi les ensembles partagés fonctionnent en groupe'
+    description: 'Les ensembles de données partagés de SeaTable ne fonctionnent qu’en groupe. Explications techniques et astuces pour contourner cette limite.'
 ---
 
 Jusqu'à présent, les jeux de données communs ne peuvent être créés **qu'** à partir de vues de bases de groupes. Cela est dû à une **limitation technique** qui sera éventuellement levée dans une future version de SeaTable.

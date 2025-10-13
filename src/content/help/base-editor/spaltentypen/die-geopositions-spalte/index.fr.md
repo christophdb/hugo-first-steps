@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/fr/aide/die-geopositions-spalte'
+url: '/fr/aide/colonne-geoposition-seatable'
+aliases:
+    - '/fr/aide/die-geopositions-spalte'
+seo:
+    title: 'Colonne géoposition dans SeaTable – emplacements, pays, carte'
+    description: 'Utilisez la colonne géoposition pour saisir coordonnées, pays ou régions dans SeaTable grâce à la carte interactive et la recherche automatique.'
 ---
 
 La colonne de géolocalisation vous permet de collecter la latitude et la longitude de n'importe quel lieu dans vos tableaux. De plus, vous avez la possibilité de trouver un pays ou une région à l'aide de la fonction de recherche et de l'ajouter comme entrée.

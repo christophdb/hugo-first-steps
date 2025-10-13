@@ -5,7 +5,12 @@ lastmod: '2023-03-24'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/pt/ajuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+url: '/pt/ajuda/guia-bases-tabelas-seatable'
+aliases:
+    - '/pt/ajuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+seo:
+    title: 'Guia para Bases e Tabelas no SeaTable – primeiros passos'
+    description: 'Saiba como usar Bases e Tabelas no SeaTable: Estrutura, vínculos, tipos de coluna e visualizações para organizar projetos e processos.'
 ---
 
 Cada um dos ícones quadrados na sua página inicial representa uma **Base**. É uma base de dados, comparável a uma pasta de trabalho numa folha de cálculo convencional e pode conter várias **tabelas** sobre diferentes tópicos.

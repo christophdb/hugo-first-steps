@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/synchronisation-eines-gemeinsamen-datensatzes'
+url: '/fr/aide/synchroniser-ensemble-donnees-partage-seatable'
+aliases:
+    - '/fr/aide/synchronisation-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Synchroniser un ensemble de données partagé SeaTable'
+    description: 'Apprenez à synchroniser les ensembles de données partagés dans SeaTable : manuellement, automatiquement ou par forçage. Étapes et impacts expliqués.'
 ---
 
 Vous pouvez **synchroniser** chaque tableau que vous avez créé à partir d'un jeu de données commun. SeaTable compare alors les données du jeu de données commun avec les colonnes identiques du tableau. Les valeurs de ces colonnes sont **écrasées** si vous ou les membres de votre groupe avez **apporté des modifications au jeu de données commun** depuis la dernière synchronisation.

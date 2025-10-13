@@ -6,6 +6,9 @@ categories:
     - 'seatable-nutzen'
 author: 'cdb'
 url: '/de/hilfe/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+seo:
+    title: 'Einführung in Bases & Tabellen in SeaTable – Grundlagen'
+    description: 'Lernen Sie, wie Bases und Tabellen in SeaTable funktionieren: Basisstruktur, Verknüpfungen, Spaltentypen, Ansichten. Perfekt für Einsteiger!'
 ---
 
 Jedes der quadratischen Symbole auf Ihrer Startseite steht für eine **Base**. Sie ist eine Datenbank, vergleichbar mit einer Arbeitsmappe in einer herkömmlichen Tabellenkalkulation und kann mehrere **Tabellen** zu verschiedenen Themen enthalten.

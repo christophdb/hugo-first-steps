@@ -6,6 +6,9 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
 url: '/de/hilfe/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+seo:
+    title: 'Warum gemeinsame Datensätze in SeaTable nur in Gruppen gehen'
+    description: 'Gemeinsame Datensätze funktionieren aktuell ausschließlich in Gruppenbases. Erfahren Sie technische Hintergründe und wie sich Limits umgehen lassen.'
 ---
 
 Gemeinsame Datensätze können bisher **ausschließlich** aus Ansichten von Gruppenbases erstellt werden. Dies ist auf eine **technische Limitation** zurückzuführen, die gegebenenfalls in einer der zukünftigen Versionen von SeaTable aufgehoben wird.

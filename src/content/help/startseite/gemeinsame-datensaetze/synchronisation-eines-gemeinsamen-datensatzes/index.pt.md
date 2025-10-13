@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/pt/ajuda/synchronisation-eines-gemeinsamen-datensatzes'
+url: '/pt/ajuda/sincronizar-conjunto-dados-compartilhado'
+aliases:
+    - '/pt/ajuda/synchronisation-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Sincronizar conjunto compartilhado no SeaTable – manual'
+    description: 'Saiba como sincronizar conjuntos de dados compartilhados no SeaTable: opções automáticas, manuais ou forçadas. Passos, limites e efeitos completos.'
 ---
 
 Pode **sincronizar** qualquer tabela que tenha criado a partir de um conjunto de dados partilhado. O SeaTable sincroniza os dados do conjunto de dados partilhados com as colunas idênticas na tabela. Os valores nestas colunas são **substituídos** se você ou os membros do seu grupo tiverem feito **alterações no** conjunto de dados partilhado desde a última sincronização.

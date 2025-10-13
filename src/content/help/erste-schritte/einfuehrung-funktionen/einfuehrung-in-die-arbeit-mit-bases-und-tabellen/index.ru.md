@@ -5,7 +5,12 @@ lastmod: '2023-03-24'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/ru/pomoshch/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+url: '/ru/pomoshch/vvedenie-bazy-tablicy-seatable'
+aliases:
+    - '/ru/pomoshch/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
+seo:
+    title: 'Введение в базы и таблицы SeaTable – основы работы'
+    description: 'Узнайте, как создавать, связывать и просматривать базы и таблицы в SeaTable. Основы структуры, типов столбцов и работы с данными.'
 ---
 
 Каждый из квадратных значков на вашей домашней странице представляет собой **Базу**. Это база данных, сравнимая с рабочей книгой в обычной электронной таблице и может содержать несколько **таблиц** по различным темам.

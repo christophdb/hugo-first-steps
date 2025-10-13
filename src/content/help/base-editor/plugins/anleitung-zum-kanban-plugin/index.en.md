@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/anleitung-zum-kanban-plugin'
+url: '/help/kanban-plugin-guide'
+aliases:
+    - '/help/anleitung-zum-kanban-plugin'
+seo:
+    title: 'Kanban Plugin Guide for SeaTable – how to use boards effectively'
+    description: 'Discover how to configure and maximize the Kanban Plugin in SeaTable. Step-by-step instructions for managing team workflows and processes.'
 ---
 
 A **Kanban board** can be useful to represent dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. This is particularly helpful for project planning, product development or task distribution **in the team**.
