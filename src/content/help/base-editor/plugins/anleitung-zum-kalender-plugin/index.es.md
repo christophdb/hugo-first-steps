@@ -5,7 +5,12 @@ lastmod: '2023-08-14'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/es/ayuda/anleitung-zum-kalender-plugin'
+url: '/es/ayuda/guia-plugin-calendario-seatable'
+aliases:
+    - '/es/ayuda/anleitung-zum-kalender-plugin'
+seo:
+    title: 'Guía del plugin calendario SeaTable – diseño y funciones'
+    description: 'Aprende a ver y configurar el plugin de calendario en SeaTable: muestra eventos por año, mes, semana, agenda o día. Visualiza y organiza todo fácil.'
 ---
 
 El complemento de calendario muestra los datos de una tabla en **forma de calendario.** Puede obtener una visión general de diferentes **periodos de tiempo** (año, mes, semana, día).

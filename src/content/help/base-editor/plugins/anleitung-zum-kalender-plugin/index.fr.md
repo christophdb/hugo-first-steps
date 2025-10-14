@@ -5,7 +5,12 @@ lastmod: '2023-08-14'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/fr/aide/anleitung-zum-kalender-plugin'
+url: '/fr/aide/guide-plugin-calendrier-seatable'
+aliases:
+    - '/fr/aide/anleitung-zum-kalender-plugin'
+seo:
+    title: 'Guide du plugin calendrier SeaTable – affichage et réglages'
+    description: 'Découvrez comment utiliser le plugin calendrier dans SeaTable : visualisez vos rendez-vous par an, mois, semaine, agenda ou jour et personnalisez tout.'
 ---
 
 Le plug-in calendrier vous permet d'afficher les données d'un tableau sous forme **de calendrier**. Vous pouvez ainsi obtenir un aperçu de différentes **périodes** (année, mois, semaine, jour).

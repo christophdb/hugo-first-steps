@@ -5,7 +5,12 @@ lastmod: '2023-08-14'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/anleitung-zum-kalender-plugin'
+url: '/help/calendar-plugin-guide-seatable'
+aliases:
+    - '/help/anleitung-zum-kalender-plugin'
+seo:
+    title: 'SeaTable calendar plugin guide – views and configuration'
+    description: 'Discover how the SeaTable calendar plugin works: view appointments by year, month, week, agenda or daily planner, and set up all calendar options.'
 ---
 
 The calendar plugin shows you data from a table in **calendar form.** You can get an overview of different **time periods** (year, month, week, day).

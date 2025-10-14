@@ -5,7 +5,12 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/fr/aide/die-datei-spalte'
+url: '/fr/aide/colonne-fichiers-seatable'
+aliases:
+    - '/fr/aide/die-datei-spalte'
+seo:
+    title: 'Colonne de fichiers SeaTable – organiser et partager'
+    description: 'Utilisez la colonne de fichiers SeaTable pour télécharger, partager, renommer, supprimer et gérer tous vos documents depuis vos tableaux.'
 ---
 
 Dans une **colonne de fichiers**, vous pouvez enregistrer un ou plusieurs fichiers et compléter ainsi la ligne correspondante par des documents.

@@ -5,7 +5,12 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/pt/ajuda/die-datei-spalte'
+url: '/pt/ajuda/coluna-arquivos-seatable'
+aliases:
+    - '/pt/ajuda/die-datei-spalte'
+seo:
+    title: 'Coluna de arquivos SeaTable – gerencie documentos'
+    description: 'Saiba como usar a coluna de arquivos no SeaTable para carregar, compartilhar, renomear, excluir e organizar diversos documentos facilmente.'
 ---
 
 Numa **coluna de ficheiros** pode guardar um ou mais ficheiros e assim adicionar documentos à respectiva linha.

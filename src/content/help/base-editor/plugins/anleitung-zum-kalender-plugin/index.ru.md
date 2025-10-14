@@ -5,7 +5,12 @@ lastmod: '2023-08-14'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/anleitung-zum-kalender-plugin'
+url: '/ru/pomoshch/kalendarnyy-plugin-seatable'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-kalender-plugin'
+seo:
+    title: 'Календарный плагин SeaTable – форматы и настройки'
+    description: 'Узнайте, как пользоваться календарным плагином SeaTable: годовые, месячные, недельные и дневные обзоры, настройка событий в календаре.'
 ---
 
 Плагин календаря показывает данные из таблицы в **виде календаря**. Вы можете получить обзор различных **временных периодов** (год, месяц, неделя, день).

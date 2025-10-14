@@ -5,9 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'kgr'
-url: '/pt/ajuda/zeilen-kommentieren'
+url: '/pt/ajuda/comentar-linhas-seatable'
 aliases:
     - '/pt/ajuda/die-kommentarfunktion-in-seatable'
+    - '/pt/ajuda/zeilen-kommentieren'
+seo:
+    title: 'Comentários em linhas no SeaTable – diálogo e contexto'
+    description: 'Comente diretamente nas linhas da SeaTable, garantindo diálogo, registro e contexto para o trabalho em equipe. Inclua imagens e mencione colegas.'
 ---
 
 Pode comentar as filas no SeaTable, por exemplo, para dar feedback uns aos outros ou fazer perguntas dentro de uma equipa. Não deve conduzir essas **conversas** por e-mail ou em programas de chat, mas de preferência diretamente onde estão os dados, ou seja, na **fila** correspondente da tabela. Desta forma, mesmo semanas ou meses mais tarde, é claro como comunicou e qual é o estado atual sem ter de procurar durante muito tempo.

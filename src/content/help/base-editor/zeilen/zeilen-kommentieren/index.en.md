@@ -5,9 +5,13 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'kgr'
-url: '/help/zeilen-kommentieren'
+url: '/help/comment-rows-seatable'
 aliases:
     - '/help/die-kommentarfunktion-in-seatable'
+    - '/help/zeilen-kommentieren'
+seo:
+    title: 'Comment on rows in SeaTable – for feedback and teamwork'
+    description: 'Use comments in SeaTable rows to boost teamwork and keep discussions next to your data. Add images, mention colleagues, keep the context.'
 ---
 
 You can comment on rows in SeaTable, for example to give each other feedback or ask questions within a team. You should not conduct such **conversations** by e-mail or in chat programs, but preferably directly where the data is, namely in the corresponding **row** of the table. This way, even weeks and months later, it is clear how you communicated and what the current status is without having to search for a long time.

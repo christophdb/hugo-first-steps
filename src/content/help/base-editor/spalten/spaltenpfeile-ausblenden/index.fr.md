@@ -5,7 +5,12 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/fr/aide/spaltenpfeile-ausblenden'
+url: '/fr/aide/masquer-fleches-colonne-seatable'
+aliases:
+    - '/fr/aide/spaltenpfeile-ausblenden'
+seo:
+    title: 'Masquer les flèches de colonne – clarté dans SeaTable'
+    description: 'Découvrez comment masquer les flèches de colonne dans SeaTable pour des tableaux plus nets, sans menus visibles et mieux organisés.'
 ---
 
 Vous pouvez **masquer** les **flèches de colonne** qui ouvrent le **menu déroulant des options de colonne**. Cela a du sens, par exemple, si vous ne voulez plus modifier la **configuration terminée** des colonnes et que vous souhaitez avoir une vue plus claire.

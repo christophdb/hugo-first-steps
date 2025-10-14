@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
 url: '/de/hilfe/spaltenpfeile-ausblenden'
+seo:
+    title: 'Spaltenpfeile in SeaTable ausblenden – übersichtlicher arbeiten'
+    description: 'Lernen Sie, wie Sie in SeaTable die Spaltenpfeile ausblenden. Für klare Tabellenansichten und weniger Ablenkung bei stabiler Konfiguration.'
 ---
 
 Die **Spaltenpfeile**, mit denen Sie das **Drop-down-Menü der Spalten-Optionen** öffnen, können Sie **ausblenden**. Dies ergibt beispielsweise Sinn, wenn Sie die **fertige Konfiguration** der Spalten nicht mehr ändern und eine übersichtlichere Ansicht haben möchten.

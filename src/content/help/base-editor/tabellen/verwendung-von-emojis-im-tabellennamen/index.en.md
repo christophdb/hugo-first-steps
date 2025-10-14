@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/help/verwendung-von-emojis-im-tabellennamen'
+url: '/help/use-emojis-table-names-seatable'
+aliases:
+    - '/help/verwendung-von-emojis-im-tabellennamen'
+seo:
+    title: 'Use emojis in table names – more clarity in SeaTable'
+    description: 'Learn how to use emojis in your SeaTable table names for better clarity, easier navigation and a more visual overview in your database.'
 ---
 
 With each additional table you add to your base, the [table navigation]({{< relref "help/base-editor/tabellen/nach-einer-tabelle-suchen" >}}) in the base header becomes more confusing. To solve this problem, SeaTable supports the [hiding of tables]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) and the **use of emojis in the table name**.

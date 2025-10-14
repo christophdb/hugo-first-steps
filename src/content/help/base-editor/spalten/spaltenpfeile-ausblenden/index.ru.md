@@ -5,7 +5,12 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/ru/pomoshch/spaltenpfeile-ausblenden'
+url: '/ru/pomoshch/skryt-strelki-stolbcov-seatable'
+aliases:
+    - '/ru/pomoshch/spaltenpfeile-ausblenden'
+seo:
+    title: 'Скрыть стрелки столбцов в SeaTable – чистый интерфейс'
+    description: 'Узнайте, как скрыть стрелки столбцов в SeaTable. Упрощайте вид таблицы, убирайте меню и сохраняйте стабильную конфигурацию.'
 ---
 
 Вы можете **скрыть** **стрелки столбцов**, с помощью которых открывается **выпадающее меню параметров столбцов**. Это имеет смысл, например, если вы больше не хотите менять **готовую конфигурацию** колонн и хотите иметь более четкий вид.

@@ -8,6 +8,9 @@ author: 'kgr'
 url: '/de/hilfe/zeilen-kommentieren'
 aliases:
     - '/de/hilfe/die-kommentarfunktion-in-seatable'
+seo:
+    title: 'Zeilen kommentieren in SeaTable – Rückmeldung im Team geben'
+    description: 'Kommentieren Sie Zeilen in SeaTable direkt in der Tabelle – für transparente Rückmeldung, Team-Kommunikation und Nachvollziehbarkeit.'
 ---
 
 In SeaTable können Sie Zeilen kommentieren, um sich beispielsweise innerhalb eines Teams gegenseitig Rückmeldung zu geben oder Fragen zu stellen. Solche **Konversationen** sollten Sie nicht per E-Mail oder in Chatprogrammen führen, sondern am besten direkt da, wo die Daten sind, nämlich in der entsprechenden **Zeile** der Tabelle. So ist auch Wochen und Monate später ohne lange Suche klar, wie man sich verständigt hat und was der aktuelle Stand ist.

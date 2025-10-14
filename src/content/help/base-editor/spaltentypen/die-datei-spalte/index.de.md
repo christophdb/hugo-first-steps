@@ -6,6 +6,9 @@ categories:
     - 'dateien-und-bilder'
 author: 'vge'
 url: '/de/hilfe/die-datei-spalte'
+seo:
+    title: 'Datei-Spalte in SeaTable – Dateien verwalten & teilen'
+    description: 'Erfahren Sie, wie Sie mit der Datei-Spalte beliebige Dokumente hochladen, teilen, umbenennen, löschen und direkt in Ihrer Tabelle verwalten.'
 ---
 
 In einer **Datei-Spalte** können Sie eine oder mehrere Dateien speichern und so die jeweilige Zeile um Dokumente ergänzen.
