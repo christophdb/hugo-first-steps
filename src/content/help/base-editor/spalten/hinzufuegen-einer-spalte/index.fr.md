@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/fr/aide/hinzufuegen-einer-spalte'
+url: '/fr/aide/ajouter-colonne-seatable'
+aliases:
+    - '/fr/aide/hinzufuegen-einer-spalte'
+seo:
+    title: 'Ajouter une colonne SeaTable – guide et paramétrages'
+    description: 'Découvrez comment ajouter une colonne à une table SeaTable, sélectionner le type adéquat et configurer vos réglages en quelques clics.'
 ---
 
 Dans SeaTable, les tableaux sont composés de colonnes et de lignes. Dans une base, vous pouvez ajouter jusqu'à 500 colonnes à un tableau. Pour chaque colonne, vous avez la possibilité de choisir individuellement un **type de colonne** approprié en fonction du type de données.

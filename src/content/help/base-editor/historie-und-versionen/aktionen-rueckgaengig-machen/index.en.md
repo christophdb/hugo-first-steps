@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/help/aktionen-rueckgaengig-machen'
+url: '/help/undo-actions-seatable'
+aliases:
+  - '/help/aktionen-rueckgaengig-machen'
+seo:
+    title: 'Undo actions in SeaTable – keyboard and mouse methods'
+    description: 'Use CTRL+Z or the Undo button in SeaTable to revert recent changes. Find out which edits can be undone and when actions cannot be restored.'
+
 ---
 
 You can undo actions in SeaTable in two different ways. SeaTable supports both the well-known key combination {{< key "CTRL" >}}+{{< key "Z" >}} as well as a corresponding option by mouse click. Here you will learn how to undo your last work steps and entries:

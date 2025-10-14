@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/duplizieren-einer-spalte'
+url: '/ru/pomoshch/dublirovat-stolbets-seatable'
+aliases:
+    - '/ru/pomoshch/duplizieren-einer-spalte'
+seo:
+    title: 'Дублировать столбец SeaTable – копия структуры быстро'
+    description: 'Создайте копию столбца в SeaTable. Быстро переносите структуру, значения копируйте вручную – эффективное управление таблицей.'
+
 ---
 
 Конечно, вы можете дублировать колонки в SeaTable. Здесь вы можете узнать, как это сделать:

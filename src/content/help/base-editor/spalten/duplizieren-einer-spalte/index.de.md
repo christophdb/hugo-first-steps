@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/duplizieren-einer-spalte'
+seo:
+    title: 'Spalte in SeaTable duplizieren – Struktur schnell kopieren'
+    description: 'Duplizieren Sie sekundenschnell jede Spalte in SeaTable. Struktur wird übernommen, Werte separat per Copy-and-Paste einfügen und effizient modifizieren.'
+
 ---
 
 Selbstverständlich können Sie Spalten in SeaTable duplizieren. Hier erfahren Sie, wie das geht:

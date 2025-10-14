@@ -5,7 +5,13 @@ lastmod: '2023-01-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/pt/ajuda/sperren-einer-zeile'
+url: '/pt/ajuda/bloquear-linha-seatable'
+aliases:
+    - '/pt/ajuda/sperren-einer-zeile'
+seo:
+    title: 'Bloquear linha no SeaTable – controle e proteção fácil'
+    description: 'Bloqueie linhas no SeaTable manualmente ou automaticamente, proteja dados sensíveis, controle acesso e mantenha a integridade da tabela.'
+
 ---
 
 {{< required-version "Mais" "Empresa" >}}

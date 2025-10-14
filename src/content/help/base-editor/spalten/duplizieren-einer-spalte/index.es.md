@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/es/ayuda/duplizieren-einer-spalte'
+url: '/es/ayuda/duplicar-columna-seatable'
+aliases:
+    - '/es/ayuda/duplizieren-einer-spalte'
+seo:
+    title: 'Duplicar columna en SeaTable – rápida copia de estructura'
+    description: 'Duplica una columna rápida en SeaTable. Copia solo la estructura y transfiere valores por copy-paste para modificar tablas de forma eficiente.'
+
 ---
 
 Por supuesto, puede duplicar columnas en SeaTable. Aquí puede averiguar cómo hacerlo:

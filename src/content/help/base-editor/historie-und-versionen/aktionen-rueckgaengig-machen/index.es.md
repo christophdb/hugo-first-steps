@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/es/ayuda/aktionen-rueckgaengig-machen'
+url: '/es/ayuda/deshacer-acciones-seatable'
+aliases:
+  - '/es/ayuda/aktionen-rueckgaengig-machen'
+seo:
+    title: 'Deshacer acciones en SeaTable – atajo y botón rápido'
+    description: 'Utiliza CTRL+Z o la opción de deshacer en SeaTable para revertir cambios. Descubre qué modificaciones puedes deshacer y cuáles son permanentes.'
+
 ---
 
 Puede deshacer acciones en SeaTable de dos maneras diferentes. SeaTable admite tanto la conocida combinación de teclas {{< key "CTRL" >}}+{{< key "Z" >}} así como la opción correspondiente haciendo clic con el ratón. Aquí puedes averiguar cómo deshacer tus últimos pasos y entradas:

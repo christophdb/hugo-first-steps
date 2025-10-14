@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/fr/aide/aktionen-rueckgaengig-machen'
+url: '/fr/aide/annuler-action-seatable'
+aliases:
+  - '/fr/aide/aktionen-rueckgaengig-machen'
+seo:
+    title: 'Annuler une action dans SeaTable – raccourci et option'
+    description: 'Annulez facilement l’action précédente dans SeaTable par CTRL+Z ou bouton; suivez quels changements sont réversibles et ceux qui ne le sont pas.'
+
 ---
 
 Il existe deux façons d'annuler des actions dans SeaTable. SeaTable prend en charge à la fois la combinaison de touches bien connue {{< key "CTRL" >}}+{{< key "Z" >}} ainsi qu'une option correspondante en cliquant sur la souris. Vous apprendrez ici comment annuler vos dernières étapes de travail et vos dernières saisies :

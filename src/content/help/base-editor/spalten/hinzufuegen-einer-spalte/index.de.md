@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/hinzufuegen-einer-spalte'
+seo:
+    title: 'Spalte zu SeaTable-Tabelle hinzufügen – Schritt für Schritt'
+    description: 'Lernen Sie, wie Sie der Tabelle in SeaTable neue Spalten inklusive passendem Spaltentyp und individuellen Einstellungen hinzufügen.'
 ---
 
 Tabellen bestehen in SeaTable aus Spalten und Zeilen. Innerhalb einer Base können Sie einer Tabelle bis zu 500 Spalten hinzufügen. Für jede Spalte haben Sie individuell die Möglichkeit, je nach Datentyp einen geeigneten **Spaltentyp** auszuwählen.

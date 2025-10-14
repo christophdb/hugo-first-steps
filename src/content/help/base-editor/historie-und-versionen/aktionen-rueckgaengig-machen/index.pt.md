@@ -5,7 +5,13 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/pt/ajuda/aktionen-rueckgaengig-machen'
+url: '/pt/ajuda/desfazer-acao-seatable'
+aliases:
+  - '/pt/ajuda/aktionen-rueckgaengig-machen'
+seo:
+    title: 'Desfazer ação no SeaTable – combinação ou botão'
+    description: 'Use Ctrl+Z ou a opção Desfazer no SeaTable para reverter alterações. Descubra quais ações são reversíveis e como restaurar tarefas rapidamente.'
+
 ---
 
 Pode desfazer acções em SeaTable de duas maneiras diferentes. SeaTable suporta tanto a combinação chave familiar {{< key "CTRL" >}}+{{< key "Z" >}} bem como uma opção correspondente por clique do rato. Aqui pode descobrir como desfazer os seus últimos passos e entradas:

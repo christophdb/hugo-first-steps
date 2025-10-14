@@ -5,7 +5,13 @@ lastmod: '2023-01-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/sperren-einer-zeile'
+url: '/help/lock-row-seatable'
+aliases:
+    - '/help/sperren-einer-zeile'
+seo:
+    title: 'Lock rows in SeaTable – prevent unwanted changes easily'
+    description: 'Learn how to lock SeaTable rows manually or automatically. Protect sensitive data, manage permissions and keep your table edits safe and organized.'
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

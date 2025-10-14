@@ -6,6 +6,10 @@ categories:
     - 'historie-und-versionen'
 author: 'nsc2'
 url: '/de/hilfe/aktionen-rueckgaengig-machen'
+seo:
+    title: 'Aktionen in SeaTable rückgängig machen – STRG+Z & Optionen'
+    description: 'Setzen Sie die STRG+Z-Tastenkombination oder das Rückgängig-Icon ein, um letzte Änderungen an Base, Tabelle und Spalten direkt zurückzunehmen.'
+
 ---
 
 Aktionen können Sie in SeaTable auf zwei verschiedenen Wegen rückgängig machen. SeaTable unterstützt sowohl die bekannte Tastenkombination {{< key "STRG" >}}+{{< key "Z" >}} als auch eine entsprechende Option per Mausklick. Hier erfahren Sie, wie Sie Ihre letzten Arbeitsschritte und Eingaben rückgängig machen können:
