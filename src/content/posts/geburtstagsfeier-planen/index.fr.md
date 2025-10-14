@@ -7,8 +7,8 @@ url: '/fr/organiser-fete-anniversaire'
 aliases:
     - /fr/geburtstagsfeier-planen
 seo:
-    title:
-    description:
+    title: "Fête d’anniversaire – 3 étapes pour réussir"
+    description: "Dans ce guide, découvrez comment organiser en trois étapes simples une fête d'anniversaire inoubliable, joyeuse et pleine d'émotions"
 categories:
     - 'best-practice'
 tags:
