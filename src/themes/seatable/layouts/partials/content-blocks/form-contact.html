@@ -18,6 +18,10 @@
                     <div class="sm:col-span-2">
                         <label class="text-md block font-bold">{{ T "contact.concern.label" }}</label>
                         <div class="mt-2.5">
+                            <label
+                                ><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" required />Ich nutze die kostenlose SeaTable Version und brauche
+                                Hilfe</label
+                            ><br />
                             <label><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" required />{{ T "contact.concern.support" }}</label><br />
                             <label><input type="radio" name="type" value="sales" x-model="type" class="mx-2.5" required />{{ T "contact.concern.sales" }}</label><br />
                             <label><input type="radio" name="type" value="question" x-model="type" class="mx-2.5" required />{{ T "contact.concern.question" }}</label>
@@ -25,8 +29,8 @@
                     </div>
 
                     <div x-show="type == 'support'" class="sm:col-span-2">
-                        <p>{{ T "contact.support_forum" | safeHTML }}</p>
-                        <p class="mt-4">{{ T "contact.create_tickets_in_team_admin" | safeHTML }}</p>
+                        <p class="rounded border bg-orange-50 p-4">{{ T "contact.support_forum" | safeHTML }}</p>
+                        <p class="mb-4 mt-4 rounded border bg-orange-50 p-4">{{ T "contact.create_tickets_in_team_admin" | safeHTML }}</p>
                     </div>
 
                     <div>
@@ -88,7 +92,10 @@
                     <div x-show="type == 'sales'" class="sm:col-span-2">
                         <label for="org_type" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.org_type.label" }}</label>
                         <div class="mt-2.5">
-                            <select id="org_type" x-model="orgType">
+                            <select
+                                id="org_type"
+                                x-model="orgType"
+                                class="block w-full rounded-md border bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                                 <option value="business">{{ T "contact.org_type.business" }}</option>
                                 <option value="education">{{ T "contact.org_type.education" }}</option>
                                 <option value="research">{{ T "contact.org_type.research" }}</option>
@@ -164,7 +171,10 @@
                     <div x-show="type == 'sales'">
                         <label for="preferredLanguage" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.preferred_language" }}</label>
                         <div class="mt-2.5">
-                            <select id="preferredLanguage" x-model="preferredLanguage">
+                            <select
+                                id="preferredLanguage"
+                                x-model="preferredLanguage"
+                                class="block w-full rounded-md border bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                                 <option value="de">{{ T "contact.german" }}</option>
                                 <option value="en">{{ T "contact.english" }}</option>
                                 <option value="fr">{{ T "contact.french" }}</option>
@@ -177,7 +187,10 @@
                     <div x-show="type == 'support' || type == 'question'" class="sm:col-span-2">
                         <label for="reason" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.reason.label" }}</label>
                         <div class="mt-2.5">
-                            <select id="reason" x-model="reason">
+                            <select
+                                id="reason"
+                                x-model="reason"
+                                class="block w-full rounded-md border bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                                 {{/* Needs x-if to completely hide the elements from the DOM */}}
                                 <template x-if="type == 'support'"><option value="access-to-seatable">{{ T "contact.reason.access_to_seatable" }}</option></template>
                                 <template x-if="type == 'support'"><option value="team-admin-area">{{ T "contact.reason.team_admin_area" }}</option></template>
