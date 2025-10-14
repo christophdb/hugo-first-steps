@@ -251,7 +251,7 @@ Erfolgreiches Change Management hängt maßgeblich von drei Faktoren ab:
     
 
 {{< faq "Wie lässt sich die Veränderungsbereitschaft von Mitarbeitern im Change-Management-Prozess erhöhen?" >}}
-Grundsätzlich sollten Sie zunächst davon ausgehen, dass Ihre Mitarbeiter bereit zu Veränderungen sind. Denn im Changemanagement geht es nicht darum, Widerstände oder Bedenken der Mitarbeiter zu brechen. Wenn Sie in Ihrem Business einen Change Management Prozess als Machtspiel aufziehen, haben Sie bereits verloren. Denken Sie an das 7 Phasen-Modell nach Streich. Wenn Sie mit Ihren Mitarbeitern auf Augenhöhe kommunizieren und sie einbinden, werden sie Veränderungen positiver begegnen und schneller aktzeptieren.
+Grundsätzlich sollten Sie zunächst davon ausgehen, dass Ihre Mitarbeiter bereit zu Veränderungen sind. Denn im Changemanagement geht es nicht darum, Widerstände oder Bedenken der Mitarbeiter zu brechen. Wenn Sie in Ihrem Business einen Change Management Prozess als Machtspiel aufziehen, haben Sie bereits verloren. Denken Sie an das 7 Phasen-Modell nach Streich. Wenn Sie mit Ihren Mitarbeitern auf Augenhöhe kommunizieren und sie einbinden, werden sie Veränderungen positiver begegnen und schneller akzeptieren.
 {{< /faq >}}
 
 {{< faq "Was sind die größten Stolpersteine im Veränderungsmanagement?" >}}
