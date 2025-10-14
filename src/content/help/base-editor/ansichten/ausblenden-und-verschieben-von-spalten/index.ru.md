@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/ru/pomoshch/ausblenden-und-verschieben-von-spalten'
+url: '/ru/pomoshch/skryt-peremeshchat-stolbtsy-seatable'
+aliases:
+    - '/ru/pomoshch/ausblenden-und-verschieben-von-spalten'
+seo:
+    title: 'Скрыть и перемещать столбцы в SeaTable – чистый вид'
+    description: 'Скрывайте лишние столбцы и меняйте порядок столбцов в SeaTable простым перетаскиванием. Поддерживайте порядок в таблице легко.'
 ---
 
 Чем больше столбцов вы создаете для ввода данных, тем более запутанной становится ваша таблица. Чтобы всегда иметь представление о своих данных, можно скрыть отдельные столбцы таблицы, которые в данный момент не нужны или неактуальны. Кроме того, вы можете настроить порядок колонок по своему усмотрению с помощью перетаскивания.

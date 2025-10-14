@@ -6,6 +6,9 @@ categories:
   - "grundlagen-von-ansichten"
 author: "vge"
 url: "/de/hilfe/das-drucken-einer-ansicht"
+seo:
+    title: 'Ansicht in SeaTable drucken – Optionen und Anleitung'
+    description: 'Drucken Sie jede Ansicht in SeaTable direkt aus der Tabellenansicht. Wählen Sie Format, Skalierung und weitere erweiterte Druckoptionen individuell.'
 ---
 
 Verschiedene **Ansichten** können das Arbeiten mit Tabellen erleichtern, die sehr viele Informationen enthalten. Diese Ansichten können Sie zudem **ausdrucken**.

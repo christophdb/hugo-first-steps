@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/pt/ajuda/einladungs-link-erklaert'
+url: '/pt/ajuda/link-convite-seatable'
+aliases:
+    - '/pt/ajuda/einladungs-link-erklaert'
+seo:
+    title: 'Criar link de convite no SeaTable – acesso seguro e prático'
+    description: 'Compartilhe sua base no SeaTable via link de convite. Defina permissões, senha e validade para colaboração prática e proteção máxima de seus dados.'
 ---
 
 Usando o **link de convite**, pode partilhar bases com outra pessoa no SeaTable sem que essa pessoa se torne parte da sua equipa.

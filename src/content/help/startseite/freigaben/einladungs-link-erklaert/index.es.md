@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/es/ayuda/einladungs-link-erklaert'
+url: '/es/ayuda/enlace-invitacion-seatable'
+aliases:
+    - '/es/ayuda/einladungs-link-erklaert'
+seo:
+    title: 'Crear enlace de invitación en SeaTable – colaboración segura'
+    description: 'Crea un enlace de invitación para tu base en SeaTable y comparte con acceso de lectura o escritura y opciones de seguridad: contraseña y caducidad.'
 ---
 
 Utilizando el **enlace de invitación**, puede compartir bases con otra persona en SeaTable sin que esa persona pase a formar parte de su equipo.

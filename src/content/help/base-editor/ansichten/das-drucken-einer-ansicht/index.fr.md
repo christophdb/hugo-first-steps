@@ -5,7 +5,12 @@ lastmod: '2023-06-28'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/fr/aide/das-drucken-einer-ansicht'
+url: '/fr/aide/imprimer-vue-seatable'
+aliases:
+    - '/fr/aide/das-drucken-einer-ansicht'
+seo:
+    title: 'Imprimer une vue SeaTable – réglages et tutoriel rapide'
+    description: 'Imprimez vos vues SeaTable directement depuis la table. Sélectionnez format, disposition et options avancées pour personnaliser et optimiser l’impression.'
 ---
 
 Différentes **vues** peuvent faciliter le travail avec des tableaux qui contiennent beaucoup d'informations. Ces vues peuvent en outre être **imprimées**.

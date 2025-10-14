@@ -5,7 +5,12 @@ lastmod: '2023-04-18'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/es/ayuda/das-duplizieren-von-ansichten'
+url: '/es/ayuda/duplicar-vistas-seatable'
+aliases:
+    - '/es/ayuda/das-duplizieren-von-ansichten'
+seo:
+    title: 'Duplicar vistas en SeaTable – copia y personaliza'
+    description: 'Haz una copia exacta de la vista SeaTable, incluyendo todos los filtros y ajustes, y adapta las vistas duplicadas para distintos proyectos y equipos.'
 ---
 
 Para crear una copia exacta de una vista y aplicar todos los ajustes, puede **duplicar** la vista. A continuación, puede ajustar la configuración de la vista duplicada según sea necesario y [cambiar el nombre de]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) la vista.

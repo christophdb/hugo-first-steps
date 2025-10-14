@@ -6,6 +6,9 @@ categories:
   - "freigaben"
 author: "vge"
 url: "/de/hilfe/einladungs-link-erklaert"
+seo:
+    title: 'Einladungs-Link in SeaTable erstellen – sicher teilen'
+    description: 'Erstellen Sie einen Einladungs-Link, um Ihre Base in SeaTable mit Leserechten oder Schreibrechten sicher zu teilen. Passwort und Ablaufdatum möglich.'
 ---
 
 Mithilfe des **Einladungs-Links** können Sie Bases mit einer anderen Person in SeaTable teilen, ohne dass diese Person Teil Ihres Teams wird.

@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/help/ausblenden-und-verschieben-von-spalten'
+url: '/help/hide-move-columns-seatable'
+aliases:
+    - '/help/ausblenden-und-verschieben-von-spalten'
+seo:
+    title: 'Hide & move columns in SeaTable – structure your table'
+    description: 'Hide unnecessary columns and rearrange column order via drag-and-drop in SeaTable. Keep your view clear and your table perfectly organized.'
 ---
 
 The more columns you create to enter data, the more confusing your table becomes. To ensure that you always have an overview of your data, you can hide individual table columns that are not currently needed or are irrelevant. In addition, you can adjust the order of the columns as you wish using drag-and-drop.

@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
 url: '/de/hilfe/das-duplizieren-von-ansichten'
+seo:
+    title: 'Ansichten in SeaTable duplizieren – exakt kopieren'
+    description: 'Erstellen Sie eine exakte Kopie Ihrer SeaTable Ansicht mit allen Einstellungen und passen Sie die duplizierte Ansicht flexibel für vielfältige Projekte an.'
 ---
 
 Um eine exakte Kopie von einer Ansicht zu erstellen und sämtliche Einstellungen zu übernehmen, können Sie die Ansicht **duplizieren**. Anschließend können Sie die Einstellungen der duplizierten Ansicht nach Bedarf anpassen und die Ansicht [umbenennen]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}).

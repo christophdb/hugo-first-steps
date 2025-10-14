@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/help/externer-link-erklaert'
+url: '/help/external-link-explained-seatable'
+aliases:
+    - '/help/externer-link-erklaert'
+seo:
+    title: 'Create an external link for your SeaTable base – embed too'
+    description: 'Give public read access to your SeaTable base with an external link. Learn how to share, set protection and embed the link on your website.'
 ---
 
 Do you have data that you want to share with a larger number of people or even make publicly available? For these use cases, **external links** are just the thing!

@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/pomoshch/einladungs-link-erklaert'
+url: '/ru/pomoshch/priglasitelnaya-ssylka-seatable'
+aliases:
+    - '/ru/pomoshch/einladungs-link-erklaert'
+seo:
+    title: 'Пригласительная ссылка SeaTable – доступ и безопасность'
+    description: 'Создайте пригласительную ссылку в SeaTable для безопасного доступа. Настройте права, пароль и срок действия. Удобно сотрудничайте с новыми пользователями.'
 ---
 
 Используя **ссылку приглашения**, вы можете поделиться базами с другим человеком в SeaTable без того, чтобы этот человек стал частью вашей команды.
