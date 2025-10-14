@@ -11,7 +11,7 @@ url: '/es/fiesta-navidad'
 aliases:
     - /es/weihnachtsfeier
 seo:
-    title: "Fiesta de Navidad 2025 – Ideas de evento único"
+    title: "Fiesta de Navidad – Ideas de evento único"
     description: "Con estas ideas variadas, su fiesta navideña será un evento empresarial inolvidable con sus colegas"
 ---
 

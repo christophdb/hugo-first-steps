@@ -11,7 +11,7 @@ url: '/pt/festa-natal'
 aliases:
     - /pt/weihnachtsfeier
 seo:
-    title: "Festa de Natal 2025 –  Ideias corporativas"
+    title: "Festa de Natal –  Ideias corporativas"
     description: "Com estas ideias variadas, sua festa de Natal será um evento empresarial inesquecível com seus colegas"
 ---
 

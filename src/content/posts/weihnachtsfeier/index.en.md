@@ -11,7 +11,7 @@ url: '/christmas-party'
 aliases:
     - /weihnachtsfeier/
 seo:
-    title: 'Christmas Party 2025 – Creative Corporate Ideas'
+    title: 'Christmas Party – Creative Corporate Ideas'
     description: 'With these varied ideas, your Christmas party will be an unforgettable company event with colleagues'
 ---
 

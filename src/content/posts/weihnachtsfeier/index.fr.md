@@ -11,7 +11,7 @@ url: '/fr/fete-noel'
 aliases:
     - /fr/weihnachtsfeier
 seo:
-    title: "Fête de Noël 2025 – Idées d’événement d’entreprise"
+    title: "Fête de Noël – Idées d’événement d’entreprise"
     description: "Avec ces idées variées, votre fête de Noël sera un événement d'entreprise inoubliable avec vos collègues"
 ---
 
