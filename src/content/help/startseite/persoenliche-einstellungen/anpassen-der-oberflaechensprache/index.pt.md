@@ -22,17 +22,17 @@ A **língua de interface** é a língua na qual o SeaTable comunica consigo e na
 
 ## Personalizar a linguagem da interface
 
-1. Mudar para a página **inicial** da SeaTable.
-2. Clique na **imagem do** seu **avatar** no canto superior direito para abrir o menu drop-down.
+1. Mudar para a **página inicial** da SeaTable.
+2. Clique na **imagem do seu avatar** no canto superior direito para abrir o menu drop-down.
 
 ![Abrir configurações pessoais através do menu drop-down](images/Persoenliche-Einstellungen-ueber-Drop-down-Menue-oeffnen.png)
 
-4. Clique em **Personal Settings (Definições pessoais**).
-5. Na secção "Idioma", seleccione qualquer **idioma** no menu pendente.
+3. Clique em **Personal Settings (Definições pessoais)**.
+4. Na secção "Idioma", seleccione qualquer **idioma** no menu pendente.
 
-![Selecção do idioma da interface a partir do menu pendente](images/select-language.png)
+![Selecção do idioma da interface a partir do menu pendente](images/interface-language.png)
 
-7. A língua seleccionada é automaticamente adoptada como a nova **língua de interface**.
+5. A língua seleccionada é automaticamente adoptada como a nova **língua de interface**.
 
 ## Idiomas disponíveis
 
@@ -40,6 +40,8 @@ As seguintes línguas de interface estão actualmente disponíveis:
 
 - Alemão
 - Inglês
+- Espanhol
 - Francês
 - Russo
+- Português
 - Chinês

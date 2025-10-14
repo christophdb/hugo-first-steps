@@ -22,17 +22,17 @@ El **idioma de la interfaz** es el idioma en el que SeaTable se comunica con ust
 
 ## Personalizar el idioma de la interfaz
 
-1. Cambie a la página de **inicio** de SeaTable.
-2. Haz clic en la **imagen de** tu **avatar** en la esquina superior derecha para abrir el menú desplegable.
+1. Cambie a la **página de inicio** de SeaTable.
+2. Haga clic en la **imagen de su avatar** en la esquina superior derecha para abrir el menú desplegable.
 
 ![Abrir la configuración personal a través del menú desplegable](images/Persoenliche-Einstellungen-ueber-Drop-down-Menue-oeffnen.png)
 
-4. Haga clic en **Configuración personal**.
-5. En la sección "Idioma", seleccione cualquier **idioma** del menú desplegable.
+3. Haga clic en **Configuración personal**.
+4. En la sección "Idioma", seleccione cualquier **idioma** del menú desplegable.
 
-![Seleccionar el idioma de la interfaz en el menú desplegable](images/select-language.png)
+![Seleccionar el idioma de la interfaz en el menú desplegable](images/interface-language.png)
 
-7. El idioma seleccionado se adopta automáticamente como nuevo **idioma de interfaz**.
+5. El idioma seleccionado se adopta automáticamente como nuevo **idioma de interfaz**.
 
 ## Idiomas disponibles
 
@@ -40,6 +40,8 @@ Actualmente están disponibles los siguientes idiomas de interfaz:
 
 - Alemán
 - Inglés
+- Español
 - Francés
 - Ruso
+- Portugués
 - Chino

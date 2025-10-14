@@ -10,7 +10,7 @@ aliases:
     - '/help/anpassen-der-oberflaechensprache'
 seo:
     title: 'Change SeaTable Interface Language: Quick Guide'
-    description: 'Switch the interface language via personal settings—German, English, Spanish, French, Portuguese, Russian, Chinese available.'
+    description: 'Switch the interface language via personal settings — German, English, Spanish, French, Portuguese, Russian, Chinese available.'
 
 ---
 
@@ -22,17 +22,17 @@ The **interface language** is the language in which SeaTable communicates with y
 
 ## Customizing the interface language
 
-1. Switch to the SeaTable **home** page.
+1. Switch to the SeaTable **home page**.
 2. Click your **avatar image** in the upper right corner to open the drop-down menu.
 
 ![Open personal settings via drop-down menu](images/Persoenliche-Einstellungen-ueber-Drop-down-Menue-oeffnen.png)
 
-4. Click **Personal Settings**.
-5. In the Language section, select any **language** from the drop-down menu.
+3. Click **Personal Settings**.
+4. In the Language section, select any **language** from the drop-down menu.
 
-![Selecting the interface language from the drop-down menu](images/select-language.png)
+![Selecting the interface language from the drop-down menu](images/interface-language.png)
 
-7. The selected language is automatically adopted as the new **interface language**.
+5. The selected language is automatically adopted as the new **interface language**.
 
 ## Available languages
 
@@ -40,6 +40,8 @@ Currently, the following interface languages are available for selection:
 
 - German
 - English
+- Spanish
 - French
 - Russian
+- Portuguese
 - Chinese
