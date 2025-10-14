@@ -5,7 +5,12 @@ lastmod: '2023-06-28'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/das-drucken-einer-ansicht'
+url: '/help/print-view-seatable'
+aliases:
+    - '/help/das-drucken-einer-ansicht'
+seo:
+    title: 'Print a view in SeaTable – settings and quick guide'
+    description: 'Print any SeaTable view straight from your table. Choose paper size, layout and advanced print options for perfect results and user-specific settings.'
 ---
 
 Different **views** can facilitate working with tables that contain a lot of information. You can also **print** these views.

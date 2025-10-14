@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'vge'
 url: '/de/hilfe/externer-link-erklaert'
+seo:
+    title: 'Externen Link für SeaTable Base erstellen – und einbetten'
+    description: 'Erstellen Sie einen externen Link für Ihre SeaTable Base und teilen Sie Daten öffentlich, passwortgeschützt oder mit Ablaufdatum. So funktioniert es.'
 ---
 
 Sie haben Daten, die Sie mit einer größeren Anzahl an Personen teilen oder sogar öffentlich zugänglich machen wollen? Für diese Anwendungsfälle sind **externe Links** genau das Richtige!

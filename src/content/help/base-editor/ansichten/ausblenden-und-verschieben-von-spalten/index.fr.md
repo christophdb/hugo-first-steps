@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/fr/aide/ausblenden-und-verschieben-von-spalten'
+url: '/fr/aide/masquer-deplacer-colonnes-seatable'
+aliases:
+    - '/fr/aide/ausblenden-und-verschieben-von-spalten'
+seo:
+    title: 'Masquer/déplacer colonnes dans SeaTable – gestion facile'
+    description: 'Masquez les colonnes inutiles et modifiez l’ordre dans SeaTable par glisser-déposer. Simplifiez vos vues et gardez une table ordonnée facilement.'
 ---
 
 Plus vous créez de colonnes pour saisir des données, plus votre tableau devient confus. Pour que vous puissiez toujours avoir une vue d'ensemble de vos données, vous pouvez masquer certaines colonnes du tableau qui ne sont actuellement pas nécessaires ou pas pertinentes. En outre, vous pouvez adapter l'ordre des colonnes à votre gré par glisser-déposer.

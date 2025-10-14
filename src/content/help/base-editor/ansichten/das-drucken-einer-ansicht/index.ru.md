@@ -5,7 +5,12 @@ lastmod: '2023-06-28'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/das-drucken-einer-ansicht'
+url: '/ru/pomoshch/pechat-predstavleniya-seatable'
+aliases:
+    - '/ru/pomoshch/das-drucken-einer-ansicht'
+seo:
+    title: 'Печать представления SeaTable – параметры и инструкция'
+    description: 'Печать любой таблицы SeaTable прямо из представления. Выберите размер бумаги, параметры, масштаб и дополнительные опции для качественной печати.'
 ---
 
 Различные **представления** могут облегчить работу с таблицами, содержащими большое количество информации. Вы также можете **распечатать** эти виды.

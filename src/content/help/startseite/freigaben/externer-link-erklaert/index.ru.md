@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/pomoshch/externer-link-erklaert'
+url: '/ru/pomoshch/vneshnaya-ssylka-baza-seatable'
+aliases:
+    - '/ru/pomoshch/externer-link-erklaert'
+seo:
+    title: 'Внешняя ссылка для базы SeaTable – делиться и встраивать'
+    description: 'Создайте внешнюю ссылку для базы SeaTable. Открытый или защищённый доступ, срок действия, интеграция на сайте — подробная инструкция и советы.'
 ---
 
 У вас есть данные, которыми вы хотите поделиться с большим количеством людей или даже сделать их общедоступными? Для таких случаев **внешние ссылки** - то, что нужно!

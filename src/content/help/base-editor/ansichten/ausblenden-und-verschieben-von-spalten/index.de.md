@@ -6,6 +6,9 @@ categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
 url: '/de/hilfe/ausblenden-und-verschieben-von-spalten'
+seo:
+    title: 'Spalten ausblenden & verschieben – Übersicht in SeaTable'
+    description: 'Blenden Sie einzelne Spalten nach Bedarf aus und ordnen Sie sie per Drag-and-Drop neu an. Mit diesen Optionen behalten Sie Ihre Tabelle stets im Blick.'
 ---
 
 Je mehr Spalten Sie anlegen, um Daten zu erfassen, desto unübersichtlicher wird Ihre Tabelle. Damit Sie stets den Überblick über Ihre Daten behalten, können Sie einzelne aktuell nicht benötigte oder irrelevante Tabellenspalten ausblenden. Darüber hinaus können Sie die Reihenfolge der Spalten per Drag-and-Drop beliebig anpassen.

@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/help/einladungs-link-erklaert'
+url: '/help/invitation-link-explained-seatable'
+aliases:
+    - '/help/einladungs-link-erklaert'
+seo:
+    title: 'Create invitation link in SeaTable – secure shared access'
+    description: 'Set up an invitation link in SeaTable to securely share your base with read or write access, password and expiration. Collaborate with new users easily.'
 ---
 
 Using the **invitation link**, you can share bases with another person in SeaTable without that person becoming part of your team.

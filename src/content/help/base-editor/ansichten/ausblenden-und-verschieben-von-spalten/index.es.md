@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/es/ayuda/ausblenden-und-verschieben-von-spalten'
+url: '/es/ayuda/ocultar-mover-columnas-seatable'
+aliases:
+    - '/es/ayuda/ausblenden-und-verschieben-von-spalten'
+seo:
+    title: 'Ocultar y mover columnas SeaTable – organiza la tabla'
+    description: 'Oculta columnas no relevantes y cambia su orden con drag-and-drop en SeaTable. Mantén tu vista limpia y tus datos siempre organizados.'
 ---
 
 Cuantas más columnas cree para introducir datos, más confusa será su tabla. Para mantener una visión general de sus datos en todo momento, puede ocultar columnas individuales de la tabla que actualmente no sean necesarias o irrelevantes. Además, puede ajustar el orden de las columnas como desee mediante la función de arrastrar y soltar.

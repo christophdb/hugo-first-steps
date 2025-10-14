@@ -5,7 +5,12 @@ lastmod: '2023-04-18'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/das-duplizieren-von-ansichten'
+url: '/ru/pomoshch/dublirovat-predstavleniya-seatable'
+aliases:
+    - '/ru/pomoshch/das-duplizieren-von-ansichten'
+seo:
+    title: 'Дублировать представления SeaTable – копировать быстро'
+    description: 'Создавайте копии представлений SeaTable с настройками. Легко адаптировать под разные задачи, доступ к приватным видам для персональной работы.'
 ---
 
 Чтобы создать точную копию вида и применить все настройки, можно **дублировать** вид. Затем можно настроить параметры дублированного представления по мере необходимости и [переименовать]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) представление.

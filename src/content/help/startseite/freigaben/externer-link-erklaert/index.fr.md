@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/fr/aide/externer-link-erklaert'
+url: '/fr/aide/lien-externe-base-seatable'
+aliases:
+    - '/fr/aide/externer-link-erklaert'
+seo:
+    title: 'Créer un lien externe pour base SeaTable – intégration web'
+    description: 'Rendez votre base SeaTable publique avec un lien externe : lecture, contrôle, sécurité et intégration dans votre site. Toutes les étapes utiles ici.'
 ---
 
 Vous avez des données que vous souhaitez partager avec un grand nombre de personnes ou même rendre publiques ? Pour ces cas d'application, les **liens externes** sont exactement ce qu'il vous faut !

@@ -5,7 +5,12 @@ lastmod: '2023-04-18'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/das-duplizieren-von-ansichten'
+url: '/help/duplicate-views-seatable'
+aliases:
+    - '/help/das-duplizieren-von-ansichten'
+seo:
+    title: 'Duplicate views in SeaTable – copy settings instantly'
+    description: 'Duplicate any SeaTable view easily with all its settings. Adapt the duplicated view for new projects. Private views for personalized data access.'
 ---
 
 To create an exact copy of a view and apply all its settings, you can **duplicate** the view. You can then adjust the settings of the duplicated view as needed and [rename]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) the view.
