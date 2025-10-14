@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/fr/aide/speichern-der-aktuellen-base-als-snapshot'
+url: '/fr/aide/enregistrer-base-snapshot-seatable'
+aliases:
+    - '/fr/aide/speichern-der-aktuellen-base-als-snapshot'
+seo:
+    title: 'Enregistrer une base SeaTable en snapshot – sauvegarde FAQ'
+    description: 'Sauvegardez votre base SeaTable avec un snapshot pour restaurer les versions précédentes. Snapshots quotidiens automatiques et création manuelle facile.'
 ---
 
 Dans SeaTable, vous pouvez à tout moment enregistrer une base sous forme d'**instantané**. Les snapshots font partie de l'ADN de SeaTable : depuis la première version, vous pouvez **prendre des instantanés** de l'état d'une base et les restaurer ultérieurement. Les snapshots sont notamment utiles pour sauvegarder la version actuelle d'une base avant d'y apporter des modifications importantes.

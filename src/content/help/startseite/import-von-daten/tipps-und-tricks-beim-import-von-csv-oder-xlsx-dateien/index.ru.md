@@ -5,7 +5,12 @@ lastmod: '2023-01-19'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/pomoshch/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien'
+url: '/ru/pomoshch/sovety-po-importu-csv-xlsx-seatable'
+aliases:
+    - '/ru/pomoshch/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien'
+seo:
+    title: 'Советы по импорту CSV/XLSX в SeaTable – без ошибок'
+    description: 'Как правильно импортировать данные в SeaTable: подберите структуру, разделите файлы, проверьте качество, убедитесь в полном успехе загрузки.'
 ---
 
 В SeaTable у вас есть возможность **импортировать** в базы как **CSV**, так и **файлы Excel (.xlsx)**. Для того чтобы при импорте данных все прошло по плану и данные не были потеряны, мы обобщили для вас самые важные **советы и рекомендации** по импорту файлов CSV или XLSX. Если вы будете следовать этим советам и рекомендациям, вы успешно импортируете свои данные в SeaTable:

@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/pt/ajuda/speichern-der-aktuellen-base-als-snapshot'
+url: '/pt/ajuda/salvar-base-snapshot-seatable'
+aliases:
+    - '/pt/ajuda/speichern-der-aktuellen-base-als-snapshot'
+seo:
+    title: 'Salvar base SeaTable como snapshot – backups automáticos'
+    description: 'Saiba como salvar um snapshot da sua base SeaTable e restaurar versões passadas. Snapshots diários automáticos e manuais para segurança garantida.'
 ---
 
 Pode guardar uma base no SeaTable como um **instantâneo** a qualquer momento. Os instantâneos fazem parte do ADN do SeaTable: desde a primeira versão, é possível criar **instantâneos** do estado de uma base e restaurá-los mais tarde. Os instantâneos são úteis, por exemplo, se quiser guardar a versão atual de uma base antes de fazer alterações extensas.

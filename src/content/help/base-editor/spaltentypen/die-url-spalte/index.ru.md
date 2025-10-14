@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'vge'
-url: '/ru/pomoshch/die-url-spalte'
+url: '/ru/pomoshch/url-stolbets-seatable'
+aliases:
+    - '/ru/pomoshch/die-url-spalte'
+seo:
+    title: 'Столбец URL в SeaTable – ссылки и IP-адреса'
+    description: 'В столбец URL SeaTable добавляйте интернет‑адреса и IP для быстрых переходов. Автоматические префиксы, удобное размещение, пошаговая инструкция.'
 ---
 
 **Колонки URL** интерпретируют введенную информацию как ресурс в Интернете или локальной сети и позволяют вызывать **ссылки** непосредственно щелчком мыши. SeaTable автоматически добавляет http(s):// в качестве префикса к URL, если вы его не ввели.

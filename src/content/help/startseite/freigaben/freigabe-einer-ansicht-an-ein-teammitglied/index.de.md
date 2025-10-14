@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'nsc2'
 url: '/de/hilfe/freigabe-einer-ansicht-an-ein-teammitglied'
+seo:
+    title: 'Ansicht an Teammitglied in SeaTable freigeben – Anleitung'
+    description: 'Teilen Sie individuelle Ansichten Ihrer SeaTable Tabellen an Teammitglieder mit Lese- oder Bearbeitungsrechten. Übersicht über Freigabe und Unterschiede.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

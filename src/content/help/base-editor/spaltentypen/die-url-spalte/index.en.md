@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'vge'
-url: '/help/die-url-spalte'
+url: '/help/url-column-seatable'
+aliases:
+    - '/help/die-url-spalte'
+seo:
+    title: 'URL column in SeaTable – insert links and IP addresses'
+    description: 'Add clickable website links or IP addresses in SeaTable’s URL column for instant access. Prefixes are set automatically, simple step-by-step.'
 ---
 
 **URL columns** interpret the entered information as a resource on the Internet or local network and allow you to call **links** directly with a click. SeaTable automatically adds http(s):// as a prefix to the URL if you have not entered it.

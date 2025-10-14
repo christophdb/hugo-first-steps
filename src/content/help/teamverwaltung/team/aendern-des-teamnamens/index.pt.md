@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/aendern-des-teamnamens'
+url: '/pt/ajuda/alterar-nome-equipe-seatable'
+aliases:
+    - '/pt/ajuda/aendern-des-teamnamens'
+seo:
+    title: 'Alterar nome da equipe no SeaTable – guia administrador'
+    description: 'Veja como mudar o nome do seu time no SeaTable sendo administrador. Siga as etapas, requisitos e aproveite as dicas para personalizar nomes facilmente.'
 ---
 
 {{< required-version "Administradores de equipa" >}}

@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/aendern-des-teamnamens'
+url: '/ru/pomoshch/izmenit-imya-komandy-seatable'
+aliases:
+    - '/ru/pomoshch/aendern-des-teamnamens'
+seo:
+    title: 'Изменить имя команды в SeaTable – инструкция админу'
+    description: 'Как администратору изменить имя команды в SeaTable: пошагово, со всеми нюансами и советами по использованию спецсимволов и ограничений.'
 ---
 
 {{< required-version "Администраторы команд" >}}

@@ -5,7 +5,12 @@ lastmod: '2024-06-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/pomoshch/speichern-der-aktuellen-base-als-snapshot'
+url: '/ru/pomoshch/sohranit-bazu-snapshot-seatable'
+aliases:
+    - '/ru/pomoshch/speichern-der-aktuellen-base-als-snapshot'
+seo:
+    title: 'Сохранить базу SeaTable как снимок – резерв и FAQ'
+    description: 'Сохраняйте базу SeaTable в виде снимка для резервирования и восстановления. Ежедневные автоматические снипшоты и ручное создание тоже доступны.'
 ---
 
 Вы можете сохранить базу в SeaTable в виде **снимка** в любое время. Снимки являются частью ДНК SeaTable: с первой версии вы можете создавать **снимки** состояния базы и восстанавливать их в более поздний момент времени. Снимки полезны, например, если вы хотите сохранить текущую версию базы перед внесением в нее значительных изменений.

@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/aendern-des-teamnamens'
+seo:
+    title: 'Teamnamen in SeaTable ändern – Anleitung für Admins'
+    description: 'Als Administrator können Sie einfach den Teamnamen in SeaTable ändern. Vorgehen, Tipps und Sonderzeichen auf einen Blick erklärt.'
 ---
 
 {{< required-version "Team-Administratoren" >}}

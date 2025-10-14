@@ -5,7 +5,12 @@ lastmod: '2022-12-19'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/fr/aide/freigabe-einer-ansicht-an-ein-teammitglied'
+url: '/fr/aide/partager-vue-membre-seatable'
+aliases:
+    - '/fr/aide/freigabe-einer-ansicht-an-ein-teammitglied'
+seo:
+    title: 'Partager une vue SeaTable avec membre – droits & gestion'
+    description: 'Partagez une vue personnalisée SeaTable avec un membre, choisissez droits de lecture ou modification et découvrez les différences avec le partage complet.'
 ---
 
 {{< required-version "Plus" "Entreprise" >}}

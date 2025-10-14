@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'vge'
-url: '/pt/ajuda/die-url-spalte'
+url: '/pt/ajuda/coluna-url-seatable'
+aliases:
+    - '/pt/ajuda/die-url-spalte'
+seo:
+    title: 'Coluna URL no SeaTable – links e IP com acesso rápido'
+    description: 'Insira links de sites ou IP na coluna URL do SeaTable e acesse com um clique. Prefixos, configuração e uso prático para facilitar a navegação.'
 ---
 
 As **colunas URL** interpretam a informação introduzida como um recurso na Internet ou rede local e permitem-lhe chamar directamente as **ligações** clicando. SeaTable adiciona automaticamente http(s):// como prefixo ao URL, caso não o tenha introduzido.
