@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/sperren-einer-zeile'
+seo:
+    title: 'Zeile in SeaTable sperren – Schutz vor Änderungen & Fehlern'
+    description: 'Sperren Sie Zeilen in SeaTable manuell oder per Automation, um Änderungen zu verhindern. Praktische Anleitung, Berechtigungen und Tipps für Admins.'
+
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

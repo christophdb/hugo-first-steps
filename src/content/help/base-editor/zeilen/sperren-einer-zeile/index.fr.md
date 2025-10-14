@@ -5,7 +5,13 @@ lastmod: '2023-01-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/sperren-einer-zeile'
+url: '/fr/aide/verrouiller-ligne-seatable'
+aliases:
+    - '/fr/aide/sperren-einer-zeile'
+seo:
+    title: 'Verrouiller une ligne SeaTable – sécurité et gestion'
+    description: 'Verrouillez des lignes dans SeaTable manuellement ou par automatisation, garantissez la sécurité des données et maîtrisez les droits d’édition.'
+
 ---
 
 {{< required-version "Plus" "Entreprise" >}}

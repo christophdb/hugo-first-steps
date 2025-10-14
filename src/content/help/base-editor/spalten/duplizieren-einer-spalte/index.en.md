@@ -5,7 +5,13 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/duplizieren-einer-spalte'
+url: '/help/duplicate-column-seatable'
+aliases:
+    - '/help/duplizieren-einer-spalte'
+seo:
+    title: 'Duplicate a column in SeaTable – keep the structure'
+    description: 'Easily duplicate columns in SeaTable with just a click. Get the complete structure, copy values as needed, and adjust settings for quick modifications.'
+
 ---
 
 Of course, you can duplicate columns in SeaTable. Here you can learn how to do that:

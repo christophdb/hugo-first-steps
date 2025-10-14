@@ -5,7 +5,12 @@ lastmod: '2023-01-24'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/es/ayuda/hinzufuegen-einer-spalte'
+url: '/es/ayuda/anadir-columna-seatable'
+aliases:
+    - '/es/ayuda/hinzufuegen-einer-spalte'
+seo:
+    title: 'Añadir columna a tabla SeaTable – fácil y personalizado'
+    description: 'Aprende cómo agregar una columna a la tabla SeaTable, definir el tipo de columna correcto y ajustar configuraciones específicas fácilmente.'
 ---
 
 Las tablas de SeaTable constan de columnas y filas. Dentro de una base, puede añadir hasta 500 columnas a una tabla. Para cada columna, tiene la opción individual de seleccionar un tipo de **columna** adecuado en función del tipo de datos.

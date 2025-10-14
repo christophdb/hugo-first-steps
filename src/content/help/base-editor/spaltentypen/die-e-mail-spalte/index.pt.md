@@ -5,7 +5,13 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'kgr'
-url: '/pt/ajuda/die-e-mail-spalte'
+url: '/pt/ajuda/coluna-email-seatable'
+aliases:
+    - '/pt/ajuda/die-e-mail-spalte'
+seo:
+    title: 'Coluna de email SeaTable – organizar e enviar mensagens'
+    description: 'Armazene emails válidos na coluna de email do SeaTable. Abra seu cliente de email em um clique e envie mensagens diretamente da tabela.'
+
 ---
 
 A coluna de correio electrónico é um tipo de coluna que lhe permite introduzir endereços de correio electrónico. Ao contrário de uma coluna de texto, a coluna de correio electrónico assegura que a entrada tem a estrutura de um endereço de correio electrónico válido.

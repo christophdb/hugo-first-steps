@@ -5,7 +5,13 @@ lastmod: '2023-01-24'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/hinzufuegen-einer-spalte'
+url: '/help/add-column-seatable'
+aliases:
+    - '/help/hinzufuegen-einer-spalte'
+seo:
+    title: 'Add a column to SeaTable table – step by step guide'
+    description: 'Find out how to add columns to your SeaTable table, set the right column type and adjust settings for optimal data organization.'
+
 ---
 
 Tables in SeaTable consist of columns and rows. Within a base you can add up to 500 columns to a table. For each column you have individually the possibility to select a suitable **column type** depending on the data type.

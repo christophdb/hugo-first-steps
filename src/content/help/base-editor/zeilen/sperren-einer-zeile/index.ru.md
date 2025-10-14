@@ -5,7 +5,13 @@ lastmod: '2023-01-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/pomoshch/sperren-einer-zeile'
+url: '/ru/pomoshch/zablokirovat-stroku-seatable'
+aliases:
+    - '/ru/pomoshch/sperren-einer-zeile'
+seo:
+    title: 'Заблокировать строку в SeaTable – права и безопасность'
+    description: 'Узнайте, как блокировать строки в SeaTable вручную или автоматически. Ограничьте доступ и защитите данные от случайных изменений.'
+
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}
