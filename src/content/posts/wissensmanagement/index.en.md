@@ -12,8 +12,8 @@ url: '/knowledge-management'
 aliases:
     - /wissensmanagement
 seo:
-    title:
-    description:
+    title: 'Knowledge management: How to make knowledge usable'
+    description: 'Knowledge is power. Learn here what it takes to establish an efficient, systematic knowledge management system in your company.'
 ---
 
 Knowledge is one of the most important resources in any company. It is not for nothing that knowledge is already cited as a [production factor](https://de.wikipedia.org/wiki/Produktionsfaktor) alongside land, capital and labor when it comes to the success of a company. But what does it take to make the knowledge of your employees available to others in your company? The answer: a functioning **knowledge management system**!
