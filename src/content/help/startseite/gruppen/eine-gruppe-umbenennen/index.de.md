@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
 url: '/de/hilfe/eine-gruppe-umbenennen'
+seo:
+    title: 'Gruppe in SeaTable umbenennen – so geht’s als Eigentümer'
+    description: 'Als Eigentümer können Sie Ihre Gruppe in SeaTable mit wenigen Klicks umbenennen. So legen Sie den neuen Namen für Ihre Gruppen schnell fest.'
 ---
 
 Bestehende Gruppen in SeaTable können von ihrem Eigentümer jederzeit umbenannt werden. Gruppenadministratoren und Gruppenmitglieder sind hingegen nicht dazu berechtigt. Hier erfahren Sie, wie Sie als Eigentümer den Namen einer Gruppe bearbeiten können.

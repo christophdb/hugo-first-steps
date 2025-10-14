@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/help/ein-teammitglied-einer-gruppe-hinzufuegen'
+url: '/help/add-team-member-to-group-seatable'
+aliases:
+    - '/help/ein-teammitglied-einer-gruppe-hinzufuegen'
+seo:
+    title: 'Add team member to group in SeaTable – permissions & roles'
+    description: 'Group owners and admins in SeaTable can add team members, set roles, and manage permissions. Step-by-step guide for growing your collaboration.'
 ---
 
 Owners and administrators of a group can add members, remove members, and change permissions of existing group members. In this article, you will learn the two ways to add team members to a group.

@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/fr/aide/so-erstellen-sie-ein-big-data-ansicht'
+url: '/fr/aide/creer-vue-big-data-seatable'
+aliases:
+    - '/fr/aide/so-erstellen-sie-ein-big-data-ansicht'
+seo:
+    title: 'Créer une vue big data SeaTable – guide complet'
+    description: 'Apprenez à créer une vue big data dans SeaTable pour visualiser de gros volumes de lignes et gérer des vues privées. Procédure claire et rapide.'
 ---
 
 {{< required-version "Entreprise" >}}

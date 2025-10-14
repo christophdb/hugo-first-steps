@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/es/ayuda/eine-gruppe-umbenennen'
+url: '/es/ayuda/renombrar-grupo-seatable'
+aliases:
+    - '/es/ayuda/eine-gruppe-umbenennen'
+seo:
+    title: 'Renombrar grupo en SeaTable – paso a paso para el dueño'
+    description: 'Sólo el propietario puede cambiar el nombre de un grupo en SeaTable: así lo haces, restricciones y opciones sobre los caracteres permitidos.'
 ---
 
 Los grupos existentes en SeaTable pueden ser renombrados por su propietario en cualquier momento. Los administradores y miembros de grupos, sin embargo, no están autorizados a hacerlo.  

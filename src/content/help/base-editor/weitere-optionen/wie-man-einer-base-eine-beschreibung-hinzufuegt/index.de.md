@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/wie-man-einer-base-eine-beschreibung-hinzufuegt'
+seo:
+    title: 'Base-Beschreibung in SeaTable hinzufügen – Anleitung & Tipps'
+    description: 'Ergänzen Sie einer Base eine Beschreibung und geben Sie Nutzern wichtige Hinweise, Gebrauchsanweisungen oder Hintergrundinfos – Schritt für Schritt.'
 ---
 
 Wenn Sie anderen Benutzern eine "Gebrauchsanweisung" geben oder ergänzende Informationen zu einer Base festhalten möchten, können Sie einer Base in SeaTable eine Beschreibung hinzufügen. Die Beschreibung wird automatisch geöffnet, wenn ein Benutzer zum ersten Mal die Base öffnet.

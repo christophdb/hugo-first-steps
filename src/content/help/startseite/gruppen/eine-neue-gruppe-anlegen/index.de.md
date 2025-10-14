@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
 url: '/de/hilfe/eine-neue-gruppe-anlegen'
+seo:
+    title: 'Neue Gruppe in SeaTable anlegen – Schritt für Schritt'
+    description: 'So legen Sie eine neue Gruppe in SeaTable an und fügen Mitglieder hinzu. Anleitung und Tipps für Teammitglieder und Administratoren aller Berechtigungen.'
 ---
 
 Organisieren Sie Ihre Bases in Gruppen, um sowohl einen besseren Überblick über Ihre Themen zu erhalten, als auch um Berechtigungen innerhalb Ihres Teams leichter vergeben zu können. Hier erfahren Sie, wie Sie als Team-Mitglied oder als Team-Administrator eine neue Gruppe anlegen können:

@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/pomoshch/so-erstellen-sie-ein-big-data-ansicht'
+url: '/ru/pomoshch/sozdanie-big-data-vida-seatable'
+aliases:
+    - '/ru/pomoshch/so-erstellen-sie-ein-big-data-ansicht'
+seo:
+    title: 'Создать big data вид SeaTable – инструкция и приватность'
+    description: 'Создавайте big data виды в SeaTable для просмотра больших массивов строк и своих приватных данных: быстрое создание и удобное разделение.'
 ---
 
 {{< required-version "Предприятие" >}}

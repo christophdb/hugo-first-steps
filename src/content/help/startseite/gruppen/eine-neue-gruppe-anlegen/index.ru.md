@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/ru/pomoshch/eine-neue-gruppe-anlegen'
+url: '/ru/pomoshch/sozdat-novuyu-gruppu-seatable'
+aliases:
+    - '/ru/pomoshch/eine-neue-gruppe-anlegen'
+seo:
+    title: 'Создать новую группу в SeaTable – инструкция и роли'
+    description: 'Как создать новую группу в SeaTable, добавить участников, задать права и организовать совместную работу: подробное руководство для всех.'
 ---
 
 Организуйте свои базы в группы, как для лучшего обзора тем, так и для более удобного назначения прав доступа в команде. Здесь вы можете узнать, как создать новую группу в качестве члена команды или администратора команды:
