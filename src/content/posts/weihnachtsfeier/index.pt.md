@@ -11,8 +11,8 @@ url: '/pt/festa-natal'
 aliases:
     - /pt/weihnachtsfeier
 seo:
-    title:
-    description:
+    title: "Festa de Natal 2025 –  Ideias corporativas"
+    description: "Com estas ideias variadas, sua festa de Natal será um evento empresarial inesquecível com seus colegas"
 ---
 
 Em breve chegará de novo aquela altura! Enquanto algumas pessoas ainda estão a lamentar o verão que passou, os primeiros biscoitos de gengibre e bolachas nas prateleiras dos supermercados já nos recordam a época natalícia que se aproxima. Mas mesmo que ainda não esteja no espírito natalício: A próxima festa de Natal da empresa já está à sua espera. Para tornar a sua festa de Natal de 2025 inesquecível, não pode começar a planear com antecedência suficiente!

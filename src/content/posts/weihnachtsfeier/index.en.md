@@ -11,8 +11,8 @@ url: '/christmas-party'
 aliases:
     - /weihnachtsfeier/
 seo:
-    title:
-    description:
+    title: 'Christmas Party 2025 – Creative Corporate Ideas'
+    description: 'With these varied ideas, your Christmas party will be an unforgettable company event with colleagues'
 ---
 
 It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already reminding us of the coming Christmas season. But even if you're not yet in the Christmas spirit: The next company Christmas party is already waiting for you. To make your 2025 Christmas party unforgettable, you can't start planning early enough!
