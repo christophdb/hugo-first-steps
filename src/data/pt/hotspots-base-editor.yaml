@@ -1,0 +1,55 @@
+- 'label': 'Tabelas'
+  'description': 'As tabelas são os elementos constitutivos das bases. Uma tabela é composta por colunas, linhas e vistas. Cada tabela é exibida como um separador numa base.'
+  'link': 'help/base-editor/tabellen'
+  'position': 'right'
+  'x': 18.5
+  'y': 9
+
+- 'label': 'Colunas'
+  'description': 'Uma coluna regista dados de um tipo específico. O SeaTable oferece 25 tipos diferentes de coluna para guardar vários tipos de informação, como texto, data, números, imagens, ficheiros, caixas de verificação ou fórmulas.'
+  'link': 'help/base-editor/spalten'
+  'position': 'right'
+  'x': 26
+  'y': 19.5
+
+- 'label': 'Estatísticas'
+  'description': 'Uma estatística é uma análise quantitativa do conteúdo de uma tabela. O SeaTable disponibiliza vários tipos de gráficos (simples e combinados) e tabelas dinâmicas como estatísticas.'
+  'link': 'help/base-editor/statistiken'
+  'position': 'right'
+  'x': 76
+  'y': 2.5
+
+- 'label': 'Formulários web'
+  'description': 'Um formulário é uma página web através da qual podem ser criados novos registos. Os formulários do SeaTable são públicos por defeito, mas podem também ser de acesso restrito.'
+  'link': 'help/base-editor/webformulare'
+  'position': 'left'
+  'x': 68.6
+  'y': 5
+
+- 'label': 'Linhas'
+  'description': |
+      Uma linha representa um registo.<br><br>
+      Os detalhes da linha mostram todas as colunas (não ocultas) de um registo numa única página. As colunas apenas de leitura são assinaladas com um fundo cinzento; todas as outras colunas podem ser editadas.
+  'link': 'help/base-editor/zeilen'
+  'position': 'right'
+  'x': 6
+  'y': 73
+
+- 'label': 'Plugins'
+  'description': 'Os plugins são extensões para o SeaTable. Existem diferentes tipos de plugins. Os plugins de visualização de dados incluem a galeria, o calendário, o mapa, o Kanban e o plugin de linha temporal. O plugin de desenho de página permite criar documentos. Com consultas SQL e deduplicação de dados, pode procurar e eliminar registos. Os plugins também podem ser desenvolvidos individualmente.'
+  'link': 'help/base-editor/plugins'
+  'position': 'left'
+  'x': 91
+  'y': 10
+
+- 'label': 'Vistas'
+  'description': |
+      Uma vista é uma apresentação personalizada dos dados numa tabela. Uma vista é definida pelas ordenações, filtros, agrupamentos,
+      ocultação de colunas e outras configurações de vista aplicadas.<br><br>
+      Uma tabela pode conter uma ou mais vistas. Todas as vistas de uma tabela acedem ao mesmo conjunto de dados.
+      Isto significa que, quando o valor de uma célula é alterado numa vista, esse valor é atualizado na tabela subjacente e, por conseguinte, em todas as vistas da tabela.<br><br>
+      Quando uma vista está bloqueada, as suas configurações deixam de poder ser alteradas.
+  'link': 'help/base-editor/ansichten'
+  'position': 'right'
+  'x': 4
+  'y': 14

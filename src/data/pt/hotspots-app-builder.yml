@@ -1,0 +1,13 @@
+- label: 'Configurações da aplicação'
+  description: 'Nas configurações da aplicação, pode configurar opções adicionais como o nome, a URL ou o acesso.'
+  link: 'help/app-builder/einstellungen'
+  position: 'right'
+  'x': 2.3
+  'y': 5.9
+
+- label: 'Tipos de páginas'
+  description: 'Com o + cria novas páginas na sua aplicação. O Construtor Universal de Aplicações oferece uma variedade de diferentes tipos de páginas para escolher. Mais informações aqui.'
+  link: 'help/app-builder/seitentypen-in-universellen-apps'
+  position: 'right'
+  'x': 7.7
+  'y': 35.3

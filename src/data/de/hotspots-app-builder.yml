@@ -1,0 +1,13 @@
+- 'label': 'App-Einstellungen'
+  'description': 'In den App-Einstellungen legen Sie App weitere Konfigurationen wie den Namen, die URL oder den Zugriff fest.'
+  'link': 'help/app-builder/einstellungen'
+  'position': 'right'
+  'x': 2.3
+  'y': 5.9
+
+- 'label': 'Seitentypen'
+  'description': 'Mit dem + legen Sie neue Seiten in Ihrer App an. Der Universelle App Builder bietet Ihnen einen vielzahl von verschiedenen Seitentypen zur Auswahl. Mehr dazu in finden Sie hier.'
+  'link': 'help/app-builder/seitentypen-in-universellen-apps'
+  'position': 'right'
+  'x': 7.7
+  'y': 35.3

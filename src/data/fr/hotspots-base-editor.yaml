@@ -1,0 +1,55 @@
+- 'label': 'Tableaux'
+  'description': 'Les tableaux sont les éléments constitutifs des bases. Un tableau se compose de colonnes, de lignes et de vues. Chaque tableau est affiché comme un onglet dans une base.'
+  'link': 'help/base-editor/tabellen'
+  'position': 'right'
+  'x': 18.5
+  'y': 9
+
+- 'label': 'Colonnes'
+  'description': 'Une colonne enregistre des données d’un type spécifique. SeaTable propose 25 types de colonnes différents pour stocker différents types d’informations comme du texte, des dates, des nombres, des images, des fichiers, des cases à cocher ou des formules.'
+  'link': 'help/base-editor/spalten'
+  'position': 'right'
+  'x': 26
+  'y': 19.5
+
+- 'label': 'Statistiques'
+  'description': 'Une statistique est une analyse quantitative du contenu d’un tableau. SeaTable propose divers types de graphiques (simples et combinés) et des tableaux croisés dynamiques comme statistiques.'
+  'link': 'help/base-editor/statistiken'
+  'position': 'right'
+  'x': 76
+  'y': 2.5
+
+- 'label': 'Formulaires web'
+  'description': 'Un formulaire est une page web permettant de créer de nouveaux enregistrements. Les formulaires SeaTable sont publics par défaut, mais ils peuvent aussi être restreints en accès.'
+  'link': 'help/base-editor/webformulare'
+  'position': 'left'
+  'x': 68.6
+  'y': 5
+
+- 'label': 'Lignes'
+  'description': |
+      Une ligne représente un enregistrement.<br><br>
+      Les détails de la ligne affichent toutes les colonnes (non masquées) d’un enregistrement sur une page. Les colonnes en lecture seule sont marquées par un fond gris ; toutes les autres colonnes peuvent être modifiées.
+  'link': 'help/base-editor/zeilen'
+  'position': 'right'
+  'x': 6
+  'y': 73
+
+- 'label': 'Plugins'
+  'description': 'Les plugins sont des extensions pour SeaTable. Il existe différents types de plugins. Les plugins de visualisation des données incluent la galerie, le calendrier, la carte, le Kanban et le plugin de chronologie. Le plugin de conception de page permet de créer des documents. Grâce aux requêtes SQL et à la déduplication des données, vous pouvez rechercher et supprimer des enregistrements. Les plugins peuvent également être développés individuellement.'
+  'link': 'help/base-editor/plugins'
+  'position': 'left'
+  'x': 91
+  'y': 10
+
+- 'label': 'Vues'
+  'description': |
+      Une vue est une représentation personnalisée des données d’un tableau. Une vue est définie par les tris, filtres, regroupements,
+      masquages de colonnes et autres paramètres de vue appliqués.<br><br>
+      Un tableau peut contenir une ou plusieurs vues. Toutes les vues d’un tableau accèdent au même ensemble de données.
+      Cela signifie que lorsque la valeur d’une cellule est modifiée dans une vue, elle est mise à jour dans le tableau sous-jacent et donc dans toutes les vues du tableau.<br><br>
+      Lorsqu’une vue est verrouillée, ses paramètres ne peuvent plus être modifiés.
+  'link': 'help/base-editor/ansichten'
+  'position': 'right'
+  'x': 4
+  'y': 14

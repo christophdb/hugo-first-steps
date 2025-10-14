@@ -6,6 +6,8 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/es/ayuda/welche-apps-gibt-es'
+star: true
+weight: 1
 ---
 
 **Las aplicaciones** en SeaTable son **interfaces** individuales para grupos de usuarios específicos que tienen diferentes necesidades de información (por ejemplo, empleados, jefes de departamento, directores). El acceso abierto a las apps le permite poner sus datos a disposición de terceros **externos** (por ejemplo, clientes, socios comerciales) **sin necesidad de una cuenta SeaTable**.

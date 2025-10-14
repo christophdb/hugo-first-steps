@@ -2,7 +2,7 @@
   'description': 'Tabellen sind die konstitutiven Elemente von Bases. Eine Tabelle besteht aus Spalten, Zeilen und Ansichten. Jede Tabelle wird in einer Base als Registerkarte angezeigt.'
   'link': 'help/base-editor/tabellen'
   'position': 'right'
-  'x': 44
+  'x': 18.5
   'y': 9
 
 - 'label': 'Spalten'
@@ -17,14 +17,14 @@
   'link': 'help/base-editor/statistiken'
   'position': 'right'
   'x': 76
-  'y': 0.5
+  'y': 2.5
 
 - 'label': 'Webformulare'
   'description': 'Ein Formular ist eine Webseite, über die neue Datensätze angelegt werden können. SeaTable Formulare sind standardmäßig öffentlich, können aber auch zugriffsbeschränkt werden.'
   'link': 'help/base-editor/webformulare'
   'position': 'left'
   'x': 68.6
-  'y': 7
+  'y': 5
 
 - 'label': 'Zeilen'
   'description': |
@@ -32,7 +32,7 @@
       Die Zeilendetails stellen alle (nicht ausgeblendeten) Spalten eines Datensatzes auf einer Seite dar. Schreibgeschützte Spalten sind durch einen grauen Hintergrund gekennzeichnet; alle anderen Spalten können Sie bearbeiten.
   'link': 'help/base-editor/zeilen'
   'position': 'right'
-  'x': 5
+  'x': 6
   'y': 73
 
 - 'label': 'Plugins'
@@ -40,7 +40,7 @@
   'link': 'help/base-editor/plugins'
   'position': 'left'
   'x': 91
-  'y': 13
+  'y': 10
 
 - 'label': 'Ansichten'
   'description': |

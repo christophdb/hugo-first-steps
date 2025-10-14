@@ -7,4 +7,4 @@ icon: 'table'
 color: bg-green-100
 ---
 
-{{< hotspots image="/hotspots/base-editor.png" alt="Base Rditor" data="hotspots-base-editor" >}}
+{{< hotspots image="/hotspots/base-editor-de.png" alt="Base Editor" data="hotspots-base-editor" >}}

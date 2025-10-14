@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Tipos de página em App Universal: visão geral'
     description: 'Veja todos os tipos de página na App Universal: tabela, formulário, galeria, calendário, Kanban, timeline e outros, para apps flexíveis.'
-
+star: true
 weight: 1
 ---
 
