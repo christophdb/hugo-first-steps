@@ -24,7 +24,7 @@
                                 {{- $images := .Resources.ByType "image" -}}
                                 {{- $featured := $images.GetMatch "feature*" -}}
                                 {{- with $featured -}}
-                                  <img src="{{ .RelPermalink }}" class="rounded-xl" />
+                                  <img src="{{ .RelPermalink }}" class="rounded-xl" alt="{{ $page.Params.seo.title | default $page.Title }}" />
                                 {{ end }}
                             </div>
                         </div>

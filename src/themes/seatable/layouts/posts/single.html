@@ -21,7 +21,12 @@
                         {{ $featured := $images.GetMatch "feature*" }}
                         {{ if $featured }}
                             {{ $featured := $featured.Resize (printf "%dx%d webp" $featured.Width $featured.Height) }}
-                            <img src="{{ $featured.RelPermalink }}" width="{{ $featured.Width }}" height="{{ $featured.Height }}" class="rounded-r-2xl" />
+                            <img
+                                src="{{ $featured.RelPermalink }}"
+                                width="{{ $featured.Width }}"
+                                height="{{ $featured.Height }}"
+                                class="rounded-r-2xl"
+                                alt="{{ .Params.seo.title | default .Title }}" />
                         {{ end }}
                     </div>
                 </div>

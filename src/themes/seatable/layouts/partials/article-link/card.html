@@ -1,10 +1,11 @@
 <div class="rounded-xl border shadow-xl hover:border-gray-400 hover:shadow-3xl">
     <a href="{{ .RelPermalink }}">
         <div class="flex items-center">
+            {{- $page := . -}}
             {{- $images := .Resources.ByType "image" -}}
             {{- $featured := $images.GetMatch "feature*" -}}
             {{- with $featured -}}
-                <img src="{{ .RelPermalink }}" alt="" class="max-h-[300px] w-full rounded-t-xl object-cover object-center" />
+                <img src="{{ .RelPermalink }}" alt="{{ $page.Params.seo.title | default $page.Title }}" class="max-h-[300px] w-full rounded-t-xl object-cover object-center" />
             {{ end }}
         </div>
         <div class="rounded-b-2xl px-8 py-12 transition-all duration-300 group-hover:bg-gray-50">
