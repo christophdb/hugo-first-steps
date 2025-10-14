@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/pt/ajuda/ein-teammitglied-einer-gruppe-hinzufuegen'
+url: '/pt/ajuda/adicionar-membro-grupo-seatable'
+aliases:
+    - '/pt/ajuda/ein-teammitglied-einer-gruppe-hinzufuegen'
+seo:
+    title: 'Adicionar membro ao grupo SeaTable – controle de permissões'
+    description: 'Somente administradores e donos podem adicionar membros ao grupo SeaTable, configurar permissões e funções. Guia simples para colaboração eficiente.'
 ---
 
 Os proprietários e administradores de um grupo podem adicionar e remover membros, bem como alterar as permissões dos membros existentes do grupo. Neste artigo aprenderá as duas formas de adicionar membros de equipa a um grupo.

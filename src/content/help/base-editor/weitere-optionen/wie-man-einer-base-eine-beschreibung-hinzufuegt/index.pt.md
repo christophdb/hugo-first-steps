@@ -5,7 +5,12 @@ lastmod: '2022-12-29'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/pt/ajuda/wie-man-einer-base-eine-beschreibung-hinzufuegt'
+url: '/pt/ajuda/adicionar-descricao-base-seatable'
+aliases:
+    - '/pt/ajuda/wie-man-einer-base-eine-beschreibung-hinzufuegt'
+seo:
+    title: 'Adicionar descrição à base SeaTable – orientações fáceis'
+    description: 'Adicione uma descrição à base SeaTable e facilite o uso por outras pessoas. Insira dicas e informações que aparecem ao abrir pela primeira vez.'
 ---
 
 Se pretender dar a outros utilizadores "instruções de utilização" ou registar informações adicionais sobre uma base, pode adicionar uma descrição a uma base no SeaTable. A descrição abre automaticamente quando um utilizador abre a Base pela primeira vez.

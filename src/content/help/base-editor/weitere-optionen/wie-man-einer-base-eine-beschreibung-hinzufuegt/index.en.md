@@ -5,7 +5,12 @@ lastmod: '2022-12-29'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/wie-man-einer-base-eine-beschreibung-hinzufuegt'
+url: '/help/add-base-description-seatable'
+aliases:
+    - '/help/wie-man-einer-base-eine-beschreibung-hinzufuegt'
+seo:
+    title: 'Add a description to your SeaTable base – step by step'
+    description: 'Include info or instructions in your SeaTable base with the description field. Show guidance to users when they first access the database.'
 ---
 
 If you want to give "instructions" to other users or record additional information about a base, you can add a description to a base in SeaTable. The description is automatically opened when a user opens the base for the first time.

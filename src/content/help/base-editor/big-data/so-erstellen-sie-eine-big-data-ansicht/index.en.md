@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/help/so-erstellen-sie-ein-big-data-ansicht'
+url: '/help/create-big-data-view-seatable'
+aliases:
+    - '/help/so-erstellen-sie-ein-big-data-ansicht'
+seo:
+    title: 'Create big data view in SeaTable – Enterprise only'
+    description: 'Enterprise users can unlock big data views in SeaTable to display large-row datasets and private views. Simple setup and clear data separation.'
 ---
 
 {{< required-version "Enterprise" >}}

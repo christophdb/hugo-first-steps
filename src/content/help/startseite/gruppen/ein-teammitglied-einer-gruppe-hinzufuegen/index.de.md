@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
 url: '/de/hilfe/ein-teammitglied-einer-gruppe-hinzufuegen'
+seo:
+    title: 'Teammitglied zu Gruppe in SeaTable hinzufügen – Anleitung'
+    description: 'So fügen Sie als Eigentümer oder Administrator Teammitglieder einer Gruppe hinzu, prüfen Berechtigungen und ändern Rollen in SeaTable einfach.'
 ---
 
 Eigentümer und Administratoren einer Gruppe können Mitglieder hinzufügen, entfernen sowie die Berechtigungen bestehender Gruppenmitglieder ändern. In diesem Artikel lernen Sie die zwei Arten kennen, wie Sie Teammitglieder zu einer Gruppe hinzufügen können.

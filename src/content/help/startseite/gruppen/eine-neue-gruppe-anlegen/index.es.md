@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/es/ayuda/eine-neue-gruppe-anlegen'
+url: '/es/ayuda/crear-grupo-seatable'
+aliases:
+    - '/es/ayuda/eine-neue-gruppe-anlegen'
+seo:
+    title: 'Crear grupo SeaTable – guía rápida para equipos y admins'
+    description: 'Descubre cómo crear un nuevo grupo en SeaTable, agregar miembros y administrar permisos. Ayuda para todos los niveles de usuario y administradores.'
 ---
 
 Organice sus bases en grupos, tanto para tener una mejor visión de conjunto de sus temas como para poder asignar permisos dentro de su equipo más fácilmente. Aquí puedes aprender a crear un nuevo grupo como miembro del equipo o como administrador del mismo:

@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/help/eine-gruppe-umbenennen'
+url: '/help/rename-group-seatable'
+aliases:
+    - '/help/eine-gruppe-umbenennen'
+seo:
+    title: 'Rename group in SeaTable – how owners edit group names'
+    description: 'Only the group owner can rename groups in SeaTable. Learn how to set a new group name easily and what characters are allowed for group names.'
 ---
 
 Existing groups in SeaTable can be renamed by their owner at any time. Group administrators and group members, however, are not allowed to do so.  

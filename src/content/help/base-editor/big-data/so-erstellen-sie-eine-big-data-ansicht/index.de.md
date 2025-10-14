@@ -6,6 +6,9 @@ categories:
     - 'big-data'
 author: 'cdb'
 url: '/de/hilfe/so-erstellen-sie-ein-big-data-ansicht'
+seo:
+    title: 'Big-Data-Ansicht in SeaTable erstellen – Anleitung & Unterschiede'
+    description: 'Nutzen Sie Big-Data-Ansichten in SeaTable, um Zeilen aus dem Big-Data-Speicher anzuzeigen und private Ansichten nur für sich festzulegen.'
 ---
 
 {{< required-version "Enterprise" >}}

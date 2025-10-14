@@ -5,7 +5,12 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/ru/pomoshch/ein-teammitglied-einer-gruppe-hinzufuegen'
+url: '/ru/pomoshch/dobavit-uchastnika-v-gruppu-seatable'
+aliases:
+    - '/ru/pomoshch/ein-teammitglied-einer-gruppe-hinzufuegen'
+seo:
+    title: 'Добавить участника в группу SeaTable – права и настройки'
+    description: 'Владельцы и администраторы группы SeaTable могут добавить участников, назначать роли и регулировать права доступа — подробная инструкция.'
 ---
 
 Владельцы и администраторы группы могут добавлять и удалять членов группы, а также изменять разрешения существующих членов группы. В этой статье вы узнаете о двух способах добавления членов команды в группу.
