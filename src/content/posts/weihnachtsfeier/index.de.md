@@ -9,7 +9,7 @@ tags:
 color: '#98cddf'
 url: '/de/weihnachtsfeier'
 seo:
-    title: 'Weihnachtsfeier 2025 – Ideen für ein einzigartiges Firmenevent'
+    title: 'Weihnachtsfeier – Ideen für ein Firmenevent'
     description: 'Mit diesen abwechslungsreichen Ideen wird Ihre Weihnachtsfeier zu einem unvergesslichen Firmenevent mit Ihren Kollegen.'
 ---
 

@@ -11,8 +11,8 @@ url: '/es/fiesta-navidad'
 aliases:
     - /es/weihnachtsfeier
 seo:
-    title:
-    description:
+    title: "Fiesta de Navidad – Ideas de evento único"
+    description: "Con estas ideas variadas, su fiesta navideña será un evento empresarial inolvidable con sus colegas"
 ---
 
 Pronto llegará de nuevo esa época. Mientras algunos todavía están de luto por el verano pasado, los primeros panes de jengibre y galletas en los estantes de los supermercados ya nos recuerdan la próxima temporada navideña. Pero incluso si aún no tiene espíritu navideño: La próxima fiesta de Navidad de la empresa ya le está esperando. Para que su fiesta de Navidad 2025 sea inolvidable, no puede empezar a planificarla con suficiente antelación.
