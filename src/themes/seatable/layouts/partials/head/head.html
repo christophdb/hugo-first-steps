@@ -15,9 +15,6 @@
     {{ with (.Params.seo.description | default .Params.Summary | default .Params.Description) | default .Site.Params.description -}}
         <meta name="description" content="{{ . | safeHTML }}" />
     {{- end }}
-    {{ with  .Params.Tags | default .Site.Params.keywords -}}
-        <meta name="keywords" content="{{ range . }}{{ . }},{{ end -}}" />
-    {{- end }}
     {{ with .Site.Params.robots }}
         <meta name="robots" content="{{ . }}" />
     {{ end }}
