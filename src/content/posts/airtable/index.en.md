@@ -3,7 +3,7 @@ title: 'Airtable review – functions, costs, and data protection'
 description: "Are you looking for software to organize your data and optimize your processes? Then you've probably come across Airtable. But what is Airtable and what is Airtable used for? This article summarizes the Airtable experiences of other users, sheds light on Airtable pricing and shows which restrictions you have to expect if you use Airtable (free of charge)."
 seo:
     title: 'Airtable review | Airtable pricing | Airtable free'
-    description: 'What is Airtable and what is Airtable used for? This Airtable review looks at the Airtable experience of other users and Airtable pricing (Airtable plans and Airtable free).'
+    description: 'What is Airtable and what is Airtable used for? This Airtable review looks at the Airtable experience of other users and Airtable pricing.'
 date: 2025-08-21
 categories:
     - 'best-practice'

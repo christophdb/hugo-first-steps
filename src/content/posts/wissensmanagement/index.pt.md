@@ -12,8 +12,8 @@ url: '/pt/gestao-do-conhecimento'
 aliases:
     - /pt/wissensmanagement
 seo:
-    title:
-    description:
+    title: "Gestão do conhecimento: torne o saber útil"
+    description: "Saber é poder. Descubra como implementar uma gestão do conhecimento eficiente na sua empresa."
 ---
 
 O conhecimento é um dos recursos mais importantes de qualquer empresa. Não é por acaso que o conhecimento já é citado como um [fator de produção](https://de.wikipedia.org/wiki/Produktionsfaktor), a par da terra, do capital e do trabalho, quando se trata do sucesso de uma empresa. Mas o que é que é preciso para tornar o conhecimento dos seus empregados disponível para os outros na sua empresa? A resposta: um **sistema de gestão do conhecimento** funcional!

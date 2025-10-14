@@ -12,8 +12,8 @@ url: '/fr/gestion-des-connaissances'
 aliases:
     - /fr/wissensmanagement
 seo:
-    title:
-    description:
+    title: "Mettre la gestion des connaissances à votre service"
+    description: "Le savoir, c’est le pouvoir. Découvrez comment instaurer une gestion des connaissances efficace au sein de votre entreprise."
 ---
 
 La connaissance est l'une des ressources les plus importantes de toute entreprise. Ce n'est pas pour rien que le savoir est déjà cité comme [facteur de production](https://de.wikipedia.org/wiki/Produktionsfaktor) au même titre que la terre, le capital et le travail lorsqu'il s'agit de la réussite d'une entreprise. Mais que faut-il pour que les connaissances de vos collaborateurs soient utiles à d'autres dans votre entreprise ? La réponse : une **gestion des connaissances** qui fonctionne !

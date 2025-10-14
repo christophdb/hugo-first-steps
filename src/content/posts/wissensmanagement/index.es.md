@@ -12,8 +12,8 @@ url: '/es/gestion-del-conocimiento'
 aliases:
     - /es/wissensmanagement
 seo:
-    title:
-    description:
+    title: "Hacer que la gestión del conocimiento sea utilizable"
+    description: "El conocimiento es poder. Descubra aquí qué se necesita para establecer un sistema de gestión del conocimiento eficiente y sistemático en su empresa."
 ---
 
 El conocimiento es uno de los recursos más importantes de cualquier empresa. No en vano ya se menciona el conocimiento como [factor de producción](https://de.wikipedia.org/wiki/Produktionsfaktor) junto con la tierra, el capital y la mano de obra cuando se trata del éxito de una empresa. Pero, ¿qué hace falta para que los conocimientos de sus empleados estén a disposición de los demás en su empresa? La respuesta: ¡un **sistema de gestión del conocimiento** que funcione!
