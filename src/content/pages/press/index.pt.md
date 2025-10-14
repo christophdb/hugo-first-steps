@@ -7,24 +7,23 @@ aliases:
     - '/pt/press/'
 
 sections:
-    - name: hero-1
+    - name: hero-6
       weight: 1
-      h2_left: "Imprensa"
-      h2_right: "e Notícias"
-      description: "Nesta página, encontrará o nosso kit de imprensa e mídia, bem como reportagens interessantes sobre SeaTable. Porque não somos apenas nós que escrevemos sobre SeaTable, mas também numerosos meios de comunicação.<br></br>Também gostaria de escrever sobre nós? Teremos todo o gosto em fornecer-lhe informações."
+      h1: 'Imprensa e Notícias'
+      description: 'Nesta página, encontrará o nosso kit de imprensa e mídia, bem como reportagens interessantes sobre SeaTable. Porque não somos apenas nós que escrevemos sobre SeaTable, mas também numerosos meios de comunicação.<br></br>Também gostaria de escrever sobre nós? Teremos todo o gosto em fornecer-lhe informações.'
       buttons:
-        - label: "Descubra o nosso kit de imprensa e mídia"
-          link: "https://cloud.seatable.io/apps/custom/press-and-media-kit"
-          style: "primary"
-          id: de-homepage-registration-hero-1
-      image: "/images/seatable-press-and-media-kit.png"
+          - label: 'Descubra o nosso kit de imprensa e mídia'
+            link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
+            style: 'primary'
+            id: de-homepage-registration-hero-1
+      image: '/images/seatable-press-and-media-kit.png'
 
-    - name: "banner-3"
+    - name: 'banner-3'
       weight: 2
-      title: "Tem um pedido específico de imprensa ou de entrevista?"
+      title: 'Tem um pedido específico de imprensa ou de entrevista?'
       buttons:
-        - label: "Não hesite em contactar-nos em qualquer altura"
-          link: "pages/contact"
+          - label: 'Não hesite em contactar-nos em qualquer altura'
+            link: 'pages/contact'
 
     - name: 'content-3'
       weight: 3
@@ -32,24 +31,24 @@ sections:
       subtitle: 'Informações e imagens'
       description: 'Descubra os mais recentes comunicados de imprensa, apresentações claras e material de imagem imediatamente utilizável. Tudo isto está disponível para descarregar no nosso kit de imprensa e mídia.'
       items:
-      - headline: 'Apresentações'
-        text: 'Todas as informações em poucas palavras'
-        image: /images/seatable-presentations.jpg
-        image_alt:
-      - headline: 'Comunicados de imprensa'
-        text: 'Todas as últimas notícias sobre SeaTable'
-        image: /images/seatable-press-release.png
-        image_alt:
-      - headline: 'Material de imagem'
-        text: 'Todas as capturas de ecrã, fotos e logótipos'
-        image: /images/seatable-screenshots.png
-        image_alt:
+          - headline: 'Apresentações'
+            text: 'Todas as informações em poucas palavras'
+            image: /images/seatable-presentations.jpg
+            image_alt:
+          - headline: 'Comunicados de imprensa'
+            text: 'Todas as últimas notícias sobre SeaTable'
+            image: /images/seatable-press-release.png
+            image_alt:
+          - headline: 'Material de imagem'
+            text: 'Todas as capturas de ecrã, fotos e logótipos'
+            image: /images/seatable-screenshots.png
+            image_alt:
       buttons:
           - label: 'Consulte o nosso kit de imprensa e mídia'
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
 
-    - name: "content-23"
+    - name: 'content-23'
       weight: 4
       title: 'SeaTable anda nas bocas do mundo'
       subtitle: 'Publicações'
@@ -60,6 +59,4 @@ sections:
     - name: 'content-24'
       weight: 5
       title: 'Artigos de imprensa e reportagens na mídia'
-
 ---
-

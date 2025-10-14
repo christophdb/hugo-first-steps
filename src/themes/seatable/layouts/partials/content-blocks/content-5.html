@@ -26,7 +26,7 @@
       {{ end }}
           <p class="gradient font-poppins font-bold text-2xl">{{ $item.subtitle }}</p>
           <h2 class="text-4xl text-white font-bold mt-1 leading-none">{{ $item.title }}</h2>
-          <p class="mt-8 text-white text-lg leading-relaxed">{{ $item.text | safeHTML }}</p>
+          <p class="mt-8 text-white text-lg leading-relaxed">{{ $item.text | markdownify }}</p>
 
           {{ if .buttons }}
               <div class="mt-14">
