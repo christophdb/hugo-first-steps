@@ -7,8 +7,8 @@ url: '/plan-birthday-party'
 aliases:
     - /geburtstagsfeier-planen
 seo:
-    title:
-    description:
+    title: 'Plan a Birthday Party – 3 Steps to Perfect Fun'
+    description: ' In this guide, we show you how to plan an unforgettable birthday celebration full of joy and fun in just three easy steps'
 categories:
     - 'best-practice'
 tags:

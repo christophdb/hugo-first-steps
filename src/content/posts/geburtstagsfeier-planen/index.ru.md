@@ -7,8 +7,8 @@ url: '/ru/organizovat-dnem-rozhdeniya'
 aliases:
     - /ru/geburtstagsfeier-planen
 seo:
-    title:
-    description:
+    title: "День рождения – 3 шага к идеальной вечеринке"
+    description: "В этом руководстве вы узнаете, как всего за три шага спланировать незабываемый и радостный день рождения, полный веселья и эмоций."
 categories:
     - 'best-practice'
 tags:

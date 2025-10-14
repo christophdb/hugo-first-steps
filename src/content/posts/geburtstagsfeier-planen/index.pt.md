@@ -7,8 +7,8 @@ url: '/pt/planejar-festa-aniversario'
 aliases:
     - /pt/geburtstagsfeier-planen
 seo:
-    title:
-    description:
+    title: "Festa de aniversário – 3 passos para a diversão"
+    description: "Neste guia, mostramos como planejar passo a passo uma festa de aniversário inesquecível, divertida e cheia de alegria"
 categories:
     - 'best-practice'
 tags:
