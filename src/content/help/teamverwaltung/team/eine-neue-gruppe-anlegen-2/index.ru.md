@@ -5,7 +5,7 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/sozdat-novuyu-gruppu-v-seatable'
+url: '/ru/pomoshch/sozdat-novuyu-gruppu-v-seatable-2'
 aliases:
     - '/ru/pomoshch/eine-neue-gruppe-anlegen-2'
 seo:

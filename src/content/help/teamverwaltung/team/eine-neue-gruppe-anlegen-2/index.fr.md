@@ -5,7 +5,7 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/creer-nouveau-groupe-seatable'
+url: '/fr/aide/creer-nouveau-groupe-seatable-2'
 aliases:
     - '/fr/aide/eine-neue-gruppe-anlegen-2'
 seo:
