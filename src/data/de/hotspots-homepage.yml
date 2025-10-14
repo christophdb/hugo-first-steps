@@ -2,8 +2,8 @@
   'description': 'Eine Base ist eine Datenbank. Eine Base besteht aus einer oder mehreren Tabellen und kann viele Tausend Zeilen enthalten. Alle Bases, auf die ein Benutzer Zugriff hat, werden auf der Startseite angezeigt.'
   'link': 'help/startseite/bases'
   'position': 'right'
-  'x': 64
-  'y': 32
+  'x': 64.5
+  'y': 31.5
 
 - 'label': 'Benachrichtigungen'
   'description': |
@@ -12,7 +12,7 @@
       Wenn neue Benachrichtigungen vorliegen, dann wird dies durch eine Zahl am **Glocken-Icon** angezeigt.
   'link': 'help/startseite/benachrichtigungen'
   'position': 'left'
-  'x': 89.4
+  'x': 92.4
   'y': 4
 
 - 'label': 'Persönliche Einstellungen'
@@ -20,7 +20,7 @@
   'link': 'help/startseite/persoenliche-einstellungen'
   'position': 'left'
   'x': 97
-  'y': 8
+  'y': 5
 
 - 'label': 'Gemeinsame Datensätze'
   'description': |
@@ -28,8 +28,8 @@
       sodass diese in verschiedensten Kontexten und Abteilungen auf bestimmte Daten zugreifen können.
   'link': 'help/startseite/gemeinsame-datensaetze'
   'position': 'left'
-  'x': 20.3
-  'y': 29
+  'x': 21
+  'y': 28.5
 
 - 'label': 'Gruppen'
   'description': |
@@ -37,5 +37,5 @@
       Eine Gruppe ist somit ein Mittel, um Benutzer innerhalb eines Teams thematisch zu ordnen und einfach zusammenarbeiten zu lassen. Jede Gruppe wird über ihren Namen im Team eindeutig identifiziert.
   'link': 'help/startseite/gruppen'
   'position': 'left'
-  'x': 37
+  'x': 35
   'y': 93

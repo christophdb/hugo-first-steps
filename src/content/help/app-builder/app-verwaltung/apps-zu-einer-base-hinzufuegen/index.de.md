@@ -6,6 +6,8 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/apps-zu-einer-base-hinzufuegen'
+star: true
+weight: 2
 ---
 
 Sie möchten eine App zu Ihrer Base hinzufügen, um die Arbeit in SeaTable noch individueller auf bestimmte Nutzergruppen und Anwendungsfälle zuschneiden zu können? Kein Problem! Dies ist in nur wenigen Schritten erledigt.

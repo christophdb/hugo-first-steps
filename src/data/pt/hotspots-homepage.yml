@@ -1,0 +1,41 @@
+- 'label': 'Bases'
+  'description': 'Uma base é um banco de dados. Uma base consiste em uma ou mais tabelas e pode conter milhares de linhas. Todas as bases às quais um usuário tem acesso são exibidas na página inicial.'
+  'link': 'help/startseite/bases'
+  'position': 'right'
+  'x': 64
+  'y': 32
+
+- 'label': 'Notificações'
+  'description': |
+      Uma notificação é uma mensagem dentro do SeaTable.<br><br>
+      Uma notificação pode ser gerada pelo sistema ou enviada ativamente pelos usuários.<br><br>
+      Quando há novas notificações, isso é indicado por um número no **ícone do sino**.
+  'link': 'help/startseite/benachrichtigungen'
+  'position': 'left'
+  'x': 93
+  'y': 4
+
+- 'label': 'Configurações pessoais'
+  'description': 'Atrás do avatar há um menu para as configurações pessoais, gerenciamento de equipe e os limites atuais da sua equipe.'
+  'link': 'help/startseite/persoenliche-einstellungen'
+  'position': 'left'
+  'x': 97
+  'y': 5.5
+
+- 'label': 'Conjuntos de dados comuns'
+  'description': |
+      Os conjuntos de dados comuns permitem disponibilizar uma visualização de tabela predefinida para outros grupos e usuários,
+      possibilitando o acesso a dados específicos em diversos contextos e departamentos.
+  'link': 'help/startseite/gemeinsame-datensaetze'
+  'position': 'left'
+  'x': 20.3
+  'y': 29
+
+- 'label': 'Grupos'
+  'description': |
+      Um grupo é composto por um ou mais membros da equipe.<br><br>
+      Um grupo é, portanto, um meio de organizar os usuários tematicamente dentro de uma equipe e facilitar a colaboração. Cada grupo é identificado de forma única pelo seu nome dentro da equipe.
+  'link': 'help/startseite/gruppen'
+  'position': 'left'
+  'x': 34
+  'y': 93.5

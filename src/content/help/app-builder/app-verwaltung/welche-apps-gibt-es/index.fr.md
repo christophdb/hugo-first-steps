@@ -6,6 +6,8 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/fr/aide/welche-apps-gibt-es'
+star: true
+weight: 1
 ---
 
 **Les Apps** de SeaTable sont des **frontaux** personnalisés destinés à des groupes d'utilisateurs spécifiques qui ont des besoins d'information différents (par ex. employés, chefs de service, directeurs). L'accès ouvert aux Apps vous permet de rendre vos données utilisables par **des tiers externes** (par ex. clients, partenaires commerciaux) **sans compte SeaTable**.

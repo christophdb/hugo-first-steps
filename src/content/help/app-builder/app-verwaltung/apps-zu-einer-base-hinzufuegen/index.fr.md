@@ -6,6 +6,8 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/fr/aide/apps-zu-einer-base-hinzufuegen'
+star: true
+weight: 2
 ---
 
 Vous souhaitez ajouter une application à votre base afin de personnaliser davantage votre travail dans SeaTable pour des groupes d'utilisateurs et des cas d'utilisation spécifiques ? Pas de problème ! Cela se fait en quelques étapes.

@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Tipos de página en app universal: guía y usos'
     description: 'Conozca todos los tipos de página en la App Universal: tabla, formulario, galería, calendario, Kanban y más. Encuentre el formato ideal.'
-
+star: true
 weight: 1
 ---
 

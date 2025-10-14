@@ -1,0 +1,55 @@
+- 'label': 'Tables'
+  'description': 'Tables are the constitutive elements of bases. A table consists of columns, rows, and views. Each table is displayed as a tab within a base.'
+  'link': 'help/base-editor/tabellen'
+  'position': 'right'
+  'x': 18.5
+  'y': 9
+
+- 'label': 'Columns'
+  'description': 'A column captures data of a specific type. SeaTable offers 25 different column types to store various information such as text, date, numbers, images, files, checkboxes, or formulas.'
+  'link': 'help/base-editor/spalten'
+  'position': 'right'
+  'x': 26
+  'y': 19.5
+
+- 'label': 'Statistics'
+  'description': 'A statistic is a quantitative analysis of a table’s content. SeaTable provides various (simple and combined) chart types and pivot tables as statistics.'
+  'link': 'help/base-editor/statistiken'
+  'position': 'right'
+  'x': 76
+  'y': 2.5
+
+- 'label': 'Web Forms'
+  'description': 'A form is a webpage through which new records can be created. SeaTable forms are public by default, but they can also be access-restricted.'
+  'link': 'help/base-editor/webformulare'
+  'position': 'left'
+  'x': 68.6
+  'y': 5
+
+- 'label': 'Rows'
+  'description': |
+      A row represents a record.<br><br>
+      The row details display all (non-hidden) columns of a record on one page. Read-only columns are marked with a gray background; all other columns can be edited.
+  'link': 'help/base-editor/zeilen'
+  'position': 'right'
+  'x': 6
+  'y': 73
+
+- 'label': 'Plugins'
+  'description': 'Plugins are extensions for SeaTable. There are different types of plugins. Plugins for data visualization include the gallery, calendar, map, Kanban, and timeline plugins. The page design plugin allows creating documents. With SQL queries and data deduplication, you can search for and delete records. Plugins can also be developed individually.'
+  'link': 'help/base-editor/plugins'
+  'position': 'left'
+  'x': 91
+  'y': 10
+
+- 'label': 'Views'
+  'description': |
+      A view is a customized display of data in a table. A view is defined by the applied sorting, filters, groupings,
+      column hiding, and other view settings.<br><br>
+      A table can contain one or more views. All views of a table access the same dataset.
+      This means: When a cell value is changed in one view, that value is updated in the underlying table and therefore in all views of the table.<br><br>
+      When a view is locked, its settings can no longer be changed.
+  'link': 'help/base-editor/ansichten'
+  'position': 'right'
+  'x': 4
+  'y': 14

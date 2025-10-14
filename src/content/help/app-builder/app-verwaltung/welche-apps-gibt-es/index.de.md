@@ -6,6 +6,8 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/welche-apps-gibt-es'
+star: true
+weight: 1
 ---
 
 **Apps** in SeaTable sind individuelle **Frontends** für spezifische Benutzergruppen, die unterschiedliche Informationsbedürfnisse haben (z. B. Mitarbeiter, Abteilungsleiter, Geschäftsführer). Durch den offenen Zugang zu Apps können Sie Ihre Daten auch für **externe Dritte** (z. B. Kunden, Geschäftspartner) **ohne SeaTable Konto** nutzbar machen.

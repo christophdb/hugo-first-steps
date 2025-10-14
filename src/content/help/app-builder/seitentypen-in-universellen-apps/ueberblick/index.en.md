@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Universal App Page Types: Features & Overview'
     description: 'Discover all Universal App page types: table, form, gallery, calendar, Kanban, timeline and more – flexible views for your app project.'
-
+star: true
 weight: 1
 ---
 

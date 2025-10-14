@@ -1,0 +1,13 @@
+- label: "Paramètres de l'application"
+  description: "Dans les paramètres de l'application, vous configurez des options supplémentaires telles que le nom, l'URL ou l'accès."
+  link: 'help/app-builder/einstellungen'
+  position: 'right'
+  'x': 2.3
+  'y': 5.9
+
+- label: 'Types de pages'
+  description: "Avec le +, vous créez de nouvelles pages dans votre application. Le générateur d'applications universel offre une variété de types de pages différents parmi lesquels choisir. Plus d'informations sont disponibles ici."
+  link: 'help/app-builder/seitentypen-in-universellen-apps'
+  position: 'right'
+  'x': 7.7
+  'y': 35.3
