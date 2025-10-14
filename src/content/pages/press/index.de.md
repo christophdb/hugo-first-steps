@@ -5,24 +5,23 @@ date: '2025-04-03'
 url: '/de/presse'
 
 sections:
-    - name: hero-1
+    - name: hero-6
       weight: 1
-      h2_left: "Presse"
-      h2_right: "& News"
-      description: "Auf dieser Seite finden Sie unser Presse- und Mediakit sowie interessante Medienberichte über SeaTable. Denn nicht nur wir selbst berichten über uns, sondern auch zahlreiche Medien.<br></br>Sie möchten ebenfalls über uns schreiben? Immer wieder gerne!"
+      h1: 'Presse & News'
+      description: 'Auf dieser Seite finden Sie unser Presse- und Mediakit sowie interessante Medienberichte über SeaTable. Denn nicht nur wir selbst berichten über uns, sondern auch zahlreiche Medien.<br></br>Sie möchten ebenfalls über uns schreiben? Immer wieder gerne!'
       buttons:
-        - label: "Entdecken Sie unser Presse- und Mediakit"
-          link: "https://cloud.seatable.io/apps/custom/press-and-media-kit"
-          style: "primary"
-          id: de-homepage-registration-hero-1
-      image: "/images/seatable-press-and-media-kit.png"
+          - label: 'Entdecken Sie unser Presse- und Mediakit'
+            link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
+            style: 'primary'
+            id: de-homepage-registration-hero-1
+      image: '/images/seatable-press-and-media-kit.png'
 
-    - name: "banner-3"
+    - name: 'banner-3'
       weight: 2
-      title: "Sie haben eine konkrete Presse- oder Interview-Anfrage?"
+      title: 'Sie haben eine konkrete Presse- oder Interview-Anfrage?'
       buttons:
-        - label: "Kontaktieren Sie uns gerne jederzeit"
-          link: "pages/contact"
+          - label: 'Kontaktieren Sie uns gerne jederzeit'
+            link: 'pages/contact'
 
     - name: 'content-3'
       weight: 3
@@ -30,24 +29,24 @@ sections:
       subtitle: 'Informationen und Bildmaterial'
       description: 'Entdecken Sie die neuesten Pressemitteilungen, anschauliche Präsentationen und sofort verwendbares Bildmaterial. All das steht in unserem Presse- und Mediakit kompakt für Sie zum Download bereit.'
       items:
-      - headline: 'Präsentationen'
-        text: 'Alle Infos anschaulich auf den Punkt'
-        image: /images/seatable-presentations.jpg
-        image_alt:
-      - headline: 'Pressemitteilungen'
-        text: 'Alle Neuigkeiten über SeaTable'
-        image: /images/seatable-press-release.png
-        image_alt:
-      - headline: 'Bildmaterial'
-        text: 'Alle Screenshots, Fotos und Logos'
-        image: /images/seatable-screenshots.png
-        image_alt:
+          - headline: 'Präsentationen'
+            text: 'Alle Infos anschaulich auf den Punkt'
+            image: /images/seatable-presentations.jpg
+            image_alt:
+          - headline: 'Pressemitteilungen'
+            text: 'Alle Neuigkeiten über SeaTable'
+            image: /images/seatable-press-release.png
+            image_alt:
+          - headline: 'Bildmaterial'
+            text: 'Alle Screenshots, Fotos und Logos'
+            image: /images/seatable-screenshots.png
+            image_alt:
       buttons:
           - label: 'Durchstöbern Sie unser Presse- und Mediakit'
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
 
-    - name: "content-23"
+    - name: 'content-23'
       weight: 4
       title: 'SeaTable ist in aller Munde'
       subtitle: 'Veröffentlichungen'
@@ -58,5 +57,4 @@ sections:
     - name: 'content-24'
       weight: 5
       title: 'Presse- und Medienberichte'
-
 ---

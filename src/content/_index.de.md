@@ -8,7 +8,7 @@ sections:
   h2_left: "No code,"
   h2_right: "no limits"
   h1: "SeaTable No-Code-Plattform: Organisieren Sie alle Ihre Daten und entwickeln Sie maßgeschneiderte Applikationen, ohne eine einzige Zeile Code zu schreiben!"
-  description: "Gestalten Sie intuitiv benutzerdefinierte Datenbanken, Workflows und Apps – ganz einfach.<br>Unsere No-Code Lösung vereint die Einfachheit von Tabellenkalkulationen mit der Power von No-Code Datenbanken und No-Code App Buildern und lässt sich auch als Low-Code Plattform nutzen."
+  description: 'Gestalten Sie intuitiv benutzerdefinierte Datenbanken, Workflows und Apps – ganz einfach.<br>Unsere No-Code Lösung vereint die Einfachheit von Tabellenkalkulationen mit der Power von No-Code Datenbanken und No-Code App Buildern und lässt sich auch als Low-Code Plattform nutzen.'
   buttons:
     - label: Jetzt loslegen
       link: "pages/registration"
@@ -59,7 +59,7 @@ sections:
   weight: 3
   title: "Behalten Sie immer die Übersicht über alle Ihre Daten"
   subtitle: "Visualisierung der Daten"
-  description: "Visualisieren Sie Ihre Datensätze auf jede erdenkliche Weise und arbeiten Sie in Echtzeit zusammen. Hier nur einige der Möglichkeiten von SeaTable."
+  description: 'Visualisieren Sie Ihre Datensätze auf jede erdenkliche Weise und arbeiten Sie in Echtzeit zusammen. Hier nur einige der Möglichkeiten von SeaTable.'
   items:
   - text: "Base Editor"
     image: "/images/template-content-marketing-strategie.png"
@@ -101,16 +101,16 @@ sections:
   weight: 5
   title: "Erstellen Sie individuelle Apps"
   subtitle: "Ohne Programmierkenntnisse"
-  description: "Willkommen in der Zukunft der App-Entwicklung, bei der Programmierkenntnisse optional sind. Mit SeaTable können Sie sofort loslegen!"
+  description: 'Willkommen in der Zukunft der App-Entwicklung, bei der Programmierkenntnisse optional sind. Mit SeaTable können Sie sofort loslegen!'
   classes:
   - bg-gray-100
   - curved
   items:
   - headline: "Nutzen Sie den No-Code App Builder"
-    text: "Unser No Code App Builder ermöglicht es Ihnen, leistungsstarke, datengetriebene Anwendungen 
+    text: 'Unser No Code App Builder ermöglicht es Ihnen, leistungsstarke, datengetriebene Anwendungen 
       mühelos per Drag-and-Drop-Funktion zu erstellen. Programmieren ohne Code: Ob Sie ein CRM,
       ein Projektmanagement-Tool oder eine spezifische Lösung für Ihr Unternehmen benötigen – Sie
-      können alles selbst erstellen, auch ohne eine einzige Zeile Code schreiben zu müssen."
+      können alles selbst erstellen, auch ohne eine einzige Zeile Code schreiben zu müssen.'
   - headline: "Intuitive No-Code und Low-Code Benutzeroberfläche"
     text: "Egal, ob Sie ein erfahrener Entwickler oder ein Citizen Developer ohne
       Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen
@@ -127,7 +127,7 @@ sections:
   description: 
   items:
   - headline: "Kein Code, volle Flexibilität"
-    text: "Verabschieden Sie sich von komplexen Programmiervorgängen. Selbst die anspruchsvollen Prozesse lassen sich auf einer einfachen Drag-and-Drop-Oberfläche erstellen."
+    text: 'Verabschieden Sie sich von komplexen Programmiervorgängen. Selbst die anspruchsvollen Prozesse lassen sich auf einer einfachen Drag-and-Drop-Oberfläche erstellen.'
     icon: "twitter"
   - headline: "Vielseitiger App-Builder"
     text: "Apps selbst erstellen – maßgeschneidert für Ihr Geschäftsmanagement, Ihre Kundenbindung und vieles mehr, perfekt auf die Bedürfnisse Ihres Unternehmens abgestimmt."
@@ -169,8 +169,8 @@ sections:
   items:
   - title: Automatisieren Sie Prozesse
     subtitle: Sparen Sie wertvolle Zeit
-    text: "Unsere No-Code Plattform ermöglicht es Ihnen, wiederkehrende Aufgaben zu automatisieren, Workflows zu erstellen und Benachrichtigungen zu konfigurieren. 
-      So können Sie sich auf das Wesentliche konzentrieren und die Effizienz Ihres Unternehmens steigern."
+    text: 'Unsere No-Code Plattform ermöglicht es Ihnen, wiederkehrende Aufgaben zu automatisieren, Workflows zu erstellen und Benachrichtigungen zu konfigurieren. 
+      So können Sie sich auf das Wesentliche konzentrieren und die Effizienz Ihres Unternehmens steigern.'
   - subtitle: Ohne Limits
     title: Die Datenbank, die dort weitermacht, wo Excel an Grenzen stößt
     text: "Verabschieden Sie sich von den Einschränkungen traditioneller Tabellenkalkulationen. Unsere No-Code Datenbank bietet Ihnen die Flexibilität und Leistungsfähigkeit, die Excel nicht erreichen kann.<br/><br/>
@@ -231,7 +231,7 @@ sections:
   items:
   - text: SeaTable lässt sich nahtlos in eine Vielzahl von Drittanbieter-Tools integrieren. Verbinden Sie Ihre Anwendungen über APIs, um Daten in Echtzeit zu synchronisieren.
   - text: "Ob CRM-Systeme, Marketing-Tools oder andere Geschäftsanwendungen – SeaTable ermöglicht eine einfache und <strong>flexible Integration in Ihre bestehende IT-Landschaft</strong>."
-  - text: "Unsere No-Code Plattform unterstützt die Integration mit zahlreichen Tools und hilft Ihnen, Ihre IT-Infrastruktur zu optimieren."
+  - text: 'Unsere No-Code Plattform unterstützt die Integration mit zahlreichen Tools und hilft Ihnen, Ihre IT-Infrastruktur zu optimieren.'
   image: "/images/seatable-integrations.png"
 
 - name: content-5
@@ -295,7 +295,7 @@ sections:
   - q: "Kann man SeaTable auf dem eigenen Server hosten? Welche Deployment Optionen gibt es?"
     a: "Sie haben die Wahl: Nutzen Sie SeaTable in der Cloud oder betreiben Sie es auf Ihrem eigenen Server. Unsere flexible Deployment-Option ermöglicht es Ihnen, die Lösung zu wählen, die am besten zu Ihren Anforderungen und Sicherheitsrichtlinien passt. Profitieren Sie von der Skalierbarkeit und dem Komfort der Cloud oder der Kontrolle und Sicherheit einer On-Premises-Installation. Die SeaTable No-Code und Low-Code Plattformen bieten Ihnen die Flexibilität, die für Ihr Unternehmen passende Bereitstellungsoption zu wählen."
   - q: "Was sind die Hauptmerkmale von Low Code / No Code Lösungen?"
-    a: "Unsere Plattform bietet eine Vielzahl von Vorteilen, um Ihre digitale Transformation zu unterstützen. Ob Sie die Flexibilität einer Low Code Plattform oder die Einfachheit von No-Code-Plattformen bevorzugen, wir unterstützen beides. Sie können Datenmanagement-Systeme nahtlos integrieren, um Daten zu sammeln, aufzubereiten und zu analysieren. Mit unseren Tools beschleunigen Sie die digitale Transformation Ihres Unternehmens, indem Sie Prozesse digitalisieren, optimieren und automatisieren. Unser Ansatz fördert Citizen Development, sodass Ihr Team kreativ und innovativ agieren kann, ohne auf IT-Abhängigkeit angewiesen zu sein. Zudem steht Ihnen umfassender Support zur Verfügung, der Sie bei Ihrer No Code Entwicklung begleitet und Ihnen hilft, Ihre eigene App zu erstellen."
+    a: 'Unsere Plattform bietet eine Vielzahl von Vorteilen, um Ihre digitale Transformation zu unterstützen. Ob Sie die Flexibilität einer Low Code Plattform oder die Einfachheit von No-Code-Plattformen bevorzugen, wir unterstützen beides. Sie können Datenmanagement-Systeme nahtlos integrieren, um Daten zu sammeln, aufzubereiten und zu analysieren. Mit unseren Tools beschleunigen Sie die digitale Transformation Ihres Unternehmens, indem Sie Prozesse digitalisieren, optimieren und automatisieren. Unser Ansatz fördert Citizen Development, sodass Ihr Team kreativ und innovativ agieren kann, ohne auf IT-Abhängigkeit angewiesen zu sein. Zudem steht Ihnen umfassender Support zur Verfügung, der Sie bei Ihrer No Code Entwicklung begleitet und Ihnen hilft, Ihre eigene App zu erstellen.'
   - q: "Was sind typische Anwendungen von No Code und Low Code?"
     a: "Mit unserer Plattform können Sie Geschäftsprozesse digitalisieren, automatisieren und optimieren, um die Effizienz zu steigern und Kosten zu senken. Wir bieten individuelle App-Erstellung, um maßgeschneiderte Lösungen für Ihre spezifischen Geschäftsanforderungen zu entwickeln. Beginnen Sie mit unserer kostenlosen Version, um Ihre eigene App ohne anfängliche Investition zu erstellen. Zudem ermöglichen wir Ihnen, schnell Prototypen zu erstellen und Ihre Ideen zu testen, bevor Sie in die vollständige Entwicklung gehen, ideal für die Erstellung von Minimal Viable Products (MVPs)."
 

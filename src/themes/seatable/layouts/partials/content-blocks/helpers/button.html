@@ -22,7 +22,7 @@
     <!-- TODO: Add icon for external links -->
     <!-- TODO: Add icon to render-link.html -->
 {{ else if eq .style "text" }}
-    <div class="flex">
+    <div class="flex items-center gap-1">
         <a href="{{ $link }}" {{ if $external }}target="_blank" rel="nofollow"{{ end }} {{ with .id }}id="{{ . }}"{{ end }}>{{ .label }}</a>
         {{ partial "icon.html" "arrow-right" }}
     </div>

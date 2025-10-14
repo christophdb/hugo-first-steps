@@ -5,24 +5,23 @@ date: '2025-04-03'
 url: '/press'
 
 sections:
-    - name: hero-1
+    - name: hero-6
       weight: 1
-      h2_left: "Press"
-      h2_right: "& News"
-      description: "On this page you will find our press and media kit as well as interesting media reports about SeaTable. Because not only we report about us, but also numerous media.<br></br>Would you also like to write about us? We are always happy to give you more information."
+      h1: 'Press & News'
+      description: 'On this page you will find our press and media kit as well as interesting media reports about SeaTable. Because not only we report about us, but also numerous media.<br></br>Would you also like to write about us? We are always happy to give you more information.'
       buttons:
-        - label: "Discover our press and media kit"
-          link: "https://cloud.seatable.io/apps/custom/press-and-media-kit"
-          style: "primary"
-          id: de-homepage-registration-hero-1
-      image: "/images/seatable-press-and-media-kit.png"
+          - label: 'Discover our press and media kit'
+            link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
+            style: 'primary'
+            id: de-homepage-registration-hero-1
+      image: '/images/seatable-press-and-media-kit.png'
 
-    - name: "banner-3"
+    - name: 'banner-3'
       weight: 2
-      title: "Do you have a specific press or interview request?"
+      title: 'Do you have a specific press or interview request?'
       buttons:
-        - label: "Feel free to contact us at any time"
-          link: "pages/contact"
+          - label: 'Feel free to contact us at any time'
+            link: 'pages/contact'
 
     - name: 'content-3'
       weight: 3
@@ -30,24 +29,24 @@ sections:
       subtitle: 'Information and images'
       description: 'Discover the latest press releases, clear presentations and immediately usable image material. All of this is available for you to download in our press and media kit.'
       items:
-      - headline: 'Presentations'
-        text: 'All information straight to the point'
-        image: /images/seatable-presentations.jpg
-        image_alt:
-      - headline: 'Press releases'
-        text: 'All the latest news about SeaTable'
-        image: /images/seatable-press-release.png
-        image_alt:
-      - headline: 'Image material'
-        text: 'All screenshots, photos, and logos'
-        image: /images/seatable-screenshots.png
-        image_alt:
+          - headline: 'Presentations'
+            text: 'All information straight to the point'
+            image: /images/seatable-presentations.jpg
+            image_alt:
+          - headline: 'Press releases'
+            text: 'All the latest news about SeaTable'
+            image: /images/seatable-press-release.png
+            image_alt:
+          - headline: 'Image material'
+            text: 'All screenshots, photos, and logos'
+            image: /images/seatable-screenshots.png
+            image_alt:
       buttons:
           - label: 'Browse through our press and media kit'
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
             style: 'primary'
 
-    - name: "content-23"
+    - name: 'content-23'
       weight: 4
       title: 'Many talk about SeaTable'
       subtitle: 'Publications'
@@ -58,5 +57,4 @@ sections:
     - name: 'content-24'
       weight: 5
       title: 'Press and media reports'
-
 ---
