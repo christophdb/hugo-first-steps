@@ -5,7 +5,12 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/pomoshch/die-datei-spalte'
+url: '/ru/pomoshch/failovyy-stolbec-seatable'
+aliases:
+    - '/ru/pomoshch/die-datei-spalte'
+seo:
+    title: 'Файловый столбец в SeaTable – хранить и делиться'
+    description: 'Узнайте, как использовать файловый столбец SeaTable для загрузки, обмена, переименования, удаления и управления документами прямо в таблице.'
 ---
 
 В **колонке файла** можно сохранить один или несколько файлов и таким образом добавить документы в соответствующую строку.

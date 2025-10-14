@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/es/ayuda/verwendung-von-emojis-im-tabellennamen'
+url: '/es/ayuda/usar-emojis-nombres-tablas-seatable'
+aliases:
+    - '/es/ayuda/verwendung-von-emojis-im-tabellennamen'
+seo:
+    title: 'Usa emojis en nombres de tablas – más orden SeaTable'
+    description: 'Descubre cómo usar emojis en nombres de tablas en SeaTable y haz más visual la navegación entre muchas tablas y proyectos. Fácil y rápido.'
 ---
 
 Con cada tabla adicional que añada a su base, la [navegación por las tablas]({{< relref "help/base-editor/tabellen/nach-einer-tabelle-suchen" >}}) en la cabecera de la base se vuelve más confusa. Para resolver este problema, SeaTable admite la [ocultación de tablas]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) y el **uso de emojis en el nombre de la tabla**.

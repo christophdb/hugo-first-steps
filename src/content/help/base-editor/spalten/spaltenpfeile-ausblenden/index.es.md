@@ -5,7 +5,12 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/es/ayuda/spaltenpfeile-ausblenden'
+url: '/es/ayuda/ocultar-flechas-columna-seatable'
+aliases:
+    - '/es/ayuda/spaltenpfeile-ausblenden'
+seo:
+    title: 'Ocultar flechas de columna en SeaTable – vista ordenada'
+    description: 'Aprenda a ocultar las flechas de columna en SeaTable para una vista más limpia, segura y sin distracciones en sus tablas configuradas.'
 ---
 
 Puede **ocultar** las **flechas de columna** con las que se abre el **menú desplegable de las opciones de columna**. Esto tiene sentido, por ejemplo, si ya no desea cambiar la **configuración acabada de** las columnas y quiere tener una visión más clara.

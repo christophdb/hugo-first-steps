@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/anleitung-zum-kalender-plugin'
+seo:
+    title: 'Kalender-Plugin in SeaTable – einzigartige Ansichten nutzen'
+    description: 'Das Kalender-Plugin in SeaTable stellt Ihre Termine im Jahr, Monat, Woche, Tagesplaner oder in der Agenda dar. Komplettes Setup und Tipps.'
 ---
 
 Das Kalender-Plugin zeigt Ihnen Daten aus einer Tabelle in **Kalenderform** an. Dabei können Sie sich einen Überblick über verschiedene **Zeiträume** (Jahr, Monat, Woche, Tag) verschaffen.

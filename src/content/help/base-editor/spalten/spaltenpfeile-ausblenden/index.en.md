@@ -5,7 +5,12 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/help/spaltenpfeile-ausblenden'
+url: '/help/hide-column-arrows-seatable'
+aliases:
+    - '/help/spaltenpfeile-ausblenden'
+seo:
+    title: 'Hide column arrows in SeaTable – simplify your table view'
+    description: 'Discover how to hide column arrows in SeaTable. Clean up your header bar, lock configurations, and work distraction-free.'
 ---
 
 You can **hide** the **column arrows** with which you open the **drop-down menu of the column options**. This makes sense, for example, if you no longer want to change the **finished configuration of** the columns and want to have a clearer view.

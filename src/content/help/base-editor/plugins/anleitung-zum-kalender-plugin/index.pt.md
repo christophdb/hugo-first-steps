@@ -6,6 +6,11 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/pt/ajuda/anleitung-zum-kalender-plugin'
+aliases:
+    - '/pt/ajuda/anleitung-zum-kalender-plugin'
+seo:
+    title: 'Guia do plugin do calendário SeaTable – visualização e uso'
+    description: 'Aprenda a configurar e usar o plugin do calendário no SeaTable. Veja compromissos por ano, mês, semana, agenda e planeador diário facilmente.'
 ---
 
 O plug-in do calendário mostra-lhe os dados de uma tabela em **forma de calendário**. Pode obter uma visão geral dos diferentes **períodos de tempo** (ano, mês, semana, dia).
