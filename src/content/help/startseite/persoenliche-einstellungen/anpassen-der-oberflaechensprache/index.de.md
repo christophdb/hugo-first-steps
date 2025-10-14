@@ -22,9 +22,11 @@ Die **Oberflächensprache** ist die Sprache, in der SeaTable mit Ihnen kommunizi
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Klicken Sie auf Ihr **Avatarbild** in der oberen rechten Ecke, um das Drop-down-Menü zu öffnen.
-   ![Persönliche Einstellungen über Drop-down-Menü öffnen](images/Persoenliche-Einstellungen-ueber-Drop-down-Menue-oeffnen.png)4. Klicken Sie auf **Persönliche Einstellungen**.
-3. Wählen Sie im Abschnitt "Sprache" eine beliebige **Sprache** aus dem Drop-down-Menü aus.
-   ![Auswahl der Oberflächensprache aus dem Drop-down-Menü](images/select-language.png)7. Die ausgewählte Sprache wird automatisch als neue **Oberflächensprache** übernommen.
+   ![Persönliche Einstellungen über Drop-down-Menü öffnen](images/Persoenliche-Einstellungen-ueber-Drop-down-Menue-oeffnen.png)
+3. Klicken Sie auf **Persönliche Einstellungen**.
+4. Wählen Sie im Abschnitt "Sprache" eine beliebige **Sprache** aus dem Drop-down-Menü aus.
+   ![Auswahl der Oberflächensprache aus dem Drop-down-Menü](images/interface-language.png)
+5. Die ausgewählte Sprache wird automatisch als neue **Oberflächensprache** übernommen.
 
 ## Verfügbare Sprachen
 
@@ -32,6 +34,8 @@ Derzeit stehen folgende Oberflächensprachen zur Auswahl:
 
 - Deutsch
 - Englisch
+- Spanisch
 - Französisch
 - Russisch
+- Portugiesisch
 - Chinesisch
