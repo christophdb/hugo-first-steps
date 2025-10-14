@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/aendern-des-teamnamens'
+url: '/fr/aide/modifier-nom-equipe-seatable'
+aliases:
+    - '/fr/aide/aendern-des-teamnamens'
+seo:
+    title: 'Modifier le nom d’équipe SeaTable – guide administrateur'
+    description: 'Les administrateurs de SeaTable modifient le nom d’équipe en quelques clics. Suivez les étapes et découvrez les points à surveiller.'
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}

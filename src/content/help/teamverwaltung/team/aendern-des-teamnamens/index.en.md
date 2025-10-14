@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/aendern-des-teamnamens'
+url: '/help/change-team-name-seatable'
+aliases:
+    - '/help/aendern-des-teamnamens'
+seo:
+    title: 'Change team name in SeaTable – admin quick guide'
+    description: 'Team admins can easily change the team name in SeaTable. Step-by-step instructions and what to consider for a successful rename.'
 ---
 
 {{< required-version "Team Administrators" >}}

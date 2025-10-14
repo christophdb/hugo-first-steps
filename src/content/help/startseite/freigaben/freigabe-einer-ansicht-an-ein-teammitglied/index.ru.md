@@ -5,7 +5,12 @@ lastmod: '2022-12-19'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/pomoshch/freigabe-einer-ansicht-an-ein-teammitglied'
+url: '/ru/pomoshch/podelitsya-vidom-seatable-uchastniku'
+aliases:
+    - '/ru/pomoshch/freigabe-einer-ansicht-an-ein-teammitglied'
+seo:
+    title: 'Поделиться видом SeaTable с участником – настройки доступа'
+    description: 'Делитесь отдельными видами таблиц SeaTable с коллегой, настраивайте права доступа и отличайте права от полной передачи всей таблицы.'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}
