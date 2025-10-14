@@ -1,0 +1,41 @@
+- 'label': 'Bases'
+  'description': 'Une base est une base de données. Une base se compose d’une ou de plusieurs tables et peut contenir plusieurs milliers de lignes. Toutes les bases auxquelles un utilisateur a accès sont affichées sur la page d’accueil.'
+  'link': 'help/startseite/bases'
+  'position': 'right'
+  'x': 64.5
+  'y': 31.5
+
+- 'label': 'Notifications'
+  'description': |
+      Une notification est un message à l’intérieur de SeaTable.<br><br>
+      Une notification peut être générée par le système ou envoyée activement par les utilisateurs.<br><br>
+      Lorsqu’il y a de nouvelles notifications, cela est indiqué par un chiffre sur l’**icône de cloche**.
+  'link': 'help/startseite/benachrichtigungen'
+  'position': 'left'
+  'x': 91
+  'y': 4
+
+- 'label': 'Paramètres personnels'
+  'description': 'Derrière l’avatar se trouve un menu pour les paramètres personnels, la gestion de l’équipe et les limites actuelles de votre équipe.'
+  'link': 'help/startseite/persoenliche-einstellungen'
+  'position': 'left'
+  'x': 97
+  'y': 5
+
+- 'label': 'Jeux de données partagés'
+  'description': |
+      Les jeux de données partagés permettent de mettre à disposition une vue de table prédéfinie à d’autres groupes et utilisateurs,
+      afin qu’ils puissent accéder à des données spécifiques dans divers contextes et départements.
+  'link': 'help/startseite/gemeinsame-datensaetze'
+  'position': 'left'
+  'x': 20
+  'y': 28.5
+
+- 'label': 'Groupes'
+  'description': |
+      Un groupe se compose d’un ou de plusieurs membres de l’équipe.<br><br>
+      Un groupe est donc un moyen d’organiser les utilisateurs par thème au sein d’une équipe et de faciliter la collaboration. Chaque groupe est identifié de manière unique par son nom dans l’équipe.
+  'link': 'help/startseite/gruppen'
+  'position': 'left'
+  'x': 39
+  'y': 93
