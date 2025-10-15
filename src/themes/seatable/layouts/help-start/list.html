@@ -1,8 +1,10 @@
 {{ define "main" }}
     <section class="padding max-container mt-4">
         <div class="text-center">
+            <!-- Headline -->
             <h1 class="mb-8 text-4xl">{{ .Params.headline }}</h1>
 
+            <!-- Search -->
             <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
             <script src="/pagefind/pagefind-ui.js"></script>
             <div id="search" class="mx-auto max-w-2xl text-left"></div>
@@ -13,6 +15,7 @@
             </script>
         </div>
 
+        <!-- Help categories -->
         <div class="mx-auto my-12 grid max-w-4xl auto-rows-fr grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4">
             {{ range .Sections }}
                 {{ $bgClass := .Params.color | default "bg-red-100" }}
@@ -28,17 +31,78 @@
         </div>
     </section>
 
+    <!-- More information -->
+    <section class="curved padding relative bg-seatable-blue">
+        <section class="max-container">
+            <div class="mx-auto mb-12 max-w-3xl text-center">
+                <p class="gradient font-poppins text-2xl font-bold">{{ .Params.info_sources.subtitle }}</p>
+                <h2 class="mt-1 text-4xl font-bold text-white">{{ .Params.info_sources.title }}</h2>
+                <p>&nbsp;</p>
+            </div>
+
+            
+            <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+
+                {{ range .Params.sources }}
+                    {{ $link := .link }}
+                    {{ if not (or (hasPrefix $link "http://") (hasPrefix $link "https://")) }}
+                        {{ with $.Site.GetPage $link }}
+                            {{ $link = .RelPermalink }}
+                        {{ end }}
+                    {{ end }}
+
+                    <div class="flex flex-col rounded-md bg-gray-100 p-8">
+                        <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
+                        <h3 class="mt-3 text-2xl font-bold">{{ .title }}</h3>
+                        <p class="mb-8 mt-4">{{ .text | markdownify }}</p>
+                        <a class="mt-auto flex items-center gap-1 font-bold text-blue-500" href="{{ $link }}">{{ .link_text}} {{ partial "icon.html" "arrow-top-right" }}</a>
+                    </div>
+                {{ end }}
+
+            </div>
+        </section>
+    </section>
+
+    <!-- Customer feedback and contact -->
+    <section class="max-container padding relative">
+        <div class="mx-auto max-w-xl text-center">
+            <h2 class="mt-1 text-3xl font-bold">{{ .Params.customer_feedback.title }}</h2>
+            <p class="mt-4 text-lg leading-relaxed">{{ .Params.customer_feedback.text }}</p>
+            <div class="mt-8 text-center">
+                <a class="bg-gradient rounded-xl px-5 py-2 font-poppins text-lg font-bold text-white" href="{{ relref . "/pages/contact" }}">{{ .Params.customer_feedback.contact_us }}</a>
+            </div>
+        </div>
+
+        <div class="max-container mb-24 mt-24 flex flex-row gap-4 items-start">
+            {{ $bgColors := slice "bg-orange-100" "bg-sky-100" "bg-green-100" "bg-red-50" "bg-blue-50" "bg-orange-50" "bg-lime-50"}}
+            {{ range $i, $customer := .Params.customers }}
+
+                {{ if eq (mod $i 2) 0 }}
+                <div class="flex flex-1 flex-col gap-4">
+                {{ end }}
+                    <div class="rounded-xl border border-gray-300 {{ index $bgColors $i }} p-6 pr-10 -indent-1 shadow-lg {{ if eq (mod $i 4) 0 }} -mt-4 {{ end }}">
+                        <p class="text-base leading-normal">„{{ $customer.comment | markdownify }}“</p>
+                        <div class="pt-8 text-base gradient pl-1 font-bold font-poppins">{{ $customer.name }}</div>
+                    </div>
+                
+                {{ if eq (mod $i 2) 1 }}
+                </div>
+                {{ end }}
+            {{ end }}
+        </div>
+    </section>
+
     <!--
-    <section class="bg-gray-100 curved relative">
+    <section class="curved relative bg-gray-100">
         <section class="max-container pt-20">
-            <p class="gradient font-poppins text-2xl font-bold">asdf</p>
-            <h2 class="mt-1 text-4xl font-bold">adf</h2>
+            <p class="gradient font-poppins text-2xl font-bold">Nicht das richtige gefunden?</p>
+            <h2 class="mt-1 text-4xl font-bold">Weitere Informationsquellen</h2>
             <div class="mx-auto mt-12 grid grid-cols-1 gap-40 lg:grid-cols-2 xl:grid-cols-3">
                 <div class=" ">
                     <span class="text-center text-3xl text-seatable-orange">{{ partial "icon.html" "ghost" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">Was gibt es Neues?</h3>
-                    <p class="mb-8 mt-4 text-lg leading-normal">Alle Upgrades und Verbesserungen, mit denen sich alles besser organisieren lässt.</p>
-                    <a href="#" class="text-blue-600">Zum Changelog</a>
+                    <h3 class="mt-3 text-2xl font-bold">Community Forum</h3>
+                    <p class="mb-8 mt-4 text-lg leading-normal">Tauschen Sie sich mit anderen Nutzern aus, um Fragen über SeaTable zu stellen und zu beantworten.</p>
+                    <a href="#" class="text-blue-600">Zum Forum</a>
                 </div>
                 <div class=" ">
                     <span class="text-center text-3xl text-seatable-orange">{{ partial "icon.html" "ghost" }}</span>
@@ -55,7 +119,9 @@
             </div>
         </section>
     </section>
+    -->
 
+    <!--
         <section class="max-container">
             <div class="mx-auto max-w-xl text-center">
                 <h2 class="mt-1 text-3xl font-bold">Echte Menschen, die für dich da sind</h2>
@@ -90,7 +156,7 @@
             </div>
         </section>
     </section>
-    --->
+    -->
 
     <!--
         <div class="my-12">Noch ganz viele andere Hilfequellen...</div>

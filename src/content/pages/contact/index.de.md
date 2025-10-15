@@ -10,5 +10,5 @@ sections:
     - name: form-contact
       weight: 1
       title: 'Kontaktieren Sie uns'
-      description: 'SeaTable gibt es sowohl als Cloud Produkt als auch als selbst gehostete Server Version. Dementsprechend bieten wir unseren Kunden unterschiedliche Kommunikationskanäle.'
+      description: 'SeaTable ist sowohl als Cloud-Produkt als auch als selbst gehostete Server-Version verfügbar. Bitte wählen Sie Ihr Anliegen, um mit uns Kontakt aufzunehmen.'
 ---

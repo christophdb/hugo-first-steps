@@ -45,12 +45,21 @@
             /* form actions for registration and contact form */
             function contactForm() {
                 return {
+                    type: '',
+                    teamname: '',
                     firstname: '',
                     lastname: '',
                     company: '',
+                    orgType: 'business',
                     email: '',
-                    type: 'sales',
-                    subject: '',
+                    phone: '',
+                    url: '',
+                    address: '',
+                    country: '',
+                    vatId: '',
+                    products: [],
+                    preferredLanguage: 'en',
+                    reason: 'bug-report',
                     message: '',
                     // Honeypot field
                     name: '',
@@ -81,12 +90,20 @@
 
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
                         const data = {
+                            type: this.type,
                             firstname: this.firstname,
                             lastname: this.lastname,
                             company: this.company,
+                            orgType: this.orgType,
                             email: this.email,
-                            subject: this.subject,
-                            type: this.type,
+                            phone: this.phone,
+                            url: this.url,
+                            address: this.address,
+                            country: this.country,
+                            vatId: this.vatId,
+                            products: this.products,
+                            preferredLanguage: this.preferredLanguage,
+                            reason: this.reason,
                             message: this.message,
                         };
 

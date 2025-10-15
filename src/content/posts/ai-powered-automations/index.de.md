@@ -1,7 +1,8 @@
 ---
-title: 'KI unterstützte Automationen: Das Highlight von SeaTable Cloud v6.0'
+title: 'KI unterstützte Automationen: Das Highlight von SeaTable Cloud 6.0'
 description: 'Mit SeaTable 6.0 halten KI unterstützte Automationen Einzug in die Cloud. Profitieren Sie von intelligenter Prozessautomatisierung, voller DSGVO-Konformität und maximaler Datensouveränität dank eigenem KI-Server in Deutschland.'
 date: '2025-09-30'
+lastmod: '2025-10-14'
 url: '/ki-automationen-datenschutz'
 seo:
     title: 'KI made in Europe: SeaTable bringt sichere KI unterstützte Automationen in die Cloud'
@@ -18,7 +19,7 @@ color: '#f2d1e3'
 
 Der 1. Oktober 2025 markiert für uns bei SeaTable einen besonderen Moment: Die Veröffentlichung von Version 6.0. Und diese Version hat es in sich. Mit den neuen **KI unterstützten Automationen** schlagen wir ein ganz neues Kapitel auf – eines, das den Arbeitsalltag in Unternehmen spürbar verändern wird.
 
-{{< info-box headline="Gestaffelte Veröffentlichung" text="SeaTable 6.0 steht ab heute (01.10.2025) für alle Self-Hoster auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download zur Verfügung. SeaTable Cloud werden wir **Mitte Oktober** auf die Version 6.0 aktualisieren." />}}
+{{< info-box headline="Gestaffelte Veröffentlichung" text="SeaTable 6.0 steht ab heute (01.10.2025) für alle Self-Hoster auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download zur Verfügung. SeaTable Cloud werden wir **Mitte/Ende Oktober** auf die Version 6.0 aktualisieren." />}}
 
 Denn Automationen waren schon immer ein Kernstück von SeaTable. Sie helfen dabei, wiederkehrende Prozesse zu standardisieren und Abläufe einfacher zu machen. Aber jetzt gehen wir den entscheidenden Schritt weiter: Wir kombinieren unsere Automationen mit künstlicher Intelligenz (=KI). Plötzlich können Prozesse nicht nur _automatisiert_, sondern auch _intelligent_ gesteuert werden. Rechnungen, die automatisch in Tabellen eingetragen werden, E-Mails, die nach Inhalt sortiert und weitergeleitet werden, oder lange Texte, die in Sekundenschnelle auf das Wesentliche reduziert werden – all das wird nun Realität in SeaTable.
 
@@ -53,6 +54,8 @@ Und die Leistung kann sich sehen lassen:
 
 Schnell, effizient und stabil genug, um echten Mehrwert im täglichen Betrieb zu bringen.
 
+Sollte sich zeigen, dass dieser GPU-Server nicht die notwendige Leistungsfähigkeit besitzt, werden wir die Hardware bei Bedarf anpassen.
+
 ## KI-Automatisierungen in der Praxis
 
 Besonders spannend sind die konkreten Anwendungen, die damit möglich werden – und die Ergebnisse landen immer da, wo sie hingehören: in Ihrer **SeaTable Base**.
@@ -71,6 +74,10 @@ Alle Funktionen sind so gestaltet, dass sie auch für KI-Neulinge problemlos nut
 Mit **Version 6.0** stehen die _KI unterstützten Automationen_ allen **Enterprise-Kunden** kostenlos zur Verfügung – mit ausreichenden Kontingenten, um die neuen Möglichkeiten intensiv zu testen.
 
 Mit **Version 6.1** öffnen wir die Funktionen auch für Free- und Plus-Pläne in kleinerem Umfang. Darüber hinaus werden wir das **Logging erweitern** und die Möglichkeit schaffen, zusätzliche **AI-Credits** direkt über uns zu beziehen, um auch anspruchsvollere Szenarien abzubilden.
+
+## LLM-Freiheit in SeaTable: Von Hetzner-Hosting bis OpenAI und Co.
+
+Ein weiteres zentrales Feature, das wir für kommende Versionen planen, ist die Möglichkeit für Anwender, neben unserem selbst gehosteten LLM (Large Language Model) bei Hetzner auch andere Modelle aus der Cloud zu nutzen. Bei Automationen, die auf öffentlich verfügbare Daten zugreifen – oder bei denen keine Datenschutzbedenken bestehen – können Sie dann frei wählen, ob Sie beispielsweise Gemma-3, DeepSeek, Mistral, OpenAI oder ähnliche Anbieter verwenden möchten. Unser Ziel ist es, den Anwendern die Entscheidung zu überlassen, welches KI-Modell am besten zu ihrem Anwendungsfall passt.
 
 ## Fazit: Innovation trifft Verantwortung
 

@@ -15,7 +15,39 @@
         <div x-data="contactForm()">
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
-                    <div>
+                    <div class="sm:col-span-2">
+                        <label class="block text-lg font-bold">{{ T "contact.concern.label" }}</label>
+                        <div class="mb-2 mt-2.5 rounded border border-gray-300 bg-orange-50 p-4 shadow-lg">
+                            <label><input type="radio" name="type" value="free" x-model="type" class="mx-2.5" required />{{ T "contact.concern.free" }}</label><br />
+                            <label><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" required />{{ T "contact.concern.support" }}</label><br />
+                            <label><input type="radio" name="type" value="sales" x-model="type" class="mx-2.5" required />{{ T "contact.concern.sales" }}</label><br />
+                            <label><input type="radio" name="type" value="question" x-model="type" class="mx-2.5" required />{{ T "contact.concern.question" }}</label>
+                        </div>
+                    </div>
+
+                    <div x-show="type == 'free'" class="sm:col-span-2">
+                        <p class="rounded border border-gray-300 bg-blue-50 p-4 shadow-xl">{{ T "contact.support_forum" | markdownify }}</p>
+                    </div>
+
+                    <div x-show="type == 'support'" class="sm:col-span-2">
+                        <p class="mb-4 rounded border border-gray-300 bg-green-50 p-4 shadow-xl">{{ T "contact.create_tickets_in_team_admin" | markdownify }} Mehr erklärung!</p>
+                    </div>
+
+                    <div x-show="type == 'support'" class="sm:col-span-2">
+                        <label for="teamname" class="text-md block font-bold">{{ T "contact.teamname" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="teamname"
+                                id="teamname"
+                                autocomplete="teamname"
+                                x-model="teamname"
+                                required
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                        </div>
+                    </div>
+
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'">
                         <label for="first-name" class="text-md block font-bold">{{ T "contact.first_name" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -28,7 +60,7 @@
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
-                    <div>
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'">
                         <label for="last-name" class="text-md block font-bold">{{ T "contact.last_name" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -41,7 +73,7 @@
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
-                    <div class="sm:col-span-2">
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'" class="sm:col-span-2">
                         <label for="company" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.company" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -50,10 +82,11 @@
                                 id="company"
                                 autocomplete="organization"
                                 x-model="company"
+                                :required="type == 'sales'"
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
-                    <div class="sm:col-span-2">
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'" class="sm:col-span-2">
                         <label for="email" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.email" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -69,31 +102,126 @@
                         </div>
                     </div>
 
-                    <!--
-                    <div class="sm:col-span-2">
-                        <label for="subject" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.reason" }}</label>
-
+                    {{/* Sales */}}
+                    <div x-show="type == 'sales'" class="sm:col-span-2">
+                        <label for="org_type" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.org_type.label" }}</label>
                         <div class="mt-2.5">
                             <select
-                                id="subject"
-                                x-model="subject"
-                                x-init="subject = $el.value; console.log($el.dataset); type = $el.dataset.type"
-                                @change="type = $event.target.options[$event.target.selectedIndex].dataset.type"
-                                class="form-select block w-full appearance-none rounded-lg border border-gray-300 bg-gray-50 bg-no-repeat p-3 text-sm text-gray-900 focus:border-blue-500 focus:ring-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder-gray-400 dark:focus:border-blue-500 dark:focus:ring-blue-500">
-                                <option value="Ich möchte mehr über SeaTable Enterprise erfahren" data-type="sales" selected>
-                                    I would like to learn more about SeaTable Enterprise
-                                </option>
-                                <option value="Ich möchte ein Angebot erhalten" data-type="sales">I would like to receive a quote</option>
-                                <option value="Ich habe eine Frage zur SeaTable Cloud" data-type="sales">I have a question about the SeaTable Cloud</option>
-                                <option value="Ich bin ein Kunde und benötige Support" data-type="support">I am a customer and need support</option>
-                                <option value="Ich habe eine Partner/Reseller Anfrage" data-type="sales">I have a partner/reseller request</option>
-                                <option value="Etwas anderes ..." data-type="support">Something else ...</option>
+                                id="org_type"
+                                x-model="orgType"
+                                class="block w-full rounded-md border bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                                <option value="business">{{ T "contact.org_type.business" }}</option>
+                                <option value="education">{{ T "contact.org_type.education" }}</option>
+                                <option value="research">{{ T "contact.org_type.research" }}</option>
+                                <option value="public-sector">{{ T "contact.org_type.public_sector" }}</option>
+                                <option value="other">{{ T "contact.org_type.other_type" }}</option>
                             </select>
                         </div>
                     </div>
-                    -->
+                    <div x-show="type == 'sales'">
+                        <label for="phone" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.phone" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="tel"
+                                name="phone"
+                                id="phone"
+                                x-model="phone"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                            <p>{{ T "contact.phone_hint" }}</p>
+                        </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="url" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="url"
+                                id="url"
+                                x-model="url"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                        </div>
+                    </div>
+                    <div x-show="type == 'sales'" class="sm:col-span-2">
+                        <label for="address" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.address" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="address"
+                                id="address"
+                                x-model="address"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                        </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="country" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.country" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="country"
+                                id="country"
+                                x-model="country"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                        </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="vat_id" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.vat_id" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="vat_id"
+                                id="vat_id"
+                                x-model="vatId"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                        </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.products" }}</label>
+                        <div class="mt-2.5">
+                            <label><input type="checkbox" name="type" value="cloud" x-model="products" class="mx-2.5" />SeaTable Cloud</label><br />
+                            <label><input type="checkbox" name="type" value="dedicated" x-model="products" class="mx-2.5" />SeaTable Dedicated</label><br />
+                            <label><input type="checkbox" name="type" value="server" x-model="products" class="mx-2.5" />SeaTable Server</label>
+                        </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="preferredLanguage" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.preferred_language" }}</label>
+                        <div class="mt-2.5">
+                            <select
+                                id="preferredLanguage"
+                                x-model="preferredLanguage"
+                                class="block w-full rounded-md border bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                                <option value="de">{{ T "contact.german" }}</option>
+                                <option value="en">{{ T "contact.english" }}</option>
+                                <option value="fr">{{ T "contact.french" }}</option>
+                                {{/* TODO: Other options? */}}
+                            </select>
+                        </div>
+                    </div>
 
-                    <div class="sm:col-span-2">
+                    {{/* Support / Question */}}
+                    <div x-show="type == 'support' || type == 'question'" class="sm:col-span-2">
+                        <label for="reason" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.reason.label" }}</label>
+                        <div class="mt-2.5">
+                            <select
+                                id="reason"
+                                x-model="reason"
+                                class="block w-full rounded-md border bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                                {{/* Needs x-if to completely hide the elements from the DOM */}}
+                                <template x-if="type == 'support'"><option value="access-to-seatable">{{ T "contact.reason.access_to_seatable" }}</option></template>
+                                <template x-if="type == 'support'"><option value="team-admin-area">{{ T "contact.reason.team_admin_area" }}</option></template>
+                                <template x-if="type == 'support'"><option value="invoicing">{{ T "contact.reason.invoicing" }}</option></template>
+                                <template x-if="type == 'support'"><option value="data-migration">{{ T "contact.reason.data_migration" }}</option></template>
+                                <template x-if="type == 'support'"><option value="api-and-integration">{{ T "contact.reason.api_and_integration" }}</option></template>
+                                <template x-if="type == 'support'"><option value="scripting">{{ T "contact.reason.scripting" }}</option></template>
+                                <template x-if="type == 'support'"><option value="licensing">{{ T "contact.reason.licensing" }}</option></template>
+                                <template x-if="type == 'question'"><option value="bug-report">{{ T "contact.reason.bug_report" }}</option></template>
+                                <template x-if="type == 'question'"><option value="security">{{ T "contact.reason.security" }}</option></template>
+                                <template x-if="type == 'question'"><option value="partner-request">{{ T "contact.reason.partner_request" }}</option></template>
+                                <option value="other">{{ T "contact.reason.other_reason" }}</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'" class="sm:col-span-2">
                         <label for="message" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.message" }}</label>
                         <div class="mt-2.5">
                             <textarea
@@ -101,6 +229,7 @@
                                 id="message"
                                 x-model="message"
                                 rows="4"
+                                :placeholder="type == 'sales' ? '{{ T "contact.message_sales_placeholder" }}' : ''"
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
                         </div>
                     </div>
@@ -113,9 +242,10 @@
                 <div class="mt-10">
                     <button
                         type="submit"
-                        x-bind:disabled="isSubmitting"
+                        x-bind:disabled="isSubmitting || !type"
                         x-html="buttonText"
-                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white">
+                        x-show="type == 'support' || type == 'question' || type == 'sales'"
+                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white disabled:opacity-50">
                         {{ T "contact.submit" }}
                     </button>
                 </div>

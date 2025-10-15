@@ -25,12 +25,56 @@ registration:
     error: 'Ha ocurrido un error.'
 
 contact:
+    concern:
+        label: 'Asunto'
+        free: 'Necesito soporte (SeaTable Cloud Free o licencia gratuita para 3 usuarios)'
+        support: 'Necesito soporte'
+        sales: 'Quisiera una oferta'
+        question: 'Tengo una pregunta y me gustaría ponerme en contacto'
+    support_forum: |
+        Si utiliza la oferta en la nube gratuita **SeaTable Free**, la **versión de servidor autohospedada Developer Edition** o la **licencia gratuita para 3 usuarios** y necesita ayuda, visite nuestro [Foro de la Comunidad](https://forum.seatable.com).<br/>  
+        Por el momento, lamentablemente no podemos ofrecer soporte directo a los usuarios sin licencia de pago. Sin embargo, en el foro recibirá ayuda rápida y experta de parte de nuestra comunidad.
+    create_tickets_in_team_admin: |
+        Como cliente con una suscripción **SeaTable Cloud Plus** o **Enterprise**, puede crear tickets de soporte directamente en la [Administración de equipos](https://account.seatable.com/support).</a><br/><br/>
+        **Ventaja:** puede mantener una visión clara de todos sus tickets y su estado de tramitación.
+    teamname: 'Nombre de su equipo'
     first_name: 'Prénom'
     last_name: 'Nom'
     company: 'Société'
     email: 'E-mail'
-    reason: 'Motif de la demande'
+    org_type:
+        label: 'Tipo de organización (opcional)'
+        business: 'Empresa (con fines de lucro)'
+        education: 'Educación (sin fines de lucro)'
+        research: 'Investigación (sin fines de lucro)'
+        public_sector: 'Sector público (sin fines de lucro)'
+        other_type: 'Otro (sin fines de lucro)'
+    phone: 'Teléfono (opcional)'
+    phone_hint: 'Un número de teléfono nos permite responder de manera especialmente rápida.'
+    url: 'URL (opcional)'
+    address: 'Dirección (opcional)'
+    country: 'País (opcional)'
+    vat_id: 'NIF-IVA (opcional)'
+    products: 'Productos (selección múltiple posible)'
+    preferred_language: 'Idioma preferido'
+    german: 'Alemán'
+    english: 'Inglés'
+    french: 'Francés'
+    reason:
+        label: 'Motivo de la solicitud'
+        access_to_seatable: 'Acceso a SeaTable'
+        team_admin_area: 'Área de administración del equipo'
+        invoicing: 'Facturación'
+        data_migration: 'Migración de datos'
+        api_and_integration: 'API e integración'
+        scripting: 'Scripting'
+        licensing: 'Licencias'
+        bug_report: 'Informe de error'
+        security: 'Privacidad y seguridad'
+        partner_request: 'Solicitud de socio'
+        other_reason: 'Otra cosa'
     message: 'Votre message'
+    message_sales_placeholder: 'Sería útil que pudieras especificar el número de usuarios y el período de la licencia.'
     submit: 'Envoyer le message'
     send: 'Enviando tu mensaje...'
     success: 'Hemos recibido tu mensaje.'
