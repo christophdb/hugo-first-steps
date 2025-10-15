@@ -5,7 +5,12 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/es/ayuda/eine-checkbox-setzen-alle-anderen-entfernen'
+url: '/es/ayuda/marcar-una-casilla-deseleccionar-resto'
+aliases:
+    - '/es/ayuda/eine-checkbox-setzen-alle-anderen-entfernen'
+seo:
+    title: 'JavaScript: marcar solo una casilla, desmarcar el resto'
+    description: 'Aprende a usar JavaScript en SeaTable para activar una casilla y desactivar el resto en una tabla de manera automática: ejemplo y código.'
 ---
 
 Imagine que desea activar siempre una casilla de verificación exactamente en una fila de una base. Cuando se activa esta casilla de verificación, todas las demás casillas de verificación que puedan estar llenas deben desactivarse. Esto se puede hacer fácilmente con un script, por ejemplo, a través de un botón.

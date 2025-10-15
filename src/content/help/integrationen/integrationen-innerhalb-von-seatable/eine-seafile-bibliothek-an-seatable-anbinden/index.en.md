@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'nsc2'
-url: '/help/eine-seafile-bibliothek-an-seatable-anbinden'
+url: '/help/connect-seafile-library-to-seatable'
+aliases:
+    - '/help/eine-seafile-bibliothek-an-seatable-anbinden'
+seo:
+    title: 'Connect Seafile library to SeaTable – integration guide'
+    description: 'Boost storage and file handling: Link your Seafile library to SeaTable for seamless upload, sync, and direct file management in your database.'
 ---
 
 If you store a lot of larger files (e.g. images and videos) in a base, you may eventually reach the [storage limits of your subscription]({{< relref "pages/prices" >}}), and above 100 MB it will no longer be possible to [export]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).

@@ -5,7 +5,12 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/fr/aide/eine-checkbox-setzen-alle-anderen-entfernen'
+url: '/fr/aide/cocher-une-coche-enlever-les-autres'
+aliases:
+    - '/fr/aide/eine-checkbox-setzen-alle-anderen-entfernen'
+seo:
+    title: 'JavaScript : cocher une case, décocher toutes les autres'
+    description: 'Script SeaTable : activez une seule case à cocher et désactivez toutes les autres d’un simple clic – exemple avec explications et code complet.'
 ---
 
 Imaginez que vous souhaitiez activer une case à cocher dans une base sur une seule ligne. Lorsque cette case à cocher est activée, toutes les autres cases à cocher éventuellement remplies doivent être désactivées. Vous pouvez effectuer cette opération très simplement à l'aide d'un script, par exemple via un bouton.

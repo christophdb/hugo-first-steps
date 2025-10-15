@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/ru/pomoshch/anleitung-zum-sql-abfrage-plugin'
+url: '/ru/pomoshch/instruktsiya-po-sql-plugin'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-sql-abfrage-plugin'
+seo:
+    title: 'Плагин SQL-запросов SeaTable – инструкция и примеры'
+    description: 'Используйте плагин SQL-запросов: SELECT, DELETE, выгрузка в таблицы, полный обзор для работы с большими массивами данных.'
 ---
 
 Плагин SQL-запросов отлично подходит для прямого **выполнения команд SQL** и поэтому в первую очередь интересен пользователям, которые уже имеют опыт работы с базами данных.

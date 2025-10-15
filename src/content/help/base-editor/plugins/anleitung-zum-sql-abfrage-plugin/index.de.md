@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'nsc2'
 url: '/de/hilfe/anleitung-zum-sql-abfrage-plugin'
+seo:
+    title: 'Anleitung SQL-Abfrage-Plugin – Befehle & Beispiele'
+    description: 'So nutzen Sie das SQL-Abfrage-Plugin in SeaTable: SELECT, DELETE, Export als Tabelle – optimale Auswertung auch fürs Big Data Backend.'
 ---
 
 Das SQL-Abfrage-Plugin eignet sich perfekt für die direkte **Ausführung von SQL-Befehlen** und ist daher primär für Nutzer interessant, die bereits Erfahrung mit Datenbanken besitzen.

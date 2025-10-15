@@ -6,6 +6,9 @@ categories:
     - 'import-von-daten'
 author: 'cdb'
 url: '/de/hilfe/uebertragen-einer-base-an-einen-anderen-benutzer'
+seo:
+    title: 'Base an anderen Benutzer übertragen – Wege & Anleitung'
+    description: 'So übertragen Sie eine SeaTable Base an andere Nutzer: im Team, teamübergreifend oder auf fremde Server – inkl. Export, Kopie und Einladungslink.'
 ---
 
 Sie möchten eine Ihrer **Bases** an einen anderen Benutzer übertragen? SeaTable bietet hierfür drei verschiedene Möglichkeiten kann, wobei sich das optimale Vorgehen darin unterscheidet, ob sich der empfangende Benutzer in Ihrem **eigenen Team**, in einem **fremden Team** oder vielleicht sogar auf einem **anderen SeaTable Server** befindet.

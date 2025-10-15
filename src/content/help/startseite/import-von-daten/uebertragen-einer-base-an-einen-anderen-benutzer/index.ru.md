@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/ru/pomoshch/uebertragen-einer-base-an-einen-anderen-benutzer'
+url: '/ru/pomoshch/peredat-bazu-drugomu-polzovatelyu'
+aliases:
+    - '/ru/pomoshch/uebertragen-einer-base-an-einen-anderen-benutzer'
+seo:
+    title: 'Передать базу другому пользователю – все способы'
+    description: 'Как передать базу SeaTable другому пользователю: внутри команды, между командами или на другой сервер. Экспорт, копия и ссылочные действия.'
 ---
 
 Вы хотите передать одну из своих **баз** другому пользователю? SeaTable предлагает три различных способа сделать это, причем наилучший подход зависит от того, находится ли принимающий пользователь в вашей **собственной команде**, в **чужой команде** или, возможно, даже на **другом сервере SeaTable**.

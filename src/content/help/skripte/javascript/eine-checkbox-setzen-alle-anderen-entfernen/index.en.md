@@ -5,7 +5,12 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/help/eine-checkbox-setzen-alle-anderen-entfernen'
+url: '/help/set-one-checkbox-clear-others'
+aliases:
+    - '/help/eine-checkbox-setzen-alle-anderen-entfernen'
+seo:
+    title: 'JavaScript: Set one checkbox, clear others – with script'
+    description: 'SeaTable script example: With one click, activate just one checkbox and reset all others in the table—step-by-step with complete JavaScript snippet.'
 ---
 
 Imagine that you always want to activate a checkbox in exactly one row in a base. When this checkbox is activated, all other checkboxes that may be filled should be deactivated. You can easily perform this operation with a script, e.g. via a button.
