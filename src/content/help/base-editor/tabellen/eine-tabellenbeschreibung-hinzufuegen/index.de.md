@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
 url: '/de/hilfe/eine-tabellenbeschreibung-hinzufuegen'
+seo:
+    title: 'Tabellenbeschreibung in SeaTable hinzufügen – Anleitung'
+    description: 'So fügen Sie einer Tabelle eine Beschreibung hinzu, erklären Inhalte kompakt und passen Hinweise flexibel direkt am Tabellennamen an.'
 ---
 
 Jede Tabelle in Ihrer Base können Sie mit einer Beschreibung versehen. Mit diesem prägnanten Text können Sie beispielsweise die Tabelleninhalte erläutern.

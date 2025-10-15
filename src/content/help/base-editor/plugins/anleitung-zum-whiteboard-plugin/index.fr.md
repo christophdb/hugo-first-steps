@@ -5,7 +5,13 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/fr/aide/anleitung-zum-whiteboard-plugin'
+url: '/fr/aide/guide-plugin-tableau-blanc'
+aliases:
+    - '/fr/aide/anleitung-zum-whiteboard-plugin'
+seo:
+    title: 'Plugin tableau blanc (obsolète) – guide et infos'
+    description: 'Guide du plugin tableau blanc SeaTable (excalidraw). Plus de support collaboratif et suppression prévue en 6.0. Optez pour le plugin tldraw.'
+
 ---
 
 Le **plug-in Whiteboard** vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plug-ins précédents. De même, vous pouvez esquisser librement des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.

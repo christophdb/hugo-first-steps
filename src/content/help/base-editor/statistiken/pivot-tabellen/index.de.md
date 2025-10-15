@@ -6,6 +6,9 @@ categories:
   - "statistiken-und-datenanalyse"
 author: "kgr"
 url: "/de/hilfe/pivot-tabellen"
+seo:
+    title: 'Pivot-Tabellen in SeaTable – Auswertungen und Anleitung'
+    description: 'Erstellen Sie Pivot-Tabellen schnell im Statistik-Modul. Gruppieren, filtern, analysieren und behalten Sie bei großen Datenbeständen stets den Überblick.'
 ---
 
 Pivot-Tabellen sind mächtige Analysewerkzeuge, mit denen Sie auch aus großen, unübersichtlichen Datenbeständen innerhalb weniger Sekunden die gesuchten Ergebnisse ermitteln können. Mit dem **Statistik-Modul** ist die Erstellung von Pivot-Tabellen kinderleicht.

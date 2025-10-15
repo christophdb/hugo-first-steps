@@ -5,7 +5,13 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/pomoshch/anleitung-zum-whiteboard-plugin'
+url: '/ru/pomoshch/rukovodstvo-plagin-whiteboard'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-whiteboard-plugin'
+seo:
+    title: 'Плагин Whiteboard (устарел) – руководство и советы'
+    description: 'Старый плагин Whiteboard SeaTable (excalidraw). Без поддержки совместной работы. Удаляется в версии 6.0. Используйте новый tldraw.'
+
 ---
 
 **Плагин Whiteboard** дает вам возможность графически визуализировать процессы и структуры, которые невозможно отобразить с помощью предыдущих плагинов. Вы также можете свободно создавать макеты и эскизы. Для оформления вам предлагаются различные **элементы**, такие как квадраты, эллипсы и стрелки, а также такие **инструменты**, как перо, ластик и текстовый инструмент.

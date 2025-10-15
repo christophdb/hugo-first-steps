@@ -5,7 +5,12 @@ lastmod: '2023-08-21'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/help/eine-tabellenbeschreibung-hinzufuegen'
+url: '/help/add-table-description'
+aliases:
+    - '/help/eine-tabellenbeschreibung-hinzufuegen'
+seo:
+    title: 'Add table description in SeaTable – easy guide'
+    description: 'Learn how to add concise descriptions to any SeaTable table: explain contents, add hints and update at any time via the info icon.'
 ---
 
 You can add a description to each table in your base. With this concise text you can, for example, explain the table contents.

@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+url: '/help/single-record-page-universal-apps'
+aliases:
+    - '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+seo:
+    title: 'Single record page in Universal Apps – best practices'
+    description: 'Learn how to use single record pages in SeaTable Universal Apps: dynamic layouts, static fields, permissions, filters, editing and visual settings.'
 ---
 
 With the **single record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from the base.

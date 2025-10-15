@@ -5,7 +5,12 @@ lastmod: '2023-10-11'
 categories:
     - 'n8n-integration'
 author: 'cdb'
-url: '/es/ayuda/erstellen-eines-api-tokens-fuer-n8n'
+url: '/es/ayuda/crear-token-api-para-n8n'
+aliases:
+    - '/es/ayuda/erstellen-eines-api-tokens-fuer-n8n'
+seo:
+    title: 'Crear token API para n8n – integración con SeaTable'
+    description: 'Descubre cómo crear un token API en SeaTable y conectarlo a n8n para automatizar flujos de trabajo fácilmente y con plena seguridad.'
 ---
 
 En cuanto utilice la aplicación SeaTable en n8n, tendrá que permitir que n8n acceda a una de sus bases. Para ello, cree un [token API]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) en SeaTable y utilícelo en n8n. Este artículo de ayuda le muestra lo que debe tener en cuenta.

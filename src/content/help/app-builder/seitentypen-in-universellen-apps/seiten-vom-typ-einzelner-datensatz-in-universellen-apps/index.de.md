@@ -6,6 +6,9 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+seo:
+    title: 'Einzelner Datensatz in Universellen Apps – Übersicht'
+    description: 'Gestalten Sie detailreiche Einzelseiten für Datensätze in SeaTable: statische Elemente, Filter, Rechte, Anzeige- und Bearbeitungsoptionen.'
 ---
 
 Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.

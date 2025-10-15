@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+url: '/pt/ajuda/pagina-registro-unico-apps-universais'
+aliases:
+    - '/pt/ajuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+seo:
+    title: 'Página de registro único em Apps Universais – recursos'
+    description: 'Crie telas com dados individuais, estáticos e campos dinâmicos nas Apps Universais – controle visual, permissões e filtros em cada ficha.'
 ---
 
 Com o [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) de **registo de dados único**, tem a possibilidade de conceber uma página com elementos estáticos, campos de tabela dinâmicos, cores, molduras, etc., para apresentar visualmente os dados armazenados numa linha. Este tipo de página é, portanto, semelhante ao [plugin de conceção de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que já conhece do Base.
