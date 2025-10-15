@@ -5,7 +5,12 @@ lastmod: '2024-09-04'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-1-anlegen-einer-neuen-base'
+url: '/help/step1-create-new-base-seatable'
+aliases:
+    - '/help/schritt-1-anlegen-einer-neuen-base'
+seo:
+    title: 'Step 1 in SeaTable Course 1: create your expenses base'
+    description: 'Begin your online course: Set up a new SeaTable base, customize fields and categories, and build the perfect structure for personal expense tracking.'
 ---
 
 In this course we will create a simple tool to record and manage your personal or professional expenses. When you're done, you'll be able to record expenses at any time, either on your computer or on your cell phone. Every time you pull out your wallet, you should then document this expense. The reward for this effort is that you can see at a glance what you have spent how much money on.

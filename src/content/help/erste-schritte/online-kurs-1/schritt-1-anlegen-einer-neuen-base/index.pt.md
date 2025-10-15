@@ -5,7 +5,12 @@ lastmod: '2024-09-04'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/pt/ajuda/schritt-1-anlegen-einer-neuen-base'
+url: '/pt/ajuda/passo1-criar-base-despesas-seatable'
+aliases:
+    - '/pt/ajuda/schritt-1-anlegen-einer-neuen-base'
+seo:
+    title: 'Passo 1 Curso SeaTable 1: crie sua base de despesas agora'
+    description: 'Início do curso: crie uma base do zero no SeaTable, defina colunas e categorias e prepare o rastreamento de despesas pessoais e profissionais.'
 ---
 
 Neste curso, vamos criar uma ferramenta simples para registar e gerir as suas despesas pessoais ou profissionais. Quando estiver pronto, pode registar as despesas a qualquer momento, seja no seu computador ou no seu telemóvel. Sempre que puxar da carteira, deve documentar essa despesa. A recompensa por este esforço é o facto de poder ver rapidamente em que gastou quanto dinheiro.

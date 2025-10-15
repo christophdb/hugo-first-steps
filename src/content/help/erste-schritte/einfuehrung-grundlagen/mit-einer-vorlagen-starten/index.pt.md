@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/pt/ajuda/mit-einer-vorlagen-starten'
+url: '/pt/ajuda/comecar-template-seatable'
+aliases:
+    - '/pt/ajuda/mit-einer-vorlagen-starten'
+seo:
+    title: 'Comece com template SeaTable – projetos ágeis e prontos'
+    description: 'Arranque rápido no SeaTable: use templates prontos, crie modelos personalizados e otimize projetos com estruturas comprovadas. Guia completo.'
 ---
 
 Estão disponíveis no SeaTable modelos prontos a utilizar para muitos casos de utilização. Com estes modelos, pode iniciar o seu trabalho e utilizar o SeaTable de forma ainda mais rápida e objectiva.

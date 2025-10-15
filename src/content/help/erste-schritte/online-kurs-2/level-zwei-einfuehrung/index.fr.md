@@ -5,7 +5,12 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/fr/aide/level-zwei-einfuehrung'
+url: '/fr/aide/demarrer-modele-seatable'
+aliases:
+    - '/fr/aide/level-zwei-einfuehrung'
+seo:
+    title: 'Démarrer avec un modèle SeaTable – base efficace'
+    description: 'Profitez des modèles SeaTable pour organiser vos projets plus vite. Choisissez une catégorie ou créez votre propre template sur mesure.'
 weight: 1
 ---
 

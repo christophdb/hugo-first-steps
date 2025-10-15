@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/fr/aide/schritt-1-import-der-base'
+url: '/fr/aide/etape1-import-base-seatable'
+aliases:
+    - '/fr/aide/schritt-1-import-der-base'
+seo:
+    title: 'Étape 1 du cours SeaTable 2 : importer et explorer la base'
+    description: 'Démarrez le cours 2 : importez la base fournie, explorez champs et formules, et découvrez les vues clés pour vos prochains processus complexes.'
 ---
 
 Avant de pouvoir représenter un nouveau processus de gestion dans SeaTable, vous devez d'abord créer la structure de tableau appropriée. C'est la seule façon de saisir judicieusement les données nécessaires au processus et de les traiter efficacement par la suite. Vous pouvez certes vous inspirer des nombreux modèles proposés, mais il est généralement nécessaire de bien réfléchir au processus et de définir clairement les données pertinentes.

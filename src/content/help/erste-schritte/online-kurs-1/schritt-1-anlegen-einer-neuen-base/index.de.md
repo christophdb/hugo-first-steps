@@ -6,6 +6,9 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/schritt-1-anlegen-einer-neuen-base'
+seo:
+    title: 'Schritt 1 im SeaTable Kurs 1: Neue Base für Ausgaben'
+    description: 'Start des Onlinekurses: Legen Sie eine neue Base in SeaTable an, passen Sie Spalten sowie Kategorien an und bereiten Sie alles für Ihr Ausgaben-Tracking vor.'
 ---
 
 In diesem Kurs wollen wir ein einfaches Tool zur Erfassung und Verwaltung Ihrer persönlichen oder beruflichen Ausgaben erstellen. Wenn Sie fertig sind, können Sie zu jeder Zeit entweder über Ihren Computer oder auch mit Ihrem Mobiltelefon Ausgaben erfassen. Jedes Mal, wenn Sie Ihren Geldbeutel zücken, sollten Sie anschließend diese Ausgabe dokumentieren. Der Lohn für diese Mühe ist, dass Sie auf einen Blick sehen können, wofür Sie wie viel Geld ausgegeben haben.

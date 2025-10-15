@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/es/ayuda/mit-einer-vorlagen-starten'
+url: '/es/ayuda/comenzar-plantilla-seatable'
+aliases:
+    - '/es/ayuda/mit-einer-vorlagen-starten'
+seo:
+    title: 'Comienza con plantilla SeaTable – tu base lista al instante'
+    description: 'Arranca tus proyectos en SeaTable con plantillas predefinidas y personalizadas; organiza datos y mejora procesos en minutos. Explicado paso a paso.'
 ---
 
 SeaTable dispone de plantillas preparadas para muchos casos de uso. Con ellas, podrá empezar a trabajar y utilizar SeaTable con mayor rapidez y determinación.

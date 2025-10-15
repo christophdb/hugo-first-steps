@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/help/mit-einer-vorlagen-starten'
+url: '/help/start-with-template-seatable'
+aliases:
+    - '/help/mit-einer-vorlagen-starten'
+seo:
+    title: 'Start with a SeaTable template – fastest way to your base'
+    description: 'SeaTable templates let you kickstart projects with ready-made structures, custom templates, and clear user instructions—all in one place.'
 ---
 
 For many use cases, ready-made templates are available in SeaTable. With these you kickstart your work and use SeaTable even faster and more targeted.

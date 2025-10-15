@@ -5,7 +5,12 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/pt/ajuda/nach-einer-tabelle-suchen'
+url: '/pt/ajuda/buscar-tabela-seatable'
+aliases:
+    - '/pt/ajuda/nach-einer-tabelle-suchen'
+seo:
+    title: 'Buscar tabela SeaTable – encontre fácil no cabeçalho'
+    description: 'Encontre qualquer tabela no SeaTable usando o drop-down, campo de busca ou setas de navegação. Organização e acesso rápido, mesmo em bases extensas.'
 ---
 
 Para bases com um grande número de tabelas, nem todos os **separadores** podem ser apresentados **no cabeçalho da base**. Mesmo [as tabelas ocultas]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) já não podem ser encontradas no cabeçalho da base. Por isso, o SeaTable oferece a opção de procurar uma **tabela**.

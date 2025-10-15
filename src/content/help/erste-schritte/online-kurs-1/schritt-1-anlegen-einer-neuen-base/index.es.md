@@ -5,7 +5,12 @@ lastmod: '2024-09-04'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/schritt-1-anlegen-einer-neuen-base'
+url: '/es/ayuda/paso1-crear-base-gastos-seatable'
+aliases:
+    - '/es/ayuda/schritt-1-anlegen-einer-neuen-base'
+seo:
+    title: 'Paso 1 Curso SeaTable 1: nueva base para tus gastos'
+    description: 'Primer paso del curso: crea una base SeaTable desde cero, añade y ajusta columnas y categorías para organizar tus gastos de forma estructurada.'
 ---
 
 En este curso, crearemos una sencilla herramienta para registrar y gestionar tus gastos personales o profesionales. Cuando esté preparado, podrá registrar los gastos en cualquier momento, ya sea en su ordenador o en su teléfono móvil. Cada vez que saques la cartera, deberás documentar ese gasto. La recompensa a este esfuerzo es que puedes ver de un vistazo en qué te has gastado cuánto dinero.

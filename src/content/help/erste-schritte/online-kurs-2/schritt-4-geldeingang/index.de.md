@@ -6,6 +6,9 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/schritt-4-geldeingang'
+seo:
+    title: 'Schritt 4 im SeaTable Kurs 2: Geldeingang per Button'
+    description: 'Im vierten Kursschritt erstellen Sie mit SeaTable eine Schaltfläche, die Zahlungseingänge dokumentiert und eine Bestätigungs­mail automatisiert versendet.'
 ---
 
 Nachdem Ihre Kursteilnehmer die Zahlungsaufforderung per E-Mail erhalten haben, überweisen diese die Kursgebühr auf Ihr Bankkonto. Die Überprüfung des Geldeingangs werden wir an dieser Stelle nicht weiter automatisieren. Dennoch wäre es sinnvoll, eine zusätzliche Schaltfläche in Ihrer Base zu integrieren, die zwei Aufgaben übernimmt:

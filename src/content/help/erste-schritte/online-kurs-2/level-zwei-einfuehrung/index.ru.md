@@ -5,7 +5,12 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/level-zwei-einfuehrung'
+url: '/ru/pomoshch/nachnite-s-shablona-seatable'
+aliases:
+    - '/ru/pomoshch/level-zwei-einfuehrung'
+seo:
+    title: 'Начните с шаблона SeaTable – быстрый старт работы'
+    description: 'Используйте шаблоны SeaTable: быстрый выбор нужной категории, настройка структуры базы, возможность создания и экспорта своего шаблона.'
 weight: 1
 ---
 

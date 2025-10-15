@@ -6,6 +6,9 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/schritt-1-import-der-base'
+seo:
+    title: 'Schritt 1 im SeaTable Kurs 2: Base importieren und verstehen'
+    description: 'Beginnen Sie den Onlinekurs 2: Importieren Sie die vorbereitete Base, lernen Sie Struktur, Formelspalten und Ansichten für den Geschäftsprozess kennen.'
 ---
 
 Bevor Sie in SeaTable einen neuen Geschäftsprozess abbilden können, müssen Sie zunächst die passende Tabellenstruktur erstellen. Nur so können Sie die benötigten Daten für den Prozess sinnvoll erfassen und später effizient verarbeiten. Sie können sich zwar von den zahlreichen Vorlagen inspirieren lassen, doch in der Regel ist es notwendig, den Prozess genau zu durchdenken und die relevanten Daten klar zu definieren.

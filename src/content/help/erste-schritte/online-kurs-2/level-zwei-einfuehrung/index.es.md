@@ -5,7 +5,12 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/level-zwei-einfuehrung'
+url: '/es/ayuda/comenzar-plantilla-seatable'
+aliases:
+    - '/es/ayuda/level-zwei-einfuehrung'
+seo:
+    title: 'Comienza con plantilla SeaTable – base lista rápidamente'
+    description: 'Usa las plantillas de SeaTable y comienza a trabajar en segundos: encuentra la categoría ideal, personaliza o comparte tu propio template.'
 weight: 1
 ---
 

@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
 url: '/de/hilfe/nach-einer-tabelle-suchen'
+seo:
+    title: 'Tabelle in SeaTable suchen – schnelles Finden & Filtern'
+    description: 'Finden Sie jede Tabelle in großen Bases: Drop-down, Suchfeld oder Pfeiltasten im Base-Header. Funktionen für mehr Übersicht und effiziente Navigation.'
 ---
 
 Bei Bases mit einer großen Anzahl an Tabellen können nicht mehr alle **Tabs im Base-Header** angezeigt werden. Auch [ausgeblendete Tabellen]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) sind nicht mehr im Base-Header zu finden. Deshalb bietet SeaTable die Möglichkeit, nach einer **Tabelle zu suchen**.
