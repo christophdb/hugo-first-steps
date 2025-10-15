@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/eigene-farben-in-einer-base-hinzufuegen'
+url: '/fr/aide/ajouter-couleurs-personnalisees-base'
+aliases:
+    - '/fr/aide/eigene-farben-in-einer-base-hinzufuegen'
+seo:
+    title: 'Ajouter vos couleurs à une base SeaTable – tutoriel'
+    description: 'Ajoutez, modifiez et supprimez vos propres couleurs via code hexadécimal dans n’importe quelle base SeaTable. Adaptez le design à vos besoins.'
 ---
 
 {{< required-version "Entreprise" >}}

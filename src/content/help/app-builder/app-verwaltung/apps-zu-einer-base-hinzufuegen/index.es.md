@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/es/ayuda/apps-zu-einer-base-hinzufuegen'
+url: '/es/ayuda/agregar-app-a-base'
+aliases:
+    - '/es/ayuda/apps-zu-einer-base-hinzufuegen'
+seo:
+    title: 'Añadir apps a tu base SeaTable – guía fácil y rápida'
+    description: 'Aprende a agregar aplicaciones a tu base SeaTable, personaliza funciones para distintos equipos o tareas, todo desde el menú de Apps.'
 star: true
 weight: 2
 ---

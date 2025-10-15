@@ -6,6 +6,9 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/zahlungsmethoden-seatable'
+seo:
+    title: 'Zahlungsmethoden bei SeaTable – Kreditkarte & Rechnung'
+    description: 'SeaTable akzeptiert (per Stripe) Kreditkarte, Apple Pay, Google Pay sowie Rechnung für Unternehmen mit Enterprise/Plus-Abo.'
 ---
 
 {{< required-version "Team-Administratoren" >}}

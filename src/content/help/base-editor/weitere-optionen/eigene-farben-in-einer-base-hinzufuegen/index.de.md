@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/eigene-farben-in-einer-base-hinzufuegen'
+seo:
+    title: 'Eigene Farben in SeaTable Base hinzufügen – Anleitung'
+    description: 'So fügen Sie individuelle Farben per Hex‑Code zu Ihrer Base hinzu, bearbeiten oder löschen sie und passen alles ans eigene Design an.'
 ---
 
 {{< required-version "Enterprise" >}}

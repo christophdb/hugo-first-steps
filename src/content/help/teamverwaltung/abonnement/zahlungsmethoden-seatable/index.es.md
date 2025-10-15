@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/zahlungsmethoden-seatable'
+url: '/es/ayuda/metodos-de-pago-seatable'
+aliases:
+    - '/es/ayuda/zahlungsmethoden-seatable'
+seo:
+    title: 'Formas de pago en SeaTable – tarjeta, factura y más'
+    description: 'SeaTable acepta tarjetas de crédito, Apple Pay, Google Pay y pago por factura sólo para empresas Enterprise y Plus. Consulta condiciones especiales.'
 ---
 
 {{< required-version "Administradores de equipo" >}}

@@ -5,7 +5,12 @@ lastmod: '2023-11-30'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/fr/aide/seitenberechtigungen-in-einer-universellen-app'
+url: '/fr/aide/autorisations-de-pages-dans-une-app-universelle'
+aliases:
+   - '/fr/aide/seitenberechtigungen-in-einer-universellen-app'
+seo:
+    title: 'Autorisations de pages dans App Universelle – guide'
+    description: 'Gérez dans SeaTable les autorisations de pages d’une App Universelle : accès, rôles, droits d’ajout, de modification et de lecture.'
 ---
 
 {{< required-version "Enterprise" >}}

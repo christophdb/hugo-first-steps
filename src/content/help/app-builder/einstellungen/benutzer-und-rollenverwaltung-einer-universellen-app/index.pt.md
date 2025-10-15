@@ -5,7 +5,12 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/pt/ajuda/benutzer-und-rollenverwaltung-einer-universellen-app'
+url: '/pt/ajuda/gerenciamento-usuarios-e-funcoes-app-universal'
+aliases:
+    - '/pt/ajuda/benutzer-und-rollenverwaltung-einer-universellen-app'
+seo:
+    title: 'Gerenciando usuários e funções na App Universal'
+    description: 'Saiba como adicionar usuários, atribuir papéis e criar links para convidar em Apps Universais do SeaTable. Guia detalhado para controle de acesso.'
 ---
 
 Quer seja para adicionar **novos utilizadores**, atribuir **funções** ou criar **ligações de convite** - pode realizar várias actividades administrativas na administração de utilizadores e funções de uma aplicação universal. Pode aceder à administração de **utilizadores e funções** através do modo de edição da sua aplicação universal.
