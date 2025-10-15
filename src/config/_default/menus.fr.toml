@@ -172,7 +172,7 @@ weight = 11
 [[footer]]
 name = "SeaTable Dédié"
 parent = "Produits"
-pageRef = "pages/product/dedicated"
+pageRef = "pages/product/seatable-dedicated"
 weight = 12
 
 [[footer]]
@@ -240,25 +240,25 @@ weight = 30
 [[footer]]
 name = "À propos de nous"
 parent = "Entreprise"
-pageRef = "about-us"
+pageRef = "pages/about"
 weight = 31
 
 [[footer]]
 name = "Emplois"
 parent = "Entreprise"
-pageRef = "jobs"
+pageRef = "pages/jobs"
 weight = 32
 
 [[footer]]
 name = "Presse"
 parent = "Entreprise"
-pageRef = "press"
+pageRef = "pages/press"
 weight = 33
 
 [[footer]]
 name = "Contact"
 parent = "Entreprise"
-pageRef = "contact-us"
+pageRef = "pages/contact"
 weight = 34
 
 [[footer]]
