@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+url: '/ru/pomoshch/stranitsa-zapisi-universalnye-prilozheniya'
+aliases:
+    - '/ru/pomoshch/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+seo:
+    title: 'Страница записи в Универсальных Приложениях – обзор'
+    description: 'Настраивайте просмотр и редактирование отдельных записей в SeaTable: статические элементы, оформление, фильтры и права для каждого поля.'
 ---
 
 С помощью [типа страницы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) с **одной записью данных** вы можете создать страницу со статическими элементами, динамическими полями таблицы, цветами, рамками и т. д., чтобы визуально представить данные, хранящиеся в строке. Таким образом, этот тип страницы похож на [плагин дизайна страниц]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), который вы уже знаете из Base.

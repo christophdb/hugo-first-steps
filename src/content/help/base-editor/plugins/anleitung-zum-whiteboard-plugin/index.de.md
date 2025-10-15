@@ -6,6 +6,10 @@ categories:
     - 'plugins'
 author: 'kgr'
 url: '/de/hilfe/anleitung-zum-whiteboard-plugin'
+seo:
+    title: 'Anleitung Whiteboard-Plugin (veraltet) – Excalidraw '
+    description: 'Alte Anleitung zum Whiteboard‑Plugin in SeaTable. Basierend auf Excalidraw – ohne Kollaboration. Ersetzen durch das neue tldraw‑Plugin empfohlen.'
+
 ---
 
 Das **Whiteboard-Plugin** gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch zu visualisieren, die Sie mit den bisherigen Plugins nicht darstellen können. Ebenso können Sie Layouts und Mockups frei skizzieren. Für die Gestaltung haben Sie verschiedene **Elemente** wie Vierecke, Ellipsen und Pfeile sowie **Werkzeuge** wie Stift, Radierer und das Text-Werkzeug zur Auswahl.

@@ -5,7 +5,13 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/es/ayuda/anleitung-zum-whiteboard-plugin'
+url: '/es/ayuda/guia-plugin-pizarra'
+aliases:
+    - '/es/ayuda/anleitung-zum-whiteboard-plugin'
+seo:
+    title: 'Plugin de pizarra (obsoleto) – guía e información'
+    description: 'Instrucciones del antiguo plugin Whiteboard (excalidraw). Sin colaboración. Se eliminará en la versión 6.0. Cambia al plugin tldraw.'
+
 ---
 
 El **plugin de pizarra blanca** te da la libertad de visualizar gráficamente procesos y estructuras que no puedes mostrar con los plugins anteriores. También puedes esbozar libremente diseños y maquetas. Para el diseño, dispones de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.

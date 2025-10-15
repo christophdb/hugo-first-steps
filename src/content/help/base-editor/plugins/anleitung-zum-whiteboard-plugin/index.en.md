@@ -5,7 +5,13 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/help/anleitung-zum-whiteboard-plugin'
+url: '/help/whiteboard-plugin-guide'
+aliases:
+    - '/help/anleitung-zum-whiteboard-plugin'
+seo:
+    title: 'Whiteboard plugin (deprecated) – guide & details'
+    description: 'Guide for SeaTable’s old whiteboard plugin (excalidraw‑based). Deprecated from version 6.0; collaboration unsupported. Switch to the tldraw plugin.'
+
 ---
 
 The **whiteboard plugin** gives you the freedom to graphically visualize processes and structures that you cannot display with the previous plugins. You can also freely sketch layouts and mockups. For the design, you have various **elements** such as squares, ellipses and arrows as well as **tools** such as pen, eraser and the text tool to choose from.

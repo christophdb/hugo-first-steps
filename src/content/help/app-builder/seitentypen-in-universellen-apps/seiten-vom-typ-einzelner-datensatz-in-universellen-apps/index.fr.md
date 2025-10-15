@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+url: '/fr/aide/page-fiche-individuelle-apps-universelles'
+aliases:
+    - '/fr/aide/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+seo:
+    title: 'Page de fiche individuelle dans Apps Universelles – guide'
+    description: 'Présentez chaque ligne dans SeaTable : pages personnalisées, éléments statiques, filtres, droits et modèles pour tout contexte d’application.'
 ---
 
 Avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement les données stockées dans une ligne. Ce type de page est donc similaire au [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.

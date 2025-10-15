@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+url: '/es/ayuda/pagina-registro-unico-apps-universales'
+aliases:
+    - '/es/ayuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+seo:
+    title: 'Página de registro único en Apps Universales – completo'
+    description: 'Crea páginas con datos individuales y estáticos en Apps Universales SeaTable, gestiona permisos y visualización avanzada para cada registro.'
 ---
 
 Con el [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que ya conoce de Base.

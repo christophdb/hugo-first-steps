@@ -5,7 +5,13 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/pt/ajuda/anleitung-zum-whiteboard-plugin'
+url: '/pt/ajuda/guia-plugin-whiteboard'
+aliases:
+    - '/pt/ajuda/anleitung-zum-whiteboard-plugin'
+seo:
+    title: 'Plugin whiteboard (obsoleto) – guia e recomendações'
+    description: 'Guia do plugin Whiteboard antigo (excalidraw). Sem colaboração, será removido na versão 6.0. Migre para o novo plugin tldraw.'
+
 ---
 
 O **plugin de quadro branco** dá-lhe a liberdade de visualizar graficamente processos e estruturas que não pode apresentar com os plugins anteriores. Também pode esboçar livremente esquemas e maquetas. Para o desenho, tem vários **elementos** como quadrados, elipses e setas, bem como **ferramentas** como a caneta, o apagador e a ferramenta de texto à escolha.
