@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/start-with-template-seatable'
+url: '/help/level-two-introduction'
 aliases:
     - '/help/level-zwei-einfuehrung'
 seo:
