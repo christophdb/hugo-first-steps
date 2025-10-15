@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/pomoshch/apps-zu-einer-base-hinzufuegen'
+url: '/ru/pomoshch/dobavit-prilozhenie-k-baze'
+aliases:
+    - '/ru/pomoshch/apps-zu-einer-base-hinzufuegen'
+seo:
+    title: 'Добавить приложение к базе SeaTable – инструкция'
+    description: 'Как добавить приложение к базе SeaTable, адаптировать функционал для команд и управлять всем через меню приложений.'
 star: true
 weight: 2
 ---

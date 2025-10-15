@@ -6,6 +6,9 @@ categories:
     - 'universelle-apps'
 author: 'nsc2'
 url: '/de/hilfe/seitenberechtigungen-in-einer-universellen-app'
+seo:
+    title: 'Seitenberechtigungen in Universeller App – Anleitung'
+    description: 'Lernen Sie, wie Sie Seitenberechtigungen in SeaTable Universellen Apps festlegen, bearbeiten und Rollen präzise steuern.'
 ---
 
 {{< required-version "Enterprise" >}}

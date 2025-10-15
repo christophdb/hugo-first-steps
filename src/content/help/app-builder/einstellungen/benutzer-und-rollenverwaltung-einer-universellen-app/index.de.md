@@ -6,6 +6,9 @@ categories:
     - 'universelle-apps'
 author: 'nsc2'
 url: '/de/hilfe/benutzer-und-rollenverwaltung-einer-universellen-app'
+seo:
+    title: 'Benutzer- und Rollenverwaltung in Universeller App'
+    description: 'Lernen Sie, wie Sie Benutzer hinzufügen, Rollen vergeben und Einladungslinks verwalten in der Universellen App von SeaTable.'
 ---
 
 Sei es das Hinzufügen von **neuen Benutzern**, die Vergabe von **Rollen** oder das Erstellen von **Einladungslinks** – in der Benutzer- und Rollenverwaltung einer Universellen App können Sie diverse administrative Tätigkeiten durchführen. Sie erreichen die **Benutzer- und Rollenverwaltung** über den Bearbeitungsmodus Ihrer Universellen App.

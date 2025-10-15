@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/zahlungsmethoden-seatable'
+url: '/help/payment-methods-seatable'
+aliases:
+    - '/help/zahlungsmethoden-seatable'
+seo:
+    title: 'SeaTable payment methods – card, invoice & digital wallets'
+    description: 'Pay for SeaTable with credit card, Apple Pay, Google Pay, or by invoice (for large Enterprise customers only). Simple billing, easy upgrades.'
 ---
 
 {{< required-version "Team Administrators" >}}

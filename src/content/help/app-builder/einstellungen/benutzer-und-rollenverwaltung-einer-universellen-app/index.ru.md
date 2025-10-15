@@ -5,7 +5,12 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/pomoshch/benutzer-und-rollenverwaltung-einer-universellen-app'
+url: '/ru/pomoshch/upravlenie-polzovatelyami-i-rolyami-universalnoe-prilozhenie'
+aliases:
+    - '/ru/pomoshch/benutzer-und-rollenverwaltung-einer-universellen-app'
+seo:
+    title: 'Управление пользователями и ролями в Универсальном приложении'
+    description: 'Добавляйте пользователей, назначайте роли, создавайте ссылки-приглашения и контролируйте права в Универсальных приложениях SeaTable.'
 ---
 
 Добавление **новых пользователей**, назначение **ролей** или создание **пригласительных ссылок** - вы можете выполнять различные административные действия в администрировании пользователей и ролей универсального приложения. Вы можете получить доступ к **администрированию пользователей и ролей** через режим редактирования универсального приложения.

@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/eigene-farben-in-einer-base-hinzufuegen'
+url: '/ru/pomoshch/dobavit-svoi-tsveta-v-bazu'
+aliases:
+    - '/ru/pomoshch/eigene-farben-in-einer-base-hinzufuegen'
+seo:
+    title: 'Добавить свои цвета в базу SeaTable – инструкция'
+    description: 'Узнайте, как добавить, изменить или удалить пользовательские цвета (Hex) для особого оформления вашей базы SeaTable.'
 ---
 
 {{< required-version "Предприятие" >}}

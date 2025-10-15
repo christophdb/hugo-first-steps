@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/help/apps-zu-einer-base-hinzufuegen'
+url: '/help/add-app-to-base'
+aliases:
+    - '/help/apps-zu-einer-base-hinzufuegen'
+seo:
+    title: 'Add app to your SeaTable base – quick & easy steps'
+    description: 'Learn to add apps to your SeaTable base, customize features for teams or use cases, and manage everything from the Apps menu.'
 star: true
 weight: 2
 ---

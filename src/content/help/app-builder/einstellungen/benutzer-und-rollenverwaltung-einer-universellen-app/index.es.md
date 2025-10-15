@@ -5,7 +5,12 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/es/ayuda/benutzer-und-rollenverwaltung-einer-universellen-app'
+url: '/es/ayuda/gestion-usuarios-y-roles-app-universal'
+aliases:
+    - '/es/ayuda/benutzer-und-rollenverwaltung-einer-universellen-app'
+seo:
+    title: 'Gestión de usuarios y roles en App Universal'
+    description: 'Añade usuarios, asigna roles y crea enlaces de invitación para administrar permisos en las Apps Universales de SeaTable. Guía completa.'
 ---
 
 Ya sea añadiendo **nuevos usuarios**, asignando **roles** o creando **enlaces de** invitación, puedes llevar a cabo varias actividades administrativas en la administración de usuarios y roles de una app universal. Puedes acceder a la administración de usuarios y **roles** a través del modo de edición de tu app universal.

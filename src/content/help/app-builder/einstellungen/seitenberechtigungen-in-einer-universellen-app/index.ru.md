@@ -5,7 +5,12 @@ lastmod: '2023-11-30'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/pomoshch/seitenberechtigungen-in-einer-universellen-app'
+url: '/ru/pomoshch/prava-stranic-v-universalnom-prilozhenii'
+aliases:
+    - '/ru/pomoshch/seitenberechtigungen-in-einer-universellen-app'
+seo:
+    title: 'Права страниц в Универсальном Приложении – инструкция'
+    description: 'Узнайте, как управлять правами страниц в Универсальных Приложениях SeaTable: роли, доступ, редактирование и просмотр данных.'
 ---
 
 {{< required-version "Enterprise" >}}

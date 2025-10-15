@@ -5,7 +5,12 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/help/benutzer-und-rollenverwaltung-einer-universellen-app'
+url: '/help/user-and-role-management-universal-app'
+aliases:
+    - '/help/benutzer-und-rollenverwaltung-einer-universellen-app'
+seo:
+    title: 'User and role management in Universal App – guide'
+    description: 'Manage users, assign roles, generate invite links and control permissions effectively in SeaTable’s Universal Apps. Complete overview.'
 ---
 
 Whether it is adding **new users**, assigning **roles** or creating **invitation links** - you can perform various administrative activities in the user and role administration of a universal app. You can access the **user and role administration** via the edit mode of your universal app.

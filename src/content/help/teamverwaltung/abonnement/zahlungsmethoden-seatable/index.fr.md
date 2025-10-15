@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/zahlungsmethoden-seatable'
+url: '/fr/aide/modes-de-paiement-seatable'
+aliases:
+    - '/fr/aide/zahlungsmethoden-seatable'
+seo:
+    title: 'Modes de paiement chez SeaTable – carte & facture'
+    description: 'Règlez SeaTable par carte bancaire, Apple Pay, Google Pay ou par facture (offre Entreprise). Stripe assure la gestion sécurisée des paiements.'
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}

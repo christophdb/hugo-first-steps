@@ -5,7 +5,12 @@ lastmod: '2023-04-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/eigene-farben-in-einer-base-hinzufuegen'
+url: '/help/add-custom-colors-to-base'
+aliases:
+    - '/help/eigene-farben-in-einer-base-hinzufuegen'
+seo:
+    title: 'Add custom colors to SeaTable base – full tutorial'
+    description: 'Learn how to insert, change and remove custom hex colors in any SeaTable base for your team or organization’s unique style.'
 ---
 
 {{< required-version "Enterprise" >}}
