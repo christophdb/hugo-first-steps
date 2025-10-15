@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/fr/aide/mit-einer-vorlagen-starten'
+url: '/fr/aide/commencer-modele-seatable'
+aliases:
+    - '/fr/aide/mit-einer-vorlagen-starten'
+seo:
+    title: 'Commencez avec un modèle SeaTable – création rapide'
+    description: 'Lancez vos projets dans SeaTable avec des modèles prédéfinis ou personnalisés. Organisez et collaborez facilement grâce à une structure adaptée.'
 ---
 
 SeaTable propose des modèles prêts à l'emploi pour de nombreuses applications. Ils vous permettront de démarrer votre travail et d'utiliser SeaTable de manière encore plus rapide et ciblée.

@@ -6,6 +6,9 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/level-zwei-einfuehrung'
+seo:
+    title: 'Mit SeaTable Vorlage starten – schneller zur perfekten Base'
+    description: 'Egal ob Projektmanagement oder Alltag: Mit den Vorlagen von SeaTable starten Sie direkt, nutzen fertige Strukturen und eigene Templates.'
 weight: 1
 ---
 

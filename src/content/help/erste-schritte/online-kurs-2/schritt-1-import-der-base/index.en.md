@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-1-import-der-base'
+url: '/help/step1-import-base-seatable'
+aliases:
+    - '/help/schritt-1-import-der-base'
+seo:
+    title: 'Step 1 in SeaTable Course 2: import and explore the base'
+    description: 'First step in Level 2: Import the provided DTABLE, discover new columns, formulas, and views—lay the groundwork for your advanced project process.'
 ---
 
 Before you can map a new business process in SeaTable, you must first create the appropriate table structure. This is the only way to record the data required for the process in a meaningful way and process it efficiently later. Although you can be inspired by the numerous templates, it is usually necessary to think through the process in detail and clearly define the relevant data.

@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-4-geldeingang'
+url: '/help/step4-payment-received-seatable'
+aliases:
+    - '/help/schritt-4-geldeingang'
+seo:
+    title: 'Step 4 in SeaTable Course 2: payment received – workflows'
+    description: 'In step 4 you set up a button in SeaTable to record payments and send confirmation emails – automation and status updates for real business processes.'
 ---
 
 After your course participants have received the payment request by e-mail, they will transfer the course fee to your bank account. We will not automate the verification of incoming payments any further at this point. Nevertheless, it would make sense to integrate an additional button in your base that performs two tasks:

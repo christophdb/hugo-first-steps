@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/schritt-1-import-der-base'
+url: '/es/ayuda/paso1-importar-base-seatable'
+aliases:
+    - '/es/ayuda/schritt-1-import-der-base'
+seo:
+    title: 'Paso 1 Curso SeaTable 2: importa la base, conoce la estructura'
+    description: 'Inicia el segundo curso: importa la base DTABLE, explora los campos y fórmulas, y comprende los elementos esenciales para tus procesos online.'
 ---
 
 Antes de poder asignar un nuevo proceso de negocio en SeaTable, primero debe crear la estructura de tabla adecuada. Es la única forma de registrar los datos necesarios para el proceso de forma significativa y procesarlos posteriormente de forma eficaz. Aunque puede inspirarse en las numerosas plantillas, normalmente es necesario pensar el proceso en detalle y definir claramente los datos relevantes.

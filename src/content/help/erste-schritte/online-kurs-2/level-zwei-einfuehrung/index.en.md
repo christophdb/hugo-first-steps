@@ -5,7 +5,12 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/level-zwei-einfuehrung'
+url: '/help/start-with-template-seatable'
+aliases:
+    - '/help/level-zwei-einfuehrung'
+seo:
+    title: 'Start with SeaTable template – ready projects in minutes'
+    description: 'Use SeaTable templates for quick project success. Find ready-made solutions, customize your own and get started faster, no setup from scratch required.'
 weight: 1
 ---
 

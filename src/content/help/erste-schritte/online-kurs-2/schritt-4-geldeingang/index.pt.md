@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/pt/ajuda/schritt-4-geldeingang'
+url: '/pt/ajuda/passo4-recebimento-pagamento-seatable'
+aliases:
+    - '/pt/ajuda/schritt-4-geldeingang'
+seo:
+    title: 'Passo 4 do Curso SeaTable 2: recebimento – botão e e-mail'
+    description: 'No quarto passo, configure um botão no SeaTable para documentar pagamentos recebidos e enviar confirmação automática por e-mail no fluxo do curso.'
 ---
 
 Depois de os participantes no curso receberem o pedido de pagamento por correio eletrónico, transferirão a taxa do curso para a sua conta bancária. Nesta altura, não automatizamos a verificação dos pagamentos recebidos. No entanto, faria sentido integrar um botão adicional na sua base que executasse duas tarefas:

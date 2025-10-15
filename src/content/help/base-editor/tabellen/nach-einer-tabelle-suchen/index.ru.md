@@ -5,7 +5,12 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/ru/pomoshch/nach-einer-tabelle-suchen'
+url: '/ru/pomoshch/poisk-tablitsy-seatable'
+aliases:
+    - '/ru/pomoshch/nach-einer-tabelle-suchen'
+seo:
+    title: 'Поиск таблицы в SeaTable – быстрый доступ к данным'
+    description: 'Быстро находите таблицы в больших проектах SeaTable: выпадающий список, поле поиска или стрелки в заголовке — просто и удобно.'
 ---
 
 Для баз с большим количеством таблиц не все **вкладки** могут быть отображены **в заголовке базы**. Даже [скрытые таблицы]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) больше не могут быть найдены в заголовке базы. Поэтому SeaTable предлагает возможность поиска **таблицы**.

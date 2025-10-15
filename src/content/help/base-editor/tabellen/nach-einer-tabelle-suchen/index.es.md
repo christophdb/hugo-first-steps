@@ -5,7 +5,12 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/es/ayuda/nach-einer-tabelle-suchen'
+url: '/es/ayuda/buscar-tabla-seatable'
+aliases:
+    - '/es/ayuda/nach-einer-tabelle-suchen'
+seo:
+    title: 'Buscar tabla en SeaTable – cómo encontrar y filtrar fácil'
+    description: 'Encuentra cualquier tabla en SeaTable usando el menú desplegable, barra de búsqueda o flechas de navegación. Ahorra tiempo y navega eficientemente.'
 ---
 
 En las bases con un gran número de tablas, no se pueden mostrar todas las **fichas en la cabecera de la base**. Incluso las [tablas ocultas]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) ya no se pueden encontrar en la cabecera de la base. Por ello, SeaTable ofrece la posibilidad de buscar una **tabla**.

@@ -5,7 +5,12 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/fr/aide/nach-einer-tabelle-suchen'
+url: '/fr/aide/rechercher-table-seatable'
+aliases:
+    - '/fr/aide/nach-einer-tabelle-suchen'
+seo:
+    title: 'Rechercher une table SeaTable – astuces navigation rapide'
+    description: 'Utilisez listes, recherche et flèches pour trouver une table SeaTable, même dans une base très grande. Recherche accélérée pour plus d’efficacité.'
 ---
 
 Pour les bases avec un grand nombre de tableaux, tous les **onglets** ne peuvent plus être affichés **dans l'en-tête de la base**. De même, [les tableaux masqués]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) ne peuvent plus être trouvés dans l'en-tête de la base. C'est pourquoi SeaTable offre la possibilité de rechercher un **tableau**.

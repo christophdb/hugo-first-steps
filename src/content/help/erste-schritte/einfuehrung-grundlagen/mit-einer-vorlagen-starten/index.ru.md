@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/pomoshch/mit-einer-vorlagen-starten'
+url: '/ru/pomoshch/nachnite-s-shablona-seatable'
+aliases:
+    - '/ru/pomoshch/mit-einer-vorlagen-starten'
+seo:
+    title: 'Начните с шаблона SeaTable – быстрый старт проекта'
+    description: 'Используйте библиотеку шаблонов SeaTable для мгновенного запуска проектов: готовая структура, свои шаблоны и советы по эффективной работе.'
 ---
 
 В SeaTable имеются готовые шаблоны для многих случаев использования. С их помощью вы можете начать свою работу и использовать SeaTable еще быстрее и целенаправленнее.

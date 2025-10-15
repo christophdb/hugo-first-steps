@@ -6,6 +6,9 @@ categories:
     - 'kurzanleitungen'
 author: 'cdb'
 url: '/de/hilfe/mit-einer-vorlagen-starten'
+seo:
+    title: 'Mit SeaTable Vorlage starten – schnell zur perfekten Base'
+    description: 'Nutzen Sie die Vorlagen-Bibliothek von SeaTable, um Projekte schneller zu beginnen: passende Templates, eigene Templates anlegen und Tipps zur Anwendung.'
 ---
 
 Für viele Anwendungsfälle stehen Ihnen in SeaTable fertige Vorlagen zur Verfügung. Mit diesen kickstarten Sie Ihre Arbeit und nutzen SeaTable noch schneller und zielgerichteter.

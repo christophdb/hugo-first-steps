@@ -5,7 +5,12 @@ lastmod: '2024-09-04'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/schritt-1-anlegen-einer-neuen-base'
+url: '/fr/aide/etape1-creer-base-depenses-seatable'
+aliases:
+    - '/fr/aide/schritt-1-anlegen-einer-neuen-base'
+seo:
+    title: 'Étape 1 Cours SeaTable 1 : créer une base de dépenses'
+    description: 'Lancez le cours en ligne : créez une nouvelle base SeaTable, adaptez vos colonnes et catégories pour commencer à suivre efficacement toutes vos dépenses.'
 ---
 
 Dans ce cours, nous allons créer un outil simple pour enregistrer et gérer vos dépenses personnelles ou professionnelles. Lorsque vous aurez terminé, vous pourrez enregistrer vos dépenses à tout moment, soit sur votre ordinateur, soit sur votre téléphone portable. Chaque fois que vous sortez votre porte-monnaie, vous devez ensuite documenter cette dépense. La récompense de ces efforts est que vous pouvez voir d'un coup d'œil où et combien vous avez dépensé.

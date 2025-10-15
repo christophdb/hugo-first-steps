@@ -5,7 +5,12 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/help/nach-einer-tabelle-suchen'
+url: '/help/search-table-seatable'
+aliases:
+    - '/help/nach-einer-tabelle-suchen'
+seo:
+    title: 'Search for tables in SeaTable – fast table finder tips'
+    description: 'With SeaTable’s search, find tables using the drop-down menu, search box, or header arrows—even in bases with dozens of sheets. Clarity guaranteed.'
 ---
 
 For bases with a large number of tables, not all **tabs** can be displayed **in the base header**. Even [hidden tables]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) can no longer be found in the base header. SeaTable therefore offers the option of searching for a **table**.
