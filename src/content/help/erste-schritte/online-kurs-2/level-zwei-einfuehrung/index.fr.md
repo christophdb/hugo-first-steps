@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/fr/aide/demarrer-modele-seatable'
+url: '/fr/aide/niveau-deux-introduction'
 aliases:
     - '/fr/aide/level-zwei-einfuehrung'
 seo:

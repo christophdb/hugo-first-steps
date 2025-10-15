@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/nachnite-s-shablona-seatable'
+url: '/ru/pomoshch/uroven-dva-vvedenie'
 aliases:
     - '/ru/pomoshch/level-zwei-einfuehrung'
 seo:

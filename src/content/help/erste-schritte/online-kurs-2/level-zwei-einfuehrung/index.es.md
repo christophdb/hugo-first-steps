@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/comenzar-plantilla-seatable'
+url: '/es/ayuda/nivel-dos-introduccion'
 aliases:
     - '/es/ayuda/level-zwei-einfuehrung'
 seo:

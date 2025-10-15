@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/pt/ajuda/comecar-template-seatable'
+url: '/pt/ajuda/nivel-dois-introducao'
 aliases:
     - '/pt/ajuda/level-zwei-einfuehrung'
 seo:
