@@ -5,10 +5,9 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/metodos-de-pagamento-seatable
+url: '/pt/ajuda/metodos-de-pagamento-seatable'
 aliases:
     - '/pt/ajuda/zahlungsmethoden-seatable'
-aliases:
 seo:
     title: 'Métodos de pagamento SeaTable – cartão e fatura'
     description: 'SeaTable aceita cartões de crédito, Apple Pay, Google Pay e fatura (apenas para empresas Enterprise/Plus). Veja regras e instruções no site.'
