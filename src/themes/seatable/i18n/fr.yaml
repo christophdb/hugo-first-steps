@@ -26,12 +26,18 @@ registration:
 
 contact:
     concern:
-        label: 'Objet'
-        support: 'J’ai besoin d’assistance'
+        label: 'Votre Objet'
+        free: "J'ai besoin d’une assistance (SeaTable Cloud Free ou licence gratuite pour 3 utilisateurs)"
+        support: "J'ai besoin d’assistance"
         sales: 'Je souhaiterais recevoir une offre'
-        question: 'J’ai une question et j’aimerais prendre contact'
-    support_forum: 'Si vous ne disposez pas d’un abonnement SeaTable Enterprise, veuillez utiliser notre <a href="https://forum.seatable.com" target="_blank" rel="nofollow">forum communautaire</a>.'
-    create_tickets_in_team_admin: 'En tant que client Enterprise, vous pouvez créer des tickets directement dans la <a href="https://account.seatable.com/support" target="_blank" rel="nofollow">zone d’administration d’équipe</a>.'
+        question: "J'ai une question et j'aimerais prendre contact"
+    support_forum: |
+        Si vous utilisez l’offre cloud gratuite **SeaTable Free**, la **version serveur auto-hébergée Developer Edition** ou la **licence gratuite pour 3 utilisateurs** et que vous avez besoin d’aide, veuillez visiter notre [Forum Communautaire](https://forum.seatable.com).<br/>  
+        Pour le moment, nous ne pouvons malheureusement pas offrir de support direct aux utilisateurs sans licence payante. Cependant, vous recevrez une aide rapide et compétente de la part de notre communauté sur le forum.
+    create_tickets_in_team_admin: |
+        En tant que client avec un abonnement **SeaTable Cloud Plus** ou **Enterprise**, vous pouvez créer des tickets de support directement dans la [Gestion d’équipe](https://account.seatable.com/support).</a><br/><br/>
+        **Avantage :** vous conservez une vue d’ensemble claire de tous vos tickets et de leur état de traitement.
+    teamname: 'Nom de votre équipe'
     first_name: 'Prénom'
     last_name: 'Nom'
     company: 'Société'

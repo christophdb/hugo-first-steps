@@ -26,12 +26,18 @@ registration:
 
 contact:
     concern:
-        label: 'Concern'
+        label: 'Your Concern'
+        free: 'I need support (SeaTable Cloud Free or free 3-user license)'
         support: 'I need support'
         sales: 'I would like an offer'
         question: 'I have a question and would like to get in touch'
-    support_forum: 'If you don''t have a SeaTable Enterprise subscription, please use our <a href="https://forum.seatable.com" target="_blank" rel="nofollow">community forum</a>.'
-    create_tickets_in_team_admin: 'As an Enterprise customer, you can create tickets directly in the <a href="https://account.seatable.com/support" target="_blank" rel="nofollow">team admin area</a>.'
+    support_forum: |
+        If you are using the free **SeaTable Free** cloud plan, the **self-hosted Developer Edition**, or the **free 3-user license** and need assistance, please visit our [Community Forum](https://forum.seatable.com).<br/>  
+        At this time, we are unfortunately unable to provide direct support for users without a paid license. However, you will receive fast and competent help from our community in the forum.
+    create_tickets_in_team_admin: |
+        As a customer with a **SeaTable Cloud Plus** or **Enterprise** subscription, you can create support tickets directly in the [Team Administration](https://account.seatable.com/support).</a><br/><br/>
+        **The advantage:** You can keep track of all your tickets and their processing status in one place.
+    teamname: Name of your team
     first_name: 'First name'
     last_name: 'Last name'
     company: 'Company'

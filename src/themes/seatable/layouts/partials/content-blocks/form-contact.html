@@ -16,24 +16,38 @@
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                     <div class="sm:col-span-2">
-                        <label class="text-md block font-bold">{{ T "contact.concern.label" }}</label>
-                        <div class="mt-2.5">
-                            <label
-                                ><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" required />Ich nutze die kostenlose SeaTable Version und brauche
-                                Hilfe</label
-                            ><br />
+                        <label class="block text-lg font-bold">{{ T "contact.concern.label" }}</label>
+                        <div class="mb-2 mt-2.5 rounded border border-gray-300 bg-orange-50 p-4 shadow-lg">
+                            <label><input type="radio" name="type" value="free" x-model="type" class="mx-2.5" required />{{ T "contact.concern.free" }}</label><br />
                             <label><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" required />{{ T "contact.concern.support" }}</label><br />
                             <label><input type="radio" name="type" value="sales" x-model="type" class="mx-2.5" required />{{ T "contact.concern.sales" }}</label><br />
                             <label><input type="radio" name="type" value="question" x-model="type" class="mx-2.5" required />{{ T "contact.concern.question" }}</label>
                         </div>
                     </div>
 
-                    <div x-show="type == 'support'" class="sm:col-span-2">
-                        <p class="rounded border bg-orange-50 p-4">{{ T "contact.support_forum" | safeHTML }}</p>
-                        <p class="mb-4 mt-4 rounded border bg-orange-50 p-4">{{ T "contact.create_tickets_in_team_admin" | safeHTML }}</p>
+                    <div x-show="type == 'free'" class="sm:col-span-2">
+                        <p class="rounded border border-gray-300 bg-blue-50 p-4 shadow-xl">{{ T "contact.support_forum" | markdownify }}</p>
                     </div>
 
-                    <div>
+                    <div x-show="type == 'support'" class="sm:col-span-2">
+                        <p class="mb-4 rounded border border-gray-300 bg-green-50 p-4 shadow-xl">{{ T "contact.create_tickets_in_team_admin" | markdownify }} Mehr erklärung!</p>
+                    </div>
+
+                    <div x-show="type == 'support'" class="sm:col-span-2">
+                        <label for="teamname" class="text-md block font-bold">{{ T "contact.teamname" }}</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="teamname"
+                                id="teamname"
+                                autocomplete="teamname"
+                                x-model="teamname"
+                                required
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                        </div>
+                    </div>
+
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'">
                         <label for="first-name" class="text-md block font-bold">{{ T "contact.first_name" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -46,7 +60,7 @@
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
-                    <div>
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'">
                         <label for="last-name" class="text-md block font-bold">{{ T "contact.last_name" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -59,7 +73,7 @@
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
-                    <div class="sm:col-span-2">
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'" class="sm:col-span-2">
                         <label for="company" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.company" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -72,7 +86,7 @@
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
-                    <div class="sm:col-span-2">
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'" class="sm:col-span-2">
                         <label for="email" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.email" }}</label>
                         <div class="mt-2.5">
                             <input
@@ -207,7 +221,7 @@
                         </div>
                     </div>
 
-                    <div class="sm:col-span-2">
+                    <div x-show="type == 'support' || type == 'question' || type == 'sales'" class="sm:col-span-2">
                         <label for="message" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.message" }}</label>
                         <div class="mt-2.5">
                             <textarea
@@ -228,9 +242,10 @@
                 <div class="mt-10">
                     <button
                         type="submit"
-                        x-bind:disabled="isSubmitting"
+                        x-bind:disabled="isSubmitting || !type"
                         x-html="buttonText"
-                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white">
+                        x-show="type == 'support' || type == 'question' || type == 'sales'"
+                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white disabled:opacity-50">
                         {{ T "contact.submit" }}
                     </button>
                 </div>

@@ -12,5 +12,5 @@ sections:
     - name: form-contact
       weight: 1
       title: 'Entre em contacto connosco'
-      description: 'O SeaTable está disponível como um produto na nuvem e como uma versão de servidor auto-hospedado. Por conseguinte, oferecemos aos nossos clientes diferentes canais de comunicação'
+      description: 'SeaTable доступен как облачный продукт, так и в виде самостоятельно размещаемой серверной версии. Пожалуйста, выберите свой запрос, чтобы связаться с нами.'
 ---

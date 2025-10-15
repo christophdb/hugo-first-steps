@@ -1,8 +1,10 @@
 {{ define "main" }}
     <section class="padding max-container mt-4">
         <div class="text-center">
+            <!-- Headline -->
             <h1 class="mb-8 text-4xl">{{ .Params.headline }}</h1>
 
+            <!-- Search -->
             <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
             <script src="/pagefind/pagefind-ui.js"></script>
             <div id="search" class="mx-auto max-w-2xl text-left"></div>
@@ -13,6 +15,7 @@
             </script>
         </div>
 
+        <!-- Help categories -->
         <div class="mx-auto my-12 grid max-w-4xl auto-rows-fr grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4">
             {{ range .Sections }}
                 {{ $bgClass := .Params.color | default "bg-red-100" }}
@@ -28,116 +31,64 @@
         </div>
     </section>
 
+    <!-- More information -->
     <section class="curved padding relative bg-seatable-blue">
         <section class="max-container">
             <div class="mx-auto mb-12 max-w-3xl text-center">
-                <p class="gradient font-poppins text-2xl font-bold">Nicht das richtige gefunden?</p>
-                <h2 class="mt-1 text-4xl font-bold text-white">Weitere Informationquellen</h2>
+                <p class="gradient font-poppins text-2xl font-bold">{{ .Params.info_sources.subtitle }}</p>
+                <h2 class="mt-1 text-4xl font-bold text-white">{{ .Params.info_sources.title }}</h2>
                 <p>&nbsp;</p>
             </div>
 
+            
             <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
-                <div class="flex flex-col rounded-md bg-gray-100 p-8">
-                    <span class="text-3xl text-seatable-orange">{{ partial "icon.html" "people-group" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">Community Forum</h3>
-                    <p class="mb-8 mt-4">Tauschen Sie sich mit anderen Nutzern aus, um Fragen über SeaTable zu stellen und zu beantworten.</p>
-                    <a class="mt-auto flex items-center gap-1 font-bold text-blue-500" href="#">zum Forum {{ partial "icon.html" "arrow-right" }}</a>
-                </div>
 
-                <div class="flex flex-col rounded-md bg-gray-100 p-8">
-                    <span class="text-3xl text-seatable-orange">{{ partial "icon.html" "youtube" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">YouTube Videos</h3>
-                    <p class="mb-8 mt-4">In unseren überwiegend deutschen Videos geben wir Tipps und Tricks rund um SeaTable.</p>
-                    <a class="mt-auto flex items-center gap-1" href="#">zu den Videos</a>
-                </div>
+                {{ range .Params.sources }}
+                    {{ $link := .link }}
+                    {{ if not (or (hasPrefix $link "http://") (hasPrefix $link "https://")) }}
+                        {{ with $.Site.GetPage $link }}
+                            {{ $link = .RelPermalink }}
+                        {{ end }}
+                    {{ end }}
 
-                <div class="flex flex-col rounded-md bg-gray-100 p-8">
-                    <span class="text-3xl text-seatable-orange">{{ partial "icon.html" "heart" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">Blog-Beiträge</h3>
-                    <p class="mb-8 mt-4">Stöbern Sie in unserem Blog und lesen Sie über die vielfältigen Einsatzmöglichkeiten von SeaTable.</p>
-                    <a class="mt-auto flex items-center gap-1" href="#">zum Blog</a>
-                </div>
+                    <div class="flex flex-col rounded-md bg-gray-100 p-8">
+                        <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
+                        <h3 class="mt-3 text-2xl font-bold">{{ .title }}</h3>
+                        <p class="mb-8 mt-4">{{ .text | markdownify }}</p>
+                        <a class="mt-auto flex items-center gap-1 font-bold text-blue-500" href="{{ $link }}">{{ .link_text}} {{ partial "icon.html" "arrow-top-right" }}</a>
+                    </div>
+                {{ end }}
 
-                <div class="flex flex-col rounded-md bg-gray-100 p-8">
-                    <span class="text-3xl text-seatable-orange">{{ partial "icon.html" "list-check" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">Adminhandbuch</h3>
-                    <p class="mb-8 mt-4">Möchten Sie wissen, wie Sie SeaTable installieren und konfigurieren? Hier finden Sie die Antworten, die Sie suchen.</p>
-                    <a class="mt-auto flex items-center gap-1" href="#">zum Adminhandbuch (englisch)</a>
-                </div>
-
-                <div class="flex flex-col rounded-md bg-gray-100 p-8">
-                    <span class="text-3xl text-seatable-orange">{{ partial "icon.html" "puzzle-piece" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">Entwicklerhandbuch</h3>
-                    <p class="mb-8 mt-4">Entwickeln Sie für und mit SeaTable Ihre eigenen Scripte, Applikationen oder Plugins.</p>
-                    <a class="mt-auto flex items-center gap-1" href="#">zum Entwicklerhandbuch (englisch)</a>
-                </div>
-
-                <div class="flex flex-col rounded-md bg-gray-100 p-8">
-                    <span class="text-3xl text-seatable-orange">{{ partial "icon.html" "code" }}</span>
-                    <h3 class="mt-3 text-2xl font-bold">API-Dokumentation</h3>
-                    <p class="mb-8 mt-4">SeaTable bietet eine umfangreiche API-Dokumentation, damit Sie Ihre Ideen umsetzen können.</p>
-                    <a class="mt-auto flex items-center gap-1" href="#">zum API-Dokumentation (englisch)</a>
-                </div>
             </div>
         </section>
     </section>
 
+    <!-- Customer feedback and contact -->
     <section class="max-container padding relative">
         <div class="mx-auto max-w-xl text-center">
-            <h2 class="mt-1 text-3xl font-bold">Echte Menschen, die für Sie da sind</h2>
-            <p class="mt-4 text-lg leading-relaxed">
-                98 von 100 Personen finden die Antworten, die sie brauchen, in einem unserer Hilfeartikel. Wenn du zu den verbleibenden 2 % gehören, steht Ihnen unser Expertenteam
-                zur Verfügung.
-            </p>
+            <h2 class="mt-1 text-3xl font-bold">{{ .Params.customer_feedback.title }}</h2>
+            <p class="mt-4 text-lg leading-relaxed">{{ .Params.customer_feedback.text }}</p>
             <div class="mt-8 text-center">
-                <a class="bg-gradient rounded-xl px-5 py-2 font-poppins text-lg font-bold text-white" href="#">Kontaktieren Sie uns</a>
+                <a class="bg-gradient rounded-xl px-5 py-2 font-poppins text-lg font-bold text-white" href="{{ relref . "/pages/contact" }}">{{ .Params.customer_feedback.contact_us }}</a>
             </div>
         </div>
 
-        <div class="max-container mb-24 mt-24 flex flex-row items-start gap-4">
-            <div class="flex flex-1 flex-col gap-4">
-                <div class="rounded-xl border border-gray-300 bg-orange-100 p-6 pr-10 shadow-lg">
-                    <p class="text-base leading-normal">
-                        „Stacey war fantastisch – sie war äußerst hilfsbereit und hat unermüdlich daran gearbeitet, mein Problem zu lösen. Ich schätze ihre Unterstützung wirklich
-                        sehr.“
-                    </p>
+        <div class="max-container mb-24 mt-24 flex flex-row gap-4 items-start">
+            {{ $bgColors := slice "bg-orange-100" "bg-sky-100" "bg-green-100" "bg-red-50" "bg-blue-50" "bg-orange-50" "bg-lime-50"}}
+            {{ range $i, $customer := .Params.customers }}
+
+                {{ if eq (mod $i 2) 0 }}
+                <div class="flex flex-1 flex-col gap-4">
+                {{ end }}
+                    <div class="rounded-xl border border-gray-300 {{ index $bgColors $i }} p-6 pr-10 -indent-1 shadow-lg {{ if eq (mod $i 4) 0 }} -mt-4 {{ end }}">
+                        <p class="text-base leading-normal">„{{ $customer.comment | markdownify }}“</p>
+                        <div class="pt-8 text-base gradient pl-1 font-bold font-poppins">{{ $customer.name }}</div>
+                    </div>
+                
+                {{ if eq (mod $i 2) 1 }}
                 </div>
-                <div class="rounded-xl border border-gray-300 bg-sky-100 p-6 pr-10 shadow-lg">
-                    <p class="text-base leading-normal">
-                        „Schnell, professionell und freundlich. Vor allem hat er das Problem sofort verstanden. Dies ist der erste Bug, den ich in all den Jahren der Nutzung von
-                        Todoist erlebt habe. Deshalb bin ich nicht überrascht, dass das Team großartig in dem ist, was es tut.“
-                    </p>
-                </div>
-            </div>
-            <div class="flex-1">
-                <div class="mt-4 rounded-xl border border-gray-300 p-6 pr-10 shadow-lg">
-                    <p class="text-base leading-normal">
-                        „Direkt auf den Punkt gebracht und wirklich schnell geantwortet. Alles gut erklärt und das Problem gelöst. Was will man mehr?“
-                    </p>
-                </div>
-                <div class="mt-4 rounded-xl border border-gray-300 bg-green-100 p-6 pr-10 shadow-lg">
-                    <p class="text-base leading-normal">
-                        „Alle SeaTable-Kundenbetreuenden sind großartig. Sie sind sachkundig und verstehen selbst meine verwirrendsten Fragen. Gut gemacht! Danke!“
-                    </p>
-                </div>
-            </div>
-            <div class="flex-1">
-                <div class="rounded-xl border border-gray-300 bg-red-50 p-6 pr-10">
-                    <p class="text-base leading-normal">
-                        „In Zeiten, in denen Bots oft die erste und sogar zweite Ebene des Supports bei den meisten Dienstleistungsunternehmen darstellen, war es eine willkommene
-                        Erfahrung, mit einer echten Person zu sprechen. Die Interaktion mit Stephanie war besonders erfrischend und ermutigend, da sie mir das Gefühl gab, dass die
-                        Kundschaft Todoist wirklich am Herzen liegt.“
-                    </p>
-                </div>
-            </div>
-            <div class="flex-1">
-                <div class="rounded-xl border border-gray-300 bg-blue-50 p-6 pr-10">
-                    <p class="text-base leading-normal">
-                        „Die Kommunikation war stets pünktlich, professionell und klar. Das habe ich wirklich sehr geschätzt. Ich war so beeindruckt von dem Service, dass ich
-                        sofort nach der Problemlösung den Pro-Plan gekauft habe!“
-                    </p>
-                </div>
-            </div>
+                {{ end }}
+            {{ end }}
         </div>
     </section>
 

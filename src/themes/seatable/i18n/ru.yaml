@@ -27,11 +27,17 @@ registration:
 contact:
     concern:
         label: 'Тема'
+        free: 'Мне нужна поддержка (SeaTable Cloud Free или бесплатная лицензия на 3 пользователей)'
         support: 'Мне нужна поддержка'
         sales: 'Я хотел(а) бы получить предложение'
         question: 'У меня есть вопрос, и я хотел(а) бы связаться'
-    support_forum: 'Если у вас нет подписки SeaTable Enterprise, пожалуйста, используйте наш <a href="https://forum.seatable.com" target="_blank" rel="nofollow">форум сообщества</a>.'
-    create_tickets_in_team_admin: 'Как клиент Enterprise, вы можете создавать обращения напрямую в <a href="https://account.seatable.com/support" target="_blank" rel="nofollow">административной зоне команды</a>.'
+    support_forum: |
+        Если вы используете бесплатный облачный план **SeaTable Free**, **самостоятельно размещаемую версию Developer Edition** или **бесплатную лицензию на 3 пользователей** и вам требуется помощь, пожалуйста, посетите наш [Форум сообщества](https://forum.seatable.com).<br/>  
+        В настоящее время, к сожалению, мы не можем предоставить прямую поддержку пользователям без платной лицензии. Однако на форуме вы получите быструю и компетентную помощь от нашего сообщества.
+    create_tickets_in_team_admin: |
+        Если у вас есть подписка **SeaTable Cloud Plus** или **Enterprise**, вы можете создавать заявки в службу поддержки напрямую в [администрации команды](https://account.seatable.com/support).</a><br/><br/>
+        **Преимущество:** вы можете удобно отслеживать все свои заявки и их статус обработки.
+    teamname: 'Название вашей команды'
     first_name: 'Имя'
     last_name: 'Фамилия'
     company: 'Компания'
