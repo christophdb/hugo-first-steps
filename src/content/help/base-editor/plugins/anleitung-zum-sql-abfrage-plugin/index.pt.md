@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/pt/ajuda/anleitung-zum-sql-abfrage-plugin'
+url: '/pt/ajuda/guia-plugin-consulta-sql'
+aliases:
+    - '/pt/ajuda/anleitung-zum-sql-abfrage-plugin'
+seo:
+    title: 'Guia do plugin de consulta SQL – comandos SeaTable'
+    description: 'Veja como usar o plugin SQL no SeaTable: comandos, exemplos práticos e exportação para análise avançada, até com Big Data.'
 ---
 
 O plug-in de consulta SQL é perfeitamente adequado para a **execução** directa **de comandos SQL** e, por isso, interessa sobretudo aos utilizadores que já têm experiência com bases de dados.

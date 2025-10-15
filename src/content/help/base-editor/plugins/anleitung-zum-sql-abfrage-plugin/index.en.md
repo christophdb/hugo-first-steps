@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/help/anleitung-zum-sql-abfrage-plugin'
+url: '/help/sql-query-plugin-guide'
+aliases:
+    - '/help/anleitung-zum-sql-abfrage-plugin'
+seo:
+    title: 'SQL Query Plugin Guide – commands & use cases'
+    description: 'Learn how to use the SeaTable SQL query plugin: SELECT, DELETE, and export as tables – best for big data power users.'
 ---
 
 The SQL query plugin is perfectly suited for the direct **execution of SQL commands** and is therefore primarily interesting for users who already have experience with databases.

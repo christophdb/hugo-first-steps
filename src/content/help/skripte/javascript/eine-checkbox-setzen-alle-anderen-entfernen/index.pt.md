@@ -5,7 +5,12 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/pt/ajuda/eine-checkbox-setzen-alle-anderen-entfernen'
+url: '/pt/ajuda/marcar-uma-checkbox-desmarcar-outras'
+aliases:
+    - '/pt/ajuda/eine-checkbox-setzen-alle-anderen-entfernen'
+seo:
+    title: 'JavaScript: marcar só uma checkbox, desmarcar as demais'
+    description: 'Veja como usar JavaScript no SeaTable para marcar apenas uma checkbox e desmarcar todas as outras – passo a passo com script pronto para uso.'
 ---
 
 Imagine que pretende ativar sempre uma caixa de verificação em exatamente uma linha de uma base. Quando esta caixa de verificação é activada, todas as outras caixas de verificação que podem ser preenchidas devem ser desactivadas. Isto pode ser feito facilmente com um script, por exemplo, através de um botão.

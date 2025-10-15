@@ -5,7 +5,12 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/pomoshch/eine-checkbox-setzen-alle-anderen-entfernen'
+url: '/ru/pomoshch/vybrat-odnu-galochku-snyat-s-ostalnykh'
+aliases:
+    - '/ru/pomoshch/eine-checkbox-setzen-alle-anderen-entfernen'
+seo:
+    title: 'JavaScript: выбрать одну галочку, снять с остальных'
+    description: 'JS-пример для SeaTable: отметьте одну галочку в таблице — остальные сбрасываются автоматически. Полный рабочий скрипт и инструкция.'
 ---
 
 Представьте, что вы хотите всегда активировать флажок ровно в одной строке базы. Если этот флажок активирован, то все остальные флажки, которые могут быть заполнены, должны быть деактивированы. Это можно легко сделать с помощью скрипта, например, через кнопку.

@@ -5,7 +5,12 @@ lastmod: '2024-10-27'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/pomoshch/unterstuetzte-python-bibliotheken'
+url: '/ru/pomoshch/podderzhivaemye-python-biblioteki'
+aliases:
+    - '/ru/pomoshch/unterstuetzte-python-bibliotheken'
+seo:
+    title: 'Поддерживаемые Python библиотеки в SeaTable – обзор'
+    description: 'Узнайте, какие модули Python доступны для SeaTable Cloud, Enterprise и серверов, а также как подключать свои собственные библиотеки.'
 ---
 
 Среда Python в SeaTable 5.0 (октябрь 2024) использует Python 3.11 и импортирует [стандартную библиотеку Python](https://docs.python.org/3.11/library/index.html). Стандартная библиотека содержит часто используемые модули, такие как os, sys, datetime, math и random. Вы можете использовать их непосредственно в своих сценариях Python, импортируя их в свой сценарий.

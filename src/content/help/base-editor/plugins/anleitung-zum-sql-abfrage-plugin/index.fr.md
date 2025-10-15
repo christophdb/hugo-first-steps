@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/fr/aide/anleitung-zum-sql-abfrage-plugin'
+url: '/fr/aide/guide-plugin-requetes-sql'
+aliases:
+    - '/fr/aide/anleitung-zum-sql-abfrage-plugin'
+seo:
+    title: 'Guide plugin requêtes SQL – exemples et astuces'
+    description: 'Utilisez le plugin de requête SQL : SELECT, DELETE, exportation de table, et travail optimal avec le backend Big Data SeaTable.'
 ---
 
 Le plug-in de requête SQL est parfaitement adapté à l'**exécution** directe **de commandes SQL** et est donc intéressant en premier lieu pour les utilisateurs qui ont déjà de l'expérience avec les bases de données.

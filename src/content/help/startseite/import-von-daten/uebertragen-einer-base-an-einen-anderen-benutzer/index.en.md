@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/help/uebertragen-einer-base-an-einen-anderen-benutzer'
+url: '/help/transfer-base-to-another-user'
+aliases:
+    - '/help/uebertragen-einer-base-an-einen-anderen-benutzer'
+seo:
+    title: 'Transfer a base to another user – all options explained'
+    description: 'How to transfer your SeaTable base to another user: within a team, across teams or to another server incl. export, copy and share link.'
 ---
 
 You want to transfer one of your **bases** to another user? SeaTable offers three different ways to do this, with the best approach depending on whether the receiving user is on your **own team**, on someone **else's team**, or perhaps even on a **different SeaTable server**.

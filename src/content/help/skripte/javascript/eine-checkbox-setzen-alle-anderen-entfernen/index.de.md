@@ -6,6 +6,9 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/de/hilfe/eine-checkbox-setzen-alle-anderen-entfernen'
+seo:
+    title: 'JavaScript: Nur eine Checkbox aktiv – Beispiel & Script'
+    description: 'Zeige Schritt für Schritt, wie Sie in SeaTable per Script mit einem Klick nur eine Checkbox aktivieren und alle anderen automatisch deaktivieren.'
 ---
 
 Stellen Sie sich vor, Sie möchten in einer Base immer genau in einer Zeile eine Checkbox aktivieren. Wenn diese Checkbox aktiviert wird, sollen alle anderen eventuell gefüllten Checkboxen deaktiviert werden. Diesen Vorgang können Sie z. B. über eine Schaltfläche ganz einfach mit einem Skript erledigen.

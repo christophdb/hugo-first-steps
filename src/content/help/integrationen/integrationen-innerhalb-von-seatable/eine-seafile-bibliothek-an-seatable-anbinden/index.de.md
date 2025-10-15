@@ -6,6 +6,9 @@ categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'nsc2'
 url: '/de/hilfe/eine-seafile-bibliothek-an-seatable-anbinden'
+seo:
+    title: 'Seafile Bibliothek an SeaTable anbinden – Anleitung'
+    description: 'Dateien effizient auslagern: So binden Sie eine Seafile Bibliothek in SeaTable ein, erhöhen Speicherplatz und profitieren von nahtloser Cloudintegration.'
 ---
 
 Wenn Sie viele größere Dateien (z. B. Bilder und Videos) in einer Base speichern, können Sie zum einen irgendwann an die [Speicherlimits Ihres Abonnements]({{< relref "pages/prices" >}}) stoßen, und zum anderen wird es über 100 MB nicht mehr möglich sein, die Base als [DTABLE-Datei]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) zu [exportieren]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).
