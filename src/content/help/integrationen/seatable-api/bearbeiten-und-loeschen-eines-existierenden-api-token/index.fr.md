@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/fr/aide/bearbeiten-und-loeschen-eines-existierenden-api-token'
+url: '/fr/aide/modifier-ou-supprimer-token-api-existant'
+aliases:
+    - '/fr/aide/bearbeiten-und-loeschen-eines-existierenden-api-token'
+seo:
+    title: 'Modifier ou supprimer un token API dans SeaTable – guide'
+    description: 'Gérez vos tokens API SeaTable : modifiez les droits, supprimez un token ou administrez‑les à partir de la gestion d’équipe.'
 ---
 
 SeaTable permet de créer autant de jetons d'API que l'on veut pour une base. Il est donc recommandé de créer un token pour chaque interface, chaque app ou chaque développement. Ces tokens peuvent être supprimés ou leur autorisation modifiée à tout moment.

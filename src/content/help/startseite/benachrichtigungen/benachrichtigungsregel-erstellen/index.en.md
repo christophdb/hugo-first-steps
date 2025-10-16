@@ -5,7 +5,12 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/help/benachrichtigungsregel-erstellen'
+url: '/help/create-notification-rule'
+aliases:
+    - '/help/benachrichtigungsregel-erstellen'
+seo:
+    title: 'Create notification rule – automated alerts in SeaTable'
+    description: 'Learn to create notification rules in SeaTable to automatically send alerts and messages to users based on defined triggers and actions.'
 ---
 
 Notification **rules** allow you to automatically send notifications to selected users when a predefined **trigger event** occurs in one of your tables. Notification rules are thus basically similar to [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), but unlike them, they are already available with a free subscription.

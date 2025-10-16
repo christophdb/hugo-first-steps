@@ -5,7 +5,12 @@ lastmod: '2023-02-21'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/help/die-status-zeile-und-ihre-funktionen'
+url: '/help/status-bar-and-its-functions'
+aliases:
+    - '/help/die-status-zeile-und-ihre-funktionen'
+seo:
+    title: 'Status bar in SeaTable – count & calculate values easily'
+    description: 'Learn how the SeaTable status bar works: count rows, calculate sums, averages, medians and numeric results directly in your view.'
 ---
 
 The **status-row** is located at the bottom of your tables and basically fulfills two different functions, which are explained in more detail in this article:

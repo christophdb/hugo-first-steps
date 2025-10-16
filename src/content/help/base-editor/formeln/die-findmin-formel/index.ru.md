@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/pomoshch/die-findmin-formel'
+url: '/ru/pomoshch/formula-findmin'
+aliases:
+    - '/ru/pomoshch/die-findmin-formel'
+seo:
+    title: 'Формула Findmin в SeaTable – поиск минимального значения'
+    description: 'Используйте формулу Findmin, чтобы находить минимальное числовое значение среди связанных записей в SeaTable и анализировать данные.'
 ---
 
 **Формула Findmin** ищет **минимальное значение** среди записей связанного столбца и возвращает его. Это полезно, если в связанной таблице есть **несколько записей**, которые ссылаются на одну и ту же запись (например, о человеке) в другой таблице.

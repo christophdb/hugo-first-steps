@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/fr/aide/die-findmin-formel'
+url: '/fr/aide/formule-findmin'
+aliases:
+    - '/fr/aide/die-findmin-formel'
+seo:
+    title: 'Formule Findmin SeaTable – trouver la valeur minimale'
+    description: 'Découvrez comment utiliser la formule Findmin pour obtenir la plus petite valeur issue d’enregistrements liés dans SeaTable.'
 ---
 
 La **formule Findmin** recherche parmi les entrées d'une colonne liée la **valeur minimale** et l'affiche. Ceci est utile lorsqu'il y a **plusieurs entrées** dans le tableau lié qui se réfèrent au même enregistrement (par ex. d'une personne) dans un autre tableau.

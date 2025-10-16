@@ -5,7 +5,12 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/es/ayuda/benachrichtigungsregel-erstellen'
+url: '/es/ayuda/crear-regla-de-notificacion'
+aliases:
+    - '/es/ayuda/benachrichtigungsregel-erstellen'
+seo:
+    title: 'Crear regla de notificación – alertas automáticas SeaTable'
+    description: 'Aprende a crear reglas de notificación en SeaTable para enviar alertas automáticas a los usuarios cuando se cumplan condiciones específicas.'
 ---
 
 Con la ayuda de las reglas de **notificación**, puede enviar automáticamente notificaciones a los usuarios seleccionados en cuanto se produzca un **evento desencadenante** predefinido en una de sus tablas. Así pues, las reglas de notificación son básicamente comparables a [las automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), pero a diferencia de éstas ya están disponibles con una suscripción gratuita.

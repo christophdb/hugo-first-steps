@@ -6,6 +6,9 @@ categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
 url: '/de/hilfe/die-status-zeile-und-ihre-funktionen'
+seo:
+    title: 'Status‑Zeile in SeaTable – zählen & berechnen leicht erklärt'
+    description: 'Erfahren Sie, wie die Status‑Zeile funktioniert: Zeilenzählung, Berechnung von Summen, Durchschnitten und weiteren Werten pro Spalte.'
 ---
 
 Die **Status-Zeile** befindet sich am unteren Rand Ihrer Tabellen und erfüllt grundsätzlich zwei verschiedene Funktionen, die in diesem Artikel näher erläutert werden:

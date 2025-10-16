@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/pomoshch/kann-ich-seatable-offline-verwenden'
+url: '/ru/pomoshch/ispolzovanie-seatable-offlayn'
+aliases:
+    - '/ru/pomoshch/kann-ich-seatable-offline-verwenden'
+seo:
+    title: 'Использование SeaTable офлайн – все способы работы'
+    description: 'Узнайте, как работать с SeaTable без интернета – экспорт данных, локальный сервер и другие варианты автономного доступа.'
 ---
 
 **SeaTable Cloud** - это сервис, доступ к которому вы получаете через интернет. Доступ без подключения к Интернету невозможен.

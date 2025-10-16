@@ -5,7 +5,12 @@ lastmod: '2023-02-21'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/fr/aide/die-status-zeile-und-ihre-funktionen'
+url: '/fr/aide/barre-detat-et-ses-fonctions'
+aliases:
+    - '/fr/aide/die-status-zeile-und-ihre-funktionen'
+seo:
+    title: 'Barre d’état SeaTable – compter et calculer facilement'
+    description: 'Découvrez la barre d’état de SeaTable : comptez les lignes, affichez la somme, la moyenne, le minimum ou maximum de vos colonnes.'
 ---
 
 La **ligne d'état** se trouve en bas de vos tableaux et remplit fondamentalement deux fonctions différentes, qui sont expliquées plus en détail dans cet article :

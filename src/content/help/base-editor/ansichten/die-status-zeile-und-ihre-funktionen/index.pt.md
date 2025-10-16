@@ -5,7 +5,12 @@ lastmod: '2023-02-21'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/pt/ajuda/die-status-zeile-und-ihre-funktionen'
+url: '/pt/ajuda/barra-de-status-e-suas-funcoes'
+aliases:
+    - '/pt/ajuda/die-status-zeile-und-ihre-funktionen'
+seo:
+    title: 'Barra de status no SeaTable – contagem e cálculos'
+    description: 'Saiba como funciona a barra de status do SeaTable: conte linhas, calcule somas, médias, medianas e estatísticas diretamente na base.'
 ---
 
 A **linha de estado** está localizada na parte inferior das suas tabelas e cumpre basicamente duas funções diferentes, que são explicadas com mais detalhe neste artigo:

@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/pt/ajuda/die-findmin-formel'
+url: '/pt/ajuda/formula-findmin'
+aliases:
+    - '/pt/ajuda/die-findmin-formel'
+seo:
+    title: 'Fórmula Findmin no SeaTable – menor valor automático'
+    description: 'Saiba como aplicar a fórmula Findmin no SeaTable para localizar o valor mínimo em registros vinculados e colunas numéricas.'
 ---
 
 A **fórmula Findmin** procura o **valor mínimo** entre as entradas de uma coluna ligada e devolve-o. Isto é útil se houver **várias entradas** na tabela ligada que se referem ao mesmo registo (por exemplo, de uma pessoa) noutra tabela.

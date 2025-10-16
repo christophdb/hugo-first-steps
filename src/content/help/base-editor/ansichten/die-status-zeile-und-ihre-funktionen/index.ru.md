@@ -5,7 +5,12 @@ lastmod: '2023-02-21'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-status-zeile-und-ihre-funktionen'
+url: '/ru/pomoshch/stroka-sostoyaniya-i-ee-funktsii'
+aliases:
+    - '/ru/pomoshch/die-status-zeile-und-ihre-funktionen'
+seo:
+    title: 'Строка состояния SeaTable – подсчёт и вычисления'
+    description: 'Узнайте, как использовать строку состояния SeaTable – считать строки, вычислять суммы, средние значения и статистику по колонкам.'
 ---
 
 **Строка состояния** расположена в нижней части ваших таблиц и в основном выполняет две различные функции, которые более подробно описаны в этой статье:
