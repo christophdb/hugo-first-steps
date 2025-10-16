@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/anzeige-der-veraenderungen-auf-einer-zeile'
+seo:
+    title: 'Zeilen-Log in SeaTable – Änderungen nachvollziehen'
+    description: 'Erfahren Sie, wie Sie im Zeilen-Log den Bearbeitungsverlauf einer Zeile inkl. Benutzer, Zeitpunkt und Spaltenänderung gezielt anzeigen lassen.'
 ---
 
 SeaTable speichert sämtliche Veränderungen, die in einer Base vorgenommen werden. Innerhalb einer Zeile bietet das **Zeilen-Log** die Möglichkeit, genau nachzuvollziehen, wann welcher Benutzer welche Änderung vorgenommen hat.

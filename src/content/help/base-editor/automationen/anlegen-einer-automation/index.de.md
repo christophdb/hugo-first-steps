@@ -6,6 +6,9 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/anlegen-einer-automation'
+seo:
+    title: 'Automation in SeaTable anlegen – Schritt für Schritt'
+    description: 'Lernen Sie, wie Sie in SeaTable Automationen erstellen: Trigger, Aktionen und Bedingungen für effiziente, fehlerfreie Workflows in Ihrer Base.'
 ---
 
 {{< required-version "Enterprise" >}}

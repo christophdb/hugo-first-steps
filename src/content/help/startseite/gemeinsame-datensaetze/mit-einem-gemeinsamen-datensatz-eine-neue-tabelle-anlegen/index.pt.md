@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/pt/ajuda/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+url: '/pt/ajuda/criar-tabela-conjunto-dados-comum'
+aliases:
+    - '/pt/ajuda/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+seo:
+    title: 'Criar tabela com conjunto de dados comum SeaTable'
+    description: 'Veja como criar uma nova tabela a partir de dados compartilhados no SeaTable, incluindo pré-requisitos, passos e sincronização de dados.'
 ---
 
 Para utilizar um registo comum noutra base, pode importar a visualização da tabela correspondente do registo comum para a base desejada. Para tal, criar uma nova tabela na base com o conjunto de dados correspondente. Poderá então trabalhar com os dados do conjunto de dados comum ou a vista de tabela, incluindo condições específicas de filtragem e classificação, na base seleccionada.

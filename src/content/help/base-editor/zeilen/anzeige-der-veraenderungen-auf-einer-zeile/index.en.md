@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/anzeige-der-veraenderungen-auf-einer-zeile'
+url: '/help/row-change-log'
+aliases:
+    - '/help/anzeige-der-veraenderungen-auf-einer-zeile'
+seo:
+    title: 'Row change log in SeaTable – track all updates'
+    description: 'Learn how to view and track every change on an individual row in SeaTable – user name, time, column and description included.'
 ---
 
 SeaTable stores all changes that are made in a base. Within a row the **rows-Log offers the possibility to track exactly when which user has made which change.**

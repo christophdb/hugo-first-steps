@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/es/ayuda/der-spaltentyp-automatische-nummer'
+url: '/es/ayuda/columna-numeracion-automatica'
+aliases:
+    - '/es/ayuda/der-spaltentyp-automatische-nummer'
+seo:
+    title: 'Columna de numeración automática SeaTable – completa'
+    description: 'Descubre cómo asignar números automáticos únicos en SeaTable, manejar formatos, reinicio y consejos para evitar duplicados o saltos.'
 ---
 
 El tipo de columna **Autonumeración** genera un número creciente automáticamente para cada nueva fila. Este tipo de columna se utiliza cuando se necesita un identificador único para cada registro.

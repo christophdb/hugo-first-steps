@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/fr/aide/der-spaltentyp-automatische-nummer'
+url: '/fr/aide/colonne-numerotation-automatique'
+aliases:
+    - '/fr/aide/der-spaltentyp-automatische-nummer'
+seo:
+    title: 'Type de colonne Numérotation automatique – SeaTable'
+    description: 'Gérez des identifiants uniques avec la colonne Numérotation auto de SeaTable : formats, remise à zéro et astuces pour éviter les doublons.'
 ---
 
 Le type de colonne **Numéro automatique** génère automatiquement un numéro croissant pour chaque nouvelle ligne. Ce type de colonne est toujours utilisé lorsque vous avez besoin d'un identifiant unique pour chaque enregistrement.

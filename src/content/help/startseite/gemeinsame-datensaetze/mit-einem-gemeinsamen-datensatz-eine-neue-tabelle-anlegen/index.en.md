@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+url: '/help/create-table-from-common-dataset'
+aliases:
+    - '/help/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+seo:
+    title: 'Create table from common dataset – SeaTable quick guide'
+    description: 'Learn how to use a shared dataset to create a new table in SeaTable, including prerequisites, setup steps and data synchronization.'
 ---
 
 To use a common dataset in another base, you can import the corresponding table view of the common dataset into the desired base. To do this, create a new table in the base with the corresponding data set. You can then work with the data of the common dataset or the table view, including specific filter and sort conditions, in the selected base as well.

@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/ru/pomoshch/der-spaltentyp-automatische-nummer'
+url: '/ru/pomoshch/tip-stolbtsa-avtomaticheskiy-nomer'
+aliases:
+    - '/ru/pomoshch/der-spaltentyp-automatische-nummer'
+seo:
+    title: 'Тип столбца Автоматический номер в SeaTable'
+    description: 'Как использовать авто-номер в SeaTable: уникальные ID, форматы, сброс значений, возможные ошибки и пустые места в последовательности.'
 ---
 
 Тип столбца **Автоматический номер** генерирует автоматически увеличивающееся число для каждой новой строки. Этот тип столбца используется в тех случаях, когда вам нужен уникальный идентификатор для каждой записи.
