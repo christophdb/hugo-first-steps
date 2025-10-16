@@ -2,9 +2,9 @@
 title: 'Der Net Promoter Score: Ein Überblick'
 description: 'Der Net Promoter Score (NPS) ist eine weit verbreitete Kennzahl zur Messung der Kundenloyalität. Doch was genau verbirgt sich hinter diesem Wert, wie wird er ermittelt und wie lässt er sich erfolgreich im Unternehmensalltag einsetzen? In diesem Artikel erfahren Sie mehr.'
 seo:
-    title: 'Net Promoter Score – Ein Überblick'
-    description: 'Der Net Promoter Score (NPS) ist eine Kennzahl zur Messung der Kundenloyalität. Wie er funktioniert und wie sie ihn einsetzen, erfahren Sie in unserem Artikel.'
-date: 2025-10-09
+    title: 'Net Promoter Score (NPS) verstehen und richtig nutzen'
+    description: 'Erfahren Sie in unserem Artikel, wie der Net Promoter Score (NPS) Kundenloyalität misst und richtig eingesetzt wird.'
+date: 2025-08-13
 url: '/de/net-promoter-score'
 aliases:
     - '/de/kundenzufriedenheit'
@@ -15,7 +15,6 @@ categories:
 color: '#29a4a1'
 register:
    show: true
-draft: true
 ---
 
 ## Was ist der Net Promoter Score?
@@ -64,13 +63,13 @@ Hinzu kommt, dass in der Praxis die meisten Kunden häufig in der Gruppe der Ind
 
 ## Was genau wird mit dem NPS gemessen?
 
-Diese Kritikpunkte sind durchaus berechtigt – gehen jedoch auch ein Stück am eigentlichen Problem vorbei: Nämlich, dass der NPS häufig eine Bedeutung bekommt, die er nicht hat – und nicht haben soll. Gehen wir noch mal zurück zu Reichhelds Anliegen: die Wahrscheinlichkeit messen, mit der Kunden ein Produkt oder Unternehmen weiterempfehlen. Die Wahrscheinlichkeit messen – nicht mehr, aber auch nicht weniger. Der NPS ist als Kennzahl also nicht gedacht, um unmittelbare Aussagen über die Kundenzufriedenheit zu treffen – oder, und hier trifft die Kritik zu, auch nur die tatsächliche Weiterempfehlungsrate.
+Diese Kritikpunkte sind durchaus berechtigt – gehen jedoch auch ein Stück am eigentlichen Problem vorbei: Nämlich, dass der NPS häufig eine Bedeutung bekommt, die er nicht hat – und nicht haben soll. Gehen wir noch mal zurück zu Reichhelds Anliegen: die Wahrscheinlichkeit messen, mit der Kunden ein Produkt oder Unternehmen weiterempfehlen. **Die Wahrscheinlichkeit messen** – nicht mehr, aber auch nicht weniger. Der NPS ist als Kennzahl also nicht gedacht, um unmittelbare Aussagen über die Kundenzufriedenheit zu treffen – oder, und hier trifft die Kritik zu, auch nur die tatsächliche Weiterempfehlungsrate.
 
 Gleichwohl setzt die grundsätzliche Bereitschaft, für ein Produkt oder Unternehmen zu werben, Zufriedenheit voraus. Insofern bildet der NPS Kundenzufriedenheit nicht akkurat ab, **macht aber Tendenzen sichtbar**. Auch als Frühindikator für problematische Entwicklungen kann er sinnvoll sein, sollte jedoch stets im Kontext einer umfassenderen Customer-Experience-Strategie angewendet werden.
 
 ## Wie interpretiert man die Ergebnisse?
 
-Wie bereits gesagt, kann der Score zwischen -100 und +100 liegen. Ein positiver Wert bedeutet, dass mehr Promotoren als Detraktoren vorhanden sind und gilt daher allgemein als gut, während ein negativer Wert problematisch ist. Betrachtet man Aussagen von Fred Reichheld und Bain & Comapny genauer, lässt sich der Score noch **granularer bewerten**:
+Wie bereits gesagt, kann der Score zwischen -100 und +100 liegen. Ein positiver Wert bedeutet, dass mehr Promotoren als Detraktoren vorhanden sind und gilt daher allgemein als gut, während ein negativer Wert problematisch ist. Betrachtet man Aussagen von Fred Reichheld und Bain & Company genauer, lässt sich der Score noch **granularer bewerten**:
 
 *   Score < 0 = problematisch
     
@@ -91,7 +90,7 @@ Inzwischen kursieren auch **Branchen-Benchmarks**, die jedoch tatsächlich nur b
 
 Wie sieht das Ganze nun in der Praxis aus? Wie führen Sie eine entsprechende Umfrage duch, um brauchbare Ergebnisse zu erhalten?
 
-Typischerweise werden Kundenumfragen per E-Mail, Web, Mobile-App oder direkt am POS durchgeführt. Wir empfehlen Ihnen, Ihren Kunden einen [Online-Link]({{< relref "posts/umfrage-online" >}}) zur Verfügung zu stellen, z. B. zu einer [Universal App von SeaTable]({{< relref "templates/marketing/customer-feedback" >}}). Sie können natürlich ganz puritanisch lediglich die Frage nach der wahrscheinlichen Weiterempfehlungsabsicht stellen. Üblicherweise fragt man jedoch zusätzlich noch ab, warum der jeweilige Wert ausgewählt wurde. Das Gute daran ist, dass die Frage eben nicht nur auf ein Gefühl abzielt (“Wie fanden Sie unser Produkt?”), sondern auf eine Verhaltensabsicht ("Würden Sie unser Produkt weiterempfehlen?"). Für viele ist diese Frage viel leichter zu beantworten. Der NPS ist auch deswegen so beliebt, da die Antwort meist genauer und ehrlicher ausfällt als eine reine Gefühlsabfrage.  
+Typischerweise werden Kundenumfragen per E-Mail, Web, Mobile-App oder direkt am POS durchgeführt. Wir empfehlen Ihnen, Ihren Kunden einen [Online-Link]({{< relref "posts/umfrage-online" >}}) zur Verfügung zu stellen, z. B. zu einer [Universal App von SeaTable]({{< relref "posts/20250318-app-erstellen" >}}). Sie können natürlich ganz puritanisch lediglich die Frage nach der wahrscheinlichen Weiterempfehlungsabsicht stellen. Üblicherweise fragt man jedoch zusätzlich noch ab, warum der jeweilige Wert ausgewählt wurde. Das Gute daran ist, dass die Frage eben nicht nur auf ein Gefühl abzielt (“Wie fanden Sie unser Produkt?”), sondern auf eine Verhaltensabsicht ("Würden Sie unser Produkt weiterempfehlen?"). Für viele ist diese Frage viel leichter zu beantworten. Der NPS ist auch deswegen so beliebt, da die Antwort meist genauer und ehrlicher ausfällt als eine reine Gefühlsabfrage.  
 
 ![Net promoter Score Umfrage](nps-form-seatable.png)
 
@@ -99,7 +98,7 @@ Typischerweise werden Kundenumfragen per E-Mail, Web, Mobile-App oder direkt am 
 
 Bei Bedarf können Sie noch weitere Fragen stellen oder offene Textfelder einfügen, um **qualitative Daten zu erhalten**. So lassen sich bei der späteren Analyse Rückschlüsse auf die zugrundeliegenden Beweggründe für oder wider eine Empfehlung ziehen. Für die eigentliche NPS Berechnung sind diese zusätzlichen Angaben jedoch irrelevant.
 
-Im Anschluss an die Datenerhebung können Sie Ihren Score berechnen. Wenn Sie die Gelegenheit genutzt haben, um weitere qualitative oder quantitative Daten zu erheben, können Sie nun noch Kundencluster bilden, Trends analysieren und Antworten thematisch auswerten. Moderne Plattformen wie [SeaTable]({{< relref "pages/industry-solutions/kundenmanagement" >}}) bieten dafür **anpassbare Dashboards**, Echtzeit-Einsichten und die Möglichkeit, **Ergebnisse mit weiteren Kundendaten zu verknüpfen**.
+Im Anschluss an die Datenerhebung können Sie Ihren Score berechnen. Wenn Sie die Gelegenheit genutzt haben, um weitere qualitative oder quantitative Daten zu erheben, können Sie nun noch Kundencluster bilden, Trends analysieren und Antworten thematisch auswerten. [Moderne No Code Plattformen wie SeaTable]({{< relref "/" >}}) bieten dafür **anpassbare Dashboards**, Echtzeit-Einsichten und die Möglichkeit, **Ergebnisse mit weiteren Kundendaten zu verknüpfen**.
 
 ## Welche Best Practices für NPS-Umfragen gibt es?
 
