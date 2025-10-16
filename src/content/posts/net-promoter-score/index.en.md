@@ -2,8 +2,8 @@
 title: 'Net Promoter Score: An overview'
 description: 'The Net Promoter Score (NPS) is a widely used indicator for measuring customer loyalty. But what exactly is behind this value, how is it determined and how can it be used successfully in day-to-day business? Find out more in this article.'
 seo:
-    title: 'Net Promoter Score - An overview'
-    description: 'The Net Promoter Score (NPS) is a key figure for measuring customer loyalty. You can find out how it works and how to use it in our article.'
+    title: 'Understanding Net Promoter Score (NPS) and using it correctly'
+    description: 'Find out in our article how the Net Promoter Score (NPS) measures customer loyalty and how to use it correctly.'
 date: 2025-08-13
 url: '/net-promoter-score'
 aliases:
@@ -16,7 +16,6 @@ categories:
 color: '#29a4a1'
 register:
    show: true
-draft: true
 ---
 
 ## What is the Net Promoter Score?
@@ -65,7 +64,7 @@ Furthermore, in practice, most customers often end up in the group of indifferen
 
 ## What exactly is measured with the NPS?
 
-These points of criticism are entirely justified - but they also miss the point of the actual problem: Namely, that the NPS is often given a meaning that it doesn't have - and shouldn't have. Let's go back to Reichheld's concern: measuring the likelihood of customers recommending a product or company to others. Measuring the probability - no more, but also no less. The NPS is therefore not intended as a key figure for making direct statements about customer satisfaction - or, and this is where the criticism applies, only the actual recommendation rate.
+These points of criticism are entirely justified - but they also miss the point of the actual problem: Namely, that the NPS is often given a meaning that it doesn't have - and shouldn't have. Let's go back to Reichheld's concern: measuring the probability of customers recommending a product or company to others. **Measuring the probability** - no more, but also no less. The NPS is therefore not intended as a key figure for making direct statements about customer satisfaction - or, and this is where the criticism applies, only the actual recommendation rate.
 
 Nevertheless, the fundamental willingness to advertise a product or company presupposes satisfaction. In this respect, the NPS does not accurately reflect customer satisfaction, **but it does make trends visible**. It can also be useful as an early indicator of problematic developments, but should always be used in the context of a more comprehensive customer experience strategy.
 
@@ -92,7 +91,7 @@ There are now also **industry benchmarks** in circulation, but these are only of
 
 What does this look like in practice? How do you conduct a survey to obtain useful results?
 
-Typically, customer surveys are conducted via email, web, mobile app or directly at the POS. We recommend that you provide your customers with an [online link]({{< relref "posts/umfrage-online" >}}), e.g. to a [universal app from SeaTable]({{< relref "templates/marketing/customer-feedback" >}}). Of course, you can simply ask the question about the likely intention to recommend. Usually, however, you also ask why the respective value was selected. The good thing about this is that the question is not just aimed at a feeling ("What did you think of our product?"), but at a behavioral intention ("Would you recommend our product to others?"). For many, this question is much easier to answer. The NPS is also so popular because the answer is usually more precise and honest than a purely emotional question.  
+Typically, customer surveys are conducted via email, web, mobile app or directly at the POS. We recommend that you provide your customers with an [online link]({{< relref "posts/umfrage-online" >}}), e.g. to a [universal app from SeaTable]({{< relref "posts/20250318-app-erstellen" >}}). Of course, you can simply ask the question about the likely intention to recommend. Usually, however, you also ask why the respective value was selected. The good thing about this is that the question is not just aimed at a feeling ("What did you think of our product?"), but at a behavioral intention ("Would you recommend our product to others?"). For many, this question is much easier to answer. The NPS is also so popular because the answer is usually more precise and honest than a purely emotional question.  
 
 ![Net promoter score survey](nps-form-seatable.png)
 
@@ -100,7 +99,7 @@ Typically, customer surveys are conducted via email, web, mobile app or directly
 
 If required, you can ask additional questions or insert open text fields to obtain **qualitative data**. This allows you to draw conclusions about the underlying reasons for or against a recommendation during the subsequent analysis. However, this additional information is irrelevant for the actual NPS calculation.
 
-Following the data collection, you can calculate your score. If you have taken the opportunity to collect further qualitative or quantitative data, you can now form customer clusters, analyze trends and evaluate responses thematically. Modern platforms such as [SeaTable]({{< relref "pages/industry-solutions/kundenmanagement" >}}) offer **customizable dashboards**, real-time insights and the ability to **link results with other customer data**.
+Following the data collection, you can calculate your score. If you have taken the opportunity to collect further qualitative or quantitative data, you can now form customer clusters, analyze trends and evaluate responses thematically. [Modern No Code platforms such as SeaTable]({{< relref "/" >}}) offer **customizable dashboards**, real-time insights and the ability to **link results with other customer data**.
 
 ## What are the best practices for NPS surveys?
 
