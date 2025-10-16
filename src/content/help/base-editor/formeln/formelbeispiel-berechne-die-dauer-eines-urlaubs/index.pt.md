@@ -5,7 +5,12 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/pt/ajuda/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+url: '/pt/ajuda/exemplo-formula-calcular-duracao-ferias'
+aliases:
+    - '/pt/ajuda/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+seo:
+    title: 'Exemplo de fórmula: calcular duração das férias'
+    description: 'Aprenda a aplicar a função dateDif no SeaTable para calcular automaticamente a duração entre datas de ida e volta.'
 ---
 
 As fórmulas do SeaTable oferecem-lhe diferentes formas de trabalhar com os dados das suas tabelas. Por exemplo, as fórmulas podem ser utilizadas para determinar automaticamente o **tempo entre duas datas**. Ao introduzir uma fórmula correspondente, pode, entre outras coisas, calcular a duração de um feriado e adicioná-la a uma coluna de fórmula na sua tabela.

@@ -6,6 +6,9 @@ categories:
     - 'seitendesign-plugin'
 author: 'vge'
 url: '/de/hilfe/anleitung-zum-seitendesign-plugin'
+seo:
+    title: 'Anleitung zum Seitendesign‑Plugin – PDF, Layout & Druck'
+    description: 'Lernen Sie, wie Sie mit dem Seitendesign‑Plugin Briefe, Karten und Dokumente erstellen, anpassen und als PDF oder Druck exportieren.'
 ---
 
 Das **Seitendesign-Plugin** bietet Ihnen eine Vielzahl an Möglichkeiten, die Informationen einer Tabelle unter anderem in Form von personalisierten Anschreiben, Visitenkarten und Rundbriefen zu visualisieren. Mithilfe von **statischen Elementen** können Sie Seiten-Layouts erstellen, die durch **dynamische Elemente** und **Tabellenfelder** ergänzt werden.

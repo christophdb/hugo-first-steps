@@ -5,7 +5,12 @@ lastmod: '2023-09-18'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
+url: '/ru/pomoshch/primer-formuly-obedinit-tekstovye-stolbtsy'
+aliases:
+    - '/ru/pomoshch/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
+seo:
+    title: 'Пример формулы: объединить текстовые столбцы в SeaTable'
+    description: 'Научитесь объединять несколько текстовых столбцов в SeaTable в одно поле — для создания полных имён или любых текстовых цепочек.'
 ---
 
 Формулы SeaTable предлагают несколько способов работы с данными в таблицах. Одним из них является объединение содержимого разных [текстовых колонок]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). С помощью соответствующей формулы можно объединить любое количество содержимого из разных столбцов в один столбец с формулой.

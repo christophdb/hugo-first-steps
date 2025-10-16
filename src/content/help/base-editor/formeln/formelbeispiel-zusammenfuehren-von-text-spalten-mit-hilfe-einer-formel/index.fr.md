@@ -5,7 +5,12 @@ lastmod: '2023-09-18'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/fr/aide/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
+url: '/fr/aide/exemple-formule-fusion-colonnes-texte'
+aliases:
+    - '/fr/aide/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
+seo:
+    title: 'Exemple de formule : fusion de colonnes texte SeaTable'
+    description: 'Découvrez comment fusionner des colonnes texte avec une formule SeaTable et créer facilement des chaînes ou noms personnalisés.'
 ---
 
 Les formules de SeaTable vous offrent différentes possibilités de travailler avec les données de vos tableaux. L'une d'entre elles consiste à fusionner les contenus de différentes [colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). En utilisant une formule appropriée, vous pouvez fusionner autant de contenus que vous le souhaitez provenant de différentes colonnes dans une seule colonne de formule.

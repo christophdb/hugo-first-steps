@@ -5,7 +5,12 @@ lastmod: '2023-09-14'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/help/formelbeispiel-einfache-multiplikation-mit-einer-formel'
+url: '/help/formula-example-simple-multiplication'
+aliases:
+    - '/help/formelbeispiel-einfache-multiplikation-mit-einer-formel'
+seo:
+    title: 'Formula example: simple multiplication in SeaTable'
+    description: 'Learn to multiply values using formulas in SeaTable – with column references, operators, or the multiply() function.'
 ---
 
 SeaTable formulas offer you several ways to work with the data in your tables. One of them is **multiplication**. With the help of an appropriate formula you can multiply individual values in the columns of your tables with each other.

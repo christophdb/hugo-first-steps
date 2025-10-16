@@ -5,7 +5,12 @@ lastmod: '2023-07-04'
 categories:
     - 'seitendesign-plugin'
 author: 'vge'
-url: '/fr/aide/anleitung-zum-seitendesign-plugin'
+url: '/fr/aide/guide-plugin-conception-de-pages'
+aliases:
+    - '/fr/aide/anleitung-zum-seitendesign-plugin'
+seo:
+    title: 'Guide du plugin de conception de pages – PDF et modèles'
+    description: 'Découvrez comment concevoir des courriers, cartes ou documents dans SeaTable et les exporter en PDF ou pour impression.'
 ---
 
 Le **plug-in de conception de pages** vous offre une multitude de possibilités pour visualiser les informations d'un tableau, entre autres sous la forme de lettres d'accompagnement personnalisées, de cartes de visite et de lettres circulaires. Vous pouvez créer des mises en page à l'aide d'**éléments statiques**, complétés par des **éléments dynamiques** et **des champs de tableau**.

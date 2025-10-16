@@ -6,6 +6,9 @@ categories:
     - 'formeln'
 author: 'ssc'
 url: '/de/hilfe/unterschiede-zwischen-formeln-in-excel-und-seatable'
+seo:
+    title: 'Unterschiede zwischen Formeln in Excel & SeaTable'
+    description: 'Entdecken Sie die wichtigsten Unterschiede zwischen Excel-Formeln und SeaTable: Zellen‑ vs. Spalten‑Logik, Verweise und Tipps für Umsteiger.'
 ---
 
 Sind Sie ein Excel-Benutzer, der mit dem Schreiben von Formeln vertraut ist und gerade erst mit SeaTable loslegt? Dann ist dieser Artikel genau das Richtige für Sie! Obwohl die Prinzipien der Formelfunktionen in SeaTable ähnlich sind, gibt es einige wichtige Unterschiede, die Sie zu Beginn lernen müssen und die sich auszahlen werden, wenn Sie ein Experte für SeaTable-Formeln werden möchten.

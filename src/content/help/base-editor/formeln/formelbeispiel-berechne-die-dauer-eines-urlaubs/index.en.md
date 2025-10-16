@@ -5,7 +5,12 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/help/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+url: '/help/formula-example-calculate-vacation-duration'
+aliases:
+    - '/help/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+seo:
+    title: 'Formula example: calculate vacation duration in SeaTable'
+    description: 'Learn to use the dateDif formula in SeaTable to automatically calculate vacation length between start and end dates in days.'
 ---
 
 SeaTable formulas offer you several ways to work with the data in your tables. For example, formulas can be used to automatically determine the **time between two dates**. By entering a corresponding formula, you can thus calculate the duration of a vacation, among other things, and add it to a formula column of your table.

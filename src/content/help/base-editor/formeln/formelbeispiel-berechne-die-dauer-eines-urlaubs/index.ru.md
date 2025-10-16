@@ -5,7 +5,12 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+url: '/ru/pomoshch/primer-formuly-rasschitat-dlitelnosť-otpuska'
+aliases:
+    - '/ru/pomoshch/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+seo:
+    title: 'Пример формулы: рассчитать длительность отпуска в SeaTable'
+    description: 'Узнайте, как с помощью формулы dateDif в SeaTable вычислить продолжительность отпуска между датами начала и окончания.'
 ---
 
 Формулы SeaTable предлагают различные способы работы с данными в таблицах. Например, формулы могут использоваться для автоматического определения **времени между двумя датами**. Введя соответствующую формулу, можно, в частности, рассчитать продолжительность отпуска и добавить ее в столбец формулы в таблице.

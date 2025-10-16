@@ -6,6 +6,9 @@ categories:
     - 'formeln'
 author: 'nsc2'
 url: '/de/hilfe/formelbeispiel-einfache-multiplikation-mit-einer-formel'
+seo:
+    title: 'Einfache Multiplikation in SeaTable mit Formel'
+    description: 'Lernen Sie, wie Sie Werte in SeaTable multiplizieren – mit einer Formelspalte, Operatoren oder der Funktion multiply() inklusive Beispiele.'
 ---
 
 SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine davon ist die **Multiplikation**. Mithilfe einer entsprechenden Formel können Sie einzelne Werte in den Spalten Ihrer Tabellen miteinander multiplizieren.

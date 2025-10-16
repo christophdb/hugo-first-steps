@@ -5,7 +5,12 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/es/ayuda/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+url: '/es/ayuda/ejemplo-formula-calcular-duracion-vacaciones'
+aliases:
+    - '/es/ayuda/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+seo:
+    title: 'Ejemplo de fórmula: calcular duración de vacaciones'
+    description: 'Aprende a usar la función dateDif en SeaTable para calcular automáticamente la duración de un viaje entre fechas de inicio y fin.'
 ---
 
 Las fórmulas de SeaTable le ofrecen diferentes maneras de trabajar con los datos de sus tablas. Por ejemplo, las fórmulas pueden utilizarse para determinar automáticamente el **tiempo entre dos fechas**. Introduciendo la fórmula correspondiente podrá, entre otras cosas, calcular la duración de unas vacaciones y añadirla a una columna de fórmulas de su tabla.

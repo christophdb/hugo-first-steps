@@ -5,7 +5,12 @@ lastmod: '2023-07-04'
 categories:
     - 'plugin-de-diseño-de-páginas'
 author: 'vge'
-url: '/es/ayuda/anleitung-zum-seitendesign-plugin'
+url: '/es/ayuda/guia-plugin-diseno-de-paginas'
+aliases:
+   - '/es/ayuda/anleitung-zum-seitendesign-plugin'
+seo:
+    title: 'Guía del plugin de diseño de páginas – PDF y plantillas'
+    description: 'Aprende a usar el plugin de diseño de páginas de SeaTable para crear cartas, informes o tarjetas y exportarlas en PDF o imprimirlas.'
 ---
 
 El **plugin de diseño de páginas** le ofrece una gran variedad de posibilidades para visualizar la información de una tabla en forma de cartas personalizadas, tarjetas de visita y circulares. Mediante **elementos estáticos** puede crear diseños de página que se complementan con **elementos dinámicos** y **campos de tabla**.

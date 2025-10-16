@@ -6,6 +6,9 @@ categories:
     - 'formeln'
 author: 'nsc2'
 url: '/de/hilfe/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+seo:
+    title: 'Formel: Dauer eines Urlaubs berechnen in SeaTable'
+    description: 'Lernen Sie, wie Sie mit der SeaTable‑Formel dateDif die Dauer zwischen An‑ und Abreisedatum automatisch in Tagen berechnen.'
 ---
 
 SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Beispielsweise kann mithilfe von Formeln die **Zeit zwischen zwei Daten** automatisch ermittelt werden. Durch die Eingabe einer entsprechenden Formel können Sie sich so unter anderem die Dauer eines Urlaubs berechnen lassen und diese in einer Formel-Spalte Ihrer Tabelle hinzufügen.
