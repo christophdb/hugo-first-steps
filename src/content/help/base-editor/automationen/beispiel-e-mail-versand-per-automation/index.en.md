@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/e-mail-versand-per-automation'
+url: '/help/send-emails-by-automation'
+aliases:
+    - '/help/e-mail-versand-per-automation'
+seo:
+    title: 'Send emails automatically in SeaTable – automation guide'
+    description: 'Learn to send automatic SeaTable emails with triggers, conditions and third‑party email accounts via built‑in automation workflows.'
 ---
 
 With the help of automations, you no longer have to send e-mails manually to selected users, but can have them sent automatically. Simply define a corresponding automation for any table view.

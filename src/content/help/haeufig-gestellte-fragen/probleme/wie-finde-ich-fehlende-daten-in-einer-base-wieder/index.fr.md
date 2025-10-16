@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+url: '/fr/aide/retrouver-donnees-manquantes-dans-une-base'
+aliases:
+    - '/fr/aide/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+seo:
+    title: 'Retrouver des données manquantes dans SeaTable – guide'
+    description: 'Découvrez comment restaurer vos données supprimées dans SeaTable : filtres, corbeille, journaux d’activité et instantanés.'
 ---
 
 Vous ne savez pas pourquoi des données manquent dans une base et vous soupçonnez qu'elles ont été égarées ? Ne vous inquiétez pas. Dans SeaTable, il existe plusieurs façons de récupérer les données supprimées.

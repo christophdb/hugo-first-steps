@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/pt/ajuda/e-mail-versand-per-automation'
+url: '/pt/ajuda/enviar-emails-automaticos-por-automacao'
+aliases:
+    - '/pt/ajuda/e-mail-versand-per-automation'
+seo:
+    title: 'Enviar e‑mails automáticos no SeaTable – guia prático'
+    description: 'Saiba como automatizar o envio de e‑mails no SeaTable usando gatilhos, regras e contas de e‑mail externas via SMTP.'
 ---
 
 Com a ajuda de automatizações, já não tem de enviar e-mails manualmente a utilizadores seleccionados, mas pode mandar enviá-los automaticamente. Basta definir uma automatização correspondente para qualquer visualização de tabela.

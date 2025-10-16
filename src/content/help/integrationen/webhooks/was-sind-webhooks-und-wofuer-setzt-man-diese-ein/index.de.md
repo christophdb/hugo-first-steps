@@ -6,6 +6,9 @@ categories:
     - 'webhooks'
 author: 'cdb'
 url: '/de/hilfe/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+seo:
+    title: 'Was sind Webhooks? Funktion & Anwendung erklärt'
+    description: 'Lernen Sie, wie Webhooks in SeaTable funktionieren: automatische Benachrichtigungen, Integration externer Systeme und reale Einsatzbeispiele.'
 ---
 
 {{< required-version "Free" "Plus" "Enterprise" >}}

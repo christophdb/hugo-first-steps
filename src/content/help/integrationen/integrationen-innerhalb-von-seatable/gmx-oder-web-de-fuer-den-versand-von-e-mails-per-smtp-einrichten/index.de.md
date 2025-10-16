@@ -6,6 +6,9 @@ categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'cdb'
 url: '/de/hilfe/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+seo:
+    title: 'GMX & WEB.DE E-Mail Versand per SMTP in SeaTable einrichten'
+    description: 'Anleitung zur Einrichtung von GMX oder WEB.DE E-Mail-Konten in SeaTable für sicheren Versand via SMTP mit allen nötigen Einstellungen.'
 ---
 
 Die E-Mail-Dienste GMX und WEB.DE erfreuen sich im deutschsprachigen Raum großer Beliebtheit. Sie können GMX und WEB.DE Konten verwenden, um E-Mails aus einer SeaTable Bases heraus zu versenden.

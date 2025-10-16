@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/pt/ajuda/struktur-der-webhook-daten'
+url: '/pt/ajuda/estrutura-dos-dados-do-webhook'
+aliases:
+  - '/pt/ajuda/struktur-der-webhook-daten'
+seo:
+    title: 'Estrutura dos dados do webhook SeaTable – guia e exemplos'
+    description: 'Saiba como funciona o formato JSON dos webhooks no SeaTable – campos, eventos de acionamento e exemplos ilustrativos.'
 ---
 
 Um gancho da SeaTable tem uma estrutura claramente definida. Isto permite que o evento seja facilmente processado por qualquer linguagem de programação. Este artigo apresenta a estrutura geral e os valores possíveis.

@@ -6,6 +6,9 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
 url: '/de/hilfe/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+seo:
+    title: 'Fehlende Daten in SeaTable finden & wiederherstellen'
+    description: 'Erfahren Sie, wie Sie fehlende oder gelöschte Daten in SeaTable wiederherstellen: Papierkorb, Base‑Log, Snapshots und Filtertipps.'
 ---
 
 Sie wissen nicht, wieso Daten in einer Base fehlen, und vermuten, dass sie abhandengekommen sind? Keine Sorge. In SeaTable gibt es diverse Möglichkeiten, gelöschte Daten wiederherzustellen.

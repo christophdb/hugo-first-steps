@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/fr/aide/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+url: '/fr/aide/quest-ce-quun-webhook-et-comment-lutiliser'
+aliases:
+    - '/fr/aide/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+seo:
+    title: 'Qu’est‑ce qu’un webhook ? Définition et utilisation'
+    description: 'Découvrez le rôle des webhooks : transférez des événements en temps réel, reliez SeaTable à d’autres applis et automatisez vos tâches.'
 ---
 
 {{< required-version "Gratuit" "Plus" "Entreprise" >}}

@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/pt/ajuda/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+url: '/pt/ajuda/encontrar-dados-perdidos-em-uma-base'
+aliases:
+    - '/pt/ajuda/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+seo:
+    title: 'Encontrar dados perdidos no SeaTable – restauração fácil'
+    description: 'Veja como recuperar dados perdidos ou ocultos no SeaTable usando filtros, registros, snapshots ou a lixeira de forma rápida e segura.'
 ---
 
 Não sabe porque é que faltam dados numa base e suspeita de que os mesmos desapareceram? Não se preocupe. No SeaTable há várias formas de recuperar dados apagados.
