@@ -16,7 +16,6 @@ categories:
 color: '#29a4a1'
 register:
    show: true
-draft: true
 ---
 
 ## What is the Net Promoter Score?
