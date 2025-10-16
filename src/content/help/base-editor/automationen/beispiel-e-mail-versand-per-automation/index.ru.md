@@ -5,7 +5,12 @@ lastmod: '2023-03-03'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/e-mail-versand-per-automation'
+url: '/ru/pomoshch/avtomaticheskaya-otpravka-email-v-seatable'
+aliases:
+    - '/ru/pomoshch/e-mail-versand-per-automation'
+seo:
+    title: 'Автоматическая отправка писем в SeaTable – инструкция'
+    description: 'Настройте автоматическую отправку писем в SeaTable с помощью триггеров, правил и подключённых почтовых аккаунтов SMTP.'
 ---
 
 С помощью автоматизаций вам больше не придется вручную отправлять электронные письма выбранным пользователям, а можно сделать так, чтобы они отправлялись автоматически. Просто определите соответствующую автоматизацию для любого табличного представления.

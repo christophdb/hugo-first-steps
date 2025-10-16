@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+url: '/ru/pomoshch/nayti-poteryannye-dannye-v-baze'
+aliases:
+    - '/ru/pomoshch/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+seo:
+    title: 'Найти потерянные данные в SeaTable – восстановление'
+    description: 'Узнайте, как восстановить удалённые или скрытые данные в SeaTable с помощью фильтров, журнала действий, снимков и корзины.'
 ---
 
 Вы не знаете, почему пропали данные из базы, и подозреваете, что они пропали? Не волнуйтесь. В SeaTable существуют различные способы восстановления удаленных данных.

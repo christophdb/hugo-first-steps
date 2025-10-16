@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/help/struktur-der-webhook-daten'
+url: '/help/webhook-data-structure'
+aliases:
+  - '/help/struktur-der-webhook-daten'
+seo:
+    title: 'Webhook data structure in SeaTable – format & examples'
+    description: 'Understand SeaTable’s webhook JSON format: full data schema, sample payloads and trigger events like insert_row or modify_row.'
 ---
 
 A webhook from SeaTable has a uniquely defined structure. This allows easy processing of the event by any programming language. This article presents the general structure and the possible values.

@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/pomoshch/struktur-der-webhook-daten'
+url: '/ru/pomoshch/struktura-dannykh-webhook-seatable'
+aliases:
+  - '/ru/pomoshch/struktur-der-webhook-daten'
+seo:
+    title: 'Структура данных вебхука SeaTable – примеры и описание'
+    description: 'Узнайте, как устроен вебхук SeaTable: JSON‑поля, примеры событий и типы операций — insert_row, modify_row, delete_row.'
 ---
 
 Вебхук от SeaTable имеет четко определенную структуру. Это позволяет легко обрабатывать событие любым языком программирования. В этой статье представлена общая структура и возможные значения.

@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/es/ayuda/struktur-der-webhook-daten'
+url: '/es/ayuda/estructura-de-datos-del-webhook'
+aliases:
+  - '/es/ayuda/struktur-der-webhook-daten'
+seo:
+    title: 'Estructura de los datos del webhook en SeaTable – ejemplos'
+    description: 'Aprende cómo SeaTable envía webhooks con formato JSON: campos, eventos de activación y ejemplos de inserción, edición o eliminación.'
 ---
 
 Un webhook de SeaTable tiene una estructura claramente definida. Esto permite que el evento sea procesado fácilmente por cualquier lenguaje de programación. Este artículo presenta la estructura general y los valores posibles.

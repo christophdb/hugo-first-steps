@@ -6,6 +6,9 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/e-mail-versand-per-automation'
+seo:
+    title: 'E‑Mail‑Versand per Automation in SeaTable – Anleitung'
+    description: 'Lernen Sie, wie Sie automatische E‑Mails in SeaTable versenden – mit Triggern, Regeln und Integration externer E‑Mail‑Konten via SMTP.'
 ---
 
 Mithilfe von Automationen müssen Sie E-Mails nicht mehr manuell an ausgewählte Benutzer versenden, sondern können diese automatisch verschicken lassen. Definieren Sie hierfür einfach eine entsprechende Automation für eine beliebige Tabellenansicht.

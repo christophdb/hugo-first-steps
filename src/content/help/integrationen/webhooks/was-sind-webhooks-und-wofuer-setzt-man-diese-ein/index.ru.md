@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/pomoshch/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+url: '/ru/pomoshch/chto-takoe-webhook-i-kak-ego-ispolzovat'
+aliases:
+    - '/ru/pomoshch/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+seo:
+    title: 'Что такое вебхуки в SeaTable – объяснение и примеры'
+    description: 'Узнайте, как работают вебхуки SeaTable – автоматические уведомления, интеграция приложений и примеры применения на практике.'
 ---
 
 {{< required-version "Бесплатно" "Плюс" "Предприятие" >}}

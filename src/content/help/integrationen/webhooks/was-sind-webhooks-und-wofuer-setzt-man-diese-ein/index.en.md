@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/help/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+url: '/help/what-are-webhooks-and-how-to-use-them'
+aliases:
+    - '/help/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+seo:
+    title: 'What are webhooks? Definition, purpose & examples'
+    description: 'Understand how SeaTable webhooks work: instantly send data changes, automate workflows, and connect external applications easily.'
 ---
 
 {{< required-version "Free" "Plus" "Enterprise" >}}

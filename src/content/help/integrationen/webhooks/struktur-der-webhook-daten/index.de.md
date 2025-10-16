@@ -6,6 +6,9 @@ categories:
     - 'webhooks'
 author: 'cdb'
 url: '/de/hilfe/struktur-der-webhook-daten'
+seo:
+    title: 'Struktur der Webhook‑Daten in SeaTable – Erklärung & Beispiele'
+    description: 'So ist ein SeaTable‑Webhook aufgebaut: Alle JSON‑Felder, Beispiel‑Events und typische Werte für insert_row, modify_row und delete_row erklärt.'
 ---
 
 Ein Webhook aus SeaTable hat eine eindeutig festgelegte Struktur. Dies ermöglicht die einfache Verarbeitung des Ereignisses durch eine beliebige Programmiersprache. Diese Artikel stellt die allgemeine Struktur und die möglichen Werte vor.

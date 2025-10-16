@@ -5,7 +5,12 @@ lastmod: '2025-02-14'
 categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'cdb'
-url: '/ru/pomoshch/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+url: '/ru/pomoshch/nastroyka-gmx-ili-web-de-dlya-smtp-otpravki'
+aliases:
+    - '/ru/pomoshch/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+seo:
+    title: 'Настройка GMX или WEB.DE для SMTP отправки почты'
+    description: 'Подробная инструкция по настройке почтовых аккаунтов GMX и WEB.DE в SeaTable для безопасной отправки писем через SMTP.'
 ---
 
 Почтовые сервисы GMX и WEB.DE очень популярны в немецкоговорящих странах. Вы можете использовать учетные записи GMX и WEB.DE для отправки электронных писем с базы SeaTable.

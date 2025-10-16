@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+url: '/help/find-missing-data-in-a-base'
+aliases:
+    - '/help/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
+seo:
+    title: 'Find missing data in SeaTable – recovery made easy'
+    description: 'Learn how to restore lost or hidden data in your SeaTable base using filters, recycle bin, logs, or snapshots in just a few clicks.'
 ---
 
 You don't know why data is missing from a base and suspect that it has been lost? Don't worry. In SeaTable there are several ways to recover deleted data.

@@ -5,7 +5,12 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/pt/ajuda/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+url: '/pt/ajuda/o-que-sao-webhooks-e-como-usar'
+aliases:
+    - '/pt/ajuda/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+seo:
+    title: 'O que são webhooks – guia completo e aplicações'
+    description: 'Entenda o que são webhooks no SeaTable: notificações automáticas, conexões com outros softwares e automação de processos.'
 ---
 
 {{< required-version "Grátis" "Mais" "Empresa" >}}
