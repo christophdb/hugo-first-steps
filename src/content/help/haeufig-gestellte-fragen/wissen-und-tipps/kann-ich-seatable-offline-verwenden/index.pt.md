@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/pt/ajuda/kann-ich-seatable-offline-verwenden'
+url: '/pt/ajuda/usar-seatable-offline'
+aliases:
+    - '/pt/ajuda/kann-ich-seatable-offline-verwenden'
+seo:
+    title: 'Usar o SeaTable offline – guia e alternativas'
+    description: 'Veja como usar o SeaTable sem internet: exportar dados para acesso offline ou instalar o servidor próprio em rede local.'
 ---
 
 O **SeaTable Cloud** é um serviço a que acede através da Internet. O acesso sem uma ligação à Internet não é possível.

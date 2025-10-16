@@ -6,6 +6,9 @@ categories:
     - 'seatable-api'
 author: 'cdb'
 url: '/de/hilfe/bearbeiten-und-loeschen-eines-existierenden-api-token'
+seo:
+    title: 'API‑Token in SeaTable bearbeiten oder löschen – Anleitung'
+    description: 'So verwalten Sie API‑Token in SeaTable: Zugriffsrechte ändern, Token löschen oder als Admin über die Teamverwaltung zentral steuern.'
 ---
 
 SeaTable erlaubt es beliebig viele API-Token für eine Base zu erzeugen. Deshalb empfiehlt es sich für jede Schnittstelle, jede App oder jede Entwicklung einen eigenen Token zu erzeugen. Diese Token können jederzeit gelöscht oder deren Berechtigung verändert werden.

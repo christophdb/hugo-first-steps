@@ -6,6 +6,9 @@ categories:
     - 'verknuepfungen'
 author: 'vge'
 url: '/de/hilfe/die-findmin-formel'
+seo:
+    title: 'Findmin‑Formel in SeaTable – kleinsten Wert ermitteln'
+    description: 'Mit der Findmin‑Formel finden Sie den Minimalwert aus verknüpften Einträgen. Ideal für Analysen über mehrere Tabellen und numerische Werte.'
 ---
 
 Die **Findmin-Formel** sucht unter den Einträgen einer verknüpften Spalte den **Minimalwert** und gibt diesen wieder. Dies ist nützlich, wenn es in der verknüpften Tabelle **mehrere Einträge** gibt, die sich auf denselben Datensatz (z. B. einer Person) in einer anderen Tabelle beziehen.

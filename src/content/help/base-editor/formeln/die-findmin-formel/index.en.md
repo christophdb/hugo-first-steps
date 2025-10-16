@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/help/die-findmin-formel'
+url: '/help/findmin-formula'
+aliases:
+    - '/help/die-findmin-formel'
+seo:
+    title: 'Findmin formula in SeaTable – find the smallest value'
+    description: 'Use the Findmin formula to get the minimum numeric value from linked records in SeaTable. Perfect for cross‑table data analysis.'
 ---
 
 The **Findmin formula** searches among the entries of a linked column for the **minimum value** and returns it. This is useful if there are **several entries** in the linked table that refer to the same record (e.g. of a person) in another table.

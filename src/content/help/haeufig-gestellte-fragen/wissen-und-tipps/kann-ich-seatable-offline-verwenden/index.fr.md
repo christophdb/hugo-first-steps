@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/fr/aide/kann-ich-seatable-offline-verwenden'
+url: '/fr/aide/utiliser-seatable-hors-ligne'
+aliases:
+    - '/fr/aide/kann-ich-seatable-offline-verwenden'
+seo:
+    title: 'Utiliser SeaTable hors ligne – toutes les options'
+    description: 'Découvrez comment utiliser SeaTable sans connexion : exportation de données, hébergement en local ou serveur interne sécurisé.'
 ---
 
 **SeaTable Cloud** est un service auquel vous accédez via Internet. Il n'est pas possible d'y accéder sans connexion Internet.

@@ -5,7 +5,12 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/pomoshch/benachrichtigungsregel-erstellen'
+url: '/ru/pomoshch/sozdat-pravilo-uvedomleniy'
+aliases:
+    - '/ru/pomoshch/benachrichtigungsregel-erstellen'
+seo:
+    title: 'Создать правило уведомлений – автоматические оповещения'
+    description: 'Узнайте, как создавать правила уведомлений в SeaTable для автоматической отправки сообщений при заданных условиях и событиях.'
 ---
 
 С помощью **правил уведомлений** вы можете автоматически отправлять уведомления выбранным пользователям, как только в одной из ваших таблиц произойдет заранее определенное **триггерное событие**. Таким образом, правила уведомлений в принципе сравнимы с [автоматизациями]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), но в отличие от них они доступны уже при бесплатной подписке.

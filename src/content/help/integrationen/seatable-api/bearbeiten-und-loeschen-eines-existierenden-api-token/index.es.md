@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/es/ayuda/bearbeiten-und-loeschen-eines-existierenden-api-token'
+url: '/es/editar-o-eliminar-token-api-existente'
+aliases:
+    - '/es/ayuda/bearbeiten-und-loeschen-eines-existierenden-api-token'
+seo:
+    title: 'Editar o eliminar un token API en SeaTable – tutorial'
+    description: 'Aprende a gestionar tokens API en SeaTable: modifica permisos, elimínalos o contrólalos desde la administración del equipo.'
 ---
 
 SeaTable permite generar cualquier número de tokens API para una base. Por lo tanto, es aconsejable crear un token distinto para cada interfaz, cada aplicación o cada desarrollo. Estos tokens se pueden eliminar o modificar su autorización en cualquier momento.
