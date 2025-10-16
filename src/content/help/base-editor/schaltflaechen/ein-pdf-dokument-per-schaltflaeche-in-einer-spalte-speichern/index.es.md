@@ -5,7 +5,12 @@ lastmod: '2023-05-04'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/es/ayuda/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+url: '/es/ayuda/guardar-pdf-en-columna-por-boton'
+aliases:
+    - '/es/ayuda/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+seo:
+    title: 'Guardar PDF en columna con botón – tutorial SeaTable'
+    description: 'Descubre cómo guardar PDF automáticamente en una columna de archivo usando un botón en SeaTable, con lógica condicional para idiomas.'
 ---
 
 Con la ayuda de un **botón** puedes guardar documentos PDF en columnas de archivos. El requisito previo para ello es la configuración del **complemento de diseño de página** a través de las opciones básicas.

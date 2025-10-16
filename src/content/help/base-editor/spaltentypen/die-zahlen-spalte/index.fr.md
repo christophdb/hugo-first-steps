@@ -5,7 +5,12 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/fr/aide/die-zahlen-spalte'
+url: '/fr/aide/colonne-numerique'
+aliases:
+    - '/fr/aide/die-zahlen-spalte'
+seo:
+    title: 'Colonne numérique SeaTable – formats et paramétrages'
+    description: 'Gérez chiffres, montants ou pourcentages dans SeaTable. Paramétrez vos colonnes numériques et facilitez l’analyse de vos données.'
 ---
 
 Dans SeaTable, vous pouvez utiliser la **colonne des nombres** de manière polyvalente pour travailler avec des nombres de toutes sortes (par exemple, le nombre d'objets, pourcentages ou prix dans différentes devises).

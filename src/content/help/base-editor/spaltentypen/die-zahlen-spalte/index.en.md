@@ -5,7 +5,12 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/help/die-zahlen-spalte'
+url: '/help/number-column'
+aliases:
+    - '/help/die-zahlen-spalte'
+seo:
+    title: 'Number column in SeaTable – formats, settings & tips'
+    description: 'Easily track, format and validate numbers, percentages, and currencies in SeaTable. Everything about number columns at a glance.'
 ---
 
 In SeaTable you can use the **Number column** in many ways to work with numbers of any kind (e.g. number of items, percentages, or prices in different currencies).

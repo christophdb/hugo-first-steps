@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/ein-teammitglied-zum-administrator-machen'
+url: '/fr/aide/nommer-membre-administrateur'
+aliases:
+    - '/fr/aide/ein-teammitglied-zum-administrator-machen'
+seo:
+    title: 'Nommer un membre administrateur – guide SeaTable'
+    description: 'Apprenez à nommer un membre de l’équipe comme administrateur dans SeaTable et à gérer ses droits via l’administration d’équipe.'
 ---
 
 En tant qu'administrateur d'équipe, vous pouvez ajouter de nouveaux membres à l'équipe et **leur accorder** également **des droits d'administration**.

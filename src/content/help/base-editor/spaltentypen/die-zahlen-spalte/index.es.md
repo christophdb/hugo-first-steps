@@ -5,7 +5,12 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/es/ayuda/die-zahlen-spalte'
+url: '/es/ayuda/columna-numerica'
+aliases:
+    - '/es/ayuda/die-zahlen-spalte'
+seo:
+    title: 'Columna numérica en SeaTable – formatos y opciones'
+    description: 'Aprende a usar columnas numéricas en SeaTable para sumas, porcentajes y monedas. Ajustes, validación y consejos prácticos.'
 ---
 
 En SeaTable puede utilizar la **columna numérica** de muchas formas para trabajar con números de cualquier tipo (por ejemplo, número de artículos, porcentajes o precios en distintas monedas).

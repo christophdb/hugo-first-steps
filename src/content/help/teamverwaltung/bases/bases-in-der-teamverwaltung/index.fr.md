@@ -5,7 +5,12 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/bases-in-der-teamverwaltung'
+url: '/fr/aide/bases-dans-administration-equipe'
+aliases:
+    - '/fr/aide/bases-in-der-teamverwaltung'
+seo:
+    title: 'Bases dans l’administration d’équipe – gestion complète'
+    description: 'Apprenez à gérer toutes les bases comme admin : afficher infos, droits, partages, liens, corbeille et restaurer ou supprimer en équipe.'
 ---
 
 Si vous êtes **administrateur d'équipe**, vous avez accès à toutes les bases de votre équipe via l'**administration d'équipe**. Vous pouvez accéder à la vue détaillée de chaque base, voir les partages et les liens des bases ou supprimer des bases.

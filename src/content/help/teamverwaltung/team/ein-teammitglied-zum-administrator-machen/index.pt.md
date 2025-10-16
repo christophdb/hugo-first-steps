@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/ein-teammitglied-zum-administrator-machen'
+url: '/pt/ajuda/tornar-membro-da-equipe-administrador'
+aliases:
+    - '/pt/ajuda/ein-teammitglied-zum-administrator-machen'
+seo:
+    title: 'Tornar membro da equipe administrador – guia'
+    description: 'Veja como tornar um membro administrador no SeaTable, conceder permissões e gerenciar todo o controle pela administração de equipe.'
 ---
 
 Como administrador da equipa, pode adicionar novos membros à equipa e também **conceder** a estes membros **direitos de administração**.

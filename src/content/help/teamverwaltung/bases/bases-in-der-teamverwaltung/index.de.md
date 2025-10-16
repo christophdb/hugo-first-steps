@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/bases-in-der-teamverwaltung'
+seo:
+    title: 'Bases in der Teamverwaltung – Übersicht & Admin-Optionen'
+    description: 'Lernen Sie, wie Team-Admins alle Bases verwalten: Details einsehen, Freigaben prüfen, Links, Papierkorb und Zugriffsrechte steuern.'
 ---
 
 Wenn Sie **Team-Administrator** sind, haben Sie über die **Teamverwaltung** Zugriff auf alle Bases in Ihrem Team. Sie können die Detailansicht der einzelnen Bases aufrufen, Freigaben und Links der Bases einsehen oder Bases löschen.

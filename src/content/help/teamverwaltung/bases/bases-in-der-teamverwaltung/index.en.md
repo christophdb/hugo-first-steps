@@ -5,7 +5,12 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/bases-in-der-teamverwaltung'
+url: '/help/bases-in-team-administration'
+aliases:
+    - '/help/bases-in-der-teamverwaltung'
+seo:
+    title: 'Bases in team administration – overview & permissions'
+    description: 'See how team admins manage all bases: view details, access rights, shares, exported links and restore or delete bases in seconds.'
 ---
 
 If you are a **team administrator**, you can access all the bases in your team through the **team administration**. You can view the details of each base, see base shares and links, or delete bases.

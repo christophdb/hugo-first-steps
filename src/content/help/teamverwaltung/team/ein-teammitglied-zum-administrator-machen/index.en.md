@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/ein-teammitglied-zum-administrator-machen'
+url: '/help/make-team-member-admin'
+aliases:
+    - '/help/ein-teammitglied-zum-administrator-machen'
+seo:
+    title: 'Make a team member admin – guide & permissions'
+    description: 'Learn how to assign admin rights to a team member in SeaTable, manage permissions and configure all team administrator options.'
 ---
 
 As a team administrator, you can add new members to the team and **give** these members **administration rights** as well.

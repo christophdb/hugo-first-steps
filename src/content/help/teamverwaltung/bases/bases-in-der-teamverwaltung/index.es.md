@@ -5,7 +5,12 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/bases-in-der-teamverwaltung'
+url: '/es/ayuda/bases-en-la-administracion-de-equipo'
+aliases:
+    - '/es/ayuda/bases-in-der-teamverwaltung'
+seo:
+    title: 'Bases en la administración de equipos – resumen y gestión'
+    description: 'Descubre cómo los administradores gestionan todas las bases: detalles, derechos, enlaces, papelera y restauración en el equipo.'
 ---
 
 Si eres **administrador de un** equipo, tienes acceso a todas las bases de tu equipo a través de la **administración** del equipo. Puede acceder a la vista detallada de las bases individuales, ver las participaciones y enlaces de las bases o eliminar bases.

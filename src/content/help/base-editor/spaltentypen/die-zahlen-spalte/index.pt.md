@@ -5,7 +5,12 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/pt/ajuda/die-zahlen-spalte'
+url: '/pt/ajuda/coluna-de-numeros'
+aliases:
+    - '/pt/ajuda/die-zahlen-spalte'
+seo:
+    title: 'Coluna de números SeaTable – opções e validação'
+    description: 'Use a coluna de números no SeaTable para somas, moedas, validação de valores e configurações personalizadas. Guia para iniciantes.'
 ---
 
 No SeaTable pode utilizar a **coluna de números** de muitas maneiras para trabalhar com números de qualquer tipo (por exemplo, número de artigos, percentagens, ou preços em diferentes moedas).

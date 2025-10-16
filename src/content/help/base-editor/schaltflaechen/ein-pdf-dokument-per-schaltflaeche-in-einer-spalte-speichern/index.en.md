@@ -5,7 +5,12 @@ lastmod: '2023-05-04'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/help/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+url: '/help/save-pdf-to-file-column-via-button'
+aliases:
+    - '/help/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+seo:
+    title: 'Save PDF to file column via button – SeaTable how-to'
+    description: 'Learn how to store PDFs in file columns using a button in SeaTable. Conditional actions for language-specific templates included.'
 ---
 
 Using a **button** you can save PDF documents in file columns. This requires the **Page Design plugin** to be set up via the base options.

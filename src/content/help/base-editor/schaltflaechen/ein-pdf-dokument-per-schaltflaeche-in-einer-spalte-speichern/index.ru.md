@@ -5,7 +5,12 @@ lastmod: '2023-05-04'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+url: '/ru/pomoshch/sohranit-pdf-v-kolonke-po-knopke'
+aliases:
+    - '/ru/pomoshch/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+seo:
+    title: 'Сохранить PDF в колонке по кнопке – SeaTable инструкция'
+    description: 'Узнайте, как автоматически сохранять PDF-файлы в столбец по кнопке в SeaTable и использовать условия для выбора шаблона по языку.'
 ---
 
 С помощью **кнопки** можно сохранять PDF-документы в колонках файлов. Необходимым условием для этого является настройка **плагина дизайна страниц** через базовые опции.
