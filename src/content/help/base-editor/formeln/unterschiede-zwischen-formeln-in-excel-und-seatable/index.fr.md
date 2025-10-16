@@ -5,7 +5,12 @@ lastmod: '2023-02-03'
 categories:
     - 'formeln'
 author: 'ssc'
-url: '/fr/aide/unterschiede-zwischen-formeln-in-excel-und-seatable'
+url: '/fr/aide/differences-formules-excel-seatable'
+aliases:
+    - '/fr/aide/unterschiede-zwischen-formeln-in-excel-und-seatable'
+seo:
+    title: 'Différences formules Excel & SeaTable – comparaison'
+    description: 'Tout comprendre sur les différences entre pouces Excel et SeaTable : logique de colonne, références et astuces pour une utilisation optimale.'
 ---
 
 Vous êtes un utilisateur d'Excel familier avec l'écriture de formules et vous commencez tout juste à utiliser SeaTable ?  

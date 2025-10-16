@@ -5,7 +5,12 @@ lastmod: '2023-09-18'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/es/ayuda/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
+url: '/es/ayuda/ejemplo-formula-unir-columnas-texto'
+aliases:
+    - '/es/ayuda/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
+seo:
+    title: 'Ejemplo de fórmula: unir columnas de texto en SeaTable'
+    description: 'Aprende a usar fórmulas en SeaTable para fusionar varias columnas de texto en un solo campo, útil para nombres completos y más.'
 ---
 
 Las fórmulas de SeaTable le ofrecen varias formas de trabajar con los datos de sus tablas. Una de ellas es la fusión de contenidos de diferentes [columnas de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). Con la ayuda de una fórmula correspondiente, puede combinar cualquier número de contenidos de diferentes columnas en una columna de fórmula.

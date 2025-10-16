@@ -5,7 +5,12 @@ lastmod: '2023-07-04'
 categories:
     - 'page-design-plugin'
 author: 'vge'
-url: '/help/anleitung-zum-seitendesign-plugin'
+url: '/help/page-design-plugin-guide'
+aliases:
+   - '/help/anleitung-zum-seitendesign-plugin'
+seo:
+    title: 'Page Design Plugin guide – layout, print & PDF export'
+    description: 'Create and customize layouts in SeaTable’s Page Design Plugin to produce letters, cards, or documents for print and PDF export.'
 ---
 
 The **page design plugin** offers you a variety of options for visualizing the information in a table in the form of personalized cover letters, business cards and newsletters, among other things. With the help of **static elements** you can create page layouts that are supplemented by **dynamic elements** and **table fields**.

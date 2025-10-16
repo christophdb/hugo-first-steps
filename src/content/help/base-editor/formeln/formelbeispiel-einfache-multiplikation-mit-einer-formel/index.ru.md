@@ -5,7 +5,12 @@ lastmod: '2023-09-14'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/formelbeispiel-einfache-multiplikation-mit-einer-formel'
+url: '/ru/pomoshch/primer-formuly-prostoe-umnozhenie'
+aliases:
+    - '/ru/pomoshch/formelbeispiel-einfache-multiplikation-mit-einer-formel'
+seo:
+    title: 'Пример формулы: простое умножение в SeaTable'
+    description: 'Узнайте, как выполнять умножение значений в SeaTable — через формулу, оператор или функцию multiply().'
 ---
 
 Формулы SeaTable предлагают несколько способов работы с данными в таблицах. Одним из них является **умножение**. С помощью соответствующей формулы можно перемножать между собой отдельные значения в столбцах таблиц.

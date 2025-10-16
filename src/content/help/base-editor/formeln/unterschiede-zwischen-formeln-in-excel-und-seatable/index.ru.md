@@ -5,7 +5,12 @@ lastmod: '2023-02-03'
 categories:
     - 'formeln'
 author: 'ssc'
-url: '/ru/pomoshch/unterschiede-zwischen-formeln-in-excel-und-seatable'
+url: '/ru/pomoshch/otlichiya-formul-excel-seatable'
+aliases:
+    - '/ru/pomoshch/unterschiede-zwischen-formeln-in-excel-und-seatable'
+seo:
+    title: 'Отличия формул в Excel и SeaTable – наглядно'
+    description: 'Узнайте основные различия между формулами в Excel и SeaTable: ссылки на колонки vs. ячейки, а также полезные советы для перехода.'
 ---
 
 Вы пользователь Excel, который знаком с написанием формул и только начинает работать с SeaTable?  

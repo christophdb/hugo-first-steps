@@ -5,7 +5,12 @@ lastmod: '2023-02-03'
 categories:
     - 'formeln'
 author: 'ssc'
-url: '/help/unterschiede-zwischen-formeln-in-excel-und-seatable'
+url: '/help/excel-vs-seatable-formulas-differences'
+aliases:
+    - '/help/unterschiede-zwischen-formeln-in-excel-und-seatable'
+seo:
+    title: 'Excel vs. SeaTable formulas – what’s different?'
+    description: 'Learn the key differences between Excel and SeaTable formulas: column vs. cell references, tabular logic, and practical tips for experts.'
 ---
 
 Are you an Excel user who is familiar with writing formulas and just getting started with SeaTable?  

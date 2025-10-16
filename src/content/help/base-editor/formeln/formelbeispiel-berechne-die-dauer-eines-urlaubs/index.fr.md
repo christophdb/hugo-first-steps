@@ -5,7 +5,12 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/fr/aide/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+url: '/fr/aide/exemple-formule-calculer-duree-conge'
+aliases:
+    - '/fr/aide/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+seo:
+    title: 'Exemple de formule : calculer la durée d’un congé'
+    description: 'Découvrez comment la formule dateDif dans SeaTable calcule la durée entre les dates d’arrivée et de départ en jours ouvrés.'
 ---
 
 Les formules de SeaTable vous offrent différentes possibilités de travailler avec les données de vos tableaux. Par exemple, les formules peuvent être utilisées pour calculer automatiquement le **temps entre deux dates**. En saisissant une formule correspondante, vous pouvez notamment calculer la durée d'un congé et l'ajouter dans une colonne de formule de votre tableau.
