@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/anlegen-einer-automation'
+url: '/ru/pomoshch/sozdat-avtomatizatsiyu'
+aliases:
+    - '/ru/pomoshch/anlegen-einer-automation'
+seo:
+    title: 'Создать автоматизацию в SeaTable – инструкция'
+    description: 'Как настроить автоматизации в SeaTable: триггеры, действия и условия для эффективных рабочих процессов без ошибок и рутины.'
 ---
 
 {{< required-version "Предприятие" >}}

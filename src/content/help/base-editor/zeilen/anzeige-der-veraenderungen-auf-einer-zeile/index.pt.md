@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/pt/ajuda/anzeige-der-veraenderungen-auf-einer-zeile'
+url: '/pt/ajuda/registro-alteracoes-linha'
+aliases:
+    - '/pt/ajuda/anzeige-der-veraenderungen-auf-einer-zeile'
+seo:
+    title: 'Registro de alterações na linha – veja tudo no SeaTable'
+    description: 'Veja como consultar e rastrear alterações em uma linha no SeaTable — usuário, data, coluna e descrição ficam sempre registradas.'
 ---
 
 SeaTable poupa todas as alterações que são feitas numa base. Dentro de uma linha, o **registo da linha** oferece a possibilidade de rastrear exactamente quando o utilizador efectuou que alteração.

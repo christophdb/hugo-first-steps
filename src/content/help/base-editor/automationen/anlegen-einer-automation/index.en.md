@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/anlegen-einer-automation'
+url: '/help/create-an-automation'
+aliases:
+    - '/help/anlegen-einer-automation'
+seo:
+    title: 'Create an automation in SeaTable – quick setup guide'
+    description: 'Learn to build automations in SeaTable: triggers, actions, advanced logic for error-free and time-saving workflow automation in any base.'
 ---
 
 {{< required-version "Enterprise" >}}

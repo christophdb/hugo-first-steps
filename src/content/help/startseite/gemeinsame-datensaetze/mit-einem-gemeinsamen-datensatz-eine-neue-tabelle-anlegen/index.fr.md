@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+url: '/fr/aide/creer-table-donnees-partagees'
+aliases:
+    - '/fr/aide/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+seo:
+    title: 'Créer une table avec jeu de données commun SeaTable'
+    description: 'Guide pour importer un jeu de données partagé dans SeaTable et générer une nouvelle table synchronisée. Exigences et étapes claires.'
 ---
 
 Pour utiliser un jeu de données commun dans une autre base, vous pouvez importer la vue de tableau correspondant du jeu de données commun dans la base souhaitée. Pour ce faire, créez un nouveau tableau avec le jeu de données correspondant dans la base. Vous pouvez ensuite travailler dans la base sélectionnée avec les données du jeu de données commun ou de la vue de tableau, y compris les conditions de filtrage et de tri spécifiques.

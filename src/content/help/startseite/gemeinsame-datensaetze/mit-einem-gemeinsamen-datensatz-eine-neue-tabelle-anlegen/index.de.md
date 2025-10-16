@@ -6,6 +6,9 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
 url: '/de/hilfe/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+seo:
+    title: 'Neue Tabelle mit gemeinsamem Datensatz anlegen – SeaTable'
+    description: 'Erfahren Sie, wie Sie in SeaTable aus einem freigegebenen, gemeinsamen Datensatz schnell eine neue, verknüpfte Tabelle mit Synchronisation erstellen.'
 ---
 
 Um einen gemeinsamen Datensatz in einer anderen Base zu verwenden, können Sie die entsprechende Tabellenansicht des gemeinsamen Datensatzes in die gewünschte Base importieren. Hierfür legen Sie in der Base eine neue Tabelle mit dem entsprechenden Datensatz an. Mit den Daten des gemeinsamen Datensatzes bzw. der Tabellenansicht samt spezifischer Filter- und Sortierbedingungen können Sie anschließend auch in der ausgewählten Base arbeiten.

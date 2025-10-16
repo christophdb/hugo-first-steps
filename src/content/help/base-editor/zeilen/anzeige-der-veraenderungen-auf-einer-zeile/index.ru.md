@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/pomoshch/anzeige-der-veraenderungen-auf-einer-zeile'
+url: '/ru/pomoshch/zhurnal-izmeneniy-stroki'
+aliases:
+    - '/ru/pomoshch/anzeige-der-veraenderungen-auf-einer-zeile'
+seo:
+    title: 'Журнал изменений строки в SeaTable – все правки'
+    description: 'Узнайте, как посмотреть подробный журнал изменений строки в SeaTable: кто, когда и какую колонку изменил, с описанием правки.'
 ---
 
 SeaTable сохраняет все изменения, внесенные в базу. Внутри строки **журнал строк** дает возможность проследить, когда именно какой пользователь внес то или иное изменение.

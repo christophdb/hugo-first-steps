@@ -5,7 +5,12 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/pt/ajuda/der-spaltentyp-automatische-nummer'
+url: '/pt/ajuda/coluna-numero-automatico'
+aliases:
+    - '/pt/ajuda/der-spaltentyp-automatische-nummer'
+seo:
+    title: 'Coluna número automático SeaTable – guia completo'
+    description: 'Saiba como numerar registros automaticamente no SeaTable: formatos, reinício de contagem, dicas para evitar falhas ou valores repetidos.'
 ---
 
 O tipo de coluna **Número Automático** gera um número automaticamente crescente para cada nova linha. Este tipo de coluna é utilizado sempre que se necessita de um identificador único para cada registo.

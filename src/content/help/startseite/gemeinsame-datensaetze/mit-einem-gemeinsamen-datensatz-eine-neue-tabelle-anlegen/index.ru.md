@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/pomoshch/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+url: '/ru/pomoshch/sozdat-tablitsu-iz-obshchego-nabora-dannykh'
+aliases:
+    - '/ru/pomoshch/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+seo:
+    title: 'Создать таблицу из общего набора данных – SeaTable'
+    description: 'Узнайте, как создать новую синхронизируемую таблицу в SeaTable по общему набору данных и настраивать доступ и обновления.'
 ---
 
 Чтобы использовать общую запись в другой базе, вы можете импортировать соответствующее табличное представление общей записи в нужную базу. Для этого создайте новую таблицу в базе с соответствующим набором данных. Затем вы можете работать с данными общего набора данных или табличного представления, включая определенные условия фильтрации и сортировки, в выбранной базе.

@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/anlegen-einer-automation'
+url: '/pt/ajuda/criar-automacao'
+aliases:
+    - '/pt/ajuda/anlegen-einer-automation'
+seo:
+    title: 'Criar automação no SeaTable – tutorial prático'
+    description: 'Veja como criar automações no SeaTable – gatilhos, ações e regras para automatizar e facilitar processos na sua base.'
 ---
 
 {{< required-version "Empresa" >}}

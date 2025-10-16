@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/anzeige-der-veraenderungen-auf-einer-zeile'
+url: '/fr/aide/historique-modifications-ligne'
+aliases:
+    - '/fr/aide/anzeige-der-veraenderungen-auf-einer-zeile'
+seo:
+    title: 'Historique des modifications de ligne – SeaTable'
+    description: 'Visualisez précisément toutes les modifications sur une ligne de SeaTable : utilisateur, date, colonne impactée et description.'
 ---
 
 SeaTable enregistre toutes les modifications effectuées dans une base. Au sein d'une ligne, le **journal des lignes** permet de savoir exactement quand quel utilisateur a effectué quelle modification.

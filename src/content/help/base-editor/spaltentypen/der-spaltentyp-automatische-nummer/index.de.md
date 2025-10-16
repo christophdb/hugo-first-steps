@@ -6,6 +6,9 @@ categories:
     - 'text-und-zahlen'
 author: 'ssc'
 url: '/de/hilfe/der-spaltentyp-automatische-nummer'
+seo:
+    title: 'Spaltentyp Automatische Nummer in SeaTable – erklärt'
+    description: 'So nutzen Sie die automatische Nummerierung für eindeutige IDs – Formate, Besonderheiten, Neubeginn und Lücken in der Zählung.'
 ---
 
 Der Spaltentyp **Automatische Nummer** erzeugt eine automatisch ansteigende Nummer für jede neue Zeile. Dieser Spaltentyp kommt immer dann zum Einsatz, wenn Sie für jeden Datensatz eine eindeutige Kennung benötigen.
