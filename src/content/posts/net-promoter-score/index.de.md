@@ -4,7 +4,7 @@ description: 'Der Net Promoter Score (NPS) ist eine weit verbreitete Kennzahl zu
 seo:
     title: 'Net Promoter Score (NPS) verstehen und richtig nutzen'
     description: 'Erfahren Sie in unserem Artikel, wie der Net Promoter Score (NPS) Kundenloyalität misst und richtig eingesetzt wird.'
-date: 2025-10-09
+date: 2025-08-13
 url: '/de/net-promoter-score'
 aliases:
     - '/de/kundenzufriedenheit'
