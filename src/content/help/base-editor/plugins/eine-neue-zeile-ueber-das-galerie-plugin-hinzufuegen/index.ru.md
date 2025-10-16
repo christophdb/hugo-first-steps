@@ -5,7 +5,12 @@ lastmod: '2023-02-03'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+url: '/ru/pomoshch/dobavit-stroku-cherez-plagin-galereya'
+aliases:
+    - '/ru/pomoshch/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+seo:
+    title: 'Добавить строку через плагин Галерея – инструкция'
+    description: 'Узнайте, как создавать новые строки (альбомы) в SeaTable через плагин Галерея и удобно управлять связанными изображениями.'
 ---
 
 Обычно вы [создаете]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) новые строки в **представлении таблицы**. Однако в **плагине галереи** у вас есть и такая возможность. Вновь созданная строка отображается в галерее в виде **альбома** и вставляется в таблицу ниже всех остальных строк.

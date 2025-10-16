@@ -5,7 +5,12 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/bases-in-der-teamverwaltung'
+url: '/pt/ajuda/bases-na-administracao-de-equipe'
+aliases:
+    - '/pt/ajuda/bases-in-der-teamverwaltung'
+seo:
+    title: 'Bases na administração de equipe – gerenciamento fácil'
+    description: 'Veja como admins de equipe controlam as bases: detalhes, permissões, links, papelera e gestão total dos acessos em SeaTable.'
 ---
 
 Se for **administrador de equipa**, tem acesso a todas as bases da sua equipa através da **administração da** equipa. Pode chamar a vista detalhada das bases individuais, ver acções e ligações das bases ou apagar bases.

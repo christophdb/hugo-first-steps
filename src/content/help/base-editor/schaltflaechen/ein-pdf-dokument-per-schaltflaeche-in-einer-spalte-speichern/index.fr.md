@@ -5,7 +5,12 @@ lastmod: '2023-05-04'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/fr/aide/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+url: '/fr/aide/enregistrer-pdf-via-bouton'
+aliases:
+    - '/fr/aide/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+seo:
+    title: 'Enregistrer un PDF via bouton – tutoriel SeaTable'
+    description: 'Apprenez à sauvegarder un PDF dans une colonne fichier avec un bouton SeaTable. Gérez aussi des modèles conditionnels par langue d’utilisateur.'
 ---
 
 Un **bouton** permet d'enregistrer des documents PDF dans des colonnes de fichiers. Pour cela, il est nécessaire de configurer le **plug-in de conception de page** via les options de base.

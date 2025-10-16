@@ -5,7 +5,12 @@ lastmod: '2023-05-04'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/pt/ajuda/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+url: '/pt/ajuda/salvar-pdf-em-coluna-por-botao'
+aliases:
+    - '/pt/ajuda/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+seo:
+    title: 'Salvar PDF em coluna via botão – tutorial SeaTable'
+    description: 'Veja como gravar PDFs na coluna de arquivos usando botões no SeaTable, configurando também condições para modelos em diferentes idiomas.'
 ---
 
 Com a ajuda de um **botão**, pode guardar documentos PDF em colunas de ficheiro. O pré-requisito para tal é a configuração do **plug-in de design da página** através das opções de base.

@@ -5,7 +5,12 @@ lastmod: '2023-02-03'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/pt/ajuda/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+url: '/pt/ajuda/adicionar-linha-plugin-galeria'
+aliases:
+    - '/pt/ajuda/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+seo:
+    title: 'Adicionar linha no plugin Galeria – passo a passo SeaTable'
+    description: 'Veja como criar novas linhas (álbuns) no SeaTable diretamente pelo plugin Galeria e gerenciar dados com imagens de forma fácil.'
 ---
 
 Normalmente [criaria]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) novas filas na **vista de tabela**. Na **galeria plug-in**, no entanto, também tem esta opção. A linha recentemente criada é exibida na galeria como um **álbum** e inserida na tabela abaixo de todas as outras linhas.

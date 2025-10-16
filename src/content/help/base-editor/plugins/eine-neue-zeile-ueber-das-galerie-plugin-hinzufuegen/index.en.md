@@ -5,7 +5,12 @@ lastmod: '2023-02-03'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+url: '/help/add-new-row-via-gallery-plugin'
+aliases:
+    - '/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+seo:
+    title: 'Add new row via Gallery Plugin – SeaTable how-to'
+    description: 'Learn how to create new rows (albums) directly in SeaTable’s Gallery Plugin and manage all related data, including images.'
 ---
 
 You would normally [create]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) new rows in the **table view**. However, in the **Gallery plugin**, you also have this option. The newly created row will be displayed in the gallery as an **album** and will be added to the table below all other rows .

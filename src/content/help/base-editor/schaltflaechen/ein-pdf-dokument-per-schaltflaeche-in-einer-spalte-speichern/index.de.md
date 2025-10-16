@@ -6,6 +6,9 @@ categories:
     - 'andere-spalten'
 author: 'nsc2'
 url: '/de/hilfe/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+seo:
+    title: 'PDF per Schaltfläche in Datei-Spalte speichern – Anleitung'
+    description: 'Lernen Sie, wie Sie PDF-Dokumente per Button automatisch in Datei-Spalten Ihrer SeaTable-Tabelle speichern und Vorlagen an Bedingungen knüpfen.'
 ---
 
 Mithilfe einer **Schaltfläche** können Sie PDF-Dokumente in Datei-Spalten speichern. Voraussetzung dafür ist die Einrichtung des **Seitendesign-Plugins** über die Base-Optionen.

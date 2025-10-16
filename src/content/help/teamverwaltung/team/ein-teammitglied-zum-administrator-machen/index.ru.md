@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/ein-teammitglied-zum-administrator-machen'
+url: '/ru/pomoshch/sdelat-uchastnika-administratorom'
+aliases:
+    - '/ru/pomoshch/ein-teammitglied-zum-administrator-machen'
+seo:
+    title: 'Сделать участника администратором – инструкция'
+    description: 'Как назначить участника команды администратором в SeaTable, управлять его правами и полноценно использовать админ‑панель.'
 ---
 
 В качестве администратора команды вы можете добавлять новых членов команды, а также **предоставлять им права администрирования**.

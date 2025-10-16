@@ -5,7 +5,12 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/ru/pomoshch/die-zahlen-spalte'
+url: '/ru/pomoshch/chislovoy-stolbets'
+aliases:
+    - '/ru/pomoshch/die-zahlen-spalte'
+seo:
+    title: 'Числовой столбец в SeaTable – форматы и применение'
+    description: 'Всё о числовых столбцах SeaTable: суммы, проценты, валюты, форматы и цветовая валидация для автоматизации учета значений.'
 ---
 
 В SeaTable вы можете использовать **колонку Номер** различными способами для работы с числами любого вида (например, количество предметов, проценты или цены в разных валютах).

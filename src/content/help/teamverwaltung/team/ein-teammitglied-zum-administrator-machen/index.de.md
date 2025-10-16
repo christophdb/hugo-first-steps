@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/ein-teammitglied-zum-administrator-machen'
+seo:
+    title: 'Teammitglied zum Administrator machen – Anleitung'
+    description: 'Erfahren Sie, wie Sie in SeaTable ein Teammitglied zum Administrator ernennen, Rechte vergeben und die Teamverwaltung effektiv nutzen.'
 ---
 
 Als Team-Administrator können Sie neue Mitglieder zum Team hinzufügen und diesen Mitgliedern ebenfalls **Administrationsrechte erteilen**.

@@ -6,6 +6,9 @@ categories:
     - 'text-und-zahlen'
 author: 'ssc'
 url: '/de/hilfe/die-zahlen-spalte'
+seo:
+    title: 'Die Zahlen‑Spalte in SeaTable – Formate & Funktionen'
+    description: 'Nutzen Sie die Zahlen‑Spalte für Summen, Prozent, Währungen und Validierung. Formate und praxisnahe Tipps zur richtigen Anwendung in SeaTable. '
 ---
 
 In SeaTable können Sie die **Zahlen-Spalte** vielseitig nutzen, um mit Zahlen jeder Art zu arbeiten, z. B. Anzahl von Gegenständen, prozentuale Anteile oder Preise in verschiedenen Währungen.
