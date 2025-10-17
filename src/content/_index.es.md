@@ -10,8 +10,8 @@ sections:
   weight: 1
   h2_left: "No code,"
   h2_right: "no limits"
-  h1: "Plataforma sin código SeaTable: ¡organice todos sus datos y desarrolle aplicaciones personalizadas sin escribir una sola línea de código!"
-  description: Diseñe intuitivamente bases de datos, flujos de trabajo y aplicaciones personalizadas de forma sencilla. Nuestra solución sin código combina la sencillez de las hojas de cálculo con la potencia de las bases de datos sin código y los creadores de aplicaciones sin código.
+  h1: "Plataforma sin código: organice datos y cree aplicaciones con SeaTable, ¡sin una sola línea de código!"
+  description: "Con SeaTable, podrá diseñar bases de datos,<br>flujos de trabajo y aplicaciones personalizadas en un abrir y cerrar de ojos, sin necesidad de tener conocimientos de programación.<br>Nuestra solución sin código combina el manejo intuitivo de las tablas con la potencia de las modernas funciones de creación de bases de datos y aplicaciones, además de impresionar como plataforma flexible de bajo código para todos los usuarios."
   buttons:
     - label: Empezar ahora
       link: "pages/registration"
@@ -25,8 +25,8 @@ sections:
 - name: content-4
   weight: 2
   subtitle: '¿Qué es SeaTable?'
-  title: 'Tan sencillo como Excel, con el poder de una base de datos'
-  text: 'SeaTable puede manejar toda la información suya y de su equipo: Imágenes, documentos, correos electrónicos, casillas de verificación, listas de selección, accesos directos y mucho más. Puede editar toda la información cómodamente a través de un navegador web.'
+  title: 'Plataforma sin código: tan flexible como Excel con la potencia de una base de datos.'
+  text: 'SeaTable puede gestionar toda la información suya y de su equipo: Imágenes, documentos, correos electrónicos, casillas de verificación, listas de selección, enlaces y mucho más - gestione todo cómodamente y sin conocimientos de programación directamente en el navegador web.'
   buttons:
     - label: 'Pruébelo ahora'
       link: 'pages/registration'
@@ -65,9 +65,9 @@ sections:
 
 - name: "content-8"
   weight: 3
-  title: "Mantenga siempre el control de todos sus datos"
+  title: "Máxima visión de conjunto y flexibilidad con la plataforma sin código SeaTable"
   subtitle: "Visualización de datos"
-  description: "Visualice sus conjuntos de datos de cualquier manera imaginable y colabore en tiempo real. Éstas son sólo algunas de las posibilidades de SeaTable."
+  description: "Visualice y gestione todo tipo de datos -imágenes, documentos, correos electrónicos, casillas de verificación, listas de selección, accesos directos y mucho más- directamente en el navegador web. Nuestra plataforma sin código ofrece opciones de visualización versátiles y permite el trabajo colaborativo en tiempo real para que su equipo tenga siempre una visión completa y trabaje conjuntamente de forma eficaz."
   items:
   - text: "Base Editor"
     image: "/images/template-content-marketing-strategie.png"
@@ -107,15 +107,15 @@ sections:
 
 - name: content-1
   weight: 5
-  title: "Cree aplicaciones individuales"
+  title: "Cree aplicaciones personalizadas con la plataforma sin código"
   subtitle: "Sin conocimientos de programación"
   description: "Bienvenido al futuro del desarrollo de aplicaciones, donde las habilidades de programación son opcionales. ¡Con SeaTable puede empezar ahora mismo!"
   classes:
   - bg-gray-100
   - curved
   items:
-  - headline: "Utilice el creador de aplicaciones No-Code"
-    text: "Nuestro creador de aplicaciones sin código le permite crear potentes aplicaciones basadas en datos sin esfuerzo con funcionalidad de arrastrar y soltar. Programación sin código: Tanto si necesita un CRM, una herramienta de gestión de proyectos o una solución específica para su negocio, puede construirlo todo usted mismo, sin escribir una sola línea de código." 
+  - headline: "Constructor de aplicaciones sin código Komfortabler"
+    text: "Con SeaTable, puede crear potentes aplicaciones basadas en datos de forma rápida e intuitiva mediante la función de arrastrar y soltar, sin necesidad de tener conocimientos de programación. El creador de aplicaciones sin código le permite montar usted mismo una amplia variedad de soluciones como CRM, gestión de proyectos o aplicaciones empresariales personalizadas, sin tener que escribir una sola línea de código." 
 
   - headline: "Interfaz intuitiva no-code y low-code"
     text: "Tanto si usted es un desarrollador experimentado o un ciudadano sin conocimientos de programación, nuestras herramientas están diseñadas para satisfacer todas sus necesidades de creación de aplicaciones y digitalizar sus procesos comerciales. Empiece aquí mismo: cree su propia aplicación gratis."
@@ -148,9 +148,9 @@ sections:
 
 - name: content-3
   weight: 7
-  title: Plantillas para el inicio de su próximo proyecto de equipo
+  title: "Comience su próximo proyecto en equipo con nuestras plantillas sin código"
   subtitle: Empezar ahora
-  description: Importe plantillas ya preparadas a su cuenta de SeaTable con un solo clic.
+  description: "Con la plataforma sin código SeaTable, puede iniciar nuevos proyectos de equipo de forma especialmente eficaz: importe plantillas ya preparadas y personalizables directamente a su cuenta SeaTable con un solo clic. Esto le permite implementar procesos estructurados de inmediato, ahorrar un tiempo valioso durante la digitalización y beneficiarse de soluciones flexibles de mejores prácticas para cada caso de uso."
   items:
   - headline: "Registro de tiempo de trabajo"
     text: Recursos humanos

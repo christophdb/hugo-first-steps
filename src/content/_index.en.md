@@ -12,8 +12,8 @@ sections:
   weight: 1
   h2_left: "No code,"
   h2_right: "no limits"
-  h1: "SeaTable no-code platform: Organize all your data and develop custom applications without writing a single row code!" 
-  description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
+  h1: "No-code platform: Organize data and create apps with SeaTable - without a line of code!" 
+  description: "With SeaTable, you can design individual databases,<br>workflows and apps in no time at all - without any programming knowledge.<br>Our no-code solution combines the intuitive operation of tables with the power of modern database and app builder functions and also impresses as a flexible low-code platform for all users."
   buttons:
     - label: Get started now
       link: "pages/registration"
@@ -27,8 +27,8 @@ sections:
 - name: content-4
   weight: 2
   subtitle: 'What is SeaTable?'
-  title: 'As simple as Excel, with the power of a database'
-  text: 'SeaTable can handle all information from you and your team:Images, documents, emails, checkboxes, picklists, shortcuts and much more. You can edit all information conveniently via a web browser.'
+  title: 'No-code platform: As flexible as Excel with the power of a database.'
+  text: 'SeaTable can handle all the information from you and your team: Images, documents, e-mails, checkboxes, selection lists, links and much more - manage everything conveniently and without programming knowledge directly in the web browser.'
   buttons:
     - label: 'Try it out now'
       link: 'pages/registration'
@@ -67,9 +67,9 @@ sections:
 
 - name: "content-8"
   weight: 3
-  title: "Always keep track of all your data"
+  title: "Maximum overview and flexibility with the SeaTable no-code platform"
   subtitle: "Visualization of the data"
-  description: "Visualize your data sets in any way you can imagine and collaborate in real time. Here are just some of the possibilities of SeaTable."
+  description: "Visualize and manage all types of data - images, documents, emails, checkboxes, picklists, shortcuts and more - directly in the web browser. Our no-code platform offers versatile visualization options and enables collaborative work in real time so that your team always has a complete overview and works together efficiently."
   items:
   - text: "Base Editor"
     image: "/images/template-content-marketing-strategie.png"
@@ -109,15 +109,15 @@ sections:
 
 - name: content-1
   weight: 5
-  title: "Create individual apps"
+  title: "Create individual apps with the no-code platform"
   subtitle: "Without programming knowledge"
   description: "Welcome to the future of app development, where programming skills are optional. With SeaTable you can get started right away!"
   classes:
   - bg-gray-100
   - curved
   items:
-  - headline: "Use the No-Code App Builder"
-    text: "Our No Code App Builder allows you to create powerful, data-driven applications effortlessly with drag-and-drop functionality. Programming without code: Whether you need a CRM, a project management tool or a specific solution for your business, you can build it all yourself, even without writing a single row code."
+  - headline: "Convenient No-Code App Builder"
+    text: "With SeaTable, you can create powerful, data-based applications quickly and intuitively using drag-and-drop - without any programming knowledge. The no-code app builder enables you to put together a wide variety of solutions such as CRM, project management or individual business apps yourself, without having to write a single line of code."
 
   - headline: "Intuitive no-code and low-code user interface"
     text: "Whether you are an experienced developer or a citizen developer with no programming skills, our tools are designed to meet all your app building needs and digitize your business processes. Start right here: create your own app for free."
@@ -150,9 +150,9 @@ sections:
 
 - name: content-3
   weight: 7
-  title: Templates for the start of your next team project
+  title: "Start your next team project with our no-code templates"
   subtitle: Get started now
-  description: Import ready-made templates into your SeaTable account with just one click.
+  description: "With the SeaTable no-code platform, you can start new team projects particularly efficiently: import ready-made, customizable templates directly into your SeaTable account with just one click. This allows you to immediately implement structured processes, save valuable time during digitalization and benefit from flexible best-practice solutions for every use case."
   items:
   - headline: "Working time recording"
     text: Human resources
