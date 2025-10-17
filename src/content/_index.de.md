@@ -110,11 +110,9 @@ sections:
   - curved
   items:
   - headline: "Komfortabler No-Code App Builder"
-    text: 'Mit SeaTable erstellen Sie leistungsstarke, datenbasierte Anwendungen schnell und intuitiv per Drag-and-Drop – komplett ohne Programmierkenntnisse. Der No-Code App Builder ermöglicht Ihnen, unterschiedlichste Lösungen wie CRM-, Projektmanagement- oder individuelle Business-Apps selbst zusammenzustellen, ganz ohne eine einzige Zeile Code schreiben zu müssen.'
+    text: 'Mit SeaTable erstellen Sie leistungsstarke, datenbasierte Anwendungen schnell und intuitiv per Drag-and-Drop – komplett ohne Programmierkenntnisse. Der [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) ermöglicht Ihnen, unterschiedlichste Lösungen wie CRM-, Projektmanagement- oder individuelle Business-Apps selbst zusammenzustellen, ganz ohne eine einzige Zeile Code schreiben zu müssen.'
   - headline: "Intuitive No-Code und Low-Code Benutzeroberfläche"
-    text: "Egal, ob Sie ein erfahrener Entwickler oder ein Citizen Developer ohne
-      Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen
-      und Ihre Geschäftsprozesse zu digitalisieren. Starten Sie gleich hier: eigene App erstellen kostenlos."
+    text: 'Egal, ob Sie ein erfahrener Entwickler oder ein [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) ohne Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen und Ihre Geschäftsprozesse zu digitalisieren. Starten Sie gleich hier: eigene App erstellen kostenlos.'
   - headline: "Kollaboratives Arbeiten in Echtzeit für Teams"
     text: "SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche.
       Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.<br/><br/>Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren."
@@ -143,7 +141,7 @@ sections:
   weight: 7
   title: "Starten Sie Ihr nächstes Teamprojekt mit unseren No-Code Vorlagen"
   subtitle: Jetzt loslegen
-  description: "Mit der SeaTable No-Code Plattform starten Sie neue Teamprojekte besonders effizient: Importieren Sie vorgefertigte, individuell anpassbare Vorlagen mit nur einem Klick direkt in Ihren SeaTable Account. So setzen Sie sofort strukturierte Prozesse um, sparen wertvolle Zeit bei der Digitalisierung und profitieren von flexibel einsetzbaren Best-Practice-Lösungen für jeden Anwendungsfall."
+  description: 'Mit der SeaTable No-Code Plattform starten Sie neue Teamprojekte besonders effizient: Importieren Sie vorgefertigte, individuell anpassbare [No-Code Vorlagen]({{< relref "templates/_index.de.md" >}}) mit nur einem Klick direkt in Ihren SeaTable Account. So setzen Sie sofort strukturierte Prozesse um, sparen wertvolle Zeit bei der Digitalisierung und profitieren von flexibel einsetzbaren Best-Practice-Lösungen für jeden Anwendungsfall.'
   items:
   - headline: "Arbeitszeiterfassung"
     text: Personalwesen
@@ -308,9 +306,8 @@ sections:
   subtitle: "Datensicherheit und Datenschutz"
   items:
   - text: "Datensicherheit hat bei SeaTable höchste Priorität. Unsere Plattform bietet robuste Sicherheitsfunktionen, um Ihre Daten zuverlässig zu schützen."
-  - text: "Sie behalten stets die Kontrolle über Ihre Informationen und können sicher sein, dass Ihre Daten gemäß den neuesten Datenschutzstandards verwaltet werden.
-    Die SeaTable No-Code Plattform gewährleistet, dass Ihre Daten sicher und konform mit den geltenden Datenschutzbestimmungen gespeichert werden."
-  - text: "Die SeaTable Cloud wird in zertifizierten deutschen Rechenzentren einer Schweizer Anbieters gehostet. Die Registrierung dauert nur wenige Sekunden."
+  - text: "Sie behalten stets die Kontrolle über Ihre Informationen und können sicher sein, dass Ihre Daten gemäß den neuesten Datenschutzstandards verwaltet werden. Die SeaTable No-Code Plattform gewährleistet, dass Ihre Daten sicher und konform mit den geltenden Datenschutzbestimmungen gespeichert werden."
+  - text: 'Die SeaTable Cloud wird in [zertifizierten deutschen Rechenzentren]({{< relref "posts/die-seatable-cloud-wird-europaeischer" >}}) einer Schweizer Anbieters gehostet. Die Registrierung dauert nur wenige Sekunden.'
   - text: "Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speichert. Sie haben die volle Datenhoheit."
   buttons:
   - label: "Erfahren Sie mehr über die verschiedenen Versionen"

@@ -116,10 +116,10 @@ sections:
   - curved
   items:
   - headline: "Constructeur convivial d'applications sans code"
-    text: "SeaTable vous permet de créer rapidement et intuitivement de puissantes applications basées sur les données par simple glisser-déposer, sans aucune connaissance en programmation. Le No-Code App Builder vous permet de créer des applications CRM, de gestion de projet ou professionnelles personnalisées sans écrire une seule ligne de code."
+    text: 'SeaTable vous permet de créer rapidement et intuitivement de puissantes applications basées sur les données par simple glisser-déposer, sans aucune connaissance en programmation. Le [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) vous permet de créer des applications CRM, de gestion de projet ou professionnelles personnalisées sans écrire une seule ligne de code.'
 
   - headline: "Interface utilisateur intuitive sans code et low-code"
-    text: "Que vous soyez un développeur expérimenté ou un développeur citoyen sans compétences en programmation, nos outils sont conçus pour répondre à tous vos besoins en matière de création d'applications et pour numériser vos processus métier. Commencez dès maintenant : créez votre propre application gratuitement."
+    text: 'Que vous soyez un développeur expérimenté ou un [développeur citoyen]({{< relref "posts/20250317-citizen-developer" >}}) sans compétences en programmation, nos outils sont conçus pour répondre à tous vos besoins en matière de création d applications et pour numériser vos processus métier. Commencez dès maintenant : créez votre propre application gratuitement.'
 
   - headline: "Travail collaboratif en temps réel pour les équipes"
     text: "SeaTable favorise la collaboration au sein de votre équipe grâce à la synchronisation en temps réel et aux espaces de travail partagés. Tous les membres de l'équipe peuvent accéder aux mêmes données en même temps, apporter des modifications et voir sur quoi les autres travaillent.<br/><br/>Cela fait de SeaTable un outil idéal pour les équipes qui souhaitent travailler ensemble sur des projets et augmenter leur productivité. Notre plateforme sans code/low-code prend également en charge le travail collaboratif grâce aux fonctionnalités de commentaires et de partage, vous aidant à optimiser votre travail d'équipe."
@@ -151,7 +151,7 @@ sections:
   weight: 7
   title: "Lancez votre prochain projet d'équipe avec nos modèles No-Code"
   subtitle: Commencez dès maintenant
-  description: "La plate-forme No-Code de SeaTable vous permet de lancer de nouveaux projets d'équipe de manière particulièrement efficace : importez des modèles prédéfinis et personnalisables directement dans votre compte SeaTable en un seul clic. Vous mettez ainsi immédiatement en place des processus structurés, gagnez un temps précieux lors de la numérisation et bénéficiez de solutions de bonnes pratiques flexibles pour chaque cas d'utilisation."
+  description: 'La plate-forme No-Code de SeaTable vous permet de lancer de nouveaux projets d équipe de manière particulièrement efficace : importez des [modèles no-code prédéfinis]({{< relref "templates/_index.de.md" >}}) et personnalisables directement dans votre compte SeaTable en un seul clic. Vous mettez ainsi immédiatement en place des processus structurés, gagnez un temps précieux lors de la numérisation et bénéficiez de solutions de bonnes pratiques flexibles pour chaque cas d utilisation.'
   items:
   - headline: "Suivi du temps de travail"
     text: Ressources humaines
@@ -317,7 +317,7 @@ sections:
   items:
   - text: "La sécurité des données est une priorité absolue chez SeaTable. Notre plateforme offre des fonctionnalités de sécurité robustes pour protéger vos données de manière fiable."
   - text: "Vous gardez toujours le contrôle de vos informations et pouvez être certain que vos données sont gérées conformément aux dernières normes de protection des données."
-  - text: "Le SeaTable Cloud est hébergé dans des centres de données allemands certifiés d'un fournisseur suisse. L'inscription ne prend que quelques secondes."
+  - text: 'Le SeaTable Cloud est hébergé dans des [centres de données allemands certifiés]({{< relref "posts/die-seatable-cloud-wird-europaeischer" >}}) d un fournisseur suisse. L inscription ne prend que quelques secondes.'
   - text: "Avec votre propre serveur, vous décidez où SeaTable stocke vos données. Vous avez une souveraineté totale sur vos données."
   buttons:
   - label: "En savoir plus sur les différentes versions"
