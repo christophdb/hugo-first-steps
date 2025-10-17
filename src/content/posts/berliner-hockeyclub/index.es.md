@@ -16,8 +16,8 @@ tags:
     - 'Gestión y visualización de datos'
     - 'Finanzas'
 seo:
-    title: El club de hockey berlinés se digitaliza con SeaTable
-    description: Como gerente de un club deportivo, hay muchas áreas que supervisar y gestionar, ya sea la contabilidad general, las reservas de campos o la gestión de tareas de todos los socios. El club de hockey de Berlín utiliza SeaTable para transferir los numerosos sistemas individuales que existen actualmente a un único sistema y digitalizar así sus procesos.
+    title: "El club de hockey berlinés se digitaliza con SeaTable"
+    description: "El Berlin Hockey Club usa SeaTable para digitalizar contabilidad, reservas de canchas y gestión de miembros en un sistema unificado."
 ---
 
 Como gestor de un club deportivo, hay muchas áreas que controlar y gestionar, ya sea la contabilidad general, la reserva de campos o la gestión de tareas para todos los socios. El Club de Hockey de Berlín utiliza SeaTable para transferir los numerosos sistemas individuales que existen actualmente a un único sistema y digitalizar así sus procesos.
