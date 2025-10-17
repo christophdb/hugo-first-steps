@@ -5,7 +5,13 @@ lastmod: '2022-12-19'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/eine-base-zu-den-favoriten-hinzufuegen'
+url: '/fr/aide/ajouter-base-favoris'
+aliases:
+    - '/fr/aide/eine-base-zu-den-favoriten-hinzufuegen'
+seo:
+    title: 'Ajouter une base aux favoris dans SeaTable – méthodes faciles'
+    description: 'Découvrez comment ajouter une base à vos favoris SeaTable pour un accès rapide. Tutoriel pour marquer, afficher et retirer des favoris facilement.'
+
 ---
 
 Pour faciliter la vue d'ensemble de toutes les bases dans SeaTable, il est possible de mettre certaines bases en favoris. Les bases favorisées apparaissent sous la section **Favoris.** Vous apprendrez ici comment ajouter des bases aux favoris :

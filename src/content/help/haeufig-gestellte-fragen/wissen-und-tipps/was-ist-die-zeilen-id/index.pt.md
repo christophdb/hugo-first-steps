@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/pt/ajuda/was-ist-die-zeilen-id'
+url: '/pt/ajuda/o-que-e-id-linha'
+aliases:
+    - '/pt/ajuda/was-ist-die-zeilen-id'
+seo:
+    title: 'O que é o ID da linha no SeaTable? Detalhes e usos'
+    description: 'Veja o que significa o ID da linha no SeaTable, como obter e utilizar em scripts e automatizações para suas bases e tabelas.'
 ---
 
 A **identificação da linha** é a **designação única de uma linha** que, ao contrário da numeração por pontos de vista, não pode ser alterada. Normalmente é necessário o identificador de linha quando se escrevem **scripts** em JavaScript ou Python.

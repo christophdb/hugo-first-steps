@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/help/workspace-id-einer-gruppe-ermitteln'
+url: '/help/find-workspace-id-group'
+aliases:
+    - '/help/workspace-id-einer-gruppe-ermitteln'
+seo:
+    title: 'Find Workspace ID of a SeaTable Group – Quick Step Guide'
+    description: 'Learn how to retrieve the workspace ID of any group in SeaTable by checking the base URL. Fast method for API integrations and team management.'
+
 ---
 
 Each group in SeaTable has a so-called **workspace ID**. You need this ID to be able to make some [API calls](https://api.seatable.com). Here you can learn how to determine the workspace ID of a group via the browser.

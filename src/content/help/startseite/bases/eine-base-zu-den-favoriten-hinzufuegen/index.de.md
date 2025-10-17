@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/eine-base-zu-den-favoriten-hinzufuegen'
+seo:
+    title: 'Base in SeaTable als Favorit markieren – so geht’s'
+    description: 'Erfahren Sie, wie Sie Bases in SeaTable zu den Favoriten hinzufügen und jederzeit schnellen Zugriff auf wichtige Projekte behalten. Anleitung & Tipps.'
+
 ---
 
 Um Ihnen die Übersicht über alle Bases in SeaTable zu erleichtern, können einzelne Bases favorisiert werden. Favorisierte Bases erscheinen unter dem Abschnitt **Favoriten.** Hier erfahren Sie, wie Sie Bases zu den Favoriten hinzufügen können:

@@ -6,6 +6,9 @@ categories:
     - 'historie-und-versionen'
 author: 'nsc2'
 url: '/de/hilfe/wiederherstellung-eines-snapshots'
+seo:
+    title: 'Snapshot in SeaTable wiederherstellen – alles zu Versionen'
+    description: 'Erfahren Sie, wie Sie Snapshots in SeaTable wiederherstellen, welche Wege zur Verfügung stehen und wie die Arbeit mit Versionen und Backups funktioniert.'
 ---
 
 Ein von einer Base erstellter Snapshot kann jederzeit als neue Base wiederhergestellt werden. Bevor Sie einen Snapshot wiederherstellen, können Sie sich diesen zunächst in einer separaten Ansicht anzeigen lassen. Auf diesem Weg können Sie stets vorher in Erfahrung bringen, wie genau die Base zum Speicherzeitpunkt aussah.

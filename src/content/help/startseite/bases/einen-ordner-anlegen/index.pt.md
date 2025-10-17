@@ -5,7 +5,13 @@ lastmod: '2023-08-25'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/pt/ajuda/einen-ordner-anlegen'
+url: '/pt/ajuda/criar-pasta'
+aliases:
+   - '/pt/ajuda/einen-ordner-anlegen'
+seo:
+    title: 'Criar uma pasta no SeaTable – tutorial rápido e completo'
+    description: 'Veja como criar pastas personalizadas em SeaTable para organizar bases. Instruções claras para página inicial, grupos e painel geral.'
+
 ---
 
 Para uma melhor visão geral das suas bases, tem a opção de criar novas **pastas** em **As minhas bases**, bem como em **Partilhadas comigo** e nos **grupos** individuais. Pode utilizar as pastas, por exemplo, para armazenar diferentes bases para um tópico. Saiba como criar uma pasta no SeaTable aqui:

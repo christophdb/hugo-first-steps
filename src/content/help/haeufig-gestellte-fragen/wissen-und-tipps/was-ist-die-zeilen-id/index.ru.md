@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/ru/pomoshch/was-ist-die-zeilen-id'
+url: '/ru/pomoshch/chto-takoe-id-stroki'
+aliases:
+    - '/ru/pomoshch/was-ist-die-zeilen-id'
+seo:
+    title: 'Что такое идентификатор строки в SeaTable? Пояснения'
+    description: 'Узнайте, что такое идентификатор строки в SeaTable, способы его получения и примеры использования для скриптов и автоматизации.'
 ---
 
 **Идентификатор строки** - это **уникальное обозначение строки**, которое, в отличие от нумерации по представлениям, не может быть изменено. Идентификатор строки обычно нужен при написании **сценариев** на JavaScript или Python.

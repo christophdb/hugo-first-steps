@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/einen-ordner-anlegen'
+seo:
+    title: 'Ordner in SeaTable anlegen – Schritt-für-Schritt erklärt'
+    description: 'Erfahren Sie, wie Sie in SeaTable eigene Ordner für Bases anlegen, benennen und strukturieren: Anleitung für Startseite, Gruppen und Übersicht.'
+
 ---
 
 Für eine bessere Übersicht über Ihre Bases haben Sie die Möglichkeit, sowohl unter **Meine Bases** als auch unter **Für mich freigegeben** und in den einzelnen **Gruppen** neue **Ordner** anzulegen. Die Ordner können Sie beispielsweise verwenden, um verschiedene Bases zu einem Thema zu speichern. Hier erfahren Sie, wie Sie einen Ordner in SeaTable anlegen können:
