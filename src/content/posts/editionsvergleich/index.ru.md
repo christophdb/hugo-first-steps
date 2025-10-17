@@ -9,8 +9,8 @@ url: '/ru/sravnenie-izdaniy'
 aliases:
     - /ru/editionsvergleich
 seo:
-    title: 'Сравнение редакций SeaTable: Developer и Enterprise'
-    description: 'Платформа no-code SeaTable с возможностью самостоятельного хостинга доступна в двух редакциях. Здесь вы найдете все подробности и возможные сценарии использования редакций Enterprise и Developer.'
+    title: 'Сравнение версий SeaTable Developer и Enterprise'
+    description: 'SeaTable предлагает две No-Code версии: Enterprise и Developer. Узнайте о функциях и вариантах использования каждой платформы.'
 ---
 
 SeaTable Server - это SeaTable для вашего собственного сервера. Установив SeaTable в собственной инфраструктуре, вы получаете полный контроль над тем, где находятся ваши данные и кто имеет к ним доступ. SeaTable также рекомендуется для тех случаев, когда вы не хотите выносить данные за пределы площадки. Вы также можете работать с SeaTable Server исключительно в локальной сети без доступа через Интернет.
