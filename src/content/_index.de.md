@@ -141,9 +141,9 @@ sections:
 
 - name: content-3
   weight: 7
-  title: Starten Sie Ihr nächstes Teamprojekt mit unseren No-Code Vorlagen
+  title: "Starten Sie Ihr nächstes Teamprojekt mit unseren No-Code Vorlagen"
   subtitle: Jetzt loslegen
-  description: Mit der SeaTable No-Code Plattform starten Sie neue Teamprojekte besonders effizient: Importieren Sie vorgefertigte, individuell anpassbare Vorlagen mit nur einem Klick direkt in Ihren SeaTable Account. So setzen Sie sofort strukturierte Prozesse um, sparen wertvolle Zeit bei der Digitalisierung und profitieren von flexibel einsetzbaren Best-Practice-Lösungen für jeden Anwendungsfall.
+  description: "Mit der SeaTable No-Code Plattform starten Sie neue Teamprojekte besonders effizient: Importieren Sie vorgefertigte, individuell anpassbare Vorlagen mit nur einem Klick direkt in Ihren SeaTable Account. So setzen Sie sofort strukturierte Prozesse um, sparen wertvolle Zeit bei der Digitalisierung und profitieren von flexibel einsetzbaren Best-Practice-Lösungen für jeden Anwendungsfall."
   items:
   - headline: "Arbeitszeiterfassung"
     text: Personalwesen
