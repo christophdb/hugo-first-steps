@@ -8,6 +8,7 @@ seo:
     description: 'Find out in this article what solutions there are for the IT skills shortage and how you can regain the upper hand with No Code.'
 categories:
     - 'best-practice'
+    - 'low-code-no-code'
 tags:
     - 'Applicants & Talents Management'
     - 'No Code & Low Code'

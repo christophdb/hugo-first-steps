@@ -8,6 +8,7 @@ seo:
     description: 'Erfahren Sie in diesem Artikel, welche Lösungen es für den IT-Fachkräftemangel gibt und wie Sie mit No Code wieder die Oberhand gewinnen können.'
 categories:
     - 'best-practice'
+    - 'low-code-no-code'
 tags:
     - 'Bewerber- und Talentmanagement'
     - 'No Code & Low Code'
