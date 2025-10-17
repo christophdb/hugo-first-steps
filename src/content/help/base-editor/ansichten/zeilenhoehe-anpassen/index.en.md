@@ -5,7 +5,12 @@ lastmod: '2023-03-28'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/help/zeilenhoehe-anpassen'
+url: '/help/adjust-row-height'
+aliases:
+    - '/help/zeilenhoehe-anpassen'
+seo:
+    title: 'Adjust Row Height in SeaTable and See More Data'
+    description: 'Learn how to change row height in any SeaTable view and display more data. Step-by-step guide for all settings and best practices.'
 ---
 
 By default, SeaTable displays all rows with a compact row height to show as many records as possible. However, with this **simple row height**, among other things, [text]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) and [multiple selection columns]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) are truncated and only small **thumbnails** of images are displayed.

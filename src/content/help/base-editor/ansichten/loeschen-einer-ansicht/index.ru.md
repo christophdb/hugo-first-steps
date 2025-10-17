@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/loeschen-einer-ansicht'
+url: '/ru/pomoshch/udalit-predstavlenie'
+aliases:
+    - '/ru/pomoshch/loeschen-einer-ansicht'
+seo:
+    title: 'Удалить представление в SeaTable – пошаговая инструкция'
+    description: 'Узнайте, как удалить представление в SeaTable, получите ответы на вопросы об восстановлении и удалении представлений, подробная инструкция.'
 ---
 
 Вы можете удалить представления, которые были созданы неправильно или стали неактуальными в любое время, щелкнув меню представления и выбрав опцию **Удалить** представление.

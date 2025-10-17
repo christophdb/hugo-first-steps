@@ -5,7 +5,12 @@ lastmod: '2023-03-28'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/ru/pomoshch/zeilenhoehe-anpassen'
+url: '/ru/pomoshch/nastroit-vysotu-strok'
+aliases:
+    - '/ru/pomoshch/zeilenhoehe-anpassen'
+seo:
+    title: 'Изменить высоту строк в SeaTable и видеть больше данных'
+    description: 'Узнайте, как изменить высоту строк во всех представлениях SeaTable и показать больше информации. Подробная инструкция.'
 ---
 
 По умолчанию SeaTable отображает все строки с компактной высотой строки, чтобы показать как можно больше записей. Однако при такой **простой высоте строки**, помимо прочего, обрезаются [колонки]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) и [множественным выбором]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}), а также отображаются только маленькие **эскизы** изображений.

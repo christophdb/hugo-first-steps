@@ -5,7 +5,12 @@ lastmod: '2023-11-27'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
+url: '/help/differences-between-private-and-standard-views'
+aliases:
+    - '/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
+seo:
+    title: 'Private vs. Standard Views in SeaTable: Key Differences Explained'
+    description: 'Learn the big differences between private and standard views in SeaTable and why private views are best for personal data analysis and work.'
 ---
 
 {{< required-version "Enterprise" >}}

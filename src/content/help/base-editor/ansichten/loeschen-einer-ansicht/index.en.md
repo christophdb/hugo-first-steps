@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/loeschen-einer-ansicht'
+url: '/help/delete-view'
+aliases:
+    - '/help/loeschen-einer-ansicht'
+seo:
+    title: 'Delete a View in SeaTable – Quick Step-by-Step Guide'
+    description: 'Learn how to delete views in SeaTable securely and get answers on restoring and deleting views. Easy process explained step by step.'
 ---
 
 You can delete incorrectly created views or views that have become irrelevant at any time by clicking the View menu and selecting the **Delete View** option.

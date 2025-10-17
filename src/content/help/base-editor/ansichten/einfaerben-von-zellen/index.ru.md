@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/pomoshch/einfaerben-von-zellen'
+url: '/ru/pomoshch/okrashivanie-yacheek'
+aliases:
+    - '/ru/pomoshch/einfaerben-von-zellen'
+seo:
+    title: 'Окрашивание ячеек в SeaTable по правилам и значениям'
+    description: 'Узнайте, как красить ячейки в SeaTable по правилам или значениям, чтобы визуально выделять данные. Пошаговая инструкция включена.'
 ---
 
 В отличие от Excel, в SeaTable вы не можете просто раскрасить ячейки по своему усмотрению, а должны раскрашивать их либо по установленным вами **правилам**, либо на основе **значений** в **столбце**. Звучит сложно? Но это не так.

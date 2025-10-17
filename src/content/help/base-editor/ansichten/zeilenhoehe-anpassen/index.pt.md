@@ -5,7 +5,12 @@ lastmod: '2023-03-28'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/pt/ajuda/zeilenhoehe-anpassen'
+url: '/pt/ajuda/ajustar-altura-linhas'
+aliases:
+    - '/pt/ajuda/zeilenhoehe-anpassen'
+seo:
+    title: 'Como ajustar altura das linhas no SeaTable e ver mais'
+    description: 'Aprenda a alterar a altura das linhas nas visualizações do SeaTable e veja mais dados por linha. Tutorial completo para todas opções.'
 ---
 
 Por defeito, SeaTable mostra todas as filas com uma altura de fila compacta para mostrar o maior número de registos possível. No entanto, com esta **simples altura de linha**, entre outras coisas, são cortadas [colunas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) e [selecção múltipla]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) e apenas pequenas **miniaturas** de imagens são exibidas.

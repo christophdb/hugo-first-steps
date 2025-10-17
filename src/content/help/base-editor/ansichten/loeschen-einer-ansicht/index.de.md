@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
 url: '/de/hilfe/loeschen-einer-ansicht'
+seo:
+    title: 'Ansicht in SeaTable löschen – so geht’s einfach'
+    description: 'Anleitung zum sicheren Löschen von Ansichten in SeaTable – Schritt für Schritt und Antwort zu häufigen Fragen zur Wiederherstellung und Löschbarkeit.'
 ---
 
 Falsch erstellte oder irrelevant gewordene Ansichten können Sie jederzeit löschen, indem Sie auf das Ansichtsmenü klicken und die Option **Ansicht löschen** auswählen.

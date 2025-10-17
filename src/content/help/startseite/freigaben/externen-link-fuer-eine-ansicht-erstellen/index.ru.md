@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/pomoshch/externen-link-fuer-eine-ansicht-erstellen'
+url: '/ru/pomoshch/sozdanie-vneshnye-ssylki-dlya-prosmotra'
+aliases:
+    - '/ru/pomoshch/externen-link-fuer-eine-ansicht-erstellen'
+seo:
+    title: 'Создать внешний ссылку для просмотра в SeaTable и поделиться'
+    description: 'Узнайте, как делиться видом SeaTable с внешними пользователями через ссылку только для чтения. Защитите доступ паролем или сроком действия.'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

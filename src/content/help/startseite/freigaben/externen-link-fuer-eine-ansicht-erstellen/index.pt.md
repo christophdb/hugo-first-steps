@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/pt/ajuda/externen-link-fuer-eine-ansicht-erstellen'
+url: '/pt/ajuda/criar-link-externo-visualizacao'
+aliases:
+    - '/pt/ajuda/externen-link-fuer-eine-ansicht-erstellen'
+seo:
+    title: 'Criar e compartilhar link externo para visualização SeaTable'
+    description: 'Descubra como compartilhar uma visualização SeaTable com usuários externos usando link de só leitura, senha e data limite. Passo a passo completo.'
 ---
 
 {{< required-version "Mais" "Empresa" >}}

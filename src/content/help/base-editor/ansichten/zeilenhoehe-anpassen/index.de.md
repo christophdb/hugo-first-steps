@@ -6,6 +6,9 @@ categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
 url: '/de/hilfe/zeilenhoehe-anpassen'
+seo:
+    title: 'Zeilenhöhe in SeaTable flexibel einstellen'
+    description: 'Wie Sie die Zeilenhöhe in Ihren SeaTable-Ansichten anpassen und so mehr Inhalte pro Zeile sichtbar machen. Anleitung für alle Optionen.'
 ---
 
 Standardmäßig zeigt SeaTable sämtliche Zeilen mit einer kompakten Zeilenhöhe an, um möglichst viele Datensätze darzustellen. Bei dieser **einfachen Zeilenhöhe** werden aber unter anderem [Text-]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) und [Mehrfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) abgeschnitten und von Bildern nur kleine **Miniaturansichten** angezeigt.

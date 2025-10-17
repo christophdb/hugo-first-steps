@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'nsc2'
 url: '/de/hilfe/externen-link-fuer-eine-ansicht-erstellen'
+seo:
+    title: 'Externen Link für SeaTable-Ansicht erstellen & teilen'
+    description: 'Erfahren Sie, wie Sie eine SeaTable-Ansicht per externem Link mit nicht registrierten Nutzern teilen und schützen können. Schritt-für-Schritt-Anleitung.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}
