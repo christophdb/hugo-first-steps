@@ -11,8 +11,8 @@ aliases:
     - '/fr/tierhaltung/'
 color: '#f5c119'
 seo:
-    title:
-    description:
+    title: "Organisez l’entretien et le bien-être de votre animal"
+    description: "Vous souhaitez adopter un animal ? Découvrez ici l’essentiel sur les bases d’un soin responsable et adapté à chaque espèce."
 ---
 
 Le chien est le meilleur ami de l'homme - c'est ce que l'on dit souvent lorsqu'il s'agit de la relation entre le maître et **son animal de compagnie**. Pourtant, le chat est l'animal de compagnie préféré des Allemands et arrive en première position devant le chien. Loin derrière, on trouve les rongeurs, les poissons et les reptiles. Un animal domestique apporte de la joie, est une âme sœur ou est tout simplement agréable à regarder. Mais la **possession d'un animal** implique aussi du travail, car vous vous engagez pour une longue durée et devez tenir compte des besoins de vos animaux de compagnie.

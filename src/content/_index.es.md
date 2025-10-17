@@ -1,6 +1,9 @@
 ---
 title: 'Plataforma sin código | Soluciones personalizadas sin programación'
 description: 'La plataforma flexible no-code low-code. Cree aplicaciones personalizadas para sus procesos empresariales sin conocimientos de programación.'
+seo:
+    title: 'Plataforma No-Code | Soluciones personalizadas sin programación'
+    description: 'La plataforma flexible No-Code y Low-Code. Cree aplicaciones personalizadas para sus procesos empresariales sin conocimientos de programación.'
 
 sections:
 - name: hero-1
