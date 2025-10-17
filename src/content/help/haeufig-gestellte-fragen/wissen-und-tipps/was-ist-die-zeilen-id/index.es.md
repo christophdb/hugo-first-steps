@@ -5,7 +5,12 @@ lastmod: "2023-02-16"
 categories: 
   - "haeufig-gestellte-fragen"
 author: "vge"
-url: "/es/ayuda/was-ist-die-zeilen-id"
+url: "/es/ayuda/que-es-id-fila"
+aliases:
+  - "/es/ayuda/was-ist-die-zeilen-id"
+seo:
+    title: '¿Qué es el ID de fila en SeaTable? Explicación y uso'
+    description: 'Descubre qué es el ID de fila en SeaTable, cómo extraerlo y cuándo se requiere en scripts y automatizaciones para tus bases de datos.'
 ---
 
 El ID de la fila es la **designación única de una fila** que, a diferencia de la numeración por vistas, no puede modificarse. Normalmente se necesita el ID de fila cuando se escriben **scripts** en JavaScript o Python.

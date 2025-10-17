@@ -5,7 +5,13 @@ lastmod: '2022-12-19'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-base-zu-den-favoriten-hinzufuegen'
+url: '/ru/pomoshch/dobavit-bazu-v-izbrannoe'
+aliases:
+    - '/ru/pomoshch/eine-base-zu-den-favoriten-hinzufuegen'
+seo:
+    title: 'Добавить базу в избранное в SeaTable – подробная инструкция'
+    description: 'Узнайте, как добавить базу в избранное в SeaTable и получать быстрый доступ к важным проектам. Пошаговое руководство с советами.'
+
 ---
 
 Чтобы вам было легче следить за всеми базами в SeaTable, отдельным базам можно отдавать предпочтение. Избранные базы появляются в разделе **Избранное**. Здесь вы можете узнать, как добавлять базы в избранное:

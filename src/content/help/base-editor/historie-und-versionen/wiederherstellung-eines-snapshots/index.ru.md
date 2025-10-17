@@ -5,7 +5,12 @@ lastmod: '2024-08-05'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/pomoshch/wiederherstellung-eines-snapshots'
+url: '/ru/pomoshch/vosstanovit-snapshot'
+aliases:
+    - '/ru/pomoshch/wiederherstellung-eines-snapshots'
+seo:
+    title: 'Восстановление снапшота в SeaTable – вся версия и бэкапы'
+    description: 'Узнайте, как восстановить снапшоты в SeaTable в виде новой базы, пользоваться историей версий и быстро возвращать предыдущие версии данных.'
 ---
 
 Снимок, созданный на основе базы, можно восстановить как новую базу в любое время. Перед восстановлением моментального снимка его можно сначала отобразить в отдельном представлении. Таким образом, вы всегда можете заранее узнать, как выглядела база в момент сохранения.

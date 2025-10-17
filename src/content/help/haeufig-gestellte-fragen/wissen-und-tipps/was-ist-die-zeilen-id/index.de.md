@@ -6,6 +6,9 @@ categories:
   - "haeufig-gestellte-fragen"
 author: "vge"
 url: "/de/hilfe/was-ist-die-zeilen-id"
+seo:
+    title: 'Was ist die Zeilen-ID in SeaTable? Erklärung & Anwendung'
+    description: 'Alles zur Zeilen-ID in SeaTable: Was sie bedeutet, wie sie ausgelesen wird und wofür sie bei Skripten und Automationen benötigt wird.'
 ---
 
 Die **Zeilen-ID** ist die **eindeutige Bezeichnung einer Zeile**, die sich im Gegensatz zu der Nummerierung durch Ansichten nicht verändern lässt. Sie benötigen die Zeilen-ID typischerweise, wenn Sie **Skripte** in JavaScript oder Python schreiben.

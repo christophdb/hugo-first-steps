@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/fr/aide/was-ist-die-zeilen-id'
+url: '/fr/aide/identifiant-ligne'
+aliases:
+    - '/fr/aide/was-ist-die-zeilen-id'
+seo:
+    title: 'Qu’est-ce que l’identifiant de ligne dans SeaTable ? Explications'
+    description: 'Tout comprendre sur l’ID de ligne dans SeaTable : signification, extraction et utilisation en scripts et automatisations.'
 ---
 
 L'**ID de ligne** est la **désignation unique d'une ligne** qui, contrairement à la numérotation par les vues, ne peut pas être modifiée. Vous avez typiquement besoin de l'ID de ligne lorsque vous écrivez **des scripts** en JavaScript ou Python.

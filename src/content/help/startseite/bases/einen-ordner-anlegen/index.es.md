@@ -5,7 +5,13 @@ lastmod: '2023-08-25'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/einen-ordner-anlegen'
+url: '/es/ayuda/crear-carpeta'
+aliases:
+   - '/es/ayuda/einen-ordner-anlegen'
+seo:
+    title: 'Crear una carpeta en SeaTable – guía fácil paso a paso'
+    description: 'Descubre cómo crear nuevas carpetas en SeaTable para bases, nombrarlas y organizarlas. Manual completo para página principal, grupos y vista general.'
+
 ---
 
 Para tener una mejor visión de conjunto de tus bases, tienes la opción de crear nuevas **carpetas** en **Mis bases**, así como en **Compartidas conmigo** y en los **grupos** individuales. Puede utilizar las carpetas, por ejemplo, para almacenar diferentes bases para un tema. Aprenda cómo crear una carpeta en SeaTable aquí:

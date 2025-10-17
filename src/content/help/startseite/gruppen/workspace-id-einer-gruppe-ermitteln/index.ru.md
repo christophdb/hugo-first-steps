@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/pomoshch/workspace-id-einer-gruppe-ermitteln'
+url: '/ru/pomoshch/kak-uznat-workspace-id-gruppy'
+aliases:
+    - '/ru/pomoshch/workspace-id-einer-gruppe-ermitteln'
+seo:
+    title: 'Как узнать Workspace ID группы в SeaTable – инструкция'
+    description: 'Узнайте, как определить Workspace ID группы в SeaTable через URL базы и использовать для интеграции и управления командой.'
+
 ---
 
 Каждая группа в SeaTable имеет так называемый **идентификатор рабочего пространства**. Этот идентификатор нужен вам для того, чтобы иметь возможность выполнять некоторые [вызовы API](https://api.seatable.com). Здесь вы можете узнать, как определить идентификатор рабочего пространства группы через браузер.

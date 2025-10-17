@@ -5,7 +5,13 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/es/ayuda/workspace-id-einer-gruppe-ermitteln'
+url: '/es/ayuda/consultar-workspace-id-grupo'
+aliases:
+    - '/es/ayuda/workspace-id-einer-gruppe-ermitteln'
+seo:
+    title: 'Consultar la Workspace ID de un grupo en SeaTable – fácil'
+    description: 'Descubre cómo localizar la Workspace ID de un grupo en SeaTable desde la URL de tu base. Instrucciones rápidas y útiles para APIs y equipos.'
+
 ---
 
 Cada grupo en SeaTable tiene un llamado **ID de espacio de trabajo**. Necesita este ID para poder realizar algunas [llamadas a la API](https://api.seatable.com). Aquí puede encontrar cómo determinar el ID del espacio de trabajo de un grupo a través del navegador.

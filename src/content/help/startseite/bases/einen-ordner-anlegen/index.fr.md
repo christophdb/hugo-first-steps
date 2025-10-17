@@ -5,7 +5,13 @@ lastmod: '2023-08-25'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/einen-ordner-anlegen'
+url: '/fr/aide/creer-dossier'
+aliases:
+   - '/fr/aide/einen-ordner-anlegen'
+seo:
+    title: 'Créer un dossier dans SeaTable – guide détaillé et simple'
+    description: 'Apprenez à créer des dossiers dans SeaTable pour organiser vos bases. Toutes les étapes sur la page d’accueil, dans les groupes et l’aperçu général.'
+
 ---
 
 Pour une meilleure vue d'ensemble de vos bases, vous avez la possibilité de créer de nouveaux **dossiers** aussi bien sous **Mes bases** que sous **Partagé avec moi** et dans les différents **groupes**. Vous pouvez par exemple utiliser ces dossiers pour enregistrer différentes bases sur un même thème. Vous apprendrez ici comment créer un dossier dans SeaTable :

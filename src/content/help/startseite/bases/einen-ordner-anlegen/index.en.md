@@ -5,7 +5,13 @@ lastmod: '2023-08-25'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/einen-ordner-anlegen'
+url: '/help/create-folder'
+aliases:
+   - '/help/einen-ordner-anlegen'
+seo:
+    title: 'Create a Folder in SeaTable – Easy Step-by-Step Guide'
+    description: 'Learn how to create new folders for bases in SeaTable, name and organize them efficiently. Detailed instructions for homepage, groups and overview.'
+
 ---
 
 For a better overview of your bases, you have the option to create new **folders** under **My bases** as well as under **Shared with Me** and in the individual **groups**. You can use the folders, for example, to store different bases for one topic. Here you can learn how to create a folder in SeaTable:

@@ -5,7 +5,12 @@ lastmod: '2024-08-05'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/fr/aide/wiederherstellung-eines-snapshots'
+url: '/fr/aide/restaurer-snapshot'
+aliases:
+    - '/fr/aide/wiederherstellung-eines-snapshots'
+seo:
+    title: 'Restaurer un snapshot dans SeaTable – maîtrisez les versions'
+    description: 'Découvrez comment restaurer un snapshot dans SeaTable, créer une nouvelle base et gérer l’historique des versions et sauvegardes efficacement.'
 ---
 
 Un snapshot créé à partir d'une base peut être restauré à tout moment en tant que nouvelle base. Avant de restaurer un snapshot, vous pouvez d'abord l'afficher dans une vue séparée. De cette manière, vous pouvez toujours savoir à quoi ressemblait exactement la base au moment où vous l'avez enregistrée.

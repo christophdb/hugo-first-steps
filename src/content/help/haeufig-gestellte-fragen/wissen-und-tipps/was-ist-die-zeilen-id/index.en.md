@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/help/was-ist-die-zeilen-id'
+url: '/help/what-is-row-id'
+aliases:
+    - '/help/was-ist-die-zeilen-id'
+seo:
+    title: 'What is the Row ID in SeaTable? Explained & Use Cases'
+    description: 'Learn about the Row ID in SeaTable: its meaning, how to read it, and where it’s used for scripts and automations in your bases and tables.'
 ---
 
 The **rows-ID is the unique identifier of a row**, which, unlike the numbering by views, cannot be changed. You typically need the rows-ID when writing **scripts** in JavaScript or Python.
