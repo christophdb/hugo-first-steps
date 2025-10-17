@@ -5,10 +5,15 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/level-eins-einfuehrung'
+url: '/help/level-one-introduction'
 aliases:
     - '/en/training/'
     - '/training/'
+    - '/help/level-eins-einfuehrung'
+seo:
+    title: 'SeaTable Level 1: Introduction – Your Beginner Online Course'
+    description: 'This SeaTable Level 1 Online Course teaches navigation, table creation, forms, linking, views, and includes a quiz to test your new practical skills.'
+
 weight: 1
 ---
 

@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/es/ayuda/zeilen-ins-big-data-backend-verschieben'
+url: '/es/ayuda/mover-filas-big-data-backend'
+aliases:
+    - '/es/ayuda/zeilen-ins-big-data-backend-verschieben'
+seo:
+    title: 'Mover filas al almacenamiento Big Data en SeaTable – guía'
+    description: 'Descubre cómo mover, archivar y recuperar filas en el almacenamiento Big Data en SeaTable. Tutorial para activar y usar funciones avanzadas.'
+
 ---
 
 {{< required-version "Empresa" >}}

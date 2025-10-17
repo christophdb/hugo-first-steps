@@ -6,6 +6,10 @@ categories:
     - 'seatable-nutzen'
 author: 'cdb'
 url: '/de/hilfe/zusammenarbeit'
+seo:
+    title: 'Zusammenarbeit in SeaTable – Features für Teams erklärt'
+    description: 'Entdecken Sie die wichtigsten Kollaborationsfunktionen von SeaTable: Gruppenarbeit, Teilen, gemeinsame Datensätze, Kommentare und Team-Benachrichtigungen.'
+
 ---
 
 SeaTable ist ein mächtiges Tool, mit dem Sie für sich ganz alleine Ihre Daten organisieren können. Zur Höchstform läuft es aber bei der **Zusammenarbeit im Team** auf. Sie haben bereits ein starkes Team? Mit SeaTable machen Sie es stärker!

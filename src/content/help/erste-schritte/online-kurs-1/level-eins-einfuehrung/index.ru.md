@@ -5,7 +5,13 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/level-eins-einfuehrung'
+url: '/ru/pomoshch/uroven-odin-vvedenie'
+aliases:
+    - '/ru/pomoshch/level-eins-einfuehrung'
+seo:
+    title: 'SeaTable Уровень 1: введение – онлайн-курс для новичков'
+    description: 'Онлайн-курс SeaTable Level 1 обучает навигации, созданию таблиц, форм, фильтрам, просмотрам и предлагает тест для проверки знаний.'
+
 weight: 1
 ---
 

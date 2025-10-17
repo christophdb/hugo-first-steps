@@ -5,7 +5,13 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/fr/aide/zusammenarbeit'
+url: '/fr/aide/collaboration'
+aliases:
+    - '/fr/aide/zusammenarbeit'
+seo:
+    title: 'Collaboration dans SeaTable – fonctions d’équipe en détail'
+    description: 'Découvrez chaque fonctionnalité de collaboration dans SeaTable : groupes, partages, historique, ensembles communs, commentaires et notifications inclus.'
+
 ---
 
 SeaTable est un outil puissant qui vous permet d'organiser vos données de manière autonome. Mais c'est lorsqu'il est utilisé en **équipe** qu'il est le plus performant. Vous avez déjà une équipe solide ? Avec SeaTable, vous pouvez la rendre plus forte !

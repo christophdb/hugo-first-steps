@@ -6,6 +6,10 @@ categories:
     - 'big-data'
 author: 'cdb'
 url: '/de/hilfe/zeilen-ins-big-data-backend-verschieben'
+seo:
+    title: 'Zeilen ins Big-Data-Backend von SeaTable verschieben'
+    description: 'Erfahren Sie, wie Sie in SeaTable Zeilen in den Big-Data-Speicher verschieben, archivieren und wieder abrufen. Hinweise zum Aktivieren und Erkennen im Editor.'
+
 ---
 
 {{< required-version "Enterprise" >}}

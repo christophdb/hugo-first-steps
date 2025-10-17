@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'cdb'
-url: '/es/ayuda/uebersicht-alle-spaltentypen'
+url: '/es/ayuda/tipos-columna-overview'
+aiases:
+    - '/es/ayuda/uebersicht-alle-spaltentypen'
+seo:
+    title: 'Tipos de columna en SeaTable: guía rápida de funciones'
+    description: 'Conozca los 25 tipos de columna en SeaTable: texto, número, archivo, selección, fórmulas y relaciones. Explicación breve y ejemplos prácticos.'
+
 weight: 1
 ---
 

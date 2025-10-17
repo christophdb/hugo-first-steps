@@ -5,9 +5,14 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/level-eins-einfuehrung'
+url: '/fr/aide/niveau-un-introduction'
 aliases:
     - '/fr/training/'
+    - '/fr/aide/level-eins-einfuehrung'
+seo:
+    title: 'SeaTable Niveau 1 : introduction – cours en ligne débutant'
+    description: 'Découvrez le cours en ligne niveau 1 de SeaTable : navigation, création de tableaux, formulaires, vues, quiz final pour évaluer vos acquis.'
+
 weight: 1
 ---
 
