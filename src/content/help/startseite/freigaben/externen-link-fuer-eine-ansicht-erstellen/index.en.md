@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/help/externen-link-fuer-eine-ansicht-erstellen'
+url: '/help/create-external-link-for-view'
+aliases:
+    - '/help/externen-link-fuer-eine-ansicht-erstellen'
+seo:
+    title: 'Create and Share External Link for SeaTable View'
+    description: 'Learn how to share a SeaTable view with external users through a read-only link. Secure with password or expiration date. Complete step-by-step guide.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

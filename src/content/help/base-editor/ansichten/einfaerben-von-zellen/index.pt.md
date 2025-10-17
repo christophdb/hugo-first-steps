@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/pt/ajuda/einfaerben-von-zellen'
+url: '/pt/ajuda/colorir-celulas'
+aliases:
+    - '/pt/ajuda/einfaerben-von-zellen'
+seo:
+    title: 'Colorir células no SeaTable com regras e valores personaliz.'
+    description: 'Aprenda como colorir células no SeaTable usando regras ou valores próprios e destaque dados para melhor análise. Instruções passo a passo.'
 ---
 
 Ao contrário do Excel, não pode simplesmente colorir células no SeaTable como quiser, mas deve colori-las ou por **regras** definidas por si ou com base nos **valores** numa **coluna**. Parece complicado? Mas não é.

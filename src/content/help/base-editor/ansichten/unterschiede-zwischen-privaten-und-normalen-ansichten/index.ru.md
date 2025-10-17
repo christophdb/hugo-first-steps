@@ -5,7 +5,12 @@ lastmod: '2023-11-27'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/ru/pomoshch/unterschiede-zwischen-privaten-und-normalen-ansichten'
+url: '/ru/pomoshch/otlichiya-mezhdu-privatnymi-i-standartnymi-vidami'
+aliases:
+    - '/ru/pomoshch/unterschiede-zwischen-privaten-und-normalen-ansichten'
+seo:
+    title: 'Отличия приватных и стандартных видов в SeaTable'
+    description: 'Узнайте отличия приватных и обычных видов в SeaTable и почему приватные виды идеально подходят для персонального анализа данных.'
 ---
 
 {{< required-version "Предприятие" >}}

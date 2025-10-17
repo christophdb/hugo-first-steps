@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/es/ayuda/loeschen-einer-ansicht'
+url: '/es/ayuda/eliminar-vista'
+aliases:
+    - '/es/ayuda/loeschen-einer-ansicht'
+seo:
+    title: 'Eliminar una vista en SeaTable – guía rápida segura'
+    description: 'Descubre cómo eliminar vistas en SeaTable de forma sencilla y consulta preguntas frecuentes sobre restauración y eliminación.'
 ---
 
 Puede eliminar las vistas que se hayan creado incorrectamente o que hayan dejado de ser pertinentes en cualquier momento haciendo clic en el menú de vistas y seleccionando la opción **Eliminar** vista.

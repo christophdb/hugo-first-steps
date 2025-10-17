@@ -5,7 +5,12 @@ lastmod: '2023-03-28'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/es/ayuda/zeilenhoehe-anpassen'
+url: '/es/ayuda/ajustar-altura-filas'
+aliases:
+    - '/es/ayuda/zeilenhoehe-anpassen'
+seo:
+    title: 'Ajustar altura de filas en SeaTable para ver más datos'
+    description: 'Descubre cómo modificar la altura de las filas en SeaTable para mostrar más contenido. Guía paso a paso de todas las opciones.'
 ---
 
 Por defecto, SeaTable muestra todas las filas con una altura de fila compacta para mostrar el mayor número posible de registros. Sin embargo, con esta altura **de** fila simple, entre otras cosas, se cortan las [columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) y [selección]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) múltiple y solo se muestran pequeñas **miniaturas** de imágenes.

@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/pt/ajuda/loeschen-einer-ansicht'
+url: '/pt/ajuda/excluir-visualizacao'
+aliases:
+    - '/pt/ajuda/loeschen-einer-ansicht'
+seo:
+    title: 'Excluir uma visualização no SeaTable – passo a passo fácil'
+    description: 'Saiba como excluir visualizações no SeaTable com segurança, com respostas sobre restauração e exclusão. Tutorial simples passo a passo.'
 ---
 
 Pode apagar vistas que tenham sido criadas incorrectamente ou que se tenham tornado irrelevantes em qualquer altura, clicando no menu de visualização e seleccionando a opção **Apagar** Vista.

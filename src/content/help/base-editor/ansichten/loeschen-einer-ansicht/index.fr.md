@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/fr/aide/loeschen-einer-ansicht'
+url: '/fr/aide/supprimer-vue'
+aliases:
+    - '/fr/aide/loeschen-einer-ansicht'
+seo:
+    title: 'Supprimer une vue dans SeaTable – guide étape par étape'
+    description: 'Apprenez à supprimer une vue dans SeaTable facilement et découvrez les réponses pour restaurer ou effacer des vues.'
 ---
 
 Vous pouvez supprimer à tout moment les vues créées de manière incorrecte ou devenues non pertinentes en cliquant sur le menu des vues et en sélectionnant l'option **Supprimer la vue**.

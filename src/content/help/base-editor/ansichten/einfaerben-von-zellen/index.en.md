@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/help/einfaerben-von-zellen'
+url: '/help/color-cells'
+aliases:
+    - '/help/einfaerben-von-zellen'
+seo:
+    title: 'Color Cells in SeaTable Based on Rules and Values'
+    description: 'Learn to color cells in SeaTable using custom rules or values for easy data analysis and visual highlights. Step-by-step instructions included.'
 ---
 
 Unlike Excel, you can't just color cells arbitrarily in SeaTable, you have to color them either by **rules** you set or based on the **values** in a **column**. Sounds complicated? But it isn't.

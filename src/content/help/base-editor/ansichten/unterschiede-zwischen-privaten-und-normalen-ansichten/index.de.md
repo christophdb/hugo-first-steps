@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
 url: '/de/hilfe/unterschiede-zwischen-privaten-und-normalen-ansichten'
+seo:
+    title: 'Unterschiede zwischen privaten und normalen Ansichten in SeaTable'
+    description: 'Erfahren Sie, wie sich private und normale Ansichten in SeaTable unterscheiden und warum private Ansichten für persönliche Datenanalysen ideal sind.'
 ---
 
 {{< required-version "Enterprise" >}}
