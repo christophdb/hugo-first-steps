@@ -13,19 +13,13 @@ tags:
     - 'No Code & Low Code'
     - 'Digitale Transformation'
 color: '#9eced1'
-<<<<<<< HEAD
 register:
    show: true
-=======
-draft: true
-<!-- Hier bitte noch das Registry-Feld mit Default-Text in die Seitenleiste einfügen. -->
->>>>>>> 458926e524933c16b23b49ad7a184429e5629f17
 ---
 
 ## Die Herausforderungen des IT-Fachkräftemangels
 
 Allein in Deutschland fehlen laut aktueller Bitkom-Studie mehr als 100.000 IT-Fachkräfte; 85 Prozent der befragten Unternehmen sehen einen **Mangel an IT-Fachkräften auf dem deutschen Arbeitsmarkt**. Die konjunkturelle Eintrübung der deutschen Wirtschaft hat die Situation zwar etwas entschärft – zugleich schreitet die Digitalisierung aber weiter voran, sodass langfristig mehr IT-Experten benötigt werden. Dementsprechend ist der IT-Arbeitsmarkt in den letzten Jahren stark gewachsen und hat sich zunehmend ausdifferenziert. Nach Angaben der Bundesagentur für Arbeit sind bereits **etwa 1,5 Millionen IT-Fachkräfte in Deutschland** erwerbstätig.
-<!--Wie möchtest du den Einstieg in den anderen Sprachen formulieren? Für DE ist es so okay, aber such für die anderen Sprachen bitte eine allgemeine Formulierung.-->
 
 ### Warum der IT-Fachkräftemangel den Unternehmen schadet
 
@@ -53,12 +47,7 @@ Die größte Kluft besteht allerdings zwischen den **Gehaltsvorstellungen der Be
 
 ## Lösungen für den IT-Fachkräftemangel
 
-<<<<<<< HEAD
 Gesamtwirtschaftlich gibt es für den Fachkräftemangel nur eine Lösung: **die Anzahl an IT-Fachkräften zu erhöhen**, um die Nachfrage zu decken. Anstatt auf politische Erleichterungen und Anreize (z. B. für die Einwanderung von Fachkräften) zu hoffen, können Unternehmen aber auch selbst einiges bewegen.
-=======
-Gesamtwirtschaftlich gibt es für den Fachkräftemangel nur eine Lösung: **die Anzahl an IT-Fachkräften zu erhöhen**, um die Nachfrage zu decken. Anstatt auf politische Erleichterungen und Anreize (z. B. für die Einwanderung von Fachkräften) zu hoffen, können Unternehmen aber auch selbst einiges bewegen. Daher ist es unzureichend, wenn 29 Prozent der in der Bitkom-Studie befragten Unternehmen angeben, gar nichts gegen den IT-Fachkräftemangel zu tun.  
-<!--Ich finde die Aussage immer noch schwierig und sehe auch den Mehrwert nicht. Den letzten Satz bitte streichen.-->
->>>>>>> 458926e524933c16b23b49ad7a184429e5629f17
   
 Manche haben bereits **künstliche Intelligenz als potenzielle Lösung** auf dem Schirm, um dem Fachkräftemangel in der IT entgegenzuwirken. KI kann derzeit jedoch nur manuelle Prozesse ersetzen, die standardisierbar und automatisierbar sind. Insgesamt wird der vermehrte Einsatz von KI den Bedarf an IT-Spezialisten vermutlich sogar erhöhen – lediglich die Nachfrage nach bestimmten Berufsbildern sinkt.
 
@@ -86,11 +75,7 @@ Vor allem **technikaffine Mitarbeiter ohne tiefgreifende IT-Kenntnisse** – sog
 
 ## Warum No Code die Lösung sein kann
 
-<<<<<<< HEAD
 No Code ist ein Ansatz, der dem IT-Fachkräftemangel effektiv entgegenwirkt, indem er auch technikaffinen Anwendern ohne formale IT-Qualifikation ermöglicht, aktiv die digitale Transformation mitzugestalten. Dies bringt einen fundamentalen Paradigmenwechsel mit sich: Die traditionelle Softwareentwicklung erfordert das Erlernen von Programmiersprachen und eine langwierige Einarbeitung in Entwicklungstools. **Mit einer No-Code-Plattform kann hingegen prinzipiell jeder – ohne IT- und Programmierkenntnisse – eigene Anwendungen entwickeln**. Vorgefertigte Elemente lassen sich per Drag-and-Drop zu immer neuen Softwarelösungen zusammensetzen.  
-=======
-No Code ist ein Ansatz, der dem IT-Fachkräftemangel effektiv entgegenwirken kann <!--besser: entgegenwirkt, wir möchten No Code ja als Lösung präsentieren-->, indem er auch technikaffinen Anwendern ohne formale IT-Qualifikation ermöglicht, aktiv die digitale Transformation mitzugestalten. Dies bringt einen fundamentalen Paradigmenwechsel mit sich: Die traditionelle Softwareentwicklung erfordert das Erlernen von Programmiersprachen und eine langwierige Einarbeitung in Entwicklungstools. **Mit einer No-Code-Plattform kann hingegen prinzipiell jeder – ohne IT- und Programmierkenntnisse – eigene Anwendungen entwickeln**. Vorgefertigte Elemente lassen sich per Drag-and-Drop zu immer neuen Softwarelösungen zusammensetzen.  
->>>>>>> 458926e524933c16b23b49ad7a184429e5629f17
   
 Auf diese Weise können Mitarbeiter in Ihren Fachabteilungen **individuell auf ihre Prozesse zugeschnittene Anwendungen** entwickeln, was bisher speziell ausgebildete IT-Fachkräfte übernehmen mussten. Dies entlastet die IT-Abteilung und ermöglicht den Fachabteilungen, ihre Prozesse genau so abzubilden und zu digitalisieren, wie sie es wollen. Dadurch, dass die Fachabteilungen direkt am Entwicklungsprozess mitwirken und weniger Abstimmungs- und Warteschleifen notwendig sind, erhöht sich sowohl die **Geschwindigkeit der digitalen Transformation** als auch die **Passgenauigkeit der Lösungen**. Und zu guter Letzt benötigen die Unternehmen insgesamt weniger IT-Fachkräfte, die sich zudem auf anspruchsvollere Aufgaben konzentrieren können, die wirklich ihre Expertise erfordern.  
   
@@ -110,7 +95,7 @@ No-Code-Plattformen bringen Ihrem Unternehmen folgende Vorteile:
     
 -  **Senkung der Kosten**: Der Einsatz von No Code kann die Entwicklungskosten deutlich reduzieren, indem weniger teure Fachkräfte in kürzerer Zeit zu einem vergleichbaren oder sogar besseren Ergebnis kommen.
     
--  **Entlastung der IT-Abteilung**: Bei No Code sind die Rollen klar verteilt – die IT-Fachkräfte definieren den Rahmen, die Fachabteilungen liefern das Prozesswissen und erstellen selbst die Lösung. So entlastet No Code die IT, die das No Code Development nur steuern muss. <!--Warum schreibst du hier No Code Development ohne Bindestriche, weiter oben No-Code-Plattformen aber mit?-->
+-  **Entlastung der IT-Abteilung**: Bei No Code sind die Rollen klar verteilt – die IT-Fachkräfte definieren den Rahmen, die Fachabteilungen liefern das Prozesswissen und erstellen selbst die Lösung. So entlastet No Code die IT, die das No Code Development nur steuern muss. 
     
 -  **Höhere Flexibilität**: In einer schnelllebigen Arbeitswelt erlauben No Code Tools den Fachabteilungen, rasch auf Änderungen zu reagieren und selbst Anpassungen an ihren Prozessen vorzunehmen.
     
@@ -125,18 +110,12 @@ Mithilfe von SeaTable ist es ein Leichtes, die Vorteile der No-Code-Entwicklung 
 Im Gegensatz zu US-amerikanischen und anderen außereuropäischen Lösungen bietet SeaTable Ihnen sicheren **Datenschutz**: Wenn Sie die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) als No-Code-Plattform einführen, sind Ihre Daten DSGVO-konform in deutschen Rechenzentren gespeichert und vor der Weitergabe an Server in den USA und anderen Ländern geschützt.
   
 Noch ein Vorteil, mit dem [SeaTable als No-Code-Plattform]({{< relref "/" >}}) heraussticht, ist die **freie Wahl der Bereitstellungsart**. Profitieren Sie vom Komfort und der Skalierbarkeit der SeaTable Cloud oder behalten Sie mit einer On-Premises-Installation von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die volle Kontrolle und Datenhoheit.
-<<<<<<< HEAD
 
 {{< newsletter title="Bleiben Sie informiert" subtitle="" submit="Jetzt abonnieren" >}}
 
 Abonnieren Sie kostenlos unseren **Newsletter** und erhalten Sie regelmäßig relevante Neuigkeiten und Branchen-Einblicke!
 
 {{< /newsletter >}}
-=======
-  
-{{< button label="Jetzt kostenlos registrieren" link="/pages/registration" >}}
-<!--Statt dem Registrierungsbutton bitte das Newsletteranmeldeformular.-->
->>>>>>> 458926e524933c16b23b49ad7a184429e5629f17
 
 ## Fazit: Den IT-Fachkräftemangel mit No Code abfedern
 
@@ -149,7 +128,6 @@ Letztendlich können Sie mit No Code zusätzliche IT-Stellen einsparen, die Sie 
 {{< faq "Wie viele IT-Fachkräfte arbeiten in Deutschland?" >}}
 Laut Statistik der Bundesagentur für Arbeit lag die Zahl der erwerbstätigen IT-Fachkräfte 2024 bei rund 1,5 Millionen.
 {{< /faq >}}
-<!--Findest du noch eine andere FAQ? Die finde ich jetzt nicht so relevant.-->
 
 {{< faq "Warum verdient man in der IT so viel?" >}}
 Der Hauptgrund für das hohe Gehalt von IT-Fachkräften ist die starke Nachfrage nach bestimmten Qualifikationen aufgrund der zunehmenden Digitalisierung. Je nach Berufserfahrung und Spezialisierung kann ein IT-Experte deshalb deutlich mehr verdienen als der Durchschnitt.
@@ -159,15 +137,8 @@ Der Hauptgrund für das hohe Gehalt von IT-Fachkräften ist die starke Nachfrage
 Ja, es gibt mehr offene Stellen in der IT als Fachkräfte, die diese potenziell besetzen könnten. Allein in Deutschland fehlen nach Schätzung des Digitalverbandes Bitkom mehr als 100.000 IT-Fachkräfte. Das Ausmaß des IT-Fachkräftemangels ist in manchen Unternehmen, Branchen und Berufsgruppen jedoch deutlich höher als in anderen.  
 {{< /faq >}}  
 
-<<<<<<< HEAD
 {{< faq "Kann No Code IT Jobs ersetzen?" >}}
 Nein, IT Jobs werden durch No Code nicht obsolet und professionelle IT-Fachkräfte sind weiterhin sehr gefragt. No Code verändert lediglich das Berufsbild des klassischen Softwareentwicklers hin zu einem No Code Developer, der sich stärker um die Konfiguration von No-Code-Plattformen und die Betreuung von Citizen Developern kümmert. Dadurch können Unternehmen fehlendes IT-Personal kompensieren und die Digitalisierung beschleunigen.  
-=======
-{{< faq "Gefährdet No Code IT Jobs? " >}}
-<!--Die Frage bitte positiv formulieren. Dieses Bild möchten wir gar nicht erst erzeugen.-->
-Nein, IT Jobs werden durch No Code nicht obsolet und professionelle IT-Fachkräfte sind weiterhin sehr gefragt. No Code verändert lediglich das Berufsbild des klassischen Softwareentwicklers hin zu einem No Code Developer, der sich stärker um die Konfiguration von No-Code-Plattformen und die Betreuung von Citizen Developern kümmert. Dadurch können Unternehmen fehlendes IT-Personal kompensieren.  
->>>>>>> 458926e524933c16b23b49ad7a184429e5629f17
-{{< /faq >}}
 
 {{< faq "Für welche Aufgaben bleiben IT-Fachkräfte unverzichtbar?" >}}
 Zurzeit werden IT-Fachkräfte in Deutschland für alle Bereiche gesucht. Tendenziell könnte in Zukunft jedoch die Nachfrage nach klassischen IT-Jobs aufgrund von Automatisierung, No Code und künstlicher Intelligenz sinken. IT-Experten für komplexe, unternehmenskritische Infrastruktur (z. B. IT-Security-Spezialisten, Datenbankentwickler und IT-Architekten) werden unverzichtbar bleiben. Zudem ist damit zu rechnen, dass die Nachfrage nach Spezialisierungen auf KI, No Code und Automatisierung steigt.
