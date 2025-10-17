@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/es/ayuda/verschieben-einer-tabelle'
+url: '/es/ayuda/mover-tabla'
+aliases:
+    - '/es/ayuda/verschieben-einer-tabelle'
+seo:
+    title: 'Mover tablas en SeaTable – guía sencilla paso a paso'
+    description: 'Descubre cómo mover tablas en SeaTable con drag-and-drop o desde el menú para organizar y gestionar mejor tus datos de forma fácil.'
 ---
 
 A más tardar cuando tu base se haya llenado gradualmente con varias mesas, es hora de pensar en un **orden sensato de las mesas** de tu base. **Coloca** las mesas relacionadas temáticamente unas junto a otras y coloca las más importantes en la parte superior. Ya lo verás: Gracias a **la función de arrastrar y soltar**, mover mesas es un juego de niños.

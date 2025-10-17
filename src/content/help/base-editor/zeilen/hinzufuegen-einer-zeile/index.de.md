@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
 url: '/de/hilfe/hinzufuegen-einer-zeile'
+seo:
+    title: 'Neue Zeile in SeaTable hinzufügen – alle Wege erklärt'
+    description: 'Erfahren Sie, wie Sie in SeaTable neue Zeilen anlegen – per Plus-Symbol, Kontextmenü, Shortcut oder Plugin. Inklusive Hinweise zu Berechtigungen.'
 ---
 
 Es gibt in SeaTable mehrere Möglichkeiten, eine **neue Zeile** hinzuzufügen. Die verschiedenen Möglichkeiten werden Sie in diesem Artikel kennenlernen.

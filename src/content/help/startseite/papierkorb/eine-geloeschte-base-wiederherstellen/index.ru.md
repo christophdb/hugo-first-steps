@@ -5,7 +5,12 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-geloeschte-base-wiederherstellen'
+url: '/ru/pomoshch/vosstanovit-udalennuyu-bazu'
+aliases:
+    - '/ru/pomoshch/eine-geloeschte-base-wiederherstellen'
+seo:
+    title: 'Восстановить удаленную базу в SeaTable – подробная инструкция'
+    description: 'Узнайте, как восстановить удаленные базы в SeaTable с помощью корзины: сроки восстановления, ограничения и практические советы.'
 ---
 
 Базы, созданные в разделе "Мои базы" или в группах, могут быть удалены и при необходимости восстановлены из соответствующей корзины. Обратите внимание, что восстановление возможно не более чем через 30 дней после удаления базы. По истечении этого срока удаленные базы навсегда удаляются из SeaTable и восстановить их уже невозможно.

@@ -5,7 +5,12 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/es/ayuda/die-besonderheiten-der-ersten-spalte'
+url: '/es/ayuda/particularidades-primera-columna'
+aliases:
+  - '/es/ayuda/die-besonderheiten-der-ersten-spalte'
+seo:
+    title: 'Particularidades de la primera columna en SeaTable detalladas'
+    description: 'Descubre qué la hace especial, los tipos permitidos y limitaciones en SeaTable. Aprende a ajustar su configuración fácilmente.'
 ---
 
 La **primera** columna de una tabla en SeaTable tiene varias características especiales y restricciones en comparación con las otras columnas. Aquí puede averiguar cómo personalizar la primera columna en SeaTable.

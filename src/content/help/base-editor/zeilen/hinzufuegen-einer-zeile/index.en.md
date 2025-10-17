@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/help/hinzufuegen-einer-zeile'
+url: '/help/add-row'
+aliases:
+    - '/help/hinzufuegen-einer-zeile'
+seo:
+    title: 'Add a New Row in SeaTable – All Methods at a Glance'
+    description: 'Learn how to add new rows in SeaTable using the plus icon, right-click menu, keyboard shortcuts, or plugins. Includes permission tips.'
 ---
 
 There are several ways to add a **new row** in SeaTable. You will learn about the different possibilities in this article.

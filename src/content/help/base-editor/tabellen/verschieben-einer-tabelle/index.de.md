@@ -6,6 +6,9 @@ categories:
   - "arbeiten-in-tabellen"
 author: "nsc2"
 url: "/de/hilfe/verschieben-einer-tabelle"
+seo:
+    title: 'Tabelle in SeaTable einfach verschieben – Anleitung'
+    description: 'Erfahren Sie, wie Sie Tabellen in SeaTable per Drag-and-Drop oder Drop-down-Menü in der gewünschten Reihenfolge anordnen und strukturieren.'
 ---
 
 Spätestens, wenn sich Ihre Base nach und nach mit diversen Tabellen gefüllt hat, ist es an der Zeit, über eine **sinnvolle Reihenfolge der Tabellen** in Ihrer Base nachzudenken. **Verschieben** Sie thematisch zusammengehörige Tabellen nebeneinander und stellen Sie die wichtigsten Tabellen an den Anfang. Sie werden sehen: Dank **Drag-and-Drop** ist das Verschieben ein Kinderspiel.

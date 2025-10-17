@@ -5,7 +5,12 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/pomoshch/die-besonderheiten-der-ersten-spalte'
+url: '/ru/pomoshch/osobennosti-pervoy-kolonki'
+aliases:
+  - '/ru/pomoshch/die-besonderheiten-der-ersten-spalte'
+seo:
+    title: 'Особенности первой колонки в SeaTable: все детали'
+    description: 'Узнайте обо всех особенностях, ограничениях и вариантах настройки первой колонки в SeaTable, а также доступных типах столбцов.'
 ---
 
 **Первый столбец** таблицы в SeaTable имеет ряд особенностей и ограничений по сравнению с другими столбцами. Здесь вы узнаете, как настроить первый столбец в SeaTable.

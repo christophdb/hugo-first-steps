@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
+url: '/ru/pomoshch/nayti-yacheyku-ili-znachenie'
+aliases:
+    - '/ru/pomoshch/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
+seo:
+    title: 'Найти ячейку или значение в SeaTable – руководство'
+    description: 'Узнайте, как быстро искать ячейки и значения в SeaTable: поиск по таблице, горячие клавиши и советы для удобной работы с данными.'
 ---
 
 Таблицы в SeaTable могут содержать тысячи записей данных. Чтобы вы могли быстро и легко найти отдельные ячейки или значения, SeaTable предлагает возможность поиска отдельных значений и терминов.

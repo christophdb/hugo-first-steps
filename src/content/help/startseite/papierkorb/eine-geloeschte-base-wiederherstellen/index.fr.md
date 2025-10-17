@@ -5,7 +5,12 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/fr/aide/eine-geloeschte-base-wiederherstellen'
+url: '/fr/aide/recuperer-base-supprimee'
+aliases:
+    - '/fr/aide/eine-geloeschte-base-wiederherstellen'
+seo:
+    title: 'Récupérerr une base supprimée dans SeaTable – explications'
+    description: 'Découvrez comment récupérer une base supprimée dans SeaTable via la corbeille ou le groupe. Toutes les limites et étapes expliquées clairement.'
 ---
 
 Les bases que vous avez créées sous "Mes bases" ou dans des groupes peuvent être supprimées et, si nécessaire, restaurées à partir de la corbeille correspondante. Notez qu'une restauration n'est possible que jusqu'à 30 jours après la suppression d'une base. Passé ce délai, les bases supprimées seront définitivement retirées de SeaTable et ne pourront plus être restaurées.

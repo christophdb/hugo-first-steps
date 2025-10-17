@@ -5,7 +5,12 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/es/ayuda/eine-geloeschte-base-wiederherstellen'
+url: '/es/ayuda/restaurar-base-eliminada'
+aliases:
+    - '/es/ayuda/eine-geloeschte-base-wiederherstellen'
+seo:
+    title: 'Restaurar una base eliminada en SeaTable – guía completa'
+    description: 'Descubre cómo restaurar bases eliminadas en SeaTable mediante la papelera, incluyendo plazos y advertencias clave para una recuperación segura.'
 ---
 
 Las bases que hayas creado en "Mis bases" o en grupos pueden borrarse y, si es necesario, restaurarse desde la papelera correspondiente. Tenga en cuenta que una restauración sólo es posible hasta un máximo de 30 días después de la eliminación de una base. Después de este tiempo, las bases borradas se eliminan permanentemente de SeaTable y ya no se pueden restaurar.

@@ -5,7 +5,12 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/help/die-besonderheiten-der-ersten-spalte'
+url: '/help/first-column-features'
+aliases:
+  - '/help/die-besonderheiten-der-ersten-spalte'
+seo:
+    title: 'First Column in SeaTable – Features and Specifics Explained'
+    description: 'Learn all the unique attributes of the first column in SeaTable, including supported types, restrictions, and step-by-step adjustability.'
 ---
 
 The **first column** of a table in SeaTable has several special features and restrictions compared to the other columns. Here you can find out how to customize the first column in SeaTable.
