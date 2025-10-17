@@ -139,6 +139,7 @@ Ja, es gibt mehr offene Stellen in der IT als Fachkräfte, die diese potenziell 
 
 {{< faq "Kann No Code IT Jobs ersetzen?" >}}
 Nein, IT Jobs werden durch No Code nicht obsolet und professionelle IT-Fachkräfte sind weiterhin sehr gefragt. No Code verändert lediglich das Berufsbild des klassischen Softwareentwicklers hin zu einem No Code Developer, der sich stärker um die Konfiguration von No-Code-Plattformen und die Betreuung von Citizen Developern kümmert. Dadurch können Unternehmen fehlendes IT-Personal kompensieren und die Digitalisierung beschleunigen.  
+{{< /faq >}}
 
 {{< faq "Für welche Aufgaben bleiben IT-Fachkräfte unverzichtbar?" >}}
 Zurzeit werden IT-Fachkräfte in Deutschland für alle Bereiche gesucht. Tendenziell könnte in Zukunft jedoch die Nachfrage nach klassischen IT-Jobs aufgrund von Automatisierung, No Code und künstlicher Intelligenz sinken. IT-Experten für komplexe, unternehmenskritische Infrastruktur (z. B. IT-Security-Spezialisten, Datenbankentwickler und IT-Architekten) werden unverzichtbar bleiben. Zudem ist damit zu rechnen, dass die Nachfrage nach Spezialisierungen auf KI, No Code und Automatisierung steigt.
