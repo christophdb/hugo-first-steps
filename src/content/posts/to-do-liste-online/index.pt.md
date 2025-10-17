@@ -11,8 +11,8 @@ url: '/pt/lista-tarefas-online'
 aliases:
     - /pt/to-do-liste-online
 seo:
-    title:
-    description:
+    title: 'Criar Lista de Tarefas Online | Melhor App'
+    description: 'Descubra o melhor aplicativo para sua lista de tarefas e crie sua lista online facilmente com um modelo pronto para uso.'
 ---
 
 Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantagens. Isto porque uma **lista** de tarefas ajuda-o a gerir eficazmente as suas tarefas, tanto na sua vida privada como na sua atividade diária, e a não se esquecer de nada no stress do dia a dia. Leia este artigo para saber por que razão deve utilizar um **modelo** para a sua lista de tarefas e qual a melhor **aplicação** para uma lista de tarefas.

@@ -12,8 +12,8 @@ aliases:
     - /to-do-liste-online
 color: '#ca9fb9'
 seo:
-    title:
-    description:
+    title: 'Create To-Do List Online | Best App & Templates'
+    description: 'Discover the best app for your to-do list and easily create your task list online with a ready-to-use template.'
 ---
 
 Creating and managing an online to-do list with an app has many advantages. This is because a **to-do list** helps you to manage your tasks efficiently both in your private life and in your day-to-day business and not forget anything in stressful everyday life. Read this article to find out why you should use a **template** for your to-do list and which **app** is best for a to-do list.

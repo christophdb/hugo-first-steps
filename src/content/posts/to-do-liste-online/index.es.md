@@ -12,8 +12,8 @@ aliases:
     - /es/to-do-liste-online
 color: '#ca9fb9'
 seo:
-    title:
-    description:
+    title: 'Crear Lista de Tareas Online | Mejor App'
+    description: 'Descubra la mejor aplicación para su lista de tareas y cree su lista en línea fácilmente con una plantilla lista para usar.'
 ---
 
 Crear y gestionar una lista de tareas pendientes en línea con una aplicación tiene muchas ventajas. Esto se debe a que una lista de tareas **pendientes** te ayuda a gestionar tus tareas de forma eficiente tanto en tu vida privada como en tu día a día y a no olvidar nada en el estresante día a día. Lee este artículo para descubrir por qué deberías utilizar una **plantilla** para tu lista de tareas y qué **aplicación** es la mejor para una lista de tareas.
