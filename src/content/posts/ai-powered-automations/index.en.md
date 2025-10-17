@@ -6,7 +6,7 @@ lastmod: '2025-10-14'
 url: '/ai-automations-data-privacy'
 seo:
     title: 'AI made in Europe: SeaTable brings secure AI powered automations to the cloud'
-    description: 'Experience secure AI powered automations in the cloud with SeaTable 6.0. Our solution combines cutting-edge AI technology with European data protection – operated on our own AI server in Germany.'
+    description: 'Experience AI-powered automation with SeaTable 6.0 – secure cloud solutions combining innovation and German data privacy.'
 categories:
     - 'product-features'
 tags:

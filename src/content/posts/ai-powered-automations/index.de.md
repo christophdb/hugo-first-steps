@@ -5,8 +5,8 @@ date: '2025-09-30'
 lastmod: '2025-10-14'
 url: '/ki-automationen-datenschutz'
 seo:
-    title: 'KI made in Europe: SeaTable bringt sichere KI unterstützte Automationen in die Cloud'
-    description: 'Erleben Sie mit SeaTable 6.0 sichere KI gestützte Automationen in der Cloud. Unsere Lösung vereint modernste KI-Technologie mit europäischem Datenschutz – betrieben auf eigenem KI-Server in Deutschland.'
+    title: 'SeaTable 6.0 – Sichere KI-Automationen made in Europe'
+    description: 'Erleben Sie mit SeaTable 6.0 sichere KI-Automationen in der Cloud – modernste Technologie mit deutschem Datenschutz. '
 categories:
     - 'product-features'
 tags:

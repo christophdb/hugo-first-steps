@@ -5,8 +5,8 @@ date: '2025-09-30'
 lastmod: '2025-10-14'
 url: '/fr/ia-automatisations-protection-donnees'
 seo:
-    title: 'IA conçue en Europe : SeaTable apporte des automatisations sécurisées alimentées par l’IA dans le cloud'
-    description: 'Découvrez des automatisations sécurisées alimentées par l’IA dans le cloud avec SeaTable 6.0. Notre solution associe une technologie IA de pointe à la protection des données européenne – exploitée sur notre propre serveur IA en Allemagne.'
+    title: 'SeaTable 6.0 – Automatisation IA sûre, made in Europe'
+    description: "Découvrez avec SeaTable 6.0 une automatisation IA sécurisée dans le cloud, alliant innovation et confidentialité allemande."
 categories:
     - 'product-features'
 tags:
