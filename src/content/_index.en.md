@@ -117,10 +117,10 @@ sections:
   - curved
   items:
   - headline: "Convenient No-Code App Builder"
-    text: "With SeaTable, you can create powerful, data-based applications quickly and intuitively using drag-and-drop - without any programming knowledge. The no-code app builder enables you to put together a wide variety of solutions such as CRM, project management or individual business apps yourself, without having to write a single line of code."
+    text: 'With SeaTable, you can create powerful, data-based applications quickly and intuitively using drag-and-drop - without any programming knowledge. The [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}) enables you to put together a wide variety of solutions such as CRM, project management or individual business apps yourself, without having to write a single line of code.'
 
   - headline: "Intuitive no-code and low-code user interface"
-    text: "Whether you are an experienced developer or a citizen developer with no programming skills, our tools are designed to meet all your app building needs and digitize your business processes. Start right here: create your own app for free."
+    text: 'Whether you are an experienced developer or a [citizen developer]({{< relref "posts/20250317-citizen-developer" >}}) with no programming skills, our tools are designed to meet all your app building needs and digitize your business processes. Start right here: create your own app for free.'
 
   - headline: "Collaborative working in real time for teams"
     text: "SeaTable promotes collaboration in your team through real-time synchronization and shared workspaces. Everyone in the team can access the same data at the same time, make changes and see what others are working on.<br/><br/>This makes SeaTable an ideal tool for teams who want to work together on projects and increase their productivity. Our no-code/low-code platform also supports collaborative work through commenting and sharing features, helping you to optimize your teamwork."
@@ -152,7 +152,7 @@ sections:
   weight: 7
   title: "Start your next team project with our no-code templates"
   subtitle: Get started now
-  description: "With the SeaTable no-code platform, you can start new team projects particularly efficiently: import ready-made, customizable templates directly into your SeaTable account with just one click. This allows you to immediately implement structured processes, save valuable time during digitalization and benefit from flexible best-practice solutions for every use case."
+  description: 'With the SeaTable no-code platform, you can start new team projects particularly efficiently: import ready-made, customizable [no-code templates]({{< relref "templates/_index.de.md" >}}) directly into your SeaTable account with just one click. This allows you to immediately implement structured processes, save valuable time during digitalization and benefit from flexible best-practice solutions for every use case.'
   items:
   - headline: "Working time recording"
     text: Human resources
@@ -321,7 +321,7 @@ sections:
   - text: "Data security is a top priority at SeaTable. Our platform offers robust security features to reliably protect your data."
   - text: "You are always in control of your information and can be sure that your data is managed according to the latest data protection standards.
     The SeaTable no-code platform ensures that your data is stored securely and compliant with applicable data protection regulations."
-  - text: "The SeaTable Cloud is hosted in certified German data centers of a Swiss provider. Registration only takes a few seconds."
+  - text: 'The SeaTable Cloud is hosted in [certified German data centers]({{< relref "posts/die-seatable-cloud-wird-europaeischer" >}}) of a Swiss provider. Registration only takes a few seconds.'
   - text: "With your own server, you decide where SeaTable stores your data. You have full data sovereignty."
   buttons:
   - label: "Find out more about the different versions"

@@ -115,10 +115,10 @@ sections:
   - curved
   items:
   - headline: "Constructor de aplicaciones sin código Komfortabler"
-    text: "Con SeaTable, puede crear potentes aplicaciones basadas en datos de forma rápida e intuitiva mediante la función de arrastrar y soltar, sin necesidad de tener conocimientos de programación. El creador de aplicaciones sin código le permite montar usted mismo una amplia variedad de soluciones como CRM, gestión de proyectos o aplicaciones empresariales personalizadas, sin tener que escribir una sola línea de código." 
+    text: 'Con SeaTable, puede crear potentes aplicaciones basadas en datos de forma rápida e intuitiva mediante la función de arrastrar y soltar, sin necesidad de tener conocimientos de programación. El creador de [aplicaciones sin código]({{< relref "posts/20250318-app-erstellen" >}}) le permite montar usted mismo una amplia variedad de soluciones como CRM, gestión de proyectos o aplicaciones empresariales personalizadas, sin tener que escribir una sola línea de código.'
 
   - headline: "Interfaz intuitiva no-code y low-code"
-    text: "Tanto si usted es un desarrollador experimentado o un ciudadano sin conocimientos de programación, nuestras herramientas están diseñadas para satisfacer todas sus necesidades de creación de aplicaciones y digitalizar sus procesos comerciales. Empiece aquí mismo: cree su propia aplicación gratis."
+    text: 'Tanto si usted es un desarrollador experimentado o un [ciudadano sin conocimientos de programación]({{< relref "posts/20250317-citizen-developer" >}}), nuestras herramientas están diseñadas para satisfacer todas sus necesidades de creación de aplicaciones y digitalizar sus procesos comerciales. Empiece aquí mismo: cree su propia aplicación gratis.'
 
   - headline: "Trabajo colaborativo en tiempo real para equipos"
     text: "SeaTable fomenta la colaboración en su equipo mediante la sincronización en tiempo real y los espacios de trabajo compartidos. Todos los miembros del equipo pueden acceder a los mismos datos al mismo tiempo, realizar cambios y ver en qué están trabajando los demás.<br/><br/>Esto hace de SeaTable una herramienta ideal para equipos que quieren trabajar juntos en proyectos y aumentar su productividad. Nuestra plataforma no-code/low-code también soporta trabajo colaborativo mediante funciones de comentarios y compartir, ayudándole a optimizar el trabajo en su equipo."
@@ -150,7 +150,7 @@ sections:
   weight: 7
   title: "Comience su próximo proyecto en equipo con nuestras plantillas sin código"
   subtitle: Empezar ahora
-  description: "Con la plataforma sin código SeaTable, puede iniciar nuevos proyectos de equipo de forma especialmente eficaz: importe plantillas ya preparadas y personalizables directamente a su cuenta SeaTable con un solo clic. Esto le permite implementar procesos estructurados de inmediato, ahorrar un tiempo valioso durante la digitalización y beneficiarse de soluciones flexibles de mejores prácticas para cada caso de uso."
+  description: 'Con la plataforma sin código SeaTable, puede iniciar nuevos proyectos de equipo de forma especialmente eficaz: importe [plantillas sin código]({{< relref "templates/_index.de.md" >}}) ya preparadas y personalizables directamente a su cuenta SeaTable con un solo clic. Esto le permite implementar procesos estructurados de inmediato, ahorrar un tiempo valioso durante la digitalización y beneficiarse de soluciones flexibles de mejores prácticas para cada caso de uso.'
   items:
   - headline: "Registro de tiempo de trabajo"
     text: Recursos humanos
@@ -316,7 +316,7 @@ sections:
   items:
   - text: "La seguridad de datos es prioridad máxima en SeaTable. Nuestra plataforma ofrece robustas características de seguridad para proteger su información de manera confiable."
   - text: "Siempre tiene control sobre su información y puede estar seguro de que sus datos se gestionan según los últimos estándares de protección de datos. La plataforma no-code de SeaTable garantiza que sus datos se almacenen de forma segura y conforme a las regulaciones de protección de datos aplicables."
-  - text: "SeaTable Cloud se aloja en centros de datos alemanes certificados de un proveedor suizo. El registro solo toma unos segundos."
+  - text: 'SeaTable Cloud se aloja en [centros de datos alemanes certificados]({{< relref "posts/die-seatable-cloud-wird-europaeischer" >}}) de un proveedor suizo. El registro solo toma unos segundos.'
   - text: "Con su propio servidor, usted decide dónde almacena SeaTable sus datos. Usted tiene plena soberanía sobre sus datos."
   buttons:
   - label: "Conocer más sobre las diferentes versiones"
