@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+url: '/ru/pomoshch/obyazatelnaya-2fa-dlya-vsey-komandy'
+aliases:
+    - '/ru/pomoshch/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+seo:
+    title: 'Обязательная 2FA для всей команды в SeaTable: настройка'
+    description: 'Узнайте, как принудительно включить двухфакторную аутентификацию для всех участников команды в SeaTable для максимальной безопасности данных.'
+
 ---
 
 **Двухфакторная аутентификация** позволяет установить второй барьер безопасности в дополнение к личным паролям пользователей. Это также гарантирует, что только каждый член команды может лично получить доступ к своей учетной записи, даже если пароль знает другой человек.

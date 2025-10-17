@@ -5,7 +5,13 @@ lastmod: '2024-05-10'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/fr/aide/limitationen-beim-csv-excel-import'
+url: '/fr/aide/limitations-import-csv-excel'
+aliases:
+    - '/fr/aide/limitationen-beim-csv-excel-import'
+seo:
+    title: 'Limitations pour import CSV/Excel dans SeaTable en détail'
+    description: 'Découvrez toutes les limitations lors de l’import de fichiers CSV ou Excel avec SeaTable Cloud et Serveur. Nombre de lignes, taille de fichier et conseils.'
+
 ---
 
 SeaTable dispose d'une fonction d'importation puissante pour vous permettre d'**importer** aussi facilement que possible **des enregistrements à partir de fichiers XLSX ou CSV**. Dans la plupart des cas, l'importation se fait sans difficulté. Si vous essayez d'importer trop d'enregistrements à la fois, SeaTable vous indiquera la limite à ne pas dépasser. Alors que les serveurs SeaTable auto-hébergés vous permettent de choisir librement les **limites de taille de fichier et de nombre de lignes**, SeaTable Cloud vous impose certaines limites.

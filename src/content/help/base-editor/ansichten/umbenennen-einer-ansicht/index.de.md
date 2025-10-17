@@ -6,6 +6,9 @@ categories:
   - "grundlagen-von-ansichten"
 author: "vge"
 url: "/de/hilfe/umbenennen-einer-ansicht"
+seo:
+    title: 'Ansicht in SeaTable umbenennen – Name ändern leicht gemacht'
+    description: 'Anleitung: So benennen Sie Ansichten in SeaTable um. Schritt für Schritt den Namen ändern, für besseren Überblick und optimal strukturierte Daten.'
 ---
 
 Für den optimalen Überblick über die Daten in Ihrer Tabelle bietet SeaTable Ihnen **Ansichten**, in denen Sie Ihre Filter, Sortierungen und Gruppierungen speichern können. Diesen Ansichten sollten Sie einen aussagekräftigen Namen geben. Auch nachträglich können Sie jederzeit Ihre **Ansichten umbenennen**.

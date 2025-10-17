@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
 url: '/de/hilfe/tabellen-miteinander-verlinken'
+seo:
+    title: 'Tabellen in SeaTable miteinander verlinken – Anleitung'
+    description: 'Erfahren Sie, wie Sie mit Verknüpfungsspalten Zeilen zwischen Tabellen verbinden und effizient Beziehungen aufbauen. Schritt für Schritt erklärt.'
+
 ---
 
 SeaTable wirkt auf den ersten Blick wie eine Tabellenkalkulation, funktioniert aber an vielen Stellen wie eine Datenbank. Die Tabellen in SeaTable stehen nicht isoliert für sich, sondern können mithilfe einer [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) Zeilen miteinander in Beziehung setzen.

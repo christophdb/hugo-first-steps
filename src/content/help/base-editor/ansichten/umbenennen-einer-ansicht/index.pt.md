@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/pt/ajuda/umbenennen-einer-ansicht'
+url: '/pt/ajuda/renomear-visualizacao'
+aliases:
+    - '/pt/ajuda/umbenennen-einer-ansicht'
+seo:
+    title: 'Renomear uma visualização no SeaTable – fácil e rápido'
+    description: 'Veja como renomear visualizações no SeaTable e facilite a organização dos seus dados. Tutorial prático e passo a passo.'
 ---
 
 Para uma visão optimizada dos dados na sua tabela, SeaTable oferece-lhe **vistas** nas quais pode guardar os seus filtros, ordenações e agrupamentos. Deve dar um nome significativo a estes pontos de vista. Pode também **renomear** as suas opiniões em qualquer altura mais tarde.

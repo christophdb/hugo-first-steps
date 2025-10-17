@@ -5,7 +5,13 @@ lastmod: '2023-01-07'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/pt/ajuda/einfuehrung-in-die-arbeit-mit-gruppen'
+url: '/pt/ajuda/introducao-trabalho-grupos'
+aliases:
+    - '/pt/ajuda/einfuehrung-in-die-arbeit-mit-gruppen'
+seo:
+    title: 'Introdução ao trabalho em grupos no SeaTable – colaboração fácil'
+    description: 'Veja como grupos no SeaTable facilitam a colaboração, organizam permissões de acesso e otimizam fluxos de trabalho. Guia prático e passo a passo completo.'
+
 ---
 
 Dentro de uma equipa, nem todos os membros da equipa têm automaticamente acesso a todas as bases. Pelo contrário: quando se cria uma nova base, inicialmente só você, como criador, tem acesso a esta base - e é nas suas mãos que está autorizado a trabalhar em conjunto nesta nova base. Para cada membro da equipa que deve ter acesso à base, deve ser criada uma versão de base correspondente.

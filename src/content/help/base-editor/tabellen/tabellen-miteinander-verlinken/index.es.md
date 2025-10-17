@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/es/ayuda/tabellen-miteinander-verlinken'
+url: '/es/ayuda/enlazar-tablas'
+aliases:
+    - '/es/ayuda/tabellen-miteinander-verlinken'
+seo:
+    title: 'Enlazar tablas en SeaTable – cómo crear relaciones eficaces'
+    description: 'Descubre cómo vincular filas entre tablas en SeaTable usando columnas de enlace y construir relaciones útiles. Todo explicado paso a paso.'
+
 ---
 
 A primera vista, SeaTable parece una hoja de cálculo, pero en muchos puntos funciona como una base de datos. Las tablas de SeaTable no están aisladas, sino que pueden relacionar filas entre sí mediante una [columna de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

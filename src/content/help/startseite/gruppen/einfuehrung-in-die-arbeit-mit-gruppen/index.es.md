@@ -5,7 +5,13 @@ lastmod: '2023-01-07'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/es/ayuda/einfuehrung-in-die-arbeit-mit-gruppen'
+url: '/es/ayuda/introduccion-trabajo-grupos'
+aliases:
+    - '/es/ayuda/einfuehrung-in-die-arbeit-mit-gruppen'
+seo:
+    title: 'Introducción al trabajo con grupos en SeaTable – fácil y rápido'
+    description: 'Descubre cómo los grupos en SeaTable facilitan el trabajo colaborativo y gestionan accesos. Guía de ventajas y pasos para configurarlos correctamente.'
+
 ---
 
 Dentro de un equipo, no todos sus miembros tienen acceso automático a todas las bases. Al contrario: cuando creas una nueva base, inicialmente sólo tú como creador tienes acceso a esta base - y está en tus manos a quién se le permite trabajar conjuntamente en esta nueva base. Para cada miembro del equipo que vaya a tener acceso a la base, debe crearse la correspondiente liberación de base.

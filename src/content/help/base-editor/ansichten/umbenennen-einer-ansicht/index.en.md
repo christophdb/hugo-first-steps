@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/umbenennen-einer-ansicht'
+url: '/help/rename-view'
+aliases:
+    - '/help/umbenennen-einer-ansicht'
+seo:
+    title: 'Rename a View in SeaTable – Change the Name Easily'
+    description: 'Learn how to rename views in SeaTable quickly and keep your data optimally structured. Step-by-step instructions for more clarity.'
 ---
 
 For the optimal overview of the data in your table, SeaTable offers you **views** in which you can store your filters, sorts and groupings. You should give these views a meaningful name. Even afterwards, you can **rename** your views at any time.
