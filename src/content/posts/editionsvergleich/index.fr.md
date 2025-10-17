@@ -9,8 +9,8 @@ url: '/fr/comparatif-editions'
 aliases:
     - /fr/editionsvergleich
 seo:
-    title: 'Comparaison entre les éditions Developer et Enterprise de SeaTable'
-    description: 'La plateforme no-code auto-hébergée SeaTable est disponible en deux éditions. Vous trouverez ici tous les détails ainsi que les cas d’usage possibles pour les éditions Enterprise et Developer.'
+    title: 'SeaTable : Developer et Enterprise Edition comparées'
+    description: "SeaTable propose deux éditions No-Code auto-hébergées : Enterprise et Developer. Découvrez fonctionnalités et cas d'usage."
 ---
 
 SeaTable Server est SeaTable pour votre propre serveur. En installant SeaTable sur votre propre infrastructure, vous avez un contrôle total sur l'emplacement de vos données et sur les personnes qui y ont accès. SeaTable est donc également recommandé pour les cas d'application dans lesquels vous ne souhaitez pas confier vos données à l'extérieur. Vous pouvez également utiliser SeaTable Server uniquement sur votre réseau local, sans possibilité d'accès via Internet.
