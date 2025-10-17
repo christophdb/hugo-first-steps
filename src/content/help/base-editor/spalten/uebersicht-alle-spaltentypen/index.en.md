@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'cdb'
-url: '/help/uebersicht-alle-spaltentypen'
+url: '/help/overview-all-column-types'
+aliases:
+    - '/help/uebersicht-alle-spaltentypen'
+seo:
+    title: 'Overview of All Column Types in SeaTable – Functions Explained'
+    description: 'Discover all 25 column types in SeaTable: text, number, file, selection fields, formulas, relations and more. Key features and best use cases included.'
+
 weight: 1
 ---
 

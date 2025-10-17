@@ -5,7 +5,13 @@ lastmod: '2024-08-01'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/help/ansichten'
+url: '/help/views'
+aliases:
+    - '/help/ansichten'
+seo:
+    title: 'Views and Plugins in SeaTable – All Visualization Options'
+    description: 'Learn all about table views and plugins in SeaTable: spreadsheets, statistics, Kanban, gallery, maps, and more. Activate, customize and get the most out.'
+
 ---
 
 Depending on the task and the collected data, different **display modes** are useful to facilitate your work in SeaTable. SeaTable offers you views for this purpose on the one hand: Quantitative data is best captured in the table view, structured with filters, sorting and grouping, and analyzed with the help of **statistics**.

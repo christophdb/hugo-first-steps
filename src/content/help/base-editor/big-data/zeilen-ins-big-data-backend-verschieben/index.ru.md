@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/pomoshch/zeilen-ins-big-data-backend-verschieben'
+url: '/ru/pomoshch/peremestit-stroki-v-big-data-backend'
+aliases:
+    - '/ru/pomoshch/zeilen-ins-big-data-backend-verschieben'
+seo:
+    title: 'Переместить строки в Big Data хранилище SeaTable – инструкция'
+    description: 'Узнайте, как переносить, архивировать и возвращать строки в Big Data хранилище SeaTable. Подробный разбор активации и отображения данных.'
+
 ---
 
 {{< required-version "Предприятие" >}}

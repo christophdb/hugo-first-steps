@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/help/zeilen-ins-big-data-backend-verschieben'
+url: '/help/move-rows-big-data-backend'
+aliases:
+    - '/help/zeilen-ins-big-data-backend-verschieben'
+seo:
+    title: 'Move Rows to SeaTable Big Data Storage – Complete Guide'
+    description: 'Learn how to move rows to SeaTable’s big data backend, archive data, restore entries, and activate big data features. Step-by-step guide for Enterprise.'
+
 ---
 
 {{< required-version "Enterprise" >}}

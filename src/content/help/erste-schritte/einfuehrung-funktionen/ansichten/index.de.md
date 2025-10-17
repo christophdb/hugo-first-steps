@@ -6,6 +6,10 @@ categories:
     - 'seatable-nutzen'
 author: 'cdb'
 url: '/de/hilfe/ansichten'
+seo:
+    title: 'Ansichten & Plugins in SeaTable – alle Optionen erklärt'
+    description: 'Erfahren Sie alles über Ansichten und Plugins in SeaTable: Tabellenansicht, Diagramme, Kalender, Kanban, Galerie, Karten, sowie Aktivierung und Vorteile.'
+
 ---
 
 Je nach Aufgabe und erfassten Daten sind unterschiedliche **Darstellungsweisen** sinnvoll, um Ihnen die Arbeit in SeaTable zu erleichtern. SeaTable bietet Ihnen dafür einerseits Ansichten: Quantitative Daten lassen sich am besten in der Tabellen-Ansicht erfassen, mit Filtern, Sortierungen und Gruppierungen strukturieren und mithilfe von **Statistiken** auswerten.

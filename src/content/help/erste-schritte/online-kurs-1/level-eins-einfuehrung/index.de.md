@@ -6,6 +6,10 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/level-eins-einfuehrung'
+seo:
+    title: 'SeaTable Level 1: Einführung – Online Kurs für Einsteiger'
+    description: 'Der SeaTable Online Kurs Level 1 führt Sie Schritt für Schritt in die Grundlagen ein – Navigation, Tabellen, Webformulare, Verknüpfungen, Ansichten, Quiz.'
+
 weight: 1
 ---
 

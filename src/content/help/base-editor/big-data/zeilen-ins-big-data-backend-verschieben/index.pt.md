@@ -5,7 +5,13 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/pt/ajuda/zeilen-ins-big-data-backend-verschieben'
+url: '/pt/ajuda/transferir-linhas-big-data-backend'
+aliases:
+    - '/pt/ajuda/zeilen-ins-big-data-backend-verschieben'
+seo:
+    title: 'Transferir linhas para Big Data no SeaTable – tutorial completo'
+    description: 'Veja como arquivar, transferir e recuperar linhas para o Big Data do SeaTable e ative essa função. Dicas para configurar e identificar dados.'
+
 ---
 
 {{< required-version "Empresa" >}}

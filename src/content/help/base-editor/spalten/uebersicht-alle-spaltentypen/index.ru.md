@@ -5,7 +5,13 @@ lastmod: '2024-03-18'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'cdb'
-url: '/ru/pomoshch/uebersicht-alle-spaltentypen'
+url: '/ru/pomoshch/overview-tipy-stolbcov'
+aliases:
+    - '/ru/pomoshch/uebersicht-alle-spaltentypen'
+seo:
+    title: 'Все типы столбцов в SeaTable – полный обзор'
+    description: 'Узнайте о 25 типах столбцов в SeaTable: текст, число, файл, выбор, формулы и связи. Основные функции и советы для применения.'
+
 weight: 1
 ---
 

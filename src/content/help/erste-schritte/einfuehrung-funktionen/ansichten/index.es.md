@@ -5,7 +5,13 @@ lastmod: '2024-08-01'
 categories:
     - 'seatable-nutzen'
 author: 'cdb'
-url: '/es/ayuda/ansichten'
+url: '/es/ayuda/vistas'
+aliases:
+    - '/es/ayuda/ansichten'
+seo:
+    title: 'Vistas y plugins en SeaTable – todas las posibilidades'
+    description: 'Descubre todas las vistas y plugins de SeaTable: tablas, estadísticas, Kanban, galerías, mapas y su configuración. Comparativa de usos y virtudes clave.'
+
 ---
 
 Dependiendo de la tarea y de los datos recogidos, son útiles diferentes **modos de** visualización para facilitar su trabajo en SeaTable. SeaTable le ofrece vistas para este fin: Los datos cuantitativos pueden registrarse mejor en la vista de tabla, estructurarse con filtros, ordenarse y agruparse y evaluarse con ayuda de **estadísticas**.
