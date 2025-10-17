@@ -8,6 +8,7 @@ seo:
     description: 'Découvrez dans cet article les solutions à la pénurie de personnel informatique qualifié et comment reprendre le dessus avec No Code.'
 categories:
     - 'best-practice'
+    - 'low-code-no-code'
 tags:
     - 'Candidats & gestion des talents'
     - 'No Code & Low Code'

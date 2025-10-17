@@ -8,6 +8,7 @@ seo:
     description: 'Descubra en este artículo qué soluciones existen para la escasez de competencias en TI y cómo puede recuperar la ventaja con No Code.'
 categories:
     - 'best-practice'
+    - 'low-code-no-code'
 tags:
     - 'Gestión de candidatos y talentos'
     - 'No Code & Low Code'
