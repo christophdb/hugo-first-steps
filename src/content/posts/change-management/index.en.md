@@ -1,271 +1,279 @@
 ---
-title: 'Erfolgreiches Change Management in Unternehmen'
-description: 'Change Management ist heute ein zentrales Thema für Unternehmen jeder Größe. Doch wie wird Ihr Change-Projekt erfolgreich? Welche Voraussetzungen müssen vorliegen und wie holen Sie alle Beteiligten und Stakeholder an Bord? In diesem Artikel erfahren Sie, was der Begriff überhaupt bedeutet, wie ein erfolgreicher Change Management Prozess durchgeführt werden kann und welche Rolle moderne Technologien dabei spielen.'
-date: 2025-10-13
+title: 'Successful change management in companies'
+description: 'Today, change management is a key issue for companies of all sizes. But how do you make your change project a success? What are the prerequisites and how do you get all participants and stakeholders on board? In this article, you will find out what the term actually means, how a successful change management process can be implemented and what role modern technologies play in this.'
+date: 2025-10-16
 url: '/change-management'
 seo:
-    title: 'Change Management in Unternehmen'
-    description: ''
+    title: 'Successfully implementing change management in the company'
+    description: 'Find out how change management works, which requirements are important and how modern technologies support the process.'
 categories:
     - 'best-practice'
 tags:
       - 'Operations'
-color: ''
+color: '#0593ca'
 register:
    show: true
-draft: true
 ---
 
-## Warum ist ein aktives Change Management wichtig?
+## Why is active change management important?
 
-Unternehmen sind dynamischen Umweltbedingungen ausgesetzt und müssen Prozesse und Strukturen ständig anpassen, um Ihre **Wettbewerbsfähigkeit und Innovationsfähigkeit** zu erhalten. Egal, ob Sie z. B. neue Technologien wie KI und No-Code Lösungen einführen möchten, neue Prozesse zur Umsetzung gesetzlicher Auflagen entwickeln oder die Expansion in neue Märkte vorbereiten möchten, eines steht immer im Mittelpunkt: die Menschen – Ihre Mitarbeiter und Kunden. Aktives Change Management ist wichtig, um Einwände und Bedenken zu berücksichtigen, **alle Stakeholder mitzunehmen** und Maßnahmen so zu planen und umzusetzen, dass sie transparent sind und niemanden überfordern. So sorgen Sie dafür, **dass Veränderungen gelebt werden**. Andernfalls laufen Sie Gefahr, Ihre Mitarbeiter zu demotivieren und womöglich sogar Kunden und Wettbewerbsfähigkeit zu verlieren.  
+Companies are exposed to dynamic environmental conditions and must constantly adapt processes and structures in order to maintain their **competitiveness and ability to innovate**. Whether you want to introduce new technologies such as AI and no-code solutions, develop new processes to implement legal requirements or prepare for expansion into new markets, the focus is always on people - your employees and customers. Active change management is important in order to take objections and concerns into account, **involve all stakeholders** and plan and implement measures in such a way that they are transparent and do not overwhelm anyone. In this way, you ensure **that changes are lived**. Otherwise, you run the risk of demotivating your employees and possibly even losing customers to [competitors]({{< relref "posts/wettbewerbsanalyse" >}}).  
 
-## Was bedeutet Change Management?
+## What does change management mean?
 
-Bevor wir tiefer in das Thema einsteigen, lassen Sie uns noch mal Klarheit über den Begriff schaffen. Denn er ist heutzutage zwar in (fast) aller Munde. Wie bei vielen anderen inflationär gebrauchten Buzzwörtern fehlt oftmals jedoch ein Verständnis, was genau damit gemeint ist. Eine Change Management Definition ist daher angeraten.
+Before we delve deeper into the topic, let's clarify the term. After all, it is on (almost) everyone's lips these days. However, as with many other inflationary buzzwords, there is often a lack of understanding of exactly what it means. A definition of change management is therefore advisable.
 
-Change Management meint die Umsetzung aller Strategien, Prozesse und Maßnahmen, die darauf abzielen, **tiefgreifende Veränderungen** in Abteilungen oder ganzen Organisationen gezielt und systematisch zu gestalten. Dabei kann es sich um organisatorische, technologische oder kulturelle Veränderungen handeln – wobei letztere der anspruchsvollste Fall sind. Entscheidend ist, dass es sich um einen komplexen, eben für die betroffene Organisation tiefgreifenden Change Prozess handelt. Werden nur einzelne Abläufe optimiert, spricht man nicht von Change Management.
+![Change management - a buzzword?](change-management-1.png)
 
-### Sind Change Management und Transformation dasselbe?
+Change management refers to the implementation of all strategies, processes and measures that aim to bring about **profound changes** in departments or entire organizations in a targeted and systematic manner. This can involve organizational, technological or cultural changes - with the latter being the most challenging case. The decisive factor is that the change process is complex and far-reaching for the organization concerned. If only individual processes are optimized, this is not referred to as change management.
 
-Kurz gesagt: Nein, beide Begriffe sind zwar eng miteinander verbunden, aber nicht synonym. Der Ausdruck „Transformation“ beschreibt zwar auch meist groß angelegte, grundlegende Änderungen – etwa die komplette Neuausrichtung eines Geschäftsmodells oder die digitale Umwandlung eines Unternehmens. Das Change Management dagegen bezieht sich darauf, diesen **Wandel strukturiert zu planen und zu begleiten** und so die Weichen für einen nachhaltigen Erfolg zu stellen. Um beim Beispiel der Digitalisierung zu bleiben: Der Ausdruck "digitale Transformation" gibt eher das strategische Ziel vor, wohingegen die konkrete Steuerung und Umsetzung unter Change Management fällt.
+### Are change management and transformation the same thing?
 
-## Welche Rolle spielen die Mitarbeiter im Change Management?
+In short: No, the two terms are closely related but not synonymous. The term "transformation" usually also describes large-scale, fundamental changes - such as the complete realignment of a business model or the digital transformation of a company. Change management, on the other hand, refers to planning and supporting this **change in a structured manner** and thus setting the course for sustainable success. To stay with the example of digitalization: The term "digital transformation" tends to specify the strategic goal, whereas the specific management and implementation falls under change management.
 
-Wie bereits angedeutet, steht und fällt ein erfolgreicher Change Management Prozess mit der aktiven Einbindung Ihrer Mitarbeiter. Denn diese sind am Ende diejenigen, die neue Prozesse anwenden, ihre Arbeitsweisen ändern und Veränderungen im Alltag leben müssen. Emotionen spielen beim Change Management eine wichtige Rolle. Werden Ängste, Bedenken und Unsicherheiten nicht frühzeitig ernst genommen, entstehen schnell Widerstände und Frust, die Sie unbedingt vermeiden möchten. Transparenz, regelmäßige Kommunikation und gegebenenfalls Weiterbildungsmöglichkeiten sind die absoluten Basics, um Mitarbeiter als Partner und Mitgestalter einzubinden. Teamsitzungen, [Workshops]({{< relref "posts/workshop-planen" >}}) und Einzelgespräche helfen dabei, Sorgen abzubauen und Blockaden aufzulösen.
+![Change management as far-reaching change](change-management-and-transformation.png)
 
-### Das 7 Phasen-Modell nach Streich
+## What role do employees play in change management?
 
-In diesem Zusammenhang sollten verantwortliche Change Manager sich regelmäßig das 7 Phasen-Modell nach Streich vergegenwärtigen. Richard Streich und Sonja Sackmann entwickelten dieses Modell, um zu beschreiben, wie Menschen tiefgreifende Veränderungen emotional erleben und darauf reagieren:
+As already mentioned, a successful change management process stands and falls with the active involvement of your employees. After all, they are the ones who ultimately have to apply new processes, change their working methods and live the changes on a day-to-day basis. Emotions play an important role in change management. If fears, concerns and uncertainties are not taken seriously at an early stage, resistance and frustration will quickly arise, which you want to avoid at all costs. Transparency, regular communication and, if necessary, further training opportunities are the absolute basics for involving employees as partners and co-creators. Team meetings, [workshops]({{< relref "posts/workshop-planen" >}}) and one-to-one discussions help to reduce concerns and dissolve blockages.
 
-*   1\. Phase: Schock
+### The 7-phase model according to Streich
+
+In this context, responsible change managers should regularly remind themselves of Streich's 7-phase model. Richard Streich and Sonja Sackmann developed this model to describe how people emotionally experience and react to far-reaching changes:
+
+* 1\. Phase: Shock
     
-*   2\. Phase: Verneinung
+* 2\. Phase: Denial
     
-*   3\. Phase: Einsicht
+* 3\. Phase: Insight
     
-*   4\. Phase: Akzeptanz
+* 4\. Phase: Acceptance
     
-*   5\. Phase: Ausprobieren
+* 5\. Phase: Trial and error
     
-*   6\. Phase: Erkenntnis
+* 6\. Phase: Insight
     
-*   7\. Phase: Integration
-    
-
-Mitarbeiter durch die ersten beiden Phasen zu begleiten und diese möglichst kurz zu halten, ist eine zentrale Aufgabe von Führungskräften und Change Managern in Veränderungsprozessen.
-
-## Welche Change Management Modelle stehen zur Verfügung?
-
-Wie in anderen Bereichen stehen Ihnen auch im Veränderungsmanagement verschiedene Modelle zur Verfügung. Diese bieten vermeintlich einfache Antworten und versprechen durch eine klare Struktur, Ihre Change Management Planung konkret und steuerbar zu gestalten. Keines dieser Modelle wird indes den **komplexen Dynamiken von Change Management Prozessen vollkommen gerecht**. Lassen Sie uns gemeinsam die vier am häufigsten in Change Management Ratgebern genannten Modelle kritisch betrachten:
-
-*   das 5 Phasen-Modell nach Krüger
-    
-*   das ADKAR-Modell
-    
-*   das 3-Phasen-Modell nach Krüger
-    
-*   das 8-Stufen-Modell nach Kotter
+* 7\. Phase: Integration
     
 
-### Das 3-Phasen-Modell nach Lewin
+Accompanying employees through the first two phases and keeping them as short as possible is a central task of managers and change managers in change processes.
 
-Dieses Modell des deutschen Sozialpsychologen Kurt Lewin ist **eines der ältesten Modelle** im Change Management. Es wurde erstmals 1947 publiziert und beschäftigte sich ursprünglich alleine mit kulturellen Veränderungsprozessen. Lewin, der im US-amerikanischen Exil lebte, formulierte drei Phasen im Change Management:
+![Involving employees is part of change management](involving-employees.png).
 
-*   Unfreeze: Der bestehende Status quo wird ***aufgetaut***, um überhaupt Veränderungsbereitschaft zu erzeugen.
+## Which change management models are available?
+
+As in other areas, there are various models available to you in change management. These offer supposedly simple answers and promise a clear structure to make your change management planning concrete and controllable. However, none of these models does full justice to the **complex dynamics of change management processes**. Let's take a critical look at the four models most frequently mentioned in change management guides:
+
+* Lewin's 3-phase model
     
-*   Change: die Veränderungsprozesse werden umgesetzt
+* the 8-stage model according to Kotter
+
+* the 5-phase model according to Krüger
     
-*   Refreeze: die neuen Prozesse werden verinnerlicht und stabilisiert
+* the ADKAR model
+
+### The 3-phase model according to Lewin
+
+This model by the German social psychologist Kurt Lewin is **one of the oldest models** in change management. It was first published in 1947 and originally dealt solely with cultural change processes. Lewin, who lived in exile in the USA, formulated three phases in change management:
+
+* Unfreeze: The existing status quo is ***thawed*** in order to create a willingness to change in the first place.
     
-
-**Nachteile des 3-Phasen-Modells**
-
-Im Mittelpunkt von Lewins Modell steht die Notwendigkeit, durch eine durchdachte Change Management Planung Veränderungen bewusst vorzubereiten und nachhaltig zu verankern und zu stabilisieren. Was erst mal logisch klingt, erweist sich bei näherer Betrachtung als ein veralteter Ansatz:
-
-*   einen organisatorischen oder prozessualen Stand ***einzufrieren*** ist in modernen, agilen Unternehmen kaum denkbar
+* Change: The change processes are implemented.
     
-*   Lewins mechanistisches Verständnis von Strukturen und Organisationen entspricht nicht mehr der Realität
-
-### Das 8-Stufen-Modell nach Kotter
-
-Ein weiterer Klassiker unter den Change Management Methoden ist John Kotters 8-Stufen-Modell. Kotters Modell kann am ehesten als Change Management Konzept verstanden werden, da er einen **klaren Ablauf statt abstraktere Change Management Phasen** formuliert:
-
-*   Dringlichkeit erzeugen
-*   Führungsteam aufbauen
-*   Vision entwickeln
-*   Vision kommunizieren
-*   Hindernisse beseitigen
-*   Kurzfristige Erfolge erzielen
-*   Veränderungen weiter vorantreiben
-*   Veränderungen verankern
-
-**Nachteile des 8-Stufen Modells**
-
-Auch Kotters Modell verdeutlicht, dass eine Transformation nur möglich ist, wenn die Dringlichkeit verstanden wird und von Anfang an eine klare Vision besteht. Insgesamt geht Kotter zwar viel praxisorientierter und granularer an das Thema heran, als Lewin oder Krüger. Jedoch gibt es auch Kritik:
-
-*   Change Management Maßnahmen laufen in der Regel nicht linear ab, sondern häufig parallel
-    
-*   Kotters Schritte sieben und acht, die eigentliche Umsetzung, sind ungleich komplexer und aufwendiger als sein Modell nahelegt
-    
-*   Kotter sieht Veränderungsmanagement als vom Management vorgegeben und durchgeführt, und vernachlässigt die aktive Rolle der Mitarbeiter
-    
-*   es bleibt offen, wie mit Rückschritten umgegangen wird   
-
-### 5-Phasen-Modell nach Krüger
-
-Dieses Modell des Wirtschaftswissenschaftlers Wilfried Krüger identifiziert fünf aufeinander aufbauende Phasen im Change Management:
-
-*   Initialisierung: Veränderungsbedarf erkennen und erste Ziele formulieren.
-*   Konzeption: Lösungen entwerfen, Maßnahmen und Projektteams definieren.
-*   Mobilisierung: Mitarbeitende einbinden, Akzeptanz schaffen und Motivation fördern.
-*   Umsetzung: Geplante Maßnahmen operativ durchführen.
-*   Verstetigung: Erfolge sichern, neue Standards festlegen und kontrollieren.
-
-Die dritte und vierte Phase sind besonders kritische Meilensteine im Change Management, da hier potentielle Widerstände abgebaut und eine positive Veränderungsbereitschaft geschaffen werden.
-
-**Nachteile des 5-Phasen-Modells**
-
-Krügers Modell nennt zwar die wichtigen Phasen im Change Management, geht jedoch ebenso wie Kotter von einem linearen, starren Change Management Konzept aus. Wie genau die Umsetzung funktionieren soll, bleibt eher vage. Zudem setzt Krüger darauf, Mitarbeitern spezielle Anreize zu bieten, sich auf den Wandel einzulassen, anstatt sie einzubinden und vom Sinn zu überzeugen.
-
-### ADKAR-Modell
-
-Das ADKAR-Modell wurde durch den Change Manager Jeff Hiatt entwickelt und basiert auf der Analyse der Veränderungsprozesse von etwa 700 Organisationen. Es gilt als **besonders praxisorientiert** und fokussiert auf die individuellen Veränderungsprozesse der Mitarbeiter. ADKAR ist ein Akronym für Awareness (Bewusstsein), Desire (Wunsch), Knowledge (Wissen), Ability (Fähigkeit), und Reinforcement (Verstärkung). Ähnlich wie das 5-Phasen-Modell zielt auch Hiatts Ansatz darauf ab, ein Bewusstsein für die Notwendigkeit von Veränderungen zu schaffen und die nachhaltige Umsetzung zu unterstützen.
-
-**Nachteile des ADKAR-Modells**
-
-Hiatts Modell fokussiert radikal auf die einzelnen Mitarbeiter und unterscheidet sich dadurch deutlich von den drei anderen vorgestellten Phasen-Modellen. Darin begründet sich jedoch auch die zentrale Kritik:
-
-*   das ADKAR-Modell vernachlässigt die Bedeutung von Gruppen-Dynamiken
-    
-*   es vernachlässigt die technischen und prozessualen Aspekte von Change Management Prozessen
-    
-*   es liefert den starren Rahmen für ein Change Management Konzept, jedoch kein Umsetzungsmodell
-
-## Change Management Maßnahmen: Wie gehen Sie am besten vor?
-
-Jedes der genannten Modelle geht von einem linearen Verlauf verschiedener Change Management Maßnahmen aus – darin ähneln sie stark dem bereits genannten 7 Phasen-Modell nach Streich. Wie gezeigt vermittelt diese lineare Struktur jedoch ein schiefes Bild. Zwar vermitteln sie klar, welche Schritte einzeln wichtig sind und mögen dadurch als Rahmen für Change Management Strategien hilfreich sein. Echte Handlungsempfehlungen und Maßnahmen sucht man indes vergeblich.
-
-**Wie gehen Sie also konkret vor?**
-
-*   Beginnen Sie mit einer **Analyse**: Was soll verändert werden und wie sieht das Ziel aus?
-    
-*   Identifizieren Sie vor dem Beginn einzelner Maßnahmen die **relevanten Stakeholder**.
-    
-*   Schaffen Sie **Vertrauen** durch eine offene Kommunikation.
-    
-*   Definieren sie **Rollen und Verantwortlichkeiten** klar.
-    
-*   Leben Sie gemeinsam mit dem Management **Veränderungsbereitschaft** vor.
-    
-*   Messen Sie **Fortschritte** kontinuierlich, um bei Problemen rechtzeitig reagieren zu können.
+* Refreeze: The new processes are internalized and stabilized.
     
 
-### Change Management und Projektmanagement
+**Disadvantages of the 3-phase model**
 
-Wenn Sie Parallelen zum [Projektmanagement]({{< relref "posts/20250308-projektmanagement-methoden" >}}) sehen, ist das kein Zufall. Denn **Change Management und Projektmanagement sind eng miteinander verzahnt**. Während z.B. bei einem IT-Projekt der Projektmanager die technische Einführung einer neuen Software vorantreibt, geht es beim Change-Management in der IT dann darum, die Mitarbeiter mit ins Boot zu holen und dafür zu sorgen, dass die neue Software angenommen und genutzt wird. Dadurch sind Projektmanagement-Methoden meistens auch hilfreiche Methoden im Change Management.
+At the heart of Lewin's model is the need to consciously prepare, sustainably anchor and stabilize changes through well thought-out change management planning. What sounds logical at first turns out to be an outdated approach on closer inspection:
 
-### Stakeholder-Analyse
-
-Mit einer Stakeholder-Analyse lernen Sie die Stakeholder und deren Interesse an Ihrem Projekt kennen.
-
-**Wie führen Sie eine Stakeholder-Analyse durch?**
-
-*   Identifikation: Wer könnte von Ihrem Projekt betroffen sein? Berücksichtigen Sie auch Personen außerhalb Ihres Unternehmens.
+* To ***freeze*** an organizational or procedural state is hardly conceivable in modern, agile companies.
     
-*   Priorisierung: Nicht alle Stakeholder sind gleichermaßen von Änderungen betroffen. Ordnen Sie Ihre Stakeholder nach Interesse und Engagement – dadurch wird auch das spätere Stakeholder-Management erleichtert. 
+* Lewin's mechanistic understanding of structures and organizations no longer corresponds to reality.
+
+### The 8-step model according to Kotter
+
+Another classic among change management methods is John Kotter's 8-step model. Kotter's model can best be understood as a change management concept, as he formulates a **clear process instead of more abstract change management phases**:
+
+* Create urgency
+* Build leadership team
+* Develop vision
+* Communicate vision
+* Remove obstacles
+* Achieve short-term success
+* Drive change forward
+* Anchoring change
+
+**Disadvantages of the 8-step model**
+
+Kotter's model also makes it clear that transformation is only possible if the urgency is understood and there is a clear vision from the outset. Overall, Kotter takes a much more practice-oriented and granular approach to the topic than Lewin or Krüger. However, there is also criticism:
+
+* Change management measures do not usually run in a linear fashion, but often in parallel.
     
-*   Stakeholder-Map: Kategorisieren Sie nun Ihre Stakeholder nach verschiedenen Faktoren, z. B. nach Kunden, Mitarbeiter, Externe und Management.
+* Kotter's steps seven and eight, the actual implementation, are far more complex and time-consuming than his model suggests.
+    
+* Kotter sees change management as being prescribed and implemented by management and neglects the active role of employees.
+    
+* It remains open how to deal with setbacks.
+
+### 5-phase model according to Krüger
+
+This model by economist Wilfried Krüger identifies five successive phases in change management:
+
+* Initialization: identifying the need for change and formulating initial goals.
+* Conception: Design solutions, define measures and project teams.
+* Mobilization: Involve employees, create acceptance and promote motivation.
+* Implementation: Implement planned measures operationally.
+* Continuation: Ensure success, define and monitor new standards.
+
+The third and fourth phases are particularly critical milestones in change management, as this is where potential resistance is reduced and a positive willingness to change is created.
+
+**Disadvantages of the 5-phase model**
+
+Although Krüger's model names the important phases in change management, like Kotter it assumes a linear, rigid change management concept. How exactly the implementation should work remains rather vague. In addition, Krüger relies on offering employees special incentives to embrace change rather than involving them and convincing them that it makes sense.
+
+### ADKAR model
+
+The ADKAR model was developed by change manager Jeff Hiatt and is based on the analysis of change processes in around 700 organizations. It is considered to be **particularly practice-oriented** and focuses on the individual change processes of employees. ADKAR is an acronym for Awareness, Desire, Knowledge, Ability and Reinforcement. Similar to the 5-phase model, Hiatt's approach also aims to create awareness of the need for change and to support sustainable implementation.
+
+**Disadvantages of the ADKAR model**
+
+Hiatt's model focuses radically on the individual employee and therefore differs significantly from the three other phase models presented. However, this is also the reason for the central criticism:
+
+* The ADKAR model neglects the importance of group dynamics.
+    
+* It neglects the technical and procedural aspects of change management processes.
+    
+* It provides a rigid framework for a change management concept, but no implementation model.
+
+## Change management measures: What is the best way to proceed?
+
+Each of the models mentioned assumes a linear progression of various change management measures - in this respect they are very similar to the aforementioned 7-phase model according to Streich. As shown, however, this linear structure conveys a skewed picture. The models clearly show which individual steps are important and may therefore be helpful as a framework for change management strategies. However, you will search in vain for real recommendations for action and measures.
+
+![In change management, many wheels interlock](change-management-2.png)
+
+**So how do you actually proceed?**
+
+* Start with an **analysis**: What should be changed and what is the goal?
+    
+* Identify the **relevant stakeholders** before starting individual measures.
+    
+* Create **trust** through open communication.
+    
+* Define **roles and responsibilities** clearly.
+    
+* Together with the management, demonstrate **willingness to change**.
+    
+* Measure **progress** continuously in order to be able to react to problems in good time.
+    
+
+### Change management and project management
+
+If you see parallels with project management, it's no coincidence. This is because **change management and project management are closely interlinked**. While in an IT project, for example, the project manager drives the technical introduction of new software, change management in IT is about getting employees on board and ensuring that the new software is accepted and used. This means that [project management methods]({{< relref "posts/20250308-projektmanagement-methoden" >}}) are usually also helpful methods in change management.
+
+### Stakeholder analysis
+
+With a stakeholder analysis, you get to know the stakeholders and their interest in your project.
+
+**How do you carry out a stakeholder analysis?**
+
+* Identification: Who could be affected by your project? Also consider people outside your company.
+    
+* Prioritization: Not all stakeholders are equally affected by changes. Prioritize your stakeholders according to interest and commitment - this will also make subsequent stakeholder management easier.
+    
+* Stakeholder map: Now categorize your stakeholders according to various factors, e.g. customers, employees, external parties and management.
     
 
 ### Culture Mapping
 
-Die Unternehmenskultur wird u. a. durch das alltägliche Verhalten der Mitarbeiter untereinander sowie Werte und Normen, die das Management lebt und vorgibt, geprägt. Sie hat mal mehr, mal weniger Einfluss auf den Erfolg der Change Management Maßnahmen. Mit einer Culture Map gewinnen Sie wichtige Informationen, um etwaige Stolpersteine im Vorfeld zu erkennen.
+The corporate culture is shaped, among other things, by the day-to-day behavior of employees towards each other as well as the values and norms that management lives by and sets. It sometimes has more, sometimes less influence on the success of change management measures. A culture map provides you with important information to identify any stumbling blocks in advance.
 
-**Wie funtioniert Culture Mapping?**
+**How does culture mapping work?**
 
-Erfassen Sie zunächst verschiedene **Subkulturen innerhalb Ihres Unternehmens**, z. B. einzelne Abteilungen oder Unternehmensbereiche. Identifizieren Sie anschließend jeweils Gruppen von fünf bis sechs Personen, die diese verschiedenen Kulturen am besten repräsentieren und sprechen Sie mit ihnen. Aus den daraus gewonnenen Informationen zu potentiellen Blockern und Möglichkeiten erstellen Sie Ihre Culture Map. Am besten arbeiten Sie dazu **mit einem Whiteboard-Tool oder mit Diagrammen**, z. B. einem Streudiagramm oder einer Tree Map, und lassen die so gewonnenen Informationen in Ihre Change Management Planung einfließen.  
+Start by mapping different **subcultures within your company**, e.g. individual departments or divisions. Then identify groups of five to six people who best represent these different cultures and talk to them. Use the resulting information on potential blockers and opportunities to create your culture map. It is best to work **with a whiteboard tool or with diagrams**, e.g. a scatter diagram or a tree map, and incorporate the information gained into your change management planning.  
 
-### Prozesslandkarte
+### Process map
 
-Mit der Prozesslandkarte visualisieren Sie verschiedene Prozesse, häufig in Form eines **Flussdiagramms**. Damit gewinnen auch Personen, die nicht unmittelbar am Change-Management-Prozess beteiligt sind, eine gute Übersicht und wichtige Informationen. Insbesondere bei Ihrer Change Management Planung helfen solche Diagramme dabei, den aktuellen Stand darzustellen.
+You can use the process map to visualize various processes, often in the form of a **flow chart**. This also gives people who are not directly involved in the change management process a good overview and important information. Such diagrams are particularly helpful in your change management planning to show the current status.
 
-### Kraftfeldanalyse
+![Process maps are important tools in change management](prozesslandkarte.png).
 
-Mit Kurt Lewins Kraftfeldanalyse untersuchen Sie, welche Kräfte oder Faktoren für oder gegen eine Veränderung oder einen Vorschlag sprechen. Sie wird auch Hindernis- und Hilfsmittelanalyse genannt und ähnelt einer [SWOT-Analyse]({{< relref "posts/swot-analyse" >}}).
+### Force field analysis
 
-**Wie funktioniert die Kraftfeldanalyse?**
+With Kurt Lewin's force field analysis, you examine which forces or factors speak for or against a change or a proposal. It is also called an obstacle and resource analysis and is similar to a [SWOT analysis]({{< relref "posts/swot-analyse" >}}).
 
-*   Plandefinition: Welches Ziel haben Sie?
+**How does the force field analysis work?**
+
+* Plan definition: What is your goal?
     
-*   Hilfsmittel bestimmen: Welche (internen und externen) Kräfte können Ihnen helfen?
+* Determine tools: Which (internal and external) forces can help you?
     
-*   Hindernisse erkennen: Welche (auch potentiellen) Kräfte sprechen gegen eine Veränderung?
+* Recognize obstacles: What forces (including potential ones) are working against change?
     
-*   Gewichten: Quantifizieren Sie den zu erwartenden Einfluss jeder Kraft mit einer Punktzahl.
+* Weighting: Quantify the expected impact of each force with a score.
     
 
-## Risiken im Change Management
+## Risks in change management
 
-Change-Projekte scheitern häufig an **mangelnder Akzeptanz, unklarer Kommunikation, fehlender oder unrealistischer Change Management Ziele oder mangelnden Ressourcen**. In den seltensten Fällen scheitern diese Projekte jedoch an den Mitarbeitern, auch wenn diesen dann unterstellt wird, unfähig oder nicht willens zu sein, sich auf Neues einzulassen. In der Regel erkennen Mitarbeiter einfach nur sehr schnell, ob Veränderungen in Ihrem Interesse liegen oder nicht. Sie sollten daher die Interessen Ihrer Mitarbeiter frühzeitig berücksichtigen. Erstellen Sie eine sorgfältige, transparente Change Management Planung, um gut auf mögliche Risiken vorbereitet zu sein und planen Sie dabei ausreichend Zeit für die nachhaltige Implementierung ein – dieser Schritt kann mehrere Monate oder sogar länger dauern.
+Change projects often fail due to **lack of acceptance, unclear communication or a lack of resources**. However, missing or unrealistic change management goals are also common causes. In the rarest of cases, however, these projects fail because of the employees, even if they are then accused of being unable or unwilling to embrace something new. As a rule, employees simply recognize very quickly whether changes are in your interests or not. You should therefore take your employees' interests into account at an early stage. Create careful, transparent change management planning in order to be well prepared for possible risks and allow sufficient time for sustainable implementation - this step can take several months or even longer.
 
-## Wie hängen Change-Management und Digitalisierung zusammen?
+## How are change management and digitalization connected?
 
-Eine gute Planung, Analysen, regelmäßige und transparente Kommunikation, Stakeholder-Management: Ohne das passende Tool können Sie diese Aufgaben kaum effizient abdecken. Und so, wie erfolgreiche Digitalisierung ein gut durchdachtes Change Management Konzept voraussetzt, ist die Digitalisierung wiederum Voraussetzung für erfolgreiche Veränderungsprozesse. Neue Technologien wie **Cloud-Lösungen, No-Code Plattformen, KI und Automatisierungstools** können dabei den entscheidenen Unterschied machen und über Erfolg oder Misserfolg Ihres Projekts entscheiden. Das wichtigste Kriterium sind dabei Ihre spezifischen Anforderungen: Wählen Sie ein Tool, dass bestmöglich zu Ihren Vorstellungen passt und **skalierbar** ist. Sonst wechseln Sie womöglich von einer Software zur nächsten oder arbeiten mit verschiedenen Tools, was Ihre Change Management Maßnahmen nur unnötig erschwert.
+Good planning, analyses, regular and transparent communication, stakeholder management: without the right tool, you can hardly cover these tasks efficiently. And just as successful digitalization requires a well-thought-out change management concept, digitalization is in turn a prerequisite for successful change processes. New technologies such as **cloud solutions, no-code platforms, AI and automation tools** can make all the difference and determine the success or failure of your project. The most important criterion here is your specific requirements: Choose a tool that best suits your ideas and is **scalable**. Otherwise, you may end up switching from one software to another or working with different tools, which will only complicate your change management measures unnecessarily.
 
-## SeaTable als Change Management Tool
+## SeaTable as a change management tool
 
-SeaTable ist ein modernes **No-Code Datenbank-Tool**, das Sie flexibel an die Anforderungen Ihres Unternehmens oder Projekts anpassen können. Speziell für Change Management Maßnahmen bietet diese Lösung eine **Vielzahl an Funktionen**, mit denen Sie leicht auch andere Prozesse abdecken. Dank der **intuitiven Benutzeroberfläche** und der zahlreichen Anpasungsmöglichkeiten finden sich neue Nutzer schnell zurecht, ohne Schulungen oder langwierige Implementierungen zu benötigen.
+SeaTable is a modern [no-code database tool]({{< relref "/" >}}) that you can flexibly adapt to the requirements of your company or project. Especially for change management measures, this solution offers a **variety of functions** with which you can easily cover other processes as well. Thanks to the **intuitive user interface** and the numerous customization options, new users will quickly find their way around without the need for training or lengthy implementations.
 
-Transparente **Echtzeit-Kollaboration, integrierte Chat- und Benachrichtigungsfunktionen**, eine gemeinsame Datenverwaltung und **Automatisierungen** unterstützen Sie bei Ihren dabei, Ihre Meilensteine im Change Management zu erreichen. Nutzen Sie z. B. unsere **kostenlose Vorlage zur SWOT-Analyse** für Ihre Kraftfeldanalyse oder unseren **Projektstrukturplan** für Ihre Change Management Planung. 
+Transparent **real-time collaboration, integrated chat and notification functions**, shared data management and **automation** help you achieve your change management milestones. For example, use our **free SWOT analysis template** for your force field analysis or our **project structure plan** for your change management planning.
 
 {{< tabs
-title1="Template: SWOT-Analyse"
-text1="Scrollen Sie durch unsere interaktive SWOT-Analyse-Vorlage als Beispiel für Ihre Kraftfeldanalyse."
+title1="Template: SWOT analysis"
+text1="Scroll through our interactive SWOT analysis template as an example for your force field analysis."
 id1="13fe52fa8c814d5bbeb7"
-submit1="Template testen"
+submit1="Test template"
 
-title2="Template: Projektstrukturplan"
-text2="Scrollen Sie durch unsere interaktive Projektstrukturplan-Vorlage als Beispiel für Ihre Change Management Planung."
+title2="Template: Work breakdown structure"
+text2="Scroll through our interactive work breakdown structure template as an example for your change management planning."
 id2="898485ee9b7949c5b987"
-submit2="Template testen" >}}
+submit2="Test template" >}}
 
-**Individualisierbare Dashboards und Statistiken** ermöglichen Ihnen, Projektfortschritte in regelmäßigen Abständen zu überprüfen. Mit dem **Universal App Builder** gestalten Sie in wenigen Minuten ein **benutzerfreundliches Frontend** für Ihre Stakeholder.
+**Customizable dashboards and statistics** allow you to review project progress at regular intervals. With the **Universal App Builder**, you can design a **user-friendly front end** for your stakeholders in just a few minutes, while the **Whiteboard and Tree** plugins allow you to maintain a complete overview of your change management.
 
-Als [Cloud-Lösung]({{< relref "pages/product/seatable-cloud" >}}) wird SeaTable ausschließlich auf Servern in Deutschland gehostet und ist **vollkommen DSGVO-konform**. Für noch größere Kontrolle über Ihre Daten können Sie mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die Software Ihren eigenen Servern hosten. In der kostenlosen Basisversion haben Sie zahlreiche Grundfunktionen zur Verfügung.
+As a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}), SeaTable is hosted exclusively on servers in Germany and is **fully GDPR compliant**. For even greater control over your data, you can host the software on your own servers with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). The free basic version provides you with numerous basic functions.
 
-## Fazit
+## Conclusion
 
-Aktives Change Management ist ein entscheidender Erfolgsfaktor für Unternehmen, um den Herausforderungen der Gegenwart zu begegnen. Die richtige Umsetzung basiert auf einem klaren Konzept, der Einbindung der Mitarbeitenden, den richtigen Change Management Methoden, einem empathischen Umgang mit Emotionen – und dem Einsatz der richtigen Tools.
+Active change management is a decisive success factor for companies when it comes to meeting the challenges of the present. Effective implementation is based on a clear concept, the involvement of employees, the right change management methods, an empathetic approach to emotions - and the use of the right tools.
 
-## FAQ – Change Management Planung
+## FAQ - Change management planning
 
-{{< faq "Was sind die größten Erfolgsfaktoren in Change Management Prozessen?" >}}
-Erfolgreiches Change Management hängt maßgeblich von drei Faktoren ab:
+{{< faq "What are the biggest success factors in change management processes?" >}}
+Successful change management depends largely on three factors:
 
-*   Klare Zieldefinition
+* Clear definition of objectives
     
-*   Einbindung von Führungskräften
+* Involvement of managers
     
-*   Klare Kommunikation und Transparenz
+* Clear communication and transparency
 {{< /faq >}}
     
 
-{{< faq "Wie lässt sich die Veränderungsbereitschaft von Mitarbeitern im Change-Management-Prozess erhöhen?" >}}>
-Grundsätzlich sollten Sie zunächst davon ausgehen, dass Ihre Mitarbeiter bereit zu Veränderungen sind. Denn im Changemanagement geht es nicht darum, Widerstände oder Bedenken der Mitarbeiter zu brechen. Wenn Sie in Ihrem Business einen Change Management Prozess als Machtspiel aufziehen, haben Sie bereits verloren. Denken Sie an das 7 Phasen-Modell nach Streich. Wenn Sie mit Ihren Mitarbeitern auf Augenhöhe kommunizieren und sie einbinden, werden diese Veränderungen positiver begegnen und schneller aktzeptieren.
+{{< faq "How can employees' willingness to change be increased in the change management process?" >}}
+In principle, you should first assume that your employees are ready for change. After all, change management is not about overcoming resistance or concerns on the part of employees. If you set up a change management process in your business as a power play, you have already lost. Think of the 7-phase model according to Streich. If you communicate with your employees at eye level and involve them, they will be more positive about change and accept it more quickly.
 {{< /faq >}}
 
-{{< faq "Was sind die größten Stolpersteine im Veränderungsmanagement?" >}}
-Zu den größten Risiken, denen Sie durch zielgerichtete Change Management Methoden begegnen können, gehören:
+{{< faq "What are the biggest stumbling blocks in change management?" >}}
+The biggest risks that you can counter through targeted change management methods include
 
-*   Unklare Zieldefinition oder fehlende strategische Einbindung
+* Unclear target definition or lack of strategic involvement
     
-*   Widerstand durch fehlendes Verständnis oder Sorge vor Kontrollverlust
+* Resistance due to lack of understanding or concerns about loss of control
     
-*   Mangelnde Ressourcen
+* Lack of resources
     
-*   Überlastung durch zi viele gleichzeitige Maßnahmen
+* Overload due to too many simultaneous measures
     
 
-Sie können durch eine frühzeitige Risikoanalyse, transparente Kommunikation und klare Definition der Change Management Ziele Risiken schon im Rahmen der Change Management Planung
+You can avoid risks as early as the change management planning stage through early risk analysis, transparent communication and a clear definition of change management objectives.
 {{< /faq >}}
