@@ -9,8 +9,8 @@ tags:
 url: '/de/tierhaltung'
 color: '#f5c119'
 seo:
-    title: 'Tierhaltung organisieren – wie Sie Ihr Haustier artgerecht halten'
-    description: 'Wer sich ein Haustier wünscht, muss im Vorhinein viel beachten. Was Sie für eine artgerechte Tierhaltung wissen sollten, erfahren Sie hier.'
+    title: 'Tierhaltung organisieren – Ihr Haustier richtig pflegen'
+    description: 'Wer sich ein Haustier wünscht, sollte sich gut informieren. Erfahren Sie hier, was für eine artgerechte Tierhaltung wichtig ist.'
 ---
 
 Der Hund ist der beste Freund des Menschen – so heißt es oft, wenn es um die Beziehung zwischen Herrchen und **Haustier** geht. Dabei liegt die Katze als beliebtestes Haustier der Deutschen noch vor dem Hund auf Platz 1. Weit dahinter folgen Nagetiere, Fische und Reptilien. Ein Haustier bringt Ihnen Freude, ist ein Seelenverwandter oder einfach schön anzuschauen. Mit der **Tierhaltung** ist aber auch Arbeit verbunden, denn Sie binden sich für eine lange Zeit und müssen die Bedürfnisse Ihrer Haustiere berücksichtigen.

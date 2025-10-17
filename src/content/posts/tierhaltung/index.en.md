@@ -11,8 +11,8 @@ aliases:
     - '/tierhaltung/'
 color: '#f5c119'
 seo:
-    title:
-    description:
+    title: 'Organize Pet Care – Keep Your Pet Healthy and Happy'
+    description: 'Thinking about getting a pet? Learn here what’s essential for responsible and species-appropriate animal care before you decide.'
 ---
 
 The dog is man's best friend - this is often said when it comes to the relationship between master and **pet**. The cat is the most popular pet in Germany, ahead of the dog, followed by rodents, fish and reptiles. A pet brings you joy, is a soulmate or is simply beautiful to look at. But **keeping** a pet also involves work, because you are committing yourself for a long time and have to take the needs of your pets into account.

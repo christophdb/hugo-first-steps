@@ -1,6 +1,9 @@
 ---
 title: 'No-code platform | Individual solutions without programming'
 description: 'The flexible no-code low-code platform. Create individual applications for your business processes without any programming knowledge.'
+seo:
+    title: 'No-Code Platform | Custom Solutions Without Coding'
+    description: 'The flexible No-Code and Low-Code platform. Create custom applications for your business processes without any programming skills.'
 aliases:
     - '/en/home/'
 

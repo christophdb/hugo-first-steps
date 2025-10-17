@@ -2,8 +2,9 @@
 title: 'Registo digital do tempo de trabalho com o SeaTable - simples e em conformidade com a lei'
 description: 'Simplifique o registo do seu tempo de trabalho com o SeaTable: gratuito, digital e em conformidade com a lei. Para empresas de todas as dimensões - registo optimizado das horas de trabalho, férias e baixas por doença, em conformidade com o RGPD e personalizável de forma flexível. Poupe tempo e minimize o esforço administrativo com processos automatizados e armazenamento central de dados'
 seo:
-    title: 'Registo de tempo de trabalho eficiente, digital e em conformidade com a lei com o SeaTable| Registo de tempo de trabalho'
-    description: 'Registo do tempo de trabalho com o SeaTable: digital, gratuito, em conformidade com o RGPD. Gestão eficiente e em conformidade com a lei das horas de trabalho, férias e baixas por doença.'
+    title: 'Controle de ponto SeaTable | eficiente, digital e conforme leis
+'
+    description: 'Controle de ponto SeaTable: digital, gratuito e conforme LGPD. Gerencie horas, férias e ausências com eficiência e legalidade.'
 date: '2025-08-21'
 url: '/pt/controlo-tempo-trabalho/'
 aliases:

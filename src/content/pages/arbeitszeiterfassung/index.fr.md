@@ -2,8 +2,8 @@
 title: 'Saisie numérique du temps de travail avec SeaTable - simple et conforme à la loi'
 description: 'Simplifiez la saisie de vos heures de travail avec SeaTable : gratuite, numérique et conforme à la législation. Pour les entreprises de toutes tailles - enregistrement optimisé des heures de travail, des congés & maladies, conforme au RGPD et personnalisable de manière flexible. Gagnez du temps et réduisez la charge administrative grâce à des processus automatisés et un stockage centralisé des données.'
 seo:
-    title: 'Saisie du temps de travail avec SeaTable| Saisie efficace, numérique et légale du temps de travail'
-    description: 'Enregistrement du temps de travail avec SeaTable : numérique, gratuit, conforme au RGPD. Gestion efficace et conforme à la législation des heures de travail, des congés et des maladies.'
+    title: 'Suivi du temps avec SeaTable | efficace, digital, conforme loi'
+    description: 'Suivi du temps SeaTable : digital, gratuit, conforme RGPD. Gestion efficace et légale des heures, congés et absences maladie.'
 date: '2025-08-21'
 url: '/fr/suivi-temps-travail/'
 aliases:

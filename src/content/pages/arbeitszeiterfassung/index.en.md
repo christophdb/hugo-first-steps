@@ -2,8 +2,8 @@
 title: 'Work Time Tracking with SeaTable – Efficient, Digital & Compliant Tracking of Work Hours'
 description: 'Work time tracking with SeaTable: digital, free, GDPR-compliant. Efficient and legally compliant management of work hours, leave, and sick days.'
 seo:
-    title: 'Work Time Tracking with SeaTable | Efficient, Digital & Compliant Tracking of Work Hours'
-    description: 'Work time tracking with SeaTable: digital, free, GDPR-compliant. Efficient and legally compliant management of work hours, leave, and sick days.'
+    title: 'Time Tracking with SeaTable | Efficient, Digital & Compliant'
+    description: 'Track work hours with SeaTable: digital, free, GDPR-compliant. Efficient and legal management of hours, vacations, and sick leave.'
 date: '2025-08-21'
 url: '/work-time-tracking/'
 aliases:
