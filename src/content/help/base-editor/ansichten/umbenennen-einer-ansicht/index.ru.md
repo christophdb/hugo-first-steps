@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/umbenennen-einer-ansicht'
+url: '/ru/pomoshch/pereimenovat-predstavlenie'
+aliases:
+    - '/ru/pomoshch/umbenennen-einer-ansicht'
+seo:
+    title: 'Переименовать представление в SeaTable – просто поменять'
+    description: 'Узнайте, как переименовать представление в SeaTable для структурирования данных. Пошаговое руководство без сложностей.'
 ---
 
 Для оптимального обзора данных в вашей таблице SeaTable предлагает вам **представления**, в которых вы можете сохранить свои фильтры, сортировки и группировки. Вы должны дать этим представлениям осмысленное название. Вы также можете **переименовать** свои представления в любое время позже.

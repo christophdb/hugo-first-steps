@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+url: '/help/enforce-two-factor-authentication-entire-team'
+aliases:
+    - '/help/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+seo:
+    title: 'Enforce 2FA for All Team Members in SeaTable Easily'
+    description: 'Learn how to enforce two-factor authentication for every team member in SeaTable and improve account security for your whole team in a few simple steps.'
+
 ---
 
 **Two-factor authentication** lets you set a second security barrier in addition to members' personal passwords. It also ensures that only each team member can personally access their account, even if someone else knows the password.

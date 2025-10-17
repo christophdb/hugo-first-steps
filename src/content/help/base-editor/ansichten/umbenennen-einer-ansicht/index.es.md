@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/es/ayuda/umbenennen-einer-ansicht'
+url: '/es/ayuda/renombrar-vista'
+aliases:
+    - '/es/ayuda/umbenennen-einer-ansicht'
+seo:
+    title: 'Renombrar una vista en SeaTable: cambia el nombre fácil'
+    description: 'Descubre cómo renombrar vistas en SeaTable rápidamente y organiza mejor tus datos. Instrucciones claras paso a paso.'
 ---
 
 Para una visión óptima de los datos de su tabla, SeaTable le ofrece **vistas** en las que puede guardar sus filtros, ordenaciones y agrupaciones. Debería dar a estas vistas un nombre significativo. También puedes **renombrar** tus vistas en cualquier momento posterior.

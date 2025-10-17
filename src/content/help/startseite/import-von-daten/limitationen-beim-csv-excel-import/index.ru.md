@@ -5,7 +5,13 @@ lastmod: '2024-05-10'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/pomoshch/limitationen-beim-csv-excel-import'
+url: '/ru/pomoshch/ogranicheniya-import-csv-excel'
+aliases:
+    - '/ru/pomoshch/limitationen-beim-csv-excel-import'
+seo:
+    title: 'Ограничения при импорте CSV/Excel в SeaTable: все детали'
+    description: 'Узнайте об ограничениях размера файла и количества строк при импорте CSV/Excel в SeaTable Cloud и Server. Важные нюансы и советы по импортированию.'
+
 ---
 
 SeaTable имеет мощную функцию импорта, чтобы максимально упростить процесс **импорта записей данных из файлов XLSX или CSV**. В большинстве случаев импорт проходит без каких-либо затруднений. Если вы попытаетесь импортировать слишком много записей одновременно, SeaTable предупредит вас об установленном ограничении. В то время как на собственных серверах SeaTable вы можете свободно выбирать **ограничения на размер файла и количество строк**, SeaTable Cloud накладывает на вас определенные ограничения.

@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/fr/aide/tabellen-miteinander-verlinken'
+url: '/fr/aide/lier-tableaux'
+aliases:
+    - '/fr/aide/tabellen-miteinander-verlinken'
+seo:
+    title: 'Lier des tableaux dans SeaTable – méthode claire & rapide'
+    description: 'Apprenez à relier des lignes entre plusieurs tableaux SeaTable grâce à la colonne de liaison. Méthode pas à pas pour des bases relationnelles agiles.'
+
 ---
 
 SeaTable ressemble à première vue à un tableur, mais fonctionne à de nombreux égards comme une base de données. Les tableaux de SeaTable ne sont pas isolés les uns des autres, mais peuvent mettre en relation des lignes à l'aide d'une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

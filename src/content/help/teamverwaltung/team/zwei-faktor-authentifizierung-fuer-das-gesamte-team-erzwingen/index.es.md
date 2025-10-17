@@ -5,7 +5,13 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+url: '/es/ayuda/forzar-2fa-equipo-completo'
+aliases:
+    - '/es/ayuda/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+seo:
+    title: 'Forzar 2FA para todos los miembros del equipo en SeaTable'
+    description: 'Descubre cómo exigir la autenticación de dos factores para cada miembro del equipo en SeaTable y así aumentar la seguridad general fácilmente.'
+
 ---
 
 **La autenticación de dos factores** le permite establecer una segunda barrera de seguridad además de las contraseñas personales de los miembros. También garantiza que sólo cada miembro del equipo pueda acceder personalmente a su cuenta, aunque otra persona conozca la contraseña.

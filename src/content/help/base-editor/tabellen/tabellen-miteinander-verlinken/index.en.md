@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/help/tabellen-miteinander-verlinken'
+url: '/help/link-tables'
+aliases:
+    - '/help/tabellen-miteinander-verlinken'
+seo:
+    title: 'Link Tables in SeaTable – Step-by-Step Connection Guide'
+    description: 'Learn how to use link columns to connect rows across tables in SeaTable and build powerful relationships between your data easily.'
+
 ---
 
 At first glance, SeaTable looks like a spreadsheet, but in many places it works like a database. The tables in SeaTable are not isolated, but can relate rows to each other using a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

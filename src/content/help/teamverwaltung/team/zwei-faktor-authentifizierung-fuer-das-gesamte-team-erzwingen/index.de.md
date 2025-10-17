@@ -6,6 +6,10 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+seo:
+    title: '2FA für ganzes Team in SeaTable verpflichtend aktivieren'
+    description: 'Erfahren Sie, wie Sie Zwei-Faktor-Authentifizierung für alle Teammitglieder in SeaTable zentral aktivieren und die Datensicherheit nachhaltig erhöhen.'
+
 ---
 
 Durch die **Zwei-Faktor-Authentifizierung** können Sie neben dem persönlichen Passwort der Mitglieder eine zweite Sicherheitsbarriere festlegen. Zudem wird sichergestellt, dass nur jedes Teammitglied persönlich auf seinen Account zugreifen kann, selbst wenn eine andere Person das Passwort kennt.

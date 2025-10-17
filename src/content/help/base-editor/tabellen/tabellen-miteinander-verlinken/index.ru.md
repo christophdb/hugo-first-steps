@@ -5,7 +5,13 @@ lastmod: '2023-01-02'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'cdb'
-url: '/ru/pomoshch/tabellen-miteinander-verlinken'
+url: '/ru/pomoshch/svjazat-tablitsy'
+aliases:
+    - '/ru/pomoshch/tabellen-miteinander-verlinken'
+seo:
+    title: 'Связать таблицы в SeaTable – инструкция по связям строк '
+    description: 'Узнайте, как связывать строки между таблицами SeaTable с помощью связующих столбцов. Подробное пошаговое руководство на русском.'
+
 ---
 
 На первый взгляд SeaTable выглядит как электронная таблица, но во многих местах она работает как база данных. Таблицы в SeaTable не изолированы, а могут связывать строки друг с другом с помощью [столбца ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

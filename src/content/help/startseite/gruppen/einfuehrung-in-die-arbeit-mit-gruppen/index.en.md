@@ -5,7 +5,13 @@ lastmod: '2023-01-07'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/help/einfuehrung-in-die-arbeit-mit-gruppen'
+url: '/help/getting-started-groups'
+aliases:
+    - '/help/einfuehrung-in-die-arbeit-mit-gruppen'
+seo:
+    title: 'Getting Started with Groups in SeaTable – Collaboration Made Easy'
+    description: 'Learn how groups in SeaTable simplify collaboration and organize access rights efficiently. Overview, benefits and step-by-step instructions for setup.'
+
 ---
 
 Within a team, not every team member automatically has access to every base. On the contrary, when you create a new base, initially only you as the creator have access to this base - and it is in your hands who is allowed to work together on this new base. For each team member who is to have access to the base, a corresponding base share must be created.
