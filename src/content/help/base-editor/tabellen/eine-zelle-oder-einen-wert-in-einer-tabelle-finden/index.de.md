@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
 url: '/de/hilfe/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
+seo:
+    title: 'Zellen und Werte in SeaTable schnell finden – Anleitung'
+    description: 'So suchen Sie gezielt nach Zellen und Werten in SeaTable: Suchfunktion, Profi-Tipps und Tastenkombinationen für effiziente Tabellenarbeit.'
 ---
 
 Tabellen in SeaTable können Tausende von Datensätzen enthalten. Damit Sie einzelne Zellen bzw. Werte trotzdem schnell und einfach finden können, gibt es in SeaTable die Möglichkeit, nach einzelnen Werten und Begriffen zu suchen.

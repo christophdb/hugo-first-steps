@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/help/verschieben-einer-tabelle'
+url: '/help/move-table'
+aliases:
+    - '/help/verschieben-einer-tabelle'
+seo:
+    title: 'Move Tables in SeaTable – Simple Drag-and-Drop Guide'
+    description: 'Learn how to move tables in SeaTable using drag-and-drop or menu options to organize and sort your data efficiently. Quick step-by-step instructions.'
 ---
 
 At the latest when your base has gradually filled up with various tables, it is time to think about a **sensible order for the tables** in your base. **Move** thematically related tables next to each other and place the most important tables at the top. You will see: Thanks to **drag-and-drop**, moving tables is child's play.

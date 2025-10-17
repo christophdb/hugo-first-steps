@@ -5,7 +5,12 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/help/eine-geloeschte-base-wiederherstellen'
+url: '/help/restore-deleted-base'
+aliases:
+    - '/help/eine-geloeschte-base-wiederherstellen'
+seo:
+    title: 'Restore a Deleted Base in SeaTable – Step-by-Step Guide'
+    description: 'Learn how to restore deleted bases in SeaTable using the recycle bin. Covers all deadlines, limitations, and tips for successful data recovery.'
 ---
 
 Bases that you have created under "My bases" or in groups can be deleted and restored from the Trash if required. Note that you can restore a base only up to 30 days after deleting it. After this time, deleted bases are permanently removed from SeaTable and can no longer be restored.

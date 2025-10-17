@@ -6,6 +6,9 @@ categories:
   - "historie-und-versionen"
 author: "nsc2"
 url: "/de/hilfe/eine-geloeschte-base-wiederherstellen"
+seo:
+    title: 'Eine gelöschte Base in SeaTable wiederherstellen – so geht’s'
+    description: 'Anleitung, wie Sie gelöschte Bases in SeaTable über den Papierkorb oder Gruppenpapierkorb wiederherstellen können – alles zu Fristen und Einschränkungen.'
 ---
 
 Bases, die Sie unter "Meine Bases" oder in Gruppen erstellt haben, können Sie löschen und bei Bedarf aus dem jeweiligen Papierkorb wiederherstellen. Beachten Sie dabei, dass eine Wiederherstellung nur bis maximal 30 Tage nach der Löschung einer Base möglich ist. Nach Ablauf dieser Zeit werden gelöschte Bases endgültig aus SeaTable entfernt und können nicht mehr wiederhergestellt werden.

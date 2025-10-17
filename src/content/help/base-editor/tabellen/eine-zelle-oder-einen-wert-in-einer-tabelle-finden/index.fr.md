@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/fr/aide/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
+url: '/fr/aide/trouver-cellule-ou-valeur'
+aliases:
+    - '/fr/aide/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
+seo:
+    title: 'Trouver une cellule ou valeur dans SeaTable – guide express'
+    description: 'Découvrez comment trouver rapidement des cellules ou valeurs dans SeaTable grâce à la saisie, aux raccourcis clavier et astuces de navigation.'
 ---
 
 Les tableaux de SeaTable peuvent contenir des milliers d'enregistrements. Pour que vous puissiez malgré tout trouver rapidement et facilement des cellules ou des valeurs individuelles, SeaTable offre la possibilité de rechercher des valeurs et des termes individuels.

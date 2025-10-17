@@ -5,7 +5,12 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/pt/ajuda/eine-geloeschte-base-wiederherstellen'
+url: '/pt/ajuda/recuperar-base-excluida'
+aliases:
+    - '/pt/ajuda/eine-geloeschte-base-wiederherstellen'
+seo:
+    title: 'Recuperar uma base excluída no SeaTable – instruções rápidas'
+    description: 'Saiba como restaurar bases apagadas no SeaTable usando a lixeira ou lixeira do grupo. Tudo sobre prazos, limites e dicas importantes de sucesso.'
 ---
 
 As bases que criou em "As minhas bases" ou em grupos podem ser eliminadas e, se necessário, restauradas a partir do respectivo caixote do lixo. Tenha em atenção que um restauro só é possível até um máximo de 30 dias após a eliminação de uma base. Após este período, as bases eliminadas são removidas permanentemente do SeaTable e já não podem ser restauradas.

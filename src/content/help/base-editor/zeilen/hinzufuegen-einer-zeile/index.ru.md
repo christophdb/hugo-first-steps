@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/pomoshch/hinzufuegen-einer-zeile'
+url: '/ru/pomoshch/dobavit-stroku'
+aliases:
+    - '/ru/pomoshch/hinzufuegen-einer-zeile'
+seo:
+    title: 'Добавить новую строку в SeaTable – все способы '
+    description: 'Узнайте обо всех способах добавления строк в SeaTable: иконка, меню, сочетание клавиш и плагины. Советы о правах доступа внутри.'
 ---
 
 Существует несколько способов добавления **нового ряда в** SeaTable. В этой статье вы узнаете о различных возможностях.

@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
 url: '/de/hilfe/die-besonderheiten-der-ersten-spalte'
+seo:
+    title: 'Die Besonderheiten der ersten Spalte in SeaTable erklärt'
+    description: 'Erfahren Sie, was die erste Spalte von SeaTable besonders macht, wie Sie deren Typ anpassen und welche Einschränkungen oder Vorteile zu beachten sind.'
 ---
 
 Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen Spalten mehrere Besonderheiten und Einschränkungen auf. Hier erfahren Sie, wie Sie die erste Spalte in SeaTable anpassen können.

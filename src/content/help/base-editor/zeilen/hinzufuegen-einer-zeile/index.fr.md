@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/fr/aide/hinzufuegen-einer-zeile'
+url: '/fr/aide/ajouter-ligne'
+aliases:
+    - '/fr/aide/hinzufuegen-einer-zeile'
+seo:
+    title: 'Ajouter une nouvelle ligne dans SeaTable – explications'
+    description: 'Apprenez toutes les méthodes pour ajouter une ligne dans SeaTable : bouton plus, raccourci, clic droit, plugins. Conseils sur les autorisations inclus.'
 ---
 
 Il existe plusieurs façons d'ajouter une **nouvelle ligne** dans SeaTable. Vous découvrirez les différentes possibilités dans cet article.

@@ -5,7 +5,12 @@ lastmod: '2023-03-01'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/es/ayuda/hinzufuegen-einer-zeile'
+url: '/es/ayuda/anadir-fila'
+aliases:
+    - '/es/ayuda/hinzufuegen-einer-zeile'
+seo:
+    title: 'Añadir una nueva fila en SeaTable – métodos y consejos'
+    description: 'Descubre cómo añadir filas nuevas en SeaTable: icono, menú contextual, atajos o plugins. Incluye advertencias sobre permisos.'
 ---
 
 Hay varias formas de añadir una **nueva fila en** SeaTable. Usted aprenderá acerca de las diferentes posibilidades en este artículo.

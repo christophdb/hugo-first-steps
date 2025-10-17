@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/fr/aide/verschieben-einer-tabelle'
+url: '/fr/aide/deplacer-table'
+aliases:
+    - '/fr/aide/verschieben-einer-tabelle'
+seo:
+    title: 'Déplacer une table dans SeaTable – méthode facile'
+    description: 'Apprenez à déplacer vos tables dans SeaTable par glisser-déposer ou menu pour améliorer la gestion et l’ordre dans vos bases rapidement.'
 ---
 
 Au plus tard lorsque votre base s'est peu à peu remplie de divers tableaux, il est temps de réfléchir à un **ordre judicieux des tableaux** dans votre base. **Déplacez** les tableaux thématiques les uns à côté des autres et placez les tableaux les plus importants au début. Vous verrez que cela fonctionne : Grâce au **glisser-déposer**, le déplacement est un jeu d'enfant.
