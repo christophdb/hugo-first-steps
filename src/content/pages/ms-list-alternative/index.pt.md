@@ -1,66 +1,124 @@
 ---
-title: '#1 Microsoft Lists Alternative (cloud und on-premise)'
+title: 'Alternativa nº 1 ao Microsoft Lists (na nuvem e no local)'
 description: 'O SeaTable é a alternativa perfeita ao Microsoft Lists, especialmente para empresas que não pretendem armazenar os seus dados na Microsoft Cloud, mas que pretendem manter o controlo total com um servidor auto-hospedado. O SeaTable é a única alternativa real no local.'
 seo:
-    title: ''
-    description: ''
+    title: 'Alternativa ao Microsoft Lists? Confie no SeaTable!'
+    description: "O SeaTable é a sua alternativa flexível às Listas Microsoft. Trabalhe de forma segura com total soberania de dados, interface personalizável e API poderosa"
 date: '2025-04-30'
-url: '/pt/microsoft-lists-alternative'
+url: '/pt/alternativa-ao-microsoft-lists'
+aliases: 
+  - '/pt/microsoft-lists-alternative'
 
 sections:
     - name: hero-5
       weight: 1
-      title: Você está procurando uma alternativa ao Microsoft Lists?
-      text: O SeaTable é a alternativa perfeita ao Microsoft Lists, especialmente para empresas que não querem armazenar seus dados na nuvem da Microsoft, mas desejam ter controle total com um servidor auto-hospedado. O SeaTable é a única verdadeira alternativa on-premise.
+      title: Está à procura de uma alternativa às Listas da Microsoft?
+      text: "Flexível, intuitivo e em conformidade com o RGPD: o SeaTable permite-lhe gerir as suas listas e processos sem renunciar ao controlo dos seus dados. Ideal para empresas que dão grande importância à proteção de dados e não querem armazenar os seus dados na Microsoft Cloud."
       classes:
           - bg-gray-200
       template: 3d757663bb3648439b9d
       buttons:
-          - label: Comece agora
+          - label: Registe-se agora gratuitamente e comece a trabalhar
             link: 'pages/registration'
             style: primary
-          - label: Conheça os recursos
+          - label: Conheça as funções
             link: pages/functions
 
     - name: 'content-9'
       weight: 2
-      title: Vantagens do SeaTable em relação ao Microsoft Lists
-      subtitle: Use a melhor solução
-      description: Se você conhece o Microsoft Lists, vai adorar o SeaTable. O SeaTable oferece mais recursos e, como única alternativa, a possibilidade de rodar o SeaTable em seu próprio servidor, no seu data center, com seu domínio e identidade visual.
+      title: O SeaTable é a alternativa perfeita às Listas da Microsoft
+      subtitle: Vantagens do SeaTable
+      description: Se conhece o Microsoft Lists, vai adorar o SeaTable. O SeaTable oferece mais funcionalidades e, ao mesmo tempo, é a única alternativa que lhe permite executar o SeaTable no seu próprio servidor, no seu centro de dados, com o seu domínio e com a sua identidade empresarial.
       items:
-          - headline: On-Premise
-            text: Os dados da empresa não devem estar em mãos de terceiros, mas sim em um sistema SeaTable auto-hospedado.<br><br>O Microsoft Lists só está disponível como parte do Office 365 na nuvem da Microsoft. Com o SeaTable, você decide onde instalar seu sistema e quem tem acesso aos seus dados.<br><br>O SeaTable roda tanto em servidores Linux quanto Windows, dedicados ou virtualizados. Até mesmo operação em cluster é possível.
+          - headline: No local
+            text: Os dados da empresa não devem estar nas mãos de outra pessoa, mas sim num sistema auto-hospedado. O Microsoft Lists só está disponível como parte do Office 365 a partir da Microsoft Cloud. Com o SeaTable, decide onde instala o seu sistema e quem tem acesso aos seus dados.
             icon: bullseye
-          - headline: Mais recursos e visualizações
-            text: O SeaTable oferece mais tipos de colunas, visualizações e opções de entrada.<br><br>Com mais de 20 tipos de colunas, o SeaTable oferece muito mais possibilidades de coleta de dados do que o Microsoft Lists.<br><br>Apenas o SeaTable permite vincular planilhas, entrada de dados via formulários web e exibe os dados em Kanban ou gráficos.
+          - headline: Mais funções e vistas
+            text: Com mais de 20 tipos de colunas, o SeaTable oferece muito mais opções de introdução de dados do que o Microsoft Lists. Apenas o SeaTable permite a ligação de folhas de cálculo, a introdução de dados através de um formulário Web e apresenta os dados como Kanban ou como um gráfico.
             icon: award
-          - headline: Você define a aparência da sua solução
-            text: Use sua própria URL, logotipo e cores para disponibilizar o SeaTable aos seus colaboradores.<br><br>Não é possível personalizar o Microsoft Lists de acordo com a identidade visual da sua empresa, assim como outros produtos do Office 365. Você precisa aceitar o que é oferecido.<br><br>O SeaTable é exatamente o oposto. Você escolhe a URL de acesso, as cores e o logotipo, e até mesmo os templates do SeaTable podem ser personalizados.
+          - headline: Uma solução na sua conceção
+            text: Não pode adaptar o Microsoft Lists ao design da sua empresa, tal como não pode adaptar os outros produtos do Office 365. Tem de aceitar o que aparece. Com o SeaTable, determina em que URL o sistema está acessível, que cores e que logótipo é utilizado.
             icon: edit
-          - headline: Teste gratuito, pacotes empresariais acessíveis
-            text: O SeaTable não está vinculado a nenhum pacote Office. Você pode testar o SeaTable facilmente na nuvem.<br><br>O SeaTable está disponível em várias versões. O SeaTable Cloud oferece todas as funcionalidades para o usuário, para que você possa testar o SeaTable com comodidade. O servidor SeaTable também pode ser instalado e testado gratuitamente e sem compromisso com até três usuários.
+          - headline: Teste gratuito, pacotes empresariais de baixo custo
+            text: O SeaTable está disponível em diferentes versões. O SeaTable Cloud oferece todas as funções de utilizador para que possa experimentar o SeaTable com facilidade. O SeaTable Server também pode ser instalado e testado gratuitamente e sem compromisso para um máximo de três utilizadores.
             icon: leaf
-          - headline: Extensões e plugins personalizados
-            text: O sistema de plugins do SeaTable não impõe limites à sua criatividade.<br><br>Precisa de uma visualização especial para dados geográficos? Sem problemas!<br><br>O SeaTable oferece um sistema próprio de plugins, permitindo expandir e adaptar as funcionalidades do SeaTable conforme suas necessidades.
+          - headline: Extensões e plug-ins individuais
+            text: O sistema de plugins do SeaTable não impõe limites à sua imaginação. Precisa de uma apresentação especial de geodados? Não há problema! O SeaTable oferece o seu próprio sistema de plug-ins com o qual as funções do SeaTable podem ser alargadas conforme necessário e adaptadas às suas próprias necessidades.
             icon: list-check
-          - headline: Mais e mais flexíveis opções de entrada
-            text: Não se limite à entrada manual de dados e importação do Excel com o Microsoft Lists.<br><br>O Microsoft Lists oferece menos opções de entrada de dados do que o SeaTable. Use formulários web, links de compartilhamento e “Data Collection Sheets” para permitir que colaboradores ou parceiros coletem dados. Assim, você pode consolidar todas as informações em um único sistema.
+          - headline: Opções de introdução cada vez mais flexíveis
+            text: "O Microsoft Lists oferece menos funções de introdução de dados do que o SeaTable. Utilize formulários Web, ligações de lançamento e 'Folhas de Recolha de Dados' para que os seus funcionários ou parceiros de negócios introduzam dados. Esta é a única forma de consolidar todas as informações e dados num único sistema."
             icon: edit
-          - headline: API completa e flexível
-            text: Gerencie todo o seu sistema, usuários e bases via API.<br><br>O Microsoft Lists não oferece interface de API, tornando difícil a integração com suas próprias soluções.<br><br>A API do SeaTable facilita tudo isso. Você tem acesso a todas as funções de API para modificar dados dentro de uma base, além de várias outras chamadas para usuários, líderes de equipe e administradores. Confira nossa [API Reference](https://api.seatable.com).
-            icon: code
-          - headline: Segurança total dos dados e LGPD europeia
-            text: Só com o SeaTable você tem controle total e decide onde seus dados são armazenados.<br><br>A Microsoft é uma empresa americana e armazena seus dados em data centers nos EUA. Se isso não for um problema para você, ótimo. Mas se quiser controle total sobre o fluxo e o local de armazenamento dos dados, use seu próprio servidor SeaTable. Assim, você pode usar o SeaTable para dados sensíveis, pessoais ou em áreas que exigem maior proteção. Só um sistema on-premise permite isso.
-            icon: fingerprint
-
+         
     - name: customer-1
       weight: 3
-      title: 'Empresas do mundo todo confiam no SeaTable'
-      subtitle: 'Quem usa o SeaTable?'
+      title: 'Empresas de todo o mundo confiam no SeaTable'
+      subtitle: 'Quem utiliza o SeaTable?'
       maquee_rows: 1
 
-    - name: 'content-21'
+    - name: 'content-10'
       weight: 4
+      title: 'SeaTable - A sua alternativa ao Microsoft Lists com uma API forte'
+      subtitle: 'Integrações padrão'
+      description: O Microsoft Lists não oferece uma interface API, o que dificulta a integração do Microsoft Lists com as suas próprias soluções. Graças à API flexível do SeaTable e à fácil integração de terceiros, isto já não é um obstáculo para si.
+      items:
+          - image: '/images/logos/zapier.svg'
+          - image: '/images/logos/make.svg'
+          - image: '/images/logos/n8n.svg'
+          - image: '/images/logos/seatable-api.svg'
+     
+    - name: 'content-3'
+      weight: 5
+      title: Funções abrangentes em todos os modelos de preço
+      subtitle: Nuvem ou auto-hospedado?
+      description: ''
+      items:
+          - headline: SeaTable Cloud
+            text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa - flexível e escalável.
+            image: /images/template-projektplan.png
+          - headline: SeaTable Server
+            text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
+            image: /images/template-massnahmenplan.jpg
+          - headline: SeaTable Dedicated
+            text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado. 
+            image: /images/asana-dedicated.jpg
+
+    - name: 'content-8'
+      weight: 10
+      title: Teste os nossos modelos gratuitos
+      subtitle: Modelos para todos os casos de utilização
+      description: O SeaTable oferece vários modelos gratuitos para o ajudar a começar. Importe modelos para a sua conta SeaTable com apenas um clique.
+      items:
+          - text: "Lista de tarefas"
+            image: /images/to-do-liste.png
+            image_alt: ""
+          - text: Planeador de workshops
+            image: /images/workshop-planer.png
+            image_alt: ""
+          - text: Plano de ação
+            image: /images/maßnahmenplan.png
+            image_alt: ""
+      buttons:
+        - label: Descubra todos os modelos
+          link: "templates"
+
+    - name: "content-4"
+      weight: 7
+      title: A sua alternativa às Listas da Microsoft em conformidade com o RGPD
+      subtitle: Sem compromissos no que diz respeito à proteção de dados
+      text: "O SeaTable está alojado exclusivamente em servidores na Alemanha e está 100% em conformidade com o RGPD. Combinamos os mais elevados padrões para a proteção de dados sensíveis e o cumprimento dos regulamentos de proteção de dados com processos de trabalho transparentes e flexíveis."
+      items:
+      - icon: terminal
+        headline: Soluções no local para um controlo total dos dados
+        text: "Com o SeaTable Server, mantém o controlo total sobre os seus dados - com a mesma gama de funções que com o SeaTable Cloud."
+      - icon: user-plus
+        headline: Definições de segurança definidas pelo utilizador
+        text: "Restrinja o acesso a informações sensíveis com acesso individual e direitos de edição."
+      - icon: fingerprint
+        headline: Autenticação e início de sessão único
+        text: "Proteja os seus dados adicionalmente com autenticação de dois factores e SSO em todos os modelos de subscrição."
+    
+    - name: 'content-21'
+      weight: 8
       title: Importe dados do Microsoft Lists para o SeaTable
       text: Você já usa o Microsoft Lists e procura uma alternativa auto-hospedada. A transferência dos seus dados do Lists para o SeaTable é muito simples via exportação e importação.
       items:
@@ -68,4 +126,25 @@ sections:
             text: Devido à estrutura de dados semelhante entre o Microsoft Lists e o SeaTable, você pode migrar suas tabelas existentes para o SeaTable sem dificuldades. Basta exportar suas tabelas como arquivo CSV e importar no SeaTable. Não poderia ser mais fácil.
           - headline: Teste gratuito
             text: Com o SeaTable, você pode se cadastrar gratuitamente e sem compromisso. Assim, você pode testar a migração de dados sem preocupações.
+
+    - name: "banner-2"
+      weight: 9
+      title: Experimente-o gratuitamente e descubra as vantagens do SeaTable
+      buttons:
+           - label: Registe-se agora e comece já a trabalhar
+             link: pages/registration
+             id: 
+
+    - name: faq
+      weight: 11
+      title: Perguntas frequentes - SeaTable como alternativa ao Microsoft Lists
+      items:
+          - q: 'Que funções é que o SeaTable oferece?'
+            a: "O SeaTable oferece uma vasta gama de funções para uma gestão de dados transparente e em tempo real e processos eficientes: quer se trate de automatizações, funções de notificação, Universal App Builder ou dashboards de relatórios: pode adaptar o SeaTable de forma flexível às suas necessidades. A plataforma é flexível e pode ser utilizada tanto como uma solução na nuvem como no local."
+
+          - q: 'A utilização do SeaTable é realmente gratuita?'
+            a: 'Sim, pode utilizar o SeaTable no Plano Gratuito gratuitamente por um período de tempo ilimitado. Para obter funções alargadas e mais espaço de armazenamento, pode optar pela versão Premium, mais económica.'
+
+          - q: 'O SeaTable oferece-lhe apoio gratuito?'
+            a: 'Se tiver alguma dúvida sobre o SeaTable ou sobre funções individuais, estamos sempre ao seu lado. Pode contactar o nosso apoio através do fórum SeaTable ou diretamente por e-mail.'    
 ---
