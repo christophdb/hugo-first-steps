@@ -11,7 +11,7 @@ tags:
 color: '#f6e493'
 seo:
     title: 'Invoicing made easy: Issue legally compliant billing'
-    description: ROptimize your invoicing process: key legal requirements, deadlines, and digital tools for simple, secure billing
+    description: 'Optimize your invoicing process: key legal requirements, deadlines, and digital tools for simple, secure billing'
 ---
 
 ## What does invoicing mean? Definition and relevance
