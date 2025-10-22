@@ -315,7 +315,9 @@
                 // Check if the URL has a next parameter (passed from seatable cloud after base invitation)
                 if (params.has('next')) {
                     const nextValue = params.get('next');
-                    if (nextValue.startsWith('/dtable/links/')) {
+                    if (nextValue.startsWith('/dtable/links/') ||
+                        nextValue.startsWith('/dtable/universal-app/links/')
+                    ) {
                         localStorage.setItem('next', nextValue);
                     }
                 }
