@@ -10,8 +10,8 @@ tags:
     - 'Accounting'
 color: '#f6e493'
 seo:
-    title: 'Invoicing | Billing'
-    description: Read how to optimize invoicing in your company and what mistakes you can avoid.
+    title: 'Invoicing made easy: Issue legally compliant billing'
+    description: ROptimize your invoicing process: key legal requirements, deadlines, and digital tools for simple, secure billing
 ---
 
 ## What does invoicing mean? Definition and relevance
@@ -96,7 +96,7 @@ If you make a mistake when invoicing, this can have tax and, in the worst case, 
 
 ![invoicing errors](fakturierung-fehler.jpg)
 
-Other typical errors in invoicing are
+**Other typical errors in invoicing are**
 - There is no unique number for each invoice.
 - The VAT is shown incorrectly.
 - The terms of payment are not specified.
@@ -152,20 +152,20 @@ Here is another overview of the most common stumbling blocks in invoicing and wh
 
 ## Free template for electronic invoicing
 
-Electronic invoicing with invoicing software saves you a lot of time and paper. Other advantages for invoicing in your company are the reduced susceptibility to errors, the automation of recurring processes and the simple and clear data analysis. Prepared invoice templates, which already contain all mandatory information, help you to meet the legal requirements.  
+Electronic invoicing with invoicing software like the [no-code platform]({{< relref "/" >}}) from SeaTable saves you a lot of time and paper. Other advantages for invoicing in your company are the **reduced susceptibility to errors, the automation of recurring processes and the simple and clear data analysis**. Prepared invoice templates, which already contain all mandatory information, help you to meet the legal requirements.  
   
 Sounds good? Then start with the [free template from SeaTable]({{< relref "templates/finance/invoice-creation" >}}) and design your company's invoicing according to your ideas! For a taste of our template, scroll through our interactively embedded template:
 
 {{< template id="0341827ed80f4be3888a" >}}
 
-The advantages for your invoicing are:
+**The advantages for your invoicing are:**
 - Simply create and send digital invoices at the touch of a button
 - Intelligent links to other tables in your database
 - Design individual invoice layouts in multiple languages
 - Real-time synchronization for simultaneous team collaboration
 - Various statistics, evaluation and visualization options
 
-Very important: Your data is optimally protected when invoicing with SeaTable and stored in German data centers. You also have the option of hosting [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) yourself and thus retaining full data sovereignty. If you opt for the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data and invoices can also be accessed online at any time and from anywhere.
+**Very important:** Your data is optimally protected when invoicing with SeaTable and stored in German data centers. You also have the option of hosting [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) yourself and thus retaining full data sovereignty. If you opt for the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data and invoices can also be accessed online at any time and from anywhere.
 
 ## Frequently asked questions
 
