@@ -10,8 +10,8 @@ tags:
     - 'Procurement & Logistics'
 color: '#ed5b76'
 seo:
-    title:
-    description:
+    title: 'Optimize Efficient Supply Chain Management for Businesses'
+    description: 'Optimize your supply chain management with digital tools to increase efficiency and reduce costs across your entire value chain.'
 ---
 
 ## Supply chain management and the value chain
