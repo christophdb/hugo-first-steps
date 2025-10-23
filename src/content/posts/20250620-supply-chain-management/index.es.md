@@ -10,8 +10,8 @@ tags:
     - 'Compras y logística'
 color: '#ed5b76'
 seo:
-    title:
-    description:
+    title: 'Optimiza la Gestión Eficiente de la Cadena de Suministr'
+    description: 'Optimiza tu gestión de la cadena de suministro con herramientas digitales y reduce costes mientras mejoras la eficiencia general.'
 ---
 
 ## La gestión de la cadena de suministro y la cadena de valor

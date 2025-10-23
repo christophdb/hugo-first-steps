@@ -10,8 +10,8 @@ tags:
     - 'Approvisionnement & Logistique'
 color: '#ed5b76'
 seo:
-    title:
-    description:
+    title: "Optimisez la Gestion Efficace de la Chaîne d’Approvisionnement"
+    description: "Optimisez votre gestion de la chaîne d’approvisionnement avec des outils numériques pour gagner en efficacité et réduire les coûts"
 ---
 
 ## Gestion de la chaîne d'approvisionnement et de la chaîne de valeur

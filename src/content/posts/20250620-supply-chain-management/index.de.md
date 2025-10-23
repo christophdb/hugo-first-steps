@@ -11,7 +11,7 @@ tags:
 color: '#ed5b76'
 seo:
     title: 'Supply Chain Management: Jetzt Prozesse optimieren'
-    description: 'Entdecken Sie, wie effizientes Supply Chain Management Ihre Geschäftsprozesse revolutioniert. Optimieren Sie Lieferketten von Beschaffung bis Lieferung'
+    description: 'Optimieren Sie Ihr Supply Chain Management: digitale Tools steigern die Effizienz & reduzieren Kosten entlang der Wertschöpfungskette'
 ---
 
 ## Supply Chain Management und die Wertschöpfungskette

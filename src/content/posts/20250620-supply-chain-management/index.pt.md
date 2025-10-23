@@ -10,8 +10,8 @@ tags:
     - 'Aprovisionamento e logística'
 color: '#ed5b76'
 seo:
-    title:
-    description:
+    title: 'Otimize a Gestão Eficiente da Cadeia de Suprimentos'
+    description: 'Otimize o gerenciamento da sua cadeia de suprimentos com ferramentas digitais, ganhe eficiência e reduza custos operacionais.'
 ---
 
 ## A gestão da cadeia de abastecimento e a cadeia de valor
