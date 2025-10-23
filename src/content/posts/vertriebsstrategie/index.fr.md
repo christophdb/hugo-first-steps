@@ -2,8 +2,8 @@
 title: 'Développer une stratégie de vente : plus de succès pour votre équipe de vente'
 description: 'Une stratégie de vente bien pensée et flexible constitue la base du succès de votre équipe de vente et, par conséquent, du succès de votre entreprise. Dans cet article, vous apprendrez comment développer une stratégie de vente et ce qui est particulièrement important.'
 seo:
-    title: 
-    description: 
+    title: 'Élaborez une Stratégie Commerciale Réussie – Conseils'
+    description: 'Optimisez stratégie commerciale : planifiez, gérez et analysez les ressources et les progrès en temps réel, efficacement et avec des données'
 date: 2025-07-03
 categories:
     - 'best-practice'
