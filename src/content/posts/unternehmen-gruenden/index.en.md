@@ -3,7 +3,7 @@ title: 'Starting a business made easy - explained step by step'
 description: 'Becoming self-employed means taking the plunge into freedom and successfully implementing your business idea. Find out how you can get off to a structured start right from the start and overcome typical hurdles with confidence.'
 seo:
     title: 'Starting a business made easy - explained step by step'
-    description: 'Becoming self-employed means taking the plunge into freedom and successfully implementing your business idea. Find out how you can get off to a structured start right from the start and overcome typical hurdles with confidence.'
+    description: 'Start your own business successfully: from idea to launch – structured, secure, and systemized'
 date: 2025-09-25
 url: '/company-foundation'
 tags:
@@ -57,7 +57,7 @@ The executive summary briefly and concisely summarizes your business idea, objec
 
 ### Market analysis and competitors
 
-A thorough market analysis helps you to realistically assess opportunities and risks. Examine trends, the demand for your offer and the most important competitors. This will help you recognize where you can differentiate yourself and how you can strengthen your position in the market.
+A thorough [competitive analysis]({{< relref "posts/wettbewerbsanalyse" >}}) helps you to realistically assess opportunities and risks. Examine trends, the demand for your offer and the most important competitors. This will help you recognize where you can differentiate yourself and how you can strengthen your position in the market.
 
 ### Product or service
 
@@ -69,7 +69,7 @@ This section shows how you want to reach your target group and retain them in th
 
 ### Financial planning
 
-Financial planning forms the basis for the profitability of your project. Make a realistic estimate of all costs, calculate expected sales and check when your company will start operating profitably. Sound financial planning includes costs, turnover and profitability.
+[Financial planning]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) forms the basis for the profitability of your project. Make a realistic estimate of all costs, calculate expected sales and check when your company will start operating profitably. Sound financial planning includes costs, turnover and profitability.
 
 ### Appendix
 
@@ -77,7 +77,7 @@ In the appendix, you can provide additional information that complements your bu
 
 {{< warning headline="Tip" >}}
 
-With SeaTable, you have the option of mapping your entire business plan digitally. Figures, ideas, tasks and documents are bundled in one place, allowing you to maintain an overview at all times. At the same time, you can work on it together with your team, enter changes directly and track progress. This makes planning transparent, efficient and much easier than with traditional documents or spreadsheets.
+With SeaTable [no-code platform]({{< relref "/" >}}), you have the option of mapping your entire business plan digitally. Figures, ideas, tasks and documents are bundled in one place, allowing you to maintain an overview at all times. At the same time, you can work on it together with your team, enter changes directly and track progress. This makes planning transparent, efficient and much easier than with traditional documents or spreadsheets.
 
 {{< /warning >}}
 
@@ -138,7 +138,7 @@ SeaTable covers all the essential steps:
 
 {{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Scroll through our interactive template and discover the first functions." >}}
 
-The decisive advantage is that SeaTable grows with you. What you use at the beginning for **business plan, financial planning and organization**, you can later expand into a comprehensive system for **project management, CRM, reporting and team organization**. This means you have a tool at your side right from the start that supports your start-up and accompanies you in the long term.
+The decisive advantage is that SeaTable grows with you. What you use at the beginning for **business plan, financial planning and organization**, you can later expand into a comprehensive system for [project management]({{< relref "pages/industry-solutions/project-management" >}}), CRM, reporting and team organization. This means you have a tool at your side right from the start that supports your start-up and accompanies you in the long term.
 
 ## FAQs
 
@@ -170,7 +170,7 @@ When you start a business, it is useful to have a checklist so that you don't fo
 - Secure financing
 - Register business and complete tax registration
 - Clarify insurance and memberships
-- Plan marketing and sales strategy
+- Plan marketing and [sales strategy]({{< relref "posts/vertriebsstrategie" >}})
 - Set up organization and accounting
 
 {{< /faq >}}
