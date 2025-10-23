@@ -2,7 +2,7 @@
 title: 'Vertriebsstrategie entwickeln: Mehr Erfolg für Ihr Sales-Team'
 description: 'Eine gut durchdachte, flexible Vertriebsstrategie bildet die Basis für die erfolgreiche Arbeit Ihres Vertriebsteams – und damit für den Erfolg Ihres Unternehmens. In diesem Artikel erfahren Sie, wie Sie eine Vertriebsstrategie entwickeln und worauf es dabei besonders ankommt.'
 seo:
-    title: 'Vertriebsplanung strategisch angehen | SeaTable'
+    title: 'Erfolgreiche Vertriebsstrategie entwickeln – Tipps & Tools'
     description: 'Die ideale Lösung für Ihre Vertriebsplanung. Planen Sie strategisch, verwalten Sie Ressourcen und überwachen Sie den Fortschritt in Echtzeit'
 date: 2025-07-03
 categories:

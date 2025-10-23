@@ -2,8 +2,8 @@
 title: 'Desenvolva uma estratégia de vendas: Mais sucesso para a sua equipa de vendas'
 description: 'Uma estratégia de vendas bem pensada e flexível constitui a base para o trabalho bem sucedido da sua equipa de vendas - e, por conseguinte, para o sucesso da sua empresa. Neste artigo, ficará a saber como desenvolver uma estratégia de vendas e o que é particularmente importante.'
 seo:
-    title: 
-    description: 
+    title: 'Desenvolva uma Estratégia de Vendas de Sucesso – Dicas'
+    description: 'Otimize sua estratégia de vendas: planeje, gerencie e analise recursos e progresso em tempo real – com eficiência e base em dados'
 date: 2025-07-03
 categories:
     - 'best-practice'
