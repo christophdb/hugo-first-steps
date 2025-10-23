@@ -2,8 +2,8 @@
 title: 'Otimização da API na prática: menos chamadas para um melhor desempenho'
 description: 'Descubra como pode reduzir o número de chamadas de API com a utilização inteligente de API, cumprindo assim os limites da equipa e, ao mesmo tempo, aumentando de forma sustentável o desempenho das suas aplicações.'
 seo:
-    title: ''
-    description: ''
+    title: 'Otimização de API: menos chamadas, mais desempenho e eficiência'
+    description: 'Otimize o uso da sua API para integrações mais rápidas, menos chamadas e desempenho máximo.'
 date: 2025-07-11
 url: '/pt/otimizacao-api'
 color: '#4e92a9'
