@@ -2,8 +2,8 @@
 title: 'API optimization in practice: fewer calls for better performance'
 description: 'Learn how you can reduce the number of API calls with smart API usage, thus complying with team limits and at the same time sustainably increasing the performance of your applications'
 seo:
-    title: ''
-    description: ''
+    title: 'API Optimization: Fewer Calls, More Power & Efficiency'
+    description: 'Optimize your API usage for faster integrations, fewer calls, and maximum performance across your projects.'
 date: 2025-07-11
 url: '/api-optimization'
 color: '#4e92a9'

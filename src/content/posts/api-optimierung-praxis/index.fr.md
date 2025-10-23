@@ -2,8 +2,8 @@
 title: "L'optimisation de l'API en pratique : moins d'appels pour plus de performance"
 description: "Découvre comment réduire le nombre d'appels à l'API grâce à une utilisation intelligente de l'API, et ainsi respecter les limites de l'équipe tout en améliorant durablement les performances de tes applications."
 seo:
-    title: ''
-    description: ''
+    title: "Optimisation API : moins d’appels, plus de performance et d’efficacité"
+    description: "Optimisez l’utilisation de votre API pour des intégrations plus rapides, moins d’appels et des performances maximales."
 date: 2025-07-11
 url: '/fr/optimisation-api'
 color: '#4e92a9'
