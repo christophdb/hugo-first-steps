@@ -9,8 +9,8 @@ tags:
 url: '/de/redaktionsplan-social-media'
 color: '#cc0512'
 seo:
-    title: 'Mit einem Redaktionsplan für Social Media den Überblick behalten'
-    description: 'Erfahren Sie, wie Sie mit einem Social Media Plan Ihren Content termingerecht und erfolgreich veröffentlichen können.'
+    title: 'Social-Media-Redaktionsplan: Jetzt effektiv planen'
+    description: 'Erfahren Sie, wie Sie mit einem Social-Media-Plan Ihre Inhalte effizient steuern, planen und analysieren – jetzt alles in einem Tool'
 ---
 
 Um auf Social-Media-Plattformen messbare Erfolge zu erzielen, müssen Sie kontinuierlich neue Inhalte veröffentlichen. Und das oft mehrmals pro Woche für unterschiedliche Kanäle, wie LinkedIn, Instagram, Facebook, X oder Youtube. Es gilt, **termingerecht interessanten und unterhaltsamen Content zu posten**. Bei der Umsetzung hilft Ihnen ein **Social-Media Redaktionsplan**. Lesen Sie in diesem Artikel, wie Sie mit einem Social Media Plan eine erfolgreiche Social-Media-Strategie entwickeln.

@@ -11,8 +11,8 @@ aliases:
     - '/pt/redaktionsplan-social-media/'
 color: '#cc0512'
 seo:
-    title:
-    description:
+    title: 'Planejamento de conteúdo social: organize e programe fácil'
+    description: 'Aprenda a criar um plano de conteúdo para gerenciar, agendar e analisar suas redes sociais com uma única ferramenta eficiente'
 ---
 
 Para obter resultados mensuráveis nas plataformas de mídia social, é preciso publicar continuamente novos conteúdos – muitas vezes várias vezes por semana e para diferentes canais, como LinkedIn, Instagram, Facebook, X ou Youtube. O objetivo é **postar conteúdo interessante e envolvente dentro do prazo**. Um **plano editorial de social media** ajuda muito nessa tarefa. Neste artigo, você aprende como desenvolver uma estratégia de sucesso com um plano de social media.
