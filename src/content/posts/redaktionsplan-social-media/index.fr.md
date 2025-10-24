@@ -11,8 +11,8 @@ aliases:
     - /fr/redaktionsplan-social-media
 color: '#cc0512'
 seo:
-    title:
-    description:
+    title: 'Gestion de contenu social : Planifiez et organisez efficacement'
+    description: 'Découvrez comment élaborer un plan éditorial pour gérer, programmer et analyser votre contenu social efficacement avec un seul outil'
 ---
 
 Pour obtenir des résultats mesurables sur les plates-formes de médias sociaux, vous devez publier continuellement de nouveaux contenus. Et ce, souvent plusieurs fois par semaine pour différents canaux, comme LinkedIn, Instagram, Facebook, X ou Youtube. Il s'agit de **publier des contenus intéressants et divertissants dans les délais impartis**. Un **plan éditorial pour les médias sociaux** vous aidera à le mettre en œuvre. Découvrez dans cet article comment développer une stratégie de médias sociaux efficace grâce à un plan de médias sociaux.

@@ -2,8 +2,8 @@
 title: 'La administración digital, más fácil para las autoridades públicas y las empresas'
 description: 'La administración digital repensada: Seatable permite soluciones flexibles y personalizables para autoridades públicas y empresas de todos los tamaños'
 seo:
-    title: 'Administración digital para autoridades y municipios | SeaTable'
-    description: 'Simplificar la administración digital: SeaTable ofrece a las autoridades públicas una solución flexible sin código para procesos seguros, compatible con GDPR en la nube o en las instalaciones.'
+    title: 'Administración digital para organismos y municipios'
+    description: 'Gestione la administración digital con SeaTable: soluciones flexibles sin código, conformes al RGPD, en la nube o localmente.'
 date: '2025-04-03'
 url: '/es/gobierno-digital'
 aliases:

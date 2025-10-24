@@ -11,8 +11,8 @@ aliases:
     - /es/redaktionsplan-social-media
 color: '#cc0512'
 seo:
-    title:
-    description:
+    title: 'Planificador de contenido en redes sociales: Organiza y programa fáci'
+    description: 'Aprende a crear un plan de redes sociales para gestionar, programar y analizar tus contenidos de forma eficiente con una sola herramienta'
 ---
 
 Para lograr un éxito mensurable en las plataformas de medios sociales, es necesario publicar continuamente nuevos contenidos. Y a menudo varias veces a la semana para distintos canales, como LinkedIn, Instagram, Facebook, X o YouTube. Hay que **publicar contenidos interesantes y entretenidos a tiempo**. Un **plan editorial para redes sociales** puede ayudarte a conseguirlo. Lee este artículo para saber cómo desarrollar una estrategia de éxito en las redes sociales con un plan editorial.
