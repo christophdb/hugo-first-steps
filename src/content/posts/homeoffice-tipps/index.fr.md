@@ -11,8 +11,8 @@ url: '/fr/conseils-teletravail'
 aliases:
     - /fr/homeoffice-tipps
 seo:
-    title:
-    description:
+    title: 'En détresse en télétravail ? Ces conseils vont vous aider'
+    description: 'Vous ne savez pas par où commencer le matin et votre pause déjeuner est encore passée ? Nos conseils vous aideront.'
 ---
 
 Vous êtes chef d'équipe et vous vous demandez comment organiser au mieux vos réunions hebdomadaires depuis votre bureau à domicile ? Jetez donc un coup d'œil [ici]({{< relref "templates/projects/team-meetings" >}}), nous avons développé le modèle qui vous convient !

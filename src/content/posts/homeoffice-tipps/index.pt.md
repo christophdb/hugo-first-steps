@@ -11,8 +11,8 @@ url: '/pt/dicas-home-office'
 aliases:
     - /pt/homeoffice-tipps
 seo:
-    title:
-    description:
+    title: 'Desesperado no home office? Com estas dicas vai dar certo'
+    description: 'Você não sabe por onde começar de manhã e já perdeu o almoço de novo? Nossas dicas vão te ajudar'
 ---
 
 É líder de equipa e está a pensar como organizar melhor as suas reuniões semanais a partir do seu escritório em casa? Dê uma olhada [aqui,]({{< relref "templates/projects/team-meetings" >}}) desenvolvemos o modelo certo para si!

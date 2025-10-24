@@ -9,8 +9,8 @@ tags:
 color: '#c1601e'
 url: '/de/homeoffice-tipps'
 seo:
-    title: 'Verzweifelt im Homeoffice? Mit diesen Tipps klappt es!'
-    description: 'Sie wissen morgens nicht wo sie anfangen sollen und die Mittagspause im Homeoffice ist schon wieder ausgefallen? Unsere Tipps helfen!'
+    title: 'Verzweifelt im Homeoffice? Mit diesen Tipps klappt es'
+    description: 'Sie wissen morgens nicht wo sie anfangen sollen und die Mittagspause im Homeoffice ist schon wieder ausgefallen? Unsere Tipps helfen'
 ---
 
 Sie sind Teamleiter und Fragen sich, wie Sie Ihre wöchentlichen Meetings am besten aus dem Homeoffice organisieren? Schauen Sie doch auch mal [hier]({{< relref "templates/projects/team-meetings" >}}) vorbei, wir haben das passende Template für Sie entwickelt!

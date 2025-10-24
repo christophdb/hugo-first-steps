@@ -11,8 +11,8 @@ url: '/es/consejos-home-office'
 aliases:
     - /es/homeoffice-tipps
 seo:
-    title:
-    description:
+    title: '¿Desesperado en el teletrabajo? Con estos consejos funcionará'
+    description: '¿No sabe por dónde empezar por la mañana y otra vez se saltó el almuerzo en casa? Nuestros consejos le ayudarán.'
 ---
 
 ¿Es usted un jefe de equipo y se pregunta cuál es la mejor manera de organizar sus reuniones semanales desde su oficina en casa? Echa un vistazo [aquí, ¡hemos]({{< relref "templates/projects/team-meetings" >}}) desarrollado la plantilla adecuada para ti!
