@@ -10,8 +10,8 @@ color: '#07bfff'
 url: '/weglot-translation-plugin-wordpress'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'How to Automatically Translate Your Website with Weglot'
+    description: 'Weglot is a WordPress plugin that automatically translates your website into other languages, helping you reach new audiences.'
 ---
 
 Weglot is a WordPress plugin for automatically translating your own website. The idea is simple and quickly explained. You write all the texts on your own website in your native language as usual and let Weglot translate all the content into one or more other languages. The website visitor is automatically redirected to the language version that suits him and [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) takes care of all the necessary work for international SEO. 

@@ -15,8 +15,8 @@ url: '/de/ventil-verlag-prozessoptimierung'
 aliases:
     - '/de/ventil-verlag'
 seo:
-    title: ''
-    description: ''
+    title: 'Prozessoptimierung beim Ventil Verlag mit SeaTable'
+    description: 'Der Ventil Verlag optimiert seine internen Abläufe mit SeaTable – flexible Prozesse, wo Standardsoftware an Grenzen stößt.'
 ---
 
 Der Ventil Verlag braucht ein flexibles Organisationstool für seine internen Verlagsprozesse. Die vielfältigen und kleinen Organisationsaufgaben, die sich in keiner Standardsoftware sinnvoll abbilden lassen, haben den Ventil Verlag zu SeaTable geführt.

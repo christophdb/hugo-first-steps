@@ -9,7 +9,7 @@ tags:
 color: '#07bfff'
 url: '/de/weglot-translation-plugin-wordpress'
 seo:
-    title: 'Wie Sie mit Weglot Ihre Webseite automatisch übersetzen können.'
+    title: 'Wie Sie mit Weglot Ihre Webseite automatisch übersetzen'
     description: 'Weglot ist ein Wordpress-Plugin, welches Ihre Webseite automatisch auf andere Sprachen übersetzt und so neue Zielgruppen erschließen.'
 ---
 

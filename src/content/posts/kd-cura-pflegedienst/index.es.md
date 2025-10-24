@@ -15,8 +15,8 @@ tags:
     - 'Transformación digital'
     - 'Administración de RR.HH.'
 seo:
-    title: ''
-    description: ''
+    title: 'KD-Cura digitaliza procesos de atención con SeaTable'
+    description: 'Cómo KD-Cura digitaliza la atención con SeaTable: procesos más ágiles, menos papeleo y estructuras escalables para el futuro.'
 ---
 
 Con SeaTable, Norman Kolwitz, fundador de KD-Cura, quiere ser pionero en su sector digitalizando los procesos de su servicio de atención ambulatoria. En su búsqueda de una herramienta adecuada, dio con SeaTable y encuentra el sistema muy "encantador".

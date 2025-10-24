@@ -16,8 +16,8 @@ aliases:
     - '/pt/ventil-editora'
 color: '#dadff6'
 seo:
-    title: ''
-    description: ''
+    title: 'Otimização de processos na Ventil Verlag com SeaTable'
+    description: 'Ventil Verlag aprimora seus processos internos com o SeaTable – flexibilidade onde o software comum não chega.'
 ---
 
 A Ventil Editora necessita de uma ferramenta organizacional flexível para os seus processos de publicação interna. As diversas e pequenas tarefas organizacionais que não podem ser significativamente mapeadas em qualquer software padrão levaram a Ventil Editora a SeaTable.

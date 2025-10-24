@@ -17,8 +17,8 @@ aliases:
     - '/ventil-publishing'
 color: '#dadff6'
 seo:
-    title: ''
-    description: ''
+    title: 'Process Optimization at Ventil Verlag with SeaTable'
+    description: 'Ventil Verlag streamlines its internal workflows with SeaTable – flexible processes where standard software falls short.'
 ---
 
 Ventil Publishing needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Publishing to SeaTable.

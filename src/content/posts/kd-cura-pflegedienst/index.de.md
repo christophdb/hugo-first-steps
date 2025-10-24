@@ -14,8 +14,8 @@ tags:
     - 'Personalverwaltung'
     - 'Digitale Transformation'
 seo:
-    title: ''
-    description: ''
+    title: 'KD-Cura digitalisiert Pflegeprozesse mit SeaTable'
+    description: 'Wie KD-Cura mit SeaTable die Pflege digitalisiert: effizientere Abläufe, weniger Papierarbeit und skalierbare Strukturen für die Zukunft.'
 ---
 
 Mit SeaTable möchte Norman Kolwitz, Gründer von KD-Cura, in seiner Branche Pionierarbeit leisten, indem er Prozesse in seinem ambulanten Pflegedienst digitalisiert. Auf der Suche nach einem geeigneten Tool ist er auf SeaTable gestoßen und findet das System sehr „charmant“.
