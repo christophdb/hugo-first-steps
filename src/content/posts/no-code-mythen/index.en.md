@@ -13,6 +13,7 @@ categories:
 color: '#e98c7f'
 register:
    show: true
+draft: true  
 ---
 
 ## Was bedeutet No-Code-Entwicklung?
