@@ -11,8 +11,8 @@ url: '/home-office-tips'
 aliases:
     - /homeoffice-tipps
 seo:
-    title:
-    description:
+    title: 'Struggling in your home office? These tips make it work'
+    description: 'Don’t know where to start in the morning, and once again skipped lunch at home? Our simple tips help you get back on track'
 ---
 
 Are you a team leader and wondering how best to organise your weekly meetings from your home office? Take a look [here,]({{< relref "templates/projects/team-meetings" >}}) we have developed the right template for you!
