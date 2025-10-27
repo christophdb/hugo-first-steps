@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-2-anmeldeformular'
+url: '/ru/pomoshch/shag-2-forma-registratsii'
+aliases:
+    - '/ru/pomoshch/schritt-2-anmeldeformular'
+seo:
+    title: 'Шаг 2: Форма регистрации в курсе SeaTable'
+    description: 'Узнайте на втором шаге онлайн‑курса SeaTable, как встроенная форма регистрации показывает только доступные курсы.'
 ---
 
 Далее мы сосредоточимся на веб-форме. Поскольку вы уже научились создавать веб-форму с помощью SeaTable в первом онлайн-курсе, вам не нужно делать это снова. Веб-форма уже интегрирована в шаблон.

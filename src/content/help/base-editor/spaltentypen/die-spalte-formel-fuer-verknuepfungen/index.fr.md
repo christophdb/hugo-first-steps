@@ -5,7 +5,13 @@ lastmod: '2025-07-18'
 categories:
     - 'formeln'
 author: 'kgr'
-url: '/fr/aide/die-spalte-formel-fuer-verknuepfungen'
+url: '/fr/aide/colonne-formule-de-liens'
+aliases:
+    - '/fr/aide/die-spalte-formel-fuer-verknuepfungen'
+seo:
+    title: 'Colonne formule de liens dans SeaTable'
+    description: 'Découvrez comment utiliser la colonne de formule de liens dans SeaTable pour relier et analyser vos données entre tables.'
+
 ---
 
 Une formule pour les liens vous permet **d'afficher, de fusionner ou de mettre en relation des données de tableaux liés** dans votre tableau actuel. C'est là que SeaTable fait valoir ses avantages en tant que base de données relationnelle.

@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-3-anmeldebestaetigung'
+url: '/ru/pomoshch/shag-3-podtverzhdenie-registratsii'
+aliases:
+    - '/ru/pomoshch/schritt-3-anmeldebestaetigung'
+seo:
+    title: 'Шаг 3: Подтверждение регистрации по email'
+    description: 'Узнайте, как отправлять подтверждения регистрации и оплат по электронной почте участникам курсов с помощью SeaTable.'
 ---
 
 Теперь мы добавляем функцию, благодаря которой участники, зарегистрировавшиеся на курс, получат подтверждение регистрации и запрос на оплату по электронной почте.

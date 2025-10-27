@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/schritt-3-anmeldebestaetigung'
+url: '/es/ayuda/paso-3-confirmacion-de-inscripcion'
+aliases:
+    - '/es/ayuda/schritt-3-anmeldebestaetigung'
+seo:
+    title: 'Paso 3: Confirmación de inscripción por email'
+    description: 'Aprenda a enviar confirmaciones de inscripción y solicitudes de pago por email a los participantes del curso con SeaTable.'
 ---
 
 Ahora estamos añadiendo la función de que los participantes que se hayan inscrito en un curso reciban una confirmación de inscripción y una solicitud de pago por correo electrónico.

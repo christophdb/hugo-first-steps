@@ -6,6 +6,9 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/schritt-3-anmeldebestaetigung'
+seo:
+    title: 'Schritt 3: Anmeldebestätigung per E-Mail'
+    description: 'Erfahren Sie, wie Sie mit SeaTable Anmeldebestätigungen und Zahlungsaufforderungen per E-Mail an Kursteilnehmer versenden.'
 ---
 
 Nun fügen wir die Funktion hinzu, dass Teilnehmer, die sich für einen Kurs angemeldet haben, eine Anmeldebestätigung sowie eine Zahlungsaufforderung per E-Mail erhalten.

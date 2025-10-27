@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/schritt-2-anmeldeformular'
+url: '/es/ayuda/paso-2-formulario-de-inscripcion'
+aliases:
+    - '/es/ayuda/schritt-2-anmeldeformular'
+seo:
+    title: 'Paso 2: Formulario de inscripción en SeaTable'
+    description: 'Descubra en el paso 2 del curso en línea de SeaTable cómo funciona el formulario y muestra solo cursos con plazas disponibles.'
 ---
 
 A continuación, nos centraremos en el formulario web. Como ya ha aprendido a crear un formulario web con SeaTable en el primer curso en línea, no necesita hacerlo de nuevo. El formulario web ya está integrado en la plantilla.

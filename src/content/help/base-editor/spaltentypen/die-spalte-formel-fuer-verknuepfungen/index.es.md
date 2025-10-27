@@ -5,7 +5,13 @@ lastmod: '2025-07-18'
 categories:
     - 'formeln'
 author: 'kgr'
-url: '/es/ayuda/die-spalte-formel-fuer-verknuepfungen'
+url: '/es/ayuda/columna-de-formula-de-enlaces'
+aliases:
+    - '/es/ayuda/die-spalte-formel-fuer-verknuepfungen'
+seo:
+    title: 'Columna de fórmula de enlaces en SeaTable'
+    description: 'Aprenda a usar la columna de fórmula de enlaces para conectar, resumir y relacionar datos entre tablas en SeaTable.'
+
 ---
 
 Con una fórmula para enlaces, puede **visualizar, resumir o relacionar datos de tablas enlazadas** en su tabla actual. Aquí es donde SeaTable muestra sus ventajas como base de datos relacional.

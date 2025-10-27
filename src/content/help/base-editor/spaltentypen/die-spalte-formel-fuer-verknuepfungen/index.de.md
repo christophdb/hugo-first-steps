@@ -6,6 +6,10 @@ categories:
     - 'formeln'
 author: 'kgr'
 url: '/de/hilfe/die-spalte-formel-fuer-verknuepfungen'
+seo:
+    title: 'Formel für Verknüpfungen in SeaTable nutzen'
+    description: 'Lernen Sie, wie Sie mit der Spalte „Formel für Verknüpfungen“ Daten aus verknüpften Tabellen in SeaTable verknüpfen und auswerten.'
+
 ---
 
 Mit einer Formel für Verknüpfungen können Sie **Daten aus verknüpften Tabellen** in Ihrer aktuellen Tabelle **darstellen, zusammenfassen oder miteinander in Beziehung setzen**. Hierbei spielt SeaTable seine Vorteile als relationale Datenbank aus.

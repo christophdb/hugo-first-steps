@@ -5,7 +5,13 @@ lastmod: '2025-07-18'
 categories:
     - 'formeln'
 author: 'kgr'
-url: '/pt/ajuda/die-spalte-formel-fuer-verknuepfungen'
+url: '/pt/ajuda/coluna-de-formula-de-ligacoes'
+aliases:
+    - '/pt/ajuda/die-spalte-formel-fuer-verknuepfungen'
+seo:
+    title: 'Coluna de fórmula de ligações no SeaTable'
+    description: 'Saiba como usar a coluna de fórmula de ligações no SeaTable para combinar e resumir dados entre tabelas relacionadas.'
+
 ---
 
 Com uma fórmula para ligações, pode **exibir, resumir ou relacionar dados de tabelas ligadas** na sua tabela atual. É aqui que o SeaTable mostra as suas vantagens como base de dados relacional.
