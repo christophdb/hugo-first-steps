@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'kgr'
 url: '/fr/aide/chercher-une-base-ou-une-app'
+seo:
+    title: 'Rechercher une base ou une appli dans SeaTable'
+    description: 'Apprenez à utiliser la recherche de SeaTable pour trouver rapidement vos bases et applications, et consulter vos résultats récents.'
+
 ---
 
 Si vous avez un grand nombre de bases et d'applications, votre page d'accueil risque d'être encombrée. Utilisez donc la fonction de recherche pratique de SeaTable pour trouver rapidement des bases et des applications.

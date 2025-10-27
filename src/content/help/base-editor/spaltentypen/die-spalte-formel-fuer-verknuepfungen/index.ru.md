@@ -5,7 +5,13 @@ lastmod: '2025-07-18'
 categories:
     - 'formeln'
 author: 'kgr'
-url: '/ru/pomoshch/die-spalte-formel-fuer-verknuepfungen'
+url: '/ru/pomoshch/formula-dlya-svyazey'
+aliases:
+    - '/ru/pomoshch/die-spalte-formel-fuer-verknuepfungen'
+seo:
+    title: 'Формула для связей в SeaTable'
+    description: 'Узнайте, как использовать столбец «Формула для связей» в SeaTable для объединения и анализа данных между таблицами.'
+
 ---
 
 С помощью формулы для связей Вы можете **отображать, обобщать или соотносить данные из связанных таблиц** в Вашей текущей таблице. Именно здесь SeaTable демонстрирует свои преимущества как реляционная база данных.

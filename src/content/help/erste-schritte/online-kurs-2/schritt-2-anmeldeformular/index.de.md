@@ -6,6 +6,9 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/schritt-2-anmeldeformular'
+seo:
+    title: 'Schritt 2: Anmeldeformular im SeaTable‑Kurs'
+    description: 'Erfahren Sie in Schritt 2 des SeaTable Online‑Kurses, wie das integrierte Anmeldeformular funktioniert und Kurse mit freien Plätzen angezeigt werden.'
 ---
 
 Als Nächstes widmen wir uns dem Webformular. Da Sie bereits im ersten Online-Kurs gelernt haben, wie man ein Webformular mit SeaTable erstellt, müssen Sie dies nicht erneut tun. Das Webformular ist bereits in das Template integriert.

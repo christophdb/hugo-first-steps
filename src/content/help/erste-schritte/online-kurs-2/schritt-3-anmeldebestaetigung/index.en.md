@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-3-anmeldebestaetigung'
+url: '/help/step-3-registration-confirmation'
+aliases:
+    - '/help/schritt-3-anmeldebestaetigung'
+seo:
+    title: 'Step 3: Registration Confirmation Email'
+    description: 'Learn how to send registration confirmations and payment requests by email to course participants using SeaTable.'
 ---
 
 We are now adding the function that participants who have registered for a course will receive a registration confirmation and a request for payment by e-mail.

@@ -6,6 +6,10 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'kgr'
 url: '/de/hilfe/nach-einer-base-oder-app-suchen'
+seo:
+    title: 'Nach einer Base oder App in SeaTable suchen'
+    description: 'Erfahren Sie, wie Sie mit der Suchfunktion in SeaTable schnell nach Bases und Apps suchen, Ergebnisse filtern und zuletzt genutzte Elemente finden.'
+
 ---
 
 Bei einer großen Anzahl an Bases und Apps kann es auf Ihrer Startseite recht unübersichtlich werden. Nutzen Sie daher die praktische Suchfunktion von SeaTable, um Bases und Apps schnell zu finden.

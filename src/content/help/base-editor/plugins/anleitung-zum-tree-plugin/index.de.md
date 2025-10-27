@@ -8,6 +8,9 @@ author: 'kgr'
 url: '/de/hilfe/anleitung-zum-baum-plugin'
 aliases:
     - '/de/hilfe/anleitung-zum-tree-plugin'
+seo:
+    title: 'Anleitung zum Baum‑Plugin in SeaTable'
+    description: 'Lernen Sie, wie Sie das Baum‑Plugin in SeaTable nutzen, um verknüpfte Tabellen hierarchisch zu visualisieren und komplexe Daten strukturiert darzustellen.'
 ---
 
 Das **Baum-Plugin** ermöglicht die kompakte **hierarchische Darstellung** verknüpfter Datensätze. Das heißt, Sie können Daten, die in verschiedenen, [miteinander verknüpften Tabellen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) liegen, auf unterschiedlichen Ebenen in einem Baumdiagramm visualisieren. Gerade bei großen Datenmengen wie Finanzdaten oder Projektdaten, schafft das Plugin daher einen strukturierten Überblick.

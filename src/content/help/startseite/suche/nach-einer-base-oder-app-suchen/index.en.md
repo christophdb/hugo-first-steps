@@ -5,7 +5,11 @@ lastmod: '2025-07-01'
 categories:
     - 'arbeiten-mit-bases'
 author: 'kgr'
-url: '/help/search-for-a-base-or-an-app'
+url: '/help/search-for-a-base-or-app'
+seo:
+    title: 'Search for a Base or App in SeaTable'
+    description: 'Learn how to use SeaTable’s search to quickly find bases and apps, filter results, and access your most recently viewed items.'
+
 ---
 
 With a large number of bases and apps, it can become quite confusing on your homepage. Therefore, use SeaTable's practical search function to find bases and apps quickly.

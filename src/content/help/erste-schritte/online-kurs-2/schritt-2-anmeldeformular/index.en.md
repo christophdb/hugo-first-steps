@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-2-anmeldeformular'
+url: '/help/step-2-registration-form'
+aliases:
+    - '/help/schritt-2-anmeldeformular'
+seo:
+    title: 'Step 2: Registration Form in the SeaTable Course'
+    description: 'Learn in step 2 of the SeaTable online course how the built‑in registration form works and shows only available courses.'
 ---
 
 Next, we will focus on the web form. As you have already learned how to create a web form with SeaTable in the first online course, you do not need to do this again. The web form is already integrated into the template.
