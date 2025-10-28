@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/schritt-4-tabellen-verknuepfen'
+url: '/es/ayuda/paso-4-enlazar-tablas'
+aliases:
+   - '/es/ayuda/schritt-4-tabellen-verknuepfen'
+seo:
+    title: 'Paso 4: Enlazar y gestionar tablas SeaTable para mayor eficiencia'
+    description: 'Aprenda a enlazar y administrar tablas en SeaTable para análisis flexibles, gestión centralizada de datos y conexión automática de registros clave.'
 ---
 
 Se pueden enlazar múltiples tablas en SeaTable utilizando columnas de enlace. A continuación añadiremos una segunda tabla con categorías de gastos y enlazaremos las dos tablas para demostrar esta potente función.

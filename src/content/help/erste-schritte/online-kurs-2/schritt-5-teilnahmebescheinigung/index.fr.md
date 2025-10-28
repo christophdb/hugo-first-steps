@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/fr/aide/schritt-5-teilnahmebescheinigung'
+url: '/fr/aide/etape-5-attestation-de-participation'
+aliases:
+    - '/fr/aide/schritt-5-teilnahmebescheinigung'
+seo:
+    title: 'Étape 5 : Attestation de participation PDF par email'
+    description: 'Apprenez à créer et envoyer automatiquement des attestations de participation PDF aux participants avec SeaTable.'
 ---
 
 Une fois votre prestation terminée, vous souhaitez parachever le processus en envoyant un dernier e-mail aux participants. Cet e-mail peut avoir différents contenus, comme par exemple

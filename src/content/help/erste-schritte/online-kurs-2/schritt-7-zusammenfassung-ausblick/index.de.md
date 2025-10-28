@@ -6,6 +6,9 @@ categories:
   - "online-kurs-2"
 author: "cdb"
 url: "/de/hilfe/schritt-7-zusammenfassung-ausblick"
+seo:
+    title: 'Schritt 7: Zusammenfassung & Ausblick im SeaTable-Kurs'
+    description: 'Erhalten Sie eine Zusammenfassung Ihrer Fortschritte im SeaTable-Kurs und lesen Sie, wie Automatisierungen und neue Integrationen den workflow verbessern.'
 ---
 
 Herzlichen Glückwunsch! Sie haben nun ein solides Grundgerüst geschaffen, mit dem Sie Ihr Kursangebot effizient verwalten können. Lassen Sie uns kurz zusammenfassen, was Sie nun erreicht haben:

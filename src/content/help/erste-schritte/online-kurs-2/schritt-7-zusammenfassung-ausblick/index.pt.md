@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/pt/ajuda/schritt-7-zusammenfassung-ausblick'
+url: '/pt/ajuda/etapa-7-resumo-novidades'
+aliases:
+    - '/pt/ajuda/schritt-7-zusammenfassung-ausblick'
+seo:
+    title: 'Etapa 7: Resumo e novidades no curso SeaTable'
+    description: 'Veja o resumo do seu progresso, dicas para automação e como integrar novos recursos ao seu workflow SeaTable.'
 ---
 
 Parabéns! Criou um quadro sólido que lhe permite gerir eficazmente o seu programa de curso. Vamos resumir brevemente o que conseguiu alcançar:

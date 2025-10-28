@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/schritt-6-ansichten'
+url: '/fr/aide/etape-6-vues'
+aliases:
+    - '/fr/aide/schritt-6-ansichten'
+seo:
+    title: 'Étape 6 : Créer et filtrer des vues pour mieux gérer vos données SeaTable'
+    description: 'Découvrez comment créer, filtrer, trier et regrouper des vues dans SeaTable pour ne voir que les données importantes et optimiser votre gestion.'
 ---
 
 Vous avez créé une solide gestion des dépenses, qui calcule déjà automatiquement le total des dépenses par catégorie. Vous allez maintenant découvrir une autre fonctionnalité de SeaTable : **les vues**.

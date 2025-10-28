@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/pt/ajuda/schritt-4-tabellen-verknuepfen'
+url: '/pt/ajuda/etapa-4-vincular-tabelas'
+aliases:
+   - '/pt/ajuda/schritt-4-tabellen-verknuepfen'
+seo:
+    title: 'Etapa 4: Vincule e gerencie tabelas SeaTable para dados precisos'
+    description: 'Aprenda a vincular e gerenciar tabelas no SeaTable, manter registros conectados, automatizar relacionamentos e otimizar o controle de dados da sua base.'
 ---
 
 É possível ligar várias tabelas no SeaTable utilizando colunas de ligação. De seguida, adicionaremos uma segunda tabela com categorias de despesas e ligaremos as duas tabelas para demonstrar esta poderosa funcionalidade.

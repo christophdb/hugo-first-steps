@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/fr/aide/schritt-7-zusammenfassung-ausblick'
+url: '/fr/aide/etape-7-resume-perspectives'
+aliases:
+    - '/fr/aide/schritt-7-zusammenfassung-ausblick'
+seo:
+    title: 'Étape 7 : Résumé et perspectives dans le cours SeaTable'
+    description: 'Profitez d’un résumé de votre parcours avec SeaTable et découvrez les prochaines étapes pour automatiser et intégrer de nouvelles fonctions.'
 ---
 
 Toutes nos félicitations ! Vous avez maintenant créé une structure de base solide qui vous permettra de gérer efficacement votre offre de cours. Résumons brièvement ce que vous avez maintenant réalisé :

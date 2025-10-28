@@ -6,6 +6,9 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/de/hilfe/schritt-5-teilnahmebescheinigung'
+seo:
+    title: 'Schritt 5: Teilnahmebescheinigung per PDF und E-Mail'
+    description: 'Erfahren Sie, wie Sie mit SeaTable eine PDF-Teilnahmebescheinigung generieren und automatisch per E-Mail an Kursteilnehmer versenden.'
 ---
 
 Nach Abschluss Ihrer Dienstleistung möchten Sie den Prozess abrunden, indem Sie den Teilnehmern eine letzte E-Mail senden. Diese E-Mail kann verschiedene Inhalte haben, wie z. B.:

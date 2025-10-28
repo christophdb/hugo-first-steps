@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-5-teilnahmebescheinigung'
+url: '/help/step-5-attendance-certificate'
+aliases:
+    - '/help/schritt-5-teilnahmebescheinigung'
+seo:
+    title: 'Step 5: PDF Certificate of Attendance via Email'
+    description: 'Learn how to generate a PDF certificate of attendance with SeaTable and automatically send it to course participants via email.'
 ---
 
 After completing your service, you want to round off the process by sending the participants a final email. This email can have various contents, such as:

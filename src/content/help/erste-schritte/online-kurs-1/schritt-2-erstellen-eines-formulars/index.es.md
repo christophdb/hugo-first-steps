@@ -5,7 +5,12 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/schritt-2-erstellen-eines-formulars'
+url: '/es/ayuda/paso-2-crear-formulario-web'
+aliases:
+    - '/es/ayuda/schritt-2-erstellen-eines-formulars'
+seo:
+    title: 'Paso 2: Crear y usar un formulario web en SeaTable'
+    description: 'Descubra cómo crear y configurar un formulario web en SeaTable para recopilar gastos en su curso online.'
 ---
 
 Ahora que hemos creado la estructura necesaria para su gestión de gastos en el paso 1, puede introducir nuevos gastos en cualquier momento utilizando su navegador. Probablemente lo recuerde: Cada línea representa un nuevo registro de datos y, en su caso, una operación de pago.

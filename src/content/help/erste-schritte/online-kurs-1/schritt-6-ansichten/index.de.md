@@ -6,6 +6,9 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/schritt-6-ansichten'
+seo:
+    title: 'Schritt 6: Ansichten anlegen und filtern in SeaTable'
+    description: 'Lernen Sie, wie Sie mit SeaTable Ansichten erstellen, filtern, sortieren, gruppieren und Daten gezielt auswählen, um stets die Übersicht zu behalten.'
 ---
 
 Sie haben eine solide Ausgabenverwaltung erstellt, die bereits automatisch die Gesamtausgaben pro Kategorie berechnet. Nun lernen Sie eine weitere Funktion von SeaTable kennen: **die Ansichten**.

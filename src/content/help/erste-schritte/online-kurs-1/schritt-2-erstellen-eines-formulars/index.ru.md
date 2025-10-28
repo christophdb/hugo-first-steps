@@ -5,7 +5,12 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-2-erstellen-eines-formulars'
+url: '/ru/pomoshch/shag-2-sozdanie-veb-formy'
+aliases:
+    - '/ru/pomoshch/schritt-2-erstellen-eines-formulars'
+seo:
+    title: 'Шаг 2: Создание и использование веб-формы в SeaTable'
+    description: 'Узнайте, как создавать и настраивать веб-формы в SeaTable для учёта расходов в онлайн-курсе.'
 ---
 
 Теперь, когда мы создали необходимую структуру для управления расходами в шаге 1, вы можете вводить новые расходы в любое время с помощью браузера. Вы, наверное, помните: Каждая строка представляет собой новую запись данных, а в вашем случае - платежную операцию.
