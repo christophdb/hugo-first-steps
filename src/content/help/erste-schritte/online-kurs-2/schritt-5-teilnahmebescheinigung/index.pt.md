@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/pt/ajuda/schritt-5-teilnahmebescheinigung'
+url: '/pt/ajuda/etapa-5-certificado-de-participacao'
+aliases:
+    - '/pt/ajuda/schritt-5-teilnahmebescheinigung'
+seo:
+    title: 'Etapa 5: Certificado de participação PDF por email'
+    description: 'Saiba como gerar e enviar automaticamente certificados PDF de participação aos inscritos do curso usando SeaTable.'
 ---
 
 Depois de concluir o seu serviço, pretende concluir o processo enviando uma mensagem de correio eletrónico final aos participantes. Este correio eletrónico pode ter vários conteúdos, tais como

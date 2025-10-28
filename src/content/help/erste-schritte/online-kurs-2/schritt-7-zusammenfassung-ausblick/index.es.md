@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/schritt-7-zusammenfassung-ausblick'
+url: '/es/ayuda/paso-7-resumen-perspectivas'
+aliases:
+    - '/es/ayuda/schritt-7-zusammenfassung-ausblick'
+seo:
+    title: 'Paso 7: Resumen y perspectivas en el curso SeaTable'
+    description: 'Lea el resumen de su progreso en SeaTable Online y vea cómo puede mejorar los procesos con automatización y nuevas integraciones.'
 ---
 
 ¡Enhorabuena! Ha creado un marco sólido que le permitirá gestionar eficazmente el programa de su curso. Resumamos brevemente lo que ha conseguido:

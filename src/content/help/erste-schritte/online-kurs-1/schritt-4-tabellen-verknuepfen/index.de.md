@@ -6,6 +6,9 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/schritt-4-tabellen-verknuepfen'
+seo:
+    title: 'Schritt 4: Tabellen effizient in SeaTable verknüpfen und managen'
+    description: 'Entdecken Sie, wie Sie mit SeaTable verknüpfte Tabellen einfach einrichten, Daten zuverlässig verbinden sowie Analyse und Pflege nachhaltig optimieren.'
 ---
 
 Mehrere Tabellen können in SeaTable durch Link-Spalten verknüpft werden. Im Folgenden werden wir eine zweite Tabelle mit Ausgabenkategorien hinzufügen und die beiden Tabellen miteinander verknüpfen, um dieses mächtige Feature zu demonstrieren.

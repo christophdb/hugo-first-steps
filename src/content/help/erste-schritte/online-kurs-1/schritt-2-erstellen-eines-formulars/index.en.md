@@ -5,7 +5,12 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-2-erstellen-eines-formulars'
+url: '/help/step-2-create-web-form'
+aliases:
+    - '/help/schritt-2-erstellen-eines-formulars'
+seo:
+    title: 'Step 2: Create and Use a Web Form in SeaTable'
+    description: 'Learn how to create, customize, and digitally collect expenses with web forms in SeaTable as part of the online course.'
 ---
 
 Now that we have created the necessary structure for your expense management in step 1, you can enter new expenses at any time using your browser. You probably remember: Each row represents a new data record and, in your case, a payment transaction.

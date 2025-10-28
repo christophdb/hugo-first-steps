@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/fr/aide/schritt-4-tabellen-verknuepfen'
+url: '/fr/aide/etape-4-lier-tables'
+aliases:
+   - '/fr/aide/schritt-4-tabellen-verknuepfen'
+seo:
+    title: 'Étape 4 : Relier et gérer vos tables SeaTable en toute simplicité'
+    description: 'Découvrez comment relier des tables dans SeaTable, structurer vos données, automatiser les mises à jour et garantir la cohérence de vos enregistrements.'
 ---
 
 Plusieurs tableaux peuvent être liés dans SeaTable par des colonnes de liens. Dans ce qui suit, nous allons ajouter un deuxième tableau de catégories de dépenses et lier les deux tableaux pour démontrer cette puissante fonctionnalité.

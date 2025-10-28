@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/pt/ajuda/schritt-6-ansichten'
+url: '/pt/ajuda/etapa-6-visoes'
+aliases:
+    - '/pt/ajuda/schritt-6-ansichten'
+seo:
+    title: 'Etapa 6: Crie e filtre visualizações e organize seus dados SeaTable'
+    description: 'Saiba como criar, filtrar, ordenar e agrupar visualizações em SeaTable para acessar as informações certas e manter seus dados organizados.'
 ---
 
 Criou um sistema de gestão de despesas sólido que já calcula automaticamente o total de despesas por categoria. Agora vai ficar a conhecer outra função do SeaTable: **as visualizações**.

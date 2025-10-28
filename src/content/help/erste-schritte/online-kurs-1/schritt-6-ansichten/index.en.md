@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-6-ansichten'
+url: '/help/step-6-views'
+aliases:
+    - '/help/schritt-6-ansichten'
+seo:
+    title: 'Step 6: Create and Filter Views to Get More from Your SeaTable Data'
+    description: 'Discover how to create, filter, sort, and group views in SeaTable so you always see the data that matters and keep control of your information.'
 ---
 
 You have created a solid spend management system that already automatically calculates the total spend per category. Now you will get to know another SeaTable function: **the views**.

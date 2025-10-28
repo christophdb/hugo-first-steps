@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/help/schritt-7-zusammenfassung-ausblick'
+url: '/help/step-7-summary-outlook'
+aliases:
+    - '/help/schritt-7-zusammenfassung-ausblick'
+seo:
+    title: 'Step 7: Summary & Looking Ahead in the SeaTable Course'
+    description: 'Get a summary of your achievements using SeaTable and discover next steps for automation, payment integrations and app building.'
 ---
 
 Congratulations! You have now created a solid framework with which you can efficiently manage your course offering. Let us briefly summarize what you have now achieved:

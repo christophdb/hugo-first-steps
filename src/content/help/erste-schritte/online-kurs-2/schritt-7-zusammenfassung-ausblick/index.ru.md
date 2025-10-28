@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-7-zusammenfassung-ausblick'
+url: '/ru/pomoshch/shag-7-itogi-perspektivy'
+aliases:
+    - '/ru/pomoshch/schritt-7-zusammenfassung-ausblick'
+seo:
+    title: 'Шаг 7: Итоги и перспективы в курсе SeaTable'
+    description: 'Ознакомьтесь с итогами обучения и следующими шагами: автоматизация, новые интеграции и конструктор приложений SeaTable.'
 ---
 
 Поздравляем! Вы создали прочную основу, с помощью которой сможете эффективно управлять программой курса. Давайте подведем краткий итог тому, чего вы достигли:

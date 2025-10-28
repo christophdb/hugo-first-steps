@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-4-tabellen-verknuepfen'
+url: '/help/step-4-linking-tables'
+aliases:
+   - '/help/schritt-4-tabellen-verknuepfen'
+seo:
+    title: 'Step 4: Link and Manage SeaTable Tables for Better Data Structures'
+    description: 'Master table linking in SeaTable! Learn how to efficiently connect, relate, and automate tables to keep your data consistent and ready for advanced reporting.'
 ---
 
 Multiple tables can be linked in SeaTable using link columns. Below we will add a second table with expense categories and link the two tables together to demonstrate this powerful feature.

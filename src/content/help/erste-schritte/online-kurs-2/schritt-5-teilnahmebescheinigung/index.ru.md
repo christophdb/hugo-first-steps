@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-5-teilnahmebescheinigung'
+url: '/ru/pomoshch/shag-5-sertifikat-uchastiya'
+aliases:
+    - '/ru/pomoshch/schritt-5-teilnahmebescheinigung'
+seo:
+    title: 'Шаг 5: Сертификат участия в PDF по email'
+    description: 'Узнайте, как с помощью SeaTable создавать PDF-сертификаты участия и отправлять их автоматически по электронной почте.'
 ---
 
 После завершения работы над сервисом вы хотите завершить процесс, отправив участникам заключительное письмо. Это письмо может иметь различное содержание, например

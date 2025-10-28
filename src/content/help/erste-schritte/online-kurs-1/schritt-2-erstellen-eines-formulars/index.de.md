@@ -6,6 +6,9 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/de/hilfe/schritt-2-erstellen-eines-formulars'
+seo:
+    title: 'Schritt 2: Webformular erstellen und nutzen'
+    description: 'Lernen Sie im Online-Kurs, wie Sie mit SeaTable ein Webformular anlegen, individuell konfigurieren und Ausgaben digital erfassen.'
 ---
 
 Nachdem wir in Schritt 1 die notwendige Struktur Ihrer Ausgabenverwaltung angelegt haben, können Sie nun mithilfe Ihres Browsers jederzeit neue Ausgaben erfassen. Sie erinnern sich bestimmt: Jede Zeile steht für einen neuen Datensatz und in Ihrem Fall einen Bezahlvorgang.

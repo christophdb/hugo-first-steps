@@ -5,7 +5,12 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/es/ayuda/schritt-6-ansichten'
+url: '/es/ayuda/paso-6-vistas'
+aliases:
+    - '/es/ayuda/schritt-6-ansichten'
+seo:
+    title: 'Paso 6: Crear y filtrar vistas para controlar tus datos SeaTable'
+    description: 'Aprende a crear, filtrar, ordenar y agrupar vistas en SeaTable para enfocar la información relevante y gestionar tus datos fácilmente.'
 ---
 
 Ha creado un sólido sistema de gestión de gastos que ya calcula automáticamente el gasto total por categoría. Ahora conocerá otra función de SeaTable: **las vistas**.

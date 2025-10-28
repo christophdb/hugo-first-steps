@@ -5,7 +5,12 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/es/ayuda/schritt-5-teilnahmebescheinigung'
+url: '/es/ayuda/paso-5-certificado-de-asistencia'
+aliases:
+    - '/es/ayuda/schritt-5-teilnahmebescheinigung'
+seo:
+    title: 'Paso 5: Certificado de asistencia en PDF por email'
+    description: 'Descubra cómo crear y enviar por email certificados de asistencia en PDF para los estudiantes del curso usando SeaTable.'
 ---
 
 Una vez finalizado el servicio, querrá redondear el proceso enviando a los participantes un correo electrónico final. Este correo electrónico puede tener diversos contenidos, como
