@@ -1,6 +1,6 @@
 ---
 title: 'SecUnity zündet mit SeaTable den Produktivitäts-Turbo'
-description: 'Stephan Lehniger, CEO des IT Secirity Dienstleister SecUnity spricht im Interview über seine Erfahrungen mit SeaTable und die Gründe für den Umstieg.'
+description: 'Stephan Lehniger, CEO des IT Security Dienstleister SecUnity spricht im Interview über seine Erfahrungen mit SeaTable und die Gründe für den Umstieg.'
 seo:
     title: 'SecUnity zündet mit SeaTable den Produktivitäts-Turbo'
     description: 'Stephan Lehniger, CEO des IT Security Dienstleister SecUnity spricht im Interview über seine Erfahrungen mit SeaTable und die Gründe für den Umstieg.'
