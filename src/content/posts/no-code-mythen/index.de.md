@@ -2,7 +2,7 @@
 title: '7 Mythen über No-Code-Entwicklung und wie Sie darauf reagieren können'
 description: 'Unternehmen sind mit vielen Herausforderungen konfrontiert. No-Code-Lösungen sind eine Möglichkeit, um insbesondere auf den IT-Fachkräftemangel zu reagieren. Doch viele Unternehmen zögern bei der Implementierung oder lassen sich von Vorurteilen in die Irre führen. In diesem Artikel klären wir über die 7 häufigsten No-Code Mythen auf.'
 seo:
-    title: '7 No-Code-Mythen - Harte Fakten zur No-Code Entwicklung'
+    title: '7 No-Code-Mythen – Harte Fakten zur No-Code-Entwicklung'
     description: 'Reagieren Sie souverän auf No-Code-Mythen und treiben Sie die digitale Transformation Ihres Unternehmens schnell und sicher voran.'
 date: 2025-10-24
 url: '/de/no-code-mythen'
@@ -18,11 +18,11 @@ draft: true
 
 ## Was bedeutet No-Code-Entwicklung?
 
-Bei der No-Code-Entwicklung erstellen Programmierer oder [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) mithilfe spezieller No-Code-Plattformen Anwendungen, ohne dafür eine Zeile Code zu schreiben. Dadurch können auch **Mitarbeiter ohne Programmierkenntnisse** benötigte Apps oder Datenbanken erstellen. So werden die (häufig knappen) [IT-Ressourcen]({{< relref "posts/it-fachkraeftemangel" >}}) des Unternehmens geschont. Meistens bieten diese Plattformen **auf Tabellen basierende Datenbankstrukturen** mit einer grafischen Benutzeroberfläche, auf der nach dem Drag-and-Drop-Prinzip die benötigten Elemente platziert werden.
+Bei der No-Code-Entwicklung erstellen Programmierer oder [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) mithilfe spezieller No-Code-Plattformen Anwendungen, ohne dafür eine einzige Zeile Code zu schreiben. Dadurch können auch **Mitarbeiter ohne Programmierkenntnisse** benötigte Apps oder Datenbanken erstellen. So werden die (häufig knappen) [IT-Ressourcen]({{< relref "posts/it-fachkraeftemangel" >}}) des Unternehmens geschont. Meistens bieten diese Plattformen **auf Tabellen basierende Datenbankstrukturen** mit einer grafischen Benutzeroberfläche, auf der nach dem Drag-and-Drop-Prinzip die benötigten Elemente platziert werden.
 
 ## Mythos 1: No-Code-Entwicklung ist ein Hype und wird bald vergehen
 
-Wir haben natürlich keine Glaskugel, die uns zeigt, welche Technologien und Trends in der Softwareentwicklung zukünftig wichtig sein werden. Doch die Annahme, dass es sich nicht lohne, No-Code-Plattformen zu nutzen, weil es sich lediglich um einen kurzfristigen Trend handele, ist mit ziemlicher Sicherheit falsch. Dahinter steht der Irrglaube, es hier mit einer sehr jungen Technologie zu tun zu haben. Um nur drei Beispiele zu nennen: Worpdress erlaubt seit 2003 Nutzern eigene Websites ohne Code nach dem Baukastenprinzip zu erstelllen, Shopify folgte 2004, Bubble 2012. Nutzbare **No-Code-Tools gibt es seit über 20 Jahren** und ihre Bedeutung wächst stetig.
+Wir haben natürlich keine Glaskugel, die uns zeigt, welche Technologien und Trends in der Softwareentwicklung zukünftig wichtig sein werden. Doch die Annahme, dass es sich nicht lohne, No-Code-Plattformen zu nutzen, weil es sich lediglich um einen kurzfristigen Trend handele, ist mit ziemlicher Sicherheit falsch. Dahinter steht der Irrglaube, es hier mit einer sehr jungen Technologie zu tun zu haben. Um nur drei Beispiele zu nennen: WordPress erlaubt seit 2003 Nutzern eigene Websites ohne Code nach dem Baukastenprinzip zu erstellen, Shopify folgte 2004, Bubble 2012. Nutzbare **No-Code-Tools gibt es seit über 20 Jahren** und ihre Bedeutung wächst stetig.
 
 ![No-Code-Entwicklung ermöglicht immer komplexere Tools](no_code_myth_simplicity.png)
 
@@ -32,7 +32,7 @@ Wir hören immer wieder, dass Unternehmen No-Code ausprobieren und meinen, die E
 
 ## Mythos 3: No-Code ist nur für einfache Anwendungen
 
-Der Irrtum, dass ohne individuell erstellten Code nur simple Lösungen realisierbar sind, ist nachvollziehbar, aber trotzdem falsch. "Kein Code" bedeutet hier schlicht, dass Sie ohne Programmierkenntnisse eigene Anwendungen erstellen können. Mit der richtigen Plattform lassen sich indes auch **mit No-Code komplexere und individualisierte Tools bauen**, von einfachen Task Management Tools bis zu vollwertigen [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) oder CRM – inklusive **Automatisierungen, Drittanbieter-Integrationen und Nutzerrollenverwaltung**.
+Der Irrtum, dass ohne individuell erstellten Code nur simple Lösungen realisierbar seien, ist nachvollziehbar, aber trotzdem falsch. "Kein Code" bedeutet hier schlicht, dass Sie ohne Programmierkenntnisse eigene Anwendungen erstellen können. Mit der richtigen Plattform lassen sich indes auch **mit No-Code komplexere und individualisierte Tools bauen**, von einfachen Task Management Tools bis zu vollwertigen [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) oder CRM-Systemen – inklusive **Automatisierungen, Drittanbieter-Integrationen und Nutzerrollenverwaltung**.
 
 ## Mythos 4: No-Code macht Developer überflüssig
 
@@ -48,7 +48,7 @@ An diesem Irrglauben zeigt sich sehr schön, wie viel Unsicherheit und wie viele
 
 ## Mythos 6: No-Code-Anwendungen sind unsicher
 
-Die Vorstellung, dass diese Tools nur für "Laien" seien geht oft einher mit dem Irrglauben, No-Code-Lösungen seien per se unsicher oder würden Compliance-Risiken mit sich bringen. Tatsächlich bieten alle etablierten Plattformen **ein hohes Maß an technischer Sicherheit** und halten bewährte Standards und Best Practices ein. Dies soll indes nicht bedeuten, dass alle Anbieter gleich seien. Auch hier empfehlen wir Ihnen eine genaue Prüfung. Die [No Code Plattform SeaTable]({{< relref "/" >}}) hat z. B. die Sicherheit seiner **ausschließlich in Deutschland gehosteten** [Cloud-Infrastruktur]({{< relref "pages/product/seatable-cloud" >}}) kürzlich durch einen [Pentest]({{< relref "posts/20250129-pentest" >}}) bestätigen lassen und bietet für volle Datenhoheit auch eine [On-Premises-Lösung]({{< relref "pages/product/seatable-server" >}}) an.
+Die Vorstellung, dass diese Tools nur für "Laien" seien, geht oft einher mit dem Irrglauben, No-Code-Lösungen seien per se unsicher oder würden Compliance-Risiken mit sich bringen. Tatsächlich bieten alle etablierten Plattformen **ein hohes Maß an technischer Sicherheit** und halten bewährte Standards und Best Practices ein. Dies soll indes nicht bedeuten, dass alle Anbieter gleich seien. Auch hier empfehlen wir Ihnen eine genaue Prüfung. Die [No Code Plattform SeaTable]({{< relref "/" >}}) hat z. B. die Sicherheit ihrer **ausschließlich in Deutschland gehosteten** [Cloud-Infrastruktur]({{< relref "pages/product/seatable-cloud" >}}) kürzlich durch einen [Pentest]({{< relref "posts/20250129-pentest" >}}) bestätigen lassen und bietet für volle Datenhoheit auch eine [On-Premises-Lösung]({{< relref "pages/product/seatable-server" >}}) an.
 
 ![Mit No-Code-Entwicklung lassen sich sichere Anwendungen erstellen](no-code-myth-security.png)
 
@@ -56,7 +56,7 @@ Die Vorstellung, dass diese Tools nur für "Laien" seien geht oft einher mit dem
 
 ## Mythos 7: No-Code-Anwendungen sind nicht skalierbar
 
-Skalierbarkeit war in den ersten Jahren tatsächlich ein Thema bei vielen Plattformen. Inzwischen hängen die Möglichkeiten jedoch eher vom Nutzer ab, und von der Lizenz, die er bereit ist zu bezahlen. Darin unterscheiden sich No-Code-Anbieter nicht von anderen SaaS-Dienstleistern. Wichtig ist Ihre Vorbereitung: Bedenken Sie bei der Auswahl einer Plattform mögliche zukünftige Use Cases und vergleichen Sie verschiedene Tarife. Z. B. bietet SeaTable bereits **im kostenfreien Free Account integrierte Skripte** an, so dass Sie damit ohne Zusatzkosten auch **Low-Code-Anwendungen** erstellen können.
+Skalierbarkeit war in den ersten Jahren tatsächlich ein Thema bei vielen Plattformen. Inzwischen hängen die Möglichkeiten jedoch eher vom Nutzer ab, und von der Lizenz, die er bereit ist zu bezahlen. Darin unterscheiden sich No-Code-Anbieter nicht von anderen SaaS-Dienstleistern. Wichtig ist Ihre Vorbereitung: Bedenken Sie bei der Auswahl einer Plattform mögliche zukünftige Use Cases und vergleichen Sie verschiedene Tarife. Z. B. bietet SeaTable bereits **im kostenfreien Free Account integrierte Skripte** an, sodass Sie damit ohne Zusatzkosten auch **Low-Code-Anwendungen** erstellen können.
 
 ## No-Code Mythen aufgeklärt
 
