@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/help/welche-apps-gibt-es'
+url: '/help/which-apps-are-available'
+aliases:
+    - '/help/welche-apps-gibt-es'
+seo:
+    title: 'Overview: SeaTable App Types and Use Cases for All User Groups'
+    description: 'Discover all app types in SeaTable—from universal apps to data query apps and custom frontends. Learn the benefits for teams, customers, and partners.'
 star: true
 weight: 1
 ---

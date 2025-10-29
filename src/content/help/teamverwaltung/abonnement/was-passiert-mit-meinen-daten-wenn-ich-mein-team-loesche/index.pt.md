@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+url: '/pt/ajuda/excluir-time-consequencias-dados'
+aliases:
+    - '/pt/ajuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+seo:
+    title: 'O que acontece com seus dados ao excluir o time no SeaTable?'
+    description: 'Entenda os efeitos da exclusão de um time SeaTable: exclusão permanente, recomendações de exportação e questões de privacidade aos usuários envolvidos.'
 ---
 
 Os administradores de equipas têm a opção de eliminar a sua equipa no SeaTable através da administração da equipa.  

@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+url: '/help/linked-formula-column'
+aliases:
+    - '/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+seo:
+    title: 'Using the Linked Formula Column in SeaTable'
+    description: 'Discover how to use the linked formula column in SeaTable to connect and summarize data across related tables efficiently.'
 ---
 
 With the help of [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), you no longer have to **manually** record the times of a status change, but can have SeaTable do this **automatically**.

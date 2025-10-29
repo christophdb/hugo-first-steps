@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/pomoshch/welche-apps-gibt-es'
+url: '/ru/pomoshch/kakie-prilozheniya-est'
+aliases:
+    - '/ru/pomoshch/welche-apps-gibt-es'
+seo:
+    title: 'Обзор: Какие приложения есть в SeaTable? Типы, примеры и преимущества'
+    description: 'Узнайте о типах приложений SeaTable: универсальные, для поиска данных, пользовательские интерфейсы — примеры использования для команд и клиентов.'
 star: true
 weight: 1
 ---

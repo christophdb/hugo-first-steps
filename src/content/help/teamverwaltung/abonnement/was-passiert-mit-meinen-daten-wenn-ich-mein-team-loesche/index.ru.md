@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+url: '/ru/pomoshch/udalit-komandu-posledstviya-dannye'
+aliases:
+    - '/ru/pomoshch/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+seo:
+    title: 'Что происходит с вашими данными после удаления команды в SeaTable'
+    description: 'Узнайте о последствиях удаления SeaTable-команды: окончательная потеря данных, советы по экспорту и важные аспекты безопасности и конфиденциальности.'
 ---
 
 Администраторы команд имеют возможность удалить свою команду в SeaTable через администрацию команды.  

@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/pt/ajuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+url: '/pt/ajuda/coluna-de-formula-de-ligacoes'
+aliases:
+    - '/pt/ajuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+seo:
+    title: 'Coluna de fórmula de ligações no SeaTable'
+    description: 'Saiba como usar a coluna de fórmula de ligações no SeaTable para combinar e resumir dados entre tabelas relacionadas.'
 ---
 
 Com a ajuda das [automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), já não é necessário registar **manualmente** as horas de uma alteração de estado, mas o SeaTable pode fazê-lo **automaticamente**.

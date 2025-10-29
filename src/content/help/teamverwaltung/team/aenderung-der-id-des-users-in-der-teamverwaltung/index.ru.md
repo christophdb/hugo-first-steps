@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung'
 author: 'nsc2'
-url: '/ru/pomoshch/aenderung-der-id-des-users-in-der-teamverwaltung'
+url: '/ru/pomoshch/izmenenie-id-polzovatelya-seatable'
+aliases:
+    - '/ru/pomoshch/aenderung-der-id-des-users-in-der-teamverwaltung'
+seo:
+    title: 'Изменение ID пользователя в SeaTable: пошаговая инструкция и динамические фильтры'
+    description: 'Узнайте, как менять ID пользователя в SeaTable, обеспечить уникальность и применять динамические фильтры для гибкого доступа к данным команды.'
 ---
 
 Помимо имени и адреса электронной почты, каждая **учетная запись пользователя** в SeaTable также имеет **ID**, который можно использовать для [динамических фильтров]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}). Каждый ID может быть назначен только **один раз** в рамках команды.

@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'teamverwaltung'
 author: 'nsc2'
-url: '/es/ayuda/aenderung-der-id-des-users-in-der-teamverwaltung'
+url: '/es/ayuda/modificar-id-usuario-administracion-equipo'
+aliases:
+    - '/es/ayuda/aenderung-der-id-des-users-in-der-teamverwaltung'
+seo:
+    title: 'Modifica el ID de usuario en la administración de equipos SeaTable: guía y filtros'
+    description: 'Descubre cómo cambiar el ID de usuario en SeaTable, asegurando unicidad y usando filtros dinámicos para mejorar el acceso y la gestión de datos.'
 ---
 
 Además del nombre y la dirección de correo electrónico, cada **cuenta de usuario** en SeaTable también tiene un **ID**, que puede utilizarse para [filtros dinámicos]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}). Cada ID sólo puede asignarse **una vez** dentro de un equipo.
