@@ -5,7 +5,12 @@ lastmod: '2023-08-21'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/help/formatierungen-mithilfe-von-markdown-rich-text'
+url: '/help/markdown-rich-text-formatting'
+aliases:
+    - '/help/formatierungen-mithilfe-von-markdown-rich-text'
+seo:
+    title: 'Markdown and Rich Text Formatting in SeaTable: Uses and Examples'
+    description: 'Discover where and how to use Markdown and rich text in SeaTable, including headings, lists, code blocks and best practices for visually appealing content.'
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a highly simplified markup language used to **format text**. SeaTable uses Markdown in various places to format longer texts in a visually appealing way.

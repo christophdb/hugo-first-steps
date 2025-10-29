@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/pt/ajuda/nur-noch-lesender-zugriff-weil-limits-erreicht'
+url: '/pt/ajuda/apenas-leitura-limites-plano'
+aliases:
+    - '/pt/ajuda/nur-noch-lesender-zugriff-weil-limits-erreicht'
+seo:
+    title: 'Acesso apenas leitura no SeaTable: descubra os limites do plano e volte a editar'
+    description: 'Saiba o motivo do modo somente leitura no SeaTable, verifique os limites do seu plano e restaure rapidamente sua capacidade de edição total dos dados.'
 ---
 
 Só tem acesso de leitura aos seus dados e já não os pode editar? Não se preocupe, os seus dados estão seguros. Provavelmente, apenas atingiu os seus **limites**, que estão disponíveis na sua **subscrição** actual **do SeaTable**.

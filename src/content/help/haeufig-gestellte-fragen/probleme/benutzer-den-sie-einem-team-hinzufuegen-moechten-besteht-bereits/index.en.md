@@ -5,7 +5,12 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'kgr'
-url: '/help/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
+url: '/help/add-existing-user-team-account-issue'
+aliases:
+    - '/help/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
+seo:
+    title: 'Add Existing User to SeaTable Team: Account Conflict Solution'
+    description: 'Learn how to add an existing SeaTable account to your team, resolve email address conflicts and export or delete user data for seamless onboarding.'
 ---
 
 You want to [add a user to your team]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}), but get the error message that this account already exists? This is the solution:

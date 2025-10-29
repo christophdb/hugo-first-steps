@@ -5,7 +5,12 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'kgr'
-url: '/pt/ajuda/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
+url: '/pt/ajuda/adicionar-usuario-existente-equipe-conflito'
+aliases:
+    - '/pt/ajuda/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
+seo:
+    title: 'Adicionar usuário já existente à equipe SeaTable: conflitos e soluções'
+    description: 'Saiba como adicionar contas existentes à equipe SeaTable, evitar conflitos de e-mail e exportar ou excluir dados conforme necessário.'
 ---
 
 Pretende [adicionar um utilizador à sua equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}), mas recebe a mensagem de erro de que esta conta já existe? Esta é a solução:

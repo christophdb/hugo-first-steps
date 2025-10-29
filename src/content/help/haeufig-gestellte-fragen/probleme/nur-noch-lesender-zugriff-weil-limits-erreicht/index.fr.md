@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/nur-noch-lesender-zugriff-weil-limits-erreicht'
+url: '/fr/aide/acces-lecture-seule-limites'
+aliases:
+    - '/fr/aide/nur-noch-lesender-zugriff-weil-limits-erreicht'
+seo:
+    title: 'Accès en lecture seule sur SeaTable : comprendre les limites et retrouver la modification des données'
+    description: 'Pourquoi l’accès lecture seule ? Identifiez vos limites d’abonnement SeaTable, débloquez vos bases et éditez à nouveau tous vos enregistrements.'
 ---
 
 Vous n'avez plus qu'un accès en lecture à vos données et vous ne pouvez plus les modifier ? Ne vous inquiétez pas, vos données sont en sécurité. Vous n'avez probablement atteint que les **limites** qui vous sont imposées par votre **abonnement** actuel **à SeaTable**.

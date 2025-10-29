@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/nur-noch-lesender-zugriff-weil-limits-erreicht'
+url: '/ru/pomoshch/tolko-chtenie-ogranicheniya'
+aliases:
+    - '/ru/pomoshch/nur-noch-lesender-zugriff-weil-limits-erreicht'
+seo:
+    title: 'Только чтение SeaTable: причины ограничений и способы вернуть доступ к редактированию'
+    description: 'Узнайте, почему ваши данные SeaTable доступны только для чтения, как определить лимиты тарифа и получить обратно возможность редактирования записей.'
 ---
 
 Вы имеете доступ к своим данным только для чтения и больше не можете их редактировать? Не волнуйтесь, ваши данные в безопасности. Вероятно, вы только достигли своих **лимитов**, которые доступны вам в вашей текущей **подписке на SeaTable**.

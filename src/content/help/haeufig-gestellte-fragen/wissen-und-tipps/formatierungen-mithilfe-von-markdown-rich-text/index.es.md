@@ -5,7 +5,12 @@ lastmod: '2023-08-21'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/es/ayuda/formatierungen-mithilfe-von-markdown-rich-text'
+url: '/es/ayuda/markdown-texto-enriquecido'
+aliases:
+    - '/es/ayuda/formatierungen-mithilfe-von-markdown-rich-text'
+seo:
+    title: 'Markdown y texto enriquecido: Formatea tus contenidos en SeaTable'
+    description: 'Aprende a aplicar sintaxis Markdown y texto enriquecido en SeaTable, optimiza listas, encabezados, bloques de código y mejora la apariencia de tus datos.'
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) es un lenguaje de marcado muy simplificado que se utiliza para **dar formato al texto**. SeaTable utiliza Markdown en varios lugares para dar formato a textos largos de forma visualmente atractiva.

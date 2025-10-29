@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/nur-noch-lesender-zugriff-weil-limits-erreicht'
+url: '/help/read-only-access-limits-reached'
+aliases:
+    - '/help/nur-noch-lesender-zugriff-weil-limits-erreicht'
+seo:
+    title: 'Read-Only Access in SeaTable: Subscription Limits and How to Regain Editing'
+    description: 'Facing read-only mode in SeaTable? Learn about plan-specific limits, how to regain editing capabilities, upgrade your subscription, or reduce data securely.'
 ---
 
 You have read-only access to your data and can no longer edit it? Don't worry, your data is safe. You have probably only reached your **limits** available to you in your current **SeaTable subscription**.

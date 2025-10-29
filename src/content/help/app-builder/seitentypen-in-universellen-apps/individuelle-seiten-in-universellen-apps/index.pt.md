@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/individuelle-seiten-in-universellen-apps'
+url: '/pt/ajuda/paginas-individuais-apps-universais'
+aliases:
+    - '/pt/ajuda/individuelle-seiten-in-universellen-apps'
+seo:
+    title: 'Crie e personalize páginas individuais em apps universais SeaTable'
+    description: 'Saiba como criar páginas com textos, imagens, dashboards e configurar elementos para aprimorar suas apps universais SeaTable de forma flexível.'
 ---
 
 Com este tipo de página, pode dar asas à sua criatividade e construir uma **página personalizada** de acordo com os seus desejos. Adicione **texto** e **imagens** à sua página ou utilize **estatísticas** para criar **painéis de controlo** significativos com os dados da sua base.

@@ -5,7 +5,12 @@ lastmod: '2023-12-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/kanbanseiten-in-universellen-apps'
+url: '/help/kanban-pages-universal-apps'
+aliases:
+    - '/help/kanbanseiten-in-universellen-apps'
+seo:
+    title: 'Kanban Pages in Universal Apps: Visualize and Control Workflows'
+    description: 'Learn how to use Kanban pages in SeaTable to visualize tasks, customize cards, set filters, permissions and manage large projects efficiently in your apps.'
 ---
 
 This page type works in a similar way to the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) and offers you the option of displaying entries as index cards on a **Kanban board**. A specific use case could be the **visualization of workflows and project progress**, for example.

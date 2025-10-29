@@ -6,6 +6,9 @@ categories:
     - 'text-und-zahlen'
 author: 'nsc2'
 url: '/de/hilfe/formatierungen-mithilfe-von-markdown-rich-text'
+seo:
+    title: 'Markdown und Rich Text: Formatierungen mit SeaTable einsetzen'
+    description: 'Lernen Sie, wo und wie Sie Markdown- sowie Rich-Text-Formatierungen in SeaTable verwenden, kombiniert mit praxisnahen Beispielen für Listen, Code und mehr.'
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) ist eine stark vereinfachte Auszeichnungssprache, die zur **Formatierung von Texten** verwendet wird. SeaTable nutzt Markdown an verschiedenen Stellen, um längere Texte optisch ansprechend zu formatieren.
