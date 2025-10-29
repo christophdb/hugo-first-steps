@@ -9,8 +9,8 @@ url: '/help/log-status-change-with-automation'
 aliases:
     - '/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
-    title: 'Using the Linked Formula Column in SeaTable'
-    description: 'Discover how to use the linked formula column in SeaTable to connect and summarize data across related tables efficiently.'
+    title: 'Log Order Status Changes in SeaTable Automatically with Date and Time Automation'
+    description: 'Learn how to create automations in SeaTable to capture status change timestamps, trigger workflows and record dates for business process tracking with ease.'
 ---
 
 With the help of [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), you no longer have to **manually** record the times of a status change, but can have SeaTable do this **automatically**.
