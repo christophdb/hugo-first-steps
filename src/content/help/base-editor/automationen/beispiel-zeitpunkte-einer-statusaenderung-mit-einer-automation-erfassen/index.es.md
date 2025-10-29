@@ -5,7 +5,7 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/es/ayuda/columna-de-formula-de-enlaces'
+url: '/es/ayuda/automatizar-registro-cambios-estado-fechas'
 aliases:
     - '/es/ayuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
