@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/fr/aide/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+url: '/fr/aide/colonne-formule-de-liens'
+aliases:
+    - '/fr/aide/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+seo:
+    title: 'Colonne formule de liens dans SeaTable'
+    description: 'Découvrez comment utiliser la colonne de formule de liens dans SeaTable pour relier et analyser vos données entre tables.'
 ---
 
 Grâce à l'[automatisation]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), vous n'avez plus besoin de saisir **manuellement** les dates de changement d'état, SeaTable s'en charge **automatiquement**.

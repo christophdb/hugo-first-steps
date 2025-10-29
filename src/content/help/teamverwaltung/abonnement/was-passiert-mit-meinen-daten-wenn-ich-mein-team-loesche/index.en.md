@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+url: '/help/delete-team-data-consequences'
+aliases:
+    - '/help/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+seo:
+    title: 'Deleting Your SeaTable Team: What Happens to Accounts and Data?'
+    description: 'Understand the consequences of deleting a SeaTable team: final data removal, impact on accounts, security aspects and important privacy/export recommendations.'
 ---
 
 Team administrators have the option to delete their team in SeaTable via the team administration.  

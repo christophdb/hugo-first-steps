@@ -6,6 +6,9 @@ categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/welche-apps-gibt-es'
+seo:
+    title: 'Übersicht: Welche Apps gibt es in SeaTable? Funktionen und Anwendungsfälle'
+    description: 'Erfahren Sie mehr über alle App-Typen in SeaTable! Universelle Apps, Datenabfrage-Apps und Frontends für verschiedene Nutzergruppen – inklusive Beispiele und Vorteile.'
 star: true
 weight: 1
 ---

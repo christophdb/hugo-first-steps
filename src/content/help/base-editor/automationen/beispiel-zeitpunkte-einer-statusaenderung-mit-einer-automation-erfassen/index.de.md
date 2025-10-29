@@ -6,6 +6,9 @@ categories:
     - 'beispiel-automationen'
 author: 'nsc2'
 url: '/de/hilfe/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+seo:
+    title: 'Formel für Verknüpfungen in SeaTable nutzen'
+    description: 'Lernen Sie, wie Sie mit der Spalte „Formel für Verknüpfungen“ Daten aus verknüpften Tabellen in SeaTable verknüpfen und auswerten.'
 ---
 
 Mithilfe von [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) müssen Sie die Zeitpunkte einer Statusänderung nicht mehr **manuell** erfassen, sondern können dies **automatisch** von SeaTable übernehmen lassen.

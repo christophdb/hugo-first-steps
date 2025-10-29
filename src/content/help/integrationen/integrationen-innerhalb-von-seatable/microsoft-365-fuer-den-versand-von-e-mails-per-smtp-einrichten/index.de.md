@@ -6,6 +6,9 @@ categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'nsc2'
 url: '/de/hilfe/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+seo:
+    title: 'Microsoft 365 mit SeaTable: E-Mail-Versand per SMTP und OAuth2 einrichten'
+    description: 'So richten Sie Microsoft 365 für den sicheren E-Mail-Versand per SMTP in SeaTable ein: Schritt-für-Schritt Anleitung zu Authentifizierung, App-Registrierung und Integration.'
 ---
 
 **Microsoft 365**, der beliebte Online-Dienst für Microsofts Office-Anwendungen, kann für den **Versand von E-Mails aus SeaTable** verwendet werden. Die Authentifizierung gegenüber Ihrem Microsoft 365 muss mittels Microsofts moderner Authentifizieung erfolgen. (Die Authentifizierung über Benutzername und Benutzer-Passwort ist bei Microsoft 365 nicht möglich.)

@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+url: '/ru/pomoshch/formula-dlya-svyazey'
+aliases:
+    - '/ru/pomoshch/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+seo:
+    title: 'Формула для связей в SeaTable'
+    description: 'Узнайте, как использовать столбец «Формула для связей» в SeaTable для объединения и анализа данных между таблицами.'
 ---
 
 С помощью [автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вам больше не придется записывать время изменения статуса **вручную**, а можно поручить SeaTable делать это **автоматически**.

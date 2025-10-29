@@ -5,7 +5,12 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/pt/ajuda/welche-apps-gibt-es'
+url: '/pt/ajuda/quais-apps-existem'
+aliases:
+    - '/pt/ajuda/welche-apps-gibt-es'
+seo:
+    title: 'Visão geral: Quais apps existem no SeaTable? Tipos, funções e exemplos'
+    description: 'Explore todos os tipos de apps no SeaTable: apps universais, consultas de dados e frontends para diferentes grupos, com casos práticos e vantagens.'
 star: true
 weight: 1
 ---

@@ -5,7 +5,12 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+url: '/es/ayuda/eliminar-equipo-consecuencias-datos'
+aliases:
+    - '/es/ayuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
+seo:
+    title: '¿Qué ocurre con tus datos cuando eliminas el equipo en SeaTable?'
+    description: 'Descubre las consecuencias de borrar un equipo: eliminación permanente, recomendaciones para exportar y puntos esenciales de seguridad y datos personales.'
 ---
 
 Los administradores de equipos tienen la opción de borrar su equipo en SeaTable a través de la administración de equipos.  
