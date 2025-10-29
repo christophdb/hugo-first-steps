@@ -6,6 +6,9 @@ categories:
     - 'datenverarbeitung'
 author: 'nsc2'
 url: '/de/hilfe/datenverarbeitungsoperationen-ausfuehren'
+seo:
+    title: 'Datenverarbeitungsoperationen in SeaTable manuell ausführen: Kurzanleitung'
+    description: 'So starten Sie Datenverarbeitungsoperationen in SeaTable manuell, aktualisieren Ergebnisspalten und behalten vollständige Kontrolle über Berechnungen Ihrer Tabellen.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl mathematische Berechnungen über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind.

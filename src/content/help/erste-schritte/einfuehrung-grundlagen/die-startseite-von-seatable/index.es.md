@@ -5,7 +5,12 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/es/ayuda/die-startseite-von-seatable'
+url: '/es/ayuda/pagina-inicio-seatable'
+aliases:
+    - '/es/ayuda/die-startseite-von-seatable'
+seo:
+    title: 'Página de inicio SeaTable: estructura, elementos y navegación esencial'
+    description: 'Descubre cómo manejar todos los apartados clave en la página de inicio de SeaTable: bases, equipos, notificaciones y opciones personales para mayor eficiencia.'
 ---
 
 Una vez que se haya registrado e iniciado sesión, accederá a la página de inicio de SeaTable. En este artículo vamos a desglosar las diferentes secciones para ayudarle a navegar a las diferentes áreas del producto.

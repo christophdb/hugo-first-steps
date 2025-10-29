@@ -6,6 +6,9 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/de/hilfe/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+seo:
+    title: 'SeaTable Skripte ausführen: Manuell, per Schaltfläche oder Automation'
+    description: 'Lernen Sie, wie Sie JavaScript- und Python-Skripte in SeaTable manuell, über Buttons oder automatisiert starten – inklusive Tipps zu Kontext, Triggern und Workflows.'
 ---
 
 Mit einem Skript können Sie in SeaTable großartige Dinge vollbringen. Durch das Speichern allein geschieht aber nichts: Die Ausführung des Skripts muss nämlich entweder **manuell**, **per Schaltfläche** oder **per Automation** gestartet werden.

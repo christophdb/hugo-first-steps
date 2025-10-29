@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitungsoperationen-ausfuehren'
+url: '/help/run-data-processing-actions-manually'
+aliases:
+    - '/help/datenverarbeitungsoperationen-ausfuehren'
+seo:
+    title: 'Run Data Processing Actions Manually in SeaTable: How-To Guide and Effects'
+    description: 'Learn how to manually execute data processing operations in SeaTable, update result columns, and manage calculations directly for up-to-date data.'
 ---
 
 You can perform various **operations** using the data processing function. You can perform mathematical calculations across all values in a column, as well as correlate values when entries in two different tables are identical.

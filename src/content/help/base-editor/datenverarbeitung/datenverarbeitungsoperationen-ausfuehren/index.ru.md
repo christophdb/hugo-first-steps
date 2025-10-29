@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/pomoshch/datenverarbeitungsoperationen-ausfuehren'
+url: '/ru/pomoshch/ruchnoii-zapusk-obrabotki-dannykh'
+aliases:
+    - '/ru/pomoshch/datenverarbeitungsoperationen-ausfuehren'
+seo:
+    title: 'Ручной запуск операций обработки данных в SeaTable: пошаговое описание'
+    description: 'Узнайте, как вручную выполнять операции обработки данных в SeaTable, обновлять расчетные столбцы и контролировать результаты в таблицах.'
 ---
 
 С помощью функции обработки данных можно выполнять различные **операции**. Вы можете выполнять математические вычисления по всем значениям в столбце, а также соотносить значения, когда записи в двух разных таблицах идентичны.

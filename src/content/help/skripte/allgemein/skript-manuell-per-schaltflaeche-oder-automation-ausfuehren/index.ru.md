@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/pomoshch/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+url: '/ru/pomoshch/zapusk-skripta-manual-button-automation'
+aliases:
+    - '/ru/pomoshch/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+seo:
+    title: 'Запуск скриптов в SeaTable: вручную, через кнопку или автоматизацией'
+    description: 'Узнайте, как выполнять скрипты в SeaTable вручную, через кнопку или автоматизированно: подробный гид по выбору контекста, триггеров и workflow.'
 ---
 
 С помощью скрипта в SeaTable можно делать большие вещи. Однако само по себе сохранение ничего не дает: выполнение сценария должно быть запущено либо **вручную**, либо **кнопкой**, либо **с помощью автоматизации**.

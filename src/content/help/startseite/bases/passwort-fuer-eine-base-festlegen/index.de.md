@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/passwort-fuer-eine-base-festlegen'
+seo:
+    title: 'Passwortschutz für Bases: Passwort festlegen, ändern und entfernen in SeaTable'
+    description: 'So schützen Sie SeaTable-Bases mit einem Passwort, richten Zugriffsrechte ein, ändern oder annullieren Passwörter und sichern Ihre Daten gegen Fremdzugriff.'
 ---
 
 Um Ihre Bases vor unerwünschten Fremdzugriffen zu schützen, können Sie für jede Base ein beliebiges **Passwort** festlegen, das von jedem Benutzer, einschließlich Ihnen, korrekt eingegeben werden muss, um die entsprechende Base zu öffnen und anschließend bearbeiten zu können.

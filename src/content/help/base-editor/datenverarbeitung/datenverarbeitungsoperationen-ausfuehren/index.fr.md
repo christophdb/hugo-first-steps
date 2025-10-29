@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/fr/aide/datenverarbeitungsoperationen-ausfuehren'
+url: '/fr/aide/executer-operation-traitement-donnees-manuellement'
+aliases:
+    - '/fr/aide/datenverarbeitungsoperationen-ausfuehren'
+seo:
+    title: 'Exécuter manuellement des opérations de traitement de données sur SeaTable'
+    description: 'Suivez pas à pas l’exécution manuelle sur SeaTable, mettez à jour vos colonnes de résultats et gardez le contrôle sur vos données et automatisations.'
 ---
 
 La fonction de traitement des données vous permet d'**effectuer** diverses **opérations**. Vous pouvez effectuer des calculs mathématiques sur toutes les valeurs d'une colonne ou établir une relation entre les valeurs si les entrées de deux tableaux différents sont identiques.

@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/help/die-findmax-formel'
+url: '/help/findmax-formula'
+aliases:
+    - '/help/die-findmax-formel'
+seo:
+    title: 'SeaTable Findmax Formula: Calculate Maximums from Linked Records Effectively'
+    description: 'Discover how to use the Findmax formula in SeaTable to fetch maximum numeric values from linked tables – practical use cases and setup tips included.'
 ---
 
 The **Findmax formula** searches among the entries of the linked column for the **maximum value** and returns it. This is useful if there are **several entries** in the linked table that refer to the same record (e.g. of a person) in another table.

@@ -5,7 +5,12 @@ lastmod: '2023-03-29'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/passwort-fuer-eine-base-festlegen'
+url: '/es/ayuda/establecer-contrasena-base'
+aliases:
+    - '/es/ayuda/passwort-fuer-eine-base-festlegen'
+seo:
+    title: 'Protege tus Bases en SeaTable: crea, modifica o elimina contraseñas fácilmente'
+    description: 'Descubre cómo establecer, modificar y quitar contraseñas en tus bases SeaTable, controlar el acceso y garantizar la privacidad de tus datos paso a paso.'
 ---
 
 Para proteger tus bases de accesos externos no deseados, puedes establecer una **contraseña** cualquiera para cada base, que deberá ser introducida correctamente por todos los usuarios, incluido tú, para poder abrir y posteriormente editar la base correspondiente.

@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/pt/ajuda/hilfe-bekommen'
+url: '/pt/ajuda/obter-suporte-seatable'
+aliases:
+    - '/pt/ajuda/hilfe-bekommen'
+seo:
+    title: 'Suporte SeaTable: contato, comunidade, especialistas e fontes de ajuda completas'
+    description: 'Veja como acessar suporte no SeaTable: base de conhecimento, fórum, abertura de chamados, vídeos no YouTube e consultoria para situações mais especializadas.'
 ---
 
 Os utilizadores de SeaTable têm diferentes formas de obter apoio ou ajuda com perguntas ou problemas. O apoio vai desde tutoriais abrangentes, a ajuda de outros utilizadores activos, até uma variedade de vídeos e assistência da nossa equipa de apoio interno.

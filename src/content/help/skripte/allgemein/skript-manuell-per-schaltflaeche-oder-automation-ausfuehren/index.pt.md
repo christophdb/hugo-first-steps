@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/pt/ajuda/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+url: '/pt/ajuda/executar-script-manual-botao-automacao'
+aliases:
+    - '/pt/ajuda/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+seo:
+    title: 'Execute scripts no SeaTable manualmente, por botão ou automaticamente'
+    description: 'Aprenda três modos de rodar scripts no SeaTable: manualmente, por coluna de botão ou via automação de workflows, ganhe flexibilidade e controle total.'
 ---
 
 Pode fazer grandes coisas em SeaTable com um guião. No entanto, nada acontece ao salvar sozinho: a execução do guião deve ser iniciada **manualmente**, **por botão** ou **por automatização**.

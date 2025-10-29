@@ -5,7 +5,12 @@ lastmod: '2023-03-13'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/help/datenverarbeitungsoperationen-loeschen'
+url: '/help/delete-data-processing-operations'
+aliases:
+    - '/help/datenverarbeitungsoperationen-loeschen'
+seo:
+    title: 'Delete Data Processing Operations in SeaTable: Easy Guide and What Happens'
+    description: 'Learn how to delete data processing operations from your SeaTable tables, understand effect on calculated fields and permanently remove unnecessary automations.'
 ---
 
 You can perform various **operations** using the data processing function. You can perform mathematical calculations across all values in a column, as well as correlate values when entries in two different tables are identical.

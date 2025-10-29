@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/fr/aide/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+url: '/fr/aide/email-confirmation-non-recue-inscription-seatable'
+aliases:
+    - '/fr/aide/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+seo:
+    title: 'Email de confirmation SeaTable non reçue ? Trois solutions pour finaliser l’inscription'
+    description: 'Découvrez comment réagir si l’email de confirmation ne parvient pas : vérification dans le spam, attente et ré-inscription, pour activer SeaTable facilement.'
 ---
 
 Vous n'avez pas reçu d'e-mail de confirmation pour votre inscription à SeaTable ? Ne vous inquiétez pas ! Il vous suffit de suivre les étapes ci-dessous et vous pourrez poursuivre votre inscription dans les plus brefs délais.

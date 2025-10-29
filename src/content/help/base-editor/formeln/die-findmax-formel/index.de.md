@@ -6,6 +6,9 @@ categories:
     - 'verknuepfungen'
 author: 'vge'
 url: '/de/hilfe/die-findmax-formel'
+seo:
+    title: 'Die Findmax-Formel von SeaTable: Maximalwerte aus Verknüpfungen berechnen'
+    description: 'Lernen Sie, wie Sie mit der Findmax-Formel in SeaTable den größten Wert aus mehreren verknüpften numerischen Einträgen ziehen – mit Praxisbeispielen für Arbeitszeiten & mehr.'
 ---
 
 Die **Findmax-Formel** sucht unter den Einträgen der verknüpften Spalte den **Maximalwert** und gibt diesen wieder. Dies ist nützlich, wenn es in der verknüpften Tabelle **mehrere Einträge** gibt, die sich auf denselben Datensatz (z. B. einer Person) in einer anderen Tabelle beziehen.

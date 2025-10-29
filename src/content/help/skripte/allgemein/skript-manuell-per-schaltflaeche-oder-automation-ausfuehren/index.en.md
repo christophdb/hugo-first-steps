@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+url: '/help/run-script-manual-button-automation'
+aliases:
+    - '/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+seo:
+    title: 'How to Run Scripts in SeaTable: Manual, Button Trigger, or Full Automation'
+    description: 'Discover three ways to run scripts in SeaTable: manual execution, triggering via button column, or automating via workflow for maximum flexibility and control.'
 ---
 
 You can do great things in SeaTable with a script. However, nothing happens by saving alone: in fact, the execution of the script must be started either **manually**, **by button** or **by automation**.

@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/es/ayuda/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+url: '/es/ayuda/no-llega-correo-confirmacion-seatable'
+aliases:
+    - '/es/ayuda/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+seo:
+    title: '¿No recibiste el correo de confirmación? Soluciones para registrar tu cuenta SeaTable'
+    description: 'Aprende qué hacer si no llega el email de confirmación: espera, revisa tu carpeta de spam, y usa el registro alternativo para finalizar tu cuenta SeaTable.'
 ---
 
 ¿No ha recibido un correo electrónico de confirmación de su inscripción en SeaTable? No se preocupe. Siga los pasos que se indican a continuación y en breve podrá continuar con su registro.
