@@ -5,7 +5,12 @@ lastmod: '2023-12-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/kanbanseiten-in-universellen-apps'
+url: '/ru/pomoshch/kanban-stranitsy-universalnye-prilozheniya'
+aliases:
+    - '/ru/pomoshch/kanbanseiten-in-universellen-apps'
+seo:
+    title: 'Канбан-страницы в универсальных приложениях: Визуальный контроль процессов'
+    description: 'Узнайте, как в SeaTable создавать канбан-страницы для наглядного управления задачами, гибкой настройки карточек, фильтров и прав доступа.'
 ---
 
 Этот тип страницы работает аналогично [плагину Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) и предлагает вам возможность отображать записи в виде индексных карточек на **доске Kanban**. Конкретным вариантом использования может быть, например, **визуализация рабочих процессов и хода выполнения проекта**.

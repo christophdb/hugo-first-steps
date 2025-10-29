@@ -6,6 +6,9 @@ categories:
     - 'bekannte-probleme'
 author: 'kgr'
 url: '/de/hilfe/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
+seo:
+    title: 'Benutzer zu SeaTable-Team hinzufügen: Lösung für bestehende Konten'
+    description: 'Erfahren Sie, wie Sie ein bestehendes SeaTable-Konto zum Team hinzufügen, Konflikte mit E-Mail-Adressen vermeiden und Konten bei Bedarf exportieren oder löschen.'
 ---
 
 Sie möchten [einen Benutzer zu Ihrem Team hinzufügen]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}), aber erhalten die Fehlermeldung, dass dieses Konto bereits besteht? Das ist die Lösung:

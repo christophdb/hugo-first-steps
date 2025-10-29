@@ -6,6 +6,9 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/kanbanseiten-in-universellen-apps'
+seo:
+    title: 'Kanbanseiten in Universellen Apps: Workflows visuell steuern'
+    description: 'Erfahren Sie, wie Sie Kanbanseiten in SeaTable nutzen, Karten individuell gestalten, Filter, Sortierungen, Berechtigungen und Big-Data-Optionen optimal einsetzen.'
 ---
 
 Dieser Seitentyp funktioniert so ähnlich wie das [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) und bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.

@@ -5,7 +5,12 @@ lastmod: '2023-12-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/kanbanseiten-in-universellen-apps'
+url: '/pt/ajuda/paginas-kanban-apps-universais'
+aliases:
+    - '/pt/ajuda/kanbanseiten-in-universellen-apps'
+seo:
+    title: 'Páginas Kanban em apps universais: Visualize fluxos e organize projetos'
+    description: 'Aprenda a usar as páginas Kanban no SeaTable para visualização de tarefas, gestão de permissões, configuração de filtros e personalização de cartões.'
 ---
 
 Este tipo de página funciona de forma semelhante ao [plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) e oferece-lhe a opção de apresentar entradas como cartões de índice num **quadro Kanban**. Um caso de utilização específico poderia ser a **visualização de fluxos de trabalho e do progresso de um projeto**, por exemplo.

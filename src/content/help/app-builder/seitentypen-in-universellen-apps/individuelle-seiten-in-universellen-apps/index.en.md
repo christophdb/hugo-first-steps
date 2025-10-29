@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/individuelle-seiten-in-universellen-apps'
+url: '/help/custom-pages-universal-apps'
+aliases:    
+    - '/help/individuelle-seiten-in-universellen-apps'
+seo:
+    title: 'Build and Customize Individual Pages in SeaTable Universal Apps'
+    description: 'Learn to design custom pages with text, images, dashboards, flexible layouts and interactive data elements for truly unique SeaTable Universal Apps experiences.'
 ---
 
 With this page type, you can give free rein to your creativity and build a **customized page** according to your wishes. Add **text** and **images** to your page or use **statistics** to create meaningful **dashboards** with the data from your base.

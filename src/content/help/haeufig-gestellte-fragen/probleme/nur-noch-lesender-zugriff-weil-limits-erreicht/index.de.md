@@ -6,6 +6,9 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
 url: '/de/hilfe/nur-noch-lesender-zugriff-weil-limits-erreicht'
+seo:
+    title: 'Lesender Zugriff in SeaTable: Limits erkannt und volle Bearbeitung zurückerhalten'
+    description: 'Sie haben nur noch Leserechte in SeaTable? Hier erfahren Sie, welche Limits für Ihr Abo gelten, wie Sie Ihre Basis entsperren und alle Daten wieder bearbeiten.'
 ---
 
 Sie haben nur noch einen lesenden Zugriff auf Ihre Daten und können diese nicht mehr bearbeiten? Keine Sorge, Ihre Daten sind sicher. Sie haben vermutlich nur Ihre **Limits** erreicht, die Ihnen in Ihrem aktuellen **SeaTable-Abonnement** zur Verfügung stehen.
