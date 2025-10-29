@@ -5,7 +5,7 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/fr/aide/colonne-formule-de-liens'
+url: '/fr/aide/automatisation-changement-etat-enregistrement-date'
 aliases:
     - '/fr/aide/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:

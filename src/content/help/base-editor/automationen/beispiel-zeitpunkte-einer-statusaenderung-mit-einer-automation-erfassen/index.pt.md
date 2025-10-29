@@ -5,7 +5,7 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/pt/ajuda/coluna-de-formula-de-ligacoes'
+url: '/pt/ajuda/registo-automatico-mudancas-status'
 aliases:
     - '/pt/ajuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:

@@ -5,7 +5,7 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/formula-dlya-svyazey'
+url: '/ru/pomoshch/avtomaticheskiy-uchet-vremeni-statusa'
 aliases:
     - '/ru/pomoshch/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:

@@ -5,7 +5,7 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/help/linked-formula-column'
+url: '/help/log-status-change-with-automation'
 aliases:
     - '/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
