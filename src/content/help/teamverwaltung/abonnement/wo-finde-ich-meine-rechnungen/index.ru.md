@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/wo-finde-ich-meine-rechnungen'
+url: '/ru/pomoshch/gde-naiti-scheta-seatable'
+aliases:
+    - '/ru/pomoshch/wo-finde-ich-meine-rechnungen'
+seo:
+    title: 'Где найти и скачать счета в SeaTable: пошаговая инструкция и советы'
+    description: 'Узнайте, как просматривать, фильтровать и скачивать счета SeaTable в PDF, управлять оплатой и настройками через администрирование команды.'
 ---
 
 Вы можете просматривать и загружать свои счета-фактуры всего несколькими щелчками мыши через администрацию команды. Вы можете найти их на вкладке Подписка.

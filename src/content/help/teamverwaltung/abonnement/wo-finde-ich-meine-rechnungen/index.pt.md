@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/wo-finde-ich-meine-rechnungen'
+url: '/pt/ajuda/onde-encontrar-faturas-seatable'
+aliases:
+    - '/pt/ajuda/wo-finde-ich-meine-rechnungen'
+seo:
+    title: 'Onde encontrar e baixar suas faturas SeaTable: passo a passo completo'
+    description: 'Veja onde localizar, filtrar e baixar suas faturas no SeaTable em PDF, verificar o status do pagamento e gerenciar tudo pela administração da equipe.'
 ---
 
 Pode visualizar e descarregar as suas facturas com apenas alguns cliques através da administração da equipa. Pode encontrá-los no separador Subscrição.

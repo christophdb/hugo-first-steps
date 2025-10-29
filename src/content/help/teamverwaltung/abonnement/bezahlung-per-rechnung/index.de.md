@@ -6,6 +6,9 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/bezahlung-per-rechnung'
+seo:
+    title: 'Bezahlung per Rechnung im SeaTable Enterprise-Abo: Voraussetzungen & Ablauf'
+    description: 'Erfahren Sie, wann und wie Sie SeaTable per Rechnung zahlen können: Nur für Enterprise-Jahresabo ab 10 Usern, direkte Aktivierung in der Teamverwaltung und deutsche IBAN.'
 ---
 
 SeaTable bietet für die Buchung eines Plus- oder Enterprise Abonnements aktuell zwei Zahlungsmethoden an. Die **Kreditkarte** ist dabei die Bezahlmethode, die in den allermeisten Fällen zum Einsatz kommt. Dank unseres Zahlungsdienstleisters Stripe akzeptieren wir Zahlungen per Visa, Mastercard, American Express, China UnionPay und Cartes Bancaires.

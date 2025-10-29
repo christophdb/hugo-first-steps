@@ -5,7 +5,12 @@ lastmod: '2023-01-13'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/bezahlung-per-rechnung'
+url: '/ru/pomoshch/oplata-po-schetu-enterprise'
+aliases:
+    - '/ru/pomoshch/bezahlung-per-rechnung'
+seo:
+    title: 'Оплата по счёту в SeaTable Enterprise: требования и процесс подключения'
+    description: 'Узнайте, когда доступна оплата по счету для SeaTable Enterprise: только годовой тариф, минимум 10 пользователей, настройка в админке, банковский перевод.'
 ---
 
 В настоящее время SeaTable предлагает два способа оплаты для бронирования подписки Plus или Enterprise. **Кредитная карта** - это способ оплаты, используемый в подавляющем большинстве случаев. Благодаря поставщику платежных услуг Stripe мы принимаем платежи Visa, Mastercard, American Express, China UnionPay и Cartes Bancaires.

@@ -5,7 +5,12 @@ lastmod: '2024-03-11'
 categories:
     - 'import-von-daten'
 author: 'kgr'
-url: '/ru/pomoshch/speichern-einer-base-als-dtable-datei'
+url: '/ru/pomoshch/eksport-bazy-dtable'
+aliases:
+    - '/ru/pomoshch/speichern-einer-base-als-dtable-datei'
+seo:
+    title: 'Экспорт базы SeaTable в DTABLE: инструкция с деталями и ограничениями'
+    description: 'Узнайте, как экспортировать базу SeaTable в файл DTABLE для резервного копирования и переноса, с описанием содержимого, ограничений размера и импортом.'
 ---
 
 Вы можете в любой момент экспортировать базу в файл DTABLE и таким образом сохранить на своем устройстве полную резервную копию. О том, как это работает и о чем следует помнить, вы узнаете из следующей статьи.

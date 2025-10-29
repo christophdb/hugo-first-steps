@@ -6,6 +6,9 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/wo-finde-ich-meine-rechnungen'
+seo:
+    title: 'Rechnungen in SeaTable einsehen und downloaden: Anleitung & Übersicht'
+    description: 'Erfahren Sie, wo Sie Ihre Rechnungen in SeaTable finden, als PDF herunterladen, nach Status oder Betrag filtern und bequem über Teamverwaltung verwalten können.'
 ---
 
 Ihre Rechnungen können Sie mit nur wenigen Klicks über die Teamverwaltung einsehen und herunterladen. Sie finden diese im Reiter Abonnement.

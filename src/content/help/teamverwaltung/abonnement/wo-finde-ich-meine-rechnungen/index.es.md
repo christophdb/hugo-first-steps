@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/wo-finde-ich-meine-rechnungen'
+url: '/es/ayuda/donde-ver-descargar-facturas'
+aliases:
+    - '/es/ayuda/wo-finde-ich-meine-rechnungen'
+seo:
+    title: '¿Dónde ver y descargar las facturas en SeaTable? Guía rápida y sencilla'
+    description: 'Aprende a consultar y descargar tus facturas en SeaTable, organizarlas por estado o importe y gestionarlas directamente desde la administración del equipo.'
 ---
 
 Puede ver y descargar sus facturas con sólo unos clics a través de la administración del equipo. Puede encontrarlos en la pestaña Suscripción.
