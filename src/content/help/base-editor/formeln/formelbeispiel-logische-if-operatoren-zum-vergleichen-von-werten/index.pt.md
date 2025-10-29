@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/pt/ajuda/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+url: '/pt/ajuda/exemplo-formula-if-condicional'
+aliases:
+    - '/pt/ajuda/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+seo:
+    title: 'Exemplo de fórmula SeaTable: operadores IF para preenchimento condicional.'
+    description: 'Veja como criar regras com IF nas fórmulas SeaTable e preencher campos automaticamente conforme critérios – exemplos de textos, saudações e lógica encadeada.'
 ---
 
 As fórmulas SeaTable oferecem-lhe diferentes formas de trabalhar com os dados das suas tabelas. Uma possibilidade é o preenchimento condicional de valores utilizando **operadores "se** ".  

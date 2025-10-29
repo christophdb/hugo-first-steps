@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/es/ayuda/freigabe-von-bases-per-einladungslink-erlauben'
+url: '/es/ayuda/compartir-base-enlace-invitacion'
+aliases:
+    - '/es/ayuda/freigabe-von-bases-per-einladungslink-erlauben'
+seo:
+    title: 'Compartir bases en SeaTable con enlace de invitación: guía de permisos y seguridad'
+    description: 'Descubre cómo compartir bases por enlace en SeaTable, definir derechos, proteger con contraseña y administrar la opción para todos los miembros del equipo.'
 ---
 
 Con un [enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) puede dar **permisos de lectura y escritura** para una **Base** a personas fuera de su equipo, pero tienen que iniciar sesión en SeaTable.

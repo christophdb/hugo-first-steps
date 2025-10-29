@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/freigabe-von-bases-per-einladungslink-erlauben'
+url: '/help/allow-base-sharing-invitation-link'
+aliases:
+    - '/help/freigabe-von-bases-per-einladungslink-erlauben'
+seo:
+    title: 'Share SeaTable Bases via Invitation Link: Guide to Permissions and Management'
+    description: 'Learn how to use invitation links to share bases in SeaTable, set access levels, add password protection, and manage options as a team admin securely.'
 ---
 
 With an [invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}), you can give **read and write permissions** for a **base** to people outside your team, but they must log in to SeaTable.

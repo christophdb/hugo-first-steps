@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/pomoshch/hinterlegen-der-steuer-id'
+url: '/ru/pomoshch/dobavit-vat-nomer-seatable'
+aliases:
+    - '/ru/pomoshch/hinterlegen-der-steuer-id'
+seo:
+    title: 'Как добавить налоговый номер в SeaTable: пошаговая инструкция для учёта'
+    description: 'Узнайте, как добавить ИНН (VAT) в SeaTable для автоматизации проверки, выставления счетов и правильного налогового учёта вашей команды.'
 ---
 
 {{< required-version "Администраторы команд" >}}

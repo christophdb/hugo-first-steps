@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'cdb'
-url: '/ru/pomoshch/ein-teammitglied-entsperren'
+url: '/ru/pomoshch/razblokirovat-uchastnika-komandy-seatable'
+aliases:
+    - '/ru/pomoshch/ein-teammitglied-entsperren'
+seo:
+    title: 'Разблокировать участника команды в SeaTable: подробная инструкция'
+    description: 'Пошаговое руководство по разблокировке пользователей в SeaTable, восстановлению их доступа и возврату к совместной работе в команде.'
 ---
 
 [Заблокированные члены команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) больше не смогут войти в систему и работать с вами. Однако, будучи **администратором команды**, вы можете разблокировать их.

@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/hinterlegen-der-steuer-id'
+url: '/fr/aide/ajouter-tva-seatable'
+aliases:
+    - '/fr/aide/hinterlegen-der-steuer-id'
+seo:
+    title: 'Enregistrer un numéro de TVA dans SeaTable : guide complet pour les factures'
+    description: 'Apprenez à ajouter votre numéro de TVA dans SeaTable, automatiser la vérification fiscale et générer des factures valides pour l’abonnement de votre équipe.'
 ---
 
 {{< required-version "Administrateurs de l'équipe" >}}

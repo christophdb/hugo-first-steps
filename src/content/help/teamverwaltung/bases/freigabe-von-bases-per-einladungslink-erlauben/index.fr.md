@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/fr/aide/freigabe-von-bases-per-einladungslink-erlauben'
+url: '/fr/aide/partager-base-lien-invitation'
+aliases:
+    - '/fr/aide/freigabe-von-bases-per-einladungslink-erlauben'
+seo:
+    title: 'Partager une base SeaTable par lien d’invitation : mode d’emploi et sécurité'
+    description: 'Apprenez à partager vos bases avec des liens d’invitation dans SeaTable, fixer les droits d’accès, sécuriser par mot de passe et gérer l’option pour l’équipe.'
 ---
 
 Un [lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) vous permet d'accorder des **droits de lecture et d'écriture** sur une **base** à des personnes extérieures à votre équipe, mais qui doivent se connecter à SeaTable.

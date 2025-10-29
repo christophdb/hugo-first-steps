@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+url: '/ru/pomoshch/primer-formuly-if-logicheskiy'
+aliases:
+    - '/ru/pomoshch/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+seo:
+    title: 'Пример формулы SeaTable: логический IF для условного заполнения значений'
+    description: 'Узнайте, как применять IF-операторы в формулах SeaTable для автоматического заполнения по условиям – примеры для приветствий, поиска и множественных веток.'
 ---
 
 Формулы SeaTable предлагают различные способы работы с данными в таблицах. Одним из них является условное заполнение значений с помощью **операторов if**.  

@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/help/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+url: '/help/formula-example-logical-if-operators'
+aliases:
+    - '/help/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+seo:
+    title: 'SeaTable Formula Example: Logical IF Operators for Conditional Values'
+    description: 'Learn to use IF operators in SeaTable formulas to auto-fill fields based on conditions—practical examples for greetings, text search and cascading logic included.'
 ---
 
 SeaTable formulas offer you several ways to work with the data in your tables. One possibility is the conditional filling of values using **If** operators.  

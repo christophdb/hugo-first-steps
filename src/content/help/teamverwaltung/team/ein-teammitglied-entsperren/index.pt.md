@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'cdb'
-url: '/pt/ajuda/ein-teammitglied-entsperren'
+url: '/pt/ajuda/desbloquear-membro-equipe-seatable'
+aliases:
+    - '/pt/ajuda/ein-teammitglied-entsperren'
+seo:
+    title: 'Desbloqueie um membro da equipe no SeaTable: restaure acesso rapidamente'
+    description: 'Saiba como reativar usuários bloqueados no SeaTable, restaurar permissões de login e retomar a colaboração em time com poucos passos administrativos.'
 ---
 
 [Os membros da equipa bloqueados]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) já não podem entrar no sistema e trabalhar consigo. Como **administrador de equipa**, no entanto, pode desbloqueá-los.
