@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/fr/aide/die-findmax-formel'
+url: '/fr/aide/formule-findmax-seatable'
+aliases:
+    - '/fr/aide/die-findmax-formel'
+seo:
+    title: 'Formule Findmax dans SeaTable : trouvez la valeur maximale liée en un clic'
+    description: 'Découvrez comment utiliser Findmax dans SeaTable pour afficher la valeur maximale parmi vos champs numériques liés et exploiter ses usages professionnels.'
 ---
 
 La **formule Findmax** recherche la **valeur maximale** parmi les entrées de la colonne liée et l'affiche. Cela est utile lorsqu'il y a **plusieurs entrées** dans le tableau lié qui se réfèrent au même enregistrement (par exemple d'une personne) dans un autre tableau.

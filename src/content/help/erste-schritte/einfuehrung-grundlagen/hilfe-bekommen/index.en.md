@@ -5,7 +5,12 @@ lastmod: '2023-05-15'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/help/hilfe-bekommen'
+url: '/help/get-support'
+aliases:
+    - '/help/hilfe-bekommen'
+seo:
+    title: 'SeaTable Support: Contact, Community, Experts, and All Help Options at a Glance'
+    description: "Find answers with SeaTable's knowledge base, community forum, expert support ticket for Plus & Enterprise, video tutorials, and consulting for custom or urgent issues."
 ---
 
 SeaTable users have different ways to get support or help with questions or problems. Support ranges from comprehensive tutorials, to help from other active users, to a variety of videos and assistance from our internal support team.

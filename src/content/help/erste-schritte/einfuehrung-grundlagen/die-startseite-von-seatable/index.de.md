@@ -6,6 +6,9 @@ categories:
     - 'kurzanleitungen'
 author: 'cdb'
 url: '/de/hilfe/die-startseite-von-seatable'
+seo:
+    title: 'Die SeaTable Startseite: Aufbau, Elemente und Navigation für Nutzer'
+    description: 'Lernen Sie die wichtigsten Bereiche der SeaTable Startseite kennen und navigieren Sie gezielt zu Bases, Gruppen, Benachrichtigungen und Ihren persönlichen Einstellungen.'
 ---
 
 Nachdem Sie sich angemeldet und eingeloggt haben, gelangen Sie auf die Startseite von SeaTable. In diesem Artikel werden wir die verschiedenen Abschnitte aufschlüsseln, um Ihnen die Navigation zu den verschiedenen Bereichen des Produkts zu erleichtern.

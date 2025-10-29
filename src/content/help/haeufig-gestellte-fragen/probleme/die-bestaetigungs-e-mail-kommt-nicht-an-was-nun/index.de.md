@@ -6,6 +6,9 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
 url: '/de/hilfe/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+seo:
+    title: 'Keine Bestätigungs-E-Mail erhalten? Lösungswege zur Registrierung bei SeaTable'
+    description: 'Hier erfahren Sie, was zu tun ist, wenn Ihre Bestätigungs-E-Mail von SeaTable nicht ankommt: Wartezeit, Spam-Check und erneute Registrierung einfach erklärt.'
 ---
 
 Sie haben keine Bestätigungs-E-Mail für Ihre Registrierung bei SeaTable erhalten? Kein Grund zur Sorge! Befolgen Sie einfach die untenstehenden Schritte und Sie können Ihre Registrierung in Kürze fortsetzen.

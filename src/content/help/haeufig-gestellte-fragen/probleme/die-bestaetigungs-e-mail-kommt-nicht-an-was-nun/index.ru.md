@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+url: '/ru/pomoshch/ne-prishlo-pismo-podtverzhdenie-seatable'
+aliases:
+    - '/ru/pomoshch/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+seo:
+    title: 'Не пришло письмо-подтверждение SeaTable? Способы завершить регистрацию аккаунта'
+    description: 'Что делать, если письмо-подтверждение SeaTable не пришло: проверьте спам, подождите или повторите регистрацию для быстрого доступа к аккаунту.'
 ---
 
 Вы не получили письмо с подтверждением регистрации в SeaTable? Не стоит беспокоиться! Просто выполните следующие шаги, и вскоре вы сможете продолжить регистрацию.

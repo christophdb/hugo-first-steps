@@ -5,7 +5,12 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/help/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+url: '/help/missing-confirmation-email-seatable'
+aliases:
+    - '/help/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+seo:
+    title: 'Missing Email Confirmation From SeaTable? Steps to Finish Your Registration'
+    description: 'Did not get your SeaTable confirmation email? Try these solutions: waiting, checking your spam folder and re-registering to activate your account fast.'
 ---
 
 You have not received a confirmation email for your registration with SeaTable? No need to worry! Just follow the steps below and you will be able to continue your registration shortly.

@@ -5,7 +5,12 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/help/die-startseite-von-seatable'
+url: '/help/seatable-homepage-overview'
+aliases:
+    - '/help/die-startseite-von-seatable'
+seo:
+    title: 'SeaTable Homepage Overview: Structure, Elements and User Navigation Guide'
+    description: 'Discover all core sections of the SeaTable homepage, access your bases, groups, notifications, personal settings and optimize your workflow from the start.'
 ---
 
 After you have registered and logged in, you will be taken to the SeaTable home page. In this article we will break down the different sections to help you navigate to the different areas of the product.

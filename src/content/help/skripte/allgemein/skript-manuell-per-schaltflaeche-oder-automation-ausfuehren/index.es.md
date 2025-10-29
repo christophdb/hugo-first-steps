@@ -5,7 +5,12 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/es/ayuda/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+url: '/es/ayuda/ejecutar-script-manual-boton-automatizacion'
+aliases:
+    - '/es/ayuda/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
+seo:
+    title: 'Ejecuta scripts en SeaTable manualmente, por botón o automatización'
+    description: 'Descubre cómo iniciar scripts en SeaTable de forma manual, usando una columna de botón o conectando con flujos automáticos para personalizar tus procesos.'
 ---
 
 Puede hacer grandes cosas en SeaTable con un script. Sin embargo, nada ocurre sólo por guardar: la ejecución del script debe iniciarse **manualmente**, **por botón** o **por automatización**.

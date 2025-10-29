@@ -5,7 +5,12 @@ lastmod: '2023-03-29'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/passwort-fuer-eine-base-festlegen'
+url: '/help/set-base-password'
+aliases:
+    - '/help/passwort-fuer-eine-base-festlegen'
+seo:
+    title: 'Protect Your SeaTable Bases: Set, Change, and Remove Passwords Easily'
+    description: 'Learn how to secure your SeaTable bases with passwords, manage changes, remove access and ensure privacy for group and personal data—step-by-step explained.'
 ---
 
 To protect your bases from unwanted foreign access, you can set any **password** for each base, which must be entered correctly by any user, including you, to open and subsequently edit the corresponding base.

@@ -5,7 +5,12 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/pomoshch/die-startseite-von-seatable'
+url: '/ru/pomoshch/glavnaya-stranitsa-seatable'
+aliases:
+    - '/ru/pomoshch/die-startseite-von-seatable'
+seo:
+    title: 'Главная страница SeaTable: структура, элементы и навигация для пользователей'
+    description: 'Узнайте, как использовать главную страницу SeaTable: быстрый доступ к базам, группам, уведомлениям и настройкам — для эффективной работы с данными.'
 ---
 
 После регистрации и входа в систему вы попадете на главную страницу SeaTable. В этой статье мы разделим различные разделы, чтобы помочь вам ориентироваться в различных областях продукта.

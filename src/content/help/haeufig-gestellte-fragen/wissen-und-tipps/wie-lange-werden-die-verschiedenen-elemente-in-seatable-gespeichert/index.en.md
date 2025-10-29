@@ -5,7 +5,12 @@ lastmod: '2023-03-02'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/help/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
+url: '/help/how-long-elements-are-stored'
+aliases:
+    - '/help/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
+seo:
+    title: 'Data Retention in SeaTable: How Long Are Logs, Notifications and Snapshots Stored?'
+    description: 'Learn about data retention periods in SeaTable: minimum storage for logs, activity history, notifications, and snapshots based on your subscription and privacy settings.'
 ---
 
 Of course, SeaTable permanently stores the information you enter. At the same time, however, there is certain information that is not permanently stored by SeaTable. This is where regular logging cleanup takes place. The following list gives you an overview of the minimum storage time of the different elements in SeaTable.

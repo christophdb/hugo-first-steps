@@ -5,7 +5,12 @@ lastmod: '2023-04-28'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/pt/ajuda/datenverarbeitungsoperationen-ausfuehren'
+url: '/pt/ajuda/executar-operacoes-dados-manualmente'
+aliases:
+    - '/pt/ajuda/datenverarbeitungsoperationen-ausfuehren'
+seo:
+    title: 'Execute operações de dados manualmente no SeaTable: passo a passo prático'
+    description: 'Aprenda a rodar operações de dados manualmente no SeaTable, atualizar colunas e garantir total controle sobre o processamento e análise em suas tabelas.'
 ---
 
 Com a ajuda da função de processamento de dados, é possível realizar várias **operações**. Pode efectuar cálculos matemáticos em todos os valores de uma coluna, bem como correlacionar valores quando as entradas em duas tabelas diferentes são idênticas.

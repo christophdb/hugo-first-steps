@@ -5,7 +5,12 @@ lastmod: '2023-02-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/es/ayuda/die-findmax-formel'
+url: '/es/ayuda/formula-findmax-seatable'
+aliases:
+    - '/es/ayuda/die-findmax-formel'
+seo:
+    title: 'Fórmula Findmax de SeaTable: calcula el mayor valor de registros vinculados'
+    description: 'Aprende a usar la fórmula Findmax en SeaTable para obtener el valor máximo de entradas numéricas vinculadas entre tablas, con ejemplos prácticos y consejos de uso.'
 ---
 
 La **fórmula Findmax** busca el **valor máximo** entre las entradas de la columna vinculada y lo devuelve. Esto es útil si hay **varias entradas** en la tabla vinculada que hacen referencia al mismo registro (por ejemplo, de una persona) en otra tabla.
