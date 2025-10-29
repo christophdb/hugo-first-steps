@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/help/formularfelder-per-url-vorbefuellen'
+url: '/help/prefill-form-fields-url'
+aliases:
+    - '/help/formularfelder-per-url-vorbefuellen'
+seo:
+    title: 'SeaTable Webforms: Prefill Form Fields via URL or Custom Links—Quick Guide'
+    description: 'Learn how to prefill SeaTable webform fields using special URLs or custom links—see which data types are supported, with usage instructions and live examples.'
 ---
 
 To **prefill web forms**, you have the option of defining default values in the form fields. You can do this directly in the URL or using a user-friendly function in SeaTable.

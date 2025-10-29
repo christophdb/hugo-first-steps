@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/ein-support-ticket-eroeffnen'
+url: '/ru/pomoshch/otkryt-tiket-seatable-support'
+aliases:
+    - '/ru/pomoshch/ein-support-ticket-eroeffnen'
+seo:
+    title: 'Поддержка SeaTable: как подать командный тикет — пошаговая инструкция'
+    description: 'Узнайте, как открыть тикет в SeaTable с Plus/Enterprise — централизованное отслеживание обращений и быстрая команда по вопросам и решениям.'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

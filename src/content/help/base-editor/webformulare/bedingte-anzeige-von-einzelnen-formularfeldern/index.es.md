@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/es/ayuda/bedingte-anzeige-von-einzelnen-formularfeldern'
+url: '/es/ayuda/visualizacion-condicional-campos-formulario'
+aliases:
+    - '/es/ayuda/bedingte-anzeige-von-einzelnen-formularfeldern'
+seo:
+    title: 'Visualización condicional de campos en formularios SeaTable: cómo configurarlo'
+    description: 'Descubre cómo mostrar campos en formularios SeaTable solo cuando se cumple una condición, personalizando experiencias y optimizando la recogida de datos.'
 ---
 
 Al crear **formularios web**, puede establecer que determinados **campos** sólo sean visibles cuando se cumpla una **condición** en un campo anterior. Esto permite mejorar la **experiencia del usuario** al rellenar el formulario.

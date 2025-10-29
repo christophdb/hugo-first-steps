@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/pomoshch/bedingte-anzeige-von-einzelnen-formularfeldern'
+url: '/ru/pomoshch/uslovnoe-otobrazhenie-polei-formy'
+aliases:
+    - '/ru/pomoshch/bedingte-anzeige-von-einzelnen-formularfeldern'
+seo:
+    title: 'Условное отображение полей формы в SeaTable: инструкция для веб-форм'
+    description: 'Узнайте, как показывать поля SeaTable только при выполнении условий, создавать адаптивные формы и собирать релевантные данные с гибкой логикой видимости.'
 ---
 
 При создании **веб-форм** можно установить, что определенные **поля** становятся видимыми только после выполнения **условия** в предыдущем поле. Это позволяет улучшить **впечатления пользователя** при заполнении формы.

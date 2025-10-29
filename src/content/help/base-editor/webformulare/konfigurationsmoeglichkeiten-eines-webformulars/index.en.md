@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/help/konfigurationsmoeglichkeiten-eines-webformulars'
+url: '/help/configure-webform-options'
+aliases:
+    - '/help/konfigurationsmoeglichkeiten-eines-webformulars'
+seo:
+    title: 'Configure SeaTable Webforms: Options, Custom Fields, Design & Submission Rules'
+    description: 'Discover all configuration options for SeaTable webforms: field settings, required fields, appearance branding, color scheme, access restrictions and submission actions.'
 ---
 
 You can configure the look, content, and functionality of your web form by customizing the **form** settings, **field settings**, and **color scheme**. The latter requires an Enterprise subscription.

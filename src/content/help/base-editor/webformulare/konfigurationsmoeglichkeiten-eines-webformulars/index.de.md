@@ -6,6 +6,9 @@ categories:
     - 'webformulare'
 author: 'vge'
 url: '/de/hilfe/konfigurationsmoeglichkeiten-eines-webformulars'
+seo:
+    title: 'Webformular in SeaTable konfigurieren: Einstellungen, Felder und Design'
+    description: 'Lernen Sie, wie Sie SeaTable Webformulare optisch, inhaltlich und funktional anpassen: Einstellungen, individuelle Felder, Pflichtfelder, Farbschema, Logo & Sichtbarkeiten.'
 ---
 
 Sie können Ihr Webformular optisch, inhaltlich und funktional konfigurieren, indem Sie die **Formulareinstellungen**, die **Einstellungen der Felder** und das **Farbschema** anpassen. Letzteres erfordert ein Enterprise-Abonnement.

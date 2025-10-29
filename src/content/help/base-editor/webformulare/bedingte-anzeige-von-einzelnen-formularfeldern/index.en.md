@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/help/bedingte-anzeige-von-einzelnen-formularfeldern'
+url: '/help/conditional-display-form-fields'
+aliases:
+    - '/help/bedingte-anzeige-von-einzelnen-formularfeldern'
+seo:
+    title: 'Conditional Display of Fields in SeaTable Forms: Guide & Best Practices'
+    description: 'Learn to set up conditional visibility for fields in SeaTable webforms for dynamic surveys, improved user guidance, and customized data collection with easy configuration.'
 ---
 
 When creating **web forms**, you can set certain **fields** to become visible only after a **condition in** a previous field has been met. This allows you to improve the **user experience** when filling out the form.

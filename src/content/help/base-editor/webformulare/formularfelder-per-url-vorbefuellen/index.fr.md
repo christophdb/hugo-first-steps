@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/fr/aide/formularfelder-per-url-vorbefuellen'
+url: '/fr/aide/formulaires-pre-remplir-champs-url'
+aliases:
+    - '/fr/aide/formularfelder-per-url-vorbefuellen'
+seo:
+    title: 'Formulaires SeaTable : pré-remplir des champs par URL ou lien personnalisé'
+    description: 'Découvrez comment pré-remplir les champs d’un formulaire SeaTable par URL : liens personnalisés, types de champs compatibles et instructions pratiques.'
 ---
 
 Pour **pré-remplir les formulaires web**, vous avez la possibilité de définir des valeurs par défaut dans les champs du formulaire. Vous pouvez le faire directement dans l'URL ou à l'aide d'une fonction conviviale dans SeaTable.

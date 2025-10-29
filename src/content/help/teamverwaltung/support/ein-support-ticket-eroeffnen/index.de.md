@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/ein-support-ticket-eroeffnen'
+seo:
+    title: 'SeaTable Support: So eröffnen Sie ein Ticket als Team — Schritt-für-Schritt'
+    description: 'Erfahren Sie, wie Sie mit einem Plus- oder Enterprise-Abo ein Support-Ticket im Team eröffnen, alle Anfragen einsehen und Anleitung zur Nutzung des Ticket-Systems bekommen.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

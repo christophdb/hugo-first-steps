@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/help/ein-support-ticket-eroeffnen'
+url: '/help/open-support-ticket'
+aliases:
+    - '/help/ein-support-ticket-eroeffnen'
+seo:
+    title: 'SeaTable Support: How to Open a Ticket as a Team — Clear Team-Based Procedure'
+    description: 'Learn how to open SeaTable support tickets as a Plus/Enterprise user, manage issues as a team and get help instantly with precise ticket instructions and best practices.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/pomoshch/konfigurationsmoeglichkeiten-eines-webformulars'
+url: '/ru/pomoshch/nastroyka-veb-formy-seatable'
+aliases:
+    - '/ru/pomoshch/konfigurationsmoeglichkeiten-eines-webformulars'
+seo:
+    title: 'Настройка веб-формы в SeaTable: поля, внешний вид, ограничения и отправка'
+    description: 'Узнайте, как настроить формы SeaTable: индивидуальные поля, обязательность, фирменный стиль, цвета, лого, доступ и обработку отправки для каждого сценария.'
 ---
 
 Вы можете настроить внешний вид, содержание и функциональность веб-формы, настроив **параметры формы**, **параметры полей** и **цветовую схему**. Для последнего требуется подписка Enterprise.
