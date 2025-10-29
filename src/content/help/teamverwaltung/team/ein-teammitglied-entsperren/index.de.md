@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'cdb'
 url: '/de/hilfe/ein-teammitglied-entsperren'
+seo:
+    title: 'Ein Teammitglied in SeaTable entsperren: Rechte wiederherstellen'
+    description: 'So entsperren Sie gesperrte Teammitglieder in SeaTable: Anleitung für die Teamverwaltung und Hinweise zu Login, Rollen und erneuter Aktivierung.'
 ---
 
 [Gesperrte Teammitglieder]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) können sich nicht mehr einloggen und nicht mehr mit Ihnen arbeiten. Als **Team-Administrator** können Sie diese Sperre aber wieder aufheben.

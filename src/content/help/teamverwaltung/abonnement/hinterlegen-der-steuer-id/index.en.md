@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/hinterlegen-der-steuer-id'
+url: '/help/set-vat-id-team-management'
+aliases:
+    - '/help/hinterlegen-der-steuer-id'
+seo:
+    title: 'Enter VAT Number in SeaTable Team Settings: Easy Billing and Tax Verification'
+    description: 'Learn to add a VAT ID in SeaTable’s team admin for proper invoicing, tax validation and immediate adjustments to your subscription’s billing details.'
 ---
 
 {{< required-version "Team Administrators" >}}

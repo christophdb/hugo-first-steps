@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/anleitung-zum-timeline-plugin'
+seo:
+    title: 'Anleitung zum Timeline-Plugin in SeaTable: Zeiträume als Zeitstrahl visualisieren'
+    description: 'So nutzen Sie das Timeline-Plugin: Zeitspannen als Zeitstrahl darstellen, Termine und Ressourcen übersichtlich visualisieren, Überschneidungen erkennen und mehrere Timelines verwalten.'
 ---
 
 Das **Timeline-Plugin** ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Dies ist beispielsweise sehr nützlich, wenn Sie sehen möchten, ob sich Termine **überschneiden**. Dementsprechend können Sie das Timeline-Plugin unter anderem für die Urlaubs- und Projektplanung oder die Buchung von (Meeting-)Räumen einsetzen.

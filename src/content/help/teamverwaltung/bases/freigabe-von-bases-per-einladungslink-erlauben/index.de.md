@@ -6,6 +6,9 @@ categories:
     - 'teamverwaltung'
 author: 'vge'
 url: '/de/hilfe/freigabe-von-bases-per-einladungslink-erlauben'
+seo:
+    title: 'Bases in SeaTable per Einladungslink freigeben: Rechte, Anleitung und Sicherheit'
+    description: 'Erfahren Sie, wie Sie Bases über Einladungslinks teilen, Lese- und Schreibrechte vergeben, Schutzmaßnahmen ergreifen und die Option teamweit verwalten.'
 ---
 
 Mit einem [Einladungslink]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) können Sie **Lese- und Schreibrechte** für eine **Base** an Personen außerhalb Ihres Teams vergeben, die sich allerdings in SeaTable einloggen müssen.

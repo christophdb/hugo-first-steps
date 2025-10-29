@@ -6,6 +6,9 @@ categories:
     - 'abo-abrechnung'
 author: 'nsc2'
 url: '/de/hilfe/hinterlegen-der-steuer-id'
+seo:
+    title: 'Steuer-ID in SeaTable Teamverwaltung hinterlegen: Schritt-für-Schritt Guide'
+    description: 'So hinterlegen Sie Ihre Steuer-ID in SeaTable für korrekte Rechnungen, steuerfreie Abrechnung und automatische Prüfung – Direkt über Teamverwaltung & Abo-Bereich.'
 ---
 
 {{< required-version "Team-Administratoren" >}}

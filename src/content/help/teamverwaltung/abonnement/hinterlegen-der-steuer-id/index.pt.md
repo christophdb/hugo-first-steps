@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/pt/ajuda/hinterlegen-der-steuer-id'
+url: '/pt/ajuda/inserir-id-fiscal-seatable'
+aliases:
+    - '/pt/ajuda/hinterlegen-der-steuer-id'
+seo:
+    title: 'Inserir identificação fiscal no SeaTable: cobrança correta e validação tributária'
+    description: 'Veja como adicionar a identificação fiscal/VAT no SeaTable para ajuste automático de cobrança, validação tributária e emissão correta de notas fiscais.'
 ---
 
 {{< required-version "Administradores de equipa" >}}

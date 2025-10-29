@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/freigabe-von-bases-per-einladungslink-erlauben'
+url: '/ru/pomoshch/delit-base-priglasitelnaia-ssylka'
+aliases:
+    - '/ru/pomoshch/freigabe-von-bases-per-einladungslink-erlauben'
+seo:
+    title: 'Делитесь базами SeaTable через пригласительную ссылку: права доступа и безопасность'
+    description: 'Узнайте, как делиться базами по ссылке в SeaTable, назначать права, защищать паролем и управлять совместным доступом на уровне команды.'
 ---
 
 С помощью [пригласительной ссылки]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) вы можете предоставить **права на чтение и запись** **базы** людям, не входящим в вашу команду, но они должны войти в SeaTable.

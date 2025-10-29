@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/es/ayuda/hinterlegen-der-steuer-id'
+url: '/es/ayuda/guardar-id-fiscal-seatable'
+aliases:
+    - '/es/ayuda/hinterlegen-der-steuer-id'
+seo:
+    title: 'Guardar ID fiscal en SeaTable: facturación correcta y verificación automática'
+    description: 'Descubre cómo introducir el ID fiscal o VAT en la administración de SeaTable para facturas automáticas, comprobación impositiva y gestión eficaz de cuentas.'
 ---
 
 {{< required-version "Administradores de equipo" >}}

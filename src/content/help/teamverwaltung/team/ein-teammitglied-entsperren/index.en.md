@@ -5,7 +5,12 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'cdb'
-url: '/help/ein-teammitglied-entsperren'
+url: '/help/unlock-team-member'
+aliases:
+    - '/help/ein-teammitglied-entsperren'
+seo:
+    title: 'Unlock a Team Member in SeaTable: Step-by-Step Guide for Re-enabling Access'
+    description: 'Learn how to unlock disabled team members in SeaTable, restore account access via team admin, and get users back to collaborative work efficiently.'
 ---
 
 [Locked team members]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) can no longer log in and work with you. However, as a **team administrator**, you can unlock them.
