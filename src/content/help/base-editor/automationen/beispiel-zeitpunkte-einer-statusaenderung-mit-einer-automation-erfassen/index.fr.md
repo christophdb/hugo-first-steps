@@ -9,8 +9,8 @@ url: '/fr/aide/automatisation-changement-etat-enregistrement-date'
 aliases:
     - '/fr/aide/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
-    title: 'Colonne formule de liens dans SeaTable'
-    description: 'Découvrez comment utiliser la colonne de formule de liens dans SeaTable pour relier et analyser vos données entre tables.'
+    title: 'Protocolez les changements d’état en SeaTable : automatisation avec date et heure'
+    description: 'Apprenez à automatiser l’enregistrement des changements d’état dans SeaTable et à archiver les dates pour mieux contrôler vos processus et commandes.'
 ---
 
 Grâce à l'[automatisation]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), vous n'avez plus besoin de saisir **manuellement** les dates de changement d'état, SeaTable s'en charge **automatiquement**.

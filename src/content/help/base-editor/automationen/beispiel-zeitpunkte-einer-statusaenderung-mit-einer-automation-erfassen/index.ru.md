@@ -9,8 +9,8 @@ url: '/ru/pomoshch/avtomaticheskiy-uchet-vremeni-statusa'
 aliases:
     - '/ru/pomoshch/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
-    title: 'Формула для связей в SeaTable'
-    description: 'Узнайте, как использовать столбец «Формула для связей» в SeaTable для объединения и анализа данных между таблицами.'
+    title: 'Автоматический учёт времени смены статуса в SeaTable с помощью автоматизации'
+    description: 'Узнайте, как настроить автоматизацию в SeaTable для фиксации времени смены статуса, отслеживания заказов и ведения точных журналов изменений.'
 ---
 
 С помощью [автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вам больше не придется записывать время изменения статуса **вручную**, а можно поручить SeaTable делать это **автоматически**.

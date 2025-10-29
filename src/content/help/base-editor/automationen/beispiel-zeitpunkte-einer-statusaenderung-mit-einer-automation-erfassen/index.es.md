@@ -9,8 +9,8 @@ url: '/es/ayuda/automatizar-registro-cambios-estado-fechas'
 aliases:
     - '/es/ayuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
-    title: 'Columna de fórmula de enlaces en SeaTable'
-    description: 'Aprenda a usar la columna de fórmula de enlaces para conectar, resumir y relacionar datos entre tablas en SeaTable.'
+    title: 'Automatiza el registro de cambios de estado y fechas en SeaTable'
+    description: 'Descubre cómo crear automatizaciones en SeaTable para registrar automáticamente las fechas y horas de cambios de estado, y mejorar tus procesos de negocios.'
 ---
 
 Con la ayuda de [las automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), ya no tiene que registrar **manualmente** las horas de un cambio de estado, sino que puede hacer que SeaTable lo haga **automáticamente**.

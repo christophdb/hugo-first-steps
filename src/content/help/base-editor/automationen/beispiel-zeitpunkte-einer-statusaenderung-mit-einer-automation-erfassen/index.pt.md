@@ -9,8 +9,8 @@ url: '/pt/ajuda/registo-automatico-mudancas-status'
 aliases:
     - '/pt/ajuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 seo:
-    title: 'Coluna de fórmula de ligações no SeaTable'
-    description: 'Saiba como usar a coluna de fórmula de ligações no SeaTable para combinar e resumir dados entre tabelas relacionadas.'
+    title: 'Registre automático de mudanças de status em SeaTable com data e hora'
+    description: 'Saiba como usar automações no SeaTable para registrar datas de mudança de status em pedidos e fluxos de trabalho automaticamente e sem erros.'
 ---
 
 Com a ajuda das [automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), já não é necessário registar **manualmente** as horas de uma alteração de estado, mas o SeaTable pode fazê-lo **automaticamente**.
