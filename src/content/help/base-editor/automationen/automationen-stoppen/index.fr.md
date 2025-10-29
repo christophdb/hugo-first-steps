@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/automationen-stoppen'
+url: '/fr/aide/suspendre-automatisations-seatable'
+aliases:
+    - '/fr/aide/automationen-stoppen'
+seo:
+    title: 'Suspendre et réactiver des automatisations SeaTable : guide pratique pour l’entreprise'
+    description: 'Apprenez à suspendre ou relancer les automatisations dans SeaTable Enterprise, garantir la flexibilité sans supprimer ni reconfigurer les flux d’actions.'
 ---
 
 {{< required-version "Entreprise" >}}

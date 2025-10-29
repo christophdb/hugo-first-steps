@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/pomoshch/unterschiede-zwischen-einladungs-links-und-externen-links'
+url: '/ru/pomoshch/razlichiya-ssylka-priglashenie-vnechnii'
+aliases:
+    - '/ru/pomoshch/unterschiede-zwischen-einladungs-links-und-externen-links'
+seo:
+    title: 'Различия: ссылку-приглашение или внешний доступ – что выбрать в SeaTable?'
+    description: 'Узнайте, когда использовать открытую (экстерн) или приватную (приглашение) ссылку SeaTable, настройку паролей и публикацию данных на сайте.'
 ---
 
 Оба типа совместного доступа позволяют сотрудничать с **внешними людьми**, **не добавляя их в свою команду**.

@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/ausfuehrungslog-einer-automation-anzeigen'
+url: '/ru/pomoshch/zhurnal-avtomatizacii-seatable'
+aliases:
+    - '/ru/pomoshch/ausfuehrungslog-einer-automation-anzeigen'
+seo:
+    title: 'Журнал работы автоматизаций в SeaTable: проверить статус, время и ошибки'
+    description: 'Узнайте, как просматривать журнал срабатывания автоматизаций SeaTable Enterprise и анализировать время запуска, условия, успехи и возникающие ошибки.'
 ---
 
 {{< required-version "Предприятие" >}}

@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/help/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
+url: '/help/formula-example-search-word-text'
+aliases:
+    - '/help/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
+seo:
+    title: 'SeaTable Formula Example: Search for a Word in Any Text Field and Mark Hits'
+    description: 'See how to search for specific words in any SeaTable text column and auto-flag results or indicate “found/not found” using smart logical formulas and tips.'
 ---
 
 SeaTable formulas offer you several ways to work with the data in your tables. One possibility is to **search for words in a text**. By entering an appropriate formula you can automatically search a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) for any words and have a hint - e.g. "word found/not found" - written as a result in a formula column of your table.

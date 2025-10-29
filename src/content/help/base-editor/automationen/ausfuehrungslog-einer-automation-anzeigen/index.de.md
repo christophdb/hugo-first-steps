@@ -6,6 +6,9 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/ausfuehrungslog-einer-automation-anzeigen'
+seo:
+    title: 'Ausführungslog von Automationen in SeaTable: Status, Zeit und Warnungen prüfen'
+    description: 'Erfahren Sie, wie Sie das Ausführungslog von Automationen in SeaTable Enterprise einsehen: Laufzeit, Auslöser, Erfolg und Fehler im Protokoll kontrollieren.'
 ---
 
 {{< required-version "Enterprise" >}}

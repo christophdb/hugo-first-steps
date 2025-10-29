@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/automationen-stoppen'
+url: '/pt/ajuda/pausar-reativar-automacoes-seatable'
+aliases:
+    - '/pt/ajuda/automationen-stoppen'
+seo:
+    title: 'Pausar ou reativar automações no SeaTable: tutorial para times Enterprise'
+    description: 'Saiba pausar e restaurar automações em SeaTable sem precisar excluir regras, garantir continuidade e flexibilidade em processos críticos do seu time.'
 ---
 
 {{< required-version "Empresa" >}}

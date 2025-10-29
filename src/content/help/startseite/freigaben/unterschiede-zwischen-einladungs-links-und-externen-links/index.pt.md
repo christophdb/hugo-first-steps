@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/pt/ajuda/unterschiede-zwischen-einladungs-links-und-externen-links'
+url: '/pt/ajuda/diferenca-link-convite-externo'
+aliases:
+    - '/pt/ajuda/unterschiede-zwischen-einladungs-links-und-externen-links'
+seo:
+    title: 'Diferenças: link de convite vs. link externo no SeaTable – quando usar cada um'
+    description: 'Saiba como usar links de convite (acesso privado) e externos (público) no SeaTable para compartilhar dados, proteger conteúdo e embutir bases em sites.'
 ---
 
 Ambos os tipos de partilha permitem-lhe colaborar com **pessoas externas** **sem as adicionar à sua equipa**.

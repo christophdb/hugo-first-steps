@@ -6,6 +6,9 @@ categories:
     - 'automationen'
 author: 'nsc2'
 url: '/de/hilfe/automationen-stoppen'
+seo:
+    title: 'Automationen in SeaTable pausieren und wieder aktivieren: Anleitung & Hinweise'
+    description: 'So stoppen Sie Automationen in SeaTable vorübergehend: Automatisierungen einfach pausieren, wieder aktivieren und Datensicherheit im Enterprise-Abonnement gewährleisten.'
 ---
 
 {{< required-version "Enterprise" >}}

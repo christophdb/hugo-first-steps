@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/help/unterschiede-zwischen-einladungs-links-und-externen-links'
+url: '/help/difference-invitation-vs-external-link'
+aliases:
+    - '/help/unterschiede-zwischen-einladungs-links-und-externen-links'
+seo:
+    title: 'SeaTable Sharing: Invitation Link vs. External Link – Key Differences Explained'
+    description: 'Learn when to use invitation vs. external links in SeaTable: restrict private access, offer public read-only sharing or embed data directly on web—side-by-side guide.'
 ---
 
 Both sharing types allow you to collaborate with **external people** **without adding them to your team**.

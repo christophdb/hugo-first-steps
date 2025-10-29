@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/pomoshch/automationen-stoppen'
+url: '/ru/pomoshch/pausa-avtomatizacii-seatable'
+aliases:
+    - '/ru/pomoshch/automationen-stoppen'
+seo:
+    title: 'Приостановить и запустить автоматизации в SeaTable: подробная инструкция'
+    description: 'Узнайте, как временно остановить или снова запустить автоматизации в SeaTable Enterprise, не теряя настройки и необходимые бизнес-процессы.'
 ---
 
 {{< required-version "Предприятие" >}}

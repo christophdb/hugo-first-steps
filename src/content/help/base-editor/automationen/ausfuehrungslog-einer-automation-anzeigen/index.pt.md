@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/pt/ajuda/ausfuehrungslog-einer-automation-anzeigen'
+url: '/pt/ajuda/log-execucao-automacoes-seatable'
+aliases:
+    - '/pt/ajuda/ausfuehrungslog-einer-automation-anzeigen'
+seo:
+    title: 'Log de execução de automações no SeaTable: monitore tempos, erros e alertas'
+    description: 'Veja como acessar o registro de execuções automáticas em SeaTable Enterprise: rastreie tempos, status, triggers e mensagens de alerta para validação de processos.'
 ---
 
 {{< required-version "Empresa" >}}

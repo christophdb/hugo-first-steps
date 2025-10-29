@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/ausfuehrungslog-einer-automation-anzeigen'
+url: '/help/view-automation-run-log'
+aliases:
+    - '/help/ausfuehrungslog-einer-automation-anzeigen'
+seo:
+    title: 'Automation Run Log in SeaTable: Monitor Execution Times, Status, and Alerts'
+    description: 'Learn how to view and interpret the execution log for SeaTable automations: check times, triggers, warning messages, and ensure reliable, traceable workflows.'
 ---
 
 {{< required-version "Enterprise" >}}
