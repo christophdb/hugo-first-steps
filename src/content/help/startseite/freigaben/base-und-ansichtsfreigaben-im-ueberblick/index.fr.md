@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'cdb'
-url: '/fr/aide/base-und-ansichtsfreigaben-im-ueberblick'
+url: '/fr/aide/partage-base-et-vue-seatable'
+aliases:
+    - '/fr/aide/base-und-ansichtsfreigaben-im-ueberblick'
+seo:
+    title: 'Base et partage de vues SeaTable : droits, variantes et gestion expliqués'
+    description: 'Apprenez à partager des bases, tables et vues SeaTable, attribuer droits personnalisés et gérer chaque collaboration en toute sécurité et flexibilité.'
 ---
 
 Vous avez organisé vos informations dans une **base**, un **tableau** ou **une vue** et vous souhaitez les **partager** ou collaborer avec d'autres ? Dans SeaTable, le **partage** est un moyen simple et rapide de le faire. Vous pouvez ainsi accorder l'accès à vos données à un **utilisateur** individuel, à un **groupe** ou à **des personnes externes**.

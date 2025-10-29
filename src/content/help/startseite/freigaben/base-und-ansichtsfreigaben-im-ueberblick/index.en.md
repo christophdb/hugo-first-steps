@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'cdb'
-url: '/help/base-und-ansichtsfreigaben-im-ueberblick'
+url: '/help/base-and-view-sharing-overview'
+aliases:
+    - '/help/base-und-ansichtsfreigaben-im-ueberblick'
+seo:
+    title: 'SeaTable Sharing Overview: How to Share Bases, Tables, and Views with Custom Rights'
+    description: 'Master sharing in SeaTable—grant read or write rights, use user and group permissions or custom setups for bases, tables, and views to control collaboration.'
 ---
 
 You have organized your information in a **base**, **table** or **view** and want to **share** it with others or collaborate on it? In SeaTable this is done easily and quickly with a **share**. This way you can grant access to your data to a single **user**, a **group** or **external people**.

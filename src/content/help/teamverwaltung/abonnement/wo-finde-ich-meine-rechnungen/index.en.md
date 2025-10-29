@@ -5,7 +5,12 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/wo-finde-ich-meine-rechnungen'
+url: '/help/where-to-find-invoices'
+aliases:
+    - '/help/wo-finde-ich-meine-rechnungen'
+seo:
+    title: 'Where to Find and Download Your Invoices in SeaTable: Step-by-Step Guide'
+    description: 'Learn how to access and download your SeaTable invoices as PDF, filter by payment status or amount, and manage billing directly via the team admin interface.'
 ---
 
 You can view and download your invoices with just a few clicks via the team administration. You can find them in the Subscription tab.

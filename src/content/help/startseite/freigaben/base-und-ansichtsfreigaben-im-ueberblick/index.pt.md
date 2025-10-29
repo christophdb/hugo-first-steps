@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'cdb'
-url: '/pt/ajuda/base-und-ansichtsfreigaben-im-ueberblick'
+url: '/pt/ajuda/compartilhar-base-visualizacao'
+aliases:
+    - '/pt/ajuda/base-und-ansichtsfreigaben-im-ueberblick'
+seo:
+    title: 'Compartilhar bases e visualizações em SeaTable: tipos, permissões e gestão'
+    description: 'Veja como usar todas as opções de compartilhamento no SeaTable, dar direitos individuais e administrar acessos de forma detalhada por base, tabela ou visualização.'
 ---
 
 Organizou a sua informação numa **base**, **mesa** ou **vista** e quer **partilhá-la** com outros ou trabalhar nela em conjunto? No SeaTable, isto é feito de forma fácil e rápida com uma **partilha**. Desta forma, pode conceder acesso aos seus dados a um único **utilizador**, a um **grupo** ou a **pessoas externas**.

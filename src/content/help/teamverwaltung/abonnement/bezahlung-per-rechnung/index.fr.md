@@ -5,7 +5,12 @@ lastmod: '2023-01-13'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/fr/aide/bezahlung-per-rechnung'
+url: '/fr/aide/paiement-facture-enterprise'
+aliases:
+    - '/fr/aide/bezahlung-per-rechnung'
+seo:
+    title: 'Paiement sur facture dans SeaTable Enterprise : conditions et modalités claires'
+    description: 'Voyez dans quels cas le paiement par facture est possible chez SeaTable : uniquement pour l’abonnement Enterprise annuel à partir de 10 utilisateurs, activation rapide.'
 ---
 
 SeaTable propose actuellement deux méthodes de paiement pour les abonnements Plus et Enterprise. La **carte de crédit** est le mode de paiement le plus courant. Grâce à notre prestataire de services de paiement Stripe, nous acceptons les paiements par Visa, Mastercard, American Express, China UnionPay et Cartes Bancaires.

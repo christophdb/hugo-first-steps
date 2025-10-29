@@ -5,7 +5,12 @@ lastmod: '2024-03-11'
 categories:
     - 'import-von-daten'
 author: 'kgr'
-url: '/fr/aide/speichern-einer-base-als-dtable-datei'
+url: '/fr/aide/exporter-base-formulaire-dtable'
+aliases:
+    - '/fr/aide/speichern-einer-base-als-dtable-datei'
+seo:
+    title: 'Exporter une base SeaTable au format DTABLE : guide pratique et précautions'
+    description: 'Apprenez à exporter une base SeaTable sous DTABLE, décrivez le contenu, gérez la taille maximale et importez facilement votre sauvegarde ou transfert.'
 ---
 
 Vous pouvez à tout moment exporter une base en tant que fichier DTABLE et enregistrer ainsi une sauvegarde complète sur votre appareil. L'article suivant vous explique comment cela fonctionne et ce à quoi vous devez faire attention.

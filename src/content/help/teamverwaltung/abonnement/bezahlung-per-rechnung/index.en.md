@@ -5,7 +5,12 @@ lastmod: '2023-01-13'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/help/bezahlung-per-rechnung'
+url: '/help/invoice-payment-enterprise'
+aliases:
+    - '/help/bezahlung-per-rechnung'
+seo:
+    title: 'Invoice Payment in SeaTable Enterprise: Requirements and Activation Steps'
+    description: 'Learn how to pay your SeaTable Enterprise subscription by invoice – only for annual plans, at least 10 users, easy setup in team admin and direct bank transfer.'
 ---
 
 SeaTable currently offers two payment methods for booking a Plus or Enterprise subscription. The **credit card** is the payment method that is used in the vast majority of cases. Thanks to our payment service provider Stripe, we accept payments via Visa, Mastercard, American Express, China UnionPay and Cartes Bancaires.
