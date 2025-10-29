@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/ein-support-ticket-eroeffnen'
+url: '/pt/ajuda/abrir-ticket-suporte-seatable'
+aliases:
+    - '/pt/ajuda/ein-support-ticket-eroeffnen'
+seo:
+    title: 'Suporte SeaTable: crie um ticket em equipe — instruções claras, solução ágil'
+    description: 'Veja como abrir e visualizar tickets no SeaTable para times Plus/Enterprise, monitorar o status e resolver solicitações com guia prático e colaborativo.'
 ---
 
 {{< required-version "Mais" "Empresa" >}}

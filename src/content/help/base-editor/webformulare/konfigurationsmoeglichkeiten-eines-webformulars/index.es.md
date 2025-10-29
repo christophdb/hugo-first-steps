@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/es/ayuda/konfigurationsmoeglichkeiten-eines-webformulars'
+url: '/es/ayuda/configurar-formulario-web-seatable'
+aliases:
+    - '/es/ayuda/konfigurationsmoeglichkeiten-eines-webformulars'
+seo:
+    title: 'Configura tu formulario web SeaTable: ajustes, campos y personalización visual'
+    description: 'Descubre cómo personalizar formularios SeaTable: campos, requeridos, diseño, colores, logo, reglas de validación y control de envíos—fácil y flexible para cada caso.'
 ---
 
 Puede configurar el aspecto, el contenido y la funcionalidad de su formulario web personalizando la **configuración del formulario**, la **configuración de los campos** y la **combinación de colores**. Esto último requiere una suscripción Enterprise.
