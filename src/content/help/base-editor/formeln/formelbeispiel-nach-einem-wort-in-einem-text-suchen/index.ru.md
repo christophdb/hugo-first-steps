@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/pomoshch/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
+url: '/ru/pomoshch/primer-formuly-poisk-slova-tekst'
+aliases:
+    - '/ru/pomoshch/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
+seo:
+    title: 'Формула SeaTable: как искать и отмечать слова в текстовых столбцах'
+    description: 'Узнайте, как искать определённые слова в столбцах SeaTable с помощью формулы и автоматически помечать найденное – примеры и лучшие подходы.'
 ---
 
 Формулы SeaTable предлагают различные способы работы с данными в таблицах. Одним из них является поиск **слов в тексте**. Введя соответствующую формулу, можно автоматически искать в [текстовом столбце]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) какие-либо слова и получать подсказку - например, "слово найдено/не найдено" - в виде результата в столбце формул таблицы.

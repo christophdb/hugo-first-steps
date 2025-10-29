@@ -5,7 +5,12 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/es/ayuda/unterschiede-zwischen-einladungs-links-und-externen-links'
+url: '/es/ayuda/diferencias-enlace-invitacion-externo'
+aliases:
+    - '/es/ayuda/unterschiede-zwischen-einladungs-links-und-externen-links'
+seo:
+    title: 'Diferencias: enlace de invitación vs. enlace externo en SeaTable y usos recomendados'
+    description: 'Descubre la diferencia entre compartir por enlace externo (público) o de invitación (acceso privado) en SeaTable, opciones de contraseña y publicación web.'
 ---
 
 Ambos tipos de uso compartido te permiten colaborar con **personas externas** **sin añadirlas a tu equipo**.

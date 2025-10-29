@@ -5,7 +5,12 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/help/die-spalten-ersteller-und-erstelldatum'
+url: '/help/creator-created-column-features'
+aliases:
+    - '/help/die-spalten-ersteller-und-erstelldatum'
+seo:
+    title: 'SeaTable’s “Creator” and “Created” Columns: Automatic Entry Tracking Features'
+    description: 'Learn how SeaTable auto-fills the “creator” and “created date” columns to track user origins and timestamps—uneditable, unique to each table, and always up-to-date.'
 ---
 
 The columns **Creator** and **Created time** are filled **automatically** by SeaTable and therefore represent special column types. While SeaTable fills the Creator column with the **name of the user** who created the row, the Created time column records the **moment** (creation date and time) when the user created the row.

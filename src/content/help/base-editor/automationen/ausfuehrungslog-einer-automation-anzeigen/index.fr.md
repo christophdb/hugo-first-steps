@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/fr/aide/ausfuehrungslog-einer-automation-anzeigen'
+url: '/fr/aide/journal-execution-automatisation'
+aliases:
+    - '/fr/aide/ausfuehrungslog-einer-automation-anzeigen'
+seo:
+    title: 'Journal d’exécution des automatisations SeaTable : suivez statut, temps et alertes'
+    description: 'Apprenez à consulter le journal d’exécution des automatisations SeaTable Enterprise : temps d’exécution, conditions, succès et messages d’alerte inclus.'
 ---
 
 {{< required-version "Entreprise" >}}

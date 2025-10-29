@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/fr/aide/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
+url: '/fr/aide/exemple-formule-recherche-mot-texte'
+aliases:
+    - '/fr/aide/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
+seo:
+    title: 'Exemple de formule SeaTable : rechercher et signaler des mots dans un texte'
+    description: 'Découvrez comment rechercher des mots dans les colonnes texte avec une formule SeaTable, signaler les trouvailles et automatiser vos analyses de contenu.'
 ---
 
 Les formules de SeaTable vous offrent différentes possibilités de travailler avec les données de vos tableaux. Une possibilité est la **recherche de mots dans un texte**. En saisissant une formule correspondante, vous pouvez rechercher automatiquement n'importe quel mot [dans une colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) et faire écrire une note - par exemple "mot trouvé/non trouvé" - comme résultat dans une colonne de formule de votre tableau.

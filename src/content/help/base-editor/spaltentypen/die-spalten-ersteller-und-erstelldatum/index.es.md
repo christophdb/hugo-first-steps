@@ -5,7 +5,12 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/es/ayuda/die-spalten-ersteller-und-erstelldatum'
+url: '/es/ayuda/columna-creador-creado-seatable'
+aliases:
+    - '/es/ayuda/die-spalten-ersteller-und-erstelldatum'
+seo:
+    title: 'Columnas “creador” y “creado” de SeaTable: registro automático y seguimiento'
+    description: 'Descubre cómo las columnas de SeaTable “creador”/“creado” documentan usuarios y fechas en tus registros, garantizando trazabilidad y transparencia interna.'
 ---
 
 Las columnas **Creador** y **Fecha y hora de creación** son rellenadas exclusivamente **de forma automática** por SeaTable y, por lo tanto, representan tipos de columna especiales. Mientras que SeaTable rellena la columna creador con el **nombre del usuario** que creó una fila, la columna fecha y hora de creación registra la **fecha y hora** en que el usuario creó la fila.

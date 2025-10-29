@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'vge'
 url: '/de/hilfe/unterschiede-zwischen-einladungs-links-und-externen-links'
+seo:
+    title: 'Unterschiede: Einladungs-Link vs. Externer Link in SeaTable Freigaben'
+    description: 'Erfahren Sie, wann Sie Einladungs-Links oder externe Links nutzen: öffentliche, passwortlose Ansichten und private Lese-/Schreibrechte einfach erklärt und verglichen.'
 ---
 
 Beide Freigabetypen ermöglichen es Ihnen, mit **externen Personen** zusammenzuarbeiten, **ohne diese zu Ihrem Team hinzuzufügen**.

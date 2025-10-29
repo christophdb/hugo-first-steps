@@ -5,7 +5,12 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/pt/ajuda/die-spalten-ersteller-und-erstelldatum'
+url: '/pt/ajuda/colunas-criador-criado-seatable'
+aliases:
+    - '/pt/ajuda/die-spalten-ersteller-und-erstelldatum'
+seo:
+    title: 'Colunas “criador” e “criado” no SeaTable: log automático e histórico detalhado'
+    description: 'Saiba como as colunas SeaTable “criador”/“criado” asseguram registro automático do usuário e do momento, promovendo rastreabilidade em suas tabelas.'
 ---
 
 As colunas **Criador** e **Tempo criado** são exclusivamente preenchidas **automaticamente** pelo SeaTable e, portanto, representam tipos de colunas especiais. Enquanto o SeaTable preenche a coluna Criador com o **nome do utilizador** que criou uma linha, a coluna Tempo criado regista a **data e hora** em que o utilizador criou a linha.

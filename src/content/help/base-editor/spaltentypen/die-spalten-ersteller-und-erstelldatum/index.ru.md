@@ -5,7 +5,12 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/ru/pomoshch/die-spalten-ersteller-und-erstelldatum'
+url: '/ru/pomoshch/stolbtsy-sozdatel-sozdano-seatable'
+aliases:
+    - '/ru/pomoshch/die-spalten-ersteller-und-erstelldatum'
+seo:
+    title: 'Столбцы “создатель” и “создано” в SeaTable: автоматическое логирование'
+    description: 'Узнайте, как SeaTable автоматически фиксирует пользователя и время добавления записи столбцами “создатель” и “создано” – контроль изменений по умолчанию.'
 ---
 
 Колонки **Создатель** и **Время создания** заполняются SeaTable исключительно **автоматически** и поэтому представляют собой специальные типы колонок. В то время как SeaTable заполняет колонку "Создатель" **именем пользователя**, создавшего строку, в колонке "Время создания" записывается **дата и время**, когда пользователь создал строку.

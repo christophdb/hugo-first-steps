@@ -5,7 +5,12 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/help/automationen-stoppen'
+url: '/help/pause-stop-automations-seatable'
+aliases:
+    - '/help/automationen-stoppen'
+seo:
+    title: 'Pause and Restart Automations in SeaTable: Step-by-Step Enterprise Guide'
+    description: 'Learn how to pause and reactivate automations in SeaTable Enterprise without deleting rules—ensure business flexibility and continuity without losing settings.'
 ---
 
 {{< required-version "Enterprise" >}}
