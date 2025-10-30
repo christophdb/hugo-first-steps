@@ -6,6 +6,9 @@ categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
 url: '/de/hilfe/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+seo:
+    title: 'Wer hat die Zeile hinzugefügt? Ersteller-Spalte und weitere Zeilendetails in SeaTable'
+    description: 'Finden Sie heraus, wer eine Zeile angelegt hat, mit der Ersteller-Spalte in SeaTable. Zeigen Sie zusätzlich an, wann eine Zeile angelegt und zuletzt bearbeitet wurde und von wem.'
 ---
 
 Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie eine Spalte des Typs [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) an. Hier steht unveränderlich der **Name des Benutzers**, der die Spalte erstellt hat.

@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/fr/aide/zugriff-auf-geloeschte-anhaenge'
+url: '/fr/aide/restaurer-fichiers-images-supprimes'
+aliases:
+    - '/fr/aide/zugriff-auf-geloeschte-anhaenge'
+seo:
+    title: 'Restaurer fichiers et images supprimés dans SeaTable : solutions et guide'
+    description: 'Découvrez comment restaurer vos fichiers et images supprimés via “Derniers téléchargements” ou la gestion des fichiers de la base dans SeaTable, rapidement et sans perte.'
 ---
 
 **Les fichiers** et les **images** que vous avez supprimés d'une [colonne]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou [de fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) ne sont **pas définitivement supprimés**. Ces fichiers supprimés restent dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base et peuvent être **restaurés** de deux manières différentes.

@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/es/ayuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+url: '/es/ayuda/quien-anadio-fila-seatable'
+aliases:
+    - '/es/ayuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+seo:
+    title: '¿Quién añadió la fila? Mostrar creador y detalles de registro en SeaTable'
+    description: 'Descubre cómo saber quién creó una fila en SeaTable usando la columna "creador" y revisar además cuándo y quién modificó o editó cada registro.'
 ---
 
 ¿Quiere saber **quién** ha añadido una fila? Entonces cree una columna del tipo [Creador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Aquí, el **nombre del usuario** que creó la columna es inmutable.

@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/es/ayuda/zugriff-auf-geloeschte-anhaenge'
+url: '/es/ayuda/restaurar-archivos-imagenes-eliminados'
+aliases:
+    - '/es/ayuda/zugriff-auf-geloeschte-anhaenge'
+seo:
+    title: 'Restaurar archivos e imágenes eliminados en SeaTable: tutorial paso a paso'
+    description: 'Descubre cómo recuperar archivos e imágenes borrados con las opciones de “subidos recientemente” o la gestión de archivos en tu base SeaTable, fácil y seguro.'
 ---
 
 **Los archivos** e **imágenes** que ha eliminado de una [columna de]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) o archivos **no se borran permanentemente**. Estos archivos eliminados permanecen en el [gestor de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base y pueden **restaurarse** de dos formas distintas.

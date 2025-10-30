@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/fr/aide/loeschen-eines-gemeinsamen-datensatzes'
+url: '/fr/aide/supprimer-dataset-partage-seatable'
+aliases:
+    - '/fr/aide/loeschen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Supprimer un dataset partagé SeaTable : mode d’emploi et conséquences'
+    description: 'Apprenez à supprimer un dataset partagé dans SeaTable, gérer l’impact sur les tables synchronisées et garantir la conservation des données locales.'
 ---
 
 Si, à un moment donné, vous n'avez plus besoin des **jeux de données communs** que vous avez créés, vous pouvez facilement les supprimer à tout moment depuis la page d'accueil.

@@ -6,6 +6,9 @@ categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
 url: '/de/hilfe/loeschen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Gemeinsamen Datensatz in SeaTable löschen: Anleitung und Auswirkungen'
+    description: 'Erfahren Sie, wie Sie einen gemeinsamen Datensatz sicher löschen. Lesen Sie, was mit synchronisierten Tabellen passiert und wie die Daten erhalten bleiben.'
 ---
 
 Falls Sie Ihre erstellten **gemeinsamen Datensätze** zu einem bestimmten Zeitpunkt nicht mehr benötigen, können Sie diese von der Startseite aus jederzeit problemlos löschen.

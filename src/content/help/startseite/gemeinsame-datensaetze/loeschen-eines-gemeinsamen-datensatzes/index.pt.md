@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/pt/ajuda/loeschen-eines-gemeinsamen-datensatzes'
+url: '/pt/ajuda/excluir-dataset-compartilhado-seatable'
+aliases:
+    - '/pt/ajuda/loeschen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Excluir conjunto de dados compartilhado no SeaTable: guia e efeitos'
+    description: 'Veja como excluir um dataset compartilhado no SeaTable, o impacto nas tabelas sincronizadas e a preservação de dados nas bases conectadas.'
 ---
 
 Se já não precisar dos **registos partilhados** que criou num determinado momento, pode facilmente apagá-los da página inicial em qualquer altura.

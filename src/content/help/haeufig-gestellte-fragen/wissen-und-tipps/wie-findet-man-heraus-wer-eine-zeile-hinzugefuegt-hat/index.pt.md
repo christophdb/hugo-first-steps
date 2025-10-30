@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/pt/ajuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+url: '/pt/ajuda/quem-adicionou-linha-seatable'
+aliases:
+    - '/pt/ajuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+seo:
+    title: 'Quem adicionou a linha? Veja o criador e auditoria de registros no SeaTable'
+    description: "Saiba como rastrear o usuário que criou uma linha no SeaTable com a coluna 'criador', visualizando também datas e autores de alterações posteriores."
 ---
 
 Quer descobrir **quem** acrescentou uma fila? Então crie uma coluna do tipo [Criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Aqui, o **nome do utilizador** que criou a coluna é imutável.

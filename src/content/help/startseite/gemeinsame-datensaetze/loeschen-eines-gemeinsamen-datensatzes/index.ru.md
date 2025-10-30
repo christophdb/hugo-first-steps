@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/pomoshch/loeschen-eines-gemeinsamen-datensatzes'
+url: '/ru/pomoshch/udalit-obshii-dataset-seatable'
+aliases:
+    - '/ru/pomoshch/loeschen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Удаление общего набора данных в SeaTable: инструкция и последствия'
+    description: 'Узнайте, как удалить общий датасет в SeaTable, как это влияет на синхронизированные таблицы и что сохраняется из локальных данных.'
 ---
 
 Если вам больше не нужны **общие записи**, которые вы создали в определенный момент времени, вы можете легко удалить их со стартовой страницы в любое время.

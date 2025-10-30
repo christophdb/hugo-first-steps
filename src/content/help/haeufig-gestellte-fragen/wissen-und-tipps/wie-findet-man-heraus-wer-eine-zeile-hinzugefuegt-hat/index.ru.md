@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/ru/pomoshch/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+url: '/ru/pomoshch/kto-dobavil-stroku-seatable'
+aliases:
+    - '/ru/pomoshch/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+seo:
+    title: 'Кто добавил строку? Узнать автора и детали изменений в SeaTable'
+    description: 'Просмотрите, кто создал строку, с помощью столбца «создатель» в SeaTable, а также дату создания, редактирования и автора последних правок.'
 ---
 
 Хотите узнать, **кто** добавил строку? Тогда создайте столбец типа [Создатель]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Здесь **имя пользователя**, создавшего столбец, неизменно.

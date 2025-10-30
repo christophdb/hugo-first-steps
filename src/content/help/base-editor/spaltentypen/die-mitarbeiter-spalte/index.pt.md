@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'datum-dauer-und-personen'
 author: 'ssc'
-url: '/pt/ajuda/die-spalte-mitarbeiter'
+url: '/pt/ajuda/coluna-colaboradores-seatable'
+aliases:
+    - '/pt/ajuda/die-spalte-mitarbeiter'
+seo:
+    title: 'Coluna de colaboradores no SeaTable: atribuição, avisos e automações'
+    description: 'Saiba como fazer atribuição de tarefas, configurar avisos e usar a coluna de colaboradores em filtros, automações e como valor padrão – colaboração potente.'
 ---
 
 Na **coluna do colaborador**, pode atribuir uma ou mais **pessoas** a uma linha. O SeaTable permite-lhe selecionar as pessoas que têm atualmente **acesso** à **base**, bem como todos os outros membros da equipa sem acesso.
