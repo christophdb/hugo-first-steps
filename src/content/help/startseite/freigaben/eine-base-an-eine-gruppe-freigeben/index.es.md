@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/es/ayuda/eine-base-an-eine-gruppe-freigeben'
+url: '/es/ayuda/compartir-base-grupo-seatable'
+aliases:
+    - '/es/ayuda/eine-base-an-eine-gruppe-freigeben'
+seo:
+    title: 'Compartir una base SeaTable con un grupo: pasos y permisos detallados'
+    description: 'Descubre cómo compartir una base SeaTable con un grupo, elegir derechos de acceso, conocer las limitaciones y administrar la colaboración de equipo fácilmente.'
 ---
 
 Las bases en SeaTable siempre pertenecen a un **usuario** o a un **grupo**. Por lo tanto, puede [compartir]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) bases con grupos o [con usuarios individuales]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Este artículo trata sobre cómo compartir una base con un grupo entero.

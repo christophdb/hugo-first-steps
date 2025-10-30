@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
 url: '/de/hilfe/loeschen-einer-tabelle-aus-einer-base'
+seo:
+    title: 'Tabelle aus einer SeaTable Base löschen: Papierkorb & Wiederherstellung'
+    description: 'Erfahren Sie, wie Sie Tabellen sicher aus einer Base löschen, wie der Papierkorb funktioniert und wie Sie gelöschte Tabellen einfach wiederherstellen.'
 ---
 
 Sie benötigen einzelne Tabellen aus Ihren Bases nicht mehr? Dann können Sie diese mit wenigen Mausklicks löschen. So einfach geht es:

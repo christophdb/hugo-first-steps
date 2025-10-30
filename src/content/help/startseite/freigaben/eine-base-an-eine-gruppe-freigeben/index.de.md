@@ -6,6 +6,9 @@ categories:
     - 'freigaben'
 author: 'nsc2'
 url: '/de/hilfe/eine-base-an-eine-gruppe-freigeben'
+seo:
+    title: 'Eine Base in SeaTable an eine Gruppe freigeben: Anleitung und Rechte'
+    description: 'Erfahren Sie Schritt für Schritt, wie Sie Bases an Gruppen mit Lese- oder Schreibrechten teilen, welche Einschränkungen gelten und wie die Zugriffsverwaltung im Team funktioniert.'
 ---
 
 Bases gehören in SeaTable immer einem **Benutzer** oder einer **Gruppe**. Daher können Sie Bases entweder an Gruppen oder [an einzelne Benutzer freigeben]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Dieser Artikel beleuchtet die Freigabe einer Base an eine gesamte Gruppe.

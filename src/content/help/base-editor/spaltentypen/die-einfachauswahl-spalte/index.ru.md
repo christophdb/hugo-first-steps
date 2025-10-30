@@ -5,13 +5,17 @@ lastmod: '2025-07-15'
 categories:
     - 'spalten'
 author: 'kgr'
-url: '/ru/pomoshch/die-einfachauswahl-spalte'
+url: '/ru/pomoshch/kolonka-odinochnogo-vybora-seatable'
 aliases:
     - '/ru/pomoshch/anlegen-einer-einfachauswahl-spalte'
     - '/ru/pomoshch/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
     - '/ru/pomoshch/einfachauswahl-optionen-exportieren-und-importieren'
     - '/ru/pomoshch/aendern-der-reihenfolge-von-einfachauswahl-optionen'
     - '/ru/pomoshch/kaskadierung-einer-einfachauswahl'
+    - '/ru/pomoshch/die-einfachauswahl-spalte'
+seo:
+    title: 'Колонка одиночного выбора в SeaTable: настройка, цвета, каскады и примеры'
+    description: 'Изучите колонку одиночного выбора в SeaTable: добавляйте опции, импортируйте/экспортируйте JSON, настраивайте цвета, задавайте значения по умолчанию и используйте каскадирование.'
 ---
 
 Колонка с одним выбором идеально подходит, если Вы хотите назначить **только одну опцию** из списка опций, которые нужно определить для Ваших строк. Вариантам присваиваются разноцветные **ярлыки**, с помощью которых Вы можете классифицировать записи данных по **категориям** и четко организовать таблицы.

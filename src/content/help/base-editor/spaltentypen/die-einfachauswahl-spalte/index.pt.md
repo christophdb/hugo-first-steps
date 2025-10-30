@@ -5,13 +5,17 @@ lastmod: '2025-07-15'
 categories:
     - 'spalten'
 author: 'kgr'
-url: '/pt/ajuda/die-einfachauswahl-spalte'
+url: '/pt/ajuda/coluna-selecao-unica-seatable'
 aliases:
     - '/pt/ajuda/anlegen-einer-einfachauswahl-spalte'
     - '/pt/ajuda/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
     - '/pt/ajuda/einfachauswahl-optionen-exportieren-und-importieren'
     - '/pt/ajuda/aendern-der-reihenfolge-von-einfachauswahl-optionen'
     - '/pt/ajuda/kaskadierung-einer-einfachauswahl'
+    - '/pt/ajuda/die-einfachauswahl-spalte'
+seo:
+    title: 'Coluna de seleção única SeaTable: opções, cores, cascata e valores padrão'
+    description: 'Domine colunas de seleção única no SeaTable: crie opções, importe/exporte JSON, personalize cores, defina padrões e use cascata para dependências lógicas.'
 ---
 
 Uma coluna de seleção única é ideal se pretender atribuir **exatamente uma opção** de uma lista de opções a definir às suas linhas. As opções recebem **rótulos** coloridos com os quais pode classificar os seus registos de dados em **categorias** e organizar as tabelas de forma clara.

@@ -5,7 +5,12 @@ lastmod: '2022-12-29'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/help/daten-import-aus-microsoft-access-in-seatable'
+url: '/help/import-microsoft-access-data-seatable'
+aliases:
+    - '/help/daten-import-aus-microsoft-access-in-seatable'
+seo:
+    title: 'Import Data from Microsoft Access to SeaTable: CSV Workaround Guide'
+    description: 'Learn how to migrate Microsoft Access databases to SeaTable by exporting to CSV first, then importing seamlessly—step-by-step instructions included.'
 ---
 
 In the following article you will learn how to import data from Microsoft Access to SeaTable.

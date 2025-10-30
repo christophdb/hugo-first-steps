@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/eine-base-in-eine-gruppe-kopieren'
+seo:
+    title: 'Eine Base in eine SeaTable Gruppe kopieren: Anleitung, Rechte & Tipps'
+    description: 'Lernen Sie, wie Sie Bases per Klick in eine andere Gruppe verschieben oder duplizieren, dabei Rechte beachten und optional gemeinsame Datensätze verbinden oder lösen.'
 ---
 
 Bases können Sie in SeaTable einfach **kopieren**. Auf diesem Weg können Sie eine Ihrer Bases in eine andere **Gruppe** verschieben oder eine Base aus einer Gruppe in den Arbeitsbereich **Meine Bases** kopieren.
