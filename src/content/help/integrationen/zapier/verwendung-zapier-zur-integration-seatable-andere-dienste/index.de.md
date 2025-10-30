@@ -6,6 +6,9 @@ categories:
     - 'zapier-integration'
 author: 'cdb'
 url: '/de/hilfe/verwendung-zapier-zur-integration-seatable-andere-dienste'
+seo:
+    title: 'SeaTable & Zapier Integration: Automatisierung und externe Anbindung'
+    description: 'Verbinden Sie SeaTable mit über 5.000 Diensten per Zapier – Schritt-für-Schritt-Anleitung, Beispiele & Tipps für Automatisierung und Datenintegration.'
 ---
 
 Zapier ist eine Automatisierungsplattform, mit der Sie SeaTable mit vielen anderen Apps und Diensten verbinden können. In nur wenigen Minuten und ohne Programmierkenntnisse können Sie mithilfe von Zapier Schnittstellen zu Diensten wie Dropbox, Shopify, MailChimp, Calendly, Jotform, Hubspot und mehr herstellen. Diese von Zapier erstellten Schnittstellen heißen, **Zap**, wobei jeder Zap eine App als _Trigger_ und eine App als _Action_ hat. Der _Trigger_ liefert dabei die Informationen, welche dann in einer oder mehreren _Actions_ verarbeitet werden.

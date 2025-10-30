@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'formeln'
 author: 'cdb'
-url: '/pt/ajuda/formelreferenz'
+url: '/pt/ajuda/referencia-formulas-seatable'
+aliases:
+    - '/pt/ajuda/formelreferenz'
+seo:
+    title: 'Referência de fórmulas SeaTable: funções, operadores e exemplos'
+    description: 'Domine todas as fórmulas no SeaTable: constantes, operadores, matemática, texto, data, lógica, estatística—referência completa com exemplos práticos.'
 ---
 
 ## Coluna de Fórmula no SeaTable

@@ -5,7 +5,12 @@ lastmod: '2025-06-27'
 categories:
     - 'webformulare'
 author: 'cdb'
-url: '/fr/aide/webformulare'
+url: '/fr/aide/formulaires-web-seatable'
+aliases:
+    - '/fr/aide/webformulare'
+seo:
+    title: 'Formulaires web SeaTable : création, personnalisation et partage faciles'
+    description: 'Apprenez à créer, personnaliser et partager des formulaires web SeaTable pour collecter des données facilement auprès des membres et utilisateurs externes.'
 ---
 
 **Les formulaires web** sont le moyen de choix pour permettre aux membres de l'équipe et aux tiers externes de saisir de nouveaux enregistrements dans vos tableaux. Les utilisateurs accèdent à un formulaire par un **lien**, de sorte qu'il n'est **pas nécessaire de partager** le tableau. Les formulaires web sont donc particulièrement adaptés à la saisie de données par un grand nombre de **personnes au sein et en dehors de votre équipe**.
