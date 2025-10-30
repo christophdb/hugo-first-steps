@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/fr/aide/die-reihenfolge-von-ansichten-aendern'
+url: '/fr/aide/changer-ordre-vues-seatable'
+aliases:
+    - '/fr/aide/die-reihenfolge-von-ansichten-aendern'
+seo:
+    title: 'Changer l’ordre des vues dans SeaTable : tri par glisser-déposer et dossiers'
+    description: 'Apprenez à modifier l’ordre des vues SeaTable par glisser-déposer, organiser dans des dossiers et gérer l’affichage pour les vues privées ou partagées.'
 ---
 
 Vous pouvez modifier à volonté l'**ordre** dans lequel vos vues d'un tableau sont listées. Le déplacement s'effectue facilement par **glisser-déposer**.

@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/pomoshch/die-reihenfolge-von-ansichten-aendern'
+url: '/ru/pomoshch/izmenit-poryadok-predstavlenii-seatable'
+aliases:
+    - '/ru/pomoshch/die-reihenfolge-von-ansichten-aendern'
+seo:
+    title: 'Изменить порядок представлений в SeaTable: сортировка и группировка'
+    description: 'Узнайте, как легко менять порядок представлений в SeaTable с помощью drag&drop, создавать группы и контролировать видимость всех настроек для команды.'
 ---
 
 Вы можете изменить **порядок** перечисления представлений таблицы по своему усмотрению. Перемещение осуществляется удобным способом **перетаскивания**.

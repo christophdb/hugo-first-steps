@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/pt/ajuda/die-reihenfolge-von-ansichten-aendern'
+url: '/pt/ajuda/modificar-ordem-visualizacoes-seatable'
+aliases:
+    - '/pt/ajuda/die-reihenfolge-von-ansichten-aendern'
+seo:
+    title: 'Modificar a ordem das visualizações em SeaTable: arraste e organize como quiser'
+    description: 'Veja como alterar rapidamente a ordem das visualizações em SeaTable, organizar em pastas e definir um fluxo visual uniforme para toda a equipe.'
 ---
 
 Pode alterar a **ordem** em que as suas opiniões sobre uma tabela são listadas como desejar. A mudança é feita convenientemente através do **arrastar e largar**.

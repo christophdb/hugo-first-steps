@@ -5,7 +5,12 @@ lastmod: '2023-01-04'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/fr/aide/ansicht-sperren'
+url: '/fr/aide/verrouiller-vue-seatable'
+aliases:
+    - '/fr/aide/ansicht-sperren'
+seo:
+    title: 'Verrouiller une vue SeaTable : autorisations, effets, exemples pratiques'
+    description: 'Apprenez à verrouiller une vue dans SeaTable, interdire les modifications aux non-admins et comprendre l’impact sur l’équipe – la modification des données reste autorisée.'
 ---
 
 Vous pouvez **verrouiller les vues** d'un tableau dans SeaTable. Cette fonction est particulièrement utile pour le travail en groupe. Dans ce cas, **les utilisateurs disposant de droits de propriétaire ou d'administrateur** ont la possibilité de verrouiller une vue pour tous les autres membres du groupe qui ne disposent pas de l'un de ces deux niveaux d'autorisation. Ainsi, ces membres ne peuvent plus apporter de modifications aux options de la vue.

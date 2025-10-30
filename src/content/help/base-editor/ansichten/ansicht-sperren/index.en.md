@@ -5,7 +5,12 @@ lastmod: '2023-01-04'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/help/ansicht-sperren'
+url: '/help/lock-view-seatable'
+aliases:
+    - '/help/ansicht-sperren'
+seo:
+    title: 'Lock Views in SeaTable: Protect Settings & Team Collaboration'
+    description: 'Learn how to lock view settings in SeaTable to prevent unauthorized changes, keep filters, sorts, and highlights stable, and when to use this feature.'
 ---
 
 You can **lock views** of a table in SeaTable. This feature is especially useful for working in groups. Here, **users with owner or admin privileges** have the ability to lock a view for all other group members who do not have one of these two privilege levels. This means that these members can no longer make changes to the view options.

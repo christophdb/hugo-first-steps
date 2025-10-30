@@ -5,7 +5,12 @@ lastmod: '2023-02-02'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/aktivieren-eines-plugins-in-einer-base'
+url: '/help/activate-plugin-in-base'
+aliases:
+    - '/help/aktivieren-eines-plugins-in-einer-base'
+seo:
+    title: 'Activate a Plugin in Your SeaTable Base: Easy Setup & Toolbar Tips'
+    description: 'Learn how to enable a plugin for your whole SeaTable base, add it to the toolbar, and switch views for better data visualization.'
 ---
 
 **Plugins** offer you a wide range of possibilities to vividly display the data in your tables. By setting up a plugin in your base, you can easily switch between the **table view** and, for example, the **calendar or kanban display**.

@@ -5,7 +5,12 @@ lastmod: '2025-02-27'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/fr/aide/die-checkbox-spalte'
+url: '/fr/aide/colonne-case-cocher-seatable'
+aliases:
+    - '/fr/aide/die-checkbox-spalte'
+seo:
+    title: 'Colonne case à cocher SeaTable : cochez, personnalisez et filtrez vos données'
+    description: 'Apprenez à créer des colonnes à cocher, marquer tâches réalisées et filtrer/organiser facilement vos données grâce à 70 styles de SeaTable.'
 ---
 
 Dans SeaTable, vous avez la possibilité d'ajouter **des colonnes de cases à cocher** à vos tableaux. Celles-ci conviennent bien, par exemple, pour marquer les tâches comme étant terminées – c'est-à-dire pour avoir un aperçu des lignes qui remplissent une certaine **condition oui/non**. Les colonnes de cases à cocher sont donc idéales pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [grouper]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

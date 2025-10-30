@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'vge'
 url: '/de/hilfe/aktivieren-eines-plugins-in-einer-base'
+seo:
+    title: 'Plugin in einer SeaTable Base aktivieren: Anleitung & Tipps'
+    description: 'Erfahren Sie, wie Sie ein Plugin für Ihre gesamte SeaTable-Base aktivieren, der Toolbar hinzufügen und zwischen verschiedenen Darstellungen wechseln.'
 ---
 
 **Plugins** bieten Ihnen vielfältige Möglichkeiten, die Daten in Ihren Tabellen anschaulich darzustellen. Indem Sie ein Plugin in Ihrer Base einrichten, können Sie leicht zwischen der **Tabellen-Ansicht** und beispielsweise der **Kalender- oder Kanban-Darstellung** wechseln.

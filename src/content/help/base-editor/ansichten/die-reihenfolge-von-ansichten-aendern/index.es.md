@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/es/ayuda/die-reihenfolge-von-ansichten-aendern'
+url: '/es/ayuda/cambiar-orden-vistas-seatable'
+aliases:
+    - '/es/ayuda/die-reihenfolge-von-ansichten-aendern'
+seo:
+    title: 'Cambiar el orden de las vistas en SeaTable: organiza y personaliza por drag&drop'
+    description: 'Descubre cómo reordenar fácilmente las vistas en SeaTable, agrupar por carpetas y gestionar el orden para todos los usuarios del equipo, incluyendo privados.'
 ---
 
 Puede cambiar a su gusto el **orden** en que se enumeran las vistas de una tabla. Los desplazamientos se realizan cómodamente **arrastrando y soltando**.

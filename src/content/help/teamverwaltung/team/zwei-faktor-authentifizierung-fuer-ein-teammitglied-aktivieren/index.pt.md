@@ -5,7 +5,12 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/pt/ajuda/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
+url: '/pt/ajuda/ativar-2fa-membro-equipe-seatable'
+aliases:
+    - '/pt/ajuda/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
+seo:
+    title: 'Ative a autenticação em dois fatores para membros de equipe SeaTable'
+    description: 'Veja como ativar a autenticação 2FA para membros específicos da equipe no SeaTable, reforçando a segurança com controle administrativo centralizado.'
 ---
 
 Como administrador de equipa, pode activar a autenticação de dois factores para toda a equipa, bem como para uma conta individual. Todos os detalhes sobre a autenticação de dois factores podem ser encontrados no artigo [Enforçar a autenticação de dois factores para toda a equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}).
