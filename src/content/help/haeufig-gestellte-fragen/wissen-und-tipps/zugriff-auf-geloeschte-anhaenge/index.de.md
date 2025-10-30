@@ -6,6 +6,9 @@ categories:
     - 'dateien-und-bilder'
 author: 'vge'
 url: '/de/hilfe/zugriff-auf-geloeschte-anhaenge'
+seo:
+    title: 'Gelöschte Dateien und Bilder in SeaTable wiederherstellen: Schritt-für-Schritt'
+    description: 'Erfahren Sie, wie Sie gelöschte Dateien und Bilder über "Zuletzt hochgeladen" oder die Dateiverwaltung der Base unkompliziert wiederherstellen – Ihre Daten sind nie endgültig verloren.'
 ---
 
 **Dateien** und **Bilder**, die Sie aus einer [Bild-]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) oder [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) entfernt haben, sind **nicht endgültig gelöscht**. Diese gelöschten Dateien verbleiben in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base und können auf zwei verschiedene Arten **wiederhergestellt** werden.

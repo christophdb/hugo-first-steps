@@ -6,6 +6,9 @@ categories:
     - 'ansichtsoptionen'
 author: 'vge'
 url: '/de/hilfe/filtern-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Einträge in SeaTable-Ansichten filtern: Schritt-für-Schritt und Optionen'
+    description: 'Lernen Sie, wie Sie mit Filtern gezielt Einträge in einer SeaTable-Ansicht anzeigen lassen, mehrere Filtergruppen anwenden und Bedingungen nach Spaltentyp setzen.'
 ---
 
 Mit der Filterfunktion von SeaTable können Sie über **Filterregeln** die gewünschten Einträge aus einer Tabelle herausfiltern und nur die Einträge anzeigen lassen, die bestimmte Kriterien erfüllen. Der eingestellte Filter bezieht sich lediglich auf **die aktive Ansicht**.

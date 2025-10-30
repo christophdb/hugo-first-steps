@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/es/ayuda/filtern-von-eintraegen-in-einer-ansicht'
+url: '/es/ayuda/filtrar-registros-vista-seatable'
+aliases:
+    - '/es/ayuda/filtern-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Filtrar registros en una vista SeaTable: cómo aplicar filtros y personalizar'
+    description: 'Aprende a mostrar solo los registros relevantes de tu tabla SeaTable aplicando filtros según campos, tipos de dato y combinando reglas con total flexibilidad.'
 ---
 
 Con la función de filtrado de SeaTable, puede utilizar **reglas de** filtrado para filtrar las entradas deseadas de una tabla y mostrar sólo las entradas que cumplan determinados criterios. El conjunto de filtros sólo se refiere a la **vista activa**.

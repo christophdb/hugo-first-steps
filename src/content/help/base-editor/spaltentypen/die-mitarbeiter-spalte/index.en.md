@@ -5,7 +5,12 @@ lastmod: '2024-02-14'
 categories:
     - 'datum-dauer-und-personen'
 author: 'ssc'
-url: '/help/die-spalte-mitarbeiter'
+url: '/help/collaborator-column-seatable'
+aliases:
+    - '/help/die-spalte-mitarbeiter'
+seo:
+    title: 'The Collaborator Column in SeaTable: Assign People, Notify and Filter Data'
+    description: 'Assign individuals and groups to rows, trigger notifications, use the collaborator column for automation, filters, and set default values for flexible team collaboration.'
 ---
 
 In the **collaborator column**, you can assign one or more **people** to row . SeaTable allows you to select people who currently have **access** to the **base** as well as all other team members without access.

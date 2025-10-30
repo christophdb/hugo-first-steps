@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/help/filter-regeln-mit-und-und-oder-verknuepfen'
+url: '/help/combine-filter-rules-and-or-seatable'
+aliases:
+    - '/help/filter-regeln-mit-und-und-oder-verknuepfen'
+seo:
+    title: 'Combine Filter Rules with AND & OR in SeaTable: Logic, Groups and Use Cases'
+    description: 'Master logical AND/OR operators in SeaTable filters—create complex views, combine filter groups, and optimize dataset analysis with step-by-step practical examples.'
 ---
 
 When [filtering entries in a view]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), you can also create **multiple filter rules** to refine the conditions and further narrow down the applicable entries. A distinction is made here between the **AND link** and the **OR link**. You can also use **filter groups** to combine the logical AND/Or links.

@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/pomoshch/zugriff-auf-geloeschte-anhaenge'
+url: '/ru/pomoshch/vosstanovit-udalennye-fayly-seatable'
+aliases:
+    - '/ru/pomoshch/zugriff-auf-geloeschte-anhaenge'
+seo:
+    title: 'Восстановление удалённых файлов и изображений в SeaTable: подробная инструкция'
+    description: 'Узнайте, как вернуть удалённые файлы и изображения через менеджер файлов или раздел "Последние загрузки" — ваши данные всегда под контролем.'
 ---
 
 **Файлы** и **изображения**, которые вы удалили из [колонки]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) или [файлов]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), **не удаляются окончательно**. Эти удаленные файлы остаются в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base и могут быть **восстановлены** двумя различными способами.

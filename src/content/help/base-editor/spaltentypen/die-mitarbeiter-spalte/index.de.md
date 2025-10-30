@@ -6,6 +6,9 @@ categories:
     - 'datum-dauer-und-personen'
 author: 'ssc'
 url: '/de/hilfe/die-spalte-mitarbeiter'
+seo:
+    title: 'Die Mitarbeiter-Spalte in SeaTable: Personen zuordnen und Benachrichtigungen'
+    description: 'Ordnen Sie Einzelnen oder mehreren Teammitgliedern Aufgaben zu, aktivieren Sie Benachrichtigungen und nutzen Sie die Mitarbeiter-Spalte flexibel für Filter, Automationen und Standardwerte.'
 ---
 
 In der **Mitarbeiter-Spalte** können Sie einer Zeile eine oder mehrere **Personen** zuordnen. SeaTable erlaubt Ihnen dabei sowohl Personen auszuwählen, die aktuell **Zugriff** auf die **Base** haben, als auch alle anderen Teammitglieder ohne Zugriff.

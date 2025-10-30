@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/fr/aide/filtern-von-eintraegen-in-einer-ansicht'
+url: '/fr/aide/filtrer-entrees-vue-seatable'
+aliases:
+    - '/fr/aide/filtern-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Filtrer les entrées dans une vue SeaTable : guide rapide et options avancées'
+    description: 'Découvrez comment filtrer efficacement les données d’une vue SeaTable, appliquer de multiples critères par colonne et utiliser des groupes de filtres personnalisés.'
 ---
 
 La fonction de filtre de SeaTable permet de filtrer les entrées souhaitées d'un tableau à l'aide de **règles de filtrage** et de n'afficher que les entrées qui répondent à certains critères. Le filtre défini se rapporte uniquement à **la vue active**.

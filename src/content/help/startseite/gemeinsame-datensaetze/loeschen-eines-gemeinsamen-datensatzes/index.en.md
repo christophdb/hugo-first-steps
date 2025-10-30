@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/loeschen-eines-gemeinsamen-datensatzes'
+url: '/help/delete-shared-dataset-seatable'
+aliases:
+    - '/help/loeschen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Delete Shared Dataset in SeaTable: Step-by-Step Guide and Effects'
+    description: 'Learn how to permanently remove a shared dataset in SeaTable, what happens to linked tables, and how remaining data is preserved after deletion.'
 ---
 
 If at some point you no longer need the **common datasets** you have created, you can easily delete them from the home page at any time.

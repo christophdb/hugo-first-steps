@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/pomoshch/filtern-von-eintraegen-in-einer-ansicht'
+url: '/ru/pomoshch/filtraciya-zapisei-v-predstavlenii-seatable'
+aliases:
+    - '/ru/pomoshch/filtern-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Фильтрация записей в представлении SeaTable: условия, типы и логика'
+    description: 'Узнайте, как отобразить только нужные записи с помощью фильтров в SeaTable: условия для разных типов колонок, группы правил и лучшие подходы для анализа.'
 ---
 
 С помощью функции фильтрации SeaTable вы можете использовать **правила** фильтрации для отсеивания нужных записей из таблицы и отображения только тех записей, которые соответствуют определенным критериям. Набор фильтров относится только к **активному представлению**.

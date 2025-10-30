@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/fr/aide/filter-regeln-mit-und-und-oder-verknuepfen'
+url: '/fr/aide/filtres-and-or-seatable'
+aliases:
+    - '/fr/aide/filter-regeln-mit-und-und-oder-verknuepfen'
+seo:
+    title: 'Filtres logiques ET/OU et groupes dans SeaTable : comment les combiner ?'
+    description: 'Apprenez à lier plusieurs règles de filtre avec ET/OU, créer des groupes de filtres et analyser vos bases SeaTable dynamiquement avec différents scénarios pratiques.'
 ---
 
 Lorsque vous [filtrez des entrées dans une vue]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), vous pouvez également créer **plusieurs règles de filtrage** afin d'affiner les conditions et de limiter davantage les entrées qui s'appliquent. On fait ici la distinction entre la **combinaison "Et"** et la **combinaison "Ou"**. Les **groupes de filtres** permettent également de combiner les combinaisons logiques "Et" et "Ou".

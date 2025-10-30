@@ -5,7 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/es/ayuda/loeschen-eines-gemeinsamen-datensatzes'
+url: '/es/ayuda/eliminar-dataset-compartido-seatable'
+aliases:
+    - '/es/ayuda/loeschen-eines-gemeinsamen-datensatzes'
+seo:
+    title: 'Eliminar un conjunto de datos compartido en SeaTable: cómo y consecuencias'
+    description: 'Descubre cómo eliminar un dataset compartido en SeaTable y qué ocurre con las tablas vinculadas y los datos tras la eliminación.'
 ---
 
 Si ya no necesitas los **registros compartidos** que has creado en un momento determinado, puedes eliminarlos fácilmente desde la página de inicio en cualquier momento.

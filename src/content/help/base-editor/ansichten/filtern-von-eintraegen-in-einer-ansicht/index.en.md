@@ -5,7 +5,12 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/help/filtern-von-eintraegen-in-einer-ansicht'
+url: '/help/filter-records-in-view'
+aliases:
+    - '/help/filtern-von-eintraegen-in-einer-ansicht'
+seo:
+    title: 'Filter Records in a SeaTable View: How-To, Options, and Pro Tips'
+    description: 'Discover how to use filters in SeaTable views: apply and combine filter rules, target columns by type, and keep your table relevant with custom conditions.'
 ---
 
 SeaTable's filter function allows you to use **filter rules** to filter out the desired entries from a table and display only those entries that meet certain criteria. The set filter refers only to the **active view**.

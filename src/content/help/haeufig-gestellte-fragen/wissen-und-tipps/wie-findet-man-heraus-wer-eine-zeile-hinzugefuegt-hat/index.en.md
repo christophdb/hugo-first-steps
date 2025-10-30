@@ -5,7 +5,12 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/help/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+url: '/help/show-who-added-row-seatable'
+aliases:
+    - '/help/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+seo:
+    title: 'Who Added the Row? Track and Show Row Creator with SeaTable’s Creator Column'
+    description: 'Learn how to display the row creator in SeaTable with the special column type, and see details on creation time, last editor, and editing history for data transparency.'
 ---
 
 You want to find out **who** added a row? Then create a column of the type [creator]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Here the **name of the user** who created the column is unchangeable.
