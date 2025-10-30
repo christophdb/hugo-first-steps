@@ -5,7 +5,12 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/pomoshch/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
+url: '/ru/pomoshch/vkluchit-2fa-dlya-polzovatelya-seatable'
+aliases:
+    - '/ru/pomoshch/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
+seo:
+    title: 'Включить двухфакторную аутентификацию для пользователя SeaTable: инструкция'
+    description: 'Узнайте, как администратор может включить 2FA для отдельного участника команды SeaTable и повысить уровень защиты данных.'
 ---
 
 В качестве администратора команды вы можете активировать двухфакторную аутентификацию как для всей команды, так и для отдельной учетной записи. Все подробности о двухфакторной аутентификации можно найти в статье [Применить двухфакторную аутентификацию для всей команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}).

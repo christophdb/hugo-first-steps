@@ -6,6 +6,9 @@ categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
 url: '/de/hilfe/ansicht-sperren'
+seo:
+    title: 'Ansichten in SeaTable sperren: Berechtigungen, Auswirkungen & Beispiele'
+    description: 'Lernen Sie, wie Sie eine Ansicht für Nicht-Admins sperren, Ansichtsoptionen schützen und wann die Sperre sinnvoll ist – Datenbearbeitung bleibt weiterhin möglich.'
 ---
 
 **Ansichten** einer Tabelle können Sie in SeaTable **sperren**. Besonders hilfreich ist dieses Feature für die Arbeit in Gruppen. Hier haben **Benutzer mit Eigentümer- oder Admin-Rechten** die Möglichkeit, eine Ansicht für alle anderen Gruppenmitglieder zu sperren, die nicht über eine dieser beiden Berechtigungsstufen verfügen. Dadurch können diese Mitglieder keine Änderungen mehr an den Ansichtsoptionen vornehmen.

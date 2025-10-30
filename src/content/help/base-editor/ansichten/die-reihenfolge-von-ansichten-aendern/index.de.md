@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
 url: '/de/hilfe/die-reihenfolge-von-ansichten-aendern'
+seo:
+    title: 'Die Reihenfolge von Ansichten in SeaTable ändern: Drag-and-Drop Anleitung'
+    description: 'Erfahren Sie, wie Sie Ansichten per Drag-and-Drop flexibel sortieren, die Reihenfolge individuell anpassen und Ansichten auch in Ordnern organisieren können.'
 ---
 
 Die **Reihenfolge**, in der Ihre Ansichten einer Tabelle aufgelistet sind, können Sie beliebig ändern. Das Verschieben erfolgt bequem per **Drag-and-Drop**.

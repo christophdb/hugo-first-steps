@@ -5,7 +5,12 @@ lastmod: '2023-02-02'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/fr/aide/aktivieren-eines-plugins-in-einer-base'
+url: '/fr/aide/activer-plugin-base-seatable'
+aliases:
+    - '/fr/aide/aktivieren-eines-plugins-in-einer-base'
+seo:
+    title: 'Activer un plugin dans une base SeaTable : guide rapide et personnalisation'
+    description: 'Apprenez à activer un plugin dans une base SeaTable, l’ajouter à la barre d’outils et personnaliser la visualisation des données en un clic.'
 ---
 
 **Les plugins** vous offrent de nombreuses possibilités pour présenter clairement les données dans vos tableaux. En installant un plugin dans votre base, vous pouvez facilement passer de l'**affichage des tableaux** à celui **du calendrier ou du Kanban**, par exemple.

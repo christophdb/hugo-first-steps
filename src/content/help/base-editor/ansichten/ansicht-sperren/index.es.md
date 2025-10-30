@@ -5,7 +5,12 @@ lastmod: '2023-01-04'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/es/ayuda/ansicht-sperren'
+url: '/es/ayuda/bloquear-vista-seatable'
+aliases:
+    - '/es/ayuda/ansicht-sperren'
+seo:
+    title: 'Bloquear vistas en SeaTable: protege la configuración y controla accesos'
+    description: 'Descubre cómo bloquear vistas en SeaTable, evitar cambios por otros usuarios, proteger filtros y saber cuándo es útil para el trabajo en equipo.'
 ---
 
 Puede **bloquear vistas** de una tabla en SeaTable. Esta función es especialmente útil cuando se trabaja en grupo. Aquí, \*\*los usuarios con derechos de propietario o administrador\*\* tienen la opción de bloquear una vista para todos los demás miembros del grupo que no tengan uno de estos dos niveles de permiso. Esto significa que estos miembros ya no pueden realizar cambios en las opciones de vista.

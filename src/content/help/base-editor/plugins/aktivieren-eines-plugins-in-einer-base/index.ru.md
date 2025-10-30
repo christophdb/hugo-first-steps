@@ -5,7 +5,12 @@ lastmod: '2023-02-02'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/aktivieren-eines-plugins-in-einer-base'
+url: '/ru/pomoshch/aktivirovat-plagin-v-baze-seatable'
+aliases:
+    - '/ru/pomoshch/aktivieren-eines-plugins-in-einer-base'
+seo:
+    title: 'Как активировать плагин в базе SeaTable: пошаговая инструкция и лайфхаки'
+    description: 'Узнайте, как включить плагин для всей базы SeaTable, добавить его на панель инструментов и менять способы визуализации данных.'
 ---
 
 **Плагины** предлагают вам широкий спектр возможностей для отображения данных в ваших таблицах в описательном виде. Установив плагин в Base, вы можете легко переключаться между **табличным представлением** и, например, **календарем или отображением канбан**.

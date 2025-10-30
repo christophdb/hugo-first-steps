@@ -5,7 +5,12 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/help/die-reihenfolge-von-ansichten-aendern'
+url: '/help/change-view-order-seatable'
+aliases:
+    - '/help/die-reihenfolge-von-ansichten-aendern'
+seo:
+    title: 'Change the Order of Views in SeaTable: Drag-and-Drop Sorting and Folders'
+    description: 'Learn how to rearrange view order in SeaTable using drag-and-drop, organize views into folders, and understand how order works for all users by default.'
 ---
 
 You can change the **order** in which your views of a table are listed as you wish. Moving is done conveniently via **drag-and-drop**.
