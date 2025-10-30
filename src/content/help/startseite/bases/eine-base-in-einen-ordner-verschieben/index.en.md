@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/eine-base-in-einen-ordner-verschieben'
+url: '/help/move-base-to-folder-seatable'
+aliases:
+    - '/help/eine-base-in-einen-ordner-verschieben'
+seo:
+    title: 'Move a Base to a Folder in SeaTable: Drag-and-Drop and Menu Options'
+    description: 'Learn two easy ways to move and organize your SeaTable bases: drag-and-drop or use the context menu—keep your workspace tidy and well-structured.'
 ---
 
 To get a better overview of your bases, you have the possibility to move individual bases into folders and group them there, for example, by topic or content. In total, there are two ways to move a base into a folder:

@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/loeschen-einer-base'
+url: '/ru/pomoshch/udalit-bazu-seatable'
+aliases:
+    - '/ru/pomoshch/loeschen-einer-base'
+seo:
+    title: 'Удалить базу в SeaTable: корзина, восстановление и полное удаление'
+    description: 'Узнайте, как удалить базу в SeaTable, восстановить её из корзины в течение 30 дней и окончательно очистить корзину.'
 ---
 
 Вы можете удалить свои **собственные базы** в SeaTable в любое время. Базы, принадлежащие **группе**, могут быть удалены только владельцем или администратором группы.

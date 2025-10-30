@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/eine-base-in-einen-ordner-verschieben'
+url: '/es/ayuda/mover-base-carpeta-seatable'
+aliases:
+    - '/es/ayuda/eine-base-in-einen-ordner-verschieben'
+seo:
+    title: 'Mover una base a una carpeta en SeaTable: arrastra, suelta y menú'
+    description: 'Descubre dos formas sencillas de mover y organizar tus bases SeaTable por carpetas: arrastrar y soltar o usar el menú contextual para mejor orden.'
 ---
 
 Para tener una mejor visión general de tus bases, tienes la opción de mover las bases individuales a carpetas y agruparlas allí, por ejemplo, por tema o contenido. Hay dos maneras de mover una base a una carpeta:

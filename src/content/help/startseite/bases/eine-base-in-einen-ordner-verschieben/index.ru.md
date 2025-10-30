@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-base-in-einen-ordner-verschieben'
+url: '/ru/pomoshch/peremestit-bazu-v-papku-seatable'
+aliases:
+    - '/ru/pomoshch/eine-base-in-einen-ordner-verschieben'
+seo:
+    title: 'Переместить базу в папку в SeaTable: перетаскивание и контекстное меню'
+    description: 'Узнайте, как организовать базы SeaTable в папках двумя способами: перетащить и отпустить или использовать контекстное меню для удобства.'
 ---
 
 Чтобы получить лучший обзор ваших баз, у вас есть возможность перемещать отдельные базы в папки и группировать их там, например, по темам или содержанию. Существует два способа перемещения базы в папку:

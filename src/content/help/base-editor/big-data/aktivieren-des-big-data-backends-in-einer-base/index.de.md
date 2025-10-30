@@ -6,6 +6,9 @@ categories:
   - "big-data"
 author: "cdb"
 url: "/de/hilfe/aktivieren-des-big-data-backends-in-einer-base"
+seo:
+    title: 'Big-Data-Speicher in SeaTable aktivieren: Unbegrenzte Zeilen im Enterprise-Abo'
+    description: 'Erfahren Sie, wie Sie mit SeaTable Enterprise den Big-Data-Speicher aktivieren, das 100.000-Zeilen-Limit überwinden und Millionen Datensätze archivieren können.'
 ---
 
 {{< required-version "Enterprise" >}}
