@@ -5,17 +5,16 @@ seo:
     title: 'Digitale Souveränität für Ihr Unternehmen'
     description: 'Erfahren Sie, wie Sie Ihre digitale Souveränität stärken, die Datenhoheit behalten und gefährliche Abhängigkeiten reduzieren.'
 url: '/de/digitale-souveraenitaet'
-date: 2025-10-24
+date: 2025-10-30
 categories:
     - 'best-practice'
 tags:
     - 'IT Sicherheit & Datenschutz'
     - 'Digitale Transformation'
     - 'Öffentliche Verwaltung'
-color: '#c5a6e9'
+color: '#e27a4a'
 register:
    show: true
-draft: true
 ---
 
 ## Was ist digitale Souveränität?
@@ -66,7 +65,7 @@ Digitale Souveränität macht es deutlich leichter, juristische Risiken im Zusam
 
 ## Wie es zu digitaler Abhängigkeit kommt
 
-Reibungslose Betriebsabläufe sind ohne funktionierende IT-Infrastruktur aus Hardware und Software kaum noch möglich. Die Entwicklung eigener Technologien, Systeme und Plattformen erfordert jedoch enorme Investitionen und Know-how, sodass kleinere Länder und Unternehmen dies nur in Kooperation stemmen können und sich auf ausländische Partner verlassen müssen. Beispielsweise haben sich Deutschland und andere europäische Staaten jahrzehntelang von den USA abhängig gemacht hat, **die Entwicklung eigener Technologien nicht genug gefördert** und tun erst seit kurzer Zeit mehr für ihre digitale Souveränität. Deshalb haben Unternehmen in Europa nur wenige Anbieter und Produkte zur Auswahl, die unabhängig von fremden Akteuren sind.  
+Reibungslose Betriebsabläufe sind ohne funktionierende IT-Infrastruktur aus Hardware und Software kaum noch möglich. Die Entwicklung eigener Technologien, Systeme und Plattformen erfordert jedoch enorme Investitionen und Know-how, sodass kleinere Länder und Unternehmen dies nur in Kooperation stemmen können und sich auf ausländische Partner verlassen müssen. Beispielsweise haben sich Deutschland und andere europäische Staaten jahrzehntelang von den USA abhängig gemacht, **die Entwicklung eigener Technologien nicht genug gefördert** und tun erst seit kurzer Zeit mehr für ihre digitale Souveränität. Deshalb haben Unternehmen in Europa nur wenige Anbieter und Produkte zur Auswahl, die unabhängig von fremden Akteuren sind.  
   
 Dabei binden sich Unternehmen oft für lange Zeit an einzelne Anbieter wie Google oder Microsoft – seien es E-Mail-Services (z. B. Gmail, Outlook), Cloud-Speicher (z. B. Google Drive, OneDrive) oder ganze Workspaces bzw. Betriebssysteme. Die Mitarbeiter gewöhnen sich an die Software, verinnerlichen die Handhabung und passen ihre Prozesse entsprechend an. Dadurch kommt es zum sogenannten **Lock-in-Effekt**, bei dem der Wechsel zu anderen Anbietern oder Produkten erschwert ist und hohe Kosten verursachen würde. Ein gutes Beispiel dafür ist das abgeschlossene Ökosystem von Apple, das absichtlich die Kompatibilität mit anderen Geräten und Systemen einschränkt. Einmal eingeführt, wird es umständlich und teuer umzusteigen.  
 
