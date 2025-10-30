@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/pt/ajuda/loeschen-einer-tabelle-aus-einer-base'
+url: '/pt/ajuda/excluir-tabela-base-seatable'
+aliases:
+    - '/pt/ajuda/loeschen-einer-tabelle-aus-einer-base'
+seo:
+    title: 'Excluir tabela de base SeaTable: como funciona a lixeira e restauração'
+    description: 'Veja como excluir qualquer tabela da base SeaTable, usar a lixeira integrada para recuperar arquivos e evitar perdas acidentais de dados.'
 ---
 
 Já não precisa de tabelas individuais a partir das suas bases? Depois pode apagá-los com apenas alguns cliques do rato. É assim tão simples:

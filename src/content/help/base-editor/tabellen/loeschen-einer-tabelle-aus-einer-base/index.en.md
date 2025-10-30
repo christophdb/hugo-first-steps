@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/help/loeschen-einer-tabelle-aus-einer-base'
+url: '/help/delete-table-from-base-seatable'
+aliases:
+    - '/help/loeschen-einer-tabelle-aus-einer-base'
+seo:
+    title: 'Delete a Table from a SeaTable Base: Trash Bin & Restore Options'
+    description: 'Learn how to delete tables from a SeaTable base, what happens to your data, and how to recover deleted tables from the built-in recycle bin.'
 ---
 
 You no longer need individual tables from your bases? Then you can delete them with just a few mouse clicks. It's that simple:

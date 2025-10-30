@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/es/ayuda/loeschen-einer-tabelle-aus-einer-base'
+url: '/es/ayuda/eliminar-tabla-base-seatable'
+aliases:
+    - '/es/ayuda/loeschen-einer-tabelle-aus-einer-base'
+seo:
+    title: 'Eliminar una tabla de una base SeaTable: papelera y opciones de recuperación'
+    description: 'Descubre cómo borrar tablas de una base SeaTable, aprovechar la papelera y restaurar fácilmente los datos eliminados si es necesario.'
 ---
 
 ¿Ya no necesita tablas individuales de sus bases? Después podrás eliminarlos con sólo unos clics del ratón. Así de sencillo:

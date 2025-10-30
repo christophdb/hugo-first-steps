@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/fr/aide/loeschen-einer-tabelle-aus-einer-base'
+url: '/fr/aide/supprimer-table-base-seatable'
+aliases:
+    - '/fr/aide/loeschen-einer-tabelle-aus-einer-base'
+seo:
+    title: 'Supprimer une table d’une base SeaTable : corbeille et restauration rapide'
+    description: 'Apprenez à supprimer des tables dans SeaTable, utiliser la corbeille intégrée et restaurer facilement les données en cas de suppression accidentelle.'
 ---
 
 Vous n'avez plus besoin de certains tableaux de vos bases ? Vous pouvez alors les supprimer en quelques clics de souris. C'est aussi simple que cela :

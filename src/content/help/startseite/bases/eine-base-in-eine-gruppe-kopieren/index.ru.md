@@ -5,7 +5,12 @@ lastmod: '2024-05-16'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-base-in-eine-gruppe-kopieren'
+url: '/ru/pomoshch/kopirovat-bazu-v-gruppu-seatable'
+aliases:
+    - '/ru/pomoshch/eine-base-in-eine-gruppe-kopieren'
+seo:
+    title: 'Копировать базу в группу SeaTable: пошаговая инструкция и правила доступа'
+    description: 'Узнайте, как скопировать или перенести базу в другую группу SeaTable, управлять правами и связями с общими наборами данных.'
 ---
 
 Вы можете легко **копировать** базы в SeaTable. Таким образом, вы можете переместить одну из своих баз в другую **группу** или скопировать базу из группы в рабочую область " **Мои базы"**.

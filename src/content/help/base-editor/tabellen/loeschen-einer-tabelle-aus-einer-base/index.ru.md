@@ -5,7 +5,12 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/pomoshch/loeschen-einer-tabelle-aus-einer-base'
+url: '/ru/pomoshch/udalit-tablicu-iz-bazy-seatable'
+aliases:
+    - '/ru/pomoshch/loeschen-einer-tabelle-aus-einer-base'
+seo:
+    title: 'Удалить таблицу из базы SeaTable: корзина и восстановление данных'
+    description: 'Узнайте, как удалить таблицу из базы SeaTable, использовать корзину и всегда восстановить удалённые данные без потерь.'
 ---
 
 Вам больше не нужны отдельные таблицы из ваших баз? Затем вы можете удалить их всего несколькими щелчками мыши. Это так просто:

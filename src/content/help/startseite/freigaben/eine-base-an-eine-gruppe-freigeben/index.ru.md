@@ -5,7 +5,12 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/pomoshch/eine-base-an-eine-gruppe-freigeben'
+url: '/ru/pomoshch/delit-bazu-s-gruppoy-seatable'
+aliases:
+    - '/ru/pomoshch/eine-base-an-eine-gruppe-freigeben'
+seo:
+    title: 'Совместное использование базы SeaTable с группой: пошаговая инструкция и права'
+    description: 'Узнайте, как делиться базой SeaTable с группой, регулировать права на чтение/изменение и управлять доступом для всей команды с учетом ограничений.'
 ---
 
 Базы в SeaTable всегда принадлежат **пользователю** или **группе**. Поэтому базы можно [совместно использовать]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) как с группами, так и [с отдельными пользователями]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). В этой статье рассматривается совместное использование базы всей группой.

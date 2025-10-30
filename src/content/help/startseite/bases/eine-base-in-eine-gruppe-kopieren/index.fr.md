@@ -5,7 +5,12 @@ lastmod: '2024-05-16'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/eine-base-in-eine-gruppe-kopieren'
+url: '/fr/aide/copier-base-groupe-seatable'
+aliases:
+    - '/fr/aide/eine-base-in-eine-gruppe-kopieren'
+seo:
+    title: 'Copier une base dans un groupe SeaTable : étapes, droits et bonnes pratiques'
+    description: 'Découvrez comment déplacer ou dupliquer une base SeaTable vers un groupe : étapes détaillées, gestion des données partagées et droits d’administration.'
 ---
 
 Vous pouvez facilement **copier** des bases dans SeaTable. De cette manière, vous pouvez déplacer une de vos bases vers un autre **groupe** ou copier une base d'un groupe vers l'espace de travail **Mes bases**.
