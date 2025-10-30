@@ -5,7 +5,12 @@ lastmod: '2023-09-19'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/fr/aide/glossar-der-von-seatable-verwendeten-begriffe'
+url: '/fr/aide/glossaire-seatable-termes-concepts'
+aliases:
+    - '/fr/aide/glossar-der-von-seatable-verwendeten-begriffe'
+seo:
+    title: 'Glossaire SeaTable : les termes et concepts clés expliqués'
+    description: 'Comprenez la terminologie de SeaTable : base, table, vue, colonne, groupe, équipe, automation—glossaire complet pour débutants et utilisateurs confirmés.'
 ---
 
 Pour les débutants, la terminologie de SeaTable n'est pas très simple : qu'est-ce qu'une **base**? Quelle est la différence entre une **équipe** et un **groupe**? Qu'est-ce qu'une vue et où se trouvent les **options de vue**? Dans ce glossaire, nous expliquons les termes et concepts clés de SeaTable et les mettons en relation. Pour faciliter la compréhension, nous utilisons les différents éléments de l'interface utilisateur de SeaTable.

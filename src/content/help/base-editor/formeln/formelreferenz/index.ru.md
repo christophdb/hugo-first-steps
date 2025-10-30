@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'formeln'
 author: 'cdb'
-url: '/ru/pomoshch/formelreferenz'
+url: '/ru/pomoshch/spravochnik-formula-seatable'
+aliases:
+    - '/ru/pomoshch/formelreferenz'
+seo:
+    title: 'Справочник формул SeaTable: функции, операторы и примеры'
+    description: 'Освойте все функции формул в SeaTable: константы, операторы, математика, текст, дата, логика, статистика—полный справочник с примерами.'
 ---
 
 ## Формульная колонка в SeaTable

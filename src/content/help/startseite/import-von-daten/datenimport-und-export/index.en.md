@@ -5,7 +5,12 @@ lastmod: '2024-03-11'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/help/datenimport-und-export'
+url: '/help/data-import-export-seatable'
+aliases:
+    - '/help/datenimport-und-export'
+seo:
+    title: 'SeaTable Data Import and Export: Bases, Tables, CSV and Excel'
+    description: 'Learn how to import and export bases and tables in SeaTable using DTABLE, Excel, and CSV formats—complete guide with tips and troubleshooting.'
 ---
 
 SeaTable's import features make it possible to switch from other solutions to SeaTable with little effort. The same is true when moving from one SeaTable system to another, for example, when migrating from SeaTable Cloud to a self-hosted system. You can seamlessly continue working on a base that you have imported from another SeaTable instance.

@@ -5,7 +5,12 @@ lastmod: '2024-03-11'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/ru/pomoshch/datenimport-und-export'
+url: '/ru/pomoshch/import-export-dannyh-seatable'
+aliases:
+    - '/ru/pomoshch/datenimport-und-export'
+seo:
+    title: 'Импорт и экспорт данных в SeaTable: базы, таблицы, CSV, Excel'
+    description: 'Узнайте, как импортировать и экспортировать базы и таблицы в SeaTable: DTABLE, Excel, CSV—полное руководство с советами и решением проблем.'
 ---
 
 Функции импорта SeaTable позволяют переходить от других решений к SeaTable без особых усилий. То же самое касается перехода от одной системы SeaTable к другой, например, при переходе от SeaTable Cloud к системе, размещаемой самостоятельно. Вы можете продолжать беспрепятственно работать с базой, которую вы импортировали из другого экземпляра SeaTable.

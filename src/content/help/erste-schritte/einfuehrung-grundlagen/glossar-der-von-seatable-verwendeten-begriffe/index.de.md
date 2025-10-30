@@ -6,6 +6,9 @@ categories:
     - 'erste-schritte'
 author: 'cdb'
 url: '/de/hilfe/glossar-der-von-seatable-verwendeten-begriffe'
+seo:
+    title: 'SeaTable Glossar: Fachbegriffe und Konzepte erklärt'
+    description: 'Lernen Sie die wichtigsten Fachbegriffe in SeaTable: Base, Tabelle, Ansicht, Spalte, Gruppe, Team, Automation und weitere zentrale Konzepte verständlich erklärt.'
 ---
 
 Für Einsteiger ist SeaTables Terminologie nicht ganz einfach: Was ist eine **Base**? Was ist der Unterschied zwischen einem **Team** und einer **Gruppe**? Was hat es mit einer Ansicht auf sich und wo befinden sich die **Ansichtsoptionen**? In diesem Glossar erläutern wir die für SeaTable zentralen Begriffe und Konzepte und setzen sie miteinander in Beziehung. Für eine einfache Nachvollziehbarkeit erfolgt dies anhand der unterschiedlichen Elemente der SeaTable Benutzeroberfläche.

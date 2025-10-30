@@ -5,7 +5,12 @@ lastmod: '2025-06-27'
 categories:
     - 'webformulare'
 author: 'cdb'
-url: '/pt/ajuda/webformulare'
+url: '/pt/ajuda/formularios-web-seatable'
+aliases:
+    - '/pt/ajuda/webformulare'
+seo:
+    title: 'Formulários Web SeaTable: criação, personalização e compartilhamento'
+    description: 'Saiba como criar e configurar formulários web no SeaTable para captura fácil de dados por membros da equipe e usuários externos, incluindo guia passo a passo.'
 ---
 
 Os **formulários Web** são o instrumento de eleição para permitir aos membros da equipa e a terceiros externos introduzir novos registos nas suas tabelas. Os utilizadores acedem a um formulário através de um **link**, pelo que **não** há necessidade de partilhar a tabela. Portanto, os formulários web são particularmente adequados para a introdução de dados por um grande número de **pessoas dentro e fora da sua equipa**.

@@ -5,7 +5,12 @@ lastmod: '2023-05-12'
 categories:
     - 'formeln'
 author: 'cdb'
-url: '/help/formelreferenz'
+url: '/help/seatable-formula-reference'
+aliases:
+    - '/help/formelreferenz'
+seo:
+    title: 'SeaTable Formula Reference: Functions, Operators and Examples'
+    description: 'Master SeaTable formulas: constants, operators, math, text, date, logical, statistical functions—complete reference with practical examples included.'
 ---
 
 ## Formula column at SeaTable

@@ -6,6 +6,9 @@ categories:
     - 'formeln'
 author: 'cdb'
 url: '/de/hilfe/formelreferenz'
+seo:
+    title: 'SeaTable Formelreferenz: Funktionen, Operanden und Beispiele'
+    description: 'Lerne alle SeaTable Formelfunktionen: Konstanten, Operanden, Mathematik, Text, Datum, Logik, Statistik – mit umfassenden Beispielen und Referenzen.'
 ---
 
 ## Formelspalte bei SeaTable
