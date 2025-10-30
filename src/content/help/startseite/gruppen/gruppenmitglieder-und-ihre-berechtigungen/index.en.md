@@ -5,7 +5,12 @@ lastmod: '2023-08-14'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/help/gruppenmitglieder-und-ihre-berechtigungen'
+url: '/help/group-members-permissions-seatable'
+aliases:
+    - '/help/gruppenmitglieder-und-ihre-berechtigungen'
+seo:
+    title: 'SeaTable Group Members: Permissions, Roles and Access Control Explained'
+    description: 'Learn the permissions and capabilities of owners, admins, and members in SeaTable groups—comprehensive permissions table and management guidelines included.'
 ---
 
 Within a SeaTable group there are three different roles: **Owner**, **Administrator** and **Member**. Depending on their role, which can be different from group to group, users are authorized to perform different actions. The following **table** provides you with an overview of what permissions each role has.

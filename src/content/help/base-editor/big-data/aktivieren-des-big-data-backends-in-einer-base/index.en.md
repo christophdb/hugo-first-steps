@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/help/aktivieren-des-big-data-backends-in-einer-base'
+url: '/help/enable-big-data-storage-seatable'
+aliases:
+    - '/help/aktivieren-des-big-data-backends-in-einer-base'
+seo:
+    title: ''
+    description: ''
 ---
 
 {{< required-version "Enterprise" >}}

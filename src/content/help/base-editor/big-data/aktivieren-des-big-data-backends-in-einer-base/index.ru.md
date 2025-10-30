@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/pomoshch/aktivieren-des-big-data-backends-in-einer-base'
+url: '/ru/pomoshch/aktivirovat-big-data-hranilishche-seatable'
+aliases:
+    - '/ru/pomoshch/aktivieren-des-big-data-backends-in-einer-base'
+seo:
+    title: 'Активировать Big Data хранилище в SeaTable: неограниченные строки в Enterprise'
+    description: 'Узнайте, как включить хранилище Big Data в SeaTable Enterprise, превысить лимит 100 000 строк и архивировать миллионы записей.'
 ---
 
 {{< required-version "Предприятие" >}}

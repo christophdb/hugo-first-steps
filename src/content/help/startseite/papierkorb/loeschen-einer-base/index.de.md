@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/loeschen-einer-base'
+seo:
+    title: 'Eine Base in SeaTable löschen: Papierkorb, Wiederherstellung & Tipps'
+    description: 'Erfahren Sie, wie Sie Bases in SeaTable löschen, wie lange die Wiederherstellung möglich ist und wie der Papierkorb funktioniert für sichere Datenverwaltung.'
 ---
 
 Ihre **eigenen Bases** können Sie in SeaTable jederzeit löschen. Bases, die zu einer **Gruppe** gehören, können Sie nur als Eigentümer oder Gruppen-Administrator löschen.

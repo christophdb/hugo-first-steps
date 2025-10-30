@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/pt/ajuda/eine-base-in-einen-ordner-verschieben'
+url: '/pt/ajuda/mover-base-pasta-seatable'
+aliases:
+    - '/pt/ajuda/eine-base-in-einen-ordner-verschieben'
+seo:
+    title: 'Mover base para pasta no SeaTable: arraste, solte ou use o menu'
+    description: 'Veja duas maneiras fáceis de organizar suas bases SeaTable em pastas: arrastar e soltar ou usar menu contextual para manter tudo organizado.'
 ---
 
 Para obter uma melhor visão geral das suas bases, tem a opção de mover as bases individuais para pastas e agrupá-las aí, por exemplo, por tema ou conteúdo. Há duas maneiras de mover uma base para uma pasta:

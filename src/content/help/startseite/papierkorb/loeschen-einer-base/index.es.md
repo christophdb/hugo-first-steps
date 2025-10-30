@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/es/ayuda/loeschen-einer-base'
+url: '/es/ayuda/eliminar-base-seatable'
+aliases:
+    - '/es/ayuda/loeschen-einer-base'
+seo:
+    title: 'Eliminar una base en SeaTable: papelera, recuperación y guía paso a paso'
+    description: 'Descubre cómo borrar una base en SeaTable, recuperarla del papelerro en 30 días y vaciar permanentemente para liberar espacio en tu cuenta.'
 ---
 
 Puede eliminar sus **propias bases** en SeaTable en cualquier momento. Las bases que pertenecen a un **grupo** sólo pueden borrarse como propietario o administrador del grupo.

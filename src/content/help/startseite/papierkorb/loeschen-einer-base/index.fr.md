@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/loeschen-einer-base'
+url: '/fr/aide/supprimer-base-seatable'
+aliases:
+    - '/fr/aide/loeschen-einer-base'
+seo:
+    title: 'Supprimer une base dans SeaTable : corbeille, récupération et étapes clés'
+    description: "Apprenez à supprimer une base SeaTable, la récupérer depuis la corbeille dans 30 jours et vider définitivement la corbeille pour libérer de l'espace."
 ---
 
 Vous pouvez supprimer vos **propres bases** à tout moment dans SeaTable. Les bases appartenant à un **groupe** ne peuvent être supprimées qu'en tant que propriétaire ou administrateur de groupe.

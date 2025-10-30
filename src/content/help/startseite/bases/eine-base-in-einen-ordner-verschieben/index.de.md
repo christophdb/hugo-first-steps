@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
 url: '/de/hilfe/eine-base-in-einen-ordner-verschieben'
+seo:
+    title: 'Base in Ordner verschieben in SeaTable: Drag-and-Drop & Kontextmenü'
+    description: 'Erfahren Sie, wie Sie Bases in SeaTable per Drag-and-Drop oder über das Kontextmenü organisieren, sortieren und in Ordnern zusammenfassen – einfach und intuitiv.'
 ---
 
 Um eine bessere Übersicht über Ihre Bases zu erhalten, haben Sie die Möglichkeit, einzelne Bases in Ordner zu verschieben und dort zum Beispiel nach Thema oder Inhalt zusammenzufassen. Insgesamt gibt es zwei Möglichkeiten, eine Base in einen Ordner zu verschieben:

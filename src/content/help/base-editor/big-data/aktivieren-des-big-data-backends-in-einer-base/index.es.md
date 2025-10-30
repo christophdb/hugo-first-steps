@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/es/ayuda/aktivieren-des-big-data-backends-in-einer-base'
+url: '/es/ayuda/activar-almacenamiento-big-data-seatable'
+aliases:
+    - '/es/ayuda/aktivieren-des-big-data-backends-in-einer-base'
+seo:
+    title: 'Activar almacenamiento Big Data en SeaTable: supera límites, archiva millones'
+    description: 'Descubre cómo activar el almacenamiento Big Data en SeaTable Enterprise, eliminar el límite de 100.000 filas y archivar millones de registros sin esfuerzo.'
 ---
 
 {{< required-version "Empresa" >}}

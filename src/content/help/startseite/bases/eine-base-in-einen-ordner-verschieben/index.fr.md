@@ -5,7 +5,12 @@ lastmod: '2023-03-22'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/fr/aide/eine-base-in-einen-ordner-verschieben'
+url: '/fr/aide/deplacer-base-dossier-seatable'
+aliases:
+    - '/fr/aide/eine-base-in-einen-ordner-verschieben'
+seo:
+    title: 'Déplacer une base dans un dossier SeaTable : glisser-déposer et menu'
+    description: 'Apprenez à organiser vos bases SeaTable en dossiers : deux méthodes simples par glisser-déposer ou via menu contextuel pour une gestion optimale.'
 ---
 
 Pour obtenir une meilleure vue d'ensemble de vos bases, vous avez la possibilité de déplacer des bases individuelles dans des dossiers et de les y regrouper par exemple par thème ou par contenu. Il existe en tout deux possibilités pour déplacer une base dans un dossier :

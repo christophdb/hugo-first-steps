@@ -5,7 +5,12 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/fr/aide/aktivieren-des-big-data-backends-in-einer-base'
+url: '/fr/aide/activer-stockage-big-data-seatable'
+aliases:
+    - '/fr/aide/aktivieren-des-big-data-backends-in-einer-base'
+seo:
+    title: 'Activer le stockage Big Data dans SeaTable : lignes illimitées en Enterprise'
+    description: "Apprenez à activer le stockage Big Data dans SeaTable Enterprise, dépasser la limite de 100 000 lignes et archiver des millions d'enregistrements simplement."
 ---
 
 {{< required-version "Entreprise" >}}

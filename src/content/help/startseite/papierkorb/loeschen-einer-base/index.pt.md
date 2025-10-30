@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/pt/ajuda/loeschen-einer-base'
+url: '/pt/ajuda/excluir-base-seatable'
+aliases:
+    - '/pt/ajuda/loeschen-einer-base'
+seo:
+    title: 'Excluir base no SeaTable: lixeira, recuperação e passo a passo completo'
+    description: 'Veja como excluir uma base no SeaTable, recuperá-la da lixeira em 30 dias e esvaziar permanentemente para liberar espaço na sua conta.'
 ---
 
 Pode apagar as suas **próprias bases** em SeaTable em qualquer altura. As bases que pertencem a um **grupo** só podem ser eliminadas como proprietário ou administrador do grupo.

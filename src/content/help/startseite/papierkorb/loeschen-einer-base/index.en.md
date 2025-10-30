@@ -5,7 +5,12 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/help/loeschen-einer-base'
+url: '/help/delete-base-seatable'
+aliases:
+    - '/help/loeschen-einer-base'
+seo:
+    title: 'Delete a Base in SeaTable: Trash, Recovery and Step-by-Step Guide'
+    description: 'Learn how to delete a SeaTable base, recover deleted bases from trash within 30 days, and permanently empty the trash bin to free up space.'
 ---
 
 You can delete your **own bases** in SeaTable at any time. Bases that belong to a **group** can only be deleted as the owner or group administrator.
