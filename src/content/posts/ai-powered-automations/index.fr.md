@@ -1,12 +1,12 @@
 ---
-title: 'Automatisations alimentées par l’IA : Le point fort de SeaTable Cloud 6.0'
+title: 'Automatisations alimentées par l’IA : Le point fort de SeaTable 6.0'
 description: 'Avec SeaTable 6.0, les automatisations alimentées par l’IA arrivent dans le cloud. Profitez d’une automatisation intelligente des processus, d’une conformité totale au RGPD et d’une souveraineté maximale des données grâce à notre propre serveur IA en Allemagne.'
 date: '2025-09-30'
-lastmod: '2025-10-14'
+lastmod: '2025-10-31'
 url: '/fr/ia-automatisations-protection-donnees'
 seo:
     title: 'SeaTable 6.0 – Automatisation IA sûre, made in Europe'
-    description: "Découvrez avec SeaTable 6.0 une automatisation IA sécurisée dans le cloud, alliant innovation et confidentialité allemande."
+    description: 'Découvrez avec SeaTable 6.0 une automatisation IA sécurisée dans le cloud, alliant innovation et confidentialité allemande.'
 categories:
     - 'product-features'
 tags:
@@ -19,7 +19,7 @@ color: '#f2d1e3'
 
 Le 1er octobre 2025 marque un moment spécial pour nous chez SeaTable : la sortie de la version 6.0. Et cette version constitue un grand pas en avant. Avec les nouvelles **automatisations alimentées par l’IA**, nous ouvrons un tout nouveau chapitre – un chapitre qui va changer de manière perceptible le travail quotidien dans les entreprises.
 
-{{< info-box headline="Publication progressive" text="SeaTable 6.0 est disponible pour tous les auto-hébergeurs en téléchargement depuis [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) dès aujourd’hui (01.10.2025). Nous mettrons à jour SeaTable Cloud vers la version 6.0 **mi/fin octobre**." />}}
+{{< info-box headline="Publication progressive" text="SeaTable 6.0 est disponible pour tous les auto-hébergeurs en téléchargement depuis [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) dès aujourd’hui (01.10.2025). Nous mettrons à jour SeaTable Cloud vers la version 6.0 le **4 novembre 2025**." />}}
 
 Les automatisations ont toujours été un élément clé de SeaTable. Elles aident à standardiser les processus récurrents et à simplifier les flux de travail. Mais maintenant, nous franchissons l’étape décisive : nous associons nos automatisations à l’intelligence artificielle (IA). Soudain, les processus ne peuvent pas seulement être _automatisés_ mais aussi _pilotés intelligemment_. Des factures enregistrées automatiquement dans des tableaux, des e‑mails triés et transférés selon leur contenu, ou encore de longs textes résumés en quelques secondes – tout cela est désormais réalité avec SeaTable.
 

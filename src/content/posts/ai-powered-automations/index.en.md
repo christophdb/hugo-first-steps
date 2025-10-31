@@ -1,8 +1,8 @@
 ---
-title: 'AI powered automations: The highlight of SeaTable Cloud 6.0'
+title: 'AI powered automations: The highlight of SeaTable 6.0'
 description: 'With SeaTable 6.0, AI powered automations make their way into the cloud. Benefit from intelligent process automation, full GDPR compliance, and maximum data sovereignty thanks to our own AI server in Germany.'
 date: '2025-09-30'
-lastmod: '2025-10-14'
+lastmod: '2025-10-31'
 url: '/ai-automations-data-privacy'
 seo:
     title: 'AI made in Europe: SeaTable brings secure AI powered automations to the cloud'
@@ -19,7 +19,7 @@ color: '#f2d1e3'
 
 October 1, 2025 marks a special moment for us at SeaTable: the release of version 6.0. And this version is a big step forward. With the new **AI powered automations**, we are opening a whole new chapter – one that will noticeably change everyday work in companies.
 
-{{< info-box headline="Staggered Release" text="SeaTable 6.0 is available for all self-hosters to download from [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) starting today (01.10.2025). We will update SeaTable Cloud to version 6.0 **in mid/end-October**." />}}
+{{< info-box headline="Staggered Release" text="SeaTable 6.0 is available for all self-hosters to download from [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) starting today (01.10.2025). We will update SeaTable Cloud to version 6.0 at **November 4, 2025**." />}}
 
 Automations have always been a core part of SeaTable. They help standardize recurring processes and simplify workflows. But now we're taking the decisive next step: we're combining our automations with artificial intelligence (AI). Suddenly, processes can be not only _automated_ but also _intelligently_ controlled. Invoices that are automatically entered into tables, emails that are sorted and forwarded based on content, or long texts that are condensed to the essentials in seconds – all of this is now reality with SeaTable.
 
