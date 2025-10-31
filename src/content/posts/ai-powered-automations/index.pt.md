@@ -1,12 +1,12 @@
 ---
-title: 'Automatizações com IA: O destaque do SeaTable Cloud 6.0'
+title: 'Automatizações com IA: O destaque do SeaTable 6.0'
 description: 'Com o SeaTable 6.0, as automatizações com IA chegam à nuvem. Beneficie de uma automação inteligente de processos, total conformidade com o RGPD e máxima soberania de dados graças ao nosso próprio servidor de IA na Alemanha.'
 date: '2025-09-30'
-lastmod: '2025-10-14'
+lastmod: '2025-10-31'
 url: '/pt/automatizacoes-ia-protecao-dados'
 seo:
     title: 'SeaTable 6.0 – Automação segura com IA feita na Europa'
-    description: "Experimente no SeaTable 6.0 automações seguras com IA na nuvem – tecnologia moderna e privacidade de dados alemã."
+    description: 'Experimente no SeaTable 6.0 automações seguras com IA na nuvem – tecnologia moderna e privacidade de dados alemã.'
 categories:
     - 'product-features'
 tags:
@@ -19,7 +19,7 @@ color: '#f2d1e3'
 
 1 de outubro de 2025 marca um momento especial para nós na SeaTable: o lançamento da versão 6.0. E esta versão representa um grande avanço. Com as novas **automatizações impulsionadas por IA**, abrimos um novo capítulo – um que mudará visivelmente o trabalho diário nas empresas.
 
-{{< info-box headline="Lançamento faseado" text="A SeaTable 6.0 está disponível para todos os utilizadores com alojamento próprio para transferência no [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) a partir de hoje (01.10.2025). Atualizaremos o SeaTable Cloud para a versão 6.0 **em meados/final de outubro**." />}}
+{{< info-box headline="Lançamento faseado" text="A SeaTable 6.0 está disponível para todos os utilizadores com alojamento próprio para transferência no [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) a partir de hoje (01.10.2025). Atualizaremos o SeaTable Cloud para a versão 6.0 em **4 de novembro de 2025**." />}}
 
 As automatizações sempre foram uma parte essencial da SeaTable. Ajudam a padronizar processos recorrentes e a simplificar fluxos de trabalho. Mas agora damos o passo decisivo: combinamos as nossas automatizações com inteligência artificial (IA). De repente, os processos podem não só ser _automatizados_, mas também _controlados inteligentemente_. Faturas que são registadas automaticamente nas tabelas, e-mails que são classificadas e encaminhadas com base no conteúdo, ou textos longos que são resumidos em segundos – tudo isto é agora uma realidade com a SeaTable.
 
