@@ -1,16 +1,15 @@
 ---
 title: 'SeaTable 6.0: El no-código se vuelve inteligente'
 description: 'SeaTable 6.0 combina los puntos fuertes del no-código y de la inteligencia artificial. Experimente las nuevas funciones de IA, el editor rediseñado para las reglas de automatización, los nuevos tipos de vista Calendario, Kanban y Galería, así como el nuevo tipo de columna Número de teléfono.'
-date: 2025-10-31
+date: 2025-11-04
 author: 'rdb'
 url: '/es/seatable-release-6-0'
-color: '#7dc3cb'
+color: '#ff9831'
 categories:
     - 'product-features'
 seo:
     title:
     description:
-draft: true
 ---
 
 SeaTable 6.0 combina los puntos fuertes del no-código y de la inteligencia artificial (IA). **Con las nuevas funciones de IA** se pueden analizar, modificar y ampliar los registros de datos, evaluar los documentos y extraer con precisión la información relevante. Y todo ello sin preocuparse por la protección y confidencialidad de los datos: SeaTable es compatible con una amplia gama de proveedores y modelos de IA. Por supuesto, también es posible el **autoalojamiento de modelos de IA**. Adoptamos este enfoque en aras de la protección de sus datos.
@@ -21,7 +20,7 @@ SeaTable 6.0 combina los puntos fuertes del no-código y de la inteligencia arti
 
 Numerosas mejoras en el App Builder y el Base Editor, como la disponibilidad universal de filtros complejos y **el nuevo tipo de columna de número de teléfono**, optimizan las funcionalidades existentes y satisfacen las necesidades de los clientes.
 
-Esta mañana hemos actualizado SeaTable Cloud a la versión 6.0. Los autoalojadores que han podido utilizar una versión beta desde el 30 de septiembre ya pueden descargar la versión estable desde el conocido [Repositorio Docker](https://hub.docker.com/r/seatable/seatable-enterprise) de SeaTable Server. Como siempre, la lista completa de cambios puede consultarse en el [registro de cambios]({{< relref "pages/changelog" >}}).
+Esta mañana hemos actualizado SeaTable Cloud a la versión 6.0. Los autoalojadores que han podido utilizar una versión beta desde el 30 de septiembre ya pueden descargar la versión estable desde el conocido [Repositorio Docker](https://hub.docker.com/r/seatable/seatable-enterprise) de SeaTable Server. Como siempre, la lista completa de cambios puede consultarse en el [registro de cambios](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b47bc8f30/).
 
 ## AI-ready con automatizaciones de IA (beta)
 
@@ -39,7 +38,7 @@ Las nuevas funciones de IA están integradas en las automatizaciones de SeaTable
 
 SeaTable Cloud utiliza un **Gemma3** con 12.000 millones de parámetros como modelo de IA. Este Large Language Model (LLM) multimodal de Google funciona **en un servidor alemán** de Hetzner Online GmbH y es gestionado por los administradores de SeaTable Cloud. El intercambio de datos entre SeaTable Cloud y el modelo lingüístico está **cifrado**. Por lo tanto, sus datos no se envían a otro proveedor de IA ni al extranjero.
 
-Todos los suscriptores de SeaTable Cloud Enterprise reciben **10 créditos de IA por miembro del equipo**. Los créditos de IA se calculan de tal forma que permiten realizar pruebas exhaustivas. Se requieren créditos adicionales para cargas de trabajo productivas. Se pueden proporcionar gratuitamente previa solicitud durante la fase beta.
+Todos los suscriptores de SeaTable Cloud Enterprise reciben **500 créditos de IA por miembro del equipo**. Los créditos de IA se calculan de tal forma que permiten realizar pruebas exhaustivas. Se requieren créditos adicionales para cargas de trabajo productivas. Se pueden proporcionar gratuitamente previa solicitud durante la fase beta.
 
 **Los autoalojadores de SeaTable Server** también pueden alojar ellos mismos su LLM, pero no están obligados a hacerlo. **SeaTable AI**, un nuevo componente de SeaTable Server, se basa en LiteLLM y, por tanto, admite la conexión de una gran variedad de modelos y proveedores, incluidos todos los servicios LLM con una API compatible con OpenAI. SeaTable AI se despliega utilizando Docker o Docker Compose, como ocurre con el resto de componentes de SeaTable Server. En el [Manual del administrador](https://admin.seatable.com/) encontrará configuraciones de muestra para numerosos LLM populares.
 
@@ -67,7 +66,7 @@ La reimplementación de los plugins como vistas ofrece varias ventajas: Por un l
 
 ![Nueva vista del calendario](new-view-list-pinned.png)
 
-Además, las nuevas vistas son muy superiores a los plugins anteriores en cuanto a funcionalidad: Las vistas de Calendario, Kanban y Galería pueden compartirse individualmente como parte de una [vista compartida]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}) o una [autorización compartida personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}). La anterior necesidad de [compartir toda la base]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) para trabajar juntos en un calendario o tablero Kanban ya no es necesaria. Las vistas de todo tipo también ofrecen **vistas privadas** opcionales que sólo el creador puede ver. Todas las vistas, a excepción de la de Big Data, también admiten **edición colaborativa en tiempo real**. Un cambio realizado por un usuario se muestra inmediatamente a los demás usuarios.
+Además, las nuevas vistas son muy superiores a los plugins anteriores en cuanto a funcionalidad: Las vistas de Calendario, Kanban y Galería pueden compartirse individualmente como una [vista compartida]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}) o parte de una [autorización compartida personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}). La anterior necesidad de [compartir toda la base]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) para trabajar juntos en un calendario o tablero Kanban ya no es necesaria. Las vistas de todo tipo también ofrecen **vistas privadas** opcionales que sólo el creador puede ver. Todas las vistas, a excepción de la de Big Data, también admiten **edición colaborativa en tiempo real**. Un cambio realizado por un usuario se muestra inmediatamente a los demás usuarios.
 
 {{< warning headline="Atención" text="Con SeaTable 6.0, los tres plugins ya no pueden instalarse en las bases. En las bases en las que ya se utilicen los plugins, seguirán estando disponibles hasta nuevo aviso y podrán utilizarse sin restricciones. Sin embargo, nuestra recomendación es otra: ¡Aproveche las nuevas vistas! El cambio no podría ser más fácil. Los tres plugins ofrecen **migración con un solo clic**. Esto convierte una pestaña de un plugin en una vista del mismo tipo sin más esfuerzo." />}}
 

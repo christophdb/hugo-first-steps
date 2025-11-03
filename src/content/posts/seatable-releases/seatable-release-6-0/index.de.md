@@ -1,16 +1,15 @@
 ---
 title: 'SeaTable 6.0: No-Code wird intelligent'
 description: 'SeaTable 6.0 vereint die Stärken von No-Code und künstlicher Intelligenz. Erleben Sie die neuen KI-Funktionen, den neu gestalteten Editor für Automationsregeln, die neuen Ansichtstypen Kalender, Kanban und Galerie sowie den neuen Spaltentyp Telefonnummer.'
-date: 2025-10-31
+date: 2025-11-04
 author: 'rdb'
 url: '/de/seatable-release-6-0'
-color: '#7dc3cb'
+color: '#ff9831'
 categories:
     - 'product-features'
 seo:
     title:
     description:
-draft: true
 ---
 
 SeaTable 6.0 vereint die Stärken von No-Code und künstlicher Intelligenz (KI). **Mit den neuen KI-Funktionen** lassen sich Datensätze analysieren, modifizieren und erweitern, Dokumente auswerten und relevante Informationen präzise extrahieren. Und das ganz ohne Sorgenfalten in Sachen Datenschutz und Vertraulichkeit: SeaTable unterstützt eine Vielzahl von KI-Anbietern und -Modellen. Natürlich ist auch das **Selbsthosting von KI-Modellen** möglich. Diesen Weg gehen wir im Interesse des Schutzes Ihrer Daten.
@@ -21,7 +20,7 @@ Ein Mehr an Übersichtlichkeit und Funktionen bieten auch **die neuen Ansichtsty
 
 Zahlreiche Verbesserungen im App Builder und im Base Editor, wie z. B. die universelle Verfügbarkeit komplexer Filter und **der neue Spaltentyp Telefonnummer**, optimieren bestehende Funktionalitäten und tragen Kundenwünschen Rechnung.
 
-SeaTable Cloud haben wir heute Morgen auf Version 6.0 aktualisiert. Selbsthoster, die seit dem 30. September eine Beta-Version nutzen konnten, können nun das Stable Release aus dem bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) von SeaTable Server herunterladen. Die vollständige Liste der Änderungen findet sich wie immer im [Changelog]({{< relref "pages/changelog" >}}).
+SeaTable Cloud haben wir heute Morgen auf Version 6.0 aktualisiert. Selbsthoster, die seit dem 30. September eine Beta-Version nutzen konnten, können nun das Stable Release aus dem bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) von SeaTable Server herunterladen. Die vollständige Liste der Änderungen findet sich wie immer im [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b47bc8f30/).
 
 ## KI-ready mit KI-Automationen (beta)
 
@@ -39,7 +38,7 @@ Die neuen KI-Funktionen sind in SeaTables Automationen integriert und lassen sic
 
 SeaTable Cloud verwendet als KI-Modell ein **Gemma3** mit 12 Milliarden Parametern. Dieses multimodale Large Language Modell (LLM) aus dem Hause Google läuft **auf einem deutschen Server** der Hetzner Online GmbH und wird durch die Administratoren von SeaTable Cloud betreut. Der Datenaustausch zwischen SeaTable Cloud und dem Sprachmodell erfolgt **verschlüsselt**. Ihre Daten wandern somit nicht zu einem anderen KI-Anbieter und auch nicht ins Ausland.
 
-Alle Abonnenten von SeaTable Cloud Enterprise erhalten **10 KI-Credits pro Teammitglied**. Die KI-Credits sind so bemessen, dass sie umfangreiche Tests ermöglichen. Für produktive Workloads sind zusätzliche Credits nötig. Diese können während der Beta-Phase auf Nachfrage kostenlos bereitgestellt werden.
+Alle Abonnenten von SeaTable Cloud Enterprise erhalten **500 KI-Credits pro Teammitglied**. Die KI-Credits sind so bemessen, dass sie umfangreiche Tests ermöglichen. Für produktive Workloads sind zusätzliche Credits nötig. Diese können während der Beta-Phase auf Nachfrage kostenlos bereitgestellt werden.
 
 **Selbsthoster von SeaTable Server** können ihr LLM ebenfalls selbst hosten, müssen dies aber nicht. **SeaTable AI**, eine neue Komponente von SeaTable Server, basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen und Anbietern – darunter alle LLM-Dienste mit einer OpenAI-kompatiblen API. Das Deployment von SeaTable AI erfolgt, ebenso wie bei allen anderen Komponenten von SeaTable Server, per Docker bzw. Docker Compose. Im [Admin-Handbuch](https://admin.seatable.com/) finden Sie Beispielkonfigurationen für zahlreiche populäre LLMs.
 

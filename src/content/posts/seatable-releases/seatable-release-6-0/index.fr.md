@@ -1,16 +1,15 @@
 ---
 title: 'SeaTable 6.0 : Le No-Code devient intelligent'
 description: "SeaTable 6.0 combine la puissance du No-Code et de l'intelligence artificielle. Découvrez les nouvelles fonctionnalités d'IA, l'éditeur de règles d'automatisation redessiné, les nouveaux types de vue Calendrier, Kanban et Galerie ainsi que le nouveau type de colonne Numéro de téléphone."
-date: 2025-10-31
+date: 2025-11-04
 author: 'rdb'
 url: '/fr/seatable-release-6-0'
-color: '#7dc3cb'
+color: '#ff9831'
 categories:
     - 'product-features'
 seo:
     title:
     description:
-draft: true
 ---
 
 SeaTable 6.0 combine la puissance du No-Code et de l'Intelligence Artificielle (IA). **Les nouvelles fonctionnalités d'IA** permettent d'analyser, de modifier et d'étendre des ensembles de données, d'exploiter des documents et d'extraire avec précision des informations pertinentes. Et ce, sans aucun souci de protection des données et de confidentialité : SeaTable prend en charge un grand nombre de fournisseurs et de modèles d'IA. Bien entendu, l'auto-hébergement des modèles d'IA est également possible. C'est ce que nous faisons pour protéger vos données.
@@ -21,7 +20,7 @@ SeaTable 6.0 combine la puissance du No-Code et de l'Intelligence Artificielle (
 
 De nombreuses améliorations dans l'App Builder et l'Éditeur de base, telles que la disponibilité universelle de filtres complexes et **le nouveau type de colonne Numéro de téléphone**, optimisent les fonctionnalités existantes et répondent aux besoins des clients.
 
-Nous avons mis à jour SeaTable Cloud à la version 6.0 ce matin. Les auto-hébergeurs qui ont pu utiliser une version bêta depuis le 30 septembre peuvent désormais télécharger la version stable depuis le fameux [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) de SeaTable Server. Comme toujours, la liste complète des changements est disponible dans le [Changelog]({{< relref "pages/changelog" >}}).
+Nous avons mis à jour SeaTable Cloud à la version 6.0 ce matin. Les auto-hébergeurs qui ont pu utiliser une version bêta depuis le 30 septembre peuvent désormais télécharger la version stable depuis le fameux [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) de SeaTable Server. Comme toujours, la liste complète des changements est disponible dans le [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b47bc8f30/).
 
 ## KI-ready avec des automatisations d'IA (bêta)
 
@@ -39,7 +38,7 @@ Les nouvelles fonctions d'IA sont intégrées aux automatisations de SeaTable et
 
 SeaTable Cloud utilise comme modèle d'IA un **Gemma3** avec 12 milliards de paramètres. Ce modèle multimodal Large Language (LLM) de Google fonctionne **sur un serveur allemand** de Hetzner Online GmbH et est géré par les administrateurs de SeaTable Cloud. L'échange de données entre SeaTable Cloud et le modèle linguistique est **crypté**. Vos données ne sont donc pas transférées vers un autre fournisseur d'IA ni à l'étranger.
 
-Tous les abonnés à SeaTable Cloud Enterprise reçoivent **10 crédits d'IA par membre de l'équipe**. Les crédits d'IA sont calculés de manière à permettre des tests à grande échelle. Des crédits supplémentaires sont nécessaires pour les charges de travail productives. Ceux-ci peuvent être fournis gratuitement sur demande pendant la phase bêta.
+Tous les abonnés à SeaTable Cloud Enterprise reçoivent **500 crédits d'IA par membre de l'équipe**. Les crédits d'IA sont calculés de manière à permettre des tests à grande échelle. Des crédits supplémentaires sont nécessaires pour les charges de travail productives. Ceux-ci peuvent être fournis gratuitement sur demande pendant la phase bêta.
 
 **Les auto-hébergeurs de SeaTable Server** peuvent également héberger eux-mêmes leur LLM, mais ce n'est pas obligatoire. **SeaTable AI**, un nouveau composant de SeaTable Server, est basé sur LiteLLM, ce qui permet de connecter un grand nombre de modèles et de fournisseurs, y compris tous les services LLM avec une API compatible avec OpenAI. Le déploiement de SeaTable AI, tout comme celui de tous les autres composants de SeaTable Server, s'effectue via Docker ou Docker Compose. Le [Guide de l'administrateur](https://admin.seatable.com/) contient des exemples de configurations pour de nombreux LLM populaires.
 
