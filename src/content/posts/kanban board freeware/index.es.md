@@ -5,7 +5,7 @@ date: 2025-10-06
 url: '/es/tabla-kanban-comparacion-freeware'
 seo:
     title: 'Tabla Kanban Freeware - 15 herramientas en comparación'
-    description: 'Las herramientas gratuitas de tablero kanban ofrecen diversas funciones y límites. Esta comparativa de herramientas le ayudará a tomar la decisión correcta.'
+    description: 'El comparativo de tableros kanban gratuitos muestra funciones y límites clave para ayudarle a elegir la opción más adecuada'
 categories:
     - 'best-practice'
 tags:
