@@ -19,8 +19,6 @@ color: '#f2d1e3'
 
 Der 1. Oktober 2025 markiert für uns bei SeaTable einen besonderen Moment: Die Veröffentlichung von Version 6.0. Und diese Version hat es in sich. Mit den neuen **KI unterstützten Automationen** schlagen wir ein ganz neues Kapitel auf – eines, das den Arbeitsalltag in Unternehmen spürbar verändern wird.
 
-{{< info-box headline="Gestaffelte Veröffentlichung" text="SeaTable 6.0 steht ab heute (01.10.2025) für alle Self-Hoster auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download zur Verfügung. SeaTable Cloud werden wir am **4.November 2025** auf die Version 6.0 aktualisieren." />}}
-
 Denn Automationen waren schon immer ein Kernstück von SeaTable. Sie helfen dabei, wiederkehrende Prozesse zu standardisieren und Abläufe einfacher zu machen. Aber jetzt gehen wir den entscheidenden Schritt weiter: Wir kombinieren unsere Automationen mit künstlicher Intelligenz (=KI). Plötzlich können Prozesse nicht nur _automatisiert_, sondern auch _intelligent_ gesteuert werden. Rechnungen, die automatisch in Tabellen eingetragen werden, E-Mails, die nach Inhalt sortiert und weitergeleitet werden, oder lange Texte, die in Sekundenschnelle auf das Wesentliche reduziert werden – all das wird nun Realität in SeaTable.
 
 ## Warum wir unseren eigenen KI-Server betreiben
