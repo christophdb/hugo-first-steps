@@ -19,8 +19,6 @@ color: '#f2d1e3'
 
 El 1 de octubre de 2025 marca un momento especial para nosotros en SeaTable: el lanzamiento de la versión 6.0. Y esta versión representa un gran paso adelante. Con las nuevas **automatizaciones impulsadas por IA**, abrimos un capítulo completamente nuevo, uno que cambiará perceptiblemente el trabajo diario en las empresas.
 
-{{< info-box headline="Lanzamiento escalonado" text="SeaTable 6.0 está disponible para todos los auto-alojados para su descarga desde [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise) desde hoy (01.10.2025). Actualizaremos SeaTable Cloud a la versión 6.0 el **4 de noviembre de 2025**." />}}
-
 Las automatizaciones siempre han sido una parte esencial de SeaTable. Ayudan a estandarizar procesos recurrentes y simplificar flujos de trabajo. Pero ahora damos el siguiente paso decisivo: combinamos nuestras automatizaciones con inteligencia artificial (IA). De repente, los procesos no solo pueden ser _automatizados_, sino también _controlados de forma inteligente_. Facturas que se registran automáticamente en tablas, correos electrónicos clasificados y reenviados según su contenido, o textos largos que se resumen en segundos – todo esto ahora es una realidad con SeaTable.
 
 ## Por qué operamos nuestro propio servidor de IA
