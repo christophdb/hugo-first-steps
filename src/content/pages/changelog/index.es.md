@@ -18,15 +18,15 @@ sections:
       subtitle: 'Versiones disponibles'
       text: "Te recomendamos suscribirte a nuestro boletín para recibir siempre información sobre la versión más reciente y segura de SeaTable Server."
       items:
+          - icon: fingerprint
+            headline: 'SeaTable 6'
+            link: '#release-6'
           - icon: bullseye
             headline: 'SeaTable 5'
             link: '#release-5'
           - icon: code
-            headline: 'SeaTable 4'
-            link: '#release-4'
-          - icon: fingerprint
             headline: 'Versiones anteriores'
-            link: '#release-3'
+            link: '#release-4'
 
     - name: 'content-11'
       weight: 3
@@ -37,7 +37,16 @@ sections:
       image: ''
 
     - name: "content-26"
-      weight: 4
+      weight: 10
+      title: Lanzamiento de SeaTable 6
+      subtitle: Detalles de la versión
+      anchor: release-6
+      items:
+        - text: 'Versión **6.0.10** del 4 de noviembre de 2025: [Notas de la versión 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
+      template: "c9124bcd934b47bc8f30"
+
+    - name: "content-26"
+      weight: 11
       title: Lanzamiento de SeaTable 5
       subtitle: Detalles de la versión
       anchor: release-5
@@ -49,7 +58,7 @@ sections:
       template: "5964c9e4b6534372b1d8"
 
     - name: "content-26"
-      weight: 5
+      weight: 12
       title: Lanzamiento de SeaTable 4
       subtitle: Detalles de la versión
       anchor: release-4
@@ -62,7 +71,7 @@ sections:
       template: "d2ccee45fb3b4301836a"
 
     - name: "content-26"
-      weight: 6
+      weight: 13
       title: Lanzamiento de SeaTable 3
       subtitle: Detalles de la versión
       anchor: release-3
@@ -71,7 +80,7 @@ sections:
       template: "3d65a8f8c8ad4482abea"
 
     - name: "faq"
-      weight: 10
+      weight: 14
       title: Preguntas frecuentes sobre el registro de cambios
       subtitle: Todo lo que necesitas saber
       items:

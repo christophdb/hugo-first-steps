@@ -18,16 +18,16 @@ sections:
       subtitle: 'Доступные версии'
       text: "Мы рекомендуем подписаться на нашу рассылку, чтобы всегда получать информацию о самой новой и безопасной версии сервера SeaTable."
       items:
+          - icon: fingerprint
+            headline: 'SeaTable 6'
+            link: '#release-6'
           - icon: bullseye
             headline: 'SeaTable 5'
             link: '#release-5'
           - icon: code
-            headline: 'SeaTable 4'
-            link: '#release-4'
-          - icon: fingerprint
             headline: 'Более старые версии'
-            link: '#release-3'
-
+            link: '#release-4'
+          
     - name: 'content-11'
       weight: 3
       title: Выберите европейское облако или запустите свой собственный сервер
@@ -37,7 +37,16 @@ sections:
       image: ''
 
     - name: "content-26"
-      weight: 4
+      weight: 10
+      title: Выпуск SeaTable 6
+      subtitle: Детали версии
+      anchor: release-6
+      items:
+        - text: 'Версия **6.0.10** от 16 ноября 2025: [Примечания к выпуску 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
+      template: "c9124bcd934b47bc8f30"
+
+    - name: "content-26"
+      weight: 11
       title: Выпуск SeaTable 5
       subtitle: Детали версии
       anchor: release-5
@@ -49,7 +58,7 @@ sections:
       template: "5964c9e4b6534372b1d8"
 
     - name: "content-26"
-      weight: 5
+      weight: 12
       title: Выпуск SeaTable 4
       subtitle: Детали версии
       anchor: release-4
@@ -62,7 +71,7 @@ sections:
       template: "d2ccee45fb3b4301836a"
 
     - name: "content-26"
-      weight: 6
+      weight: 13
       title: Выпуск SeaTable 3
       subtitle: Детали версии
       anchor: release-3
@@ -71,7 +80,7 @@ sections:
       template: "3d65a8f8c8ad4482abea"
 
     - name: "faq"
-      weight: 10
+      weight: 14
       title: Frequently asked questions about the changelog
       subtitle: Everything you need to know
       items:
