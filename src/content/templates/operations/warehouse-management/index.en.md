@@ -80,7 +80,7 @@ sections:
       - text: 'Simply scalable: Your warehouse software grows with your requirements - without expensive additional functions.'
       - text: 'Simple integrations: With the SeaTable API, third-party providers such as shipping service providers or e-commerce platforms can be easily integrated.'
       image_position: [left]
-      image: '/images/template_page_lagerverwaltung_01.png'
+      image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'SeaTable app for warehouse management with flexible no-code solution, real-time data entry and team collaboration'
 
     - name: "content-25"
@@ -90,19 +90,19 @@ sections:
       items:
       - headline: 'All article data at a glance'
         text: 'Create your products and articles in the "Article Master" table and link it to the "Warehouses and Capacity" table to have the current stock level at all times. You can easily create new articles or products using a form.'
-        image: '/images/template_page_lagerverwaltung_02.png'
+        image: '/images/template_page_lagerverwaltung_02.jpg'
         image_alt: 'SeaTable article overview in the Article Master with link to the stock table and form for creating new products'
       - headline: 'Easily record incoming and outgoing goods'
         text: 'Post incoming and outgoing stock via a form in the warehouse management app. In addition to the stock and, if necessary, a status description, also enter the storage location from which the stock is to be posted. This keeps your warehouse data up to date at all times!'
-        image: '/images/template_page_lagerverwaltung_03.png'
+        image: '/images/template_page_lagerverwaltung_03.jpg'
         image_alt: 'Form for recording incoming and outgoing goods in the SeaTable warehouse management app with details of stock, condition and storage location'
       - headline: 'Storage bin occupancy and warehouse utilization at a glance'
         text: 'Link the storage location occupancy and utilization with your product overview and incoming and outgoing goods. In addition to goods turnover, you can also evaluate the degree of storage space utilization - and thus react in good time to excess or reduced requirements.'
-        image: '/images/template_page_lagerverwaltung_04.png'
+        image: '/images/template_page_lagerverwaltung_04.jpg'
         image_alt: 'Overview of storage bin occupancy and warehouse utilization in SeaTable, linked to product stock and goods receipts and issues'
       - headline: 'Integrated notifications'
         text: 'Is a storage bin overbooked? The safety stock has been undercut and needs to be reordered? Use automated notifications so that critical stock changes are no longer overlooked.'
-        image: '/images/template_page_lagerverwaltung_05.png'
+        image: '/images/template_page_lagerverwaltung_05.jpg'
         image_alt: 'SeaTable warehouse management app with automated notifications in the event of overbooking and falling below the safety stock level'
 
     - name: "content-6"
@@ -114,7 +114,7 @@ sections:
       subtitle: 
       items:
       - text: 'Use the no-code universal app as a warehouse management online front end and create forms, clear views or dashboards with relevant KPIs for your analyses with just a few clicks. The stock and warehouse query provides specific information on individual products or occupancy information on storage locations - without cumbersome manual searches.'
-      image: '/images/template_page_lagerverwaltung_06.png'
+      image: '/images/template_page_lagerverwaltung_06.jpg'
       image_alt: 'SeaTable No-Code Universal App as a front-end for warehouse management with forms, KPI dashboards and targeted stock queries'
 
     - name: "banner-3"

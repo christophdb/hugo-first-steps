@@ -80,7 +80,7 @@ sections:
       - text: 'Simplesmente escalável: O seu software de armazém cresce com as suas necessidades - sem funções adicionais dispendiosas.'
       - text: 'Integrações simples: Com a API SeaTable, pode integrar facilmente fornecedores terceiros, tais como fornecedores de serviços de transporte ou plataformas de comércio eletrónico.'
       image_position: [left]
-      image: '/images/template_page_lagerverwaltung_01.png'
+      image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'Aplicação SeaTable para gestão de armazéns com solução flexível sem código, introdução de dados em tempo real e colaboração entre equipas.'
 
     - name: "content-25"
@@ -90,19 +90,19 @@ sections:
       items:
       - headline: 'Todos os dados do artigo num relance'
         text: 'Crie os seus produtos e artigos na tabela "Mestre de artigos" e ligue-a à tabela "Armazéns e capacidade" para ter sempre o nível de stock atual. Pode criar facilmente novos artigos ou produtos utilizando um formulário.'
-        image: '/images/template_page_lagerverwaltung_02.png'
+        image: '/images/template_page_lagerverwaltung_02.jpg'
         image_alt: 'Vista geral do artigo SeaTable no Mestre de Artigos com ligação à tabela de stocks e formulário para criar novos produtos'
       - headline: 'Registe facilmente as entradas e saídas de mercadorias'
         text: 'Registe as entradas e saídas de mercadorias através de um formulário na aplicação de gestão de armazém. Para além do stock e, se aplicável, de uma descrição do estado, introduza também o local de armazenamento a partir do qual o stock deve ser debitado. Isto mantém os dados do seu armazém sempre actualizados!'
-        image: '/images/template_page_lagerverwaltung_03.png'
+        image: '/images/template_page_lagerverwaltung_03.jpg'
         image_alt: 'Formulário para registar as entradas e saídas de mercadorias na aplicação de gestão de armazém SeaTable, com informações sobre o stock, o estado e o local de armazenamento'
       - headline: 'Visão geral da ocupação das posições no depósito e da utilização do armazém'
         text: 'Ligue a ocupação e a utilização do local de armazenamento à sua visão geral de produtos e às entradas e saídas de mercadorias. Para além da rotação de mercadorias, também pode analisar a taxa de utilização do espaço de armazenamento - e assim reagir atempadamente a necessidades excessivas ou reduzidas.'
-        image: '/images/template_page_lagerverwaltung_04.png'
+        image: '/images/template_page_lagerverwaltung_04.jpg'
         image_alt: 'Síntese da ocupação das posições no depósito e da utilização do armazém no SeaTable, associada ao stock de produtos e às entradas e saídas de mercadorias'
       - headline: 'Notificações integradas'
         text: 'Uma posição de armazenamento está sobrelotada? O stock de segurança foi reduzido e precisa de ser reordenado? Utilize notificações automáticas para que as alterações críticas de stock não passem despercebidas.'
-        image: '/images/template_page_lagerverwaltung_05.png'
+        image: '/images/template_page_lagerverwaltung_05.jpg'
         image_alt: 'Aplicação de gestão de armazém SeaTable com notificações automáticas em caso de sobre-reserva e de ficar abaixo do nível de stock de segurança'
 
     - name: "content-6"
@@ -114,7 +114,7 @@ sections:
       subtitle: 
       items:
       - text: 'Utilize a aplicação universal sem código como um front end online de gestão de armazém e crie formulários, visualizações claras ou painéis de controlo com KPIs relevantes para as suas análises com apenas alguns cliques. A consulta de stocks e armazéns fornece informações específicas sobre produtos individuais ou informações de ocupação sobre locais de armazenamento - sem necessidade de pesquisas manuais complicadas.'
-      image: '/images/template_page_lagerverwaltung_06.png'
+      image: '/images/template_page_lagerverwaltung_06.jpg'
       image_alt: 'SeaTable No-Code Universal App como front end para a gestão do armazém com formulários, painéis de KPI e consultas de stock específicas'
 
     - name: "banner-3"
