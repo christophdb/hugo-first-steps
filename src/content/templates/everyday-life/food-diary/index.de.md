@@ -63,7 +63,7 @@ sections:
       - text: 'Teilen mit anderen: Teilen Sie Ihr digitales Ernährungstagebuch mit Ärzten oder Ernährungsberatern.'
       - text: 'Immer zur Hand: Sie können von überall und zu jeder Zeit auf Ihr Ernährungstagebuch zugreifen.'
       image_position: [left]
-      image: '/images/Template-Page_Ernährungsplan_Screenshot_1.png'
+      image: '/images/template_page_ernaehrungstagebuch_01.jpg'
       image_alt: 'Ernährungstagebuch App in Tabellenansicht mit Symbolen für Datenschutz, Teilen und mobiler Nutzung'
 
     - name: "content-13"
@@ -88,15 +88,15 @@ sections:
       items:
       - headline: 'Essenstagebuch App'
         text: 'Erfassen Sie alle Mahlzeiten und Snacks mit den enthaltenen Lebensmitteln. Sie können alle Daten einfach über ein anpassbares Webformular in der Universal App erfassen und jederzeit anpassen. Gruppieren und filtern Sie Ihre Einträge oder legen Sie neue Ansichten an, um Verbindungen zu erkennen.'
-        image: '/images/Template-Page_Ernährungsplan_Screenshot_2.png'
+        image: '/images/template_page_ernaehrungstagebuch_02.jpg'
         image_alt: 'Kostenlose Ernährungstagebuch App online mit SeaTable, Tabelle, individuell anpassbar, Teilen mit Ärzten, hoher Datenschutz, und mobiler Zugriff'
       - headline: 'Datenbank für Unverträglichkeiten und Allergene'
         text: 'Die App Ernährungstagebuch von SeaTable ist mehr als eine simple Essensprotokoll App. In der integrierten und erweiterbaren Datenbank über Lebensmittelintoleranzen finden Sie die häufigsten Symptome und allergenen Lebensmittel der verbreitetsten Unverträglichkeiten.'
-        image: '/images/Template-Page_Ernährungsplan_Screenshot_3.png'
+        image: '/images/template_page_ernaehrungstagebuch_03.jpg'
         image_alt: 'Datenbank für Unverträglichkeiten und Allergene in Ernährungstagebuch App mit Symptomen und Lebensmittelübersicht, individuell anpassbar.'
       - headline: 'Universal App für Datenerfassung und Auswertung'
         text: 'Ihre Ernährungsprotokoll App besteht aus zwei Teilen: einer Excel-ähnlichen Datenbank und einer No-Code Universal App als Frontend. Hier finden Sie das Dateneingabe-Formular, ein Analyse-Dashboard, eine Übersicht über die Flüssigkeitsaufnahme pro Tag und die Suchmaske für die Unverträglichkeiten-Datenbank.'
-        image: '/images/Template-Page_Ernährungsplan_Screenshot_4.png'
+        image: '/images/template_page_ernaehrungstagebuch_04.jpg'
         image_alt: 'App mit Datenbank, Dashboard und Formular für Ernährungstagebuch.'
       
     - name: "banner-3"
@@ -116,7 +116,7 @@ sections:
       subtitle: 
       items:
       - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie in wenigen Schritten Ihre ganz individuelle Ernährungs-App. Erfassen Sie neben Mahlzeiten, Essenszeiten und Beschwerden zum Beispiel auch Nährstoffe oder ausführliche Informationen zur Essenssituation oder zu Bewegungsmustern. Ihre Anforderungen und Wünsche bestimmen, wie Ihr digitales Ernährungstagebuch aussieht!'
-      image: '/images/Template-Page_Ernährungsplan_Screenshot_5.png'
+      image: '/images/template_page_ernaehrungstagebuch_05.jpg'
       image_alt: 'Individuelle Ernährungstagebuch App mit SeaTable No-Code Builder, Datenerfassung von Mahlzeiten, Nährstoffen und Beschwerden.'
 
     - name: "faq"
