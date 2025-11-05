@@ -63,7 +63,7 @@ sections:
       - text: "Partager avec d'autres personnes : Partagez votre journal alimentaire numérique avec des médecins ou des nutritionnistes."
       - text: "Toujours à portée de main : vous pouvez accéder à votre journal alimentaire de n'importe où et à tout moment."
       image_position: [left]
-      image: '/images/Template-Page_Ernährungsplan_Screenshot_1.png'
+      image: '/images/template_page_ernaehrungstagebuch_01.jpg'
       image_alt: "Application de journal alimentaire en vue tableau avec icônes de confidentialité, de partage et d'utilisation mobile"
 
     - name: "content-13"
@@ -88,15 +88,15 @@ sections:
       items:
       - headline: 'Application de journal alimentaire'
         text: "Enregistrez tous vos repas et collations avec les aliments qu'ils contiennent. Vous pouvez facilement saisir toutes les données via un formulaire web personnalisable dans l'application universelle et les adapter à tout moment. Regroupez et filtrez vos entrées ou créez de nouvelles vues pour identifier les liens."
-        image: '/images/Template-Page_Ernährungsplan_Screenshot_2.png'
+        image: '/images/template_page_ernaehrungstagebuch_02.jpg'
         image_alt: "Application gratuite de journal alimentaire en ligne avec SeaTable, tableau, personnalisable, partage avec les médecins, protection élevée des données, et accès mobile"
       - headline: 'Base de données des intolérances et des allergènes'
         text: "L'application Journal alimentaire de SeaTable est plus qu'une simple application de journal alimentaire. Dans la base de données intégrée et extensible sur les intolérances alimentaires, vous trouverez les symptômes et les aliments allergènes les plus courants des intolérances les plus répandues."
-        image: '/images/Template-Page_Ernährungsplan_Screenshot_3.png'
+        image: '/images/template_page_ernaehrungstagebuch_03.jpg'
         image_alt: "Base de données des intolérances et des allergènes dans l'application Journal alimentaire avec symptômes et aperçu des aliments, personnalisable."
       - headline: "Application universelle pour la collecte et l'analyse des données"
         text: "Votre application de protocole alimentaire se compose de deux parties : une base de données de type Excel et une application universelle No-Code en guise de frontal. Vous y trouverez le formulaire de saisie des données, un tableau de bord d'analyse, un aperçu de la consommation de liquides par jour et le masque de recherche pour la base de données des intolérances."
-        image: '/images/Template-Page_Ernährungsplan_Screenshot_4.png'
+        image: '/images/template_page_ernaehrungstagebuch_04.jpg'
         image_alt: 'Application avec base de données, tableau de bord et formulaire de journal alimentaire.'
       
     - name: "banner-3"
@@ -116,7 +116,7 @@ sections:
       subtitle: 
       items:
       - text: "Avec l'outil intégré No-Code App Builder de SeaTable, vous pouvez créer votre propre application de nutrition en quelques étapes. En plus des repas, des heures de repas et des symptômes, vous pouvez enregistrer des nutriments ou des informations détaillées sur la situation alimentaire ou les habitudes d'exercice. Vos exigences et vos souhaits déterminent la forme de votre journal alimentaire numérique !"
-      image: '/images/Template-Page_Ernährungsplan_Screenshot_5.png'
+      image: '/images/template_page_ernaehrungstagebuch_05.jpg'
       image_alt: 'Application de journal alimentaire personnalisé avec SeaTable No-Code Builder, collecte de données sur les repas, les nutriments et les troubles.'
 
     - name: "faq"
