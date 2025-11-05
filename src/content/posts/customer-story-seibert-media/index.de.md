@@ -22,7 +22,7 @@ Die Folge: redundante und intransparente Daten; regelmäßige manuelle Doppelarb
 
 "Uns fehlte an allen Ecken und Enden Automatisierung, systematische Erfassung von strukturierten Daten und gesteuerte Projektabläufe", beschreibt das Unternehmen die Situation. Verschiedene Lösungen wurden getestet, unter anderem mit Atlassian Jira mit Assets und Jira Automations. Für Martin Seibert, Geschäftsführer der Seibert Group GmbH, ein mächtiges Tool, jedoch auch ein komplexes, das einen Etablierungsaufwand erfordert, der für die abzubildenden Prozesse einfach zu aufwendig war.
 
-## Die Lösung: Eine DSGVO-konforme AirTable-AlternativeS
+## Die Lösung: Eine DSGVO-konforme AirTable-Alternative
 
 {{< testimonial image="" alt="" name="Martin Seibert, Geschäftsführer Seibert Group GmbH" >}}
 
@@ -44,10 +44,10 @@ Die Implementierung verlief reibungslos. Eine erfreuliche Überasschung für das
 
 > Der Support von SeaTable ist außerordentlich gut, persönlich, schnell und sehr treffsicher. Das ist beeindruckend.
 
-Doch die technische Integration eines neuen Tools ist nur die eine Seite. Auch die Mitarbeiter müssen sich umgewöhnen, ein neues System und neue Prozesse kennenlernen. Oft bedeutet das Schulungen und eine Umstellungsphase, in der das alte und neue System parallel betrieben werden und es auch mal knirschen kann. Das Onboarding der Anwender erwies sich jedoch als äußerst unkompliziert. Die Seibert Group bietet nicht mal richtige Schulungen oder Einführungen an, da auch neue Mitarbeiter durch die benutzerfreundliche und intuitive Oberfläche sehr leicht mit SeaTable zurechtkommen. Für die Konfiguration, die etwas komplexer ist als die reine Nutzung, sind einzelne ausgewählte Spezialisten im Unternehmen zuständig. 
+Doch die technische Integration eines neuen Tools ist nur die eine Seite. Auch die Mitarbeiter müssen sich umgewöhnen, ein neues System und neue Prozesse kennenlernen. Oft bedeutet das Schulungen und eine Umstellungsphase, in der das alte und neue System parallel betrieben werden und es auch mal knirschen kann. Das Onboarding der Anwender erwies sich jedoch als äußerst unkompliziert. Die Seibert Group bietet nicht mal richtige Schulungen oder Einführungen an, da auch neue Mitarbeiter durch die benutzerfreundliche und intuitive Oberfläche sehr leicht mit SeaTable zurechtkommen. Für die Konfiguration durch die Seibert Group selbst gehosteten SeaTable-Lösung, sind einzelne ausgewählte Spezialisten im Unternehmen zuständig, da sie doch etwas komplexer ist als die Nutzung. 
 
 ## Die Transformation: Von der reinen Datenaufbereitung zur aktiven Prozesssteuerung
-Heute ist SeaTable im Unternehmen für die strukturierte Erfassung von Daten nicht mehr wegzudenken. Und der Unterschied zu vorher könnte kaum größer sein: Die bisherigen Prozesse, die hauptsächlich darin bestanden, Daten passiv zu lesen und visuell aufzubereiten, sind einer aktiven Arbeit mit und an den Daten gewichen. Dank vielfältiger Ansichtsoptionen, visuellen Elementen, der Universal App oder der leistungsfähigen SeaTable API wurden statische Google-Tabellen durch ein effizientes und benutzerfreundliches modernes Datenmanagement abgelöst. Insbesondere durch die Verbindung mit Automatisierungsplattformen wie n8n ist SeaTable heute im Tagesgeschaäft unverzichtbar.
+Heute ist SeaTable im Unternehmen für die strukturierte Erfassung von Daten nicht mehr wegzudenken. Und der Unterschied zu vorher könnte kaum größer sein: Die bisherigen Prozesse, die hauptsächlich darin bestanden, Daten passiv zu lesen und visuell aufzubereiten, sind einer aktiven Arbeit mit und an den Daten gewichen. Dank vielfältiger Ansichtsoptionen, visuellen Elementen, der Universal App oder der leistungsfähigen SeaTable API wurden statische Google-Tabellen durch ein effizientes und benutzerfreundliches modernes Datenmanagement abgelöst. Insbesondere durch die Verbindung mit Automatisierungsplattformen wie n8n ist SeaTable heute im Tagesgeschäft unverzichtbar.
 
 Als besonders wertvoll erwiesen sich dabei: Sichten mit Filtern, Deeplinks und die visuelle Aufbereitung von Daten, die sonst in trockenen Tabellen verborgen blieben.
 
