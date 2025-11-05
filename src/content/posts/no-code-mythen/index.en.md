@@ -5,7 +5,9 @@ seo:
     title: '7 no-code myths - hard facts about no-code development'
     description: "Respond confidently to no-code myths and drive your company's digital transformation forward quickly and securely."
 date: 2025-10-28
-url: '/no-code-mythen'
+url: '/no-code-myths'
+aliases:
+    - '/no-code-mythen'
 tags:
     - 'No Code / Low Code'
 categories:
