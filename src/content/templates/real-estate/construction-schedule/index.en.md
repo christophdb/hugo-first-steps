@@ -64,7 +64,7 @@ sections:
       - text: 'Visual presentation: Display your data clearly with plugins, views and dashboards'
       - text: 'Security: SeaTable is GDPR-compliant and is hosted exclusively on servers in Germany.'
       image_position: [left]
-      image: '/images/template_page_bauzeitenplan_01.png'
+      image: '/images/template_page_bauzeitenplan_01.jpg'
       image_alt: 'Construction schedule template in table view'
 
     - name: "content-13"
@@ -89,19 +89,19 @@ sections:
       items:
       - headline: 'Simple planning thanks to visual representation'
         text: 'Keeping an overview in a purely tabular construction schedule like in Excel is tedious. In SeaTable, you can visualize your project with our timeline plugin at no extra cost or effort. This allows you to perfectly coordinate all deadlines.'
-        image: '/images/template_page_bauzeitenplan_02.png'
+        image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: 'Free construction schedule template online with SeaTable, spreadsheet, customizable, share with planners and tradesmen, high data protection, and mobile access'
       - headline: 'An overview of all trades'
         text: 'Link all work directly to the contracted company in the "Contact" table. This allows you to see immediately whether an order has already been placed and what other work this company is to carry out. Contact details are immediately available in case of questions.'
-        image: '/images/template_page_bauzeitenplan_03.png'
+        image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: "Keep track of all tradesmen and contact details with SeaTable's construction schedule software."
       - headline: 'All work at a glance'
         text: 'Use the timeline plugin or the Kanban view to visually display the status of individual tasks and schedules. This means you are always up to date and can immediately see which follow-up orders are affected in the event of delays.'
-        image: '/images/template_page_bauzeitenplan_04.png'
+        image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: 'App with timeline and Kanban view for construction schedule.'
       - headline: 'Real-time dashboard for cost control'
         text: "Record the planned and actual costs for each construction step in the 'Expenses' table. With the integrated statistics and a dashboard in the Universal App, you can easily create your own cost control using drag-and-drop."
-        image: '/images/template_page_bauzeitenplan_05.png'
+        image: '/images/template_page_bauzeitenplan_05.jpg'
         image_alt: 'Keep an eye on all expenses and the overall budget with the construction schedule template with integrated dashboards.'
       
     - name: "banner-3"
@@ -121,7 +121,7 @@ sections:
       subtitle: 
       items:
       - text: "With SeaTable's integrated No Code App Builder, you can create your personal construction schedule app in just a few steps. In addition to the individual work steps, contacts and controlling dashboards, you can also add further information, images or additional documents and share them with others. Password protection and user-defined authorizations offer additional security."
-      image: '/images/template_page_bauzeitenplan_06.png'
+      image: '/images/template_page_bauzeitenplan_06.jpg'
       image_alt: 'Customized construction schedule app with SeaTable No-Code Builder, data collection of work steps, trades and costs.'
 
     - name: "faq"

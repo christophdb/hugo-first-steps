@@ -64,7 +64,7 @@ sections:
       - text: "Présentation visuelle : utilisez des plug-ins, des vues et des tableaux de bord pour présenter vos données de manière claire."
       - text: "Sécurité : SeaTable est conforme au RGPD et est hébergé exclusivement sur des serveurs en Allemagne."
       image_position: [left]
-      image: '/images/template_page_bauzeitenplan_01.png'
+      image: '/images/template_page_bauzeitenplan_01.jpg'
       image_alt: 'Modèle de calendrier de construction en vue tableau'
 
     - name: "content-13"
@@ -89,19 +89,19 @@ sections:
       items:
       - headline: "Planification facile grâce à la représentation visuelle"
         text: "Il est fastidieux de garder une vue d'ensemble dans un planning de construction purement tabulaire comme dans Excel. Dans SeaTable, vous visualisez votre projet sans frais supplémentaires ni effort particulier grâce à notre plug-in de ligne de temps. Ainsi, vous coordonnez parfaitement tous les délais."
-        image: '/images/template_page_bauzeitenplan_02.png'
+        image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: "Modèle de calendrier de construction gratuit en ligne avec SeaTable, tableau, personnalisable, partage avec les planificateurs et les artisans, protection élevée des données, et accès mobile."
       - headline: "Un aperçu de tous les corps de métier"
         text: "Reliez tous les travaux directement à l'entreprise mandatée dans le tableau 'Contact'. Vous voyez ainsi immédiatement si un travail a déjà été attribué et quels autres travaux cette entreprise doit effectuer. Les coordonnées sont immédiatement à portée de main en cas de questions."
-        image: '/images/template_page_bauzeitenplan_03.png'
+        image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: "Gardez un œil sur tous les artisans et les coordonnées grâce au logiciel de planification des travaux de SeaTable."
       - headline: "Tous les travaux en un coup d'œil"
         text: "Utilisez le plug-in Timeline ou la vue Kanban pour visualiser l'état de chaque travail et les calendriers. Cela vous permet d'être toujours à jour et, en cas de retard, de voir immédiatement quels travaux ultérieurs sont concernés."
-        image: '/images/template_page_bauzeitenplan_04.png'
+        image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: "App avec ligne de temps et vue Kanban pour le calendrier de construction."
       - headline: "Tableau de bord en temps réel pour le contrôle des coûts"
         text: "Enregistrez les coûts planifiés et réels pour chaque étape de la construction dans le tableau 'Expenses'. Grâce aux statistiques intégrées et à un tableau de bord dans l'application universelle, créez facilement votre propre contrôle des coûts par simple glisser-déposer."
-        image: '/images/template_page_bauzeitenplan_05.png'
+        image: '/images/template_page_bauzeitenplan_05.jpg'
         image_alt: "Toutes les dépenses et le budget total sous contrôle grâce au modèle de calendrier de construction avec tableaux de bord intégrés."
       
     - name: "banner-3"
@@ -121,7 +121,7 @@ sections:
       subtitle: 
       items:
       - text: "Avec l'application intégrée No Code App Builder de SeaTable, vous pouvez créer votre propre application de calendrier de construction en quelques étapes. En plus des étapes de travail individuelles, des contacts et des tableaux de bord de contrôle, vous pouvez y ajouter et partager des informations supplémentaires, des images ou des documents additionnels. Une protection par mot de passe et des autorisations définies par l'utilisateur offrent une sécurité supplémentaire."
-      image: '/images/template_page_bauzeitenplan_06.png'
+      image: '/images/template_page_bauzeitenplan_06.jpg'
       image_alt: "Application de calendrier de construction personnalisée avec SeaTable No-Code Builder, saisie de données sur les étapes de travail, les corps de métier et les coûts."
 
     - name: "faq"
