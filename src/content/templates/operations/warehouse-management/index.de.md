@@ -80,7 +80,7 @@ sections:
       - text: 'Einfach skalierbar: Ihre Lagersoftware wächst mit Ihren Anforderungen – ohne teure Zusatzfunktionen.'
       - text: 'Einfache Integrationen: Mit der SeaTable API lassen sich Drittanbieter wie Versanddienstleister oder E-Commerce-Plattformen einfach einbinden.'
       image_position: [left]
-      image: '/images/template_page_lagerverwaltung_01.png'
+      image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'SeaTable App für Lagerverwaltung mit flexibler No-Code-Lösung, Echtzeit-Dateneingabe und Team-Kollaboration'
 
     - name: "content-25"
@@ -90,19 +90,19 @@ sections:
       items:
       - headline: 'Alle Artikeldaten auf einen Blick'
         text: 'Legen Sie Ihre Produkte und Artikel im Table "Article Master" an und verknüpfen Sie es mit der Table "Warehouses and Capacity", um jederzeit den aktuellen Lagerbestand zu haben. Neue Artikel oder Produkte legen Sie ganz einfach über ein Formular an.'
-        image: '/images/template_page_lagerverwaltung_02.png'
+        image: '/images/template_page_lagerverwaltung_02.jpg'
         image_alt: 'SeaTable Artikelübersicht im Article Master mit Verknüpfung zur Lagerbestandstabelle und Formular zum Anlegen neuer Produkte'
       - headline: 'Warenein- und ausgänge einfach erfassen'
         text: 'Buchen Sie Lagerein- und -ausgänge über ein Formular in der Lagerverwaltung App ein. Erfassen Sie dazu neben dem Bestand und ggf. einer Zustandbeschreibung auch den Lagerort, von dem der Bestand abgebucht werden soll. So bleiben Ihre Lagerdaten jederzeit aktuell!'
-        image: '/images/template_page_lagerverwaltung_03.png'
+        image: '/images/template_page_lagerverwaltung_03.jpg'
         image_alt: 'Formular zur Erfassung von Warenein- und -ausgängen in der SeaTable Lagerverwaltungs-App mit Angaben zu Bestand, Zustand und Lagerort'
       - headline: 'Lagerplatzbelegung und Lagerauslastung auf einen Blick'
         text: 'Verknüpfen Sie die Lagerplatzbelegung und -auslastung mit Ihrer Produktübersicht und dem Warenein- und -ausgang. So können Sie neben dem Warenumschlag auch den Lagerflächen-Nutzungsgrad auswerten – und so rechtzeitig auf Mehr- oder Minderbedarfe reagieren.'
-        image: '/images/template_page_lagerverwaltung_04.png'
+        image: '/images/template_page_lagerverwaltung_04.jpg'
         image_alt: 'Übersicht der Lagerplatzbelegung und Lagerauslastung in SeaTable, verknüpft mit Produktbestand und Warenein- und -ausgängen'
       - headline: 'Integrierte Benachrichtigungen'
         text: 'Ein Lagerplatz ist überbucht? Der Sicherheitsbestand wurde unterschritten und es muss nachbestellt werden? Nutzen Sie automatisierte Benachrichtigungen, damit kritische Bestandsveränderungen nicht mehr übersehen werden.'
-        image: '/images/template_page_lagerverwaltung_05.png'
+        image: '/images/template_page_lagerverwaltung_05.jpg'
         image_alt: 'SeaTable Lagerverwaltungs-App mit automatisierten Benachrichtigungen bei Überbuchung und Unterschreitung des Sicherheitsbestands'
 
     - name: "content-6"
@@ -114,7 +114,7 @@ sections:
       subtitle: 
       items:
       - text: 'Nutzen Sie die No-Code Universal App als Lagerverwaltung Online Frontend und erstellen Sie mit wenigen Klicks Formulare, übersichtliche Ansichten oder Dashboards mit relevanten KPI für Ihre Analysen. Die Bestands- und Lagerabfrage bietet gezielte Informationen zu einzelnen Produkten oder Belegungsinformationen zu Lagerorten – ohne umständliche manuelle Suchen.'
-      image: '/images/template_page_lagerverwaltung_06.png'
+      image: '/images/template_page_lagerverwaltung_06.jpg'
       image_alt: 'SeaTable No-Code Universal App als Frontend für Lagerverwaltung mit Formularen, KPI-Dashboards und gezielter Bestandsabfrage'
 
     - name: "banner-3"

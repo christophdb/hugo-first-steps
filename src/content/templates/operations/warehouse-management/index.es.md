@@ -80,7 +80,7 @@ sections:
       - text: 'Sencillamente escalable: El software de su almacén crece con sus necesidades, sin costosas funciones adicionales.'
       - text: 'Integraciones sencillas: Con la API de SeaTable, los proveedores externos, como los proveedores de servicios de envío o las plataformas de comercio electrónico, pueden integrarse fácilmente.'
       image_position: [left]
-      image: '/images/template_page_lagerverwaltung_01.png'
+      image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'SeaTable app para la gestión de almacenes con solución flexible sin código, entrada de datos en tiempo real y colaboración en equipo'
 
     - name: "content-25"
@@ -90,19 +90,19 @@ sections:
       items:
       - headline: 'Todos los datos del artículo de un vistazo'
         text: 'Cree sus productos y artículos en la tabla "Maestro de artículos" y vincúlela a la tabla "Almacenes y capacidad" para disponer en todo momento del nivel de existencias actual. Puede crear fácilmente nuevos artículos o productos mediante un formulario.'
-        image: '/images/template_page_lagerverwaltung_02.png'
+        image: '/images/template_page_lagerverwaltung_02.jpg'
         image_alt: 'Vista general del artículo SeaTable en el Maestro de artículos con enlace a la tabla de existencias y formulario para crear nuevos productos'
       - headline: 'Registre fácilmente las entradas y salidas de mercancías'
         text: 'Contabilice las entradas y salidas de mercancías mediante un formulario en la aplicación de gestión de almacenes. Además de las existencias y, en su caso, una descripción del estado, introduzca también el almacén del que deben cargarse las existencias. Así mantendrá actualizados en todo momento los datos de su almacén.'
-        image: '/images/template_page_lagerverwaltung_03.png'
+        image: '/images/template_page_lagerverwaltung_03.jpg'
         image_alt: 'Formulario para registrar las entradas y salidas de mercancías en la app de gestión de almacenes SeaTable con detalles de las existencias, el estado y la ubicación del almacén'
       - headline: 'Ocupación de las ubicaciones y utilización del almacén de un vistazo'
         text: 'Vincule la ocupación y utilización de los almacenes con su visión general de los productos y las entradas y salidas de mercancías. Además de la rotación de mercancías, también puede analizar la tasa de utilización del espacio de almacenamiento y reaccionar así a tiempo ante un exceso o una reducción de las necesidades.'
-        image: '/images/template_page_lagerverwaltung_04.png'
+        image: '/images/template_page_lagerverwaltung_04.jpg'
         image_alt: 'Visión general de la ocupación de las ubicaciones y de la utilización de los almacenes en SeaTable, vinculada a las existencias de productos y a las entradas y salidas de mercancías'
       - headline: 'Notificaciones integradas'
         text: '¿Hay un exceso de existencias en una ubicación? ¿Las existencias de seguridad se han quedado cortas y hay que reordenarlas? Utilice notificaciones automatizadas para no pasar por alto los cambios críticos en las existencias.'
-        image: '/images/template_page_lagerverwaltung_05.png'
+        image: '/images/template_page_lagerverwaltung_05.jpg'
         image_alt: 'Aplicación de gestión de almacenes SeaTable con notificaciones automáticas en caso de exceso de reservas y de caída por debajo del nivel de existencias de seguridad'
 
     - name: "content-6"
@@ -114,7 +114,7 @@ sections:
       subtitle: 
       items:
       - text: 'Utilice la aplicación universal sin código como interfaz en línea de gestión de almacenes y cree formularios, vistas claras o cuadros de mando con los KPI relevantes para sus análisis con sólo unos clics. La consulta de existencias y almacenes proporciona información específica sobre productos individuales o información de ocupación sobre ubicaciones de almacenamiento, sin necesidad de engorrosas búsquedas manuales.'
-      image: '/images/template_page_lagerverwaltung_06.png'
+      image: '/images/template_page_lagerverwaltung_06.jpg'
       image_alt: 'SeaTable No-Code Universal App como front-end para la gestión del almacén con formularios, cuadros de mando de KPI y consultas de existencias específicas'
 
     - name: "banner-3"

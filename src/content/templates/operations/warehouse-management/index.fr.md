@@ -80,7 +80,7 @@ sections:
       - text: "Tout simplement évolutif : Votre logiciel d'entrepôt évolue avec vos besoins - sans fonctions supplémentaires coûteuses."
       - text: "Des intégrations faciles à réaliser : L'API SeaTable permet d'intégrer facilement des fournisseurs tiers tels que des services d'expédition ou des plateformes de commerce électronique."
       image_position: [left]
-      image: '/images/template_page_lagerverwaltung_01.png'
+      image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: "L'application SeaTable pour la gestion d'entrepôt avec solution flexible sans code, saisie de données en temps réel et collaboration en équipe"
 
     - name: "content-25"
@@ -90,19 +90,19 @@ sections:
       items:
       - headline: "Toutes les données des articles en un coup d'œil"
         text: "Créez vos produits et articles dans le tableau Article Master et reliez-le au tableau Warehouses and Capacity afin de disposer à tout moment de l'état actuel des stocks. Vous créez facilement de nouveaux articles ou produits à l'aide d'un formulaire."
-        image: '/images/template_page_lagerverwaltung_02.png'
+        image: '/images/template_page_lagerverwaltung_02.jpg'
         image_alt: “Vue d'ensemble des articles SeaTable dans Article Master avec lien vers la table des stocks et formulaire de création de nouveaux produits“
       - headline: 'Saisir facilement les entrées et sorties de marchandises'
         text: "Enregistrez les entrées et sorties de stock via un formulaire dans l'application Gestion des stocks. Pour ce faire, saisissez non seulement le stock et, le cas échéant, une description de l'état, mais aussi le lieu de stockage à partir duquel le stock doit être débité. Vos données de stock sont ainsi toujours à jour !"
-        image: '/images/template_page_lagerverwaltung_03.png'
+        image: '/images/template_page_lagerverwaltung_03.jpg'
         image_alt: "Formulaire de saisie des entrées et sorties de marchandises dans l'application de gestion d'entrepôt SeaTable, avec informations sur le stock, l'état et le lieu de stockage"
       - headline: "Aperçu de l'occupation et de l'utilisation des emplacements de stockage."
         text : "Reliez l'occupation et l'utilisation des emplacements de stockage à votre aperçu des produits et aux entrées et sorties de marchandises. Vous pouvez ainsi évaluer non seulement la rotation des marchandises, mais aussi le taux d'utilisation de l'espace de stockage - et réagir ainsi à temps en cas de besoin accru ou réduit."
-        image: '/images/template_page_lagerverwaltung_04.png'
+        image: '/images/template_page_lagerverwaltung_04.jpg'
         image_alt: "Aperçu de l'occupation des emplacements et de l'utilisation de l'entrepôt dans SeaTable, lié au stock de produits et aux entrées/sorties de marchandises"
       - headline: 'Notifications intégrées'
         text: "Un emplacement est surréservé ? Le stock de sécurité n'est plus atteint et il faut le réapprovisionner ? Utilisez les notifications automatisées pour ne plus négliger les changements de stock critiques."
-        image: '/images/template_page_lagerverwaltung_05.png'
+        image: '/images/template_page_lagerverwaltung_05.jpg'
         image_alt: “Application de gestion d'entrepôt SeaTable avec alertes automatisées en cas de surréservation et de stock de sécurité insuffisant“
 
     - name: "content-6"
@@ -114,7 +114,7 @@ sections:
       subtitle: 
       items:
       - text: "Utilisez l'application universelle No-Code comme frontal de gestion d'entrepôt en ligne et créez en quelques clics des formulaires, des vues claires ou des tableaux de bord avec des KPI pertinents pour vos analyses. La consultation des stocks et des entrepôts fournit des informations ciblées sur des produits individuels ou des informations d'occupation sur les emplacements de stockage - sans recherches manuelles fastidieuses."
-      image: '/images/template_page_lagerverwaltung_06.png'
+      image: '/images/template_page_lagerverwaltung_06.jpg'
       image_alt: “Application universelle SeaTable No-Code en tant que frontal pour la gestion d'entrepôt avec formulaires, tableaux de bord KPI et consultation ciblée des stocks“
 
     - name: "banner-3"
