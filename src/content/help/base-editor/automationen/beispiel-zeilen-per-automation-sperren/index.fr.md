@@ -72,7 +72,7 @@ Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article
 - [Aperçu des automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
 - [Fonctionnement des automatisations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
 - [Créer une automatisation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
-- [Gérer et éditer des automatisations]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Gérer et éditer des automatisations]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}})
 - [Arrêter les automatisations]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Supprimer des automatismes]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Afficher le journal d'exécution d'une automatisation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})

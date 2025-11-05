@@ -68,7 +68,7 @@ Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren eine
 - [Übersicht über Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
 - [Funktionsweise von Automationen]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
 - [Anlegen einer Automation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
-- [Automationen verwalten und bearbeiten]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Automationen verwalten und gruppieren]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}})
 - [Automationen stoppen]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Automationen löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Ausführungslog einer Automation anzeigen]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})

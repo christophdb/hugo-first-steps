@@ -72,7 +72,7 @@ Para mais informações sobre o bloqueio de filas, ver o artigo [Bloquear uma fi
 - [Visão geral das automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
 - [Funcionalidade das automatizações]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
 - [Criar uma automatização]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
-- [Gerir e editar automatismos]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Gerir e editar automatismos]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}})
 - [Parar as automatizações]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Eliminar automatizações]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Mostrar o registo de execução de uma automatização]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})

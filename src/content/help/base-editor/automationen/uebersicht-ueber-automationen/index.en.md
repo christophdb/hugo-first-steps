@@ -38,7 +38,7 @@ Learn how to create an automation [here]({{< relref "help/base-editor/automation
 
 Of course, you can edit already created, active automations afterwards. In this article, we will introduce you to the settings you can make when automating your work processes.
 
-Learn more about managing automations [here]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}}).
+Learn more about managing automations [here]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}}).
 
 ## Stop automations
 
