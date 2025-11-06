@@ -169,6 +169,8 @@ price_table:
     yearly_billing: 'Annual Billing'
     monthly_billing: 'Monthly Billing'
     min_100_users: 'Minimum 100 users'
+    team_saml: Single Sign-On via SAML
+    ai_credits_per_user: AI Credits per User
 
     year: Year
     years: Years
