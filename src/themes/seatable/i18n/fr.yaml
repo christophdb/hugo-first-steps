@@ -169,6 +169,8 @@ price_table:
     yearly_billing: 'Facturation annuelle'
     monthly_billing: 'Facturation mensuelle'
     min_100_users: 'Minimum 100 utilisateurs'
+    team_saml: Single Sign-On via SAML
+    ai_credits_per_user: Crédits IA par utilisateur
 
     year: Année
     years: Années

@@ -169,6 +169,8 @@ price_table:
     yearly_billing: 'Годовая оплата'
     monthly_billing: 'Ежемесячная оплата'
     min_100_users: 'Минимум 100 пользователей'
+    team_saml: Single Sign-On через SAML
+    ai_credits_per_user: Кредиты ИИ на пользователя
 
     year: Год
     years: Лет

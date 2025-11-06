@@ -169,6 +169,8 @@ price_table:
     yearly_billing: 'Jährliche Abrechnung'
     monthly_billing: 'Monatliche Abrechnung'
     min_100_users: 'Mindestens 100 Benutzer'
+    team_saml: Single Sign-On per SAML
+    ai_credits_per_user: KI-Credits pro Benutzer
 
     year: Jahr
     years: Jahre
