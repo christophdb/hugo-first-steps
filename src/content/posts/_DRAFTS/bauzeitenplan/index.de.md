@@ -123,6 +123,6 @@ Mit SeaTable können Sie Ihren Bauzeitenplan kostenlos erstellen, jederzeit anpa
 Der [Projektstrukturplan]({{< relref "posts/20250317-projektstrukturplan" >}}) zerlegt ein Bauprojekt in überschaubare Arbeitspakete und Teilprojekte. Er schafft die Grundlage dafür, die Arbeiten logisch zu ordnen. Darauf aufbauend legt der Projektzeitplan fest, wann diese Arbeitspakete ausgeführt werden sollen. Zusammen bilden sie die Basis für den Bauzeitenplan, indem sie Abhängigkeiten, Reihenfolgen und zeitliche Abläufe strukturieren, sodass das Bauprojekt effizient und termingerecht umgesetzt werden kann.
 {{< /faq >}}
 
-{{< faq "Welche Besonderheiten sind bei einem Bauablaufplan für Tiefbau zu berücksichtigen" >}}
+{{< faq "Welche Besonderheiten sind bei einem Bauablaufplan für Tiefbau zu berücksichtigen?" >}}
 Tiefbauprojekte erfordern besondere Abstimmungen zwischen Erdarbeiten, Leitungsverlegung und Fundamenten. Sicherheits- und Umweltvorgaben müssen streng eingehalten werden. Wetterabhängigkeiten und Materiallogistik sind kritisch für den Ablauf. Pufferzeiten sind besonders wichtig, da Verzögerungen oft Kettenreaktionen auslösen. Ein durchdachter Bauablaufplan sorgt so für einen effizienten und sicheren Projektverlauf.
 {{< /faq >}}
