@@ -86,16 +86,22 @@ pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
+name = "Operations"
+parent = "Lösungen"
+pageRef = "pages/industry-solutions/operations"
+weight = 37
+
+[[main]]
 name = "Sales"
 parent = "Lösungen"
 pageRef = "pages/industry-solutions/kundenmanagement"
-weight = 38
+weight = 39
 
 [[main]]
 name = "Finance"
 parent = "Lösungen"
 pageRef = "pages/industry-solutions/finanzplan-erstellen"
-weight = 37
+weight = 38
 
 [[main]]
 name = "Ressourcen"
