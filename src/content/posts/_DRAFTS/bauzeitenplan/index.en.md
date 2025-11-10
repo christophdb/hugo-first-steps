@@ -69,11 +69,11 @@ At the end comes the finishing touches. This involves acceptance, remaining work
 
 A construction schedule may seem complex at first glance, but with a clear approach it can be well structured and clearly laid out.
 
-1. record tasks and trades:** Start by collecting all the work that needs to be done during the entire project. List all trades and work steps - from the earthworks and shell construction to the roof, windows, interior fittings and outdoor facilities. A complete overview is the basis of every construction schedule.
+1. **record tasks and trades:** Start by collecting all the work that needs to be done during the entire project. List all trades and work steps - from the earthworks and shell construction to the roof, windows, interior fittings and outdoor facilities. A complete overview is the basis of every construction schedule.
 
 2. **Determine sequence and duration:** Then determine how long each task will take and in what order it should be carried out. Pay attention to logical dependencies: For example, the windows can only be installed once the shell has been completed.
 
-3. allow for buffer times:** On construction sites, things rarely go according to plan. Weather, delivery delays or technical problems can postpone deadlines. With sufficient buffer times, your construction schedule remains realistic and flexible.
+3. **allow for buffer times:** On construction sites, things rarely go according to plan. Weather, delivery delays or technical problems can postpone deadlines. With sufficient buffer times, your construction schedule remains realistic and flexible.
 
 ![House is built with a crane](hausbau.jpg)
 

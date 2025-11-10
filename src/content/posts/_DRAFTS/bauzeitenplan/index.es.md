@@ -69,17 +69,17 @@ Al final llegan los toques finales. Se trata de la recepción, los trabajos pend
 
 Un programa de construcción puede parecer complejo a primera vista, pero con un enfoque claro puede estar bien estructurado y claramente organizado.
 
-1 **Registre las tareas y los oficios:** Empiece por recopilar todo el trabajo que debe realizarse durante todo el proyecto. Enumera todos los oficios y fases de trabajo, desde el movimiento de tierras hasta el revestimiento, pasando por el tejado, las ventanas, las obras interiores y las instalaciones exteriores. Una visión general completa es la base de todo programa de construcción.
+1. **Registre las tareas y los oficios:** Empiece por recopilar todo el trabajo que debe realizarse durante todo el proyecto. Enumera todos los oficios y fases de trabajo, desde el movimiento de tierras hasta el revestimiento, pasando por el tejado, las ventanas, las obras interiores y las instalaciones exteriores. Una visión general completa es la base de todo programa de construcción.
 
-2 **Determina la secuencia y la duración:** A continuación, determina cuánto durará cada tarea y en qué orden debe llevarse a cabo. Presta atención a las dependencias lógicas: Por ejemplo, las ventanas sólo pueden instalarse una vez terminado el armazón.
+2. **Determina la secuencia y la duración:** A continuación, determina cuánto durará cada tarea y en qué orden debe llevarse a cabo. Presta atención a las dependencias lógicas: Por ejemplo, las ventanas sólo pueden instalarse una vez terminado el armazón.
 
-3. prever tiempos de espera:** En las obras, las cosas rara vez salen según lo previsto. El tiempo, los retrasos en las entregas o los problemas técnicos pueden retrasar los plazos. Con unos plazos de amortiguación suficientes, el calendario de obras sigue siendo realista y flexible.
+3. **prever tiempos de espera:** En las obras, las cosas rara vez salen según lo previsto. El tiempo, los retrasos en las entregas o los problemas técnicos pueden retrasar los plazos. Con unos plazos de amortiguación suficientes, el calendario de obras sigue siendo realista y flexible.
 
 ![La casa se construye con una grúa](hausbau.jpg)
 
 4.	**Visualizar el calendario:** Presente toda la información de forma clara. Un diagrama de Gantt o una vista general del calendario muestran de un vistazo qué trabajo se está ejecutando en paralelo y dónde están surgiendo posibles cuellos de botella.
 
-5 **Actualiza el plan con regularidad:** Un plan de obra no es un documento estático. En cuanto cambien las fechas o se completen las fases de trabajo, hay que ajustar el plan. Es la única forma de mantener una visión general del estado actual del proyecto en todo momento.
+5. **Actualiza el plan con regularidad:** Un plan de obra no es un documento estático. En cuanto cambien las fechas o se completen las fases de trabajo, hay que ajustar el plan. Es la única forma de mantener una visión general del estado actual del proyecto en todo momento.
 
 ## Errores típicos que debe evitar
 
