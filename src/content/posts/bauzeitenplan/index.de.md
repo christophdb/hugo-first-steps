@@ -11,8 +11,6 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
-draft: true
-
 ---
 
 Der Traum vom eigenen Haus ist für viele Menschen eines der größten Lebensziele. Doch zwischen Grundstückskauf, Genehmigungen und dem eigentlichen Bau gibt es unzählige Aufgaben, die Sie perfekt aufeinander abstimmen müssen. Damit die Bauplanung nicht im Chaos endet, braucht es einen klaren Fahrplan – den Bauzeitenplan.
@@ -99,7 +97,7 @@ Viele private Bauherren beginnen ihren Bauzeitenplan mit einer einfachen Excel-T
 
 Mit SeaTable können Sie Ihren Bauzeitenplan erstellen, jederzeit anpassen und mit anderen teilen. Änderungen werden automatisch übernommen, und Sie sehen sofort, wenn sich etwas verschiebt. Der [Bauzeitenplaner]({{< relref "templates/real-estate/construction-schedule" >}}) ist kostenlos und ideal für private Bauherren geeignet, die ihr Projekt strukturiert und übersichtlich managen möchten. 
 
-{{< template-box id="ef8bfa089/6864e698655" >}}
+{{< template-box id="ef8bfa0896864e698655" >}}
 
 Ob Sie einen Bauzeitenplan für eine Altbausanierung oder einen Bauablaufplan für Ihr Mehrfamilienhaus erstellen möchten, das kostenlose Template von SeaTable können Sie flexibel an Ihr Bauprojekt anpassen. Sie haben die Möglichkeit, zusätzliche Spalten einzufügen, etwa für Kosten, Liefertermine oder Materiallisten, und können Ihren Plan je nach Bedarf als Tabelle, Kalender oder Gantt-Diagramm darstellen.
 

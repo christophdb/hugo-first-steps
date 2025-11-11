@@ -11,8 +11,6 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
-draft: true
-
 ---
 
 Para muchas personas, el sueño de tener su propia casa es uno de sus grandes objetivos en la vida. Pero entre la compra de la parcela, la obtención de los permisos necesarios y la construcción propiamente dicha, hay innumerables tareas que deben coordinarse a la perfección. Para asegurarse de que la planificación de la construcción no acaba en caos, necesita un calendario claro: el calendario de construcción.
@@ -99,7 +97,7 @@ Muchos constructores privados empiezan su calendario de construcción con una si
 
 Con SeaTable, puede crear su programa de construcción, personalizarlo en cualquier momento y compartirlo con los demás. Los cambios se aplican automáticamente y puede ver inmediatamente si algo cambia. El sitio [Programador de obras]({{< relref "templates/real-estate/construction-schedule" >}}) es gratuito e ideal para constructores privados que deseen gestionar su proyecto de forma estructurada y clara.
 
-{{< template-box id="ef8bfa089/6864e698655" >}}
+{{< template-box id="ef8bfa0896864e698655" >}}
 
 Tanto si desea crear un plan de obra para la renovación de un edificio antiguo como un plan de obra para su bloque de apartamentos, puede personalizar de forma flexible la plantilla gratuita SeaTable para adaptarla a su proyecto de construcción. Tiene la opción de insertar columnas adicionales, por ejemplo para costes, fechas de entrega o listas de materiales, y puede mostrar su plan en forma de tabla, calendario o diagrama de Gantt, según desee.
 
