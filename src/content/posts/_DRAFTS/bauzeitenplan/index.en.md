@@ -11,6 +11,7 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
+draft: true
 ---
 
 For many people, the dream of owning their own home is one of their biggest goals in life. But between buying the plot of land, obtaining permits and the actual construction, there are countless tasks that need to be perfectly coordinated. To ensure that construction planning doesn't end in chaos, you need a clear timetable - the construction schedule.

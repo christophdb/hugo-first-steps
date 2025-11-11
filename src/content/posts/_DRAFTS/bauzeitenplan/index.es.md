@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
+draft: true
+
 ---
 
 Para muchas personas, el sueño de tener su propia casa es uno de sus grandes objetivos en la vida. Pero entre la compra de la parcela, la obtención de los permisos necesarios y la construcción propiamente dicha, hay innumerables tareas que deben coordinarse a la perfección. Para asegurarse de que la planificación de la construcción no acaba en caos, necesita un calendario claro: el calendario de construcción.
