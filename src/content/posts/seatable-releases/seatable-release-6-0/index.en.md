@@ -10,6 +10,8 @@ categories:
 seo:
     title:
     description:
+register:
+   show: true    
 ---
 
 SeaTable 6.0 combines the strengths of no-code and artificial intelligence (AI). **With the new AI functions**, data records can be analyzed, modified and expanded, documents evaluated and relevant information precisely extracted – all without worrying about data protection and confidentiality. SeaTable supports a wide range of AI providers and models and, needless to say, **self-hosting of AI models** is also possible. We take this approach in the interest of protecting your data.

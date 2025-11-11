@@ -12,6 +12,8 @@ tags:
     - 'Finances'
     - 'Créer son entreprise'
 color: '#969ed4'
+register:
+   show: true
 ---
 
 ## Qu'est-ce qu'un plan d'investissement ?

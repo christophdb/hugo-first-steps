@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#db5e32'
+register:
+   show: true
 ---
 
 Wussten Sie, dass über 50 Prozent aller Patientinnen und Patienten ab 65 Jahren täglich fünf oder mehr verschiedene Medikamente einnehmen? Das zeigt der Arzneimittelkompass 2022 des Wissenschaftlichen Instituts der AOK. Doch je mehr Medikamente Sie täglich einnehmen, desto schwieriger wird es, an alles zu denken: Welche Tablette müssen Sie wann einnehmen? In welcher Dosierung? Und sollten Sie das Mittel vor oder nach dem Essen zu sich nehmen?

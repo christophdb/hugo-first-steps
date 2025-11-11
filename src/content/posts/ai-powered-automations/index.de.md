@@ -15,6 +15,8 @@ tags:
     - 'Digitale Transformation'
     - 'Künstliche Intelligenz'
 color: '#f2d1e3'
+register:
+   show: true
 ---
 
 Der 1. Oktober 2025 markiert für uns bei SeaTable einen besonderen Moment: Die Veröffentlichung von Version 6.0. Und diese Version hat es in sich. Mit den neuen **KI unterstützten Automationen** schlagen wir ein ganz neues Kapitel auf – eines, das den Arbeitsalltag in Unternehmen spürbar verändern wird.

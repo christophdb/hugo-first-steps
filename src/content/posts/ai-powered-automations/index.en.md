@@ -15,6 +15,8 @@ tags:
     - 'Digital Transformation'
     - 'Artificial Intelligence'
 color: '#f2d1e3'
+register:
+   show: true
 ---
 
 October 1, 2025 marks a special moment for us at SeaTable: the release of version 6.0. And this version is a big step forward. With the new **AI powered automations**, we are opening a whole new chapter – one that will noticeably change everyday work in companies.

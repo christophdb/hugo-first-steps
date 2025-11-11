@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#db5e32'
+register:
+   show: true
 ---
 
 Did you know that over 50 percent of all patients aged 65 and over take five or more different medications every day? This is shown by the Medication Compass 2022 of the Scientific Institute of the AOK. But the more medication you take every day, the more difficult it becomes to remember everything: Which tablet do you need to take and when? In what dosage? And should you take the medicine before or after a meal?

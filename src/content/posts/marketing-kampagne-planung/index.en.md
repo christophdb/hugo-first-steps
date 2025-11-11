@@ -14,6 +14,8 @@ color: '#ea817a'
 seo:
     title: 'Tips for planning your marketing campaign'
     description: 'A marketing campaign is only as good as its planning - here are 6 tips for perfect preparation!'
+register:
+   show: true    
 ---
 
 ## What is a marketing campaign?

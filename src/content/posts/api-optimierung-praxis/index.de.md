@@ -7,6 +7,8 @@ seo:
 date: 2025-07-11
 url: '/de/api-optimierung'
 color: '#4e92a9'
+register:
+   show: true
 ---
 
 # API-Optimierung in der Praxis: Wie du mit weniger Calls die Limits einhältst und die Performance steigerst

@@ -12,6 +12,8 @@ tags:
     - 'Finanzen'
     - 'Build your Business'
 color: '#969ed4'
+register:
+   show: true
 ---
 
 ## Was ist ein Investitionsplan?

@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#db5e32'
+register:
+   show: true
 ---
 
 Sabia que mais de 50 por cento de todos os doentes com 65 anos ou mais tomam cinco ou mais medicamentos diferentes todos os dias? É o que revela a Bússola Farmacêutica 2022 do Instituto Científico da AOK. Mas quanto mais medicamentos tomar todos os dias, mais difícil se torna lembrar-se de tudo: que comprimido tem de tomar e quando? Em que dosagem? E deve tomar o medicamento antes ou depois de uma refeição?

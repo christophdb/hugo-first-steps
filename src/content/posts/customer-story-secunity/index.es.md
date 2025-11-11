@@ -16,6 +16,8 @@ tags:
     - 'Trabajo en colaboración'
 color: '#5a97bc'
 url: '/es/secunity-crecimiento'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-secunity.jpg" firma="SecUnity GmbH" branche="Servicios gestionados de seguridad informática" ort="Alemania" >}}

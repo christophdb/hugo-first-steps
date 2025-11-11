@@ -12,6 +12,8 @@ tags:
     - 'No Code / Low Code'
 color: '#73aecf'
 url: '/es/johannes-fontanus-college-soporte-informatico'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Institución educativa" ort="Los Países Bajos" >}}

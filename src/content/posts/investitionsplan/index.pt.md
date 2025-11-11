@@ -12,6 +12,8 @@ tags:
     - 'Finanças'
     - 'Criar a sua empresa'
 color: '#969ed4'
+register:
+   show: true
 ---
 
 ## O que é um plano de investimento?

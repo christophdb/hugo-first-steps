@@ -11,6 +11,8 @@ tags:
     - 'Public Sector'
 color: '#f4ba81'
 url: '/johannes-fontanus-college-exam administration'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Educational institution" ort="The Netherlands" >}}

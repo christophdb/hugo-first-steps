@@ -14,6 +14,8 @@ color: '#ea817a'
 seo:
     title: 'Consejos para planificar su campaña de marketing'
     description: 'Una campaña de marketing es tan buena como su planificación - aquí tiene 6 consejos para una preparación perfecta!'
+register:
+   show: true    
 ---
 
 ## ¿Qué es una campaña de marketing?

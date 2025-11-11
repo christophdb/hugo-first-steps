@@ -12,6 +12,8 @@ tags:
     - 'Gestión de clientes'
 color: '#28544b'
 url: '/es/leuchtturm1917-gestion-de-suministros'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Papelería y cuadernos" ort="Alemania" >}}

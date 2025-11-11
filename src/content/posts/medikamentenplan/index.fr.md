@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#db5e32'
+register:
+   show: true
 ---
 
 Saviez-vous que plus de 50 pour cent des patients âgés de 65 ans et plus prennent quotidiennement cinq médicaments différents ou plus ? C'est ce que montre le Compas des médicaments 2022 de l'Institut scientifique de l'AOK. Mais plus vous prenez de médicaments chaque jour, plus il est difficile de penser à tout : quel comprimé prendre et à quel moment ? Dans quel dosage ? Et faut-il prendre le médicament avant ou après le repas ?

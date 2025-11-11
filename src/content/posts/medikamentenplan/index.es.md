@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#db5e32'
+register:
+   show: true
 ---
 
 ¿Sabía que más del 50% de todos los pacientes mayores de 65 años toman cinco o más medicamentos diferentes cada día? Así lo demuestra la Brújula Farmacéutica 2022 del Instituto Científico de la AOK. Pero cuantos más medicamentos se toman cada día, más difícil resulta recordarlo todo: ¿Qué comprimido hay que tomar y cuándo? ¿En qué dosis? ¿Y debe tomar el medicamento antes o después de comer?

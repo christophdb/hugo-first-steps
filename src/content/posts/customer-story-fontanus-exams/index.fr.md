@@ -11,6 +11,8 @@ tags:
     - 'Administration publique'
 color: '#f4ba81'
 url: '/fr/johannes-fontanus-college-examens-administration'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Établissement d'enseignement" ort="Les Pays-Bas" >}}

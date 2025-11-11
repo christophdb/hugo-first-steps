@@ -12,6 +12,8 @@ tags:
     - 'Relation Client'
 color: '#28544b'
 url: '/fr/leuchtturm1917-gestion-offre'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Papeterie et carnets de notes" ort="Allemagne" >}}

@@ -17,6 +17,8 @@ tags:
     - 'Marketingplanung'
     - 'Kundenmanagement'
     - 'Datenmanagement & Visualisierung'
+register:
+   show: true 
 ---
 
 ## Welche Vorteile bietet eine Online Umfrage?

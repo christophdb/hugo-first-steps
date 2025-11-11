@@ -16,6 +16,8 @@ tags:
     - 'cовместная работа'
 color: '#5a97bc'
 url: '/ru/secunity-rost'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-secunity.jpg" firma="SecUnity GmbH" branche="Услуги по управлению ИТ-безопасностью" ort="Германия" >}}

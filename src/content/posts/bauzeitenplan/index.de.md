@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
+register:
+   show: true
 ---
 
 Der Traum vom eigenen Haus ist für viele Menschen eines der größten Lebensziele. Doch zwischen Grundstückskauf, Genehmigungen und dem eigentlichen Bau gibt es unzählige Aufgaben, die Sie perfekt aufeinander abstimmen müssen. Damit die Bauplanung nicht im Chaos endet, braucht es einen klaren Fahrplan – den Bauzeitenplan.

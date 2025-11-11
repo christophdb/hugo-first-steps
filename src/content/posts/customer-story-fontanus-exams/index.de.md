@@ -11,6 +11,8 @@ tags:
     - 'Öffentliche Verwaltung'
 color: '#f4ba81'
 url: '/de/johannes-fontanus-college-examensverwaltung'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Bildungseinrichtung" ort="Niederlande" >}}

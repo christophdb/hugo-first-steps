@@ -10,6 +10,8 @@ categories:
 seo:
     title:
     description:
+register:
+   show: true    
 ---
 
 SeaTable 6.0 combina los puntos fuertes del no-código y de la inteligencia artificial (IA). **Con las nuevas funciones de IA** se pueden analizar, modificar y ampliar los registros de datos, evaluar los documentos y extraer con precisión la información relevante. Y todo ello sin preocuparse por la protección y confidencialidad de los datos: SeaTable es compatible con una amplia gama de proveedores y modelos de IA. Por supuesto, también es posible el **autoalojamiento de modelos de IA**. Adoptamos este enfoque en aras de la protección de sus datos.
