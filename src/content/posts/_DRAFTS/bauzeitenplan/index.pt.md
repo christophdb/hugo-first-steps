@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
+draft: true
+
 ---
 
 Para muitas pessoas, o sonho de ter a sua própria casa é um dos seus maiores objectivos na vida. Mas entre a compra do terreno, a obtenção das licenças necessárias e a construção propriamente dita, há inúmeras tarefas que têm de ser perfeitamente coordenadas. Para que o planeamento da construção não acabe em caos, é necessário um calendário claro - o plano de construção.
