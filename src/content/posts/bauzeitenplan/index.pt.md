@@ -11,8 +11,6 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
-draft: true
-
 ---
 
 Para muitas pessoas, o sonho de ter a sua própria casa é um dos seus maiores objectivos na vida. Mas entre a compra do terreno, a obtenção das licenças necessárias e a construção propriamente dita, há inúmeras tarefas que têm de ser perfeitamente coordenadas. Para que o planeamento da construção não acabe em caos, é necessário um calendário claro - o plano de construção.
@@ -99,7 +97,7 @@ Muitos construtores privados começam o seu plano de construção com uma simple
 
 Com o SeaTable, pode criar o seu calendário de construção, personalizá-lo a qualquer momento e partilhá-lo com outras pessoas. As alterações são aplicadas automaticamente e pode ver imediatamente se algo muda. O [programador de construção]({{< relref "templates/real-estate/construction-schedule" >}}) é gratuito e ideal para construtores privados que pretendam gerir o seu projeto de forma estruturada e clara.
 
-{{< template-box id="ef8bfa089/6864e698655" >}}
+{{< template-box id="ef8bfa0896864e698655" >}}
 
 Quer pretenda criar um plano de construção para a renovação de um edifício antigo ou um plano de construção para o seu bloco de apartamentos, pode personalizar de forma flexível o modelo gratuito SeaTable de acordo com o seu projeto de construção. Tem a opção de inserir colunas adicionais, por exemplo, para custos, datas de entrega ou listas de materiais, e pode apresentar o seu plano como uma tabela, calendário ou gráfico de Gantt, conforme necessário.
 

@@ -11,8 +11,6 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
-draft: true
-
 ---
 
 Pour de nombreuses personnes, le rêve d'avoir sa propre maison est l'un des plus grands objectifs de la vie. Mais entre l'achat du terrain, les autorisations et la construction proprement dite, il y a d'innombrables tâches que vous devez parfaitement coordonner. Pour que la planification de la construction ne se termine pas dans le chaos, il faut une feuille de route claire - le calendrier de construction.
@@ -99,7 +97,7 @@ De nombreux maîtres d'ouvrage privés commencent leur calendrier de constructio
 
 Avec SeaTable, vous pouvez créer votre calendrier de construction, l'adapter à tout moment et le partager avec d'autres. Les modifications sont automatiquement prises en compte et vous voyez immédiatement si quelque chose a été déplacé. Le [calendrier de construction]({{< relref "templates/real-estate/construction-schedule" >}}) est gratuit et convient parfaitement aux maîtres d'ouvrage privés qui souhaitent gérer leur projet de manière structurée et claire.
 
-{{< template-box id="ef8bfa089/6864e698655" >}}
+{{< template-box id="ef8bfa0896864e698655" >}}
 
 Que vous souhaitiez créer un calendrier de construction pour la rénovation d'un bâtiment ancien ou un calendrier de construction pour votre immeuble, le modèle gratuit de SeaTable peut être adapté de manière flexible à votre projet de construction. Vous avez la possibilité d'ajouter des colonnes supplémentaires, par exemple pour les coûts, les dates de livraison ou les listes de matériaux, et vous pouvez présenter votre plan sous forme de tableau, de calendrier ou de diagramme de Gantt, selon vos besoins.
 

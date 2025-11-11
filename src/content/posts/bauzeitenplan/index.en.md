@@ -11,7 +11,6 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
-draft: true
 ---
 
 For many people, the dream of owning their own home is one of their biggest goals in life. But between buying the plot of land, obtaining permits and the actual construction, there are countless tasks that need to be perfectly coordinated. To ensure that construction planning doesn't end in chaos, you need a clear timetable - the construction schedule.
@@ -98,7 +97,7 @@ Many private builders start their construction schedule with a simple Excel spre
 
 With SeaTable, you can create your construction schedule, adjust it at any time and share it with others. Changes are automatically applied and you can see immediately if something shifts. The [construction schedule]({{< relref "templates/real-estate/construction-schedule" >}}) is free of charge and ideal for private builders who want to manage their project in a structured and clear way.
 
-{{< template-box id="ef8bfa089/6864e698655" >}}
+{{< template-box id="ef8bfa0896864e698655" >}}
 
 Whether you want to create a construction schedule for an old building renovation or a construction schedule for your apartment building, you can flexibly adapt the free SeaTable template to your construction project. You have the option of inserting additional columns, for example for costs, delivery dates or material lists, and can display your plan as a table, calendar or Gantt chart as required.
 
