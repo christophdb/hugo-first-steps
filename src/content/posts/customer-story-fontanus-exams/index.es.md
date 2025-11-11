@@ -11,6 +11,8 @@ tags:
     - 'Sector público'
 color: '#f4ba81'
 url: '/es/johannes-fontanus-college-administracion-de-examenes'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Institución educativa" ort="Los Países Bajos" >}}

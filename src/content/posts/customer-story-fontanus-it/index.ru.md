@@ -12,6 +12,8 @@ tags:
     - 'No Code / Low Code'
 color: '#73aecf'
 url: '/ru/johannes-fontanus-college-it-poddepshka'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Учебное заведение" ort="Нидерланды" >}}

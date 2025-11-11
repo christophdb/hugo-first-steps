@@ -10,6 +10,8 @@ categories:
 seo:
     title:
     description:
+register:
+   show: true    
 ---
 
 SeaTable 6.0 vereint die Stärken von No-Code und künstlicher Intelligenz (KI). **Mit den neuen KI-Funktionen** lassen sich Datensätze analysieren, modifizieren und erweitern, Dokumente auswerten und relevante Informationen präzise extrahieren. Und das ganz ohne Sorgenfalten in Sachen Datenschutz und Vertraulichkeit: SeaTable unterstützt eine Vielzahl von KI-Anbietern und -Modellen. Natürlich ist auch das **Selbsthosting von KI-Modellen** möglich. Diesen Weg gehen wir im Interesse des Schutzes Ihrer Daten.

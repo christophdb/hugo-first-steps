@@ -12,6 +12,8 @@ color: '#ea817a'
 seo:
     title: 'Tipps für die Planung Ihrer Marketingkampagne'
     description: 'Eine Marketingkampagne ist nur so gut wie ihre Planung – hier finden Sie 6 Tipps für die perfekte Vorbereitung!'
+register:
+   show: true    
 ---
 
 ## Was ist eine Marketingkampagne?

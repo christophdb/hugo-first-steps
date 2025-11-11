@@ -12,6 +12,8 @@ tags:
     - 'Управление клиентами'
 color: '#28544b'
 url: '/ru/leuchtturm1917-upravlenije-postavkami'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Канцелярские принадлежности и блокноты" ort="Германия" >}}

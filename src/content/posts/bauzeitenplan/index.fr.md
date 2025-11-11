@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#75bfb2'
+register:
+   show: true
 ---
 
 Pour de nombreuses personnes, le rêve d'avoir sa propre maison est l'un des plus grands objectifs de la vie. Mais entre l'achat du terrain, les autorisations et la construction proprement dite, il y a d'innombrables tâches que vous devez parfaitement coordonner. Pour que la planification de la construction ne se termine pas dans le chaos, il faut une feuille de route claire - le calendrier de construction.

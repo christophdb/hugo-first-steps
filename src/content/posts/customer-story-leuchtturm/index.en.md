@@ -12,6 +12,8 @@ tags:
     - 'Customer Relationship Management'
 color: '#28544b'
 url: '/leuchtturm1917-quotation-management'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Stationery and notebooks" ort="Germany" >}}

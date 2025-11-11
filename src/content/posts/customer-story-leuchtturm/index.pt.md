@@ -12,6 +12,8 @@ tags:
     - 'Gestão de clientes'
 color: '#28544b'
 url: '/pt/leuchtturm1917-gestao-do-aprovisionamento'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Artigos de papelaria e cadernos" ort="Alemanha" >}}

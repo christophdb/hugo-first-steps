@@ -11,6 +11,8 @@ tags:
     - 'Государственный сектор'
 color: '#f4ba81'
 url: '/ru/johannes-fontanus-college-administrurovanije-jekjamenov'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Учебное заведение" ort="Нидерланд" >}}

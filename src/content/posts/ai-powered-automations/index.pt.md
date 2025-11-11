@@ -15,6 +15,8 @@ tags:
     - 'Transformação Digital'
     - 'Inteligência Artificial'
 color: '#f2d1e3'
+register:
+   show: true
 ---
 
 1 de outubro de 2025 marca um momento especial para nós na SeaTable: o lançamento da versão 6.0. E esta versão representa um grande avanço. Com as novas **automatizações impulsionadas por IA**, abrimos um novo capítulo – um que mudará visivelmente o trabalho diário nas empresas.

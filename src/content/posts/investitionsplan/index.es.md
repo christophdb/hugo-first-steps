@@ -12,6 +12,8 @@ tags:
     - 'Finanzas'
     - 'Construya su empresa'
 color: '#969ed4'
+register:
+   show: true
 ---
 
 ## ¿Qué es un plan de inversión?

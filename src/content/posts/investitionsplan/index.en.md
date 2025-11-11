@@ -12,6 +12,8 @@ tags:
     - 'Finances'
     - 'Build your Business'
 color: '#969ed4'
+register:
+   show: true
 ---
 
 ## What is an investment plan?

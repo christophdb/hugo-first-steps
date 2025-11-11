@@ -16,6 +16,8 @@ tags:
     - 'Kollaboratives Arbeiten'
 color: '#5a97bc'
 url: '/de/secunity-growth'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo-secunity.jpg" firma="SecUnity GmbH" branche="IT Security Managed Services" ort="Deutschland" >}}

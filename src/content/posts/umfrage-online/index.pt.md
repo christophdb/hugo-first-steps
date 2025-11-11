@@ -18,6 +18,8 @@ tags:
     - 'Planeamento de marketing'
     - 'Gestão de clientes'
     - 'Gestão e visualização de dados'
+register:
+   show: true
 ---
 
 ## Quais são as vantagens de um inquérito em linha?

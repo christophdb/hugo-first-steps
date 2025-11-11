@@ -12,6 +12,8 @@ tags:
     - 'Kundenmanagement'
 color: '#28544b'
 url: '/de/leuchtturm1917-angebotsmanagement'
+register:
+   show: true
 ---
 
 {{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Schreibwaren und Notizbücher" ort="Deutschland" >}}

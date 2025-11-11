@@ -14,6 +14,8 @@ color: '#ea817a'
 seo:
     title: Conseils pour la planification de votre campagne de marketing
     description: "Une campagne de marketing ne vaut que ce qu'elle vaut en termes de planification - voici 6 conseils pour une préparation parfaite !"
+register:
+   show: true    
 ---
 
 ## Qu'est-ce qu'une campagne de marketing ?

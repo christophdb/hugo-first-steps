@@ -18,6 +18,8 @@ tags:
     - 'Planificación de marketing'
     - 'Gestión de clientes'
     - 'Gestión y visualización de datos'
+register:
+   show: true
 ---
 
 ## ¿Cuáles son las ventajas de una encuesta en línea?

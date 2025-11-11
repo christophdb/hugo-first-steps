@@ -18,6 +18,8 @@ tags:
     - 'Planification marketing'
     - 'Relation Client'
     - 'Gestion des données & visualisation'
+register:
+   show: true
 ---
 
 ## Quels sont les avantages d'une enquête en ligne ?
