@@ -36,14 +36,15 @@ sections:
             text: 'Toda la información en pocas palabras'
             image: /images/seatable-presentations.jpg
             image_alt:
-          - headline: 'Comunicados de prensa'
-            text: 'Todas las últimas noticias sobre SeaTable'
-            image: /images/seatable-press-release.png
-            image_alt:
           - headline: 'Material gráfico'
             text: 'Todas las capturas de pantalla, fotos y logos'
             image: /images/seatable-screenshots.png
             image_alt:
+          - headline: 'Comunicados de prensa'
+            text: 'Todas las últimas noticias sobre SeaTable'
+            image: /images/seatable-press-release-6-0.jpg
+            image_alt:
+          
       buttons:
           - label: 'Consulte nuestro kit de prensa y medios'
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
