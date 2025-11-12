@@ -86,6 +86,8 @@ sections:
             text: <span class='gradient'>SeaTable 5.0</span> marca um novo marco no mundo no-code
           - date: 02/2025
             text: <span class='gradient'>seatable.com</span> vê a luz do dia
+          - date: 11/2025
+            text: <span class='gradient'>SeaTable 6.0</span> junta a IA e o no-code para criar a primeira solução de IA no-code compatível com o RGPD
 
     - name: content-18
       weight: 6

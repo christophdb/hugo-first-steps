@@ -86,6 +86,8 @@ sections:
             text: <span class='gradient'>SeaTable 5.0</span> marks a new milestone in the no-code world
           - date: 02/2025
             text: <span class='gradient'>seatable.com</span> sees the light of day
+          - date: 11/2025
+            text: <span class='gradient'>SeaTable 6.0</span> brings AI and no-code together to create the first GDPR-compliant AI no-code solution
 
     - name: content-18
       weight: 6

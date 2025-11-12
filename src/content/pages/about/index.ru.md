@@ -88,6 +88,8 @@ sections:
             text: <span class='gradient'>SeaTable 5.0</span> - новый рубеж в мире no-code
           - date: 02/2025
             text: Запуск <span class='gradient'>seatable.com</span>
+          - date: 11/2025
+            text: <span class='gradient'>SeaTable 6.0</span> объединяет искусственный интеллект и "нет-код", создавая первое "нет-код" решение на основе искусственного интеллекта, соответствующее требованиям GDPR
 
     - name: content-18
       weight: 6
