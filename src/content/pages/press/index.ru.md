@@ -36,14 +36,15 @@ sections:
         text: 'Вся информация в двух словах'
         image: /images/seatable-presentations.jpg
         image_alt:
-      - headline: 'Пресс-релизы'
-        text: 'Все последние новости о SeaTable'
-        image: /images/seatable-press-release.png
-        image_alt:
       - headline: 'Изображения'
         text: 'Все скриншоты, фотографии и логотипы'
         image: /images/seatable-screenshots.png
         image_alt:
+      - headline: 'Пресс-релизы'
+        text: 'Все последние новости о SeaTable'
+        image: /images/seatable-press-release-6-0.jpg
+        image_alt:
+      
       buttons:
           - label: 'Просмотрите нашу подборку материалов для прессы и СМИ'
             link: 'https://cloud.seatable.io/apps/custom/press-and-media-kit'
