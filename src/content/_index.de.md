@@ -25,7 +25,7 @@ sections:
 - name: content-4
   weight: 2
   subtitle: 'Was ist SeaTable?'
-  title: 'No-Code-Plattform: So flexibel wie Excelmit der Power einer Datenbank.'
+  title: 'No-Code-Plattform: So flexibel wie Excel mit der Power einer Datenbank.'
   text: 'SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und viele weitere – alles komfortabel und ohne Programmierkenntnisse direkt im Webbrowser verwalten.'
   buttons:
     - label: 'Jetzt ausprobieren'
