@@ -2,61 +2,158 @@
 title: 'Modelo de quadro Kanban'
 description: ''
 date: '2025-03-05'
-url: '/pt/modelo/kanban-board'
+url: '/pt/modelo/quadro-kanban-gratis'
+aliases:
+    - '/pt/modelo/kanban-board'
 category: 'projects'
 functions:
 seo:
-    title: 'Template Kanban Board: projetos sob controle'
-    description: 'Visualize seus fluxos de trabalho e tarefas: kanban digital grátis, personalizável e ideal para colaboração.'
+    title: 'Quadro Kanban Grátis SeaTable: online, seguro e personalizável'
+    description: 'Gerencie fluxos de trabalho com o quadro Kanban do SeaTable: template customizável, cloud ou local, conforme RGPD, com IA. Use grátis agora!'
 template: '932ed68b8ffc4a689819'
+
+
+type: pages
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'SeaTable - O seu quadro Kanban Freeware'
+      text: 'Visualize os seus fluxos de trabalho com o SeaTables Kanban Board Freeware para uma gestão eficiente das tarefas. Personalizável - escalável - compatível com o RGPD - com suporte de IA.'
+      classes:
+          - bg-white
+      template: 895068666cae411b9da7
+      buttons:
+          - label: Registe-se agora gratuitamente e utilize o modelo
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'Software de quadro Kanban para equipas ágeis'
+      subtitle: Utilize o quadro Kanban online
+      text: 
+      items:
+        - icon: 'check'
+          headline: 'Intuitivo'
+          text: 'O modelo de quadro Kanban de fácil utilização é fácil de compreender e menos propenso a erros do que um quadro Kanban em Excel ou cartões manuscritos.'
+        - icon: 'palette'
+          headline: 'Flexível'
+          text: 'Adicione as tabelas, colunas e ligações que desejar. Personalize o modelo de acordo com as suas necessidades individuais - sem apoio informático.'
+        - icon: 'bullseye'
+          headline: 'Transparente'
+          text: 'Você e a sua equipa trabalham em conjunto em tempo real. Isto significa que todos têm sempre as informações e os dados mais recentes - sem necessidade de reuniões de atualização.'
+        - icon: 'wand-magic-sparkles'
+          headline: 'Automatização da IA'
+          text: 'As automatizações integradas com suporte de IA do SeaTable permitem processos ainda mais eficientes - em conformidade com o RGPD graças ao seu próprio servidor de IA.' 
+        - icon: 'chart-simple'
+          headline: 'Análise'
+          text: 'Com apenas alguns cliques, pode criar painéis de análise apelativos para analisar e otimizar os seus processos.'
+        - icon: 'lock'
+          headline: 'Autorizações'
+          text: 'Com autorizações ajustáveis individualmente, pode determinar quem tem permissão para ver ou editar quadros Kanban e determinadas informações.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "As empresas líderes a nível mundial confiam no SeaTable"
+      subtitle: "Quem utiliza o SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads no primeiro ano do Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários no SeaTable Cloud"
+      - number: "4.6"
+        text: "Classificação em Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em utilização - histórias de sucesso"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Utilize o quadro Kanban online com o SeaTable'
+      subtitle: 'As suas vantagens'
+      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e capacidade de personalização. Com o nosso freeware Kanban Board, beneficia de muitas vantagens e pode também mapear processos dinâmicos.'
+      items:
+      - text: 'Sempre atualizado: Mantenha-se sempre atualizado graças às funções de comunicação, ao histórico completo de alterações e à atualização em tempo real.'
+      - text: 'Acesso a partir de qualquer lugar: Com um quadro Kanban online, pode aceder a qualquer momento e proteger os seus dados contra perda.'
+      - text: 'Proteção de dados: O SeaTable Cloud e o servidor SeaTable AI estão alojados exclusivamente na Alemanha.'
+      - text: 'Escalável: O nosso modelo Kanban cresce com as suas necessidades - independentemente do número de equipas ou funcionários que tenha.'
+      image_position: [left]
+      image: '/images/template_page_kanban_01.jpg'
+      image_alt: 'O quadro Kanban flexível do SeaTable está sempre atualizado graças à comunicação em tempo real e ao histórico de alterações. Oferece acesso online seguro e máxima proteção de dados graças ao alojamento alemão. A solução cresce com a sua equipa - independentemente do número de funcionários que tenha.'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Como funciona o freeware Kanban Board'
+      subtitle: 'Utilize o Kanban'
+      items:
+      - headline: 'Crie novas tarefas facilmente'
+        text: 'Basta criar novas tarefas utilizando um formulário e atribuí-las diretamente aos seus empregados. Todas as tarefas podem ser visualizadas na tabela "Tarefas do projeto", como uma folha de cálculo ou na vista Kanban.'
+        image: '/images/template_page_kanban_02.jpg'
+        image_alt: 'Crie tarefas no quadro Kanban com apenas alguns cliques, atribua-as aos membros da equipa e mantenha tudo claramente organizado.'
+      - headline: 'Tarefas de grupo'
+        text: 'O SeaTable oferece-lhe amplas opções de filtragem e agrupamento. Isto significa que pode sempre apresentar as suas tarefas exatamente como precisa delas. As tarefas podem ser simplesmente deslocadas no quadro utilizando a função arrastar e largar.'
+        image: '/images/template_page_kanban_03.jpg'
+        image_alt: 'Agrupe, filtre e mova tarefas de forma conveniente utilizando a função arrastar e largar no quadro Kanban para obter uma visão geral completa do projeto.'
+      - headline: 'Comunicação'
+        text: 'Basta comentar uma tarefa e @mencionar todas as pessoas que pretende que participem na conversa. Ou crie regras de notificação para se manter informado sobre actualizações importantes.'
+        image: '/images/template_page_kanban_04.jpg'
+        image_alt: 'Comente e marque tarefas diretamente no quadro Kanban e informe a sua equipa diretamente através de notificações.'
+      - headline: 'Defina limites de WIP'
+        text: 'Os limites WIP são um elemento central de um quadro Kanban eficazmente utilizado. Defina limites individuais para cada membro da equipa ou para equipas inteiras no quadro "Trabalho em curso" - e controle os seus recursos de forma eficiente.'
+        image: '/images/template_page_kanban_05.jpg'
+        image_alt: 'Defina os limites de WIP no quadro Kanban e faça uma gestão eficiente da carga de trabalho da equipa no quadro Trabalho em curso.'
+            
+    - name: "content-6"
+      weight: 12
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'A sua aplicação Kanban personalizada'
+      subtitle: 
+      items:
+      - text: 'Com o construtor de aplicações sem código integrado do SeaTable, pode criar o seu front end Kanban personalizado com pouco esforço. Utilize o Kanban na gestão de projectos, por exemplo, e crie diferentes páginas e painéis de controlo para os colaboradores e as partes interessadas, partilhe os quadros com entidades externas através de uma ligação e guarde informações adicionais importantes. A proteção por palavra-passe e as autorizações definidas pelo utilizador oferecem segurança adicional.'
+      image: '/images/template_page_kanban_06.jpg'
+      image_alt: 'Crie quadros Kanban e dashboards personalizados com o SeaTable App Builder - basta partilhar, guardar e utilizar de forma flexível para a gestão de projectos.'
+
+    - name: "banner-3"
+      weight: 15
+      title: 'Tire o máximo partido das suas capacidades - com o SeaTable'
+      buttons:
+        - label: Utilize o quadro Kanban agora
+          link: pages/registration
+          
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Software gratuito de quadros Kanban para todos os casos de utilização'
+      subtitle: 'Segurança máxima'
+      description: 'O SeaTable é uma solução moderna de base de dados sem código de IA com automações e construtor de aplicações e oferece todas as funções de que necessita para uma ferramenta Kanban digital e integrada. A proteção dos seus dados é a nossa principal prioridade.'
+      box-position: [right!]
+      items:
+      - headline: Em conformidade com o RGPD
+        text: 'SeaTable Cloud: Se utilizar o SeaTable Cloud ou a nossa IA integrada, todos os seus dados permanecem na Europa. A nossa infraestrutura está alojada exclusivamente em servidores na Alemanha.'
+      - headline: 2FA e SSO
+        text: 'O SeaTable suporta todas as técnicas de autenticação comuns e permite a autenticação de dois factores e o SSO. Porque é você que decide quem tem acesso aos seus dados.'
+
+    - name: "faq"
+      weight: 20
+      title: 'Perguntas frequentes sobre o modelo de quadro Kanban da SeaTable'
+      subtitle: 
+      items:
+      - q: "Posso utilizar o modelo Kanban do SeaTable gratuitamente?"
+        a: 'Sim, pode utilizar todos os modelos gratuitamente por um período de tempo ilimitado. Tudo o que precisa é de uma conta gratuita e pode começar a utilizar o seu Kanban Board freeware imediatamente.'
+      - q: "O SeaTable, enquanto ferramenta Kanban, permite-me definir limites de WIP?"
+        a: "Sim, no nosso modelo pode definir limites individuais para cada membro da equipa na tabela Limite WIP. Pode utilizar a função de notificação integrada para definir alertas se um limite for ultrapassado. Já foi criado um exemplo de notificação na nossa ferramenta Kanban."
+      - q: "Gostaria que os membros da minha equipa vissem apenas as suas próprias tarefas. É possível?"
+        a: 'Quando cria um quadro Kanban digital com o SeaTable, pode definir direitos de leitura e de acesso. Por exemplo, pode criar um quadro Kanban para as suas equipas e um quadro separado para cada membro da equipa que só pode ser visto por eles.'
+      - q: "Gostaria de utilizar o SeaTable como uma ferramenta Kanban. Existe apoio gratuito?"
+        a: 'Sim, pode contactar a nossa equipa de apoio com questões de qualquer tipo. Pode colocar uma questão no nosso Fórum da Comunidade ou contactar-nos diretamente por correio eletrónico.'
+
 ---
-
-É necessária uma abordagem estruturada nagestão de projectos. Muitas equipas utilizam o método Kanban para este fim - seja no desenvolvimento de software, marketing ou gestão de produtos. Um quadro Kanban digital não só é adequado para inúmeras aplicações, como também torna os processos mais claros e eficientes. Se quiser começar com um quadro Kanban típico e gratuito, recomendamos o modelo de quadro Kanban da SeaTable.
-
-## O que é um quadro Kanban?
-
-Um modelo de quadro Kanban consiste em cartões nos quais são anotadas tarefas importantes e colunas que representam etapas do processo. Dependendo do estado de processamento, os cartões passam pelas várias estações: Isto resulta num fluxo contínuo de cartões, por exemplo, de "a fazer" para "em curso" e para "concluído". Em suma: o quadro Kanban é utilizado para visualizar fluxos de trabalho.
-
-## Como é que se pode criar um quadro Kanban digital?
-
-Para criar um quadro Kanban digital, tem à sua disposição váriasferramentas de gestão de projectos, como Asana, Monday ou Trello, que podem funcionar como software de quadro Kanban. No entanto, apesar dos seus respectivos pontos fortes, estas ferramentas atingem frequentemente os seus limites quando se trata de grandes quantidades de dados e de funções avançadas de gestão de dados.
-
-É aqui que entra a base de dados sem código SeaTable, que oferece umsoftware de quadro Kanban flexível, personalizável e gratuito, que também é adequado para grandes volumes de dados. Visualize todo o processo do seu projeto no SeaTable e conceba o modelo de quadro Kanban de acordo com as suas necessidades! Não importa se pretende visualizar um quadro Kanban clássico por estado de trabalho ou um processo interno especial: O SeaTable oferece-lhe a flexibilidade de que necessita para os seus fluxos de trabalho.
-
-A grande vantagem: o SeaTable pode ser utilizado não só como software de quadro Kanban, mas também para inúmeras outras aplicações, por exemplo, na gestão de projectos, marketing ou desenvolvimento de software. Isto dá-lhe uma solução tudo-em-um e reduz a utilização de diferentes programas.
-
-## Vantagens do modelo de quadro Kanban num relance
-
--Gratuito: Para utilizar o quadro Kanban gratuitamente,basta registar-secom o seu endereço de correio eletrónico.
-
--Intuitivo: O modelo de quadro Kanban de fácil utilização é fácil de compreender e menos propenso a erros do que um quadro Kanban em Excel ou cartões manuscritos.
-
--Flexível:Adicione quantas colunas quiser e personalize o modelo de acordo com as suas necessidades individuais.
-
--Proteção de dados: O armazenamento seguro e compatível com o RGPD dos dados na nuvem ou no local permite um controlo total, tal como os direitos de acesso granulares.
-
--Prático: Se criar o seu quadro Kanban digital em linha, pode aceder-lhe a partir de qualquer lugar e a qualquer momento, estando também protegido contra perdas.
-
--Poderoso: Quando outras ferramentas atingem os seus limites, o SeaTable começa realmente a trabalhar. Isto torna o trabalho com grandes volumes de dados divertido!
-
--Sempre atualizado: Mantenha-se sempre atualizado graças às funções de comunicação, ao histórico completo de alterações e à atualização em tempo real.
-
--Escalável: A nossa solução cresce com a sua equipa - independentemente de ter um ou mil funcionários.
-
-## Como funciona o modelo de quadro Kanban
-
-O nosso modelo de quadro Kanban já visualiza um exemplo de projeto abrangente com diferentes tarefas. Primeiro, crie a estrutura de dados desejada navisão geral da tarefa tabular, por exemplo, para registar informações sobre o estado, as pessoas responsáveis, as subtarefas e os prazos.
-
-Existem váriasvisõescom as quais é possível estruturar os dados ou enfatizar determinados aspectos. Na vista de projeto, por exemplo, as tarefas são agrupadas de acordo com a fase do projeto a que estão ligadas. Para comunicar com os membros da sua equipa no SeaTable, por exemplo, se pretender entregar-lhes tarefas, bastacomentara tarefa relevante, marcar a pessoa com @ e ela receberá umanotificação.
-
-Para visualizar as suas tarefas num quadro Kanban gratuitamente, utilize o plugin Kanban (ou, em alternativa, a aplicação Kanban) do SeaTable. Selecione uma coluna de seleção única com todas as opções de que necessita paraagruparos seuscartões de tarefas por estado. Agora pode simplesmentearrastar e largarcada cartão de uma coluna para a seguinte - e o estado da tarefa ajusta-se instantaneamente! Enriqueça os seus cartões de tarefas com informações adicionais da sua folha de cálculo, conforme desejar.
-
-![](images/image-1738687677608.gif)
-
-## Como criar um quadro Kanban pessoal e digital
-
-No nosso modelo de Quadro Kanban, atribuímos os membros responsáveis da equipa às tarefas através de umacoluna de colaboradores. Isto permite-lhe agrupar todas as tarefas por membro da equipa numa vista de equipa oufiltrarastarefas pelo utilizador atualnuma vista pessoal. Pode agora criar um quadro Kanban com base nestas visualizações - gratuito, cómodo e personalizável em qualquer altura! No quadro pessoal, cada um vê apenas as suas próprias tarefas: Desta forma, todos sabem o que tem de ser feito e podem concentrar-se na sualista de tarefas individual.
-
-## Modelo interativo
-
-Percorra o nosso modelo incorporado de forma interactiva ou leia a descrição clicando no símbolo i a seguir ao nome do modelo. Isto dar-lhe-á uma melhor noção das funções do modelo Quadro Kanban. Se tiver alguma dúvida, a nossasecção de ajudaestá à sua disposição.
