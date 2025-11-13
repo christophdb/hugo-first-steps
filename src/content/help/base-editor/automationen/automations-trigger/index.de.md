@@ -1,59 +1,55 @@
 ---
 title: 'Automations-Trigger'
 date: 2023-01-27
-lastmod: '2024-02-12'
+lastmod: '2025-11-11'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/automations-trigger'
 seo:
     title: 'Automations-Trigger in SeaTable: alle Möglichkeiten'
-    description: 'Diese Übersicht zeigt, welche Trigger-Ereignisse SeaTable für Automationen bietet – inkl. Beispiele und unterstützter Aktionen.'
+    description: 'Diese Übersicht zeigt, welche Trigger-Ereignisse SeaTable für Automationen bietet – inkl. Einstellungen und unterstützter Aktionen.'
 weight: 5
 ---
 
 {{< required-version "Enterprise" >}}
 
-**Trigger-Ereignisse** stellen eine der beiden wesentlichen Komponenten von Automationen dar. Die Ereignisse lösen dabei verschiedene Arten von **Aktionen** aus, die Sie für jede Automation individuell festlegen können. Dieser Artikel bietet Ihnen einen **Überblick** über die verschiedenen Arten von Trigger-Ereignissen.
+**Trigger-Ereignisse** stellen eine der beiden wesentlichen Komponenten von Automationen dar. Die Ereignisse lösen dabei verschiedene Arten von [Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) aus, die Sie für jede Automation individuell festlegen können. Dieser Artikel bietet Ihnen einen **Überblick** über die verschiedenen Arten von Auslösern.
 
 ## Verfügbare Automations-Trigger
 
-In der aktuellsten Version von SeaTable stehen ingesamt **vier** verschiedene Trigger-Ereignisse zur Auswahl:
+In der aktuellsten Version von SeaTable stehen ingesamt **vier** verschiedene Auslöser zur Auswahl:
 
-![Momentan zur Verfügung stehende Trigger-Ereignisse](images/types-of-trigger-events.png)
+![Momentan zur Verfügung stehende Trigger-Ereignisse](images/automation-triggers.jpg)
 
-- Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
-- Ein neuer Eintrag wird hinzugefügt
-- Periodischer Trigger
-- Periodischer Trigger für Einträge, die bestimmte Bedingungen erfüllen
+- Wenn eine Zeile geändert wird
+- Wenn eine Zeile hinzugefügt wird
+- Zu einer geplanten Zeit
+- Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
-## Automations-Trigger: Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
+## Trigger-Einstellungen
 
-Wenn Sie dieses Ereignis als Trigger auswählen, wird die entsprechende Automation jedes Mal ausgelöst, wenn in der ausgewählten Tabellenansicht ein Eintrag nach der Bearbeitung bestimmte **Bedingungen** erfüllt.
+Um einen Trigger anzulegen oder zu bearbeiten, klicken Sie auf den entsprechenden Kasten im zentralen Bereich des Automations-Editors. Anschließend erscheinen rechts die Trigger-Einstellungen.
 
-Bei den Bedingungen können Sie individuell für jede **Spalte** festlegen, wie der entsprechende **Wert** nach der Bearbeitung **aussehen muss**, um die Automation auszulösen. Im Zuge dessen können Sie entscheiden, ob **alle** oder lediglich **ausgewählte** Spalten der Tabellenansicht auf das Eintreten des Trigger-Ereignisses hin überwacht werden sollen.
+![Trigger-Einstellungen](images/automation-trigger-settings.jpg)
 
-![Einträge erfüllen nach der Änderung bestimmte Bedingungen](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
+- Mithilfe des Drop-down-Menüs können Sie zuerst den **Auslöser** ändern. Wählen Sie dazu das gewünschte Trigger-Ereignis aus.
+- Definieren Sie anschließend die **Tabelle** und die **Ansicht**, in der die Automation wirken soll.
+- Je nach Art des Triggers können Sie noch weitere Einstellungen vornehmen, z. B. **überwachte Spalten**, **Bedingungen** für die Auslösung oder den **Zeitpunkt** der Auslösung.
 
-Wenn Sie das Ereignis "Einträge erfüllen nach Bearbeitung bestimmte Bedingungen" als Trigger einer Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
+![Trigger-Einstellungen im Detail](images/automation-trigger-settings.gif)
 
-- Benachrichtigung versenden
-- App-Benachrichtigung versenden
-- E-Mail versenden
-- Zeile hinzufügen
-- Eintrag sperren
-- Eintrag bearbeiten
-- Links hinzufügen
-- Neuen Eintrag in anderer Tabelle hinzufügen
-- Python-Skript ausführen
+{{< warning headline="Änderungen speichern" text="Vergessen Sie nicht, die Trigger-Einstellungen zu **speichern**! Ansonsten gehen beim Schließen des Fensters alle Änderungen verloren." />}}
 
-## Automations-Trigger: Ein neuer Eintrag wird hinzugefügt
+## Automations-Trigger: Wenn eine Zeile geändert wird
 
-Wenn Sie dieses Ereignis als Trigger auswählen, wird die entsprechende Automation jedes Mal ausgelöst, wenn in der ausgewählten Tabellenansicht ein neuer **Eintrag** hinzugefügt wird. Darüber hinaus können Sie das Eintreten des Ereignisses weiter einschränken, indem Sie individuell für jede Spalte einen **Wert** festlegen, den der neue Eintrag **enthalten muss**, um die Automation auszulösen.
+Wenn Sie dieses Ereignis als Trigger auswählen, wird die entsprechende Automation jedes Mal ausgelöst, wenn ein Wert in einer der überwachten Spalten geändert wird und eine Zeile in der ausgewählten Ansicht nach der Bearbeitung bestimmte Bedingungen erfüllt. Wenn der Trigger bei jeder Änderung auslösen soll, dann fügen Sie keine Bedingungen hinzu.
 
-![Mögliche Einschränkungen des Trigger-Ereignisses: Wenn ein neuer Eintrag hinzugefügt wird](images/specialization-of-trigger-records-added.png)
+Bei den **Bedingungen** können Sie individuell für jede Spalte festlegen, wie der entsprechende Wert nach der Bearbeitung aussehen muss, damit die Automation in Gang kommt. Im Zuge dessen können Sie entscheiden, ob alle oder lediglich ausgewählte Spalten der Ansicht auf das Eintreten des Trigger-Ereignisses hin überwacht werden sollen.
 
-Wenn Sie das Ereignis "Ein neuer Eintrag wird hinzugefügt" als Trigger einer Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
+![Trigger-Einstellungen, wenn eine Zeile geändert wird](images/automation-trigger-when-a-row-is-updated.jpg)
+
+Wenn Sie dieses Ereignis als Trigger einer Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 
 - Benachrichtigung versenden
 - App-Benachrichtigung versenden
@@ -64,14 +60,42 @@ Wenn Sie das Ereignis "Ein neuer Eintrag wird hinzugefügt" als Trigger einer Au
 - Links hinzufügen
 - Neuen Eintrag in anderer Tabelle hinzufügen
 - Python-Skript ausführen
+- KI aufrufen
 
-## Automations-Trigger: Periodischer Trigger
+## Automations-Trigger: Wenn eine Zeile hinzugefügt wird
 
-Wenn Sie einer Automation einen periodischen Trigger zuweisen, können Sie anschließend einen **Zeitpunkt** definieren, zu dem die Automation **täglich**, **wöchentlich** oder **monatlich** ausgelöst wird. Während Sie für eine tägliche Automation nur die **Uhrzeit** festlegen können, können Sie für eine wöchentliche Automation auch einen **Wochentag** bzw. für eine monatliche Automation ein genaues **Datum** angeben.
+Wenn Sie dieses Ereignis als Trigger auswählen, wird die entsprechende Automation jedes Mal ausgelöst, wenn in der ausgewählten Ansicht eine **neue Zeile** hinzugefügt wird. Darüber hinaus können Sie das Eintreten des Ereignisses weiter einschränken, indem Sie **Bedingungen** festlegen, welche die neue Zeile erfüllen muss.
 
-![Einstellung-Optionen für einen periodischen Trigger](images/specification-periodic-trigger.png)
+![Trigger-Einstellungen, wenn eine Zeile hinzugefügt wird](images/automation-trigger-when-a-row-is-added.jpg)
 
-Wenn Sie einen periodischen Trigger für eine Automation festlegen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
+Bei den Bedingungen können Sie individuell für jede Spalte festlegen, wie der entsprechende Wert aussehen muss, damit die Automation in Gang kommt. Wenn Sie möchten, dass jede neue Zeile die Automation auslöst, dann fügen Sie keine Bedingungen hinzu.
+
+{{< warning headline="Tipp" text="Dieser Auslöser ist zum Beispiel besonders nützlich, wenn Sie neue Datensätze importieren oder über Formulare erfassen." />}}
+
+Wenn Sie dieses Ereignis als Trigger einer Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
+
+- Benachrichtigung versenden
+- App-Benachrichtigung versenden
+- E-Mail versenden
+- Zeile hinzufügen
+- Eintrag sperren
+- Eintrag bearbeiten
+- Links hinzufügen
+- Neuen Eintrag in anderer Tabelle hinzufügen
+- Python-Skript ausführen
+- KI aufrufen
+
+## Automations-Trigger: Zu einer geplanten Zeit
+
+Wenn Sie diesen Auslöser wählen, können Sie anschließend einen **Zeitpunkt** definieren, zu dem die Automation **täglich**, **wöchentlich** oder **monatlich** abläuft. 
+
+![Einstellungsoptionen für einen täglichen Trigger zu einer geplanten Zeit](images/automation-trigger-at-scheduled-time.jpg)
+
+Während Sie für eine tägliche Automation nur die **Uhrzeit** festlegen können, können Sie für eine wöchentliche Automation auch den **Wochentag** bzw. für eine monatliche Automation den **Kalendertag** angeben.
+
+![Einstellungsoptionen für einen wöchentlichen Trigger zu einer geplanten Zeit](images/automation-trigger-at-scheduled-time-weekly.jpg)
+
+Wenn Sie diesen Auslöser für eine Automation festlegen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 
 - Benachrichtigung versenden
 - App-Benachrichtigung versenden
@@ -79,17 +103,19 @@ Wenn Sie einen periodischen Trigger für eine Automation festlegen, stehen Ihnen
 - Zeile hinzufügen
 - Links hinzufügen
 - Python-Skript ausführen
+- KI aufrufen
 - Datenverarbeitungsoperation ausführen
+- PDF auf Basis eines Dokuments erzeugen und versenden
 
-## Automations-Trigger: Periodischer Trigger für Einträge, die bestimmte Bedingungen erfüllen
+## Automations-Trigger: Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
-Dieser Trigger stellt eine Mischung aus dem periodischen Trigger und dem Trigger "Einträge erfüllen nach Bearbeitung bestimmte Bedingungen" dar. Auf der einen Seite können Sie dabei kongruent zum periodischen Trigger einen **Zeitpunkt** angeben, zu dem die Automation **täglich**, **wöchentlich** oder **monatlich** ausgelöst wird.
+Bei diesem Trigger geben Sie kongruent zum zuvor genannten Trigger einen **Zeitpunkt** an, zu dem die Automation **täglich**, **wöchentlich** oder **monatlich** ausgelöst wird. Darüber hinaus können Sie die Zeilen eingrenzen, die von diesem Trigger-Ereignis betroffen sind. 
 
-Darüber hinaus können Sie bei diesem Trigger-Ereignis individuell für jede Spalte der Tabelle bestimmte **Bedingungen** festlegen, denen die **Einträge** in der jeweiligen Spalte entsprechen müssen, damit die Automation zum festgelegten Zeitpunkt vollzogen wird.
+Bei den **Bedingungen** können Sie individuell für jede Spalte festlegen, wie der entsprechende Wert aussehen muss, damit die Automation zum festgelegten Zeitpunkt vollzogen wird.
 
-![Automations-Trigger: "Periodischer Trigger, wenn Einträge bestimmte Bedingungen erfüllen"](images/trigger-event-periodic-match-conditions.png)
+![Trigger zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen](images/automation-trigger-at-scheduled-time-for-records-that-match-condition.jpg)
 
-Wenn Sie den "Periodischen Trigger für Einträge, die bestimmte Bedingungen erfüllen" für eine Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
+Wenn Sie diesen Auslöser für eine Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 
 - Benachrichtigung versenden
 - App-Benachrichtigung versenden

@@ -14,7 +14,7 @@ weight: 3
 
 {{< required-version "Enterprise" >}}
 
-Um jederzeit Anpassungen an bereits erstellten Automationen vornehmen zu können, haben Sie die Möglichkeit, Ihre angelegten Automatisierungregeln zu verwalten, zu gruppieren und zu bearbeiten.
+Um jederzeit Anpassungen an bereits erstellten Automationen vornehmen zu können, haben Sie die Möglichkeit, Ihre angelegten Automatisierungregeln zu verwalten, zu gruppieren und zu verschieben.
 
 ## Automatisierungsregeln verwalten
 
