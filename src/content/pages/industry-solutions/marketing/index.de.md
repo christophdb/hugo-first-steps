@@ -94,7 +94,7 @@ sections:
         - bg-white
       title: "Automatisierung und Integration von Marketingprozessen"
       subtitle: "Zentralisieren Sie Ihr Marketing"
-      description: "Mit SeaTable automatisieren Sie Ihre manuellen Aufgaben. Dank No-Code- / Low-Code-Funktionen richten Sie Ihre Workflows schnell ein und passen Sie an Ihre Anforderungen an. Zusätzlich ermöglicht SeaTable die Integration externer Datenquellen über seine API oder Marketing Automation Tools."
+      description: "Mit SeaTable automatisieren Sie Ihre manuellen Aufgaben. Dank No-Code- / Low-Code-Funktionen richten Sie Ihre automatisierten Workflows schnell ein und passen Sie an Ihre Anforderungen an. Zusätzlich ermöglicht SeaTable die Integration externer Datenquellen über seine API oder Marketing Automation Tools."
       items:
         - image: "/images/logos/zapier.svg"
         - image: "/images/logos/make.svg"
@@ -110,7 +110,7 @@ sections:
       items:
       - icon: leaf
         headline: No-Code Plattform mit Low-Code Optionen
-        text: SeaTable ist eine No-Code-Plattform für Marketing-Teams ohne Programmierkenntnisse. Sie ermöglicht die Erstellung individueller Workflows und Automatisierungen ohne Programmierung. Fortgeschrittene Nutzer können mit Low-Code-Erweiterungen komplexe Automatisierungen und Integrationen umsetzen.
+        text: SeaTable ist eine [KI No-Code-Plattform]({{< relref "/" >}}) für Marketing-Teams ohne Programmierkenntnisse. Sie ermöglicht die Erstellung individueller Workflows und Automatisierungen ohne Programmierung. Fortgeschrittene Nutzer können mit Low-Code-Erweiterungen komplexe Automatisierungen und Integrationen umsetzen.
       - icon: leaf
         headline: Integration externer Datenquellen
         text: "Dank der API von SeaTable können Sie externe Datenquellen wie CRM-Systeme oder E-Mail-Marketing-Tools einfach integrieren.<br><br>Dies bedeutet, dass Sie alle Ihre Marketingdaten an einem zentralen Ort verwalten und analysieren können, was die Effizienz erheblich steigert."
@@ -252,7 +252,7 @@ sections:
           - q: 'Warum brauche ich ein Marketing Management Tool?'
             a: 'Marketing-Teams benötigen flexible und umfassende Marketing Tools und Marketing Automation Software, um ihre Kampagnen zu planen, durchzuführen, zu analysieren und zu optimieren. Ein flexibles Marketing Management Tool ermöglicht es Ihnen, ortsunabhängig, agil und kollaborativ zu arbeiten, die Daten gängiger Digital Marketing Tools zu integrieren und Arbeitsabläufe zu automatisieren.'
           - q: 'Welche Marketing-Prozesse kann ich mit SeaTable abdecken?'
-            a: 'SeaTable bietet als leistungsstarkes Online Marketing Tool eine zentrale, skalierbare Plattform. Sie können Kampagnenplanung, Content-Erstellung, KPI-Monitoring, Budgetplanung, Kundenumfragen, Eventplanung und Reporting abdecken – und so sämtliche Marketingprozesse individualisieren. '
+            a: 'SeaTable bietet als leistungsstarkes Online Marketing Tool eine zentrale, skalierbare Plattform. Sie können [Kampagnenplanung]({{< relref "posts/marketing-kampagne-planung" >}})  , Content-Erstellung, KPI-Monitoring, [Budgetplanung]({{< relref "posts/20250606-budgetplanung" >}}), Kundenumfragen, Eventplanung und Reporting abdecken – und so sämtliche Marketingprozesse individualisieren. '
           - q: 'Kann ich die Daten anderer Marketing-Tools in SeaTable integrieren?'
             a: 'Ja, SeaTable ermöglicht die Integration aller gängigen Digital Marketing Tools über eine API.'
           - q: 'Wie hilft SeaTable bei der Automatisierung von Marketingprozessen?'

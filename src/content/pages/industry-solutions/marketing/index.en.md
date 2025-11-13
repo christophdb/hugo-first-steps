@@ -114,7 +114,7 @@ sections:
       items:
           - icon: leaf
             headline: No-Code Platform with Low-Code Options
-            text: SeaTable is a no-code platform for marketing teams without programming knowledge. It enables the creation of individual workflows and automations without programming. Advanced users can implement complex automations and integrations with low-code extensions.
+            text: SeaTable is a [ai no-code platform]({{< relref "/" >}}) for marketing teams without programming knowledge. It enables the creation of individual workflows and automations without programming. Advanced users can implement complex automations and integrations with low-code extensions.
           - icon: leaf
             headline: Integration of external data sources
             text: 'Thanks to the SeaTable API, you can easily integrate external data sources such as CRM systems or email marketing automation tools.<br><br>This means that you can manage and analyze all your marketing data in one central location, which significantly increases efficiency.'
@@ -252,7 +252,7 @@ sections:
           - q: 'Why do I need Marketing Automation Tools?'
             a: 'Marketing teams need flexible and comprehensive marketing tools and marketing software to plan, execute, analyze, and optimize their campaigns. A flexible marketing Software enables you to work location-independently, agilely, and collaboratively, integrate the data from common digital marketing tools, and automate workflows.'
           - q: 'Which marketing processes can I cover with SeaTable?'
-            a: 'As a powerful online marketing tool, SeaTable offers a central, scalable platform. You can cover campaign planning, content creation, KPI monitoring, budget planning, customer surveys, event planning, and reporting – and thus individualize all marketing processes. '
+            a: 'As a powerful online marketing tool, SeaTable offers a central, scalable platform. You can cover [campaign planning]({{< relref "posts/marketing-kampagne-planung" >}}), content creation, KPI monitoring, [budget planning]({{< relref "posts/20250606-budgetplanung" >}}), customer surveys, event planning, and reporting – and thus individualize all marketing processes. '
           - q: 'Can I integrate the data from other marketing tools into SeaTable?'
             a: 'Yes, SeaTable enables the integration of all common digital marketing tools via an API.'
           - q: 'How does SeaTable help with the automation of marketing processes?'

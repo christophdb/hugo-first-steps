@@ -111,7 +111,7 @@ sections:
       items:
           - icon: leaf
             headline: 'Plateforme No-Code avec options Low-Code'
-            text: "SeaTable est une plateforme No-Code pour les équipes marketing sans connaissances en programmation. Elle permet la création de workflows et d'automatisation individuels sans programmation. Les utilisateurs avancés peuvent mettre en œuvre des automatisations et des intégrations complexes avec des extensions Low-Code."
+            text: "SeaTable est une IA plateforme No-Code pour les équipes marketing sans connaissances en programmation. Elle permet la création de workflows et d'automatisation individuels sans programmation. Les utilisateurs avancés peuvent mettre en œuvre des automatisations et des intégrations complexes avec des extensions Low-Code."
           - icon: leaf
             headline: 'Intégration de sources de données externes'
             text: "Grâce à l'API de SeaTable, vous pouvez facilement intégrer des sources de données externes telles que les systèmes CRM ou les outils de marketing par e-mail.<br><br>Cela signifie que vous pouvez gérer et analyser toutes vos données marketing dans un emplacement central, ce qui augmente considérablement l'efficacité."

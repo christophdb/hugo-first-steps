@@ -112,7 +112,7 @@ sections:
       items:
           - icon: leaf
             headline: Plataforma sin código con opciones de código bajo
-            text: SeaTable es una plataforma sin código para equipos de marketing sin conocimientos de programación. Permite la creación de flujos de trabajo y automatizaciones individuales sin programación. Los usuarios avanzados pueden implementar automatizaciones e integraciones complejas con extensiones de código bajo.
+            text: SeaTable es una [plataforma sin código para equipos]({{< relref "/" >}}) de marketing sin conocimientos de programación. Permite la creación de flujos de trabajo y automatizaciones individuales sin programación. Los usuarios avanzados pueden implementar automatizaciones e integraciones complejas con extensiones de código bajo.
           - icon: leaf
             headline: Integración de fuentes de datos externas
             text: 'Gracias a la API de SeaTable, puede integrar fácilmente fuentes de datos externas como sistemas CRM o herramientas de marketing por correo electrónico.<br><br>Esto significa que puede gestionar y analizar todos sus datos de marketing en una ubicación central, lo que aumenta significativamente la eficiencia.'
@@ -250,7 +250,7 @@ sections:
           - q: '¿Por qué necesito una herramienta de gestión de marketing?'
             a: 'Los equipos de marketing necesitan herramientas de marketing flexibles y completas y un software de automatización de marketing para planificar, ejecutar, analizar y optimizar sus campañas. Una herramienta de gestión de marketing flexible le permite trabajar de forma ágil y colaborativa, independientemente de la ubicación, integrar los datos de las herramientas comunes de marketing digital y automatizar los flujos de trabajo.'
           - q: '¿Qué procesos de marketing puedo cubrir con SeaTable?'
-            a: 'Como una potente herramienta de marketing online, SeaTable ofrece una plataforma central y escalable. Puede cubrir la planificación de campañas, la creación de contenido, la supervisión de los KPI, la planificación del presupuesto, las encuestas a los clientes, la planificación de eventos y la presentación de informes, y así individualizar todos los procesos de marketing.'
+            a: 'Como una potente herramienta de marketing online, SeaTable ofrece una plataforma central y escalable. Puede cubrir la [planificación de campañas]({{< relref "posts/marketing-kampagne-planung" >}}), la creación de contenido, la supervisión de los KPI, [la planificación del presupuesto]({{< relref "posts/20250606-budgetplanung" >}}), las encuestas a los clientes, la planificación de eventos y la presentación de informes, y así individualizar todos los procesos de marketing.'
           - q: '¿Puedo integrar los datos de otras herramientas de marketing en SeaTable?'
             a: 'Sí, SeaTable permite la integración de todas las herramientas comunes de marketing digital a través de una API.'
           - q: '¿Cómo ayuda SeaTable con la automatización de los procesos de marketing?'
