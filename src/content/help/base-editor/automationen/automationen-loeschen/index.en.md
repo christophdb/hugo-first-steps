@@ -20,8 +20,6 @@ You can **delete** **automation rules** that have already been created at any ti
 
 ## To delete an automation
 
-![Delete an automation](images/delete-an-automation-rule.png)
-
 1. Open a **table** where you want to delete an automation that has already been created.
 2. Click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 3. Click the **trash can icon** to the right of the corresponding automation rule {{< seatable-icon icon="dtable-icon-delete" >}}.

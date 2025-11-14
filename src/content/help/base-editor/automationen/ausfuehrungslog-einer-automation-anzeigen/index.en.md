@@ -21,15 +21,11 @@ To check the **correct execution of an automation**, you have the possibility to
 
 ## To take a look at the execution log
 
-![Show execution log](images/open-an-automation-log.png)
-
 1. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the base header, and then click **Automation Rules**.
 2. Move the mouse cursor over the **automation rule** whose log you want to view.
 3. Click on the **execution log** {{< seatable-icon icon="dtable-icon-journal" >}}.
 
 ## Structure of the execution log
-
-![Structure of a stirring log](images/structure-of-an-automation-log-newest.png)
 
 You can view the following information in the execution log of an automation:
 
