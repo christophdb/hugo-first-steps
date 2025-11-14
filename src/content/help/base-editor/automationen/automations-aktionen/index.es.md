@@ -22,8 +22,6 @@ Las **acciones automatizadas** representan uno de los dos componentes esenciales
 
 La última versión de SeaTable ofrece un total de **once** acciones de automatización diferentes entre las que elegir:
 
-![Acciones automatizadas tras el evento de activación Registros añadidos](images/Automated-actions-after-trigger-event-Records-added.png)
-
 - Enviar notificación
 - Enviar notificación de aplicación
 - Enviar correo electrónico
@@ -36,7 +34,6 @@ La última versión de SeaTable ofrece un total de **once** acciones de automati
 - Ejecutar script Python
 - Ejecutar la operación de tratamiento de datos
 
-![Ejecutar acción de automatización Operación de tratamiento de datos](images/updated-automated-actions-e1707744604838.png)
 
 ## Acción de automatización: Enviar notificación
 
@@ -44,11 +41,9 @@ Al definir "Enviar notificación" como acción automatizada, puede establecer un
 
 Puedes editar los **destinatarios** y el **contenido** de las notificaciones en cualquier momento en los **ajustes de** automatización. Para los destinatarios, puedes seleccionar usuarios individuales o usuarios en una columna específica del tipo empleado, creador o último editor.
 
-![Enviar notificación mediante automatización](images/Benachrichtigung-per-Automation-versenden.png)
 
 Los usuarios pueden acceder a sus notificaciones a través del **icono de la campana** {{< seatable-icon icon="dtable-icon-notice" >}} que aparece junto a su avatar en la esquina superior derecha.
 
-![Notificación sobre la acción: "Envío de notificaciones a uno o varios usuarios". ](images/example-action-notification.png)
 
 La acción de automatización "Enviar notificación" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -65,11 +60,9 @@ Al definir "Enviar notificación de app" como acción automatizada, puede establ
 
 En los **ajustes de** automatización, puedes definir a qué **aplicación** y a qué **destinatarios** deben enviarse las notificaciones. Para los destinatarios, puede seleccionar específicamente usuarios individuales o usuarios en una determinada columna del tipo empleado, creador o último editor. Introduzca el **contenido** deseado de la notificación en el campo de texto.
 
-![Envío automático de notificaciones de aplicaciones](images/App-Benachrichtigung-per-Automation-senden.png)
 
 Los usuarios de la aplicación correspondiente pueden acceder a sus notificaciones a través del **icono de campana** {{< seatable-icon icon="dtable-icon-notice" >}} situado junto a su avatar en la esquina superior derecha.
 
-![Recuperar una notificación en la aplicación](images/Benachrichtigung-in-der-App-abrufen.png)
 
 La acción de automatización "Enviar notificación de aplicación" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -82,7 +75,6 @@ La acción de automatización "Enviar notificación de aplicación" está dispon
 
 Al definir "Enviar correo electrónico" como acción automatizada, puede enviar correos electrónicos predefinidos a uno o más usuarios. SeaTable envía un **correo electrónico** a cada usuario seleccionado en cuanto se **activa el disparador** correspondiente. Puede editar el destinatario, asunto, contenido y archivos adjuntos del correo electrónico en cualquier momento en la **configuración de** automatización.
 
-![Definición de la acción de automatización: "Envío de correos electrónicos a uno o varios usuarios".](images/example-action-email.png)
 
 La acción de automatización "Enviar correo electrónico" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -97,7 +89,6 @@ El artículo [Email Dispatch by]({{< relref "help/base-editor/automationen/beisp
 
 Si define "Añadir fila" como acción automatizada, se añadirá una **nueva entrada** a la tabla en cuanto se **active el disparador** correspondiente. Puede definir de antemano el **contenido** exacto de la entrada individualmente para cada columna.
 
-![Acción de automatización: "Añadir una entrada a la tabla".](images/action-add-records.png)
 
 La acción de automatización "Añadir fila" está disponible actualmente para los siguientes **disparadores de automatización**:
 
@@ -111,8 +102,6 @@ El artículo [Adding Rows by]({{< relref "help/base-editor/automationen/beispiel
 
 Si define "Bloquear entrada" como acción automatizada, la **línea** con la entrada que activó la automatización se **bloquea** para su edición. Tenga en cuenta que ya **no** puede **desbloquear** las líneas bloqueadas sin derechos de administrador.
 
-![Definición de la acción de automatización: "Bloquear una entrada en la tabla".](images/action-lock-records.png)  
-![Bloqueo de una entrada en una tabla activada por automatización ](images/example-locked-records.png)
 
 La acción de automatización "Bloquear entrada" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -126,7 +115,6 @@ El artículo [Bloqueo de líneas mediante automatización]({{< relref "help/base
 
 Si selecciona "Editar entrada" como acción automatizada, las **entradas** de la tabla se ajustan según la **configuración** definida de antemano tras **activarse el disparador**. Como puede verse en la captura de pantalla, por ejemplo, la fecha de inicio de un nuevo empleado introducido en la tabla puede ajustarse automáticamente a la fecha de hoy.
 
-![Acción de automatización: "Ajustar una entrada en la tabla".](images/action-modify-a-record.png)
 
 La acción de automatización "Editar entrada" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -138,7 +126,6 @@ La acción de automatización "Editar entrada" está disponible actualmente para
 
 Si selecciona "Añadir enlaces" como acción automatizada, se creará un enlace [a las entradas de otra tabla]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la columna correspondiente cuando se **active el activador**. En la **configuración** de la regla de automatización, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
 
-![Acción de automatización: "Añadir una columna vinculada a la tabla".](images/action-add-links.png)
 
 La acción de automatización "Añadir enlaces" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -152,7 +139,6 @@ El artículo [Vinculación de entradas mediante automatización]({{< relref "hel
 
 Si selecciona "Añadir nueva entrada en otra tabla" como acción automatizada, se creará una **entrada** en **otra** tabla cuando se **active el disparador**. En la **configuración** de la regla de automatización, puede definir entradas individuales que se añaden a las tablas seleccionadas como parte de la automatización.
 
-![Acción de automatización: "Añadir una entrada a otra tabla".](images/action-add-records-to-another-table-new.png)
 
 La acción de automatización "Añadir nueva entrada en otra tabla" está disponible actualmente para los siguientes **disparadores de automatización**:
 
@@ -165,8 +151,6 @@ El artículo [Añadir entradas a otras tablas mediante automatización]({{< relr
 
 Si selecciona "Convertir página a PDF" como acción automatizada, se creará un documento PDF a partir del conjunto de datos y se guardará en una [columna de]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). También puede definir el **nombre del archivo** en la configuración de la regla de automatización.
 
-![Crear PDF mediante automatización](images/PDF-per-Automation-erstellen.png)
-
 La acción de automatización "Convertir página a PDF" está disponible actualmente con el siguiente **disparador de automatización**:
 
 - Activación periódica de entradas que cumplen una determinada condición
@@ -175,7 +159,6 @@ La acción de automatización "Convertir página a PDF" está disponible actualm
 
 Si selecciona la ejecución de un script de Python como acción automatizada, SeaTable puede ejecutar un **script de Python** predefinido en la tabla seleccionada. Puede crear o editar el script en cualquier momento en el [editor de scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) y luego seleccionarlo en la **configuración** de la regla de automatización.
 
-![Acción de automatización: "Ejecución de un script Python](images/action-run-python-script.png)
 
 La acción de automatización "Ejecutar script Python" está disponible actualmente para los siguientes **disparadores de automatización**:
 
@@ -187,11 +170,7 @@ La acción de automatización "Ejecutar script Python" está disponible actualme
 
 Si selecciona la ejecución de una operación de tratamiento de datos como acción automatizada, se ejecutará una operación de [tratamiento]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de datos definida de antemano en la tabla cuando se **active el disparador**. Puede definir la operación de tratamiento de datos que se ejecutará en la **configuración de** la regla de automatización.
 
-![Definición de una acción de automatización: Ejecutar una operación de tratamiento de datos](images/define-data-operation-to-run-with-automation.png)
-
 Puede hacer que se realicen las siguientes **operaciones de procesamiento de datos** con una automatización:
-
-![Operaciones de tratamiento de datos que pueden ejecutarse con ayuda de la automatización](images/runable-data-operations-with-automation.png)
 
 - [Calcular valores acumulados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
 - [Calcular la clasificación]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})

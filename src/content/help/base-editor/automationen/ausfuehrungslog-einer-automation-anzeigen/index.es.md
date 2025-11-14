@@ -21,15 +21,11 @@ Para comprobar la **correcta ejecución de una automatización**, tiene la opci�
 
 ## Para echar un vistazo al registro de ejecución
 
-![Mostrar registro de ejecución](images/open-an-automation-log.png)
-
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
 2. Mueva el puntero del ratón sobre la **regla de automatización** cuyo registro desea ver.
 3. Haga clic en el **registro de ejecución** {{< seatable-icon icon="dtable-icon-journal" >}}.
 
 ## Estructura del registro de ejecución
-
-![Estructura de un Auführungslog](images/structure-of-an-automation-log-newest.png)
 
 Puede ver la siguiente información en el registro de ejecución de una automatización:
 

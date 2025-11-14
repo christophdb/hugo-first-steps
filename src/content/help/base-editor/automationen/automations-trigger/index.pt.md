@@ -21,9 +21,6 @@ Os **eventos de disparo** são uma das duas componentes essenciais das automatiz
 ## Gatilhos de automação disponíveis
 
 Na última versão do SeaTable, há um total de **quatro** eventos de disparo diferentes por onde escolher:
-
-![Eventos de activação actualmente disponíveis](images/types-of-trigger-events.png)
-
 - As inscrições preenchem certas condições após a edição
 - É acrescentada uma nova entrada
 - Desencadeamento periódico
@@ -34,8 +31,6 @@ Na última versão do SeaTable, há um total de **quatro** eventos de disparo di
 Se seleccionar este evento como gatilho, a automatização correspondente é accionada sempre que uma entrada na vista da tabela seleccionada satisfaz determinadas **condições** após a edição.
 
 Com as condições, é possível definir individualmente para cada **coluna** como **deve ser** o **valor** correspondente após a edição, a fim de desencadear a automatização. No decurso disto, pode decidir se **todas** ou apenas as colunas **seleccionadas** da vista de tabela devem ser monitorizadas para a ocorrência do evento de disparo.
-
-![As entradas preenchem determinadas condições após a alteração](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
 
 Se selecionar o evento "As entradas cumprem determinadas condições após a edição" como acionador de uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 
@@ -53,8 +48,6 @@ Se selecionar o evento "As entradas cumprem determinadas condições após a edi
 
 Se seleccionar este evento como gatilho, a automatização correspondente é activada cada vez que uma nova **entrada** é adicionada na vista da tabela seleccionada. Além disso, pode restringir ainda mais a ocorrência do evento, definindo individualmente um **valor** para cada coluna que a nova entrada **deve conter**, a fim de desencadear a automatização.
 
-![Possíveis restrições do evento de disparo: Quando uma nova entrada é adicionada](images/specialization-of-trigger-records-added.png)
-
 Se selecionar o evento "Uma nova entrada é adicionada" como acionador de uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 
 - Enviar notificação
@@ -71,8 +64,6 @@ Se selecionar o evento "Uma nova entrada é adicionada" como acionador de uma au
 
 Se atribuir um disparo periódico a uma automatização, pode então definir uma **hora em que** a automatização é disparada **diariamente**, **semanalmente** ou **mensalmente**. Embora só possa especificar a **hora** para uma automatização diária, também pode especificar um **dia da semana** para uma automatização semanal ou uma **data** exacta **para** uma automatização mensal.
 
-![Definição de opções para um disparo periódico](images/specification-periodic-trigger.png)
-
 Se definir um gatilho periódico para uma automatização, as seguintes **acções automáticas** estão disponíveis para selecção:
 
 - Enviar notificação
@@ -88,8 +79,6 @@ Se definir um gatilho periódico para uma automatização, as seguintes **acçõ
 Este acionador é uma mistura do acionador periódico e do acionador "As entradas cumprem determinadas condições após o processamento". Por um lado, pode especificar um **momento** congruente com o acionamento periódico em que a automatização é accionada **diariamente**, **semanalmente** ou **mensalmente**.
 
 Além disso, com este evento de disparo pode definir individualmente certas **condições para** cada coluna da tabela, que as **entradas** na respectiva coluna devem cumprir para que a automatização seja concluída no momento especificado.
-
-![Desencadeamento automático: "Desencadeamento periódico quando as entradas satisfazem determinadas condições".](images/trigger-event-periodic-match-conditions.png)
 
 Se selecionar a opção "Acionamento periódico para entradas que satisfazem determinadas condições" para uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 

@@ -20,8 +20,6 @@ seo:
 
 ## Para eliminar uma automatização
 
-![Eliminar uma automatização](images/delete-an-automation-rule.png)
-
 1. Abra uma **tabela** na qual pretende eliminar uma automatização que já foi criada.
 2. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} e depois em **Regras de Automatização**.
 3. Clique no **ícone da lata de lixo** à direita da regra de automatização correspondente {{< seatable-icon icon="dtable-icon-delete" >}}.

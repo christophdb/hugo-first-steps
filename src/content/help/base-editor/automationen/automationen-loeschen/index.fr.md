@@ -20,8 +20,6 @@ Vous pouvez **supprimer** à tout moment les **règles d'automatisation** déjà
 
 ## Comment supprimer une automatisation
 
-![Supprimer une automatisation](images/delete-an-automation-rule.png)
-
 1. Ouvrez un **tableau** dans lequel vous souhaitez supprimer une automatisation déjà créée.
 2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} et ensuite sur **Règles d'automatisation**.
 3. Cliquez sur l'**icône de la corbeille** à droite de la règle d'automatisation correspondante {{< seatable-icon icon="dtable-icon-delete" >}}.
