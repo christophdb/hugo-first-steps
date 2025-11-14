@@ -1,6 +1,27 @@
-- title: "SeaTable : la solution sans code leader pour la transformation informatique et la numérisation"
+- title: "La numérisation administrative basée sur l'IA en Allemagne"
   year: 2025
-  summary: "Une transformation numérique réussie est essentielle pour de nombreuses entreprises afin de rester compétitives et de poursuivre leur croissance à l'avenir. Pour ce faire, les entreprises peuvent réaliser d'énormes gains d'efficacité en numérisant, automatisant et rationalisant leurs processus. SeaTable est une plateforme innovante sans code qui permet précisément de réaliser cela."
+  summary: "Dans son article, Stephan Augsten met en lumière les avantages de SeaTable 6.0 pour l'administration publique : La plateforme no-code marque une étape importante vers la souveraineté numérique. Pour la première fois, des automatisations basées sur l'IA sont disponibles et fonctionnent entièrement sur des serveurs allemands, répondant ainsi aux exigences les plus strictes en matière de protection des données."
+  date: 2025-11-14
+  source: 'eGovernment'
+  link: 'https://www.egovernment.de/ki-gestuetzte-verwaltungsdigitalisierung-made-in-germany-a-577b3fa3275e5597db4031a12d99f9f1/'
+
+- title: "SeaTable 6.0 : L'IA renforce la plate-forme no-code"
+  year: 2025
+  summary: "Daniel Richey se penche sur les avantages de SeaTable pour les entreprises : Avec la version 6.0, SeaTable rapproche l'intelligence artificielle et la technologie no-code. La plate-forme aide les entreprises à automatiser les processus, à analyser les données en toute sécurité et à alléger la charge de travail des départements spécialisés – sans aucune connaissance en programmation."
+  date: 2025-11-07
+  source: 'IT-Administrator'
+  link: 'https://www.it-administrator.de/seatable-ki-nocode-plattform'
+
+- title: "La plate-forme no-code SeaTable intègre l'automatisation de l'IA"
+  year: 2025
+  summary: "Dans son article, Moritz Förster présente la version 6.0 de SeaTable. Cette nouvelle version intègre pour la première fois des fonctions d'IA directement dans les règles d'automatisation du logiciel de tableur et de workflow. On peut utiliser l'IA pour analyser des textes, exploiter des documents ou extraire des informations. Le modèle de cloud fonctionne sur des serveurs allemands."
+  date: 2025-11-06
+  source: 'heise online'
+  link: 'https://www.heise.de/news/No-Code-Plattform-SeaTable-integriert-KI-Automatisierung-11067543.html'
+
+- title: "SeaTable : la solution no-code leader pour la transformation informatique et la numérisation"
+  year: 2025
+  summary: "Une transformation numérique réussie est essentielle pour de nombreuses entreprises afin de rester compétitives et de poursuivre leur croissance à l'avenir. Pour ce faire, les entreprises peuvent réaliser d'énormes gains d'efficacité en numérisant, automatisant et rationalisant leurs processus. SeaTable est une plateforme innovante no-code qui permet précisément de réaliser cela."
   date: 2025-01-07
   source: 'Discover Germany'
   link: 'https://www.discovergermany.com/seatable-leading-no-code-solution-for-it-transformation-and-digitalisation/'

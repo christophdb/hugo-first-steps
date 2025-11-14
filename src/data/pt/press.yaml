@@ -1,13 +1,34 @@
-- title: 'SeaTable: Solução líder sem código para a transformação e digitalização'
+- title: 'Digitalização administrativa apoiada por IA na Alemanha'
   year: 2025
-  summary: 'Uma transformação digital bem sucedida é crucial para muitas empresas, a fim de se manterem competitivas e continuarem a crescer no futuro. As empresas podem obter enormes ganhos de eficiência através da digitalização, automatização e racionalização dos seus processos. SeaTable é uma plataforma inovadora sem código que permite exatamente isso.'
+  summary: 'No seu artigo, Stephan Augsten destaca as vantagens do SeaTable 6.0 para a administração pública: A plataforma no-code é um marco importante para a soberania digital. Pela primeira vez, estão disponíveis automações suportadas por IA que funcionam inteiramente em servidores alemães e, por conseguinte, cumprem os mais elevados requisitos de proteção de dados.'
+  date: 2025-11-14
+  source: 'eGovernment'
+  link: 'https://www.egovernment.de/ki-gestuetzte-verwaltungsdigitalisierung-made-in-germany-a-577b3fa3275e5597db4031a12d99f9f1/'
+
+- title: 'SeaTable 6.0: a IA reforça a plataforma no-code'
+  year: 2025
+  summary: 'Daniel Richey analisa as vantagens do SeaTable para as empresas: Com a versão 6.0, SeaTable aproxima a inteligência artificial e a tecnologia no-code. A plataforma foi concebida para ajudar as empresas a automatizar processos, analisar dados de forma segura e aliviar a carga dos departamentos especializados – sem qualquer conhecimento de programação.'
+  date: 2025-11-07
+  source: 'IT-Administrator'
+  link: 'https://www.it-administrator.de/seatable-ki-nocode-plattform'
+
+- title: 'A plataforma no-code SeaTable integra a automatização da IA'
+  year: 2025
+  summary: 'Moritz Förster apresenta a versão 6.0 do SeaTable no seu artigo. A nova versão integra, pela primeira vez, funções de IA diretamente nas regras de automatização do software de folha de cálculo e fluxo de trabalho. Os utilizadores podem utilizar a IA para analisar textos, avaliar documentos ou extrair informações. O modelo de nuvem funciona em servidores alemães.'
+  date: 2025-11-06
+  source: 'heise online'
+  link: 'https://www.heise.de/news/No-Code-Plattform-SeaTable-integriert-KI-Automatisierung-11067543.html'
+
+- title: 'SeaTable: Solução líder no-code para a transformação e digitalização'
+  year: 2025
+  summary: 'Uma transformação digital bem sucedida é crucial para muitas empresas, a fim de se manterem competitivas e continuarem a crescer no futuro. As empresas podem obter enormes ganhos de eficiência através da digitalização, automatização e racionalização dos seus processos. SeaTable é uma plataforma inovadora no-code que permite exatamente isso.'
   date: 2025-01-07
   source: 'Discover Germany'
   link: 'https://www.discovergermany.com/seatable-leading-no-code-solution-for-it-transformation-and-digitalisation/'
 
 - title: 'SeaTable 5.0 apresenta um construtor de aplicações integrado'
   year: 2024
-  summary: 'A versão 5.0 da base de dados sem código SeaTable já está disponível. Entre outras coisas, introduz um construtor de aplicações integrado, novos plugins e uma acessibilidade melhorada.'
+  summary: 'A versão 5.0 da base de dados no-code SeaTable já está disponível. Entre outras coisas, introduz um construtor de aplicações integrado, novos plugins e uma acessibilidade melhorada.'
   date: 2024-08-20
   source: 'Cloud Computing Insider'
   link: 'https://www.cloudcomputing-insider.de/seatable-5-0-neue-funktionen-verbesserungen-a-2b74484a863dccc362389762c77096a7/'
@@ -19,7 +40,7 @@
   source: 'Zeit Online'
   link: 'https://www.zeit.de/wirtschaft/unternehmen/2024-04/start-ups-bundeswehr-schwierigkeiten-produktion-beschaffung'
   
-- title: 'Gestão de processos ágeis sem código e segurança de dados'
+- title: 'Gestão de processos ágeis no-code e segurança de dados'
   year: 2023
   summary: 'No podcast IT-Deep-Dive da silicon.de, o fundador da SeaTable Christoph Dyllick-Brenzinger e o capitão Martin Rothe discutem como a Bundeswehr implementa processos internos e projetos com segurança usando SeaTable.'
   date: 2023-06-17

@@ -1,3 +1,24 @@
+- title: 'AI-supported administrative digitalization in Germany'
+  year: 2025
+  summary: 'In his article, Stephan Augsten highlights the benefits of SeaTable 6.0 for public administration: The no-code platform marks an important milestone towards digital sovereignty. For the first time, AI-supported automations are available that run entirely on German servers and therefore meet the highest data protection requirements.'
+  date: 2025-11-14
+  source: 'eGovernment'
+  link: 'https://www.egovernment.de/ki-gestuetzte-verwaltungsdigitalisierung-made-in-germany-a-577b3fa3275e5597db4031a12d99f9f1/'
+
+- title: 'SeaTable 6.0: AI strengthens no-code platform'
+  year: 2025
+  summary: 'Daniel Richey takes a look at the benefits of SeaTable for companies: With version 6.0, SeaTable brings artificial intelligence and no-code technology closer together. The platform is designed to help companies automate processes, analyze data securely and relieve the burden on specialist departments – without any programming knowledge.'
+  date: 2025-11-07
+  source: 'IT-Administrator'
+  link: 'https://www.it-administrator.de/seatable-ki-nocode-plattform'
+
+- title: 'No-code platform SeaTable integrates AI automation'
+  year: 2025
+  summary: 'Moritz Förster presents version 6.0 of SeaTable in his article. The new version integrates AI functions directly into the automation rules of the spreadsheet and workflow software. You can use the AI to analyze texts, evaluate documents or extract information. The cloud model runs on German servers.'
+  date: 2025-11-06
+  source: 'heise online'
+  link: 'https://www.heise.de/news/No-Code-Plattform-SeaTable-integriert-KI-Automatisierung-11067543.html'
+
 - title: 'SeaTable: Leading no-code solution for IT transformation and digitalisation'
   year: 2025
   summary: 'Companies can achieve huge efficiency gains by digitalising, automating and streamlining their processes. SeaTable is an innovative no-code platform that enables exactly that: creating customized digital solutions without writing a single line of code and relying on scarce IT resources.'

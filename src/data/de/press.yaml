@@ -1,3 +1,24 @@
+- title: 'KI-gestützte Verwaltungsdigitalisierung „Made in Germany“'
+  year: 2025
+  summary: 'Stephan Augsten beleuchtet in seinem Artikel die Vorteile von SeaTable 6.0 für die öffentliche Verwaltung: Die No-Code-Plattform markiert einen wichtigen Meilenstein in Richtung digitale Souveränität. Erstmals stehen KI-gestützte Automationen zur Verfügung, die vollständig auf deutschen Servern laufen und damit höchste Datenschutzanforderungen erfüllen.'
+  date: 2025-11-14
+  source: 'eGovernment'
+  link: 'https://www.egovernment.de/ki-gestuetzte-verwaltungsdigitalisierung-made-in-germany-a-577b3fa3275e5597db4031a12d99f9f1/'
+
+- title: 'SeaTable 6.0: KI stärkt No-Code-Plattform'
+  year: 2025
+  summary: 'In seinem Artikel wirft Daniel Richey einen Blick auf den Nutzen von SeaTable für Unternehmen: Mit Version 6.0 bringt SeaTable künstliche Intelligenz und No-Code-Technologie enger zusammen. Die Plattform soll Unternehmen helfen, Prozesse zu automatisieren, Daten sicher zu analysieren und Fachabteilungen zu entlasten – ganz ohne Programmierkenntnisse.'
+  date: 2025-11-07
+  source: 'IT-Administrator'
+  link: 'https://www.it-administrator.de/seatable-ki-nocode-plattform'
+
+- title: 'No-Code-Plattform SeaTable integriert KI-Automatisierung'
+  year: 2025
+  summary: 'Moritz Förster stellt in seinem Artikel die Version 6.0 von SeaTable vor. Die neue Version integriert erstmals KI-Funktionen direkt in die Automatisierungsregeln der Tabellen- und Workflowsoftware. Nutzer können mit der KI Texte analysieren, Dokumente auswerten oder Informationen extrahieren. Das Cloud-Modell läuft auf deutschen Servern.'
+  date: 2025-11-06
+  source: 'heise online'
+  link: 'https://www.heise.de/news/No-Code-Plattform-SeaTable-integriert-KI-Automatisierung-11067543.html'
+
 - title: 'SeaTable: Leading no-code solution for IT transformation and digitalisation'
   year: 2025
   summary: 'Eine erfolgreiche digitale Transformation ist für viele Unternehmen entscheidend, um in Zukunft wettbewerbsfähig zu bleiben und weiter zu wachsen. Dabei können die Betriebe enorme Effizienzgewinne erzielen, indem sie ihre Prozesse digitalisieren, automatisieren und verschlanken. SeaTable ist eine innovative No-Code-Plattform, die genau das ermöglicht.'

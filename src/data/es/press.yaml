@@ -1,4 +1,25 @@
-- title: 'SeaTable: Solución líder sin código para la transformación y la digitalización'
+- title: 'Digitalización administrativa asistida por IA en Alemania'
+  year: 2025
+  summary: 'En su artículo, Stephan Augsten destaca las ventajas de SeaTable 6.0 para la administración pública: La plataforma no-code marca un hito importante hacia la soberanía digital. Por primera vez se dispone de automatizaciones asistidas por IA que se ejecutan íntegramente en servidores alemanes y, por tanto, cumplen los requisitos más estrictos en materia de protección de datos.'
+  date: 2025-11-14
+  source: 'eGovernment'
+  link: 'https://www.egovernment.de/ki-gestuetzte-verwaltungsdigitalisierung-made-in-germany-a-577b3fa3275e5597db4031a12d99f9f1/'
+
+- title: 'SeaTable 6.0: la IA refuerza la plataforma no-code'
+  year: 2025
+  summary: 'Daniel Richey analiza las ventajas de SeaTable para las empresas: Con la versión 6.0, SeaTable acerca la inteligencia artificial y la tecnología no-code. La plataforma está diseñada para ayudar a las empresas a automatizar procesos, analizar datos de forma segura y aliviar la carga de los departamentos especializados, sin necesidad de conocimientos de programación.'
+  date: 2025-11-07
+  source: 'IT-Administrator'
+  link: 'https://www.it-administrator.de/seatable-ki-nocode-plattform'
+
+- title: 'La plataforma no-code SeaTable integra la automatización de la IA'
+  year: 2025
+  summary: 'Moritz Förster presenta en su artículo la versión 6.0 de SeaTable. La nueva versión integra por primera vez funciones de IA directamente en las reglas de automatización de la hoja de cálculo y el software de flujo de trabajo. Los usuarios pueden utilizar la IA para analizar textos, evaluar documentos o extraer información. El modelo en la nube funciona en servidores alemanes.'
+  date: 2025-11-06
+  source: 'heise online'
+  link: 'https://www.heise.de/news/No-Code-Plattform-SeaTable-integriert-KI-Automatisierung-11067543.html'
+
+- title: 'SeaTable: Solución líder no-code para la transformación y la digitalización'
   year: 2025
   summary: 'El éxito de la transformación digital es crucial para que muchas empresas sigan siendo competitivas y continúen creciendo en el futuro. Las empresas pueden conseguir enormes ganancias de eficiencia digitalizando, automatizando y racionalizando sus procesos. SeaTable es una innovadora plataforma sin código que permite precisamente eso.'
   date: 2025-01-07
@@ -7,7 +28,7 @@
 
 - title: 'SeaTable 5.0 introduce un creador de aplicaciones integrado'
   year: 2024
-  summary: 'Ya está disponible la versión 5.0 de la base de datos sin código SeaTable. Entre otras cosas, introduce un creador de aplicaciones integrado, nuevos plugins y una accesibilidad mejorada.'
+  summary: 'Ya está disponible la versión 5.0 de la base de datos no-code SeaTable. Entre otras cosas, introduce un creador de aplicaciones integrado, nuevos plugins y una accesibilidad mejorada.'
   date: 2024-08-20
   source: 'Cloud Computing Insider'
   link: 'https://www.cloudcomputing-insider.de/seatable-5-0-neue-funktionen-verbesserungen-a-2b74484a863dccc362389762c77096a7/'
@@ -19,7 +40,7 @@
   source: 'Zeit Online'
   link: 'https://www.zeit.de/wirtschaft/unternehmen/2024-04/start-ups-bundeswehr-schwierigkeiten-produktion-beschaffung'
   
-- title: 'Gestión ágil de procesos sin código y seguridad de los datos'
+- title: 'Gestión ágil de procesos no-code y seguridad de los datos'
   year: 2023
   summary: 'En el podcast IT-Deep-Dive de silicon.de, el fundador de SeaTable Christoph Dyllick-Brenzinger y el capitán Martin Rothe discuten cómo la Bundeswehr implementa procesos internos y proyectos con seguridad utilizando SeaTable.'
   date: 2023-06-17
