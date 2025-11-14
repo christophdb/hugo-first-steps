@@ -72,7 +72,7 @@ seo:
 - [Обзор автоматики]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
 - [Функциональные возможности автоматики]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
 - [Создайте автоматизацию]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
-- [Управление и редактирование автоматизаций]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Управление и редактирование автоматизаций]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}})
 - [Остановить автоматизацию]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Удалить автоматизацию]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Отображение журнала выполнения автоматизации]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})

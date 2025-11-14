@@ -72,7 +72,7 @@ For more information on blocking rows , see the article [Blocking a row.]({{< re
 - [Overview of automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
 - [How automation works]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
 - [Create an automation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
-- [Manage and edit automations]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Manage and edit automations]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}})
 - [Stop automations]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Delete automations]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Show execution log of an automation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})

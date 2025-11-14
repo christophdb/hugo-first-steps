@@ -38,7 +38,7 @@ Aprenda [aqui]({{< relref "help/base-editor/automationen/anlegen-einer-automatio
 
 Pode, evidentemente, editar automatizações activas que já foram criadas. Neste artigo mostrar-lhe-emos quais as configurações que pode fazer ao automatizar os seus processos de trabalho.
 
-Saiba mais sobre a gestão das automatizações [aqui]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}}).
+Saiba mais sobre a gestão das automatizações [aqui]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}}).
 
 ## Parar as automatizações
 

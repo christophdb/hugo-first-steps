@@ -9,7 +9,7 @@ url: '/de/hilfe/funktionsweise-von-automationen'
 seo:
     title: 'So funktionieren Automationen in SeaTable'
     description: 'Erfahren Sie, wie Automationen Prozesse in SeaTable automatisieren: Trigger, Aktionen, Bedingungen und praktische Beispiele für effiziente Workflows erklärt.'
-
+weight: 4
 ---
 
 {{< required-version "Enterprise" >}}

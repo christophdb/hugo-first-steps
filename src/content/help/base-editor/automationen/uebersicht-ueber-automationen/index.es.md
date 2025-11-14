@@ -38,7 +38,7 @@ Aprenda a crear una automatización [aquí]({{< relref "help/base-editor/automat
 
 Por supuesto, puede editar posteriormente las automatizaciones ya creadas y activas. En este artículo le mostraremos qué ajustes puede realizar al automatizar sus procesos de trabajo.
 
-Obtenga más información sobre la gestión de automatizaciones [aquí]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}}).
+Obtenga más información sobre la gestión de automatizaciones [aquí]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}}).
 
 ## Detener automatizaciones
 

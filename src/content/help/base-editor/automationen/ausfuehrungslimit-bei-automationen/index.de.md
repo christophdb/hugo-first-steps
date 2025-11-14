@@ -9,6 +9,7 @@ url: '/de/hilfe/ausfuehrungslimit-bei-automationen'
 seo:
     title: 'Ausführungslimit bei Automationen in SeaTable erklärt'
     description: 'Erfahren Sie, wie das Ausführungslimit von 50 Automationsläufen pro Minute in SeaTable funktioniert und was Sie dabei beachten müssen.'
+weight: 7
 ---
 
 Arbeiten Sie in Ihrer Base mit [Automationen]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}), die durch neue oder veränderte Einträge ausgelöst werden? Dann beachten Sie bitte Folgendes: Wenn Sie mehr als 50 Einträge pro Minute hinzufügen oder verändern, kann es passieren, dass die gewünschten [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) nicht gestartet werden. Grund dafür ist das Ausführungslimit bei Automationen.
