@@ -7,8 +7,8 @@ url: '/es/gestion-inmobiliaria'
 aliases:
     - /es/immobilienverwaltung
 seo:
-    title:
-    description:
+    title: 'Plantillas de gestión inmobiliaria: alquiler, mudanza, mantenimiento'
+    description: 'Gestiona propiedades, organiza mudanzas o tareas del edificio con plantillas SeaTable gratuitas y adaptables para propietarios, inquilinos y agentes.'
 categories:
     - 'best-practice'
 tags:

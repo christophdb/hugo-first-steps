@@ -5,7 +5,12 @@ lastmod: '2023-07-19'
 categories:
     - 'skripte-api-integrationen'
 author: 'cdb'
-url: '/ru/pomoshch/integrationen-seatable'
+url: '/ru/pomoshch/integracii-seatable'
+aliases:
+    - '/ru/pomoshch/integrationen-seatable'
+seo:
+    title: 'Интеграции с SeaTable: API, Webhooks, Автоматизация, Плагины'
+    description: 'Все про интеграции с SeaTable: REST API, webhooks, скрипты, email, Zapier, Make, плагины и разработка – легко настроить обмен и автоматизацию данных!'
 ---
 
 Интеграции расширяют возможности работы и взаимодействия с SeaTable. Например, интеграции позволяют вам получить доступ к данным в SeaTable с помощью других инструментов и программных решений, или вы можете разработать рабочие процессы, автоматизирующие определенные шаги. Кроме того, вы можете разработать собственные приложения или программы, использующие SeaTable в качестве бэкенда.

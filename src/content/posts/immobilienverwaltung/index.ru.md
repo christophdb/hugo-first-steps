@@ -7,8 +7,8 @@ url: '/ru/upravlenie-nedvizhimostyu'
 aliases:
     - /ru/immobilienverwaltung
 seo:
-    title:
-    description:
+    title: 'Шаблоны для управления недвижимостью: аренда, переезд, сервис'
+    description: 'Ведите учет объектов, планируйте переезды и управляйте задачами ЖКХ с SeaTable— шаблоны бесплатно и под любые нужды арендодателя или арендатора.'
 categories:
     - 'best-practice'
 tags:

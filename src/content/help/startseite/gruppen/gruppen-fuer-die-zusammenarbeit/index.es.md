@@ -5,7 +5,12 @@ lastmod: '2023-01-16'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/es/ayuda/gruppen'
+url: '/es/ayuda/grupos'
+aliases:
+    - '/es/ayuda/gruppen'
+seo:
+    title: 'Grupos en SeaTable: colaboración fácil y control de accesos'
+    description: 'Organiza equipos y derechos de acceso en SeaTable: roles, permisos y gestión colaborativa de bases, explicado con tablas comparativas y mejores prácticas.'
 ---
 
 **Los grupos** son especialmente importantes para la colaboración en tu equipo. Reúnen a miembros de equipos implicados en proyectos conjuntos, permiten compartir fácilmente datos en bases comunes y trasladan las funciones de gestión de usuarios directamente al grupo. Cuanto mayor sea su equipo, más a menudo deberá utilizar los grupos.

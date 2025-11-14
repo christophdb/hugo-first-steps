@@ -8,8 +8,8 @@ url: '/property-management'
 aliases:
     - /immobilienverwaltung
 seo:
-    title:
-    description:
+    title: 'Real Estate Templates & Management Tools: Organize, Move & Rent'
+    description: 'Streamline property management, moving, listings and janitorial tasks with SeaTable templates—free, customizable and ready for landlords or tenants.'
 categories:
     - 'best-practice'
 tags:

@@ -7,8 +7,8 @@ url: '/pt/gestao-imobiliaria'
 aliases:
     - /pt/immobilienverwaltung
 seo:
-    title:
-    description:
+    title: 'Modelos para gestão imobiliária SeaTable: locação, mudança, administração'
+    description: 'Gerencie imóveis, planejamentos de mudanças e tarefas com modelos SeaTable gratuitos e flexíveis para proprietários, inquilinos e síndicos.'
 categories:
     - 'best-practice'
 tags:

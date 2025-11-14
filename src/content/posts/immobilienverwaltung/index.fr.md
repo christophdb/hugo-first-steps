@@ -7,8 +7,8 @@ url: '/fr/gestion-immeuble'
 aliases:
     - /fr/immobilienverwaltung
 seo:
-    title:
-    description:
+    title: 'Modèles immobiliers gratuits : gestion, location, déménagement, entretien'
+    description: "Centralisez la gestion de biens, votre recherche d'appartement ou le suivi du déménagement avec SeaTable—modèles gratuits et personnalisables."
 categories:
     - 'best-practice'
 tags:
