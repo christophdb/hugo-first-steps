@@ -8,8 +8,8 @@ categories:
     - 'product-features'
 color: '#9dcde3'
 seo:
-    title:
-    description:
+    title: 'SeaTable 5.2 Release: Filter Groups, Whiteboard & App Builder Upgrades'
+    description: 'Discover SeaTable 5.2: Advanced filter groups (AND/OR), cross-column formatting, new whiteboard plugin, powerful app builder and API updates for smarter workflow.'
 ---
 
 The second minor release of version 5 of SeaTable contains numerous bug fixes and detail improvements to make working with SeaTable even easier and to support your use cases even better: In Bases, the **new filter groups** enable a much more precise selection of data (records). Cross-column filters in conditional rows and cell formatting allow a previously impossible action-oriented highlighting of data. In the **App Builder**, every page type benefits from major and minor improvements of various kinds - extended authorizations, better usability and more functions. SeaTable 5.2 also includes a new **whiteboard plugin** and improvements to the page design and calendar plugins. As always, you can find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}/).

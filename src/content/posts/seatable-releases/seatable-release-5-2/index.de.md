@@ -8,8 +8,8 @@ categories:
     - 'product-features'
 color: '#9dcde3'
 seo:
-    title:
-    description:
+    title: 'SeaTable 5.2 Release: Filtergruppen, Whiteboard-Plugin & App-Builder'
+    description: 'Neue Filtergruppen (UND/ODER), spaltenübergreifende Formatierung, verbessertes Whiteboard, App-Builder-Features, API-Änderungen & mehr in SeaTable 5.2. Alles auf einen Blick!'
 ---
 
 Das zweite Minor Release der Version 5 von SeaTable enthält zahlreiche Bugfixes und Detailverbesserungen, um die Arbeit mit SeaTable noch einfacher zu machen und Ihre Anwendungsfälle noch besser zu unterstützen: In Bases ermöglichen die **neuen Filtergruppen** eine deutlich präzisere Selektion von Daten(sätzen). Spaltenübergreifende Filter in der bedingten Zeilen- und Zellformatierung erlauben eine bisher so nicht mögliche handlungsorientierte Hervorhebung von Daten. Im **App Builder** profitiert jeder Seitentyp von größeren und kleineren Verbesserungen unterschiedlicher Art – erweiterte Berechtigungen, bessere Usability und mehr Funktionen. Zu SeaTable 5.2 gehören auch ein neues **Whiteboard-Plugin** und Verbesserungen an den Plugins Seitendesign und Kalender. Im [Changelog]({{< relref "pages/changelog" >}}/) finden Sie – wie immer – die vollständige Liste der Änderungen.

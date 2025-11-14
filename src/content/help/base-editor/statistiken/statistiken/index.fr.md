@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'statistiken-und-datenanalyse'
 author: 'cdb'
-url: '/fr/aide/statistiken'
+url: '/fr/aide/statistiques'
+aliases:
+    - '/fr/aide/statistiken'
+seo:
+    title: 'Statistiques et analyse de données SeaTable : visualiser et explorer'
+    description: 'Filtrez, groupez et analysez les données avec le module statistiques : graphiques, pivots, dashboards et plus dans SeaTable—guide complet et intuitif.'
 ---
 
 Grâce aux outils d'évaluation que sont les **filtres, les tris et les regroupements**, il est possible d'effectuer des analyses simples en quelques clics. SeaTable connaît en outre différentes **opérations de traitement des données**, qui permettent par exemple de calculer des valeurs cumulées ou de créer des classements. Pour des analyses détaillées avec des tableaux croisés dynamiques, des diagrammes et des représentations graphiques, SeaTable propose le **module Statistiques**.

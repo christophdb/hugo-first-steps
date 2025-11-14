@@ -5,7 +5,12 @@ lastmod: '2023-01-16'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/help/gruppen'
+url: '/help/groups'
+aliases:
+    - '/help/gruppen'
+seo:
+    title: 'Groups in SeaTable: Team Collaboration & Access Rights Simplified'
+    description: 'Manage projects together: Learn group roles, permissions and shared database access with SeaTable—plus overview of every group right in detail.'
 ---
 
 **Groups** are particularly important for collaboration in your team. They bring together team members involved in common projects, allow easy sharing of data in common bases, and move user-managing functions directly into the group. The larger your team, the more often you should use groups.

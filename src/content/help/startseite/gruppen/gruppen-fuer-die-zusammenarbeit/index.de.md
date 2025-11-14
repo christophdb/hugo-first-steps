@@ -6,6 +6,9 @@ categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
 url: '/de/hilfe/gruppen'
+seo:
+    title: 'Gruppen in SeaTable: Zusammenarbeit & Rechte effizient steuern'
+    description: 'Arbeiten Sie gemeinsam an Projekten: So verwalten Sie Gruppen, Rollen, Bases und Zugriffe mit SeaTable – inklusive Tabelle aller Gruppenrechte im Überblick.'
 ---
 
 Für die Zusammenarbeit in Ihrem Team sind **Gruppen** von besonderer Bedeutung. Sie bringen in gemeinsame Projekte involvierte Teammitglieder zusammen, erlauben den einfachen Austausch von Daten in gemeinsamen Bases und verlagern benutzerverwaltende Funktionen direkt in die Gruppe. Je größer Ihr Team ist, desto öfter sollten Sie Gruppen nutzen.

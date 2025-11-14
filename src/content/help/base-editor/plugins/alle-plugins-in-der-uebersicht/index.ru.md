@@ -5,7 +5,12 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/pomoshch/alle-plugins-in-der-uebersicht'
+url: '/ru/pomoshch/obzor-plaginov-seatable'
+aliases:
+    - '/ru/pomoshch/alle-plugins-in-der-uebersicht'
+seo:
+    title: 'Плагины SeaTable: полный обзор расширений, применение'
+    description: 'Узнайте о всех плагинах SeaTable: календарь, галерея, канбан, SQL, доска, карты, оргструктура и связи—активация, преимущества и сценарии использования.'
 ---
 
 **Плагины** SeaTable позволяют взглянуть на данные с совершенно иной точки зрения. Визуализируйте встречи, задачи и местоположения, создавайте документы и профили на основе ваших данных. В следующей статье мы расскажем, какие плагины доступны в SeaTable и как их использовать.

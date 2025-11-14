@@ -5,7 +5,12 @@ lastmod: '2024-03-18'
 categories:
     - 'statistiken-und-datenanalyse'
 author: 'cdb'
-url: '/ru/pomoshch/statistiken'
+url: '/ru/pomoshch/statistika'
+aliases:
+    - '/ru/pomoshch/statistiken'
+seo:
+    title: 'Статистика и анализ данных в SeaTable: фильтры, графики, сводные'
+    description: 'Узнайте, как фильтровать, группировать данные, строить диаграммы и использовать все возможности модуля статистики и аналитики SeaTable.'
 ---
 
 Dank der Auswertungswerkzeuge **Filter, Sortierung und Gruppierung** lassen sich einfache Analysen mit wenigen Klicks ausführen. SeaTable kennt zudem verschiedene **Operationen zur Datenverarbeitung**, mit denen Sie beispielsweise kumulierte Werte errechnen oder Ranglisten erstellen können. Für detaillierte Auswertungen mit Pivot-Tabellen, Diagrammen und grafischen Darstellungen bietet SeaTable das **Statistik-Modul**.

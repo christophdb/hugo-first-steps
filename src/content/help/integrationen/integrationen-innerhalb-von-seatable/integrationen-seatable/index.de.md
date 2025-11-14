@@ -6,6 +6,9 @@ categories:
     - 'skripte-api-integrationen'
 author: 'cdb'
 url: '/de/hilfe/integrationen-seatable'
+seo:
+    title: 'Integrationen mit SeaTable: API, Webhooks & Automatisierung im Überblick'
+    description: 'Lernen Sie alle Integrationen: REST-API, Webhooks, JavaScript/Python, E-Mail, Zapier, Make & eigene Plugins – so verbinden Sie SeaTable mit Ihrer Arbeitswelt effizient!'
 ---
 
 Integrationen erweitern die Möglichkeit, wie Sie mit SeaTable arbeiten und interagieren können. Integrationen erlauben beispielsweise, dass Sie mit anderen Tools und Softwarelösungen auf die Ihre Daten innerhalb von SeaTable zugreifen, oder Sie können Arbeitsabläufe designen, die gewisse Arbeitsschritte automatisieren. Alternativ könnten Sie auch eigenen Apps oder Programme entwickeln, die SeaTable als Backend verwenden.

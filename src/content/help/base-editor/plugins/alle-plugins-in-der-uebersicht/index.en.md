@@ -5,7 +5,12 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/help/alle-plugins-in-der-uebersicht'
+url: '/help/plugins-overview'
+aliases:
+    - '/help/alle-plugins-in-der-uebersicht'
+seo:
+    title: 'SeaTable Plugins: Top Extensions at a Glance'
+    description: 'Discover all SeaTable plugins: calendar, gallery, kanban, SQL, whiteboard, maps, org chart, table relations—features, benefits and activation tips for every use case.'
 ---
 
 SeaTable **plugins** give you the opportunity to see your data from a completely different perspective. Visualize appointments, tasks and locations and create laid-out documents and profiles from your data. In the following article, we explain which plugins are available in SeaTable and how you can use them.

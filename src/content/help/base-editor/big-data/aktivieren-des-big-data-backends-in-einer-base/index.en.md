@@ -9,8 +9,8 @@ url: '/help/enable-big-data-storage-seatable'
 aliases:
     - '/help/aktivieren-des-big-data-backends-in-einer-base'
 seo:
-    title: ''
-    description: ''
+    title: 'Enable Big Data Storage in SeaTable: Unlimited Rows for Enterprise'
+    description: 'Learn how to unlock SeaTable’s Big Data Storage, remove the 100,000-row limit and store millions of records in your enterprise base—step by step.'
 ---
 
 {{< required-version "Enterprise" >}}
