@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Integre as calculadoras NPS nos seus sistemas com o SeaTable'
       subtitle: 'Avalie a satisfação do cliente com o Net Promoter Score'
-      description: 'A base de dados AI No Code SeaTable oferece-lhe todas as funções de que necessita para uma calculadora NPS - e é tão simples como uma folha de cálculo.'
+      description: 'A base de dados AI no-code SeaTable oferece-lhe todas as funções de que necessita para uma calculadora NPS - e é tão simples como uma folha de cálculo.'
       items:
       - text: 'Dados actualizados: Todos os novos envios de formulários são imediatamente visíveis no backend e podem ser processados imediatamente.'
       - text: 'Colaboração real: Trabalhe nos seus dados em conjunto, como uma equipa - sem atrasos ou inconsistências.'
