@@ -13,19 +13,24 @@ sections:
           - label: 'Rejoignez notre équipe !'
             link: 'pages/jobs'
 
-    - name: content-14
+    - name: content-4
       weight: 2
-      title: Ce qui nous motive
-      subtitle: Motivation
+      subtitle: 'Motivation'
+      title: "C'est ce qui nous <span class='gradient'>motive</span>"
+      
       items:
-          - headline: Simplicité
-            text: 'Avec notre solution cloud, les équipes et les entreprises peuvent organiser leurs données et informations plus efficacement en quelques minutes et sans connaissances techniques'
-          - headline: Contrôle
-            text: 'Avec la version auto-hébergée, nous offrons une alternative à la dépendance. Prenez le contrôle total de vos données et processus.'
-          - headline: Leader du marché
-            text: 'Notre objectif est de devenir le leader européen des solutions low-code. Nous y travaillons chaque jour.'
-          - headline: Prestataire de services
-            text: "Nous proposons l'installation, la configuration, la maintenance, la formation et l'exploitation pour les entreprises de toutes tailles."
+      - icon: ''
+        headline: 'Simplicité'
+        text: "Notre solution cloud permet aux équipes et aux entreprises d'organiser plus efficacement leurs données et informations en quelques minutes et sans connaissances techniques."
+      - icon: ''
+        headline: 'Contrôle'
+        text: 'Avec la variante auto-hébergée, nous vous offrons une solution pour sortir de la dépendance. Prenez le contrôle total de vos données et de vos processus.'
+      - icon: ''
+        headline: 'Prestataire de services'
+        text: "Nous assurons l'installation, la configuration, la maintenance, la formation et l'exploitation pour les entreprises de toutes tailles."
+      - icon: ''
+        headline: 'Leader du marché'
+        text: 'Notre objectif est de devenir le leader européen dans le domaine des solutions Low-Code. Nous y travaillons chaque jour.'
 
     - name: content-15
       weight: 3
@@ -39,7 +44,6 @@ sections:
             text: 'Implantations'
           - number: '100.000+'
             text: Utilisateurs
-      image: '/images/our-team-at-seadays2024.jpg'
 
     - name: content-16
       weight: 4
