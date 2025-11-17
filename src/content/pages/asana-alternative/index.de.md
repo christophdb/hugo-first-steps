@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable: Die beste Asana Alternative'
-      text: Team- und Prozessmanagement muss nicht kompliziert oder teuer sein. Mit SeaTable als Asana Alternative steht Ihnen ein vielseitiges, **DSGVO-konformes No-Code Tool** zur Verfügung. Entdecken Sie das Prozessmanagement der Zukunft – mit einem leistungsfähigen, flexiblen Tool für schlanke, kollaborative und effiziente Prozesse.
+      text: Team- und Prozessmanagement muss nicht kompliziert oder teuer sein. Mit SeaTable als Asana Alternative steht Ihnen ein vielseitiges, **DSGVO-konformes KI No-Code Tool** zur Verfügung. Entdecken Sie das Prozessmanagement der Zukunft – mit einem leistungsfähigen, flexiblen Tool für schlanke, kollaborative und effiziente Prozesse.
       classes:
           - bg-white
       template: 932ed68b8ffc4a689819
@@ -130,7 +130,7 @@ sections:
       weight: 10
       title: Asana Alternative testen mit kostenlosen Templates
       subtitle: Vorlagen für jeden Anwendungsfall
-      description: 'SeaTable bietet zahlreiche kostenlose Templates, die Ihnen den Einstieg in die deutsche Alternative zu Asana erleichtern. Entdecken Sie unsere Aufgabenmanagement und Projektmanagement Vorlagen. Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account.'
+      description: 'SeaTable bietet zahlreiche kostenlose Templates, die Ihnen den Einstieg in die **deutsche Alternative zu Asana** erleichtern. Entdecken Sie unsere Aufgabenmanagement und Projektmanagement Vorlagen. Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account.'
       items:
           - text: Projektplan
             image: /images/asana-projektmanagement.jpg
@@ -176,7 +176,7 @@ sections:
       title: FAQ – SeaTable als Asana Alternative
       items:
           - q: 'Für wen eignet sich SeaTable?'
-            a: 'SeaTable ist besonders attraktiv für **Nutzer, die ein leistungsfähiges, flexibles, vielseitiges und günstiges Prozessmanagement-Tool suchen** und dabei unterhalb der Asana Kosten bleiben möchten. Durch Automatisierungen und anpassbare Strukturen und [Workflows]({{< relref "pages/industry-solutions/individual" >}}) können Unternehmen Ihre Prozesse schneller und transparenter gestalten und in Echtzeit kollaborativ arbeiten. Mit SeaTable als Prozessmanagement-Tool können Sie alles in einer Plattform abbilden und weitere Tools, wie z. B. einen E-Mail-Client, ganz leicht integrieren – ohne weiteren Programmieraufwand. Damit ist SeaTable die erste Wahl unter den Alternativen zu Asana.'
+            a: 'SeaTable ist besonders attraktiv für Nutzer, die eine leistungsfähige, flexible, vielseitige und günstige [Prozessmanagement-Software]({{< relref "pages/industry-solutions/operations" >}}) suchen und dabei unterhalb der Asana Kosten bleiben möchten. Durch Automatisierungen und anpassbare Strukturen und [Workflows]({{< relref "pages/industry-solutions/individual" >}}) können Unternehmen Ihre Prozesse schneller und transparenter gestalten und in Echtzeit kollaborativ arbeiten. Mit SeaTable als Prozessmanagement-Tool können Sie alles in einer Plattform abbilden und weitere Tools, wie z. B. einen E-Mail-Client, ganz leicht integrieren – ohne weiteren Programmieraufwand. Damit ist SeaTable die erste Wahl unter den Alternativen zu Asana.'
           - q: 'Ist SeaTable für Teams jeder Größe geeignet?'
             a: 'Absolut, SeaTable ist **vollständig flexibel anpassbar und skalierbar**. Sie können unsere Plattform für verschiedenste Aufgaben und Prozesse nutzen: von einfachen Checklisten über Projektmanagement bis hin zu kompletten CRM-Systemen. Damit ist SeaTable die ideale Alternative zum Asana Tool, um die Asana Software Kosten zu vermeiden und eine Alternative Asana kostenlos zu nutzen.'
           - q: 'Bietet SeaTable eine Free-Version?'
