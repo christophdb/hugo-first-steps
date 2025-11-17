@@ -29,7 +29,7 @@ sections:
         - bg-seatable-blue
       title: "Applicant management software SeaTable"
       subtitle: Flexible, transparent, legally compliant
-      description: SeaTable brings structure and efficiency to your applicant management. Our intuitive applicant management software combines all the advantages you need to simplify your daily processes. 
+      description: SeaTable brings structure and efficiency to your applicant management. Our intuitive applicant management software combines all the advantages you need to [optimize your daily processes](({{< relref "pages/industry-solutions/operations" >}}). 
       items:
         - text: Central applicant management
         - text: Efficient talent management
@@ -45,7 +45,7 @@ sections:
       title: Centralized management of applications
       subtitle: Applicant management process
       items:
-      - text: With SeaTable as your applicant management software, you can record all applicant data centrally and clearly. You can collect all relevant information and documents online via a customizable and user-friendly web form. All applications and applicants are at a glance in a clearly structured database. 
+      - text: With SeaTable as your applicant management software, you can record all applicant data centrally and clearly. You can collect all relevant information and documents online via a customizable and user-friendly web form. All applications and applicants are at a glance in a clearly [structured database]({{< relref "posts/online-datenbank-kostenlos" >}}). 
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
 
     - name: content-11
