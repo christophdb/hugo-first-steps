@@ -320,17 +320,24 @@ sections:
     
   - name: content-15
     weight: 33
-    title: SeaTable in Zahlen
+    title: Messbarer Erfolg, nachgewiesene Ergebnisse
+    subtitle: Beeindruckende Zahlen 
+    # measurable success, proven results)
+    # impressive stats
+    description: Wir legen hohen Wert darauf, nachhaltige und greifbare Resultate für unsere Kunden zu erzielen. Durch kontinuierliche Innovation und die konsequente Optimierung unserer Lösungen schaffen wir echten Mehrwert, der sich langfristig auszahlt.<br><br>Unser Anspruch ist es, nicht nur kurzfristige Erfolge zu ermöglichen, sondern auch eine vertrauensvolle Partnerschaft aufzubauen, die auf Qualität, Verlässlichkeit und Transparenz basiert. So unterstützen wir unsere Kunden dabei, ihre Ziele messbar zu erreichen und dauerhaft ihren Erfolg zu sichern.
     items:
     - number: "2020"
       text: Am Start seit
-    - number: 40+
+    - number: 40<span class="-mt-12 absolute text-3xl">+</span>
       text: Teammitglieder
     - number: 3
       text: Standorte
-    - number: 100.000+
-      text: Nutzer
-    image: "/images/our-team-at-seadays2024.jpg"
+    - number: 100<span class="-mt-12 absolute text-3xl">k</span>
+      text: Nutzer / Kunden
+    - number: 100<span class="-mt-12 absolute text-3xl">%</span>
+      text: Kundenzufriedenheit
+    - number: 99.9<span class="-mt-12 absolute text-3xl">%</span>
+      text: Erreichbarkeit unserer Cloud
 
   - name: content-16
     weight: 34

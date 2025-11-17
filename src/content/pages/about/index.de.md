@@ -17,34 +17,44 @@ sections:
       weight: 2
       subtitle: 'Motivation'
       title: "Das ist, was uns <span class='gradient'>antreibt</span>"
-      
       items:
-      - icon: ''
-        headline: 'Einfachheit'
-        text: 'Mit unserer Cloud-Lösung können Teams und Unternehmen in Minuten und ohne technischen Wissen ihre Daten und Informationen effizienter organisieren'
-      - icon: ''
-        headline: 'Kontrolle'
-        text: 'Mit der selbstgehosteten Variante bieten wir einen Ausweg aus der Abhängigkeit. Übernehmen Sie die volle Kontrolle über Ihre Daten und Prozesse.'
-      - icon: ''
-        headline: 'Dienstleister'
-        text: 'Wir bieten Installation, Konfiguration, Wartung, Schulung und Betrieb für Unternehmen jeder Größe.'
-      - icon: ''
-        headline: 'Marktführer'
-        text: 'Unser Ziel ist es, europäischer Marktführer im Bereich Low-Code-Lösungen zu werden. Dafür arbeiten wir jeden Tag.'
-     
-      
+          - icon: 'leaf'
+            headline: 'Einfachheit'
+            text: 'Mit unserer Cloud-Lösung können Teams und Unternehmen in Minuten und ohne technischen Wissen ihre Daten und Informationen effizienter organisieren'
+          - icon: 'terminal'
+            headline: 'Kontrolle'
+            text: 'Mit der selbstgehosteten Variante bieten wir einen Ausweg aus der Abhängigkeit. Übernehmen Sie die volle Kontrolle über Ihre Daten und Prozesse.'
+          - icon: 'graduation-cap'
+            headline: 'Innovation'
+            text: 'Unsere Innovationskraft treibt uns an, ständig neue Lösungen und Technologien zu entwickeln, um die Geschäftsprozesse unserer Kunden effizienter und zukunftssicher zu gestalten.'
+          - icon: 'wand-magic-sparkles'
+            headline: 'Dienstleister'
+            text: 'Wir bieten Installation, Konfiguration, Wartung, Schulung und Betrieb für Unternehmen jeder Größe. Von uns bekommen Sie alles aus einer Hand.'
+          - icon: 'chart-line'
+            headline: 'Marktführer'
+            text: 'Unser Ziel ist es, europäischer Marktführer im Bereich Low-Code-Lösungen zu werden. Dafür arbeiten wir jeden Tag.'
+          - icon: 'compass'
+            headline: 'Mehrwert'
+            text: 'Wir schaffen echten Mehrwert, indem wir individuelle Lösungen anbieten, die genau auf die Bedürfnisse unserer Kunden zugeschnitten sind und nachhaltigen Erfolg sichern.'
+
     - name: content-15
-      weight: 4
-      title: SeaTable in Zahlen
+      weight: 3
+      title: Messbarer Erfolg, nachgewiesene Ergebnisse
+      subtitle: Beeindruckende Zahlen
+      description: Wir legen hohen Wert darauf, nachhaltige und greifbare Resultate für unsere Kunden zu erzielen. Durch kontinuierliche Innovation und die konsequente Optimierung unserer Lösungen schaffen wir echten Mehrwert, der sich langfristig auszahlt.<br><br>Unser Anspruch ist es, nicht nur kurzfristige Erfolge zu ermöglichen, sondern auch eine vertrauensvolle Partnerschaft aufzubauen, die auf Qualität, Verlässlichkeit und Transparenz basiert. So unterstützen wir unsere Kunden dabei, ihre Ziele messbar zu erreichen und dauerhaft ihren Erfolg zu sichern.
       items:
           - number: '2020'
             text: Am Start seit
-          - number: 40+
+          - number: 40<span class="-mt-12 absolute text-3xl">+</span>
             text: Teammitglieder
           - number: 3
             text: Standorte
-          - number: 100.000+
-            text: Nutzer
+          - number: 100<span class="-mt-12 absolute text-3xl">k</span>
+            text: Nutzer / Kunden
+          - number: 100<span class="-mt-12 absolute text-3xl">%</span>
+            text: Kundenzufriedenheit
+          - number: 99.9<span class="-mt-12 absolute text-3xl">%</span>
+            text: Erreichbarkeit unserer Cloud
 
     - name: content-16
       weight: 4
@@ -71,20 +81,27 @@ sections:
             text: "Die Idee entsteht und die <span class='gradient'>erste Zeile des Quellcodes</span> wird geschrieben"
           - date: 06/2020
             text: <span class='gradient'>seatable.io</span> geht online
-          - date: 09/2020
+          - date: 11/2020
             text: Erste Erwähnung in der <span class='gradient'>deutschen IT-Presse</span>
+            link: https://www.pcwelt.de/ratgeber/Tabellenkalkulation-aus-der-Cloud-datenschutzrechtlich-problematisch-10927426.html
           - date: 04/2021
             text: <span class='gradient'>SeaTable 2.0</span> erscheint
           - date: 07/2021
             text: 100+ Sterne bei <span class='gradient'>GitHub</span>
+            link: https://github.com/seatable/seatable
           - date: 04/2022
             text: <span class='gradient'>Das Handelsblatt</span> berichtet als erste überregionale Deutsche Zeitung über SeaTable
           - date: 06/2022
             text: <span class='gradient'>SeaTable 3.0</span> wird veröffentlicht
           - date: 08/2022
             text: 10K Downloads bei <span class='gradient'>Docker Hub</span>
+            link: https://hub.docker.com/u/seatable
           - date: 03/2023
             text: <span class='gradient'>Innovationsprojekt BwTable</span> mit der deutschen Bundeswehr
+            link: https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/aktuelles/projekt-bwtable-datenbank-5600780
+          - date: 05/2023
+            text: <span class='gradient'>techcrunch</span> berichtet erstmalig über SeaTable
+            link: https://techcrunch.com/2023/05/26/seatable-seafile-profile/
           - date: 07/2023
             text: SeaTable ist nun auf <span class='gradient'>6 verschiedenen Sprachen</span> verfügbar
           - date: 11/2024
@@ -93,6 +110,7 @@ sections:
             text: <span class='gradient'>seatable.com</span> erblickt das Licht der Welt
           - date: 11/2025
             text: <span class='gradient'>SeaTable 6.0</span> bringt AI und No-Code zusammen zu der ersten DSGVO-konformen AI No-Code Lösung
+            link: https://www.heise.de/en/news/No-code-platform-SeaTable-integrates-AI-automation-11067854.html
 
     - name: content-18
       weight: 7

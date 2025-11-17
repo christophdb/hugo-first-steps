@@ -25,8 +25,15 @@
         <div class="mx-auto mt-14 flex max-w-3xl flex-col gap-8">
             {{ range .items }}
                 <div class="flex flex-row gap-6">
-                    <span class="gradient border-r-2 border-seatable-orange pr-6 pt-1 font-poppins text-xl font-bold">{{ .date }}</span>
-                    <p class="pb-4 font-poppins text-2xl font-bold tracking-tighter text-white">{{ .text | safeHTML }}</p>
+                    <span class="gradient min-w-32 border-r-2 border-seatable-orange pr-6 pt-1 font-poppins text-xl font-bold">{{ .date }}</span>
+                    <div class="">
+                        <p class="font-poppins text-2xl font-bold tracking-tighter text-white">{{ .text | safeHTML }}</p>
+                        {{ if .link }}
+                            <a href="{{ .link }}" target="_blank" class="flex items-center gap-2 pt-1 text-sm text-white hover:underline"
+                                >Read more {{ partial "icon.html" "arrow-right" }}</a
+                            >
+                        {{ end }}
+                    </div>
                 </div>
             {{ end }}
         </div>

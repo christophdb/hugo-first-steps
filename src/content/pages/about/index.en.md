@@ -17,33 +17,44 @@ sections:
       weight: 2
       subtitle: 'Motivation'
       title: "This is what <span class='gradient'>drives</span> us"
-      
       items:
-      - icon: ''
-        headline: 'Simplicity'
-        text: 'With our cloud solution, teams and companies can organize their data and information more efficiently in minutes and without technical knowledge'
-      - icon: ''
-        headline: 'Control'
-        text: 'With the self-hosted version, we offer a way out of dependency. Take full control of your data and processes.'
-      - icon: ''
-        headline: 'Service provider'
-        text: 'We offer installation, configuration, maintenance, training and operation for companies of all sizes.'
-      - icon: ''
-        headline: 'Market leader'
-        text: 'Our goal is to become the European market leader in low-code solutions. We work towards this every day.'
+          - icon: 'leaf'
+            headline: 'Simplicity'
+            text: 'With our cloud solution, teams and companies can organize their data and information more efficiently within minutes and without technical knowledge.'
+          - icon: 'terminal'
+            headline: 'Control'
+            text: 'With the self-hosted variant, we offer a way out of dependency. Take full control of your data and processes.'
+          - icon: 'graduation-cap'
+            headline: 'Innovation'
+            text: 'Our innovative drive pushes us to constantly develop new solutions and technologies to make our customers business processes more efficient and future-proof.'
+          - icon: 'wand-magic-sparkles'
+            headline: 'Service Provider'
+            text: 'We offer installation, configuration, maintenance, training, and operation for companies of all sizes. You get everything from a single source from us.'
+          - icon: 'chart-line'
+            headline: 'Market Leader'
+            text: 'Our goal is to become the European market leader in low-code solutions. We work every day to achieve this.'
+          - icon: 'compass'
+            headline: 'Added Value'
+            text: 'We create real added value by offering customized solutions tailored precisely to our customers needs, ensuring sustainable success.'
 
     - name: content-15
-      weight: 4
-      title: SeaTable in figures
+      weight: 3
+      title: Measurable success, proven results
+      subtitle: Impressive stats
+      description: We place great importance on achieving sustainable and tangible results for our customers. Through continuous innovation and consistent optimization of our solutions, we create real added value that pays off in the long term. <br><br>Our aim is not only to enable short-term success, but also to build a trusting partnership based on quality, reliability, and transparency. In this way, we support our customers in achieving their goals in a measurable way and securing their long-term success.
       items:
           - number: '2020'
             text: At the start since
-          - number: 40+
+          - number: 40<span class="-mt-12 absolute text-3xl">+</span>
             text: Team members
           - number: 3
             text: Locations
-          - number: 100.000+
-            text: Users
+          - number: 100<span class="-mt-12 absolute text-3xl">k</span>
+            text: Customers
+          - number: 100<span class="-mt-12 absolute text-3xl">%</span>
+            text: Customer satisfaction
+          - number: 99.9<span class="-mt-12 absolute text-3xl">%</span>
+            text: Availability of our cloud
 
     - name: content-16
       weight: 4
@@ -70,20 +81,27 @@ sections:
             text: "The idea is born and the <span class='gradient'>first row of source code</span> is written"
           - date: 06/2020
             text: <span class='gradient'>seatable.io</span> goes online
-          - date: 09/2020
+          - date: 11/2020
             text: First mention in the <span class='gradient'>German IT press</span>
+            link: https://www.pcwelt.de/ratgeber/
           - date: 04/2021
             text: <span class='gradient'>SeaTable 2.0</span> appears
           - date: 07/2021
             text: 100+ stars on <span class='gradient'>GitHub</span>
+            link: https://github.com/seatable/seatable
           - date: 04/2022
             text: <span class='gradient'>The Handelsblatt</span> is the first national German newspaper to report on SeaTable
           - date: 06/2022
             text: <span class='gradient'>SeaTable 3.0</span> is released
           - date: 08/2022
             text: 10K downloads at <span class='gradient'>Docker Hub</span>
+            link: https://hub.docker.com/u/seatable
           - date: 03/2023
             text: <span class='gradient'>BwTable innovation project</span> with the German armed forces
+            link: https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/aktuelles/projekt-bwtable-datenbank-5600780
+          - date: 05/2023
+            text: <span class='gradient'>TechCrunch</span> reports on SeaTable for the first time
+            link: https://techcrunch.com/2023/05/26/seatable-seafile-profile/
           - date: 07/2023
             text: SeaTable is now available in <span class='gradient'>6 different languages</span>
           - date: 11/2024
@@ -92,6 +110,7 @@ sections:
             text: <span class='gradient'>seatable.com</span> sees the light of day
           - date: 11/2025
             text: <span class='gradient'>SeaTable 6.0</span> brings AI and no-code together to create the first GDPR-compliant AI no-code solution
+            link: https://www.heise.de/en/news/No-code-platform-SeaTable-integrates-AI-automation-11067854.html
 
     - name: content-18
       weight: 6

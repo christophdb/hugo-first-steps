@@ -19,33 +19,44 @@ sections:
       weight: 2
       subtitle: 'Motivación'
       title: "Esto es lo que <span class='gradient'>nos motiva</span>"
-      
       items:
-      - icon: ''
-        headline: 'Simplicidad'
-        text: 'Con nuestra solución en la nube, los equipos y las empresas pueden organizar sus datos e información de forma más eficiente en cuestión de minutos y sin conocimientos técnicos'
-      - icon: ''
-        headline: 'Controlar'
-        text: 'Con la versión autoalojada, le ofrecemos una salida a la dependencia. Tome el control total de sus datos y procesos.'
-      - icon: ''
-        headline: 'Proveedor de servicios'
-        text: 'Ofrecemos instalación, configuración, mantenimiento, formación y funcionamiento para empresas de todos los tamaños.'
-      - icon: ''
-        headline: 'Líder del mercado'
-        text: 'Nuestro objetivo es convertirnos en el líder del mercado europeo en soluciones de bajo código. Trabajamos para conseguirlo cada día.'
+          - icon: 'leaf'
+            headline: 'Simplicidad'
+            text: 'Con nuestra solución en la nube, los equipos y las empresas pueden organizar sus datos e información de manera más eficiente en minutos y sin conocimientos técnicos.'
+          - icon: 'terminal'
+            headline: 'Control'
+            text: 'Con la variante autoalojada, ofrecemos una salida a la dependencia. Tome el control total de sus datos y procesos.'
+          - icon: 'graduation-cap'
+            headline: 'Innovación'
+            text: 'Nuestra capacidad de innovación nos impulsa a desarrollar constantemente nuevas soluciones y tecnologías para hacer que los procesos comerciales de nuestros clientes sean más eficientes y preparados para el futuro.'
+          - icon: 'wand-magic-sparkles'
+            headline: 'Proveedor de servicios'
+            text: 'Ofrecemos instalación, configuración, mantenimiento, formación y operación para empresas de todos los tamaños. Todo lo obtiene de una sola fuente con nosotros.'
+          - icon: 'chart-line'
+            headline: 'Líder de mercado'
+            text: 'Nuestro objetivo es convertirnos en el líder del mercado europeo en soluciones de low-code. Trabajamos cada día para lograrlo.'
+          - icon: 'compass'
+            headline: 'Valor añadido'
+            text: 'Creamos verdadero valor añadido ofreciendo soluciones personalizadas, perfectamente adaptadas a las necesidades de nuestros clientes, garantizando el éxito sostenible.'
 
     - name: content-15
       weight: 3
-      title: SeaTable en cifras
+      title: Éxito medible, resultados probados
+      subtitle: Estadísticas impresionantes
+      description: Damos gran importancia a lograr resultados sostenibles y tangibles para nuestros clientes. A través de la innovación continua y la optimización constante de nuestras soluciones, creamos un valor añadido real que se traduce en beneficios a largo plazo. <br><br>Nuestro objetivo no es solo posibilitar el éxito a corto plazo, sino también construir una asociación de confianza basada en la calidad, la fiabilidad y la transparencia. De esta manera, apoyamos a nuestros clientes para que alcancen sus metas de manera medible y aseguren su éxito a largo plazo.
       items:
           - number: '2020'
-            text: En funcionamiento desde
-          - number: 40+
+            text: Desde el inicio en
+          - number: 40<span class="-mt-12 absolute text-3xl">+</span>
             text: Miembros del equipo
           - number: 3
             text: Ubicaciones
-          - number: 100.000+
-            text: Usuarios
+          - number: 100<span class="-mt-12 absolute text-3xl">k</span>
+            text: Clientes
+          - number: 100<span class="-mt-12 absolute text-3xl">%</span>
+            text: Satisfacción del cliente
+          - number: 99.9<span class="-mt-12 absolute text-3xl">%</span>
+            text: Disponibilidad de nuestra nube
 
     - name: content-16
       weight: 4
@@ -72,20 +83,26 @@ sections:
             text: "Nace la idea y se escribe <span class='gradient'>la primera línea de código fuente</span>"
           - date: 06/2020
             text: <span class='gradient'>seatable.io</span> entra en línea
-          - date: 09/2020
+          - date: 11/2020
             text: Primera mención en la <span class='gradient'>prensa tecnológica alemana</span>
           - date: 04/2021
             text: Aparece <span class='gradient'>SeaTable 2.0</span>
           - date: 07/2021
             text: 100+ estrellas en <span class='gradient'>GitHub</span>
+            link: https://github.com/seatable/seatable
           - date: 04/2022
             text: <span class='gradient'>El Handelsblatt</span> es el primer periódico nacional alemán en informar sobre SeaTable
           - date: 06/2022
             text: Se lanza <span class='gradient'>SeaTable 3.0</span>
           - date: 08/2022
             text: 10K descargas en <span class='gradient'>Docker Hub</span>
+            link: https://hub.docker.com/u/seatable
           - date: 03/2023
             text: <span class='gradient'>Proyecto de innovación BwTable</span> con las fuerzas armadas alemanas
+            link: https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/aktuelles/projekt-bwtable-datenbank-5600780
+          - date: 05/2023
+            text: <span class='gradient'>TechCrunch</span> informa por primera vez sobre SeaTable
+            link: https://techcrunch.com/2023/05/26/seatable-seafile-profile/
           - date: 07/2023
             text: SeaTable ahora está disponible en <span class='gradient'>6 idiomas diferentes</span>
           - date: 11/2024
@@ -94,6 +111,7 @@ sections:
             text: <span class='gradient'>seatable.com</span> ve la luz
           - date: 11/2025
             text: <span class='gradient'>SeaTable 6.0</span> une la IA y el no-código para crear la primera solución de IA sin código que cumple con la RGPD
+            link: https://www.heise.de/en/news/No-code-platform-SeaTable-integrates-AI-automation-11067854.html
 
     - name: content-18
       weight: 6

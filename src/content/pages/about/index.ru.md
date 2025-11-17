@@ -19,33 +19,44 @@ sections:
       weight: 2
       subtitle: 'Мотивация'
       title: "Что нас <span class='gradient'>вдохновляет</span>"
-      
       items:
-      - icon: ''
-        headline: 'Простота'
-        text: 'С помощью нашего облачного решения команды и компании могут организовать свои данные и информацию более эффективно за считанные минуты и без каких-либо технических знаний.'
-      - icon: ''
-        headline: 'Контроль'
-        text: 'С версией для самостоятельного размещения мы предлагаем Вам выход из зависимости. Возьмите под полный контроль свои данные и процессы.'
-      - icon: ''
-        headline: 'Поставщик услуг'
-        text: 'Мы предлагаем установку, настройку, обслуживание, обучение и эксплуатацию для компаний любого размера.'
-      - icon: ''
-        headline: 'Лидер рынка'
-        text: 'Наша цель - стать лидером европейского рынка в области решений с низким кодом. Мы работаем над этим каждый день.'
+          - icon: 'leaf'
+            headline: 'Простота'
+            text: 'С нашим облачным решением команды и компании могут эффективно организовывать свои данные и информацию за считанные минуты без технических знаний.'
+          - icon: 'terminal'
+            headline: 'Контроль'
+            text: 'С вариантом саморазмещения мы предлагаем выход из зависимости. Возьмите полный контроль над своими данными и процессами.'
+          - icon: 'graduation-cap'
+            headline: 'Инновации'
+            text: 'Наша инновационная сила побуждает нас постоянно разрабатывать новые решения и технологии, чтобы сделать бизнес-процессы наших клиентов более эффективными и ориентированными на будущее.'
+          - icon: 'wand-magic-sparkles'
+            headline: 'Поставщик услуг'
+            text: 'Мы предлагаем установку, настройку, обслуживание, обучение и эксплуатацию для компаний любого размера. У нас вы получаете всё из одних рук.'
+          - icon: 'chart-line'
+            headline: 'Лидер рынка'
+            text: 'Наша цель — стать европейским лидером на рынке low-code решений. Мы работаем над этим каждый день.'
+          - icon: 'compass'
+            headline: 'Добавленная ценность'
+            text: 'Мы создаём реальную добавленную ценность, предлагая индивидуальные решения, точно соответствующие потребностям наших клиентов, обеспечивая устойчивый успех.'
 
     - name: content-15
-      weight: 3
-      title: SeaTable в цифрах
+      weight: 4
+      title: Измеримый успех, доказанные результаты
+      subtitle: Впечатляющая статистика
+      description: Мы придаем большое значение достижению устойчивых и ощутимых результатов для наших клиентов. Благодаря постоянным инновациям и последовательной оптимизации наших решений мы создаем реальную добавленную стоимость, которая окупается в долгосрочной перспективе. <br><br>Наша цель — не только обеспечивать краткосрочные успехи, но и строить доверительные партнерские отношения, основанные на качестве, надежности и прозрачности. Таким образом, мы помогаем нашим клиентам измеримо достигать своих целей и обеспечивать долгосрочный успех.
       items:
           - number: '2020'
-            text: Работаем с
-          - number: 40+
-            text: Сотрудников
+            text: Начиная с
+          - number: 40<span class="-mt-12 absolute text-3xl">+</span>
+            text: Члены команды
           - number: 3
             text: Локации
-          - number: 100.000+
-            text: Пользователей
+          - number: 100<span class="-mt-12 absolute text-3xl">k</span>
+            text: Клиенты
+          - number: 100<span class="-mt-12 absolute text-3xl">%</span>
+            text: Удовлетворенность клиентов
+          - number: 99.9<span class="-mt-12 absolute text-3xl">%</span>
+            text: Доступность нашего облака
 
     - name: content-16
       weight: 4
@@ -72,20 +83,26 @@ sections:
             text: "Рождение идеи и написание <span class='gradient'>первой строки кода</span>"
           - date: 06/2020
             text: Запуск <span class='gradient'>seatable.io</span>
-          - date: 09/2020
+          - date: 11/2020
             text: Первое упоминание в <span class='gradient'>немецкой ИТ-прессе</span>
           - date: 04/2021
             text: Выход <span class='gradient'>SeaTable 2.0</span>
           - date: 07/2021
             text: 100+ звёзд на <span class='gradient'>GitHub</span>
+            link: https://github.com/seatable/seatable
           - date: 04/2022
             text: <span class='gradient'>Handelsblatt</span> - первое национальное немецкое издание, написавшее о SeaTable
           - date: 06/2022
             text: Выпуск <span class='gradient'>SeaTable 3.0</span>
           - date: 08/2022
             text: 10K загрузок на <span class='gradient'>Docker Hub</span>
+            link: https://hub.docker.com/u/seatable
           - date: 03/2023
             text: <span class='gradient'>Инновационный проект BwTable</span> с немецкими вооружёнными силами
+            link: https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/aktuelles/projekt-bwtable-datenbank-5600780
+          - date: 05/2023
+            text: <span class='gradient'>TechCrunch</span> впервые сообщает о SeaTable
+            link: https://techcrunch.com/2023/05/26/seatable-seafile-profile/
           - date: 07/2023
             text: SeaTable теперь доступен на <span class='gradient'>6 языках</span>
           - date: 11/2024
@@ -94,6 +111,7 @@ sections:
             text: Запуск <span class='gradient'>seatable.com</span>
           - date: 11/2025
             text: <span class='gradient'>SeaTable 6.0</span> объединяет искусственный интеллект и "нет-код", создавая первое "нет-код" решение на основе искусственного интеллекта, соответствующее требованиям GDPR
+            link: https://www.heise.de/en/news/No-code-platform-SeaTable-integrates-AI-automation-11067854.html
 
     - name: content-18
       weight: 6

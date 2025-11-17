@@ -3,8 +3,11 @@
     <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
         <pre><code>- name: "{{ .name }}"
   weight: 1
+  classes:
+    - ...
   title: 
-  subtitle: 
+  subtitle:
+  description:
   items:
   - headline:
     text: 
@@ -14,34 +17,42 @@
     text:
   - headline:
     text:
-  image:
-  image_alt:
 </code></pre>
     </div>
 {{ end }}
 
 
 <!-- HTML Block -->
-<section class="padding" id="{{ .name }}">
-    <section class="max-container text-center">
-        <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding" id="{{ .name }}">
+    <section class="max-container flex w-full items-start justify-between max-lg:flex-col">
+        <div class="flex basis-3/5 flex-col pb-12 pr-16 xl:pl-16">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="mb-4 mt-8 text-xl leading-relaxed">{{ .description | markdownify }}</p>
+        </div>
 
-        {{ if .items }}
-            {{ $totalItems := len .items }}
-            <!-- <span class="grid-cols-3 grid-cols-4 grid-cols-2 grid-cols-1 hidden"></span> to load the classes... -->
-            <div class="lg:grid-cols-{{ $totalItems }} mt-16 grid grid-cols-1 gap-16 md:grid-cols-2">
-                {{ range .items }}
-                    <div class="text-center">
-                        <p class="gradient font-poppins text-4xl font-bold">{{ .number }}</p>
-                        <p class="mt-4 text-xl">{{ .text }}</p>
-                    </div>
+        <div class="flex basis-2/5 gap-8">
+            <div class="flex w-1/2 flex-col gap-8">
+                {{ range $index, $item := .items }}
+                    {{ if lt $index (div (len $.items) 2) }}
+                        <div class="flex flex-col rounded-xl border bg-indigo-100 p-8 shadow-lg">
+                            <h3 class="pt-10 font-poppins text-5xl font-bold">{{ .number | markdownify }}</h3>
+                            <p class="">{{ .text | markdownify }}</p>
+                        </div>
+                    {{ end }}
                 {{ end }}
             </div>
-        {{ end }}
-
-
-        <div class="m-12 w-full">
-            <img src="{{ .image }}" class="mx-auto rounded-lg border bg-white p-1 shadow-2xl" alt="{{ .image_alt }}" />
+            <div class="mt-12 flex w-1/2 flex-col gap-8">
+                {{ range $index, $item := .items }}
+                    {{ if ge $index (div (len $.items) 2) }}
+                        <div class="flex flex-col rounded-xl border bg-red-100 p-8 shadow-lg">
+                            <h3 class="pt-10 font-poppins text-5xl font-bold">{{ .number | markdownify }}</h3>
+                            <p class="">{{ .text | markdownify }}</p>
+                        </div>
+                    {{ end }}
+                {{ end }}
+            </div>
         </div>
     </section>
 </section>
