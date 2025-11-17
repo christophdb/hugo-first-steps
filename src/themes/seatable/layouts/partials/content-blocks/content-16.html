@@ -29,8 +29,8 @@
         <div class="mx-auto mt-14 grid max-w-3xl grid-cols-1 gap-4 text-left md:grid-cols-2">
             {{ range .items }}
                 <div class="flex flex-col rounded-xl border bg-white p-6 px-10 shadow-lg">
-                    <h3 class="text-2xl font-bold">{{ .headline | markdownify }}</h3>
-                    <p class="mb-2 mt-6 text-lg leading-normal">{{ .text | markdownify }}</p>
+                    <h3 class="mt-2 text-2xl font-bold">{{ .headline | markdownify }}</h3>
+                    <p class="mb-2 mt-4 text-lg leading-normal">{{ .text | markdownify }}</p>
                 </div>
             {{ end }}
         </div>
