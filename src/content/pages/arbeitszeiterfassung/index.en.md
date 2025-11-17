@@ -66,7 +66,7 @@ sections:
       title: Data visualization
       subtitle: Monitoring, reporting, optimization
       items:
-      - text: SeaTable's timesheet looks similar to other calculators at first glance, but offers advanced visualizations such as filters, sorting, grouping and graphical plugins such as calendars, Kanban boards or statistics to organize your data clearly. With SeaTable, you can create individual apps, e.g. a management app in which you can keep an eye on overtime, vacations and sick notes on the dashboard and approve or reject requests.
+      - text: SeaTable's timesheet looks similar to other calculators at first glance, but offers advanced visualizations such as filters, sorting, grouping and graphical plugins such as calendars, [Kanban boards]({{< relref "templates/projects/kanban-board" >}}) or statistics to organize your data clearly. With SeaTable, you can create individual apps, e.g. a management app in which you can keep an eye on overtime, vacations and sick notes on the dashboard and approve or reject requests.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
 
@@ -75,7 +75,7 @@ sections:
       title: Central storage location
       subtitle: Standardized, secure, immediately available
       items:
-      - text: When employees record working times in different tables, merging them often becomes tedious, error-prone and time-consuming. With SeaTable, all data flows centrally into a secure, online database. Views, approvals and authorizations allow you to control who sees and edits which data - efficiently, orderly and accessible at all times.
+      - text: When employees record working times in different tables, merging them often becomes tedious, error-prone and time-consuming. With SeaTable, all data flows centrally into a secure, [online database]({{< relref "posts/online-datenbank-kostenlos" >}}). Views, approvals and authorizations allow you to control who sees and edits which data - efficiently, orderly and accessible at all times.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
 
@@ -84,7 +84,7 @@ sections:
       title: Collaborative working
       subtitle: Team-oriented, efficient, flexible
       items:
-      - text: Especially for hourly employees, working time data must be transferred to the accounting department - often laboriously via email or file sharing. With SeaTable, you can save this effort by creating an app or sharing the data via a link, either as read access to the entire base or only to a specific view. However, sharing individual views is reserved for SeaTable's paid subscriptions.
+      - text: Especially for hourly employees, working time data must be transferred to the accounting department - often laboriously via email or file sharing. With our [AI no-code-platform]({{< relref "/" >}}), you can save this effort by [creating an app]({{< relref "posts/20250318-app-erstellen" >}}) or sharing the data via a link, either as read access to the entire base or only to a specific view. However, sharing individual views is reserved for SeaTable's paid subscriptions.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
 
@@ -191,7 +191,7 @@ sections:
           - q: 'How does SeaTable map working time recording in the company?'
             a: 'With SeaTable, you can record and document your employees  working hours in accordance with current legislation and with minimal administrative effort. All processes relating to working time recording, vacation requests and sick notes are managed centrally in an online database - no more need for scattered timesheets! All you need to use it is an Internet browser and an e-mail address.'
           - q: 'Does SeaTable offer more than just working time recording?'
-            a: 'Yes, digital time tracking is just one of the many use cases. SeaTable offers solutions for recruiting, onboarding and many other HR topics - all in one flexible platform. Discover our templates and get started right away with a free account.'
+            a: 'Yes, digital time tracking is just one of the many use cases. SeaTable offers solutions for recruiting, onboarding and many other [HR processes]({{< relref "pages/industry-solutions/hr" >}}) - all in one flexible platform. Discover our templates and get started right away with a free account.'
           - q: 'Is the time tracking template free of charge?'
             a: 'Yes, our time tracking template is free to use with SeaTable Free. This subscription is automatically assigned to you when you register in SeaTable. With an Enterprise subscription, you also have access to convenient automations that save you a lot of manual clicks.'
           - q: 'Is the employer obliged to record time?'
