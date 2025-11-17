@@ -29,7 +29,7 @@ sections:
         - bg-seatable-blue
       title: "Bewerbermanagement Software SeaTable"
       subtitle: Flexibel, transparent, rechtssicher
-      description: Mit SeaTable bringen Sie Struktur und Effizienz in Ihr Bewerbermanagement. Unsere intuitive Bewerbermanagement Software vereint alle Vorteile, die Sie brauchen, um Ihre täglichen Prozesse zu vereinfachen. 
+      description: Mit SeaTable bringen Sie Struktur und Effizienz in Ihr Bewerbermanagement. Unsere intuitive Bewerbermanagement Software vereint alle Vorteile, die Sie brauchen, um Ihre täglichen [Prozesse zu optimieren]({{< relref "pages/industry-solutions/operations" >}}). 
       items:
         - text: zentrale Bewerberverwaltung
         - text: effizientes Talentmanagement
@@ -45,7 +45,7 @@ sections:
       title: Zentralisierte Verwaltung von Bewerbungen
       subtitle: Bewerbermanagement-Prozess
       items:
-      - text: Mit SeaTable als Bewerbermanagement Software erfassen Sie alle Bewerberdaten zentral und übersichtlich. Über ein individuell gestaltbares und benutzerfreundliches Webformular sammeln Sie alle relevanten Informationen und Dokumente online. In einer klar strukturierten Datenbank haben sie alle Bewerbungen und Bewerber auf einen Blick. 
+      - text: Mit SeaTable als Bewerbermanagement Software erfassen Sie alle Bewerberdaten zentral und übersichtlich. Über ein individuell gestaltbares und benutzerfreundliches Webformular sammeln Sie alle relevanten Informationen und Dokumente online. In einer klar [strukturierten Datenbank]({{< relref "posts/online-datenbank-kostenlos" >}}) haben sie alle Bewerbungen und Bewerber auf einen Blick. 
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
 
     - name: content-11
@@ -91,13 +91,13 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "Template Arbeitszeiterfassung"
           - text: Personalrekrutierung
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "Template Recruting"
           - text: Mitarbeiter-Onboarding
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "Template Onboardingprozess"
       buttons:
         - label: Alle Vorlagen entdecken
           link: "templates"
