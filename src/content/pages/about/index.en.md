@@ -13,22 +13,27 @@ sections:
           - label: 'Join our team!'
             link: 'pages/jobs'
 
-    - name: content-14
+    - name: content-4
       weight: 2
-      title: This is what drives us
-      subtitle: Motivation
+      subtitle: 'Motivation'
+      title: "This is what <span class='gradient'>drives</span> us"
+      
       items:
-          - headline: Simplicity
-            text: With our cloud solution, teams and companies can organize their data and information more efficiently in minutes and without technical knowledge
-          - headline: Control
-            text: With the self-hosted version, we offer a way out of dependency. Take full control of your data and processes.
-          - headline: Market leader
-            text: Our goal is to become the European market leader in low-code solutions. We work towards this every day.
-          - headline: Service provider
-            text: We offer installation, configuration, maintenance, training and operation for companies of all sizes.
+      - icon: ''
+        headline: 'Simplicity'
+        text: 'With our cloud solution, teams and companies can organize their data and information more efficiently in minutes and without technical knowledge'
+      - icon: ''
+        headline: 'Control'
+        text: 'With the self-hosted version, we offer a way out of dependency. Take full control of your data and processes.'
+      - icon: ''
+        headline: 'Service provider'
+        text: 'We offer installation, configuration, maintenance, training and operation for companies of all sizes.'
+      - icon: ''
+        headline: 'Market leader'
+        text: 'Our goal is to become the European market leader in low-code solutions. We work towards this every day.'
 
     - name: content-15
-      weight: 3
+      weight: 4
       title: SeaTable in figures
       items:
           - number: '2020'
@@ -39,7 +44,6 @@ sections:
             text: Locations
           - number: 100.000+
             text: Users
-      image: '/images/our-team-at-seadays2024.jpg'
 
     - name: content-16
       weight: 4

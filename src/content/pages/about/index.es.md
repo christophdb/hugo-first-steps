@@ -15,19 +15,24 @@ sections:
           - label: '¡Únete a nuestro equipo!'
             link: 'pages/jobs'
 
-    - name: content-14
+    - name: content-4
       weight: 2
-      title: Esto es lo que nos motiva
-      subtitle: Motivación
+      subtitle: 'Motivación'
+      title: "Esto es lo que <span class='gradient'>nos motiva</span>"
+      
       items:
-          - headline: Simplicidad
-            text: Con nuestra solución en la nube, equipos y empresas pueden organizar sus datos e información más eficientemente en minutos y sin conocimientos técnicos
-          - headline: Control
-            text: Con la versión autoalojada, ofrecemos una salida a la dependencia. Toma el control total de tus datos y procesos.
-          - headline: Líder de mercado
-            text: Nuestro objetivo es convertirnos en el líder del mercado europeo en soluciones low-code. Trabajamos cada día para lograrlo.
-          - headline: Proveedor de servicios
-            text: Ofrecemos instalación, configuración, mantenimiento, formación y operación para empresas de todos los tamaños.
+      - icon: ''
+        headline: 'Simplicidad'
+        text: 'Con nuestra solución en la nube, los equipos y las empresas pueden organizar sus datos e información de forma más eficiente en cuestión de minutos y sin conocimientos técnicos'
+      - icon: ''
+        headline: 'Controlar'
+        text: 'Con la versión autoalojada, le ofrecemos una salida a la dependencia. Tome el control total de sus datos y procesos.'
+      - icon: ''
+        headline: 'Proveedor de servicios'
+        text: 'Ofrecemos instalación, configuración, mantenimiento, formación y funcionamiento para empresas de todos los tamaños.'
+      - icon: ''
+        headline: 'Líder del mercado'
+        text: 'Nuestro objetivo es convertirnos en el líder del mercado europeo en soluciones de bajo código. Trabajamos para conseguirlo cada día.'
 
     - name: content-15
       weight: 3
@@ -41,7 +46,6 @@ sections:
             text: Ubicaciones
           - number: 100.000+
             text: Usuarios
-      image: '/images/our-team-at-seadays2024.jpg'
 
     - name: content-16
       weight: 4

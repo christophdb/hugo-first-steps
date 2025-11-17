@@ -13,22 +13,28 @@ sections:
           - label: 'Komm in unser Team!'
             link: 'pages/jobs'
 
-    - name: content-14
+    - name: content-4
       weight: 2
-      title: Das ist, was uns antreibt
-      subtitle: Motivation
+      subtitle: 'Motivation'
+      title: "Das ist, was uns <span class='gradient'>antreibt</span>"
+      
       items:
-          - headline: Einfachheit
-            text: Mit unserer Cloud-Lösung können Teams und Unternehmen in Minuten und ohne technischen Wissen ihre Daten und Informationen effizienter organisieren
-          - headline: Kontrolle
-            text: Mit der selbstgehosteten Variante bieten wir einen Ausweg aus der Abhängigkeit. Übernehmen Sie die volle Kontrolle über Ihre Daten und Prozesse.
-          - headline: Marktführer
-            text: Unser Ziel ist es, europäischer Marktführer im Bereich Low-Code-Lösungen zu werden. Dafür arbeiten wir jeden Tag.
-          - headline: Dienstleister
-            text: Wir bieten Installation, Konfiguration, Wartung, Schulung und Betrieb für Unternehmen jeder Größe.
-
+      - icon: ''
+        headline: 'Einfachheit'
+        text: 'Mit unserer Cloud-Lösung können Teams und Unternehmen in Minuten und ohne technischen Wissen ihre Daten und Informationen effizienter organisieren'
+      - icon: ''
+        headline: 'Kontrolle'
+        text: 'Mit der selbstgehosteten Variante bieten wir einen Ausweg aus der Abhängigkeit. Übernehmen Sie die volle Kontrolle über Ihre Daten und Prozesse.'
+      - icon: ''
+        headline: 'Dienstleister'
+        text: 'Wir bieten Installation, Konfiguration, Wartung, Schulung und Betrieb für Unternehmen jeder Größe.'
+      - icon: ''
+        headline: 'Marktführer'
+        text: 'Unser Ziel ist es, europäischer Marktführer im Bereich Low-Code-Lösungen zu werden. Dafür arbeiten wir jeden Tag.'
+     
+      
     - name: content-15
-      weight: 3
+      weight: 4
       title: SeaTable in Zahlen
       items:
           - number: '2020'
@@ -39,7 +45,6 @@ sections:
             text: Standorte
           - number: 100.000+
             text: Nutzer
-      image: '/images/our-team-at-seadays2024.jpg'
 
     - name: content-16
       weight: 4
@@ -58,7 +63,7 @@ sections:
             text: Wir leisten, um etwas zu bewirken
 
     - name: content-17
-      weight: 5
+      weight: 6
       title: Darauf sind wir stolz
       subtitle: Meilensteine
       items:
@@ -90,7 +95,7 @@ sections:
             text: <span class='gradient'>SeaTable 6.0</span> bringt AI und No-Code zusammen zu der ersten DSGVO-konformen AI No-Code Lösung
 
     - name: content-18
-      weight: 6
+      weight: 7
       title: Das Deutsch-Chinesische Joint-Venture
       subtitle: Führungsteam
       items:
@@ -110,7 +115,7 @@ sections:
             text: 'Jonathan Xu ist CTO der Seafile Ltd. 2012 gründete er zusammen mit Daniel Pan die Firma Seafile Ltd., um die Dateisynchronisationssoftware Seafile, an der die beiden schon seit gemeinsamen Uni-Zeiten arbeiteten, weiterzuentwickeln und zu vermarkten.<br/><br/>Jonathan ist Absolvent der Tsinghua University in Peking, China.'
 
     - name: content-3
-      weight: 7
+      weight: 8
       title: Was sagen andere über uns?
       subtitle: Presse
       buttons:
