@@ -90,7 +90,7 @@ sections:
       weight: 5
       title: No-Code Lösung für die Digitalisierung in Behörden
       subtitle: Effizient und unabhängig von knappen IT-Ressourcen
-      text: SeaTable revolutioniert die Digitalisierung in Behörden mit seiner benutzerfreundlichen [KI No-Code-Plattform]({{< relref "/" >}}). Ohne Programmierkenntnisse lassen sich komplexe Prozesse einfach abbilden. Perfekt für Behörden, wo IT-Kapazitäten oft knapp sind. Mit der Drag-and-Drop-Oberfläche digitalisieren Sie Verwaltungsprozesse schnell und unkompliziert.
+      text: SeaTable revolutioniert die Digitalisierung in Behörden mit seiner benutzerfreundlichen [KI No-Code-Plattform]({{< relref "/" >}}). **Ohne Programmierkenntnisse** lassen sich komplexe Prozesse einfach abbilden. Perfekt für Behörden, wo IT-Kapazitäten oft knapp sind. Mit der Drag-and-Drop-Oberfläche digitalisieren Sie Verwaltungsprozesse schnell und unkompliziert.
       items:
           - headline: 'Individuelle Lösungen'
             text: Ob [Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **Haushaltsplanung** oder Bürgeranfragen – die Möglichkeiten sind vielfältig. SeaTable fügt sich nahtlos in bestehende Strukturen ein und vereinfacht die Digitalisierung ohne großen IT-Aufwand.
