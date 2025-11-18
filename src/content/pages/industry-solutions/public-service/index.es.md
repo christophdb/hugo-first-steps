@@ -60,6 +60,12 @@ sections:
           - icon: ghost
             headline: Gestión de ausencias y personal
             text: Automatice la gestión de archivos de personal, solicitudes de vacaciones y ausencias para aumentar la eficiencia.
+          - icon: check
+            headline: Gestión de proyectos
+            text: Gestione los proyectos de forma eficaz y transparente con procesos automatizados y colaboración en tiempo real.
+          - icon: music
+            headline: Promoción cultural
+            text: Organice los proyectos de financiación de forma transparente y automática para una mayor seguridad de planificación.  
 
     - name: content-3
       weight: 4
@@ -126,6 +132,9 @@ sections:
           - headline: SeaTable Server
             text: Mantenga el control total sobre sus datos operando SeaTable en sus propios servidores, ideal para instituciones con estrictos requisitos de protección de datos para implementar de forma segura la digitalización de las administraciones públicas.
             link: 'pages/product/seatable-server'
+          - headline: SeaTable Dedicated
+            text: Con SeaTable Dedicated, usted combina la simplicidad de la nube con la flexibilidad de un sistema autoalojado. Instalamos, damos soporte y mantenemos su propio servidor SeaTable. 
+            link: 'pages/product/seatable-dedicated'   
 
       # TODO: links werden nicht richtig aufgelöst
       # FIXME: die icons werden nicht richtig gemacht.
