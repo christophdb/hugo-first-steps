@@ -44,7 +44,7 @@ sections:
       weight: 3
       title: Leistungsstarke Features für Ihr IT Service Management
       subtitle: No-Code-Lösung für effizientes Arbeiten
-      text: 'SeaTable vereint als No-Code-Plattform die Vorteile einer Tabellenkalkulation mit der Leistungsfähigkeit einer Datenbank und einem No-Code App Builder. Diese Kombination ermöglicht IT-Teams die effiziente Verwaltung komplexer Workflows und Daten sowie die agile Umsetzung ihrer IT-Strategie, was SeaTable zu einer unverzichtbaren Lösung macht:'
+      text: 'SeaTable vereint als [KI No-Code-Plattform]({{< relref "/" >}}) die Vorteile einer Tabellenkalkulation mit der Leistungsfähigkeit einer Datenbank und einem No-Code App Builder. Diese Kombination ermöglicht IT-Teams die effiziente Verwaltung komplexer Workflows und Daten sowie die agile Umsetzung ihrer IT-Strategie, was SeaTable zu einer unverzichtbaren Lösung macht:'
       items:
           - headline: Anpassbare Tabellen und Ansichten
             text: Benutzerdefinierte Tabellenstrukturen und Visualisierungen für eine bessere Organisation von IT Projekten.
@@ -77,7 +77,7 @@ sections:
       weight: 5
       title: IT Service Management ohne Kompromisse
       subtitle: Vorteile von SeaTable
-      description: SeaTable unterstützt IT Transformationsprozesse durch seine flexiblen Anpassungsmöglichkeiten und automatisierte Workflows. Durch die Kombination aus leistungsfähiger Datenverwaltung und intuitiver Anwendungsentwicklung digitalisieren und automatisieren Sie selbst komplexe Prozesse schnell und sicher.
+      description: SeaTable unterstützt IT Transformationsprozesse durch seine flexiblen Anpassungsmöglichkeiten und [automatisierte Workflows]({{< relref "pages/industry-solutions/individual" >}}). Durch die Kombination aus leistungsfähiger Datenverwaltung und intuitiver Anwendungsentwicklung digitalisieren und automatisieren Sie selbst komplexe Prozesse schnell und sicher.
       items:
           - headline: Sicherheitsanforderungen und Innovationen
             text: Innovationen vorantreiben, ohne die Sicherheit zu gefährden? SeaTable sorgt für die Einhaltung höchster Sicherheitsstandards. Dank granularer Zugriffsrechte und **DSGVO-konformer Datenverarbeitung** können Sie Ihre IT Prozesse innovativ gestalten, ohne Kompromisse bei der Datensicherheit einzugehen.
@@ -89,7 +89,7 @@ sections:
             text: Warum Aufgaben manuell erledigen, wenn Sie sie automatisieren können? Erstellen Sie **benutzerdefinierte Automatisierungen**, um Routineaufgaben zu reduzieren, Fehler zu minimieren und die Effizienz zu steigern.
             icon: circle-question
           - headline: Anpassbare Tabellenstrukturen und Ansichten
-            text: Benutzerdefinierte Tabellenstrukturen und Darstellungsmöglichkeiten wie **Kanban-Boards, Kalender und Gantt-Diagramme** ermöglichen eine bessere Organisation von IT Service Management Prozessen.
+            text: Benutzerdefinierte Tabellenstrukturen und Darstellungsmöglichkeiten wie [Kanban-Boards]({{< relref "posts/kanban board freeware" >}}), Kalender und Gantt-Diagramme ermöglichen eine bessere Organisation von IT Service Management Prozessen.
             icon: circle-question
           - headline: Anpassbare Dashboards und Formulare
             text: Erstellen Sie **maßgeschneiderte Dashboards** und Formulare für die Anforderungsanalyse, Produktentwicklung und Reportings.
@@ -158,7 +158,7 @@ sections:
       title: IT Transformation mit SeaTable
       subtitle: Die Lösung für alle IT Service Management Systeme
       items:
-      - text: Beschleunigen Sie Ihre digitale Transformation und verknüpfen Sie gleichzeitig Ihre IT Strategie mit den übergeordneten Geschäftszielen! Mit SeaTable passen Sie Ihre digitalen Prozesse individuell an die Anforderungen Ihres Unternehmens an. Durch Integrationen und flexible Datenmodelle setzen Sie digitale Strategien effektiv um und beschleunigen Ihre IT Transformation
+      - text: Beschleunigen Sie Ihre digitale Transformation und verknüpfen Sie gleichzeitig Ihre IT Strategie mit den übergeordneten Geschäftszielen! Mit SeaTable passen Sie Ihre [digitalen Prozesse]({{< relref "posts/rentabilitaetsvorschau" >}}) individuell an die Anforderungen Ihres Unternehmens an. Durch Integrationen und flexible Datenmodelle setzen Sie digitale Strategien effektiv um und beschleunigen Ihre IT Transformation
       image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
       image_position: right
 
@@ -176,7 +176,7 @@ sections:
             text: 'Starten Sie mit einer kostenlosen IT Vorlage und überzeugen Sie sich selbst von SeaTables Leistungsfähigkeit und Flexibilität! Sie werden schnell merken, wie SeaTable Ihr IT Service Management auf ein neues Level heben kann.'
           - icon: substack
             headline: Umfassender Support
-            text: 'Wir stehen Ihnen von Beginn an zur Seite, wenn Sie Fragen rund um unser kostenloses Projektmanagement-Tool haben. Darüber hinaus erstellen wir Ihnen gerne ein individuelles Support-Angebot, damit Sie das volle Potenzial von SeaTable bei Ihren Projekten ausschöpfen können.'
+            text: 'Wir stehen Ihnen von Beginn an zur Seite, wenn Sie Fragen rund um unser kostenloses [Projektmanagement-Tool]({{< relref "pages/industry-solutions/project-management" >}}) haben. Darüber hinaus erstellen wir Ihnen gerne ein individuelles Support-Angebot, damit Sie das volle Potenzial von SeaTable bei Ihren Projekten ausschöpfen können.'
           - icon: ghost
             headline: Preiswerte Lösung
             text: "Managen Sie Ihre Projekte mit der Free Version von SeaTable komplett kostenlos – oder skalieren Sie SeaTable ganz nach Ihren Anforderungen: Wenn Sie erweiterte Funktionen oder mehr Speicherkapazitäten für Ihre Projekte benötigen, können Sie einfach auf eine kostengünstige Premium-Version upgraden."
@@ -194,7 +194,7 @@ sections:
           - q: "Ist SeaTable als IT Service Management Software DSGVO-konform?"
             a: "Ja, SeaTable ist vollständig DSGVO-konform und bietet höchste Sicherheitsstandards für den Schutz sensibler Daten in Ihrer IT. Unsere Server stehen ausschließlich in Deutschland. Die Plattform bietet auch IT Security Funktionen zur Überwachung und Verwaltung von Zugriffsrechten."
           - q: "Welche Vorteile bietet SeaTable im Vergleich zu anderen ITSM Software Lösungen wie Atlassian?"
-            a: "SeaTable bietet eine größere Flexibilität und Anpassbarkeit als herkömmliche ITSM Suiten wie Atlassian ITSM. Mit einer No-Code und Low-Code Plattform, die keine Programmierkenntnisse erfordert, können Sie Ihre IT Prozesse effizienter gestalten und optimieren."
+            a: "SeaTable bietet eine größere Flexibilität und Anpassbarkeit als herkömmliche ITSM Suiten wie Atlassian ITSM. Mit einer No-Code und Low-Code Plattform, die **keine Programmierkenntnisse** erfordert, können Sie Ihre IT Prozesse effizienter gestalten und optimieren."
           - q: "Wie kann SeaTable mein Lizenzmanagement verbessern?"
             a: "SeaTable bietet eine umfassende Lizenzmanagement Software, die die Verwaltung von Softwarelizenzen erleichtert und sicherstellt, dass Ihre IT Organisation stets compliant bleibt. Es hilft Ihnen, Lizenzanforderungen zu überwachen und Kosten zu senken. Machen Sie den nächsten Schritt zur Verbesserung Ihres IT Service Managements und registrieren Sie sich jetzt kostenlos bei SeaTable. Entdecken Sie die Zukunft des Service Managements mit SeaTable – flexibel, sicher und vollständig DSGVO-konform."
 
