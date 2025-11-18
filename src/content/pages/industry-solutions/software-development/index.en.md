@@ -80,7 +80,7 @@ sections:
       weight: 5
       title: IT Service Management Without Compromise
       subtitle: Benefits of SeaTable
-      description: SeaTable supports IT transformation processes through its flexible customization options and automated workflows. By combining powerful data management with intuitive application development, you can digitize and automate even complex processes quickly and securely.
+      description: SeaTable supports IT transformation processes through its flexible customization options and [automated workflows]({{< relref "pages/industry-solutions/individual" >}}). By combining powerful data management with intuitive application development, you can digitize and automate even complex processes quickly and securely.
       items:
           - headline: Security Requirements and Innovations
             text: Drive innovation without compromising security? SeaTable ensures compliance with the highest security standards. Thanks to granular access rights and **GDPR-compliant data processing**, you can innovatively design your IT processes without compromising data security.
@@ -92,7 +92,7 @@ sections:
             text: Why complete tasks manually when you can automate them? Create **custom automations** to reduce routine tasks, minimize errors, and increase efficiency.
             icon: circle-question
           - headline: Customizable Table Structures and Views
-            text: User-defined table structures and display options like **Kanban boards, calendars, and Gantt charts** enable better organization of IT Service Management processes.
+            text: User-defined table structures and display options like [Kanban boards]({{< relref "posts/kanban board freeware" >}}), calendars, and Gantt charts enable better organization of IT Service Management processes.
             icon: circle-question
           - headline: Custom Dashboards and Forms
             text: Create **tailored dashboards** and forms for requirements analysis, product development, and reporting.
@@ -162,7 +162,7 @@ sections:
       title: IT Transformation With SeaTable
       subtitle: The Solution for All IT Service Management Systems
       items:
-          - text: Accelerate your digital transformation while aligning your IT strategy with overarching business goals! With SeaTable, you can customize digital processes to your company's specific requirements. Through integrations and flexible data models, you can effectively implement digital strategies and accelerate your IT transformation.
+          - text: Accelerate your digital transformation while aligning your IT strategy with overarching business goals! With SeaTable, you can customize [digital processes]({{< relref "pages/industry-solutions/operations" >}}) to your company's specific requirements. Through integrations and flexible data models, you can effectively implement digital strategies and accelerate your IT transformation.
             image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
             image_position: right
 

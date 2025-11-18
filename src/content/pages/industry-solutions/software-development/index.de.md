@@ -44,7 +44,7 @@ sections:
       weight: 3
       title: Leistungsstarke Features für Ihr IT Service Management
       subtitle: No-Code-Lösung für effizientes Arbeiten
-      text: 'SeaTable vereint als [KI No-Code-Plattform]({{< relref "/" >}}) die Vorteile einer Tabellenkalkulation mit der Leistungsfähigkeit einer Datenbank und einem No-Code App Builder. Diese Kombination ermöglicht IT-Teams die effiziente Verwaltung komplexer Workflows und Daten sowie die agile Umsetzung ihrer IT-Strategie, was SeaTable zu einer unverzichtbaren Lösung macht:'
+      text: 'SeaTable vereint als [KI No-Code-Plattform]({{< relref "/" >}}) die Vorteile einer Tabellenkalkulation mit der Leistungsfähigkeit einer Datenbank und einem [No-Code App Builder]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}). Diese Kombination ermöglicht IT-Teams die effiziente Verwaltung komplexer Workflows und Daten sowie die agile Umsetzung ihrer IT-Strategie, was SeaTable zu einer unverzichtbaren Lösung macht:'
       items:
           - headline: Anpassbare Tabellen und Ansichten
             text: Benutzerdefinierte Tabellenstrukturen und Visualisierungen für eine bessere Organisation von IT Projekten.
@@ -158,7 +158,7 @@ sections:
       title: IT Transformation mit SeaTable
       subtitle: Die Lösung für alle IT Service Management Systeme
       items:
-      - text: Beschleunigen Sie Ihre digitale Transformation und verknüpfen Sie gleichzeitig Ihre IT Strategie mit den übergeordneten Geschäftszielen! Mit SeaTable passen Sie Ihre [digitalen Prozesse]({{< relref "posts/rentabilitaetsvorschau" >}}) individuell an die Anforderungen Ihres Unternehmens an. Durch Integrationen und flexible Datenmodelle setzen Sie digitale Strategien effektiv um und beschleunigen Ihre IT Transformation
+      - text: Beschleunigen Sie Ihre digitale Transformation und verknüpfen Sie gleichzeitig Ihre IT Strategie mit den übergeordneten Geschäftszielen! Mit SeaTable passen Sie Ihre [digitalen Prozesse]({{< relref "pages/industry-solutions/operations" >}}) individuell an die Anforderungen Ihres Unternehmens an. Durch Integrationen und flexible Datenmodelle setzen Sie digitale Strategien effektiv um und beschleunigen Ihre IT Transformation
       image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
       image_position: right
 
