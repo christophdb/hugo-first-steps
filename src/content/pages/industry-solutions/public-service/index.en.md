@@ -61,6 +61,12 @@ sections:
           - icon: ghost
             headline: Absence and personnel management
             text: Automate the management of personnel files, vacation requests and absences to increase efficiency.
+          - icon: check
+            headline: Project management
+            text: Manage projects efficiently and transparently with automated processes and real-time collaboration.
+          - icon: music
+            headline: Cultural funding
+            text: Organize funding projects transparently and automatically for more planning security.  
 
     - name: content-3
       weight: 4
@@ -127,6 +133,9 @@ sections:
           - headline: SeaTable Server
             text: Retain full control over your data by operating SeaTable on your own servers - ideal for institutions with strict data protection requirements to securely implement the digitalization of public administrations.
             link: 'pages/product/seatable-server'
+          - headline: SeaTable Dedicated
+            text: With SeaTable Dedicated you combine the simplicity of the cloud with the flexibility of a self-hosted system. We install, support and maintain your very own SeaTable server.
+            link: 'pages/product/seatable-dedicated'   
 
       # TODO: links werden nicht richtig aufgelöst
       # FIXME: die icons werden nicht richtig gemacht.

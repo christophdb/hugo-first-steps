@@ -45,17 +45,23 @@ sections:
       text: 'Die Digitalisierung in Behörden braucht clevere Planung und Umsetzung. Mit SeaTable bekommen Sie alle Werkzeuge an die Hand, um den Digitalisierungsprozess zu meistern – von der Analyse bis zur Integration. Digitalisierung heißt nicht nur Automatisierung, sondern auch effizientere Arbeitskultur, Transparenz und Bürgernähe.'
       items:
           - icon: signature
-            headline: Genehmigungs- und Antragsmanagement
+            headline: Antragsmanagement
             text: 'Erstellen Sie digitale Formulare und verfolgen Sie den Status von Anträgen in Echtzeit.'
           - icon: building
             headline: Liegenschaftsverwaltung
             text: 'Verwalten Sie Liegenschaften mit strukturierten und anpassbaren Datenbanken.'
           - icon: substack
-            headline: Haushaltsplanung für Kommunen
+            headline: Kommunale Haushaltsplanung
             text: 'Digitalisieren Sie die Finanzplanung und -verwaltung für eine effizientere Haushaltsplanung.'
           - icon: ghost
-            headline: Abwesenheits- und Personalmanagement
-            text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten, um die Effizienz zu steigern.
+            headline: Personalmanagement
+            text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten.
+          - icon: check
+            headline: Projektmanagement
+            text: Steuern Sie Projekte effizient und transparent mit automatisierten Prozessen und Echtzeit-Kollaboration.
+          - icon: music
+            headline: Kulturförderung
+            text: Organisieren Sie Förderprojekte transparent und automatisier für mehr Planungssicherheit. 
 
     - name: content-3
       weight: 4
@@ -123,15 +129,12 @@ sections:
           - headline: SeaTable Server
             text: Behalten Sie die volle Kontrolle über Ihre Daten, indem Sie SeaTable auf Ihren eigenen Servern betreiben – ideal für Institutionen mit strengen Datenschutzvorgaben, um die Digitalisierung öffentlicher Verwaltungen sicher umzusetzen.
             link: 'pages/product/seatable-server'
+          - headline: SeaTable Dedicated
+            text: Mit SeaTable Dedicated verbinden Sie die Einfachheit der Cloud mit der Flexibilität eines selbst gehosteten Systems. Wir installieren, betreuen und warten Ihren ganz persönlichen SeaTable-Server. 
+            link: 'pages/product/seatable-dedicated'  
 
       # TODO: links werden nicht richtig aufgelöst
       # FIXME: die icons werden nicht richtig gemacht.
-
-    - name: form-newsletter
-      weight: 8
-      title: Digitalisierung im öffentlichen Bereich mit SeaTable
-      subtitle: Erfolgsgeschichten
-      text: Zahlreiche Behörden und Kommunen sind erfolgreich mit SeaTable digitalisiert. Die Digitalisierung der öffentlichen Verwaltung steigert Effizienz, Transparenz und Bürgernähe. Entdecken Sie unsere Success Stories und sehen Sie, wie Ihre Verwaltung profitieren kann!
 
     - name: faq
       weight: 10
