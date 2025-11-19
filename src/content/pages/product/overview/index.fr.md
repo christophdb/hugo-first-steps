@@ -156,7 +156,7 @@ sections:
       weight: 12
       classes:
           - curved
-          - bg-gray-100
+          - bg-white
       title: "Support et services - vos partenaires vers l'efficacité"
       subtitle: Support
       text: "En plus de sa plateforme puissante, SeaTable propose un support complet et des services pour vous accompagner dans l'implémentation et l'exploitation. Notre équipe support est à votre disposition pour vous aider à tirer le meilleur parti de SeaTable."

@@ -154,7 +154,7 @@ sections:
       weight: 12
       classes:
           - curved
-          - bg-gray-100
+          - bg-white
       title: Support und Dienstleistungen – Ihre Partner auf dem Weg zur Effizienz
       subtitle: Support
       text: Neben der leistungsstarken Plattform bietet SeaTable umfangreiche Support- und Dienstleistungsangebote, um Sie bei der Implementierung und dem Betrieb zu unterstützen. Unser Support-Team steht Ihnen zur Verfügung, um sicherzustellen, dass Sie das Beste aus SeaTable herausholen.
