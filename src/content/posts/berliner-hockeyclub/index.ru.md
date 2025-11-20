@@ -8,7 +8,6 @@ url: '/ru/berlinskiy-khokkeynyy-klub-otsifrovka'
 aliases:
     - /ru/berliner-hockeyclub
     - '/ru/berliner-khokkeynyy-klub'
-color: '#eeeeee'
 color: '#9fb5d6'
 categories:
     - 'customer-story'

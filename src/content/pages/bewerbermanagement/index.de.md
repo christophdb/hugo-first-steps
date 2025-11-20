@@ -24,20 +24,20 @@ sections:
 
     - name: content-12
       weight: 2
-      classes: 
-        - curved
-        - bg-seatable-blue
-      title: "Bewerbermanagement Software SeaTable"
+      classes:
+          - curved
+          - bg-seatable-blue
+      title: 'Bewerbermanagement Software SeaTable'
       subtitle: Flexibel, transparent, rechtssicher
-      description: Mit SeaTable bringen Sie Struktur und Effizienz in Ihr Bewerbermanagement. Unsere intuitive Bewerbermanagement Software vereint alle Vorteile, die Sie brauchen, um Ihre täglichen [Prozesse zu optimieren]({{< relref "pages/industry-solutions/operations" >}}). 
+      description: Mit SeaTable bringen Sie Struktur und Effizienz in Ihr Bewerbermanagement. Unsere intuitive Bewerbermanagement Software vereint alle Vorteile, die Sie brauchen, um Ihre täglichen [Prozesse zu optimieren]({{< relref "pages/industry-solutions/operations" >}}).
       items:
-        - text: zentrale Bewerberverwaltung
-        - text: effizientes Talentmanagement
-        - text: kollaboratives Arbeiten in Echtzeit
-        - text: integrierte Automatisierungen und Benachrichtigungen
-        - text: Webformulare und Frontend mit No-Code Universal App
-        - text: 100 % DSGVO-konform
-        - text: flexibel anpassbare Datenstruktur
+          - text: zentrale Bewerberverwaltung
+          - text: effizientes Talentmanagement
+          - text: kollaboratives Arbeiten in Echtzeit
+          - text: integrierte Automatisierungen und Benachrichtigungen
+          - text: Webformulare und Frontend mit No-Code Universal App
+          - text: 100 % DSGVO-konform
+          - text: flexibel anpassbare Datenstruktur
       image: /images/landing-page-bewerbermanagement-1.png
 
     - name: content-11
@@ -45,7 +45,7 @@ sections:
       title: Zentralisierte Verwaltung von Bewerbungen
       subtitle: Bewerbermanagement-Prozess
       items:
-      - text: Mit SeaTable als Bewerbermanagement Software erfassen Sie alle Bewerberdaten zentral und übersichtlich. Über ein individuell gestaltbares und benutzerfreundliches Webformular sammeln Sie alle relevanten Informationen und Dokumente online. In einer klar [strukturierten Datenbank]({{< relref "posts/online-datenbank-kostenlos" >}}) haben sie alle Bewerbungen und Bewerber auf einen Blick. 
+          - text: Mit SeaTable als Bewerbermanagement Software erfassen Sie alle Bewerberdaten zentral und übersichtlich. Über ein individuell gestaltbares und benutzerfreundliches Webformular sammeln Sie alle relevanten Informationen und Dokumente online. In einer klar [strukturierten Datenbank]({{< relref "posts/online-datenbank-kostenlos" >}}) haben sie alle Bewerbungen und Bewerber auf einen Blick.
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
 
     - name: content-11
@@ -53,36 +53,36 @@ sections:
       title: Schnelle und einfache Bewerberauswahl
       subtitle: Talentmanagement
       items:
-      - text: Die Auswahl der passenden Talente wird mit SeaTable einfacher und effizienter. Dank cleverer Funktionen wie der Segmentierung und Filterung von Bewerbungen finden Sie gezielt die besten Kandidaten. Verschiedene Ansichten, Tabellen und Ebenen sorgen für optimale Übersichtlichkeit und ermöglichen eine perfekt organisierte Bewerberauswahl.
+          - text: Die Auswahl der passenden Talente wird mit SeaTable einfacher und effizienter. Dank cleverer Funktionen wie der Segmentierung und Filterung von Bewerbungen finden Sie gezielt die besten Kandidaten. Verschiedene Ansichten, Tabellen und Ebenen sorgen für optimale Übersichtlichkeit und ermöglichen eine perfekt organisierte Bewerberauswahl.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
 
-    - name: "content-4"
+    - name: 'content-4'
       weight: 7
       title: Ihre DSGVO-konforme Bewerbermanagement Software
       subtitle: Sicherheit und Datenschutz
-      text: "Datensicherheit hat bei SeaTable oberste Priorität. Die Software ist **DSGVO-konform** und bietet Ihnen die Wahl zwischen einer Nutzung on-premises oder in der **Cloud mit Serverstandort in Deutschland**. Zusätzlich können Sie individuell einstellen, wer Zugriff auf welche Daten hat, sodass sensible Informationen bestens geschützt sind."
+      text: 'Datensicherheit hat bei SeaTable oberste Priorität. Die Software ist **DSGVO-konform** und bietet Ihnen die Wahl zwischen einer Nutzung on-premises oder in der **Cloud mit Serverstandort in Deutschland**. Zusätzlich können Sie individuell einstellen, wer Zugriff auf welche Daten hat, sodass sensible Informationen bestens geschützt sind.'
       items:
-      - icon: terminal
-        headline: On-Premises Lösung
-        text: "Sie möchten Ihre HR Daten nicht in einer Cloud speichern? Mit SeaTable Server erhalten Sie den identischen Funktionsumfang."
+          - icon: terminal
+            headline: On-Premises Lösung
+            text: 'Sie möchten Ihre HR Daten nicht in einer Cloud speichern? Mit SeaTable Server erhalten Sie den identischen Funktionsumfang.'
 
-      - icon: user-plus
-        headline: Sicherheitseinstellungen
-        text: "Beschränken Sie Zugriffs- und Bearbeitunsgrechte für sensible Daten und nutzen Sie Zwei-Faktor-Authentifizierung für zusätzliche Datensicherheit."
+          - icon: user-plus
+            headline: Sicherheitseinstellungen
+            text: 'Beschränken Sie Zugriffs- und Bearbeitunsgrechte für sensible Daten und nutzen Sie Zwei-Faktor-Authentifizierung für zusätzliche Datensicherheit.'
 
-      - icon: fingerprint
-        headline: SSO und Authentifizierung
-        text: "SeaTable unterstützt alle gängigen Authentifizierungstechniken und Single Sign On in allen Abo-Modellen." 
-        
-    - name: "banner-2"
+          - icon: fingerprint
+            headline: SSO und Authentifizierung
+            text: 'SeaTable unterstützt alle gängigen Authentifizierungstechniken und Single Sign On in allen Abo-Modellen.'
+
+    - name: 'banner-2'
       weight: 10
-      title: SeaTable ist in wenigen Sekunden einsatzbereit 
+      title: SeaTable ist in wenigen Sekunden einsatzbereit
       buttons:
-           - label: Jetzt kostenlos registrieren und loslegen
-             link: pages/registration
-             id: 
-    
+          - label: Jetzt kostenlos registrieren und loslegen
+            link: pages/registration
+            id:
+
     - name: 'content-8'
       weight: 8
       title: Kostenlose Vorlagen in SeaTable
@@ -91,20 +91,20 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: "Template Arbeitszeiterfassung"
+            image_alt: 'Template Arbeitszeiterfassung'
           - text: Personalrekrutierung
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: "Template Recruting"
+            image_alt: 'Template Recruting'
           - text: Mitarbeiter-Onboarding
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: "Template Onboardingprozess"
+            image_alt: 'Template Onboardingprozess'
       buttons:
-        - label: Alle Vorlagen entdecken
-          link: "templates"
-    
+          - label: Alle Vorlagen entdecken
+            link: 'templates'
+
     - name: 'content-10'
       weight: 12
-      title: Effiziente und schlanke Recruiting Prozesse  
+      title: Effiziente und schlanke Recruiting Prozesse
       subtitle: Zeitersparnis durch Automatisierungen
       description: Automatisierung ist ein weiterer Vorteil von SeaTable. Erstellen Sie automatisierte Benachrichtigungen oder versenden Sie E-Mails direkt aus dem System per Knopfdruck. Durch Integrationen wie Zapier, Make oder n8n optimieren und automatisieren Sie Ihre Workflows nahtlos.
       items:
@@ -117,7 +117,7 @@ sections:
       weight: 15
       title: SeaTable bietet umfangreiche Funktionen in allen Preismodellen
       subtitle: Cloud oder self-hosted?
-      description: 
+      description:
       items:
           - headline: SeaTable Cloud
             text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
@@ -126,33 +126,33 @@ sections:
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
             image: /images/template-massnahmenplan.jpg
           - headline: SeaTable Dedicated
-            text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.  
+            text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.
             image: /images/asana-dedicated.jpg
 
     - name: 'content-4'
       weight: 14
       title: 'Alle Bewerbermanagement Prozesse in einem Tool '
-      subtitle: 'Kollaborative Bewerbungsverwaltung' 
+      subtitle: 'Kollaborative Bewerbungsverwaltung'
       text: 'SeaTable ist unbegrenzt anpassungsfähig, DSGVO-konform und skalierbar – und damit das perfekte Bewerbermanagement Tool für effiziente digitale Prozesse.'
       items:
-        - headline: 'Kollaboratives Arbeiten'
-          text: 'Bewerbermanagement Prozesse transparent verwalten: Änderungen werden in Echtzeit aktualisiert, wichtige Hinweise direkt in SeaTable als Kommentare eingefügt.'
-          icon: people-group
-        - headline: 'Schnelle Integration ohne IT'
-          text: 'Einfach registrieren und loslegen: SeaTable Cloud ist sofort einsatzbereit. Richten Sie SeaTable so ein, wie Sie es brauchen – ohne Ihre IT zu benötigen.'
-          icon: code  
-        - headline: 'Statistiken und Dashboards'
-          text: Analysieren Sie Ihre [HR Prozesse]({{< relref "pages/industry-solutions/hr" >}})direkt in SeaTable. Mit aussagekräftigen Statistiken und Reportings können Sie Ihr Bewerbermanagement kontinuierlich optimieren.
-          icon: chart-line
+          - headline: 'Kollaboratives Arbeiten'
+            text: 'Bewerbermanagement Prozesse transparent verwalten: Änderungen werden in Echtzeit aktualisiert, wichtige Hinweise direkt in SeaTable als Kommentare eingefügt.'
+            icon: people-group
+          - headline: 'Schnelle Integration ohne IT'
+            text: 'Einfach registrieren und loslegen: SeaTable Cloud ist sofort einsatzbereit. Richten Sie SeaTable so ein, wie Sie es brauchen – ohne Ihre IT zu benötigen.'
+            icon: code
+          - headline: 'Statistiken und Dashboards'
+            text: Analysieren Sie Ihre [HR Prozesse]({{< relref "pages/industry-solutions/hr" >}})direkt in SeaTable. Mit aussagekräftigen Statistiken und Reportings können Sie Ihr Bewerbermanagement kontinuierlich optimieren.
+            icon: chart-line
 
-    - name: "banner-2"
+    - name: 'banner-2'
       weight: 16
-      title: Ihr ideales Bewerbermanagement – mit SeaTable  
+      title: Ihr ideales Bewerbermanagement – mit SeaTable
       buttons:
-           - label: Jetzt kostenlos registrieren und loslegen
-             link: pages/registration
-             id: 
-   
+          - label: Jetzt kostenlos registrieren und loslegen
+            link: pages/registration
+            id:
+
     - name: faq
       weight: 17
       title: FAQ – SeaTable als Bewerbermanagement Software

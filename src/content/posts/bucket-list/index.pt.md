@@ -5,14 +5,13 @@ date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
 url: '/pt/bucket-list'
-color: '#eeeeee'
 seo:
     title: 'Crie sua Bucket List: ideias e modelo gratuito'
     description: 'Inspire-se: 63 ideias e um modelo grátis para criar sua lista de sonhos e conquistas inesquecíveis.'
 categories:
     - 'best-practice'
 tags:
-      - 'Vida cotidiana e lazer'
+    - 'Vida cotidiana e lazer'
 color: '#3090b6'
 ---
 

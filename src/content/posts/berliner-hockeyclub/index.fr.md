@@ -8,7 +8,6 @@ url: '/fr/club-de-hockey-de-berlin-numerisation'
 aliases:
     - /fr/berliner-hockeyclub
     - '/fr/berliner-club-hockey'
-color: '#eeeeee'
 color: '#9fb5d6'
 categories:
     - 'customer-story'
@@ -17,8 +16,8 @@ tags:
     - 'Transformation numérique'
     - 'Finances'
 seo:
-    title: "Le club de hockey de Berlin passe au numérique avec SeaTable"
-    description : "SeaTable permite ao Berlin Hockey Club digitalizar contabilidade, reservas de campos e tarefas numa única plataforma eficiente."
+    title: 'Le club de hockey de Berlin passe au numérique avec SeaTable'
+    description: 'SeaTable permite ao Berlin Hockey Club digitalizar contabilidade, reservas de campos e tarefas numa única plataforma eficiente.'
 ---
 
 En tant que gestionnaire d'un club sportif, il y a de nombreux domaines à suivre et à gérer, qu'il s'agisse de la comptabilité générale, de la réservation des terrains ou de la gestion des tâches de tous les membres. Le club de hockey de Berlin utilise SeaTable pour transférer les nombreux systèmes individuels qui existent actuellement dans un système unique et ainsi numériser ses processus.

@@ -8,7 +8,6 @@ url: '/pt/clube-de-hoquei-de-berlim-digitalizacao'
 aliases:
     - /pt/berliner-hockeyclub
     - '/pt/berliner-clube-hoquei'
-color: '#eeeeee'
 color: '#9fb5d6'
 categories:
     - 'customer-story'
@@ -17,8 +16,8 @@ tags:
     - 'Transformação digital'
     - 'Finanças'
 seo:
-    title: "O Clube de Hóquei de Berlim torna-se digital com o SeaTable"
-    description: "O Berlin Hockey Club usa SeaTable para digitalizar contabilidade, reservas de quadras e gestão de membros em um sistema unificado."
+    title: 'O Clube de Hóquei de Berlim torna-se digital com o SeaTable'
+    description: 'O Berlin Hockey Club usa SeaTable para digitalizar contabilidade, reservas de quadras e gestão de membros em um sistema unificado.'
 ---
 
 Como gerente de um clube desportivo, há muitas áreas a acompanhar e gerir, quer seja contabilidade geral, reservas de terreno ou gestão de tarefas para todos os membros. O Clube de Hóquei de Berlim utiliza o SeaTable para transferir os muitos sistemas individuais que existem actualmente num único sistema e assim digitalizar os seus processos.

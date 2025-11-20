@@ -4,13 +4,12 @@ description: 'Weglot es un plugin de WordPress para traducir automáticamente su
 date: 2022-03-21
 categories:
     - 'best-practice'
-tags: 
+tags:
     - 'Herramientas y plugins'
 color: '#07bfff'
 url: '/es/weglot-plugin-traduccion-wordpress'
 aliases:
     - /es/weglot-translation-plugin-wordpress
-color: '#eeeeee'
 seo:
     title: 'Cómo traducir automáticamente tu sitio web con Weglot'
     description: 'Weglot es un plugin de WordPress que traduce automáticamente tu sitio web a otros idiomas, ayudándote a alcanzar nuevas audiencias'

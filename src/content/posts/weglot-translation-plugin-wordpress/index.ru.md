@@ -4,13 +4,12 @@ description: 'Weglot - это плагин WordPress для автоматиче
 date: 2022-03-21
 categories:
     - 'best-practice'
-tags: 
+tags:
     - 'Инструменты и плагины'
 color: '#07bfff'
 url: '/ru/weglot-plagin-perevoda-wordpress'
 aliases:
     - /ru/weglot-translation-plugin-wordpress
-color: '#eeeeee'
 seo:
     title: 'Как автоматически переводить ваш сайт с помощью Weglot'
     description: 'Weglot — плагин для WordPress, который автоматически переводит ваш сайт на другие языки, помогая привлечь новую аудиторию.'

@@ -1,13 +1,12 @@
 ---
 title: 'Gestão de tarefas: otimizar o planeamento e a utilização dos recursos'
-description: "Descubra a gestão eficaz de tarefas para uma gestão de projectos bem sucedida. Aprenda dicas para uma gestão de tarefas optimizada."
+description: 'Descubra a gestão eficaz de tarefas para uma gestão de projectos bem sucedida. Aprenda dicas para uma gestão de tarefas optimizada.'
 date: 2021-09-23
 categories:
     - 'best-practice'
 tags:
     - 'Gestão de projectos'
     - 'Workflows'
-date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
 url: '/pt/gestao-tarefas'

@@ -1,13 +1,12 @@
 ---
 title: 'Gestion des tâches : planifier et utiliser les ressources de manière optimale'
-description: "Découvrez une gestion des tâches efficace pour une gestion de projet réussie. Apprenez des astuces pour une gestion optimale des tâches."
+description: 'Découvrez une gestion des tâches efficace pour une gestion de projet réussie. Apprenez des astuces pour une gestion optimale des tâches.'
 date: 2021-09-23
 categories:
     - 'best-practice'
 tags:
     - 'Gestion de projet'
     - 'Workflows'
-date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
 url: '/fr/gestion-taches'

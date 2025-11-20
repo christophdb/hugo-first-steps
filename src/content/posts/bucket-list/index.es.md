@@ -7,14 +7,13 @@ author: 'nsc'
 url: '/es/lista-deseos'
 aliases:
     - /es/bucket-list
-color: '#eeeeee'
 seo:
     title: 'Crea tu Bucket List: ideas y plantilla gratuita'
     description: 'Inspírate con 63 ideas y una plantilla gratis para tu lista de sueños y experiencias únicas.'
 categories:
     - 'best-practice'
 tags:
-      - 'Vida cotidiana y ocio'
+    - 'Vida cotidiana y ocio'
 color: '#3090b6'
 ---
 

@@ -7,7 +7,6 @@ author: 'nsc'
 url: '/es/analisis-de-la-competencia'
 aliases:
     - /es/wettbewerbsanalyse
-color: '#eeeeee'
 seo:
     title: 'Guía de análisis de la competencia y plantilla gratuita'
     description: 'Mejora tu estrategia con métodos de análisis de competencia y una plantilla gratis para comparar fortalezas y posicionamiento en el mercado.'
