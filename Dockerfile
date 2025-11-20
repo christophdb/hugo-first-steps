@@ -2,7 +2,6 @@
 FROM debian:bookworm-slim
 
 # Set Versions
-ARG GOLANG_VERSION=1.24.3
 ARG HUGO_VERSION=0.145.0
 
 # Update and install necessary packages
@@ -24,6 +23,8 @@ RUN apt-get update && \
 
 # Verify installation
 RUN node -v && npm -v && npx -v
+
+ARG GOLANG_VERSION=1.25.4
 
 # Install Go
 RUN wget https://go.dev/dl/go$GOLANG_VERSION.linux-amd64.tar.gz && \
