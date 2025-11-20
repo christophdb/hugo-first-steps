@@ -1,5 +1,5 @@
 # Use the latest debian base image
-FROM debian:bookworm-slim
+FROM debian:trixie-slim
 
 # Update and install necessary packages
 RUN apt-get update && \
@@ -13,10 +13,12 @@ RUN apt-get update && \
 RUN curl -fsSL https://deb.nodesource.com/setup_22.x -o nodesource_setup.sh
 RUN bash nodesource_setup.sh
 
-# Install Node22
+ARG NPM_VERSION=11.6.3
+
+# Install Node22 and update NPM
 RUN apt-get update && \
-    apt-get install -y \
-    nodejs
+    apt-get install -y nodejs && \
+    npm install -g npm@${NPM_VERSION}
 
 # Verify installation
 RUN node -v && npm -v && npx -v
@@ -36,7 +38,7 @@ ENV HUGO_BIND="0.0.0.0" \
     HUGO_ENV="development" \
     HUGO_EDITION="extended"
 
-ARG HUGO_VERSION=0.146.7
+ARG HUGO_VERSION=0.152.2
 
 # Download Hugo
 RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz -O hugo.tar.gz && \
