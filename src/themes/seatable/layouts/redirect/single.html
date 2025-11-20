@@ -1,8 +1,8 @@
 {{- $target := .Params.target -}}
 {{- if or (hasPrefix $target "http://") (hasPrefix $target "https://") -}}
     <!-- External redirect -->
-    {{- template "_internal/alias.html" (dict "Permalink" $target) -}}
+    {{- template "alias.html" (dict "Permalink" $target) -}}
 {{- else -}}
     <!-- Internal redirect -->
-    {{- template "_internal/alias.html" (dict "Permalink" (relref . $target)) -}}
+    {{- template "alias.html" (dict "Permalink" (relref . $target)) -}}
 {{- end -}}

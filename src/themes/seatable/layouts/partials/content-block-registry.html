@@ -1,7 +1,7 @@
 {{ with .Params.sections }}
     {{ range sort . "weight" }}
-        {{ $partialName := printf "partials/content-blocks/%s.html" .name }}
-        {{ if templates.Exists $partialName }}
+        {{ $partialName := printf "content-blocks/%s.html" .name }}
+        {{ if templates.Exists ( printf "partials/%s" $partialName ) }}
             <!-- show block -->
             {{ partial $partialName . }}
         {{ else }}
