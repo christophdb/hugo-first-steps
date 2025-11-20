@@ -19,7 +19,6 @@ sections:
           - label: Jetzt loslegen
             link: 'pages/registration'
             style: primary
-            id: de-marketing-registration-4
             id: de-marketing-registration
           - label: Funktionen kennenlernen
             link: pages/functions

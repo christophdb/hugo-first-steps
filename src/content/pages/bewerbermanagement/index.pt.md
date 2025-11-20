@@ -132,9 +132,8 @@ sections:
     - name: 'content-4'
       weight: 14
       title: 'Todos os processos de gestão de candidatos numa única ferramenta'
-      subtitle: 'SeaTable para o seu recrutamento' 
+      subtitle: 'Gestão colaborativa de aplicações' 
       text: 'O SeaTable é infinitamente personalizável, compatível com o RGPD e escalável, o que o torna a ferramenta de gestão de candidatos perfeita para processos digitais eficientes.'
-      subtitle: Gestão colaborativa de aplicações
       items:
         - headline: 'Trabalho em colaboração'
           text: 'Faça a gestão dos processos de gestão de candidatos de forma transparente: As alterações são actualizadas em tempo real, as notas importantes são adicionadas diretamente ao SeaTable como comentários.'

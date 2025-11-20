@@ -132,9 +132,8 @@ sections:
     - name: 'content-4'
       weight: 14
       title: 'Alle Bewerbermanagement Prozesse in einem Tool '
-      subtitle: 'SeaTable für Ihr Recruiting' 
+      subtitle: 'Kollaborative Bewerbungsverwaltung' 
       text: 'SeaTable ist unbegrenzt anpassungsfähig, DSGVO-konform und skalierbar – und damit das perfekte Bewerbermanagement Tool für effiziente digitale Prozesse.'
-      subtitle: Kollaborative Bewerbungsverwaltung
       items:
         - headline: 'Kollaboratives Arbeiten'
           text: 'Bewerbermanagement Prozesse transparent verwalten: Änderungen werden in Echtzeit aktualisiert, wichtige Hinweise direkt in SeaTable als Kommentare eingefügt.'

@@ -132,9 +132,8 @@ sections:
     - name: 'content-4'
       weight: 14
       title: 'All applicant management processes in one tool'
-      subtitle: 'SeaTable for your recruiting' 
+      subtitle: Collaborative application management
       text: 'SeaTable is infinitely customizable, GDPR-compliant and scalable – making it the perfect applicant management tool for efficient digital processes.'
-      subtitle: Kollaborative Bewerbungsverwaltung
       items:
         - headline: 'Collaborative working'
           text: 'Manage applicant management processes transparently: Changes are updated in real time, important notes are added directly to SeaTable as comments.'

@@ -132,9 +132,8 @@ sections:
     - name: 'content-4'
       weight: 14
       title: Tous les processus de gestion des candidatures dans un seul outil
-      subtitle: La table de la mer pour votre recrutement 
+      subtitle: Gestion collaborative des applications 
       text: "SeaTable est personnalisable à l'infini, conforme au GDPR et évolutif - ce qui en fait l'outil de gestion des candidatures idéal pour des processus numériques efficaces."
-      subtitle: Kollaborative Bewerbungsverwaltung
       items:
         - headline: Travail en collaboration
           text: "Gérer les processus de gestion des candidatures de manière transparente : Les modifications sont mises à jour en temps réel, les notes importantes sont ajoutées directement dans SeaTable sous forme de commentaires."
