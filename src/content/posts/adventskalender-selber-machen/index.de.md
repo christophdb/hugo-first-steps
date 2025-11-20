@@ -31,7 +31,7 @@ Wenn Sie wissen möchten, woher die Tradition des Adventskalenders kommt, klicke
 
 Spätestens am 30. November muss der Adventskalender fertig sein. Damit dem nichts im Weg steht, hilft Ihnen folgende Planung:
 
-![Wie Sie in 5 Schritten Ihren Adventskalender planen.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Wie Sie in 5 Schritten Ihren Adventskalender planen.](five_steps_adventscalendar.jpg) 
 
 Diese Schritte führen zum Erfolg.
 
@@ -116,7 +116,7 @@ Besonders einzigartig wirkt Ihr Geschenk, wenn Sie es mit einem symbolischen Geg
 
 Eine Mischung aus verschiedenen Produkten sorgt für Spannung bis zur letzten Sekunde.
 
-![24 Ideen zum Befüllen Ihres Adventskalenders.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 Ideen zum Befüllen Ihres Adventskalenders.](gift_ideas_adventscalendar.jpg)
 
 Die Mischung macht’s.
 

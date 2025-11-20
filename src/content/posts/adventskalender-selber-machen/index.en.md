@@ -36,7 +36,7 @@ If you would like to know where the tradition of the Advent calendar comes from,
 
 The Advent calendar must be ready by November 30 at the latest. The following planning will help you to ensure that nothing stands in the way:
 
-![How to plan your Advent calendar in 5 steps.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![How to plan your Advent calendar in 5 steps.](five_steps_adventscalendar.jpg)
 
 These steps lead to success.
 
@@ -121,7 +121,7 @@ Your gift will look particularly unique if you combine it with a symbolic object
 
 A mixture of different products ensures excitement right up to the last second.
 
-![24 ideas for filling your advent calendar.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 ideas for filling your advent calendar.](gift_ideas_adventscalendar.jpg)
 
 It's all in the mix.
 

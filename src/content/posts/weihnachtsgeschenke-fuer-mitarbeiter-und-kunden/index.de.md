@@ -19,7 +19,7 @@ Weihnachten steht vor der Tür und Sie möchten Ihren Mitarbeitern, Geschäftspa
 
 Ob große Gesten oder kleine Aufmerksamkeiten – jeder freut sich über ein Geschenk. Doch es muss nicht immer ein Geschenk in Form eines materiellen Gegenstands oder Gutscheins sein. Etwas zu verschenken geht über das Materielle hinaus und kann sich in vielen Arten zeigen.
 
-![Hier werden Ihnen fünf Ideen vorgestellt, was Sie Ihren Kunden und Mitarbeitern in der Weihnachtszeit schenken könnten.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Hier werden Ihnen fünf Ideen vorgestellt, was Sie Ihren Kunden und Mitarbeitern in der Weihnachtszeit schenken könnten.](festive_gift_ideas.jpg)
 
 Welche Idee werden Sie dieses Weihnachten umsetzen?
 

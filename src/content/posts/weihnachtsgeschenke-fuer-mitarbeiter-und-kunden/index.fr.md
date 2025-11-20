@@ -21,7 +21,7 @@ Noël approche et vous souhaitez offrir à vos collaborateurs, partenaires comme
 
 Qu'il s'agisse de grands gestes ou de petites attentions, tout le monde est heureux de recevoir un cadeau. Mais il ne doit pas toujours s'agir d'un cadeau sous forme d'objet matériel ou de bon d'achat. Offrir quelque chose va au-delà du matériel et peut se manifester de nombreuses manières.
 
-![Nous vous présentons ici cinq idées de cadeaux que vous pourriez offrir à vos clients et collaborateurs pendant la période de Noël.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Nous vous présentons ici cinq idées de cadeaux que vous pourriez offrir à vos clients et collaborateurs pendant la période de Noël.](festive_gift_ideas.jpg)
 
 Quelle idée allez-vous mettre en œuvre ce Noël ?
 

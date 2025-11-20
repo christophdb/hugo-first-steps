@@ -21,7 +21,7 @@ O Natal está à porta e gostaria de oferecer aos seus empregados, parceiros com
 
 Quer se trate de um grande gesto ou de um pequeno sinal de apreço - toda a gente fica feliz por receber uma prenda. Mas nem sempre tem de ser um presente sob a forma de um objeto material ou de um vale. Dar um presente vai para além do material e pode assumir muitas formas.
 
-![Eis cinco ideias do que pode oferecer aos seus clientes e empregados durante o período de Natal.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Eis cinco ideias do que pode oferecer aos seus clientes e empregados durante o período de Natal.](festive_gift_ideas.jpg)
 
 Que ideia vai pôr em prática neste Natal?
 

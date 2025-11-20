@@ -35,7 +35,7 @@ Se quiser saber de onde vem a tradição do calendário do Advento, clique [aqui
 
 O calendário do Advento deve estar pronto, o mais tardar, a 30 de novembro. O planeamento que se segue ajudá-lo-á a garantir que nada se interpõe no caminho:
 
-![Como planear o seu calendário do Advento em 5 passos.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Como planear o seu calendário do Advento em 5 passos.](five_steps_adventscalendar.jpg)
 
 Estes passos conduzem ao sucesso.
 
@@ -120,7 +120,7 @@ O seu presente parecerá particularmente único se o combinar com um objeto simb
 
 Uma mistura de produtos diferentes garante a emoção até ao último segundo.
 
-![24 ideias para preencher o seu calendário do advento.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 ideias para preencher o seu calendário do advento.](gift_ideas_adventscalendar.jpg)
 
 Está tudo na mistura.
 
