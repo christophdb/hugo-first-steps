@@ -35,7 +35,7 @@ Si vous voulez savoir d'où vient la tradition du calendrier de l'Avent, cliquez
 
 Le calendrier de l'Avent doit être prêt au plus tard le 30 novembre. Pour que rien ne s'y oppose, la planification suivante vous aidera :
 
-![Comment planifier votre calendrier de l'Avent en 5 étapes.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Comment planifier votre calendrier de l'Avent en 5 étapes.](five_steps_adventscalendar.jpg)
 
 Ces étapes mènent au succès.
 
@@ -120,7 +120,7 @@ Votre cadeau sera particulièrement unique si vous l'associez à un objet symbol
 
 Un mélange de différents produits garantit le suspense jusqu'à la dernière seconde.
 
-![24 idées pour remplir votre calendrier de l'Avent.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 idées pour remplir votre calendrier de l'Avent.](gift_ideas_adventscalendar.jpg)
 
 C'est le mélange qui fait la différence.
 

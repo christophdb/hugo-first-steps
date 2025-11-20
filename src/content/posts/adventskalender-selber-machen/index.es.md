@@ -35,7 +35,7 @@ Si quiere saber de dónde viene la tradición del calendario de Adviento, haga c
 
 El calendario de Adviento debe estar listo como muy tarde el 30 de noviembre. La siguiente planificación te ayudará a que nada se interponga en el camino:
 
-![Cómo planificar su calendario de Adviento en 5 pasos.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Cómo planificar su calendario de Adviento en 5 pasos.](five_steps_adventscalendar.jpg)
 
 Estos pasos conducen al éxito.
 
@@ -120,7 +120,7 @@ Tu regalo parecerá especialmente único si lo combinas con un objeto simbólico
 
 Una mezcla de diferentes productos garantiza la emoción hasta el último segundo.
 
-![24 ideas para llenar tu calendario de adviento.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 ideas para llenar tu calendario de adviento.](gift_ideas_adventscalendar.jpg)
 
 Todo está en la mezcla.
 

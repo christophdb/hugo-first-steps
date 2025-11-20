@@ -21,7 +21,7 @@ La Navidad está a la vuelta de la esquina y a usted le gustaría obsequiar a su
 
 Ya sea un gran gesto o una pequeña muestra de agradecimiento, a todo el mundo le gusta recibir un regalo. Pero no siempre tiene por qué ser un regalo en forma de objeto material o vale. Hacer un regalo va más allá de lo material y puede adoptar muchas formas.
 
-![He aquí cinco ideas de lo que podría regalar a sus clientes y empleados durante el periodo navideño.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![He aquí cinco ideas de lo que podría regalar a sus clientes y empleados durante el periodo navideño.](festive_gift_ideas.jpg)
 
 ¿Qué idea harás realidad estas Navidades?
 

@@ -21,7 +21,7 @@ Christmas is just around the corner and you would like to give your employees, b
 
 Whether it's a grand gesture or a small token of appreciation - everyone is happy to receive a gift. But it doesn't always have to be a gift in the form of a material object or voucher. Giving a gift goes beyond the material and can take many forms.
 
-![Here are five ideas of what you could give your customers and employees this Christmas.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Here are five ideas of what you could give your customers and employees this Christmas.](festive_gift_ideas.jpg)
 
 Which idea will you be implementing this Christmas?
 
