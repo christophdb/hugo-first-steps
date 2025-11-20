@@ -1,9 +1,6 @@
 # Use the latest debian base image
 FROM debian:bookworm-slim
 
-# Set Versions
-ARG HUGO_VERSION=0.145.0
-
 # Update and install necessary packages
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
@@ -38,6 +35,8 @@ ENV PATH=$GOROOT/bin:$GOPATH/bin:$PATH
 ENV HUGO_BIND="0.0.0.0" \
     HUGO_ENV="development" \
     HUGO_EDITION="extended"
+
+ARG HUGO_VERSION=0.146.7
 
 # Download Hugo
 RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz -O hugo.tar.gz && \
