@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-title: 'Gestion de la chaîne logistique moderne'
-description: 'Maîtrisez votre supply chain : stock, commandes et fournisseurs digitalement centralisés.'
+    title: 'Gestion de la chaîne logistique moderne'
+    description: 'Maîtrisez votre supply chain : stock, commandes et fournisseurs digitalement centralisés.'
 template: 'd58845a24cda4807847e'
 ---
 

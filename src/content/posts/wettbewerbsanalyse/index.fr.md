@@ -7,7 +7,6 @@ author: 'nsc'
 url: '/fr/analyse-concurrentielle'
 aliases:
     - /fr/wettbewerbsanalyse
-color: '#eeeeee'
 seo:
     title: 'Guide analyse de la concurrence et modèle gratuit'
     description: 'Optimisez votre stratégie grâce à l’analyse concurrentielle et à un modèle offert pour comparer les points forts et le positionnement sur le marché.'

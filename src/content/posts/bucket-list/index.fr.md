@@ -5,14 +5,13 @@ date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
 url: '/fr/bucket-list'
-color: '#eeeeee'
 seo:
     title: 'Créez votre Bucket List : idées & modèle gratuit'
     description: 'Laissez-vous inspirer : 63 idées et un modèle gratuit pour créer votre liste de rêves et aventures.'
 categories:
     - 'best-practice'
 tags:
-      - 'Vie Quotidienne'
+    - 'Vie Quotidienne'
 color: '#3090b6'
 ---
 

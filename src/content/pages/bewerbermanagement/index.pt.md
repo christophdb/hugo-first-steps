@@ -24,20 +24,20 @@ sections:
 
     - name: content-12
       weight: 2
-      classes: 
-        - curved
-        - bg-seatable-blue
-      title: "Software de gestão de candidatos SeaTable"
+      classes:
+          - curved
+          - bg-seatable-blue
+      title: 'Software de gestão de candidatos SeaTable'
       subtitle: Flexível, transparente e em conformidade com a legislação
-      description: O SeaTable traz estrutura e eficiência à sua gestão de candidatos. O nosso software intuitivo de gestão de candidatos reúne todas as vantagens de que necessita para simplificar os seus processos diários. 
+      description: O SeaTable traz estrutura e eficiência à sua gestão de candidatos. O nosso software intuitivo de gestão de candidatos reúne todas as vantagens de que necessita para simplificar os seus processos diários.
       items:
-        - text: Gestão centralizada de candidatos
-        - text: Gestão eficiente de talentos
-        - text: Trabalho colaborativo em tempo real
-        - text: Automatizações e notificações integradas
-        - text: Formulários Web e front-end com aplicação universal sem código
-        - text: 100% compatível com o RGPD
-        - text: Estrutura de dados flexível e personalizável
+          - text: Gestão centralizada de candidatos
+          - text: Gestão eficiente de talentos
+          - text: Trabalho colaborativo em tempo real
+          - text: Automatizações e notificações integradas
+          - text: Formulários Web e front-end com aplicação universal sem código
+          - text: 100% compatível com o RGPD
+          - text: Estrutura de dados flexível e personalizável
       image: /images/landing-page-bewerbermanagement-1.png
 
     - name: content-11
@@ -45,7 +45,7 @@ sections:
       title: Gestão centralizada das aplicações
       subtitle: Processo de gestão de candidatos
       items:
-      - text: Com o SeaTable como o seu software de gestão de candidatos, pode registar todos os dados dos candidatos de forma centralizada e clara. Pode recolher todas as informações e documentos relevantes em linha através de um formulário Web personalizável e de fácil utilização. Todas as candidaturas e candidatos estão à vista numa base de dados claramente estruturada.
+          - text: Com o SeaTable como o seu software de gestão de candidatos, pode registar todos os dados dos candidatos de forma centralizada e clara. Pode recolher todas as informações e documentos relevantes em linha através de um formulário Web personalizável e de fácil utilização. Todas as candidaturas e candidatos estão à vista numa base de dados claramente estruturada.
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
 
     - name: content-11
@@ -53,36 +53,36 @@ sections:
       title: Seleção rápida e fácil de candidatos
       subtitle: Gestão de talentos
       items:
-      - text: Selecionar o talento certo é mais fácil e mais eficiente com o SeaTable. Graças a funções inteligentes, como a segmentação e a filtragem de candidaturas, pode encontrar os melhores candidatos de uma forma direcionada. Diferentes vistas, tabelas e níveis garantem uma clareza óptima e permitem uma seleção de candidatos perfeitamente organizada.
+          - text: Selecionar o talento certo é mais fácil e mais eficiente com o SeaTable. Graças a funções inteligentes, como a segmentação e a filtragem de candidaturas, pode encontrar os melhores candidatos de uma forma direcionada. Diferentes vistas, tabelas e níveis garantem uma clareza óptima e permitem uma seleção de candidatos perfeitamente organizada.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
 
-    - name: "content-4"
+    - name: 'content-4'
       weight: 7
       title: O seu software de gestão de candidatos em conformidade com o RGPD
       subtitle: Security and data protection
-      text: "A segurança dos dados é a principal prioridade do SeaTable. O software está em **conformidade com o GDPR** e oferece-lhe a opção de o utilizar no local ou na nuvem com um servidor localizado na **Alemanha**. Além disso, pode definir individualmente quem tem acesso a que dados, para que as informações sensíveis sejam protegidas de forma ideal."
+      text: 'A segurança dos dados é a principal prioridade do SeaTable. O software está em **conformidade com o GDPR** e oferece-lhe a opção de o utilizar no local ou na nuvem com um servidor localizado na **Alemanha**. Além disso, pode definir individualmente quem tem acesso a que dados, para que as informações sensíveis sejam protegidas de forma ideal.'
       items:
-      - icon: terminal
-        headline: Solução no local
-        text: "Não quer armazenar os seus dados de RH numa nuvem? Com o SeaTable Server obtém a mesma gama de funções."
+          - icon: terminal
+            headline: Solução no local
+            text: 'Não quer armazenar os seus dados de RH numa nuvem? Com o SeaTable Server obtém a mesma gama de funções.'
 
-      - icon: user-plus
-        headline: Definições de segurança
-        text: "Restrinja o acesso e os direitos de edição de dados sensíveis e utilize a autenticação de dois factores para segurança adicional dos dados."
+          - icon: user-plus
+            headline: Definições de segurança
+            text: 'Restrinja o acesso e os direitos de edição de dados sensíveis e utilize a autenticação de dois factores para segurança adicional dos dados.'
 
-      - icon: fingerprint
-        headline: SSO e autenticação
-        text: "O SeaTable suporta todas as técnicas de autenticação comuns e o início de sessão único em todos os modelos de subscrição."
-        
-    - name: "banner-2"
+          - icon: fingerprint
+            headline: SSO e autenticação
+            text: 'O SeaTable suporta todas as técnicas de autenticação comuns e o início de sessão único em todos os modelos de subscrição.'
+
+    - name: 'banner-2'
       weight: 10
-      title: O SeaTable está pronto a ser utilizado em apenas alguns segundos 
+      title: O SeaTable está pronto a ser utilizado em apenas alguns segundos
       buttons:
-           - label: Registe-se agora gratuitamente e comece a trabalhar
-             link: pages/registration
-             id: 
-    
+          - label: Registe-se agora gratuitamente e comece a trabalhar
+            link: pages/registration
+            id:
+
     - name: 'content-8'
       weight: 8
       title: Modelos gratuitos no SeaTable
@@ -91,20 +91,20 @@ sections:
       items:
           - text: Registo do tempo de trabalho
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: ''
           - text: Recrutamento de pessoal
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: ''
           - text: Integração de empregados
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: ''
       buttons:
-        - label: Descubra todos os modelos
-          link: "templates"
-    
+          - label: Descubra todos os modelos
+            link: 'templates'
+
     - name: 'content-10'
       weight: 12
-      title: Processos de recrutamento eficientes e simples  
+      title: Processos de recrutamento eficientes e simples
       subtitle: Poupança de tempo através da automatização
       description: A automatização é outra vantagem do SeaTable. Crie notificações automáticas ou envie e-mails diretamente do sistema com o toque de um botão. Optimize e automatize sem problemas os seus fluxos de trabalho com integrações como Zapier, Make ou n8n.
       items:
@@ -117,7 +117,7 @@ sections:
       weight: 15
       title: O SeaTable oferece funções abrangentes em todos os modelos de preço
       subtitle: Na nuvem ou no local?
-      description: 
+      description:
       items:
           - headline: SeaTable Cloud
             text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa - flexível e escalável.
@@ -126,47 +126,47 @@ sections:
             text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
             image: /images/template-massnahmenplan.jpg
           - headline: SeaTable Dedicated
-            text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado.  
+            text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado.
             image: /images/asana-dedicated.jpg
 
     - name: 'content-4'
       weight: 14
       title: 'Todos os processos de gestão de candidatos numa única ferramenta'
-      subtitle: 'Gestão colaborativa de aplicações' 
+      subtitle: 'Gestão colaborativa de aplicações'
       text: 'O SeaTable é infinitamente personalizável, compatível com o RGPD e escalável, o que o torna a ferramenta de gestão de candidatos perfeita para processos digitais eficientes.'
       items:
-        - headline: 'Trabalho em colaboração'
-          text: 'Faça a gestão dos processos de gestão de candidatos de forma transparente: As alterações são actualizadas em tempo real, as notas importantes são adicionadas diretamente ao SeaTable como comentários.'
-          icon: people-group
-        - headline: 'Integração rápida sem TI'
-          text: 'Basta registar-se e começar a utilizar: O SeaTable Cloud está pronto para ser utilizado imediatamente. Configure o SeaTable da forma que precisa - sem precisar das suas TI.'
-          icon: code  
-        - headline: 'Estatísticas e painéis de controlo'
-          text: Analise todos os seus [processos de RH]({{< relref "pages/industry-solutions/hr" >}})diretamente no SeaTable. Com estatísticas e relatórios significativos, pode otimizar continuamente a sua gestão de candidatos.
-          icon: chart-line
+          - headline: 'Trabalho em colaboração'
+            text: 'Faça a gestão dos processos de gestão de candidatos de forma transparente: As alterações são actualizadas em tempo real, as notas importantes são adicionadas diretamente ao SeaTable como comentários.'
+            icon: people-group
+          - headline: 'Integração rápida sem TI'
+            text: 'Basta registar-se e começar a utilizar: O SeaTable Cloud está pronto para ser utilizado imediatamente. Configure o SeaTable da forma que precisa - sem precisar das suas TI.'
+            icon: code
+          - headline: 'Estatísticas e painéis de controlo'
+            text: Analise todos os seus [processos de RH]({{< relref "pages/industry-solutions/hr" >}})diretamente no SeaTable. Com estatísticas e relatórios significativos, pode otimizar continuamente a sua gestão de candidatos.
+            icon: chart-line
 
-    - name: "banner-2"
+    - name: 'banner-2'
       weight: 16
-      title: A sua gestão de candidatos ideal - com o SeaTable  
+      title: A sua gestão de candidatos ideal - com o SeaTable
       buttons:
-           - label: Registe-se agora gratuitamente e comece a trabalhar
-             link: pages/registration
-             id: 
-   
+          - label: Registe-se agora gratuitamente e comece a trabalhar
+            link: pages/registration
+            id:
+
     - name: faq
       weight: 17
       title: FAQ – SeaTable como software de gestão de candidatos
       items:
           - q: O SeaTable é permitido como software de gestão de candidatos (serviço público)?
             a: 'Sim, o SeaTable oferece os mais elevados padrões de segurança e está em conformidade com o RGPD. As opções no local e os controlos de acesso individuais fazem dele a solução ideal para o sector público.'
-          - q: "Que vantagens oferece o SeaTable como software de gestão dos meus candidatos?"
+          - q: 'Que vantagens oferece o SeaTable como software de gestão dos meus candidatos?'
             a: 'O SeaTable é um software de gestão de candidatos impressionante em muitos aspectos - especialmente devido à sua excecional flexibilidade e adaptabilidade. Se tem utilizado um modelo Excel para a gestão dos seus candidatos, irá apreciar o SeaTable como ferramenta de gestão de candidatos. Especialmente em comparação com o Excel, o SeaTable oferece-lhe vantagens como software de gestão de candidatos, tais como uma organização mais eficiente e uma visão geral ou processos automatizados.'
-          - q: "Porque é que preciso de uma ferramenta adicional quando posso fazer a gestão dos meus candidatos com o Excel?"
+          - q: 'Porque é que preciso de uma ferramenta adicional quando posso fazer a gestão dos meus candidatos com o Excel?'
             a: Mesmo que um modelo Excel esteja disponível para si gratuitamente na gestão de candidatos, faz sentido iniciar uma comparação de software de gestão de candidatos. O Excel não oferece tantas funções neste domínio como outras ferramentas de gestão de candidatos, algumas das quais são gratuitas.
-          - q: "Como posso otimizar o meu processo de gestão de candidatos?"
+          - q: 'Como posso otimizar o meu processo de gestão de candidatos?'
             a: Se procura um guia completo sobre gestão de candidatos e recrutamento social, pode encontrá-lo no nosso artigo de bloco [Recrutamento] ({{< relref "posts/20250317-recruiting/" >}}). Aí encontrará dicas e estratégias valiosas sobre como otimizar a sua gestão de candidatos.
           - q: 'O SeaTable também oferece uma versão gratuita?'
             a: Sim, o SeaTable Cloud pode ser utilizado como software gratuito de gestão de candidatos com uma subscrição gratuita. Pode então utilizar quase todas as funções e caraterísticas de que necessita para uma gestão de candidatos eficiente e transparente. Se necessitar de funções alargadas e de mais espaço de armazenamento, pode fazer a atualização para uma das nossas versões premium económicas em qualquer altura.
-          - q: "Que software de gestão de candidatos é gratuito e seguro?"
+          - q: 'Que software de gestão de candidatos é gratuito e seguro?'
             a: O SeaTable é uma ferramenta de gestão de candidatos que pode ser utilizada gratuitamente. Oferece os mais elevados padrões de segurança e está em conformidade com o RGPD.
 ---

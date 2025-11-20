@@ -7,7 +7,6 @@ author: 'nsc'
 url: '/ru/analiz-konkurentov'
 aliases:
     - /ru/wettbewerbsanalyse
-color: '#eeeeee'
 seo:
     title: 'Гайд по анализу конкурентов + бесплатный шаблон'
     description: 'Оптимизируйте стратегию с методами анализа конкурентов и бесплатным шаблоном для сравнения сильных сторон и позиционирования на рынке.'

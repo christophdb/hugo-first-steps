@@ -7,7 +7,6 @@ categories:
 tags:
     - 'Управление проектом'
     - 'Рабочие процессы'
-date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
 url: '/ru/upravlenie-zadachami'

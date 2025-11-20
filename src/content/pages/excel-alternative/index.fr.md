@@ -21,9 +21,9 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: "SeaTable est l\'alternative parfaite à Excel"
+      title: "SeaTable est l'alternative parfaite à Excel"
       subtitle: "Avantages de SeaTable"
-      text: "Que ce soit dans le développement de logiciels, la numérisation de l\'administration, la gestion de projet, le marketing ou les ressources humaines, dans tous les domaines spécialisés, les exigences en matière de gestion complexe des données augmentent constamment. Les sources de données sont diverses, les volumes de données et la collaboration sur ces données dépassent souvent les possibilités des tableurs conventionnels, tels que vous les connaissez d\'un programme Excel ou d\'un tableur. Développez vos possibilités et **augmentez votre productivité** grâce à notre plateforme numérique no-code intuitive."
+      text: "Que ce soit dans le développement de logiciels, la numérisation de l'administration, la gestion de projet, le marketing ou les ressources humaines, dans tous les domaines spécialisés, les exigences en matière de gestion complexe des données augmentent constamment. Les sources de données sont diverses, les volumes de données et la collaboration sur ces données dépassent souvent les possibilités des tableurs conventionnels, tels que vous les connaissez d'un programme Excel ou d'un tableur. Développez vos possibilités et **augmentez votre productivité** grâce à notre plateforme numérique no-code intuitive."
       items:
           - icon: layer-group
             headline: Flexibilité

@@ -5,14 +5,13 @@ date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
 url: '/ru/bucket-list'
-color: '#eeeeee'
 seo:
     title: 'Составьте Bucket List: идеи и бесплатный шаблон'
     description: 'Найдите вдохновение: 63 идеи и бесплатный шаблон, чтобы записать свои мечты и планы на жизнь.'
 categories:
     - 'best-practice'
 tags:
-      - 'Повседневная жизнь и досуг'
+    - 'Повседневная жизнь и досуг'
 color: '#3090b6'
 ---
 

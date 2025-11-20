@@ -8,7 +8,6 @@ author: 'nsc'
 url: '/competitive-analysis'
 aliases:
     - /wettbewerbsanalyse
-color: '#eeeeee'
 seo:
     title: 'Competitor Analysis Guide & Free Template for Growth'
     description: 'Boost your strategy with proven competitor analysis methods and a free template to assess strengths, weaknesses, and market positioning.'

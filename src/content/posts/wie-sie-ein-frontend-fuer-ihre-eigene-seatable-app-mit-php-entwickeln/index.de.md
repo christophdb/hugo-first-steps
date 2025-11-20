@@ -1,7 +1,6 @@
 ---
 title: 'Wie Sie ein Frontend für Ihre eigene SeaTable App mit PHP entwickeln'
 description: 'Schritt-für-Schritt-Anleitung: Lernen Sie, wie Sie mit SeaTable, der PHP-API und modernen Frameworks ein individuelles Frontend für Ihre Geschäftsanwendung programmieren. Ideal für Low-Code- und Full-Code-Projekte.'
-description: ''
 date: 2022-09-27
 categories:
     - 'product-features'
