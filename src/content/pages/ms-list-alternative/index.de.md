@@ -26,7 +26,7 @@ sections:
       weight: 2
       title: SeaTable ist die perfekte Alternative zu Microsoft Lists
       subtitle: Vorteile von SeaTable 
-      description: Wenn Sie Microsoft Lists kennen, werden Sie SeaTable lieben. SeaTable bietet mehr Funktionen und gleichzeitig als einzige Alternative die Möglichkeit, SeaTable auf Ihrem eigenen Server, in Ihrem Rechenzentrum, mit Ihrer Domain und mit Ihrem Corporate Identity zu betreiben.
+      description: Wenn Sie Microsoft Lists kennen, werden Sie SeaTable lieben. Die [No-Code-Plattform]({{< relref "/" >}}) bietet mehr Funktionen und gleichzeitig als einzige Alternative die Möglichkeit, SeaTable auf Ihrem eigenen Server, in Ihrem Rechenzentrum, mit Ihrer Domain und mit Ihrem Corporate Identity zu betreiben.
       items:
           - headline: On-Premise
             text: Firmendaten gehören nicht in fremde Hände, sondern in ein selbst gehostetes System.Microsoft Lists gibt es nur als Teil von Office 365 aus der Microsoft Cloud. Bei SeaTable entscheiden Sie, wo Sie Ihr System installieren und wer Zugriff auf Ihre Daten hat.
@@ -88,13 +88,13 @@ sections:
       items:
           - text: "To-do-Liste"
             image: /images/to-do-liste.png
-            image_alt: ""
+            image_alt: "Template To-Do-Liste"
           - text: Workshop planen
             image: /images/workshop-planer.png
-            image_alt: ""
+            image_alt: "Template Workshop planen"
           - text: Maßnahmenplan
             image: /images/maßnahmenplan.png
-            image_alt: ""
+            image_alt: "Template Maßnahmenplan erstellen"
       buttons:
         - label: Alle Vorlagen entdecken
           link: "templates"
@@ -139,11 +139,11 @@ sections:
       title: FAQs – SeaTable als Microsoft Lists Alternative 
       items:
           - q: 'Welche Funktionen bietet SeaTable?'
-            a: 'SeaTable bietet eine Vielzahl an Funktionen für ein transparentes Datenmanagement in Echtzeit und effiziente Prozesse: Egal, ob Automatisierungen, Benachrichtigungsfunktionen, Universal App Builder oder Reporting-Dashboards: Sie können SeaTable flexibel an Ihre Anforderungen anpassen. Die Plattform ist flexibel und kann sowohl als Cloud-Lösung als auch On-Premises genutzt werden.'
+            a: 'SeaTable bietet eine Vielzahl an Funktionen für ein transparentes [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) in Echtzeit und effiziente Prozesse: Egal, ob Automatisierungen, Benachrichtigungsfunktionen, [Universal App Builder]({{< relref "posts/20250318-app-erstellen" >}}) oder Reporting-Dashboards: Sie können SeaTable flexibel an Ihre Anforderungen anpassen. Die Plattform ist flexibel und kann sowohl als Cloud-Lösung als auch On-Premises genutzt werden.'
 
           - q: 'Ist SeaTable wirklich kostenlos nutzbar?'
             a: 'Ja, Sie können SeaTable im Free Plan zeitlich unbegrenzt kostenlos nutzen. Für erweiterte Funktionen und größeren Speicherplatz stehen Ihnen kostengünstige Premium-Versionen zur Verfügung.'
 
           - q: 'Bietet SeaTable einen kostenlosen Support?'
-            a: 'Bei Fragen zu SeaTable oder einzelnen Funktionen stehen wir Ihnen jederzeit zur Seite. Sie erreichen unseren Support entweder über das SeaTable Forum oder direkt per E-Mail.'
+            a: 'Bei Fragen zu SeaTable oder einzelnen Funktionen stehen wir Ihnen jederzeit zur Seite. Sie erreichen unseren Support entweder über das [SeaTable Forum](https://forum.seatable.com/) oder direkt per E-Mail.'
 ---

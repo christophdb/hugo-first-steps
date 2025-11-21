@@ -26,7 +26,7 @@ sections:
       weight: 2
       title: SeaTable is the perfect alternative to Microsoft Lists
       subtitle: Advantages of SeaTable
-      description: If you know Microsoft Lists, you will love SeaTable. SeaTable offers more features and at the same time is the only alternative that allows you to run SeaTable on your own server, in your data center, with your domain and with your corporate identity.
+      description: If you know Microsoft Lists, you will love SeaTable. The [no-code-platform]({{< relref "/" >}}) offers more features and at the same time is the only alternative that allows you to run SeaTable on your own server, in your data center, with your domain and with your corporate identity.
       items:
           - headline: On-Premise
             text: Company data does not belong in someone else's hands, but in a self-hosted system.Microsoft Lists is only available as part of Office 365 from the Microsoft Cloud. With SeaTable, you decide where you install your system and who has access to your data.
@@ -139,11 +139,11 @@ sections:
       title: FAQ - SeaTable as a Microsoft Lists alternative
       items:
           - q: 'What functions does SeaTable offer?'
-            a: 'SeaTable offers a wide range of functions for transparent, real-time data management and efficient processes: Whether automations, notification functions, Universal App Builder or reporting dashboards: you can flexibly adapt SeaTable to your requirements. The platform is flexible and can be used both as a cloud solution and on-premises.'
+            a: 'SeaTable offers a wide range of functions for transparent, real-time [data management]({{< relref "posts/20250317-datenmanagement" >}}) and efficient processes: Whether automations, notification functions, Universal App Builder or reporting dashboards: you can flexibly adapt SeaTable to your requirements. The platform is flexible and can be used both as a cloud solution and on-premises.'
 
           - q: 'Is SeaTable really free to use?'
             a: 'Yes, you can use SeaTable in the Free Plan free of charge for an unlimited period of time. For extended functions and more storage space, you can opt for the inexpensive Premium version.'
 
           - q: 'Does SeaTable offer free support?'
-            a: 'If you have any questions about SeaTable or individual functions, we are always at your side. You can reach our support either via the SeaTable forum or directly by e-mail.'
+            a: 'If you have any questions about SeaTable or individual functions, we are always at your side. You can reach our support either via the [SeaTable forum](https://forum.seatable.com/) or directly by e-mail.'
 ---
