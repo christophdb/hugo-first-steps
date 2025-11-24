@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de armazéns'
-description: ''
+description: 'Optimize os seus processos de armazém com uma gestão centralizada de todos os stocks, locais de armazenamento e movimentos de mercadorias. As notificações automáticas fornecem informações actualizadas, enquanto pode analisar de forma flexível os dados dos produtos e manter sempre uma visão geral.'
 date: '2025-07-18'
 url: '/pt/modelo/gestao-de-armazens'
 category: 'operations'

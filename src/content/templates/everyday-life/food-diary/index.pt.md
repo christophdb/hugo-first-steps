@@ -1,6 +1,6 @@
 ---
 title: 'Diário alimentar'
-description: ''
+description: 'Documente as suas refeições de forma estruturada, reconheça padrões de intolerância e partilhe facilmente dados relevantes com especialistas. A aplicação ajuda-o a analisar os seus hábitos alimentares, a definir lembretes e a garantir uma maior transparência na vida quotidiana.'
 date: '2025-07-18'
 url: '/pt/modelo/diario-alimentar'
 category: 'everyday-life'

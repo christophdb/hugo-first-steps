@@ -1,6 +1,6 @@
 ---
 title: 'Calendrier des travaux'
-description: ''
+description: "L'ensemble de votre projet de construction en un coup d'œil : Cette solution de planification numérique regroupe toutes les dates, tous les corps de métier et tous les coûts en un seul endroit, visualise les calendriers et les tâches en temps réel et facilite la collaboration et la communication au sein de l'équipe."
 date: '2025-10-28'
 url: '/fr/modeles/calendrier-des-travaux'
 category: 'real-estate'

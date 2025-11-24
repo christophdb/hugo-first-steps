@@ -1,6 +1,6 @@
 ---
 title: 'Calendário de construção'
-description: ''
+description: 'Todo o seu projeto de construção num piscar de olhos: Esta solução de planeamento digital agrupa todos os prazos, operações e custos numa localização central, visualiza os calendários e as tarefas em tempo real e facilita a colaboração e a comunicação dentro da equipa.'
 date: '2025-10-28'
 url: '/pt/modelo/calendario-de-construcao'
 category: 'real-estate'
