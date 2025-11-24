@@ -1,6 +1,6 @@
 ---
 title: 'Gestão da associação'
-description: 'Registre sócios, eventos e cobranças centralmente, automatize rotinas e tenha total controle do seu clube ou associação.'
+description: ''
 date: '2024-08-24'
 url: '/pt/modelo/gestao-associacao'
 aliases:

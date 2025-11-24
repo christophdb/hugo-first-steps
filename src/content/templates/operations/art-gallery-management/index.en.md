@@ -1,6 +1,6 @@
 ---
 title: 'Art Gallery Management'
-description: 'Track collections, artists and loans, plan events and organize gallery contacts and insurance efficiently and digitally.'
+description: ''
 date: '2024-08-24'
 url: '/template/art-gallery-management'
 category: 'operations'

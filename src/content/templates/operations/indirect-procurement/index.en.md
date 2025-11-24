@@ -1,6 +1,6 @@
 ---
 title: 'Indirect Procurement'
-description: 'Manage indirect purchases, centralize catalogs, suppliers and requests, and streamline internal procurement processes efficiently.'
+description: ''
 date: '2024-08-24'
 url: '/template/indirect-procurement'
 category: 'operations'

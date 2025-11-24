@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de asociaciones'
-description: 'Gestione datos de miembros, pagos y eventos desde una solución integral, automatice procesos y controle la administración de su asociación.'
+description: ''
 date: '2024-08-24'
 url: '/es/plantilla/gestion-asociacion'
 aliases:

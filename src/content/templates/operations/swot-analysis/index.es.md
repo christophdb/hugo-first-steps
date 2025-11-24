@@ -1,6 +1,6 @@
 ---
 title: 'Plantilla de análisis DAFO'
-description: 'Clasifique factores, visualice análisis y planifique estrategias para mejorar competitividad y tomar mejores decisiones.'
+description: ''
 date: '2025-02-23'
 url: '/es/plantilla/analisis-foda'
 aliases:

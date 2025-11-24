@@ -1,6 +1,6 @@
 ---
 title: 'Nachhaltigkeitsmanagement'
-description: 'Steuern Sie Umweltziele, soziale und nachhaltige Maßnahmen unternehmensweit und erfassen Sie Kennzahlen transparent an einem Ort.'
+description: ''
 date: '2024-08-24'
 url: '/de/vorlage/nachhaltigkeitsmanagement'
 aliases:

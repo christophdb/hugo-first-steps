@@ -1,6 +1,6 @@
 ---
 title: 'Lagerverwaltung'
-description: 'Steuern Sie Lager, Produkte und Lagerorte zentral, automatisieren Sie Benachrichtigungen und werten Sie Bestände live mit Dashboards aus.'
+description: 'Optimieren Sie Ihre Lagerprozesse mit zentraler Verwaltung aller Bestände, Lagerorte und Warenbewegungen. Automatische Benachrichtigungen sorgen für aktuelle Informationen, während Sie Produktdaten flexibel auswerten und stets den Überblick behalten.'
 date: '2025-07-18'
 url: '/de/vorlage/lagerverwaltung'
 category: 'operations'

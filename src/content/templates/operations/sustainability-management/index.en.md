@@ -1,6 +1,6 @@
 ---
 title: 'Sustainability Management'
-description: 'Collect all eco and CSR actions, measure progress on goals and certifications, and centralize your entire sustainability strategy.'
+description: ''
 date: '2024-08-24'
 url: '/template/sustainability-management'
 category: 'operations'

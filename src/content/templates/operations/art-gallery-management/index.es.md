@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de galerías de arte'
-description: 'Centralice la gestión de piezas, autores y exposiciones, coordine eventos y optimice documentos y seguros en una plataforma digital.'
+description: ''
 date: '2024-08-24'
 url: '/es/plantilla/gestion-galeria-arte'
 aliases:

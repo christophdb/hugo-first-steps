@@ -1,6 +1,6 @@
 ---
 title: 'Warehouse management'
-description: 'Manage inventory and storage, automate notifications, track all movements and get real-time insights with digital dashboards.'
+description: 'Optimise your warehouse processes with central management of all stocks, storage locations and goods movements. Automatic notifications ensure up-to-date information, while you can flexibly analyse product data and always maintain an overview.'
 date: '2025-07-18'
 url: '/template/warehouse-management'
 category: 'operations'

@@ -1,6 +1,6 @@
 ---
 title: 'Gestion du développement durable'
-description: "Structurez objectifs, suivez actions RSE, visualisez certificats et coordonnez la stratégie de durabilité à l’échelle de votre société."
+description: ''
 date: '2024-08-24'
 url: '/fr/modele/gestion-durable'
 aliases:

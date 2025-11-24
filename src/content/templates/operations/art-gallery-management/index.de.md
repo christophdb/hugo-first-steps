@@ -1,6 +1,6 @@
 ---
 title: 'Kunstgalerie Management'
-description: 'Verwalten Sie Werke, Künstler und Leihgaben, planen Sie Ausstellungen, steuern Sie Kontakte und Versicherungen digital für Ihre Galerie oder Ihr Museum.'
+description: ''
 date: '2024-08-24'
 url: '/de/vorlage/galeriemanagement'
 aliases:

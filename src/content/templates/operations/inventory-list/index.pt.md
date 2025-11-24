@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de lista de inventário'
-description: 'Controle inventário, gere cadastros e relatórios, otimize entrada e saída de ativos e tome decisões logísticas precisas.'
+description: ''
 date: '2025-02-28'
 url: '/pt/modelo/lista-inventario'
 aliases:

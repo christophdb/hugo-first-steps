@@ -1,6 +1,6 @@
 ---
 title: "Modèle de liste d'inventaire"
-description: 'Rassemblez et analysez données de stock et actifs, gérez entrées et sortants et optimisez la gestion de votre entrepôt facilement.'
+description: ''
 date: '2025-02-28'
 url: '/fr/modele/liste-inventaire'
 aliases:
