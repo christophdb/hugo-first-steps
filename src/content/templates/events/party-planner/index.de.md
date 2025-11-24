@@ -1,6 +1,7 @@
 ---
 title: 'Partyplaner'
-description: ''
+description: 'Planen Sie Ihre Party digital und stressfrei: Gästeliste, Mitbringsel und Aufgaben schnell im Griff.
+Laden Sie Gäste online ein, organisieren Sie Wünsche und behalten Sie alles zentral im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/partyplaner'
 aliases:

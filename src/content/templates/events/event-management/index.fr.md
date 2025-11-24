@@ -1,14 +1,14 @@
 ---
 title: 'Gestion des événements'
-description: ''
+description: "Gérez toutes vos tâches, participants et budgets en un seul endroit. Automatisez inscriptions et données pour des processus fluides. Vos événements seront efficaces et toujours bien structurés."
 url: '/fr/modele/event-management'
 aliases:
     - '/fr/modeles/événements/'
 category: 'ereignisse'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: "Modèle de gestion d'événements : planifier et mettre en œuvre facilement"
+    description: "Planifiez, organisez et suivez chaque détail. Avec ce modèle de gestion d'événements, vos événements seront faciles à organiser."
 template: 'bb4d007014a64a18be06'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Planeador do festival'
-description: ''
+description: 'Planeje seu festival em grupo: controle lista, line-up e horários em um só lugar, alinhe preferências e esteja pronto – digital, colaborativo e sempre atualizado.'
 date: '2024-08-24'
 url: '/pt/modelo/planeador-festival'
 aliases:

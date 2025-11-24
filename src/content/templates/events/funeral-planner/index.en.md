@@ -1,6 +1,6 @@
 ---
 title: 'Funeral Planner'
-description: ''
+description: 'Keep track of tasks, costs, and guests for a funeral with clarity. Plan, coordinate, and delegate reliably for a dignified ceremony. Digital checklists offer guidance and support in difficult times.'
 date: '2024-08-24'
 url: '/template/funeral-planner'
 category: 'events'

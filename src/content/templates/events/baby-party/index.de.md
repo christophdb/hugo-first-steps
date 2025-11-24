@@ -1,6 +1,6 @@
 ---
 title: 'Babyparty'
-description: ''
+description: 'Planen, organisieren und steuern Sie Ihre Babyparty bequem an einem Ort. Verwalten Sie Gäste, Aufgaben und Geschenke effizient, binden Sie Freunde per Webformular ein. Alle Infos bleiben übersichtlich, aktuell und flexibel – für eine entspannte Feier.'
 date: '2024-08-24'
 url: '/de/vorlage/babyparty'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Wedding Planner'
-description: ''
+description: 'Keep all wedding tasks, guests, and your budget organized and stress-free in one digital place. Plan, manage, and share everything centrally for an unforgettable and smooth celebration.'
 date: '2024-08-24'
 url: '/template/wedding-planner'
 category: 'events'
