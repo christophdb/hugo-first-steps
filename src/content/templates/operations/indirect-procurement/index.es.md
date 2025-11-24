@@ -1,6 +1,6 @@
 ---
 title: 'Compras indirectas'
-description: ''
+description: 'Automatice registros, pedidos y aprobaciones, gestione catálogos y proveedores y supervise toda la compra indirecta online.'
 date: '2024-08-24'
 url: '/es/plantilla/compras-indirectas'
 aliases:

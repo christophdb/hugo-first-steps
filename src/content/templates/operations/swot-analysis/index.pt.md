@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de análise SWOT'
-description: ''
+description: 'Organize e visualize fatores SWOT, transforme dados em ações estratégicas e otimize os resultados da sua empresa.'
 date: '2025-02-23'
 url: '/pt/modelo/swot-analysis'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'SWOT Analyse'
-description: ''
+description: 'Dokumentieren und klassifizieren Sie Stärken, Schwächen, Chancen und Risiken, visualisieren Sie Daten und planen Sie Maßnahmen strategisch.'
 date: '2025-02-23'
 url: '/de/vorlage/swot-analyse'
 aliases:
