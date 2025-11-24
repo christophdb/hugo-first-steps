@@ -11,6 +11,7 @@ seo:
     title: 'Liste d’achats : pratique & connectée'
     description: 'Créez, partagez et gérez vos listes de courses en ligne pour ne rien oublier, seul ou en famille.'
 template: '913bf21e3f934d57b402'
+weight: 3
 ---
 
 Combien de fois vous êtes-vous retrouvé devant le supermarché pour constater que vous aviez oublié votre liste de courses à la maison ? Utilisez plutôt une liste de courses numérique à laquelle vous pouvez accéder de n'importe où dans le monde avec votre smartphone ! Vous pouvez même la partager avec les membres de votre famille ou vos colocataires pour qu'ils puissent également ajouter des achats à la liste.

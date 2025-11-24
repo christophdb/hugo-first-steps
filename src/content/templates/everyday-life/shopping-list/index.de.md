@@ -11,6 +11,7 @@ seo:
     title: 'Einkaufsliste: Einkäufe digital planen'
     description: 'Erstellen, teilen und verwalten Sie Ihre Einkaufsliste digital — jederzeit griffbereit für alle im Haushalt.'
 template: '913bf21e3f934d57b402'
+weight: 3
 ---
 
 Wie oft haben Sie schon vorm Supermarkt gestanden und festgestellt, dass Sie Ihren Einkaufszettel zu Hause vergessen haben? Nutzen Sie lieber eine digitale Einkaufsliste, auf die Sie von überall auf der Welt mit Ihrem Smartphone zugreifen können! Sie können sie sogar mit Ihren Familienmitgliedern oder Mitbewohnern teilen, damit diese ebenso Einkäufe auf die Liste setzen können.

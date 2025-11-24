@@ -11,6 +11,7 @@ seo:
     title: 'Lista de compras: planeje online'
     description: 'Gerencie e compartilhe sua lista de compras online, organize por categoria, receita ou loja facilmente.'
 template: '913bf21e3f934d57b402'
+weight: 3
 ---
 
 Quantas vezes esteve à porta do supermercado e se apercebeu que se tinha esquecido da sua lista de compras em casa? Em vez disso, utilize uma lista de compras digital a que pode aceder a partir de qualquer parte do mundo com o seu smartphone! Pode até partilhá-la com os seus familiares ou colegas de casa para que eles também possam adicionar compras à lista.
