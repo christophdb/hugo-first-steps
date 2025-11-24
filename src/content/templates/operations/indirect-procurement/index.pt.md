@@ -1,6 +1,6 @@
 ---
 title: 'Compras indirectas'
-description: 'Centralize pedidos, fornecedores e itens, automatize a aprovação e simplifique todo o fluxo de compras em sua empresa.'
+description: ''
 date: '2024-08-24'
 url: '/pt/modelo/compras-indiretas'
 aliases:

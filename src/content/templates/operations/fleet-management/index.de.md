@@ -1,6 +1,6 @@
 ---
 title: 'Fuhrparkmanagement Software'
-description: 'Planen Sie Fahrzeugeinsätze, dokumentieren Sie Wartung und Buchung und behalten Sie Kosten und Termine zentral im Griff.'
+description: ''
 date: '2025-03-12'
 url: '/de/vorlage/fuhrparkmanagement'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Software de gestión de flotas'
-description: 'Controle el uso, mantenimiento y costes de vehículos, organice reservas y analice datos de la flota fácilmente y automáticamente.'
+description: ''
 date: '2025-03-12'
 url: '/es/plantilla/software-gestion-flotas'
 aliases:

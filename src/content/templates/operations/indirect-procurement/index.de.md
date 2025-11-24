@@ -1,6 +1,6 @@
 ---
 title: 'Indirekter Einkauf'
-description: 'Erfassen und steuern Sie indirekte Bestellungen, digitalisieren Sie Abläufe und erhöhen Sie die Transparenz für Ihr Unternehmen.'
+description: ''
 date: '2024-08-24'
 url: '/de/vorlage/indirekter-einkauf'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: "Gestion de l'association"
-description: 'Administrez membres, finances et activités en un lieu, automatisez tâches et simplifiez la gestion de votre association ou club.'
+description: ''
 date: '2024-08-24'
 url: '/fr/modele/gestion-association'
 aliases:
