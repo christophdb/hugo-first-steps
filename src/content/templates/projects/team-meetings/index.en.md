@@ -1,6 +1,6 @@
 ---
 title: 'Team Meetings'
-description: ''
+description: 'Schedule, organize and document meetings online, manage agendas and notes together, and keep everyone informed efficiently.'
 date: '2025-03-03'
 url: '/template/team-meetings'
 aliases:

@@ -1,6 +1,6 @@
 ---
-title: 'Aufgabenverwaltung'
-description: 'Verwalten Sie Aufgaben im Gantt-Chart oder Kanban und behalten Sie Deadlines im Blick.'
+title: 'Projektplan Vorlage'
+description: 'Erfassen Sie Aufgaben im Gantt-Chart oder Kanban-Board, delegieren Sie Zuständigkeiten und stellen Sie Ihr Projektteam perfekt auf.'
 date: '2025-03-07'
 url: '/de/vorlage/projektplan-vorlage'
 aliases:

@@ -1,6 +1,6 @@
 ---
-title: 'Task Management'
-description: ''
+title: 'Project Plan Template'
+description: 'Assign tasks in Gantt or Kanban views, manage deadlines, keep your whole project transparent and always your team up to date.'
 date: '2025-03-07'
 url: '/template/project-plan'
 category: 'projects'

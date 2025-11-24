@@ -1,14 +1,14 @@
 ---
 title: 'Портфель проектов'
-description: ''
+description: 'Анализируйте и управляйте проектами и ресурсами в одной системе. Определяйте приоритеты и отвечайте за результаты компании.'
 url: '/ru/shablon/portfelya-proektov'
 aliases:
     - '/ru/шаблон/project-portfolio'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Портфель проектов: обзор и аналитика'
+    description: 'Управляйте всеми проектами и ресурсами централизованно, анализируйте показатели, улучшайте стратегические решения.'
 template: '1acd19d97c8f4ed3ad38'
 weight: 2
 ---

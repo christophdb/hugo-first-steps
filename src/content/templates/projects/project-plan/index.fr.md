@@ -1,6 +1,6 @@
 ---
 title: 'Modèle de plan de projet'
-description: ''
+description: "Déléguez tâches, suivez l’avancement dans Gantt ou Kanban et gardez le contrôle total sur vos projets et votre équipe."
 date: '2025-03-07'
 url: '/fr/modele/plan-projet'
 aliases:

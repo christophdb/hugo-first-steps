@@ -1,13 +1,15 @@
 ---
 title: "Plan d'affaires"
-description: ''
+description: 'Définissez des stratégies, harmonisez les initiatives et partagez les informations clés pour renforcer l’efficacité en équipe et assurer la réussite de vos projets.'
 date: '2024-08-24'
-url: '/fr/modele/business-roadmap'
+url: '/fr/modele/plan-d-affaires'
+aliases:
+    - '/fr/modele/business-roadmap'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: "Modèle de Plan d’Affaires structuré"
+    description: 'Centralisez objectifs, actions et équipes pour optimiser la performance et la réussite de votre entreprise à long terme.'
 template: '7885fb8884474b68aa1a'
 ---
 

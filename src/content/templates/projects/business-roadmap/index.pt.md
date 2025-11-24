@@ -1,13 +1,15 @@
 ---
 title: 'Plano de negócios'
-description: ''
+description: 'Planeje estratégias, conecte áreas e mantenha todas as equipes alinhadas a uma mesma visão para obter melhores resultados organizacionais.'
 date: '2024-08-24'
-url: '/pt/modelo/business-roadmap'
+url: '/pt/modelo/plano-de-negocios'
+aliases:
+    - '/pt/modelo/business-roadmap'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de Plano de Negócios integrado'
+    description: 'Estruture metas e ações, alinhe equipes e direcione sua empresa para um sucesso sustentável e transparente.'
 template: '7885fb8884474b68aa1a'
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: 'Work Breakdown Structure'
-description: 'Successfully structure your project into subtasks and work packages.'
+description: 'Divide your project into tasks and work packages, assign responsibilities and keep project progress visible at all times.'
 date: '2024-08-17'
 url: '/template/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Work Breakdown Structure Template: Plan Clearly'
+    description: 'Visualize, assign and track tasks and work packages. Break down projects for improved planning and transparency.'
 template: '898485ee9b7949c5b987'
 ---
 

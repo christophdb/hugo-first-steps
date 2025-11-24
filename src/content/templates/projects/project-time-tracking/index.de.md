@@ -1,13 +1,15 @@
 ---
 title: 'Projektzeiterfassung'
-description: ''
+description: 'Erfassen und analysieren Sie Projektzeiten bequem per Web und App, erstellen Sie Abrechnungen und behalten Sie Auslastungen, Fristen und Budgets im Griff.'
 date: '2025-03-12'
-url: '/de/vorlage/project-time-tracking'
+url: '/de/vorlage/projektzeiterfassung'
+aliases: 
+    - '/de/vorlage/project-time-tracking'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Projektzeiterfassung: Arbeitszeiten korrekt erfassen'
+    description: 'Dokumentieren und analysieren Sie Projektzeiten lückenlos per Web & App – einfach, sicher, flexibel und rechtssicher.'
 template: 'c6cc4782daa548b2b19d'
 ---
 
