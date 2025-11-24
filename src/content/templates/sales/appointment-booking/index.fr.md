@@ -1,6 +1,6 @@
 ---
 title: 'Réservations de rendez-vous'
-description: ''
+description: 'Organisez et gérez les rendez-vous, partagez vos disponibilités et automatisez la prise de rendez-vous simplement.'
 date: '2024-08-16'
 url: '/fr/modele/prise-rendez-vous'
 aliases: 

@@ -1,6 +1,6 @@
 ---
 title: 'Написать предложение'
-description: ''
+description: 'Формируйте онлайн-коммерческие предложения, автоматизируйте согласование и управляйте всеми данными в одном месте.'
 date: '2025-04-06'
 url: '/ru/shablon/upravleniya-kommercheskimi-predlozheniyami'
 aliases:

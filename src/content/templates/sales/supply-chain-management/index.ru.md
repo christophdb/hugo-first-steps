@@ -1,6 +1,6 @@
 ---
 title: 'Управление цепочками поставок'
-description: ''
+description: 'Управляйте потоками товаров и складом, автоматизируйте заказы и повышайте прозрачность всей логистической цепочки.'
 date: '2024-08-24'
 url: '/ru/shablon/upravleniya-tsepockoy-postavok'
 aliases:

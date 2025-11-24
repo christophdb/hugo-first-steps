@@ -1,6 +1,6 @@
 ---
 title: 'Управление филиалом'
-description: ''
+description: 'Ведите учет филиалов, сотрудников и POS-материалов, анализируйте продажи и оптимизируйте работу всей сети магазинов.'
 date: '2024-08-16'
 url: '/ru/shablon/upravleniya-magazinom'
 aliases:

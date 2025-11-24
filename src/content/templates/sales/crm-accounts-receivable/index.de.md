@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Debitorenbuchhaltung'
-description: ''
+description: 'Verwalten Sie Rechnungen, Zahlungen und Mahnungen zentral und behalten Sie sämtliche Debitorenvorgänge im Team im Blick.'
 date: '2024-08-16'
 url: '/de/vorlage/crm-debitorenbuchhaltung'
 aliases:

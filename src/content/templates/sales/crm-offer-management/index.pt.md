@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Gestão de clientes'
-description: ''
+description: 'Centralize clientes, agendamentos, oportunidades e propostas, gerencie vendas com facilidade e otimize seus fluxos comerciais.'
 date: '2025-04-05'
 url: '/pt/modelo/crm-offer-management'
 category: 'sales'

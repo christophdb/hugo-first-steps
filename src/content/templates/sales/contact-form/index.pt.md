@@ -1,6 +1,6 @@
 ---
 title: 'Formulário de contacto'
-description: ''
+description: 'Receba e administre solicitações em um só lugar, transforme contatos em tickets e otimize o acompanhamento com automações.'
 date: '2024-08-24'
 url: '/pt/modelo/formulario-contato'
 aliases:

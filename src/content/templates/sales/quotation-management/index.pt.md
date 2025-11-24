@@ -1,6 +1,6 @@
 ---
 title: 'Escrever oferta'
-description: ''
+description: 'Organize, crie e envie propostas, agilize aprovações e tenha um fluxo comercial digital do início ao fim.'
 date: '2025-04-06'
 url: '/pt/modelo/gestao-orcamentos'
 aliases:

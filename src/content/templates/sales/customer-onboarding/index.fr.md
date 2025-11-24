@@ -1,6 +1,6 @@
 ---
 title: 'Démarrage du client'
-description: ''
+description: 'Centralisez gestion, suivi et feedback client, automatisez les tâches d’accueil et gardez le contrôle total sur le parcours client.'
 date: '2024-08-16'
 url: '/fr/modele/onboarding-client'
 aliases:

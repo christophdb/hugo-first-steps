@@ -1,6 +1,6 @@
 ---
 title: 'Sales Pipeline'
-description: ''
+description: 'Visualize deals, manage every stage, and streamline your entire sales flow to close more business, efficiently and transparently.'
 date: '2024-08-16'
 url: '/template/sales-pipeline'
 category: 'sales'

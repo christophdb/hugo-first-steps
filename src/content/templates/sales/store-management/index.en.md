@@ -1,6 +1,6 @@
 ---
 title: 'Store Management'
-description: ''
+description: 'Track store sales, POS materials and staff, plan training and assess branch performance in a centralized, digital tool.'
 date: '2024-08-16'
 url: '/template/store-management'
 category: 'sales'

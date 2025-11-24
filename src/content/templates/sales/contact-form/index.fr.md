@@ -1,6 +1,6 @@
 ---
 title: 'Formulaire de contact'
-description: ''
+description: 'Collectez et gérez toutes les demandes, convertissez-les en tickets et garantissez un suivi rapide et organisé au sein de votre équipe.'
 date: '2024-08-24'
 url: '/fr/modele/formulaire-contact'
 aliases:

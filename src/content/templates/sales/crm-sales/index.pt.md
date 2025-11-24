@@ -1,6 +1,6 @@
 ---
 title: 'CRM & Vendas'
-description: ''
+description: 'Gerencie clientes, propostas e vendas de forma central, acompanhe interações e avalie facilmente o desempenho da equipe comercial.'
 date: '2024-08-16'
 url: '/pt/modelo/crm-vendas'
 aliases:

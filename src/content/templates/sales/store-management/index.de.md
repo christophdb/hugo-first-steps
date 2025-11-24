@@ -1,6 +1,6 @@
 ---
 title: 'Filialverwaltung'
-description: ''
+description: 'Steuern Sie Filialen, Team und POS-Ressourcen, bewerten Sie Umsätze zentral und optimieren Sie Abläufe für den Einzelhandel effizient.'
 date: '2024-08-16'
 url: '/de/vorlage/filialverwaltung'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Écrire une offre'
-description: ''
+description: 'Centralisez la création, gestion et envoi des devis, optimisez les validations et automatisez l’ensemble du processus de vente.'
 date: '2025-04-06'
 url: '/fr/modele/gestion-devis'
 aliases:
