@@ -1,6 +1,6 @@
 ---
 title: 'Inventory List'
-description: ''
+description: 'Organize, track and analyze inventory and assets, centralize documents and streamline your stock management online.'
 date: '2025-02-28'
 url: '/template/inventory-list'
 category: 'operations'

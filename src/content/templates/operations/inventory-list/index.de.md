@@ -1,6 +1,6 @@
 ---
 title: 'Inventarliste Vorlage'
-description: ''
+description: 'Verwalten Sie Bestände, erfassen Sie neue Einträge, verknüpfen Sie Lieferdaten und generieren Sie Berichte für Ihr Lager digital.'
 date: '2025-02-28'
 url: '/de/vorlage/inventarliste'
 aliases:

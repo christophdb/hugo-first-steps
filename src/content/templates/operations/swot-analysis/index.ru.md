@@ -1,6 +1,6 @@
 ---
 title: 'SWOT-анализа'
-description: ''
+description: 'Документируйте и анализируйте SWOT-факторы, превращайте выводы в действия; управляйте стратегическим развитием компании.'
 date: '2025-02-23'
 url: '/ru/shablon/swot-analiza'
 aliases: '/ru/шаблон/swot-analysis'

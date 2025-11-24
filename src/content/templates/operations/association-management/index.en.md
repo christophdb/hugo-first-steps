@@ -1,6 +1,6 @@
 ---
 title: 'Association management'
-description: ''
+description: 'Record, manage and analyze member data, payments, events and finance centrally and automate your association management.'
 date: '2024-08-24'
 url: '/template/association-management'
 category: 'operations'
