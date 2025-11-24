@@ -43,8 +43,6 @@ Außerdem sorgen die schnell zu erkennenden Erfolge für eine Stärkung des Selb
 
 Der wohl größte Vorteil ist das **Aufbauen von Routinen**. Indem Sie sich Ihrer Fortschritte bewusst werden, können Sie Ihre Gewohnheiten verinnerlichen. Das beweist allen voran der Habit Tracker an sich. Schließlich ist auch das regelmäßige Abhaken Ihrer To-dos eine Gewohnheit.
 
-﻿
-
 ## Welche Gewohnheiten Sie tracken können
 
 Ob Kleinigkeiten im Alltag oder das ganze Leben umkrempeln – grundsätzlich ist alles möglich. Es sollten natürlich Gewohnheiten sein, die Sie für **erstrebenswert** halten und an denen Sie wachsen können. Oder einfach etwas, das Ihnen Spaß macht. Es gilt: Wer hoch hinaus will, muss klein anfangen. Später können Sie sich immer noch steigern.

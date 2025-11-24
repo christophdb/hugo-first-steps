@@ -35,8 +35,6 @@ Bei der qualitativen Inhaltsanalyse legen Sie Ihren Fokus auf eine **geringe Anz
 
 Die quantitative Inhaltsanalyse bildet das Gegenstück dazu. Sie ist ein standardisiertes Verfahren, bei dem der Forschende die Untersuchungsbedingungen stets konstant hält. Hier greifen Sie auf eine **große Anzahl an Inhalten** zurück, welche Sie einer spezifischen Analyse unterziehen. Das Vorgehen ist hierbei **deduktiv**, da Sie bereits vorhandene Theorien untersuchen und mit Daten belegen möchten. Das Ziel der Analyse ist es, statistische **Häufigkeiten** zu erkennen, zu beschreiben und zu **erklären**.
 
-﻿
-
 ## Wann ist die qualitative Inhaltsanalyse als Verfahren geeignet?
 
 Möchten Sie eine wissenschaftliche Frage klären und dafür wenige, nicht-standardisierte Daten nutzen, ist dieses Verfahren das richtige für Sie. Dabei geht es um das **Erheben von Meinungen oder Einstellungen**, welche Sie am Ende Ihrer Analyse interpretieren können.

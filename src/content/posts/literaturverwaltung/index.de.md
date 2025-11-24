@@ -70,7 +70,7 @@ Zotero eignet sich besonders für Neulinge, da es intuitiv zu bedienen und für 
 - Screenshots und PDFs werden automatisch aus dem Browser übernommen.
 - Sie können Ihren präferierten Zitierstil einstellen.
 
-﻿**Nachteile**
+**Nachteile**
 
 - Die im Programm hinterlegten PDFs können Sie nicht ohne Weiteres bearbeiten, es gibt jedoch eine Notizfunktion, in welcher Sie zeitgleich arbeiten können.
 - Die Datenbankrecherche im Programm ist nur eingeschränkt möglich.
