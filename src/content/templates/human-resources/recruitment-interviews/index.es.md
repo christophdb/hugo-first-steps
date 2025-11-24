@@ -1,6 +1,6 @@
 ---
 title: 'Entrevistas de trabajo'
-description: ''
+description: 'Organice entrevistas, registre criterios, comparta feedback y mejore la selección de personal en su equipo de RRHH.'
 date: '2024-08-24'
 url: '/es/plantilla/entrevistas-seleccion'
 aliases:

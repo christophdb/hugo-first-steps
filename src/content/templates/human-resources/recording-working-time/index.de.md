@@ -1,6 +1,6 @@
 ---
 title: 'Arbeitszeiterfassung'
-description: ''
+description: 'Dokumentieren Sie Arbeitszeiten, Urlaub und Abwesenheiten zentral, automatisieren Sie Auswertungen und erfüllen Sie die Pflicht zur Zeiterfassung.'
 date: '2024-08-24'
 url: '/de/vorlage/arbeitszeiterfassung'
 aliases:

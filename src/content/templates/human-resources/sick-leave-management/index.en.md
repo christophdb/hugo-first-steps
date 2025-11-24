@@ -1,6 +1,6 @@
 ---
 title: 'Sick Leave Management'
-description: ''
+description: 'Record sick days, upload certificates and monitor absences in one tool, keep HR informed and reduce admin effort.'
 date: '2024-08-24'
 url: '/template/sick-leave-management'
 category: 'human-resources'

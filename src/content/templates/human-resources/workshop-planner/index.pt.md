@@ -1,6 +1,6 @@
 ---
 title: 'Workshops'
-description: ''
+description: 'Programe workshops, gerencie inscrições, monte agendas, obtenha feedback e otimize treinamentos do RH estrategicamente.'
 date: '2024-08-24'
 url: '/pt/modelo/planejador-workshop'
 aliases:

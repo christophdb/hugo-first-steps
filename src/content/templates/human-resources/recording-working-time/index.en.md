@@ -1,6 +1,6 @@
 ---
 title: 'Recording Working Time'
-description: ''
+description: 'Centralize time tracking, log sick leaves and vacation, automate approvals and keep compliance with EU labor laws.'
 date: '2024-08-24'
 url: '/template/recording-working-time'
 category: 'human-resources'

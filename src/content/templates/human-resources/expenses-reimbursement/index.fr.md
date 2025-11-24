@@ -1,6 +1,6 @@
 ---
 title: 'Remboursement des dépenses'
-description: ''
+description: 'Gérez et remboursez frais, collectez reçus et réalisez des validations numériques pour une comptabilité simplifiée et transparente.'
 date: '2024-08-24'
 url: '/fr/modele/expenses-reimbursement'
 category: 'human-resources'

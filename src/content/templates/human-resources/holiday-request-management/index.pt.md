@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de pedidos de férias'
-description: ''
+description: 'Gerencie pedidos, evite conflitos e automatize aprovações e avisos – mantenha colaboradores e RH sempre informados e organizados.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-ferias'
 aliases:

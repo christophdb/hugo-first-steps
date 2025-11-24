@@ -1,6 +1,6 @@
 ---
 title: 'Onboarding-de-empleados'
-description: 'Utiliza nuestra plantilla para organizar checklists y procesos al incorporar nuevos empleados de manera estructurada.'
+description: 'Planifique tareas, comparta documentos y coordine el seguimiento de cada etapa del onboarding de su equipo digitalmente.'
 date: '2024-08-24'
 url: '/es/plantilla/onboarding-de-empleados'
 aliases:

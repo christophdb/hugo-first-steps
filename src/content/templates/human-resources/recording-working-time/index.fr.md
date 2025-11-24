@@ -1,6 +1,6 @@
 ---
 title: 'Saisie du temps de travail'
-description: ''
+description: 'Saisissez heures et absences, automatisez la gestion et générez des rapports pour garantir conformité et efficacité RH.'
 date: '2024-08-24'
 url: '/fr/modele/suivi-temps-travail'
 aliases:

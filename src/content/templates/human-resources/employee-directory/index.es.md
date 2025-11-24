@@ -1,6 +1,6 @@
 ---
 title: 'Directorio de empleados'
-description: 'Utiliza nuestra plantilla para ver puestos, departamentos y datos de contacto del personal de tu empresa en un solo lugar.'
+description: 'Gestione toda la información de empleados y contactos en un lugar, mantenga equipos y funciones siempre claros y accesibles en la organización.'
 date: '2025-04-18'
 url: '/es/plantilla/directorio-de-empleados'
 aliases:

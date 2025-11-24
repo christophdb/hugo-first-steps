@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de las bajas por enfermedad'
-description: ''
+description: 'Centralice bajas y justificantes, gestione la información y evite sorpresas con reportes y avisos automatizados al equipo.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-bajas'
 aliases:

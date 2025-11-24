@@ -1,6 +1,6 @@
 ---
 title: 'Shift schedule'
-description: ''
+description: 'Organize shift rosters, enable self-signups, balance workloads and keep every employee informed online.'
 date: '2024-08-24'
 url: '/template/shift-schedule'
 category: 'human-resources'

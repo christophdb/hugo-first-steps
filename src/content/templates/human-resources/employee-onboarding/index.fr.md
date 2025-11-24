@@ -1,6 +1,6 @@
 ---
 title: 'onboarding-employes'
-description: 'Structurez l’intégration des nouveaux employés grâce à nos checklists et un modèle d’onboarding pratique et efficace.'
+description: 'Bénéficiez d’un onboarding structuré : checklistes digitales, suivi collaboratif et gestion efficace des dossiers RH.'
 date: '2024-08-24'
 url: '/fr/modele/employee-onboarding'
 aliases:

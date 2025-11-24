@@ -1,6 +1,6 @@
 ---
 title: 'Entrevistas de emprego'
-description: ''
+description: 'Organize entrevistas, centralize avaliações e tome decisões colaborativas com mais agilidade e clareza no RH.'
 date: '2024-08-24'
 url: '/pt/modelo/entrevistas-emprego'
 aliases:

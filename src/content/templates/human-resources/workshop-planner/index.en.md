@@ -1,6 +1,6 @@
 ---
 title: 'Workshop Planner'
-description: ''
+description: 'Schedule and manage workshops, coordinate participants, build agendas and evaluate feedback easily online.'
 date: '2024-08-24'
 url: '/template/workshop-planner'
 category: 'human-resources'

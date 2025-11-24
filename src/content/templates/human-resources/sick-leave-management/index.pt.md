@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de licenças por doença'
-description: ''
+description: 'Gerencie ausências, organize laudos médicos e registre históricos detalhados, facilitando ajustes rápidos na equipe.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-atestados'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Modèle de répertoire des employés'
-description: 'Utilisez notre modèle pour afficher postes, départements et coordonnées de vos employés en un seul endroit.'
+description: 'Centralisez et actualisez les données, fonctions et contacts des employés, et simplifiez la mise en relation en entreprise.'
 date: '2025-04-18'
 url: '/fr/modele/repertoire-des-employes'
 aliases:

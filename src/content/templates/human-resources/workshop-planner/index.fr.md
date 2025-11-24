@@ -1,6 +1,6 @@
 ---
 title: 'Ateliers'
-description: ''
+description: 'Organisez ateliers, participants, ordres du jour, recueillez feedbacks et pilotez les formations depuis un unique portail en ligne.'
 date: '2024-08-24'
 url: '/fr/modele/planificateur-atelier'
 aliases:

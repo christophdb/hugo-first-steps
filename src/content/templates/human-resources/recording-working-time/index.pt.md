@@ -1,6 +1,6 @@
 ---
 title: 'Gravação do tempo de trabalho'
-description: ''
+description: 'Registre e controle digitalmente horários, ausências e férias, automatize conformidade legal e relatórios para o seu RH.'
 date: '2024-08-24'
 url: '/pt/modelo/controle-horas-trabalho'
 aliases:

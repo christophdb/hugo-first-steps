@@ -1,6 +1,6 @@
 ---
 title: 'Семинары'
-description: ''
+description: 'Планируйте тренинги, управляйте участниками, ведите расписание и сбор обратной связи централизованно и удобно для команды.'
 date: '2024-08-24'
 url: '/ru/shablon/planirovshchika-seminarov'
 aliases:

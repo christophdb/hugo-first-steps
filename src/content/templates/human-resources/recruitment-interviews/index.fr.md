@@ -1,6 +1,6 @@
 ---
 title: "Entretiens d'embauche"
-description: ''
+description: 'Planifiez, structurez et évaluez les entretiens, partagez synthèses et favorisez la collaboration RH dans un outil digital centralisé.'
 date: '2024-08-24'
 url: '/fr/modele/entretiens-embauche'
 aliases:

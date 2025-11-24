@@ -1,6 +1,6 @@
 ---
 title: 'Schichtplan'
-description: ''
+description: 'Planen und koordinieren Sie Schichten online, ermöglichen Sie Mitarbeiterbeteiligung und optimieren Sie Ihre Dienstpläne flexibel.'
 date: '2024-08-24'
 url: '/de/vorlage/schichtplan'
 aliases:

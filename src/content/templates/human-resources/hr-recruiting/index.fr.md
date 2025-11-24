@@ -1,6 +1,6 @@
 ---
 title: 'Recrutement de personnel'
-description: ''
+description: 'Centralisez suivis et décisions, gérez les candidats, planifiez les entretiens et partagez l’avancement pour tous les postes.'
 date: '2024-08-24'
 url: '/fr/modele/recrutement-rh'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de onboarding'
-description: ''
+description: 'Controle integração de contratação: organize tarefas, compartilhe documentos e observe o progresso de cada colaborador online.'
 date: '2024-08-24'
 url: '/pt/modelo/onboarding-funcionarios'
 aliases: 

@@ -1,6 +1,6 @@
 ---
 title: 'Reembolso de gastos'
-description: ''
+description: 'Suba recibos, gestione devoluciones y centralice los reembolsos; mantenga la administración clara y automatizada para todo el equipo.'
 date: '2024-08-24'
 url: '/es/plantilla/expenses-reimbursement'
 category: 'human-resources'

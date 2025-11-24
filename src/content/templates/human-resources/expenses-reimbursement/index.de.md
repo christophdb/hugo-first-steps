@@ -1,6 +1,6 @@
 ---
 title: 'Auslagenerstattung'
-description: ''
+description: 'Dokumentieren und verwalten Sie Auslagen digital, reichen Sie Belege ein und steuern Sie Rückzahlungen papierlos und übersichtlich.'
 date: '2024-08-24'
 url: '/de/vorlage/expenses-reimbursement'
 category: 'human-resources'

@@ -1,6 +1,6 @@
 ---
 title: 'Holiday Request Management'
-description: ''
+description: 'Digitize leave requests, automate approval flows, handle notifications and provide clear calendar overviews for employees and managers.'
 date: '2024-08-24'
 url: '/template/holiday-request-management'
 category: 'human-resources'

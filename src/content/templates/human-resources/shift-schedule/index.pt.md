@@ -1,6 +1,6 @@
 ---
 title: 'Plano de turnos'
-description: ''
+description: 'Planeje escalas, simplifique inscrições e mantenha controle da cobertura e presença da equipe de forma digital transparente.'
 date: '2024-08-24'
 url: '/pt/modelo/escala-turnos'
 aliases:

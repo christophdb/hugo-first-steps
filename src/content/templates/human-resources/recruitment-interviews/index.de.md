@@ -1,6 +1,6 @@
 ---
 title: 'Einstellungsgespräche'
-description: ''
+description: 'Planen, dokumentieren und bewerten Sie Interviews strukturiert, teilen Sie Ergebnisse im Team und optimieren Sie Entscheidungen im Recruiting.'
 date: '2024-08-24'
 url: '/de/vorlage/einstellungsgespraeche'
 aliases:

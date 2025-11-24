@@ -1,6 +1,6 @@
 ---
 title: 'Expenses & Reimbursement'
-description: ''
+description: 'Manage and approve employee expenses online, upload receipts, generate payout docs and keep everything transparent for HR and staff.'
 date: '2024-08-24'
 url: '/template/expenses-reimbursement'
 category: 'human-resources'

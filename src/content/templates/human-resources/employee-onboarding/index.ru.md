@@ -1,6 +1,6 @@
 ---
 title: 'Ввод сотрудников в должность'
-description: ''
+description: 'Создайте чек-листы, прикрепляйте документы, отслеживайте выполнение задач и ускорьте адаптацию новых сотрудников.'
 date: '2024-08-24'
 url: '/ru/shablon/adaptatsii-sotrudnikov'
 aliases:
@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Онбординг сотрудников: шаблон цифрового введения'
+    description: 'Структурируйте задания, документы и мониторьте прогресс коллектива для быстрого и удобного онбординга.'
 template: '89db2f0bd28d41f19c01'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Mitarbeiterverzeichnis'
-description: 'Nutzen Sie unsere Mitarbeiterverzeichnis-Vorlage für den schnellen Überblick über Positionen, Abteilungen und Kontaktdaten im Unternehmen.'
+description: 'Verwalten und aktualisieren Sie Mitarbeiterdaten, Abteilungen und Ansprechpartner zentral und gewährleisten Sie Übersicht im Unternehmen.'
 date: '2025-04-18'
 url: '/de/vorlage/employee-directory'
 category: 'human-resources'

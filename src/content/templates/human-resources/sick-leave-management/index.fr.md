@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des arrêts maladie'
-description: ''
+description: 'Collectez arrêts et certificats médicaux, analysez absences et réagissez rapidement aux besoins de votre entreprise.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-arrets-maladie'
 aliases:

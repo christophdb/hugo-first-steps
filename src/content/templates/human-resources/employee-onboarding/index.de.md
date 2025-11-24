@@ -1,6 +1,6 @@
 ---
 title: 'Mitarbeiter-Onboarding'
-description: 'Nutzen Sie unsere Onboarding-Vorlage für strukturierte Checklisten und klaren Überblick beim Einarbeiten neuer Mitarbeiter.'
+description: 'Strukturieren Sie Einarbeitung, verfolgen Sie Aufgabenfortschritt und teilen Sie Onboarding-Dokumente digital im Team.'
 date: '2024-08-24'
 url: '/de/vorlage/mitarbeiter-onboarding'
 aliases:

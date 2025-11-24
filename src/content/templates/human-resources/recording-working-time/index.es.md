@@ -1,6 +1,6 @@
 ---
 title: 'Registro del tiempo de trabajo'
-description: ''
+description: 'Documente tiempo de trabajo, vacaciones y ausencias, automatice controles y cumpla con la legislación laboral europea.'
 date: '2024-08-24'
 url: '/es/plantilla/control-horario'
 aliases:

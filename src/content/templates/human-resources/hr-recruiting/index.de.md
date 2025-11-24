@@ -1,6 +1,6 @@
 ---
 title: 'Personalrekrutierung'
-description: ''
+description: 'Strukturieren und steuern Sie Bewerbungsprozesse zentral, verwalten Sie Interviews, Kontakte und Entscheidungen im Recruiting-Team.'
 date: '2024-08-24'
 url: '/de/vorlage/hr-recruiting'
 category: 'human-resources'

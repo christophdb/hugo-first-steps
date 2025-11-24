@@ -1,6 +1,6 @@
 ---
 title: 'Employee directory'
-description: 'Employee Directory Template: Overview of All Staff'
+description: 'Manage and update employee data and contacts centrally, ensure clarity of roles and make information easily accessible for your organization.'
 date: '2025-04-18'
 url: '/template/employee-directory'
 category: 'human-resources'

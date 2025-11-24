@@ -1,6 +1,6 @@
 ---
 title: 'Recording Working Time'
-description: ''
+description: 'Ведите цифровой учёт рабочего времени, отпусков, больничных, готовьте отчёты и обеспечьте соответствие требованиям ЕС.'
 date: '2024-08-24'
 url: '/ru/shablon/ucheta-rabochego-vremeni'
 aliases:

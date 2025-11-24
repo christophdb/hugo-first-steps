@@ -1,6 +1,6 @@
 ---
 title: 'HR Recruiting'
-description: ''
+description: 'Track applicants, interviews and positions online, assign owners and keep all candidate communications organized.'
 date: '2024-08-24'
 url: '/template/hr-recruiting'
 category: 'human-resources'

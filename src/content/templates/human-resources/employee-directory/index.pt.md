@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de diretório de funcionários'
-description: 'Use nosso modelo para visualizar cargos, departamentos e contatos dos funcionários da sua empresa em um só lugar.'
+description: 'Registre dados, funções e equipes centralmente, mantenha informações acessíveis e ligue as pessoas certas nos setores certos.'
 date: '2025-04-18'
 url: '/pt/modelo/diretorio-de-funcionarios'
 aliases:

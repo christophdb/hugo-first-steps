@@ -1,6 +1,6 @@
 ---
 title: 'Verwaltung von Urlaubsanträgen'
-description: ''
+description: 'Beantragen, prüfen und genehmigen Sie Urlaubsanträge digital, erkennen Sie Überschneidungen und informieren Sie Ihre Mitarbeitenden automatisch.'
 date: '2024-08-24'
 url: '/de/vorlage/urlaubsantrag-verwaltung'
 aliases:

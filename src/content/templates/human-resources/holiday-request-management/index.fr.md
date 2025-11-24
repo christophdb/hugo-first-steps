@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des demandes de congé'
-description: ''
+description: 'Gérez et validez congés simplement, notifiez collaborateurs et visualisez absences et disponibilités dans un seul outil digital efficace.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-conges'
 aliases:

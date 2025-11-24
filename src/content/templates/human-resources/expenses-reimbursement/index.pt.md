@@ -1,6 +1,6 @@
 ---
 title: 'Reembolso de despesas'
-description: ''
+description: 'Registe, analise e reembolse despesas dos colaboradores digitalmente, armazene recibos e automatize o fluxo de pagamentos.'
 date: '2024-08-24'
 url: '/pt/modelo/expenses-reimbursement'
 category: 'human-resources'

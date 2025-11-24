@@ -1,6 +1,6 @@
 ---
 title: 'Plan de turnos'
-description: ''
+description: 'Gestione planes de turnos digitales, facilite inscripciones y mantenga horarios actualizados sin esfuerzo.'
 date: '2024-08-24'
 url: '/es/plantilla/horario-turnos'
 aliases:

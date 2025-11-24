@@ -1,6 +1,6 @@
 ---
 title: 'Talleres'
-description: ''
+description: 'Gestione talleres, participantes y agendas, recopile valoraciones y optimice procesos de formación de recursos humanos.'
 date: '2024-08-24'
 url: '/es/plantilla/planificador-talleres'
 aliases:

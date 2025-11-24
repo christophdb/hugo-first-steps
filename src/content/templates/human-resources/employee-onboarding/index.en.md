@@ -1,6 +1,6 @@
 ---
 title: 'Employee Onboarding'
-description: 'Use our onboarding template for structured checklists and a clear overview when integrating new hires into your company.'
+description: 'Standardize new hire onboarding, monitor progress live, and keep all team assignments and documents organized.'
 date: '2024-08-24'
 url: '/template/employee-onboarding'
 category: 'human-resources'

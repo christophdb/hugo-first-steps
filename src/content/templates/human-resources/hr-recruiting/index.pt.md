@@ -1,6 +1,6 @@
 ---
 title: 'Recrutamento de pessoal'
-description: ''
+description: 'Centralize candidatos, entrevistas e comunicações; agilize seleções e mantenha todo o histórico acessível no RH.'
 date: '2024-08-24'
 url: '/pt/modelo/recrutamento-rh'
 aliases:

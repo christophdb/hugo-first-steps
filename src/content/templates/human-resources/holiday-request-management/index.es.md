@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de las solicitudes de vacaciones'
-description: ''
+description: 'Gestione solicitudes y aprobaciones, supervise superposiciones y notifique a empleados sobre el estado de su petición de manera automática.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-solicitudes-vacaciones'
 aliases:

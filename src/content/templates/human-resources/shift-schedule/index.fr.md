@@ -1,6 +1,6 @@
 ---
 title: "Plan d'équipes"
-description: ''
+description: "Organisez vos plannings de travail, ouvrez l’inscription des employés et rendez les changements transparents et accessibles à tous."
 date: '2024-08-24'
 url: '/fr/modele/planning-travail'
 aliases:
