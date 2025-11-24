@@ -32,8 +32,6 @@ Die eigentliche Enthüllung geschieht auf spektakuläre Weise. Zum Beispiel kön
 
 Grundsätzlich gibt es **zwei Optionen**, wer sich um die Organisation der Gender Reveal Party kümmert. Das hängt davon ab, wen der Anwesenden Sie mit der Geschlechtsenthüllung überraschen möchten.
 
-﻿
-
 ### Überraschung für die werdenden Eltern
 
 Die baldigen Eltern bestimmen eine **Vertrauensperson**, die als einzige das Geschlecht des Babys kennt und alle Besorgungen übernimmt, welche sich um den großen Moment drehen. Mit Zustimmung der Eltern bekommt diese Person einen Umschlag vom Frauenarzt, der zuvor das Geschlecht des Kindes auf einen Zettel geschrieben hat. Nun besteht die Aufgabe neben der Organisation darin, sich nicht zu verplappern. Dadurch wird der Moment der Enthüllung für die Eltern besonders emotional.
