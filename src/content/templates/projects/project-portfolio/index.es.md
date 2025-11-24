@@ -8,6 +8,7 @@ seo:
     title: ''
     description: ''
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Cree una cartera de proyectos para gestionar y analizar todos los proyectos de su empresa en una ubicación central. Nuestra herramienta gratuita de cartera de proyectos le ofrece todo lo que necesita para ello.

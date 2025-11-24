@@ -9,6 +9,7 @@ seo:
     title: 'Planificador de Redes Sociales: Plantilla Centralizada'
     description: 'Organiza publicaciones y campañas en todas tus redes con un calendario visual y gestión colaborativa en SeaTable.'
 template: 'e386be96230744a18802'
+weight: 1
 ---
 
 ## Plantilla de plan de redes sociales: guía para crear contenidos con éxito

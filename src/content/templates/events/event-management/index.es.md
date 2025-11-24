@@ -8,6 +8,7 @@ seo:
     title: ''
     description: ''
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Ya se trate de conciertos, festivales o ferias, una buena organización es imprescindible para cualquier evento. No importa si es la primera vez que organiza un evento o si ya tiene experiencia.

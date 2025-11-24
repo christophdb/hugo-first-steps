@@ -11,6 +11,7 @@ seo:
     title: 'Immobilienverwaltung Vorlage: Miete, Mieter, Aufgaben im Griff'
     description: 'Mit der Immobilienverwaltungs-Vorlage von SeaTable Mieten, Aufgaben, Mieter und Verträge zentral verwalten.'
 template: '6f9a2b4869804608978c'
+weight: 1
 ---
 
 Wenn Sie mehrere Immobilien besitzen und vermieten, kommen schnell organisatorische Herausforderungen auf Sie zu: Sie müssen Informationen und Fotos Ihrer Mietobjekte speichern, Daten und Dokumente Ihrer Mieter erfassen, jeden Monat die Mieteinnahmen überwachen sowie Wartungen und Reparaturen durchführen lassen.

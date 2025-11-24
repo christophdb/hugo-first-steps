@@ -2,7 +2,7 @@
 title: 'Управление событиями'
 description: ''
 url: '/ru/shablon/organizatsii-meropriyatiy'
-aliases: 
+aliases:
     - '/ru/шаблон/event-management'
     - '/ru/event-management/'
 category: 'ereignisse'
@@ -11,6 +11,7 @@ seo:
     title: ''
     description: ''
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Планируете ли вы концерты, фестивали или торговые ярмарки - хорошая организация является обязательным условием любого мероприятия. Неважно, организуете ли вы мероприятие впервые или являетесь опытным менеджером.

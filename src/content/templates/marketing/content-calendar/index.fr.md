@@ -11,6 +11,7 @@ seo:
     title: 'Calendrier de Contenu: Modèle pour Planifier facilement'
     description: 'Centralisez la gestion de vos contenus, campagnes et plannings éditoriaux avec un calendrier partagé, dynamique et adaptable.'
 template: 'bea0242b70f64ec698cb'
+weight: 2
 ---
 
 Même la stratégie de contenu la plus réfléchie échoue si vous ne respectez pas vos délais. Ce modèle de planification de campagne deviendra rapidement un outil indispensable pour optimiser le processus de création de contenu, transférer le contenu à travers le pipeline et s'assurer que toute votre équipe est alignée.

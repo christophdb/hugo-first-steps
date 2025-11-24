@@ -10,6 +10,7 @@ seo:
     title: 'Vorlage: Event Management'
     description: ''
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Whether you are planning concerts, festivals or trade fairs - good organization is a must for every event. It doesn't matter whether you are organizing an event for the first time or are an experienced event manager.

@@ -9,6 +9,7 @@ seo:
     title: ''
     description: ''
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 Esta plantilla se desarrolló para un departamento de comunicación ficticio de una gran empresa. En este departamento, todas las actividades de marketing y comunicación deben planificarse con mucha antelación, a menudo con un año de antelación.

@@ -9,6 +9,7 @@ seo:
     title: 'Produktlaunch effizient planen mit dieser Vorlage'
     description: 'Meistern Sie Ihren Produktlaunch. Verwenden Sie dieses Template, um Features, Deadlines und Marketingaktivitäten zentral zu planen und zu steuern'
 template: '61e4639f122f45a2bcba'
+weight: 3
 ---
 
 Eine erfolgreiche Produkteinführung ist das Ergebnis langer, harter Arbeit. Für den Markt und Ihre Kunden sieht es aus wie ein Raketenstart, der nicht lange dauert – für Sie selbst hat dieser Start aber eine lange Zeit in Anspruch genommen. Die Produkteinführung ist ein langfristiger Prozess, der den gesamten Zeitraum der Konzeptionierung, Entwicklung und Vermarktung beinhaltet.

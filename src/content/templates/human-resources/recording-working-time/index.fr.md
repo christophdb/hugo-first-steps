@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de suivi du temps de travail : conformité UE'
     description: 'Gérez temps de travail, congés et absences facilement – modèle digital conforme au droit européen pour entreprises et RH.'
 template: '7b72578c0e714750954a'
+weight: 2
 ---
 
 Vous souhaitez mettre en œuvre la saisie du temps de travail prescrite par l'UE dans votre entreprise ? Alors découvrez notre modèle sophistiqué pour une saisie du temps de travail simple, efficace et conforme à la législation. Avec l'abonnement Enterprise, vous disposez de l'intégralité du modèle sans frais supplémentaires, mais vous pouvez également utiliser le modèle (sans automatisation) avec l'abonnement Plus ou un compte gratuit Free.

@@ -11,6 +11,7 @@ seo:
     title: 'Plano de treino personalizado: modelo digital grátis'
     description: 'Monte seu plano de treino personalizado, registre avanços e resultados.'
 template: '59bc81daee554d35bf9f'
+weight: 1
 ---
 
 Também está cansado de planos de treino aborrecidos e monótonos? Ou sente-se incomodado por ser forçado a revelar os seus dados em aplicações às empresas por detrás delas? Então, porque não elaborar o seu próprio plano de treino e documentar o seu progresso de treino no SeaTable, onde está bem protegido.

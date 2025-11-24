@@ -9,6 +9,7 @@ seo:
     title: 'CRM: Gerencie clientes com eficiência'
     description: 'Otimize seu CRM gerenciando clientes, propostas e vendas em uma única plataforma SeaTable.'
 template: 'e88ee7aedd00470e9310'
+weight: 2
 ---
 
 O volume de negócios da sua empresa está a aumentar? Então, por norma, o número de clientes e a gestão da relação com os clientes (CRM) associada também crescem. Os dados dos clientes devem ser registados e acompanhados de forma eficiente e rápida. Todos na sua empresa, desde a força de vendas, passando pelo marketing e as compras, até ao departamento financeiro, devem ter sempre uma visão geral dos clientes, marcações de clientes, volume de negócios e muito mais. O benefício intuitivo deve estar sempre em primeiro plano. Se estiver à procura de um bom sistema de CRM, pode acabar rapidamente com soluções de software dispendiosas, como oSalesforceou oSAP-Hybris. Mas é aqui que o SeaTable entra em acção e não deixa nada a desejar.

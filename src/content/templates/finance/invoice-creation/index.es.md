@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de factura: facturación automática'
     description: 'Factura fácil y rápido: la plantilla digital automatiza cálculos, genera PDFs y administra clientes y productos.'
 template: '0341827ed80f4be3888a'
+weight: 3
 ---
 
 ## Redactar una factura: La plantilla que satisface sus necesidades

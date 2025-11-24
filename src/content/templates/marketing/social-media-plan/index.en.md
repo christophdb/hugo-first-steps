@@ -9,6 +9,7 @@ seo:
     title: 'Social Media Plan Template: Organize Your Content Easily'
     description: 'Plan, manage, and track your social media posts for all channels—central dashboard, team collaboration, and results analysis.'
 template: 'e386be96230744a18802'
+weight: 1
 ---
 
 ## Social media plan template: Your guide to successful content creation

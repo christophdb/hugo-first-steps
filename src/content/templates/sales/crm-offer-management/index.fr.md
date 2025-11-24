@@ -9,6 +9,7 @@ seo:
     title: 'CRM : gestion client centralisée'
     description: 'Gérez centralement clients, offres et ventes efficacement avec SeaTable CRM.'
 template: 'e88ee7aedd00470e9310'
+weight: 2
 ---
 
 Le chiffre d'affaires de votre entreprise augmente-t-il ? Normalement, le nombre de clients et la gestion de la relation client (CRM) qui y est liée augmentent également. Les données clients doivent être saisies et suivies de manière efficace et rapide. Tout le monde dans votre entreprise, du service extérieur au service financier en passant par le marketing et les achats, doit toujours avoir une vue d'ensemble sur les clients, les rendez-vous avec les clients, les chiffres d'affaires et bien plus encore. L'utilité intuitive devrait toujours être au premier plan. Si vous cherchez un bon système CRM, vous pouvez rapidement vous retrouver avec des solutions logicielles coûteuses telles queSalesforceouSAP-Hybris. Mais c'est là que SeaTable entre en jeu et répond à tous les besoins.

@@ -9,6 +9,7 @@ seo:
     title: ''
     description: ''
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 Ce modèle a été conçu pour un service de communication fictif d'une grande entreprise. Dans ce service, toutes les activités de marketing et de communication doivent être planifiées très tôt, souvent un an à l'avance.

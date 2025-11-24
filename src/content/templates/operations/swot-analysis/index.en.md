@@ -9,6 +9,7 @@ seo:
     title: 'SWOT Analysis Template: strengths, weaknesses, opportunities, threats'
     description: 'Download a powerful digital SWOT analysis template: Identify, organize and visualize key strategic business factors easily.'
 template: '13fe52fa8c814d5bbeb7'
+weight: 3
 ---
 
 The SWOT analysis (acronym for Strengths, Weaknesses, Opportunities, Threats) is a useful method for understanding the current positioning and strategy of your company. It helps to leverage strengths, minimize weaknesses, identify opportunities and manage potential risks at an early stage. With a clearly structured analysis, you create the basis for well-founded decisions and sustainable success.

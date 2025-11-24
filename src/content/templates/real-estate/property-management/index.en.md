@@ -9,6 +9,7 @@ seo:
     title: 'Property Management Template: Efficient Portfolio Control'
     description: 'Organize properties, tenants, rent and maintenance with the digital property management template—ideal for landlords.'
 template: '6f9a2b4869804608978c'
+weight: 1
 ---
 
 If you own and rent out several properties, you will quickly face organizational challenges: you need to store information and photos of your rental properties, record your tenants' data and documents, monitor rental income every month and have maintenance and repairs carried out.

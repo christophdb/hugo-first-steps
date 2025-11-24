@@ -1,6 +1,6 @@
 ---
-title: 'Projektplan Vorlage'
-description: ''
+title: 'Aufgabenverwaltung'
+description: 'Verwalten Sie Aufgaben im Gantt-Chart oder Kanban und behalten Sie Deadlines im Blick.'
 date: '2025-03-07'
 url: '/de/vorlage/projektplan-vorlage'
 aliases:
@@ -11,6 +11,7 @@ seo:
     title: 'Projektplan Vorlage mit Gantt-Chart & Kanban'
     description: 'Kostenlose Projektplan Vorlage für Teams. Verwalten Sie Aufgaben im Gantt-Chart, nutzen Sie Kanban und behalten Sie den Überblick über Deadlines'
 template: 'f5a615ac93104c44a1e4'
+weight: 3
 ---
 
 Das Projektmanagementer fordert eine genaue Planung aller anstehenden Aufgaben. Gerade bei größeren Projekten kann das aber schnell unübersichtlich werden: Müssen Sie doch im Voraus die Aufgaben, Zeithorizonte und Zuständigkeiten definieren, während des Projekts den Fortschritt im Blick behalten und stets flexibel auf Planänderungen reagieren können. Normalerweise sind hierfür spezielle [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) nötig, die aber oftmals viel Geld kosten. Gut, dass es die kostenlose Projektplan Vorlage von SeaTable gibt! So können Sie kinderleicht und ganz nach Ihren Wünschen einen Projektplan erstellen.

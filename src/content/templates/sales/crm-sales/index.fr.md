@@ -11,6 +11,7 @@ seo:
     title: 'CRM & Ventes : centralisez vos contacts facilement'
     description: 'Gérez contacts, prospects, offres et pipeline dans une base unique : tout le suivi client/vente accessible et analysable instantanément.'
 template: '76c0775460d44fee93a4'
+weight: 1
 ---
 
 Bienvenue dans le modèle CRM & Ventes ! Ce modèle vous permet d'organiser facilement vos clients, de mettre en place un pipeline de vente et de documenter toutes les interactions pertinentes.

@@ -9,6 +9,7 @@ seo:
     title: 'Bug Tracker: gestión y resolución de errores'
     description: 'Controla los bugs de tu software y mejora la productividad del equipo con este sistema intuitivo de seguimiento de errores.'
 template: '51d678ca8b004e9b9b79'
+weight: 2
 ---
 
 Al desarrollar y probar software complejo, es inevitable encontrarse con errores. Debe registrar, documentar y corregir sistemáticamente estos errores de software para que su software funcione sin problemas o se publique a tiempo. Gracias al sistema de seguimiento de errores de SeaTable, podrá mantener una visión general y organizar una estrecha colaboración entre desarrolladores, probadores y diseñadores de interfaz de usuario y de interfaz de usuario.

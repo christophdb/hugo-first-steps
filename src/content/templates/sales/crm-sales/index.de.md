@@ -9,6 +9,7 @@ seo:
     title: 'CRM & Sales: Kunden digital verwalten mit SeaTable'
     description: 'Digitalisieren Sie Ihr Kundenmanagement: Kunden, Pipelines und Angebote zentral erfassen, Interaktionen dokumentieren und Analysefunktionen nutzen.'
 template: '76c0775460d44fee93a4'
+weight: 1
 ---
 
 Willkommen bei der Vorlage CRM & Vertrieb! Diese Vorlage macht es Ihnen leicht, Ihre Kunden zu organisieren, eine Vertriebspipeline aufzubauen und alle relevanten Interaktionen zu dokumentieren.

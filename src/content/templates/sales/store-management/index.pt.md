@@ -11,6 +11,7 @@ seo:
     title: 'Gestão de filiais: template para varejo'
     description: 'Controle lojas, equipes e vendas em todo o grupo de forma centralizada na plataforma SeaTable.'
 template: 'c090ef310bd54007ab0a'
+weight: 3
 ---
 
 O nosso modelo de gestão de sucursais facilita-lhe a gestão das suas sucursais. O modelo ajuda-o a optimizar os processos entre as sucursais individuais e a sede. Torna o seu trabalho mais claro e mais eficiente. Facilita aos seus gestores de vendas avaliar e melhorar as lojas individuais e dá-lhe uma visão geral do volume de negócios e da força de vendas geográfica de todas as lojas.

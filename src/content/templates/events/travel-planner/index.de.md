@@ -11,6 +11,7 @@ seo:
     title: 'Die beste Reiseplaner-Vorlage für den perfekten Trip'
     description: 'Entdecken Sie eine Reiseplaner-Vorlage, die Ihnen hilft, Ihre Reise mühelos zu organisieren – von der Idee bis zum Budget. Planen Sie stressfrei'
 template: '836031683b7e4df489a2'
+weight: 1
 ---
 
 Unser Reiseplaner mit integrierter Reise-App ist der perfekte Begleiter für alle Urlauber und Entdecker. Er hilft Ihnen, Ihre Reise zu planen, Ideen zu sammeln und Aktivitäten zu buchen, Ihre Ausgaben zu verfolgen, Erinnerungen festzuhalten und kein To-do zu vergessen.

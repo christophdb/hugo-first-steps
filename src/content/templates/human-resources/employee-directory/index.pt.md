@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de diretório de funcionários: visão geral rápida'
     description: 'Use nosso modelo para visualizar cargos, departamentos e contatos dos funcionários da sua empresa em um só lugar.'
 template: 'e3d0d9a9139c46c58bf0'
+weight: 1
 ---
 
 Especialmente em empresas sem uma base de dados central de empregados, é importante criar um diretório de empregados - não só para a sua visão geral, mas também para que tenha sempre à mão todos os detalhes de contacto relevantes. Com um diretório detalhado, não só saberá quais os empregados que trabalham onde, mas também instâncias importantes como o diretor-geral. Os seus empregados também se vão conhecer melhor uns aos outros. Isto tem um efeito positivo na cultura da empresa!

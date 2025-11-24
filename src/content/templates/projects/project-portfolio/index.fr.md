@@ -8,6 +8,7 @@ seo:
     title: ''
     description: ''
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Créez un portefeuille de projets afin de gérer et d'analyser tous les projets de votre entreprise en un seul endroit. Notre outil gratuit de gestion de portefeuille de projets vous offre tout ce dont vous avez besoin pour cela.

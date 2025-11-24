@@ -11,6 +11,7 @@ seo:
     title: 'Bücherliste Vorlage – Bibliothek digital verwalten'
     description: 'Bücher und private Bibliothek mit Vorlage einfach verwalten und ordnen. Übersicht für alle Titel, Autoren, Ausleihen und Bewertungen.'
 template: '1a98cfea0a6548d599c3'
+weight: 1
 ---
 
 Wenn Sie gute Bücher schätzen, werden Sie SeaTable lieben: Denn mit unserer Bücher-App bringen Sie Ordnung in Ihre private Bibliothek! Egal, ob sich die Wälzer auf Ihrem Schreibtisch stapeln, wändeweise Regale füllen oder in Kisten ihr Dasein fristen – mit SeaTable wissen Sie immer, wo sich ein Buch gerade befindet.

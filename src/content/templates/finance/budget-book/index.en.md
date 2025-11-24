@@ -9,6 +9,7 @@ seo:
     title: 'Budget Book Template – Track, Save & Analyze Money'
     description: 'Budget book template: log expenses/income, analyze spending, view stats – easy finance management for individuals or families.'
 template: '07029bcd3c644efc898c'
+weight: 1
 ---
 
 With SeaTable, you always have an overview of your income and expenses. Conveniently record all expenses using the web form and document the type, category, amount and date of the expense. You can also upload the invoice or receipt to save it permanently.

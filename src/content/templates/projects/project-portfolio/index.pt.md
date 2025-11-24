@@ -8,6 +8,7 @@ seo:
     title: ''
     description: ''
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Crie uma carteira de projectos para gerir e analisar todos os projectos da sua empresa numa localização central. A nossa ferramenta gratuita de carteira de projectos oferece-lhe tudo o que precisa para o fazer.

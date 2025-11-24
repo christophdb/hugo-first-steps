@@ -9,6 +9,7 @@ seo:
     title: 'Travel Planner Template: Organize Your Perfect Trip'
     description: 'The ultimate travel planner for activities, documents, expenses, to-dos and memories—all in a digital template.'
 template: '836031683b7e4df489a2'
+weight: 1
 ---
 
 Our travel planner with integrated travel app is the perfect companion for all vacationers and explorers. It helps you to plan your trip, collect ideas and book activities, track your expenses, record memories and never forget a to-do.

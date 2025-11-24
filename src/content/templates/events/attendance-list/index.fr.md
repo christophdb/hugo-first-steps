@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de feuille de présence : suivi facile et sécurisé'
     description: 'Suivi moderne des présences : liste digitale prête à l’emploi, optimale pour tout type d’événement.'
 template: '7e0a717a66ca4658bbb4'
+weight: 3
 ---
 
 Vous proposez des cours de santé et de sport ? Vous travaillez dans un établissement d'enseignement ou vous planifiez d'autres événements en présentiel ou virtuellement ? Alors une liste de présence numérique est exactement ce qu'il vous faut ! Découvrez tout ce qu'il faut savoir sur lemodèle de liste de présence gratuitde SeaTable et les avantages par rapport à une liste de participants traditionnelle dans Excel ou à des listes manuscrites sur papier.

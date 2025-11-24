@@ -11,6 +11,7 @@ seo:
     title: 'Stratégie de content marketing : modèle complet'
     description: 'Centralisez votre stratégie de contenus, vos campagnes et toutes vos idées marketing dans une seule solution.'
 template: '791a438b055a4680908c'
+weight: 3
 ---
 
 Le marketing de contenu est une approche très appréciée dans le domaine du marketing et est devenu incontournable dans les activités quotidiennes. Après tout, de nombreuses activités de communication passent par les médias sociaux et les blogs d'entreprise. Ceux qui ne jouent pas le jeu ratent de grandes opportunités de croissance. Contrairement à la publicité classique, le marketing de contenu ne consiste pas à vendre directement quelque chose aux clients, mais à les informer sur un produit ou une marque.

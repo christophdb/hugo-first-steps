@@ -10,6 +10,7 @@ seo:
     title: ''
     description: ''
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Que vous organisiez des concerts, des festivals ou des salons, une bonne organisation est indispensable pour chaque événement. Peu importe que vous organisiez un événement pour la première fois ou que vous soyez un gestionnaire d'événements expérimenté.

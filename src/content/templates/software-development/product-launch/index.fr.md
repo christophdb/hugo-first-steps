@@ -11,6 +11,7 @@ seo:
     title: 'Lancer un produit : organisation optimale'
     description: 'Réussissez le lancement de votre produit en centralisant étapes, responsables et marketing dans un template intuitif.'
 template: '61e4639f122f45a2bcba'
+weight: 3
 ---
 
 Un lancement de produit réussi est le résultat d'un long et dur travail. Pour le marché et vos clients, cela ressemble à un lancement de fusée qui ne dure pas longtemps - mais pour vous, ce lancement a pris beaucoup de temps. Le lancement d'un produit est un processus à long terme qui englobe toute la période de conception, de développement et de commercialisation.

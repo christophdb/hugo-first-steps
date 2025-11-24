@@ -9,6 +9,7 @@ seo:
     title: 'Content Marketing Strategy Template'
     description: 'Plan, track and optimize your content marketing with this professional, easy-to-use strategy template.'
 template: '791a438b055a4680908c'
+weight: 3
 ---
 
 Content marketing is a popular approach in marketing and it is hard to imagine day-to-day business without it. After all, many communication activities are carried out via social media and company blogs. Those who do not play along here miss out on great growth opportunities. In contrast to classic advertising, content marketing is not about selling something directly to customers, but about informing them about a product or a brand.

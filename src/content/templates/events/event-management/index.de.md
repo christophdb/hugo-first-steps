@@ -8,6 +8,7 @@ seo:
     title: 'Vorlage für Event-Management: Einfach planen & umsetzen'
     description: 'Planen, organisieren und verfolgen Sie jedes Detail. Mit dieser Vorlage für Event-Management gelingen Ihre Veranstaltungen mühelos'
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Egal, ob Sie Konzerte, Festivals oder Messen planen – eine gute Organisation ist bei jeder Veranstaltung ein Muss. Dabei spielt es keine Rolle, ob Sie zum ersten Mal ein Event organisieren oder ein erfahrener Eventmanager sind.

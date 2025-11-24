@@ -9,6 +9,7 @@ seo:
     title: 'Bug Tracker: Streamline Issue Management'
     description: 'Track software bugs, assign tasks and streamline your workflows. Improve team productivity with this powerful bug tracking system.'
 template: '51d678ca8b004e9b9b79'
+weight: 2
 ---
 
 When developing and testing complex software, you will inevitably come across bugs. You should systematically record, document and fix these software errors so that your software runs smoothly or is released on time. Thanks to SeaTable's bug tracking system, you can maintain an overview and organize close collaboration between developers, testers and UI/UX designers.

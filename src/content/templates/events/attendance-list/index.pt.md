@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de lista de presença: gestão digital eficaz'
     description: 'Organize presenças com modelo digital fácil, seguro e pronto para eventos ou cursos.'
 template: '7e0a717a66ca4658bbb4'
+weight: 3
 ---
 
 Oferece cursos de saúde e desporto? Trabalha num estabelecimento de ensino ou está a planear outros eventos presenciais ou virtuais? Então, uma lista de presenças digital é a solução ideal para si! Saiba tudo sobre omodelo de lista de presenças gratuitoda SeaTable e as vantagens em comparação com uma lista de presenças convencional em Excel ou listas manuscritas em papel.

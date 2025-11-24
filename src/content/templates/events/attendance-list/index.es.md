@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de lista de asistencia digital personalizada'
     description: 'Optimice la asistencia con una plantilla de lista digital fácil y segura.'
 template: '7e0a717a66ca4658bbb4'
+weight: 3
 ---
 
 ¿Ofrece cursos de salud y deporte? ¿Trabaja en un centro educativo o planifica otros eventos presenciales o virtuales? Entonces, ¡una lista de asistencia digital es justo lo que necesita! Descúbralo todo sobre laplantilla de lista de asistencia gratuitade SeaTable y las ventajas en comparación con una lista de asistencia convencional en Excel o listas manuscritas en papel.

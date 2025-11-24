@@ -11,6 +11,7 @@ seo:
     title: 'Anwesenheitslist Vorlage – einfach und digital '
     description: 'Erfassen Sie Anwesenheiten mühelos mit dieser Vorlage. Ideal für Mitarbeiter, Teilnehmer oder Schulungen – schnell und einfach organisiert'
 template: '7e0a717a66ca4658bbb4'
+weight: 3
 ---
 
 Bieten Sie Gesundheits- und Sportkurse an? Arbeiten Sie in einer Bildungseinrichtung oder planen Sie sonstige Veranstaltungen in Präsenz oder virtuell? Dann ist eine digitale Teilnehmerliste genau das Richtige für Sie! Erfahren Sie alles über diekostenlose Anwesenheitsliste Vorlage von SeaTable und die Vorteile im Vergleich zu einer herkömmlichen Teilnehmerliste in Excel oder handschriftlichen Listen auf Papier.

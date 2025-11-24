@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla análisis FODA: fortalezas, riesgos y oportunidades'
     description: 'Análisis FODA profesional: identifica fortalezas, debilidades, oportunidades y amenazas con nuestra plantilla gratuita y flexible.'
 template: '13fe52fa8c814d5bbeb7'
+weight: 3
 ---
 
 El análisis DAFO (acrónimo de Debilidades, Amenazas, Fortalezas y Oportunidades) es un método útil para comprender el posicionamiento y la estrategia actuales de su empresa. Le ayuda a aprovechar los puntos fuertes, minimizar los puntos débiles, identificar las oportunidades y superar los riesgos potenciales en una fase temprana. Con un análisis claramente estructurado, creará la base para unas decisiones bien fundadas y un éxito sostenible.

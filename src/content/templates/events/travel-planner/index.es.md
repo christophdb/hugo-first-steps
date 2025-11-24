@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla planificador de viajes: organiza tu aventura'
     description: 'Planifica rutas, hoteles, gastos y documentos con una plantilla flexible y gestión de recuerdos de viaje.'
 template: '836031683b7e4df489a2'
+weight: 1
 ---
 
 Nuestro planificador de viajes con aplicación de viajes integrada es el compañero perfecto para todos los turistas y exploradores. Te ayuda a planificar tu viaje, recopilar ideas y reservar actividades, controlar tus gastos, registrar tus recuerdos y no olvidarte nunca de nada.

@@ -9,6 +9,7 @@ seo:
     title: 'Planification budgétaire simplifiée'
     description: 'Gérez le budget de votre organisation efficacement et fixez vos objectifs financiers avec clarté.'
 template: '8fa08d31d16c4a54a1bb'
+weight: 2
 ---
 
 Avez-vous déjà planifié votre budget pour l'année prochaine ? Ce modèle vous aide à analyser les dépenses de l'exercice en cours afin d'en déduire des prévisions pour l'avenir et d'aligner votre plan budgétaire sur vos objectifs commerciaux. Il convient à toute entreprise, tout service ou toute équipe de projet qui dispose d'un budget.

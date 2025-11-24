@@ -11,6 +11,7 @@ seo:
     title: 'Estrategia de marketing de contenidos: plantilla'
     description: 'Planifica, controla y mejora tu estrategia de contenidos desde una sola plantilla profesional y flexible.'
 template: '791a438b055a4680908c'
+weight: 3
 ---
 
 El marketing de contenidos es un enfoque popular en el marketing y es difícil imaginar el día a día de los negocios sin él. Al fin y al cabo, muchas actividades de comunicación se llevan a cabo a través de las redes sociales y los blogs de las empresas. Los que no siguen el juego aquí pierden grandes oportunidades de crecimiento. A diferencia de la publicidad clásica, el marketing de contenidos no consiste en vender algo directamente a los clientes, sino en informarles sobre un producto o una marca.

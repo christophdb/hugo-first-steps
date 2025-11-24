@@ -11,6 +11,7 @@ seo:
     title: 'Modèle SWOT: forces, faiblesses, opportunités, menaces'
     description: 'Analyse stratégique : mode d’emploi et modèle SWOT interactif, complet, visualisations et extension à volonté.'
 template: '13fe52fa8c814d5bbeb7'
+weight: 3
 ---
 
 L'analyse SWOT (acronyme anglais de Strengths, Weaknesses, Opportunities, Threats) est une méthode utile pour comprendre le positionnement et la stratégie actuels de votre entreprise. Elle permet de cibler les points forts, de minimiser les points faibles, d'identifier les opportunités et de maîtriser les risques potentiels à un stade précoce. Grâce à une analyse clairement structurée, vous créez la base de décisions fondées et d'un succès durable.

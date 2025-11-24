@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de biblioteca de produtos: gestão eficiente'
     description: 'Organize dados de produtos e fornecedores com uma biblioteca digital SeaTable.'
 template: 'faf9c0823ac748b59ef5'
+weight: 1
 ---
 
 Este modelo foi desenvolvido para qualquer empresa que tenha um departamento de gestão de produtos e necessite de software fiável para organizar os seus produtos. Neste directório obtém toda a informação sobre as suas linhas de produtos, dados específicos de produtos e os seus fornecedores. Além disso, pode adicionar vendas na sua loja, se necessário.

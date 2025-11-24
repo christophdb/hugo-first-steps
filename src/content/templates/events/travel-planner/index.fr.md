@@ -11,6 +11,7 @@ seo:
     title: 'Modèle planificateur de voyage : tout organiser facilement'
     description: 'Tout pour vos voyages : itinéraire, réservations, dépenses et souvenirs réunis dans un modèle digital.'
 template: '836031683b7e4df489a2'
+weight: 1
 ---
 
 Notre planificateur de voyage avec application de voyage intégrée est le compagnon idéal pour tous les vacanciers et les explorateurs. Il vous aide à planifier votre voyage, à rassembler des idées et à réserver des activités, à suivre vos dépenses, à consigner vos souvenirs et à n'oublier aucune tâche à accomplir.

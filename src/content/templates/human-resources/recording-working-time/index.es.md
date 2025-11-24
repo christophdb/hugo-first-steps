@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla control horario: registro laboral y ausencias'
     description: 'Registra horario, ausencias y vacaciones – cumple con la normativa europea con esta plantilla digital para tu empresa.'
 template: '7b72578c0e714750954a'
+weight: 2
 ---
 
 ¿Quiere implantar en su empresa el registro obligatorio del tiempo de trabajo de la UE? Descubra nuestra sofisticada plantilla para un registro del tiempo de trabajo sencillo, eficaz y conforme a la legislación. Con una suscripción Enterprise, la plantilla está totalmente a su disposición sin coste adicional, pero también puede utilizar la plantilla (sin automatizaciones) con una suscripción Plus o una cuenta gratuita.

@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de répertoire des employés : vue d ensemble rapide'
     description: 'Utilisez notre modèle pour afficher postes, départements et coordonnées de vos employés en un seul endroit.'
 template: 'e3d0d9a9139c46c58bf0'
+weight: 1
 ---
 
 Dans les entreprises qui ne disposent pas d'une base de données centrale des collaborateurs, il est important de créer un répertoire des collaborateurs, non seulement pour avoir une vue d'ensemble, mais aussi pour avoir toujours à portée de main toutes les données de contact importantes. Avec un répertoire détaillé, vous n'êtes pas le seul à savoir quels collaborateurs travaillent où, mais aussi les instances importantes comme le directeur. De plus, vos collaborateurs apprennent à mieux se connaître. Cela a un effet positif sur la culture d'entreprise !

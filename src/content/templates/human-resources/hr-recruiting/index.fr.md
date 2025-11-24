@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de recrutement RH : gestion des candidatures'
     description: 'Suivez candidatures, entretiens, feedback et étapes RH dans un modèle de recrutement structuré, digital et collaboratif.'
 template: '9abba02477a7435eb3d7'
+weight: 3
 ---
 
 Le recrutement et les ressources humaines sont souvent responsables de la publication des postes vacants et de la gestion globale des candidatures. C'est là que se rencontrent les candidatures, la gestion des délais et la communication : pour ne pas perdre la vue d'ensemble, il est très important d'avoir une gestion des candidatures bien structurée, afin que vous puissiez gérer l'ensemble du processus de candidature de manière compréhensible.

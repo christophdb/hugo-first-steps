@@ -11,6 +11,7 @@ seo:
     title: 'Estratégia de marketing de conteúdo: template'
     description: 'Planeje, acompanhe e otimize suas campanhas de conteúdo com um modelo simples e poderoso.'
 template: '791a438b055a4680908c'
+weight: 3
 ---
 
 O marketing de conteúdo é uma abordagem popular no marketing e é impossível imaginar os negócios do dia-a-dia sem ele. Afinal de contas, muitas actividades de comunicação são realizadas através dos meios de comunicação social e dos blogues das empresas. Aqueles que não jogam aqui, perdem grandes oportunidades de crescimento. Ao contrário da publicidade clássica, o marketing de conteúdo não se trata de vender algo directamente aos clientes, mas de os informar sobre um produto ou uma marca.

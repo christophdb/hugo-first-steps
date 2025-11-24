@@ -9,6 +9,7 @@ seo:
     title: 'Social Media Plan: Modelo para Organizar Conteúdo'
     description: 'Planeje, gerencie e acompanhe publicações em todas as redes sociais, com dashboard central e trabalho em equipe.'
 template: 'e386be96230744a18802'
+weight: 1
 ---
 
 ## Modelo de plano para as redes sociais: o seu guia para uma criação de conteúdos bem sucedida

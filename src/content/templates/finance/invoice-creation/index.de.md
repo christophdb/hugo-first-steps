@@ -11,6 +11,7 @@ seo:
     title: 'Rechnung schreiben Vorlage – schnell & fehlerfrei'
     description: 'Professionelle Rechnungsvorlage für Unternehmer: automatisiert Rechnungen erstellen, versenden & verwalten.'
 template: '0341827ed80f4be3888a'
+weight: 3
 ---
 
 ## Rechnung schreiben: Die Vorlage, die Ihre Bedürfnisse erfüllt

@@ -11,6 +11,7 @@ seo:
     title: 'Content-Kalender Vorlage: Kampagnen & Content planen'
     description: 'Mit dem Content-Kalender von SeaTable behalten Sie Kampagnen, Deadlines und Teamaufgaben im Griff – für reibungslosen Content-Workflow.'
 template: 'bea0242b70f64ec698cb'
+weight: 2
 ---
 
 Selbst die durchdachteste Content-Strategie schlägt fehl, wenn Sie Ihre Fristen nicht einhalten können. Dieses Template zur Planung Ihrer Kampagne wird in kürzester Zeit ein unverzichtbares Werkzeug werden, um den Prozess der Inhaltserstellung zu optimieren, Inhalte durch die Pipeline zu übertragen und sicherzustellen, dass Ihr gesamtes Team ausgerichtet ist.

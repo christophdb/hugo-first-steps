@@ -11,6 +11,7 @@ seo:
     title: 'CRM & Ventas: gestiona clientes digitalmente'
     description: 'Administra prospectos, ofertas y actividades de ventas en una base central con registros, análisis y tareas compartidas—todo en SeaTable.'
 template: '76c0775460d44fee93a4'
+weight: 1
 ---
 
 Bienvenido a la plantilla de CRM y Ventas! Esta plantilla le facilita la organización de sus clientes, la creación de una cartera de ventas y la documentación de todas las interacciones pertinentes.

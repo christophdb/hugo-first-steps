@@ -9,6 +9,7 @@ seo:
     title: 'Effortless Business Budget Planning'
     description: 'Create and manage your business budget efficiently—track expenses, set goals and forecast for the future.'
 template: '8fa08d31d16c4a54a1bb'
+weight: 2
 ---
 
 Have you already planned your budget for next year? This template helps you to analyze the expenses from the current financial year in order to derive forecasts for the future and align your budget plan with your business goals. It is suitable for any company, department or project team that has budget available.
