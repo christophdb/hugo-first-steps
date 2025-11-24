@@ -9,6 +9,7 @@ seo:
     title: 'Planejamento orçamentário facilitado'
     description: 'Planeje e gerencie o orçamento da sua empresa com eficiência, analisando custos e metas.'
 template: '8fa08d31d16c4a54a1bb'
+weight: 2
 ---
 
 Já planeou o seu orçamento para o próximo ano? Este modelo ajuda-o a analisar as despesas do exercício financeiro em curso, a fim de obter previsões para o futuro e alinhar o seu plano orçamental com os seus objectivos empresariais. É adequado para qualquer empresa, departamento ou equipa de projeto que tenha orçamento disponível.

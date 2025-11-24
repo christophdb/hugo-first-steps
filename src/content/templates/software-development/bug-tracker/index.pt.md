@@ -9,6 +9,7 @@ seo:
     title: 'Bug Tracker: controle total dos bugs'
     description: 'Gerencie bugs de software, priorize tarefas e aumente a produtividade com este sistema de acompanhamento fácil.'
 template: '51d678ca8b004e9b9b79'
+weight: 2
 ---
 
 Ao desenvolver e testar software complexo, é inevitável que se depare com erros. Deve registar, documentar e corrigir sistematicamente estes erros de software para que o seu software funcione sem problemas ou seja lançado a tempo. Graças ao sistema de acompanhamento de erros do SeaTable, pode manter uma visão geral e organizar uma colaboração estreita entre os programadores, os testadores e os designers UI/UX.

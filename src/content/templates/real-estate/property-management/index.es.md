@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla gestión inmobiliaria: propiedades, inquilinos'
     description: 'Gestiona contratos, pagos y mantenimiento — todo lo relacionado con tu cartera inmobiliaria de manera digital.'
 template: '6f9a2b4869804608978c'
+weight: 1
 ---
 
 Si posee y alquila varios inmuebles, se enfrentará rápidamente a problemas de organización: necesita almacenar información y fotos de sus propiedades en alquiler, registrar los datos y documentos de sus inquilinos, controlar los ingresos por alquiler cada mes y hacer que se lleven a cabo tareas de mantenimiento y reparaciones.

@@ -9,6 +9,7 @@ seo:
     title: 'CRM: Einfaches Kundenmanagement'
     description: 'Optimieren Sie Ihr CRM: Kunden, Termine, Umsätze und Angebote zentral und einfach mit SeaTable verwalten.'
 template: 'e88ee7aedd00470e9310'
+weight: 2
 ---
 
 Wächst der Umsatz in Ihrem Unternehmen? Dann wächst im Normalfall auch die Anzahl der Kunden und Ihr damit verbundenes Customer Relationship Management (CRM). Kundendaten sollen effizient und schnell erfasst und nachgehalten werden. Jeder in Ihrem Unternehmen, angefangen vom Außendienst über das Marketing und den Einkauf bis hin zur Finanzabteilung, sollte immer den Überblick über die Kunden, Kundentermine, Umsätze und vieles mehr behalten. Dabei sollte der intuitive Nutzen stets im Vordergrund stehen. Wenn Sie ein gutes CRM-System suchen, können Sie schnell bei teuren Softwarelösungen wie beispielsweise Salesforce oder SAP-Hybrislanden. Doch hier kommt SeaTable ins Spiel und lässt keine Wünsche offen.

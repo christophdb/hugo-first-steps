@@ -9,6 +9,7 @@ seo:
     title: ''
     description: ''
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 This template was developed for a fictitious communications department of a large company. In this department, all marketing and communication activities have to be planned very early on, often a year in advance.

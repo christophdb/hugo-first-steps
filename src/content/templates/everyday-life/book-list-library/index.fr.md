@@ -11,6 +11,7 @@ seo:
     title: 'Modèle liste de livres – gérer sa bibliothèque'
     description: 'Centralisez et classez tous vos livres et auteurs: prêt, classement et gestion visuelle de votre bibliothèque privée.'
 template: '1a98cfea0a6548d599c3'
+weight: 1
 ---
 
 Si vous appréciez les bons livres, vous allez adorer SeaTable : Notre application de livres vous permet de mettre de l'ordre dans votre bibliothèque privée ! Que les livres s'empilent sur votre bureau, qu'ils remplissent des étagères à perte de vue ou qu'ils soient rangés dans des caisses, SeaTable vous permet de savoir à tout moment où se trouve un livre.

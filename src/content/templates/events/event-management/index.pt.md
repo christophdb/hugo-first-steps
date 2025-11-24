@@ -8,6 +8,7 @@ seo:
     title: 'Modelo para a gestão de eventos: planeamento e implementação simples'
     description: 'Planeie, organize e acompanhe todos os pormenores. Com este modelo de gestão de eventos, pode organizar os seus eventos sem esforço'
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Quer esteja a planear concertos, festivais ou feiras comerciais - uma boa organização é essencial para qualquer evento. Não importa se está a organizar um evento pela primeira vez ou se é um gestor de eventos experiente.

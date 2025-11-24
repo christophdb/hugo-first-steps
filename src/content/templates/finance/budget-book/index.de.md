@@ -11,6 +11,7 @@ seo:
     title: 'Budgetbuch Vorlage – Einnahmen & Ausgaben im Griff'
     description: 'Kostenlose Budgetbuch Vorlage: Einnahmen & Ausgaben erfassen, analysieren, sparen – Statistiken und Übersicht, auch im Team.'
 template: '07029bcd3c644efc898c'
+weight: 1
 ---
 
 Mit SeaTable behalten Sie immer den Überblick über Ihre Einnahmen und Ausgaben. Erfassen Sie sämtliche Ausgaben bequem per Webformular und dokumentieren Sie die Art, die Kategorie, die Höhe und das Datum der Ausgabe. Zusätzlich können Sie noch die Rechnung oder Quittung hochladen, um auch diese dauerhaft zu speichern.

@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de presupuesto: controla tus finanzas'
     description: 'Lleva tu presupuesto al día: registra gastos, ingresos, analiza partidas y ahorra mejor – descarga plantilla de presupuesto.'
 template: '07029bcd3c644efc898c'
+weight: 1
 ---
 
 Con SeaTable, siempre tendrá una visión general de sus ingresos y gastos. Registre cómodamente todos los gastos mediante el formulario web y documente el tipo, la categoría, el importe y la fecha del gasto. También puede cargar la factura o el recibo para guardarlos de forma permanente.

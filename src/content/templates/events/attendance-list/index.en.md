@@ -9,6 +9,7 @@ seo:
     title: 'Attendance List Template: Smart Digital Check-In'
     description: 'Free attendance list template to track participants, staff, or students easily.'
 template: '7e0a717a66ca4658bbb4'
+weight: 3
 ---
 
 Do you offer health and sports courses? Do you work in an educational institution or are you planning other events in person or virtually? Then a digital attendee list is just the thing for you! Find out all about SeaTable'sfree attendance list templateand the advantages compared to a conventional attendance list in Excel or handwritten lists on paper.

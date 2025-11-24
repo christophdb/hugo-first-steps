@@ -9,6 +9,7 @@ seo:
     title: 'Bug Tracker : maîtrisez vos anomalies'
     description: 'Gardez le contrôle sur les bugs et hiérarchisez les tâches pour une gestion efficace et une meilleure qualité logicielle.'
 template: '51d678ca8b004e9b9b79'
+weight: 2
 ---
 
 Lorsque l'on développe et teste un logiciel complexe, on tombe inévitablement sur des bugs. Ces erreurs logicielles doivent être systématiquement répertoriées, documentées et corrigées afin que votre logiciel fonctionne sans problème ou qu'il soit mis en ligne à temps. Grâce au système de suivi des bugs de SeaTable, vous gardez une vue d'ensemble et organisez une étroite collaboration entre les développeurs, les testeurs et les concepteurs UI/UX.

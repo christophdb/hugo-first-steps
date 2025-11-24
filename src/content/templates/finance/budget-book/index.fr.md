@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de budget : suivi des dépenses et recettes'
     description: 'Suivez vos finances: gérez dépenses, recettes, statistiques. Modèle de budget gratuit pour individuels, familles ou équipes.'
 template: '07029bcd3c644efc898c'
+weight: 1
 ---
 
 Avec SeaTable, vous gardez toujours une vue d'ensemble de vos recettes et dépenses. Saisissez facilement toutes les dépenses via le formulaire web et documentez le type, la catégorie, le montant et la date de la dépense. Vous pouvez en outre télécharger la facture ou le reçu afin de les enregistrer durablement.

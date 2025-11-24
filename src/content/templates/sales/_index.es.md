@@ -1,4 +1,7 @@
 ---
-title: 'Distribución'
-url: '/es/plantillas/distribución'
+title: 'Ventas'
+url: '/es/plantillas/ventas'
+alias:
+    - '/es/plantillas/distribución'
+weight: 2
 ---

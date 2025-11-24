@@ -11,6 +11,7 @@ seo:
     title: 'Calendário de Conteúdo: Modelo Digital de Planejamento'
     description: 'Planeje e acompanhe todas as campanhas e ações de conteúdo do seu time com calendário, painéis e Kanban integrados.'
 template: 'bea0242b70f64ec698cb'
+weight: 2
 ---
 
 Mesmo a estratégia de conteúdo mais bem pensada falhará se não conseguir cumprir os seus prazos. Este modelo de planeamento de campanha tornar-se-á rapidamente uma ferramenta indispensável para racionalizar o processo de criação de conteúdo, movendo o conteúdo através do oleoduto e assegurando o alinhamento de toda a sua equipa.

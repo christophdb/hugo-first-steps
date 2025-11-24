@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de facture : édition & envoi instantanés'
     description: 'Votre modèle de facture personnalisable : créez, envoyez et archivez vos factures sans erreur, gestion facilitée.'
 template: '0341827ed80f4be3888a'
+weight: 3
 ---
 
 ## Rédiger une facture : Le modèle qui répond à vos besoins

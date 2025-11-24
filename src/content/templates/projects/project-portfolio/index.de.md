@@ -10,6 +10,7 @@ seo:
     title: 'Projektportfolio - Projekte jetzt effizient starten'
     description: 'Finden Sie die perfekte Vorlage für Ihr Projekt. Passen Sie sie an Ihre Anforderungen an und steigern Sie Ihre Effizienz im Handumdrehen'
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Legen Sie ein Projektportfolio an, um alle Projekte Ihres Unternehmens an einem zentralen Ort zu verwalten und zu analysieren. Unser kostenloses Projektportfolio Tool bietet dafür alles, was Sie brauchen.

@@ -11,6 +11,7 @@ seo:
     title: 'Logiciel de gestion de flotte : solution complète'
     description: 'Optimisez la gestion de votre flotte avec notre logiciel flexible et intuitif.'
 template: 'd781991c26e24261bdce'
+weight: 1
 ---
 
 ## Optimisez la gestion de votre parc automobile avec notre logiciel gratuit de gestion de parc automobile

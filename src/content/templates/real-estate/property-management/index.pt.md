@@ -11,6 +11,7 @@ seo:
     title: 'Modelo administração de imóveis: controle total'
     description: 'Controle unidades, contratos, inquilinos e manutenções de modo digital e seguro – modelo prático para proprietários.'
 template: '6f9a2b4869804608978c'
+weight: 1
 ---
 
 Se é proprietário e arrenda vários imóveis, rapidamente se depara com desafios organizacionais: tem de armazenar informações e fotografias dos seus imóveis arrendados, registar os dados e os documentos dos seus inquilinos, controlar mensalmente o rendimento das rendas e mandar fazer a manutenção e as reparações.

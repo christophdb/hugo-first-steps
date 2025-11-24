@@ -9,6 +9,7 @@ seo:
     title: 'CRM: Manage Customers Efficiently'
     description: 'Optimize your CRM by managing customers, deals and sales cycles easily and centrally with SeaTable.'
 template: 'e88ee7aedd00470e9310'
+weight: 2
 ---
 
 Is your company's turnover growing? Then, as a rule, the number of customers and your associated customer relationship management (CRM) also grows. Customer data should be captured and tracked efficiently and quickly. Everyone in your company, from the sales force to marketing and purchasing to the finance department, should always have an overview of customers, customer appointments, sales and much more. The intuitive benefit should always be in the foreground. If you are looking for a good CRM system, you can quickly end up with expensive software solutions such asSalesforceorSAP-Hybris. But this is where SeaTable comes into play and leaves nothing to be desired.

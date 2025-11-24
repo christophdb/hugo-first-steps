@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de reclutamiento: gestión de candidatos'
     description: 'Organiza procesos de selección: currículums, entrevistas y seguimiento – todo digital y fácil en una plantilla de RRHH moderna.'
 template: '9abba02477a7435eb3d7'
+weight: 3
 ---
 
 Los departamentos de contratación y RR.HH. suelen encargarse de anunciar los puestos vacantes y de toda la gestión de las candidaturas. Aquí es donde confluyen las solicitudes, la gestión de los plazos y la comunicación: para no perder la visión de conjunto, es muy importante una gestión de los solicitantes bien estructurada para poder gestionar todo el proceso de solicitud de forma comprensible.

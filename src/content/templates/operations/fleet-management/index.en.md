@@ -9,6 +9,7 @@ seo:
     title: 'Fleet Management Software: Smart Vehicle Control'
     description: 'Track and manage your fleet efficiently with SeaTable’s fleet management software.'
 template: 'd781991c26e24261bdce'
+weight: 1
 ---
 
 ## Optimize your fleet management with our free fleet management software

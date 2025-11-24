@@ -9,6 +9,7 @@ seo:
     title: 'Vorlage: To-Do-Liste'
     description: ''
 template: '6381c036ff2649739c80'
+weight: 1
 ---
 
 Eben haben Sie sich einen Plan zurechtgelegt, ein Anruf reißt Sie aus den Gedanken und schon wissen Sie nicht mehr, was Sie gerade erledigen wollten? Im stressigen Arbeitsalltag kommt es häufig vor, dass sich Aufgaben zeitlich überschneiden und Tätigkeiten parallel ablaufen.

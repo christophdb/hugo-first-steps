@@ -9,6 +9,7 @@ seo:
     title: 'CRM & Sales: Manage Customers & Pipeline in SeaTable'
     description: 'All-in-one sales platform: manage contacts, interactions, pipeline and offers in one cloud system with analysis and task tracking features.'
 template: '76c0775460d44fee93a4'
+weight: 1
 ---
 
 Welcome to the CRM & Sales template! This template makes it easy for you to organise your customers, build a sales pipeline and document all relevant interactions.

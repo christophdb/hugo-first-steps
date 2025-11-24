@@ -9,6 +9,7 @@ seo:
     title: 'Invoice Template: Write & Send Invoices Fast'
     description: 'Create professional invoices in seconds – download the invoice template for automated, secure accounting.'
 template: '0341827ed80f4be3888a'
+weight: 3
 ---
 
 ## Writing an invoice: The template that meets your needs

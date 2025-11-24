@@ -11,6 +11,7 @@ seo:
     title: 'Persönlicher Trainingsplan: Individuelles Workout erstellen'
     description: 'Workout individuell planen: Ihr persönlicher Trainingsplan als Vorlage.'
 template: '59bc81daee554d35bf9f'
+weight: 1
 ---
 
 Haben Sie auch keine Lust mehr auf langweilige und eintönige Trainingspläne? Oder nervt Sie dieser Zwang, Ihre Daten in Apps den dahinterstehenden Unternehmen preisgeben zu müssen? Dann stellen Sie sich doch einfach Ihren eigenen Trainingsplan zusammen und dokumentieren Sie Ihre Trainingsfortschritte gut geschützt in SeaTable.

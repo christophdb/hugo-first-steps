@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de recrutamento RH: candidatos & entrevistas'
     description: 'Centralize candidatos, entrevistas e feedback em um modelo digital de RH. Recrutamento moderno, fácil e colaborativo para equipes de RH.'
 template: '9abba02477a7435eb3d7'
+weight: 3
 ---
 
 O recrutamento e os RH são frequentemente responsáveis pelo anúncio de vagas e por toda a gestão de candidatos. É aqui que as candidaturas, a gestão de prazos e a comunicação se juntam: para não perder a visão geral, uma gestão de candidatos bem estruturada é muito importante para que possa gerir todo o processo de candidatura de uma forma compreensível.

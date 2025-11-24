@@ -11,6 +11,7 @@ seo:
     title: 'Modèle d’inventaire : gestion claire et gratuite'
     description: 'Suivez votre inventaire, gérez stocks, biens et emplacements : modèle gratuit, rapports visuels, accès partagé pour toute l’équipe.'
 template: '11568480344f4a61ab49'
+weight: 2
 ---
 
 ## Modèle de liste d'inventaire : votre inventaire numérique

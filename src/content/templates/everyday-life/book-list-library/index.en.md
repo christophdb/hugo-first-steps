@@ -9,6 +9,7 @@ seo:
     title: 'Book List Template – Manage Your Library Online'
     description: 'Keep track of your library with ease: Organize books, authors and loans with our flexible online book list template.'
 template: '1a98cfea0a6548d599c3'
+weight: 1
 ---
 
 If you appreciate good books, you'll love SeaTable: Because with our book app, you can bring order to your private library! Whether the tomes are piled up on your desk, filling walls of shelves or in boxes - with SeaTable you always know where a book is.

@@ -9,6 +9,7 @@ seo:
     title: 'Technology Roadmap Template – Plan IT & Milestones'
     description: 'Technology roadmap: map releases, milestones, teams & tasks visually – plan, prioritize & align projects with company goals. Free sample.'
 template: '1b086534c58049f481eb'
+weight: 1
 ---
 
 A technology roadmap, also known as an IT roadmap, is nothing more than a very well structured project plan that communicates a company's strategy and serves internally as a guideline and orientation within the project processes. The roadmap enables long-term planning and allows the visualisation and prioritisation of important milestones in projects.

@@ -11,6 +11,7 @@ seo:
     title: 'Content Marketing Strategie: Template'
     description: 'Mit dieser Content Marketing Strategie-Vorlage planen, überwachen und optimieren Sie Ihre Inhalte professionell.'
 template: '791a438b055a4680908c'
+weight: 3
 ---
 
 Content Marketing ist ein beliebter Ansatz im Marketing und aus dem Tagesgeschäft gar nicht mehr wegzudenken. Immerhin laufen viele Kommunikationsaktivitäten über Social Media und unternehmenseigene Blogs. Wer hier nicht mitspielt, verpasst große Wachstumschancen. Im Gegensatz zur klassischen Werbung geht es beim Content Marketing nicht darum, den Kunden direkt etwas zu verkaufen, sondern über ein Produkt oder eine Marke zu informieren.

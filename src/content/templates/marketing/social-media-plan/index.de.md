@@ -9,6 +9,7 @@ seo:
     title: 'Social-Media-Plan Vorlage: Beiträge effizient planen'
     description: 'Social-Media-Posts für alle Kanäle zentral planen, verwalten und auswerten. Übersichtliche Teamarbeit mit der digitalen SeaTable-Vorlage.'
 template: 'e386be96230744a18802'
+weight: 1
 ---
 
 ## Social Media Plan Vorlage: Ihr Leitfaden für erfolgreiche Content-Erstellung

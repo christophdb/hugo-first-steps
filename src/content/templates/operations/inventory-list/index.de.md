@@ -11,6 +11,7 @@ seo:
     title: 'Inventarliste Vorlage – Lager digital verwalten'
     description: 'Kostenlose Inventarliste: Erfassen, sortieren, analysieren & optimieren – für Lager, Assets & Warenbestand. Visuelle Reports, alles digital.'
 template: '11568480344f4a61ab49'
+weight: 2
 ---
 
 ## Inventarliste Vorlage: Ihre digitale Bestandsaufnahme

@@ -9,6 +9,7 @@ seo:
     title: 'Bucket List Vorlage: Träume & Ziele digital planen'
     description: 'Mit der SeaTable Bucket List Vorlage sammeln Sie Ziele & Wünsche online, behalten den Überblick und werden inspiriert.'
 template: '9c1486a65e97457a9fdc'
+weight: 2
 ---
 
 Träume und Ziele sind die Leitsterne, die uns Orientierung bieten und als Anker in turbulenten Zeiten dienen. Ein Leben gilt für viele Menschen dann als erfüllt, wenn sie die großen Ziele und Meilensteine erreicht haben. Eine Bucket List gibt Ihnen dabei eine Struktur und einen klaren Fokus für das, was Sie über kurz oder lang im Leben erreichen wollen. Jedes Ziel, das Sie abhaken, ist ein Erfolg, der Ihr Selbstvertrauen stärkt und Ihnen ein positives Gefühl gibt.

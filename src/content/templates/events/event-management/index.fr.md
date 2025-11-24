@@ -10,6 +10,7 @@ seo:
     title: "Modèle de gestion d'événements : planifier et mettre en œuvre facilement"
     description: "Planifiez, organisez et suivez chaque détail. Avec ce modèle de gestion d'événements, vos événements seront faciles à organiser."
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Que vous organisiez des concerts, des festivals ou des salons, une bonne organisation est indispensable pour chaque événement. Peu importe que vous organisiez un événement pour la première fois ou que vous soyez un gestionnaire d'événements expérimenté.

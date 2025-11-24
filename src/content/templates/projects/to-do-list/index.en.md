@@ -9,6 +9,7 @@ seo:
     title: 'Template: To-Do-List'
     description: ''
 template: '6381c036ff2649739c80'
+weight: 1
 ---
 
 You've just made a plan, a phone call snaps you out of your thoughts and you can't remember what you were about to do? In stressful everyday working life, it often happens that tasks overlap in time and activities run in parallel.

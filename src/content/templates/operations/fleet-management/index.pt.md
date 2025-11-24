@@ -11,6 +11,7 @@ seo:
     title: 'Software de gestão de frotas: controle digital'
     description: 'Centralize e otimize sua frota com nosso software de gestão de frotas flexível.'
 template: 'd781991c26e24261bdce'
+weight: 1
 ---
 
 ## Optimize a gestão da sua frota com o nosso software de gestão de frotas gratuito

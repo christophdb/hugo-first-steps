@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla hoja de ruta tecnológica : hitos y equipos'
     description: 'Gestiona tu desarrollo digital: cronograma, lanzamientos, responsables y tareas, todo desde la plantilla de roadmap tecnológico.'
 template: '1b086534c58049f481eb'
+weight: 1
 ---
 
 Una hoja de ruta tecnológica, también conocida como hoja de ruta informática, no es más que un plan de proyecto muy bien estructurado que comunica la estrategia de una empresa y sirve internamente de guía y orientación dentro de los procesos del proyecto. La hoja de ruta permite planificar a largo plazo y visualizar y priorizar los hitos importantes de los proyectos.

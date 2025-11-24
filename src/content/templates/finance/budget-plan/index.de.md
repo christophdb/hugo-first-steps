@@ -9,6 +9,7 @@ seo:
     title: 'Budgetplanung einfach umsetzen'
     description: 'Planen Sie Ihr Unternehmensbudget effizient und zukunftssicher: Analyse, Prognose und Ziele klar im Blick.'
 template: '8fa08d31d16c4a54a1bb'
+weight: 2
 ---
 
 Haben Sie schon Ihr Budget für nächstes Jahr geplant? Dieses Template hilft Ihnen, die Ausgaben aus dem laufenden Geschäftsjahr zu analysieren, um Prognosen für die Zukunft abzuleiten und Ihren Budgetplan mit Ihren Geschäftszielen in Einklang zu bringen. Es eignet sich für jedes Unternehmen, jede Abteilung oder jedes Projektteam, das Budget zur Verfügung hat.

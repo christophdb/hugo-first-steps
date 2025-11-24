@@ -11,6 +11,7 @@ seo:
     title: 'Lançamento de produto: template eficiente'
     description: 'Planeje o lançamento com eficiência: template para organizar funcionalidades, cronogramas e ações de marketing.'
 template: '61e4639f122f45a2bcba'
+weight: 3
 ---
 
 Um lançamento de produto bem sucedido é o resultado de um longo e árduo trabalho. Para o mercado e os seus clientes, parece um lançamento de foguetão que não demora muito - mas para si, este lançamento demorou muito tempo. O lançamento do produto é um processo a longo prazo que inclui todo o período de conceptualização, desenvolvimento e comercialização.

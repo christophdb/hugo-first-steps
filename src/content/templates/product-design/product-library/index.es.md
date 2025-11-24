@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de biblioteca de productos'
     description: 'Controle datos y fichas de productos con la plantilla digital de SeaTable.'
 template: 'faf9c0823ac748b59ef5'
+weight: 1
 ---
 
 Esta plantilla ha sido desarrollada para cualquier empresa que tenga un departamento de gestión de productos y necesite un software fiable para organizar sus productos. En este directorio obtendrá toda la información sobre sus líneas de productos, los datos específicos de los mismos y sus proveedores. Además, puede añadir ventas en su tienda si es necesario.

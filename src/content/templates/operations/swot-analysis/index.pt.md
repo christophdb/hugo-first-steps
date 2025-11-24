@@ -11,6 +11,7 @@ seo:
     title: 'Modelo SWOT: forças, fraquezas, oportunidades, ameaças'
     description: 'Análise SWOT digital : identifique fatores internos e externos, visualize matrizes e planeje ações, com modelo grátis.'
 template: '13fe52fa8c814d5bbeb7'
+weight: 3
 ---
 
 A análise SWOT (acrónimo de Strengths (forças), Weaknesses (fraquezas), Opportunities (oportunidades), Threats (ameaças)) é um método útil para compreender o posicionamento atual e a estratégia da sua empresa. Ajuda-o a utilizar os pontos fortes de forma direcionada, a minimizar os pontos fracos, a identificar oportunidades e a ultrapassar riscos potenciais numa fase inicial. Com uma análise claramente estruturada, cria-se a base para decisões bem fundamentadas e para um sucesso sustentável.

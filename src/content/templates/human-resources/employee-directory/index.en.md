@@ -9,6 +9,7 @@ seo:
     title: 'Employee Directory Template: Overview of All Staff'
     description: 'Use our employee directory template for a quick overview of positions, departments, and contact details in your company.'
 template: 'e3d0d9a9139c46c58bf0'
+weight: 1
 ---
 
 Especially in companies without a central employee database, it is important to create an employee directory - not only for your overview, but also to always have all relevant contact details to hand. With a detailed directory, not only do you know which employees work where, but also important authorities such as the managing director. Your employees will also get to know each other better. This has a positive effect on the company culture!

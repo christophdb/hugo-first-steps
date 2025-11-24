@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de roadmap tecnológico: TI e metas estratégicas'
     description: 'Template de tecnologia : alinhe projetos, marcos, releases e equipes de TI – planejamento de inovação digital centralizado e simples.'
 template: '1b086534c58049f481eb'
+weight: 1
 ---
 
 Um roteiro tecnológico, também conhecido como roteiro TI, não é mais do que um plano de projecto muito bem estruturado que comunica a estratégia de uma empresa e serve internamente como orientação e orientação no âmbito dos processos do projecto. O roteiro permite o planeamento a longo prazo e permite a visualização e prioritização de marcos importantes nos projectos.

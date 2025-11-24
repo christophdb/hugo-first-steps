@@ -11,6 +11,7 @@ seo:
     title: 'Maßnahmenplan Vorlage für bessere Prozesse nutzen '
     description: 'Verbessern Sie Ihr Qualitätsmanagement mit dieser Vorlage. Definieren Sie Maßnahmen, weisen Sie Verantwortliche zu und behalten Sie den Überblick.'
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 Diese Maßnahmenplan Vorlage wurde für eine fiktive Kommunikationsabteilung eines großen Unternehmens entwickelt. In dieser Abteilung müssen alle Marketing- und Kommunikationsaktivitäten sehr früh geplant werden, oft ein Jahr im Voraus.

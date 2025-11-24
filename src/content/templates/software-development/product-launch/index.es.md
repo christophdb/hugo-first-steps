@@ -11,6 +11,7 @@ seo:
     title: 'Lanzamiento de producto: planificación fácil'
     description: 'Domina tu lanzamiento de producto: utiliza esta plantilla para planificar tareas, fechas y marketing centralizados.'
 template: '61e4639f122f45a2bcba'
+weight: 3
 ---
 
 El éxito del lanzamiento de un producto es el resultado de un largo y duro trabajo. Para el mercado y sus clientes, parece el lanzamiento de un cohete que no lleva mucho tiempo, pero para usted, este lanzamiento ha llevado mucho tiempo. El lanzamiento de un producto es un proceso a largo plazo que incluye todo el periodo de conceptualización, desarrollo y comercialización.

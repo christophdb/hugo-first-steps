@@ -9,6 +9,7 @@ seo:
     title: 'Plan Social Media: Modèle pour Unifier Vos Contenus'
     description: 'Simplifiez la gestion de vos réseaux sociaux, planifiez et analysez vos publications sur une plateforme collaborative SeaTable.'
 template: 'e386be96230744a18802'
+weight: 1
 ---
 
 ## Modèle de plan de médias sociaux : votre guide pour une création de contenu réussie

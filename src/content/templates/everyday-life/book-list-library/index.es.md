@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla lista de libros – gestiona tu biblioteca'
     description: 'Controla tu biblioteca: organiza, cataloga y comparte libros, autores y préstamos con esta plantilla digital gratis.'
 template: '1a98cfea0a6548d599c3'
+weight: 1
 ---
 
 Si aprecias los buenos libros, te encantará SeaTable: Porque con nuestra aplicación para libros podrás poner orden en tu biblioteca particular. No importa si los tomos están apilados en tu escritorio, llenando paredes de estanterías o viviendo su vida en cajas: con SeaTable siempre sabrás dónde está un libro en cada momento.

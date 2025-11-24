@@ -11,6 +11,7 @@ seo:
     title: 'Gestion de filiales: modèle unifié'
     description: 'Gérez succursales, personnel, ressources et ventes en toute simplicité – analyse et supervision centralisées avec SeaTable.'
 template: 'c090ef310bd54007ab0a'
+weight: 3
 ---
 
 Notre modèle de gestion des succursales vous facilite la gestion de vos succursales. Le template vous aide à optimiser les processus entre les différentes filiales et le siège. Il rend votre travail plus clair et plus efficace. Il facilite l'évaluation et l'amélioration des différents magasins par vos sales managers et vous donne une vue d'ensemble du chiffre d'affaires et de la force géographique du chiffre d'affaires de tous les magasins.
