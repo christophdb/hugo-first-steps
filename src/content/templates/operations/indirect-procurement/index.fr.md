@@ -1,6 +1,6 @@
 ---
 title: 'Achats indirects'
-description: ''
+description: 'Pilotez les achats indirects, centralisez catalogues et fournisseurs et organisez le suivi des commandes de l’entreprise avec efficacité.'
 date: '2024-08-24'
 url: '/fr/modele/achats-indirects'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de la sostenibilidad'
-description: ''
+description: 'Supervise metas ambientales, sociales y certificaciones, documente estadísticas y coordine la sostenibilidad en su organización.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-sostenibilidad'
 aliases:

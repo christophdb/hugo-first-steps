@@ -1,6 +1,6 @@
 ---
 title: 'Gestão da sustentabilidade'
-description: ''
+description: 'Organize objetivos ambientais e sociais, monitore certificações e centralize indicadores para sustentabilidade empresarial.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-sustentabilidade'
 aliases:

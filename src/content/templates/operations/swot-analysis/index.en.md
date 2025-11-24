@@ -1,6 +1,6 @@
 ---
 title: 'SWOT Analysis'
-description: ''
+description: 'Capture and assess all SWOT factors, visualize your position and turn insights into targeted actions in your company.'
 date: '2025-02-23'
 url: '/template/swot-analysis'
 category: 'operations'
