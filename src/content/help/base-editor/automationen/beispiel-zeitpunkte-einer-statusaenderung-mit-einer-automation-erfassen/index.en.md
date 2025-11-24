@@ -97,7 +97,7 @@ Then define the **values** with which certain fields are to be pre-filled. To en
 
 ![Definition of the values that are automatically added to the table when the automation is triggered](images/define-time-of-status-change-to-be-added-1.png)
 
-Um die verschiedenen **Bestellnummern** und die dazugehörigen **Beträge** in der Tabelle “Order-Status-Log” zu **zitieren**, schreiben Sie die Spaltennamen in geschweiften Klammern in das jeweilige Textfeld: {Order-ID} & {Amount}
+To **reference** the various **order numbers** and corresponding **amounts** in the “Order Status Log” table, write the column names in curly brackets in the respective text field: {Order ID} & {Amount}
 
 ![Definition of the values that are automatically added to the table when the automation is triggered](images/define-entries-to-be-added-to-table-after-automation.png)
 

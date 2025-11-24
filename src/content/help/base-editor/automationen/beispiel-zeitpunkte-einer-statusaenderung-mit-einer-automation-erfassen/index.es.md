@@ -97,7 +97,7 @@ A continuación, defina los **valores** con los que deben rellenarse previamente
 
 ![Definición de los valores que se añaden automáticamente a la tabla cuando se activa la automatización](images/define-time-of-status-change-to-be-added-1.png)
 
-Um die verschiedenen **Bestellnummern** und die dazugehörigen **Beträge** in der Tabelle “Order-Status-Log” zu **zitieren**, schreiben Sie die Spaltennamen in geschweiften Klammern in das jeweilige Textfeld: {Order-ID} & {Amount}
+Para **citar** los distintos **números de pedido** y los **importes** correspondientes en la tabla "Order-Status-Log", escriba los nombres de las columnas entre llaves en el campo de texto correspondiente: {Order-ID} & {Amount}
 
 ![Definición de los valores que se añaden automáticamente a la tabla cuando se activa la automatización](images/define-entries-to-be-added-to-table-after-automation.png)
 

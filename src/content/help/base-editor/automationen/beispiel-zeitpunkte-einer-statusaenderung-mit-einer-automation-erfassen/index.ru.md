@@ -89,7 +89,7 @@ seo:
 
 ![Выбор автоматического действия](images/add-action-example2.png)
 
-На следующем шаге выберите **таблицу**"Журнал состояния заказов" в качестве таблицы, в которую будет добавляться время изменения состояния после срабатывания автоматизации.
+На следующем шаге выберите **таблицу** "Order Status Log" в качестве таблицы, в которую будет добавляться время изменения состояния после срабатывания автоматизации.
 
 ![Выбор таблицы, в которую добавляются записи при срабатывании автоматизации](images/select-table-to-put-in-entries-after-automation.png)
 
@@ -97,7 +97,7 @@ seo:
 
 ![Определение значений, которые автоматически добавляются в таблицу при срабатывании автоматизации](images/define-time-of-status-change-to-be-added-1.png)
 
-Um die verschiedenen **Bestellnummern** und die dazugehörigen **Beträge** in der Tabelle “Order-Status-Log” zu **zitieren**, schreiben Sie die Spaltennamen in geschweiften Klammern in das jeweilige Textfeld: {Order-ID} & {Amount}
+Чтобы **цитировать** различные **номера заказов** и соответствующие **суммы** в таблице "Order Status Log", введите названия столбцов в фигурных скобках в соответствующее текстовое поле: {Order-ID} & {Amount}
 
 ![Определение значений, которые автоматически добавляются в таблицу при срабатывании автоматизации](images/define-entries-to-be-added-to-table-after-automation.png)
 
@@ -107,6 +107,6 @@ Um die verschiedenen **Bestellnummern** und die dazugehörigen **Beträge** in d
 
 ![Корректировка статуса различных заказов](images/change-status-of-different-orders.gif)
 
-...В таблицу "Журнал состояния заказов" автоматически заносятся как время изменения статуса, так и определенные записи (номер и сумма заказа).
+...В таблицу "Order Status Log" автоматически заносятся как время изменения статуса, так и определенные записи (номер и сумма заказа).
 
 ![Таблица Журнал состояния заказа после срабатывания автоматизации](images/table-after-automation-status.png)

@@ -18,7 +18,7 @@ Congratulations! You have now created a solid framework with which you can effic
 - You can clearly record and manage your courses.
 - Participants can register for courses via a web form.
 - You always have an overview of which courses are fully booked and which are still available.
-- Sie können den Zahlungsstatus Ihrer Teilnehmer nachverfolgen.
+- You can track the payment status of your participants.
 - By sending e-mails to participants (registration confirmations, payment requests, participation confirmations), you have the entire course process under control.
 
 ## The road to success: step by step
