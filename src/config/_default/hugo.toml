@@ -54,3 +54,9 @@ target = 'content'
 excludeFiles = ['**.svg', '_drafts']
 
 disableKinds = ["related"]
+
+[markup]
+[markup.tableOfContents]
+endLevel = 2
+ordered = false
+startLevel = 2
