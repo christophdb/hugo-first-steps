@@ -1,6 +1,6 @@
 ---
 title: "Gestion de la chaîne d'approvisionnement"
-description: ''
+description: 'Suivez flux, stocks et réapprovisionnements, centralisez toutes les données de la chaîne logistique en une solution digitale et flexible.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-chaine-logistique'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Gestão da cadeia de fornecimento'
-description: ''
+description: 'Controle inventários, entradas e saídas, automatize pedidos e mantenha dados logísticos organizados sempre à mão.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-cadeia-suprimentos'
 aliases:

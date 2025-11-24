@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Kundenmanagement'
-description: ''
+description: 'Pflegen Sie Kundendaten, verwalten Sie Termine und Angebote, behalten Sie Umsätze und Vertriebsphasen zentral im Blick.'
 date: '2025-04-05'
 url: '/de/vorlage/crm-offer-management'
 category: 'sales'

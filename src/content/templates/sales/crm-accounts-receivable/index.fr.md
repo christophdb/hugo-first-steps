@@ -1,6 +1,6 @@
 ---
 title: 'CRM : Comptabilité des débiteurs'
-description: ''
+description: 'Suivez toutes les factures, paiements et relances, centralisez les informations et gérez les clients plus efficacement.'
 date: '2024-08-16'
 url: '/fr/modele/crm-comptes-clients'
 aliases:

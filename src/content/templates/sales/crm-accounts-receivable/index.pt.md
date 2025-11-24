@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Contas a Receber'
-description: ''
+description: 'Gerencie cobranças e pagamentos, crie faturas e oriente toda a equipe para um processo de contas a receber sem perdas e transparente.'
 date: '2024-08-16'
 url: '/pt/modelo/crm-contas-receber'
 aliases:

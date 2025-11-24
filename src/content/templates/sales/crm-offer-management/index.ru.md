@@ -1,6 +1,6 @@
 ---
 title: 'CRM: управление клиентами'
-description: ''
+description: 'Управляйте контактами, предложениями и продажами, автоматизируйте работу с данными и ускоряйте оформление сделок.'
 date: '2025-04-05'
 url: '/ru/shablon/kommercheskoe-predlozhenie'
 aliases:

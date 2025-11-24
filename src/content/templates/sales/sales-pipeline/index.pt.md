@@ -1,6 +1,6 @@
 ---
 title: 'Gasoduto de vendas'
-description: ''
+description: 'Acompanhe estágios e oportunidades, centralize dados de vendas e aumente conversões com um pipeline digital claro e eficiente.'
 date: '2024-08-16'
 url: '/pt/modelo/pipeline-vendas'
 aliases:

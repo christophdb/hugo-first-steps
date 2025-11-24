@@ -1,6 +1,6 @@
 ---
 title: 'Escribir oferta'
-description: ''
+description: 'Elabore, controle y envíe presupuestos de forma digital, agilice aprobaciones y gestione todos los datos en una solución integrada.'
 date: '2025-04-06'
 url: '/es/plantilla/gestion-presupuestos'
 aliases:

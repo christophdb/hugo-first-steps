@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de sucursais'
-description: ''
+description: 'Gerencie filiais, equipes e recursos POS, analise vendas e facilite treinamentos em uma plataforma digital integrada e flexível.'
 date: '2024-08-16'
 url: '/pt/modelo/gestao-filiais'
 aliases:
