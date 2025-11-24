@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de inventario: controla tu stock gratis'
     description: 'Descarga la plantilla de inventario: registra, gestiona y analiza existencias, almacén y activos de forma digital y sencilla.'
 template: '11568480344f4a61ab49'
+weight: 2
 ---
 
 ## Plantilla de lista de inventario: su inventario digital

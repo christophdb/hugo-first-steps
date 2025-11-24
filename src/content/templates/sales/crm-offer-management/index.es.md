@@ -9,6 +9,7 @@ seo:
     title: 'CRM: Gestión de clientes sencilla'
     description: 'Optimiza tu CRM gestionando clientes, ofertas y ventas de forma central y eficaz con SeaTable.'
 template: 'e88ee7aedd00470e9310'
+weight: 2
 ---
 
 ¿Crece el volumen de negocio de su empresa? Entonces, por regla general, también crece el número de clientes y su gestión de relaciones con los clientes (CRM) asociada. Los datos de los clientes deben registrarse y rastrearse de forma eficiente y rápida. Todas las personas de su empresa, desde el personal de ventas hasta el departamento financiero, pasando por el de marketing y compras, deberían tener siempre una visión general de los clientes, las citas con clientes, el volumen de negocio y mucho más. El beneficio intuitivo debe estar siempre en primer plano. Si busca un buen sistema CRM, puede acabar rápidamente con soluciones de software caras comoSalesforceoSAP-Hybris. Pero aquí es donde SeaTable entra en juego y no deja nada que desear.

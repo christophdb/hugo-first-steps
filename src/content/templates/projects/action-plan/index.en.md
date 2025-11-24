@@ -9,6 +9,7 @@ seo:
     title: 'Use action plan template for better processes'
     description: 'Improve your quality management with this template. Define measures, assign responsibilities and maintain an overview.'
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 This template was developed for a fictitious communications department of a large company. In this department, all marketing and communication activities have to be planned very early on, often a year in advance.

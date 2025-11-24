@@ -9,6 +9,7 @@ seo:
     title: 'Inventory List Template – Free for Stock & Assets'
     description: 'Free inventory list template: track, manage and analyze items, stock and assets easily. Centralized data, visual reports & exports.'
 template: '11568480344f4a61ab49'
+weight: 2
 ---
 
 ## Inventory list template: your digital inventory

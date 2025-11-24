@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de inventário: estoque sob controle'
     description: 'Inventário digital: registre, organize e analise estoque e ativos facilmente. Template gratuito com relatórios e acesso compartilhado.'
 template: '11568480344f4a61ab49'
+weight: 2
 ---
 
 ## Modelo de lista de inventário: o seu inventário digital

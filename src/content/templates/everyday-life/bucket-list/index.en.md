@@ -9,6 +9,7 @@ seo:
     title: 'Bucket List Template: Structure Your Life Goals'
     description: 'Digital bucket list template: Easily manage, track & expand your life goals and adventures online, for every dreamer.'
 template: '9c1486a65e97457a9fdc'
+weight: 2
 ---
 
 Dreams and goals are the guiding stars that offer us orientation and serve as an anchor in turbulent times. For many people, life is considered fulfilled when they have achieved their major goals and milestones. A bucket list gives you a structure and a clear focus for what you want to achieve in life in the short or long term. Every goal you tick off is a success that boosts your self-confidence and gives you a positive feeling.

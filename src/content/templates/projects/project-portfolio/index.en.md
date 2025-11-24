@@ -8,6 +8,7 @@ seo:
     title: 'Project Portfolio: Centralized Project Overview'
     description: 'Manage projects, resources and priorities in one place. Analyze your portfolio and drive data-supported decisions.'
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Create a project portfolio to manage and analyze all your company's projects in one central location. Our free project portfolio tool offers everything you need for this.

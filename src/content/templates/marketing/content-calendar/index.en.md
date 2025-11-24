@@ -9,6 +9,7 @@ seo:
     title: 'Content Calendar Template: Plan & Track Campaigns'
     description: 'Plan, track and collaborate on all your content and campaigns—calendar, dashboards and workflows in one central tool.'
 template: 'bea0242b70f64ec698cb'
+weight: 2
 ---
 
 Even the most well thought out content strategy will fail if you can't meet your deadlines. This campaign planning template will quickly become an indispensable tool for streamlining the content creation process, moving content through the pipeline and ensuring your entire team is aligned.

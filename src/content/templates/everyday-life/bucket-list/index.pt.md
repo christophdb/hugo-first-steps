@@ -9,6 +9,7 @@ seo:
     title: 'Modelo Bucket List: seus sonhos mais organizados'
     description: 'Template digital gratuito para planejar metas e sonhos: modifique, compartilhe e inspire-se em qualquer lugar.'
 template: '9c1486a65e97457a9fdc'
+weight: 2
 ---
 
 Os sonhos e os objectivos são as estrelas-guia que nos orientam e servem de âncora em tempos turbulentos. Para muitas pessoas, a vida considera-se realizada quando atingem os seus principais objectivos e marcos. Uma lista de objectivos dá-lhe uma estrutura e um foco claro para o que quer alcançar na vida a curto ou longo prazo. Cada objetivo que assinala é um sucesso que aumenta a sua auto-confiança e lhe dá um sentimento positivo.

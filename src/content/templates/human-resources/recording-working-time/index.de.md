@@ -11,6 +11,7 @@ seo:
     title: 'Arbeitszeiterfassung Vorlage – EU-konforme Zeiterfassung'
     description: 'Arbeitszeit, Urlaub und Krankheitstage einfach für das Team dokumentieren – digitale Vorlage zur Pflicht-Zeiterfassung & Statistik.'
 template: '7b72578c0e714750954a'
+weight: 2
 ---
 
 Sie möchten die in der EU vorgeschriebene Arbeitszeiterfassung in Ihrem Unternehmen umsetzen? Dann entdecken Sie unsere ausgefeilte Vorlage zur einfachen, effizienten und rechtskonformen Arbeitszeiterfassung. Mit Enterprise-Abo steht Ihnen die Vorlage ohne weitere Kosten in vollem Umfang zur Verfügung, aber auch mit Plus-Abo oder einem kostenlosen Free-Account können Sie die Vorlage (ohne Automationen) nutzen.

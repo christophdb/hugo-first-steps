@@ -11,6 +11,7 @@ seo:
     title: 'Filialverwaltung: Store Management Vorlage'
     description: 'Verwalten Sie Filialen, Team, POS-Material und Umsätze zentral – intelligente Steuerung für Einzelhandel und Ketten.'
 template: 'c090ef310bd54007ab0a'
+weight: 3
 ---
 
 Mit unserem Filialmanagement-Template erleichtern Sie sich das Managen Ihrer Filialen. Das Template hilft Ihnen, Abläufe zwischen den einzelnen Filialen und der Zentrale zu optimieren. Sie macht Ihre Arbeit übersichtlicher und effizienter. Sie erleichtert Ihren Sales Managern das Bewerten und Verbessern einzelner Stores und gibt Ihnen einen Überblick über den Umsatz und die geografische Umsatzstärke aller Filialen.

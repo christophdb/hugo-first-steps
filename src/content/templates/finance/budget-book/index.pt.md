@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de orçamento: despesas e receitas visíveis'
     description: 'Modelo de orçamento gratuito: registre ganhos e gastos, analise, economize e visualize tudo em um só lugar – fácil e online.'
 template: '07029bcd3c644efc898c'
+weight: 1
 ---
 
 Com o SeaTable, tem sempre uma visão geral das suas receitas e despesas. Registe comodamente todas as despesas utilizando o formulário Web e documente o tipo, a categoria, o montante e a data da despesa. Também pode carregar a fatura ou o recibo para os guardar permanentemente.

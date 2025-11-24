@@ -11,6 +11,7 @@ seo:
     title: 'CRM & Vendas: gerencie clientes e negócios online'
     description: 'Organize clientes, oportunidades e ofertas em um sistema central: acompanhe processos, tarefas e análises em tempo real com SeaTable CRM.'
 template: '76c0775460d44fee93a4'
+weight: 1
 ---
 
 Bem-vindo ao modelo CRM & Vendas! Este modelo facilita-lhe a organização dos seus clientes, a construção de um canal de vendas e a documentação de todas as interacções relevantes.

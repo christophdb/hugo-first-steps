@@ -9,6 +9,7 @@ seo:
     title: 'Shopping List: Organize & Shop Smarter'
     description: 'Create and manage your shopping list digitally—share, sort and update for every shopping trip easily.'
 template: '913bf21e3f934d57b402'
+weight: 3
 ---
 
 How often have you stood in front of the supermarket and realized that you forgot your shopping list at home? Instead, use a digital shopping list that you can access from anywhere in the world with your smartphone! You can even share it with your family members or roommates so that they can also add purchases to the list.

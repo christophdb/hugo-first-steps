@@ -10,6 +10,7 @@ seo:
     title: 'Projektportfolio: Zentrale Übersicht aller Projekte'
     description: 'FVerwalten Sie Projekte, Ressourcen und Ziele zentral. Analysieren Sie Ihr Projektportfolio und treffen Sie fundierte Entscheidungen.'
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Legen Sie ein Projektportfolio an, um alle Projekte Ihres Unternehmens an einem zentralen Ort zu verwalten und zu analysieren. Unser kostenloses Projektportfolio Tool bietet dafür alles, was Sie brauchen.

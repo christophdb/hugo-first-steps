@@ -9,6 +9,7 @@ seo:
     title: 'Product Library Template: Manage Products & Suppliers'
     description: 'Centralize and organize product data and suppliers with this product library template.'
 template: 'faf9c0823ac748b59ef5'
+weight: 1
 ---
 
 This template has been developed for any company that has a product management department and needs reliable software to organise its products. In this directory you get all the information about your product lines, specific product data and your suppliers. Additionally, you can add sales in your shop if needed.

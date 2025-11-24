@@ -9,6 +9,7 @@ seo:
     title: 'Project Plan Template – Free Download, Timeline & Kanban'
     description: 'Use our free project plan template to schedule, track and manage tasks with timeline or Kanban view. Ideal for agile and classic teams.'
 template: 'f5a615ac93104c44a1e4'
+weight: 3
 ---
 
 Project managementrequires precise planning of all upcoming tasks. However, this can quickly become confusing, especially for larger projects: You have to define the tasks, time horizons and responsibilities in advance, keep an eye on progress during the project and always be able to react flexibly to changes in plans. Normally, specialproject management toolsare required for this, but they often cost a lot of money. It's a good thing that SeaTable'sfree project plan templateis available! You can easily create a project plan according to your wishes.

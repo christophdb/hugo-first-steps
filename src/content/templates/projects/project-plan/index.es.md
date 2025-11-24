@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de plan de proyecto: gratuita, Gantt y Kanban'
     description: 'Organiza tu proyecto fácil: plantilla de plan con cronograma, Kanban y seguimiento. Descarga gratis, gestiona tareas sin complicaciones.'
 template: 'f5a615ac93104c44a1e4'
+weight: 3
 ---
 
 La gestión de proyectosrequiere una planificación precisa de todas las tareas pendientes. Sin embargo, esto puede volverse confuso rápidamente, sobre todo en proyectos de gran envergadura: Hay que definir de antemano las tareas, los plazos y las responsabilidades, vigilar el progreso durante el proyecto y ser siempre capaz de reaccionar con flexibilidad a los cambios de planes. Normalmente, para ello se necesitanherramientasespecialesde gestión de proyectos, pero suelen costar mucho dinero. Menos mal que está disponiblela plantilla de plan de proyecto gratuitade SeaTable. Con ella podrá crear fácilmente un plan de proyecto a su medida.

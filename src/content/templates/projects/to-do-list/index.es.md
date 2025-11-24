@@ -11,6 +11,7 @@ seo:
     title: 'Lista de Tareas: Organice y Priorice Online'
     description: 'Gestione tareas y prioridades, visualice avances y simplifique su flujo de trabajo en equipo con vistas personalizables. '
 template: '6381c036ff2649739c80'
+weight: 1
 ---
 
 Acaba de finalizar un plan, una llamada de teléfono le saca de sus pensamientos y no puede recordar lo que estaba a punto de hacer... En la estresante vida laboral cotidiana, suele ocurrir que las tareas se solapan en el tiempo y las actividades se desarrollan en paralelo.

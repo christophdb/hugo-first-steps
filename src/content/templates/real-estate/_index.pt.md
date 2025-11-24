@@ -1,4 +1,7 @@
 ---
 title: 'Imóveis'
-url: '/pt/modelos/imóveis'
+url: '/pt/modelos/imoveis'
+alias:
+    - '/pt/modelos/imóveis'
+weight: 12
 ---

@@ -9,6 +9,7 @@ seo:
     title: 'HR Recruiting Vorlage – Bewerbermanagement digital'
     description: 'Bewerbungen, Interviews, Kontakte bequem online verwalten – HR Recruiting Vorlage für effizientes, transparentes Bewerbermanagement im Team.'
 template: '9abba02477a7435eb3d7'
+weight: 3
 ---
 
 Recruiting und Personalwesen sind häufig für die Ausschreibung offener Stellen und das gesamte Bewerbermanagement verantwortlich. Hier treffen Bewerbungen, Terminmanagement und Kommunikation aufeinander: Um nicht den Überblick zu verlieren, ist ein gut strukturiertes Bewerbermanagement sehr wichtig, damit Sie den gesamten Bewerbungsprozess nachvollziehbar abwickeln können.

@@ -9,6 +9,7 @@ seo:
     title: 'Working Time Recording Template – EU HR Compliance'
     description: 'Record working hours, absences & paid leave for all staff – compliant timesheet solution for EU companies, instantly ready to use.'
 template: '7b72578c0e714750954a'
+weight: 2
 ---
 
 Would you like to implement the EU's mandatory working time recording in your company? Then discover our sophisticated template for simple, efficient and legally compliant working time recording. With Enterprise subscription, the template is fully available to you at no additional cost, but you can also use the template (without automations) with Plus subscription or a free Free account.

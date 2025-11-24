@@ -11,6 +11,7 @@ seo:
     title: 'Software de gestión de flotas: controla tus vehículos'
     description: 'Gestione su flota con software digital: reservas, mantenimiento, control total.'
 template: 'd781991c26e24261bdce'
+weight: 1
 ---
 
 ## Optimice la gestión de su flota con nuestro software gratuito de gestión de flotas

@@ -9,6 +9,7 @@ seo:
     title: 'Plan a Product Launch Efficiently'
     description: 'Master your product launch: use this template to organize features, tasks and marketing activities in one place.'
 template: '61e4639f122f45a2bcba'
+weight: 3
 ---
 
 A successful product launch is the result of long, hard work. For the market and your customers, it looks like a rocket launch that doesn't take long - but for yourself, this launch has taken a long time. The product launch is a long-term process that includes the entire period of conceptualisation, development and marketing.

@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de feuille de route technologique : IT & Agile'
     description: 'Planifiez le développement IT: releases, étapes clés, équipes, tâches et priorités avec une roadmap technologique complète et claire.'
 template: '1b086534c58049f481eb'
+weight: 1
 ---
 
 Une feuille de route technologique, également connue sous le nom de feuille de route informatique, n'est rien d'autre qu'un plan de projet très bien structuré qui communique la stratégie d'une entreprise et sert en interne de directive et d'orientation au sein des processus de projet. La feuille de route permet de planifier à long terme et permet de visualiser et de prioriser les étapes importantes des projets.

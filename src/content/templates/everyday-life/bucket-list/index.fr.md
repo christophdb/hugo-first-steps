@@ -9,6 +9,7 @@ seo:
     title: 'Modèle Bucket List: vos rêves à portée de main'
     description: 'Liste de rêves digitale : planifiez, organisez et réalisez vos objectifs et expériences, seul ou à plusieurs.'
 template: '9c1486a65e97457a9fdc'
+weight: 2
 ---
 
 Les rêves et les objectifs sont les étoiles qui nous guident et nous servent d'ancrage dans les périodes de turbulences. Pour de nombreuses personnes, une vie est considérée comme accomplie lorsqu'elles ont atteint les grands objectifs et les grandes étapes. Une bucket list vous donne alors une structure et une focalisation claire sur ce que vous voulez atteindre dans la vie à plus ou moins long terme. Chaque objectif que vous cochez est un succès qui renforce votre confiance en vous et vous donne un sentiment positif.

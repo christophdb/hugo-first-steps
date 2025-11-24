@@ -11,6 +11,7 @@ seo:
     title: 'Lista de compras: gestión digital'
     description: 'Organiza, comparte y actualiza tu lista de compras de manera online para hacer tus compras más ágiles.'
 template: '913bf21e3f934d57b402'
+weight: 3
 ---
 
 ¿Cuántas veces te has quedado en la puerta del supermercado y te has dado cuenta de que te habías olvidado la lista de la compra en casa? En lugar de eso, utiliza una lista de la compra digital a la que puedas acceder desde cualquier parte del mundo con tu smartphone. Incluso puedes compartirla con tus familiares o compañeros de piso para que también puedan añadir compras a la lista.

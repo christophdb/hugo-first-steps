@@ -11,6 +11,7 @@ seo:
     title: 'Calendario de Contenidos: Plantilla para Editorial y Campañas'
     description: 'Organiza, visualiza y gestiona todas tus campañas de contenido en un solo lugar con el calendario digital SeaTable.'
 template: 'bea0242b70f64ec698cb'
+weight: 2
 ---
 
 Incluso la estrategia de contenidos mejor pensada fracasará si no se pueden cumplir los plazos. Esta plantilla de planificación de campañas se convertirá rápidamente en una herramienta indispensable para agilizar el proceso de creación de contenidos, hacer que éstos avancen y garantizar que todo el equipo esté alineado.

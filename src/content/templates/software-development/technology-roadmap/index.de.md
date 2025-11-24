@@ -11,6 +11,7 @@ seo:
     title: 'Technologie-Roadmap Vorlage | IT-Strategie & Projekte'
     description: 'IT-Roadmap Vorlage: Meilensteine, Releases, Aufgaben & Teams zentral planen und steuern – für agile IT- und Digitalprojekte optimiert.'
 template: '1b086534c58049f481eb'
+weight: 1
 ---
 
 Eine Technologie Roadmap, auch bekannt als IT Roadmap, ist nichts anderes als ein sehr gut strukturierter Projektplan, der die Strategie eines Unternehmens kommuniziert und intern als Vorgabe und Orientierung innerhalb der Projektprozesse dient. Die Roadmap ermöglicht langfristiges Planen und ermöglicht die Visualisierung und Priorisierung von wichtigen Meilensteinen in Projekten.

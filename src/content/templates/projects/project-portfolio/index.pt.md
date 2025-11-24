@@ -10,6 +10,7 @@ seo:
     title: 'Portfólio de Projetos: Gestão Centralizada'
     description: 'Gerencie projetos, priorize recursos e obtenha insights para suas decisões com uma visão geral centralizada.'
 template: '1acd19d97c8f4ed3ad38'
+weight: 2
 ---
 
 Crie uma carteira de projectos para gerir e analisar todos os projectos da sua empresa numa localização central. A nossa ferramenta gratuita de carteira de projectos oferece-lhe tudo o que precisa para o fazer.

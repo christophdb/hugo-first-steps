@@ -11,6 +11,7 @@ seo:
     title: 'Modelo lista de livros – sua biblioteca organizada'
     description: 'Digitalize e organize sua biblioteca: controle títulos, autores, temas e empréstimos facilmente com modelo grátis.'
 template: '1a98cfea0a6548d599c3'
+weight: 1
 ---
 
 Se aprecia bons livros, vai adorar a SeaTable: Porque com a nossa aplicação de livros, pode pôr ordem na sua biblioteca privada! Independentemente de os tomos estarem empilhados na sua secretária, a encher paredes de prateleiras ou a viver as suas vidas em caixas - com a SeaTable sabe sempre onde está um livro em qualquer altura.

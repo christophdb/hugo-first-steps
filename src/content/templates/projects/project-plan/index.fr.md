@@ -11,6 +11,7 @@ seo:
     title: 'Modèle de plan de projet – Gantt, Kanban, téléchargement'
     description: 'Planifiez vos projets avec Gantt & Kanban : modèle gratuit pour gérer tâches, délais et progrès par équipe – prêt à l’emploi.'
 template: 'f5a615ac93104c44a1e4'
+weight: 3
 ---
 
 Lagestion de projetexige une planification précise de toutes les tâches à accomplir. Mais cela peut vite devenir confus, surtout pour les grands projets : Vous devez définir à l'avance les tâches, les délais et les responsabilités, garder un œil sur l'avancement du projet et être en mesure de réagir de manière flexible aux modifications du plan. Normalement,des outils de gestion de projetspéciaux sont nécessaires pour cela, mais ils coûtent souvent très cher. Heureusement, il existe lemodèle de plan de projet gratuitde SeaTable ! Vous pouvez ainsi créer un plan de projet très facilement et selon vos souhaits.

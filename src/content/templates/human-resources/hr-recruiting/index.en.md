@@ -9,6 +9,7 @@ seo:
     title: 'HR Recruiting Template – Applicant Tracking & Workflow'
     description: 'Streamline your hiring with our HR recruiting template: manage candidates, interviews & tracking in one digital HR workflow.'
 template: '9abba02477a7435eb3d7'
+weight: 3
 ---
 
 Recruiting and HR are often responsible for advertising open positions and the entire applicant management. This is where applications, deadline management and communication come together: In order not to lose track of everything, well-structured applicant management is very important so that you can handle the entire application process in a comprehensible manner.

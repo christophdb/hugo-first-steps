@@ -11,6 +11,7 @@ seo:
     title: 'Gestión de sucursales: plantilla integral'
     description: 'Administra sucursales, ventas, personal y materiales fácilmente desde una sola base digital.'
 template: 'c090ef310bd54007ab0a'
+weight: 3
 ---
 
 Nuestra plantilla de gestión de sucursales le facilita la gestión de las mismas. La plantilla le ayuda a optimizar los procesos entre las distintas sucursales y la oficina central. Hace que su trabajo sea más claro y eficiente. Facilita a sus gestores de ventas la evaluación y la mejora de las tiendas individuales y le ofrece una visión general del volumen de negocio y de la fuerza de las ventas geográficas de todas las tiendas.

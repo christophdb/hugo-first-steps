@@ -11,6 +11,7 @@ seo:
     title: 'Lista de Tarefas: Organize e Priorize Já'
     description: 'Estruture, priorize e acompanhe tarefas online – mantenha seu time focado e nunca perca prazos.'
 template: '6381c036ff2649739c80'
+weight: 1
 ---
 
 Acabou de finalizar um plano, uma chamada telefónica tira-o dos seus pensamentos e já não se lembra do que estava prestes a fazer? Na vida profissional quotidiana e stressante, acontece frequentemente que as tarefas se sobrepõem no tempo e as actividades decorrem em paralelo.

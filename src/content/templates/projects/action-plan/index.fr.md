@@ -11,6 +11,7 @@ seo:
     title: "Utiliser le modèle de plan d'action pour améliorer les processus"
     description: "Améliorez votre gestion de la qualité avec ce modèle. Définissez des actions, attribuez des responsables et gardez une vue d'ensemble."
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 Ce modèle a été conçu pour un service de communication fictif d'une grande entreprise. Dans ce service, toutes les activités de marketing et de communication doivent être planifiées très tôt, souvent un an à l'avance.

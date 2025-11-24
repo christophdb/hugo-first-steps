@@ -11,6 +11,7 @@ seo:
     title: 'Liste de tâches: Gérer, prioriser, réussir'
     description: 'Organisez, suivez et priorisez toutes vos tâches. Visualisez facilement l’avancement de vos projets d’équipe.'
 template: '6381c036ff2649739c80'
+weight: 1
 ---
 
 Alors que vous étiez en train de préparer un plan, un coup de téléphone vous tire de vos pensées et vous ne savez déjà plus ce que vous vouliez faire ? Dans le stress du travail quotidien, il arrive souvent que des tâches se chevauchent dans le temps et que des activités se déroulent en parallèle.

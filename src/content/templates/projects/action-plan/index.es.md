@@ -11,6 +11,7 @@ seo:
     title: 'Utilice la plantilla del plan de acción para mejorar los procesos'
     description: 'Mejore su gestión de la calidad con esta plantilla. Defina medidas, asigne responsabilidades y mantenga una visión de conjunto.'
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 Esta plantilla se desarrolló para un departamento de comunicación ficticio de una gran empresa. En este departamento, todas las actividades de marketing y comunicación deben planificarse con mucha antelación, a menudo con un año de antelación.

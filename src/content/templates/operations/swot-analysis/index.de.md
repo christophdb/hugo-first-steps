@@ -11,6 +11,7 @@ seo:
     title: 'SWOT Analyse Vorlage: Stärken, Schwächen, Chancen'
     description: 'SWOT-Analyse als effektives Tool : Mit kostenloser Vorlage Stärken, Schwächen, Chancen und Risiken systematisch erfassen.'
 template: '13fe52fa8c814d5bbeb7'
+weight: 3
 ---
 
 Die SWOT-Analyse (englisches Akronym für Strengths, Weaknesses, Opportunities, Threats) ist eine nützliche Methode, um die aktuelle Positionierung und Strategie Ihres Unternehmens zu verstehen. Sie hilft dabei, Stärken gezielt einzusetzen, Schwächen zu minimieren, Chancen zu erkennen und potenzielle Risiken frühzeitig zu bewältigen. Mit einer klar strukturierten Analyse schaffen Sie die Grundlage für fundierte Entscheidungen und nachhaltigen Erfolg.

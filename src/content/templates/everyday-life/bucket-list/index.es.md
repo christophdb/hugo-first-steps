@@ -9,6 +9,7 @@ seo:
     title: 'Plantilla Bucket List: sueños, viajes y logros'
     description: 'Organiza online grandes metas, sueños y deseos vitales: añade, combina y comparte fácilmente con plantilla editable.'
 template: '9c1486a65e97457a9fdc'
+weight: 2
 ---
 
 Los sueños y los objetivos son las estrellas guía que nos ofrecen orientación y nos sirven de ancla en tiempos turbulentos. Para muchas personas, la vida se considera plena cuando han alcanzado sus principales metas e hitos. Una lista de cosas que hacer antes de morir te da una estructura y un enfoque claro de lo que quieres conseguir en la vida a corto o largo plazo. Cada objetivo que se marca es un éxito que aumenta la confianza en uno mismo y nos transmite una sensación positiva.

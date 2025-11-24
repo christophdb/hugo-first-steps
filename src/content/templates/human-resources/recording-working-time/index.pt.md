@@ -11,6 +11,7 @@ seo:
     title: 'Modelo controle de ponto: registro digital e compliance'
     description: 'Controle horas, folgas e férias no modelo digital – conformidade com a lei europeia e praticidade para equipes de RH e empresas.'
 template: '7b72578c0e714750954a'
+weight: 2
 ---
 
 Quer implementar na sua empresa o registo obrigatório do tempo de trabalho da UE? Então descubra o nosso modelo sofisticado de registo de tempo de trabalho simples, eficiente e em conformidade com a lei. Com uma assinatura Enterprise, o modelo está totalmente disponível para si sem custos adicionais, mas também pode utilizar o modelo (sem automatismos) com uma assinatura Plus ou uma conta gratuita.

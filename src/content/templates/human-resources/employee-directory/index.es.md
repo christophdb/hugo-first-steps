@@ -11,6 +11,7 @@ seo:
     title: 'Plantilla de directorio de empleados: visión general rápida'
     description: 'Utiliza nuestra plantilla para ver puestos, departamentos y datos de contacto del personal de tu empresa en un solo lugar.'
 template: 'e3d0d9a9139c46c58bf0'
+weight: 1
 ---
 
 Especialmente en las empresas que carecen de una base de datos central de empleados, es importante crear un directorio de empleados, no sólo por su visión de conjunto, sino también para tener siempre a mano todos los datos de contacto relevantes. Con un directorio detallado, no sólo sabrá qué empleados trabajan dónde, sino también instancias importantes como el director general. Además, sus empleados se conocerán mejor entre sí. Esto tiene un efecto positivo en la cultura de la empresa.

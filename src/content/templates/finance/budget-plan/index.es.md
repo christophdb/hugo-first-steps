@@ -9,6 +9,7 @@ seo:
     title: 'Planificación de presupuesto sencilla'
     description: 'Planifica y controla fácilmente tu presupuesto empresarial con análisis y objetivos claros.'
 template: '8fa08d31d16c4a54a1bb'
+weight: 2
 ---
 
 ¿Ha planificado ya su presupuesto para el próximo año? Esta plantilla le ayuda a analizar los gastos del ejercicio en curso para derivar previsiones para el futuro y alinear su plan presupuestario con sus objetivos empresariales. Es adecuada para cualquier empresa, departamento o equipo de proyecto que disponga de presupuesto.

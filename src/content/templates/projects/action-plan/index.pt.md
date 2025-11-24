@@ -11,6 +11,7 @@ seo:
     title: 'Utilize um modelo de plano de ação para melhorar os processos'
     description: 'Melhore a sua gestão da qualidade com este modelo. Defina medidas, atribua responsabilidades e mantenha uma visão geral.'
 template: 'f8cbffefa532432e9ca8'
+weight: 4
 ---
 
 Este modelo foi desenvolvido para um departamento de comunicação fictício de uma grande empresa. Neste departamento, todas as actividades de marketing e comunicação têm de ser planeadas muito cedo, muitas vezes com um ano de antecedência.

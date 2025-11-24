@@ -11,6 +11,7 @@ seo:
     title: 'Fuhrparkmanagement Software: Flotte effizient verwalten'
     description: 'Moderne Fuhrparkmanagement Software für Unternehmen – kostenlos, sicher, skalierbar.'
 template: 'd781991c26e24261bdce'
+weight: 1
 ---
 
 ## Optimieren Sie Ihr Flottenmanagement mit unserer kostenlosen Fuhrparkmanagement Software

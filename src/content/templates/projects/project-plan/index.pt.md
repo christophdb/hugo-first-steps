@@ -11,6 +11,7 @@ seo:
     title: 'Modelo de plano de projeto: grátis com Gantt e Kanban'
     description: 'Visualize e acompanhe seu projeto: modelo gratuito com timeline Gantt, quadro Kanban, tarefas e progresso – perfeito p/ qualquer equipe.'
 template: 'f5a615ac93104c44a1e4'
+weight: 3
 ---
 
 A gestão de projectosrequer um planeamento preciso de todas as tarefas futuras. No entanto, isto pode tornar-se rapidamente confuso, especialmente em projectos de maior dimensão: É necessário definir antecipadamente as tarefas, os horizontes temporais e as responsabilidades, acompanhar o progresso durante o projeto e ser sempre capaz de reagir de forma flexível a alterações nos planos. Normalmente, são necessáriasferramentasespeciaisde gestão de projectospara este efeito, mas estas custam muitas vezes muito dinheiro. É bom que omodelo de plano de projeto gratuitoda SeaTable esteja disponível! Permite-lhe criar facilmente um plano de projeto de acordo com os seus desejos.

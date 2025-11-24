@@ -11,6 +11,7 @@ seo:
     title: 'Modèle gestion immobilière : loyers & locataires'
     description: 'Centralisez tous vos biens, loyers, tâches & bailleurs : modèle tout-en-un pour votre gestion locative immobilière.'
 template: '6f9a2b4869804608978c'
+weight: 1
 ---
 
 Si vous possédez et louez plusieurs biens immobiliers, vous êtes rapidement confronté à des défis organisationnels : vous devez stocker des informations et des photos de vos biens loués, enregistrer les données et les documents de vos locataires, surveiller chaque mois les revenus locatifs et faire effectuer les entretiens et les réparations.

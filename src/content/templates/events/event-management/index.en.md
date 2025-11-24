@@ -9,6 +9,7 @@ seo:
     title: 'Template for event management: Simple planning & implementation'
     description: 'Plan, organize and track every detail. With this event management template, your events will succeed effortlessly'
 template: 'bb4d007014a64a18be06'
+weight: 2
 ---
 
 Whether you are planning concerts, festivals or trade fairs - good organization is a must for every event. It doesn't matter whether you are organizing an event for the first time or are an experienced event manager.

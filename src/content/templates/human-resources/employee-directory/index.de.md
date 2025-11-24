@@ -9,6 +9,7 @@ seo:
     title: 'Mitarbeiterverzeichnis Vorlage: Überblick über alle Mitarbeiter'
     description: 'Nutzen Sie unsere Mitarbeiterverzeichnis-Vorlage für den schnellen Überblick über Positionen, Abteilungen und Kontaktdaten im Unternehmen.'
 template: 'e3d0d9a9139c46c58bf0'
+weight: 1
 ---
 
 Gerade in Unternehmen ohne zentrale Mitarbeiterdatenbank ist es wichtig, ein Mitarbeiterverzeichnis anzulegen – nicht nur für Ihre Übersicht, sondern auch um alle relevanten Kontaktdaten immer parat zu haben. Mit einem ausführlichen Verzeichnis wissen nicht nur Sie, welche Mitarbeiter wo arbeiten, sondern auch wichtige Instanzen wie der Geschäftsführer. Zudem lernen sich Ihre Mitarbeiter gegenseitig besser kennen. Das wirkt sich positiv auf die Firmenkultur aus!
