@@ -1,6 +1,6 @@
 ---
 title: 'Plan de rédaction'
-description: ''
+description: 'Visualisez intrigues et personnages, structurez chaque chapitre et centralisez tous les éléments de votre projet d’écriture efficacement.'
 date: '2024-08-24'
 url: '/fr/modele/plan-ecriture'
 aliases:

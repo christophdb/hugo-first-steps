@@ -1,13 +1,13 @@
 ---
 title: 'Action Plan'
-description: 'Plan all your marketing and communication activities a year in advance.'
+description: 'Create and manage actions clearly: assign responsibilities and track progress in one place. Clear goals, priorities, and deadlines ensure effective execution and reliable processes.'
 date: '2024-08-24'
 url: '/template/action-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Use action plan template for better processes'
+    description: 'Improve your quality management with this template. Define measures, assign responsibilities and maintain an overview.'
 template: 'f8cbffefa532432e9ca8'
 ---
 

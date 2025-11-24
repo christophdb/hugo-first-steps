@@ -1,13 +1,15 @@
 ---
 title: 'Registo do tempo do projeto'
-description: ''
+description: 'Registre tempos e despesas, crie faturas e analise a produtividade da equipe de qualquer lugar, com segurança e total organização.'
 date: '2025-03-12'
-url: '/pt/modelo/project-time-tracking'
+url: '/pt/modelo/controle-tempo-projeto'
+aliases:
+    - '/pt/modelo/project-time-tracking'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Controle de Tempo de Projeto: Fácil e Online'
+    description: 'Registre horas de projetos, organize tarefas, emita faturas e acompanhe a produtividade em tempo real – web e app.'
 template: 'c6cc4782daa548b2b19d'
 ---
 

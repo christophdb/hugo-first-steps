@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de quadro Kanban'
-description: "Com este modelo de quadro Kanban, pode visualizar e controlar digitalmente os processos de trabalho, registar tarefas de forma centralizada, trabalhar em tempo real em equipa e otimizar os seus projectos com automação flexível e painéis de análise."
+description: "Organize equipes, automatize processos e acompanhe projetos em tempo real – tudo isso com segurança, flexibilidade e fácil análise."
 date: '2025-03-05'
 url: '/pt/modelo/quadro-kanban-gratis'
 aliases:

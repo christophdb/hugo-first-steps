@@ -1,13 +1,15 @@
 ---
 title: 'Plano de acção'
-description: ''
+description: 'Crie e acompanhe ações com clareza: defina responsáveis e monitore o progresso centralmente. Metas, prioridades e prazos claros resultam em processos eficazes.'
 date: '2024-08-24'
-url: '/pt/modelo/action-plan'
+url: '/pt/modelo/plano-de-acao'
+aliases:
+    - '/pt/modelo/action-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Utilize um modelo de plano de ação para melhorar os processos'
+    description: 'Melhore a sua gestão da qualidade com este modelo. Defina medidas, atribua responsabilidades e mantenha uma visão geral.'
 template: 'f8cbffefa532432e9ca8'
 ---
 

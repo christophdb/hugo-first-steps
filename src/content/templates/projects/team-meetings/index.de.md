@@ -1,6 +1,6 @@
 ---
 title: 'Teambesprechungen'
-description: ''
+description: 'Organisieren und protokollieren Sie Meetings digital, teilen Sie Agenden, Aufgaben und Protokolle transparent im Team.'
 date: '2025-03-03'
 url: '/de/vorlage/team-meetings'
 aliases:

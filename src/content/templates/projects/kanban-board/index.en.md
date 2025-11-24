@@ -1,6 +1,6 @@
 ---
 title: 'Kanban Board'
-description: 'With this Kanban board template, you can visualize and control work processes digitally, record tasks centrally, work in real time in a team and optimize your projects with flexible automation and analysis dashboards.'
+description: 'Visualize tasks online, collaborate in real time and accelerate productivity using customizable boards with flexible automations and analytics dashboards.'
 date: '2025-03-05'
 url: '/template/kanban-board-freeware'
 aliases:

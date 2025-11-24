@@ -1,6 +1,6 @@
 ---
 title: 'Plan de escritura'
-description: ''
+description: 'Planifique tramas, capítulos, personajes y lugares; centralice toda la información clave para avanzar en su manuscrito.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-escritura'
 aliases:

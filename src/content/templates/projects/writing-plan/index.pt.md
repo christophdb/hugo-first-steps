@@ -1,6 +1,6 @@
 ---
 title: 'Plano de redação'
-description: ''
+description: 'Planeje trama, personagens e capítulos, centralize inspirações e recursos para facilitar todo o processo de escrita do seu livro.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-escrita'
 aliases:

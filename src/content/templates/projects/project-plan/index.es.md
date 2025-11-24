@@ -1,6 +1,6 @@
 ---
 title: 'Plantilla de plan de proyecto'
-description: ''
+description: 'Coordine tareas y entregas en su equipo, visualice avances en Gantt o Kanban y gestione proyectos con la máxima claridad y control.'
 date: '2025-03-07'
 url: '/es/plantilla/plan-proyecto'
 aliases:

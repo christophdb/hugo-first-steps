@@ -1,13 +1,15 @@
 ---
 title: 'Estrutura analítica do trabalho'
-description: ''
+description: 'Estruture projetos, distribua e organize tarefas e visualize avanços com total clareza e praticidade para toda a equipe.'
 date: '2024-08-17'
-url: '/pt/modelo/work-breakdown-structure'
+url: '/pt/modelo/estrutura-analitica-projeto'
+aliases:
+    - '/pt/modelo/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Estrutura Analítica do Projeto: Organize Fases'
+    description: 'Divida projetos em tarefas, atribua responsáveis e monitore o progresso claramente com este modelo visual.'
 template: '898485ee9b7949c5b987'
 ---
 

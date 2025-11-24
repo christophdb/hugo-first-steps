@@ -1,12 +1,14 @@
 ---
 title: 'Portefeuille de projets'
-description: ''
-url: '/fr/modele/project-portfolio'
+description: 'Centralisez tous les projets, analysez ressources et priorités et simplifiez la prise de décision dans toute l’entreprise.'
+url: '/fr/modele/portefeuille-projets'
+aliases:
+    - '/fr/modele/project-portfolio'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Portefeuille de projets: Vue d’ensemble centralisée'
+    description: 'Gérez vos projets et ressources, analysez les objectifs et améliorez la gestion stratégique de votre portfolio.'
 template: '1acd19d97c8f4ed3ad38'
 ---
 

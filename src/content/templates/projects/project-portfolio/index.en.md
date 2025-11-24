@@ -1,12 +1,12 @@
 ---
 title: 'Project portfolio'
-description: 'Create an overview of all projects in your company.'
+description: 'Organize and analyze all projects in one dashboard, prioritize resources and support better project management for your entire organization.'
 url: '/template/project-portfolio'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Project Portfolio: Centralized Project Overview'
+    description: 'Manage projects, resources and priorities in one place. Analyze your portfolio and drive data-supported decisions.'
 template: '1acd19d97c8f4ed3ad38'
 ---
 

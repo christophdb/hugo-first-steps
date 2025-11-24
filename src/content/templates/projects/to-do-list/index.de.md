@@ -1,13 +1,13 @@
 ---
 title: 'To-Do-Liste'
-description: 'Strukturieren Sie Ihre Arbeit und vergessen Sie nie wieder wichtige To-dos.'
+description: 'Strukturieren und priorisieren Sie Ihre Aufgaben digital, arbeiten Sie im Team und behalten Sie stets alle To-dos im Blick.'
 date: 2024-08-30
 url: '/de/vorlage/to-do-list'
 category: 'projekte'
 functions:
 seo:
-    title: 'Vorlage: To-Do-Liste'
-    description: ''
+    title: 'To-Do-Liste Vorlage: Aufgaben einfach organisieren'
+    description: 'Strukturiert, priorisiert und flexibel – organisieren Sie Ihre Aufgaben digital, behalten Sie Fristen und Fortschritt im Blick.'
 template: '6381c036ff2649739c80'
 ---
 

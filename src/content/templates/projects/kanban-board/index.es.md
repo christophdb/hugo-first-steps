@@ -1,6 +1,6 @@
 ---
 title: 'Plantilla de tablero Kanban'
-description: 'Con esta plantilla de tablero Kanban, podrá visualizar y controlar digitalmente los procesos de trabajo, registrar las tareas de forma centralizada, trabajar en tiempo real en equipo y optimizar sus proyectos con cuadros de automatización y análisis flexibles.'
+description: 'Gestione tareas en equipo, automatice procesos, acceda en línea y controle la seguridad y el análisis de sus proyectos fácilmente.'
 date: '2025-03-05'
 url: '/es/plantilla/tablero-kanban-gratis'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Структура разбивки работ'
-description: ''
+description: 'Структурируйте задачи, распределяйте ответственность и отслеживайте ход выполнения для полной прозрачности проекта.'
 date: '2024-08-17'
 url: '/ru/shablon/strukturnoy-dekompozitsii-rabot'
 aliases:
@@ -8,8 +8,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон WBS: структура и контроль проекта'
+    description: 'Делите проект на задачи и этапы, назначайте ответственных и следите за прогрессом в одном удобном шаблоне.'
 template: '898485ee9b7949c5b987'
 ---
 

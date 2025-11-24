@@ -1,6 +1,6 @@
 ---
 title: 'Modèle de tableau Kanban'
-description: "Ce modèle de tableau Kanban vous permet de visualiser et de contrôler numériquement les processus de travail, de centraliser les tâches, de travailler en équipe en temps réel et d'optimiser vos projets grâce à des automatisations flexibles et des tableaux de bord d'analyse."
+description: "Gérez vos projets, travaillez en équipe et optimisez les flux via des automations et dashboards analytiques, toujours en conformité et à distance."
 date: '2025-03-05'
 url: '/fr/modele/tableau-kanban-gratuit'
 aliases:

@@ -1,12 +1,14 @@
 ---
 title: 'Carteira de projectos'
-description: ''
-url: '/pt/modelo/project-portfolio'
+description: 'Centralize o controle, priorize recursos e obtenha dados claros para melhorar a tomada de decisões nos seus projetos empresariais.'
+url: '/pt/modelo/portfolio-de-projetos'
+aliases:
+    - '/pt/modelo/project-portfolio'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Portfólio de Projetos: Gestão Centralizada'
+    description: 'Gerencie projetos, priorize recursos e obtenha insights para suas decisões com uma visão geral centralizada.'
 template: '1acd19d97c8f4ed3ad38'
 ---
 

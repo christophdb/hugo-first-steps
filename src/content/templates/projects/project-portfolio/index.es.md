@@ -1,12 +1,14 @@
 ---
 title: 'Cartera de proyectos'
-description: ''
-url: '/es/plantilla/project-portfolio'
+description: 'Gestione y supervise todos los proyectos, priorice recursos y mejore la toma de decisiones con una visión clara y centralizada.'
+url: '/es/plantilla/portafolio-proyectos'
+aliases:
+    - '/es/plantilla/project-portfolio'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Portfolio de Proyectos: Visión Centralizada'
+    description: 'Administre proyectos y recursos en un solo lugar. Analice objetivos y optimice la gestión de su cartera de proyectos.'
 template: '1acd19d97c8f4ed3ad38'
 ---
 

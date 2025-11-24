@@ -1,13 +1,15 @@
 ---
 title: "Plan d'action"
-description: ''
+description: 'Créez et suivez vos actions en toute clarté : attribuez les responsabilités et surveillez l’avancement en un seul endroit. Objectifs, priorités et échéances claires pour des processus efficaces.'
 date: '2024-08-24'
-url: '/fr/modele/action-plan'
+url: '/fr/modele/plan-d-action'
+aliases:
+    - '/fr/modele/action-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: "Utiliser le modèle de plan d'action pour améliorer les processus"
+    description: "Améliorez votre gestion de la qualité avec ce modèle. Définissez des actions, attribuez des responsables et gardez une vue d'ensemble."
 template: 'f8cbffefa532432e9ca8'
 ---
 

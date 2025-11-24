@@ -1,14 +1,14 @@
 ---
 title: 'Projektportfolio'
-description: 'Erstellen Sie eine Gesamtübersicht aller Projekte in Ihrem Unternehmen.'
+description: 'Steuern und analysieren Sie alle Projekte zentral. Prüfen Sie Prioritäten und Ressourcen und erleichtern Sie das Projektmanagement im Unternehmen.'
 url: '/de/vorlage/projektportfolio'
 aliases:
     - '/de/vorlage/project-portfolio'
 category: 'projekte'
 functions:
 seo:
-    title: 'Projektportfolio - Projekte jetzt effizient starten'
-    description: 'Finden Sie die perfekte Vorlage für Ihr Projekt. Passen Sie sie an Ihre Anforderungen an und steigern Sie Ihre Effizienz im Handumdrehen'
+    title: 'Projektportfolio: Zentrale Übersicht aller Projekte'
+    description: 'FVerwalten Sie Projekte, Ressourcen und Ziele zentral. Analysieren Sie Ihr Projektportfolio und treffen Sie fundierte Entscheidungen.'
 template: '1acd19d97c8f4ed3ad38'
 ---
 

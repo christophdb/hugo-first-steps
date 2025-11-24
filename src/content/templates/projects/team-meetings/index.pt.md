@@ -1,6 +1,6 @@
 ---
 title: 'Reuniões de equipa'
-description: ''
+description: 'Centralize agendas, atas e atribuições de tarefas; organize reuniões e mantenha toda a equipe bem informada e alinhada.'
 date: '2025-03-03'
 url: '/pt/modelo/reuniao-equipe'
 aliases:

@@ -1,13 +1,15 @@
 ---
 title: 'Plan de acción'
-description: ''
+description: 'Genere y controle medidas con claridad: asigne responsables y supervise el avance en un único sitio. Objetivos, prioridades y plazos claros garantizan una ejecución eficaz.'
 date: '2024-08-24'
-url: '/es/plantilla/action-plan'
+url: '/es/plantilla/plan-de-accion'
+aliases:
+    - '/es/plantilla/action-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Utilice la plantilla del plan de acción para mejorar los procesos'
+    description: 'Mejore su gestión de la calidad con esta plantilla. Defina medidas, asigne responsabilidades y mantenga una visión de conjunto.'
 template: 'f8cbffefa532432e9ca8'
 ---
 
