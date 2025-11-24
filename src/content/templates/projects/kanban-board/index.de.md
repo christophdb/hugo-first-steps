@@ -1,6 +1,6 @@
 ---
 title: 'Kanban Board Vorlage'
-description: ''
+description: 'Mit dieser Kanban Board Vorlage visualisieren und steuern Sie Arbeitsprozesse digital, erfassen Aufgaben zentral, arbeiten in Echtzeit im Team und optimieren Ihre Projekte mit flexiblen Automatisierungen und Analyse-Dashboards.'
 date: '2025-03-05'
 url: '/de/vorlage/kanban-board-freeware'
 aliases:

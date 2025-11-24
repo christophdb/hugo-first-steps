@@ -1,6 +1,6 @@
 ---
 title: 'Net Promoter Score (NPS) Form'
-description: ''
+description: 'With this template, you can record and analyse customer feedback centrally via an NPS survey, visualize results in real time and immediately identify potential for optimization.'
 date: '2024-08-24'
 url: '/template/nps-calculator'
 aliases:

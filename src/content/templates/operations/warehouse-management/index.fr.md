@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des stocks'
-description: ''
+description: "Optimisez vos processus d'entreposage avec une gestion centralisée de tous les stocks, emplacements et mouvements de marchandises. Les alertes automatiques vous permettent de rester informé et d'analyser les données des produits de manière flexible, tout en conservant une vue d'ensemble."
 date: '2025-07-18'
 url: '/fr/modele/gestion-des-stocks'
 category: 'operations'

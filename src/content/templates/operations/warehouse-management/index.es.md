@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de almacenes'
-description: ''
+description: 'Optimice los procesos de su almacén con una gestión centralizada de todas las existencias, ubicaciones de almacenamiento y movimientos de mercancías. Las notificaciones automáticas proporcionan información actualizada, mientras que usted puede analizar con flexibilidad los datos de los productos y mantener siempre una visión de conjunto.'
 date: '2025-07-18'
 url: '/es/plantilla/gestion-de-almacenes'
 category: 'operations'
