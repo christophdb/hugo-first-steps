@@ -1,6 +1,6 @@
 ---
 title: 'Organizador de casamentos'
-description: ''
+description: 'Mantenha tarefas, lista de convidados e orçamento do casamento sob controle digital e sem estresse. Planeje, gerencie e compartilhe as informações no mesmo lugar para uma celebração perfeita.'
 date: '2024-08-24'
 url: '/pt/modelo/planejador-casamento'
 aliases:

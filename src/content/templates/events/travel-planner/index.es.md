@@ -1,6 +1,6 @@
 ---
 title: 'Planificador de viajes'
-description: ''
+description: 'Organice su viaje de forma digital y sin estrés: tenga destinos, actividades, documentos y gastos bajo control. Planifique en grupo, suba recuerdos y acceda a todo desde cualquier lugar.'
 date: '2024-08-17'
 url: '/es/plantilla/planificador-viajes'
 aliases:

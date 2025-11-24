@@ -1,13 +1,13 @@
 ---
 title: 'Calendario de Adviento'
-description: ''
+description: 'Cree su calendario de adviento digital con sorpresas o medios propios y compártalo por enlace. Adapte los contenidos a gusto y genere ilusión junto a familia, amigos o colegas. Sencillo de crear y de compartir: ¡más espíritu navideño para todos!'
 date: '2025-02-28'
 url: '/es/plantilla/advent-calendar'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla sencilla de calendario de Adviento para equipos y familia'
+    description: 'Cree fácilmente su propio calendario digital de Adviento para amigos, familiares o su equipo. Planifique y comparta sorpresas'
 template: '618993ff2f964dadb460'
 ---
 

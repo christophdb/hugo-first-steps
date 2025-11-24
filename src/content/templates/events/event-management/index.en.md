@@ -1,14 +1,13 @@
 ---
 title: 'Event Management'
-description: 'This tool allows you to keep an eye on all the important details when planning your event.'
-url: '/template/event-management'
+description: 'Control all tasks, attendees, and budgets in one place. Manage registrations and event data automatically for fast, clear processes. Make your events efficient and organized every time.'
 aliases:
     - '/event-management/'
 category: 'events'
 functions:
 seo:
-    title: 'Vorlage: Event Management'
-    description: ''
+    title: 'Template for event management: Simple planning & implementation'
+    description: 'Plan, organize and track every detail. With this event management template, your events will succeed effortlessly'
 template: 'bb4d007014a64a18be06'
 ---
 

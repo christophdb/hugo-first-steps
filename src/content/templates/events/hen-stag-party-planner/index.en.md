@@ -1,6 +1,6 @@
 ---
 title: 'Hen & Stag Party Planner'
-description: ''
+description: 'Plan your bachelor(ette) party easily: manage guests, schedule, and budget digitally. Assign tasks and keep all info in one place for fast, seamless organization.'
 date: '2024-09-06'
 url: '/template/hen-stag-party-planner'
 category: 'events'

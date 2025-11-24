@@ -1,13 +1,13 @@
 ---
 title: "Calendrier de l'Avent"
-description: ''
+description: "Créez votre calendrier de l’avent digital, ajoutez vos surprises ou médias et partagez-le par lien. Modifiez le contenu librement, pour une anticipation festive partagée entre proches. Facile à créer et à diffuser – ambiance de Noël garantie !"
 date: '2025-02-28'
 url: '/fr/modele/advent-calendar'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: "Modèle de calendrier de l'Avent simple pour les équipes et la famille"
+    description: "Créez facilement votre propre calendrier de l'Avent numérique pour vos amis, votre famille ou votre équipe. Planifier et partager des surprises"
 template: '618993ff2f964dadb460'
 ---
 
