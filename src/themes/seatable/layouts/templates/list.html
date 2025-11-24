@@ -35,7 +35,7 @@
                             </div>
                             <a href="{{ $subsection.RelPermalink }}" class="rounded-xl bg-blue-50 px-4 py-2 !no-underline hover:bg-blue-100">Alle anzeigen</a>
                         </div>
-                        <div class="mb-20 grid grid-cols-3 gap-4">
+                        <div class="mb-20 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                             {{ range first 3 $subsection.RegularPages }}
                                 <div class="rounded-lg border border-gray-400">
                                     <a href="{{ .RelPermalink }}">
