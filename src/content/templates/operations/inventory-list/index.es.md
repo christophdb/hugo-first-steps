@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de lista de inventario'
-description: ''
+description: 'Gestione inventarios, optimice productos y realice análisis para tomar mejores decisiones logísticas, todo online y seguro.'
 date: '2025-02-28'
 url: '/es/plantilla/lista-inventario'
 aliases:
