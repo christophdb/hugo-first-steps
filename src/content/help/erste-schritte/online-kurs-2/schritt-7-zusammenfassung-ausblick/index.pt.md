@@ -18,7 +18,7 @@ Parabéns! Criou um quadro sólido que lhe permite gerir eficazmente o seu progr
 - Pode registar e gerir claramente os seus cursos.
 - Os participantes podem inscrever-se nos cursos através de um formulário Web.
 - Tem sempre uma visão geral dos cursos que estão totalmente reservados e dos que ainda estão disponíveis.
-- Sie können den Zahlungsstatus Ihrer Teilnehmer nachverfolgen.
+- Pode acompanhar o estado dos pagamentos dos seus participantes.
 - Ao enviar mensagens de correio eletrónico aos participantes (confirmações de inscrição, pedidos de pagamento, confirmações de participação), tem todo o processo do curso sob controlo.
 
 ## O caminho para o sucesso: passo a passo

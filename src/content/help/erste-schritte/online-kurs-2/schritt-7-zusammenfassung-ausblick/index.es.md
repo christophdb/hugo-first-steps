@@ -18,7 +18,7 @@ seo:
 - Puede registrar y gestionar claramente sus cursos.
 - Los participantes pueden inscribirse en los cursos a través de un formulario web.
 - Siempre tendrá una visión general de los cursos que están completos y los que aún están disponibles.
-- Sie können den Zahlungsstatus Ihrer Teilnehmer nachverfolgen.
+- Puede realizar un seguimiento del estado de pago de sus participantes.
 - Enviando correos electrónicos a los participantes (confirmaciones de inscripción, solicitudes de pago, confirmaciones de participación), tendrá todo el proceso del curso bajo control.
 
 ## El camino hacia el éxito: paso a paso

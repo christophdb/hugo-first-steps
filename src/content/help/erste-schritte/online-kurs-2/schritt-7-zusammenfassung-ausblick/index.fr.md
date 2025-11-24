@@ -18,7 +18,7 @@ Toutes nos félicitations ! Vous avez maintenant créé une structure de base so
 - Vous pouvez saisir et gérer vos cours de manière claire.
 - Les participants peuvent s'inscrire aux cours via un formulaire web.
 - Vous avez à tout moment un aperçu des cours qui sont complets et de ceux qui sont encore disponibles.
-- Sie können den Zahlungsstatus Ihrer Teilnehmer nachverfolgen.
+- Vous pouvez suivre le statut de paiement de vos participants.
 - L'envoi d'e-mails aux participants (confirmations d'inscription, demandes de paiement, confirmations de participation) vous permet de maîtriser l'ensemble du déroulement du cours.
 
 ## La voie du succès : étape par étape

@@ -97,7 +97,7 @@ Em seguida, definir os **valores** com que determinados campos devem ser pré-pr
 
 ![Definição dos valores que são automaticamente adicionados à tabela quando a automatização é accionada](images/define-time-of-status-change-to-be-added-1.png)
 
-Um die verschiedenen **Bestellnummern** und die dazugehörigen **Beträge** in der Tabelle “Order-Status-Log” zu **zitieren**, schreiben Sie die Spaltennamen in geschweiften Klammern in das jeweilige Textfeld: {Order-ID} & {Amount}
+Para **citar** os diferentes **números de encomenda** e os **montantes** correspondentes na tabela "Order Status Log", escreva os nomes das colunas entre chaves no campo de texto respetivo: {ID da encomenda} & {Montante}
 
 ![Definição dos valores que são automaticamente adicionados à tabela quando a automatização é accionada](images/define-entries-to-be-added-to-table-after-automation.png)
 
@@ -107,6 +107,6 @@ Se **alterar** **o estado de** várias encomendas na sua tabela depois de confir
 
 ![Ajustamento do estado de várias encomendas](images/change-status-of-different-orders.gif)
 
-... tanto as horas das mudanças de estado como as entradas definidas (número de encomenda e montante) são automaticamente introduzidas na tabela "Registo do estado da encomenda".
+... tanto as horas das mudanças de estado como as entradas definidas (número de encomenda e montante) são automaticamente introduzidas na tabela "Order Status Log".
 
 ![Tabela Registo do estado da encomenda após o accionamento da automatização](images/table-after-automation-status.png)
