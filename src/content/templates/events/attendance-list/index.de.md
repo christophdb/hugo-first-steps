@@ -1,6 +1,6 @@
 ---
 title: 'Anwesenheitsliste Vorlage'
-description: ''
+description: 'Erfassen Sie die Anwesenheiten von Mitarbeitern und Teilnehmern.'
 date: '2025-02-28'
 url: '/de/vorlage/anwesenheitsliste-vorlage'
 aliases:

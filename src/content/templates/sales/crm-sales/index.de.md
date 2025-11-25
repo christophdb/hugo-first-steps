@@ -1,6 +1,6 @@
 ---
 title: 'CRM & Verkäufe'
-description: ''
+description: 'Erfassen Sie Kunden und Angebote und dokumentieren Sie sämtliche Interaktionen.'
 date: '2024-08-16'
 url: '/de/vorlage/crm-sales'
 category: 'sales'

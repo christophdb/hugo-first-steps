@@ -7,19 +7,21 @@
 
         <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
             <!-- Categories -->
-            <div class="toc post-toc mt-20 hidden w-1/4 min-w-[220px] lg:block">
+            <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
                 <div class="sticky top-8 py-2 pl-5">
-                    <h3 class="text-lg">{{ T "templates.categories" }}</h3>
+                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">{{ T "templates.categories" }}</h3>
 
                     {{ $section := .Site.GetPage "section" "templates" }}
-                    <ul>
-                        <li><a href="{{ relref . "templates" }}">{{ T "templates.all" }}</a></li>
+                    <div>
+                        <h2 class="mb-4 text-xl font-semibold">
+                            <a class="{{ if eq .Path "/templates" }}text-seatable-orange{{ end }}" href="{{ relref . "templates" }}">{{ T "templates.all" }}</a>
+                        </h2>
                         {{ range $section.Sections }}
-                            <li>
-                                <a href="{{ .RelPermalink }}" class="{{ if eq .RelPermalink $.RelPermalink }}border-l-4 border-orange-300{{ end }}">{{ .Title }}</a>
-                            </li>
+                            <h2 class="mb-4 text-xl font-semibold">
+                                <a href="{{ .RelPermalink }}" class="{{ if eq .RelPermalink $.RelPermalink }}text-seatable-orange{{ end }}">{{ .Title }}</a>
+                            </h2>
                         {{ end }}
-                    </ul>
+                    </div>
                 </div>
             </div>
 
@@ -37,8 +39,8 @@
                         </div>
                         <div class="mb-20 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                             {{ range first 3 $subsection.RegularPages }}
-                                <div class="rounded-lg border border-gray-400">
-                                    <a href="{{ .RelPermalink }}">
+                                <div class="duration-50 rounded-lg border border-gray-400 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                                    <a href="{{ .RelPermalink }}" class="!no-underline">
                                         {{ with .Resources.GetMatch "feature.*" }}
                                             <img src="{{ .RelPermalink }}" alt="{{ $.Title }} Feature Image" class="rounded-t-lg !border-b border-gray-200" />
                                         {{ end }}
@@ -46,7 +48,7 @@
 
                                         <h3 class="!px-4 !py-6 !text-xl tracking-tight">{{ .Title }}</h3>
                                         {{ with .Params.description }}
-                                            <p class="p-4 pt-0 !text-sm font-normal !leading-normal text-gray-600">{{ . }}</p>
+                                            <p class="p-4 pt-0 !text-sm font-normal !leading-relaxed text-gray-600">{{ . }}</p>
                                         {{ end }}
                                     </a>
                                 </div>
@@ -68,7 +70,7 @@
 
                                     <h3 class="!px-4 !py-6 !text-xl tracking-tight">{{ .Title }}</h3>
                                     {{ with .Params.description }}
-                                        <p class="p-4 pt-0 !text-sm font-normal !leading-normal text-gray-600">{{ . }}</p>
+                                        <p class="p-4 pt-0 !text-sm font-normal !leading-relaxed text-gray-600">{{ . }}</p>
                                     {{ end }}
 
                                 </a>

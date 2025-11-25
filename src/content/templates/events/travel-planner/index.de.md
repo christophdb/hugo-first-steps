@@ -1,6 +1,6 @@
 ---
 title: 'Reiseplaner'
-description: ''
+description: 'Organisieren Sie Ihre nächsten Reise mit SeaTable: von der Idee bis zum Budget.'
 date: '2024-08-17'
 url: '/de/vorlage/reiseplaner'
 aliases:

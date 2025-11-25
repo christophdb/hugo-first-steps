@@ -1,6 +1,6 @@
 ---
 title: 'Event Management'
-description: 'Mit diesem Tool behalten Sie alle wichtigen Details bei Ihrer Veranstaltungsplanung im Blick.'
+description: 'Behalten Sie alle wichtigen Details bei Ihrer Veranstaltungsplanung im Blick.'
 url: '/de/vorlage/event-management'
 category: 'ereignisse'
 functions:

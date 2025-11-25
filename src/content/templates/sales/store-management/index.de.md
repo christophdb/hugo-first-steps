@@ -1,6 +1,6 @@
 ---
 title: 'Filialverwaltung'
-description: ''
+description: 'Steuern Sie Ihr Filialen, Ihres Teams sowie POS-Material und Umsätze.'
 date: '2024-08-16'
 url: '/de/vorlage/filialverwaltung'
 aliases:

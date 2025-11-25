@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Kundenmanagement'
-description: ''
+description: 'Verwalten Sie Kunden, Termine, Umsätze und Angebote zentral in SeaTable.'
 date: '2025-04-05'
 url: '/de/vorlage/crm-offer-management'
 category: 'sales'
