@@ -1,11 +1,14 @@
 ---
 title: 'The best database solution for your team | SeaTable features'
-description: 'Discover the extensive functions of SeaTable: from flexible tables to powerful automations.'
+description: ''
 date: '2025-03-30'
 url: '/functions'
 aliases:
     - '/en/funktionen/'
     - '/funktionen/'
+seo:
+    title: 'Flexible Data Management & Automation'
+    description: 'Take control: Efficient tables, automation and secure teamwork. Discover the features of SeaTable for your team’s success.'
 
 sections:
     - name: hero-3

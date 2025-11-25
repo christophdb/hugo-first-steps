@@ -1,6 +1,6 @@
 ---
 title: 'Das flexible Projektmanagement-Tool für Ihr Team'
-description: 'Steigern Sie die Produktivität mit SeaTable. Das Projektmanagement-Tool lässt sich in einfachen Schritten an Ihre Bedürfnisse anpassen.'
+description: ''
 seo:
     title: 'Projektmanagement Tool flexibel & skalierbar | SeaTable'
     description: 'SeaTable – die flexible Projektmanagement Software für Teams jeder Größe. Kostenlos starten, Projekte einfach planen, Aufgaben automatisieren und DSGVO-konform.'

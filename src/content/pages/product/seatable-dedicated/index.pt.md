@@ -1,8 +1,12 @@
 ---
 title: 'SeaTable Dedicated: Segurança e personalização dos dados'
-description: 'Desfrute das vantagens da nuvem sem compromissos! O SeaTable Dedicated oferece o seu próprio sistema com controlo e manutenção total dos dados.'
+description: ''
 date: '2025-03-30'
 url: '/pt/dedicated'
+seo:
+    title: 'Nuvem dedicada: controle total e segurança'
+    description: 'Segurança, privacidade e gestão independente. SeaTable Dedicated garante flexibilidade, proteção e fácil manutenção ao negócio.'
+
 
 sections:
     - name: hero-5

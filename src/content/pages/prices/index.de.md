@@ -1,8 +1,11 @@
 ---
 title: 'SeaTable Preise: Transparente Tarife für jede Teamgröße'
-description: 'SeaTable bietet leistungsstarke Funktionen zu fairen Preisen. Entdecken Sie unsere verschiedenen Tarife und finden Sie die optimale Lösung für Ihre Datenverwaltung.'
+description: ''
 date: '2025-03-30'
 url: '/de/preise'
+seo:
+    title: 'SeaTable Preise: Transparente Tarife für jedes Team'
+    description: 'Entdecken Sie alle Funktionen zu fairen Preisen. Vergleichen Sie Tarife und wählen Sie Ihre perfekte Datenlösung.'
 
 sections:
     - name: hero-price

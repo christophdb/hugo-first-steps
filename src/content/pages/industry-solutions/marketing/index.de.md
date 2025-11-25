@@ -1,6 +1,6 @@
 ---
 title: 'Marketing Tool von SeaTable nutzen: Automatisieren Sie Prozesse'
-description: 'Entdecken Sie SeaTable als leistungsstarkes Marketing-Tool. Automatisieren Sie Prozesse, analysieren Sie Daten, steigern Sie Ihre Effizienz.'
+description: ''
 seo:
     title: 'Marketing Tool für Automatisierung & Analyse | SeaTable'
     description: 'Marketing Tool SeaTable: Automatisieren Sie Kampagnen, zentralisieren Sie Daten und analysieren Sie KPIs – für mehr Effizienz im digitalen Marketing.'

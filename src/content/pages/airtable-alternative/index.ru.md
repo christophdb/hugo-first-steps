@@ -1,11 +1,13 @@
 ---
 title: 'Альтернатива Airtable No 1 (облачная и локальная)'
-description: 'SeaTable, безусловно, является лучшей альтернативой Airtable – особенно если вы ищете решение для самостоятельного хостинга.'
+description: ''
 seo:
     title: 'Лучшая альтернатива Airtable для Вашей компании'
     description: 'SeaTable – это мощная альтернатива Airtable для команд любого размера. Откройте для себя гибкие базы данных, интеллектуальные рабочие процессы и многое другое'
 date: '2025-05-02'
-url: '/ru/airtable-alternative'
+url: '/ru/alternativa-airtable'
+aliases:
+  - '/ru/airtable-alternative'
 
 sections:
     - name: hero-5

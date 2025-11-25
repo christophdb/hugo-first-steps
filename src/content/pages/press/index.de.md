@@ -1,8 +1,11 @@
 ---
 title: 'SeaTable Presse: Neuigkeiten und Medienberichte'
-description: 'Erfahren Sie mehr über SeaTable und lesen Sie interessante Medienberichte, die unsere No-Code-Plattform näher beleuchten.'
+description: ''
 date: '2025-04-03'
 url: '/de/presse'
+seo:
+    title: 'SeaTable Presse: Medien, Neuigkeiten & Berichte'
+    description: 'Erfahren Sie alles rund um SeaTable: Aktuelle Pressemitteilungen, Berichte sowie Bildmaterial direkt zum Download.'
 
 sections:
     - name: hero-6

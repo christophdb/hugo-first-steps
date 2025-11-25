@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de serviços de TI com o SeaTable: eficiente e flexível'
-description: 'O SeaTable oferece-lhe a oportunidade de personalizar e otimizar a sua gestão de serviços de TI. Utilize a nossa solução sem código.'
+description: ''
 seo:
     title: 'Gestão de serviços de TI - flexibel & skalierbar | SeaTable'
     description: 'Optimize a sua gestão de serviços de TI com o SeaTable: Plataforma sem código para fluxos de trabalho flexíveis, automatização e processos ITSM compatíveis com o RGPD.'

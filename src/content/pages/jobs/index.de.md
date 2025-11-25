@@ -1,8 +1,11 @@
 ---
 title: 'SeaTable Jobs: Gemeinsame Erfolge im Fokus'
-description: 'Entdecke SeaTable Jobs und revolutioniere deinen Arbeitsalltag mit unserer No-Code-Plattform. Werde Teil des Wandels!'
+description: ''
 date: '2025-04-03'
 url: '/de/jobs'
+seo:
+    title: 'SeaTable Jobs: Deine Chance im SeaTable-Team'
+    description: 'Gestalte die digitale Zukunft in einem globalen Remote-Team. Jetzt bewerben und Teil von SeaTable werden!'
 
 sections:
     - name: hero-2

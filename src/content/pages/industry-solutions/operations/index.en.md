@@ -1,6 +1,6 @@
 ---
 title: 'Process management software for efficient operations'
-description: "Visualize your processes, standardize and automate workflows and use your resources more efficiently: SeaTable is the AI no-code solution for your operations team."
+description: ''
 seo:
     title: 'Process management software with integrated AI'
     description: 'Manage, standardize and automate processes efficiently with SeaTable - the AI no-code solution for operations teams.'

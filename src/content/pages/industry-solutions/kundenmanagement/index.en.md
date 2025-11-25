@@ -1,6 +1,6 @@
 ---
 title: 'SeaTable: The most flexible solution for your customer management'
-description: 'Centralize your customer management! Our software helps you to maintain customer relationships, optimize processes and increase sales.'
+description: ''
 seo:
     title: 'Customer management: Flexible CRM for companies | SeaTable'
     description: 'Optimize your customer management with SeaTable: Flexible CRM software for maintaining customer relationships, automating processes & 100% GDPR-compliant.'
