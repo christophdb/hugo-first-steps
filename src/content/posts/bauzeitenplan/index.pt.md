@@ -23,7 +23,7 @@ Neste artigo, irá descobrir porque é que um plano de construção é tão úti
 
 ## O que é um plano de construção?
 
-Um plano de construção é o coração de uma organização de construção bem sucedida. Fornece uma visão geral clara da cronologia de um projeto de construção\*\* e cria clareza sobre que trabalho tem lugar e a que horas e como os passos individuais se interligam. Desde o planeamento inicial até à execução e conclusão, o calendário de construção garante que todos os envolvidos sabem quando é necessário o seu contributo.
+Um plano de construção é o coração de uma organização de construção bem sucedida. Fornece uma visão geral clara da cronologia de um **projeto de construção** e cria clareza sobre que trabalho tem lugar e a que horas e como os passos individuais se interligam. Desde o planeamento inicial até à execução e conclusão, o calendário de construção garante que todos os envolvidos sabem quando é necessário o seu contributo.
 
 Esta abordagem estruturada permite-lhe coordenar melhor as fases de construção, utilizar os recursos de forma eficiente e identificar os atrasos numa fase inicial. Isto faz com que o calendário de construção seja uma ferramenta fiável no planeamento da construção, permitindo-lhe estar atento não só aos prazos, mas também à qualidade e à relação custo-eficácia do seu projeto.
 
@@ -75,7 +75,7 @@ Um calendário de construção pode parecer complexo à primeira vista, mas com 
 
 2. **Determinar a sequência e a duração:** Em seguida, determine quanto tempo cada tarefa demorará e por que ordem deve ser executada. Preste atenção às dependências lógicas: Por exemplo, as janelas só podem ser instaladas depois de a cobertura estar concluída.
 
-3. prever tempos de espera:\*\* Nos estaleiros de construção, as coisas raramente correm como planeado. As condições climatéricas, os atrasos nas entregas ou os problemas técnicos podem adiar os prazos. Com tempos de reserva suficientes, o seu calendário de construção mantém-se realista e flexível.
+3. **prever tempos de espera:** Nos estaleiros de construção, as coisas raramente correm como planeado. As condições climatéricas, os atrasos nas entregas ou os problemas técnicos podem adiar os prazos. Com tempos de reserva suficientes, o seu calendário de construção mantém-se realista e flexível.
 
 ![A casa é construída com uma grua](hausbau.jpg)
 

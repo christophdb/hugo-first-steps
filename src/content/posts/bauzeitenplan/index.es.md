@@ -23,7 +23,7 @@ En este artículo, descubrirá por qué es tan útil un calendario de construcci
 
 ## ¿Qué es un calendario de obras?
 
-Un calendario de construcción es el corazón de una organización de construcción de éxito. Ofrece una visión clara del calendario de un proyecto de construcción\*\* y aclara qué trabajos se realizan en cada momento y cómo se interrelacionan las distintas fases. Desde la planificación inicial hasta la ejecución y la finalización, el calendario de construcción garantiza que todos los implicados sepan cuándo se requiere su aportación.
+Un calendario de construcción es el corazón de una organización de construcción de éxito. Ofrece una visión clara del calendario de un **proyecto de construcción** y aclara qué trabajos se realizan en cada momento y cómo se interrelacionan las distintas fases. Desde la planificación inicial hasta la ejecución y la finalización, el calendario de construcción garantiza que todos los implicados sepan cuándo se requiere su aportación.
 
 Este enfoque estructurado permite coordinar mejor las fases de construcción, utilizar los recursos de forma eficiente e identificar los retrasos en una fase temprana. Por todo ello, el calendario de construcción es una herramienta fiable en la planificación de la construcción, que le permite controlar no sólo los plazos, sino también la calidad y la rentabilidad de su proyecto.
 

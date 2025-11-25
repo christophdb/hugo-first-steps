@@ -45,7 +45,7 @@ L'**oubli de médicaments** est également un problème courant. Parfois, une pr
 
 ![Une femme qui prend un comprimé avec un verre d'eau](fehler-bei-der-einnahme.jpg)
 
-Un autre risque qui peut être évité grâce à un plan de médication est lié à d'éventuelles **interactions** entre différents médicaments. Celles-ci sont particulièrement difficiles à détecter si toutes les préparations prises ne sont pas entièrement répertoriées. Il s'agit souvent de produits d'automédication\*\* qui sont pris en plus sans consultation du médecin. En font également partie des produits en vente libre comme le millepertuis, des analgésiques comme l'ibuprofène ou certains compléments alimentaires. Même ces préparations apparemment inoffensives peuvent influencer l'effet de vos autres médicaments ou même déclencher des réactions dangereuses.
+Un autre risque qui peut être évité grâce à un plan de médication est lié à d'éventuelles **interactions** entre différents médicaments. Celles-ci sont particulièrement difficiles à détecter si toutes les préparations prises ne sont pas entièrement répertoriées. Il s'agit souvent de **produits d'automédication** qui sont pris en plus sans consultation du médecin. En font également partie des produits en vente libre comme le millepertuis, des analgésiques comme l'ibuprofène ou certains compléments alimentaires. Même ces préparations apparemment inoffensives peuvent influencer l'effet de vos autres médicaments ou même déclencher des réactions dangereuses.
 
 Il est donc important de garder un œil sur l'ensemble de votre médication. Un plan de médication soigneusement géré vous aidera à éviter de telles erreurs et à améliorer la sécurité de votre traitement.
 

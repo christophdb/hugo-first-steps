@@ -13,7 +13,7 @@ seo:
     description: 'Descubre cómo bloquear vistas en SeaTable, evitar cambios por otros usuarios, proteger filtros y saber cuándo es útil para el trabajo en equipo.'
 ---
 
-Puede **bloquear vistas** de una tabla en SeaTable. Esta función es especialmente útil cuando se trabaja en grupo. Aquí, \*\*los usuarios con derechos de propietario o administrador\*\* tienen la opción de bloquear una vista para todos los demás miembros del grupo que no tengan uno de estos dos niveles de permiso. Esto significa que estos miembros ya no pueden realizar cambios en las opciones de vista.
+Puede **bloquear vistas** de una tabla en SeaTable. Esta función es especialmente útil cuando se trabaja en grupo. Aquí, **los usuarios con derechos de propietario o administrador** tienen la opción de bloquear una vista para todos los demás miembros del grupo que no tengan uno de estos dos niveles de permiso. Esto significa que estos miembros ya no pueden realizar cambios en las opciones de vista.
 
 Entre otras cosas, los **filtros, la ordenación y la agrupación** de una vista se ven afectados por el bloqueo. La configuración seleccionada se mantiene hasta que un usuario con derechos de propietario o administrador elimina el bloqueo.
 

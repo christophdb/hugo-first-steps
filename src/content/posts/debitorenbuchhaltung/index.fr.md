@@ -64,8 +64,7 @@ Les tâches de la comptabilité clients vont bien au-delà de la simple comptabi
 - Gestion active des **créances** afin d'obtenir les paiements
 - Organisation et exécution des **relances**.
 - Création et traitement des **avoirs**.
-- Réconciliation des **comptes débiteurs** pour garantir des écritures correctes
-  **interlocuteur** des clients pour les questions relatives aux factures et aux paiements
+- Réconciliation des **comptes débiteurs** pour garantir des écritures correctes **interlocuteur** des clients pour les questions relatives aux factures et aux paiements
 - Évaluation et contrôle du **risque débiteur** afin d'éviter les défauts de paiement
 
 {{< warning headline="Compte à recevoir" text="Un compte client est un compte spécial dans la comptabilité financière, sur lequel sont enregistrées toutes les transactions commerciales avec un seul client. Un compte spécifique est tenu pour chaque client - c'est-à-dire pour chaque client qui reçoit une facture. Les factures sortantes, les paiements entrants, les avoirs et éventuellement les rappels y sont enregistrés." />}}

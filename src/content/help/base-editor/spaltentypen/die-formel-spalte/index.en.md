@@ -6,13 +6,12 @@ categories:
     - 'formeln'
 author: 'ssc'
 url: '/help/formula-column-seatable'
-aliases: 
+aliases:
     - '/help/grundlagen-von-seatable-formeln'
     - '/help/die-formel-spalte'
 seo:
     title: 'Make the most of the formula column in SeaTable'
     description: 'Use formula columns to calculate, merge or manipulate row values flexibly in SeaTable – simple for math and string ops.'
-
 ---
 
 SeaTable offers you many different functions that you can add to your table. One of them is the so-called **formula column**. Using formulas you can link values from different columns and create different functions based on the data types of these columns. Among other things, you can calculate with values in a row , merge them or relate them to each other.
@@ -73,7 +72,7 @@ Below are a few examples that illustrate the utility and use of formulas.
 
 Of course you can rely on the fact that mathematical conventions also find their application in the formulas of SeaTable. Here are the most important examples:
 
-- You can **nest\*\***functions\*\* within each other using parentheses. Example: (( 1 + 2 ) \* 3)
+- You can **nest functions** within each other using parentheses. Example: (( 1 + 2 ) \* 3)
 - **Dot before dash**, the **order of parentheses** and other **mathematical rules** are taken into account in SeaTable.
 
 ## Formula column formatting
