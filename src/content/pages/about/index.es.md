@@ -3,8 +3,6 @@ title: 'Sobre nosotros: Nuestra misión para un trabajo eficiente con los datos 
 description: ''
 date: '2025-04-03'
 url: '/es/about-us'
-aliases:
-    - '/es/unternehmen/
 seo:
     title: 'Sobre nosotros: Datos eficientes, equipos sólidos'
     description: 'Optimiza el uso de datos y mejora la gestión diaria con soluciones innovadoras low-code para equipos y empresas de todo tipo.'
