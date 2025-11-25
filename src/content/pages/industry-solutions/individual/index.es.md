@@ -1,6 +1,6 @@
 ---
 title: 'Gestión del flujo de trabajo: automatice los procesos de forma eficaz'
-description: 'Optimice sus flujos de trabajo con SeaTable, opere una moderna gestión de flujos de trabajo y automatice sus procesos.'
+description: ''
 seo:
     title: 'Herramienta de gestión del flujo de trabajo: Automatice procesos fácilmente | SeaTable'
     description: 'Gestión de flujos de trabajo con SeaTable: cree, automatice y supervise sus procesos en tiempo real - flexible, sin código y conforme a GDPR.'

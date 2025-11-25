@@ -4,7 +4,7 @@ description: "Garantir les liquidités, minimiser les risques, permettre la croi
 date: 2021-08-26
 lastmod: '2025-09-18'
 author: 'pbr'
-url: '/fr/comptabilité-des-débiteurs'
+url: '/fr/comptabilite-des-debiteurs'
 color: '#7cbaef'
 seo:
     title: 'Digitaliser la gestion des comptes clients : modèle & guide'
@@ -33,7 +33,6 @@ La comptabilité clients a quatre domaines d'activité importants. Elle s'occupe
 
 Si un client achète un produit dans votre entreprise, il reçoit ensuite une facture. Celle-ci est envoyée au client par la comptabilité clients. Le client a alors la possibilité de payer le montant de la facture à votre entreprise dans un délai de paiement prédéfini, par exemple par prélèvement automatique ou par virement bancaire. La facture adressée au client est également volontiers appelée créance (gestion des créances). Les créances ouvertes sont contrôlées quotidiennement. Cela sert en outre de travail préparatoire pour les rappels.
 
-
 ### Gestion des rappels
 
 Dans le domaine des rappels, on distingue les rappels extrajudiciaires et les rappels judiciaires. Dans la **procédure de relance extrajudiciaire**, on essaie tout d'abord de récupérer en interne le montant de la facture que le débiteur (client) nous doit encore. Cela se fait généralement à l'aide de "niveaux de rappel". Chaque niveau de rappel rappelle au client de payer ce qu'il doit encore. Chaque entreprise décide du nombre de niveaux de rappel jusqu'à la relance judiciaire.
@@ -42,11 +41,9 @@ Dans le meilleur des cas, le client reçoit d'abord un rappel amical avant que l
 
 Dans le cas de la ** relance judiciaire**, la relance extraordinaire n'a malheureusement pas fonctionné et le paiement en souffrance n'a toujours pas été réglé par le débiteur (client). Dans ce cas, une mise en demeure judiciaire est envisagée. Celle-ci est effectuée par des avocats ou des sociétés de recouvrement, mais peut également être effectuée par votre propre comptabilité clients si vous disposez des connaissances nécessaires. Il est important à cet égard de connaître les procédures des tribunaux ou des huissiers de justice.
 
-
 ### Scoring des débiteurs
 
 Mais le scoring des débiteurs est aussi particulièrement important dans l'entreprise. Celui-ci doit fournir des informations pertinentes sur la propension à payer de vos clients. Les historiques de paiement de chaque client permettent de tirer des conclusions explicites, par exemple sur la fiabilité des paiements ou sur les différents défauts de paiement. Cela permet de détecter rapidement les cas d'insolvabilité des clients et de réduire au minimum les dommages financiers qui en résultent. Dans ce cas, le client est simplement bloqué et ne reçoit plus de produits ou de services jusqu'à nouvel ordre.
-
 
 ### Gestion de l'information
 
@@ -56,21 +53,20 @@ En plus de tous les points déjà mentionnés, la transmission d'informations su
 Si vous souhaitez aller plus loin dans la [Planification financière]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Plan d'investissement]({{< relref "posts/investitionsplan" >}}) et le [Plan de trésorerie]({{< relref "posts/20250628_liquiditaetsplanung" >}}) sur le sujet. Vous y trouverez des conseils pratiques, des exemples et des modèles qui vous aideront à gérer encore plus efficacement les finances de votre entreprise.
 {{< /warning >}}
 
-
 ## Tâches de la comptabilité clients
 
 Les tâches de la comptabilité clients vont bien au-delà de la simple comptabilisation des opérations commerciales. Elles englobent toutes les activités nécessaires pour que vous puissiez gérer de manière transparente les créances envers vos clients, garantir les entrées de paiement et éviter les défaillances. En font partie, entre autres
 
-* établissement et envoi des **factures clients**.
-* Comptabilisation des créances résultant de **livraisons et prestations**.
-* Enregistrement des **entrées de paiement**.
-* Surveillance des **paiements échus** et des postes ouverts
-* Gestion active des **créances** afin d'obtenir les paiements
-* Organisation et exécution des **relances**.
-* Création et traitement des **avoirs**.
-* Réconciliation des **comptes débiteurs** pour garantir des écritures correctes
-**interlocuteur** des clients pour les questions relatives aux factures et aux paiements
-* Évaluation et contrôle du **risque débiteur** afin d'éviter les défauts de paiement
+- établissement et envoi des **factures clients**.
+- Comptabilisation des créances résultant de **livraisons et prestations**.
+- Enregistrement des **entrées de paiement**.
+- Surveillance des **paiements échus** et des postes ouverts
+- Gestion active des **créances** afin d'obtenir les paiements
+- Organisation et exécution des **relances**.
+- Création et traitement des **avoirs**.
+- Réconciliation des **comptes débiteurs** pour garantir des écritures correctes
+  **interlocuteur** des clients pour les questions relatives aux factures et aux paiements
+- Évaluation et contrôle du **risque débiteur** afin d'éviter les défauts de paiement
 
 {{< warning headline="Compte à recevoir" text="Un compte client est un compte spécial dans la comptabilité financière, sur lequel sont enregistrées toutes les transactions commerciales avec un seul client. Un compte spécifique est tenu pour chaque client - c'est-à-dire pour chaque client qui reçoit une facture. Les factures sortantes, les paiements entrants, les avoirs et éventuellement les rappels y sont enregistrés." />}}
 
@@ -96,29 +92,28 @@ Parmi les tâches centrales figurent la saisie et la vérification des factures 
 
 La comptabilité fournisseurs comprend toutes les activités relatives à la saisie, à la gestion et au traitement des dettes envers les fournisseurs et les prestataires de services. Dans le détail, elle comprend
 
-* saisie et contrôle des **factures entrantes**.
-* imputation et **comptabilisation des factures** sur les comptes correspondants
-* Surveillance des **délais de paiement** et règlement des factures ouvertes dans les délais.
-* Utilisation des **escomptes et des rabais** pour économiser des coûts
-* gestion des **avoirs** et autres corrections
-* Rapprochement et gestion des **comptes créditeurs**.
-**communication** avec les fournisseurs en cas de questions sur les factures ou les paiements
-* préparation des **cycles de paiement** (par ex. virements, prélèvements)
-**vérification et évaluation** des dettes afin de présenter la situation financière de manière transparente
+- saisie et contrôle des **factures entrantes**.
+- imputation et **comptabilisation des factures** sur les comptes correspondants
+- Surveillance des **délais de paiement** et règlement des factures ouvertes dans les délais.
+- Utilisation des **escomptes et des rabais** pour économiser des coûts
+- gestion des **avoirs** et autres corrections
+- Rapprochement et gestion des **comptes créditeurs**.
+  **communication** avec les fournisseurs en cas de questions sur les factures ou les paiements
+- préparation des **cycles de paiement** (par ex. virements, prélèvements)
+  **vérification et évaluation** des dettes afin de présenter la situation financière de manière transparente
 
 ## Comptabilité des débiteurs vs. comptabilité des créanciers
 
 Alors que la comptabilité fournisseurs enregistre les dettes envers les fournisseurs, la comptabilité clients surveille les créances envers les clients. La comparaison suivante montre leurs tâches, leurs différences et leurs effets sur le flux de paiement :
 
-| | **Comptabilité des créanciers** | **Comptabilité des débiteurs** |
-| ------------------- | --------------------- | --------------------- |
-| **Définition** | Saisit toutes les opérations avec les fournisseurs (dettes) | Saisit toutes les opérations avec les clients (créances) |
-| **Participants** | Fournisseurs / Créanciers | Clients / Débiteurs |
-| **But** | Contrôle et gestion des dettes envers les fournisseurs | Contrôle et gestion des créances envers les clients |
-| **Tâche principale** | - Contrôler les factures, préparer les paiements, gérer les escomptes et les rappels | Établir les factures, surveiller les encaissements, effectuer les rappels |
-| **Incidence sur le bilan** | Augmentation des dettes | Augmentation des créances |
-| **Flux de paiement** | Dépenses → L'argent quitte l'entreprise | Recettes → L'argent entre dans l'entreprise |
-
+|                            | **Comptabilité des créanciers**                                                      | **Comptabilité des débiteurs**                                            |
+| -------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **Définition**             | Saisit toutes les opérations avec les fournisseurs (dettes)                          | Saisit toutes les opérations avec les clients (créances)                  |
+| **Participants**           | Fournisseurs / Créanciers                                                            | Clients / Débiteurs                                                       |
+| **But**                    | Contrôle et gestion des dettes envers les fournisseurs                               | Contrôle et gestion des créances envers les clients                       |
+| **Tâche principale**       | - Contrôler les factures, préparer les paiements, gérer les escomptes et les rappels | Établir les factures, surveiller les encaissements, effectuer les rappels |
+| **Incidence sur le bilan** | Augmentation des dettes                                                              | Augmentation des créances                                                 |
+| **Flux de paiement**       | Dépenses → L'argent quitte l'entreprise                                              | Recettes → L'argent entre dans l'entreprise                               |
 
 ## Avantages de la comptabilité clients et de la comptabilité fournisseurs
 

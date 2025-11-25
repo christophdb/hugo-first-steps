@@ -5,14 +5,14 @@ seo:
     title: 'Cree un calendario de construcción: Paso a paso hacia la casa de sus sueños'
     description: 'Descubra cómo un calendario de obras le ayuda a planificar los proyectos de construcción con eficacia y a terminarlos a tiempo.'
 date: 2025-11-04
-url: '/es/calendario-de-construcción'
+url: '/es/calendario-de-construccion'
 tags:
     - 'Vida cotidiana y ocio'
 categories:
     - 'best-practice'
 color: '#75bfb2'
 register:
-   show: true
+    show: true
 ---
 
 Para muchas personas, el sueño de tener su propia casa es uno de sus grandes objetivos en la vida. Pero entre la compra de la parcela, la obtención de los permisos necesarios y la construcción propiamente dicha, hay innumerables tareas que deben coordinarse a la perfección. Para asegurarse de que la planificación de la construcción no acaba en caos, necesita un calendario claro: el calendario de construcción.
@@ -23,7 +23,7 @@ En este artículo, descubrirá por qué es tan útil un calendario de construcci
 
 ## ¿Qué es un calendario de obras?
 
-Un calendario de construcción es el corazón de una organización de construcción de éxito. Ofrece una visión clara del calendario de un proyecto de construcción** y aclara qué trabajos se realizan en cada momento y cómo se interrelacionan las distintas fases. Desde la planificación inicial hasta la ejecución y la finalización, el calendario de construcción garantiza que todos los implicados sepan cuándo se requiere su aportación.
+Un calendario de construcción es el corazón de una organización de construcción de éxito. Ofrece una visión clara del calendario de un proyecto de construcción\*\* y aclara qué trabajos se realizan en cada momento y cómo se interrelacionan las distintas fases. Desde la planificación inicial hasta la ejecución y la finalización, el calendario de construcción garantiza que todos los implicados sepan cuándo se requiere su aportación.
 
 Este enfoque estructurado permite coordinar mejor las fases de construcción, utilizar los recursos de forma eficiente e identificar los retrasos en una fase temprana. Por todo ello, el calendario de construcción es una herramienta fiable en la planificación de la construcción, que le permite controlar no sólo los plazos, sino también la calidad y la rentabilidad de su proyecto.
 
@@ -79,7 +79,7 @@ Un programa de construcción puede parecer complejo a primera vista, pero con un
 
 ![La casa se construye con una grúa](hausbau.jpg)
 
-4.	**Visualizar el calendario:** Presente toda la información de forma clara. Un diagrama de Gantt o una vista general del calendario muestran de un vistazo qué trabajo se está ejecutando en paralelo y dónde están surgiendo posibles cuellos de botella.
+4. **Visualizar el calendario:** Presente toda la información de forma clara. Un diagrama de Gantt o una vista general del calendario muestran de un vistazo qué trabajo se está ejecutando en paralelo y dónde están surgiendo posibles cuellos de botella.
 
 5. **Actualiza el plan con regularidad:** Un plan de obra no es un documento estático. En cuanto cambien las fechas o se completen las fases de trabajo, hay que ajustar el plan. Es la única forma de mantener una visión general del estado actual del proyecto en todo momento.
 

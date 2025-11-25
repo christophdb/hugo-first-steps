@@ -1,11 +1,13 @@
 ---
 title: 'Alternativa a Excel para su empresa | Gestión inteligente de datos'
-description: 'Olvídese de las tablas rígidas. SeaTable ofrece una gestión de datos colaborativa. Cambie a la alternativa inteligente de Excel.'
+description: ''
 seo:
     title: "Alternativa a Excel para su empresa | Gestión inteligente de datos"
     description: "Olvídese de las tablas rígidas. SeaTable ofrece una gestión de datos colaborativa. Cambie a la alternativa inteligente de Excel"
 date: '2025-03-30'
-url: '/es/excel-alternative'
+url: '/es/alternativa-a-excel'
+aliases:
+  - '/es/excel-alternative'
 
 sections:
     - name: hero-5

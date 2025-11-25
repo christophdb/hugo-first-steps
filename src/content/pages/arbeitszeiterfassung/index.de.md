@@ -1,6 +1,6 @@
 ---
 title: 'Digitale Arbeitszeiterfassung mit SeaTable - einfach und rechtskonform'
-description: 'Vereinfachen Sie Ihre Arbeitszeiterfassung mit SeaTable: kostenlos, digital und rechtskonform. Für Unternehmen jeder Größe — optimierte Erfassung von Arbeitszeiten, Urlaub & Krankheit, DSGVO-konform und flexibel anpassbar. Sparen Sie Zeit und minimieren Sie den Verwaltungsaufwand mit automatisierten Prozessen und zentraler Datenablage'
+description: ''
 seo:
     title: 'Arbeitszeiterfassung| effizient digital & rechtssicher'
     description: 'Arbeitszeiterfassung mit SeaTable: digital, DSGVO-konform. Effiziente und rechtskonforme Verwaltung von Arbeitszeiten, Urlaub und Krankheit.'

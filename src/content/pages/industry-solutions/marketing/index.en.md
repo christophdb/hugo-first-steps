@@ -1,6 +1,6 @@
 ---
 title: 'Use the SeaTable marketing tool: Automate processes'
-description: 'Discover SeaTable as a powerful marketing tool. Automate processes, analyze data and increase your efficiency.'
+description: ''
 seo:
     title: 'Marketing tool for automation & analysis | SeaTable'
     description: 'Marketing tool SeaTable: Automate campaigns, centralize data and analyze KPIs - for more efficiency in digital marketing.'

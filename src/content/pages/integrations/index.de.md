@@ -1,9 +1,9 @@
 ---
 title: 'Integrationen'
-description: 'Verbinden Sie SeaTable mit Ihren Lieblingsanwendungen und -diensten. Integrationen helfen Ihnen, Informationen automatisch zwischen SeaTable und anderen Apps auszutauschen.'
+description: ''
 seo:
-    title: ''
-    description: ''
+    title: 'Integrationen: SeaTable mit Apps & Diensten verbinden'
+    description: 'Automatisieren Sie Geschäftsabläufe: SeaTable mit Zapier, Make, n8n & mehr für smarte App- und Datenverknüpfung.'
 url: '/de/integrationen/'
 
 # TODO: mehr inhalte wie auf https://monday.com/lang/de/integrations, z.B. Kundenstimmen

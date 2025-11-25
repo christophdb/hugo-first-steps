@@ -1,6 +1,6 @@
 ---
 title: 'Excel Alternative für ihr Unternehmen | Smarte Datenverwaltung'
-description: 'Vergessen Sie starre Tabellen. SeaTable bietet kollaborative Datenverwaltung. Steigen sie auf die intelligente Excel Alternative um.'
+description: ''
 seo:
     title: "Excel Alternative für ihr Unternehmen | Smarte Datenverwaltung"
     description: "Vergessen Sie starre Tabellen. SeaTable bietet kollaborative Datenverwaltung. Steigen sie auf die intelligente Excel Alternative um"

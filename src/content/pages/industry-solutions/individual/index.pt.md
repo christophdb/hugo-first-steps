@@ -1,6 +1,6 @@
 ---
 title: 'Gestão do fluxo de trabalho: automatize os processos de forma eficiente'
-description: 'Optimize os seus fluxos de trabalho com o SeaTable, utilize uma gestão moderna dos fluxos de trabalho e automatize os seus processos.'
+description: ''
 seo:
     title: 'Ferramenta de gestão do fluxo de trabalho: Automatize processos facilmente | SeaTable'
     description: 'Gestão do fluxo de trabalho com o SeaTable: crie, automatize e monitorize os seus processos em tempo real - flexível, sem código e em conformidade com o RGPD.'

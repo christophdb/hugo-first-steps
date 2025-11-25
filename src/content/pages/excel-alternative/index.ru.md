@@ -1,8 +1,14 @@
 ---
 title: 'Альтернатива Excel для вашей компании | Интеллектуальное управление данными'
-description: 'Забудьте о жестких таблицах. SeaTable предлагает совместное управление данными. Перейдите на интеллектуальную альтернативу Excel.'
+description: ''
 date: '2025-03-30'
-url: '/ru/excel-alternative'
+url: '/ru/alternativa-excel'
+aliases:
+  - '/ru/excel-alternative'
+
+seo:
+    title: 'Альтернатива Excel для бизнеса'
+    description: 'Делайте больше с SeaTable: альтернатива Excel для совместной работы и эффективного управления данными в компании.'
 
 sections:
     - name: hero-5

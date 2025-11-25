@@ -1,11 +1,16 @@
 ---
 title: "Registration: It's so easy to get started | SeaTable"
-description: 'Register now and benefit from our free subscription. Hardly any effort, immediate use, no credit card required.'
+description: ''
 date: 2025-03-24
 url: '/registration/'
 aliases:
     - '/registrierung/'
     - '/registrierung/geschafft/'
+seo:
+    title: "Registration: It's so easy to get started | SeaTable"
+    description: 'Register now and benefit from our free subscription. Hardly any effort, immediate use, no credit card required.'
+
+
 
 sections:
     - name: form-registration

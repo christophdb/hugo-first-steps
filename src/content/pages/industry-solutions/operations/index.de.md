@@ -1,6 +1,6 @@
 ---
 title: 'Prozessmanagement Software für effiziente Operations'
-description: "Visualisieren Sie Ihre Prozesse, standardisieren und automatisieren Sie Workflows und nutzen Sie Ihre Ressourcen effizienter: SeaTable ist die KI No-Code Lösung für Ihr Operations-Team."
+description: ''
 seo:
     title: 'Prozessmanagement Software mit integrierter KI'
     description: 'Managen, standardisieren und automatisieren Sie Prozesse effizient mit SeaTable – der KI No-Code-Lösung für Operations-Teams.'

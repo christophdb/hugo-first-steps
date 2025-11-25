@@ -1,6 +1,6 @@
 ---
 title: 'Logiciel de gestion des processus pour des opérations efficaces'
-description: "Visualisez vos processus, standardisez et automatisez vos flux de travail et utilisez vos ressources plus efficacement : SeaTable est la solution AI sans code pour votre équipe d'exploitation."
+description: ''
 seo:
     title: 'Logiciel de gestion des processus avec IA intégrée'
     description: "Gérez, standardisez et automatisez efficacement les processus avec SeaTable - la solution AI sans code pour les équipes d'exploitation."

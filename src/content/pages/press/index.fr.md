@@ -1,10 +1,13 @@
 ---
 title: 'La presse de SeaTable : Actualités et communiqués de presse'
-description: 'Découvrez SeaTable et lisez des articles de presse intéressants qui mettent en lumière notre plateforme no-code.'
+description: ''
 date: '2025-04-03'
 url: '/fr/presse'
 aliases:
     - '/fr/press/'
+seo:
+    title: 'SeaTable Presse : actualités et revue de presse'
+    description: 'Découvrez les derniers communiqués et reportages sur SeaTable. Téléchargez notre kit média et matériel officiel.'
 
 sections:
     - name: hero-6

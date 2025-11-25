@@ -1,10 +1,14 @@
 ---
 title: 'A melhor solução de base de dados para a sua equipa | Caraterísticas do SeaTable'
-description: 'Descubra as extensas funções do SeaTable: desde tabelas flexíveis a automatizações poderosas.'
+description: ''
 date: '2025-03-30'
 url: '/pt/functions'
 aliases:
     - '/pt/funktionen/'
+
+seo:
+    title: 'Gerenciamento flexível de dados e automação'
+    description: 'Experimente tabelas eficientes, automação e colaboração segura. Descubra as funções SeaTable para mais controle.'
 
 sections:
     - name: hero-3

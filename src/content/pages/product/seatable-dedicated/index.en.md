@@ -1,10 +1,15 @@
 ---
 title: 'SeaTable Dedicated: Data security and individualization'
-description: 'Enjoy the benefits of the cloud without compromise! SeaTable Dedicated offers its own system with full data control and maintenance.'
+description: ''
 date: '2025-03-30'
 url: '/dedicated'
 aliases:
     - '/en/dedicated/'
+seo:
+    title: 'Dedicated Cloud: Data Control & Security for Business'
+    description: 'Secure, independent and worry-free. SeaTable Dedicated gives your business unrivaled data protection, flexibility and performance.'
+
+
 
 sections:
     - name: hero-5

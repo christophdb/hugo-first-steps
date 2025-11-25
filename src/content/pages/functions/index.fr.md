@@ -1,10 +1,13 @@
 ---
 title: 'La meilleure solution de base de données pour votre équipe | Fonctionnalités SeaTable'
-description: 'Découvrez les fonctionnalités étendues de SeaTable: des tableaux flexibles aux puissantes fonctions d&#039;automatisation.'
+description: ''
 date: '2025-03-30'
 url: '/fr/functions'
 aliases:
     - '/fr/funktionen/'
+seo:
+    title: 'Gestion flexible des données & automatisation'
+    description: "Bénéficiez de tableaux efficaces, d'automatisations et d'un travail collaboratif sécurisé : découvrez les fonctions SeaTable."
 
 sections:
     - name: hero-3

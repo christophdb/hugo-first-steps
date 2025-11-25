@@ -1,6 +1,6 @@
 ---
 title: "Créer un plan financier : efficace & sans le chaos d'Excel avec SeaTable"
-description: "Simplifiez votre planification financière : améliorez votre efficacité, gardez un œil sur tous vos chiffres et dépenses et prenez des décisions éclairées grâce à des tableaux de bord clairs et à une mise en œuvre rapide. Parfait pour les entreprises, les créateurs d'entreprise & les indépendants qui souhaitent contrôler, structurer et sécuriser leur planification."
+description: ''
 seo:
     title: "Créer un plan financier : efficace & sans le chaos d'Excel | SeaTable"
     description: "Planification financière efficace : garder un œil sur les chiffres et les dépenses, prendre des décisions éclairées et gagner en clarté grâce à des tableaux de bord clairs et concis."

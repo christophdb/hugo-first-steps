@@ -1,10 +1,15 @@
 ---
 title: 'Inscription : Pour démarrer facilement | SeaTable'
-description: "Inscrivez-vous maintenant et profitez de notre abonnement gratuit. Peu d'efforts, utilisation immédiate, pas besoin de carte de crédit."
+description: ''
 date: 2025-03-24
 url: '/fr/inscription/'
 aliases:
     - '/fr/enregistrement/'
+seo:
+    title: 'Inscription : Pour démarrer facilement | SeaTable'
+    description: "Inscrivez-vous maintenant et profitez de notre abonnement gratuit. Peu d'efforts, utilisation immédiate, pas besoin de carte de crédit."
+
+
 
 sections:
     - name: 'form-registration'
