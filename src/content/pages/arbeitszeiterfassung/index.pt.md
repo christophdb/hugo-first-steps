@@ -3,7 +3,7 @@ title: 'Registo digital do tempo de trabalho com o SeaTable - simples e em confo
 description: ''
 seo:
     title: 'Controle de ponto SeaTable | eficiente, digital e conforme leis'
-    description: Controle de ponto SeaTable: digital, gratuito e conforme LGPD. Gerencie horas, férias e ausências com eficiência e legalidade.'
+    description: 'Controle de ponto SeaTable: digital, gratuito e conforme LGPD. Gerencie horas, férias e ausências com eficiência e legalidade.'
 date: '2025-08-21'
 url: '/pt/controlo-tempo-trabalho/'
 aliases:
