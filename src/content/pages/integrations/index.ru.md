@@ -1,9 +1,9 @@
 ---
 title: 'Интеграции'
-description: 'Соедините SeaTable с вашими любимыми приложениями и сервисами. Интеграции помогают вам автоматически обмениваться информацией между SeaTable и другими приложениями.'
+description: ''
 seo:
-    title: ''
-    description: ''
+    title: 'Интеграции: подключайте SeaTable ко всем сервисам'
+    description: 'SeaTable интегрируется с Zapier, Make, n8n и др. Автоматизируйте обмен и управляйте данными в одном месте.'
 url: '/ru/integratsii/'
 aliases:
   - '/ru/integrations/'

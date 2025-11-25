@@ -1,6 +1,6 @@
 ---
 title: "Gestion des services informatiques avec SeaTable : efficacité et flexibilité"
-description: "SeaTable vous permet de personnaliser et d'optimiser votre gestion des services informatiques. Utilisez notre solution No-Code."
+description: ''
 seo:
     title: "Gestion des services informatiques - flexibel & skalierbar | SeaTable"
     description: "Optimisez votre gestion des services informatiques avec SeaTable : Plateforme No-Code pour des workflows flexibles, l'automatisation et des processus ITSM conformes au RGPD."

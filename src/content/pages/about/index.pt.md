@@ -1,8 +1,11 @@
 ---
 title: 'Sobre nós: A nossa missão para um trabalho de dados eficiente | SeaTable'
-description: 'A nossa prioridade é a qualidade, a segurança e a eficiência. Conheça a nossa equipa e a nossa missão de nos tornarmos o líder do mercado europeu.'
+description: ''
 date: '2025-04-03'
 url: '/pt/about-us'
+seo:
+    title: 'Sobre nós: Dados eficientes, equipes fortes'
+    description: 'Ajudamos empresas a otimizar dados e processos com soluções low-code inovadoras para impulsionar a rotina de trabalho.'
 
 sections:
     - name: hero-4

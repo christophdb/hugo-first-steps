@@ -1,8 +1,11 @@
 ---
 title: 'SeaTable Empleos: centrarse en los éxitos conjuntos'
-description: 'Descubre SeaTable Jobs y revoluciona tu jornada laboral con nuestra plataforma sin código. ¡Forma parte del cambio!'
+description: ''
 date: '2025-04-03'
 url: '/es/empleos'
+seo:
+    title: 'Empleos en SeaTable: Trabaja remoto y sin código'
+    description: 'Únete al equipo global de SeaTable y reinventa el trabajo. ¡Aplica y crece junto a nosotros!'
 
 sections:
     - name: hero-2

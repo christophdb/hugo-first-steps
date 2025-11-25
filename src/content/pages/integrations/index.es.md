@@ -1,9 +1,9 @@
 ---
 title: 'Integraciones'
-description: 'Conecta SeaTable con tus aplicaciones y servicios favoritos. Las integraciones le ayudan a compartir información automáticamente entre SeaTable y otras aplicaciones.'
+description: ''
 seo:
-    title: ''
-    description: ''
+    title: 'Integraciones: conecta SeaTable con tus apps favoritas'
+    description: 'Automatiza procesos vinculando SeaTable a Zapier, Make, n8n y más: conecta todos tus sistemas fácilmente.'
 url: '/es/integraciones/'
 
 sections:

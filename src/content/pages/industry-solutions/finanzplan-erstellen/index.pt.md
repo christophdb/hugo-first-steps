@@ -1,6 +1,6 @@
 ---
 title: 'Crie um plano financeiro: de forma eficiente e sem o caos do Excel com o SeaTable'
-description: 'Simplifique o seu planeamento financeiro: aumente a sua eficiência, acompanhe todos os valores e despesas e tome decisões informadas - graças a painéis de controlo claros e à rápida implementação. Perfeito para empresas, empresas em fase de arranque e trabalhadores independentes que pretendem controlo, estrutura e certeza no seu planeamento.'
+description: ''
 seo:
     title: 'Crie um plano financeiro: eficiente e sem o caos do Excel | SeaTable'
     description: 'Planeamento financeiro eficiente: mantenha-se atento aos números e às despesas, tome decisões informadas e ganhe clareza com painéis de controlo claros.'

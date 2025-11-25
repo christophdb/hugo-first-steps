@@ -1,10 +1,14 @@
 ---
 title: 'SeaTable On-Premises: Complete control on your own server'
-description: 'Install SeaTable on your own server and retain full control. Ideal for companies with high protection requirements'
+description: ''
 date: '2025-03-30'
 url: '/on-premises'
 aliases:
     - '/en/on-premises/'
+seo:
+    title: 'On-Premises: Secure Database Solution for Business'
+    description: 'Full control on your own server: SeaTable On-Premises secures data, custom access. The enterprise choice for IT compliance.'
+
 
 sections:
     - name: hero-5

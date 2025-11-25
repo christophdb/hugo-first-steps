@@ -1,6 +1,6 @@
 ---
 title: 'Registro digital del tiempo de trabajo con SeaTable: sencillo y conforme a la ley'
-description: 'Simplifique su registro del tiempo de trabajo con SeaTable: gratuito, digital y conforme a la ley. Para empresas de todos los tamaños: registro optimizado de las horas de trabajo, las vacaciones y las bajas por enfermedad, conforme a la GDPR y personalizable de forma flexible. Ahorre tiempo y minimice el esfuerzo administrativo con procesos automatizados y almacenamiento central de datos.'
+description: ''
 seo:
     title: 'Registro de horas con SeaTable | eficiente, digital y legal'
     description: 'Controla horas con SeaTable: digital, gratis y conforme RGPD. Gestión eficiente y legal de jornadas, vacaciones y bajas.'

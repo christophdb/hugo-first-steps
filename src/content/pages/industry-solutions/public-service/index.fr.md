@@ -1,6 +1,6 @@
 ---
 title: "L'administration numérique simplifiée pour les administrations et les entreprises"
-description: "L'administration numérique repensée : Seatable permet des solutions flexibles et personnalisables pour les administrations et les entreprises de toutes tailles"
+description: ''
 seo:
     title: "Administration numérique pour autorités et communes"
     description: "Facilitez la transformation numérique : SeaTable propose des solutions sans code, conformes au RGPD, en cloud ou sur site"

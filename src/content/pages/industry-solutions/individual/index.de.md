@@ -1,6 +1,6 @@
 ---
 title: 'Workflow Management: Prozesse effizient automatisieren'
-description: 'Optimieren Sie mit SeaTable Ihre Arbeitsabläufe, betreiben Sie modernes Workflow Management und automatisieren Sie so Ihre Prozesse.'
+description: ''
 seo:
     title: 'Workflow Management Tool: Prozesse einfach automatisieren | SeaTable'
     description: 'Workflow Management mit SeaTable: Erstellen, automatisieren und überwachen Sie Ihre Prozesse in Echtzeit – flexibel, No-Code und DSGVO-konform.'

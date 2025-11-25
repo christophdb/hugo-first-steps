@@ -1,10 +1,15 @@
 ---
 title: 'SeaTable Cloud: No-code platform for databases | Cloud solution'
-description: 'Discover SeaTable Cloud, the innovative no-code platform. You can develop customized solutions without any programming knowledge.'
+description: ''
 date: '2025-03-30'
 url: '/cloud'
 aliases:
     - '/en/cloud/'
+seo:
+    title: 'No-Code Cloud Database for Business & Teams'
+    description: 'SeaTable Cloud: Fast, secure & flexible No-Code platform. Start scalable database workflows and collaborate efficiently now.'
+
+
 
 sections:
     - name: hero-5

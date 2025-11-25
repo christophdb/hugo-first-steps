@@ -1,6 +1,6 @@
 ---
 title: 'Finanzplan erstellen: effizient & ohne Excel-Chaos mit SeaTable'
-description: 'Vereinfachen Sie Ihre Finanzplanung: Steigern Sie Ihre Effizienz, behalten Sie sämtliche Zahlen und Ausgaben im Blick und treffen Sie fundierte Entscheidungen – dank klarer Dashboards und schneller Umsetzung. Perfekt für Unternehmen, Gründer & Selbstständige, die Kontrolle, Struktur und Sicherheit bei der Planung wünschen.'
+description: ''
 seo:
     title: 'Finanzplan erstellen: effizient & ohne Excel-Chaos | SeaTable'
     description: 'Effiziente Finanzplanung: Zahlen und Ausgaben im Blick behalten, fundierte Entscheidungen treffen und Klarheit durch übersichtliche Dashboards gewinnen.'

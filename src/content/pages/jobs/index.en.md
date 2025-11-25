@@ -1,10 +1,13 @@
 ---
 title: 'SeaTable Jobs: Focus on joint successes'
-description: 'Discover SeaTable Jobs and revolutionize your daily work routine with our no-code platform. Become part of the change!'
+description: ''
 date: '2025-04-03'
 url: '/jobs'
 aliases:
     - '/en/jobs/'
+seo:
+    title: 'SeaTable Careers: Join the No-Code Revolution'
+    description: 'Join our global remote team and shape the future of data – apply for jobs at SeaTable and grow with us!'
 
 sections:
     - name: hero-2

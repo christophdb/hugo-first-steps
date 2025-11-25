@@ -1,8 +1,11 @@
 ---
 title: 'Die beste Datenbank-Lösung für Ihr Team | Funktionen SeaTable'
-description: 'Entdecken Sie die umfangreichen Funktionen von SeaTable: Von flexiblen Tabellen bis hin zu leistungsstarken Automatisierungen.'
+description: ''
 date: '2025-03-30'
 url: '/de/funktionen'
+seo:
+    title: 'Flexibles Datenmanagement & Automatisierung'
+    description: 'Behalten Sie die volle Kontrolle: Effiziente Tabellen, Automatisierung und sichere Teamarbeit mit SeaTable Funktionen erleben.'
 
 sections:
     - name: hero-3

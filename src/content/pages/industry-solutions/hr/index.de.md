@@ -1,6 +1,6 @@
 ---
 title: 'HR Prozesse digitalisieren und automatisieren mit SeaTable'
-description: 'Optimieren Sie Ihr HR-Management: Mit SeaTable automatisieren Sie Bewerbermanagement, Zeiterfassung & Personalakten DSGVO-konform. Vermeiden Sie Excel-Chaos, Zeitverlust und Datenschutzrisiken und gewinnen Sie Überblick, Sicherheit und Effizienz – für moderne HR-Teams.'
+description: ''
 seo:
     title: 'HR-Prozesse DSGVO-konform, digital & automatisiert | SeaTable'
     description: 'HR-Prozesse digitalisieren und automatisieren – DSGVO-konform mit SeaTable. Mehr Effizienz, Überblick und Sicherheit im HR-Management.'

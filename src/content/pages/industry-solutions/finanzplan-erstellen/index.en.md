@@ -1,6 +1,6 @@
 ---
 title: 'Create a financial plan: efficiently & without Excel chaos with SeaTable'
-description: 'Simplify your financial planning: increase your efficiency, keep an eye on all figures and expenses and make informed decisions - thanks to clear dashboards and fast implementation. Perfect for companies, start-ups and the self-employed who want control, structure and security when planning.'
+description: ''
 seo:
     title: 'Create a financial plan: efficient & without Excel chaos | SeaTable'
     description: 'Efficient financial planning: keep an eye on figures and expenditure, make informed decisions and gain clarity with clear dashboards.'

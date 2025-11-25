@@ -1,11 +1,14 @@
 ---
 title: 'Prensa de SeaTable: Noticias y reportajes'
-description: 'Obtenga más información sobre SeaTable y lea interesantes reportajes de los medios que analizan más de cerca nuestra plataforma sin código.'
+description: ''
 date: '2025-04-03'
 url: '/es/prensa'
 aliases:
     - '/es/press/'
     - '/es/presse/'
+seo:
+    title: 'SeaTable Prensa: Noticias y Recursos de Medios'
+    description: 'Consulte comunicados de prensa, coberturas y descargue materiales exclusivos de medios oficiales de SeaTable.'
 
 sections:
     - name: hero-6

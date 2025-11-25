@@ -3,6 +3,11 @@ title: 'SeaTable Cloud: plataforma sem código para bases de dados | solução e
 description: 'Descubra SeaTable Cloud, a inovadora plataforma sem código. Pode desenvolver soluções personalizadas sem qualquer conhecimento de programação.'
 date: '2025-03-30'
 url: '/pt/cloud'
+seo:
+    title: 'Banco de dados Cloud No-Code para empresas e equipes'
+    description: 'SeaTable Cloud: área segura, ágil e escalável. Crie soluções, gerencie dados e otimize processos sem programação.'
+
+
 
 sections:
     - name: hero-5

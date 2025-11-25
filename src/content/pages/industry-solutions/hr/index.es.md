@@ -1,6 +1,6 @@
 ---
 title: 'Digitalice y automatice los procesos de RRHH con SeaTable'
-description: 'Optimice su gestión de RR.HH.: Con SeaTable, puede automatizar la gestión de candidatos, el registro de tiempos y los expedientes de personal en cumplimiento de la GDPR. Evite el caos de Excel, la pérdida de tiempo y los riesgos para la protección de datos y obtenga una visión de conjunto, seguridad y eficacia, para los equipos de RRHH modernos.'
+description: ''
 seo:
     title: 'Procesos de RRHH conformes con GDPR, digitales y automatizados | SeaTable'
     description: 'Digitalice y automatice los procesos de RR.HH. - Cumpla la GDPR con SeaTable. Más eficiencia, visión de conjunto y seguridad en la gestión de RRHH.'

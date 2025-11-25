@@ -1,6 +1,6 @@
 ---
 title: "L'outil de gestion de projet flexible pour votre équipe"
-description: "Augmentez votre productivité avec SeaTable. L'outil de gestion de projet peut être adapté à vos besoins en quelques étapes simples."
+description: ''
 seo:
     title: "Outil de gestion de projet flexible & évolutif | SeaTable"
     description: "SeaTable - le logiciel de gestion de projet flexible pour les équipes de toutes tailles. Démarrez gratuitement, planifiez facilement vos projets, automatisez les tâches et soyez conforme au RGPD."

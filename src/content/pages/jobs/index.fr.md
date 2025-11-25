@@ -1,10 +1,13 @@
 ---
 title: 'Emplois SeaTable : Focaliser sur les succès communs'
-description: 'Découvre SeaTable Jobs et révolutionne ton travail quotidien grâce à notre plateforme No-Code. Prends part au changement !'
+description: ''
 date: '2025-04-03'
 url: '/fr/emploi'
 aliases:
     - '/fr/jobs/'
+seo:
+    title: 'Jobs SeaTable : Ensemble, changeons le travail'
+    description: 'Rejoins l’équipe SeaTable, travaille où tu veux et innove avec la communauté No-Code. Postule dès maintenant !'
 
 sections:
     - name: hero-2

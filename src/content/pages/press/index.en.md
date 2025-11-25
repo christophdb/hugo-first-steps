@@ -1,8 +1,11 @@
 ---
 title: 'SeaTable Press: News and media reports'
-description: 'Find out more about SeaTable and read interesting media reports that take a closer look at our no-code platform.'
+description: ''
 date: '2025-04-03'
 url: '/press'
+seo:
+    title: 'SeaTable Press: News, Media & Company Updates'
+    description: 'Find the latest SeaTable press releases, media reports and download our official press and media kit with all assets.'
 
 sections:
     - name: hero-6

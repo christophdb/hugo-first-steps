@@ -1,8 +1,12 @@
 ---
 title: 'SeaTable On-Premises: Controlo total no seu próprio servidor'
-description: 'Instale o SeaTable no seu próprio servidor e mantenha o controlo total. Ideal para empresas com elevados requisitos de proteção'
+description: ''
 date: '2025-03-30'
 url: '/pt/on-premises'
+seo:
+    title: 'On-Premises: banco de dados seguro para empresas'
+    description: 'Controle total : instale SeaTable em seu servidor, proteja e gerencie dados. Solução robusta para requisitos empresariais.'
+
 
 sections:
     - name: hero-5
