@@ -1,6 +1,6 @@
 ---
 title: 'Kontaktformular Vorlage'
-description: ''
+description: 'Erfassen und bearbeiten Sie Anfragen zentral, verwalten Sie Tickets übersichtlich und verbessern Sie Ihre Kundenkommunikation nachhaltig.'
 date: '2024-08-24'
 url: '/de/vorlage/kontaktformular-vorlage'
 aliases:

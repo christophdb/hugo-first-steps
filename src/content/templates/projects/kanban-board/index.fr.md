@@ -1,6 +1,6 @@
 ---
 title: 'Modèle de tableau Kanban'
-description: ''
+description: "Gérez vos projets, travaillez en équipe et optimisez les flux via des automations et dashboards analytiques, toujours en conformité et à distance."
 date: '2025-03-05'
 url: '/fr/modele/tableau-kanban-gratuit'
 aliases:

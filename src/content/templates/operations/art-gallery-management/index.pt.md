@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de galerias de arte'
-description: ''
+description: 'Gerencie coleções, artistas, empréstimos e exposições, organize contatos e seguros para museus e galerias com máxima eficiência.'
 date: '2024-08-24'
 url: '/pt/modelo/galeria-arte'
 aliases:

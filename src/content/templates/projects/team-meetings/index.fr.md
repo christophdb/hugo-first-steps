@@ -1,6 +1,6 @@
 ---
 title: "Réunions d'équipe"
-description: ''
+description: 'Planifiez et organisez vos réunions, centralisez les ordres du jour et assurez le suivi des actions dans un même outil.'
 date: '2025-03-03'
 url: '/fr/modele/reunion-equipe'
 aliases:

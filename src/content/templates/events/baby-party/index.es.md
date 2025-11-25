@@ -1,6 +1,6 @@
 ---
 title: 'Baby shower'
-description: ''
+description: 'Organice, coordine y gestione su baby shower fácilmente en un solo sitio. Controle invitados, tareas y regalos, invite amigos mediante formulario online. Todos los datos estarán claros, actualizados y accesibles para una fiesta memorable.'
 date: '2024-08-24'
 url: '/es/plantilla/baby-shower'
 aliases:

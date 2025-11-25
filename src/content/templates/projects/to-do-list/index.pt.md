@@ -1,13 +1,15 @@
 ---
 title: 'Lista de tarefas'
-description: ''
+description: 'Gerencie tarefas, subtarefas e prazos, priorize ações e mantenha toda a equipe alinhada para resultados sempre otimizados.'
 date: 2024-08-30
-url: '/pt/modelo/to-do-list'
+url: '/pt/modelo/lista-de-tarefas'
+alaises:
+    - '/pt/modelo/to-do-list'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lista de Tarefas: Organize e Priorize Já'
+    description: 'Estruture, priorize e acompanhe tarefas online – mantenha seu time focado e nunca perca prazos.'
 template: '6381c036ff2649739c80'
 weight: 1
 ---

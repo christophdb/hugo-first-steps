@@ -1,6 +1,6 @@
 ---
 title: 'Planifier des funérailles'
-description: ''
+description: 'Gardez une vue d’ensemble sur tâches, coûts et invités lors des funérailles. Planifiez, coordonnez et déléguez sereinement pour une cérémonie digne. Des listes de contrôle numériques apportent clarté et soulagement en période difficile.'
 date: '2024-08-24'
 url: '/fr/modele/planificateur-obseques'
 aliases:

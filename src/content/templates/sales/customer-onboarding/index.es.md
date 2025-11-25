@@ -1,6 +1,6 @@
 ---
 title: 'Incorporación de clientes'
-description: ''
+description: 'Automatice tareas, responsables y seguimiento, mejore la experiencia de sus clientes desde el primer contacto.'
 date: '2024-08-16'
 url: '/es/plantilla/onboarding-clientes'
 aliases:

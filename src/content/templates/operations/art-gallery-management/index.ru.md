@@ -1,6 +1,6 @@
 ---
 title: 'Управление художественной галереей'
-description: ''
+description: 'Ведите учёт коллекций, художников и выставок, управлять страховками и контактами галереи онлайн и удобно.'
 date: '2024-08-24'
 url: '/ru/shablon/upravleniya-khudozhestvennoy-galereey'
 aliases:

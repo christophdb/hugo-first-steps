@@ -1,6 +1,6 @@
 ---
 title: 'Reuniones de equipo'
-description: ''
+description: 'Mejore la coordinación, documente reuniones y gestione tareas con agendas y minutas digitales accesibles para el equipo.'
 date: '2025-03-03'
 url: '/es/plantilla/reuniones-equipo'
 aliases:

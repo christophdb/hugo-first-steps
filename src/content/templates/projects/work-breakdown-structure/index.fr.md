@@ -1,13 +1,15 @@
 ---
 title: 'Plan de structure du projet'
-description: ''
+description: "Planifiez et structurez les projets, attribuez des tâches, suivez l’avancement dans une arborescence visible et interactive."
 date: '2024-08-17'
-url: '/fr/modele/work-breakdown-structure'
+url: '/fr/modele/structure-projet'
+aliases:
+    - '/fr/modele/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Structure de projet: Modèle WBS pour le succès'
+    description: 'Décomposez et planifiez les projets par lots de travail, assignez et suivez chaque tâche facilement.'
 template: '898485ee9b7949c5b987'
 ---
 

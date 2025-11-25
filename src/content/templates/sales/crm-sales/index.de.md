@@ -1,6 +1,6 @@
 ---
 title: 'CRM & Verkäufe'
-description: 'Erfassen Sie Kunden und Angebote und dokumentieren Sie sämtliche Interaktionen.'
+description: 'Verwalten Sie Kunden, Angebote, Pipeline und Verkäufe digital, steuern Sie Interaktionen und analysieren Sie Daten zentral.'
 date: '2024-08-16'
 url: '/de/vorlage/crm-sales'
 category: 'sales'

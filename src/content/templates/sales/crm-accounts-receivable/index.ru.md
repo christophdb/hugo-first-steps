@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Дебиторская задолженность'
-description: ''
+description: 'Отслеживайте счета, платежи, напоминания и держите под контролем дебиторскую задолженность всей компании.'
 date: '2024-08-16'
 url: '/ru/shablon/debitorskaya-zadolzhennost'
 aliases:

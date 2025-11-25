@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de quadro Kanban'
-description: ''
+description: "Organize equipes, automatize processos e acompanhe projetos em tempo real – tudo isso com segurança, flexibilidade e fácil análise."
 date: '2025-03-05'
 url: '/pt/modelo/quadro-kanban-gratis'
 aliases:

@@ -1,13 +1,15 @@
 ---
 title: 'Saisie du temps de projet'
-description: ''
+description: 'Gérez le temps et les ressources de projets en ligne, suivez l’avancement, éditez des factures et obtenez des données fiables pour votre gestion.'
 date: '2025-03-12'
-url: '/fr/modele/project-time-tracking'
+url: '/fr/modele/suivi-temps-projet'
+aliases:
+    - '/fr/modele/project-time-tracking'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Suivi du temps projet: Rapide & précis'
+    description: 'Suivez, analysez et partagez le temps passé sur chaque projet. Facturation et gestion d’équipe en toute simplicité.'
 template: 'c6cc4782daa548b2b19d'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Terminbuchungen'
-description: ''
+description: 'Planen und verwalten Sie Termine zentral, automatisieren Sie Buchungsprozesse und reduzieren Sie Abstimmungsaufwand deutlich.'
 date: '2024-08-16'
 url: '/de/vorlage/terminbuchungen'
 aliases: 

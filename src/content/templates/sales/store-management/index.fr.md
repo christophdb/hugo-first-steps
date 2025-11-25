@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des filiales'
-description: ''
+description: 'Gérez magasins, équipes et ressources, suivez les ventes et organisez tout le matériel depuis un système digital et centralisé.'
 date: '2024-08-16'
 url: '/fr/modele/gestion-filiales'
 aliases:

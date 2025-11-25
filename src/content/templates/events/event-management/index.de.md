@@ -1,6 +1,6 @@
 ---
 title: 'Event Management'
-description: 'Behalten Sie alle wichtigen Details bei Ihrer Veranstaltungsplanung im Blick.'
+description: 'Steuern Sie Aufgaben, Teilnehmer und Budgets zentral und automatisch. Verwalten Sie Registrierungen, Künstler und Daten in einem flexiblen Tool. Schnelle Auswertung und klare Prozesse sorgen für reibungslose Events.'
 url: '/de/vorlage/event-management'
 category: 'ereignisse'
 functions:

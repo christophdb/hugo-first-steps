@@ -1,6 +1,6 @@
 ---
 title: 'Formulario de contacto'
-description: ''
+description: 'Reciba y gestione consultas, convierta mensajes en tickets y mejore el soporte al cliente mediante un sistema digital centralizado.'
 date: '2024-08-24'
 url: '/es/plantilla/formulario-contacto'
 aliases:

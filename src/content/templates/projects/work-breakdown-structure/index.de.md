@@ -1,13 +1,15 @@
 ---
 title: 'Projektstrukturplan'
-description: ''
+description: 'Strukturieren Sie Ihr Projekt, teilen Sie Aufgaben auf, delegieren Sie Verantwortlichkeiten und visualisieren Sie Fortschritte klar und nachvollziehbar.'
 date: '2024-08-17'
-url: '/de/vorlage/work-breakdown-structure'
+url: '/de/vorlage/projektstrukturplan'
+aliases:
+    - '/de/vorlage/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Projektstrukturplan Vorlage: Struktur für Ihr Projekt'
+    description: 'Gliedern Sie Projekte in Teilaufgaben, Arbeitspakete und Phasen. Behalten Sie Motivation und Fortschritt stets im Blick.'
 template: '898485ee9b7949c5b987'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de confirmação de encomenda'
-description: ''
+description: 'Crie confirmações de pedido digitalmente, automatize envios e acompanhe informações de vendas com máxima eficiência.'
 date: '2025-05-02'
 url: '/pt/modelo/confirmacao-pedido'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Gestión de clientes'
-description: ''
+description: 'Gestione clientes, oportunidades y presupuestos, automatice datos y mejore sus procesos comerciales fácilmente.'
 date: '2025-04-05'
 url: '/es/plantilla/crm-offer-management'
 category: 'sales'

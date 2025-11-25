@@ -1,6 +1,7 @@
 ---
 title: 'Party Planner'
-description: ''
+description: 'Plan your party stress-free and digitally: manage guests, contributions, and tasks with ease.
+Invite online, organize wishes, and keep everything in one place.'
 date: '2024-08-24'
 url: '/template/party-planner'
 category: 'events'

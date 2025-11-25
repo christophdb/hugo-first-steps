@@ -1,6 +1,6 @@
 ---
 title: 'Warehouse management'
-description: ''
+description: 'Manage inventory and storage, automate notifications, track all movements and get real-time insights with digital dashboards.'
 date: '2025-07-18'
 url: '/template/warehouse-management'
 category: 'operations'

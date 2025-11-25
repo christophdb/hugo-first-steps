@@ -1,6 +1,6 @@
 ---
 title: 'Lieferkettenmanagement'
-description: ''
+description: 'Steuern Sie Warenein- und -ausgänge, Lagerbestände und Nachbestellungen automatisiert und behalten Sie jederzeit Kontrolle über Ihre Lieferkette.'
 date: '2024-08-24'
 url: '/de/vorlage/lieferkettenmanagement'
 aliases:

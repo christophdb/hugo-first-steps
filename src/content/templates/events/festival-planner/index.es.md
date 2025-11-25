@@ -1,6 +1,6 @@
 ---
 title: 'Planificador de festivales'
-description: ''
+description: 'Organiza tu festival en equipo: controla la lista de cosas, el line-up y el horario en un solo lugar, coordina gustos y prepárate mejor – digital, interactivo y siempre actualizado.'
 date: '2024-08-24'
 url: '/es/plantilla/planificador-festival'
 aliases:

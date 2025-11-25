@@ -1,6 +1,6 @@
 ---
 title: "Gestion de la galerie d'art"
-description: ''
+description: 'Gérez œuvres, artistes, événements et partenaires, centralisez les prêts et simplifiez vos opérations muséales et artistiques.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-galerie-art'
 aliases:

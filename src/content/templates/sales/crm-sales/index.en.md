@@ -1,6 +1,6 @@
 ---
 title: 'CRM & Sales'
-description: ''
+description: 'Manage customers, pipeline and sales deals from one dashboard, document all activities and analyze your sales process easily.'
 date: '2024-08-16'
 url: '/template/crm-sales'
 category: 'sales'

@@ -1,13 +1,13 @@
 ---
 title: 'Project Time Tracking'
-description: 'Record the project times of your employees for evaluations and invoices to your customers.'
+description: 'Track project time online or via app, assign clients and projects, create invoices and keep an eye on deadlines and budgets.'
 date: '2025-03-12'
 url: '/template/project-time-tracking'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Project Time Tracking: Log Your Hours Accurately'
+    description: 'Track project hours in real time, assign tasks, generate precise invoices and monitor team workload – online and mobile.'
 template: 'c6cc4782daa548b2b19d'
 ---
 

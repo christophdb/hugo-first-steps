@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de almacenes'
-description: ''
+description: 'Gestione inventarios y ubicaciones, automatice avisos y consulte datos actualizados en tiempo real y en un solo lugar.'
 date: '2025-07-18'
 url: '/es/plantilla/gestion-de-almacenes'
 category: 'operations'

@@ -1,6 +1,6 @@
 ---
 title: 'Marcação de compromissos'
-description: ''
+description: 'Cadastre horários, automatize marcações e mantenha toda a equipe a par dos compromissos de forma central e eficiente.'
 date: '2024-08-16'
 url: '/pt/modelo/agendamento-online'
 aliases: 

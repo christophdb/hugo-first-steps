@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de armazéns'
-description: ''
+description: 'Administre estoque e armazenamento digitalmente, automatize alertas e consulte métricas de movimentação no dashboard em tempo real.'
 date: '2025-07-18'
 url: '/pt/modelo/gestao-de-armazens'
 category: 'operations'

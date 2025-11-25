@@ -1,6 +1,6 @@
 ---
 title: 'Questionário NPS'
-description: ''
+description: 'Com este modelo, pode registar e analisar o feedback dos clientes de forma centralizada através de um inquérito NPS, visualizar os resultados em tempo real e identificar imediatamente o potencial de otimização.'
 date: '2024-08-24'
 url: '/pt/modelo/calculadora-nps'
 aliases:

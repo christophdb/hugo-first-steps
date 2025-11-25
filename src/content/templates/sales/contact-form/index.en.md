@@ -1,6 +1,6 @@
 ---
 title: 'Contact Form'
-description: ''
+description: 'Capture inquiries using a digital form, transform them into tickets, and streamline team follow-up with automation.'
 date: '2024-08-24'
 url: '/template/contact-form'
 category: 'sales'

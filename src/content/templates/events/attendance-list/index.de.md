@@ -1,6 +1,6 @@
 ---
 title: 'Anwesenheitsliste Vorlage'
-description: 'Erfassen Sie die Anwesenheiten von Mitarbeitern und Teilnehmern.'
+description: 'Erfassen und verwalten Sie Anwesenheiten in Sekunden – digital, fehlerfrei und jederzeit abrufbar. Automatische Speicherung, flexible Auswertung und volle Kontrolle über Datenschutz und Zugriffsrechte. So läuft jede Veranstaltung professionell und papierlos ab.'
 date: '2025-02-28'
 url: '/de/vorlage/anwesenheitsliste-vorlage'
 aliases:

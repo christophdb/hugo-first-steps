@@ -1,6 +1,6 @@
 ---
 title: 'Vereinsmanagement'
-description: ''
+description: 'Verwalten Sie Mitgliederdaten, Beiträge, Termine und Finanzen zentral. Automatisieren Sie Prozesse und behalten Sie Ihre Vereinsorganisation im Griff.'
 date: '2024-08-24'
 url: '/de/vorlage/vereinsverwaltung'
 aliases:

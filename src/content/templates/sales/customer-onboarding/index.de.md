@@ -1,6 +1,6 @@
 ---
 title: 'Customer-Onboarding'
-description: ''
+description: 'Steuern Sie Aufgaben, Betreuung und Feedback digital, automatisieren Sie Onboarding-Schritte und behalten Sie alles im Blick.'
 date: '2024-08-16'
 url: '/de/vorlage/kunden-onboarding'
 aliases:

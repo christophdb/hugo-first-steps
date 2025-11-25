@@ -1,6 +1,6 @@
 ---
 title: 'Writing Plan'
-description: ''
+description: 'Organize your story, manage character and plot details, and keep your writing project transparent and accessible.'
 date: '2024-08-24'
 url: '/template/writing-plan'
 category: 'projects'

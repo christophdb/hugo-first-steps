@@ -1,6 +1,6 @@
 ---
 title: 'Embarque de clientes'
-description: ''
+description: 'Gerencie tarefas, automatize apresentações, atribua responsáveis e monitorize toda a experiência do novo cliente digitalmente.'
 date: '2024-08-16'
 url: '/pt/modelo/onboarding-clientes'
 aliases:

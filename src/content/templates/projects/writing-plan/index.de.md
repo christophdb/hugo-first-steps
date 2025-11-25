@@ -1,6 +1,6 @@
 ---
 title: 'Schreibplan'
-description: ''
+description: 'Planen Sie Handlungsverlauf, Figuren und Orte, ordnen Sie Kapitel und bewahren Sie den Überblick in Ihrem Buchprojekt.'
 date: '2024-08-24'
 url: '/de/vorlage/schreibplan'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Journal alimentaire'
-description: ''
+description: "Documentez vos repas de manière structurée, identifiez les schémas d'intolérance et partagez facilement les données pertinentes avec des experts. L'application permet d'analyser les habitudes alimentaires, de définir des rappels et d'assurer une plus grande transparence dans la vie quotidienne."
 date: '2025-07-18'
 url: '/fr/modele/journal-alimentaire'
 category: 'everyday-life'

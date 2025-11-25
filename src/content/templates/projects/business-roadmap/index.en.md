@@ -1,13 +1,13 @@
 ---
 title: 'Business Roadmap'
-description: 'Develop a strong business strategy and derive your long-term actions from it.'
+description: 'Define company strategy, align initiatives, and enable your team to collaborate for consistent business success. Achieve structure and clarity across all levels.'
 date: '2024-08-24'
 url: '/template/business-roadmap'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Business Roadmap Template for Clear Strategies'
+    description: 'Align teams and monitor business initiatives. Keep strategic goals transparent and foster long-term growth with a clear business plan.'
 template: '7885fb8884474b68aa1a'
 ---
 

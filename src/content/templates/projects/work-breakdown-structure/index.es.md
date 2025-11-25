@@ -1,13 +1,15 @@
 ---
 title: 'Estructura del plan de trabajo'
-description: ''
+description: 'Organice proyectos en fases y tareas, asigne responsables y vea el avance detallado de su equipo siempre que lo necesite.'
 date: '2024-08-17'
-url: '/es/plantilla/work-breakdown-structure'
+url: '/es/plantilla/estructura-trabajo'
+aliases:
+    - '/es/plantilla/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Estructura Desglosada del Trabajo: Su Proyecto Claro'
+    description: 'Visualice su proyecto paso a paso, asigne responsables y controle avances desde un mismo lugar centralizado.'
 template: '898485ee9b7949c5b987'
 ---
 
