@@ -42,6 +42,8 @@
                                         {{ with .Resources.GetMatch "feature.*" }}
                                             <img src="{{ .RelPermalink }}" alt="{{ $.Title }} Feature Image" class="rounded-t-lg !border-b border-gray-200" />
                                         {{ end }}
+
+
                                         <h3 class="!px-4 !py-6 !text-xl tracking-tight">{{ .Title }}</h3>
                                         {{ with .Params.description }}
                                             <p class="p-4 pt-0 !text-sm font-normal !leading-normal text-gray-600">{{ . }}</p>
@@ -54,19 +56,19 @@
                 </div>
             {{ else }}
                 <!-- max width of the blog posts is 768px -> image optimization -->
-                <div class="post-content my-12 w-full max-w-3xl lg:w-3/4">
-                    <div class="grid grid-cols-2 gap-4">
+                <div class="post-content my-12 w-full lg:w-3/4">
+                    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                         {{ range .RegularPagesRecursive }}
-                            <div class="border">
+                            <div class="rounded-lg border border-gray-400">
                                 <a href="{{ .RelPermalink }}">
                                     {{ with .Resources.GetMatch "feature.*" }}
-                                        <img src="{{ .RelPermalink }}" alt="{{ $.Title }} Feature Image" />
+                                        <img src="{{ .RelPermalink }}" alt="{{ $.Title }} Feature Image" class="rounded-t-lg !border-b border-gray-200" />
                                     {{ end }}
 
 
-                                    <h3 class="px-4 !pb-0 !pt-4">{{ .Title }}</h3>
+                                    <h3 class="!px-4 !py-6 !text-xl tracking-tight">{{ .Title }}</h3>
                                     {{ with .Params.description }}
-                                        <p class="p-4 !text-base font-normal text-gray-600">{{ . }}</p>
+                                        <p class="p-4 pt-0 !text-sm font-normal !leading-normal text-gray-600">{{ . }}</p>
                                     {{ end }}
 
                                 </a>
