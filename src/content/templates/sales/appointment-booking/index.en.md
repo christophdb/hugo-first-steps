@@ -1,6 +1,6 @@
 ---
 title: 'Appointment Booking'
-description: ''
+description: 'Schedule appointments, automate bookings, share time slots and minimize coordination effort for your business or team.'
 date: '2024-08-16'
 url: '/template/appointment-booking'
 aliases: 

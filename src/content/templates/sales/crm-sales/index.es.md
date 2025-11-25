@@ -1,6 +1,6 @@
 ---
 title: 'CRM y ventas'
-description: ''
+description: 'Centralice datos de clientes y ventas, gestione ofertas y pipeline, y obtenga análisis completos de su proceso comercial.'
 date: '2024-08-16'
 url: '/es/plantilla/crm-ventas'
 aliases:

@@ -1,13 +1,13 @@
 ---
 title: 'To-Do-List'
-description: Structure your work and never forget important to-dos again.
+description: 'Organize and track your tasks, set priorities, create subtasks and collaborate online to keep productivity high at all times.'
 date: 2024-08-30
 url: '/template/to-do-list'
 category: 'projects'
 functions:
 seo:
-    title: 'Template: To-Do-List'
-    description: ''
+    title: 'To-Do List Template: Stay Organized & Productive'
+    description: 'Manage, prioritize and track all your tasks online. Boost team efficiency and never lose sight of your next steps.'
 template: '6381c036ff2649739c80'
 weight: 1
 ---

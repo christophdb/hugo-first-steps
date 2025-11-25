@@ -1,6 +1,6 @@
 ---
 title: 'Liste de présence'
-description: ''
+description: "Saisissez et gérez les présences en quelques secondes – digital, fiable, toujours accessible. Données automatiquement enregistrées, facilement exploitables, protégées par des droits d’accès. Chaque événement reste organisé, sans papier."
 date: '2025-02-28'
 url: '/fr/modele/feuille-presence'
 aliases:

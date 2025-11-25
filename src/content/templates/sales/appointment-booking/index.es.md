@@ -1,6 +1,6 @@
 ---
 title: 'Reservas de citas'
-description: ''
+description: 'Programe citas, automatice las reservas y evite problemas de coordinación con una visión clara de su agenda.'
 date: '2024-08-16'
 url: '/es/plantilla/reservas_de_citas'
 aliases: 

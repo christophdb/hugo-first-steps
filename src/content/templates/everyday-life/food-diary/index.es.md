@@ -1,6 +1,6 @@
 ---
 title: 'Diario alimentario'
-description: ''
+description: 'Documente sus comidas de forma estructurada, reconozca patrones de intolerancias y comparta fácilmente los datos relevantes con los expertos. La app le ayuda a analizar los hábitos alimentarios, establecer recordatorios y garantizar una mayor transparencia en la vida cotidiana.'
 date: '2025-07-18'
 url: '/es/plantilla/diario-alimentario'
 category: 'everyday-life'

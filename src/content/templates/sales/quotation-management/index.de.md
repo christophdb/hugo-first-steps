@@ -1,6 +1,6 @@
 ---
 title: 'Angebot schreiben'
-description: ''
+description: 'Erstellen Sie Angebote schnell, strukturieren Sie alle Angebotsdaten und automatisieren Sie den Versand effizient per E-Mail oder PDF.'
 date: '2025-04-06'
 url: '/de/vorlage/angebot-schreiben'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Plan de medicación'
-description: ''
+description: 'Con esta plantilla de plan de medicación, puede gestionar todos los medicamentos, dosis y contactos médicos de forma clara y centralizada, actualizar los datos en cualquier momento y crear un resumen imprimible con sólo pulsar un botón: seguro, digital y conforme a la GDPR.'
 date: '2025-09-23'
 url: '/es/plantilla/plan-de-medicacion'
 category: 'healthcare'

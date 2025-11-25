@@ -1,6 +1,6 @@
 ---
 title: 'Proceso de venta'
-description: ''
+description: 'Supervise fases, oportunidades y cierre ventas eficientemente gestionando cada paso de su pipeline digitalmente.'
 date: '2024-08-16'
 url: '/es/plantilla/pipeline-ventas'
 aliases:

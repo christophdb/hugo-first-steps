@@ -1,6 +1,6 @@
 ---
 title: 'Planificateur de festival'
-description: ''
+description: 'Organisez votre festival en équipe : centralisez la checklist, le programme et le planning, tenez compte des envies du groupe et partez parfaitement préparé – numérique, interactif et toujours à jour.'
 date: '2024-08-24'
 url: '/fr/modele/planificateur-festival'
 aliases:

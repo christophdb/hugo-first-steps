@@ -1,6 +1,6 @@
 ---
 title: 'Fête de bébé'
-description: ''
+description: 'Planifiez, organisez et coordonnez votre baby shower sereinement au même endroit. Gérez les invités, tâches et cadeaux, invitez vos amis via formulaire web. Toutes les infos restent claires, à jour et disponibles pour une fête réussie.'
 date: '2024-08-24'
 url: '/fr/modele/baby-shower'
 aliases:

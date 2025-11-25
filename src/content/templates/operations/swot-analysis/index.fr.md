@@ -1,6 +1,6 @@
 ---
 title: "Modèle d'analyse SWOT"
-description: ''
+description: 'Listez et classez vos SWOT, visualisez forces et risques et pilotez des plans d’action pour renforcer la stratégie d’entreprise.'
 date: '2025-02-23'
 url: '/fr/modele/analyse-swot'
 aliases:

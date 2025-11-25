@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de la cadena de suministro'
-description: ''
+description: 'Organice inventarios, automatice abastecimientos y garantice el suministro optimizando cada etapa del proceso logístico.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-cadena-suministro'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de sucursales'
-description: ''
+description: 'Gestione sucursales, equipos y materiales POS desde una sola herramienta digital y optimice procesos comerciales fácilmente.'
 date: '2024-08-16'
 url: '/es/plantilla/gestion-sucursales'
 aliases:

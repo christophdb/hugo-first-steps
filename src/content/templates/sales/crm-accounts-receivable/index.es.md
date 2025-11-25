@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Cuentas por cobrar'
-description: ''
+description: 'Administre facturas, pagos y recordatorios, controle deudas y analice toda la información relevante en tiempo real.'
 date: '2024-08-16'
 url: '/es/plantilla/crm-cuentas-cobrar'
 aliases:

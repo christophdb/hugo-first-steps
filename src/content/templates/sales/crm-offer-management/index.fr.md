@@ -1,6 +1,6 @@
 ---
 title: 'CRM : gestion de la clientèle'
-description: ''
+description: 'Gérez vos clients, rendez-vous, devis et phases commerciales dans un outil tout-en-un pour piloter vos ventes.'
 date: '2025-04-05'
 url: '/fr/modele/crm-offer-management'
 category: 'sales'

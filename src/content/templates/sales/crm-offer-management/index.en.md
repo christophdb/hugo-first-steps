@@ -1,6 +1,6 @@
 ---
 title: 'CRM - offer management'
-description: ''
+description: 'Organize customers, appointments, offers and revenue in one place, automate data flows and optimize your sales cycle.'
 date: '2025-04-05'
 url: '/template/crm-offer-management'
 category: 'sales'

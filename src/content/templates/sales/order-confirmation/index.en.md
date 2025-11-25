@@ -1,6 +1,6 @@
 ---
 title: 'Order Confirmation'
-description: ''
+description: 'Create and manage order confirmations online, automate document creation and centralize every customer’s order data for your team.'
 date: '2025-05-02'
 url: '/template/order-confirmation'
 category: 'sales'

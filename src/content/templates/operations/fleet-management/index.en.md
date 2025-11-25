@@ -1,6 +1,6 @@
 ---
 title: 'Fleet Management'
-description: ''
+description: 'Organize fleet, monitor maintenance and booking, track vehicle costs and keep all data secure and available 24/7 online.'
 date: '2025-03-12'
 url: '/template/fleet-management'
 category: 'operations'

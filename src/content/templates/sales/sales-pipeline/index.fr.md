@@ -1,6 +1,6 @@
 ---
 title: 'Pipeline de vente'
-description: ''
+description: 'Contrôlez pipeline et opportunités, structurez le parcours commercial et augmentez la conversion avec une gestion optimisée de chaque deal.'
 date: '2024-08-16'
 url: '/fr/modele/pipeline-vente'
 aliases:

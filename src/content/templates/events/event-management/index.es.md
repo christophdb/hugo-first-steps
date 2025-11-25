@@ -1,12 +1,12 @@
 ---
 title: 'Gestión de eventos'
-description: ''
+description: 'Controle todas las tareas, participantes y presupuestos en un mismo sitio. Gestione inscripciones y datos automáticamente para procesos claros y rápidos. Sus eventos serán eficientes y siempre bien organizados.'
 url: '/es/plantillas/gestion-eventos'
 category: 'ereignisse'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla para la gestión de eventos: planificación y ejecución sencillas'
+    description: 'Planifique, organice y haga un seguimiento de cada detalle. Con esta plantilla de gestión de eventos, podrá organizar sus actos sin esfuerzo'
 template: 'bb4d007014a64a18be06'
 weight: 2
 ---

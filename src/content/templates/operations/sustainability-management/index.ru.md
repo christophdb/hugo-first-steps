@@ -1,6 +1,6 @@
 ---
 title: 'Управление устойчивым развитием'
-description: ''
+description: 'Ведите учёт целей и инициатив, собирайте метрики по ESG, управляйте всеми задачами по устойчивому развитию бизнеса в одной системе.'
 date: '2024-08-24'
 url: '/ru/shablon/upravleniya-ustoychivym-razvitiem'
 aliases:

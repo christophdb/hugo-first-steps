@@ -1,13 +1,15 @@
 ---
 title: 'Liste des choses à faire'
-description: ''
+description: 'Centralisez vos tâches, assignez des priorités et collaborez efficacement pour ne rien oublier et respecter vos délais.'
 date: 2024-08-30
-url: '/fr/modele/to-do-list'
+url: '/fr/modele/liste-de-taches'
+aliases:
+    - '/fr/modele/to-do-list'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Liste de tâches: Gérer, prioriser, réussir'
+    description: 'Organisez, suivez et priorisez toutes vos tâches. Visualisez facilement l’avancement de vos projets d’équipe.'
 template: '6381c036ff2649739c80'
 weight: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Maßnahmenplan Vorlage'
-description: ''
+description: 'Behalten Sie Ziele, Prioritäten und Deadlines ganzjährig im Blick, steuern Sie Verantwortlichkeiten effizient und sichern Sie eine strukturierte Umsetzung aller Marketingmaßnahmen.'
 date: '2024-08-24'
 url: '/de/vorlage/massnahmenplan-vorlage'
 aliases:
@@ -8,7 +8,7 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: 'Maßnahmenplan Vorlage für bessere Prozesse nutzen '
+    title: 'Maßnahmenplan Vorlage für bessere Prozesse nutzen'
     description: 'Verbessern Sie Ihr Qualitätsmanagement mit dieser Vorlage. Definieren Sie Maßnahmen, weisen Sie Verantwortliche zu und behalten Sie den Überblick.'
 template: 'f8cbffefa532432e9ca8'
 weight: 4

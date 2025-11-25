@@ -1,6 +1,6 @@
 ---
 title: 'Lista de asistencia'
-description: ''
+description: 'Registre y gestione asistencias en segundos: digital, preciso y siempre disponible. Los datos se guardan automáticamente, se analizan fácilmente y están protegidos. Así cada evento es profesional y sin papel.'
 date: '2025-02-28'
 url: '/es/plantilla/lista-asistencia'
 aliases:

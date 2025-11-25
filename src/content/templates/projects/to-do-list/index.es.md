@@ -1,13 +1,15 @@
 ---
 title: 'Lista de tareas pendientes'
-description: ''
+description: 'Organice tareas y plazos, cree subtareas y colabore online para optimizar la eficiencia y tener todo bajo control.'
 date: 2024-08-30
-url: '/es/plantilla/to-do-list'
+url: '/es/plantilla/lista-de-tareas'
+aliases:
+    - '/es/plantilla/to-do-list'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lista de Tareas: Organice y Priorice Online'
+    description: 'Gestione tareas y prioridades, visualice avances y simplifique su flujo de trabajo en equipo con vistas personalizables. '
 template: '6381c036ff2649739c80'
 weight: 1
 ---

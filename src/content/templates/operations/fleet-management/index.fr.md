@@ -1,6 +1,6 @@
 ---
 title: 'Logiciel de gestion de parc automobile'
-description: ''
+description: 'Gérez parc auto, réservation et maintenance, analysez les coûts et sécurisez toutes les informations en mode digital et collaboratif.'
 date: '2025-03-12'
 url: '/fr/modele/logiciel-gestion-flotte'
 aliases:

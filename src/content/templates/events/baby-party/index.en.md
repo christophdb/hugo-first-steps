@@ -1,6 +1,6 @@
 ---
 title: 'Baby Party'
-description: ''
+description: 'Plan, organize, and coordinate your baby shower with ease in one place. Manage guests, tasks, and gifts efficiently; invite friends via web form. All details stay clear, current, and flexible for a perfect celebration.'
 date: '2024-08-24'
 url: '/template/baby-party'
 category: 'events'

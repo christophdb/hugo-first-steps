@@ -1,6 +1,6 @@
 ---
 title: 'Customer Onboarding'
-description: ''
+description: 'Guide new clients step-by-step, automate handoffs, assign tasks and feedback, and keep every phase under control online.'
 date: '2024-08-16'
 url: '/template/customer-onboarding'
 category: 'sales'

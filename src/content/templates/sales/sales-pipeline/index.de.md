@@ -1,6 +1,6 @@
 ---
 title: 'Verkaufspipeline'
-description: ''
+description: 'Überwachen Sie Pipeline und Chancen, steuern Sie Vertriebsphasen gezielt und optimieren Sie Abschlussquoten mit klaren, digitalen Workflows.'
 date: '2024-08-16'
 url: '/de/vorlage/verkaufspipeline'
 aliases:

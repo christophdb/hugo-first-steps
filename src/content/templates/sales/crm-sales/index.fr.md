@@ -1,6 +1,6 @@
 ---
 title: 'CRM et ventes'
-description: ''
+description: 'Centralisez gestion client, pipeline, devis et ventes, documentez les interactions et analysez la performance commerciale plus facilement.'
 date: '2024-08-16'
 url: '/fr/modele/crm-ventes'
 aliases:

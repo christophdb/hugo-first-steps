@@ -1,6 +1,6 @@
 ---
 title: 'Food Diary'
-description: ''
+description: 'Document your meals in a structured way, recognise patterns of intolerances and easily share relevant data with experts. The app helps you to analyse eating habits, set reminders and ensure greater transparency in everyday life.'
 date: '2025-07-18'
 url: '/template/food-diary'
 category: 'everyday-life'

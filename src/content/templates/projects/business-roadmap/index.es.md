@@ -1,13 +1,15 @@
 ---
 title: 'Plan de negocio'
-description: ''
+description: 'Gestione metas, coordine estrategias y mejore la comunicación entre equipos para lograr una planificación empresarial eficaz y transparente.'
 date: '2024-08-24'
-url: '/es/plantilla/business-roadmap'
+url: '/es/plantilla/plan-de-negocios'
+aliases:
+    - '/es/plantilla/business-roadmap'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de Plan de Negocios estructurado'
+    description: 'Defina metas, projete iniciativas y mantenga su equipo informado con una guía clara para el éxito empresarial a largo plazo.'
 template: '7885fb8884474b68aa1a'
 ---
 

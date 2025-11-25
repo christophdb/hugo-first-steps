@@ -1,13 +1,14 @@
 ---
 title: 'Advent Calendar'
-description: ''
+description: 'Create your unique digital Advent calendar, fill it with surprises or media and share via link. Customize content flexibly and build excitement with family, friends, or colleagues.
+Easy to design and share – for more festive spirit!'
 date: '2025-02-28'
 url: '/template/advent-calendar'
 category: 'events'
 functions:
 seo:
-    title: 'Einfache Adventskalender-Vorlage für Teams und Familie'
-    description: 'Erstellen Sie ganz einfach Ihren eigenen digitalen Adventskalender für Freunde, Familie oder Ihr Team. Überraschungen planen und teilen'
+    title: 'Simple Advent calendar template for teams and family'
+    description: 'Easily create your own digital Advent calendar for friends, family or your team. Plan and share surprises'
 template: '618993ff2f964dadb460'
 ---
 

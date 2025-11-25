@@ -1,6 +1,6 @@
 ---
 title: 'NPS Fragebogen'
-description: ''
+description: 'Mit diesem Template erfassen und analysieren Sie Kundenfeedback per NPS-Umfrage zentral, visualisieren Ergebnisse in Echtzeit und erkennen Optimierungspotenziale sofort.'
 date: '2024-08-24'
 url: '/de/vorlage/nps-rechner'
 aliases:
