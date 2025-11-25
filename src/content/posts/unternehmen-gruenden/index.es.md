@@ -5,14 +5,14 @@ seo:
     title: 'Crear una empresa, paso a paso'
     description: 'Emprende con éxito: de la idea al lanzamiento, de forma estructurada, segura y con método.'
 date: 2025-09-25
-url: '/es/fundación-de-la-empresa'
+url: '/es/fundacion-de-la-empresa'
 tags:
     - 'Construya su empresa'
 categories:
     - 'best-practice'
 color: '#a6c9bd'
 register:
-   show: true
+    show: true
 ---
 
 Ser autónomo significa poner en práctica su deseo de independencia y autorrealización. Tal vez tú también sueñes con lanzar tu propia idea al mercado y marcar la diferencia. En el camino, sin embargo, no sólo encontrarás inspiración y sed de acción, sino también preguntas sobre la **planificación** adecuada, la **financiación** y los **formalismos** necesarios. En este artículo, descubrirás qué debes tener en cuenta a la hora de crear una empresa y qué herramienta te ayudará a sacar adelante tu start-up paso a paso.

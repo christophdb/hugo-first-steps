@@ -5,14 +5,14 @@ seo:
     title: 'Plan de médication | SeaTable'
     description: 'Découvrez comment un plan de médication peut vous aider à garder une trace de vos prises de médicaments.'
 date: 2025-08-13
-url: '/fr/plan-de-médication'
+url: '/fr/plan-de-medication'
 tags:
     - 'Vie Quotidienne'
 categories:
     - 'best-practice'
 color: '#db5e32'
 register:
-   show: true
+    show: true
 ---
 
 Saviez-vous que plus de 50 pour cent des patients âgés de 65 ans et plus prennent quotidiennement cinq médicaments différents ou plus ? C'est ce que montre le Compas des médicaments 2022 de l'Institut scientifique de l'AOK. Mais plus vous prenez de médicaments chaque jour, plus il est difficile de penser à tout : quel comprimé prendre et à quel moment ? Dans quel dosage ? Et faut-il prendre le médicament avant ou après le repas ?
@@ -45,7 +45,7 @@ L'**oubli de médicaments** est également un problème courant. Parfois, une pr
 
 ![Une femme qui prend un comprimé avec un verre d'eau](fehler-bei-der-einnahme.jpg)
 
-Un autre risque qui peut être évité grâce à un plan de médication est lié à d'éventuelles **interactions** entre différents médicaments. Celles-ci sont particulièrement difficiles à détecter si toutes les préparations prises ne sont pas entièrement répertoriées. Il s'agit souvent de produits d'automédication** qui sont pris en plus sans consultation du médecin. En font également partie des produits en vente libre comme le millepertuis, des analgésiques comme l'ibuprofène ou certains compléments alimentaires. Même ces préparations apparemment inoffensives peuvent influencer l'effet de vos autres médicaments ou même déclencher des réactions dangereuses.
+Un autre risque qui peut être évité grâce à un plan de médication est lié à d'éventuelles **interactions** entre différents médicaments. Celles-ci sont particulièrement difficiles à détecter si toutes les préparations prises ne sont pas entièrement répertoriées. Il s'agit souvent de produits d'automédication\*\* qui sont pris en plus sans consultation du médecin. En font également partie des produits en vente libre comme le millepertuis, des analgésiques comme l'ibuprofène ou certains compléments alimentaires. Même ces préparations apparemment inoffensives peuvent influencer l'effet de vos autres médicaments ou même déclencher des réactions dangereuses.
 
 Il est donc important de garder un œil sur l'ensemble de votre médication. Un plan de médication soigneusement géré vous aidera à éviter de telles erreurs et à améliorer la sécurité de votre traitement.
 
