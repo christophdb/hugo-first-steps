@@ -1,6 +1,6 @@
 ---
 title: 'Редакционный календарь подкаста'
-description: ''
+description: 'Управляйте эпизодами, гостями и рекламой централизовано, планируйте выпуски и оптимизируйте производство – для профессиональных podcast-потоков.'
 date: '2024-08-16'
 url: '/ru/shablon/redaktsionnogo-kalendarya-podkasta'
 aliases:

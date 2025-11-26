@@ -1,6 +1,6 @@
 ---
 title: 'Newsletter Anmeldung'
-description: ''
+description: 'Gewinnen Sie Newsletter-Kontakte mit Webformular, erfassen Sie Interessenprofile DSGVO-konform und bauen Sie Ihre Abonnentenliste strategisch auf.'
 date: '2024-08-17'
 url: '/de/vorlage/newsletter-anmeldung'
 aliases:

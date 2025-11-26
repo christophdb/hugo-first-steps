@@ -1,6 +1,6 @@
 ---
 title: 'Editorial Plan'
-description: ''
+description: 'Manage content, deadlines, and tasks centrally, foster teamwork, and control your content workflow transparently.'
 date: '2025-02-17'
 url: '/template/editorial-plan'
 category: 'marketing'

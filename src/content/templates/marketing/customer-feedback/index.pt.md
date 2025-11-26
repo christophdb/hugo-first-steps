@@ -1,13 +1,15 @@
 ---
 title: 'Feedback do cliente'
-description: ''
+description: 'Colete feedback de clientes digitalmente, analise opiniões centralmente e extraia melhorias sistematicamente para seus produtos.'
 date: '2024-08-24'
-url: '/pt/modelo/customer-feedback'
+url: '/pt/modelo/feedback-clientes'
+aliases:
+    - '/pt/modelo/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: 'Coletar e analisar feedback do cliente'
-    description: 'Recolha e analise facilmente o feedback do cliente com formulários e estatísticas do SeaTable.'
+    title: 'Coletar e analisar feedback de clientes'
+    description: 'Reúna opiniões facilmente : formulários digitais, avaliações automáticas e insights valiosos para aprimorar seus produtos.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

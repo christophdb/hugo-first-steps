@@ -1,6 +1,6 @@
 ---
 title: 'Storyboard'
-description: ''
+description: 'Plan videos and image films digitally: organize scenes, roles, scripts, and props centrally – for structured video production.'
 date: '2024-08-24'
 url: '/template/storyboard'
 category: 'marketing'

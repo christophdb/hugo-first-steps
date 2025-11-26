@@ -1,12 +1,12 @@
 ---
 title: 'Competitor Analysis'
-description: 'Combine all relevant information about your competitors in one place.'
+description: 'Compare and analyze competitors centrally, identify market niches, and make data-driven strategic decisions.'
 url: '/template/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Competitor Analysis: Find Market Opportunities'
+    description: 'Analyze competitors, discover niches, and make strategic decisions with our interactive competitor analysis template.'
 template: 'c08760ae51e94e9e9632'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Redaktionsplan'
-description: ''
+description: 'Verwalten Sie Inhalte, Deadlines und Aufgaben zentral, fördern Sie Teamarbeit und kontrollieren Sie Ihren Content-Workflow übersichtlich.'
 date: '2025-02-17'
 url: '/de/vorlage/redaktionsplan'
 aliases:

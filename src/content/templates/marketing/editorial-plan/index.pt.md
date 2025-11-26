@@ -1,6 +1,6 @@
 ---
 title: 'Plano editorial'
-description: ''
+description: 'Gerencie conteúdo, prazos e tarefas centralmente, fomente trabalho em equipe e controle seu fluxo de conteúdo transparentemente.'
 date: '2025-02-17'
 url: '/pt/modelo/plano-editorial'
 aliases:

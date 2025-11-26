@@ -1,13 +1,15 @@
 ---
 title: 'Plan pour les médias sociaux'
-description: ''
+description: "Planifiez posts sur réseaux sociaux centralement pour tous les canaux, coordonnez tâches d'équipe et analysez vos succès – transparent et efficace."
 date: '2025-02-17'
-url: '/fr/modele/social-media-plan'
+url: '/fr/modele/plan-reseaux-sociaux'
+aliases:
+    - '/fr/modele/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: 'Plan Social Media: Modèle pour Unifier Vos Contenus'
-    description: 'Simplifiez la gestion de vos réseaux sociaux, planifiez et analysez vos publications sur une plateforme collaborative SeaTable.'
+    title: 'Calendrier réseaux sociaux : planifier vos publications'
+    description: 'Planifiez, programmez et gérez vos publications sur tous les réseaux. Collaborez en équipe et mesurez vos résultats simplement.'
 template: 'e386be96230744a18802'
 weight: 1
 ---

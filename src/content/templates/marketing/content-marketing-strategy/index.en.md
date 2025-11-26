@@ -1,6 +1,6 @@
 ---
 title: 'Content Marketing Strategy'
-description: ''
+description: 'Develop your content strategy centrally, plan content, manage SEO and personas – for consistent, well-thought-out campaigns.'
 date: '2024-08-16'
 url: '/template/content-marketing-strategy'
 category: 'marketing'

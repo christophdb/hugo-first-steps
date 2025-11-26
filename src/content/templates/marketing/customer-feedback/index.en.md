@@ -1,13 +1,13 @@
 ---
 title: 'Customer Feedback'
-description: ''
+description: 'Collect customer feedback digitally, analyze opinions centrally, and systematically derive improvements for your products.'
 date: '2024-08-24'
 url: '/template/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: 'Collect & Analyze Customer Feedback Easily'
-    description: 'Collect, manage and analyze customer feedback with SeaTable’s forms and templates for smarter product decisions.'
+    title: 'Collect & Analyze Customer Feedback Efficiently'
+    description: 'Collect and analyze customer feedback in one place: web forms, easy evaluation, and smart improvement for your product success!'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

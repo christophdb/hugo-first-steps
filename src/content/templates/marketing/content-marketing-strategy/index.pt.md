@@ -1,6 +1,6 @@
 ---
 title: 'Estratégia de marketing de conteúdo'
-description: ''
+description: 'Desenvolva sua estratégia de conteúdo centralmente, planeje conteúdo, gerencie SEO e personas – para campanhas consistentes e bem pensadas.'
 date: '2024-08-16'
 url: '/pt/modelo/estrategia-marketing-conteudo'
 aliases:

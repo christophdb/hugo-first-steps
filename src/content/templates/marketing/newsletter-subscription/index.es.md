@@ -1,6 +1,6 @@
 ---
 title: 'Suscripción al boletín de noticias'
-description: ''
+description: 'Gane contactos para boletín con formulario web, capture perfiles de interés conformes a RGPD y construya su lista de suscriptores.'
 date: '2024-08-17'
 url: '/es/plantilla/suscripcion-boletin'
 aliases:

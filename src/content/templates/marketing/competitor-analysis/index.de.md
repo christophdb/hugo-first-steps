@@ -1,12 +1,14 @@
 ---
 title: 'Konkurrenzanalyse'
-description: 'Fassen Sie alle relevanten Informationen über Ihre Wettbewerber an einem Ort zusammen.'
-url: '/de/vorlage/competitor-analysis'
+description: 'Vergleichen und analysieren Sie Wettbewerber zentral, identifizieren Sie Marktnischen und treffen Sie datenbasierte strategische Entscheidungen.'
+url: '/de/vorlage/konkurrenzanalyse'
+aliases:
+    - '/de/vorlage/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Konkurrenzanalyse: Marktchancen erkennen & Wettbewerb vergleichen'
+    description: 'Analysieren Sie Mitbewerber, entdecken Sie Nischen und treffen Sie fundierte Entscheidungen mit unserem Konkurrenzanalyse-Template.'
 template: 'c08760ae51e94e9e9632'
 ---
 

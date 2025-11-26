@@ -1,6 +1,6 @@
 ---
 title: 'Revisão da imprensa / análise de conteúdo'
-description: ''
+description: 'Monitore cobertura de mídia, analise menções centralmente e avalie sua imagem de marca profissionalmente – para relatórios direcionados.'
 date: '2024-08-24'
 url: '/pt/modelo/analise-midia'
 aliases:

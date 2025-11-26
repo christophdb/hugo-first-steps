@@ -1,6 +1,6 @@
 ---
 title: 'Questionnaire NPS'
-description: "Ce modèle vous permet de collecter et d'analyser de manière centralisée les commentaires des clients via une enquête NPS, de visualiser les résultats en temps réel et d'identifier immédiatement les possibilités d'optimisation."
+description: "Saisissez feedback NPS numériquement, visualisez résultats en temps réel et identifiez améliorations systématiquement pour meilleure satisfaction."
 date: '2024-08-24'
 url: '/fr/modele/calculateur-nps'
 aliases:

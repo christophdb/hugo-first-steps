@@ -1,6 +1,6 @@
 ---
 title: 'Planification de la campagne'
-description: ''
+description: 'Planifiez campagnes centralement, organisez contenu et délais, suivez tâches en équipe – pour des workflows fluides.'
 date: '2024-08-24'
 url: '/fr/modele/calendrier-contenu'
 aliases:

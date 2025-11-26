@@ -1,6 +1,6 @@
 ---
 title: 'Planeamento de campanhas'
-description: ''
+description: 'Planeje campanhas centralmente, organize conteúdo e prazos, rastreie tarefas da equipe – para fluxos de trabalho sem problemas.'
 date: '2024-08-24'
 url: '/pt/modelo/calendario-conteudo'
 aliases:

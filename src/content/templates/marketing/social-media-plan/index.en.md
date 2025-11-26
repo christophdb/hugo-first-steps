@@ -1,13 +1,13 @@
 ---
 title: 'Social Media Plan'
-description: ''
+description: 'Plan social media posts centrally across all channels, coordinate team tasks, and analyze your success – transparent and efficient.'
 date: '2025-02-17'
 url: '/template/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: 'Social Media Plan Template: Organize Your Content Easily'
-    description: 'Plan, manage, and track your social media posts for all channels—central dashboard, team collaboration, and results analysis.'
+    title: 'Social Media Plan: Schedule Posts Across Channels'
+    description: 'Plan, schedule and manage social media posts for all channels. Collaborate with your team and track performance easily.'
 template: 'e386be96230744a18802'
 weight: 1
 ---

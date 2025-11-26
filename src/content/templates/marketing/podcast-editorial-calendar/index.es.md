@@ -1,6 +1,6 @@
 ---
 title: 'Calendario editorial de podcasts'
-description: ''
+description: 'Gestione episodios, invitados y publicidad centralmente, planifique lanzamientos y optimice su producción – para flujos profesionales.'
 date: '2024-08-16'
 url: '/es/plantilla/calendario-podcast'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Assinatura do boletim informativo'
-description: ''
+description: 'Ganhe contatos de newsletter via formulário web, capture perfis de interesse em conformidade com LGPD e construa sua lista de inscritos.'
 date: '2024-08-17'
 url: '/pt/modelo/inscricao-newsletter'
 alaises:

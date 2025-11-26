@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Redaktionskalender'
-description: ''
+description: 'Verwalten Sie Podcast-Folgen, Gäste und Werbung zentral, planen Sie Veröffentlichungen und optimieren Sie Ihre Produktion – für professionelle Podcast-Workflows.'
 date: '2024-08-16'
 url: '/de/vorlage/podcast-redaktionsplan'
 aliases:

@@ -1,13 +1,15 @@
 ---
 title: 'Comentarios de los clientes'
-description: ''
+description: 'Recopile comentarios de clientes digitalmente, analice opiniones centralmente y extraiga mejoras sistemáticamente para sus productos.'
 date: '2024-08-24'
-url: '/es/plantilla/customer-feedback'
+url: '/es/plantilla/feedback-clientes'
+aliases:
+    - '/es/plantilla/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: 'Recoge opiniones de clientes fácilmente'
-    description: 'Recoge y analiza el feedback de tus clientes con formularios y plantillas personalizables en SeaTable.'
+    title: 'Recoger comentarios de clientes de forma eficaz'
+    description: 'Recoge opiniones fácilmente con formularios web y analiza los datos centralmente para mejorar productos y satisfacción del cliente.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

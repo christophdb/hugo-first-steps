@@ -1,6 +1,6 @@
 ---
 title: 'Storyboard'
-description: ''
+description: 'Planeje vídeos e filmes corporativos digitalmente: organize cenas, papéis, roteiros e adereços centralmente – para produção estruturada.'
 date: '2024-08-24'
 url: '/pt/modelo/roteiro-visual'
 aliases:

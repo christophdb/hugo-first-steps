@@ -1,12 +1,14 @@
 ---
 title: 'Análise do concorrente'
-description: ''
-url: '/pt/modelo/competitor-analysis'
+description: 'Compare e analise concorrentes centralmente, identifique nichos de mercado e tome decisões estratégicas baseadas em dados.'
+url: '/pt/modelo/analiz-konkurentov'
+aliases:
+    - '/pt/modelo/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Análise de concorrentes: oportunidades de mercado'
+    description: 'Compare concorrentes, descubra nichos e tome decisões estratégicas com nosso modelo interativo de análise de concorrentes.'
 template: 'c08760ae51e94e9e9632'
 ---
 

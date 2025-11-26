@@ -1,6 +1,6 @@
 ---
 title: 'Media Content Analysis'
-description: ''
+description: 'Monitor media coverage, analyze mentions centrally, and assess your brand image professionally – for targeted reporting.'
 date: '2024-08-24'
 url: '/template/media-content-analysis'
 category: 'marketing'
