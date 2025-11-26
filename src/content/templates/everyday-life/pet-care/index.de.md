@@ -1,6 +1,6 @@
 ---
 title: 'Haustiere halten'
-description: ''
+description: 'Organisieren Sie Aufgaben, Gesundheit, Betreuung, Futter und Kosten Ihrer Haustiere zentral und behalten Sie alle Tiere im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/haustiere-halten'
 aliases:

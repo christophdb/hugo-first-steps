@@ -1,8 +1,10 @@
 ---
 title: 'Candidature & lettre de motivation'
-description: ''
+description: 'Gardez lettres de motivation, statut des candidatures, échéances et documents sous contrôle et organisez votre recherche d’emploi au même endroit.'
 date: '2024-08-24'
-url: '/fr/modele/application-cover-letter'
+url: '/fr/modele/candidatures-lettres'
+aliases:
+    - '/fr/modele/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

@@ -1,5 +1,6 @@
 ---
 title: 'Rastreador de hábitos y Bullet Journal'
+description: 'Registra tus objetivos, haz seguimiento de hábitos en el calendario y combina bullet journal, eventos y estado de ánimo en una solución flexible.'
 date: '2024-08-24'
 url: '/es/plantilla/seguimiento-habitos-bullet-journal'
 aliases:

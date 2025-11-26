@@ -1,6 +1,6 @@
 ---
 title: 'Lista de compras'
-description: ''
+description: 'Planeje e compartilhe sua lista de compras digitalmente, organize os produtos por categoria e mantenha todas as compras sob controle.'
 date: '2024-08-24'
 url: '/pt/modelo/lista-compras'
 aliases:

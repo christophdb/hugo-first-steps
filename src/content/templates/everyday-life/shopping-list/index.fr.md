@@ -1,6 +1,6 @@
 ---
 title: "Liste d'achats"
-description: ''
+description: 'Planifiez et partagez votre liste de courses en numérique, classez les produits par catégorie et gardez tous vos achats en vue.'
 date: '2024-08-24'
 url: '/fr/modele/liste-achats'
 aliases:

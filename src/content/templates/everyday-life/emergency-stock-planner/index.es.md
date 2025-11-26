@@ -1,6 +1,6 @@
 ---
 title: 'Almacenamiento'
-description: ''
+description: 'Planifica y controla tu reserva de emergencia de forma digital, vigila las fechas de caducidad y sabe siempre qué hay que reponer.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-provisiones'
 aliases:

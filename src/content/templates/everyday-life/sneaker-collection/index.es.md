@@ -1,6 +1,6 @@
 ---
 title: 'Colección de zapatillas'
-description: ''
+description: 'Gestiona tus zapatillas de forma digital, ordénalas por marca, estado y valor y controla pares, tratos y contactos.'
 date: '2024-08-24'
 url: '/es/plantilla/coleccion-zapatillas'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: "Plan d'apprentissage"
-description: ''
+description: 'Planifiez temps et sujets d’étude de manière structurée, fixez des priorités, suivez vos progrès et préparez vos examens plus sereinement.'
 date: '2024-08-24'
 url: '/fr/modele/planning-etudes'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Lista de libros / Biblioteca'
-description: ''
+description: 'Gestiona tu biblioteca personal de forma digital: organiza libros, autores, préstamos y valoraciones en un solo lugar.'
 date: '2024-08-24'
 url: '/es/plantilla/lista-de-libros'
 aliases:

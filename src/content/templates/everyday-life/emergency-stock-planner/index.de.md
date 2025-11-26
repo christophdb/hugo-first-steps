@@ -1,6 +1,6 @@
 ---
 title: 'Vorratshaltung'
-description: ''
+description: 'Planen und überwachen Sie Ihren Notvorrat digital, behalten Sie Mindesthaltbarkeitsdaten im Blick und wissen Sie, was nachgekauft werden muss.'
 date: '2024-08-24'
 url: '/de/vorlage/vorratshaltung'
 aliases:

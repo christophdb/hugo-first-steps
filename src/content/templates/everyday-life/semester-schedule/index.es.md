@@ -1,6 +1,6 @@
 ---
 title: 'Planificador de estudios'
-description: ''
+description: 'Estructura horario, asignaturas, tareas y tiempo de estudio de forma digital y mantén el semestre y tu productividad bajo control.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-semestre'
 aliases:

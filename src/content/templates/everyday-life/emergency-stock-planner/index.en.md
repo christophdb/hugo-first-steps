@@ -1,6 +1,6 @@
 ---
 title: 'Emergency Stock Planner'
-description: ''
+description: 'Plan and monitor your emergency stock digitally, track best-before dates and always know what needs to be replenished.'
 date: '2024-08-24'
 url: '/template/emergency-stock-planner'
 category: 'everyday-life'

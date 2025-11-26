@@ -1,6 +1,6 @@
 ---
 title: 'Pflanzplan'
-description: ''
+description: 'Planen Sie Beete, Pflanzen und Erntezeiten strukturiert, dokumentieren Sie Pflegearbeiten und verbessern Sie Ihren Garten Jahr für Jahr.'
 date: '2025-05-15'
 url: '/de/vorlage/pflanzplan'
 aliases:

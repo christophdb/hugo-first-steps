@@ -1,6 +1,6 @@
 ---
 title: 'Lista de cosas que hacer antes de morir'
-description: ''
+description: 'Reúne y organiza deseos y metas de vida en línea, sigue tus avances y deja que tu bucket list te inspire.'
 date: '2024-08-24'
 url: '/es/plantilla/bucket-list'
 category: 'everyday-life'

@@ -1,6 +1,6 @@
 ---
 title: 'Application & Cover Letter'
-description: ''
+description: 'Keep cover letters, application status, deadlines and documents in view and organize your job search in one structured place.'
 date: '2024-08-24'
 url: '/template/application-cover-letter'
 category: 'everyday-life'

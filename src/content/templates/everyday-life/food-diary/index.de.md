@@ -1,6 +1,6 @@
 ---
 title: 'Ernährungstagebuch'
-description: 'Dokumentieren Sie Ihre Mahlzeiten strukturiert, erkennen Sie Muster bei Unverträglichkeiten und teilen Sie relevante Daten unkompliziert mit Experten. Die App hilft, Essgewohnheiten zu analysieren, Erinnerungen zu setzen und für mehr Transparenz im Alltag zu sorgen.'
+description: 'Dokumentieren Sie Ihre Mahlzeiten strukturiert, erkennen Sie Muster bei Unverträglichkeiten und teilen Sie relevante Daten mit Experten.'
 date: '2025-07-18'
 url: '/de/vorlage/ernaehrungstagebuch'
 category: 'everyday-life'

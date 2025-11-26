@@ -1,6 +1,6 @@
 ---
 title: 'Plano de plantação'
-description: ''
+description: 'Planeje canteiros, plantas e épocas de colheita de forma estruturada, registre os cuidados e melhore o jardim a cada ano.'
 date: '2025-05-15'
 url: '/pt/modelo/plano-plantio'
 aliases:

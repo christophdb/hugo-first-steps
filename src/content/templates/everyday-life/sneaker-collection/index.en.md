@@ -1,6 +1,6 @@
 ---
 title: 'Sneaker Collection'
-description: ''
+description: 'Manage your sneakers digitally, sort by brand, condition and value and keep pairs, deals and contacts in view.'
 date: '2024-08-24'
 url: '/template/sneaker-collection'
 category: 'everyday-life'

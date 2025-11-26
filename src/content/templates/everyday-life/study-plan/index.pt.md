@@ -1,6 +1,6 @@
 ---
 title: 'Plano de aprendizagem'
-description: ''
+description: 'Planeje tempos e temas de estudo de forma estruturada, defina prioridades, acompanhe o progresso e prepare provas com menos estresse.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-estudos'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Plan de plantación'
-description: ''
+description: 'Planifica bancales, plantas y épocas de cosecha de forma estructurada, registra los cuidados y mejora tu jardín temporada tras temporada.'
 date: '2025-05-15'
 url: '/es/plantilla/plan-siembra'
 aliases:

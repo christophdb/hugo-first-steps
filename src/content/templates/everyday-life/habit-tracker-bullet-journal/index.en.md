@@ -1,5 +1,6 @@
 ---
 title: 'Habit Tracker & Bullet Journal'
+description: 'Capture goals, track habits in a calendar and combine bullet journal, events and mood tracking in one flexible solution.'
 date: '2024-08-24'
 url: '/template/habit-tracker-bullet-journal'
 category: 'everyday-life'

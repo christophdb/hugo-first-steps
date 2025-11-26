@@ -1,6 +1,6 @@
 ---
 title: 'Plan de limpieza'
-description: ''
+description: 'Reparte las tareas del hogar de forma justa, controla los plazos y aumenta la motivación con un plan de limpieza bien estructurado.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-limpieza'
 aliases:

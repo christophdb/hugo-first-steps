@@ -1,8 +1,10 @@
 ---
 title: 'Candidatura e carta de apresentação'
-description: ''
+description: 'Tenha cartas de apresentação, status das candidaturas, prazos e documentos sob controle e organize sua busca de emprego em um só lugar.'
 date: '2024-08-24'
-url: '/pt/modelo/application-cover-letter'
+url: '/pt/modelo/candidaturas-cartas'
+aliases:
+    - '/pt/modelo/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

@@ -1,6 +1,6 @@
 ---
 title: 'Manter os animais de estimação'
-description: ''
+description: 'Organize tarefas, saúde, cuidados, alimentação e custos dos seus animais em um só lugar e mantenha todos sob controle.'
 date: '2024-08-24'
 url: '/pt/modelo/cuidado-animais'
 aliases:

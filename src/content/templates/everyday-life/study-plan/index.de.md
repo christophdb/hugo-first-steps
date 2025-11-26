@@ -1,6 +1,6 @@
 ---
 title: 'Lernplan'
-description: ''
+description: 'Planen Sie Lernzeiten und Themen strukturiert, setzen Sie Prioritäten, tracken Sie Fortschritte und bereiten Sie Prüfungen stressfreier vor.'
 date: '2024-08-24'
 url: '/de/vorlage/lernplan'
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: 'Habit Tracker & Bullet Journal'
+description: 'Erfassen Sie Ziele, tracken Sie Gewohnheiten im Kalender und kombinieren Sie Bullet Journal, Termine und Stimmung in einer flexiblen Lösung.'
 date: '2024-08-24'
 url: '/de/vorlage/habit-tracker-bullet-journal'
 category: 'everyday-life'

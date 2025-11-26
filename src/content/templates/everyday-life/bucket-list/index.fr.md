@@ -1,6 +1,6 @@
 ---
 title: 'Liste des choses à faire'
-description: ''
+description: 'Rassemblez et structurez vos envies et objectifs de vie en ligne, suivez vos progrès et laissez votre bucket list vous inspirer.'
 date: '2024-08-24'
 url: '/fr/modele/bucket-list'
 category: 'everyday-life'

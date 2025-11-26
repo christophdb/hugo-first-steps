@@ -1,6 +1,6 @@
 ---
 title: 'Lista de la compra'
-description: ''
+description: 'Planifica y comparte tu lista de la compra de forma digital, organiza los productos por categoría y mantén todas las compras controladas.'
 date: '2024-08-24'
 url: '/es/plantilla/lista-compras'
 aliases:

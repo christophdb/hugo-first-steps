@@ -1,6 +1,6 @@
 ---
 title: 'Bücherliste / Bibliothek'
-description: ''
+description: 'Verwalten Sie Ihre private Bibliothek digital: Alle Bücher, Autoren, Ausleihen und Bewertungen übersichtlich an einem Ort organisieren.'
 date: '2024-08-24'
 url: '/de/vorlage/buecherliste'
 aliases:

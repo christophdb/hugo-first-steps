@@ -1,6 +1,6 @@
 ---
 title: 'Gestor de contraseñas'
-description: ''
+description: 'Gestiona contraseñas, accesos, suscripciones y notas en un solo lugar, controla costes y planifica tu legado digital con antelación.'
 date: '2024-08-24'
 url: '/es/plantilla/gestor-contrasenas'
 aliases:

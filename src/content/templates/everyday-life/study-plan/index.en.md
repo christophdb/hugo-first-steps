@@ -1,6 +1,6 @@
 ---
 title: 'Study Plan'
-description: ''
+description: 'Plan study time and topics in a structured way, set priorities, track progress and prepare for exams with less stress.'
 date: '2024-08-24'
 url: '/template/study-plan'
 category: 'everyday-life'

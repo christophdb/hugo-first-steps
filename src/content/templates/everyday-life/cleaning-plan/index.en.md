@@ -1,6 +1,6 @@
 ---
 title: 'Cleaning Plan'
-description: ''
+description: 'Distribute household tasks fairly, keep track of deadlines and boost motivation with a clearly structured cleaning plan.'
 date: '2024-08-24'
 url: '/template/cleaning-plan'
 category: 'everyday-life'

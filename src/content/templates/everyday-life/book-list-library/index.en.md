@@ -1,6 +1,6 @@
 ---
 title: 'Book List / Library'
-description: ''
+description: 'Manage your personal library digitally: organize all books, authors, loans and ratings clearly in one place.'
 date: '2024-08-24'
 url: '/template/book-list-library'
 category: 'everyday-life'

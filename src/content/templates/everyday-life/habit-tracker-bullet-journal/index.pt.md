@@ -1,6 +1,6 @@
 ---
 title: 'Rastreador de hábitos e Bullet Journal'
-description: ''
+description: 'Registre metas, acompanhe hábitos no calendário e reúna bullet journal, compromissos e humor em uma solução flexível.'
 date: '2024-08-24'
 url: '/pt/modelo/habit-tracker-bullet-journal'
 category: 'everyday-life'

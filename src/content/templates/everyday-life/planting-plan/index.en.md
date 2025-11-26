@@ -1,6 +1,6 @@
 ---
 title: 'Planting Plan'
-description: ''
+description: 'Plan beds, plants and harvest times in a structured way, log care tasks and improve your garden year after year.'
 date: '2025-05-15'
 url: '/template/planting-plan'
 category: 'everyday-life'

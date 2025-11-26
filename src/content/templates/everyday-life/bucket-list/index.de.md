@@ -1,6 +1,6 @@
 ---
 title: 'Bucket List'
-description: ''
+description: 'Sammeln und strukturieren Sie Wünsche und Lebensziele online, halten Sie Fortschritte fest und lassen Sie sich von Ihrer Bucket List inspirieren.'
 date: '2024-08-24'
 url: '/de/vorlage/bucket-list'
 category: 'everyday-life'

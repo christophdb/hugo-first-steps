@@ -1,6 +1,6 @@
 ---
 title: 'Liste de livres / Bibliothèque'
-description: ''
+description: 'Gérez votre bibliothèque personnelle en numérique : organisez livres, auteurs, prêts et notes en un seul endroit.'
 date: '2024-08-24'
 url: '/fr/modele/liste-de-livres'
 aliases:
