@@ -1,6 +1,6 @@
 ---
 title: 'IT Helpdesk'
-description: 'Centralize all your IT tickets, assign staff, track status, automate feedback and manage knowledge: Kanban board and performance statistics included. Improve your IT support in the cloud—simple, flexible and secure.'
+description: 'Manage support tickets centrally, assign tasks, and resolve requests efficiently – with knowledge base and customer feedback.'
 date: '2025-05-02'
 url: '/template/it-helpdesk'
 category: 'software-development'

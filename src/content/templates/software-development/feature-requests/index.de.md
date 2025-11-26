@@ -1,6 +1,6 @@
 ---
 title: 'Feature-Requests'
-description: ''
+description: 'Sammeln Sie Feature-Anfragen, priorisieren Sie Nutzerfeedback und verwalten Sie Entwicklungswünsche zentral – für bessere Produktentwicklung.'
 date: '2024-08-24'
 url: '/de/vorlage/feature-requests'
 category: 'software-development'

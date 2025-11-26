@@ -1,8 +1,10 @@
 ---
 title: 'Bug Tracker'
-description: ''
+description: 'Rastreie erros de software centralmente, priorize problemas e coordene correções entre desenvolvedores e testadores eficientemente.'
 date: '2025-01-09'
-url: '/pt/modelo/bug-tracker'
+url: '/pt/modelo/rastreador-bugs'
+aliases:
+    - '/pt/modelo/bug-tracker'
 category: 'software-development'
 functions:
 seo:

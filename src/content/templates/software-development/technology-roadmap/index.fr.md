@@ -1,6 +1,6 @@
 ---
 title: 'Feuille de route technologique'
-description: ''
+description: 'Planifiez votre feuille de route technologique centralement : structurez jalons, versions, tâches et équipes de manière claire – pour projets IT agiles.'
 date: '2024-08-24'
 url: '/fr/modele/feuille-route-techno'
 aliases:

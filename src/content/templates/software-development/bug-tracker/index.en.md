@@ -1,6 +1,6 @@
 ---
 title: 'Bug Tracker'
-description: ''
+description: 'Track software bugs centrally, prioritize issues, and coordinate fixes between developers and testers efficiently.'
 date: '2025-01-09'
 url: '/template/bug-tracker'
 category: 'software-development'

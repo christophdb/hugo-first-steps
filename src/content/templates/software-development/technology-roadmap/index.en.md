@@ -1,6 +1,6 @@
 ---
 title: 'Technology Roadmap'
-description: ''
+description: 'Plan your technology roadmap centrally: structure milestones, releases, tasks, and teams clearly – for agile IT and digital projects.​'
 date: '2024-08-24'
 url: '/template/technology-roadmap'
 category: 'software-development'

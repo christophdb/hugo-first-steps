@@ -1,6 +1,6 @@
 ---
 title: 'Hoja de ruta tecnológica'
-description: ''
+description: 'Planifique su hoja de ruta tecnológica centralmente: estructure hitos, lanzamientos, tareas y equipos con claridad – para proyectos TI ágiles.'
 date: '2024-08-24'
 url: '/es/plantilla/hoja-ruta-tecnologica'
 aliases:

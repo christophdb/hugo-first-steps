@@ -1,6 +1,6 @@
 ---
 title: 'IT Helpdesk'
-description: 'Administra tickets IT, asigna responsables, sigue el progreso, automatiza feedback y optimiza tus procesos con estadísticas y base de conocimiento. Plantilla SeaTable fácil, segura y adaptada a tus necesidades.'
+description: 'Gestione tickets de soporte centralmente, asigne tareas y resuelva solicitudes eficientemente – con base de conocimientos y retroalimentación.'
 date: '2025-05-02'
 url: '/es/plantilla/it-helpdesk'
 category: 'software-development'

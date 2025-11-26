@@ -1,8 +1,10 @@
 ---
 title: 'Traceur de bug'
-description: ''
+description: 'Suivez bugs logiciels centralement, priorisez problèmes et coordonnez corrections entre développeurs et testeurs efficacement.'
 date: '2025-01-09'
-url: '/fr/modele/bug-tracker'
+url: '/fr/modele/suivi-bugs'
+aliases:
+    - '/fr/modele/bug-tracker'
 category: 'software-development'
 functions:
 seo:

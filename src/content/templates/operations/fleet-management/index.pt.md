@@ -1,5 +1,5 @@
 ---
-title: 'Software de gerenciamento de frota'
+title: 'Gerenciamento de frota'
 description: 'Organize controles, reservas e custos da frota, planeje manutenções e otimize toda a operação de seus veículos de empresa.'
 date: '2025-03-12'
 url: '/pt/modelo/software-gestao-frotas'

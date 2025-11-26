@@ -1,6 +1,6 @@
 ---
 title: 'Roteiro tecnológico'
-description: ''
+description: 'Planeje sua tecnologia roadmap de forma centralizada: estruture marcos, releases, tarefas e equipes com clareza – para projetos de TI ágeis.'
 date: '2024-08-24'
 url: '/pt/modelo/roadmap-tecnologico'
 aliases:

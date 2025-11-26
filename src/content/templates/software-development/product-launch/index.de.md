@@ -1,6 +1,6 @@
 ---
 title: 'Produkteinführung'
-description: ''
+description: 'Planen Sie Features, Deadlines und Marketingmaßnahmen zentral, halten Sie alle Teams auf Kurs – für einen erfolgreichen Produktlaunch.'
 date: '2024-08-24'
 url: '/de/vorlage/product-launch'
 category: 'software-development'
