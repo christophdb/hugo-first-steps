@@ -1,6 +1,6 @@
 ---
 title: 'Sneaker Sammlung'
-description: ''
+description: 'Verwalten Sie Ihre Sneaker digital, sortieren Sie nach Marke, Zustand und Wert und behalten Sie Paare, Deals und Kontakte im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/sneaker-collection'
 category: 'everyday-life'

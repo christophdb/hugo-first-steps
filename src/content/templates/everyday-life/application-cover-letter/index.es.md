@@ -1,8 +1,10 @@
 ---
 title: 'Solicitud y carta de presentación'
-description: ''
+description: 'Mantén a la vista cartas de presentación, estado de las candidaturas, plazos y documentos y organiza tu búsqueda de empleo en un solo lugar.'
 date: '2024-08-24'
-url: '/es/plantilla/application-cover-letter'
+url: '/es/plantilla/solicitudes-cartas'
+aliases:
+    - '/es/plantilla/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

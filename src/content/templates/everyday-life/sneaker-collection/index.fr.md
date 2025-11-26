@@ -1,6 +1,6 @@
 ---
 title: 'Collection de sneakers'
-description: ''
+description: 'Gérez vos sneakers en numérique, classez par marque, état et valeur et gardez paires, transactions et contacts en vue.'
 date: '2024-08-24'
 url: '/fr/modele/sneaker-collection'
 category: 'everyday-life'

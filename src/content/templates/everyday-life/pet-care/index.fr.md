@@ -1,6 +1,6 @@
 ---
 title: 'Garder des animaux domestiques'
-description: ''
+description: 'Organisez tâches, santé, soins, alimentation et coûts de vos animaux en un seul endroit et gardez chaque animal à l’œil.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-animaux'
 aliases:

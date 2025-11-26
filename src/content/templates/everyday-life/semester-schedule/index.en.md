@@ -1,6 +1,6 @@
 ---
 title: 'Semester Schedule'
-description: ''
+description: 'Structure timetable, courses, to-dos and study time digitally and keep your semester and productivity on track.'
 date: '2024-08-24'
 url: '/template/semester-schedule'
 category: 'everyday-life'

@@ -1,6 +1,6 @@
 ---
 title: 'Stockage'
-description: ''
+description: 'Planifiez et suivez vos réserves d’urgence en numérique, gardez un œil sur les dates de péremption et sachez toujours quoi racheter.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-stocks-urgence'
 aliases:

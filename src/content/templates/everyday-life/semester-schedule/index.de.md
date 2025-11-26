@@ -1,6 +1,6 @@
 ---
 title: 'Studienplaner'
-description: ''
+description: 'Strukturieren Sie Stundenplan, Kurse, To-dos und Lernzeiten digital und behalten Sie Ihr Semester und Ihre Produktivität im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/semesterplaner'
 aliases:

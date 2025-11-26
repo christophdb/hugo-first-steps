@@ -1,5 +1,6 @@
 ---
 title: 'Habit Tracker & Bullet Journal'
+description: 'Saisissez vos objectifs, suivez vos habitudes dans le calendrier et regroupez bullet journal, événements et humeur dans une solution flexible.'
 date: '2024-08-24'
 url: '/fr/modele/registre-habitudes-bullet-journal'
 aliases: 

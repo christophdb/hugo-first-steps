@@ -1,6 +1,6 @@
 ---
 title: 'Password Manager'
-description: ''
+description: 'Manage passwords, logins, subscriptions and notes in one place, keep track of costs and plan your digital legacy proactively.'
 date: '2024-08-24'
 url: '/template/password-manager'
 category: 'everyday-life'

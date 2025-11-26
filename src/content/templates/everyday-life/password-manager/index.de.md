@@ -1,6 +1,6 @@
 ---
 title: 'Passwort-Manager'
-description: ''
+description: 'Verwalten Sie Passwörter, Logins, Abos und Notizen zentral, behalten Sie Kosten im Blick und planen Sie Ihren digitalen Nachlass vorausschauend.'
 date: '2024-08-24'
 url: '/de/vorlage/password-manager'
 category: 'everyday-life'

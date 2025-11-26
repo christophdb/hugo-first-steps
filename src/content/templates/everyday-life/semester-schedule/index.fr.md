@@ -1,6 +1,6 @@
 ---
 title: "Planificateur d'études"
-description: ''
+description: 'Structurez emploi du temps, cours, tâches et temps d’étude en numérique et gardez votre semestre et votre productivité sous contrôle.'
 date: '2024-08-24'
 url: '/fr/modele/planning-semestre'
 aliases:

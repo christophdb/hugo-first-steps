@@ -1,6 +1,6 @@
 ---
 title: 'Plano de limpeza'
-description: ''
+description: 'Distribua as tarefas domésticas de forma justa, acompanhe prazos e aumente a motivação com um plano de limpeza bem estruturado.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-limpeza'
 aliases:

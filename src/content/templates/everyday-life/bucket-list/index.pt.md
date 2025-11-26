@@ -1,6 +1,6 @@
 ---
 title: 'Lista de desejos'
-description: ''
+description: 'Reúna e estruture seus desejos e objetivos de vida online, acompanhe o progresso e deixe sua bucket list inspirar você.'
 date: '2024-08-24'
 url: '/pt/modelo/bucket-list'
 category: 'everyday-life'

@@ -1,6 +1,6 @@
 ---
 title: 'Einkaufsliste'
-description: ''
+description: 'Planen und teilen Sie Ihre Einkaufsliste digital, ordnen Sie Produkte nach Kategorien und behalten Sie alle Besorgungen im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/einkaufsliste'
 aliases:

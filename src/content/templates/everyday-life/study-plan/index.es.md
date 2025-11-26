@@ -1,6 +1,6 @@
 ---
 title: 'Plan de aprendizaje'
-description: ''
+description: 'Planifica tiempos y temas de estudio de forma estructurada, fija prioridades, sigue tus avances y prepara exámenes con menos estrés.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-estudio'
 aliases:

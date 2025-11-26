@@ -1,6 +1,6 @@
 ---
 title: 'Pet Care'
-description: ''
+description: 'Organize tasks, health, care, food and costs for your pets in one place and keep every animal in view.'
 date: '2024-08-24'
 url: '/template/pet-care'
 category: 'everyday-life'

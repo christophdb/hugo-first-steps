@@ -1,6 +1,6 @@
 ---
 title: 'Armazenagem'
-description: ''
+description: 'Planeje e acompanhe seu estoque de emergência digitalmente, controle prazos de validade e saiba sempre o que precisa repor.'
 date: '2024-08-24'
 url: '/pt/modelo/estoque-emergencia'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Plan de nettoyage'
-description: ''
+description: 'Répartissez les tâches ménagères équitablement, gardez un œil sur les échéances et renforcez la motivation grâce à un planning clair.'
 date: '2024-08-24'
 url: '/fr/modele/planning-menage'
 aliases:

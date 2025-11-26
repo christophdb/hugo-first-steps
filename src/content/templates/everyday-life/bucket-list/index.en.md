@@ -1,6 +1,6 @@
 ---
 title: 'Bucket List'
-description: ''
+description: 'Collect and structure your wishes and life goals online, track your progress and let your bucket list inspire you.'
 date: '2024-08-24'
 url: '/template/bucket-list'
 category: 'everyday-life'

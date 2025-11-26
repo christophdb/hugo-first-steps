@@ -1,6 +1,6 @@
 ---
 title: 'Shopping List'
-description: ''
+description: 'Plan and share your shopping list digitally, sort products by category and keep every errand clearly in view.'
 date: '2024-08-24'
 url: '/template/shopping-list'
 category: 'everyday-life'

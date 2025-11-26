@@ -1,6 +1,6 @@
 ---
 title: 'Tener animales de compañía'
-description: ''
+description: 'Organiza tareas, salud, cuidados, alimentación y costes de tus mascotas en un solo lugar y mantén a todos los animales bajo control.'
 date: '2024-08-24'
 url: '/es/plantilla/cuidado-mascotas'
 aliases:

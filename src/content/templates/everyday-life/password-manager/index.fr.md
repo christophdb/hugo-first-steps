@@ -1,6 +1,6 @@
 ---
 title: 'Gestionnaire de mots de passe'
-description: ''
+description: 'Gérez mots de passe, identifiants, abonnements et notes en un seul endroit, suivez les coûts et anticipez votre héritage numérique.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-mots-passe'
 aliases:

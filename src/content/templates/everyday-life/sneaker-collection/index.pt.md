@@ -1,6 +1,6 @@
 ---
 title: 'Colecção de sapatilhas'
-description: ''
+description: 'Gerencie seus sneakers digitalmente, organize por marca, estado e valor e mantenha pares, negócios e contatos à vista.'
 date: '2024-08-24'
 url: '/pt/modelo/colecao-tenis'
 aliases:

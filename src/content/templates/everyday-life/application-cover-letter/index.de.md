@@ -1,8 +1,10 @@
 ---
 title: 'Bewerbung & Anschreiben'
-description: ''
+description: 'Behalten Sie Anschreiben, Bewerbungsstatus, Fristen und Dokumente im Blick und organisieren Sie Ihre Jobsuche strukturiert an einem Ort.'
 date: '2024-08-24'
-url: '/de/vorlage/application-cover-letter'
+url: '/de/vorlage/bewerbung-anschreiben'
+aliases:
+    - '/de/vorlage/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

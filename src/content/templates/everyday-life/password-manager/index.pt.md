@@ -1,6 +1,6 @@
 ---
 title: 'Gestor de palavras-passe'
-description: ''
+description: 'Gerencie senhas, logins, assinaturas e notas em um só lugar, controle custos e planeje seu legado digital com antecedência.'
 date: '2024-08-24'
 url: '/pt/modelo/gerenciador-senhas'
 aliases:

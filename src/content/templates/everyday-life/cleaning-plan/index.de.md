@@ -1,6 +1,6 @@
 ---
-title: 'Putzplan Vorlage'
-description: ''
+title: 'Putzplan'
+description: 'Verteilen Sie Haushaltsaufgaben fair, behalten Sie Deadlines im Blick und erhöhen Sie die Motivation mit einem klar strukturierten Putzplan.'
 date: '2024-08-24'
 url: '/de/vorlage/putzplan-vorlage'
 aliases:

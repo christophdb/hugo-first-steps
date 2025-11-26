@@ -1,6 +1,6 @@
 ---
 title: 'Planificador de estudos'
-description: ''
+description: 'Estruture horário, disciplinas, tarefas e tempo de estudo digitalmente e mantenha o semestre e sua produtividade sob controle.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-semestre'
 aliases:

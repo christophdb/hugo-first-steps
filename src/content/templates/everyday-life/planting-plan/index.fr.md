@@ -1,6 +1,6 @@
 ---
 title: 'Plan de plantation'
-description: ''
+description: 'Planifiez massifs, plantations et périodes de récolte de manière structurée, consignez les soins et améliorez votre jardin chaque année.'
 date: '2025-05-15'
 url: '/fr/modele/plan-plantation'
 aliases:
