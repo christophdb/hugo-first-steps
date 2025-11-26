@@ -1,6 +1,6 @@
 ---
 title: 'Kanban Board'
-description: 'Visualize tasks online, collaborate in real time and accelerate productivity using customizable boards with flexible automations and analytics dashboards.'
+description: 'Optimize workflows, manage teams in real-time, and benefit from flexible automation and analytics.'
 date: '2025-03-05'
 url: '/template/kanban-board-freeware'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Projektzeiterfassung'
-description: 'Erfassen und analysieren Sie Projektzeiten bequem per Web und App, erstellen Sie Abrechnungen und behalten Sie Auslastungen, Fristen und Budgets im Griff.'
+description: 'Erfassen Sie Projektzeiten bequem, erstellen Sie Abrechnungen und behalten Sie Auslastung, Fristen und Budgets im Blick.'
 date: '2025-03-12'
 url: '/de/vorlage/projektzeiterfassung'
 aliases: 

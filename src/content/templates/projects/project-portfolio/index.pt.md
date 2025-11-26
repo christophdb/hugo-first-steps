@@ -1,6 +1,6 @@
 ---
 title: 'Carteira de projectos'
-description: 'Centralize o controle, priorize recursos e obtenha dados claros para melhorar a tomada de decisões nos seus projetos empresariais.'
+description: 'Controle e analise projetos centralmente, revise prioridades e recursos e facilite a gestão de projetos.'
 url: '/pt/modelo/portfolio-de-projetos'
 aliases:
     - '/pt/modelo/project-portfolio'

@@ -1,6 +1,6 @@
 ---
 title: 'Maßnahmenplan Vorlage'
-description: 'Behalten Sie Ziele, Prioritäten und Deadlines ganzjährig im Blick, steuern Sie Verantwortlichkeiten effizient und sichern Sie eine strukturierte Umsetzung aller Marketingmaßnahmen.'
+description: 'Behalten Sie Ziele und Prioritäten zentral im Blick, steuern Sie Verantwortungen effizient und sichern Sie strukturierte Umsetzung aller Maßnahmen.'
 date: '2024-08-24'
 url: '/de/vorlage/massnahmenplan-vorlage'
 aliases:

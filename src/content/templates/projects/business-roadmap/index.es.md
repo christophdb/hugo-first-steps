@@ -1,6 +1,6 @@
 ---
 title: 'Plan de negocio'
-description: 'Gestione metas, coordine estrategias y mejore la comunicación entre equipos para lograr una planificación empresarial eficaz y transparente.'
+description: 'Planifique ideas empresariales, alinee objetivos estratégicos entre equipos y cree transparencia para éxito empresarial sostenible.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-de-negocios'
 aliases:

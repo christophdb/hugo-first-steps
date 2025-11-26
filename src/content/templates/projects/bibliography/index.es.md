@@ -1,6 +1,6 @@
 ---
 title: 'Bibliografía'
-description: 'Cree y gestione su bibliografía online: registre, clasifique y exporte fuentes en el formato que prefiera. Controle plazos, proyectos y contactos fácilmente – todo claro y sencillo.'
+description: 'Registre fuentes digitalmente, categorizalas y exporte en el estilo de cita que prefiera – controle plazos y proyectos.'
 date: '2024-08-24'
 url: '/es/plantilla/bibliografia'
 aliases:

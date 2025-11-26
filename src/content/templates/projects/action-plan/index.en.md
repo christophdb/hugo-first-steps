@@ -1,6 +1,6 @@
 ---
 title: 'Action Plan'
-description: 'Create and manage actions clearly: assign responsibilities and track progress in one place. Clear goals, priorities, and deadlines ensure effective execution and reliable processes.'
+description: 'Keep goals and priorities visible, manage responsibilities efficiently, and ensure structured implementation of all initiatives.'
 date: '2024-08-24'
 url: '/template/action-plan'
 category: 'projects'

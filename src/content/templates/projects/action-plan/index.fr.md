@@ -1,6 +1,6 @@
 ---
 title: "Plan d'action"
-description: 'Créez et suivez vos actions en toute clarté : attribuez les responsabilités et surveillez l’avancement en un seul endroit. Objectifs, priorités et échéances claires pour des processus efficaces.'
+description: 'Conservez objectifs et priorités en vue, gérez responsabilités efficacement et garantissez mise en œuvre structurée de toutes les mesures.'
 date: '2024-08-24'
 url: '/fr/modele/plan-d-action'
 aliases:

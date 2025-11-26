@@ -1,6 +1,6 @@
 ---
 title: 'Work Breakdown Structure'
-description: 'Divide your project into tasks and work packages, assign responsibilities and keep project progress visible at all times.'
+description: 'Structure projects, distribute tasks, delegate responsibilities, and visualize progress clearly and transparently.'
 date: '2024-08-17'
 url: '/template/work-breakdown-structure'
 category: 'projects'

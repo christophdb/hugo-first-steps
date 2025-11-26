@@ -1,6 +1,6 @@
 ---
 title: "Plan d'affaires"
-description: 'Définissez des stratégies, harmonisez les initiatives et partagez les informations clés pour renforcer l’efficacité en équipe et assurer la réussite de vos projets.'
+description: 'Planifiez idées commerciales, alignez objectifs stratégiques entre équipes et créez transparence pour succès durable.'
 date: '2024-08-24'
 url: '/fr/modele/plan-d-affaires'
 aliases:

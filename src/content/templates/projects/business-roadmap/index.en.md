@@ -1,6 +1,6 @@
 ---
 title: 'Business Roadmap'
-description: 'Define company strategy, align initiatives, and enable your team to collaborate for consistent business success. Achieve structure and clarity across all levels.'
+description: 'Plan business ideas, align strategic goals across teams, and create transparency for sustainable business success.'
 date: '2024-08-24'
 url: '/template/business-roadmap'
 category: 'projects'

@@ -1,6 +1,6 @@
 ---
 title: 'Cartera de proyectos'
-description: 'Gestione y supervise todos los proyectos, priorice recursos y mejore la toma de decisiones con una visión clara y centralizada.'
+description: 'Controle y analice proyectos centralmente, revise prioridades y recursos y facilite la gestión de proyectos.'
 url: '/es/plantilla/portafolio-proyectos'
 aliases:
     - '/es/plantilla/project-portfolio'

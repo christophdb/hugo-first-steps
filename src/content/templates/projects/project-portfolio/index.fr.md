@@ -1,6 +1,6 @@
 ---
 title: 'Portefeuille de projets'
-description: 'Centralisez tous les projets, analysez ressources et priorités et simplifiez la prise de décision dans toute l’entreprise.'
+description: 'Gérez et analysez tous vos projets centralement, révisez priorités et ressources et simplifiez la gestion de projet.'
 url: '/fr/modele/portefeuille-projets'
 aliases:
     - '/fr/modele/project-portfolio'

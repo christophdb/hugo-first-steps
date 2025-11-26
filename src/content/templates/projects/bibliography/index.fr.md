@@ -1,6 +1,6 @@
 ---
 title: 'Bibliographie'
-description: 'Réalisez et gérez votre bibliographie en ligne : saisissez, classez et exportez vos sources dans le style de citation souhaité. Gardez la vue sur vos échéances, projets et encadrants – tout est organisé.'
+description: 'Saisissez sources numériquement, catégorisez-les et exportez au format de citation souhaité – gérez délais et projets.'
 date: '2024-08-24'
 url: '/fr/modele/bibliographie'
 aliases:

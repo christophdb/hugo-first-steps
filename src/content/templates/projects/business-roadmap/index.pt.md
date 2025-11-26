@@ -1,6 +1,6 @@
 ---
 title: 'Plano de negócios'
-description: 'Planeje estratégias, conecte áreas e mantenha todas as equipes alinhadas a uma mesma visão para obter melhores resultados organizacionais.'
+description: 'Planeje ideias de negócio, alinhe objetivos estratégicos entre equipes e crie transparência para sucesso empresarial.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-de-negocios'
 aliases:

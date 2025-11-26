@@ -1,6 +1,6 @@
 ---
 title: 'Project Time Tracking'
-description: 'Track project time online or via app, assign clients and projects, create invoices and keep an eye on deadlines and budgets.'
+description: 'Track project times easily, generate invoices, and manage capacity, deadlines, and budgets in one place.'
 date: '2025-03-12'
 url: '/template/project-time-tracking'
 category: 'projects'

@@ -1,6 +1,6 @@
 ---
 title: 'Plan de structure du projet'
-description: "Planifiez et structurez les projets, attribuez des tâches, suivez l’avancement dans une arborescence visible et interactive."
+description: "Structurez projets, distribuez tâches, déléguez responsabilités et visualisez progrès clairement et transparemment."
 date: '2024-08-17'
 url: '/fr/modele/structure-projet'
 aliases:
