@@ -1,6 +1,6 @@
 ---
 title: 'Lancement du produit'
-description: ''
+description: 'Planifiez fonctionnalités, délais et actions marketing centralement et alignez toutes les équipes – pour un lancement produit réussi.'
 date: '2024-08-24'
 url: '/fr/modele/lancement-produit'
 aliases:

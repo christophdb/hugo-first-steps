@@ -1,6 +1,6 @@
 ---
 title: 'Helpdesk de TI'
-description: 'Organize solicitações, atribua responsáveis, acompanhe status, automatize feedback e use a base de conhecimento para resolver questões recorrentes—ferramenta flexível e segura na nuvem.'
+description: 'Gerencie tickets de suporte centralmente, atribua tarefas e resolva solicitações eficientemente – com base de conhecimento e feedback do cliente.'
 date: '2025-05-02'
 url: '/pt/modelo/it-helpdesk'
 category: 'software-development'

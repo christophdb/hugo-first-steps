@@ -1,8 +1,10 @@
 ---
 title: 'Rastreador de errores'
-description: ''
+description: 'Rastrear errores de software centralmente, priorizar problemas y coordinar correcciones entre desarrolladores y probadores eficientemente.'
 date: '2025-01-09'
-url: '/es/plantilla/bug-tracker'
+url: '/es/plantilla/rastreador-bugs'
+aliases:
+    - '/es/plantilla/bug-tracker'
 category: 'software-development'
 functions:
 seo:

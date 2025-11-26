@@ -1,6 +1,6 @@
 ---
 title: 'Bug Tracker'
-description: ''
+description: 'Erfassen Sie Softwarefehler zentral, priorisieren Sie Bugs und koordinieren Sie die Behebung zwischen Entwicklern und Testern effizient.'
 date: '2025-01-09'
 url: '/de/vorlage/bug-tracker'
 category: 'software-development'

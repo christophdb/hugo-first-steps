@@ -1,6 +1,6 @@
 ---
 title: 'Peticiones de funciones'
-description: ''
+description: 'Recopile solicitudes de características, priorice comentarios de usuarios y gestione ideas de desarrollo centralmente – para mejor desarrollo de productos.'
 date: '2024-08-24'
 url: '/es/plantilla/solicitudes-funciones'
 aliases:

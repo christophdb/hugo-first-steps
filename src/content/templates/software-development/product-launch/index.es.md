@@ -1,6 +1,6 @@
 ---
 title: 'Lanzamiento de productos'
-description: ''
+description: 'Planifique características, plazos y acciones de marketing centralmente y mantenga a todos los equipos alineados – para un lanzamiento exitoso.'
 date: '2024-08-24'
 url: '/es/plantilla/lanzamiento-producto'
 aliases:

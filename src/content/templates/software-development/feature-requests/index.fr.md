@@ -1,6 +1,6 @@
 ---
 title: 'Souhaits de fonctionnalités'
-description: ''
+description: 'Collectez demandes de fonctionnalités, priorisez retours utilisateurs et gérez idées de développement centralement – pour meilleur développement produit.'
 date: '2024-08-24'
 url: '/fr/modele/demandes-fonctionnalites'
 aliases:

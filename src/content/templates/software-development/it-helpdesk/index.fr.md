@@ -1,6 +1,6 @@
 ---
 title: 'IT Helpdesk'
-description: 'Rassemblez toutes demandes IT, gérez priorités, assignez équipes et visualisez en Kanban : base documentaire et statistiques intégrés. Améliorez efficacement la gestion de votre support informatique selon vos besoins.'
+description: 'Gérez tickets support centralement, attribuez tâches et résolvez demandes efficacement – avec base de connaissances et retours clients.'
 date: '2025-05-02'
 url: '/fr/modele/it-helpdesk'
 category: 'software-development'

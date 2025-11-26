@@ -1,6 +1,6 @@
 ---
 title: 'Feature Requests'
-description: ''
+description: 'Collect feature requests, prioritize user feedback, and manage development ideas centrally – for better product development.'
 date: '2024-08-24'
 url: '/template/feature-requests'
 category: 'software-development'

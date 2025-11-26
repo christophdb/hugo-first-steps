@@ -1,6 +1,6 @@
 ---
 title: 'Product Launch'
-description: ''
+description: 'Plan features, deadlines, and marketing activities centrally, keep all teams aligned – for a successful product launch.'
 date: '2024-08-24'
 url: '/template/product-launch'
 category: 'software-development'

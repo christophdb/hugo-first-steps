@@ -1,6 +1,6 @@
 ---
 title: 'Technologie-Roadmap'
-description: ''
+description: 'Planen Sie Ihre Technologie-Roadmap zentral: Meilensteine, Releases, Aufgaben und Teams klar strukturieren – für agile IT- und Digitalprojekte.'
 date: '2024-08-24'
 url: '/de/vorlage/technologie-roadmap'
 aliases:

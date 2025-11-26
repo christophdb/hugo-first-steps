@@ -1,6 +1,6 @@
 ---
 title: 'Pedidos de recursos'
-description: ''
+description: 'Colete solicitações de recursos, priorize feedback de usuários e gerencie ideias de desenvolvimento centralmente – para melhor desenvolvimento de produtos.'
 date: '2024-08-24'
 url: '/pt/modelo/pedidos-funcionalidades'
 aliases:
