@@ -39,7 +39,7 @@ In den angezeigten URLs wird anstelle von `xxxx` Ihre Team-ID angezeigt werden.
 
 ### 3. Zertifikat und Metadata URL in SeaTable hinterlegen
 
-- Laden Sie das gültige SSL-Zertifikat des IdP herunter.
+- Laden Sie das gültige SAML-Zertifikat des IdP herunter.
 - Tragen Sie das Zertifikat und die Metadata URL in der SeaTable Teamverwaltung ein.
 - Wählen Sie die Domain aus, die Sie mit SeaTable Cloud verknüpfen wollen.
 

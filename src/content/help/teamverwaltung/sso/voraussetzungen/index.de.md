@@ -38,7 +38,7 @@ Das vom IdP bereitgestellte Zertifikat muss gültig und vertrauenswürdig sein, 
 {{< /faq >}}
 
 {{< faq "Zugriff auf Metadaten" >}}
-Der IdP sollte Metadaten-Informationen (Metadata URL oder XML) zur Verfügung stellen, die in SeaTable hinterlegt werden.
+Der IdP sollte Metadaten-Informationen (Metadata URL) zur Verfügung stellen, die in SeaTable hinterlegt werden.
 {{< /faq >}}
 
 {{< faq "Domainbesitz bestätigen können" >}}

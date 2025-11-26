@@ -36,7 +36,7 @@ SSO erhöht die Sicherheit, indem die Anmeldung zentral über den IdP erfolgt. D
 
 ### Vereinfachte Nutzerverwaltung
 
-Mit SSO wird die Nutzerverwaltung zentralisiert und damit deutlich einfacher. Team-Administratoren steuern Benutzerkonten und Rechte bequem über den IdP. Neue Mitarbeitende lassen sich so einfach hinzufügen, und das On- oder Offboarding läuft effizienter. Auch die automatische Zusammenführung von Nutzerkonten beim ersten SSO-Login verhindert Dubletten und spart Aufwand.
+Mit SSO wird die Nutzerverwaltung zentralisiert und damit deutlich einfacher. Team-Administratoren steuern Benutzerkonten und das Zugriffsrecht bequem über den IdP. Neue Mitarbeitende lassen sich so einfach hinzufügen, und das On- oder Offboarding läuft effizienter. Auch die automatische Zusammenführung von Nutzerkonten beim ersten SSO-Login verhindert Dubletten und spart Aufwand.
 
 ## Für wen ist SSO verfügbar?
 

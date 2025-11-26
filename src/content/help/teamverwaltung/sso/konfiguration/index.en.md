@@ -39,7 +39,7 @@ In the displayed URLs, your team ID will be shown instead of `xxxx`.
 
 ### 3. Upload certificate and metadata URL in SeaTable
 
-- Download the valid SSL certificate from your IdP.
+- Download the valid SAML certificate from your IdP.
 - Upload the certificate and metadata URL to the SeaTable Team Management.
 - Select the domain you want to associate with SeaTable Cloud.
 

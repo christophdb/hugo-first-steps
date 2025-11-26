@@ -32,3 +32,21 @@ For successful use of Single Sign-On in SeaTable Cloud, the Identity Provider (I
 
 Other attributes are optional and ignored by SeaTable.
 {{< /faq >}}
+
+{{< faq "What happens if a user is already a member of another team?" >}}
+
+A user can only belong to one team at a time. If a user signs in via Single Sign-On (SSO) and is already a member of another team, an error message will appear. In this case, the login attempt will fail.
+
+{{< /faq >}}
+
+{{< faq "What happens if my team is already full?" >}}
+
+When a new user signs in to your team via Single Sign-On, they are automatically added to your team—provided that there are still available seats. If your team has already reached its maximum size, no additional users can sign in via SSO, and the login attempt will fail.
+
+{{< /faq >}}
+
+{{< faq "Does Single Sign-On login work if a user has been deactivated?" >}}
+
+If a user has been deactivated in the team management, they are immediately logged out of SeaTable Cloud and can no longer sign in via Single Sign-On.
+
+{{< /faq >}}
