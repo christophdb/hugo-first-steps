@@ -1,6 +1,6 @@
 ---
 title: 'Plano de formação pessoal'
-description: ''
+description: 'Planeje seus treinos com flexibilidade, registre sua evolução de forma clara e mantenha controle total sobre seus dados de fitness.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-treino-personalizado'
 aliases:

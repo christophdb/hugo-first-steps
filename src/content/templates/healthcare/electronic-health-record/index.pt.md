@@ -1,6 +1,6 @@
 ---
 title: 'Registo de saúde digital'
-description: ''
+description: 'Gerencie dados de saúde, diagnósticos, medicamentos e relatórios médicos digitalmente em um só lugar, armazene tudo com segurança e compartilhe com médicos quando necessário.'
 date: '2024-08-24'
 url: '/pt/modelo/prontuario-eletronico'
 aliases:

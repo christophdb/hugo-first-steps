@@ -1,6 +1,6 @@
 ---
 title: 'Personal Exercise Guide'
-description: ''
+description: 'Plan flexible workouts, track your progress in a clear structure and keep full control over your personal fitness data.'
 date: '2024-08-24'
 url: '/template/personal-exercise-guide'
 category: 'healthcare'

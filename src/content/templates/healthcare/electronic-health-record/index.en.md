@@ -1,6 +1,6 @@
 ---
 title: 'Electronic Health Record'
-description: ''
+description: 'Manage health data, diagnoses, medications, and medical reports digitally in one place, store them securely, and share with doctors as needed.'
 date: '2024-08-24'
 url: '/template/electronic-health-record'
 category: 'healthcare'

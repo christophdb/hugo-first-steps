@@ -1,6 +1,6 @@
 ---
 title: 'Dossier de santé numérique'
-description: ''
+description: 'Gérez données de santé, diagnostics, médicaments et comptes rendus médicaux numériquement en un seul endroit, stockez-les en toute sécurité et partagez-les avec vos médecins si besoin.'
 date: '2024-08-24'
 url: '/fr/modele/dossier-medical'
 aliases:

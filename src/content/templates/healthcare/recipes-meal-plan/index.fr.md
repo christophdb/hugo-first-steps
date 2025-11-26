@@ -1,6 +1,6 @@
 ---
 title: 'Recettes et plan de repas'
-description: ''
+description: 'Centralisez recettes favorites, planning hebdo et ingrédients, évaluez vos plats et organisez votre cuisine facilement.'
 date: '2024-08-24'
 url: '/fr/modele/recettes-menu'
 aliases:

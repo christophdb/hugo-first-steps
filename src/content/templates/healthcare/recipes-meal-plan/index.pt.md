@@ -1,6 +1,6 @@
 ---
 title: 'Receitas e plano de refeições'
-description: ''
+description: 'Reúna receitas favoritas, plano semanal e ingredientes, avalie pratos e organize sua cozinha com praticidade.'
 date: '2024-08-24'
 url: '/pt/modelo/receitas-cardapio'
 aliases:

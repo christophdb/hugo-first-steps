@@ -1,6 +1,6 @@
 ---
 title: 'Rezepte und Essensplan'
-description: ''
+description: 'Behalten Sie Lieblingsrezepte, Wochenplan und Zutaten im Blick, bewerten Sie Gerichte und organisieren Sie Ihre Küche clever.'
 date: '2024-08-24'
 url: '/de/vorlage/rezepte-meal-plan'
 aliases:
