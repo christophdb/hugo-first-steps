@@ -1,6 +1,6 @@
 ---
 title: 'Plan de déménagement'
-description: ''
+description: 'Gardez tâches, listes de cartons, aides, coûts et changements d’adresse sous contrôle et organisez votre déménagement au même endroit.'
 date: '2024-08-24'
 url: '/fr/modele/plan-demenagement'
 aliases:

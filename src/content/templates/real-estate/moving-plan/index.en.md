@@ -1,6 +1,6 @@
 ---
 title: 'Moving Plan'
-description: ''
+description: 'Keep tasks, packing lists, helpers, costs and address changes in view and organize your move in a single structured hub.'
 date: '2024-08-24'
 url: '/template/moving-plan'
 category: 'real-estate'

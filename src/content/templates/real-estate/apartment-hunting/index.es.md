@@ -1,6 +1,6 @@
 ---
 title: 'Caza en plano'
-description: ''
+description: 'Registra pisos, criterios, contactos y visitas en un solo lugar y compara fácilmente las viviendas para decidir.'
 date: '2024-08-24'
 url: '/es/plantilla/busqueda-apartamento'
 aliases:

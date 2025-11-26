@@ -1,6 +1,6 @@
 ---
 title: 'Calendario de construcción'
-description: 'Todo su proyecto de construcción de un vistazo: Esta solución de planificación digital agrupa todos los plazos, oficios y costes en una ubicación central, visualiza los calendarios y las tareas en tiempo real y facilita la colaboración y la comunicación dentro del equipo.'
+description: 'Ten toda la obra a la vista: esta solución digital reúne plazos, oficios y costes en un solo lugar y facilita la colaboración del equipo.'
 date: '2025-10-28'
 url: '/es/plantilla/calendario-de-construccion'
 category: 'real-estate'

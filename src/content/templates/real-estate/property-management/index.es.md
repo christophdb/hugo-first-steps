@@ -1,6 +1,6 @@
 ---
 title: 'Gestión inmobiliaria'
-description: ''
+description: 'Gestiona inmuebles, inquilinos, alquileres, mantenimiento y documentos de forma centralizada en una vista estructurada.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-inmobiliaria'
 aliases:

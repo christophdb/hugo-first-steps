@@ -1,6 +1,6 @@
 ---
 title: 'Property Management'
-description: ''
+description: 'Manage properties, tenants, rents, maintenance and documents centrally in one structured view and keep your entire portfolio under control.'
 date: '2024-08-24'
 url: '/template/property-management'
 category: 'real-estate'

@@ -1,6 +1,6 @@
 ---
 title: 'Serviços de limpeza'
-description: ''
+description: 'Registre pedidos de reparo por formulário web, agende serviços de forma centralizada e documente todas as tarefas de manutenção.'
 date: '2024-08-24'
 url: '/pt/modelo/servicos-zeladoria'
 aliases:

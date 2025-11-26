@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de casos'
-description: ''
+description: 'Mantén a la vista todos los casos, plazos y documentos, reparte los asuntos en el equipo y reduce la carga administrativa.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-casos-legales'
 aliases:

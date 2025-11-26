@@ -1,6 +1,6 @@
 ---
 title: 'Immobilienverwaltung'
-description: ''
+description: 'Verwalten Sie Immobilien, Mieter, Mieten, Wartungen und Dokumente zentral in einer strukturierten Übersicht und behalten Sie alle Objekte im Griff.'
 date: '2024-08-24'
 url: '/de/vorlage/immobilienverwaltung'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Wohnungssuche'
-description: ''
+description: 'Halten Sie Mietobjekte, Kriterien, Kontakte und Besichtigungstermine übersichtlich fest und vergleichen Sie Wohnungen für Ihre Entscheidung.'
 date: '2024-08-24'
 url: '/de/vorlage/wohnungssuche'
 aliases:

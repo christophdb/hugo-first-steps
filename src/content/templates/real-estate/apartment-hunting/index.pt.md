@@ -1,6 +1,6 @@
 ---
 title: 'Caça ao apartamento'
-description: ''
+description: 'Registre imóveis, critérios, contactos e visitas em um só lugar e compare os apartamentos com facilidade.'
 date: '2024-08-24'
 url: '/pt/modelo/busca-apartamento'
 aliases:

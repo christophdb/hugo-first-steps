@@ -1,6 +1,6 @@
 ---
 title: 'Ведение дел'
-description: ''
+description: 'Держите все дела, сроки и документы под контролем, распределяйте дела в команде и снижайте административную нагрузку.'
 date: '2024-08-24'
 url: '/ru/shablon/upravleniya-yuridicheskimi-delami'
 aliases:

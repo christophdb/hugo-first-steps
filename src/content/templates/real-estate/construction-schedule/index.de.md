@@ -1,6 +1,6 @@
 ---
 title: 'Bauzeitenplan'
-description: 'Ihr gesamtes Bauprojekt auf einen Blick: Diese digitale Planungslösung bündelt alle Termine, Gewerke und Kosten an einem zentralen Ort, visualisiert Zeitpläne und Aufgaben in Echtzeit und erleichtert die Zusammenarbeit sowie Kommunikation im Team.'
+description: 'Ihr gesamtes Bauprojekt auf einen Blick: Diese digitale Planungslösung bündelt alle Termine, Gewerke und Kosten zentral und erleichtert die Teamarbeit.'
 date: '2025-10-28'
 url: '/de/vorlage/bauzeitenplan'
 category: 'real-estate'
