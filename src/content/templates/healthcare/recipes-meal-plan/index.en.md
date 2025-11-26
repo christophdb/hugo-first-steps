@@ -1,6 +1,6 @@
 ---
 title: 'Recipes & Meal Plan'
-description: ''
+description: 'Keep favorite recipes, weekly meal plan and ingredients in one place, rate dishes and organize your cooking with ease.'
 date: '2024-08-24'
 url: '/template/recipes-meal-plan'
 category: 'healthcare'

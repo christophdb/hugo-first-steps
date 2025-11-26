@@ -1,6 +1,6 @@
 ---
 title: 'Guest Registration'
-description: ''
+description: 'Capture guest data digitally and GDPR-compliantly via QR code form – contactless, hygienic, and convenient for your guests.'
 date: '2024-08-24'
 url: '/template/guest-registration'
 category: 'healthcare'

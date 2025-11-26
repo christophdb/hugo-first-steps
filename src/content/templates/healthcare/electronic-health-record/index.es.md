@@ -1,6 +1,6 @@
 ---
 title: 'Historia clínica digital'
-description: ''
+description: 'Gestione datos de salud, diagnósticos, medicamentos e informes médicos digitalmente en un solo lugar, guárdelos de forma segura y compártalos con sus médicos cuando sea necesario.'
 date: '2024-08-24'
 url: '/es/plantilla/historia-clinica'
 aliases:

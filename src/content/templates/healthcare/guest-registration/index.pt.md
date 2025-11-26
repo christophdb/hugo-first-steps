@@ -1,6 +1,6 @@
 ---
 title: 'Registo de convidados'
-description: ''
+description: 'Registe dados de clientes digitalmente e em conformidade com o RGPD por meio de um formulário com QR code – sem contato, higiênico e prático.'
 date: '2024-08-24'
 url: '/pt/modelo/registro-convidados'
 aliases:

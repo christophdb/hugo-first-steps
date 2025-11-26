@@ -1,6 +1,6 @@
 ---
 title: 'Digitale Gesundheitsakte'
-description: ''
+description: 'Gesundheitsdaten, Diagnosen, Medikamente und Arztbriefe zentral digital verwalten, sicher speichern und strukturiert mit Ärzten teilen.'
 date: '2024-08-24'
 url: '/de/vorlage/elektronische-patientenakte'
 aliases:

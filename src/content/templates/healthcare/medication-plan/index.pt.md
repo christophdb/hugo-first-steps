@@ -1,6 +1,6 @@
 ---
 title: 'Plano de medicação'
-description: 'Com este modelo de plano de medicação, pode gerir todos os medicamentos, dosagens e contactos médicos de forma clara e centralizada, atualizar dados a qualquer momento e criar uma visão geral imprimível com o toque de um botão - seguro, digital e compatível com o RGPD.'
+description: 'Controle medicamentos, dosagens e contactos médicos num só local, atualize os dados a qualquer momento e crie um resumo imprimível com segurança.'
 date: '2025-09-23'
 url: '/pt/modelo/plano-de-medicacao'
 category: 'healthcare'

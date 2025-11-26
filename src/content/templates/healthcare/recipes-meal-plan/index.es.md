@@ -1,6 +1,6 @@
 ---
 title: 'Recetas y plan de comidas'
-description: ''
+description: 'Centraliza tus recetas favoritas, plan semanal e ingredientes, valora tus platos y organiza tu cocina con facilidad.'
 date: '2024-08-24'
 url: '/es/plantilla/recetas-plan-comidas'
 aliases:

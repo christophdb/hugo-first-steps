@@ -1,6 +1,6 @@
 ---
 title: Plan de médication
-description: 'Avec ce modèle de plan de médication, vous gérez de manière claire et centralisée tous les médicaments, les dosages et les contacts avec le médecin, vous actualisez les données à tout moment et vous créez un aperçu imprimable en appuyant sur un bouton - de manière sûre, numérique et conforme au RGPD.'
+description: 'Gardez médicaments, dosages et contacts médicaux sous contrôle, mettez vos données à jour à tout moment et générez un récapitulatif imprimable en toute sécurité.'
 date: '2025-09-23'
 url: '/fr/modeles/plan-de-medication'
 category: 'healthcare'

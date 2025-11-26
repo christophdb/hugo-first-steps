@@ -1,6 +1,6 @@
 ---
 title: 'Gästeregistrierung'
-description: ''
+description: 'Erfassen Sie Gästedaten digital und DSGVO-konform via QR-Code-Formular – kontaktlos, hygienisch und bequem für Ihre Gäste.'
 date: '2024-08-24'
 url: '/de/vorlage/gaesteregistrierung'
 aliases:

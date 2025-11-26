@@ -1,6 +1,6 @@
 ---
 title: 'Registro de invitados'
-description: ''
+description: 'Registre los datos de los clientes de forma digital y conforme al RGPD mediante un formulario con código QR: sin contacto, higiénico y cómodo.'
 date: '2024-08-24'
 url: '/es/plantilla/registro-invitados'
 aliases:

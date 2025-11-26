@@ -1,6 +1,6 @@
 ---
 title: 'Medikamentenplan'
-description: 'Mit dieser Medikamentenplan Vorlage verwalten Sie übersichtlich und zentral alle Medikamente, Dosierungen und Arztkontakte, aktualisieren Daten jederzeit und erstellen auf Knopfdruck eine druckbare Übersicht – sicher, digital und DSGVO-konform.'
+description: 'Medikamente, Dosierungen und Arztkontakte zentral im Blick behalten, Daten jederzeit aktualisieren und eine druckbare Übersicht sicher digital erstellen.'
 date: '2025-09-23'
 url: '/de/vorlage/medikamentenplan'
 category: 'healthcare'

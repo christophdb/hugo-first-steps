@@ -1,6 +1,6 @@
 ---
 title: "Plan d'entraînement personnel"
-description: ''
+description: 'Planifiez vos séances en toute flexibilité, suivez vos progrès avec clarté et gardez le contrôle total sur vos données fitness.'
 date: '2024-08-24'
 url: '/fr/modele/programme-entrainement-personnel'
 aliases:

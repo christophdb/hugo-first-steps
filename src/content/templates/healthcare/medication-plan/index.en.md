@@ -1,6 +1,6 @@
 ---
 title: 'Medication plan'
-description: 'With this medication plan template, you can manage all medications, dosages and doctor contacts clearly and centrally, update data at any time and create a printable overview at the touch of a button - secure, digital and GDPR-compliant.'
+description: 'Keep medications, dosages, and doctor contacts central, update data anytime, and generate a secure, printable overview digitally.'
 date: '2025-09-23'
 url: '/templates/medication-plan'
 category: 'healthcare'

@@ -1,6 +1,6 @@
 ---
 title: 'Enregistrement des invités'
-description: ''
+description: 'Enregistrez les données de vos clients numériquement et en conformité RGPD via un formulaire QR code – sans contact, hygiénique et pratique.'
 date: '2024-08-24'
 url: '/fr/modele/enregistrement-invites'
 aliases:

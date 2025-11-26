@@ -1,6 +1,6 @@
 ---
 title: 'Plan de entrenamiento personal'
-description: ''
+description: 'Planifica tus entrenamientos con flexibilidad, registra tus progresos de forma clara y mantén el control total de tus datos de fitness.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-entrenamiento-personal'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Persönlicher Trainingsplan'
-description: ''
+description: 'Planen Sie Ihr Workout flexibel, halten Sie Fortschritte strukturiert fest und behalten Sie die volle Kontrolle über Ihre Fitnessdaten.'
 date: '2024-08-24'
 url: '/de/vorlage/trainingsplan'
 aliases:

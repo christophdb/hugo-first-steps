@@ -1,6 +1,6 @@
 ---
 title: 'Регистрация гостей'
-description: ''
+description: 'Собирайте данные гостей в цифровом виде и в соответствии с GDPR через форму по QR‑коду — бесконтактно, гигиенично и удобно.'
 date: '2024-08-24'
 url: '/ru/shablon/registratsii-gostey'
 aliases:
