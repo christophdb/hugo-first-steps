@@ -1,6 +1,6 @@
 ---
 title: 'Umzugsplan'
-description: ''
+description: 'Behalten Sie Aufgaben, Packlisten, Helfer, Kosten und Adressänderungen im Blick und organisieren Sie Ihren Umzug strukturiert an einem Ort.'
 date: '2024-08-24'
 url: '/de/vorlage/umzugsplan'
 aliases:

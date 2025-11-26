@@ -1,6 +1,6 @@
 ---
 title: 'Plano de relocalização'
-description: ''
+description: 'Tenha tarefas, listas de embalagem, ajudantes, custos e mudanças de endereço sob controle e organize a mudança em um só lugar.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-mudanca'
 aliases:

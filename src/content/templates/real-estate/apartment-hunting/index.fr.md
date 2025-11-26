@@ -1,6 +1,6 @@
 ---
 title: 'Recherche de logement'
-description: ''
+description: 'Centralisez logements, critères, contacts et visites en un seul endroit et comparez facilement les appartements.'
 date: '2024-08-24'
 url: '/fr/modele/recherche-appartement'
 aliases:

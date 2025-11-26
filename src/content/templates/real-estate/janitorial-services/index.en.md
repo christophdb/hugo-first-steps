@@ -1,6 +1,6 @@
 ---
 title: 'Janitorial Services'
-description: ''
+description: 'Capture repair requests via web form, schedule jobs centrally and keep a complete record of all janitorial tasks.'
 date: '2024-08-24'
 url: '/template/janitorial-services'
 category: 'real-estate'

@@ -1,6 +1,6 @@
 ---
 title: 'Fallmanagement'
-description: ''
+description: 'Behalten Sie alle Fälle, Fristen und Dokumente im Blick, verteilen Sie Mandate im Team und reduzieren Sie Ihren Verwaltungsaufwand.'
 date: '2024-08-24'
 url: '/de/vorlage/kanzleimanagement'
 aliases:

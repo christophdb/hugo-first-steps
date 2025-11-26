@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des cas'
-description: ''
+description: 'Gardez une vue claire sur dossiers, échéances et documents, répartissez les affaires dans l’équipe et réduisez la charge administrative.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-dossiers-juridiques'
 aliases:

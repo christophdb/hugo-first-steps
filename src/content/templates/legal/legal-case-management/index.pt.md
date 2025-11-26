@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de casos'
-description: ''
+description: 'Tenha processos, prazos e documentos sempre à vista, distribua casos na equipe e reduza o trabalho administrativo.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-processos-juridicos'
 aliases:

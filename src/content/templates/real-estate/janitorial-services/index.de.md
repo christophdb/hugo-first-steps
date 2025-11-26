@@ -1,6 +1,6 @@
 ---
 title: 'Hausmeisterdienste'
-description: ''
+description: 'Erfassen Sie Reparaturmeldungen per Webformular, planen Sie Einsätze zentral und dokumentieren Sie alle Hausmeisteraufgaben lückenlos.'
 date: '2024-08-24'
 url: '/de/vorlage/hausmeisterdienste'
 aliases:

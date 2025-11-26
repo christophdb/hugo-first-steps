@@ -1,6 +1,6 @@
 ---
 title: 'Plan de reubicación'
-description: ''
+description: 'Mantén bajo control tareas, listas de equipaje, ayudantes, costes y cambios de dirección y organiza tu mudanza en un solo lugar.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-mudanza'
 aliases:

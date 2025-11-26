@@ -1,6 +1,6 @@
 ---
 title: 'Construction schedule'
-description: 'Your entire construction project at a glance: This digital planning solution bundles all deadlines, trades and costs in one central location, visualises schedules and tasks in real time and facilitates collaboration and communication within the team.'
+description: 'See your entire construction project at a glance: this digital planner unites deadlines, trades and costs in one place and streamlines team collaboration.'
 date: '2025-10-28'
 url: '/templates/construction schedule'
 category: 'real-estate'

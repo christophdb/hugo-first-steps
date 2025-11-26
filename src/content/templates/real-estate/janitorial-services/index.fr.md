@@ -1,6 +1,6 @@
 ---
 title: 'Conciergerie'
-description: ''
+description: 'Recueillez les demandes de réparation via formulaire web, planifiez les interventions au même endroit et consignez toutes les tâches de maintenance.'
 date: '2024-08-24'
 url: '/fr/modele/services-conciergerie'
 aliases:

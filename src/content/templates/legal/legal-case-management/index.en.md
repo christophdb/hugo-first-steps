@@ -1,6 +1,6 @@
 ---
 title: 'Legal Case Management'
-description: ''
+description: 'Keep all cases, deadlines and documents in view, assign matters across the team and cut your administrative workload.'
 date: '2024-08-24'
 url: '/template/legal-case-management'
 category: 'legal'

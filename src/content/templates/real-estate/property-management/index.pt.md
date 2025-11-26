@@ -1,6 +1,6 @@
 ---
 title: 'Gestão imobiliária'
-description: ''
+description: 'Gerencie imóveis, inquilinos, aluguéis, manutenções e documentos de forma centralizada em uma visão estruturada.'
 date: '2024-08-24'
 url: '/pt/modelo/administracao-imoveis'
 aliases:

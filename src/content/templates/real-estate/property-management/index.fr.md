@@ -1,6 +1,6 @@
 ---
 title: 'Gestion immobilière'
-description: ''
+description: 'Gérez biens, locataires, loyers, maintenance et documents de façon centralisée dans une vue structurée.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-immobiliere'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Servicios de limpieza'
-description: ''
+description: 'Registra avisos de reparación mediante formulario web, programa los trabajos de forma centralizada y documenta todas las tareas de mantenimiento.'
 date: '2024-08-24'
 url: '/es/plantilla/servicios-mantenimiento'
 aliases:
