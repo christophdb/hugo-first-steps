@@ -1,6 +1,6 @@
 ---
 title: 'Produktentwicklungs-Feedback'
-description: ''
+description: 'Erfassen Sie Kundenfeedback zentral, werten Sie es nach Features aus und leiten Sie gezielt Produktverbesserungen und Prioritäten ab.'
 date: '2024-08-24'
 url: '/de/vorlage/produktentwicklungs-feedback'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Bibliothèque de produits'
-description: ''
+description: 'Centralisez gammes de produits, spécifications, fournisseurs et ventes et structurez clairement votre portefeuille.'
 date: '2024-08-24'
 url: '/fr/modele/bibliotheque-produits'
 aliases:

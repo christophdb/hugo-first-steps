@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des produits numériques'
-description: ''
+description: 'Rassemblez efficacement toutes les infos produits, projets et équipes, structurez les flux de travail et pilotez tout dans un même espace.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-produit-digital'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Feedback sur le développement de produits'
-description: ''
+description: 'Centralisez les retours clients, analysez-les par fonctionnalité et définissez clairement les améliorations produit et les priorités.'
 date: '2024-08-24'
 url: '/fr/modele/feedback-developpement-produit'
 aliases:

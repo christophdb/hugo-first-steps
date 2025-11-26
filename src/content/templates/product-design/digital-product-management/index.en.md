@@ -1,6 +1,6 @@
 ---
 title: 'Digital product management'
-description: ''
+description: 'Efficiently bring together all product info, projects and teams, structure workflows clearly and keep your digital product management in one place.'
 date: '2024-08-24'
 url: '/template/digital-product-management'
 aliases:

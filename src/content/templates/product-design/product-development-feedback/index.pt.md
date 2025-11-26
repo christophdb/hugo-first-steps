@@ -1,6 +1,6 @@
 ---
 title: 'Feedback de desenvolvimento do produto'
-description: ''
+description: 'Centralize o feedback dos clientes, analise por funcionalidade e defina melhorias de produto e prioridades de forma clara.'
 date: '2024-08-24'
 url: '/pt/modelo/feedback-desenvolvimento-produto'
 aliases:

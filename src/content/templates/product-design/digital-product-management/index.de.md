@@ -1,6 +1,6 @@
 ---
 title: 'Digitales Produktmanagement'
-description: ''
+description: 'Effizient alle Produktinfos, Projekte und Teams bündeln, Workflows klar strukturieren und Ihr digitales Produktmanagement zentral steuern.'
 date: '2024-08-24'
 url: '/de/vorlage/digital-product-management'
 aliases:

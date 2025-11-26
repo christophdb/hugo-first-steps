@@ -1,6 +1,6 @@
 ---
 title: 'Biblioteca de produtos'
-description: ''
+description: 'Reúna linhas de produtos, especificações, fornecedores e vendas em um só lugar e estruture seu portfólio com clareza.'
 date: '2024-08-24'
 url: '/pt/modelo/biblioteca-produtos'
 aliases:
