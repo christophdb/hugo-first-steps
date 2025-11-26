@@ -1,6 +1,6 @@
 ---
 title: 'Análisis coste-beneficio'
-description: ''
+description: 'Evalúe sus inversiones con seguridad comparando costes y beneficios de forma estructurada y calculando automáticamente la ganancia financiera.'
 date: '2024-08-24'
 url: '/es/plantilla/costo-beneficio'
 aliases:

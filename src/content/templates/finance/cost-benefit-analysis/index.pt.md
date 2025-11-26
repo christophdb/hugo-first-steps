@@ -1,6 +1,6 @@
 ---
 title: 'Análise custo-benefício'
-description: ''
+description: 'Avalie investimentos com segurança, estruturando custos e benefícios e calculando automaticamente o ganho financeiro.'
 date: '2024-08-24'
 url: '/pt/modelo/analise-custo-beneficio'
 aliases:

@@ -1,13 +1,15 @@
 ---
 title: 'Planeamento orçamental'
-description: ''
+description: 'Analise suas despesas, planeje o orçamento anual de forma proativa e alinhe metas financeiras e centros de custo em um único lugar central.'
 date: '2024-08-24'
-url: '/pt/modelo/budget-plan'
+url: '/pt/modelo/plano-orcamentario'
+aliases:
+    - '/pt/modelo/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: 'Planejamento orçamentário facilitado'
-    description: 'Planeje e gerencie o orçamento da sua empresa com eficiência, analisando custos e metas.'
+    title: 'Modelo de orçamento: planeje custos e objetivos'
+    description: 'Analise despesas, projete custos futuros e alinhe metas financeiras usando este modelo completo de planejamento orçamentário.'
 template: '8fa08d31d16c4a54a1bb'
 weight: 2
 ---

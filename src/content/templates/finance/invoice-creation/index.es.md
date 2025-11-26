@@ -1,6 +1,6 @@
 ---
 title: 'Redactar factura'
-description: ''
+description: 'Cree y envíe facturas de forma automática y profesional, vincule datos de clientes y pedidos centralmente y reduzca errores y trabajo administrativo.'
 date: '2025-03-24'
 url: '/es/plantilla/creacion-factura'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Livro do orçamento'
-description: ''
+description: 'Controle receitas e despesas de forma centralizada, registre comprovantes por formulário online e identifique potencial de economia com estatísticas claras.'
 date: '2024-08-24'
 url: '/pt/modelo/orcamento'
 aliases:

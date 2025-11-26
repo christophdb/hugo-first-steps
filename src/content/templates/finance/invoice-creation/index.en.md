@@ -1,6 +1,6 @@
 ---
 title: 'Invoice Creation'
-description: ''
+description: 'Create and send invoices automatically and professionally, link customer and order data centrally, and reduce errors and admin effort.'
 date: '2025-03-24'
 url: '/template/invoice-creation'
 category: 'finance'

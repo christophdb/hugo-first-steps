@@ -1,6 +1,6 @@
 ---
-title: 'Überwachung von Aktienkursen'
-description: ''
+title: 'Aktienkurse überwachen'
+description: 'Überwachen Sie Aktienkurse automatisiert, speichern Sie historische Kursdaten und visualisieren Sie Trends zentral – mit externer Preis-API-Anbindung.'
 date: '2024-08-24'
 url: '/de/vorlage/stock-price-monitoring'
 aliases:

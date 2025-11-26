@@ -1,6 +1,6 @@
 ---
 title: 'Modèle de carnet de route'
-description: ''
+description: 'Enregistrez vos trajets numériquement et conformément à la fiscalité, gérez plusieurs véhicules et suivez kilomètres privés et professionnels.'
 date: '2025-02-23'
 url: '/fr/modele/carnet-de-route'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Comparación de precios'
-description: ''
+description: 'Compare precios de productos con claridad, resalte automáticamente la oferta más barata y mantenga todos los datos de proveedores centralizados.'
 date: '2024-08-24'
 url: '/es/plantilla/comparacion-precios'
 aliases:

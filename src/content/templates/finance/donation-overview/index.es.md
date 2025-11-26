@@ -1,8 +1,10 @@
 ---
 title: 'Resumen de donaciones'
-description: ''
+description: 'Gestione donaciones, proyectos y objetivos de forma centralizada, genere recibos con un clic y mantenga siempre a la vista el progreso financiero.'
 date: '2024-08-24'
-url: '/es/plantilla/donation-overview'
+url: '/es/plantilla/gestion-donaciones'
+aliases:
+    - '/es/plantilla/donation-overview'
 category: 'finance'
 functions:
 seo:

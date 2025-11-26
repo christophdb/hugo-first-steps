@@ -1,5 +1,5 @@
 ---
-title: 'Verwaltung von Urlaubsanträgen'
+title: 'Urlaubsanträge verwalten'
 description: 'Verwalten Sie Urlaubsanträge digital: Anträge per Formular erfassen, Überschneidungen prüfen und Genehmigungen automatisiert abwickeln.'
 date: '2024-08-24'
 url: '/de/vorlage/urlaubsantrag-verwaltung'

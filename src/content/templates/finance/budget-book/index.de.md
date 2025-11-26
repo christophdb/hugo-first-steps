@@ -1,6 +1,6 @@
 ---
 title: 'Haushaltsbuch'
-description: ''
+description: 'Behalten Sie Einnahmen und Ausgaben zentral im Blick, erfassen Sie Belege per Webformular und erkennen Sie Sparpotenziale mit übersichtlichen Statistiken.'
 date: '2024-08-24'
 url: '/de/vorlage/budgetbuch'
 aliases:

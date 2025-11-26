@@ -1,13 +1,15 @@
 ---
 title: 'Planification budgétaire'
-description: ''
+description: 'Analysez vos dépenses, planifiez votre budget annuel de manière proactive et alignez objectifs financiers et centres de coûts en un seul endroit central.'
 date: '2024-08-24'
-url: '/fr/modele/budget-plan'
+url: '/fr/modele/plan-budgetaire'
+aliases:
+    - '/fr/modele/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: 'Planification budgétaire simplifiée'
-    description: 'Gérez le budget de votre organisation efficacement et fixez vos objectifs financiers avec clarté.'
+    title: 'Modèle de budget : maîtriser dépenses et objectifs'
+    description: 'Analysez vos dépenses, planifiez l’année suivante et alignez objectifs financiers avec ce modèle de planification budgétaire.'
 template: '8fa08d31d16c4a54a1bb'
 weight: 2
 ---

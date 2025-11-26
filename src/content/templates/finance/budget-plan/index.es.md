@@ -1,13 +1,15 @@
 ---
 title: 'Planificación presupuestaria'
-description: ''
+description: 'Analice gastos, planifique su presupuesto anual de forma proactiva y alinee objetivos financieros y centros de coste en una plantilla central.'
 date: '2024-08-24'
-url: '/es/plantilla/budget-plan'
+url: '/es/plantilla/plan-presupuesto'
+aliases:
+    - '/es/plantilla/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: 'Planificación de presupuesto sencilla'
-    description: 'Planifica y controla fácilmente tu presupuesto empresarial con análisis y objetivos claros.'
+    title: 'Plantilla de presupuesto: controla gastos y objetivos'
+    description: 'Analiza costes, planifica el próximo año y alinea metas financieras con esta plantilla estructurada de planificación de presupuesto.'
 template: '8fa08d31d16c4a54a1bb'
 weight: 2
 ---

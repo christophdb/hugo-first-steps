@@ -1,6 +1,6 @@
 ---
 title: 'Price Comparison'
-description: ''
+description: 'Compare product prices clearly, highlight the cheapest offer automatically, and keep all vendor data centralized.'
 date: '2024-08-24'
 url: '/template/price-comparison'
 category: 'finance'

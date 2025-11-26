@@ -1,6 +1,6 @@
 ---
 title: 'Modelo de diário de bordo'
-description: ''
+description: 'Registre deslocamentos de forma digital e conforme à legislação, gerencie vários veículos e controle quilômetros privados e de trabalho.'
 date: '2025-02-23'
 url: '/pt/modelo/diario-de-bordo'
 aliases:

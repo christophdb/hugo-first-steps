@@ -1,8 +1,10 @@
 ---
 title: 'Aperçu des dons'
-description: ''
+description: 'Gérez dons, projets et objectifs de manière centralisée, générez des reçus en un clic et gardez à tout moment une vue claire de l’avancement financier.'
 date: '2024-08-24'
-url: '/fr/modele/donation-overview'
+url: '/fr/modele/gestion-dons'
+aliases:
+    - '/fr/modele/donation-overview'
 category: 'finance'
 functions:
 seo:

@@ -1,8 +1,10 @@
 ---
 title: 'Visão geral das doações'
-description: ''
+description: 'Gerencie doações, projetos e metas de forma centralizada, gere recibos com um clique e mantenha sempre o progresso financeiro sob controle.'
 date: '2024-08-24'
-url: '/pt/modelo/donation-overview'
+url: '/pt/modelo/gestao-doacoes'
+aliases:
+    - '/pt/modelo/donation-overview'
 category: 'finance'
 functions:
 seo:

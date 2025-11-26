@@ -1,6 +1,6 @@
 ---
 title: 'Kosten-Nutzen-Analyse'
-description: ''
+description: 'Bewerten Sie Investitionen fundiert, indem Sie Kosten und Nutzen strukturiert gegenüberstellen und den finanziellen Vorteil automatisch berechnen.'
 date: '2024-08-24'
 url: '/de/vorlage/kosten-nutzen-analyse'
 aliases:

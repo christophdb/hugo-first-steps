@@ -1,6 +1,6 @@
 ---
 title: 'Seguimiento de la cotización de las acciones'
-description: ''
+description: 'Supervise cotizaciones bursátiles automáticamente, almacene datos históricos y visualice tendencias centralmente – con conexión a APIs de precios externas.'
 date: '2024-08-24'
 url: '/es/plantilla/monitor-precios-acciones'
 aliases:

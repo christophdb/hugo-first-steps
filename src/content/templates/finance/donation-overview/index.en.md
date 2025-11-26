@@ -1,6 +1,6 @@
 ---
 title: 'Donation Overview'
-description: ''
+description: 'Manage donations, projects, and goals centrally, generate receipts with one click, and keep financial progress in view at all times.'
 date: '2024-08-24'
 url: '/template/donation-overview'
 category: 'finance'

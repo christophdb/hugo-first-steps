@@ -1,6 +1,6 @@
 ---
 title: 'Livre de ménage'
-description: ''
+description: 'Contrôlez vos revenus et dépenses de façon centralisée, enregistrez les reçus via un formulaire en ligne et identifiez les économies possibles grâce à des statistiques claires.'
 date: '2024-08-24'
 url: '/fr/modele/budget'
 aliases:

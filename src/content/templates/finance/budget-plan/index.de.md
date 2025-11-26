@@ -1,13 +1,13 @@
 ---
 title: 'Budgetplanung'
-description: ''
+description: 'Analysieren Sie Ausgaben, planen Sie Ihr Jahresbudget vorausschauend und stimmen Sie Finanzziele und Kostenstellen zentral aufeinander ab.'
 date: '2024-08-24'
 url: '/de/vorlage/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: 'Budgetplanung einfach umsetzen'
-    description: 'Planen Sie Ihr Unternehmensbudget effizient und zukunftssicher: Analyse, Prognose und Ziele klar im Blick.'
+    title: 'Budgetplanung Vorlage: Unternehmensfinanzen im Blick'
+    description: 'Analysieren Sie Ausgaben, planen Sie Ihr Budget vorausschauend und bringen Sie Finanzziele mit dieser Budgetplan-Vorlage in Einklang.'
 template: '8fa08d31d16c4a54a1bb'
 weight: 2
 ---

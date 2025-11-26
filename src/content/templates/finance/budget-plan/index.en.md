@@ -1,13 +1,13 @@
 ---
 title: 'Budget Plan'
-description: ''
+description: 'Analyze expenses, plan your annual budget proactively, and align financial goals with cost centers in one central template.'
 date: '2024-08-24'
 url: '/template/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: 'Effortless Business Budget Planning'
-    description: 'Create and manage your business budget efficiently—track expenses, set goals and forecast for the future.'
+    title: 'Budget Planning Template: Align Costs & Goals'
+    description: 'Analyze expenses, forecast future costs and keep business goals aligned with this structured budget planning template.'
 template: '8fa08d31d16c4a54a1bb'
 weight: 2
 ---

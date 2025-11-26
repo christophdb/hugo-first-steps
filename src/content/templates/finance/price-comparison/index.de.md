@@ -1,6 +1,6 @@
 ---
 title: 'Preisvergleich'
-description: ''
+description: 'Produktpreise übersichtlich vergleichen, das günstigste Angebot automatisch hervorheben und alle Händlerdaten zentral im Blick behalten.'
 date: '2024-08-24'
 url: '/de/vorlage/preisvergleich'
 aliases:
