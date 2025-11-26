@@ -1,6 +1,6 @@
 ---
 title: 'Organizador de fiestas'
-description: 'Planifique su fiesta de forma digital y sin estrés: controle invitados, aportes y tareas fácilmente. Invite en línea, organice los deseos y tenga todo bajo control.'
+description: 'Planifique su fiesta digitalmente: controle invitados, aportes y tareas, invite online y organice todo centralmente.'
 date: '2024-08-24'
 url: '/es/plantilla/planificador-fiesta'
 aliases:

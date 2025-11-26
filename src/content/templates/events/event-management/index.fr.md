@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des événements'
-description: "Gérez toutes vos tâches, participants et budgets en un seul endroit. Automatisez inscriptions et données pour des processus fluides. Vos événements seront efficaces et toujours bien structurés."
+description: "Gérez événements centralement : administrez tâches, participants et budgets automatiquement, organisez enregistrements et données flexiblement."
 url: '/fr/modele/event-management'
 aliases:
     - '/fr/modeles/événements/'

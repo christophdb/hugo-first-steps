@@ -1,6 +1,6 @@
 ---
 title: 'Planeador de festas'
-description: 'Planeje sua festa digitalmente, sem estresse: gerencie convidados, itens e tarefas facilmente. Convide online e tenha tudo sob controle em um só lugar.'
+description: 'Planeje sua festa digitalmente: controle convidados, contribuições e tarefas, convide online e organize tudo centralmente.'
 date: '2024-08-24'
 url: '/pt/modelo/planejador-festas'
 aliases:

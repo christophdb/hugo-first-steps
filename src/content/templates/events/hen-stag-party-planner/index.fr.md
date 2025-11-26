@@ -1,6 +1,6 @@
 ---
 title: 'Enterrement de vie de garçon'
-description: 'Planifiez l’enterrement de vie de célibataire : gérez invités, programme et budget en ligne. Attribuez les tâches, centralisez les infos pour une organisation efficace.'
+description: "Planifiez l'enterrement de vie facilement : gérez invités, programme et budget, attribuez tâches – tout centralisé pour un événement réussi."
 date: '2024-09-06'
 url: '/fr/modele/planificateur-evjf-evg'
 aliases:

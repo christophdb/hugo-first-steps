@@ -1,6 +1,6 @@
 ---
 title: 'Travel Planner'
-description: 'Organize your trip digitally and stress-free: keep track of destinations, activities, documents, and expenses. Plan together, upload memories, and access everything anytime, anywhere.'
+description: 'Organize your trip digitally: keep destinations, activities, documents, and expenses in view – accessible anytime, anywhere.'
 date: '2024-08-17'
 url: '/template/travel-planner'
 category: 'events'

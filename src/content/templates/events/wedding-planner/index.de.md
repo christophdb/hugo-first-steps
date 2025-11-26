@@ -1,6 +1,6 @@
 ---
 title: 'Hochzeitsplaner'
-description: 'Behalten Sie alle Aufgaben, Gäste und das Budget Ihrer Hochzeit stressfrei digital im Blick. Planen, verwalten und teilen Sie Informationen zentral – für eine perfekte Feier und entspannte Vorbereitung.'
+description: 'Behalten Sie Aufgaben, Gäste und Budget Ihrer Hochzeit digital im Blick – planen, verwalten und teilen Sie alles zentral und entspannt.'
 date: '2024-08-24'
 url: '/de/vorlage/hochzeitsplaner'
 liases:

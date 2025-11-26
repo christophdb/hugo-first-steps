@@ -1,6 +1,6 @@
 ---
 title: 'Chá de bebé'
-description: 'Planeje, organize e coordene o chá de bebê com facilidade em um único local. Gerencie convidados, tarefas e presentes – convide amigos por formulário online. Todas as informações ficam claras, atualizadas e disponíveis para uma celebração inesquecível.'
+description: 'Planeje seu chá de bebê centralmente: gerencie convidados, tarefas e presentes, convide amigos via formulário – organizado e tranquilo.'
 date: '2024-08-24'
 url: '/pt/modelo/cha-de-bebe'
 aliases:

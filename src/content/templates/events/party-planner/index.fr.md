@@ -1,6 +1,6 @@
 ---
 title: 'Planificateur de fête'
-description: 'Organisez votre fête en toute tranquillité : gérez invités, contributions et tâches en ligne. Invitez vos amis, centralisez les informations et gardez tout sous contrôle.'
+description: 'Planifiez votre fête digitalement : gérez invités, contributions et tâches, invitez en ligne et organisez tout centralement.'
 date: '2024-08-24'
 url: '/fr/modele/planificateur-fete'
 aliases:

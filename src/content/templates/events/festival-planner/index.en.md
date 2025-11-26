@@ -1,6 +1,6 @@
 ---
 title: 'Festival Planner'
-description: "Coordinate your festival cleverly: manage your packing list, line-up and schedule centrally, coordinate your team's wishes and start perfectly prepared together - digitally, interactively and always up-to-date."
+description: "Plan your festival centrally: manage packing list, line-up, and schedule, coordinate wishes as a team – digital and always up-to-date."
 date: '2024-08-24'
 url: '/template/festival-planner'
 category: 'events'

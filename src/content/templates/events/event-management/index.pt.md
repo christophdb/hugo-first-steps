@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de eventos'
-description: 'Gerencie tarefas, participantes e orçamentos em um só lugar. Automatize inscrições e dados para processos rápidos e claros. Seus eventos ficam eficientes e bem organizados a cada vez.'
+description: 'Controle eventos centralmente: gerencie tarefas, participantes e orçamento automaticamente, organize registros e dados com flexibilidade.'
 url: '/pt/modelo/event-management'
 category: 'ereignisse'
 functions:

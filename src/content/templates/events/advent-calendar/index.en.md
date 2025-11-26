@@ -1,7 +1,6 @@
 ---
 title: 'Advent Calendar'
-description: 'Create your unique digital Advent calendar, fill it with surprises or media and share via link. Customize content flexibly and build excitement with family, friends, or colleagues.
-Easy to design and share – for more festive spirit!'
+description: 'Design a custom digital Advent calendar, add surprises, and share via link – quick to create, instantly available.'
 date: '2025-02-28'
 url: '/template/advent-calendar'
 category: 'events'

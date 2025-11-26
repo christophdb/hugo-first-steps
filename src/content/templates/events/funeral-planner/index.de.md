@@ -1,6 +1,6 @@
 ---
 title: 'Beerdigung planen'
-description: 'Behalten Sie Aufgaben, Kosten und Gäste einer Beerdigung klar im Blick. Planen, koordinieren und delegieren Sie To-dos zuverlässig für einen würdevollen Ablauf. Digitale Checklisten geben Orientierung und entlasten in schweren Zeiten.'
+description: 'Behalten Sie Aufgaben, Kosten und Gäste im Blick, delegieren Sie To-dos und sichern Sie mit digitalen Checklisten einen würdevollen Ablauf.'
 date: '2024-08-24'
 url: '/de/vorlage/beerdigung-planen'
 aliases:

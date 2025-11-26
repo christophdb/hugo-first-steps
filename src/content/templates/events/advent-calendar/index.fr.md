@@ -1,6 +1,6 @@
 ---
 title: "Calendrier de l'Avent"
-description: "Créez votre calendrier de l’avent digital, ajoutez vos surprises ou médias et partagez-le par lien. Modifiez le contenu librement, pour une anticipation festive partagée entre proches. Facile à créer et à diffuser – ambiance de Noël garantie !"
+description: "Créez votre calendrier de l'avent digital, ajoutez surprises et partagez par lien – rapide à créer, immédiatement disponible."
 date: '2025-02-28'
 url: '/fr/modele/advent-calendar'
 category: 'events'

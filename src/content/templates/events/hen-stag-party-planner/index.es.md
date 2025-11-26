@@ -1,6 +1,6 @@
 ---
 title: 'Despedida de soltero'
-description: 'Organice su despedida fácilmente: gestione invitados, actividades y presupuesto digitalmente. Reparta tareas y concentre toda la información para una organización ágil.'
+description: 'Planifique la despedida fácilmente: gestione invitados, programa y presupuesto, asigne tareas – todo centralizado para un evento perfecto.'
 date: '2024-09-06'
 url: '/es/plantilla/planificador-despedida-soltero'
 aliases:

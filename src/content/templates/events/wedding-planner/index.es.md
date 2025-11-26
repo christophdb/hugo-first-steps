@@ -1,6 +1,6 @@
 ---
 title: 'Planificador de bodas'
-description: 'Lleve el control de tareas, invitados y presupuesto de la boda digitalmente y sin estrés. Planifique, gestione y comparta todo de forma centralizada para una celebración perfecta.'
+description: 'Controle tareas, invitados y presupuesto de su boda digitalmente – planifique, gestione y comparta todo centralmente y sin estrés.'
 date: '2024-08-24'
 url: '/es/plantilla/planificador-bodas'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Festivalplaner'
-description: 'Koordinieren Sie Ihr Festival clever: Packliste, Line-up und Zeitplan zentral verwalten, Wünsche im Team abstimmen und gemeinsam perfekt vorbereitet starten – digital, interaktiv und jederzeit aktuell.'
+description: 'Planen Sie Ihr Festival zentral: Packliste, Line-up und Zeitplan verwalten, Wünsche im Team abstimmen – digital und immer aktuell.'
 date: '2024-08-24'
 url: '/de/vorlage/festivalplaner'
 aliases:

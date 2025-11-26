@@ -1,6 +1,6 @@
 ---
 title: 'Calendário do Advento'
-description: 'Monte seu calendário do advento digital com surpresas ou mídias próprias e compartilhe via link. Personalize tudo com facilidade e crie expectativa junto com amigos, família ou colegas. Fácil de criar, fácil de compartilhar – clima natalino garantido!'
+description: 'Crie seu calendário do advento digital, adicione surpresas e compartilhe via link – rápido de criar, disponível na hora.'
 date: '2025-02-28'
 url: '/pt/modelo/advent-calendar'
 category: 'events'
