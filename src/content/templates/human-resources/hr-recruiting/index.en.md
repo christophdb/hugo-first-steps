@@ -1,6 +1,6 @@
 ---
 title: 'HR Recruiting'
-description: ''
+description: 'Manage applications, interviews, and contacts centrally and digitally – for structured, transparent recruiting across your team.'
 date: '2024-08-24'
 url: '/template/hr-recruiting'
 category: 'human-resources'

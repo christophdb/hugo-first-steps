@@ -1,6 +1,6 @@
 ---
 title: 'Talleres'
-description: ''
+description: 'Planifique y gestione talleres digitalmente: organice participantes, agenda y feedback centralmente y analice eficientemente.'
 date: '2024-08-24'
 url: '/es/plantilla/planificador-talleres'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Recruitment Interviews'
-description: ''
+description: 'Structure interviews efficiently, document evaluations centrally, and keep track of all candidates at a glance.'
 date: '2024-08-24'
 url: '/template/recruitment-interviews'
 category: 'human-resources'

@@ -1,5 +1,5 @@
 ---
-title: 'Modelo de quadro Kanban'
+title: 'Quadro Kanban'
 description: "Otimize fluxos de trabalho, gerencie times em tempo real e aproveite automação flexível e análise."
 date: '2025-03-05'
 url: '/pt/modelo/quadro-kanban-gratis'

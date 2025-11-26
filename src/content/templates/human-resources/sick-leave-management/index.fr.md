@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des arrêts maladie'
-description: ''
+description: 'Saisissez arrêts maladie numériquement, suivez absences et réagissez rapidement aux manques de personnel dans votre équipe.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-arrets-maladie'
 aliases:

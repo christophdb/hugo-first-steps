@@ -1,6 +1,6 @@
 ---
 title: 'Entrevistas de emprego'
-description: ''
+description: 'Estruture entrevistas eficientemente, documente avaliações centralmente e mantenha todos os candidatos sob controle.'
 date: '2024-08-24'
 url: '/pt/modelo/entrevistas-emprego'
 aliases:

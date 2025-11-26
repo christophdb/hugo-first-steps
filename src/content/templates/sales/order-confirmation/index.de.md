@@ -1,5 +1,5 @@
 ---
-title: 'Auftragsbestätigung Vorlage'
+title: 'Auftragsbestätigung'
 description: 'Erstellen und verwalten Sie Auftragsbestätigungen digital, automatisieren Sie Abläufe und behalten Sie alles im Bestellprozess im Griff.'
 date: '2025-05-02'
 url: '/de/vorlage/auftragsbestaetigung-vorlage'

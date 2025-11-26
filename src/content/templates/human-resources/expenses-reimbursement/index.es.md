@@ -1,6 +1,6 @@
 ---
 title: 'Reembolso de gastos'
-description: ''
+description: 'Gestione gastos digitalmente: envíe recibos, controle costes y procese reembolsos sin papel – rápido y organizado.'
 date: '2024-08-24'
 url: '/es/plantilla/expenses-reimbursement'
 category: 'human-resources'

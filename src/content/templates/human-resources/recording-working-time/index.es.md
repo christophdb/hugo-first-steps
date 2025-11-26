@@ -1,6 +1,6 @@
 ---
 title: 'Registro del tiempo de trabajo'
-description: ''
+description: 'Registre horas de trabajo, vacaciones y baja por enfermedad centralmente, controle horas extra y genere estadísticas – conforme a UE.'
 date: '2024-08-24'
 url: '/es/plantilla/control-horario'
 aliases:

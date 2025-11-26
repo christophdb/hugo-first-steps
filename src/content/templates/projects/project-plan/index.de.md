@@ -1,5 +1,5 @@
 ---
-title: 'Projektplan Vorlage'
+title: 'Projektplan'
 description: 'Erfassen Sie Aufgaben im Gantt-Chart oder Kanban-Board, delegieren Sie Zuständigkeiten und stellen Sie Ihr Projektteam perfekt auf.'
 date: '2025-03-07'
 url: '/de/vorlage/projektplan-vorlage'

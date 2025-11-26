@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de las bajas por enfermedad'
-description: ''
+description: 'Registre bajas por enfermedad digitalmente, controle ausencias y reaccione rápidamente a déficits de personal en su equipo.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-bajas'
 aliases:

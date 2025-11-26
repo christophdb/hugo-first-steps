@@ -1,5 +1,5 @@
 ---
-title: 'Modèle de tableau Kanban'
+title: 'Tableau Kanban'
 description: "Optimisez flux de travail, gérez équipes en temps réel et bénéficiez automation flexible et analyse."
 date: '2025-03-05'
 url: '/fr/modele/tableau-kanban-gratuit'

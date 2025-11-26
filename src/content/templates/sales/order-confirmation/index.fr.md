@@ -1,5 +1,5 @@
 ---
-title: 'Modèle de confirmation de commande'
+title: 'Confirmation de commande'
 description: 'Centralisez la gestion des commandes, créez et envoyez des confirmations automatiquement, standardisez vos processus de vente.'
 date: '2025-05-02'
 url: '/fr/modele/confirmation-commande'

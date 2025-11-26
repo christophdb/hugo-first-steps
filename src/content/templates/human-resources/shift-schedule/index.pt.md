@@ -1,6 +1,6 @@
 ---
 title: 'Plano de turnos'
-description: ''
+description: 'Crie e compartilhe escalas digitalmente, atribua turnos com flexibilidade e mantenha suas necessidades de pessoal sob controle.'
 date: '2024-08-24'
 url: '/pt/modelo/escala-turnos'
 aliases:

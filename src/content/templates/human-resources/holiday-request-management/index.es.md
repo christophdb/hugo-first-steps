@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de las solicitudes de vacaciones'
-description: ''
+description: 'Gestione solicitudes de vacaciones digitalmente: capture peticiones por formulario, verifique solapamientos y automatice aprobaciones.'
 date: '2024-08-24'
 url: '/es/plantilla/gestion-solicitudes-vacaciones'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Ateliers'
-description: ''
+description: 'Planifiez et gérez ateliers en ligne : organisez participants, agenda et retours centralement et analysez efficacement.'
 date: '2024-08-24'
 url: '/fr/modele/planificateur-atelier'
 aliases:

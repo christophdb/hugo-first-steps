@@ -1,6 +1,6 @@
 ---
 title: 'Workshop Planner'
-description: ''
+description: 'Planen und verwalten Sie Workshops digital: Teilnehmer, Agenda und Feedback zentral organisieren und effizient auswerten.'
 date: '2024-08-24'
 url: '/de/vorlage/workshop-planer'
 aliases:

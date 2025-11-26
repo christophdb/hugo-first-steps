@@ -1,5 +1,5 @@
 ---
-title: 'Maßnahmenplan Vorlage'
+title: 'Maßnahmenplan'
 description: 'Behalten Sie Ziele und Prioritäten zentral im Blick, steuern Sie Verantwortungen effizient und sichern Sie strukturierte Umsetzung aller Maßnahmen.'
 date: '2024-08-24'
 url: '/de/vorlage/massnahmenplan-vorlage'

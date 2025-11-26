@@ -1,5 +1,5 @@
 ---
-title: 'Modelo de plano de projeto'
+title: 'Plano de projeto'
 description: 'Acompanhe projetos com flexibilidade: visualize tarefas em Gantt ou Kanban, distribua responsabilidades e controle todos os prazos.'
 date: '2025-03-07'
 url: '/pt/modelo/plano-projeto'

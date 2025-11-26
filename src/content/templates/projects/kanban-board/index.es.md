@@ -1,5 +1,5 @@
 ---
-title: 'Plantilla de tablero Kanban'
+title: 'Tablero Kanban'
 description: 'Optimice flujos de trabajo, gestione equipos en tiempo real y disfrute automatización flexible y análisis.'
 date: '2025-03-05'
 url: '/es/plantilla/tablero-kanban-gratis'

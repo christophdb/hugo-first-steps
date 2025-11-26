@@ -1,6 +1,6 @@
 ---
 title: 'Recording Working Time'
-description: ''
+description: 'Record working hours, leave, and sick days centrally, monitor overtime, and generate statistics – EU-compliant and paperless.'
 date: '2024-08-24'
 url: '/template/recording-working-time'
 category: 'human-resources'

@@ -1,6 +1,6 @@
 ---
 title: 'Plan de turnos'
-description: ''
+description: 'Cree y comparta turnos digitalmente, asigne personal con flexibilidad y mantenga siempre controladas las necesidades de personal.'
 date: '2024-08-24'
 url: '/es/plantilla/horario-turnos'
 aliases:

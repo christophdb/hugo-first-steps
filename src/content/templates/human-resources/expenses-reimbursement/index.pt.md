@@ -1,6 +1,6 @@
 ---
 title: 'Reembolso de despesas'
-description: ''
+description: 'Gerencie despesas digitalmente: envie recibos, acompanhe custos e processe reembolsos sem papel – rápido e organizado.'
 date: '2024-08-24'
 url: '/pt/modelo/expenses-reimbursement'
 category: 'human-resources'

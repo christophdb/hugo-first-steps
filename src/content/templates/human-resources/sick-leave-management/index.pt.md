@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de licenças por doença'
-description: ''
+description: 'Registre licenças médicas digitalmente, acompanhe ausências e reaja rapidamente a faltas de pessoal na sua equipe.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-atestados'
 aliases:

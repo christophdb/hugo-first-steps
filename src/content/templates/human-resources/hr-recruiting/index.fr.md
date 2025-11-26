@@ -1,6 +1,6 @@
 ---
 title: 'Recrutement de personnel'
-description: ''
+description: 'Gérez candidatures, entretiens et contacts centralement et numériquement – pour un recrutement structuré et transparent en équipe.'
 date: '2024-08-24'
 url: '/fr/modele/recrutement-rh'
 aliases:
