@@ -1,6 +1,6 @@
 ---
 title: 'Workshops'
-description: ''
+description: 'Planeje e gerencie workshops digitalmente: organize participantes, agenda e feedback centralmente e analise com eficiência.'
 date: '2024-08-24'
 url: '/pt/modelo/planejador-workshop'
 aliases:

@@ -1,5 +1,5 @@
 ---
-title: 'Modelo de confirmación de pedido'
+title: 'Confirmación de pedido'
 description: 'Cree, gestione y envíe confirmaciones de pedido fácilmente, estructure el proceso y evite errores en cada venta.'
 date: '2025-05-02'
 url: '/es/plantilla/confirmacion-pedido'

@@ -1,6 +1,6 @@
 ---
 title: 'Schichtplan'
-description: ''
+description: 'Erstellen und teilen Sie Schichtpläne digital, besetzen Sie Schichten flexibel und behalten Sie Ihren Personalbedarf stets im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/schichtplan'
 aliases:

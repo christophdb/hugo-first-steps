@@ -1,6 +1,6 @@
 ---
 title: 'Verwaltung von Krankenständen'
-description: ''
+description: 'Erfassen Sie Krankmeldungen digital, behalten Sie Abwesenheiten im Überblick und reagieren Sie schnell auf Engpässe im Team.'
 date: '2024-08-24'
 url: '/de/vorlage/krankenstand-verwaltung'
 aliases:

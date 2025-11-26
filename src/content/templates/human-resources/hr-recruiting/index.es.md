@@ -1,6 +1,6 @@
 ---
 title: 'Contratación de personal'
-description: ''
+description: 'Gestione solicitudes, entrevistas y contactos centralmente y digitalmente – para un reclutamiento estructurado y transparente en equipo.'
 date: '2024-08-24'
 url: '/es/plantilla/reclutamiento'
 aliases:

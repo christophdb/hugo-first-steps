@@ -1,5 +1,5 @@
 ---
-title: 'Junggesellenabschied planen'
+title: 'Junggesellenabschied'
 description: 'Junggesellenabschied einfach planen: Gäste, Programm und Budget verwalten, Aufgaben verteilen – alles zentral für ein gelungenes Event.'
 date: '2024-09-06'
 url: '/de/vorlage/junggesellenabschied-planen'

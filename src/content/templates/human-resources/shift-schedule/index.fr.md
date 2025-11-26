@@ -1,6 +1,6 @@
 ---
 title: "Plan d'équipes"
-description: ''
+description: 'Créez et partagez plannings numériquement, attribuez équipes flexiblement et gardez vos besoins en personnel sous contrôle.'
 date: '2024-08-24'
 url: '/fr/modele/planning-travail'
 aliases:

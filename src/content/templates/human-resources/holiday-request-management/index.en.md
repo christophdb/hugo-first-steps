@@ -1,6 +1,6 @@
 ---
 title: 'Holiday Request Management'
-description: ''
+description: 'Manage leave requests digitally: capture requests via form, check overlaps, and automate approvals – simple and transparent.'
 date: '2024-08-24'
 url: '/template/holiday-request-management'
 category: 'human-resources'

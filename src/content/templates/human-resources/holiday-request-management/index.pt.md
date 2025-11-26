@@ -1,6 +1,6 @@
 ---
 title: 'Gestão de pedidos de férias'
-description: ''
+description: 'Gerencie pedidos de férias digitalmente: capture solicitações por formulário, verifique sobreposições e automatize aprovações.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-ferias'
 aliases:

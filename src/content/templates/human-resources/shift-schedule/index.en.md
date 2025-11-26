@@ -1,6 +1,6 @@
 ---
 title: 'Shift schedule'
-description: ''
+description: 'Create and share shift schedules digitally, assign shifts flexibly, and always keep track of your staffing needs.'
 date: '2024-08-24'
 url: '/template/shift-schedule'
 category: 'human-resources'

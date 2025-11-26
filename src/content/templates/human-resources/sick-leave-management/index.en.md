@@ -1,6 +1,6 @@
 ---
 title: 'Sick Leave Management'
-description: ''
+description: 'Record sick leave digitally, keep track of absences, and respond quickly to staffing gaps within your team.'
 date: '2024-08-24'
 url: '/template/sick-leave-management'
 category: 'human-resources'

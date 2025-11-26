@@ -1,6 +1,6 @@
 ---
 title: 'Recording Working Time'
-description: ''
+description: 'Фиксируйте рабочие часы, отпуск и больничные централизованно, контролируйте переработки и создавайте статистику – соответствует требованиям ЕС.'
 date: '2024-08-24'
 url: '/ru/shablon/ucheta-rabochego-vremeni'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Expenses & Reimbursement'
-description: ''
+description: 'Manage expenses digitally: submit receipts, track costs, and process reimbursements paperlessly – fast and organized.'
 date: '2024-08-24'
 url: '/template/expenses-reimbursement'
 category: 'human-resources'

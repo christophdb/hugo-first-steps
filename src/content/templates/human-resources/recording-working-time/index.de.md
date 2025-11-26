@@ -1,6 +1,6 @@
 ---
 title: 'Arbeitszeiterfassung'
-description: ''
+description: 'Erfassen Sie Arbeitszeiten, Urlaub und Krankheit zentral, überwachen Sie Überstunden und erstellen Sie Statistiken – EU-konform und papierlos.'
 date: '2024-08-24'
 url: '/de/vorlage/arbeitszeiterfassung'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Saisie du temps de travail'
-description: ''
+description: 'Saisissez heures de travail, congés et arrêt-maladie centralement, supervisez heures supplémentaires et générez statistiques – conforme UE.'
 date: '2024-08-24'
 url: '/fr/modele/suivi-temps-travail'
 aliases:

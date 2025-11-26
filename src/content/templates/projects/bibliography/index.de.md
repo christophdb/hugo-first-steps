@@ -1,5 +1,5 @@
 ---
-title: 'Literaturverzeichnis erstellen'
+title: 'Literaturverzeichnis'
 description: 'Erfassen Sie Quellen digital, kategorisieren Sie diese und exportieren Sie sie im gewünschten Zitationsstil – Fristen und Projekte immer im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/literaturverzeichnis'

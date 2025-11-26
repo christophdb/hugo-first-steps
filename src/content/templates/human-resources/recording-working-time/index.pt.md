@@ -1,6 +1,6 @@
 ---
 title: 'Gravação do tempo de trabalho'
-description: ''
+description: 'Registre horas de trabalho, férias e licença médica centralmente, monitore horas extras e gere estatísticas – em conformidade com UE.'
 date: '2024-08-24'
 url: '/pt/modelo/controle-horas-trabalho'
 aliases:

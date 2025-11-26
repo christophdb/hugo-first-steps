@@ -1,6 +1,6 @@
 ---
 title: "Entretiens d'embauche"
-description: ''
+description: 'Structurez entretiens efficacement, documentez évaluations centralement et gardez tous les candidats en vue.'
 date: '2024-08-24'
 url: '/fr/modele/entretiens-embauche'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Remboursement des dépenses'
-description: ''
+description: 'Gérez dépenses numériquement : soumettez reçus, suivez coûts et traitez remboursements sans papier – rapide et organisé.'
 date: '2024-08-24'
 url: '/fr/modele/expenses-reimbursement'
 category: 'human-resources'

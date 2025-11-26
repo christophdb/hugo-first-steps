@@ -1,5 +1,5 @@
 ---
-title: 'Anwesenheitsliste Vorlage'
+title: 'Anwesenheitsliste'
 description: 'Erfassen Sie Anwesenheiten digital und fehlerfrei, speichern Sie diese automatisch und werten Sie flexibel aus – professionell und papierlos.'
 date: '2025-02-28'
 url: '/de/vorlage/anwesenheitsliste-vorlage'

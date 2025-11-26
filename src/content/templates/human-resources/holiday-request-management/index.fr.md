@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des demandes de congé'
-description: ''
+description: 'Gérez demandes de congés numériquement : saisissez via formulaire, vérifiez chevauchements et automatisez les approbations.'
 date: '2024-08-24'
 url: '/fr/modele/gestion-conges'
 aliases:

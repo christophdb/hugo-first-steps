@@ -1,6 +1,6 @@
 ---
 title: 'Einstellungsgespräche'
-description: ''
+description: 'Strukturieren Sie Vorstellungsgespräche effizient, dokumentieren Sie Bewertungen zentral und behalten Sie alle Kandidaten im Überblick.'
 date: '2024-08-24'
 url: '/de/vorlage/einstellungsgespraeche'
 aliases:

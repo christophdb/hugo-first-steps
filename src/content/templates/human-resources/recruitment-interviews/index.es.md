@@ -1,6 +1,6 @@
 ---
 title: 'Entrevistas de trabajo'
-description: ''
+description: 'Estructure entrevistas eficientemente, documente evaluaciones centralmente y mantenga todos los candidatos bajo control.'
 date: '2024-08-24'
 url: '/es/plantilla/entrevistas-seleccion'
 aliases:

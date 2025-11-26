@@ -1,6 +1,6 @@
 ---
 title: 'Personalrekrutierung'
-description: ''
+description: 'Verwalten Sie Bewerbungen, Interviews und Kontakte zentral und digital – für ein strukturiertes, transparentes Recruiting im Team.'
 date: '2024-08-24'
 url: '/de/vorlage/hr-recruiting'
 category: 'human-resources'
