@@ -1,6 +1,6 @@
 ---
 title: 'Plantilla de cuaderno diario'
-description: ''
+description: 'Registre trayectos de forma digital y conforme a la normativa, gestione varios vehículos centralmente y controle kilómetros privados y laborales.'
 date: '2025-02-23'
 url: '/es/plantilla/libro-de-rutas'
 aliases:

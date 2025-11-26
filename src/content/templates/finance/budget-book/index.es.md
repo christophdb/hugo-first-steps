@@ -1,6 +1,6 @@
 ---
 title: 'Libro de presupuesto'
-description: ''
+description: 'Controle ingresos y gastos de forma centralizada, registre tickets mediante formulario web y detecte potencial de ahorro con estadísticas claras.'
 date: '2024-08-24'
 url: '/es/plantilla/presupuesto'
 aliases:

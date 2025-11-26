@@ -1,6 +1,6 @@
 ---
 title: 'Suivi du cours des actions'
-description: ''
+description: 'Surveillez automatiquement les cours des actions, enregistrez les données historiques et visualisez les tendances de façon centralisée grâce à des API externes.'
 date: '2024-08-24'
 url: '/fr/modele/suivi-cours-bourse'
 aliases:

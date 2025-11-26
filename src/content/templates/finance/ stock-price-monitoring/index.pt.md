@@ -1,6 +1,6 @@
 ---
 title: 'Controlo dos preços das acções'
-description: ''
+description: 'Monitore cotações de ações automaticamente, armazene dados históricos de preços e visualize tendências de forma centralizada com APIs externas.'
 date: '2024-08-24'
 url: '/pt/modelo/monitoracao-acoes'
 aliases:

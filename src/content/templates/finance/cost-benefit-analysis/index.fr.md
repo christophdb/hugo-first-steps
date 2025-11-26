@@ -1,6 +1,6 @@
 ---
 title: 'Analyse coûts-bénéfices'
-description: ''
+description: 'Évaluez vos investissements en toute confiance en comparant coûts et bénéfices de manière structurée et en calculant automatiquement le gain financier.'
 date: '2024-08-24'
 url: '/fr/modele/analyse-couts-benefices'
 aliases:

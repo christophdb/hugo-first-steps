@@ -1,6 +1,6 @@
 ---
 title: 'Stock Price Monitoring'
-description: ''
+description: 'Monitor stock prices automatically, store historical data, and visualize trends centrally – powered by external price APIs.'
 date: '2024-08-24'
 url: '/template/stock-price-monitoring'
 category: 'finance'

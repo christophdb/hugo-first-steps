@@ -1,6 +1,6 @@
 ---
 title: 'Cost Benefit Analysis'
-description: ''
+description: 'Evaluate investments confidently by structuring costs and benefits and calculating the financial gain automatically.'
 date: '2024-08-24'
 url: '/template/cost-benefit-analysis'
 category: 'finance'

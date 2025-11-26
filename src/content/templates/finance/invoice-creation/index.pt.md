@@ -1,6 +1,6 @@
 ---
 title: 'Redigir fatura'
-description: ''
+description: 'Crie e envie faturas de forma automática e profissional, centralize dados de clientes e pedidos e reduza erros e trabalho administrativo.'
 date: '2025-03-24'
 url: '/pt/modelo/emissao-fatura'
 aliases:

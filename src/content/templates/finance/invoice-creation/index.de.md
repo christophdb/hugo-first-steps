@@ -1,6 +1,6 @@
 ---
 title: 'Rechnung schreiben'
-description: ''
+description: 'Rechnungen professionell automatisiert erstellen und versenden, Kunden- und Bestelldaten zentral verknüpfen und Fehler wie Verwaltungsaufwand senken.'
 date: '2025-03-24'
 url: '/de/vorlage/rechnung-schreiben'
 aliases:

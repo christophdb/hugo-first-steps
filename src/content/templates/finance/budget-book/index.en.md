@@ -1,6 +1,6 @@
 ---
 title: 'Budget Book'
-description: ''
+description: 'Track income and expenses centrally, capture receipts via web form, and uncover saving potential with clear statistics.'
 date: '2024-08-24'
 url: '/template/budget-book'
 category: 'finance'

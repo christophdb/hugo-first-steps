@@ -1,6 +1,6 @@
 ---
 title: 'Comparaison des prix'
-description: ''
+description: 'Comparez les prix des produits en un coup d’œil, mettez automatiquement en avant l’offre la moins chère et centralisez toutes les données fournisseurs.'
 date: '2024-08-24'
 url: '/fr/modele/comparateur-prix'
 aliases:

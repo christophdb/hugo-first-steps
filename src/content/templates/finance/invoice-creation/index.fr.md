@@ -1,6 +1,6 @@
 ---
 title: 'Écrire une facture'
-description: ''
+description: 'Créez et envoyez vos factures automatiquement et professionnellement, centralisez données clients et commandes et réduisez erreurs et tâches administratives.'
 date: '2025-03-24'
 url: '/fr/modele/creation-facture'
 aliases:

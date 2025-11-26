@@ -1,8 +1,10 @@
 ---
 title: 'Spendenübersicht'
-description: ''
+description: 'Spenden, Projekte und Ziele zentral verwalten, Spendenbescheinigungen per Klick erstellen und den finanziellen Fortschritt jederzeit im Blick behalten.'
 date: '2024-08-24'
-url: '/de/vorlage/donation-overview'
+url: '/de/vorlage/spendenubersicht'
+aliases:
+    - '/de/vorlage/donation-overview'
 category: 'finance'
 functions:
 seo:
