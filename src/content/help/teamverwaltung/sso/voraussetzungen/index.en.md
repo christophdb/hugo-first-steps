@@ -38,7 +38,7 @@ The certificate provided by the IdP must be valid and trustworthy to ensure the 
 {{< /faq >}}
 
 {{< faq "Access to Metadata" >}}
-The IdP should provide metadata information (metadata URL or XML) that can be stored in SeaTable.
+The IdP should provide metadata information (metadata URL) that can be stored in SeaTable.
 {{< /faq >}}
 
 {{< faq "Domain Ownership Verification" >}}

@@ -32,3 +32,21 @@ Für die erfolgreiche Nutzung von Single Sign-On in SeaTable Cloud müssen vom I
 
 Andere Attribute sind optional und werden von SeaTable ignoriert.
 {{< /faq >}}
+
+{{< faq "Was passiert, wenn ein Benutzer bereits Mitglied in einem anderen Team ist?" >}}
+
+Ein Benutzer kann immer nur einem Team angehören. Meldet sich ein Benutzer per Single Sign-On (SSO) an und ist bereits Mitglied eines anderen Teams, wird eine entsprechende Fehlermeldung angezeigt. Der Login ist in diesem Fall nicht möglich.
+
+{{< /faq >}}
+
+{{< faq "Was passiert, wenn mein Team bereits voll ist?" >}}
+
+Meldet sich ein bisher unbekannter Benutzer per Single Sign-On bei Ihrem Team an, wird er automatisch in Ihrem Team angelegt – sofern noch freie Plätze verfügbar sind. Ist die maximale Teamgröße bereits erreicht, kann sich kein weiterer Benutzer per SSO anmelden. Der Login schlägt dann fehl.
+
+{{< /faq >}}
+
+{{< faq "Funktioniert der Login per Single Sign-On, wenn ein Benutzer deaktiviert wurde?" >}}
+
+Wurde ein Benutzer in der Teamverwaltung deaktiviert, wird er sofort aus SeaTable Cloud abgemeldet und kann sich auch nicht mehr per Single Sign-On anmelden.
+
+{{< /faq >}}

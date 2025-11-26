@@ -36,7 +36,7 @@ SSO enhances security by centralizing login through the IdP. Modern protection m
 
 ### Simplified User Management
 
-SSO centralizes user management, making it much easier. Team administrators manage user accounts and permissions conveniently via the IdP. New employees can be added easily, and onboarding and offboarding run more efficiently. The automatic merging of user accounts during the first SSO login also prevents duplicates and saves effort.
+SSO centralizes user management, making it much easier. Team administrators manage user accounts and access permissions conveniently via the IdP. New employees can be added easily, and onboarding and offboarding run more efficiently. The automatic merging of user accounts during the first SSO login also prevents duplicates and saves effort.
 
 ## Who Can Use SSO?
 
