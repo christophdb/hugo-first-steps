@@ -1,6 +1,6 @@
 ---
 title: 'Projektportfolio'
-description: 'Steuern und analysieren Sie alle Projekte zentral. Prüfen Sie Prioritäten und Ressourcen und erleichtern Sie das Projektmanagement im Unternehmen.'
+description: 'Steuern und analysieren Sie alle Projekte zentral, prüfen Sie Prioritäten und Ressourcen und erleichtern Sie das Projektmanagement.'
 url: '/de/vorlage/projektportfolio'
 aliases:
     - '/de/vorlage/project-portfolio'

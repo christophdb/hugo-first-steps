@@ -1,6 +1,6 @@
 ---
 title: 'Literaturverzeichnis erstellen'
-description: 'Erstellen und verwalten Sie Ihr Literaturverzeichnis digital: Quellen erfassen, kategorisieren und automatisch im gewünschten Zitationsstil ausgeben lassen. Behalten Sie Fristen, Projekte und Dozentenübersicht jederzeit im Griff – übersichtlich und stressfrei.'
+description: 'Erfassen Sie Quellen digital, kategorisieren Sie diese und exportieren Sie sie im gewünschten Zitationsstil – Fristen und Projekte immer im Blick.'
 date: '2024-08-24'
 url: '/de/vorlage/literaturverzeichnis'
 aliases:

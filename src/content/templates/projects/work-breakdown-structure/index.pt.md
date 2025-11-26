@@ -1,6 +1,6 @@
 ---
 title: 'Estrutura analítica do trabalho'
-description: 'Estruture projetos, distribua e organize tarefas e visualize avanços com total clareza e praticidade para toda a equipe.'
+description: 'Estruture projetos, distribua tarefas, delegue responsabilidades e visualize progresso de forma clara.'
 date: '2024-08-17'
 url: '/pt/modelo/estrutura-analitica-projeto'
 aliases:

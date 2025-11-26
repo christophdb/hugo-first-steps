@@ -1,6 +1,6 @@
 ---
 title: 'Plan de acción'
-description: 'Genere y controle medidas con claridad: asigne responsables y supervise el avance en un único sitio. Objetivos, prioridades y plazos claros garantizan una ejecución eficaz.'
+description: 'Mantenga objetivos y prioridades a la vista, gestione responsabilidades eficazmente y asegure la ejecución estructurada de todas las medidas.'
 date: '2024-08-24'
 url: '/es/plantilla/plan-de-accion'
 aliases:

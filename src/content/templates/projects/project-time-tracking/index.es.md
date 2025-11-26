@@ -1,6 +1,6 @@
 ---
 title: 'Registro del tiempo del proyecto'
-description: 'Registre tiempos de proyectos al instante, gestione clientes, tareas y facturas, y controle la carga de trabajo de todo su equipo.'
+description: 'Registre tiempos, cree facturas y mantenga control de carga, plazos y presupuestos centralmente.'
 date: '2025-03-12'
 url: '/es/plantilla/registro-tiempos-proyecto'
 aliases:

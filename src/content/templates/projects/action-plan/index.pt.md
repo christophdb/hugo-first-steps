@@ -1,6 +1,6 @@
 ---
 title: 'Plano de acção'
-description: 'Crie e acompanhe ações com clareza: defina responsáveis e monitore o progresso centralmente. Metas, prioridades e prazos claros resultam em processos eficazes.'
+description: 'Mantenha objetivos e prioridades visíveis, gerencie responsabilidades eficientemente e garanta implementação estruturada de todas as medidas.'
 date: '2024-08-24'
 url: '/pt/modelo/plano-de-acao'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Project portfolio'
-description: 'Organize and analyze all projects in one dashboard, prioritize resources and support better project management for your entire organization.'
+description: 'Control and analyze all projects centrally, review priorities and resources, and simplify project management.'
 url: '/template/project-portfolio'
 category: 'projects'
 functions:

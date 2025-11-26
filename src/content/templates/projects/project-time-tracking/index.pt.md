@@ -1,6 +1,6 @@
 ---
 title: 'Registo do tempo do projeto'
-description: 'Registre tempos e despesas, crie faturas e analise a produtividade da equipe de qualquer lugar, com segurança e total organização.'
+description: 'Registre tempos, gere faturas e controle capacidade, prazos e orçamentos centralmente.'
 date: '2025-03-12'
 url: '/pt/modelo/controle-tempo-projeto'
 aliases:

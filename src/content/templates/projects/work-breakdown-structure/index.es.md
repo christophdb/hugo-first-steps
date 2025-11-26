@@ -1,6 +1,6 @@
 ---
 title: 'Estructura del plan de trabajo'
-description: 'Organice proyectos en fases y tareas, asigne responsables y vea el avance detallado de su equipo siempre que lo necesite.'
+description: 'Estructure proyectos, distribuya tareas, delegue responsabilidades y visualice progreso claro y transparente.'
 date: '2024-08-17'
 url: '/es/plantilla/estructura-trabajo'
 aliases:

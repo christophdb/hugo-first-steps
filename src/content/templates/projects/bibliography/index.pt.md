@@ -1,6 +1,6 @@
 ---
 title: 'Bibliografia'
-description: 'Crie e gerencie sua bibliografia digitalmente: registre, categorize e exporte fontes no formato desejado. Acompanhe prazos, projetos e orientadores de forma organizada e sem estresse.'
+description: 'Registre fontes digitalmente, categorize-as e exporte no estilo de citação preferido – controle prazos e projetos.'
 date: '2024-08-24'
 url: '/pt/modelo/bibliografia'
 aliases:

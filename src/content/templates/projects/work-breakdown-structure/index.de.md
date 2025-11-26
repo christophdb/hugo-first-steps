@@ -1,6 +1,6 @@
 ---
 title: 'Projektstrukturplan'
-description: 'Strukturieren Sie Ihr Projekt, teilen Sie Aufgaben auf, delegieren Sie Verantwortlichkeiten und visualisieren Sie Fortschritte klar und nachvollziehbar.'
+description: 'Strukturieren Sie Projekte, verteilen Sie Aufgaben, delegieren Sie Verantwortlichkeiten und visualisieren Sie Fortschritte klar.'
 date: '2024-08-17'
 url: '/de/vorlage/projektstrukturplan'
 aliases:

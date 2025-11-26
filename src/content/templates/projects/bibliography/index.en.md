@@ -1,6 +1,6 @@
 ---
 title: 'Bibliography'
-description: 'Create and manage your bibliography digitally: record, categorize, and export sources in your preferred citation style. Track deadlines, projects, and supervisors easily – organized and stress-free.'
+description: 'Record sources digitally, categorize them, and export in your preferred citation style – manage deadlines and projects easily.'
 date: '2024-08-24'
 url: '/template/bibliography'
 category: 'projects'
