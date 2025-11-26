@@ -1,6 +1,6 @@
 ---
 title: 'Comentarios sobre el desarrollo de productos'
-description: ''
+description: 'Centraliza el feedback de clientes, analízalo por funcionalidades y define mejoras de producto y prioridades con claridad.'
 date: '2024-08-24'
 url: '/es/plantilla/feedback-desarrollo-producto'
 aliases:

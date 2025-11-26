@@ -1,6 +1,6 @@
 ---
 title: 'Product development feedback'
-description: ''
+description: 'Capture customer feedback in one place, analyze it by feature and derive targeted product improvements and priorities.'
 date: '2024-08-24'
 url: '/template/product-development-feedback'
 category: 'product-design'

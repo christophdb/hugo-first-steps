@@ -1,6 +1,6 @@
 ---
 title: 'Product Library'
-description: ''
+description: 'Keep product lines, specs, suppliers and sales in one place and structure your product portfolio clearly.'
 date: '2024-08-24'
 url: '/template/product-library'
 category: 'product-design'

@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de productos digitales'
-description: ''
+description: 'Reúne de forma eficiente toda la información de productos, proyectos y equipos, estructura flujos de trabajo y gestiona todo en un solo sistema.'
 date: '2024-08-24'
 url: '/es/plantilla/digital-product-management'
 aliases:

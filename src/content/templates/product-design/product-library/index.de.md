@@ -1,6 +1,6 @@
 ---
 title: 'Produktbibliothek'
-description: ''
+description: 'Behalten Sie Produktreihen, Spezifikationen, Lieferanten und Verkäufe zentral im Blick und strukturieren Sie Ihr Produktportfolio klar.'
 date: '2024-08-24'
 url: '/de/vorlage/product-library'
 category: 'product-design'

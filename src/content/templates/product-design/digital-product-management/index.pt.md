@@ -1,6 +1,6 @@
 ---
 title: 'Gestão digital de produtos'
-description: ''
+description: 'Reúna com eficiência informações de produto, projetos e equipes, estruture fluxos de trabalho com clareza e gerencie tudo em um só lugar.'
 date: '2024-08-24'
 url: '/pt/modelo/gestao-produtos-digital'
 aliases:

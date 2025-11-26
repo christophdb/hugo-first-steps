@@ -1,6 +1,6 @@
 ---
 title: 'Biblioteca de productos'
-description: ''
+description: 'Centraliza líneas de productos, especificaciones, proveedores y ventas y estructura tu portafolio de forma clara.'
 date: '2024-08-24'
 url: '/es/plantilla/biblioteca-productos'
 aliases:
