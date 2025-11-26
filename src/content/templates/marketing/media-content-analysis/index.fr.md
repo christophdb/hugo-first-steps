@@ -1,6 +1,6 @@
 ---
 title: 'Revue de presse / analyse de contenu'
-description: ''
+description: 'Surveillez couverture médiatique, analysez mentions centralement et évaluez votre image de marque professionnellement – pour reporting ciblé.'
 date: '2024-08-24'
 url: '/fr/modele/analyse-medias'
 aliases:

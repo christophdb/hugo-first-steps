@@ -1,6 +1,6 @@
 ---
 title: 'Revista de prensa / análisis de contenidos'
-description: ''
+description: 'Monitoree cobertura mediática, analice menciones centralmente y evalúe su imagen de marca profesionalmente – para reportes dirigidos.'
 date: '2024-08-24'
 url: '/es/plantilla/analyse-medias'
 aliases:

@@ -1,12 +1,14 @@
 ---
 title: 'Analyse de la concurrence'
-description: ''
-url: '/fr/modele/competitor-analysis'
+description: 'Comparez et analysez vos concurrents centralement, identifiez des niches et prenez des décisions stratégiques basées sur les données.'
+url: '/fr/modele/analyse-concurrence'
+aliases:
+    - '/fr/modele/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Analyse concurrentielle: détectez les opportunités'
+    description: 'Comparez vos concurrents, trouvez des niches et prenez des décisions stratégiques avec notre template d’analyse concurrentielle.'
 template: 'c08760ae51e94e9e9632'
 ---
 

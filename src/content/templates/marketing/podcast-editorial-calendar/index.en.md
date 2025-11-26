@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Editorial Calendar'
-description: ''
+description: 'Manage podcast episodes, guests, and advertising centrally, plan releases, and optimize your production – for professional podcast workflows.'
 date: '2024-08-16'
 url: '/template/podcast-editorial-calendar'
 category: 'marketing'

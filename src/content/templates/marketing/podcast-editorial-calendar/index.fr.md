@@ -1,6 +1,6 @@
 ---
 title: 'Calendrier éditorial du podcast'
-description: ''
+description: 'Gérez épisodes, invités et publicité centralement, planifiez publications et optimisez production – pour workflows podcasts professionnels.'
 date: '2024-08-16'
 url: '/fr/modele/calendrier-podcast'
 aliases:

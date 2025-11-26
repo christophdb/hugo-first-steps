@@ -1,6 +1,6 @@
 ---
 title: 'Planificación de la campaña'
-description: ''
+description: 'Planifique campañas centralmente, organice contenido y plazos, controle tareas del equipo – para flujos de trabajo sin interrupciones.'
 date: '2024-08-24'
 url: '/es/plantilla/calendario-contenidos'
 aliases:

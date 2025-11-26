@@ -1,6 +1,6 @@
 ---
 title: 'Plan éditorial'
-description: ''
+description: 'Gérez contenu, délais et tâches centralement, favorisez collaboration en équipe et contrôlez votre workflow content clairement.'
 date: '2025-02-17'
 url: '/fr/modele/plan-editorial'
 aliases:

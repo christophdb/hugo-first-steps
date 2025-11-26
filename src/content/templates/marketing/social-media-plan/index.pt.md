@@ -1,13 +1,15 @@
 ---
 title: 'Plano para as redes sociais'
-description: ''
+description: 'Planeje posts de redes sociais centralmente para todos os canais, coordene tarefas de equipe e analise seu sucesso – transparente e eficiente.'
 date: '2025-02-17'
-url: '/pt/modelo/social-media-plan'
+url: '/pt/modelo/plano-redes-sociais'
+aliases:
+    - '/pt/modelo/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: 'Social Media Plan: Modelo para Organizar Conteúdo'
-    description: 'Planeje, gerencie e acompanhe publicações em todas as redes sociais, com dashboard central e trabalho em equipe.'
+    title: 'Planejador de redes sociais: organize e publique'
+    description: 'Planeje posts para todas as redes, organize seu time e acompanhe resultados com o template de social media do SeaTable.'
 template: 'e386be96230744a18802'
 weight: 1
 ---

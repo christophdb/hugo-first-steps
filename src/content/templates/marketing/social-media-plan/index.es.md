@@ -1,13 +1,15 @@
 ---
 title: 'Plan de redes sociales'
-description: ''
+description: 'Planifique posts en redes sociales centralmente para todos los canales, coordine tareas de equipo y analice su éxito – trasparente y eficiente.'
 date: '2025-02-17'
-url: '/es/plantilla/social-media-plan'
+url: '/es/plantilla/plan-redes-sociales'
+aliases:
+    - '/es/plantilla/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: 'Planificador de Redes Sociales: Plantilla Centralizada'
-    description: 'Organiza publicaciones y campañas en todas tus redes con un calendario visual y gestión colaborativa en SeaTable.'
+    title: 'Calendario social media: planifica y gestiona posts'
+    description: 'Planifica posts para todas las redes, coordina tu equipo y mide resultados con el template de SeaTable para social media.'
 template: 'e386be96230744a18802'
 weight: 1
 ---

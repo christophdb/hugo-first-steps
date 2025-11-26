@@ -1,6 +1,6 @@
 ---
 title: 'Storyboard'
-description: ''
+description: 'Planen Sie Videos und Imagefilme digital: Szenen, Rollen, Drehbuch und Requisiten zentral organisieren – für strukturierte Videoproduktionen.'
 date: '2024-08-24'
 url: '/de/vorlage/storyboard'
 category: 'marketing'

@@ -1,6 +1,6 @@
 ---
 title: 'Plan editorial'
-description: ''
+description: 'Gestione contenido, plazos y tareas centralmente, fomente el trabajo en equipo y controle su flujo de contenido transparente.'
 date: '2025-02-17'
 url: '/es/plantilla/plan-editorial'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: 'Kampagnenplanung'
-description: ''
+description: 'Planen Sie Kampagnen zentral, organisieren Sie Content und Deadlines, behalten Sie Teamaufgaben im Blick – für reibungslose Workflows.'
 date: '2024-08-24'
 url: '/de/vorlage/content-kalender'
 aliases:

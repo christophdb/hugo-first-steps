@@ -1,13 +1,15 @@
 ---
 title: 'Commentaires des clients'
-description: ''
+description: 'Collectez retours clients numériquement, analysez opinions centralement et dérivez améliorations systématiquement pour vos produits.'
 date: '2024-08-24'
-url: '/fr/modele/customer-feedback'
+url: '/fr/modele/retour-clients'
+aliases:
+    - '/fr/modele/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: 'Collecter et exploiter le feedback client'
-    description: 'Collectez et exploitez les avis clients grâce aux formulaires et tableaux SeaTable, pour améliorer votre offre.'
+    title: 'Collecte et analyse efficace des retours clients'
+    description: 'Centralisez et analysez les retours clients : formulaires web interactifs, suivi et optimisation continue de vos produits.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

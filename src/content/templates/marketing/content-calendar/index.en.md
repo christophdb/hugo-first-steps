@@ -1,6 +1,6 @@
 ---
 title: 'Content Calendar'
-description: ''
+description: 'Plan campaigns centrally, organize content and deadlines, track team tasks – for seamless workflows and timely delivery.'
 date: '2024-08-24'
 url: '/template/content-calendar'
 category: 'marketing'

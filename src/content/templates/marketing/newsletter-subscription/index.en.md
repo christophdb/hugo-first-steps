@@ -1,6 +1,6 @@
 ---
 title: 'Newsletter Subscription'
-description: ''
+description: 'Grow newsletter contacts via web form, capture interest profiles GDPR-compliant, and build your subscriber list strategically.'
 date: '2024-08-17'
 url: '/template/newsletter-subscription'
 category: 'marketing'

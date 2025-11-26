@@ -1,6 +1,6 @@
 ---
 title: 'Storyboard'
-description: ''
+description: 'Planifiez vidéos et films institutionnels numériquement : organisez scènes, rôles, scripts et accessoires centralement – pour production structurée.'
 date: '2024-08-24'
 url: '/fr/modele/scenario-visuel'
 aliases:

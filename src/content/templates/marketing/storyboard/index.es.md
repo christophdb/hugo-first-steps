@@ -1,6 +1,6 @@
 ---
 title: 'Guión gráfico'
-description: ''
+description: 'Planifique videos e imagefilms digitalmente: organice escenas, papeles, guiones y accesorios centralmente – para producción de video estructurada.'
 date: '2024-08-24'
 url: '/es/plantilla/guion-grafico'
 aliases:

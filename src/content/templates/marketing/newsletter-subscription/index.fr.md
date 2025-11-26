@@ -1,6 +1,6 @@
 ---
 title: 'Inscription à la newsletter'
-description: ''
+description: "Gagnez contacts newsletter via formulaire web, capturez profils d'intérêt conformes RGPD et construisez votre liste d'abonnés."
 date: '2024-08-17'
 url: '/fr/modele/inscription-newsletter'
 aliases:

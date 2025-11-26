@@ -1,13 +1,15 @@
 ---
 title: 'Kundenfeedback'
-description: ''
+description: 'Sammeln Sie Kundenfeedback digital, analysieren Sie Meinungen zentral und leiten Sie Verbesserungen systematisch ab – für Ihre Produkte.'
 date: '2024-08-24'
-url: '/de/vorlage/customer-feedback'
+url: '/de/vorlage/kundenfeedback'
+aliases:
+    - '/de/vorlage/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: 'Kundenfeedback effizient sammeln & auswerten'
-    description: 'Sammeln und analysieren Sie Kundenfeedback einfach mit Vorlagen, Webformularen und Statistiken von SeaTable.'
+    title: 'Kundenfeedback digital sammeln & effizient auswerten'
+    description: 'Sammeln und analysieren Sie Feedback zentral – einfach per Formular, individuelle Auswertung und clevere Optimierung für Ihr Produkt!'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

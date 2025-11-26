@@ -1,6 +1,6 @@
 ---
 title: 'Content Marketing Strategie'
-description: ''
+description: 'Entwickeln Sie Ihre Content-Strategie zentral, planen Sie Inhalte, verwalten Sie SEO und Personas – für stringente, durchdachte Kampagnen.'
 date: '2024-08-16'
 url: '/de/vorlage/content-marketing-strategie'
 aliases:

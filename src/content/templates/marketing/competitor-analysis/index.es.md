@@ -1,12 +1,14 @@
 ---
 title: 'Análisis de la competencia'
-description: ''
-url: '/es/plantilla/competitor-analysis'
+description: 'Compare y analice competidores centralmente, identifique nichos de mercado y tome decisiones estratégicas basadas en datos.'
+url: '/es/plantilla/analisis-competencia'
+aliases:
+    - '/es/plantilla/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Análisis de la competencia: oportunidades de mercado'
+    description: 'Analiza competidores, identifica nichos y decide estratégicamente con nuestra plantilla de análisis competitivo interactiva.'
 template: 'c08760ae51e94e9e9632'
 ---
 

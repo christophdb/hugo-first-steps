@@ -1,6 +1,6 @@
 ---
 title: 'Estrategia de marketing de contenidos'
-description: ''
+description: 'Desarrolle su estrategia de contenido centralmente, planifique contenido, gestione SEO y personas – para campañas consistentes y reflexionadas.'
 date: '2024-08-16'
 url: '/es/plantilla/estrategia-marketing-contenidos'
 aliases:

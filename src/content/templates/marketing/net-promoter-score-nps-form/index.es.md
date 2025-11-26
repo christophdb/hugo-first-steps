@@ -1,6 +1,6 @@
 ---
 title: 'Cuestionario NPS'
-description: 'Con esta plantilla, puede registrar y analizar la opinión de los clientes de forma centralizada a través de una encuesta NPS, visualizar los resultados en tiempo real e identificar el potencial de optimización inmediatamente.'
+description: 'Capture feedback NPS digitalmente, visualice resultados en tiempo real e identifique mejoras sistemáticamente para mejor satisfacción del cliente.'
 date: '2024-08-24'
 url: '/es/plantilla/nps-representante'
 aliases:

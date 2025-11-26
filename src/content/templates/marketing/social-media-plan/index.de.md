@@ -1,13 +1,13 @@
 ---
 title: 'Social-Media-Plan'
-description: ''
+description: 'Planen Sie Social-Media-Posts zentral für alle Kanäle, koordinieren Sie Teamaufgaben und analysieren Sie Ihre Erfolge – im Überblick und effizient.'
 date: '2025-02-17'
 url: '/de/vorlage/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: 'Social-Media-Plan Vorlage: Beiträge effizient planen'
-    description: 'Social-Media-Posts für alle Kanäle zentral planen, verwalten und auswerten. Übersichtliche Teamarbeit mit der digitalen SeaTable-Vorlage.'
+    title: 'Social-Media-Plan: Posts zentral planen & verwalten'
+    description: 'Planen Sie Ihre Posts zentral für alle Kanäle, organisieren Sie Teamarbeit und analysieren Sie Social-Media-Erfolge einfach.'
 template: 'e386be96230744a18802'
 weight: 1
 ---

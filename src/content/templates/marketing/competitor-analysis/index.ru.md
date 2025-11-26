@@ -1,14 +1,14 @@
 ---
 title: 'Анализ конкурентов'
-description: ''
+description: 'Сравнивайте и анализируйте конкурентов централизовано, определяйте рыночные ниши и принимайте стратегические решения на основе данных.'
 url: '/ru/shablon/analiza-konkurentov'
 aliases:
     - '/ru/шаблон/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Анализ конкурентов: наблюдайте рынок и ниши'
+    description: 'Анализируйте конкурентов, находите рыночные ниши, принимайте стратегические решения с нашим шаблоном анализа рынка.'
 template: 'c08760ae51e94e9e9632'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Pressespiegel / Inhaltsanalyse'
-description: ''
+description: 'Überwachen Sie Medienberichterstattung, analysieren Sie Erwähnungen zentral und bewerten Sie Ihr Markenimage professionell – für gezieltes Reporting.'
 date: '2024-08-24'
 url: '/de/vorlage/medienanalyse'
 aliases:
