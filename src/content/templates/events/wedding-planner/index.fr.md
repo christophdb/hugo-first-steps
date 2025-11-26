@@ -1,6 +1,6 @@
 ---
 title: 'Organisateur de mariage'
-description: 'Gérez tâches, invités et budget de votre mariage facilement et sans stress, tout en ligne. Planifiez, centralisez et partagez pour une fête réussie et sereine.'
+description: 'Gardez tâches, invités et budget de votre mariage en vue – planifiez, gérez et partagez tout centralement et sereinement.'
 date: '2024-08-24'
 url: '/fr/modele/planificateur-mariage'
 aliases:

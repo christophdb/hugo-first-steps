@@ -1,6 +1,6 @@
 ---
 title: 'Lista de presenças'
-description: 'Registe e administre presenças em segundos – digital, sem erros e sempre disponível. Os dados são salvos automaticamente, podem ser analisados facilmente e estão protegidos. Assim, cada evento é profissional e sem papel.'
+description: 'Registre presenças digitalmente e sem erros, salve automaticamente e analise com flexibilidade – profissional e sem papel.'
 date: '2025-02-28'
 url: '/pt/modelo/lista-presenca'
 aliases:

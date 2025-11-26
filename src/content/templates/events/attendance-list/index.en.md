@@ -1,6 +1,6 @@
 ---
 title: 'Attendance List'
-description: 'Track attendance in seconds – digital, accurate, and always accessible. Data is saved automatically, easy to analyze, and protected with access rights. Every event stays organized and completely paperless.'
+description: 'Track attendance digitally and accurately, save automatically, and analyze flexibly – professional and completely paperless.'
 date: '2025-02-28'
 url: '/template/attendance-list'
 category: 'events'

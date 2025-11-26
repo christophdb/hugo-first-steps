@@ -1,6 +1,6 @@
 ---
 title: 'Planear o funeral'
-description: 'Mantenha todas as tarefas, custos e convidados de um funeral sob controle. Planeje, coordene e delegue tarefas para um evento digno. Checklists digitais orientam e aliviam em momentos delicados.'
+description: 'Controle tarefas, custos e convidados, delegue pendências e garanta uma cerimônia digna com checklists digitais.'
 date: '2024-08-24'
 url: '/pt/modelo/planejamento-funeral'
 aliases:

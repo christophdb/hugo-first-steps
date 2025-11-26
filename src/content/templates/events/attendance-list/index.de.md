@@ -1,6 +1,6 @@
 ---
 title: 'Anwesenheitsliste Vorlage'
-description: 'Erfassen und verwalten Sie Anwesenheiten in Sekunden – digital, fehlerfrei und jederzeit abrufbar. Automatische Speicherung, flexible Auswertung und volle Kontrolle über Datenschutz und Zugriffsrechte. So läuft jede Veranstaltung professionell und papierlos ab.'
+description: 'Erfassen Sie Anwesenheiten digital und fehlerfrei, speichern Sie diese automatisch und werten Sie flexibel aus – professionell und papierlos.'
 date: '2025-02-28'
 url: '/de/vorlage/anwesenheitsliste-vorlage'
 aliases:

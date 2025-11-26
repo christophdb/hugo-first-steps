@@ -1,6 +1,6 @@
 ---
 title: 'Planificateur de voyage'
-description: 'Organisez votre voyage digitalement et sans stress : gérez destinations, activités, documents et dépenses. Planifiez à plusieurs, ajoutez des souvenirs et accédez à tout, partout.'
+description: 'Organisez votre voyage digitalement : destinations, activités, documents et dépenses en vue – accessibles partout et à tout moment.'
 date: '2024-08-17'
 url: '/fr/modele/planificateur-voyage'
 aliases:

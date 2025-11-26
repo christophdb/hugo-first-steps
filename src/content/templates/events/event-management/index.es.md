@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de eventos'
-description: 'Controle todas las tareas, participantes y presupuestos en un mismo sitio. Gestione inscripciones y datos automáticamente para procesos claros y rápidos. Sus eventos serán eficientes y siempre bien organizados.'
+description: 'Controle eventos centralmente: gestione tareas, participantes y presupuesto automáticamente, organice registros y datos flexible.'
 url: '/es/plantillas/gestion-eventos'
 category: 'ereignisse'
 functions:

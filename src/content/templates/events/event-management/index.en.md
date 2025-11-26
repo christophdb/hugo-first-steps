@@ -1,6 +1,6 @@
 ---
 title: 'Event Management'
-description: 'Control all tasks, attendees, and budgets in one place. Manage registrations and event data automatically for fast, clear processes. Make your events efficient and organized every time.'
+description: 'Control events centrally: manage tasks, attendees, and budgets automatically, organize registrations and data flexibly – seamlessly.'
 aliases:
     - '/event-management/'
 category: 'events'

@@ -1,6 +1,6 @@
 ---
 title: 'Plan funeral'
-description: 'Mantenga una visión clara de tareas, gastos e invitados para el funeral. Planifique, coordine y delegue todo con seguridad para una despedida digna. Listas de verificación digitales le guían y alivian en los momentos difíciles.'
+description: 'Controle tareas, costes e invitados, delegue pendientes y asegure una ceremonia digna con listas de verificación digitales.'
 date: '2024-08-24'
 url: '/es/plantilla/planificador-funeral'
 aliases:

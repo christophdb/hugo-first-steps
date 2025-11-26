@@ -1,6 +1,6 @@
 ---
 title: 'Reiseplaner'
-description: 'Organisieren Sie Ihre Reise digital und stressfrei: Ziele, Aktivitäten, Dokumente und Ausgaben stets im Blick. Planen Sie gemeinsam, laden Sie Erinnerungen hoch und greifen Sie jederzeit von überall auf alles zu.'
+description: 'Organisieren Sie Ihre Reise digital: Ziele, Aktivitäten, Dokumente und Ausgaben im Blick – jederzeit und überall abrufbar.'
 date: '2024-08-17'
 url: '/de/vorlage/reiseplaner'
 aliases:
