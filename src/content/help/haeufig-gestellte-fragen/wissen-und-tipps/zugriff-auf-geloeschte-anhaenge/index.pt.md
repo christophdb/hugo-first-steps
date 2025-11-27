@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/zugriff-auf-geloeschte-anhaenge'
 seo:
     title: 'Restaurar arquivos e imagens excluídos no SeaTable: guia prático e rápido'
-    description: 'Veja como restaurar arquivos e imagens excluídos pelo painel de "recentemente enviados" ou via gestão de arquivos da base – suas informações não são perdidas.'
+    description: 'Saiba como restaurar arquivos e imagens excluídos no SeaTable por Recém‑carregados ou pela gestão de arquivos da base.'
 ---
 
 **Os ficheiros** e **imagens** removidos de uma [coluna de]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou [de ficheiros]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) **não** são **permanentemente eliminados**. Estes ficheiros eliminados permanecem no [gestor de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base e podem ser **restaurados** de duas formas diferentes.

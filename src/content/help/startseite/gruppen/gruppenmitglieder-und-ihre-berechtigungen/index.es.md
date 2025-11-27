@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/gruppenmitglieder-und-ihre-berechtigungen'
 seo:
     title: 'Miembros del grupo en SeaTable: permisos, roles y control de acceso'
-    description: 'Descubre los permisos y capacidades de propietarios, administradores y miembros en grupos SeaTable con tabla exhaustiva de autorización y guía práctica.'
+    description: 'Descubra qué derechos tienen propietarios, administradores y miembros en los grupos de SeaTable, con tabla de permisos y consejos de gestión.'
 ---
 
 Dentro de un grupo SeaTable hay tres roles diferentes: **Propietario**, **Administrador** y **Miembro**. Dependiendo de su papel, que puede ser diferente de un grupo a otro, los usuarios están autorizados a realizar diferentes acciones. La siguiente **tabla** le ofrece una visión general de los permisos que tiene cada rol.

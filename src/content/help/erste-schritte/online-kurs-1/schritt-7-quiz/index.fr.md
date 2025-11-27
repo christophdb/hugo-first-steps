@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/schritt-7-quiz'
 seo:
     title: 'Étape 7 : Quiz – Testez vos connaissances SeaTable'
-    description: 'Finalisez le tutoriel par un quiz SeaTable de 12 questions en anglais. Recommencez plusieurs fois jusqu’à obtenir au moins 10 bonnes réponses et validez votre avancée.'
+    description: 'À la fin du tutoriel, un quiz de 12 questions en anglais sur SeaTable vous attend. Répétez‑le jusqu’à obtenir au moins 10 bonnes réponses.'
 
 ---
 

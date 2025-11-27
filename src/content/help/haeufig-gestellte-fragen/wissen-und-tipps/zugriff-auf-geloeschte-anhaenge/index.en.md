@@ -10,7 +10,7 @@ aliases:
     - '/help/zugriff-auf-geloeschte-anhaenge'
 seo:
     title: 'Restore Deleted Files and Images in SeaTable: Easy Recovery Options'
-    description: 'Learn how to recover deleted attachments from file or image columns in SeaTable using the Recently Uploaded panel or file management—no data lost permanently.'
+    description: 'Learn how to recover deleted files and images in SeaTable easily via Recently Uploaded or the base file management.'
 ---
 
 **Files** and **images** that you have removed from an [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) or [file column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) are **not permanently deleted**. These deleted files remain in the base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) and can be **restored** in two different ways.

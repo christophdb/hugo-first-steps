@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 seo:
     title: 'Zwei Freigabearten in SeaTable: Base vs. Ansicht'
-    description: 'In SeaTable können Sie ganze Bases oder einzelne Ansichten teilen. Lernen Sie Vorteile, Freigabeziele und die Optionen für umfassenden oder eingeschränkten Zugriff kennen.'
+    description: 'In SeaTable können Sie Bases oder einzelne Ansichten teilen. Lernen Sie Vorteile, Freigabeziele und Optionen für Zugriff kennen.'
 
 ---
 

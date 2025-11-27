@@ -7,7 +7,7 @@ categories:
 url: '/help/faq-single-sign-on-seatable-cloud'
 seo:
     title: 'Common problems with SSO with SeaTable Cloud and their solutions'
-    description: 'Resolve common issues during SSO setup for SeaTable Cloud with practical tips and answers to frequently asked questions regarding authentication and user management.'
+    description: 'Fix common SSO issues in SeaTable Cloud with practical tips and FAQs about authentication and user management.'
 weight: 4
 ---
 

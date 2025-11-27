@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/datenverarbeitungsoperation-per-automation-ausfuehren'
 seo:
     title: 'Automatice operaciones de datos en SeaTable'
-    description: 'Programe cálculos, conexiones y más en SeaTable. Ejecute operaciones de datos por automatización para flujos de trabajo rápidos y menos intervención manual.'
+    description: 'Ejecu­te operaciones de procesamiento de datos con automatizaciones y ahorre tiempo: cálculos, enlaces y más, de forma recurrente y segura.'
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 seo:
     title: 'Duas formas de compartilhar no SeaTable: base ou vista'
-    description: 'Compartilhe toda a base ou apenas uma visualização com SeaTable: ajuste o grau de acesso, use o menu de compartilhamento e garanta segurança e praticidade sempre.'
+    description: 'No SeaTable você pode compartilhar bases inteiras ou visualizações individuais. Conheça vantagens, destinos e opções de acesso.'
 
 ---
 

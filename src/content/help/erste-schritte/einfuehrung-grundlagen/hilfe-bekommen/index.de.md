@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/hilfe-bekommen'
 seo:
     title: 'SeaTable Support: Kontakt, Community, Experten & Hilfequellen im Überblick'
-    description: 'Alle SeaTable Hilfeservices erklärt: Benutzerhandbuch, Community-Forum, Support-Ticket für Plus & Enterprise, YouTube-Ressourcen, individuelle Expertenhilfe und News.'
+    description: 'Alle SeaTable Hilfeservices: Handbuch, Community-Forum, Support-Ticket, YouTube, Expertenhilfe und News im Überblick.'
 ---
 
 SeaTable Nutzer haben unterschiedliche Möglichkeiten, Support oder Hilfe bei Fragen oder Problemen zu bekommen. Der Support reicht von umfangreichen Anleitungen, über die Hilfe durch andere aktive Nutzer bis hin zu vielfältigen Videos und der Unterstützung durch unser internes Support-Team.

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitungsoperation-per-automation-ausfuehren'
 seo:
     title: 'Datenverarbeitungsoperation automatisch in SeaTable'
-    description: 'Lassen Sie Datenverarbeitungsoperationen per Automation ausführen und sparen Sie Zeit: Mathematische Berechnungen, Verbindungen und mehr – bequem, wiederkehrend, sicher.'
+    description: 'Lassen Sie Datenverarbeitungsoperationen per Automation ausführen und sparen Sie Zeit: Berechnungen, Verbindungen und mehr – wiederkehrend, sicher.'
 
 ---
 

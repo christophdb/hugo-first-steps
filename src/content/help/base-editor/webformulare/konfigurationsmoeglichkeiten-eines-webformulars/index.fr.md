@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/konfigurationsmoeglichkeiten-eines-webformulars'
 seo:
     title: 'Configurer un formulaire web SeaTable : options, champs, design & restrictions'
-    description: 'Apprenez à configurer un formulaire web SeaTable : champs, obligations, couleurs, logo, règles d’accès et message de soumission pour une collecte de données optimale.'
+    description: 'Apprenez à personnaliser les formulaires web SeaTable visuellement, sur le contenu et les fonctions : paramètres, champs, obligatoires, couleurs, logo.'
 ---
 
 Vous pouvez configurer votre formulaire web en termes d'apparence, de contenu et de fonctionnalité en adaptant les **paramètres du formulaire**, les **paramètres des champs** et le **schéma de couleurs**. Ce dernier point nécessite un abonnement Enterprise.

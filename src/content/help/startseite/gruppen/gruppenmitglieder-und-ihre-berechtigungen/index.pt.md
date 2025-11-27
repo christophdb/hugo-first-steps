@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/gruppenmitglieder-und-ihre-berechtigungen'
 seo:
     title: 'Membros de grupo SeaTable: permissões, funções e controle de acesso'
-    description: 'Veja as permissões e capacidades de proprietários, administradores e membros em grupos SeaTable com tabela completa e diretrizes de gerenciamento detalhadas.'
+    description: 'Saiba quais direitos têm proprietários, administradores e membros em grupos SeaTable – com tabela de permissões e dicas de gestão.'
 ---
 
 Dentro de um grupo SeaTable existem três funções diferentes: **Proprietário**, **Administrador** e **Membro**. Dependendo da sua função, que pode ser diferente de grupo para grupo, os utilizadores estão autorizados a realizar diferentes acções. A **tabela** seguinte dá-lhe uma visão geral das permissões que cada função tem.
