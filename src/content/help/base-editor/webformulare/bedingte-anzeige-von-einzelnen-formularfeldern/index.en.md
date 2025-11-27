@@ -10,7 +10,7 @@ aliases:
     - '/help/bedingte-anzeige-von-einzelnen-formularfeldern'
 seo:
     title: 'Conditional Display of Fields in SeaTable Forms: Guide & Best Practices'
-    description: 'Learn to set up conditional visibility for fields in SeaTable webforms for dynamic surveys, improved user guidance, and customized data collection with easy configuration.'
+    description: 'Learn how to show fields in SeaTable web forms only when a condition is met – for dynamic surveys, targeted inputs and better data quality.'
 ---
 
 When creating **web forms**, you can set certain **fields** to become visible only after a **condition in** a previous field has been met. This allows you to improve the **user experience** when filling out the form.

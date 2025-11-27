@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/schritt-6-statistische-auswertungen'
 seo:
     title: 'Analyses statistiques avec le module de statistiques'
-    description: 'Créez des graphiques et tableaux dans SeaTable : chiffre d’affaires, inscriptions, cours populaires. Statistiques toujours à jour, calculées automatiquement.'
+    description: 'Crée des graphiques SeaTable pour chiffre d’affaires, inscriptions et cours populaires – toutes les statistiques à jour dans une base.'
 
 ---
 

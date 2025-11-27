@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/verwendung-der-mehrstufigen-zaps-von-zapier-zum-suchen-und-aktualisieren-von-datensaetzen'
 seo:
     title: 'Mehrstufige Zaps: Suchen & Aktualisieren in SeaTable'
-    description: 'So automatisieren Sie in SeaTable die Suche und Aktualisierung von Einträgen mit Zapier: Kontakte finden, verändern und synchron halten – Schritt für Schritt mit mehreren Aktionen.'
+    description: 'So automatisieren Sie in SeaTable mit Zapier Suche und Aktualisierung: Kontakte finden, verändern und synchron halten mit mehreren Aktionen.'
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/datenverarbeitungsoperationen-loeschen'
 seo:
     title: 'Eliminar operaciones de procesamiento de datos en SeaTable: guía rápida'
-    description: 'Descubre cómo borrar operaciones de procesamiento de datos en tus tablas SeaTable, qué ocurre con los resultados y cómo restaurar o crear nuevas acciones.'
+    description: 'Elimine de forma segura operaciones de procesamiento de datos en tablas SeaTable: guía para borrar, revisar efectos, columnas calculadas siguen.'
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar diversas **operaciones**. Puede realizar cálculos matemáticos en todos los valores de una columna, así como correlacionar valores cuando las entradas de dos tablas diferentes son idénticas.

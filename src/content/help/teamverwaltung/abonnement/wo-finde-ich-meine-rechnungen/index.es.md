@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/wo-finde-ich-meine-rechnungen'
 seo:
     title: '¿Dónde ver y descargar las facturas en SeaTable? Guía rápida y sencilla'
-    description: 'Aprende a consultar y descargar tus facturas en SeaTable, organizarlas por estado o importe y gestionarlas directamente desde la administración del equipo.'
+    description: 'Descubra dónde encontrar sus facturas en SeaTable, descargarlas en PDF, filtrarlas por estado o importe y gestionarlas vía administración de equipo.'
 ---
 
 Puede ver y descargar sus facturas con sólo unos clics a través de la administración del equipo. Puede encontrarlos en la pestaña Suscripción.

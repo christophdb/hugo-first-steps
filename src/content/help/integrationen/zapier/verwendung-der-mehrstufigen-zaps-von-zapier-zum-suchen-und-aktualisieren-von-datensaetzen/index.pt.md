@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/verwendung-der-mehrstufigen-zaps-von-zapier-zum-suchen-und-aktualisieren-von-datensaetzen'
 seo:
     title: 'Zaps de vários passos: buscar e atualizar no SeaTable'
-    description: 'Automatize buscas e atualizações de registros no SeaTable com zaps multi-etapas do Zapier. Encontre e edite dados facilmente com várias ações sucessivas.'
+    description: 'Automatize no SeaTable a busca e atualização de registros com o Zapier: encontrar, alterar e manter contatos sempre sincronizados.'
 
 ---
 

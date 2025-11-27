@@ -10,7 +10,7 @@ aliases:
     - '/help/schritt-6-statistische-auswertungen'
 seo:
     title: 'Statistical analysis with the SeaTable statistics module'
-    description: 'Easily create charts and graphics in SeaTable: revenue, registrations, popular courses – all statistics always automatically updated and clearly displayed in your base.'
+    description: 'Create charts in SeaTable for revenue, sign-ups and popular courses – all statistics in one base, always up to date and clear.'
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/schritt-6-statistische-auswertungen'
 seo:
     title: 'Análisis estadístico con el módulo de estadísticas'
-    description: 'Genere fácilmente gráficos y tablas en SeaTable: ingresos, registros y cursos más populares. Las estadísticas se actualizan automáticamente en su base de datos.'
+    description: 'Crea gráficos en SeaTable de ingresos, registros y cursos populares: todas las estadísticas en una base, siempre actualizadas.'
 
 ---
 

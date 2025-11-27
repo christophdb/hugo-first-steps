@@ -9,7 +9,7 @@ category: 'marketing'
 functions:
 seo:
     title: 'Free NPS calculator from SeaTable: GDPR-compliant surveys, full data sovereignty'
-    description: 'Intuitive NPS score calculator for your business: Automatically analyze customer feedback, fully customizable, cloud & on-premises - test SeaTable template now!'
+    description: 'Intuitive NPS score calculator in SeaTable: analyze customer feedback automatically, fully customizable in cloud and on‑premises.'
 template: '895068666cae411b9da7'
 
 type: pages

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitungsoperationen-loeschen'
 seo:
     title: 'Datenverarbeitungsoperationen in SeaTable löschen: Schritt‑für‑Schritt erklärt'
-    description: 'So entfernen Sie Datenverarbeitungsoperationen sicher aus Ihren SeaTable‑Tabellen: Anleitung zum Löschen, Folgen beachten, berechnete Spalten bleiben erhalten.'
+    description: 'So entfernen Sie Datenverarbeitungsoperationen sicher aus SeaTable-Tabellen: Anleitung zum Löschen, Folgen beachten, berechnete Spalten bleiben.'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl mathematische Berechnungen über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind.

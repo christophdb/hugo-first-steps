@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/funktionsweise-von-automationen'
 seo:
     title: 'Fonctionnement des automatisations dans SeaTable'
-    description: 'Automatisez vos processus dans SeaTable : paramétrez des déclencheurs, conditions et actions pour rendre vos flux de travail fluides et fiables au quotidien.'
+    description: 'Découvrez comment les automatisations simplifient vos processus dans SeaTable : déclencheurs, actions, conditions et exemples de workflows.'
 
 ---
 

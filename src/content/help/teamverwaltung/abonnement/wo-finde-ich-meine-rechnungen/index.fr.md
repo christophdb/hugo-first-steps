@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/wo-finde-ich-meine-rechnungen'
 seo:
     title: 'Où trouver et télécharger vos factures SeaTable : guide simple et rapide'
-    description: 'Découvrez comment consulter, filtrer et télécharger vos factures SeaTable, et gérer la facturation facilement via l’onglet abonnement de l’administration équipe.'
+    description: 'Découvrez où trouver vos factures SeaTable, les télécharger en PDF, les filtrer par statut ou montant et les gérer via l’administration d’équipe.'
 ---
 
 Vous pouvez consulter et télécharger vos factures en quelques clics via l'administration d'équipe. Vous les trouverez dans l'onglet Abonnement.

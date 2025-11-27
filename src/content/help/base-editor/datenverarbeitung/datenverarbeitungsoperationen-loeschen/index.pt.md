@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/datenverarbeitungsoperationen-loeschen'
 seo:
     title: 'Excluir operações de processamento de dados no SeaTable: instruções práticas'
-    description: 'Veja como excluir operações de processamento de dados em tabelas SeaTable, manter os resultados calculados e redefinir tarefas automatizadas conforme preciso.'
+    description: 'Remova com segurança operações de processamento de dados das tabelas SeaTable: guia de exclusão, efeitos e colunas calculadas mantidas.'
 ---
 
 Com a ajuda da função de processamento de dados, é possível realizar várias **operações**. Pode efectuar cálculos matemáticos em todos os valores de uma coluna, bem como correlacionar valores quando as entradas em duas tabelas diferentes são idênticas.
