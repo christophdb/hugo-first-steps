@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/hilfe-bekommen'
 seo:
     title: 'Support SeaTable : contact, communauté, experts et sources d’aide détaillées'
-    description: 'Explorez tous les moyens d’obtenir de l’aide SeaTable : documentation, forum, support dédié, tutoriels vidéos et conseils personnalisés pour chaque besoin.'
+    description: 'Tous les services d’aide SeaTable : manuel utilisateur, forum communautaire, tickets support, YouTube, aide d’experts et actualités.'
 ---
 
 Les utilisateurs de SeaTable disposent de différentes possibilités pour obtenir une assistance ou de l'aide en cas de questions ou de problèmes. L'assistance va des instructions complètes à l'aide d'autres utilisateurs actifs, en passant par des vidéos variées et le soutien de notre équipe d'assistance interne.

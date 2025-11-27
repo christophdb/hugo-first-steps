@@ -10,7 +10,7 @@ aliases:
     - '/help/hilfe-bekommen'
 seo:
     title: 'SeaTable Support: Contact, Community, Experts, and All Help Options at a Glance'
-    description: "Find answers with SeaTable's knowledge base, community forum, expert support ticket for Plus & Enterprise, video tutorials, and consulting for custom or urgent issues."
+    description: "All SeaTable help services: user manual, community forum, support tickets, YouTube resources, expert help and news at a glance."
 ---
 
 SeaTable users have different ways to get support or help with questions or problems. Support ranges from comprehensive tutorials, to help from other active users, to a variety of videos and assistance from our internal support team.

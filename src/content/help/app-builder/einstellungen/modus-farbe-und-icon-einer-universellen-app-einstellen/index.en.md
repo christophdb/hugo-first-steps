@@ -10,7 +10,7 @@ aliases:
     - '/help/modus-farbe-und-icon-einer-universellen-app-einstellen'
 seo:
     title: 'Set mode, color & icon for your universal app'
-    description: 'Adjust mode, color and icon for your universal app in SeaTable. Choose light/dark mode, colors and upload custom icons to personalize the app’s look and feel easily.'
+    description: 'Customize mode, color and icon of your SeaTable Universal App: light/dark mode, color scheme and custom app icons.'
 
 ---
 

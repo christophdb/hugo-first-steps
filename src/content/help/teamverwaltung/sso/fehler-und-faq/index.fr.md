@@ -7,7 +7,7 @@ categories:
 url: '/fr/aide/problemes-frequents-single-sign-on-seatable-cloud'
 seo:
     title: 'Problèmes fréquents avec le SSO sur SeaTable Cloud et leurs solutions'
-    description: 'Résolvez les problèmes courants lors de la configuration du SSO pour SeaTable Cloud avec des conseils pratiques et des réponses aux questions fréquentes sur l’authentification et la gestion des utilisateurs.'
+    description: 'Résolvez les problèmes courants de SSO dans SeaTable Cloud grâce à des conseils pratiques et une FAQ sur authentification et gestion des utilisateurs.'
 weight: 4
 ---
 

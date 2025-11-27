@@ -8,8 +8,8 @@ color: '#7dc3cb'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 5.3: muchas nuevas opciones de flexibilidad'
+    description: 'SeaTable 5.3: Inicio de semana configurable, funciones ampliadas en el app builder, plugin de diseño de informes, mejores comentarios y permisos.'
 ---
 
 En la versión 5.3, la última actualización menor antes de la versión 6.0 prevista para el verano de 2026, el enfoque está en las mejoras de los componentes centrales. Base Editor, App Builder, formularios web, automatizaciones y plugins reciben nuevas funciones y optimizaciones. El cambio más importante: la versión 5.3 permite configurar el primer día de la semana. Como en versiones anteriores, la mayoría de las novedades se encuentran en el App Builder. Las páginas de tabla ahora permiten una altura de fila variable y la personalización de las columnas fijas. Las páginas de registro único ofrecen mejor integración para columnas de enlaces y archivos. Las páginas de formulario permiten la creación de enlaces multinivel. Las apps públicas pueden protegerse con contraseña y se puede desactivar la descarga de archivos. En los formularios web, los campos pueden prellenarse y – como novedad – ocultarse. También hay un nuevo plugin.

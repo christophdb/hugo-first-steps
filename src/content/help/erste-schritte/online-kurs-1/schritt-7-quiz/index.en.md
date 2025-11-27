@@ -10,7 +10,7 @@ aliases:
     - '/help/schritt-7-quiz'
 seo:
     title: 'Step 7: Quiz – Test your SeaTable knowledge'
-    description: 'Complete the tutorial with a 12-question SeaTable quiz. Answer general and project-related questions. Repeat as often as needed until you score at least 10 correct.'
+    description: 'At the end of the tutorial, a quiz with 12 English SeaTable questions awaits. Repeat it until you have at least 10 correct answers.'
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/datenverarbeitungsoperation-per-automation-ausfuehren'
 seo:
     title: 'Automatisez le traitement des données dans SeaTable'
-    description: 'Lancez des opérations de traitement des données par automation : calculez, reliez des tables et optimisez vos processus sans intervention manuelle répétée.'
+    description: 'Exécutez des opérations de traitement des données via des automatisations et gagnez du temps : calculs, liaisons et plus encore, de façon sûre.'
 
 ---
 

@@ -8,7 +8,7 @@ author: "cdb"
 url: "/de/hilfe/schritt-7-quiz"
 seo:
     title: 'Schritt 7: Quiz – Testen Sie Ihr SeaTable Wissen'
-    description: 'Am Ende des Tutorials folgt ein Quiz mit 12 englischen Fragen zum SeaTable Wissen. Wiederholen Sie das Quiz beliebig oft, bis Sie mindestens 10 Antworten richtig haben.'
+    description: 'Am Ende des Tutorials wartet ein Quiz mit 12 englischen SeaTable‑Fragen. Wiederholen Sie es beliebig oft, bis Sie 10 Antworten richtig haben.'
 
 ---
 

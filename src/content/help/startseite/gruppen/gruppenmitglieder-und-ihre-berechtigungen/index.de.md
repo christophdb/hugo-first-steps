@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/gruppenmitglieder-und-ihre-berechtigungen'
 seo:
     title: 'SeaTable Gruppenmitglieder: Berechtigungen & Rollen im Überblick'
-    description: 'Erfahren Sie, welche Berechtigungen Eigentümer, Administratoren und Mitglieder in SeaTable-Gruppen haben – umfassende Berechtigungstabelle und Verwaltungshinweise.'
+    description: 'Erfahren Sie, welche Rechte Eigentümer, Admins und Mitglieder in SeaTable-Gruppen haben – mit Berechtigungstabelle und Verwaltungstipps.'
 ---
 
 Innerhalb einer SeaTable Gruppe gibt es drei verschiedene Rollen: **Eigentümer**, **Administrator** und **Mitglied**. Abhängig von ihrer Rolle, die von Gruppe zu Gruppe anders sein kann, sind Nutzer zu unterschiedlichen Aktionen berechtigt. Die folgende **Tabelle** verschafft Ihnen einen Überblick, über welche Berechtigungen die einzelnen Rollen verfügen.

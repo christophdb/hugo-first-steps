@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/konfigurationsmoeglichkeiten-eines-webformulars'
 seo:
     title: 'Configuração de formulários web SeaTable: opções, campos e aparência'
-    description: 'Veja todas as possibilidades para configurar formulários SeaTable: campos customizados, obrigatórios, design, cores, logo e regras de envio na coleta de dados.'
+    description: 'Aprenda a personalizar formulários web do SeaTable no visual, conteúdo e funções: configurações, campos, obrigatórios, esquema de cores e logo.'
 ---
 
 Pode configurar o aspecto, conteúdo e funcionalidade do seu formulário web personalizando as **definições do formulário**, as **definições do campo** e o **esquema de cores**. Este último requer uma assinatura Enterprise.

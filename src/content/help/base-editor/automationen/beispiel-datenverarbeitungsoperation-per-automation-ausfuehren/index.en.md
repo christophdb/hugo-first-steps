@@ -10,7 +10,7 @@ aliases:
     - '/help/datenverarbeitungsoperation-per-automation-ausfuehren'
 seo:
     title: 'Automate data processing operations in SeaTable'
-    description: 'Set up recurring data processing with SeaTable Automations: Perform calculations, connect tables and streamline workflows without manual effort, daily or weekly.'
+    description: 'Run data processing operations via automations and save time: calculations, links and more – convenient, recurring and secure.'
 
 ---
 

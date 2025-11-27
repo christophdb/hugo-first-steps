@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/schritt-7-quiz'
 seo:
     title: 'Paso 7: Quiz – Pon a prueba tu conocimiento SeaTable'
-    description: 'Termina el tutorial con un quiz de 12 preguntas en inglés sobre SeaTable. Repítelo tantas veces como quieras hasta acertar 10 respuestas y avanzar en tu aprendizaje.'
+    description: 'Al final del tutorial le espera un cuestionario con 12 preguntas en inglés sobre SeaTable. Repítalo hasta acertar al menos 10.'
 
 ---
 

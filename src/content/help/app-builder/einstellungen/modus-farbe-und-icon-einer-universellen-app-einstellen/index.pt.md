@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/modus-farbe-und-icon-einer-universellen-app-einstellen'
 seo:
     title: 'Defina modo, cor e ícone de sua app universal'
-    description: 'Ajuste o modo, a cor e o ícone da sua app universal no SeaTable. Escolha entre claro/escuro, selecione esquema de cores e insira um ícone próprio facilmente.'
+    description: 'Personalize modo, cor e ícone da sua App Universal SeaTable: modo claro/escuro, esquema de cores e ícones próprios.'
 
 ---
 
