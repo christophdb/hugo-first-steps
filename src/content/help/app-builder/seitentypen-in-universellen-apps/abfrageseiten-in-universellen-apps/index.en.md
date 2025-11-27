@@ -10,7 +10,7 @@ aliases:
     - '/help/abfrageseiten-in-universellen-apps'
 seo:
     title: 'Use query pages in Universal Apps'
-    description: 'Search and filter large datasets in Universal Apps by specific values. Define filters, sorting and query fields for customized results—edit found data directly if allowed.'
+    description: 'Search and filter large datasets in SeaTable Universal Apps by values: define filters, sorting and query fields for custom results.'
 
 ---
 

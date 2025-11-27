@@ -7,7 +7,7 @@ categories:
 url: '/es/ayuda/requisitos-single-sign-on-seatable-cloud'
 seo:
     title: 'Requisitos y condiciones para el uso de Single Sign-On (SSO)'
-    description: 'Conozca los requisitos necesarios para utilizar el SSO en SeaTable Cloud. Vista general de tipos de suscripciones, protocolos soportados y requisitos técnicos para una integración sin problemas.'
+    description: 'Descubra qué requisitos necesita para usar SSO en SeaTable Cloud: tipos de suscripción, protocolos compatibles y requisitos técnicos.'
 weight: 2
 ---
 

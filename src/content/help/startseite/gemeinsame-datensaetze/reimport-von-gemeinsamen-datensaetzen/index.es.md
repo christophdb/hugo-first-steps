@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/reimport-von-gemeinsamen-datensaetzen'
 seo:
     title: 'Reimportar conjuntos de datos compartidos en SeaTable'
-    description: 'Descubre cómo volver a vincular conjuntos de datos compartidos en SeaTable tras copiar una base o restaurar desde un snapshot y qué sucede con los datos tras la sincronización.'
+    description: 'Descubra cómo volver a vincular y sincronizar registros compartidos en SeaTable tras copiar o restaurar una base y revisar los posibles efectos.'
 
 ---
 

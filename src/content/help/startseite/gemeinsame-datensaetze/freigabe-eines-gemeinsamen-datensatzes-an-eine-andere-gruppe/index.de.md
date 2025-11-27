@@ -10,7 +10,7 @@ aliases:
     - '/de/hilfe/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 seo:
     title: 'Gemeinsamen Datensatz in andere Gruppe freigeben'
-    description: 'So geben Sie einen gemeinsamen Datensatz in SeaTable an eine andere Gruppe frei: Zugriff verwalten, Synchronisation ermöglichen und Folgen beim Auflösen der Berechtigung.'
+    description: 'So geben Sie einen gemeinsamen Datensatz in SeaTable an eine andere Gruppe frei: Zugriff steuern, Synchronisation nutzen und Folgen kennen.'
 
 ---
 

@@ -7,7 +7,7 @@ categories:
 url: '/fr/aide/prerequis-single-sign-on-seatable-cloud'
 seo:
     title: 'Exigences et prérequis pour utiliser le Single Sign-On (SSO)'
-    description: 'Découvrez les prérequis nécessaires pour utiliser le SSO dans SeaTable Cloud. Vue d’ensemble des types d’abonnement, protocoles supportés et exigences techniques pour une intégration sans faille.'
+    description: 'Découvrez les prérequis pour utiliser le SSO dans SeaTable Cloud : types d’abonnement, protocoles pris en charge et exigences techniques.'
 weight: 2
 ---
 

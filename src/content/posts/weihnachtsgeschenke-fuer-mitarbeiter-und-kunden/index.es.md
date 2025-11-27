@@ -11,8 +11,8 @@ url: '/es/regalos-navidad-para-empleados-y-clientes'
 aliases:
     - /es/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
-    title:
-    description:
+    title: 'Regalos de Navidad para empleados y clientes: 24 ideas'
+    description: '¿Cuál es el regalo de Navidad perfecto para empleados y clientes? En este artículo encontrará ideas, tendencias y ejemplos concretos.'
 ---
 
 La Navidad está a la vuelta de la esquina y a usted le gustaría obsequiar a sus empleados, socios comerciales o clientes con un pequeño regalo como muestra de su **agradecimiento**. Pero, ¿cuáles podrían ser los regalos de Navidad adecuados para empleados y clientes? Se necesitan muchas ideas y un instinto certero. En este artículo descubrirá qué **regalos de Navidad** harán las delicias de sus empleados y clientes y con qué **presupuesto** puede contar.

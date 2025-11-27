@@ -10,7 +10,7 @@ color: '#fc756f'
 url: '/de/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
 seo:
     title: 'Weihnachtsgeschenke für Mitarbeiter und Kunden – 24 Ideen'
-    description: 'Was ist das perfekte Weihnachtsgeschenk für Ihre Mitarbeiter? Und worüber freuen sich Ihre Kunden? In diesem Artikel finden Sie die Antwort.'
+    description: 'Was ist das perfekte Weihnachtsgeschenk für Mitarbeiter und Kunden? In diesem Artikel finden Sie Ideen, Trends und konkrete Geschenkbeispiele.'
 ---
 
 Weihnachten steht vor der Tür und Sie möchten Ihren Mitarbeitern, Geschäftspartnern oder Kunden eine kleine Aufmerksamkeit als Zeichen Ihrer **Wertschätzung** zukommen lassen. Doch was könnten passende Weihnachtsgeschenke für Mitarbeiter und Kunden sein? Ideenreichtum und Fingerspitzengefühl sind gefragt! Welche **Weihnachtsgeschenke** Ihre Mitarbeiter und Kunden erfreuen und mit welchem **Budget** Sie rechnen können, erfahren Sie in diesem Artikel.
