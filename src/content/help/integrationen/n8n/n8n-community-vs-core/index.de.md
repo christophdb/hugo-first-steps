@@ -3,7 +3,7 @@ title: 'Unterschiede zwischen Core und Community'
 date: '2025-10-03'
 seo:
     title: 'SeaTable Node in n8n – Unterschiede zwischen Core und Community'
-    description: 'Erfahre alles über den SeaTable Node in n8n: Funktionen der Core-Version ab 1.85.0, Vorteile des Community Nodes und wie beide parallel ohne Konflikte genutzt werden können.'
+    description: 'SeaTable Node in n8n: Funktionen ab Version 1.85.0, Vorteile des Community Nodes & parallele Nutzung ohne Konflikte.'
 categories:
     - 'n8n-integration'
 url: '/de/hilfe/n8n-community-node'

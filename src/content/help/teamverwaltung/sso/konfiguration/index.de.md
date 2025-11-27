@@ -7,7 +7,7 @@ categories:
 url: '/de/hilfe/konfiguration-ipd-single-sign-on-seatable-cloud'
 seo:
     title: 'Konfiguration Ihres Identity Providers für die Nutzung von Single Sign-On (SSO)'
-    description: 'Schritt-für-Schritt-Anleitung zur Einrichtung Ihres Identity Providers (IdP) für SeaTable Cloud. Erfahren Sie, wie Sie Benutzerattribute richtig mappen und Ihre Domain erfolgreich authentifizieren.'
+    description: 'Anleitung zur Einrichtung deines Identity Providers (IdP) in SeaTable Cloud inkl. Attributzuordnung & Authentifizierung.'
 weight: 3
 ---
 

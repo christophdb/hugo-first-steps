@@ -9,7 +9,7 @@ category: 'marketing'
 functions:
 seo:
     title: 'Kostenloser NPS-Rechner von SeaTable: DSGVO-konforme Umfragen, volle Datenhoheit'
-    description: 'Intuitiver NPS Score Rechner für Ihr Unternehmen: Kundenfeedback automatisch analysieren, komplett anpassbar, Cloud & On-Premises – jetzt SeaTable Vorlage testen!'
+    description: 'Intuitiver NPS Score Rechner in SeaTable: Kundenfeedback automatisch analysieren, anpassbar in Cloud & On-Premises – jetzt Vorlage testen.'
 template: '895068666cae411b9da7'
 
 type: pages

@@ -9,7 +9,7 @@ category: 'marketing'
 functions:
 seo:
     title: 'Calculadora NPS gratuita da SeaTable: inquéritos em conformidade com o RGPD, total soberania dos dados'
-    description: 'Calculadora intuitiva da pontuação NPS para a sua empresa: Analise automaticamente o feedback dos clientes, totalmente personalizável, na nuvem e no local - teste o modelo SeaTable agora!'
+    description: 'Calculadora intuitiva de NPS no SeaTable: analise automático do feedback de clientes, personalizável em cloud e on‑premises.'
 template: '895068666cae411b9da7'
 
 type: pages

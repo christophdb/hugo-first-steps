@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/schritt-6-statistische-auswertungen'
 seo:
     title: 'Statistische Auswertungen mit dem Statistik-Modul'
-    description: 'Erstellen Sie mit SeaTable schnell Diagramme und Grafiken: Umsatz, Anmeldungen, beliebte Kurse – alle Statistiken in Ihrer Base stets automatisch aktuell und übersichtlich.'
+    description: 'SeaTable: Schnell Diagramme zu Umsatz, Anmeldungen und beliebten Kursen erstellen – alle Statistiken in einer Base automatisch aktuell.'
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/schritt-6-statistische-auswertungen'
 seo:
     title: 'Análise estatística com módulo de estatísticas'
-    description: 'Crie gráficos e visuais no SeaTable: receitas, inscrições, cursos populares. Todas as estatísticas da base se atualizam automaticamente e ficam sempre acessíveis.'
+    description: 'Crie gráficos no SeaTable de faturamento, inscrições e cursos populares – todas as estatísticas atualizadas em uma única base.'
 
 ---
 

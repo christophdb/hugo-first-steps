@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
 seo:
     title: 'SeaTable Formelbeispiel: If-Operator fürs bedingte Ausfüllen von Werten'
-    description: 'So nutzen Sie If-Operatoren in SeaTable-Formeln, um Werte automatisch je Bedingung zu füllen – mit Beispielen für Anredefelder, Vergleich und Mehrfach-Prüfung.'
+    description: 'So nutzen Sie If-Operatoren in SeaTable-Formeln, um Werte je Bedingung automatisch zu füllen – inkl. Beispiele für Anrede und Mehrfach-Prüfung.'
 ---
 
 SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine Möglichkeit stellt das bedingte Ausfüllen von Werten mittels **If-Operatoren** dar. Durch die Eingabe einer entsprechenden Formel können Sie die Werte in der Formel-Spalte – abhängig von den Daten in anderen Tabellenspalten – automatisch befüllen lassen.

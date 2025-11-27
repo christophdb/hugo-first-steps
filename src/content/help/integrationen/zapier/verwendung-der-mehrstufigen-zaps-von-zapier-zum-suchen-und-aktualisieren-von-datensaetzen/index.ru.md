@@ -10,7 +10,7 @@ aliases:
     - '/ru/pomoshch/verwendung-der-mehrstufigen-zaps-von-zapier-zum-suchen-und-aktualisieren-von-datensaetzen'
 seo:
     title: 'Многошаговые запы: поиск и обновление данных SeaTable'
-    description: 'Автоматизируйте поиск и обновление записей в SeaTable через многошаговые zaps Zapier: быстро найдите, измените и синхронизируйте ваши контакты.'
+    description: 'Автоматизируйте в SeaTable поиск и обновление записей с Zapier: находите, изменяйте и держите контакты синхронизированными.'
 
 ---
 

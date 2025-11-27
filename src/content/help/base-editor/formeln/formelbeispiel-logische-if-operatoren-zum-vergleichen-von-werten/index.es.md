@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
 seo:
     title: 'Ejemplo de fórmula SeaTable: operadores IF lógicos para rellenado condicional'
-    description: 'Descubre cómo utilizar operadores IF en las fórmulas SeaTable y rellenar valores según condiciones: saludos automáticos y lógica múltiple con ejemplos claros.'
+    description: 'Usa operadores IF en fórmulas de SeaTable para rellenar valores según condiciones, con ejemplos de saludo, comparación y múltiples comprobaciones.'
 ---
 
 Las fórmulas de SeaTable le ofrecen diferentes formas de trabajar con los datos de sus tablas. Una posibilidad es el relleno condicional de valores utilizando **operadores if**.  

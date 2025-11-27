@@ -7,7 +7,7 @@ categories:
 url: '/fr/aide/configuration-fournisseur-identite-single-sign-on-seatable-cloud'
 seo:
     title: 'Configuration de votre fournisseur d’identité pour l’utilisation du Single Sign-On (SSO)'
-    description: 'Guide étape par étape pour configurer votre fournisseur d’identité (IdP) pour SeaTable Cloud. Apprenez à correctement mapper les attributs utilisateur et à authentifier votre domaine avec succès.'
+    description: 'Configure ton fournisseur d’identité (IdP) dans SeaTable Cloud. Mappe les attributs et authentifie ton domaine.'
 weight: 3
 ---
 

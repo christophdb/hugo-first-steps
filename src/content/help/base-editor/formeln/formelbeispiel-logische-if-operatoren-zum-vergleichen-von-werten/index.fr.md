@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
 seo:
     title: 'Exemple de formule SeaTable : IF logiques pour remplir les champs selon la condition'
-    description: 'Apprenez à utiliser les fonctions IF dans SeaTable pour remplir les valeurs selon les critères : automatiser civilités, tests multiples et gestion avancée.'
+    description: 'Utilisez les opérateurs IF dans les formules SeaTable pour remplir automatiquement selon les conditions, avec exemples d’appel, comparaison et tests multiples.'
 ---
 
 Les formules de SeaTable vous offrent différentes possibilités de travailler avec les données de vos tableaux. L'une d'entre elles consiste à remplir les valeurs de manière conditionnelle à l'aide d **'opérateurs If**.  

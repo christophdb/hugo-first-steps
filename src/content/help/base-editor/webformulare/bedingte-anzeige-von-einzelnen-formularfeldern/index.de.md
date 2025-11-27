@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/bedingte-anzeige-von-einzelnen-formularfeldern'
 seo:
     title: "Bedingte Anzeige von Formularfeldern in SeaTable: So funktioniert's"
-    description: 'Erfahren Sie, wie Sie in SeaTable Webformularen Felder nur anzeigen, wenn eine Bedingung erfüllt wird – für dynamische Umfragen, gezielte Benutzereingaben und bessere Datenqualität.'
+    description: 'Erfahren Sie, wie Sie in SeaTable Webformularen Felder nur bei erfüllter Bedingung anzeigen – für dynamische Umfragen und bessere Datenqualität.'
 ---
 
 Bei der Erstellung von **Webformularen** können Sie einstellen, dass bestimmte **Felder** erst sichtbar werden, wenn eine **Bedingung** in einem vorherigen Feld erfüllt wurde. Dadurch können Sie die **Benutzerführung** beim Ausfüllen des Formulars verbessern.

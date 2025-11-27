@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/funktionsweise-von-automationen'
 seo:
     title: 'Como funcionam as automações no SeaTable?'
-    description: 'Aprenda como configurar automações no SeaTable: defina triggers, condições e ações automáticas para aumentar a eficiência e reduzir tarefas manuais.'
+    description: 'Saiba como as automações otimizam processos no SeaTable: gatilhos, ações, condições e exemplos práticos de workflows eficientes.'
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/wo-finde-ich-meine-rechnungen'
 seo:
     title: 'Onde encontrar e baixar suas faturas SeaTable: passo a passo completo'
-    description: 'Veja onde localizar, filtrar e baixar suas faturas no SeaTable em PDF, verificar o status do pagamento e gerenciar tudo pela administração da equipe.'
+    description: 'Saiba onde encontrar suas faturas no SeaTable, baixá-las em PDF, filtrá-las por status ou valor e gerenciá-las pela administração da equipe.'
 ---
 
 Pode visualizar e descarregar as suas facturas com apenas alguns cliques através da administração da equipa. Pode encontrá-los no separador Subscrição.
