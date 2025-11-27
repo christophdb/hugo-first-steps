@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/reimport-von-gemeinsamen-datensaetzen'
 seo:
     title: 'Reimportar dados compartilhados em tabelas SeaTable'
-    description: 'Veja como restaurar a ligação com conjuntos de dados compartilhados após copiar ou restaurar uma base. Sincronize e mantenha os dados atualizados facilmente.'
+    description: 'Saiba como reconectar e sincronizar registros compartilhados no SeaTable após copiar ou restaurar uma base e verificar possíveis impactos.'
 
 ---
 

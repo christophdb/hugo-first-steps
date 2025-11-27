@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/abfrageseiten-in-universellen-apps'
 seo:
     title: 'Pages de requête dans les Apps Universelles'
-    description: 'Recherchez, filtrez et affichez de grands ensembles de données dans une App Universelle. Définissez champs de requête, filtres, tris et éditez les résultats si besoin.'
+    description: 'Recherchez et filtrez de grands ensembles de données dans les Apps universelles SeaTable : définissez filtres, tris et champs de requête pour des résultats sur mesure.'
 
 ---
 

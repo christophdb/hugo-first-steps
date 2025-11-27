@@ -11,8 +11,8 @@ url: '/fr/cadeaux-noel-pour-collaborateurs-et-clients'
 aliases:
     - /fr/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
-    title:
-    description:
+    title: 'Cadeaux de Noël pour les employés et les clients - 24 idées'
+    description: 'Quel est le cadeau de Noël idéal pour vos employés et clients ? Cet article présente idées, tendances et exemples concrets de cadeaux.'
 ---
 
 Noël approche et vous souhaitez offrir à vos collaborateurs, partenaires commerciaux ou clients une petite attention en signe d'**appréciation**. Mais quels pourraient être les cadeaux de Noël appropriés pour les collaborateurs et les clients ? Il faut faire preuve d'imagination et de doigté ! Vous découvrirez dans cet article quels **cadeaux de Noël** feront plaisir à vos collaborateurs et clients et quel **budget** vous pouvez espérer.

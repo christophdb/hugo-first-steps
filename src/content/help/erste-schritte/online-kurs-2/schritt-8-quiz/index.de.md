@@ -8,7 +8,7 @@ author: "cdb"
 url: "/de/hilfe/schritt-8-quiz"
 seo:
     title: 'Schritt 8: Quiz – Testen Sie Ihr SeaTable Wissen'
-    description: 'Am Ende des Tutorials erwartet Sie ein Quiz mit 12 Fragen rund um SeaTable. Prüfen Sie Ihr Wissen und wiederholen Sie das Quiz beliebig oft für mindestens 10 richtige Antworten.'
+    description: 'Am Ende des Tutorials erwartet Sie ein Quiz mit 12 SeaTable‑Fragen. Prüfen Sie Ihr Wissen und wiederholen Sie es bis 10 Antworten stimmen.'
 
 ---
 

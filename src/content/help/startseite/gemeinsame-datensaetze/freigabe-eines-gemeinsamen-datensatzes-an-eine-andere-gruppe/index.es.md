@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 seo:
     title: 'Compartir conjunto de datos con otro grupo en SeaTable'
-    description: 'Comparta un dataset común entre grupos en SeaTable: gestione accesos, sincronización y sepa qué sucede al retirar la autorización. Pasos claros para equipos.'
+    description: 'Comparta un registro compartido en SeaTable con otro grupo: controle el acceso, habilite la sincronización y conozca las consecuencias.'
 
 ---
 

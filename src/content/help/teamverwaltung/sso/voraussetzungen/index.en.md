@@ -7,7 +7,7 @@ categories:
 url: '/help/requirements-single-sign-on'
 seo:
     title: 'Requirements and prerequisites for using single sign-on (SSO)'
-    description: 'Find out which requirements you need to meet to use SSO in SeaTable Cloud. Overview of subscription types, supported protocols, and technical prerequisites for smooth integration.'
+    description: 'Learn which requirements you must meet to use SSO in SeaTable Cloud: subscription types, supported protocols and technical prerequisites.'
 weight: 2
 ---
 

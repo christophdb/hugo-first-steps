@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/filter-regeln-mit-und-und-oder-verknuepfen'
 seo:
     title: 'Filter-Regeln mit UND und ODER in SeaTable: Logik, Gruppen und Beispiele'
-    description: 'Verknüpfen Sie Filterbedingungen flexibel mit UND-/ODER-Regeln oder Filtergruppen in SeaTable, schränken Sie Ansichten gezielt ein und analysieren Sie komplexe Datensätze effizient.'
+    description: 'Verknüpfen Sie Filterbedingungen in SeaTable mit UND/ODER oder Filtergruppen, schränken Ansichten ein und analysieren komplexe Datensätze effizient.'
 ---
 
 Sie können beim [Filtern von Einträgen in einer Ansicht]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) auch **mehrere Filter-Regeln** erstellen, um die Bedingungen zu verfeinern und die zutreffenden Einträge weiter einzugrenzen. Hierbei wird zwischen der **Und-Verknüpfung** und der **Oder-Verknüpfung** unterschieden. Mithilfe von **Filtergruppen** können Sie die logischen Und-/Oder-Verknüpfungen auch kombinieren.

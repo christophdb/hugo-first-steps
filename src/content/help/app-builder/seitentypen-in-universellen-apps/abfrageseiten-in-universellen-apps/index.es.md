@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/abfrageseiten-in-universellen-apps'
 seo:
     title: 'Páginas de consulta en Apps Universales'
-    description: 'Encuentre y filtre grandes conjuntos de datos en Apps Universales. Configure filtros, orden y campos de consulta para mostrar solo los resultados relevantes a cada usuario.'
+    description: 'Busque y filtre grandes conjuntos de datos en Apps Universales de SeaTable: defina filtros, ordenaciones y campos de consulta para resultados propios.'
 
 ---
 

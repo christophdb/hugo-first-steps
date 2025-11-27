@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 seo:
     title: 'Partager un dataset commun avec un autre groupe'
-    description: 'Autorisez un autre groupe à accéder à un dataset partagé dans SeaTable : guide de gestion, synchronisation et arrêt des droits en toute sécurité.'
+    description: 'Partagez un enregistrement partagé SeaTable avec un autre groupe : contrôlez l’accès, activez la synchronisation et comprenez les effets.'
 
 ---
 

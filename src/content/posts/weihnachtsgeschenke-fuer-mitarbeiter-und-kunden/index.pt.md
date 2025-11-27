@@ -11,8 +11,8 @@ url: '/pt/presentes-natal-para-colaboradores-e-clientes'
 aliases:
     - /pt/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
-    title:
-    description:
+    title: 'Prendas de Natal para empregados e clientes - 24 ideias'
+    description: 'Qual é o presente de Natal perfeito para colaboradores e clientes? Este artigo mostra ideias, tendências e exemplos práticos de presentes.'
 ---
 
 O Natal está à porta e gostaria de oferecer aos seus empregados, parceiros comerciais ou clientes um pequeno presente como sinal do seu **apreço**. Mas quais são as prendas de Natal adequadas para funcionários e clientes? É necessária uma grande quantidade de ideias e um instinto seguro! Neste artigo, pode descobrir quais os **presentes de Natal** que farão as delícias dos seus empregados e clientes e qual o **orçamento** que pode esperar.

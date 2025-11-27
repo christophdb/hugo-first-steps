@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/reimport-von-gemeinsamen-datensaetzen'
 seo:
     title: 'Réimporter des jeux de données partagés dans SeaTable'
-    description: 'Apprenez à reconnecter des jeux de données partagés après copie ou restauration d’une base SeaTable. Suivez les étapes et comprenez les effets du réimport.'
+    description: 'Découvrez comment reconnecter et synchroniser des enregistrements partagés dans SeaTable après copie ou restauration d’une base et vérifier les impacts.'
 
 ---
 

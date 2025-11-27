@@ -10,7 +10,7 @@ aliases:
     - '/help/reimport-von-gemeinsamen-datensaetzen'
 seo:
     title: 'Reimport shared datasets in SeaTable tables'
-    description: 'Learn how to restore the connection with shared datasets in SeaTable after copying or snapshot restoration. Reimport and resynchronize your tables easily and securely.'
+    description: 'Learn how to reconnect and synchronize shared records in SeaTable after copying or restoring a base and how to check possible impacts.'
 
 ---
 

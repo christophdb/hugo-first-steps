@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/filter-regeln-mit-und-und-oder-verknuepfen'
 seo:
     title: 'Regras de filtro AND e OR no SeaTable: lógica, grupos e exemplos'
-    description: 'Veja como aplicar regras de filtro com operadores AND/OR e grupos no SeaTable, restringindo visualizações e realizando análises em bases de dados complexas.'
+    description: 'Combine condições de filtro no SeaTable com regras AND/OR ou grupos de filtros, restrinja visualizações e analise dados complexos.'
 ---
 
 Ao [filtrar entradas numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), também é possível criar **várias regras de filtragem** para refinar as condições e restringir ainda mais as entradas aplicáveis. É feita aqui uma distinção entre a **ligação E** e a **ligação OU**. Também é possível utilizar **grupos de filtros** para combinar as ligações lógicas E/Or.

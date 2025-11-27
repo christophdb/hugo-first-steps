@@ -10,7 +10,7 @@ aliases:
     - '/help/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 seo:
     title: 'Share shared dataset with another group in SeaTable'
-    description: 'Grant access to a shared dataset for another group in SeaTable, manage permissions, and see what happens after access removal. Step-by-step instructions included.'
+    description: 'Share a shared record in SeaTable with another group: control access, enable synchronization and understand the consequences.'
 
 ---
 

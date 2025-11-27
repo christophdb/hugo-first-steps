@@ -11,8 +11,8 @@ url: '/christmas-gifts-for-employees-and-clients'
 aliases:
     - /weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
-    title:
-    description:
+    title: 'Christmas gifts for employees and customers - 24 ideas'
+    description: 'What is the perfect Christmas gift for employees and customers? This article reveals ideas, trends and concrete gift examples.'
 ---
 
 Christmas is just around the corner and you would like to give your employees, business partners or customers a small gift as a token of your **appreciation**. But what could be suitable Christmas gifts for employees and customers? A wealth of ideas and a sure instinct are required! In this article, you can find out which **Christmas gifts** will delight your employees and customers and what **budget** you can expect.

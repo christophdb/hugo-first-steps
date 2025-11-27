@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/schritt-8-quiz'
 seo:
     title: 'Etapa 8: Quiz – Teste seu conhecimento SeaTable'
-    description: 'Conclua o tutorial com um quiz de 12 perguntas sobre SeaTable. Repita o teste quanto quiser até acertar pelo menos 10 respostas e avançar no curso.'
+    description: 'No final do tutorial há um quiz com 12 perguntas sobre o SeaTable. Teste seu conhecimento e repita até acertar 10 respostas.'
 
 ---
 

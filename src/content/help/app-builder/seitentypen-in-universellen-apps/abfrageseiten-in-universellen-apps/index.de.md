@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/abfrageseiten-in-universellen-apps'
 seo:
     title: 'Abfrageseiten in Universellen Apps nutzen'
-    description: 'Durchsuchen und filtern Sie große Datensätze in Universellen Apps gezielt nach Werten. Definieren Sie Filter, Sortierungen und Abfragefelder für individuelle Ergebnisse.'
+    description: 'Durchsuchen und filtern Sie große Datensätze in Universellen Apps gezielt nach Werten: Filter, Sortierungen und Abfragefelder für individuelle Ergebnisse.'
 
 ---
 

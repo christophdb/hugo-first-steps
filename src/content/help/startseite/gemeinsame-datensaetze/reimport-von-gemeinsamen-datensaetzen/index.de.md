@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/reimport-von-gemeinsamen-datensaetzen'
 seo:
     title: 'Reimport von gemeinsamen Datensätzen in SeaTable'
-    description: 'Erfahren Sie, wie Sie die Verbindung zu gemeinsamen Datensätzen nach Kopie oder Wiederherstellung einer Base wiederherstellen, synchronisieren und mögliche Folgen prüfen.'
+    description: 'Erfahren Sie, wie Sie nach Kopie oder Wiederherstellung einer Base gemeinsame Datensätze in SeaTable neu verknüpfen, synchronisieren und prüfen.'
 
 ---
 

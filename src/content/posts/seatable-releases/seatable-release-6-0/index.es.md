@@ -1,6 +1,6 @@
 ---
 title: 'SeaTable 6.0: El no-código se vuelve inteligente'
-description: 'SeaTable 6.0 combina los puntos fuertes del no-código y de la inteligencia artificial. Experimente las nuevas funciones de IA, el editor rediseñado para las reglas de automatización, los nuevos tipos de vista Calendario, Kanban y Galería, así como el nuevo tipo de columna Número de teléfono.'
+description: 'SeaTable 6.0 une no‑code y IA: nuevas funciones de IA, editor de automatización renovado, vistas de calendario, Kanban y galería y columna de teléfono.'
 date: 2025-11-04
 author: 'rdb'
 url: '/es/seatable-release-6-0'
