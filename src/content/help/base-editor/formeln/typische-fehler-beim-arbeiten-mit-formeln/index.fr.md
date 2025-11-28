@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/typische-fehler-beim-arbeiten-mit-formeln'
 seo:
     title: 'Erreurs fréquentes avec les formules dans SeaTable'
-    description: 'Identifiez et corrigez les erreurs courantes de formules SeaTable : guillemets, parenthèses, virgules et références pour des calculs exacts et sans souci.'
+    description: 'Identifiez et corrigez les erreurs fréquentes dans les formules SeaTable : placez correctement guillemets, parenthèses, virgules et références.​'
 
 ---
 

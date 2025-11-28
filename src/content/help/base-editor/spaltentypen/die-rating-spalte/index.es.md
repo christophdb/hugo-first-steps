@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/die-rating-spalte'
 seo:
     title: 'Columna de puntuación SeaTable: guía completa'
-    description: 'Añada una columna de valoración: elija icono, escala 1–10 y valor por defecto. Perfecta para encuestas, priorización y evaluaciones visuales rápidas.'
+    description: 'Use la columna de valoración para evaluaciones en tablas con símbolos, escalas del 1 al 10 y valor predeterminado. Ideal para rankings y feedback.'
 
 ---
 

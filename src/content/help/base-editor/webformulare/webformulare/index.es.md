@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/webformulare'
 seo:
     title: 'Formularios web SeaTable: creación, personalización y uso sencillo'
-    description: 'Descubre cómo crear y compartir formularios web en SeaTable para facilitar la recopilación de datos de equipos y usuarios externos sin necesidad de cuenta.'
+    description: 'Formularios web en SeaTable: cree, configure y pruebe formularios para captar datos fácilmente de usuarios internos y externos.'
 ---
 
 Los **formularios web** son la herramienta elegida para que los miembros del equipo y terceros externos introduzcan nuevos registros en sus tablas. Los usuarios acceden a un formulario a través de un **enlace**, por lo que **no** es necesario compartir la tabla. Por lo tanto, los formularios web son especialmente adecuados para la introducción de datos por parte de un gran número de **personas dentro y fuera de su equipo**.

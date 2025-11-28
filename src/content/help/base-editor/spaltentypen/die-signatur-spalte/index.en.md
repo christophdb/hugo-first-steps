@@ -10,7 +10,7 @@ aliases:
     - '/help/die-signatur-spalte'
 seo:
     title: 'Signature column: store digital signatures in SeaTable'
-    description: 'Use the signature column in SeaTable to capture, save and manage digital signatures as PNG files. Signatures can be edited anytime or deleted in file management.'
+    description: 'Use the signature column in SeaTable to capture digital signatures and manage them as PNG files directly in the base file manager.'
 
 ---
 

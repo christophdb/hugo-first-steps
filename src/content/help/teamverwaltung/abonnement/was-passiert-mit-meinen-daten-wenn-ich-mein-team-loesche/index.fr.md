@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 seo:
     title: 'Suppression d’une équipe dans SeaTable : quelles conséquences sur vos données ?'
-    description: 'Découvrez tout ce qu’implique la suppression d’une équipe : effacement définitif, précautions à prendre, sécurité des comptes et points sur la confidentialité.'
+    description: 'Que deviennent comptes et données lors de la suppression d’une équipe SeaTable ? Suppression définitive, conseils d’export et confidentialité.'
 ---
 
 Les administrateurs d'équipe ont la possibilité de supprimer leur équipe dans SeaTable via l'administration d'équipe.  

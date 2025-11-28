@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/typische-fehler-beim-arbeiten-mit-formeln'
 seo:
     title: 'Errores comunes de fórmulas en SeaTable: solución'
-    description: 'Descubra y corrija los errores habituales en fórmulas SeaTable: comillas, paréntesis, comas y referencias de columnas para cálculos sin problemas ni errores.'
+    description: 'Identifique y corrija errores comunes en fórmulas de SeaTable: use bien comillas, paréntesis, comas y referencias de columnas.'
 
 ---
 

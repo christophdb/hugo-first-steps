@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/typische-fehler-beim-arbeiten-mit-formeln'
 seo:
     title: 'Principais erros com fórmulas no SeaTable: soluções'
-    description: 'Veja como evitar os principais erros com fórmulas SeaTable: aspas, parênteses, vírgulas e referências de coluna para cálculos corretos e sem falhas.'
+    description: 'Identifique e corrija erros comuns em fórmulas do SeaTable: use corretamente aspas, parênteses, vírgulas e referências de colunas.​'
 
 ---
 

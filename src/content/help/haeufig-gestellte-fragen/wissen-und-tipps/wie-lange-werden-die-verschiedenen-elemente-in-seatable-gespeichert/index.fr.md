@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
 seo:
     title: 'Quelle durée de stockage des données, logs et notifications dans SeaTable ?'
-    description: 'Découvrez combien de temps SeaTable conserve vos logs, activités, notifications et snapshots selon votre abonnement et les règles de confidentialité.'
+    description: 'Découvrez la durée minimale de conservation des logs (14j), activités (7j), notifications (30j) et instantanés (selon abonnement).'
 ---
 
 Bien entendu, SeaTable conserve de manière permanente les données que vous avez saisies. En même temps, il y a certaines informations qui ne sont pas conservées de manière permanente par SeaTable. Dans ce cas, un nettoyage de la journalisation a lieu régulièrement. La liste suivante vous donne un aperçu de la durée minimale de stockage des différents éléments dans SeaTable.

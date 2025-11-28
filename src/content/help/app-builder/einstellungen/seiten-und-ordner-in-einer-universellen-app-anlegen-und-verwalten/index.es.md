@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 seo:
     title: 'Gestione páginas y carpetas en Apps Universales'
-    description: 'Cree, mueva y elimine páginas y carpetas en las Apps Universales de SeaTable. Organice datos y navegación de forma estructurada para todos sus usuarios.'
+    description: 'Cree, mueva y elimine páginas y carpetas en Apps Universales para organizar datos y navegación en su app SeaTable.'
 
 ---
 

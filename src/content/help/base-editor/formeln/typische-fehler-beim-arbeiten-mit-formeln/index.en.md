@@ -10,7 +10,7 @@ aliases:
     - '/help/typische-fehler-beim-arbeiten-mit-formeln'
 seo:
     title: 'Common formula errors in SeaTable: avoid pitfalls'
-    description: 'Spot and fix frequent errors in SeaTable formulas: use quotes, brackets, commas and column references correctly to prevent issues and write error-free calculations.'
+    description: 'Identify and fix common errors in SeaTable formulas: correctly place quotation marks, brackets, commas and column references.'
 
 ---
 

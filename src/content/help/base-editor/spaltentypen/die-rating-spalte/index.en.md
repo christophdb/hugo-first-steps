@@ -10,7 +10,7 @@ aliases:
     - '/help/die-rating-spalte'
 seo:
     title: 'The rating column in SeaTable: tutorial & options'
-    description: 'Set up, use, and adjust the rating column in SeaTable: choose symbol, scale (1–10), and default. Perfect for rankings, evaluation and quick qualitative feedback.'
+    description: 'Use the rating column for table evaluations with symbols, scales from 1 to 10 and default values. Ideal for rankings and feedback.'
 
 ---
 

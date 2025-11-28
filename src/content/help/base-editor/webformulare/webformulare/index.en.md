@@ -10,7 +10,7 @@ aliases:
     - '/help/webformulare'
 seo:
     title: 'SeaTable Webforms: Create, Customize and Share for Easy Data Entry'
-    description: 'Learn how to create, customize, and share SeaTable webforms for simple and secure data collection from team members and external users. Step-by-step guide included.'
+    description: 'Web forms in SeaTable: Create, configure and test forms to easily collect data from internal and external users.'
 ---
 
 **Web forms** are the tool of choice for letting team members and external third parties enter new records into your tables. Users access a form via a **link**, so there's **no** need to share the table. As a result, web forms are especially useful for data entry by large numbers of **people inside and outside your team**.

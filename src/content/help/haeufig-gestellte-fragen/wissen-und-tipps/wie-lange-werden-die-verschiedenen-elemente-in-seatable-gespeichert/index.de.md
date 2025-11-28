@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
 seo:
     title: 'Wie lange speichert SeaTable Daten, Logs, Benachrichtigungen & Snapshots?'
-    description: 'Erfahren Sie die Mindestaufbewahrungszeit für Logs, Aktivitäten, Benachrichtigungen und Snapshots: SeaTable speichert alle wichtigen Elemente nach Abo und Datenschutz.'
+    description: 'Erfahren Sie die Mindestaufbewahrungszeit für Logs (14 Tage), Aktivitäten (7 Tage), Benachrichtigungen (30 Tage) und Snapshots (Abo-abhängig).'
 ---
 
 Selbstverständlich speichert SeaTable die von Ihnen eingegebenen Daten dauerhaft ab. Gleichzeitig gibt es aber gewisse Informationen, die nicht dauerhaft von SeaTable aufbewahrt werden. Hier findet eine regelmäßige Bereinigung des Loggings statt. Die folgende Liste gibt Ihnen einen Überblick über die Mindest-Speicherzeit der verschiedenen Elemente in SeaTable an.

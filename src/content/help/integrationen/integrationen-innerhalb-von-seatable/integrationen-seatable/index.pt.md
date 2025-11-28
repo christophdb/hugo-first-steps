@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/integrationen-seatable'
 seo:
     title: 'Integrações SeaTable: API, webhooks, automação e plugins'
-    description: 'Conecte o SeaTable via REST API, webhooks, scripts, email, Zapier, Make e plugins. Unifique fluxos de dados, otimize processos e integre qualquer ferramenta.'
+    description: 'Conheça todas as integrações do SeaTable: API REST, webhooks, JS/Python, e-mail, Zapier, Make e plugins próprios para fluxos eficientes.'
 ---
 
 As integrações alargam a forma como se pode trabalhar e interagir com o SeaTable. Por exemplo, as integrações permitem-lhe aceder aos seus dados dentro da SeaTable com outras ferramentas e soluções de software, ou pode conceber fluxos de trabalho que automatizam determinados passos. Alternativamente, pode desenvolver as suas próprias aplicações ou programas que utilizam SeaTable como backend.

@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/alle-plugins-in-der-uebersicht'
 seo:
     title: 'Plugins de SeaTable: todas las extensiones y usos explicados'
-    description: 'Descubre los principales plugins de SeaTable: calendario, galería, kanban, mapas, whiteboard, SQL, organigrama y relaciones. Cómo instalarlos y sacarles el máximo partido.'
+    description: 'Todos los plugins de SeaTable: calendario, galería, Kanban, pizarra, SQL, mapa, organigrama y relaciones – funciones, ventajas y consejos.'
 ---
 
 **Los plugins** de SeaTable le ofrecen la oportunidad de ver sus datos desde una perspectiva completamente diferente. Visualice citas, tareas y ubicaciones, y cree documentos diagramados y perfiles a partir de sus datos. En el siguiente artículo le explicamos qué plugins están disponibles en SeaTable y cómo puede utilizarlos.

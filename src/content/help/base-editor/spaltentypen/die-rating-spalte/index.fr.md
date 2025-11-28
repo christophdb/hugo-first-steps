@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/die-rating-spalte'
 seo:
     title: 'Colonne de notation SeaTable : explications & astuces'
-    description: 'Paramétrez et exploitez la colonne de notation : icône, barème 1–10, valeur par défaut. Classements et évaluations claires pour tous les projets d’équipe.'
+    description: 'Utilisez la colonne de notation pour évaluer vos tableaux avec symboles, échelles de 1 à 10 et valeur par défaut. Idéal pour classements et avis.'
 
 ---
 
