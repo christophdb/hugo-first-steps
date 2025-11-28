@@ -1,16 +1,17 @@
 ---
-title: 'Detener automatizaciones'
+title: 'Pausar automatizaciones'
 date: 2023-01-27
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/pausar-automatizaciones-seatable'
 aliases:
     - '/es/ayuda/automationen-stoppen'
 seo:
     title: 'Pausar y reactivar las automatizaciones SeaTable: gestión sencilla para empresas'
     description: 'Descubre cómo pausar y volver a activar las automatizaciones en SeaTable Enterprise para controlar flujos sin perder configuraciones ni datos importantes.'
+weight: 9
 ---
 
 {{< required-version "Empresa" >}}
@@ -19,16 +20,20 @@ Si ya no desea ejecutar automatizaciones durante un determinado periodo de tiemp
 
 ## Detener temporalmente las automatizaciones
 
-1. Abra una **tabla** en la que desee pausar una automatización activa.
-2. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
-3. Sitúe el puntero del ratón sobre la regla de automatización correspondiente y haga clic en el **símbolo de pausa** situado en el extremo derecho {{< seatable-icon icon="dtable-icon-paused" >}}.
+1. Abra una **Base** en la que desee pausar una automatización activa.
+2. En la cabecera de la base, haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y después en **Reglas de automatización**.
+3. Mueva el puntero del ratón sobre la regla de automatización correspondiente, haga clic en los tres puntos y, a continuación, en {{< seatable-icon icon="dtable-icon-paused" >}} **Pausar regla** .
 
-La regla de automatización seleccionada se **pone en pausa**. Puede reconocerlo por la nota **(pausa**) que se añade en rojo al nombre de la automatización y por el hecho de que el símbolo de pausa cambia a un **símbolo de reproducción** {{< seatable-icon icon="dtable-icon-implement" >}}.
+![Pausar regla de automatización](images/pause-automation-rule.gif)
 
-{{< warning  headline="Nota importante"  text="Las automatizaciones en pausa dejan **de** estar activas hasta que se reactivan. Esto significa que los eventos desencadenantes definidos ya **no** desencadenan acciones automáticas." />}}
+La regla de automatización seleccionada queda **pausada**. Puede reconocerlo por la nota **(pausado)**, que se añade al nombre de la automatización en rojo.
 
-## Volver a activar las automatizaciones
+{{< warning type="warning" headline="Nota importante" text="Las automatizaciones pausadas **dejan de estar activas** hasta que se reinician. Esto significa que los eventos de activación definidos **ya no** desencadenan acciones automatizadas." />}}
 
-Para **reactivar** las automatizaciones en pausa, basta con seguir los pasos ya descritos anteriormente y hacer clic en el **icono de reproducción** {{< seatable-icon icon="dtable-icon-implement" >}}.
+## Reiniciar automatizaciones
 
-La nota **(en pausa** ) a la derecha del nombre de la automatización desaparece de nuevo y vuelve a aparecer el **símbolo de pausa**.
+Para **activar** de nuevo las automatizaciones pausadas, sólo tiene que seguir los pasos descritos anteriormente y hacer clic en {{< seatable-icon icon="dtable-icon-implement" >}} **Iniciar regla** .
+
+![Reiniciar regla de automatización](images/start-automation-rule.gif)
+
+El aviso **(pausado)** a la derecha del nombre de la automatización vuelve a desaparecer.

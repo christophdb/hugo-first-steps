@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Limite de execução para automações no SeaTable'
     description: 'Veja como funciona o limite de 50 execuções por minuto nas automações do SeaTable e otimize o seu fluxo de trabalho.'
+weight: 7
 ---
 
 Trabalha com [automatismos]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) na sua base que são accionados por entradas novas ou alteradas? Então, tenha em atenção o seguinte: Se adicionar ou alterar mais de 50 registos por minuto, pode acontecer que as [acções de automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) pretendidas não sejam iniciadas. A razão para isso é o limite de execução das automatizações.
@@ -29,6 +30,6 @@ Cada automatização consome recursos do sistema, ou seja, demasiadas automatiza
 
 {{< warning  headline="Circuitos de automatização" >}}
 
-O SeaTable detecta e pára os **loops de automatização** - automatizações que se reiniciam porque a ação desencadeada corresponde ao seu [desencadeador]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Por exemplo, a automatização 'Adicionar uma nova linha (ação) quando uma nova linha é adicionada (acionador)' irá parar depois de ser executada uma vez.
+SeaTable detecta e pára os **loops de automatização** – automatizações que se reiniciam porque a ação desencadeada corresponde ao seu [desencadeador]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Por exemplo, a automatização 'Adicionar uma nova linha (ação) quando uma nova linha é adicionada (acionador)' irá parar depois de ser executada uma vez.
 
 {{< /warning >}}

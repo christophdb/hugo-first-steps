@@ -1,16 +1,17 @@
 ---
 title: 'Показать журнал выполнения автоматизации'
 date: 2023-01-26
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/ru/pomoshch/zhurnal-avtomatizacii-seatable'
 aliases:
     - '/ru/pomoshch/ausfuehrungslog-einer-automation-anzeigen'
 seo:
     title: 'Журнал работы автоматизаций в SeaTable: проверить статус, время и ошибки'
     description: 'Узнайте, как просматривать журнал срабатывания автоматизаций SeaTable Enterprise и анализировать время запуска, условия, успехи и возникающие ошибки.'
+weight: 8
 ---
 
 {{< required-version "Предприятие" >}}
@@ -21,11 +22,15 @@ seo:
 
 ## Чтобы взглянуть на журнал выполнения
 
+![Показать журнал выполнения](images/open-automation-log.jpg)
+
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Наведите указатель мыши на **правило автоматизации**, журнал которого вы хотите просмотреть.
-3. Нажмите на **журнал выполнения** {{< seatable-icon icon="dtable-icon-journal" >}}.
+3. Нажмите на **три точки**, а затем на {{< seatable-icon icon="dtable-icon-journal">}} **Открыть журнал**.
 
 ## Структура журнала исполнения
+
+![Структура журнала](images/structure-of-an-automation-log.jpg)
 
 В журнале выполнения автоматизации можно просмотреть следующую информацию:
 

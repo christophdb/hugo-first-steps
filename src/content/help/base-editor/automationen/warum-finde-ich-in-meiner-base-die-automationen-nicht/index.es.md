@@ -1,5 +1,5 @@
 ---
-title: '¿Por qué no encuentro las automatizaciones en mi base? - Mesa de mar'
+title: '¿Por qué no encuentro las automatizaciones en mi base?'
 date: 2023-01-27
 lastmod: '2023-02-01'
 categories:

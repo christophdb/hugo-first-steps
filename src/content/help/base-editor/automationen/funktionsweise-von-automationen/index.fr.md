@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Fonctionnement des automatisations dans SeaTable'
     description: 'Automatisez vos processus dans SeaTable : paramétrez des déclencheurs, conditions et actions pour rendre vos flux de travail fluides et fiables au quotidien.'
-
+weight: 4
 ---
 
 {{< required-version "Entreprise" >}}

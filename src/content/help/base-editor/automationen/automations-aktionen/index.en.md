@@ -1,17 +1,17 @@
 ---
 title: 'Automation Actions'
 date: 2023-01-27
-lastmod: '2024-02-12'
+lastmod: '2025-11-11'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/help/automation-actions-seatable'
 aliases:
     - '/help/automations-aktionen'
 seo:
     title: 'Automation actions in SeaTable: full list and options'
     description: 'See every automation action in SeaTable Enterprise: send emails, add or lock rows, notifications, scripts, data processing and useful use cases.'
-
+weight: 6
 ---
 
 {{< required-version "Enterprise" >}}
@@ -20,163 +20,211 @@ seo:
 
 ## Available automation actions
 
-The latest version of SeaTable offers a total of **eleven** different automation actions to choose from:
+The latest version of SeaTable offers a total of 13 different automation actions to choose from:
 
 - Send notification
 - Send app notification
 - Send e-mail
-- Addrow
-- Lock entry
-- Edit entry
+- Add record
+- Lock record
+- Modify record
 - Add links
-- Add new entry in other table
-- Convert page to PDF
+- Add record to another table
 - Run Python script
-- Execute data processing operation
+- Run AI
+- Run data processing
+- Convert page to PDF
+- Generate PDF from document and send
 
+## Add, duplicate, move and delete automation actions
+
+To add an action, click on **the large button with the plus symbol** and select the corresponding action from the drop-down list. Please note that the available actions differ depending on the trigger.
+
+![Add automation actions](images/automated-actions.jpg)
+
+If you have already set up more complex actions, such as sending e-mails, data processing or AI functions, you can also duplicate these. Simply click on the **three dots** and then on **Duplicate**. This means you only have to make minor adjustments to these actions and saves you a lot of time.
+
+![duplicate automation actions](images/duplicate-automated-actions.jpg)
+
+The order of the actions can be easily changed **by drag-and-drop**. Move the mouse pointer over an action box, hold down the left mouse button on the **six-point drag area** and move the action to the desired position. This allows you to flexibly adapt the automation sequence.
+
+![Move automation actions](images/move-automated-actions.gif)
+
+Of course, you can also delete actions that are no longer required. To do this, click on the **three dots** and then on **Delete**. Please note that the automated actions are removed **immediately and permanently** and cannot be restored.
+
+![Delete automated actions](images/delete-automated-actions.gif)
 
 ## Automation action: Send notification
 
-By defining "Send notification" as an automated action, you can set a notification to one or more users. The selected users receive a **notification** each time the corresponding **trigger** is **triggered**.
+By defining "Send notification" as an automated action, you can set a notification to one or more users. The selected users will receive a **notification** each time the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
 
-You can edit the **recipients** and **content** of the notifications at any time in the automation **settings**. For the recipients, you can select individual users or users in a specific column of the type employee, creator or last editor.
+You can edit the **recipients** and **content** of the notifications at any time in the **settings** of the action. For the recipients, you can specifically select **individual users** or users in a specific column of the type [Collaborator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creator]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) or [Last modifier]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}). Write the desired message in the text field and work with column references in curly brackets to insert specific values.
 
-Users can access their notifications via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell icon** next to their avatar in the top right-hand corner.
+![Send notification via automation](images/send-notification-action-settings.jpg)
 
+Users can check their notifications via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell icon** next to their avatar in the top right corner.
 
-The automation action "Send notification" is currently available for the following **automation triggers**:
+![Incoming notification](images/example-action-notification.png)
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger
-- Periodic trigger for entries that meet a certain condition
-
-The article [Sending notifications via automation]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) plays through this automation using a concrete use case.
+The article [Send notifications via automation]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) goes through this automation using a specific use case.
 
 ## Automation action: Send app notification
 
-By defining "Send app notification" as an automated action, you can set a notification to one or more users of an app. The selected users receive a **notification** in the app each time the corresponding **trigger is triggered**.
+By defining "Send app notification" as an automated action, you can set a notification to one or more users of an app. The selected users will receive a **notification** in the app each time the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
 
-In the automation **settings**, you can define which **app** and which **recipients** the notifications should be sent to. For the recipients, you can specifically select individual users or users in a certain column of the type employee, creator or last editor. Enter the desired **content** of the notification in the text field.
+In the **settings** of the action, you can define which **app** and which **recipients** the notifications should be sent to. For the recipients, you can specifically select **individual app users** or notify users in a specific column of the type **Collaborator, Creator or Last modifier**. Write the desired **content** of the notification in the text field. Use column references in curly brackets to insert specific values.
 
-Users of the respective app can access their notifications via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell icon** next to their avatar in the top right-hand corner.
+![Send app notification via automation](images/send-app-notification-action-settings.jpg)
 
-The "Send app notification" automation action is currently available for the following **automation triggers**:
+The users of the respective app can check their notifications via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell icon** next to their avatar in the top right-hand corner.
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger
-- Periodic trigger for entries that meet a certain condition
+![Check notifications in the app](images/check-app-notifications.jpg)
 
-## Automation action: Send e-mail
+## Automation action: Send email
 
-By defining "Send email" as an automated action, you can send predefined emails to one or more users. SeaTable sends an **email** to each selected user as soon as the corresponding **trigger** is **triggered**. You can edit the recipient, subject, content and attachments of the email at any time in the automation **settings**.
+By defining "Send email" as an automated action, you can send predefined e-mails to one or more users. SeaTable sends an **e-mail** to each selected user as soon as the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
 
+You can edit the **e-mail account**, **subject**, **recipient**, **message** and **attachments** of the e-mail at any time in the **settings** of the action. Use column references in curly brackets to insert certain values into text fields.
 
-The automation action "Send e-mail" is currently available for the following **automation triggers**:
+![definition of the automation action: Send email](images/send-email-action-settings.jpg)
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger
-- Periodic trigger for entries that meet a certain condition
+The article [Sending e-mails via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) runs through this automation using a specific use case.
 
-The article [Email Sending by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) plays through this automation using a concrete use case.
+## Automation action: Add record
 
-## Automation Action: Add row
+If you define "Add record" as an automated action, a **new row** is inserted into the table each time the corresponding trigger is triggered. You can define the exact values for each column individually in advance.
 
-If you define "Addrow " as an automated action, a **new entry** is added to the table as soon as the corresponding **trigger** is activated. You can define the exact **content** of the entry individually for each column in advance.
+![Automation action: Add row](images/add-record-action-settings.jpg)
 
+The "Add record" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+- At a scheduled time
 
-The automation action "row add" is currently available for the following **automation triggers**:
+The article [Add rows via automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) runs through this automation using a specific use case.
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger
+## Automation action: Lock record
 
-The article [rows add by automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) plays through this automation using a concrete use case.
+If you define "Lock record" as an automated action, the **row** that triggered the automation is locked for editing. You cannot make any further settings for this action – you configure the conditions for the row lock in the **trigger settings**. Please note that you cannot **unlock** locked rows without administrator rights.
 
-## Automation action: Lock entry
+![definition of the automation action: Locking a record in the table](images/lock-record-action.jpg)
 
-If you define "Lock entry" as an automated action, the **row** with the entry that triggered the automation is **locked** for editing. Please note that you can **no** longer **unlock** locked rows without administrator rights.
+![Locking a record in a table triggered by an automation](images/example-locked-records.jpg)
 
+The "Lock record" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+- At a scheduled time for records that match conditions
 
-The automation action "Lock entry" is currently available for the following **automation triggers**:
+The article [Lock rows via automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) runs through this automation using a specific use case.
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger for entries that meet a certain condition
+## Automation action: Modify record
 
-The article [rows Locking via Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) runs through this automation using a concrete use case.
+If you select "Modify record" as an automated action, **rows** in the table are adjusted according to the previously defined **settings** after the trigger is triggered. You can define a value for each column that the rows automatically adopt after the modification.
 
-## Automation action: Edit entry
+![Automation action: Modify record](images/modify-record-action-settings.jpg)
 
-If you select "Edit entry" as an automated action, **entries** in the table are adjusted according to the **settings** defined in advance after the **trigger is triggered**. As can be seen in the screenshot, for example, the start date of a new employee who is entered in the table can be automatically set to today's date.
-
-
-The "Edit entry" automation action is currently available for the following **automation triggers**:
-
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger for entries that meet a certain condition
+The "Modify record" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+- At a scheduled time for records that match conditions
 
 ## Automation action: Add links
 
-If you select "Add links" as an automated action, a link [to entries in another table]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the **trigger is triggered**. In the automation rule **settings**, you can specify exactly under which conditions which link is added to the table.
+If you select "Add links" as an automated action, a [link to other records]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the trigger is triggered. In the **settings** of the action, you can specify exactly under which conditions which link is added to the table.
 
-The Add Links automation action is currently available for the following **automation triggers**:
+![Automation action: Adding links](images/add-links-action-settings.jpg)
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger
+The "Add links" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+- At a scheduled time
 
-The article [Linking entries via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) plays through this automation using a concrete use case.
+The article [Link records via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) runs through this automation using a specific use case.
 
-## Automation action: Add new entry in other table
+## Automation action: Add record to another table
 
-If you select "Add new entry in another table" as an automated action, an **entry** is created in **another** table when the **trigger is triggered**. In the automation rule **settings**, you can define individual entries that are added to the selected tables as part of the automation.
+If you select "Add record to another table" as an automated action, a **row is created in another table** when the trigger is triggered. In the **settings** of the action, you can define individual values for each column that will be assigned to the rows in the selected table as part of the automation. You can also select columns of the same type in the source table to copy row entries to the other table.
 
+![Automation action: Add a row in another table](images/add-record-to-other-table-action-settings.jpg)
 
-The automation action "Add new entry in other table" is currently available for the following **automation triggers**:
+The "Add record to another table" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-
-The article [Adding Entries to Other Tables via Automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) runs through this automation using a concrete use case.
-
-## Automation action: Convert page to PDF
-
-If you select "Convert page to PDF" as an automated action, a PDF document is created from the data set and saved in a [file column]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). You can also define the **file name** in the automation rule settings.
-
-
-The "Convert page to PDF" automation action is currently available with the following **automation trigger**:
-
-- Periodic trigger for entries that meet a certain condition
+The article [Adding records to other tables via automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) runs through this automation using a specific use case.
 
 ## Automation action: Run Python script
 
-If you select the execution of a Python script as an automated action, SeaTable can execute a pre-defined **Python script** in the selected table. You can create or edit the script at any time in the [script editor]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) and then select it in the automation rule **settings**.
+If you select the execution of a Python script as an automated action, the trigger sets a previously defined **Python script** in motion. You can create or edit the script at any time in the [script editor]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) and then select it in the **settings** of the action.
 
-The Run Python Script automation action is currently available with the following **automation triggers**:
+![Automation action: Run Python script](images/run-python-script-action-settings.jpg)
 
-- When a new entry is added
-- Entries meet certain conditions after editing
-- Periodic trigger
+The "Run Python script" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+- At a scheduled time
 
-## Automation action: perform data processing operation
+## Automation action: Run AI
 
-If you select the execution of a data processing operation as an automated action, a [data processing operation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) defined in advance in the table is executed when the **trigger is triggered**. You can define the data processing operation to be executed in the automation rule **settings**.
+If you select the execution of an AI function as an automated action, the trigger calls up an **AI model** that executes a predefined action in the table. You can configure the exact action to be executed in the **settings**. Depending on the type of AI function, **input columns**, **output columns** and a **prompt** may be required.
 
+![definition of an automation action: Run AI](images/run-ai-action-settings.jpg)
 
-You can have the following **data processing operations** performed with automation:
+You can have the following **AI functions** executed with an automation:
 
+- **Summarize**: Summarizes the text from one or more columns. You can control the length, tone, format and language of the summary by customizing the prompt.
+- **Classify**: Classifies records from one or more columns. You can customize the categories and rules through the prompt. The result ends up in a [single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) or [multiple select column]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
+- **OCR**: Extracts text from an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). The recognized content is written to the result column of type [Text or Long text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+- **Extract**: Extracts specific information from a column of type text or number according to your requirement. The extracted information is written to the result columns.
+- **Custom**: Generates content based on your prompt. Use {column name} in curly brackets to insert the column value of a row.
 
-- [Calculate cumulative values]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
-- [Calculate ranking]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
-- [Calculate changes]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+![actions executable using an AI model](images/run-ai-functions.jpg)
+
+The "Run AI" automation action is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+- At a scheduled time
+
+## Automation action: Run data processing
+
+If you select the execution of a data processing operation as an automated action, the trigger initiates a predefined [data processing operation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) in the table. You can configure the exact action to be performed in the **settings**. Depending on the type of operation, **certain input and output columns** may be required.
+
+![definition of an automation action: Run data processing operation](images/run-data-processing-action-settings.jpg)
+
+You can have the following **data processing operations** executed with an automation:
+
+- [Calculate delta]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
 - [Calculate percentage]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Calculate rank]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Extract user name]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 - [Compare and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
-- [Transfer user name]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
-The "Execute data processing operation" automation action is currently available for the following **automation trigger**:
+![Data processing operations that can be executed using automation](images/run-data-processing-available-operations.jpg)
 
-- Periodic trigger
+The automation action "Run data processing" is currently available for the following **automation trigger**:
+- At a scheduled time
+
+## Automation action: Convert page to PDF
+
+If you select "Convert page to PDF" as an automated action, SeaTable will **create a PDF document from the record** when the trigger is triggered and save it in a [file column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}). To do this, select a **template** that you have previously created in the [Page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). You can also define the **file name** in the action settings.
+
+![Create PDF via automation](images/convert-page-to-pdf-action-settings.jpg)
+
+The "Convert page to PDF" automation action is currently available with the following **automation trigger**:
+- At a scheduled time for records that match conditions
+
+## Automation action: Generate PDF from document and send
+
+If you select "Generate PDF from document and send" as an automated action, SeaTable will **create a PDF document** when the trigger is triggered and save it in the [file management of the base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}). SeaTable can also send it directly by e-mail.
+
+In the **settings** of the action, select a **template** that you have previously created in the **Report design plugin** and assign a **file name**. Then activate the slider to select an **own folder** in which you would like to save the file. If you only want to generate the document, you can end the configuration at this point.
+
+![create and send PDF from a report design using automation](images/generate-pdf-from-document-action-settings.jpg)
+
+If you then want to send the generated document, activate the "Send to e-mail" slider. You can edit the **e-mail account**, **recipient**, **subject** and **message** of the email at any time in the **settings** of the action.
+
+![create and send PDF from a report design using automation](images/generate-pdf-from-document-and-send-action-settings.jpg)
+
+The automation action "Generate PDF from document and send" is currently available with the following **automation trigger**:
+- At a scheduled time

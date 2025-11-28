@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Como funcionam as automações no SeaTable?'
     description: 'Aprenda como configurar automações no SeaTable: defina triggers, condições e ações automáticas para aumentar a eficiência e reduzir tarefas manuais.'
-
+weight: 4
 ---
 
 {{< required-version "Empresa" >}}

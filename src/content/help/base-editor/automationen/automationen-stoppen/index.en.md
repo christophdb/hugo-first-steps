@@ -1,34 +1,39 @@
 ---
 title: 'Stop automations'
 date: 2023-01-27
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/help/pause-stop-automations-seatable'
 aliases:
     - '/help/automationen-stoppen'
 seo:
     title: 'Pause and Restart Automations in SeaTable: Step-by-Step Enterprise Guide'
     description: 'Learn how to pause and reactivate automations in SeaTable Enterprise without deleting rules—ensure business flexibility and continuity without losing settings.'
+weight: 9
 ---
 
 {{< required-version "Enterprise" >}}
 
-If you do not want to run automations for a certain period of time, you can **pause** them instead of [deleting]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) them. This has the advantage that you can simply **reactivate** paused automations, while you have to create deleted automations from scratch again.
+If you do not want to run automations for a certain period of time, you can **pause** them instead of [deleting]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) them. This has the advantage that you can simply **restart** paused automations, while you have to create deleted automations from scratch again.
 
 ## Temporarily stop automations
 
-1. Open a **table** where you want to pause an active automation.
-2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the base header and then click **Automation Rules**.
-3. Hover the mouse cursor over the corresponding automation rule and click the **pause icon** on the far right {{< seatable-icon icon="dtable-icon-paused" >}}.
+1. Open a **Base** in which you want to pause an active automation.
+2. In the base header, click on {{< seatable-icon icon="dtable-icon-rule" >}} and then on **Automation rules**.
+3. Move the mouse pointer over the corresponding automation rule, click on the three dots and then on {{< seatable-icon icon="dtable-icon-paused" >}} **Pause rule** .
 
-The selected automation rule is then **paused**. You can recognize this by the note **(paused)** added in red to the name of the automation and by the fact that the pause icon changes to a **play icon** {{< seatable-icon icon="dtable-icon-implement" >}}.
+![Pause automation rule](images/pause-automation-rule.gif)
 
-{{< warning  headline="Important note"  text="Paused automations are **no** longer active until they are reactivated. This means that defined trigger events **no** longer trigger automatic actions." />}}
+The selected automation rule is then **paused**. You can recognize this by the note **(paused)**, which is added to the name of the automation in red.
 
-## Re-enable automations
+{{< warning type="warning" headline="Important note" text="Paused automations are **no longer active** until they are restarted. This means that defined trigger events no longer trigger automated actions." />}}
 
-To **reactivate** paused automations, simply follow the steps already described above and click on the **Play icon** {{< seatable-icon icon="dtable-icon-implement" >}}.
+## Restart automations
 
-The note **(paused)** to the right of the automation name then disappears again and the **pause icon** returns.
+To **activate** paused automations again, simply follow the steps described above and click {{< seatable-icon icon="dtable-icon-implement" >}} **Start rule** .
+
+![Restart automation rule](images/start-automation-rule.gif)
+
+The **(paused)** note to the right of the automation name then disappears again.

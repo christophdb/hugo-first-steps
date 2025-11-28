@@ -29,6 +29,6 @@ Chaque automation consomme des ressources système, ce qui signifie qu'un trop g
 
 {{< warning  headline="Boucles d'automatisation" >}}
 
-SeaTable détecte et empêche **les boucles d'automation** - c'est-à-dire les automations qui se relancent d'elles-mêmes parce que l'action déclenchée correspond à leur [déclencheur]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Par exemple, l'automation 'Ajouter une nouvelle ligne (action) lorsqu'une nouvelle ligne est ajoutée (déclencheur)' se termine après avoir été exécutée une fois.
+SeaTable détecte et empêche **les boucles d'automation** – c'est-à-dire les automations qui se relancent d'elles-mêmes parce que l'action déclenchée correspond à leur [déclencheur]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Par exemple, l'automation 'Ajouter une nouvelle ligne (action) lorsqu'une nouvelle ligne est ajoutée (déclencheur)' se termine après avoir été exécutée une fois.
 
 {{< /warning >}}

@@ -1,32 +1,40 @@
 ---
 title: 'Aperçu des automatisations'
 date: 2023-01-31
-lastmod: '2023-03-21'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/fr/aide/automatisations-guide-seatable'
 aliases:
     - '/fr/aide/uebersicht-ueber-automationen'
 seo:
     title: 'Automatisations SeaTable : guide, fonctions et usages'
     description: 'Structurez et automatisez vos tâches dans SeaTable : déclencheurs, actions, gestion, logs et exemples d’automatisations réussir vos workflows.'
-
+weight: 1
 ---
 
 {{< required-version "Entreprise" >}}
 
-L'automatisation est une fonction utile de SeaTable qui vous aide à **automatiser les processus de travail**. Les automatisations vous permettent non seulement **de gagner du temps**, mais aussi de **réduire** le nombre d'**erreurs** humaines dans la gestion de vos données, car les étapes du processus exécutées automatiquement ne doivent plus être effectuées manuellement par un utilisateur.
+L'automatisation est une fonction utile de SeaTable qui vous aide à **automatiser les processus de travail**. Les automatisations vous permettent non seulement de **gagner du temps**, mais aussi de **réduire le nombre d'erreurs humaines** dans la gestion de vos données, car les étapes du processus exécutées automatiquement ne doivent plus être effectuées manuellement par un utilisateur.
 
 En conséquence, les automatisations déploient un effet particulièrement important dans les **ensembles de données volumineux**, dans lesquels elles peuvent traiter un grand nombre de processus de travail.
 
 L'article suivant a pour but de vous donner une vue d'ensemble sur le thème des automatisations dans SeaTable et contient des liens vers les différents articles d'aide concernant cette fonctionnalité.
 
-## Fonctionnement des automatisations
+## L'éditeur d'automatisation de SeaTable
 
-Cet article explique de manière basique comment fonctionnent les automations dans SeaTable et est donc approprié pour **débuter dans le domaine des automations**.
+Vous pouvez accéder à l'éditeur d'automatisation d'une base en cliquant sur l'icône correspondante dans l'en-tête de la base.
 
-Apprenez-en plus sur le fonctionnement des automatismes [ici]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}).
+![accès à l'éditeur d'automatisation](images/access-automation-editor.jpg)
+
+L'éditeur d'automatisation s'étend sur toute la largeur de la fenêtre et permet donc une mise en page claire : sur le côté gauche se trouve la **liste de toutes les règles d'automatisation existantes**. Passer d'une règle à l'autre se fait donc en un seul clic. Vous pouvez également y ajouter de nouvelles règles et gérer les règles existantes.
+
+![éditeur d'automatisation en action](images/automation-editor-in-action.gif)
+
+Dans la zone centrale, vous voyez la configuration de l'automation actuellement sélectionnée. Celle-ci se compose d'un **déclencheur** et d'une ou plusieurs **actions**. Les paramètres du déclencheur ou des actions s'affichent dynamiquement sur la droite, en fonction de l'élément sur lequel vous avez cliqué.
+
+Vous pouvez également réduire la liste des règles d'automatisation afin de libérer de l'espace dans la zone centrale. Un autre facteur de confort est la **hauteur variable du tableau de bord de l'éditeur**. Vous pouvez ainsi voir la vue, les noms des colonnes et les enregistrements pendant que vous travaillez sur une automatisation.
 
 ## Créer une automatisation
 
@@ -34,35 +42,17 @@ La première étape vers l'automatisation des processus de travail est la créat
 
 Apprenez [ici]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}) comment créer une automatisation.
 
-## Gérer et éditer des automatisations
+## Gérer des automatisations
 
 Vous pouvez bien sûr modifier après coup les automatisations actives déjà créées. Dans cet article, nous vous présentons les réglages que vous pouvez effectuer lors de l'automatisation de vos processus de travail.
 
 Apprenez-en plus sur la gestion des automatisations [ici]({{< relref "help/base-editor/automationen/automationen-verwalten-und-gruppieren" >}}).
 
-## Arrêter les automatisations
+## Fonctionnement des automatisations
 
-Les automatisations actives dont vous n'avez plus besoin pendant un certain temps peuvent être simplement mises en pause et réactivées si nécessaire.
+Cet article explique de manière basique comment fonctionnent les automations dans SeaTable et est donc approprié pour **débuter dans le domaine des automations**.
 
-Apprenez [ici]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}) comment arrêter les automatisations.
-
-## Supprimer des automatismes
-
-Vous pouvez également supprimer complètement les automatisations qui ne sont plus nécessaires de manière durable. Notez que vous ne pouvez pas restaurer les automatismes supprimés.
-
-Apprenez [ici]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) comment supprimer des automatisations.
-
-## Afficher le journal d'exécution d'une automatisation
-
-Pour vérifier l'exécution des automatisations, vous avez la possibilité d'afficher le journal d'exécution pour chaque règle d'automatisation. Celui-ci vous permet de consulter des informations sur chaque exécution d'automatisation.
-
-Apprenez-en plus [ici]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}) sur le log d'exécution d'une automatisation.
-
-## Pourquoi ne puis-je pas trouver les automations dans ma base ?
-
-Vous ne trouvez pas la fonction d'automatisation dans vos bases ? Cela a peut-être un rapport avec votre abonnement SeaTable.
-
-Découvrez [ici]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}) à quoi cela peut être dû.
+Apprenez-en plus sur le fonctionnement des automatismes [ici]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}).
 
 ## Déclencheur d'automatisation
 
@@ -75,6 +65,24 @@ Apprenez-en plus sur les déclencheurs d'automatisation [ici]({{< relref "help/b
 Les actions automatisées représentent la deuxième des deux composantes essentielles des automatisations. Les actions sont alors déclenchées par les événements déclencheurs définis. Selon le déclencheur, SeaTable peut exécuter différentes actions d'automatisation.
 
 Apprenez-en plus sur les actions d'automatisation [ici]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
+
+## Afficher l'historique d'exécution d'une automatisation
+
+Pour vérifier l'exécution des automatisations, vous avez la possibilité d'afficher l'historique d'exécution pour chaque règle d'automatisation. Celui-ci vous permet de consulter des informations sur chaque exécution d'automatisation.
+
+Apprenez-en plus [ici]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}) sur le log d'exécution d'une automatisation.
+
+## Arrêter les automatisations
+
+Les automatisations actives dont vous n'avez plus besoin pendant un certain temps peuvent être simplement mises en pause et réactivées si nécessaire.
+
+Apprenez [ici]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}) comment arrêter les automatisations.
+
+## Supprimer des automatisations
+
+Vous pouvez également supprimer complètement les automatisations qui ne sont plus nécessaires de manière durable. Notez que vous ne pouvez pas restaurer les automatismes supprimés.
+
+Apprenez [ici]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) comment supprimer des automatisations.
 
 ## Verrouiller des lignes par automatisation
 
@@ -105,3 +113,9 @@ Découvrez [ici]({{< relref "help/base-editor/automationen/beispiel-e-mail-versa
 Grâce à l'automatisation, vous ne devez plus relier manuellement les entrées de vos tableaux entre elles, mais vous pouvez faire en sorte que ces étapes soient effectuées automatiquement. Cela s'avère utile lorsque vous avez besoin de certaines données dans plusieurs tableaux.
 
 Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) comment lier des entrées par automatisation.
+
+## Pourquoi ne puis-je pas trouver les automations dans ma base ?
+
+Vous ne trouvez pas la fonction d'automatisation dans vos bases ? Cela a peut-être un rapport avec votre abonnement SeaTable.
+
+Découvrez [ici]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}) à quoi cela peut être dû.

@@ -1,34 +1,39 @@
 ---
-title: 'Parar as automatizações'
+title: 'Pausar as automatizações'
 date: 2023-01-27
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/pt/ajuda/pausar-reativar-automacoes-seatable'
 aliases:
     - '/pt/ajuda/automationen-stoppen'
 seo:
     title: 'Pausar ou reativar automações no SeaTable: tutorial para times Enterprise'
     description: 'Saiba pausar e restaurar automações em SeaTable sem precisar excluir regras, garantir continuidade e flexibilidade em processos críticos do seu time.'
+weight: 9
 ---
 
 {{< required-version "Empresa" >}}
 
-Se já não quiser executar as automatizações durante um determinado período de tempo, pode **fazer uma pausa** em vez de as [apagar]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Isto tem a vantagem de poder simplesmente **reactivar** as automatizações pausadas, enquanto que tem de criar automatizações apagadas do zero.
+Se já não quiser executar as automatizações durante um determinado período de tempo, pode **suspendê-las** em vez de as [apagar]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Isto tem a vantagem de poder simplesmente **reactivar** as automatizações pausadas, enquanto que tem de criar automatizações apagadas do zero.
 
 ## Parar temporariamente as automatizações
 
-1. Abrir uma **mesa** na qual se pretende fazer uma pausa numa automatização activa.
-2. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
-3. Mova o ponteiro do rato sobre a regra de automatização correspondente e clique no **símbolo de pausa** na extrema direita {{< seatable-icon icon="dtable-icon-paused" >}}.
+1. Abra uma **Base** na qual pretende colocar em pausa uma automatização ativa.
+2. No cabeçalho da base, clique em {{< seatable-icon icon="dtable-icon-rule" >}} e depois em **Regras de automatização**.
+3. Mova o ponteiro do rato sobre a regra de automatização correspondente, clique nos três pontos e depois em {{< seatable-icon icon="dtable-icon-paused" >}} **Pausar regra** .
 
-A regra de automatização seleccionada é então **pausada**. Pode reconhecer isto pela nota **(pausa)** que é acrescentada a vermelho ao nome da automatização e pelo facto de o símbolo de pausa mudar para um **símbolo de jogo** {{< seatable-icon icon="dtable-icon-implement" >}}.
+![Pausa na regra de automatização](images/pause-automation-rule.gif)
 
-{{< warning  headline="Nota importante"  text="As automatizações pausadas já **não** estão activas até serem reactivadas. Isto significa que os eventos de disparo definidos já **não** disparam acções automáticas." />}}
+A regra de automatização selecionada é então **pausada**. Pode reconhecer este facto pela nota **(parou)**, que é adicionada ao nome da automatização a vermelho.
 
-## Automatismos reutilizáveis
+{{< warning type="warning" headline="Nota importante" text="As automatizações em pausa já **não estão activas** até serem reiniciadas. Isto significa que os eventos de acionamento definidos **já não accionam** acções automatizadas." />}}
 
-Para **reactivar** as automatizações pausadas, basta seguir os passos já descritos acima e clicar no **ícone de jogo** {{< seatable-icon icon="dtable-icon-implement" >}}.
+## Reiniciar a automatização
 
-A nota **(pausada)** à direita do nome de automatização desaparece então novamente e o **símbolo de pausa** regressa.
+Para **ativar** novamente as automatizações em pausa, basta seguir os passos descritos acima e clicar em {{< seatable-icon icon="dtable-icon-implement" >}} **Reiniciar regra** .
+
+![Reiniciar regra de automatização](images/start-automation-rule.gif)
+
+O aviso **(parou)** à direita do nome da automatização desaparece novamente.

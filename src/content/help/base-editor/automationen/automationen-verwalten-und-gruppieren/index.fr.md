@@ -1,39 +1,61 @@
 ---
-title: 'Gérer et modifier les automatismes'
+title: "Gérer, regrouper et déplacer les règles d'automatisation"
 date: 2023-01-27
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/fr/aide/gerer-modifier-automatisations-seatable'
 aliases:
     - '/fr/aide/automationen-verwalten-und-bearbeiten'
 seo:
-    title: 'Gérer et modifier les automatisations SeaTable'
-    description: 'Gérez et modifiez vos automatisations existantes : ajustez déclencheurs, actions et vues pour optimiser les processus de vos bases SeaTable au quotidien.'
-
+    title: "Gérer, regrouper et déplacer les règles d'automatisation"
+    description: "Apprenez à gérer, regrouper ou déplacer facilement les règles d'automatisation existantes."
+weight: 3
 ---
 
 {{< required-version "Entreprise" >}}
 
-Afin de pouvoir adapter à tout moment les automatisations déjà créées, vous avez la possibilité de gérer et d'éditer les règles d'automatisation que vous avez créées.
+Pour pouvoir adapter à tout moment les automatisations déjà créées, vous avez la possibilité de gérer, de regrouper et de déplacer les règles d'automatisation que vous avez créées.
 
-## Gérer et éditer des automatisations
+## Gérer les règles d'automatisation
 
-1. Ouvrez un **tableau** dans lequel vous avez déjà créé une automatisation.
-2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base et ensuite sur **Règles d'automatisation**.
-3. Passez le curseur de la souris sur la règle d'automatisation correspondante et cliquez sur l'**icône en forme de crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-4. Effectuez les **adaptations** souhaitées sur l'automation.
-5. Confirmez en cliquant sur **Envoyer**.
+1. Ouvrez une **base** dans laquelle vous avez déjà créé une automatisation.
+2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de la base, puis sur **Règles d'automatisation**.
+3. Placez le curseur de la souris sur la règle d'automatisation correspondante et cliquez sur les **trois points**.
+4. Effectuez les **ajustements** souhaités sur l'automation.
 
-## Possibilités de gestion
+![Gérer les règles d'automatisation](images/manage-automation-rules.jpg)
 
-Vous pouvez adapter les paramètres suivants lors d'une automatisation :
+Une fois que vous avez sélectionné une règle d'automatisation, vous pouvez également ouvrir le même menu en cliquant sur son titre dans la zone centrale.
 
-- Le **nom**
-- Le **tableau** dans lequel l'automatisation agit
-- La **vue** dans laquelle l'automatisation agit
-- L'**événement déclencheur** d'une automatisation
-- Les **colonnes** que SeaTable surveille en vue de l'occurrence de l'événement déclencheur
-- Les **conditions de filtrage** de l'événement déclencheur
-- Ajouter, adapter ou supprimer **des actions automatisées**
+![Options de gestion des règles d'automatisation](images/automation-managing-options.jpg)
+
+Les options de gestion suivantes sont disponibles pour chaque règle d'automatisation :
+
+- **Renommer la règle**
+- [Ouvrir l'historique]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Suspendre la règle]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
+- [Supprimer la règle]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
+
+Pour en savoir plus sur les différentes options, consultez les articles en lien.
+
+## Regrouper les règles d'automatisation
+
+Pour regrouper les règles d'automatisation, vous pouvez créer des dossiers correspondants.
+
+Pour ce faire, cliquez sur **Ajouter une règle ou un dossier**, puis sur **Dossier**.
+
+![créer un dossier pour les règles d'automatisation](images/create-folder-for-automation-rules.jpg)
+
+Donnez un **nom** au dossier et confirmez avec la touche **Enter**.
+
+Passez le curseur de la souris sur le dossier et cliquez sur les **trois points** pour renommer ou supprimer le dossier. Vous pouvez également ajouter une nouvelle règle d'automatisation directement dans le dossier.
+
+![options de gestion d'un dossier d'automatisation](images/automation-folder-options.jpg)
+
+## Déplacer les règles d'automatisation
+
+Pour modifier l'ordre des règles d'automatisation ou les déplacer vers un dossier, maintenez le bouton gauche de la souris enfoncé et faites glisser la règle **par glisser-déposer** vers l'emplacement souhaité. Vous pouvez déplacer des dossiers de la même manière.
+
+![déplacer les règles d'automatisation](images/move-automation-rules-and-folders.gif)
