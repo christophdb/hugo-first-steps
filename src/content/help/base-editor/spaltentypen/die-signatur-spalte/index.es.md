@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/die-signatur-spalte'
 seo:
     title: 'Columna de firmas: guarda firmas digitales en SeaTable'
-    description: 'La columna de firmas permite capturar y gestionar firmas digitales en SeaTable. Guarda, edita y elimina las firmas como archivos PNG en tu base de datos.'
+    description: 'Capture firmas digitales en SeaTable con la columna de firma y adminístrelas como archivos PNG directamente en la gestión de archivos de la base.'
 
 ---
 

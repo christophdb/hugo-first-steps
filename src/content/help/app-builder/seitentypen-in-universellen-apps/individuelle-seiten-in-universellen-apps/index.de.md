@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/individuelle-seiten-in-universellen-apps'
 seo:
     title: 'Individuelle Seiten in Universellen Apps gestalten und anpassen'
-    description: 'Erfahren Sie, wie Sie in SeaTable individuelle Seiten mit Texten, Bildern, Statistiken und Layouts flexibel gestalten, Elemente konfigurieren und Designs umsetzen.'
+    description: 'SeaTable: Individuelle Seiten mit Text, Bild & Statistik flexibel gestalten, Elemente konfigurieren und eigene Designs einfach umsetzen.'
 ---
 
 Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine **individuelle Seite** ganz nach Ihren Wünschen bauen. Fügen Sie **Texte** und **Bilder** in Ihre Seite ein oder nutzen Sie **Statistiken**, um mit den Daten aus Ihrer Base aussagekräftige **Dashboards** zu erstellen.

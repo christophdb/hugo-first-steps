@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/die-rating-spalte'
 seo:
     title: 'Coluna de avaliação do SeaTable: tutorial detalhado'
-    description: 'Crie sistemas de avaliação com ícone e escala de 1 a 10. Ajuste valores padrão, simplifique rankings e organize feedback facilmente nas tabelas SeaTable.'
+    description: 'Use a coluna de avaliação para tabelas com símbolos, escalas de 1 a 10 e valor padrão. Ideal para rankings e feedback.'
 
 ---
 

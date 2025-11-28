@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/webformulare'
 seo:
     title: 'Webformulare in SeaTable: Einrichten, bearbeiten und freigeben'
-    description: 'Erfahren Sie, wie Sie mit SeaTable Webformulare erstellen, konfigurieren und testen, um Daten bequem von Teammitgliedern und externen Nutzern zu erfassen.'
+    description: 'Webformulare in SeaTable: Erstellen, konfigurieren und testen Sie Formulare, um bequem Daten von internen und externen Nutzern zu erfassen.'
 ---
 
 **Webformulare** sind das Mittel der Wahl, um Teammitglieder und externe Dritte neue Datensätze in Ihren Tabellen erfassen zu lassen. Die Nutzer greifen per **Link** auf ein Formular zu, sodass **keine Freigabe** für die Tabelle notwendig ist. Daher eignen sich Webformulare insbesondere für die Datenerfassung durch eine große Anzahl von **Personen innerhalb und außerhalb Ihres Teams**.

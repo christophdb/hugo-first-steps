@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 seo:
     title: '¿Qué ocurre con tus datos cuando eliminas el equipo en SeaTable?'
-    description: 'Descubre las consecuencias de borrar un equipo: eliminación permanente, recomendaciones para exportar y puntos esenciales de seguridad y datos personales.'
+    description: '¿Qué ocurre con cuentas y datos al borrar un equipo de SeaTable? Eliminación permanente, consejos de exportación y privacidad.'
 ---
 
 Los administradores de equipos tienen la opción de borrar su equipo en SeaTable a través de la administración de equipos.  

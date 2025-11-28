@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 seo:
     title: 'Gérer pages et dossiers dans une App Universelle'
-    description: 'Ajoutez, déplacez et supprimez pages et dossiers dans vos Apps Universelles SeaTable. Structurez vos données et la navigation pour chaque équipe facilement.'
+    description: 'Créez, déplacez et supprimez des pages et dossiers dans les Apps universelles pour organiser les données et la navigation SeaTable.'
 
 ---
 

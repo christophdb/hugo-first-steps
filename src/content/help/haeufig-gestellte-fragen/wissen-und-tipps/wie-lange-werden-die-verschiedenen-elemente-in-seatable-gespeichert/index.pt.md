@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
 seo:
     title: 'Por quanto tempo são armazenados dados, logs e notificações no SeaTable?'
-    description: 'Saiba os prazos mínimos de guarda de logs, histórico, notificações e snapshots no SeaTable, conforme seu plano e as normas de privacidade.'
+    description: 'Saiba o tempo mínimo de retenção de logs (14 dias), atividades (7 dias), notificações (30 dias) e snapshots (dependente da assinatura).'
 ---
 
 Naturalmente, SeaTable armazena permanentemente a informação que introduz. Ao mesmo tempo, no entanto, há certas informações que não são armazenadas permanentemente pelo SeaTable. Aqui, realiza-se uma limpeza regular do registo. A lista seguinte dá-lhe uma visão geral do tempo mínimo de armazenamento dos diferentes elementos no SeaTable.

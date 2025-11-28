@@ -5,7 +5,7 @@ date: 2025-10-06
 url: '/pt/comparacao-do-quadro-kanban-freeware'
 seo:
     title: 'Kanban Board Freeware - 15 ferramentas em comparação'
-    description: 'As ferramentas freeware para quadros Kanban oferecem várias funções e limites. Esta comparação de ferramentas ajudá-lo-á a fazer a escolha certa.'
+    description: 'Ferramentas Kanban gratuitas oferecem várias funções e limites. Este comparativo ajuda você a escolher a solução ideal para sua equipe.'
 categories:
     - 'best-practice'
 tags:

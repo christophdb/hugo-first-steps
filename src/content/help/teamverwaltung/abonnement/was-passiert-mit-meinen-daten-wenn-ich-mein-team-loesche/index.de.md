@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 seo:
     title: 'Team gelöscht in SeaTable? Folgen für Daten, Account und Sicherheit'
-    description: 'Erfahren Sie, was bei der Löschung eines SeaTable-Teams mit Ihren Accounts und Daten passiert: dauerhafte Löschung, Exporthinweise und Datenschutz im Überblick.'
+    description: 'Was passiert bei Löschung eines SeaTable-Teams mit Accounts und Daten? Dauerhafte Löschung, Exporthinweise und Datenschutz im Überblick.'
 ---
 
 Team-Administratoren haben in SeaTable über die Teamverwaltung die Möglichkeit, Ihr Team zu löschen. Welche Folgen die Löschung eines Teams für die dazugehörigen Daten hat, erfahren Sie in diesem Artikel.

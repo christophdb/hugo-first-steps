@@ -5,8 +5,8 @@ date: 2025-07-18
 lastmod: 
 url: '/food-diary'
 seo:
-    title: 
-    description: 
+    title: 'Food diary: recognizing intolerances, changing habits'
+    description: 'Start your personal food diary! Record eating habits, analyze nutrients and optimize your diet for better health and well-being.'
 categories:
     - 'best-practice'
 tags:

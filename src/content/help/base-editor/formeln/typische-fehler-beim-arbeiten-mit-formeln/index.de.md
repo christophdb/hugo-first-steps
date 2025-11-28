@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/typische-fehler-beim-arbeiten-mit-formeln'
 seo:
     title: 'Typische Fehler beim Arbeiten mit Formeln in SeaTable'
-    description: 'Erkennen und beheben Sie die häufigsten Fehler bei SeaTable-Formeln: Anführungszeichen, Klammern, Kommas und Spaltenverweise richtig setzen und Fehlermeldungen vermeiden.'
+    description: 'Erkennen und beheben Sie häufige Fehler bei SeaTable-Formeln: Setzen Sie Anführungszeichen, Klammern, Kommas und Spaltenverweise richtig.'
 
 ---
 

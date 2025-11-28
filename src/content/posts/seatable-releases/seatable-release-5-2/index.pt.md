@@ -9,7 +9,7 @@ categories:
 color: '#9dcde3'
 seo:
     title: 'SeaTable 5.2: grupos de filtro, novo Whiteboard e melhorias App Builder'
-    description: 'Conheça os destaques do SeaTable 5.2: filtros avançados, formatação cruzada de colunas, plugin Whiteboard colaborativo, melhorias em App Builder e API nova.'
+    description: 'SeaTable 5.2: Grupos de filtros (E/OU), formatação entre colunas, plugin Quadro Branco, recursos do App Builder e novidades da API num relance!'
 ---
 
 O segundo lançamento menor da versão 5 do SeaTable contém inúmeras correcções de erros e melhorias de pormenor para tornar o trabalho com o SeaTable ainda mais fácil e para apoiar ainda melhor os seus casos de utilização: Nas Bases, os **novos grupos de filtros** permitem uma seleção muito mais precisa dos dados (registos). Os filtros entre colunas na formatação condicional de linhas e células permitem destacar dados de uma forma que anteriormente não era possível. No **App Builder**, cada tipo de página beneficia de melhorias maiores e menores de vários tipos - autorizações alargadas, melhor usabilidade e mais funções. O SeaTable 5.2 também inclui um novo **plug-in de quadro branco** e melhorias nos plug-ins de design de página e de calendário. Como sempre, pode encontrar a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}/).

@@ -9,7 +9,7 @@ categories:
 color: '#9dcde3'
 seo:
     title: 'SeaTable 5.2 : groupes de filtres, nouveau Whiteboard et App Builder'
-    description: 'Nouveautés SeaTable 5.2 : groupes de filtres AND/OR, formatage multi-colonnes, nouveau plugin tableau blanc, App Builder optimisé et API revisitée.'
+    description: "SeaTable 5.2 : Groupes de filtres (ET/OU), formatage inter-colonnes, plugin Tableau blanc, fonctionnalités App Builder et API en un coup d'œil !"
 ---
 
 La deuxième version mineure de la version 5 de SeaTable contient de nombreuses corrections de bugs et améliorations de détails afin de rendre le travail avec SeaTable encore plus facile et de soutenir encore mieux vos cas d'application : Dans les bases, les **nouveaux groupes de filtres** permettent une sélection beaucoup plus précise des (ensembles de) données. Les filtres inter-colonnes dans le formatage conditionnel des lignes et des cellules permettent une mise en évidence des données orientée vers l'action, ce qui n'était pas possible auparavant. Dans l'**App Builder**, chaque type de page bénéficie d'améliorations majeures et mineures de différents types - autorisations étendues, meilleure ergonomie et davantage de fonctions. SeaTable 5.2 comprend également un nouveau **plug-in de tableau blanc** et des améliorations aux plug-in de conception de page et de calendrier. Comme toujours, vous trouverez la liste complète des modifications dans le [changelog]({{< relref "pages/changelog" >}}/).

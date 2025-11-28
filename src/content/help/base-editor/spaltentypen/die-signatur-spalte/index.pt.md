@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/die-signatur-spalte'
 seo:
     title: 'Coluna de assinatura: assine digitalmente no SeaTable'
-    description: 'A coluna de assinatura permite capturar, salvar e gerenciar assinaturas digitais em SeaTable. Armazene, edite ou exclua como arquivos PNG na gestão de arquivos.'
+    description: 'Registre assinaturas digitais no SeaTable com a coluna de assinatura e gerencie‑as como arquivos PNG direto na gestão de arquivos da base.'
 
 ---
 

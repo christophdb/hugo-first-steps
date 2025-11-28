@@ -5,8 +5,8 @@ date: 2025-07-18
 lastmod: 
 url: '/ru/pishchevoy-dnevnik'
 seo:
-    title: 
-    description: 
+    title: 'Пищевой дневник: распознавание непереносимости, изменение привычек'
+    description: 'Заведите личный дневник питания! Записывайте привычки, анализируйте нутриенты и оптимизируйте свой рацион для здоровья.​'
 categories:
     - 'best-practice'
 tags:

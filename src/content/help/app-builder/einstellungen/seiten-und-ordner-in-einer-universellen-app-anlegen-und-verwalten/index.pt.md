@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 seo:
     title: 'Gerencie páginas e pastas em Apps Universais'
-    description: 'Crie, mova e exclua páginas e pastas nas Apps Universais do SeaTable. Organize seus dados e facilite a navegação para todos os usuários da sua equipe.'
+    description: 'Crie, mova e exclua páginas e pastas em Apps Universais para organizar dados e navegação no seu app SeaTable.'
 
 ---
 

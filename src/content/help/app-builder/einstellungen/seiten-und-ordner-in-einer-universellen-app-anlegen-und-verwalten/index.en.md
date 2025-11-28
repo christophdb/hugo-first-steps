@@ -10,7 +10,7 @@ aliases:
     - '/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 seo:
     title: 'Manage pages and folders in Universal Apps'
-    description: 'Create, move and delete pages and folders in SeaTable Universal Apps. Keep your data organized and ensure clear navigation for all user groups. All steps explained.'
+    description: 'Create, move and delete pages and folders in Universal Apps to organize data and navigation in your SeaTable app clearly.'
 
 ---
 

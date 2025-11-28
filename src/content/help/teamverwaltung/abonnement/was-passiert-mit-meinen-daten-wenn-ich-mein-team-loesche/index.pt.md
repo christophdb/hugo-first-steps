@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 seo:
     title: 'O que acontece com seus dados ao excluir o time no SeaTable?'
-    description: 'Entenda os efeitos da exclusão de um time SeaTable: exclusão permanente, recomendações de exportação e questões de privacidade aos usuários envolvidos.'
+    description: 'O que acontece com contas e dados ao excluir uma equipe do SeaTable? Exclusão permanente, dicas de exportação e privacidade.'
 ---
 
 Os administradores de equipas têm a opção de eliminar a sua equipa no SeaTable através da administração da equipa.  

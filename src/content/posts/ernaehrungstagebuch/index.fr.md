@@ -5,8 +5,8 @@ date: 2025-07-18
 lastmod: 
 url: '/fr/journal-alimentaire'
 seo:
-    title: 
-    description: 
+    title: 'Journal alimentaire : reconnaître les intolérances, changer les habitudes'
+    description: 'Commencez votre journal alimentaire personnel ! Enregistrez vos habitudes, analysez les nutriments et optimisez votre alimentation.'
 categories:
     - 'best-practice'
 tags:

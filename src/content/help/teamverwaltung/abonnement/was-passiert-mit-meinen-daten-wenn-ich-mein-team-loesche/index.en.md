@@ -10,7 +10,7 @@ aliases:
     - '/help/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 seo:
     title: 'Deleting Your SeaTable Team: What Happens to Accounts and Data?'
-    description: 'Understand the consequences of deleting a SeaTable team: final data removal, impact on accounts, security aspects and important privacy/export recommendations.'
+    description: 'What happens to accounts and data when deleting a SeaTable team? Permanent deletion, export tips and data protection at a glance.'
 ---
 
 Team administrators have the option to delete their team in SeaTable via the team administration.  

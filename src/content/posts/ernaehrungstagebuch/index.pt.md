@@ -5,8 +5,8 @@ date: 2025-07-18
 lastmod: 
 url: '/pt/diario-alimentar'
 seo:
-    title: 
-    description: 
+    title: 'Diário alimentar: reconhecer as intolerâncias, mudar os hábitos'
+    description: 'Inicie seu diário alimentar pessoal! Registre hábitos alimentares, analise nutrientes e otimize sua dieta para melhor saúde e bem-estar.'
 categories:
     - 'best-practice'
 tags:

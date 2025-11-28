@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/individuelle-seiten-in-universellen-apps'
 seo:
     title: 'Crie e personalize páginas individuais em apps universais SeaTable'
-    description: 'Saiba como criar páginas com textos, imagens, dashboards e configurar elementos para aprimorar suas apps universais SeaTable de forma flexível.'
+    description: 'SeaTable: Crie páginas personalizadas com texto, imagem e estatísticas, configure elementos e implemente seus próprios designs facilmente.'
 ---
 
 Com este tipo de página, pode dar asas à sua criatividade e construir uma **página personalizada** de acordo com os seus desejos. Adicione **texto** e **imagens** à sua página ou utilize **estatísticas** para criar **painéis de controlo** significativos com os dados da sua base.

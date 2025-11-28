@@ -5,8 +5,8 @@ date: 2025-07-18
 lastmod: 
 url: '/es/diario-de-alimentos'
 seo:
-    title: 
-    description: 
+    title: 'Diario de alimentos: reconocer intolerancias, cambiar hábitos'
+    description: '¡Inicie su diario personal de alimentación! Registre hábitos alimenticios, analice nutrientes y optimice su dieta para una mejor salud.'
 categories:
     - 'best-practice'
 tags:

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 seo:
     title: 'Seiten & Ordner in Universellen Apps verwalten'
-    description: 'Erstellen, verschieben und löschen Sie Seiten und Ordner in Universellen Apps. So organisieren Sie Daten und Navigation in Ihrer SeaTable App flexibel und übersichtlich.'
+    description: 'Erstellen, verschieben und löschen Sie Seiten und Ordner in Universellen Apps und strukturieren Sie Ihre SeaTable App übersichtlich.'
 
 ---
 

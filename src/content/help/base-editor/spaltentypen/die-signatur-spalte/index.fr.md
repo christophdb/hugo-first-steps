@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/die-signatur-spalte'
 seo:
     title: 'Colonne signature : stockez des signatures numériques'
-    description: 'Avec la colonne signature, saisissez et gérez des signatures numériques visibles dans SeaTable. Enregistrez, modifiez et supprimez vos signatures en fichiers PNG.'
+    description: 'Saisissez des signatures numériques dans SeaTable avec la colonne de signature et gérez‑les comme fichiers PNG dans la gestion de fichiers de la base.'
 
 ---
 
