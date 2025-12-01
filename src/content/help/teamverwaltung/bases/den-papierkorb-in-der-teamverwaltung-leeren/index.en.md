@@ -10,7 +10,7 @@ aliases:
     - '/help/den-papierkorb-in-der-teamverwaltung-leeren'
 seo:
     title: 'Empty the trash in SeaTable team administration'
-    description: 'Permanently delete all bases from the trash in SeaTable team management. Free up space and keep your storage clean with this step-by-step guide for admins.'
+    description: 'SeaTable uses "Creator" & "Created" to automatically log users and timestamps. Both columns cannot be edited manually.'
 
 ---
 

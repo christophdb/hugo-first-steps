@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/die-spalte-mitarbeiter'
 seo:
     title: 'Columna de empleados SeaTable: asigna personas, notifica y filtra registros'
-    description: 'Aprende a añadir empleados a filas, activar notificaciones y usar esta columna en automatizaciones y filtros, con valores predeterminados y control detallado.'
+    description: 'Columna de colaborador en SeaTable: asigne tareas, active notificaciones y utilícela con flexibilidad en filtros y automatizaciones.'
 ---
 
 En la **columna de colaboradores**, puede asignar una o más **personas** a una fila. SeaTable le permite seleccionar las personas que actualmente tienen **acceso** a la **base**, así como todos los demás miembros del equipo sin acceso.

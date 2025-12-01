@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/datenverarbeitung-kumulierte-werte-berechnen'
 seo:
     title: 'Calculer des valeurs cumulées avec SeaTable'
-    description: 'Calculez des valeurs cumulées dans SeaTable : automatisez vos sommes et affichez les résultats dans une nouvelle colonne. Suivi efficace et résultats à jour.'
+    description: 'Calculez des valeurs cumulées dans les lignes de tableau SeaTable. Automatisez les sommes dans des colonnes séparées – rapide et clair.'
 
 ---
 

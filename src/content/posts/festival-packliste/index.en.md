@@ -11,8 +11,8 @@ aliases:
     - /festival-packliste
 color: '#74aa84'
 seo:
-    title:
-    description:
+    title: 'Festival packing list: Must-haves for an unforgettable experience'
+    description: 'The ultimate festival packing list: essentials, camping, food, clothing, hygiene & planning – ensuring your experience is unforgettable.'
 ---
 
 When the festival season begins and the anticipation of good music and shared experiences with friends increases, it's time to pack your bags again. To ensure that your festival visit runs smoothly and is not overshadowed by problems and annoyances, **thorough preparation** is crucial.

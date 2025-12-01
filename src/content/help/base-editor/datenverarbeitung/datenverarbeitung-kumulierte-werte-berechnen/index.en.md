@@ -10,7 +10,7 @@ aliases:
     - '/help/datenverarbeitung-kumulierte-werte-berechnen'
 seo:
     title: 'Calculate cumulative values with SeaTable data processing'
-    description: 'Use SeaTable to sum up values across table rows—automate the process and store results in a new column for ongoing insights and analysis. Fast cumulative calculations.'
+    description: 'Calculate cumulative values in SeaTable table rows. Automate summations in separate columns – fast, clear and efficient.'
 
 ---
 

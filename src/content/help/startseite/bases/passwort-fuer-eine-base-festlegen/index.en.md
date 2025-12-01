@@ -10,7 +10,7 @@ aliases:
     - '/help/passwort-fuer-eine-base-festlegen'
 seo:
     title: 'Protect Your SeaTable Bases: Set, Change, and Remove Passwords Easily'
-    description: 'Learn how to secure your SeaTable bases with passwords, manage changes, remove access and ensure privacy for group and personal data—step-by-step explained.'
+    description: 'Protect SeaTable bases with a password: control access, set, change or revoke passwords and secure data against unauthorized access.'
 ---
 
 To protect your bases from unwanted foreign access, you can set any **password** for each base, which must be entered correctly by any user, including you, to open and subsequently edit the corresponding base.

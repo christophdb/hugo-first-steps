@@ -10,7 +10,7 @@ aliases:
     - '/help/anlegen-eines-gemeinsamen-datensatzes'
 seo:
     title: 'Create a shared dataset in SeaTable: step-by-step guide'
-    description: 'Learn how to publish, manage and import a shared dataset in a SeaTable group base—centralize key info and enable team-wide collaboration easily and securely.'
+    description: 'How to create a shared dataset in a group base, publish individual views and import them centrally for team management.'
 
 ---
 

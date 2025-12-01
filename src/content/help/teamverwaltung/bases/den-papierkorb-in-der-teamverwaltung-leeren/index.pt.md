@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/den-papierkorb-in-der-teamverwaltung-leeren'
 seo:
     title: 'Esvazie a lixeira na administração do SeaTable'
-    description: 'Apague definitivamente suas bases excluídas em SeaTable, liberando espaço ao esvaziar a lixeira na área de administração da equipe. Tutorial para administradores.'
+    description: 'SeaTable usa "Criador" e "Criado" para registrar automaticamente usuários e datas. Ambas as colunas não podem ser editadas manualmente.'
 
 ---
 

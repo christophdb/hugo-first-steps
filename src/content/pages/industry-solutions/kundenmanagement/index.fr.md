@@ -3,7 +3,7 @@ title: 'SeaTable : la solution la plus flexible pour votre gestion de la client�
 description: ''
 seo:
     title: 'Gestion de la clientèle : CRM flexible pour les entreprises | SeaTable'
-    description: 'Optimisez la gestion de vos clients avec SeaTable : logiciel CRM flexible pour gérer les relations clients, automatiser les processus & 100 % conforme au RGPD.'
+    description: 'SeaTable pour gestion client : CRM flexible sans code, conforme au RGPD, avec automatisations, API et modèles gratuits.'
 date: '2025-07-18'
 url: '/fr/gestion-des-clients/'
 

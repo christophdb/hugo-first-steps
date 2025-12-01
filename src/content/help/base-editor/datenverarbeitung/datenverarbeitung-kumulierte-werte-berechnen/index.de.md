@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-kumulierte-werte-berechnen'
 seo:
     title: 'Kumulierte Werte berechnen mit SeaTable Datenverarbeitung'
-    description: 'Berechnen Sie in SeaTable kumulierte Werte für jede Zeile Ihrer Tabelle. Automatisieren Sie die mathematische Summierung in separaten Spalten – schnell und übersichtlich.'
+    description: 'Berechnen Sie in SeaTable kumulierte Werte in Tabellenzeilen. Automatisieren Sie Summierungen in separaten Spalten – schnell und übersichtlich.'
 
 ---
 

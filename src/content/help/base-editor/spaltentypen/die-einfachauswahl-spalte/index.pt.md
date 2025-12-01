@@ -15,7 +15,7 @@ aliases:
     - '/pt/ajuda/die-einfachauswahl-spalte'
 seo:
     title: 'Coluna de seleção única SeaTable: opções, cores, cascata e valores padrão'
-    description: 'Domine colunas de seleção única no SeaTable: crie opções, importe/exporte JSON, personalize cores, defina padrões e use cascata para dependências lógicas.'
+    description: 'Coluna de seleção única SeaTable: crie opções, personalize cores, use cascata e defina dependências lógicas.'
 ---
 
 Uma coluna de seleção única é ideal se pretender atribuir **exatamente uma opção** de uma lista de opções a definir às suas linhas. As opções recebem **rótulos** coloridos com os quais pode classificar os seus registos de dados em **categorias** e organizar as tabelas de forma clara.

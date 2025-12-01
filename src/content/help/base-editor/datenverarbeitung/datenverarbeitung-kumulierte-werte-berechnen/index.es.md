@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/datenverarbeitung-kumulierte-werte-berechnen'
 seo:
     title: 'Calcular valores acumulados con SeaTable datos'
-    description: 'Sume valores de columnas en SeaTable de forma automática y almacene totales en una nueva celda. Ideal para análisis de visitas, ventas y series temporales.'
+    description: 'Calcule valores acumulados en filas de tabla de SeaTable. Automatice sumas en columnas separadas de forma rápida y clara.'
 
 ---
 

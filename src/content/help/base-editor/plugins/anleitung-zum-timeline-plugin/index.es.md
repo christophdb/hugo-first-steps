@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/anleitung-zum-timeline-plugin'
 seo:
     title: 'Guía del plugin Timeline en SeaTable: visualiza periodos y gestiona solapamientos'
-    description: 'Descubre cómo crear líneas de tiempo en SeaTable, mostrar fechas y tareas solapadas, organizar proyectos o vacaciones con una vista clara y adaptable.'
+    description: 'Use el complemento Timeline de SeaTable para mostrar periodos en un cronograma y planificar citas y recursos claramente.'
 ---
 
 El **plugin de línea** de tiempo permite mostrar distintos intervalos de tiempo en forma de **línea de tiempo**. Esto es muy útil, por ejemplo, si desea ver si las citas **se solapan**. En consecuencia, puede utilizar el plugin de cronograma para planificar vacaciones y proyectos o reservar salas (de reuniones), entre otras cosas.

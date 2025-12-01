@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/die-spalte-mitarbeiter'
 seo:
     title: 'Coluna de colaboradores no SeaTable: atribuição, avisos e automações'
-    description: 'Saiba como fazer atribuição de tarefas, configurar avisos e usar a coluna de colaboradores em filtros, automações e como valor padrão – colaboração potente.'
+    description: 'Coluna de colaborador SeaTable: atribua tarefas, ative notificações e use de forma flexível para filtros e automações.'
 ---
 
 Na **coluna do colaborador**, pode atribuir uma ou mais **pessoas** a uma linha. O SeaTable permite-lhe selecionar as pessoas que têm atualmente **acesso** à **base**, bem como todos os outros membros da equipa sem acesso.

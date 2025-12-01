@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/passwort-fuer-eine-base-festlegen'
 seo:
     title: 'Como proteger bases SeaTable: defina, altere e remova senhas rapidamente'
-    description: 'Veja como definir, alterar e remover senhas em bases SeaTable, limitar acesso a dados importantes e garantir privacidade em qualquer contexto.'
+    description: 'Proteja bases do SeaTable com senha: controle o acesso, defina, altere ou anule senhas e proteja dados contra acesso não autorizado.'
 ---
 
 Para proteger as suas bases contra acessos externos indesejados, pode definir qualquer **palavra-passe** para cada base, que deve ser introduzida correctamente por cada utilizador, incluindo o utilizador, a fim de abrir e subsequentemente editar a base correspondente.

@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/alle-zugriffsberechtigungen-einer-base-einsehen'
 seo:
     title: 'Ver permisos de acceso para una base SeaTable'
-    description: 'Consulte quién puede ver y editar los datos de su base SeaTable. Gestione fácilmente roles y permisos para un control seguro en la plataforma.'
+    description: 'Compruebe en la gestión de equipos quién accede a su base y con qué derechos. Mantenga el control total sobre todos los permisos.'
 
 ---
 

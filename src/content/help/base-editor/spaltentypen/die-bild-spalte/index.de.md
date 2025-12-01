@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/die-bild-spalte'
 seo:
     title: 'Die Bild-Spalte: Bilder einfach verwalten in SeaTable'
-    description: 'Laden Sie Bilder in SeaTable-Tabellen hoch und verwalten Sie sie bequem. Bilddateien hinzufügen per Upload, URL, Drag-and-Drop und Dateiverwaltung – inklusive Vorschau und Download.'
+    description: 'Bild-Spalte in SeaTable: Bilder hochladen, verwalten und per Vorschau prüfen. Hinzufügen via Upload, URL, Drag-and-Drop und Dateiverwaltung.'
 
 ---
 

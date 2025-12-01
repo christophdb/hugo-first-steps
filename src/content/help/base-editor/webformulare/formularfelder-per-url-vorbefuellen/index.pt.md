@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/formularfelder-per-url-vorbefuellen'
 seo:
     title: 'Formulários SeaTable: preencha campos por link ou URL personalizada'
-    description: 'Saiba como usar URLs para pré-preencher campos de formulários SeaTable, quais tipos são suportados e exemplos detalhados de como automatizar o preenchimento.'
+    description: 'Formulários web do SeaTable: pré-preencher campos via link com valores padrão. Guia sobre tipos de coluna e modos de leitura.'
 ---
 
 Para **pré-preencher formulários Web**, tem a opção de definir valores predefinidos nos campos do formulário. Pode fazê-lo diretamente no URL ou utilizando uma função de fácil utilização no SeaTable.

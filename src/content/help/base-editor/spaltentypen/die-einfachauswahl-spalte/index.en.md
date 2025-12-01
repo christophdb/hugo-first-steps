@@ -15,7 +15,7 @@ aliases:
     - '/help/die-einfachauswahl-spalte'
 seo:
     title: 'SeaTable Single-Select Column: Options, Colors, Cascading and Default Values'
-    description: 'Master single-select columns in SeaTable: add options, import/export as JSON, customize colors, set default values and use cascading for logical dependencies.'
+    description: 'SeaTable Single Select Column: Create options, customize colors, use cascading and define logical dependencies.'
 ---
 
 A single select column is ideal if you want to assign **exactly one option** from a list of options to be defined to your rows. The options are given colorful **labels**, which you can use to group your data records into **categories** and clearly arrange tables.

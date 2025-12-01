@@ -10,7 +10,7 @@ aliases:
     - '/help/erstellen-einer-base-aus-einer-dtable-datei'
 seo:
     title: 'Create a Base from a DTABLE File in SeaTable: Import Guide & Troubleshooting'
-    description: 'Learn how to import a base from a DTABLE file in SeaTable, ensure proper permissions for automations and shared datasets, and troubleshoot common issues.'
+    description: 'Create a base from DTABLE file in SeaTable: import guide, observe permissions and verify shared datasets and automations.'
 ---
 
 You can create new bases in SeaTable not only empty or from a template, but also from a DTABLE file. DTABLE is the in-house [file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) used to export and save bases from SeaTable. Here you will learn how to create a base with a DTABLE file:

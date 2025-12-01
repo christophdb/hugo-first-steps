@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/ein-support-ticket-eroeffnen'
 seo:
     title: 'SeaTable soporte: cómo abrir un ticket en equipo — procedimiento claro y fácil'
-    description: 'Descubre cómo crear y gestionar tickets de soporte en SeaTable como equipo Plus/Enterprise, ver el historial y resolver incidencias rápidamente con guía paso a paso.'
+    description: 'Aprenda a abrir un ticket de soporte con suscripción Plus o Enterprise, ver solicitudes y usar el sistema de tickets eficazmente.'
 ---
 
 {{< required-version "Más" "Empresa" >}}

@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/speichern-einer-base-als-dtable-datei'
 seo:
     title: 'Exportar Base SeaTable em arquivo DTABLE: passo a passo e pontos importantes'
-    description: 'Veja como exportar sua base SeaTable em formato DTABLE para backup, transferência, com detalhes do conteúdo, limite de tamanho e como importar a base exportada.'
+    description: 'Exporte sua base SeaTable como arquivo DTABLE para backups ou transferências: conteúdo completo, sem histórico, observe o limite de tamanho.'
 ---
 
 Pode exportar uma base como um ficheiro DTABLE em qualquer altura e, assim, guardar uma cópia de segurança completa no seu dispositivo. Pode descobrir como isto funciona e o que deve ter em conta no artigo seguinte.

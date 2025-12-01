@@ -10,7 +10,7 @@ aliases:
     - '/help/glossar-der-von-seatable-verwendeten-begriffe'
 seo:
     title: 'SeaTable Glossary: Key Terms and Concepts Explained'
-    description: "Understand SeaTable's key terminology: base, table, view, column, group, team, automation—a comprehensive glossary for beginners and experienced users alike."
+    description: "SeaTable Glossary: Explanations of key terms such as Base, Table, View, Column, Group, Team, Automation and more."
 ---
 
 For newcomers, SeaTable's terminology is not so simple: What is a **base**? What is the difference between a **team** and a **group**? What is a view and where are the **view options**? In this glossary, we explain the terms and concepts central to SeaTable and relate them to each other. For easy reference, this is done using the different elements of the SeaTable user interface.

@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/anlegen-eines-gemeinsamen-datensatzes'
 seo:
     title: 'Como criar dataset compartilhado no SeaTable'
-    description: 'Saiba como criar e publicar datasets compartilhados em SeaTable, centralizar dados para equipes e usar filtros personalizados para cada uso.'
+    description: 'Crie um conjunto de dados compartilhado numa base de grupo, publique visualizações individuais e importe-as centralmente.'
 
 ---
 

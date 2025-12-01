@@ -10,7 +10,7 @@ aliases:
     - '/help/die-bild-spalte'
 seo:
     title: 'Image column: Manage photos in your SeaTable tables'
-    description: 'Upload and manage images in SeaTable tables easily. Add files by upload, URL, drag-and-drop or file manager, preview all images and download them for further use.'
+    description: 'SeaTable Image Column: Upload, manage and preview images. Add via upload, URL, drag-and-drop and file manager.'
 
 ---
 

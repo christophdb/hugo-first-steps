@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/anlegen-eines-gemeinsamen-datensatzes'
 seo:
     title: 'Gemeinsamen Datensatz in SeaTable anlegen: Anleitung'
-    description: 'So erstellen Sie einen gemeinsamen Datensatz in einer Gruppen-Base, veröffentlichen individuelle Ansichten und importieren diese für zentrales Team-Management.'
+    description: 'So erstellen Sie einen gemeinsamen Datensatz in einer Gruppen-Base, veröffentlichen individuelle Ansichten und importieren sie zentral.'
 
 ---
 

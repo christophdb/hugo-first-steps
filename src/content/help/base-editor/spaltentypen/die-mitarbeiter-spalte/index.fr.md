@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/die-spalte-mitarbeiter'
 seo:
     title: 'Colonne collaborateurs dans SeaTable : assignation, notifications et gestion'
-    description: 'Assignez des utilisateurs aux lignes, activez notifications, gérez filtres et valeurs par défaut pour une collaboration flexible sur chaque base SeaTable.'
+    description: 'Colonne collaborateur SeaTable : attribuez des tâches, activez les notifications et utilisez-la pour filtres et automatisations.'
 ---
 
 Dans la **colonne des collaborateurs**, vous pouvez attribuer une ou plusieurs **personnes** à une ligne. SeaTable vous permet de sélectionner aussi bien les personnes qui ont actuellement **accès** à la **base** que tous les autres membres de l'équipe qui n'y ont pas accès.

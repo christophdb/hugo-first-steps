@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/anlegen-eines-gemeinsamen-datensatzes'
 seo:
     title: 'Crear conjunto de datos compartido en SeaTable'
-    description: 'Descubra cómo crear y publicar conjuntos de datos compartidos en SeaTable para equipos, centralizando datos y gestionando permisos multiusuario.'
+    description: 'Cómo crear un registro compartido en una base de grupo, publicar vistas individuales e importarlas centralmente para la gestión.'
 
 ---
 

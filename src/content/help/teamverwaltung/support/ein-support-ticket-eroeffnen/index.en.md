@@ -10,7 +10,7 @@ aliases:
     - '/help/ein-support-ticket-eroeffnen'
 seo:
     title: 'SeaTable Support: How to Open a Ticket as a Team — Clear Team-Based Procedure'
-    description: 'Learn how to open SeaTable support tickets as a Plus/Enterprise user, manage issues as a team and get help instantly with precise ticket instructions and best practices.'
+    description: 'Learn how to open a support ticket with a Plus or Enterprise subscription, view requests and use the ticket system effectively.'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}

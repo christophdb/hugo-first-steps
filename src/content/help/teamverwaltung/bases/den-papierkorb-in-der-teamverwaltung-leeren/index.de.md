@@ -8,7 +8,7 @@ author: "vge"
 url: "/de/hilfe/den-papierkorb-in-der-teamverwaltung-leeren"
 seo:
     title: 'Papierkorb in der Teamverwaltung von SeaTable leeren'
-    description: 'Löschen Sie gelöschte Bases endgültig: In der Teamverwaltung Papierkorb manuell leeren und Speicherplatz sofort freigeben. Anleitung für Team-Admins Schritt für Schritt.'
+    description: 'SeaTable nutzt „Ersteller“ & „Erstellt“, um Nutzer und Zeitpunkte automatisch zu protokollieren. Beide Spalten sind nicht editierbar.'
 
 ---
 

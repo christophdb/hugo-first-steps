@@ -11,8 +11,8 @@ aliases:
     - /fr/festival-packliste
 color: '#74aa84'
 seo:
-    title:
-    description:
+    title: 'Liste de colisage pour le festival : Les incontournables pour une expérience inoubliable'
+    description: 'La liste ultime pour festival : essentiels, camping, nourriture, vêtements, hygiène et planification pour une expérience inoubliable.'
 ---
 
 Lorsque la saison des festivals commence et que l'on se réjouit de pouvoir écouter de la bonne musique et de partager des moments avec des amis, il est temps de boucler ses bagages. Pour que votre visite au festival se déroule sans accroc et ne soit pas assombrie par des problèmes et des contrariétés, une **préparation minutieuse** est essentielle.
