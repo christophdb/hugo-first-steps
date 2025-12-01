@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/anleitung-zum-timeline-plugin'
 seo:
     title: 'Timeline Plugin SeaTable : visualisez périodes, chevauchements et planifications'
-    description: 'Apprenez à utiliser le plugin Timeline de SeaTable pour afficher les périodes en ligne, gérer les intersections de tâches et planifier projets ou équipes.'
+    description: 'Utilisez le plugin Timeline de SeaTable pour afficher des périodes sur une frise et planifier clairement tâches et ressources.'
 ---
 
 Le **plug-in Timeline** vous permet d'afficher différentes périodes de temps sous la forme d'une **ligne de temps**. Cela est par exemple très utile lorsque vous souhaitez voir si des rendez-vous **se chevauchent**. En conséquence, vous pouvez utiliser le plugin Timeline entre autres pour la planification des vacances et des projets ou la réservation de salles (de réunion).

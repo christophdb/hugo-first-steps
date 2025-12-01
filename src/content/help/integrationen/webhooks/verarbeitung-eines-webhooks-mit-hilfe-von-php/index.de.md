@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/verarbeitung-eines-webhooks-mit-hilfe-von-php'
 seo:
     title: 'SeaTable Webhook mit PHP verarbeiten – Codebeispiel'
-    description: 'Verarbeiten Sie Webhooks aus SeaTable mit PHP: Empfangen, überprüfen und analysieren Sie Ereignisse, z.B. Zeilen löschen oder Checkboxen auswerten. Mit Code zum Kopieren.'
+    description: 'Verarbeiten Sie SeaTable-Webhooks mit PHP: Empfangen, prüfen und analysieren Sie Ereignisse – mit Codebeispiel zum Kopieren.'
 ---
 
 Die Verarbeitung eines Webhooks Ereignisses kann mit jeder beliebigen Programmiersprache erfolgen und ist je nach Programmiersprache unterschiedlich. Das folgende Beispiel zeigt eine einfache Verarbeitung per PHP, die als Basis für alle weiteren Entwicklungen dienen kann.

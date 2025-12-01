@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/die-bild-spalte'
 seo:
     title: 'Colonne d’images : gérer photos dans SeaTable'
-    description: 'Ajoutez et gérez des images dans vos tableaux SeaTable. Importez, liez, glissez-déposez, prévisualisez et téléchargez vos photos rapidement dans la colonne d’images.'
+    description: 'Colonne image SeaTable : téléversez, gérez et prévisualisez des images. Ajoutez par upload, URL, glisser-déposer et gestion de fichiers.'
 
 ---
 

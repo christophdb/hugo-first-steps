@@ -10,7 +10,7 @@ url: '/de/festival-packliste'
 color: '#74aa84'
 seo:
     title: 'Festival Packliste: Must-haves für ein unvergessliches Erlebnis'
-    description: 'Entdecken Sie die ultimative Festival Packliste mit allen wichtigen Dingen, die Sie brauchen. Inklusive Festivalplaner und Checkliste!'
+    description: 'Die ultimative Festival‑Packliste: Essentials, Camping, Verpflegung, Kleidung, Hygiene & Planung – damit Ihr Erlebnis unvergesslich wird.'
 ---
 
 Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame Erlebnisse mit Freunden steigt, ist es wieder an der Zeit, das Gepäck zu schnüren. Damit Ihr Festivalbesuch reibungslos verläuft und nicht von Problemen und Ärgernissen überschattet wird, ist eine **gründliche Vorbereitung** entscheidend.

@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/die-bild-spalte'
 seo:
     title: 'Coluna de imagens: fotos em tabelas SeaTable'
-    description: 'Envie e organize fotos nas tabelas do SeaTable. Adicione arquivos por upload, URL, arraste ou gerenciador de arquivos, visualize miniaturas e baixe facilmente.'
+    description: 'Coluna de imagens SeaTable: carregue, gerencie e visualize imagens. Adicione por upload, URL, arrastar e soltar e gestão de arquivos.'
 
 ---
 

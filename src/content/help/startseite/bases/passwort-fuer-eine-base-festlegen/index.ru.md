@@ -10,7 +10,7 @@ aliases:
     - '/ru/pomoshch/passwort-fuer-eine-base-festlegen'
 seo:
     title: 'Пароль для базы SeaTable: установка, смена и удаление защиты для данных'
-    description: 'Узнайте, как установить, изменить или удалить пароль для базы SeaTable, управлять доступом и защитить личные или групповые данные от несанкционированного входа.'
+    description: 'Защищайте базы SeaTable паролем: управляйте доступом, устанавливайте, меняйте или отменяйте пароли и берегите данные от чужих глаз.'
 ---
 
 Um Ihre Bases vor unerwünschten Fremdzugriffen zu schützen, können Sie für jede Base ein beliebiges **Passwort** festlegen, das von jedem Benutzer, einschließlich Ihnen, korrekt eingegeben werden muss, um die entsprechende Base zu öffnen und anschließend bearbeiten zu können.

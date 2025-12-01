@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/verarbeitung-eines-webhooks-mit-hilfe-von-php'
 seo:
     title: 'Gestionar webhooks de SeaTable con PHP: ejemplo'
-    description: 'Reciba y analice eventos de webhooks SeaTable usando PHP: valide y procese cambios, eliminaciones o selecciones. Incluye código listo para su proyecto.'
+    description: 'Procese webhooks de SeaTable con PHP: reciba, verifique y analice eventos – con ejemplos de código listos para copiar.'
 
 ---
 

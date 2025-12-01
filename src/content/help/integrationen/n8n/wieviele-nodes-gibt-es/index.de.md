@@ -3,7 +3,7 @@ title: 'Die Gründe für zwei Community Nodes: SeaTable und SeaTable-Admin'
 date: '2025-10-03'
 seo:
     title: 'SeaTable Nodes in n8n: Unterschied zwischen User Node und SysAdmin Node erklärt'
-    description: 'Erfahre die Unterschiede zwischen dem SeaTable User Node für Dateninteraktion und dem SeaAdmin Node für administrative Aufgaben in n8n. So nutzt du beide Nodes effektiv und sicher.'
+    description: 'SeaTable in n8n: Nutze den User Node für Datenarbeit mit API-Token und den Admin Node für Verwaltungsaufgaben mit Admin-Rechten.'
 categories:
     - 'n8n-integration'
 url: '/de/hilfe/warum-es-zwei-community-nodes-gibt'

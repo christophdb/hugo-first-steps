@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/den-papierkorb-in-der-teamverwaltung-leeren'
 seo:
     title: 'Vider la corbeille en gestion d’équipe SeaTable'
-    description: 'Supprimez définitivement les bases supprimées : vider la corbeille dans l’administration d’équipe SeaTable avec un tutoriel clair pour libérer de l’espace.'
+    description: 'SeaTable utilise "Créateur" et "Créé" pour consigner automatiquement utilisateurs et horodatages. Ces colonnes sont non modifiables.'
 
 ---
 

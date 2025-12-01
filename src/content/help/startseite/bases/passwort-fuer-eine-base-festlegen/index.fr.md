@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/passwort-fuer-eine-base-festlegen'
 seo:
     title: 'Protégez vos bases SeaTable : définir, modifier ou supprimer le mot de passe'
-    description: 'Apprenez à protéger vos bases SeaTable par mot de passe, modifier ou annuler l’accès et sécuriser vos données personnelles ou partagées en quelques clics.'
+    description: "Protégez les bases SeaTable par mot de passe : gérez l'accès, définissez, modifiez ou annulez les mots de passe et sécurisez les données."
 ---
 
 Pour protéger vos bases d'un accès étranger indésirable, vous pouvez définir pour chaque base un **mot de passe** de votre choix, qui doit être saisi correctement par chaque utilisateur, y compris vous-même, pour pouvoir ouvrir la base correspondante et la modifier ensuite.

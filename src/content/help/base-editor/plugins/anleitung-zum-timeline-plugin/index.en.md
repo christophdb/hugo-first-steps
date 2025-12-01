@@ -10,7 +10,7 @@ aliases:
     - '/help/anleitung-zum-timeline-plugin'
 seo:
     title: 'SeaTable Timeline Plugin Guide: Visualize Date Ranges and Manage Overlaps'
-    description: 'Learn to use the Timeline plugin for SeaTable: display date ranges as a Gantt-like timeline, visualize scheduling, and handle resource and project overlaps easily.'
+    description: 'Use the SeaTable timeline plugin to show time spans on a timeline and clearly plan appointments and resources.'
 ---
 
 The **Timeline plugin** allows you to display different time spans in the form of a **timeline**. This is very useful, for example, if you want to see whether appointments **overlap**. Accordingly, you can use the Timeline plugin for vacation and project planning or booking (meeting) rooms, among other things.

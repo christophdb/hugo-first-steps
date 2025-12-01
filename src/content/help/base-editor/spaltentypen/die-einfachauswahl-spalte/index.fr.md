@@ -15,7 +15,7 @@ aliases:
     - '/fr/aide/die-einfachauswahl-spalte'
 seo:
     title: 'Colonne de sélection unique SeaTable : options, couleurs, cascade et valeurs par défaut'
-    description: 'Maîtrisez les colonnes de sélection unique dans SeaTable : créez, importez/exportez des options, personnalisez couleurs et utilisez les dépendances en cascade.'
+    description: 'Colonne de sélection simple SeaTable : créez des options, adaptez les couleurs, utilisez la cascade et définissez des dépendances logiques.'
 ---
 
 Une colonne de sélection unique est idéale si vous souhaitez attribuer à vos lignes **une seule option** parmi une liste d'options à définir. Les options reçoivent des **étiquettes** colorées qui vous permettent de classer vos enregistrements dans des **catégories** et d'organiser vos tableaux de manière claire.

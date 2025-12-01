@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/die-bild-spalte'
 seo:
     title: 'Columna de imágenes: gestiona fotos en SeaTable'
-    description: 'Sube, organiza y descarga imágenes en tablas de SeaTable. Añade archivos por carga, URL, arrastrar o gestor de archivos y visualiza todas tus imágenes en miniatura.'
+    description: 'Columna de imágenes en SeaTable: suba, gestione y previsualice imágenes. Añada por subida, URL, arrastrar y soltar y gestión de archivos.'
 
 ---
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/formularfelder-per-url-vorbefuellen'
 seo:
     title: 'SeaTable Webformulare: Formularfelder per URL oder Link vorbefüllen'
-    description: 'Erfahren Sie, wie Felder in SeaTable Webformularen über Links mit Standardwerten vorausgefüllt werden – mit Anleitung zu unterstützten Spaltentypen und Lesemodi.'
+    description: 'SeaTable Webformulare: Felder per Link mit Standardwerten vorbefüllen. Anleitung zu unterstützten Spaltentypen und Lesemodi.'
 ---
 
 Um **Webformulare vorzubefüllen**, haben Sie die Möglichkeit, Standardwerte in den Formularfeldern zu definieren. Dies können Sie direkt in der URL machen oder mithilfe einer benutzerfreundlichen Funktion in SeaTable.

@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/anlegen-eines-gemeinsamen-datensatzes'
 seo:
     title: 'Créer un dataset commun dans SeaTable : tutoriel'
-    description: 'Publiez et gérez un dataset partagé : SeaTable permet la mutualisation de données pour tous les membres d’un groupe et facilite leur import dans d’autres bases.'
+    description: 'Créez un ensemble de données partagé dans une base de groupe, publiez des vues individuelles et importez-les de manière centralisée.'
 
 ---
 

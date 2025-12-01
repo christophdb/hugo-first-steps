@@ -11,8 +11,8 @@ aliases:
     - /es/festival-packliste
 color: '#74aa84'
 seo:
-    title:
-    description:
+    title: 'Lista de equipaje para el festival: Lo imprescindible para una experiencia inolvidable'
+    description: 'La lista definitiva para festivales: básicos, camping, comida, ropa, higiene y planificación para que su experiencia sea inolvidable.'
 ---
 
 Cuando comienza la temporada de festivales y aumenta la expectación por la buena música y las experiencias compartidas con los amigos, es hora de volver a hacer las maletas. Para que tu visita al festival transcurra sin contratiempos y no se vea ensombrecida por problemas y molestias, es fundamental **una preparación minuciosa**.

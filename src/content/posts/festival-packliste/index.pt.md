@@ -11,8 +11,8 @@ aliases:
     - /pt/festival-packliste
 color: '#74aa84'
 seo:
-    title:
-    description:
+    title: 'Lista de bagagem para o festival: Artigos indispensáveis para uma experiência inesquecível'
+    description: 'A lista definitiva para festivais: itens essenciais, camping, comida, roupas, higiene e planejamento para uma experiência inesquecível.'
 ---
 
 Quando a época dos festivais começa e a expetativa de boa música e de experiências partilhadas com amigos aumenta, é altura de voltar a fazer as malas. Para garantir que a sua visita ao festival corre bem e não é ensombrada por problemas e aborrecimentos, é crucial **uma preparação minuciosa**.

@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/formularfelder-per-url-vorbefuellen'
 seo:
     title: 'Formularios web SeaTable: prellenar campos con enlaces personalizados o URLs'
-    description: 'Descubre cómo prellenar campos en formularios SeaTable mediante URL o links, ver opciones compatibles y pasos detallados para personalizar la entrada.'
+    description: 'Formularios web de SeaTable: prellenar campos por enlace con valores estándar. Guía sobre tipos de columna y modos de lectura.'
 ---
 
 Para **rellenar formularios web**, tiene la opción de definir valores por defecto en los campos del formulario. Puede hacerlo directamente en la URL o utilizando una función fácil de usar en SeaTable.

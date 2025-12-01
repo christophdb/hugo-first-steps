@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/glossar-der-von-seatable-verwendeten-begriffe'
 seo:
     title: 'Glosario de SeaTable: términos clave explicados de forma clara'
-    description: 'Aprende los términos principales de SeaTable: base, tabla, vista, columna, grupo, equipo, automatización—glosario completo y fácil de entender.'
+    description: 'Glosario de SeaTable: explicaciones de términos clave como base, tabla, vista, columna, grupo, equipo, automatización y más.'
 ---
 
 Para los principiantes, la terminología de SeaTable no es tan fácil: ¿Qué es una **base**? ¿Cuál es la diferencia entre un **equipo** y un **grupo**? ¿Qué es una vista y dónde están las **opciones de vista**? En este glosario explicamos los términos y conceptos centrales de SeaTable y los relacionamos entre sí. Para facilitar la referencia, esto se hace utilizando los diferentes elementos de la interfaz de usuario de SeaTable.

@@ -15,7 +15,7 @@ aliases:
     - '/es/ayuda/die-einfachauswahl-spalte'
 seo:
     title: 'Columna de selección única SeaTable: opciones, colores, cascada y valores predeterminados'
-    description: 'Domina las columnas de selección única en SeaTable: añade opciones, importa/exporta en JSON, personaliza colores, define valores predeterminados y usa la cascada lógica.'
+    description: 'Columna de selección única en SeaTable: cree opciones, personalice colores, use cascada y defina dependencias lógicas.'
 ---
 
 Una columna de selección única es ideal si desea asignar **exactamente una opción** de una lista de opciones a definir a sus filas. Las opciones reciben **etiquetas** de colores con las que podrá clasificar sus registros de datos en **categorías** y organizar las tablas con claridad.

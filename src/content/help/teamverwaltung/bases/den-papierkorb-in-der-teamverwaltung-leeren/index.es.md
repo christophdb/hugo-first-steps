@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/den-papierkorb-in-der-teamverwaltung-leeren'
 seo:
     title: 'Vaciar papelera en administración del equipo SeaTable'
-    description: 'Elimine bases borradas de forma permanente vaciando la papelera en la administración de equipos SeaTable. Libere espacio y gestione sus datos fácilmente.'
+    description: 'SeaTable usa "Creador" y "Creado" para registrar automáticamente usuarios y fechas. Ambas columnas no se pueden editar manualmente.'
 
 ---
 
