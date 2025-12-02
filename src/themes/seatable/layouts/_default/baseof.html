@@ -312,9 +312,7 @@
                         this.isSubmitting = true;
                         this.buttonText = 'Dokument wird erzeugt...';
 
-                        // FIXME: Make this dynamic
-                        // const url = '{{ getenv "HUGO_BACKEND_URL" }}';
-                        const url = 'http://localhost:8081'
+                        const url = '{{ getenv "SEATABLE_INTERNAL_API_URL" }}';
                         const headers = {
                             'Content-Type': 'application/json'
                         };
