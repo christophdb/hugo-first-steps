@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Cómo funcionan las automatizaciones en SeaTable'
     description: 'Descubre cómo las automatizaciones optimizan procesos en SeaTable: disparadores, acciones, condiciones y ejemplos de flujos eficientes.'
-weight: 4
+
 ---
 
 {{< required-version "Empresa" >}}
