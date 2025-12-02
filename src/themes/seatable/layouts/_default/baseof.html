@@ -288,6 +288,75 @@
                     },
                 };
             }
+
+            function avvForm() {
+                return {
+                    // Form fields
+                    responsible: '',
+                    dataTypes: [],
+                    otherData: '',
+                    affectedPeople: [],
+                    otherAffectedPeople: '',
+                    // Honeypot field
+                    name: '',
+                    buttonText: 'AVV erzeugen',
+                    isSubmitting: false,
+                    errors: {},
+                    submitForm() {
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
+                            return;
+                        }
+
+                        // Disable the button
+                        this.isSubmitting = true;
+                        this.buttonText = 'Dokument wird erzeugt...';
+
+                        // FIXME: Make this dynamic
+                        // const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+                        const url = 'http://localhost:8081'
+                        const headers = {
+                            'Content-Type': 'application/json'
+                        };
+                        const data = {
+                            responsible: this.responsible,
+                            dataTypes: this.dataTypes,
+                            otherData: this.otherData,
+                            affectedPeople: this.affectedPeople,
+                            otherAffectedPeople: this.otherAffectedPeople,
+                        };
+
+                        fetch(`${url}/avv`, {
+                            method: 'POST',
+                            headers: headers,
+                            body: JSON.stringify(data),
+                        })
+                            .then(async (response) => {
+                                console.log(response);
+
+                                if (!response.ok) {
+                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}';
+                                    return;
+                                }
+
+                                // Create URL for Blob
+                                const pdfUrl = URL.createObjectURL(await response.blob());
+
+                                // Open PDF in new tab
+                                window.open(pdfUrl, "_blank");
+
+                                this.buttonText = 'Ihr Dokument wurde erzeugt!';
+                            })
+                            .catch((error) => {
+                                console.error('Error:', error);
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}';
+                            })
+                            .finally(() => {
+                                this.isSubmitting = false;
+                            });
+                    },
+                };
+            }
         </script>
 
         <!-- Language redirect -->
