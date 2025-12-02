@@ -1,45 +1,36 @@
 ---
 title: 'Eliminar automatizações'
 date: 2022-12-06
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/pt/ajuda/excluir-automacoes-seatable'
 aliases:
     - '/pt/ajuda/automationen-loeschen'
 seo:
     title: 'Excluir automações em SeaTable: guia e consequências'
     description: 'Descubra como excluir automações em SeaTable, os efeitos em cada ação e o passo a passo para remoção definitiva das regras.'
-
+weight: 10
 ---
 
 {{< required-version "Empresa" >}}
 
-É possível **eliminar** **regras de automatização** que já tenham sido criadas em qualquer altura. É favor notar os efeitos que a eliminação tem sobre as várias **acções automatizadas**.
+É possível **eliminar regras de automatização** que já tenham sido criadas em qualquer altura. É favor notar os efeitos que a eliminação tem sobre as várias **acções automatizadas**.
 
 ## Para eliminar uma automatização
 
-1. Abra uma **tabela** na qual pretende eliminar uma automatização que já foi criada.
-2. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} e depois em **Regras de Automatização**.
-3. Clique no **ícone da lata de lixo** à direita da regra de automatização correspondente {{< seatable-icon icon="dtable-icon-delete" >}}.
-4. Confirmar com **Delete**.
+![Eliminar uma automatização](images/delete-automation-rule.gif)
 
-{{< warning  headline="A eliminação é definitiva"  text="A regra de automatização eliminada desaparece **definitivamente** e **não pode** ser restaurada." />}}
+1. Abra uma **Base** na qual pretende eliminar uma automatização que já tenha sido criada.
+2. No cabeçalho da base, clique em {{< seatable-icon icon="dtable-icon-rule" >}} e depois em **Regras de automatização**.
+3. Mova o ponteiro do rato sobre a regra de automatização correspondente, clique nos três pontos e depois em {{< seatable-icon icon="dtable-icon-delete" >}} **Eliminar regra** .
+4. Confirme com **Eliminar**.
 
-## Impacto
+{{< warning type="warning" headline="A eliminação é definitiva" text="A regra de automatização eliminada é então **finalmente eliminada e não pode ser restaurada**." />}}
 
-Dependendo das acções que tinha definido para uma automatização, a eliminação de uma regra de automatização pode ter **consequências diferentes**. Basicamente, porém, o evento de disparo definido para uma automatização deixará **de** disparar uma acção após a eliminação, desde que não actue como um disparo para uma automatização ainda existente.
+## Efeitos
 
-Pode ver os efeitos que a eliminação das automatizações tem sobre as várias acções na tabela seguinte:
+Dependendo das acções que definiu para uma automatização, a eliminação de uma regra de automatização pode ter **diferentes consequências**. Em princípio, no entanto, o evento de disparo definido **já não irá desencadear quaisquer acções** após a eliminação - a menos que ainda seja utilizado como um disparador para outra automatização existente.
 
-| Acção                                  | Efeito da eliminação da regra da automatização                                                                                                           |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Enviar notificação                     | Quando o evento de disparo ocorre, não são enviadas mais notificações.                                                                                   |
-| Enviar e-mail                          | Quando ocorre o evento de disparo, não são enviados mais e-mails.                                                                                        |
-| Adicionar linha                        | Quando o evento de disparo ocorre, não são acrescentadas mais filas.                                                                                     |
-| Entrada de bloqueio                    | Quando o evento de disparo ocorre, as filas deixam de estar bloqueadas para edição. No entanto, as linhas que já foram bloqueadas permanecem bloqueadas. |
-| Editar entrada                         | Quando o evento de disparo ocorre, não são processadas mais entradas.                                                                                    |
-| Acrescentar ligações                   | Quando o evento de disparo ocorre, não são acrescentadas mais ligações.                                                                                  |
-| Adicionar nova entrada em outra tabela | Quando o evento de disparo ocorre, não são acrescentadas mais entradas a outra tabela.                                                                   |
-| Executar guião Python                  | Quando o evento de disparo ocorre, não são executados mais scripts Python.                                                                               |
+Particularmente no caso de acções complexas, como o envio de e-mails, scripts Python ou funções de IA, deve considerar apenas [pausar a automação]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}) em vez de a eliminar permanentemente.

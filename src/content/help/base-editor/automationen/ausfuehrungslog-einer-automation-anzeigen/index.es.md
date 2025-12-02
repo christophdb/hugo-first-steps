@@ -1,16 +1,17 @@
 ---
 title: 'Mostrar registro de ejecución de una automatización'
 date: 2023-01-26
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/registro-ejecucion-automatizacion'
 aliases:
     - '/es/ayuda/ausfuehrungslog-einer-automation-anzeigen'
 seo:
     title: 'Registro de ejecución de automatizaciones SeaTable: controla tiempos y alertas'
     description: 'Descubre cómo ver y analizar el log de las automatizaciones en SeaTable: revisa tiempos, condiciones, éxito y advertencias en los procesos empresariales.'
+weight: 8
 ---
 
 {{< required-version "Empresa" >}}
@@ -21,11 +22,15 @@ Para comprobar la **correcta ejecución de una automatización**, tiene la opci�
 
 ## Para echar un vistazo al registro de ejecución
 
+![Mostrar registro de ejecución](images/open-automation-log.jpg)
+
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
 2. Mueva el puntero del ratón sobre la **regla de automatización** cuyo registro desea ver.
-3. Haga clic en el **registro de ejecución** {{< seatable-icon icon="dtable-icon-journal" >}}.
+3. Haga clic en los **tres puntos** y después en {{< seatable-icon icon="dtable-icon-journal" >}} **Abrir registro**.
 
 ## Estructura del registro de ejecución
+
+![Estructura de un registro de ejecución](images/structure-of-an-automation-log.jpg)
 
 Puede ver la siguiente información en el registro de ejecución de una automatización:
 

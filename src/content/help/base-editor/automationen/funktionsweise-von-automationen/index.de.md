@@ -1,10 +1,10 @@
 ---
 title: 'Funktionsweise von Automationen'
 date: 2023-01-31
-lastmod: '2023-02-01'
+lastmod: '2025-12-01'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/funktionsweise-von-automationen'
 seo:
     title: 'So funktionieren Automationen in SeaTable'
@@ -18,47 +18,53 @@ Automationen sind ein mächtiges Feature von SeaTable, mit dem Sie Prozesse auto
 
 ## Grundlegende Informationen
 
-- Automationen werden immer individuell für eine **Tabelle** und eine **Ansicht** angelegt. Sie wirken folglich **ausschließlich** in der ausgewählten Tabellenansicht.
+- Automationen werden immer als individuelle Automatisierungsregeln angelegt, die sich auf eine bestimmte **Tabellenansicht** beziehen.
 - Die beiden wichtigsten Komponenten einer Automation stellen das **Trigger-Ereignis** und die **automatisierte(n) Aktion(en)** dar.
 
 ## Trigger-Ereignisse
 
-Als sogenannter Trigger wird ein Ereignis bezeichnet, das als **Auslöser** der Automation fungiert. Dieses Ereignis legen Sie für jede Automatisierungsregel individuell fest. Als Trigger kann fungieren, dass in einer Tabellenansicht **Einträge hinzugefügt werden** oder **nach der Bearbeitung bestimmte Bedingungen erfüllen**. Ebenso kann ein **periodischer Trigger**, also ein bestimmter Zeitpunkt in einem festgelegten Intervall (täglich, wöchentlich oder monatlich), eine Automation auslösen.
+Als sogenannter Trigger wird ein Ereignis bezeichnet, das als **Auslöser** der Automation fungiert. Dieses Ereignis legen Sie für jede Automatisierungsregel individuell fest. Als Trigger kann fungieren, dass in einer Tabellenansicht **Zeilen hinzugefügt oder bearbeitet wurden**. Ebenso kann ein bestimmter **Zeitpunkt** in einem festgelegten Intervall (täglich, wöchentlich oder monatlich) eine Automation auslösen.
 
-Für bestimmte Ereignisse, wie zum Beispiel das Hinzufügen von Einträgen, können Sie darüber hinaus noch weitere **Einstellungen** vornehmen. So können Sie beispielsweise festlegen, ob **alle Spalten** in der Tabellenansicht oder lediglich ausgewählte Spalten auf das Eintreten des Trigger-Ereignisses hin **überwacht** werden sollen. Wenn Sie in diesem Zusammenhang vereinzelte Spalten auswählen, wird die Automation auch nur dann ausgelöst, wenn das Ereignis in den ausgewählten Spalten eintritt.
+Für bestimmte Ereignisse, wie zum Beispiel das Hinzufügen von Zeilen, können Sie darüber hinaus noch weitere **Einstellungen** vornehmen. So können Sie beispielsweise festlegen, ob **alle Spalten** in der Tabellenansicht oder lediglich ausgewählte Spalten auf das Eintreten des Trigger-Ereignisses hin **überwacht** werden sollen. Wenn Sie in diesem Zusammenhang einzelne Spalten auswählen, wird die Automation auch nur dann ausgelöst, wenn das Ereignis in den ausgewählten Spalten eintritt.
 
-Zusätzlich können Sie die **Bedingungen** des Trigger-Ereignisses so weit eingrenzen, dass die Automation ausschließlich ausgelöst wird, wenn in bestimmten Spalten **bestimmte Daten** zu finden sind. Zum Beispiel können Sie exakte Werte definieren, die in einer ausgewählten Spalte nach dem Hinzufügen oder der Änderung eines Eintrags vorliegen müssen, damit die Automation ausgelöst wird.
+Zusätzlich können Sie die **Bedingungen** des Trigger-Ereignisses so weit eingrenzen, dass die Automation ausschließlich ausgelöst wird, wenn in bestimmten Spalten **bestimmte Daten** zu finden sind. Zum Beispiel können Sie exakte Werte definieren, die in einer ausgewählten Spalte nach dem Hinzufügen oder Bearbeiten der Zeile vorliegen müssen, damit die Automation ausgelöst wird.
 
 Alles Weitere erfahren Sie im Artikel [Automations-Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Automatisierte Aktionen
 
-Als automatisierte Aktionen werden jene **Aktionen** bezeichnet, die durch Eintreten des festgelegten Trigger-Ereignisses **ausgelöst werden**. Automatisierte Aktionen sind daher immer eine **Folge** von Trigger-Ereignissen und treten **nur** auf, wenn jene Ereignisse unter den festgelegten Bedingungen eintreten.
+Als automatisierte Aktionen werden **Prozesse** bezeichnet, die durch das Eintreten des festgelegten Trigger-Ereignisses angestoßen werden. Automatisierte Aktionen sind daher immer eine **Folge** von Trigger-Ereignissen und treten nur auf, wenn jene Ereignisse unter den festgelegten Bedingungen eintreten.
 
-Je nach ausgewähltem Ereignis stehen Ihnen dabei unterschiedliche Aktionen zur Auswahl, wie zum Beispiel das **Versenden einer E-Mail** oder **Benachrichtigung** an einen oder mehrere Benutzer oder das **Hinzufügen, Ändern oder Sperren eines Eintrags**.
+Je nach ausgewähltem Trigger stehen Ihnen dabei unterschiedliche Aktionen zur Auswahl – vom **Versenden einer E-Mail oder Benachrichtigung** an einen oder mehrere Benutzer über das **Hinzufügen, Ändern oder Sperren einer Zeile** bis hin zur **Ausführung von Python-Skripten oder KI-Funktionen**.
 
-Für bestimmte Aktionen können Sie darüber hinaus weitere **Einstellungen** vornehmen. So können Sie etwa für das Hinzufügen und die Änderung eines Eintrags festlegen, welcher Wert in welcher Spalte der Tabelle neu hinzugefügt wird bzw. zu welchem Wert Sie einen bereits bestehenden Wert ändern möchten, sobald ein bestimmter Fall eintritt. {{< warning  type="warning" headline="Hinweis"  text="Selbstverständlich haben Sie die Möglichkeit, einem einzelnen Trigger-Ereignis **mehrere Aktionen** zuzuweisen." />}}
+{{< warning  type="warning" headline="Hinweis"  text="Selbstverständlich haben Sie die Möglichkeit, einem einzelnen Trigger-Ereignis **mehrere Aktionen** zuzuweisen." />}}
+
+Für viele Aktionen müssen darüber hinaus weitere **Voraussetzungen** erfüllt sein. So brauchen Sie etwa bestimmte Spaltentypen, ein E-Mail-Konto oder Vorlagen im Seitendesign- oder Berichtsdesign-Plugin, um komplexere Automationen möglich zu machen.
 
 Wenn Sie mehr über automatisierte Aktionen lernen möchten, lesen Sie den Artikel [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Funktionsweise von Automationen
 
-Die [Funktionsweise von Automationen]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) wird im Folgenden anhand eines Beispiels ausführlicher erläutert. {{< warning  headline="Wichtiger Hinweis"  text="Das fiktive Beispiel soll mit reduzierter Komplexität die **grundlegende Funktionsweise** von Automationen beleuchten und enthält daher nur eine relativ geringe Datenmenge. Grundsätzlich gilt, dass Automationen in **umfangreicheren Datensätzen** eine noch viel größere Wirkung entfalten." />}}
+Die Funktionsweise von Automationen wird im Folgenden anhand eines Beispiels ausführlicher erläutert. 
 
-![Beispiel-Tabelle](images/example-table-final-version.png)
+{{< warning headline="Wichtiger Hinweis" text="Das fiktive Beispiel soll mit reduzierter Komplexität die **grundlegende Funktionsweise** von Automationen beleuchten und enthält daher nur eine relativ geringe Datenmenge. Grundsätzlich gilt, dass Automationen in **umfangreicheren Datensätzen** eine noch viel größere Wirkung entfalten." />}}
 
-Die im Bild zu sehende Beispiel-Tabelle könnten Sie in der Personal-Abteilung eines Unternehmens verwenden, um neben den **Namen** von Mitarbeitern deren **Beschäftigungsstatus** sowie den Status ihrer **Gehaltszahlungen** zu erfassen.
+![Beispiel-Tabelle](images/example-for-a-simple-automation-1.jpg)
 
-Für die Tabellenansicht erstellen Sie anschließend eine **Automation**, die einen Arbeitsschritt automatisieren soll. Konkret soll dabei automatisiert werden, dass im Falle der Kündigung eines Mitarbeiters (und der damit verbundenen Änderung des Eintrags in der Spalte **Beschäftigungsstatus** von "beschäftigt" zu "gekündigt") der Eintrag in der Spalte **Gehaltszahlung** von "aktiv" auf "eingestellt" angepasst wird.
+Die im Bild zu sehende Beispiel-Tabelle könnten Sie in der Personalabteilung eines Unternehmens verwenden, um neben den Daten von Mitarbeitern deren **Beschäftigungsstatus** sowie den Status der **Gehaltszahlungen** zu erfassen.
 
-![Definition des Trigger-Ereignisses](images/create-an-automation-1-1.png)
+Für die Tabellenansicht erstellen Sie anschließend eine **Automation**, die einen Arbeitsschritt automatisieren soll. Konkret soll im Falle des Ausscheidens eines Mitarbeiters, also immer wenn sich der Eintrag in der Spalte **Status** von "beschäftigt" oder "Freelancer" zu "beendet", "Elternzeit" oder "im Ruhestand" ändert, der Eintrag in der Spalte **Payroll** von "aktiv" auf "inaktiv" gesetzt werden.
 
-Um diesen Prozessschritt zu automatisieren, definieren Sie als **Trigger** zunächst das Ereignis "Eintrag erfüllt nach Änderung bestimmte Bedingungen". Als **zu überprüfende Spalte** geben Sie die Spalte "Beschäftigungsstatus" an. Als konkrete **Bedingung** für die Auslösung der Automation legen Sie fest, dass der Eintrag in der entsprechenden Spalte zu "gekündigt" geändert werden muss.
+![Beispiel-Automation](images/example-for-a-simple-automation-2.jpg)
 
-![Definition der automatischen Aktion der Beispiel-Automation](images/automated-action-of-the-example-automation-2.png)
+Um diesen Prozessschritt zu automatisieren, definieren Sie als **Trigger** zunächst das Ereignis "Wenn eine Zeile geändert wird". In den Trigger-Einstellungen wählen Sie die **Tabelle** und **Ansicht** aus und geben als **überwachte Spalte** die Spalte "Status" an. Als konkrete **Bedingung** für die Auslösung der Automation legen Sie fest, dass die bearbeitete Zeile in der entsprechenden Spalte den Wert "beendet", "Elternzeit" oder "im Ruhestand" aufweisen muss.
 
-Als **automatisierte Aktion** wählen Sie im Anschluss die Option **Eintrag bearbeiten** aus. Konkret soll nach Auslösung des Trigger-Ereignisses der Eintrag in der Spalte "Gehaltszahlung" von "aktiv" zu "eingestellt" geändert werden.
+![Definition des Trigger-Ereignisses](images/example-for-a-simple-automation-3.jpg)
 
-![Ausführung der Beispiel-Automation](images/example-automation-new.gif)
+Als **automatisierte Aktion** wählen Sie im Anschluss die Option **Eintrag bearbeiten** aus. Konkret soll nach Auslösung des Trigger-Ereignisses der Eintrag in der Spalte "Payroll" von "aktiv" auf "inaktiv" gesetzt werden.
 
-Nachdem Sie die Automation angelegt haben, führt die manuell vorgenommene Änderung in der Spalte "Beschäftigungsstatus" **automatisch** zur gewünschten **Anpassung des Eintrags** in der Spalte "Gehaltszahlung".
+![Definition der automatischen Aktion der Beispiel-Automation](images/example-for-a-simple-automation-4.jpg)
+
+Nachdem Sie die Automation angelegt haben, löst die manuell vorgenommene Änderung in der Spalte "Status" **automatisch** die gewünschte **Anpassung des Eintrags** in der Spalte "Payroll" aus.
+
+![Ausführung der Beispiel-Automation](images/example-for-a-simple-automation.gif)

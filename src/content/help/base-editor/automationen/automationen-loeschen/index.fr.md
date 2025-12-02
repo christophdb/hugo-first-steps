@@ -1,5 +1,5 @@
 ---
-title: 'Supprimer des automatismes'
+title: 'Supprimer des automatisations'
 date: 2022-12-06
 lastmod: '2023-02-01'
 categories:
@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Supprimer des automatisations dans SeaTable facilement'
     description: 'Mode d’emploi pour effacer une automatisation dans SeaTable, éviter les erreurs, connaître l’impact sur les règles et actions.'
-
+weight: 10
 ---
 
 {{< required-version "Entreprise" >}}
@@ -20,26 +20,17 @@ Vous pouvez **supprimer** à tout moment les **règles d'automatisation** déjà
 
 ## Comment supprimer une automatisation
 
-1. Ouvrez un **tableau** dans lequel vous souhaitez supprimer une automatisation déjà créée.
-2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} et ensuite sur **Règles d'automatisation**.
-3. Cliquez sur l'**icône de la corbeille** à droite de la règle d'automatisation correspondante {{< seatable-icon icon="dtable-icon-delete" >}}.
+![Supprimer une automatisation](images/delete-automation-rule.gif)
+
+1. Ouvrez une **Base** dans laquelle vous souhaitez supprimer une automatisation déjà créée.
+2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de la base, puis sur **Règles d'automatisation**.
+3. Passez le curseur de la souris sur la règle d'automatisation correspondante, cliquez sur les trois points, puis sur {{< seatable-icon icon="dtable-icon-delete" >}} **Supprimer la règle** .
 4. Confirmez en cliquant sur **Supprimer**.
 
-{{< warning  headline="La suppression est définitive"  text="La règle d'automatisation supprimée disparaît ensuite **définitivement** et ne peut **pas** être restaurée." />}}
+{{< warning type="warning" headline="La suppression est définitive" text="La règle d'automatisation supprimée est ensuite **définitivement disparue et ne peut pas être restaurée**." />}}
 
-## Conséquences
+## Effets
 
-Selon les actions que vous aviez définies pour une automatisation, la suppression d'une règle d'automatisation peut avoir **différentes conséquences**. Mais en principe, l'événement déclencheur défini pour une automatisation ne déclenchera **plus** d'action après la suppression, tant qu'il ne fait pas office de déclencheur pour une automatisation encore existante.
+Selon les actions que vous aviez définies pour une automatisation, la suppression d'une règle d'automatisation peut avoir **différentes conséquences**. En principe, l'événement déclencheur défini **ne déclenchera plus aucune action** après la suppression, sauf s'il sert encore de déclencheur pour une autre automatisation existante.
 
-Les effets de la suppression des automatismes sur les différentes actions peuvent être observés dans le tableau suivant :
-
-| Action                                            | Effet en cas de suppression de la règle d'automatisation                                                                                              |
-| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Envoyer une notification                          | Lorsque l'événement déclencheur se produit, les notifications ne sont plus envoyées.                                                                  |
-| Envoyer un e-mail                                 | Lorsque l'événement déclencheur se produit, plus aucun e-mail n'est envoyé.                                                                           |
-| Ajouter une ligne                                 | Lorsque l'événement déclencheur se produit, plus aucune ligne n'est ajoutée.                                                                          |
-| Entrée de la serrure                              | Lorsque l'événement déclencheur se produit, les lignes ne sont plus bloquées pour le traitement. Les lignes déjà bloquées restent cependant bloquées. |
-| Modifier l'entrée                                 | Lorsque l'événement déclencheur se produit, plus aucune entrée n'est traitée.                                                                         |
-| Ajouter des liens                                 | Lorsque l'événement déclencheur se produit, plus aucun lien n'est ajouté.                                                                             |
-| Ajouter une nouvelle entrée dans un autre tableau | Lorsque l'événement déclencheur se produit, plus aucune entrée n'est ajoutée dans un autre tableau.                                                    |
-| Exécuter un script Python                         | Lorsque l'événement déclencheur se produit, les scripts Python ne sont plus exécutés.                                                                 |
+En particulier pour les actions complexes à créer, comme l'envoi d'e-mails, les scripts Python ou les fonctions d'intelligence artificielle, vous devriez envisager de simplement [suspendre l'automatisation]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}) plutôt que de la supprimer définitivement.

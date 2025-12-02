@@ -1,91 +1,127 @@
 ---
-title: 'Activador de automatización'
+title: 'Disparadores de automatización'
 date: 2023-01-27
-lastmod: '2024-02-12'
+lastmod: '2025-11-11'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/automations-triggers-seatable'
 aliases:
     - '/es/ayuda/automations-trigger'
 seo:
-    title: 'Activadores de automatización: opciones en SeaTable'
-    description: 'Conozca los triggers disponibles para automatizaciones en SeaTable y las acciones configurables para cada evento.'
-
+    title: 'Disparadores de automatización: opciones en SeaTable'
+    description: 'Conozca los disparadores disponibles para automatizaciones en SeaTable y las acciones configurables para cada evento.'
+weight: 5
 ---
 
 {{< required-version "Empresa" >}}
 
-**Los eventos desencadenantes** son uno de los dos componentes esenciales de las automatizaciones. Los eventos desencadenan diferentes tipos de **acciones**, que puede definir individualmente para cada automatización. Este artículo le ofrece una **visión general** de los distintos tipos de eventos desencadenantes.
+**Los eventos desencadenantes** son uno de los dos componentes principales de las automatizaciones. Los eventos desencadenan diferentes tipos de [acciones]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), que puede definir individualmente para cada automatización. Este artículo le ofrece una **visión general** de los diferentes tipos de desencadenantes.
 
-## Activadores de automatización disponibles
+## Disparadores de automatización disponibles
 
-En la última versión de SeaTable, hay un total de **cuatro** eventos desencadenantes diferentes entre los que elegir:
+En la última versión de SeaTable, hay un total de **cuatro** disparadores diferentes entre los que elegir:
 
-- Las entradas cumplen determinadas condiciones tras la edición
-- Se añade una nueva entrada
-- Activador periódico
-- Activación periódica de las entradas que cumplan determinadas condiciones
+![Eventos desencadenantes actualmente disponibles](images/automation-triggers.jpg)
 
-## Activador de automatización: las entradas cumplen determinadas condiciones tras el tratamiento
+- Cuando se modifica una fila
+- Cuando se añade una fila
+- A una hora programada
+- A una hora programada para las entradas que cumplan determinadas condiciones
 
-Si selecciona este evento como desencadenante, la automatización correspondiente se desencadena cada vez que una entrada de la vista de tabla seleccionada cumple determinadas **condiciones** tras la edición.
+## Ajustes del disparador
 
-Con las condiciones, puede definir individualmente para cada **columna** **cómo debe** ser el **valor** correspondiente después de la edición para activar la automatización. En el transcurso de este proceso, puede decidir si **todas las** columnas de la vista de tabla o sólo las **seleccionadas** deben supervisarse para detectar la aparición del evento desencadenante.
+Para crear o editar un disparador, haga clic en la casilla correspondiente de la zona central del editor de automatización. Los ajustes del disparador aparecerán entonces a la derecha.
 
-Si selecciona el evento "Las entradas cumplen determinadas condiciones tras la edición" como desencadenante de una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
+![ajustes del disparador](images/automation-trigger-settings.jpg)
+
+- Primero puede cambiar el **disparador** utilizando el menú desplegable. Para ello, seleccione el evento de activación deseado.
+- A continuación, defina la **tabla** y la **vista** en las que debe tener efecto la automatización.
+- En función del tipo de desencadenante, puede realizar más ajustes, por ejemplo, las **columnas supervisadas**, las **condiciones** para el desencadenamiento o la **hora** de desencadenamiento.
+
+![ajustes del disparador en detalle](images/automation-trigger-settings.gif)
+
+{{< warning headline="Guardar cambios" text="¡No olvide **guardar** los ajustes del disparador! De lo contrario, todos los cambios se perderán cuando cierre la ventana." />}}
+
+## Disparador de automatización: Cuando se modifica una fila
+
+Si selecciona este evento como desencadenante, la automatización correspondiente se disparará cada vez que se modifique un valor en una de las columnas supervisadas y una línea de la vista seleccionada cumpla determinadas condiciones tras la edición. Si desea que el desencadenante se dispare cada vez que se produzca un cambio, no añada ninguna condición.
+
+En las **Condiciones**, puede definir individualmente para cada columna cómo debe ser el valor correspondiente tras la edición para que se inicie la automatización. Como parte de esto, puede decidir si todas o sólo las columnas seleccionadas en la vista deben ser monitorizadas para la ocurrencia del evento desencadenante.
+
+![Ajustes de activación cuando se modifica una fila](images/automation-trigger-when-a-row-is-updated.jpg)
+
+Si selecciona este evento como desencadenante de una automatización, puede elegir entre las siguientes **acciones automáticas**:
 
 - Enviar notificación
 - Enviar notificación de aplicación
 - Enviar correo electrónico
-- Añadir línea
-- Entrada de la cerradura
-- Editar entrada
+- Añadir registro
+- Bloquear registro
+- Modificar registro
 - Añadir enlaces
-- Añadir una nueva entrada en otra tabla
+- Añadir registro a otra tabla
 - Ejecutar script Python
+- Llamar a la IA
 
-## Activador de automatización: se añade una nueva entrada
+## Activador de automatización: Cuando se añade una fila
 
-Si selecciona este evento como desencadenante, la automatización correspondiente se desencadenará cada vez que se añada una nueva **entrada** en la vista de tabla seleccionada. Además, puede restringir aún más la aparición del evento estableciendo individualmente un **valor** para cada columna que **debe contener** la nueva entrada para activar la automatización.
+Si selecciona este evento como desencadenante, la automatización correspondiente se activará cada vez que se añada una **nueva fila** en la vista seleccionada. Además, puede restringir aún más la aparición del evento definiendo **condiciones** que debe cumplir la nueva fila.
 
-Si selecciona el evento "Se añade una nueva entrada" como desencadenante de una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
+![Configuración del disparo cuando se añade una fila](images/automation-trigger-when-a-row-is-added.jpg)
+
+En las condiciones, puede especificar individualmente para cada columna cuál debe ser el valor correspondiente para que se inicie la automatización. Si desea que cada nueva fila active la automatización, no añada ninguna condición.
+
+{{< warning headline="Consejo" text="Este activador es especialmente útil, por ejemplo, cuando se importan nuevos registros de datos o se introducen a través de formularios." />}}
+
+Si selecciona este evento como desencadenante de una automatización, podrá elegir entre las siguientes **acciones automáticas**:
 
 - Enviar notificación
 - Enviar notificación de aplicación
 - Enviar correo electrónico
-- Añadir línea
-- Entrada de la cerradura
-- Editar entrada
+- Añadir registro
+- Bloquear registro
+- Modificar registro
 - Añadir enlaces
-- Añadir una nueva entrada en otra tabla
+- Añadir registro a otra tabla
 - Ejecutar script Python
+- Llamar a la IA
 
-## Activación automática: Activación periódica
+## Disparador de automatización: A una hora programada
 
-Si asigna una activación periódica a una automatización, puede definir una **hora a la** que la automatización se active **diaria**, **semanal** o **mensualmente**. Aunque sólo puede especificar la **hora** para una automatización diaria, también puede especificar un **día de la** semana para una automatización semanal o una **fecha exacta para** una automatización mensual.
+Si selecciona este disparador, podrá definir una **hora** a la que se ejecutará la automatización **diaria**, **semanal** o **mensual**.
 
-Si establece un disparador periódico para una automatización, las siguientes **acciones automáticas** están disponibles para su selección:
+![Configuración de opciones para un disparador diario a una hora programada](images/automation-trigger-at-scheduled-time.jpg)
+
+Aunque sólo puede especificar la **hora** para una automatización diaria, también puede especificar el **día de la semana** para una automatización semanal o el **día del calendario** para una automatización mensual.
+
+![Configuración de opciones para un disparo semanal a una hora programada](images/automation-trigger-at-scheduled-time-weekly.jpg)
+
+Si configura este disparador para una automatización, podrá elegir entre las siguientes **acciones automáticas**:
 
 - Enviar notificación
 - Enviar notificación de aplicación
 - Enviar correo electrónico
-- Añadir línea
+- Añadir registro
 - Añadir enlaces
 - Ejecutar script Python
-- Ejecutar la operación de tratamiento de datos
+- Llamar a la IA
+- Ejecutar procesado de datos
+- Generar PDF a partir de un documento y enviarlo
 
-## Activador de automatización: Activador periódico para entradas que cumplan determinadas condiciones
+## Disparador de automatización: A una hora programada para las entradas que cumplan determinadas condiciones
 
-Este desencadenante es una mezcla del desencadenante periódico y del desencadenante "Las entradas cumplen determinadas condiciones tras el procesamiento". Por un lado, puede especificar un **momento** congruente con el disparador periódico en el que la automatización se active **diaria**, **semanal** o **mensualmente**.
+Con este desencadenante, usted especifica una **hora** congruente con el desencadenante mencionado anteriormente a la que se activa la automatización **diaria**, **semanal** o **mensual**. También puede limitar las filas que se ven afectadas por este evento desencadenante.
 
-Además, con este evento desencadenante puede definir individualmente determinadas **condiciones para** cada columna de la tabla, que las **entradas** de la columna respectiva deben cumplir para que la automatización se complete en el momento especificado.
+Para las **condiciones**, puede especificar individualmente para cada columna cómo debe ser el valor correspondiente para que la automatización se ejecute en el momento especificado.
 
-Si selecciona la opción "Activación periódica para entradas que cumplan determinadas condiciones" para una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
+![Disparo a una hora programada para los registros que cumplan determinadas condiciones](images/automation-trigger-at-scheduled-time-for-records-that-match-condition.jpg)
+
+Si selecciona este disparador para una automatización, podrá elegir entre las siguientes **acciones automáticas**:
 
 - Enviar notificación
 - Enviar notificación de aplicación
 - Enviar correo electrónico
-- Entrada de la cerradura
-- Editar entrada
+- Bloquear registro
+- Modificar registro
 - Convertir página a PDF

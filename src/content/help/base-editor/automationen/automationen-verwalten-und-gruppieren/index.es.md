@@ -1,39 +1,59 @@
 ---
-title: 'Gestionar y editar automatizaciones'
+title: 'Gestionar, agrupar y mover reglas de automatización'
 date: 2023-01-27
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/gestionar-editar-automatizaciones-seatable'
 aliases:
     - '/es/ayuda/automationen-verwalten-und-bearbeiten'
 seo:
-    title: 'Gestionar y editar automatizaciones en SeaTable'
-    description: 'Aprenda a administrar y modificar automatizaciones existentes: configure triggers, altere acciones y mantenga sus procesos automáticos siempre actualizados.'
-
+    title: 'Gestionar, agrupar y mover reglas de automatización en SeaTable'
+    description: 'Aprenda a gestionar, agrupar o mover fácilmente las reglas de automatización existentes.'
+weight: 3
 ---
 
-{{< required-version "Empresa" >}}
+Puede gestionar, agrupar y mover las reglas de automatización que haya creado para poder realizar ajustes en las automatizaciones existentes en cualquier momento.
 
-Para poder realizar ajustes en las automatizaciones ya creadas en cualquier momento, tiene la posibilidad de gestionar y editar las reglas de automatización creadas.
+## Gestionar reglas de automatización
 
-## Gestionar y editar automatizaciones
+1. Abra una **Base** en la que ya haya creado una automatización.
+2. En la cabecera de la base, haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y después en **Reglas de automatización**.
+3. Mueva el puntero del ratón sobre la regla de automatización correspondiente y haga clic en los **tres puntos**.
+4. Realice los **ajustes** deseados en la automatización.
 
-1. Abra una **tabla** en la que ya haya creado una automatización.
-2. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
-3. Sitúe el puntero del ratón sobre la regla de automatización correspondiente y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
-4. Realice los **ajustes** deseados **en** la automatización.
-5. Confirme con **Enviar**.
+![administrar reglas de automatización](images/manage-automation-rules.jpg)
 
-## Opciones de gestión
+Una vez seleccionada una regla de automatización, también puede abrir el mismo menú pulsando sobre el título en la zona central.
 
-Puede ajustar las siguientes opciones para una automatización:
+![Opciones de gestión de las reglas de automatización](images/automation-managing-options.jpg)
 
-- El **nombre**
-- El **cuadro** en el que actúa la automatización
-- La **vista en** la que funciona la automatización
-- El **evento desencadenante de** una automatización
-- Las **columnas** que SeaTable supervisa con vistas a la ocurrencia del evento desencadenante
-- Las **condiciones de filtrado** del evento desencadenante
-- Añadir, ajustar o eliminar **acciones automatizadas**
+Las siguientes opciones de gestión están disponibles para cada regla de automatización:
+
+- **Renombrar regla**
+- [Abrir registro]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Pausar regla]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
+- [Borrar regla]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
+
+Puede obtener más información sobre cada una de las opciones en los artículos enlazados.
+
+## Agrupar reglas de automatización
+
+Para resumir las reglas de automatización en grupos, puede crear las carpetas correspondientes.
+
+Para ello, haga clic en **Añadir regla o carpeta** y después en **Carpeta**.
+
+![crear carpeta para reglas de automatización](images/create-folder-for-automation-rules.jpg)
+
+Dé un **nombre** a la carpeta y confirme con el botón **Intro**.
+
+Mueva el puntero del ratón sobre la carpeta y haga clic en los **tres puntos** para renombrar o borrar la carpeta. También puede añadir una nueva regla de automatización directamente en la carpeta.
+
+![Opciones de gestión de una carpeta de automatización](images/automation-folder-options.jpg)
+
+## Mover reglas de automatización
+
+Para cambiar el orden de las reglas de automatización o moverlas a una carpeta, mantenga pulsado el botón izquierdo del ratón y arrastre y suelte la regla a la ubicación deseada. Puede mover carpetas del mismo modo.
+
+![mover reglas de automatización](images/move-automation-rules-and-folders.gif)

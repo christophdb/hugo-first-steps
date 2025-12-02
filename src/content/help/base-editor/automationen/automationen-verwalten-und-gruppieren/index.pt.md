@@ -1,39 +1,61 @@
 ---
-title: 'Gerir e editar automatizações'
+title: 'Gerir, agrupar e mover regras de automatização'
 date: 2023-01-27
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/pt/ajuda/gerenciar-editar-automacoes-seatable'
 aliases:
     - '/pt/ajuda/automationen-verwalten-und-bearbeiten'
 seo:
-    title: 'Gerenciar e editar automações no SeaTable: tutorial'
-    description: 'Saiba como administrar e atualizar suas automações existentes: troque nomes, ajuste triggers, edite ações e mantenha fluxos automáticos sempre corretos.'
-
+    title: 'Gerir, agrupar e mover regras de automatização no SeaTable'
+    description: 'Saiba como gerir, agrupar ou mover facilmente as regras de automatização existentes.'
+weight: 3
 ---
 
 {{< required-version "Empresa" >}}
 
-Para poder fazer ajustes às automatizações já criadas em qualquer altura, tem a possibilidade de gerir e editar as suas regras de automatização criadas.
+Pode gerir, agrupar e mover as regras de automatização que criou, para que possa fazer ajustes às automatizações existentes em qualquer altura.
 
-## Gerir e editar automatismos
+## Gerir regras de automatização
 
-1. Abra uma **tabela** na qual já tenha criado uma automatização.
-2. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
-3. Mova o ponteiro do rato sobre a regra de automatização correspondente e clique no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
-4. Fazer os **ajustamentos** desejados **à** automatização.
-5. Confirmar com **Submeter**.
+1. Abra uma **Base** na qual já tenha criado uma automatização.
+2. No cabeçalho da base, clique em {{< seatable-icon icon="dtable-icon-rule" >}} e depois em **Regras de automatização**.
+3. Mova o ponteiro do rato sobre a regra de automatização relevante e clique nos **três pontos**.
+4. Faça os **ajustes** desejados à automatização.
 
-## Opções de gestão
+![Gerir regras de automatização](images/manage-automation-rules.jpg)
 
-É possível ajustar as seguintes definições para uma automatização:
+Depois de ter selecionado uma regra de automatização, pode também abrir o mesmo menu clicando no título na área central.
 
-- O **nome**
-- A **tabela** em que actua a automatização
-- A **visão em que** a automatização funciona
-- O **evento de desencadeamento de** uma automatização
-- As **colunas** que o SeaTable monitoriza com vista à ocorrência do evento de disparo
-- As **condições de filtragem do** evento de disparo
-- Adicionar, ajustar ou apagar **acções automatizadas**
+![Opções de gestão das regras de automatização](images/automation-managing-options.jpg)
+
+Para cada regra de automatização, tem à sua disposição as seguintes opções de gestão:
+
+- **Renomear regra**
+- [Abrir registo]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Pausar regra]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
+- [Eliminar regra]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
+
+Pode obter mais informações sobre as opções individuais nos artigos associados.
+
+## Agrupar regras de automatização
+
+Para resumir as regras de automatização em grupos, pode criar pastas correspondentes.
+
+Para o fazer, clique em **Adicionar regra ou pasta** e depois em **Pasta**.
+
+![crie uma pasta para regras de automatização](images/create-folder-for-automation-rules.jpg)
+
+Atribua um **nome** à pasta e confirme com o botão **Enter**.
+
+Mova o ponteiro do rato sobre a pasta e clique nos **três pontos** para mudar o nome ou apagar a pasta. Também pode adicionar uma nova regra de automatização diretamente na pasta.
+
+![Opções de gestão de uma pasta de automatização](images/automation-folder-options.jpg)
+
+## Mover regras de automatização
+
+Para alterar a ordem das regras de automatização ou movê-las para uma pasta, mantenha premido o botão esquerdo do rato e arraste e largue a regra para a localização pretendida. Pode mover as pastas da mesma forma.
+
+![Mover regras de automatização](images/move-automation-rules-and-folders.gif)

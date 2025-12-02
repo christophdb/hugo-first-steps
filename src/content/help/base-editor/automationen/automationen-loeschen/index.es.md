@@ -1,45 +1,36 @@
 ---
 title: 'Borrar automatizaciones'
 date: 2022-12-06
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/eliminar-automatizaciones-seatable'
 aliases:
     - '/es/ayuda/automationen-loeschen'
 seo:
     title: 'Eliminar automatizaciones en SeaTable: guía completa'
     description: 'Sepa cómo borrar automatizaciones en SeaTable, cuáles son los efectos para acciones y cómo administrar reglas paso a paso.'
-
+weight: 10
 ---
 
 {{< required-version "Empresa" >}}
 
-Puede **eliminar** **reglas de automatización** ya creadas en cualquier momento. Tenga en cuenta qué efectos tiene la supresión en las distintas **acciones automatizadas**.
+Puede **eliminar reglas de automatización** ya creadas en cualquier momento. Tenga en cuenta qué efectos tiene la supresión en las distintas **acciones automatizadas**.
 
 ## Para eliminar una automatización
 
-1. Abra una **tabla** en la que desee eliminar una automatización ya creada.
-2. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y, a continuación, en **Reglas de automatización**.
-3. Haga clic en el **icono de la papelera** situado a la derecha de la regla de automatización correspondiente {{< seatable-icon icon="dtable-icon-delete" >}}.
+![eliminar una automatización](images/delete-automation-rule.gif)
+
+1. Abra una **base** en la que desee eliminar una automatización ya creada.
+2. En la cabecera de la base, haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y después en **Reglas de automatización**.
+3. Desplace el puntero del ratón sobre la regla de automatización correspondiente, haga clic en los tres puntos y, a continuación, en {{< seatable-icon icon="dtable-icon-delete" >}} **Borrar regla** .
 4. Confirme con **Borrar**.
 
-{{< warning  headline="La supresión es definitiva"  text="La regla de automatización eliminada desaparece para **siempre** y **no puede** restaurarse." />}}
+{{< warning type="warning" headline="El borrado es definitivo" text="La regla de automatización borrada habrá **desaparecido definitivamente y no podrá restaurarse**." />}}
 
-## Impacto
+## Efectos
 
-Dependiendo de las acciones que hayas definido para una automatización, la eliminación de una regla de automatización puede tener **diferentes consecuencias**. Básicamente, sin embargo, el evento desencadenante definido para una automatización ya **no** desencadenará una acción después de la eliminación, siempre y cuando no actúe como desencadenante de una automatización aún existente.
+Dependiendo de las acciones que hubiera definido para una automatización, la eliminación de una regla de automatización puede tener **diferentes consecuencias**. En principio, sin embargo, el evento desencadenante definido **ya no desencadenará ninguna acción** tras la eliminación – a menos que se siga utilizando como desencadenante de otra automatización existente.
 
-Puede ver qué efectos tiene la eliminación de automatizaciones en las distintas acciones en la siguiente tabla:
-
-| Acción                                 | Efecto de la eliminación de la regla de automatización                                                                                                                     |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Enviar notificación                    | Cuando se produce el evento desencadenante, no se envían más notificaciones.                                                                                               |
-| Enviar correo electrónico              | Cuando se produce el evento desencadenante, no se envían más correos electrónicos.                                                                                         |
-| Añadir línea                           | Cuando se produce el evento desencadenante, no se añaden más filas.                                                                                                        |
-| Entrada de la cerradura                | Cuando se produce el evento desencadenante, las filas dejan de estar bloqueadas para su edición. Sin embargo, las líneas que ya han sido bloqueadas permanecen bloqueadas. |
-| Editar entrada                         | Cuando se produce el evento desencadenante, no se procesan más entradas.                                                                                                   |
-| Añadir enlaces                         | Cuando se produce el evento desencadenante, no se añaden más enlaces.                                                                                                      |
-| Añadir una nueva entrada en otra tabla | Cuando se produce el evento desencadenante, no se añaden más entradas a otra tabla.                                                                                        |
-| Ejecutar script Python                 | Cuando se produce el evento desencadenante, no se ejecutan más scripts Python.                                                                                             |
+Especialmente en el caso de acciones complejas como el envío de correos electrónicos, scripts de Python o funciones de IA, debería considerar sólo [pausar la automatización]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}) en lugar de borrarla definitivamente.

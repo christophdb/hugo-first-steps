@@ -1,179 +1,230 @@
 ---
 title: 'Acções de automatização'
 date: 2023-01-27
-lastmod: '2024-02-12'
+lastmod: '2025-11-11'
 categories:
     - 'automationen'
-author: 'nsc2'
+author: 'kgr'
 url: '/pt/ajuda/acoes-automacao-seatable'
 aliases:
     - '/pt/ajuda/automations-aktionen'
 seo:
     title: 'Ações de automação no SeaTable: guia completo'
     description: 'Veja o que as automações SeaTable executam: e-mail, adicionar/bloquear linha, notificações, scripts Python, links e processamento de dados na Enterprise.'
-
+weight: 6
 ---
 
 {{< required-version "Empresa" >}}
 
-As **acções automatizadas** representam uma das duas componentes essenciais das automatizações. As acções são desencadeadas por **eventos de desencadeamento** definidos. Dependendo do [gatilho]({{< relref "help/base-editor/automationen/automations-trigger" >}}), a SeaTable pode realizar diferentes acções de automatização. Este artigo fornece uma **visão geral** dos diferentes tipos de acções automatizadas.
+As **acções automatizadas** representam uma das duas componentes essenciais das automatizações. As acções são desencadeadas por **eventos de desencadeamento** definidos. Dependendo do [accionador]({{< relref "help/base-editor/automationen/automations-trigger" >}}), a SeaTable pode realizar diferentes acções de automatização. Este artigo fornece uma **visão geral** dos diferentes tipos de acções automatizadas.
 
 ## Acções de automatização disponíveis
 
-A última versão do SeaTable oferece um total de **onze** acções de automatização diferentes à escolha:
+A última versão do SeaTable oferece um total de 13 acções de automatização diferentes à sua escolha:
 
 - Enviar notificação
 - Enviar notificação de aplicação
 - Enviar e-mail
-- Adicionar linha
-- Entrada de bloqueio
-- Editar entrada
-- Acrescentar ligações
-- Adicionar nova entrada em outra tabela
+- Adicionar registro
+- Bloquear registro
+- Modificar registro
+- Adicionar ligações
+- Adicionar uma nova entrada a outra tabela
+- Executar o script Python
+- Chamar a IA
+- Executar processamento de dados
 - Converter página em PDF
-- Executar guião Python
-- Executar operação de tratamento de dados
+- Gerar PDF a partir do documento e enviar
 
-## Acção de Automatização: Enviar Notificação
+## Adicionar, duplicar, mover e eliminar acções de automatização
 
-Ao definir "Enviar notificação" como uma ação automática, pode definir uma notificação para um ou mais utilizadores. Os utilizadores seleccionados recebem uma **notificação** sempre que o **acionador** correspondente é **acionado**.
+Para adicionar uma ação, clique no **botão grande com o símbolo de mais** e selecione a ação correspondente na lista pendente. Tenha em atenção que as acções disponíveis diferem consoante o acionador.
 
-Pode editar os **destinatários** e **o conteúdo** das notificações em qualquer altura nas **definições** de automatização. Para os destinatários, pode selecionar utilizadores individuais ou utilizadores numa coluna específica do tipo empregado, criador ou último editor.
+![Adicionar acções de automatização](images/automated-actions.jpg)
 
-Os utilizadores podem aceder às suas notificações através do **ícone de sino** {{< seatable-icon icon="dtable-icon-notice" >}} junto ao seu avatar no canto superior direito.
+Se já tiver configurado acções mais complexas, como o envio de e-mails, o processamento de dados ou funções de IA, também as pode duplicar. Basta clicar nos **três pontos** e depois em **Duplicar**. Isto significa que só tem de fazer pequenos ajustes a estas acções e poupa-lhe muito tempo.
 
+![duplicar acções de automatização](images/duplicate-automated-actions.jpg)
 
-A ação de automatização "Enviar notificação" está atualmente disponível para os seguintes **accionadores de automatização**:
+A ordem das acções pode ser facilmente alterada **arrastando e largando**. Mova o ponteiro do rato sobre uma caixa de ação, mantenha premido o botão esquerdo do rato na **área de arrastamento de seis pontos** e mova a ação para a posição pretendida. Isto permite-lhe personalizar de forma flexível a sequência de automatização.
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Desencadeamento periódico
-- Acionador periódico para entradas que preenchem uma determinada condição
+![Mover acções de automatização](images/move-automated-actions.gif)
 
-O artigo O [envio de notificações via automatização]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) percorre esta automatização utilizando um caso de uso concreto.
+Naturalmente, também pode eliminar as acções que já não são necessárias. Para o fazer, clique nos **três pontos** e depois em **Eliminar**. Tenha em atenção que as acções automatizadas são removidas **imediata e permanentemente** e não podem ser restauradas.
+
+![Eliminar acções automatizadas](images/delete-automated-actions.gif)
+
+## Ação de automatização: Enviar notificação
+
+Ao definir "Enviar notificação" como uma ação automática, pode definir uma notificação para um ou mais utilizadores. Os utilizadores selecionados receberão uma **notificação** sempre que o acionador correspondente for acionado. Esta ação de automatização está disponível **para todos os accionadores de automatização**.
+
+Pode editar os **destinatários** e o **conteúdo** das notificações em qualquer altura nas **configurações** da ação. Para os destinatários, pode selecionar especificamente **utilizadores individuais** ou utilizadores numa coluna específica do tipo [Colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Último modificador]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}). Escreva a mensagem pretendida no campo de texto e utilize as referências de coluna entre chavetas para inserir valores específicos.
+
+![Enviar notificação através de automatização](images/send-notification-action-settings.jpg)
+
+Os utilizadores podem consultar as suas notificações através do {{< seatable-icon icon="dtable-icon-notice" >}} **ícone de campainha** junto ao seu avatar no canto superior direito.
+
+![Notificação recebida](images/example-action-notification.png)
+
+O artigo [Enviar notificações através de automatização]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) analisa esta automatização utilizando um caso de utilização específico.
 
 ## Ação de automatização: Enviar notificação de aplicação
 
-Ao definir "Enviar notificação de aplicação" como uma ação automatizada, pode definir uma notificação para um ou mais utilizadores de uma aplicação. Os utilizadores seleccionados recebem uma **notificação** na aplicação sempre que o **acionador** correspondente **é acionado**.
+Ao definir "Enviar notificação de aplicação" como uma ação automatizada, pode definir uma notificação para um ou mais utilizadores de uma aplicação. Os utilizadores selecionados recebem uma **notificação** na aplicação sempre que o acionador correspondente é acionado. Esta ação de automatização está disponível **para todos os accionadores de automatização**.
 
-Nas **definições** de automatização, pode definir a que **aplicação** e a que **destinatários** devem ser enviadas as notificações. Para os destinatários, pode selecionar especificamente utilizadores individuais ou utilizadores numa determinada coluna do tipo empregado, criador ou último editor. Introduza o **conteúdo** pretendido da notificação no campo de texto.
+Nas **Definições** da ação, pode definir para que **aplicação** e para que **receptores** as notificações devem ser enviadas. Para os destinatários, pode selecionar especificamente **utilizadores individuais da aplicação** ou notificar utilizadores numa coluna específica do tipo **Colaborador, Criador ou Último modificador**. Introduza o **conteúdo** pretendido da notificação no campo de texto. Utilize referências de coluna entre chavetas para inserir valores específicos.
 
-Os utilizadores da respectiva aplicação podem aceder às suas notificações através do **ícone de sino** {{< seatable-icon icon="dtable-icon-notice" >}} junto ao seu avatar no canto superior direito.
+![envie a notificação da aplicação através da automatização](images/send-app-notification-action-settings.jpg)
 
-A ação de automatização "Enviar notificação de aplicação" está atualmente disponível para os seguintes **accionadores de automatização**:
+Os utilizadores da respectiva aplicação podem consultar as suas notificações através do {{< seatable-icon icon="dtable-icon-notice" >}} **ícone de campainha** junto ao seu avatar no canto superior direito.
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Desencadeamento periódico
-- Acionador periódico para entradas que preenchem uma determinada condição
+![verifique as notificações na aplicação](images/check-app-notifications.jpg)
 
-## Acção de automatização: Enviar e-mail
+## Ação de automatização: Enviar e-mail
 
-Ao definir "Enviar e-mail" como uma ação automática, pode enviar e-mails predefinidos para um ou mais utilizadores. O SeaTable envia um **e-mail** a cada utilizador selecionado assim que o **acionador** correspondente é **acionado**. Pode editar o destinatário, o assunto, o conteúdo e os anexos da mensagem de correio eletrónico em qualquer altura nas **definições** de automatização.
+Ao definir "Enviar e-mail" como uma ação automatizada, pode enviar e-mails predefinidos a um ou mais utilizadores. SeaTable envia um **e-mail** a cada utilizador selecionado assim que o acionador correspondente é acionado. Esta ação de automatização está disponível **para todos os accionadores de automatização**.
 
+Pode editar a **conta de e-mail**, o **assunto**, o **destinatário**, a **mensagem** e os **anexos** do e-mail em qualquer altura nas **configurações** da ação. Utilize referências de coluna entre chavetas para inserir determinados valores em campos de texto.
 
-A ação de automatização "Enviar e-mail" está atualmente disponível para os seguintes **accionadores de automatização**:
+![definição da ação de automatização: Enviar e-mail](images/send-email-action-settings.jpg)
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Desencadeamento periódico
-- Acionador periódico para entradas que preenchem uma determinada condição
+O artigo [Enviar e-mails através da automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) analisa esta automatização utilizando um caso de utilização específico.
 
-O artigo [Despacho de Correio Electrónico por Automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) passa por esta automatização utilizando um caso de uso concreto.
+## Ação de automatização: Adicionar registro
 
-## Acção de automatização: adicionar linha
+Se definir "Adicionar registro" como uma ação automatizada, é adicionada uma **nova linha** à tabela sempre que o acionador correspondente é acionado. Pode definir antecipadamente os valores exactos para cada coluna individualmente.
 
-Se definir "Adicionar linha" como uma ação automática, é adicionada uma **nova entrada** à tabela assim que o **acionador** correspondente for acionado. Pode definir antecipadamente o **conteúdo** exato da entrada individualmente para cada coluna.
+![Ação automática: Adicionar registro](images/add-record-action-settings.jpg)
 
-A ação de automatização "Adicionar linha" está atualmente disponível para os seguintes **accionadores de automatização**:
+A ação de automatização "Adicionar registro" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+- Numa hora programada
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Desencadeamento periódico
+O artigo [Adicionar registros através da automatização]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) analisa esta automatização utilizando um caso de utilização específico.
 
-O artigo [Adding Rows via Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) percorre esta automatização utilizando um caso de utilização concreta.
+## Ação de automatização: Bloquear registro
 
-## Acção de automatização: Lock entry
+Se definir "Bloquear registro" como uma ação automatizada, a **linha** que desencadeou a automatização é bloqueada para edição. Não pode fazer quaisquer outras definições para esta ação – deve configurar as condições para o bloqueio da linha no **Acionador**. Tenha em atenção que já não pode **desbloquear** linhas bloqueadas sem direitos de administrador.
 
-Se definir "Bloquear entrada" como uma ação automatizada, a **linha** com a entrada que desencadeou a automatização é **bloqueada** para edição. Tenha em atenção que já **não** é possível **desbloquear** linhas bloqueadas sem direitos de administrador.
+![definição da ação de automatização: Bloquear uma entrada na tabela](images/lock-record-action.jpg)
 
-A ação de automatização "Bloquear entrada" está atualmente disponível para os seguintes **accionadores de automatização**:
+![bloqueio de uma entrada numa tabela acionada por uma automatização](images/example-locked-records.jpg)
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Acionador periódico para entradas que preenchem uma determinada condição
+A ação de automatização "Bloquear registro" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+- Numa hora programada para entradas que preencham determinadas condições
 
-O artigo [Locking Lines by Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) percorre esta automatização utilizando um caso de uso concreto.
+O artigo [Bloquear linhas utilizando a automatização]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) analisa esta automatização utilizando um caso de utilização específico.
 
-## Acção de automatização: editar entrada
+## Ação de automatização: Modificar registro
 
-Se selecionar "Processar entrada" como uma ação automatizada, **as entradas** na tabela são ajustadas de acordo com as **configurações** definidas antecipadamente após o acionamento do **trigger**. Como se pode ver na captura de ecrã, por exemplo, a data de início de um novo empregado que é introduzido na tabela pode ser automaticamente definida para a data de hoje.
+Se selecionar "Modificar registro" como uma ação automatizada, as **linhas** na tabela são ajustadas de acordo com as **configurações** previamente definidas depois de o acionador ser acionado. Pode definir um valor para cada coluna que as linhas adoptam automaticamente após a alteração.
 
+![Ação automática: Modificar registro](images/modify-record-action-settings.jpg)
 
-A ação de automatização "Editar entrada" está atualmente disponível para os seguintes **accionadores de automatização**:
+A ação de automatização "Modificar registro" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+- Numa hora programada para entradas que preencham determinadas condições
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Acionador periódico para entradas que preenchem uma determinada condição
+## Ação de automatização: Adicionar ligações
 
-## Acção de automatização: Adicionar ligações
+Se selecionar "Adicionar ligações" como uma ação automática, é criada uma [ligação a outras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na coluna correspondente quando o acionador é acionado. Nas **definições** da ação, pode especificar exatamente em que condições o link é adicionado à tabela.
 
-Se selecionar "Adicionar ligações" como uma ação automatizada, é criada uma ligação [a entradas noutra tabela]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na coluna correspondente quando o **acionador é acionado**. Nas **definições** da regra de automatização, pode especificar exatamente em que condições a ligação é adicionada à tabela.
-
+![Ação de automatização: Adicionar ligações](images/add-links-action-settings.jpg)
 
 A ação de automatização "Adicionar ligações" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+- Numa hora programada
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Desencadeamento periódico
+O artigo [Ligar entradas através da automatização]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) analisa esta automatização utilizando um caso de utilização específico.
 
-O artigo [A ligação de entradas por automatização]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) passa por esta automatização utilizando um caso de uso concreto.
+## Ação de automatização: Adicionar nova entrada a outra tabela
 
-## Acção de automatização: adicionar nova entrada em outra tabela
+Se selecionar "Adicionar nova entrada a outra tabela" como uma ação automatizada, é criada uma **linha noutra tabela** quando o acionador é acionado. Nas **definições** da ação, pode definir valores individuais para cada coluna que são atribuídos às linhas na tabela selecionada como parte da automatização. Também pode selecionar colunas do mesmo tipo na tabela de origem para copiar entradas de linha para a outra tabela.
 
-Se selecionar "Adicionar nova entrada noutra tabela" como uma ação automatizada, é criada uma **entrada** **noutra** tabela quando o **acionador é acionado**. Nas **definições** da regra de automatização, pode definir entradas individuais que são adicionadas às tabelas seleccionadas como parte da automatização.
-
+![ação de automatização: Adicionar uma linha noutra tabela](images/add-record-to-other-table-action-settings.jpg)
 
 A ação de automatização "Adicionar nova entrada noutra tabela" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
+O artigo [Adicionar entradas a outras tabelas através da automatização]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) analisa esta automatização utilizando um caso de utilização específico.
 
-O artigo [Adicionando Entradas a Outras Tabelas via Automação]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) passa por esta automatização utilizando um caso de uso concreto.
+## Ação de automatização: Executar script Python
 
-## Ação de automatização: Converter a página em PDF
+Se selecionar a execução de um script Python como uma ação automatizada, o acionador põe em movimento um **Script Python** previamente definido. Pode criar ou editar o script a qualquer momento no [editor de scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) e depois seleccioná-lo nas **definições** da ação.
 
-Se selecionar "Converter página em PDF" como ação automática, é criado um documento PDF a partir do conjunto de dados e guardado numa [coluna de ficheiro]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). Também pode definir o **nome do ficheiro** nas definições da regra de automatização.
-
-
-A ação de automatização "Converter página em PDF" está atualmente disponível com o seguinte **acionador de automatização**:
-
-- Acionador periódico para entradas que preenchem uma determinada condição
-
-## Acção de automatização: Executar guião Python
-
-Se selecionar a execução de um script Python como uma ação automatizada, o SeaTable pode executar um **script Python** predefinido na tabela selecionada. Pode criar ou editar o script em qualquer altura no [editor de scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) e, em seguida, seleccioná-lo nas **definições** da regra de automatização.
-
+![Ação de automatização: Executar script Python](images/run-python-script-action-settings.jpg)
 
 A ação de automatização "Executar script Python" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+- Numa hora programada
 
-- Quando uma nova entrada é adicionada
-- As inscrições preenchem certas condições após a edição
-- Desencadeamento periódico
+## Ação de automatização: Chamar a IA
 
-## Acção de automatização: Realizar operação de processamento de dados
+Se selecionar a execução de uma função de IA como uma ação automatizada, o acionador chama um **modelo de IA** que executa uma ação predefinida na tabela. Pode configurar a ação exacta a ser executada nas **definições**. Dependendo do tipo de função de IA, podem ser necessárias **colunas de entrada**, **colunas de saída** e um **prompt**.
 
-Se o usuário selecionar a execução de uma operação de processamento de dados como uma ação automatizada, uma [operação de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) definida antecipadamente na tabela será executada quando o **acionador for acionado**. É possível definir a operação de processamento de dados a ser executada nas **opções** da regra de automatização.
+![definição de uma ação de automatização: Executar IA](images/run-ai-action-settings.jpg)
 
-Pode mandar realizar as seguintes **operações de processamento de dados** com uma automatização:
+Pode fazer com que as seguintes **funções de IA** sejam executadas com um automatismo:
 
-- [Calcular valores acumulados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- **Resumir**: Resume o texto de uma ou mais colunas. Pode controlar a extensão, o tom, o formato e o idioma do resumo, personalizando o aviso.
+- **Classificar**: Classifica os registos de uma ou mais colunas. Pode personalizar as categorias e regras utilizando o prompt. O resultado termina numa [coluna de seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou [coluna de seleção múltipla]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
+- **OCR**: Extrai texto de uma [coluna de imagem]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). O conteúdo reconhecido é escrito na coluna de resultado do tipo [Texto ou Texto formatado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+- **Extrair**: Extrai informações específicas de uma coluna do tipo texto ou número, de acordo com os seus requisitos. A informação extraída é escrita nas colunas de resultados.
+- **Personalizar**: Gera conteúdo com base no seu pedido. Utilize {nome da coluna} entre chavetas para inserir o valor da coluna de uma linha.
+
+![acções que podem ser executadas utilizando um modelo de IA](images/run-ai-functions.jpg)
+
+A ação de automatização "Chamar IA" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+- Numa hora programada
+
+## Ação de automatização: Executar processamento de dados
+
+Se selecionar a execução de processamento de dados como uma ação automatizada, o acionador inicia uma [operação de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) predefinida na tabela. Pode configurar a ação exacta a ser executada nas **definições**. Dependendo do tipo de operação, podem ser necessárias **certas colunas de entrada e saída**.
+
+![definição de uma ação de automatização: Executar operação de processamento de dados](images/run-data-processing-action-settings.jpg)
+
+Pode fazer com que as seguintes **operações de processamento de dados** sejam executadas com um automatismo:
+
+- [Calcular delta]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calcular a porcentagem]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
 - [Calcular a classificação]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
-- [Calcular alterações]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
-- [Calcular a percentagem]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Extraia o nome de usuário]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 - [Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
-- [Transferir nomes de utilizadores]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
+
+![Operações de processamento de dados que podem ser executadas utilizando a automatização](images/run-data-processing-available-operations.jpg)
 
 A ação de automatização "Executar operação de processamento de dados" está atualmente disponível para o seguinte **acionador de automatização**:
+- Numa hora programada
 
-- Desencadeamento periódico
+## Ação de automatização: Converter página em PDF
+
+Se selecionar "Converter página em PDF" como uma ação automatizada, o SeaTable irá **criar um documento PDF a partir do conjunto de dados** quando o acionador for acionado e guardá-lo numa [coluna de ficheiro]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}). Para o fazer, selecione um **template** que tenha criado previamente no [plugin de design de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). Também pode definir o **nome do ficheiro** nas definições da ação.
+
+![Criar PDF através da automatização](images/convert-page-to-pdf-action-settings.jpg)
+
+A ação de automatização "Converter página em PDF" está atualmente disponível com o seguinte **acionador de automatização**:
+- Numa hora programada para entradas que satisfaçam determinadas condições
+
+## Ação de automatização: Gerar PDF a partir do documento e enviar
+
+Se selecionar "Gerar PDF a partir do documento e enviar" como uma ação automatizada, SeaTable irá **criar um documento PDF** quando o acionador for acionado e guardá-lo na [gestão de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}). O SeaTable também pode enviá-lo diretamente por correio eletrónico.
+
+Nas **definições** da ação, selecione um **template** que tenha criado anteriormente no **Plugin de conceção de relatórios** e atribua um **nome de ficheiro**. Em seguida, active o cursor para selecionar uma **pasta própria** na qual gostaria de guardar o ficheiro. Se apenas pretender gerar o documento, pode terminar a configuração neste ponto.
+
+![criar e enviar PDF a partir de um design de relatório utilizando a automatização](images/generate-pdf-from-document-action-settings.jpg)
+
+Se pretender enviar o documento gerado, active o seletor "Enviar para e-mail". Pode editar a **conta de correio eletrónico**, o **destinatário**, o **assunto** e a **mensagem** do correio eletrónico em qualquer altura nas **configurações** da ação.
+
+![criar e enviar PDF a partir de um desenho de relatório utilizando a automatização](images/generate-pdf-from-document-and-send-action-settings.jpg)
+
+A ação de automatização "Gerar PDF a partir do documento e enviar" está atualmente disponível com o seguinte **acionador de automatização**:
+- Numa hora programada
