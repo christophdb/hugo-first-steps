@@ -1,7 +1,7 @@
 {{ define "main" }}
     <article class="padding mx-auto max-w-full">
         <header>
-            <h1 class="dark:text-neutral gradient mb-2 mt-0 pt-8 text-center text-4xl text-neutral-900 md:text-5xl">
+            <h1 class="gradient mb-2 mt-0 pt-8 text-center text-4xl text-neutral-900 md:text-5xl">
                 {{ .Title | emojify }}
             </h1>
             {{ if .Description }}
@@ -15,8 +15,11 @@
             {{ end }}
         </header>
 
-        <section class="mx-auto mt-20 max-w-[800px]">
+        <section class="mx-auto mt-20 max-w-[800px] print:hidden">
             {{ partial "toc.html" . }}
+            <!-- FIXME: richtig positionieren mit icon... 
+            <button onclick="window.print()">Seite drucken</button>
+            -->
         </section>
 
         <section class="mx-auto mt-4 max-w-[800px]" id="legal">

@@ -1,0 +1,112 @@
+{{ define "main" }}
+    <article class="padding mx-auto max-w-full">
+        <header>
+            <h1 class="dark:text-neutral gradient mb-2 mt-0 pt-8 text-center text-4xl text-neutral-900 md:text-5xl">
+                {{ .Title | emojify }}
+            </h1>
+            {{ if .Description }}
+                <p class="text-center text-sm">{{ .Description }}</p>
+            {{ end }}
+
+            {{ if and (.Params.Version) (not .Date.IsZero) }}
+                {{ $version := .Params.Version }}
+                {{ $date := .Date | time.Format "2006-01-02" }}
+                <p class="text-center text-sm">{{ T "legal.version" }} {{ $version }} {{ T "legal.published_on" }} {{ $date | time.Format site.Params.dateFormat }}</p>
+            {{ end }}
+        </header>
+
+        <section class="mx-auto mt-4 max-w-[800px]" id="avv">
+            {{ .Content }}
+
+            <form x-data="avvForm()" @submit.prevent="submitForm" method="post">
+                <div class="border-t border-gray-300 px-16 py-16">
+                    <div class="flex items-center gap-6">
+                        <div class="w-1/4 pl-16 text-right"><label class="font-poppins text-sm font-bold">Auftraggeber inkl. Adresse</label></div>
+                        <div class="block w-3/4">
+                            <input
+                                class="w-full rounded border border-gray-300 px-4 py-2"
+                                type="text"
+                                name="data_processing_agreement[responsible]"
+                                x-model="responsible"
+                                placeholder="Name, Straße, PLZ Ort, Land"
+                                required
+                                maxlength="70" />
+                        </div>
+                    </div>
+
+                    <div class="mt-12 border-t border-gray-300"></div>
+                    <p class="mt-2 font-poppins text-xs font-bold uppercase tracking-wider text-gray-400">Datenumfang</p>
+
+                    <div class="mt-8 flex gap-6">
+                        <div class="w-1/4 pl-16 text-right"><label class="font-poppins text-sm font-bold">Art der Daten</label></div>
+                        <div class="flex w-3/4 flex-col gap-2">
+                            <label><input type="checkbox" data-val="1" value="dataType_0" x-model="dataTypes" class="mr-3" />Personenstammdaten</label>
+                            <label><input type="checkbox" data-val="1" value="dataType_1" x-model="dataTypes" class="mr-3" />Kommunikationsdaten (z.B. Telefon, E-Mail)</label>
+                            <label><input type="checkbox" data-val="1" value="dataType_2" x-model="dataTypes" class="mr-3" />Vertragsstammdaten (z.B. Vertragsbeziehung)</label>
+                            <label><input type="checkbox" data-val="1" value="dataType_3" x-model="dataTypes" class="mr-3" />Kundenhistorie</label>
+                            <label><input type="checkbox" data-val="1" value="dataType_4" x-model="dataTypes" class="mr-3" />Vertragsabrechnungs- und Zahlungsdaten</label>
+                            <label>
+                                <input type="checkbox" data-val="1" value="dataType_5" x-model="dataTypes" class="mr-3" />
+                                Auskunftsangaben (z.B. aus öffentlichen Verzeichnissen)
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="mt-8 flex items-center gap-6">
+                        <div class="w-1/4 pl-16 text-right"><label class="font-poppins text-sm font-bold">Sonstige Daten</label></div>
+                        <div class="block w-3/4">
+                            <input class="w-full rounded border border-gray-300 px-4 py-2" type="text" x-model="otherData" placeholder="" maxlength="70" />
+                        </div>
+                    </div>
+
+                    <div class="mt-12 border-t border-gray-300"></div>
+                    <p class="mt-2 font-poppins text-xs font-bold uppercase tracking-wider text-gray-400">Betroffene</p>
+
+                    <div class="mt-8 flex gap-6">
+                        <div class="w-1/4 pl-16 text-right"><label class="font-poppins text-sm font-bold">Kreis der Betroffenene</label></div>
+                        <div class="flex w-3/4 flex-col gap-2">
+                            <label><input type="checkbox" data-val="1" value="affectedPeople_0" x-model="affectedPeople" class="mr-3" />Kunden</label>
+                            <label><input type="checkbox" data-val="1" value="affectedPeople_1" x-model="affectedPeople" class="mr-3" />Interessenten</label>
+                            <label><input type="checkbox" data-val="1" value="affectedPeople_2" x-model="affectedPeople" class="mr-3" />Abonnenten</label>
+                            <label><input type="checkbox" data-val="1" value="affectedPeople_3" x-model="affectedPeople" class="mr-3" />Mitarbeiter</label>
+                            <label><input type="checkbox" data-val="1" value="affectedPeople_4" x-model="affectedPeople" class="mr-3" />Lieferanten</label>
+                            <label><input type="checkbox" data-val="1" value="affectedPeople_5" x-model="affectedPeople" class="mr-3" />Ansprechpartner</label>
+                        </div>
+                    </div>
+
+                    <div class="mt-8 flex items-center gap-6">
+                        <div class="w-1/4 pl-16 text-right"><label class="font-poppins text-sm font-bold">Sonstige Betroffene</label></div>
+                        <div class="block w-3/4">
+                            <input class="w-full rounded border border-gray-300 px-4 py-2" type="text" x-model="otherAffectedPeople" placeholder="" maxlength="70" />
+                        </div>
+                    </div>
+
+                    <div class="mt-12 border-t border-gray-300"></div>
+                    <p class="mt-2 font-poppins text-xs font-bold uppercase tracking-wider text-gray-400">Zustimmung</p>
+
+                    <div class="mt-8 flex items-center gap-6">
+                        <div class="w-1/4 pl-16 text-right">&nbsp;</div>
+                        <div class="flex w-3/4 flex-col gap-2">
+                            <label
+                                ><input type="checkbox" data-val="1" value="Ich stimme der Vereinbarung zu" name="data_processing_agreement[confirm]" required class="mr-3" />Ich
+                                stimme der Vereinbarung zu</label
+                            >
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Honeypot -->
+                <label class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" for="name"></label>
+                <input class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" autocomplete="off" type="text" name="name" placeholder="Your name here" x-model="name" />
+
+                <div class="mt-10">
+                    <button
+                        type="submit"
+                        x-bind:disabled="isSubmitting"
+                        x-html="buttonText"
+                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white disabled:opacity-50"></button>
+                </div>
+            </form>
+        </section>
+    </article>
+{{ end }}

@@ -8,6 +8,15 @@
 
 
     <body class="font-roboto">
+        <!-- Page Info: only for printed pages -->
+        <div id="printer-footer" class="hidden border-b pb-4 print:block">
+            <div class="flex flex-col items-start justify-between md:flex-row md:items-center">
+                <span>URL: <strong>{{ .Permalink }}</strong></span>
+                <span>Title: <strong>{{ .Title }}</strong></span>
+                <span>Date: <strong>{{ now.Format "02.01.2006 15:04" }}</strong></span>
+            </div>
+        </div>
+
         <!-- Progress Bar (Fixed at top) -->
         <div class="fixed left-0 top-0 z-50 h-0.5 w-full bg-gray-200">
             <div class="h-full bg-seatable-orange transition-all duration-100" x-bind:style="`width: ${scrollPercent}%`"></div>
@@ -285,6 +294,73 @@
                             this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.error" }}'; // Reset button text
                         })
                         .finally(() => {});
+                    },
+                };
+            }
+
+            function avvForm() {
+                return {
+                    // Form fields
+                    responsible: '',
+                    dataTypes: [],
+                    otherData: '',
+                    affectedPeople: [],
+                    otherAffectedPeople: '',
+                    // Honeypot field
+                    name: '',
+                    buttonText: 'AVV erzeugen',
+                    isSubmitting: false,
+                    errors: {},
+                    submitForm() {
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
+                            return;
+                        }
+
+                        // Disable the button
+                        this.isSubmitting = true;
+                        this.buttonText = 'Dokument wird erzeugt...';
+
+                        const url = '{{ getenv "SEATABLE_INTERNAL_API_URL" }}';
+                        const headers = {
+                            'Content-Type': 'application/json'
+                        };
+                        const data = {
+                            responsible: this.responsible,
+                            dataTypes: this.dataTypes,
+                            otherData: this.otherData,
+                            affectedPeople: this.affectedPeople,
+                            otherAffectedPeople: this.otherAffectedPeople,
+                        };
+
+                        fetch(`${url}/avv`, {
+                            method: 'POST',
+                            headers: headers,
+                            body: JSON.stringify(data),
+                        })
+                            .then(async (response) => {
+                                console.log(response);
+
+                                if (!response.ok) {
+                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}';
+                                    return;
+                                }
+
+                                // Create URL for Blob
+                                const pdfUrl = URL.createObjectURL(await response.blob());
+
+                                // Open PDF in new tab
+                                window.open(pdfUrl, "_blank");
+
+                                this.buttonText = 'Ihr Dokument wurde erzeugt!';
+                            })
+                            .catch((error) => {
+                                console.error('Error:', error);
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}';
+                            })
+                            .finally(() => {
+                                this.isSubmitting = false;
+                            });
                     },
                 };
             }

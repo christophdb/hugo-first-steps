@@ -34,7 +34,7 @@
 
             <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
                 <!-- max width of the blog posts is 768px -> image optimization -->
-                <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4">
+                <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4 print:block print:w-full">
                     {{ .Content }}
 
 
@@ -50,7 +50,7 @@
                 </div>
 
                 <!-- Second section with TOC und Register (optional) -->
-                <div class="toc post-toc mt-12 hidden min-w-[220px] lg:block">
+                <div class="toc post-toc mt-12 hidden min-w-[220px] lg:block print:hidden">
                     <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
                         {{ .TableOfContents }}
 
