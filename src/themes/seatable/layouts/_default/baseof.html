@@ -8,6 +8,15 @@
 
 
     <body class="font-roboto">
+        <!-- Page Info: only for printed pages -->
+        <div id="printer-footer" class="hidden border-b pb-4 print:block">
+            <div class="flex flex-col items-start justify-between md:flex-row md:items-center">
+                <span>URL: <strong>{{ .Permalink }}</strong></span>
+                <span>Title: <strong>{{ .Title }}</strong></span>
+                <span>Date: <strong>{{ now.Format "02.01.2006 15:04" }}</strong></span>
+            </div>
+        </div>
+
         <!-- Progress Bar (Fixed at top) -->
         <div class="fixed left-0 top-0 z-50 h-0.5 w-full bg-gray-200">
             <div class="h-full bg-seatable-orange transition-all duration-100" x-bind:style="`width: ${scrollPercent}%`"></div>
