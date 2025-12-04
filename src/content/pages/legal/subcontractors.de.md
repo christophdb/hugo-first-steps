@@ -47,4 +47,4 @@ Mit dieser Dokumentation kommt der Auftragnehmer seinen Verpflichtungen gemäß 
 | ------------------------- | --------- | ---------------------- |
 | Sendinblue GmbH           | Berlin, D | E-Mail Marketingsystem |
 
-Weitere Informationen zu den Unterauftragnehmern finden sich in den Datenschutzbestimmungen, die jederzeit auf der SeaTable Webseite unter [https://seatable.io/datenschutzerklaerung/](https://seatable.io/datenschutzerklaerung/) abrufbar sind.
+Weitere Informationen zu den Unterauftragnehmern finden sich in den Datenschutzbestimmungen, die jederzeit auf der SeaTable Webseite unter [Datenschutz]({{< relref "pages/legal/data-privacy" >}}) abrufbar sind.
