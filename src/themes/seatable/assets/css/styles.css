@@ -120,6 +120,26 @@
     @apply p-2;
 }
 
+/* tabellen */
+#legal table {
+    @apply mb-12 mt-8 w-full overflow-hidden rounded text-left text-base text-gray-500 shadow-lg;
+}
+#legal thead {
+    @apply border-b-2 border-gray-400 font-poppins text-sm uppercase text-gray-700;
+}
+#legal thead th {
+    @apply border-r bg-orange-100 px-4 py-4;
+}
+#legal tbody tr {
+    @apply border-b border-gray-200 bg-white tracking-tight hover:bg-gray-100;
+}
+#legal tbody td {
+    @apply border-r px-4 py-4;
+}
+#legal tbody strong {
+    @apply whitespace-nowrap text-gray-900;
+}
+
 /* end legal pages */
 
 /* post pages */
