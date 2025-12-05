@@ -11,8 +11,6 @@ functions:
 seo:
     title: 'Доска Kanban Бесплатно SeaTable: онлайн, защищённая, с ИИ'
     description: 'Визуализируйте задачи с доской Kanban SeaTable: шаблон с ИИ, на сервере или в облаке, GDPR, аналитика и автоматизация—попробуйте бесплатно!'
-template: '932ed68b8ffc4a689819'
-
 
 type: pages
 sections:
@@ -22,7 +20,7 @@ sections:
       text: 'Визуализируйте свои рабочие процессы с помощью SeaTables Kanban Board Freeware для эффективного управления задачами. Настраиваемая - масштабируемая - соответствующая GDPR - с поддержкой искусственного интеллекта.'
       classes:
           - bg-white
-      template: 895068666cae411b9da7
+      template: 932ed68b8ffc4a689819
       buttons:
           - label: Зарегистрируйтесь сейчас бесплатно и используйте шаблон
             link: 'pages/registration'
