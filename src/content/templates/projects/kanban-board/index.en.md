@@ -10,7 +10,6 @@ functions:
 seo:
     title: 'Free Kanban Board Software: SeaTable Online, Secure & AI-Powered'
     description: 'Visualize workflows with SeaTable’s Kanban board: customizable, cloud & on-premises, GDPR-compliant, AI-automation and rich dashboards—try free template now!'
-template: '932ed68b8ffc4a689819'
 
 type: pages
 sections:
@@ -20,7 +19,7 @@ sections:
       text: 'Visualize your workflows with SeaTables Kanban Board Freeware for efficient task management. Customizable - scalable - GDPR-compliant - with AI support.'
       classes:
           - bg-white
-      template: 895068666cae411b9da7
+      template: '932ed68b8ffc4a689819'
       buttons:
           - label: Register now for free and use the template
             link: 'pages/registration'

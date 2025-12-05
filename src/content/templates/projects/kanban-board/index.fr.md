@@ -10,8 +10,6 @@ functions:
 seo:
     title: 'Tableau Kanban Gratuit SeaTable : en ligne, sécurisé et IA'
     description: 'Organisez vos projets avec le tableau Kanban SeaTable: modèle flexible, cloud ou serveur, RGPD, automatisations IA et dashboards. Testez-le gratuitement!'
-template: '932ed68b8ffc4a689819'
-
 
 type: pages
 sections:
@@ -21,7 +19,7 @@ sections:
       text: "Visualisez vos flux de travail avec le logiciel libre Kanban Board de SeaTables pour une gestion efficace des tâches. Personnalisable - évolutif - conforme au RGPD - avec support de l'IA."
       classes:
           - bg-white
-      template: 895068666cae411b9da7
+      template: 932ed68b8ffc4a689819
       buttons:
           - label: Inscrivez-vous gratuitement et utilisez le modèle
             link: 'pages/registration'

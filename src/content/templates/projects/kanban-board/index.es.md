@@ -10,7 +10,6 @@ functions:
 seo:
     title: 'Kanban Board Gratis de SeaTable: online, seguro, personalizable y automatizado'
     description: 'Gestiona tareas y flujos de trabajo con la plantilla de Kanban: flexible, compatible RGPD, soporte IA y dashboards. Online y en tu servidor. ¡Empieza gratis ahora!'
-template: '932ed68b8ffc4a689819'
 
 type: pages
 sections:
@@ -20,7 +19,7 @@ sections:
       text: 'Visualice sus flujos de trabajo con SeaTables Kanban Board Freeware para una gestión eficaz de las tareas. Personalizable - escalable - compatible con GDPR - con soporte de IA.'
       classes:
           - bg-white
-      template: 895068666cae411b9da7
+      template: 932ed68b8ffc4a689819
       buttons:
           - label: Regístrese ahora gratuitamente y utilice la plantilla
             link: 'pages/registration'

@@ -10,8 +10,6 @@ functions:
 seo:
     title: 'Quadro Kanban Grátis SeaTable: online, seguro e personalizável'
     description: 'Gerencie fluxos de trabalho com o quadro Kanban do SeaTable: template customizável, cloud ou local, conforme RGPD, com IA. Use grátis agora!'
-template: '932ed68b8ffc4a689819'
-
 
 type: pages
 sections:
@@ -21,7 +19,7 @@ sections:
       text: 'Visualize os seus fluxos de trabalho com o SeaTables Kanban Board Freeware para uma gestão eficiente das tarefas. Personalizável - escalável - compatível com o RGPD - com suporte de IA.'
       classes:
           - bg-white
-      template: 895068666cae411b9da7
+      template: 932ed68b8ffc4a689819
       buttons:
           - label: Registe-se agora gratuitamente e utilize o modelo
             link: 'pages/registration'

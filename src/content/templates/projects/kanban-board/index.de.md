@@ -11,8 +11,6 @@ functions:
 seo:
     title: 'Kostenlose Kanban Board Freeware von SeaTable: Online, DSGVO & KI'
     description: 'Visualisieren Sie Ihre Workflows digital: Kanban Board Vorlage für Teams, individuell anpassbar, KI-gestützt, Cloud & On-Premises – sicher, skalierbar, kostenlos testen!'
-template: '932ed68b8ffc4a689819'
-
 
 type: pages
 sections:
@@ -22,7 +20,7 @@ sections:
       text: 'Visualisieren Sie Ihre Workflows mit SeaTables Kanban Board Freeware für effizientes Aufgabenmanagement. Individualisierbar – skalierbar – DSGVO-konform – mit KI-Unterstützung.'
       classes:
           - bg-white
-      template: 895068666cae411b9da7
+      template: '932ed68b8ffc4a689819'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
             link: 'pages/registration'
