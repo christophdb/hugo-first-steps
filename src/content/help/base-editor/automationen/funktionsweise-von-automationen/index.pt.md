@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Como funcionam as automações no SeaTable?'
     description: 'Saiba como as automações otimizam processos no SeaTable: gatilhos, ações, condições e exemplos práticos de workflows eficientes.'
-
+weight: 4
 ---
 
 {{< required-version "Empresa" >}}

@@ -9,6 +9,7 @@ url: '/de/hilfe/farbliche-markierung-von-zeilen'
 seo:
     title: 'Zeilen farblich markieren in SeaTable: Regeln & Tipps'
     description: 'Markieren Sie Zeilen schnell farbig: mit Einzelauswahl, Regeln oder zur Duplikatsprüfung. Ideal für Status, Prioritäten und visuelle Übersicht in Tabellen.'
+weight: 27
 ---
 
 Mithilfe des **Zeilen-formatieren-Werkzeugs** können Sie farbliche Markierungen am **Zeilenanfang** setzen. Das **farbliche Markieren von Zeilen** dient dabei der schnellen Identifikation bestimmter Datensätze. Dies ist nicht zu verwechseln mit dem [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), wodurch Sie einzelne Zellen farblich hervorheben können.

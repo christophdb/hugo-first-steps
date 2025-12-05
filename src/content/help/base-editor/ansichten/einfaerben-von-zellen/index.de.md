@@ -9,6 +9,7 @@ url: '/de/hilfe/einfaerben-von-zellen'
 seo:
     title: 'Einfärben von Zellen in SeaTable nach Regeln und Werten'
     description: 'Lerne, wie du Zellen in SeaTable durch Regeln oder Werte einfärbst und mit Farbmarkierungen Daten besser analysierst. Schritt-für-Schritt Anleitung.'
+weight: 28
 ---
 
 Im Gegensatz zu Excel können Sie Zellen in SeaTable nicht einfach beliebig einfärben, sondern müssen sie entweder durch von Ihnen festgelegte **Regeln** oder auf Basis der **Werte** in einer **Spalte** einfärben. Hört sich kompliziert an? Ist es aber nicht.

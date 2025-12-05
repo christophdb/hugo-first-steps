@@ -9,6 +9,7 @@ url: '/de/hilfe/unterschiede-zwischen-privaten-und-normalen-ansichten'
 seo:
     title: 'Unterschiede zwischen privaten und normalen Ansichten in SeaTable'
     description: 'Erfahren Sie, wie sich private und normale Ansichten in SeaTable unterscheiden und warum private Ansichten für persönliche Datenanalysen ideal sind.'
+weight: 5
 ---
 
 {{< required-version "Enterprise" >}}
@@ -19,7 +20,7 @@ In SeaTable gibt es die Möglichkeit, sowohl normale als auch private Ansichten 
 
 ## Persönliche Datenanalyse mit privaten Ansichten
 
-Eine Ansicht in SeaTable ist die Summe folgender Einstellungen: [Filter]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). Anders ausgedrückt: Jede Ansicht bietet einen individuellen Blickwinkel auf die Daten in Ihrer Tabelle.
+Eine Ansicht in SeaTable ist die Summe vieler Einstellungen, darunter **Filter, Sortierungen, Gruppierungen, farbliche Hervorhebungen und Zeilenhöhe**. Anders ausgedrückt: Jede Ansicht bietet einen individuellen Blickwinkel auf die Daten in Ihrer Tabelle.
 
 Die Besonderheit bei privaten Ansichten besteht darin, dass diese **nicht für andere Benutzer sichtbar** sind. Nur der Benutzer, der die private Ansicht erstellt hat, kann diese auch sehen.
 
@@ -28,6 +29,19 @@ Weil Einstellungsänderungen in einer privaten Ansicht keine Auswirkungen auf an
 ## Private Ansichten können nicht geteilt werden
 
 Ein weiterer Unterschied zwischen normalen und privaten Ansichten besteht darin, dass private Ansichten nicht mit anderen Personen geteilt werden können. Das entsprechende Symbol zum Teilen dieser Ansicht steht nicht zur Verfügung.
+
+## Eine private Ansicht erstellen
+
+![Anlegen einer neuen Ansicht](images/create-table-view.jpg)
+
+1. Klicken Sie auf den **Namen der aktuellen Ansicht**.
+2. Klicken Sie auf **Ansicht oder Ordner hinzufügen** und wählen Sie den gewünschten **Ansichtstyp** aus.
+3. Geben Sie der neuen Ansicht einen **Namen**.
+
+![Anlegen einer privaten Ansicht](images/create-private-view.jpg)
+
+4. Aktivieren Sie den Regler, dass die neue Ansicht **privat** sein soll.
+5. Bestätigen Sie mit **Abschicken**.
 
 ## Normale Ansichten als private Ansichten duplizieren
 

@@ -8,7 +8,8 @@ author: "vge"
 url: "/de/hilfe/das-drucken-einer-ansicht"
 seo:
     title: 'Ansicht in SeaTable drucken – Optionen und Anleitung'
-    description: 'Drucken Sie jede Ansicht in SeaTable direkt aus der Tabellenansicht. Wählen Sie Format, Skalierung und weitere erweiterte Druckoptionen individuell.'
+    description: 'Drucken Sie jede Ansicht in SeaTable direkt aus. Wählen Sie Format, Skalierung und weitere erweiterte Druckoptionen individuell.'
+weight: 10
 ---
 
 Verschiedene **Ansichten** können das Arbeiten mit Tabellen erleichtern, die sehr viele Informationen enthalten. Diese Ansichten können Sie zudem **ausdrucken**.
@@ -20,9 +21,9 @@ Verschiedene **Ansichten** können das Arbeiten mit Tabellen erleichtern, die se
 1. Das Wichtigste zuerst: Die Ansicht, die Sie drucken möchten, muss **aktuell ausgewählt** sein.
 2. Klicken Sie in den Ansichtsoptionen ganz rechts auf die **drei Punkte**.
 3. Wählen Sie die Option **Druckansicht**.
-4. Daraufhin öffnet sich das Fenster **Druckeinstellungen**. Nehmen Sie hier Ihre gewünschten Druckeinstellungen vor und klicken Sie auf **Drucken**.
-5. Nun öffnet sich das **Standard-Druckfenster** Ihres Geräts, in dem Sie eine Druckvorschau sehen und weitere Einstellungen,^ wie z.B. den zu verwendenden **Drucker**, die **Farbe** und die Anzahl der **Kopien** vornehmen können.
-6. Klicken Sie im Druckfenster erneut auf **Drucken**, um den Druckvorgang zu starten.
+4. Daraufhin öffnet sich ein Fenster. Nehmen Sie hier Ihre gewünschten **Druckeinstellungen** vor und klicken Sie auf **Drucken**.
+5. Nun öffnet sich das **Standard-Druckerfenster** Ihres Geräts, in dem Sie eine **Druckvorschau** sehen und weitere Einstellungen, wie z. B. den zu verwendenden **Drucker**, die **Farbe** und die Anzahl der **Kopien** vornehmen können.
+6. Klicken Sie im Druckerfenster erneut auf **Drucken**, um den Druckvorgang zu starten.
 
 ## Mögliche Druckoptionen
 
