@@ -42,7 +42,16 @@ sections:
             headline: EVB-IT
             text: La EVB-IT regula el procesamiento electrónico de datos en el sector público y establece requisitos mínimos de seguridad informática y protección de datos en los acuerdos de procesamiento de datos.
 
-    - name: form-contact
+    - name: 'content-22'
       weight: 3
-      title: ¿Todavía tienes preguntas?
+      title: ¿Necesitas ayuda?
+      subtitle: Contactar al soporte
+      text: Estamos aquí para ti. Ponte en contacto con el soporte de SeaTable.
+      classes:
+          - bg-white
+          - curved
+      buttons:
+          - label: 'Contáctanos'
+            link: 'pages/contact'
+            style: 'secondary'
 ---

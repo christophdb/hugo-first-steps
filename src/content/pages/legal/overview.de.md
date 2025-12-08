@@ -42,7 +42,16 @@ sections:
             headline: EVB-IT
             text: Die EVB-IT regelt die elektronische Datenverarbeitung im öffentlichen Sektor und legt Mindestanforderungen an IT-Sicherheit sowie Datenschutz in der Auftragsverarbeitung fest.
 
-    - name: form-contact
+    - name: 'content-22'
       weight: 3
-      title: Noch Fragen offen?
+      title: Haben Sie weitere Fragen?
+      subtitle: Support kontaktieren
+      text: Wir sind für Sie da. Nehmen Sie Kontakt mit dem SeaTable-Support auf.
+      classes:
+          - bg-white
+          - curved
+      buttons:
+          - label: 'Kontaktieren Sie uns'
+            link: 'pages/contact'
+            style: 'secondary'
 ---

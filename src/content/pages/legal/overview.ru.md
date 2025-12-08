@@ -42,7 +42,16 @@ sections:
             headline: EVB-IT
             text: EVB-IT регулирует электронную обработку данных в государственном секторе и устанавливает минимальные требования к ИТ-безопасности и защите данных в договорах об обработке данных.
 
-    - name: form-contact
-      weight: 3
-      title: Остались вопросы?
+    - name: 'content-22'
+      weight: 2
+      title: Нужна помощь?
+      subtitle: Связаться с поддержкой
+      text: Мы здесь, чтобы помочь вам. Обратитесь в службу поддержки SeaTable.
+      classes:
+          - bg-white
+          - curved
+      buttons:
+          - label: 'Связаться с нами'
+            link: 'pages/contact'
+            style: 'secondary'
 ---
