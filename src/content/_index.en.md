@@ -334,11 +334,14 @@ sections:
     id: en-homepage-seatable-server-content-6
   image: "/img/seatable-security-1.jpg"
 
-- name: "form-contact"
+- name: "content-22"
   weight: 17
   subtitle: Get in touch with us
   title: Let us drive your process digitization forward.
-  description: Our team is available to answer your questions about no-code platforms, programming without code and low-code solutions with SeaTable. We'll help you find the best solution for your business and use case. Discover the transformative power of the SeaTable No-Code Digital Solution today!
-  submit_message: Send message
+  text: Our team is available to answer your questions about no-code platforms, programming without code and low-code solutions with SeaTable. We'll help you find the best solution for your business and use case. Discover the transformative power of the SeaTable No-Code Digital Solution today!
+  buttons:
+          - label: 'Contact us'
+            link: 'pages/contact'
+            style: 'secondary'
 
 ---

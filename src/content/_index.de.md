@@ -320,11 +320,14 @@ sections:
     id: de-homepage-seatable-server-content-6
   image: "/img/seatable-security-1.jpg"
 
-- name: "form-contact"
+- name: "content-22"
   weight: 17
   subtitle: Kontaktieren Sie uns
   title: Lassen Sie uns Ihre Prozess-digitalisierung vorantreiben
-  description: Unser Team steht Ihnen zur Verfügung, rund um Fragen zu No Code Plattformen, Programmieren ohne Code und Low-Code-Lösungen mit SeaTable. Wir helfen Ihnen, die beste Lösung für Ihr Unternehmen und Ihren Anwendungsfall zu finden. Entdecken Sie noch heute die transformative Power der SeaTable No-Code Digital Solution!
-  submit_message: Nachricht schicken
+  text: Unser Team steht Ihnen zur Verfügung, rund um Fragen zu No Code Plattformen, Programmieren ohne Code und Low-Code-Lösungen mit SeaTable. Wir helfen Ihnen, die beste Lösung für Ihr Unternehmen und Ihren Anwendungsfall zu finden. Entdecken Sie noch heute die transformative Power der SeaTable No-Code Digital Solution!
+  buttons:
+      - label: 'Kontaktieren Sie uns'
+        link: 'pages/contact'
+        style: 'secondary'
 
 ---
