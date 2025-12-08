@@ -13,6 +13,7 @@
                 {{ $date := .Date | time.Format "2006-01-02" }}
                 <p class="text-center text-sm">{{ T "legal.version" }} {{ $version }} {{ T "legal.published_on" }} {{ $date | time.Format site.Params.dateFormat }}</p>
             {{ end }}
+            <a class="mt-2 block text-center text-blue-600 hover:underline" href="{{ relref . "pages/legal/overview" }}">{{ T "templates.back" }}</a>
         </header>
 
         <section class="mx-auto mt-20 max-w-[800px] print:hidden">

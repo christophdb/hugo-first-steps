@@ -7,9 +7,9 @@ seo:
 date: 2025-12-04
 type: 'legal'
 url: '/de/auftrag-zur-auftragsverarbeitung'
+version: '1.0'
+published_on: 2025-12-04
 ---
-
-_Stand: 04. Dezember 2025_
 
 Dies sind der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
 
