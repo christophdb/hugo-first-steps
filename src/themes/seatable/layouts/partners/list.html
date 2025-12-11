@@ -1,0 +1,29 @@
+{{ define "main" }}
+    <section class="max-container mt-12 p-4">
+        <div class="text-center">
+            <h1 class="mx-auto mb-8 max-w-3xl text-3xl leading-tight sm:text-4xl">{{ .Title }}</h1>
+            {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
+        </div>
+
+        <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+            <!-- Categories -->
+            <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
+                <div class="sticky top-8 py-2 pl-5">
+                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">Filter</h3>
+
+                    <div>
+                        <!--<h2 class="mb-4 text-xl font-semibold">
+                            <a class="{{ if eq .Path "/templates" }}text-seatable-orange{{ end }}" href="{{ relref . "templates" }}">{{ T "templates.all" }}</a>
+                        </h2>-->
+
+                        <label class="poppins pb-4 text-sm font-bold uppercase">Sprache</label>
+                        <select class="block w-full rounded px-4 py-2">
+                            <option>Deutsch</option>
+                            <option>English</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{{ end }}
