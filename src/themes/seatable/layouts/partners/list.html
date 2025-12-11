@@ -9,21 +9,246 @@
             <!-- Categories -->
             <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
                 <div class="sticky top-8 py-2 pl-5">
-                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">Filter</h3>
+                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">Verfügbare Filter</h3>
 
                     <div>
-                        <!--<h2 class="mb-4 text-xl font-semibold">
-                            <a class="{{ if eq .Path "/templates" }}text-seatable-orange{{ end }}" href="{{ relref . "templates" }}">{{ T "templates.all" }}</a>
-                        </h2>-->
+                        <!-- Sprache -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            Sprache
+                            <div
+                                x-data="filterSelect({
+                                    param: 'f_language',
+                                    options: ['Deutsch', 'Englisch', 'Französisch', 'Griechisch']
+                                    })"
+                                class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
 
-                        <label class="poppins pb-4 text-sm font-bold uppercase">Sprache</label>
-                        <select class="block w-full rounded px-4 py-2">
-                            <option>Deutsch</option>
-                            <option>English</option>
-                        </select>
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 font-normal hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Industry -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            Industry
+                            <div
+                                x-data="filterSelect({
+                                    param: 'f_industry',
+                                    options: ['Automotive', 'Banking', 'Healthcare', 'Tech']
+                                    })"
+                                class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Region -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            Region
+                            <div
+                                x-data="filterSelect({
+                                    param: 'f_industry',
+                                    options: ['Europa', 'Nordamerika', 'Südamerika', 'Asien', 'Afrika']
+                                    })"
+                                class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-content my-12 w-full lg:w-3/4">
+                <div class="mb-20 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
+                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                        <a href="#" class="!no-underline">
+                            <img
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMTFjMTJiZDQtOGFlMC00YTU5LTgwNzktMDIwNWY1ZWMzN2Y5L2ZhZDkyOGY4LWE5MmEtNDdkMi1hMTM2LTVhYTIyOGVjNTc3OC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0Ijo4MCwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
+                                alt="Feature Image"
+                                class="mx-auto my-8 block h-20 w-48 object-contain" />
+                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
+                                <h3 class="!pt-6 !text-xl tracking-tight">Upsmart</h3>
+                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
+                                    We believe everyone should spend as much time as possible on value-adding activities. With our extensive experience, we deeply understand sales
+                                    processes and identify efficiency improvements.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                        <a href="#" class="!no-underline">
+                            <img
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvZWRlZmI1MzMtZjMwNi00ZmVkLWJmNTItYTJhYTgxYWE4NDM2LzU1YzA1OTY5LTFiZTItNGFlOC1iN2YyLTM0OTUzNDEzYWY3Ny5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0Ijo4MCwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
+                                alt="Feature Image"
+                                class="mx-auto my-8 block h-20 w-48 object-contain" />
+                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
+                                <h3 class="!pt-6 !text-xl tracking-tight">Sales and Workflow</h3>
+                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
+                                    Don’t have time for a professional and fast in-house implementation? Want to get the most out of your system? Please feel free to contact us! In
+                                    our team of three senior consultants, you will find a sales professional (12 years as head of sales), a controlling professional (8 years as
+                                    controlling manager) and a senior IT service delivery professional. That's how we make a truly unbeatable team! From Hungary, we provide
+                                    Pipedrive implementations in Hungarian, German and English. We will assess your needs, set up the system, and train you to be proficient. Let’s
+                                    get to know each other in an online meeting; reach out to us!
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                        <a href="#" class="!no-underline">
+                            <img
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMTdkMjg5NzMtOGRhZi00YTE1LTk5Y2YtZDFlNGRlNzQ5ZDk4LzJhNDI2YzllLTlhYWMtNDQyMC1hMTEzLTVkOGRhMDM5OTljOC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjU3NiwiaGVpZ2h0Ijo1NiwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
+                                alt="Feature Image"
+                                class="mx-auto my-8 block h-20 w-48 object-contain" />
+                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
+                                <h3 class="!pt-6 !text-xl tracking-tight">Dominate Sales</h3>
+                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
+                                    We’re here to help you get the most out of Pipedrive CRM. Whether it’s implementing the system, automating tasks, or training your team, we’ve
+                                    got you covered. We aim to turn Pipedrive into more than just a tool—it should be your secret weapon for boosting sales and growing your
+                                    business. We don’t just stop at setup. If needed, we’ll design custom sales processes, tweak your sales strategy, and ensure everyone knows how
+                                    to use the CRM effectively. This way, Pipedrive becomes a true partner in your success.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                        <a href="#" class="!no-underline">
+                            <img
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvZDAwNDU0ODMtYjE1ZS00MWVhLWE2ZGQtNmVjMGNkY2VjMTQ0L2RmODY3YjdiLTg2MjEtNGRiZi05MDUxLWY1MmFlYTk5MzViNi5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjU3NiwiaGVpZ2h0Ijo1NiwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
+                                alt="Feature Image"
+                                class="mx-auto my-8 block h-20 w-48 object-contain" />
+                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
+                                <h3 class="!pt-6 !text-xl tracking-tight">Nordic Sales Force</h3>
+                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
+                                    Expanding your business in the Nordics may seem like a daunting task, but Nordic Sales Force is here to make it simple. Say goodbye to the
+                                    hassles of managing sales processes in a foreign market. Our professional sales team offers an authentic local presence to handle your entire
+                                    sales process, from the first point of contact to a signed contract - regardless of the complexity of your solution. Scale your sales with
+                                    Nordic Sales Force: Your gateway to Scandinavia
+                                </p>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <script>
+        document.addEventListener('alpine:init', () => {
+            Alpine.data('filterSelect', ({ param, options }) => ({
+                open: false,
+                param,
+                options,
+                selected: [],
+
+                init() {
+                    // Initial aus URL lesen
+                    const params = new URLSearchParams(window.location.search);
+                    const current = params.get(this.param);
+                    if (current) {
+                        this.selected = current.split(',');
+                    }
+                },
+
+                toggleOpen() {
+                    this.open = !this.open;
+                },
+
+                toggle(option) {
+                    const idx = this.selected.indexOf(option);
+                    if (idx > -1) {
+                        this.selected.splice(idx, 1);
+                    } else {
+                        this.selected.push(option);
+                    }
+                    this.updateUrl();
+                },
+
+                isSelected(option) {
+                    return this.selected.includes(option);
+                },
+
+                updateUrl() {
+                    const params = new URLSearchParams(window.location.search);
+                    if (this.selected.length) {
+                        params.set(this.param, this.selected.join(',')); // Komma wird zu %2C
+                    } else {
+                        params.delete(this.param);
+                    }
+                    window.history.replaceState({}, '', `${window.location.pathname}?${params}`);
+                },
+
+                label() {
+                    return this.selected.length ? this.selected.join(', ') : 'Select an option...';
+                },
+            }));
+        });
+    </script>
 {{ end }}

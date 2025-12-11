@@ -1,1 +1,59 @@
-Detailseite eines Partners.
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full">
+        <article class="">
+            <div class="flex items-center gap-3">
+                <!-- Icon-Box links -->
+                <span class="flex h-10 w-10 shrink-0 items-center justify-center rounded border border-gray-400">
+                    <a href="#" class="flex items-center justify-center">
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                            data-test-icon=""
+                            width="20px"
+                            height="20px"
+                            class="text-text dark:text-icon-reversed dark:group-hover/button:text-icon-reversed dark:group-active/button:text-icon-reversed h-5 w-5 shrink-0 transition-colors">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                        </svg>
+                    </a>
+                </span>
+
+                <!-- Text rechts daneben -->
+                <div class="text-base font-bold text-gray-700">Back to Directory</div>
+            </div>
+
+            <div class="justify-left post mt-16 flex w-full gap-12 md:flex-row">
+                <!-- Second section -->
+                <div class="toc post-toc hidden min-w-[220px] bg-red-50 lg:block">
+                    <div class="sticky top-8 py-2 pl-5">
+                        <a class="mb-6 block !text-blue-600" href="{{ relref . "partners" }}">{{ T "templates.back" }}</a>
+
+                        <h3>xxx</h3>
+                        <div class="mt-4">
+                            <span class="rounded-lg border bg-gray-100 p-2">asdf</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- max width of the blog posts is 768px -> image optimization -->
+                <div class="post-content w-full max-w-3xl lg:w-3/4">
+                    <h2 class="mt-0 !pt-0">About Upsmart</h2>
+
+                    <p>
+                        We believe everyone should spend as much time as possible on value-adding activities. With our extensive experience, we deeply understand sales processes
+                        and identify efficiency improvements.
+                    </p>
+                    <p>
+                        We implement Pipedrive, tailored to your sales process and integrated with existing systems. We train the team on proper usage and provide support when
+                        needed.
+                    </p>
+                    <p>
+                        Since 2016 Upsmart has been a Pipedrive Solution Provider. We are now the largest Pipedrive Solution Provider in the Benelux and have achieved the unique
+                        Elite Partner status.
+                    </p>
+                </div>
+            </div>
+        </article>
+    </section>
+{{ end }}
