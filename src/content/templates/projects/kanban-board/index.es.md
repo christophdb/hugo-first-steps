@@ -2,21 +2,22 @@
 title: 'Tablero Kanban'
 description: 'Optimice flujos de trabajo, gestione equipos en tiempo real y disfrute automatización flexible y análisis.'
 date: '2025-03-05'
-url: '/es/plantilla/tablero-kanban-gratis'
+url: '/es/plantilla/plantilla-tablero-kanban' 
 aliases:
     - '/es/plantilla/kanban-board'
+    - '/es/plantilla/tablero-kanban-gratis' 
 category: 'projects'
 functions:
 seo:
-    title: 'Kanban Board Gratis de SeaTable: online, seguro, personalizable y automatizado'
+    title: 'Plantilla de tablero kanban de SeaTable: online, seguro, personalizable y automatizado'
     description: 'Gestiona tareas y flujos de trabajo con la plantilla de Kanban: flexible, compatible RGPD, soporte IA y dashboards. Online y en tu servidor. ¡Empieza gratis ahora!'
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable - Su tablero Kanban Freeware'
-      text: 'Visualice sus flujos de trabajo con SeaTables Kanban Board Freeware para una gestión eficaz de las tareas. Personalizable - escalable - compatible con GDPR - con soporte de IA.'
+      title: 'SeaTable - Su plantilla de tablero kanban'
+      text: 'Visualice sus flujos de trabajo con SeaTables plantilla de tablero kanban para una gestión eficaz de las tareas. Personalizable - escalable - compatible con GDPR - con soporte de IA.'
       classes:
           - bg-white
       template: 932ed68b8ffc4a689819
@@ -144,9 +145,9 @@ sections:
       weight: 20
       title: 'Preguntas más frecuentes sobre la plantilla de tablero Kanban de SeaTable'
       subtitle: 
-      items:
+      items: 
       - q: "¿Puedo utilizar gratuitamente la plantilla Kanban de SeaTable?"
-        a: 'Sí, puede utilizar todas las plantillas gratuitamente durante un periodo de tiempo ilimitado. Todo lo que necesita es una cuenta gratuita y podrá empezar a utilizar su Kanban Board freeware de inmediato.'
+        a: 'Sí, puede utilizar todas las plantillas gratuitamente durante un periodo de tiempo ilimitado. Todo lo que necesita es una cuenta gratuita y podrá empezar a utilizar su software de tablero kanban de inmediato.'
       - q: "¿SeaTable como herramienta Kanban me permite establecer límites WIP?"
         a: "Sí, en nuestra plantilla puede definir límites individuales para cada miembro del equipo en la tabla Límite WIP. Puede utilizar la función de notificación integrada para establecer alertas si se supera un límite. Ya se ha creado un ejemplo de notificación en nuestra herramienta Kanban."
       - q: "Me gustaría que los miembros de mi equipo sólo vieran sus propias tareas. ¿Es posible?"

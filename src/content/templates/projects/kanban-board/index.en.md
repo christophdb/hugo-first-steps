@@ -2,21 +2,22 @@
 title: 'Kanban Board'
 description: 'Optimize workflows, manage teams in real-time, and benefit from flexible automation and analytics.'
 date: '2025-03-05'
-url: '/template/kanban-board-freeware'
+url: '/template/kanban-board-template'
 aliases:
     - '/template/kanban-board'
+    - '/template/kanban-board-freeware'
 category: 'projects'
 functions:
 seo:
-    title: 'Free Kanban Board Software: SeaTable Online, Secure & AI-Powered'
+    title: 'Free Kanban Board Template: SeaTable Online, Secure & AI-Powered'
     description: 'Visualize workflows with SeaTable’s Kanban board: customizable, cloud & on-premises, GDPR-compliant, AI-automation and rich dashboards—try free template now!'
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable - Your Kanban Board Freeware'
-      text: 'Visualize your workflows with SeaTables Kanban Board Freeware for efficient task management. Customizable - scalable - GDPR-compliant - with AI support.'
+      title: 'SeaTable - Your Kanban board template'
+      text: 'Visualize your workflows with SeaTables Kanban board template for efficient task management. Customizable - scalable - GDPR-compliant - with AI support.'
       classes:
           - bg-white
       template: '932ed68b8ffc4a689819'
@@ -74,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use Kanban Board online with SeaTable'
       subtitle: 'Your advantages'
-      description: 'The AI no-code solution SeaTable impresses with its flexibility and customizability. With our Kanban Board freeware, you benefit from many advantages and can also map dynamic processes.'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility and customizability. With our Kanban board template, you benefit from many advantages and can also map dynamic processes.'
       items:
       - text: 'Always up to date: Always stay up to date thanks to the communication functions, complete change history and real-time updating.'
       - text: 'Access from anywhere: With an online Kanban board, you have access at any time and protect your data from loss.'
@@ -86,7 +87,7 @@ sections:
 
     - name: "content-25"
       weight: 10
-      title: 'How the Kanban Board freeware works'
+      title: 'How the Kanban board template works'
       subtitle: 'Use Kanban'
       items:
       - headline: 'Simply create new tasks'
@@ -130,7 +131,7 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Kanban board freeware for every use case'
+      title: 'Kanban board template for every use case'
       subtitle: 'Maximum security'
       description: 'SeaTable is a modern AI no-code database solution with automations and app builder and offers all the functions you need for a digital, integrated Kanban tool. The protection of your data is our top priority.'
       box-position: [right!]
@@ -146,11 +147,11 @@ sections:
       subtitle: 
       items:
       - q: "Can I use SeaTable's Kanban template free of charge?"
-        a: 'Yes, you can use all templates free of charge for an unlimited period of time. All you need is a free account and you can start using your Kanban Board freeware straight away.'
+        a: 'Yes, you can use all templates free of charge for an unlimited period of time. All you need is a free account and you can start using your Kanban board software straight away.'
       - q: "Does SeaTable as a Kanban tool allow me to set WIP limits?"
         a: "Yes, in our template you can define individual limits for each team member in the 'WIP limit' table. You can use the integrated notification function to set up alerts if a limit is exceeded. A sample notification has already been created in our Kanban tool."
       - q: "I would like my team members to only see their own tasks. Is that possible?"
-        a: 'When you create a digital Kanban board with SeaTable, you can set read and access rights. For example, you can create a Kanban board for your teams and a separate board for each team member that can only be viewed by them.'
+        a: 'When you create a digital Kanban board online with SeaTable, you can set read and access rights. For example, you can create a Kanban board for your teams and a separate board for each team member that can only be viewed by them.'
       - q: "I would like to use SeaTable as a Kanban tool. Is there free support?"
         a: 'Yes, you can contact our support team with questions of any kind. You can either post a question in our Community Forum or contact us directly by e-mail.'
 
