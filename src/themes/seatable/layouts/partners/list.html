@@ -51,7 +51,7 @@
 
                         <!-- Industry -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Industry
+                            Industry Expertise
                             <div
                                 x-data="filterSelect({
                                     param: 'f_industry',
@@ -88,11 +88,85 @@
 
                         <!-- Region -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Region
+                            Region (in Base aufnehmen?)
                             <div
                                 x-data="filterSelect({
-                                    param: 'f_industry',
+                                    param: 'f_region',
                                     options: ['Europa', 'Nordamerika', 'Südamerika', 'Asien', 'Afrika']
+                                    })"
+                                class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Support areas -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            Support areas
+                            <div
+                                x-data="filterSelect({
+                                    param: 'f_support',
+                                    options: ['Scripting', 'Integration', 'Deployment', 'Automation', 'App development', 'Data modelling', 'User training', 'Project management', 'Artificial intelligence']
+                                    })"
+                                class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Typical customers -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            Typical customers
+                            <div
+                                x-data="filterSelect({
+                                    param: 'f_customers',
+                                    options: ['Micro organizations (<10 employees)', 'Small organizations (<50 employees)', 'Medium organizations (<500 employees)', 'Large organizations (>500 employees)']
                                     })"
                                 class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
@@ -141,6 +215,10 @@
                                     processes and identify efficiency improvements.
                                 </p>
                             </div>
+                            <div class="mb-8 flex flex-row items-center justify-between px-8">
+                                <span class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white">Solution partner</span>
+                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">Germany</span>
+                            </div>
                         </a>
                     </div>
                     <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
@@ -159,6 +237,10 @@
                                     get to know each other in an online meeting; reach out to us!
                                 </p>
                             </div>
+                            <div class="mb-8 flex flex-row items-center justify-between px-8">
+                                <span class="rounded bg-slate-700 px-2 py-1 text-sm font-normal text-white">Service partner</span>
+                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">USA</span>
+                            </div>
                         </a>
                     </div>
                     <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
@@ -176,6 +258,10 @@
                                     to use the CRM effectively. This way, Pipedrive becomes a true partner in your success.
                                 </p>
                             </div>
+                            <div class="mb-8 flex flex-row items-center justify-between px-8">
+                                <span class="rounded bg-violet-800 px-2 py-1 text-sm font-normal text-white">Hosting partner</span>
+                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">United Kingdom</span>
+                            </div>
                         </a>
                     </div>
                     <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
@@ -192,6 +278,10 @@
                                     sales process, from the first point of contact to a signed contract - regardless of the complexity of your solution. Scale your sales with
                                     Nordic Sales Force: Your gateway to Scandinavia
                                 </p>
+                            </div>
+                            <div class="mb-8 flex flex-row items-center justify-between px-8">
+                                <span class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white">Solution partner</span>
+                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">Norway</span>
                             </div>
                         </a>
                     </div>

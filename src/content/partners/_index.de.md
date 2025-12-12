@@ -1,5 +1,5 @@
 ---
 title: Partnerverzeichnis
-description: 'adsfaf'
+description: 'Das ist eine Beschreibung...'
 url: /de/partner
 ---
