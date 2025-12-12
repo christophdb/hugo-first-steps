@@ -224,8 +224,6 @@ If any provision of this agreement is or becomes invalid or unenforceable, the r
 
 The place of jurisdiction is Mainz.
 
-<hr>
-
 ## Previous versions
 
 - [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/avv-v1-1-2" >}})
