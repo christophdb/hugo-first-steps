@@ -5,7 +5,10 @@
             {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
         </div>
 
-        <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+        {{ $partners := .Site.Data.partners }}
+
+
+        <div x-data="{{ $partners | jsonify }}" class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
             <!-- Categories -->
             <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
                 <div class="sticky top-8 py-2 pl-5">
