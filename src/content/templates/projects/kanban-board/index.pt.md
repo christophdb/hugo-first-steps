@@ -2,21 +2,22 @@
 title: 'Quadro Kanban'
 description: "Otimize fluxos de trabalho, gerencie times em tempo real e aproveite automação flexível e análise."
 date: '2025-03-05'
-url: '/pt/modelo/quadro-kanban-gratis'
+url: '/pt/modelo/modelo-quadro-kanban' 
 aliases:
     - '/pt/modelo/kanban-board'
+    - '/pt/modelo/quadro-kanban-gratis'
 category: 'projects'
 functions:
 seo:
-    title: 'Quadro Kanban Grátis SeaTable: online, seguro e personalizável'
+    title: 'Modelo de quadro kanban de SeaTable: online, seguro e personalizável'
     description: 'Gerencie fluxos de trabalho com o quadro Kanban do SeaTable: template customizável, cloud ou local, conforme RGPD, com IA. Use grátis agora!'
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable - O seu quadro Kanban Freeware'
-      text: 'Visualize os seus fluxos de trabalho com o SeaTables Kanban Board Freeware para uma gestão eficiente das tarefas. Personalizável - escalável - compatível com o RGPD - com suporte de IA.'
+      title: 'SeaTable - O seu modelo de quadro kanban'
+      text: 'Visualize os seus fluxos de trabalho com o SeaTables modelo de quadro kanban para uma gestão eficiente das tarefas. Personalizável - escalável - compatível com o RGPD - com suporte de IA.'
       classes:
           - bg-white
       template: 932ed68b8ffc4a689819
@@ -74,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilize o quadro Kanban online com o SeaTable'
       subtitle: 'As suas vantagens'
-      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e capacidade de personalização. Com o nosso freeware Kanban Board, beneficia de muitas vantagens e pode também mapear processos dinâmicos.'
+      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e capacidade de personalização. Com o nosso modelo de quadro kanban, beneficia de muitas vantagens e pode também mapear processos dinâmicos.'
       items:
       - text: 'Sempre atualizado: Mantenha-se sempre atualizado graças às funções de comunicação, ao histórico completo de alterações e à atualização em tempo real.'
       - text: 'Acesso a partir de qualquer lugar: Com um quadro Kanban online, pode aceder a qualquer momento e proteger os seus dados contra perda.'
@@ -86,7 +87,7 @@ sections:
 
     - name: "content-25"
       weight: 10
-      title: 'Como funciona o freeware Kanban Board'
+      title: 'Como funciona o modelo de quadro kanban'
       subtitle: 'Utilize o Kanban'
       items:
       - headline: 'Crie novas tarefas facilmente'
@@ -144,9 +145,9 @@ sections:
       weight: 20
       title: 'Perguntas frequentes sobre o modelo de quadro Kanban da SeaTable'
       subtitle: 
-      items:
+      items: 
       - q: "Posso utilizar o modelo Kanban do SeaTable gratuitamente?"
-        a: 'Sim, pode utilizar todos os modelos gratuitamente por um período de tempo ilimitado. Tudo o que precisa é de uma conta gratuita e pode começar a utilizar o seu Kanban Board freeware imediatamente.'
+        a: 'Sim, pode utilizar todos os modelos gratuitamente por um período de tempo ilimitado. Tudo o que precisa é de uma conta gratuita e pode começar a utilizar o seu software de quadro kanban imediatamente.'
       - q: "O SeaTable, enquanto ferramenta Kanban, permite-me definir limites de WIP?"
         a: "Sim, no nosso modelo pode definir limites individuais para cada membro da equipa na tabela Limite WIP. Pode utilizar a função de notificação integrada para definir alertas se um limite for ultrapassado. Já foi criado um exemplo de notificação na nossa ferramenta Kanban."
       - q: "Gostaria que os membros da minha equipa vissem apenas as suas próprias tarefas. É possível?"

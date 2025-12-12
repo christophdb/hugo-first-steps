@@ -2,20 +2,21 @@
 title: 'Tableau Kanban'
 description: "Optimisez flux de travail, gérez équipes en temps réel et bénéficiez automation flexible et analyse."
 date: '2025-03-05'
-url: '/fr/modele/tableau-kanban-gratuit'
+url: '/fr/modele/modele-tableau-kanban' 
 aliases:
     - '/fr/modele/kanban-board'
+    - '/fr/modele/tableau-kanban-gratuit'
 category: 'projects'
 functions:
 seo:
-    title: 'Tableau Kanban Gratuit SeaTable : en ligne, sécurisé et IA'
+    title: 'Modèle de tableau kanban de SeaTable : en ligne, sécurisé et IA'
     description: 'Organisez vos projets avec le tableau Kanban SeaTable: modèle flexible, cloud ou serveur, RGPD, automatisations IA et dashboards. Testez-le gratuitement!'
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable - Votre tableau Kanban Freeware'
+      title: 'SeaTable - Votre modèle de tableau kanban'
       text: "Visualisez vos flux de travail avec le logiciel libre Kanban Board de SeaTables pour une gestion efficace des tâches. Personnalisable - évolutif - conforme au RGPD - avec support de l'IA."
       classes:
           - bg-white
@@ -74,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utiliser le tableau Kanban en ligne avec SeaTable'
       subtitle: 'Vos avantages'
-      description: "La solution d'intelligence artificielle sans code SeaTable convainc par sa flexibilité et son adaptabilité. Avec notre freeware Kanban Board, vous bénéficiez de nombreux avantages et pouvez également reproduire des processus dynamiques."
+      description: "La solution d'intelligence artificielle sans code SeaTable convainc par sa flexibilité et son adaptabilité. Avec notre modèle de tableau kanban, vous bénéficiez de nombreux avantages et pouvez également reproduire des processus dynamiques."
       items:
       - text: "Toujours à jour : restez à jour grâce aux fonctions de communication, à l'historique complet des modifications et aux mises à jour en temps réel."
       - text: "Accès de n'importe où : avec un tableau KANBAN en ligne, vous pouvez accéder à tout moment et protéger vos données contre les pertes."
@@ -86,7 +87,7 @@ sections:
 
     - name: "content-25"
       weight: 10
-      title: 'Comment fonctionne le freeware Kanban Board'
+      title: 'Comment fonctionne le modèle de tableau kanban'
       subtitle: 'Utiliser le Kanban'
       items:
       - headline: 'Créer facilement de nouvelles tâches'
@@ -130,7 +131,7 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: "Tableau Kanban Freeware pour chaque cas d'utilisation"
+      title: "Modèle de tableau kanban pour chaque cas d'utilisation"
       subtitle: 'Sécurité maximale'
       description: "SeaTable est une solution moderne de base de données sans code d'intelligence artificielle avec des automatisations et un constructeur d'applications, offrant toutes les fonctionnalités dont vous avez besoin pour un outil Kanban numérique et intégré. La protection de vos données est notre priorité."
       box-position: [right!]
@@ -153,5 +154,4 @@ sections:
         a: "Lorsque vous créez un tableau Kanban numérique avec SeaTable, vous pouvez définir des droits de lecture et d'accès. Par exemple, vous pouvez créer un tableau Kanban pour vous-même et pour vos équipes, et un tableau séparé pour chaque membre de l'équipe qui ne sera visible que par lui."
       - q: "Je souhaite utiliser SeaTable comme outil Kanban. Existe-t-il un support gratuit ?"
         a: "Oui, vous pouvez contacter notre service d'assistance pour toute question. Pour cela, vous pouvez soit poser une question sur notre forum communautaire, soit nous contacter directement par e-mail."
-
 ---
