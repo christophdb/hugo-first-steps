@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Administration publique'
 color: '#c4e8d8'
-url: '/fr/gestion-immobiliere'
+url: '/fr/gestion-des-actifs-fonciers'
 aliases:
     - '/fr/liegenschaftsverwaltung'
 ---

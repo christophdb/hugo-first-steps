@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Setor público'
 color: '#c4e8d8'
-url: '/pt/gestao-imobiliaria'
+url: '/pt/gestao-de-ativos-fundiarios'
 aliases:
     - '/pt/liegenschaftsverwaltung'
 ---

@@ -11,7 +11,7 @@ tags:
     - 'Управление данными и визуализация'
     - 'Государственный сектор'
 color: '#c4e8d8'
-url: '/ru/upravlenie-nedvizhimostyu'
+url: '/ru/upravlenie-zemel-nymi-aktivami'
 aliases:
     - '/ru/liegenschaftsverwaltung'
 ---

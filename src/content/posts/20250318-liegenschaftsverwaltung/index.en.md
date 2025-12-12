@@ -11,7 +11,7 @@ tags:
     - 'Public Sector'
     - 'Data Management & Visualisation'
 color: '#c4e8d8'
-url: '/property-management/'
+url: '/land-asset-management/'
 aliases:
     - '/liegenschaftsverwaltung'
 ---
