@@ -282,21 +282,11 @@ pageRef = "pages/legal/imprint"
 weight = 10
 
 [[legal]]
-name = "Sicherheit"
-pageRef = "pages/legal/security"
+name = "Rechtliches"
+pageRef = "pages/legal/overview"
 weight = 20
 
 [[legal]]
-name = "Datenschutz"
-pageRef = "pages/legal/data-privacy"
+name = "Sicherheit"
+pageRef = "pages/legal/security"
 weight = 30
-
-[[legal]]
-name = "Nutzungsbedingungen"
-pageRef = "pages/legal/terms-of-service"
-weight = 40
-
-[[legal]]
-name = "EULA"
-pageRef = "pages/legal/eula"
-weight = 50

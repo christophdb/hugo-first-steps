@@ -61,8 +61,8 @@
                 <div class="post-content my-12 w-full lg:w-3/4">
                     <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                         {{ range .RegularPagesRecursive }}
-                            <div class="rounded-lg border border-gray-400">
-                                <a href="{{ .RelPermalink }}">
+                            <div class="duration-50 rounded-lg border border-gray-400 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                                <a href="{{ .RelPermalink }}" class="!no-underline">
                                     {{ with .Resources.GetMatch "feature.*" }}
                                         <img src="{{ .RelPermalink }}" alt="{{ $.Title }} Feature Image" class="rounded-t-lg !border-b border-gray-200" />
                                     {{ end }}

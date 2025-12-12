@@ -120,6 +120,26 @@
     @apply p-2;
 }
 
+/* tabellen */
+#legal table {
+    @apply mb-12 mt-8 w-full overflow-hidden rounded text-left text-base text-gray-500 shadow-lg;
+}
+#legal thead {
+    @apply border-b-2 border-gray-400 font-poppins text-sm uppercase text-gray-700;
+}
+#legal thead th {
+    @apply border-r bg-orange-100 px-4 py-4;
+}
+#legal tbody tr {
+    @apply border-b border-gray-200 bg-white tracking-tight hover:bg-gray-100;
+}
+#legal tbody td {
+    @apply border-r px-4 py-4;
+}
+#legal tbody strong {
+    @apply whitespace-nowrap text-gray-900;
+}
+
 /* end legal pages */
 
 /* post pages */
@@ -408,6 +428,64 @@ p > .icon > svg {
 
     .info-text {
         @apply text-lg leading-7 text-slate-gray;
+    }
+
+    /* Printer friendly css classes like "print:hidden" */
+    @media print {
+        * {
+            font-size: 10px !important;
+        }
+        .padding {
+            padding: 0px !important;
+            margin: 0px !important;
+        }
+        h1 {
+            color: black !important;
+            text-align: left !important;
+            font-size: 20px !important;
+            padding-top: 0 !important;
+        }
+        h2 {
+            font-size: 14px !important;
+            padding-top: 12px !important;
+        }
+        h3 {
+            font-size: 12px !important;
+            padding-top: 4px !important;
+        }
+        p {
+            font-size: 10px !important;
+            padding-bottom: 2px !important;
+        }
+        li {
+            padding-bottom: 0px !important;
+        }
+
+        .print\:hidden {
+            @apply hidden;
+        }
+        .print\:block {
+            display: block !important;
+        }
+        .print\:font-size-12 {
+            font-size: 12pt !important;
+        }
+        .print\:bg-white {
+            background: white !important;
+        }
+        .print\:text-black {
+            color: black !important;
+        }
+        .print\:no-margin {
+            margin: 0 !important;
+        }
+        .print\:w-full {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+        img {
+            max-height: 300px;
+        }
     }
 }
 

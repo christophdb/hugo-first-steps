@@ -278,25 +278,15 @@ weight = 35
 
 [[legal]]
 name = "Mentions légales"
-pageRef = "imprint"
+pageRef = "pages/legal/imprint"
 weight = 10
 
 [[legal]]
-name = "Sécurité"
-pageRef = "security"
+name = "Légal"
+pageRef = "pages/legal/overview"
 weight = 20
 
 [[legal]]
-name = "Protection des données"
-pageRef = "data-privacy"
+name = "Sécurité"
+pageRef = "pages/legal/security"
 weight = 30
-
-[[legal]]
-name = "Conditions d'utilisation"
-pageRef = "terms-of-service"
-weight = 40
-
-[[legal]]
-name = "CLUF"
-pageRef = "eula"
-weight = 50
