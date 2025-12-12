@@ -12,7 +12,9 @@ tags:
     - 'Управление проектом'
     - 'Инструменты и плагины'
 color: '#1eb0e5'
-url: '/ru/agiles-projektmanagement'
+url: '/ru/gibkoe-upravlenie-proektami'
+aliases:
+    - '/ru/agiles-projektmanagement'
 ---
 
 ## Почему именно agile-управление проектами?

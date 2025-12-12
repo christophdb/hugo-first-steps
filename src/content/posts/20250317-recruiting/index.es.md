@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Gestión de candidatos y talentos'
 color: '#d4a2ee'
-url: '/es/recruiting'
+url: '/es/reclutamiento'
+aliases:
+  - '/es/recruiting'
 ---
 
 ## Cómo llegar a los mejores talentos en línea

@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление данными и визуализация'
     - 'Цифровая трансформация'
-url: '/ru/data-warehouse'
+url: '/ru/khranilishche-dannykh'
+aliases:
+    - '/ru/data-warehouse'
 color: '#34ba9d'
 ---
 

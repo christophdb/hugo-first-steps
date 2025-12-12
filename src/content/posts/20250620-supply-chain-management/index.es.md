@@ -3,7 +3,9 @@ title: 'Cómo optimizar la gestión de su cadena de suministro'
 description: 'Una gestión eficaz de la cadena de suministro es crucial para el éxito de una empresa. Con nuestros 5 sencillos consejos y las posibilidades de las tecnologías modernas, podrá crear procesos eficientes y lograr resultados óptimos.'
 date: 2021-10-07
 lastmod: '2025-06-20'
-url: '/es/supply-chain-management'
+url: '/es/gestion-de-la-cadena-de-suministro'
+aliases:
+    - '/es/supply-chain-management'
 category:
     - 'best-practice'
 tags:

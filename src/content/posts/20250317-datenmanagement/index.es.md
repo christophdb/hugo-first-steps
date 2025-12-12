@@ -11,7 +11,9 @@ tags:
     - 'Gestión y visualización de datos'
     - 'Herramientas y plugins'
 color: '#bedeab'
-url: '/es/datenmanagement'
+url: '/es/gestion-de-datos'
+aliases:
+    - '/es/datenmanagement'
 ---
 
 ## Éxito garantizado en la gestión de datos

@@ -11,7 +11,9 @@ categories:
 tags:
     - 'Gestão de projectos'
 color: '#67c3c4'
-url: '/pt/projektstrukturplan'
+url: '/pt/estrutura-do-projeto'
+aliases:
+    - '/pt/projektstrukturplan'
 ---
 
 ## A estrutura analítica do trabalho: Uma abordagem estruturada para projectos

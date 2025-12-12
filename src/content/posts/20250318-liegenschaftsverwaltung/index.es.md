@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Administración pública'
 color: '#c4e8d8'
-url: '/es/liegenschaftsverwaltung'
+url: '/es/gestion-inmobiliaria'
+aliases:
+    - '/es/liegenschaftsverwaltung'
 ---
 
 ## Soluciones digitales para una gestión inmobiliaria moderna

@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Administração de Recursos Humanos'
 color: '#fdf505'
-url: '/pt/urlaubsplanung'
+url: '/pt/planeamento-de-ferias'
+aliases:
+    - '/pt/urlaubsplanung'
 ---
 
 ## Como coordenar os pedidos de férias sem problemas

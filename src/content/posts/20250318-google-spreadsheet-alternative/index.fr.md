@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Outils & plugins'
 color: '#59c9a1'
-url: '/fr/google-spreadsheet-alternative'
+url: '/fr/alternative-a-google-sheets'
+aliases:
+    - '/fr/google-spreadsheet-alternative'
 ---
 
 ## Dépasser les limites d'Excel

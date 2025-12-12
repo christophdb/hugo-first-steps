@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
     - 'Outils & plugins'
-url: '/fr/excel-kostenlos'
+url: '/fr/excel-gratuit'
+aliases:
+    - '/fr/excel-kostenlos'
 color: '#6d9c70'
 ---
 

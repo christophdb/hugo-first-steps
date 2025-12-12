@@ -5,7 +5,9 @@ seo:
     title: 'Lleva un cuaderno de bitácora digital: Así de fácil | SeaTable'
     description: 'Un cuaderno de bitácora digital tiene muchas ventajas. Descubre cómo llevar un cuaderno de bitácora inteligente sin las molestias de la burocracia.'
 date: 2025-04-01
-url: '/es/fahrtenbuch'
+url: '/es/libro-de-registro-digital'
+aliases:
+  - '/es/fahrtenbuch'
 tags:
 categories:
 color: '#f34b4c'

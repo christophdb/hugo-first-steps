@@ -5,9 +5,10 @@ seo:
     title: "Tenir un carnet de route numérique : C'est aussi simple que ça | SeaTable"
     description: 'Un carnet de route numérique présente de nombreux avantages. Découvrez comment tenir intelligemment votre carnet de route, sans paperasserie fastidieuse.'
 date: 2025-04-01
-url: '/fr/carnet-de-route'
+url: '/fr/carnet-de-bord-numerique'
 aliases:
     - '/fr/fahrtenbuch/'
+    - '/fr/carnet-de-route'
 tags:
 categories:
 color: '#f34b4c'

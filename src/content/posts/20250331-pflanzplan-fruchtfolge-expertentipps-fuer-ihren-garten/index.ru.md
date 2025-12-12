@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
 color: '#c4d69f'
-url: '/ru/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
+url: '/ru/plan-posadok-i-sevooborot'
+aliases:
+    - '/ru/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
 ---
 
 ## План посадок для успешных клумб

@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление проектом'
 color: '#67c3c4'
-url: '/ru/projektstrukturplan'
+url: '/ru/struktura-proekta'
+aliases:
+    - '/ru/projektstrukturplan'
 ---
 
 ## Структура разбивки работ: Структурированный подход к проектам

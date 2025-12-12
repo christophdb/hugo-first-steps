@@ -12,9 +12,10 @@ tags:
     - 'IT Processes'
     - 'No Code & Low Code'
 color: '#bedeab'
-url: '/datenmanagement/'
+url: '/data-management/'
 aliases:
     - '/en/datenmanagement/'
+    - '/datenmanagement/'
 ---
 
 ## Data management guarantees success

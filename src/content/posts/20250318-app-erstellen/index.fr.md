@@ -12,7 +12,9 @@ tags:
     - 'Outils & plugins'
     - 'Universal App Builder'
 color: '#9fe0cc'
-url: '/fr/app-erstellen'
+url: '/fr/creer-une-app'
+aliases:
+    - '/fr/app-erstellen'
 ---
 
 ## Comment créer sa propre application sans connaissances en programmation

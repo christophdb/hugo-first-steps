@@ -10,7 +10,9 @@ categories:
     - 'best-practice'
 tags:
 color: '#a57956'
-url: '/fr/beschaffung-unternehmen/'
+url: '/fr/achats-entreprise/'
+aliases:
+    - '/fr/beschaffung-unternehmen/'
 ---
 
 ## Gestion de l'approvisionnement dans les entreprises

@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Gestão de projectos'
 color: '#fca86c'
-url: '/pt/projektmanagement-methoden/'
+url: '/pt/metodos-de-gestao-de-projetos/'
+aliases:
+    - '/pt/projektmanagement-methoden/'
 ---
 
 ## Porque é que os métodos de gestão de projectos são úteis?

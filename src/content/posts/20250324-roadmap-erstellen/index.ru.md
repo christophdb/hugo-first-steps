@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление проектом'
 color: '#eee8ca'
-url: '/ru/roadmap-erstellen'
+url: '/ru/sozdat-dorozhnuyu-kartu'
+aliases:
+    - '/ru/roadmap-erstellen'
 ---
 
 ## Как эффективно и целенаправленно планировать свои проекты

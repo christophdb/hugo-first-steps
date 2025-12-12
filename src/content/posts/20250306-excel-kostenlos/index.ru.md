@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Инструменты и плагины'
     - 'Когда Excel уже недостаточно'
-url: '/ru/excel-kostenlos'
+url: '/ru/excel-besplatno'
+aliases:
+    - '/ru/excel-kostenlos'
 color: '#6d9c70'
 ---
 

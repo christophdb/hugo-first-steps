@@ -12,9 +12,10 @@ tags:
     - 'Finances'
     - 'Project Management'
 color: '#bba9d3'
-url: '/portfoliomanagement'
+url: '/portfolio-management'
 aliases:
     - '/en/portfoliomanagement/'
+    - '/portfoliomanagement'
 ---
 
 ## What is portfolio management?

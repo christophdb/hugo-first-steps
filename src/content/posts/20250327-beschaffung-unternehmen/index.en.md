@@ -11,9 +11,10 @@ tags:
     - 'Digital Transformation'
     - 'Procurement & Logistics'
 color: '#a57956'
-url: '/beschaffung-unternehmen/'
+url: '/business-procurement/'
 aliases:
     - '/en/beschaffung-unternehmen/'
+    - '/beschaffung-unternehmen/'
 ---
 
 ## Procurement management in companies

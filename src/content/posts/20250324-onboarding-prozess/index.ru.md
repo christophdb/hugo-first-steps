@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление кандидатами и талантами'
 color: '#d0e4e9'
-url: '/ru/onboarding-prozess'
+url: '/ru/protsess-onboardinga'
+aliases:
+    - '/ru/onboarding-prozess'
 ---
 
 ## Оптимизируйте процесс введения в должность

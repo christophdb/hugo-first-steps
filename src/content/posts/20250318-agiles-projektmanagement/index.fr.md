@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Outils & plugins'
 color: '#1eb0e5'
-url: '/fr/agiles-projektmanagement'
+url: '/fr/gestion-de-projet-agile'
+aliases:
+    - '/fr/agiles-projektmanagement'
 ---
 
 ## Pourquoi la gestion de projet agile ?

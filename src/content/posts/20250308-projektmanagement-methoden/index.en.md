@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Project Management'
 color: '#fca86c'
-url: '/projektmanagement-methoden/'
+url: '/project-management-methods/'
+aliases:
+    - '/projektmanagement-methoden/'
 ---
 
 ## Why are project management methods useful?

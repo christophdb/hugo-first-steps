@@ -11,7 +11,9 @@ categories:
 tags:
     - 'Gestión de proyectos'
 color: '#67c3c4'
-url: '/es/projektstrukturplan'
+url: '/es/estructura-del-proyecto'
+aliases:
+    - '/es/projektstrukturplan'
 ---
 
 ## La estructura de desglose del trabajo: Un enfoque estructurado de los proyectos

@@ -10,9 +10,10 @@ categories:
 tags:
     - 'Marketing Planning'
 color: '#509dfd'
-url: '/marketingplan'
+url: '/marketing-plan'
 aliases:
     - '/en/marketingplan/'
+    - '/marketingplan'
 ---
 
 ## Create a marketing plan in 6 steps

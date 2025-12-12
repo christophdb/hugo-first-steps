@@ -12,7 +12,9 @@ tags:
     - 'Procesos informáticos'
     - 'Herramientas y plugins'
 color: '#eee8ca'
-url: '/es/roadmap-erstellen'
+url: '/es/crear-roadmap'
+aliases:
+    - '/es/roadmap-erstellen'
 ---
 
 ## Cómo planificar sus proyectos con eficacia y determinación

@@ -12,9 +12,10 @@ tags:
     - 'Tools & Plugins'
     - 'Project Management'
 color: '#1eb0e5'
-url: '/agiles-projektmanagement'
+url: '/agile-project-management'
 aliases:
     - '/en/agiles-projektmanagement/'
+    - '/agiles-projektmanagement'
 ---
 
 ## Why agile project management?

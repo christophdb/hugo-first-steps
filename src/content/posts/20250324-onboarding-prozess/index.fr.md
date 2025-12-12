@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Accueil et intégration'
 color: '#d0e4e9'
-url: '/fr/onboarding-prozess'
+url: '/fr/processus-d-onboarding'
+aliases:
+    - '/fr/onboarding-prozess'
 ---
 
 ## Optimiser votre processus d'onboarding

@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
 color: '#fca86c'
-url: '/fr/projektmanagement-methoden/'
+url: '/fr/methodes-de-gestion-de-projet/'
+aliases:
+    - '/fr/projektmanagement-methoden/'
 ---
 
 ## Pourquoi les méthodes de gestion de projet sont-elles utiles ?

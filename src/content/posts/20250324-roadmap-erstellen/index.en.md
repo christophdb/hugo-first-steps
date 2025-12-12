@@ -10,9 +10,10 @@ categories:
 tags:
     - 'Project Management'
 color: '#eee8ca'
-url: '/roadmap-erstellen'
+url: '/create-roadmap'
 aliases:
     - '/en/roadmap-erstellen/'
+    - '/roadmap-erstellen'
 ---
 
 ## How to plan your projects efficiently and purposefully

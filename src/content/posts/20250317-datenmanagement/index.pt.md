@@ -12,7 +12,9 @@ tags:
     - 'No code & Low code'
     - 'Processos informáticos'
 color: '#bedeab'
-url: '/pt/datenmanagement'
+url: '/pt/gestao-de-dados/'
+aliases:
+    - '/pt/datenmanagement'
 ---
 
 ## A gestão de dados garante o sucesso

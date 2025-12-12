@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestión y visualización de datos'
-url: '/es/master-data-management'
+url: '/es/gestion-de-datos-maestros'
+aliases:
+    - '/es/master-data-management'
 color: '#0d75b4'
 ---
 

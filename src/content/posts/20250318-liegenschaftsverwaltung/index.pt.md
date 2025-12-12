@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Setor público'
 color: '#c4e8d8'
-url: '/pt/liegenschaftsverwaltung'
+url: '/pt/gestao-imobiliaria'
+aliases:
+    - '/pt/liegenschaftsverwaltung'
 ---
 
 ## Soluções digitais para uma gestão imobiliária moderna

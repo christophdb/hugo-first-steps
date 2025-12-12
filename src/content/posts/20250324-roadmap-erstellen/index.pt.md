@@ -11,7 +11,9 @@ tags:
     - 'Processos informáticos'
     - 'Ferramentas e plugins'
 color: '#eee8ca'
-url: '/pt/roadmap-erstellen'
+url: '/pt/criar-roadmap'
+aliases:
+    - '/pt/roadmap-erstellen'
 ---
 
 ## Como planear os seus projectos de forma eficiente e com objectivos definidos
