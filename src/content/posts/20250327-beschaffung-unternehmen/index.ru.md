@@ -11,7 +11,9 @@ tags:
     - 'Цифровая трансформация'
     - 'Закупки и логистика'
 color: '#a57956'
-url: '/ru/beschaffung-unternehmen/'
+url: '/ru/korporativnye-zakupki/'
+aliases:
+    - '/ru/beschaffung-unternehmen/'
 ---
 
 ## Управление закупками в компаниях

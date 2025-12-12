@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление кандидатами и талантами'
 color: '#d4a2ee'
-url: '/ru/recruiting'
+url: '/ru/podbor-personala'
+aliases:
+  - '/ru/recruiting'
 ---
 
 ## Как привлечь лучшие таланты в интернете

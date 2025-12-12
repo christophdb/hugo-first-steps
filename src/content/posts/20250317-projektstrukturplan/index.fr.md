@@ -11,7 +11,9 @@ categories:
 tags:
     - 'Gestion de projet'
 color: '#67c3c4'
-url: '/fr/projektstrukturplan'
+url: '/fr/structure-de-projet'
+aliases:
+    - '/fr/projektstrukturplan'
 ---
 
 ## L'organigramme de projet : Aborder les projets de manière structurée

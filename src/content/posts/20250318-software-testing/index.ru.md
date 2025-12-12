@@ -11,7 +11,9 @@ tags:
     - 'ИТ-процессы'
     - 'Инструменты и плагины'
 color: '#79b9e9'
-url: '/ru/software-testing'
+url: '/ru/testirovanie-programmnogo-obespecheniya'
+aliases:
+    - '/ru/software-testing'
 ---
 
 ## Ключ к надежным приложениям

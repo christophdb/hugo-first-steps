@@ -11,7 +11,9 @@ tags:
     - 'Управление проектом'
     - 'Финансы'
 color: '#bba9d3'
-url: '/ru/portfoliomanagement'
+url: '/ru/upravlenie-portfelem'
+aliases:
+    - '/ru/portfoliomanagement'
 ---
 
 ## Что такое управление портфелем?

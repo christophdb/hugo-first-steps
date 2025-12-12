@@ -10,7 +10,9 @@ categories:
 tags:
     - 'planificación de marketing'
 color: '#509dfd'
-url: '/es/marketingplan'
+url: '/es/plan-de-marketing'
+aliases:
+    - '/es/marketingplan'
 ---
 
 ## Crear un plan de marketing en 6 pasos

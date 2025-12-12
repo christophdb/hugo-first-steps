@@ -11,7 +11,9 @@ tags:
     - 'Управление данными и визуализация'
     - 'Государственный сектор'
 color: '#c4e8d8'
-url: '/ru/liegenschaftsverwaltung'
+url: '/ru/upravlenie-nedvizhimostyu'
+aliases:
+    - '/ru/liegenschaftsverwaltung'
 ---
 
 ## Цифровые решения для современного управления недвижимостью

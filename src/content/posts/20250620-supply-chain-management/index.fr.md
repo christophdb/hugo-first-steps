@@ -3,7 +3,9 @@ title: "Comment optimiser la gestion de votre chaîne d'approvisionnement"
 description: "Une gestion efficace de la chaîne d'approvisionnement est essentielle pour le succès d'une entreprise. Grâce à nos 5 conseils simples et aux possibilités offertes par les technologies modernes, vous pouvez créer des processus efficaces et obtenir des résultats optimaux."
 date: 2021-10-07
 lastmod: '2025-06-20'
-url: '/fr/supply-chain-management'
+url: '/fr/gestion-de-la-chaine-d-approvisionnement'
+aliases:
+    - '/fr/supply-chain-management'
 category:
     - 'best-practice'
 tags:

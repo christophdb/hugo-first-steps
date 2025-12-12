@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление проектом'
 color: '#fca86c'
-url: '/ru/projektmanagement-methoden/'
+url: '/ru/metody-upravleniya-proektami/'
+aliases:
+    - '/ru/projektmanagement-methoden/'
 ---
 
 ## Почему методы управления проектами полезны?

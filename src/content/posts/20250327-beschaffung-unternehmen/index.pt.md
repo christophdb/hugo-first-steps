@@ -10,7 +10,9 @@ categories:
     - 'best-practice'
 tags:
 color: '#a57956'
-url: '/pt/beschaffung-unternehmen/'
+url: '/pt/compras-empresariais/'
+aliases:
+    - '/pt/beschaffung-unternehmen/'
 ---
 
 ## Gestão das aquisições nas empresas

@@ -11,9 +11,10 @@ tags:
     - 'When Excel is no longer sufficient'
     - 'Tools & Plugins'
 color: '#59c9a1'
-url: '/google-spreadsheet-alternative'
+url: '/google-sheets-alternative'
 aliases:
     - '/en/google-spreadsheet-alternative/'
+    - '/google-spreadsheet-alternative'
 ---
 
 ## Overcome the limits of Excel

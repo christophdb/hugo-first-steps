@@ -10,7 +10,9 @@ categorías:
     - 'best-practice'
 tags:
 color: '#a57956'
-url: '/es/beschaffung-unternehmen/'
+url: '/es/compras-empresa/'
+aliases:
+    - '/es/beschaffung-unternehmen/'
 ---
 
 ## Gestión de adquisiciones en las empresas

@@ -12,7 +12,9 @@ tags:
     - 'Processus informatiques'
     - 'Outils & plugins'
 color: '#eee8ca'
-url: '/fr/roadmap-erstellen'
+url: '/fr/creer-une-roadmap'
+aliases:
+    - '/fr/roadmap-erstellen'
 ---
 
 ## Comment planifier vos projets de manière efficace et ciblée

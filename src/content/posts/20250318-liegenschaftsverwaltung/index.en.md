@@ -11,7 +11,9 @@ tags:
     - 'Public Sector'
     - 'Data Management & Visualisation'
 color: '#c4e8d8'
-url: '/liegenschaftsverwaltung'
+url: '/property-management/'
+aliases:
+    - '/liegenschaftsverwaltung'
 ---
 
 ## Digital solutions for modern property management

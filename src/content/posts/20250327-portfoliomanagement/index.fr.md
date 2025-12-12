@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
 color: '#bba9d3'
-url: '/fr/portfoliomanagement'
+url: '/fr/gestion-de-portefeuille'
+aliases:
+    - '/fr/portfoliomanagement'
 ---
 
 ## Qu'est-ce que la gestion de portefeuille ?

@@ -11,7 +11,9 @@ tags:
     - 'No Code & Low Code'
     - 'Universal App Builder'
 color: '#9fe0cc'
-url: '/ru/app-erstellen'
+url: '/ru/sozdanie-prilozheniya'
+aliases:
+    - '/ru/app-erstellen'
 ---
 
 ## Как создать собственное приложение без знаний программирования

@@ -10,9 +10,10 @@ categories:
 tags:
     - 'Project Management'
 color: '#67c3c4'
-url: '/projektstrukturplan/'
+url: '/work-breakdown-structure/'
 aliases:
     - '/en/projektstrukturplan/'
+    - '/projektstrukturplan/'
 ---
 
 ## The work breakdown structure: A structured approach to projects

@@ -9,7 +9,9 @@ categorías:
     - 'best-practice'
 tags:
 color: '#bba9d3'
-url: '/es/portfoliomanagement'
+url: '/es/gestion-de-portafolio'
+aliases:
+    - '/es/portfoliomanagement'
 ---
 
 ## ¿Qué es la gestión de carteras?

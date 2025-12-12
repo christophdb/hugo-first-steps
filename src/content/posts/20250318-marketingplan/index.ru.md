@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Планирование маркетинга'
 color: '#509dfd'
-url: '/ru/marketingplan'
+url: '/ru/marketingovyj-plan'
+aliases:
+    - '/ru/marketingplan'
 ---
 
 ## Создайте маркетинговый план за 6 шагов

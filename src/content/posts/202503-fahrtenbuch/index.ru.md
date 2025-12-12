@@ -5,9 +5,10 @@ seo:
     title: 'Ведите цифровой бортовой журнал: Это так просто | SeaTable'
     description: 'Цифровой бортовой журнал имеет множество преимуществ. Узнайте, как вести умный бортовой журнал без бюрократических проволочек.'
 date: 2025-04-01
-url: '/ru/digital-logbook'
+url: '/ru/elektronnyj-zhurnal'
 aliases:
     - '/ru/fahrtenbuch/'
+    - '/ru/digital-logbook'
 tags:
     - 'Финансы'
     - 'Инструменты и плагины'

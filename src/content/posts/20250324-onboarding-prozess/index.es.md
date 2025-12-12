@@ -10,7 +10,9 @@ categories:
 tags:
     - 'onboarding'
 color: '#d0e4e9'
-url: '/es/onboarding-prozess'
+url: '/es/proceso-de-onboarding'
+aliases:
+    - '/es/onboarding-prozess'
 ---
 
 ## Optimice su proceso de incorporación

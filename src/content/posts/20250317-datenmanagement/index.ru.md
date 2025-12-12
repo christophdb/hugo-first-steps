@@ -12,7 +12,9 @@ tags:
     - 'No Code & Low Code'
     - 'Инструменты и плагины'
 color: '#bedeab'
-url: '/ru/datenmanagement/'
+url: '/ru/upravlenie-dannymi/'
+aliases:
+    - '/ru/datenmanagement/'
 ---
 
 ## Управление данными гарантирует успех

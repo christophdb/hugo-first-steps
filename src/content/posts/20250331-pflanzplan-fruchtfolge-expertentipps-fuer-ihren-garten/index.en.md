@@ -9,9 +9,10 @@ categories:
     - 'best-practice'
 tags:
 color: '#c4d69f'
-url: '/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
+url: '/planting-plan-crop-rotation'
 aliases:
     - '/en/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten/'
+    - '/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
 ---
 
 ## A planting plan for successful beds

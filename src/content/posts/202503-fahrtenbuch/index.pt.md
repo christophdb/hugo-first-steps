@@ -5,9 +5,10 @@ seo:
     title: 'Mantenha um diário de bordo digital: É muito fácil | SeaTable'
     description: 'Um diário de bordo digital tem muitas vantagens. Descubra como manter um diário de bordo inteligente sem o incómodo da burocracia.'
 date: 2025-04-01
-url: '/pt/digital-logbook'
+url: '/pt/livro-de-registo-digital'
 aliases:
     - '/pt/fahrtenbuch'
+    - '/pt/digital-logbook'
 tags:
     - 'Finanças'
     - 'Ferramentas e plugins'

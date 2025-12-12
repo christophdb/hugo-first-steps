@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Управление персоналом'
 color: '#fdf505'
-url: '/ru/urlaubsplanung'
+url: '/ru/planirovanie-otpuska'
+aliases:
+    - '/ru/urlaubsplanung'
 ---
 
 ## Как без проблем согласовывать заявки на отпуск

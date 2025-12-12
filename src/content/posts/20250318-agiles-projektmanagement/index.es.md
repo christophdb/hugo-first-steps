@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Herramientas y plugins'
 color: '#1eb0e5'
-url: '/es/agiles-projektmanagement'
+url: '/es/gestion-de-proyectos-agiles'
+aliases:
+    - '/es/agiles-projektmanagement'
 ---
 
 ## ¿Por qué gestión ágil de proyectos?

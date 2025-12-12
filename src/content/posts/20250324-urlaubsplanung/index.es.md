@@ -8,7 +8,9 @@ date: 2025-03-24
 categories:
     - 'best-practice'
 color: '#fdf505'
-url: '/es/urlaubsplanung'
+url: '/es/planificacion-de-vacaciones'
+aliases:
+    - '/es/urlaubsplanung'
 ---
 
 ## Cómo coordinar las solicitudes de vacaciones sin problemas

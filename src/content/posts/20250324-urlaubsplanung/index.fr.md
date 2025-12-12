@@ -8,7 +8,9 @@ date: 2025-03-24
 categories:
     - 'best-practice'
 color: '#fdf505'
-url: '/fr/urlaubsplanung'
+url: '/fr/planification-des-vacances'
+aliases:
+    - '/fr/urlaubsplanung'
 ---
 
 ## Comment coordonner les demandes de congé sans problème

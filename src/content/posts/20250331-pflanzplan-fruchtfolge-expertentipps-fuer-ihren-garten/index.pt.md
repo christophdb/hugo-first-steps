@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
 color: '#c4d69f'
-url: '/pt/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
+url: '/pt/plano-plantio-e-rotacao-de-culturas'
+aliases:
+    - '/pt/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
 ---
 
 ## Um plano de plantação para canteiros de sucesso

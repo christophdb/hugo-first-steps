@@ -11,7 +11,9 @@ tags:
     - 'Когда Excel уже недостаточно'
     - 'Инструменты и плагины'
 color: '#59c9a1'
-url: '/ru/google-spreadsheet-alternative'
+url: '/ru/alternativa-google-sheets'
+aliases:
+    - '/ru/google-spreadsheet-alternative'
 ---
 
 ## Преодолеть ограничения Excel

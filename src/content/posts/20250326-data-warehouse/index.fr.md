@@ -8,7 +8,9 @@ date: 2025-03-26
 categories:
     - 'best-practice'
 tags:
-url: '/fr/data-warehouse'
+url: '/fr/entrepot-de-donnees'
+aliases:
+    - '/fr/data-warehouse'
 color: '#34ba9d'
 ---
 

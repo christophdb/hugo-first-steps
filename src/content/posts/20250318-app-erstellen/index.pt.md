@@ -12,7 +12,9 @@ tags:
     - 'No Code & Low Code'
     - 'Universal App Builder'
 color: '#9fe0cc'
-url: '/pt/app-erstellen'
+url: '/pt/criar-app'
+aliases:
+    - '/pt/app-erstellen'
 ---
 
 ## Como criar a sua própria aplicação sem conhecimentos de programação

@@ -13,7 +13,9 @@ tags:
     - 'Trabajo en colaboración'
     - 'Herramientas y plugins'
 color: '#79b9e9'
-url: '/es/software-testing'
+url: '/es/pruebas-de-software'
+aliases:
+    - '/es/software-testing'
 ---
 
 ## La clave para aplicaciones fiables

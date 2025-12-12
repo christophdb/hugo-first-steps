@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestion des données & visualisation'
-url: '/fr/master-data-management'
+url: '/fr/gestion-des-donnees-de-reference'
+aliases:
+    - '/fr/master-data-management'
 color: '#0d75b4'
 ---
 

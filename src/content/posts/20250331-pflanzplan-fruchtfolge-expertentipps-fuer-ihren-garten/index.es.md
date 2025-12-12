@@ -9,7 +9,9 @@ categorías:
     - 'best-practice'
 etiquetas:
 color: '#c4d69f'
-url: '/es/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
+url: '/es/plan-siembra-y-rotacion-de-cultivos'
+aliases:
+    - '/es/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
 ---
 
 ## Un plan de plantación para camas exitosas

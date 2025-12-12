@@ -10,8 +10,11 @@ categories:
 tags:
     - 'Tools & Plugins'
     - 'When Excel is no longer sufficient'
-url: '/excel-kostenlos'
+url: '/excel-free'
+aliases:
+    - '/excel-kostenlos'
 color: '#6d9c70'
+
 ---
 
 ## Competition for the market leader: Who offers Excel for free

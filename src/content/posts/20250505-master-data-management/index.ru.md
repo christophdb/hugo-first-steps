@@ -9,7 +9,9 @@ categories:
     - 'best-practice'
 tags:
     - 'Управление данными и визуализация'
-url: '/ru/master-data-management'
+url: '/ru/upravlenie-master-dannymi'
+aliases:
+    - '/ru/master-data-management'
 color: '#0d75b4'
 ---
 

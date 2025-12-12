@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Gestão de candidatos e talentos'
 color: '#d0e4e9'
-url: '/pt/onboarding-prozess'
+url: '/pt/processo-de-onboarding'
+aliases:
+    - '/pt/onboarding-prozess'
 ---
 
 ## Optimize o seu processo de integração
