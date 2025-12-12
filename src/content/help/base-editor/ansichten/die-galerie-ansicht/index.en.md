@@ -1,43 +1,67 @@
 ---
-title: 'Gallery plugin guide'
-date: 2023-01-08
-lastmod: '2023-06-29'
+title: 'The Gallery view'
+date: 2025-12-03
+lastmod: '2025-12-03'
 categories:
-    - 'plugins'
-author: 'vge'
-url: '/help/gallery-plugin-guide-seatable'
-aliases:
-    - '/help/anleitung-zum-galerie-plugin'
+    - 'grundlagen-von-ansichten'
+author: 'kgr'
+url: '/help/the-gallery-view'
 seo:
-    title: 'Gallery plugin: display images clearly in SeaTable'
-    description: 'Present image fields as albums, preview pictures larger and see extra data from your tables with the SeaTable gallery plugin quickly.'
-
+    title: 'Gallery view: Display images clearly in SeaTable'
+    description: 'With the Gallery view you get a vivid overview of all data records that contain images.'
+weight: 12
 ---
 
-The **Gallery plugin** is particularly well suited to displaying illustrated records, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
+The **Gallery view** uses preview images from an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) to arrange data records clearly in tiles. Several images are combined in an **album**. This display is suitable for a variety of use cases, for example [employee profiles]({{< relref "templates/human-resources/employee-directory" >}}), [product libraries]({{< relref "templates/product-design/product-library" >}}), [inventory lists]({{< relref "templates/operations/inventory-list" >}}) or [the management of collections]({{< relref "templates/operations/art-gallery-management" >}}).
 
-While the images in the **table view** are displayed as thumbnails and can only be enlarged individually by clicking on them, the gallery plugin allows you to get a vivid overview of all records thanks to the larger **preview** images. Thereby the gallery plugin combines all images of a row in one **album**.
+![The Gallery view](images/gallery-view.jpg)
 
-![Gallery plugin](images/Galerie-Plugin.png)
+## How to create a Gallery view
 
-## To set up the gallery plugin
+1. Click on the **name of the current view**.
+2. Click on **Add view or folder** and select the desired **view type**.
 
-In order to use the **Gallery plugin**, you must first [enable]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) it in your base.
+![Create a Gallery view](images/create-gallery-view.jpg)
 
-Then, in the settings, specify for which **table view** you want to create a gallery and from which [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) the images should come. For **Title**, specify the column whose entries you want to use as album title.
+3. Give the new view a **name**.
+4. Activate the slider if the new view should not be visible to everyone but **private**.
+5. Confirm with **Submit**.
+6. Then specify in the settings which **image column** the images should come from. The new view is then generated automatically.
+7. In the **Title field**, enter the column whose entries you want to use as the album title.
+
+![Create a Gallery view](images/create-gallery-view.gif)
+
+## View options
+
+You can use the following options in a Gallery view:
+- [Lock view]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) or [sort]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) by any value
+- [Share view with others]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 
 ## Show and hide information
 
-In the **gallery settings**, which you can reach via the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}, you can display more or less information by showing or hiding columns. Activate the **sliders** of the respective columns (e.g. Documents, Status and Date) to have more information from the table displayed in the gallery.
+In the **Gallery settings**, which you can access via the **gearwheel icon** {{< seatable-icon icon="dtable-icon-set-up" >}}, you can display more or less information by showing or hiding columns. Activate the **sliders** of the respective columns to display more information from the data records in the gallery.
 
-![](images/galerie-plugin.png)
+![Show information from other columns in the Gallery](images/other-fields-shown-in-gallery-view.jpg)
 
-## Multiple images in one row
+## Multiple images in one album
 
-The **number of images** per album or row is displayed in the gallery with a **number highlighted in gray**. Logically, the number is only displayed when there is more than one image in an album.
+The **number of images** per album is displayed in the gallery with a **grey highlighted number**. Logically, the number is only displayed if there is more than one image in an album.
 
-![Gallery plugin gray number](images/graue-nummer.png)
+![Number of images gray number](images/image-number.jpg)
 
-Clicking on the preview image opens the album in **full-screen mode**, where you can zoom in and out using the **magnifying glasses** and switch between images using the **arrows**.
+Click on the preview image to open the album in **full screen mode**, in which you can enlarge and reduce the images using the **magnifying glasses** and switch between the images using the **arrows**.
 
-![Gallery plugin full screen mode](images/Vollbildmodus-im-Galerie-Plugin.png)
+![Full screen mode in Gallery view](images/gallery-image-preview.gif)
+
+## Add a new record in the Gallery view
+
+![Add a new record in the Gallery view](images/add-new-record-in-gallery-view.jpg)
+
+Click on the **purple circle with the plus symbol** in the bottom right corner. A new window will open. Create a new data record in the **row details** and enter the desired information and images. The changes are automatically saved when you close the window.
+
+## Edit data records in the Gallery view
+
+![Edit records in Gallery view](images/modify-records-in-gallery-view.jpg)
+
+Click on the **title** of an album and a window with the **row details** will open. Make the desired adjustments to the record. The changes are saved automatically when you close the window.

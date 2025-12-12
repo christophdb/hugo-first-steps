@@ -1,75 +1,85 @@
 ---
-title: 'Kanban Plugin Guide'
-date: 2023-01-08
-lastmod: '2023-08-16'
+title: 'The Kanban view'
+date: 2025-12-03
+lastmod: '2025-12-03'
 categories:
-    - 'plugins'
-author: 'vge'
-url: '/help/kanban-plugin-guide'
-aliases:
-    - '/help/anleitung-zum-kanban-plugin'
+    - 'grundlagen-von-ansichten'
+author: 'kgr'
+url: '/help/the-kanban-view'
 seo:
-    title: 'Kanban Plugin Guide for SeaTable – how to use boards effectively'
-    description: 'Discover how to configure and maximize the Kanban Plugin in SeaTable. Step-by-step instructions for managing team workflows and processes.'
+    title: 'Create and use the Kanban view in SeaTable'
+    description: 'Learn how to set up the Kanban view in SeaTable and how to use it optimally for the visualization of processes'
+weight: 14
 ---
 
-A **Kanban board** can be useful to represent dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. This is particularly helpful for project planning, product development or task distribution **in the team**.
+A **Kanban view** is predestined to visualize dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. It is particularly helpful for [project planning]({{< relref "templates/projects/project-plan" >}}), [software development]({{< relref "templates/software-development/bug-tracker" >}}) or task distribution within a team.
 
-Good that SeaTable offers you all these possibilities with the **Kanban plugin**. You can learn how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+{{< warning type="warning" headline="Requirements" >}}
 
-## Structure of the Kanban board
+In order to be able to use the Kanban view sensibly, you need at least one column in your table that allows options to be clearly assigned. The column types [Single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) or [Collaborator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) are suitable for this.
 
-The Kanban board consists of **columns** that stand for different steps or phases in a process. In a workflow, for example, these can be "idea", "in progress", "done" and "planned".
+{{< /warning>}}
 
-![Kanban plugin](images/Kanban.png)
+## Structure of a Kanban view
 
-You provide the columns with **movable cards** that you can **move** both within a column and from one column to the next. For example, a card can stand for a work package or a task.
+A Kanban view consists of **pillars** that stand for different steps or phases in a process. In a workflow, for example, these can be "idea", "planned", "in progress" and "done".
 
-![Kanban shifts](images/kanban.gif)
+![Kanban view](images/kanban-view.jpg)
 
-## Setting options of a Kanban board
+You provide the columns with **movable cards** that you can move both within a column and from one column to the next. A Kanban card can represent a work package or a task, for example.
 
-Via the **settings**, which you can reach by clicking on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}, you can define the following for the Kanban board:
+![Kanban moves](images/move-records-in-kanban-view.gif)
 
-- Table
-- View
-- Grouping
-- Title
-- More columns
-- Controller options
+## How to create a Kanban view
 
-### Table and view
+![Create a Kanban view](images/create-kanban-view.jpg)
 
-If you have several **Tables** and **Views** created in your base, you can choose from them.
+1. Click on the **Name of the current view**.
+2. Click on **Add view or folder** and select the desired **View type**.
 
-{{< warning  headline="Multiple Kanban boards"  text="You can also create **multiple Kanban boards** in a base if you have either created **multiple tables**, **multiple views of** a table, or want to group by **different columns**." />}}
+![Name a Kanban view](images/name-kanban-view.jpg)
 
-### Grouping
+3. Give the new view a **name**.
+4. Activate the slider if the new view should not be visible to everyone but **private**.
+5. Confirm with **Submit**.
 
-The **grouping** determines which column defines the **columns**. [Selection]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) are particularly suitable for this.
+![create a Kanban view](images/kanban-view-settings.jpg)
 
-![Kanban plugin columns](images/Saeulen.png)  
-In this example the column **Status** chosen. As pillars were thereby the **Options** "idea", "in progress", "done" and "planned" defined.
+6. Specify which column you want to use for the **grouping**, i.e. the definition of the columns. The Kanban view is then generated automatically.
+7. In the **Title field**, enter the column with which you want to label the Kanban cards.
+8. Optionally, you can also activate **sliders** to activate certain functions or display more columns.
 
-### Title
+If you want to change something later, click on the **gearwheel icon** {{< seatable-icon icon="dtable-icon-set-up" >}} in the top right-hand corner and adjust the **settings**.
 
-The entries in the column you specify under **Title** determine the **heading of the cards of** a Kanban board.
+## Settings of the Kanban view
 
-![Kanban plugin title](images/titel-kanban.png)
+You can use the slider options to change the visual display of the Kanban view.
 
-### More columns
+- You can use the **Don't show empty values** slider to remove grayed-out placeholders on the Kanban cards.
+- The **Show field names** slider shows the column names above all activated information.
+- The **Wrap text** slider formats texts so that they are fully legible on the Kanban board cards.
 
-![Kanban plugin more settingne](images/weitere-einsellungen-kanban.png)  
-Here all **Columns** that you have created in your table. By activating the individual **Controller** the entries in the respective columns become visible as informative notes on the cards.
+![kanban view settings](images/show-other-fields-in-kanban-view.gif)
 
-{{< warning  headline="Note"  text="Open the **row details** by clicking on a card to see all information of a row , even if they are not activated in the Kanban board." />}}
+## Show and hide other columns
 
-### Controller options
+All **columns** that you have created in your table are listed in the lower section. By activating the individual **controllers**, the entries in the respective columns become visible as informative notes on the cards.
 
-Via the slider options you have the possibility to change the visual representation of the Kanban board.
+{{< warning headline="Note" text="Open the **row details** by clicking on a card to see all the information in a row, even if the sliders are not activated." />}}
 
-- The **Do not show empty values** slider allows you to remove grayed placeholders on the cards.
-- The **Show column names** slider shows the column names above all activated information.
-- The **Wrap Text** slider formats texts so that they are fully readable on the cards of the Kanban board.
+## View options
 
-![Kanban Plugin Rule Options](images/regleroptionen-kanban.gif)
+You can use the following options in a Kanban view:
+- [Lock view]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) or [sort]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) by any value
+- [Share view with others]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Add a new record in the Kanban view
+
+![Add a new record in the Kanban view](images/add-record-in-kanban-view.jpg)
+
+Click on **Add record** at the bottom of a column. A new window opens. Create a new data record in the **Row details** and enter the required information. The changes are saved automatically when you close the window.
+
+## Edit data records in the Kanban view
+
+Click on a **Kanban card** and a window with the **Row details** opens. Make the desired adjustments to the data record. The changes are saved automatically when you close the window.

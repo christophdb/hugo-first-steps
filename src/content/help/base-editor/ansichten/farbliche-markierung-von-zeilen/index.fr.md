@@ -10,8 +10,8 @@ aliases:
   - '/fr/aide/farbliche-markierung-von-zeilen'
 seo:
     title: 'Couleur des lignes dans SeaTable : méthode & exemples'
-    description: 'Colorez des lignes pour la gestion des statuts ou des doublons : sélection simple, règles personnalisées ou surbrillance automatique pour vos bases SeaTable.'
-
+    description: 'Colorez des lignes pour la gestion des statuts ou des doublons : sélection unique, règles personnalisées ou surbrillance automatique pour vos bases SeaTable.'
+weight: 27
 ---
 
 L'**outil de formatage des lignes** vous permet d'ajouter des marques de couleur au **début des lignes**. Le **marquage des lignes en couleur** sert à identifier rapidement certains enregistrements. Il ne faut pas confondre cela avec le [coloriage des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), qui permet de mettre en évidence certaines cellules.
@@ -24,21 +24,21 @@ Dans les options d'affichage au-dessus d'un tableau, vous trouverez l'icône sui
 
 Après avoir cliqué sur l'outil de mise en forme des lignes, vous pouvez choisir entre **trois options** pour le marquage en couleur :
 
-- Utiliser une colonne de sélection simple
+- Utiliser une colonne de sélection unique
 - Utiliser des règles
 - Mettre en évidence les doublons
 
 ![Marquage couleur des cellules](images/Farbliche-Markierung-von-Zellen-2.png)
 
-## Utiliser une colonne de sélection simple
+## Utiliser une colonne de sélection unique
 
-Pour l'option **Utiliser une colonne de sélection simple**, vous avez besoin d'une colonne de ce type dans votre tableau. Vous pouvez ainsi marquer chaque ligne en **début de ligne** avec la couleur de l'option correspondante inscrite dans cette colonne.
+Pour l'option **Utiliser une colonne de sélection unique**, vous avez besoin d'une colonne de ce type dans votre tableau. Vous pouvez ainsi marquer chaque ligne en **début de ligne** avec la couleur de l'option correspondante inscrite dans cette colonne.
 
 ![Marquage couleur des cellules](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Création d'une colonne de sélection simple" >}}
+{{< warning  headline="Création d'une colonne de sélection unique" >}}
 
-Apprenez [ici]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection simple.
+Apprenez [ici]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection unique.
 
 {{< /warning >}}
 

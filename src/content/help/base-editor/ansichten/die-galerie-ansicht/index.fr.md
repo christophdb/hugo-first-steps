@@ -1,43 +1,67 @@
 ---
-title: 'Instructions pour le plugin de galerie'
-date: 2023-01-08
-lastmod: '2023-06-29'
-categories:
-    - 'plugins'
-author: 'vge'
-url: '/fr/aide/guide-plugin-galerie-seatable'
-aliases:
-    - '/fr/aide/anleitung-zum-galerie-plugin'
-seo:
-    title: 'Plugin galerie: afficher images dans SeaTable'
-    description: 'Affichez vos données visuelles en albums, prévisualisez et pilotez toutes les infos – mode galerie efficace sous SeaTable.'
-
+title : 'La vue de galerie'
+date : 2025-12-03
+lastmod : '2025-12-03'
+categories :
+    - 'grundlagen-von-ansichten'
+author : 'kgr'
+url : '/fr/aide/vue-de-galerie'
+seo :
+    title : 'Vue de galerie : affichage clair des images dans SeaTable'
+    description : 'La vue galerie vous donne un aperçu vivant de tous les enregistrements contenant des images'
+weight : 12
 ---
 
-Le **plug-in Galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
+La vue **Galerie** utilise les fichiers d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) pour organiser les enregistrements de manière claire dans des tuiles. Plusieurs images sont ainsi regroupées dans un **album**. Cette présentation convient à de nombreux cas d'utilisation, par exemple [profils des employés]({{< relref "templates/human-resources/employee-directory" >}}), [bibliothèques de produits]({{< relref "templates/product-design/product-library" >}}), [listes d'inventaire]({{< relref "templates/operations/inventory-list" >}}) ou [la gestion des collections]({{< relref "templates/operations/art-gallery-management" >}}).
 
-Alors que dans l'**affichage du tableau**, les images sont représentées sous forme de miniatures et ne peuvent être agrandies qu'une à une en cliquant dessus, le plug-in de galerie vous permet d'obtenir une vue d'ensemble vivante de tous les enregistrements grâce aux **miniatures** plus grandes. Le plug-in Galerie regroupe toutes les images d'une ligne dans un **album**.
+![La vue de la galerie](images/gallery-view.jpg)
 
-![Plugin de la galerie](images/Galerie-Plugin.png)
+## Pour créer une vue de galerie
 
-## Pour configurer le plugin de la galerie, procédez comme suit
+1. Cliquez sur le **nom de la vue actuelle**.
+2. Cliquez sur **Ajouter une vue ou un dossier** et sélectionnez le **type de vue** souhaité.
 
-Pour pouvoir utiliser le **plugin de la galerie**, vous devez d'abord l'[activer]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) dans votre base.
+![Créer une vue de galerie](images/create-gallery-view.jpg)
 
-Définissez ensuite dans les paramètres pour quelle **vue du tableau** vous souhaitez créer une galerie et de quelle [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) les images doivent provenir. Pour le **titre**, indiquez la colonne dont vous souhaitez utiliser les entrées comme titre d'album.
+3. Donnez un **nom** à la nouvelle vue.
+4. Activez le curseur si vous souhaitez que la nouvelle vue ne soit pas visible par tous, mais **privée**.
+5. Confirmez en cliquant sur **Envoyer**.
+6. Déterminez ensuite dans les paramètres de quelle **colonne d'images** les images doivent provenir. La nouvelle vue est ensuite générée automatiquement.
+7. Dans le champ **Titre**, indiquez la colonne dont vous souhaitez utiliser les entrées comme titre d'album.
 
-## Afficher et masquer les informations
+![créer une vue de la galerie](images/create-gallery-view.gif)
 
-Dans les **paramètres de la galerie**, auxquels vous accédez via l'**icône en forme de roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}, vous pouvez afficher plus ou moins d'informations en affichant ou en masquant des colonnes. Activez les **curseurs** des colonnes concernées (par ex. documents, statut et date) afin d'afficher plus d'informations du tableau dans la galerie.
+## Options de vue
 
-![](images/galerie-plugin.png)
+Vous pouvez utiliser les options suivantes dans une vue de galerie :
+- [Verrouiller la vue]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) 
+- [Partager la vue]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 
-## Plusieurs images sur une seule ligne
+## Afficher ou masquer les informations
 
-Le **nombre d'images** par album ou par ligne est indiqué dans la galerie par un **numéro sur fond gris**. Logiquement, ce nombre n'est affiché que lorsqu'il y a plus d'une image dans un album.
+Dans les **paramètres de la galerie**, accessibles via **l'icône de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}, vous pouvez afficher plus ou moins d'informations en affichant ou en masquant des colonnes. Activez les **régulateurs** de chaque colonne pour afficher plus d'informations à partir des enregistrements de la galerie.
 
-![Plugin de galerie numéro gris](images/graue-nummer.png)
+![Afficher les informations des autres colonnes de la galerie](images/other-fields-shown-in-gallery-view.jpg)
 
-En cliquant sur l'image d'aperçu, vous ouvrez l'album en **mode plein écran**, dans lequel vous pouvez agrandir et réduire les images à l'aide des **loupes** et passer d'une image à l'autre à l'aide des **flèches**.
+## Plusieurs images dans un album
 
-![Mode plein écran dans le plug-in de la galerie](images/Vollbildmodus-im-Galerie-Plugin.png)
+Le **nombre d'images** par album est affiché dans la galerie avec un **numéro surligné en gris**. Logiquement, ce nombre n'est affiché que lorsqu'il y a plus d'une image dans un album.
+
+![nombre d'images en gris](images/image-number.jpg)
+
+En cliquant sur l'image d'aperçu, vous ouvrez l'album en mode **plein écran**, dans lequel vous pouvez agrandir et réduire les images à l'aide des **loupes** et passer d'une image à l'autre à l'aide des **flèches**.
+
+![mode plein écran dans le plugin de la galerie](images/gallery-image-preview.gif)
+
+## Ajouter un nouvel enregistrement dans la vue de galerie
+
+![Ajouter un nouveau jeu de données dans la vue galerie](images/add-new-record-in-gallery-view.jpg)
+
+Cliquez sur le **cercle violet avec le symbole plus** dans le coin inférieur droit. Une nouvelle fenêtre s'ouvre. Créez un nouvel enregistrement dans les **détails de la ligne** et gérez les informations et les images souhaitées. Les modifications sont automatiquement enregistrées lorsque vous fermez la fenêtre.
+
+## Modifier des enregistrements dans la vue de galerie
+
+![modifier les enregistrements dans la vue galerie](images/modify-records-in-gallery-view.jpg)
+
+Cliquez sur le **titre** d'un album et une fenêtre s'ouvre avec les **détails de la ligne**. Apportez les modifications souhaitées à l'enregistrement. Les modifications sont automatiquement enregistrées lorsque vous fermez la fenêtre.

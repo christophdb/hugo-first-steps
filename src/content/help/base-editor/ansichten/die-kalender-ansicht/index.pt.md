@@ -1,82 +1,135 @@
 ---
-title: 'Guia de plugin do calendário'
-date: 2022-11-07
-lastmod: '2023-08-14'
+title: 'A vista do calendário'
+date: 2025-12-03
+lastmod: '2025-12-03'
 categories:
-    - 'plugins'
-author: 'vge'
-url: '/pt/ajuda/anleitung-zum-kalender-plugin'
-aliases:
-    - '/pt/ajuda/anleitung-zum-kalender-plugin'
+    - 'grundlagen-von-ansichten'
+author: 'kgr'
+url: '/pt/ajuda/vista-do-calendario'
 seo:
-    title: 'Guia do plugin do calendário SeaTable – visualização e uso'
-    description: 'Aprenda a configurar e usar o plugin do calendário no SeaTable. Veja compromissos por ano, mês, semana, agenda e planeador diário facilmente.'
+    title: 'Vista do calendário no SeaTable – utilize a vista cronológica'
+    description: 'A vista do calendário no SeaTable apresenta os seus compromissos por ano, mês, semana, dia ou na agenda. Configuração completa e sugestões'
+weight: 13
 ---
 
-O plug-in do calendário mostra-lhe os dados de uma tabela em **forma de calendário**. Pode obter uma visão geral dos diferentes **períodos de tempo** (ano, mês, semana, dia).
+A vista de calendário mostra-lhe os dados de uma tabela sob a forma de **calendário**. Pode obter uma visão geral de **diferentes períodos de tempo (ano, mês, semana, dia)** ou apresentar compromissos como **agenda** em forma de lista.
 
-Há um total de 5 opções de visualização: Pode exibir os compromissos num calendário **anual**, **mensal** ou **semanal**, no **planeador diário** ou como uma **agenda** mensal em forma de lista.
+Um exemplo é a visão geral mensal num calendário de férias:
 
-{{< warning  headline="Requisitos" >}}
+![A vista do calendário](images/calendar-view.jpg)
 
-Para utilizar a visualização do calendário para uma visualização de tabela, é necessário pelo menos uma [coluna de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
+{{< warning type="warning" headline="Requisitos" >}}
+
+Para poder utilizar a vista de calendário de forma sensata, necessita de pelo menos uma [coluna de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) na sua tabela.
 
 {{< /warning >}}
 
-## Configurações de plugin de calendário
+## Para criar uma vista de calendário
 
-Para fazer configurações no plug-in do calendário:
+![Crie uma vista de calendário](images/create-calendar-view.jpg)
 
-![Instruções para o plugin do calendário](images/Anleitung-zum-Kalender-Plugin.gif)
+1. Clique no **nome da vista atual**.
+2. Clique em **Adicionar vista ou pasta** e selecione o **tipo de vista** pretendido.
 
-1. Abrir o **plug-in do calendário**.
-2. Aparece uma grande janela. Clique no botão **Símbolo de engrenagem** {{< seatable-icon icon="dtable-icon-set-up" >}} e definir os seguintes parâmetros:
-    - Quadro
-    - Ver
-    - Coluna de título
-    - Coluna para a data de início
-    - Coluna para a data final (opcional)
-    - Cor
-    - Início da semana
+![Dê um nome a uma vista de calendário](images/name-calendar-view.jpg)
 
-{{< warning  headline="Nota"  text="Logo na primeira vez que abrir o plug-in do calendário, ser-lhe-ão mostradas as **definições** sem ter de clicar no ícone da roda dentada." />}}
+3. Dê um **nome** à nova vista.
+4. Active o seletor se a nova vista não deve ser visível para todos mas **privada**.
+5. Confirme com **Submeter**.
 
-Nas definições, determina-se primeiro a que **tabela** se deve referir **o** plug-in do calendário. As nomeações no calendário têm o nome das entradas na **coluna de título** seleccionada.
+![criar uma vista de calendário](images/calendar-view-settings.jpg)
 
-Em **Coluna para Data de Início**, especificar de que coluna de data da tabela se devem originar as entradas no calendário. Opcionalmente, pode introduzir uma **coluna para a data final**, a fim de exibir a duração das marcações no calendário.
+6. No campo **Título**, introduza a coluna com a qual gostaria de rotular as entradas do calendário.
+7. Especifique qual a coluna de data que deve ser utilizada para a **Data de início**. A vista de calendário é então gerada automaticamente.
+8. Opcionalmente, pode especificar uma coluna de data ou de duração para a **Data final**, que define o período das entradas de calendário.
+9. Finalmente, selecione o dia da semana que deve ser utilizado como **primeiro dia da semana**.
 
-A **cor de** uma entrada de calendário depende da cor da sua linha na tabela ou da cor da opção que atribuiu a uma entrada numa coluna de selecção. Sob o **início da Semana** pode decidir se as semanas do seu calendário devem começar aos domingos ou segundas-feiras.
+Se pretender alterar algo mais tarde, clique no ícone da **roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} no canto superior direito e ajuste as **configurações**.
 
-## As opções de visualização em detalhe
+## Opções da vista
 
-Pode facilmente alternar entre as cinco opções de visualização do plug-in do calendário. Para o fazer, basta clicar na opção correspondente no **botão** acima do calendário.
+Pode utilizar as seguintes opções numa vista de calendário:
+- [Bloquear vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) por qualquer valor
+- [Cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
+- [Partilhar a vista com outros]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+- [Imprimir vista]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}})
 
-![Opções de visualização do plug-in do calendário](images/Darstellungsoptionen-des-Kalender-Plugins.png)
+## As opções de visualização em pormenor
 
-### Síntese anual
+Há um total de 5 opções de visualização: Pode apresentar os compromissos num calendário **anual**, **mensal** ou **semanal**, na **planeador diário** ou como **agenda** em forma de lista.
 
-Aqui pode ver o **ano** num relance. O **ponto** sob uma data mostra que há uma entrada nesse dia. Também tem a opção de chamar a **vista detalhada da linha** clicando na data.
+Pode alternar facilmente entre as cinco opções de visualização da vista de calendário. Basta clicar na opção correspondente no **botão** acima do calendário.
 
-![Visão geral do ano no plugin do calendário](images/Jahresueberblick-im-Kalender-Plugin.png)
+![Opções de visualização da vista de calendário](images/display-options-calendar-view.png)
 
-### Resumo mensal
+### Visão geral do ano
 
-Nesta perspectiva, tem em vista todos os dias de um **mês**. Aqui, também, pode chamar a **vista detalhada da fila** clicando numa das datas.
+Aqui pode ver o **ano** num relance. O **ponto** por baixo de uma data mostra-lhe que existe uma entrada para esse dia. Também tem a opção de clicar na data para aceder aos **detalhes da linha**.
 
-![Vista do mês](images/monatsansicht.gif)
+![visão geral do ano na vista de calendário](images/year-overview-calendar-view.png)
 
-### Síntese semanal
+### Visão geral mensal
 
-Este visor mostra os **tempos no** eixo vertical e, da esquerda para a direita, os sete dias de uma **semana**. Aqui, também, pode abrir a **vista detalhada da fila** clicando numa das datas.
+Nesta vista, tem uma visão geral de todos os dias de um **mês**. Também pode chamar os **detalhes da linha** aqui, clicando numa das entradas do calendário.
 
-### Planificador do dia
+### Visão geral semanal
 
-O planeador diário é particularmente adequado se quiser ter vários compromissos no ecrã num só **dia**. Tal como a síntese semanal, mostra-lhe os **tempos no** eixo vertical. Aqui, também, pode abrir a **vista detalhada da fila,** clicando num dos compromissos.
+Esta visualização mostra-lhe as **horas** no eixo vertical e os sete dias de uma **semana** da esquerda para a direita. Também pode abrir os **detalhes da linha** aqui, clicando numa das datas.
 
-### Apresentação da agenda
+### Planeador diário
 
-A **agenda** enumera todas as nomeações no prazo de um **mês** e oferece-lhe a possibilidade de ver certas **informações** sobre as nomeações num relance.
+O planeador diário é particularmente adequado se pretender ter vários compromissos num **dia** no ecrã. Tal como a vista geral semanal, mostra-lhe as **horas** no eixo vertical. Também pode abrir os **detalhes da linha** aqui, clicando num dos compromissos.
 
-Para tal, basta mostrar as **colunas** desejadas **da** tabela nas **definições** do plug-in do calendário - por exemplo, participantes, localização e fotografias de um evento ou tópico e tipo de publicação.
+### Visualização da agenda
 
-![Definições de visualização da agenda](images/agenda-view-einstellungen.png)
+A **Agenda** lista todos os compromissos dentro de um **mês** e oferece-lhe a opção de visualizar certas **informações** sobre os compromissos num relance.
+
+Para o fazer, basta apresentar as **colunas** da tabela pretendidas nas **configurações** da vista de calendário - por exemplo, tópico, estado e tipo de publicação.
+
+![Agenda na vista de calendário](images/calendar-view-agenda.jpg)
+
+## Adicione um novo registo de dados na vista de calendário
+
+Para adicionar **novos registos** na vista de calendário, tem várias opções.
+
+### 1. Através do símbolo de mais
+
+![Adicionar um novo registo na vista de calendário](images/add-new-record-in-calendar-view.jpg)
+
+Clique no **círculo cor de laranja com o símbolo de mais** no canto inferior direito. Abrir-se-á uma nova janela. Crie um novo registo de dados em **detalhes da linha** e introduza os dados pretendidos. As alterações são automaticamente guardadas quando fecha a janela.
+
+{{< warning type="warning" headline="Nota" text="Esta função está disponível para **todas** as opções de visualização no calendário." />}}
+
+### 2. Através de um campo do calendário
+
+![crie uma nova entrada de calendário na vista de calendário](images/add-record-in-monthly-calendar-view.jpg)
+
+Mova o ponteiro do rato sobre um **campo** no calendário e clique no símbolo **Mais** que aparece no canto superior direito. Crie um novo registo de dados nos **detalhes da linha** e introduza os dados pretendidos. As alterações são guardadas automaticamente quando fecha a janela.
+
+{{< warning type="warning" headline="Nota" text="Esta função só existe para as opções de visualização **mês** e **semana**." />}}
+
+### 3. Duplo clique
+
+Se fizer um **clique duplo** numa posição do calendário, os **detalhes da linha** também se abrem. Caso contrário, crie a entrada da mesma forma que com as outras opções.
+
+{{< warning type="warning" headline="Nota" text="O duplo clique só funciona com as opções de visualização **mês**, **semana** e **dia**." />}}
+
+### 4. Puxar marcações para baixo
+
+Para esta função, precisa de **duas colunas de datas** que possam registar **horas**.
+
+1. Crie duas colunas de data para a **hora de início e de fim** e active a opção **precisa ao minuto** em cada caso.
+2. Abra a **vista do calendário** e selecione a **visão geral semanal ou diária**.
+3. Nas **Configurações** (acessíveis através do ícone de roda dentada {{< seatable-icon icon="dtable-icon-set-up" >}}), selecione as duas colunas de datas para o calendário.
+4. No calendário, clique na hora em que o compromisso deve começar, mantenha premido o **botão esquerdo do rato** e arraste a caixa para a hora em que o compromisso deve terminar.
+
+![puxe para baixo os compromissos na vista geral semanal e diária](images/add-record-in-weekly-calendar-view.gif)
+
+{{< warning type="warning" headline="Nota" text="Só pode adicionar marcações na **visão geral semanal ou diária**." />}}
+
+## Mover marcações utilizando a função arrastar e largar
+
+Pode mover facilmente as entradas na vista de calendário **arrastando e largando**. Isto altera automaticamente os valores correspondentes nas colunas de datas da sua tabela. Esta função está disponível para a visão geral **mensal**, **semanal** e **diária**.
+
+![Mover entradas de calendário](images/move-record-in-weekly-calendar-view.gif)

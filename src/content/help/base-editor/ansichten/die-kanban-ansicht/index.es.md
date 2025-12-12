@@ -1,75 +1,85 @@
 ---
-title: 'Guía del plugin Kanban'
-date: 2023-01-08
-lastmod: '2023-08-16'
+title: 'La vista Kanban'
+date: 2025-12-03
+lastmod: '2025-12-03'
 categories:
-    - 'plugins'
-author: 'vge'
-url: '/es/ayuda/guia-plugin-kanban'
-aliases:
-    - '/es/ayuda/anleitung-zum-kanban-plugin'
+    - 'grundlagen-von-ansichten'
+author: 'kgr'
+url: '/es/ayuda/la-vista-kanban'
 seo:
-    title: 'Guía del plugin Kanban en SeaTable – tableros y consejos'
-    description: 'Aprenda a configurar y usar el plugin Kanban en SeaTable para ver procesos y proyectos de su equipo de manera eficaz y visual.'
+    title: 'Cree y utilice la vista Kanban en SeaTable'
+    description: 'Aprenda a configurar la vista Kanban en SeaTable y a utilizarla de forma óptima para la visualización de procesos'
+weight: 14
 ---
 
-Un **tablero Kanban** puede ser útil para representar procesos dinámicos con distintas fases. En este sentido, permite visualizar **flujos de trabajo** y **avances de proyectos**, por ejemplo. Esto resulta especialmente útil para la planificación de proyectos, el desarrollo de productos o la distribución de tareas **en el equipo**.
+Una **vista Kanban** está predestinada a visualizar procesos dinámicos con diferentes fases. En este sentido, permite visualizar **flujos de trabajo** y **progresos de proyectos**, por ejemplo. Es especialmente útil para la [planificación de proyectos]({{< relref "templates/projects/project-plan" >}}), el [desarrollo de software]({{< relref "templates/software-development/bug-tracker" >}}) o la distribución de tareas dentro de un equipo.
 
-Menos mal que SeaTable te ofrece todas estas posibilidades con el **plugin Kanban**. Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+{{< warning type="warning" headline="Requisitos" >}}
 
-## Estructura del tablero Kanban
+Para utilizar la vista Kanban de forma eficaz, necesita al menos una columna en su tabla que permita asignar opciones de forma clara. Los tipos de columna [Selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) o [Colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) son adecuados para ello.
 
-El tablero Kanban consta de **columnas** que representan los distintos pasos o fases de un proceso. En un flujo de trabajo, por ejemplo, pueden ser "idea", "en curso", "realizado" y "planificado".
+{{< /warning >}}
 
-![Complemento Kanban](images/Kanban.png)
+## Estructura de una vista Kanban
 
-Proporcionas a las columnas **tarjetas móviles** que puedes **desplazar** tanto dentro de una columna como de una columna a otra. Por ejemplo, una tarjeta puede representar un paquete de trabajo o una tarea.
+Una vista Kanban consta de **pilares** que representan diferentes pasos o fases de un proceso. En un flujo de trabajo, por ejemplo, pueden ser "idea", "planificado", "en curso" y "completado".
 
-![Turnos Kanban](images/kanban.gif)
+![Vista Kanban](images/kanban-view.jpg)
 
-## Opciones de configuración de un tablero Kanban
+Las columnas están etiquetadas con **tarjetas móviles**, que puede mover tanto dentro de una columna como de una columna a la siguiente. Una tarjeta Kanban puede representar un paquete de trabajo o una tarea, por ejemplo.
 
-A través de los **ajustes**, a los que puede acceder haciendo clic en el **símbolo de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, puede definir lo siguiente para la tabla Kanban:
+![movimientos Kanban](images/move-records-in-kanban-view.gif)
 
-- Tabla
-- Ver
-- Agrupación
-- Título
-- Más columnas
-- Opciones del controlador
+## Cómo crear una vista Kanban
 
-### Mesa y vista
+![Crear una vista Kanban](images/create-kanban-view.jpg)
 
-Si tiene varios **Tablas** y **Vistas** que ha creado en su base, puede seleccionarlos.
+1. Haga clic en el **nombre de la vista actual**.
+2. Haga clic en **Añadir vista o carpeta** y seleccione el **Tipo de vista** deseado.
 
-{{< warning  headline="Múltiples tableros Kanban"  text="También puede crear **varias tablas Kanban** en una base si ha creado **varias tablas** o **varias vistas de** una tabla o si desea agrupar por **diferentes columnas**." />}}
+![Nombrar una vista Kanban](images/name-kanban-view.jpg)
 
-### Agrupación
+3. Asigne un **nombre** a la nueva vista.
+4. Active el control deslizante si la nueva vista no debe ser visible para todos sino **privada**.
+5. Confirme con **Submitir**.
 
-La **agrupación** determina qué columna define las **columnas**. Las [columnas de]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) son especialmente adecuadas para ello.
+![crear una vista Kanban](images/kanban-view-settings.jpg)
 
-![Columnas del plugin Kanban](images/Saeulen.png)  
-En este ejemplo, la columna **Estado** elegido. Como resultado, los pilares se **Opciones** "idea", "en curso", "realizado" y "previsto" definidos.
+6. Especifique qué columna desea utilizar para la **agrupación**, es decir, la definición de las columnas. A continuación, la vista Kanban se genera automáticamente.
+7. En el campo **Título**, introduzca la columna con la que desea etiquetar las tarjetas Kanban.
+8. Opcionalmente, también puede activar los **controladores** para activar determinadas funciones o visualizar más columnas.
 
-### Título
+Si desea cambiar algo más adelante, haga clic en el **icono de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la esquina superior derecha y ajuste la **configuración**.
 
-Las entradas de la columna que introduzca en **Título** determinan el **encabezamiento de las tarjetas de** un tablero Kanban.
+## Ajustes de la vista Kanban
 
-![Kanban Plugin Título](images/titel-kanban.png)
+Puede utilizar las opciones de la rueda dentada para cambiar la presentación visual de la vista Kanban.
 
-### Más columnas
+- Puede utilizar el control deslizante **No mostrar valores vacíos** para eliminar los marcadores de posición en gris de las tarjetas Kanban.
+- El deslizador **Mostrar nombres de columnas** muestra los nombres de las columnas por encima de toda la información activada.
+- El deslizador **Envolver texto** formatea los textos para que sean totalmente legibles en las tarjetas del tablero Kanban.
 
-![Kanban plugin más ajustes](images/weitere-einsellungen-kanban.png)  
-Aquí todos **Columnas** que ha creado en su tabla. Mediante la activación del individuo **Controlador** las entradas de las columnas respectivas se hacen visibles como notas informativas en las tarjetas.
+![configuración de la vista Kanban](images/show-other-fields-in-kanban-view.gif)
 
-{{< warning  headline="Nota"  text="Abra los **detalles de** la fila haciendo clic en una tarjeta para poder ver toda la información de una fila, incluso si no están activados en el tablero Kanban." />}}
+## Mostrar y ocultar otras columnas
 
-### Opciones del controlador
+Todas las **columnas** que haya creado en su tabla aparecen en la sección inferior. Al activar los **controladores** individuales, las entradas de las columnas respectivas se hacen visibles como notas informativas en las fichas.
 
-A través de las opciones deslizantes tiene la posibilidad de cambiar la representación visual del tablero Kanban.
+{{< warning headline="Nota" text="Abra los **detalles de las filas** haciendo clic en una tarjeta para ver toda la información de una fila, aunque los controles deslizantes no estén activados." />}}
 
-- El control deslizante **No mostrar valores vacíos** permite eliminar los marcadores de posición en gris de los mapas.
-- El control deslizante **Mostrar nombres de columnas** muestra los nombres de las columnas encima de toda la información activada.
-- El control deslizante **Ajustar texto** formatea los textos para que sean totalmente legibles en las tarjetas del tablero Kanban.
+## Opciones de vista
 
-![Opciones de reglas del plugin Kanban](images/regleroptionen-kanban.gif)
+Puede utilizar las siguientes opciones en una vista Kanban:
+- [Bloquear vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) u [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) por cualquier valor
+- [Compartir vista con otros]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Añadir un nuevo registro en la vista Kanban
+
+![añadir un nuevo registro en la vista Kanban](images/add-record-in-kanban-view.jpg)
+
+Haga clic en **Añadir fila** en la parte inferior de una columna. Se abrirá una nueva ventana. Cree un nuevo registro de datos en **detalles de la línea** e introduzca la información necesaria. Los cambios se guardan automáticamente al cerrar la ventana.
+
+## Editar registros de datos en la vista Kanban
+
+Haga clic en una **tarjeta Kanban** y se abrirá una ventana con los **detalles de la línea**. Realice los ajustes deseados en el registro de datos. Los cambios se guardan automáticamente al cerrar la ventana.

@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Imprimir una vista en SeaTable – ajustes y ayuda rápida'
     description: 'Imprime cualquier vista en SeaTable desde tu tabla. Elige papel, diseño, escala y opciones avanzadas para personalizar el resultado y facilitar el uso.'
+weight: 10
 ---
 
 Las distintas **vistas** pueden facilitar el trabajo con tablas que contienen mucha información. También puede **imprimir** estas vistas.
@@ -23,7 +24,7 @@ Las distintas **vistas** pueden facilitar el trabajo con tablas que contienen mu
 2. Haga clic en los **tres puntos** de las opciones de visualización del extremo derecho.
 3. Seleccione la opción **Vista de impresión**.
 4. Se abre la ventana **Configuración de impresión**. Realice aquí los ajustes de impresión que desee y haga clic en **Imprimir**.
-5. Ahora se abre la **ventana de impresión estándar de** su máquina, donde puede ver una vista previa de la impresión y realizar otros ajustes,^ como la **impresora** que se va a utilizar, el **color** y el número de **copias**.
+5. Ahora se abre la **ventana de impresión estándar** de su máquina, donde puede ver una vista previa de la impresión y realizar otros ajustes, como la **impresora** que se va a utilizar, el **color** y el número de **copias**.
 6. Vuelva a hacer clic en **Imprimir** en la ventana de impresión para iniciar la impresión.
 
 ## Posibles opciones de impresión

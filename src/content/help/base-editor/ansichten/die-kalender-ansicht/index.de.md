@@ -61,13 +61,13 @@ Insgesamt gibt es 5 Darstellungsoptionen: Sie können sich Termine in einem kale
 
 Zwischen den fünf Darstellungsoptionen der Kalender-Ansicht können Sie bequem wechseln. Klicken Sie hierzu einfach die entsprechende Option auf der **Schaltfläche** oberhalb des Kalenders an.
 
-![Darstellungsoptionen der Kalender-Ansicht](images/darstellungsoptionen-der-kalender-ansicht.png)
+![Darstellungsoptionen der Kalender-Ansicht](images/display-options-calendar-view.png)
 
 ### Jahresüberblick
 
 Hier sehen Sie das **Jahr** auf einen Blick. Der **Punkt** unter einem Datum zeigt Ihnen an, dass an diesem Tag ein Eintrag vorhanden ist. Außerdem haben Sie die Möglichkeit, durch Klicken auf den Termin die **Zeilendetails** aufzurufen.
 
-![Jahresüberblick in der Kalender-Ansicht](images/jahresueberblick-der-kalender-ansicht.png)
+![Jahresüberblick in der Kalender-Ansicht](images/year-overview-calendar-view.png)
 
 ### Monatsüberblick
 

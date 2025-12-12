@@ -11,32 +11,33 @@ aliases:
 seo:
     title: 'Barra de status no SeaTable – contagem e cálculos'
     description: 'Saiba como funciona a barra de status do SeaTable: conte linhas, calcule somas, médias, medianas e estatísticas diretamente na base.'
+weight: 30
 ---
 
-A **linha de estado** está localizada na parte inferior das suas tabelas e cumpre basicamente duas funções diferentes, que são explicadas com mais detalhe neste artigo:
+A **barra de estado** está localizada na parte inferior das suas tabelas e cumpre basicamente duas funções diferentes, que são explicadas com mais detalhe neste artigo:
 
-- **Função 1**: contar as filas numa vista
-- **Função 2**: Indicação de um valor calculado a partir de todas as entradas (por exemplo, soma, média, etc.) no caso de colunas baseadas em números.
+- **Função 1**: Contar as filas numa vista
+- **Função 2**: Indicação de um valor calculado a partir de todas as entradas (por exemplo, soma, média, etc.) no caso de colunas baseadas em números
 
-Graças à linha de estado, tem sempre em vista estes **valores estatísticos básicos** assim que abre uma tabela.
+Graças à barra de estado, tem sempre em vista estes **valores estatísticos básicos** assim que abre uma tabela.
 
 ## Contando as filas numa vista
 
-A linha de estado indica na margem inferior esquerda o número de todas as **filas** que estão na **vista da tabela** actualmente aberta. Se [filtrar numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), a linha de estado conta apenas as restantes entradas da tabela.
+A barra de estado indica na margem inferior esquerda o número de todas as **filas** que estão na **vista da tabela** actualmente aberta. Se [filtrar numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), a barra de estado conta apenas as restantes entradas da tabela.
 
-![A linha de estado indica sempre o número de filas na vista da tabela actualmente aberta](images/status-cell-function-1.jpg)
+![A barra de estado indica sempre o número de filas na vista da tabela actualmente aberta](images/status-cell-function-1.jpg)
 
-Além disso, pode [seleccionar linhas]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) individuais - depois a linha de estado refere-se apenas às entradas seleccionadas.
+Além disso, pode [seleccionar linhas]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) individuais – depois a barra de estado refere-se apenas às entradas seleccionadas.
 
 ## Indicação de um valor calculado a partir de todas as entradas
 
-Para **colunas baseadas em números**, a linha de estado para cada coluna dá um **valor** calculado a partir de todas as entradas.
+Para **colunas baseadas em números**, a barra de estado para cada coluna dá um **valor** calculado a partir de todas as entradas.
 
 ![Valores calculados nas linhas de estado](images/the-status-cell-function-2-1.png)
 
 ## Opções de cálculo
 
-Para colunas baseadas em números, estão disponíveis as seguintes **opções de cálculo** na linha de estado:
+Para colunas baseadas em números, estão disponíveis as seguintes **opções de cálculo** na barra de estado:
 
 - Cálculo da **soma** de todas as entradas da coluna
 - Cálculo do **valor médio** a partir de todas as entradas da coluna
@@ -45,11 +46,11 @@ Para colunas baseadas em números, estão disponíveis as seguintes **opções d
 - Determinação do **valor mínimo** a partir de todas as entradas da coluna
 - Nenhum cálculo
 
-![Opções de cálculo da linha de estado](images/berechnungsoptionen-status-zeile.png)
+![Opções de cálculo da barra de estado](images/berechnungsoptionen-status-zeile.png)
 
 ## Tipos e formatos de colunas compatíveis
 
-Para os seguintes tipos de colunas, a linha de estado reflecte um valor calculado:
+Para os seguintes tipos de colunas, a barra de estado reflecte um valor calculado:
 
 - [Colunas numéricas]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
     - Número
@@ -59,7 +60,7 @@ Para os seguintes tipos de colunas, a linha de estado reflecte um valor calculad
 - [Colunas de avaliação]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
 - Valores numéricos em [colunas de fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
-Para os seguintes tipos de colunas, a linha de estado **não** reflecte um valor calculado, embora (possam) conter números:
+Para os seguintes tipos de colunas, a barra de estado **não** reflecte um valor calculado, embora (possam) conter números:
 
 - [Colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Tempo criado]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) y [Último tempo modificado]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})

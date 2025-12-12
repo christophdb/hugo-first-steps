@@ -1,5 +1,5 @@
 ---
-title: 'Link filter rules with AND and OR'
+title: 'Combine filter rules with AND and OR'
 date: 2022-11-16
 lastmod: '2025-02-25'
 categories:
@@ -11,9 +11,10 @@ aliases:
 seo:
     title: 'Combine Filter Rules with AND & OR in SeaTable: Logic, Groups and Use Cases'
     description: 'Combine SeaTable filter conditions with AND/OR rules or filter groups, narrow views and analyze complex datasets efficiently.'
+weight: 22
 ---
 
-When [filtering entries in a view]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), you can also create **multiple filter rules** to refine the conditions and further narrow down the applicable entries. A distinction is made here between the **AND link** and the **OR link**. You can also use **filter groups** to combine the logical AND/Or links.
+When [filtering records in a view]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), you can also create **multiple filter rules** to refine the conditions and further narrow down the applicable records. A distinction is made here between the **AND link** and the **OR link**. You can also use **filter groups** to combine the logical AND/OR links.
 
 ## Why filter rules make your work easier
 
@@ -21,19 +22,19 @@ In order to work efficiently and concentrate on the essentials, you need to be a
 
 ![Filter rules ](images/Grafik-Filterregeln-scaled.jpg)
 
-## The ampersand
+## The AND link
 
-With the **And link**, all specified conditions must apply to a record for it to be displayed.
+With the **AND link**, all specified conditions must apply to a record for it to be displayed.
 
 This example is demonstrated in the following video: We are in the view of an editorial plan with numerous posts. First, we filtered the [single selection column]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) **"Status"** for all posts that are **not finished**. We have further narrowed down this data set using the second filter to only display posts of the **type "Blog post"**. Now we can see which blog posts are not yet finished.
 
 ![Add filter rule with AND link](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 
-## The Oder link
+## The OR link
 
 In the case of the **OR link**, the conditions are independent of each other. It is enough if the displayed records fulfill one of the conditions - but they can also fulfill several or all conditions.
 
-Here is an example (see screenshot): Although we filter for planned posts ("Planned") with the first filter rule in the **"Status" column**, entries with a different status are also displayed if they fulfill the second condition of the text type as "Blog post". With the second filter rule in the **"Type of post" column**, other text types also go through if the status is "Planned". Planned blog posts that fulfill both conditions also appear in the filtered view.
+Here is an example (see screenshot): Although we filter for planned posts ("Planned") with the first filter rule in the **"Status" column**, records with a different status are also displayed if they fulfill the second condition of the text type as "Blog post". With the second filter rule in the **"Type of post" column**, other text types also go through if the status is "Planned". Planned blog posts that fulfill both conditions also appear in the filtered view.
 
 ![Filter rule with OR link](images/Filterregel-mit-ODER-Verknuepfung.png)
 

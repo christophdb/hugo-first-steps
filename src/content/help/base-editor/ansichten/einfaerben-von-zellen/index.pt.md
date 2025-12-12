@@ -1,5 +1,5 @@
 ---
-title: 'Células de coloração'
+title: 'Colorir células'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -11,13 +11,14 @@ aliases:
 seo:
     title: 'Colorir células no SeaTable com regras e valores personaliz.'
     description: 'Aprenda como colorir células no SeaTable usando regras ou valores próprios e destaque dados para melhor análise. Instruções passo a passo.'
+weight: 28
 ---
 
 Ao contrário do Excel, não pode simplesmente colorir células no SeaTable como quiser, mas deve colori-las ou por **regras** definidas por si ou com base nos **valores** numa **coluna**. Parece complicado? Mas não é.
 
 {{< warning  headline="Nota" >}}
 
-Para além da opção de **células de cor**, existe também a possibilidade de [linhas de]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) marcação por cor. Neste caso, porém, as células não são coloridas, mas as marcas coloridas são colocadas no início das filas.
+Para além da opção de **colorir células**, existe também a possibilidade de [marcação de linhas por cor]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) . Neste caso, porém, as células não são coloridas, mas as marcas coloridas são colocadas no início das filas.
 
 {{< /warning >}}
 

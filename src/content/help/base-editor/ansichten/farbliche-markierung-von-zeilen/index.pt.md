@@ -11,10 +11,10 @@ aliases:
 seo:
     title: 'Marcação colorida de linhas no SeaTable: tutorial'
     description: 'Marque linhas com cores usando seleção simples, regras ou para duplicidades. Melhore o status visual e a análise rápida dos dados em qualquer tabela.'
-
+weight: 27
 ---
 
-Pode utilizar a **ferramenta de formatação de linhas para** definir marcas coloridas no **início das linhas**. A **marcação** a cores **das filas** serve para identificar rapidamente certos registos de dados. Isto não deve ser confundido com [células de coloração]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), o que lhe permite destacar células individuais.
+Pode utilizar a **ferramenta de formatação de linhas para** definir marcas coloridas no **início das linhas**. A **marcação** a cores **das filas** serve para identificar rapidamente certos registos de dados. Isto não deve ser confundido com [colorir células]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), o que lhe permite destacar células individuais.
 
 ## A ferramenta de formato de linha
 
@@ -24,13 +24,13 @@ Nas opções de visualização acima de uma tabela encontrará o seguinte símbo
 
 Depois de clicar na ferramenta line-format, pode escolher entre **três opções** para a marcação a cores:
 
-- Utilizar uma única coluna de selecção
+- Utilizar uma coluna de seleção única 
 - Regras de utilização
 - Destacar duplicados
 
 ![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-2.png)
 
-## Utilizar uma única coluna de selecção
+## Utilizar uma coluna de seleção única 
 
 Para a opção **Utilizar coluna de seleção única**, é necessária uma coluna deste tipo na tabela. Isto permite-lhe marcar cada linha no **início da linha** com a cor da respectiva opção que é introduzida nesta coluna.
 
@@ -38,7 +38,7 @@ Para a opção **Utilizar coluna de seleção única**, é necessária uma colun
 
 {{< warning  headline="Criar uma coluna de seleção única" >}}
 
-Descubra [aqui]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) como criar novas colunas de seleção simples.
+Descubra [aqui]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) como criar novas colunas de seleção única.
 
 {{< /warning >}}
 

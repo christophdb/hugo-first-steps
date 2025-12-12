@@ -1,75 +1,85 @@
 ---
-title: 'Guia de Plug-in Kanban'
-date: 2023-01-08
-lastmod: '2023-08-16'
+title: 'A vista Kanban'
+date: 2025-12-03
+lastmod: '2025-12-03'
 categories:
-    - 'plugins'
-author: 'vge'
-url: '/pt/ajuda/guia-plugin-kanban'
-aliases:
-    - '/pt/ajuda/anleitung-zum-kanban-plugin'
+    - 'grundlagen-von-ansichten'
+author: 'kgr'
+url: '/pt/ajuda/a-vista-kanban'
 seo:
-    title: 'Guia do plugin Kanban no SeaTable – boards e dicas úteis'
-    description: 'Veja como ativar e usar o plugin Kanban no SeaTable para processos ágeis, cenários visuais e gestão eficiente da equipe.'
+    title: 'Criar e utilizar a vista Kanban no SeaTable'
+    description: "Aprenda a configurar a visualização Kanban no SeaTable e a utilizá-la de forma optimizada para a visualização de processos"
+weight: 14
 ---
 
-Um **quadro Kanban** pode ser útil para representar processos dinâmicos com diferentes fases. A este respeito, permite-lhe visualizar **fluxos de trabalho** e **o progresso de um projeto**, por exemplo. Isto é particularmente útil para o planeamento de projectos, desenvolvimento de produtos ou distribuição de tarefas **na equipa**.
+Uma **vista Kanban** está predestinada a visualizar processos dinâmicos com diferentes fases. A este respeito, permite-lhe visualizar **fluxos de trabalho** e **progresso do projeto**, por exemplo. É particularmente útil para [planeamento de projectos]({{< relref "templates/projects/project-plan" >}}), [desenvolvimento de software]({{< relref "templates/software-development/bug-tracker" >}}) ou distribuição de tarefas dentro de uma equipa.
 
-Ainda bem que o SeaTable lhe oferece todas estas possibilidades com o **plugin Kanban**. Pode descobrir [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) como activar o plugin numa base.
+{{< warning type="warning" headline="Requisitos" >}}
 
-## Estrutura do conselho Kanban
+Para poder utilizar a vista Kanban de uma forma significativa, precisa de pelo menos uma coluna na sua tabela que permita que as opções sejam claramente atribuídas. Os tipos de coluna [Seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou [Colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) são adequados para este efeito.
 
-O quadro Kanban é composto por **colunas** que representam os diferentes passos ou fases de um processo. Num fluxo de trabalho, por exemplo, estas colunas podem ser "ideia", "em curso", "concluído" e "planeado".
+{{< /warning >}}
 
-![Plug-in Kanban](images/Kanban.png)
+## Estrutura de uma vista Kanban
 
-Fornece-se as colunas com **cartões móveis** que se podem **mover** tanto dentro de uma coluna como de uma coluna para a outra. Por exemplo, um cartão pode significar um pacote de trabalho ou uma tarefa.
+Uma vista Kanban é constituída por **pilares** que representam diferentes passos ou fases de um processo. Num fluxo de trabalho, por exemplo, estes podem ser "ideia", "planeado", "em curso" e "concluído".
 
-![Turnos de Kanban](images/kanban.gif)
+![Vista Kanban](images/kanban-view.jpg)
 
-## Opções de configuração de um quadro Kanban
+As colunas são rotuladas com **cartões móveis**, que pode mover tanto dentro de uma coluna como de uma coluna para a outra. Um cartão Kanban pode representar um pacote de trabalho ou uma tarefa, por exemplo.
 
-Através das **configurações**, que pode alcançar clicando no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, pode definir o seguinte para o quadro Kanban:
+![movimentos Kanban](images/move-records-in-kanban-view.gif)
 
-- Quadro
-- Ver
-- Agrupamento
-- Título
-- Mais colunas
-- Opções do controlador
+## Como criar uma vista Kanban
 
-### Tabela e vista
+![Criar uma vista Kanban](images/create-kanban-view.jpg)
 
-Se tiver vários **Tabelas** e **Vistas** que criou na sua base, pode seleccionar a partir deles.
+1. Clique no **nome da vista atual**.
+2. Clique em **Adicionar vista ou pasta** e selecione o **tipo de vista** pretendido.
 
-{{< warning  headline="Múltiplos quadros Kanban"  text="Também é possível criar **vários quadros Kanban** numa base se tiver criado **vários quadros** ou **várias vistas de** um quadro ou se pretender agrupar por **colunas diferentes**." />}}
+![dê um nome a uma vista Kanban](images/name-kanban-view.jpg)
 
-### Agrupamento
+3. Atribua um **nome** à nova vista.
+4. Active o cursor se a nova vista não deve ser visível para todos mas **privada**.
+5. Confirme com **Submeter**.
 
-O **agrupamento** determina qual a coluna que define as **colunas**. A [selecção]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) são particularmente adequadas para tal.
+![criar uma vista Kanban](images/kanban-view-settings.jpg)
 
-![Colunas de Plugin Kanban](images/Saeulen.png)  
-Neste exemplo, a coluna **Estado** escolhido. Como resultado, os pilares foram **Opções** "ideia", "em curso", "concluído" e "planeado" definidos.
+6. Especifique a coluna que pretende utilizar para o **agrupamento**, ou seja, a definição das colunas. A visão Kanban é então gerada automaticamente.
+7. No campo **Título**, entrar a coluna com a qual deseja rotular os cartões Kanban.
+8. Opcionalmente, também pode ativar os **controladores** para ativar determinadas funções ou exibir mais colunas.
 
-### Título
+Se pretender alterar algo mais tarde, clique no ícone **roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} no canto superior direito e ajuste as **configurações**.
 
-As entradas na coluna que se introduz sob **Título** determinam o **título das cartas** de um tabuleiro Kanban.
+## Definições da vista Kanban
 
-![Título do Plugin Kanban](images/titel-kanban.png)
+Pode utilizar as opções do cursor para alterar a apresentação visual da vista Kanban.
 
-### Mais colunas
+- Pode utilizar o seletor **Não mostrar valores vazios** para remover os espaços reservados a cinzento nos cartões Kanban.
+- O seletor **Mostrar nomes das colunas** mostra os nomes das colunas acima de todas as informações activadas.
+- O seletor **Texto embrulhado** formata os textos de modo a que fiquem totalmente legíveis nos cartões de quadro Kanban.
 
-![Kanban plugin mais configurações](images/weitere-einsellungen-kanban.png)  
-Aqui todos **Colunas** que criou na sua mesa. Ao activar o indivíduo **Controlador** as entradas nas respectivas colunas tornam-se visíveis como notas informativas nos cartões.
+![definições da vista Kanban](images/show-other-fields-in-kanban-view.gif)
 
-{{< warning  headline="Nota"  text="Abra os **detalhes da fila** clicando num cartão para poder ver todas as informações de uma fila, mesmo que não estejam activadas no quadro Kanban." />}}
+## Mostrar e ocultar outras colunas
 
-### Opções do controlador
+Todas as **colunas** que criou na sua tabela estão listadas na secção inferior. Ao ativar os **controladores** individuais, as entradas nas respectivas colunas tornam-se visíveis como notas informativas nos cartões.
 
-Através das opções do seletor, tem a possibilidade de alterar a representação visual do quadro Kanban.
+{{< warning  headline="Sugestão"  text="Abra os **detalhes da linha** clicando num cartão para ver toda a informação de uma linha, mesmo que os cursores não estejam activados." />}}
 
-- O selector **Não mostrar valores vazios** permite retirar os marcadores de posição cinzentos nos mapas.
-- A barra deslizante **Mostrar Nomes de Colunas** mostra os nomes das colunas acima de toda a informação activada.
-- O deslizador **Wrap Text** formata os textos para que sejam totalmente legíveis nos cartões do quadro Kanban.
+## Opções de vista
 
-![Opções de Regra de Plugin Kanban](images/regleroptionen-kanban.gif)
+Pode utilizar as seguintes opções numa vista Kanban:
+- [Bloquear vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) por qualquer valor
+- [Partilhar a vista com outros]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Adicionar um novo registo na vista Kanban
+
+![Adicionar um novo registo na visualização Kanban](images/add-record-in-kanban-view.jpg)
+
+Clique em **Adicionar linha** na parte inferior de uma coluna. Abre-se uma nova janela. Crie um novo registo de dados em **Detalhes da linha** e introduza as informações necessárias. As alterações são guardadas automaticamente quando fecha a janela.
+
+## Editar registos de dados na vista Kanban
+
+Clique num **cartão Kanban** e abre-se uma janela com os **Detalhes da linha**. Faça os ajustes desejados no registo de dados. As alterações são automaticamente guardadas quando fecha a janela.

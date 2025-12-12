@@ -45,9 +45,9 @@ Die Säulen versehen Sie mit **beweglichen Karten**, die Sie sowohl innerhalb ei
 
 ![Eine Kanban-Ansicht erstellen](images/kanban-view-settings.jpg)
 
-1. Legen Sie fest, welche Spalte Sie für die **Gruppierung**, also die Definition der Säulen, verwenden wollen. Die Kanban-Ansicht generiert sich im Anschluss automatisch.
-2. Geben Sie im **Titelfeld** die Spalte an, mit der Sie die Kanban-Karten beschriften möchten.
-3. Optional können Sie noch **Regler** aktivieren, um bestimmte Funktionen einzuschalten oder mehr Spalten anzeigen zu lassen.
+6. Legen Sie fest, welche Spalte Sie für die **Gruppierung**, also die Definition der Säulen, verwenden wollen. Die Kanban-Ansicht generiert sich im Anschluss automatisch.
+7. Geben Sie im **Titelfeld** die Spalte an, mit der Sie die Kanban-Karten beschriften möchten.
+8. Optional können Sie noch **Regler** aktivieren, um bestimmte Funktionen einzuschalten oder mehr Spalten anzeigen zu lassen.
 
 Falls Sie nachträglich noch etwas ändern möchten, klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} in der oberen rechten Ecke und passen die **Einstellungen** an.
 

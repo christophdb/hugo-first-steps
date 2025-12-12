@@ -1,75 +1,85 @@
 ---
-title: 'Instructions pour le plugin Kanban'
-date: 2023-01-08
-lastmod: '2023-08-16'
-categories:
-    - 'plugins'
-author: 'vge'
-url: '/fr/aide/tutoriel-plugin-kanban'
-aliases:
-    - '/fr/aide/anleitung-zum-kanban-plugin'
-seo:
-    title: 'Tutoriel du plugin Kanban pour SeaTable – gérer vos boards'
-    description: 'Découvrez comment créer et organiser des tableaux Kanban dans SeaTable pour optimiser la planification et la gestion d’équipe.'
+title : 'La vue Kanban'
+date : 2025-12-03
+lastmod : '2025-12-03'
+categories :
+    - 'grundlagen-von-ansichten'
+author : 'kgr'
+url : '/fr/aide/la-vue-kanban'
+seo :
+    title : 'Créer et utiliser la vue Kanban dans SeaTable'
+    description : "Apprenez à configurer la vue Kanban dans SeaTable et à l'utiliser au mieux pour visualiser les processus."
+weight : 14
 ---
 
-Un **tableau Kanban** peut être utile pour représenter des processus dynamiques avec différentes phases. Dans cette optique, il vous permet par exemple de visualiser les **flux de travail** et l **'avancement du projet**. Cela est particulièrement utile pour la planification de projets, le développement de produits ou la répartition des tâches **au sein de l'équipe**.
+Une **vue Kanban** est prédestinée à la représentation de processus dynamiques avec différentes phases. Dans ce sens, elle vous permet par exemple de visualiser les **flux de travail** et les **avancées des projets**. Elle est particulièrement utile pour la [planification de projet]({{< relref "templates/projects/project-plan" >}}), le [développement de logiciel]({{< relref "templates/software-development/bug-tracker" >}}) ou la répartition des tâches au sein d'une équipe.
 
-Heureusement, SeaTable vous offre toutes ces possibilités avec le **plug-in Kanban**. Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+{{< warning type="warning" headline="Conditions préalables" >}}
 
-## Structure du tableau Kanban
+Pour pouvoir utiliser la vue Kanban de manière judicieuse, vous avez besoin d'au moins une colonne dans votre tableau qui permette une affectation claire des options. Par exemple, les types de colonnes [Sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) conviennent pour cela.
 
-Le tableau Kanban se compose de **colonnes** qui représentent différentes étapes ou phases dans un processus. Dans un flux de travail, il peut s'agir par exemple de "idée", "en cours", "terminé" et "planifié".
+{{< /warning >}}
 
-![Plugin Kanban](images/Kanban.png)
+## Construction d'une vue Kanban
 
-Les colonnes sont pourvues de **cartes mobiles** que vous pouvez **déplacer** aussi bien à l'intérieur d'une colonne que d'une colonne à l'autre. Une carte peut par exemple représenter un lot de travaux ou une tâche.
+Une vue Kanban est composée de **colonnes** qui représentent différentes étapes ou phases dans un processus. Dans le cas d'un workflow, il peut s'agir par exemple de "idée", "planifié", "en cours" et "terminé".
 
-![Déplacements Kanban](images/kanban.gif)
+![Vue Kanban](images/kanban-view.jpg)
 
-## Possibilités de réglage d'un tableau Kanban
+Vous munissez les colonnes de **cartes mobiles** que vous pouvez **déplacer** aussi bien à l'intérieur d'une colonne que d'une colonne à l'autre. Une carte Kanban peut par exemple représenter un lot de travaux ou une tâche.
 
-Les **paramètres**, auxquels vous accédez en cliquant sur l'**icône en forme de roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}, vous permettent de définir les éléments suivants pour le tableau Kanban :
+![Déplacements Kanban](images/move-records-in-kanban-view.gif)
 
-- Tableau
-- Voir
-- Regroupement
-- Titre
-- Plus de colonnes
-- Options du régulateur
+## Pour créer une vue Kanban
 
-### Tableau et vue
+![Créer une vue Kanban](images/create-kanban-view.jpg)
 
-Si vous avez plusieurs **Tableaux** et **Vues** dans votre base, vous pouvez choisir parmi eux.
+1. Cliquez sur le **nom de la vue actuelle**.
+2. Cliquez sur **Ajouter une vue ou un dossier** et sélectionnez le **type de vue** souhaité.
 
-{{< warning  headline="Plusieurs tableaux Kanban"  text="Vous pouvez également créer **plusieurs tableaux KANBAN** dans une base si vous avez créé **plusieurs tableaux** ou **plusieurs vues** d **'** un tableau ou si vous souhaitez les regrouper selon **différentes colonnes**." />}}
+![nommer une vue Kanban](images/name-kanban-view.jpg)
 
-### Regroupement
+3. Donnez un **nom** à la nouvelle vue.
+4. Activez le curseur si vous souhaitez que la nouvelle vue ne soit pas visible par tous, mais **privée**.
+5. Confirmez en cliquant sur **Envoyer**.
 
-Le **regroupement** détermine quelle colonne définit les **colonnes**. [Les]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) sont particulièrement adaptées à cet effet.
+![créer une vue Kanban](images/kanban-view-settings.jpg)
 
-![Colonnes du plug-in Kanban](images/Saeulen.png)  
-Dans cet exemple, la colonne **Statut** ont été choisis. En tant que piliers, les **Options** "idée", "en cours", "réalisé" et "planifié".
+6. Définissez la colonne que vous souhaitez utiliser pour le **regroupement**, c'est-à-dire la définition des colonnes. La vue Kanban est ensuite générée automatiquement.
+7. Dans le champ **Titre**, indiquez la colonne avec laquelle vous souhaitez étiqueter les cartes Kanban.
+8. Vous pouvez également activer des **régulateurs** pour activer certaines fonctions ou afficher plus de colonnes.
 
-### Titre
+Si vous souhaitez modifier quelque chose ultérieurement, cliquez sur **l'icône de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} dans le coin supérieur droit et ajustez les **paramètres**.
 
-Les entrées de la colonne que vous indiquez sous **Titre** déterminent l'**en-tête des cartes** d'un tableau Kanban.
+## Paramètres de la vue Kanban
 
-![Titre du plugin Kanban](images/titel-kanban.png)
+Les options du curseur vous permettent de modifier la représentation visuelle de la vue Kanban.
 
-### Plus de colonnes
-
-![Plugin Kanban autres réglagesne](images/weitere-einsellungen-kanban.png)  
-Ici, tous les **Colonnes** que vous avez créés dans votre tableau. En activant les différents **Régulateur** les entrées dans les colonnes respectives deviennent visibles sur les cartes sous forme de notes informatives.
-
-{{< warning  headline="Remarque"  text="En cliquant sur une carte, ouvrez les **détails de la ligne** pour pouvoir voir toutes les informations d'une ligne, même si elles ne sont pas activées dans le tableau Kanban." />}}
-
-### Options du régulateur
-
-Les options de contrôle vous permettent de modifier la représentation visuelle du tableau KANBAN.
-
-- Le curseur **Ne pas afficher les valeurs vides** permet de supprimer les espaces réservés grisés sur les cartes.
+- Le curseur **Ne pas afficher les valeurs vides** vous permet de supprimer les espaces réservés grisés sur les cartes Kanban.
 - Le curseur **Afficher les noms des colonnes** affiche les noms des colonnes au-dessus de toutes les informations activées.
-- Le curseur **Wrap Text** formate les textes de manière à ce qu'ils soient entièrement lisibles sur les cartes du tableau Kanban.
+- Le curseur **Rompre le texte** formate les textes de manière à ce qu'ils soient entièrement lisibles sur les cartes du tableau Kanban.
 
-![Options de règles du plug-in Kanban](images/regleroptionen-kanban.gif)
+![Paramètres de la vue Kanban](images/show-other-fields-in-kanban-view.gif)
+
+## Afficher ou masquer d'autres colonnes
+
+Dans la partie inférieure, toutes les **colonnes** que vous avez créées dans votre tableau sont listées. En activant les différents **régulateurs**, les entrées de chaque colonne seront visibles sur les cartes sous forme de notes informatives.
+
+{{< warning headline="Note" text="En cliquant sur une carte, ouvrez les **Détails de la ligne** pour voir toutes les informations d'une ligne, même si les curseurs ne sont pas activés." />}}
+
+## Options de vue
+
+Vous pouvez utiliser les options suivantes dans une vue Kanban :
+- [Verrouiller la vue]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) 
+- [Partager la vue]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Ajouter un nouvel enregistrement dans la vue Kanban
+
+![Ajouter un nouvel enregistrement dans la vue Kanban](images/add-record-in-kanban-view.jpg)
+
+En bas d'une colonne, cliquez sur **Ajouter une ligne**. Une nouvelle fenêtre s'ouvre. Créez un nouvel enregistrement dans les **Détails de la ligne** et ajoutez les informations souhaitées. Les modifications sont automatiquement enregistrées lorsque vous fermez la fenêtre.
+
+## Modifier les enregistrements dans la vue Kanban
+
+Cliquez sur une **carte Kanban** et une fenêtre avec les **Détails de la ligne** s'ouvre. Apportez les modifications souhaitées à l'enregistrement. Les modifications sont automatiquement enregistrées lorsque vous fermez la fenêtre.

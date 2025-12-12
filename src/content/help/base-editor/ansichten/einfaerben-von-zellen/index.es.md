@@ -1,5 +1,5 @@
 ---
-title: 'Celdas para colorear'
+title: 'Colorear celdas'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colorear celdas en SeaTable según reglas y valores propios'
     description: 'Descubre cómo colorear celdas en SeaTable usando reglas o valores personalizados y resalta datos para analizar mejor. Guía detallada por pasos.'
+weight: 28
 ---
 
 A diferencia de Excel, en SeaTable no puede simplemente colorear las celdas a su gusto, sino que debe colorearlas según las **reglas** que establezca o en función de los **valores** de una **columna**. ¿Suena complicado? Pero no lo es.
@@ -64,7 +65,7 @@ También puede definir **varias condiciones** por regla, que pueden referirse a 
 1. Haga clic en el **símbolo del triángulo** en la cabecera de la tabla de una columna.
 2. Seleccione la opción **Formatear celdas de la** columna.
 3. Ir a **Utilizar valores**.
-4. Haz clic en la **selección de** colores para elegir entre más colores
+4. Haga clic en la **selección de** colores para elegir entre más colores
 5. Decida a partir de qué **valor** y hasta qué valor desea formatear las celdas.
 6. Haga clic en **Enviar**.
 

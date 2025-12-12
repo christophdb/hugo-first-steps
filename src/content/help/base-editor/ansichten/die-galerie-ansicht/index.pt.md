@@ -1,43 +1,67 @@
 ---
-title: 'Guia de Plugin da Galeria'
-date: 2023-01-08
-lastmod: '2023-06-29'
+title: 'A vista de galeria'
+date: 2025-12-03
+lastmod: '2025-12-03'
 categories:
-    - 'plugins'
-author: 'vge'
-url: '/pt/ajuda/guia-plugin-galeria-seatable'
-aliases:
-    - '/pt/ajuda/anleitung-zum-galerie-plugin'
+    - 'grundlagen-von-ansichten'
+author: 'kgr'
+url: '/pt/ajuda/vista-de-galeria'
 seo:
-    title: 'Plugin galeria: exiba imagens facilmente no SeaTable'
-    description: 'Veja fotos em álbuns, use prévias grandes e mostre detalhes relevantes da tabela no SeaTable através do plugin de galeria.'
-
+    title: 'Vista de galeria: apresente imagens de forma clara no SeaTable'
+    description: "Com a vista de galeria, pode obter uma visão geral de todos os registos de dados que contêm imagens"
+weight: 12
 ---
 
-O **plugin da galeria** é particularmente adequado para apresentar registos ilustrados, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
+A **vista de galeria** utiliza imagens de pré-visualização de uma [coluna de imagem]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) para organizar os registos de dados claramente em mosaicos. Várias imagens são resumidas num **álbum**. Esta apresentação é adequada para uma variedade de casos de utilização, por exemplo [perfis de empregados]({{< relref "templates/human-resources/employee-directory" >}}), [bibliotecas de produtos]({{< relref "templates/product-design/product-library" >}}), [listas de inventário]({{< relref "templates/operations/inventory-list" >}}) ou [gestão de colecções]({{< relref "templates/operations/art-gallery-management" >}}).
 
-Enquanto as imagens na **vista de tabela** são exibidas como miniaturas e só podem ser ampliadas individualmente clicando nelas, o plugin da galeria permite obter uma visão geral animada de todos os conjuntos de dados, graças às **imagens de pré-visualização** maiores. O plug-in da galeria combina todas as imagens numa fila de um **álbum**.
+![A vista da galeria](images/gallery-view.jpg)
 
-![Galeria plugin](images/Galerie-Plugin.png)
+## Como criar uma vista de galeria
 
-## Para instalar o plug-in da galeria
+1. Clique no **nome da vista atual**.
+2. Clique em **Adicionar vista ou pasta** e selecione o **tipo de vista** pretendido.
 
-Para poder utilizar o **plugin da galeria**, deve primeiro [activá-lo]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) na sua Base.
+![criar uma vista de galeria](images/create-gallery-view.jpg)
 
-Em seguida, nas definições, determine para que **vista de tabela** pretende criar uma galeria e de que [coluna de imagens]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) devem provir as imagens. Para **Título**, introduza a coluna cujas entradas pretende utilizar como título do álbum.
+3. Atribua um **nome** à nova vista.
+4. Active o cursor se a nova vista não deve ser visível para todos mas **privada**.
+5. Confirme com **Submeter**.
+6. Em seguida, especifique nas definições de que **coluna de imagens** devem vir as imagens. A nova vista é então gerada automaticamente.
+7. No campo **Título**, introduza a coluna cujas entradas pretende utilizar como título do álbum.
 
-## Mostrar e esconder informação
+![Criar uma vista de galeria](images/create-gallery-view.gif)
 
-Nas **definições da galeria**, a que se chega através do **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, é possível exibir mais ou menos informação mostrando ou escondendo colunas. Activar os **cursores** das respectivas colunas (por exemplo, Documentos, Estado e Data) para ter mais informações da tabela exposta na galeria.
+## Opções de visualização
 
-![](images/galerie-plugin.png)
+Pode utilizar as seguintes opções numa vista de galeria:
+- [Bloquear vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) por qualquer valor
+- [Partilhar a vista com outros]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 
-## Várias imagens numa só linha
+## Mostrar e ocultar informações
 
-O **número de imagens** por álbum ou linha é exibido na galeria com um **número realçado a cinzento**. Logicamente, o número só é exibido se houver mais do que uma imagem num álbum.
+Nas **Configurações da galeria**, às quais pode aceder através do **ícone da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, pode apresentar mais ou menos informações, mostrando ou ocultando colunas. Active os **deslizadores** das respectivas colunas para apresentar mais informações dos registos de dados na galeria.
 
-![Galeria plugin número cinzento](images/graue-nummer.png)
+![Mostrar informações de outras colunas na galeria](images/other-fields-shown-in-gallery-view.jpg)
 
-Ao clicar na imagem de pré-visualização abre o álbum em **modo de ecrã inteiro**, onde pode ampliar e reduzir as imagens usando as **lupas** e alternar entre as imagens usando as **setas**.
+## Várias imagens num álbum
 
-![Modo ecrã inteiro no plugin da galeria](images/Vollbildmodus-im-Galerie-Plugin.png)
+O **número de imagens** por álbum é apresentado na galeria com um **número cinzento**. Logicamente, o número só é apresentado se houver mais do que uma imagem num álbum.
+
+![Número de imagens número cinzento](images/image-number.jpg)
+
+Clique na imagem de pré-visualização para abrir o álbum em **modo de ecrã completo**, no qual pode ampliar e reduzir as imagens utilizando as **lentes de aumento** e alternar entre as imagens utilizando as **setas**.
+
+![Modo de ecrã inteiro na vista da galeria](images/gallery-image-preview.gif)
+
+## Adicionar um novo registo na vista de galeria
+
+![Adicione um novo registo na vista da galeria](images/add-new-record-in-gallery-view.jpg)
+
+Clique no **círculo roxo com o símbolo de mais** no canto inferior direito. Abrir-se-á uma nova janela. Crie um novo registo de dados nos **detalhes da linha** e introduza as informações e imagens pretendidas. As alterações são automaticamente guardadas quando fecha a janela.
+
+## Editar registos de dados na vista de galeria
+
+![Editar registos na vista de galeria](images/modify-records-in-gallery-view.jpg)
+
+Clique no **título** de um álbum e abrir-se-á uma janela com os **detalhes da linha**. Faça os ajustes desejados no registo. As alterações são guardadas automaticamente quando fecha a janela.

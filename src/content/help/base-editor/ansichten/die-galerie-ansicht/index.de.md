@@ -18,7 +18,7 @@ Die **Galerie-Ansicht** nutzt Vorschaubilder aus einer [Bild-Spalte]({{< relref 
 
 ## So erstellen Sie eine Galerie-Ansicht
 
-1. Klicken Sie auf den Namen der **aktuellen Ansicht**.
+1. Klicken Sie auf den **Namen der aktuellen Ansicht**.
 2. Klicken Sie auf **Ansicht oder Ordner hinzufügen** und wählen Sie den gewünschten **Ansichtstyp** aus.
 
 ![Eine Galerie-Ansicht anlegen](images/create-gallery-view.jpg)
@@ -52,7 +52,7 @@ Die **Anzahl der Bilder** pro Album wird in der Galerie mit einer **grau hinterl
 
 Durch einen Klick auf das Vorschaubild öffnen Sie das Album im **Vollbildmodus**, in dem Sie die Bilder mithilfe der **Lupen** vergrößern und verkleinern sowie mithilfe der **Pfeile** zwischen den Bildern wechseln können.
 
-![Vollbildmodus im Galerie-Plugin](images/gallery-image-preview.gif)
+![Vollbildmodus in der Galerie-Ansicht](images/gallery-image-preview.gif)
 
 ## Einen neuen Datensatz in der Galerie-Ansicht hinzufügen
 
