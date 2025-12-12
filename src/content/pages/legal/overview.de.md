@@ -29,7 +29,7 @@ sections:
           - icon: globe
             headline: Unterauftragnehmer
             text: Die Beschreibung der Unterauftragnehmer listet Dritte auf, die im Auftrag personenbezogene Daten verarbeiten, und klärt deren Zuverlässigkeit sowie die vertraglichen Sicherheitsgarantien.
-            link: pages/legal/subcontractors
+            link: pages/legal/subprocessors
           - icon: list-check
             headline: Technische und organisatorische Maßnahmen
             text: Die technischen und organisatorischen Maßnahmen beschreiben die umfassenden Schutzvorkehrungen gegen unbefugten Zugriff, Verlust oder Manipulation personenbezogener Daten.

@@ -5,11 +5,10 @@ seo:
     title: 'Ihre Daten sicher in der SeaTable Cloud'
     description: 'Erfahren Sie alles zu Datenschutz, Sicherheit, Infrastruktur und Verfügbarkeit Ihrer Daten in der SeaTable Cloud.'
 date: 2024-10-28
+version: '1.0'
 type: 'legal'
 url: '/de/sicherheit'
 ---
-
-Stand: 28. Oktober 2024
 
 Sie vertrauen darauf, dass Ihre Benutzerdaten in SeaTable Cloud sicher, privat und jederzeit verfügbar gespeichert werden. Zurecht! Wir nehmen diese Verantwortung sehr ernst.
 

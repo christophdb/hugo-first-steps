@@ -29,7 +29,7 @@ sections:
           - icon: globe
             headline: Subcontractors
             text: The description of subcontractors lists third parties that process personal data on behalf and clarifies their reliability as well as contractual security guarantees.
-            link: pages/legal/subcontractors
+            link: pages/legal/subprocessors
           - icon: list-check
             headline: Technical and Organizational Measures
             text: The technical and organizational measures describe comprehensive protection measures against unauthorized access, loss, or manipulation of personal data.

@@ -4,11 +4,10 @@ description: ''
 seo:
     title: 'AVV'
     description: '...'
-date: 2025-12-04
+date: 2022-07-01
 type: 'legal'
 url: '/de/auftrag-zur-auftragsverarbeitung'
 version: '1.0'
-published_on: 2025-12-04
 ---
 
 Dies sind der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
@@ -93,13 +92,13 @@ Gegenstand der Erhebung, Verarbeitung und/oder Nutzung der Daten des Auftraggebe
 
 Der Kreis der durch den Umgang mit den Daten gem. Ziff. 1.2 Satz 2 Betroffenen umfasst:
 
-- \_\_ Kunden
-- \_\_ Interessenten
-- \_\_ Abonnenten
-- \_\_ Mitarbeiter
-- \_\_ Lieferanten
-- \_\_ Ansprechpartner
-- \_\_ Sonstige Betroffene:
+- [ ] Kunden
+- [ ] Interessenten
+- [ ] Abonnenten
+- [ ] Mitarbeiter
+- [ ] Lieferanten
+- [ ] Ansprechpartner
+- [ ] Sonstige Betroffene:
 
 ## 5. Allgemeine Pflichten des Auftragnehmers gemäß Art. 28 – 33 DSGVO
 

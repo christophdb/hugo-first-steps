@@ -4,12 +4,11 @@ description: ''
 seo:
     title: 'Unterauftragnehmer'
     description: '...'
-date: 2025-12-04
+date: 2022-07-01
+version: '1.0'
 type: 'legal'
 url: '/de/unterauftragnehmer'
 ---
-
-_Stand: 04. Dezember 2025_
 
 Dies sind die Unterauftragnehmer der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
 

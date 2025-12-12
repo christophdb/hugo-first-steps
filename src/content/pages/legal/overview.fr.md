@@ -29,7 +29,7 @@ sections:
           - icon: globe
             headline: Sous-traitants
             text: La description des sous-traitants liste les tiers qui traitent des données personnelles pour le compte et clarifie leur fiabilité ainsi que les garanties de sécurité contractuelles.
-            link: pages/legal/subcontractors
+            link: pages/legal/subprocessors
           - icon: list-check
             headline: Mesures techniques et organisationnelles
             text: Les mesures techniques et organisationnelles décrivent des dispositifs de protection complets contre l’accès non autorisé, la perte ou la manipulation des données personnelles.

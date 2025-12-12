@@ -29,7 +29,7 @@ sections:
           - icon: globe
             headline: Subcontratistas
             text: La descripción de los subcontratistas enumera a terceros que procesan datos personales por encargo y aclara su fiabilidad así como las garantías de seguridad contractuales.
-            link: pages/legal/subcontractors
+            link: pages/legal/subprocessors
           - icon: list-check
             headline: Medidas técnicas y organizativas
             text: Las medidas técnicas y organizativas describen protecciones completas contra acceso no autorizado, pérdida o manipulación de datos personales.

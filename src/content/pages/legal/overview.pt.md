@@ -29,7 +29,7 @@ sections:
           - icon: globe
             headline: Subcontratados
             text: A descrição dos subcontratados lista terceiros que processam dados pessoais por encomenda e esclarece sua confiabilidade, bem como as garantias de segurança contratuais.
-            link: pages/legal/subcontractors
+            link: pages/legal/subprocessors
           - icon: list-check
             headline: Medidas Técnicas e Organizacionais
             text: As medidas técnicas e organizacionais descrevem proteções abrangentes contra acesso não autorizado, perda ou manipulação de dados pessoais.

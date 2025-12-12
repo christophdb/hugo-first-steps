@@ -4,12 +4,11 @@ description: ''
 seo:
     title: 'TOMs'
     description: '...'
-date: 2025-12-04
+date: 2022-07-01
+version: '1.0'
 type: 'legal'
 url: '/de/technisch-organisatorische-massnahmen'
 ---
-
-_Stand: 04. Dezember 2025_
 
 Dies sind die Technisch & organisatorische Maßnahmen gemäß Art. 32 DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
 
