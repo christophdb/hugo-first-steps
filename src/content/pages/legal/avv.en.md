@@ -18,7 +18,7 @@ The **[German original]({{< relref path="pages/legal/avv" lang="de" >}})** is 
 
 {{< /alert >}}
 
-These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
 
 > Here you can create your own agreement (German Language only).
 >

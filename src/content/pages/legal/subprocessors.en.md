@@ -4,8 +4,8 @@ description: ''
 seo:
     title: 'Subprocessors'
     description: '...'
-date: 2022-07-01
-version: '1.0'
+date: 2025-10-16
+version: '1.1.5'
 type: 'legal'
 url: '/subprocessors'
 ---
@@ -18,40 +18,40 @@ The **[German original]({{< relref path="pages/legal/subprocessors" lang="de" >
 
 {{< /alert >}}
 
-These are the subprocessors of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+These are the subprocessors of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
 
 ## Preamble
 
-With this documentation, the processor fulfills its obligations under section 7.3 of the Data Processing Agreement to provide the controller with a list of engaged subprocessors.
+With this documentation, SeaTable GmbH fulfills its obligations under section 7.2 of the Data Processing Agreement to provide a list of engaged subprocessors.
 
 ### 1. Subprocessing Relationships – Hosting
 
-| Subprocessor         | Location     | Role                                                                                         |
-| -------------------- | ------------ | -------------------------------------------------------------------------------------------- |
-| Akenes SA (Exoscale) | Lausanne, CH | Hosting of the website, test, and production systems including database, storage, and backup |
-| Host Europe GmbH     | Cologne, DE  | Hosting of emails, domain registrar                                                          |
+| Subprocessor         | Address                                             | Role                                                                                        |
+| -------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Akenes SA (Exoscale) | Boulevard de Grancy 19A, 1060 Lausanne, Switzerland | Hosting of test and production systems including database, storage, backup, and web hosting |
+| Hetzner Online GmbH  | Industriestraße 25, 91710 Gunzenhausen, Germany     | Hosting of development, test, and production systems, backup, and email                     |
 
 ### 2. Subprocessing Relationships – Payment Processing
 
-| Subprocessor                | Location           | Role                                   |
-| --------------------------- | ------------------ | -------------------------------------- |
-| Chargebee Inc.              | San Francisco, USA | Customer management and billing system |
-| Stripe Payments Europe Ltd. | Dublin, IE         | Payment processing                     |
-| Steuerkanzlei Huba          | Mainz, DE          | Accounting                             |
-| Dornbach GmbH               | Koblenz, DE        | Auditing and tax consulting            |
+| Subprocessor                | Address                                                         | Role                                               |
+| --------------------------- | --------------------------------------------------------------- | -------------------------------------------------- |
+| Stripe Payments Europe Ltd. | The One Building, 1 Grand Canal Street Lower, Dublin 2, Ireland | Customer management, invoicing, payment processing |
 
 ### 3. Subprocessing Relationships – Support
 
-| Subprocessor            | Location      | Role                                                                    |
-| ----------------------- | ------------- | ----------------------------------------------------------------------- |
-| TeamViewer Germany GmbH | Göppingen, DE | Remote maintenance software and service                                 |
-| Speicherbox GmbH        | Zofingen, CH  | Server support and maintenance                                          |
-| Seafile Ltd.            | Beijing, CN   | Server support (Seafile Ltd. is the developer of the SeaTable software) |
+| Subprocessor            | Address                                  | Role                                    |
+| ----------------------- | ---------------------------------------- | --------------------------------------- |
+| TeamViewer Germany GmbH | Jahnstraße 30, 73037 Göppingen, Germany  | Remote maintenance software and service |
+| Speicherbox GmbH        | Kirchplatz 8, 4800 Zofingen, Switzerland | Server support and maintenance          |
 
 ### 4. Subprocessing Relationships – Marketing
 
-| Subprocessor    | Location   | Role                   |
-| --------------- | ---------- | ---------------------- |
-| Sendinblue GmbH | Berlin, DE | Email marketing system |
+| Subprocessor    | Address                                      | Role                   |
+| --------------- | -------------------------------------------- | ---------------------- |
+| Sendinblue GmbH | Köpenicker Straße 126, 10179 Berlin, Germany | Email marketing system |
 
 Further information about the subprocessors can be found in the privacy policy, which is available at any time on the SeaTable website under [Privacy Policy]({{< relref "pages/legal/data-privacy" >}}).
+
+## Previous Versions
+
+- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/subprocessors-v1-1-2" >}})

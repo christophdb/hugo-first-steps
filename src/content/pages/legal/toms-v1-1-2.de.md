@@ -17,7 +17,7 @@ Diese Version ist nicht mehr aktuell. Hier geht es zur **[aktuellen Version]({{<
 
 {{< /alert >}}
 
-Dies sind die Technisch & organisatorische Maßnahmen gemäß Art. 32 DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+Dies sind die Technisch & organisatorische Maßnahmen gemäß Art. 32 DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
 
 ## Präambel
 

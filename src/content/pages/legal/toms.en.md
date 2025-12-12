@@ -18,7 +18,7 @@ The **[German original]({{< relref path="pages/legal/toms" lang="de" >}})** is
 
 {{< /alert >}}
 
-These are the Technical and Organizational Measures pursuant to Art. 32 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+These are the Technical and Organizational Measures pursuant to Art. 32 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
 
 ## Preamble
 

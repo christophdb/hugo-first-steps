@@ -10,7 +10,7 @@ type: 'legal'
 url: '/de/auftrag-zur-auftragsverarbeitung'
 ---
 
-Dies ist der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+Dies ist der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
 
 > Hier können Sie sich Ihren eigenen Vertag erstellen.
 >
