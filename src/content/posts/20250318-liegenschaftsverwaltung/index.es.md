@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Administración pública'
 color: '#c4e8d8'
-url: '/es/gestion-inmobiliaria'
+url: '/es/gestion-de-activos-de-suelo'
 aliases:
     - '/es/liegenschaftsverwaltung'
 ---
