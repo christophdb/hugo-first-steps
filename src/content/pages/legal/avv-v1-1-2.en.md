@@ -19,7 +19,7 @@ This version is no longer current. Click here for the **[current version]({{< re
 
 {{< /alert >}}
 
-These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
 
 ## 1. Subject Matter of the Agreement
 

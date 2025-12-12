@@ -17,7 +17,7 @@ Diese Version ist nicht mehr aktuell. Hier geht es zur **[aktuellen Version]({{<
 
 {{< /alert >}}
 
-Dies sind der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz**.
+Dies sind der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
 
 ## 1. Gegenstand des Vertrages
 
