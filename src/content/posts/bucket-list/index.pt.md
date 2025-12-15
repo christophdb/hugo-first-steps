@@ -4,7 +4,9 @@ description: 'Quais sonhos e experiências ainda faltam viver? Uma bucket list t
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
-url: '/pt/bucket-list'
+url: '/pt/lista-de-sonhos'
+aliases:
+    - '/pt/bucket-list'
 seo:
     title: 'Crie sua Bucket List: ideias e modelo gratuito'
     description: 'Inspire-se: 63 ideias e um modelo grátis para criar sua lista de sonhos e conquistas inesquecíveis.'
