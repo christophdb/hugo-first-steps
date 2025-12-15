@@ -4,7 +4,9 @@ description: 'Et si vous décidiez de réaliser vos rêves ? Une Bucket List, 
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
-url: '/fr/bucket-list'
+url: '/fr/liste-de-vie'
+aliases:
+    - '/fr/bucket-list'
 seo:
     title: 'Créez votre Bucket List : idées & modèle gratuit'
     description: 'Laissez-vous inspirer : 63 idées et un modèle gratuit pour créer votre liste de rêves et aventures.'
