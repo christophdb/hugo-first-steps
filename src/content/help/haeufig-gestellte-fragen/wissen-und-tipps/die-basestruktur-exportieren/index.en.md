@@ -7,11 +7,10 @@ categories:
 author: 'cdb'
 url: '/help/export-base-structure-seatable'
 aliases:
-  - '/help/die-basestruktur-exportieren'
+    - '/help/die-basestruktur-exportieren'
 seo:
     title: 'Export your SeaTable base structure quickly'
     description: 'Export your table and column structure in SeaTable via Python – ideal for forum posts or support tickets.'
-
 ---
 
 In the following article you will find a Python script that allows you to output the entire **table and column structure of a base** as plain text. This structure helps for example the user support to understand when you ask a question in the forum.
@@ -26,7 +25,7 @@ In the following article you will find a Python script that allows you to output
 4. Copy the following **code** to the left pane.
 
 ```
-from seatable_api import base, context
+from seatable_api import Base, context
 server_url = context.server_url
 api_token = context.api_token
 base = Base(api_token, server_url)

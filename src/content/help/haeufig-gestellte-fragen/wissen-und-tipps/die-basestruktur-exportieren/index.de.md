@@ -23,7 +23,7 @@ Im folgenden Artikel finden Sie ein Python-Skript, das es Ihnen erlaubt, die ges
 4. Kopieren Sie den folgenden **Code** in den linken Fensterbereich.
 
 ```
-from seatable_api import base, context
+from seatable_api import Base, context
 server_url = context.server_url
 api_token = context.api_token
 base = Base(api_token, server_url)

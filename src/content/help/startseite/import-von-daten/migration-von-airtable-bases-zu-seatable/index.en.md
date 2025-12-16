@@ -98,7 +98,7 @@ mode = 'import-header'
 ## No more edits required beyond this row
 
 import sys
-from seatable_api import base, AirtableConvertor
+from seatable_api import Base, AirtableConvertor
 
 def get_convertor():
     base = Base(api_token, server_url)
