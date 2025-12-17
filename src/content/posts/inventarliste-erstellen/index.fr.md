@@ -7,8 +7,8 @@ url: '/fr/creer-liste-inventaire'
 aliases:
     - /fr/inventarliste-erstellen
 seo:
-    title:
-    description:
+    title: 'Créer une liste d’inventaire et suivre vos actifs'
+    description: 'Apprenez à créer une liste d’inventaire dans Excel, Word ou SeaTable et à standardiser l’inventaire pour un suivi fiable de vos actifs.'
 categories:
     - 'best-practice'
 tags:

@@ -2,8 +2,8 @@
 title: "How to create your personal medication plan"
 description: "Whether it's the tablet in the morning, the drops in the evening or the spray in between: Anyone who takes several medications knows how quickly you can lose track of them. A medication schedule helps you to take your medication safely, on time and in the right dosage."
 seo:
-    title: "How to create your personal medication schedule | SeaTable"
-    description: "Learn how a medication schedule can help you keep track of your medication."
+    title: "Create your personal medication plan easily"
+    description: "Learn how a digital medication plan helps you track doses, times and interactions so you take all medicines correctly and safely every day."
 date: 2025-08-13
 url: '/medication-plan'
 tags:

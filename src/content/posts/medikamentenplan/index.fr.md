@@ -2,8 +2,8 @@
 title: 'Comment établir votre plan de médication personnel'
 description: "Que ce soit le comprimé du matin, les gouttes du soir ou le spray de temps en temps : Quiconque prend plusieurs médicaments sait à quel point il est facile de perdre la vue d'ensemble. Un plan de médication vous aide à prendre vos médicaments en toute sécurité, à temps et au bon dosage."
 seo:
-    title: 'Plan de médication | SeaTable'
-    description: 'Découvrez comment un plan de médication peut vous aider à garder une trace de vos prises de médicaments.'
+    title: 'Créez votre plan de médication en toute sécurité'
+    description: 'Un plan de médication clair vous aide à suivre doses, horaires et interactions et à prendre vos traitements chaque jour en toute sérénité.'
 date: 2025-08-13
 url: '/fr/plan-de-medication'
 tags:

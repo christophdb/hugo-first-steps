@@ -7,8 +7,8 @@ url: '/pt/criar-lista-inventario'
 aliases:
     - /pt/inventarliste-erstellen
 seo:
-    title:
-    description:
+    title: 'Criar lista de inventário e controlar ativos com facilidade'
+    description: 'Veja como criar uma lista de inventário no Excel, Word ou SeaTable e padronizar o inventário para controle claro e confiável de ativos.'
 categories:
     - 'best-practice'
 tags:

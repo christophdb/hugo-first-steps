@@ -2,8 +2,8 @@
 title: 'So erstellen Sie Ihren persönlichen Medikamentenplan'
 description: 'Ob die Tablette am Morgen, die Tropfen am Abend oder das Spray zwischendurch: Wer mehrere Medikamente einnimmt, weiß, wie schnell man den Überblick verlieren kann. Ein Medikamentenplan hilft Ihnen, Ihre Medikamente sicher, pünktlich und in der richtigen Dosierung einzunehmen.'
 seo:
-    title: 'Medikamentenplan | SeaTable'
-    description: 'Erfahren Sie, wie ein Medikamentenplan Ihnen hilft, den Überblick über die Einnahme von Arzneimitteln zu behalten.'
+    title: 'Medikamentenplan erstellen – Medikamente im Blick'
+    description: 'Erstellen Sie Ihren persönlichen Medikamentenplan und behalten Sie Einnahmen, Dosierung und Wechselwirkungen sicher im Alltag im Blick'
 date: 2025-08-13
 url: '/de/medikamentenplan'
 tags:

@@ -2,7 +2,9 @@
 title: 'Investment plan for companies: How to invest wisely'
 description: 'Investing blindly without a plan is rarely a good idea. You run the risk of being guided by emotions and making bad decisions that are as avoidable as they are loss-making. With an investment plan, on the other hand, you follow a well-considered path that increases your chances of getting the most out of your investment. Find out in this article how your investment planning can really bear fruit.'
 date: 2025-08-26
-url: '/en/investment-plan'
+url: '/investment-plan'
+aliases:
+    - '/en/investment-plan'
 seo:
     title: 'Investment plan for companies'
     description: 'Investment plan simply explained: practical examples and tips on how founders and companies can reduce risks and make investments profitable.'
