@@ -1,9 +1,10 @@
 ---
 title: 'Gestion des événements'
 description: "Gérez événements centralement : administrez tâches, participants et budgets automatiquement, organisez enregistrements et données flexiblement."
-url: '/fr/modele/event-management'
+url: '/fr/modele/gestion-evenements'
 aliases:
     - '/fr/modeles/événements/'
+    - '/fr/modele/event-management'
 category: 'ereignisse'
 functions:
 seo:

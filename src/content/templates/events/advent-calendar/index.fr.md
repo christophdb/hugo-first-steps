@@ -2,7 +2,9 @@
 title: "Calendrier de l'Avent"
 description: "Créez votre calendrier de l'avent digital, ajoutez surprises et partagez par lien – rapide à créer, immédiatement disponible."
 date: '2025-02-28'
-url: '/fr/modele/advent-calendar'
+url: '/fr/modele/calendrier-avent'
+aliases:
+    - '/fr/modele/advent-calendar'
 category: 'events'
 functions:
 seo:

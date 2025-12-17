@@ -1,6 +1,7 @@
 ---
 title: 'Event Management'
 description: 'Control events centrally: manage tasks, attendees, and budgets automatically, organize registrations and data flexibly – seamlessly.'
+url: '/template/event-management'
 aliases:
     - '/event-management/'
 category: 'events'

@@ -2,7 +2,9 @@
 title: 'Adventskalender'
 description: 'Digitalen Adventskalender individuell gestalten, Überraschungen einfügen und per Link teilen – schnell erstellt, sofort verfügbar.​'
 date: '2025-02-28'
-url: '/de/vorlage/advent-calendar'
+url: '/de/vorlage/adventskalender'
+aliases:
+    - '/de/vorlage/advent-calendar'
 category: 'events'
 functions:
 seo:
