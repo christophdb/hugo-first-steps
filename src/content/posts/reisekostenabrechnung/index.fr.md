@@ -11,8 +11,8 @@ aliases:
     - /fr/reisekostenabrechnung
 color: '#006198'
 seo:
-    title:
-    description:
+    title: 'Note de frais de voyage: l’essentiel à connaître'
+    description: 'Voyez quels frais de déplacement sont remboursables et comment SeaTable simplifie la gestion et le suivi de vos notes de frais professionnelles.'
 ---
 
 La loi sur l'impôt sur le revenu décrit trois catégories de **dépenses** que les travailleurs peuvent se faire **rembourser** par leur entreprise. Outre les commandes passées au nom de l'entreprise et les dépenses effectuées pour exécuter une commande, cela concerne également les **déplacements professionnels**. Qu'il s'agisse d'un voyage d'affaires de plusieurs jours, d'une réunion avec un client éloigné ou d'un déplacement à un salon, les déplacements professionnels font partie du quotidien de nombreux travailleurs. Dans l'article suivant, vous découvrirez non seulement ce qu'est une **note de frais**, mais vous obtiendrez également de précieux conseils pour l'établir.

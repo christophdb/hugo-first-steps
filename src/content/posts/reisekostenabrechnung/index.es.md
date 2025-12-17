@@ -11,8 +11,8 @@ aliases:
     - /es/reisekostenabrechnung
 color: '#006198'
 seo:
-    title:
-    description:
+    title: 'Liquidación de viáticos: todo lo que debes saber'
+    description: 'Descubre qué gastos de viaje son reembolsables y cómo usar SeaTable para gestionar informes de gastos de viaje de forma clara y eficiente.'
 ---
 
 La Ley del Impuesto sobre la Renta describe tres categorías de **gastos** que los trabajadores pueden hacer que **les reembolse** su empresa. Además de los pedidos realizados por cuenta de la empresa y los gastos en que se incurre para cumplir un pedido, esto también se aplica a los **viajes de negocios**. Ya se trate de un viaje de negocios de varios días, una reunión con un cliente lejano o el desplazamiento a una feria, los viajes de negocios forman parte de la vida cotidiana de muchos empleados. En el siguiente artículo, no sólo aprenderá qué es un **informe de gastos de viaje**, sino que también recibirá valiosos consejos sobre cómo crear uno.
