@@ -4,7 +4,7 @@ seo:
     title: 'Контакты – поддержка и консультации SeaTable'
     description: 'Свяжитесь c SeaTable для поддержки, консультаций и помощи по облаку или серверу. Быстрый отклик по всем каналам!'
 date: '2025-04-03'
-url: '/ru/o-nas'
+url: '/ru/kontakty'
 aliases:
     - '/ru/contact/'
     - '/ru/kонтакты'
