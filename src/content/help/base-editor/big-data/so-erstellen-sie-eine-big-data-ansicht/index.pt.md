@@ -1,10 +1,10 @@
 ---
-title: 'Como criar uma vista de grandes volumes de dados'
+title: 'Como criar uma vista de Big Data'
 date: 2022-09-23
-lastmod: '2024-05-13'
+lastmod: '2025-12-03'
 categories:
     - 'big-data'
-author: 'cdb'
+author: 'kgr'
 url: '/pt/ajuda/criar-visualizacao-big-data-seatable'
 aliases:
     - '/pt/ajuda/so-erstellen-sie-ein-big-data-ansicht'
@@ -15,22 +15,26 @@ seo:
 
 {{< required-version "Empresa" >}}
 
-As linhas armazenadas na **memória de** grandes volumes de dados não são imediatamente visíveis para todos os utilizadores. É necessária uma **vista** especial para aceder aos dados no armazenamento de grandes volumes de dados. Mas não se preocupe: criar uma vista de grandes volumes de dados é tão fácil como criar uma vista normal.
+As linhas armazenadas na **memória de Big Data** não são imediatamente visíveis para todos os utilizadores. É necessária uma **vista** especial para aceder aos dados no armazenamento de Big Data. Mas não se preocupe: criar uma vista de Big Data é tão fácil como criar uma vista normal.
 
 {{< warning  headline="Pré-requisito" >}}
 
-Só é possível criar uma vista de grandes volumes de dados se [já tiver ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) na base.
+Só é possível criar uma vista de Big Data se [já tiver ativado o armazenamento de Big Data]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) na base.
 
 {{< /warning >}}
 
-## Adicionar uma vista de grandes volumes de dados
+## Adicionar uma vista de Big Data
 
-![Criar uma grande vista de dados](images/create-big-data-view.gif)
+![crie uma vista de big data](images/create-big-data-view.jpg)
 
-1. Clique sobre o nome da **vista actual** na sua Base.
-2. A seguir, seleccionar a opção **Adicionar Vista ou Pasta**.
-3. No novo menu, seleccione **Adicionar vista de grandes volumes de dados**.
-4. Dê um **nome** qualquer à nova vista e confirme com **Enviar**.
+1. Clique no **Nome da vista atual**.
+2. Clique em **Adicionar vista ou pasta** e selecione o **Tipo de vista** pretendido.
+
+![Criar uma vista de big data](images/name-big-data-view.jpg)
+
+3. Atribua um **nome** à nova vista.
+4. Active o seletor se a nova vista não deve ser visível para todos mas **privada**.
+5. Confirme com **Submeter**.
 
 ## Diferenças entre uma visão normal e uma visão privada
 

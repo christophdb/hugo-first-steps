@@ -1,10 +1,10 @@
 ---
 title: 'Guia de plugin do calendário'
 date: 2022-11-07
-lastmod: '2023-08-14'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/pt/ajuda/anleitung-zum-kalender-plugin'
 aliases:
     - '/pt/ajuda/anleitung-zum-kalender-plugin'
@@ -22,6 +22,10 @@ Há um total de 5 opções de visualização: Pode exibir os compromissos num ca
 Para utilizar a visualização do calendário para uma visualização de tabela, é necessário pelo menos uma [coluna de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 {{< /warning >}}
+
+## Para configurar o plugin do calendário
+
+Atenção! Desde SeaTable 6.0, o plugin já não pode ser instalado nas bases. Nas bases em que o plugin já está em uso, ele está disponível até novo aviso e pode ser usado sem restrições. No entanto, a nossa recomendação é: Utilize a [vista de calendário]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). A mudança não poderia ser mais fácil, porque o SeaTable oferece **migração com apenas um clique**. Isto converte um separador de um plugin numa vista do mesmo tipo sem qualquer esforço adicional.
 
 ## Configurações de plugin de calendário
 

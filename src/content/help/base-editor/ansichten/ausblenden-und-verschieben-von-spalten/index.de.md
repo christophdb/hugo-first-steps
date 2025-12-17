@@ -4,18 +4,19 @@ date: 2022-10-26
 lastmod: '2023-01-02'
 categories:
     - 'ansichtsoptionen'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/ausblenden-und-verschieben-von-spalten'
 seo:
     title: 'Spalten ausblenden & verschieben – Übersicht in SeaTable'
     description: 'Blenden Sie einzelne Spalten nach Bedarf aus und ordnen Sie sie per Drag-and-Drop neu an. Mit diesen Optionen behalten Sie Ihre Tabelle stets im Blick.'
+weight: 26
 ---
 
 Je mehr Spalten Sie anlegen, um Daten zu erfassen, desto unübersichtlicher wird Ihre Tabelle. Damit Sie stets den Überblick über Ihre Daten behalten, können Sie einzelne aktuell nicht benötigte oder irrelevante Tabellenspalten ausblenden. Darüber hinaus können Sie die Reihenfolge der Spalten per Drag-and-Drop beliebig anpassen.
 
 ## Ausblenden von Spalten
 
-![Ausblenden von Spalten](images/hide-coloumns-2.gif)
+![Ausblenden von Spalten](images/hide-columns.gif)
 
 1. Klicken Sie in den Ansichtsoptionen einer beliebigen Tabelle auf **Ausblenden**.
 2. Blenden Sie eine beliebige Anzahl an Spalten **durch Anklicken** aus. Mithilfe des **Suchfeldes** können Sie die Auswahl an Spalten eingrenzen oder nach einer speziellen Spalte suchen, die Sie ausblenden möchten.
@@ -24,7 +25,7 @@ Je mehr Spalten Sie anlegen, um Daten zu erfassen, desto unübersichtlicher wird
 
 ## Verschieben von Spalten
 
-Halten Sie die Maustaste auf den **Sechs-Punkte-Symbolen** ![Icon zum Verschieben von Elementen](images/move-icon.png) vor den Spaltennamen gedrückt und ziehen Sie diese in der Liste nach oben oder unten, um die Anordnung der Spalten in der Tabelle beliebig zu verändern.
+Halten Sie die linke Maustaste auf der **Sechs-Punkte-Greiffläche** vor den Spaltennamen gedrückt und ziehen Sie diese in der Liste nach oben oder unten, um die Anordnung der Spalten in der Tabelle beliebig zu verändern.
 
 ![Verschieben von Spalten](images/moving-columns.gif)
 

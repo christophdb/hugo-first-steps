@@ -1,20 +1,20 @@
 ---
 title: 'Agrupación de entradas en una vista'
 date: 2022-10-26
-lastmod: '2023-01-13'
+lastmod: '2025-12-03'
 categories:
     - 'ansichtsoptionen'
-author: 'vge'
+author: 'kgr'
 url: '/es/ayuda/agrupar-registros-vista-seatable'
 aliases:
     - '/es/ayuda/gruppieren-von-eintraegen-in-einer-ansicht'
 seo:
     title: 'Agrupar registros en una vista de SeaTable: tutorial'
     description: 'Agrupe datos por hasta tres criterios, acceda a totales y promedios directamente en su vista. Expanda y reduzca grupos de manera flexible y visual.'
-
+weight: 25
 ---
 
-Con la función de agrupación, puede combinar las entradas de la tabla en **agrupaciones** y determinar estadísticas descriptivas sencillas, como el número de elementos o los totales y valores medios de las columnas numéricas.
+Con la función de agrupación, puede combinar las entradas de la tabla en **agrupaciones** y determinar estadísticas descriptivas sencillas, como el número de elementos o los totales y valores medios de las columnas numéricas. La agrupación se realiza utilizando **valores idénticos en la columna seleccionada para la agrupación**.
 
 ## Agrupar entradas en una vista
 
@@ -26,13 +26,38 @@ Con la función de agrupación, puede combinar las entradas de la tabla en **agr
 4. En el campo vacío, seleccione la **columna** por la que desea agrupar.
 5. Decida en el segundo campo si la agrupación debe aparecer en orden **ascendente** o **descendente**.
 
-## Niveles de grupo
+{{< warning headline="Agrupar por columnas de fecha" text="Si agrupa por fecha, puede especificar si desea crear un grupo por **día, semana, mes, trimestre o año**." />}}
 
-Puede **agrupar según un máximo de tres criterios al mismo** tiempo añadiendo más agrupaciones. Esto crea varios niveles o subgrupos dentro de las agrupaciones.
+La agrupación se realiza **en tiempo real**, es decir, los registros de datos se agrupan antes de que se cierre la ventana. Esto le permite ver inmediatamente si ha conseguido el resultado deseado y realizar los ajustes necesarios.
+
+## Agrupaciones anidadas
+
+Puede **agrupar según un máximo de tres criterios al mismo tiempo** añadiendo más agrupaciones. Esto crea varios niveles o subgrupos dentro de las agrupaciones.
 
 ![Agrupación de entradas en una vista con dos criterios](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-2.gif)
 
 {{< warning  headline="Nota"  text="También puede refinar las agrupaciones mediante filtros y, de este modo, hacer que sólo se muestre determinada información." />}}
+
+## Personalizar la agrupación
+
+Para personalizar la agrupación, abra de nuevo la ventana haciendo clic en el botón de la configuración de la vista. Al igual que al añadir la regla de agrupación, ahora puede personalizar la regla. También puede **cambiar la jerarquía de las reglas de agrupación** manteniendo pulsado el botón izquierdo del ratón en la zona de agarre de seis puntos y arrastrando la regla a la posición deseada.
+
+## Comportamiento de agrupación por tipo de columna
+
+SeaTable admite la agrupación por todos los [tipos de columna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) excepto los tipos de columna **Texto con formato, Archivo, Imagen, Número automático, Botón y Firma digital**.
+
+La agrupación se basa en los siguientes principios de organización:
+
+- Texto, Correo electrónico, URL, Número de teléfono: alfabético o alfanumérico
+- Número, Duración, Calificación: numérico
+- Fecha, Creación, Última modificación: cronológico
+- Selección única y múltiple: según el orden de las opciones
+- Colaborador, Creador, Último modificador: alfabético
+- Casilla de verificación: dicotómica
+- Fórmula: según el tipo de datos del resultado
+- Enlace: según el tipo de datos de la columna referenciada
+
+Todas las filas **con celdas vacías en la columna de agrupación** se resumen en la parte inferior de la vista en un grupo separado llamado (Vacío).
 
 ## La cabecera del grupo
 
@@ -40,7 +65,7 @@ Cada grupo tiene una cabecera en la que figuran tanto el criterio del grupo como
 
 ![La cabecera del grupo](images/gruppierung.png)
 
-En el caso de las **columnas de pago**, también tiene la opción de mostrar diversas relaciones entre las entradas:
+En el caso de las **columnas numéricas**, también tiene la opción de mostrar diversas relaciones entre las entradas:
 
 - Total
 - Media
@@ -49,7 +74,7 @@ En el caso de las **columnas de pago**, también tiene la opción de mostrar div
 - Máximo
 - Ningún cálculo
 
-Haga clic en el **icono triangular desplegable** situado delante del encabezamiento de la columna de pago para seleccionar la opción correspondiente.
+Haga clic en el **icono triangular desplegable** situado delante del encabezamiento de la columna numérica para seleccionar la opción correspondiente.
 
 ![Columna de números de cabecera de grupo](images/Gruppenheader.png)
 
@@ -67,7 +92,7 @@ Aquí encontrará la opción **Reducir todo**:
 
 ![Reducir todo](images/gruppieren-von-eintraegrn_6.png)
 
-**Reducir** la pantalla con la opción **Todo** activada:
+**Reducir** la pantalla con la opción activada:
 
 ![Ejemplo para todas las reducciones de agrupaciones](images/gruppieren-von-eintraegrn_1-1.png)
 
@@ -77,13 +102,13 @@ Aquí encontrará la opción **Expandir todo**:
 
 ![Ampliar la opción de agrupación a todos](images/gruppieren-von-eintraegrn_7-1.png)
 
-**Amplíe la** pantalla con la opción **Todos** activada:
+**Amplíe la** pantalla con la opción activada:
 
 ![Ejemplo de all expand para agrupaciones](images/gruppieren-von-eintraegrn_3-1.png)
 
 ## Mover entradas a otro grupo
 
-Puedes asignar entradas individuales a nuevos grupos arrastrándolas y soltándolas. El criterio en el que se basa el grupo se ajusta cuando se desplaza la entrada.
+Puede asignar entradas individuales a nuevos grupos arrastrándolas y soltándolas. El criterio en el que se basa el grupo se ajusta cuando se desplaza la entrada.
 
 ![Agrupación de entradas Arrastrar y soltar](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-3.gif)
 

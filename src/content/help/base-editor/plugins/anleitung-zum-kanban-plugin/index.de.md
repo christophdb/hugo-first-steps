@@ -1,10 +1,10 @@
 ---
 title: 'Anleitung zum Kanban-Plugin'
 date: 2023-01-08
-lastmod: '2023-08-16'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/de/hilfe/anleitung-zum-kanban-plugin'
 seo:
     title: 'Anleitung für das Kanban-Plugin in SeaTable – Board & Tipps'
@@ -12,8 +12,6 @@ seo:
 ---
 
 Ein **Kanban-Board** kann sinnvoll sein, um dynamische Prozesse mit verschiedenen Phasen darzustellen. In dieser Hinsicht ermöglicht es Ihnen beispielsweise die Visualisierung von **Workflows** und **Projektfortschritten**. Besonders hilfreich ist dies bei der Projektplanung, Produktentwicklung oder Aufgabenverteilung **im Team**.
-
-Gut, dass SeaTable Ihnen mit dem **Kanban-Plugin** all diese Möglichkeiten bietet. Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Aufbau des Kanban-Boards
 
@@ -24,6 +22,10 @@ Das Kanban-Board besteht aus **Säulen**, die für verschiedene Schritte oder Ph
 Die Säulen versehen Sie mit **beweglichen Karten**, die Sie sowohl innerhalb einer Säule als auch von einer Säule in die nächste **verschieben** können. Eine Karte kann zum Beispiel für ein Arbeitspaket oder eine Aufgabe stehen.
 
 ![Kanban Verschiebungen](images/kanban.gif)
+
+## So richten Sie das Kanban-Plugin ein
+
+Achtung! Seit SeaTable 6.0 lässt sich das Plugin nicht mehr in Bases installieren. In Bases, in denen das Plugin bereits in Verwendung ist, steht es bis auf Weiteres zur Verfügung und kann uneingeschränkt genutzt werden. Unsere Empfehlung ist jedoch: Nutzen Sie die [Kanban-Ansicht]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}). Der Wechsel könnte kaum einfacher sein, denn SeaTable bietet die **Migration mit nur einem Klick**. Diese konvertiert einen Tab in einem Plugin ohne weiteren Aufwand in eine Ansicht vom gleichen Typ.
 
 ## Einstellungsmöglichkeiten eines Kanban-Boards
 

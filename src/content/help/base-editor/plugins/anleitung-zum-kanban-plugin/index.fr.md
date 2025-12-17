@@ -1,10 +1,10 @@
 ---
 title: 'Instructions pour le plugin Kanban'
 date: 2023-01-08
-lastmod: '2023-08-16'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/fr/aide/tutoriel-plugin-kanban'
 aliases:
     - '/fr/aide/anleitung-zum-kanban-plugin'
@@ -15,8 +15,6 @@ seo:
 
 Un **tableau Kanban** peut être utile pour représenter des processus dynamiques avec différentes phases. Dans cette optique, il vous permet par exemple de visualiser les **flux de travail** et l **'avancement du projet**. Cela est particulièrement utile pour la planification de projets, le développement de produits ou la répartition des tâches **au sein de l'équipe**.
 
-Heureusement, SeaTable vous offre toutes ces possibilités avec le **plug-in Kanban**. Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
-
 ## Structure du tableau Kanban
 
 Le tableau Kanban se compose de **colonnes** qui représentent différentes étapes ou phases dans un processus. Dans un flux de travail, il peut s'agir par exemple de "idée", "en cours", "terminé" et "planifié".
@@ -26,6 +24,10 @@ Le tableau Kanban se compose de **colonnes** qui représentent différentes éta
 Les colonnes sont pourvues de **cartes mobiles** que vous pouvez **déplacer** aussi bien à l'intérieur d'une colonne que d'une colonne à l'autre. Une carte peut par exemple représenter un lot de travaux ou une tâche.
 
 ![Déplacements Kanban](images/kanban.gif)
+
+## Pour configurer le plugin Kanban
+
+Attention ! Depuis la version 6.0 de SeaTable, le plugin ne peut plus être installé dans les bases. Dans les bases où le plugin est déjà utilisé, il est toujours disponible et peut être utilisé sans restriction. Nous vous recommandons toutefois d'utiliser la [vue Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}). Le changement ne pourrait pas être plus simple, car SeaTable propose la **Migration en un clic**. Celle-ci convertit un onglet dans un plugin en une vue du même type sans effort supplémentaire.
 
 ## Possibilités de réglage d'un tableau Kanban
 

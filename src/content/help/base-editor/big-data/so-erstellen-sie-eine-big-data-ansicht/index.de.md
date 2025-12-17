@@ -1,10 +1,10 @@
 ---
 title: 'So erstellen Sie eine Big-Data-Ansicht'
 date: 2022-09-23
-lastmod: '2024-05-13'
+lastmod: '2025-12-03'
 categories:
     - 'big-data'
-author: 'cdb'
+author: 'kgr'
 url: '/de/hilfe/so-erstellen-sie-ein-big-data-ansicht'
 seo:
     title: 'Big-Data-Ansicht in SeaTable erstellen – Anleitung & Unterschiede'
@@ -23,12 +23,16 @@ Sie können eine Big-Data-Ansicht nur dann erstellen, wenn Sie innerhalb der Bas
 
 ## Eine Big-Data-Ansicht hinzufügen
 
-![Eine Big Data Ansicht erstellen](images/create-big-data-view.gif)
+![Eine Big Data Ansicht erstellen](images/create-big-data-view.jpg)
 
-1. Klicken Sie in Ihrer Base auf den Namen der **aktuellen Ansicht**.
-2. Wählen Sie als Nächstes die Option **Ansicht oder Ordner hinzufügen**.
-3. In dem neuen Menü wählen Sie nun **Big-Data-Ansicht hinzufügen**.
-4. Geben Sie der neuen Ansicht einen beliebigen **Namen** und bestätigen Sie mit **Abschicken**.
+1. Klicken Sie auf den **Namen der aktuellen Ansicht**.
+2. Klicken Sie auf **Ansicht oder Ordner hinzufügen** und wählen Sie den gewünschten **Ansichtstyp** aus.
+
+![Eine Big-Data-Ansicht anlegen](images/name-big-data-view.jpg)
+
+3. Geben Sie der neuen Ansicht einen **Namen**.
+4. Aktivieren Sie den Regler, falls die neue Ansicht nicht für alle sichtbar, sondern **privat** sein soll.
+5. Bestätigen Sie mit **Abschicken**.
 
 ## Unterschiede zwischen einer normalen und einer privaten Ansicht
 

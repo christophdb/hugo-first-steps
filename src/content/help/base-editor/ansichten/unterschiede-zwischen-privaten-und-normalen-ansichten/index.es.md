@@ -1,16 +1,17 @@
 ---
 title: 'Diferencias entre las vistas privadas y las normales'
 date: 2022-11-07
-lastmod: '2023-11-27'
+lastmod: '2025-12-05'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/diferencias-entre-vistas-privadas-y-normales'
 aliases:
     - '/es/ayuda/unterschiede-zwischen-privaten-und-normalen-ansichten'
 seo:
     title: 'Diferencias entre vistas privadas y normales en SeaTable'
     description: 'Descubre las diferencias entre vistas privadas y normales en SeaTable y cómo las privadas mejoran el análisis de tus datos personales.'
+weight: 5
 ---
 
 {{< required-version "Empresa" >}}
@@ -21,7 +22,7 @@ En SeaTable es posible crear vistas normales y privadas de las tablas. Las vista
 
 ## Análisis de datos personales con vistas privadas
 
-Una vista en SeaTable es la suma de los siguientes ajustes: [Filtros]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). En otras palabras, cada vista ofrece una perspectiva individual de los datos de su tabla.
+Una vista en SeaTable es la suma de muchos ajustes, incluyendo **filtros, ordenación, agrupación, resaltado de color y altura de fila**. En otras palabras, cada vista ofrece una perspectiva individual de los datos de su tabla.
 
 La particularidad de las vistas privadas es que **no son visibles para otros usuarios**. Sólo el usuario que creó la vista privada puede verla.
 
@@ -30,6 +31,19 @@ Dado que los cambios de configuración en una vista privada no tienen efecto sob
 ## Las vistas privadas no se pueden compartir
 
 Otra diferencia entre las vistas normales y las privadas es que éstas últimas no pueden compartirse con otras personas. El icono correspondiente para compartir esta vista no está disponible.
+
+## Crear una vista privada
+
+![crear una nueva vista](images/create-table-view.jpg)
+
+1. Pulsar sobre el **Nombre de la vista actual**.
+2. Haga clic en **Añadir vista o carpeta** y seleccione el **Tipo de vista** deseado.
+3. Asigne un **nombre** a la nueva vista.
+
+![crear una vista privada](images/create-private-view.jpg)
+
+4. Active el control deslizante para que la nueva vista sea **privada**.
+5. Confirme con **Submitir**.
 
 ## Duplicar vistas normales como vistas privadas
 

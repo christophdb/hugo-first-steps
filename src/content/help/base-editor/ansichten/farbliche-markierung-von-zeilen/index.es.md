@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Marcar filas con color en SeaTable: guía detallada'
     description: 'Resalte rápidamente filas por color usando reglas, selección única, o para detectar duplicados. Facilita la priorización y visión rápida en sus tablas.'
-
+weight: 27
 ---
 
 Puede utilizar la **herramienta de formato de línea para** establecer marcas de color al **principio de las líneas**. El **marcado** por colores **de las filas** sirve para identificar rápidamente determinados registros de datos. Esto no debe confundirse con [colorear celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), que permite resaltar celdas individuales.
@@ -24,13 +24,13 @@ En las opciones de vista sobre una tabla encontrará el siguiente símbolo:
 
 Tras hacer clic en la herramienta de formato de línea, puede elegir entre **tres opciones** para la marca de color:
 
-- Utilizar una sola columna de selección
+- Utilizar una columna de selección única
 - Normas de uso
 - Resaltar los duplicados
 
 ![Marcación por colores de las celdas](images/Farbliche-Markierung-von-Zellen-2.png)
 
-## Utilizar una sola columna de selección
+## Utilizar una columna de selección única
 
 Para la opción **Utilizar columna de selección única**, necesita una columna de este tipo en su tabla. Esto le permite marcar cada fila al **principio de la línea** con el color de la opción respectiva que se introduce en esta columna.
 

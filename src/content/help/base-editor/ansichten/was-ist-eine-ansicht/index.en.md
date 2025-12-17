@@ -1,42 +1,84 @@
 ---
 title: 'What is a view?'
 date: 2023-01-13
-lastmod: '2023-01-13'
+lastmod: '2025-12-03'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'vge'
+author: 'kgr'
 url: '/help/what-is-a-view'
 aliases:
     - '/help/was-ist-eine-ansicht'
 seo:
     title: 'What is a view in SeaTable?'
     description: 'Learn what a view is in SeaTable and how to create, customize and manage table views for personal productivity.'
-
+weight: 1
 ---
 
-Whenever you view your data in a table, you view it through a **view**. Even if you have created a brand new table, you are already viewing it in the **Default** View that comes with it by default.
+Whenever you look at your data in a table, you see it via a **view**. Even if you have created a brand new table, you are already viewing it in the **"Default View"** supplied as standard.
 
 ## What are views used for?
 
-In a conventional spreadsheet application such as Excel, every user sees the contents of the spreadsheets in the same way - if you hide columns, for example, the column is also hidden for all other users.
+In a conventional table, you always see the data in the same way. Although you can add or delete rows and columns, you cannot view the same data from different angles.
 
-In SeaTable you can create views, i.e. you define **which of** your information you want to view using **filters, sorting, grouping** and **hiding**. This way you can display exactly the data that is relevant to you individually at the moment.
+In SeaTable, you can create views and use **filters, sorting, grouping, hiding, color highlighting and row height** to determine which section of your data you want to view and how. This allows you to display exactly the data that is relevant to you without having to change or delete data records.
 
-What does it mean? Here are some **examples of views** you can create:
+You can also select certain display formats to visualize the data in an appealing way. Here are examples of **view types** that you can create:
 
-- If you have a table with tasks, you can create a separate view for each employee, showing only the tasks assigned to a specific employee.
-- If you have a table with many columns, you can create a view that hides certain columns, making the table clearer.
-- If you have a spreadsheet of customer meetings, you can create a calendar view that displays all your customer appointments in a monthly calendar.
+![View types](images/create-table-view.jpg)
 
-It is important to understand that a view is just another way of looking at the **same underlying data**! This means that if you edit the data of a table in one view, this data will change in all views of the table, because all views look at the same data set.
+- Table view
+- Kanban view
+- Calendar view
+- Gallery view
+- Big Data view
 
-## The table as the default representation of a view
+It is important to understand that a view is just another way of looking at **the same underlying data**! This means that if you edit the data of a table in one view, this data will change in all views of the table, as all views represent the same data set.
 
-The **table view** is the default display format in a SeaTable base. It is very similar to a spreadsheet, as the records are organized in rows and columns.
+{{< warning type="warning" headline="Note" >}}
 
-![Table view](images/Tabelle.png)
+You can use other display formats such as an organization chart, tree or map in the form of [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
-You can use other representations like calendar, gallery or kanban in the form of [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+{{< /warning >}}
+
+## The table view
+
+The **table view** is the standard display format in a SeaTable Base. It is very similar to a spreadsheet, as the data records are organized in rows and columns.
+
+![Table view](images/table-view.jpg)
+
+If you create a filtered view or hide columns, you will only see the amount of data you need. You can also make the view clearer by sorting or grouping according to certain organizing principles.
+
+## The Kanban view
+
+If you have **columns with a limited number of options** in your table, you can group your rows together. A special form of display is the **Kanban view**. It is particularly suitable for displaying **processes with different phases**.
+
+![Kanban view](images/kanban-view.jpg)
+
+You can find out more about this in the article about the [Kanban view]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}).
+
+## The Calendar view
+
+If you have a table with **date columns**, you can create a calendar view that organizes all your records **chronologically**.
+
+![The calendar view](images/calendar-view.jpg)
+
+You can find out more about this in the article about the [Calendar view]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}).
+
+## The Gallery view
+
+If you have a table with an **image column**, you can create a gallery view to illustrate the data records with preview images.
+
+![The gallery view](images/gallery-view.jpg)
+
+You can find out more about this in the article about the [Gallery view]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}).
+
+## The Big Data view
+
+If you have activated the **Big Data storage** in your Base, you can archive **large amounts of data** that are not immediately visible to every user. A special Big Data view is required to access the data in the big data storage.
+
+![The Big Data view](images/create-big-data-view.jpg)
+
+You can find out more about this in the article about the [Big Data view]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}).
 
 ## More articles on the subject of views
 
@@ -48,10 +90,10 @@ You can use other representations like calendar, gallery or kanban in the form o
 - [Printing a view]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}})
 - [Change the order of views]({{< relref "help/base-editor/ansichten/die-reihenfolge-von-ansichten-aendern" >}})
 - [Group views in folders]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}})
-- [Filtering Entries in a View]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
+- [Filtering records in a View]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
 - [Link filter rules with AND and OR]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}})
-- [Sorting Entries in a View]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
-- [Grouping entries in a view]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Sorting records in a View]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- [Grouping records in a view]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
 - [Cell coloring]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}})
 - [Color marking of cells]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Adjust row height]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})

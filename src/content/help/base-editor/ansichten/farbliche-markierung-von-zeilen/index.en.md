@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Color highlight rows in SeaTable: easy rules & options'
     description: 'Assign colors to rows: use single select, custom rules or highlight duplicates for better table organization, status tracking or quick overviews in SeaTable.'
-
+weight: 27
 ---
 
 With the help of the **rows-format tool** you can set colored markings at the beginning of rows. The **color marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.
@@ -30,7 +30,7 @@ After clicking on the rows-format tool, you can choose between **three options**
 
 ![Color marking of cells](images/Farbliche-Markierung-von-Zellen-2.png)
 
-## Use single selection column
+## Use single select column
 
 For the **Use single selection column** option, you need a column of this type in your table. This allows you to mark each row at the beginning with the color of the respective option that is entered in this column.
 

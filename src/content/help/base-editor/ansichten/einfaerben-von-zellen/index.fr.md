@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colorer les cellules dans SeaTable selon règles et valeurs'
     description: 'Découvrez comment colorer des cellules dans SeaTable en fonction de règles ou valeurs et améliorez votre analyse de données. Guide expliqué étapes.'
+weight: 28
 ---
 
 Contrairement à Excel, vous ne pouvez pas colorer les cellules de SeaTable comme bon vous semble, mais vous devez les colorer soit en fonction de **règles** que vous avez définies, soit en fonction des **valeurs** d'une **colonne**. Cela vous semble compliqué ? Mais ce n'est pas le cas.

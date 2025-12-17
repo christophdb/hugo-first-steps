@@ -11,9 +11,10 @@ aliases:
 seo:
     title: 'Regras de filtro AND e OR no SeaTable: lógica, grupos e exemplos'
     description: 'Combine condições de filtro no SeaTable com regras AND/OR ou grupos de filtros, restrinja visualizações e analise dados complexos.'
+weight: 22
 ---
 
-Ao [filtrar entradas numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), também é possível criar **várias regras de filtragem** para refinar as condições e restringir ainda mais as entradas aplicáveis. É feita aqui uma distinção entre a **ligação E** e a **ligação OU**. Também é possível utilizar **grupos de filtros** para combinar as ligações lógicas E/Or.
+Ao [filtrar entradas numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), também é possível criar **várias regras de filtragem** para refinar as condições e restringir ainda mais as entradas aplicáveis. É feita aqui uma distinção entre a **ligação E** e a **ligação OU**. Também é possível utilizar **grupos de filtros** para combinar as ligações lógicas E/OU.
 
 ## Porquê regras de filtragem que facilitam o seu trabalho
 
@@ -21,7 +22,7 @@ Para poder trabalhar de forma eficiente e concentrar-se no essencial, é necess�
 
 ![Regras de filtragem ](images/Grafik-Filterregeln-scaled.jpg)
 
-## O Enlaçamento
+## A ligação E
 
 Com a **ligação E**, todas as condições especificadas devem aplicar-se a um registo para que este possa ser exibido.
 
@@ -29,9 +30,9 @@ Este exemplo é demonstrado no vídeo seguinte: Estamos a visualizar um plano ed
 
 ![Adicionar regra de filtro com ligação AND](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 
-## A ligação Oder
+## A ligação OU
 
-Com a **ligação OR**, as condições são independentes uma da outra. É suficiente se os registos de dados apresentados preencherem uma das condições - mas também podem preencher várias ou todas as condições.
+Com a **ligação OU**, as condições são independentes uma da outra. É suficiente se os registos de dados apresentados preencherem uma das condições – mas também podem preencher várias ou todas as condições.
 
 Eis um exemplo (ver imagem do ecrã): Embora filtremos as mensagens planeadas ("Planeado") com a primeira regra de filtragem na **coluna "Estado"**, as entradas com um estado diferente também são apresentadas se cumprirem a segunda condição do tipo de texto como "Publicação de blogue". Com a segunda regra de filtragem na **coluna "Tipo de publicação"**, outros tipos de texto também são exibidos se o estado for "Planeado". As publicações planeadas no blogue que preenchem ambas as condições também aparecem na vista filtrada.
 

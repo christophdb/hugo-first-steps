@@ -1,10 +1,10 @@
 ---
 title: 'Anleitung zum Galerie-Plugin'
 date: 2023-01-08
-lastmod: '2023-06-29'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/de/hilfe/anleitung-zum-galerie-plugin'
 seo:
     title: 'Galerie-Plugin: Bilder übersichtlich in SeaTable darstellen'
@@ -20,15 +20,13 @@ Während die Bilder in der **Tabellen-Ansicht** als Miniatur dargestellt werden 
 
 ## So richten Sie das Galerie-Plugin ein
 
-Um das **Galerie-Plugin** verwenden zu können, müssen Sie dieses zunächst in Ihrer Base [aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
-
-Daraufhin legen Sie in den Einstellungen fest, für welche **Tabellenansicht** Sie eine Galerie erstellen möchten und aus welcher [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) die Bilder stammen sollen. Geben Sie bei **Titel** die Spalte an, deren Einträge Sie als Albumtitel verwenden möchten.
+Achtung! Seit SeaTable 6.0 lässt sich das Plugin nicht mehr in Bases installieren. In Bases, in denen das Plugin bereits in Verwendung ist, steht es bis auf Weiteres zur Verfügung und kann uneingeschränkt genutzt werden. Unsere Empfehlung ist jedoch: Nutzen Sie die [Galerie-Ansicht]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}). Der Wechsel könnte kaum einfacher sein, denn SeaTable bietet die **Migration mit nur einem Klick**. Diese konvertiert einen Tab in einem Plugin ohne weiteren Aufwand in eine Ansicht vom gleichen Typ.
 
 ## Informationen ein- und ausblenden
 
 In den **Galerie-Einstellungen**, die Sie über das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} erreichen, können Sie durch Ein- und Ausblenden von Spalten mehr oder weniger Informationen anzeigen lassen. Aktivieren Sie die **Regler** der jeweiligen Spalten (z. B. Dokumente, Status und Datum), um mehr Informationen aus der Tabelle in der Galerie angezeigt zu bekommen.
 
-![](images/galerie-plugin.png)
+![Galerie-Plugin](images/galerie-plugin.png)
 
 ## Mehrere Bilder in einer Zeile
 

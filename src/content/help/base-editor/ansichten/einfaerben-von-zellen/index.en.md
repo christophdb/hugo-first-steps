@@ -11,13 +11,14 @@ aliases:
 seo:
     title: 'Color Cells in SeaTable Based on Rules and Values'
     description: 'Learn to color cells in SeaTable using custom rules or values for easy data analysis and visual highlights. Step-by-step instructions included.'
+weight: 28
 ---
 
 Unlike Excel, you can't just color cells arbitrarily in SeaTable, you have to color them either by **rules** you set or based on the **values** in a **column**. Sounds complicated? But it isn't.
 
 {{< warning  headline="Note" >}}
 
-In addition to the **Color cells** option, there is also the possibility to [markrows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) in color. In this case, however, the cells are not colored, but colored marks are set at the beginning of the rows.
+In addition to the **Color cells** option, there is also the possibility to [mark rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) in color. In this case, however, the cells are not colored, but colored marks are set at the beginning of the rows.
 
 {{< /warning >}}
 

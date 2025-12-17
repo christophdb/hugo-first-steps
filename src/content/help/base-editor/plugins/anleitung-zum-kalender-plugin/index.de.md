@@ -1,10 +1,10 @@
 ---
 title: 'Anleitung zum Kalender-Plugin'
 date: 2022-11-07
-lastmod: '2023-08-14'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/de/hilfe/anleitung-zum-kalender-plugin'
 seo:
     title: 'Kalender-Plugin in SeaTable – einzigartige Ansichten nutzen'
@@ -20,6 +20,10 @@ Insgesamt gibt es 5 Darstellungsoptionen: Sie können sich Termine in einem kale
 Um die Kalender-Darstellung für eine Tabellenansicht verwenden zu können, benötigen Sie mindestens eine [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) haben.
 
 {{< /warning >}}
+
+## So richten Sie das Kalender-Plugin ein
+
+Achtung! Seit SeaTable 6.0 lässt sich das Plugin nicht mehr in Bases installieren. In Bases, in denen das Plugin bereits in Verwendung ist, steht es bis auf Weiteres zur Verfügung und kann uneingeschränkt genutzt werden. Unsere Empfehlung ist jedoch: Nutzen Sie die [Kalender-Ansicht]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Der Wechsel könnte kaum einfacher sein, denn SeaTable bietet die **Migration mit nur einem Klick**. Diese konvertiert einen Tab in einem Plugin ohne weiteren Aufwand in eine Ansicht vom gleichen Typ.
 
 ## Einstellungen im Kalender-Plugin
 

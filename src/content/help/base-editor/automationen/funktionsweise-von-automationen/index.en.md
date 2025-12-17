@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'How automations work in SeaTable: triggers & actions'
     description: 'Learn how automations streamline processes in SeaTable: triggers, actions, conditions and practical examples for efficient workflows.'
-
+weight: 4
 ---
 
 {{< required-version "Enterprise" >}}

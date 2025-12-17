@@ -4,16 +4,19 @@ date: 2022-11-16
 lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
-author: 'vge'
+author: 'kgr'
 url: '/fr/aide/filtrer-entrees-vue-seatable'
 aliases:
     - '/fr/aide/filtern-von-eintraegen-in-einer-ansicht'
 seo:
     title: 'Filtrer les entrées dans une vue SeaTable : guide rapide et options avancées'
     description: 'Découvrez comment filtrer efficacement les données d’une vue SeaTable, appliquer de multiples critères par colonne et utiliser des groupes de filtres personnalisés.'
+weight: 21
 ---
 
 La fonction de filtre de SeaTable permet de filtrer les entrées souhaitées d'un tableau à l'aide de **règles de filtrage** et de n'afficher que les entrées qui répondent à certains critères. Le filtre défini se rapporte uniquement à **la vue active**.
+
+{{< warning headline="Remarque importante" text="Avec les filtres, vous modifiez uniquement le nombre d'enregistrements affichés dans votre vue ! Le filtrage ne modifie pas la base de données et ne supprime pas les lignes invisibles. Par conséquent, si des enregistrements ont disparu, vérifiez si vous êtes dans la bonne vue ou si vous avez masqué des enregistrements à l'aide d'un filtre." />}}
 
 ## Filtrer les entrées d'une vue
 
@@ -28,22 +31,30 @@ La fonction de filtre de SeaTable permet de filtrer les entrées souhaitées d'u
 
 ## Les différentes conditions de filtrage
 
+SeaTable prend en charge le filtrage sur tous les [types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) sauf les boutons.
+
 Selon le **type de colonne** que vous souhaitez filtrer, les conditions que vous pouvez sélectionner s'adaptent également.
 
 ### Voici quelques exemples
 
-Voici les options de conditions dont vous disposez en cas de [Colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}):  
+Voici les options de conditions dont vous disposez en cas de [Colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}): 
+
 ![Filtrer la colonne de texte](images/filtern-von-eintraegen-5.png)
 
-Voici les options de conditions dont vous disposez en cas de [Colonne de sélection simple]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}):  
+Voici les options de conditions dont vous disposez en cas de [Colonne de sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}): 
+
 ![Filtre colonne de sélection unique](images/filtern-von-eintraegen-6.png)
 
-Voici les options de conditions dont vous disposez en cas de [Colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}):  
+Voici les options de conditions dont vous disposez en cas de [Colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}): 
+
 ![Filtrer la colonne d'images](images/filtern-von-eintraegen-7.png)
+
+Les lignes **avec des cellules vides** dans la colonne de filtrage ne sont en principe pas affichées, à moins que vous ne recherchiez explicitement "est vide".
 
 ## Supprimer un filtre
 
-Vous pouvez rétablir les filtres créés **supprimer**en cliquant sur le bouton **Symbole x** cliquer.  
+Vous pouvez **supprimer** les filtres créés en cliquant sur le bouton **x**.
+
 ![Suppression d'un filtre d'une vue](images/filtern-von-eintraegen.png)
 
 ## Appliquer plusieurs filtres
@@ -52,6 +63,6 @@ Vous pouvez créer un ou plusieurs filtres qui restreignent davantage la premiè
 
 ## Réorganiser les filtres
 
-Vous pouvez déplacer et réorganiser les filtres en déplaçant la souris sur le **Surface de préhension**, maintenir enfoncé, tirer et relâcher.
+Vous pouvez déplacer et réorganiser les filtres en déplaçant la souris sur le **surface de préhension de six points**, maintenir enfoncé, tirer et relâcher.
 
 ![Filtrer les entrées Trier](images/Filtern-von-Eintraegen-2.gif)

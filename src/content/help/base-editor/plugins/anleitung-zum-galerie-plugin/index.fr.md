@@ -1,10 +1,10 @@
 ---
 title: 'Instructions pour le plugin de galerie'
 date: 2023-01-08
-lastmod: '2023-06-29'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/fr/aide/guide-plugin-galerie-seatable'
 aliases:
     - '/fr/aide/anleitung-zum-galerie-plugin'
@@ -14,17 +14,15 @@ seo:
 
 ---
 
-Le **plug-in Galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
+Le **plug-in de galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
 
 Alors que dans l'**affichage du tableau**, les images sont représentées sous forme de miniatures et ne peuvent être agrandies qu'une à une en cliquant dessus, le plug-in de galerie vous permet d'obtenir une vue d'ensemble vivante de tous les enregistrements grâce aux **miniatures** plus grandes. Le plug-in Galerie regroupe toutes les images d'une ligne dans un **album**.
 
 ![Plugin de la galerie](images/Galerie-Plugin.png)
 
-## Pour configurer le plugin de la galerie, procédez comme suit
+## Pour configurer le plugin de galerie
 
-Pour pouvoir utiliser le **plugin de la galerie**, vous devez d'abord l'[activer]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) dans votre base.
-
-Définissez ensuite dans les paramètres pour quelle **vue du tableau** vous souhaitez créer une galerie et de quelle [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) les images doivent provenir. Pour le **titre**, indiquez la colonne dont vous souhaitez utiliser les entrées comme titre d'album.
+Attention ! Depuis la version 6.0 de SeaTable, le plugin ne peut plus être installé dans les bases. Dans les bases où le plugin est déjà utilisé, il est toujours disponible et peut être utilisé sans restriction. Cependant, nous vous recommandons d'utiliser la [vue de galerie]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}). Le changement ne pourrait pas être plus simple, car SeaTable propose la **Migration en un clic**. Celle-ci convertit un onglet dans un plugin en une vue du même type sans effort supplémentaire.
 
 ## Afficher et masquer les informations
 

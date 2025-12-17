@@ -4,16 +4,17 @@ date: 2023-04-25
 lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 seo:
     title: 'User-ID in SeaTable: Filtern nach eindeutiger Kennung'
     description: 'Nutzen Sie die User-ID für dynamische Filter und optimale Aufgabenverteilung. Mehr Flexibilität als mit klassischen Spalten.'
+weight: 23
 ---
 
 Die ID des Users lässt sich am besten mit einer **persönlichen Identifikationsnummer** beschreiben. Die ID des Users ist einzigartig innerhalb des Teams und gehört immer zu einem Teammitglied.
 
-Mithilfe der User-ID kann man in SeaTable **dynamische Filter** setzen, welche in gewissen Situationen besser geeignet ist als ein Filter nach der [Ersteller-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). In diesem Artikel stellen wir Ihnen die Vor- und Nachteile von Filtern mit der User-ID vor.
+Mithilfe der User-ID kann man in SeaTable einen **dynamischen Filter** setzen, welcher in gewissen Situationen besser geeignet ist als das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) oder [Mitarbeiter]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}). In diesem Artikel stellen wir Ihnen die Vor- und Nachteile von Filtern mit der User-ID vor.
 
 Wenn Sie wissen wollen, wie Sie die User-ID eines Teammitglieds ändern, [finden Sie in diesem Hilfeartikel die Antwort]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
@@ -45,7 +46,7 @@ Wenn Sie nun beispielsweise eine Tabelle pflegen, in die Sie die offenen Aufgabe
 
 ## Wann ist ein solcher Filter sinnvoll?
 
-Die Alternative wäre das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
+Die Alternative wäre das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) oder [Mitarbeiter]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
 
 - Der **Wert in der Ersteller-Spalte** lässt sich nachträglich _nicht_ mehr **ändern**. Einmal gesetzt, bleibt der Wert immer gleich. Dies wäre im oben genannten Beispiel problematisch, da der Ersteller der Aufgaben _nicht_ der Mitarbeiter ist.
 - Die **Mitarbeiter-Spalte** lässt sich nur füllen, wenn ein Teammitglied mindestens **Lesezugriff** auf die Base hat. Insbesondere beim Einsatz der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) ist dies vielleicht _nicht_ gewünscht.
