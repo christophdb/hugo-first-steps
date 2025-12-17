@@ -5,7 +5,9 @@ seo:
     title: 'Программное обеспечение для управления процессами с интегрированным искусственным интеллектом'
     description: 'Эффективно управляйте, стандартизируйте и автоматизируйте процессы с помощью SeaTable - бескодового решения AI для операционных команд.'
 date: '2025-11-05'
-url: '/ru/programmnoe-obespechenie-dlya-upravleniya-processami/'
+url: '/ru/software-upravleniya-processami/'
+aliases:
+  - '/ru/programmnoe-obespechenie-dlya-upravleniya-processami/'
 
 sections:
     - name: hero-5

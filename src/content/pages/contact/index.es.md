@@ -4,7 +4,9 @@ seo:
     title: 'Contacto – Soporte y ventas de SeaTable'
     description: 'Contáctanos para soporte y consultas sobre SeaTable en la nube o servidor propio. Encuentra el canal adecuado para tu necesidad.'
 date: '2025-04-03'
-url: '/es/contact'
+url: '/es/contacto'
+aliases:
+    - '/es/contact'
 
 sections:
     - name: form-contact

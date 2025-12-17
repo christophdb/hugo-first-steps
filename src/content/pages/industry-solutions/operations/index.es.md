@@ -5,7 +5,9 @@ seo:
     title: 'Software de gestión de procesos con IA integrada'
     descripcion: "Gestione, estandarice y automatice los procesos de forma eficaz con SeaTable, la solución sin código de IA para los equipos de operaciones."
 date: '2025-11-05'
-url: '/es/software-de-gestion-de-procesos/'
+url: '/es/software-gestion-procesos/'
+aliases:
+  - '/es/software-de-gestion-de-procesos/'
 
 sections:
     - name: hero-5

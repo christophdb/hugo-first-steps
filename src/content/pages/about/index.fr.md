@@ -2,7 +2,9 @@
 title: 'À propos de nous : Notre mission pour un travail efficace sur les données | SeaTable'
 description: ''
 date: '2025-04-03'
-url: '/fr/about-us'
+url: '/fr/a-propos'
+aliases:
+  - '/fr/about-us'
 seo:
     title: 'À propos : Données efficaces, équipes fortes'
     description: 'Nous aidons les entreprises à gérer leurs données avec des solutions low-code innovantes qui améliorent le quotidien.'

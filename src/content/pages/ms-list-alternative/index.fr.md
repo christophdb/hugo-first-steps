@@ -5,9 +5,10 @@ seo:
     title: 'Alternative à Microsoft Lists ? Reliez à SeaTable !'
     description: 'SeaTable est votre alternative flexible à Microsoft Lists. Travaillez en toute sécurité avec une souveraineté totale des données, une interface personnalisable et une API puissante.'
 date: '2025-04-30'
-url: '/fr/alternative-a-microsoft-lists'
+url: '/fr/alternative-microsoft-lists'
 aliases:
   - '/fr/microsoft-lists-alternative'
+  - '/fr/alternative-a-microsoft-lists'
 
 sections:
     - name: hero-5

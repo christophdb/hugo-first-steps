@@ -2,7 +2,9 @@
 title: 'Sobre nosotros: Nuestra misión para un trabajo eficiente con los datos | SeaTable'
 description: ''
 date: '2025-04-03'
-url: '/es/about-us'
+url: '/es/sobre-nosotros'
+aliases:
+  - '/es/about-us'
 seo:
     title: 'Sobre nosotros: Datos eficientes, equipos sólidos'
     description: 'Optimiza el uso de datos y mejora la gestión diaria con soluciones innovadoras low-code para equipos y empresas de todo tipo.'
