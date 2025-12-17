@@ -2,13 +2,12 @@
 title: 'Crear una lista de inventario: con una plantilla gratuita, Excel o Word'
 date: 2024-02-23
 lastmod: '2025-01-10'
-author: 'kgr'
 url: '/es/crear-lista-inventario'
 aliases:
     - /es/inventarliste-erstellen
 seo:
-    title:
-    description:
+    title: 'Crear inventario: controla tus existencias fácilmente'
+    description: 'Descubre cómo crear una lista de inventario en Excel, Word o SeaTable y estandarizar tu inventario para un control preciso de activos.'
 categories:
     - 'best-practice'
 tags:

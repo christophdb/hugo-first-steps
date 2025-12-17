@@ -7,8 +7,8 @@ url: '/ru/sozdat-inventarnyy-spisok'
 aliases:
     - /ru/inventarliste-erstellen
 seo:
-    title:
-    description:
+    title: 'Создать инвентарный список и навести порядок в учёте'
+    description: 'Узнайте, как создать инвентарную ведомость в Excel, Word или SeaTable и стандартизировать инвентаризацию для точного учёта активов.'
 categories:
     - 'best-practice'
 tags:

@@ -2,10 +2,10 @@
 title: 'Como criar o seu plano de medicação personalizado'
 description: 'Quer se trate de um comprimido de manhã, de gotas à noite ou de um spray de permeio: Qualquer pessoa que tome vários medicamentos sabe como é fácil perder o controlo sobre eles. Um horário de medicação ajuda-o a tomar os seus medicamentos de forma segura, atempada e na dose correta.'
 seo:
-    title: 'Plano de medicação | SeaTable'
-    description: 'Descubra como um plano de medicação o pode ajudar a controlar a sua toma de medicamentos.'
+    title: 'Crie seu plano de medicação e ganhe segurança'
+    description: 'Saiba como um plano de medicação ajuda a organizar doses, horários e interações para tomar seus remédios sempre de forma correta e segura.'
 date: 2025-08-13
-url: '/pt/plano-de-medicação'
+url: '/pt/plano-de-medicacao'
 tags:
     - 'Vida cotidiana e lazer'
 categories:
