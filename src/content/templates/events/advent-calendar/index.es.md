@@ -2,7 +2,9 @@
 title: 'Calendario de Adviento'
 description: 'Cree su calendario de adviento digital, añada sorpresas y compártalo por enlace – rápido de crear, disponible al instante.'
 date: '2025-02-28'
-url: '/es/plantilla/advent-calendar'
+url: '/es/plantilla/calendario-adviento'
+aliases:
+    - '/es/plantilla/advent-calendar'
 category: 'events'
 functions:
 seo:

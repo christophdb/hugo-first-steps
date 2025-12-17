@@ -2,7 +2,9 @@
 title: 'Calendário do Advento'
 description: 'Crie seu calendário do advento digital, adicione surpresas e compartilhe via link – rápido de criar, disponível na hora.'
 date: '2025-02-28'
-url: '/pt/modelo/advent-calendar'
+url: '/pt/modelo/calendario-advento'
+aliases:
+    - '/pt/modelo/advent-calendar'
 category: 'events'
 functions:
 seo:
