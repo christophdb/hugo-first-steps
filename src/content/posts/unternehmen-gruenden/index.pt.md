@@ -5,7 +5,7 @@ seo:
     title: 'Criar uma empresa de forma simples - explicado passo a passo'
     description: 'Tornar-se trabalhador por conta própria significa dar o salto para a liberdade e concretizar com êxito a sua ideia de negócio. Saiba como começar de forma estruturada desde o início e ultrapassar os obstáculos típicos com confiança.'
 date: 2025-09-25
-url: '/pt/fundação-da-empresa'
+url: '/pt/fundacao-da-empresa'
 tags:
     - 'Criar a sua empresa'
 categories:
