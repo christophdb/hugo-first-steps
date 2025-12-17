@@ -1,16 +1,17 @@
 ---
 title: 'Differences between private and normal views'
 date: 2022-11-07
-lastmod: '2023-11-27'
+lastmod: '2025-12-05'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'nsc2'
+author: 'kgr'
 url: '/help/differences-between-private-and-standard-views'
 aliases:
     - '/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
 seo:
     title: 'Private vs. Standard Views in SeaTable: Key Differences Explained'
     description: 'Learn the big differences between private and standard views in SeaTable and why private views are best for personal data analysis and work.'
+weight: 5
 ---
 
 {{< required-version "Enterprise" >}}
@@ -21,7 +22,7 @@ In SeaTable there is the possibility to create both normal and private views of 
 
 ## Personal data analysis with private views
 
-A view in SeaTable is the sum of the following settings: [Filters]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). In other words, each view offers an individual perspective on the data in your table.
+A view in SeaTable is the sum of many settings, including **filters, sorting, grouping, color highlighting and row height**. In other words, each view offers an individual perspective on the data in your table.
 
 The special feature of private views is that they are **not visible to other users**. Only the user who created the private view can see it.
 
@@ -30,6 +31,19 @@ Because changes to settings in a private view have no effect on other users, the
 ## Private views cannot be shared
 
 Another difference between normal and private views is that private views cannot be shared with other people. The corresponding icon for sharing this view is not available.
+
+## Create a private view
+
+![Create a new view](images/create-table-view.jpg)
+
+1. Click on the **Name of the current view**.
+2. Click on **Add view or folder** and select the desired **View type**.
+3. Give the new view a **name**.
+
+![Create a private view](images/create-private-view.jpg)
+
+4. Activate the slider to make the new view **private**.
+5. Confirm with **Submit**.
 
 ## Duplicate normal views as private views
 

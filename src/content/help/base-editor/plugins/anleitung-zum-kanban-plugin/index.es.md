@@ -1,10 +1,10 @@
 ---
 title: 'Guía del plugin Kanban'
 date: 2023-01-08
-lastmod: '2023-08-16'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/es/ayuda/guia-plugin-kanban'
 aliases:
     - '/es/ayuda/anleitung-zum-kanban-plugin'
@@ -15,8 +15,6 @@ seo:
 
 Un **tablero Kanban** puede ser útil para representar procesos dinámicos con distintas fases. En este sentido, permite visualizar **flujos de trabajo** y **avances de proyectos**, por ejemplo. Esto resulta especialmente útil para la planificación de proyectos, el desarrollo de productos o la distribución de tareas **en el equipo**.
 
-Menos mal que SeaTable te ofrece todas estas posibilidades con el **plugin Kanban**. Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
-
 ## Estructura del tablero Kanban
 
 El tablero Kanban consta de **columnas** que representan los distintos pasos o fases de un proceso. En un flujo de trabajo, por ejemplo, pueden ser "idea", "en curso", "realizado" y "planificado".
@@ -26,6 +24,10 @@ El tablero Kanban consta de **columnas** que representan los distintos pasos o f
 Proporcionas a las columnas **tarjetas móviles** que puedes **desplazar** tanto dentro de una columna como de una columna a otra. Por ejemplo, una tarjeta puede representar un paquete de trabajo o una tarea.
 
 ![Turnos Kanban](images/kanban.gif)
+
+## Cómo configurar el plugin Kanban
+
+¡Atención! Desde SeaTable 6.0, el plugin ya no puede instalarse en las bases. En las bases en las que ya se utiliza el plugin, está disponible hasta nuevo aviso y puede utilizarse sin restricciones. Sin embargo, nuestra recomendación es utilizar la [vista Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}). El cambio no podría ser más fácil, porque SeaTable ofrece **migración con un solo clic**. Esto convierte una pestaña de un plugin en una vista del mismo tipo sin más esfuerzo.
 
 ## Opciones de configuración de un tablero Kanban
 

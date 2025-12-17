@@ -1,10 +1,10 @@
 ---
-title: 'Guía de plugins de galerías'
+title: 'Guía del plugin de galería'
 date: 2023-01-08
-lastmod: '2023-06-29'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/es/ayuda/guia-plugin-galeria-seatable'
 aliases:
     - '/es/ayuda/anleitung-zum-galerie-plugin'
@@ -20,11 +20,9 @@ Mientras que las imágenes de la **vista de tabla** se muestran como miniaturas 
 
 ![Plugin de galería](images/Galerie-Plugin.png)
 
-## Para configurar el plug-in de la galería
+## Para configurar el plugin de galería
 
-Para utilizar el **plugin de galería**, primero debe [activarlo]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en su Base.
-
-A continuación, en la configuración, determine para qué **vista de tabla** desea crear una galería y de qué columna de [imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) deben proceder las imágenes. En **Título**, introduzca la columna cuyas entradas desea utilizar como título del álbum.
+¡Atención! Desde SeaTable 6.0, el plugin ya no puede instalarse en las bases. En las bases en las que ya se utiliza el plugin, está disponible hasta nuevo aviso y puede utilizarse sin restricciones. Sin embargo, nuestra recomendación es: utilice la [vista de galería]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}). El cambio no podría ser más fácil, porque SeaTable ofrece **migración con un solo clic**. Esto convierte una pestaña de un plugin en una vista del mismo tipo sin más esfuerzo.
 
 ## Mostrar y ocultar información
 

@@ -1,10 +1,10 @@
 ---
 title: 'Instructions pour le plugin de calendrier'
 date: 2022-11-07
-lastmod: '2023-08-14'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/fr/aide/guide-plugin-calendrier-seatable'
 aliases:
     - '/fr/aide/anleitung-zum-kalender-plugin'
@@ -13,7 +13,7 @@ seo:
     description: 'Découvrez comment utiliser le plugin calendrier dans SeaTable : visualisez vos rendez-vous par an, mois, semaine, agenda ou jour et personnalisez tout.'
 ---
 
-Le plug-in calendrier vous permet d'afficher les données d'un tableau sous forme **de calendrier**. Vous pouvez ainsi obtenir un aperçu de différentes **périodes** (année, mois, semaine, jour).
+Le plug-in de calendrier vous permet d'afficher les données d'un tableau sous forme de **calendrier**. Vous pouvez ainsi obtenir un aperçu de différentes **périodes** (année, mois, semaine, jour).
 
 Il existe en tout 5 options d'affichage : Vous pouvez afficher les rendez-vous dans une **vue d'ensemble** calendaire **annuelle**, **mensuelle** ou **hebdomadaire**, dans un **planning journalier** ou sous forme d'**agenda** mensuel sous forme de liste.
 
@@ -22,6 +22,10 @@ Il existe en tout 5 options d'affichage : Vous pouvez afficher les rendez-vous d
 Pour pouvoir utiliser la représentation du calendrier pour une vue de tableau, vous avez besoin d'au moins une [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 {{< /warning >}}
+
+## Pour configurer le plug-in de calendrier
+
+Attention ! Depuis la version 6.0 de SeaTable, le plugin ne peut plus être installé dans les bases. Dans les bases où le plugin est déjà utilisé, il est toujours disponible et peut être utilisé sans restriction. Cependant, nous vous recommandons d'utiliser la [vue de calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Le changement ne pourrait pas être plus simple, car SeaTable propose la **Migration en un clic**. Celle-ci convertit un onglet dans un plugin en une vue du même type sans effort supplémentaire.
 
 ## Paramètres du plugin calendrier
 

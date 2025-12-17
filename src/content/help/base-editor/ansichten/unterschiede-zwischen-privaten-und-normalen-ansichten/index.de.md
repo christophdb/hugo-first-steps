@@ -1,10 +1,10 @@
 ---
 title: 'Unterschiede zwischen privaten und normalen Ansichten'
 date: 2022-11-07
-lastmod: '2023-11-27'
+lastmod: '2025-12-05'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/unterschiede-zwischen-privaten-und-normalen-ansichten'
 seo:
     title: 'Unterschiede zwischen privaten und normalen Ansichten in SeaTable'

@@ -1,19 +1,20 @@
 ---
 title: 'Apagar uma vista'
 date: 2022-10-26
-lastmod: '2023-01-02'
+lastmod: '2025-12-05'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'vge'
+author: 'kgr'
 url: '/pt/ajuda/excluir-visualizacao'
 aliases:
     - '/pt/ajuda/loeschen-einer-ansicht'
 seo:
-    title: 'Excluir uma visualização no SeaTable – passo a passo fácil'
+    title: 'Excluir uma vista no SeaTable – passo a passo fácil'
     description: 'Saiba como excluir visualizações no SeaTable com segurança, com respostas sobre restauração e exclusão. Tutorial simples passo a passo.'
+weight: 11
 ---
 
-Pode apagar vistas que tenham sido criadas incorrectamente ou que se tenham tornado irrelevantes em qualquer altura, clicando no menu de visualização e seleccionando a opção **Apagar** Vista.
+É possível eliminar vistas de teste ou vistas que se tornaram irrelevantes em qualquer altura, selecionando a opção **Apagar vista**.
 
 ## Apagar uma vista
 
@@ -22,12 +23,11 @@ Pode apagar vistas que tenham sido criadas incorrectamente ou que se tenham torn
 3. **Três pontos** tornam-se visíveis na linha de vista. Seleccione-os.
 4. Seleccionar a opção **Eliminar Vista**.
 
-![Apagar uma vista](images/Loeschen-einer-Ansicht-1.gif)
+![Apagar uma vista](images/delete-view.jpg)
 
 ## Perguntas mais frequentes
 
-{{< faq "Uma vista eliminada pode ser restaurada?" >}}**Não**. Uma vez que uma vista não contém quaisquer dados próprios, mas é apenas uma representação especial dos dados, uma vista apagada não pode ser apagada nem através do caixote da reciclagem nem através do atalho {{< key "CTRL" >}} + {{< key "Z" >}} Restaurar.
+{{< faq "Uma vista eliminada pode ser restaurada?" >}}**Não**. Uma vez que uma vista não contém quaisquer dados próprios, mas é apenas uma representação especial dos dados, uma vista apagada não pode ser restaurada nem através do caixote da reciclagem nem através do atalho {{< key "CTRL" >}}+{{< key "Z" >}}.
 {{< /faq >}}
 {{< faq "Uma vista pode ser sempre apagada?" >}}Só pode eliminar vistas se tiver criado **pelo menos uma vista adicional** à vista padrão.
-
 {{< /faq >}}

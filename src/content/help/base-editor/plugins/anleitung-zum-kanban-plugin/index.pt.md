@@ -1,10 +1,10 @@
 ---
 title: 'Guia de Plug-in Kanban'
 date: 2023-01-08
-lastmod: '2023-08-16'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/pt/ajuda/guia-plugin-kanban'
 aliases:
     - '/pt/ajuda/anleitung-zum-kanban-plugin'
@@ -15,8 +15,6 @@ seo:
 
 Um **quadro Kanban** pode ser útil para representar processos dinâmicos com diferentes fases. A este respeito, permite-lhe visualizar **fluxos de trabalho** e **o progresso de um projeto**, por exemplo. Isto é particularmente útil para o planeamento de projectos, desenvolvimento de produtos ou distribuição de tarefas **na equipa**.
 
-Ainda bem que o SeaTable lhe oferece todas estas possibilidades com o **plugin Kanban**. Pode descobrir [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) como activar o plugin numa base.
-
 ## Estrutura do conselho Kanban
 
 O quadro Kanban é composto por **colunas** que representam os diferentes passos ou fases de um processo. Num fluxo de trabalho, por exemplo, estas colunas podem ser "ideia", "em curso", "concluído" e "planeado".
@@ -26,6 +24,10 @@ O quadro Kanban é composto por **colunas** que representam os diferentes passos
 Fornece-se as colunas com **cartões móveis** que se podem **mover** tanto dentro de uma coluna como de uma coluna para a outra. Por exemplo, um cartão pode significar um pacote de trabalho ou uma tarefa.
 
 ![Turnos de Kanban](images/kanban.gif)
+
+## Como configurar o plugin Kanban
+
+Atenção! Desde SeaTable 6.0, o plugin já não pode ser instalado nas bases. Nas bases em que o plugin já está a ser utilizado, este está disponível até nova ordem e pode ser utilizado sem restrições. No entanto, recomendamos-lhe que utilize a [vista Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}). A mudança não poderia ser mais fácil, porque o SeaTable oferece **migração com apenas um clique**. Isto converte um separador de um plugin numa vista do mesmo tipo sem qualquer esforço adicional.
 
 ## Opções de configuração de um quadro Kanban
 

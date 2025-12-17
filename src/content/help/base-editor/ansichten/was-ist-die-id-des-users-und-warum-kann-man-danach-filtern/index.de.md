@@ -4,7 +4,7 @@ date: 2023-04-25
 lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 seo:
     title: 'User-ID in SeaTable: Filtern nach eindeutiger Kennung'

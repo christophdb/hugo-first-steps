@@ -1,21 +1,22 @@
 ---
-title: 'O que é o ID de utilizador e como se pode filtrar com ele? - Mesa do mar'
+title: 'O que é o ID de utilizador e como se pode filtrar com ele?'
 date: 2023-04-25
 lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
-author: 'nsc2'
+author: 'kgr'
 url: '/pt/ajuda/id-usuario-filtro-seatable'
 aliases:
     - '/pt/ajuda/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 seo:
     title: 'ID do usuário: filtro dinâmico no SeaTable'
     description: 'Use a ID do usuário em filtros para atribuições flexíveis e seguras de tarefas no SeaTable, além das colunas padrão.'
+weight: 23
 ---
 
 O ID de utilizador é melhor descrito como um **número de identificação pessoal**. O ID de utilizador é único dentro da equipa e pertence sempre a um membro da equipa.
 
-Com a ajuda do ID do utilizador, é possível definir **filtros dinâmicos** no SeaTable, que em determinadas situações são mais adequados do que um filtro de acordo com a [coluna do criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Neste artigo, apresentamos as vantagens e desvantagens dos filtros com o ID do utilizador.
+Com a ajuda do ID do utilizador, é possível definir **filtros dinâmicos** no SeaTable, que em determinadas situações são mais adequados do que um filtro de acordo com a [coluna do criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}). Neste artigo, apresentamos as vantagens e desvantagens dos filtros com o ID do utilizador.
 
 Se quiser saber como alterar o ID de utilizador de um membro da equipa, [encontrará a resposta neste artigo de ajuda]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
@@ -50,17 +51,17 @@ Por exemplo, se se actualizar uma tabela na qual se entram as tarefas em aberto 
 
 ## Quando é que um filtro deste tipo faz sentido?
 
-A alternativa seria filtrar pela coluna [Creator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), que também oferecem opções de filtragem dinâmica. No entanto, estas duas colunas têm as seguintes desvantagens:
+A alternativa seria filtrar pela [coluna do criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), que também oferecem opções de filtragem dinâmica. No entanto, estas duas colunas têm as seguintes desvantagens:
 
 - O **valor na coluna do criador** _não pode_ ser **alterado** posteriormente. Uma vez definido, o valor permanece sempre o mesmo. Isto seria problemático no exemplo acima porque o criador das tarefas _não_ é o empregado.
-- A **coluna do pessoal** só pode ser preenchida se um membro da equipa tiver, pelo menos, **acesso de leitura** à base. Isto pode _não_ ser desejável, especialmente quando se utiliza a [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
-- A coluna do pessoal _não pode_ ser **preenchida automaticamente através do formulário Web**. No entanto, o ID do utilizador pode ser definido como o valor predefinido atribuindo _{creator.id}_.
+- A **coluna do colaborador** só pode ser preenchida se um membro da equipa tiver, pelo menos, **acesso de leitura** à base. Isto pode _não_ ser desejável, especialmente quando se utiliza a [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+- A coluna do colaborador _não pode_ ser **preenchida automaticamente através do formulário Web**. No entanto, o ID do utilizador pode ser definido como o valor predefinido atribuindo _{creator.id}_.
 
 É possível ajustar o **ID do utilizador** introduzido na coluna de texto em qualquer altura. Assim, se pretender alterar **posteriormente** a atribuição de uma linha, a filtragem pelo ID do utilizador é muito útil.
 
 ### Exemplo: Atribuição de tarefas
 
-Imagine uma lista de afazeres com a qual introduz tarefas no SeaTable. A **coluna do criador** está _fora de_ questão para atribuir a pessoa responsável, porque os membros da equipa só poderiam criar tarefas e atribuí-las a si próprios. A **coluna do pessoal** é a solução mais óbvia, mas apenas se todos os membros da equipa tiverem, pelo menos, acesso de leitura à base. Se os membros da equipa não puderem ver as tarefas dos seus colegas em circunstância alguma, recomenda-se a utilização do ID de utilizador para atribuir a pessoa responsável.
+Imagine uma lista de afazeres com a qual introduz tarefas no SeaTable. A **coluna do criador** está _fora de_ questão para atribuir a pessoa responsável, porque os membros da equipa só poderiam criar tarefas e atribuí-las a si próprios. A **coluna do colaborador** é a solução mais óbvia, mas apenas se todos os membros da equipa tiverem, pelo menos, acesso de leitura à base. Se os membros da equipa não puderem ver as tarefas dos seus colegas em circunstância alguma, recomenda-se a utilização do ID de utilizador para atribuir a pessoa responsável.
 
 Se atribuir a tarefa aberta _"planear a próxima reunião"_ de _Markus_ a outro membro da equipa, ou seja, se alterar o **ID do utilizador** nesta linha de _20 (Markus)_ para _23 (Helmut_ ), por exemplo, a linha correspondente é automaticamente **filtrada da** vista de tabela de Markus e adicionada à vista de tabela de Helmut.
 

@@ -48,6 +48,6 @@ Filterregeln lassen sich darüber hinaus mit den beiden Boole'schen Operatoren U
 
 ## Sperren von Filter-, Sortierungs- und Gruppierungseinstellungen
 
-Die von Ihnen vorgenommenen Einstellungen mittels Filtern, Gruppierungen und Sortierungen werden jeweils in der aktuellen Ansicht gespeichert. Wenn Sie diese für eine zukünftige Verwendung sichern wollen, können Sie die Ansicht sperren, damit niemand die Ansicht verändert.
+Die von Ihnen vorgenommenen Einstellungen mittels Filtern, Gruppierungen und Sortierungen werden jeweils in der aktuellen Ansicht gespeichert. Wenn Sie diese für eine zukünftige Verwendung sichern wollen, können Sie die [Ansicht sperren]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}), damit niemand die Ansicht verändert.
 
 {{< warning headline="Wichtiger Hinweis" text="Mit Filtern, Gruppierungen und Sortierungen ändern Sie nur, wie die Daten in Ihrer Ansicht angezeigt werden! Die Datengrundlage bleibt unverändert. Wenn also Datensätze verschwunden sind, prüfen Sie, ob Sie in der richtigen Ansicht sind oder ob Sie Datensätze mit einem Filter ausgeblendet haben." />}}

@@ -4,18 +4,19 @@ date: 2023-04-25
 lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
-author: 'nsc2'
+author: 'kgr'
 url: '/fr/aide/filtrer-par-id-utilisateur'
 aliases:
     - '/fr/aide/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 seo:
     title: 'Filtrer par ID utilisateur dans SeaTable'
     description: 'Utilisez l’ID utilisateur pour des filtres dynamiques et attribuez des tâches de façon flexible et sécurisée dans SeaTable.'
+weight: 23
 ---
 
 L'ID de l'utilisateur se décrit le mieux par un **numéro d'identification personnel**. L'ID de l'utilisateur est unique au sein de l'équipe et appartient toujours à un membre de l'équipe.
 
-L'ID d'utilisateur permet de définir **des filtres dynamiques** dans SeaTable, ce qui, dans certaines situations, est plus approprié qu'un filtre basé sur la [colonne du créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Dans cet article, nous vous présentons les avantages et les inconvénients des filtres avec l'ID utilisateur.
+L'ID d'utilisateur permet de définir **des filtres dynamiques** dans SeaTable, ce qui, dans certaines situations, est plus approprié qu'un filtre basé sur la [colonne du créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}). Dans cet article, nous vous présentons les avantages et les inconvénients des filtres avec l'ID utilisateur.
 
 Si vous voulez savoir comment modifier l'ID utilisateur d'un membre de l'équipe, [vous trouverez la réponse dans cet article d'aide]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
@@ -50,9 +51,9 @@ Si vous gérez par exemple un tableau dans lequel vous saisissez les tâches ouv
 
 ## Quand un tel filtre est-il utile ?
 
-L'alternative serait de filtrer selon la colonne [Créateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
+L'alternative serait de filtrer selon la colonne [Créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
 
-- La **valeur dans la colonne "Créateur** " ne peut _plus_ être **modifiée** ultérieurement. Une fois définie, la valeur reste toujours la même. Cela poserait problème dans l'exemple ci-dessus, car le créateur des tâches n'est _pas_ le collaborateur.
+- La **valeur dans la colonne du créateur** ne peut _plus_ être **modifiée** ultérieurement. Une fois définie, la valeur reste toujours la même. Cela poserait problème dans l'exemple ci-dessus, car le créateur des tâches n'est _pas_ le collaborateur.
 - La **colonne des collaborateurs** ne peut être remplie que si un membre de l'équipe a au moins **un accès en lecture** à la base. Cela n'est peut-être _pas_ souhaitable, en particulier lors de l'utilisation de l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 - La colonne des collaborateurs ne peut _pas_ être **remplie automatiquement via le formulaire web**. Par contre, l'ID de l'utilisateur peut être définie comme valeur par défaut par l'attribution de _{creator.id}_.
 
@@ -60,7 +61,7 @@ Vous pouvez adapter à tout moment l'**ID utilisateur** inscrit dans la colonne 
 
 ### Exemple : attribution de tâches
 
-Imaginez une liste de choses à faire qui vous permette de saisir des tâches dans SeaTable. La **colonne Créateur** n'est _pas_ envisageable pour l'attribution du responsable, car les membres de l'équipe ne pourraient alors que créer eux-mêmes des tâches et se les attribuer. La **colonne des collaborateurs** est la solution la plus évidente, mais uniquement si tous les membres de l'équipe ont au moins un accès en lecture à la base. Si les collaborateurs ne doivent en aucun cas voir les tâches de leurs collègues, il est recommandé d'utiliser l'ID utilisateur pour attribuer le responsable.
+Imaginez une liste de choses à faire qui vous permette de saisir des tâches dans SeaTable. La **colonne du créateur** n'est _pas_ envisageable pour l'attribution du responsable, car les membres de l'équipe ne pourraient alors que créer eux-mêmes des tâches et se les attribuer. La **colonne des collaborateurs** est la solution la plus évidente, mais uniquement si tous les membres de l'équipe ont au moins un accès en lecture à la base. Si les collaborateurs ne doivent en aucun cas voir les tâches de leurs collègues, il est recommandé d'utiliser l'ID utilisateur pour attribuer le responsable.
 
 Si vous attribuez la tâche ouverte _"plan next meeting"_ de _Markus_ à un autre collaborateur, c'est-à-dire si vous modifiez l'**ID de l'utilisateur** dans cette ligne, par exemple de _20 (Markus)_ à _23 (Helmut)_, la ligne correspondante est automatiquement **filtrée** de la vue tableau de Markus et ajoutée à la vue tableau de Helmut.
 

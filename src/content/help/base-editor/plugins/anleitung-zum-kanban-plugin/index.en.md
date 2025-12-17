@@ -1,10 +1,10 @@
 ---
 title: 'Kanban Plugin Guide'
 date: 2023-01-08
-lastmod: '2023-08-16'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/help/kanban-plugin-guide'
 aliases:
     - '/help/anleitung-zum-kanban-plugin'
@@ -15,8 +15,6 @@ seo:
 
 A **Kanban board** can be useful to represent dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. This is particularly helpful for project planning, product development or task distribution **in the team**.
 
-Good that SeaTable offers you all these possibilities with the **Kanban plugin**. You can learn how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
-
 ## Structure of the Kanban board
 
 The Kanban board consists of **columns** that stand for different steps or phases in a process. In a workflow, for example, these can be "idea", "in progress", "done" and "planned".
@@ -26,6 +24,10 @@ The Kanban board consists of **columns** that stand for different steps or phase
 You provide the columns with **movable cards** that you can **move** both within a column and from one column to the next. For example, a card can stand for a work package or a task.
 
 ![Kanban shifts](images/kanban.gif)
+
+## How to set up the Kanban plugin
+
+Attention! Since SeaTable 6.0, the plugin can no longer be installed in bases. In bases in which the plugin is already in use, it is available until further notice and can be used without restriction. However, our recommendation is to use the [Kanban view]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}). Switching could hardly be easier, because SeaTable offers **migration with just one click**. This converts a tab in a plugin into a view of the same type without any further effort.
 
 ## Setting options of a Kanban board
 

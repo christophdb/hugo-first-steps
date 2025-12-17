@@ -4,24 +4,25 @@ date: 2022-10-26
 lastmod: '2023-03-28'
 categories:
     - 'ansichtsoptionen'
-author: 'nsc2'
+author: 'kgr'
 url: '/help/adjust-row-height'
 aliases:
     - '/help/zeilenhoehe-anpassen'
 seo:
     title: 'Adjust Row Height in SeaTable and See More Data'
     description: 'Learn how to change row height in any SeaTable view and display more data. Step-by-step guide for all settings and best practices.'
+weight: 29
 ---
 
-By default, SeaTable displays all rows with a compact row height to show as many records as possible. However, with this **simple row height**, among other things, [text]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) and [multiple selection columns]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) are truncated and only small **thumbnails** of images are displayed.
+By default, SeaTable displays all rows with a compact row height to show as many records as possible. However, with this **default row height**, among other things, [text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [link]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})and [multiple select columns]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) are truncated and only small **thumbnails** of images are displayed.
 
 ![Truncated cell contents](images/small-row-height-cut-cells.png)
 
-This row height may be suitable for most of your use cases, but there may be situations when you want to see more content of the respective rows . That's why SeaTable allows you to adjust the row height in each of your views.
+This row height may be suitable for most of your use cases, but there may be situations when you want to see more content of the respective rows. That's why SeaTable allows you to adjust the row height in each of your views.
 
-Specifically, four different line heights are available for this purpose:
+Specifically, four different row heights are available for this purpose:
 
-- Simple (the default value for new tables and views)
+- Default
 - Double
 - Triple
 - Quadruple
@@ -31,5 +32,6 @@ Specifically, four different line heights are available for this purpose:
 ![Adjust row height](images/set-row-height-new.gif)
 
 1. Click the **row height** icon in the view options.
-2. **Select** the desired line height.
-   {{< warning  headline="One line height for all rows"  text="The row height is always adjusted for **all** rows of a view. Individual row heights within a view are not possible." />}}
+2. **Set** the desired row height.
+
+{{< warning  headline="One row height for all rows"  text="The row height is always adjusted for **all** rows of a view. Individual row heights within a view are not possible." />}}

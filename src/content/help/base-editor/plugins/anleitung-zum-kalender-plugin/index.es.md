@@ -1,10 +1,10 @@
 ---
 title: 'Guía del plugin del calendario'
 date: 2022-11-07
-lastmod: '2023-08-14'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/es/ayuda/guia-plugin-calendario-seatable'
 aliases:
     - '/es/ayuda/anleitung-zum-kalender-plugin'
@@ -13,7 +13,7 @@ seo:
     description: 'Aprende a ver y configurar el plugin de calendario en SeaTable: muestra eventos por año, mes, semana, agenda o día. Visualiza y organiza todo fácil.'
 ---
 
-El complemento de calendario muestra los datos de una tabla en **forma de calendario.** Puede obtener una visión general de diferentes **periodos de tiempo** (año, mes, semana, día).
+El plugin de calendario muestra los datos de una tabla en **forma de calendario.** Puede obtener una visión general de diferentes **periodos de tiempo** (año, mes, semana, día).
 
 Hay un total de 5 opciones de visualización: Puede visualizar las citas en una **vista general** **anual**, **mensual** o **semanal** del calendario, en la **agenda diaria** o como **agenda** mensual en forma de lista.
 
@@ -23,13 +23,17 @@ Para utilizar la visualización de calendario para una vista de tabla, necesita 
 
 {{< /warning >}}
 
+## Para configurar el plugin de calendario
+
+¡Atención! Desde SeaTable 6.0, el plugin ya no puede instalarse en las bases. En las bases en las que ya se utiliza el plugin, está disponible hasta nuevo aviso y puede utilizarse sin restricciones. Sin embargo, nuestra recomendación es: utilice la [vista de calendario]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). El cambio difícilmente podría ser más fácil, ya que SeaTable ofrece **migración con un solo clic**. Esto convierte una pestaña de un plugin en una vista del mismo tipo sin más esfuerzo.
+
 ## Configuración del plugin de calendario
 
-Para realizar ajustes en el complemento de calendario:
+Para realizar ajustes en el plugin de calendario:
 
 ![Instrucciones para el plugin de calendario](images/Anleitung-zum-Kalender-Plugin.gif)
 
-1. Abra el **complemento de calendario**.
+1. Abra el **plugin de calendario**.
 2. Aparece una gran ventana. Haga clic en el botón **Símbolo del engranaje** {{< seatable-icon icon="dtable-icon-set-up" >}} y defina los siguientes parámetros:
     - Tabla
     - Ver
@@ -39,9 +43,9 @@ Para realizar ajustes en el complemento de calendario:
     - Color
     - Comienzo de la semana
 
-{{< warning  headline="Nota"  text="La primera vez que abra el complemento de calendario, se le mostrarán los **ajustes** sin tener que hacer clic en el icono de la rueda dentada." />}}
+{{< warning  headline="Nota"  text="La primera vez que abra el plugin de calendario, se le mostrarán los **ajustes** sin tener que hacer clic en el icono de la rueda dentada." />}}
 
-En los ajustes, primero se determina a qué **vista de tabla** debe referirse el complemento de calendario. Las citas de la agenda reciben el nombre de las entradas de la **columna de título** seleccionada.
+En los ajustes, primero se determina a qué **vista de tabla** debe referirse el plugin de calendario. Las citas de la agenda reciben el nombre de las entradas de la **columna de título** seleccionada.
 
 En **Columna para fecha de inicio** se especifica a partir de qué columna de fecha de la tabla deben originarse las entradas del calendario. Opcionalmente, puede introducir una **columna para la fecha de finalización** con el fin de mostrar la duración de las citas en el calendario.
 
@@ -49,9 +53,9 @@ El **color de** una entrada de la agenda depende del color de su fila en la tabl
 
 ## Las opciones de visualización en detalle
 
-Puede cambiar fácilmente entre las cinco opciones de visualización del complemento de calendario. Para ello, basta con hacer clic en la opción correspondiente del **botón** situado encima del calendario.
+Puede cambiar fácilmente entre las cinco opciones de visualización del plugin de calendario. Para ello, basta con hacer clic en la opción correspondiente del **botón** situado encima del calendario.
 
-![Opciones de visualización del complemento de calendario](images/Darstellungsoptionen-des-Kalender-Plugins.png)
+![Opciones de visualización del plugin de calendario](images/Darstellungsoptionen-des-Kalender-Plugins.png)
 
 ### Panorama anual
 
@@ -77,6 +81,6 @@ La agenda diaria es especialmente adecuada si desea tener varias citas en la pan
 
 La **agenda** enumera todas las citas de un **mes** y le ofrece la posibilidad de ver cierta **información** sobre las citas de un vistazo.
 
-Para ello, basta con mostrar las **columnas** deseadas **de** la tabla en los **ajustes** del complemento de calendario: por ejemplo, participantes, lugar e imágenes de un acto o tema y tipo de una publicación.
+Para ello, basta con mostrar las **columnas** deseadas **de** la tabla en los **ajustes** del plugin de calendario: por ejemplo, participantes, lugar e imágenes de un acto o tema y tipo de una publicación.
 
 ![Configuración de la vista de la agenda](images/agenda-view-einstellungen.png)

@@ -25,7 +25,7 @@ Sie können eine Big-Data-Ansicht nur dann erstellen, wenn Sie innerhalb der Bas
 
 ![Eine Big Data Ansicht erstellen](images/create-big-data-view.jpg)
 
-1. Klicken Sie auf den Namen der **aktuellen Ansicht**.
+1. Klicken Sie auf den **Namen der aktuellen Ansicht**.
 2. Klicken Sie auf **Ansicht oder Ordner hinzufügen** und wählen Sie den gewünschten **Ansichtstyp** aus.
 
 ![Eine Big-Data-Ansicht anlegen](images/name-big-data-view.jpg)

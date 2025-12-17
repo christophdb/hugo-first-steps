@@ -1,10 +1,10 @@
 ---
 title: 'Calendar plugin guide'
 date: 2022-11-07
-lastmod: '2023-08-14'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
-author: 'vge'
+author: 'kgr'
 url: '/help/calendar-plugin-guide-seatable'
 aliases:
     - '/help/anleitung-zum-kalender-plugin'
@@ -22,6 +22,10 @@ There are 5 display options in total: You can display appointments in a calendar
 To use the calendar display for a table view, you need at least one [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 {{< /warning >}}
+
+## To set up the calendar plugin
+
+Attention! Since SeaTable 6.0, the plugin can no longer be installed in bases. In bases in which the plugin is already in use, it is available until further notice and can be used without restriction. However, our recommendation is to use the [Calendar view]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Switching could hardly be easier, because SeaTable offers **migration with just one click**. This converts a tab in a plugin into a view of the same type without any further effort.
 
 ## Calendar plugin settings
 

@@ -51,7 +51,9 @@ Zeilen **mit leeren Zellen** in der Filterungsspalte werden grundsätzlich nicht
 
 ## Einen Filter entfernen
 
-Sie können erstellte Filter wieder **löschen**, indem Sie auf das **x-Symbol** klicken. ![Entfernung eines Filters einer Ansicht](images/filtern-von-eintraegen.png)
+Sie können erstellte Filter wieder **löschen**, indem Sie auf das **x-Symbol** klicken.
+
+![Entfernung eines Filters einer Ansicht](images/filtern-von-eintraegen.png)
 
 ## Mehrere Filter anwenden
 

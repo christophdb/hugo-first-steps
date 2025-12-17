@@ -20,11 +20,9 @@ While the images in the **table view** are displayed as thumbnails and can only 
 
 ![Gallery plugin](images/Galerie-Plugin.png)
 
-## To set up the gallery plugin
+## Install the gallery plugin
 
-In order to use the **Gallery plugin**, you must first [enable]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) it in your base.
-
-Then, in the settings, specify for which **table view** you want to create a gallery and from which [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) the images should come. For **Title**, specify the column whose entries you want to use as album title.
+Attention! Since SeaTable 6.0, the plugin can no longer be installed in bases. In bases where the plugin is already in use, it is available until further notice and can be used without restriction. However, our recommendation is: Use the [gallery view]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}). Switching could hardly be easier, because SeaTable offers **migration with just one click**. This converts a tab in a plugin into a view of the same type without any further effort.
 
 ## Show and hide information
 
