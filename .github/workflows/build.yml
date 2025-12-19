@@ -53,7 +53,9 @@ jobs:
                   if [[ "${{ vars.SKIP_MUFFET }}" == "true" || "${{ github.ref_name }}" == "skip-muffet-branch" ]]; then
                     SKIP=true
                   fi
+                  echo "skipped=$SKIP" >> $GITHUB_OUTPUT
                   echo "Skip check-links: $SKIP"
+
             - name: Checkout repository
               if: steps.check.outputs.skipped != 'true'
               uses: actions/checkout@v4
