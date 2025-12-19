@@ -46,30 +46,45 @@ jobs:
         name: Check links
         runs-on: ubuntu-22.04
         steps:
-            - name: Early skip
+            - name: Determine if skip
+              id: check
               run: |
+                  SKIP=false
                   if [[ "${{ vars.SKIP_MUFFET }}" == "true" || "${{ github.ref_name }}" == "skip-muffet-branch" ]]; then
-                    echo "Links check skipped"
-                    exit 0  # Erfolgreich beenden
+                    SKIP=true
                   fi
+                  echo "Skip check-links: $SKIP"
             - name: Checkout repository
+              if: steps.check.outputs.skipped != 'true'
               uses: actions/checkout@v4
+
             - uses: actions/setup-go@v2
+              if: steps.check.outputs.skipped != 'true'
               with:
                   go-version: ${{ env.GO_VERSION }}
+
             - name: Start development server
+              if: steps.check.outputs.skipped != 'true'
               run: docker compose up -d
+
             - name: Add $GOPATH/bin to $PATH
+              if: steps.check.outputs.skipped != 'true'
               run: |
                   echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
             - name: Install muffet
+              if: steps.check.outputs.skipped != 'true'
               run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
+
             - name: 'Wait until the container is healthy'
+              if: steps.check.outputs.skipped != 'true'
               uses: raschmitt/wait-for-healthy-container/@master
               with:
                   container-name: hugo
                   timeout: 240
+
             - name: Check links
+              if: steps.check.outputs.skipped != 'true'
               run: muffet -t60 -c30 -f -i 'http://127*' -i 'http://localhost' -e '/js/script.js' -e '/api/event' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
     deploy:
