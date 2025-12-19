@@ -13,7 +13,7 @@
 
 {{ if eq .style "primary" }}
     <a
-        class="bg-gradient rounded-xl px-7 py-4 font-poppins text-lg font-bold text-white"
+        class="bg-gradient {{ .extra_class | default "" }} rounded-xl px-7 py-4 font-poppins text-lg font-bold text-white"
         href="{{ $link }}"
         {{ if $external }}target="_blank" rel="nofollow"{{ end }}
         {{ with .id }}id="{{ . }}"{{ end }}
@@ -23,12 +23,12 @@
     <!-- TODO: Add icon to render-link.html -->
 {{ else if eq .style "text" }}
     <div class="flex items-center gap-1">
-        <a href="{{ $link }}" {{ if $external }}target="_blank" rel="nofollow"{{ end }} {{ with .id }}id="{{ . }}"{{ end }}>{{ .label }}</a>
+        <a href="{{ $link }}" {{ if $external }}target="_blank" rel="nofollow"{{ end }} {{ with .id }}id="{{ . }}"{{ end }} class="{{ .extra_class | default "" }}">{{ .label }}</a>
         {{ partial "icon.html" "arrow-right" }}
     </div>
 {{ else }}
     <a
-        class="box-border inline-block whitespace-normal rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-lg font-bold text-gray-800"
+        class="{{ .extra_class | default "" }} box-border inline-block whitespace-normal rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-lg font-bold text-gray-800"
         href="{{ $link }}"
         {{ if $external }}target="_blank" rel="nofollow"{{ end }}
         {{ with .id }}id="{{ . }}"{{ end }}>
