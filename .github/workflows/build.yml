@@ -45,8 +45,13 @@ jobs:
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
-        if: vars.SKIP_MUFFET != 'true' && github.ref_name != 'skip-muffet-branch'
         steps:
+            - name: Early skip
+              run: |
+                  if [[ "${{ vars.SKIP_MUFFET }}" == "true" || "${{ github.ref_name }}" == "skip-muffet-branch" ]]; then
+                    echo "Links check skipped"
+                    exit 0  # Erfolgreich beenden
+                  fi
             - name: Checkout repository
               uses: actions/checkout@v4
             - uses: actions/setup-go@v2
