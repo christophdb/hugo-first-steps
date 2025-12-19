@@ -45,7 +45,7 @@ jobs:
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
-        if: vars.SKIP_MUFFET != 'true'
+        if: vars.SKIP_MUFFET != 'true' && github.ref_name != 'skip-muffet-branch'
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
