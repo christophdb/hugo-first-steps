@@ -23,41 +23,50 @@
                 <div class="text-base font-bold text-gray-700">Back to Directory</div>
             </div>
 
+            {{ $partner := .Params.partner }}
+
+
             <div class="mt-16 flex w-full flex-col gap-12 md:flex-row">
                 <!-- left -->
                 <div class="flex w-full flex-col gap-4 md:w-80 md:max-w-80">
                     <div class="rounded-lg border border-gray-300">
-                        <span class="block w-full rounded-t-lg bg-green-800 px-2 py-4 text-center font-poppins text-xl font-bold text-white">Solution partner</span>
-                        <img
-                            src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMTFjMTJiZDQtOGFlMC00YTU5LTgwNzktMDIwNWY1ZWMzN2Y5L2ZhZDkyOGY4LWE5MmEtNDdkMi1hMTM2LTVhYTIyOGVjNTc3OC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0Ijo4MCwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
-                            alt="Feature Image"
-                            class="mx-auto my-8 block h-20 w-48 object-contain" />
+                        <span class="block w-full rounded-t-lg bg-green-800 px-2 py-4 text-center font-poppins text-xl font-bold text-white"
+                            >{{ index $partner.partner_type 0 }}</span
+                        >
+                        {{/* FIXME: Image requires authentication */}}
+                        <img src="{{ $partner.company_logo }}" alt="{{ $partner.partner }}" class="mx-auto my-8 block h-20 w-48 object-contain" />
                         <div class="mb-8 mt-4 flex flex-col gap-1 border-t border-gray-200 px-6">
-                            <h3 class="!pt-6 pb-4 !text-xl tracking-tight">Upsmart</h3>
-                            <span class="text-gray-600">Amsterdam, Netherlands</span>
-                            <a href="#" class="mt-8 block rounded-lg bg-green-800 px-4 py-2 text-center font-bold text-white">Contact</a>
-                            <a href="#" class="mt-2 block rounded-lg border border-gray-400 px-4 py-2 text-center font-bold text-gray-800">Website</a>
+                            <h3 class="!pt-6 pb-4 !text-xl tracking-tight">{{ $partner.partner }}</h3>
+                            <span class="text-gray-600">{{ $partner.company_address }} </span>
+                            <a href="mailto:{{ $partner.contact_email }}" class="mt-8 block rounded-lg bg-green-800 px-4 py-2 text-center font-bold text-white">Contact</a>
+                            <a
+                                href="{{ $partner.company_website }}"
+                                target="_blank"
+                                class="mt-2 block rounded-lg border border-gray-400 px-4 py-2 text-center font-bold text-gray-800"
+                                >Website</a
+                            >
                         </div>
                     </div>
                     <div class="flex flex-col gap-4 rounded-lg border border-gray-300 p-6">
                         <div>
                             <h3>Industry Expertise</h3>
                             <ul class="list-disc pl-6 pt-1">
-                                <li>Automative</li>
-                                <li>Banking</li>
-                                <li>B2B</li>
-                                <li>Call center</li>
+                                {{ range $partner.industry_expertise }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
                             </ul>
                         </div>
 
                         <div>
                             <h3>Services</h3>
                             <ul class="list-disc pl-6 pt-1">
-                                <li>User training</li>
-                                <li>Scripting</li>
+                                {{ range $partner.support_areas }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
                             </ul>
                         </div>
 
+                        <!-- FIXME: Needs to be added to base -->
                         <div>
                             <h3>Region</h3>
                             <ul class="list-disc pl-6 pt-1">
@@ -68,8 +77,9 @@
                         <div>
                             <h3>Language</h3>
                             <ul class="list-disc pl-6 pt-1">
-                                <li>Englisch</li>
-                                <li>Deutsch</li>
+                                {{ range $partner.languages }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
                             </ul>
                         </div>
                     </div>
@@ -77,31 +87,22 @@
                     <div class="flex flex-col gap-4 rounded-lg border border-gray-300 p-6">
                         <h3>Contact</h3>
                         <div class="flex flex-col pl-2 text-sm">
-                            <span class="pb-2 font-bold text-gray-600">Max Mustermann</span>
-                            <span class="text-gray-600">Managing Director</span>
-                            <span class="text-gray-600">a.prinz@prozessgesteuert.de</span>
-                            <span class="text-gray-600">+49 221 17735638</span>
+                            <span class="pb-2 font-bold text-gray-600">{{ $partner.contact_name }}</span>
+                            <span class="text-gray-600">{{ $partner.contact_position }}</span>
+                            {{/* TODO: Spam protection? */}}
+                            <span class="text-gray-600">{{ $partner.email_for_customer_inquiries }}</span>
+                            <span class="text-gray-600">{{ $partner.phone_number_for_customer_inquiries }}</span>
                         </div>
                     </div>
                 </div>
 
                 <!-- max width of the blog posts is 768px -> image optimization -->
                 <div class="w-full md:w-3/5">
-                    <h2 class="mt-0 !pt-0 pb-4 text-3xl">About Upsmart</h2>
+                    <h2 class="mt-0 !pt-0 pb-4 text-3xl">About {{ $partner.partner }}</h2>
 
-                    <p class="pb-4">
-                        We believe everyone should spend as much time as possible on value-adding activities. With our extensive experience, we deeply understand sales processes
-                        and identify efficiency improvements.
-                    </p>
-                    <p class="pb-4">
-                        We implement Pipedrive, tailored to your sales process and integrated with existing systems. We train the team on proper usage and provide support when
-                        needed.
-                    </p>
-                    <p class="pb-4">
-                        Since 2016 Upsmart has been a Pipedrive Solution Provider. We are now the largest Pipedrive Solution Provider in the Benelux and have achieved the unique
-                        Elite Partner status.
-                    </p>
+                    {{ .Content }}
 
+                    {{/* TODO: Former Clients */}}
                     <h3 class="mt-12 border-t pb-4 pt-12 text-xl">Former Clients</h3>
                     <div class="grid grid-cols-3 gap-12">
                         <div class="flex h-24 items-center justify-center rounded-xl border p-4">
@@ -121,6 +122,7 @@
                         </div>
                     </div>
 
+                    {{/* TODO: Customer References */}}
                     <h3 class="pb-4 pt-20 text-xl">Customer References</h3>
                     ...
                 </div>

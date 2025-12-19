@@ -5,10 +5,7 @@
             {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
         </div>
 
-        {{ $partners := .Site.Data.partners }}
-
-
-        <div x-data="{{ $partners | jsonify }}" class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+        <div x-data="partners()" class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
             <!-- Categories -->
             <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
                 <div class="sticky top-8 py-2 pl-5">
@@ -18,12 +15,7 @@
                         <!-- Sprache -->
                         <label class="poppins my-6 block text-base font-bold">
                             Sprache
-                            <div
-                                x-data="filterSelect({
-                                    param: 'f_language',
-                                    options: ['Deutsch', 'Englisch', 'Französisch', 'Griechisch']
-                                    })"
-                                class="relative mt-1">
+                            <div x-data="languageFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
                                     type="button"
@@ -55,12 +47,7 @@
                         <!-- Industry -->
                         <label class="poppins my-6 block text-base font-bold">
                             Industry Expertise
-                            <div
-                                x-data="filterSelect({
-                                    param: 'f_industry',
-                                    options: ['Automotive', 'Banking', 'Healthcare', 'Tech']
-                                    })"
-                                class="relative mt-1">
+                            <div x-data="industryExpertiseFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
                                     type="button"
@@ -92,12 +79,7 @@
                         <!-- Region -->
                         <label class="poppins my-6 block text-base font-bold">
                             Region (in Base aufnehmen?)
-                            <div
-                                x-data="filterSelect({
-                                    param: 'f_region',
-                                    options: ['Europa', 'Nordamerika', 'Südamerika', 'Asien', 'Afrika']
-                                    })"
-                                class="relative mt-1">
+                            <div x-data="regionFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
                                     type="button"
@@ -129,12 +111,7 @@
                         <!-- Support areas -->
                         <label class="poppins my-6 block text-base font-bold">
                             Support areas
-                            <div
-                                x-data="filterSelect({
-                                    param: 'f_support',
-                                    options: ['Scripting', 'Integration', 'Deployment', 'Automation', 'App development', 'Data modelling', 'User training', 'Project management', 'Artificial intelligence']
-                                    })"
-                                class="relative mt-1">
+                            <div x-data="supportAreasFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
                                     type="button"
@@ -166,12 +143,7 @@
                         <!-- Typical customers -->
                         <label class="poppins my-6 block text-base font-bold">
                             Typical customers
-                            <div
-                                x-data="filterSelect({
-                                    param: 'f_customers',
-                                    options: ['Micro organizations (<10 employees)', 'Small organizations (<50 employees)', 'Medium organizations (<500 employees)', 'Large organizations (>500 employees)']
-                                    })"
-                                class="relative mt-1">
+                            <div x-data="typicalCustomerFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
                                     type="button"
@@ -205,110 +177,38 @@
 
             <div class="post-content my-12 w-full lg:w-3/4">
                 <div class="mb-20 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
-                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
-                        <a href="/partners/upsmart" class="!no-underline">
-                            <img
-                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMTFjMTJiZDQtOGFlMC00YTU5LTgwNzktMDIwNWY1ZWMzN2Y5L2ZhZDkyOGY4LWE5MmEtNDdkMi1hMTM2LTVhYTIyOGVjNTc3OC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0Ijo4MCwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
-                                alt="Feature Image"
-                                class="mx-auto my-8 block h-20 w-48 object-contain" />
-                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
-                                <h3 class="!pt-6 !text-xl tracking-tight">Upsmart</h3>
-                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
-                                    We believe everyone should spend as much time as possible on value-adding activities. With our extensive experience, we deeply understand sales
-                                    processes and identify efficiency improvements.
-                                </p>
-                            </div>
-                            <div class="mb-8 flex flex-row items-center justify-between px-8">
-                                <span class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white">Solution partner</span>
-                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">Germany</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
-                        <a href="#" class="!no-underline">
-                            <img
-                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvZWRlZmI1MzMtZjMwNi00ZmVkLWJmNTItYTJhYTgxYWE4NDM2LzU1YzA1OTY5LTFiZTItNGFlOC1iN2YyLTM0OTUzNDEzYWY3Ny5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0Ijo4MCwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
-                                alt="Feature Image"
-                                class="mx-auto my-8 block h-20 w-48 object-contain" />
-                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
-                                <h3 class="!pt-6 !text-xl tracking-tight">Sales and Workflow</h3>
-                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
-                                    Don’t have time for a professional and fast in-house implementation? Want to get the most out of your system? Please feel free to contact us! In
-                                    our team of three senior consultants, you will find a sales professional (12 years as head of sales), a controlling professional (8 years as
-                                    controlling manager) and a senior IT service delivery professional. That's how we make a truly unbeatable team! From Hungary, we provide
-                                    Pipedrive implementations in Hungarian, German and English. We will assess your needs, set up the system, and train you to be proficient. Let’s
-                                    get to know each other in an online meeting; reach out to us!
-                                </p>
-                            </div>
-                            <div class="mb-8 flex flex-row items-center justify-between px-8">
-                                <span class="rounded bg-slate-700 px-2 py-1 text-sm font-normal text-white">Service partner</span>
-                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">USA</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
-                        <a href="#" class="!no-underline">
-                            <img
-                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMTdkMjg5NzMtOGRhZi00YTE1LTk5Y2YtZDFlNGRlNzQ5ZDk4LzJhNDI2YzllLTlhYWMtNDQyMC1hMTEzLTVkOGRhMDM5OTljOC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjU3NiwiaGVpZ2h0Ijo1NiwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
-                                alt="Feature Image"
-                                class="mx-auto my-8 block h-20 w-48 object-contain" />
-                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
-                                <h3 class="!pt-6 !text-xl tracking-tight">Dominate Sales</h3>
-                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
-                                    We’re here to help you get the most out of Pipedrive CRM. Whether it’s implementing the system, automating tasks, or training your team, we’ve
-                                    got you covered. We aim to turn Pipedrive into more than just a tool—it should be your secret weapon for boosting sales and growing your
-                                    business. We don’t just stop at setup. If needed, we’ll design custom sales processes, tweak your sales strategy, and ensure everyone knows how
-                                    to use the CRM effectively. This way, Pipedrive becomes a true partner in your success.
-                                </p>
-                            </div>
-                            <div class="mb-8 flex flex-row items-center justify-between px-8">
-                                <span class="rounded bg-violet-800 px-2 py-1 text-sm font-normal text-white">Hosting partner</span>
-                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">United Kingdom</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
-                        <a href="#" class="!no-underline">
-                            <img
-                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvZDAwNDU0ODMtYjE1ZS00MWVhLWE2ZGQtNmVjMGNkY2VjMTQ0L2RmODY3YjdiLTg2MjEtNGRiZi05MDUxLWY1MmFlYTk5MzViNi5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjU3NiwiaGVpZ2h0Ijo1NiwiZml0IjoiaW5zaWRlIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0="
-                                alt="Feature Image"
-                                class="mx-auto my-8 block h-20 w-48 object-contain" />
-                            <div class="mb-8 mt-4 border-t border-gray-200 px-8">
-                                <h3 class="!pt-6 !text-xl tracking-tight">Nordic Sales Force</h3>
-                                <p class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600">
-                                    Expanding your business in the Nordics may seem like a daunting task, but Nordic Sales Force is here to make it simple. Say goodbye to the
-                                    hassles of managing sales processes in a foreign market. Our professional sales team offers an authentic local presence to handle your entire
-                                    sales process, from the first point of contact to a signed contract - regardless of the complexity of your solution. Scale your sales with
-                                    Nordic Sales Force: Your gateway to Scandinavia
-                                </p>
-                            </div>
-                            <div class="mb-8 flex flex-row items-center justify-between px-8">
-                                <span class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white">Solution partner</span>
-                                <span class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue">Norway</span>
-                            </div>
-                        </a>
-                    </div>
+                    <template x-for="partner in getFilteredPartners()">
+                        <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                            <a :href="`/partners/${partner.slug}`" class="!no-underline">
+                                <img :src="partner.company_logo" alt="Feature Image" class="mx-auto my-8 block h-20 w-48 object-contain" />
+                                <div class="mb-8 mt-4 border-t border-gray-200 px-8">
+                                    <h3 x-text="partner.partner" class="!pt-6 !text-xl tracking-tight"></h3>
+                                    <!-- TODO: Render to markdown? -->
+                                    <p x-text="partner.description" class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600"></p>
+                                </div>
+                                <div class="mb-8 flex flex-row items-center justify-between px-8">
+                                    <!-- TODO: Create one span element for every type? -->
+                                    <span x-text="partner.partner_type[0]" class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white"></span>
+                                    <span
+                                        x-text="partner.country.country_region"
+                                        class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </template>
                 </div>
             </div>
         </div>
     </section>
 
-    <script>
-        document.addEventListener('alpine:init', () => {
-            Alpine.data('filterSelect', ({ param, options }) => ({
-                open: false,
-                param,
-                options,
-                selected: [],
+    {{ $partners := .Site.Data.partners }}
 
-                init() {
-                    // Initial aus URL lesen
-                    const params = new URLSearchParams(window.location.search);
-                    const current = params.get(this.param);
-                    if (current) {
-                        this.selected = current.split(',');
-                    }
-                },
+    <script>
+        function filterSelect({options}) {
+            return {
+                open: false,
+                options: options,
+                selected: [],
 
                 toggleOpen() {
                     this.open = !this.open;
@@ -321,27 +221,87 @@
                     } else {
                         this.selected.push(option);
                     }
-                    this.updateUrl();
                 },
 
                 isSelected(option) {
                     return this.selected.includes(option);
                 },
 
-                updateUrl() {
-                    const params = new URLSearchParams(window.location.search);
-                    if (this.selected.length) {
-                        params.set(this.param, this.selected.join(',')); // Komma wird zu %2C
-                    } else {
-                        params.delete(this.param);
-                    }
-                    window.history.replaceState({}, '', `${window.location.pathname}?${params}`);
-                },
-
                 label() {
                     return this.selected.length ? this.selected.join(', ') : 'Select an option...';
                 },
-            }));
-        });
+            };
+        }
+
+        function partners() {
+            return {
+                partners: {{ $partners | jsonify | safeJS }},
+
+                // TODO: Read option values from partners array? (for all filters)
+                languageFilter: filterSelect({
+                    options: ['Deutsch', 'Englisch', 'Französisch', 'Griechisch']
+                }),
+
+                industryExpertiseFilter: filterSelect({
+                    options: [
+                        'Construction', 'Education', 'Energy', 'Finance & Insurance', 'Food & Beverages', 'Healthcare',
+                        'Hospitality', 'Information technology', 'Logistics & Transportation', 'Manufacturing',
+                        'Media & Entertainment', 'Non-proft', 'Other', 'Public Sector', 'Retail',
+                    ],
+                }),
+
+                regionFilter: filterSelect({
+                    options: ['Europa', 'Nordamerika', 'Südamerika', 'Asien', 'Afrika'],
+                }),
+
+                supportAreasFilter: filterSelect({
+                    options: ['Scripting', 'Integration', 'Deployment', 'Automation', 'App development', 'Data modelling', 'User training', 'Project management', 'Artificial intelligence'],
+                }),
+
+                typicalCustomerFilter: filterSelect({
+                    options: ['Micro organizations (<10 employees)', 'Small organizations (<50 employees)', 'Medium organizations (<500 employees)', 'Large organizations (>500 employees)'],
+                }),
+
+                getFilteredPartners() {
+                    let filteredPartners = this.partners;
+
+                    if (this.languageFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.languages.some(
+                                language => this.languageFilter.selected.includes(language)
+                            )
+                        );
+                    }
+
+                    if (this.industryExpertiseFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.industry_expertise.some(
+                                expertise => this.industryExpertiseFilter.selected.includes(expertise)
+                            )
+                        );
+                    }
+
+                    // FIXME: Evaluate regionFilter (not part of the base)
+
+                    if (this.supportAreasFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.support_areas.some(
+                                area => this.supportAreasFilter.selected.includes(area)
+                            )
+                        );
+                    }
+
+                    if (this.typicalCustomerFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.typical_customer.some(
+                                tc => this.typicalCustomerFilter.selected.includes(tc)
+                            )
+                        );
+                    }
+
+                    return filteredPartners;
+                },
+            };
+        }
     </script>
 {{ end }}
