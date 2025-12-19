@@ -45,7 +45,7 @@ jobs:
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
-        if: "!contains(github.ref_name, 'skip-muffet') && !contains(github.event.head_commit.message, 'skip muffet')"
+        if: vars.SKIP_MUFFET != 'true'
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
