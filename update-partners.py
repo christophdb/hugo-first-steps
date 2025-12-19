@@ -65,32 +65,72 @@ def slugify(text: str) -> str:
 
     return text
 
+def remove_emojis(text: str) -> str:
+    return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii').strip()
+
+def process_partner(partner: dict) -> dict:
+    # FIXME: Logo needs authentication
+    company_logo = partner.get('Company logo')[0] if partner.get('Company logo') else None
+
+    languages = [remove_emojis(language) for language in (partner['Languages'] or [])]
+
+    return {
+        # slug is used for file paths and URLs (/partners/$slug)
+        'slug': slugify(partner['Partner']),
+        'partner': partner['Partner'],
+        'company_name': partner['Company name'],
+        'company_logo': company_logo,
+        'description': partner['Description'],
+        'partner_type': partner['Partner type'],
+        'company_website': partner['Company website'],
+        'company_address': partner['Company address'],
+        'country': partner['Country'],
+        'contact_email': partner['Contact email'],
+        'contact_name': partner['Contact name'],
+        'contact_position': partner['Contact position'],
+        'contact_phone': partner['Contact phone'],
+        'email_for_customer_inquiries': partner['Email for customer inquiries'],
+        'phone_number_for_customer_inquiries': partner['Phone number for customer inquiries'],
+        'languages': languages,
+        # Ensure that these values are always lists
+        'industry_expertise': partner['Industry expertise'] or [],
+        'support_areas': partner['Support areas'] or [],
+        'typical_customer': partner['Typical customer'] or [],
+    }
+
 def generate_frontmatter(partner: dict) -> str:
     data = {
-        # FIXME: Add fields/do preprocessing
-        'title': partner['Partner'],
-        'company_name': partner['Company name'],
-        'company_logo_url': partner.get('Company logo'),
+        'title': partner['partner'],
+        # FIXME: Add description
+        'description': '',
+        'url': f'/partners/{partner["slug"]}',
+        'partner': partner,
     }
 
     return '---\n' + yaml.dump(data, sort_keys=False) + '---\n'
 
 if __name__ == '__main__':
+    print('Fetching rows from SeaTable...')
     partners = fetch_partners()
+    print(f'Success: Retrieved {len(partners)} rows from SeaTable\n')
 
+    # Process each row to ensure equal key names for the YML file and the frontmatter inside each markdown file
+    partners = [process_partner(partner) for partner in partners]
+
+    print(f'Writing data to .yml file at {DATA_PATH}...')
     with open(DATA_PATH, 'w') as f:
         yaml.dump(partners, f)
+    print('Success: Wrote data to .yml file\n')
 
     for partner in partners:
-        key = slugify(partner['Partner'])
-
-        directory = CONTENT_PATH.joinpath(key)
+        directory = CONTENT_PATH.joinpath(partner['slug'])
         # FIXME: Filename should be based on language specified in row
-        file = directory.joinpath('_index.en.md')
+        file = directory.joinpath('index.en.md')
 
         os.makedirs(directory, exist_ok=True)
 
         frontmatter = generate_frontmatter(partner)
-        description = partner.get('Description') or ''
+        description = partner['description'] or ''
         with open(file, 'w') as f:
             f.writelines([frontmatter, '\n', description])
+        print(f'Success: Created .md file for {partner["slug"]}')
