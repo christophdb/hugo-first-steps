@@ -18,6 +18,8 @@ SCRIPT_PATH = Path(__file__).resolve()
 DATA_PATH = SCRIPT_PATH.parent.joinpath('src/data/partners.yml')
 # Path to markdown files (one directory per partner)
 CONTENT_PATH = SCRIPT_PATH.parent.joinpath('src/content/partners')
+# Path to logos (one directory per partner)
+LOGO_PATH = SCRIPT_PATH.parent.joinpath('src/static/partners/')
 
 def generate_base_token(api_token: str) -> tuple[str, str]:
     url = f'{SEATABLE_URL}/api/v2.1/dtable/app-access-token/'
@@ -69,17 +71,14 @@ def remove_emojis(text: str) -> str:
     return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii').strip()
 
 def process_partner(partner: dict) -> dict:
-    # FIXME: Logo needs authentication
-    company_logo = partner.get('Company logo')[0] if partner.get('Company logo') else None
-
+    # slug is used for file paths and URLs (/partners/$slug)
+    slug = slugify(partner['Partner'])
     languages = [remove_emojis(language) for language in (partner['Languages'] or [])]
 
-    return {
-        # slug is used for file paths and URLs (/partners/$slug)
-        'slug': slugify(partner['Partner']),
+    data = {
+        'slug': slug,
         'partner': partner['Partner'],
         'company_name': partner['Company name'],
-        'company_logo': company_logo,
         'description': partner['Description'],
         'partner_type': partner['Partner type'],
         'company_website': partner['Company website'],
@@ -98,6 +97,23 @@ def process_partner(partner: dict) -> dict:
         'typical_customer': partner['Typical customer'] or [],
     }
 
+    company_logo = partner.get('Company logo')[0] if partner.get('Company logo') else None
+
+    if company_logo:
+        # Download logos since the links inside the base require authentication
+        logo_directory = LOGO_PATH.joinpath(slug)
+        logo_filename = os.path.basename(company_logo)
+        logo_output_path = logo_directory.joinpath(logo_filename)
+
+        os.makedirs(logo_directory, exist_ok=True)
+
+        download_image(company_logo, logo_output_path)
+        print(f'Success: Downloaded logo for {slug}')
+
+        data['logo_path'] = f'/partners/{slug}/{logo_filename}'
+
+    return data
+
 def generate_frontmatter(partner: dict) -> str:
     data = {
         'title': partner['partner'],
@@ -108,6 +124,32 @@ def generate_frontmatter(partner: dict) -> str:
     }
 
     return '---\n' + yaml.dump(data, sort_keys=False) + '---\n'
+
+def generate_download_link(image_url: str) -> str:
+    url = f'{SEATABLE_URL}/api/v2.1/dtable/app-download-link/'
+    headers = {
+        'Accept': 'application/json',
+        'Authorization': f'Bearer {API_TOKEN}',
+    }
+    params = {
+        # Get everything after (and including) /images/
+        'path': image_url[image_url.find('/images'):],
+    }
+
+    response = requests.get(url, headers=headers, params=params)
+    response.raise_for_status()
+    body = response.json()
+
+    return body['download_link']
+
+def download_image(image_url: str, output_path: Path) -> None:
+    download_link = generate_download_link(image_url)
+
+    response = requests.get(download_link)
+    response.raise_for_status()
+
+    with open(output_path, 'wb') as f:
+        f.write(response.content)
 
 if __name__ == '__main__':
     print('Fetching rows from SeaTable...')
