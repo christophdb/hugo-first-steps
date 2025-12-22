@@ -234,20 +234,21 @@
         }
 
         function partners() {
-            return {
-                partners: {{ $partners | jsonify | safeJS }},
+            const partners = {{ $partners | jsonify | safeJS }};
 
-                // TODO: Read option values from partners array? (for all filters)
+            const languageOptions = Array.from(new Set(partners.flatMap(partner => partner.languages))).sort();
+            const industryExpertiseOptions = Array.from(new Set(partners.flatMap(partner => partner.industry_expertise))).sort();
+            const supportAreaOptions = Array.from(new Set(partners.flatMap(partner => partner.support_areas))).sort();
+
+            return {
+                partners: partners,
+
                 languageFilter: filterSelect({
-                    options: ['Deutsch', 'Englisch', 'Französisch', 'Griechisch']
+                    options: languageOptions,
                 }),
 
                 industryExpertiseFilter: filterSelect({
-                    options: [
-                        'Construction', 'Education', 'Energy', 'Finance & Insurance', 'Food & Beverages', 'Healthcare',
-                        'Hospitality', 'Information technology', 'Logistics & Transportation', 'Manufacturing',
-                        'Media & Entertainment', 'Non-proft', 'Other', 'Public Sector', 'Retail',
-                    ],
+                    options: industryExpertiseOptions,
                 }),
 
                 regionFilter: filterSelect({
@@ -255,7 +256,7 @@
                 }),
 
                 supportAreasFilter: filterSelect({
-                    options: ['Scripting', 'Integration', 'Deployment', 'Automation', 'App development', 'Data modelling', 'User training', 'Project management', 'Artificial intelligence'],
+                    options: supportAreaOptions,
                 }),
 
                 typicalCustomerFilter: filterSelect({
