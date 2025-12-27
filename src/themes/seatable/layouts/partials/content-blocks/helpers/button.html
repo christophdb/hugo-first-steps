@@ -17,7 +17,7 @@
         href="{{ $link }}"
         {{ if $external }}target="_blank" rel="nofollow"{{ end }}
         {{ with .id }}id="{{ . }}"{{ end }}
-        data-umami-event="{{ .data-umami-event | default "" }}"
+        {{ with .event }}data-umami-event="{{ . }}"{{ end }}
         >{{ .label }}</a
     >
     <!-- TODO: Add icon for external links -->
@@ -29,7 +29,7 @@
             {{ if $external }}target="_blank" rel="nofollow"{{ end }}
             {{ with .id }}id="{{ . }}"{{ end }}
             class="{{ .extra_class | default "" }}"
-            data-umami-event="{{ .data-umami-event | default "" }}"
+            {{ with .event }}data-umami-event="{{ . }}"{{ end }}
             >{{ .label }}</a
         >
         {{ partial "icon.html" "arrow-right" }}
@@ -37,7 +37,7 @@
 {{ else }}
     <a
         class="{{ .extra_class | default "" }} box-border inline-block whitespace-normal rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-lg font-bold text-gray-800"
-        data-umami-event="{{ .data-umami-event | default "" }}"
+        {{ with .event }}data-umami-event="{{ . }}"{{ end }}
         href="{{ $link }}"
         {{ if $external }}target="_blank" rel="nofollow"{{ end }}
         {{ with .id }}id="{{ . }}"{{ end }}>
