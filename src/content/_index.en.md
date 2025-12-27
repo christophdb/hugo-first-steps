@@ -19,11 +19,11 @@ sections:
       link: "pages/registration"
       style: "primary"
       id: en-homepage-registration-hero-1
-      data-umami-event: "Signup button" 
+      event: "Signup button" 
     - label: Get to know functions
       link: "pages/functions"
       id: en-homepage-functions-hero-1
-      data-umami-event: "Functions button"
+      event: "Functions button"
   image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
