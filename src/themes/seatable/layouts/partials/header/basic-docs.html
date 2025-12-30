@@ -25,29 +25,45 @@
                     const attachUmamiSearchTracking = () => {
                         const input = document.querySelector('#search input[type="search"], #search input');
                         if (!input) {
-                            // Try again shortly if UI not ready yet
                             setTimeout(attachUmamiSearchTracking, 100);
                             return;
                         }
 
                         let lastTerm = '';
+                        let timeoutId = null;
 
                         const trackSearch = (term) => {
-                            if (!term || !window.umami) return;
+                            if (!term || !window.umami) {
+                                return;
+                            }
                             try {
-                                window.umami.track('pagefind_search', { query: term });
+                                window.umami.track('Help Search', { query: term });
+                                console.log('Umami Suche getrackt:', term);
+                                console.log('Umami Event gesendet!');
                             } catch (e) {
-                                console.error('Umami search tracking failed', e);
+                                console.error('Umami Fehler:', e);
                             }
                         };
 
-                        // Fire once when the user finishes typing (on Enter / blur)
-                        input.addEventListener('change', (e) => {
-                            const term = e.target.value.trim();
-                            if (term && term !== lastTerm) {
-                                lastTerm = term;
-                                trackSearch(term);
+                        // Robust: Lausche auf input-Änderungen (jedes Tippen)
+                        const observer = new MutationObserver(() => {
+                            const currentValue = input.value.trim();
+                            if (currentValue !== lastTerm) {
+                                lastTerm = currentValue;
+                                clearTimeout(timeoutId);
+                                timeoutId = setTimeout(() => {
+                                    console.log('DEBOUNCED trackSearch mit term:', lastTerm);
+                                    trackSearch(lastTerm);
+                                }, 500); // 500ms nach letztem Tippen
                             }
+                        });
+
+                        observer.observe(input, { attributes: false, childList: false, subtree: false, characterData: true });
+
+                        // Auch change als Fallback
+                        input.addEventListener('change', (e) => {
+                            console.log('change-Event (Fallback)');
+                            trackSearch(e.target.value.trim());
                         });
                     };
 

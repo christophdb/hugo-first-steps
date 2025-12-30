@@ -10,7 +10,59 @@
             <div id="search" class="mx-auto max-w-2xl text-left"></div>
             <script>
                 window.addEventListener('DOMContentLoaded', (event) => {
-                    new PagefindUI({ element: '#search', showImages: false, showSubResults: true });
+                    new PagefindUI({ 
+                        element: '#search', 
+                        showImages: false, 
+                        showSubResults: true 
+                    });
+
+                    // Wait for Pagefind UI to create the input
+                    const attachUmamiSearchTracking = () => {
+                        const input = document.querySelector('#search input[type="search"], #search input');
+                        if (!input) {
+                            setTimeout(attachUmamiSearchTracking, 100);
+                            return;
+                        }
+
+                        let lastTerm = '';
+                        let timeoutId = null;
+
+                        const trackSearch = (term) => {
+                            if (!term || !window.umami) {
+                                return;
+                            }
+                            try {
+                                window.umami.track('Help Search', { query: term });
+                                console.log('Umami Suche getrackt:', term);
+                                console.log('Umami Event gesendet!');
+                            } catch (e) {
+                                console.error('Umami Fehler:', e);
+                            }
+                        };
+
+                        // Robust: Lausche auf input-Änderungen (jedes Tippen)
+                        const observer = new MutationObserver(() => {
+                            const currentValue = input.value.trim();
+                            if (currentValue !== lastTerm) {
+                                lastTerm = currentValue;
+                                clearTimeout(timeoutId);
+                                timeoutId = setTimeout(() => {
+                                    console.log('DEBOUNCED trackSearch mit term:', lastTerm);
+                                    trackSearch(lastTerm);
+                                }, 500); // 500ms nach letztem Tippen
+                            }
+                        });
+
+                        observer.observe(input, { attributes: false, childList: false, subtree: false, characterData: true });
+
+                        // Auch change als Fallback
+                        input.addEventListener('change', (e) => {
+                            console.log('change-Event (Fallback)');
+                            trackSearch(e.target.value.trim());
+                        });
+                    };
+
+                    attachUmamiSearchTracking();
                 });
             </script>
         </div>
