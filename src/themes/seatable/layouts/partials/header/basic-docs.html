@@ -15,7 +15,43 @@
             <div id="search" class="mx-auto w-full max-w-3xl text-left"></div>
             <script>
                 window.addEventListener('DOMContentLoaded', (event) => {
-                    new PagefindUI({ element: '#search', showImages: false, showSubResults: true });
+                    new PagefindUI({
+                        element: '#search',
+                        showImages: false,
+                        showSubResults: true,
+                    });
+
+                    // Wait for Pagefind UI to create the input
+                    const attachUmamiSearchTracking = () => {
+                        const input = document.querySelector('#search input[type="search"], #search input');
+                        if (!input) {
+                            // Try again shortly if UI not ready yet
+                            setTimeout(attachUmamiSearchTracking, 100);
+                            return;
+                        }
+
+                        let lastTerm = '';
+
+                        const trackSearch = (term) => {
+                            if (!term || !window.umami) return;
+                            try {
+                                window.umami.track('pagefind_search', { query: term });
+                            } catch (e) {
+                                console.error('Umami search tracking failed', e);
+                            }
+                        };
+
+                        // Fire once when the user finishes typing (on Enter / blur)
+                        input.addEventListener('change', (e) => {
+                            const term = e.target.value.trim();
+                            if (term && term !== lastTerm) {
+                                lastTerm = term;
+                                trackSearch(term);
+                            }
+                        });
+                    };
+
+                    attachUmamiSearchTracking();
                 });
             </script>
         {{ end }}
