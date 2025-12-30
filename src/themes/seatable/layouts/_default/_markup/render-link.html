@@ -3,7 +3,9 @@
     {{- with .Title -}}
         title="{{ . }}"
     {{- end }}
-    {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") }}target="_blank" rel="nofollow"{{ end }}>
+    {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") }}
+        target="_blank" rel="nofollow" data-umami-event="outbound-link-click" data-umami-event-url="{{ .Destination | safeURL }}"
+    {{ end }}>
     {{- .Text | safeHTML -}}
     {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") -}}
         <svg class="mb-1 ml-1 inline h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor">
