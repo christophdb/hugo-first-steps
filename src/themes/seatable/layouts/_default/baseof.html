@@ -209,6 +209,10 @@
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
                                     plausible('Registration Complete');
+
+                                    // umami
+                                    const emailHash = btoa(this.email.toLowerCase().trim());
+                                    umami.identify(emailHash);
                                     umami.track('Registration Complete');
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
