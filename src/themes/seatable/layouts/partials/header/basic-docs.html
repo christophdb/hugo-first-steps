@@ -22,34 +22,24 @@
                     });
 
                     // Wait for Pagefind UI to create the input
-                    console.log('2. PagefindUI initialized'); // ← NEU
-
                     const attachUmamiSearchTracking = () => {
                         const input = document.querySelector('#search input[type="search"], #search input');
-
-                        console.log('3. Looking for input:', input); // ← NEU: Zeigt ob Input gefunden
-
                         if (!input) {
-                            console.log('Input nicht gefunden, retry...');
                             setTimeout(attachUmamiSearchTracking, 100);
                             return;
                         }
-
-                        console.log('4. Input gefunden, attaching listeners'); // ← NEU
 
                         let lastTerm = '';
                         let timeoutId = null;
 
                         const trackSearch = (term) => {
-                            console.log('6. window.umami verfügbar?', !!window.umami);
                             if (!term || !window.umami) {
-                                console.warn('Abbruch: term leer oder Umami fehlt');
                                 return;
                             }
                             try {
-                                window.umami.track('pagefind_search', { query: term });
+                                window.umami.track('Help Search', { query: term });
                                 console.log('Umami Suche getrackt:', term);
-                                console.log('7. Umami Event gesendet!');
+                                console.log('Umami Event gesendet!');
                             } catch (e) {
                                 console.error('Umami Fehler:', e);
                             }
@@ -62,7 +52,7 @@
                                 lastTerm = currentValue;
                                 clearTimeout(timeoutId);
                                 timeoutId = setTimeout(() => {
-                                    console.log('5. DEBOUNCED trackSearch mit term:', lastTerm);
+                                    console.log('DEBOUNCED trackSearch mit term:', lastTerm);
                                     trackSearch(lastTerm);
                                 }, 500); // 500ms nach letztem Tippen
                             }
@@ -72,14 +62,11 @@
 
                         // Auch change als Fallback
                         input.addEventListener('change', (e) => {
-                            console.log('8. change-Event (Fallback)');
+                            console.log('change-Event (Fallback)');
                             trackSearch(e.target.value.trim());
                         });
-
-                        console.log('9. Listener attached, ready!'); // ← NEU
                     };
 
-                    // Sofort starten
                     attachUmamiSearchTracking();
                 });
             </script>
