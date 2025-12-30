@@ -22,35 +22,64 @@
                     });
 
                     // Wait for Pagefind UI to create the input
+                    console.log('2. PagefindUI initialized'); // ← NEU
+
                     const attachUmamiSearchTracking = () => {
                         const input = document.querySelector('#search input[type="search"], #search input');
+
+                        console.log('3. Looking for input:', input); // ← NEU: Zeigt ob Input gefunden
+
                         if (!input) {
-                            // Try again shortly if UI not ready yet
+                            console.log('Input nicht gefunden, retry...');
                             setTimeout(attachUmamiSearchTracking, 100);
                             return;
                         }
 
+                        console.log('4. Input gefunden, attaching listeners'); // ← NEU
+
                         let lastTerm = '';
+                        let timeoutId = null;
 
                         const trackSearch = (term) => {
-                            if (!term || !window.umami) return;
+                            console.log('6. window.umami verfügbar?', !!window.umami);
+                            if (!term || !window.umami) {
+                                console.warn('Abbruch: term leer oder Umami fehlt');
+                                return;
+                            }
                             try {
                                 window.umami.track('pagefind_search', { query: term });
+                                console.log('Umami Suche getrackt:', term);
+                                console.log('7. Umami Event gesendet!');
                             } catch (e) {
-                                console.error('Umami search tracking failed', e);
+                                console.error('Umami Fehler:', e);
                             }
                         };
 
-                        // Fire once when the user finishes typing (on Enter / blur)
-                        input.addEventListener('change', (e) => {
-                            const term = e.target.value.trim();
-                            if (term && term !== lastTerm) {
-                                lastTerm = term;
-                                trackSearch(term);
+                        // Robust: Lausche auf input-Änderungen (jedes Tippen)
+                        const observer = new MutationObserver(() => {
+                            const currentValue = input.value.trim();
+                            if (currentValue !== lastTerm) {
+                                lastTerm = currentValue;
+                                clearTimeout(timeoutId);
+                                timeoutId = setTimeout(() => {
+                                    console.log('5. DEBOUNCED trackSearch mit term:', lastTerm);
+                                    trackSearch(lastTerm);
+                                }, 500); // 500ms nach letztem Tippen
                             }
                         });
+
+                        observer.observe(input, { attributes: false, childList: false, subtree: false, characterData: true });
+
+                        // Auch change als Fallback
+                        input.addEventListener('change', (e) => {
+                            console.log('8. change-Event (Fallback)');
+                            trackSearch(e.target.value.trim());
+                        });
+
+                        console.log('9. Listener attached, ready!'); // ← NEU
                     };
 
+                    // Sofort starten
                     attachUmamiSearchTracking();
                 });
             </script>
