@@ -49,7 +49,7 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Rows'
             values: ['10,000', '50,000', '∞', '∞']
-          - key: 'Maximum  Rows in a Bsae'
+          - key: 'Maximum  Rows in a Base'
             values: ['10.000', '50.000', '100.000', '200.000']
           - key: 'Storage space'
             values: ['2 GB', '50 GB', '100 GB', '∞']
