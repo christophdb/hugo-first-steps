@@ -75,25 +75,10 @@
     {{ partial "head/css.html" . }}
     {{ partial "head/js.html" . }}
 
-
-    <!-- Plausible Analytics -->
-    <script async src="/js/script.js"></script>
-    <script>
-        (window.plausible =
-            window.plausible ||
-            function () {
-                (plausible.q = plausible.q || []).push(arguments);
-            }),
-            (plausible.init =
-                plausible.init ||
-                function (i) {
-                    plausible.o = i || {};
-                });
-        plausible.init({
-            endpoint: '/api/event',
-        });
-    </script>
-
-    <!-- Umami (track only production) -->
-    <script defer src="https://umami.seatable.com/script.js" data-website-id="7f437983-c20e-4d84-8219-9bd8a1c6752f" data-domains="seatable.com"></script>
+    {{ if hugo.IsProduction }}
+        <!-- Umami -->
+        <script defer src="https://umami.seatable.com/script.js" data-website-id="7f437983-c20e-4d84-8219-9bd8a1c6752f" data-domains="seatable.com"></script>
+    {{ else }}
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="6b6427d8-1cba-4091-a81f-68a41ff7489c"></script>
+    {{ end }}
 </head>

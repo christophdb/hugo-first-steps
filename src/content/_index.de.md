@@ -20,7 +20,6 @@ sections:
     - label: Funktionen kennenlernen
       link: "pages/functions"
       id: de-homepage-functions-hero-1
-      extra_class: "plausible-event-name=Show+Functions"
   image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4

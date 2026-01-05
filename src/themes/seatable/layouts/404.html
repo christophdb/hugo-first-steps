@@ -15,6 +15,7 @@
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             // console.log(window.location.pathname + window.location.search);
+            // das funktioniert so nicht, weil umleitung in caddy auf 404.
             umami.track('404', { url: window.location.pathname + window.location.search });
         });
     </script>
