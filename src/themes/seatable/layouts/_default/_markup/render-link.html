@@ -4,8 +4,7 @@
         title="{{ . }}"
     {{- end }}
     {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") }}
-        target="_blank" rel="nofollow" data-umami-event="Outbound Link Click" data-umami-event-url="{{ .Destination | safeURL }}"
-        data-umami-event-from="{{ .Page.File.Dir | default "unknown" }}"
+        target="_blank" rel="nofollow"
     {{ end }}>
     {{- .Text | safeHTML -}}
     {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") -}}
