@@ -9,12 +9,12 @@
             <!-- Categories -->
             <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
                 <div class="sticky top-8 py-2 pl-5">
-                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">Verfügbare Filter</h3>
+                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">{{ T "partners.available_filters" }}</h3>
 
                     <div>
                         <!-- Sprache -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Sprache
+                            {{ T "partners.language" }}
                             <div x-data="languageFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
@@ -46,7 +46,7 @@
 
                         <!-- Industry -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Industry Expertise
+                            {{ T "partners.industry_expertise" }}
                             <div x-data="industryExpertiseFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
@@ -78,7 +78,7 @@
 
                         <!-- Region -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Region (in Base aufnehmen?)
+                            {{ T "partners.region" }} (in Base aufnehmen?)
                             <div x-data="regionFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
@@ -110,7 +110,7 @@
 
                         <!-- Support areas -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Support areas
+                            {{ T "partners.services" }}
                             <div x-data="supportAreasFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
@@ -142,7 +142,7 @@
 
                         <!-- Typical customers -->
                         <label class="poppins my-6 block text-base font-bold">
-                            Typical customers
+                            {{ T "partners.typical_customers" }}
                             <div x-data="typicalCustomerFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
@@ -228,7 +228,7 @@
                 },
 
                 label() {
-                    return this.selected.length ? this.selected.join(', ') : 'Select an option...';
+                    return this.selected.length ? this.selected.join(', ') : '{{ T "partners.select_placeholder" }}';
                 },
             };
         }

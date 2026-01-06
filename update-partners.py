@@ -21,6 +21,8 @@ CONTENT_PATH = SCRIPT_PATH.parent.joinpath('src/content/partners')
 # Path to logos (one directory per partner)
 LOGO_PATH = SCRIPT_PATH.parent.joinpath('src/static/partners/')
 
+LANGUAGE_SLUGS = ['en', 'de', 'fr', 'es', 'pt', 'ru']
+
 def generate_base_token(api_token: str) -> tuple[str, str]:
     url = f'{SEATABLE_URL}/api/v2.1/dtable/app-access-token/'
     headers = {
@@ -114,12 +116,22 @@ def process_partner(partner: dict) -> dict:
 
     return data
 
-def generate_frontmatter(partner: dict) -> str:
+def generate_frontmatter(partner: dict, language_slug: str) -> str:
+    url_by_language_slug = {
+        'en': f'/partners/{partner["slug"]}',
+        'de': f'/de/partner/{partner["slug"]}',
+        # FIXME: Translate static URL parts
+        'fr': f'/fr/partner/{partner["slug"]}',
+        'es': f'/es/partner/{partner["slug"]}',
+        'pt': f'/pt/partner/{partner["slug"]}',
+        'ru': f'/ru/partner/{partner["slug"]}',
+    }
+
     data = {
         'title': partner['partner'],
         # FIXME: Add description
         'description': '',
-        'url': f'/partners/{partner["slug"]}',
+        'url': url_by_language_slug[language_slug],
         'partner': partner,
     }
 
@@ -166,13 +178,14 @@ if __name__ == '__main__':
 
     for partner in partners:
         directory = CONTENT_PATH.joinpath(partner['slug'])
-        # FIXME: Filename should be based on language specified in row
-        file = directory.joinpath('index.en.md')
-
         os.makedirs(directory, exist_ok=True)
 
-        frontmatter = generate_frontmatter(partner)
-        description = partner['description'] or ''
-        with open(file, 'w') as f:
-            f.writelines([frontmatter, '\n', description])
-        print(f'Success: Created .md file for {partner["slug"]}')
+        # Generate one file per language
+        for language_slug in LANGUAGE_SLUGS:
+            file = directory.joinpath(f'index.{language_slug}.md')
+
+            frontmatter = generate_frontmatter(partner, language_slug)
+            description = partner['description'] or ''
+            with open(file, 'w') as f:
+                f.writelines([frontmatter, '\n', description])
+            print(f'Success: Created .md file for {partner["slug"]} (language={language_slug})')
