@@ -49,6 +49,24 @@
             {{ partial "footer.html" . }}
         </footer>
 
+        <!-- umami local storage implementation -->
+
+        <script>
+            // Stabiler Session-ID aus localStorage
+            let sessionId = localStorage.getItem('seatable_umami_session_id');
+            if (!sessionId) {
+                sessionId = `sess_${Date.now().toString(36)}${Math.random().toString(36).slice(2)}`;
+                localStorage.setItem('seatable_umami_session_id', sessionId);
+            }
+
+            // identify() aufrufen – Standard-Tracking läuft weiter!
+            if (typeof umami !== 'undefined') {
+                umami.identify(sessionId);
+            }
+
+            umami.track('Subscription Upgrade', { revenue: 19.99, currency: 'EUR' });
+        </script>
+
         <!-- formActions -->
         <script>
             /* form actions for registration and contact form */
