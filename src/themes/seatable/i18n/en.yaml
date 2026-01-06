@@ -1,36 +1,36 @@
 navigation:
-    login: 'Login'
-    registration: 'Registration'
+    login: "Login"
+    registration: "Registration"
 
 error:
-    404_title: 'Page Not Found :confused:'
-    404_error: 'Error 404'
+    404_title: "Page Not Found :confused:"
+    404_error: "Error 404"
     404_description: "It seems that the page you've requested does not exist."
 
 article:
-    table_of_contents: 'Table of Contents'
+    table_of_contents: "Table of Contents"
 
 legal:
-    version: 'Version'
-    published_on: 'published on'
+    version: "Version"
+    published_on: "published on"
 
 registration:
-    email_label: 'E-mail'
-    email_placeholder: 'Enter your e-mail address...'
-    email_invalid: 'This e-mail address seems to be incomplete'
-    email_required: 'E-mail is required'
-    submit: 'Sign up now'
-    send: 'Registration is being sent...'
-    success: 'Registration successful. Check your email inbox.'
-    error: 'An error has occurred.'
+    email_label: "E-mail"
+    email_placeholder: "Enter your e-mail address..."
+    email_invalid: "This e-mail address seems to be incomplete"
+    email_required: "E-mail is required"
+    submit: "Sign up now"
+    send: "Registration is being sent..."
+    success: "Registration successful. Check your email inbox."
+    error: "An error has occurred."
 
 contact:
     concern:
-        label: 'Your Concern'
-        free: 'I need support (SeaTable Cloud Free or free 3-user license)'
-        support: 'I need support'
-        sales: 'I would like an offer'
-        question: 'I have a question and would like to get in touch'
+        label: "Your Concern"
+        free: "I need support (SeaTable Cloud Free or free 3-user license)"
+        support: "I need support"
+        sales: "I would like an offer"
+        question: "I have a question and would like to get in touch"
     support_forum: |
         If you are using the free **SeaTable Free** cloud plan, the **self-hosted Developer Edition**, or the **free 3-user license** and need assistance, please visit our [Community Forum](https://forum.seatable.com).<br/>  
         At this time, we are unfortunately unable to provide direct support for users without a paid license. However, you will receive fast and competent help from our community in the forum.
@@ -38,200 +38,217 @@ contact:
         As a customer with a **SeaTable Cloud Plus** or **Enterprise** subscription, you can create support tickets directly in the [Team Administration](https://account.seatable.com/support).</a><br/><br/>
         **The advantage:** You can keep track of all your tickets and their processing status in one place.
     teamname: Name of your team
-    first_name: 'First name'
-    last_name: 'Last name'
-    company: 'Company'
-    email: 'Email'
+    first_name: "First name"
+    last_name: "Last name"
+    company: "Company"
+    email: "Email"
     org_type:
-        label: 'Type of organization (optional)'
-        business: 'Business (for-profit)'
-        education: 'Education (non-profit)'
-        research: 'Research (non-profit)'
-        public_sector: 'Public sector (non-profit)'
-        other_type: 'Other (non-profit)'
-    phone: 'Phone (optional)'
-    phone_hint: 'A telephone number allows us to respond particularly quickly.'
-    url: 'URL (optional)'
-    address: 'Address (optional)'
-    country: 'Country (optional)'
-    vat_id: 'VAT-ID (optional)'
-    products: 'Products (multiple selection possible)'
-    preferred_language: 'Preferred language'
-    german: 'German'
-    english: 'English'
-    french: 'French'
+        label: "Type of organization (optional)"
+        business: "Business (for-profit)"
+        education: "Education (non-profit)"
+        research: "Research (non-profit)"
+        public_sector: "Public sector (non-profit)"
+        other_type: "Other (non-profit)"
+    phone: "Phone (optional)"
+    phone_hint: "A telephone number allows us to respond particularly quickly."
+    url: "URL (optional)"
+    address: "Address (optional)"
+    country: "Country (optional)"
+    vat_id: "VAT-ID (optional)"
+    products: "Products (multiple selection possible)"
+    preferred_language: "Preferred language"
+    german: "German"
+    english: "English"
+    french: "French"
     reason:
-        label: 'Reason for the request'
-        access_to_seatable: 'Access to SeaTable'
-        team_admin_area: 'Team admin area'
-        invoicing: 'Invoicing'
-        data_migration: 'Data migration'
-        api_and_integration: 'API and integration'
-        scripting: 'Scripting'
-        licensing: 'Licensing'
-        bug_report: 'Bug report'
-        security: 'Privacy and security'
-        partner_request: 'Partner request'
-        other_reason: 'Something else'
-    message: 'Your message'
-    message_sales_placeholder: 'It would be helpful if you could specify the number of users and the license period.'
-    submit: 'Send message'
-    send: 'Your message is being sent...'
-    success: 'We have received your message.'
-    error: 'An error has occurred.'
+        label: "Reason for the request"
+        access_to_seatable: "Access to SeaTable"
+        team_admin_area: "Team admin area"
+        invoicing: "Invoicing"
+        data_migration: "Data migration"
+        api_and_integration: "API and integration"
+        scripting: "Scripting"
+        licensing: "Licensing"
+        bug_report: "Bug report"
+        security: "Privacy and security"
+        partner_request: "Partner request"
+        other_reason: "Something else"
+    message: "Your message"
+    message_sales_placeholder: "It would be helpful if you could specify the number of users and the license period."
+    submit: "Send message"
+    send: "Your message is being sent..."
+    success: "We have received your message."
+    error: "An error has occurred."
 
 newsletter:
-    submit: 'Subscribe'
-    send: 'Subscription is being sent...'
-    success: 'Subscription successful. Check your email inbox.'
-    error: 'An error has occurred.'
+    submit: "Subscribe"
+    send: "Subscription is being sent..."
+    success: "Subscription successful. Check your email inbox."
+    error: "An error has occurred."
 
 support_table:
-    support_channel: 'Support channel'
-    newsletter: 'Newsletter'
-    help_area: 'Help area'
-    forum: 'SeaTable Forum'
-    support_tickets: 'Support tickets / e-mail'
-    workshop: 'Onboarding workshop'
-    personal_contact: 'Personal contact person'
-    professional_services: 'Professional Services (subject to a charge)'
-    telephone: 'Telephone support'
-    remote_hands: 'Remote Hands'
-    customized_dev: 'Customized development (plugins, scripts, templates)'
-    trainings: 'Trainings & Workshops'
-    service_level: 'Service level'
-    availability: 'Availability'
-    response_time: 'Response time'
-    service_time: 'Service times'
-    best_effort: 'Best-efforts'
-    sla: 'SLA'
-    opening_times: 'Monday - Friday<br/>10 a.m. - 5 p.m. (CET)'
+    support_channel: "Support channel"
+    newsletter: "Newsletter"
+    help_area: "Help area"
+    forum: "SeaTable Forum"
+    support_tickets: "Support tickets / e-mail"
+    workshop: "Onboarding workshop"
+    personal_contact: "Personal contact person"
+    professional_services: "Professional Services (subject to a charge)"
+    telephone: "Telephone support"
+    remote_hands: "Remote Hands"
+    customized_dev: "Customized development (plugins, scripts, templates)"
+    trainings: "Trainings & Workshops"
+    service_level: "Service level"
+    availability: "Availability"
+    response_time: "Response time"
+    service_time: "Service times"
+    best_effort: "Best-efforts"
+    sla: "SLA"
+    opening_times: "Monday - Friday<br/>10 a.m. - 5 p.m. (CET)"
 
 product_comparison_table:
-    editions: 'Editions'
-    use_free: 'Free to use'
-    administration: 'Administration'
-    any_location: 'Any server location'
-    automatic_updates: 'Automatic updates'
-    own_admin: 'Own administration'
-    command_line: 'Linux command line access'
-    authentication: 'Custom authentication'
-    customizing: 'Customizing'
-    custom_logo: 'Custom logo'
-    custom_url: 'Custom URL'
-    custom_templates: 'Custom templates'
-    custom_roles: 'Custom user roles'
-    support: 'Support'
-    corporate_support: 'Optional corporate support'
-    requirements: 'Requirements'
-    only_free: '(only SeaTable Free)'
-    only_enterprise: '(only SeaTable Enterprise)'
-    up_to_three_users: '(up to 3 users)'
-    email: 'Email address'
-    min_100_users: 'Min. 100 users'
-    server_or_vm: 'Linux server or VM'
+    editions: "Editions"
+    use_free: "Free to use"
+    administration: "Administration"
+    any_location: "Any server location"
+    automatic_updates: "Automatic updates"
+    own_admin: "Own administration"
+    command_line: "Linux command line access"
+    authentication: "Custom authentication"
+    customizing: "Customizing"
+    custom_logo: "Custom logo"
+    custom_url: "Custom URL"
+    custom_templates: "Custom templates"
+    custom_roles: "Custom user roles"
+    support: "Support"
+    corporate_support: "Optional corporate support"
+    requirements: "Requirements"
+    only_free: "(only SeaTable Free)"
+    only_enterprise: "(only SeaTable Enterprise)"
+    up_to_three_users: "(up to 3 users)"
+    email: "Email address"
+    min_100_users: "Min. 100 users"
+    server_or_vm: "Linux server or VM"
 
 contact_sales: Contact sales
-read_more: 'Read more'
+read_more: "Read more"
 
 price_table:
-    month: 'Month'
-    yearly: 'Yearly'
-    monthly: 'Monthly'
-    unlimited_bases: 'Unlimited Bases'
-    unlimited_tables: 'Unlimited Tables'
-    rows: 'Rows'
+    month: "Month"
+    yearly: "Yearly"
+    monthly: "Monthly"
+    unlimited_bases: "Unlimited Bases"
+    unlimited_tables: "Unlimited Tables"
+    rows: "Rows"
     #rows_per_base: 'Rows per Base'
-    gb_for_files: 'GB for Files'
-    month_snapshot: 'Month Snapshot'
-    month_snapshots: 'Months Snapshots'
-    unlimited_javascript: 'Unlimited JS Script Runs'
-    python_runs: 'Python Script Runs'
-    api_runs: 'API Calls'
-    api_runs_per_user: 'API Calls per User'
-    unlimited_rows: 'Unlimited Rows'
-    unlimited_python: 'Unlimited Python Script Runs'
-    unlimited_api_runs: 'Unlimited API Calls'
-    advanced_sharing: 'Advanced Sharing'
-    advanced_customization: 'Advanced Customization'
-    automations: 'Automations'
-    big_data_storage: 'Big Data Storage'
-    bank_transfer_payment: 'Bank Transfer Payment'
-    unlimited_api_calls: 'Unlimited API Calls'
-    enterprise_admin_panel: 'Enterprise Admin Panel'
-    sso_integration: 'Single Sign-On via SAML and OAuth'
-    corporate_support: 'Optional Corporate Support and SLAs'
-    start_now: 'Start Now'
-    contact_sales: 'Contact Sales'
-    for_up_to_25_users: 'For up to 25 users'
-    no_credit_card_needed: 'No credit card required'
-    per_user_month: 'Per User/Month'
-    yearly_billing: 'Annual Billing'
-    monthly_billing: 'Monthly Billing'
-    min_100_users: 'Minimum 100 users'
+    gb_for_files: "GB for Files"
+    month_snapshot: "Month Snapshot"
+    month_snapshots: "Months Snapshots"
+    unlimited_javascript: "Unlimited JS Script Runs"
+    python_runs: "Python Script Runs"
+    api_runs: "API Calls"
+    api_runs_per_user: "API Calls per User"
+    unlimited_rows: "Unlimited Rows"
+    unlimited_python: "Unlimited Python Script Runs"
+    unlimited_api_runs: "Unlimited API Calls"
+    advanced_sharing: "Advanced Sharing"
+    advanced_customization: "Advanced Customization"
+    automations: "Automations"
+    big_data_storage: "Big Data Storage"
+    bank_transfer_payment: "Bank Transfer Payment"
+    unlimited_api_calls: "Unlimited API Calls"
+    enterprise_admin_panel: "Enterprise Admin Panel"
+    sso_integration: "Single Sign-On via SAML and OAuth"
+    corporate_support: "Optional Corporate Support and SLAs"
+    start_now: "Start Now"
+    contact_sales: "Contact Sales"
+    for_up_to_25_users: "For up to 25 users"
+    no_credit_card_needed: "No credit card required"
+    per_user_month: "Per User/Month"
+    yearly_billing: "Annual Billing"
+    monthly_billing: "Monthly Billing"
+    min_100_users: "Minimum 100 users"
     team_saml: Single Sign-On via SAML
     ai_credits_per_user: AI Credits per User
 
     year: Year
     years: Years
     user: User
-    yearly_license: '-year licence'
-    download: 'Download free of charge'
-    buy: 'Subscribe now'
-    free: 'Permanently free of charge'
-    u10_y1: 'https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM'
-    u25_y1: 'https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL'
-    u10_y2: 'https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f'
-    u25_y2: 'https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE'
-    u10_y3: 'https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK'
-    u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
+    yearly_license: "-year licence"
+    download: "Download free of charge"
+    buy: "Subscribe now"
+    free: "Permanently free of charge"
+    u10_y1: "https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM"
+    u25_y1: "https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL"
+    u10_y2: "https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f"
+    u25_y2: "https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE"
+    u10_y3: "https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK"
+    u25_y3: "https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3"
     cloud: Cloud
     on-premises: On-Premises
 
 help_area:
-    category: 'Category'
-    section: 'Section'
-    available_with: 'Available with'
-    toc: 'Table of Contents'
-    more_articles: 'More articles in this category'
+    category: "Category"
+    section: "Section"
+    available_with: "Available with"
+    toc: "Table of Contents"
+    more_articles: "More articles in this category"
 
 templates:
-    all: 'All templates'
-    categories: 'Categories'
-    categorie: 'Categorie'
-    functions: 'Functions'
-    back: 'Back to oveview'
-    use_template: 'Use template'
-    preview: 'Preview'
+    all: "All templates"
+    categories: "Categories"
+    categorie: "Categorie"
+    functions: "Functions"
+    back: "Back to oveview"
+    use_template: "Use template"
+    preview: "Preview"
 
 template-box:
-    text: 'Got curious? Scroll through our interactive template and discover its first features.'
-    submit: 'Test template'
+    text: "Got curious? Scroll through our interactive template and discover its first features."
+    submit: "Test template"
 
 customer-logo:
-    company: 'Company'
-    industry: 'Industry'
-    location: 'Location'
+    company: "Company"
+    industry: "Industry"
+    location: "Location"
 
 customer-story:
-    subtitle: 'What our customers say'
-    link-text: 'Learn more'
+    subtitle: "What our customers say"
+    link-text: "Learn more"
 
 newsletter-subscribe:
-    title: 'Subscribe to our newsletter'
-    subtitle: ''
-    inner: 'Subscribe to our newsletter and stay informed!'
-    submit: 'Subscribe'
+    title: "Subscribe to our newsletter"
+    subtitle: ""
+    inner: "Subscribe to our newsletter and stay informed!"
+    submit: "Subscribe"
 
 blog-register:
-    title: 'No Code, no Limits | SeaTable'
-    item1: 'Flexible databases'
-    item2: 'Universal app builder'
-    item3: 'Real-time collaboration'
-    text: 'And all of this GDPR-compliant!'
-    submit: 'Try it now'
+    title: "No Code, no Limits | SeaTable"
+    item1: "Flexible databases"
+    item2: "Universal app builder"
+    item3: "Real-time collaboration"
+    text: "And all of this GDPR-compliant!"
+    submit: "Try it now"
+
+partners:
+    available_filters: Available filters
+    select_placeholder: Select an option...
+    language: Language
+    industry_expertise: Industry expertise
+    region: Region
+    services: Services
+    typical_customers: Typical customers
+
+partner:
+    back_to_directory: Back to directly
+    contact: Contact
+    website: Website
+    about: About
+    former_clients: Former Clients
+    customer_references: Customer references
 
 cookies:
-    text: 'This website uses cookies to ensure you get the best experience on our website.'
+    text: "This website uses cookies to ensure you get the best experience on our website."
     link: More informationen
     confirm: Got it

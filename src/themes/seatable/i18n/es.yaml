@@ -1,237 +1,254 @@
 navigation:
-    login: 'Iniciar sessão'
-    registration: 'Registo'
+    login: "Iniciar sessão"
+    registration: "Registo"
 
 error:
-    404_title: 'Página no encontrada :confused:'
-    404_error: 'Error 404'
-    404_description: 'Parece que la página que ha solicitado no existe.'
+    404_title: "Página no encontrada :confused:"
+    404_error: "Error 404"
+    404_description: "Parece que la página que ha solicitado no existe."
 
 article:
-    table_of_contents: 'Índice'
+    table_of_contents: "Índice"
 
 legal:
-    version: 'Versión'
-    published_on: 'publicado el'
+    version: "Versión"
+    published_on: "publicado el"
 
 registration:
-    email_label: 'Correo electrónico'
-    email_placeholder: 'Introduzca su dirección de correo electrónico...'
-    email_invalid: 'Esta dirección de correo electrónico parece estar incompleta'
-    email_required: 'Correo electrónico obligatorio'
-    submit: 'Regístrate ahora'
-    send: 'Enviando registro...'
-    success: 'Registro exitoso. Revisa tu bandeja de entrada.'
-    error: 'Ha ocurrido un error.'
+    email_label: "Correo electrónico"
+    email_placeholder: "Introduzca su dirección de correo electrónico..."
+    email_invalid: "Esta dirección de correo electrónico parece estar incompleta"
+    email_required: "Correo electrónico obligatorio"
+    submit: "Regístrate ahora"
+    send: "Enviando registro..."
+    success: "Registro exitoso. Revisa tu bandeja de entrada."
+    error: "Ha ocurrido un error."
 
 contact:
     concern:
-        label: 'Asunto'
-        free: 'Necesito soporte (SeaTable Cloud Free o licencia gratuita para 3 usuarios)'
-        support: 'Necesito soporte'
-        sales: 'Quisiera una oferta'
-        question: 'Tengo una pregunta y me gustaría ponerme en contacto'
+        label: "Asunto"
+        free: "Necesito soporte (SeaTable Cloud Free o licencia gratuita para 3 usuarios)"
+        support: "Necesito soporte"
+        sales: "Quisiera una oferta"
+        question: "Tengo una pregunta y me gustaría ponerme en contacto"
     support_forum: |
         Si utiliza la oferta en la nube gratuita **SeaTable Free**, la **versión de servidor autohospedada Developer Edition** o la **licencia gratuita para 3 usuarios** y necesita ayuda, visite nuestro [Foro de la Comunidad](https://forum.seatable.com).<br/>  
         Por el momento, lamentablemente no podemos ofrecer soporte directo a los usuarios sin licencia de pago. Sin embargo, en el foro recibirá ayuda rápida y experta de parte de nuestra comunidad.
     create_tickets_in_team_admin: |
         Como cliente con una suscripción **SeaTable Cloud Plus** o **Enterprise**, puede crear tickets de soporte directamente en la [Administración de equipos](https://account.seatable.com/support).</a><br/><br/>
         **Ventaja:** puede mantener una visión clara de todos sus tickets y su estado de tramitación.
-    teamname: 'Nombre de su equipo'
-    first_name: 'Prénom'
-    last_name: 'Nom'
-    company: 'Société'
-    email: 'E-mail'
+    teamname: "Nombre de su equipo"
+    first_name: "Prénom"
+    last_name: "Nom"
+    company: "Société"
+    email: "E-mail"
     org_type:
-        label: 'Tipo de organización (opcional)'
-        business: 'Empresa (con fines de lucro)'
-        education: 'Educación (sin fines de lucro)'
-        research: 'Investigación (sin fines de lucro)'
-        public_sector: 'Sector público (sin fines de lucro)'
-        other_type: 'Otro (sin fines de lucro)'
-    phone: 'Teléfono (opcional)'
-    phone_hint: 'Un número de teléfono nos permite responder de manera especialmente rápida.'
-    url: 'URL (opcional)'
-    address: 'Dirección (opcional)'
-    country: 'País (opcional)'
-    vat_id: 'NIF-IVA (opcional)'
-    products: 'Productos (selección múltiple posible)'
-    preferred_language: 'Idioma preferido'
-    german: 'Alemán'
-    english: 'Inglés'
-    french: 'Francés'
+        label: "Tipo de organización (opcional)"
+        business: "Empresa (con fines de lucro)"
+        education: "Educación (sin fines de lucro)"
+        research: "Investigación (sin fines de lucro)"
+        public_sector: "Sector público (sin fines de lucro)"
+        other_type: "Otro (sin fines de lucro)"
+    phone: "Teléfono (opcional)"
+    phone_hint: "Un número de teléfono nos permite responder de manera especialmente rápida."
+    url: "URL (opcional)"
+    address: "Dirección (opcional)"
+    country: "País (opcional)"
+    vat_id: "NIF-IVA (opcional)"
+    products: "Productos (selección múltiple posible)"
+    preferred_language: "Idioma preferido"
+    german: "Alemán"
+    english: "Inglés"
+    french: "Francés"
     reason:
-        label: 'Motivo de la solicitud'
-        access_to_seatable: 'Acceso a SeaTable'
-        team_admin_area: 'Área de administración del equipo'
-        invoicing: 'Facturación'
-        data_migration: 'Migración de datos'
-        api_and_integration: 'API e integración'
-        scripting: 'Scripting'
-        licensing: 'Licencias'
-        bug_report: 'Informe de error'
-        security: 'Privacidad y seguridad'
-        partner_request: 'Solicitud de socio'
-        other_reason: 'Otra cosa'
-    message: 'Votre message'
-    message_sales_placeholder: 'Sería útil que pudieras especificar el número de usuarios y el período de la licencia.'
-    submit: 'Envoyer le message'
-    send: 'Enviando tu mensaje...'
-    success: 'Hemos recibido tu mensaje.'
-    error: 'Ha ocurrido un error.'
+        label: "Motivo de la solicitud"
+        access_to_seatable: "Acceso a SeaTable"
+        team_admin_area: "Área de administración del equipo"
+        invoicing: "Facturación"
+        data_migration: "Migración de datos"
+        api_and_integration: "API e integración"
+        scripting: "Scripting"
+        licensing: "Licencias"
+        bug_report: "Informe de error"
+        security: "Privacidad y seguridad"
+        partner_request: "Solicitud de socio"
+        other_reason: "Otra cosa"
+    message: "Votre message"
+    message_sales_placeholder: "Sería útil que pudieras especificar el número de usuarios y el período de la licencia."
+    submit: "Envoyer le message"
+    send: "Enviando tu mensaje..."
+    success: "Hemos recibido tu mensaje."
+    error: "Ha ocurrido un error."
 
 newsletter:
-    submit: 'Suscribirse'
-    send: 'La suscripción se está enviando...'
-    success: 'Suscripción exitosa. Revise su bandeja de entrada.'
-    error: 'Ha ocurrido un error.'
+    submit: "Suscribirse"
+    send: "La suscripción se está enviando..."
+    success: "Suscripción exitosa. Revise su bandeja de entrada."
+    error: "Ha ocurrido un error."
 
 support_table:
-    support_channel: 'Canal de soporte'
-    newsletter: 'Boletín informativo'
-    help_area: 'Área de ayuda'
-    forum: 'Foro SeaTable'
-    support_tickets: 'Tickets de soporte/correo electrónico'
-    workshop: 'Taller de incorporación'
-    personal_contact: 'Contacto personal asignado'
-    professional_services: 'Servicios profesionales (de pago)'
-    telephone: 'Soporte telefónico'
-    remote_hands: 'Asistencia remota'
-    customized_dev: 'Desarrollo personalizado (plugins, scripts, plantillas)'
-    trainings: 'Capacitaciones y talleres'
-    service_level: 'Nivel de servicio'
-    availability: 'Disponibilidad'
-    response_time: 'Tiempo de respuesta'
-    service_time: 'Horario de servicio'
-    best_effort: 'Mejor esfuerzo'
-    sla: 'Acuerdo de Nivel de Servicio (SLA)'
-    opening_times: 'Lunes a Viernes<br/>10:00 - 17:00 (CET)'
+    support_channel: "Canal de soporte"
+    newsletter: "Boletín informativo"
+    help_area: "Área de ayuda"
+    forum: "Foro SeaTable"
+    support_tickets: "Tickets de soporte/correo electrónico"
+    workshop: "Taller de incorporación"
+    personal_contact: "Contacto personal asignado"
+    professional_services: "Servicios profesionales (de pago)"
+    telephone: "Soporte telefónico"
+    remote_hands: "Asistencia remota"
+    customized_dev: "Desarrollo personalizado (plugins, scripts, plantillas)"
+    trainings: "Capacitaciones y talleres"
+    service_level: "Nivel de servicio"
+    availability: "Disponibilidad"
+    response_time: "Tiempo de respuesta"
+    service_time: "Horario de servicio"
+    best_effort: "Mejor esfuerzo"
+    sla: "Acuerdo de Nivel de Servicio (SLA)"
+    opening_times: "Lunes a Viernes<br/>10:00 - 17:00 (CET)"
 
 product_comparison_table:
-    editions: 'Ediciones'
-    use_free: 'Uso gratuito'
-    administration: 'Administración'
-    any_location: 'Cualquier ubicación de servidor'
-    automatic_updates: 'Actualizaciones automáticas'
-    own_admin: 'Administración propia'
-    command_line: 'Acceso a línea de comandos Linux'
-    authentication: 'Autenticación personalizada'
-    customizing: 'Personalización'
-    custom_logo: 'Logo personalizado'
-    custom_url: 'URL personalizada'
-    custom_templates: 'Plantillas personalizadas'
-    custom_roles: 'Roles de usuario personalizados'
-    support: 'Soporte'
-    corporate_support: 'Soporte corporativo opcional'
-    requirements: 'Requisitos'
-    only_free: '(solo SeaTable Free)'
-    only_enterprise: '(solo SeaTable Enterprise)'
-    up_to_three_users: '(hasta 3 usuarios)'
-    email: 'Dirección de correo electrónico'
-    min_100_users: 'Mín. 100 usuarios'
-    server_or_vm: 'Servidor Linux o máquina virtual'
+    editions: "Ediciones"
+    use_free: "Uso gratuito"
+    administration: "Administración"
+    any_location: "Cualquier ubicación de servidor"
+    automatic_updates: "Actualizaciones automáticas"
+    own_admin: "Administración propia"
+    command_line: "Acceso a línea de comandos Linux"
+    authentication: "Autenticación personalizada"
+    customizing: "Personalización"
+    custom_logo: "Logo personalizado"
+    custom_url: "URL personalizada"
+    custom_templates: "Plantillas personalizadas"
+    custom_roles: "Roles de usuario personalizados"
+    support: "Soporte"
+    corporate_support: "Soporte corporativo opcional"
+    requirements: "Requisitos"
+    only_free: "(solo SeaTable Free)"
+    only_enterprise: "(solo SeaTable Enterprise)"
+    up_to_three_users: "(hasta 3 usuarios)"
+    email: "Dirección de correo electrónico"
+    min_100_users: "Mín. 100 usuarios"
+    server_or_vm: "Servidor Linux o máquina virtual"
 
 contact_sales: Contactar con ventas
-read_more: 'Leer más'
+read_more: "Leer más"
 
 price_table:
-    month: 'Mes'
-    yearly: 'Anual'
-    monthly: 'Mensual'
-    unlimited_bases: 'Bases ilimitadas'
-    unlimited_tables: 'Tablas ilimitadas'
-    rows: 'Filas'
+    month: "Mes"
+    yearly: "Anual"
+    monthly: "Mensual"
+    unlimited_bases: "Bases ilimitadas"
+    unlimited_tables: "Tablas ilimitadas"
+    rows: "Filas"
     #rows_per_base: 'Filas por Base'
-    gb_for_files: 'GB para archivos'
-    month_snapshot: 'Mese de Snapshots'
-    month_snapshots: 'Meses de Snapshots'
-    unlimited_javascript: 'JavaScript ilimitado'
-    python_runs: 'Ejecuciones de Python'
-    api_runs: 'Llamadas API'
-    api_runs_per_user: 'Llamadas API por usuario'
-    unlimited_rows: 'Filas ilimitadas'
-    unlimited_python: 'Ejecuciones ilimitadas de Python'
-    unlimited_api_runs: 'Llamadas API ilimitado'
-    advanced_sharing: 'Compartición avanzada'
-    advanced_customization: 'Personalización avanzada'
-    automations: 'Automatizaciones'
-    big_data_storage: 'Almacenamiento Big Data'
-    bank_transfer_payment: 'Pago por transferencia bancaria'
-    unlimited_api_calls: 'Llamadas API ilimitadas'
-    enterprise_admin_panel: 'Panel de Administración Enterprise'
-    sso_integration: 'Single Sign-On mediante SAML y OAuth'
-    corporate_support: 'Soporte Corporativo opcional y SLAs'
-    start_now: 'Comenzar ahora'
-    contact_sales: 'Contactar a ventas'
-    for_up_to_25_users: 'Para hasta 25 usuarios'
-    no_credit_card_needed: 'No se requiere tarjeta de crédito'
-    per_user_month: 'Por usuario/mes'
-    yearly_billing: 'Facturación anual'
-    monthly_billing: 'Facturación mensual'
-    min_100_users: 'Mínimo 100 usuarios'
+    gb_for_files: "GB para archivos"
+    month_snapshot: "Mese de Snapshots"
+    month_snapshots: "Meses de Snapshots"
+    unlimited_javascript: "JavaScript ilimitado"
+    python_runs: "Ejecuciones de Python"
+    api_runs: "Llamadas API"
+    api_runs_per_user: "Llamadas API por usuario"
+    unlimited_rows: "Filas ilimitadas"
+    unlimited_python: "Ejecuciones ilimitadas de Python"
+    unlimited_api_runs: "Llamadas API ilimitado"
+    advanced_sharing: "Compartición avanzada"
+    advanced_customization: "Personalización avanzada"
+    automations: "Automatizaciones"
+    big_data_storage: "Almacenamiento Big Data"
+    bank_transfer_payment: "Pago por transferencia bancaria"
+    unlimited_api_calls: "Llamadas API ilimitadas"
+    enterprise_admin_panel: "Panel de Administración Enterprise"
+    sso_integration: "Single Sign-On mediante SAML y OAuth"
+    corporate_support: "Soporte Corporativo opcional y SLAs"
+    start_now: "Comenzar ahora"
+    contact_sales: "Contactar a ventas"
+    for_up_to_25_users: "Para hasta 25 usuarios"
+    no_credit_card_needed: "No se requiere tarjeta de crédito"
+    per_user_month: "Por usuario/mes"
+    yearly_billing: "Facturación anual"
+    monthly_billing: "Facturación mensual"
+    min_100_users: "Mínimo 100 usuarios"
     team_saml: Single Sign-On mediante SAML
     ai_credits_per_user: Créditos de IA por usuario
 
     year: Año
     years: Años
     user: Usuario
-    yearly_license: '-licencia anual'
-    download: 'Descarga gratuita'
-    buy: 'Suscríbete ahora'
-    free: 'Gratis permanentemente'
-    u10_y1: 'https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM'
-    u25_y1: 'https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL'
-    u10_y2: 'https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f'
-    u25_y2: 'https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE'
-    u10_y3: 'https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK'
-    u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
+    yearly_license: "-licencia anual"
+    download: "Descarga gratuita"
+    buy: "Suscríbete ahora"
+    free: "Gratis permanentemente"
+    u10_y1: "https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM"
+    u25_y1: "https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL"
+    u10_y2: "https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f"
+    u25_y2: "https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE"
+    u10_y3: "https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK"
+    u25_y3: "https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3"
     cloud: Nube
     on-premises: En las instalaciones
 
 help_area:
-    category: 'Categoría'
-    section: 'Sección'
-    available_with: 'Disponible con'
-    toc: 'Índice'
-    more_articles: 'Más artículos en esta categoría'
+    category: "Categoría"
+    section: "Sección"
+    available_with: "Disponible con"
+    toc: "Índice"
+    more_articles: "Más artículos en esta categoría"
 
 templates:
-    all: 'Todas las plantillas'
-    categories: 'Categorías'
-    categorie: 'Categoría'
-    functions: 'Funciones'
-    back: 'Volver al resumen'
-    use_template: 'Usar plantilla'
-    preview: 'Vista previa'
+    all: "Todas las plantillas"
+    categories: "Categorías"
+    categorie: "Categoría"
+    functions: "Funciones"
+    back: "Volver al resumen"
+    use_template: "Usar plantilla"
+    preview: "Vista previa"
 
 template-box:
-    text: '¿Tienes curiosidad? Desplázate por nuestra plantilla interactiva y descubre sus primeras funciones.'
-    submit: 'Probar plantilla'
+    text: "¿Tienes curiosidad? Desplázate por nuestra plantilla interactiva y descubre sus primeras funciones."
+    submit: "Probar plantilla"
 
 customer-logo:
-    company: 'Empresa'
-    industry: 'Industria'
-    location: 'Ubicación'
+    company: "Empresa"
+    industry: "Industria"
+    location: "Ubicación"
 
 customer-story:
-    subtitle: 'Lo que dicen nuestros clientes'
-    link-text: 'Saber más'
+    subtitle: "Lo que dicen nuestros clientes"
+    link-text: "Saber más"
 
 newsletter-subscribe:
-    title: 'Suscríbete a nuestro boletín'
-    subtitle: ''
-    inner: '¡Suscríbete a nuestro boletín y mantente informado!'
-    submit: 'Suscribirse'
+    title: "Suscríbete a nuestro boletín"
+    subtitle: ""
+    inner: "¡Suscríbete a nuestro boletín y mantente informado!"
+    submit: "Suscribirse"
 
 blog-register:
-    title: 'No Code, no Limits | SeaTable'
-    item1: 'Bases de datos flexibles'
-    item2: 'Creador de aplicaciones universal'
-    item3: 'Colaboración en tiempo real'
-    text: '¡Y todo esto conforme al RGPD!'
-    submit: 'Pruébalo ahora'
+    title: "No Code, no Limits | SeaTable"
+    item1: "Bases de datos flexibles"
+    item2: "Creador de aplicaciones universal"
+    item3: "Colaboración en tiempo real"
+    text: "¡Y todo esto conforme al RGPD!"
+    submit: "Pruébalo ahora"
+
+partners:
+    available_filters: Filtros disponibles
+    select_placeholder: Seleccione una opción...
+    language: Idioma
+    industry_expertise: Experiencia en la industria
+    region: Región
+    services: Servicios
+    typical_customers: Clientes típicos
+
+partner:
+    back_to_directory: Volver al directorio
+    contact: Contacto
+    website: Sitio web
+    about: Acerca de
+    former_clients: Clientes anteriores
+    customer_references: Referencias de clientes
 
 cookies:
-    text: 'Este sitio web utiliza cookies para garantizar que obtengas la mejor experiencia en nuestro sitio web.'
+    text: "Este sitio web utiliza cookies para garantizar que obtengas la mejor experiencia en nuestro sitio web."
     link: Más información
     confirm: Entendido

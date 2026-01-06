@@ -1,237 +1,254 @@
 navigation:
-    login: 'Вход в систему'
-    registration: 'Регистрация'
+    login: "Вход в систему"
+    registration: "Регистрация"
 
 error:
-    404_title: 'Страница не найдена :confused:'
-    404_error: 'Error 404'
-    404_description: 'Похоже, что запрошенная вами страница не существует.'
+    404_title: "Страница не найдена :confused:"
+    404_error: "Error 404"
+    404_description: "Похоже, что запрошенная вами страница не существует."
 
 article:
-    table_of_contents: 'Оглавление'
+    table_of_contents: "Оглавление"
 
 legal:
-    version: 'Версия'
-    published_on: 'опубликовано на'
+    version: "Версия"
+    published_on: "опубликовано на"
 
 registration:
-    email_label: 'Электронная почта'
-    email_placeholder: 'Введите адрес электронной почты...'
-    email_invalid: 'Этот адрес электронной почты кажется неполным'
-    email_required: 'Электронная почта обязательна'
-    submit: 'Зарегистрироваться'
-    send: 'Отправка регистрации...'
-    success: 'Регистрация прошла успешно. Проверьте вашу почту.'
-    error: 'Произошла ошибка.'
+    email_label: "Электронная почта"
+    email_placeholder: "Введите адрес электронной почты..."
+    email_invalid: "Этот адрес электронной почты кажется неполным"
+    email_required: "Электронная почта обязательна"
+    submit: "Зарегистрироваться"
+    send: "Отправка регистрации..."
+    success: "Регистрация прошла успешно. Проверьте вашу почту."
+    error: "Произошла ошибка."
 
 contact:
     concern:
-        label: 'Тема'
-        free: 'Мне нужна поддержка (SeaTable Cloud Free или бесплатная лицензия на 3 пользователей)'
-        support: 'Мне нужна поддержка'
-        sales: 'Я хотел(а) бы получить предложение'
-        question: 'У меня есть вопрос, и я хотел(а) бы связаться'
+        label: "Тема"
+        free: "Мне нужна поддержка (SeaTable Cloud Free или бесплатная лицензия на 3 пользователей)"
+        support: "Мне нужна поддержка"
+        sales: "Я хотел(а) бы получить предложение"
+        question: "У меня есть вопрос, и я хотел(а) бы связаться"
     support_forum: |
         Если вы используете бесплатный облачный план **SeaTable Free**, **самостоятельно размещаемую версию Developer Edition** или **бесплатную лицензию на 3 пользователей** и вам требуется помощь, пожалуйста, посетите наш [Форум сообщества](https://forum.seatable.com).<br/>  
         В настоящее время, к сожалению, мы не можем предоставить прямую поддержку пользователям без платной лицензии. Однако на форуме вы получите быструю и компетентную помощь от нашего сообщества.
     create_tickets_in_team_admin: |
         Если у вас есть подписка **SeaTable Cloud Plus** или **Enterprise**, вы можете создавать заявки в службу поддержки напрямую в [администрации команды](https://account.seatable.com/support).</a><br/><br/>
         **Преимущество:** вы можете удобно отслеживать все свои заявки и их статус обработки.
-    teamname: 'Название вашей команды'
-    first_name: 'Имя'
-    last_name: 'Фамилия'
-    company: 'Компания'
-    email: 'Электронная почта'
+    teamname: "Название вашей команды"
+    first_name: "Имя"
+    last_name: "Фамилия"
+    company: "Компания"
+    email: "Электронная почта"
     org_type:
-        label: 'Тип организации (необязательно)'
-        business: 'Бизнес (коммерческая деятельность)'
-        education: 'Образование (некоммерческая деятельность)'
-        research: 'Исследования (некоммерческая деятельность)'
-        public_sector: 'Государственный сектор (некоммерческая деятельность)'
-        other_type: 'Другое (некоммерческая деятельность)'
-    phone: 'Телефон (необязательно)'
-    phone_hint: 'Номер телефона позволяет нам отвечать особенно быстро.'
-    url: 'URL (необязательно)'
-    address: 'Адрес (необязательно)'
-    country: 'Страна (необязательно)'
-    vat_id: 'ИНН/НДС (необязательно)'
-    products: 'Продукты (возможен множественный выбор)'
-    preferred_language: 'Предпочитаемый язык'
-    german: 'Немецкий'
-    english: 'Английский'
-    french: 'Французский'
+        label: "Тип организации (необязательно)"
+        business: "Бизнес (коммерческая деятельность)"
+        education: "Образование (некоммерческая деятельность)"
+        research: "Исследования (некоммерческая деятельность)"
+        public_sector: "Государственный сектор (некоммерческая деятельность)"
+        other_type: "Другое (некоммерческая деятельность)"
+    phone: "Телефон (необязательно)"
+    phone_hint: "Номер телефона позволяет нам отвечать особенно быстро."
+    url: "URL (необязательно)"
+    address: "Адрес (необязательно)"
+    country: "Страна (необязательно)"
+    vat_id: "ИНН/НДС (необязательно)"
+    products: "Продукты (возможен множественный выбор)"
+    preferred_language: "Предпочитаемый язык"
+    german: "Немецкий"
+    english: "Английский"
+    french: "Французский"
     reason:
-        label: 'Причина обращения'
-        access_to_seatable: 'Доступ к SeaTable'
-        team_admin_area: 'Административная зона команды'
-        invoicing: 'Выставление счетов'
-        data_migration: 'Миграция данных'
-        api_and_integration: 'API и интеграция'
-        scripting: 'Сценарии'
-        licensing: 'Лицензирование'
-        bug_report: 'Сообщение об ошибке'
-        security: 'Конфиденциальность и безопасность'
-        partner_request: 'Запрос о партнёрстве'
-        other_reason: 'Другое'
-    message: 'Ваше сообщение'
-    message_sales_placeholder: 'Было бы полезно, если бы вы указали количество пользователей и срок действия лицензии.'
-    submit: 'Отправить сообщение'
-    send: 'Отправка вашего сообщения...'
-    success: 'Мы получили ваше сообщение.'
-    error: 'Произошла ошибка.'
+        label: "Причина обращения"
+        access_to_seatable: "Доступ к SeaTable"
+        team_admin_area: "Административная зона команды"
+        invoicing: "Выставление счетов"
+        data_migration: "Миграция данных"
+        api_and_integration: "API и интеграция"
+        scripting: "Сценарии"
+        licensing: "Лицензирование"
+        bug_report: "Сообщение об ошибке"
+        security: "Конфиденциальность и безопасность"
+        partner_request: "Запрос о партнёрстве"
+        other_reason: "Другое"
+    message: "Ваше сообщение"
+    message_sales_placeholder: "Было бы полезно, если бы вы указали количество пользователей и срок действия лицензии."
+    submit: "Отправить сообщение"
+    send: "Отправка вашего сообщения..."
+    success: "Мы получили ваше сообщение."
+    error: "Произошла ошибка."
 
 newsletter:
-    submit: 'Подписаться'
-    send: 'Отправка подписки...'
-    success: 'Подписка успешна. Проверьте свой почтовый ящик.'
-    error: 'Произошла ошибка.'
+    submit: "Подписаться"
+    send: "Отправка подписки..."
+    success: "Подписка успешна. Проверьте свой почтовый ящик."
+    error: "Произошла ошибка."
 
 support_table:
-    support_channel: 'Канал поддержки'
-    newsletter: 'Рассылка'
-    help_area: 'Справочный раздел'
-    forum: 'Форум SeaTable'
-    support_tickets: 'Тикеты поддержки/почта'
-    workshop: 'Вводный воркшоп'
-    personal_contact: 'Персональный контакт'
-    professional_services: 'Профессиональные услуги (платные)'
-    telephone: 'Телефонная поддержка'
-    remote_hands: 'Удаленная поддержка'
-    customized_dev: 'Индивидуальная разработка (плагины, скрипты, шаблоны)'
-    trainings: 'Обучение и воркшопы'
-    service_level: 'Уровень сервиса'
-    availability: 'Доступность'
-    response_time: 'Время ответа'
-    service_time: 'Часы работы'
-    best_effort: 'Усилия по возможности'
-    sla: 'SLA (Соглашение об уровне сервиса)'
-    opening_times: 'Понедельник-Пятница<br/>10:00-17:00 (CET)'
+    support_channel: "Канал поддержки"
+    newsletter: "Рассылка"
+    help_area: "Справочный раздел"
+    forum: "Форум SeaTable"
+    support_tickets: "Тикеты поддержки/почта"
+    workshop: "Вводный воркшоп"
+    personal_contact: "Персональный контакт"
+    professional_services: "Профессиональные услуги (платные)"
+    telephone: "Телефонная поддержка"
+    remote_hands: "Удаленная поддержка"
+    customized_dev: "Индивидуальная разработка (плагины, скрипты, шаблоны)"
+    trainings: "Обучение и воркшопы"
+    service_level: "Уровень сервиса"
+    availability: "Доступность"
+    response_time: "Время ответа"
+    service_time: "Часы работы"
+    best_effort: "Усилия по возможности"
+    sla: "SLA (Соглашение об уровне сервиса)"
+    opening_times: "Понедельник-Пятница<br/>10:00-17:00 (CET)"
 
 product_comparison_table:
-    editions: 'Редакции'
-    use_free: 'Бесплатное использование'
-    administration: 'Администрирование'
-    any_location: 'Любое расположение сервера'
-    automatic_updates: 'Автоматические обновления'
-    own_admin: 'Собственное администрирование'
-    command_line: 'Доступ к командной строке Linux'
-    authentication: 'Собственная аутентификация'
-    customizing: 'Кастомизация'
-    custom_logo: 'Собственный логотип'
-    custom_url: 'Пользовательский URL'
-    custom_templates: 'Пользовательские шаблоны'
-    custom_roles: 'Пользовательские роли'
-    support: 'Поддержка'
-    corporate_support: 'Корпоративная поддержка (опционально)'
-    requirements: 'Требования'
-    only_free: '(только SeaTable Free)'
-    only_enterprise: '(только SeaTable Enterprise)'
-    up_to_three_users: '(до 3 пользователей)'
-    email: 'Адрес электронной почты'
-    min_100_users: 'Мин. 100 пользователей'
-    server_or_vm: 'Linux сервер или виртуальная машина'
+    editions: "Редакции"
+    use_free: "Бесплатное использование"
+    administration: "Администрирование"
+    any_location: "Любое расположение сервера"
+    automatic_updates: "Автоматические обновления"
+    own_admin: "Собственное администрирование"
+    command_line: "Доступ к командной строке Linux"
+    authentication: "Собственная аутентификация"
+    customizing: "Кастомизация"
+    custom_logo: "Собственный логотип"
+    custom_url: "Пользовательский URL"
+    custom_templates: "Пользовательские шаблоны"
+    custom_roles: "Пользовательские роли"
+    support: "Поддержка"
+    corporate_support: "Корпоративная поддержка (опционально)"
+    requirements: "Требования"
+    only_free: "(только SeaTable Free)"
+    only_enterprise: "(только SeaTable Enterprise)"
+    up_to_three_users: "(до 3 пользователей)"
+    email: "Адрес электронной почты"
+    min_100_users: "Мин. 100 пользователей"
+    server_or_vm: "Linux сервер или виртуальная машина"
 
-contact_sales: 'Связаться с отделом продаж'
-read_more: 'Читать дальше'
+contact_sales: "Связаться с отделом продаж"
+read_more: "Читать дальше"
 
 price_table:
-    month: 'Месяц'
-    yearly: 'Годовой'
-    monthly: 'Ежемесячный'
-    unlimited_bases: 'Неограниченное количество баз'
-    unlimited_tables: 'Неограниченное количество таблиц'
-    rows: 'Строки'
+    month: "Месяц"
+    yearly: "Годовой"
+    monthly: "Ежемесячный"
+    unlimited_bases: "Неограниченное количество баз"
+    unlimited_tables: "Неограниченное количество таблиц"
+    rows: "Строки"
     #rows_per_base: 'Строк в базе'
-    gb_for_files: 'ГБ для файлов'
-    month_snapshot: 'Месяцев снимков'
-    month_snapshots: 'Месяцев снимков'
-    unlimited_javascript: 'Неограниченный JavaScript'
-    python_runs: 'Запуски Python'
-    api_runs: 'Вызовы Api'
-    api_runs_per_user: 'Вызовы Api hа пользователя'
-    unlimited_rows: 'Неограниченное количество строк'
-    unlimited_python: 'Неограниченные запуски Python'
-    unlimited_api_runs: 'Неограниченное Вызовы Api'
-    advanced_sharing: 'Расширенный доступ'
-    advanced_customization: 'Расширенная настройка'
-    automations: 'Автоматизация'
-    big_data_storage: 'Хранилище Big Data'
-    bank_transfer_payment: 'Оплата банковским переводом'
-    unlimited_api_calls: 'Неограниченные API-вызовы'
-    enterprise_admin_panel: 'Административная панель Enterprise'
-    sso_integration: 'Single Sign-On через SAML и OAuth'
-    corporate_support: 'Корпоративная поддержка и SLA'
-    start_now: 'Начать сейчас'
-    contact_sales: 'Связаться с отделом продаж'
-    for_up_to_25_users: 'До 25 пользователей'
-    no_credit_card_needed: 'Кредитная карта не требуется'
-    per_user_month: 'На пользователя/месяц'
-    yearly_billing: 'Годовая оплата'
-    monthly_billing: 'Ежемесячная оплата'
-    min_100_users: 'Минимум 100 пользователей'
+    gb_for_files: "ГБ для файлов"
+    month_snapshot: "Месяцев снимков"
+    month_snapshots: "Месяцев снимков"
+    unlimited_javascript: "Неограниченный JavaScript"
+    python_runs: "Запуски Python"
+    api_runs: "Вызовы Api"
+    api_runs_per_user: "Вызовы Api hа пользователя"
+    unlimited_rows: "Неограниченное количество строк"
+    unlimited_python: "Неограниченные запуски Python"
+    unlimited_api_runs: "Неограниченное Вызовы Api"
+    advanced_sharing: "Расширенный доступ"
+    advanced_customization: "Расширенная настройка"
+    automations: "Автоматизация"
+    big_data_storage: "Хранилище Big Data"
+    bank_transfer_payment: "Оплата банковским переводом"
+    unlimited_api_calls: "Неограниченные API-вызовы"
+    enterprise_admin_panel: "Административная панель Enterprise"
+    sso_integration: "Single Sign-On через SAML и OAuth"
+    corporate_support: "Корпоративная поддержка и SLA"
+    start_now: "Начать сейчас"
+    contact_sales: "Связаться с отделом продаж"
+    for_up_to_25_users: "До 25 пользователей"
+    no_credit_card_needed: "Кредитная карта не требуется"
+    per_user_month: "На пользователя/месяц"
+    yearly_billing: "Годовая оплата"
+    monthly_billing: "Ежемесячная оплата"
+    min_100_users: "Минимум 100 пользователей"
     team_saml: Single Sign-On через SAML
     ai_credits_per_user: Кредиты ИИ на пользователя
 
     year: Год
     years: Лет
     user: Пользователь
-    yearly_license: '-годовая лицензия'
-    download: 'Скачать бесплатно'
-    buy: 'Оформить подписку'
-    free: 'Бесплатно навсегда'
-    u10_y1: 'https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM'
-    u25_y1: 'https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL'
-    u10_y2: 'https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f'
-    u25_y2: 'https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE'
-    u10_y3: 'https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK'
-    u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
+    yearly_license: "-годовая лицензия"
+    download: "Скачать бесплатно"
+    buy: "Оформить подписку"
+    free: "Бесплатно навсегда"
+    u10_y1: "https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM"
+    u25_y1: "https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL"
+    u10_y2: "https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f"
+    u25_y2: "https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE"
+    u10_y3: "https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK"
+    u25_y3: "https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3"
     cloud: Cloud
     on-premises: On-Premises
 
 help_area:
-    category: 'Категория'
-    section: 'Раздел'
-    available_with: 'Доступно с'
-    toc: 'Содержание'
-    more_articles: 'Больше статей в этой категории'
+    category: "Категория"
+    section: "Раздел"
+    available_with: "Доступно с"
+    toc: "Содержание"
+    more_articles: "Больше статей в этой категории"
 
 templates:
-    all: 'Bce шаблоны'
-    categories: 'Категории'
-    categorie: 'Категория'
-    functions: 'Функции'
-    back: 'Назад к обзору'
-    use_template: 'Использовать шаблон'
-    preview: 'Предпросмотр'
+    all: "Bce шаблоны"
+    categories: "Категории"
+    categorie: "Категория"
+    functions: "Функции"
+    back: "Назад к обзору"
+    use_template: "Использовать шаблон"
+    preview: "Предпросмотр"
 
 template-box:
-    text: 'Заинтригованы? Пролистайте наш интерактивный шаблон и откройте для себя его первые функции.'
-    submit: 'Тестировать шаблон'
+    text: "Заинтригованы? Пролистайте наш интерактивный шаблон и откройте для себя его первые функции."
+    submit: "Тестировать шаблон"
 
 customer-logo:
-    company: 'Компания'
-    industry: 'Отрасль'
-    location: 'Местоположение'
+    company: "Компания"
+    industry: "Отрасль"
+    location: "Местоположение"
 
 customer-story:
-    subtitle: 'Что говорят наши клиенты'
-    link-text: 'Узнать больше'
+    subtitle: "Что говорят наши клиенты"
+    link-text: "Узнать больше"
 
 newsletter-subscribe:
-    title: 'Подпишитесь на нашу рассылку'
-    subtitle: ''
-    inner: 'Подпишитесь на нашу рассылку и всегда будьте в курсе!'
-    submit: 'Подписаться'
+    title: "Подпишитесь на нашу рассылку"
+    subtitle: ""
+    inner: "Подпишитесь на нашу рассылку и всегда будьте в курсе!"
+    submit: "Подписаться"
 
 blog-register:
-    title: 'No Code, no Limits | SeaTable'
-    item1: 'Гибкие базы данных'
-    item2: 'Универсальный конструктор приложений'
-    item3: 'Совместная работа в реальном времени'
-    text: 'И всё это в соответствии с GDPR!'
-    submit: 'Попробовать сейчас'
+    title: "No Code, no Limits | SeaTable"
+    item1: "Гибкие базы данных"
+    item2: "Универсальный конструктор приложений"
+    item3: "Совместная работа в реальном времени"
+    text: "И всё это в соответствии с GDPR!"
+    submit: "Попробовать сейчас"
+
+partners:
+    available_filters: Доступные фильтры
+    select_placeholder: Выберите вариант...
+    language: Язык
+    industry_expertise: Отраслевая экспертиза
+    region: Регион
+    services: Услуги
+    typical_customers: Типичные клиенты
+
+partner:
+    back_to_directory: Назад к каталогу
+    contact: Контакт
+    website: Веб-сайт
+    about: О компании
+    former_clients: Бывшие клиенты
+    customer_references: Рекомендации клиентов
 
 cookies:
-    text: 'Этот веб-сайт использует файлы cookie, чтобы обеспечить вам наилучшие условия для работы на нашем сайте.'
+    text: "Этот веб-сайт использует файлы cookie, чтобы обеспечить вам наилучшие условия для работы на нашем сайте."
     link: Подробнее
     confirm: Понятно
