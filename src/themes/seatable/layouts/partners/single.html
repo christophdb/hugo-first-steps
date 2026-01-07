@@ -1,0 +1,138 @@
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full">
+        <article class="">
+            <div class="flex items-center gap-3">
+                <!-- Icon-Box links -->
+                <span class="flex h-10 w-10 shrink-0 items-center justify-center rounded border border-gray-400">
+                    <a href="/partners" class="flex items-center justify-center">
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                            data-test-icon=""
+                            width="20px"
+                            height="20px"
+                            class="text-text dark:text-icon-reversed dark:group-hover/button:text-icon-reversed dark:group-active/button:text-icon-reversed h-5 w-5 shrink-0 transition-colors">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                        </svg>
+                    </a>
+                </span>
+
+                <!-- Text rechts daneben -->
+                <div class="text-base font-bold text-gray-700">{{ T "partner.back_to_directory" }}</div>
+            </div>
+
+            {{ $partner := .Params.partner }}
+
+
+            <div class="mt-16 flex w-full flex-col gap-12 md:flex-row">
+                <!-- left -->
+                <div class="flex w-full flex-col gap-4 md:w-80 md:max-w-80">
+                    <div class="rounded-lg border border-gray-300">
+                        <span class="block w-full rounded-t-lg bg-green-800 px-2 py-4 text-center font-poppins text-xl font-bold text-white"
+                            >{{ index $partner.partner_type 0 }}</span
+                        >
+
+                        {{ with $partner.logo_path }}
+                            <img src="{{ . }}" alt="{{ $partner.partner }}" class="mx-auto my-8 block h-20 w-48 object-contain" />
+                        {{ end }}
+
+
+                        <div class="mb-8 mt-4 flex flex-col gap-1 border-t border-gray-200 px-6">
+                            <h3 class="!pt-6 pb-4 !text-xl tracking-tight">{{ $partner.partner }}</h3>
+                            <span class="text-gray-600">{{ $partner.company_address }} </span>
+                            <a href="mailto:{{ $partner.contact_email }}" class="mt-8 block rounded-lg bg-green-800 px-4 py-2 text-center font-bold text-white"
+                                >{{ T "partner.contact" }}</a
+                            >
+                            <a
+                                href="{{ $partner.company_website }}"
+                                target="_blank"
+                                class="mt-2 block rounded-lg border border-gray-400 px-4 py-2 text-center font-bold text-gray-800"
+                                >{{ T "partner.website" }}</a
+                            >
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-4 rounded-lg border border-gray-300 p-6">
+                        <div>
+                            <h3>{{ T "partners.industry_expertise" }}</h3>
+                            <ul class="list-disc pl-6 pt-1">
+                                {{ range $partner.industry_expertise }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </div>
+
+                        <div>
+                            <h3>{{ T "partners.services" }}</h3>
+                            <ul class="list-disc pl-6 pt-1">
+                                {{ range $partner.support_areas }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </div>
+
+                        <!-- FIXME: Needs to be added to base -->
+                        <div>
+                            <h3>{{ T "partners.region" }}</h3>
+                            <ul class="list-disc pl-6 pt-1">
+                                <li>Europe</li>
+                            </ul>
+                        </div>
+
+                        <div>
+                            <h3>{{ T "partners.language" }}</h3>
+                            <ul class="list-disc pl-6 pt-1">
+                                {{ range $partner.languages }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col gap-4 rounded-lg border border-gray-300 p-6">
+                        <h3>{{ T "partner.contact" }}</h3>
+                        <div class="flex flex-col pl-2 text-sm">
+                            <span class="pb-2 font-bold text-gray-600">{{ $partner.contact_name }}</span>
+                            <span class="text-gray-600">{{ $partner.contact_position }}</span>
+                            {{/* TODO: Spam protection? */}}
+                            <span class="text-gray-600">{{ $partner.email_for_customer_inquiries }}</span>
+                            <span class="text-gray-600">{{ $partner.phone_number_for_customer_inquiries }}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- max width of the blog posts is 768px -> image optimization -->
+                <div class="w-full md:w-3/5">
+                    <h2 class="mt-0 !pt-0 pb-4 text-3xl">{{ T "partner.about" }} {{ $partner.partner }}</h2>
+
+                    {{ .Content }}
+
+                    {{/* TODO: Former Clients */}}
+                    <h3 class="mt-12 border-t pb-4 pt-12 text-xl">{{ T "partner.former_clients" }}</h3>
+                    <div class="grid grid-cols-3 gap-12">
+                        <div class="flex h-24 items-center justify-center rounded-xl border p-4">
+                            <img
+                                class="max-h-20 max-w-full object-contain"
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY2xpZW50cy8xMWMxMmJkNC04YWUwLTRhNTktODA3OS0wMjA1ZjVlYzM3ZjkvNmU0Mjg2MzQtNWMyMS00MGJiLWIyOWYtNTAyNzlmNjQ5NzdjLnBuZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsInJlc2l6ZSI6eyJ3aWR0aCI6NTYwLCJoZWlnaHQiOjQ4LCJmaXQiOiJpbnNpZGUiLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjowfX19fQ==" />
+                        </div>
+                        <div class="flex h-24 items-center justify-center rounded-xl border p-4">
+                            <img
+                                class="max-h-20 max-w-full object-contain"
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY2xpZW50cy8xMWMxMmJkNC04YWUwLTRhNTktODA3OS0wMjA1ZjVlYzM3ZjkvOThkMTU2YzUtZTZkNS00MTNiLWJmOWEtNDU3MDU3MTRiMzcwLnBuZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsInJlc2l6ZSI6eyJ3aWR0aCI6NTYwLCJoZWlnaHQiOjQ4LCJmaXQiOiJpbnNpZGUiLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjowfX19fQ==" />
+                        </div>
+                        <div class="flex h-24 items-center justify-center rounded-xl border p-4">
+                            <img
+                                class="max-h-20 max-w-full object-contain"
+                                src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY2xpZW50cy8xMWMxMmJkNC04YWUwLTRhNTktODA3OS0wMjA1ZjVlYzM3ZjkvODA4OTMwMmUtZjhmZS00ODliLTk2Y2UtNzE2NWJmNTMyYTdiLnBuZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsInJlc2l6ZSI6eyJ3aWR0aCI6NTYwLCJoZWlnaHQiOjQ4LCJmaXQiOiJpbnNpZGUiLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjowfX19fQ==" />
+                        </div>
+                    </div>
+
+                    {{/* TODO: Customer References */}}
+                    <h3 class="pb-4 pt-20 text-xl">{{ T "partner.customer_references" }}</h3>
+                    ...
+                </div>
+            </div>
+        </article>
+    </section>
+{{ end }}
