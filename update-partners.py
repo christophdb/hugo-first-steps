@@ -120,11 +120,10 @@ def generate_frontmatter(partner: dict, language_slug: str) -> str:
     url_by_language_slug = {
         'en': f'/partners/{partner["slug"]}',
         'de': f'/de/partner/{partner["slug"]}',
-        # FIXME: Translate static URL parts
-        'fr': f'/fr/partner/{partner["slug"]}',
-        'es': f'/es/partner/{partner["slug"]}',
-        'pt': f'/pt/partner/{partner["slug"]}',
-        'ru': f'/ru/partner/{partner["slug"]}',
+        'fr': f'/fr/partenaires/{partner["slug"]}',
+        'es': f'/es/socios/{partner["slug"]}',
+        'pt': f'/pt/parceiros/{partner["slug"]}',
+        'ru': f'/ru/partnyory/{partner["slug"]}',
     }
 
     data = {

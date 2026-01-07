@@ -179,7 +179,7 @@
                 <div class="mb-20 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                     <template x-for="partner in getFilteredPartners()">
                         <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
-                            <a :href="`/partners/${partner.slug}`" class="!no-underline">
+                            <a :href="window.location.pathname.replace(/\/$/, '') + '/' + partner.slug" class="!no-underline">
                                 <img x-show="partner.logo_path" :src="partner.logo_path" alt="Feature Image" class="mx-auto my-8 block h-20 w-48 object-contain" />
                                 {{/* Fallback div */}}
                                 <div x-show="!partner.logo_path" class="mx-auto my-8 block h-20 w-48 bg-white object-contain"></div>
