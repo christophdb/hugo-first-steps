@@ -214,17 +214,22 @@ sections:
           - headline: La vue tableau
             text: Dans l’éditeur de base de SeaTable, vous pouvez saisir, modifier et organiser vos données dans des vues tableau flexibles, qui rappellent les tableurs classiques et offrent de nombreuses fonctionnalités supplémentaires.
             image: '/tmp/SeaTable_Base.png'
+            image_alt: 'Vue en tableau de SeaTable comme alternative flexible à Airtable pour organiser les données d’entreprise'
           - headline: La page d’accueil avec toutes les bases
             text: La page d’accueil de SeaTable offre une vue d’ensemble claire de toutes vos bases, vous permettant de passer rapidement d’un projet ou d’une base de données à l’autre.
             image: '/tmp/SeaTable_Baseoverview.png'
+            image_alt: 'Page d’accueil de SeaTable avec une vue claire de toutes les bases et projets'
           - headline: L’application universelle
             text: Avec l’application universelle, vous pouvez créer des applications personnalisées basées sur vos données et adapter de manière flexible les workflows et les vues à vos besoins.
             image: '/tmp/UniversalApp.png'
+            image_alt: 'Application universelle SeaTable pour créer des applications personnalisées sans code à partir de vos données'
           - headline: Formulaires web
             image: '/tmp/SeaTable_Webformular_1.png'
+            image_alt: 'Formulaire web SeaTable pour collecter des données structurées directement dans un tableau'
             text: SeaTable permet de créer facilement des formulaires web pour collecter des données structurées auprès de tiers et les intégrer directement dans vos tableaux.
           - headline: Statistiques
             image: '/tmp/SeaTable_Statistiken_uebersicht.png'
+            image_alt: 'Aperçu des fonctions de statistiques de SeaTable pour visualiser et analyser les données de tableaux'
             text: Grâce aux fonctions statistiques, vous pouvez analyser et visualiser directement vos données dans SeaTable afin d’obtenir rapidement des insights et des analyses.
 
     - name: 'faq'

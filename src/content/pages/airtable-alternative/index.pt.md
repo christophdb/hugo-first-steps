@@ -214,17 +214,22 @@ sections:
           - headline: A visualização em tabela
             text: No editor de bases do SeaTable, você pode registrar, editar e organizar seus dados em visualizações de tabela flexíveis, que lembram planilhas clássicas e oferecem diversos recursos adicionais.
             image: '/tmp/SeaTable_Base.png'
+            image_alt: 'Vista de tabela do SeaTable como alternativa flexível ao Airtable para organizar dados empresariais'
           - headline: A página inicial com todas as bases
             text: A página inicial do SeaTable oferece uma visão clara de todas as suas bases, permitindo alternar rapidamente entre diferentes projetos e bancos de dados.
             image: '/tmp/SeaTable_Baseoverview.png'
+            image_alt: 'Tela inicial do SeaTable com uma visão clara de todas as bases e projetos'
           - headline: O aplicativo universal
             text: Com o aplicativo universal, você pode criar aplicações personalizadas baseadas em seus dados e adaptar fluxos de trabalho e visualizações de forma flexível às suas necessidades.
             image: '/tmp/UniversalApp.png'
+            image_alt: 'Aplicativo universal do SeaTable para criar aplicações personalizadas sem código com base nos seus dados'
           - headline: Formulários web
             image: '/tmp/SeaTable_Webformular_1.png'
+            image_alt: 'Formulário web do SeaTable para coletar dados estruturados diretamente em uma tabela'
             text: SeaTable permite criar facilmente formulários web para coletar dados estruturados de terceiros e integrá-los diretamente às suas tabelas.
           - headline: Estatísticas
             image: '/tmp/SeaTable_Statistiken_uebersicht.png'
+            image_alt: 'Visão geral dos recursos de estatísticas do SeaTable para visualizar e analisar dados de tabelas'
             text: Com as funções estatísticas, você pode analisar e visualizar seus dados diretamente no SeaTable para obter insights e análises rapidamente.
 
     - name: 'faq'

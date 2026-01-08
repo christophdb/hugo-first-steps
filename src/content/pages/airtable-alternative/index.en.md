@@ -212,17 +212,22 @@ sections:
           - headline: The table view
             text: As an alternative to Airtable, you can record, edit and organize your data in SeaTable in tables and views that are just as flexible and offer numerous additional functions.
             image: '/tmp/SeaTable_Base.png'
+            image_alt: 'SeaTable table view as a flexible Airtable alternative for organizing business data'
           - headline: The homepage with all bases
             text: SeaTable’s homepage provides a clear overview of all your bases, allowing you to quickly switch between different projects and databases.
             image: '/tmp/SeaTable_Baseoverview.png'
+            image_alt: 'SeaTable home screen with a clear overview of all bases and projects'
           - headline: The Universal App
             text: With the Universal App, you can create custom applications based on your data and flexibly adapt workflows and views to your needs.
             image: '/tmp/UniversalApp.png'
+            image_alt: 'SeaTable Universal App for building custom no-code applications based on your data'
           - headline: Web forms
             image: '/tmp/SeaTable_Webformular_1.png'
+            image_alt: 'SeaTable web form for collecting structured data directly into a table'
             text: SeaTable enables easy creation of web forms, allowing you to collect structured data from third parties and integrate it directly into your tables.
           - headline: Statistics
             image: '/tmp/SeaTable_Statistiken_uebersicht.png'
+            image_alt: 'Overview of SeaTable statistics features for visualizing and analyzing table data'
             text: With the statistics functions, you can directly analyze and visualize your data in SeaTable to quickly gain insights and perform analyses.
 
     - name: 'faq'

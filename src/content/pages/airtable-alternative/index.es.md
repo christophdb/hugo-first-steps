@@ -214,17 +214,22 @@ sections:
           - headline: La vista de tabla
             text: En el editor de bases de SeaTable, puede capturar, editar y organizar sus datos en vistas de tabla flexibles, que recuerdan a las hojas de cálculo clásicas y ofrecen numerosas funciones adicionales.
             image: '/tmp/SeaTable_Base.png'
+            image_alt: 'Vista de tabla de SeaTable como alternativa flexible a Airtable para organizar datos empresariales'
           - headline: La página de inicio con todas las bases
             text: La página de inicio de SeaTable ofrece una visión clara de todas sus bases, permitiéndole cambiar rápidamente entre diferentes proyectos y bases de datos.
             image: '/tmp/SeaTable_Baseoverview.png'
+            image_alt: 'Pantalla de inicio de SeaTable con una vista clara de todas las bases y proyectos'
           - headline: La aplicación universal
             text: Con la aplicación universal puede crear aplicaciones personalizadas basadas en sus datos y adaptar de forma flexible los flujos de trabajo y las vistas a sus necesidades.
             image: '/tmp/UniversalApp.png'
+            image_alt: 'Aplicación universal de SeaTable para crear aplicaciones personalizadas sin código basadas en sus datos'
           - headline: Formularios web
             image: '/tmp/SeaTable_Webformular_1.png'
+            image_alt: 'Formulario web de SeaTable para recopilar datos estructurados directamente en una tabla'
             text: SeaTable permite la creación sencilla de formularios web para recopilar datos estructurados de terceros e integrarlos directamente en sus tablas.
           - headline: Estadísticas
             image: '/tmp/SeaTable_Statistiken_uebersicht.png'
+            image_alt: 'Vista general de las funciones de estadísticas de SeaTable para visualizar y analizar datos de tablas'
             text: Con las funciones estadísticas puede analizar y visualizar directamente sus datos en SeaTable para obtener rápidamente información y análisis.
 
     - name: 'faq'
