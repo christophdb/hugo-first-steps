@@ -71,21 +71,21 @@ sections:
       items:
           - text: 'Editor Base'
             image: '/images/template-content-marketing-strategie.png'
-            image_alt: 'Editor Base'
+            image_alt: 'Editor de bases SeaTable para organizar dados de marketing'
           - text: 'Galeria'
             image: '/images/galerie-plugin.png'
-            image_alt: 'Galeria'
+            image_alt: 'Vista de galeria no SeaTable para visualizar dados'
           - text: 'Kanban'
-            image_alt: ''
+            image_alt: 'Quadro Kanban no SeaTable para gestão ágil de projetos'
             image: '/images/kanban-plugin.png'
           - text: 'Linha do tempo'
-            image_alt: ''
+            image_alt: 'Vista de linha do tempo no SeaTable para planejar projetos'
             image: '/images/timeline-plugin.png'
           - text: 'Calendário'
-            image_alt: ''
+            image_alt: 'Vista de calendário no SeaTable para agendar tarefas'
             image: '/images/calendar-plugin.png'
           - text: 'Relacionamentos de tabela'
-            image_alt: ''
+            image_alt: 'Visualização de relações entre tabelas no SeaTable'
             image: '/images/table-relationship-plugin.png'
 
     - name: 'customer-1'
@@ -123,6 +123,7 @@ sections:
           - headline: 'Trabalho colaborativo em tempo real para equipes'
             text: 'O SeaTable promove colaboração em sua equipe através de sincronização em tempo real e espaços de trabalho compartilhados. Todos na equipe podem acessar os mesmos dados ao mesmo tempo, fazer alterações e ver o que outros estão trabalhando.<br/><br/>Isso torna o SeaTable uma ferramenta ideal para equipes que querem trabalhar juntas em projetos e aumentar sua produtividade. Nossa plataforma no-code/low-code também suporta trabalho colaborativo através de recursos de comentários e compartilhamento, ajudando você a otimizar o trabalho em equipe.'
       image: /images/Group-38.png
+      image_alt: 'Construtor de apps SeaTable com edição colaborativa em tempo real'
 
     - name: content-2
       weight: 6
@@ -155,15 +156,15 @@ sections:
           - headline: 'Registro de horas trabalhadas'
             text: Recursos humanos
             image: /images/template-projektplan.png
-            image_alt: Editor Base
+            image_alt: Modelo SeaTable para registo de horas e planeamento de projetos
           - headline: Plano de ação
             text: Projetos
             image: /images/template-massnahmenplan.jpg
-            image_alt:
+            image_alt: Modelo SeaTable para plano de ações e acompanhamento de tarefas
           - headline: Plano editorial
             text: Marketing
             image: '/images/galerie-plugin.png'
-            image_alt:
+            image_alt: Modelo SeaTable para planeamento editorial em marketing
       buttons:
           - label: 'Encontre mais modelos para sua área de aplicação'
             link: 'index'
@@ -238,6 +239,7 @@ sections:
           - text: 'Sejam sistemas CRM, ferramentas de marketing ou outros aplicativos empresariais - o SeaTable permite uma <strong>integração simples e flexível na sua infraestrutura de TI existente</strong>.'
           - text: 'Nossa plataforma no-code suporta integração com diversas ferramentas e ajuda você a otimizar sua infraestrutura de TI.'
       image: '/images/seatable-integrations.png'
+      image_alt: 'Visão geral das integrações do SeaTable com ferramentas de terceiros'
 
     - name: content-5
       weight: 13
