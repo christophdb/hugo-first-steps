@@ -97,13 +97,13 @@ Uno de los errores más comunes es tratar **todas las tareas como igual de impor
 
 Muchos constructores privados empiezan su calendario de construcción con una simple hoja de cálculo de Excel. Esto es muy útil para empezar, pero en cuanto intervienen varias personas, se convierte rápidamente en algo confuso. Las diferentes versiones de los archivos, los cambios y la falta de sincronización suelen generar confusión.
 
-Con SeaTable, puede crear su programa de construcción, personalizarlo en cualquier momento y compartirlo con los demás. Los cambios se aplican automáticamente y puede ver inmediatamente si algo cambia. El sitio [Programador de obras]({{< relref "templates/real-estate/construction-schedule" >}}) es gratuito e ideal para constructores privados que deseen gestionar su proyecto de forma estructurada y clara.
+Con la [plataforma sin código de IA]({{< relref "/" >}}), personalizarlo en cualquier momento y compartirlo con los demás. Los cambios se aplican automáticamente y puede ver inmediatamente si algo cambia. El sitio [Programador de obras]({{< relref "templates/real-estate/construction-schedule" >}}) es gratuito e ideal para constructores privados que deseen gestionar su proyecto de forma estructurada y clara.
 
 {{< template-box id="ef8bfa0896864e698655" >}}
 
 Tanto si desea crear un plan de obra para la renovación de un edificio antiguo como un plan de obra para su bloque de apartamentos, puede personalizar de forma flexible la plantilla gratuita SeaTable para adaptarla a su proyecto de construcción. Tiene la opción de insertar columnas adicionales, por ejemplo para costes, fechas de entrega o listas de materiales, y puede mostrar su plan en forma de tabla, calendario o diagrama de Gantt, según desee.
 
-La colaboración simultánea de varias personas resulta especialmente práctica. Todos los implicados -profesionales, arquitectos o familiares- pueden acceder al mismo plan y tener a la vista el estado actual en todo momento. SeaTable reduce los malentendidos, garantiza la transparencia de los procesos y facilita enormemente la gestión de su proyecto de construcción.
+La colaboración simultánea de varias personas resulta especialmente práctica. Todos los implicados -profesionales, arquitectos o familiares- pueden acceder al mismo plan y tener a la vista el estado actual en todo momento. SeaTable reduce los malentendidos, garantiza la transparencia de los procesos y facilita enormemente la gestión de su proyecto de construcción. Además, los usuarios pueden  analizar textos, evaluar documentos o extraer información importante con la nueva función de IA.
 
 [Regístrese]({{< relref "pages/registration" >}}) y experimente con qué facilidad y claridad puede crear su programa de construcción.
 

@@ -103,7 +103,7 @@ With the [AI no-code-platform]({{< relref "/" >}}), you can create your construc
 
 Whether you want to create a construction schedule for an old building renovation or a construction schedule for your apartment building, you can flexibly adapt the free SeaTable template to your construction project. You have the option of inserting additional columns, for example for costs, delivery dates or material lists, and can display your plan as a table, calendar or Gantt chart as required.
 
-The simultaneous collaboration of several people is particularly practical. Everyone involved - tradesmen, architects or family members - can access the same plan and have an overview of the current status at all times. SeaTable reduces misunderstandings, ensures transparent processes and makes it much easier to manage your construction project.
+The simultaneous collaboration of several people is particularly practical. Everyone involved - tradesmen, architects or family members - can access the same plan and have an overview of the current status at all times. SeaTable reduces misunderstandings, ensures transparent processes and makes it much easier to manage your construction project. Furthermore, users can analyze texts, evaluate documents, or extract important information with the new AI function.
 
 [Register yourself]({{< relref "pages/registration" >}}) and experience how easily and clearly you can create your construction schedule.
 
