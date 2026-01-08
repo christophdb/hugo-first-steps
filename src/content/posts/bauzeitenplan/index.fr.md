@@ -97,13 +97,13 @@ L'une des erreurs les plus fréquentes est de **traiter toutes les tâches comme
 
 De nombreux maîtres d'ouvrage privés commencent leur calendrier de construction avec un simple tableau Excel. C'est très utile pour commencer, mais dès que plusieurs personnes sont impliquées, cela devient vite confus. Les différentes versions de fichiers, les modifications et le manque de synchronisation entraînent souvent une certaine confusion.
 
-Avec SeaTable, vous pouvez créer votre calendrier de construction, l'adapter à tout moment et le partager avec d'autres. Les modifications sont automatiquement prises en compte et vous voyez immédiatement si quelque chose a été déplacé. Le [calendrier de construction]({{< relref "templates/real-estate/construction-schedule" >}}) est gratuit et convient parfaitement aux maîtres d'ouvrage privés qui souhaitent gérer leur projet de manière structurée et claire.
+Grâce à la [plateforme IA sans code]({{< relref "/" >}}), vous pouvez créer votre calendrier de construction, le modifier à tout moment et le partager avec d'autres personnes. Les modifications sont automatiquement prises en compte et vous voyez immédiatement si quelque chose a été déplacé. Le [calendrier de construction]({{< relref "templates/real-estate/construction-schedule" >}}) est gratuit et convient parfaitement aux maîtres d'ouvrage privés qui souhaitent gérer leur projet de manière structurée et claire.
 
 {{< template-box id="ef8bfa0896864e698655" >}}
 
 Que vous souhaitiez créer un calendrier de construction pour la rénovation d'un bâtiment ancien ou un calendrier de construction pour votre immeuble, le modèle gratuit de SeaTable peut être adapté de manière flexible à votre projet de construction. Vous avez la possibilité d'ajouter des colonnes supplémentaires, par exemple pour les coûts, les dates de livraison ou les listes de matériaux, et vous pouvez présenter votre plan sous forme de tableau, de calendrier ou de diagramme de Gantt, selon vos besoins.
 
-La collaboration simultanée de plusieurs personnes est particulièrement pratique. Toutes les personnes concernées - artisans, architectes ou membres de la famille - peuvent accéder au même plan et voir à tout moment l'état actuel. SeaTable réduit ainsi les malentendus, assure la transparence des processus et facilite considérablement le pilotage de votre projet de construction.
+La collaboration simultanée de plusieurs personnes est particulièrement pratique. Toutes les personnes concernées - artisans, architectes ou membres de la famille - peuvent accéder au même plan et voir à tout moment l'état actuel. SeaTable réduit ainsi les malentendus, assure la transparence des processus et facilite considérablement le pilotage de votre projet de construction. En outre, grâce à la nouvelle fonction d'intelligence artificielle, les utilisateurs peuvent analyser des textes, évaluer des documents ou extraire des informations importantes.
 
 [S'inscrire]({{< relref "pages/registration" >}}) et découvrez comme il est facile et clair d'établir votre calendrier de construction.
 

@@ -103,7 +103,7 @@ Mit der [KI No-Code-Plattform]({{< relref "/" >}}) können Sie Ihren Bauzeitenpl
 
 Ob Sie einen Bauzeitenplan für eine Altbausanierung oder einen Bauablaufplan für Ihr Mehrfamilienhaus erstellen möchten, das kostenlose Template von SeaTable können Sie flexibel an Ihr Bauprojekt anpassen. Sie haben die Möglichkeit, zusätzliche Spalten einzufügen, etwa für Kosten, Liefertermine oder Materiallisten, und können Ihren Plan je nach Bedarf als Tabelle, Kalender oder Gantt-Diagramm darstellen.
 
-Besonders praktisch ist die gleichzeitige Zusammenarbeit mehrerer Personen. Alle Beteiligten – Handwerker, Architekten oder Familienmitglieder – können auf denselben Plan zugreifen und haben jederzeit den aktuellen Stand im Blick. So reduziert SeaTable Missverständnisse, sorgt für transparente Abläufe und erleichtert die Steuerung Ihres Bauprojekts erheblich.
+Besonders praktisch ist die gleichzeitige Zusammenarbeit mehrerer Personen. Alle Beteiligten – Handwerker, Architekten oder Familienmitglieder – können auf denselben Plan zugreifen und haben jederzeit den aktuellen Stand im Blick. So reduziert SeaTable Missverständnisse, sorgt für transparente Abläufe und erleichtert die Steuerung Ihres Bauprojekts erheblich. Des Weiteren können Nutzer  mit der neuen KI-Funktion Texte analysieren, Dokumente auswerten oder wichtige Informationen extrahieren.
 
 [Registrieren Sie sich]({{< relref "pages/registration" >}}) und erleben Sie, wie einfach und übersichtlich Sie Ihren Bauzeitenplan erstellen können.
 
