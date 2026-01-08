@@ -493,5 +493,70 @@
         <!-- toc highlight -->
         {{ $toc := resources.Get "js/toc-highlight.js" | fingerprint }}
         <script src="{{ $toc.RelPermalink }}" integrity="{{ $toc.Data.Integrity }}" defer></script>
+
+        <script>
+            // Event Capturing habe ich verstanden...
+            //posthog.capture('superdupa anom event');
+            //posthog.reset(true); -> damit kriege ich eine neue distinct_id
+            //posthog.identify('me3@example.com', { email: 'me3@example.com', name: 'Mike' });
+            //posthog.capture('identified event');
+            //posthog.reset();
+            //posthog.capture('new_event', { name: 'abd', type: 'order', other: 'adfadf' });
+            /*posthog.setPersonProperties(
+                { name: 'Max Hedgehog' }, // $set properties
+                { initial_url: '/blog' }, // $set_once properties
+            );*/
+            /*posthog.capture('event_name', {
+                $set: { name: 'Mr. Fox' },
+                $set_once: { initial_url: '/pricing' },
+            });*/
+
+            //posthog.reset();
+            //posthog.identify('me4@example.com', { email: 'me4@example.com', name: 'Mike' });
+            //posthog.capture('visit_registration');
+
+            /*
+            // da vorher schon identify, wird me4@example.com auch direkt zum team hinzugefügt.
+            //posthog.reset();
+            posthog.identify('me5@example.com', { email: 'me5@example.com', name: 'Me5' });
+            posthog.capture('visit_registration');
+            posthog.group('team', 'test_1', {
+                name: 'Test 1',   -> das muss mit übergeben werden bzw. mindesten ein property muss übergeben werden.
+            });
+            posthog.capture('event in team');
+            // => funnel geht auch dann über gruppen.
+            */
+
+            /*
+            //posthog.identify('me9@example.com', { email: 'me9@example.com', name: 'Me9' });
+            //posthog.capture('visit_registration');
+            posthog.capture('$groupidentify', {
+                $group_type: 'team',
+                $group_key: 'test_1',
+                $group_set: {
+                    name: 'Test 1',
+                },
+            });
+            posthog.capture('event in team');
+            // => jetzt wird der User Teil des Teams -> nö.
+            // => ne anscheinend doch nicht... weil das event nicht der Gruppe zugeordnet wird.
+            */
+
+            /*
+            // man kann auch ein event für eine gruppe erfassen, ohne einen user bezug
+            // so funktioniert das aktuell noch nicht! => ist nicht für Frontend gedacht, sondern nur für BACKEND!
+            //posthog.reset();
+            //posthog.identify('me10@example.com', { email: 'me10@example.com', name: 'Me10' });
+            //posthog.capture('visit_registration');
+            posthog.debug(true);
+            // -> das habe ich gebraucht!
+            posthog.capture({
+                event: 'group_event_name',
+                distinctId: 'static_string_for_group_events',
+                groups: { team: 'test_1' },
+            });
+            // -> morgen mache ich das alles mit php!
+            */
+        </script>
     </body>
 </html>
