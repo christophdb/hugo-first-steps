@@ -71,21 +71,21 @@ sections:
       items:
           - text: 'Редактор базы'
             image: '/images/template-content-marketing-strategie.png'
-            image_alt: 'Редактор базы'
+            image_alt: 'Редактор баз SeaTable для организации маркетинговых данных'
           - text: 'Галерея'
             image: '/images/galerie-plugin.png'
-            image_alt: 'Галерея'
+            image_alt: 'Галерейный вид в SeaTable для визуализации данных'
           - text: 'Канбан'
-            image_alt: ''
+            image_alt: 'Доска Канбан в SeaTable для гибкого управления проектами'
             image: '/images/kanban-plugin.png'
           - text: 'Таймлайн'
-            image_alt: ''
+            image_alt: 'Представление временной шкалы в SeaTable для планирования проектов'
             image: '/images/timeline-plugin.png'
           - text: 'Календарь'
-            image_alt: ''
+            image_alt: 'Календарное представление в SeaTable для планирования задач'
             image: '/images/calendar-plugin.png'
           - text: 'Связи таблиц'
-            image_alt: ''
+            image_alt: 'Визуализация связей таблиц в SeaTable'
             image: '/images/table-relationship-plugin.png'
 
     - name: 'customer-1'
@@ -123,6 +123,7 @@ sections:
           - headline: 'Совместная работа в реальном времени для команд'
             text: 'SeaTable способствует сотрудничеству в вашей команде через синхронизацию в реальном времени и общие рабочие пространства. Все члены команды могут одновременно получать доступ к одним и тем же данным, вносить изменения и видеть, над чем работают другие.<br/><br/>Это делает SeaTable идеальным инструментом для команд, которые хотят совместно работать над проектами и повышать свою продуктивность.'
       image: /images/Group-38.png
+      image_alt: 'Конструктор приложений SeaTable с совместным редактированием'
 
     - name: content-2
       weight: 6
@@ -155,15 +156,15 @@ sections:
           - headline: 'Учет рабочего времени'
             text: 'HR'
             image: '/images/template-projektplan.png'
-            image_alt: 'Редактор базы'
+            image_alt: 'Шаблон SeaTable для учета времени и планирования проектов'
           - headline: 'План мероприятий'
             text: 'Проекты'
             image: '/images/template-massnahmenplan.jpg'
-            image_alt: ''
+            image_alt: 'Шаблон SeaTable для плана мероприятий и отслеживания задач'
           - headline: 'Редакционный план'
             text: 'Маркетинг'
             image: '/images/galerie-plugin.png'
-            image_alt: ''
+            image_alt: 'Шаблон SeaTable для редакционного планирования в маркетинге'
       buttons:
           - label: 'Найти больше шаблонов для вашей сферы'
             link: 'templates'
@@ -238,6 +239,7 @@ sections:
           - text: 'Будь то CRM-системы, маркетинговые инструменты или другие бизнес-приложения — SeaTable обеспечивает <strong>гибкую интеграцию в вашу ИТ-инфраструктуру</strong>.'
           - text: 'Наша no-code платформа поддерживает интеграцию с множеством инструментов и помогает оптимизировать ИТ-инфраструктуру.'
       image: '/images/seatable-integrations.png'
+      image_alt: 'Обзор интеграций SeaTable с внешними инструментами'
 
     - name: content-5
       weight: 13

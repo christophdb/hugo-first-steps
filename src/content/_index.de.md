@@ -66,21 +66,21 @@ sections:
   items:
   - text: "Base Editor"
     image: "/images/template-content-marketing-strategie.png"
-    image_alt: "Base Editor"
+    image_alt: "SeaTable Base-Editor zur Organisation von Marketingdaten"
   - text: "Galerie"
     image: "/images/galerie-plugin.png"
-    image_alt: "Galerie"
+    image_alt: "Galerieansicht in SeaTable zur visuellen Darstellung von Daten"
   - text: "Kanban"
-    image_alt: "Kanban"
+    image_alt: "Kanban-Board in SeaTable für agiles Projektmanagement"
     image: "/images/kanban-plugin.png"
   - text: "Zeitleiste"
-    image_alt: "Zeitleiste"
+    image_alt: "Zeitleistenansicht in SeaTable zur Projektplanung"
     image: "/images/timeline-plugin.png"
   - text: "Kalender"
-    image_alt: "Kalender"
+    image_alt: "Kalenderansicht in SeaTable zur Terminplanung von Aufgaben"
     image: "/images/calendar-plugin.png"
   - text: "Tabellenbeziehungen"
-    image_alt: "Tabellenbeziehungen"
+    image_alt: "Visualisierung von Tabellenbeziehungen in SeaTable"
     image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
@@ -117,6 +117,7 @@ sections:
     text: "SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche.
       Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.<br/><br/>Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren."
   image: /images/Group-38.png
+  image_alt: 'SeaTable App-Builder mit gemeinsamer Bearbeitung in Echtzeit'
 
 - name: content-2
   weight: 6
@@ -146,15 +147,15 @@ sections:
   - headline: "Arbeitszeiterfassung"
     text: Personalwesen
     image: /images/template-projektplan.png
-    image_alt: Base Editor
+    image_alt: 'SeaTable Vorlage für Arbeitszeiterfassung und Projektplanung'
   - headline: Maßnahmenplan
     text: Projekte
     image: /images/template-massnahmenplan.jpg
-    image_alt: Maßnahmenplan 
+    image_alt: 'SeaTable Vorlage für Maßnahmenplan und Aufgabenverfolgung' 
   - headline: Redaktionsplan
     text: Marketing
     image: "/images/galerie-plugin.png"
-    image_alt: Marketing
+    image_alt: 'SeaTable Vorlage für Redaktionsplan im Marketing'
   buttons:
     - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
       link: "templates"
@@ -231,6 +232,7 @@ sections:
   - text: "Ob CRM-Systeme, Marketing-Tools oder andere Geschäftsanwendungen – SeaTable ermöglicht eine einfache und <strong>flexible Integration in Ihre bestehende IT-Landschaft</strong>."
   - text: 'Unsere No-Code-Plattform unterstützt die Integration mit zahlreichen Tools und hilft Ihnen, Ihre IT-Infrastruktur zu optimieren.'
   image: "/images/seatable-integrations.png"
+  image_alt: 'Übersicht der SeaTable Integrationen mit Drittanbieter-Tools'
 
 - name: content-5
   weight: 13

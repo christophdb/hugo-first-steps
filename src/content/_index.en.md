@@ -75,21 +75,21 @@ sections:
   items:
   - text: "Base Editor"
     image: "/images/template-content-marketing-strategie.png"
-    image_alt: "Base Editor"
+    image_alt: "SeaTable base editor for organizing marketing data"
   - text: "Gallery"
     image: "/images/galerie-plugin.png"
-    image_alt: "Galerie"
+    image_alt: "Gallery view in SeaTable for visualizing data"
   - text: "Kanban"
-    image_alt: "Kanban"
+    image_alt: "Kanban board in SeaTable for agile project management"
     image: "/images/kanban-plugin.png"
   - text: "Timeline"
-    image_alt: "Timeline"
+    image_alt: "Timeline view in SeaTable for project planning"
     image: "/images/timeline-plugin.png"
   - text: "Calendar"
-    image_alt: "Calendar"
+    image_alt: "Calendar view in SeaTable for scheduling tasks"
     image: "/images/calendar-plugin.png"
   - text: "Table relationships"
-    image_alt: "Table relationships"
+    image_alt: "Visualization of table relationships in SeaTable"
     image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
@@ -127,12 +127,13 @@ sections:
   - headline: "Collaborative working in real time for teams"
     text: "SeaTable promotes collaboration in your team through real-time synchronization and shared workspaces. Everyone in the team can access the same data at the same time, make changes and see what others are working on.<br/><br/>This makes SeaTable an ideal tool for teams who want to work together on projects and increase their productivity. Our no-code/low-code platform also supports collaborative work through commenting and sharing features, helping you to optimize your teamwork."
   image: /images/Group-38.png
+  image_alt: 'SeaTable app builder with real-time collaborative editing'
 
 - name: content-2
   weight: 6
-  subtitle: Why SeaTable?
-  title: Discover the advantages of the SeaTable no-code platform
-  description: 
+  subtitle: 'Why SeaTable?'
+  title: 'Discover the advantages of the SeaTable no-code platform
+  description:'
   items:
   - headline: "No code, full flexibility"
     text: "Say goodbye to complex programming processes. Even the most demanding processes can be created using a simple drag-and-drop interface."
@@ -159,15 +160,15 @@ sections:
   - headline: "Working time recording"
     text: Human resources
     image: /images/template-projektplan.png
-    image_alt: Base Editor
+    image_alt: 'SeaTable template for time tracking and project planning'
   - headline: Action plan
     text: Projects
     image: /images/template-massnahmenplan.jpg
-    image_alt: Projects Template
+    image_alt: 'SeaTable template for action plan and task tracking'
   - headline: Editorial plan
     text: Marketing
     image: "/images/galerie-plugin.png"
-    image_alt: Marketing Template
+    image_alt: 'SeaTable template for editorial planning in marketing'
   buttons:
     - label: "Find more templates for your area of application"
       link: "templates"
@@ -246,6 +247,7 @@ sections:
   - text: "Whether CRM systems, marketing tools or other business applications - SeaTable enables simple and <strong>flexible integration into your existing IT landscape</strong>."
   - text: "Our no-code platform supports integration with numerous tools and helps you to optimize your IT infrastructure."
   image: "/images/seatable-integrations.png"
+  image_alt: 'Overview of SeaTable integrations with third‑party tools'
 
 - name: content-5
   weight: 13
