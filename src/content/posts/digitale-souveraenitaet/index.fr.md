@@ -75,7 +75,7 @@ La tendance du stockage local vers le [cloud]({{< relref "posts/202503-cloud-com
 
 {{< warning headline="Cloud, IA et autres technologies clés " >}}
 
-C'est au plus tard en cherchant des solutions européennes conformes au RGPD que l'on se rend compte à quel point elles sont rares. L'Europe est à la traîne dans de nombreuses technologies clés et dépend d'acteurs extérieurs au continent. Qu'il s'agisse des **infrastructures cloud** d'Amazon, Microsoft et Google, des **systèmes d'exploitation mobiles** d'Apple et Android ou des **réseaux sociaux** américains et chinois, des domaines clés du monde numérique sont entre des mains étrangères. Même la recherche et le développement **de l'intelligence artificielle, de l'automatisation et de l'informatique quantique** se font en grande partie en dehors de l'Europe. Pourtant, il n'est pas trop tard pour combler une partie de notre retard. Les premiers pas vers une plus grande souveraineté numérique en Europe sont déjà faits. La [plateforme No-Code SeaTable]({{< relref "/" >}}) en est un exemple.
+C'est au plus tard en cherchant des solutions européennes conformes au RGPD que l'on se rend compte à quel point elles sont rares. L'Europe est à la traîne dans de nombreuses technologies clés et dépend d'acteurs extérieurs au continent. Qu'il s'agisse des **infrastructures cloud** d'Amazon, Microsoft et Google, des **systèmes d'exploitation mobiles** d'Apple et Android ou des **réseaux sociaux** américains et chinois, des domaines clés du monde numérique sont entre des mains étrangères. Même la recherche et le développement **de l'intelligence artificielle, de l'automatisation et de l'informatique quantique** se font en grande partie en dehors de l'Europe. Pourtant, il n'est pas trop tard pour combler une partie de notre retard. Les premiers pas vers une plus grande souveraineté numérique en Europe sont déjà faits. La [plateforme d'IA No-Code SeaTable]({{< relref "/" >}}) en est un exemple.
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ Avec les solutions sur site, vous exploitez vos systèmes informatiques **sur vo
 
 ## Acquérir une souveraineté numérique avec SeaTable
 
-La plate-forme sans code SeaTable vous permet de créer vos propres bases de données, applications et processus automatisés sans aucune connaissance en programmation. Ce faisant, vous êtes libre de choisir le degré de souveraineté numérique que vous souhaitez avoir :
+La plate-forme sans code SeaTable vous permet de créer vos propres bases de données, applications **processus automatisés assistés par l'IA** sans aucune connaissance en programmation. Ce faisant, vous êtes libre de choisir le degré de souveraineté numérique que vous souhaitez avoir :
 
 *   Avec [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), vous bénéficiez de l'évolutivité et du confort de notre cloud. Vous n'avez pas besoin de votre propre infrastructure et vous êtes prêt à démarrer immédiatement. Toutes les données sont stockées dans des centres de données allemands, conformément au RGPD.
     
