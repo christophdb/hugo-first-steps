@@ -42,6 +42,7 @@ sections:
           - text: Universal App Builder for frontend use
           - text: SeaTable Cloud or SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image_alt: 'SeaTable interface for individual IT service management with tickets and assets'
 
     - name: content-25
       weight: 3
@@ -52,18 +53,23 @@ sections:
           - headline: Customizable Tables and Views
             text: User-defined table structures and visualizations for better organization of IT projects.
             image: /images/Software-Deevelopment_Views.png
+            image_alt: 'SeaTable table and board views for organizing IT projects'
           - headline: Calculations and Formula Editor
             text: Detailed evaluations and analyses with an intuitive formula editor and statistics module.
             image: /images/Software-Development_Formula.png
+            image_alt: 'SeaTable formula editor and statistics for IT analyses'
           - headline: Granular Access Rights
             text: Manage access and editing rights at various levels for maximum security and compliance.
             image: /images/Software-Development_Permission-sets.png
+            image_alt: 'SeaTable view for granular access rights and permission sets'
           - headline: Versioning and Change Tracking
             text: Track all changes in real time and restore previous versions.
             image: /images/Software-Development_Logs.png
+            image_alt: 'SeaTable change logs for versioning and audit trails in ITSM'
           - headline: Project Management App
             text: With SeaTable's no-code app builder, create web-based apps—no programming knowledge required. In such a project management app, you can precisely control which data your project team members can see and how it's visualized.
             image: /images/Software-Development_Universal-App.png
+            image_alt: 'SeaTable project management app for web-based IT service management workflows'
 
     - name: 'content-10'
       weight: 4
@@ -118,22 +124,22 @@ sections:
       items:
           - text: Software Testing
             image: /images/Software-Dev_-Software-Test_Template.png
-            image_alt: 'This template helps you organize test cases, create test plans, and track results. It can be easily expanded to include additional test types or checks.'
+            image_alt: 'SeaTable ITSM template for organizing software tests and test cases'
           - text: Bug Tracker
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            image_alt: 'Keep track of software bugs at all times: This template lets you report, prioritize, and monitor the status of bug fixes in real-time.'
+            image_alt: 'SeaTable bug tracker template for logging and tracking IT issues'
           - text: Product Launch
             image: /images/Software-Dev_-Product-Launch_Template.png
-            image_alt: 'Efficiently plan and coordinate new product launches. This template helps you manage tasks, responsibilities, and deadlines.'
+            image_alt: 'SeaTable template for planning product launches in IT projects'
           - text: Technology Roadmap
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            image_alt: 'Plan and coordinate new product introductions efficiently. This template helps you manage tasks, responsibilities, and deadlines.'
+            image_alt: 'SeaTable template for technology roadmap and IT strategy planning'
           - text: Feature Requests
             image: /images/Software-Dev_-Feature-Request_Template.png
-            image_alt: 'Collect, prioritize, and plan stakeholder feature requests. Customize the template to add additional criteria or rating systems.'
+            image_alt: 'SeaTable template for capturing and prioritizing feature requests'
           - text: Kanban Board
             image: /images/Software-Dev_-Kanban_Template.png
-            image_alt: 'Use a customizable Kanban board to track the progress of IT projects, tasks, and responsibilities.'
+            image_alt: 'SeaTable Kanban board template for IT service management tasks'
       buttons:
           - label: Discover All Templates
             link: 'templates'
@@ -164,6 +170,7 @@ sections:
       items:
           - text: Accelerate your digital transformation while aligning your IT strategy with overarching business goals! With SeaTable, you can customize [digital processes]({{< relref "pages/industry-solutions/operations" >}}) to your company's specific requirements. Through integrations and flexible data models, you can effectively implement digital strategies and accelerate your IT transformation.
             image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
+            image_alt: 'SeaTable dashboard for digital transformation and IT service management'
             image_position: right
 
     - name: 'content-4'

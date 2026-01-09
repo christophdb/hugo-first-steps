@@ -39,6 +39,7 @@ sections:
           - text: Universal App Builder für Frontend-Nutzung
           - text: SeaTable Cloud oder SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image_alt: 'SeaTable Oberfläche für individuelles IT Service Management mit Tickets und Assets'
 
     - name: content-25
       weight: 3
@@ -49,18 +50,23 @@ sections:
           - headline: Anpassbare Tabellen und Ansichten
             text: Benutzerdefinierte Tabellenstrukturen und Visualisierungen für eine bessere Organisation von IT Projekten.
             image: /images/Software-Deevelopment_Views.png
+            image_alt: 'SeaTable Tabellen- und Board-Ansichten zur Organisation von IT Projekten'
           - headline: Berechnungen und Formel-Editor
             text: Detaillierte Auswertungen und Analysen mit intuitivem Formel-Editor und Statistik-Modul.
             image: /images/Software-Development_Formula.png
+            image_alt: 'SeaTable Formel-Editor und Statistiken für IT-Auswertungen'
           - headline: Granulare Zugriffsrechte
             text: Verwaltung Sie Zugriffs- und Bearbeitungsrechte auf verschiedenen Ebenen für höchste Sicherheit und Compliance.
             image: /images/Software-Development_Permission-sets.png
+            image_alt: 'SeaTable Ansicht für granulare Zugriffsrechte und Berechtigungssätze'
           - headline: Versionierung und Änderungsverfolgung
             text: Verfolgen Sie alle Änderungen in Echtzeit und stellen Sie frühere Versionen wieder her.
             image: /images/Software-Development_Logs.png
+            image_alt: 'SeaTable Änderungsprotokolle für Versionierung und Audit-Trails im ITSM'
           - headline: Projektmanagement App
             text: Mit dem No-Code-App-Builder von SeaTable erstellen Sie webbasierte Apps – ganz ohne Programmierkenntnisse. In einer solchen Projekt Management App können Sie genau steuern, wer in Ihrem Projektteam welche Daten sehen kann und wie diese visualisiert werden.
             image: /images/Software-Development_Universal-App.png
+            image_alt: 'SeaTable Projektmanagement App für webbasierte IT Service Management Workflows'
 
     - name: 'content-10'
       weight: 4
@@ -114,22 +120,22 @@ sections:
       items:
           - text: Software-Tests
             image: /images/Software-Dev_-Software-Test_Template.png
-            image_alt: "Mit dieser Vorlage können Sie Testfälle organisieren, Testpläne erstellen und die Ergebnisse zu verfolgen. Sie lässt sich leicht um zusätzliche Testarten oder Prüfungen erweiterm."
+            image_alt: "SeaTable ITSM Vorlage für Organisation von Softwaretests und Testfällen"
           - text: Bug-Tracker
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            image_alt: "Behalten Sie stets den Überblick über Softwarefehler: Diese Vorlage ermöglicht es Ihnen, Bugs zu melden, zu priorisieren und den Status ihrer Behebung in Echtzeit zu verfolgen."
+            image_alt: "SeaTable Bug-Tracker Vorlage zur Erfassung und Nachverfolgung von IT-Störungen"
           - text: Produkteinführung
             image: /images/Software-Dev_-Product-Launch_Template.png
-            image_alt: "Planen und koordinieren Sie die Einführung neuer Produkte effizient. Diese Vorlage hilft Ihnen, Aufgaben, Verantwortlichkeiten und Deadlines zu verwalten."
+            image_alt: "SeaTable Vorlage für Planung von Produkteinführungen in IT-Projekten"
           - text: Technologie-Roadmap
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            image_alt: "Planen und koordinieren Sie die Einführung neuer Produkte effizient. Diese Vorlage hilft Ihnen, Aufgaben, Verantwortlichkeiten und Deadlines zu verwalten."
+            image_alt: "SeaTable Vorlage für Technologie-Roadmap und IT-Strategieplanung"
           - text: Feature-Wünsche
             image: /images/Software-Dev_-Feature-Request_Template.png
-            image_alt: "Sammeln, priorisieren und planen Sie Feature-Wünsche Ihrer Stakeholder. Passen Sie die Vorlage an, um zusätzliche Kriterien oder Bewertungssysteme hinzuzufügen."
+            image_alt: "SeaTable Vorlage zur Erfassung und Priorisierung von Feature-Wünschen"
           - text: Kanban Board
             image: /images/Software-Dev_-Kanban_Template.png
-            image_alt: "Nutzen Sie ein anpassbares Kanban Board, um den Fortschritt von IT Projekten und Aufgaben sowie Verantwortlichkeiten im Auge zu behalten."
+            image_alt: "SeaTable Kanban-Board Vorlage für IT Service Management Aufgaben"
       buttons:
         - label: Alle Vorlagen entdecken
           link: 'templates'
@@ -160,6 +166,7 @@ sections:
       items:
       - text: Beschleunigen Sie Ihre digitale Transformation und verknüpfen Sie gleichzeitig Ihre IT Strategie mit den übergeordneten Geschäftszielen! Mit SeaTable passen Sie Ihre [digitalen Prozesse]({{< relref "pages/industry-solutions/operations" >}}) individuell an die Anforderungen Ihres Unternehmens an. Durch Integrationen und flexible Datenmodelle setzen Sie digitale Strategien effektiv um und beschleunigen Ihre IT Transformation
       image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
+      image_alt: 'SeaTable Dashboard für digitale Transformation und IT Service Management'
       image_position: right
 
     - name: 'content-4'

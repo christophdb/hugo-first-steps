@@ -42,6 +42,7 @@ sections:
           - text: Универсальный конструктор приложений для внешнего интерфейса
           - text: SeaTable Cloud или SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image_alt: 'Интерфейс SeaTable для индивидуального ITSM с тикетами и активами'
 
     - name: content-25
       weight: 3
@@ -52,18 +53,23 @@ sections:
           - headline: Настраиваемые таблицы и представления
             text: Пользовательские структуры таблиц и визуализации для лучшей организации IT-проектов.
             image: /images/Software-Deevelopment_Views.png
+            image_alt: 'Табличные и досковые представления SeaTable для организации IT‑проектов'
           - headline: Вычисления и редактор формул
             text: Детальные отчеты и анализ с интуитивным редактором формул и модулем статистики.
             image: /images/Software-Development_Formula.png
+            image_alt: 'Редактор формул и статистика SeaTable для IT‑аналитики'
           - headline: Детализированные права доступа
             text: Управляйте правами доступа и редактирования на разных уровнях для максимальной безопасности и соответствия требованиям.
             image: /images/Software-Development_Permission-sets.png
+            image_alt: 'Представление SeaTable для детальных прав доступа и наборов разрешений'
           - headline: Версионность и отслеживание изменений
             text: Отслеживайте все изменения в реальном времени и восстанавливайте предыдущие версии.
             image: /images/Software-Development_Logs.png
+            image_alt: 'Журналы изменений SeaTable для версионирования и аудита в ITSM'
           - headline: Приложение для управления проектами
             text: С No-Code конструктором приложений SeaTable вы создаете веб-приложения — без навыков программирования. В таком приложении управления проектами вы можете точно контролировать, какие данные видят участники вашей команды и как они визуализируются.
             image: /images/Software-Development_Universal-App.png
+            image_alt: 'Приложение управления проектами SeaTable для веб‑воркфлоу ITSM'
 
     - name: 'content-10'
       weight: 4
@@ -117,22 +123,22 @@ sections:
       items:
       - text: Тестирование ПО
         image: /images/Software-Dev_-Software-Test_Template.png
-        image_alt: "Этот шаблон помогает организовать тест-кейсы, создать планы тестирования и отслеживать результаты. Его можно расширить для дополнительных видов тестирования."
+        image_alt: "ITSM‑шаблон SeaTable для организации софтверных тестов и тест‑кейсов"
       - text: Баг-трекер
         image: /images/Software-Dev_-Bug-Tracker_Template.png
-        image_alt: "Контролируйте программные ошибки: этот шаблон позволяет сообщать о багах, назначать приоритеты и отслеживать статус их исправления в реальном времени."
+        image_alt: "Шаблон баг‑трекера SeaTable для учета и отслеживания IT‑инцидентов"
       - text: Запуск продукта
         image: /images/Software-Dev_-Product-Launch_Template.png
-        image_alt: "Эффективно планируйте и координируйте запуск новых продуктов. Шаблон помогает управлять задачами, ответственными и сроками."
+        image_alt: "Шаблон SeaTable для планирования запусков продуктов в IT‑проектах"
       - text: Технологическая дорожная карта
         image: /images/Software-Dev_-Technology-Roadmap_Template.png
-        image_alt: "Планируйте внедрение новых продуктов. Шаблон помогает управлять задачами, ответственными и сроками."
+        image_alt: "Шаблон SeaTable для технологического роадмапа и планирования IT‑стратегии"
       - text: Запросы функций
         image: /images/Software-Dev_-Feature-Request_Template.png
-        image_alt: "Собирайте, ранжируйте и планируйте запросы функций от стейкхолдеров. Настраивайте шаблон для добавления критериев."
+        image_alt: "Шаблон SeaTable для сбора и приоритизации запросов на функции"
       - text: Канбан-доска
         image: /images/Software-Dev_-Kanban_Template.png
-        image_alt: "Используйте настраиваемую канбан-доску для отслеживания прогресса IT-проектов и задач."
+        image_alt: "Шаблон канбан‑доски SeaTable для задач ITSM"
       buttons:
         - label: Посмотреть все шаблоны
           link: 'templates'
@@ -163,6 +169,7 @@ sections:
       items:
       - text: Ускорьте цифровую трансформацию, согласовав IT-стратегию с бизнес-целями! SeaTable позволяет настраивать процессы под ваши требования.
       image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
+      image_alt: 'Дашборд SeaTable для цифровой трансформации и ITSM'
       image_position: right
 
     - name: 'content-4'
