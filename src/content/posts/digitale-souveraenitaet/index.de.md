@@ -71,11 +71,11 @@ Dabei binden sich Unternehmen oft für lange Zeit an einzelne Anbieter wie Googl
 
 ![Freiheitsstatue mit Wolken](us-cloud-act.jpg)
 
-Der Trend von der lokalen Speicherung hin zur [Cloud]({{< relref "posts/202503-cloud-computing" >}}) sorgt zudem dafür, dass sich immer mehr Daten in den Rechenzentren und damit **in den Händen von US-amerikanischen Technologiekonzernen** wie Microsoft, Apple, Google oder Amazon befinden. Ebenso leiten die aktuell boomenden KI-Assistenten (z. B. ChatGPT, Copilot) die Anfragen an ihre Mutterkonzerne weiter. Da die Daten in diesen Fällen nicht nur Ihr Unternehmen, sondern oft auch die Europäische Union verlassen, kann dies gegen die DSGVO verstoßen. **Der globale Datenfluss** macht es aufwendiger nachzuvollziehen, wo die Daten zu einem bestimmten Zeitpunkt gespeichert werden und welche Datenschutzgesetze gelten. Für Unternehmen wird es dadurch immer schwieriger, den Datenschutz gemäß nationalen wie internationalen Vorgaben zu gewährleisten.
+Der Trend von der lokalen Speicherung hin zur [Cloud]({{< relref "posts/202503-cloud-computing" >}}) sorgt zudem dafür, dass sich immer mehr Daten in den Rechenzentren und damit **in den Händen von US-amerikanischen Technologiekonzernen** wie Microsoft, Apple, Google oder Amazon befinden. Ebenso leiten die aktuell **boomenden KI-Assistenten** (z. B. ChatGPT, Copilot) die Anfragen an ihre Mutterkonzerne weiter. Da die Daten in diesen Fällen nicht nur Ihr Unternehmen, sondern oft auch die Europäische Union verlassen, kann dies gegen die DSGVO verstoßen. **Der globale Datenfluss** macht es aufwendiger nachzuvollziehen, wo die Daten zu einem bestimmten Zeitpunkt gespeichert werden und welche Datenschutzgesetze gelten. Für Unternehmen wird es dadurch immer schwieriger, den Datenschutz gemäß nationalen wie internationalen Vorgaben zu gewährleisten.
 
 {{< warning headline="Cloud, KI und andere Schlüsseltechnologien  " >}}
 
-Spätestens auf der Suche nach DSGVO-konformen, europäischen Lösungen wird klar, wie dünn diese gesät sind. Europa ist in vielen Schlüsseltechnologien im Hintertreffen und von Akteuren außerhalb des Kontinents abhängig. Ob **Cloud-Infrastrukturen** von Amazon, Microsoft und Google, **mobile Betriebssysteme** von Apple und Android oder **soziale Netzwerke** aus den USA und China – zentrale Bereiche der digitalen Welt liegen in fremden Händen. Auch die Erforschung und Entwicklung von **künstlicher Intelligenz, Automatisierung und Quantencomputing** findet größtenteils außerhalb Europas statt. Dennoch ist es nicht zu spät, um einen Teil des Rückstands aufzuholen. Erste Schritte hin zu mehr digitaler Souveränität in Europa werden bereits unternommen. Ein Beispiel ist die [No-Code-Plattform SeaTable]({{< relref "/" >}}).
+Spätestens auf der Suche nach DSGVO-konformen, europäischen Lösungen wird klar, wie dünn diese gesät sind. Europa ist in vielen Schlüsseltechnologien im Hintertreffen und von Akteuren außerhalb des Kontinents abhängig. Ob **Cloud-Infrastrukturen** von Amazon, Microsoft und Google, **mobile Betriebssysteme** von Apple und Android oder **soziale Netzwerke** aus den USA und China – zentrale Bereiche der digitalen Welt liegen in fremden Händen. Auch die Erforschung und Entwicklung von **künstlicher Intelligenz, Automatisierung und Quantencomputing** findet größtenteils außerhalb Europas statt. Dennoch ist es nicht zu spät, um einen Teil des Rückstands aufzuholen. Erste Schritte hin zu mehr digitaler Souveränität in Europa werden bereits unternommen. Ein Beispiel ist die [KI No-Code-Plattform SeaTable]({{< relref "/" >}}).
 
 {{< /warning >}} 
 
@@ -136,7 +136,7 @@ Bei On-Premises-Lösungen betreiben Sie Ihre IT-Systeme **auf eigenen Servern od
 
 ## Mit SeaTable digitale Souveränität erlangen
 
-Die No-Code-Plattform SeaTable ermöglicht es Ihnen, ohne Programmierkenntnisse eigene Datenbanken, Anwendungen und automatisierte Prozesse zu erstellen. Dabei haben Sie die freie Wahl, wie viel digitale Souveränität Sie haben möchten:
+Die No-Code-Plattform SeaTable ermöglicht es Ihnen, ohne Programmierkenntnisse eigene Datenbanken, Anwendungen und **KI-unterstützende automatisierte Prozesse** zu erstellen. Dabei haben Sie die freie Wahl, wie viel digitale Souveränität Sie haben möchten:
 
 *   Mit [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) profitieren Sie von der Skalierbarkeit und dem Komfort unserer Cloud. Sie benötigen keine eigene Infrastruktur und sind sofort startklar. Alle Daten sind DSGVO-konform in deutschen Rechenzentren gespeichert.
     

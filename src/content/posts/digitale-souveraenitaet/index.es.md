@@ -75,7 +75,7 @@ La tendencia del almacenamiento local a la [nube]({{< relref "posts/202503-cloud
 
 {{< warning headline="Nube, IA y otras tecnologías clave " >}}
 
-La búsqueda de soluciones europeas que cumplan con el RGPD deja claro lo escasas que son. Europa va a la zaga en muchas tecnologías clave y depende de actores de fuera del continente. Ya se trate de **infraestructuras en la nube** de Amazon, Microsoft y Google, de **sistemas operativos móviles** de Apple y Android o de **redes sociales** de EE.UU. y China, las áreas centrales del mundo digital están en manos extranjeras. La investigación y el desarrollo de la **inteligencia artificial, la automatización y la computación cuántica** también tienen lugar en gran medida fuera de Europa. Sin embargo, no es demasiado tarde para ponerse al día. Ya se están dando los primeros pasos hacia una mayor soberanía digital en Europa. Un ejemplo es la [plataforma sin código SeaTable]({{< relref "/" >}}).
+La búsqueda de soluciones europeas que cumplan con el RGPD deja claro lo escasas que son. Europa va a la zaga en muchas tecnologías clave y depende de actores de fuera del continente. Ya se trate de **infraestructuras en la nube** de Amazon, Microsoft y Google, de **sistemas operativos móviles** de Apple y Android o de **redes sociales** de EE.UU. y China, las áreas centrales del mundo digital están en manos extranjeras. La investigación y el desarrollo de la **inteligencia artificial, la automatización y la computación cuántica** también tienen lugar en gran medida fuera de Europa. Sin embargo, no es demasiado tarde para ponerse al día. Ya se están dando los primeros pasos hacia una mayor soberanía digital en Europa. Un ejemplo es la [plataforma de IA sin código SeaTable]({{< relref "/" >}}).
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ Con las soluciones in situ, usted opera sus sistemas informáticos **en sus prop
 
 ## Logre la soberanía digital con SeaTable
 
-La plataforma sin código SeaTable le permite crear sus propias bases de datos, aplicaciones y procesos automatizados sin ningún conocimiento de programación. Usted es libre de elegir cuánta soberanía digital desea:
+La plataforma sin código SeaTable le permite crear sus propias bases de datos, aplicaciones y **procesos automatizados con soporte de IA** sin necesidad de tener conocimientos de programación. zu erstellen. Usted es libre de elegir cuánta soberanía digital desea:
 
 *   Con [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), se beneficiará de la escalabilidad y comodidad de nuestra nube. No necesita infraestructura propia y está listo para funcionar de inmediato. Todos los datos se almacenan en centros de datos alemanes que cumplen con la GDPR.
     

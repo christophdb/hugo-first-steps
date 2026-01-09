@@ -75,7 +75,7 @@ The trend from local storage to the [cloud]({{< relref "posts/202503-cloud-compu
 
 {{< warning headline="Cloud, AI and other key technologies " >}}
 
-When looking for GDPR-compliant, European solutions, it becomes clear just how thin on the ground these are. Europe is lagging behind in many key technologies and is dependent on players outside the continent. Whether **cloud infrastructures** from Amazon, Microsoft and Google, **mobile operating systems** from Apple and Android or **social networks** from the USA and China – central areas of the digital world are in foreign hands. The research and development of **artificial intelligence, automation and quantum computing** also largely takes place outside Europe. Nevertheless, it is not too late to catch up. The first steps towards more digital sovereignty in Europe are already being taken. One example is the [no-code platform SeaTable]({{< relref "/" >}}).
+When looking for GDPR-compliant, European solutions, it becomes clear just how thin on the ground these are. Europe is lagging behind in many key technologies and is dependent on players outside the continent. Whether **cloud infrastructures** from Amazon, Microsoft and Google, **mobile operating systems** from Apple and Android or **social networks** from the USA and China – central areas of the digital world are in foreign hands. The research and development of **artificial intelligence, automation and quantum computing** also largely takes place outside Europe. Nevertheless, it is not too late to catch up. The first steps towards more digital sovereignty in Europe are already being taken. One example is the [AI no-code platform SeaTable]({{< relref "/" >}}).
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ With on-premises solutions, you operate your IT systems **on your own servers or
 
 ## Achieve digital sovereignty with SeaTable
 
-The SeaTable no-code platform allows you to create your own databases, applications and automated processes without any programming knowledge. You are free to choose how much digital sovereignty you want to have:
+The SeaTable no-code platform allows you to create your own databases, applications and **AI-supported automated processes** without any programming knowledge. You are free to choose how much digital sovereignty you want to have:
 
 *   With [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), you benefit from the scalability and convenience of our cloud. You don't need your own infrastructure and are ready to go straight away. All data is stored in GDPR-compliant German data centers.
     
