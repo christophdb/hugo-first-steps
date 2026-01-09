@@ -39,6 +39,7 @@ sections:
           - text: Como uma solução na nuvem ou no local
           - text: 100 % compatível com o RGPD com servidores na Alemanha
       image: /images/asana-alternative-1.png
+      image_alt: 'Interface do SeaTable como alternativa flexível ao Asana para gestão de projetos e tarefas'
 
     - name: content-11
       weight: 4
@@ -47,6 +48,7 @@ sections:
       items:
           - text: O SeaTable impressiona como uma ferramenta de gestão de marketing centralizada com gestão eficiente de campanhas. Graças à estrutura flexível da base de dados, às automatizações integradas e à colaboração em tempo real, todos os envolvidos têm uma visão clara das medidas em curso em qualquer altura. A API do SeaTable permite a ligação perfeita de ferramentas de marketing existentes - sem esforço de TI graças ao no-code.
       image: /images/asana-marketing.jpg
+      image_alt: 'Visão geral de campanhas de marketing no SeaTable como alternativa ao Asana'
       image_position: left
 
     - name: content-11
@@ -56,6 +58,7 @@ sections:
       items:
           - text: Como alternativa inovadora à Asana, a solução sem código impressiona pela sua gestão eficiente de tarefas e pela visão geral transparente do projeto, que permite às equipas manterem-se sempre atentas ao estado atual das suas tarefas. A colaboração em tempo real permite uma colaboração perfeita, enquanto as vistas flexíveis, como Kanban ou Gantt, permitem uma visualização intuitiva do progresso do projeto.
       image: /images/asana-projektportfoliomanagement.jpg
+      image_alt: 'Vista de portfólio de projetos no SeaTable com elementos Kanban e Gantt'
 
     - name: content-11
       weight: 6
@@ -64,6 +67,7 @@ sections:
       items:
           - text: 'O SeaTable defende os mais elevados padrões de proteção e segurança de dados. Por conseguinte, a plataforma combina a proteção de dados sensíveis e a conformidade com os regulamentos de proteção de dados com processos de trabalho transparentes e flexíveis para uma gestão eficiente de candidatos, registo de tempo, gestão de ausências e dados dos empregados.'
       image: /images/asana-hr-1.jpg
+      image_alt: 'Dashboard do SeaTable para gestão digital de pessoal e processos de RH'
       image_position: left
 
     - name: 'content-4'
@@ -119,12 +123,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa - flexível e escalável.
             image: /images/template-projektplan.png
+            image_alt: 'Modelo SeaTable Cloud para planeamento de projetos e visão de tarefas'
           - headline: SeaTable Server
             text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modelo SeaTable Server para plano de ações e acompanhamento de tarefas'
           - headline: SeaTable Dedicated
             text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado.
             image: /images/asana-dedicated.jpg
+            image_alt: 'Ambiente SeaTable Dedicated para soluções de gestão de projetos em toda a empresa'
 
     - name: 'content-8'
       weight: 10
@@ -134,13 +141,13 @@ sections:
       items:
           - text: Plano do projeto
             image: /images/asana-projektmanagement.jpg
-            image_alt: ''
+            image_alt: 'Modelo de gestão de projetos do SeaTable com lista de tarefas e colunas de estado'
           - text: Sistema de bilhética
             image: /images/ticketing-system-asana.jpg
-            image_alt: ''
+            image_alt: 'Modelo de sistema de tickets no SeaTable para tratar solicitações'
           - text: Planeador de workshops
             image: /images/workshop-planner-asana.jpg
-            image_alt: ''
+            image_alt: 'Modelo de planejador de workshops no SeaTable com datas e participantes'
       buttons:
           - label: Descubra todos os modelos
             link: 'templates'
