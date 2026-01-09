@@ -64,18 +64,23 @@ sections:
           - headline: "Organiser efficacement les données"
             text: "Utilisez les plus de 20 types de colonnes différents, y compris les cases à cocher, les boutons, les fichiers et les images."
             image: /images/Excel-Alternative_Daten-effizient-organisieren.png
+            image_alt: 'Vue tableau SeaTable avec différents types de colonnes pour une organisation efficace des données'
           - headline: Diverses vues
             text: "Créez différentes vues individuelles de vos données pour obtenir des informations à partir de différentes perspectives et passez facilement d'une vue calendrier, Kanban et galerie à l'autre."
             image: /images/Excel-Alternative_Ansichten.png
+            image_alt: 'Différentes vues SeaTable comme tableau, calendrier, Kanban et galerie en un coup d’œil'
           - headline: Traitement avancé des données
             text: "Effectuez des traitements de données complexes et créez des diagrammes et des tableaux croisés dynamiques attrayants pour vos analyses."
             image: /images/Excel-Alternative_Datenverarbeitung.png
+            image_alt: 'Interface SeaTable avec graphiques et tableaux croisés dynamiques pour un traitement avancé des données'
           - headline: Modèles gratuits
             text: "Utilisez l'un de nos nombreux modèles gratuits issus des domaines spécialisés les plus divers pour démarrer immédiatement."
             image: /images/Excel-Alternative-Templates.png
+            image_alt: 'Sélection de modèles SeaTable comme alternative à Excel pour différents services'
           - headline: Fonction de filtre et de tri
             text: "Grâce à des fonctions de filtre et de tri performantes ainsi qu'à des calculs automatiques, vous gardez toujours une vue d'ensemble."
             image: /images/Filterfunktionen.png
+            image_alt: 'Tableau SeaTable avec fonctions de filtrage et de tri pour une analyse de données ciblée'
 
     - name: content-10
       weight: 5
@@ -135,6 +140,7 @@ sections:
       subtitle: Soyez flexible
       text: "Modifiez vos données où que vous soyez. SeaTable offre un accès mobile, ce qui vous permet d'accéder à vos projets en déplacement."
       image: "/images/SeaTable_de.png"
+      image_alt: 'Tableau SeaTable avec fonctions de filtrage et de tri pour une analyse de données ciblée'
       
     - name: content-13
       weight: 10
@@ -193,9 +199,11 @@ sections:
           - headline: SeaTable Cloud
             text: "Profitez des avantages de SeaTable Cloud et bénéficiez de la flexibilité et de la sécurité d'une infrastructure cloud moderne. SeaTable Cloud est hébergé dans des centres de données allemands certifiés d'un fournisseur suisse."
             image: /images/template-projektplan.png
+            image_alt: 'Modèle de plan de projet SeaTable Cloud comme alternative à Excel pour une planification moderne'
           - headline: SeaTable Server
             text: "Avec SeaTable Server, vous décidez où vos données sont stockées. Vous avez la pleine souveraineté des données. Avec la variante on-premises, SeaTable est entièrement intégré à votre infrastructure informatique existante."
             image: "/images/template-massnahmenplan.jpg"
+            image_alt: 'Modèle de plan d’actions SeaTable Server pour gestion de données sur site comme alternative à Excel'
             
     - name: banner-2
       weight: 13
