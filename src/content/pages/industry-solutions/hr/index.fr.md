@@ -41,6 +41,7 @@ sections:
           - text: Gestion des candidatures
           - text: Données des employés
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'Interface SeaTable pour planifier et analyser les processus RH'
 
     - name: banner-2
       weight: 3
@@ -59,13 +60,13 @@ sections:
       items:
           - text: Enregistrement du temps de travail
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: Enregistrement du temps de travail
+            image_alt: 'Modèle RH SeaTable pour suivi du temps de travail'
           - text: Intégration des employés
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: Intégration des employés
+            image_alt: 'Modèle RH SeaTable pour onboarding des employés'
           - text: Recrutement de personnel
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: Recrutement de personnel
+            image_alt: 'Modèle RH SeaTable pour recrutement de personnel'
       buttons:
           - label: 'Découvrez d’autres modèles RH'
             link: 'templates'
@@ -78,22 +79,27 @@ sections:
           - headline: 'Gestion complète des candidatures'
             text: Outil de gestion des candidatures performant qui couvre l’ensemble du processus de recrutement, de la réception à l’annulation d’une candidature. Optimisez votre processus de recrutement et améliorez l’expérience des candidats.
             image: /images/Landing-Page_HR_Bewerbermanagement.png
+            image_alt: 'Vue SeaTable pour gestion complète des candidatures en recrutement'
 
           - headline: 'Gérer les dossiers de personnel numériques'
             text: Avec le dossier de personnel numérique de SeaTable, vous pouvez numériser et stocker en toute sécurité vos dossiers de personnel. Grâce à une structure claire pour le dossier de personnel électronique et au respect des délais de conservation, vous restez toujours conforme à la loi.
             image: /images/Landing-Page_HR_Personalakte.png
+            image_alt: 'Interface SeaTable pour gestion numérique et conforme au RGPD des dossiers du personnel'
 
           - headline: 'Saisie simple du temps de travail'
             text: 'La création d’organigrammes simplifiée : avec SeaTable, vous gardez toujours un œil sur la structure de votre entreprise et pouvez afficher les organigrammes rapidement et clairement.'
             image: /images/Landing-Page_HR_Zeiterfassung.png
+            image_alt: 'Vue de suivi du temps RH dans SeaTable avec heures de travail et absences'
 
           - headline: 'Création d’organigrammes'
             text: La gestion de portefeuille de projets (PPM) comprend la gestion de tous les projets d’une organisation. La gestion de portefeuille de projets nécessite beaucoup de données et exige l’évaluation de nombreux projets.
             image: /images/Landing-Page_HR_Organigramm.png
+            image_alt: 'Vue d’organigramme dans SeaTable pour visualiser la structure de l’entreprise'
 
           - headline: 'Optimiser les processus'
             text: De la planification des congés des employés au décompte des frais de déplacement, en passant par les processus complexes d’intégration et de départ, SeaTable vous offre tous les outils pour optimiser vos processus RH et minimiser les erreurs.
             image: /images/Landing-Page_HR_Prozesse-optimieren.png
+            image_alt: 'Tableau de bord RH SeaTable pour optimiser et automatiser les processus RH'
 
     - name: banner-2
       weight: 6
