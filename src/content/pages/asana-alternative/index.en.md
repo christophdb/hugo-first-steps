@@ -39,6 +39,7 @@ sections:
         - text: As a cloud solution or on-premises
         - text: 100 % GDPR-compliant with servers in Germany
       image: /images/asana-alternative-1.png
+      image_alt: 'SeaTable interface as a flexible Asana alternative for project and task management'
 
     - name: content-11
       weight: 4
@@ -47,6 +48,7 @@ sections:
       items:
       - text: SeaTable impresses as a centralized marketing management tool with efficient campaign management. Thanks to the flexible database structure, integrated automations and real-time collaboration, everyone involved has a clear overview of ongoing measures at all times. The SeaTable API enables seamless linking of existing marketing tools - without IT effort thanks to no-code. 
       image: /images/asana-marketing.jpg
+      image_alt: 'Marketing campaign overview in SeaTable as an Asana alternative'
       image_position: left
 
     - name: content-11
@@ -56,6 +58,7 @@ sections:
       items:
       - text: As an innovative alternative to Asana, the no-code solution impresses with its efficient task management and transparent project overview, which allows teams to keep an eye on the current status of their tasks at all times. Real-time collaboration enables seamless collaboration, while flexible views such as Kanban or Gantt enable intuitive visualization of project progress.
       image: /images/asana-projektportfoliomanagement.jpg
+      image_alt: 'Project portfolio view in SeaTable with Kanban and Gantt elements'
 
     - name: content-11
       weight: 6
@@ -64,6 +67,7 @@ sections:
       items:
       - text: 'SeaTable stands for the highest standards of data protection and data security. The platform therefore combines the protection of sensitive data and compliance with data protection regulations with transparent and flexible work processes for efficient applicant management, time recording, absence management and employee data.'
       image: /images/asana-hr-1.jpg
+      image_alt: 'SeaTable dashboard for digital HR management and HR processes'
       image_position: left
 
     - name: 'content-4'
@@ -119,12 +123,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to get started quickly and without an extensive IT infrastructure - flexible and scalable.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud template for project planning and task overview'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server template for action plan and task tracking'
           - headline: SeaTable Dedicated
             text: For companies that need the simplicity of the cloud and the flexibility of a self-hosted system. 
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated environment for company-wide project management solutions'
 
     - name: 'content-8'
       weight: 10
@@ -134,13 +141,13 @@ sections:
       items:
           - text: Project plan
             image: /images/asana-projektmanagement.jpg
-            image_alt: ""
+            image_alt: "SeaTable project management template with task list and status columns"
           - text: Ticketing system
             image: /images/ticketing-system-asana.jpg
-            image_alt: ""
+            image_alt: "Ticketing system template in SeaTable for handling requests"
           - text: Workshop planner
             image: /images/workshop-planner-asana.jpg
-            image_alt: ""
+            image_alt: "Workshop planner template in SeaTable with dates and participants"
       buttons:
         - label: Discover all templates
           link: "templates"

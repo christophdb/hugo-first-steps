@@ -39,6 +39,7 @@ sections:
         - text: Como solución en la nube o in situ
         - text: 100 % conforme a RGPD con servidores en Alemania
       image: /images/asana-alternative-1.png
+      image_alt: 'Interfaz de SeaTable como alternativa flexible a Asana para gestión de proyectos y tareas'
 
     - name: "content-11"
       weight: 4
@@ -47,6 +48,7 @@ sections:
       items:
       - text: "SeaTable impresiona como herramienta centralizada de gestión de marketing con una gestión eficaz de las campañas. Gracias a la estructura flexible de la base de datos, las automatizaciones integradas y la colaboración en tiempo real, todos los implicados tienen una visión clara de las medidas en curso en todo momento. La API de SeaTable permite vincular sin problemas las herramientas de marketing existentes, sin esfuerzo informático gracias a la ausencia de código."
       image: /images/asana-marketing.jpg
+      image_alt: 'Vista general de campañas de marketing en SeaTable como alternativa a Asana'
       image_position: left
 
     - name: "content-11"
@@ -56,6 +58,7 @@ sections:
       items:
       - text: "Como alternativa innovadora a Asana, la solución sin código impresiona por su eficaz gestión de tareas y su transparente visión general del proyecto, que permite a los equipos controlar en todo momento el estado actual de sus tareas. La colaboración en tiempo real permite una colaboración fluida, mientras que vistas flexibles como Kanban o Gantt permiten una visualización intuitiva del progreso del proyecto."
       image: /images/asana-projektportfoliomanagement.jpg
+      image_alt: 'Vista de portafolio de proyectos en SeaTable con elementos Kanban y Gantt'
 
     - name: "content-11"
       weight: 6
@@ -64,6 +67,7 @@ sections:
       items:
       - text: 'SeaTable es sinónimo de los más altos estándares de protección y seguridad de datos. Por ello, la plataforma combina la protección de datos sensibles y el cumplimiento de la normativa sobre protección de datos con procesos de trabajo transparentes y flexibles para una gestión eficaz de los solicitantes, el registro del tiempo, la gestión de las ausencias y los datos de los empleados.'
       image: /images/asana-hr-1.jpg
+      image_alt: 'Panel de SeaTable para gestión digital de personal y procesos de RR. HH.'
       image_position: left
 
     - name: 'content-4'
@@ -119,12 +123,15 @@ sections:
           - headline: "SeaTable Cloud"
             text: 'Perfecto para empresas que quieren empezar rápidamente y sin una amplia infraestructura informática: flexible y escalable.'
             image: /images/template-projektplan.png
+            image_alt: 'Plantilla de SeaTable Cloud para planificación de proyectos y vista de tareas'
           - headline: "SeaTable Server"
             text: "Para las empresas que desean mantener un control total sobre sus datos, SeaTable Server ofrece una opción in situ."
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Plantilla de SeaTable Server para plan de acciones y seguimiento de tareas'
           - headline: "SeaTable Dedicated"
             text: "Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autoalojado."
             image: /images/asana-dedicated.jpg
+            image_alt: 'Entorno SeaTable Dedicated para soluciones de gestión de proyectos a nivel empresarial'
 
     - name: 'content-8'
       weight: 10
@@ -134,13 +141,13 @@ sections:
       items:
           - text: Plan del proyecto
             image: /images/asana-projektmanagement.jpg
-            image_alt: 
+            image_alt: 'Plantilla de gestión de proyectos de SeaTable con lista de tareas y columnas de estado'
           - text: Sistema de tickets
             image: /images/ticketing-system-asana.jpg
-            image_alt: 
+            image_alt: 'Plantilla de sistema de tickets en SeaTable para gestionar solicitudes'
           - text: Planificador de talleres
             image: /images/workshop-planner-asana.jpg
-            image_alt: 
+            image_alt: 'Plantilla de planificador de talleres en SeaTable con fechas y participantes'
       buttons:
           - label: "Todas las plantillas"
             link: 'templates'
