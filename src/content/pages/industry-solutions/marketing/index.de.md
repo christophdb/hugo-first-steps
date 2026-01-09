@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: SeaTable – das vielseitige Marketing Management Tool
-      text: Nutzen Sie Ihre Ressourcen effektiver und automatisieren Sie Ihre Kampagnen und Prozesse. Mit SeaTable, dem effizienten Marketing Management Tool für Ihr Team.
+      text: Nutzen Sie Ihre Ressourcen effektiver und automatisieren Sie Ihre Kampagnen und Prozesse durch intelligente, KI-unterstützende Lösungen, die proaktiv mit Ihren Anforderungen wachsen. SeaTable - das effiziente Marketing Management Tool für Ihr Team.
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -35,7 +35,7 @@ sections:
       items:
         - text: DSGVO-konform
         - text: "Einfache Implementierung: No-Code oder Low-Code"
-        - text: "Automatisierte Workflows"
+        - text: "KI-unterstützende automatisierte Workflows"
         - text: Berechtigungsverwaltung
         - text: Universal App Builder für Frontend-Nutzung
         - text: Cloud-Lösung oder On-Premises
@@ -45,7 +45,7 @@ sections:
       weight: 3
       title: Optimieren Sie Ihren Erfolg im Marketing
       subtitle: Der Mehrwert von SeaTable
-      description: SeaTable ist das einzige Marketing Management Tool, das Marketingprofis brauchen, um ihre Prozesse und Kampagnen zu automatisieren. Teams können ortsunabhängig und kollaborativ arbeiten, während die Daten gängiger Digital Marketing Tools integriert und Arbeitsabläufe automatisiert werden können. Starten Sie mit SeaTable und bringen Sie Ihre Marketing Automation auf das nächste Level – weil jede Kampagne zählt.
+      description: SeaTable ist das einzige Marketing Management Tool, das Marketingprofis brauchen, um ihre Prozesse und Kampagnen zu automatisieren. Teams können ortsunabhängig und kollaborativ arbeiten, während die Daten gängiger Digital Marketing Tools integriert und Arbeitsabläufe automatisiert werden können. Starten Sie mit SeaTable und bringen Sie Ihre **Marketing Automation mit KI-Funktionen** auf das nächste Level – weil jede Kampagne zählt.
       items:
       - headline: Zentralisierung
         text: SeaTable vereint alle wichtigen Funktionen in einer Plattform, um Ihre Prozesse effizient zu organisieren.
@@ -93,7 +93,7 @@ sections:
         - bg-white
       title: "Automatisierung und Integration von Marketingprozessen"
       subtitle: "Zentralisieren Sie Ihr Marketing"
-      description: "Mit SeaTable automatisieren Sie Ihre manuellen Aufgaben. Dank No-Code- / Low-Code-Funktionen richten Sie Ihre automatisierten Workflows schnell ein und passen Sie an Ihre Anforderungen an. Zusätzlich ermöglicht SeaTable die Integration externer Datenquellen über seine API oder Marketing Automation Tools."
+      description: "Mit SeaTable automatisieren Sie Ihre manuellen Aufgaben. Dank No-Code- / Low-Code-Funktionen richten Sie Ihre automatisierten KI-unterstützten Workflows schnell ein und passen Sie an Ihre Anforderungen an. Zusätzlich ermöglicht SeaTable die Integration externer Datenquellen über seine API oder Marketing Automation Tools."
       items:
         - image: "/images/logos/zapier.svg"
         - image: "/images/logos/make.svg"
@@ -108,7 +108,7 @@ sections:
         - "!pt-0"
       items:
       - icon: leaf
-        headline: No-Code Plattform mit Low-Code Optionen
+        headline: KI No-Code Plattform mit Low-Code Optionen
         text: SeaTable ist eine [KI No-Code-Plattform]({{< relref "/" >}}) für Marketing-Teams ohne Programmierkenntnisse. Sie ermöglicht die Erstellung individueller Workflows und Automatisierungen ohne Programmierung. Fortgeschrittene Nutzer können mit Low-Code-Erweiterungen komplexe Automatisierungen und Integrationen umsetzen.
       - icon: leaf
         headline: Integration externer Datenquellen
