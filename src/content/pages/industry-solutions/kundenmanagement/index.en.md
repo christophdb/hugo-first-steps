@@ -39,6 +39,7 @@ sections:
         - text: As a cloud solution or on-premises
         - text: 100% GDPR-compliant with servers in Germany
       image: /images/landing-page-kundenmanagement-2.png
+      image_alt: 'SeaTable interface for flexible customer management with contacts and activities'
 
     - name: content-11
       weight: 3
@@ -47,6 +48,7 @@ sections:
       items:
       - text: With SeaTable, you can organize your customer data in the way that best suits your business. You can not store contact data only, but also notes, documents, past interactions and status updates in one central location. By linking to an e-mail account, messages can be sent directly and automatically from SeaTable.
       image: /images/landing-page-kundenmanagement-verwaltung.jpg
+      image_alt: 'SeaTable view for managing customer data, notes and interactions'
      
     - name: content-11
       weight: 4
@@ -55,6 +57,7 @@ sections:
       items:
       - text: Keep a constant overview of your sales processes and increase your closing rate. With SeaTable, you can visualize the progress of leads and quotes in a clear overview. In the Kanban view, you can immediately see which phase each lead is in and can react quickly to changes. Create automatic reminders for follow-ups. Define the phases of the sales process according to your needs, be it for lead generation, the quotation phase or contract conclusion.
       image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
+      image_alt: 'SeaTable sales pipeline visualizing leads and deals in a Kanban board'
       image_position: left
 
     - name: "banner-2"
@@ -72,6 +75,7 @@ sections:
       items:
       - text: "With SeaTable's built-in automations, you can not only set up simple notifications, but also create complex workflows that connect multiple departments or tools. For example, when a new lead comes in, the system automatically sends follow-up emails or notifies your team that the lead is ready for the next phase. This saves you time and ensures maximum transparency."
       image: /images/landing-page-kundenmanagement-automatisierung.jpg
+      image_alt: 'SeaTable automations for CRM workflows with notifications and tasks'
       image_position: left
 
     - name: content-11
@@ -81,6 +85,7 @@ sections:
       items:
       - text: 'With SeaTable, you can optimize your customer contact management and process inquiries quickly and efficiently. The ticket system helps you to keep track of every request and respond quickly. With SLA tracking, you can ensure that you always respond within the agreed times. Your support staff always have the relevant customer data to hand and can therefore offer solutions quickly and efficiently - and thus strengthen customer loyalty.'
       image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image_alt: 'SeaTable ticketing system for handling support requests and SLAs'
       
     - name: 'content-10'
       weight: 10
@@ -127,12 +132,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to get started quickly and without an extensive IT infrastructure - flexible and scalable.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud project plan template for customer-facing projects'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server action plan template for managing customer projects'
           - headline: SeaTable Dedicated
             text: For companies that need the simplicity of the cloud and the flexibility of a self-hosted system.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated environment for scalable customer management in the company'
 
     - name: 'content-8'
       weight: 8
@@ -142,13 +150,13 @@ sections:
       items:
           - text: "CRM: Customer management"
             image: /images/landing-page-kundenmanagement-crm.jpg
-            image_alt: ""
+            image_alt: "SeaTable CRM template for customer management with contacts and pipeline"
           - text: Write quote
             image: /images/landing-page-kundenmanagement-quote.jpg
-            image_alt: ""
+            image_alt: "SeaTable template for creating and tracking quotes"
           - text: Customer onboarding
             image: /images/landing-page-kundenmanagement-kunden-onboarding.jpg
-            image_alt: ""
+            image_alt: "SeaTable template for structured customer onboarding with task list"
       buttons:
         - label: Discover all templates
           link: "templates"

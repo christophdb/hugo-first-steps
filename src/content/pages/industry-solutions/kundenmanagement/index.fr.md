@@ -39,6 +39,7 @@ sections:
         - text: En tant que solution en nuage ou sur site
         - text: 100% conforme au RGPD avec des serveurs en Allemagne
       image: /images/landing-page-kundenmanagement-2.png
+      image_alt: 'Interface SeaTable pour une gestion flexible des clients avec contacts et activités'
 
     - name: content-11
       weight: 3
@@ -47,6 +48,7 @@ sections:
       items:
       - text: "Avec SeaTable, vous pouvez organiser vos données clients de la manière qui convient le mieux à votre entreprise. Vous pouvez non seulement stocker les données de contact, mais aussi les notes, les documents, les interactions passées et les mises à jour de statut dans un emplacement central. En établissant un lien avec un compte e-mail, les messages peuvent être envoyés directement et automatiquement à partir de SeaTable."
       image: /images/landing-page-kundenmanagement-verwaltung.jpg
+      image_alt: 'Vue SeaTable pour gérer données clients, notes et interactions'
      
     - name: content-11
       weight: 4
@@ -55,6 +57,7 @@ sections:
       items:
       - text: "Gardez une vue d'ensemble constante de vos processus de vente et augmentez votre taux de conclusion. Avec SeaTable, vous pouvez visualiser la progression des leads et des devis dans une vue d'ensemble claire. Dans la vue Kanban, vous voyez immédiatement dans quelle phase se trouve chaque prospect et vous pouvez réagir rapidement aux changements. Créez des rappels automatiques pour les suivis. Définissez les phases du processus de vente en fonction de vos besoins, qu'il s'agisse de la génération de leads, de la phase d'offre ou de la conclusion d'un contrat."
       image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
+      image_alt: 'Pipeline commerciale SeaTable visualisant prospects et offres dans un tableau Kanban'
       image_position: left
 
     - name: "banner-2"
@@ -72,6 +75,7 @@ sections:
       items:
       - text: "Avec les automatismes intégrés de SeaTable, vous pouvez non seulement mettre en place de simples notifications, mais aussi créer des flux de travail complexes qui relient plusieurs départements ou outils. Par exemple, lorsqu'un nouveau prospect arrive, le système envoie automatiquement des e-mails de suivi ou informe votre équipe que le prospect est prêt pour la phase suivante. Cela vous permet de gagner du temps et de garantir une transparence maximale."
       image: /images/landing-page-kundenmanagement-automatisierung.jpg
+      image_alt: 'Automatisations SeaTable pour workflows CRM avec notifications et tâches'
       image_position: left
 
     - name: content-11
@@ -81,6 +85,7 @@ sections:
       items:
       - text: "Avec SeaTable, vous pouvez optimiser votre gestion des contacts avec les clients et traiter les demandes rapidement et efficacement. Le système de tickets vous aide à suivre chaque demande et à y répondre rapidement. Grâce au suivi des accords de niveau de service, vous pouvez vous assurer que vous répondez toujours dans les délais convenus. Votre personnel d'assistance dispose toujours des données clients pertinentes et peut donc proposer des solutions rapidement et efficacement, ce qui renforce la fidélisation des clients."
       image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image_alt: 'Système de tickets SeaTable pour traiter demandes de support et SLA'
       
     - name: 'content-10'
       weight: 10
@@ -127,12 +132,15 @@ sections:
           - headline: SeaTable Cloud
             text: Parfait pour les entreprises qui souhaitent démarrer rapidement et qui ne disposent pas d'une infrastructure informatique étendue – flexible et évolutif.
             image: /images/template-projektplan.png
+            image_alt: 'Modèle de plan de projet SeaTable Cloud pour projets orientés client'
           - headline: SeaTable Server
             text: Pour les entreprises qui souhaitent garder un contrôle total sur leurs données, SeaTable Server offre une option sur site.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modèle de plan d’actions SeaTable Server pour gérer des projets clients'
           - headline: SeaTable Dedicated
             text: "Pour les entreprises qui ont besoin de la simplicité du cloud et de la flexibilité d'un système auto-hébergé." 
             image: /images/asana-dedicated.jpg
+            image_alt: 'Environnement SeaTable Dedicated pour une gestion client évolutive en entreprise'
 
     - name: 'content-8'
       weight: 8
@@ -142,13 +150,13 @@ sections:
       items:
           - text: "CRM : Gestion de la clientèle"
             image: /images/landing-page-kundenmanagement-crm.jpg
-            image_alt: ""
+            image_alt: "Modèle CRM SeaTable pour gestion des clients avec contacts et pipeline"
           - text: Rédiger une offre
             image: /images/landing-page-kundenmanagement-quote.jpg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour créer et suivre des devis"
           - text: "L'accueil du client"
             image: /images/landing-page-kundenmanagement-kunden-onboarding.jpg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour onboarding structuré des clients avec liste de tâches"
       buttons:
         - label: Découvrez tous les modèles
           link: "templates"
