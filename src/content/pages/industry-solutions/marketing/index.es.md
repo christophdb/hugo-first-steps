@@ -14,7 +14,7 @@ sections:
     - name: hero-5
       weight: 1
       title: SeaTable – la versátil herramienta de gestión de marketing
-      text: Utilice sus recursos de manera más eficaz y automatice sus campañas y procesos. Con SeaTable, la eficiente herramienta de gestión de marketing para su equipo.
+      text: Optimice sus recursos de manera más eficaz y automatice sus campañas y procesos a través de soluciones inteligentes basadas en IA que crecen de forma proactiva con sus necesidades. Con SeaTable, la eficiente herramienta de gestión de marketing para su equipo.
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -38,7 +38,7 @@ sections:
       items:
           - text: Cumple con el RGPD
           - text: 'Implementación sencilla: sin código o con código bajo'
-          - text: 'Flujos de trabajo automatizados'
+          - text: 'Workflows automatizados con IA'
           - text: Gestión de permisos
           - text: Universal App Builder para uso frontend
           - text: Solución en la nube o On-Premises
@@ -48,7 +48,7 @@ sections:
       weight: 3
       title: Optimice su éxito en el marketing
       subtitle: El valor añadido de SeaTable
-      description: SeaTable es la única herramienta de gestión de marketing que los profesionales del marketing necesitan para automatizar sus procesos y campañas. Los equipos pueden trabajar de forma colaborativa e independientemente de la ubicación, mientras que los datos de las herramientas comunes de marketing digital se pueden integrar y los flujos de trabajo automatizados. Comience con SeaTable y lleve su automatización de marketing al siguiente nivel, porque cada campaña cuenta.
+      description: SeaTable es la única herramienta de gestión de marketing que los profesionales del marketing necesitan para automatizar sus procesos y campañas. Los equipos pueden trabajar de forma colaborativa e independientemente de la ubicación, mientras que los datos de las herramientas comunes de marketing digital se pueden integrar y los flujos de trabajo automatizados. Comience con SeaTable y lleve su **automatización del marketing con funciones de IA** al siguiente nivel, porque cada campaña cuenta.
       items:
           - headline: Centralización
             text: SeaTable combina todas las funciones importantes en una plataforma para organizar sus procesos de manera eficiente.
@@ -96,7 +96,7 @@ sections:
           - bg-white
       title: 'Automatización e integración de procesos de marketing'
       subtitle: 'Centralice su marketing'
-      description: 'Con SeaTable, automatiza sus tareas manuales. Gracias a las funciones sin código/con código bajo, puede configurar rápidamente sus flujos de trabajo y adaptarlos a sus necesidades. Además, SeaTable permite la integración de fuentes de datos externas a través de su API o herramientas de automatización de marketing.'
+      description: 'Con SeaTable, automatiza sus tareas manuales. Gracias a las funciones sin código o con poco código, puede configurar rápidamente sus flujos de trabajo automatizados asistidos por IA y adaptarlos a sus necesidades. Además, SeaTable permite la integración de fuentes de datos externas a través de su API o herramientas de automatización de marketing.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -111,8 +111,8 @@ sections:
           - '!pt-0'
       items:
           - icon: leaf
-            headline: Plataforma sin código con opciones de código bajo
-            text: SeaTable es una [plataforma sin código para equipos]({{< relref "/" >}}) de marketing sin conocimientos de programación. Permite la creación de flujos de trabajo y automatizaciones individuales sin programación. Los usuarios avanzados pueden implementar automatizaciones e integraciones complejas con extensiones de código bajo.
+            headline: IA Plataforma sin código con opciones de código bajo
+            text: SeaTable es una [IA plataforma sin código para equipos]({{< relref "/" >}}) de marketing sin conocimientos de programación. Permite la creación de flujos de trabajo y automatizaciones individuales sin programación. Los usuarios avanzados pueden implementar automatizaciones e integraciones complejas con extensiones de código bajo.
           - icon: leaf
             headline: Integración de fuentes de datos externas
             text: 'Gracias a la API de SeaTable, puede integrar fácilmente fuentes de datos externas como sistemas CRM o herramientas de marketing por correo electrónico.<br><br>Esto significa que puede gestionar y analizar todos sus datos de marketing en una ubicación central, lo que aumenta significativamente la eficiencia.'
