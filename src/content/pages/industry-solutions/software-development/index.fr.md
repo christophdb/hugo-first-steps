@@ -42,6 +42,7 @@ sections:
           - text: "Créateur d'applications universel pour interface frontale"
           - text: SeaTable Cloud ou SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image_alt: 'Interface SeaTable pour gestion de services IT individuelle avec tickets et actifs'
 
     - name: content-25
       weight: 3
@@ -52,18 +53,23 @@ sections:
           - headline: Tables et vues personnalisables
             text: Structures de tables et visualisations personnalisées pour une meilleure organisation des projets IT.
             image: /images/Software-Deevelopment_Views.png
+            image_alt: 'Vues tableau et board de SeaTable pour organiser des projets IT'
           - headline: Calculs et éditeur de formules
             text: Analyses et rapports détaillés avec un éditeur de formules intuitif et module statistique.
             image: /images/Software-Development_Formula.png
+            image_alt: 'Éditeur de formules et statistiques SeaTable pour analyses IT'
           - headline: "Droits d'accès granulaires"
             text: "Gérez les droits d'accès et d'édition à différents niveaux pour une sécurité et conformité maximales."
             image: /images/Software-Development_Permission-sets.png
+            image_alt: 'Vue SeaTable pour droits d’accès granulaires et ensembles d’autorisations'
           - headline: Versionnage et suivi des modifications
             text: Suivez tous les changements en temps réel et restaurez les versions précédentes.
             image: /images/Software-Development_Logs.png
+            image_alt: 'Journaux de modifications SeaTable pour versioning et pistes d’audit en ITSM'
           - headline: Application de gestion de projet
             text: "Avec le créateur d'applications No-Code de SeaTable, créez des applications web - sans compétences en programmation. Dans une telle application, vous contrôlez précisément quelles données sont visibles par votre équipe et leur mode de visualisation."
             image: /images/Software-Development_Universal-App.png
+            image_alt: 'Application de gestion de projet SeaTable pour workflows ITSM web'
 
     - name: 'content-10'
       weight: 4
@@ -116,22 +122,22 @@ sections:
       items:
           - text: Tests logiciels
             image: /images/Software-Dev_-Software-Test_Template.png
-            image_alt: "Ce modèle vous permet d'organiser des cas de test, de créer des plans de test et de suivre les résultats. Il peut être étendu pour inclure des types de test supplémentaires."
+            image_alt: "Modèle ITSM SeaTable pour organiser tests logiciels et cas de test"
           - text: Suivi des bogues
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            image_alt: 'Gardez le contrôle des bogues logiciels : ce modèle permet de signaler des bugs, de les prioriser et de suivre en temps réel leur correction.'
+            image_alt: 'Modèle de bug tracker SeaTable pour consigner et suivre les incidents IT'
           - text: Lancement de produit
             image: /images/Software-Dev_-Product-Launch_Template.png
-            image_alt: 'Planifiez et coordonnez efficacement le lancement de nouveaux produits. Ce modèle aide à gérer les tâches, responsabilités et échéances.'
+            image_alt: 'Modèle SeaTable pour planifier des lancements de produits dans des projets IT'
           - text: Feuille de route technologique
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            image_alt: "Planifiez l'implémentation de nouveaux produits. Ce modèle aide à gérer les tâches, responsabilités et échéances."
+            image_alt: "Modèle SeaTable pour feuille de route technologique et planification de la stratégie IT"
           - text: Demandes de fonctionnalités
             image: /images/Software-Dev_-Feature-Request_Template.png
-            image_alt: 'Collectez, priorisez et planifiez les demandes de fonctionnalités des parties prenantes. Personnalisez le modèle pour ajouter des critères.'
+            image_alt: 'Modèle SeaTable pour saisir et prioriser les demandes de fonctionnalités'
           - text: Tableau Kanban
             image: /images/Software-Dev_-Kanban_Template.png
-            image_alt: "Utilisez un tableau Kanban personnalisable pour suivre l'avancement des projets IT et des responsabilités."
+            image_alt: "Modèle de tableau Kanban SeaTable pour tâches de gestion de services IT"
       buttons:
           - label: Découvrir tous les modèles
             link: 'templates'
@@ -162,6 +168,7 @@ sections:
       items:
           - text: 'Accélérez votre transformation numérique tout en alignant votre stratégie IT sur les objectifs métier ! SeaTable permet de personnaliser les processus selon vos besoins.'
       image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
+      image_alt: 'Tableau de bord SeaTable pour transformation numérique et gestion de services IT'
       image_position: right
 
     - name: 'content-4'

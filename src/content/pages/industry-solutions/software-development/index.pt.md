@@ -42,6 +42,7 @@ sections:
           - text: Construtor Universal de Apps para uso frontend
           - text: SeaTable Cloud ou SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image_alt: 'Interface do SeaTable para gestão de serviços de TI individual com tickets e ativos'
 
     - name: content-25
       weight: 3
@@ -52,18 +53,23 @@ sections:
           - headline: Tabelas e visualizações personalizáveis
             text: Estruturas de tabelas e visualizações personalizadas para melhor organização de projetos de TI.
             image: /images/Software-Deevelopment_Views.png
+            image_alt: 'Vistas de tabela e quadro do SeaTable para organizar projetos de TI'
           - headline: Cálculos e editor de fórmulas
             text: Análises e avaliações detalhadas com editor de fórmulas intuitivo e módulo de estatísticas.
             image: /images/Software-Development_Formula.png
+            image_alt: 'Editor de fórmulas e estatísticas do SeaTable para análises de TI'
           - headline: Direitos de acesso granulares
             text: Gerencie direitos de acesso e edição em diferentes níveis para máxima segurança e conformidade.
             image: /images/Software-Development_Permission-sets.png
+            image_alt: 'Vista do SeaTable para direitos de acesso granulares e conjuntos de permissões'
           - headline: Versionamento e rastreamento de alterações
             text: Acompanhe todas as mudanças em tempo real e restaure versões anteriores.
             image: /images/Software-Development_Logs.png
+            image_alt: 'Registos de alterações do SeaTable para versionamento e trilhas de auditoria em ITSM'
           - headline: Aplicativo de gerenciamento de projetos
             text: Com o construtor de apps No-Code do SeaTable, você cria aplicativos baseados na web - sem necessidade de conhecimentos de programação. Em um aplicativo de gerenciamento de projetos como esse, você pode controlar exatamente quais dados cada membro da equipe pode ver e como são visualizados.
             image: /images/Software-Development_Universal-App.png
+            image_alt: 'Aplicativo de gestão de projetos do SeaTable para fluxos ITSM baseados na web'
 
     - name: 'content-10'
       weight: 4
@@ -117,22 +123,22 @@ sections:
       items:
           - text: Testes de Software
             image: /images/Software-Dev_-Software-Test_Template.png
-            image_alt: "Este modelo ajuda a organizar casos de teste, criar planos e acompanhar resultados. Pode ser expandido com tipos de teste adicionais."
+            image_alt: "EModelo ITSM do SeaTable para organizar testes de software e casos de teste"
           - text: Rastreador de Bugs
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            image_alt: "Acompanhe bugs de software: Este modelo permite reportar, priorizar e monitorar em tempo real o status de correções."
+            image_alt: "Modelo de bug tracker do SeaTable para registar e acompanhar incidentes de TI"
           - text: Lançamento de Produto
             image: /images/Software-Dev_-Product-Launch_Template.png
-            image_alt: "Planeje e coordene lançamentos de produtos eficientemente. Este modelo ajuda a gerenciar tarefas, responsabilidades e prazos."
+            image_alt: "PModelo SeaTable para planear lançamentos de produtos em projetos de TI"
           - text: Roteiro Tecnológico
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            image_alt: "Planeje implementações de produtos. Este modelo ajuda a gerenciar tarefas, responsabilidades e prazos."
+            image_alt: "Modelo SeaTable para roadmap tecnológica e planeamento de estratégia de TI"
           - text: Solicitações de Recursos
             image: /images/Software-Dev_-Feature-Request_Template.png
-            image_alt: "Colete, priorize e planeje solicitações de stakeholders. Personalize o modelo para adicionar critérios."
+            image_alt: "Modelo de quadro Kanban do SeaTable para tarefas de ITSM"
           - text: Quadro Kanban
             image: /images/Software-Dev_-Kanban_Template.png
-            image_alt: "Use um quadro Kanban personalizável para monitorar projetos de TI e responsabilidades."
+            image_alt: "UDashboard do SeaTable para transformação digital e gestão de serviços de TI"
       buttons:
         - label: Descobrir todos os modelos
           link: 'templates'
