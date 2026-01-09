@@ -41,6 +41,7 @@ sections:
           - text: '**Flexibilidad y adaptabilidad:** ¿Nube o servidor propio? ¡Su elección! Adapte fácilmente los procesos mediante arrastrar y soltar.'
           - text: '**Colaboración interdisciplinaria:** SeaTable conecta autoridades, proporciona una base de datos segura y una plataforma de comunicación.'
       image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
+      image_alt: 'Interfaz de SeaTable para administración digital con gestión centralizada de datos'
 
     - name: 'content-4'
       weight: 3
@@ -76,15 +77,15 @@ sections:
           - headline: 'Portafolio de proyectos'
             text: Proyectos
             image: /images/Landing-Page-Public-Services_Projektportfolio.png
-            image_alt: Base Editor
+            image_alt: 'Plantilla de portafolio de proyectos de SeaTable para iniciativas del sector público'
           - headline: Administración de bienes raíces
             text: Bienes raíces
             image: /images/Landing-Page-Public-Sector_Property-Management_Template.png
-            image_alt:
+            image_alt: 'Plantilla de SeaTable para gestión inmobiliaria y de bienes municipales'
           - headline: Registro de tiempo
             text: Recursos humanos
             image: /images/Landing-Page-Public-Sector_Time-Tracker.png
-            image_alt:
+            image_alt: 'Plantilla de SeaTable para registro de horas en el sector público'
       buttons:
           - label: 'Encuentre más plantillas para su aplicación'
             link: 'templates'
@@ -99,9 +100,11 @@ sections:
           - headline: 'Soluciones individuales'
             text: Ya sea [administración de propiedades]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **planificación presupuestaria** o consultas ciudadanas, las posibilidades son diversas. SeaTable se integra perfectamente en las estructuras existentes y simplifica la digitalización sin grandes esfuerzos de TI.
             image: /images/Landing-Page-Public-Services_Property-Management.png
+            image_alt: 'Plantilla de SeaTable para gestión de inmuebles en la administración pública'
           - headline: 'Aplicaciones fáciles de usar'
             text: Con el SeaTable App Builder, puede crear sin esfuerzo aplicaciones fáciles de usar. Los empleados se orientan rápidamente, lo que aumenta la aceptación y hace que la digitalización sea más eficiente. Optimice sus procesos administrativos y cumpla con los requisitos modernos.
             image: /images/Landing-Page-Public-Services-Universal-App.png
+            image_alt: 'Aplicación universal de SeaTable para aplicaciones administrativas fáciles de usar'
 
     - name: content-21
       weight: 6
