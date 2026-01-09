@@ -39,6 +39,7 @@ sections:
         - text: Como uma solução na nuvem ou no local
         - text: 100% compatível com o RGPD com servidores na Alemanha
       image: /images/landing-page-kundenmanagement-2.png
+      image_alt: 'Interface do SeaTable para gestão flexível de clientes com contactos e atividades'
 
     - name: content-11
       weight: 3
@@ -47,6 +48,7 @@ sections:
       items:
       - text: Com o SeaTable, pode organizar os dados dos seus clientes da forma que melhor se adequa à sua empresa. Não pode armazenar apenas dados de contacto, mas também notas, documentos, interações anteriores e actualizações de estado numa localização central. Ao associar-se a uma conta de correio eletrónico, as mensagens podem ser enviadas direta e automaticamente a partir do SeaTable.
       image: /images/landing-page-kundenmanagement-verwaltung.jpg
+      image_alt: 'Vista do SeaTable para gerir dados de clientes, notas e interações'
      
     - name: content-11
       weight: 4
@@ -55,6 +57,7 @@ sections:
       items:
       - text: Mantenha uma visão geral constante dos seus processos de vendas e aumente a sua taxa de fecho. Com o SeaTable, pode visualizar o progresso de leads e orçamentos numa visão geral clara. Na vista Kanban, pode ver imediatamente em que fase se encontra cada lead e pode reagir rapidamente às alterações. Crie lembretes automáticos para acompanhamento. Defina as fases do processo de vendas de acordo com as suas necessidades, seja para a geração de leads, a fase de cotação ou a conclusão do contrato.
       image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
+      image_alt: 'Pipeline de vendas do SeaTable a visualizar leads e negócios num quadro Kanban'
       image_position: left
 
     - name: "banner-2"
@@ -72,6 +75,7 @@ sections:
       items:
       - text: "Com as automatizações integradas no SeaTable, pode não só configurar notificações simples, mas também criar fluxos de trabalho complexos que ligam vários departamentos ou ferramentas. Por exemplo, quando chega uma nova oportunidade, o sistema envia automaticamente e-mails de acompanhamento ou notifica a sua equipa de que a oportunidade está pronta para a fase seguinte. Isto poupa-lhe tempo e garante a máxima transparência."
       image: /images/landing-page-kundenmanagement-automatisierung.jpg
+      image_alt: 'Automatizações do SeaTable para fluxos de trabalho de CRM com notificações e tarefas'
       image_position: left
 
     - name: content-11
@@ -81,6 +85,7 @@ sections:
       items:
       - text: Com o SeaTable, pode otimizar a gestão dos contactos com os clientes e processar os pedidos de informação de forma rápida e eficaz. O sistema de bilhetes ajuda-o a acompanhar todos os pedidos e a responder rapidamente. Com o acompanhamento do SLA, pode garantir que responde sempre dentro dos prazos acordados. O seu pessoal de apoio tem sempre à mão os dados relevantes do cliente e pode, portanto, oferecer soluções rápidas e eficientes - e assim reforçar a fidelidade do cliente.
       image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image_alt: 'Sistema de tickets do SeaTable para tratar pedidos de suporte e SLAs'
       
     - name: 'content-10'
       weight: 10
@@ -127,12 +132,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa - flexível e escalável.
             image: /images/template-projektplan.png
+            image_alt: 'Modelo de plano de projeto no SeaTable Cloud para projetos focados no cliente'
           - headline: SeaTable Server
             text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modelo de plano de ações no SeaTable Server para gerir projetos de clientes'
           - headline: SeaTable Dedicated
             text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'Ambiente SeaTable Dedicated para gestão de clientes escalável na empresa'
 
     - name: 'content-8'
       weight: 8
@@ -142,13 +150,13 @@ sections:
       items:
           - text: "CRM: Gestão de clientes"
             image: /images/landing-page-kundenmanagement-crm.jpg
-            image_alt: ""
+            image_alt: "Modelo CRM do SeaTable para gestão de clientes com contactos e pipeline"
           - text: Escreva a oferta
             image: /images/landing-page-kundenmanagement-quote.jpg
-            image_alt: ""
+            image_alt: "Modelo do SeaTable para criação e acompanhamento de propostas"
           - text: Integração do cliente
             image: /images/landing-page-kundenmanagement-kunden-onboarding.jpg
-            image_alt: ""
+            image_alt: "Modelo do SeaTable para onboarding estruturado de clientes com lista de tarefas"
       buttons:
         - label: Descubra todos os modelos
           link: "templates"

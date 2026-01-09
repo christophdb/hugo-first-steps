@@ -39,6 +39,7 @@ sections:
         - text: Als Cloud-Lösung oder On-Premises
         - text: 100 % DSGVO-konform mit Servern in Deutschland
       image: /images/landing-page-kundenmanagement-2.png
+      image_alt: 'SeaTable Oberfläche für flexibles Kundenmanagement mit Kontakten und Aktivitäten'
 
     - name: content-11
       weight: 3
@@ -47,6 +48,7 @@ sections:
       items:
       - text: Mit SeaTable können Sie Ihre Kundendaten so organisieren, wie es für Ihr Unternehmen am besten passt. Speichern Sie nicht nur Kontaktdaten, sondern auch Notizen, Dokumente, vergangene Interaktionen und Status-Updates an einem zentralen Ort. Durch die Verknüpfung mit einem E-Mail-Account können Nachrichten direkt automatisiert aus SeaTable verschickt werden.
       image: /images/landing-page-kundenmanagement-verwaltung.jpg
+      image_alt: 'SeaTable Ansicht zur Verwaltung von Kundendaten, Notizen und Interaktionen'
      
     - name: content-11
       weight: 4
@@ -55,6 +57,7 @@ sections:
       items:
       - text: Behalten Sie stets den Überblick über Ihre Verkaufsprozesse und steigern Sie Ihre Abschlussrate. Mit SeaTable **visualisieren Sie den Fortschritt von Leads** und Angeboten in einer klaren Übersicht. So sehen Sie in der Kanban-Ansicht sofort, in welcher Phase sich jeder Lead befindet und können schnell auf Veränderungen reagieren. Erstellen Sie automatische Erinnerungen für Follow-ups. Definieren Sie die Phasen des Verkaufsprozesses nach Ihren Bedürfnissen, sei es für die Lead-Generierung, die Angebotsphase oder den Vertragsabschluss.
       image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
+      image_alt: 'SeaTable Sales-Pipeline zur Visualisierung von Leads und Angeboten im Kanban'
       image_position: left
 
     - name: "banner-2"
@@ -72,6 +75,7 @@ sections:
       items:
       - text: 'Mit SeaTables integrierten Automatisierungen können Sie nicht nur einfache Benachrichtigungen einrichten, sondern auch **komplexe Workflows erstellen**, die mehrere Abteilungen oder Tools miteinander verbinden. Wenn zum Beispiel ein neuer Lead eingeht, sendet das System automatisch Follow-up-E-Mails oder benachrichtigt Ihr Team, dass der Lead bereit für die nächste Phase ist. So sparen Sie Zeit und sorgen für maximale Transparenz.'
       image: /images/landing-page-kundenmanagement-automatisierung.jpg
+      image_alt: 'SeaTable Automatisierungen für CRM-Workflows mit Benachrichtigungen und Aufgaben'
       image_position: left
 
     - name: content-11
@@ -81,6 +85,7 @@ sections:
       items:
       - text: 'Mit SeaTable optimieren Sie Ihr Kundenkontaktmanagement und können **Anfragen schnell und effizient bearbeiten**. Das Ticket-System hilft Ihnen, jedes Anliegen im Blick zu behalten und schnell zu reagieren. Mit dem SLA-Tracking stellen Sie sicher, dass Sie immer innerhalb der vereinbarten Zeiten reagieren. Ihre Support-Mitarbeiter haben immer die relevanten Kundendaten zur Hand und können so schnell und effizient Lösungen anbieten – und so die Kundenbindung stärken.'
       image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen und SLAs'
       
     - name: 'content-10'
       weight: 10
@@ -127,12 +132,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage für kundennahe Projekte'
           - headline: SeaTable Server
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage zur Steuerung von Kundenprojekten'
           - headline: SeaTable Dedicated
             text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated Umgebung für skalierbares Kundenmanagement im Unternehmen'
 
     - name: 'content-8'
       weight: 8
@@ -142,13 +150,13 @@ sections:
       items:
           - text: "CRM: Kundenmanagement"
             image: /images/landing-page-kundenmanagement-crm.jpg
-            image_alt: ""
+            image_alt: "SeaTable CRM Vorlage für Kundenmanagement mit Kontakten und Pipeline"
           - text: Angebot schreiben
             image: /images/landing-page-kundenmanagement-quote.jpg
-            image_alt: ""
+            image_alt: "SeaTable Vorlage zur Erstellung und Nachverfolgung von Angeboten"
           - text: Kunden Onboarding
             image: /images/landing-page-kundenmanagement-kunden-onboarding.jpg
-            image_alt: ""
+            image_alt: "SeaTable Vorlage für strukturiertes Kunden-Onboarding mit Aufgabenliste"
       buttons:
         - label: Alle Vorlagen entdecken
           link: "templates"
