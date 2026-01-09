@@ -41,6 +41,7 @@ sections:
           - text: Applicant management
           - text: Employee data
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'SeaTable interface for planning and analyzing HR processes'
 
     - name: banner-2
       weight: 3
@@ -59,13 +60,13 @@ sections:
       items:
           - text: Time tracking
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: Time tracking
+            image_alt: 'SeaTable HR template for time tracking'
           - text: New Employee onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: New Employee onboarding
+            image_alt: 'SeaTable HR template for employee onboarding'
           - text: Personnel recruitment
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: Personnel recruitment
+            image_alt: 'SeaTable HR template for recruiting'
       buttons:
           - label: 'Discover more HR templates'
             link: 'templates'
@@ -78,22 +79,27 @@ sections:
           - headline: 'Comprehensive applicant management'
             text: Powerful applicant management tool that covers the entire recruiting process - from receipt to rejection of an application. Optimize your recruiting process and improve the candidate experience.
             image: /images/Landing-Page_HR_Bewerbermanagement.png
+            image_alt: 'SeaTable view for comprehensive applicant management in recruiting'
 
           - headline: 'Manage digital personnel files'
             text: With SeaTable's digital personnel file, you can digitize and securely store your personnel files. Thanks to a clear structure for the electronic personnel file and compliance with retention periods, you always remain compliant with the law.
             image: /images/Landing-Page_HR_Personalakte.png
+            image_alt: 'SeaTable interface for digital, GDPR-compliant personnel file management'
 
           - headline: 'Easy time tracking'
             text: Creating organizational charts made easy - with SeaTable you always keep an eye on the structure of your company and can display organizational charts quickly and clearly.
             image: /images/Landing-Page_HR_Zeiterfassung.png
+            image_alt: 'SeaTable HR time tracking view with working hours and absences'
 
           - headline: 'Creation of organizational charts'
             text: Project portfolio management (PPM) includes the management of all projects in an organization. Project Portfolio Management is data-intensive and requires the evaluation of many projects.
             image: /images/Landing-Page_HR_Organigramm.png
+            image_alt: 'SeaTable org chart view for visualizing company structure'
 
           - headline: 'Optimize processes'
             text: From vacation planning for employees to travel expense reports to complex onboarding and offboarding processes - SeaTable offers you all the tools to optimize your HR processes and minimize errors.
             image: /images/Landing-Page_HR_Prozesse-optimieren.png
+            image_alt: 'SeaTable HR dashboard for optimizing and automating HR processes'
 
     - name: banner-2
       weight: 6

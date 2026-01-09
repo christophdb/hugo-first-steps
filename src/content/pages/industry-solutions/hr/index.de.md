@@ -37,6 +37,7 @@ sections:
           - text: Bewerbermanagement
           - text: Mitarbeiterdaten
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'SeaTable Oberfläche zur Planung und Analyse von HR-Prozessen'
 
     - name: banner-2
       weight: 3
@@ -55,13 +56,13 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: Arbeitszeiterfassung
+            image_alt: 'SeaTable HR Vorlage für Arbeitszeiterfassung'
           - text: Mitarbeiter-Onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: Mitarbeiter-Onboarding
+            image_alt: 'SeaTable HR Vorlage für Mitarbeiter-Onboarding'
           - text: Personalrekrutierung
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: Personalrekrutierung
+            image_alt: 'SeaTable HR Vorlage für Personalrekrutierung'
       buttons:
           - label: "Entdecken Sie weitere HR Vorlagen"
             link: "templates"
@@ -74,22 +75,27 @@ sections:
       - headline: "Umfassendes Bewerbermanagement"
         text: Leistungsstarkes Bewerbermanagement Tool, das den gesamten Rekrutierungsprozess abdeckt – von dem Eingang bis zur Absage einer Bewerbung. Optimieren Sie Ihren Recruiting Prozess und verbessern Sie die Candidate Experience.
         image: /images/Landing-Page_HR_Bewerbermanagement.png
+        image_alt: 'SeaTable Ansicht für umfassendes Bewerbermanagement im Recruiting'
 
       - headline: "Digitale Personalakte verwalten"
         text: Mit der digitalen Personalakte von SeaTable können Sie Ihre Personalakten digitalisieren und sicher speichern. Dank klarer Struktur für die elektronische Personalakte und der Einhaltung der Aufbewahrungsfristen bleiben Sie stets gesetzeskonform.
         image: /images/Landing-Page_HR_Personalakte.png
+        image_alt: 'SeaTable Oberfläche für digitale, DSGVO-konforme Personalaktenverwaltung'
 
       - headline: "Einfache Arbeitszeiterfassung"
         text: Organigramm erstellen leicht gemacht – mit SeaTable behalten Sie die Struktur Ihres Unternehmens immer im Blick und können Organigramme schnell und übersichtlich darstellen.
         image: /images/Landing-Page_HR_Zeiterfassung.png
+        image_alt: 'SeaTable HR Zeiterfassungsansicht mit Arbeitszeiten und Abwesenheiten'
 
       - headline: "Erstellung von Organigrammen"
         text: Das Projektportfoliomanagement (PPM) umfasst die Steuerung aller Projekte einer Organisation. Projekt Portfolio Management ist datenintensiv und erfordert die Auswertung vieler Projekte.
         image: /images/Landing-Page_HR_Organigramm.png
+        image_alt: 'SeaTable Organigrammansicht zur Darstellung der Unternehmensstruktur'
 
       - headline: "Prozesse optimieren"
         text: Von der Urlaubsplanung für Mitarbeiter über die Reisekostenabrechnung bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um Ihre HR Prozesse zu optimieren und Fehler zu minimieren.
         image: /images/Landing-Page_HR_Prozesse-optimieren.png
+        image_alt: 'SeaTable HR Dashboard zur Optimierung und Automatisierung von HR-Prozessen'
 
     - name: banner-2
       weight: 6

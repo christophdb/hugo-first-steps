@@ -41,6 +41,7 @@ sections:
           - text: Управление кандидатами
           - text: Данные сотрудников
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'Интерфейс SeaTable для планирования и анализа HR‑процессов'
 
     - name: banner-2
       weight: 3
@@ -59,13 +60,13 @@ sections:
       items:
           - text: Учет рабочего времени
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: Учет рабочего времени
+            image_alt: 'HR‑шаблон SeaTable для учета рабочего времени'
           - text: Адаптация сотрудников
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: Адаптация сотрудников
+            image_alt: 'HR‑шаблон SeaTable для онбординга сотрудников'
           - text: Подбор персонала
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: Подбор персонала
+            image_alt: 'HR‑шаблон SeaTable для рекрутинга персонала'
       buttons:
           - label: 'Откройте для себя другие HR-шаблоны'
             link: 'templates'
@@ -78,22 +79,27 @@ sections:
           - headline: 'Комплексное управление кандидатами'
             text: Мощный инструмент управления кандидатами, который охватывает весь процесс найма – от получения до отклонения заявки. Оптимизируйте процесс подбора персонала и улучшите качество обслуживания кандидатов.
             image: /images/Landing-Page_HR_Bewerbermanagement.png
+            image_alt: 'Представление SeaTable для комплексного управления кандидатами в рекрутинге'
 
           - headline: 'Управление цифровым личным делом'
             text: С помощью цифрового личного дела от SeaTable вы можете оцифровывать и надежно хранить свои личные дела. Благодаря четкой структуре электронного личного дела и соблюдению сроков хранения вы всегда будете соответствовать требованиям законодательства.
             image: /images/Landing-Page_HR_Personalakte.png
+            image_alt: 'Интерфейс SeaTable для цифрового, GDPR‑соответствующего ведения личных дел'
 
           - headline: 'Простой учет рабочего времени'
             text: Создание организационных диаграмм стало проще – с SeaTable вы всегда будете видеть структуру своей компании и сможете быстро и четко отображать организационные диаграммы.
             image: /images/Landing-Page_HR_Zeiterfassung.png
+            image_alt: 'Представление учета рабочего времени HR в SeaTable с часами и отсутствиями'
 
           - headline: 'Создание организационных диаграмм'
             text: Управление портфелем проектов (PPM) включает в себя управление всеми проектами организации. Управление портфелем проектов требует больших объемов данных и требует оценки многих проектов.
             image: /images/Landing-Page_HR_Organigramm.png
+            image_alt: 'Представление оргструктуры в SeaTable для визуализации структуры компании'
 
           - headline: 'Оптимизация процессов'
             text: От планирования отпусков для сотрудников и учета командировочных расходов до сложных процессов адаптации и увольнения – SeaTable предлагает вам все инструменты для оптимизации ваших HR-процессов и минимизации ошибок.
             image: /images/Landing-Page_HR_Prozesse-optimieren.png
+            image_alt: 'HR‑дашборд SeaTable для оптимизации и автоматизации HR‑процессов'
 
     - name: banner-2
       weight: 6

@@ -41,6 +41,7 @@ sections:
           - text: Gestión de solicitantes
           - text: Datos de los empleados
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'Interfaz de SeaTable para planificar y analizar procesos de RR. HH.'
 
     - name: banner-2
       weight: 3
@@ -59,13 +60,13 @@ sections:
       items:
           - text: Control del tiempo
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: Control del tiempo
+            image_alt: 'Plantilla HR de SeaTable para registro de horas'
           - text: Incorporación de empleados
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: Incorporación de empleados
+            image_alt: 'Plantilla HR de SeaTable para onboarding de empleados'
           - text: Reclutamiento de personal
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: Reclutamiento de personal
+            image_alt: 'Plantilla HR de SeaTable para reclutamiento de personal'
       buttons:
           - label: 'Descubra más plantillas de RR. HH.'
             link: 'templates'
@@ -78,22 +79,27 @@ sections:
           - headline: 'Gestión integral de solicitantes'
             text: Potente herramienta de gestión de solicitantes que cubre todo el proceso de contratación, desde la recepción hasta el rechazo de una solicitud. Optimice su proceso de contratación y mejore la experiencia del candidato.
             image: /images/Landing-Page_HR_Bewerbermanagement.png
+            image_alt: 'Vista de SeaTable para gestión integral de candidatos en reclutamiento'
 
           - headline: 'Gestionar archivos digitales de personal'
             text: Con el archivo digital de personal de SeaTable, puede digitalizar y almacenar de forma segura sus archivos de personal. Gracias a una estructura clara para el archivo electrónico de personal y al cumplimiento de los plazos de conservación, siempre cumplirá con la ley.
             image: /images/Landing-Page_HR_Personalakte.png
+            image_alt: 'Interfaz de SeaTable para gestión digital y conforme al RGPD de expedientes de personal'
 
           - headline: 'Control horario sencillo'
             text: 'Crear organigramas es muy fácil: con SeaTable siempre tendrá a la vista la estructura de su empresa y podrá mostrar los organigramas de forma rápida y clara.'
             image: /images/Landing-Page_HR_Zeiterfassung.png
+            image_alt: 'Vista de control horario de RR. HH. en SeaTable con horas y ausencias'
 
           - headline: 'Creación de organigramas'
             text: La gestión de la cartera de proyectos (PPM) incluye la gestión de todos los proyectos de una organización. La gestión de carteras de proyectos es intensiva en datos y requiere la evaluación de muchos proyectos.
             image: /images/Landing-Page_HR_Organigramm.png
+            image_alt: 'Vista de organigrama en SeaTable para visualizar la estructura de la empresa'
 
           - headline: 'Optimizar los procesos'
             text: Desde la planificación de las vacaciones de los empleados hasta los informes de gastos de viaje, pasando por los complejos procesos de incorporación y desincorporación, SeaTable le ofrece todas las herramientas para optimizar sus procesos de RR. HH. y minimizar los errores.
             image: /images/Landing-Page_HR_Prozesse-optimieren.png
+            image_alt: 'Panel de RR. HH. de SeaTable para optimizar y automatizar procesos de RR. HH.'
 
     - name: banner-2
       weight: 6
