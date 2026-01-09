@@ -42,6 +42,7 @@ sections:
           - text: '**Flexibility and adaptability:** Cloud or your own server? Your choice! Easily adapt processes via drag & drop.'
           - text: '**Interdisciplinary collaboration:** SeaTable connects authorities, provides a secure data basis and communication platform.'
       image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
+      image_alt: 'SeaTable interface for digital administration with centralized data management'
 
     - name: 'content-4'
       weight: 3
@@ -77,15 +78,15 @@ sections:
           - headline: 'Project portfolio'
             text: Projects
             image: /images/Landing-Page-Public-Services_Projektportfolio.png
-            image_alt: Base Editor
+            image_alt: 'SeaTable project portfolio template for public sector initiatives'
           - headline: Real estate administration
             text: Real estate
             image: /images/Landing-Page-Public-Sector_Property-Management_Template.png
-            image_alt:
+            image_alt: 'SeaTable template for municipal real estate and property management'
           - headline: Time recording
             text: Human resources
             image: /images/Landing-Page-Public-Sector_Time-Tracker.png
-            image_alt:
+            image_alt: 'SeaTable template for time tracking in the public sector'
       buttons:
           - label: 'Find more templates for your application'
             link: 'templates'
@@ -100,9 +101,11 @@ sections:
           - headline: 'Individual solutions'
             text: Whether [property management]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **budget planning** or citizen inquiries – the possibilities are diverse. SeaTable integrates seamlessly into existing structures and simplifies digitalization without major IT effort.
             image: /images/Landing-Page-Public-Services_Property-Management.png
+            image_alt: 'SeaTable template for property management in public administration'
           - headline: 'User-friendly apps'
             text: With the SeaTable App Builder, you can effortlessly create user-friendly apps. Employees quickly find their way around, which increases acceptance and makes digitalization more efficient. Optimize your administrative processes and meet modern requirements.
             image: /images/Landing-Page-Public-Services-Universal-App.png
+            image_alt: 'SeaTable universal app for user-friendly administration applications'
 
     - name: content-21
       weight: 6

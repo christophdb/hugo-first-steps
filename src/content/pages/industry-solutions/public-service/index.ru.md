@@ -42,6 +42,7 @@ sections:
           - text: '**Гибкость и адаптируемость:** Облако или собственный сервер? Ваш выбор! Легко адаптируйте процессы с помощью Drag & Drop.'
           - text: '**Междисциплинарное сотрудничество:** SeaTable объединяет ведомства, предлагает безопасную базу данных и коммуникационную платформу.'
       image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
+      image_alt: 'Интерфейс SeaTable для цифрового управления с централизованным управлением данными'
 
     - name: 'content-4'
       weight: 3
@@ -77,15 +78,15 @@ sections:
           - headline: 'Портфель проектов'
             text: Проекты
             image: /images/Landing-Page-Public-Services_Projektportfolio.png
-            image_alt: Base Editor
+            image_alt: 'Шаблон портфеля проектов SeaTable для инициатив госсектора'
           - headline: Управление недвижимостью
             text: Недвижимость
             image: /images/Landing-Page-Public-Sector_Property-Management_Template.png
-            image_alt:
+            image_alt: 'Шаблон SeaTable для управления муниципальной недвижимостью и имуществом'
           - headline: Учет рабочего времени
             text: Кадры
             image: /images/Landing-Page-Public-Sector_Time-Tracker.png
-            image_alt:
+            image_alt: 'Шаблон SeaTable для учета рабочего времени в государственном секторе'
       buttons:
           - label: 'Найдите другие шаблоны для своего приложения'
             link: 'templates'
@@ -100,10 +101,12 @@ sections:
           - headline: 'Индивидуальные решения'
             text: Будь то [управление недвижимостью]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **бюджетное планирование** или запросы граждан - возможности разнообразны. SeaTable легко интегрируется в существующие структуры и упрощает цифровизацию без больших ИТ-затрат.
             image: /images/Landing-Page-Public-Services_Property-Management.png
+            image_alt: 'Шаблон SeaTable для управления объектами недвижимости в госучреждениях'
 
           - headline: 'Удобные приложения'
             text: С помощью SeaTable App Builder вы можете легко создавать удобные приложения. Сотрудники быстро осваиваются, что повышает признание и делает цифровизацию более эффективной. Оптимизируйте свои административные процессы и соответствуйте современным требованиям.
             image: /images/Landing-Page-Public-Services-Universal-App.png
+            image_alt: 'Универсальное приложение SeaTable для удобных административных приложений'
 
     - name: content-21
       weight: 6
