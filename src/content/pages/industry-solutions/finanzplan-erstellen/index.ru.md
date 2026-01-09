@@ -39,6 +39,7 @@ sections:
         - text: Соответствие требованиям GDPR
         - text: Быстрое внедрение без ИТ благодаря отсутствию кода
       image: /images/landing-page-finanzplan-erstellen.png
+      image_alt: 'Интерфейс SeaTable для создания и анализа финансового плана'
  
     - name: "content-4"
       weight: 3
@@ -106,13 +107,13 @@ sections:
       items:
           - text: Выпишите счет-фактуру
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: ""
+            image_alt: "Шаблон SeaTable для создания и ведения счетов"
           - text: Планирование бюджета
             image: /images/budgetplanung-template.jpg
-            image_alt: ""
+            image_alt: "Шаблон бюджетного планирования SeaTable для доходов и расходов"
           - text: Анализ затрат и выгод
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: ""
+            image_alt: "Шаблон SeaTable для анализа «затраты–выгоды» проектов"
       buttons:
         - label: Откройте для себя все шаблоны
           link: "templates"
@@ -126,12 +127,15 @@ sections:
           - headline: SeaTable Cloud
             text: Идеально подходит для компаний, которые хотят начать работу быстро и без обширной ИТ-инфраструктуры - гибкая и масштабируемая.
             image: /images/template-projektplan.png
+            image_alt: 'Облачный шаблон SeaTable для планирования проектов, связанных с финансами'
           - headline: SeaTable Server
             text: Для компаний, которые хотят сохранить полный контроль над своими данными, SeaTable Server предлагает вариант с размещением в помещении.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Шаблон плана мероприятий SeaTable Server для финансовых мер'
           - headline: SeaTable Dedicated
             text: Для компаний, которым нужна простота облака и гибкость самостоятельной системы.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'Среда SeaTable Dedicated для корпоративных финансовых и плановых процессов'
 
     - name: "banner-2"
       weight: 8

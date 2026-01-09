@@ -39,6 +39,7 @@ sections:
         - text : Conforme au RGPD
         - text : Implémentation rapide sans informatique grâce au No Code
       image: /images/landing-page-finanzplan-erstellen.png
+      image_alt: 'Interface SeaTable pour créer et analyser un plan financier'
  
     - name: "content-4"
       weight: 3
@@ -106,13 +107,13 @@ sections:
       items:
           - text: Écrire une facture
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour créer et gérer des factures"
           - text: Planification budgétaire
             image: /images/budgetplanung-template.jpg
-            image_alt: ""
+            image_alt: "Modèle de planification budgétaire SeaTable pour recettes et dépenses"
           - text: Analyse coûts-bénéfices
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour analyse coûts-avantages de projets"
       buttons:
         - label: Découvrir tous les modèles
           link: "templates"
@@ -126,12 +127,15 @@ sections:
           - headline: SeaTable Cloud
             text: Parfait pour les entreprises qui souhaitent démarrer rapidement et sans infrastructure informatique étendue - flexible et évolutive.
             image: /images/template-projektplan.png
+            image_alt: 'Modèle de plan de projet SeaTable Cloud pour projets liés aux finances'
           - headline: SeaTable Server
             text: Pour les entreprises qui souhaitent garder le contrôle total de leurs données, SeaTable Server propose une option sur site.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modèle de plan d’actions SeaTable Server pour mesures financières'
           - headline: SeaTable Dedicated
             text: "Pour les entreprises qui ont besoin de la simplicité du cloud et de la flexibilité d'un système auto-hébergé." 
             image: /images/asana-dedicated.jpg
+            image_alt: 'Environnement SeaTable Dedicated pour processus financiers et de planification à l’échelle de l’entreprise'
 
     - name: "banner-2"
       weight: 8

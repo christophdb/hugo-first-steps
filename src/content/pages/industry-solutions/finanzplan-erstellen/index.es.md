@@ -39,6 +39,7 @@ sections:
         - text: Conforme a la RGPD
         - text: Rápida implantación sin TI gracias a la ausencia de código
       image: /images/landing-page-finanzplan-erstellen.png
+      image_alt: 'Interfaz de SeaTable para crear y analizar un plan financiero'
  
     - name: "content-4"
       weight: 3
@@ -106,13 +107,13 @@ sections:
       items:
           - text: Redactar factura
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: ""
+            image_alt: "Plantilla de SeaTable para crear y gestionar facturas"
           - text: Planificación presupuestaria
             image: /images/budgetplanung-template.jpg
-            image_alt: ""
+            image_alt: "Plantilla de planificación presupuestaria de SeaTable para ingresos y gastos"
           - text: Análisis coste-beneficio
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: ""
+            image_alt: "Plantilla de SeaTable para análisis coste-beneficio de proyectos"
       buttons:
         - label: Descubra todas las plantillas
           link: "templates"
@@ -126,12 +127,15 @@ sections:
           - headline: SeaTable Cloud
             text: "Perfecto para empresas que quieren empezar rápidamente y sin una amplia infraestructura informática: flexible y escalable."
             image: /images/template-projektplan.png
+            image_alt: 'Plantilla de plan de proyecto en SeaTable Cloud para proyectos ligados a finanzas'
           - headline: SeaTable Server
             text: Para las empresas que desean mantener un control total sobre sus datos, SeaTable Server ofrece una opción in situ.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Plantilla de plan de acciones en SeaTable Server para medidas financieras'
           - headline: SeaTable Dedicated
             text: Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autoalojado.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'Entorno SeaTable Dedicated para procesos financieros y de planificación a nivel empresarial'
 
     - name: "banner-2"
       weight: 8

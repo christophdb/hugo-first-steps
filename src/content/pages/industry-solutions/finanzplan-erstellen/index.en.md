@@ -39,6 +39,7 @@ sections:
         - text: GDPR-compliant
         - text: Fast implementation without IT thanks to no code
       image: /images/landing-page-finanzplan-erstellen.png
+      image_alt: 'SeaTable interface for creating and analyzing a financial plan'
  
     - name: "content-4"
       weight: 3
@@ -106,13 +107,13 @@ sections:
       items:
           - text: Write invoice
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: ""
+            image_alt: "SeaTable template for creating and managing invoices"
           - text: Budget planning
             image: /images/budgetplanung-template.jpg
-            image_alt: ""
+            image_alt: "SeaTable budget planning template for income and expenses"
           - text: Cost-benefit analysis
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: ""
+            image_alt: "SeaTable template for cost-benefit analysis of projects"
       buttons:
         - label: Discover all templates
           link: "templates"
@@ -126,12 +127,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to get started quickly and without an extensive IT infrastructure - flexible and scalable.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud project plan template for planning finance-related projects'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server action plan template for financial measures'
           - headline: SeaTable Dedicated
             text: For companies that need the simplicity of the cloud and the flexibility of a self-hosted system.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated environment for company-wide finance and planning processes'
 
     - name: "banner-2"
       weight: 8
