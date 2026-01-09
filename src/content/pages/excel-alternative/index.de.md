@@ -61,18 +61,23 @@ sections:
           - headline: Daten effizient organisieren
             text: Nutzen Sie die über 20 verschiedenen Spaltentypen, einschließlich Checkboxen, Schaltflächen, Dateien und Bilder.
             image: /images/Excel-Alternative_Daten-effizient-organisieren.png
+            image_alt: 'SeaTable Tabellenansicht mit verschiedenen Spaltentypen zur effizienten Datenorganisation'
           - headline: Vielfältige Ansichten
             text: Erstellen Sie verschiedene, individuelle Ansichten Ihrer Daten, um Erkenntnisse aus unterschiedlichen Perspektiven zu gewinnen, und wechseln Sie mühelos zwischen Kalender-, Kanban- und Galerienansichten.
             image: /images/Excel-Alternative_Ansichten.png
+            image_alt: 'Verschiedene SeaTable Ansichten wie Tabelle, Kalender, Kanban und Galerie im Überblick'
           - headline: Erweiterte Datenverarbeitung
             text: Führen Sie komplexe Datenverarbeitungen durch und erstellen Sie ansprechende Diagramme und Pivot-Tabellen für Ihre Analysen.
             image: /images/Excel-Alternative_Datenverarbeitung.png
+            image_alt: 'SeaTable Oberfläche mit Diagrammen und Pivot-Tabellen für erweiterte Datenverarbeitung'
           - headline: Kostenlose Vorlagen
             text: Verwenden Sie eine unserer zahlreichen kostenlosen Vorlagen aus den unterschiedlichsten Fachbereichen, um sofort loszulegen.
             image: /images/Excel-Alternative-Templates.png
+            image_alt: 'Auswahl an SeaTable Vorlagen als Excel Alternative für verschiedene Fachbereiche'
           - headline: Filter- und Sortierfunktion
             text: Dank leistungsstarker Filter- und Sortierfunktionen sowie automatischer Berechnungen behalten Sie jederzeit den Überblick.
             image: /images/Filterfunktionen.png
+            image_alt: 'SeaTable Tabelle mit Filter- und Sortierfunktionen zur fokussierten Datenanalyse'
 
     - name: 'content-10'
       weight: 5
@@ -132,6 +137,7 @@ sections:
       subtitle: Seien Sie flexibel
       text: Bearbeiten Sie Ihre Daten von überall aus. SeaTable bietet mobilen Zugriff, sodass Sie auch unterwegs auf Ihre Projekte zugreifen können.
       image: /images/SeaTable_de.png
+      image_alt: 'SeaTable Oberfläche auf mehreren Geräten für mobilen Zugriff und flexible Datennutzung'
 
     - name: 'content-13'
       weight: 10
@@ -190,9 +196,11 @@ sections:
           - headline: SeaTable Cloud
             text: Nutzen Sie die Vorteile von SeaTable Cloud und profitieren Sie von der Flexibilität und Sicherheit einer modernen Cloud-Infrastruktur. SeaTable Cloud wird in zertifizierten deutschen Rechenzentren eines Schweizer Anbieters gehostet.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Excel Alternative für moderne Projektplanung'
           - headline: SeaTable Server
             text: Mit SeaTable Server entscheiden Sie, wo Ihre Daten gespeichert werden. Sie haben die volle Datenhoheit. Mit der On-Premises-Variante wird SeaTable vollständig in Ihre bestehende IT-Infrastruktur integrieren.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für On-Premises-Datenverwaltung als Excel Alternative'
 
     - name: 'banner-2'
       weight: 13
