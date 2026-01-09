@@ -39,6 +39,7 @@ sections:
         - text: Em conformidade com a DSRGPDGVO
         - text: Implementação rápida sem TI graças à ausência de código
       image: /images/landing-page-finanzplan-erstellen.png
+      image_alt: 'Interface do SeaTable para criar e analisar um plano financeiro'
  
     - name: "content-4"
       weight: 3
@@ -106,13 +107,13 @@ sections:
       items:
           - text: Escreva a fatura
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: ""
+            image_alt: "Modelo SeaTable para criar e gerir faturas"
           - text: Planeamento orçamental
             image: /images/budgetplanung-template.jpg
-            image_alt: ""
+            image_alt: "Modelo de planeamento orçamental do SeaTable para receitas e despesas"
           - text: Análise custo-benefício
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: ""
+            image_alt: "Modelo SeaTable para análise custo-benefício de projetos"
       buttons:
         - label: Descubra todos os modelos
           link: "templates"
@@ -126,12 +127,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa – flexível e escalável.
             image: /images/template-projektplan.png
+            image_alt: 'Modelo de plano de projeto no SeaTable Cloud para projetos ligados às finanças'
           - headline: SeaTable Server
             text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modelo de plano de ações no SeaTable Server para medidas financeiras'
           - headline: SeaTable Dedicated
             text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado. 
             image: /images/asana-dedicated.jpg
+            image_alt: 'Ambiente SeaTable Dedicated para processos financeiros e de planeamento em toda a empresa'
 
     - name: "banner-2"
       weight: 8

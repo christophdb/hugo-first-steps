@@ -39,6 +39,7 @@ sections:
         - text: DSGVO-konform
         - text: Schnelle Implementierung ohne IT dank No Code
       image: /images/landing-page-finanzplan-erstellen.png
+      image_alt: 'SeaTable Oberfläche zur Erstellung und Auswertung eines Finanzplans'
  
     - name: "content-4"
       weight: 3
@@ -106,13 +107,13 @@ sections:
       items:
           - text: Rechnung schreiben
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: "Erstellen einer Rechnung mit SeaTable"
+            image_alt: "SeaTable Vorlage zum Erstellen und Verwalten von Rechnungen"
           - text: Budgetplanung
             image: /images/budgetplanung-template.jpg
-            image_alt: "Erstellen eines Budgetplan mit SeaTable"
+            image_alt: "SeaTable Budgetplanung Vorlage für Einnahmen und Ausgaben"
           - text: Kosten-Nutzen-Analyse
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: "Erstellung einer Kosten-Nutzen-Analyse "
+            image_alt: "SeaTable Vorlage für Kosten-Nutzen-Analyse von Projekten"
       buttons:
         - label: Alle Vorlagen entdecken
           link: "templates"
@@ -126,12 +127,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage zur Planung finanzrelevanter Projekte'
           - headline: SeaTable Server
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für finanzielle Maßnahmenpakete'
           - headline: SeaTable Dedicated
             text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated Umgebung für unternehmensweite Finanz- und Planungsprozesse'
 
     - name: "banner-2"
       weight: 8
