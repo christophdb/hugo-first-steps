@@ -13,7 +13,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "Logiciel de gestion des processus pour des opérations efficaces"
-      text: "Visualisez vos processus, standardisez et automatisez vos flux de travail et utilisez vos ressources plus efficacement : SeaTable est la solution IA sans code pour votre équipe opérationnelle."
+      text: "Visualisez des processus complexes, standardisez et automatisez vos flux de travail quotidiens et utilisez les ressources existantes de manière nettement plus efficace : SeaTable est la solution intuitive basée sur l'IA et sans code qui aide votre équipe opérationnelle à éliminer les tâches manuelles, à réduire les taux d'erreur et à favoriser une croissance durable grâce à l'excellence numérique."
       classes:
           - bg-gray-200
       template: d58845a24cda4807847e

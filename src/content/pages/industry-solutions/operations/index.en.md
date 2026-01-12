@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "Process management software for efficient operations"
-      text: "Visualize your processes, standardize and automate workflows and use your resources more efficiently: SeaTable is the AI no-code solution for your operations team."
+      text: "Visualize complex processes, standardize and automate your daily workflows, and use existing resources more efficiently: SeaTable is the intuitive AI-based no-code solution that helps your operations team eliminate manual tasks, reduce error rates, and drive sustainable growth through digital excellence."
       classes:
           - bg-gray-200
       template: d58845a24cda4807847e

@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "Prozessmanagement Software für effiziente Operations"
-      text: "Visualisieren Sie Ihre Prozesse, standardisieren und  automatisieren Sie Workflows und nutzen Sie Ihre Ressourcen effizienter: SeaTable ist die KI-No-Code-Lösung für Ihr Operations-Team."
+      text: "Visualisieren Sie komplexe Prozesse, standardisieren und automatisieren Sie Ihre täglichen Workflows und nutzen Sie vorhandene Ressourcen spürbar effizienter: SeaTable ist die intuitive KI-basierte No-Code-Lösung, die Ihr Operations-Team dabei unterstützt, manuelle Aufgaben zu eliminieren, Fehlerquoten zu senken und nachhaltiges Wachstum durch digitale Exzellenz voranzutreiben."
       classes:
           - bg-gray-200
       template: d58845a24cda4807847e
@@ -27,7 +27,7 @@ sections:
       weight: 2
       title: SeaTable ist die perfekte Lösung für Ihr Prozessmanagement
       subtitle: Vorteile von SeaTable
-      text: "SeaTable vereint die einfache Nutzung einer Tabellenkalkulation mit der Power einer Datenbank, modernen KI-Funktionen und Automatisierungen sowie einem flexiblen App Builder."
+      text: SeaTable vereint die einfache Nutzung einer Tabellenkalkulation mit der Power einer Datenbank, modernen KI-Funktionen und Automatisierungen sowie einem flexiblen [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}).
       items:
       - icon: edit
         headline: Flexibilität
@@ -170,9 +170,9 @@ sections:
           - q: Wie kann SeaTable als Prozessmanagement-Software den Geschäftsbetrieb verbessern?
             a: Die Geschäftsprozessmanagement Software SeaTable kann Ihre Abläufe verbessern, indem es Ihre Mitarbeiter in die Lage versetzt, Prozesse und Projekte in Echtzeit mithilfe von Workflows, Formularen und Dashboards zu verwalten und zu analysieren. Mit SeaTable nutzen Sie ein flexibles und individuell anpassbares Prozessmanagement Tool zur Prozessautomatisierung und Geschäftsprozessoptimierung. So stellen Sie Transparenz im Unternehmen her. 
           - q: Bietet SeaTable als Prozessmanagement Tool Analysefunktionen?
-            a: "Visualize your data: Mit SeaTable erstellen Sie spielend leicht ansprechende Dashboards für Ihre Daten und die Prozessanalyse. Nutzen Sie unsere moderne KI-No-Code-Lösung als Prozesssteuerung Software für Ihr Operations Team und erfassen Sie wichtige Metriken wie Durchlaufzeit, Fehlerquote oder geplante und tatsächliche Kosten für Ihre Analyse."
+            a: 'Visualize your data: Mit SeaTable erstellen Sie spielend leicht ansprechende Dashboards für Ihre Daten und die Prozessanalyse. Nutzen Sie unsere moderne [KI-No-Code-Plattform]({{< relref "/" >}}) als Prozesssteuerung Software für Ihr Operations Team und erfassen Sie wichtige Metriken wie Durchlaufzeit, Fehlerquote oder geplante und tatsächliche Kosten für Ihre Analyse.'
           - q: Ist SeaTable auch als Software zur Prozessmodellierung geeignet?
-            a: "Streamline your processes: Die Geschäftsprozessmanagement Software SeaTable bietet verschiedene integrierte Möglichkeiten, Ihre Business Processes zu visualisieren und ist auch als Geschäftsprozessmodellierung Software geeignet. Nutzen Sie die bereits im Free Account enthaltenen Möglichkeiten wie das Whiteboard-Plugin oder Diagramm-Plugins, um Ihre Workflows transparent abzubilden, ohne teure Prozessmanagement Tools oder eine spezielle Software zur Prozessmodellierung nutzen zu müssen." 
+            a: "Streamline your processes: Die Geschäftsprozessmanagement Software SeaTable bietet verschiedene integrierte Möglichkeiten, Ihre Business Processes zu visualisieren und ist auch als Geschäftsprozessmodellierung Software geeignet. Nutzen Sie die bereits im Free Account enthaltenen Möglichkeiten wie das Whiteboard-Plugin oder Diagramm-Plugins, um Ihre Workflows transparent abzubilden, ohne teure Prozessmanagement Tools oder eine spezielle Software zur Prozessmodellierung nutzen zu müssen."
           - q: Bietet SeaTable einen Support an?
             a: Ja, für alle Fragen rund um SeaTable steht Ihnen unser Support zur Verfügung. Sie können Ihre Fragen entweder im SeaTable Forum stellen oder direkt eine E-Mail schreiben. Damit bietet SeaTable als Unternehmenssoftware für kleine Unternehmen ein kostenloses Support-Paket, dass so keine andere AI No Code Lösung bietet.
           - q: Über welche Funktionen sollte eine gute Geschäftsprozessmanagement Software verfügen?
