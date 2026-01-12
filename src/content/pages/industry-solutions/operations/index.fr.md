@@ -13,7 +13,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "Logiciel de gestion des processus pour des opérations efficaces"
-      text: "Visualisez vos processus, standardisez et automatisez vos flux de travail et utilisez vos ressources plus efficacement : SeaTable est la solution IA sans code pour votre équipe opérationnelle."
+      text: "Visualisez des processus complexes, standardisez et automatisez vos flux de travail quotidiens et utilisez les ressources existantes de manière nettement plus efficace : SeaTable est la solution intuitive basée sur l'IA et sans code qui aide votre équipe opérationnelle à éliminer les tâches manuelles, à réduire les taux d'erreur et à favoriser une croissance durable grâce à l'excellence numérique."
       classes:
           - bg-gray-200
       template: d58845a24cda4807847e
@@ -29,7 +29,7 @@ sections:
       weight: 2
       title: SeaTable est la solution idéale pour la gestion de vos processus
       subtitle: Avantages de SeaTable
-      text: "SeaTable combine la facilité d'utilisation d'une feuille de calcul avec la puissance d'une base de données, des fonctions d'IA modernes et l'automatisation ainsi qu'un constructeur d'applications flexible."
+      text: SeaTable combine la facilité d'utilisation d'une feuille de calcul avec la puissance d'une base de données, des fonctions d'IA modernes et l'automatisation ainsi qu'un [constructeur d'applications]({{< relref "posts/20250318-app-erstellen" >}}) flexible.
       items:
       - icon: edit
         headline: Flexibilité
@@ -172,7 +172,7 @@ sections:
           - q: "En tant que logiciel de gestion des processus, comment SeaTable peut-il améliorer les opérations commerciales ?"
             a: "Le logiciel de gestion des processus métier SeaTable peut améliorer vos opérations en permettant à vos employés de gérer et d'analyser des processus et des projets en temps réel à l'aide de flux de travail, de formulaires et de tableaux de bord. SeaTable est un outil de gestion des processus flexible et personnalisable pour l'automatisation des processus et l'optimisation des processus métier. Cela vous permet de créer de la transparence dans votre entreprise."
           - q: "En tant qu'outil de gestion des processus, SeaTable offre-t-il des fonctions d'analyse ?"
-            a: "Visualisez vos données : SeaTable vous permet de créer facilement des tableaux de bord attrayants pour l'analyse de vos données et de vos processus. Utilisez notre solution AI no-code de pointe comme logiciel de contrôle des processus pour votre équipe opérationnelle et enregistrez des métriques importantes telles que le temps de production, le taux d'erreur ou les coûts prévus et réels pour votre analyse."
+            a: 'Visualisez vos données : SeaTable vous permet de créer facilement des tableaux de bord attrayants pour l'analyse de vos données et de vos processus. Utilisez notre [solution AI no-code]({{< relref "/" >}}) de pointe comme logiciel de contrôle des processus pour votre équipe opérationnelle et enregistrez des métriques importantes telles que le temps de production, le taux d'erreur ou les coûts prévus et réels pour votre analyse.'
           - q: "SeaTable est-il également adapté comme logiciel de modélisation de processus ?"
             a: "Étirez vos processus : le logiciel de gestion des processus d'entreprise SeaTable offre plusieurs options intégrées pour visualiser vos processus d'entreprise et peut également être utilisé comme logiciel de modélisation des processus d'entreprise. Utilisez les options déjà incluses dans le compte gratuit, comme le plugin de tableau blanc ou les plugins de diagramme, pour cartographier vos flux de travail de manière transparente sans avoir à utiliser des outils de gestion de processus coûteux ou un logiciel de modélisation de processus spécial."
           - q: "SeaTable offre-t-il un support ?"

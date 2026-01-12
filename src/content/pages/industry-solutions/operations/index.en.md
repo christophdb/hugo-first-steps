@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "Process management software for efficient operations"
-      text: "Visualize your processes, standardize and automate workflows and use your resources more efficiently: SeaTable is the AI no-code solution for your operations team."
+      text: "Visualize complex processes, standardize and automate your daily workflows, and use existing resources more efficiently: SeaTable is the intuitive AI-based no-code solution that helps your operations team eliminate manual tasks, reduce error rates, and drive sustainable growth through digital excellence."
       classes:
           - bg-gray-200
       template: d58845a24cda4807847e
@@ -27,7 +27,7 @@ sections:
       weight: 2
       title: SeaTable is the perfect solution for your process management
       subtitle: Advantages of SeaTable
-      text: "SeaTable combines the ease of use of a spreadsheet with the power of a database, modern AI functions and automation as well as a flexible app builder."
+      text: SeaTable combines the ease of use of a spreadsheet with the power of a database, modern AI functions and automation as well as a flexible [app builder]({{< relref "posts/20250318-app-erstellen" >}}).
       items:
       - icon: edit
         headline: Flexibility
@@ -170,7 +170,7 @@ sections:
           - q: As a process management software, how can SeaTable improve business operations?
             a: SeaTable business process management software can improve your operations by enabling your employees to manage and analyze processes and projects in real time using workflows, forms and dashboards. SeaTable is a flexible and customizable process management tool for process automation and business process optimization. This allows you to create transparency in your company.
           - q: As a process management tool, does SeaTable offer analysis functions?
-            a: "Visualize your data: SeaTable makes it easy to create appealing dashboards for your data and process analysis. Use our modern AI no-code solution as process control software for your operations team and record important metrics such as throughput time, error rate or planned and actual costs for your analysis."
+            a: 'Visualize your data: SeaTable makes it easy to create appealing dashboards for your data and process analysis. Use our modern [AI no-code solution]({{< relref "/" >}}) as process control software for your operations team and record important metrics such as throughput time, error rate or planned and actual costs for your analysis.'
           - q: Is SeaTable also suitable as process modeling software?
             a: "Streamline your processes: The business process management software SeaTable offers various integrated options to visualize your business processes and is also suitable as business process modeling software. Use the options already included in the free account, such as the whiteboard plugin or diagram plugins, to map your workflows transparently without having to use expensive process management tools or special process modeling software."
           - q: Does SeaTable offer support?
