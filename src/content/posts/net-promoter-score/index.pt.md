@@ -137,7 +137,7 @@ Se considerar o Net Promoter Score como uma parte da sua análise da experiênci
 
 ## SeaTable - A sua ferramenta para inquéritos NPS
 
-Independentemente da forma como acaba por calcular o seu Net Promoter Score e de o utilizar para as suas análises, certifique-se de que utiliza uma ferramenta que não só lhe permite realizar inquéritos, mas também armazenar e gerir todo o seu feedback. Com a **Base de dados sem código SeaTable**, tem à sua disposição uma ferramenta flexível e de fácil utilização que pode personalizar como desejar. Crie **formulários Web para a recolha de dados**, utilize o nosso **Universal App Builder como portal de inquéritos**, colabore sem problemas em tempo real e analise os resultados com o **módulo de estatísticas integrado e painéis de controlo personalizáveis**.
+Independentemente da forma como acaba por calcular o seu Net Promoter Score e de o utilizar para as suas análises, certifique-se de que utiliza uma ferramenta que não só lhe permite realizar inquéritos, mas também armazenar e gerir todo o seu feedback. Com a **Base de dados sem código SeaTable**, tem à sua disposição uma ferramenta flexível e de fácil utilização que pode personalizar como desejar. Crie **formulários Web para a recolha de dados**, utilize o nosso **App Builder como portal de inquéritos**, colabore sem problemas em tempo real e analise os resultados com o **módulo de estatísticas integrado e painéis de controlo personalizáveis**.
 
 {{< template-box id="895068666cae411b9da7" >}}
 

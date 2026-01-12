@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: "Modèle de calendrier de construction pour une vue d'ensemble et la sécurité"
       subtitle: "Contrôle total"
-      description: "SeaTable est une base de données moderne sans code avec Universal App Builder et offre toutes les fonctionnalités dont vous avez besoin pour un plan de construction numérique. Vous pouvez ainsi gérer efficacement les risques."
+      description: "SeaTable est une base de données moderne sans code avec App Builder et offre toutes les fonctionnalités dont vous avez besoin pour un plan de construction numérique. Vous pouvez ainsi gérer efficacement les risques."
       box-position: [right!]
       items:
       - headline: Gestion des risques

@@ -238,7 +238,7 @@ text2="Faites défiler notre modèle d'organigramme de projet interactif comme e
 id2="898485ee9b7949c5b987"
 submit2="Tester le modèle" >}}
 
-**Des tableaux de bord et des statistiques personnalisables** vous permettent de vérifier les progrès du projet à intervalles réguliers. Avec le **Universal App Builder**, vous concevez en quelques minutes un **front-end** convivial pour vos parties prenantes, tandis que les plugins **Whiteboard et Tree** vous permettent de garder une vue complète de votre gestion du changement.
+**Des tableaux de bord et des statistiques personnalisables** vous permettent de vérifier les progrès du projet à intervalles réguliers. Avec le **App Builder**, vous concevez en quelques minutes un **front-end** convivial pour vos parties prenantes, tandis que les plugins **Whiteboard et Tree** vous permettent de garder une vue complète de votre gestion du changement.
 
 En tant que [solution cloud]({{< relref "pages/product/seatable-cloud" >}}), SeaTable est hébergé exclusivement sur des serveurs situés en Allemagne et est **entièrement conforme au RGPD**. Pour un contrôle encore plus grand de vos données, vous pouvez utiliser [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) pour héberger le logiciel sur vos propres serveurs. Dans la version de base gratuite, vous disposez de nombreuses fonctionnalités de base.
 

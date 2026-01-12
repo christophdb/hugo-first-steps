@@ -139,7 +139,7 @@ sections:
       title: FAQ - SeaTable as a Microsoft Lists alternative
       items:
           - q: 'What functions does SeaTable offer?'
-            a: 'SeaTable offers a wide range of functions for transparent, real-time [data management]({{< relref "posts/20250317-datenmanagement" >}}) and efficient processes: Whether automations, notification functions, Universal App Builder or reporting dashboards: you can flexibly adapt SeaTable to your requirements. The platform is flexible and can be used both as a cloud solution and on-premises.'
+            a: 'SeaTable offers a wide range of functions for transparent, real-time [data management]({{< relref "posts/20250317-datenmanagement" >}}) and efficient processes: Whether automations, notification functions, App Builder or reporting dashboards: you can flexibly adapt SeaTable to your requirements. The platform is flexible and can be used both as a cloud solution and on-premises.'
 
           - q: 'Is SeaTable really free to use?'
             a: 'Yes, you can use SeaTable in the Free Plan free of charge for an unlimited period of time. For extended functions and more storage space, you can opt for the inexpensive Premium version.'

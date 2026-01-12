@@ -69,7 +69,7 @@ sections:
         
       - icon: terminal
         headline: Simply record data
-        text: "Enter data, create a financial plan: Create a user-friendly finance frontend with our Universal App Builder."
+        text: "Enter data, create a financial plan: Create a user-friendly finance frontend with our App Builder."
 
     - name: "content-4"
       weight: 6

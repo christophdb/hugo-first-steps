@@ -10,7 +10,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Herramientas y plugins'
-    - 'Universal App Builder'
+    - 'App Builder'
 color: '#9fe0cc'
 url: '/es/crear-app'
 aliases:

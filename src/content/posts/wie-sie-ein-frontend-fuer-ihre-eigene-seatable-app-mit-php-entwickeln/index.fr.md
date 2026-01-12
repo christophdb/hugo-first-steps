@@ -5,7 +5,7 @@ date: 2022-09-27
 categories:
     - 'product-features'
 tags:
-    - 'Universal App Builder'
+    - 'App Builder'
 url: '/fr/seatable-app-frontend-php'
 aliases:
     - /fr/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln

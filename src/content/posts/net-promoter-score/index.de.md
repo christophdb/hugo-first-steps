@@ -137,7 +137,7 @@ Wenn Sie den Net Promoter Score als einen Teil Ihrer Customer Experience Analyse
 
 ## SeaTable – Ihr Tool für NPS-Umfragen
 
-Egal, wie Sie am Ende Ihren Net Promoter Score ermitteln und für Ihre Analysen nutzen, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie nicht nur Umfragen durchführen, sondern auch alle Ihre Feedbacks speichern und verwalten können. Mit der **No-Code Datenbank SeaTable** steht Ihnen ein flexibles, benutzerfreundliches Tool zur Verfügung, dass Sie frei nach Ihren Vorstellungen anpassen können. Erstellen Sie **Webformulare zur Datenerhebung**, nutzen Sie unseren **Universal App Builder als Umfrage-Portal**, kollaborieren Sie nahtlos in Echtzeit und analysieren Sie die Ergebnisse mit dem **integrierten Statistik-Modul und frei gestaltbaren Dashboards**. 
+Egal, wie Sie am Ende Ihren Net Promoter Score ermitteln und für Ihre Analysen nutzen, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie nicht nur Umfragen durchführen, sondern auch alle Ihre Feedbacks speichern und verwalten können. Mit der **No-Code Datenbank SeaTable** steht Ihnen ein flexibles, benutzerfreundliches Tool zur Verfügung, dass Sie frei nach Ihren Vorstellungen anpassen können. Erstellen Sie **Webformulare zur Datenerhebung**, nutzen Sie unseren **App Builder als Umfrage-Portal**, kollaborieren Sie nahtlos in Echtzeit und analysieren Sie die Ergebnisse mit dem **integrierten Statistik-Modul und frei gestaltbaren Dashboards**. 
 
 {{< template-box id="895068666cae411b9da7" >}}
 

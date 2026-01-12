@@ -8,7 +8,7 @@ date: 2025-03-18
 categories:
     - 'low-code-no-code'
 tags:
-    - 'Universal App Builder'
+    - 'App Builder'
     - 'No Code & Low Code'
 color: '#9fe0cc'
 url: '/de/app-erstellen'

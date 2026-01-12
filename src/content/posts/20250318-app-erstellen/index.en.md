@@ -9,7 +9,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'No Code & Low Code'
-    - 'Universal App Builder'
+    - 'App Builder'
 color: '#9fe0cc'
 url: '/app-builder'
 aliases:

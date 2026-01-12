@@ -73,7 +73,7 @@ sections:
        - bg-gray-100
       title: 'A digital food diary with SeaTable'
       subtitle: 'Your advantages with SeaTable'
-      description: 'SeaTable offers a unique combination of a familiar spreadsheet interface, the advanced features of a no-code database and a universal app builder. Create your own nutrition log app for free with just a few clicks and keep track of your eating habits.'
+      description: 'SeaTable offers a unique combination of a familiar spreadsheet interface, the advanced features of a no-code database and an app builder. Create your own nutrition log app for free with just a few clicks and keep track of your eating habits.'
       box-position: [right!]
       items:
       - headline: Recognize allergies

@@ -69,7 +69,7 @@ sections:
 
       - icon: terminal
         headline: Saisir des données facilement
-        text : "Saisir des données, établir un plan financier : Créez un front-end financier facile à utiliser avec notre Universal App Builder."
+        text : "Saisir des données, établir un plan financier : Créez un front-end financier facile à utiliser avec notre App Builder."
 
     - name: "content-4"
       weight: 6

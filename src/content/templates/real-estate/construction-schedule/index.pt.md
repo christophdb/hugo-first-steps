@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Modelo de calendário de construção para síntese e segurança'
       subtitle: 'Controlo total'
-      description: 'O SeaTable é uma base de dados moderna sem código com o Universal App Builder e oferece todas as funções de que necessita para um calendário de construção digital. Assim, pode gerir os riscos de forma eficaz.'
+      description: 'O SeaTable é uma base de dados moderna sem código com o App Builder e oferece todas as funções de que necessita para um calendário de construção digital. Assim, pode gerir os riscos de forma eficaz.'
       box-position: [right!]
       items:
       - headline: Gestão dos riscos

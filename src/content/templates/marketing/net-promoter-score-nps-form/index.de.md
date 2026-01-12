@@ -125,7 +125,7 @@ sections:
        - bg-gray-100
       title: 'NPS Rechner für jeden Anwendungsfall'
       subtitle: 'Cloud oder On-Premises'
-      description: 'SeaTable ist eine moderne AI No Code Datenbanklösung mit Universal App Builder und bietet alle Funktionen, die Sie für ein digitales, integriertes Umfrage-Tool benötigen. Sie entscheiden, wie Sie SeaTable nutzen.'
+      description: 'SeaTable ist eine moderne AI No Code Datenbanklösung mit App Builder und bietet alle Funktionen, die Sie für ein digitales, integriertes Umfrage-Tool benötigen. Sie entscheiden, wie Sie SeaTable nutzen.'
       box-position: [right!]
       items:
       - headline: DSGVO-konform

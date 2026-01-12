@@ -238,7 +238,7 @@ text2="Percorra o nosso modelo interativo de estrutura analítica de trabalho co
 id2="898485ee9b7949c5b987"
 submit2="Modelo de teste" >}}
 
-Os **painéis e estatísticas personalizáveis** permitem-lhe analisar o progresso do projeto em intervalos regulares. Com o **Universal App Builder**, pode conceber um **front end de fácil utilização** para os seus intervenientes em apenas alguns minutos, enquanto os plugins **Whiteboard e Tree** lhe permitem manter uma visão completa da sua gestão de alterações.
+Os **painéis e estatísticas personalizáveis** permitem-lhe analisar o progresso do projeto em intervalos regulares. Com o **App Builder**, pode conceber um **front end de fácil utilização** para os seus intervenientes em apenas alguns minutos, enquanto os plugins **Whiteboard e Tree** lhe permitem manter uma visão completa da sua gestão de alterações.
 
 Enquanto [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), o SeaTable está alojado exclusivamente em servidores na Alemanha e é **compatível com o RGPD**. Para um controlo ainda maior sobre os seus dados, pode alojar o software nos seus próprios servidores com o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). A versão básica gratuita fornece-lhe várias funções básicas.
 

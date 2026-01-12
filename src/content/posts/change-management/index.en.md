@@ -238,7 +238,7 @@ text2="Scroll through our interactive work breakdown structure template as an ex
 id2="898485ee9b7949c5b987"
 submit2="Test template" >}}
 
-**Customizable dashboards and statistics** allow you to review project progress at regular intervals. With the **Universal App Builder**, you can design a **user-friendly front end** for your stakeholders in just a few minutes, while the **Whiteboard and Tree** plugins allow you to maintain a complete overview of your change management.
+**Customizable dashboards and statistics** allow you to review project progress at regular intervals. With the **App Builder**, you can design a **user-friendly front end** for your stakeholders in just a few minutes, while the **Whiteboard and Tree** plugins allow you to maintain a complete overview of your change management.
 
 As a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}), SeaTable is hosted exclusively on servers in Germany and is **fully GDPR compliant**. For even greater control over your data, you can host the software on your own servers with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). The free basic version provides you with numerous basic functions.
 

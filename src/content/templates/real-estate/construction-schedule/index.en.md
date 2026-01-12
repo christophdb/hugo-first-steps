@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Construction schedule template for overview and safety'
       subtitle: 'Full control'
-      description: 'SeaTable is a modern no-code database with Universal App Builder and offers all the functions you need for a digital construction schedule. So you can manage risks effectively.'
+      description: 'SeaTable is a modern no-code database with App Builder and offers all the functions you need for a digital construction schedule. So you can manage risks effectively.'
       box-position: [right!]
       items:
       - headline: Risk management
