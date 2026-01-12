@@ -9,6 +9,7 @@ version: '1.1.2'
 type: 'legal'
 url: '/technical-and-organizational-measures/v1-1-2'
 noindex: true
+sitemap_exclude: true
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

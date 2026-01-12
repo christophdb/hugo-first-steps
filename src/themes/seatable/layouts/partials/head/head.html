@@ -57,6 +57,9 @@
     {{/* Verification for prefix-based properties (one per language) */}}
     <meta name="google-site-verification" content="E2ZqrTXGnRUVI2ojFqaO1UCciOZW3fXsw8Wzroy6Glc" />
 
+    <!-- Posthog Slug (um die jeweiligen Sprachseiten zusammenzukriegen)-->
+    <meta name="slug" content="/{{ with .File }}{{ strings.TrimPrefix "content/" .Dir | strings.TrimSuffix "/" }}{{ end }}" />
+
     <!-- social ... -->
     {{ if hugo.IsProduction }}
         {{ template "_internal/opengraph.html" . }}
@@ -78,6 +81,13 @@
     {{ if hugo.IsProduction }}
         <!-- Posthog -->
         <script>
+            // Hole `lang`, `slug` zur Definition der Super Properties in Posthog
+            function getLanguageAndSlug() {
+                const language = document.documentElement.lang || document.querySelector('html')?.getAttribute('lang');
+                const slug = document.querySelector('meta[name="slug"]')?.getAttribute('content');
+                return { language: language, slug: slug };
+            }
+
             !(function (t, e) {
                 var o, n, p, r;
                 e.__SV ||
@@ -127,6 +137,14 @@
                 defaults: '2025-11-30',
                 disable_surveys: true,
                 person_profiles: 'identified_only', // or 'always' to create profiles for anonymous users as well
+                loaded: function (posthog) {
+                    // Super Properties registrieren
+                    const { language, slug } = getLanguageAndSlug();
+                    posthog.register({
+                        current_language: language,
+                        slug: slug,
+                    });
+                },
             });
         </script>
     {{ end }}

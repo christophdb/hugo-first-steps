@@ -133,4 +133,4 @@ _Art. 32(1)(d) GDPR; Art. 25(1) GDPR_
 
 ## Previous Versions
 
-- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/toms-v1-1-2" >}})
+- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/toms/v1-1-2" >}})

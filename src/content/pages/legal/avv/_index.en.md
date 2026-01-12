@@ -22,7 +22,7 @@ These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable G
 
 > Here you can create your own agreement (German Language only).
 >
-> [Go to the form]({{< relref path="pages/legal/avv-create" lang="de" >}})
+> [Go to the form]({{< relref path="pages/legal/avv/create" lang="de" >}})
 
 ## 1. Subject Matter of the Agreement; Subject Matter of this Data Processing Agreement
 
@@ -226,4 +226,4 @@ The place of jurisdiction is Mainz.
 
 ## Previous versions
 
-- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/avv-v1-1-2" >}})
+- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/avv/v1-1-2" >}})

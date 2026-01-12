@@ -125,4 +125,4 @@ _Art. 32 Abs. 1 lit. d DSGVO; Art. 25 Abs. 1 DSGVO_
 
 ## Frühere Versionen
 
-- [Version 1.1.2 vom 01.07.2022]({{< relref "pages/legal/toms-v1-1-2" >}})
+- [Version 1.1.2 vom 01.07.2022]({{< relref "pages/legal/toms/v1-1-2" >}})

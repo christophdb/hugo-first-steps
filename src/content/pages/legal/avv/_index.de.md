@@ -14,7 +14,7 @@ Dies ist der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTa
 
 > Hier können Sie sich Ihren eigenen Vertag erstellen.
 >
-> [Zum Formular]({{< relref "pages/legal/avv-create" >}})
+> [Zum Formular]({{< relref "pages/legal/avv/create" >}})
 
 ## 1. Gegenstand des Vertrages, Gegenstand dieses Vertrages zur Auftragsverarbeitung
 
@@ -218,4 +218,4 @@ Als Gerichtsstand wird Mainz vereinbart.
 
 ## Frühere Versionen
 
-- [Version 1.1.2 vom 01.07.2022]({{< relref "pages/legal/avv-v1-1-2" >}})
+- [Version 1.1.2 vom 01.07.2022]({{< relref "/pages/legal/avv/v1-1-2" >}})

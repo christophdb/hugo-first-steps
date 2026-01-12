@@ -54,4 +54,4 @@ Further information about the subprocessors can be found in the privacy policy, 
 
 ## Previous Versions
 
-- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/subprocessors-v1-1-2" >}})
+- [Version 1.1.2 dated 01.07.2022]({{< relref "/pages/legal/subprocessors/v1-1-2" >}})

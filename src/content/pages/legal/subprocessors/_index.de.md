@@ -46,4 +46,4 @@ Weitere Informationen zu den Unterauftragnehmern finden sich in der Datenschutze
 
 ## Frühere Versionen
 
-- [Version 1.1.2 vom 01.07.2022]({{< relref "pages/legal/subprocessors-v1-1-2" >}})
+- [Version 1.1.2 vom 01.07.2022]({{< relref "pages/legal/subprocessors/v1-1-2" >}})
