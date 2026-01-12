@@ -13,13 +13,13 @@
 
                     {{ $section := .Site.GetPage "section" "templates" }}
                     <div>
-                        <h2 class="mb-4 text-xl font-semibold">
+                        <span class="heading mb-4 block text-xl font-semibold">
                             <a class="{{ if eq .Path "/templates" }}text-seatable-orange{{ end }}" href="{{ relref . "templates" }}">{{ T "templates.all" }}</a>
-                        </h2>
+                        </span>
                         {{ range $section.Sections }}
-                            <h2 class="mb-4 text-xl font-semibold">
+                            <span class="heading mb-4 block text-xl font-semibold">
                                 <a href="{{ .RelPermalink }}" class="{{ if eq .RelPermalink $.RelPermalink }}text-seatable-orange{{ end }}">{{ .Title }}</a>
-                            </h2>
+                            </span>
                         {{ end }}
                     </div>
                 </div>

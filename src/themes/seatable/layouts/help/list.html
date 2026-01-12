@@ -79,7 +79,7 @@
                         <!-- show only pages, if this section is selected... -->
                         {{ if or (eq . $currentPage.CurrentSection) (.IsAncestor $currentPage.CurrentSection) }}
                             <span class="mb-6 flex items-center justify-between">
-                                <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                                <span class="heading text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
                                 <span class="">{{ partial "icon.html" "chevron-up" "chevron-up" }}</span>
                             </span>
 
@@ -95,7 +95,7 @@
                             </ul>
                         {{ else }}
                             <span class="mb-8 flex items-center justify-between">
-                                <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                                <span class="heading text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
                                 <span class="rotate-180">{{ partial "icon.html" "chevron-up" "chevron-up" }}</span>
                             </span>
                         {{ end }}
@@ -105,7 +105,7 @@
 
             <!-- rechte Seite ... -->
             <div class="w-full max-w-3xl lg:w-3/4 lg:pl-12">
-                <h2 class="text-[34px] sm:text-3xl md:text-4xl">{{ .Title }}</h2>
+                <h1 class="text-[34px] sm:text-3xl md:text-4xl">{{ .Title }}</h1>
                 <p>{{ .Description }}</p>
 
                 {{ if .Content }}

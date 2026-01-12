@@ -9,7 +9,7 @@
             {{ end }}
         </div>
         <div class="rounded-b-2xl px-8 py-12 transition-all duration-300 group-hover:bg-gray-50">
-            <h2 class="text-2xl !leading-tight md:text-3xl">{{ .Title }}</h2>
+            <span class="heading text-2xl !leading-tight md:text-3xl">{{ .Title }}</span>
             <p class="mt-4 text-lg leading-normal md:text-xl">{{ .Description }}</p>
             <p class="mt-8">{{ .Date | time.Format site.Params.dateFormat }}</p>
         </div>
