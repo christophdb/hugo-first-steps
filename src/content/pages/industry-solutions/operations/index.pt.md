@@ -29,7 +29,7 @@ sections:
       weight: 2
       title: O SeaTable é a solução perfeita para a sua gestão de processos
       subtitle: Vantagens do SeaTable
-      text: "O SeaTable combina a facilidade de utilização de uma folha de cálculo com o poder de uma base de dados, funções modernas de IA e automatização, bem como um criador de aplicações flexível."
+      text: O SeaTable combina a facilidade de utilização de uma folha de cálculo com o poder de uma base de dados, funções modernas de IA e automatização, bem como um [criador de aplicações]({{< relref "posts/20250318-app-erstellen" >}}) flexível.
       items:
       - icon: edit
         headline: Flexibilidade
@@ -172,7 +172,7 @@ sections:
           - q: Como um software de gestão de processos, como é que o SeaTable pode melhorar as operações de negócios?
             a: O software de gestão de processos de negócio SeaTable pode melhorar as suas operações, permitindo aos seus colaboradores gerir e analisar processos e projectos em tempo real, utilizando fluxos de trabalho, formulários e painéis de controlo. O SeaTable é uma ferramenta de gestão de processos flexível e personalizável para a automatização de processos e a otimização de processos empresariais. Isto permite-lhe criar transparência na sua empresa.
           - q: Como ferramenta de gestão de processos, o SeaTable oferece funções de análise?
-            a: "Visualize os seus dados: o SeaTable facilita a criação de painéis apelativos para a análise dos seus dados e processos. Utilize a nossa solução moderna sem código de IA como software de controlo de processos para a sua equipa de operações e registe métricas importantes, como o tempo de produção, a taxa de erro ou os custos planeados e reais para a sua análise."
+            a: 'Visualize os seus dados: o SeaTable facilita a criação de painéis apelativos para a análise dos seus dados e processos. Utilize a nossa [solução moderna sem código de IA]({{< relref "/" >}}) como software de controlo de processos para a sua equipa de operações e registe métricas importantes, como o tempo de produção, a taxa de erro ou os custos planeados e reais para a sua análise.'
           - q: O SeaTable também é adequado como software de modelação de processos?
             a: "Simplifique os seus processos: O software de gestão de processos empresariais SeaTable oferece várias opções integradas para visualizar os seus processos empresariais e também é adequado como software de modelação de processos empresariais. Utilize as opções já incluídas na conta gratuita, como o plug-in de quadro branco ou os plug-ins de diagramas, para mapear os seus fluxos de trabalho de forma transparente sem ter de utilizar ferramentas de gestão de processos dispendiosas ou software especial de modelação de processos."
           - q: O SeaTable oferece-lhe apoio?
