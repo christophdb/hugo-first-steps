@@ -137,7 +137,7 @@ If you consider the Net Promoter Score as a part of your customer experience ana
 
 ## SeaTable - Your tool for NPS surveys
 
-No matter how you end up calculating your Net Promoter Score and using it for your analytics, make sure you use a tool that not only allows you to conduct surveys, but also to store and manage all your feedback. With the **No-Code Database SeaTable** you have a flexible, user-friendly tool at your disposal that you can customize as you wish. Create **web forms for data collection**, use our **Universal App Builder as a survey portal**, collaborate seamlessly in real time and analyze the results with the **integrated statistics module and customizable dashboards**.
+No matter how you end up calculating your Net Promoter Score and using it for your analytics, make sure you use a tool that not only allows you to conduct surveys, but also to store and manage all your feedback. With the **No-Code Database SeaTable** you have a flexible, user-friendly tool at your disposal that you can customize as you wish. Create **web forms for data collection**, use our **App Builder as a survey portal**, collaborate seamlessly in real time and analyze the results with the **integrated statistics module and customizable dashboards**.
 
 {{< template-box id="895068666cae411b9da7" >}}
 

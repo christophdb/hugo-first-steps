@@ -40,7 +40,7 @@ sections:
           - text: 'Простая реализация: No-Code или Low-Code'
           - text: 'Автоматизированные рабочие процессы'
           - text: Управление разрешениями
-          - text: Universal App Builder для использования во внешнем интерфейсе
+          - text: App Builder для использования во внешнем интерфейсе
           - text: Облачное решение или On-Premises
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
 

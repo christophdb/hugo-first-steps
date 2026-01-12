@@ -196,7 +196,7 @@ sections:
           - q: 'What are the disadvantages of conventional CRM systems?'
             a: "If you use traditional CRM software to map your specific business processes, you will quickly encounter a number of challenges. Such systems are often only a limited fit for your company's customer management organization and cannot be flexibly adapted. Implementation is often complex, takes a long time and requires external consultants. License and usage fees quickly exceed budgets when you slide into the next payment level as demand increases. Many CRM tools are also difficult to connect with other tools that are already in use in the company."
           - q: 'Does SeaTable offer a free version?'
-            a: 'For small teams of up to 25 people, SeaTable offers a cloud-based free version that already has all the features and necessary functions and views you need for strategic customer management. With automations, Universal App Builder, numerous free templates and integrated forms, SeaTable Free offers a package that no CRM software offers for free.'
+            a: 'For small teams of up to 25 people, SeaTable offers a cloud-based free version that already has all the features and necessary functions and views you need for strategic customer management. With automations, App Builder, numerous free templates and integrated forms, SeaTable Free offers a package that no CRM software offers for free.'
           - q: 'Do I also receive free support from SeaTable?'
             a: 'Yes, our support team is available to help you with any questions or difficulties. You can either contact the SeaTable Community in our forum or write an e-mail directly.'        
 ---

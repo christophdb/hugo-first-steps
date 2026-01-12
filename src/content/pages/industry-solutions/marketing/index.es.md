@@ -40,7 +40,7 @@ sections:
           - text: 'Implementación sencilla: sin código o con código bajo'
           - text: 'Workflows automatizados con IA'
           - text: Gestión de permisos
-          - text: Universal App Builder para uso frontend
+          - text: App Builder para uso frontend
           - text: Solución en la nube o On-Premises
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
 

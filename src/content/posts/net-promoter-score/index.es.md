@@ -137,7 +137,7 @@ Si considera el Net Promoter Score como una parte de su análisis de la experien
 
 ## SeaTable - Su herramienta para encuestas NPS
 
-Independientemente de cómo acabe calculando su Net Promoter Score y utilizándolo para sus análisis, asegúrese de utilizar una herramienta que no sólo le permita realizar encuestas, sino también almacenar y gestionar todos sus comentarios. Con la **base de datos sin código SeaTable** tiene a su disposición una herramienta flexible y fácil de usar que puede personalizar a su gusto. Cree **formularios web para la recogida de datos**, utilice nuestro **Universal App Builder como portal de encuestas**, colabore sin problemas en tiempo real y analice los resultados con el **módulo de estadísticas integrado y los cuadros de mando personalizables**.
+Independientemente de cómo acabe calculando su Net Promoter Score y utilizándolo para sus análisis, asegúrese de utilizar una herramienta que no sólo le permita realizar encuestas, sino también almacenar y gestionar todos sus comentarios. Con la **base de datos sin código SeaTable** tiene a su disposición una herramienta flexible y fácil de usar que puede personalizar a su gusto. Cree **formularios web para la recogida de datos**, utilice nuestro **App Builder como portal de encuestas**, colabore sin problemas en tiempo real y analice los resultados con el **módulo de estadísticas integrado y los cuadros de mando personalizables**.
 
 {{< template-box id="895068666cae411b9da7" >}}
 

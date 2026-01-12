@@ -69,7 +69,7 @@ sections:
 
       - icon: terminal
         headline: Daten einfach erfassen
-        text: "Daten erfassen, Finanzplan aufstellen: Erstellen Sie ein benutzerfreundliches Finance-Frontend mit unserem Universal App Builder."
+        text: "Daten erfassen, Finanzplan aufstellen: Erstellen Sie ein benutzerfreundliches Finance-Frontend mit unserem App Builder."
 
     - name: "content-4"
       weight: 6

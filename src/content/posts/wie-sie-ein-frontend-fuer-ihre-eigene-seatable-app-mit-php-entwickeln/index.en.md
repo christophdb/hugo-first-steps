@@ -7,7 +7,7 @@ coverImage: 'develop-own-frontend-seatable-app.jpg'
 categories:
     - 'product-features'
 tags:
-    - 'Universal App Builder'
+    - 'App Builder'
 url: '/seatable-app-frontend-php'
 aliases:
     - /wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln

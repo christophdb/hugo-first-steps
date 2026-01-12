@@ -125,7 +125,7 @@ sections:
        - bg-gray-100
       title: "Calculateur NPS pour chaque cas d'utilisation"
       subtitle: 'Cloud ou sur site'
-      description: "SeaTable est une solution moderne de base de données AI No Code avec Universal App Builder. Elle offre toutes les fonctionnalités dont vous avez besoin pour un outil d'enquête numérique intégré. C'est vous qui décidez de la manière dont vous voulez utiliser SeaTable."
+      description: "SeaTable est une solution moderne de base de données AI No Code avec App Builder. Elle offre toutes les fonctionnalités dont vous avez besoin pour un outil d'enquête numérique intégré. C'est vous qui décidez de la manière dont vous voulez utiliser SeaTable."
       box-position: [right!]
       items:
       - headline: Conforme à la directive RGPD

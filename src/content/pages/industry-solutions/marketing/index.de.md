@@ -37,7 +37,7 @@ sections:
         - text: "Einfache Implementierung: No-Code oder Low-Code"
         - text: "KI-unterstützende automatisierte Workflows"
         - text: Berechtigungsverwaltung
-        - text: Universal App Builder für Frontend-Nutzung
+        - text: App Builder für Frontend-Nutzung
         - text: Cloud-Lösung oder On-Premises
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
 

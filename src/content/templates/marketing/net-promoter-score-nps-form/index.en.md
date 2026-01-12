@@ -125,7 +125,7 @@ sections:
        - bg-gray-100
       title: 'NPS calculator for every application'
       subtitle: 'Cloud oder On-Premises'
-      description: 'SeaTable is a modern AI No Code database solution with Universal App Builder and offers all the features you need for a digital, integrated survey tool. You decide how you use SeaTable.'
+      description: 'SeaTable is a modern AI No Code database solution with App Builder and offers all the features you need for a digital, integrated survey tool. You decide how you use SeaTable.'
       box-position: [right!]
       items:
       - headline: DSGVO compliant

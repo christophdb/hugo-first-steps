@@ -36,7 +36,7 @@ sections:
           - text: 'Einfache Implementierung: No-Code oder Low-Code'
           - text: 'Automatisierte Workflows'
           - text: Berechtigungsverwaltung
-          - text: Universal App Builder für Frontend-Nutzung
+          - text: App Builder für Frontend-Nutzung
           - text: SeaTable Cloud oder SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
       image_alt: 'SeaTable Oberfläche für individuelles IT Service Management mit Tickets und Assets'

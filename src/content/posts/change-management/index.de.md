@@ -238,7 +238,7 @@ text2="Scrollen Sie durch unsere interaktive Projektstrukturplan-Vorlage als Bei
 id2="898485ee9b7949c5b987"
 submit2="Template testen" >}}
 
-**Individualisierbare Dashboards und Statistiken** ermöglichen Ihnen, Projektfortschritte in regelmäßigen Abständen zu überprüfen. Mit dem **Universal App Builder** gestalten Sie in wenigen Minuten ein **benutzerfreundliches Frontend** für Ihre Stakeholder, während Sie mit den Plugins **Whiteboard und Tree** den kompletten Überblick über Ihr Change Management behalten.
+**Individualisierbare Dashboards und Statistiken** ermöglichen Ihnen, Projektfortschritte in regelmäßigen Abständen zu überprüfen. Mit dem **App Builder** gestalten Sie in wenigen Minuten ein **benutzerfreundliches Frontend** für Ihre Stakeholder, während Sie mit den Plugins **Whiteboard und Tree** den kompletten Überblick über Ihr Change Management behalten.
 
 Als [Cloud-Lösung]({{< relref "pages/product/seatable-cloud" >}}) wird SeaTable ausschließlich auf Servern in Deutschland gehostet und ist **vollkommen DSGVO-konform**. Für noch größere Kontrolle über Ihre Daten können Sie mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die Software auf Ihren eigenen Servern hosten. In der kostenlosen Basisversion haben Sie zahlreiche Grundfunktionen zur Verfügung.
 

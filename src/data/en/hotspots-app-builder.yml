@@ -6,7 +6,7 @@
   'y': 5.9
 
 - 'label': 'Page Types'
-  'description': 'With the + you create new pages in your app. The Universal App Builder offers a variety of different page types to choose from. More information can be found here.'
+  'description': 'With the + you create new pages in your app. The App Builder offers a variety of different page types to choose from. More information can be found here.'
   'link': 'help/app-builder/seitentypen-in-universellen-apps'
   'position': 'right'
   'x': 7.7

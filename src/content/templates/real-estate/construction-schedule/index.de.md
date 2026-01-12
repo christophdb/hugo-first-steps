@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Bauzeitenplan Vorlage für Übersicht und Sicherheit'
       subtitle: 'Volle Kontrolle'
-      description: 'SeaTable ist eine moderne No Code Datenbank mit Universal App Builder und bietet alle Funktionen, die Sie für einen digitalen Bauablaufplan benötigen. So können Sie Risiken effektiv managen.'
+      description: 'SeaTable ist eine moderne No Code Datenbank mit App Builder und bietet alle Funktionen, die Sie für einen digitalen Bauablaufplan benötigen. So können Sie Risiken effektiv managen.'
       box-position: [right!]
       items:
       - headline: Risikomanagement

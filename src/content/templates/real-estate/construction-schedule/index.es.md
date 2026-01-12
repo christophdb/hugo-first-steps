@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Plantilla de calendario de obras para una visión general y de seguridad'
       subtitle: 'Control total'
-      description: 'SeaTable es una moderna base de datos sin código con Universal App Builder y ofrece todas las funciones que necesita para un calendario de construcción digital. Así podrá gestionar los riesgos de forma eficaz.'
+      description: 'SeaTable es una moderna base de datos sin código con App Builder y ofrece todas las funciones que necesita para un calendario de construcción digital. Así podrá gestionar los riesgos de forma eficaz.'
       box-position: [right!]
       items:
       - headline: Gestión de riesgos

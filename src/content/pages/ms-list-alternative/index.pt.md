@@ -141,7 +141,7 @@ sections:
       title: Perguntas frequentes - SeaTable como alternativa ao Microsoft Lists
       items:
           - q: 'Que funções é que o SeaTable oferece?'
-            a: "O SeaTable oferece uma vasta gama de funções para uma gestão de dados transparente e em tempo real e processos eficientes: quer se trate de automatizações, funções de notificação, Universal App Builder ou dashboards de relatórios: pode adaptar o SeaTable de forma flexível às suas necessidades. A plataforma é flexível e pode ser utilizada tanto como uma solução na nuvem como no local."
+            a: "O SeaTable oferece uma vasta gama de funções para uma gestão de dados transparente e em tempo real e processos eficientes: quer se trate de automatizações, funções de notificação, App Builder ou dashboards de relatórios: pode adaptar o SeaTable de forma flexível às suas necessidades. A plataforma é flexível e pode ser utilizada tanto como uma solução na nuvem como no local."
 
           - q: 'A utilização do SeaTable é realmente gratuita?'
             a: 'Sim, pode utilizar o SeaTable no Plano Gratuito gratuitamente por um período de tempo ilimitado. Para obter funções alargadas e mais espaço de armazenamento, pode optar pela versão Premium, mais económica.'

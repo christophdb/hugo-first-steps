@@ -39,7 +39,7 @@ sections:
           - text: 'Easy implementation: No-Code or Low-Code'
           - text: 'Automated workflows'
           - text: Permission management
-          - text: Universal App Builder for frontend use
+          - text: App Builder for frontend use
           - text: SeaTable Cloud or SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
       image_alt: 'SeaTable interface for individual IT service management with tickets and assets'

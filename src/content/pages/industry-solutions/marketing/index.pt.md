@@ -39,7 +39,7 @@ sections:
           - text: 'Implementação simples: No-Code ou Low-Code'
           - text: 'Workflows automatizados com IA'
           - text: Gestão de permissões
-          - text: Universal App Builder para utilização frontend
+          - text: App Builder para utilização frontend
           - text: Solução Cloud ou On-Premises
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
 
