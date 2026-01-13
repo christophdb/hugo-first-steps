@@ -12,7 +12,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'A ferramenta para o seu planeamento de eventos'
-      text: "Comece com o SeaTable como a sua ferramenta de planeamento de eventos e acompanhe **todas as etapas do planeamento do seu evento** em todos os momentos. Desde o planeamento inicial, orçamentos e publicidade até às listas de convidados, moderação e horários do pessoal: Com o SeaTable, pode aceder a tudo a partir de qualquer lugar e a qualquer momento, automatizar tarefas e trabalhar em conjunto em tempo real."
+      text: "Comece com o SeaTable como a sua ferramenta de planeamento de eventos e acompanhe **todas as etapas do planeamento do seu evento** em todos os momentos. Desde o planeamento inicial, orçamentos e publicidade até às listas de convidados, moderação e horários do pessoal: Com o SeaTable, pode aceder a qualquer momento e em qualquer lugar, automatizar tarefas com o apoio da IA e trabalhar em conjunto em tempo real."
       classes:
           - bg-white
       template: bb4d007014a64a18be06
@@ -34,8 +34,9 @@ sections:
       items:
         - text: Estruturas de dados flexíveis e personalizáveis
         - text: Ideal para trabalho colaborativo
-        - text: Automações integradas e função de notificação
+        - text: Automações de IA integradas e função de notificação
         - text: Formulários Web integrados e frontend através de uma aplicação universal sem código
+        - text: Assistente de IA para a criação automática de textos
         - text: Integração simples sem esforço informático
         - text: 100% compatível com o RGPD com servidores na Alemanha
         - text: Perfeito para eventos pequenos ou grandes
@@ -91,7 +92,7 @@ sections:
       title: Planeamento de eventos com controlo total dos custos
       subtitle: Controlo eficaz graças às ligações
       items:
-      - text: O controlo e o planeamento do orçamento são um aspeto essencial do planeamento de qualquer evento. O SeaTable também oferece a solução certa para o efeito. Ligue o seu plano orçamental diretamente à repartição dos custos e às receitas da venda de bilhetes. Isto permite-lhe criar facilmente uma visão geral dos seus custos e uma demonstração de resultados – sem transferências manuais ou fórmulas.
+      - text: O controlo e o planeamento do orçamento são um aspeto essencial do planeamento de qualquer evento. O SeaTable também oferece a solução certa para o efeito. Ligue o seu [plano orçamental]({{< relref "templates/finance/budget-plan" >}}) diretamente à repartição dos custos e às receitas da venda de bilhetes. Isto permite-lhe criar facilmente uma visão geral dos seus custos e uma demonstração de resultados – sem transferências manuais ou fórmulas.
       image: /images/eventplanung-controlling.svg
       image_position: left
 
@@ -100,7 +101,7 @@ sections:
       title: Plano de eventos com poder de base de dados
       subtitle: Planear eventos com o SeaTable
       items:
-      - text: Em comparação com uma ferramenta tradicional de planeamento de eventos ou um modelo de gestão de eventos em Excel, o SeaTable oferece o **poder de uma verdadeira base de dados**. Crie uma lista de verificação para eventos e um calendário detalhado do seu evento. Guarde todos os ficheiros de que os seus empregados necessitam antes ou durante o evento, tais como ficheiros de música ou imagens, diretamente no seu plano de eventos.
+      - text: Em comparação com as ferramentas tradicionais de planeamento de eventos ou um modelo de gestão de eventos no Excel, o SeaTable oferece o **poder de uma verdadeira base de dados com assistente de IA integrado**. Crie uma lista de verificação para eventos e um calendário detalhado do seu evento. Guarde todos os ficheiros de que os seus empregados necessitam antes ou durante o evento, tais como ficheiros de música ou imagens, diretamente no seu plano de eventos.
       image: /images/eventplanung-datenbank.svg
 
     - name: "content-9"
