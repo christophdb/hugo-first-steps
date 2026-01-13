@@ -66,7 +66,7 @@ sections:
       title: Visualização de dados
       subtitle: Monitorização, elaboração de relatórios, otimização
       items:
-      - text: À primeira vista, o mapa de horas do SeaTable assemelha-se a outras calculadoras, mas oferece visualizações avançadas, como filtros, ordenação, agrupamento e plugins gráficos, como calendários, quadros Kanban ou estatísticas, para organizar os seus dados de forma clara. O SeaTable permite-lhe criar aplicações personalizadas, por exemplo, uma aplicação de gestão na qual pode controlar as horas extraordinárias, as férias e as baixas médicas no painel de controlo e aprovar ou rejeitar pedidos.
+      - text: À primeira vista, o mapa de horas do SeaTable assemelha-se a outras calculadoras, mas oferece visualizações avançadas, como filtros, ordenação, agrupamento e plugins gráficos, como calendários, [quadros Kanban]({{< relref "templates/projects/kanban-board" >}}) ou estatísticas, para organizar os seus dados de forma clara. O SeaTable permite-lhe criar aplicações personalizadas, por exemplo, uma aplicação de gestão na qual pode controlar as horas extraordinárias, as férias e as baixas médicas no painel de controlo e aprovar ou rejeitar pedidos.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
 
@@ -75,7 +75,7 @@ sections:
       title: Local de armazenamento central
       subtitle: Normalizado, seguro e imediatamente disponível
       items:
-      - text: Quando os empregados registam os tempos de trabalho em diferentes tabelas, a sua compilação torna-se frequentemente entediante, propensa a erros e morosa. Com o SeaTable, todos os dados fluem centralmente para uma base de dados segura e online. As visualizações, aprovações e autorizações permitem-lhe controlar quem vê e edita que dados - de forma eficiente, organizada e acessível em qualquer altura.
+      - text: Quando os empregados registam os tempos de trabalho em diferentes tabelas, a sua compilação torna-se frequentemente entediante, propensa a erros e morosa. Com o SeaTable, todos os dados fluem centralmente para [uma base de dados segura e online]({{< relref "posts/online-datenbank-kostenlos" >}}). As visualizações, aprovações e autorizações permitem-lhe controlar quem vê e edita que dados - de forma eficiente, organizada e acessível em qualquer altura.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
 
@@ -84,7 +84,7 @@ sections:
       title: Trabalho em colaboração
       subtitle: Orientado para a equipa, eficiente e flexível
       items:
-      - text: Especialmente para os empregados que trabalham à hora, os dados relativos ao tempo de trabalho têm de ser transferidos para o departamento de contabilidade - muitas vezes de forma laboriosa através de e-mail ou partilha de ficheiros. Com o SeaTable, pode poupar este esforço criando uma aplicação ou partilhando os dados através de uma ligação, quer como acesso de leitura a toda a base ou apenas a uma vista específica. No entanto, a partilha de vistas individuais está reservada para as subscrições pagas do SeaTable.
+      - text: Especialmente no caso de funcionários remunerados por hora, os dados relativos ao tempo de trabalho têm de ser transferidos para o departamento de contabilidade – muitas vezes de forma trabalhosa, por e-mail ou partilha de ficheiros. Com a nossa [plataforma de IA sem código]({{< relref "/" >}}), poupa esse trabalho, [cria uma aplicação]({{< relref "posts/20250318-app-erstellen" >}}) ou partilhe os dados através de um link, opcionalmente como acesso de leitura à base completa ou apenas a uma visualização específica. No entanto, a partilha de visualizações individuais está reservada às subscrições pagas do SeaTable.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
 
@@ -191,9 +191,9 @@ sections:
           - q: "Como é que o SeaTable mapeia o registo do tempo de trabalho na empresa?"
             a: "Com o SeaTable, pode registar e documentar as horas de trabalho dos seus empregados de acordo com a legislação em vigor e com um esforço administrativo mínimo. Todos os processos relacionados com o registo do tempo de trabalho, pedidos de férias e baixas médicas são geridos centralmente numa base de dados online - já não precisa de folhas de ponto dispersas! Tudo o que precisa para o utilizar é um navegador de Internet e um endereço de correio eletrónico."
           - q: "O SeaTable oferece mais do que apenas o registo do tempo de trabalho?"
-            a: "Sim, o registo digital de tempo é apenas um dos muitos casos de utilização. O SeaTable oferece soluções para recrutamento, integração e muitos outros tópicos de RH - tudo numa plataforma flexível. Descubra os nossos modelos e comece já a trabalhar com uma conta gratuita."
+            a: 'E! O registo digital de horas é apenas uma das inúmeras aplicações possíveis. O SeaTable oferece soluções para recrutamento, integração e muitos outros [processos de RH]({{< relref "pages/industry-solutions/hr" >}}) – tudo numa plataforma flexível. Descubra os nossos modelos e comece já com uma conta gratuita.'
           - q: "O modelo de controlo de tempo é gratuito?"
-            a: "Sim, o nosso modelo de controlo de tempo é gratuito para utilizar com o SeaTable Free. Esta subscrição é-lhe automaticamente atribuída quando se regista no SeaTable. Com uma subscrição Enterprise, também tem acesso a automações convenientes que lhe poupam muitos cliques manuais."
+            a: "Sim, o nosso modelo de controlo de tempo é gratuito para utilizar com o SeaTable Free. Esta subscrição é-lhe automaticamente atribuída quando se regista no SeaTable. Com uma subscrição Enterprise, também tem acesso a **automações com suporte de IA** convenientes que lhe poupam muitos cliques manuais."
           - q: "O empregador é obrigado a registar o tempo de trabalho?"
             a: "Sim, o Tribunal de Justiça Europeu decidiu, em maio de 2019, que as empresas na UE devem registar todas as horas de trabalho dos seus empregados. O Tribunal Federal do Trabalho confirmou-o no seu acórdão de 13 de setembro de 2022."
           - q: "Como devem ser registadas as horas de trabalho?"
