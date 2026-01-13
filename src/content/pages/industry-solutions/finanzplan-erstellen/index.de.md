@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Finanzplan erstellen leicht gemacht'
-      text: 'Erstellen Sie Ihren Finanzplan mühelos mit SeaTable! Diese innovative Plattform kombiniert die Vorzüge von Tabellen mit den leistungsstarken Funktionen moderner Cloud-Datenbanken. Perfekt für Unternehmen, Start-ups und Freiberufler, die ihren Finanzplan erstellen und optimieren möchten.'
+      text: 'Erstellen Sie Ihren Finanzplan mühelos mit SeaTable! Diese innovative KI No-Code Plattform kombiniert die Vorzüge von Tabellen mit den leistungsstarken Funktionen moderner Cloud-Datenbanken. Perfekt für Unternehmen, Start-ups und Freiberufler, die ihren Finanzplan erstellen und optimieren möchten.'
       classes:
           - bg-white
       template: 8fa08d31d16c4a54a1bb
@@ -45,7 +45,7 @@ sections:
       weight: 3
       title: Integrierte Finanzplanung im Unternehmen
       subtitle: Liquiditätsplanung, Rentabilitätsvorschau, Finanzanalyse 
-      text: "Mit SeaTable nutzen Sie ein einheitliches Planungstool – vom Kapitalbedarfs und Finanzierungsplan bis zu Finanzanalysen und Reports. Lassen Sie alle relevanten Daten automatisiert in einer Single-Source-of-Truth zusammenfließen. Arbeiten Sie kollaborativ in Echtzeit zusammen. Schaffen Sie maximale Transparenz dank integrierter Automatisierungs- und Benachrichtigungsfunktionen."
+      text: "Mit SeaTable nutzen Sie ein einheitliches Planungstool – vom Kapitalbedarfs- und Finanzierungsplan bis zu Finanzanalysen und Reports. Lassen Sie alle relevanten Daten automatisiert in einer Single-Source-of-Truth zusammenfließen. Arbeiten Sie kollaborativ in Echtzeit zusammen. Schaffen Sie maximale Transparenz dank integrierter Automatisierungs- und Benachrichtigungsfunktionen."
       items:
       - icon: sack-dollar
         headline: Finanzplan
@@ -75,7 +75,7 @@ sections:
       weight: 6
       title: Finanzplan aufstellen ohne Kompromisse beim Datenschutz
       subtitle: Für sichere Finanzdaten
-      text: "Gerade wenn Sie eine Cloud-Lösung nutzen und Ihren Finanzplan online erstellen, müssen Ihre Daten besonders gut geschützt sein. Für uns haben Datenschutz und Datensicherheit höchste Priorität. Denn beim Schutz Ihrer Daten machen wir Kompromisse – und Sie sollten es auch nicht, wenn Sie einen Finanzplan aufstellen."
+      text: "Gerade wenn Sie eine Cloud-Lösung nutzen und Ihren Finanzplan online erstellen, müssen Ihre Daten besonders gut geschützt sein. Für uns haben **Datenschutz und Datensicherheit höchste Priorität**. Denn beim Schutz Ihrer Daten machen wir keine Kompromisse – und Sie sollten es auch nicht, wenn Sie einen Finanzplan aufstellen."
       items:
       - icon: terminal
         headline: On-Premises
@@ -158,7 +158,7 @@ sections:
           - q: 'Lässt sich mit SeaTable auch z. B. ein Investitionsplan erstellen?'
             a: 'Sie können all Ihre Finance-Prozesse in SeaTable abbilden, ohne Kompromisse bei Ihren Anforderungen zu machen. Einen Investitionsplan erstellen Sie in SeaTable ebenso flexibel und kollaborativ, wie Sie Finanzpläne erstellen oder Ihre Rechnungsverwaltung abbilden.'
           - q: 'Wie sicher sind sensible Finanz- und Unternehmensdaten bei SeaTable?'
-            a: 'Der Schutz Ihrer Daten steht bei uns an erster Stelle. SeaTable Cloud wird ausschließlich auf Servern eines Schweizer Anbieters in Deutschland gehostet und ist daher vollkommen DSGVO-konform. Wenn Sie mit SeaTable einen Finanzierungsplan erstellen, sind Ihre Daten sicher.'
+            a: 'Der Schutz Ihrer Daten steht bei uns an erster Stelle. SeaTable Cloud wird ausschließlich auf Servern eines Schweizer Anbieters in Deutschland gehostet und ist daher vollkommen DSGVO-konform. Wenn Sie mit unserer [KI No-Code-Plattform]({{< relref "/" >}}) einen Finanzierungsplan erstellen, sind Ihre Daten sicher.'
           - q: 'Lässt sich SeaTable mit anderen Systemen im Unternehmen verknüpfen?'
             a: 'Ja, SeaTable integriert sich problemlos mit weiteren Buchhaltungs- oder Zahlungsdienstleister-Systemen – entweder über die SeaTable API oder Automatisierungs-Tools. So haben Sie jederzeit die Wahl: Sie können in SeaTable Ihren Kapitalbedarfs und Finanzierungsplan oder einen Investitionsplan erstellen und mit weiteren Tools verknüpfen, oder SeaTable für weitere Anwendungsfälle und Prozesse nutzen.'
           - q: 'Wie lange dauert es, einen Finanzplan mit SeaTable zu erstellen, und gibt es eine Finanzplan Vorlage?'
