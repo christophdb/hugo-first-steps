@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'The tool for your event planning'
-      text: "Start with SeaTable as your event planning tool and keep an eye on **all steps of your event planning** at all times. From initial planning, budgets and advertising to guest lists, moderation and staff schedules: With SeaTable, you can access it from anywhere at any time, automate tasks and work on them together in real time."
+      text: "Start with SeaTable as your event planning tool and keep an eye on **all steps of your event planning** at all times. From initial planning, budgets and advertising to guest lists, moderation and staff schedules: With SeaTable, you can access it from anywhere at any time, automate tasks with AI support and collaborate on them in real time"
       classes:
           - bg-white
       template: bb4d007014a64a18be06
@@ -33,8 +33,9 @@ sections:
       items:
         - text: Flexibly customizable data structures
         - text: Ideal for collaborative work
-        - text: Integrated automations and notification function
+        - text: Integrated AI-automations and notification function
         - text: Integrated web forms and frontend via no-code universal app
+        - text: AI assistant for automatic text generation
         - text: Simple integration without IT effort
         - text: 100% GDPR-compliant with servers in Germany
         - text: Perfect for small or large events
@@ -90,7 +91,7 @@ sections:
       title: Planning events with full cost control
       subtitle: Efficient controlling thanks to links
       items:
-      - text: Budget control and planning is an essential aspect of any event planning. SeaTable also offers the right solution for this. Link your budget plan directly to your cost breakdown and income from ticket sales. This allows you to easily create a target/actual overview of your costs and a P&L statement – without manual transfers or formulas.
+      - text: Budget control and planning is an essential aspect of any event planning. SeaTable also offers the right solution for this. Link your [budget plan]({{< relref "templates/finance/budget-plan" >}}) directly to your cost breakdown and income from ticket sales. This allows you to easily create a target/actual overview of your costs and a P&L statement – without manual transfers or formulas.
       image: /images/eventplanung-controlling.svg
       image_position: left
 
@@ -99,7 +100,7 @@ sections:
       title: Event plan with database power
       subtitle: Planning events with SeaTable
       items:
-      - text: Compared to a traditional event planning tool or an event management template in Excel, SeaTable offers the **power of a real database**. Create a checklist for events and a detailed schedule of your event. Save all the files your employees need before or during the event, such as music files or images, directly in your event plan. 
+      - text: Compared to a traditional event planning tool or an event management template in Excel, SeaTable offers the **the power of a real database with an integrated AI assistant**. Create a checklist for events and a detailed schedule of your event. Save all the files your employees need before or during the event, such as music files or images, directly in your event plan. 
       image: /images/eventplanung-datenbank.svg
 
     - name: "content-9"

@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'La herramienta para la planificación de su evento'
-      text: "Comience con SeaTable como su herramienta de planificación de eventos y controle en todo momento **todos los pasos de la planificación de su evento**. Desde la planificación inicial, los presupuestos y la publicidad hasta las listas de invitados, la moderación y los horarios del personal: Con SeaTable, podrá acceder desde cualquier lugar y en cualquier momento, automatizar tareas y trabajar en ellas conjuntamente en tiempo real."
+      text: "Comience con SeaTable como su herramienta de planificación de eventos y controle en todo momento **todos los pasos de la planificación de su evento**. Desde la planificación inicial, los presupuestos y la publicidad hasta las listas de invitados, la moderación y los horarios del personal: Con SeaTable, puede acceder a él desde cualquier lugar y en cualquier momento, automatizar tareas con ayuda de la IA y trabajar en ellas de forma colaborativa en tiempo real."
       classes:
           - bg-white
       template: bb4d007014a64a18be06
@@ -33,7 +33,8 @@ sections:
       items:
         - text: Estructuras de datos personalizables de forma flexible
         - text: Ideal para el trabajo en colaboración
-        - text: Automatizaciones integradas y función de notificación
+        - text: Automatizaciones de IA integradas y función de notificación
+        - text: Asistente de IA para la creación automática de textos
         - text: Formularios web integrados y frontend mediante aplicación universal sin código
         - text: Integración sencilla sin esfuerzo informático
         - text: 100% conforme a RGPD con servidores en Alemania
@@ -90,7 +91,7 @@ sections:
       title: Planificación de eventos con control total de los costes
       subtitle: Control eficaz gracias a los enlaces
       items:
-      - text: El control y la planificación del presupuesto es un aspecto esencial de la planificación de cualquier evento. SeaTable también ofrece la solución adecuada para ello. Vincule su plan presupuestario directamente a su desglose de costes y a los ingresos procedentes de la venta de entradas. Esto le permite crear fácilmente una visión general objetivo/real de sus costes y un estado de pérdidas y ganancias, sin transferencias manuales ni fórmulas.
+      - text: El control y la planificación del presupuesto es un aspecto esencial de la planificación de cualquier evento. SeaTable también ofrece la solución adecuada para ello. Vincule su [plan presupuestario]({{< relref "templates/finance/budget-plan" >}}) directamente a su desglose de costes y a los ingresos procedentes de la venta de entradas. Esto le permite crear fácilmente una visión general objetivo/real de sus costes y un estado de pérdidas y ganancias, sin transferencias manuales ni fórmulas.
       image: /images/eventplanung-controlling.svg
       image_position: left
 
@@ -99,7 +100,7 @@ sections:
       title: Plan de eventos con potencia de base de datos
       subtitle: Planificación de eventos con SeaTable
       items:
-      - text: En comparación con una herramienta tradicional de planificación de eventos o una plantilla de gestión de eventos en Excel, SeaTable ofrece la **potencia de una base de datos real**. Cree una lista de comprobación para los eventos y un programa detallado de los mismos. Guarde todos los archivos que sus empleados necesiten antes o durante el evento, como archivos de música o imágenes, directamente en su plan de eventos. 
+      - text: En comparación con las herramientas de planificación de eventos convencionales o las plantillas de gestión de eventos en Excel, SeaTable ofrece **la potencia de una auténtica base de datos con asistente de IA integrado**. Cree una lista de comprobación para los eventos y un programa detallado de los mismos. Guarde todos los archivos que sus empleados necesiten antes o durante el evento, como archivos de música o imágenes, directamente en su plan de eventos. 
       image: /images/eventplanung-datenbank.svg
 
     - name: "content-9"

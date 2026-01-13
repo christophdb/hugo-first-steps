@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "L'outil pour la planification de vos événements"
-      text: "Commencez par utiliser SeaTable comme outil de planification d'événements et gardez un œil sur **toutes les étapes de la planification de votre événement** à tout moment. De la planification initiale, des budgets et de la publicité aux listes d'invités, à la modération et aux horaires du personnel : Avec SeaTable, vous pouvez y accéder de n'importe où et à n'importe quel moment, automatiser les tâches et travailler ensemble en temps réel."
+      text: "Commencez par utiliser SeaTable comme outil de planification d'événements et gardez un œil sur **toutes les étapes de la planification de votre événement** à tout moment. De la planification initiale, des budgets et de la publicité aux listes d'invités, à la modération et aux horaires du personnel : Avec SeaTable, vous pouvez y accéder de n'importe où et à n'importe quel moment, automatisez vos tâches grâce à l'IA et collaborez en temps réel."
       classes:
           - bg-white
       template: bb4d007014a64a18be06
@@ -33,7 +33,8 @@ sections:
       items:
         - text: Structures de données flexibles et personnalisables
         - text: Idéal pour le travail collaboratif
-        - text: Automatismes intégrés et fonction de notification
+        - text: Automatisations IA intégrées et fonction de notification
+        - text: Assistant IA pour la création automatique de textes
         - text: Formulaires web et frontend intégrés via une application universelle sans code
         - text: Intégration simple sans effort informatique
         - text: 100% conforme au RGPD avec des serveurs en Allemagne
@@ -99,7 +100,7 @@ sections:
       title: "Plan d'événement avec puissance de la base de données"
       subtitle: Planifier des événements avec SeaTable
       items:
-      - text: "Comparé à un outil traditionnel de planification d'événements ou à un modèle de gestion d'événements dans Excel, SeaTable offre la **puissance d'une véritable base de données**. Créez une liste de contrôle pour les événements et un programme détaillé de votre événement. Enregistrez tous les fichiers dont vos employés ont besoin avant ou pendant l'événement, tels que des fichiers musicaux ou des images, directement dans votre plan d'événement." 
+      - text: "Contrairement aux outils de planification d'événements classiques ou aux modèles de gestion d'événements dans Excel, SeaTable offre la puissance d'une véritable base de données avec assistant IA intégré. Créez une liste de contrôle pour les événements et un programme détaillé de votre événement. Enregistrez tous les fichiers dont vos employés ont besoin avant ou pendant l'événement, tels que des fichiers musicaux ou des images, directement dans votre plan d'événement." 
       image: /images/eventplanung-datenbank.svg
 
     - name: "content-9"
