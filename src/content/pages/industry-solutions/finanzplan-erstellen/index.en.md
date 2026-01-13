@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Creating a financial plan made easy'
-      text: 'Create your financial plan effortlessly with SeaTable! This innovative platform combines the benefits of spreadsheets with the powerful features of modern cloud databases. Perfect for companies, start-ups and freelancers who want to create and optimize their financial plan.'
+      text: 'Create your financial plan effortlessly with SeaTable! This innovative AI no-code-platform combines the benefits of spreadsheets with the powerful features of modern cloud databases. Perfect for companies, start-ups and freelancers who want to create and optimize their financial plan.'
       classes:
           - bg-white
       template: 8fa08d31d16c4a54a1bb
@@ -158,7 +158,7 @@ sections:
           - q: Can SeaTable also be used to create an investment plan, for example?
             a: 'You can map all your finance processes in SeaTable without compromising your requirements. You can create an investment plan in SeaTable just as flexibly and collaboratively as you create financial plans or map your invoice management.'
           - q: 'How secure is sensitive financial and company data with SeaTable?'
-            a: 'The protection of your data is our top priority. SeaTable Cloud is hosted exclusively on servers of a Swiss provider in Germany and is therefore fully GDPR compliant. When you create a financing plan with SeaTable, your data is safe.'
+            a: 'The protection of your data is our top priority. SeaTable Cloud is hosted exclusively on servers of a Swiss provider in Germany and is therefore fully GDPR compliant. When you create a financing plan with [AI no-code platform]({{< relref "/" >}}), your data is safe.'
           - q: 'Can SeaTable be linked to other systems in the company?'
             a: 'Yes, SeaTable integrates easily with other accounting or payment service provider systems - either via the SeaTable API or automation tools. So you always have the choice: you can create your capital requirements and financing plan or an investment plan in SeaTable and link it to other tools, or use SeaTable for other use cases and processes.'
           - q: 'How long does it take to create a financial plan with SeaTable and is there a financial plan template?'

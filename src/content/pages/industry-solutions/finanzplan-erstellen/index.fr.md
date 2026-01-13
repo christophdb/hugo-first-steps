@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Créer un plan financier en toute simplicité'
-      text: 'Créez votre plan financier sans effort avec SeaTable ! Cette plateforme innovante combine les avantages des feuilles de calcul avec les puissantes fonctionnalités des bases de données en ligne modernes. Elle est parfaite pour les entreprises, les start-ups et les travailleurs indépendants qui souhaitent créer et optimiser leur plan financier.'
+      text: 'Créez votre plan financier sans effort avec SeaTable ! Cette plateforme IA sans code innovante combine les avantages des feuilles de calcul avec les puissantes fonctionnalités des bases de données en ligne modernes. Elle est parfaite pour les entreprises, les start-ups et les travailleurs indépendants qui souhaitent créer et optimiser leur plan financier.'
       classes:
           - bg-white
       template: 8fa08d31d16c4a54a1bb
@@ -158,7 +158,7 @@ sections:
           - q : SeaTable peut-il être utilisé pour créer un plan d'investissement par exemple ?
             a : "Vous pouvez utiliser SeaTable pour tous vos processus financiers sans faire de compromis sur vos besoins. Vous pouvez créer un plan d'investissement dans SeaTable de la même manière flexible et collaborative que vous créez des plans financiers ou que vous gérez vos factures."
           - q : Quel est le niveau de sécurité des données financières et professionnelles sensibles dans SeaTable ?
-            a : "La protection de vos données est notre priorité. SeaTable Cloud est exclusivement hébergé sur les serveurs d'un fournisseur suisse en Allemagne et est donc entièrement conforme au RGPD. Lorsque vous établissez un plan de financement avec SeaTable, vos données sont en sécurité."
+            a : "La protection de vos données est notre priorité. SeaTable Cloud est exclusivement hébergé sur les serveurs d'un fournisseur suisse en Allemagne et est donc entièrement conforme au RGPD. Lorsque vous établissez un plan de financement avec plateforme IA sans code, vos données sont en sécurité."
           - q : "SeaTable peut-il être relié à d'autres systèmes de l'entreprise?"
             a : "Oui, SeaTable s'intègre facilement à d'autres systèmes de comptabilité ou de paiement, soit via l'API SeaTable, soit via des outils d'automatisation. Vous avez donc le choix à tout moment : vous pouvez créer dans SeaTable votre besoin en capital et votre plan de financement ou un plan d'investissement et les lier à d'autres outils, ou utiliser SeaTable pour d'autres cas d'utilisation et processus."
           - q : 'Combien de temps faut-il pour créer un plan financier avec SeaTable et existe-t-il un modèle de plan financier?'
