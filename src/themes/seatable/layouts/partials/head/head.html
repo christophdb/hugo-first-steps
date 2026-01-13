@@ -22,6 +22,10 @@
         <meta name="robots" content="{{ . }}" />
     {{ end }}
 
+    {{ if .Params.noindex }}
+        <meta name="robots" content="noindex, nofollow" />
+    {{ end }}
+
 
     <!-- Do not index taxonomy and term pages -->
     {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.seo.index "noindex") -}}

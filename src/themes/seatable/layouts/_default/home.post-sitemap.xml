@@ -7,7 +7,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
 >
-    {{- $posts := where .Site.Pages "Section" "posts" -}}
+    {{- $posts := where (where .Site.Pages "Section" "posts") "Params.sitemap_exclude" "ne" true -}}
 
     {{- range $posts -}}
         {{- if .Permalink }}
