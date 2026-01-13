@@ -192,7 +192,7 @@ sections:
           - q: 'Bietet SeaTable mehr als nur Arbeitszeiterfassung?'
             a: 'Ja! Die digitale Zeiterfassung ist nur einer der zahlreichen Anwendungsfälle. SeaTable bietet Lösungen für Recruiting, Onboarding und viele weitere [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}) – alles in einer flexiblen Plattform. Entdecken Sie unsere Vorlagen und starten Sie direkt mit einem kostenlosen Free Account.'
           - q: 'Ist die Vorlage zur Arbeitszeiterfassung kostenlos?'
-            a: 'Ja, die Nutzung unserer Vorlage zur Arbeitszeiterfassung ist kostenlos mit SeaTable Free möglich. Dieses Abonnement wird Ihnen automatisch zugewiesen, wenn Sie sich neu in SeaTable registrieren. Mit einem Enterprise-Abo stehen Ihnen zudem komfortable Automationen zur Verfügung, mit denen Sie sich viele manuelle Klicks sparen können.'
+            a: 'Ja, die Nutzung unserer Vorlage zur Arbeitszeiterfassung ist kostenlos mit SeaTable Free möglich. Dieses Abonnement wird Ihnen automatisch zugewiesen, wenn Sie sich neu in SeaTable registrieren. Mit einem Enterprise-Abo stehen Ihnen zudem komfortable **KI-unterstützende Automationen** zur Verfügung, mit denen Sie sich viele manuelle Klicks sparen können.'
           - q: 'Ist der Arbeitgeber zur Zeiterfassung verpflichtet?'
             a: 'Ja, der Europäische Gerichtshof hat im Mai 2019 entschieden, dass Unternehmen in der EU die gesamte Arbeitszeit ihrer Mitarbeiter erfassen müssen. Das Bundesarbeitsgericht hat dies in seinem Urteil vom 13. September 2022 bestätigt.'
           - q: 'Wie müssen Arbeitszeiten erfasst werden?'

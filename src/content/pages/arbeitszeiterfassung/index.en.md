@@ -193,7 +193,7 @@ sections:
           - q: 'Does SeaTable offer more than just working time recording?'
             a: 'Yes, digital time tracking is just one of the many use cases. SeaTable offers solutions for recruiting, onboarding and many other [HR processes]({{< relref "pages/industry-solutions/hr" >}}) - all in one flexible platform. Discover our templates and get started right away with a free account.'
           - q: 'Is the time tracking template free of charge?'
-            a: 'Yes, our time tracking template is free to use with SeaTable Free. This subscription is automatically assigned to you when you register in SeaTable. With an Enterprise subscription, you also have access to convenient automations that save you a lot of manual clicks.'
+            a: 'Yes, our time tracking template is free to use with SeaTable Free. This subscription is automatically assigned to you when you register in SeaTable. With an Enterprise subscription, you also have access to convenient **AI-supported automations** that save you a lot of manual clicks.'
           - q: 'Is the employer obliged to record time?'
             a: 'Yes, the European Court of Justice ruled in May 2019 that companies in the EU must record all of their employees working hours. The Federal Labor Court confirmed this in its ruling of 13 September 2022.'
           - q: 'How must working hours be recorded?'

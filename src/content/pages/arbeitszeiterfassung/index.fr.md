@@ -66,7 +66,7 @@ sections:
       title: Visualisation des données
       subtitle: Suivi, reporting, optimisation
       items:
-      - text: Le tableau de temps de travail de SeaTable ressemble à première vue à d'autres calculateurs, mais il offre des visualisations avancées telles que des filtres, des tris, des regroupements et des plug-ins graphiques tels que des calendriers, des tableaux Kanban ou des statistiques organisent vos données de manière claire. SeaTable vous permet de créer des applications personnalisées, par exemple une application de gestion qui vous permet de garder un œil sur les heures supplémentaires, les congés et les arrêts maladie sur le tableau de bord et d'approuver ou de rejeter les demandes.
+      - text: Le tableau de temps de travail de SeaTable ressemble à première vue à d'autres calculateurs, mais il offre des visualisations avancées telles que des filtres, des tris, des regroupements et des plug-ins graphiques tels que des calendriers, [des tableaux Kanban]({{< relref "templates/projects/kanban-board" >}}) ou des statistiques organisent vos données de manière claire. SeaTable vous permet de créer des applications personnalisées, par exemple une application de gestion qui vous permet de garder un œil sur les heures supplémentaires, les congés et les arrêts maladie sur le tableau de bord et d'approuver ou de rejeter les demandes.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
 
@@ -75,7 +75,7 @@ sections:
       title: Emplacement central
       subtitle: Cohérent, sûr, disponible immédiatement
       items:
-      - text: Lorsque les employés enregistrent leurs temps de travail dans différentes feuilles de calcul, la fusion devient souvent fastidieuse, source d'erreurs et chronophage. Avec SeaTable, toutes les données sont centralisées dans une base de données sécurisée et accessible en ligne. Les vues, les partages et les autorisations vous permettent de contrôler qui voit et traite quelles données - de manière efficace, ordonnée et accessible à tout moment.
+      - text: Lorsque les employés enregistrent leurs temps de travail dans différentes feuilles de calcul, la fusion devient souvent fastidieuse, source d'erreurs et chronophage. Avec SeaTable, toutes les données sont centralisées dans [une base de données sécurisée et accessible en ligne]({{< relref "posts/online-datenbank-kostenlos" >}}). Les vues, les partages et les autorisations vous permettent de contrôler qui voit et traite quelles données - de manière efficace, ordonnée et accessible à tout moment.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
 
@@ -84,7 +84,7 @@ sections:
       title: Travail collaboratif
       subtitle: Orienté équipe, efficace, flexible
       items:
-      - text: Les données relatives au temps de travail doivent être transmises à la comptabilité, en particulier pour les employés payés à l'heure, souvent de manière fastidieuse par e-mail ou par partage de fichiers. Avec SeaTable, vous vous épargnez ce travail, créez une application ou partagez les données via un lien, au choix en lecture sur la base complète ou seulement sur une vue spécifique. Le partage de vues individuelles est toutefois réservé aux abonnements payants de SeaTable.
+      - text: Les données relatives au temps de travail des employés rémunérés à l'heure doivent être transmises au service comptable, souvent de manière fastidieuse par e-mail ou partage de fichiers. Grâce à notre [plateforme IA sans code]({{< relref "/" >}}), vous économisez ces efforts, [créez une application]({{< relref "posts/20250318-app-erstellen" >}} ou partagez les données via un lien, soit en donnant un accès en lecture à l'ensemble de la base, soit en limitant l'accès à une vue spécifique. Le partage de vues individuelles est toutefois réservé aux abonnements payants de SeaTable.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
 
@@ -193,7 +193,7 @@ sections:
           - q : "SeaTable offre-t-il plus qu'un simple suivi du temps de travail ?"
             a : "Oui, la saisie numérique des temps n'est qu'une des nombreuses applications. SeaTable offre des solutions pour le recrutement, l'onboarding et bien d'autres sujets RH - le tout dans une plateforme flexible. Découvrez nos modèles et commencez directement avec un compte gratuit."
           - q : "Le modèle d'enregistrement du temps de travail est-il gratuit ?"
-            a : "Oui, vous pouvez utiliser notre modèle de feuille de temps gratuitement avec SeaTable Free. Cet abonnement vous est automatiquement attribué lorsque vous vous inscrivez pour la première fois à SeaTable. Avec un abonnement Enterprise, vous disposez également d'automatisations pratiques qui vous permettent d'éviter de nombreux clics manuels."
+            a : "Oui, vous pouvez utiliser notre modèle de feuille de temps gratuitement avec SeaTable Free. Cet abonnement vous est automatiquement attribué lorsque vous vous inscrivez pour la première fois à SeaTable. Avec un abonnement Enterprise, vous disposez également **d'automatisations assistées par l'IA** pratiques qui vous permettent d'éviter de nombreux clics manuels."
           - q : "L'employeur est-il obligé d'enregistrer le temps de travail ?"
             a : "Oui, la Cour de justice de l'Union européenne a décidé en mai 2019 que les entreprises de l'UE doivent enregistrer la totalité du temps de travail de leurs employés. La Cour fédérale du travail a confirmé cette décision dans son arrêt du 13 septembre 2022."
           - q : "Comment les heures de travail doivent-elles être enregistrées ?"
