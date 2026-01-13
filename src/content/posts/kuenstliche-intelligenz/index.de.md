@@ -88,7 +88,7 @@ KI Systeme wie Chatbots und Sprachassistenten verwenden grundlegende Verfahren, 
 
 ## Wo wird künstliche Intelligenz eingesetzt?
 
-Mit Sicherheit haben Sie **künstliche Intelligenz im Alltag** – bewusst oder unbewusst – schon genutzt. Ob bei der Routenplanung von Navigationssystemen, Kaufempfehlungen in Online-Shops oder der Autokorrektur und -vervollständigung von Texten: Überall ist eine trainierte KI im Einsatz, die im Hintergrund aus unzähligen Daten die wahrscheinlichste Lösung für Sie errechnet.
+Mit Sicherheit haben Sie **künstliche Intelligenz im Alltag** – bewusst oder unbewusst – schon genutzt. Ob bei der Routenplanung von Navigationssystemen, Kaufempfehlungen in Online-Shops oder der Autokorrektur und -vervollständigung von Texten: Überall ist eine trainierte KI im Einsatz, die im Hintergrund aus unzähligen Daten die wahrscheinlichste Lösung für Sie errechnet.<!-- In diesem Abschnitt (oder wenn passender an anderen Stellen) auf EU KI-Verordnung eingehen, insbesondere das High-Risk-Systeme zwingend menschlich kontrolliert und dokumentiert werden müssen, also z. B. KI-Einsatz bei Bewerbungsprozessen oder Kreditvergabe, und dass z. B: KI Chatbots als solche gekennzeichnet sein müssen, gemäß EU KI-Verordnung. Auch auf verbotene Anwendungen eingehen, z. B. biometrische Echtzeitüberwachung oder Social-Scoring.-->
 
 ![KI-generierte Textvorschläge bei der Google Suche](ki-google-search.jpg)
 
@@ -160,7 +160,7 @@ Einige Vorteile von KI-Systemen für Unternehmen wurden bereits im Laufe des Art
 
 ## Welche Risiken birgt künstliche Intelligenz?
 
-Vom Schreckensszenario, dass eine feindliche künstliche Intelligenz in Zukunft die Weltherrschaft übernehmen und sich gegen die Menschen wenden könnte, sind wir noch sehr weit entfernt. Bislang existiert nur **schwache KI, die vorgegebene Anweisungen und Training von Menschen benötigt** und sich nicht einfach verselbstständigen wird. Trotzdem birgt künstliche Intelligenz die Gefahr, zu unerwünschten Ergebnissen zu führen oder gar zu kriminellen Zwecken missbraucht zu werden.  
+Vom Schreckensszenario, dass eine feindliche künstliche Intelligenz in Zukunft die Weltherrschaft übernehmen und sich gegen die Menschen wenden könnte, sind wir noch sehr weit entfernt. Bislang existiert nur **schwache KI, die vorgegebene Anweisungen und Training von Menschen benötigt** und sich nicht einfach verselbstständigen wird. Trotzdem birgt künstliche Intelligenz die Gefahr, zu unerwünschten Ergebnissen zu führen oder gar zu kriminellen Zwecken missbraucht zu werden.<!-- In diesem Abschnitt entweder hier oder in einer der Antworten auch das Haftungsproblem kurz erwähnen: Wer haftet bei Schäden, die durch fehlerhafte KI-Antworten gegeben wurden?-->  
   
 Die größten Probleme rund um künstliche Intelligenz sind:
 
@@ -185,7 +185,7 @@ Um KI Systeme mithilfe von Lernalgorithmen und großen Datenmengen zu trainieren
 {{< /faq >}}
 
 {{< faq "Datenschutz und Abhängigkeit von Tech-Riesen" >}}
-Der Einsatz von künstlicher Intelligenz erfordert große Datenmengen, in denen sich auch viele sensible, personenbezogene Informationen befinden können. Beispielsweise sammeln die Betreiber von sozialen Netzwerken Unmengen von Nutzerdaten, die später zur Ausspielung personalisierter Werbung genutzt werden können, um Wahl- oder Kaufentscheidungen zu beeinflussen. Es ist daher problematisch, dass die meisten dieser Daten in den Händen weniger Tech-Riesen aus den USA und China liegen. Auch die KI-Modelle an sich kommen überwiegend aus den USA, was zu einer hohen technologischen Abhängigkeit führt.
+Der Einsatz von künstlicher Intelligenz erfordert große Datenmengen, in denen sich auch viele sensible, personenbezogene Informationen befinden können. Beispielsweise sammeln die Betreiber von sozialen Netzwerken Unmengen von Nutzerdaten, die später zur Ausspielung personalisierter Werbung genutzt werden können, um Wahl- oder Kaufentscheidungen zu beeinflussen. Es ist daher problematisch, dass die meisten dieser Daten in den Händen weniger Tech-Riesen aus den USA und China liegen. Auch die KI-Modelle an sich kommen überwiegend aus den USA, was zu einer hohen technologischen Abhängigkeit führt.<!-- Hier könnten wir konkret Alternativen nennen, z. B. Open-Source-Systeme wie Llama 2, Mistral 7B und unsere selbstgehostete KI-Lösung. Oder an einer anderen Stelle im Zusammenhang mit Datenschutz und/oder Vendor-Lock-in.-->
 {{< /faq >}}
 
 ## Best Practices für den Umgang mit KI in Unternehmen
@@ -195,19 +195,19 @@ Nach einer [EY Umfrage](https://www.ittbusiness.at/article/europaeische-unterneh
 Um die wirtschaftlichen Chancen zu nutzen und künstliche Intelligenz in Ihrem Unternehmen sinnvoll und sicher einzusetzen, haben sich einige Grundsätze bewährt:  
   
 - **Menschliche Kontrolle**: Künstliche Intelligenz sollte Entscheidungen unterstützen, aber nicht alleine treffen. Die Ergebnisse sollten Sie nicht einfach glauben, sondern immer hinterfragen und prüfen.  
-- **Transparenz**: Kommunizieren Sie Ihren Mitarbeitern klar die Rahmenbedingungen für den Einsatz von KI. Damit vermeiden Sie, dass eine Schatten IT entsteht, von der Sie nichts wissen.  
+- **Transparenz**: Kommunizieren Sie Ihren Mitarbeitern klar die Rahmenbedingungen für den Einsatz von KI. Damit vermeiden Sie, dass eine Schatten IT entsteht, von der Sie nichts wissen. <!-- EU KI-Verordnung regelt verpflichtend Dokumentationen etc. ab 08.2026. --> 
 - **Weiterbildung**: KI-Kompetenz wird immer mehr zum Erfolgsfaktor. Machen Sie Ihre Mitarbeiter fit für das Prompting und klären Sie die Frage: Wie funktioniert künstliche Intelligenz?
 - **Datensouveränität**: Wenn Sie KI ohne Kompromisse beim [Datenschutz]({{< relref "posts/digitale-souveraenitaet" >}}) nutzen möchten, lohnt es sich, ein KI-Modell auf Ihren eigenen Servern zu betreiben oder zumindest [Cloud-Plattformen]({{< relref "posts/202503-cloud-computing" >}}) innerhalb der EU zu verwenden.
 
 ## Mit SeaTable sicher künstliche Intelligenz einsetzen
 
-Als AI No-Code Plattform erlaubt SeaTable KI-gestützte Automationen, mit denen Sie Ihr [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) effizienter gestalten können. Datensätze auswerten, modifizieren und erweitern, Texte übersetzen und relevante Informationen aus Dokumenten extrahieren – all das ist mit den KI-Funktionen möglich.  
+Als AI No-Code Plattform<!-- Wir übersetzen AI in die jeweiligen Sprachen. Im Deutschen also KI No-Code Plattform.--> erlaubt SeaTable KI-gestützte Automationen, mit denen Sie Ihr [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) effizienter gestalten können. Datensätze auswerten, modifizieren und erweitern, Texte übersetzen und relevante Informationen aus Dokumenten extrahieren – all das ist mit den KI-Funktionen möglich.  
 
 ![KI Features in SeaTable](ki-features-seatable.jpg)
 
-Und zwar ganz ohne Sorgenfalten in Sachen Datenschutz: SeaTable unterstützt eine Vielzahl von KI-Modellen verschiedener Anbieter, die DSGVO-konform in deutschen Rechenzentren betrieben werden. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.  
+Und zwar ganz ohne Sorgenfalten in Sachen Datenschutz: SeaTable unterstützt eine Vielzahl von KI-Modellen verschiedener Anbieter<!--Bieten wir in der Cloud nicht aktuell nur LiteLLM an und diese Funktion kommt erst mit einer der nächsten Versionen?-->, die DSGVO-konform in deutschen Rechenzentren betrieben werden. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.  
   
-Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen Infrastruktur nutzen. SeaTable AI, eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.
+Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen Infrastruktur nutzen. SeaTable AI, eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.<!--Setze in diesem Satz bitte noch einen Link zu einem entsprechenden Eintrag im Developer-Handbuch.-->
 
 {{< newsletter title="Bleiben Sie informiert" subtitle="" submit="Jetzt anmelden" >}}
 
