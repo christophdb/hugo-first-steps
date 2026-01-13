@@ -15,6 +15,7 @@ tags:
 color: '#de9e13'
 register:
    show: true
+draft: true
 ---
 
 Künstliche Intelligenz (KI) ist gerade dabei, das Leben im 21. Jahrhundert zu revolutionieren. Sie verändert die Art und Weise, wie wir arbeiten, Informationen beschaffen und Entscheidungen treffen. Kaum ein anderes Thema wird zurzeit so intensiv in Wirtschaft, Politik, Wissenschaft und Gesellschaft diskutiert. Während die einen den technologischen Fortschritt feiern, sehen die anderen erhebliche Risiken. 
