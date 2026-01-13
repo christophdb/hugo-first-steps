@@ -49,6 +49,39 @@
             {{ partial "footer.html" . }}
         </footer>
 
+        <!-- cookie notification -->
+        <div
+            x-cloak
+            x-data="{ 
+                showCookie: !localStorage.getItem('cookies_accepted'),
+                hideCookie() {
+                    this.showCookie = false
+                    localStorage.setItem('cookies_accepted', 'true')
+                    
+                    // PostHog Event
+                    if (typeof posthog !== 'undefined') {
+                        posthog.capture('cookies_accepted', {
+                        cookie_banner_version: 'v1.0',
+                        timestamp: new Date().toISOString()
+                        })
+                    }
+                }
+            }"
+            x-show="showCookie"
+            x-transition:leave="transition ease-in-out duration-300"
+            x-transition:leave-start="opacity-100 translate-y-0"
+            x-transition:leave-end="opacity-0 -translate-y-2 scale-95"
+            class="fixed bottom-5 left-auto right-5 z-50 w-80 rounded-xl border border-gray-300 bg-white p-5 shadow-xl">
+            <p class="text-sm text-gray-600">This website uses cookies to ensure you get the best experience on our website.</p>
+            <div class="flex flex-row items-center justify-between pt-4">
+                <a href="{{ with .Site.GetPage "pages/legal/data-privacy" }}{{ .RelPermalink }}{{ end }}" class="text-sm text-blue-600">More information</a>
+                <button @click="hideCookie()" class="flex items-center rounded-lg bg-blue-600 px-4 py-2 text-white">
+                    {{- partial "icon.html" "cookie-bite" -}}
+                    <span class="pl-2 font-poppins text-sm font-bold">Got it</span>
+                </button>
+            </div>
+        </div>
+
         <!-- formActions -->
         <script>
             /* form actions for registration and contact form */

@@ -1,6 +1,6 @@
 <!-- Language List -->
 {{ if hugo.IsMultilingual }}
-    <div class="" x-data="{ languageSwitcherOpen: false }">
+    <div class="" x-cloak x-data="{ languageSwitcherOpen: false }">
         <div class="flex w-full min-w-[40px] justify-end">
             <div class="relative">
                 <button class="p-2 text-gray-800 focus:outline-none" @click="languageSwitcherOpen = !languageSwitcherOpen" aria-label="Toggle language switcher">
