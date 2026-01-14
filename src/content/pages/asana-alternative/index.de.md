@@ -10,8 +10,8 @@ url: '/de/asana-alternative/'
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable: Die beste Asana Alternative'
-      text: Team- und Prozessmanagement muss nicht kompliziert oder teuer sein. Mit SeaTable als Asana Alternative steht Ihnen ein vielseitiges, **DSGVO-konformes KI No-Code Tool** zur Verfügung. Entdecken Sie das Prozessmanagement der Zukunft – mit einem leistungsfähigen, flexiblen Tool für schlanke, kollaborative und effiziente Prozesse.
+      title: 'SeaTable: Die beste Asana Alternative mit KI-Power'
+      text: Team- und Prozessmanagement muss nicht kompliziert oder teuer sein. Mit SeaTable als Asana Alternative steht Ihnen ein vielseitiges, **DSGVO-konformes KI No-Code Tool** zur Verfügung. Nutzen Sie **KI-gestützte Automationen**, um Aufgaben nicht nur zu verwalten, sondern intelligent zu erledigen. Entdecken Sie das Prozessmanagement der Zukunft – mit einem leistungsfähigen, flexiblen Tool für schlanke, kollaborative und effiziente Prozesse.
       classes:
           - bg-white
       template: 932ed68b8ffc4a689819
@@ -33,11 +33,12 @@ sections:
       items:
         - text: individuell anpassbare Datenstrukturen
         - text: kollaboratives Arbeiten in Echtzeit
+        - text: KI-basierte Datenanreicherung und Textanalyse
         - text: No-Code App-Builder für benutzerfreundliche Oberflächen
         - text: integrierte Automatisierungen und Benachrichtigungen
         - text: einfache Integration ohne IT-Aufwand
         - text: als Cloud-Lösung oder On-Premises
-        - text: 100 % DSGVO-konform mit Servern in Deutschland
+        - text: 100 % DSGVO-konforme KI-Nutzung mit Servern in Deutschland
       image: /images/asana-alternative-1.png
       image_alt: 'SeaTable Oberfläche als flexible Asana Alternative für Projekt- und Aufgabenmanagement'
 
@@ -56,7 +57,7 @@ sections:
       title: SeaTable als Projektmanagement Tool statt Asana
       subtitle: Zentralisieren, automatisieren, optimieren
       items:
-      - text: Als innovative Alternative zu Asana überzeugt die No-Code Lösung durch effizientes Task Management und transparente Projektübersicht, die Teams jederzeit den aktuellen Status ihrer Aufgaben im Blick behalten lässt. Die Echtzeit-Kollaboration ermöglicht nahtlose Zusammenarbeit. Flexible **Ansichten wie Kanban oder Gantt** erlauben eine intuitive Visualisierung des Projektfortschritts. 
+      - text: Als innovative Alternative zu Asana überzeugt die [KI No-Code-Plattform]({{< relref "/" >}}) durch effizientes Task Management und transparente Projektübersicht, die Teams jederzeit den aktuellen Status ihrer Aufgaben im Blick behalten lässt. Die Echtzeit-Kollaboration ermöglicht nahtlose Zusammenarbeit. Flexible **Ansichten wie Kanban oder Gantt** erlauben eine intuitive Visualisierung des Projektfortschritts. 
       image: /images/asana-projektportfoliomanagement.jpg
       image_alt: 'Projektportfolio-Ansicht in SeaTable mit Kanban- und Gantt-Elementen'
 

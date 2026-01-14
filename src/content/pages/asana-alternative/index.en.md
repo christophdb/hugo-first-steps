@@ -10,8 +10,8 @@ url: '/asana-alternative'
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable: The best Asana alternative'
-      text: Team and process management doesn't have to be complicated or expensive. With SeaTable as an Asana alternative, you have a versatile, GDPR-compliant no-code tool at your disposal. Discover the process management of the future - with a powerful, flexible tool for lean, collaborative and efficient processes.
+      title: 'SeaTable: The best Asana alternative with AI power'
+      text: Team and process management doesn't have to be complicated or expensive. With SeaTable as an alternative to Asana, you have a versatile, **GDPR-compliant AI no-code tool** at your disposal. Use **AI-powered automations** to not only manage tasks, but also complete them intelligently. Discover the process management of the future—with a powerful, flexible tool for lean, collaborative, and efficient processes.
       classes:
           - bg-white
       template: 932ed68b8ffc4a689819
@@ -33,11 +33,12 @@ sections:
       items:
         - text: Customizable data structures
         - text: Collaborative work in real time
+        - text: AI-based data enrichment and text analysis
         - text: No-code app builder for user-friendly interfaces
         - text: Integrated automations and notifications
         - text: Simple integration without IT effort
         - text: As a cloud solution or on-premises
-        - text: 100 % GDPR-compliant with servers in Germany
+        - text: 100% GDPR-compliant AI usage with servers in Germany
       image: /images/asana-alternative-1.png
       image_alt: 'SeaTable interface as a flexible Asana alternative for project and task management'
 
@@ -56,7 +57,7 @@ sections:
       title: SeaTable as a project management tool instead of Asana
       subtitle: Centralize, automate, optimize
       items:
-      - text: As an innovative alternative to Asana, the no-code solution impresses with its efficient task management and transparent project overview, which allows teams to keep an eye on the current status of their tasks at all times. Real-time collaboration enables seamless collaboration, while flexible views such as Kanban or Gantt enable intuitive visualization of project progress.
+      - text: As an innovative alternative to Asana, the [AI no-code platform]({{< relref "/" >}}) impresses with its efficient task management and transparent project overview, which allows teams to keep an eye on the current status of their tasks at all times. Real-time collaboration enables seamless collaboration, while flexible views such as Kanban or Gantt enable intuitive visualization of project progress.
       image: /images/asana-projektportfoliomanagement.jpg
       image_alt: 'Project portfolio view in SeaTable with Kanban and Gantt elements'
 
