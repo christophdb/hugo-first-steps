@@ -165,7 +165,9 @@
                                 console.log(data);
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "contact.success" }}';
-                                    posthog.capture('Contact Form');
+                                    if (typeof posthog !== 'undefined') {
+                                        posthog.capture('Contact Form');
+                                    }
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
                                     this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
@@ -242,7 +244,9 @@
                                 console.log(data);
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
-                                    posthog.capture('Cloud Registration');
+                                    if (typeof posthog !== 'undefined') {
+                                        posthog.capture('Cloud Registration');
+                                    }
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
                                     this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
@@ -318,7 +322,9 @@
                         .then((data) => {
                             if (data.success) {
                                 this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "newsletter.success" }}';
-                                posthog.capture('Newsletter Registration');
+                                if (typeof posthog !== 'undefined') {
+                                    posthog.capture('Newsletter Registration');
+                                }
                             } else {
                                 this.errorMessage = data.error || 'error message'; // Show error message
                                 this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.error" }}'; // Reset button text
@@ -512,6 +518,10 @@
 
         <!-- matomo analytics -->
         {{ partial "matomo-analytics.html" . }}
+
+
+        <!-- custom posthog event tracker -->
+        {{ partial "posthog/event_tracker.html" . }}
 
 
         <!-- AB-Split Tests -->
