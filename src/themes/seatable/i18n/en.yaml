@@ -230,3 +230,8 @@ blog-register:
     item3: 'Real-time collaboration'
     text: 'And all of this GDPR-compliant!'
     submit: 'Try it now'
+
+cookies:
+    text: 'This website uses cookies to ensure you get the best experience on our website.'
+    link: More informationen
+    confirm: Got it

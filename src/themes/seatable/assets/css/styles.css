@@ -392,6 +392,10 @@ p > .icon > svg {
 }
 
 @layer utilities {
+    [x-cloak] {
+        display: none !important;
+    }
+
     .gradient {
         @apply bg-gradient-to-r from-[#EE3234] to-[#FF8000] bg-clip-text text-transparent;
     }
