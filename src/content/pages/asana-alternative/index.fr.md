@@ -10,8 +10,8 @@ url: '/fr/alternative-asana'
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable : La meilleure alternative à Asana'
-      text: La gestion des équipes et des processus n'a pas besoin d'être compliquée ou coûteuse. Avec SeaTable comme alternative à Asana, vous avez à votre disposition un outil sans code, polyvalent et conforme au RGDP. Découvrez la gestion des processus du futur - avec un outil puissant et flexible pour des processus allégés, collaboratifs et efficaces.
+      title: "SeaTable : La meilleure alternative à Asana avec la puissance de l'IA"
+      text: "La gestion des équipes et des processus n'a pas besoin d'être compliquée ou coûteuse. Avec SeaTable comme alternative à Asana, vous disposez d'un outil polyvalent, **conforme au RGPD et sans code**. Utilisez **les automatisations basées sur l'IA** non seulement pour gérer vos tâches, mais aussi pour les accomplir de manière intelligente. Découvrez la gestion des processus du futur - avec un outil puissant et flexible pour des processus allégés, collaboratifs et efficaces."
       classes:
           - bg-white
       template: 932ed68b8ffc4a689819
@@ -33,11 +33,12 @@ sections:
       items:
         - text: Structures de données personnalisables
         - text: Travail collaboratif en temps réel
-        - text: constructeur d'applications sans code pour des interfaces conviviales
+        - text: Enrichissement des données et analyse de texte basés sur l'IA
+        - text: Constructeur d'applications sans code pour des interfaces conviviales
         - text: Automations et notifications intégrées
         - text: Intégration simple sans effort informatique
         - text: En tant que solution cloud ou sur site
-        - text: 100 % conforme à la GDPR avec des serveurs en Allemagne
+        - text: Utilisation de l'IA 100 % conforme au RGPD avec des serveurs situés en Allemagne
       image: /images/asana-alternative-1.png
       image_alt: 'Interface SeaTable comme alternative flexible à Asana pour la gestion de projets et de tâches'
 
@@ -56,7 +57,7 @@ sections:
       title: SeaTable comme outil de gestion de projet au lieu d'Asana
       subtitle: Centraliser, automatiser, optimiser
       items:
-      - text: "En tant qu'alternative innovante à Asana, la solution sans code impressionne par sa gestion efficace des tâches et sa vue d'ensemble transparente des projets, qui permet aux équipes de garder un œil sur l'état actuel de leurs tâches à tout moment. La collaboration en temps réel permet de travailler en toute fluidité, tandis que des vues flexibles telles que Kanban ou Gantt permettent de visualiser intuitivement l'avancement des projets."
+      - text: "En tant qu'alternative innovante à Asana, plateforme IA sans code impressionne par sa gestion efficace des tâches et sa vue d'ensemble transparente des projets, qui permet aux équipes de garder un œil sur l'état actuel de leurs tâches à tout moment. La collaboration en temps réel permet de travailler en toute fluidité, tandis que des vues flexibles telles que Kanban ou Gantt permettent de visualiser intuitivement l'avancement des projets."
       image: /images/asana-projektportfoliomanagement.jpg
       image_alt: 'Vue portefeuille de projets dans SeaTable avec éléments Kanban et Gantt'
 
