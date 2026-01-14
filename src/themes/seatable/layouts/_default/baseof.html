@@ -72,7 +72,7 @@
             x-transition:leave-start="opacity-100 translate-y-0"
             x-transition:leave-end="opacity-0 -translate-y-2 scale-95"
             class="fixed bottom-5 left-auto right-5 z-50 w-80 rounded-xl border border-gray-300 bg-white p-5 shadow-xl">
-            <p class="text-sm text-gray-600">This website uses cookies to ensure you get the best experience on our website.</p>
+            <p class="text-sm text-gray-600">{{ T "cookies.hint" }}</p>
             <div class="flex flex-row items-center justify-between pt-4">
                 <a href="{{ with .Site.GetPage "pages/legal/data-privacy" }}{{ .RelPermalink }}{{ end }}" class="text-sm text-blue-600">More information</a>
                 <button @click="hideCookie()" class="flex items-center rounded-lg bg-blue-600 px-4 py-2 text-white">

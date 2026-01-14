@@ -230,3 +230,6 @@ blog-register:
     item3: 'Kollaboration in Echtzeit'
     text: 'Und das alles DSGVO-konform!'
     submit: 'Jetzt ausprobieren'
+
+cookies:
+    hint: 'Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten.'

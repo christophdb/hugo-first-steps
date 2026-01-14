@@ -230,3 +230,6 @@ blog-register:
     item3: 'Collaboration en temps réel'
     text: 'Et tout cela conforme au RGPD !'
     submit: 'Essayer maintenant'
+
+cookies:
+    hint: 'Ce site Web utilise des cookies pour vous garantir la meilleure expérience possible.'
