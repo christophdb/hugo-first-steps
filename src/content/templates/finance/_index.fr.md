@@ -4,4 +4,8 @@ url: '/fr/modeles/finances'
 aliases:
     - '/fr/modeles/finanzen/'
 weight: 8
+seo:
+    title: 'Modèles Finances – Budgets, factures et planification'
+    description: 'Découvrez les modèles SeaTable pour les finances: budgets, facturation, épargne, investissements et gestion financière transparente en un endroit.'
+
 ---

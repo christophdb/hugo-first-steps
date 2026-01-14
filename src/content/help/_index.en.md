@@ -1,6 +1,11 @@
 ---
 title: Help area
 url: '/help'
+seo:
+    title: 'SeaTable Help – Support, documentation & guides'
+    description: 'Access SeaTable help: complete documentation, video tutorials, community forum, admin and developer manuals, API docs, and expert support available.'
+
+
 type: help-start
 headline: 'How can we help?'
 
