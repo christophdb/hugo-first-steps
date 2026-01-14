@@ -232,4 +232,6 @@ blog-register:
     submit: 'Jetzt ausprobieren'
 
 cookies:
-    hint: 'Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten.'
+    text: 'Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten.'
+    link: Weitere Informationen
+    confirm: Zustimmen

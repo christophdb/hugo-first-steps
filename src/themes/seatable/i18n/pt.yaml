@@ -232,4 +232,6 @@ blog-register:
     submit: 'Experimente agora'
 
 cookies:
-    hint: 'Este site usa cookies para garantir que você tenha a melhor experiência possível.'
+    text: 'Este site utiliza cookies para garantir que obtém a melhor experiência no nosso site.'
+    link: Mais informações
+    confirm: Percebi

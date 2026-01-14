@@ -232,4 +232,6 @@ blog-register:
     submit: 'Try it now'
 
 cookies:
-    hint: 'This website uses cookies to ensure you get the best experience on our website.'
+    text: 'This website uses cookies to ensure you get the best experience on our website.'
+    link: More informationen
+    confirm: Got it
