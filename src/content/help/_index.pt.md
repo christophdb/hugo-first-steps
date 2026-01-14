@@ -1,6 +1,11 @@
 ---
 title: Área de ajuda
 url: '/pt/ajuda'
+seo:
+    title: 'Ajuda SeaTable – Suporte, documentação e guias'
+    description: 'Encontre respostas na Ajuda SeaTable: documentação completa, tutoriais em vídeo, fórum da comunidade, manuais e suporte técnico disponível.'
+
+
 type: help-start
 headline: 'Como podemos ajudar?'
 

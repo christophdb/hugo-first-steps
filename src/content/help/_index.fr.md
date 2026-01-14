@@ -1,6 +1,11 @@
 ---
 title: Zone d'aide
 url: '/fr/aide'
+seo:
+    title: 'Aide SeaTable – Support, documentation et guides'
+    description: "Trouvez des réponses dans l'Aide SeaTable : documentation complète, tutoriels vidéo, forum communautaire, manuels et support technique disponible."
+
+
 type: help-start
 headline: 'Comment pouvons-nous vous aider ?'
 
