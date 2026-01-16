@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Funciones clave del panel de equipo en SeaTable'
     description: 'Gestione equipos, roles, grupos, datos y soporte desde un solo lugar. Conozca todas las herramientas de administración SeaTable.'
+star: true
+weight: 1
 ---
 
 En SeaTable, su equipo es el centro. Trabajáis juntos en vuestras tareas y proyectos. Como equipo, celebras los éxitos, experimentas los contratiempos y desarrollas tu potencial. En este artículo aprenderás cómo gestionar tu equipo a través de la **administración de equipos** y qué puedes hacer allí.

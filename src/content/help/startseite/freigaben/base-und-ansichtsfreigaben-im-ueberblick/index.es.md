@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Compartir bases y vistas en SeaTable: opciones, derechos y administración claros'
     description: 'Descubre las opciones para compartir bases, tablas y vistas en SeaTable, gestionar derechos personalizados y controlar la colaboración con facilidad.'
+star: true
+weight: 1
 ---
 
 ¿Ha organizado su información en una **base**, **tabla** o **vista** y desea **compartirla** con otras personas o trabajar en ella conjuntamente? En SeaTable, esto se hace fácil y rápidamente con un **recurso compartido**. De esta forma puede conceder acceso a sus datos a un único **usuario**, a un **grupo** o a **personas externas**.

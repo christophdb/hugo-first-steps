@@ -9,6 +9,7 @@ url: '/de/hilfe/uebersicht-ueber-automationen'
 seo:
     title: 'Automationen in SeaTable: Überblick und Beispiele'
     description: 'Lernen Sie, wie SeaTable Arbeitsprozesse automatisiert: Trigger, Aktionen, Verwaltung und praktische Anwendungsfälle für effizientes Datenmanagement.'
+star: true
 weight: 1
 ---
 
@@ -30,7 +31,7 @@ Der Automations-Editor erstreckt sich über die gesamte Fensterbreite und ermög
 
 ![Automations-Editor in Aktion](images/automation-editor-in-action.gif)
 
-Im zentralen Bereich sehen Sie die Konfiguration der aktuell ausgewählten Automation. Diese besteht aus einem **Trigger** und einer oder mehreren **Aktionen**. Die Einstellungen des Triggers bzw. der Aktionen werden auf der rechten Seite dynamisch eingeblendet – je nachdem, welches Element Sie gerade angeklickt haben. 
+Im zentralen Bereich sehen Sie die Konfiguration der aktuell ausgewählten Automation. Diese besteht aus einem **Trigger** und einer oder mehreren **Aktionen**. Die Einstellungen des Triggers bzw. der Aktionen werden auf der rechten Seite dynamisch eingeblendet – je nachdem, welches Element Sie gerade angeklickt haben.
 
 Sie können die Liste der Automatisierungsregeln auch einklappen, um im zentralen Bereich mehr Platz zu schaffen. Ein weiterer Komfortfaktor ist die **variable Höhe des Editor-Panels**. So können Sie die Ansicht, Spaltennamen und Datensätze sehen, während Sie an einer Automation arbeiten.
 

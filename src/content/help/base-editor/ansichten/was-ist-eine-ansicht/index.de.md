@@ -9,6 +9,7 @@ url: '/de/hilfe/was-ist-eine-ansicht'
 seo:
     title: 'Was ist eine Ansicht in SeaTable?'
     description: 'Erfahren Sie, wie Ansichten in SeaTable funktionieren und wie Sie individuelle Sichten auf Ihre Tabellendaten anlegen.'
+star: true
 weight: 1
 ---
 

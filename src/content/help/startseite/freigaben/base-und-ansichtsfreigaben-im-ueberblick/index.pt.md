@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Compartilhar bases e visualizações em SeaTable: tipos, permissões e gestão'
     description: 'Veja como usar todas as opções de compartilhamento no SeaTable, dar direitos individuais e administrar acessos de forma detalhada por base, tabela ou visualização.'
+star: true
+weight: 1
 ---
 
 Organizou a sua informação numa **base**, **mesa** ou **vista** e quer **partilhá-la** com outros ou trabalhar nela em conjunto? No SeaTable, isto é feito de forma fácil e rápida com uma **partilha**. Desta forma, pode conceder acesso aos seus dados a um único **utilizador**, a um **grupo** ou a **pessoas externas**.

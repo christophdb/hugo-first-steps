@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Todos os tipos de coluna no SeaTable – funcionalidades'
     description: 'Veja todos os 25 tipos de coluna disponíveis no SeaTable: texto, número, arquivos, seleções, fórmulas e relações entre tabelas, dicas de uso.'
-
+star: true
 weight: 1
 ---
 

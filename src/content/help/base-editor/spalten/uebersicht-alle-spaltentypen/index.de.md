@@ -9,7 +9,7 @@ url: '/de/hilfe/uebersicht-alle-spaltentypen'
 seo:
     title: 'Übersicht aller Spaltentypen in SeaTable – Funktionen'
     description: 'Lernen Sie alle 25 Spaltentypen von SeaTable kennen: von Text und Zahl bis Datei, Auswahlfeldern, Formeln und relationalen Spalten. Kompakt erklärt.'
-
+star: true
 weight: 1
 ---
 

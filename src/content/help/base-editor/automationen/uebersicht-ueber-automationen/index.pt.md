@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Automatizações no SeaTable: visão geral e exemplos'
     description: 'Veja como agilizar tarefas com as automações SeaTable: acionadores, ações, registro de execuções e exemplos práticos de uso para melhorar o seu fluxo.'
+star: true
 weight: 1
 ---
 

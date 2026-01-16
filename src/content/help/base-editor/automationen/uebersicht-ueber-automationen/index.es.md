@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Automatizaciones en SeaTable: guía y casos de uso'
     description: 'Descubra cómo crear y gestionar automatizaciones en SeaTable: disparadores, acciones, historial y ejemplos prácticos para optimizar operaciones.'
+star: true
 weight: 1
 ---
 

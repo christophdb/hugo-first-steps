@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'SeaTable Sharing Overview: How to Share Bases, Tables, and Views with Custom Rights'
     description: 'Master sharing in SeaTable—grant read or write rights, use user and group permissions or custom setups for bases, tables, and views to control collaboration.'
+star: true
+weight: 1
 ---
 
 You have organized your information in a **base**, **table** or **view** and want to **share** it with others or collaborate on it? In SeaTable this is done easily and quickly with a **share**. This way you can grant access to your data to a single **user**, a **group** or **external people**.

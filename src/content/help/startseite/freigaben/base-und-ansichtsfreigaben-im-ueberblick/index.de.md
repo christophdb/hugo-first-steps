@@ -9,6 +9,8 @@ url: '/de/hilfe/base-und-ansichtsfreigaben-im-ueberblick'
 seo:
     title: 'Base- und Ansichtsfreigaben in SeaTable: Optionen, Rechte & Verwaltung im Überblick'
     description: 'Lernen Sie alles über die Freigabe von Bases, Tabellen und Ansichten in SeaTable, die Vergabe von individuellen Leserechten, Schreibrechten und benutzerdefinierten Berechtigungen.'
+star: true
+weight: 1
 ---
 
 Sie haben in einer **Base**, **Tabelle** oder **Ansicht** Ihre Informationen organisiert und möchten diese mit anderen **teilen** oder gemeinsam daran arbeiten? In SeaTable ist das mit einer **Freigabe** einfach und schnell erledigt. Auf diese Weise können Sie einem einzelnen **Benutzer**, einer **Gruppe** oder **externen Personen** Zugriff auf Ihre Daten gewähren.

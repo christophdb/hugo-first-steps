@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Key features of SeaTable team management at a glance'
     description: 'Add or remove users, manage groups, permissions, subscriptions or support – the SeaTable team admin panel provides full control.'
+star: true
+weight: 1
 ---
 
 In SeaTable, your team is the center of attention. You work together on your tasks and projects. In the team you celebrate successes, experience setbacks and develop your potential. In this article you will learn how to manage your team via the **team administration** and what you can do there.

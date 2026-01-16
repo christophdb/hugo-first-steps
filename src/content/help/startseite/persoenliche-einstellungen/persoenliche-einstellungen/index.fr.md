@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'SeaTable : paramètres personnels et sécurité du profil'
     description: 'Modifiez vos paramètres SeaTable : langue, mot de passe, avatar, notifications mail et activez la double authentification 2FA.'
+star: true
+weight: 1
 ---
 
 Dans SeaTable, vous gérez votre compte utilisateur via les **paramètres personnels**. Vous pouvez y configurer la sécurisation de votre compte avec **un mot de passe** et, le cas échéant, **une authentification à deux facteurs**, l'**image de** votre **avatar**, la **langue de l'interface** et les **notifications par e-mail** de SeaTable, et ainsi les adapter à vos besoins.
