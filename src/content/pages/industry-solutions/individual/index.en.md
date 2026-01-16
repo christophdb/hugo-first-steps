@@ -61,6 +61,7 @@ sections:
           - text: 'GDPR-compliant'
           - text: 'Permission management'
       image: /images/Landing-Page-Workflow-Management_3.png
+      image_alt: 'SeaTable workflow management interface with tasks and status columns'
 
     - name: 'content-1'
       weight: 4
@@ -77,6 +78,7 @@ sections:
           - headline: 'Scalability'
             text: "SeaTable scales with you and your growing needs. It's the ideal solution for businesses of any size looking to digitize and optimize workflows."
       image: /images/Landing-Page-Workflow-Managment.png
+      image_alt: 'SeaTable view for visual design of individual workflows'
 
     - name: 'content-10'
       weight: 5
@@ -100,6 +102,7 @@ sections:
           - text: 'A key advantage of SeaTable is its real-time collaboration capability. In many companies, delayed workflows lead to inefficiencies and missed opportunities. With SeaTable, teams can work on workflows simultaneously from anywhere. All changes sync in real time, keeping everyone up to date.'
       image: /images/Landing-Page-Workflow-Management_2.png
       image_position: left
+      image_alt: 'SeaTable workflow view for real-time collaboration in teams'
 
     - name: 'content-4'
       weight: 7
@@ -138,9 +141,11 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to start quickly without extensive IT infrastructure. The SeaTable Cloud is ready to use immediately and offers maximum flexibility and scalability.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud project plan template as a workflow management base'
           - headline: SeaTable Server
             text: For companies that want to maintain full control over their data, SeaTable Server offers an on-premises option - ideal for companies with strict compliance requirements.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server action plan template for self-hosted workflows'
 
     - name: faq
       weight: 14

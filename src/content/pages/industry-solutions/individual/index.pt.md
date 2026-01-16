@@ -63,6 +63,7 @@ sections:
           - text: 'Conformidade com GDPR'
           - text: 'Gestão de permissões'
       image: /images/Landing-Page-Workflow-Management_3.png
+      image_alt: 'Interface de gestão de workflows do SeaTable com tarefas e colunas de estado'
 
     - name: 'content-1'
       weight: 4
@@ -79,6 +80,7 @@ sections:
           - headline: 'Escalabilidade'
             text: 'O SeaTable escala junto com você e suas necessidades. É a solução ideal para empresas de qualquer porte que buscam digitalizar e otimizar seus fluxos.'
       image: /images/Landing-Page-Workflow-Managment.png
+      image_alt: 'Vista do SeaTable para desenho visual de workflows individuais'
 
     - name: 'content-10'
       weight: 5
@@ -102,6 +104,7 @@ sections:
           - text: 'Um diferencial do SeaTable é a capacidade de colaboração em tempo real. Em muitas empresas, fluxos com atrasos geram ineficiências e oportunidades perdidas. Com o SeaTable, equipes podem trabalhar simultaneamente de qualquer lugar, com todas as alterações sincronizadas instantaneamente.'
       image: /images/Landing-Page-Workflow-Management_2.png
       image_position: left
+      image_alt: 'Vista de workflow do SeaTable para colaboração em tempo real em equipas'
 
     - name: 'content-4'
       weight: 7
@@ -140,9 +143,11 @@ sections:
           - headline: SeaTable Cloud
             text: Perfeito para empresas que querem começar rapidamente sem infraestrutura de TI complexa. O SeaTable Cloud está pronto para uso imediato e oferece máxima flexibilidade e escalabilidade.
             image: /images/template-projektplan.png
+            image_alt: 'Modelo de plano de projeto no SeaTable Cloud como base para gestão de workflows'
           - headline: SeaTable Server
             text: Para empresas que desejam manter controle total sobre seus dados, o SeaTable Server oferece uma opção on-premises, ideal para companhias com requisitos rigorosos de conformidade.
             image: /images/template-massnahmenplan.jpg
+            iamge_alt: 'Modelo de plano de ações do SeaTable Server para workflows auto-hospedados'
 
     - name: faq
       weight: 14

@@ -62,6 +62,7 @@ sections:
           - text: 'Conforme au RGPD'
           - text: 'Gestion des permissions'
       image: /images/Landing-Page-Workflow-Management_3.png
+      image_alt: 'Interface de gestion des workflows SeaTable avec tâches et colonnes de statut'
 
     - name: 'content-1'
       weight: 4
@@ -78,6 +79,7 @@ sections:
           - headline: 'Évolutivité'
             text: "SeaTable évolue avec vous et vos besoins croissants. C'est la solution idéale pour les entreprises de toute taille cherchant à digitaliser et optimiser leurs workflows."
       image: /images/Landing-Page-Workflow-Managment.png
+      image_alt: 'Vue SeaTable pour conception visuelle de workflows individuels'
 
     - name: 'content-10'
       weight: 5
@@ -101,6 +103,7 @@ sections:
           - text: "Un avantage clé de SeaTable est sa capacité de collaboration en temps réel. Dans de nombreuses entreprises, les retards dans les workflows entraînent des inefficacités et des opportunités perdues. Avec SeaTable, les équipes peuvent travailler simultanément sur les workflows depuis n'importe où. Toutes les modifications sont synchronisées en temps réel, maintenant chaque collaborateur informé."
       image: /images/Landing-Page-Workflow-Management_2.png
       image_position: left
+      image_alt: 'Vue de workflow SeaTable pour collaboration en temps réel en équipe'
 
     - name: 'content-4'
       weight: 7
@@ -139,9 +142,11 @@ sections:
           - headline: SeaTable Cloud
             text: "Parfait pour les entreprises qui veulent démarrer rapidement sans infrastructure informatique complexe. SeaTable Cloud est prêt à l'emploi immédiatement et offre une flexibilité et une scalabilité maximales."
             image: /images/template-projektplan.png
+            image_alt: 'Modèle de plan de projet SeaTable Cloud comme base de gestion de workflows'
           - headline: SeaTable Server
             text: Pour les entreprises qui souhaitent garder le contrôle total de leurs données, SeaTable Server propose une solution On-Premise - idéale pour les sociétés avec des exigences strictes de conformité.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modèle de plan d’actions SeaTable Server pour workflows auto-hébergés'
 
     - name: faq
       weight: 14

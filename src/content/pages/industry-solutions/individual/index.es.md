@@ -63,6 +63,7 @@ sections:
           - text: 'Cumple con GDPR'
           - text: 'Gestión de permisos'
       image: /images/Landing-Page-Workflow-Management_3.png
+      image_alt: 'Interfaz de gestión de flujos de trabajo de SeaTable con tareas y columnas de estado'
 
     - name: 'content-1'
       weight: 4
@@ -79,6 +80,7 @@ sections:
           - headline: 'Escalabilidad'
             text: 'SeaTable escala contigo y con tus necesidades crecientes. Es la solución ideal para empresas de cualquier tamaño que buscan digitalizar y optimizar sus flujos de trabajo.'
       image: /images/Landing-Page-Workflow-Managment.png
+      image_alt: 'Vista de SeaTable para diseño visual de flujos de trabajo individuales'
 
     - name: 'content-10'
       weight: 5
@@ -102,6 +104,7 @@ sections:
           - text: 'Una ventaja clave de SeaTable es la capacidad de colaboración en tiempo real. En muchas empresas, los flujos de trabajo con retrasos generan procesos ineficientes y oportunidades perdidas. Con SeaTable, los equipos pueden trabajar en flujos de trabajo simultáneamente desde cualquier ubicación. Todos los cambios se sincronizan en tiempo real, manteniendo a cada colaborador actualizado.'
       image: /images/Landing-Page-Workflow-Management_2.png
       image_position: left
+      image_alt: 'Vista de flujo de trabajo de SeaTable para colaboración en tiempo real en equipos'
 
     - name: 'content-4'
       weight: 7
@@ -140,9 +143,11 @@ sections:
           - headline: SeaTable Cloud
             text: Perfecta para empresas que quieren empezar rápidamente sin necesidad de infraestructura IT compleja. SeaTable Cloud está listo para usar inmediatamente y ofrece máxima flexibilidad y escalabilidad.
             image: /images/template-projektplan.png
+            image_alt: 'Plantilla de plan de proyecto en SeaTable Cloud como base de gestión de flujos'
           - headline: SeaTable Server
             text: Para empresas que desean mantener control total sobre sus datos, SeaTable Server ofrece una opción on-premises, ideal para compañías con requisitos estrictos de cumplimiento normativo.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Plantilla de plan de acciones de SeaTable Server para flujos autoalojados'
 
     - name: faq
       weight: 14
