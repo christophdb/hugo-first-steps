@@ -1,0 +1,27 @@
+- 'label': 'Équipe'
+  'description': 'Gardez une vue d’ensemble sur les membres de votre équipe, leurs rôles, leurs groupes, ainsi que leurs droits d’accès aux bases.'
+  'link': 'help/teamverwaltung/team'
+  'position': 'left'
+  'x': 31
+  'y': 3.7
+
+- 'label': 'Bases'
+  'description': 'Gardez une vue d’ensemble des bases existantes, des personnes ayant accès et des partages accordés.'
+  'link': 'help/teamverwaltung/bases'
+  'position': 'right'
+  'x': 39.7
+  'y': 3.7
+
+- 'label': 'Abonnement'
+  'description': 'Gérez les détails de votre abonnement, vos paiements et les durées de contrat – le tout en un seul endroit centralisé.'
+  'link': 'help/teamverwaltung/abonnement'
+  'position': 'left'
+  'x': 50
+  'y': 3.7
+
+- 'label': 'Support'
+  'description': 'Trouvez de l’aide, créez des tickets de support et obtenez rapidement des réponses à vos questions.'
+  'link': 'help/teamverwaltung/support'
+  'position': 'left'
+  'x': 64
+  'y': 3.7

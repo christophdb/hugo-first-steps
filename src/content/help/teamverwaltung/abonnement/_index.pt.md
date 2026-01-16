@@ -1,5 +1,5 @@
 ---
-title: Assinatura
-url: '/pt/ajuda/administracao-da-equipa/assinatura'
+title: Subscrição
+url: '/pt/ajuda/administracao-da-equipa/subscricao'
 weight: 4
 ---

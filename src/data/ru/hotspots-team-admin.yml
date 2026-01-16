@@ -1,0 +1,27 @@
+- 'label': 'Команда'
+  'description': 'Отслеживайте участников вашей команды, их роли, группы и права доступа к базам.'
+  'link': 'help/teamverwaltung/team'
+  'position': 'left'
+  'x': 32.4
+  'y': 4
+
+- 'label': 'Базы'
+  'description': 'Держите под контролем, какие базы существуют, кто имеет доступ и какие разрешения предоставлены.'
+  'link': 'help/teamverwaltung/bases'
+  'position': 'right'
+  'x': 40.4
+  'y': 4
+
+- 'label': 'Подписка'
+  'description': 'Управляйте деталями подписки, платежами и сроками договоров — всё в одном центральном месте.'
+  'link': 'help/teamverwaltung/abonnement'
+  'position': 'left'
+  'x': 50
+  'y': 4
+
+- 'label': 'Поддержка'
+  'description': 'Найдите помощь, создайте запросы в поддержку и получите быстрые ответы на свои вопросы.'
+  'link': 'help/teamverwaltung/support'
+  'position': 'left'
+  'x': 64
+  'y': 4

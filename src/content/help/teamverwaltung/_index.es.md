@@ -9,3 +9,5 @@ seo:
     title: 'Administración de equipo – Usuarios, grupos y bases'
     description: 'Descubra cómo gestionar miembros, grupos, bases, permisos y suscripciones en SeaTable desde el panel central de administración de equipo.'
 ---
+
+{{< hotspots image="/hotspots/team-admin-es.png" alt="Teamverwaltung" data="hotspots-team-admin" >}}

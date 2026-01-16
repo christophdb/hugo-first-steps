@@ -1,0 +1,27 @@
+- 'label': 'Team'
+  'description': 'Behalten Sie den Überblick über Ihre Teammitglieder, deren Rollen und Gruppen sowie deren Zugriffsrechte auf Bases.'
+  'link': 'help/teamverwaltung/team'
+  'position': 'left'
+  'x': 32.4
+  'y': 4
+
+- 'label': 'Bases'
+  'description': 'Behalten Sie im Überblick, welche Bases existieren, wer Zugriff hat und welche Freigaben vergeben wurden.'
+  'link': 'help/teamverwaltung/bases'
+  'position': 'right'
+  'x': 41.4
+  'y': 4
+
+- 'label': 'Abonnement'
+  'description': 'Verwalten Sie Ihre Abonnementdetails, Zahlungen und Vertragslaufzeiten – alles an einem zentralen Ort.'
+  'link': 'help/teamverwaltung/abonnement'
+  'position': 'left'
+  'x': 50
+  'y': 4
+
+- 'label': 'Support'
+  'description': 'Finden Sie hier Hilfe, erstellen Sie Support-Tickets und erhalten Sie schnelle Antworten auf Ihre Fragen.'
+  'link': 'help/teamverwaltung/support'
+  'position': 'left'
+  'x': 64
+  'y': 4
