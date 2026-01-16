@@ -39,6 +39,7 @@ sections:
           - text: 100 % DSGVO-konform
           - text: flexibel anpassbare Datenstruktur
       image: /images/landing-page-bewerbermanagement-1.png
+      image_alt: 'SeaTable Oberfläche für digitales Bewerbermanagement mit Bewerberlisten und Status'
 
     - name: content-11
       weight: 5
@@ -47,6 +48,7 @@ sections:
       items:
           - text: Mit SeaTable als Bewerbermanagement Software erfassen Sie alle Bewerberdaten zentral und übersichtlich. Über ein individuell gestaltbares und benutzerfreundliches Webformular sammeln Sie alle relevanten Informationen und Dokumente online. In einer klar [strukturierten Datenbank]({{< relref "posts/online-datenbank-kostenlos" >}}) haben sie alle Bewerbungen und Bewerber auf einen Blick.
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
+      image_alt: 'Zentrale SeaTable Datenbank für Bewerbungen'
 
     - name: content-11
       weight: 6
@@ -56,6 +58,7 @@ sections:
           - text: Die Auswahl der passenden Talente wird mit SeaTable einfacher und effizienter. Dank cleverer Funktionen wie der Segmentierung und Filterung von Bewerbungen finden Sie gezielt die besten Kandidaten. Verschiedene Ansichten, Tabellen und Ebenen sorgen für optimale Übersichtlichkeit und ermöglichen eine perfekt organisierte Bewerberauswahl.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
+      image_alt: 'SeaTable Talentmanagement mit gefilterten Bewerbern'
 
     - name: 'content-4'
       weight: 7
@@ -91,13 +94,13 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: 'Template Arbeitszeiterfassung'
+            image_alt: 'SeaTable Template für Arbeitszeiterfassung im HR'
           - text: Personalrekrutierung
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: 'Template Recruting'
+            image_alt: 'SeaTable Recruiting Template für Personalgewinnung'
           - text: Mitarbeiter-Onboarding
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: 'Template Onboardingprozess'
+            image_alt: 'SeaTable Template für Mitarbeiter-Onboarding-Prozesse'
       buttons:
           - label: Alle Vorlagen entdecken
             link: 'templates'
@@ -122,12 +125,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan Vorlage'
           - headline: SeaTable Server
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan Vorlage'
           - headline: SeaTable Dedicated
             text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated Umgebung für HR-Workflows'
 
     - name: 'content-4'
       weight: 14

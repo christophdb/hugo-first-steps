@@ -65,6 +65,7 @@ sections:
           - text: Externe Links
           - text: Freigaben von Ansichten
       image: '/images/Focuspage-Funktionen-Teamwork.png'
+      image_alt: 'SeaTable Teamwork Ansicht mit gemeinsam bearbeiteten Bases und Kommentaren'
 
     - name: content-1
       weight: 5
@@ -80,6 +81,7 @@ sections:
           - headline: Kanban
             text: Arbeiten Sie mit der Kanban-Ansicht und verschiebene Sie Ihre Daten per Drag-and-Drop.
       image: '/images/Screenshots-Funktionen.png'
+      image_alt: 'SeaTable Screenshot mit Galerie-, Kalender- und Kanban-Ansicht zur Datenvisualisierung'
 
     - name: 'content-13'
       weight: 6

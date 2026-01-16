@@ -67,6 +67,7 @@ sections:
           - text: Enlaces externos
           - text: Compartir vistas
       image: '/images/Focuspage-Funktionen-Teamwork.png'
+      image_alt: 'Vista de trabajo en equipo de SeaTable con bases compartidas y comentarios'
 
     - name: content-1
       weight: 5
@@ -82,6 +83,7 @@ sections:
           - headline: Kanban
             text: Trabaje con la vista Kanban y mueva sus datos usando drag-and-drop.
       image: '/images/Screenshots-Funktionen.png'
+      image_alt: 'Captura de SeaTable con vistas de galería, calendario y Kanban para visualizar datos'
 
     - name: 'content-13'
       weight: 6

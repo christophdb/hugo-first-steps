@@ -39,6 +39,7 @@ sections:
           - text: 100% соответствие требованиям GDPR
           - text: Гибко настраиваемая структура данных
       image: /images/landing-page-bewerbermanagement-1.png
+      image_alt: 'Управление кандидатами в SeaTable со списком'
 
     - name: content-11
       weight: 5
@@ -47,6 +48,7 @@ sections:
       items:
           - text: Используя SeaTable в качестве программного обеспечения для работы с соискателями, Вы сможете централизованно и четко регистрировать все данные о соискателях. Вы можете собирать всю необходимую информацию и документы в режиме онлайн с помощью настраиваемой и удобной веб-формы. Все заявления и кандидаты находятся в четко структурированной базе данных.
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
+      image_alt: 'Центральная база SeaTable для заявок'
 
     - name: content-11
       weight: 6
@@ -56,6 +58,7 @@ sections:
           - text: Отбор нужных талантов стал проще и эффективнее с SeaTable. Благодаря продуманным функциям, таким как сегментация и фильтрация заявок, Вы сможете целенаправленно найти лучших кандидатов. Различные виды, таблицы и уровни обеспечивают оптимальную наглядность и позволяют идеально организовать отбор кандидатов.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
+      image_alt: 'Управление талантами в SeaTable с отфильтрованными кандидатами'
 
     - name: 'content-4'
       weight: 7
@@ -91,13 +94,13 @@ sections:
       items:
           - text: Учет рабочего времени
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ''
+            image_alt: 'Шаблон SeaTable для учета рабочего времени в HR'
           - text: Подбор персонала
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ''
+            image_alt: 'Рекрутинговый шаблон SeaTable для подбора персонала'
           - text: Ввод сотрудников в должность
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ''
+            image_alt: 'Шаблон SeaTable для процессов онбординга сотрудников'
       buttons:
           - label: Откройте для себя все шаблоны
             link: 'templates'
@@ -122,12 +125,15 @@ sections:
           - headline: SeaTable Cloud
             text: Идеально подходит для компаний, которые хотят начать работу быстро и без обширной ИТ-инфраструктуры - гибкая и масштабируемая.
             image: /images/template-projektplan.png
+            image_alt: 'Облачный шаблон проекта SeaTable'
           - headline: SeaTable Server
             text: Для компаний, которые хотят сохранить полный контроль над своими данными, SeaTable Server предлагает вариант с размещением в помещении.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Шаблон плана мероприятий SeaTable Server'
           - headline: SeaTable Dedicated
             text: Для компаний, которым нужна простота облака и гибкость самостоятельной системы.
             image: /images/asana-dedicated.jpg
+            image_alt: 'Среда SeaTable Dedicated для HR‑процессов'
 
     - name: 'content-4'
       weight: 14

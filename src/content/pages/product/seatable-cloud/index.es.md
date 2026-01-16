@@ -31,6 +31,7 @@ sections:
           - text: El registro toma menos de un minuto, disfrutarás de costos transparentes, podrás escalar según necesites y no tendrás que preocuparte por nada.
           - text: ¿Qué te parece?
       image: '/images/Product-Page-Cloud_800x500-1.png'
+      image_alt: 'Interfaz de SeaTable Cloud para comenzar rápidamente con la plataforma sin código'
       buttons:
           - label: Regístrate ahora
             link: 'pages/registration'
@@ -48,6 +49,7 @@ sections:
           - text: Nuestro plan Enterprise no tiene límites. Ofrece la plataforma perfecta para todos tus desafíos.
       image: '/images/Product-Page-Cloud_800x500-2.png'
       image_position: left
+      image_alt: 'Vista de SeaTable Cloud con opciones Free, Pro y Enterprise'
       buttons:
           - label: Ver precios
             link: 'pages/prices'
@@ -68,6 +70,7 @@ sections:
       items:
           - text: Con la plataforma low-code/no-code SeaTable, puedes desarrollar procesos y soluciones eficientes para un trabajo más rápido y simple. SeaTable es tan fácil como Excel pero con el poder de una base de datos.
       image: '/images/work-smarter.jpg'
+      image_alt: 'Equipo trabajando con SeaTable Cloud como solución sin código para procesos eficientes'
 
     - name: content-6
       weight: 6
@@ -82,4 +85,5 @@ sections:
           - label: Leer el artículo del blog
             link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
+      image_alt: 'Interfaz de SeaTable Cloud que destaca el alojamiento en centros de datos alemanes'
 ---

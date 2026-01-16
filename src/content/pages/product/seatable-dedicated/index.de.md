@@ -29,6 +29,7 @@ sections:
           - text: Mit SeaTable Dedicated installieren, betreuen und warten wir Ihren ganz persönlichen SeaTable Server. Natürlich bestimmen Sie die URL, das Logo, die Farben und auch die Vorlagen. Gleichzeitig helfen wir Ihnen, Ihr System mit einer Business-Authentifizierung wie SAML oder OAuth anzubinden.
       image: '/images/Product-Page-Dedicated-700x490-1.png'
       image_position: left
+      image_alt: 'SeaTable Dedicated Oberfläche als eigenes Cloud-System mit individueller Gestaltung'
 
     - name: content-11
       weight: 3
@@ -39,6 +40,7 @@ sections:
       items:
           - text: Zum Aufbau Ihres dedizierten SeaTable Systems vertrauen wir genauso wie bei unserer eigenen Cloud auf den schweizer Anbieter Exoscale. Sie profitieren von sicheren deutschen Rechenzentren, pfeilschnellem S3-Objektspeicher und etablierten Sicherungs- und Backupprozessen.
       image: '/images/Product-Page-Dedicated-800x480-1.png'
+      iamge_alt: 'SeaTable Dedicated Infrastrukturansicht mit Hosting in deutschen Rechenzentren'
 
     - name: content-4
       weight: 4

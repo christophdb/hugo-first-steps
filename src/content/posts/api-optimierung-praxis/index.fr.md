@@ -29,7 +29,7 @@ Grâce à ces **limites généreuses**, aucune équipe ne devrait rencontrer de 
 
 De nombreux outils d’automatisation comme Zapier, Make.com, n8n ou les cron jobs classiques effectuent des requêtes à intervalles fixes, que les données aient changé ou non. Il n’est souvent pas pertinent de charger régulièrement des données la nuit ou le week-end lorsque personne n’en a besoin. Vérifiez si vous pouvez limiter les routines à des plages horaires pertinentes ou les mettre en pause pendant les périodes inactives. Cela permet d’économiser des appels API inutiles et de réduire la charge système. Les outils modernes d’automatisation offrent de nombreuses options de configuration à exploiter pleinement.
 
-![Les automatisations n’ont pas besoin de tourner 24h/24](n8n-limit-schedule.png 'Cette condition IF dans n8n, par exemple, met en pause l’exécution le week-end.')
+![Workflow n8n d’optimisation d’API qui réduit les appels API SeaTable le week-end](n8n-limit-schedule.png 'Cette condition IF dans n8n, par exemple, met en pause l’exécution le week-end.')
 
 ### Requêtes sélectives plutôt qu’un flux massif de données
 
@@ -39,7 +39,7 @@ Je vois souvent tous les enregistrements d’une base SeaTable récupérés d’
 
 En raison de la structure relationnelle de SeaTable, il est courant de récupérer d’abord des lignes de la Table 1 puis d’effectuer d’autres appels API pour suivre les liens dans ces colonnes. Cette méthode peut rapidement multiplier le nombre d’appels nécessaires. Utilisez autant que possible la [fonction Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) pour afficher les informations directement dans la première table. Vous éviterez ainsi de nombreux appels supplémentaires et rendrez vos requêtes plus efficaces.
 
-![](use-link-formula-columns.png 'Récupérez les informations pertinentes dans la table principale via un lookup pour éviter des appels API répétés')
+![Vue de tableau SeaTable avec colonnes de recherche pour réduire les appels API supplémentaires](use-link-formula-columns.png 'Récupérez les informations pertinentes dans la table principale via un lookup pour éviter des appels API répétés')
 
 ### Utilisez le cache lorsque c’est pertinent
 

@@ -70,6 +70,7 @@ sections:
           - text: Внешние ссылки
           - text: Совместное использование представлений
       image: '/images/Focuspage-Funktionen-Teamwork.png'
+      image_alt: 'Представление командной работы SeaTable с общими базами и комментариями'
 
     - name: content-1
       weight: 5
@@ -85,6 +86,7 @@ sections:
           - headline: Канбан
             text: Работайте с представлением Канбан и перемещайте свои данные с помощью drag-and-drop.
       image: '/images/Screenshots-Funktionen.png'
+      image_alt: 'Скриншот SeaTable с представлениями галереи, календаря и Канбана для визуализации данных'
 
     - name: 'content-13'
       weight: 6

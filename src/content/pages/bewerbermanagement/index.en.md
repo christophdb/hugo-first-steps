@@ -39,6 +39,7 @@ sections:
           - text: 100% GDPR compliant
           - text: Flexibly customizable data structure
       image: /images/landing-page-bewerbermanagement-1.png
+      image_alt: 'SeaTable applicant management with candidate list'
 
     - name: content-11
       weight: 5
@@ -47,6 +48,7 @@ sections:
       items:
           - text: With SeaTable as your applicant management software, you can record all applicant data centrally and clearly. You can collect all relevant information and documents online via a customizable and user-friendly web form. All applications and applicants are at a glance in a clearly [structured database]({{< relref "posts/online-datenbank-kostenlos" >}}).
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
+      image_alt: 'Central SeaTable database for applications'
 
     - name: content-11
       weight: 6
@@ -56,6 +58,7 @@ sections:
           - text: Selecting the right talent is easier and more efficient with SeaTable. Thanks to clever functions such as the segmentation and filtering of applications, you can find the best candidates in a targeted manner. Different views, tables and levels ensure optimum clarity and enable perfectly organized candidate selection.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
+      image_alt: 'SeaTable talent management with filtered applicants'
 
     - name: 'content-4'
       weight: 7
@@ -91,13 +94,13 @@ sections:
       items:
           - text: Working time recording
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ''
+            image_alt: 'SeaTable template for HR time tracking'
           - text: Personnel recruitment
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ''
+            image_alt: 'SeaTable recruiting template for talent acquisition'
           - text: Employee onboarding
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ''
+            image_alt: 'SeaTable template for employee onboarding processes'
       buttons:
           - label: Discover all templates
             link: 'templates'
@@ -122,12 +125,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to get started quickly and without an extensive IT infrastructure – flexible and scalable.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud project plan template'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server action plan template'
           - headline: SeaTable Dedicated
             text: For companies that need the simplicity of the cloud and the flexibility of a self-hosted system.
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated environment for HR workflows'
 
     - name: 'content-4'
       weight: 14

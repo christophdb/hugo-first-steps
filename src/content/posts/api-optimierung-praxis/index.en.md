@@ -29,7 +29,7 @@ Thanks to these **generous limits**, no team should run into serious trouble com
 
 Many automation tools like Zapier, Make.com, n8n, or classic cron jobs perform queries at fixed intervals—regardless of whether the data has actually changed. Often, it doesn’t make sense to load data regularly at night or on weekends when no one needs the information. Check if you can restrict routines to meaningful time windows or pause them during inactive periods. This saves unnecessary API calls and reduces system load. Modern automation tools offer numerous configuration options for this, which you should take full advantage of.
 
-![Automations often don't need to run around the clock](n8n-limit-schedule.png 'This IF condition in n8n, for example, pauses execution on weekends.')
+![n8n workflow for API optimization that reduces SeaTable API calls on weekends](n8n-limit-schedule.png 'This IF condition in n8n, for example, pauses execution on weekends.')
 
 ### Selective Queries Instead of Data Floods
 
@@ -39,7 +39,7 @@ I often see all data from a SeaTable base being fetched first and only then filt
 
 Due to SeaTable’s relational structure, it’s common to first fetch rows from Table 1 and then make additional API calls to follow the links in those columns. This approach can quickly multiply the number of required API calls. Whenever possible, use the [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) to display the needed information directly in the first table. This allows you to avoid many additional API calls and make your queries much more efficient.
 
-![](use-link-formula-columns.png 'Bring relevant information into the main table via lookup to avoid repeated API calls')
+![SeaTable table view with lookup columns to reduce additional API calls](use-link-formula-columns.png 'Bring relevant information into the main table via lookup to avoid repeated API calls')
 
 ### Use Caching Where Appropriate
 

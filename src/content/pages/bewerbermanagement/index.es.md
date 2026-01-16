@@ -39,6 +39,7 @@ sections:
           - text: 100% conforme al RGPD
           - text: Estructura de datos flexible y personalizable
       image: /images/landing-page-bewerbermanagement-1.png
+      iamge_alt: 'Gestión de candidatos en SeaTable con lista'
 
     - name: content-11
       weight: 5
@@ -47,6 +48,7 @@ sections:
       items:
           - text: Con SeaTable como software de gestión de candidatos, podrá registrar todos los datos de los candidatos de forma centralizada y clara. Puede recopilar toda la información y los documentos relevantes en línea a través de un formulario web personalizable y fácil de usar. Todas las solicitudes y candidatos están a la vista en una base de datos claramente estructurada.
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
+      image_alt: 'Base de datos central de SeaTable para solicitudes'
 
     - name: content-11
       weight: 6
@@ -56,6 +58,7 @@ sections:
           - text: Seleccionar el talento adecuado es más fácil y eficaz con SeaTable. Gracias a funciones inteligentes como la segmentación y el filtrado de candidaturas, podrá encontrar a los mejores candidatos de forma selectiva. Las diferentes vistas, tablas y niveles garantizan una claridad óptima y permiten una selección de candidatos perfectamente organizada.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
+      image_alt: 'Gestión de talento en SeaTable con candidatos filtrados'
 
     - name: 'content-4'
       weight: 7
@@ -91,13 +94,13 @@ sections:
       items:
           - text: Registro del tiempo de trabajo
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ''
+            image_alt: 'Plantilla de SeaTable para control horario en RR. HH.'
           - text: Reclutamiento de personal
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ''
+            image_alt: 'Plantilla de reclutamiento de SeaTable para captación de talento'
           - text: Incorporación de empleados
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ''
+            image_alt: 'Plantilla de SeaTable para procesos de onboarding de empleados'
       buttons:
           - label: Descubra todas las plantillas
             link: 'templates'
@@ -122,12 +125,15 @@ sections:
           - headline: SeaTable Cloud
             text: 'Perfecto para empresas que quieren empezar rápidamente y sin una amplia infraestructura informática: flexible y escalable.'
             image: /images/template-projektplan.png
+            image_alt: 'Plantilla de plan de proyecto en SeaTable Cloud'
           - headline: SeaTable Server
             text: 'Para las empresas que desean mantener un control total sobre sus datos, SeaTable Server ofrece una opción in situ.'
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Plantilla de plan de acciones de SeaTable Server'
           - headline: SeaTable Dedicated
             text: 'Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autoalojado.'
             image: /images/asana-dedicated.jpg
+            image_alt: 'Entorno SeaTable Dedicated para flujos de RR. HH.'
 
     - name: 'content-4'
       weight: 14

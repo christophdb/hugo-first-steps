@@ -29,7 +29,7 @@ Graças a esses **limites generosos**, nenhuma equipe deve ter problemas para cu
 
 Muitas ferramentas de automação como Zapier, Make.com, n8n ou cron jobs clássicos realizam consultas em intervalos fixos, independentemente de os dados terem mudado. Muitas vezes, não faz sentido carregar dados regularmente à noite ou nos fins de semana quando ninguém precisa dessas informações. Verifique se você pode limitar as rotinas a janelas de tempo relevantes ou pausá-las em períodos inativos. Assim, você economiza chamadas de API desnecessárias e reduz a carga do sistema. Ferramentas modernas de automação oferecem várias opções de configuração que devem ser aproveitadas ao máximo.
 
-![Automatizações nem sempre precisam rodar 24h por dia](n8n-limit-schedule.png 'Esta condição IF no n8n, por exemplo, pausa a execução nos fins de semana.')
+![Workflow do n8n para otimização de API que reduz chamadas à API do SeaTable aos fins de semana](n8n-limit-schedule.png 'Esta condição IF no n8n, por exemplo, pausa a execução nos fins de semana.')
 
 ### Consultas seletivas em vez de sobrecarga de dados
 
@@ -39,7 +39,7 @@ Vejo frequentemente todos os dados de uma base SeaTable sendo buscados primeiro 
 
 Devido à estrutura relacional do SeaTable, é comum buscar linhas da Tabela 1 e depois fazer mais chamadas de API para seguir os links dessas colunas. Esse método pode multiplicar rapidamente o número de chamadas necessárias. Sempre que possível, use a função [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) para exibir as informações necessárias diretamente na primeira tabela. Assim, você evita muitas chamadas adicionais e torna suas consultas muito mais eficientes.
 
-![](use-link-formula-columns.png 'Traga informações relevantes para a tabela principal via lookup para evitar chamadas repetidas de API')
+![Vista de tabela do SeaTable com colunas de pesquisa para reduzir chamadas adicionais à API](use-link-formula-columns.png 'Traga informações relevantes para a tabela principal via lookup para evitar chamadas repetidas de API')
 
 ### Use cache quando apropriado
 
