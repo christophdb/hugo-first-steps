@@ -61,6 +61,7 @@ sections:
           - text: DSGVO-konform
           - text: Berechtigungsverwaltung
       image: /images/Landing-Page-Workflow-Management_3.png
+      image_alt: 'SeaTable Workflow Management Oberfläche mit Aufgaben und Statusspalten'
 
     - name: 'content-1'
       weight: 4
@@ -77,6 +78,7 @@ sections:
           - headline: Skalierbarkeit
             text: SeaTable skaliert mit Ihnen und Ihren wachsenden Anforderungen. Es ist die ideale Lösung für Unternehmen jeder Größe, die ihre Arbeitsabläufe digitalisieren und optimieren möchten.
       image: /images/Landing-Page-Workflow-Managment.png
+      iamge_alt: 'SeaTable Ansicht zur visuellen Gestaltung individueller Workflows'
 
     - name: 'content-10'
       weight: 5
@@ -100,6 +102,7 @@ sections:
           - text: Ein entscheidender Vorteil von SeaTable ist die Möglichkeit zur Zusammenarbeit in Echtzeit. In vielen Unternehmen führen verzögerte Workflows zu ineffizienten Prozessen und verpassten Chancen. Mit SeaTable können Teams gleichzeitig und ortsunabhängig an Workflows arbeiten. Alle Änderungen werden in Echtzeit synchronisiert, sodass jeder Mitarbeiter immer auf dem neuesten Stand ist.
       image: /images/Landing-Page-Workflow-Management_2.png
       image_position: left
+      image_alt: 'SeaTable Workflow Ansicht für Echtzeit-Zusammenarbeit im Team'
 
     - name: 'content-4'
       weight: 7
@@ -138,9 +141,11 @@ sections:
           - headline: SeaTable Cloud
             text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen. Die SeaTable Cloud ist sofort einsatzbereit und bietet maximale Flexibilität und Skalierbarkeit.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Workflow Management Basis'
           - headline: SeaTable Server
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option – ideal für Unternehmen mit strengen Compliance-Vorgaben.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für selbst gehostete Workflows'
 
     - name: faq
       weight: 14
