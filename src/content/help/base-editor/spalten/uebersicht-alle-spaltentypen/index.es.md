@@ -11,7 +11,7 @@ aiases:
 seo:
     title: 'Tipos de columna en SeaTable: guía rápida de funciones'
     description: 'Conozca los 25 tipos de columna en SeaTable: texto, número, archivo, selección, fórmulas y relaciones. Explicación breve y ejemplos prácticos.'
-
+star: true
 weight: 1
 ---
 

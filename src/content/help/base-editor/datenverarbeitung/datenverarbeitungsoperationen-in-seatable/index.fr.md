@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Traitement des données dans SeaTable : opérations sur lignes'
     description: 'Réalisez des calculs et reliez des valeurs entre tableaux dans SeaTable : puissantes opérations de traitement de données à votre portée.'
+star: true
+weight: 1
 ---
 
 La fonction de traitement des données est une fonctionnalité utile de SeaTable qui vous permet d'**effectuer des opérations** dans une colonne sur plusieurs lignes. En définissant une opération, vous pouvez soit effectuer divers **calculs mathématiques**, soit établir **des relations entre des valeurs** dans différents tableaux. Les opérations de traitement des données ont un impact particulièrement important dans les ensembles de données volumineux, dans lesquels vous pouvez effectuer un grand nombre de calculs.

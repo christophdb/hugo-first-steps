@@ -9,7 +9,8 @@ url: '/de/hilfe/datenverarbeitungsoperationen-in-seatable'
 seo:
     title: 'Datenverarbeitung in SeaTable: Operationen über Zeilen'
     description: 'Mathematische und beziehungsbasierte Operationen in SeaTable – effizient Daten analysieren, berechnen und miteinander verknüpfen.'
-
+star: true
+weight: 1
 ---
 
 Die Datenverarbeitungsfunktion ist ein nützliches Feature von SeaTable, mit dem Sie **Operationen** in einer Spalte über mehrere Zeilen hinweg durchführen können. Durch die Definition einer Operation können Sie entweder diverse **mathematische Berechnungen** durchführen oder **Beziehungen zwischen Werten** in verschiedenen Tabellen herstellen. Datenverarbeitungsoperationen entfalten eine besonders große Wirkung in umfangreichen Datensätzen, in denen Sie eine hohe Anzahl an Rechenprozessen abwickeln können.

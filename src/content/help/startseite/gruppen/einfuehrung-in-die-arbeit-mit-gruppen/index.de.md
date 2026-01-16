@@ -9,7 +9,8 @@ url: '/de/hilfe/einfuehrung-in-die-arbeit-mit-gruppen'
 seo:
     title: 'Einführung: Arbeiten mit Gruppen in SeaTable leicht erklärt'
     description: 'Erfahren Sie, wie Gruppen in SeaTable die Zusammenarbeit erleichtern und Zugriffsrechte effizient organisieren. Überblick, Vorteile und Einrichtung Schritt für Schritt.'
-
+star: true
+weight: 1
 ---
 
 Innerhalb eines Teams hat nicht jedes Teammitglied automatisch Zugriff auf jede Base. Im Gegenteil: Wenn Sie eine neue Base anlegen, haben zunächst nur Sie als Ersteller Zugriff auf diese Base – und es liegt in Ihren Händen, wer gemeinsam an dieser neuen Base arbeiten darf. Für jedes Teammitglied, welches Zugriff auf die Base erhalten soll, muss eine entsprechende Base-Freigabe erstellt werden.

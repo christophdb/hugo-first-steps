@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'How shared datasets work in SeaTable: full guide'
     description: 'Learn how to use, sync and share datasets across teams and bases in SeaTable, including templates, updates and top workflow scenarios.'
-
+star: true
+weight: 1
 ---
 
 Using common datasets, it is possible to make a pre-defined table view available to other groups and users so that they can access specific data in a variety of contexts and departments. Common datasets are a powerful and extremely useful feature in SeaTable, as they can facilitate the workflow in your team.

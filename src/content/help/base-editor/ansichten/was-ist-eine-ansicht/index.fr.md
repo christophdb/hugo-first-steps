@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Qu’est-ce qu’une vue dans SeaTable ?'
     description: 'Découvrez le fonctionnement des vues dans SeaTable et personnalisez simplement l’affichage de vos données.'
+star: true
 weight: 1
 ---
 

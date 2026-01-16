@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'Funcionamento dos conjuntos de dados compartilhados SeaTable'
     description: 'Compartilhe, sincronize e utilize dados em vários times. Entenda as vantagens e modos de operação dos conjuntos de dados compartilhados.'
-
+star: true
+weight: 1
 ---
 
 Os conjuntos de dados partilhados permitem partilhar uma visão de tabela pré-definida com outros grupos e utilizadores para que possam aceder a dados específicos numa variedade de contextos e departamentos. Os conjuntos de dados partilhados são uma característica poderosa e extremamente útil no SeaTable, uma vez que podem facilitar o fluxo de trabalho na sua equipa.

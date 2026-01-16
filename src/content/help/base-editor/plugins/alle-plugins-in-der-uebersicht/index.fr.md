@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Plugins SeaTable : tous les modules expliqués et comparés'
     description: 'Tous les plugins SeaTable expliqués : calendrier, galerie, Kanban, tableau blanc, SQL, carte, organigramme, relations – fonctions et astuces.'
+star: true
+weight: 1
 ---
 
 Avec les **plugins** de SeaTable, vous avez la possibilité de voir vos données sous des angles complètement différents. Visualisez les rendez-vous, les tâches et les lieux et créez des documents mis en page et des fiches descriptives à partir de vos données. Dans l'article suivant, nous expliquons quels sont les plugins disponibles dans SeaTable et comment vous pouvez les utiliser.

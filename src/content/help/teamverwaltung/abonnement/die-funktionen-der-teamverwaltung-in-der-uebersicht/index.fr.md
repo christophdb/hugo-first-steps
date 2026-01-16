@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Fonctionnalités majeures administration d’équipe SeaTable'
     description: 'Ajoutez, supprimez, gérez groupes, droits ou abonnements. Toutes les fonctionnalités clés d’administration d’équipe SeaTable ici.'
+star: true
+weight: 1
 ---
 
 Dans SeaTable, votre équipe est au centre de l'action. Vous travaillez ensemble sur vos tâches et vos projets. C'est en équipe que vous célébrez vos succès, que vous vivez vos échecs et que vous développez votre potentiel. Dans cet article, vous découvrirez comment gérer votre équipe via l'**administration de l'équipe** et tout ce que vous pouvez y faire.

@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'Cómo funcionan los conjuntos de datos compartidos en SeaTable'
     description: 'Centralice, sincronice y reutilice datos entre grupos y bases. Descubra los beneficios y el flujo colaborativo de conjuntos compartidos.'
-
+star: true
+weight: 1
 ---
 
 Los conjuntos de datos compartidos permiten compartir una vista de tabla predefinida con otros grupos y usuarios para que puedan acceder a datos específicos en diversos contextos y departamentos. Los conjuntos de datos compartidos son una función potente y extremadamente útil en SeaTable, ya que pueden facilitar el flujo de trabajo en su equipo.

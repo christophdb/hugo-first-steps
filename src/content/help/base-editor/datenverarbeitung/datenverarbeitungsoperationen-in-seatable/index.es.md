@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Procesamiento de datos en SeaTable: operaciones avanzadas'
     description: 'Gestione cálculos y relaciones entre tablas en SeaTable para analizar y centralizar datos con operaciones matemáticas y vinculación.'
+star: true
+weight: 1
 ---
 
 La función de tratamiento de datos es una característica útil de SeaTable que le permite realizar **operaciones** en una columna a través de varias filas. Al definir una operación, puede realizar diversos **cálculos matemáticos** o establecer **relaciones entre valores** de distintas tablas. Las operaciones de procesamiento de datos son especialmente eficaces en grandes conjuntos de datos en los que puede realizar un gran número de cálculos.

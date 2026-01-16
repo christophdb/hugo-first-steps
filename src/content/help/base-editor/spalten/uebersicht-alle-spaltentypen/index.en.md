@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Overview of All Column Types in SeaTable – Functions Explained'
     description: 'Discover all 25 column types in SeaTable: text, number, file, selection fields, formulas, relations and more. Key features and best use cases included.'
-
+star: true
 weight: 1
 ---
 

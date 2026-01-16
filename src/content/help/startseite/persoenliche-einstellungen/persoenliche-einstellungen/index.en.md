@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'SeaTable Personal Settings: Security, Profile, Alerts'
     description: 'Adjust your SeaTable settings: language, password, avatar, email notifications and 2-factor authentication for greater security.'
+star: true
+weight: 1
 ---
 
 In SeaTable you manage your user account via the **personal settings**. There you can configure the protection of your account with **password** and if necessary **two-factor authentication**, your **avatar image**, the **interface language** and the **email notifications of** SeaTable and thus adapt them to your needs.

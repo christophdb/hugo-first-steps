@@ -9,6 +9,8 @@ url: '/de/hilfe/alle-plugins-in-der-uebersicht'
 seo:
     title: 'SeaTable Plugins: Die wichtigsten Erweiterungen im Überblick'
     description: 'Alle SeaTable Plugins erklärt: Kalender, Galerie, Kanban, Whiteboard, SQL, Karten, Organigramm, Beziehungen – Funktionen, Vorteile & Tipps.'
+star: true
+weight: 1
 ---
 
 Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz anderen Blickwinkeln zu sehen. Visualisieren Sie Termine, Aufgaben und Orte und erstellen Sie aus Ihren Daten gelayoutete Dokumente und Steckbriefe. Im folgenden Artikel erklären wir, welche Plugins in SeaTable zur Verfügung stehen und wie Sie mit ihnen umgehen können.

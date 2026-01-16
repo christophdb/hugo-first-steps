@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'What is a view in SeaTable?'
     description: 'Learn what a view is in SeaTable and how to create, customize and manage table views for personal productivity.'
+star: true
 weight: 1
 ---
 

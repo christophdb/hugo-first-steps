@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Automatisations SeaTable : guide, fonctions et usages'
     description: 'Structurez et automatisez vos tâches dans SeaTable : déclencheurs, actions, gestion, logs et exemples d’automatisations réussir vos workflows.'
+star: true
 weight: 1
 ---
 

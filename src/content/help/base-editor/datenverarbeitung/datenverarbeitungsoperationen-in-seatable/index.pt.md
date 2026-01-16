@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Processamento de dados no SeaTable: operações por linha'
     description: 'Aplique operações matemáticas e relacionais no SeaTable para analisar dados e conectar tabelas facilmente.'
+star: true
+weight: 1
 ---
 
 A função de processamento de dados é uma característica útil do SeaTable que lhe permite realizar **operações** numa coluna através de várias filas. Ao definir uma operação, é possível efectuar vários **cálculos matemáticos** ou estabelecer **relações entre valores** em diferentes tabelas. As operações de processamento de dados são particularmente eficazes em grandes conjuntos de dados, onde se pode efectuar um grande número de cálculos.

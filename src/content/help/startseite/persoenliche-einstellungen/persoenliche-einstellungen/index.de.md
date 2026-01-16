@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'SeaTable: Persönliche Einstellungen und Sicherheit'
     description: 'Passen Sie Ihr SeaTable-Profil an: Sprache, Passwort, Avatar, E-Mail-Empfang und 2-Faktor-Authentifizierung für maximale Sicherheit.'
+star: true
+weight: 1
 ---
 
 In SeaTable verwalten Sie Ihr Benutzerkonto über die **persönlichen Einstellungen**. Dort können Sie die Absicherung Ihres Kontos mit **Passwort** und ggf. **2-Faktor-Authentifizierung**, Ihr **Avatarbild**, die **Oberflächensprache** und die **E-Mail-Benachrichtigungen** von SeaTable konfigurieren und damit an Ihre Bedürfnisse anpassen.

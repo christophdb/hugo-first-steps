@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'Introducción al trabajo con grupos en SeaTable – fácil y rápido'
     description: 'Descubre cómo los grupos en SeaTable facilitan el trabajo colaborativo y gestionan accesos. Guía de ventajas y pasos para configurarlos correctamente.'
-
+star: true
+weight: 1
 ---
 
 Au sein d'une équipe, chaque membre de l'équipe n'a pas automatiquement accès à chaque base. Au contraire : lorsque vous créez une nouvelle base, vous êtes le seul à y avoir accès en tant que créateur - et c'est à vous de décider qui peut travailler ensemble sur cette nouvelle base. Pour chaque membre de l'équipe qui doit avoir accès à la base, vous devez créer un partage de base correspondant.

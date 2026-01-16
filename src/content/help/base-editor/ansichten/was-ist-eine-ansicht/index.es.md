@@ -11,6 +11,7 @@ aliases:
 seo:
     title: '¿Qué es una vista en SeaTable?'
     description: 'Descubra qué es una vista en SeaTable y cómo usarla para mostrar y filtrar sus datos de forma personalizada.'
+star: true
 weight: 1
 ---
 

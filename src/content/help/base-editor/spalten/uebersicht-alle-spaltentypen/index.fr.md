@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Types de colonnes dans SeaTable : aperçu complet'
     description: 'Découvrez les 25 types de colonnes SeaTable : texte, nombre, fichier, choix, formules, relations et plus encore. Explications et usages typiques.'
-
+star: true
 weight: 1
 ---
 

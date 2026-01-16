@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Automations in SeaTable: overview and best use cases'
     description: 'See how automations work in SeaTable: triggers, actions, logs, management and practical workflow examples for easier, error-free data handling.'
+star: true
 weight: 1
 ---
 

@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'SeaTable: configurações pessoais e segurança da conta'
     description: 'Ajuste SeaTable: defina idioma, senha, avatar, notificações e proteja sua conta com autenticação 2FA para maior privacidade e controle.'
+star: true
+weight: 1
 ---
 
 No SeaTable, gere a sua conta de utilizador através das **configurações pessoais**. Aí pode configurar a segurança da sua conta com **password** e, se necessário, **autenticação de 2 factores**, a sua **imagem de avatar**, o **idioma da interface** e as **notificações por correio electrónico do** SeaTable e assim adaptá-las às suas necessidades.
