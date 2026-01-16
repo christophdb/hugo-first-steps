@@ -1,0 +1,27 @@
+- 'label': 'Team'
+  'description': 'Keep track of your team members, their roles and groups, as well as their access rights to bases.'
+  'link': 'help/teamverwaltung/team'
+  'position': 'left'
+  'x': 32.4
+  'y': 4
+
+- 'label': 'Bases'
+  'description': 'Keep an overview of which bases exist, who has access, and which shares have been granted.'
+  'link': 'help/teamverwaltung/bases'
+  'position': 'right'
+  'x': 41.4
+  'y': 4
+
+- 'label': 'Subscription'
+  'description': 'Manage your subscription details, payments, and contract periods – all in one central place.'
+  'link': 'help/teamverwaltung/abonnement'
+  'position': 'left'
+  'x': 50
+  'y': 4
+
+- 'label': 'Support'
+  'description': 'Find help, create support tickets, and get quick answers to your questions.'
+  'link': 'help/teamverwaltung/support'
+  'position': 'left'
+  'x': 64
+  'y': 4
