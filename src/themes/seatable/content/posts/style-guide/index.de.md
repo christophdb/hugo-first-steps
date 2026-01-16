@@ -2,7 +2,7 @@
 title: 'Blog Design Tutorial'
 description: 'Welche Stylings gibt es? Wie nutze ich diese?'
 draft: true
-date: 2025-09-29
+date: 2026-01-16
 url: '/de/style-guide'
 color: '#eef0f2'
 

@@ -68,12 +68,3 @@ Through the team administration you have the possibility to create a **support t
 The following articles may be of interest to you:
 
 - [Open a support ticket]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
-
-## Legal
-
-In the team administration you will find the option to receive a personalized **AV contract** as well as to view general **legal documents**.
-
-The following articles may be of interest to you:
-
-- [Viewing the terms of use or privacy policy]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
-- [Request an AV contract]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

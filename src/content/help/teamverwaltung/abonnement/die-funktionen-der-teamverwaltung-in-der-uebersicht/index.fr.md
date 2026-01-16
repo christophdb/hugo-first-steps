@@ -68,12 +68,3 @@ Grâce à l'administration d'équipe, vous avez la possibilité de créer un **t
 Les articles suivants pourraient vous intéresser :
 
 - [Ouvrir un ticket d'assistance]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
-
-## Mentions légales
-
-Dans l'administration d'équipe, vous trouverez l'option de recevoir un **contrat AV** personnalisé ainsi que de consulter **des documents juridiques** généraux.
-
-Les articles suivants pourraient vous intéresser :
-
-- [Consulter les conditions d'utilisation ou les déclarations de confidentialité]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
-- [Demander un contrat MO]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

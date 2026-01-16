@@ -22,7 +22,7 @@ Teams with a Plus or Enterprise subscription have the option to open a ticket wi
 ## To open a support ticket
 
 1. Switch to the **team administration**.
-2. Select the **Help & Support** menu item in the **navigation**.
+2. Select the **Support** menu item in the **navigation**.
 3. Copy the **password** or put it on the clipboard.
 4. Open the **ticket system**.
 5. A new window will open. Enter your **user name** and **password** here.

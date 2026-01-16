@@ -22,7 +22,7 @@ Les équipes ayant un abonnement Plus ou Enterprise ont la possibilité d'ouvrir
 ## Comment ouvrir un ticket d'assistance
 
 1. Passez à l'**administration d'équipe**.
-2. Sélectionnez dans la **navigation** l'option de menu **Aide & Support**.
+2. Sélectionnez dans la **navigation** l'option de menu **Support**.
 3. Copiez le **mot de passe** ou placez-le dans le presse-papiers.
 4. Ouvrez le **système de tickets**.
 5. Une nouvelle fenêtre s'ouvre. Saisissez ici votre **nom d'utilisateur** et votre **mot de passe**.
