@@ -43,6 +43,7 @@ sections:
         - text: 100% em conformidade com o RGPD
         - text: estrutura de dados personalizável e flexível
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
+      image_alt: 'Registo de horas no SeaTable com visão de horas e saldos diários'
 
     - name: content-11
       weight: 5
@@ -51,6 +52,7 @@ sections:
       items:
       - text: Com uma aplicação de registo de tempo, poupa tempo e reduz o trabalho administrativo. O SeaTable oferece inúmeras vantagens para o registo de tempo em pequenas e grandes empresas! Utilize o software gratuito de base de dados SeaTable em vez de dispendiosas calculadoras de tempo de trabalho. A subscrição gratuita dá-lhe as funções básicas de uma folha de cálculo e muito mais... Ligue registos, capte informações com mais de 20 tipos de colunas e adicione caixas de verificação, botões, caixas de verificação, imagens e ficheiros. Experimente-o agora!
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
+      image_alt: 'Tabela do SeaTable para registo digital do tempo de trabalho'
 
     - name: content-11
       weight: 6
@@ -60,6 +62,7 @@ sections:
       - text: No SeaTable pode organizar o registo de horas online, de forma intuitiva e fácil de utilizar, porque os seus empregados registam as horas de trabalho através de formulários web intuitivos com instruções claras. O SeaTable cria um novo registo para cada formulário, que apenas os gestores podem ver e editar. O software calcula automaticamente as horas trabalhadas, bem como as horas extraordinárias e as horas a menos, e destaca o saldo diário a cores.
       image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
       image_position: left
+      image_alt: 'Formulário web do SeaTable para registo fácil de horas de trabalho'
 
     - name: content-11
       weight: 7
@@ -69,6 +72,7 @@ sections:
       - text: À primeira vista, o mapa de horas do SeaTable assemelha-se a outras calculadoras, mas oferece visualizações avançadas, como filtros, ordenação, agrupamento e plugins gráficos, como calendários, [quadros Kanban]({{< relref "templates/projects/kanban-board" >}}) ou estatísticas, para organizar os seus dados de forma clara. O SeaTable permite-lhe criar aplicações personalizadas, por exemplo, uma aplicação de gestão na qual pode controlar as horas extraordinárias, as férias e as baixas médicas no painel de controlo e aprovar ou rejeitar pedidos.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
+      image_alt: 'Análise de horas de trabalho no SeaTable com vistas de calendário e estatísticas'
 
     - name: content-11
       weight: 8
@@ -78,6 +82,7 @@ sections:
       - text: Quando os empregados registam os tempos de trabalho em diferentes tabelas, a sua compilação torna-se frequentemente entediante, propensa a erros e morosa. Com o SeaTable, todos os dados fluem centralmente para [uma base de dados segura e online]({{< relref "posts/online-datenbank-kostenlos" >}}). As visualizações, aprovações e autorizações permitem-lhe controlar quem vê e edita que dados - de forma eficiente, organizada e acessível em qualquer altura.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
+      image_alt: 'Vista do SeaTable com dados de horas e ausências armazenados centralmente'
 
     - name: content-11
       weight: 9
@@ -87,6 +92,7 @@ sections:
       - text: Especialmente no caso de funcionários remunerados por hora, os dados relativos ao tempo de trabalho têm de ser transferidos para o departamento de contabilidade – muitas vezes de forma trabalhosa, por e-mail ou partilha de ficheiros. Com a nossa [plataforma de IA sem código]({{< relref "/" >}}), poupa esse trabalho, [cria uma aplicação]({{< relref "posts/20250318-app-erstellen" >}}) ou partilhe os dados através de um link, opcionalmente como acesso de leitura à base completa ou apenas a uma visualização específica. No entanto, a partilha de visualizações individuais está reservada às subscrições pagas do SeaTable.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
+      image_alt: 'Vista do SeaTable para edição colaborativa de dados de horas em equipa'
 
     - name: "content-4"
       weight: 11
@@ -124,13 +130,13 @@ sections:
       items:
           - text: Registo do tempo de trabalho
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "Modelo SeaTable para registo de horas em RH"
           - text: Recrutamento de pessoal
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "Modelo SeaTable para recrutamento no seu sistema de RH"
           - text: Integração de empregados
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "Modelo SeaTable para onboarding de colaboradores no sistema de RH"
       buttons:
         - label: Descubra todos os modelos
           link: "templates"
@@ -155,12 +161,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa - flexível e escalável.
             image: /images/template-projektplan.png
+            image_alt: 'Modelo de plano de projeto no SeaTable Cloud como base para processos de RH e registo de horas'
           - headline: SeaTable Server
             text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modelo de plano de ações no SeaTable Server para workflows internos de RH'
           - headline: SeaTable Dedicated
             text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'Ambiente SeaTable Dedicated para soluções escaláveis de RH e registo de horas'
 
     - name: "content-21"
       weight: 15

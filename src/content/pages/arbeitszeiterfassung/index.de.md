@@ -42,6 +42,7 @@ sections:
         - text: 100 % DSGVO-konform
         - text: flexibel anpassbare Datenstruktur
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
+      image_alt: 'SeaTable Arbeitszeiterfassung mit Stundenübersicht und Tages-Salden'
 
     - name: content-11
       weight: 5
@@ -50,6 +51,7 @@ sections:
       items:
       - text: Mit einer Arbeitszeiterfassung App sparen Sie Zeit und reduzieren den Verwaltungsaufwand. SeaTable bietet zahlreiche Vorteile für die Zeiterfassung in kleinen und großen Unternehmen! Nutzen Sie die kostenlose SeaTable-Datenbanksoftware statt teurer Arbeitszeitrechner. Im Free-Abonnement erhalten Sie Grundfunktionen einer Tabellenkalkulation und mehr... Verknüpfen Sie Datensätze, erfassen Sie Informationen mit über 20 Spaltentypen, und fügen Sie Checkboxen, Schaltflächen, Auswahlfelder, Bilder und Dateien hinzu. Probieren Sie es jetzt aus!
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
+      iamge_alt: 'SeaTable Tabelle zur digitalen Arbeitszeiterfassung im Unternehmen'
 
     - name: content-11
       weight: 6
@@ -59,6 +61,7 @@ sections:
       - text: In SeaTable können Sie die Zeiterfassung online, intuitiv und benutzerfreundlich gestalten, denn Ihre Mitarbeiter erfassen Arbeitszeiten über intuitive Webformulare mit klaren Anweisungen. Für jedes Formular erstellt SeaTable einen neuen Eintrag, den nur Führungskräfte sehen und bearbeiten können. Automatisch berechnet die Software geleistete Stunden sowie Über- oder Unterstunden und markiert den Tages-Saldo farblich.
       image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
       image_position: left
+      iamge_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
 
     - name: content-11
       weight: 7
@@ -68,6 +71,7 @@ sections:
       - text: Die Arbeitszeit-Tabelle von SeaTable ähnelt auf den ersten Blick anderen Rechnern, bietet aber erweiterte Visualisierungen wie z. B. Filter, Sortierungen, Gruppierungen und grafische Plugins wie Kalender, [Kanban-Boards]({{< relref "templates/projects/kanban-board" >}}) oder Statistiken ordnen Ihre Daten übersichtlich. Mit SeaTable erstellen Sie individuelle Apps, z. B. eine Management-App, in der Sie Überstunden, Urlaube und Krankmeldungen auf dem Dashboard im Blick behalten und Anträge freigeben oder ablehnen.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
+      image_alt: 'SeaTable Auswertung von Arbeitszeiten mit Kalender- und Statistikansicht'
 
     - name: content-11
       weight: 8
@@ -77,6 +81,7 @@ sections:
       - text: Wenn Mitarbeiter Arbeitszeiten in verschiedenen Tabellen erfassen, wird die Zusammenführung oft mühsam, fehleranfällig und zeitaufwendig. Mit SeaTable fließen alle Daten zentral in eine sichere, [online verfügbare Datenbank]({{< relref "posts/online-datenbank-kostenlos" >}}). Über Ansichten, Freigaben und Berechtigungen steuern Sie, wer welche Daten sieht und bearbeitet – effizient, geordnet und jederzeit zugänglich.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
+      image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'
 
     - name: content-11
       weight: 9
@@ -86,6 +91,7 @@ sections:
       - text: Gerade bei stundenbasierten Mitarbeitern müssen Arbeitszeitdaten an die Buchhaltung übergeben werden – oft mühsam per E-Mail oder Filesharing. Mit unserer [KI No-Code-Plattform]({{< relref "/" >}}) sparen Sie diesen Aufwand, [erstellen Sie eine App]({{< relref "posts/20250318-app-erstellen" >}}) oder geben Sie die Daten über einen Link frei, wahlweise als Lesezugriff auf die komplette Base oder nur auf eine spezielle Ansicht. Die Freigabe einzelner Ansichten ist allerdings den kostenpflichtigen Abonnements von SeaTable vorbehalten.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
+      image_alt: 'SeaTable Ansicht zur kollaborativen Bearbeitung von Arbeitszeitdaten im Team'
 
     - name: "content-4"
       weight: 11
@@ -123,13 +129,13 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "SeaTable Template für Arbeitszeiterfassung im HR-Bereich"
           - text: Personalrekrutierung
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "SeaTable Template für Personalrekrutierung als Teil Ihres HR-Systems"
           - text: Mitarbeiter-Onboarding
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "SeaTable Template für Mitarbeiter-Onboarding im HR-System"
       buttons:
         - label: Alle Vorlagen entdecken
           link: "templates"
@@ -154,12 +160,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Basis für HR- und Zeiterfassungsprozesse'
           - headline: SeaTable Server
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für interne HR-Workflows'
           - headline: SeaTable Dedicated
             text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated Umgebung für skalierbare HR- und Zeiterfassungslösungen'
 
     - name: "content-21"
       weight: 15

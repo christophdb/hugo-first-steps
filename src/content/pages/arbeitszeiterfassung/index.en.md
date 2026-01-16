@@ -43,6 +43,7 @@ sections:
         - text: 100% GDPR compliant
         - text: flexibly customizable data structure
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
+      image_alt: 'SeaTable time tracking with hours overview and daily balances'
 
     - name: content-11
       weight: 5
@@ -51,6 +52,7 @@ sections:
       items:
       - text: With a time recording app, you save time and reduce administrative work. SeaTable offers numerous advantages for time recording in small and large companies! Use the free SeaTable database software instead of expensive working time calculators. The free subscription gives you the basic functions of a spreadsheet and more... Link records, capture information with over 20 column types, and add checkboxes, buttons, checkboxes, images and files. Try it out now!
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
+      image_alt: 'SeaTable table for digital employee time tracking'
 
     - name: content-11
       weight: 6
@@ -60,6 +62,7 @@ sections:
       - text: In SeaTable, you can make time tracking online, intuitive and user-friendly, because your employees record working times via intuitive web forms with clear instructions. SeaTable creates a new entry for each form, which only managers can see and edit. The software automatically calculates hours worked as well as overtime or undertime and highlights the daily balance in color.
       image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
       image_position: left
+      image_alt: 'SeaTable web form for user-friendly time entry'
 
     - name: content-11
       weight: 7
@@ -69,6 +72,7 @@ sections:
       - text: SeaTable's timesheet looks similar to other calculators at first glance, but offers advanced visualizations such as filters, sorting, grouping and graphical plugins such as calendars, [Kanban boards]({{< relref "templates/projects/kanban-board" >}}) or statistics to organize your data clearly. With SeaTable, you can create individual apps, e.g. a management app in which you can keep an eye on overtime, vacations and sick notes on the dashboard and approve or reject requests.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
+      image_alt: 'SeaTable analysis of working hours with calendar and statistics views'
 
     - name: content-11
       weight: 8
@@ -78,6 +82,7 @@ sections:
       - text: When employees record working times in different tables, merging them often becomes tedious, error-prone and time-consuming. With SeaTable, all data flows centrally into a secure, [online database]({{< relref "posts/online-datenbank-kostenlos" >}}). Views, approvals and authorizations allow you to control who sees and edits which data - efficiently, orderly and accessible at all times.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
+      image_alt: 'SeaTable overview with centrally stored working time and absence data'
 
     - name: content-11
       weight: 9
@@ -87,6 +92,7 @@ sections:
       - text: Especially for hourly employees, working time data must be transferred to the accounting department - often laboriously via email or file sharing. With our [AI no-code-platform]({{< relref "/" >}}), you can save this effort by [creating an app]({{< relref "posts/20250318-app-erstellen" >}}) or sharing the data via a link, either as read access to the entire base or only to a specific view. However, sharing individual views is reserved for SeaTable's paid subscriptions.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
+      image_alt: 'SeaTable view for collaborative editing of time tracking data in teams'
 
     - name: "content-4"
       weight: 11
@@ -124,13 +130,13 @@ sections:
       items:
           - text: Working time recording
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "SeaTable template for time tracking in HR"
           - text: Personnel recruitment
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "SeaTable template for recruiting as part of your HR system"
           - text: Employee onboarding
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "SeaTable template for employee onboarding in the HR system"
       buttons:
         - label: Discover all templates
           link: "templates"
@@ -155,12 +161,15 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to get started quickly and without an extensive IT infrastructure - flexible and scalable.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud project plan template as a basis for HR and time tracking processes'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server action plan template for internal HR workflows'
           - headline: SeaTable Dedicated
             text: For companies that need the simplicity of the cloud and the flexibility of a self-hosted system.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated environment for scalable HR and time tracking solutions'
 
     - name: "content-21"
       weight: 15
