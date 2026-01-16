@@ -3,7 +3,7 @@ title: 'Airtable alternative No. 1 (cloud and on-premises)'
 description: ''
 seo:
     title: 'The best Airtable alternative for your company'
-    description: 'SeaTable is the powerful Airtable alternative for teams of all sizes. Discover flexible databases, smart workflows & more'
+    description: 'SeaTable is the powerful Airtable alternative for teams of all sizes. Discover flexible databases, workflows, and AI integration.'
 date: '2025-05-02'
 url: '/airtable-alternative'
 
@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: The best Airtable alternative for your company
-      text: With SeaTable, you are choosing a no-code solution that offers you maximum flexibility, the highest data protection standards and excellent value for money. Whether you are looking for a cost-effective Airtable alternative, need a self-hosted solution or work in an international team – SeaTable is the best alternative to Airtable.<br><br>SeaTable offers an on-premises option, has fewer technical restrictions and is available in more languages. With a clear focus on flexibility and data protection, SeaTable stands out from all Airtable competitors – especially if you are looking for an Airtable on-premise alternative. For companies in the EU, SeaTable is the no-code solution par excellence and the safest alternative, as Airtable cannot fully comply with the GDPR.
+      text: With SeaTable, you are choosing an AI no-code solution that offers you **maximum flexibility, the highest data protection standards, and excellent value for money**. Whether you are looking for a cost-effective Airtable alternative, need a self-hosted solution, want to work with AI-powered workflows, or work in an international team, SeaTable is the best alternative to Airtable. SeaTable offers an on-premises option, has fewer technical restrictions, and is available in more languages. With a clear focus on flexibility and data protection, SeaTable stands out from all Airtable competitors—especially if you are looking for an on-premises Airtable alternative. SeaTable is the no-code solution par excellence and the most secure alternative, especially for companies in the EU, as Airtable cannot fully comply with the GDPR.
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -164,6 +164,23 @@ sections:
           - label: 'Register for free and get started'
             link: 'pages/registration'
             style: primary
+
+    - name: 'content-21'
+      weight: 7
+      title: AI automation in practice
+      subtitle: Smarter workflows for your team
+      text: "The specific applications made possible by **SeaTable's AI function** are particularly exciting—and the best part is that the results always end up exactly where they belong: directly in your SeaTable Base."
+      items:
+          - headline: Invoice processing (OCR & extraction)
+            text: Incoming invoices sent by email or uploaded **are automatically recognized**. The AI extracts content such as invoice numbers, dates, and amounts and stores them in a structured manner in the corresponding columns.
+          - headline: Smart support management
+            text: Support requests are analyzed in real time, sorted into categories, and automatically assigned to the right employees. This reduces response times and increases customer satisfaction.
+          - headline: Text and document summaries
+            text: Turn long reports, meeting minutes, or memos into compact overview texts in seconds. Ideal for quickly filtering the most important information from large amounts of data.
+          - headline: Multilingual recognition & translation
+            text: Easily process and translate content in different languages. A real competitive advantage for internationally active teams and collaboration across language barriers.
+          - headline: Easy operation for everyone
+            text: All AI functions are designed to be so intuitive that even AI novices with no programming knowledge can use them right away—truly no-code.
 
     - name: 'faq'
       weight: 7
