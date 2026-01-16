@@ -31,6 +31,7 @@ sections:
           - text: Регистрация займет меньше минуты, вы получаете прозрачные тарифы, возможность масштабирования и никаких забот.
           - text: Как вам такое предложение?
       image: '/images/Product-Page-Cloud_800x500-1.png'
+      image_alt: 'Интерфейс SeaTable Cloud для быстрого старта с no‑code платформой'
       buttons:
           - label: Зарегистрироваться сейчас
             link: 'pages/registration'
@@ -48,6 +49,7 @@ sections:
           - text: Наш тариф Enterprise не имеет ограничений. Это идеальная платформа для любых ваших задач.
       image: '/images/Product-Page-Cloud_800x500-2.png'
       image_position: left
+      image_alt: 'Представление SeaTable Cloud с тарифами Free, Pro и Enterprise'
       buttons:
           - label: Посмотреть цены
             link: 'pages/prices'
@@ -68,6 +70,7 @@ sections:
       items:
           - text: С low-code/no-code платформой SeaTable вы можете разрабатывать эффективные процессы и решения для более быстрой и простой работы. SeaTable прост как Excel, но обладает мощью базы данных.
       image: '/images/work-smarter.jpg'
+      image_alt: 'Команда работает с SeaTable Cloud как no‑code решением для более эффективных процессов'
 
     - name: content-6
       weight: 6
@@ -82,4 +85,5 @@ sections:
           - label: Читать статью в блоге
             link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
+      image_alt: 'Интерфейс SeaTable Cloud с указанием размещения в немецких дата‑центрах'
 ---

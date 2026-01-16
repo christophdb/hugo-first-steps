@@ -31,6 +31,7 @@ sections:
           - text: Die Registrierung dauert keine Minute, Sie profitieren von transparenten Kosten, können beliebig skalieren und müssen sich um nichts kümmern.
           - text: Wie klingt das für Sie?
       image: '/images/Product-Page-Cloud_800x500-1.png'
+      image_alt: 'SeaTable Cloud Oberfläche für den schnellen Einstieg in die AI No-Code-Plattform'
       buttons:
           - label: Jetzt registrieren
             link: 'pages/registration'
@@ -48,6 +49,7 @@ sections:
           - text: Keine Grenzen kennt unser Enterprise-Abo. Mit diesem haben Sie die perfekte Plattform für alle Ihre Herausforderungen.
       image: '/images/Product-Page-Cloud_800x500-2.png'
       image_position: left
+      image_alt: 'SeaTable Cloud Ansicht mit Free, Pro und Enterprise Abonnementoptionen'
       buttons:
           - label: Zu den Preisen
             link: 'pages/prices'
@@ -68,6 +70,7 @@ sections:
       items:
           - text: Mit der Low-Code/No-Code Plattform SeaTable entwickeln Sie effiziente Prozesse und Lösungen für ein schnelleres und einfacheres Arbeiten. SeaTable ist so einfach wie Excel aber mit der Power einer Datenbank.
       image: '/images/work-smarter.jpg'
+      image_alt: 'Team arbeitet mit SeaTable Cloud als No-Code Lösung für effizientere Prozesse'
 
     - name: content-6
       weight: 6
@@ -82,4 +85,5 @@ sections:
           - label: Zum Blog-Artikel
             link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
+      image_alt: 'SeaTable Cloud Oberfläche mit Hinweis auf Hosting in deutschen Rechenzentren'
 ---

@@ -29,7 +29,7 @@ Gracias a estos **límites generosos**, ningún equipo debería tener problemas 
 
 Muchas herramientas de automatización como Zapier, Make.com, n8n o los cron jobs clásicos realizan consultas a intervalos fijos, independientemente de si los datos han cambiado. A menudo, no tiene sentido cargar datos regularmente por la noche o los fines de semana cuando nadie los necesita. Comprueba si puedes limitar las rutinas a ventanas de tiempo relevantes o pausarlas en períodos inactivos. Así ahorrarás llamadas API innecesarias y reducirás la carga del sistema. Las herramientas modernas de automatización ofrecen muchas opciones de configuración que deberías aprovechar al máximo.
 
-![Las automatizaciones no necesitan ejecutarse las 24 horas](n8n-limit-schedule.png 'Esta condición IF en n8n, por ejemplo, pausa la ejecución los fines de semana.')
+![Flujo de trabajo de n8n para optimizar API que reduce llamadas a la API de SeaTable en fin de semana](n8n-limit-schedule.png 'Esta condición IF en n8n, por ejemplo, pausa la ejecución los fines de semana.')
 
 ### Consultas selectivas en lugar de inundación de datos
 
@@ -39,7 +39,7 @@ A menudo veo que primero se recuperan todos los datos de una base de SeaTable y 
 
 Debido a la estructura relacional de SeaTable, es común recuperar primero filas de la Tabla 1 y luego hacer más llamadas API para seguir los enlaces en esas columnas. Este método puede multiplicar rápidamente el número de llamadas necesarias. Siempre que sea posible, utiliza la función [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) para mostrar la información necesaria directamente en la primera tabla. Así evitarás muchas llamadas adicionales y harás tus consultas mucho más eficientes.
 
-![](use-link-formula-columns.png 'Lleva la información relevante a la tabla principal mediante lookup para evitar llamadas API repetidas')
+![Vista de tabla de SeaTable con columnas de búsqueda para reducir llamadas API adicionales](use-link-formula-columns.png 'Lleva la información relevante a la tabla principal mediante lookup para evitar llamadas API repetidas')
 
 ### Usa caché cuando sea apropiado
 

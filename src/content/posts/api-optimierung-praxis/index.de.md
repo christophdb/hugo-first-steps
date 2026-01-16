@@ -29,7 +29,8 @@ Dank dieser großzügig bemessenen Limits sollte bei normaler Nutzung kein Team 
 
 Viele Automationstools wie Zapier, Make.com, n8n oder klassische Cronjobs führen Abfragen in festen Intervallen aus – unabhängig davon, ob die Daten sich tatsächlich geändert haben. Dabei ist es oft nicht sinnvoll, nachts oder am Wochenende regelmäßig Daten zu laden, wenn niemand diese Informationen benötigt. Prüfe, ob du die Routinen auf sinnvolle Zeitfenster beschränken oder inaktive Zeiten pausieren kannst. So sparst du unnötige API-Calls und reduzierst die Systemlast. Moderne Automationstools bieten hierfür zahlreiche Konfigurationsmöglichkeiten, die du konsequent nutzen solltest.
 
-![Automationen müssen häufig nicht rund um die Uhr laufen](n8n-limit-schedule.png 'Diese IF-Abfrage in n8n, pausiert z.B. die Ausführung am Wochenende.')
+![n8n Workflow zur API-Optimierung, der SeaTable API-Aufrufe am Wochenende reduziert](n8n-limit-schedule.png 'Diese IF-Abfrage in n8n, pausiert z.B. die Ausführung am Wochenende.')
+
 
 ### Selektive Abfragen statt Datenflut
 
@@ -39,7 +40,7 @@ Immer wieder sehe ich, dass zunächst alle Daten aus einer SeaTable Base abgefra
 
 Durch die relationale Struktur von SeaTable kommt es häufig vor, dass du zuerst Zeilen aus Tabelle 1 abrufst und anschließend weitere API-Calls ausführst, um den Verlinkungen in diesen Spalten zu folgen. Diese Vorgehensweise kann die Anzahl der benötigten API-Aufrufe schnell vervielfachen. Setze daher, wann immer möglich, auf die [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}), um benötigte Informationen direkt in der ersten Tabelle anzuzeigen. So kannst du viele zusätzliche API-Calls vermeiden und deine Abfragen deutlich effizienter gestalten.
 
-![](use-link-formula-columns.png 'Hole relevante Informationen per Lookup in die Haupttabelle, um erneute API-Calls zu vermeiden')
+![SeaTable Tabellenansicht mit Lookup-Spalten zur Reduktion zusätzlicher API-Aufrufe](use-link-formula-columns.png 'Hole relevante Informationen per Lookup in die Haupttabelle, um erneute API-Calls zu vermeiden')
 
 ### Caching nutzen, wo es sinnvoll ist
 

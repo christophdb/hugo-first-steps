@@ -39,6 +39,7 @@ sections:
           - text: 100% conforme au RGPD
           - text: Structure de données flexible et personnalisable
       image: /images/landing-page-bewerbermanagement-1.png
+      image_alt: 'Gestion des candidatures dans SeaTable avec liste'
 
     - name: content-11
       weight: 5
@@ -47,6 +48,7 @@ sections:
       items:
           - text: Avec SeaTable comme logiciel de gestion des candidatures, vous pouvez enregistrer toutes les données relatives aux candidats de manière centralisée et claire. Vous pouvez collecter toutes les informations et tous les documents pertinents en ligne via un formulaire web personnalisable et convivial. Toutes les candidatures et tous les candidats se trouvent d'un seul coup d'œil dans une base de données clairement structurée.
       image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
+      image_alt: 'Base de données centrale SeaTable pour candidatures'
 
     - name: content-11
       weight: 6
@@ -56,6 +58,7 @@ sections:
           - text: Avec SeaTable, il est plus facile et plus efficace de sélectionner les bons talents. Grâce à des fonctions intelligentes telles que la segmentation et le filtrage des candidatures, vous pouvez trouver les meilleurs candidats de manière ciblée. Différentes vues, tables et niveaux garantissent une clarté optimale et permettent une sélection parfaitement organisée des candidats.
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
+      image_alt: 'Gestion des talents dans SeaTable avec candidats filtrés'
 
     - name: 'content-4'
       weight: 7
@@ -91,13 +94,13 @@ sections:
       items:
           - text: Enregistrement du temps de travail
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ''
+            image_alt: 'Modèle SeaTable pour suivi du temps en RH'
           - text: Recrutement de personnel
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ''
+            image_alt: 'Modèle de recrutement SeaTable pour acquisition de talents'
           - text: Embarquement des employés
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ''
+            image_alt: 'Modèle SeaTable pour processus d’onboarding des employés'
       buttons:
           - label: Découvrez tous les modèles
             link: 'templates'
@@ -122,12 +125,15 @@ sections:
           - headline: SeaTable Cloud
             text: "Parfait pour les entreprises qui souhaitent démarrer rapidement et qui ne disposent pas d'une infrastructure informatique étendue - flexible et évolutif."
             image: /images/template-projektplan.png
+            image_alt: 'Modèle de plan de projet SeaTable Cloud'
           - headline: SeaTable Server
             text: 'Pour les entreprises qui souhaitent garder un contrôle total sur leurs données, SeaTable Server offre une option sur site.'
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modèle de plan d’actions SeaTable Server'
           - headline: SeaTable Dedicated
             text: "Pour les entreprises qui ont besoin de la simplicité du cloud et de la flexibilité d'un système auto-hébergé."
             image: /images/asana-dedicated.jpg
+            image_alt: 'Environnement SeaTable Dedicated pour workflows RH'
 
     - name: 'content-4'
       weight: 14

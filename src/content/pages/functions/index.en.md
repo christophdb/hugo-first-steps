@@ -68,6 +68,7 @@ sections:
           - text: External links
           - text: Sharing views
       image: '/images/Focuspage-Funktionen-Teamwork.png'
+      image_alt: 'SeaTable teamwork view with shared bases and comments'
 
     - name: content-1
       weight: 5
@@ -83,6 +84,7 @@ sections:
           - headline: Kanban
             text: Work with the Kanban view and move your data using drag-and-drop.
       image: '/images/Screenshots-Funktionen.png'
+      image_alt: 'SeaTable screenshot with gallery, calendar and Kanban view for data visualization'
 
     - name: 'content-13'
       weight: 6
