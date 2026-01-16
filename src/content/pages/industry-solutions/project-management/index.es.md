@@ -69,6 +69,7 @@ sections:
       - text: Implementación sin conocimientos de programación
       - text: 100 por ciento conforme con el RGPD
     image: /images/Projektmanagement_Teamwork-6.png
+    iamge_alt: 'Vista de gestión de proyectos en SeaTable para trabajo en equipo con tareas y estados'
 
   - name: content-1
     weight: 9
@@ -84,6 +85,7 @@ sections:
       - headline: Solución económica
         text: Con SeaTable puede configurar su software de gestión de proyectos individualmente. Sólo paga por las funciones que realmente necesita, o puede utilizar la versión gratuita, que puede actualizar si es necesario, de forma transparente y justa.
     image: /images/Projektmanagement_Group-3.png
+    image_alt: 'Equipo que comenta proyectos usando SeaTable como herramienta de gestión'
 
   - name: 'content-8'
     weight: 10
@@ -93,13 +95,13 @@ sections:
     items:
       - text: Plan de proyecto
         image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-        image_alt: ""
+        image_alt: "Plantilla de plan de proyecto de SeaTable con tareas e hitos"
       - text: Gestión de la cartera de proyectos
         image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-        image_alt: ""
+        image_alt: "Plantilla de gestión de portafolio de proyectos de SeaTable para varios proyectos"
       - text: Plan de acción
         image: /images/Projektmanagement_Action-Plan_Template_9.png
-        image_alt: ""
+        image_alt: "Plantilla de plan de acción de SeaTable para tareas y responsabilidades"
     buttons:
       - label: Explore nuestras plantillas
         link: 'templates'
@@ -142,18 +144,23 @@ sections:
       - headline: Planificador de proyectos
         text: Gestione cada actividad de su próximo proyecto con un planificador de proyectos claro. Con la plantilla de plan de proyecto de SeaTable, tiene la herramienta perfecta de planificación de proyectos para proyectos grandes y pequeños.
         image: /images/Projektmanagement_-Project-Plan_10.png
+        iamge_alt: 'Vista de planificador de proyectos de SeaTable con línea temporal y tareas'
       - headline: Plan de estructura del proyecto
         text: Con un plan de estructura de proyecto, usted divide su proyecto en subtareas y paquetes de trabajo planificables. Gracias a la plantilla de planificación de la estructura del proyecto de SeaTable, esto es muy fácil.
         image: /images/Projektmanagement_Projektstrukturplan_7.png
+        image_alt: 'Plantilla de estructura de proyecto de SeaTable con paquetes de trabajo'
       - headline: Calendario del proyecto
         text: Un calendario de proyecto es un método para visualizar la secuencia cronológica de las actividades en un proyecto. En SeaTable, puede utilizar el plugin de la línea de tiempo para esto.
         image: /images/1-Projektmanagement_Projektablaufplan_7.png
+        image_alt: 'Cronograma de proyecto de SeaTable con secuencia temporal de actividades'
       - headline: Gestión de la cartera de proyectos
         text: La gestión de la cartera de proyectos (PPM) incluye la gestión de todos los proyectos de una organización. La gestión de la cartera de proyectos requiere muchos datos y requiere la evaluación de muchos proyectos.
         image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
+        image_alt: 'Vista de portafolio de proyectos de SeaTable para varios proyectos en paralelo'
       - headline: Aplicación de gestión de proyectos
         text: Con el constructor de aplicaciones sin código de SeaTable, puede crear aplicaciones basadas en la web, sin necesidad de conocimientos de programación. En una aplicación de gestión de proyectos o aplicación de planificación de proyectos, puede controlar con precisión quién puede ver qué datos y cómo se visualizan.
         image: /images/Projektmanagement_Universal-App_7.png
+        image_alt: 'Aplicación de gestión de proyectos de SeaTable como interfaz web de planificación'
         # TODO: doppelte Bilder mit (1) entfernen.
 
   - name: "content-21"

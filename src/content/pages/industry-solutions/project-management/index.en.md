@@ -70,6 +70,7 @@ sections:
         - text: Implementation without programming knowledge
         - text: 100 percent GDPR-compliant
       image: /images/Projektmanagement_Teamwork-6.png
+      image_alt: 'SeaTable project management view for teamwork with tasks and statuses'
 
     - name: content-1
       weight: 9
@@ -85,6 +86,7 @@ sections:
       - headline: Inexpensive solution
         text: With SeaTable, you can configure your project management software individually. You only pay for functions that you really need, or you can use the free version, which you can upgrade if necessary – transparent and fair.
       image: /images/Projektmanagement_Group-3.png
+      iamge_alt: 'Team discussing projects using SeaTable as a project management tool'
     - name: 'content-8'
       weight: 10
       title: Templates to start your next project
@@ -94,13 +96,13 @@ sections:
       items:
           - text: Project plan
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            image_alt: ""
+            image_alt: "SeaTable project plan template with tasks and milestones"
           - text: Project portfolio management
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            image_alt: ""
+            image_alt: "SeaTable project portfolio management template for multiple projects"
           - text: Action plan
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            image_alt: ""
+            image_alt: "SeaTable action plan template for tasks and responsibilities"
       buttons:
         - label: Browse our templates
           link: 'templates'
@@ -143,18 +145,23 @@ sections:
       - headline: Project planner
         text: Manage every activity of your next project with a clear project planner. With SeaTable's project plan template, you have the perfect project planning tool for projects large and small.
         image: /images/Projektmanagement_-Project-Plan_10.png
+        iamge_alt: 'SeaTable project planner view with timeline and tasks'
       - headline: Project structure plan
         text: With a project structure plan, you divide your project into plannable subtasks and work packages. Thanks to SeaTable's project structure planning template, this is very easy.
         image: /images/Projektmanagement_Projektstrukturplan_7.png
+        image_alt: 'SeaTable work breakdown structure template with work packages'
       - headline: Project schedule
         text: A project schedule is a method to visualize the chronological sequence of activities in a project. In SeaTable, you can use the timeline plugin for this.
         image: /images/1-Projektmanagement_Projektablaufplan_7.png
+        image_alt: 'SeaTable project schedule with chronological sequence of activities'
       - headline: Project portfolio management
         text: Project portfolio management (PPM) includes the management of all projects in an organization. Project Portfolio Management is data-intensive and requires the evaluation of many projects.
         image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
+        image_alt: 'SeaTable project portfolio view for multiple parallel projects'
       - headline: Project management App
         text: With the No-Code-App-Builder of SeaTable, you can create web-based apps – without any programming knowledge. In such a project management App or project planning App you can precisely control who can see which data and how it is visualized.
         image: /images/Projektmanagement_Universal-App_7.png
+        image_alt: 'SeaTable project management app as a web-based project planning interface'
         # TODO: doppelte Bilder mit (1) entfernen.
 
     - name: "content-21"

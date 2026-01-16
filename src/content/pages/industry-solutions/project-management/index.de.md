@@ -67,6 +67,7 @@ sections:
         - text: Implementierung ohne Programmierkenntnisse
         - text: 100 Prozent DSGVO-konform
       image: /images/Projektmanagement_Teamwork-6.png
+      image_alt: 'SeaTable Projektmanagement Ansicht für Teamarbeit mit Aufgaben und Status'
 
     - name: content-1
       weight: 9
@@ -82,6 +83,7 @@ sections:
       - headline: Preiswerte Lösung
         text: Mit SeaTable können Sie Ihre Projektmanagement Software individuell konfigurieren. Sie zahlen nur für Funktionen, die Sie wirklich brauchen, oder nutzen die kostenlose Version, die Sie bei Bedarf upgraden können – transparent und fair.
       image: /images/Projektmanagement_Group-3.png
+      image_alt: 'Team bespricht Projekte mit SeaTable als Projektmanagement Tool'
 
 
     - name: 'content-8'
@@ -94,13 +96,13 @@ sections:
       items:
           - text: Projektplan
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            image_alt: ""
+            image_alt: "SeaTable Vorlage für Projektplan mit Aufgaben und Meilensteinen"
           - text: Projektportfoliomanagement
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            image_alt: ""
+            image_alt: "SeaTable Projektportfoliomanagement Vorlage für mehrere Projekte"
           - text: Maßnahmenplan
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            image_alt: ""
+            image_alt: "SeaTable Maßnahmenplan Vorlage für Aufgaben und Verantwortlichkeiten"
       buttons:
         - label: Durchsuchen Sie unsere Vorlagen
           link: 'templates'
@@ -143,18 +145,23 @@ sections:
       - headline: Projektplaner
         text: Managen Sie jede Aktivität Ihres nächsten Projekts mit einem übersichtlichen Projektplaner. Mit der Projektplan Vorlage von SeaTable haben Sie das perfekte Projektplanungstool für große wie kleine Projekte.
         image: /images/Projektmanagement_-Project-Plan_10.png
+        image_alt: 'SeaTable Projektplaner Ansicht mit Zeitachse und Aufgaben'
       - headline: Projektstrukturplan
         text: Mit einem Projektstrukturplan unterteilen Sie Ihr Projekt in planbare Teilaufgaben und Arbeitspakete. Dank der Projektstrukturplanung Vorlage von SeaTable geht das kinderleicht.
         image: /images/Projektmanagement_Projektstrukturplan_7.png
+        image_alt: 'SeaTable Projektstrukturplan Vorlage mit Arbeitspaketen'
       - headline: Projektablaufplan
         text: Ein Projektablaufplan ist eine Methode, um die zeitliche Abfolge der Aktivitäten in einem Projekt zu visualisieren. In SeaTable können Sie dafür das Timeline-Plugin nutzen.
         image: /images/1-Projektmanagement_Projektablaufplan_7.png
+        image_alt: 'SeaTable Projektablaufplan mit zeitlicher Abfolge der Aktivitäten'
       - headline: Projektportfoliomanagement
         text: Das Projektportfoliomanagement (PPM) umfasst die Steuerung aller Projekte einer Organisation. Projekt Portfolio Management ist datenintensiv und erfordert die Auswertung vieler Projekte.
         image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
+        image_alt: 'SeaTable Projektportfolio Ansicht für mehrere parallele Projekte'
       - headline: Projektmanagement App
         text: Mit dem No-Code-App-Builder von SeaTable erstellen Sie webbasierte Apps – ganz ohne Programmierkenntnisse. In einer solchen Projekt Management App oder Projektplanungs App können Sie genau steuern, wer welche Daten sehen kann und wie diese visualisiert werden.
         image: /images/Projektmanagement_Universal-App_7.png
+        image_alt: 'SeaTable Projektmanagement App als webbasierte Projektplanungsoberfläche'
         # TODO: doppelte Bilder mit (1) entfernen.
 
     - name: "content-21"
