@@ -15,7 +15,6 @@ tags:
 color: '#de9e13'
 register:
    show: true
-draft: true
 ---
 
 Künstliche Intelligenz (KI) ist gerade dabei, das Leben im 21. Jahrhundert zu revolutionieren. Sie verändert die Art und Weise, wie wir arbeiten, Informationen beschaffen und Entscheidungen treffen. Kaum ein anderes Thema wird zurzeit so intensiv in Wirtschaft, Politik, Wissenschaft und Gesellschaft diskutiert. Während die einen den technologischen Fortschritt feiern, sehen die anderen erhebliche Risiken. 
@@ -185,7 +184,7 @@ Um KI Systeme mithilfe von Lernalgorithmen und großen Datenmengen zu trainieren
 {{< /faq >}}
 
 {{< faq "Datenschutz und Abhängigkeit von Tech-Riesen" >}}
-Der Einsatz von künstlicher Intelligenz erfordert große Datenmengen, in denen sich auch viele sensible, personenbezogene Informationen befinden können. Beispielsweise sammeln die Betreiber von sozialen Netzwerken Unmengen von Nutzerdaten, die später zur Ausspielung personalisierter Werbung genutzt werden können, um Wahl- oder Kaufentscheidungen zu beeinflussen. Es ist daher problematisch, dass die meisten dieser Daten in den Händen weniger Tech-Riesen aus den USA und China liegen. Auch die KI-Modelle an sich kommen überwiegend aus den USA, was zu einer hohen technologischen Abhängigkeit führt.
+Der Einsatz von künstlicher Intelligenz erfordert große Datenmengen, in denen sich auch viele sensible, personenbezogene Informationen befinden können. Beispielsweise sammeln die Betreiber von sozialen Netzwerken Unmengen von Nutzerdaten, die später zur Ausspielung personalisierter Werbung genutzt werden können, um Wahl- oder Kaufentscheidungen zu beeinflussen. Es ist daher problematisch, dass die meisten dieser Daten in den Händen weniger Tech-Riesen aus den USA und China liegen. Auch die KI-Modelle an sich kommen überwiegend aus den USA, was zu einer hohen technologischen Abhängigkeit führt. Eine europäische Alternative sind die Open-Source-Sprachmodelle von Mistral AI.
 {{< /faq >}}
 
 ## Best Practices für den Umgang mit KI in Unternehmen
@@ -195,19 +194,30 @@ Nach einer [EY Umfrage](https://www.ittbusiness.at/article/europaeische-unterneh
 Um die wirtschaftlichen Chancen zu nutzen und künstliche Intelligenz in Ihrem Unternehmen sinnvoll und sicher einzusetzen, haben sich einige Grundsätze bewährt:  
   
 - **Menschliche Kontrolle**: Künstliche Intelligenz sollte Entscheidungen unterstützen, aber nicht alleine treffen. Die Ergebnisse sollten Sie nicht einfach glauben, sondern immer hinterfragen und prüfen.  
-- **Transparenz**: Kommunizieren Sie Ihren Mitarbeitern klar die Rahmenbedingungen für den Einsatz von KI. Damit vermeiden Sie, dass eine Schatten IT entsteht, von der Sie nichts wissen.  
-- **Weiterbildung**: KI-Kompetenz wird immer mehr zum Erfolgsfaktor. Machen Sie Ihre Mitarbeiter fit für das Prompting und klären Sie die Frage: Wie funktioniert künstliche Intelligenz?
+- **Transparenz**: Kommunizieren Sie Ihren Mitarbeitern klar die Rahmenbedingungen für den Einsatz von KI. Damit vermeiden Sie, dass eine Schatten IT entsteht, von der Sie nichts wissen. Ebenso ist der Einsatz von KI gegenüber Kunden kenntlich zu machen.
+- **Weiterbildung**: KI-Kompetenz wird immer mehr zum Erfolgsfaktor. Machen Sie Ihre Mitarbeiter fit für das Prompting und klären Sie mit ihnen die Fragen: Wie funktioniert künstliche Intelligenz und wo wird künstliche Intelligenz eingesetzt?
 - **Datensouveränität**: Wenn Sie KI ohne Kompromisse beim [Datenschutz]({{< relref "posts/digitale-souveraenitaet" >}}) nutzen möchten, lohnt es sich, ein KI-Modell auf Ihren eigenen Servern zu betreiben oder zumindest [Cloud-Plattformen]({{< relref "posts/202503-cloud-computing" >}}) innerhalb der EU zu verwenden.
+- **Compliance**: Stellen Sie sicher, dass die KI Systeme in Ihrem Unternehmen alle geltenden Gesetze und Compliance-Richtlinien erfüllen, insbesondere den EU AI Act, denn im Zweifelsfall müssen Sie haften.
+
+### Was ist der EU AI Act?
+
+Die KI-Verordnung der Europäischen Union ist das weltweit erste Gesetz zur umfassenden Regulierung von künstlicher Intelligenz. Es ist am 1. August 2024 in Kraft getreten und ab dem 2. August 2026 in vollem Umfang gültig. Der EU AI Act teilt KI-Systeme prinzipiell in vier Risikoklassen ein, für die unterschiedliche Regeln gelten:
+- **Unzulässiges Risiko**: Verboten sind z. B. Social Scoring, biometrische Echtzeitüberwachung oder manipulative Verhaltenssteuerung, weil sie nicht mit dem Schutz der Grundrechte vereinbar sind.
+- **Hohes Risiko**: Streng reguliert ist der Einsatz von KI u. a. bei Bewerbungsverfahren, Kreditvergaben und medizinischen Diagnosen. Hier gibt es hohe Anforderungen an Datenqualität, Transparenz, menschliche Aufsicht und Dokumentation.
+- **Begrenztes Risiko**: Sobald Menschen mit KI (z. B. Chatbots) interagieren, sind sie darüber zu informieren und KI-generierte Inhalte als solche zu kennzeichen.
+- **Minimales Risiko**: KI-Anwendungen wie Spam-Filter, Rechtschreibprüfungen oder automatische Textvorschläge in Suchmaschinen unterliegen keinen zusätzlichen Pflichten.
+
+Für etwaige Gesetzesverstöße und Schäden durch KI-Anwendungen haften die Anbieter und Betreiber der Systeme mit bis zu 15 Millionen Euro oder 3 Prozent ihres weltweiten Jahresumsatzes.
 
 ## Mit SeaTable sicher künstliche Intelligenz einsetzen
 
-Als AI No-Code Plattform erlaubt SeaTable KI-gestützte Automationen, mit denen Sie Ihr [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) effizienter gestalten können. Datensätze auswerten, modifizieren und erweitern, Texte übersetzen und relevante Informationen aus Dokumenten extrahieren – all das ist mit den KI-Funktionen möglich.  
+Als KI No-Code Plattform erlaubt SeaTable KI-gestützte Automationen, mit denen Sie Ihr [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) effizienter gestalten können. Datensätze auswerten, modifizieren und erweitern, Texte übersetzen und relevante Informationen aus Dokumenten extrahieren – all das ist mit den KI-Funktionen möglich.
 
 ![KI Features in SeaTable](ki-features-seatable.jpg)
 
-Und zwar ganz ohne Sorgenfalten in Sachen Datenschutz: SeaTable unterstützt eine Vielzahl von KI-Modellen verschiedener Anbieter, die DSGVO-konform in deutschen Rechenzentren betrieben werden. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.  
+Und zwar ganz ohne Sorgenfalten in Sachen Datenschutz: Neben Gemma 3 unterstützt SeaTable künftig weitere KI-Modelle verschiedener Anbieter, die DSGVO-konform in deutschen Rechenzentren betrieben werden. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.
   
-Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen Infrastruktur nutzen. SeaTable AI, eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.
+Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen Infrastruktur nutzen. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.
 
 {{< newsletter title="Bleiben Sie informiert" subtitle="" submit="Jetzt anmelden" >}}
 
@@ -219,7 +229,7 @@ Abonnieren Sie unseren **Newsletter** und bleiben Sie auf dem Laufenden, wie Sie
 
 Künstliche Intelligenz ist womöglich die mächtigste Technologie unserer Zeit. Sie kann Prozesse optimieren, automatisieren und beschleunigen, mit Unmengen von Daten rechnen und neue Erkenntnisse liefern – was sie für Unternehmen sehr wertvoll macht. Dennoch ist künstliche Intelligenz heute noch meilenweit davon entfernt, ein denkendes Wesen zu sein. Sie kann menschliche Fähigkeiten imitieren, muss aber von Menschen entwickelt, trainiert und gesteuert werden.
 
-Der verantwortungsvolle Umgang mit KI entscheidet darüber, ob sie zum Vorteil oder zum Problem wird. Wenn Sie künstliche Intelligenz in Zukunft als Werkzeug für Ihre Arbeit einsetzen, sollten Sie klug, transparent und datenschutzkonform vorgehen. So können Sie langfristig von Effizienzsteigerungen und Produktivitätsgewinnen profitieren.
+Der verantwortungsvolle Umgang mit KI entscheidet darüber, ob sie zum Vorteil oder zum Problem wird. Wenn Sie künstliche Intelligenz in Zukunft als Werkzeug für Ihre Arbeit einsetzen, sollten Sie klug, transparent und regelkonform vorgehen. So können Sie langfristig von Effizienzsteigerungen und Produktivitätsgewinnen profitieren.
 
 ## Häufige Fragen zum Thema KI
 
