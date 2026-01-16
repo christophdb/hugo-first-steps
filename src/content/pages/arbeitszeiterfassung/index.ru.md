@@ -43,6 +43,7 @@ sections:
         - text: 100% соответствие требованиям GDPR
         - text: Гибко настраиваемая структура данных
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
+      image_alt: 'Учет рабочего времени в SeaTable с обзором часов и дневных остатков'
 
     - name: content-11
       weight: 5
@@ -51,6 +52,7 @@ sections:
       items:
       - text: С приложением для учета рабочего времени Вы экономите время и сокращаете объем административной работы. SeaTable предлагает множество преимуществ для учета рабочего времени в малых и больших компаниях! Используйте бесплатное программное обеспечение базы данных SeaTable вместо дорогих калькуляторов рабочего времени. Бесплатная подписка дает Вам основные функции электронной таблицы и даже больше... Связывайте записи, фиксируйте информацию с помощью более чем 20 типов столбцов, добавляйте флажки, кнопки, флажки, изображения и файлы. Попробуйте прямо сейчас!
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
+      image_alt: 'Таблица SeaTable для цифрового учета рабочего времени'
 
     - name: content-11
       weight: 6
@@ -60,6 +62,7 @@ sections:
       - text: В SeaTable Вы можете организовать учет рабочего времени онлайн, интуитивно понятный и удобный для пользователя, поскольку Ваши сотрудники регистрируют рабочее время с помощью интуитивно понятных веб-форм с четкими инструкциями. SeaTable создает новую запись для каждой формы, которую могут видеть и редактировать только менеджеры. Программа автоматически подсчитывает отработанные часы, а также сверхурочные и недоработанные часы и выделяет ежедневный баланс цветом.
       image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
       image_position: left
+      image_alt: 'Веб‑форма SeaTable для удобного ввода рабочего времени'
 
     - name: content-11
       weight: 7
@@ -69,6 +72,7 @@ sections:
       - text: На первый взгляд таблица рабочего времени SeaTable похожа на другие калькуляторы, но предлагает расширенные возможности визуализации, такие как фильтры, сортировка, группировка и графические плагины, такие как календарь, [доски Kanban]({{< relref "templates/projects/kanban-board" >}}) или статистика, которые позволяют упорядочить ваши данные. С помощью SeaTable вы можете создавать индивидуальные приложения, например, приложение для управления, в котором вы можете отслеживать сверхурочную работу, отпуска и больничные на панели инструментов, а также утверждать или отклонять заявки.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
+      image_alt: 'Анализ рабочего времени в SeaTable с календарем и статистикой'
 
     - name: content-11
       weight: 8
@@ -78,6 +82,7 @@ sections:
       - text: Когда сотрудники регистрируют рабочее время в разных таблицах, их объединение часто становится трудоемким, подверженным ошибкам и отнимающим много времени процессом. С SeaTable все данные централизованно поступают в безопасную [онлайн-базу данных]({{< relref "posts/online-datenbank-kostenlos" >}}). С помощью просмотров, разрешений и прав доступа вы можете контролировать, кто видит и редактирует какие данные — эффективно, упорядоченно и в любое время.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
+      image_alt: 'Обзор SeaTable с централизованными данными по рабочему времени и отсутствиям'
 
     - name: content-11
       weight: 9
@@ -87,6 +92,7 @@ sections:
       - text: Особенно в случае сотрудников, работающих по часам, данные о рабочем времени должны передаваться в бухгалтерию — часто с большим трудом по электронной почте или через файлообменники. С нашей [платформой AI No-Code]({{< relref "/" >}}) вы избавитесь от этих хлопот, [создадите приложение]({{< relref "posts/20250318-app-erstellen" >}}) или предоставить данные по ссылке, выбрав либо полный доступ к базе данных, либо только к определенному представлению. Однако предоставление доступа к отдельным представлениям доступно только для платных подписок SeaTable.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
+      image_alt: 'Представление SeaTable для совместной работы над данными учета времени'
 
     - name: "content-4"
       weight: 11
@@ -124,13 +130,13 @@ sections:
       items:
           - text: Учет рабочего времени
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "Шаблон SeaTable для учета рабочего времени в HR"
           - text: Подбор персонала
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "Шаблон SeaTable для рекрутинга в вашей HR‑системе"
           - text: Ввод сотрудников в должность
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "Шаблон SeaTable для онбординга сотрудников в HR‑системе"
       buttons:
         - label: Откройте для себя все шаблоны
           link: "templates"
@@ -155,12 +161,15 @@ sections:
           - headline: SeaTable Cloud
             text: Идеально подходит для компаний, которые хотят начать работу быстро и без обширной ИТ-инфраструктуры - гибкая и масштабируемая.
             image: /images/template-projektplan.png
+            image_alt: 'Облачный шаблон плана проекта SeaTable как основа для HR‑ и процессов учета времени'
           - headline: SeaTable Server
             text: Для компаний, которые хотят сохранить полный контроль над своими данными, SeaTable Server предлагает возможность размещения в помещении.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Шаблон плана мероприятий SeaTable Server для внутренних HR‑процессов'
           - headline: SeaTable Dedicated
             text: Для компаний, которым нужна простота облака и гибкость самостоятельной системы.  
             image: /images/asana-dedicated.jpg
+            iamge_alt: 'Среда SeaTable Dedicated для масштабируемых HR‑ и систем учета рабочего времени'
 
     - name: "content-21"
       weight: 15

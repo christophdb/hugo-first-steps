@@ -43,6 +43,7 @@ sections:
         - text: 100% conforme con la RGPD
         - text: Estructura de datos flexible y personalizable
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
+      image_alt: 'Registro de horas en SeaTable con resumen y saldos diarios'
 
     - name: content-11
       weight: 5
@@ -51,6 +52,7 @@ sections:
       items:
       - text: Con una aplicación de registro de tiempos, ahorrará tiempo y reducirá el trabajo administrativo. ¡SeaTable ofrece numerosas ventajas para el registro de tiempos en pequeñas y grandes empresas! Utilice el software gratuito de base de datos SeaTable en lugar de las costosas calculadoras de tiempo de trabajo. La suscripción gratuita le ofrece las funciones básicas de una hoja de cálculo y mucho más... Vincule registros, capture información con más de 20 tipos de columnas y añada casillas, botones, casillas de verificación, imágenes y archivos. ¡Pruébela ya!
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
+      image_alt: 'Tabla de SeaTable para registro digital de horas de trabajo'
 
     - name: content-11
       weight: 6
@@ -60,6 +62,7 @@ sections:
       - text: En SeaTable puede organizar el registro de tiempos en línea, de forma intuitiva y fácil de usar, ya que sus empleados registran los tiempos de trabajo a través de formularios web intuitivos con instrucciones claras. SeaTable crea una nueva entrada para cada formulario, que sólo los gerentes pueden ver y editar. El programa calcula automáticamente las horas trabajadas, así como las horas extraordinarias y las horas insuficientes, y resalta en color el saldo diario.
       image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
       image_position: left
+      image_alt: 'Formulario web de SeaTable para registrar horas de trabajo fácilmente'
 
     - name: content-11
       weight: 7
@@ -69,6 +72,7 @@ sections:
       - text: La hoja de horas de SeaTable se parece a primera vista a otras calculadoras, pero ofrece visualizaciones avanzadas como filtros, clasificación, agrupación y complementos gráficos como calendarios, tableros Kanban o estadísticas para organizar sus datos con claridad. SeaTable le permite crear aplicaciones personalizadas, por ejemplo, una aplicación de gestión en la que puede controlar las horas extraordinarias, las vacaciones y las bajas por enfermedad en el cuadro de mandos y aprobar o rechazar las solicitudes.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
+      image_alt: 'Análisis de horas de trabajo en SeaTable con vistas de calendario y estadísticas'
 
     - name: content-11
       weight: 8
@@ -78,6 +82,7 @@ sections:
       - text: Cuando los empleados registran los tiempos de trabajo en diferentes tablas, cotejarlos suele resultar tedioso, propenso a errores y lento. Con SeaTable, todos los datos fluyen de forma centralizada a una base de datos en línea segura. Las vistas, aprobaciones y autorizaciones le permiten controlar quién ve y edita qué datos, de forma eficaz, organizada y accesible en todo momento.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
+      image_alt: 'Vista de SeaTable con datos de horas trabajadas y ausencias almacenados centralmente'
 
     - name: content-11
       weight: 9
@@ -87,6 +92,7 @@ sections:
       - text: Especialmente en el caso de los empleados por horas, los datos del tiempo de trabajo deben transferirse al departamento de contabilidad, a menudo de forma laboriosa a través del correo electrónico o compartiendo archivos. Con SeaTable, puede ahorrarse este esfuerzo creando una aplicación o compartiendo los datos a través de un enlace, ya sea como acceso de lectura a toda la base o sólo a una vista específica. Sin embargo, el uso compartido de vistas individuales está reservado a las suscripciones de pago de SeaTable.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
+      image_alt: 'Vista de SeaTable para edición colaborativa de datos de horas en equipo'
 
     - name: "content-4"
       weight: 11
@@ -124,13 +130,13 @@ sections:
       items:
           - text: Registro del tiempo de trabajo
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "Plantilla de SeaTable para registro de horas en RR. HH."
           - text: Reclutamiento de personal
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "Plantilla de SeaTable para reclutamiento dentro de su sistema de RR. HH."
           - text: Incorporación de empleados
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "Plantilla de SeaTable para onboarding de empleados en el sistema de RR. HH."
       buttons:
         - label: Descubra todas las plantillas
           link: "templates"
@@ -155,12 +161,15 @@ sections:
           - headline: SeaTable Cloud
             text: "Perfecto para empresas que quieren empezar rápidamente y sin una amplia infraestructura informática: flexible y escalable."
             image: /images/template-projektplan.png
+            image_alt: 'Plantilla de plan de proyecto en SeaTable Cloud como base para procesos de RR. HH. y registro horario'
           - headline: SeaTable Server
             text: Para las empresas que desean mantener un control total sobre sus datos, SeaTable Server ofrece una opción in situ.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Plantilla de plan de acciones en SeaTable Server para flujos internos de RR. HH.'
           - headline: SeaTable Dedicated
             text: Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autoalojado. 
             image: /images/asana-dedicated.jpg
+            image_alt: 'Entorno SeaTable Dedicated para soluciones escalables de RR. HH. y registro horario'
 
     - name: "content-21"
       weight: 15

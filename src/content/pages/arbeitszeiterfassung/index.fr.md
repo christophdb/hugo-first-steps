@@ -43,6 +43,7 @@ sections:
         - text: 100% conforme à au RGPD
         - text: structure de données adaptable de manière flexible
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
+      image_alt: 'Suivi du temps SeaTable avec vue des heures et soldes journaliers'
 
     - name: content-11
       weight: 5
@@ -51,6 +52,7 @@ sections:
       items:
       - text: Une application de suivi du temps de travail vous permet de gagner du temps et de réduire les tâches administratives. SeaTable offre de nombreux avantages pour la gestion des temps dans les petites et grandes entreprises ! Utilisez le logiciel gratuit de base de données SeaTable plutôt que des calculateurs de temps de travail coûteux. Avec l'abonnement gratuit, vous bénéficiez des fonctions de base d'un tableur et plus encore... Reliez des enregistrements, saisissez des informations avec plus de 20 types de colonnes, et ajoutez des cases à cocher, des boutons, des cases d'option, des images et des fichiers. Essayez-le maintenant !
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
+      image_alt: 'Tableau SeaTable pour suivi numérique du temps de travail'
 
     - name: content-11
       weight: 6
@@ -60,6 +62,7 @@ sections:
       - text: SeaTable vous permet de gérer les temps de travail en ligne, de manière intuitive et conviviale, car vos employés saisissent les heures de travail via des formulaires Web intuitifs avec des instructions claires. Pour chaque formulaire, SeaTable crée une nouvelle entrée que seuls les cadres peuvent voir et modifier. Le logiciel calcule automatiquement les heures travaillées ainsi que les heures supplémentaires ou incomplètes et met en évidence le solde journalier en couleur.
       image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
       image_position: left
+      image_alt: 'Formulaire web SeaTable pour saisie conviviale des temps de travail'
 
     - name: content-11
       weight: 7
@@ -69,6 +72,7 @@ sections:
       - text: Le tableau de temps de travail de SeaTable ressemble à première vue à d'autres calculateurs, mais il offre des visualisations avancées telles que des filtres, des tris, des regroupements et des plug-ins graphiques tels que des calendriers, [des tableaux Kanban]({{< relref "templates/projects/kanban-board" >}}) ou des statistiques organisent vos données de manière claire. SeaTable vous permet de créer des applications personnalisées, par exemple une application de gestion qui vous permet de garder un œil sur les heures supplémentaires, les congés et les arrêts maladie sur le tableau de bord et d'approuver ou de rejeter les demandes.
       image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
       image_position: right
+      image_alt: 'Analyse des temps de travail dans SeaTable avec vues calendrier et statistiques'
 
     - name: content-11
       weight: 8
@@ -78,6 +82,7 @@ sections:
       - text: Lorsque les employés enregistrent leurs temps de travail dans différentes feuilles de calcul, la fusion devient souvent fastidieuse, source d'erreurs et chronophage. Avec SeaTable, toutes les données sont centralisées dans [une base de données sécurisée et accessible en ligne]({{< relref "posts/online-datenbank-kostenlos" >}}). Les vues, les partages et les autorisations vous permettent de contrôler qui voit et traite quelles données - de manière efficace, ordonnée et accessible à tout moment.
       image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
       image_position: left
+      image_alt: 'Vue SeaTable avec données de temps de travail et d’absences stockées de manière centralisée'
 
     - name: content-11
       weight: 9
@@ -87,6 +92,7 @@ sections:
       - text: Les données relatives au temps de travail des employés rémunérés à l'heure doivent être transmises au service comptable, souvent de manière fastidieuse par e-mail ou partage de fichiers. Grâce à notre [plateforme IA sans code]({{< relref "/" >}}), vous économisez ces efforts, [créez une application]({{< relref "posts/20250318-app-erstellen" >}} ou partagez les données via un lien, soit en donnant un accès en lecture à l'ensemble de la base, soit en limitant l'accès à une vue spécifique. Le partage de vues individuelles est toutefois réservé aux abonnements payants de SeaTable.
       image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
       image_position: right
+      image_alt: 'Vue SeaTable pour édition collaborative des données de temps en équipe'
 
     - name: "content-4"
       weight: 11
@@ -124,13 +130,13 @@ sections:
       items:
           - text: Saisie du temps de travail
             image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour suivi du temps en RH"
           - text: Recrutement de personnel
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour recrutement dans votre système RH"
           - text: Embarquement des employés
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: ""
+            image_alt: "Modèle SeaTable pour onboarding des employés dans le système RH"
       buttons:
         - label: Découvrir tous les modèles
           link: "templates"
@@ -155,12 +161,15 @@ sections:
           - headline: SeaTable Cloud
             text: Parfait pour les entreprises qui souhaitent démarrer rapidement et sans infrastructure informatique étendue - flexible et évolutive.
             image: /images/template-projektplan.png
+            image_alt: 'Modèle de plan de projet SeaTable Cloud comme base pour processus RH et suivi du temps'
           - headline: SeaTable Server
             text: Pour les entreprises qui souhaitent garder le contrôle total de leurs données, SeaTable Server propose une option sur site.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modèle de plan d’actions SeaTable Server pour workflows RH internes'
           - headline: SeaTable Dedicated
             text: Pour les entreprises qui ont besoin de la simplicité du cloud et de la flexibilité d'un système auto-hébergé.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'Environnement SeaTable Dedicated pour solutions RH et de suivi du temps évolutives'
 
     - name: "content-21"
       weight: 15
