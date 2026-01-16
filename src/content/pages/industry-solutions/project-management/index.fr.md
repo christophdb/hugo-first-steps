@@ -70,6 +70,7 @@ sections:
         - text: Mise en œuvre sans connaissances en programmation
         - text: 100 % conforme au RGPD
       image: /images/Projektmanagement_Teamwork-6.png
+      image_alt: 'Vue de gestion de projet SeaTable pour travail d’équipe avec tâches et statuts'
 
     - name: content-1
       weight: 9
@@ -85,6 +86,7 @@ sections:
       - headline: Solution économique
         text: Avec SeaTable, vous pouvez configurer votre logiciel de gestion de projet individuellement. Vous ne payez que pour les fonctions dont vous avez réellement besoin, ou vous utilisez la version gratuite que vous pouvez mettre à niveau si nécessaire - de manière transparente et équitable.
       image: /images/Projektmanagement_Group-3.png
+      image_alt: 'Équipe discutant des projets en utilisant SeaTable comme outil de gestion de projet'
       
     - name: 'content-8'
       weight: 10
@@ -96,13 +98,13 @@ sections:
       items:
           - text: Plan de projet
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            image_alt: ""
+            image_alt: "Modèle de plan de projet SeaTable avec tâches et jalons"
           - text: Gestion de portefeuille de projets
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            image_alt: ""
+            image_alt: "Modèle de gestion de portefeuille de projets SeaTable pour plusieurs projets"
           - text: "Plan d'action"
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            image_alt: ""
+            image_alt: "Modèle de plan d’action SeaTable pour tâches et responsabilités"
       buttons:
         - label: Parcourez nos modèles
           link: 'templates'
@@ -145,18 +147,23 @@ sections:
       - headline: Planificateur de projet
         text: "Gérez chaque activité de votre prochain projet avec un planificateur de projet clair. Avec le modèle de plan de projet de SeaTable, vous disposez de l'outil de planification de projet parfait pour les grands comme pour les petits projets."
         image: /images/Projektmanagement_-Project-Plan_10.png
+        image_alt: 'Vue planificateur de projet SeaTable avec chronologie et tâches'
       - headline: Organigramme de projet
         text: "Avec un organigramme de projet, vous divisez votre projet en tâches partielles et lots de travaux planifiables. Grâce au modèle de planification de la structure de projet de SeaTable, c'est un jeu d'enfant."
         image: /images/Projektmanagement_Projektstrukturplan_7.png
+        image_alt: 'Modèle de structure de projet SeaTable avec lots de travail'
       - headline: Chronologie du projet
         text: "Une chronologie de projet est une méthode pour visualiser la séquence temporelle des activités dans un projet. Dans SeaTable, vous pouvez utiliser le plugin Timeline pour cela."
         image: /images/1-Projektmanagement_Projektablaufplan_7.png
+        image_alt: 'Planning de projet SeaTable avec séquence temporelle des activités'
       - headline: Gestion de portefeuille de projets
         text: "La gestion de portefeuille de projets (PPM) comprend la gestion de tous les projets d'une organisation. La gestion de portefeuille de projets est gourmande en données et nécessite l'évaluation de nombreux projets."
         image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
+        iamge_alt: 'Vue portefeuille de projets SeaTable pour plusieurs projets en parallèle'
       - headline: Application de gestion de projet
         text: "Avec le No-Code-App-Builder de SeaTable, vous créez des applications web - sans aucune connaissance en programmation. Dans une telle application de gestion de projet ou application de planification de projet, vous pouvez contrôler précisément qui peut voir quelles données et comment elles sont visualisées."
         image: /images/Projektmanagement_Universal-App_7.png
+        image_alt: 'Application de gestion de projet SeaTable comme interface web de planification'
         # TODO: doppelte Bilder mit (1) entfernen.
 
     - name: "content-21"
