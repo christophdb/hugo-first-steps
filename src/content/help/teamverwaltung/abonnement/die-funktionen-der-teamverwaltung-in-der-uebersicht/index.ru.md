@@ -68,12 +68,3 @@ seo:
 Следующие статьи могут представлять для вас интерес:
 
 - [Открыть билет в службу поддержки]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
-
-## Юридический
-
-В администрации команды вы найдете возможность получить индивидуальный **контракт AV**, а также просмотреть общие **юридические документы**.
-
-Следующие статьи могут представлять для вас интерес:
-
-- [Просмотр условий использования или политики конфиденциальности]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
-- [Запросить контракт на поставку аудиовизуальных средств]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

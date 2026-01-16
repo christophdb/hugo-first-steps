@@ -22,7 +22,7 @@ As equipas com uma subscrição Plus ou Enterprise têm a opção de abrir um bi
 ## Para abrir um bilhete de apoio
 
 1. Mudar para a **administração da equipa**.
-2. Seleccione o item do menu **Ajuda & Apoio** na **navegação**.
+2. Seleccione o item do menu **Suporte** na **navegação**.
 3. Copiar a **palavra-passe** ou colocá-la na prancheta.
 4. Abrir o **sistema de bilhetes**.
 5. Abre-se uma nova janela. Introduza aqui o seu **nome de utilizador** e **palavra-passe**.

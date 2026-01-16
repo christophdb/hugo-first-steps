@@ -22,7 +22,7 @@ Los equipos con una suscripción Plus o Enterprise tienen la opción de abrir un
 ## Para abrir una solicitud de asistencia
 
 1. Cambia a la **administración del equipo**.
-2. Seleccione la opción de menú **Ayuda y soporte** en la **navegación**.
+2. Seleccione la opción de menú **Soporte** en la **navegación**.
 3. Copia la **contraseña** o ponla en el portapapeles.
 4. Abra el **sistema de tickets**.
 5. Se abre una nueva ventana. Introduzca aquí su **nombre de usuario** y **contraseña**.

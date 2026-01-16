@@ -20,7 +20,7 @@ Teams mit einem Plus oder Enterprise Abonnement haben die Möglichkeit, ein Tick
 ## So eröffnen Sie ein Support-Ticket
 
 1. Wechseln Sie in die **Teamverwaltung**.
-2. Wählen Sie in der **Navigation** den Menüpunkt **Hilfe & Support** aus.
+2. Wählen Sie in der **Navigation** den Menüpunkt **Support** aus.
 3. Kopieren Sie das **Passwort** oder legen Sie es in die Zwischenablage.
 4. Öffnen Sie das **Ticket-System**.
 5. Ein neues Fenster öffnet sich. Geben Sie hier Ihren **Benutzernamen** und das **Passwort** ein.

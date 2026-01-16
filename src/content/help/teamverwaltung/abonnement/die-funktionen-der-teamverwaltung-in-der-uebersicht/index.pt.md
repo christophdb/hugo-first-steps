@@ -68,12 +68,3 @@ Através da administração da equipa, tem a possibilidade de criar um **bilhete
 Os artigos seguintes podem ser do seu interesse:
 
 - [Abrir um bilhete de apoio]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
-
-## Legal
-
-Na administração da equipa encontrará a opção de receber um **contrato AV** personalizado, bem como de visualizar **documentos legais** gerais.
-
-Os artigos seguintes podem ser do seu interesse:
-
-- [Ver os termos de utilização ou a política de privacidade]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
-- [Solicitar um contrato AV]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

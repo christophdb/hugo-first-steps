@@ -66,12 +66,3 @@ Fortsetzung folgt ...
 Folgende Artikel könnten für Sie interessant sein:
 
 - [Ein Support-Ticket eröffnen]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
-
-## Rechtliches
-
-In der Teamverwaltung finden Sie die Option, sowohl einen personalisierten **AV-Vertrag** zu erhalten als auch allgemeine **rechtliche Dokumente** einzusehen.
-
-Folgende Artikel könnten für Sie interessant sein:
-
-- [Einsehen der Nutzungsbedingungen oder Datenschutzerklärungen]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
-- [Einen AV-Vertrag beantragen]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})
