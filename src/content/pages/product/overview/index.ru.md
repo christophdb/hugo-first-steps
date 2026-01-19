@@ -49,6 +49,7 @@ sections:
           - headline: Управляемые затраты
             text: Бесплатная регистрация. Простые ежемесячные затраты.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
+      image_alt: 'SeaTable Cloud – готовое облачное решение без кода'
       buttons:
           - label: Подробнее о SeaTable Cloud
             link: 'pages/product/seatable-cloud'
@@ -69,6 +70,7 @@ sections:
           - text: Всегда последняя версия SeaTable
           - text: Поддержка включена
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
+      image_alt: 'SeaTable Dedicated – индивидуальный облачный экземпляр с полным контролем'
       buttons:
           - label: Подробнее о SeaTable Dedicated
             link: 'pages/product/seatable-dedicated'
@@ -90,6 +92,7 @@ sections:
           - text: Поддержка включена
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
+      image_alt: 'SeaTable On-Premises – полный контроль на вашем собственном сервере'
       buttons:
           - label: Подробнее о SeaTable Dedicated
             link: 'pages/product/seatable-dedicated'

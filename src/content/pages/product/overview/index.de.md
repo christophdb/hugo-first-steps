@@ -47,6 +47,7 @@ sections:
           - headline: Überschaubare Kosten
             text: Registrierung kostenlos. Einfache monatliche Kosten.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
+      image_alt: 'SeaTable Cloud – sofort einsatzbereite No-Code-Lösung in der Cloud'
       buttons:
           - label: Mehr zu SeaTable Cloud
             link: 'pages/product/seatable-cloud'
@@ -67,6 +68,7 @@ sections:
           - text: Immer die aktuellste SeaTable Version
           - text: Support inklusive
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
+      iamge_alt: 'SeaTable Dedicated – individuelle Cloud-Instanz mit vollständiger Kontrolle'
       buttons:
           - label: Mehr zu SeaTable Dedicated
             link: 'pages/product/seatable-dedicated'
@@ -88,6 +90,7 @@ sections:
           - text: Support inklusive
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
+      image_alt: 'SeaTable On-Premises – vollständige Kontrolle auf Ihrem eigenen Server'
       buttons:
           - label: Mehr zu SeaTable Dedicated
             link: 'pages/product/seatable-dedicated'
