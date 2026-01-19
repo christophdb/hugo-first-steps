@@ -76,10 +76,10 @@
                             </div>
                         </label>
 
-                        <!-- Region -->
+                        <!-- Land -->
                         <label class="poppins my-6 block text-base font-bold">
-                            {{ T "partners.region" }} (in Base aufnehmen?)
-                            <div x-data="regionFilter" class="relative mt-1">
+                            {{ T "partners.country" }}
+                            <div x-data="countryFilter" class="relative mt-1">
                                 <!-- „Select“-Box (Klick öffnet Panel) -->
                                 <button
                                     type="button"
@@ -241,6 +241,7 @@
 
             const languageOptions = Array.from(new Set(partners.flatMap(partner => partner.languages))).sort();
             const industryExpertiseOptions = Array.from(new Set(partners.flatMap(partner => partner.industry_expertise))).sort();
+            const countryOptions = Array.from(new Set(partners.flatMap(partner => partner.country.country_region))).sort();
             const supportAreaOptions = Array.from(new Set(partners.flatMap(partner => partner.support_areas))).sort();
 
             return {
@@ -254,8 +255,8 @@
                     options: industryExpertiseOptions,
                 }),
 
-                regionFilter: filterSelect({
-                    options: ['Europa', 'Nordamerika', 'Südamerika', 'Asien', 'Afrika'],
+                countryFilter: filterSelect({
+                    options: countryOptions,
                 }),
 
                 supportAreasFilter: filterSelect({
@@ -285,7 +286,11 @@
                         );
                     }
 
-                    // FIXME: Evaluate regionFilter (not part of the base)
+                    if (this.countryFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => this.countryFilter.selected.includes(partner.country.country_region)
+                        );
+                    }
 
                     if (this.supportAreasFilter.selected.length > 0) {
                         filteredPartners = filteredPartners.filter(

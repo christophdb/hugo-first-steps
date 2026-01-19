@@ -236,7 +236,7 @@ partners:
     select_placeholder: Wählen Sie eine Option...
     language: Sprache
     industry_expertise: Industrie-Expertise
-    region: Region
+    country: Land
     services: Services
     typical_customers: Typische Kunden
 
