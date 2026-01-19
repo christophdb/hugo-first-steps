@@ -23,7 +23,7 @@ sections:
           - text: Überwachen Sie eine Marketing-Kampagne
           - text: Verwalten Sie die Lizenzen in Ihrem Unternehmen
       image: '/quick-guide/step1-create-a-base.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Erstellung einer neuen Base für Projekte oder Prozesse'
       image_position: right
 
     - name: 'content-12'
@@ -37,7 +37,7 @@ sections:
           - text: Datum für den Fälligkeitstermin
           - text: Mitarbeiter für den Verantwortlichen
       image: '/quick-guide/step2-structure-your-base.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Strukturierung einer Base durch Hinzufügen von Spaltentypen'
       image_position: left
 
     - name: 'content-12'
@@ -51,7 +51,7 @@ sections:
           - text: mit einer Deadline versehen
           - text: einem Verantwortlichen zugeordnet
       image: '/quick-guide/step3-create-first-tasks.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Erfassen erster Aufgaben mit Beschreibung, Deadline und Verantwortlichem'
       image_position: right
 
     - name: 'content-12'
@@ -65,7 +65,7 @@ sections:
           - text: Mitarbeiter Ihres Unternehmens
           - text: Rechnungen für Ihre Kunden
       image: '/quick-guide/step4-link-records.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Verlinken von Datensätzen zwischen Tabellen für Beziehungen'
       image_position: left
 
     - name: 'content-12'
@@ -82,7 +82,7 @@ sections:
           - text: Einfärbungen
           - text: Spaltenhöhe
       image: '/quick-guide/step5-create-new-view.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Erstellen einer neuen Ansicht mit Filter, Sortierung und Gruppierung'
       image_position: right
 
     - name: 'content-12'
@@ -98,7 +98,7 @@ sections:
           - text: Kanban
           - text: Seitendesign
       image: '/quick-guide/step6-activate-plugin.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Aktivieren von Plugins wie Kalender, Kanban oder Seitendesign'
       image_position: left
 
     - name: 'content-12'
@@ -112,7 +112,7 @@ sections:
           - text: Passwortabfrage
           - text: Zufällige oder selbst gewählte URL
       image: '/quick-guide/step7-share-your-base.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Teilen einer Base über externen Link mit Passwort und Ablaufdatum'
       image_position: right
 
     - name: 'content-12'
@@ -127,7 +127,7 @@ sections:
           - text: Benutzer
           - text: Hinzufügen
       image: '/quick-guide/step8-manage-your-team.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Verwaltung von Teammitgliedern über Team-Administrationsoberfläche'
       image_position: left
 
     - name: 'content-12'
@@ -142,7 +142,7 @@ sections:
           - text: Ansicht
           - text: Spalte
       image: '/quick-guide/step9-set-permissions.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Festlegen von Berechtigungen auf Base-, Tabellen-, Ansichts- und Spaltenebene'
       image_position: right
 
     - name: 'content-12'
@@ -157,7 +157,7 @@ sections:
           - text: Zugriffssteuerung
           - text: Zugriff per URL oder QR-Code
       image: '/quick-guide/step10-create-a-webform.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Erstellen eines Webformulars mit visuellem Block-Editor und QR-Code'
       image_position: left
 
     - name: 'content-12'
@@ -172,7 +172,7 @@ sections:
           - text: Veränderungen in einer speziellen Spalte
           - text: Filterbedingungen für überwachte Spalten
       image: '/quick-guide/step11-get-notifications.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Einrichten von Benachrichtigungen bei Deadlines, Änderungen oder Filterbedingungen'
       image_position: right
 
     - name: 'content-12'
@@ -190,7 +190,7 @@ sections:
           - text: E-Mail versenden
           - text: Python-Skript ausführen
       image: '/quick-guide/step12-automation-rules.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Konfigurieren von Automatisierungsregeln für Zeilen, Einträge, Benachrichtigungen und Skripte'
       image_position: left
 
     - name: 'content-12'
@@ -205,7 +205,7 @@ sections:
           - text: Make.com
           - text: n8n
       image: '/quick-guide/step13-build-business-processes.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Aufbau von Geschäftsprozessen über REST-API und Integrationen mit Zapier, Make, n8n'
       image_position: right
 
     - name: 'content-10'

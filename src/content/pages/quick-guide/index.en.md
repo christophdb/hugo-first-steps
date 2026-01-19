@@ -25,7 +25,7 @@ sections:
           - text: Monitor a marketing campaign
           - text: Manage licenses in your company
       image: '/quick-guide/step1-create-a-base.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Creating a new base for projects or processes'
       image_position: right
 
     - name: 'content-12'
@@ -39,7 +39,7 @@ sections:
           - text: Date for the due date
           - text: Employee for the person responsible
       image: '/quick-guide/step2-structure-your-base.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Structuring a base by adding column types'
       image_position: left
 
     - name: 'content-12'
@@ -53,7 +53,7 @@ sections:
           - text: Provided with a deadline
           - text: Assigned to a responsible person
       image: '/quick-guide/step3-create-first-tasks.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Creating first tasks with description, deadline and assignee'
       image_position: right
 
     - name: 'content-12'
@@ -67,7 +67,7 @@ sections:
           - text: Employees of your company
           - text: Invoices for your customers
       image: '/quick-guide/step4-link-records.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Linking records between tables for relationships'
       image_position: left
 
     - name: 'content-12'
@@ -84,7 +84,7 @@ sections:
           - text: Coloring
           - text: Column height
       image: '/quick-guide/step5-create-new-view.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Creating a new view with filter, sorting and grouping'
       image_position: right
 
     - name: 'content-12'
@@ -100,7 +100,7 @@ sections:
           - text: Kanban
           - text: Page design
       image: '/quick-guide/step6-activate-plugin.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Activating plugins like calendar, kanban or page design'
       image_position: left
 
     - name: 'content-12'
@@ -114,7 +114,7 @@ sections:
           - text: Password protection
           - text: Random or custom URL
       image: '/quick-guide/step7-share-your-base.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Sharing a base via external link with password and expiration'
       image_position: right
 
     - name: 'content-12'
@@ -129,7 +129,7 @@ sections:
           - text: Users
           - text: Add
       image: '/quick-guide/step8-manage-your-team.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Managing team members via team administration interface'
       image_position: left
 
     - name: 'content-12'
@@ -144,7 +144,7 @@ sections:
           - text: View
           - text: Column
       image: '/quick-guide/step9-set-permissions.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Setting permissions on base, table, view and column level'
       image_position: right
 
     - name: 'content-12'
@@ -159,7 +159,7 @@ sections:
           - text: Access control
           - text: Access via URL or QR code
       image: '/quick-guide/step10-create-a-webform.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Creating a web form with visual block editor and QR code'
       image_position: left
 
     - name: 'content-12'
@@ -174,7 +174,7 @@ sections:
           - text: Changes in a specific column
           - text: Filter conditions for monitored columns
       image: '/quick-guide/step11-get-notifications.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Setting up notifications for deadlines, changes or filter conditions'
       image_position: right
 
     - name: 'content-12'
@@ -192,7 +192,7 @@ sections:
           - text: Send email
           - text: Run Python script
       image: '/quick-guide/step12-automation-rules.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Configuring automation rules for rows, entries, notifications and scripts'
       image_position: left
 
     - name: 'content-12'
@@ -207,7 +207,7 @@ sections:
           - text: Make.com
           - text: n8n
       image: '/quick-guide/step13-build-business-processes.gif'
-      image_alt: ''
+      image_alt: 'SeaTable GIF: Building business processes via REST-API and integrations with Zapier, Make, n8n'
       image_position: right
 
     - name: 'content-10'
