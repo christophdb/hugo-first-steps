@@ -167,6 +167,23 @@ sections:
             link: 'pages/registration'
             style: primary
 
+    - name: 'content-21'
+      weight: 7
+      title: Automações de IA na prática
+      subtitle: Fluxos de trabalho mais inteligentes para a sua equipa
+      text: 'As aplicações concretas que se tornam possíveis com a **função de IA do SeaTable** são particularmente interessantes – e o melhor de tudo é que os resultados chegam sempre exatamente onde devem chegar, ou seja, diretamente na sua base SeaTable.'
+      items:
+          - headline: Processamento de faturas (OCR e extração)
+            text: As faturas recebidas por e-mail ou upload **são reconhecidas automaticamente**. A IA extrai conteúdos como número da fatura, data ou montantes e guarda-os de forma estruturada nas colunas correspondentes.
+          - headline: Gestão inteligente de suporte
+            text: As solicitações de suporte são analisadas em tempo real, classificadas por categorias e atribuídas automaticamente aos funcionários certos. Isso reduz o tempo de resposta e aumenta a satisfação do cliente.
+          - headline: Resumos de textos e documentos
+            text: Transforme relatórios longos, atas de reuniões ou memorandos em textos resumidos compactos em segundos. Ideal para filtrar rapidamente as informações mais importantes de grandes quantidades de dados.
+          - headline: Reconhecimento e tradução multilingues
+            text: Processe e traduza conteúdos em diferentes idiomas sem problemas. Uma verdadeira vantagem competitiva para equipas que atuam internacionalmente e para a colaboração além das fronteiras linguísticas.
+          - headline: Fácil utilização para todos
+            text: Todas as funções de IA são tão intuitivas que mesmo os novatos em IA, sem conhecimentos de programação, podem utilizá-las imediatamente – verdadeiramente sem código.
+
     - name: 'faq'
       weight: 7
       classes:
@@ -175,7 +192,7 @@ sections:
       subtitle: Vantagens do SeaTable em relação ao Airtable
       title: Quer seja auto-hospedado ou na nuvem - vai adorar SeaTable
       items:
-          - q: 'Segurança absoluta dos dados'
+          - q: 'Segurança absoluta dos dados e soberania da IA'
             a: '**Com SeaTable, beneficia de uma proteção de dados europeia ou mesmo de uma soberania total dos dados**<br><br>Os sistemas de nuvem americanos, como Airtable, Microsoft 365 ou Google Workspace, são muito utilizados, mas a segurança dos seus dados pode ser posta de parte. O chamado Patriot Act permite que as autoridades norte-americanas, como o FBI, a NSA ou a CIA, acedam aos servidores de empresas norte-americanas sem ordem judicial e desviem dados pessoais.<br><br>SeaTable Cloud está alojado exclusivamente nos centros de dados alemães da Exoscale. Isto significa que os seus dados estão sujeitos ao RGPD e estão muito mais bem protegidos do que com os fornecedores dos EUA. Pode usar SeaTable como uma alternativa Airtable para dados pessoais sensíveis ou em indústrias que exigem um nível mais alto de proteção de dados.<br><br>Além disso, também pode hospedar SeaTable como uma alternativa ao Airtable. Com o seu próprio servidor SeaTable, tem controlo total sobre todos os fluxos de dados e locais de armazenamento. Só tem esta soberania absoluta de dados com um sistema no local.<br><br>**Início de sessão simples e seguro**<br><br>Assim como o Airtable Login, SeaTable também lhe oferece um processo de início de sessão seguro e simples que também suporta a autenticação de dois factores. Com a gestão de autorização granular, pode garantir que apenas os utilizadores autorizados podem aceder aos dados.'
           - q: 'Opção on-premises'
             a: '**Tenha controle total sobre seus dados com um sistema SeaTable auto-hospedado**<br><br>Ao instalar SeaTable, você tem total liberdade: decide onde instalar seu sistema, onde seus dados ficam armazenados e quem tem acesso a eles. Airtable, sendo uma solução apenas em nuvem, não oferece opção de auto-hospedagem.<br><br>Você pode rodar SeaTable em servidores Linux ou Windows, dedicados ou virtualizados. Para grupos maiores de usuários, também está disponível o modo cluster.'
@@ -186,7 +203,7 @@ sections:
           - q: 'Suporte multilíngue'
             a: '**Ofereça aos seus usuários uma interface web no idioma deles**<br><br>O inglês pode ser o idioma número um dos negócios, mas faz muito mais sentido oferecer aos seus colaboradores uma interface web em sua língua nativa.<br><br>Tal como a alternativa n.º 1 ao Airtable, SeaTable suporta atualmente os idiomas alemão, francês, espanhol, português, russo e chinês, para além do inglês.'
           - q: 'Automatize processos individuais'
-            a: '**Crie suas próprias automações e fluxos de trabalho personalizados**<br><br>Ninguém conhece seus processos e necessidades melhor do que você. Adapte SeaTable facilmente às suas necessidades! A solução no-code oferece exatamente a flexibilidade que você precisa.<br><br>Com SeaTable, você pode automatizar processos recorrentes e ajustar o sistema exatamente aos seus fluxos de trabalho. Há recursos integrados como botões, automações e scripts. Você também pode conectar aplicativos externos ao SeaTable via API ou por plataformas de automação como Zapier, Integrately, Make ou n8n.'
+            a: '**Crie as suas próprias automações e fluxos de trabalho baseados em IA** <br><br>Ninguém conhece os seus processos e requisitos tão bem quanto você. Basta adaptar o SeaTable às suas necessidades! A [plataforma de IA sem código]{{< relref "/" >}}) oferece exatamente a flexibilidade de que você precisa.<br><br>Com o SeaTable, tem a possibilidade de automatizar processos recorrentes e, assim, adaptar o seu sistema exatamente aos seus fluxos de trabalho. Para isso, o SeaTable oferece funções integradas, como botões, automatizações baseadas em IA e scripts. Pode conectar facilmente aplicações externas ao SeaTable com a API do SeaTable ou plataformas de automatização como Zapier, Integrately, Make ou n8n.'
           - q: 'API completa e flexível'
             a: '**Gerencie todo o seu sistema, usuários e bases pela API**<br><br>Airtable oferece chamadas de API para consultar e modificar dados dentro das suas bases. No entanto, a Airtable API não permite, por exemplo, criar um link de compartilhamento ou adicionar um novo membro à equipe.<br><br>No SeaTable, você faz tudo isso facilmente pela API. Existem requisições para alterar dados dentro de uma base e muitas outras chamadas para usuários comuns, líderes de equipe e administradores do sistema. Confira nossa [API Reference](https://api.seatable.com).'
           - q: 'Sua URL, seu logo, sua identidade visual'
