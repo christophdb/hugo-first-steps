@@ -69,6 +69,7 @@ sections:
         - text: Простая интеграция с другими инструментами благодаря встроенному API
         - text: Облачный сервер и сервер искусственного интеллекта размещаются исключительно в Германии
       image: /images/landing_page_operations_01.jpg
+      image_alt: 'Интерфейс управления процессами SeaTable с автоматизацией ИИ и совместной работой в реальном времени'
 
     - name: "content-10"
       weight: 8
@@ -92,13 +93,13 @@ sections:
       items:
           - text: Управление складом
             image: /images/landing_page_operations_template_warehouse_management.jpg
-            image_alt: "Шаблон управления процессами Управление складом"
+            image_alt: "Шаблон SeaTable для управления складом и контроля инвентаря"
           - text: Управление автопарком
             image: /images/landing_page_operations_template_fleet_management.jpg
-            image_alt: "Шаблон управления процессом управления автопарком"
+            image_alt: "Шаблон SeaTable для управления автопарком и отслеживания транспортных средств"
           - text: Инвентарь
             image: /images/landing_page_operations_template_inventory.jpg
-            image_alt: "Шаблон инвентаризации для управления процессами"
+            image_alt: "Шаблон SeaTable для инвентаризации и контроля складских запасов"
       buttons:
         - label: Просмотрите наши шаблоны
           link: 'templates'
@@ -111,15 +112,19 @@ sections:
       - headline: Настраиваемые панели отчетности
         text: Собирайте нужные показатели и создавайте содержательные отчеты для большего роста бизнеса благодаря решениям, основанным на данных - с помощью настраиваемых приборных панелей.
         image: /images/landing_page_operations_analyse-dashboards.jpg
+        image_alt: 'Информационные панели SeaTable для анализа процессов и бизнес‑аналитики'
       - headline: Обзор всех рабочих процессов
         text: "Задержки, неэффективные процессы, перегрузки: С помощью автоматических уведомлений и визуализации процессов Вы можете держать все под контролем и немедленно реагировать."
         image: /images/landing_page_operations_workflow-overview.jpg
+        image_alt: 'Обзор рабочих потоков SeaTable с автоматическими уведомлениями и визуализацией процессов'
       - headline: Прозрачные и эффективные процессы
         text: "Автоматизированные обновления статуса, четкое управление задачами и интегрированные функции комментирования: С SeaTable Ваша команда всегда работает вместе в режиме реального времени и с актуальными данными."
         image: /images/landing_page_operations_communication.jpg
+        image_alt: 'Инструменты коммуникации SeaTable для прозрачного сотрудничества и управления задачами'
       - headline: Операционный фронт-энд
         text: "С помощью конструктора приложений SeaTable, не требующего кода, Вы можете создать свой индивидуальный фронт-энд для управления операциями и процессами всего за несколько щелчков мыши."
         image: /images/landing_page_operations_app.jpg
+        image_alt: 'Конструктор приложений без кода SeaTable для индивидуального операционного интерфейса'
 
     - name: "content-4"
       weight: 7
@@ -148,12 +153,15 @@ sections:
           - headline: SeaTable Cloud
             text: Несложное, гибкое и масштабируемое решение.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – гибкое и масштабируемое решение для управления процессами'
           - headline: SeaTable Server
             text: Возможность размещения в помещении обеспечивает полный контроль над Вашими данными.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – локальное решение для полного контроля над данными процессов'
           - headline: SeaTable Dedicated
             text: Сочетает в себе преимущества SeaTable Cloud и SeaTable Server.
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated – комбинация облачной гибкости и безопасности самостоятельного хостинга'
 
     - name: banner-2
       weight: 10

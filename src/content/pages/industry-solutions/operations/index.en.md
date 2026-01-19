@@ -67,6 +67,7 @@ sections:
         - text: Easy integration with other tools thanks to integrated API
         - text: Cloud server and AI server are hosted exclusively in Germany
       image: /images/landing_page_operations_01.jpg
+      image_alt: 'SeaTable process management interface with AI automations and real-time collaboration'
 
     - name: "content-10"
       weight: 8
@@ -90,13 +91,13 @@ sections:
       items:
           - text: Warehouse management
             image: /images/landing_page_operations_template_warehouse_management.jpg
-            image_alt: "Process management template warehouse management"
+            image_alt: "SeaTable template for warehouse management and inventory control"
           - text: Fleet management
             image: /images/landing_page_operations_template_fleet_management.jpg
-            image_alt: "Process management template fleet management"
+            image_alt: "SeaTable template for fleet management and vehicle tracking"
           - text: Inventory
             image: /images/landing_page_operations_template_inventory.jpg
-            image_alt: "Process management template inventory"
+            image_alt: "SeaTable template for inventory audit and stock control"
       buttons:
         - label: Browse our templates
           link: 'templates'
@@ -109,15 +110,19 @@ sections:
       - headline: Customizable reporting dashboards
         text: Capture relevant metrics and create meaningful reports for more business growth thanks to data-driven decisions - with customizable dashboards.
         image: /images/landing_page_operations_analyse-dashboards.jpg
+        iamge_alt: 'SeaTable reporting dashboards for process analysis and business intelligence'
       - headline: Overview of all workflows
         text: "Delays, inefficient processes, overloads: With automated notifications and process visualizations, you can maintain an overview and react immediately."
         image: /images/landing_page_operations_workflow-overview.jpg
+        image_alt: 'SeaTable workflow overview with automated notifications and process visualization'
       - headline: Transparent and efficient processes
         text: "Automated status updates, clear task management and integrated comment functions: With SeaTable, your team always works together in real time and with up-to-date data."
         image: /images/landing_page_operations_communication.jpg
+        iamge_alt: 'SeaTable communication tools for transparent collaboration and task management'
       - headline: Operations front end
         text: "With SeaTable's no-code app builder, you can create your individual operations and process management front end with just a few clicks."
         image: /images/landing_page_operations_app.jpg
+        image_alt: 'SeaTable no-code app builder for customized operations and process management frontend'
 
     - name: "content-4"
       weight: 7
@@ -146,12 +151,15 @@ sections:
           - headline: SeaTable Cloud
             text: The uncomplicated, flexible and scalable solution.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – flexible and scalable process management solution'
           - headline: SeaTable Server
             text: On-premises option for full control over your data.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – on-premises option for complete control over process data'
           - headline: SeaTable Dedicated
             text: Combines the advantages of SeaTable Cloud and SeaTable Server. 
             image: /images/asana-dedicated.jpg
+            iamge_alt: 'SeaTable Dedicated – combination of cloud flexibility and self-hosting security'
 
     - name: banner-2
       weight: 10

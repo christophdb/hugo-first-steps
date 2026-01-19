@@ -69,6 +69,7 @@ sections:
         - text: Fácil integración con otras herramientas gracias a la API integrada
         - text: El servidor en nube y el servidor de IA están alojados exclusivamente en Alemania
       image: /images/landing_page_operations_01.jpg
+      image_alt: 'Interfaz de gestión de procesos de SeaTable con automatizaciones de IA y colaboración en tiempo real'
 
     - name: "content-10"
       weight: 8
@@ -92,13 +93,13 @@ sections:
       items:
           - text: Gestión de almacenes
             image: /images/landing_page_operations_template_warehouse_management.jpg
-            image_alt: "Plantilla de gestión de procesos gestión de almacenes"
+            image_alt: "Plantilla de SeaTable para gestión de almacén y control de inventario"
           - text: Gestión de flotas
             image: /images/landing_page_operations_template_fleet_management.jpg
-            image_alt: "Plantilla de gestión de procesos gestión de flotas"
+            image_alt: "Plantilla de SeaTable para gestión de flotas y seguimiento de vehículos"
           - text: Inventario
             image: /images/landing_page_operations_template_inventory.jpg
-            image_alt: "Inventario de plantillas de gestión de procesos"
+            image_alt: "Plantilla de SeaTable para auditoría de inventario y control de existencias"
       buttons:
         - label: Navegue por nuestras plantillas
           link: 'templates'
@@ -111,15 +112,19 @@ sections:
       - headline: Cuadros de mando de informes personalizables
         text: Capture métricas relevantes y cree informes significativos para un mayor crecimiento del negocio gracias a decisiones basadas en datos - con cuadros de mando personalizables.
         image: /images/landing_page_operations_analyse-dashboards.jpg
+        image_alt: 'Paneles de informes de SeaTable para análisis de procesos e inteligencia empresarial'
       - headline: Visión general de todos los flujos de trabajo
         text: "Retrasos, procesos ineficaces, sobrecargas: Con las notificaciones automatizadas y las visualizaciones de los procesos, podrá mantener una visión de conjunto y reaccionar de inmediato."
         image: /images/landing_page_operations_workflow-overview.jpg
+        image_alt: 'Vista de flujo de trabajo de SeaTable con notificaciones automatizadas y visualización de procesos'
       - headline: Procesos transparentes y eficaces
         text: "Actualizaciones de estado automatizadas, gestión clara de las tareas y funciones de comentario integradas: Con SeaTable, su equipo trabaja siempre en tiempo real y con datos actualizados."
         image: /images/landing_page_operations_communication.jpg
+        image_alt: 'Herramientas de comunicación de SeaTable para colaboración transparente y gestión de tareas'
       - headline: Front end de operaciones
         text: "Con el creador de aplicaciones sin código de SeaTable, puede crear su front end individual de operaciones y gestión de procesos con sólo unos clics."
         image: /images/landing_page_operations_app.jpg
+        image_alt: 'Constructor de aplicaciones sin código de SeaTable para frontend operacional personalizado'
 
     - name: "content-4"
       weight: 7
@@ -148,12 +153,15 @@ sections:
           - headline: Nube SeaTable
             text: La solución sin complicaciones, flexible y escalable.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – solución flexible y escalable para gestión de procesos'
           - headline: Servidor SeaTable
             text: Opción in situ para un control total de sus datos.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – opción local para control completo sobre datos de procesos'
           - headline: SeaTable Dedicado
             text: Combina las ventajas de SeaTable Cloud y SeaTable Server. 
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated – combinación de flexibilidad en la nube y seguridad de alojamiento propio'
 
     - name: banner-2
       weight: 10

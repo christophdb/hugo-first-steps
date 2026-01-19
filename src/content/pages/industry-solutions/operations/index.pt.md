@@ -69,6 +69,7 @@ sections:
         - text: Fácil integração com outras ferramentas graças à API integrada
         - text: O servidor de nuvem e o servidor de IA estão alojados exclusivamente na Alemanha
       image: /images/landing_page_operations_01.jpg
+      image_alt: 'Interface de gestão de processos do SeaTable com automatizações de IA e colaboração em tempo real'
 
     - name: "content-10"
       weight: 8
@@ -92,13 +93,13 @@ sections:
       items:
           - text: Gestão de armazéns
             image: /images/landing_page_operations_template_warehouse_management.jpg
-            image_alt: "Modelo de gestão de processos gestão de armazém"
+            image_alt: "Modelo SeaTable para gestão de armazém e controle de inventário"
           - text: Gestão de frotas
             image: /images/landing_page_operations_template_fleet_management.jpg
-            image_alt: "Modelo de gestão de processos gestão de frotas"
+            image_alt: "Modelo SeaTable para gestão de frota e rastreamento de veículos"
           - text: Inventário
             image: /images/landing_page_operations_template_inventory.jpg
-            image_alt: "Inventário de modelos de gestão de processos"
+            image_alt: "IModelo SeaTable para auditoria de inventário e controle de estoque"
       buttons:
         - label: Navegue pelos nossos modelos
           link: 'templates'
@@ -111,15 +112,19 @@ sections:
       - headline: Painéis de controlo personalizáveis
         text: Capture métricas relevantes e crie relatórios significativos para um maior crescimento do negócio graças a decisões baseadas em dados - com painéis de controlo personalizáveis.
         image: /images/landing_page_operations_analyse-dashboards.jpg
+        image_alt: 'Painéis de relatórios do SeaTable para análise de processos e inteligência de negócios'
       - headline: Visão geral de todos os fluxos de trabalho
         text: "Atrasos, processos ineficientes, sobrecargas: Com notificações automáticas e visualizações de processos, pode manter uma visão geral e reagir imediatamente."
         image: /images/landing_page_operations_workflow-overview.jpg
+        image_alt: 'Visão geral de workflows do SeaTable com notificações automatizadas e visualização de processos'
       - headline: Processos transparentes e eficientes
         text: "Actualizações de estado automatizadas, gestão clara de tarefas e funções de comentário integradas: Com o SeaTable, a sua equipa trabalha sempre em conjunto, em tempo real e com dados actualizados."
         image: /images/landing_page_operations_communication.jpg
+        image_alt: 'Ferramentas de comunicação do SeaTable para colaboração transparente e gestão de tarefas'
       - headline: Front end de operações
         text: "Com o criador de aplicações sem código do SeaTable, pode criar o seu front end individual de gestão de operações e processos com apenas alguns cliques."
         image: /images/landing_page_operations_app.jpg
+        image_alt: 'Construtor de aplicações sem código do SeaTable para frontend operacional personalizado'
 
     - name: "content-4"
       weight: 7
@@ -148,12 +153,15 @@ sections:
           - headline: SeaTable Cloud
             text: A solução descomplicada, flexível e escalável.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – solução flexível e escalável para gestão de processos'
           - headline: Servidor SeaTable
             text: opção no local para um controlo total sobre os seus dados.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – opção local para controle completo dos dados de processos'
           - headline: SeaTable Dedicado
             text: Combina as vantagens do SeaTable Cloud e do SeaTable Server.
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated – combinação de flexibilidade em nuvem e segurança de auto-hospedagem'
 
     - name: banner-2
       weight: 10

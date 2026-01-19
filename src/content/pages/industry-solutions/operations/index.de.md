@@ -67,6 +67,7 @@ sections:
         - text: Einfache Integration mit anderen Tools dank integrierter API
         - text: Cloud-Server und KI-Server werden ausschließlich in Deutschland gehostet
       image: /images/landing_page_operations_01.jpg
+      image_alt: 'SeaTable Prozessmanagement Oberfläche mit KI-Automatisierungen und Echtzeit-Kollaboration'
 
     - name: "content-10"
       weight: 8
@@ -90,13 +91,13 @@ sections:
       items:
           - text: Lagerverwaltung
             image: /images/landing_page_operations_template_warehouse_management.jpg
-            image_alt: "Prozessmanagement Vorlage Lagerverwaltung"
+            image_alt: "SeaTable Vorlage für Lagerverwaltung und Bestandskontrolle"
           - text: Fuhrparkmanagement
             image: /images/landing_page_operations_template_fleet_management.jpg
-            image_alt: "Prozessmanagement Vorlage Fuhrparkmanagement"
+            image_alt: "SeaTable Vorlage für Fuhrparkmanagement und Fahrzeugverfolgung"
           - text: Inventur
             image: /images/landing_page_operations_template_inventory.jpg
-            image_alt: "Prozessmanagement Vorlage Inventur"
+            image_alt: "SeaTable Vorlage für Inventur und Lagerkontrolle"
       buttons:
         - label: Durchsuchen Sie unsere Vorlagen
           link: 'templates'
@@ -109,15 +110,19 @@ sections:
       - headline: Anpassbare Reporting-Dashboards 
         text: Erfassen Sie relevante Metriken und erstellen Sie aussagekräftige Reportings für mehr Business Growth dank datengetriebener Entscheidungen – mit individuell gestaltbaren Dashboards.
         image: /images/landing_page_operations_analyse-dashboards.jpg
+        image_alt: 'SeaTable Reporting-Dashboards für Prozessanalysen und Business Intelligence'
       - headline: Überblick über alle Workflows
         text: "Verzögerungen, ineffiziente Prozesse, Überlastungen: Mit automatisierten Benachrichtigungen und Prozessvisualisierungen behalten Sie den Überblick und können sofort reagieren."
         image: /images/landing_page_operations_workflow-overview.jpg
+        image_alt: 'SeaTable Workflow-Übersicht mit automatisierten Benachrichtigungen und Prozessvisualisierung'
       - headline: Transparente und effiziente Prozesse
         text: "Automatisierte Statusupdates, übersichtliches Task Management und integrierte Kommentarfunktionen: Mit SeaTable arbeitet Ihr Team stets in Echtzeit zusammen und mit aktuellen Daten." 
         image: /images/landing_page_operations_communication.jpg
+        image_alt: 'SeaTable Kommunikations-Tools für transparente Zusammenarbeit und Task Management'
       - headline: Operations-Frontend
         text: "Mit dem No-Code App-Builder von SeaTable erstellen Sie mit wenigen Klicks Ihr individuelles Operations- und Prozessmanagement-Frontend."
         image: /images/landing_page_operations_app.jpg
+        image_alt: 'SeaTable No-Code App Builder für individualisierte Operations-Frontend und Prozessmanagement'
 
     - name: "content-4"
       weight: 7
@@ -146,12 +151,15 @@ sections:
           - headline: SeaTable Cloud
             text: Die unkomplizierte, flexible und skalierbare Lösung.
             image: /images/template-projektplan.png
+            iamge_alt: SeaTable Vorlage für Lagerverwaltung und Inventory Management Prozesse'
           - headline: SeaTable Server
             text: On-Premises-Option für  die volle Kontrolle über ihre Daten.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Vorlage für Fuhrparkmanagement und Fahrzeugverwaltung'
           - headline: SeaTable Dedicated
             text: Kombiniert die Vorteile von SeaTable Cloud und SeaTable Server.  
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Vorlage für Inventur und Bestandsverwaltung'
 
     - name: banner-2
       weight: 10
