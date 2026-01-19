@@ -25,7 +25,7 @@ sections:
           - text: Отслеживания маркетинговой кампании
           - text: Управления лицензиями в вашей компании
       image: '/quick-guide/step1-create-a-base.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Создание новой базы для проектов или процессов'
       image_position: right
 
     - name: 'content-12'
@@ -39,7 +39,7 @@ sections:
           - text: Дата для срока выполнения
           - text: Сотрудник для ответственного
       image: '/quick-guide/step2-structure-your-base.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Структурирование базы путем добавления типов столбцов'
       image_position: left
 
     - name: 'content-12'
@@ -53,7 +53,7 @@ sections:
           - text: Имеют установленный срок
           - text: Назначены ответственному
       image: '/quick-guide/step3-create-first-tasks.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Создание первых задач с описанием, сроком и ответственным'
       image_position: right
 
     - name: 'content-12'
@@ -67,7 +67,7 @@ sections:
           - text: Сотрудники вашей компании
           - text: Счета для ваших клиентов
       image: '/quick-guide/step4-link-records.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Связывание записей между таблицами для отношений'
       image_position: left
 
     - name: 'content-12'
@@ -84,7 +84,7 @@ sections:
           - text: Цвета
           - text: Высота столбца
       image: '/quick-guide/step5-create-new-view.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Создание нового представления с фильтрами, сортировкой и группировкой'
       image_position: right
 
     - name: 'content-12'
@@ -100,7 +100,7 @@ sections:
           - text: Kanban
           - text: Дизайн страницы
       image: '/quick-guide/step6-activate-plugin.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Активация плагинов, таких как календарь, канбан или дизайн страницы'
       image_position: left
 
     - name: 'content-12'
@@ -114,7 +114,7 @@ sections:
           - text: Защита паролем
           - text: Случайный или собственный URL
       image: '/quick-guide/step7-share-your-base.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Поделиться базой через внешнюю ссылку с паролем и сроком действия'
       image_position: right
 
     - name: 'content-12'
@@ -129,7 +129,7 @@ sections:
           - text: Пользователи
           - text: Добавить
       image: '/quick-guide/step8-manage-your-team.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Управление членами команды через интерфейс администрирования команды'
       image_position: left
 
     - name: 'content-12'
@@ -144,7 +144,7 @@ sections:
           - text: Представление
           - text: Столбец
       image: '/quick-guide/step9-set-permissions.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Установка разрешений на уровне базы, таблицы, представления и столбца'
       image_position: right
 
     - name: 'content-12'
@@ -159,7 +159,7 @@ sections:
           - text: Контроль доступа
           - text: Доступ по URL или QR-коду
       image: '/quick-guide/step10-create-a-webform.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Создание веб-формы с визуальным блочным редактором и QR-кодом'
       image_position: left
 
     - name: 'content-12'
@@ -174,7 +174,7 @@ sections:
           - text: Изменения в определённом столбце
           - text: Условия фильтра для отслеживаемых столбцов
       image: '/quick-guide/step11-get-notifications.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Настройка уведомлений о дедлайнах, изменениях или условиях фильтра'
       image_position: right
 
     - name: 'content-12'
@@ -192,7 +192,7 @@ sections:
           - text: Отправить e-mail
           - text: Выполнить Python-скрипт
       image: '/quick-guide/step12-automation-rules.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Конфигурирование правил автоматизации для строк, записей, уведомлений и скриптов'
       image_position: left
 
     - name: 'content-12'
@@ -207,7 +207,7 @@ sections:
           - text: Make.com
           - text: n8n
       image: '/quick-guide/step13-build-business-processes.gif'
-      image_alt: ''
+      image_alt: 'GIF SeaTable: Построение бизнес-процессов через REST-API и интеграции с Zapier, Make, n8n'
       image_position: right
 
     - name: 'content-10'

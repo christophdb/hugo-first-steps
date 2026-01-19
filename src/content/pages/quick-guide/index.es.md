@@ -25,7 +25,7 @@ sections:
           - text: Supervisar una campaña de marketing
           - text: Gestionar las licencias en tu empresa
       image: '/quick-guide/step1-create-a-base.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Creación de una nueva base para proyectos o procesos'
       image_position: right
 
     - name: 'content-12'
@@ -39,7 +39,7 @@ sections:
           - text: Fecha para la fecha de vencimiento
           - text: Empleado para el responsable
       image: '/quick-guide/step2-structure-your-base.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Estructuración de una base añadiendo tipos de columnas'
       image_position: left
 
     - name: 'content-12'
@@ -53,7 +53,7 @@ sections:
           - text: Con una fecha límite asignada
           - text: Asignadas a un responsable
       image: '/quick-guide/step3-create-first-tasks.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Creación de primeras tareas con descripción, fecha límite y responsable'
       image_position: right
 
     - name: 'content-12'
@@ -67,7 +67,7 @@ sections:
           - text: Empleados de tu empresa
           - text: Facturas para tus clientes
       image: '/quick-guide/step4-link-records.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Enlace de registros entre tablas para relaciones'
       image_position: left
 
     - name: 'content-12'
@@ -84,7 +84,7 @@ sections:
           - text: Colores
           - text: Altura de columna
       image: '/quick-guide/step5-create-new-view.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Creación de una nueva vista con filtro, ordenación y agrupación'
       image_position: right
 
     - name: 'content-12'
@@ -100,7 +100,7 @@ sections:
           - text: Kanban
           - text: Diseño de página
       image: '/quick-guide/step6-activate-plugin.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Activación de plugins como calendario, kanban o diseño de página'
       image_position: left
 
     - name: 'content-12'
@@ -114,7 +114,7 @@ sections:
           - text: Protección por contraseña
           - text: URL aleatoria o personalizada
       image: '/quick-guide/step7-share-your-base.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Compartir una base mediante enlace externo con contraseña y caducidad'
       image_position: right
 
     - name: 'content-12'
@@ -129,7 +129,7 @@ sections:
           - text: Usuarios
           - text: Añadir
       image: '/quick-guide/step8-manage-your-team.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Gestión de miembros del equipo mediante interfaz de administración de equipo'
       image_position: left
 
     - name: 'content-12'
@@ -144,7 +144,7 @@ sections:
           - text: Vista
           - text: Columna
       image: '/quick-guide/step9-set-permissions.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Establecimiento de permisos a nivel de base, tabla, vista y columna'
       image_position: right
 
     - name: 'content-12'
@@ -159,7 +159,7 @@ sections:
           - text: Control de acceso
           - text: Acceso por URL o código QR
       image: '/quick-guide/step10-create-a-webform.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Creación de un formulario web con editor de bloques visual y código QR'
       image_position: left
 
     - name: 'content-12'
@@ -174,7 +174,7 @@ sections:
           - text: Cambios en una columna específica
           - text: Condiciones de filtro para columnas monitoreadas
       image: '/quick-guide/step11-get-notifications.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Configuración de notificaciones para plazos, cambios o condiciones de filtro'
       image_position: right
 
     - name: 'content-12'
@@ -192,7 +192,7 @@ sections:
           - text: Enviar correo electrónico
           - text: Ejecutar script de Python
       image: '/quick-guide/step12-automation-rules.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Configuración de reglas de automatización para filas, entradas, notificaciones y scripts'
       image_position: left
 
     - name: 'content-12'
@@ -207,7 +207,7 @@ sections:
           - text: Make.com
           - text: n8n
       image: '/quick-guide/step13-build-business-processes.gif'
-      image_alt: ''
+      image_alt: 'GIF de SeaTable: Construcción de procesos empresariales mediante API REST e integraciones con Zapier, Make, n8n'
       image_position: right
 
     - name: 'content-10'
