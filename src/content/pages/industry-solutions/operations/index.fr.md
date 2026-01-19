@@ -69,6 +69,7 @@ sections:
           - text: "Intégration facile avec d'autres outils grâce à l'API intégrée"
           - text: Le serveur Cloud et le serveur AI sont exclusivement hébergés en Allemagne.
       image: /images/landing_page_operations_01.jpg
+      image_alt: 'Interface de gestion des procédés SeaTable avec automatisations IA et collaboration en temps réel'
 
     - name: 'content-10'
       weight: 8
@@ -92,13 +93,13 @@ sections:
       items:
           - text: Gestion des entrepôts
             image: /images/landing_page_operations_template_warehouse_management.jpg
-            image_alt: "Gestion des processus modèle gestion d'entrepôt"
+            image_alt: "Modèle SeaTable pour gestion d'entrepôt et contrôle d'inventaire"
           - text: Gestion de la flotte
             image: /images/landing_page_operations_template_fleet_management.jpg
-            image_alt: 'Gestion des processus modèle gestion de flotte'
+            image_alt: 'Modèle SeaTable pour gestion de flotte et suivi des véhicules'
           - text: Inventaire
             image: /images/landing_page_operations_template_inventory.jpg
-            image_alt: 'Gestion des processus modèle inventaire'
+            image_alt: "Modèle SeaTable pour audit d'inventaire et contrôle des stocks"
       buttons:
           - label: Parcourir nos modèles
             link: 'templates'
@@ -111,15 +112,19 @@ sections:
           - headline: Tableaux de bord de reporting personnalisables
             text: Capturez des métriques pertinentes et créez des rapports significatifs pour une croissance accrue de l'entreprise grâce à des décisions axées sur les données - avec des tableaux de bord personnalisables.
             image: /images/landing_page_operations_analyse-dashboards.jpg
+            image_alt: 'Tableaux de bord de reporting SeaTable pour analyse des procédés et business intelligence'
           - headline: Aperçu de tous les flux de travail
             text: "Délais, processus inefficaces, surcharges : Avec des notifications automatisées et des visualisations de processus, vous pouvez maintenir une vue d'ensemble et réagir immédiatement."
             image: /images/landing_page_operations_workflow-overview.jpg
+            image_alt: "Vue d'aperçu des workflows SeaTable avec notifications automatisées et visualisation des procédés"
           - headline: Des processus transparents et efficaces
             text: 'Mises à jour automatiques des statuts, gestion claire des tâches et fonctions de commentaires intégrées : Avec SeaTable, votre équipe travaille toujours ensemble en temps réel et avec des données à jour.'
             image: /images/landing_page_operations_communication.jpg
+            image_alt: 'Outils de communication SeaTable pour collaboration transparente et gestion des tâches'
           - headline: Opérations frontales
             text: "Avec le constructeur d'applications sans code de SeaTable, vous pouvez créer votre frontal d'opérations et de gestion des processus personnalisé en quelques clics seulement."
             image: /images/landing_page_operations_app.jpg
+            image_alt: "Créateur d'applications sans code SeaTable pour frontend opérationnel personnalisé"
 
     - name: 'content-4'
       weight: 7
@@ -148,12 +153,15 @@ sections:
           - headline: SeaTable Cloud
             text: La solution simple, flexible et évolutive.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – solution flexible et évolutive pour gestion des procédés'
           - headline: SeaTable Server
             text: Option sur site pour un contrôle total de vos données.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – option locale pour contrôle complet des données de procédés'
           - headline: SeaTable Dedicated
             text: Combine les avantages de SeaTable Cloud et de SeaTable Server.
             image: /images/asana-dedicated.jpg
+            image_alt: "SeaTable Dedicated – combinaison de flexibilité cloud et sécurité d'auto-hébergement"
 
     - name: banner-2
       weight: 10
