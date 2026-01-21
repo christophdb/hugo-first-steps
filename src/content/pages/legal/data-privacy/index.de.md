@@ -6,13 +6,29 @@ seo:
     description: 'Alles zum Datenschutz bei SeaTable : DSGVO, Speicherung in Deutschland für Ihre Datensicherheit.'
 date: 2022-11-03
 version: '1.3.0'
-type: 'legal'
+type: 'legal-new'
 url: '/de/datenschutz'
 aliases:
     - '/datenschutz/'
 ---
 
+<div class="max-w-[800px] mx-auto mt-8">
+<p>Zu Ihrer Information haben wir jeden Absatz des juristischen Fachjargons in leicht verständlicher Sprache zusammengefasst.</p>
+<p>Wie Ihnen wahrscheinlich bewusst ist, dienen die Zusammenfassungen ausschließlich dazu, Ihnen das Verständnis zu erleichtern und Langeweile zu vermeiden. Sie sind rechtlich nicht bindend.</p>
+</div>
+
+<div class="grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
+    <div class="legal-left md:border-r md:pr-8">
+        <h2 class="text-3xl mb-12">Die vollständige Datenschutzerklärung</h2>
+    </div>
+    <div class="legal-right hidden md:block">
+        <h3 class="text-2xl pt-2">und was diese bedeutet...</h3>
+    </div>
+</div>
+
 ## 1\. Datenschutz auf einen Blick
+
+{{< legal-2col >}}
 
 Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.com), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (accounts.seatable.com), das SeaTable Forum (forum.seatable.com) und SeaTable Ideas (ideas.seatable.com) sowie der Store SeaTable Market (market.seatable.io). “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
 
@@ -34,7 +50,23 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 Beim Besuch dieses Online Angebots kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen. Außerdem werden Drittanbieterlösungen eingesetzt.  
 Weitere Informationen zu den verwendeten Analyseprogrammen und eingesetzten Drittanbieterlösungen finden Sie nachfolgend.
 
+===
+
+Dieser Abschnitt erklärt **einfach und verständlich**, was mit Ihren Daten passiert, wenn Sie SeaTable nutzen (Webseite, Cloud, Forum etc.).
+
+**Was steht hier drin:**
+
+- Wie und wann wir Daten erfassen
+- Wofür wir die Daten verwenden
+- Welche Rechte Sie haben
+- Welche Tools wir einsetzen
+- Welchen Dienstleistern wir vertrauen
+
+{{< /legal-2col >}}
+
 ## 2\. Allg. Hinweise & Pflicht­informationen
+
+{{< legal-2col >}}
 
 ### Datenschutz
 
@@ -43,6 +75,16 @@ Die Betreiber dieses Online Angebots nehmen den Schutz Ihrer persönlichen Daten
 Wenn Sie dieses Online Angebot benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+
+===
+
+Wenn Sie unsere Webseite oder unsere Software nutzen, werden Daten erfasst.
+
+Vor der Registrierung werden nur anonyme Informationen wie Seitenaufrufen erfasst. Wenn Sie sich für SeaTable Cloud registrieren oder in unserem Forum anmelden, fragen wir lediglich nach Ihrem Name und Ihrer E-Mail-Adresse. Diese persönlichen Daten schützen wir so gut es geht.
+
+{{< /legal-2col >}}
+
+{{< legal-2col >}}
 
 ### Hinweis zur verantwortlichen Stelle
 
@@ -56,6 +98,14 @@ Telefon: +49 6131 26550
 E-Mail: info@seatable.io
 
 Die verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+
+===
+
+Wenn Sie Fragen haben, schreiben Sie uns eine E-Mail an info@seatable.io.
+
+{{< /legal-2col >}}
+
+{{< legal-2col >}}
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
@@ -95,13 +145,29 @@ Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen
 
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
 
+===
+
+Das sind Ihre Rechte, die Ihnen per Gesetz zustehen. Diese Rechte finden Sie so oder in ähnlicher Form in jeder Datenschutzerklärung.
+
+{{< /legal-2col >}}
+
+{{< legal-2col >}}
+
 ### Keine Datenweitergabe in die USA
 
 Dieses Online Angebot nutzt keine Leistungen von Unternehmen mit Sitz in den USA und bindet auch keine Tools oder Services US-amerikanischer Unternehmen ein. Ihre personenbezogenen Daten werden nicht an US-Server übermittelt.
 
 Ausschließlich im Zusammenhang mit einer Kreditkartenzahlung auf diesem Online Angebot können ggf. personenbezogene Daten indirekt in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig ist.
 
+===
+
+Ihre Daten gelangen nicht in die USA. Nur bei einer Zahlung per Kreditkarte, kriegt das notgedrungen Ihre Kreditkartenanbieter mit.
+
+{{< /legal-2col >}}
+
 ## 3\. Hosting
+
+{{< legal-2col >}}
 
 Dieses Online Angebot nutzt die technische Infrasturktur externer Dienstleister (Hoster). Personenbezogene Daten, die auf diesem Online Angebot und im Rahmen Ihrer elektronischen Kommunikation mit Mitarbeitern erfasst werden, werden auf den Servern des zuständigen Hosters gespeichert. Hierbei handelt es sich vor allem um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Webseitenzugriffe und sonstige Daten, die im Rahmen der Nutzung des Online Angebots generiert werden.
 
@@ -123,7 +189,15 @@ Der Hoster von Test- und Demonstrationssystemen, der SeaTable Cloud Teamverwaltu
 
 Hetzner betreibt Rechenzentren in Europa (Deutschland und Finnland) und den USA. Wir nutzen ausschließlich die europäischen Rechenzentren. Mehr Informationen über die Rechenzentren von Hetzner finden Sie unter [https://www.hetzner.com/de/unternehmen/rechenzentrum/](https://www.hetzner.com/de/unternehmen/rechenzentrum/).
 
+===
+
+SeaTable benötigt Server um seinen Dienst anzubieten. Hierzu mieten wir Server bei den Firmen Exoscale und Hetzner. Alle Server laufen in einem deutschen Rechenzentrum.
+
+{{< /legal-2col >}}
+
 ## 4\. Datenerfassung
+
+{{< legal-2col >}}
 
 ### Log-Daten
 
@@ -195,7 +269,29 @@ Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke
 
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie auf dieser Website registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
 
+===
+
+Wir erfassen Informationen wie:
+
+- IP-Adresse (ohne die letzte Stelle)
+- Information über Ihren Browser
+- Seiten, die Sie besucht haben
+
+Wenn Sie uns kontaktieren oder für SeaTable Cloud registrieren, müssen wir zwangsläufig weitere Informationen über Sie erfassen. Sonst könnten wir z.B. auf Ihre E-Mailanfrage nicht antworten oder kein Konto für Sie anlegen.
+
+Wir nutzen auch Cookies, aber nur welche, die wir zwingend für den Betrieb unserer Webseite und unseres Angebots benötigen. Ohne Cookies, könnten Sie sich bei SeaTable Cloud nicht anmelden oder auf unserer Webseite würden manche Dinge nicht angezeigt werden.
+
+Ganz wichtig: wir nutzen keine fremden Cookies. Sie werden bei uns kein Adobe, TikTok, Microsoft und Co. finden. Die Cookies können auch nur von unserer eigenen Webseiten ausgelesen werden.
+
+Wir betreiben großen Aufwand, um alle unsere Softwarelösungen auf eigenen Servern zu betreiben. Folglich sind wir die Einzigen, die Ihre Daten zu Gesicht bekommen. Wir geben diese an niemanden weiter.
+
+Einzig unser E-Mails verschicken wir nicht selbst. Das übernimmt Sendinblue für uns. Später mehr dazu.
+
+{{< /legal-2col >}}
+
 ## 5\. Analyse-Tools
+
+{{< legal-2col >}}
 
 ### Posthog
 
@@ -211,7 +307,17 @@ Posthog ist so konfiguriert, dass keine Rückschlüsse auf einzelne Personen mö
 
 Wir nutzen Posthog, um die Funktionen unserer Website gezielt ausspielen, die Nutzung analysieren und unser Angebot weiter optimieren zu können. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
+===
+
+Wir betreiben einen eigenen Posthog Server. Wir nutzen diesen für anonymisierte Analysen und um neue Funktionen gezielt bestimmten Nutzergruppen anzuzeigen.
+
+In Posthog erfassen wir nur Daten nur Anonym. Ihren Namen verwenden wir nicht. Ihre E-Mailadresse wird gehasht.
+
+{{< /legal-2col >}}
+
 ## 6\. Newsletter
+
+{{< legal-2col >}}
 
 Wenn Sie einen oder mehrere der angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
 
@@ -247,7 +353,18 @@ Wenn Sie keine Analyse durch Sendinblue wollen, müssen Sie den Newsletter abbes
 **Auftragsverarbeitung**  
 Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Sendinblue einen Vertrag zur Auftragsverarbeitung abgeschlossen. Darüber hinaus ist Sendinblue vom TÜV Rheinland zertifiziert. Damit bestätigt der TÜV Rheinland als unabhängiger Dritter, dass Sendinblue ein Datenschutzmanagementsystem zum Schutz der Kundendaten etabliert.
 
+===
+
+Wir werden Ihnen gerne gelegentlich einen Newsletter per E-Mail schicken. Wir versprechen keinen Spam zu verschicken. Trotzdem können Sie sich jederzeit davon abmelden.
+Den Link zur Abmeldung finden Sie in jeder Newsletter-E-Mail.
+
+Unsere E-Mails verschicken wir über die Firma Sendinblue.
+
+{{< /legal-2col >}}
+
 ## 7\. Plugins und Tools
+
+{{< legal-2col >}}
 
 ### YouTube
 
@@ -265,7 +382,15 @@ Dieses Online Angebot nutzt Schriftarten, die von Google bereitgestellt werden (
 
 Wir haben alle verwendeten Google Fonts auf den Servern des Online Angebots installiert. Dies erlaubt die Nutzung der Schriftarten in diesem Online Angebot, ohne dass eine Verbindung zu den Servern von Google hergestellt werden muss.
 
+===
+
+Wir nutzen YouTube Videos und Google Fonts auf unserer Webseite. Von dort werden keine Daten an Google übertragen.
+
+{{< /legal-2col >}}
+
 ### Zammad
+
+{{< legal-2col >}}
 
 Zur Bearbeitung von Nutzeranfragen verwenden wir das Helpdesk- und Ticket-System Zammad (Zammad). Entwickler der Software ist die Zammad GmbH, Marienstraße 18, 10117 Berlin, Deutschland. Die Software ist unter der GNU Affero General Public License (AGPL), Version 3, veröffentlicht und ist damit freie, quelloffene Software.
 
@@ -277,7 +402,15 @@ Wir nutzen Zammad, um Ihre Anfragen schnell und effizient bearbeiten zu können.
 **Speicherdauer**  
 Die an uns gerichteten Anfragen und Nachrichten verbleiben bei uns, bis Sie uns zur deren Löschung auffordern oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
 
+===
+
+Wir nutzen das Ticketsystem Zammad, welches wir auf einem eigenen Server installiert haben. Wenn Sie uns eine Anfrage schicken, speichern und beantworten diese.
+
+{{< /legal-2col >}}
+
 ## 8\. eCommerce- und Zahlungsanbieter
+
+{{< legal-2col >}}
 
 ### Verarbeitung von Daten (Kunden- und Vertragsdaten)
 
@@ -309,7 +442,21 @@ Die Übermittlung Ihrer Daten an Stripe erfolgt auf Grundlage Art. 6 Abs. 1 lit.
 **Auftragsverarbeitung**  
 Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Stripe einen Vertrag zur Auftragsverarbeitung geschlossen.
 
+===
+
+Wir fragen nur die notwendigsten Informationen von Ihnen ab:
+
+- vor der Registrierung gar nicht
+- zur Registrierung nur Namen und E-Mail-Adresse
+- Bei einem kostenpflichtigen Abonnement nur die Rechnungsadresse und Kreditkarteninformation
+
+Die Kreditkartendaten verarbeiten wir nicht selbst, sondern nutzen den Zahlungsdienstleister Stripe.
+
+{{< /legal-2col >}}
+
 ## 9\. Audio- und Videokonferenzen
+
+{{< legal-2col >}}
 
 Für die Kommunikation mit unseren Kunden setzen wir Webkonferenz-Tools ein. Die im Einzelnen von uns genutzten Tools sind unten aufgelistet. Wenn Sie mit uns per Video- oder Audiokonferenz via Internet kommunizieren, werden Ihre personenbezogenen Daten von uns und dem Anbieter des jeweiligen Konferenz-Tools erfasst und verarbeitet.
 
@@ -339,6 +486,14 @@ Wir haben mit dem Anbieter von TeamViewer einen Vertrag zur Auftragsverarbeitung
 ### Jitsi-Meet Webkonferenz
 
 Wir nutzen die Open-Source-Webkonferenzlösung _Jitsi-Meet_. Wir haben diese Lösung auf einem eigenen Server installiert. Wenn Sie per Jitsi Meet mit uns kommunizieren, werden alle mit diesem Kommunikationsvorgang verbunden Daten ausschließlich auf diesem verarbeitet.
+
+===
+
+Wir nutzen **Jitsi Meet** (auf eigenem Server) und **TeamViewer** (mit DSGVO-Vertrag). Bei Calls erfassen die Tools E-Mail, IP-Adresse, Chat/Dateien.
+
+**Warum?** Damit wir Sie schnell & gut unterstützen können!
+
+{{< /legal-2col >}}
 
 ## Frühere Versionen dieser Datenschutzerklärung
 
