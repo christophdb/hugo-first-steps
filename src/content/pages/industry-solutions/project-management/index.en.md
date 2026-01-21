@@ -14,7 +14,7 @@ sections:
     - name: hero-5
       weight: 1
       title: The most flexible solution among project management tools
-      text: Plan and control your projects efficiently with SeaTable. Collaborate with your team in real-time and **optimize and automate your processes**. SeaTable offers you all the advantages of modern project management tools that you need for collaborative project organization. 
+      text: Plan and control your projects efficiently with SeaTable. Work collaboratively in real time as a team and **use AI-powered workflows** to optimize and automate your processes. SeaTable offers you all the advantages of modern project management tools that you need for collaborative project organization. 
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -30,31 +30,31 @@ sections:
       weight: 4
       title: SeaTable is the perfect solution for your project management
       subtitle: Advantages of SeaTable
-      text: "As a project manager, you must always maintain an overview to effectively manage complex projects. However, conventional project management software often reaches its limits, especially when it comes to agile projectmanagement. SeaTable offers you an excellent experience that scores with the following advantages:"
+      text: "As a project manager, you must always keep an overview to manage complex projects effectively. However, traditional project management software often reaches its limits, especially when it comes to agile project management. SeaTable offers you an excellent experience, enhanced with modern AI features and the following advantages:"
       items:
       - icon: edit
-        headline: Flexibility and adaptability to your needs
-        text: "Develop customized solutions with SeaTable that adapt precisely to your needs. Whether you want to get started with agile projectmanagement methods or keep track with classic Gantt charts: SeaTable offers you the freedom to realize your individual ideas of efficient project management."
-
+        headline: Flexibility and adaptability to your needs with AI power
+        text: "Develop tailor-made, AI-supported solutions with SeaTable that perfectly fit your needs. Whether you want to launch agile project management methods, create AI-supported status reports, or keep an overview with classic Gantt charts – SeaTable gives you the freedom to realize your vision of efficient project management."
+  
       - icon: up-right-and-down-left-from-center
-        headline: Intuitive, clear user interface
-        text: "Thanks to the intuitive design and the user-friendly interface, you can map your daily project work quickly and efficiently. All data is clearly structured in tables and can be visually displayed in calendars, organizational charts, statistics as well as on Kanban boards and timelines with just a few clicks."
+        headline: Intuitive interface and intelligent data visualization
+        text: "Thanks to the intuitive design and AI-powered interface, you can map your project routines quickly and efficiently. All your data is clearly structured in tables and can be visualized in calendars, organizational charts, AI-generated statistics, as well as Kanban boards and timelines with just a few clicks."
 
       - icon: location-dot
-        headline: Real-time overview and teamwork
-        text: "Thanks to comprehensive collaboration functions (e.g. groups, comments and shares), your processes mesh together and everyone knows what to do. With SeaTable, you stay up to date – whether it's assigning tasks, tracking progress or working on documents together."
-      
+        headline: Real-time overview and team collaboration
+        text: "With comprehensive collaboration features and smart notifications, your processes are seamlessly connected and everyone knows what to do. In SeaTable, you always stay up to date – whether it’s AI-based task assignment, progress tracking, or joint document editing."
+
       - icon: heart
-        headline: Automation of routine tasks
-        text: Automate recurring [Workflows]({{< relref "pages/industry-solutions/individual" >}}) in SeaTable. This reduces manual effort and minimizes human errors. You can also integrate all your favorite tools with SeaTable via the SeaTable API or automation platforms such as Zapier, Make and n8n.
+        headline: AI-powered automation of routine tasks
+        text: Automate recurring [workflows]({{< relref "pages/industry-solutions/individual" >}}) in SeaTable using smart AI logic. This drastically reduces manual data entry and minimizes human error. Through the SeaTable API or automation platforms, you can also integrate all your favorite tools with SeaTable.
 
       - icon: globe
-        headline: Scalability, mode of operation and data protection
-        text: "Your project team is growing or the project scope is changing? SeaTable grows with you. No matter how large your team or how complex the project becomes: Thanks to our cloud packages, you can scale as required. Your data is hosted exclusively on European servers and is protected in accordance with GDPR."
-      
+        headline: Scalability, data protection, and AI sovereignty
+        text: "Your project team is growing or the project scope changes? SeaTable grows with you. No matter how complex the project becomes – thanks to our cloud packages, you can scale freely while your data and AI queries are hosted exclusively on European servers and protected in compliance with the GDPR."
+
       - icon: shield
-        headline: Cost efficiency through customized solutions
-        text: "As a free project management tool, SeaTable impresses with its cost efficiency and flexibility: Choose between different models and adapt your project management software to your project. SeaTable Free is permanently free - you only scale when necessary."
+        headline: Cost efficiency through intelligent, tailor-made solutions
+        text: "As a free project management tool, SeaTable impresses with cost efficiency and modern AI features. Choose between various models and adjust your project management software, including AI credits, to your specific project. SeaTable Free is permanently free – you scale only when needed."
 
     - name: content-12
       weight: 8
@@ -66,7 +66,7 @@ sections:
       items:
         - text: Improved communication in teams
         - text: Real-time collaboration
-        - text: Automated workflows
+        - text: AI-automated workflows
         - text: Implementation without programming knowledge
         - text: 100 percent GDPR-compliant
       image: /images/Projektmanagement_Teamwork-6.png
@@ -80,7 +80,7 @@ sections:
       - headline: Quick onboarding
         text: Many project management systems offer complicated functions that confuse rather than help. SeaTable offers an intuitive interface, easy-to-use templates, and immediate accessibility.
       - headline: Lots of creative freedom
-        text: SeaTable allows you to start from scratch and customize your processes. You get all the tools you need to develop your project according to your ideas.
+        text: The [AI no-code platform]({{< relref "\" >}}) allows you to start from scratch and customize your processes. You get all the tools you need to develop your project according to your ideas.
       - headline: Transparency and data protection
         text: With SeaTable, you bundle all information in one place, work together on projects, and synchronize changes in real-time. This creates transparency for all project participants. 
       - headline: Inexpensive solution
@@ -197,9 +197,8 @@ sections:
           - q: Which subscription do I need for efficient project management?
             a: With the Free subscription you already get the most important functions for smaller projects and teams. With the Plus subscription the collaboration with external stakeholders becomes much easier thanks to the extended sharing options and the higher storage limits allow you to manage larger projects. In the Enterprise subscription finally automations, extended customizing and the Big-Data storage for data-intensive projects are added.
           - q: How can I migrate my data to SeaTable?
-            a: "SeaTable offers numerous import options, which make the migration of your data and the switch from your previous project management Tools easy. Upload your existing data and within shortest time your new project management system is ready for use. Thanks to the intuitive, graphical user interface you will quickly find your way around."
-          - q: "Is SeaTable an alternative to Monday, Jira or Asana?"
-            a: "Asana, Monday and Jira are three well-known project management tools that many teams around the world use. If you're wondering whether these project management tools are free, the answer is no - apart from very limited versions. In contrast to SeaTable, you have to accept high costs, especially for larger teams, as double-digit amounts are incurred per user and month. If you want to run project management with Monday, Jira or Asana, it can get really expensive. SeaTable, on the other hand, is a convincing free project management tool for teams of any size thanks to its extensive free subscription.
-            In addition, the classic project management tools are less intuitive than SeaTable. This is especially true for free project management tools. The wealth of functions can be overwhelming for beginners, especially if you want to map your project management in Monday. Jira is particularly specialised in software projects and agile projectmanagement according to Scrum, which already requires a lot of knowledge. The fact that most project participants first have to acquire this knowledge means that familiarisation takes a relatively long time, whereas you can get started straight away with SeaTable. Asana and Jira are also less flexible than SeaTable and are not recommended for data-intensive projects. Read more about this in our [blog]({{< relref \"posts\" >}})."
+            a: SeaTable offers numerous import options, which make the migration of your data and the switch from your previous project management Tools easy. Upload your existing data and within shortest time your new project management system is ready for use. Thanks to the intuitive, graphical user interface you will quickly find your way around.
+          - q: Is SeaTable an alternative to Monday, Jira or Asana?
+            a: Asana, Monday, and Jira are three well-known project management tools used by many teams around the world. If you are wondering whether these project management tools are free, the answer is no, except for versions with severely limited functionality. Unlike SeaTable, you will have to accept high costs, especially for larger teams, as the price per user per month is in the double digits. If you want to use Monday, Jira, or [Asana Project Management]({{< relref "pages/asana-alternative" >}}), it can get really expensive. SeaTable, on the other hand, offers a comprehensive free subscription, making it the ideal free project management tool for teams of all sizes. <br>In addition, traditional project management tools are less intuitive than SeaTable. This is especially true for free project management tools. The wealth of features can be overwhelming for beginners, especially if you want to map your project management in Monday. Jira specializes in software projects and agile project management according to Scrum, which already requires a lot of knowledge. Since most project participants first have to acquire this knowledge, training takes a relatively long time, whereas with SeaTable, you can get started right away. Compared to SeaTable, Asana and Jira are also less flexible and not recommended for data-intensive projects. Read more about this in our [blog]({{< relref "posts" >}}).
 
 ---
