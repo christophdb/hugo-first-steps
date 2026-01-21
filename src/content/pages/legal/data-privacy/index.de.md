@@ -14,7 +14,7 @@ aliases:
 
 ## 1\. Datenschutz auf einen Blick
 
-Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.io), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (accounts.seatable.io), das SeaTable Forum (forum.seatable.com) und SeaTable Ideas (ideas.seatable.com) sowie der Store SeaTable Market (market.seatable.io). “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
+Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.com), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (accounts.seatable.com), das SeaTable Forum (forum.seatable.com) und SeaTable Ideas (ideas.seatable.com) sowie der Store SeaTable Market (market.seatable.io). “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
 
 **Wer ist verantwortlich für die Datenverarbeitung auf diesem Online Angebot?**  
 Die Datenverarbeitung auf diesem Online Angebot erfolgt durch den Betreiber SeaTable GmbH, dessen Kontaktdaten Sie dem Impressum entnehmen können.
@@ -27,7 +27,7 @@ Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch des Onl
 Die meisten Daten werden erhoben, um vertragliche und vorvertragliche Pflichten zu erfüllen (z.B. E-Mail-Adresse, Anschrift, Anfragen) und um eine fehlerfreie Bereitstellung des Online Angebots zu gewährleisten (z.B. Log-Daten). Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
 
 **Welche Rechte haben Sie bezüglich Ihrer Daten?**  
-Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem das Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.  
+Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem das Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 
 **Werden Analyse-Tools und Tools von Drittanbietern eingesetzt?**  
@@ -113,19 +113,15 @@ Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit allen g
 
 ### Exoscale
 
-Der Hoster der Webseite, des Cloud-Dienstes SeaTable Cloud, der SeaTable Cloud Teamverwaltung, des SeaTable Forums und der SeaTable Ideas sowie des Stores SeaTable Market ist die Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne, Schweiz (Exoscale).
+Der Hoster des Cloud-Dienstes "SeaTable Cloud" ist die Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne, Schweiz (Exoscale).
 
 Die Daten bei Exoscale werden ausschließlich in deutschen Rechenzentren in Frankfurt am Main und München gespeichert. Das Rechenzentrum in Frankfurt verfügt über Zertifizierungen nach ISO 9001, 14001, 27001 und 50001\. Darüber hinaus ist es zertifiziert nach PCI DSS 3.2 und OHSAS 18001\. Das Rechenzentrum in München ist zertifiziert nach ISO 9001 und 27001 sowie PCI DSS 3.2, SOC-1 Type II und SOC-2 Type II. Mehr Informationen über die Rechenzentren von Exoscale finden Sie unter [https://www.exoscale.com/datacenters/](https://www.exoscale.com/datacenters/).
 
 ### Hetzner
 
-Der Hoster von Test- und Demonstrationssystemen ist die Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland (Hetzner). Wir nutzen diese Systeme mit dem Ziel, die Performance und Stabilität von SeaTable Cloud zu verbessern und interessierten Parteien individuelle Testmöglichkeiten anzubieten.
+Der Hoster von Test- und Demonstrationssystemen, der SeaTable Cloud Teamverwaltung, des SeaTable Forums, des SeaTable Ticketsystems, der SeaTable Ideas, SeaTable Market, des Mailservers und unserer Webkonferenzlösung ist die Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland (Hetzner).
 
 Hetzner betreibt Rechenzentren in Europa (Deutschland und Finnland) und den USA. Wir nutzen ausschließlich die europäischen Rechenzentren. Mehr Informationen über die Rechenzentren von Hetzner finden Sie unter [https://www.hetzner.com/de/unternehmen/rechenzentrum/](https://www.hetzner.com/de/unternehmen/rechenzentrum/).
-
-### Host Europe
-
-Der Hoster des Mail-Servers, der die diesem Online Angebot zugeordneten E-Mail-Postfächer verwaltet, ist die Host Europe GmbH, Hansestraße 111, 51149 Köln, Deutschland (Host Europe).
 
 ## 4\. Datenerfassung
 
@@ -160,6 +156,19 @@ Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies i
 
 DIESES ONLINE ANGEBOT VERWENDET AUSSCHLIESSLICH COOKIES, DIE FÜR DEN ORGNUNGSGEMÄSSEN BETRIEB NOTWENDIG SIND.
 
+**Übersicht der Cookies**
+
+| Name des Cookies    | Gültigkeit | Reichweite                 |
+| ------------------- | ---------- | -------------------------- |
+| ph_phc_xxxx_posthog | 365d       | .seatable.com/.seatable.io |
+| \_t                 | 1d         | forum.seatable.com         |
+| \_forum_session     | Session    | forum.seatable.com         |
+| \_\_profilin        | Session    | forum.seatable.com         |
+| dtable_csrftoken    | 365d       | cloud.seatable.io          |
+| sessionId           | 7d         | cloud.seatable.io          |
+| django_language     | 30d        | cloud.seatable.io          |
+| zammad_session_xxxx | Session    | support.seatable.com       |
+
 ### Kontaktformular
 
 Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
@@ -188,16 +197,19 @@ Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Si
 
 ## 5\. Analyse-Tools
 
-### Matomo
+### Posthog
 
-Diese Online Angebot nutzt die Webanalysesoftware Matomo Analytics (Matomo). Matomo ist unter der GNU General Public License (GPL), Version 3, veröffentlicht und ist damit freie, quelloffene Software.
+Dieses Online Angebot nutzt die Entwicklungs- und Analyseplattform Posthog (Self-Hosted Edition). Posthog (Self-Hosted Edition) ist unter der "MIT Expat"-Lizenz veröffentlich und ist damit freie, quelloffene Software.
 
-Matomo ermöglicht es dem Webseitenbetreiber, das Verhalten der Seitenbesucher zu analysieren. Hierbei erhält der Betreiber verschiedene Nutzungsdaten, wie z.B. Seitenaufrufe, Verweildauer, verwendete Betriebssysteme und Herkunft des Nutzers.
+Posthog ermöglicht es uns, gezielt neue oder ausgewählte Funktionen (sogenannte _Feature Flags_) für bestimmte Nutzergruppen zu aktivieren bzw. anzuzeigen. Darüber hinaus wird das anonymisierte Verhalten von Seitenbesuchern analysiert, um die Nutzung und Interaktion mit unserem Angebot besser zu verstehen.
 
-Wir haben Matomo auf einem eigenen Server installiert. Wir betreiben Matomo mit Einstellungen, die kein Tracking oder die Wiedererkennung einzelner Benutzer erlauben: Auf die Nutzung von Tracking Cookies und anderen erweiterten Funktionen wie Custom Variables wird verzichtet und IP-Adressen werden anonymisiert. Eine Weitergabe der erfassten Daten erfolgt nicht.
+Dabei werden Nutzungsdaten wie aufgerufene Seiten, Verweildauer, verwendetes Betriebssystem sowie die ungefähre Herkunft der Besucher erfasst. Wir haben Posthog auf einem eigenen Server installiert; die Verarbeitung der Daten erfolgt ausschließlich auf diesem Server. Eine Weitergabe an Dritte findet nicht statt. Eine Zusammenführung mit fremden Datenquellen erfolgt nicht.
 
-**Zweck und Rechtsgrundlage**  
-Wir nutzen Matomo, um das Nutzerverhalten zu untersuchen und unser Angebot zu optimieren. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
+Posthog ist so konfiguriert, dass keine Rückschlüsse auf einzelne Personen möglich sind. IP-Adressen werden vor der Verarbeitung gekürzt und dadurch anonymisiert. Weitere personenbezogene Daten werden gehasht.
+
+**Zweck und Rechtsgrundlage**
+
+Wir nutzen Posthog, um die Funktionen unserer Website gezielt ausspielen, die Nutzung analysieren und unser Angebot weiter optimieren zu können. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
 ## 6\. Newsletter
 
@@ -324,11 +336,9 @@ Dieses Online Angebot nutzt die Webmeeting- und Ferwnartungsoftware TeamViewer. 
 **Abschluss eines Vertrags über Auftragsverarbeitung**  
 Wir haben mit dem Anbieter von TeamViewer einen Vertrag zur Auftragsverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von TeamViewer vollständig um.
 
-### 3CX Webkonferenz
+### Jitsi-Meet Webkonferenz
 
-Wir nutzen außerdem das Webkonferenzmodul von 3CX, das Teil unserer Telefonanlage ist. Anbieter der Telefonanlagensoftware ist die 3CX Ltd., 4, Markou Drakou, Nicosia, CY 2409, Zypern (3CX).
-
-Wir haben die 3CX Telefonanlage auf einem eigenen Server installiert. Wenn Sie per 3CX Webkonferenz mit uns kommunizieren, werden alle mit diesem Kommunikationsvorgang verbundenen Daten ausschließlich auf diesem verarbeitet.
+Wir nutzen die Open-Source-Webkonferenzlösung _Jitsi-Meet_. Wir haben diese Lösung auf einem eigenen Server installiert. Wenn Sie per Jitsi Meet mit uns kommunizieren, werden alle mit diesem Kommunikationsvorgang verbunden Daten ausschließlich auf diesem verarbeitet.
 
 ## Frühere Versionen dieser Datenschutzerklärung
 
