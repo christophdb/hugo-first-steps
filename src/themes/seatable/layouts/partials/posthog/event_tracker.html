@@ -2,21 +2,6 @@
     <!-- Don't add posthog to localhost -->
 {{ else }}
     <script>
-        // Capture pageview after redirect logic has run
-        document.addEventListener('alpine:initialized', () => {
-            // Capture pageview
-            posthog.capture('$pageview');
-
-            // Set up pageleave capture
-            const handlePageLeave = () => {
-                posthog.capture('$pageleave', null, { transport: 'sendBeacon' });
-            };
-
-            // Use pagehide if available for better reliability, otherwise fallback to unload
-            const event = 'onpagehide' in window ? 'pagehide' : 'unload';
-            window.addEventListener(event, handlePageLeave);
-        });
-
         document.addEventListener('click', function (e) {
             const target = e.target.closest('[data-ph-capture-attribute-link-name], [data-ph-capture-event-name]'); // Erweitert um Event-Name-Selector
 
