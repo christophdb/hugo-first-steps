@@ -80,7 +80,7 @@ sections:
       - headline: Quick onboarding
         text: Many project management systems offer complicated functions that confuse rather than help. SeaTable offers an intuitive interface, easy-to-use templates, and immediate accessibility.
       - headline: Lots of creative freedom
-        text: The [AI no-code platform]({{< relref "\" >}}) allows you to start from scratch and customize your processes. You get all the tools you need to develop your project according to your ideas.
+        text: The [AI no-code platform]({{< relref "/" >}}) allows you to start from scratch and customize your processes. You get all the tools you need to develop your project according to your ideas.
       - headline: Transparency and data protection
         text: With SeaTable, you bundle all information in one place, work together on projects, and synchronize changes in real-time. This creates transparency for all project participants. 
       - headline: Inexpensive solution
