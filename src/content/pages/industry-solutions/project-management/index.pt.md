@@ -14,7 +14,7 @@ sections:
     - name: hero-5
       weight: 1
       title: A solução mais flexível entre as ferramentas de gestão de projetos
-      text: Planeje e controle seus projetos de forma eficiente com o SeaTable. Trabalhe em equipe de forma colaborativa em tempo real e **otimize e automatize seus processos**. O SeaTable oferece todas as vantagens das ferramentas modernas de gestão de projetos de que você precisa para uma organização de projetos colaborativa. 
+      text: Planeje e controle seus projetos de forma eficiente com o SeaTable. Trabalhe em equipa de forma colaborativa em tempo real e **utilize fluxos de trabalho baseados em IA** para otimizar e automatizar os seus processos. O SeaTable oferece todas as vantagens das ferramentas modernas de gestão de projetos de que você precisa para uma organização de projetos colaborativa. 
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -26,51 +26,51 @@ sections:
           - label: Conheça as funções
             link: pages/functions
 
-    - name: "content-4"
+    - name: 'content-4'
       weight: 4
       title: O SeaTable é a solução perfeita para a sua gestão de projetos
       subtitle: Vantagens do SeaTable
-      text: "Como gestor de projetos, você deve sempre manter uma visão geral para controlar projetos complexos de forma eficaz. No entanto, o software convencional para gestão de projetos muitas vezes atinge seus limites, especialmente quando se trata de gestão ágil de projetos. O SeaTable oferece a você uma excelente experiência, que se destaca pelas seguintes vantagens:"
+      text: "Como gestor de projetos, é essencial manter uma visão geral para gerir projetos complexos de forma eficaz. No entanto, o software tradicional de gestão de projetos muitas vezes atinge os seus limites, especialmente na gestão ágil. O SeaTable oferece uma excelente experiência com recursos modernos de IA e as seguintes vantagens:"
       items:
       - icon: edit
-        headline: Flexibilidade e adaptabilidade às suas necessidades
-        text: "Desenvolva com o SeaTable soluções personalizadas, que se adaptam exatamente às suas necessidades. Não importa se você deseja começar com métodos ágeis de gestão de projetos ou manter uma visão geral com diagramas de Gantt clássicos: o SeaTable oferece a você a liberdade de realizar as suas ideias individuais de gestão eficiente de projetos."
+        headline: Flexibilidade e adaptabilidade às suas necessidades com o poder da IA
+        text: "Desenvolva soluções personalizadas com suporte de IA no SeaTable que atendam exatamente às suas necessidades. Quer implemente métodos ágeis, crie relatórios de status impulsionados por IA ou mantenha o controlo com diagramas de Gantt, o SeaTable oferece-lhe a liberdade de concretizar a sua visão de gestão de projetos eficiente."
 
       - icon: up-right-and-down-left-from-center
-        headline: Interface de utilizador intuitiva e clara
-        text: "Graças ao design intuitivo e à interface amigável, você representa o seu dia a dia de projeto de forma rápida e eficiente. Todos os dados são estruturados de forma clara em tabelas e podem ser visualizados de forma ilustrativa em calendários, organogramas, estatísticas, bem como em quadros Kanban e cronogramas com apenas alguns cliques."
+        headline: Interface intuitiva e visualização inteligente de dados
+        text: "Graças ao design intuitivo e à interface baseada em IA, pode representar o seu dia a dia de forma rápida e eficaz. Todos os dados estão organizados em tabelas e podem ser visualizados facilmente em calendários, organogramas, estatísticas geradas por IA, quadros Kanban e cronogramas."
 
       - icon: location-dot
-        headline: Visão geral em tempo real e colaboração em equipe
-        text: "Graças às abrangentes funções de colaboração (por exemplo, grupos, comentários e compartilhamentos), seus processos se encaixam e todos sabem o que fazer. No SeaTable, você se mantém atualizado – não importa se se trata da atribuição de tarefas, do acompanhamento do progresso ou da edição conjunta de documentos."
-      
+        headline: Visão em tempo real e colaboração em equipa
+        text: "Com funções abrangentes de colaboração e notificações inteligentes, os seus processos funcionam em conjunto e todos sabem o que fazer. No SeaTable, estará sempre atualizado — seja na atribuição automática de tarefas com IA, no acompanhamento de progresso ou na edição colaborativa de documentos."
+
       - icon: heart
-        headline: Automatização de tarefas de rotina
-        text: Automatize no SeaTable [workflows]({{< relref "pages/industry-solutions/individual" >}}) recorrentes. Assim, você reduz o trabalho manual e minimiza os erros humanos. Através da API do SeaTable ou de plataformas de automatização como Zapier, Make e n8n você pode, além disso, integrar todas as suas ferramentas favoritas ao SeaTable.
+        headline: Automação de tarefas rotineiras com IA
+        text: Automatize no SeaTable os [fluxos de trabalho]({{< relref "pages/industry-solutions/individual" >}}) recorrentes com lógica inteligente de IA. Isso reduz drasticamente o esforço manual e minimiza erros humanos. Através da API do SeaTable ou plataformas de automação, também pode integrar todas as suas ferramentas favoritas.
 
       - icon: globe
-        headline: Escalabilidade, tipo de operação e proteção de dados
-        text: "Sua equipe de projeto está crescendo ou o escopo do projeto está mudando? O SeaTable cresce com você. Não importa quão grande seja sua equipe ou quão complexo seja o projeto: graças aos nossos pacotes na nuvem, você pode escalar como quiser. Seus dados são hospedados exclusivamente em servidores europeus e são protegidos de acordo com o RGPD."
-      
-      - icon: shield
-        headline: Eficiência de custos através de soluções personalizadas
-        text: "Como ferramenta gratuita de gestão de projetos, o SeaTable convence com sua eficiência de custos e flexibilidade: escolha entre diferentes modelos e adapte o seu software de gestão de projetos ao seu projeto. O SeaTable Free é permanentemente gratuito – você só escala quando necessário."
+        headline: Escalabilidade, proteção de dados e soberania de IA
+        text: "A sua equipa cresce ou o escopo do projeto muda? O SeaTable cresce consigo. Independentemente da complexidade do projeto, com os nossos pacotes em nuvem pode escalar livremente, enquanto os seus dados e consultas de IA são hospedados exclusivamente em servidores europeus e protegidos conforme o RGPD."
 
-    - name: content-12
-      weight: 8
-      classes: 
-        - curved
-        - bg-white
-      title: Gestão de projetos para todos os tamanhos de equipe
-      subtitle: Gerenciar equipes de projeto
-      items:
-        - text: Melhor comunicação nas equipes
-        - text: Colaboração em tempo real
-        - text: Workflows automatizados
-        - text: Implementação sem conhecimentos de programação
-        - text: 100% em conformidade com o RGPD
-      image: /images/Projektmanagement_Teamwork-6.png
-      image_alt: 'Vista de gestão de projetos no SeaTable para trabalho em equipa com tarefas e estados'
+      - icon: shield
+        headline: Eficiência de custos com soluções inteligentes e personalizadas
+        text: "Como ferramenta gratuita de gestão de projetos, o SeaTable destaca-se pela eficiência de custos e recursos modernos de IA. Escolha entre vários modelos e adapte o software de gestão de projetos, incluindo créditos de IA, ao seu projeto. O SeaTable Free é gratuito para sempre — só escala quando necessário."
+
+      - name: content-12
+        weight: 8
+        classes: 
+          - curved
+          - bg-white
+        title: Gestão de projetos para todos os tamanhos de equipe
+        subtitle: Gerenciar equipes de projeto
+        items:
+          - text: Melhor comunicação nas equipes
+          - text: Colaboração em tempo real
+          - text: Fluxos de trabalho automatizados por IA
+          - text: Implementação sem conhecimentos de programação
+          - text: 100% em conformidade com o RGPD
+        image: /images/Projektmanagement_Teamwork-6.png
+        image_alt: 'Vista de gestão de projetos no SeaTable para trabalho em equipa com tarefas e estados'
 
     - name: content-1
       weight: 9
@@ -80,7 +80,7 @@ sections:
       - headline: Integração rápida
         text: Muitos sistemas de gestão de projetos oferecem funções complicadas, que mais confundem do que ajudam. O SeaTable oferece uma interface intuitiva, modelos fáceis de usar e acessibilidade imediata.
       - headline: Muita liberdade de criação
-        text: O SeaTable permite que você comece do zero e personalize seus processos individualmente. Você recebe todas as ferramentas necessárias para desenvolver o seu projeto de acordo com as suas ideias.
+        text: A [plataforma No‑Code com IA]({{< relref "/" >}}) permite que você comece do zero e personalize seus processos individualmente. Você recebe todas as ferramentas necessárias para desenvolver o seu projeto de acordo com as suas ideias.
       - headline: Transparência e proteção de dados
         text: Com o SeaTable você reúne todas as informações em um só lugar, trabalha em projetos em conjunto e sincroniza as alterações em tempo real. Assim, surge transparência para todos os envolvidos no projeto. 
       - headline: Solução acessível

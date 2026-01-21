@@ -27,31 +27,31 @@ sections:
       weight: 4
       title: SeaTable ist die perfekte Lösung für Ihr Projektmanagement
       subtitle: Vorteile von SeaTable
-      text: "Als Projektmanager müssen Sie stets den Überblick behalten, um komplexe Projekte effektiv zu steuern. Doch herkömmliche Software für Projektmanagement stößt oft an ihre Grenzen, besonders wenn es um agiles Projektmanagement geht. SeaTable bietet Ihnen ein hervorragendes Erlebnis, das mit folgenden Vorteilen punktet:"
+      text: "Als Projektmanager müssen Sie stets den Überblick behalten, um komplexe Projekte effektiv zu steuern. Doch herkömmliche Software für Projektmanagement stößt oft an ihre Grenzen, besonders wenn es um agiles Projektmanagement geht. SeaTable bietet Ihnen ein hervorragendes Erlebnis, das mit modernen KI-Funktionen und folgenden Vorteilen punktet:"
       items:
       - icon: edit
         headline: Flexibilität und Anpassungsfähigkeit an Ihre Bedürfnisse mit KI-Power
-        text: "Entwickeln Sie mit SeaTable maßgeschneiderte Lösungen, die sich genau Ihren Bedürfnissen anpassen. Egal, ob Sie mit agilen Projektmanagement Methoden durchstarten oder den Überblick mit klassischen Gantt-Diagrammen behalten möchten: SeaTable bietet Ihnen die Freiheit, Ihre individuellen Vorstellungen von effizientem Projektmanagement zu verwirklichen."
+        text: "Entwickeln Sie mit SeaTable maßgeschneiderte, KI-unterstützte Lösungen, die sich genau Ihren Bedürfnissen anpassen. Egal, ob Sie mit agilen Projektmanagement Methoden durchstarten, KI-gestützte Statusberichte erstellen oder den Überblick mit klassischen Gantt-Diagrammen behalten möchten: SeaTable bietet Ihnen die Freiheit, Ihre individuellen Vorstellungen von effizientem Projektmanagement zu verwirklichen."
 
       - icon: up-right-and-down-left-from-center
-        headline: Intuitive, übersichtliche Benutzeroberfläche
-        text: "Dank des intuitiven Designs und der benutzerfreundlichen Oberfläche bilden Sie Ihren Projektalltag schnell und effizient ab. Alle Daten sind übersichtlich in Tabellen strukturiert und lassen sich mit wenigen Klicks anschaulich in Kalendern, Organigrammen, Statistiken sowie auf Kanban-Boards und Zeitleisten visualisieren."
+        headline: Intuitive Oberfläche und intelligente Datenvisualisierung
+        text: "Dank des intuitiven Designs und der KI-gestützten Oberfläche bilden Sie Ihren Projektalltag schnell und effizient ab. Alle Daten sind übersichtlich in Tabellen strukturiert und lassen sich mit wenigen Klicks anschaulich in Kalendern, Organigrammen, KI-generierten Statistiken sowie auf Kanban-Boards und Zeitleisten visualisieren."
 
       - icon: location-dot
         headline: Echtzeit-Überblick und Zusammenarbeit im Team
-        text: "Dank umfassender Kollaborationsfunktionen (z. B. Gruppen, Kommentare und Freigaben) greifen Ihre Prozesse ineinander und jeder weiß, was zu tun ist. In SeaTable bleiben Sie auf dem neuesten Stand – egal, ob es um die Zuweisung von Aufgaben, die Nachverfolgung von Fortschritten oder die gemeinsame Bearbeitung von Dokumenten geht."
+        text: "Dank umfassender Kollaborationsfunktionen und intelligenter Benachrichtigungen greifen Ihre Prozesse ineinander und jeder weiß, was zu tun ist. In SeaTable bleiben Sie auf dem neuesten Stand – egal, ob es um die KI-basierte Zuweisung von Aufgaben, die Nachverfolgung von Fortschritten oder die gemeinsame Bearbeitung von Dokumenten geht."
       
       - icon: heart
-        headline: Automatisierung von Routinetätigkeiten
-        text: Automatisieren Sie in SeaTable wiederkehrende [Workflows]({{< relref "pages/industry-solutions/individual" >}}). So reduzieren Sie den manuellen Arbeitsaufwand und minimieren menschliche Fehler. Über die SeaTable API oder Automationsplattformen wie Zapier, Make und n8n können Sie zudem all Ihre Lieblingstools mit SeaTable integrieren.
+        headline: KI-gestützte Automatisierung von Routinetätigkeiten
+        text: Automatisieren Sie in SeaTable wiederkehrende [Workflows]({{< relref "pages/industry-solutions/individual" >}}) mithilfe von smarter KI-Logik. So reduzieren Sie den manuellen Arbeitsaufwand bei der Datenerfassung drastisch und minimieren menschliche Fehler. Über die SeaTable API oder Automationsplattformen können Sie zudem all Ihre Lieblingstools mit SeaTable integrieren.
 
       - icon: globe
-        headline: Skalierbarkeit, Betriebsart und Datenschutz
-        text: "Ihr Projektteam wächst oder der Projektumfang verändert sich? SeaTable wächst mit. Ganz gleich, wie groß Ihr Team oder wie komplex das Projekt wird: Dank unserer Cloud-Pakete können Sie beliebig skalieren. Ihre Daten werden dabei ausschließlich auf europäischen Servern gehostet und sind gemäß DSGVO geschützt."
+        headline: Skalierbarkeit, Datenschutz und KI-Souveränität
+        text: "Ihr Projektteam wächst oder der Projektumfang verändert sich? SeaTable wächst mit. Ganz gleich, wie komplex das Projekt wird: Dank unserer Cloud-Pakete skalieren Sie beliebig, während Ihre Daten und KI-Abfragen ausschließlich auf europäischen Servern gehostet und gemäß DSGVO geschützt werden."
       
       - icon: shield
-        headline: Kosteneffizienz durch maßgeschneiderte Lösungen
-        text: "Als kostenloses Projektmanagement-Tool überzeugt SeaTable mit seiner Kosteneffizienz und Flexibilität: Wählen Sie zwischen verschiedenen Modellen und passen Sie Ihre Projektmanagement Software an Ihr Projekt an. SeaTable Free ist dauerhaft kostenlos – Sie skalieren erst, wenn nötig."
+        headline: Kosteneffizienz durch intelligente, maßgeschneiderte Lösungen
+        text: "Als kostenloses Projektmanagement-Tool überzeugt SeaTable mit seiner Kosteneffizienz und modernen KI-Features: Wählen Sie zwischen verschiedenen Modellen und passen Sie Ihre Projektmanagement Software inklusive KI-Guthaben an Ihr Projekt an. SeaTable Free ist dauerhaft kostenlos – Sie skalieren erst, wenn nötig."
 
     - name: content-12
       weight: 8
@@ -63,7 +63,7 @@ sections:
       items:
         - text: Verbesserte Kommunikation in Teams
         - text: Echtzeit-Kollaboration
-        - text: Automatisierte Workflows
+        - text: KI-automatisierte Workflows
         - text: Implementierung ohne Programmierkenntnisse
         - text: 100 Prozent DSGVO-konform
       image: /images/Projektmanagement_Teamwork-6.png
@@ -77,11 +77,11 @@ sections:
       - headline: Schnelle Einarbeitung
         text: Viele Projektmanagementsysteme bieten komplizierte Funktionen, die eher verwirren als helfen. SeaTable bietet eine intuitive Oberfläche, leicht nutzbare Vorlagen und sofortige Zugänglichkeit.
       - headline: Viel Gestaltungsfreiheit
-        text: SeaTable ermöglicht es Ihnen, von Grund auf neu zu starten und Ihre Prozesse individuell zu gestalten. Sie erhalten alle nötigen Werkzeuge, um Ihr Projekt nach Ihren Vorstellungen zu entwickeln.
+        text: Die [KI No-Code-Plattform]({{< relref "/" >}}) ermöglicht es Ihnen, von Grund auf neu zu starten und Ihre Prozesse individuell zu gestalten. Sie erhalten alle nötigen Werkzeuge, um Ihr Projekt nach Ihren Vorstellungen zu entwickeln.
       - headline: Transparenz und Datenschutz
         text: Mit SeaTable bündeln Sie alle Informationen an einem Ort, arbeiten gemeinsam an Projekten und synchronisieren Änderungen in Echtzeit. So entsteht Transparenz für alle Projektbeteiligten. 
       - headline: Preiswerte Lösung
-        text: Mit SeaTable können Sie Ihre Projektmanagement Software individuell konfigurieren. Sie zahlen nur für Funktionen, die Sie wirklich brauchen, oder nutzen die kostenlose Version, die Sie bei Bedarf upgraden können – transparent und fair.
+        text: Mit SeaTable können Sie Ihre **Projektmanagement Software individuell konfigurieren**. Sie zahlen nur für Funktionen, die Sie wirklich brauchen, oder nutzen die kostenlose Version, die Sie bei Bedarf upgraden können – transparent und fair.
       image: /images/Projektmanagement_Group-3.png
       image_alt: 'Team bespricht Projekte mit SeaTable als Projektmanagement Tool'
 
@@ -192,15 +192,14 @@ sections:
       title: FAQ – Projektmanagement mit SeaTable
       items:
           - q: Für welche Projekte kann ich SeaTable verwenden?
-            a: Sie können SeaTable für alle Ihre Projekte verwenden, z. B. Software Projekte, Bauprojekte oder Produktentwicklungen. Dank der flexiblen Spaltentypen und der vielfältigen Visualisierungsmöglichkeiten ist SeaTable die perfekte Lösung für jede Herausforderung, der sich ein Projektmanager stellen muss.
+            a: Sie können SeaTable für alle Ihre Projekte verwenden, z. B. Software Projekte, [Bauprojekte]({{< relref "posts/bauzeitenplan" >}}) oder Produktentwicklungen. Dank der flexiblen Spaltentypen und der vielfältigen Visualisierungsmöglichkeiten ist SeaTable die perfekte Lösung für jede Herausforderung, der sich ein Projektmanager stellen muss.
           - q: Kann ich meinen Projektplan an Externe freigeben?
             a: Auf jeden Fall. Viele Projektteams arbeiten mit externen Stakeholdern entweder über eine Projektmanagement App oder direkt in SeaTable zusammen. In beiden Fällen legen Sie mithilfe von Freigaben und Berechtigungen fest, wer auf welche Inhalte zugreifen darf.
           - q: Welches Abo brauche ich für ein effizientes Projektmanagement?
             a: Mit dem Free-Abo erhalten Sie bereits die wichtigsten Funktionen für kleinere Projekte und Teams. Mit dem Plus-Abo wird die Zusammenarbeit mit externen Stakeholdern dank der erweiterten Freigabe-Optionen deutlich einfacher und die höheren Speicherlimits erlauben es Ihnen, größere Projekte zu betreuen. Im Enterprise-Abo kommen schließlich noch Automationen, erweitertes Customizing und der Big-Data-Speicher für datenintensive Projekte hinzu.
           - q: Wie kann ich meine Daten zu SeaTable migrieren?
-            a: "SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen. Laden Sie Ihre bestehenden Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit. Dank der intuitiven, grafischen Benutzeroberfläche werden Sie sich schnell zurechtfinden."
-          - q: "Ist SeaTable eine Alternative zu Monday, Jira oder Asana?"
-            a: "Asana, Monday und Jira sind drei bekannte Projektmanagement Tools, auf die viele Teams aus aller Welt zurückgreifen. Wenn Sie sich nun fragen, ob diese Projektmanagement Tools kostenlos sind, lautet die Antwort – bis auf stark funktionseingeschränkte Versionen – nein. Im Gegensatz zu SeaTable müssen Sie gerade bei größeren Teams hohe Kosten in Kauf nehmen, da pro Nutzer und Monat direkt zweistellige Beträge anfallen. Wenn Sie mit Monday, Jira oder Asana Projektmanagement betreiben wollen, kann es also richtig teuer werden. SeaTable hingegen überzeugt durch das umfangreiche Free Abo auch als das kostenlose Projektmanagement Tool für Teams jeder Größe.
-            Zudem sind die klassischen Projektmanagement Tools weniger intuitiv als SeaTable. Dies gilt insbesondere für kostenlose Projektmanagement Tools. Die Fülle an Funktionen kann auf Einsteiger überfordernd wirken, vor allem wenn Sie in Monday Ihr Projektmanagement abbilden möchten. Jira ist besonders auf Software-Projekte und agiles Projektmanagement nach Scrum spezialisiert, was bereits viele Kenntnisse voraussetzt. Dadurch, dass die meisten Projektbeteiligten dieses Wissen erst erwerben müssen, erfordert die Einarbeitung relativ viel Zeit, wohingegen Sie mit SeaTable direkt starten können. Asana und Jira sind im Vergleich zu SeaTable außerdem weniger flexibel und nicht für datenintensive Projekte zu empfehlen. Lesen Sie mehr dazu in unserem [Blog]({{< relref \"posts\" >}})."
+            a: SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen. Laden Sie Ihre bestehenden Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit. Dank der intuitiven, grafischen Benutzeroberfläche werden Sie sich schnell zurechtfinden.
+          - q: Ist SeaTable eine Alternative zu Monday, Jira oder Asana?
+            a: 'Asana, Monday und Jira sind drei bekannte Projektmanagement Tools, auf die viele Teams aus aller Welt zurückgreifen. Wenn Sie sich nun fragen, ob diese Projektmanagement Tools kostenlos sind, lautet die Antwort – bis auf stark funktionseingeschränkte Versionen – nein. Im Gegensatz zu SeaTable müssen Sie gerade bei größeren Teams hohe Kosten in Kauf nehmen, da pro Nutzer und Monat direkt zweistellige Beträge anfallen. Wenn Sie mit Monday, Jira oder [Asana Projektmanagement]({{< relref "pages/asana-alternative" >}}). betreiben wollen, kann es also richtig teuer werden. Die SeaTable hingegen überzeugt durch das umfangreiche Free Abo auch als das kostenlose Projektmanagement Tool für Teams jeder Größe. <br>Zudem sind die klassischen Projektmanagement Tools weniger intuitiv als SeaTable. Dies gilt insbesondere für kostenlose Projektmanagement Tools. Die Fülle an Funktionen kann auf Einsteiger überfordernd wirken, vor allem wenn Sie in Monday Ihr Projektmanagement abbilden möchten. Jira ist besonders auf Software-Projekte und agiles Projektmanagement nach Scrum spezialisiert, was bereits viele Kenntnisse voraussetzt. Dadurch, dass die meisten Projektbeteiligten dieses Wissen erst erwerben müssen, erfordert die Einarbeitung relativ viel Zeit, wohingegen Sie mit SeaTable direkt starten können. Asana und Jira sind im Vergleich zu SeaTable außerdem weniger flexibel und nicht für datenintensive Projekte zu empfehlen. Lesen Sie mehr dazu in unserem [Blog]({{< relref "posts" >}}).'
           
 ---
