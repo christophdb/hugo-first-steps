@@ -11,6 +11,8 @@ tags:
     - 'Vertriebsplanung'
 color: '#139da9'
 url: '/de/vertriebsstrategie/'
+register:
+   show: true
 ---
 
 ## Warum Sie eine Vertriebsstrategie brauchen

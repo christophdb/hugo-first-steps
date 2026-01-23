@@ -12,6 +12,8 @@ tags:
     - 'Toolings & Plugins'
 url: '/de/airtable'
 color: '#f07c66'
+register:
+   show: true
 ---
 
 ## Was ist Airtable?

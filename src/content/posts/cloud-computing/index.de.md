@@ -13,6 +13,8 @@ tags:
 date: 2025-04-01
 color: '#c5a6e9'
 url: '/de/cloud-computing'
+register:
+   show: true
 ---
 
 ## Was ist Cloud Computing?

@@ -13,6 +13,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#f34b4c'
+register:
+   show: true
 ---
 
 ## So wird Ihr Fahrtenbuch zum Steuer-Vorteil

@@ -11,6 +11,8 @@ tags:
     - 'Sales Planning'
 color: '#139da9'
 url: '/sales-strategy'
+register:
+   show: true
 ---
 
 ## Why you need a sales strategy

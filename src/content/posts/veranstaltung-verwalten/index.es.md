@@ -12,6 +12,8 @@ aliases:
 tags:
 categories:
 color: '#f7c1cf'
+register:
+   show: true
 ---
 
 ## Cómo hacer que su evento sea un éxito

@@ -15,6 +15,8 @@ color: '#c5a6e9'
 url: '/cloud-computing'
 aliases:
     - '/en/cloud-computing/'
+register:
+   show: true
 ---
 
 ## What is cloud computing?

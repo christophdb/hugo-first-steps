@@ -11,6 +11,8 @@ tags:
     - 'Planification Commerciale'
 color: '#139da9'
 url: '/fr/strategie-de-vente/'
+register:
+   show: true
 ---
 
 ## Pourquoi vous avez besoin d'une stratégie de vente

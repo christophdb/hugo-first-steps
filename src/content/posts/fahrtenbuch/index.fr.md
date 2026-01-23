@@ -12,6 +12,8 @@ aliases:
 tags:
 categories:
 color: '#f34b4c'
+register:
+   show: true
 ---
 
 ## Voici comment votre carnet de route devient un avantage fiscal

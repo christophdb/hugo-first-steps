@@ -14,6 +14,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#f7c1cf'
+register:
+   show: true
 ---
 
 ## Como fazer do seu evento um sucesso

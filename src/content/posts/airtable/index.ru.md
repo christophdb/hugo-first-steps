@@ -12,6 +12,8 @@ tags:
     - 'Инструменты и плагины'
 url: '/ru/airtable'
 color: '#f07c66'
+register:
+   show: true
 ---
 
 ## Что такое Airtable?
