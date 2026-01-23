@@ -32,6 +32,7 @@ sections:
           - text: 'Use all SeaTable features while remaining independent: You decide how much support you want from us.'
       image: '/images/Product-Page-SeaTable-Server-700x450-1.png'
       image_position: left
+      image_alt: 'SeaTable Server interface for on‑premises operation with full data control'
       buttons:
           - label: To Admin Manual
             link: https://admin.seatable.com
@@ -45,6 +46,7 @@ sections:
           - text: At the same time, SeaTable supports all common authentication techniques like SAML, OAuth, Shibboleth, Active Directory and LDAP. It enables two-factor authentication and single sign-on and supports cluster-capable backends like Ceph and S3.
           - text: In your system, you determine which API limits should apply or whether any should apply at all.
       image: '/images/Product-Page-Server_750x500.png'
+      image_alt: 'SeaTable on‑premises system architecture with dedicated server infrastructure'
       buttons:
           - label: To pricing
             link: pages/prices

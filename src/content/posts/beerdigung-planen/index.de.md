@@ -47,7 +47,7 @@ Ja. In Deutschland ist gesetzlich vorgeschrieben, dass bestimmte Tätigkeiten wi
 
 Der Tod einer nahestehenden Person ist für Angehörige mit viel **Trauer** verbunden. In dieser emotional belastenden Zeit fällt es vielen Menschen nicht leicht, sich um die Beerdigung zu kümmern. Bei plötzlichen Todesfällen wissen die Angehörigen oft nicht einmal, wie sich der oder die Verstorbene die eigene Bestattung vorgestellt hätte.
 
-![Eine Beerdigung auf einem Friedhof](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
+![Symbolfoto einer Beerdigung auf einem Friedhof, im Artikel mit SeaTable Bestattungsplaner verknüpft](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
 Eine klassische Beerdigung auf einem Friedhof ist für viele immer noch die erste Wahl.
 
@@ -192,7 +192,7 @@ Falls die Trauerfeier nur im engsten Kreis stattfinden soll, schreiben Sie keine
 
 Bei allem, was man für eine Beerdigung planen muss, kann man leicht den Überblick verlieren. SeaTable hat Ihnen daher die wichtigsten To-dos in einer Checkliste zusammengestellt. Sie können den Online-Planer ebenso nutzen, um die Einladung der Trauergäste zu koordinieren oder die Kosten für die Beerdigung zu berechnen.
 
-![Online-Planer mit Kostenübersicht für die Beerdigung](Funeral-planner.png)
+![SeaTable Vorlage „Beerdigung planen“ mit Checkliste, Aufgaben und Kostenübersicht für die Bestattung](Funeral-planner.png)
 
 SeaTable Vorlage mit Kostenübersicht für die Beerdigung
 

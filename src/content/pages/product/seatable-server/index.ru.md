@@ -30,6 +30,7 @@ sections:
           - text: 'Используйте все функции SeaTable, сохраняя независимость: вы решаете, какая поддержка вам нужна от нас.'
       image: '/images/Product-Page-SeaTable-Server-700x450-1.png'
       image_position: left
+      image_alt: 'Интерфейс SeaTable Server для локального развёртывания с полным контролем данных'
       buttons:
           - label: Руководство администратора
             link: https://admin.seatable.com
@@ -43,6 +44,7 @@ sections:
           - text: 'При этом SeaTable поддерживает все распространенные методы аутентификации: SAML, OAuth, Shibboleth, Active Directory и LDAP. Возможна двухфакторная аутентификация и единый вход, поддерживаются кластерные бэкенды типа Ceph и S3.'
           - text: 'Вы сами определяете, какие лимиты API применять или не применять их вовсе.'
       image: '/images/Product-Page-Server_750x500.png'
+      image_alt: 'Системная архитектура SeaTable On‑Premises с собственной серверной инфраструктурой'
       buttons:
           - label: Цены
             link: pages/prices
