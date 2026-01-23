@@ -188,9 +188,12 @@
                                     <h3 x-text="partner.partner" class="!pt-6 !text-xl tracking-tight"></h3>
                                     <p x-text="partner.short_description" class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600"></p>
                                 </div>
-                                <div class="mb-8 mt-auto flex flex-row items-center justify-between px-8">
-                                    <!-- TODO: Create one span element for every type? -->
-                                    <span x-text="partner.partner_type[0]" class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white"></span>
+                                <div class="mb-8 mt-auto flex flex-row items-end justify-between px-8">
+                                    <div class="flex flex-col gap-1">
+                                        <template x-for="type in partner.partner_type" :key="type">
+                                            <span x-text="type" class="rounded bg-green-800 px-2 py-1 text-sm font-normal text-white"></span>
+                                        </template>
+                                    </div>
                                     <span
                                         x-text="partner.country.country_region"
                                         class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue"></span>
