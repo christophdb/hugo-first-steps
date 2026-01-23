@@ -43,6 +43,7 @@ sections:
           - text: App Builder pour une utilisation frontale
           - text: Solution cloud ou sur site (On-Premises)
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'Tableau de bord marketing SeaTable pour planification de campagnes et analyse de performance'
 
     - name: 'content-9'
       weight: 3
@@ -138,6 +139,7 @@ sections:
       - text: "En tant qu'outil de gestion du marketing, SeaTable soutient votre équipe dans la collaboration – que ce soit sur site ou à distance. En tant qu'outil de marketing basé sur le cloud, SeaTable permet une collaboration facile entre les équipes internes et externes. Si vous préférez rester sur vos propres serveurs au lieu du cloud, vous pouvez compter sur SeaTable Server. Gérez les droits d'accès, organisez les projets et partagez les données – le tout via une plateforme centrale."
       image: /images/seatable-1-1024x560-1.png
       image_position: left
+      image_alt: 'Interface SeaTable pour travail collaboratif en équipe marketing'
 
     - name: content-8
       weight: 10
@@ -148,31 +150,31 @@ sections:
       items:
           - text: Analyse de la concurrence
             image: /images/Marketing_Competitor-Analysis_Template.png
-            image_alt: Gardez un œil sur vos concurrents et analysez leurs activités.
+            image_alt: 'Modèle SeaTable pour analyse de la concurrence en marketing'
           - text: Planification de campagne
             image: /images/Marketing_Content-Calendar_Template.png
-            image_alt: Planifiez vos campagnes marketing de la première idée à l'exécution.
+            image_alt: 'Modèle de calendrier de campagnes et contenus SeaTable pour planification marketing'
           - text: Stratégie de marketing de contenu
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            image_alt: Créez et gérez votre stratégie de marketing de contenu en un seul endroit.
+            image_alt: 'Modèle SeaTable pour stratégie de content marketing et plan d’actions'
           - text: Calendrier éditorial
             image: /images/Marketing_Editorial-Plan_Template.png
-            image_alt: Gérez votre plan de contenu pour les blogs, les médias sociaux et autres canaux.
+            image_alt: 'Modèle de calendrier éditorial SeaTable pour contenus de blog et réseaux sociaux'
           - text: Revue de presse
             image: /images/Marketing_Pressespiegel_Template.png
-            image_alt: Collectez et analysez le contenu de vos sujets dans une revue de presse.
+            image_alt: 'Modèle SeaTable pour revue de presse et veille médiatique'
           - text: Storyboard
             image: /images/Marketing_Storyboard_Template.png
-            image_alt: Visualisez des idées créatives, planifiez des scènes et des campagnes entières.
+            image_alt: 'Modèle de storyboard SeaTable pour visualiser campagnes et créations'
           - text: Calendrier éditorial de podcast
             image: /images/Marketing_Podcast_Templat.png
-            image_alt: Planifiez votre production de podcasts et créez un comité de rédaction.
+            image_alt: 'Modèle de calendrier éditorial de podcast SeaTable pour planification des épisodes'
           - text: Plan de médias sociaux
             image: /images/Marketing_Social-Media_Template.png
-            image_alt: Organisez vos publications sur les médias sociaux et planifiez les publications.
+            image_alt: 'Modèle de plan social media SeaTable pour publications et campagnes'
           - text: Inscription à la newsletter
             image: /images/Marketing_Newsletter_Subscription_Template.png
-            image_alt: Gérez vos inscriptions à la newsletter et analysez leur succès.
+            image_alt: 'Modèle d’inscription à la newsletter SeaTable pour collecte et analyse de leads'
       buttons:
           - label: Découvrez tous les modèles
             link: 'templates'
