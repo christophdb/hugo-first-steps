@@ -71,7 +71,7 @@ Für interne Links in den Blog-Beiträgen, wird die folgende Formatierung verwen
 
 - `[Zur Registrierung]({{</* relref "pages/registration" */>}})`
 - `[Mehr zu SeaTable Server]({{</* relref "pages/product/seatable-server" */>}})`
-- `[Blog-Artikel Cloud-Computing]({{</* relref "posts/202503-cloud-computing" */>}})`
+- `[Blog-Artikel Cloud-Computing]({{</* relref "posts/cloud-computing" */>}})`
 
 Der Pfad entspricht dem tatsächlichen Pfad ausgehende von `/src/content/`.
 

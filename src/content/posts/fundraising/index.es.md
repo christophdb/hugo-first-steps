@@ -87,7 +87,7 @@ Entre la primera y la segunda donación, muchas organizaciones sin ánimo de luc
 
 ## ¿Cómo gestionar eficazmente los donativos?
 
-Toda campaña de captación de fondos implica también una gestión administrativa: hay que registrar los fondos recaudados, gestionar los datos de los donantes y emitir **recibos de donación**. Para ello puede utilizarse un software especial. Los **software de recaudación de fondos** combinan la gestión financiera, la **gestión de donantes**, la [planificación de eventos]({{< relref "posts/202503-veranstaltung-verwalten" >}}) y la planificación de campañas en un solo sistema. Estos programas suelen ofrecer también la opción de donar directamente y ofrecen varios métodos de pago para ello. Las principales ventajas son:
+Toda campaña de captación de fondos implica también una gestión administrativa: hay que registrar los fondos recaudados, gestionar los datos de los donantes y emitir **recibos de donación**. Para ello puede utilizarse un software especial. Los **software de recaudación de fondos** combinan la gestión financiera, la **gestión de donantes**, la [planificación de eventos]({{< relref "posts/veranstaltung-verwalten" >}}) y la planificación de campañas en un solo sistema. Estos programas suelen ofrecer también la opción de donar directamente y ofrecen varios métodos de pago para ello. Las principales ventajas son:
 
 - Registro eficaz de las donaciones y de los datos de los donantes
 - Enfoque individual del donante mediante el análisis de su historial y el registro de sus preferencias

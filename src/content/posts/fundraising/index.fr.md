@@ -90,7 +90,7 @@ Entre le premier et le deuxième don, de nombreuses organisations à but non luc
 
 ## Comment gérer efficacement les dons ?
 
-Toute campagne de collecte de fonds implique également des tâches administratives : les fonds collectés doivent être enregistrés, les données relatives aux donateurs gérées et les **reçus de dons** délivrés. Des logiciels spécifiques peuvent être utilisés à cette fin. **Les logiciels de collecte de fonds** combinent la gestion financière, **la gestion des donateurs**, [la planification des événements]({{< relref "posts/202503-veranstaltung-verwalten" >}}) et la planification de la campagne en un seul système. Souvent, ces programmes offrent également la possibilité de faire des dons directement et proposent diverses méthodes de paiement à cet effet. Les principaux avantages sont les suivants :
+Toute campagne de collecte de fonds implique également des tâches administratives : les fonds collectés doivent être enregistrés, les données relatives aux donateurs gérées et les **reçus de dons** délivrés. Des logiciels spécifiques peuvent être utilisés à cette fin. **Les logiciels de collecte de fonds** combinent la gestion financière, **la gestion des donateurs**, [la planification des événements]({{< relref "posts/veranstaltung-verwalten" >}}) et la planification de la campagne en un seul système. Souvent, ces programmes offrent également la possibilité de faire des dons directement et proposent diverses méthodes de paiement à cet effet. Les principaux avantages sont les suivants :
 
 - Enregistrement efficace des dons et des données relatives aux donateurs
 - Approche individuelle du donateur grâce à l'analyse de son historique et à l'enregistrement de ses préférences

@@ -86,7 +86,7 @@ Between the first and second donation, many non-profit organizations lose a larg
 
 ## How can donations be managed effectively?
 
-Every fundraising campaign also involves administration: funds raised must be recorded, donor data managed and **donation receipts** issued. Special software can be used for this purpose. **Fundraising software** combines financial management, **donor management**, [event planning]({{< relref "posts/202503-veranstaltung-verwalten" >}}) and campaign planning in one system. Such programs often also offer the option to donate directly and offer various payment methods for this. The main advantages are:
+Every fundraising campaign also involves administration: funds raised must be recorded, donor data managed and **donation receipts** issued. Special software can be used for this purpose. **Fundraising software** combines financial management, **donor management**, [event planning]({{< relref "posts/veranstaltung-verwalten" >}}) and campaign planning in one system. Such programs often also offer the option to donate directly and offer various payment methods for this. The main advantages are:
 
 - Efficient recording of donations and donor data
 - Individual donor approach through analysis of donor history and recording of preferences

@@ -88,7 +88,7 @@ Entre a primeira e a segunda doação, muitas organizações sem fins lucrativos
 
 ## Como é que os donativos podem ser geridos eficazmente?
 
-Todas as campanhas de angariação de fundos também envolvem administração: os fundos angariados devem ser registados, os dados dos doadores geridos e os **recibos de donativos** emitidos. Para este efeito, pode utilizar um software especial. O **software de angariação de fundos** combina a gestão financeira, a **gestão de doadores**, o [planeamento de eventos]({{< relref "posts/202503-veranstaltung-verwalten" >}}) e o planeamento da campanha num único sistema. Muitas vezes, estes programas também oferecem a opção de fazer um donativo direto e disponibilizam vários métodos de pagamento para o efeito. As principais vantagens são:
+Todas as campanhas de angariação de fundos também envolvem administração: os fundos angariados devem ser registados, os dados dos doadores geridos e os **recibos de donativos** emitidos. Para este efeito, pode utilizar um software especial. O **software de angariação de fundos** combina a gestão financeira, a **gestão de doadores**, o [planeamento de eventos]({{< relref "posts/veranstaltung-verwalten" >}}) e o planeamento da campanha num único sistema. Muitas vezes, estes programas também oferecem a opção de fazer um donativo direto e disponibilizam vários métodos de pagamento para o efeito. As principais vantagens são:
 
 - Registo eficiente dos donativos e dos dados dos doadores
 - Abordagem individual dos dadores através da análise do seu historial e do registo das suas preferências

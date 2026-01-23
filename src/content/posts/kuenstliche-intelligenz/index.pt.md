@@ -196,7 +196,7 @@ Para aproveitar as oportunidades económicas e utilizar a inteligência artifici
 - **Controlo humano**: A inteligência artificial deve apoiar as decisões, mas não tomá-las sozinha. Não deve simplesmente acreditar nos resultados, mas sempre examiná-los e verificá-los.  
 - **Transparência**: Comunique claramente aos seus empregados as condições de enquadramento para a utilização da IA. Isto ajudá-lo-á a evitar a criação de uma TI sombra sobre a qual nada sabe. A utilização da IA também deve ser clara para os clientes.
 - **Formação contínua**: A experiência em IA está a tornar-se cada vez mais um fator de sucesso. Torne os seus funcionários aptos para a ação e esclareça com eles as seguintes questões: como funciona a inteligência artificial e onde é utilizada a inteligência artificial?
-- **Soberania dos dados**: Se pretende utilizar a IA sem comprometer a [proteção de dados]({{< relref "posts/digitale-souveraenitaet" >}}), vale a pena executar um modelo de IA nos seus próprios servidores ou, pelo menos, utilizar [plataformas de nuvem]({{< relref "posts/202503-cloud-computing" >}}) na UE.
+- **Soberania dos dados**: Se pretende utilizar a IA sem comprometer a [proteção de dados]({{< relref "posts/digitale-souveraenitaet" >}}), vale a pena executar um modelo de IA nos seus próprios servidores ou, pelo menos, utilizar [plataformas de nuvem]({{< relref "posts/cloud-computing" >}}) na UE.
 - **Conformidade**: Certifique-se de que os sistemas de IA da sua empresa cumprem todas as leis e diretrizes de conformidade aplicáveis, especialmente a Lei da IA da UE, porque em caso de dúvida será responsabilizado.
 
 ### O que é a Lei da IA da UE?
