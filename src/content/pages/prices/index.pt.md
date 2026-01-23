@@ -168,6 +168,7 @@ sections:
       items:
           - text: Temos prazer em apoiar pessoas em projetos extraordinários. Organizações sem fins lucrativos e instituições de ensino recebem 50% de desconto. Em casos excepcionais, associações locais podem obter até 75% de desconto nas assinaturas do SeaTable Plus e SeaTable Enterprise. Envie-nos [sua solicitação de desconto via gerenciamento de equipe]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
       image: /images/image-341.png
+      image_alt: 'Gráfico do SeaTable sobre descontos para organizações sem fins lucrativos, instituições de ensino e entidades públicas'
 
     - name: platform-selector
       weight: 18

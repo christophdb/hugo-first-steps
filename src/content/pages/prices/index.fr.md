@@ -172,6 +172,7 @@ sections:
       items:
           - text: Nous sommes heureux de soutenir les projets exceptionnels. Les organisations à but non lucratif et les établissements d'enseignement bénéficient d'une remise de 50%. Dans des cas exceptionnels, les associations locales peuvent obtenir jusqu'à 75% de réduction sur les abonnements SeaTable Plus et SeaTable Enterprise. Envoyez-nous [votre demande de remise via la gestion d'équipe]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
       image: /images/image-341.png
+      image_alt: 'Graphique SeaTable sur les remises pour organisations à but non lucratif, établissements d’enseignement et institutions publiques'
 
     - name: platform-selector
       weight: 18

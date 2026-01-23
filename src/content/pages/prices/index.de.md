@@ -168,6 +168,7 @@ sections:
       items:
           - text: Wir freuen uns, Menschen bei großartigen Projekten zu unterstützen. Gemeinnützige Non-Profit Organisationen und Bildungseinrichtungen erhalten grundsätzlich 50% Rabatt. Lokale Vereine erhalten in Ausnahmefällen sogar bis zu 75% Rabatt auf das SeaTable Plus- und SeaTable Enterprise-Abonnement. Senden Sie uns [Ihre Rabattanfrage über die Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
       image: /images/image-341.png
+      image_alt: 'SeaTable Grafik zu Rabatten für gemeinnützige Organisationen, Bildungseinrichtungen und öffentliche Institutionen'
 
     - name: platform-selector
       weight: 18
