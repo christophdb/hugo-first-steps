@@ -15,7 +15,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Bildungseinrichtung" ort="Niederlande" >}}
+[Johannes Fontanus College als SeaTable Referenzkunde für digitale Examensverwaltung]{{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Bildungseinrichtung" ort="Niederlande" >}}
 
 ## Hintergrund
 Ko Smidt reduziert gerne das Risiko von Fehlern und optimiert Arbeitsabläufe. Kein Wunder: Als Head of Exam am [Johannes Fontanus College](https://www.jfc.nl/) ist er u. a. für eine transparente und fehlerfreie Prüfungsverwaltung verantwortlich – ein Prozess, an dem viele Personen und sensible Daten beteiligt sind. Am Rande der SeaDays 2024 in Mainz erklärte er uns, warum SeaTable genau das richtige Tool für ihn ist. Denn für die Sekundarschule im niederländischen Barneveld mit ihren 300 Mitarbeitern und 2300 Schülern, bedeutete die Einführung von SeaTable eine deutliche Verbesserung in Effizienz und Transparenz bei gleichzeitiger Einhaltung der gesetzlichen Datenschutzbestimmungen.
@@ -27,7 +27,7 @@ Zu dieser insgesamt unbefriedigenden Arbeitssituation kamen schließlich noch ne
 
 ## Übergang zu SeaTable
 
-{{< testimonial image="" alt="" name="Ko Smidt" >}}
+[Johannes Fontanus College nutzt SeaTable zur digitalen Prüfungsverwaltung und Prozessoptimierung]{{< testimonial image="" alt="" name="Ko Smidt" >}}
 
 SeaTable gewährleistet Datenintegrität (mit einer durchdachten Datenbank Struktur) und in Kombination mit der Universal App, Common Data Sets und Automatisierungen, kann man viel an Effizienz und Datenmanagement gewinnen.
 

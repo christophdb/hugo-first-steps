@@ -15,7 +15,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Établissement d'enseignement" ort="Les Pays-Bas" >}}
+[Logo du Johannes Fontanus College comme client de référence de SeaTable pour la gestion numérique des examens]{{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Établissement d'enseignement" ort="Les Pays-Bas" >}}
 
 ## Contexte
 Ko Smidt aime réduire les risques d'erreur et optimiser les flux de travail. Rien d'étonnant à cela : en tant que responsable des examens au [Johannes Fontanus College](https://www.jfc.nl/), il est notamment chargé d'assurer une gestion transparente et sans erreur des examens - un processus qui implique de nombreuses personnes et des données sensibles. En marge des SeaDays 2024 à Mayence, il nous a expliqué pourquoi SeaTable est l'outil qu'il lui faut. En effet, pour l'école secondaire de Barneveld aux Pays-Bas, qui compte 300 employés et 2300 élèves, l'introduction de SeaTable a permis d'améliorer considérablement l'efficacité et la transparence tout en respectant les exigences légales en matière de protection des données.
@@ -27,7 +27,7 @@ Enfin, de nouvelles exigences en matière de protection des données sont venues
 
 ## Transition vers SeaTable
 
-{{< testimonial image="" alt="" name="Ko Smidt" >}}
+[Johannes Fontanus College utilisant SeaTable pour la gestion numérique des examens et l’optimisation des processus]{{< testimonial image="" alt="" name="Ko Smidt" >}}
 
 SeaTable garantit l'intégrité des données (avec une structure de base de données bien pensée) et, combiné à l'application universelle, aux ensembles de données communs et à l'automatisation, vous pouvez gagner beaucoup en efficacité et en gestion des données.
 
