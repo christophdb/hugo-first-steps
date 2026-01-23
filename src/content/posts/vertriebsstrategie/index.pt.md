@@ -11,6 +11,8 @@ tags:
     - 'Planejamento de vendas'
 color: '#139da9'
 url: '/pt/estrategia-de-vendas'
+register:
+   show: true
 ---
 
 ## Porque precisa de uma estratégia de vendas
