@@ -16,7 +16,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Papeterie et carnets de notes" ort="Allemagne" >}}
+[Logo de Leuchtturm1917 comme client de référence de SeaTable pour la gestion des devis et commandes]{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Papeterie et carnets de notes" ort="Allemagne" >}}
 
 ## Contexte
 
@@ -32,7 +32,7 @@ Après avoir atteint ses limites avec Excel et le composant CRM de son système 
 
 La mise en œuvre a été assurée par le "crack Excel" du service, qui a relevé le défi de cartographier tous les besoins de l'équipe, puis de mettre en œuvre un processus dans SeaTable. Et tout cela sans avoir à faire programmer des interfaces ou de nouvelles fonctions.
 
-{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
+[Site de Leuchtturm1917 à Geesthacht utilisant SeaTable pour une gestion transparente des offres]{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
 
 Avec l'aide de SeaTable, nous avons réussi à obtenir une vue d'ensemble du processus de vente avant la création de la commande. La création, le suivi et l'évaluation des offres se font dans un système flexible et adapté à nos besoins.
 

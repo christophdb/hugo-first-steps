@@ -16,7 +16,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Stationery and notebooks" ort="Germany" >}}
+[Leuchtturm1917 logo as a SeaTable reference customer for quotation and order management]{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Stationery and notebooks" ort="Germany" >}}
 
 ## Background
 
@@ -32,7 +32,7 @@ After the B2B department had reached the limits of Excel and the CRM component o
 
 The implementation was carried out by the department's "Excel crack", who took on the challenge of mapping all the team's requirements and then implementing a process in SeaTable. And all without having to have interfaces or new functions programmed.
 
-{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
+[Leuchtturm1917 site in Geesthacht using SeaTable for transparent quotation management]{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
 
 With the help of SeaTable, we have managed to get an overview of the sales process before the order is created. Quotation creation, tracking and evaluation are in a flexible system that is customized for our needs.
 

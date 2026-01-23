@@ -16,7 +16,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Schreibwaren und Notizbücher" ort="Deutschland" >}}
+[Logo von Leuchtturm1917 als SeaTable Referenzkunde für Angebots- und Auftragsmanagement]{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Schreibwaren und Notizbücher" ort="Deutschland" >}}
 
 ## Hintergrund
 
@@ -32,7 +32,7 @@ Nachdem die B2B-Abteilung mit Excel und der CRM-Komponente ihres ERP-Systems an 
 
 Die Implementierung übernahm der "Excel-Crack" der Abteilung, der die Herausforderung annahm, alle Anforderungen des Teams abzubilden und dann einen Prozess in SeaTable umzusetzen. Und das Ganze ohne Schnittstellen oder neue Funktionen programmieren lassen zu müssen. 
 
-{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
+[Leuchtturm1917 Standort in Geesthacht, der SeaTable für transparentes Angebotsmanagement einsetzt]{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
 
 Mit Hilfe von SeaTable haben wir es geschafft einen Überblick über den Verkaufsprozess vor der Auftragserstellung zu erhalten. Angebotserstellung, -Nachverfolgung und -Auswertung sind in einem flexiblem System, welches für unsere Bedürfnisse maßgeschneidert ist.
 
