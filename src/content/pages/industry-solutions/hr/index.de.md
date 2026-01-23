@@ -1,5 +1,5 @@
 ---
-title: 'HR Prozesse digitalisieren und automatisieren mit SeaTable'
+title: 'HR Prozesse – KI-gestützt, effizient und DSGVO-konform!'
 description: ''
 seo:
     title: 'HR-Prozesse DSGVO-konform, digital & automatisiert | SeaTable'
@@ -11,8 +11,8 @@ sections:
     - name: hero-5
       weight: 1
       title: HR Prozesse – flexibel, effizient und DSGVO-konform!
-      subtitle: Die führende Plattform für digitale Personalverwaltung
-      text: Entdecken Sie die Zukunft der Personalverwaltung mit SeaTable! Optimieren, digitalisieren und automatisieren Sie Ihre HR Prozesse. Gestalten Sie Ihre eigenen Prozesse, ganz ohne Programmierkenntnisse!
+      subtitle: Die führende Plattform für intelligente Personalverwaltung
+      text: Entdecken Sie die Zukunft des Personalmanagements! Mit SeaTable können Sie Ihre HR Prozesse nicht nur digitalisieren, sondern durch intelligente KI-Workflows massiv automatisieren. Verbessern Sie die Datenqualität und steigern Sie Ihre Produktivität durch No-Code Lösungen, die genau zu Ihrem Unternehmen passen.
       classes:
           - bg-gray-200
       template: 7b72578c0e714750954a
@@ -30,21 +30,21 @@ sections:
           - curved
           - bg-orange-100
       title: DSGVO-konform, zentral und effizient verwaltet an einem Ort.
-      description: Mit unserer Plattform behalten Sie stets den Überblick über alle wichtigen Aufgaben und sparen wertvolle Zeit.
+      description: Mit SeaTable führen Sie alle HR-Daten an einem Ort zusammen. Nutzen Sie integrierte Automatisierungen, um manuelle Aufgaben zu eliminieren und den Überblick über Ihr Team zu verbessern.
       # TODO: PNG mit transparentem Hintergrund!
       items:
           - text: Urlaubsplanung
           - text: Bewerbermanagement
           - text: Mitarbeiterdaten
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
-      image_alt: 'SeaTable Oberfläche zur Planung und Analyse von HR-Prozessen'
+      image_alt: 'SeaTable Oberfläche zur Planung und Analyse von automatisierten HR-Prozessen'
 
     - name: banner-2
       weight: 3
       title: "Starten Sie jetzt kostenlos – ohne Kreditkarte"
       text: 'Nutzen Sie SeaTable und beginnen Sie sofort mit der Abbildung / Optimierung Ihrer HR Prozesse – kostenlos und ohne Kreditkarte. Registrieren Sie sich noch heute und entdecken Sie die einfache Handhabung der Plattform.'
       buttons:
-          - label: Jetzt registrieren und loslegen
+          - label: Jetzt registrieren & HR Prozesse optimieren
             link: 'pages/registration'
             id: de-hr-processes-registration-2
 
@@ -56,26 +56,26 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: 'SeaTable HR Vorlage für Arbeitszeiterfassung'
+            image_alt: 'SeaTable HR Vorlage für intelligente Arbeitszeiterfassung'
           - text: Mitarbeiter-Onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: 'SeaTable HR Vorlage für Mitarbeiter-Onboarding'
+            image_alt: 'SeaTable HR Vorlage für automatisiertes Mitarbeiter-Onboarding'
           - text: Personalrekrutierung
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: 'SeaTable HR Vorlage für Personalrekrutierung'
+            image_alt: 'SeaTable HR Vorlage für KI-gestützte Personalrekrutierung'
       buttons:
           - label: "Entdecken Sie weitere HR Vorlagen"
             link: "templates"
 
     - name: content-25
       weight: 5
-      title: Schlüsselfunktionen, die Ihre HR Prozesse revolutionieren
+      title: Funktionen, die Ihre HR Prozesse revolutionieren
       subtitle: Vorteile für Ihre HR Prozesse in der Übersicht
       items:
-      - headline: "Umfassendes Bewerbermanagement"
-        text: Leistungsstarkes Bewerbermanagement Tool, das den gesamten Rekrutierungsprozess abdeckt – von dem Eingang bis zur Absage einer Bewerbung. Optimieren Sie Ihren Recruiting Prozess und verbessern Sie die Candidate Experience.
+      - headline: ""KI-basiertes Bewerbermanagement"
+        text: Ein leistungsstarkes Tool, das den gesamten Rekrutierungsprozess automatisiert. Nutzen Sie KI, um Bewerbungen vorzusortieren, Termine automatisch zu koordinieren und so die Candidate Experience signifikant zu verbessern.
         image: /images/Landing-Page_HR_Bewerbermanagement.png
-        image_alt: 'SeaTable Ansicht für umfassendes Bewerbermanagement im Recruiting'
+        image_alt: 'SeaTable Ansicht für KI-automatisiertes Bewerbermanagement im Recruiting'
 
       - headline: "Digitale Personalakte verwalten"
         text: Mit der digitalen Personalakte von SeaTable können Sie Ihre Personalakten digitalisieren und sicher speichern. Dank klarer Struktur für die elektronische Personalakte und der Einhaltung der Aufbewahrungsfristen bleiben Sie stets gesetzeskonform.
@@ -92,32 +92,32 @@ sections:
         image: /images/Landing-Page_HR_Organigramm.png
         image_alt: 'SeaTable Organigrammansicht zur Darstellung der Unternehmensstruktur'
 
-      - headline: "Prozesse optimieren"
-        text: Von der Urlaubsplanung für Mitarbeiter über die Reisekostenabrechnung bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um Ihre HR Prozesse zu optimieren und Fehler zu minimieren.
+      - headline: "Workflows durch KI optimieren"
+        text: Von der Urlaubsplanung für Mitarbeiter über die Reisekostenabrechnung bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um die Effektivität Ihrer operativen Personalarbeit zu steigern.
         image: /images/Landing-Page_HR_Prozesse-optimieren.png
         image_alt: 'SeaTable HR Dashboard zur Optimierung und Automatisierung von HR-Prozessen'
 
     - name: banner-2
       weight: 6
-      title: Wie auch immer Ihre HR Prozesse aussehen, mit SeaTable können Sie sie realisieren
+      title: Skalieren und automatisieren Sie Ihre HR-Abteilung mit SeaTable
       buttons:
-        - label: Jetzt registrieren und loslegen
+        - label: Jetzt kostenlos registrieren
           link: pages/registration
           id: de-hr-processes-registration-3
 
     - name: content-22
       weight: 7
-      title: Entdecken Sie, wie einfach HR Service Management sein kann!
-      text: 'Mit unserer No-Code Plattform kann nahezu jeder HR Prozess in Ihrer Anwendung abgebildet werden.'
+      title: Erleben Sie, wie einfach intelligentes HR Management ist!
+      text: 'Mit unserer KI No-Code Plattform kann nahezu jeder HR Prozess in Ihrer Anwendung abgebildet werden.'
 
     - name: 'content-13'
       weight: 8
       classes:
         - bg-white
         - "!pt-0"
-      title: Personalprozesse gestalten
-      subtitle: Effizient und transparent
-      description: Gestalten Sie Ihre HR Prozesse so individuell und flexibel, wie Sie es brauchen!
+      title: Intelligente Personalprozesse gestalten
+      subtitle: Effizient, transparent und automatisiert
+      description: Gestalten Sie Ihre HR Prozesse. Erleben Sie, wie einfach intelligentes HR Management ist!
       items:
           - headline: Weiterbildung und Entwicklung
             text: Verwalten Sie Schulungen, Mitarbeitergespräche und Karrierepfade mit leicht anpassbaren Vorlagen und Workflows.
@@ -126,11 +126,11 @@ sections:
           - headline: Performance-Management
             text: Setzen Sie klare Ziele und verfolgen Sie die Leistung Ihrer Mitarbeiter mit individuell gestaltbaren Dashboards und Berichten.
           - headline: Abwesenheitsmanagement
-            text: Organisieren und automatisieren Sie Krankmeldungen, Urlaubstage und andere Abwesenheiten mit dem integrierten Urlaubsplaner.
+            text: Automatisieren Sie Krankmeldungs-Workflows und integrieren Sie den Urlaubsplaner direkt in Ihre Team-Kalender.
 
     - name: "content-9"
       weight: 9
-      title: Digitale HR Prozesse – effizient und sicher
+      title: Digitale HR Prozesse – intelligent, sicher und zukunftsorientiert
       subtitle: Immer einen Schritt voraus
       items:
       - headline: "Digitale Personalakte – DSGVO-konform und sicher"
