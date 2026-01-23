@@ -20,6 +20,7 @@ sections:
             style: 'primary'
             id: de-homepage-registration-hero-1
       image: '/images/seatable-press-and-media-kit.png'
+      image_alt: 'Vue d’ensemble du kit de presse et médias SeaTable avec logos, captures et supports'
 
     - name: 'banner-3'
       weight: 2
@@ -37,15 +38,15 @@ sections:
           - headline: 'Présentations'
             text: 'Toutes les informations en bref'
             image: /images/seatable-presentations.jpg
-            image_alt:
+            image_alt: 'Présentations SeaTable dans le kit de presse avec informations produit synthétiques'
           - headline: 'Matériel visuel'
             text: "Toutes les captures d'écran, photos et logos"
             image: /images/seatable-screenshots.png
-            image_alt:
+            image_alt: 'Captures d’écran et visuels SeaTable pour usage éditorial'
           - headline: 'Communiqués de presse'
             text: "Toute l'actualité de SeaTable"
             image: /images/seatable-press-release-6-0.jpg
-            image_alt:
+            image_alt: 'Aperçu des communiqués de presse SeaTable avec actualités et mises à jour'
           
       buttons:
           - label: 'Parcourez notre kit presse et média'
@@ -58,7 +59,7 @@ sections:
       subtitle: 'Publications'
       text: 'Voici une sélection des médias qui ont déjà parlé de SeaTable.'
       image: /images/Logo_PR.png
-      image_alt:
+      image_alt: 'Médias ayant parlé de SeaTable'
 
     - name: 'content-24'
       weight: 5

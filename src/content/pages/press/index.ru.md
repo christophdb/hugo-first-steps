@@ -21,6 +21,7 @@ sections:
           style: "primary"
           id: de-homepage-registration-hero-1
       image: "/images/seatable-press-and-media-kit.png"
+      image_alt: 'Обзор пресс‑ и медиакита SeaTable с логотипами, скриншотами и материалами'
 
     - name: "banner-3"
       weight: 2
@@ -38,15 +39,15 @@ sections:
       - headline: 'Презентации'
         text: 'Вся информация в двух словах'
         image: /images/seatable-presentations.jpg
-        image_alt:
+        image_alt: 'Презентации SeaTable в пресс‑кйте с краткой информацией о продукте'
       - headline: 'Изображения'
         text: 'Все скриншоты, фотографии и логотипы'
         image: /images/seatable-screenshots.png
-        image_alt:
+        image_alt: 'Скриншоты и графические материалы SeaTable для редакционного использования'
       - headline: 'Пресс-релизы'
         text: 'Все последние новости о SeaTable'
         image: /images/seatable-press-release-6-0.jpg
-        image_alt:
+        image_alt: 'Превью пресс‑релизов SeaTable с последними новостями и обновлениями'
       
       buttons:
           - label: 'Просмотрите нашу подборку материалов для прессы и СМИ'
@@ -59,7 +60,7 @@ sections:
       subtitle: 'Публикации'
       text: 'Здесь Вы можете увидеть подборку СМИ, которые уже писали о SeaTable.'
       image: /images/Logo_PR.png
-      image_alt:
+      image_alt: 'медиа, которые писали о SeaTable'
 
     - name: 'content-24'
       weight: 5
