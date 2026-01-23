@@ -43,6 +43,7 @@ sections:
           - text: App Builder для использования во внешнем интерфейсе
           - text: Облачное решение или On-Premises
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image_alt: 'Маркетинговый дашборд SeaTable для планирования кампаний и анализа эффективности'
 
     - name: 'content-9'
       weight: 3
@@ -139,6 +140,7 @@ sections:
           - text: В качестве инструмента управления маркетингом SeaTable поддерживает вашу команду в сотрудничестве – независимо от того, работает она на месте или удаленно. Будучи облачным маркетинговым инструментом, SeaTable обеспечивает простое взаимодействие между внутренними и внешними командами. Если вы предпочитаете оставаться на своих собственных серверах, а не в облаке, вы можете положиться на SeaTable Server. Управляйте правами доступа, организуйте проекты и делитесь данными – все через центральную платформу.
       image: /images/seatable-1-1024x560-1.png
       image_position: left
+      image_alt: 'Интерфейс SeaTable для совместной работы маркетинговой команды'
 
     - name: 'content-8'
       weight: 10
@@ -149,31 +151,31 @@ sections:
       items:
           - text: Анализ конкурентов
             image: /images/Marketing_Competitor-Analysis_Template.png
-            image_alt: Следите за своими конкурентами и анализируйте их деятельность.
+            image_alt: 'Шаблон SeaTable для конкурентного анализа в маркетинге'
           - text: Планирование кампаний
             image: /images/Marketing_Content-Calendar_Template.png
-            image_alt: Планируйте свои маркетинговые кампании от первой идеи до реализации.
+            image_alt: 'Шаблон календаря кампаний и контента SeaTable для планирования маркетинга'
           - text: Стратегия контент-маркетинга
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            image_alt: Создавайте и управляйте своей стратегией контент-маркетинга в одном центральном месте.
+            image_alt: 'Шаблон SeaTable для стратегии контент‑маркетинга и планирования активностей'
           - text: Редакционный план
             image: /images/Marketing_Editorial-Plan_Template.png
-            image_alt: Управляйте своим планом контента для блогов, социальных сетей и других каналов.
+            image_alt: 'Шаблон редакционного плана SeaTable для блогов и соцсетей'
           - text: Обзор прессы
             image: /images/Marketing_Pressespiegel_Template.png
-            image_alt: Собирайте и анализируйте контент по своим темам в обзоре прессы.
+            image_alt: 'Шаблон SeaTable для пресс‑обзора и мониторинга СМИ'
           - text: Раскадровка
             image: /images/Marketing_Storyboard_Template.png
-            image_alt: Визуализируйте креативные идеи, планируйте целые сцены и кампании.
+            image_alt: 'Шаблон сториборда SeaTable для визуализации кампаний и креативов'
           - text: Редакционный календарь подкастов
             image: /images/Marketing_Podcast_Templat.png
-            image_alt: Планируйте производство своих подкастов и создайте редакционную коллегию.
+            image_alt: 'Шаблон редакционного календаря подкаста SeaTable для планирования выпусков'
           - text: План социальных сетей
             image: /images/Marketing_Social-Media_Template.png
-            image_alt: Организуйте свои публикации в социальных сетях и планируйте публикации.
+            image_alt: 'Шаблон плана социальных сетей SeaTable для постов и кампаний'
           - text: Подписка на новостную рассылку
             image: /images/Marketing_Newsletter_Subscription_Template.png
-            image_alt: Управляйте своими подписками на новостную рассылку и анализируйте их успех.
+            image_alt: 'Шаблон подписки на рассылку SeaTable для сбора и анализа лидов'
       buttons:
           - label: Откройте для себя все шаблоны
             link: 'templates'
