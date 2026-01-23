@@ -86,7 +86,7 @@ Zwischen der ersten und zweiten Spende verlieren viele Non-Profit-Organisationen
 
 ## Wie können Spenden effektiv verwaltet werden?
 
-Zu jeder Fundraising Kampagne gehört auch Verwaltung: eingeworbene Mittel müssen erfasst, Spenderdaten verwaltet und **Spendenbescheinigungen** ausgestellt werden. Hierfür bietet sich die Nutzung einer speziellen Software an. **Fundraising Software** kombiniert Finanzverwaltung, **Spendermanagement**, [Eventplanung]({{< relref "posts/202503-veranstaltung-verwalten" >}}) und Kampagnenplanung in einem System. Oft bieten solche Programme auch die Möglichkeit, direkt zu spenden und bieten dafür verschiedene Zahlungsarten. Die wichtigsten Vorteile sind:
+Zu jeder Fundraising Kampagne gehört auch Verwaltung: eingeworbene Mittel müssen erfasst, Spenderdaten verwaltet und **Spendenbescheinigungen** ausgestellt werden. Hierfür bietet sich die Nutzung einer speziellen Software an. **Fundraising Software** kombiniert Finanzverwaltung, **Spendermanagement**, [Eventplanung]({{< relref "posts/veranstaltung-verwalten" >}}) und Kampagnenplanung in einem System. Oft bieten solche Programme auch die Möglichkeit, direkt zu spenden und bieten dafür verschiedene Zahlungsarten. Die wichtigsten Vorteile sind:
 
 - Effiziente Erfassung von Spenden und Spenderdaten
 - Individuelle Spenderansprache durch Analyse der Spenderhistorie und Erfassung von Präferenzen

@@ -80,7 +80,7 @@ Como provavelmente sabe, tem de cumprir o **Regulamento Geral sobre a Proteção
 
 {{< warning headline="Nota" text="Os sistemas modernos podem, por exemplo, localizar veículos para planeamento de rotas e criar **perfis de movimento** precisos. Também é possível tirar conclusões sobre as rotas, o consumo e o estilo de condução a partir da **utilização de cartões de combustível**." />}}
 
-Por razões fiscais, em particular, é necessário poder acompanhar a **utilização de veículos** específicos. Quando é que cada empregado utilizou cada viatura da empresa? E, muito importante: as deslocações foram feitas para fins profissionais ou privados? Um [diário de bordo digital]({{< relref "posts/202503-fahrtenbuch" >}}) é uma boa forma de documentar estas informações cuidadosamente e em conformidade com o RGPD.
+Por razões fiscais, em particular, é necessário poder acompanhar a **utilização de veículos** específicos. Quando é que cada empregado utilizou cada viatura da empresa? E, muito importante: as deslocações foram feitas para fins profissionais ou privados? Um [diário de bordo digital]({{< relref "posts/fahrtenbuch" >}}) é uma boa forma de documentar estas informações cuidadosamente e em conformidade com o RGPD.
 
 Além disso, é necessário controlar duas vezes por ano a carta de condução dos condutores, para garantir que estes possuem uma **carta de condução válida**. Pode não só inspecionar as cartas de condução, mas também digitalizá-las ou fotocopiá-las. Isto também mostra a quantidade de dados sensíveis envolvidos na gestão de frotas, que devem ser armazenados de forma responsável.
 

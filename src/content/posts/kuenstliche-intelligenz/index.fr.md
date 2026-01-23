@@ -196,7 +196,7 @@ Pour profiter des opportunités économiques et utiliser l'IA de manière judici
 - **Contrôle humain** : L'intelligence artificielle doit soutenir les décisions, mais ne doit pas les prendre seule. Vous ne devez pas simplement croire les résultats, mais toujours les remettre en question et les vérifier.  
 - **Transparence** : Communiquez clairement à vos employés les conditions générales d'utilisation de l'IA. Vous éviterez ainsi la création d'une informatique fantôme dont vous ne savez rien. De même, l'interaction avec l'IA doit être signalée aux clients.
 - **Formation continue** : Les compétences en IA deviennent de plus en plus un facteur de réussite. Préparez vos collaborateurs au prompt et clarifiez avec eux les questions suivantes : comment fonctionne l'intelligence artificielle et où est-elle utilisée ?
-- **Souveraineté des données** : Si vous souhaitez utiliser l'IA sans compromettre la [protection des données]({{< relref "posts/digitale-souveraenitaet" >}}), il vaut la peine d'exécuter un modèle d'IA sur vos propres serveurs ou, au minimum, d'utiliser des [plateformes de cloud]({{< relref "posts/202503-cloud-computing" >}}) au sein de l'UE.
+- **Souveraineté des données** : Si vous souhaitez utiliser l'IA sans compromettre la [protection des données]({{< relref "posts/digitale-souveraenitaet" >}}), il vaut la peine d'exécuter un modèle d'IA sur vos propres serveurs ou, au minimum, d'utiliser des [plateformes de cloud]({{< relref "posts/cloud-computing" >}}) au sein de l'UE.
 - **Compliance** : Assurez-vous que les systèmes d'IA de votre entreprise respectent toutes les lois et directives de conformité en vigueur, notamment l'EU AI Act, car en cas de doute, votre responsabilité sera engagée.
 
 ### Qu'est-ce que l'EU AI Act ?

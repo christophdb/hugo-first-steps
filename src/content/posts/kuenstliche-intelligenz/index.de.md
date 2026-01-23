@@ -196,7 +196,7 @@ Um die wirtschaftlichen Chancen zu nutzen und künstliche Intelligenz in Ihrem U
 - **Menschliche Kontrolle**: Künstliche Intelligenz sollte Entscheidungen unterstützen, aber nicht alleine treffen. Die Ergebnisse sollten Sie nicht einfach glauben, sondern immer hinterfragen und prüfen.  
 - **Transparenz**: Kommunizieren Sie Ihren Mitarbeitern klar die Rahmenbedingungen für den Einsatz von KI. Damit vermeiden Sie, dass eine Schatten IT entsteht, von der Sie nichts wissen. Ebenso ist der Einsatz von KI gegenüber Kunden kenntlich zu machen.
 - **Weiterbildung**: KI-Kompetenz wird immer mehr zum Erfolgsfaktor. Machen Sie Ihre Mitarbeiter fit für das Prompting und klären Sie mit ihnen die Fragen: Wie funktioniert künstliche Intelligenz und wo wird künstliche Intelligenz eingesetzt?
-- **Datensouveränität**: Wenn Sie KI ohne Kompromisse beim [Datenschutz]({{< relref "posts/digitale-souveraenitaet" >}}) nutzen möchten, lohnt es sich, ein KI-Modell auf Ihren eigenen Servern zu betreiben oder zumindest [Cloud-Plattformen]({{< relref "posts/202503-cloud-computing" >}}) innerhalb der EU zu verwenden.
+- **Datensouveränität**: Wenn Sie KI ohne Kompromisse beim [Datenschutz]({{< relref "posts/digitale-souveraenitaet" >}}) nutzen möchten, lohnt es sich, ein KI-Modell auf Ihren eigenen Servern zu betreiben oder zumindest [Cloud-Plattformen]({{< relref "posts/cloud-computing" >}}) innerhalb der EU zu verwenden.
 - **Compliance**: Stellen Sie sicher, dass die KI Systeme in Ihrem Unternehmen alle geltenden Gesetze und Compliance-Richtlinien erfüllen, insbesondere den EU AI Act, denn im Zweifelsfall müssen Sie haften.
 
 ### Was ist der EU AI Act?

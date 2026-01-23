@@ -71,7 +71,7 @@ Companies are often tied to individual providers such as Google or Microsoft for
 
 ![Statue of Liberty with clouds](us-cloud-act.jpg)
 
-The trend from local storage to the [cloud]({{< relref "posts/202503-cloud-computing" >}}) is also ensuring that more and more data is located in data centers and thus **in the hands of US technology companies** such as Microsoft, Apple, Google or Amazon. The currently booming AI assistants (e.g. ChatGPT, Copilot) are also forwarding requests to their parent companies. As the data in these cases not only leaves your company, but often also the European Union, this may violate the GDPR. **The global flow of data** makes it more laborious to understand where data is stored at any given time and which data protection laws apply. This makes it increasingly difficult for companies to guarantee data protection in accordance with national and international regulations.
+The trend from local storage to the [cloud]({{< relref "posts/cloud-computing" >}}) is also ensuring that more and more data is located in data centers and thus **in the hands of US technology companies** such as Microsoft, Apple, Google or Amazon. The currently booming AI assistants (e.g. ChatGPT, Copilot) are also forwarding requests to their parent companies. As the data in these cases not only leaves your company, but often also the European Union, this may violate the GDPR. **The global flow of data** makes it more laborious to understand where data is stored at any given time and which data protection laws apply. This makes it increasingly difficult for companies to guarantee data protection in accordance with national and international regulations.
 
 {{< warning headline="Cloud, AI and other key technologies " >}}
 
