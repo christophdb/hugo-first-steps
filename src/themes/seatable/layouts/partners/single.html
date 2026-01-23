@@ -57,7 +57,10 @@
 
                         <div class="mb-8 mt-4 flex flex-col gap-1 border-t border-gray-200 px-6">
                             <h3 class="!pt-6 pb-4 !text-xl tracking-tight">{{ $partner.partner }}</h3>
-                            <span class="text-gray-600">{{ $partner.company_address | .RenderString }} </span>
+                            <span class="text-gray-600">
+                                {{ $partner.company_address | .RenderString }}
+                                <p>{{ $partner.country.country_region }}</p>
+                            </span>
                             <a href="mailto:{{ $partner.contact_email }}" class="{{ $accentColor }} mt-8 block rounded-lg px-4 py-2 text-center font-bold text-white"
                                 >{{ T "partner.contact" }}</a
                             >
@@ -85,14 +88,6 @@
                                 {{ range $partner.support_areas }}
                                     <li>{{ . }}</li>
                                 {{ end }}
-                            </ul>
-                        </div>
-
-                        <!-- FIXME: Needs to be added to base -->
-                        <div>
-                            <h3>{{ T "partners.region" }}</h3>
-                            <ul class="list-disc pl-6 pt-1">
-                                <li>Europe</li>
                             </ul>
                         </div>
 
