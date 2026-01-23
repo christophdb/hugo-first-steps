@@ -76,12 +76,15 @@ sections:
           - headline: SeaTable Cloud
             text: "Parfait pour les entreprises qui souhaitent démarrer rapidement et qui n'ont pas besoin d'une infrastructure informatique étendue - flexible et évolutive."
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – alternative flexible à Microsoft Lists pour gestion de projets'
           - headline: SeaTable Server
             text: "Pour les entreprises qui souhaitent conserver le contrôle total de leurs données, SeaTable Server offre une option sur site."
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – alternative locale à Microsoft Lists avec contrôle total'
           - headline: SeaTable Dedicated
             text: "Pour les entreprises qui ont besoin de la simplicité du cloud et de la flexibilité d'un système auto-hébergé."
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated – instance dédiée comme alternative à Microsoft Lists avec flexibilité cloud'
 
     - name: 'content-8'
       weight: 10
@@ -91,13 +94,13 @@ sections:
       items:
           - text: "Liste des choses à faire"
             image: /images/to-do-liste.png
-            image_alt: ""
+            image_alt: "Modèle de SeaTable Liste de tâches – gestion simple des listes comme Microsoft Lists"
           - text: "Planificateur d'atelier"
             image: /images/workshop-planer.png
-            image_alt: ""
+            image_alt: "Modèle de SeaTable Planification d'ateliers – planification d'événements et coordination"
           - text: "Plan d'action"
             image: /images/maßnahmenplan.png
-            image_alt: ""
+            image_alt: "Modèle de SeaTable Plan d'actions – planification structurée des actions et mesures"
       buttons:
         - label: Discover all templates
           link: "templates"

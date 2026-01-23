@@ -75,12 +75,15 @@ sections:
           - headline: SeaTable Cloud
             text: Идеально подходит для компаний, которые хотят начать работу быстро и без обширной ИТ-инфраструктуры - гибкая и масштабируемая.
             image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud – гибкая альтернатива Microsoft Lists для управления проектами'
           - headline: SeaTable Server
             text: Для компаний, которые хотят сохранить полный контроль над своими данными, SeaTable Server предлагает вариант с размещением в помещении.
             image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server – локальная альтернатива Microsoft Lists с полным контролем'
           - headline: SeaTable Dedicated
             text: Для компаний, которым нужна простота облака и гибкость самостоятельной системы.
             image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated – выделенный экземпляр как альтернатива Microsoft Lists с облачной гибкостью'
 
     - name: 'content-8'
       weight: 10
@@ -90,13 +93,13 @@ sections:
       items:
           - text: "Список дел"
             image: /images/to-do-liste.png
-            image_alt: ""
+            image_alt: "Шаблон SeaTable Список дел – простое управление списками, как в Microsoft Lists"
           - text: Планировщик семинаров
             image: /images/workshop-planer.png
-            image_alt: ""
+            image_alt: "Шаблон SeaTable Планировщик семинара – планирование событий и координация"
           - text: План действий
             image: /images/maßnahmenplan.png
-            image_alt: ""
+            image_alt: "Шаблон SeaTable План действий – структурированное планирование действий и мер"
       buttons:
         - label: Откройте для себя все шаблоны
           link: "templates"
