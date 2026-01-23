@@ -82,6 +82,7 @@ def process_partner(partner: dict) -> dict:
         'partner': partner['Partner'],
         'company_name': partner['Company name'],
         'description': partner['Description'],
+        'short_description': partner['Short description'],
         'partner_type': partner['Partner type'],
         'company_website': partner['Company website'],
         'company_address': partner['Company address'],
