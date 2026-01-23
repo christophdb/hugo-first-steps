@@ -11,6 +11,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#f7c1cf'
+register:
+   show: true
 ---
 
 ## So wird Ihre Veranstaltung zum Erfolg

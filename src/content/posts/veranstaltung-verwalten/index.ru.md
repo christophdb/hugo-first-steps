@@ -13,6 +13,8 @@ tags:
 categories:
     - 'best-practice'
 color: '#f7c1cf'
+register:
+   show: true
 ---
 
 ## Как сделать ваше мероприятие успешным

@@ -12,6 +12,8 @@ tags:
 date: 2025-04-01
 color: '#c5a6e9'
 url: '/es/cloud-computing'
+register:
+   show: true
 ---
 
 ## ¿Qué es la computación en nube?

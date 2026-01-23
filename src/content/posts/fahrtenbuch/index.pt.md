@@ -17,6 +17,8 @@ categories:
     - 'best-practice'
 color: '#f34b4c'
 text: 'white'
+register:
+   show: true
 ---
 
 ## Como transformar o seu diário de bordo numa vantagem fiscal

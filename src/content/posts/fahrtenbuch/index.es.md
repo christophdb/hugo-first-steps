@@ -11,6 +11,8 @@ aliases:
 tags:
 categories:
 color: '#f34b4c'
+register:
+   show: true
 ---
 
 ## Cómo convertir tu cuaderno de bitácora en una ventaja fiscal

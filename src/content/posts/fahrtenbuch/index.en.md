@@ -17,6 +17,8 @@ categories:
     - 'best-practice'
 color: '#f34b4c'
 text: 'white'
+register:
+   show: true
 ---
 
 ## How to turn your logbook into a tax advantage

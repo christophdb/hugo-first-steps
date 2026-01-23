@@ -13,6 +13,8 @@ color: '#139da9'
 url: '/ru/strategiya-prodazh'
 aliases:
     - /ru/стратегия-продаж
+register:
+   show: true
 ---
 
 ## Почему Вам нужна стратегия продаж

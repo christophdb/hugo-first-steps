@@ -17,6 +17,8 @@ categories:
     - 'best-practice'
 color: '#f34b4c'
 text: 'white'
+register:
+   show: true
 ---
 
 ## Как превратить свой журнал в налоговое преимущество
