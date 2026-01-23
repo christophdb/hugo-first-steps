@@ -194,7 +194,7 @@ If you want a private ceremony, don’t include the date in the obituary so only
 
 With everything to plan for a funeral, it’s easy to lose track. That’s why SeaTable has compiled the most important to-dos in a checklist. You can also use the online planner to coordinate invitations or calculate funeral costs.
 
-![Online planner with funeral cost overview](Funeral-planner.png)
+![SeaTable “Funeral Planner” template with checklist, tasks and cost overview for the funeral](Funeral-planner.png)
 
 SeaTable template with funeral cost overview
 

@@ -193,7 +193,7 @@ Se a cerimónia fúnebre se realizar apenas no círculo mais próximo, não escr
 
 Com tudo o que é necessário para planear um funeral, é fácil perder a noção de tudo. Por isso, a SeaTable compilou as tarefas mais importantes numa lista de verificação. Também pode utilizar o planeador em linha para coordenar o convite dos enlutados ou para calcular os custos do funeral.
 
-![Planeamento em linha com uma visão geral dos custos do funeral](Funeral-planner.png)
+![Modelo SeaTable «Planejar funeral» com checklist, tarefas e visão geral de custos](Funeral-planner.png)
 
 Modelo de síntese de custos funerários SeaTable
 

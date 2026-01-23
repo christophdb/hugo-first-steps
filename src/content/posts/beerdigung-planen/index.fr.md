@@ -193,7 +193,7 @@ Si la cérémonie funéraire ne doit avoir lieu que dans un cercle restreint, n'
 
 Avec tout ce qu'il faut prévoir pour un enterrement, il est facile de se perdre. SeaTable a donc réuni les principales choses à faire dans une liste de contrôle. Vous pouvez également utiliser le planificateur en ligne pour coordonner l'invitation des personnes à enterrer ou calculer le coût des funérailles.
 
-![Planificateur en ligne avec aperçu des coûts pour les funérailles](Funeral-planner.png)
+![Modèle SeaTable «Planifier des funérailles» avec checklist, tâches et aperçu des coûts](Funeral-planner.png)
 
 Modèle SeaTable avec aperçu des coûts pour les funérailles
 

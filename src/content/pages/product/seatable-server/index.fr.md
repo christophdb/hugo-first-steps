@@ -30,6 +30,7 @@ sections:
           - text: 'Profitez de toutes les fonctionnalités de SeaTable tout en conservant votre indépendance : vous décidez du niveau de support que vous attendez de nous.'
       image: '/images/Product-Page-SeaTable-Server-700x450-1.png'
       image_position: left
+      image_alt: 'Interface SeaTable Server pour déploiement on‑premises avec contrôle complet des données'
       buttons:
           - label: Voir le manuel d'administration
             link: https://admin.seatable.com
@@ -43,6 +44,7 @@ sections:
           - text: "Parallèlement, SeaTable prend en charge toutes les techniques d'authentification courantes comme SAML, OAuth, Shibboleth, Active Directory et LDAP. Il permet l'authentification à deux facteurs et le single sign-on, et supporte les backends clusterisables comme Ceph et S3."
           - text: "Dans votre système, vous déterminez quelles limites d'API appliquer ou si aucune ne doit l'être."
       image: '/images/Product-Page-Server_750x500.png'
+      image_alt: 'Architecture système SeaTable on‑premises avec infrastructure serveur dédiée'
       buttons:
           - label: Voir les tarifs
             link: pages/prices
