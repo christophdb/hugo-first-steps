@@ -9,7 +9,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'App Builder'
-    - 'No Code & Low Code'
+    - 'No Code / Low Code'
 color: '#9fe0cc'
 url: '/de/app-erstellen'
 ---

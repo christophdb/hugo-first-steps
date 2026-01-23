@@ -9,7 +9,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Digitale Transformation'
-    - 'No Code & Low Code'
+    - 'No Code / Low Code'
 color: '#f2afdb'
 url: '/de/low-code'
 ---
