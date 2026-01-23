@@ -16,7 +16,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Artigos de papelaria e cadernos" ort="Alemanha" >}}
+[Logótipo da Leuchtturm1917 como cliente de referência da SeaTable para gestão de propostas e encomendas]{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Artigos de papelaria e cadernos" ort="Alemanha" >}}
 
 ## Contexto
 
@@ -32,7 +32,7 @@ Depois de o departamento B2B ter atingido os limites do Excel e da componente CR
 
 A implementação foi realizada pelo "crack do Excel" do departamento, que assumiu o desafio de mapear todos os requisitos da equipa e depois implementar um processo no SeaTable. E tudo sem ter de mandar programar interfaces ou novas funções.
 
-{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
+[Instalação da Leuchtturm1917 em Geesthacht que utiliza o SeaTable para gestão transparente de propostas]{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
 
 Com a ajuda do SeaTable, conseguimos ter uma visão geral do processo de vendas antes de a encomenda ser criada. A criação de cotações, o acompanhamento e a avaliação estão num sistema flexível que é personalizado de acordo com as nossas necessidades.
 

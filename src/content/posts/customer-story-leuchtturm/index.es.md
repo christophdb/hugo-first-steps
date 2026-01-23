@@ -16,7 +16,7 @@ register:
    show: true
 ---
 
-{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Papelería y cuadernos" ort="Alemania" >}}
+[Logotipo de Leuchtturm1917 como cliente de referencia de SeaTable para la gestión de ofertas y pedidos]{{< customer-logo image="logo_leuchtturm.jpg" firma="Leuchtturm1917" branche="Papelería y cuadernos" ort="Alemania" >}}
 
 ## Fondo
 
@@ -32,7 +32,7 @@ Después de que el departamento B2B hubiera alcanzado los límites de Excel y de
 
 La implementación corrió a cargo del "crack del Excel" del departamento, que asumió el reto de mapear todos los requisitos del equipo y luego implementar un proceso en SeaTable. Y todo ello sin tener que programar interfaces ni nuevas funciones.
 
-{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
+[Sede de Leuchtturm1917 en Geesthacht que utiliza SeaTable para una gestión transparente de ofertas]{{< testimonial image="" alt="" name="Björn Augustin, Team Lead Corporate Gift" >}}
 
 Con la ayuda de SeaTable, hemos conseguido tener una visión general del proceso de venta antes de que se cree el pedido. La creación de ofertas, el seguimiento y la evaluación se encuentran en un sistema flexible y adaptado a nuestras necesidades.
 
