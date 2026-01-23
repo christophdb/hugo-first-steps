@@ -71,7 +71,7 @@ sections:
             image: /images/Excel-Alternative_Datenverarbeitung.png
             image_alt: 'SeaTable Oberfläche mit Diagrammen und Pivot-Tabellen für erweiterte Datenverarbeitung'
           - headline: Kostenlose Vorlagen
-            text: Greifen Sie auf zahlreiche kostenlose Templates zurück, die Sie mit [KI-Workflows] optimieren können, und digitalisieren Sie Ihre Prozesse in Minuten.
+            text: Greifen Sie auf zahlreiche kostenlose Templates zurück, die Sie mit KI-Workflows optimieren können, und digitalisieren Sie Ihre Prozesse in Minuten.
             image: /images/Excel-Alternative-Templates.png
             image_alt: 'Auswahl an SeaTable Vorlagen als Excel Alternative für verschiedene Fachbereiche'
           - headline: Filter- und Sortierfunktion
@@ -168,22 +168,22 @@ sections:
             style: primary
       gridheadline: Das neue Tool für ...
       items:
-          - icon: ghost
+          - icon: bell
             headline: Aufgabenverwaltung
             text: 'Unser Template für Ihre Aufgabenplanung löst die herkömmliche To Do Liste aus Excel ab und hilft Ihnen, Ihre täglichen Aufgaben effizient zu verwalten und Ihre Produktivität zu steigern. SeaTable bietet eine benutzerfreundliche Oberfläche, die Sie einfach an Ihre spezifischen Anforderungen anpassen können. Entscheiden Sie, ob Sie unsere praktische To Do Liste Vorlage als Tabelle, Kanban oder Timeline nutzen möchten.'
-          - icon: ghost
+          - icon: chart-line
             headline: Projektmanagement
             text: 'Nutzen Sie unsere Templates, um Projekte effizient zu organisieren. Mit SeaTable können Sie komplexe Projektmanagement-Vorlagen aus Excel ersetzen und individuelle Projektpläne erstellen, die perfekt auf Ihre Anforderungen abgestimmt sind.'
-          - icon: ghost
+          - icon: people-group
             headline: 'Personal- und Urlaubsplanung'
             text: 'Verwalten Sie Ihre Personalressourcen mit SeaTable effizienter als mit der herkömmlichen Personalplanung in Excel. Unsere Vorlagen ermöglichen eine dynamische Verwaltung von Arbeitszeiten und Abwesenheiten und bieten Ihnen eine flexiblere Lösung für die Urlaubsplanung als Excel.'
-          - icon:
+          - icon: edit
             headline: Terminplanung
             text: 'Mit SeaTable können Sie den Excel Terminplaner durch eine flexiblere Lösung ersetzen, die Ihnen hilft, Termine und Fristen zuverlässig zu verwalten und den Überblick über alle wichtigen Deadlines zu behalten.'
-          - icon:
+          - icon: sack-dollar
             headline: Buchhaltung
             text: 'Unsere Templates aus dem Bereich Buchhaltung bieten Ihnen eine effektive Alternative zur Buchhaltung Vorlage in Excel und ermöglichen eine einfache Verwaltung Ihrer finanziellen Daten, sodass Sie Zeit sparen und Ihre Buchhaltungsprozesse optimieren können.'
-          - icon:
+          - icon: building
             headline: Finanzplanung
             text: 'Ersetzen Sie den Excel-Finanzplan durch unsere leistungsstarken Templates aus diesem Bereich, die Ihnen helfen, Ihre Finanzen präzise zu planen, zu verwalten und über eine Visualisierung im Dashboard immer im Blick zu behalten. Diese Finanzplaner sind ideal, um Ihre finanziellen Prozesse zu optimieren und bieten mehr Flexibilität als herkömmliche Finanzplaner Excel-Vorlagen.'
 
