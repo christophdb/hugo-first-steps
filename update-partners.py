@@ -3,6 +3,7 @@
 import os
 import re
 import unicodedata
+import urllib
 from pathlib import Path
 
 import requests
@@ -10,7 +11,8 @@ import yaml
 
 SEATABLE_URL = 'https://cloud.seatable.io'
 API_TOKEN = os.environ['PARTNERS_BASE_API_TOKEN']
-TABLE_NAME = 'Partners'
+TABLE_NAME_PARTNERS = 'Partners'
+TABLE_NAME_REFERENCE_CUSTOMERS = 'Reference customers'
 VIEW_NAME = 'seatable.com'
 
 SCRIPT_PATH = Path(__file__).resolve()
@@ -37,7 +39,7 @@ def generate_base_token(api_token: str) -> tuple[str, str]:
     return body['dtable_uuid'], body['access_token']
 
 
-def fetch_partners() -> list[dict]:
+def fetch_rows(table_name: str) -> list[dict]:
     base_uuid, base_token = generate_base_token(API_TOKEN)
 
     url = f'{SEATABLE_URL}/api-gateway/api/v2/dtables/{base_uuid}/rows/'
@@ -46,7 +48,7 @@ def fetch_partners() -> list[dict]:
         'Authorization': f'Bearer {base_token}',
     }
     params = {
-        'table_name': TABLE_NAME,
+        'table_name': table_name,
         'view_name': VIEW_NAME,
         'convert_keys': 'true',
     }
@@ -72,10 +74,16 @@ def slugify(text: str) -> str:
 def remove_emojis(text: str) -> str:
     return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii').strip()
 
-def process_partner(partner: dict) -> dict:
+def process_partner(partner: dict, reference_customers: list[dict]) -> dict:
     # slug is used for file paths and URLs (/partners/$slug)
     slug = slugify(partner['Partner'])
     languages = [remove_emojis(language) for language in (partner['Languages'] or [])]
+
+
+    # Find the matching reference customers
+    customer_row_ids = [row['row_id'] for row in partner['Reference customers']]
+    customers = [row for row in reference_customers if row['_id'] in customer_row_ids]
+    customers = [process_customer(slug, customer) for customer in customers]
 
     data = {
         'slug': slug,
@@ -94,6 +102,7 @@ def process_partner(partner: dict) -> dict:
         'email_for_customer_inquiries': partner['Email for customer inquiries'],
         'phone_number_for_customer_inquiries': partner['Phone number for customer inquiries'],
         'languages': languages,
+        'reference_customers': customers,
         # Ensure that these values are always lists
         'industry_expertise': partner['Industry expertise'] or [],
         'support_areas': partner['Support areas'] or [],
@@ -116,6 +125,33 @@ def process_partner(partner: dict) -> dict:
         data['logo_path'] = f'/partners/{slug}/{logo_filename}'
 
     return data
+
+def process_customer(partner_slug: str, customer: dict) -> dict:
+    customer_logo = customer.get('Customer logo')[0] if customer.get('Customer logo') else None
+    logo_path = None
+
+    if customer_logo:
+        # Download logos since the links inside the base require authentication
+        logo_directory = LOGO_PATH.joinpath(partner_slug)
+        logo_extension = Path(customer_logo).suffix
+        logo_filename = f'reference-customer-{customer["_id"]}{logo_extension}'
+        logo_output_path = logo_directory.joinpath(logo_filename)
+
+        # Ensure that directory exists
+        os.makedirs(logo_directory, exist_ok=True)
+
+        download_image(customer_logo, logo_output_path)
+        print(f'Success: Downloaded logo for reference customer (partner={partner_slug})')
+        logo_path = f'/partners/{partner_slug}/{logo_filename}'
+
+    return {
+        'customer_name': customer['Customer name'],
+        'logo_path': logo_path,
+        'highlight_quote': customer['Highlight quote'],
+        'quote_giver': customer['Quote giver'],
+        'quote_giver_position': customer['Position of quote giver'],
+        'main_text': customer['Main text'],
+    }
 
 def generate_frontmatter(partner: dict, language_slug: str) -> str:
     url_by_language_slug = {
@@ -143,9 +179,13 @@ def generate_download_link(image_url: str) -> str:
         'Accept': 'application/json',
         'Authorization': f'Bearer {API_TOKEN}',
     }
+
+    # Get everything after (and including) /images/
+    path = image_url[image_url.find('/images'):]
+
     params = {
-        # Get everything after (and including) /images/
-        'path': image_url[image_url.find('/images'):],
+        # path needs to be unquoted since it was already encoded
+        'path': urllib.parse.unquote(path),
     }
 
     response = requests.get(url, headers=headers, params=params)
@@ -164,12 +204,16 @@ def download_image(image_url: str, output_path: Path) -> None:
         f.write(response.content)
 
 if __name__ == '__main__':
-    print('Fetching rows from SeaTable...')
-    partners = fetch_partners()
+    print('Fetching partners from SeaTable...')
+    partners = fetch_rows(table_name=TABLE_NAME_PARTNERS)
     print(f'Success: Retrieved {len(partners)} rows from SeaTable\n')
 
+    print('Fetching reference customers from SeaTable...')
+    reference_customers = fetch_rows(table_name=TABLE_NAME_REFERENCE_CUSTOMERS)
+    print(f'Success: Retrieved {len(reference_customers)} rows from SeaTable\n')
+
     # Process each row to ensure equal key names for the YML file and the frontmatter inside each markdown file
-    partners = [process_partner(partner) for partner in partners]
+    partners = [process_partner(partner, reference_customers) for partner in partners]
 
     print(f'Writing data to .yml file at {DATA_PATH}...')
     with open(DATA_PATH, 'w') as f:
