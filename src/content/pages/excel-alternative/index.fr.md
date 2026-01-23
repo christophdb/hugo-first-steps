@@ -173,22 +173,22 @@ sections:
             style: primary
       gridheadline: Le nouvel outil pour ...
       items:
-          - icon: ghost
+          - icon: bell
             headline: "Gestion des tâches"
             text: "Notre modèle pour votre planification des tâches remplace la liste de tâches traditionnelle d'Excel et vous aide à gérer efficacement vos tâches quotidiennes et à augmenter votre productivité. SeaTable offre une interface conviviale que vous pouvez facilement adapter à vos besoins spécifiques. Décidez si vous souhaitez utiliser notre modèle de liste de tâches pratique sous forme de tableau, de Kanban ou de timeline."
-          - icon: ghost
+          - icon: chart-line
             headline: Gestion de projet
             text: "Utilisez nos modèles pour organiser efficacement les projets. Avec SeaTable, vous pouvez remplacer les modèles de gestion de projet complexes d'Excel et créer des plans de projet individuels parfaitement adaptés à vos besoins."
-          - icon: ghost
+          - icon: people-group
             headline: "Planification du personnel et des congés"
             text: "Gérez vos ressources humaines plus efficacement avec SeaTable qu'avec la planification du personnel traditionnelle dans Excel. Nos modèles permettent une gestion dynamique des heures de travail et des absences et vous offrent une solution plus flexible pour la planification des congés qu'Excel."
-          - icon:
+          - icon: edit
             headline: Planification des rendez-vous
             text: "Avec SeaTable, vous pouvez remplacer le calendrier Excel par une solution plus flexible qui vous aide à gérer les rendez-vous et les délais de manière fiable et à garder une vue d'ensemble de toutes les échéances importantes."
-          - icon:
+          - icon: sack-dollar
             headline: Comptabilité
             text: "Nos modèles du domaine de la comptabilité vous offrent une alternative efficace au modèle de comptabilité dans Excel et permettent une gestion simple de vos données financières, afin que vous puissiez gagner du temps et optimiser vos processus comptables."
-          - icon:
+          - icon: building
             headline: Planification financière
             text: "Remplacez le plan financier Excel par nos modèles performants de ce domaine, qui vous aideront à planifier et à gérer avec précision vos finances et à les garder toujours à l'œil grâce à une visualisation dans le tableau de bord. Ces planificateurs financiers sont idéaux pour optimiser vos processus financiers et offrent plus de flexibilité que les modèles Excel traditionnels de planificateur financier."
 
