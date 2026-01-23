@@ -25,14 +25,30 @@
 
             {{ $partner := .Params.partner }}
 
+            {{/* Accent color for partners with multiple partner types (e.g. hosting + solution) */}}
+            {{ $accentColor := "bg-gray-500" }}
+
+            {{ if eq (len $partner.partner_type) 1 }}
+                {{ if eq (index $partner.partner_type 0) "Solution partner" }}
+                    {{/* Info: The class names are also defined in the list.html template */}}
+                    {{ $accentColor = "bg-green-800" }}
+                {{ else if eq (index $partner.partner_type 0) "Service partner" }}
+                    {{ $accentColor = "bg-blue-700" }}
+                {{ else if eq (index $partner.partner_type 0) "Hosting partner" }}
+                    {{ $accentColor = "bg-purple-700" }}
+                {{ end }}
+            {{ end }}
+
 
             <div class="mt-16 flex w-full flex-col gap-12 md:flex-row">
                 <!-- left -->
                 <div class="flex w-full flex-col gap-4 md:w-80 md:max-w-80">
                     <div class="rounded-lg border border-gray-300">
-                        <span class="block w-full rounded-t-lg bg-green-800 px-2 py-4 text-center font-poppins text-xl font-bold text-white"
-                            >{{ index $partner.partner_type 0 }}</span
-                        >
+                        <span class="{{ $accentColor }} flex w-full flex-col gap-1 rounded-t-lg px-2 py-4 text-center font-poppins text-xl font-bold text-white">
+                            {{ range $partner.partner_type }}
+                                <span>{{ . }}</span>
+                            {{ end }}
+                        </span>
 
                         {{ with $partner.logo_path }}
                             <img src="{{ . }}" alt="{{ $partner.partner }}" class="mx-auto my-8 block h-20 w-48 object-contain" />
@@ -42,7 +58,7 @@
                         <div class="mb-8 mt-4 flex flex-col gap-1 border-t border-gray-200 px-6">
                             <h3 class="!pt-6 pb-4 !text-xl tracking-tight">{{ $partner.partner }}</h3>
                             <span class="text-gray-600">{{ $partner.company_address | .RenderString }} </span>
-                            <a href="mailto:{{ $partner.contact_email }}" class="mt-8 block rounded-lg bg-green-800 px-4 py-2 text-center font-bold text-white"
+                            <a href="mailto:{{ $partner.contact_email }}" class="{{ $accentColor }} mt-8 block rounded-lg px-4 py-2 text-center font-bold text-white"
                                 >{{ T "partner.contact" }}</a
                             >
                             <a
