@@ -166,7 +166,7 @@
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "contact.success" }}';
                                     if (typeof posthog !== 'undefined') {
-                                        posthog.capture('Contact Form');
+                                        posthog.capture('contact_form_submit');
                                     }
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
@@ -245,7 +245,7 @@
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
                                     if (typeof posthog !== 'undefined') {
-                                        posthog.capture('Cloud Registration');
+                                        posthog.capture('cloud_register_submit');
                                     }
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
@@ -323,7 +323,7 @@
                             if (data.success) {
                                 this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "newsletter.success" }}';
                                 if (typeof posthog !== 'undefined') {
-                                    posthog.capture('Newsletter Registration');
+                                    posthog.capture('newsletter_subscribe');
                                 }
                             } else {
                                 this.errorMessage = data.error || 'error message'; // Show error message

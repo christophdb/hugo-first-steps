@@ -32,7 +32,7 @@
                                 return;
                             }
                             try {
-                                posthog.capture('Help Search', { query: term });
+                                posthog.capture('help_search', { query: term });
                                 console.log('Posthog Event Search:', term);
                             } catch (e) {
                                 console.error('Posthog Event Error:', e);
