@@ -1,0 +1,19 @@
+<div class="grid grid-cols-1 gap-8 md:grid-cols-2">
+    {{ with .Inner }}
+        {{ $parts := split . "===" }}
+
+        {{ with (index $parts 0) }}
+            <div class="legal-left space-y-4 md:border-r md:pr-8">
+                {{ . | markdownify | safeHTML }}
+            </div>
+        {{ end }}
+
+        {{ with (index $parts 1) }}
+            <div class="legal-right rounded-lg bg-gray-200 px-4 md:bg-white">
+                <p class="visible opacity-70 md:hidden" style="font-size:14px !important">Und was es bedeutet:</p>
+                <!-- rendert immer <p>...</p> auch bei einzelnen Wörtern -->
+                {{ . | $.Page.RenderString (dict "display" "block") }}
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
