@@ -167,19 +167,19 @@ sections:
           - q: 'O SeaTable é realmente gratuito? O que inclui a versão gratuita?'
             a: 'O SeaTable oferece uma versão gratuita que cobre todas as funções básicas necessárias para a otimização dos seus processos de RH. Pode utilizar a plataforma sem introduzir um cartão de crédito. A versão gratuita permite criar arquivos digitais de pessoal, gerir processos de RH, utilizar sistemas de registo de tempo e muito mais.'
 
-          - q: 'Por que o SeaTable é a melhor escolha em comparação com o Personio e o HeavenHR?'
-            a: 'Enquanto o Personio e o HeavenHR se especializam em funções específicas de RH, o SeaTable convence pela sua flexibilidade e adaptabilidade. O SeaTable oferece uma adaptabilidade total para que o senhor possa desenhar e otimizar individualmente processos como onboarding, offboarding, trabalho operacional e [registo de horas de trabalho eficiente]({{< relref "pages/arbeitszeiterfassung" >}}).'
+          - q: Por que o SeaTable é a melhor escolha em comparação com o Personio e o HeavenHR?
+            a: Enquanto o Personio e o HeavenHR se especializam em funções específicas de RH, o SeaTable convence pela sua flexibilidade e adaptabilidade. O SeaTable oferece uma adaptabilidade total para que o senhor possa desenhar e otimizar individualmente processos como onboarding, offboarding, trabalho operacional e [registo de horas de trabalho eficiente]({{< relref "pages/arbeitszeiterfassung" >}}).
 
-          - q: 'Como a IA do SeaTable apoia o meu trabalho diário de RH?'
-            a: 'O SeaTable oferece uma coluna de IA nativa e automações de IA. Com elas, o senhor pode, por exemplo, criar automaticamente resumos de currículos de candidatos, redigir e-mails para candidatos ou analisar o feedback dos colaboradores sem sair da plataforma.'
+          - q: Como a IA do SeaTable apoia o meu trabalho diário de RH?
+            a: O SeaTable oferece uma coluna de IA nativa e automações de IA. Com elas, o senhor pode, por exemplo, criar automaticamente resumos de currículos de candidatos, redigir e-mails para candidatos ou analisar o feedback dos colaboradores sem sair da plataforma.
           
-          - q: 'Como posso integrar e otimizar os meus processos de RH existentes com o SeaTable?'
-            a: 'O SeaTable foi desenhado para se integrar perfeitamente nos seus processos e sistemas existentes. Graças à API flexível e às extensas possibilidades de integração, pode ligar o SeaTable facilmente a outras ferramentas. Além disso, o SeaTable oferece modelos e [fluxos de trabalho]({{< relref "pages/industry-solutions/individual" >}}) personalizáveis.'
+          - q: Como posso integrar e otimizar os meus processos de RH existentes com o SeaTable?
+            a: O SeaTable foi desenhado para se integrar perfeitamente nos seus processos e sistemas existentes. Graças à API flexível e às extensas possibilidades de integração, pode ligar o SeaTable facilmente a outras ferramentas. Além disso, o SeaTable oferece modelos e [fluxos de trabalho]({{< relref "pages/industry-solutions/individual" >}}) personalizáveis.
 
-          - q: 'Qual a segurança dos meus dados no SeaTable, especialmente em relação ao RGPD?'
-            a: 'O SeaTable atribui grande importância à segurança e proteção de dados. A plataforma está em total conformidade com o RGPD e oferece opções flexíveis de alojamento (Cloud ou servidor próprio). Controlos de acesso baseados em funções garantem que os seus dados estejam sempre protegidos.'
+          - q: Qual a segurança dos meus dados no SeaTable, especialmente em relação ao RGPD?
+            a: O SeaTable atribui grande importância à segurança e proteção de dados. A plataforma está em total conformidade com o RGPD e oferece opções flexíveis de alojamento (Cloud ou servidor próprio). Controlos de acesso baseados em funções garantem que os seus dados estejam sempre protegidos.
 
-          - q: 'O SeaTable é uma boa alternativa ao Personio?'
-            a: 'Se procura uma alternativa ao Personio flexível e poderosa, o SeaTable oferece a solução ideal. Através da possibilidade de adaptar individualmente os processos de RH e obter uma visão completa, o SeaTable é adequado tanto para pequenas como para grandes empresas.'
+          - q: O SeaTable é uma boa alternativa ao Personio?
+            a: Se procura uma alternativa ao Personio flexível e poderosa, o SeaTable oferece a solução ideal. Através da possibilidade de adaptar individualmente os processos de RH e obter uma visão completa, o SeaTable é adequado tanto para pequenas como para grandes empresas.
 
 ---
