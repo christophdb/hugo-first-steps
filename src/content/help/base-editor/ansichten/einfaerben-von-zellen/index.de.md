@@ -22,15 +22,15 @@ Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen fa
 
 ## Einfärben durch Regeln oder nach Werten
 
-Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Einfärben von Zellen in SeaTable](images/color-cells.png)
+Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Menüoption „Zellen der Spalte formatieren“ in SeaTable](images/color-cells.png)
 
 Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
 
-![Einfärben mit Regeln oder nach Werten](images/color-cells-rules-values.png)
+![Übersicht: Zellen nach Regeln oder Werten einfärben](images/color-cells-rules-values.png)
 
 ## So färben Sie Zellen durch eine Regel ein
 
-![Einfärben von Zellen Beispiel 1](images/einfaerben-von-zellen-beispiel-1-1.gif)
+![Beispiel: Zellen anhand einer Regel einfärben](images/einfaerben-von-zellen-beispiel-1-1.gif)
 
 1. Klicken Sie auf das **Dreieck-Symbol** im Tabellenkopf einer Spalte.
 2. Wählen Sie die Option **Zellen der Spalte formatieren**.
@@ -43,21 +43,21 @@ Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaT
 
 Durch eine Regel färben Sie **alle Zellen** in einer Spalte ein, auf die eine Regel **zutrifft**. Eine solche Regel könnte z. B. lauten: „Färbe alle Zellen mit einem Rating von drei oder mehr Sternen gelb ein.“
 
-![Einfärben von Zellen mit einer Regel](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Ergebnis: Eine Regel färbt passende Zellen gelb ein](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 Sie können pro Spalte **mehrere Regeln mit unterschiedlichen Farben** anlegen.
 
-![Einfärben von Zellen mit mehreren Regeln](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Mehrere Regeln mit unterschiedlichen Farben in einer Spalte](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
 
-![Regel mit mehreren Bedingungen für das Einfärben von Zellen](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Regel mit mehreren Bedingungen zur Zellfärbung](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 {{< warning  headline="Unterschiedliche Optionen je nach Spaltentyp"  text="Die **Auswahl** an möglichen Bedingungen passt sich dynamisch an den Spaltentyp an." />}}
 
 ## So färben Sie Zellen durch Werte ein
 
-![Einfärben von Zellen Beispiel 2](images/einfaerben-von-zellen-beispiel-2-1.gif)
+![Beispiel: Zellen nach Werten einfärben in SeaTable](images/einfaerben-von-zellen-beispiel-2-1.gif)
 
 1. Klicken Sie auf das **Dreieck-Symbol** im Tabellenkopf einer Spalte.
 2. Wählen Sie die Option **Zellen der Spalte formatieren**.
@@ -68,13 +68,13 @@ Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die si
 
 Mit der Option **Werte verwenden** färben Sie die gesamte Spalte ein. Je größer ein Wert im gesamten Spektrum ist, desto dunkler oder heller ist die Farbe der Zelle.
 
-![Einfärben von Zellen mit Werten](images/einfaerben-von-zellen-2.png)
+![Farbverlauf von hell bis dunkel nach Zellwerten](images/einfaerben-von-zellen-2.png)
 
 Diese Art des Einfärbens hilft Ihnen dabei, schnell und einfach **Ausreißer** (also besonders kleine oder besonders große Werte) in einer Spalte sichtbar zu machen.
 
 ## Duplikate ausfindig machen
 
-![Einfärben von Zellen Beispiel 3](images/einfaerben-von-zellen-beispiel-3.gif)
+![Beispiel: Doppelte Werte in Spalte farbig markieren](images/einfaerben-von-zellen-beispiel-3.gif)
 
 1. Klicken Sie auf das **Dreieck-Symbol** im Tabellenkopf einer Spalte.
 2. Wählen Sie die Option **Zellen der Spalte formatieren**.
@@ -88,16 +88,16 @@ Mithilfe der Option **Duplikate hervorheben** lassen sich gleiche Werte in einer
 
 Definieren Sie dazu eine Regel, die auf alle gewünschten Zellen zutrifft. Zum Beispiel können Sie alle **gefüllten** Zellen einer Spalte einfärben, indem Sie die Bedingung **ist nicht leer** auswählen.
 
-![Einfärben von Zellen Faq 1](images/einfaerben-von-zellen-6.png)
+![FAQ-Beispiel: Alle gefüllten Zellen einfärben](images/einfaerben-von-zellen-6.png)
 
 ### Kurz bevorstehende Termine einfärben
 
 Sie haben hier zwei Möglichkeiten, die jeweiligen Zellen einer Datumsspalte einzufärben. Entweder Sie wählen die Bedingung **ist am oder nach** und ein **exaktes Datum** aus – oder Sie wählen die Option **ist innerhalb** und einen Zeitraum in der Zukunft aus.
 
-![Einfärben von Zellen kurz bevorstehende Datum](images/einfaerben-von-zellen-7.png)
+![Beispiel: Kurz bevorstehende Termine farblich markieren](images/einfaerben-von-zellen-7.png)
 
 ### Einen bestimmten Termin einfärben
 
 Wählen Sie die Option **ist gleich** aus und geben Sie das jeweilige Datum an.
 
-![](images/einfaerben-von-zellen-8.png)
+![Beispiel: Einen bestimmten Termin einfärben](images/einfaerben-von-zellen-8.png)
