@@ -25,15 +25,15 @@ Para além da opção de **colorir células**, existe também a possibilidade de
 ## Coloração por regras ou por valores
 
 Cada coluna oferece a opção **Formatar células da coluna** an:  
-![Células de coloração em SeaTable](images/color-cells.png)
+![Opção de formatação de coluna no SeaTable](images/color-cells.png)
 
 O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** para o qual chamar esta opção. Para [colunas numéricas]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), pode utilizar tanto regras como valores para colorir. Para todos os outros tipos de colunas, apenas as regras de coloração estão disponíveis.
 
-![Coloração com regras ou de acordo com valores](images/color-cells-rules-values.png)
+![Visão geral de coloração de células por regras ou valores](images/color-cells-rules-values.png)
 
 ## Para colorir células por uma regra
 
-![Células de coloração Exemplo 1](images/einfaerben-von-zellen-beispiel-1-1.gif)
+![Exemplo: colorir células com base em uma regra](images/einfaerben-von-zellen-beispiel-1-1.gif)
 
 1. Clique no **símbolo do triângulo** no cabeçalho da tabela de uma coluna.
 2. Seleccionar a opção **Formatar células da coluna**.
@@ -46,11 +46,11 @@ O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** par
 
 Ao utilizar uma regra, colore **todas as células** de uma coluna à qual **se aplica** uma regra. Por exemplo, tal regra poderia ser: "Colorir todas as células com uma classificação de três ou mais estrelas amarelas".
 
-![Coloração de células com uma regra](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Resultado: uma regra colore células correspondentes de amarelo](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 É possível criar **várias regras com cores diferentes** por coluna.
 
-![Células de coloração com múltiplas regras](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Várias regras com cores diferentes em uma coluna](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 Também pode definir **várias condições** por regra, que podem estar relacionadas com todas as colunas da tabela. Por exemplo, colorir a [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) com o título de um artigo se o **estado** não for "terminado", a **data de publicação** estiver no futuro e já existir uma **imagem** disponível.
 
@@ -60,7 +60,7 @@ Também pode definir **várias condições** por regra, que podem estar relacion
 
 ## Para colorir células por valores
 
-![Células de coloração Exemplo 2](images/einfaerben-von-zellen-beispiel-2-1.gif)
+![Exemplo: colorir células com base em valores no SeaTable](images/einfaerben-von-zellen-beispiel-2-1.gif)
 
 1. Clique no **símbolo do triângulo** no cabeçalho da tabela de uma coluna.
 2. Seleccionar a opção **Formatar células da coluna**.
@@ -71,13 +71,13 @@ Também pode definir **várias condições** por regra, que podem estar relacion
 
 Com a opção **Utilizar valores**, colore a coluna inteira. Quanto maior for um valor em todo o espectro, mais escura ou mais clara é a cor da célula.
 
-![Coloração de células com valores](images/einfaerben-von-zellen-2.png)
+![Gradiente de claro a escuro conforme valores das células](images/einfaerben-von-zellen-2.png)
 
 Este tipo de coloração ajuda-o a tornar rápida e facilmente visíveis os valores **aberrantes** (isto é, particularmente pequenos ou particularmente grandes) numa coluna.
 
 ## Localizar duplicados
 
-![Células de coloração Exemplo 3](images/einfaerben-von-zellen-beispiel-3.gif)
+![Exemplo: destacar valores duplicados em uma coluna](images/einfaerben-von-zellen-beispiel-3.gif)
 
 1. Clique no **símbolo do triângulo** no cabeçalho da tabela de uma coluna.
 2. Seleccionar a opção **Formatar células da coluna**.
@@ -91,16 +91,16 @@ Com a ajuda da opção de **Duplicatas em Destaque**, valores idênticos numa co
 
 Para o fazer, definir uma regra que se aplique a todas as células desejadas. Por exemplo, é possível colorir todas as células **preenchidas** numa coluna, seleccionando a condição **não está vazia**.
 
-![Células de coloração Faq 1](images/einfaerben-von-zellen-6.png)
+![Exemplo FAQ: colorir todas as células preenchidas](images/einfaerben-von-zellen-6.png)
 
 ### Cor nas próximas nomeações
 
 Tem aqui duas opções para colorir as respectivas células de uma coluna de datas. Ou selecciona a condição **em ou depois** e uma **data exacta** - ou selecciona a opção **dentro de um** prazo e um período no futuro.
 
-![Coloração de células pouco antes de uma data](images/einfaerben-von-zellen-7.png)
+![Exemplo: destacar datas próximas com cores](images/einfaerben-von-zellen-7.png)
 
 ### Colorir uma data específica
 
 Seleccionar a opção **é igual a** e introduzir a respectiva data.
 
-![](images/einfaerben-von-zellen-8.png)
+![Exemplo: colorir uma data específica](images/einfaerben-von-zellen-8.png)
