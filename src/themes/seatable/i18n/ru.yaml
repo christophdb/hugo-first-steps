@@ -236,7 +236,7 @@ partners:
     select_placeholder: Выберите вариант...
     language: Язык
     industry_expertise: Отраслевая экспертиза
-    region: Регион
+    country: Страна
     services: Услуги
     typical_customers: Типичные клиенты
 
