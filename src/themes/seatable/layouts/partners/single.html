@@ -106,7 +106,6 @@
                         <div class="flex flex-col pl-2 text-sm">
                             <span class="pb-2 font-bold text-gray-600">{{ $partner.contact_name }}</span>
                             <span class="text-gray-600">{{ $partner.contact_position }}</span>
-                            {{/* TODO: Spam protection? */}}
                             <span class="text-gray-600">{{ $partner.email_for_customer_inquiries }}</span>
                             <span class="text-gray-600">{{ $partner.phone_number_for_customer_inquiries }}</span>
                         </div>
@@ -130,7 +129,7 @@
                                     {{ end }}
                                 </div>
 
-                                <div class="flex flex-col justify-center space-y-4 md:col-span-2">
+                                <div class="flex h-full flex-col justify-center space-y-4 md:col-span-2">
                                     <blockquote class="text-lg italic">{{ .highlight_quote }}</blockquote>
                                     <p class="text-right font-semibold md:text-left">— {{ .quote_giver }}, {{ .quote_giver_position }}</p>
                                 </div>
