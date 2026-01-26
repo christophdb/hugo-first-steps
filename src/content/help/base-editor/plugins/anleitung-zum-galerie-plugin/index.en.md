@@ -18,7 +18,7 @@ The **Gallery plugin** is particularly well suited to displaying illustrated rec
 
 While the images in the **table view** are displayed as thumbnails and can only be enlarged individually by clicking on them, the gallery plugin allows you to get a vivid overview of all records thanks to the larger **preview** images. Thereby the gallery plugin combines all images of a row in one **album**.
 
-![Gallery plugin](images/Galerie-Plugin.png)
+![Gallery plugin with tiles and preview images for records](images/Galerie-Plugin.png)
 
 ## Install the gallery plugin
 
@@ -28,14 +28,14 @@ Attention! Since SeaTable 6.0, the plugin can no longer be installed in bases. I
 
 In the **gallery settings**, which you can reach via the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}, you can display more or less information by showing or hiding columns. Activate the **sliders** of the respective columns (e.g. Documents, Status and Date) to have more information from the table displayed in the gallery.
 
-![](images/galerie-plugin.png)
+![Gallery settings showing visible and hidden columns](images/galerie-plugin.png)
 
 ## Multiple images in one row
 
 The **number of images** per album or row is displayed in the gallery with a **number highlighted in gray**. Logically, the number is only displayed when there is more than one image in an album.
 
-![Gallery plugin gray number](images/graue-nummer.png)
+![Gallery shows grey highlighted number for multiple images](images/graue-nummer.png)
 
 Clicking on the preview image opens the album in **full-screen mode**, where you can zoom in and out using the **magnifying glasses** and switch between images using the **arrows**.
 
-![Gallery plugin full screen mode](images/Vollbildmodus-im-Galerie-Plugin.png)
+![Gallery plugin full-screen mode with navigation and zoom](images/Vollbildmodus-im-Galerie-Plugin.png)
