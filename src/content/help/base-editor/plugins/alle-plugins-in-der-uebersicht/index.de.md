@@ -15,7 +15,7 @@ weight: 1
 
 Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz anderen Blickwinkeln zu sehen. Visualisieren Sie Termine, Aufgaben und Orte und erstellen Sie aus Ihren Daten gelayoutete Dokumente und Steckbriefe. Im folgenden Artikel erklären wir, welche Plugins in SeaTable zur Verfügung stehen und wie Sie mit ihnen umgehen können.
 
-![Übersicht über alle Plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![ÜÜbersichtsgrafik mit Symbolen für alle SeaTable Plugins](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
 ## Was ist ein Plugin?
 
@@ -28,7 +28,7 @@ Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zus�
 
 Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
 
-![](images/Calendar.png)
+![Kalender-Plugin mit Terminen in Monatsansicht](images/Calendar.png)
 
 [Mehr zum Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
@@ -41,7 +41,7 @@ Diese Artikel könnten für Sie auch interessant sein:
 
 Das Timeline-Plugin stellt durch ein Start- und Enddatum bzw. durch ein Startdatum und eine Dauer verschiedene Zeiträume in Form eines **Zeitstrahls** dar. So können Sie einen guten Überblick über parallel laufende Projekte oder Überschneidungen von Terminen behalten. Auch zur Urlaubsplanung im Team und zur Belegungsplanung von Räumen ist dieses Plugin hervorragend geeignet.
 
-![Projektmanagement Timeline](images/projektmanagement-timeline.png)
+![Timeline-Plugin mit Zeitstrahl für Projekte und Zeiträume](images/projektmanagement-timeline.png)
 
 [Mehr zum Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
@@ -49,7 +49,7 @@ Das Timeline-Plugin stellt durch ein Start- und Enddatum bzw. durch ein Startdat
 
 Das Galerie-Plugin eignet sich besonders gut, um Datensätze mit **Bildern** darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) bezieht. Unter den Bildern werden die Einträge einer Spalte als **Titel** angezeigt. Zudem besteht die Möglichkeit, in diesem Plugin weitere Spalten der Tabelle einzublenden und so die Bilder durch mehr Informationen aus den Datensätzen zu ergänzen. Insbesondere bei kreativen und künstlerischen Projekten ist dies sehr hilfreich, um auf einen Blick alle Informationen zusammenzufassen.
 
-![Galerie-Plugin](images/Galerie.png)
+![Galerie-Plugin mit Bildern und Titeln unter den Vorschaubildern](images/Galerie.png)
 
 [Mehr zum Galerie-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
@@ -61,7 +61,7 @@ Dieser Artikel könnte für Sie auch interessant sein:
 
 **Standorte** lassen sich mit dem Karten-Plugin auf einer Karte darstellen. Die eingepflegten geographischen Informationen können Sie durch Positionsmarker oder Bilder visualisieren. Das Karten-Plugin kommt dabei mit **GPS-Koordinaten** genauso wie mit **Adressen** zurecht. Adressen müssen jedoch eindeutig sein, um angezeigt werden zu können.
 
-![](images/Map.png)
+![Karten-Plugin mit Positionsmarkern auf einer Landkarte](images/Map.png)
 
 [Mehr zum Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
@@ -69,7 +69,7 @@ Dieser Artikel könnte für Sie auch interessant sein:
 
 Das Datendeduplizierungs-Plugin deckt **doppelte Einträge** in einer Tabelle auf. Dies ist besonders bei großen Datenmengen sehr hilfreich, um Dopplungen zu entdecken und diese zu entfernen. Dabei können Sie alle doppelten Einträge mit nur einem Klick löschen.
 
-![](images/Deduplication.png)
+![Datendeduplizierungs-Plugin mit Liste doppelter Einträge](images/Deduplication.png)
 
 [Mehr zum Datenduplizierungs-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
@@ -77,7 +77,7 @@ Das Datendeduplizierungs-Plugin deckt **doppelte Einträge** in einer Tabelle au
 
 Mithilfe des Seitendesign-Plugins können Sie **Dokumente** wie Serienbriefe, Visitenkarten und Urkunden layouten und mit den Daten in Ihrer Tabelle füllen. Genauer gesagt können Sie mit **statischen Elementen** Layouts bauen, die durch **dynamische Elemente** und **Tabellenfelder** ergänzt und individualisiert werden. Diese bieten Ihnen den großen Vorteil, dass sie je nach Datensatz alle zugehörigen Informationen (beispielsweise Name, Adresse und Jobtitel einer Person) in standardisierte Vorlagen einfügen, ohne dass Sie manuell Daten in die Dokumente kopieren müssen. So erstellen Sie mit wenigen Klicks druckfertige Rechnungen, Zeugnisse oder andere wichtige Dokumente aus den gespeicherten Daten.
 
-![](images/Pagedesign.png)
+![Seitendesign-Plugin mit gelayouteten Dokumenten aus Tabellendaten](images/Pagedesign.png)
 
 [Mehr zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
@@ -85,7 +85,7 @@ Mithilfe des Seitendesign-Plugins können Sie **Dokumente** wie Serienbriefe, Vi
 
 Mit dem Kanban-Plugin können Sie Tabelleneinträge auf einem **Kanban-Board** darstellen. Jeder Eintrag wird mit einer Karte visualisiert und kann zwischen verschiedenen Säulen hin- und hergeschoben werden. Die Kanban-Methode können Sie im agilen **Projekt- und Workflow-Management** einsetzen. Durch die Visualisierung von **Aufgaben**, die nach Status oder Projektphase gruppiert sind, gewinnen Sie einen hervorragenden Überblick über den Fortschritt von Arbeitsabläufen.
 
-![Kanban-Plugin](images/Kanban-Plugin.png)
+![Kanban-Plugin mit Karten in Spalten für verschiedene Status](images/Kanban-Plugin.png)
 
 [Mehr zum Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
@@ -93,7 +93,7 @@ Mit dem Kanban-Plugin können Sie Tabelleneinträge auf einem **Kanban-Board** d
 
 Das SQL-Abfrage-Plugin eignet sich perfekt für die direkte **Ausführung von SQL-Befehlen** und ist daher vor allem für Datenbank-Profis interessant, die mit größeren Datenmengen arbeiten.
 
-![Ergebnisse einer Datenabfrage anhand des SQL-Befehls SELECT](images/results-data-sql-query.png)
+![SQL-Abfrage-Plugin mit Ergebnisliste einer SELECT-Abfrage](images/results-data-sql-query.png)
 
 [Mehr zum SQL-Abfrage-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
@@ -101,7 +101,7 @@ Das SQL-Abfrage-Plugin eignet sich perfekt für die direkte **Ausführung von SQ
 
 Das Whiteboard-Plugin gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch zu visualisieren, die Sie mit den bisherigen Plugins nicht darstellen können. Ebenso können Sie Layouts und Mockups **frei skizzieren**. Für die Gestaltung haben Sie verschiedene **Elemente** wie Vierecke, Ellipsen und Pfeile sowie **Werkzeuge** wie Stift, Radierer und das Text-Werkzeug zur Auswahl.
 
-![Whiteboard Plugin](images/Whiteboard-Plugin.png)
+![Whiteboard-Plugin mit Formen, Pfeilen und frei skizzierten Elementen](images/Whiteboard-Plugin.png)
 
 [Mehr zum Whiteboard-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
@@ -109,7 +109,7 @@ Das Whiteboard-Plugin gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch 
 
 Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datensätzen in einer Tabelle darstellen. Das ist zum Beispiel nützlich, um die Positionen in einem Unternehmen oder über- und untergeordnete Aufgaben in einem Projekt zu visualisieren.
 
-![Organigramm-Plugin](images/Organigramm-Plugin.png)
+![Organigramm-Plugin mit hierarchisch angeordneten Karten für Rollen](images/Organigramm-Plugin.png)
 
 [Mehr zum Organigramm-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
@@ -117,7 +117,7 @@ Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datens
 
 Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, **welche Tabellen über welche Spalten miteinander verknüpft sind**.
 
-![Tabellenbeziehungen-Plugin](images/Table-Relationships-Plugin.png)
+![Tabellenbeziehungen-Plugin mit Linien zwischen verbundenen Tabellen](images/Table-Relationships-Plugin.png)
 
 [Mehr zum Tabellenbeziehungen-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 

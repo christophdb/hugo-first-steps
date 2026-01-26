@@ -17,7 +17,7 @@ weight: 1
 
 **Os plugins** SeaTable dão-lhe a oportunidade de ver os seus dados de uma perspetiva completamente diferente. Visualize compromissos, tarefas e localizações e crie documentos e perfis a partir dos seus dados. No artigo seguinte, explicamos quais os plugins disponíveis no SeaTable e como os pode utilizar.
 
-![Visão geral de todos os plugins no SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![Gráfico de visão geral com ícones de todos os plugins SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
 ## O que é um plugin?
 
@@ -29,7 +29,7 @@ Um **plugin** é um componente de software opcional do SeaTable que oferece opç
 
 No plug-in de calendário, é possível apresentar dados de uma [coluna de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) numa **vista** de **ano**, **mês**, **semana**, **dia** ou **agenda**. Também é possível utilizar duas colunas de datas para apresentar **intervalos de tempo** e, assim, manter uma visão geral de todas as datas importantes, etc.
 
-![](images/Calendar.png)
+![Plugin de calendário com compromissos na vista mensal](images/Calendar.png)
 
 [Mais informações sobre o plugin de calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
@@ -42,7 +42,7 @@ Estes artigos também podem ser interessantes para si:
 
 O plug-in de cronologia representa diferentes períodos de tempo sob a forma de uma **cronologia** através de uma data de início e de fim ou de uma data de início e duração. Isto permite-lhe manter uma boa visão geral dos projectos que decorrem em paralelo ou dos compromissos que se sobrepõem. Este plugin é também excelente para o planeamento das férias da equipa e para o planeamento da ocupação dos quartos.
 
-![Cronograma de Gestão de Projectos](images/projektmanagement-timeline.png)
+![Plugin de cronograma com linha do tempo para projetos e períodos](images/projektmanagement-timeline.png)
 
 [Mais informações sobre o plug-in da linha de tempo]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
@@ -50,7 +50,7 @@ O plug-in de cronologia representa diferentes períodos de tempo sob a forma de 
 
 O plug-in da galeria é particularmente adequado para a apresentação de registos com **imagens**, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Por baixo das imagens, as entradas de uma coluna são apresentadas como **títulos**. Além disso, é possível mostrar outras colunas da tabela neste plug-in e, assim, complementar as imagens com mais informações dos conjuntos de dados. Especialmente para projectos criativos e artísticos, isto é muito útil para resumir toda a informação num relance.
 
-![Galeria plugin](images/Galerie.png)
+![Plugin de galeria com imagens e títulos sob as miniaturas](images/Galerie.png)
 
 [Mais informações sobre o plug-in da galeria]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
@@ -62,7 +62,7 @@ Este artigo também pode ser interessante para si:
 
 **As localizações** podem ser apresentadas num mapa com o plug-in de mapa. Pode visualizar as informações geográficas introduzidas com marcadores de posição ou imagens. O plug-in de mapas pode tratar **coordenadas GPS** e **endereços**. No entanto, os endereços têm de ser únicos para poderem ser apresentados.
 
-![](images/Map.png)
+![Plugin de mapa com marcadores de localização num mapa](images/Map.png)
 
 [Mais informações sobre o plug-in do mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
@@ -70,7 +70,7 @@ Este artigo também pode ser interessante para si:
 
 O plugin de desduplicação de dados descobre **entradas duplicadas** numa tabela. Isto é especialmente útil com grandes quantidades de dados para detectar duplicados e removê-los. Pode eliminar todas as entradas duplicadas com apenas um clique.
 
-![](images/Deduplication.png)
+![Plugin de desduplicação de dados com lista de registos duplicados](images/Deduplication.png)
 
 [Mais informações sobre o plugin de duplicação de dados]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
@@ -78,7 +78,7 @@ O plugin de desduplicação de dados descobre **entradas duplicadas** numa tabel
 
 Com a ajuda do plug-in de design de páginas, pode criar o layout de **documentos** como cartas de formulário, cartões de visita e certificados e preenchê-los com os dados da sua tabela. Mais precisamente, pode criar layouts com **elementos estáticos** que são complementados e individualizados por **elementos dinâmicos** e **campos de tabela**. Estes oferecem-lhe a grande vantagem de, dependendo do registo de dados, inserirem todas as informações relacionadas (por exemplo, o nome de uma pessoa, a morada e o cargo) em modelos normalizados, sem que tenha de copiar manualmente os dados para os documentos. Desta forma, pode criar facturas prontas a imprimir, certificados ou outros documentos importantes a partir dos dados armazenados com apenas alguns cliques.
 
-![](images/Pagedesign.png)
+![Plugin de design de página com documentos maquetados a partir de dados](images/Pagedesign.png)
 
 [Mais informações sobre o plugin de design de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
@@ -86,7 +86,7 @@ Com a ajuda do plug-in de design de páginas, pode criar o layout de **documento
 
 Com o plugin Kanban, pode visualizar entradas de tabela num **quadro Kanban**. Cada entrada é visualizada com um cartão e pode ser movida para a frente e para trás entre diferentes colunas. Pode utilizar o método Kanban na **gestão** ágil de **projectos e fluxos de trabalho**. Ao visualizar **as tarefas** agrupadas por estado ou fase do projecto, obtém uma excelente visão geral do progresso dos fluxos de trabalho.
 
-![Plug-in Kanban](images/Kanban-Plugin.png)
+![Plugin Kanban com cartões em colunas para diferentes estados](images/Kanban-Plugin.png)
 
 [Mais informações sobre o plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
@@ -94,7 +94,7 @@ Com o plugin Kanban, pode visualizar entradas de tabela num **quadro Kanban**. C
 
 O plug-in de consulta SQL é perfeitamente adequado para a **execução** directa **de comandos SQL**, pelo que é particularmente interessante para os profissionais de bases de dados que trabalham com grandes quantidades de dados.
 
-![Resultados de uma consulta de dados utilizando o comando SQL SELECT](images/results-data-sql-query.png)
+![Plugin de consulta SQL com lista de resultados de uma consulta SELECT](images/results-data-sql-query.png)
 
 [Mais informações sobre o plug-in de consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
@@ -102,7 +102,7 @@ O plug-in de consulta SQL é perfeitamente adequado para a **execução** direct
 
 O plugin de quadro branco dá-lhe a liberdade de visualizar graficamente processos e estruturas que não pode apresentar com os plugins anteriores. Também pode **esboçar livremente** esquemas e maquetas. Para o desenho, tem à sua disposição vários **elementos** como quadrados, elipses e setas, bem como **ferramentas** como caneta, borracha e a ferramenta de texto.
 
-![Plugin de quadro branco](images/Whiteboard-Plugin.png)
+![Plugin de quadro branco com formas, setas e elementos desenhados](images/Whiteboard-Plugin.png)
 
 [Mais informações sobre o plug-in do quadro branco]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
@@ -110,7 +110,7 @@ O plugin de quadro branco dá-lhe a liberdade de visualizar graficamente process
 
 Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os registos de dados de uma tabela. Isto é útil, por exemplo, para visualizar os cargos numa empresa ou as tarefas superiores e subordinadas num projeto.
 
-![Plugin de organograma](images/Organigramm-Plugin.png)
+![Plugin de organograma com cartões organizados hierarquicamente](images/Organigramm-Plugin.png)
 
 [Mais informações sobre a ficha do organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
@@ -118,7 +118,7 @@ Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os r
 
 Especialmente quando existem muitas tabelas com dezenas de colunas numa base, é fácil perder a noção de como estão relacionadas umas com as outras. Pode utilizar o plugin de relações entre tabelas para visualizar **as tabelas que estão ligadas entre si através de que colunas**.
 
-![Plugin de relações de tabela](images/Table-Relationships-Plugin.png)
+![Plugin de relações de tabelas com linhas entre tabelas ligadas](images/Table-Relationships-Plugin.png)
 
 [Mais informações sobre o plugin de relações de tabela]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
