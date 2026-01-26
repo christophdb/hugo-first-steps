@@ -15,17 +15,17 @@ sections:
     - name: hero-5
       weight: 1
       title: Processos de RH – flexíveis, eficientes e em conformidade com o RGPD!
-      subtitle: A plataforma líder para gestão de RH digital
-      text: Descubra o futuro da gestão de RH com o SeaTable! Otimize, digitalize e automatize os seus processos de RH. Crie os seus próprios processos, sem qualquer conhecimento de programação!
+      subtitle: A plataforma líder para gestão inteligente de pessoal
+      text: Descubra o futuro da gestão de pessoal! Com o SeaTable, o senhor pode não apenas digitalizar os seus processos de RH, mas também automatizá-los massivamente através de fluxos de trabalho inteligentes de IA. Melhore a qualidade dos dados e aumente a sua produtividade através de soluções No-Code que se adaptam perfeitamente à sua empresa.
       classes:
           - bg-gray-200
       template: 7b72578c0e714750954a
       buttons:
-          - label: Comece agora
+          - label: Começar agora
             link: 'pages/registration'
             style: primary
             id: pt-hr-processes-registration
-          - label: Conheça as funções
+          - label: Conhecer funções
             link: pages/functions
 
     - name: content-12
@@ -33,151 +33,153 @@ sections:
       classes:
           - curved
           - bg-orange-100
-      title: Em conformidade com o RGPD, gerido de forma centralizada e eficiente num único local.
-      description: Com a nossa plataforma, mantém-se sempre a par de todas as tarefas importantes e poupa tempo valioso.
-      # TODO: PNG com fundo transparente!
+      title: Gestão em conformidade com o RGPD, centralizada e eficiente num único local.
+      description: Com o SeaTable, o senhor reúne todos os dados de RH num só lugar. Utilize automações integradas para eliminar tarefas manuais e melhorar a visão geral da sua equipa.
       items:
           - text: Planeamento de férias
           - text: Gestão de candidatos
           - text: Dados dos colaboradores
       image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
-      image_alt: 'Interface do SeaTable para planear e analisar processos de RH'
+      image_alt: 'Interface do SeaTable para planeamento e análise de processos de RH automatizados'
 
     - name: banner-2
       weight: 3
-      title: 'Comece agora gratuitamente – sem cartão de crédito'
-      text: 'Utilize o SeaTable e comece imediatamente a mapear/otimizar os seus processos de RH – gratuitamente e sem cartão de crédito. Registe-se hoje e descubra a facilidade de utilização da plataforma.'
+      title: "Comece agora gratuitamente – sem cartão de crédito"
+      text: 'Utilize o SeaTable e comece imediatamente a mapear / otimizar os seus processos de RH – gratuitamente e sem cartão de crédito. Registe-se hoje mesmo e descubra o fácil manuseamento da plataforma.'
       buttons:
-          - label: Registe-se agora e comece
+          - label: Registar agora e otimizar processos de RH
             link: 'pages/registration'
             id: pt-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
-      title: Modelos para começar os seus processos de RH ideais
+      title: Modelos para iniciar os seus processos de RH ideais
       subtitle: Modelos
-      description: 'Para começar, estão disponíveis modelos gratuitos especificamente para processos de RH, bem como um curso online gratuito que o guia passo a passo para a sua primeira base própria. Experimente como é fácil levar a gestão dos seus processos de pessoal para o próximo nível com o SeaTable!<br/><br/>**Importe modelos para a sua conta SeaTable com apenas um clique**'
+      description: "Para começar, tem à sua disposição modelos gratuitos específicos para processos de RH, bem como um curso online gratuito que o guiará passo a passo até à sua primeira Base. Experimente como é fácil elevar a gestão dos seus processos de pessoal para o próximo nível com o SeaTable!<br/><br/>**Importe modelos com apenas um clique para a sua conta SeaTable**"
       items:
           - text: Registo de horas de trabalho
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            image_alt: 'Modelo de RH do SeaTable para registo de horas de trabalho'
-          - text: Integração de colaboradores
+            image_alt: 'Modelo de RH do SeaTable para registo inteligente de tempo de trabalho'
+          - text: Onboarding de colaboradores
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            image_alt: 'Modelo de RH do SeaTable para onboarding de colaboradores'
+            image_alt: 'Modelo de RH do SeaTable para onboarding automatizado de colaboradores'
           - text: Recrutamento de pessoal
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            image_alt: 'Modelo de RH do SeaTable para recrutamento de pessoal'
+            image_alt: 'Modelo de RH do SeaTable para recrutamento de pessoal apoiado por IA'
       buttons:
-          - label: 'Descubra mais modelos de RH'
-            link: 'templates'
+          - label: "Descubra outros modelos de RH"
+            link: "templates"
 
     - name: content-25
       weight: 5
-      title: Funções chave que revolucionam os seus processos de RH
-      subtitle: Vantagens dos seus processos de RH em resumo
+      title: Funções que revolucionam os seus processos de RH
+      subtitle: Visão geral das vantagens para os seus processos de RH
       items:
-          - headline: 'Gestão abrangente de candidatos'
-            text: Ferramenta de gestão de candidatos poderosa que cobre todo o processo de recrutamento – desde a receção até à rejeição de uma candidatura. Otimize o seu processo de recrutamento e melhore a experiência do candidato.
-            image: /images/Landing-Page_HR_Bewerbermanagement.png
-            image_alt: 'Vista do SeaTable para gestão completa de candidatos no recrutamento'
+      - headline: "Gestão de candidatos baseada em IA"
+        text: Uma ferramenta poderosa que automatiza todo o processo de recrutamento. Utilize a IA para fazer a pré-seleção de candidaturas, coordenar agendamentos automaticamente e, assim, melhorar significativamente a Candidate Experience.
+        image: /images/Landing-Page_HR_Bewerbermanagement.png
+        image_alt: 'Vista do SeaTable para gestão de candidatos automatizada por IA no recrutamento'
 
-          - headline: 'Gerir ficheiros de pessoal digitais'
-            text: Com o ficheiro de pessoal digital do SeaTable, pode digitalizar e guardar os seus ficheiros de pessoal de forma segura. Graças a uma estrutura clara para o ficheiro de pessoal eletrónico e ao cumprimento dos prazos de conservação, mantém-se sempre em conformidade com a lei.
-            image: /images/Landing-Page_HR_Personalakte.png
-            image_alt: 'Interface do SeaTable para gestão digital e conforme ao RGPD de ficheiros de pessoal'
+      - headline: "Gerir arquivo digital de pessoal"
+        text: Com o arquivo digital de pessoal do SeaTable, o senhor pode digitalizar e armazenar os seus dossiês de pessoal de forma segura. Graças a uma estrutura clara para o arquivo eletrónico e ao cumprimento dos prazos de conservação, o senhor mantém-se sempre em conformidade com a lei.
+        image: /images/Landing-Page_HR_Personalakte.png
+        image_alt: 'Interface do SeaTable para gestão de arquivos digitais de pessoal em conformidade com o RGPD'
 
-          - headline: 'Registo de horas de trabalho simples'
-            text: Criar organogramas de forma simples – com o SeaTable, mantém sempre a estrutura da sua empresa à vista e pode apresentar organogramas de forma rápida e clara.
-            image: /images/Landing-Page_HR_Zeiterfassung.png
-            image_alt: 'Vista de controlo de horários de RH no SeaTable com horas e ausências'
+      - headline: "Registo simples de horas de trabalho"
+        text: Criar organogramas de forma fácil – com o SeaTable, o senhor mantém a estrutura da sua empresa sempre à vista e pode apresentar organogramas de forma rápida e clara.
+        image: /images/Landing-Page_HR_Zeiterfassung.png
+        image_alt: 'Vista de registo de tempo de RH do SeaTable com horários de trabalho e ausências'
 
-          - headline: 'Criação de organogramas'
-            text: A gestão de portefólio de projetos (PPM) abrange a gestão de todos os projetos de uma organização. A gestão de portefólio de projetos exige muitos dados e requer a avaliação de muitos projetos.
-            image: /images/Landing-Page_HR_Organigramm.png
-            image_alt: 'Vista de organograma no SeaTable para visualizar a estrutura da empresa'
+      - headline: "Criação de organogramas"
+        text: A gestão de portfólio de projetos (PPM) envolve o controlo de todos os projetos de uma organização. A gestão de portfólio de projetos é intensiva em dados e requer a avaliação de muitos projetos.
+        image: /images/Landing-Page_HR_Organigramm.png
+        image_alt: 'Vista de organograma do SeaTable para representação da estrutura da empresa'
 
-          - headline: 'Otimizar processos'
-            text: Do planeamento de férias dos colaboradores à faturação de despesas de viagem, passando por processos complexos de integração e desvinculação – o SeaTable oferece-lhe todas as ferramentas para otimizar os seus processos de RH e minimizar erros.
-            image: /images/Landing-Page_HR_Prozesse-optimieren.png
-            image_alt: 'Dashboard de RH do SeaTable para otimizar e automatizar processos de RH'
+      - headline: "Otimizar fluxos de trabalho através de IA"
+        text: Desde o planeamento de férias para colaboradores até à [liquidação de despesas de viagem]({{< relref "posts/reisekostenabrechnung" >}}), passando por processos complexos de onboarding e offboarding – o SeaTable oferece todas as ferramentas para aumentar a eficácia do seu trabalho operacional de pessoal.
+        image: /images/Landing-Page_HR_Prozesse-optimieren.png
+        image_alt: 'Dashboard de RH do SeaTable para otimização e automação de processos de RH'
 
     - name: banner-2
       weight: 6
-      title: Sejam quais forem os seus processos de RH, pode concretizá-los com o SeaTable
+      title: Escale e automatize o seu departamento de RH com o SeaTable
       buttons:
-          - label: Registe-se agora e comece
-            link: 'pages/registration'
-            id: pt-hr-processes-registration-3
+        - label: Registar agora gratuitamente
+          link: pages/registration
+          id: pt-hr-processes-registration-3
 
     - name: content-22
       weight: 7
-      title: Descubra como a gestão de serviços de RH pode ser simples!
-      text: 'Com a nossa plataforma sem código, quase todos os processos de RH podem ser mapeados na sua aplicação.'
+      title: Experimente como é fácil a gestão inteligente de RH!
+      text: 'Com a nossa [plataforma de IA No-Code]({{< relref "/" >}}), quase todos os processos de RH podem ser mapeados na sua aplicação.'
 
     - name: 'content-13'
       weight: 8
       classes:
-          - bg-white
-          - '!pt-0'
-      title: Criar processos de pessoal
-      subtitle: Eficiente e transparente
-      description: Crie os seus processos de RH de forma tão individual e flexível quanto necessitar!
+        - bg-white
+        - "!pt-0"
+      title: Visualize os seus processos de RH
+      subtitle: Eficiente, transparente e automatizado com apoio de IA
+      description: Desenhe os seus processos de RH. Experimente como é fácil a gestão inteligente de pessoal!
       items:
-          - headline: Formação contínua e desenvolvimento
-            text: Gerir formações, entrevistas de colaboradores e percursos de carreira com modelos e fluxos de trabalho facilmente adaptáveis.
-          - headline: Conformidade e trilhos de auditoria
-            text: Mantenha sempre os seus dados de RH à prova de auditoria com trilhos de auditoria e fluxos de trabalho em conformidade com o RGPD.
+          - headline: Formação e desenvolvimento
+            text: Gira formações, avaliações de desempenho e planos de carreira com modelos e fluxos de trabalho facilmente adaptáveis.
+          - headline: Compliance e Trilhas de Auditoria
+            text: Mantenha os seus dados de RH sempre auditáveis. A IA apoia-o na identificação de discrepâncias em documentos e assegura fluxos de trabalho em conformidade com o RGPD.
           - headline: Gestão de desempenho
-            text: Defina objetivos claros e acompanhe o desempenho dos seus colaboradores com dashboards e relatórios personalizáveis.
+            text: Defina metas claras e acompanhe o desempenho dos seus colaboradores com dashboards e relatórios personalizáveis. Deixe a IA resumir reuniões de feedback e extrair tendências objetivas dos dados de desempenho.
           - headline: Gestão de ausências
-            text: Organize e automatize baixas médicas, dias de férias e outras ausências com o planeador de férias integrado.
+            text: Automatize fluxos de trabalho de baixas médicas e integre o planeador de férias diretamente nos calendários da equipa. A IA ajuda no planeamento inteligente de recursos para identificar precocemente gargalos durante os períodos de férias.
 
-    - name: 'content-9'
+    - name: "content-9"
       weight: 9
-      title: Processos de RH digitais – eficientes e seguros
-      subtitle: Sempre um passo à frente
+      title: Processos de RH digitais – inteligentes, seguros e orientados para o futuro
+      subtitle: Sempre um passo à frente com o poder da IA
       items:
-          - headline: 'Ficheiro de pessoal digital – em conformidade com o RGPD e seguro'
-            text: 'A proteção de dados e a eficiência são cruciais para as soluções de RH modernas. O SeaTable oferece-lhe uma solução segura e em conformidade com o RGPD para o seu ficheiro de pessoal digital. Escolha opções de alojamento flexíveis: servidor próprio ou nuvem, dependendo dos seus requisitos de proteção de dados. Digitalize ficheiros de pessoal sem esforço. Implemente prazos de conservação e crie o ficheiro de pessoal eletrónico de forma individual e clara.'
-            icon: circle-question
-          - headline: Minimização de fontes de erro e riscos de processo
-            text: 'O SeaTable reduz significativamente as fontes de erro nos processos de RH. A automatização e a gestão centralizada de documentos reduzem os erros manuais e os riscos causados por entradas incorretas ou informações desatualizadas. O ficheiro de pessoal eletrónico é claro, fácil de gerir e seguro do ponto de vista legal. Ao contrário do Excel e de muitas ferramentas de RH, o SeaTable oferece mais controlo e segurança para dados confidenciais. Decide quem pode ver o quê, protegendo assim contra a utilização indevida.'
-            icon: circle-question
-          - headline: Informações em tempo real para decisões fundamentadas
-            text: 'Com o SeaTable, obtém informações em tempo real sobre todos os dados de RH. Os gestores e as equipas de RH têm sempre acesso a informações atuais para decisões fundamentadas. É possível monitorizar indicadores chave importantes, como a satisfação dos colaboradores, as taxas de assiduidade ou o progresso no processo de integração e desvinculação. Graças à integração e visualização de dados, pode identificar tendências precocemente e tomar medidas preventivas.'
-            icon: circle-question
+      - headline: "Arquivo digital de pessoal – em conformidade com o RGPD e seguro"
+        text: "Proteção de dados e eficiência são cruciais para soluções modernas de RH. O SeaTable oferece-lhe uma solução segura e em conformidade com o RGPD para o seu arquivo digital de pessoal. Escolha opções de alojamento flexíveis: servidor próprio ou nuvem, dependendo dos seus requisitos de proteção de dados. Digitalize dossiês de pessoal sem esforço."
+        icon: circle-question
+      - headline: Minimização de fontes de erro e riscos de processo
+        text: "O SeaTable reduz significativamente as fontes de erro nos processos de RH. Lógicas de IA integradas verificam as entradas de dados em tempo real quanto à plausibilidade. O arquivo digital de pessoal é claro, fácil de gerir e legalmente seguro. Ao contrário do Excel, o SeaTable oferece mais controlo e segurança para dados sensíveis."
+        icon: circle-question
+      - headline: Insights em tempo real para decisões fundamentadas
+        text: Com o SeaTable, obtém insights em tempo real sobre todos os dados de RH. As chefias e equipas de RH têm sempre acesso a informações atualizadas para decisões fundamentadas. Indicadores importantes como satisfação dos colaboradores ou progressos no [processo de onboarding e offboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) podem ser monitorizados.
+        icon: circle-question
 
     - name: content-22
       weight: 10
-      title: A sua solução tudo-em-um para a gestão de serviços de RH moderna
-      subtitle: Está à espera do quê?
-      text: 'Em comparação com outras plataformas de RH, o SeaTable é facilmente personalizável e escalável. Com as suas funções robustas, pode criar os seus **processos de RH de forma clara e eficiente**. Utilize, por exemplo, o ficheiro de pessoal digital gratuitamente na versão básica para guardar todos os dados dos colaboradores de forma centralizada e segura e aceder aos mesmos em qualquer altura. Despeça-se dos processos de RH ineficientes e propensos a erros com o SeaTable!'
+      title: A sua solução All-in-One para gestão moderna de serviços de RH
+      subtitle: De que está à espera?
+      text: 'Em comparação com outras plataformas de RH, o SeaTable é facilmente adaptável e escalável. Com as suas funções poderosas, o senhor desenha os seus **processos de RH de forma clara e eficiente**. Utilize, por exemplo, o arquivo digital de pessoal gratuitamente na versão básica para armazenar todos os dados dos colaboradores de forma centralizada e segura.'
       buttons:
-          - label: Registe-se agora
+          - label: Registar agora
             link: 'pages/registration'
             style: primary
             id: pt-hr-processes-registration-4
-          - label: Contactar as vendas
+          - label: Contactar vendas
             link: 'pages/contact'
             style: secondary
 
     - name: faq
       weight: 11
-      title: Perguntas mais frequentes (FAQs)
+      title: Perguntas Frequentes (FAQs)
       items:
-          - q: "A utilização do SeaTable é realmente gratuita? O que é que a versão gratuita inclui?"
-            a: "O SeaTable oferece uma versão gratuita que abrange todas as funções básicas de que necessita para otimizar os seus processos de RH. Pode utilizar a plataforma gratuitamente sem ter de fornecer um cartão de crédito. A versão gratuita permite-lhe criar ficheiros pessoais digitais, gerir processos de RH, utilizar sistemas de registo de tempo e muito mais. Também tem acesso a modelos gratuitos especificamente para RH para o ajudar a começar. Se necessitar de funcionalidades avançadas e de mais espaço de armazenamento, pode atualizar para uma das nossas versões premium acessíveis em qualquer altura"
+          - q: 'O SeaTable é realmente gratuito? O que inclui a versão gratuita?'
+            a: 'O SeaTable oferece uma versão gratuita que cobre todas as funções básicas necessárias para a otimização dos seus processos de RH. Pode utilizar a plataforma sem introduzir um cartão de crédito. A versão gratuita permite criar arquivos digitais de pessoal, gerir processos de RH, utilizar sistemas de registo de tempo e muito mais.'
 
-          - q: "Porque é que o SeaTable é a melhor escolha em comparação com o Personio e o HeavenHR?"
-            a: "Enquanto o Personio e o HeavenHR se especializam em funções específicas de RH, o SeaTable destaca-se pela sua flexibilidade e capacidade de personalização. O Personio é conhecido pela sua ferramenta de gestão de candidatos de fácil utilização e pela gestão de funções básicas de RH, como o planeamento de férias dos empregados. O HeavenHR pontua com um processo de integração claramente estruturado e um registo eficiente do tempo de trabalho. No entanto, ambas as plataformas têm limitações no que respeita à personalização e à integração nos sistemas existentes.<br><br>            
-            O SeaTable vai mais longe e oferece uma personalização completa para que possa conceber e otimizar individualmente os processos de RH, tais como os processos de onboarding e offboarding, o trabalho operacional de RH e os relatórios de despesas de viagem. Com a sua API flexível e inúmeras opções de integração, o SeaTable pode ser perfeitamente integrado nos seus fluxos de trabalho existentes e também oferece um software digital de ficheiros pessoais que é seguro e eficiente. Em comparação com o Personio e o HeavenHR, o SeaTable também oferece mais opções de digitalização dos ficheiros do pessoal para responder às crescentes exigências dos processos de recursos humanos"
+          - q: 'Por que o SeaTable é a melhor escolha em comparação com o Personio e o HeavenHR?'
+            a: 'Enquanto o Personio e o HeavenHR se especializam em funções específicas de RH, o SeaTable convence pela sua flexibilidade e adaptabilidade. O SeaTable oferece uma adaptabilidade total para que o senhor possa desenhar e otimizar individualmente processos como onboarding, offboarding, trabalho operacional e [registo de horas de trabalho eficiente]({{< relref "pages/arbeitszeiterfassung" >}}).'
 
-          - q: "Como posso integrar e otimizar os meus processos de RH existentes com o SeaTable?"
-            a: "O SeaTable foi concebido para se integrar perfeitamente nos seus processos e sistemas de RH existentes. Graças à sua API flexível e às extensas opções de integração, pode facilmente ligar o SeaTable a outras ferramentas e plataformas. Além disso, o SeaTable oferece modelos e fluxos de trabalho personalizáveis que pode utilizar para otimizar os seus processos de RH, tais como a gestão de candidatos, o registo do tempo de trabalho, os processos de integração e desinstalação, o desenvolvimento dos empregados e muito mais. O SeaTable dá-lhe controlo total sobre as suas operações de RH e permite-lhe conceber os seus processos da forma que melhor se adapta à sua organização"
+          - q: 'Como a IA do SeaTable apoia o meu trabalho diário de RH?'
+            a: 'O SeaTable oferece uma coluna de IA nativa e automações de IA. Com elas, o senhor pode, por exemplo, criar automaticamente resumos de currículos de candidatos, redigir e-mails para candidatos ou analisar o feedback dos colaboradores sem sair da plataforma.'
+          
+          - q: 'Como posso integrar e otimizar os meus processos de RH existentes com o SeaTable?'
+            a: 'O SeaTable foi desenhado para se integrar perfeitamente nos seus processos e sistemas existentes. Graças à API flexível e às extensas possibilidades de integração, pode ligar o SeaTable facilmente a outras ferramentas. Além disso, o SeaTable oferece modelos e [fluxos de trabalho]({{< relref "pages/industry-solutions/individual" >}}) personalizáveis.'
 
-          - q: "Quão seguros são os meus dados no SeaTable, especialmente em termos de GDPR?"
-            a: "O SeaTable atribui grande importância à segurança e proteção dos dados. A plataforma é totalmente compatível com o GDPR e oferece opções flexíveis de hospedagem e implantação. Pode executar o SeaTable na nuvem ou nos seus próprios servidores para manter o controlo total sobre os seus dados. Todos os dados são armazenados de forma segura e pode definir períodos de retenção personalizados para o seu ficheiro pessoal digital. Além disso, os controlos de acesso baseados em funções garantem que os seus dados estão sempre protegidos"
+          - q: 'Qual a segurança dos meus dados no SeaTable, especialmente em relação ao RGPD?'
+            a: 'O SeaTable atribui grande importância à segurança e proteção de dados. A plataforma está em total conformidade com o RGPD e oferece opções flexíveis de alojamento (Cloud ou servidor próprio). Controlos de acesso baseados em funções garantem que os seus dados estejam sempre protegidos.'
 
-          - q: "O SeaTable é uma boa alternativa ao Personio?"
-            a: "Se está à procura de uma alternativa flexível e poderosa ao Personio, o SeaTable oferece a solução perfeita. Com a capacidade de personalizar os processos de RH e obter uma visão completa dos seus processos de RH, o SeaTable é adequado tanto para pequenas como para grandes empresas. Quer se trate de sistemas de registo de horas, ficheiros pessoais digitais ou da possibilidade de criar um organigrama - o SeaTable oferece-lhe uma plataforma abrangente para otimizar os seus processos de RH!"
+          - q: 'O SeaTable é uma boa alternativa ao Personio?'
+            a: 'Se procura uma alternativa ao Personio flexível e poderosa, o SeaTable oferece a solução ideal. Através da possibilidade de adaptar individualmente os processos de RH e obter uma visão completa, o SeaTable é adequado tanto para pequenas como para grandes empresas.'
+
 ---

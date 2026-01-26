@@ -93,7 +93,7 @@ sections:
         image_alt: 'SeaTable Organigrammansicht zur Darstellung der Unternehmensstruktur'
 
       - headline: "Workflows durch KI optimieren"
-        text: Von der Urlaubsplanung für Mitarbeiter über die Reisekostenabrechnung bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um die Effektivität Ihrer operativen Personalarbeit zu steigern.
+        text: Von der Urlaubsplanung für Mitarbeiter über die [Reisekostenabrechnung]({{< relref "posts/reisekostenabrechnung" >}}) bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um die Effektivität Ihrer operativen Personalarbeit zu steigern.
         image: /images/Landing-Page_HR_Prozesse-optimieren.png
         image_alt: 'SeaTable HR Dashboard zur Optimierung und Automatisierung von HR-Prozessen'
 
@@ -108,15 +108,15 @@ sections:
     - name: content-22
       weight: 7
       title: Erleben Sie, wie einfach intelligentes HR Management ist!
-      text: 'Mit unserer KI No-Code Plattform kann nahezu jeder HR Prozess in Ihrer Anwendung abgebildet werden.'
+      text: 'Mit unserer [KI No-Code Plattform]({{< relref "/" >}}) kann nahezu jeder HR Prozess in Ihrer Anwendung abgebildet werden.'
 
     - name: 'content-13'
       weight: 8
       classes:
         - bg-white
         - "!pt-0"
-      title: Effizient, transparent und KI-gestützt automatisiert
-      subtitle: Effizient, transparent und automatisiert
+      title: Visualisieren Sie Ihre HR processes
+      subtitle: Effizient, transparent und KI-gestützt automatisiert
       description: Gestalten Sie Ihre HR Prozesse. Erleben Sie, wie einfach intelligentes HR Management ist!
       items:
           - headline: Weiterbildung und Entwicklung
@@ -125,7 +125,7 @@ sections:
             text: Halten Sie Ihre HR-Daten stets revisionssicher. Die KI unterstützt Sie bei der Identifizierung von Unstimmigkeiten in Dokumenten und sichert DSGVO-konforme Workflows.
           - headline: Performance-Management
             text: Setzen Sie klare Ziele und verfolgen Sie die Leistung Ihrer Mitarbeiter mit individuell gestaltbaren Dashboards und Berichten. Lassen Sie die KI Feedback-Gespräche zusammenfassen und objektive Trends aus Leistungsdaten ableiten.
-          - headline: Abwesenheitsmanagement
+          - headline: Abwesenheits-management
             text: Automatisieren Sie Krankmeldungs-Workflows und integrieren Sie den Urlaubsplaner direkt in Ihre Team-Kalender. Die KI hilft bei der intelligenten Ressourcenplanung, um Engpässe während Urlaubsphasen frühzeitig zu erkennen.
 
     - name: "content-9"
@@ -140,7 +140,7 @@ sections:
         text: "SeaTable reduziert Fehlerquellen in HR-Prozessen erheblich. Integrierte KI-Logiken prüfen Dateneingaben in Echtzeit auf Plausibilität. Die elektronische Personalakte ist übersichtlich, leicht zu verwalten und rechtssicher. Anders als Excel und viele HR-Tools bietet SeaTable mehr Kontrolle und Sicherheit für sensible Daten. Sie entscheiden, wer was sehen darf, und schützen so vor Missbrauch."
         icon: circle-question
       - headline: Einblicke in Echtzeit für fundierte Entscheidungen
-        text: "Mit SeaTable erhalten Sie Echtzeit-Einblicke in alle HR-Daten. Führungskräfte und HR-Teams haben stets Zugriff auf aktuelle Infos für fundierte Entscheidungen. Wichtige Kennzahlen wie Mitarbeiterzufriedenheit, Anwesenheitsraten oder Fortschritte im Onboarding- und Offboarding Prozess lassen sich überwachen. Dank Datenintegration und Visualisierung erkennen Sie Trends frühzeitig und können präventiv handeln."
+        text: Mit SeaTable erhalten Sie Echtzeit-Einblicke in alle HR-Daten. Führungskräfte und HR-Teams haben stets Zugriff auf aktuelle Infos für fundierte Entscheidungen. Wichtige Kennzahlen wie Mitarbeiterzufriedenheit, Anwesenheitsraten oder Fortschritte im [Onboarding- und Offboarding Prozess]({{< relref "posts/20250324-onboarding-prozess" >}}) lassen sich überwachen. Dank Datenintegration und Visualisierung erkennen Sie Trends frühzeitig und können präventiv handeln.
         icon: circle-question
 
     - name: content-22
@@ -165,7 +165,7 @@ sections:
             a: 'SeaTable bietet eine kostenlose Version, die alle grundlegenden Funktionen abdeckt, die Sie für die Optimierung Ihrer HR-Prozesse benötigen. Sie können die Plattform kostenlos nutzen, ohne eine Kreditkarte angeben zu müssen. Die kostenlose Version ermöglicht es Ihnen, digitale Personalakten zu erstellen, HR-Prozesse zu verwalten, Zeiterfassungssysteme zu nutzen und vieles mehr. Darüber hinaus erhalten Sie Zugriff auf kostenlose Vorlagen speziell für HR, die Ihnen den Einstieg erleichtern. Wenn Sie erweiterte Funktionen und mehr Speicherplatz benötigen, können Sie jederzeit auf eine unserer kostengünstigen Premium-Versionen upgraden.'
 
           - q: 'Warum SeaTable die bessere Wahl im Vergleich zu Personio und HeavenHR ist?'
-            a: 'Während Personio und HeavenHR auf spezifische HR Funktionen spezialisiert sind, überzeugt SeaTable durch seine Flexibilität und Anpassbarkeit. Personio ist bekannt für sein benutzerfreundliches Bewerbermanagement Tool und die Verwaltung von HR Grundfunktionen wie der Urlaubsplanung für Mitarbeiter. HeavenHR punktet mit einem klar strukturierten Onboarding Prozess und einer effizienten Arbeitszeiterfassung. Beide Plattformen haben jedoch Einschränkungen, wenn es um die individuelle Anpassung und die Integration in bestehende Systeme geht.
+            a: 'Während Personio und HeavenHR auf spezifische HR Funktionen spezialisiert sind, überzeugt SeaTable durch seine Flexibilität und Anpassbarkeit. Personio ist bekannt für sein benutzerfreundliches Bewerbermanagement Tool und die Verwaltung von HR Grundfunktionen wie der Urlaubsplanung für Mitarbeiter. HeavenHR punktet mit einem klar strukturierten Onboarding Prozess und einer [effizienten Arbeitszeiterfassung]({{< relref "pages/arbeitszeiterfassung" >}}). Beide Plattformen haben jedoch Einschränkungen, wenn es um die individuelle Anpassung und die Integration in bestehende Systeme geht.
             
             SeaTable geht hier weiter und bietet eine vollständige Anpassbarkeit, sodass Sie HR Prozesse, wie On- und Offboarding Prozesse, operative Personalarbeit und Reisekostenabrechnungen, individuell gestalten und optimieren können. Mit seiner flexiblen API und zahlreichen Integrationsmöglichkeiten lässt sich SeaTable nahtlos in Ihre bestehenden Arbeitsabläufe integrieren und bietet zudem eine digitale Personalakte Software, die sicher und effizient ist. Im Vergleich zu Personio und HeavenHR hält SeaTable auch mehr Möglichkeiten zur Digitalisierung der Personalakten bereit, um den steigenden Anforderungen an die Human Resources Prozesse gerecht zu werden.'
 
@@ -173,7 +173,7 @@ sections:
             a: 'SeaTable bietet eine native KI-Spalte und KI-Automatisierungen. Damit können Sie beispielsweise automatisch Zusammenfassungen von Bewerber-Lebensläufen erstellen, E-Mails an Kandidaten formulieren oder Mitarbeiterfeedback analysieren, ohne die Plattform zu verlassen.'
           
           - q: 'Wie kann ich mit SeaTable meine bestehenden HR-Prozesse integrieren und optimieren?'
-            a: 'SeaTable ist darauf ausgelegt, sich nahtlos in Ihre bestehenden HR-Prozesse und Systeme zu integrieren. Dank der flexiblen API und der umfangreichen Integrationsmöglichkeiten können Sie SeaTable problemlos mit anderen Tools und Plattformen verbinden. Darüber hinaus bietet SeaTable anpassbare Vorlagen und Workflows, mit denen Sie Ihre HR-Prozesse wie Bewerbermanagement, Arbeitszeiterfassung, Onboarding- und Offboarding-Prozesse, Mitarbeiterentwicklung und vieles mehr optimieren können. Mit SeaTable behalten Sie die volle Kontrolle über Ihre HR-Abläufe und können Ihre Prozesse so gestalten, wie es für Ihr Unternehmen am besten passt.'
+            a: 'SeaTable ist darauf ausgelegt, sich nahtlos in Ihre bestehenden HR-Prozesse und Systeme zu integrieren. Dank der flexiblen API und der umfangreichen Integrationsmöglichkeiten können Sie SeaTable problemlos mit anderen Tools und Plattformen verbinden. Darüber hinaus bietet SeaTable anpassbare Vorlagen und [Workflows]({{< relref "pages/industry-solutions/individual" >}}), mit denen Sie Ihre HR-Prozesse wie Bewerbermanagement, Arbeitszeiterfassung, Onboarding- und Offboarding-Prozesse, Mitarbeiterentwicklung und vieles mehr optimieren können. Mit SeaTable behalten Sie die volle Kontrolle über Ihre HR-Abläufe und können Ihre Prozesse so gestalten, wie es für Ihr Unternehmen am besten passt.'
 
           - q: 'Wie sicher sind meine Daten in SeaTable, insbesondere in Bezug auf die DSGVO?'
             a: 'SeaTable legt großen Wert auf Datensicherheit und Datenschutz. Die Plattform ist vollständig DSGVO-konform und bietet flexible Hosting- und Deployment-Optionen. Sie können SeaTable in der Cloud oder auf Ihren eigenen Servern betreiben, um die volle Kontrolle über Ihre Daten zu behalten. Alle Daten werden sicher gespeichert und Sie können individuelle Aufbewahrungsfristen für Ihre digitale Personalakte festlegen. Außerdem sorgen rollenbasierte Zugriffskontrollen dafür, dass Ihre Daten immer geschützt sind.'
