@@ -17,7 +17,7 @@ weight: 1
 
 SeaTable **plugins** give you the opportunity to see your data from a completely different perspective. Visualize appointments, tasks and locations and create laid-out documents and profiles from your data. In the following article, we explain which plugins are available in SeaTable and how you can use them.
 
-![Overview of all plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![Overview graphic showing icons for all SeaTable plugins](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
 ## What is a plugin?
 
@@ -29,7 +29,7 @@ A **plugin** is an optional software component in SeaTable that offers you addit
 
 In the calendar plugin you can display dates from a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a **year**, **month**, **week**, **day** or **agenda view**. You can also use two date columns to display **time spans** and keep track of all important dates, etc.
 
-![](images/Calendar.png)
+![Calendar plugin showing appointments in month view](images/Calendar.png)
 
 [More about the calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
@@ -42,7 +42,7 @@ These articles may also be of interest to you:
 
 The timeline plugin represents different periods of time in the form of a **timeline** by a start and end date or by a start date and duration. This way you can keep a good overview of parallel running projects or overlapping appointments. Also for vacation planning in the team and for the occupancy planning of rooms this plugin is excellent.
 
-![Project Management Timeline](images/projektmanagement-timeline.png)
+![Timeline plugin with timeline for projects and periods](images/projektmanagement-timeline.png)
 
 [More about the timeline plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
@@ -50,7 +50,7 @@ The timeline plugin represents different periods of time in the form of a **time
 
 The gallery plugin is particularly suitable for displaying records with **images**, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Below the images, the entries of a column are displayed as **titles**. In addition, it is possible to show more columns of the table in this plugin and thus supplement the images with more information from the data sets. Especially for creative and artistic projects this is very helpful to summarize all information at a glance.
 
-![Gallery plugin](images/Galerie.png)
+![Gallery plugin with images and titles below thumbnails](images/Galerie.png)
 
 [More about the gallery plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
@@ -62,7 +62,7 @@ This article might also be interesting for you:
 
 **Locations** can be displayed on a map with the map plugin. You can visualize the entered geographic information with position markers or images. The map plugin can handle **GPS coordinates** as well as **addresses**. However, addresses must be unique in order to be displayed.
 
-![](images/Map.png)
+![Map plugin with location markers on a map](images/Map.png)
 
 [More about the map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
@@ -70,7 +70,7 @@ This article might also be interesting for you:
 
 The data deduplication plugin uncovers **duplicate entries** in a table. This is especially helpful with large amounts of data to detect duplicates and remove them. You can delete all duplicate entries with just one click.
 
-![](images/Deduplication.png)
+![Data deduplication plugin showing list of duplicate entries](images/Deduplication.png)
 
 [More about the data duplication plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
@@ -78,7 +78,7 @@ The data deduplication plugin uncovers **duplicate entries** in a table. This is
 
 Using the Page Design plugin, you can layout **documents** such as form letters, business cards, and certificates and populate them with the data in your table. More precisely, you can build layouts with **static elements** that are completed and customized with **dynamic elements** and **table fields**. These offer you the great advantage of inserting all related information (for example, a person's name, address, and job title) into standardized templates, depending on the record, without the need to manually copy data into the documents. In this way, you can create print-ready invoices, certificates or other important documents from the stored data with just a few clicks.
 
-![](images/Pagedesign.png)
+![Page design plugin with laid-out documents from table data](images/Pagedesign.png)
 
 [More about the page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
@@ -86,7 +86,7 @@ Using the Page Design plugin, you can layout **documents** such as form letters,
 
 With the Kanban plugin you can display table entries on a **Kanban board**. Each entry is visualized with a card and can be moved between different columns. You can use the Kanban method in agile **project and workflow management**. By visualizing **tasks** grouped by status or project phase, you gain an excellent overview of the progress of workflows.
 
-![Kanban plugin](images/Kanban-Plugin.png)
+![Kanban plugin with cards in columns for different statuses](images/Kanban-Plugin.png)
 
 [More about the Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
@@ -94,7 +94,7 @@ With the Kanban plugin you can display table entries on a **Kanban board**. Each
 
 The SQL query plugin is perfect for direct **execution of SQL commands** and is therefore especially interesting for database professionals who work with larger amounts of data.
 
-![Results of a data query using the SQL command SELECT](images/results-data-sql-query.png)
+![SQL query plugin showing result list of a SELECT query](images/results-data-sql-query.png)
 
 [More about SQL query plugin]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
@@ -102,7 +102,7 @@ The SQL query plugin is perfect for direct **execution of SQL commands** and is 
 
 The whiteboard plugin gives you the freedom to graphically visualize processes and structures that you cannot display with the previous plugins. You can also **freely sketch** layouts and mockups. For the design, you have various **elements** such as squares, ellipses and arrows as well as **tools** such as pen, eraser and the text tool to choose from.
 
-![Whiteboard plugin](images/Whiteboard-Plugin.png)
+![Whiteboard plugin with shapes, arrows and freely sketched elements](images/Whiteboard-Plugin.png)
 
 [More about the whiteboard plugin]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
@@ -110,7 +110,7 @@ The whiteboard plugin gives you the freedom to graphically visualize processes a
 
 You can use the organization chart plugin to display **hierarchies** between the data records in a table. This is useful, for example, to visualize the positions in a company or superordinate and subordinate tasks in a project.
 
-![Organizational chart plugin](images/Organigramm-Plugin.png)
+![Org chart plugin with hierarchically arranged cards for roles](images/Organigramm-Plugin.png)
 
 [More about the organization chart plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
@@ -118,7 +118,7 @@ You can use the organization chart plugin to display **hierarchies** between the
 
 Especially when there are many tables with dozens of columns in a base, it is easy to lose track of how they relate to each other. Using the table relationships plugin, you can visualize **which tables are linked to each other via which columns**.
 
-![Table relations plugin](images/Table-Relationships-Plugin.png)
+![Table relationships plugin with lines between linked tables](images/Table-Relationships-Plugin.png)
 
 [More about the table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
