@@ -115,29 +115,29 @@ sections:
       classes:
         - bg-white
         - "!pt-0"
-      title: Intelligente Personalprozesse gestalten
+      title: Effizient, transparent und KI-gestützt automatisiert
       subtitle: Effizient, transparent und automatisiert
       description: Gestalten Sie Ihre HR Prozesse. Erleben Sie, wie einfach intelligentes HR Management ist!
       items:
           - headline: Weiterbildung und Entwicklung
             text: Verwalten Sie Schulungen, Mitarbeitergespräche und Karrierepfade mit leicht anpassbaren Vorlagen und Workflows.
           - headline: Compliance und Audit-Trails
-            text: Halten Sie Ihre HR-Daten stets revisionssicher mit Audit-Trails und DSGVO-konformen Workflows.
+            text: Halten Sie Ihre HR-Daten stets revisionssicher. Die KI unterstützt Sie bei der Identifizierung von Unstimmigkeiten in Dokumenten und sichert DSGVO-konforme Workflows.
           - headline: Performance-Management
-            text: Setzen Sie klare Ziele und verfolgen Sie die Leistung Ihrer Mitarbeiter mit individuell gestaltbaren Dashboards und Berichten.
+            text: Setzen Sie klare Ziele und verfolgen Sie die Leistung Ihrer Mitarbeiter mit individuell gestaltbaren Dashboards und Berichten. Lassen Sie die KI Feedback-Gespräche zusammenfassen und objektive Trends aus Leistungsdaten ableiten.
           - headline: Abwesenheitsmanagement
-            text: Automatisieren Sie Krankmeldungs-Workflows und integrieren Sie den Urlaubsplaner direkt in Ihre Team-Kalender.
+            text: Automatisieren Sie Krankmeldungs-Workflows und integrieren Sie den Urlaubsplaner direkt in Ihre Team-Kalender. Die KI hilft bei der intelligenten Ressourcenplanung, um Engpässe während Urlaubsphasen frühzeitig zu erkennen.
 
     - name: "content-9"
       weight: 9
       title: Digitale HR Prozesse – intelligent, sicher und zukunftsorientiert
-      subtitle: Immer einen Schritt voraus
+      subtitle: Mit KI-Power immer einen Schritt voraus
       items:
       - headline: "Digitale Personalakte – DSGVO-konform und sicher"
         text: "Datenschutz und Effizienz sind entscheidend für moderne HR-Lösungen. SeaTable bietet Ihnen eine sichere, DSGVO-konforme Lösung für Ihre digitale Personalakte. Wählen Sie flexible Hosting-Optionen: eigener Server oder Cloud, je nach Ihren Datenschutzanforderungen. Digitalisieren Sie Personalakten mühelos. Setzen Sie Aufbewahrungsfristen um und gestalten Sie die elektronische Personalakte individuell und übersichtlich."
         icon: circle-question
       - headline: Minimierung von Fehlerquellen und Prozessrisiken
-        text: "SeaTable reduziert Fehlerquellen in HR-Prozessen erheblich. Automatisierung und zentrale Dokumentenverwaltung reduzieren manuelle Fehler und Risiken durch falsche Eingaben oder veraltete Infos. Die elektronische Personalakte ist übersichtlich, leicht zu verwalten und rechtssicher. Anders als Excel und viele HR-Tools bietet SeaTable mehr Kontrolle und Sicherheit für sensible Daten. Sie entscheiden, wer was sehen darf, und schützen so vor Missbrauch."
+        text: "SeaTable reduziert Fehlerquellen in HR-Prozessen erheblich. Integrierte KI-Logiken prüfen Dateneingaben in Echtzeit auf Plausibilität. Die elektronische Personalakte ist übersichtlich, leicht zu verwalten und rechtssicher. Anders als Excel und viele HR-Tools bietet SeaTable mehr Kontrolle und Sicherheit für sensible Daten. Sie entscheiden, wer was sehen darf, und schützen so vor Missbrauch."
         icon: circle-question
       - headline: Einblicke in Echtzeit für fundierte Entscheidungen
         text: "Mit SeaTable erhalten Sie Echtzeit-Einblicke in alle HR-Daten. Führungskräfte und HR-Teams haben stets Zugriff auf aktuelle Infos für fundierte Entscheidungen. Wichtige Kennzahlen wie Mitarbeiterzufriedenheit, Anwesenheitsraten oder Fortschritte im Onboarding- und Offboarding Prozess lassen sich überwachen. Dank Datenintegration und Visualisierung erkennen Sie Trends frühzeitig und können präventiv handeln."
@@ -169,6 +169,9 @@ sections:
             
             SeaTable geht hier weiter und bietet eine vollständige Anpassbarkeit, sodass Sie HR Prozesse, wie On- und Offboarding Prozesse, operative Personalarbeit und Reisekostenabrechnungen, individuell gestalten und optimieren können. Mit seiner flexiblen API und zahlreichen Integrationsmöglichkeiten lässt sich SeaTable nahtlos in Ihre bestehenden Arbeitsabläufe integrieren und bietet zudem eine digitale Personalakte Software, die sicher und effizient ist. Im Vergleich zu Personio und HeavenHR hält SeaTable auch mehr Möglichkeiten zur Digitalisierung der Personalakten bereit, um den steigenden Anforderungen an die Human Resources Prozesse gerecht zu werden.'
 
+          - q: 'Wie unterstützt die KI von SeaTable meine tägliche HR-Arbeit?'
+            a: 'SeaTable bietet eine native KI-Spalte und KI-Automatisierungen. Damit können Sie beispielsweise automatisch Zusammenfassungen von Bewerber-Lebensläufen erstellen, E-Mails an Kandidaten formulieren oder Mitarbeiterfeedback analysieren, ohne die Plattform zu verlassen.'
+          
           - q: 'Wie kann ich mit SeaTable meine bestehenden HR-Prozesse integrieren und optimieren?'
             a: 'SeaTable ist darauf ausgelegt, sich nahtlos in Ihre bestehenden HR-Prozesse und Systeme zu integrieren. Dank der flexiblen API und der umfangreichen Integrationsmöglichkeiten können Sie SeaTable problemlos mit anderen Tools und Plattformen verbinden. Darüber hinaus bietet SeaTable anpassbare Vorlagen und Workflows, mit denen Sie Ihre HR-Prozesse wie Bewerbermanagement, Arbeitszeiterfassung, Onboarding- und Offboarding-Prozesse, Mitarbeiterentwicklung und vieles mehr optimieren können. Mit SeaTable behalten Sie die volle Kontrolle über Ihre HR-Abläufe und können Ihre Prozesse so gestalten, wie es für Ihr Unternehmen am besten passt.'
 
