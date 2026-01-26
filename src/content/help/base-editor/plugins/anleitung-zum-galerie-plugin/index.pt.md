@@ -18,7 +18,7 @@ O **plugin da galeria** é particularmente adequado para apresentar registos ilu
 
 Enquanto as imagens na **vista de tabela** são exibidas como miniaturas e só podem ser ampliadas individualmente clicando nelas, o plugin da galeria permite obter uma visão geral animada de todos os conjuntos de dados, graças às **imagens de pré-visualização** maiores. O plug-in da galeria combina todas as imagens numa fila de um **álbum**.
 
-![Plugin de galeria com blocos e imagens de pré-visualização](images/Galerie-Plugin.png)
+![Plugin de galeria com blocos e pré-visualizações de registos](images/Galerie-Plugin.png)
 
 ## Para instalar o plug-in da galeria
 
@@ -28,14 +28,14 @@ Atenção! Desde SeaTable 6.0, o plugin não pode mais ser instalado nas bases. 
 
 Nas **definições da galeria**, a que se chega através do **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, é possível exibir mais ou menos informação mostrando ou escondendo colunas. Activar os **cursores** das respectivas colunas (por exemplo, Documentos, Estado e Data) para ter mais informações da tabela exposta na galeria.
 
-![Configurações da galeria com colunas exibidas ou ocultas](images/galerie-plugin.png)
+![Definições da galeria com colunas visíveis e ocultas](images/galerie-plugin.png)
 
 ## Várias imagens numa só linha
 
 O **número de imagens** por álbum ou linha é exibido na galeria com um **número realçado a cinzento**. Logicamente, o número só é exibido se houver mais do que uma imagem num álbum.
 
-![Galeria exibindo número em cinza para várias imagens](images/graue-nummer.png)
+![Galeria com número em cinza para várias imagens por álbum](images/graue-nummer.png)
 
 Ao clicar na imagem de pré-visualização abre o álbum em **modo de ecrã inteiro**, onde pode ampliar e reduzir as imagens usando as **lupas** e alternar entre as imagens usando as **setas**.
 
-![Modo de ecrã completo da galeria com navegação e zoom](images/Vollbildmodus-im-Galerie-Plugin.png)
+![Modo de ecrã completo com lupas de zoom e setas de navegação](images/Vollbildmodus-im-Galerie-Plugin.png)

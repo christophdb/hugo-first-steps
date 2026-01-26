@@ -26,14 +26,14 @@ Achtung! Seit SeaTable 6.0 lässt sich das Plugin nicht mehr in Bases installier
 
 In den **Galerie-Einstellungen**, die Sie über das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} erreichen, können Sie durch Ein- und Ausblenden von Spalten mehr oder weniger Informationen anzeigen lassen. Aktivieren Sie die **Regler** der jeweiligen Spalten (z. B. Dokumente, Status und Datum), um mehr Informationen aus der Tabelle in der Galerie angezeigt zu bekommen.
 
-![Galerie-Einstellungen mit ein- und ausgeblendeten Spalten](images/galerie-plugin.png)
+![Galerie-Einstellungen mit sichtbaren und ausgeblendeten Tabellenspalten](images/galerie-plugin.png)
 
 ## Mehrere Bilder in einer Zeile
 
 Die **Anzahl der Bilder** pro Album bzw. Zeile wird in der Galerie mit einer **grau hinterlegten Nummer** angezeigt. Logischerweise wird die Zahl erst eingeblendet, wenn mehr als ein Bild in einem Album vorhanden ist.
 
-![Galerie zeigt grau hinterlegte Zahl für mehrere Bilder](images/graue-nummer.png)
+![Galerie zeigt grau hinterlegte Zahl für mehrere Bilder pro Album](images/graue-nummer.png)
 
 Durch einen Klick auf das Vorschaubild öffnen Sie das Album im **Vollbildmodus**, in dem Sie die Bilder mithilfe der **Lupen** vergrößern und verkleinern sowie mithilfe der **Pfeile** zwischen den Bildern wechseln können.
 
-![Vollbildmodus des Galerie-Plugins mit Navigation und Zoom](images/Vollbildmodus-im-Galerie-Plugin.png)
+![Vollbildmodus mit Lupen zum Zoomen und Pfeilen zur Bildnavigation](images/Vollbildmodus-im-Galerie-Plugin.png)
