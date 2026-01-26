@@ -165,8 +165,7 @@ def generate_frontmatter(partner: dict, language_slug: str) -> str:
 
     data = {
         'title': partner['partner'],
-        # FIXME: Add description
-        'description': '',
+        'description': partner['short_description'],
         'url': url_by_language_slug[language_slug],
         'partner': partner,
     }
