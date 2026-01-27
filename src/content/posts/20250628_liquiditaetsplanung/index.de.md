@@ -12,6 +12,8 @@ color: '#aadbf3'
 seo:
     title: 'Liquiditätsplanung: Tipps für Ihren Liquiditätsplan'
     description: Erfahren Sie, wie Sie Ihre Liquidität optimieren und Risiken minimieren können. Unser Blogartikel zeigt Ihnen alle wichtigen Tipps zur Liquiditätsplanung.
+register:
+   show: true  
 ---
 
 Ob junges Start-up, mittelständischer Betrieb oder großer Konzern: Ohne einen klaren Überblick über die eigenen Zahlungsströme kann es schnell riskant werden. Denn auch wenn Ihr Unternehmen auf dem Papier Gewinne schreibt – wenn jedoch kurzfristig das Geld für Löhne, Miete oder Material fehlt, kann das Ihre Existenz bedrohen. Um das zu verhindern, sollten Sie als Unternehmen Ihre **Liquidität vorsorglich mittels Liquiditätsplanung berechnen**.

@@ -40,7 +40,7 @@ In der zentralen Phase der Finanzplanung nutzen Sie die ermittelten Daten aus de
 - **Kostenplanung**: Welche fixen und variablen Kosten fallen an und welche können Sie reduzieren?
 - [Rentabilitätsvorschau]({{< relref "posts/rentabilitaetsvorschau" >}}): Wie viel Umsatz müssen Sie erwirtschaften, damit Ihr Unternehmen profitabel ist?
 - **Investitionsplanung**: Welche Anschaffungen möchten Sie tätigen und wo ist Ihr Geld gut angelegt?
-- [Liquiditätsplanung]({{< relref "posts/20250628_liquiditaetsplanung" >}}): Wie stellen Sie die Zahlungsfähigkeit Ihres Unternehmens sicher?
+- [Liquiditätsplanung]({{< relref "posts/liquiditaetsplanung" >}}): Wie stellen Sie die Zahlungsfähigkeit Ihres Unternehmens sicher?
 - **Kapitalbedarfsplanung**: Wie viel Kapital benötigt Ihr Unternehmen für den Betrieb und Investitionen?
 - **Finanzierungsplanung**: Woher kommt das Geld (Eigen- oder Fremdkapital)?
 

@@ -53,7 +53,7 @@ However, debtor scoring is also particularly important in the company. This shou
 In addition to all the points already mentioned, it is also particularly important to pass on information about outstanding payments. From this, decisions can be made in no time at all about possible upcoming investments and your own liquidity. If an increased number of payments are not made, it may not be possible to initiate new investments in your company. If, on the other hand, most of your receivables have been settled, your company will be liquid and nothing will stand in the way of further investments. The liquidity of a company therefore always depends on the outstanding or settled receivables.
 
 {{< warning headline="Note" >}}
-If you would like to delve further into the topic of [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), you can also find out more about the [investment plan]({{< relref "posts/investitionsplan" >}}) and the [liquidity plan]({{< relref "posts/20250628_liquiditaetsplanung" >}}) in our blog. There you will find practical tips, examples and templates to help you manage your company finances even more efficiently.
+If you would like to delve further into the topic of [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), you can also find out more about the [investment plan]({{< relref "posts/investitionsplan" >}}) and the [liquidity plan]({{< relref "posts/liquiditaetsplanung" >}}) in our blog. There you will find practical tips, examples and templates to help you manage your company finances even more efficiently.
 {{< /warning >}}
 
 

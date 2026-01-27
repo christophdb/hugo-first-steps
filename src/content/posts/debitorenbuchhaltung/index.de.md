@@ -53,7 +53,7 @@ Besonders wichtig ist aber auch das sogenannte Debitoren Scoring im Unternehmen.
 Neben allen bereits genannten Punkten ist aber auch die Informationsweitergabe über ausstehende Zahlungen besonders bedeutend. Hieraus können im Handumdrehen Entscheidungen über mögliche anstehende Investitionen und zur eigenen Liquidität getroffen werden. Sollten also vermehrt Zahlungen ausfallen, so können in Ihrem Unternehmen zu Folge eventuell keine neuen Investitionen angestoßen werden. Sollte hingegen der größte Teil Ihrer Forderungen beglichen sein, so steht Ihr Unternehmen liquide da und weiteren Investitionen steht nichts mehr im Wege. Die Liquidität eines Unternehmens hängt also immer von den noch offenen bzw. beglichenen Forderungen ab.
 
 {{< warning headline="Hinweis" >}}
-Wenn Sie sich weiter in das Thema [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Investitionsplan]({{< relref "posts/investitionsplan" >}}) und den [Liquiditätsplan]({{< relref "posts/20250628_liquiditaetsplanung" >}}) erfahren. Dort finden Sie praxisnahe Tipps, Beispiele und Vorlagen, die Ihnen helfen, Ihre Unternehmensfinanzen noch effizienter zu steuern.
+Wenn Sie sich weiter in das Thema [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Investitionsplan]({{< relref "posts/investitionsplan" >}}) und den [Liquiditätsplan]({{< relref "posts/liquiditaetsplanung" >}}) erfahren. Dort finden Sie praxisnahe Tipps, Beispiele und Vorlagen, die Ihnen helfen, Ihre Unternehmensfinanzen noch effizienter zu steuern.
 {{< /warning >}}
 
 

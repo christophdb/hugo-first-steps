@@ -171,7 +171,7 @@ Los siguientes puntos son esenciales para garantizar que su planificación de la
 *   **Control de malla cerrada**: Para reconocer las desviaciones de la previsión de rentabilidad y poder poner en marcha contramedidas en una fase temprana, debe comprobar las cifras a intervalos regulares.
     
 {{< warning headline="Liquidez" >}}
-La planificación de la rentabilidad está estrechamente vinculada a la [planificación de la liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}): En caso de pérdidas previstas, debe comprobar si su empresa dispone de fondos líquidos suficientes para hacer frente a sus obligaciones. Con beneficios, en cambio, dispondrá de margen de maniobra para realizar inversiones.
+La planificación de la rentabilidad está estrechamente vinculada a la [planificación de la liquidez]({{< relref "posts/liquiditaetsplanung" >}}): En caso de pérdidas previstas, debe comprobar si su empresa dispone de fondos líquidos suficientes para hacer frente a sus obligaciones. Con beneficios, en cambio, dispondrá de margen de maniobra para realizar inversiones.
 {{< /warning >}}
 
 ## Previsión de rentabilidad negativa: ¿Qué hacer si las pérdidas son inminentes?

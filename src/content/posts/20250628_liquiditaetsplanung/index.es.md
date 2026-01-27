@@ -12,6 +12,8 @@ color: '#aadbf3'
 seo:
     title: 'Planificación de la liquidez: consejos para su plan de liquidez'
     description: Descubra cómo puede optimizar su liquidez y minimizar los riesgos. Nuestro artículo del blog te muestra todos los consejos importantes para planificar la liquidez.
+register:
+   show: true
 ---
 
 Ya sea una joven empresa de nueva creación, una mediana empresa o una gran corporación: sin una visión clara de sus propios flujos de tesorería, las cosas pueden ponerse rápidamente en peligro. Porque aunque su empresa sea rentable sobre el papel, si se queda sin dinero para salarios, alquileres o materiales a corto plazo, esto puede amenazar su existencia. Para evitarlo, como empresa debe calcular su **liquidez como medida de precaución utilizando la planificación de liquidez**.

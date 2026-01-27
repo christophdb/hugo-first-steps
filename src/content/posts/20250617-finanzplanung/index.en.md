@@ -41,7 +41,7 @@ In the central phase of financial planning, you use the data obtained from the a
 - **Cost planning**: Which fixed and variable costs are incurred and which can you reduce?
 - [Profitability forecast]({{< relref "posts/rentabilitaetsvorschau" >}}): How much turnover do you need to generate for your company to be profitable?
 - **Investment planning**: What purchases do you want to make and where is your money well invested?
-- [Liquidity planning]({{< relref "posts/20250628_liquiditaetsplanung" >}}): How do you ensure your company's solvency?
+- [Liquidity planning]({{< relref "posts/liquiditaetsplanung" >}}): How do you ensure your company's solvency?
 - **Capital requirement planning**: How much capital does your company need for operations and investments?
 - **Financing planning**: Where will the money come from (equity or borrowed capital)?
 

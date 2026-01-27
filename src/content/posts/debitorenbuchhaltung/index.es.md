@@ -55,7 +55,7 @@ Sin embargo, el scoring de deudores también es especialmente importante en la e
 Además de todos los puntos ya mencionados, también es especialmente importante transmitir información sobre los pagos pendientes. Esta información puede utilizarse para tomar decisiones sobre posibles inversiones futuras y sobre su propia liquidez en un abrir y cerrar de ojos. Si se cancela un número creciente de pagos, puede que no sea posible iniciar nuevas inversiones en su empresa. Si, por el contrario, se ha liquidado la mayor parte de los créditos, su empresa tendrá liquidez y nada se interpondrá en el camino de nuevas inversiones. Por lo tanto, la liquidez de una empresa depende siempre de los créditos pendientes o liquidados.
 
 {{< warning headline="Sugerencia" >}}
-Si desea profundizar en el tema de la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}), también puede obtener más información sobre la [Plan de inversión]({{< relref "posts/investitionsplan" >}}) y el [Plan de liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) experiencia. Allí encontrará consejos prácticos, ejemplos y plantillas que le ayudarán a gestionar las finanzas de su empresa de forma aún más eficiente.
+Si desea profundizar en el tema de la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}), también puede obtener más información sobre la [Plan de inversión]({{< relref "posts/investitionsplan" >}}) y el [Plan de liquidez]({{< relref "posts/liquiditaetsplanung" >}}) experiencia. Allí encontrará consejos prácticos, ejemplos y plantillas que le ayudarán a gestionar las finanzas de su empresa de forma aún más eficiente.
 {{< /warning >}}
 
 

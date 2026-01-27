@@ -18,7 +18,7 @@ seo:
 
 An **invoice** is a document with which you ask your customers to pay a certain amount of money. When you invoice something, this means that you bill a customer for a service or product. Invoicing is therefore also called **billing**.
 
-Invoicing ensures the **revenue of your company** and is therefore the most important process in financial accounting. Invoicing plays an equally central role in [liquidity planning]({{< relref "posts/20250628_liquiditaetsplanung" >}}) and the dunning process, which enforces claims against defaulting customers. Invoices also form the basis for calculating sales tax.
+Invoicing ensures the **revenue of your company** and is therefore the most important process in financial accounting. Invoicing plays an equally central role in [liquidity planning]({{< relref "posts/liquiditaetsplanung" >}}) and the dunning process, which enforces claims against defaulting customers. Invoices also form the basis for calculating sales tax.
 
 {{< warning headline="What is the difference between invoicing and accounting?" text="Although invoicing and accounting sound similar, they mean completely different things. With **external accounting**, you inform your stakeholders (e.g. creditors, shareholders and authorities) about the development of your company and give an account of your finances. You usually publish documents such as annual financial statements or a management report. In contrast, invoicing is simply about billing your customers for services rendered." />}}
 

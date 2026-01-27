@@ -12,6 +12,8 @@ color: '#aadbf3'
 seo:
     title: 'Liquidity planning: Tips for your liquidity plan'
     description: Find out how you can optimize your liquidity and minimize risks. Our blog article shows you all the important tips for liquidity planning.
+register:
+   show: true    
 ---
 
 Whether you are a young start-up, a medium-sized company or a large corporation: without a clear overview of your own cash flows, things can quickly become risky. Because even if your company is profitable on paper, if you run out of money for wages, rent or materials at short notice, this can threaten your existence. To prevent this, you as a company should calculate your **liquidity as a precaution using liquidity planning**.
