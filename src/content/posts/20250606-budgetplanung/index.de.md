@@ -116,7 +116,7 @@ Die Budgetplanung für das gesamte Unternehmen setzt sich aus den Teilbudgets al
 
 Um die Budgetierung nachvollziehbar zu gestalten, ist es wichtig, alle Abteilungen frühzeitig in die Budgetplanung einzubeziehen. Wichtige Bereiche sind die Personal Budgetplanung (Recruiting, Gehälter etc.), die Marketing-Budgetplanung und die IT-Budgetplanung. Diese Abteilungen verwalten meist hohe eigene Budgets und sind für die strategische Budgetplanung unverzichtbar.
 
-Im Folgenden sehen wir uns die Budgetplanung in der [IT]({{< relref "pages/industry-solutions/software-development" >}}) und im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) genauer an. Wenn Sie sich für die [Personalplanung]({{< relref "20250630-personalplanung" >}}) oder den [Marketingplan]({{< relref "posts/20250318-marketingplan" >}}) interessieren, klicken Sie für weiterführende Informationen auf die verlinkten Artikel.
+Im Folgenden sehen wir uns die Budgetplanung in der [IT]({{< relref "pages/industry-solutions/software-development" >}}) und im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) genauer an. Wenn Sie sich für die [Personalplanung]({{< relref "personalplanung" >}}) oder den [Marketingplan]({{< relref "posts/20250318-marketingplan" >}}) interessieren, klicken Sie für weiterführende Informationen auf die verlinkten Artikel.
 
 ### IT Budgetplanung
 
