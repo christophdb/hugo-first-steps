@@ -9,7 +9,7 @@ categories:
     - 'customer-story'
 tags:
     - 'Procesos informáticos'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 color: '#73aecf'
 url: '/es/johannes-fontanus-college-soporte-informatico'
 register:

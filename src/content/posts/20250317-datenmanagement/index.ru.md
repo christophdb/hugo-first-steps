@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Управление данными и визуализация'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'Инструменты и плагины'
 color: '#bedeab'
 url: '/ru/upravlenie-dannymi/'
