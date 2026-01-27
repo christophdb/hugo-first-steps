@@ -47,7 +47,7 @@ Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 
 **Werden Analyse-Tools und Tools von Drittanbietern eingesetzt?**  
-Beim Besuch dieses Online Angebots kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen. Außerdem werden Drittanbieterlösungen eingesetzt.  
+Beim Besuch dieses Online Angebots kann Ihr Surf-Verhalten ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen. Außerdem werden Drittanbieterlösungen eingesetzt.  
 Weitere Informationen zu den verwendeten Analyseprogrammen und eingesetzten Drittanbieterlösungen finden Sie nachfolgend.
 
 ===
@@ -80,7 +80,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Wenn Sie unsere Webseite oder unsere Software nutzen, werden Daten erfasst.
 
-Vor der Registrierung werden nur anonyme Informationen wie Seitenaufrufen erfasst. Wenn Sie sich für SeaTable Cloud registrieren oder in unserem Forum anmelden, fragen wir lediglich nach Ihrem Name und Ihrer E-Mail-Adresse. Diese persönlichen Daten schützen wir so gut es geht.
+Vor der Registrierung werden nur anonyme Informationen wie Seitenaufrufe erfasst. Wenn Sie sich für SeaTable Cloud registrieren oder in unserem Forum anmelden, fragen wir lediglich nach Ihrem Namen und Ihrer E-Mail-Adresse.
 
 {{< /legal-2col >}}
 
@@ -285,7 +285,7 @@ Ganz wichtig: wir nutzen keine fremden Cookies. Sie werden bei uns kein Adobe, T
 
 Wir betreiben großen Aufwand, um alle unsere Softwarelösungen auf eigenen Servern zu betreiben. Folglich sind wir die Einzigen, die Ihre Daten zu Gesicht bekommen. Wir geben diese an niemanden weiter.
 
-Einzig unser E-Mails verschicken wir nicht selbst. Das übernimmt Sendinblue für uns. Später mehr dazu.
+Einzig unser E-Mails verschicken wir nicht selbst. Das übernimmt Brevo für uns. Später mehr dazu.
 
 {{< /legal-2col >}}
 
@@ -323,42 +323,42 @@ Wenn Sie einen oder mehrere der angebotenen Newsletter beziehen möchten, benöt
 
 Die Verarbeitung der von Ihnen bei der Newsletteranmeldung eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen. Der einfachste Weg zum Widerruf Ihrer Einwilligung ist ein Klick auf den „Abmelden“-Link, der in jedem Newsletter enthalten ist. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
-### Sendinblue
+### Brevo
 
-Dieses Online Angebot nutzt den Newsletterdienstleister Sendinblue. Anbieter ist die Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Deutschland (Sendinblue).
+Dieses Online Angebot nutzt den Newsletterdienstleister Brevo, einen Dienst der Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Deutschland.
 
-Die von Ihnen zum Zwecke des Newsletterbezugs eingegeben Daten werden auf den Servern von Sendinblue in Deutschland gespeichert. Weitere Informationen zu den Datenspeicherorten von Sendinblue finden Sie unter [https://help.sendinblue.com/hc/de/articles/360001005510-Datenspeicherorte](https://help.sendinblue.com/hc/de/articles/360001005510-Datenspeicherorte).
+Die von Ihnen zum Zwecke des Newsletterbezugs eingegeben Daten werden auf den Servern von Brevo in Deutschland gespeichert. Weitere Informationen zu den Datenspeicherorten von Brevo finden Sie unter [https://help.brevo.com/hc/de/articles/360001005510-Speicherort-der-Daten](https://help.brevo.com/hc/de/articles/360001005510-Speicherort-der-Daten).
 
-**Datenanalyse durch Sendinblue**  
-Mit Sendinblue läßt sich der Versand von Newsletter organisieren und analysieren. So können wir z.B. sehen, von wem und wie häufig ein versendeter Newsletter geöffnet wurde und welche enthaltenen Links am meisten geklickt wurden. Auf diese Weise können wir u.a. feststellen, welche Links besonderes Interesse hervorgerufen haben.
+**Datenanalyse durch Brevo**  
+Mit Brevo läßt sich der Versand von Newsletter organisieren und analysieren. So können wir z.B. sehen, von wem und wie häufig ein versendeter Newsletter geöffnet wurde und welche enthaltenen Links am meisten geklickt wurden. Auf diese Weise können wir u.a. feststellen, welche Links besonderes Interesse hervorgerufen haben.
 
 Außerdem können wir erkennen, ob nach dem Öffnen / Anklicken bestimmte vorher definierte Aktionen durchgeführt wurden (Conversion-Rate). Wir können so z.B. erkennen, ob Sie nach dem Anklicken des Newsletters einen Kauf getätigt haben.
 
-Sendinblue ermöglicht es uns auch, die Newsletter-Empfänger anhand verschiedener Kategorien zu unterteilen (Clustering). Dabei lassen sich die Newsletterempfänger z.B. nach Alter, Geschlecht oder Wohnort unterteilen. Auf diese Weise lassen sich die Newsletter besser an die jeweiligen Zielgruppen anpassen.
+Brevo ermöglicht es uns auch, die Newsletter-Empfänger anhand verschiedener Kategorien zu unterteilen (Clustering). Dabei lassen sich die Newsletterempfänger z.B. nach Alter, Geschlecht oder Wohnort unterteilen. Auf diese Weise lassen sich die Newsletter besser an die jeweiligen Zielgruppen anpassen.
 
-Ausführliche Informationen zu den Funktionen von Sendinblue finden Sie unter [https://de.sendinblue.com/funktionen/e-mail-marketing](https://de.sendinblue.com/funktionen/e-mail-marketing).
+Ausführliche Informationen zu den Funktionen von Brevo finden Sie unter [https://www.brevo.com/de/features/email-marketing/](https://www.brevo.com/de/features/email-marketing/).
 
-Die Datenschutzerklärung von Sendinblue finden Sie unter [https://de.sendinblue.com/legal/privacypolicy](https://de.sendinblue.com/legal/privacypolicy).
+Die Datenschutzerklärung von Brevo finden Sie unter [https://www.brevo.com/de/legal/privacypolicy/](https://www.brevo.com/de/legal/privacypolicy/).
 
 **Zweck und Rechtsgrundlage**  
-Die Nutzung von Sendinblue erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses (Art. 6 Abs. 1 lit.b DSGVO) und der Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. f DSGVO). Sie können den Empfang von Newslettern jederzeit abbestellen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Die Nutzung von Brevo erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses (Art. 6 Abs. 1 lit.b DSGVO) und der Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. f DSGVO). Sie können den Empfang von Newslettern jederzeit abbestellen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 **Speicherdauer**  
 Die von Ihnen zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter bei uns bzw. dem Newsletterdiensteanbieter gespeichert und nach der Abbestellung des Newsletters aus der Newsletterverteilerliste gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden, bleiben hiervon unberührt.
 
 Nach Ihrer Austragung aus der Newsletterverteilerliste wird Ihre E-Mail-Adresse bei uns bzw. dem Newsletterdiensteanbieter ggf. in einer Blacklist gespeichert, um künftige Mailings zu verhindern. Die Daten aus der Blacklist werden nur für diesen Zweck verwendet und nicht mit anderen Daten zusammengeführt. Dies dient sowohl Ihrem Interesse als auch unserem Interesse an der Einhaltung der gesetzlichen Vorgaben beim Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO). Die Speicherung in der Blacklist ist zeitlich nicht befristet. Sie können der Speicherung widersprechen, sofern Ihre Interessen unser berechtigtes Interesse überwiegen.
 
-Wenn Sie keine Analyse durch Sendinblue wollen, müssen Sie den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. Des Weiteren können Sie den Newsletter auch direkt auf der Website abbestellen.
+Wenn Sie keine Analyse durch Brevo wollen, müssen Sie den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. Des Weiteren können Sie den Newsletter auch direkt auf der Website abbestellen.
 
 **Auftragsverarbeitung**  
-Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Sendinblue einen Vertrag zur Auftragsverarbeitung abgeschlossen. Darüber hinaus ist Sendinblue vom TÜV Rheinland zertifiziert. Damit bestätigt der TÜV Rheinland als unabhängiger Dritter, dass Sendinblue ein Datenschutzmanagementsystem zum Schutz der Kundendaten etabliert.
+Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Brevo einen Vertrag zur Auftragsverarbeitung abgeschlossen. Darüber hinaus ist Brevo vom TÜV Rheinland zertifiziert. Damit bestätigt der TÜV Rheinland als unabhängiger Dritter, dass Brevo ein Datenschutzmanagementsystem zum Schutz der Kundendaten etabliert.
 
 ===
 
 Wir werden Ihnen gerne gelegentlich einen Newsletter per E-Mail schicken. Wir versprechen keinen Spam zu verschicken. Trotzdem können Sie sich jederzeit davon abmelden.
 Den Link zur Abmeldung finden Sie in jeder Newsletter-E-Mail.
 
-Unsere E-Mails verschicken wir über die Firma Sendinblue.
+Unsere E-Mails verschicken wir über Brevo (brevo.com).
 
 {{< /legal-2col >}}
 
