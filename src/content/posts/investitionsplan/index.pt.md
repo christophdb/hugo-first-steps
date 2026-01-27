@@ -28,7 +28,7 @@ Suponhamos que quer instalar uma nova unidade na sua fábrica para aumentar a pr
 
 ## Porque é que um plano de investimento é essencial para as empresas
 
-Se criou uma empresa ou está numa posição de gestão, é constantemente confrontado com importantes **decisões de investimento**. Quer pretenda comprar novas máquinas, [contratar pessoal]({{< relref "posts/20250630-personalplanung" >}}) ou avançar com a digitalização – todas as decisões influenciam o crescimento futuro e o sucesso da sua empresa. Com um plano de investimento bem concebido, pode gerir as suas despesas com visão de futuro, definir prioridades claras e evitar riscos desnecessários.
+Se criou uma empresa ou está numa posição de gestão, é constantemente confrontado com importantes **decisões de investimento**. Quer pretenda comprar novas máquinas, [contratar pessoal]({{< relref "posts/personalplanung" >}}) ou avançar com a digitalização – todas as decisões influenciam o crescimento futuro e o sucesso da sua empresa. Com um plano de investimento bem concebido, pode gerir as suas despesas com visão de futuro, definir prioridades claras e evitar riscos desnecessários.
 
 Além disso, os investimentos resultam normalmente numa elevada **necessidade de capital**, que muitas vezes só pode cobrir com financiadores externos, como bancos e investidores. Um planeamento de investimentos convincente mostra-lhes que sabe lidar com dinheiro e aumenta a sua **credibilidade**. Por último, mas não menos importante, também calcula o benefício potencial dos seus investimentos no cálculo do investimento e determina quando é que o seu investimento de capital será rentável.
 
@@ -74,7 +74,7 @@ Os custos hipotéticos destas reservas aparecem no balanço (por exemplo, nas de
 
 4. **Calcule os custos e os benefícios**: Naturalmente, os seus investimentos devem dar frutos o mais rapidamente possível. Por isso, calcule cuidadosamente os custos em que vai incorrer e os benefícios que espera obter com cada investimento. Com esta [análise custo-benefício]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) pode evitar maus investimentos desnecessários.
 
-5. **Planeie o horizonte temporal**: Um plano de investimento ajuda-o a organizar as despesas necessárias em termos de tempo e a utilizar os fundos de forma a garantir o financiamento a longo prazo. Graças a um calendário realista de quando irá adquirir que bens de capital, o risco de [estrangulamentos de liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) é reduzido.
+5. **Planeie o horizonte temporal**: Um plano de investimento ajuda-o a organizar as despesas necessárias em termos de tempo e a utilizar os fundos de forma a garantir o financiamento a longo prazo. Graças a um calendário realista de quando irá adquirir que bens de capital, o risco de [estrangulamentos de liquidez]({{< relref "posts/liquiditaetsplanung" >}}) é reduzido.
  
 6. **Reavalie o seu plano de investimento**: O financiamento, a importância, os benefícios e o calendário dos seus investimentos foram clarificados? Então não há nada que impeça a realização do seu plano de investimento! Verifique regularmente se os seus investimentos estão realmente a alcançar o sucesso desejado e ajuste o seu plano, se necessário.
 

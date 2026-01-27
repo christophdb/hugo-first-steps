@@ -171,7 +171,7 @@ Os pontos seguintes são essenciais para garantir que o seu planeamento de renta
 *   **Controlo em malha fechada**: Para reconhecer os desvios em relação à previsão de rentabilidade e poder iniciar contramedidas numa fase inicial, deve verificar os números a intervalos regulares.
 
 {{< warning headline="Liquidez" >}}
-O planeamento da rentabilidade está intimamente ligado ao [planeamento da liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}): No caso de perdas esperadas, precisa de verificar se a sua empresa tem fundos líquidos suficientes para cumprir as suas obrigações. Com os lucros, por outro lado, tem margem de manobra para fazer investimentos.
+O planeamento da rentabilidade está intimamente ligado ao [planeamento da liquidez]({{< relref "posts/liquiditaetsplanung" >}}): No caso de perdas esperadas, precisa de verificar se a sua empresa tem fundos líquidos suficientes para cumprir as suas obrigações. Com os lucros, por outro lado, tem margem de manobra para fazer investimentos.
 {{< /warning >}}
 
 ## Previsão de rentabilidade negativa: O que fazer se as perdas são iminentes?

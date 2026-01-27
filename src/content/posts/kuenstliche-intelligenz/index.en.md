@@ -115,7 +115,7 @@ Artificial intelligence is also used in many companies. As the performance of AI
 
 *   Standardized interviews with virtual assistants
 *   Analysis of the qualifications and personality profiles of [applicants]({{< relref "pages/bewerbermanagement" >}})
-*   Forecasts of [personnel requirements]({{< relref "posts/20250630-personalplanung" >}}) in certain scenarios
+*   Forecasts of [personnel requirements]({{< relref "posts/personalplanung" >}}) in certain scenarios
 
 ### General administration
 

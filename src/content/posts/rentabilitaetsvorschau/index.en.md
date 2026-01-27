@@ -171,7 +171,7 @@ The following points are essential to ensure that your profitability planning is
 *   **Close-meshed controlling**: In order to recognize deviations from the profitability forecast and to be able to initiate countermeasures at an early stage, you should check the figures at regular intervals.
     
 {{< warning headline="Liquidity" >}}
-Profitability planning is closely linked to [liquidity planning]({{< relref "posts/20250628_liquiditaetsplanung" >}}): In the event of anticipated losses, you need to check whether your company has sufficient liquid funds to meet its obligations. With profits, on the other hand, you have scope for investments.
+Profitability planning is closely linked to [liquidity planning]({{< relref "posts/liquiditaetsplanung" >}}): In the event of anticipated losses, you need to check whether your company has sufficient liquid funds to meet its obligations. With profits, on the other hand, you have scope for investments.
 {{< /warning >}}
 
 ## Negative profitability forecast: What to do if losses are imminent?

@@ -171,7 +171,7 @@ Die folgenden Punkte sind essenziell, damit Ihre Rentabilitätsplanung gelingt u
 *   **Engmaschiges Controlling**: Um Abweichungen von der Rentabilitätsvorschau zu erkennen und frühzeitig Gegenmaßnahmen einleiten zu können, sollten Sie in regelmäßigen Abständen die Zahlen überprüfen.
     
 {{< warning headline="Liquidität" >}}
-Die Rentabilitätsplanung hängt eng mit der [Liquiditätsplanung]({{< relref "posts/20250628_liquiditaetsplanung" >}}) zusammen: Im Falle von zu erwartenden Verlusten müssen Sie prüfen, ob Ihr Unternehmen über ausreichend liquide Mittel verfügt, um seinen Verpflichtungen nachzukommen. Bei Gewinnen haben Sie hingegen Spielraum für Investitionen.
+Die Rentabilitätsplanung hängt eng mit der [Liquiditätsplanung]({{< relref "posts/liquiditaetsplanung" >}}) zusammen: Im Falle von zu erwartenden Verlusten müssen Sie prüfen, ob Ihr Unternehmen über ausreichend liquide Mittel verfügt, um seinen Verpflichtungen nachzukommen. Bei Gewinnen haben Sie hingegen Spielraum für Investitionen.
 {{< /warning >}}
 
 ## Negative Rentabilitätsvorschau: Was tun, wenn Verluste drohen?

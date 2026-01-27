@@ -171,7 +171,7 @@ Les points suivants sont essentiels pour réussir votre planification de la rent
 *   **Contrôle étroit** : Pour identifier les écarts par rapport aux prévisions de rentabilité et pouvoir prendre des mesures correctives à un stade précoce, vous devez contrôler les chiffres à intervalles réguliers.
     
 {{< warning headline="Liquidité" >}}
-La planification de la rentabilité est étroitement liée à la [planification des liquidités]({{< relref "posts/20250628_liquiditaetsplanung" >}}) : En cas de pertes prévisibles, vous devez vérifier si votre entreprise dispose de suffisamment de liquidités pour faire face à ses obligations. En revanche, en cas de bénéfices, vous disposez d'une marge de manœuvre pour investir.
+La planification de la rentabilité est étroitement liée à la [planification des liquidités]({{< relref "posts/liquiditaetsplanung" >}}) : En cas de pertes prévisibles, vous devez vérifier si votre entreprise dispose de suffisamment de liquidités pour faire face à ses obligations. En revanche, en cas de bénéfices, vous disposez d'une marge de manœuvre pour investir.
 {{< /warning >}}
 
 ## Prévisions de rentabilité négatives : Que faire en cas de risque de pertes ?

@@ -41,7 +41,7 @@ Na fase central do planeamento financeiro, utiliza os dados obtidos na fase de a
 - **Planeamento de custos**: Quais os custos fixos e variáveis incorridos e quais os que pode reduzir?
 - [Previsão da rentabilidade]({{< relref "posts/rentabilitaetsvorschau" >}}): Qual é o volume de negócios que precisa de gerar para que a sua empresa seja rentável?
 - **Planeamento dos investimentos**: Que compras pretende fazer e onde é que o seu dinheiro está bem investido?
-- [Planeamento da liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}): Como garante a solvência da sua empresa?
+- [Planeamento da liquidez]({{< relref "posts/liquiditaetsplanung" >}}): Como garante a solvência da sua empresa?
 - **Planeamento das necessidades de capital**: De quanto capital necessita a sua empresa para as operações e os investimentos?
 - **Planeamento do financiamento**: De onde virá o dinheiro (capital próprio ou capital alheio)?
 
