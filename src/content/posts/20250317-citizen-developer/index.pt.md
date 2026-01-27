@@ -8,7 +8,7 @@ date: 2025-03-17
 categories:
     - 'low-code-no-code'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'Processos informáticos'
     - 'Transformação digital'
 color: '#50c2d0'

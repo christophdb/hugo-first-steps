@@ -7,7 +7,7 @@ seo:
 date: 2025-12-11
 url: '/fr/no-code-freelancer'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 categories:
     - 'low-code-no-code'
 color: '#98d3e3'

@@ -7,7 +7,7 @@ seo:
 date: 2025-12-17
 url: '/pt/vantagens-no-code'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 categories:
     - 'low-code-no-code'
 color: '#ff706a'
