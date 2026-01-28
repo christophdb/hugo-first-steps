@@ -241,7 +241,9 @@ Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsge
 | django_language     | 30d        | cloud.seatable.io          |
 | zammad_session_xxxx | Session    | support.seatable.com       |
 
-Die Spalte Reichweite führt die Domains auf, die auf das Cookie zugreifen dürfen. Die Cookies dürfen ausschließlich von der Domain seatable.com sowie seatable.io und deren Subdomains verwendet werden.
+Die Spalte Reichweite gibt die Domains an, die auf das Cookie zugreifen dürfen. (Ein Punkt vor einer Domain bedeutet die Domain selbst sowie deren Subdomains.)
+
+Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Party-Cookies.
 
 ### Kontaktformular
 
