@@ -28,7 +28,7 @@ Laden Sie wichtige Dokumente wie Buchungsbestätigungen direkt in der Cloud hoch
 
 Die App in dieser Vorlage unterstützt Sie auch dabei, Ihre Ausgaben bequem über ein Formular zu erfassen. Anhand einfacher Statistiken können Sie am Ende der Reise genau sehen, wie viel Sie für was ausgegeben haben.
 
-![](images/image-1721217958013.png)
+![Reiseplaner-App in SeaTable mit Listen für Ziele, Aktivitäten, Dokumente und Ausgaben](images/image-1721217958013.png)
 
 ## Interaktives Template
 

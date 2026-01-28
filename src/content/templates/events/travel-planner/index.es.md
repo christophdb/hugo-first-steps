@@ -28,7 +28,7 @@ Sube directamente a la nube los documentos importantes, como las confirmaciones 
 
 La aplicación de esta plantilla también te ayuda a registrar cómodamente tus gastos mediante un formulario. Gracias a unas sencillas estadísticas, podrás ver exactamente cuánto has gastado y en qué al final de tu viaje.
 
-![](images/image-1721217958013.png)
+![App de planificador de viajes en SeaTable con listas de destinos, actividades, documentos y gastos](images/image-1721217958013.png)
 
 ## Plantilla interactiva
 
