@@ -20,11 +20,11 @@ With the help of a **button** in your rows you can send e-mails to one or more r
 
 First, when you create the [button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}), select the **Send Email** action.
 
-![Selection of the action "Send e-mail](images/send-email-action.png)
+![Dialog for selecting the “Send email” button action](images/send-email-action.png)
 
 Under **Account Name**, select an account from which you want to send the email. If you **do not see an account** in this field, you must first [add]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) an [email account to SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![If you do not see an email account, you must first add an email account to SeaTable](images/add-email-account.png)
+![Hint dialog indicating an email account must be added first](images/add-email-account.png)
 
 {{< warning  headline="Note" >}}
 
@@ -34,19 +34,19 @@ Detailed instructions on how to set up your **email account for** sending emails
 
 Now define the **subject** and **content of** the e-mail.
 
-![Set the subject and content of the email](images/subject-and-message.png)
+![Configuration screen for email subject and message body](images/subject-and-message.png)
 
 If you have activated the **Formatted text** slider, double-clicking on the text field opens the familiar **editor** in which you can create longer texts with formatting, lists and images. A special feature here is that you can also **insert columns**.
 
-![Insert columns in e-mail texts](images/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Rich text editor with inserted column placeholders](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Select the **recipient** (s) of the email. Optionally, you can also select recipients who should receive a **copy of** the email or to whom you want to **reply** with the email. You can enter multiple recipients separated by commas. Use the name of a column in curly brackets to quote the contents of the column.
 
-![Specify the recipient(s) of the email. Optionally, you can also select recipients who should receive a copy of the email or to whom you want to reply with the email.](images/send-to-copy-to-reply-to.png)
+![Dialog for entering recipients, CC and reply-to addresses](images/send-to-copy-to-reply-to.png)
 
 Optionally, you can add an **attachment to** the email. Note, however, that you _cannot_ simply upload files, but must first save them in a [file column of]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) the table. In the **Attachments** field, you can then select one or more **file columns** from which you want to attach the files to the email.
 
-![Files that you have added to a file column of your spreadsheet can be used as attachments to the e-mail](images/file-001.png)
+![Selection of file columns as sources for email attachments](images/file-001.png)
 
 ## Conditional execution of multiple button actions
 
@@ -56,4 +56,4 @@ For example, you may want to [save a PDF document in a file column]({{< relref "
 
 To prevent this, you can link the execution of button actions to **filter conditions**. In the mentioned use case, for example, you can add as a filter condition that the email will **only** be sent if the **file column** in the same row **is not empty**. This way you establish a clear sequence: When the button is pressed, SeaTable must first create a **PDF**, because the email can **only** be sent **with an attachment**.
 
-![](images/send-email-via-button-with-conditions-1.gif)
+![Button sends email only if file column is not empty](images/send-email-via-button-with-conditions-1.gif)
