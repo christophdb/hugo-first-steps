@@ -25,7 +25,7 @@ Los scripts de SeaTable son similares a los conocidos plugins de SeaTable (por e
 
 Muchos usuarios ya conocen nuestras [cuidadas plantillas]({{< relref "templates" >}}). Con la nueva versión, ahora es aún más fácil crear nuevas bases directamente basadas en estas plantillas, sin la molestia de los procedimientos manuales de copia y exportación. Utilizar una plantilla no puede ser más fácil. Cree una nueva base, seleccione su plantilla preferida y ya está.
 
-![](create-from-template.png)
+![Diálogo «Crear base desde plantilla» con selección de una plantilla de SeaTable](create-from-template.png)
 
 Cada vez que se crea una nueva base, se puede elegir entre tres opciones: Crear una base vacía, crear una base desde un archivo o crear una base desde una plantilla. Esta última opción carga el [mercado de SeaTable](https://market.seatable.io), donde puede navegar fácilmente por las plantillas disponibles. Elija la plantilla que más le convenga y su contenido se copiará directamente en la nueva base.
 
@@ -33,11 +33,11 @@ Cada vez que se crea una nueva base, se puede elegir entre tres opciones: Crear 
 
 La función de formato condicional ha existido en Microsoft Excel y Google Sheets desde tiempos inmemoriales. Por ello, la integración de esta función en SeaTable ocupaba el primer lugar en nuestra lista de prioridades. Por fin ha llegado el momento. Con SeaTable 1.3, el formato de fila condicional está disponible para todos los usuarios.
 
-![](row-color-non-modal.png)
+![Asistente de formato condicional de filas con reglas y selección de colores](row-color-non-modal.png)
 
 El formato condicional es tan fácil de usar como las otras funciones de análisis de datos de clasificación, agrupación y filtrado. Y también se puede llamar de la misma manera: a través de un icono en la configuración de la vista. Haga clic en el icono "Formato" y un pequeño asistente le ayudará a conseguir su objetivo lo más rápidamente posible.
 
-![](row-color.png)
+![Vista de tabla con filas resaltadas por colores según formato condicional](row-color.png)
 
 Primero se selecciona cómo se va a determinar la coloración de las líneas. Puede elegir entre el formato de línea mediante la vinculación con una columna de selección única y el formato basado en reglas. Con el formato basado en reglas, se asigna un color a cada regla. Si la(s) condición(es) de una regla se cumple(n), la celda recibe el color seleccionado.
 
@@ -45,11 +45,11 @@ Primero se selecciona cómo se va a determinar la coloración de las líneas. Pu
 
 ¿Ha estado buscando una forma de imprimir todos los datos que ha recopilado y preparado con tanto esfuerzo en SeaTable? Con la nueva función de impresión de SeaTable, obtendrá impresiones de alta calidad para sus reuniones de equipo y de clientes, así como para el trabajo de campo.
 
-![](print-settings.png)
+![Configuración de impresión de una vista con opciones de diseño, escala y márgenes](print-settings.png)
 
 Seleccione la vista que desea imprimir y haga clic en el icono de tres puntos de la configuración de la vista. En el asistente de impresión que se abre, ajusta los parámetros a tus necesidades y completa el proceso con un trabajo de impresión. A continuación, SeaTable renderiza su vista y transfiere el resultado al gestor de impresión de su dispositivo. Si prefiere trabajar con el teclado, también puede llamar al asistente de impresión con el atajo de teclado CTRL + P.
 
-![](compact-row-detail.png)
+![Vista compacta de detalle de fila con vista previa de impresión para registros individuales](compact-row-detail.png)
 
 Por supuesto, además de tablas y vistas completas, también puede imprimir los detalles de una sola fila. Abra los detalles de la fila deseada y haga clic en el icono de impresión. Con los dos tipos de impresión Normal y Compacto puede definir el tamaño de la impresión.
 
@@ -57,7 +57,7 @@ Por supuesto, además de tablas y vistas completas, también puede imprimir los 
 
 El tipo de columna Número automático es una gran extensión de las capacidades de la base de datos de SeaTable y le ayuda a mantener los datos en orden en sus tablas. En dicha columna, SeaTable genera automáticamente un número de serie para cada nueva fila.
 
-![](auto-number.png)
+![Configuración de columna para tipo «Número automático» con opciones de formato de serie](auto-number.png)
 
 Este nuevo tipo de columna admite tres formatos numéricos diferentes:
 
