@@ -29,7 +29,7 @@ Los tres campos son obligatorios. Los campos **Nombre** y **Correo electrónico*
 
 La característica especial es la selección de cursos: Sólo puedes seleccionar los cursos que aún tienen plazas disponibles. Compruébelo usted mismo: Si hace clic en el campo de selección, sólo se muestran tres cursos, aunque en la tabla aparecen un total de cinco cursos.
 
-![](images/lvl2-limited-course-selection.png)
+![Formulario web con selección de cursos limitada a cursos disponibles](images/lvl2-limited-course-selection.png)
 
 ¿A qué se debe? Hemos cambiado la selección en la columna de enlace a la vista `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` que sólo muestra los cursos con plazas libres. Esto significa que sólo verá los cursos que están disponibles en esta vista en el formulario web.
 
