@@ -25,7 +25,7 @@ SeaTable bietet vielfältige Importmöglichkeiten. So können Sie ganze Bases pe
 - Importieren Sie nun die CSV-Datei in die Tabelle `Expenses`
 - Kontrollieren Sie, dass die Tabelle nun genau 50 Einträge hat
 
-![](images/level1-import-csv.png)
+![Dialog zum CSV-Import in die Tabelle „Expenses“ mit Vorschau der Daten](images/level1-import-csv.png)
 
 ## Import und Export
 
