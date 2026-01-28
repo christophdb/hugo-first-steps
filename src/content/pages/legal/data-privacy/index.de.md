@@ -36,11 +36,13 @@ Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren persone
 Die Datenverarbeitung auf diesem Online Angebot erfolgt durch den Betreiber SeaTable GmbH, dessen Kontaktdaten Sie dem Impressum entnehmen können.
 
 **Wie erfassen wir Ihre Daten?**  
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Formular eingeben.  
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, z.B. wenn Sie sich für unseren Cloud Service SeaTable Cloud registrieren, Sie sich für unseren Newsletter anmelden, Sie uns eine Anfrage schicken oder ein Benutzerkonto für das SeaTable Forum erstellen.  
 Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch des Online Angebots durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie dieses Online Angebot betreten.
+Bei der Datenerfassung wenden wir das Verfahren der Pseduonymisierung und das Prinzip der Datensparsamkeit strikt an. Automatisch erfasste Daten werden grundsätzlich pseudonymisiert. Eine so dass Sie keiner Person zugeordnet werden können. Für die Registrierung an SeaTable Cloud oder die Kontoerstellung für das SeaTable Forum ist lediglich Name und E-Mail-Adresse erforderlich.  Eine Verknüpfung mit fremden Datenquellen findet nicht statt.
 
 **Wofür nutzen wir Ihre Daten?**  
 Die meisten Daten werden erhoben, um vertragliche und vorvertragliche Pflichten zu erfüllen (z.B. E-Mail-Adresse, Anschrift, Anfragen) und um eine fehlerfreie Bereitstellung des Online Angebots zu gewährleisten (z.B. Log-Daten). Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
+Eine Weitergabe der Daten erfolgt nicht. Eine Übertragung von personenbezogenen Daten ins außereuropäische Ausland erfolgt ebenfalls nicht.
 
 **Welche Rechte haben Sie bezüglich Ihrer Daten?**  
 Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem das Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
@@ -77,9 +79,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 ===
 
-Wenn Sie unsere Webseite oder einen anderen Dienst von uns nutzen, werden Daten für Sie erfasst.
-
-Vor der Registrierung werden nur anonyme Informationen wie Seitenaufrufe erfasst. Wenn Sie sich für SeaTable Cloud registrieren oder in unserem Forum anmelden, fragen wir lediglich nach Ihrem Namen und Ihrer E-Mail-Adresse.
+Wenn Sie unsere Webseite oder einen anderen Dienst von uns nutzen, werden Daten über Sie erfasst. In dieser Datenschutzerklärung erklären wir welche und wie wir diese schützen.
 
 {{< /legal-2col >}}
 
@@ -152,15 +152,16 @@ Das sind Ihre Rechte in Sachen Datenschutz, die Ihnen per Gesetz zustehen. Diese
 
 {{< legal-2col >}}
 
-### Keine Datenweitergabe in die USA
+### Keine Datenweitergabe ins außereuropäische Ausland
 
-Dieses Online Angebot nutzt keine Leistungen von Unternehmen mit Sitz in den USA und bindet auch keine Tools oder Services US-amerikanischer Unternehmen ein. Ihre personenbezogenen Daten werden nicht an US-Server übermittelt.
+Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Partner und nutzt insbesondere keine Cloud oder KI-Services US-amerikanischer Unternehmen (z.B. Microsoft, Google, AWS).
+Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. 
 
-Ausschließlich im Zusammenhang mit einer Kreditkartenzahlung auf diesem Online Angebot können ggf. personenbezogene Daten indirekt in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig ist.
+Nur bei einer Zahlung mit einer Kreditkartenzahlung oder einem ähnlichen elektronischen Zahlungsmittel (z.B. Google oder Apple Pay) auf diesem Online Angebot können ggf. personenbezogene Daten ins nicht-europäische Ausland und insbesondere in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig ist.
 
 ===
 
-Ihre Daten gelangen nicht in die USA. Nur bei einer Zahlung per Kreditkarte, kriegt das notgedrungen Ihre Kreditkartenanbieter mit.
+Ihre personenbezogenen Daten werden nur in Europa verarbeitet. Bei einer Zahlung mit einer Kreditkarte werden personenenbezogene Daten an Visa und Co. und damit sehr wahrscheinlich in die USA übermittelt.
 
 {{< /legal-2col >}}
 
@@ -209,7 +210,7 @@ In den Log-Dateien der verwendeten Server werden Informationen gespeichert, die 
 - Uhrzeit der Serveranfrage
 - IP-Adresse
 
-Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+Eine Zusammenführung dieser Daten mit fremden Datenquellen wird nicht vorgenommen.
 
 **Zweck und Rechtsgrundlage**
 
@@ -227,13 +228,11 @@ Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs (notwen
 
 Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies stehen mit großer Wahrscheinlichkeit einige Funktionen des Online Angebots nicht zur Verfügung.
 
-DIESES ONLINE ANGEBOT VERWENDET AUSSCHLIESSLICH COOKIES, DIE FÜR DEN ORGNUNGSGEMÄSSEN BETRIEB NOTWENDIG SIND.
-
-**Übersicht der Cookies**
+Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen Betrieb der notwendig sind. Die folgende Tabelle führt die verwendeten Cookies auf:
 
 | Name des Cookies    | Gültigkeit | Reichweite                 |
 | ------------------- | ---------- | -------------------------- |
-| ph_phc_xxxx_posthog | 365d       | .seatable.com/.seatable.io |
+| ph_phc_xxxx_posthog | 90d        | .seatable.com/.seatable.io |
 | \_t                 | 1d         | forum.seatable.com         |
 | \_forum_session     | Session    | forum.seatable.com         |
 | \_\_profilin        | Session    | forum.seatable.com         |
@@ -241,6 +240,10 @@ DIESES ONLINE ANGEBOT VERWENDET AUSSCHLIESSLICH COOKIES, DIE FÜR DEN ORGNUNGSGE
 | sessionId           | 7d         | cloud.seatable.io          |
 | django_language     | 30d        | cloud.seatable.io          |
 | zammad_session_xxxx | Session    | support.seatable.com       |
+
+Die Spalte Reichweite gibt die Domains an, die auf das Cookie zugreifen dürfen. (Ein Punkt vor einer Domain bedeutet die Domain selbst sowie deren Subdomains.)
+
+Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Party-Cookies.
 
 ### Kontaktformular
 
@@ -272,7 +275,7 @@ Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Si
 
 Wir erfassen Informationen wie:
 
-- IP-Adresse (ohne die letzte Stelle)
+- IP-Adresse
 - Information über Ihren Browser
 - Seiten, die Sie besucht haben
 
