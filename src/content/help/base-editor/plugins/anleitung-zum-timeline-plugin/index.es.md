@@ -31,13 +31,13 @@ El complemento de la línea de tiempo muestra **intervalos de tiempo**. Por lo t
     - El período de tiempo que abarcará la representación
 3. Haga doble clic en una de las entradas para abrir **los detalles de** la **fila**.
 
-![](images/timeline-plugin.gif)
+![Plugin de cronología con barras de colores y detalles de registro al hacer doble clic](images/timeline-plugin.gif)
 
 ## Efecto de la agrupación y la clasificación
 
 Dado que el complemento de la línea de tiempo se basa en las vistas de la tabla, la [ordenación]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) las entradas también afectan a la visualización en la línea de tiempo. Para las vistas agrupadas, tiene la opción de mostrar los datos en un diagrama de **línea de n** ado activando el control deslizante **Mostrar como modo de línea de nado**.
 
-![Agrupación de plugins de línea de tiempo](images/timeline-plugingroup-3.gif)
+![Plugin de cronología en modo swimlane con entradas agrupadas por categoría o usuario](images/timeline-plugingroup-3.gif)
 
 ## Crear varias líneas de tiempo
 

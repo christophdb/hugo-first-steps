@@ -31,13 +31,13 @@ O plug-in da linha do tempo mostra **os períodos de tempo**. Por conseguinte, p
     - O período de tempo a ser coberto pela representação
 3. Faça duplo clique sobre uma das entradas para abrir os **detalhes da fila**.
 
-![](images/timeline-plugin.gif)
+![Plugin Timeline com barras coloridas para períodos e detalhes da linha com duplo clique](images/timeline-plugin.gif)
 
 ## Efeito de agrupamento e classificação
 
 Uma vez que o plug-in da linha temporal se baseia nas vistas da tabela, a [ordenação]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) entradas também afectam a visualização na linha temporal. Para vistas agrupadas, tem a opção de exibir os dados num diagrama de **faixa de rodagem** activando o **Mostrador como** selector de **modo de faixa de rodagem**.
 
-![Agrupamento de Plugin da Linha do Tempo](images/timeline-plugingroup-3.gif)
+![Plugin Timeline em modo swimlane com registos agrupados por categoria ou utilizador](images/timeline-plugingroup-3.gif)
 
 ## Criar múltiplas linhas de tempo
 
