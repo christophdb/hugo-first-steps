@@ -20,7 +20,7 @@ Heute Morgen um 6 Uhr mitteleuropäischer Zeit wurde SeaTable Cloud auf Version 
 
 Version 5.2 macht SeaTables [Filterfunktionen]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) noch leistungsfähiger. Die neuen Filtergruppen erlauben die **Kombination von Filterregeln mit den logischen Operatoren UND und ODER**. Beispiel: Gesucht sind Männer geboren nach 1979 (Filtergruppe 1) oder Frauen geboren nach 1984 (Filtergruppe 2). Eine solche Filterung war in SeaTable bisher nicht möglich. In früheren Versionen waren alle Filterregeln entweder mit logischem UND oder ODER verknüpft.
 
-![Filtergroups in SeaTable 5.2](Fitlergroups.png)
+![Filtergruppen mit logisch verknüpften UND/ODER-Bedingungen für komplexe Datenselektionen](Fitlergroups.png)
 
 In kommenden Versionen führen wir Filtergruppen auch in Apps, Formularen und Automationen ein.
 
@@ -28,7 +28,7 @@ In kommenden Versionen führen wir Filtergruppen auch in Apps, Formularen und Au
 
 Erweiterte Filtermöglichkeiten bietet die Version 5.2 auch in der bedingten [Zeilen-]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) und [Zellformatierung]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}). Sie wollen eine Zelle auf Basis der Werte in anderen Spalten rot einfärben, um Aufmerksamkeit darauf zu lenken? Mit SeaTable 5.2 geht das! Die Farbcodierung einer Zeile oder Zelle lässt sich nun in Abhängigkeit jedes einzelnen Spaltenwerts in einem Datensatz formatieren. Und damit ist noch nicht Schluss: Die bedingte Formatierung kann auch Werte in mehreren Spalten berücksichtigen, unabhängig vom Spaltentyp.
 
-![Improved conditional formatting in SeaTable 5.2](ConditionalFormatting.png)
+![Spaltenübergreifende bedingte Zeilen- und Zellformatierung basierend auf mehreren Spaltenwerten](ConditionalFormatting.png)
 
 ## Funktionale Verbesserungen im App Builder
 
@@ -38,7 +38,7 @@ Der Seitentyp [Einzelner Datensatz]({{< relref "help/app-builder/seitentypen-in-
 
 In den Seiteneinstellungen dieses Seitentyps findet sich ab SeaTable 5.2 die Funktion **Voreingestellt schreibgeschützte Spalten**, die bereits von anderen Seitentypen bekannt ist. In Kombination mit der [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) “Wer darf Zeilen bearbeiten?” kann der App-Admin präzise festlegen, welche Spaltenwerte eines Datensatzes durch die Benutzer erfasst bzw. geändert werden können und welche nicht.
 
-![New read-only columns setting on single record page](ROcolumns-SingleRecordPage.png)
+![Seitentyp „Einzelner Datensatz“ mit Einstellung für voreingestellt schreibgeschützte Spalten](ROcolumns-SingleRecordPage.png)
 
 Bei [gesperrten Datensätzen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) erhält der Benutzer nun auch eine Rückmeldung, dass die Bearbeitung nicht möglich ist. Ein entsprechender Hinweis wird eingeblendet, wenn Sie den Mauszeiger in der Toolbar auf “Eintrag bearbeiten” bewegen.
 
@@ -56,7 +56,7 @@ Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswa
 
 Die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) erhält einen neuen Statistiktyp: Die **Einfache Tabelle** erlaubt – ähnlich wie die [Tabellenseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) – die tabellarische Darstellung eines durch den App-Admin vorgefilterten und vorsortierten Datensatzes. Anders als auf der Tabellenseite ist es mit dem neuen Statistiktyp möglich, zwei oder mehr Tabellen auf einer Seite zu vereinen. In der Version 5.2 können App-Benutzer selbst keine eigenen Filter- und Sortierungregeln setzen. Diese Funktion werden wir in Zukunft ergänzen.
 
-![New chart type "Basic table"](BasicTable.png)
+![Statistiktyp „Einfache Tabelle“ zur Anzeige vorgefilterter Datensätze in einer individuellen Seite](BasicTable.png)
 
 ### Seitentyp Kalender
 
@@ -78,7 +78,7 @@ Das neue Whiteboard-Plugin können Sie ergänzend oder als Alternative zum bishe
 
 Der Austausch des Plugins war nötig geworden, da das “alte” Whiteboard-Plugin, das auf dem Open-Source-Projekt [excalidraw](https://github.com/excalidraw/excalidraw) basiert, sich bei gleichzeitiger Nutzung durch mehrere Benutzer als störanfällig erwies. Mit der Version 6.0 im Sommer 2025 werden wir das alte Plugin aus SeaTable Cloud entfernen. Alle Whiteboards im alten Whiteboard-Plugin werden dann nicht mehr verfügbar sein.
 
-![](tldraw-collaboration.png)
+![Whiteboard-Plugin „Whiteboard (tldraw)“ mit gleichzeitiger Echtzeitbearbeitung durch mehrere Nutzer](tldraw-collaboration.png)
 
 ## Wichtige Änderungen an der API von SeaTable
 
@@ -98,7 +98,7 @@ SeaTable 5.2 hat noch weitere Neuigkeiten, die mehr als eine explizite Erwähnun
 
 Die Möglichkeit zur **Verwaltung von hierarchischen Daten in einer Tabelle** erreicht in SeaTable 5.2 ein neues Niveau: Eltern- und Kindbeziehungen werden in separaten Spalten erfasst und dargestellt. SeaTable stellt sicher, dass zu jeder Eltern- auch eine Kindbeziehung existiert. So lassen sich Beziehungen in beide Richtungen problemlos analysieren. Die Abbildung verdeutlicht den Unterschied zwischen SeaTable 5.2 (links) und SeaTable 5.1 (rechts) für das Topmanagement einer fiktiven Organisation.
 
-![Juxtaposition internal linking in SeaTable 5.1 and 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
+![Gegenüberstellung interner Verknüpfungen in SeaTable 5.2 und 5.1 mit getrennten Eltern-/Kindspalten](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
 Für Benutzer bringt dies nur Vorteile ohne zusätzliche Komplexität. Legt ein Benutzer eine **Verknüpfungsspalte**, die Einträge in ein- und derselben Tabelle verknüpft, neu an, dann erstellt SeaTable automatisch die zweite Verknüpfungsspalte. Die Plugins [Organigramm]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) und [Baum]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) können mit der verbesserten Datenstruktur ebenfalls umgehen.
 
