@@ -35,7 +35,7 @@ Dans SeaTable, la saisie du temps de projet est gratuite, comme un modèle Excel
 
 - Facturation simple et rapide
 
-![](images/image-1739273084179.png)
+![Tableau de suivi des temps de projet avec colonnes client, projet et heures](images/image-1739273084179.png)
 
 ## Conseils pour votre saisie du temps de projet
 
@@ -55,7 +55,7 @@ Voici quelques conseils pour vous éviter de perdre de l'argent :
 
 Avec SeaTable, la saisie destemps de projet est un jeu d'enfant. En effet, notre modèle de saisie des temps de projet vous permet non seulement de saisir vos temps de projet avec précision, mais aussi de les attribuer directement aux clients, aux projets et aux collaborateurs. Vous pouvez ainsiafficher, regrouper et totaliserles heures dans différentes vues en fonctiondu client, du projet ou de l'employé. Cela vous permet de savoir clairement à quel point vos projets sont chronophages et comment évolue la charge de travail au sein de l'équipe.
 
-![](images/image-1739272796388.png)
+![Vue statistique dans SeaTable analysant les temps de projet par client, projet ou employé](images/image-1739272796388.png)
 
 Y a-t-il par exemple un client qui dépasse toujours les temps de projet prévus avec de longs appels téléphoniques et des boucles de coordination ? Ou est-ce qu'un collaborateur est submergé de travail alors que d'autres ont encore des capacités ? Évaluez à l'aide de statistiques combien de temps vous travaillez sur quels projets et quel client vous prend le plus de temps. Ainsi, la saisie continue du temps consacré aux projets vous permet également de planifier les projets futurs de manière réaliste.
 
@@ -68,7 +68,7 @@ Grâce à l'App-Builder intuitif de SeaTable, vous pouvez créer vous-même unea
 
 Dans l'application de saisie des temps de projet, nous avons déjà ajouté un formulaire qui guide les membres de votre équipe à travers le processus de saisie de leurs temps de projet. Les données saisies apparaissent ensuite immédiatement dans l'aperçu sous forme de tableau. Vous pouvez d'ailleurs y définir un filtre spécial afin que l'utilisateur actuel ne voie toujours que ses propres temps de projet.
 
-![](images/image-1739269583766.gif)
+![Application de suivi des temps de projet avec formulaire web sur différents appareils](images/image-1739269583766.gif)
 
 ## Une facturation plus précise, des bénéfices plus importants : commencez dès maintenant avec le modèle de saisie des temps de projet !
 
@@ -76,7 +76,7 @@ Le plug-in de conception de pages de SeaTable vous permet decréer directement d
 
 En cliquant sur les enregistrements dans le plug-in de conception de page, vous pouvez télécharger une facture au format PDF pour chaque client. Les informations (adresse du client, etc.) changent automatiquement, ce qui vous permet d'utiliser le même modèle pour la facturation de tous les projets.
 
-![](images/image-1739269600741.gif)
+![Plugin de mise en page génère automatiquement des factures PDF à partir des temps de projet](images/image-1739269600741.gif)
 
 ## Avantages du modèle de saisie des temps de projet en un coup d'œil
 

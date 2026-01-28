@@ -35,7 +35,7 @@ No SeaTable, o controlo do tempo do projeto é gratuito, tal como um modelo do E
 
 - Faturação rápida e fácil
 
-![](images/image-1739273084179.png)
+![Tabela de registo de tempos de projeto com colunas de clientes, projetos e horas](images/image-1739273084179.png)
 
 ## Dicas para o registo do tempo do seu projeto
 
@@ -55,7 +55,7 @@ Temos estas dicas para o ajudar a evitar perder dinheiro:
 
 Registaros tempos doseuprojeto é fácil com o SeaTable. Com o nosso modelo de registo de horas de projeto, pode não só registar com precisão as horas de projeto, mas também atribuí-las diretamente a clientes, projectos e empregados. As horas podem serapresentadas, agrupadas e totalizadasem diferentes vistas, dependendodo cliente, projeto ou empregado. Isto dá-lhe clareza sobre o tempo que os seus projectos consomem e como a carga de trabalho da equipa está a evoluir.
 
-![](images/image-1739272796388.png)
+![Vista estatística no SeaTable analisando tempos de projeto por cliente, projeto ou colaborador](images/image-1739272796388.png)
 
 Por exemplo, há um cliente que está sempre a exceder os tempos previstos para o projeto com longos telefonemas e ciclos de coordenação? Ou um empregado está a afogar-se em trabalho enquanto outros ainda têm capacidade? Utilize as estatísticas para analisar quanto tempo está a trabalhar em que projectos e que cliente está a ocupar uma quantidade de tempo particularmente grande. O acompanhamento contínuo do tempo de projeto também lhe fornece informações sobre como planear realisticamente projectos futuros.
 
@@ -70,7 +70,7 @@ Com o construtor de aplicações intuitivo do SeaTable, podecriara sua própriaa
 
 Já adicionámos um formulário à aplicação de registo de horas de projeto que orienta os membros da sua equipa no processo de registo das horas de projeto. Os dados introduzidos aparecem imediatamente na síntese tabular. Também é possível definir um filtro especial para que o utilizador atual apenas veja os seus próprios tempos de projeto.
 
-![](images/image-1739269583766.gif)
+![App de registo de tempos de projeto com formulário web em vários dispositivos](images/image-1739269583766.gif)
 
 ## Faturação mais precisa, mais lucro: comece agora com o modelo de controlo do tempo do projeto!
 
@@ -78,7 +78,7 @@ Com o plugin de conceção de páginas SeaTable, podecriar facturas para os seus
 
 Se clicar nos registos de dados no plugin de conceção de páginas, pode descarregar uma fatura em PDF para cada cliente. A informação (endereço do cliente, etc.) muda automaticamente para que possa utilizar o mesmo modelo para faturar todos os projectos.
 
-![](images/image-1739269600741.gif)
+![Plugin de design de página cria automaticamente faturas PDF a partir dos tempos de projeto](images/image-1739269600741.gif)
 
 ## Vantagens do modelo de registo do tempo do projeto num relance
 
