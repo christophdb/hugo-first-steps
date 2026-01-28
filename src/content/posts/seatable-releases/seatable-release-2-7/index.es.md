@@ -21,7 +21,7 @@ Cualquiera que trabaje habitualmente con [Excel]({{< relref "pages/excel-alterna
 
 Para todas las columnas, SeaTable ofrece un formato condicional basado en reglas. Una regla es la descripción de un contenido hipotético de una celda (por ejemplo, valor > 50 o fecha posterior al 31.12.2021) y una instrucción de formato. Si la regla se cumple, la celda se formatea según la instrucción. Unas reglas bien elegidas pueden, entre otras cosas, hacer fácilmente reconocibles los valores estadísticos atípicos o inusuales. Por supuesto, también puede definir varias reglas por columna para asignar requisitos exigentes.
 
-![Formato de celdas condicional](Conditional_cell_formatting2.png)
+![Formato condicional de celdas con degradado de color y reglas para valores de una columna](Conditional_cell_formatting2.png)
 
 Si una columna tiene valores de celda numéricos, SeaTable ofrece formato por valores además de formato basado en reglas. Este formato condicional colorea las celdas con un gradiente de color. Los valores grandes se colorean con el extremo superior del gradiente, los pequeños con el extremo inferior. Esto hace que la magnitud del valor de una celda quede clara de un vistazo.
 
@@ -33,13 +33,13 @@ Si no sólo quiere mostrar el orden de magnitud de los valores de las celdas de 
 
 En las tablas con muchas columnas, suele darse el problema de que las primeras columnas desaparecen de la pantalla al desplazarse hacia la derecha. Hasta ahora, la primera columna podía fijarse y, por tanto, mostrarse permanentemente incluso en tablas grandes. Esta función muestra un lado más flexible en la nueva versión: a partir de la versión 2.7, se pueden fijar columnas adicionales a la izquierda. De esta manera, incluso cuando se navega en tablas grandes, se sabe en qué entrada se está.
 
-![](Freeze-columns.png)
+![Vista de tabla con varias columnas fijadas a la izquierda y el resto desplazable](Freeze-columns.png)
 
 Para fijar varias columnas, basta con utilizar el ratón: mueva el puntero del ratón a la línea vertical que separa la numeración de las filas de la primera columna. Ahora arrastre el ratón hacia la derecha para establecer el número de columnas fijas. Si desea eliminar la fijación de la columna, mueva el puntero del ratón al marco entre la última columna fijada y su siguiente columna y arrastre la línea hasta la izquierda.
 
 ## Valores por defecto para la columna de fecha
 
-![Función de valor por defecto para las columnas de fecha](Default_value_date_column.png)
+![Configuración de columna de fecha con selección de fecha predeterminada estática o dinámica](Default_value_date_column.png)
 
 Repetidamente solicitada, ahora cumplida: Después de las columnas de texto, números y selección simple, SeaTable 2.7 también ofrece a la columna de fecha una función de valor estándar. Con él se añade automáticamente un valor de fecha estático o dinámico a las nuevas entradas.
 
