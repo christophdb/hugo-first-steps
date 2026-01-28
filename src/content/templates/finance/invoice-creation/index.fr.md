@@ -32,7 +32,7 @@ La tâche la plus longue et la plus fastidieuse pour les entrepreneurs est souve
 
 Si vous n'avez jamais eu à rédiger de facture, vous ne savez probablement pas par où commencer. Dans ce cas, notre modèle de facture vous sera d'une grande aide, car il contient déjà tous les éléments nécessaires à l'établissement d'une facture correcte.
 
-![](images/image-1740150545889.png)
+![Vue de tableau des factures avec informations client, postes et montants](images/image-1740150545889.png)
 
 Les informations obligatoires suivantes ne devraient manquer dans aucun modèle de facture :
 
@@ -56,7 +56,7 @@ Les informations obligatoires suivantes ne devraient manquer dans aucun modèle 
 
 10. le pied de page de votre modèle de facture doit comporter voscoordonnées bancaires, votrenuméro de TVAet d'autres informations pertinentes sur votre entreprise.
 
-![](images/image-1740153573350.gif)
+![Éditeur de mise en page affichant un modèle de facture formaté avec logo et liste de postes](images/image-1740153573350.gif)
 
 ## Les multiples fonctions de ce modèle de facture
 
@@ -74,7 +74,7 @@ Les informations obligatoires suivantes ne devraient manquer dans aucun modèle 
 
 Avec le modèle de facturation de SeaTable, la création et la gestion des factures deviennent un jeu d'enfant. Le modèle de facture vous aide à organiser clairementles produits,les clientsetles commandes, à créer automatiquement une facture et à l'enregistrer au format PDF prête à l'envoi.
 
-![](images/image-1740154500265.gif)
+![Flux de travail SeaTable : créer automatiquement une facture, l’enregistrer en PDF et l’envoyer par e-mail](images/image-1740154500265.gif)
 
 Grâce àdes liensintelligents, le modèle de facture se nourrit de données pertinentes provenant de différents tableaux : Les informations sur les clients, les postes de commande et les prix s'intègrent parfaitement, tandis queles formulescalculent automatiquement les remises et la TVA. Ainsi, les grandes entreprises comme les petites entreprises gardent toujours une vue d'ensemble grâce au modèle de facture et gagnent un temps précieux.
 

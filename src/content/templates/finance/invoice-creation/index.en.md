@@ -30,7 +30,7 @@ The most time-consuming and tedious task for entrepreneurs is ofteninvoicing. Es
 
 If you've never had to write an invoice before, you probably don't know where to start. In this case, our invoice template will help you enormously, as it already contains all the elements you need to create a correct invoice.
 
-![](images/image-1740150545889.png)
+![Invoice overview table with customer, line item and amount information](images/image-1740150545889.png)
 
 The following mandatory information should not be missing from any invoice template:
 
@@ -54,7 +54,7 @@ The following mandatory information should not be missing from any invoice templ
 
 10. yourbank details,VAT IDand other relevant company data should be included in the letterhead of your invoice template.
 
-![](images/image-1740153573350.gif)
+![Page design editor showing a formatted invoice template with logo and line item list](images/image-1740153573350.gif)
 
 ## The many functions of this invoice template
 
@@ -72,7 +72,7 @@ The following mandatory information should not be missing from any invoice templ
 
 SeaTable's invoice template makes creating and managing invoices a breeze. The template for your invoice helps you to clearly organizeproducts,customersandorders, automatically create an invoice and save it as a PDF ready for dispatch.
 
-![](images/image-1740154500265.gif)
+![Workflow in SeaTable: automatically create invoice, save as PDF and send via email](images/image-1740154500265.gif)
 
 Thanks to intelligentlinks, the invoice template is fed with relevant data from various tables: Customer information, order items and prices flow together seamlessly, whileformulasautomatically calculate discounts and VAT. In this way, large companies and small businesses alike can use the invoice template to maintain an overview at all times and save valuable time.
 
