@@ -19,13 +19,13 @@ Ein strukturierter Pflanzplan in SeaTable hilft Ihnen dabei, Ihren Garten nachha
 
 In der zentralen Tabelle erfassen Sie Ihr Beet – inklusive Reihen, Bepflanzung und Fruchtfolge. Besonders praktisch: Die Verlinkung zu den Pflanzen erleichtert Ihnen die schnelle Planung über mehrere Jahre hinweg. So lässt sich SeaTable ganz einfach als intuitiver Beetplaner nutzen.
 
-![](images/image-1744693263121.png)
+![Tabelle für Beetplanung mit Reihen, Bepflanzung und Fruchtfolge in SeaTable](images/image-1744693263121.png)
 
 ## Erstellen Sie Ihr eigenes Pflanzenlexikon
 
 Die zweite Tabelle ist Ihre persönliche Pflanzenenzyklopädie: Ob Zierpflanzen, Kräuter oder Nutzpflanzen – hier speichern Sie alle Infos zu Winterhärte, Lebensdauer, Größe oder geeigneten Beetnachbarn. Das hilft nicht nur beim Planen, sondern gibt Ihnen auch beim Beet anlegen neue Ideen und Inspirationen.
 
-![](images/image-1744693157956.png)
+![Pflanzenlexikon-Tabelle mit Angaben zu Art, Winterhärte, Größe und geeigneten Beetnachbarn](images/image-1744693157956.png)
 
 ## Tracken Sie Ihre Gartenerfolge im Detail
 
