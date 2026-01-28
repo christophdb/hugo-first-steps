@@ -154,7 +154,8 @@ Das sind Ihre Rechte in Sachen Datenschutz, die Ihnen per Gesetz zustehen. Diese
 
 ### Keine Datenweitergabe ins außereuropäische Ausland
 
-Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich in Europa. Ein Transfer oder sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. Dieses Online Angebot nutzt insbesondere keine Cloud-Services US-amerikanischer Unternehmen (z.B. Microsoft, Google, Amazon).
+Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Partner und nutzt insbesondere keine Cloud oder KI-Services US-amerikanischer Unternehmen (z.B. Microsoft, Google, AWS).
+Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. 
 
 Ausschließlich im Zusammenhang mit einer Zahlung einer Leistung dieses Online Angebots per Kreditkarte oder einem ähnlichen elektronischen Zahlungsmitteln können ggf. personenbezogene Daten direkt oder indirekt ins außereuropäische Ausland und insbesondere in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig ist.
 
