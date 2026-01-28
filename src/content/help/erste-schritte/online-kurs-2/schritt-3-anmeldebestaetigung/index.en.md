@@ -25,25 +25,25 @@ To send e-mails with SeaTable, you must first create an e-mail account in the ba
 
 To get started, visit the [Mailtrap registration page](https://mailtrap.io/register/signup) and create a free account.
 
-![](images/lvl2-mailtrap.png)
+![Mailtrap registration page with account creation form](images/lvl2-mailtrap.png)
 
 Confirm your e-mail address and log in. After answering a few questions about your interests - these are not relevant for the rest of the process - you will be taken to the _Mailtrap_ homepage.
 
-![](images/lvl2-mailtrap-inbox.png)
+![Mailtrap home screen with preconfigured “My Inbox”](images/lvl2-mailtrap-inbox.png)
 
 In the left-hand menu, click on `E-Mail Testing > Inboxes`. There you will already find a preconfigured inbox with the name `My Inbox`. You will need the corresponding SMTP access data for the configuration in SeaTable.
 
-![](images/lvl2-mailtrap-smtp-credentials.png)
+![SMTP credentials of “My Inbox” inbox for use in SeaTable](images/lvl2-mailtrap-smtp-credentials.png)
 
 ### Configure e-mail dispatch in SeaTable
 
 With the SMTP access data from Mailtrap, you can now set up [e-mail dispatch in SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![](images/lvl2-mailtrap-in-seatable.png)
+![SeaTable dialog with entered Mailtrap SMTP data for email sending](images/lvl2-mailtrap-in-seatable.png)
 
 The emails are not actually sent, but appear in your Mailtrap mailbox. Test this by sending an e-mail to any recipient - it will only end up in your virtual mailbox.
 
-![](images/lvl2-mailtest.gif)
+![Example email in Mailtrap inbox to verify SeaTable sending](images/lvl2-mailtest.gif)
 
 ## Send e-mail to the customer
 
@@ -61,7 +61,7 @@ Now we can see in the table `Registrations` to create a new column for sending e
 >
 > Recipient: `customer@example.com`
 
-![](images/lvl2-create-button.png)
+![SeaTable table with “Send” button column for sending emails to participants](images/lvl2-create-button.png)
 
 You can use the following text template for the message text:
 
@@ -80,7 +80,7 @@ You can use the following text template for the message text:
 
 In the simple text editor, the placeholders in curly brackets are replaced automatically. If you are using the rich text editor, you must replace the placeholders manually using the `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` insert.
 
-![](images/lvl2-rich-text-editor.png)
+![SeaTable rich text editor with placeholders for course and date information](images/lvl2-rich-text-editor.png)
 
 Then click on the button and check whether the e-mail appears in your Mailtrap mailbox.
 
