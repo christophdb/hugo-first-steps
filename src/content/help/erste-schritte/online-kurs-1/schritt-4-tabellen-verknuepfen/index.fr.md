@@ -36,21 +36,21 @@ Pour pouvoir créer des liens, nous avons besoin d'un deuxième tableau, que nou
     - `Groceries`
     - `Leisure`
 
-    ![](images/level1-categories.png)
+    ![Table « Categories » avec quatre catégories : Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
 4. Revenir au tableau `Expenses`.
 
 5. Insérez une autre colonne. Donnez à la nouvelle colonne le nom `Category-Link` et sélectionnez le type de colonne `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` est désactivée. La colonne renvoie au tableau `Categories`.  
-   ![](images/level1-create-link-column.png)
+   ![Boîte de dialogue pour créer la colonne de lien « Category-Link » vers la table « Categories »](images/level1-create-link-column.png)
 
 ## Relier les lignes entre les deux tableaux
 
 Pour relier les enregistrements des deux tableaux, vous avez deux possibilités :
 
 1. Vous pouvez attribuer à une entrée du tableau `Expenses` manuellement une ligne du tableau `Categories` en cliquant à l'intérieur de la cellule sur le bouton {{< key "+" >}} puis sélectionner la catégorie appropriée. Cela devient vite fastidieux et source d'erreurs lorsque le volume de données est important.  
-   ![](images/level1-link-rows.png)
+   ![Liaison manuelle d’une ligne de dépense à une catégorie via l’icône plus](images/level1-link-rows.png)
 2. Vous pouvez également utiliser la [Options de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable pour automatiser la mise en place des liens.  
-   ![](images/level1-data-operation.png)
+   ![Menu « Data Processing » avec sélection d’une opération de traitement de données dans le tableau](images/level1-data-operation.png)
 
 ### Relier les cellules par une opération de traitement des données
 
@@ -63,7 +63,7 @@ En outre, vous devez définir les paramètres suivants pour que SeaTable sache c
 - Si colonne : `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - colonne : `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
-![](images/level1-auto-add-link.png)
+![Opération de traitement « Assign Category » de type « Auto add link » avec champs correspondants](images/level1-auto-add-link.png)
 
 Cliquez sur Exécuter pour effectuer l'opération. Vous constaterez que toutes les lignes du tableau `Expenses` avec une ligne du tableau `Categories` ont été liés.
 

@@ -36,21 +36,21 @@ Para poder crear enlaces, necesitamos una segunda tabla, que crearemos a continu
     - `Groceries`
     - `Leisure`
 
-    ![](images/level1-categories.png)
+    ![Tabla «Categories» con cuatro categorías de ejemplo: Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
 4. Volver a la mesa `Expenses`.
 
 5. Inserta otra columna. Dale a la nueva columna el nombre `Category-Link` y seleccione el tipo de columna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` off. La columna enlaza con la tabla `Categories`.  
-   ![](images/level1-create-link-column.png)
+   ![Diálogo para crear la columna de enlace «Category-Link» hacia la tabla «Categories»](images/level1-create-link-column.png)
 
 ## Vinculación de filas entre las dos tablas
 
 Ahora tiene dos opciones para vincular los registros de datos de ambas tablas:
 
 1. Puede asignar una entrada en el `Expenses` Seleccionar manualmente una línea de la tabla `Categories` pulsando dentro de la celda en el {{< key "+" >}} y, a continuación, seleccione la categoría adecuada. Esto se convierte rápidamente en una tarea tediosa y propensa a errores con grandes cantidades de datos.  
-   ![](images/level1-link-rows.png)
+   ![Vinculación manual de un registro de gasto con una categoría mediante el icono de suma](images/level1-link-rows.png)
 2. También puede utilizar la función [Opciones de tratamiento de datos]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable para automatizar la configuración de los enlaces.  
-   ![](images/level1-data-operation.png)
+   ![Menú «Data Processing» con selección de una operación de procesamiento de datos en la tabla](images/level1-data-operation.png)
 
 ### Enlazar células por operación de tratamiento de datos
 
@@ -63,7 +63,7 @@ También debe realizar los siguientes ajustes para que SeaTable sepa cómo desea
 - Si columna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Columna: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
-![](images/level1-auto-add-link.png)
+![Operación de procesamiento «Assign Category» con tipo «Auto add link» y campos correspondientes](images/level1-auto-add-link.png)
 
 Haga clic en Ejecutar para llevar a cabo la operación. Verá que todas las filas de la tabla `Expenses` con una línea de la tabla `Categories` estaban vinculados.
 
