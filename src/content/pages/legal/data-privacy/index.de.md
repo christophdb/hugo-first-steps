@@ -152,7 +152,7 @@ Das sind Ihre Rechte in Sachen Datenschutz, die Ihnen per Gesetz zustehen. Diese
 
 {{< legal-2col >}}
 
-### Keine Datenweitergabe ins außereuroäische Ausland
+### Keine Datenweitergabe ins außereuropäische Ausland
 
 Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich in Europa. Ein Transfer oder sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. Dieses Online Angebot nutzt insbesondere keine Cloud-Services US-amerikanischer Unternehmen (z.B. Microsoft, Google, Amazon).
 
