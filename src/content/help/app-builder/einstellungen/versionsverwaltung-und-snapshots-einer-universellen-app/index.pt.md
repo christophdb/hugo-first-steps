@@ -44,17 +44,17 @@ Um instantâneo de aplicação não é guardado:
 
 1. Abra uma **aplicação universal** no [modo de edição]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
-![Editar aplicações](images/Apps-bearbeiten.png)
+![Universal App Builder em modo de edição com lista de aplicações aberta](images/Apps-bearbeiten.png)
 
 3. Clique em {{< seatable-icon icon="dtable-icon-history" >}} **Gestão de versões** no canto superior esquerdo da página.
 
-![Gestão de versões no Universal App Builder](images/Version-management-in-Universal-App-Builder.png)
+![Gestão de versões de uma aplicação universal com lista de snapshots existentes](images/Version-management-in-Universal-App-Builder.png)
 
 5. Abre-se uma janela. Crie aí um **novo instantâneo**.
 6. Opcionalmente, pode adicionar uma **nota** ao instantâneo.
 7. Confirmar com **Submeter**.
 
-![Gestão de versões no Universal App Builder](images/Version-management-in-Universal-Apps.gif)
+![Criação de um novo snapshot da aplicação na gestão de versões com nota opcional](images/Version-management-in-Universal-Apps.gif)
 
 {{< warning  headline="Numeração das versões"  text="A **hora** exacta **da criação** e um **número de versão** são registados para cada instantâneo. Não se surpreenda se os seus instantâneos não receberem números consecutivos (1, 2, 3 ...). O SeaTable conta cada alteração efectuada numa aplicação universal como uma versão separada. Isto significa que podem existir rapidamente dezenas de versões entre dois instantâneos." />}}
 
@@ -69,13 +69,13 @@ Assim que tiver criado um instantâneo, tem quatro operações à sua escolha:
 
 Antes de restaurar um instantâneo e voltar apressadamente para outra versão, deve primeiro dar uma vista de olhos a esta versão. Para o fazer, siga o mesmo procedimento acima descrito: Clique nos **três pontos** na extremidade direita de um instantâneo e seleccione a operação **Ver versão** no menu pendente.
 
-![Versão de pré-visualização do instantâneo da aplicação](images/Preview-version-of-app-snapshot.png)
+![Pré-visualização de uma versão guardada da aplicação no Universal App Builder](images/Preview-version-of-app-snapshot.png)
 
 ## Restaurar o instantâneo da aplicação
 
 Para restaurar um instantâneo de aplicação, clique nos **três pontos** e seleccione a operação correspondente no menu pendente.
 
-![Restaurar a versão do instantâneo da aplicação](images/Restore-version-of-app-snapshot.png)
+![Janela para restaurar um snapshot da aplicação como versão atual](images/Restore-version-of-app-snapshot.png)
 
 {{< warning  headline="Atenção"  text="O restauro de instantâneos no Universal App Builder funciona de forma diferente do que na Base, onde o instantâneo é restaurado numa nova Base e a versão atual é mantida. **No Universal App Builder, no entanto, a versão atual é eliminada quando restaura um instantâneo.**" />}}
 
@@ -85,12 +85,12 @@ Assim que restaurar uma imagem instantânea, a aplicação é reposta no estado 
 
 Se pretender adicionar, alterar ou eliminar a nota de uma versão numa data posterior, pode fazê-lo em qualquer altura. Abra o campo de texto correspondente clicando nos **três pontos** na extremidade direita de um instantâneo e seleccionando **Nota** no menu pendente. Guarde as suas alterações clicando em **Submeter**.
 
-![Modificar notas do instantâneo da aplicação](images/Modify-notes-of-app-snapshot.png)
+![Janela para editar ou adicionar uma nota a um snapshot da aplicação](images/Modify-notes-of-app-snapshot.png)
 
 ## Eliminar o instantâneo da aplicação
 
 Pode eliminar um instantâneo de que já não necessita em qualquer altura. Clique nos **três pontos** na extremidade direita de um instantâneo e seleccione a operação **Eliminar versão** no menu pendente.
 
-![](images/Delete-version-of-app-snapshot.png)
+![Janela de confirmação para eliminar permanentemente um snapshot da aplicação](images/Delete-version-of-app-snapshot.png)
 
 {{< warning  headline="Atenção"  text="A eliminação de um instantâneo de aplicação é definitiva. O estado da memória da versão anterior perde-se irrevogavelmente e não pode ser restaurado." />}}
