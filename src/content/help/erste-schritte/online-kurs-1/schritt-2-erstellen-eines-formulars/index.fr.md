@@ -21,13 +21,13 @@ Mais bien sûr, ce serait bien si vous pouviez également saisir d'autres dépen
 
 Dans l'en-tête de votre base, vous trouverez de nombreuses fonctions supplémentaires. Derrière le bouton `Forms` SeaTable vous offre la possibilité de créer de nouveaux formulaires web.
 
-![](images/level1-create-webform.png)
+![Gestion des formulaires avec bouton « Forms » et nouveau formulaire web](images/level1-create-webform.png)
 
 1. Créez un nouveau formulaire web nommé `Expense Tracking`. En fait, le nom n'a pas d'importance, mais pourquoi ne pas donner un joli nom au formulaire ?
 2. Une nouvelle interface utilisateur s'ouvre, dans laquelle vous pouvez concevoir le formulaire web.
 3. Faites glisser les quatre champs du tableau `Reason`, `Date`, `Amount` et `Category` par glisser-déposer dans le formulaire.
 
-![](images/level1-webform.png)
+![Formulaire web « Expense Tracking » avec champs Reason, Date, Amount, Category](images/level1-webform.png)
 
 ## Autres paramètres du formulaire web
 

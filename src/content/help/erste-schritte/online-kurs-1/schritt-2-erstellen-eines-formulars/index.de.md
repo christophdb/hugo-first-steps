@@ -19,13 +19,13 @@ Doch natürlich wäre es schön, wenn Sie auch von unterwegs über Ihr Handy wei
 
 Im Kopfbereich Ihrer Base finden Sie viele zusätzliche Funktionen. Hinter dem Knopf `Forms` bietet SeaTable Ihnen die Möglichkeit neue Webformulare zu erstellen.
 
-![](images/level1-create-webform.png)
+![Formularverwaltung mit Schaltfläche „Forms“ und neuem Webformular](images/level1-create-webform.png)
 
 1. Erstellen Sie ein neues Webformular mit dem Namen `Expense Tracking`. Eigentlich ist der Name egal, aber warum sollte man dem Formular nicht einen schönen Namen geben.
 2. Es öffnet sich eine neue Benutzeroberfläche, in der Sie das Webformular gestalten können.
 3. Ziehen Sie alle vier Tabellenfelder `Reason`, `Date`, `Amount` und `Category` per Drag-and-Drop in das Formular.
 
-![](images/level1-webform.png)
+![Webformular „Expense Tracking“ mit Feldern Reason, Date, Amount, Category](images/level1-webform.png)
 
 ## Weitere Einstellungen des Webformulars
 
