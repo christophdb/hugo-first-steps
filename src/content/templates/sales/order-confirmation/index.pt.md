@@ -27,7 +27,7 @@ Quando utiliza um modelo de confirmação de encomenda, beneficia de inúmeras m
 
 - Sustentabilidade: Com o SeaTable, a confirmação da sua encomenda é completamente sem papel - sem expedições demoradas e dispendiosas, mas simplesmente com o toque de um botão por correio eletrónico.
 
-![](images/image-1743589610782.gif)
+![Edição de uma confirmação de encomenda no SeaTable com campos preenchidos automaticamente](images/image-1743589610782.gif)
 
 ## Quando é que se deve criar uma confirmação de encomenda
 
@@ -53,7 +53,7 @@ Também podepedir ao cliente que assinea confirmação da encomenda se quiser ce
 
 Embora não existam requisitos legais quanto às informações que uma confirmação de encomenda por escrito deve conter,os detalhes não devem divergir da oferta aceite. Se utilizar o nosso modelo para a confirmação da encomenda, está sempre seguro, uma vez que o SeaTable utiliza os mesmos dados que na oferta correspondente.
 
-![](images/image-1743589843690.png)
+![Vista de tabela de encomendas com informações de clientes, itens e valores](images/image-1743589843690.png)
 
 As seguintes informações obrigatórias não devem faltar em nenhuma confirmação de encomenda aos clientes:
 
@@ -93,7 +93,7 @@ As seguintes informações obrigatórias não devem faltar em nenhuma confirmaç
 
 O modelo de confirmação de encomenda do SeaTable ajuda-o a organizar claramenteos produtos,os clienteseas encomendas, a criar automaticamente uma confirmação de encomenda e a guardá-la como um PDF pronto a ser enviado. Graças aligaçõesinteligentes, a confirmação da encomenda é alimentada a partir de dados relevantes de várias tabelas: As informações sobre o cliente, os artigos da encomenda e os preços são integrados sem problemas, enquantoas fórmulascalculam automaticamente os descontos e o IVA.
 
-![](images/image-1743590730029.gif)
+![Fluxo no SeaTable: criar confirmação de encomenda, guardar em PDF e enviar](images/image-1743590730029.gif)
 
 ### Criar uma confirmação de encomenda de forma simples
 

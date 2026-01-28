@@ -27,7 +27,7 @@ En utilisant un modèle de confirmation de commande, vous bénéficierez de nomb
 
 - Durabilité: avec SeaTable, votre confirmation de commande se déroule entièrement sans papier - sans envoi compliqué et coûteux, mais simplement en appuyant sur un bouton, par e-mail.
 
-![](images/image-1743589610782.gif)
+![Édition d’une confirmation de commande dans SeaTable avec champs remplis automatiquement](images/image-1743589610782.gif)
 
 ## Quand établir une confirmation de commande
 
@@ -53,7 +53,7 @@ Vous pouvez égalementfaire signerla confirmation de commandepar votre clientsi 
 
 Bien qu'il n'existe aucune obligation légale concernant les informations que doit contenir une confirmation de commande écrite, lesdonnées ne doivent pas différer de l'offre acceptée. Si vous utilisez notre modèle de confirmation de commande, vous êtes toujours en sécurité, car SeaTable utilise les mêmes données que dans l'offre correspondante.
 
-![](images/image-1743589843690.png)
+![Vue de tableau des commandes avec informations client, postes et montants](images/image-1743589843690.png)
 
 Les informations obligatoires suivantes ne devraient manquer dans aucune confirmation de commande adressée aux clients :
 
@@ -93,7 +93,7 @@ Les informations obligatoires suivantes ne devraient manquer dans aucune confirm
 
 Le modèle de confirmation de commande de SeaTable vous permet d'organiser clairement lesproduits,les clientsetles commandes, de créer automatiquement une confirmation de commande et de l'enregistrer au format PDF, prête à être envoyée. Grâce àdes liensintelligents, la confirmation de commande est alimentée par les données pertinentes de différents tableaux : Les informations sur les clients, les postes de commande et les prix s'intègrent parfaitement, tandis quedes formulescalculent automatiquement les remises et la TVA.
 
-![](images/image-1743590730029.gif)
+![Flux SeaTable : créer une confirmation de commande, l’enregistrer en PDF et l’envoyer](images/image-1743590730029.gif)
 
 ### Créer une confirmation de commande, c'est facile
 
