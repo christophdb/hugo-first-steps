@@ -25,25 +25,25 @@ seo:
 
 Чтобы начать работу, посетите [страницу регистрации Mailtrap](https://mailtrap.io/register/signup) и создайте бесплатную учетную запись.
 
-![](images/lvl2-mailtrap.png)
+![Страница регистрации Mailtrap с формой создания аккаунта](images/lvl2-mailtrap.png)
 
 Подтвердите свой адрес электронной почты и войдите в систему. После ответа на несколько вопросов о ваших интересах - они не имеют значения для остальной части процесса - вы попадете на главную страницу _Mailtrap_.
 
-![](images/lvl2-mailtrap-inbox.png)
+![Домашняя страница Mailtrap с преднастроенным почтовым ящиком «My Inbox»](images/lvl2-mailtrap-inbox.png)
 
 В левом меню нажмите на `E-Mail Testing > Inboxes`. Там вы уже найдете предварительно настроенную папку входящих сообщений с именем `My Inbox`. Для настройки в SeaTable вам понадобятся соответствующие данные доступа SMTP.
 
-![](images/lvl2-mailtrap-smtp-credentials.png)
+![SMTP‑реквизиты ящика «My Inbox» для настройки в SeaTable](images/lvl2-mailtrap-smtp-credentials.png)
 
 ### Настройка отправки электронной почты в SeaTable
 
 С помощью данных доступа к SMTP из Mailtrap вы теперь можете настроить [отправку электронной почты в SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![](images/lvl2-mailtrap-in-seatable.png)
+![Окно SeaTable с введёнными SMTP‑данными Mailtrap для отправки писем](images/lvl2-mailtrap-in-seatable.png)
 
 На самом деле письма не отправляются, но появляются в вашем почтовом ящике Mailtrap. Проверьте это, отправив письмо любому получателю - оно появится только в вашем виртуальном почтовом ящике.
 
-![](images/lvl2-mailtest.gif)
+![Тестовое письмо в почтовом ящике Mailtrap для проверки отправки из SeaTable](images/lvl2-mailtest.gif)
 
 ## Отправить электронное письмо клиенту
 
@@ -61,7 +61,7 @@ seo:
 >
 > Получатель: `customer@example.com`
 
-![](images/lvl2-create-button.png)
+![Таблица SeaTable со столбцом‑кнопкой «Send» для отправки писем участникам](images/lvl2-create-button.png)
 
 Для текста сообщения можно использовать следующий текстовый шаблон:
 
@@ -80,7 +80,7 @@ seo:
 
 В простом текстовом редакторе заполнители в фигурных скобках заменяются автоматически. Если вы используете редактор насыщенного текста, вы должны заменить заполнители вручную с помощью команды `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` вставить.
 
-![](images/lvl2-rich-text-editor.png)
+![Редактор форматированного текста SeaTable с плейсхолдерами курса и даты](images/lvl2-rich-text-editor.png)
 
 Затем нажмите на кнопку и проверьте, появилось ли письмо в вашем почтовом ящике Mailtrap.
 
