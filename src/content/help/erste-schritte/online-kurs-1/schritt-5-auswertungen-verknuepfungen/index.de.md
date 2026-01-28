@@ -20,7 +20,7 @@ Durch die Verknüpfung haben wir bisher noch keinen direkten Nutzen erzielt, abe
 
 Erhöhen Sie als Erstes die Zeilenhöhe in der Tabelle `Categories`, um mehr von den Verlinkungen sehen zu können. Sie finden die entsprechende Option `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` in der Zeile über den Spaltennamen. Auch können Sie einzelne Spalten breiter ziehen, um mehr Inhalte zu sehen.
 
-![](images/level1-row-height.png)
+![Tabellenansicht mit geänderter Zeilenhöhe für bessere Sicht auf Verknüpfungen](images/level1-row-height.png)
 
 ## Auswertungen der Kategorien
 
@@ -37,7 +37,7 @@ Legen Sie jetzt eine neue Spalte in der Tabelle `Categories` an.
 >
 > Berechnungsmethode `Sum`
 
-![](images/lvl1-rollup.png)
+![Link-Formelspalte „Sum“ mit Rollup-Einstellung zur Summierung verknüpfter Beträge](images/lvl1-rollup.png)
 
 Als Nächstes können Sie noch das Format der Spalte `Sum` auf Euro umstellen, damit die dargestellten Summen entsprechend in Euro formatiert werden.
 

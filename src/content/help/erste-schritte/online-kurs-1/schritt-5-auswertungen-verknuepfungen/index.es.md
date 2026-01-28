@@ -22,7 +22,7 @@ Todavía no hemos obtenido ningún beneficio directo de los enlaces, pero esto e
 
 En primer lugar, aumente la altura de la fila en la tabla `Categories` para ver más enlaces. Encontrará la opción correspondiente `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` en la fila situada sobre el nombre de la columna. También puede arrastrar columnas individuales para ver más contenido.
 
-![](images/level1-row-height.png)
+![Vista de tabla con altura de filas ajustada para ver mejor las vinculaciones](images/level1-row-height.png)
 
 ## Análisis de las categorías
 
@@ -40,7 +40,7 @@ Ahora cree una nueva columna en la tabla `Categories` a.
 >
 > Método de cálculo `Sum`
 
-![](images/lvl1-rollup.png)
+![Columna de fórmula de enlace «Sum» con ajuste rollup para sumar importes vinculados](images/lvl1-rollup.png)
 
 A continuación, puede cambiar el formato de la columna `Sum` a euros para que los totales mostrados tengan el formato correspondiente en euros.
 
