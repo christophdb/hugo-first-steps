@@ -91,7 +91,7 @@ sections:
       weight: 10
       title: 'CRM System mit leistungsstarker API'
       subtitle: 'Standard Integrationen'
-      description: Die nahtlose Integration verschiedener Tools und automatisierter Workflows in ihre Kundenmanagement Organisation ist entscheidend. Dank SeaTables **flexibler API und der reibungslosen Drittanbieter-Integration** und der neuen KI-Komponente können Sie sowohl klassische Tools als auch externe KI-Modelle über OpenAI-kompatible Schnittstellen einbinden – ganz nach Ihren Anforderungen.
+      description: Die nahtlose Integration verschiedener Tools und automatisierter Workflows in ihre Kundenmanagement Organisation ist entscheidend. Dank SeaTables flexibler API und der reibungslosen Drittanbieter-Integration und der neuen KI-Komponente können Sie sowohl klassische Tools als auch externe KI-Modelle über OpenAI-kompatible Schnittstellen einbinden – ganz nach Ihren Anforderungen.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -198,5 +198,5 @@ sections:
           - q: 'Bietet SeaTable eine Free-Version an?'
             a: 'Für **kleine Teams bis 25 Personen** bietet SeaTable eine Cloud basierte Free-Version an, die bereits über alle Features und notwendigen Funktionen und Ansichten verfügt, die sie für ein strategisches Kundenmanagement benötigen. Mit Automatisierungen, [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), zahlreichen kostenlosen Templates, integrierten Formularen und ersten KI-Funktionen für Auswertungen bietet SeaTable Free ein Paket, das so keine CRM Software kostenlos anbietet.'
           - q: 'Erhalte ich bei SeaTable auch einen kostenlosen Support?'
-            a: 'Ja, unser Support steht Ihnen bei allen Fragen oder Schwierigkeiten zur Verfügung. Sie können sich entweder an die SeaTable Community in unserem Forum wenden oder direkt eine E-Mail schreiben.'        
+            a: 'Ja, unser Support steht Ihnen bei allen Fragen oder Schwierigkeiten zur Verfügung. Sie können sich entweder an die SeaTable Community in unserem Forum wenden oder direkt eine E-Mail schreiben.'     
 ---
