@@ -59,7 +59,7 @@ gleichzeitig vor Verlust geschützt.
 
 Mit einer Fuhrparkmanagement Software können Sie den Einsatz Ihrer Fahrzeuge genau planen. Im Folgenden erklären wir, wie Sie Buchungen, Rückgaben, Reparaturen und Inspektionstermine ganz einfach verwalten können.
 
-![](images/image-1739373488166.png)
+![Tabellenübersicht der Fahrzeuge mit Daten zu Modell, Kennzeichen, Status und Terminen](images/image-1739373488166.png)
 
 Stellen Sie im ersten Schritt eineÜbersicht Ihrer Fahrzeugezusammen: Dabei können Sie jede Information hinterlegen, die für Sie wichtig ist. Mit verschiedenenSpaltentypenundAnsichtenkönnen Sie Ihre Fuhrparkverwaltung so gestalten, wie Sie möchten. Dabei können Sie anders als in einer Fuhrparkverwaltung Excel Vorlage kostenlos Fotos hinterlegen, die imGalerie-Pluginzu sehen sind. Fügen Sie weitere Daten wie Marke, Modell, Kennzeichen und Kilometerstand hinzu, um Ihre Fahrzeuge zu beschreiben. InDatei-Spaltenlassen sich auch andere Dokumente wie Kaufverträge, Versicherungsscheine oder Rechnungen hochladen.
 
@@ -69,11 +69,11 @@ Im Folgenden finden Sie weitere Gründe, warum unsere Flottenmanagement Software
 
 Verwalten Sie alleBuchungenIhrer Fahrzeuge in einer Tabelle. Für die Buchung nutzen interessierte Mitarbeiter einWebformular, das auf den Spalten dieser Tabelle basiert. Dort tragen sie Kontaktdaten ein, wählen das gewünschte Fahrzeug aus und legen die Nutzungsdauer fest.
 
-![](images/vehicle-request.png)
+![Webformular zur Fahrzeugbuchung mit Kontaktfeldern, Fahrzeugwahl und Zeitraumauswahl](images/vehicle-request.png)
 
 Nach dem Absenden erscheint die Anfrage sofort in Ihrer Tabelle und Sie können diese verarbeiten. Da die Tabellenmiteinander verknüpftsind, können Sie jede Anfrage einem Mitarbeiter und dem gewünschten Fahrzeug zuordnen. Anschließend prüfen Sie, ob das Fahrzeug zur gewünschten Zeit zur Verfügung steht oder ob es in dem Zeitraum bereits vergeben ist. Nutzen Sie dafür dasTimeline-Plugin, das Überschneidungen von Buchungen klar anzeigt.
 
-![](images/Booked-vehicles.png)
+![Timeline-Ansicht mit gebuchten Fahrzeugen und farblichen Balken für die reservierten Zeiträume](images/Booked-vehicles.png)
 
 Wie in unserem Beispiel können Sie die später eingetroffene Anfrage ablehnen. SeaTable ermöglicht Ihnen, mithilfe von Schaltflächen bestimmte Abläufe in der Fuhrparkmanagement Software zuautomatisierenund diese mit nur einem Klick anzustoßen. So können Sie Anträge ganz einfach weiterverarbeiten und die Fahrzeugbuchung per Knopfdruck ablehnen oder bestätigen. Einevoreingestellte E-Mailwird dann mit der jeweiligen Information an den Antragsteller versandt.
 

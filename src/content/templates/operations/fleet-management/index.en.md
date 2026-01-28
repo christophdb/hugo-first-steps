@@ -57,7 +57,7 @@ protected from loss at the same time.
 
 With fleet management software, you can plan the use of your vehicles precisely. Below we explain how you can easily manage bookings, returns, repairs and inspection appointments.
 
-![](images/image-1739373488166.png)
+![Vehicle overview table with data on model, license plate, status and key dates](images/image-1739373488166.png)
 
 The first step is to compile anoverview of your vehicles: You can enter any information that is important to you. With differentcolumn typesandviews, you can design your fleet management the way you want. Unlike in a fleet management Excel template, you can add photos that can be viewed in thegallery pluginfree of charge. Add further data such as make, model, license plate number and mileage to describe your vehicles. Other documents such as purchase contracts, insurance certificates or invoices can also be uploaded infile columns.
 
@@ -67,11 +67,11 @@ Below you will find more reasons why our fleet management software is far superi
 
 Manage all your vehiclebookingsin one table. Interested employees use aweb formbased on the columns in this table to make bookings. They enter their contact details, select the desired vehicle and specify the period of use.
 
-![](images/vehicle-request.png)
+![Vehicle booking web form with contact fields, vehicle selection and period choice](images/vehicle-request.png)
 
 After sending, the request appears immediately in your table and you can process it. As the tables arelinked to each other, you can assign each request to an employee and the desired vehicle. You can then check whether the vehicle is available at the desired time or whether it is already booked for that period. Use thetimeline plug-infor this, which clearly displays overlapping bookings.
 
-![](images/Booked-vehicles.png)
+![Timeline view with booked vehicles and colored bars for reserved time periods](images/Booked-vehicles.png)
 
 As in our example, you can reject the request that arrives later. SeaTable allows you to use buttons toautomatecertain processes in the fleet management software and trigger them with just one click. This allows you to easily process requests and reject or confirm the vehicle booking at the touch of a button. Apreset e-mailis then sent to the applicant with the relevant information.
 
