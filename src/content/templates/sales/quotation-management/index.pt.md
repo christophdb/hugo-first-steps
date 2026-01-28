@@ -21,7 +21,7 @@ Umacarta de ofertaconcebida de forma clara e atractiva aumenta a probabilidade d
 
 Especialmente se receber pedidos de informação todos os dias, pode levar muito tempo e nervosismo a escreverofertas individuaisque tem de reescrever vezes sem conta - sem saber se as suas ofertas resultarão efetivamente em encomendas. É aqui que um modelo de orçamento profissional constitui uma solução rápida e fiável, especialmente para as pequenas empresas. Utilize o SeaTable, por exemplo, para escrever o seu orçamento deforma eficienteeautomática.
 
-![](images/image-1741253045784.gif)
+![O modelo SeaTable cria automaticamente uma proposta e mostra a pré-visualização do documento](images/image-1741253045784.gif)
 
 ## O que é que favorece um modelo de oferta
 
@@ -39,7 +39,7 @@ Quando utiliza um modelo para redigir uma cotação, beneficia de inúmeras melh
 
 Se nunca teve de criar um orçamento antes, provavelmente não sabe por onde começar. Neste caso, o nosso modelo de orçamento irá ajudá-lo imenso, uma vez que já contém todos os elementos de que necessita parapreparar um orçamento correto.
 
-![](images/image-1741191669169.png)
+![Vista de tabela dos componentes da proposta com informações de clientes, itens e valores](images/image-1741191669169.png)
 
 As seguintes informações obrigatórias não devem faltar em nenhum modelo de oferta:
 
@@ -87,7 +87,7 @@ Mas atenção: mesmo com uma estimativa de custos, o preço final não deve desv
 
 - Utilize asestatísticasintegradas no modelo de oferta para obter informações valiosas dos seus números e dados e tomar decisões bem fundamentadas.
 
-![](images/image-1741253450663.gif)
+![Fluxo no SeaTable: criar proposta com um clique, guardar em PDF e enviar por e-mail](images/image-1741253450663.gif)
 
 ## Escrever citações de forma eficiente - pode ser tão simples quanto isso
 

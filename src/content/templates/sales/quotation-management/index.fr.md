@@ -21,7 +21,7 @@ Unelettre d'offreclaire et attrayante augmente la probabilité que votre prospec
 
 En particulier si vous recevez des demandes tous les jours, cela peut vous coûter beaucoup de temps et d'énervement de rédigerdes offres individuellesque vous devez sans cesse reformuler - et cela sans savoir si vos offres se transformeront réellement en commandes. Un modèle d'offre professionnel permet de remédier rapidement et de manière fiable à ce problème, en particulier pour les petites entreprises. Utilisez par exemple SeaTable pour rédiger votre offre demanière efficaceetautomatisée.
 
-![](images/image-1741253045784.gif)
+![Le modèle SeaTable crée automatiquement une offre et affiche l’aperçu du document d’offre](images/image-1741253045784.gif)
 
 ## Ce qui plaide en faveur d'une soumission d'offre
 
@@ -39,7 +39,7 @@ Si vous utilisez un modèle pour rédiger votre offre, vous bénéficierez de no
 
 Si vous n'avez jamais eu à rédiger une offre, vous ne savez probablement pas par où commencer. Dans ce cas, notre modèle d'offre vous sera d'une grande aide, car il contient déjà tous les éléments nécessaires à l'établissement d'une offre correcte.
 
-![](images/image-1741191669169.png)
+![Vue de tableau des éléments d’offre avec informations client, postes et montants](images/image-1741191669169.png)
 
 Les informations obligatoires suivantes ne devraient manquer dans aucun modèle d'offre :
 
@@ -87,7 +87,7 @@ Mais attention : même avec un devis, le prix final ne devrait pas s'écarter de
 
 - Utilisez lesstatistiquesintégrées dans le modèle d'offre pour tirer de précieux enseignements de vos chiffres et données et prendre des décisions éclairées.
 
-![](images/image-1741253450663.gif)
+![Flux SeaTable : créer une offre en un clic, l’enregistrer en PDF et l’envoyer par e-mail](images/image-1741253450663.gif)
 
 ## Rédiger des offres de manière efficace - cela peut être aussi simple que cela
 

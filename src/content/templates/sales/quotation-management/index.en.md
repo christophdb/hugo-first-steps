@@ -19,7 +19,7 @@ A clearly and attractively designedoffer letterincreases the likelihood that you
 
 Especially if you receive inquiries every day, it can take a lot of time and nerves to writeindividual offersthat you have to reformulate again and again - without knowing whether your offers will actually result in orders. This is where a professional quotation template provides a quick and reliable remedy, especially for small businesses. Use SeaTable, for example, to write your quotationefficientlyandautomatically.
 
-![](images/image-1741253045784.gif)
+![SeaTable template automatically creates a quotation and shows a preview of the quote document](images/image-1741253045784.gif)
 
 ## What speaks in favor of an offer template
 
@@ -37,7 +37,7 @@ When you use a template to write a quotation, you benefit from numerous improvem
 
 If you've never had to create a quote before, you probably don't know where to start. In this case, our template for your quotation will help you enormously, as it already contains all the elements you need toprepare a correct quotation.
 
-![](images/image-1741191669169.png)
+![Table overview of quotation components with customer, line item and amount information](images/image-1741191669169.png)
 
 The following mandatory information should not be missing from any offer template:
 
@@ -85,7 +85,7 @@ But be careful: even with a cost estimate, the final price should not deviate fr
 
 - Use thestatisticsintegrated into the offer template to gain valuable insights from your figures and data and make well-founded decisions.
 
-![](images/image-1741253450663.gif)
+![SeaTable workflow: create quotation at the push of a button, save as PDF and send via email](images/image-1741253450663.gif)
 
 ## Writing offers efficiently - it can be that simple
 
