@@ -34,18 +34,18 @@ Um überhaupt Verknüpfungen anlegen zu können, benötigen wir eine zweite Tabe
     - `Groceries`
     - `Leisure`
 
-    ![](images/level1-categories.png)
+    ![Tabelle „Categories“ mit vier Beispielkategorien Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
 4. Wechseln Sie zurück in die Tabelle `Expenses`.
 
-5. Fügen Sie eine weitere Spalte ein. Geben Sie der neuen Spalten den Namen `Category-Link` und wählen Sie den Spaltentyp `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` aus. Die Spalte verlinkt auf die Tabelle `Categories`. ![](images/level1-create-link-column.png)
+5. Fügen Sie eine weitere Spalte ein. Geben Sie der neuen Spalten den Namen `Category-Link` und wählen Sie den Spaltentyp `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` aus. Die Spalte verlinkt auf die Tabelle `Categories`. ![Dialog zum Anlegen der Link-Spalte „Category-Link“ zur Tabelle „Categories“](images/level1-create-link-column.png)
 
 ## Verknüpfen von Zeilen zwischen den beiden Tabellen
 
 Um die Datensätze in beiden Tabellen nun miteinander zu verknüpfen, haben Sie zwei Möglichkeiten:
 
-1. Sie können einem Eintrag in der Tabelle `Expenses` manuell eine Zeile aus der Tabelle `Categories` zuweisen, in dem Sie innerhalb der Zelle auf das {{< key "+" >}} klicken und dann die passende Kategorie auswählen. Dies wird bei größeren Datenmengen schnell mühsam und fehleranfällig. ![](images/level1-link-rows.png)
-2. Alternativ können Sie die [Datenverarbeitungsoptionen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) von SeaTable verwenden, um das Setzen der Verknüpfungen zu automatisieren. ![](images/level1-data-operation.png)
+1. Sie können einem Eintrag in der Tabelle `Expenses` manuell eine Zeile aus der Tabelle `Categories` zuweisen, in dem Sie innerhalb der Zelle auf das {{< key "+" >}} klicken und dann die passende Kategorie auswählen. Dies wird bei größeren Datenmengen schnell mühsam und fehleranfällig. ![Manuelles Verknüpfen einer Expense-Zeile mit einer Kategorie über das Plus-Symbol](images/level1-link-rows.png)
+2. Alternativ können Sie die [Datenverarbeitungsoptionen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) von SeaTable verwenden, um das Setzen der Verknüpfungen zu automatisieren. ![Menü „Data Processing“ mit Auswahl einer Datenverarbeitungsoperation in der Tabelle](images/level1-data-operation.png)
 
 ### Zellen per Datenverarbeitungsoperation verknüpfen
 
@@ -58,7 +58,7 @@ Zudem müssen Sie folgende Einstellungen setzen, damit SeaTable weiß, wie Sie I
 - Wenn Spalte: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Spalte: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
-![](images/level1-auto-add-link.png)
+![Datenverarbeitungsoperation „Assign Category“ mit Typ „Auto add link“ und passenden Feldern](images/level1-auto-add-link.png)
 
 Klicken Sie auf Ausführen, um die Operation auszuführen. Sie werden sehen, dass schlagartig alle Zeilen in der Tabelle `Expenses` mit einer Zeile aus der Tabelle `Categories` verknüpft wurden.
 
