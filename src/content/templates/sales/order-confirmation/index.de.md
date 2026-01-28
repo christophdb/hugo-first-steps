@@ -24,7 +24,7 @@ Wenn Sie eine Auftragsbestätigung Vorlage nutzen, profitieren Sie von zahlreich
 - Zentrale Speicherung: In SeaTable können Sie alle bestehenden Daten rund um Ihre Kunden, Produkte und Aufträge speichern, miteinander verknüpfen und in Dokumente einbetten.
 - Nachhaltigkeit: Mit SeaTable läuft Ihre Auftragsbestätigung vollständig papierlos ab – ohne aufwändigen und teuren Versand, sondern einfach auf Knopfdruck per E-Mail.
 
-![Bearbeitung Auftragsbestätigung mit SeaTable](images/image-1743589610782.gif)
+![Bearbeitung einer Auftragsbestätigung in SeaTable mit automatisch befüllten Feldern](images/image-1743589610782.gif)
 
 ## Wann Sie eine Auftragsbestätigung erstellen sollten
 
@@ -50,7 +50,7 @@ Sie können die Auftragsbestätigung auchvon Ihrem Kunden unterschreiben lassen,
 
 Es gibt zwar keine gesetzlichen Vorgaben, welche Informationen eine schriftliche Auftragsbestätigung enthalten muss, aber dieAngaben dürfen nicht vom angenommenen Angebot abweichen. Wenn Sie unsere Vorlage für die Auftragsbestätigung nutzen, sind Sie immer auf der sicheren Seite, da SeaTable dieselben Daten wie im entsprechenden Angebot verwendet.
 
-![Screenshot Auftragsbestätigung Vorlage](images/image-1743589843690.png)
+![Tabellenübersicht für Aufträge mit Kunden-, Positions- und Betragsangaben](images/image-1743589843690.png)
 
 Folgende Pflichtangaben sollten in keiner Auftragsbestätigung an Kunden fehlen:
 
@@ -90,7 +90,7 @@ Folgende Pflichtangaben sollten in keiner Auftragsbestätigung an Kunden fehlen:
 
 Die Auftragsbestätigung Vorlage von SeaTable hilft Ihnen Produkte,Kunden und Bestellungen übersichtlich zu organisieren, automatisch eine Auftragsbestätigung zu erstellen und als PDF versandfertig zu speichern. Dank intelligenter Verknüpfungen speist sich die Auftragsbestätigung aus relevanten Daten verschiedener Tabellen: Kundeninformationen, Bestellpositionen und Preise fließen nahtlos zusammen, während Formeln automatisch Rabatte und Mehrwertsteuern berechnen.
 
-![SeaTable Base - Erstellen einer Auftragsbestätigung per Knopfdruck](images/image-1743590730029.gif)
+![SeaTable Workflow: Auftragsbestätigung per Knopfdruck erstellen, als PDF speichern und senden](images/image-1743590730029.gif)
 
 ### Auftragsbestätigung erstellen leicht gemacht
 
