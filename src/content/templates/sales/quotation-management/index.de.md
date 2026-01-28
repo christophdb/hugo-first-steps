@@ -21,7 +21,7 @@ Ein übersichtlich und ansprechend gestaltetes Angebotsschreiben erhöht die Wah
 
 Insbesondere, wenn Sie jeden Tag Anfragen erhalten, kann es viel Zeit und Nerven kosten,individuelle Angebotezu schreiben, die Sie immer wieder neu formulieren müssen – und das ohne zu wissen, ob aus Ihren Angeboten wirklich Aufträge werden. Hier schafft eine professionelle Angebotsvorlage gerade für Kleinunternehmer schnell und zuverlässig Abhilfe. Nutzen Sie, umeffizient und automatisiert Ihr Angebot zu schreiben, zum Beispiel SeaTable.
 
-![Angebot schreiben mit SeaTable Vorlage](images/image-1741253045784.gif)
+![SeaTable Vorlage erstellt ein Angebot automatisch und zeigt Vorschau des Angebotsdokuments](images/image-1741253045784.gif)
 
 ## Was für eine Angebotsvorlage spricht
 
@@ -39,7 +39,7 @@ Wenn Sie zum Angebot schreiben eine Vorlage nutzen, profitieren Sie von zahlreic
 
 Wenn Sie noch nie ein Angebot erstellen mussten, wissen Sie wahrscheinlich gar nicht, wo Sie anfangen sollen. In diesem Fall hilft Ihnen unsere Vorlage für Ihr Angebot enorm weiter, denn sie enthält bereits alle Bestandteile für einekorrekte Angebotserstellung.
 
-![Screenshot Bestandteile eines Angebots](images/image-1741191669169.png)
+![Tabellenübersicht der Angebotsbestandteile mit Kunden-, Positions- und Betragsangaben](images/image-1741191669169.png)
 
 Folgende Pflichtangaben sollten in keiner Angebotsvorlage fehlen:
 
@@ -87,7 +87,7 @@ Aber Vorsicht: Auch bei einem Kostenvoranschlag sollte der Endpreis um maximal 1
 
 • Nutzen Sie die in die Angebot Vorlage integrierten Statistiken, um wertvolle Erkenntnisse aus Ihren Zahlen und Daten zu gewinnen und fundierte Entscheidungen zu treffen.
 
-![SeaTable Base Angebot schreiben](images/image-1741253450663.gif)
+![Workflow in SeaTable: Angebot per Knopfdruck erstellen, als PDF speichern und per E-Mail senden](images/image-1741253450663.gif)
 
 ## Effizient Angebote schreiben – so einfach kann es sein
 
