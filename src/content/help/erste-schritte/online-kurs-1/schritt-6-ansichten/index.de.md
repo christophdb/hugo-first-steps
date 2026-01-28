@@ -28,7 +28,7 @@ Jede neu erstellte Ansicht enthält zunächst keine Gruppierungen, Sortierungen 
 1. Gruppieren Sie die Daten in der Spalte `Date` nach Jahr.
 2. Gruppieren Sie die Daten anschließend nach `Category-Link`.
 
-![](images/lvl1-view-groups.png)
+![Ansicht „Group by date and category“ mit Gruppierung nach Jahr und Kategorie-Link](images/lvl1-view-groups.png)
 
 ## Eine Ansicht mit Filter und Gruppierung erstellen
 

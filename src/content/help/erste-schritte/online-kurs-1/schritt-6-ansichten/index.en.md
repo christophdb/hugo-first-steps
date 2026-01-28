@@ -30,7 +30,7 @@ Each newly created view does not initially contain any groupings, sorting or fil
 1. Group the data in the column `Date` by year.
 2. Then group the data according to `Category-Link`.
 
-![](images/lvl1-view-groups.png)
+![“Group by date and category” view grouped by year and by category link](images/lvl1-view-groups.png)
 
 ## Create a view with filter and grouping
 
