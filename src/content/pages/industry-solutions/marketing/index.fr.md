@@ -14,10 +14,10 @@ sections:
     - name: hero-5
       weight: 1
       title: "SeaTable – l'outil polyvalent de gestion du marketing"
-      text: "Utilisez vos ressources plus efficacement et automatisez vos campagnes et vos processus grâce à des solutions intelligentes basées sur l'IA qui s'adaptent de manière proactive à vos besoins. Avec SeaTable, l'outil efficace de gestion du marketing pour votre équipe."
+      text: "Utilisez efficacement vos ressources et automatisez vos campagnes et processus grâce à la solution IA sans code SeaTable, l'outil intelligent de gestion marketing qui évolue en fonction de vos besoins."
       classes:
           - bg-gray-200
-      template: 1acd19d97c8f4ed3ad38
+      template: 791a438b055a4680908c
       buttons:
           - label: 'Démarrez maintenant'
             link: pages/registration
@@ -27,125 +27,74 @@ sections:
             link: pages/functions
 
     - name: content-12
-      weight: 2
+      weight: 3
       classes:
           - curved
           - bg-white
       title: "L'outil idéal de gestion du marketing"
       subtitle: 'Centralisez, automatisez, optimisez'
-      description: "SeaTable est l'outil idéal de gestion du marketing pour tous ceux qui souhaitent centraliser, automatiser et optimiser leurs activités de marketing numérique. La plateforme offre toutes les fonctions dont les équipes marketing ont besoin pour travailler avec succès – de la planification de campagne à l'analyse."
+      description: "La plateforme IA sans code SeaTable offre toutes les fonctionnalités dont les équipes marketing ont besoin pour travailler efficacement, de la planification des campagnes à l'analyse."
       # TODO: PNG avec fond transparent !
       items:
-          - text: Conforme au RGPD
-          - text: 'Implémentation simple : No-Code ou Low-Code'
-          - text: 'Workflows automatisés assistés par IA'
-          - text: Gestion des autorisations
-          - text: App Builder pour une utilisation frontale
-          - text: Solution cloud ou sur site (On-Premises)
-      image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+        - text: "**Conforme au RGPD**, avec des serveurs situés en Allemagne et une intelligence artificielle hébergée en interne"
+        - text: "**Mise en œuvre simple** sans connaissances en programmation"
+        - text: "**Automatisation assistée par l'intelligence artificielle**"
+        - text: "**Générateur d'applications par glisser-déposer** pour une utilisation frontale et des tableaux de bord de reporting"
+        - text: "En tant que solution **cloud évolutive ou sur site**"
+      image: /images/Landing Page Marketing_Planning and Analysis-1.png
       image_alt: 'Tableau de bord marketing SeaTable pour planification de campagnes et analyse de performance'
 
-    - name: 'content-9'
-      weight: 3
-      title: Optimisez votre succès en marketing
-      subtitle: La valeur ajoutée de SeaTable
-      description: 'SeaTable est le seul outil de gestion du marketing dont les professionnels du marketing ont besoin pour automatiser leurs processus et leurs campagnes. Les équipes peuvent travailler de manière collaborative et indépendante du lieu, tandis que les données des outils de marketing numérique courants peuvent être intégrées et les flux de travail automatisés. Démarrez avec SeaTable et faites passer votre **Automatisation du marketing avec fonctions IA** au niveau supérieur – car chaque campagne compte.'
-      items:
-      - headline: Centralisation
-        text: "SeaTable combine toutes les fonctions importantes dans une seule plateforme afin d'organiser efficacement vos processus."
-        icon: circle-question
-      - headline: Automatisation
-        text: 'Planification de campagne, reporting marketing et planification de contenu entièrement automatisés.'
-        icon:
-      - headline: Évolutivité
-        text: 'Les équipes peuvent travailler de manière collaborative et indépendante du lieu. Quelle que soit la taille de votre équipe.'
-        icon:
-      - headline: Analyse
-        text: "Créer un plan marketing, gestion d'événements ou évaluation de données."
-        icon: star
-    # TODO: est-ce que je mets des graphiques en dessous ?
-
     - name: 'content-4'
-      weight: 4
+      weight: 2
       title: "Un outil de marketing – de nombreux cas d'utilisation"
-      subtitle: "Domaines d'application possibles de SeaTable"
+      subtitle: "Optimisez votre succès marketing avec SeaTable"
       items:
+      - headline: "Automatisation avec l'IA" 
+        text: "La plateforme IA sans code SeaTable propose un assistant d'automatisation avec des fonctions IA intégrées pour des flux de travail intelligents." 
+        icon: robot
+      - headline: "Collaboration en temps réel" 
+        text: "Les équipes peuvent travailler en collaboration en temps réel, quel que soit leur emplacement géographique. Peu importe la taille de votre équipe ou de votre base de données."
+        icon: user-plus
       - icon: edit
-        headline: Planification du contenu
-        text: "Gérez et visualisez vos plans de rédaction, vos stratégies de contenu et vos listes de tâches de manière centralisée sur une plateforme de marketing en ligne. Avec SeaTable comme outil de gestion du marketing, vous gardez une vue d'ensemble de toutes vos activités."
-      - icon: up-right-and-down-left-from-center
-        headline: 'Planification, analyse et reporting'
-        text: 'Avec SeaTable, vous organisez vos campagnes de manière structurée et gérez toutes les informations importantes de manière centralisée. Au lieu de différents outils de marketing en ligne pour le pilotage, le monitoring, le reporting marketing, etc., vous avez ici tout ce qui concerne la planification de campagne dans un seul outil.'
+        headline: Gestion marketing 
+        text: "Gérez de manière centralisée la planification des campagnes, le suivi et les rapports marketing. Avec SeaTable, vous avez toujours une vue d'ensemble."
+      - icon: chart-line
+        headline: Analyse et reporting 
+        text: "Au lieu d'utiliser différents outils de marketing en ligne pour la collecte de données, la surveillance et le reporting, SeaTable offre toutes ces fonctionnalités dans un seul outil centralisé."
       - icon: location-dot
         headline: "Gestion d'événements"
-        text: "Qu'il s'agisse d'événements clients, de salons ou de webinaires : SeaTable est un outil puissant de gestion du marketing qui permet également d'organiser, de cartographier et d'optimiser efficacement la gestion des événements."
+        text: "SeaTable est un outil de gestion marketing performant qui vous permet d'organiser efficacement des événements clients, des salons ou des webinaires."
       - icon: heart
-        headline: 'Feedback client et sondages'
-        text: "SeaTable vous permet de créer des sondages clients personnalisés et de les évaluer directement à l'aide de formules et de statistiques. Vous avez ainsi tout dans un seul outil de marketing central."
-      - icon: globe
-        headline: 'Collaboration et travail à distance'
-        text: "En tant qu'outil de gestion du marketing, SeaTable soutient votre équipe dans la collaboration – que ce soit sur site ou à distance."
-      - icon: leaf
-        headline: Reporting et analyse marketing
-        text: 'Avec SeaTable, vous créez efficacement vos reportings dans le marketing et vous pouvez les cartographier et les évaluer directement dans des tableaux de bord.'
+        headline: "Commentaires des clients et enquêtes"
+        text: "Créez des enquêtes et des formulaires personnalisés et évaluez directement les résultats à l'aide de statistiques et de tableaux de bord."
 
     - name: 'content-10'
-      weight: 5
+      weight: 7
       classes:
           - curved
           - bg-white
-      title: 'Automatisation et intégration des processus marketing'
-      subtitle: 'Centralisez votre marketing'
-      description: "Avec SeaTable, vous automatisez vos tâches manuelles. Grâce aux fonctionnalités sans code/à faible code, vous pouvez rapidement configurer vos flux de travail automatisés assistés par l'IA et les adapter à vos besoins. De plus, SeaTable permet l'intégration de sources de données externes via son API ou ses outils d'automatisation du marketing."
+      title: "Centralisez vos processus marketing"
+      subtitle: "Automatisation et intégration"
+      description: "Avec les automatisations intégrées assistées par IA de SeaTable, vous pouvez créer des flux de travail intelligents. De plus, grâce à l'API SeaTable ou aux outils d'automatisation du marketing, vous pouvez facilement intégrer des sources de données externes telles que des systèmes CRM ou des outils de marketing par e-mail."
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
 
-    - name: 'content-4'
-      weight: 6
-      classes:
-          - curved
-          - bg-white
-          - '!pt-0'
-      items:
-      - icon: leaf
-        headline: IA Plateforme No-Code avec options Low-Code
-        text: SeaTable est une [IA plateforme No-Code]({{< relref "/" >}}) pour les équipes marketing sans connaissances en programmation. Elle permet la création de workflows et d'automatisation individuels sans programmation. Les utilisateurs avancés peuvent mettre en œuvre des automatisations et des intégrations complexes avec des extensions Low-Code.
-      - icon: leaf
-        headline: Intégration de sources de données externes
-        text: Grâce à l'API de SeaTable, vous pouvez facilement intégrer des sources de données externes telles que les systèmes CRM ou les outils de marketing par e-mail.<br><br>Cela signifie que vous pouvez gérer et analyser toutes vos données marketing dans un emplacement central, ce qui augmente considérablement l'efficacité.
-      - icon: leaf
-        headline: Requêtes SQL et fonctions Big Data
-        text: SeaTable offre la possibilité d'effectuer des requêtes SQL. Ceci est particulièrement utile pour les équipes marketing qui travaillent avec de grandes quantités de données et doivent effectuer des analyses détaillées. Avec la fonction Big Data de SeaTable, vous pouvez gérer et évaluer efficacement de grandes quantités de données.
-
     - name: banner-2
-      weight: 7
-      title: 'Flexible et évolutif – tirez le meilleur parti de votre marketing!'
+      weight: 6
+      title: 'Pour un véritable marketing axé sur les données et structuré'
       buttons:
           - label: "S'inscrire maintenant et commencer"
             link: pages/registration
             id: es-marketing-registration-2
 
-    - name: content-11
-      weight: 8
-      classes:
-          - curved
-          - bg-gray-100
-      title: "Outil d'automatisation du marketing pour un véritable travail d'équipe"
-      subtitle: Travail collaboratif en temps réel
-      items:
-      - text: "En tant qu'outil de gestion du marketing, SeaTable soutient votre équipe dans la collaboration – que ce soit sur site ou à distance. En tant qu'outil de marketing basé sur le cloud, SeaTable permet une collaboration facile entre les équipes internes et externes. Si vous préférez rester sur vos propres serveurs au lieu du cloud, vous pouvez compter sur SeaTable Server. Gérez les droits d'accès, organisez les projets et partagez les données – le tout via une plateforme centrale."
-      image: /images/seatable-1-1024x560-1.png
-      image_position: left
-      image_alt: 'Interface SeaTable pour travail collaboratif en équipe marketing'
-
     - name: content-8
-      weight: 10
+      weight: 5
       title: Démarrez immédiatement avec des modèles marketing gratuits
       subtitle: Modèles
-      description: 'SeaTable propose de nombreux modèles marketing gratuits qui vous facilitent la prise en main. Ceux-ci sont adaptés aux besoins des équipes marketing et vous offrent un moyen rapide et facile de démarrer avec un modèle.... Importez des modèles en un seul clic dans votre compte SeaTable'
+      description: "SeaTable propose de nombreux modèles marketing gratuits pour vous aider à démarrer. Ceux-ci sont adaptés aux besoins des équipes marketing et vous offrent un moyen rapide et facile de commencer avec un modèle. Importez des modèles dans votre compte SeaTable en un seul clic."
       # TODO: markdownify
       items:
           - text: Analyse de la concurrence
@@ -156,25 +105,7 @@ sections:
             image_alt: 'Modèle de calendrier de campagnes et contenus SeaTable pour planification marketing'
           - text: Stratégie de marketing de contenu
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            image_alt: 'Modèle SeaTable pour stratégie de content marketing et plan d’actions'
-          - text: Calendrier éditorial
-            image: /images/Marketing_Editorial-Plan_Template.png
-            image_alt: 'Modèle de calendrier éditorial SeaTable pour contenus de blog et réseaux sociaux'
-          - text: Revue de presse
-            image: /images/Marketing_Pressespiegel_Template.png
-            image_alt: 'Modèle SeaTable pour revue de presse et veille médiatique'
-          - text: Storyboard
-            image: /images/Marketing_Storyboard_Template.png
-            image_alt: 'Modèle de storyboard SeaTable pour visualiser campagnes et créations'
-          - text: Calendrier éditorial de podcast
-            image: /images/Marketing_Podcast_Templat.png
-            image_alt: 'Modèle de calendrier éditorial de podcast SeaTable pour planification des épisodes'
-          - text: Plan de médias sociaux
-            image: /images/Marketing_Social-Media_Template.png
-            image_alt: 'Modèle de plan social media SeaTable pour publications et campagnes'
-          - text: Inscription à la newsletter
-            image: /images/Marketing_Newsletter_Subscription_Template.png
-            image_alt: 'Modèle d’inscription à la newsletter SeaTable pour collecte et analyse de leads'
+            image_alt: 'Modèle SeaTable pour stratégie de content marketing et plan d’actions' 
       buttons:
           - label: Découvrez tous les modèles
             link: 'templates'
@@ -238,7 +169,7 @@ sections:
 
     - name: banner-2
       weight: 14
-      title: Quel que soit votre flux de travail, vous pouvez le réaliser avec SeaTable
+      title: Optimisez votre marketing avec SeaTable.
       buttons:
           - label: "S'inscrire maintenant et commencer"
             link: pages/registration
@@ -250,14 +181,18 @@ sections:
       items:
           - q: "Pourquoi ai-je besoin d'un outil de gestion du marketing ?"
             a: "Les équipes marketing ont besoin d'outils marketing flexibles et complets et de logiciels d'automatisation du marketing pour planifier, exécuter, analyser et optimiser leurs campagnes. Un outil de gestion du marketing flexible vous permet de travailler de manière indépendante du lieu, agile et collaborative, d'intégrer les données des outils de marketing numérique courants et d'automatiser les flux de travail."
-          - q: 'Quels processus marketing puis-je couvrir avec SeaTable ?'
-            a: "En tant qu'outil de marketing en ligne puissant, SeaTable offre une plateforme centrale et évolutive. Vous pouvez couvrir la planification de campagne, la création de contenu, le suivi des ICP, la planification budgétaire, les sondages auprès des clients, la planification d'événements et le reporting – et ainsi individualiser tous les processus marketing."
-          - q: "Puis-je intégrer les données d'autres outils marketing dans SeaTable ?"
-            a: "Oui, SeaTable permet l'intégration de tous les outils de marketing numérique courants via une API."
-          - q: "Comment SeaTable aide-t-il à l'automatisation des processus marketing ?"
-            a: "SeaTable offre la possibilité d'automatiser les tâches répétitives telles que l'envoi d'e-mails."
-          - q: 'SeaTable convient-il aux équipes distantes ?'
-            a: "Absolument. SeaTable est une solution basée sur le cloud qui permet un travail collaboratif en temps réel, quel que soit l'endroit où se trouvent les membres de votre équipe."
-          - q: 'Puis-je également réaliser des sondages auprès des clients avec SeaTable ?'
-            a: "Oui, pas de problème. Une stratégie marketing réussie est basée sur un feedback continu. SeaTable vous permet donc de créer des sondages clients personnalisés que vous pouvez évaluer directement, conformément au RGPD, à l'aide de formules et de statistiques. Vous avez tout dans un seul outil marketing central : collectez et analysez le feedback des clients et laissez les résultats s'intégrer directement dans votre stratégie marketing."
+          - q: "Pourquoi devrais-je utiliser SeaTable comme outil de gestion marketing ?"
+            a: "Si vous accordez de l'importance à la transparence, à la clarté, à l'automatisation des processus et à une structure de données claire dans vos processus et campagnes, et si la facilité d'utilisation est importante pour vous, alors SeaTable est l'outil qu'il vous faut, que ce soit pour le marketing B2C ou B2B. Les équipes peuvent travailler de manière collaborative, quel que soit leur emplacement, tandis que les données des outils de marketing numérique courants peuvent être intégrées et les flux de travail automatisés. Commencez à utiliser SeaTable et faites passer votre automatisation du marketing avec des fonctionnalités d'IA au niveau supérieur."
+          - q: "Quels processus marketing puis-je couvrir avec SeaTable ?"
+            a: 'SeaTable est un outil de marketing en ligne puissant qui offre une plateforme centrale et évolutive. Vous pouvez couvrir [la planification de campagnes]({{< relref "posts/marketing-kampagne-planung" >}}), la création de contenu, le suivi des KPI, la planification [budgétaire]({{< relref "posts/20250606-budgetplanung" >}}), les enquêtes clients, la planification événements et le reporting, et ainsi personnaliser tous vos processus marketing.'
+          - q: "Puis-je intégrer les données d'autres outils marketing dans SeaTable ?" 
+            a: "Oui, en tant qu'outil complet de gestion marketing, SeaTable permet l'intégration de tous les outils de marketing numérique courants via une API."
+          - q: "Nous travaillons avec de très grandes quantités de données. SeaTable prend-il également en charge les requêtes SQL ?"
+            a: "Oui, SeaTable offre la possibilité d'effectuer des requêtes SQL. Il vous suffit d'utiliser le plugin SQL ou de créer une application de requête SQL. Cela est particulièrement utile pour les équipes marketing qui travaillent avec de grandes quantités de données et doivent effectuer des analyses détaillées. Grâce à la fonction Big Data de SeaTable, vous pouvez gérer et évaluer efficacement de grandes quantités de données en ligne dans ce logiciel marketing."   
+          - q: "Comment SeaTable contribue-t-il à l'automatisation des processus marketing ?" 
+            a: "Le logiciel d'automatisation marketing SeaTable offre la possibilité intégrée d'automatiser des tâches récurrentes telles que l'envoi d'e-mails. Grâce à l'intégration simple des plateformes de marketing en ligne et des réseaux sociaux, il est également possible, par exemple, de créer automatiquement des publications."
+          - q: "SeaTable est-il adapté aux équipes à distance ?" 
+            a: "Absolument. En tant qu'outil de gestion marketing basé sur le cloud, SeaTable facilite la collaboration au sein de votre équipe, qu'elle travaille sur site ou à distance. SeaTable permet une collaboration simple en temps réel entre les équipes internes et externes. Si vous préférez rester sur vos propres serveurs plutôt que dans le cloud, vous pouvez compter sur SeaTable Server. Gérez les droits d'accès, organisez des projets et partagez des données, le tout via une plateforme centrale."
+          - q: "Puis-je également réaliser des enquêtes clients avec SeaTable ?"
+            a: "Oui, sans aucun problème. Une stratégie marketing réussie repose sur un retour d'information continu. SeaTable vous permet donc de créer des enquêtes clients personnalisées que vous pouvez évaluer directement à l'aide de formules et de statistiques conformes au RGPD. Vous disposez de tout ce dont vous avez besoin dans un outil marketing centralisé : collectez et analysez les commentaires des clients et intégrez directement les résultats dans votre stratégie marketing."
 ---
