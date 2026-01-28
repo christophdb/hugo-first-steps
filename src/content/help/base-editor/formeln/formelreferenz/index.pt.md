@@ -31,7 +31,7 @@ E uma coleção de funções de ligação na coluna "Fórmula de ligação":
 
 - Funções de ligação
 
-![](images/formula.jpg)
+![Editor de fórmulas do SeaTable com lista de funções e exemplo](images/formula.jpg)
 
 Para além das funções acima referidas, existem uma ou mais listas de colunas no editor de fórmulas. Estas são as colunas da tabela atual e as colunas ligadas da outra tabela na base. Se clicar no símbolo "+" ao lado da coluna, o nome da coluna é adicionado como um elemento ao campo de entrada no formato {ColumnName} ou {LinkedTable.ColumnName}. Pode utilizar este elemento diretamente na sua fórmula. Em alternativa, pode introduzir manualmente um nome de coluna no formato {ColumnName}.
 
