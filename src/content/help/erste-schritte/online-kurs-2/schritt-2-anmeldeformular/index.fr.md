@@ -29,7 +29,7 @@ Les trois champs sont définis comme obligatoires. Les champs **Nom** et **E-mai
 
 La particularité réside dans la sélection des cours : Ici, seuls les cours qui disposent encore de places libres peuvent être sélectionnés. Faites-en vous-même l'expérience : Si vous cliquez sur le champ de sélection, seuls trois cours s'affichent, bien que cinq cours au total soient saisis dans le tableau.
 
-![](images/lvl2-limited-course-selection.png)
+![Formulaire web avec sélection de cours limitée aux cours disponibles](images/lvl2-limited-course-selection.png)
 
 Pourquoi en est-il ainsi ? Nous avons réduit la sélection dans la colonne des liens à la vue `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` qui n'affiche que les cours avec des places disponibles. Ainsi, vous ne voyez dans le formulaire web que les cours qui sont disponibles dans cette vue.
 
