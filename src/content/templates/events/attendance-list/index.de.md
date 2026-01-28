@@ -37,7 +37,7 @@ Achten Sie bei jeder Teilnehmerliste, die als Vorlage für eine Anwesenheitslist
 
 Ebenso wichtig ist es, Ihre Teilnehmerliste z. B. in Excelvor unbefugtem Zugriff zu schützen. Davor bietet eine Software-Lösung, mit der Sie nur bestimmte Personen zum Zugriff auf die Teilnehmerliste berechtigen können, einen besseren Schutz als eine Excel Vorlage. Prüfen Sie ebenfalls eine mögliche Aufbewahrungspflichtder Anwesenheitsliste für Ihre Veranstaltung.
 
-![Teilnahme am Workshop mit eintragen in eine Teilnehmerliste](images/image-1738157999643.jpg)
+![Teilnehmende tragen sich in eine Anwesenheitsliste ein und bestätigen ihre Teilnahme schriftlich](images/image-1738157999643.jpg)
 
 ## Was sollten Sie in einer Teilnehmerliste erfassen?
 
@@ -59,7 +59,7 @@ In der zweiten Tabelle befindet sich die Teilnehmerliste Vorlage. Hier sind Info
 
 Nutzen Sie intuitive Webformulare, in denen Ihre Teilnehmer digital unterschreiben und selbst Daten erfassenkönnen. Nach Einreichung werden die Daten automatisch in Ihren Tabellen gespeichert. Die Anwesenheitsliste Vorlage in Tabelle 3 arbeitet zudem mit Verknüpfungenzu Tabelle 1 und 2: So müssen die Teilnehmer nur den aktuellen Termin und ihren Namen aus der Teilnehmerliste auswählen, bevor sie ihre Anwesenheit mit ihrer Unterschrift bestätigen.
 
-![](images/image-1738157851207.gif)
+![Digitale Anwesenheitsliste in SeaTable mit Webformular zur Auswahl von Termin und Teilnehmer](images/image-1738157851207.gif)
 
 Mithilfe eines Webformulars können Sie nach der Veranstaltung zudem eine Umfrage zur Evaluation durchführen, in der Teilnehmer Feedback und Bewertungen abgeben können.
 

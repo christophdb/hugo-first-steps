@@ -36,7 +36,7 @@ Pour toute liste de participants servant de modèle à une liste de présence, v
 
 Il est tout aussi important deprotégervotre liste des participants, par exemple dans Excel, contre tout accès non autorisé. Une solution logicielle qui vous permet d'autoriser uniquement certaines personnes à accéder à la liste des participants offre une meilleure protection qu'un modèle Excel. Vérifiez également si la liste de présence de votre événementdoit être conservée.
 
-![](images/image-1738157999643.jpg)
+![Les participants s’inscrivent sur une liste de présence et confirment leur participation par écrit](images/image-1738157999643.jpg)
 
 ## Que devez-vous saisir dans une liste de participants ?
 
@@ -58,7 +58,7 @@ Dans le deuxième tableau se trouve laliste des participants Modèle. Ici sont e
 
 Utilisez des formulaires web intuitifs dans lesquels vos participants peuventsigner numériquementetsaisir eux-mêmes des données. Une fois soumises, les données sontautomatiquementenregistrées dans vos tableaux. Le modèle de liste de présence du tableau 3 fonctionne en outre avecdes liensvers les tableaux 1 et 2 : il suffit ainsi aux participants de sélectionner la date actuelle et leur nom dans la liste des participants avant de confirmer leur présence par leur signature.
 
-![](images/image-1738157851207.gif)
+![Liste de présence numérique dans SeaTable avec formulaire web pour choisir date et participant](images/image-1738157851207.gif)
 
 Un formulaire web vous permet également de réaliser uneenquête d'évaluationaprès l'événement, dans laquelle les participants peuvent donner leur avis et leurs évaluations.
 
