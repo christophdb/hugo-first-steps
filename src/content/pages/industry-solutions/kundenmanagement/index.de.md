@@ -29,7 +29,7 @@ sections:
         - bg-seatable-blue
       title: "SeaTable für Ihr Kundenmanagement"
       subtitle: Die skalierbare KI No-Code-Plattform
-      description: eaTable ist so flexibel wie eine Tabellenkalkulation und so leistungsfähig wie eine Datenbank. So behalten Sie den Überblick über alle Kundeninteraktionen, können Prozesse mit No-Code-Automationen und KI-Regeln automatisieren und Ihre Daten mit KI-gestützten Funktionen wie Klassifizierung, Extraktion und Textanalyse intelligent auswerten.
+      description: SeaTable ist so flexibel wie eine Tabellenkalkulation und so leistungsfähig wie eine Datenbank. So behalten Sie den Überblick über alle Kundeninteraktionen, können Prozesse mit No-Code-Automationen und KI-Regeln automatisieren und Ihre Daten mit KI-gestützten Funktionen wie Klassifizierung, Extraktion und Textanalyse intelligent auswerten.
       items:
         - text: Kollaboratives Arbeiten in Echtzeit 
         - text: Individuell anpassbare Datenstrukturen und Prozesse
@@ -55,7 +55,7 @@ sections:
       title: Vertriebsautomatisierung
       subtitle: Sales-Pipeline und Angebotsverfolgung
       items:
-      - text: Behalten Sie stets den Überblick über Ihre Verkaufsprozesse und steigern Sie Ihre Abschlussrate. Mit SeaTable **visualisieren Sie den Fortschritt von Leads** und Angeboten in einer klaren Übersicht. So sehen Sie in der Kanban-Ansicht sofort, in welcher Phase sich jeder Lead befindet und können schnell auf Veränderungen reagieren. KI-Automatisierungen helfen Ihnen, Leads nach Potenzial zu bewerten, Texte für Angebote vorzuformulieren und nächste Schritte intelligent vorzuschlagen. Erstellen Sie automatische Erinnerungen für Follow-ups. Definieren Sie die Phasen des Verkaufsprozesses nach Ihren Bedürfnissen, sei es für die Lead-Generierung, die Angebotsphase oder den Vertragsabschluss – unterstützt durch KI-gestützte Workflows.
+      - text: Behalten Sie stets den Überblick über Ihre Verkaufsprozesse und steigern Sie Ihre Abschlussrate. Mit SeaTable **visualisieren Sie den Fortschritt von Leads** und Angeboten in einer klaren Übersicht. So sehen Sie in der Kanban-Ansicht sofort, in welcher Phase sich jeder Lead befindet und können schnell auf Veränderungen reagieren. [KI-Automatisierungen]({{< relref "posts/ai-powered-automations" >}}) helfen Ihnen, Leads nach Potenzial zu bewerten, Texte für Angebote vorzuformulieren und nächste Schritte intelligent vorzuschlagen. Erstellen Sie automatische Erinnerungen für Follow-ups. Definieren Sie die Phasen des Verkaufsprozesses nach Ihren Bedürfnissen, sei es für die Lead-Generierung, die Angebotsphase oder den Vertragsabschluss – unterstützt durch [KI-gestützte Workflows]({{< relref "pages/industry-solutions/individual" >}}).
       image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
       image_alt: 'SeaTable Sales-Pipeline zur Visualisierung von Leads und Angeboten im Kanban mit KI-Unterstützung'
       image_position: left
@@ -165,17 +165,17 @@ sections:
       weight: 12
       title: SeaTable ist die DSGVO-konforme Kundenmanagement-Software
       subtitle: Strategisches KI-gestütztes Kundenmanagement online
-      text: "Gerade beim Umgang mit Kundendaten muss Datenschutz Priorität genießen. SeaTable wird ausschließlich auf Servern in Deutschland gehostet und ist **100 % DSGVO-konform** – auch bei der Nutzung der integrierten KI-Funktionen. Somit vereinen wir höchste Ansprüche an den Schutz sensibler Daten und die Einhaltung datenschutzrechtlicher Bestimmungen und den sicheren Einsatz moderner KI mit transparenten und flexiblen Arbeitsprozessen."
+      text: 'Gerade beim Umgang mit Kundendaten muss Datenschutz Priorität genießen. Die [No-Code Plattform]({{< relref "/" >}}) wird ausschließlich auf Servern in Deutschland gehostet und ist **100 % DSGVO-konform** – auch bei der Nutzung der integrierten KI-Funktionen. Somit vereinen wir höchste Ansprüche an den Schutz sensibler Daten und die Einhaltung datenschutzrechtlicher Bestimmungen und den sicheren Einsatz moderner KI mit transparenten und flexiblen Arbeitsprozessen.'
       items:
-      - icon: terminal
-        headline: On-Premises Lösungen für volle Datenkontrolle
-        text: "Wer ein CRM System self-hosted betreiben möchte, hat mit SeaTable Server den gleichen Funktionsumfang wie bei der Cloud Version – und behält die vollständige Hoheit über seine Daten, inklusive KI-bezogener Aktionen und Ergebnisse."
-      - icon: user-plus
-        headline: Benutzerdefinierte Sicherheitseinstellungen
-        text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten."
-      - icon: fingerprint
-        headline: Authentifizierung und Single-Sign-On
-        text: "SeaTable unterstützt alle gängigen Authentifizierungstechniken und ermöglicht Zwei-Faktor-Authentifizierung und SSO in allen Abo-Modellen – auch bei aktiviertem KI-Modul."
+          - icon: terminal
+            headline: On-Premises Lösungen für volle Datenkontrolle
+            text: "Wer ein CRM System self-hosted betreiben möchte, hat mit SeaTable Server den gleichen Funktionsumfang wie bei der Cloud Version – und behält die vollständige Hoheit über seine Daten, inklusive KI-bezogener Aktionen und Ergebnisse."
+          - icon: user-plus
+            headline: Benutzerdefinierte Sicherheitseinstellungen
+            text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten."
+          - icon: fingerprint
+            headline: Authentifizierung und Single-Sign-On
+            text: "SeaTable unterstützt alle gängigen Authentifizierungstechniken und ermöglicht Zwei-Faktor-Authentifizierung und SSO in allen Abo-Modellen – auch bei aktiviertem KI-Modul."
 
     - name: "banner-2"
       weight: 14
@@ -190,7 +190,7 @@ sections:
       title: FAQ – Kundenmanagement mit SeaTable
       items:
           - q: 'Warum ist ein effizientes Kundenmanagement wichtig?'
-            a: 'Eine gutes Kundenmanagement ist der Schlüssel zu einer langfristigen Kundenbindung. Doch viele Unternehmen kämpfen mit unübersichtlichen Excel-Listen, einer komplizierten CRM-Software oder verstreuten Kundendaten. Traditionelle CRM-Systeme schränken Sie mit starren Strukturen ein, die es schwierig machen, Ihre Prozesse effizient zu gestalten. Das führt zu unnötig langwierigen Kundenmanagement Aufgaben sowie Frustrationen bei den Mitarbeitern und beeinträchtigt die Kommunikation mit Ihren Kunden – die Kundenzufriedenheit leidet. Zusätzlich verursachen hohe Lizenzkosten und die Notwendigkeit, externe IT-Ressourcen hinzuzuziehen, oft unnötige Ausgaben.'
+            a: 'Eine gutes Kundenmanagement ist der Schlüssel zu einer langfristigen Kundenbindung. Doch viele Unternehmen kämpfen mit [unübersichtlichen Excel-Listen]({{< relref "pages/excel-alternative" >}}), einer komplizierten CRM-Software oder verstreuten Kundendaten. Traditionelle CRM-Systeme schränken Sie mit starren Strukturen ein, die es schwierig machen, Ihre Prozesse effizient zu gestalten. Das führt zu unnötig langwierigen Kundenmanagement Aufgaben sowie Frustrationen bei den Mitarbeitern und beeinträchtigt die Kommunikation mit Ihren Kunden – die Kundenzufriedenheit leidet. Zusätzlich verursachen hohe Lizenzkosten und die Notwendigkeit, externe IT-Ressourcen hinzuzuziehen, oft unnötige Ausgaben.'
           - q: 'Für wen eignet sich SeaTable als Kundenmanagement-Software?'
             a: 'SeaTable eignet sich für Unternehmen jeder Größe – **vom Start-up bis zum Großkonzern**. Das Tool passt sich an Ihre Anforderungen an und bietet dadurch für jede Branche und jedes Team die passende Lösung, um Kundenmanagement Aufgaben zu organisieren und die Kundenmanagement-Organisation zu verbessern. Mit seiner benutzerfreundlichen Oberfläche, den vielseitigen Funktionen und den neuen KI-Möglichkeiten für Analyse, Klassifizierung und Automatisierung hilft SeaTable Ihnen, Ihre Prozesse effizient zu gestalten und den Arbeitsalltag spürbar zu erleichtern.'
           - q: 'Welche Nachteile bringen herkömmliche CRM Systeme mit sich?'
