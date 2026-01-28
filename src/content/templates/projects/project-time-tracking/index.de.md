@@ -35,7 +35,7 @@ In SeaTable ist die Projektzeiterfassung wie eine Excel-Vorlage kostenlos. Aller
 
 • Einfache und schnelle Rechnungserstellung
 
-![](images/image-1739273084179.png)
+![Übersichtstabelle zur Projektzeiterfassung mit Kunden-, Projekt- und Stundenspalten](images/image-1739273084179.png)
 
 ## Tipps für Ihre Projektzeiterfassung
 
@@ -55,7 +55,7 @@ Damit Ihnen letztlich kein bares Geld durch die Lappen geht, haben wir diese Tip
 
 Die Erfassung IhrerProjektzeiten ist mit SeaTable ein Leichtes. Denn mit unserer Projektzeiterfassung Vorlage können Sie nicht nur präzise Ihre Projektzeiten erfassen, sondern diese auch direkt Kunden, Projekten und Mitarbeitern zuordnen. So lassen sich die Stunden in verschiedenen Ansichten jenach Kunde, Projekt oder Mitarbeiter anzeigen, gruppieren und summieren. Das verschafft Ihnen Klarheit darüber, wie zeitaufwändig Ihre Projekte sind und wie sich die Auslastung im Team entwickelt.
 
-![](images/image-1739272796388.png)
+![Statistikansicht in SeaTable mit Auswertung der Projektzeiten nach Kunde, Projekt oder Mitarbeiter](images/image-1739272796388.png)
 
 Gibt es zum Beispiel einen Kunden, der mit langen Telefonaten und Abstimmungsschleifen immer die veranschlagten Projektzeiten sprengt? Oder geht gerade ein Mitarbeiter in Arbeit unter, während andere noch Kapazitäten haben? Werten Sie mithilfe von Statistiken aus, wie lange Sie an welchen Projekten arbeiten und welcher Kunde besonders viel Zeit in Anspruch nimmt. So gibt Ihnen eine kontinuierliche Projektzeiterfassung auch Aufschluss darüber, wie Sie künftige Projekte realistisch planen.
 
@@ -70,7 +70,7 @@ Mit SeaTables intuitivem App-Builder können Sie selbst eineProjektzeiterfassung
 
 In der Projektzeiterfassung App haben wir bereits ein Formular hinzugefügt, das Ihre Teammitglieder durch den Prozess zur Erfassung ihrer Projektzeiten führt. Anschließend erscheinen die eingegebenen Daten sofort in der tabellarischen Übersicht. Dort können Sie übrigens einen speziellen Filter setzen, sodass der aktuelle Nutzer immer nur seine eigenen Projektzeiten angezeigt bekommt.
 
-![](images/image-1739269583766.gif)
+![Projektzeiterfassung App mit Webformular zur Eingabe von Zeiten auf verschiedenen Geräten](images/image-1739269583766.gif)
 
 ## Genauere Abrechnung, mehr Gewinn: Starten Sie jetzt mit der Projektzeiterfassung Vorlage!
 
@@ -78,7 +78,7 @@ Mit dem Seitendesign-Plugin von SeaTable können Sie auf Basis der eingetragenen
 
 Wenn Sie sich im Seitendesign-Plugin durch die Datensätze klicken, können Sie für jeden Kunden eine Rechnung als PDF herunterladen. Die Informationen (Kundenadresse usw.) ändern sich automatisch, sodass Sie für die Abrechnung aller Projekte dieselbe Vorlage verwenden können.
 
-![](images/image-1739269600741.gif)
+![Seitendesign-Plugin erstellt aus Projektzeiten automatisch PDF-Rechnungen für Kunden](images/image-1739269600741.gif)
 
 ## Vorteile der Projektzeiterfassung Vorlage auf einen Blick
 

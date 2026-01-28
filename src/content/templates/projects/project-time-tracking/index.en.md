@@ -28,7 +28,7 @@ In SeaTable, project time tracking is free of charge, just like an Excel templat
 - Precise evaluation with views for projects, employees and customers
 - Quick and easy invoicing
 
-![](images/image-1739273084179.png)
+![Project time tracking overview table with customer, project and hours columns](images/image-1739273084179.png)
 
 ## Tips for your project time recording
 
@@ -48,7 +48,7 @@ We have these tips to help you avoid losing money:
 
 Recording yourproject times is easy with SeaTable. With our project time recording template, you can not only record your project times precisely, but also assign them directly to customers, projects and employees. The hours can bedisplayed, grouped and totaledin different views dependingon the customer, project or employee. This gives you clarity about how time-consuming your projects are and how the workload in the team is developing.
 
-![](images/image-1739272796388.png)
+![Statistics view in SeaTable analyzing project times by customer, project or employee](images/image-1739272796388.png)
 
 For example, is there a customer who is always exceeding the estimated project times with long phone calls and coordination loops? Or is one employee drowning in work while others still have capacity? Use statistics to evaluate how long you are working on which projects and which customer is taking up a particularly large amount of time. Continuous project time tracking also provides you with information on how to realistically plan future projects.
 
@@ -63,7 +63,7 @@ With SeaTable's intuitive app builder, you cancreateyour ownproject time trackin
 
 We have already added a form to the project time recording app that guides your team members through the process of recording their project times. The data entered then appears immediately in the tabular overview. You can also set a special filter there so that the current user only ever sees their own project times.
 
-![](images/image-1739269583766.gif)
+![Project time tracking app with web form to enter hours on different devices](images/image-1739269583766.gif)
 
 ## More accurate billing, more profit: get started now with the project time tracking template!
 
@@ -71,7 +71,7 @@ With the SeaTable page design plugin, you cancreate invoices for your customers 
 
 If you click through the data records in the page design plugin, you can download an invoice as a PDF for each customer. The information (customer address etc.) changes automatically so that you can use the same template for invoicing all projects.
 
-![](images/image-1739269600741.gif)
+![Page design plugin automatically creates PDF invoices for customers from project times](images/image-1739269600741.gif)
 
 ## Advantages of the project time recording template at a glance
 
