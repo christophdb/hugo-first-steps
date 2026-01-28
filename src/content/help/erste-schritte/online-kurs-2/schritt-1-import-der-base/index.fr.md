@@ -50,7 +50,7 @@ Dans le tableau `Courses` vous trouverez toutes les informations importantes sur
 
 Cet aperçu structuré vous permet de garder à tout moment une vue d'ensemble de vos cours et du nombre de participants.
 
-![](images/lvl2-table-courses.png)
+![Table « Courses » avec données de cours, nombre de participants et statut par cours](images/lvl2-table-courses.png)
 
 {{< warning  headline="Les dates sont dans le passé"  text="Vous constaterez que toutes les dates de cours se situent dans le passé. Cela s'explique tout simplement par le fait que nous ne voulions pas actualiser régulièrement ce cours en ligne. Ne tenez donc pas compte de ce fait pour ce cours en ligne." />}}
 
@@ -65,7 +65,7 @@ Dans le tableau `Registrations` permet de saisir toutes les données relatives a
 
 Ce tableau vous donne à tout moment un aperçu clair de l'état actuel des inscriptions et du statut des paiements.
 
-![](images/lvl2-table-registrations.png)
+![Table « Registrations » avec noms, e-mails et cours réservés des participants](images/lvl2-table-registrations.png)
 
 {{< warning  headline="Colonnes cachées"  text="Pour une meilleure vue d'ensemble, deux colonnes ont été masquées. Vous verrez plus tard que nous n'avons de toute façon besoin de ces colonnes que pour le publipostage." />}}
 
@@ -82,7 +82,7 @@ Dans le tableau `Courses` vous trouverez deux colonnes de formules importantes d
 
 `{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` est une colonne auxiliaire qui combine les valeurs des colonnes "Titre" et "Date". La formule utilisée est très simple et se contente d'assembler le titre et la date du cours.
 
-![](images/lvl2-formula-title-date.png)
+![Colonne de formule « Title and Date » combinant titre du cours et date en un affichage unique](images/lvl2-formula-title-date.png)
 
 A première vue, cette colonne semble superflue, car elle ne fait que combiner des données existantes. Mais faites-moi confiance : si nous analysons tout de suite le formulaire d'inscription, vous comprendrez pourquoi cette colonne est extrêmement utile.
 
@@ -90,7 +90,7 @@ A première vue, cette colonne semble superflue, car elle ne fait que combiner d
 
 La colonne de formules `{{< seatable-icon icon="dtable-icon-formula" >}} Status` détermine automatiquement s'il y a encore des places disponibles dans un cours ou si le cours est déjà complet. La logique sous-jacente est relativement simple, mais pourrait également tenir compte de la date de l'événement si elle était utilisée de manière productive.
 
-![](images/lvl2-formula-status.png)
+![Colonne de formule « Status » calculant automatiquement places libres ou complet pour chaque cours](images/lvl2-formula-status.png)
 
 {{< warning  headline="L'utilité des colonnes de formules"  text="Les colonnes de formules jouent un rôle central dans le développement de bases performantes dans SeaTable. Elles servent à relier des informations ou à définir certains états. La pleine utilité de ces colonnes n'apparaît souvent que lorsqu'on travaille avec d'autres fonctions." />}}
 
@@ -102,7 +102,7 @@ Cette vue est verrouillée pour empêcher toute modification {{< seatable-icon i
 
 Si nous examinons tout de suite le formulaire d'inscription de plus près, nous verrons pourquoi cette vue est si utile.
 
-![](images/lvl2-link-column-limit-to-view.png)
+![Paramètres de la colonne de lien « Registered for » limitée à la vue « Available Courses »](images/lvl2-link-column-limit-to-view.png)
 
 ### Marquage en couleur des lignes et des colonnes
 

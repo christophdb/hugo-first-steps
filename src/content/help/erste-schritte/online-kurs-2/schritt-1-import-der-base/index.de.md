@@ -48,7 +48,7 @@ In der Tabelle `Courses` finden Sie alle wichtigen Informationen zu Ihren Angebo
 
 Diese strukturierte Übersicht ermöglicht es Ihnen, jederzeit den Überblick über Ihre Kurse und Teilnehmerzahlen zu behalten.
 
-![](images/lvl2-table-courses.png)
+![Tabelle „Courses“ mit Kursdaten, Teilnehmerzahl und Status pro Kurs](images/lvl2-table-courses.png)
 
 {{< warning  headline="Termine liegen in der Vergangenheit"  text="Sie werden feststellen, dass alle Kurstermine in der Vergangenheit liegen. Dies lässt sich ganz einfach damit begründen, dass wir diesen Onlinekurs nicht regelmäßig aktualisieren wollten. Ignorieren Sie somit diese Tatsache für diesen Online-Kurs." />}}
 
@@ -63,7 +63,7 @@ In der Tabelle `Registrations` werden alle Daten zu den Personen erfasst, die si
 
 Diese Tabelle gibt Ihnen jederzeit einen klaren Überblick über den aktuellen Anmeldestand und den Status der Zahlungen.
 
-![](images/lvl2-table-registrations.png)
+![Tabelle „Registrations“ mit Namen, E-Mail und gebuchten Kursen der Teilnehmer](images/lvl2-table-registrations.png)
 
 {{< warning  headline="Ausgeblendete Spalten"  text="Für eine bessere Übersichtlichkeit wurden zwei Spalten ausgeblendet. Sie werden später sehen, dass wir diese Spalten sowieso nur für den Seriendruck benötigen." />}}
 
@@ -80,7 +80,7 @@ In der Tabelle `Courses` finden Sie zwei wichtige Formelspalten, deren Nutzen ic
 
 `{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` ist eine Hilfsspalte, die die Werte aus den Spalten „Title“ und „Date“ miteinander verknüpft. Die verwendete Formel ist sehr einfach und fügt lediglich den Kurstitel und das Kursdatum zusammen.
 
-![](images/lvl2-formula-title-date.png)
+![Formelspalte „Title and Date“, die Kurstitel und Datum zu einer Anzeige kombiniert](images/lvl2-formula-title-date.png)
 
 Auf den ersten Blick scheint diese Spalte überflüssig zu sein, da sie nur vorhandene Daten kombiniert. Aber vertrauen Sie mir: Wenn wir gleich das Anmeldeformular analysieren, werden Sie verstehen, warum diese Spalte äußerst nützlich ist.
 
@@ -88,7 +88,7 @@ Auf den ersten Blick scheint diese Spalte überflüssig zu sein, da sie nur vorh
 
 Die Formelspalte `{{< seatable-icon icon="dtable-icon-formula" >}} Status` ermittelt automatisch, ob in einem Kurs noch Plätze verfügbar sind oder ob der Kurs bereits ausgebucht ist. Die Logik dahinter ist relativ simpel, könnte jedoch bei einem produktiven Einsatz auch das Veranstaltungsdatum berücksichtigen.
 
-![](images/lvl2-formula-status.png)
+![Formelspalte „Status“, die automatisch freie Plätze oder Ausgebucht für jeden Kurs berechnet](images/lvl2-formula-status.png)
 
 {{< warning  headline="Der Nutzen von Formelspalten"  text="Formelspalten spielen eine zentrale Rolle bei der Entwicklung leistungsfähiger Bases in SeaTable. Sie dienen dazu, Informationen zu verknüpfen oder bestimmte Zustände zu definieren. Der volle Nutzen dieser Spalten zeigt sich oft erst bei der Arbeit mit anderen Funktionen." />}}
 
@@ -100,7 +100,7 @@ Diese Ansicht ist gegen weitere Bearbeitung gesperrt {{< seatable-icon icon="dta
 
 Wenn wir uns gleich das Anmeldeformular genauer anschauen, wird deutlich, warum diese Ansicht so hilfreich ist.
 
-![](images/lvl2-link-column-limit-to-view.png)
+![Einstellungen der Link-Spalte „Registered for“, begrenzt auf Ansicht „Available Courses“](images/lvl2-link-column-limit-to-view.png)
 
 ### Farbige Markierung von Zeilen und Spalten
 
