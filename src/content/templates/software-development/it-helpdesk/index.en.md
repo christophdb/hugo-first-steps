@@ -17,7 +17,7 @@ A ticketing system in SeaTable helps you to record, organize and resolve all sup
 
 The central table of the helpdesk software records all incoming requests via a customizableweb form.
 
-![](images/image-1743602701710.png)
+![IT ticket web form with fields for contact and issue details](images/image-1743602701710.png)
 
 You can assign important information such asstatus,priorityand aresponsible personto each entry. Thanks to automatic assignment to your team members according to previously defined responsibilities and a simple status change from "open" to "in progress" to "completed", you always have an overview.
 
@@ -45,7 +45,7 @@ Statistics: Visualize your ticket data and analyse important KPIs such as progre
 
 Theintegrated appof the helpdesk software offers even more. A clear and intuitive interface allows you to create acustomized dashboardthat you can tailor to your needs with little effort. New tickets can be created with just a few clicks using the web form and relevant information can be researched directly in theknowledge base. The clear Kanban view filters the tickets depending on the user, so that only thetickets relevant to youare visible on your board. You can also individually setwho can see and edit which datato protect your tickets from unauthorized access.
 
-![](images/image-1743602924380.png)
+![IT helpdesk app dashboard with tickets, key metrics and Kanban view](images/image-1743602924380.png)
 
 ## Advantages of SeaTable as helpdesk software
 

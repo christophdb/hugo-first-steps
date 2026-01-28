@@ -17,7 +17,7 @@ Ein Ticketing System in SeaTable hilft Ihnen dabei, alle Support-Anfragen zentra
 
 Die zentrale Tabelle der Helpdesk Software erfasst alle eingehenden Anfragen über ein individuell anpassbaresWebformular.
 
-![Beispiel für ein Ticketformular von SeaTable](images/image-1743602701710.png)
+![Webformular für IT-Tickets mit Feldern für Kontakt- und Problemdaten](images/image-1743602701710.png)
 
 Jedem Eintrag können Sie wichtige Informationen wieStatus,Prioritätund eineverantwortliche Personzuweisen. Dank automatischer Zuweisung an Ihre Teammitglieder nach vorher definierten Zuständigkeiten und einer einfachen Statusänderung von "offen" über "in Bearbeitung" bis hin zu "erledigt" behalten Sie stets den Überblick.
 
@@ -45,7 +45,7 @@ Statistiken: Visualisieren Sie Ihre Ticket-Daten und analysieren Sie wichtige KP
 
 Noch mehr bietet dieintegrierte Appder Helpdesk Software. Eine übersichtliche und intuitive Oberfläche ermöglicht Ihnen einindividuelles Dashboard, das Sie mit wenig Aufwand ganz auf Ihre Bedürfnisse zuschneiden können. Neue Tickets lassen sich mit wenigen Klicks per Webformular erstellen und relevante Informationen können Sie direkt in derKnowledge Baserecherchieren. Die übersichtliche Kanban-Ansicht filtert hier je nach Anwender die Tickets, sodass nur diefür Sie relevanten Ticketsauf Ihrem Board zu sehen sind. Sie können außerdem individuell einstellen,wer welche Daten sehen und bearbeiten darf, um Ihre Tickets vor unberechtigten Zugriffen zu schützen.
 
-![Dashboard SeaTable IT Help-Desk](images/image-1743602924380.png)
+![Dashboard der IT-Helpdesk-App mit Tickets, Kennzahlen und Kanban-Ansicht](images/image-1743602924380.png)
 
 ## Vorteile von SeaTable als Helpdesk Software
 
