@@ -32,7 +32,7 @@ A tarefa mais demorada e entediante para os empresários é frequentemente afatu
 
 Se nunca teve de redigir uma fatura antes, provavelmente não sabe por onde começar. Neste caso, o nosso modelo de fatura irá ajudá-lo imenso, uma vez que já contém todos os elementos de que necessita para criar uma fatura correta.
 
-![](images/image-1740150545889.png)
+![Vista de tabela de faturas com informações de clientes, itens e valores](images/image-1740150545889.png)
 
 As seguintes informações obrigatórias não devem faltar em nenhum modelo de fatura:
 
@@ -56,7 +56,7 @@ As seguintes informações obrigatórias não devem faltar em nenhum modelo de f
 
     10.Osseusdados bancários, o seu númerode IVAe outros dados relevantes da empresa devem ser incluídos no cabeçalho do seu modelo de fatura.
 
-![](images/image-1740153573350.gif)
+![Editor de design de página mostrando modelo de fatura formatado com logótipo e lista de itens](images/image-1740153573350.gif)
 
 ## As várias funções deste modelo de fatura
 
@@ -74,7 +74,7 @@ As seguintes informações obrigatórias não devem faltar em nenhum modelo de f
 
 Com o modelo de faturação do SeaTable, criar e gerir facturas é uma brincadeira de crianças. O modelo para a sua fatura ajuda-o a organizar claramenteos produtos,os clienteseas encomendas, a criar automaticamente uma fatura e a guardá-la em PDF, pronta para ser enviada.
 
-![](images/image-1740154500265.gif)
+![Fluxo de trabalho no SeaTable: criar fatura automaticamente, guardar em PDF e enviar por e-mail](images/image-1740154500265.gif)
 
 Graças aligaçõesinteligentes, o modelo de fatura é alimentado com dados relevantes de várias tabelas: As informações sobre o cliente, os artigos da encomenda e os preços são integrados sem problemas, enquantoas fórmulascalculam automaticamente os descontos e o IVA. Isto significa que tanto as grandes empresas como as pequenas empresas podem utilizar o modelo de fatura para manter uma visão geral em qualquer altura e poupar tempo valioso.
 

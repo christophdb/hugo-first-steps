@@ -32,7 +32,7 @@ Die zeitraubendste und lästigste Aufgabe für Unternehmer ist oft dieRechnungss
 
 Wenn Sie noch nie eine Rechnung schreiben mussten, wissen Sie wahrscheinlich gar nicht, wo Sie anfangen sollen. In diesem Fall hilft Ihnen unsere Vorlage für Ihre Rechnung enorm weiter, denn sie enthält bereits alle Bestandteile für eine korrekte Rechnungserstellung.
 
-![](images/image-1740150545889.png)
+![Tabellenübersicht für Rechnungen mit Kunden-, Positions- und Betragsangaben](images/image-1740150545889.png)
 
 Folgende Pflichtangaben sollten in keiner Rechnungsvorlage fehlen:
 
@@ -56,7 +56,7 @@ Folgende Pflichtangaben sollten in keiner Rechnungsvorlage fehlen:
 
 10. Im Brieffuß Ihrer Rechnungsvorlage sollten IhreBankverbindung, IhreUmsatzsteuer-IDund andere relevante Firmendaten Platz finden.
 
-![](images/image-1740153573350.gif)
+![Seitendesign-Editor, der eine formatierte Rechnungsvorlage mit Logo und Positionsliste zeigt](images/image-1740153573350.gif)
 
 ## Die vielfältigen Funktionen dieser Rechnungsvorlage
 
@@ -74,7 +74,7 @@ Folgende Pflichtangaben sollten in keiner Rechnungsvorlage fehlen:
 
 Mit der Rechnung schreiben Vorlage von SeaTable wird die Rechnungserstellung und -verwaltung zum Kinderspiel. Die Vorlage für Ihre Rechnung hilft IhnenProdukte,KundenundBestellungenübersichtlich zu organisieren, automatisch eine Rechnung zu erstellen und als PDF versandfertig zu speichern.
 
-![](images/image-1740154500265.gif)
+![Workflow in SeaTable: Rechnung automatisch erstellen, als PDF speichern und per E-Mail senden](images/image-1740154500265.gif)
 
 Dank intelligenterVerknüpfungenspeist sich die Rechnungsvorlage aus relevanten Daten von verschiedenen Tabellen: Kundeninformationen, Bestellpositionen und Preise fließen nahtlos zusammen, währendFormelnautomatisch Rabatte und Mehrwertsteuern berechnen. So behalten Großunternehmen wie Kleinunternehmer mit der Rechnungsvorlage stets den Überblick und sparen wertvolle Zeit.
 
