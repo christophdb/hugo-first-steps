@@ -10,7 +10,7 @@ url: '/de/digitale-verwaltung'
 sections:
     - name: hero-5
       weight: 1
-      title: igitale Verwaltung mit intelligenter KI-Unterstützung
+      title: Digitale Verwaltung mit intelligenter KI-Unterstützung
       subtitle: Die No-Code Lösung für die Digitalisierung des öffentlichen Sektors
       text: Die Digitalisierung der Verwaltung erreicht das nächste Level. SeaTable kombiniert **flexible No-Code-Strukturen mit leistungsstarker KI**, um Prozesse nicht nur zu digitalisieren, sondern intelligent zu automatisieren. DSGVO-konform, sicher und wahlweise in der Cloud oder auf dem eigenen Server.
       classes:
@@ -56,7 +56,7 @@ sections:
             text: 'Digitalisieren Sie die Finanzplanung und -verwaltung und nutzen Sie KI-gestützte Prognosen für eine effizientere Haushaltsplanung.'
           - icon: ghost
             headline: Personalmanagement
-            text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten. Automatisieren Sie die KI-gestützte Erstellung von Zeugnisentwürfen oder Stellenbeschreibungen direkt in der Base
+            text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten. Automatisieren Sie die KI-gestützte Erstellung von Zeugnisentwürfen oder Stellenbeschreibungen direkt in der Base.
           - icon: check
             headline: Projektmanagement
             text: Steuern Sie Projekte effizient und transparent mit automatisierten Prozessen und Echtzeit-Kollaboration.
