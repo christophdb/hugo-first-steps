@@ -1,9 +1,9 @@
 ---
-title: 'Mentions-legales'
+title: 'Mentions légales'
 description: ''
 seo:
     title: 'Mentions légales SeaTable GmbH: informations officielles'
-    description: 'Informations légales et contacts officiels pour SeaTable GmbH, conformité RGPD et TMG.'
+    description: 'Mentions légales et contacts officiels pour SeaTable GmbH, conformité RGPD et TMG.'
 date: 2025-03-24
 type: 'legal'
 url: '/fr/mentions-legales'
@@ -13,8 +13,8 @@ aliases:
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Cette impression n'est disponible qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
-Le **[original allemand]({{< relref path="pages/legal/imprint" lang="de" >}})** est légalement contraignant.
+Les mentions légales sont disponible uniquement qu'en anglais et en allemand. La version anglaise est une traduction de commodité non contraignante.
+La **[version originale allemande]({{< relref path="pages/legal/imprint" lang="de" >}})** est légalement contraignante.
 
 {{< /alert >}}
 
@@ -40,7 +40,7 @@ Dr. Ralf Dyllick-Brenzinger
 Telefon: +49 6131 26550  
 E-Mail: info@seatable.com
 
-Responsible for the content according to paragraph 55 RStV
+Responsible for the content according to paragraph 55 RStV:
 
 Dr. Ralf Dyllick-Brenzinger  
 117er Ehrenhof 5  
