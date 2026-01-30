@@ -9,7 +9,7 @@ url: '/no-code-myths'
 aliases:
     - '/no-code-mythen'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 categories:
     - 'low-code-no-code'
 color: '#e98c7f'

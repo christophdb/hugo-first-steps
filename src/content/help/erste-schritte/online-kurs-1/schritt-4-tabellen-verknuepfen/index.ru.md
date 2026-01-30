@@ -36,21 +36,21 @@ seo:
     - `Groceries`
     - `Leisure`
 
-    ![](images/level1-categories.png)
+    ![Таблица «Categories» с четырьмя категориями: Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
 4. Переключитесь обратно на стол `Expenses`.
 
 5. Вставьте еще один столбец. Дайте новому столбцу имя `Category-Link` и выберите тип столбца `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` выключено. Колонка ссылается на таблицу `Categories`.  
-   ![](images/level1-create-link-column.png)
+   ![Диалог создания столбца связи «Category-Link» с таблицей «Categories»](images/level1-create-link-column.png)
 
 ## Связывание строк между двумя таблицами
 
 Теперь у вас есть две возможности связать записи данных в обеих таблицах:
 
 1. Вы можете назначить запись в `Expenses` Выберите строку из таблицы вручную `Categories` щелкнув в ячейке на {{< key "+" >}} а затем выберите соответствующую категорию. Это быстро становится утомительным и приводит к ошибкам при работе с большими объемами данных.  
-   ![](images/level1-link-rows.png)
+   ![Ручная связь строки расхода с категорией через значок «плюс»](images/level1-link-rows.png)
 2. В качестве альтернативы вы можете использовать [Варианты обработки данных]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) SeaTable для автоматизации установки связей.  
-   ![](images/level1-data-operation.png)
+   ![Меню «Data Processing» с выбором операции обработки данных в таблице](images/level1-data-operation.png)
 
 ### Связывание ячеек с помощью операции обработки данных
 
@@ -63,7 +63,7 @@ seo:
 - Если колонка: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Колонна: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
-![](images/level1-auto-add-link.png)
+![Операция обработки «Assign Category» типа «Auto add link» с настроенными полями](images/level1-auto-add-link.png)
 
 Нажмите на кнопку Выполнить, чтобы выполнить операцию. Вы увидите, что все строки в таблице `Expenses` со строкой из таблицы `Categories` были связаны.
 

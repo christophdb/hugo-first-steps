@@ -11,15 +11,15 @@ sections:
     - name: hero-5
       weight: 1
       title: 'A solução mais flexível para a sua gestão de clientes'
-      text: Organize a sua gestão de clientes online exatamente de acordo com as suas ideias e necessidades. Quer se trate de seguimento de leads, pipeline de vendas, bilhetes de apoio ou gestão de contratos – com o SeaTable define a forma como os seus dados são organizados.
+      text: Organize a sua gestão de clientes online exatamente de acordo com as suas visões e necessidades – agora com funções de IA integradas para análise, automatização e enriquecimento de dados. Seja acompanhamento de leads, pipeline de vendas, tickets de suporte ou gestão de contratos – com o SeaTable, você define como os seus dados são organizados e avaliados de forma inteligente com a ajuda da IA.
       classes:
           - bg-white
       template: e88ee7aedd00470e9310
       buttons:
-          - label: Registe-se agora gratuitamente e comece a trabalhar
+          - label: Registe-se gratuitamente e comece já
             link: 'pages/registration'
             style: primary
-          - label: Conheça as funções
+          - label: Conheça as funcionalidades
             link: pages/functions
 
     - name: content-12
@@ -28,70 +28,70 @@ sections:
         - curved
         - bg-seatable-blue
       title: "SeaTable para a sua gestão de clientes"
-      subtitle: A plataforma escalável sem código
-      description: O SeaTable é tão flexível como uma folha de cálculo e tão poderoso como uma base de dados. Isto permite-lhe manter um registo de todas as interações com os clientes, automatizar processos e analisar os seus dados de forma inteligente.
+      subtitle: A plataforma No-Code de IA escalável
+      description: O SeaTable é tão flexível como uma folha de cálculo e tão potente como uma base de dados. Assim, mantém o controlo de todas as interações com os clientes, pode automatizar processos com automações No-Code e regras de IA, e analisar os seus dados de forma inteligente com funções baseadas em IA, como classificação, extração e análise de texto.
       items:
         - text: Trabalho colaborativo em tempo real 
         - text: Estruturas de dados e processos personalizáveis individualmente
-        - text: Criador de aplicações sem código para um front end fácil de utilizar
-        - text: Notificações e automatizações integradas
-        - text: Fácil integração com outras ferramentas
-        - text: Como uma solução na nuvem ou no local
-        - text: 100% compatível com o RGPD com servidores na Alemanha
+        - text: App-Builder No-Code para um frontend intuitivo
+        - text: Notificações, automatizações e ações de IA integradas nos fluxos de trabalho
+        - text: Integração fácil com outras ferramentas
+        - text: Disponível como solução Cloud ou On-Premises
+        - text: 100% em conformidade com o RGPD com servidores na Alemanha – também para processamento de IA
       image: /images/landing-page-kundenmanagement-2.png
-      image_alt: 'Interface do SeaTable para gestão flexível de clientes com contactos e atividades'
+      image_alt: 'Interface do SeaTable para gestão de clientes flexível e apoiada por IA com contactos e atividades'
 
     - name: content-11
       weight: 3
-      title: Gestão flexível dos contactos com os clientes
+      title: Flexibilidade na gestão de contactos com clientes
       subtitle: Para uma maior satisfação do cliente
       items:
-      - text: Com o SeaTable, pode organizar os dados dos seus clientes da forma que melhor se adequa à sua empresa. Não pode armazenar apenas dados de contacto, mas também notas, documentos, interações anteriores e actualizações de estado numa localização central. Ao associar-se a uma conta de correio eletrónico, as mensagens podem ser enviadas direta e automaticamente a partir do SeaTable.
+      - text: Com o SeaTable, pode organizar os dados dos seus clientes da forma que melhor se adapta à sua empresa. Guarde não apenas dados de contacto, mas também notas, documentos, interações passadas e atualizações de status num local centralizado. Com o apoio da IA integrada, pode classificar conteúdos automaticamente, gerar resumos e extrair informações importantes de e-mails ou documentos. Ao associar uma conta de e-mail, as mensagens podem ser enviadas de forma automatizada diretamente do SeaTable e, se necessário, pré-redigidas ou analisadas pela IA.
       image: /images/landing-page-kundenmanagement-verwaltung.jpg
-      image_alt: 'Vista do SeaTable para gerir dados de clientes, notas e interações'
+      image_alt: 'Vista do SeaTable para a gestão de dados de clientes, notas, interações e avaliações de IA'
      
     - name: content-11
       weight: 4
-      title: Automatização das vendas
-      subtitle: Acompanhamento do pipeline de vendas e das cotações
+      title: Automatização de vendas
+      subtitle: Sales Pipeline e acompanhamento de propostas
       items:
-      - text: Mantenha uma visão geral constante dos seus processos de vendas e aumente a sua taxa de fecho. Com o SeaTable, pode visualizar o progresso de leads e orçamentos numa visão geral clara. Na vista Kanban, pode ver imediatamente em que fase se encontra cada lead e pode reagir rapidamente às alterações. Crie lembretes automáticos para acompanhamento. Defina as fases do processo de vendas de acordo com as suas necessidades, seja para a geração de leads, a fase de cotação ou a conclusão do contrato.
+      - text: Mantenha sempre o controlo sobre os seus processos de venda e aumente a sua taxa de fecho. Com o SeaTable, **visualiza o progresso de leads** e propostas numa visão clara. Assim, na visualização Kanban, vê imediatamente em que fase se encontra cada lead e pode reagir rapidamente a mudanças. As [automações de IA]({{< relref "posts/ai-powered-automations" >}}) ajudam-no a avaliar leads por potencial, a pré-redigir textos para propostas e a sugerir inteligentemente os próximos passos. Crie lembretes automáticos para follow-ups. Defina as fases do processo de venda de acordo com as suas necessidades, seja para a geração de leads, fase de proposta ou fecho de contrato – apoiado por [fuxos de trabalho baseados em IA]({{< relref "pages/industry-solutions/individual" >}}).
       image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
-      image_alt: 'Pipeline de vendas do SeaTable a visualizar leads e negócios num quadro Kanban'
+      image_alt: 'Pipeline de vendas do SeaTable para visualizar leads e propostas em Kanban com suporte de IA'
       image_position: left
 
     - name: "banner-2"
       weight: 7
-      title: O SeaTable está pronto a ser utilizado com apenas alguns cliques 
+      title: O SeaTable está pronto a utilizar em poucos cliques 
       buttons:
-           - label: Registe-se agora gratuitamente e comece a trabalhar
+           - label: Registe-se gratuitamente e comece já
              link: pages/registration
              id:   
 
     - name: content-11
       weight: 9
-      title: Gestão bem sucedida das relações com os clientes
-      subtitle: Automatizações para mais tempo e transparência
+      title: Gestão de Relacionamento com o Cliente de sucesso
+      subtitle: Automatizações e IA para ganhar tempo e transparência
       items:
-      - text: "Com as automatizações integradas no SeaTable, pode não só configurar notificações simples, mas também criar fluxos de trabalho complexos que ligam vários departamentos ou ferramentas. Por exemplo, quando chega uma nova oportunidade, o sistema envia automaticamente e-mails de acompanhamento ou notifica a sua equipa de que a oportunidade está pronta para a fase seguinte. Isto poupa-lhe tempo e garante a máxima transparência."
+      - text: 'Com as automatizações integradas do SeaTable, pode não só configurar notificações simples, mas também **criar fluxos de trabalho complexos** que ligam vários departamentos ou ferramentas. Por exemplo, se entrar um novo lead, o sistema envia automaticamente e-mails de follow-up ou notifica a sua equipa de que o lead está pronto para a próxima fase. Passos de IA dentro da automatização analisam textos, enriquecem conjuntos de dados ou classificam pedidos automaticamente, para que a sua equipa se possa focar nas tarefas realmente importantes. Assim, poupa tempo e garante a máxima transparência.'
       image: /images/landing-page-kundenmanagement-automatisierung.jpg
-      image_alt: 'Automatizações do SeaTable para fluxos de trabalho de CRM com notificações e tarefas'
+      image_alt: 'Automatizações e passos de IA do SeaTable para fluxos de trabalho de CRM com notificações e tarefas'
       image_position: left
 
     - name: content-11
       weight: 5
-      title: Reforce a satisfação e a lealdade dos clientes
-      subtitle: Gestão do apoio ao cliente
+      title: Reforçar a satisfação e fidelização do cliente
+      subtitle: Gestão de Suporte ao Cliente
       items:
-      - text: Com o SeaTable, pode otimizar a gestão dos contactos com os clientes e processar os pedidos de informação de forma rápida e eficaz. O sistema de bilhetes ajuda-o a acompanhar todos os pedidos e a responder rapidamente. Com o acompanhamento do SLA, pode garantir que responde sempre dentro dos prazos acordados. O seu pessoal de apoio tem sempre à mão os dados relevantes do cliente e pode, portanto, oferecer soluções rápidas e eficientes - e assim reforçar a fidelidade do cliente.
+      - text: 'Com o SeaTable, otimiza a sua gestão de contacto com os clientes e pode **processar pedidos de forma rápida e eficiente**. O sistema de tickets ajuda-o a manter cada questão sob controlo e a reagir prontamente. Com o rastreio de SLA, garante que responde sempre dentro dos prazos acordados. As funções de IA apoiam-no na classificação automática de pedidos de suporte, na extração de informações relevantes de textos longos e na geração de sugestões de resposta – permitindo que os seus colaboradores de suporte ofereçam soluções adequadas ainda mais rápido.'
       image: /images/landing-page-kundenmanagement-ticketing.jpg
-      image_alt: 'Sistema de tickets do SeaTable para tratar pedidos de suporte e SLAs'
+      image_alt: 'Sistema de tickets do SeaTable para processamento de pedidos de suporte, SLAs e classificação apoiada por IA'
       
     - name: 'content-10'
       weight: 10
-      title: 'Sistema CRM com API potente'
-      subtitle: 'Integrações padrão'
-      description: "A integração perfeita de várias ferramentas e fluxos de trabalho automatizados na sua organização de gestão de clientes é crucial. Graças à API flexível do SeaTable e à integração perfeita com terceiros, isto já não é um obstáculo para si."
+      title: 'Sistema de CRM com API potente'
+      subtitle: 'Integrações Padrão'
+      description: A integração perfeita de várias ferramentas e fluxos de trabalho automatizados na sua organização de gestão de clientes é decisiva. Graças à **API flexível do SeaTable e à integração fluida de terceiros**, bem como ao novo componente de IA, pode integrar tanto ferramentas clássicas como modelos de IA externos através de interfaces compatíveis com OpenAI – de acordo com os seus requisitos.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -100,103 +100,103 @@ sections:
 
     - name: 'content-4'
       weight: 6 
-      title: O SeaTable é a melhor escolha para o seu sistema CRM
-      subtitle: 'Organização de gestão de clientes personalizável individualmente' 
-      text: Com o SeaTable, beneficia da liberdade de personalizar o sistema sem qualquer código. Graças à interface de fácil utilização, pode implementar rapidamente alterações na administração dos seus clientes e adicionar funções conforme necessário.
+      title: 'SeaTable é a melhor escolha para o seu sistema de CRM'
+      subtitle: 'Organização de gestão de clientes personalizável e apoiada por IA' 
+      text: 'Com o SeaTable, beneficia da liberdade de **projetar o sistema totalmente sem código, de acordo com as suas ideias.** Graças à interface intuitiva, pode implementar alterações na sua administração de clientes rapidamente, integrar passos de IA nos seus processos e adicionar funcionalidades conforme necessário.'
       items:
-        - headline: "Trabalho em colaboração"
-          text: Colabore com colegas em tempo real, comente entradas e partilhe dados de forma segura.
+        - headline: 'Trabalho Colaborativo'
+          text: 'Trabalhe com colegas em tempo real, comente entradas e partilhe dados de forma segura.'
           icon: people-group
         - headline: Controlo total sobre os seus dados
-          text: Alojamento na nuvem ou no local - você decide onde os seus dados são armazenados.
+          text: Alojamento em Cloud ou On-Premise – você decide onde os seus dados são armazenados e como os modelos de IA são ligados.
           icon: terminal
-        - headline: Tabela, Kanban e muito mais. 
-          text: "Estruture os seus dados conforme as suas necessidades, por exemplo, como uma tabela clássica, um calendário ou um quadro Kanban."
+        - headline: Tabela, Kanban, e muito mais 
+          text: "Estruture os seus dados como precisar, por exemplo, como tabela clássica, calendário ou quadro Kanban – incluindo avaliações apoiadas por IA em todas as visualizações."
           icon: list
-        - headline: "Máxima flexibilidade"
-          text: Você decide como os seus dados são estruturados – não há nenhum sistema rígido que lhe imponha limites.
+        - headline: 'Máxima Flexibilidade'
+          text: 'Você decide como os seus dados são estruturados – sem sistemas rígidos que lhe imponham limites.'
           icon: expand
         - headline: 'Integração rápida sem TI'
-          text: "Basta registar-se e começar a utilizar: O SeaTable Cloud está pronto a ser utilizado imediatamente."
+          text: 'Basta registar-se e começar: O SeaTable Cloud está pronto a usar imediatamente, incluindo funções de IA pré-configuradas nas versões mais recentes.'
           icon: code  
-        - headline: 'Estatísticas e painéis de controlo'
-          text: No SeaTable, tem sempre uma visão geral de todos os dados e pode criar dashboards e relatórios diretamente. 
+        - headline: 'Estatísticas e Dashboards'
+          text: No SeaTable, tem todos os dados sempre à vista e pode criar diretamente dashboards e relatórios – opcionalmente com avaliações baseadas em IA e resumos de texto.
           icon: chart-line
     
     - name: 'content-3'
       weight: 13
-      title: Funções abrangentes em todos os modelos de preço
-      subtitle: Nuvem ou auto-hospedado?
+      title: Funcionalidades abrangentes em todos os modelos de preços
+      subtitle: Cloud ou self-hosted?
       description: ''
       items:
           - headline: SeaTable Cloud
-            text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI extensa - flexível e escalável.
+            text: Perfeito para empresas que querem começar rapidamente e sem uma infraestrutura de TI complexa – flexível, escalável e com funções de IA fornecidas na nuvem para automatização e análise de dados.
             image: /images/template-projektplan.png
-            image_alt: 'Modelo de plano de projeto no SeaTable Cloud para projetos focados no cliente'
+            image_alt: 'Modelo de plano de projeto SeaTable Cloud para projetos de clientes'
           - headline: SeaTable Server
-            text: Para as empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção no local.
+            text: Para empresas que pretendem manter o controlo total sobre os seus dados, o SeaTable Server oferece uma opção On-Premises, onde também podem ser integrados modelos de IA próprios através do componente SeaTable AI.
             image: /images/template-massnahmenplan.jpg
-            image_alt: 'Modelo de plano de ações no SeaTable Server para gerir projetos de clientes'
+            image_alt: 'Modelo de plano de ação SeaTable Server para gestão de projetos de clientes'
           - headline: SeaTable Dedicated
-            text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-hospedado.  
+            text: Para empresas que necessitam da simplicidade da nuvem e da flexibilidade de um sistema auto-alojado – incluindo recursos de IA dedicados e configuração individual de modelos.
             image: /images/asana-dedicated.jpg
             image_alt: 'Ambiente SeaTable Dedicated para gestão de clientes escalável na empresa'
 
     - name: 'content-8'
       weight: 8
       title: Teste os nossos modelos gratuitos
-      subtitle: Modelos de gestão de clientes para todos os casos de utilização
-      description: O SeaTable oferece vários modelos gratuitos para o ajudar a começar. Importe modelos para a sua conta SeaTable com apenas um clique.
+      subtitle: Modelos de gestão de clientes para cada caso de uso
+      description: 'O SeaTable oferece inúmeros modelos gratuitos que facilitam o início. Importe modelos com apenas um clique para a sua conta SeaTable e amplie-os, se necessário, com passos de IA para análise, classificação ou geração de texto.'
       items:
-          - text: "CRM: Gestão de clientes"
+          - text: "CRM: Gestão de Clientes"
             image: /images/landing-page-kundenmanagement-crm.jpg
-            image_alt: "Modelo CRM do SeaTable para gestão de clientes com contactos e pipeline"
-          - text: Escreva a oferta
+            image_alt: "Modelo de CRM SeaTable para gestão de clientes com contactos e pipeline"
+          - text: Elaborar Proposta
             image: /images/landing-page-kundenmanagement-quote.jpg
             image_alt: "Modelo do SeaTable para criação e acompanhamento de propostas"
-          - text: Integração do cliente
+          - text: Onboarding de Clientes
             image: /images/landing-page-kundenmanagement-kunden-onboarding.jpg
             image_alt: "Modelo do SeaTable para onboarding estruturado de clientes com lista de tarefas"
       buttons:
-        - label: Descubra todos os modelos
+        - label: Descobrir todos os modelos
           link: "templates"
 
     - name: "content-4"
       weight: 12
-      title: SeaTable é o software de gestão de clientes compatível com o RGPD
-      subtitle: Gestão estratégica de clientes online
-      text: "A proteção de dados deve ser uma prioridade, especialmente quando se trata de dados de clientes. O SeaTable está alojado exclusivamente em servidores na Alemanha e está 100% em conformidade com o RGPD. Assim, combinamos os mais elevados padrões de proteção de dados sensíveis e o cumprimento dos regulamentos de proteção de dados com processos de trabalho transparentes e flexíveis."
+      title: SeaTable é o software de gestão de clientes em conformidade com o RGPD
+      subtitle: Gestão estratégica de clientes online apoiada por IA
+      text: 'Especialmente ao lidar com dados de clientes, a proteção de dados deve ser prioridade. A [plataforma sem código]({{< relref "/" >}}) é alojada exclusivamente em servidores na Alemanha e é **100% em conformidade com o RGPD** – mesmo ao utilizar as funções de IA integradas. Unimos as mais elevadas exigências de proteção de dados sensíveis ao uso seguro de IA moderna com processos de trabalho transparentes.'
       items:
-      - icon: terminal
-        headline: Soluções no local para um controlo total dos dados
-        text: "Se pretender operar um sistema de CRM auto-hospedado, o SeaTable Server oferece a mesma gama de funções que a versão em nuvem – e mantém o controlo total sobre os seus dados."
-      - icon: user-plus
-        headline: Definições de segurança definidas pelo utilizador
-        text: "Defina direitos de acesso e de edição individuais e restrinja o acesso a dados sensíveis."
-      - icon: fingerprint
-        headline: Autenticação e início de sessão único
-        text: "O SeaTable suporta todas as técnicas de autenticação comuns e permite a autenticação de dois factores e o SSO em todos os modelos de subscrição."
+          - icon: terminal
+            headline: Soluções On-Premises para controlo total de dados
+            text: "Quem deseja operar um sistema de CRM self-hosted, tem com o SeaTable Server as mesmas funcionalidades da versão Cloud – mantendo a soberania total sobre os seus dados."
+          - icon: user-plus
+            headline: Definições de segurança personalizadas
+            text: "Configure direitos de acesso e edição individuais e restrinja o acesso a dados sensíveis."
+          - icon: fingerprint
+            headline: Autenticação e Single-Sign-On
+            text: "O SeaTable suporta todas as técnicas de autenticação comuns, permitindo 2FA e SSO em todos os modelos de subscrição – mesmo com o módulo de IA ativado."
 
     - name: "banner-2"
       weight: 14
-      title: Gestão de clientes facilitada - com o SeaTable
+      title: Gestão de clientes de forma simples – com SeaTable
       buttons:
-           - label: Registe-se agora e comece já a trabalhar
+           - label: Registe-se agora e comece imediatamente
              link: pages/registration
              id: 
 
     - name: faq
       weight: 15
-      title: FAQ - Gestão de clientes com SeaTable
+      title: FAQ – Gestão de clientes com SeaTable
       items:
-          - q: Porque é que uma gestão eficiente dos clientes é importante?
-            a: Uma boa gestão de clientes é a chave para a fidelização dos clientes a longo prazo. No entanto, muitas empresas debatem-se com listas de Excel confusas, software de CRM complicado ou dados de clientes dispersos. Os sistemas de CRM tradicionais restringem-no com estruturas rígidas que dificultam a conceção eficiente dos seus processos. Isto leva a tarefas de gestão de clientes desnecessariamente aborrecidas e à frustração entre os funcionários e prejudica a comunicação com os seus clientes - a satisfação do cliente sofre. Além disso, os elevados custos das licenças e a necessidade de recorrer a recursos externos de TI resultam frequentemente em despesas desnecessárias.
-          - q: Para quem é que o SeaTable é adequado como software de gestão de clientes?
-            a: O SeaTable é adequado para empresas de todas as dimensões - desde start-ups a grandes empresas. A ferramenta adapta-se às suas necessidades e, assim, oferece a solução certa para cada indústria e cada equipa para organizar as tarefas de gestão de clientes e melhorar a organização da gestão de clientes. Com a sua interface de fácil utilização e funções versáteis, o SeaTable ajuda-o a organizar os seus processos de forma eficiente e a tornar o seu trabalho diário visivelmente mais fácil.
-          - q: Quais são as desvantagens dos sistemas CRM convencionais?
-            a: "Se utilizar um software de CRM tradicional para mapear os seus processos comerciais específicos, irá rapidamente deparar-se com uma série de desafios. Muitas vezes, estes sistemas apenas se adequam de forma limitada à organização de gestão de clientes da sua empresa e não podem ser adaptados de forma flexível. A implementação é muitas vezes complexa, demora muito tempo e requer consultores externos. As taxas de licença e de utilização excedem rapidamente os orçamentos quando passa para o nível de pagamento seguinte à medida que a procura aumenta. Muitas ferramentas de CRM são também difíceis de ligar a outras ferramentas que já estão a ser utilizadas na sua empresa."
-          - q: O SeaTable oferece uma versão gratuita?
-            a: Para pequenas equipas de até 25 pessoas, o SeaTable oferece uma versão gratuita baseada na nuvem que já tem todas as caraterísticas e funções e visualizações necessárias para a gestão estratégica de clientes. Com automatizações, App Builder, inúmeros modelos gratuitos e formulários integrados, o SeaTable Free oferece um pacote que nenhum software de CRM oferece gratuitamente.
-          - q: "Também recebo apoio gratuito do SeaTable?"
-            a: Sim, a nossa equipa de apoio está disponível para o ajudar com quaisquer questões ou dificuldades. Pode contactar a Comunidade SeaTable no nosso fórum ou escrever uma mensagem de correio eletrónico diretamente.        
+          - q: 'Por que é importante uma gestão de clientes eficiente?'
+            a: 'Uma boa gestão de clientes é a chave para a fidelização a longo prazo. No entanto, muitas empresas lutam com [listas confusas do Excel]({{< relref "pages/excel-alternative" >}}), softwares de CRM complicados ou dados dispersos. Os sistemas tradicionais limitam-no com estruturas rígidas. Isso leva a tarefas demoradas e frustração na equipa, afetando a satisfação do cliente. Além disso, os elevados custos de licenciamento e a necessidade de TI externa causam despesas desnecessárias.'
+          - q: 'Para quem é adequado o SeaTable como software de gestão de clientes?'
+            a: 'O SeaTable é adequado para empresas de todos os tamanhos – **desde start-ups a grandes corporações**. A ferramenta adapta-se aos seus requisitos e oferece a solução ideal para cada setor para organizar tarefas e melhorar a organização da gestão de clientes. Com a sua interface intuitiva e novas possibilidades de IA, o SeaTable facilita significativamente o dia a dia de trabalho.'
+          - q: 'Quais são as desvantagens dos sistemas de CRM tradicionais?'
+            a: 'Ao tentar mapear processos específicos em softwares tradicionais, surgem desafios: **os sistemas raramente se adaptam de forma flexível** à sua organização. A **implementação é complexa**, demorada e **exige consultores externos**. As **taxas de utilização ultrapassam rapidamente os orçamentos** à medida que a necessidade cresce. Além disso, muitos CRMs são difíceis de ligar a ferramentas modernas de IA já em uso na empresa.'
+          - q: 'O SeaTable oferece uma versão gratuita?'
+            a: 'Para **pequenas equipas de até 25 pessoas**, o SeaTable oferece uma versão Cloud gratuita que já possui todas as funcionalidades e vistas necessárias para uma gestão estratégica de clientes. Com automatizações, [Criador de aplicativos]({{< relref "posts/20250318-app-erstellen" >}}), modelos gratuitos e funções de IA para avaliações, o SeaTable Free oferece um pacote que nenhum outro software de CRM disponibiliza gratuitamente.'
+          - q: 'Tenho direito a suporte gratuito no SeaTable?'
+            a: 'Sim, o nosso suporte está disponível para todas as questões ou dificuldades. Pode contactar a comunidade SeaTable no nosso fórum ou enviar um e-mail diretamente.' 
 ---

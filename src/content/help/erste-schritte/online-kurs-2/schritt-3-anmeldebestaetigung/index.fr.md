@@ -25,25 +25,25 @@ Pour envoyer des e-mails avec SeaTable, vous devez d'abord enregistrer un compte
 
 Pour commencer, visitez la [page d'enregistrement de Mailtrap](https://mailtrap.io/register/signup) et créez un compte gratuit.
 
-![](images/lvl2-mailtrap.png)
+![Page d’inscription Mailtrap avec formulaire de création de compte](images/lvl2-mailtrap.png)
 
 Confirmez votre adresse e-mail et connectez-vous. Après quelques questions sur vos intérêts - qui ne sont pas pertinentes pour la suite - vous arrivez sur la page d'accueil de _Mailtrap_.
 
-![](images/lvl2-mailtrap-inbox.png)
+![Page d’accueil Mailtrap avec boîte de réception préconfigurée « My Inbox »](images/lvl2-mailtrap-inbox.png)
 
 Dans le menu de gauche, cliquez sur `E-Mail Testing > Inboxes`. Vous y trouverez déjà une boîte de réception préconfigurée nommée `My Inbox`. Vous avez besoin des données d'accès SMTP correspondantes pour la configuration dans SeaTable.
 
-![](images/lvl2-mailtrap-smtp-credentials.png)
+![Identifiants SMTP de la boîte « My Inbox » pour utilisation dans SeaTable](images/lvl2-mailtrap-smtp-credentials.png)
 
 ### Configurer l'envoi d'e-mails dans SeaTable
 
 Avec les données d'accès SMTP de Mailtrap, vous pouvez maintenant configurer l'[envoi d'e-mails dans SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![](images/lvl2-mailtrap-in-seatable.png)
+![Boîte de dialogue SeaTable avec données SMTP Mailtrap saisies pour l’envoi d’e-mails](images/lvl2-mailtrap-in-seatable.png)
 
 Les e-mails ne sont pas réellement envoyés, mais apparaissent dans votre boîte mailtrap. Testez ceci en envoyant un e-mail à n'importe quel destinataire - il atterrira uniquement dans votre boîte aux lettres virtuelle.
 
-![](images/lvl2-mailtest.gif)
+![E-mail de test dans la boîte Mailtrap pour vérifier l’envoi depuis SeaTable](images/lvl2-mailtest.gif)
 
 ## Envoyer un e-mail au client
 
@@ -61,7 +61,7 @@ Maintenant, nous pouvons être dans le tableau `Registrations` créer une nouvel
 >
 > Récepteurs : `customer@example.com`
 
-![](images/lvl2-create-button.png)
+![Tableau SeaTable avec colonne de bouton « Send » pour envoyer des e-mails aux participants](images/lvl2-create-button.png)
 
 Pour le texte du message, vous pouvez utiliser le modèle de texte suivant :
 
@@ -80,7 +80,7 @@ Pour le texte du message, vous pouvez utiliser le modèle de texte suivant :
 
 Si vous utilisez l'éditeur de texte simple, les caractères de remplacement entre accolades sont remplacés automatiquement. Si vous utilisez l'éditeur de texte enrichi, vous devez remplacer les espaces réservés manuellement en utilisant la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` insérer.
 
-![](images/lvl2-rich-text-editor.png)
+![Éditeur de texte enrichi SeaTable avec espaces réservés pour le cours et la date](images/lvl2-rich-text-editor.png)
 
 Cliquez ensuite sur le bouton et vérifiez si l'e-mail apparaît dans votre boîte aux lettres Mailtrap.
 

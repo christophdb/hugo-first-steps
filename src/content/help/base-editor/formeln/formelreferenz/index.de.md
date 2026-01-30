@@ -29,7 +29,7 @@ Und eine Kollektion von Verknüpfungsfunktionen in der Spalte "Link Formel":
 
 - Verknüpfungsfunktionen
 
-![](images/formula.jpg)
+![Formeleditor in SeaTable mit Funktionsliste und Beispiel](images/formula.jpg)
 
 Außer den oberen Funktionen gibt es im Formeleditor noch eine bzw. mehrere Spaltenlisten. Das sind jene Spalten in der aktuellen Tabelle und die verlinkten Spalten der anderen Tabelle in der Base. Wenn Sie auf das "+" Symbol daneben klicken, wird der Spaltenname als Element in das Eingabefeld hinzugefügt, und zwar in dem Format {Spaltenname} bzw. {VerlinkteTabelle.Spaltenname}. Dieses Element können Sie direkt in Ihrer Formel nutzen. Alternativ können Sie natürlich einen Spaltennamen in der Form von {Spaltenname} per Hand eingeben.
 

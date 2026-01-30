@@ -26,7 +26,7 @@ SeaTable’s scripts are related to the well-known SeaTable plugins such as the 
 
 Many users already know our [carefully created templates]({{< relref "templates" >}}). With the new release, it is now even easier to create new bases directly based on these templates, without the hassle of manual copy and export procedures. Using a template is now as easy as it gets! Create a new base, select your preferred template and off you go.
 
-![](create-from-template.png)
+![“Create base from template” dialog with selection of a SeaTable template](create-from-template.png)
 
 When creating a new base in your base library, you’ll be offered three options: Create a blank base, import from file, or create from a template. The latter option will load the [SeaTable Market](https://market.seatable.io), where you can browse all available templates. Pick the one that fits your needs and the template's data will be copied into your new base.
 
@@ -34,11 +34,11 @@ When creating a new base in your base library, you’ll be offered three options
 
 Conditional formatting has been a staple in Microsoft Excel and Google Sheets. As a consequence, it’s been high up on our priority list. So we are pleased to announce the arrival of conditional row formatting in SeaTable 1.3!
 
-![](row-color-non-modal.png)
+![Conditional row formatting assistant with rules and color selection](row-color-non-modal.png)
 
 Conditional formatting is just as easy to use as the other data analysis functions of sorting, grouping and filtering. And it can also be invoked in the same way: via an icon in the view settings. Click on the "Format" icon and a small wizard will help you achieve your goal as quickly as possible.
 
-![](row-color.png)
+![Table view with color-highlighted rows based on conditional formatting](row-color.png)
 
 At first, you choose if you want to color-code rows based on a particular value in a single-select column or based on individual rules. When using rules, you can select a color for each rule, and under each rule, you can set up multiple logical filter conditions to define exactly which rows should be given this particular color.
 
@@ -46,11 +46,11 @@ At first, you choose if you want to color-code rows based on a particular value 
 
 You have been looking for a way to print all the data you and your team have meticulously organized in SeaTable? SeaTable’s new print function allows great printouts for your team's jour fixes, customer meetings and field work.
 
-![](print-settings.png)
+![Print settings of a view with options for layout, scaling and margins](print-settings.png)
 
 Select the view that you wish to print and click the “…” icon on the view control panel to open the print settings. Adjust the parameters to your liking and hit the print button. SeaTable then renders the view and passes it on to the print manager of your device. If you want to save time, just hit Ctrl+P to open the print settings.
 
-![](compact-row-detail.png)
+![Compact row detail view with print preview for individual records](compact-row-detail.png)
 
 Apart from printing the table or a view, you can also print just the details of one row. Open the row details you wish to print and click on the print icon. You have two choices here: “as it is” and “compact” format.
 

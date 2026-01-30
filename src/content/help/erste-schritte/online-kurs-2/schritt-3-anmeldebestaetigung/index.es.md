@@ -25,25 +25,25 @@ Para enviar correos electrónicos con SeaTable, primero debe crear una cuenta de
 
 Para empezar, visite la [página de registro de Mailtrap](https://mailtrap.io/register/signup) y cree una cuenta gratuita.
 
-![](images/lvl2-mailtrap.png)
+![Página de registro de Mailtrap con formulario para crear cuenta](images/lvl2-mailtrap.png)
 
 Confirma tu dirección de correo electrónico e inicia sesión. Tras responder a algunas preguntas sobre sus intereses -que no son relevantes para el resto del proceso-, accederá a la página de inicio _de Mailtrap_.
 
-![](images/lvl2-mailtrap-inbox.png)
+![Página inicial de Mailtrap con bandeja «My Inbox» preconfigurada](images/lvl2-mailtrap-inbox.png)
 
 En el menú de la izquierda, haga clic en `E-Mail Testing > Inboxes`. Allí encontrará ya una bandeja de entrada preconfigurada con el nombre `My Inbox`. Necesitará los datos de acceso SMTP correspondientes para la configuración en SeaTable.
 
-![](images/lvl2-mailtrap-smtp-credentials.png)
+![Credenciales SMTP de la bandeja «My Inbox» para usar en SeaTable](images/lvl2-mailtrap-smtp-credentials.png)
 
 ### Configurar el envío de correo electrónico en SeaTable
 
 Con los datos de acceso SMTP de Mailtrap, ahora puede configurar [el envío de correo electrónico en SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![](images/lvl2-mailtrap-in-seatable.png)
+![Diálogo de SeaTable con datos SMTP de Mailtrap para el envío de correos](images/lvl2-mailtrap-in-seatable.png)
 
 Los correos electrónicos no se envían realmente, sino que aparecen en su buzón de Mailtrap. Pruébelo enviando un correo electrónico a cualquier destinatario: sólo aparecerá en su buzón virtual.
 
-![](images/lvl2-mailtest.gif)
+![Correo de prueba en la bandeja de Mailtrap para verificar el envío desde SeaTable](images/lvl2-mailtest.gif)
 
 ## Enviar correo electrónico al cliente
 
@@ -61,7 +61,7 @@ Ahora podemos ver en la tabla `Registrations` para crear una nueva columna para 
 >
 > Beneficiario: `customer@example.com`
 
-![](images/lvl2-create-button.png)
+![Tabla de SeaTable con columna de botón «Send» para enviar correos a participantes](images/lvl2-create-button.png)
 
 Puede utilizar la siguiente plantilla de texto para el texto del mensaje:
 
@@ -80,7 +80,7 @@ Puede utilizar la siguiente plantilla de texto para el texto del mensaje:
 
 En el editor de texto simple, los marcadores de posición entre llaves se sustituyen automáticamente. Si utiliza el editor de texto enriquecido, debe reemplazar los marcadores de posición manualmente utilizando la función `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` insertar.
 
-![](images/lvl2-rich-text-editor.png)
+![Editor de texto enriquecido de SeaTable con marcadores para curso y fecha](images/lvl2-rich-text-editor.png)
 
 A continuación, haga clic en el botón y compruebe si el correo electrónico aparece en su buzón Mailtrap.
 

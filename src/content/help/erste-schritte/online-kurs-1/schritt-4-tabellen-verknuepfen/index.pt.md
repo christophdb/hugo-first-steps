@@ -36,21 +36,21 @@ Para podermos criar ligações, precisamos de uma segunda tabela, que vamos cria
     - `Groceries`
     - `Leisure`
 
-    ![](images/level1-categories.png)
+    ![Tabela «Categories» com quatro categorias: Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
 4. Voltar à mesa `Expenses`.
 
 5. Insira outra coluna. Dar à nova coluna o nome `Category-Link` e selecionar o tipo de coluna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` desligado. A coluna liga ao quadro `Categories`.  
-   ![](images/level1-create-link-column.png)
+   ![Janela para criar a coluna de ligação «Category-Link» para a tabela «Categories»](images/level1-create-link-column.png)
 
 ## Ligação de linhas entre as duas tabelas
 
 Existem agora duas opções para ligar os registos de dados em ambas as tabelas:
 
 1. É possível atribuir uma entrada na lista `Expenses` Selecionar manualmente uma linha da tabela `Categories` clicando na célula do ficheiro {{< key "+" >}} e, em seguida, selecionar a categoria adequada. Isto torna-se rapidamente aborrecido e propenso a erros com grandes quantidades de dados.  
-   ![](images/level1-link-rows.png)
+   ![Ligação manual de um registo de despesa a uma categoria através do ícone de mais](images/level1-link-rows.png)
 2. Em alternativa, pode utilizar o [Opções de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) do SeaTable para automatizar a definição das ligações.  
-   ![](images/level1-data-operation.png)
+   ![Menu «Data Processing» com seleção de uma operação de processamento de dados na tabela](images/level1-data-operation.png)
 
 ### Ligar células por operação de processamento de dados
 
@@ -63,7 +63,7 @@ Também é necessário efetuar as seguintes definições para que o SeaTable sai
 - Se coluna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Coluna: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
-![](images/level1-auto-add-link.png)
+![Operação de processamento «Assign Category» com tipo «Auto add link» e campos configurados](images/level1-auto-add-link.png)
 
 Clique em Executar para efetuar a operação. Verá que todas as linhas da tabela `Expenses` com uma linha do quadro `Categories` estavam ligados.
 

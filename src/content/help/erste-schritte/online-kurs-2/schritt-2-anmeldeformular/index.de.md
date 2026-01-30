@@ -27,7 +27,7 @@ Alle drei Felder sind als Pflichtfelder definiert. Die Felder **Name** und **E-M
 
 Das Besondere liegt in der Kursauswahl: Hier können nur Kurse ausgewählt werden, die noch über freie Plätze verfügen. Probieren Sie es selbst aus: Wenn Sie auf das Auswahlfeld klicken, werden Ihnen nur drei Kurse angezeigt, obwohl in der Tabelle insgesamt fünf Kurse erfasst sind.
 
-![](images/lvl2-limited-course-selection.png)
+![Webformular mit Kursauswahl, die auf verfügbare Kurse begrenzt ist](images/lvl2-limited-course-selection.png)
 
 Warum ist das so? Wir haben die Auswahl in der Link-Spalte auf die Ansicht `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` beschränkt, die nur Kurse mit freien Plätzen anzeigt. Dadurch sehen Sie im Webformular nur die Kurse, die in dieser Ansicht verfügbar sind.
 

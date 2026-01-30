@@ -22,7 +22,7 @@ Jusqu'à présent, nous n'avons pas encore obtenu d'avantages directs grâce aux
 
 Tout d'abord, augmentez la hauteur des lignes dans le tableau `Categories`pour voir davantage de liens. Vous trouverez l'option correspondante `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` sur la ligne au-dessus du nom de la colonne. Il est également possible d'élargir certaines colonnes afin de voir davantage de contenu.
 
-![](images/level1-row-height.png)
+![Vue de tableau avec hauteur de ligne ajustée pour mieux voir les liens](images/level1-row-height.png)
 
 ## Évaluations des catégories
 
@@ -40,7 +40,7 @@ Créez maintenant une nouvelle colonne dans le tableau `Categories` à.
 >
 > Méthode de calcul `Sum`
 
-![](images/lvl1-rollup.png)
+![Colonne de formule de lien « Sum » avec rollup pour additionner les montants liés](images/lvl1-rollup.png)
 
 Ensuite, vous pouvez encore modifier le format de la colonne `Sum` à l'euro, afin que les totaux affichés soient formatés en conséquence en euros.
 

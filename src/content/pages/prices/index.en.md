@@ -49,15 +49,15 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Rows'
             values: ['10,000', '50,000', '∞', '∞']
-          - key: 'Maximum  Rows in a Base'
+          - key: 'Max. rows per base'
             values: ['10.000', '50.000', '100.000', '200.000']
           - key: 'Storage space'
             values: ['2 GB', '50 GB', '100 GB', '∞']
           - key: 'Snapshot retention period'
             values: ['1 month', '6 months', '12 months', '24 months']
-          - key: 'JavaScript runs (per month)'
+          - key: 'JavaScript script runs (per month)'
             values: ['∞', '∞', '∞', '∞']
-          - key: 'Python runs (per month)'
+          - key: 'Python script runs (per month)'
             values: ['100', '5,000', '∞', '∞']
           - key: 'API calls (per month and user)'
             values: ['3.000 (fix)', '10.000', '50.000', '∞']

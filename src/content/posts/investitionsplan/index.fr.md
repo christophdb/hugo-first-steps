@@ -28,7 +28,7 @@ Supposons que vous souhaitiez installer un nouvel équipement dans votre usine a
 
 ## Pourquoi un plan d'investissement est essentiel pour les entreprises
 
-Si vous créez ou gérez une entreprise, vous serez toujours confronté à d'importantes **décisions d'investissement**. Qu'il s'agisse d'acheter de nouvelles machines, d'[embaucher du personnel]({{< relref "posts/20250630-personalplanung" >}}) ou d'accélérer la numérisation, chaque décision a un impact sur la croissance et le succès futurs de votre entreprise. Un plan d'investissement bien pensé vous permet d'anticiper vos dépenses, d'établir des priorités claires et d'éviter les risques inutiles.
+Si vous créez ou gérez une entreprise, vous serez toujours confronté à d'importantes **décisions d'investissement**. Qu'il s'agisse d'acheter de nouvelles machines, d'[embaucher du personnel]({{< relref "posts/personalplanung" >}}) ou d'accélérer la numérisation, chaque décision a un impact sur la croissance et le succès futurs de votre entreprise. Un plan d'investissement bien pensé vous permet d'anticiper vos dépenses, d'établir des priorités claires et d'éviter les risques inutiles.
 
 De plus, les investissements génèrent généralement des **besoins en capital** importants, que vous ne pouvez souvent couvrir qu'avec des bailleurs de fonds externes tels que des banques et des investisseurs. Un plan d'investissement convaincant leur montre que vous savez gérer l'argent et augmente votre **crédit**. Enfin, le calcul d'investissement vous permet également de calculer les avantages potentiels de vos investissements et de déterminer à partir de quand votre investissement en capital sera rentable.
 
@@ -74,7 +74,7 @@ Les coûts hypothétiques de ces réserves apparaissent dans le bilan (par exemp
 
 4. **Calculez les coûts et les bénéfices** : Il va de soi que vos investissements doivent porter leurs fruits le plus rapidement possible. Pour chaque investissement, calculez donc soigneusement les coûts que vous devrez supporter et les bénéfices que vous escomptez. Une telle [analyse coûts-bénéfices]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) vous permettra d'éviter les mauvais investissements inutiles.
 
-5. **Planifiez l'horizon temporel** : Un plan d'investissement vous aide à organiser les dépenses nécessaires dans le temps et à utiliser les ressources de manière à garantir le financement à long terme. Grâce à un calendrier réaliste indiquant quand vous allez acheter quels biens d'investissement, le risque de [manque de liquidités]({{< relref "posts/20250628_liquiditaetsplanung" >}}) diminue.
+5. **Planifiez l'horizon temporel** : Un plan d'investissement vous aide à organiser les dépenses nécessaires dans le temps et à utiliser les ressources de manière à garantir le financement à long terme. Grâce à un calendrier réaliste indiquant quand vous allez acheter quels biens d'investissement, le risque de [manque de liquidités]({{< relref "posts/liquiditaetsplanung" >}}) diminue.
  
 6. **Réalisez votre plan d'investissement** : Le financement, l'importance, l'utilité et le calendrier de vos investissements sont clarifiés ? Plus rien ne s'oppose alors à la réalisation de votre plan d'investissement ! Vérifiez régulièrement si vos investissements produisent effectivement les résultats escomptés et adaptez votre plan si nécessaire.
 

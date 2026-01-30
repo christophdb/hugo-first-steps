@@ -18,7 +18,7 @@ seo:
 
 **Fatura** é o termo técnico derivado da palavra latina *factura* para um documento com o qual pede aos seus clientes que paguem uma determinada quantia de dinheiro. Quando fatura algo, significa que cobra a um cliente um serviço ou um produto.
 
-A faturação assegura as **receitas da sua empresa** e é, por isso, o processo mais importante da contabilidade financeira. A faturação desempenha um papel igualmente central no [planeamento da liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) e no processo de cobrança, que faz valer os créditos sobre os clientes em falta. As faturas constituem também a base para o cálculo do IVA.
+A faturação assegura as **receitas da sua empresa** e é, por isso, o processo mais importante da contabilidade financeira. A faturação desempenha um papel igualmente central no [planeamento da liquidez]({{< relref "posts/liquiditaetsplanung" >}}) e no processo de cobrança, que faz valer os créditos sobre os clientes em falta. As faturas constituem também a base para o cálculo do IVA.
 
 {{< warning headline="Qual é a diferença entre faturação e contabilidade?" text="Embora a faturação e a contabilidade pareçam semelhantes, significam coisas completamente diferentes. Com a **contabilidade externa**, informa as partes interessadas (por exemplo, credores, acionistas e autoridades) sobre a evolução da sua empresa e presta contas das suas finanças. Normalmente, publica documentos como as demonstrações financeiras anuais ou um relatório de gestão. Em contrapartida, a faturação consiste simplesmente em faturar aos seus clientes os serviços prestados." />}}
 

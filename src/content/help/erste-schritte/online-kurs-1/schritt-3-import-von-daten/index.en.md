@@ -27,7 +27,7 @@ SeaTable offers a wide range of import options. You can import entire bases as .
 - Now import the CSV file into the table `Expenses`
 - Check that the table now has exactly 50 entries
 
-![](images/level1-import-csv.png)
+![Dialog for CSV import into the “Expenses” table with data preview](images/level1-import-csv.png)
 
 ## Import and export
 

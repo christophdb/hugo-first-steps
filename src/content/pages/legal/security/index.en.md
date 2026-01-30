@@ -8,14 +8,14 @@ date: 2024-10-28
 type: 'legal'
 url: '/security'
 aliases:
-  - '/securite/'
-  - '/seguridad/'
-  - '/sicherheit/'
+    - '/securite/'
+    - '/seguridad/'
+    - '/sicherheit/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
+This page is only available in English and German. The English translation is an non-binding, convenience translation.
 
 The **[German original]({{< relref path="pages/legal/security" lang="de" >}})** is legally binding.
 

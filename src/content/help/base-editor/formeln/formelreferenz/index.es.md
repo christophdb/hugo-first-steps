@@ -31,7 +31,7 @@ Y una colección de funciones de enlace en la columna "Fórmula de enlace":
 
 - Funciones de enlace
 
-![](images/formula.jpg)
+![Editor de fórmulas de SeaTable con lista de funciones y ejemplo](images/formula.jpg)
 
 Además de las funciones anteriores, en el editor de fórmulas hay una o varias listas de columnas. Se trata de las columnas de la tabla actual y de las columnas vinculadas de la otra tabla de la base. Si hace clic en el símbolo "+" situado junto a ella, el nombre de la columna se añade como elemento al campo de entrada con el formato {NombreColumna} o {NombreColumnaTablaEnlazada}. Puede utilizar este elemento directamente en su fórmula. Por supuesto, también puede introducir a mano un nombre de columna con el formato {NombreColumna}.
 

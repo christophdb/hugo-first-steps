@@ -27,7 +27,7 @@ SeaTable ofrece una amplia gama de opciones de importación. Puede importar base
 - Ahora importa el archivo CSV a la tabla `Expenses`
 - Comprueba que la tabla tiene ahora exactamente 50 entradas
 
-![](images/level1-import-csv.png)
+![Diálogo de importación CSV en la tabla «Expenses» con vista previa de datos](images/level1-import-csv.png)
 
 ## Importación y exportación
 

@@ -22,7 +22,7 @@ Ainda não obtivemos quaisquer benefícios diretos da ligação, mas isso está 
 
 Em primeiro lugar, aumentar a altura da linha na tabela `Categories`para ver mais ligações. Encontrará a opção correspondente `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` na linha acima do nome da coluna. Também pode arrastar colunas individuais para ver mais conteúdo.
 
-![](images/level1-row-height.png)
+![Vista de tabela com altura de linha ajustada para melhor visualização das ligações](images/level1-row-height.png)
 
 ## Análise das categorias
 
@@ -40,7 +40,7 @@ Agora crie uma nova coluna na tabela `Categories` para.
 >
 > Método de cálculo `Sum`
 
-![](images/lvl1-rollup.png)
+![Coluna de fórmula de ligação «Sum» com rollup para somar valores ligados](images/lvl1-rollup.png)
 
 Em seguida, é possível alterar o formato da coluna `Sum` para euros, para que os totais apresentados sejam formatados em euros.
 

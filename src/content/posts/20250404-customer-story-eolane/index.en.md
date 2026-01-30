@@ -12,7 +12,7 @@ tags:
     - 'Data Management & Visualisation'
     - 'Digital Transformation'
     - 'Integrations & Automations'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 color: '#469361'
 url: '/eolane-digitalization'
 aliases:

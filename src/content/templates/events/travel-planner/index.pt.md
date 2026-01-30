@@ -28,7 +28,7 @@ Carregue documentos importantes, como as confirmações de reserva, diretamente 
 
 A aplicação deste modelo também o ajuda a registar convenientemente as suas despesas através de um formulário. Utilizando estatísticas simples, pode ver exatamente quanto gastou em quê no final da sua viagem.
 
-![](images/image-1721217958013.png)
+![App de planeamento de viagens no SeaTable com listas de destinos, atividades, documentos e despesas](images/image-1721217958013.png)
 
 ## Modelo interativo
 

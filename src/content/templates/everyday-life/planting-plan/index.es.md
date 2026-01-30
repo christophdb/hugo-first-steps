@@ -19,13 +19,13 @@ Un plan de plantación estructurado en SeaTable le ayuda a organizar su jardín 
 
 En la tabla central puede anotar su parterre, incluidas las hileras, la plantación y la rotación de cultivos. Especialmente práctico: los enlaces a las plantas le facilitan la planificación rápida a lo largo de varios años. Esto hace que SeaTable sea muy fácil de usar como planificador intuitivo de bancales.
 
-![](images/image-1744693263121.png)
+![Tabla de planificación de bancales en SeaTable con filas, plantaciones y rotación de cultivos](images/image-1744693263121.png)
 
 ## Crea tu propia enciclopedia de plantas
 
 La segunda tabla es tu enciclopedia personal de plantas: ya sean plantas ornamentales, hierbas aromáticas o plantas útiles, aquí puedes guardar toda la información sobre resistencia al invierno, vida útil, tamaño o vecinos de arriate adecuados. Esto no sólo le ayudará a planificar, sino que también le aportará nuevas ideas e inspiración a la hora de plantar los arriates.
 
-![](images/image-1744693157956.png)
+![Tabla de enciclopedia de plantas con tipo, rusticidad, tamaño y plantas compañeras adecuadas](images/image-1744693157956.png)
 
 ## Haga un seguimiento detallado de sus éxitos en jardinería
 

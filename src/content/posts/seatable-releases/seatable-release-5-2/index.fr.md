@@ -20,7 +20,7 @@ Ce matin, à 6 heures, heure d'Europe centrale, SeaTable Cloud a été mis à jo
 
 La version 5.2 rend [les fonctions de filtrage]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) de SeaTables encore plus puissantes. Les nouveaux groupes de filtres permettent de **combiner des règles de filtrage avec les opérateurs logiques ET et OU**. Exemple : on recherche des hommes nés après 1979 (groupe de filtres 1) ou des femmes nées après 1984 (groupe de filtres 2). Un tel filtrage n'était jusqu'à présent pas possible dans SeaTable. Dans les versions précédentes, toutes les règles de filtrage étaient liées soit à l'opérateur logique ET, soit à l'opérateur logique OU.
 
-![Groupes de filtres dans SeaTable 5.2](Fitlergroups.png)
+![Groupes de filtres avec conditions AND/OR combinées pour des sélections de données complexes](Fitlergroups.png)
 
 Dans les prochaines versions, nous introduirons également des groupes de filtres dans les apps, les formulaires et les automatisations.
 
@@ -28,7 +28,7 @@ Dans les prochaines versions, nous introduirons également des groupes de filtre
 
 La version 5.2 offre également des possibilités de filtrage étendues dans le [formatage]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) conditionnel des [lignes]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) et [des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}). Vous souhaitez colorer une cellule en rouge sur la base des valeurs des autres colonnes pour attirer l'attention ? C'est possible avec SeaTable 5.2 ! Il est désormais possible de formater le code couleur d'une ligne ou d'une cellule en fonction de chaque valeur de colonne dans un ensemble de données. Et ce n'est pas tout : la mise en forme conditionnelle peut aussi prendre en compte les valeurs de plusieurs colonnes, quel que soit le type de colonne.
 
-![Amélioration du formatage conditionnel dans SeaTable 5.2](ConditionalFormatting.png)
+![Mise en forme conditionnelle de lignes et cellules entre colonnes selon plusieurs valeurs de colonne](ConditionalFormatting.png)
 
 ## Améliorations fonctionnelles dans l'App Builder
 
@@ -38,7 +38,7 @@ Le type de page [Enregistrement individuel]({{< relref "help/app-builder/seitent
 
 Dans les paramètres de page de ce type de page, on trouve à partir de SeaTable 5.2 la fonction **Colonnes en lecture seule par défaut**, déjà connue dans d'autres types de pages. En combinaison avec l'[autorisation de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) "Qui peut modifier les lignes ?", l'administrateur de l'application peut définir précisément quelles valeurs de colonne d'un enregistrement peuvent être saisies ou modifiées par les utilisateurs et lesquelles ne le peuvent pas.
 
-![Nouveau réglage des colonnes en lecture seule sur la page d'un seul enregistrement](ROcolumns-SingleRecordPage.png)
+![Type de page « Enregistrement unique » avec réglage pour colonnes en lecture seule par défaut](ROcolumns-SingleRecordPage.png)
 
 Dans le cas d'[enregistrements bloqués]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), l'utilisateur reçoit désormais aussi un message lui indiquant que l'édition n'est pas possible. Un message correspondant s'affiche lorsque le curseur de la souris se déplace sur "Modifier l'entrée" dans la barre d'outils.
 
@@ -56,7 +56,7 @@ Les **filtres prédéfinis** dans les paramètres de données permettent désorm
 
 La [page individuelle]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) reçoit un nouveau type de statistiques : le **tableau simple** permet - comme la [page de tableau]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) - la représentation sous forme de tableau d'un ensemble de données préfiltrées et prétriées par l'administrateur de l'application. Contrairement à la page de tableau, le nouveau type de statistiques permet de réunir deux ou plusieurs tableaux sur une même page. Dans la version 5.2, les utilisateurs d'apps ne peuvent pas définir eux-mêmes leurs propres règles de filtrage et de tri. Nous ajouterons cette fonction à l'avenir.
 
-![Nouveau type de tableau "Tableau de base](BasicTable.png)
+![Type de statistique « Tableau simple » affichant des enregistrements préfiltrés sur une page personnalisée](BasicTable.png)
 
 ### Type de page Calendrier
 
@@ -78,7 +78,7 @@ Le nouveau plug-in Whiteboard peut être installé en complément ou comme alter
 
 Le remplacement du plug-in était devenu nécessaire car l'"ancien" plug-in pour tableau blanc, basé sur le projet open source [excalidraw](https://github.com/excalidraw/excalidraw), s'est avéré sujet à des dysfonctionnements lorsqu'il était utilisé par plusieurs utilisateurs en même temps. Avec la version 6.0 prévue pour l'été 2025, nous supprimerons l'ancien plugin de SeaTable Cloud. Tous les tableaux blancs de l'ancien plugin de tableau blanc ne seront alors plus disponibles.
 
-![](tldraw-collaboration.png)
+![Plugin de tableau blanc « Whiteboard (tldraw) » avec édition collaborative en temps réel par plusieurs utilisateurs](tldraw-collaboration.png)
 
 ## Changements importants dans l'API de SeaTable
 
@@ -98,7 +98,7 @@ SeaTable 5.2 a d'autres nouveautés qui méritent d'être plus qu'explicitement 
 
 La possibilité de **gérer des données hiérarchiques dans un tableau** atteint un nouveau niveau dans SeaTable 5.2 : les relations parents et enfants sont saisies et représentées dans des colonnes séparées. SeaTable garantit que pour chaque relation parent, il existe également une relation enfant. Ainsi, les relations dans les deux sens peuvent être analysées sans problème. L'illustration montre la différence entre SeaTable 5.2 (à gauche) et SeaTable 5.1 (à droite) pour le top management d'une organisation fictive.
 
-![Juxtaposition de liens internes dans SeaTable 5.1 et 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
+![Comparaison des liens internes dans SeaTable 5.2 et 5.1 avec colonnes de lien parent et enfant séparées](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
 Pour les utilisateurs, cela ne présente que des avantages sans complexité supplémentaire. Si un utilisateur crée une nouvelle **colonne de jointure** qui relie des entrées dans le même tableau, SeaTable crée automatiquement la deuxième colonne de jointure. Les plug-ins [Organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) et [Arbre]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) peuvent également gérer la structure de données améliorée.
 

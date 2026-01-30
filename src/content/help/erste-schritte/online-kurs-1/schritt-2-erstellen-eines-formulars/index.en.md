@@ -21,13 +21,13 @@ But of course it would be nice if you could also record other expenses on your c
 
 You will find many additional functions in the header area of your base. Behind the button `Forms` SeaTable offers you the possibility to create new web forms.
 
-![](images/level1-create-webform.png)
+![Form management with “Forms” button and new web form](images/level1-create-webform.png)
 
 1. Create a new web form with the name `Expense Tracking`. The name doesn't really matter, but why not give the form a nice name?
 2. A new user interface opens in which you can design the web form.
 3. Drag all four table fields `Reason`, `Date`, `Amount` and `Category` by drag-and-drop into the form.
 
-![](images/level1-webform.png)
+![“Expense Tracking” web form with Reason, Date, Amount, Category fields](images/level1-webform.png)
 
 ## Further settings of the web form
 

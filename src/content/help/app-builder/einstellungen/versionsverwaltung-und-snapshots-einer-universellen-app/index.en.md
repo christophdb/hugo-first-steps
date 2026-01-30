@@ -44,17 +44,17 @@ An app snapshot does not save:
 
 1. Open a **universal app** in [edit mode]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
-![Edit apps](images/Apps-bearbeiten.png)
+![Universal App Builder in edit mode with opened app list](images/Apps-bearbeiten.png)
 
 3. Click on {{< seatable-icon icon="dtable-icon-history" >}} **Version management** at the top left of the page.
 
-![Version management in Universal App Builder](images/Version-management-in-Universal-App-Builder.png)
+![Version management of a universal app showing list of existing snapshots](images/Version-management-in-Universal-App-Builder.png)
 
 5. A window opens. Create a **new snapshot** there.
 6. Optionally, you can add a **note** to the snapshot.
 7. Confirm with **Submit**.
 
-![Version management in the Universal App Builder](images/Version-management-in-Universal-Apps.gif)
+![Creating a new app snapshot in version management with optional note text](images/Version-management-in-Universal-Apps.gif)
 
 {{< warning  headline="Numbering of the versions"  text="The exact **creation time** and a **version number** are recorded for each snapshot. Do not be surprised if your snapshots do not receive consecutive numbers (1, 2, 3 ...). SeaTable counts every change you make in a universal app as a separate version. This means that there can quickly be dozens of versions between two snapshots." />}}
 
@@ -69,13 +69,13 @@ As soon as you have created a snapshot, you have four operations to choose from:
 
 Before you restore a snapshot and hastily jump back to another version, you should first take a look at this version. To do this, follow the same procedure as above: Click on the **three dots** at the right-hand end of a snapshot and select the **View version** operation from the drop-down menu.
 
-![Preview version of app snapshot](images/Preview-version-of-app-snapshot.png)
+![Preview of a saved app version in the Universal App Builder](images/Preview-version-of-app-snapshot.png)
 
 ## Restore app snapshot
 
 To restore an app snapshot, click on the **three dots** and select the corresponding operation from the drop-down menu.
 
-![Restore version of app snapshot](images/Restore-version-of-app-snapshot.png)
+![Dialog for restoring an app snapshot as the current version](images/Restore-version-of-app-snapshot.png)
 
 {{< warning  headline="Attention"  text="The snapshot restore in the Universal App Builder works differently than in the base, where the snapshot is restored in a new base and the current version is retained. **In the Universal App Builder, however, the current version is discarded when you restore a snapshot.**" />}}
 
@@ -85,12 +85,12 @@ As soon as you restore a snapshot, the app is reset to the memory status of this
 
 If you want to add, change or delete the note for a version at a later date, you can do this at any time. Open the corresponding text field by clicking on the **three dots** at the right-hand end of a snapshot and selecting **Note** from the drop-down menu. Save your changes by clicking **Submit**.
 
-![Modify notes of app snapshot](images/Modify-notes-of-app-snapshot.png)
+![Dialog to edit or add a note to an app snapshot](images/Modify-notes-of-app-snapshot.png)
 
 ## Delete app snapshot
 
 You can delete a snapshot that you no longer need at any time. Click on the **three dots** at the right-hand end of a snapshot and select the **Delete version** operation from the drop-down menu.
 
-![](images/Delete-version-of-app-snapshot.png)
+![Confirmation dialog for permanently deleting an app snapshot](images/Delete-version-of-app-snapshot.png)
 
 {{< warning  headline="Attention"  text="The deletion of an app snapshot is final. The memory status of the previous version is irrevocably lost and cannot be restored." />}}

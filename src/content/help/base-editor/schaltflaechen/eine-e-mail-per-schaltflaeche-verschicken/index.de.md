@@ -18,11 +18,11 @@ Mithilfe einer **Schaltfläche** in Ihren Zeilen können Sie E-Mails an einen od
 
 Als Erstes wählen Sie beim Erstellen der [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) die Aktion **E-Mail versenden** aus.
 
-![Auswahl der Aktion "E-Mail versenden"](images/send-email-action.png)
+![Dialog zur Auswahl der Schaltflächenaktion „E-Mail versenden“](images/send-email-action.png)
 
 Wählen Sie unter **Kontoname** einen Account aus, von dem aus Sie die E-Mail versenden wollen. Falls Ihnen in diesem Feld **kein Account** angezeigt wird, müssen Sie zunächst ein [E-Mail-Konto zu SeaTable hinzufügen]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![Falls Ihnen kein E-Mail-Account angezeigt wird, müssen Sie zunächst ein Email-Konto zu SeaTable hinzufügen](images/add-email-account.png)
+![Hinweisdialog, dass zunächst ein E-Mail-Konto hinzugefügt werden muss](images/add-email-account.png)
 
 {{< warning  type="warning" headline="Hinweis" >}}
 
@@ -32,19 +32,19 @@ Eine detaillierte Anleitung, wie Sie Ihren **E-Mail-Account** für den Versand v
 
 Legen Sie nun den **Betreff** und **Inhalt** der E-Mail fest.
 
-![Legen Sie Betreff und Inhalt der E-Mail fest](images/subject-and-message.png)
+![Konfigurationsmaske für Betreff und Nachrichtentext der E-Mail](images/subject-and-message.png)
 
 Wenn Sie den Regler **Formatierter Text** aktiviert haben, öffnet sich bei Doppelklick aufs Textfeld der bekannte **Editor**, in dem Sie längere Texte mit Formatierungen, Listen und Bildern verfassen können. Eine Besonderheit ist hier die Funktion, dass Sie auch **Spalten einfügen** können.
 
-![Spalten in E-Mail-Texte einfügen](images/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Editor für formatierten Text mit eingefügten Spaltenplatzhaltern](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Wählen Sie den/die **Empfänger** der E-Mail aus. Sie können optional auch Empfänger auswählen, die eine **Kopie** der E-Mail erhalten sollen oder denen Sie mit der E-Mail **antworten** möchten. Mehrere Empfänger können Sie per Komma getrennt eingeben. Verwenden Sie den Namen einer Spalte in geschwungenen Klammern, um den Inhalt der Spalte zu zitieren.
 
-![Legen Sie den/die Empfänger der E-Mail fest. Sie können optional auch noch Empfänger auswählen, die eine Kopie der E-Mail erhalten sollen oder denen Sie mit der E-Mail antworten möchten.](images/send-to-copy-to-reply-to.png)
+![Dialog zur Eingabe von Empfängern, Kopie- und Antwort-Adressen](images/send-to-copy-to-reply-to.png)
 
 Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie jedoch, dass Sie Dateien _nicht_ einfach hochladen können, sondern diese zunächst in einer [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) der Tabelle speichern müssen. Im Feld **Anhänge** können Sie im Anschluss eine oder mehrere **Datei-Spalten** auswählen, aus der Sie die Dateien an die E-Mail anhängen möchten.
 
-![Dateien, die Sie in einer Dateispalte Ihrer Tabelle hinzugefügt haben, können Sie als Anhang der E-Mail nutzen](images/file-001.png)
+![Auswahl von Datei-Spalten als Quellen für E-Mail-Anhänge](images/file-001.png)
 
 ## Bedingte Ausführung mehrerer Schaltflächen-Aktionen
 
@@ -54,4 +54,4 @@ Zum Beispiel kann es vorkommen, dass Sie mit einem Klick ein [PDF-Dokument in ei
 
 Um dies zu verhindern, können Sie die Ausführung von Schaltflächen-Aktionen an **Filterbedingungen** koppeln. Im genannten Anwendungsfall können Sie beispielsweise als Filterbedingung hinzufügen, dass die E-Mail **ausschließlich** versendet wird, wenn die **Datei-Spalte** in der gleichen Zeile **nicht leer** ist. So etablieren Sie eine klare Abfolge: Bei Betätigung der Schaltfläche muss SeaTable erst ein **PDF** erstellen, da die E-Mail **nur mit Anhang** verschickt werden kann.
 
-![](images/send-email-via-button-with-conditions-1.gif)
+![Schaltfläche sendet E-Mail nur, wenn Dateispalte nicht leer ist](images/send-email-via-button-with-conditions-1.gif)

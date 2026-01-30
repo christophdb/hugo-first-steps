@@ -31,13 +31,13 @@ The timeline plugin maps **time spans**. Therefore, for this representation you 
     - The period of time that the representation should cover
 3. Double-click on one of the entries to open the **row details**.
 
-![](images/timeline-plugin.gif)
+![Timeline plugin with colored bars for time spans and row details on double-click](images/timeline-plugin.gif)
 
 ## Effect of grouping and sorting
 
 Since the timeline plugin is based on the views of the table, [sorting]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) entries also affect the display in the timeline. For grouped views, you have the option of displaying the data in a **swimlane** diagram by activating the **Display as swimlane mode** slider.
 
-![Timeline plugin grouping](images/timeline-plugingroup-3.gif)
+![Timeline plugin in swimlane mode with grouped entries by category or user](images/timeline-plugingroup-3.gif)
 
 ## Create multiple timelines
 

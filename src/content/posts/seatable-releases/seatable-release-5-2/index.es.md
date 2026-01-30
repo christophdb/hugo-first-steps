@@ -20,7 +20,7 @@ Esta mañana a las 6am hora central europea, SeaTable Cloud fue actualizado a la
 
 La versión 5.2 hace aún más potentes las [funciones de filtro]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) de SeaTable. Los nuevos grupos de filtros permiten **combinar reglas de filtrado con los operadores lógicos Y y O**. Ejemplo: Buscar hombres nacidos después de 1979 (grupo de filtrado 1) o mujeres nacidas después de 1984 (grupo de filtrado 2). Este tipo de filtrado no era posible anteriormente en SeaTable. En versiones anteriores, todas las reglas de filtrado se vinculaban con los operadores lógicos Y u O.
 
-![Grupos de filtros en SeaTable 5.2](Fitlergroups.png)
+![Grupos de filtros con condiciones combinadas AND/OR para selecciones de datos complejas](Fitlergroups.png)
 
 En futuras versiones, también introduciremos grupos de filtros en aplicaciones, formularios y automatizaciones.
 
@@ -28,7 +28,7 @@ En futuras versiones, también introduciremos grupos de filtros en aplicaciones,
 
 La versión 5.2 también ofrece opciones de filtro ampliadas en el [formato]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) condicional de [filas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) y [celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}). ¿Desea colorear de rojo una celda en función de los valores de otras columnas para llamar la atención sobre ella? Con SeaTable 5.2 puede hacerlo. El código de colores de una fila o celda puede formatearse ahora en función del valor de cada columna individual de un conjunto de datos. Y eso no es todo: el formato condicional también puede tener en cuenta los valores de varias columnas, independientemente del tipo de columna.
 
-![Formato condicional mejorado en SeaTable 5.2](ConditionalFormatting.png)
+![Formato condicional de filas y celdas entre columnas según varios valores de columna](ConditionalFormatting.png)
 
 ## Mejoras funcionales en el App Builder
 
@@ -38,7 +38,7 @@ El tipo de página de [registro único de datos]({{< relref "help/app-builder/se
 
 A partir de SeaTable 5.2, la configuración de página para este tipo de página incluye la función **Predeterminar columnas de sólo lectura**, que ya es familiar de otros tipos de página. En combinación con la [autorización de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) "¿Quién puede editar filas?", el administrador de la aplicación puede definir con precisión qué valores de columna de un registro de datos pueden ser introducidos o modificados por los usuarios y cuáles no.
 
-![Nueva configuración de columnas de sólo lectura en la página de registro único](ROcolumns-SingleRecordPage.png)
+![Tipo de página «Registro único» con ajuste para columnas predefinidas como solo lectura](ROcolumns-SingleRecordPage.png)
 
 En el caso de los [registros de datos bloqueados]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), ahora el usuario también recibe un aviso de que no es posible editarlos. Aparecerá el mensaje correspondiente al situar el puntero del ratón sobre "Editar entrada" en la barra de herramientas.
 
@@ -56,7 +56,7 @@ Los **filtros preestablecidos** de la configuración de datos permiten ahora sel
 
 La [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) ha recibido un nuevo tipo de estadística: similar a la [página de tabla]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), la **tabla simple** permite la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tabla, el nuevo tipo de estadística permite combinar dos o más tablas en una página. En la versión 5.2, los usuarios de la aplicación no pueden establecer sus propias reglas de filtrado y ordenación. Añadiremos esta función en el futuro.
 
-![Nuevo tipo de gráfico "Cuadro básico"](BasicTable.png)
+![Tipo de estadística «Tabla básica» que muestra registros prefiltrados en una página personalizada](BasicTable.png)
 
 ### Tipo de página Calendario
 
@@ -78,7 +78,7 @@ Puedes instalar el nuevo plugin de pizarra además o como alternativa al plugin 
 
 La sustitución del plugin se había hecho necesaria porque el "antiguo" plugin de pizarra, que se basa en el proyecto de código abierto [excalidraw](https://github.com/excalidraw/excalidraw), resultó ser propenso a fallos de funcionamiento cuando era utilizado por varios usuarios al mismo tiempo. Con la versión 6.0 en verano de 2025, eliminaremos el antiguo plugin de SeaTable Cloud. Todas las pizarras del antiguo plugin dejarán de estar disponibles.
 
-![](tldraw-collaboration.png)
+![Plugin de pizarra «Whiteboard (tldraw)» con edición colaborativa en tiempo real por varios usuarios](tldraw-collaboration.png)
 
 ## Cambios importantes en la API de SeaTable
 
@@ -98,7 +98,7 @@ SeaTable 5.2 tiene otras novedades que merecen algo más que una mención explí
 
 La capacidad de **gestionar datos jerárquicos en una tabla** alcanza un nuevo nivel en SeaTable 5.2: las relaciones padre e hijo se registran y muestran en columnas separadas. SeaTable garantiza que cada relación padre tenga también una relación hijo. Esto facilita el análisis de las relaciones en ambas direcciones. La ilustración muestra la diferencia entre SeaTable 5.2 (izquierda) y SeaTable 5.1 (derecha) para la alta dirección de una organización ficticia.
 
-![Enlaces internos por yuxtaposición en SeaTable 5.1 y 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
+![Comparación de enlaces internos en SeaTable 5.2 y 5.1 con columnas separadas de padre e hijo](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
 Para los usuarios, esto sólo aporta ventajas sin complejidad adicional. Si un usuario crea una nueva **columna de** enlace que vincule entradas de una misma tabla, SeaTable crea automáticamente la segunda columna de enlace. Los plugins de [organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) y [árbol]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) también pueden manejar la estructura de datos mejorada.
 

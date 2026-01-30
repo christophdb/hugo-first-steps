@@ -20,7 +20,7 @@ Nous sommes heureux d'annoncer la mise en production de la version 1.2 de SeaTab
 
 Dans le passé, la page d'accueil avait un aspect un peu ennuyeux. C'est désormais terminé ! Dans la nouvelle version, vous pouvez changer l'icône et la couleur de chaque base. Vous disposez au total de 12 couleurs et de plus de 25 symboles. Il vous suffit de cliquer sur l'icône en forme de crayon à droite du nom de la base et de personnaliser l'apparence de vos bases selon vos envies.
 
-![](baseColorAndIcon-711x501.jpg)
+![Page d’accueil de SeaTable avec icônes de bases colorées et modifiables](baseColorAndIcon-711x501.jpg)
 
 Personnaliser les icônes et les couleurs de base vous aidera à mieux organiser vos bases et à les retrouver plus rapidement, surtout si vous avez beaucoup de bases dans SeaTable. Dans une prochaine version, la couleur de l'en-tête de la base dans l'affichage du tableau sera synchronisée avec la couleur de l'icône de la base.
 
@@ -36,7 +36,7 @@ Dans SeaTable, vous avez toujours une vue d'ensemble de ce qui se passe dans vos
 
 Un snapshot capture l'état d'une base au moment de sa création. En d'autres termes, les snapshots sont en fait des machines permettant de remonter le temps. Vous voulez voir à quoi ressemblait une base il y a trois jours ? Oubliez le log, utilisez un snapshot !
 
-![](Snapshots.png)
+![Vue des snapshots d’une base avec liste des versions enregistrées et option de restauration](Snapshots.png)
 
 Vous pouvez accéder aux snapshots disponibles d'une base dans la vue Tableau ou via les options avancées de la base sur la page d'accueil. (Notez que la durée pendant laquelle SeaTable conserve vos snapshots dépend de votre abonnement). Lorsque vous restaurez un snapshot, une nouvelle base est créée. Ne vous inquiétez donc pas d'écraser votre base actuelle lors de la restauration d'un snapshot.
 
@@ -46,7 +46,7 @@ Les vues polyvalentes sont l'une des meilleures fonctions de SeaTable. Triez, re
 
 La fonction de vue est désormais encore plus puissante ! Dans le passé, la création d'une nouvelle vue similaire à une vue existante était un peu plus laborieuse. Toutes les conditions de tri, de regroupement et de filtrage devaient être configurées à partir de zéro. Ce facteur de frustration a désormais disparu. Avec SeaTable 1.2, il est possible de dupliquer des vues.
 
-![](duplicate_view.png)
+![Menu des vues avec option « Dupliquer la vue » pour copier des vues de tableau existantes](duplicate_view.png)
 
 Dans le menu Affichage, vous trouverez l'option 'Dupliquer l'affichage'. Un clic suffit pour créer une nouvelle vue basée sur la vue existante. Les adaptations des conditions de tri, de regroupement et de filtrage dans cette nouvelle vue sont alors rapidement effectuées.
 
@@ -58,7 +58,7 @@ Une base SeaTable peut être facilement partagée avec d'autres utilisateurs. Gr
 
 Au lieu de partager une base entière, les abonnés Enterprise ont désormais la possibilité de ne partager que certaines vues sur les données d'une base. Filtrez les données, masquez les colonnes, triez et regroupez les enregistrements de manière à ce que la vue parle haut et fort du message souhaité, et ne mettez que celle-ci à la disposition de vos collègues. C'est à cela que sert la nouvelle fonction 'Partager la vue'.
 
-![](share_view.png)
+![Boîte de dialogue de partage de vue avec options d’accès partagé aux données filtrées](share_view.png)
 
 Lorsque vous partagez une base - même en lecture seule - vous exposez toutes les données stockées dans la base. Dans le cas d'une vue partagée, les destinataires n'ont accès qu'aux données qu'ils doivent voir.
 
@@ -66,7 +66,7 @@ Lorsque vous partagez une base - même en lecture seule - vous exposez toutes le
 
 Vous souhaitez partager une base avec d'autres membres de l'équipe, mais vous voulez les empêcher de modifier le contenu d'une ou plusieurs lignes ? Alors SeaTable 1.2 a exactement ce qu'il vous faut : la nouvelle fonction de verrouillage des lignes.
 
-![](lock_row.png)
+![Menu contextuel avec fonction « Verrouiller la ligne » activée et triangle rouge dans le numéro de ligne](lock_row.png)
 
 Un clic droit sur une cellule appelle le menu contextuel de la ligne, où vous trouverez la nouvelle option 'Verrouiller la ligne'. Dès qu'une ligne est verrouillée, un triangle rouge s'affiche dans le coin supérieur droit du numéro de la ligne. Répétez la procédure pour déverrouiller. Les administrateurs de la base (propriétaires de la base ainsi que les administrateurs de groupe) peuvent déverrouiller n'importe quelle ligne ; les autres utilisateurs ne peuvent déverrouiller que les lignes qu'ils ont eux-mêmes verrouillées.
 
@@ -74,7 +74,7 @@ Un clic droit sur une cellule appelle le menu contextuel de la ligne, où vous t
 
 Outre le verrouillage des lignes, les administrateurs de Base peuvent également restreindre l'accès à certaines colonnes. Avec SeaTable 1.2, vous pouvez décider qui peut modifier les entrées d'une colonne : personne, uniquement les administrateurs ou certains utilisateurs. Inutile de préciser que les autorisations de colonnes peuvent bien sûr être combinées avec les verrouillages de lignes.
 
-![](column_permission.png)
+![Boîte de dialogue des autorisations de colonne définissant qui peut modifier cellules et paramètres](column_permission.png)
 
 Les autorisations de colonne sont disponibles pour tous les types de colonne. Ouvrez le menu contextuel des colonnes et sélectionnez 'Modifier les autorisations de colonne'. L'assistant qui apparaît vous guidera pour le reste.
 

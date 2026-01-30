@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
     - 'low-code-no-code'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'App Builder'
 color: '#9fe0cc'
 url: '/pt/criar-app'

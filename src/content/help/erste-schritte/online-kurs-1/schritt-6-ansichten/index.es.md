@@ -30,7 +30,7 @@ Cada vista recién creada no contiene inicialmente ninguna agrupación, ordenaci
 1. Agrupar los datos en la columna `Date` por año.
 2. A continuación, agrupe los datos según `Category-Link`.
 
-![](images/lvl1-view-groups.png)
+![Vista «Group by date and category» agrupada por año y por enlace de categoría](images/lvl1-view-groups.png)
 
 ## Crear una vista con filtro y agrupación
 

@@ -116,7 +116,7 @@ The budget planning for the entire company is made up of the sub-budgets of all 
 
 In order to make budgeting transparent, it is important to involve all departments in budget planning at an early stage. Important areas are personnel budget planning (recruiting, salaries, etc.), marketing budget planning and IT budget planning. These departments usually manage large budgets of their own and are indispensable for strategic budget planning.
 
-Below we take a closer look at budget planning in [IT]({{< relref "pages/industry-solutions/software-development" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}). If you are interested in [personnel planning]({{< relref "20250630-personalplanung" >}}) or a [marketing plan]({{< relref "posts/20250318-marketingplan" >}}), click on the linked articles for further information.
+Below we take a closer look at budget planning in [IT]({{< relref "pages/industry-solutions/software-development" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}). If you are interested in [personnel planning]({{< relref "personalplanung" >}}) or a [marketing plan]({{< relref "posts/20250318-marketingplan" >}}), click on the linked articles for further information.
 
 ### IT budget planning
 

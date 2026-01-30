@@ -32,7 +32,7 @@ La tarea más tediosa y que más tiempo consume a los empresarios suele ser lafa
 
 Si nunca ha tenido que redactar una factura, probablemente no sepa por dónde empezar. En ese caso, nuestra plantilla de factura te ayudará enormemente, pues ya contiene todos los elementos que necesitas para crear una factura correcta.
 
-![](images/image-1740150545889.png)
+![Vista de tabla de facturas con datos de clientes, conceptos y importes](images/image-1740150545889.png)
 
 La siguiente información obligatoria no debe faltar en ningún modelo de factura:
 
@@ -56,7 +56,7 @@ La siguiente información obligatoria no debe faltar en ningún modelo de factur
 
 10. en el membrete de su modelo de factura deben figurar susdatos bancarios, suNIFy otros datos pertinentes de la empresa.
 
-![](images/image-1740153573350.gif)
+![Editor de diseño de página con plantilla de factura formateada, logotipo y lista de conceptos](images/image-1740153573350.gif)
 
 ## Las numerosas funciones de este modelo de factura
 
@@ -74,7 +74,7 @@ La siguiente información obligatoria no debe faltar en ningún modelo de factur
 
 Con la plantilla de factura de SeaTable, crear y gestionar facturas es un juego de niños. La plantilla para su factura le ayuda a organizar claramentelos productos,clientesypedidos, crear automáticamente una factura y guardarla como PDF lista para su envío.
 
-![](images/image-1740154500265.gif)
+![Flujo de trabajo en SeaTable: crear factura, guardar como PDF y enviar por correo electrónico](images/image-1740154500265.gif)
 
 Gracias a losenlacesinteligentes, la plantilla de factura se alimenta con los datos pertinentes de varias tablas: La información del cliente, los artículos del pedido y los precios fluyen sin problemas, mientras quelas fórmulascalculan automáticamente los descuentos y el IVA. Esto significa que tanto las grandes empresas como las pequeñas pueden utilizar la plantilla de factura para mantener una visión general en todo momento y ahorrar un tiempo valioso.
 

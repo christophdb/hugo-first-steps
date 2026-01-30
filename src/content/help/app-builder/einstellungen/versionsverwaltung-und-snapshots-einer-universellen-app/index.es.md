@@ -44,17 +44,17 @@ Una instantánea de la aplicación no se guarda:
 
 1. Abra una **aplicación universal** en [modo de edición]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
-![Editar aplicaciones](images/Apps-bearbeiten.png)
+![Universal App Builder en modo edición con lista de apps abierta](images/Apps-bearbeiten.png)
 
 3. Haga clic en {{< seatable-icon icon="dtable-icon-history" >}} **Gestión de versiones** en la parte superior izquierda de la página.
 
-![Gestión de versiones en Universal App Builder](images/Version-management-in-Universal-App-Builder.png)
+![Gestión de versiones de una aplicación universal con lista de snapshots existentes](images/Version-management-in-Universal-App-Builder.png)
 
 5. Se abre una ventana. Crea allí una **nueva instantánea**.
 6. Si lo desea, puede añadir una **nota** a la instantánea.
 7. Confirme con **Enviar**.
 
-![Gestión de versiones en Universal App Builder](images/Version-management-in-Universal-Apps.gif)
+![Creación de un nuevo snapshot de app en la gestión de versiones con nota opcional](images/Version-management-in-Universal-Apps.gif)
 
 {{< warning  headline="Numeración de las versiones"  text="Para cada instantánea se registran la **hora** exacta **de creación** y un **número de versión**. No se sorprenda si sus instantáneas no reciben números consecutivos (1, 2, 3 ...). SeaTable cuenta cada cambio que realice en una aplicación universal como una versión independiente. Esto significa que puede haber rápidamente docenas de versiones entre dos instantáneas." />}}
 
@@ -69,13 +69,13 @@ En cuanto hayas creado una instantánea, tienes cuatro operaciones entre las que
 
 Antes de restaurar una instantánea y saltar apresuradamente a otra versión, primero deberías echar un vistazo a esta versión. Para ello, sigue el mismo procedimiento anterior: Haz clic en los **tres puntos** del extremo derecho de una instantánea y selecciona la operación **Ver versión** en el menú desplegable.
 
-![Versión preliminar de la instantánea de la aplicación](images/Preview-version-of-app-snapshot.png)
+![Vista previa de una versión guardada de la aplicación en el Universal App Builder](images/Preview-version-of-app-snapshot.png)
 
 ## Restaurar instantánea de aplicación
 
 Para restaurar una instantánea de aplicación, haga clic en los **tres puntos** y seleccione la operación correspondiente en el menú desplegable.
 
-![Restaurar la versión de la instantánea de la aplicación](images/Restore-version-of-app-snapshot.png)
+![Diálogo para restaurar un snapshot de la aplicación como versión actual](images/Restore-version-of-app-snapshot.png)
 
 {{< warning  headline="Atención"  text="La restauración de instantáneas en Universal App Builder funciona de forma diferente que en Base, donde la instantánea se restaura en una nueva Base y se conserva la versión actual. **En Universal App Builder, sin embargo, la versión actual se descarta al restaurar una instantánea.**" />}}
 
@@ -85,12 +85,12 @@ En cuanto restaures una instantánea, la aplicación se restablecerá al estado 
 
 Si quieres añadir, modificar o eliminar la nota de una versión más adelante, puedes hacerlo en cualquier momento. Abra el campo de texto correspondiente haciendo clic en los **tres puntos** situados en el extremo derecho de una instantánea y seleccionando **Nota** en el menú desplegable. Guarda los cambios haciendo clic en **Enviar**.
 
-![Modificar las notas de la instantánea de la aplicación](images/Modify-notes-of-app-snapshot.png)
+![Diálogo para editar o añadir una nota a un snapshot de la aplicación](images/Modify-notes-of-app-snapshot.png)
 
 ## Eliminar la instantánea de la aplicación
 
 Puedes eliminar una instantánea que ya no necesites en cualquier momento. Haz clic en los **tres puntos** situados en el extremo derecho de una instantánea y selecciona la operación **Eliminar versión** en el menú desplegable.
 
-![](images/Delete-version-of-app-snapshot.png)
+![Diálogo de confirmación para eliminar de forma definitiva un snapshot de la aplicación](images/Delete-version-of-app-snapshot.png)
 
 {{< warning  headline="Atención"  text="La eliminación de una instantánea de aplicación es definitiva. El estado de la memoria de la versión anterior se pierde irrevocablemente y no se puede restaurar." />}}

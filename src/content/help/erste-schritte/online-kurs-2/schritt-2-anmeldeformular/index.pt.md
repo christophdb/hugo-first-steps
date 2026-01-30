@@ -29,7 +29,7 @@ Os três campos são definidos como campos obrigatórios. Os campos **Nome** e *
 
 A caraterística especial é a seleção de cursos: Aqui só pode selecionar os cursos que ainda têm lugares disponíveis. Experimente por si próprio: Se clicar no campo de seleção, apenas são apresentados três cursos, embora a tabela apresente um total de cinco cursos.
 
-![](images/lvl2-limited-course-selection.png)
+![Formulário web com seleção de cursos limitada a cursos disponíveis](images/lvl2-limited-course-selection.png)
 
 Porquê? Alterámos a seleção na coluna de ligação para a vista `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` que mostra apenas as disciplinas com lugares livres. Isto significa que só verá os cursos que estão disponíveis nesta vista do formulário Web.
 

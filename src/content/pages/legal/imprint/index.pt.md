@@ -29,6 +29,7 @@ Germany
 Court of registry: District Court Mainz  
 Commercial register number: HRB 49723  
 VAT-ID: DE331940591
+DUNS number: 343248411
 
 ### Represented by
 
@@ -38,7 +39,7 @@ Dr. Ralf Dyllick-Brenzinger
 ### Contact
 
 Telefon: +49 6131 26550  
-E-Mail: info@seatable.io
+E-Mail: info@seatable.com
 
 Responsible for the content according to paragraph 55 RStV
 

@@ -21,13 +21,13 @@ Pero, por supuesto, estaría bien que también pudieras registrar otros gastos e
 
 Encontrará muchas funciones adicionales en la zona de cabecera de su base. Detrás del botón `Forms` SeaTable le ofrece la posibilidad de crear nuevos formularios web.
 
-![](images/level1-create-webform.png)
+![Gestión de formularios con botón «Forms» y nuevo formulario web](images/level1-create-webform.png)
 
 1. Crear un nuevo formulario web con el nombre `Expense Tracking`. El nombre no importa, pero ¿por qué no ponerle un nombre bonito?
 2. Se abre una nueva interfaz de usuario en la que puede diseñar el formulario web.
 3. Arrastre los cuatro campos de la tabla `Reason`, `Date`, `Amount` y `Category` mediante arrastrar y soltar en el formulario.
 
-![](images/level1-webform.png)
+![Formulario web «Expense Tracking» con campos Reason, Date, Amount, Category](images/level1-webform.png)
 
 ## Otros ajustes del formulario web
 

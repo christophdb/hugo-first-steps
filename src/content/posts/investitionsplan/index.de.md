@@ -28,7 +28,7 @@ Nehmen wir an, dass Sie eine neue Anlage in Ihrer Fabrik installieren wollen, um
 
 ## Warum ein Investitionsplan für Unternehmen essenziell ist
 
-Wenn Sie ein Unternehmen gründen oder in leitender Position managen, stehen Sie immer wieder vor wichtigen **Investitionsentscheidungen**. Egal, ob Sie neue Maschinen kaufen, [Personal einstellen]({{< relref "posts/20250630-personalplanung" >}}) oder die Digitalisierung vorantreiben möchten – jede Entscheidung beeinflusst das zukünftige Wachstum und den Erfolg Ihres Unternehmens. Mit einem durchdachten Investitionsplan steuern Sie vorausschauend Ihre Ausgaben, setzen klare Prioritäten und vermeiden unnötige Risiken.
+Wenn Sie ein Unternehmen gründen oder in leitender Position managen, stehen Sie immer wieder vor wichtigen **Investitionsentscheidungen**. Egal, ob Sie neue Maschinen kaufen, [Personal einstellen]({{< relref "posts/personalplanung" >}}) oder die Digitalisierung vorantreiben möchten – jede Entscheidung beeinflusst das zukünftige Wachstum und den Erfolg Ihres Unternehmens. Mit einem durchdachten Investitionsplan steuern Sie vorausschauend Ihre Ausgaben, setzen klare Prioritäten und vermeiden unnötige Risiken.
 
 Des Weiteren entsteht durch Investitionen meist ein hoher **Kapitalbedarf**, den Sie oft nur mit externen Geldgebern wie Banken und Investoren decken können. Eine überzeugende Investitionsplanung zeigt ihnen, dass Sie mit Geld umgehen können, und erhöht Ihre **Kreditwürdigkeit**. Nicht zuletzt kalkulieren Sie bei der Investitionsrechnung auch den potenziellen Nutzen Ihrer Investitionen und ermitteln, ab wann sich Ihr Kapitaleinsatz rentieren wird.
 
@@ -74,7 +74,7 @@ Die hypothetischen Kosten für diese Rücklagen tauchen bei der Bilanzierung (z.
 
 4. **Kalkulieren Sie Kosten und Nutzen**: Natürlich sollen Ihre Investitionen möglichst schnell Früchte tragen. Berechnen Sie daher für jede Investition sorgfältig, welche Kosten auf Sie zukommen und welchen Nutzen Sie erwarten. Mit einer solchen [Kosten-Nutzen-Analyse]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) können Sie unnötige Fehlinvestitionen vermeiden.
 
-5. **Planen Sie den Zeithorizont**: Ein Investitionsplan hilft Ihnen, notwendige Ausgaben zeitlich zu ordnen und die Mittel so einzusetzen, dass die Finanzierung langfristig gesichert ist. Dank eines realistischen Zeitplans, wann Sie welche Investitionsgüter anschaffen, sinkt die Gefahr von [Liquiditätsengpässen]({{< relref "posts/20250628_liquiditaetsplanung" >}}). 
+5. **Planen Sie den Zeithorizont**: Ein Investitionsplan hilft Ihnen, notwendige Ausgaben zeitlich zu ordnen und die Mittel so einzusetzen, dass die Finanzierung langfristig gesichert ist. Dank eines realistischen Zeitplans, wann Sie welche Investitionsgüter anschaffen, sinkt die Gefahr von [Liquiditätsengpässen]({{< relref "posts/liquiditaetsplanung" >}}). 
  
 6. **Realisieren Sie Ihren Investitionsplan**: Die Finanzierung, der Stellenwert, der Nutzen und der Zeitplan Ihrer Investitionen sind geklärt? Dann steht der Umsetzung Ihrer Investitionsplanung nichts mehr im Weg! Prüfen Sie regelmäßig, ob Ihre Investitionen tatsächlich den gewünschten Erfolg bringen, und passen Sie Ihren Plan gegebenenfalls an.
 

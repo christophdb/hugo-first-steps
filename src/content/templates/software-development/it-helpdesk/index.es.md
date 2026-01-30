@@ -17,7 +17,7 @@ Un sistema de tickets en SeaTable le ayuda a registrar, organizar y resolver tod
 
 La tabla central del software del servicio de asistencia registra todas las solicitudes entrantes a través de unformulario webpersonalizable.
 
-![](images/image-1743602701710.png)
+![Formulario web de tickets IT con campos para contacto y descripción del problema](images/image-1743602701710.png)
 
 Puede asignar a cada entrada información importante comoel estado, laprioridady unapersona responsable. Gracias a la asignación automática a los miembros de su equipo en función de las responsabilidades previamente definidas y a un sencillo cambio de estado de "abierto" a "en curso" o "finalizado", siempre tendrá una visión de conjunto.
 
@@ -45,7 +45,7 @@ Estadísticas: Visualice los datos de sus tickets y analice KPI importantes como
 
 Laaplicación integradadel software del servicio de asistencia ofrece aún más. Una interfaz clara e intuitiva le permite crear unpanel de control personalizadoque puede adaptar a sus necesidades con poco esfuerzo. Los nuevos tickets se pueden crear con unos pocos clics mediante el formulario web y la información relevante se puede buscar directamente en labase de conocimientos. La clara vista Kanban filtra los tickets en función del usuario, de modo que sólo lostickets relevantes para ustedson visibles en su tablero. También puede configurar individualmentequién puede ver y editar qué datospara proteger sus tickets de accesos no autorizados.
 
-![](images/image-1743602924380.png)
+![Panel de la app de helpdesk IT con tickets, métricas clave y vista Kanban](images/image-1743602924380.png)
 
 ## Ventajas de SeaTable como software de helpdesk
 

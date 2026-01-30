@@ -9,7 +9,7 @@ categories:
     - 'customer-story'
 tags:
     - 'ИТ-процессы'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 color: '#73aecf'
 url: '/ru/johannes-fontanus-college-it-poddepshka'
 register:

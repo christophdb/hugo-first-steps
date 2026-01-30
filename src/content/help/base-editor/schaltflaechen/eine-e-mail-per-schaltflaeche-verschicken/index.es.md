@@ -20,11 +20,11 @@ Con la ayuda de un **botón** en sus filas, puede enviar correos electrónicos a
 
 En primer lugar, seleccione la acción **Enviar correo electrónico** al crear el [botón]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 
-![Seleccionar la acción "Enviar correo electrónico](images/send-email-action.png)
+![Diálogo para seleccionar la acción de botón «Enviar correo»](images/send-email-action.png)
 
 En **Nombre de cuenta**, seleccione la cuenta desde la que desea enviar el correo electrónico. Si **no ve una cuenta** en este campo, primero debe [añadir]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) una [cuenta de correo electrónico a SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![Si no ve una cuenta de correo electrónico, primero debe añadir una cuenta de correo electrónico a SeaTable](images/add-email-account.png)
+![Cuadro de aviso indicando que primero debe añadirse una cuenta de correo](images/add-email-account.png)
 
 {{< warning  headline="Nota" >}}
 
@@ -34,19 +34,19 @@ Encontrará instrucciones detalladas sobre cómo configurar su **cuenta de corre
 
 Defina ahora el **asunto** y el **contenido** del correo electrónico.
 
-![Establecer el asunto y el contenido del correo electrónico](images/subject-and-message.png)
+![Pantalla de configuración del asunto y cuerpo del correo](images/subject-and-message.png)
 
 Si ha activado el control deslizante **Texto con formato**, al hacer doble clic en el campo de texto se abre el conocido **editor** en el que puede crear textos más largos con formato, listas e imágenes. Una característica especial es que también puede **insertar columnas**.
 
-![Insertar columnas en textos de correo electrónico](images/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Editor de texto enriquecido con marcadores de columna insertados](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Seleccione el **destinatario** o **destinatarios** del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una **copia** del correo electrónico o a los que desee **responder** con el mismo. Puede introducir varios destinatarios separados por comas. Utilice el nombre de una columna entre llaves para citar el contenido de la columna.
 
-![Especifique el destinatario o destinatarios del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una copia del correo electrónico o a los que desee responder con el mismo.](images/send-to-copy-to-reply-to.png)
+![Diálogo para introducir destinatarios, direcciones CC y de respuesta](images/send-to-copy-to-reply-to.png)
 
 Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Tenga en cuenta, sin embargo, que _no puede_ simplemente cargar archivos, sino que primero debe guardarlos en una columna de archivos [de]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) la tabla. A continuación, en el campo **Archivos adjuntos**, puede seleccionar una o varias **columnas** de archivos desde las que desee adjuntar los archivos al correo electrónico.
 
-![Los archivos que haya añadido a una columna de archivos de su tabla pueden utilizarse como archivos adjuntos en el correo electrónico](images/file-001.png)
+![Selección de columnas de archivos como origen de adjuntos del correo](images/file-001.png)
 
 ## Ejecución condicional de acciones de varios botones
 
@@ -56,4 +56,4 @@ Por ejemplo, es posible que desee [guardar un documento PDF en una columna de ar
 
 Para evitarlo, puede vincular la ejecución de las acciones de los botones a condiciones de **filtro**. En el caso de uso mencionado, por ejemplo, puede añadir como condición de filtro que el correo electrónico **sólo** se envíe si la **columna de archivo** de la misma fila **no** está **vacía.** De este modo, establece una secuencia clara: cuando se pulsa el botón, SeaTable debe crear primero un **PDF** porque el correo electrónico **sólo** puede enviarse **con un archivo adjunto**.
 
-![](images/send-email-via-button-with-conditions-1.gif)
+![Botón envía el correo solo si la columna de archivo no está vacía](images/send-email-via-button-with-conditions-1.gif)

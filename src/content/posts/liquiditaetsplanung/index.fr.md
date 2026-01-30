@@ -12,6 +12,8 @@ color: '#aadbf3'
 seo:
     title: 'Planification des liquidités : conseils pour votre plan de liquidités'
     description: Découvrez comment optimiser vos liquidités et minimiser les risques. Notre article de blog vous présente tous les conseils importants pour la planification des liquidités.
+register:
+   show: true
 ---
 
 Qu'il s'agisse d'une jeune start-up, d'une entreprise moyenne ou d'un grand groupe : sans une vue d'ensemble claire de vos flux de paiement, cela peut vite devenir risqué. Car même si votre entreprise fait des bénéfices sur le papier, si l'argent manque à court terme pour payer les salaires, le loyer ou le matériel, cela peut menacer votre existence. Pour éviter cela, vous devriez, en tant qu'entreprise, calculer préventivement vos **liquidités au moyen d'une planification des liquidités**.

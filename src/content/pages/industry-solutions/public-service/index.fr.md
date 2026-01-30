@@ -3,7 +3,7 @@ title: "L'administration numérique simplifiée pour les administrations et les 
 description: ''
 seo:
     title: "Administration numérique pour autorités et communes"
-    description: "Facilitez la transformation numérique : SeaTable propose des solutions sans code, conformes au RGPD, en cloud ou sur site"
+    description: "Une gestion efficace grâce à l'IA et au no-code : SeaTable offre aux autorités publiques des solutions flexibles et conformes au RGPD dans le cloud ou sur site."
 date: '2025-04-03'
 url: '/fr/gouvernement-numerique'
 aliases:
@@ -16,7 +16,7 @@ sections:
       weight: 1
       title: Administration numérique dans la fonction publique
       subtitle: La solution No-Code pour la numérisation du secteur public
-      text: "La numérisation de l'administration est un défi majeur. SeaTable offre une solution flexible et sécurisée pour cela. Les administrations peuvent numériser les processus et gérer les données conformément au RGPD. Choisissez entre la solution SeaTable Cloud ou votre propre installation de serveur. Démarrez dès maintenant l'administration numérique de votre autorité !"
+      text: "La numérisation de l'administration est un défi majeur. SeaTable combine **des structures flexibles sans code avec une IA puissante** afin non seulement de numériser les processus, mais aussi de les automatiser intelligemment, et gérer les données conformément au RGPD. Choisissez entre la solution SeaTable Cloud ou votre propre installation de serveur. Démarrez dès maintenant l'administration numérique de votre autorité !"
       classes:
           - bg-orange-100
       template: 1acd19d97c8f4ed3ad38
@@ -51,16 +51,16 @@ sections:
       items:
           - icon: signature
             headline: Gestion des approbations et des demandes
-            text: "Créez des formulaires numériques et suivez l'état des demandes en temps réel."
+            text: "Créez des formulaires numériques et laissez l'IA classer automatiquement les demandes entrantes et proposer des priorités."
           - icon: building
             headline: Gestion immobilière
             text: 'Gérez les propriétés avec des bases de données structurées et personnalisables.'
           - icon: substack
             headline: Planification budgétaire pour les communes
-            text: 'Numérisez la planification et la gestion financière pour une planification budgétaire plus efficace.'
+            text: "Numérisez la planification et la gestion financières et utilisez des prévisions basées sur l'IA pour une planification budgétaire plus efficace."
           - icon: ghost
             headline: Gestion des absences et du personnel
-            text: "Automatisez la gestion des dossiers du personnel, des demandes de vacances et des absences pour accroître l'efficacité."
+            text: "Automatisez la gestion des dossiers du personnel, des demandes de congés et des absences. Automatisez la création assistée par IA de projets de certificats ou de descriptions de poste directement dans Base."
           - icon: check
             headline: Gestion de projet
             text: Gérez les projets de manière efficace et transparente grâce à des processus automatisés et à une collaboration en temps réel.
@@ -72,7 +72,7 @@ sections:
       weight: 4
       title: Modèles pour une administration numérisée
       subtitle: Démarrez maintenant
-      description: Avec SeaTable, la numérisation dans le secteur public devient une opportunité non seulement de numériser les processus, mais aussi de les rendre efficaces et de les optimiser. Importez des modèles prédéfinis en un seul clic dans votre compte SeaTable.
+      description: Avec SeaTable, la numérisation dans le secteur public devient une opportunité non seulement de numériser les processus, mais aussi de les rendre efficaces et de les optimiser. Importez des modèles prédéfinis en un seul clic dans votre compte SeaTable. Utilisez les logiques intégrées et les préparations IA pour être immédiatement productif.
       items:
           - headline: 'Portefeuille de projets'
             text: Projets
@@ -93,11 +93,11 @@ sections:
 
     - name: content-25
       weight: 5
-      title: Solution No-Code pour la numérisation dans les autorités
+      title: Plateforme sans code basée sur l'IA pour la numérisation dans les administrations publiques
       subtitle: Efficace et indépendante des ressources informatiques limitées
-      text: "SeaTable révolutionne la numérisation dans les autorités avec sa solution no-code conviviale. Les processus complexes peuvent être facilement cartographiés sans connaissance de la programmation. Parfait pour les autorités où les capacités informatiques sont souvent limitées. Avec l'interface glisser-déposer, vous numérisez les processus administratifs rapidement et facilement."
+      text: SeaTable révolutionne la numérisation dans les administrations grâce à sa plateforme conviviale [IA sans code].({{< relref "/" >}}). **Sans connaissances en programmation**, vous pouvez facilement représenter des processus complexes. Parfait pour les administrations, où les capacités informatiques sont souvent limitées. Grâce à l'interface glisser-déposer, vous pouvez numériser vos processus administratifs rapidement et facilement.
       items:
-          - headline: 'Solutions individuelles'
+          - headline: 'Workflows IA personnalisés'
             text: 'Qu''il s''agisse de [gestion immobilière]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), de **planification budgétaire** ou de demandes de citoyens, les possibilités sont diverses. SeaTable s''intègre parfaitement aux structures existantes et simplifie la numérisation sans efforts informatiques majeurs.'
             image: /images/Landing-Page-Public-Services_Property-Management.png
             image_alt: 'Modèle SeaTable pour gestion immobilière dans l’administration publique'
@@ -113,9 +113,9 @@ sections:
       text: "Un aspect central de la numérisation de l'administration est la coopération transversale entre les différents services des autorités. SeaTable permet une intégration et une communication transparentes entre les différents services et autorités, **sans compromettre la sécurité et la confidentialité des données**, c'est-à-dire la numérisation jusqu'aux communes."
       items:
           - headline: Bases de données partagées
-            text: Utilisez des bases de données partagées pour une collaboration coordonnée et des processus accélérés.
+            text: Utilisez des bases de données communes pour une collaboration coordonnée et des processus accélérés assistés par l'IA.
           - headline: "Droits d'accès spécifiques aux rôles"
-            text: "Contrôlez l'accès aux données et aux processus pour garantir la sécurité des données."
+            text: "Contrôlez précisément les accès afin de garantir la sécurité des données, même lors d'analyses IA."
           - headline: Communication efficace
             text: Utilisez des fonctions de communication intégrées pour améliorer la collaboration et accélérer les processus de prise de décision.
 
@@ -157,6 +157,12 @@ sections:
 
           - q: 'Numérisation administration publique : SeaTable est-il vraiment gratuit ?'
             a: "Oui, vous pouvez utiliser SeaTable gratuitement et tester les fonctions de base de la plateforme pour la numérisation de l'administration ou la numérisation des communes sans avoir à saisir de carte de crédit. Des versions premium rentables sont disponibles pour des fonctions étendues et un plus grand espace de stockage."
+
+          - q: 'Welche Rolle spielt KI bei der Behörden Digitalisierung mit SeaTable?'
+            a: 'SeaTable nutzt KI, um Texte zu analysieren, Anträge automatisch zu kategorisieren und Routineaufgaben zu automatisieren. Dies ergänzt die klassischen No-Code-Tools perfekt, um Verwaltungsprozesse DSGVO-konform zu beschleunigen.'
+
+          - q: 'Ist die KI-Nutzung in SeaTable wirklich sicher?'
+            a: 'Ja, SeaTable bietet höchste Sicherheitsstandards. KI-Funktionen können so konfiguriert werden, dass sie den strengen Anforderungen der DSGVO und dem Datenschutz im öffentlichen Dienst entsprechen.'
 
           - q: "Quelles mesures de sécurité SeaTable offre-t-il lors de la numérisation dans l'administration ?"
             a: "SeaTable offre les normes de sécurité les plus élevées et un environnement conforme au RGPD, tant pour les solutions cloud que sur site. Toutes les données sont stockées dans des centres de données allemands certifiés d'un fournisseur suisse et il existe de nombreuses options pour gérer les droits d'accès et enregistrer les accès aux données."
