@@ -11,9 +11,8 @@ url: '/fr/securite'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Cette page est disponible uniquement en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
-
-L'**[original allemand]({{< relref path="pages/legal/security" lang="de" >}})** est juridiquement contraignant.
+Cette page est disponible uniquement en anglais et en allemand. La version anglaise est une traduction de commodité non contraignante.
+La **[version originale allemande]({{< relref path="pages/legal/security" lang="de" >}})** est juridiquement contraignant.
 
 {{< /alert >}}
 

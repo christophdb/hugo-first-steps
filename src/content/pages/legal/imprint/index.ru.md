@@ -9,6 +9,7 @@ type: 'legal'
 url: '/ru/vykhodnye-dannye'
 aliases:
     - '/ru/imprint/'
+    - '/ru/impressum/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
@@ -18,7 +19,7 @@ aliases:
 
 {{< /alert >}}
 
-## Information according to paragraph 5 German Telemedia Act (TMG)
+## Information according to § 5 German Digital Services Act (DDG)
 
 SeaTable GmbH  
 117er Ehrenhof 5  
@@ -27,7 +28,7 @@ Germany
 
 Court of registry: District Court Mainz  
 Commercial register number: HRB 49723  
-VAT-ID: DE331940591
+VAT-ID: DE331940591  
 DUNS number: 343248411
 
 ### Represented by
@@ -40,7 +41,7 @@ Dr. Ralf Dyllick-Brenzinger
 Telefon: +49 6131 26550  
 E-Mail: info@seatable.com
 
-Responsible for the content according to paragraph 55 RStV
+## Responsible person according to § 55 RStV
 
 Dr. Ralf Dyllick-Brenzinger  
 117er Ehrenhof 5  

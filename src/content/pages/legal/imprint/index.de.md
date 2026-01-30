@@ -9,7 +9,7 @@ type: 'legal'
 url: '/de/impressum'
 ---
 
-## Angaben gemäß Paragraph 5 TMG
+## Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)
 
 SeaTable GmbH  
 117er Ehrenhof 5  
@@ -18,7 +18,7 @@ Deutschland
 
 Registergericht: AG Mainz  
 Handelsregisternummer: HRB 49723  
-Umsatzsteuer-Identifikationsnummer: DE331940591
+Umsatzsteuer-Identifikationsnummer: DE331940591  
 DUNS Nummer: 343248411
 
 ### Vertreten durch
@@ -31,7 +31,7 @@ Dr. Ralf Dyllick-Brenzinger
 Telefon: +49 6131 26550  
 E-Mail: info@seatable.com
 
-## Verantwortlich für den Inhalt nach Paragraph 55 RStV
+## Verantwortlich nach § 55 RStV
 
 Dr. Ralf Dyllick-Brenzinger  
 117er Ehrenhof 5  

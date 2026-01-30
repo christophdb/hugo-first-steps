@@ -15,9 +15,8 @@ aliases:
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This page is only available in English and German. The English translation is an non-binding, convenience translation.
-
-The **[German original]({{< relref path="pages/legal/security" lang="de" >}})** is legally binding.
+This page is only available in English and German. The English version is a non-binding, convenience translation.
+The **[German original version]({{< relref path="pages/legal/security" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 

@@ -1,24 +1,25 @@
 ---
-title: 'Aviso-legal'
+title: 'Aviso legal'
 description: ''
 seo:
-    title: 'Aviso legal: Información de la empresa SeaTable'
+    title: 'Aviso legal SeaTable GmbH: Información de la empresa'
     description: 'Detalles legales y de contacto de SeaTable GmbH conforme a la normativa.'
 date: 2025-03-24
 type: 'legal'
 url: '/es/aviso-legal'
 aliases:
     - '/es/imprint/'
+    - '/es/impressum/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Este sello sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
+Este sello sólo está disponible en inglés y alemán. La versión en inglés es una traducción de conveniencia no vinculante.
 El **[original alemán]({{< relref path="pages/legal/imprint" lang="de" >}})** es jurídicamente vinculante.
 
 {{< /alert >}}
 
-## Information according to paragraph 5 German Telemedia Act (TMG)
+## Information according to § 5 German Digital Services Act (DDG)
 
 SeaTable GmbH  
 117er Ehrenhof 5  
@@ -27,7 +28,7 @@ Germany
 
 Court of registry: District Court Mainz  
 Commercial register number: HRB 49723  
-VAT-ID: DE331940591
+VAT-ID: DE331940591  
 DUNS number: 343248411
 
 ### Represented by
@@ -40,7 +41,7 @@ Dr. Ralf Dyllick-Brenzinger
 Telefon: +49 6131 26550  
 E-Mail: info@seatable.com
 
-Responsible for the content according to paragraph 55 RStV
+## Responsible person according to § 55 RStV
 
 Dr. Ralf Dyllick-Brenzinger  
 117er Ehrenhof 5  
