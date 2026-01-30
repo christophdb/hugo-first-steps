@@ -48,9 +48,6 @@ hugo-npm run watch
 
 ---
 
-4.
-5.
-6.
 7. hugo version
 
 RUN hugo new theme my-theme
