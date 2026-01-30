@@ -2,8 +2,8 @@
 title: 'Avisos legais'
 description: ''
 seo:
-    title: 'Avisos Legais SeaTable GmbH: dados e contatos'
-    description: 'Avisos Legais  e contatos oficiais da SeaTable GmbH conforme a lei europeia.'
+    title: 'Avisos legais SeaTable GmbH: dados e contatos'
+    description: 'AvisoslLegais e contatos oficiais da SeaTable GmbH conforme a lei europeia.'
 date: 2025-03-24
 type: 'legal'
 url: '/pt/informacoes-legais'

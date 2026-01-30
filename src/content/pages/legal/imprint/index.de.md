@@ -9,7 +9,7 @@ type: 'legal'
 url: '/de/impressum'
 ---
 
-## Angaben gemäß § 5 DDG
+## Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)
 
 SeaTable GmbH  
 117er Ehrenhof 5  

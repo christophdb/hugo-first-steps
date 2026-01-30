@@ -40,7 +40,7 @@ Mit dieser Dokumentation kommt die SeaTable GmbH ihren Verpflichtungen gemäß N
 
 | Unterauftragsverhältnisse | Adresse                                          | Rolle                  |
 | ------------------------- | ------------------------------------------------ | ---------------------- |
-| Sendinblue GmbH           | Köpenicker Straße 126, 10179 Berlin, Deutschland | E-Mail Marketingsystem |
+| Sendinblue GmbH (Brevo)   | Köpenicker Straße 126, 10179 Berlin, Deutschland | E-Mail Marketingsystem |
 
 Weitere Informationen zu den Unterauftragnehmern finden sich in der Datenschutzerklärung, die jederzeit auf der SeaTable Webseite unter [Datenschutz]({{< relref "pages/legal/data-privacy" >}}) abrufbar ist.
 
