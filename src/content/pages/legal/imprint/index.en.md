@@ -11,8 +11,8 @@ url: '/imprint'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
-The **[German original]({{< relref path="pages/legal/imprint" lang="de" >}})** is legally binding.
+This imprint is only available in English and German. The English version is a non-binding, convenience translation.
+The **[German original version]({{< relref path="pages/legal/imprint" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 
@@ -38,7 +38,7 @@ Dr. Ralf Dyllick-Brenzinger
 Telefon: +49 6131 26550  
 E-Mail: info@seatable.com
 
-Responsible for the content according to paragraph 55 RStV
+Responsible for the content according to paragraph 55 RStV:
 
 Dr. Ralf Dyllick-Brenzinger  
 117er Ehrenhof 5  
