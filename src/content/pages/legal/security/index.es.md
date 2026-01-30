@@ -11,7 +11,7 @@ url: '/es/seguridad'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Este pie de imprenta sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
+Esta página solo está disponible en inglés y en alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
 
 El **[original alemán]({{< relref path="pages/legal/security" lang="de" >}})** es jurídicamente vinculante.
 
