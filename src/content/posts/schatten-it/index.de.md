@@ -15,7 +15,6 @@ tags:
 color: '#6bbc67'
 register:
    show: true
-draft: true
 ---
 
 ### Key Take-aways
