@@ -3,7 +3,7 @@ title: 'Digital administration made easy for public authorities & companies'
 description: ''
 seo:
     title: 'Digital administration for authorities & municipalities'
-    description: 'Design digital administration with ease: SeaTable offers flexible, GDPR-compliant no-code solutions for public institutions – in the cloud or on-premises'
+    description: 'Efficient administration through AI & no-code: SeaTable offers public authorities flexible, GDPR-compliant solutions in the cloud or on-premises.'
 date: '2025-04-03'
 url: '/digital-government'
 aliases:
@@ -12,7 +12,7 @@ aliases:
     - '/offentlicher-dienst/'
     - '/public-service/'
 
-ssections:
+sections:
     - name: hero-5
       weight: 1
       title: Digital Administration with Intelligent AI Support
