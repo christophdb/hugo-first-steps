@@ -214,11 +214,9 @@ In den Log-Dateien der verwendeten Server werden Informationen gespeichert, die 
 Eine Zusammenführung dieser Daten mit fremden Datenquellen wird nicht vorgenommen.
 
 **Zweck und Rechtsgrundlage**
-
 Wir nutzen die Log-Daten, um den zuverlässigen Betrieb des Online Angebots sicherzustellen und um die technische Infrastruktur kontinuierlich weiterzuentwickeln. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
 
 **Speicherdauer**
-
 Die Log-Daten der Server werden automatisiert in regelmäßigen Zyklen bereinigt. Die Fristen sind abhängig von der Bedeutung der Log-Daten für den technischen Betrieb. Spätstens nach 180 Tagen werden die Daten gelöscht.
 
 ### Cookies
@@ -230,7 +228,6 @@ Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwend
 Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies stehen mit großer Wahrscheinlichkeit einige Funktionen des Online Angebots nicht zur Verfügung.
 
 **Zweck und Rechtsgrundlage**
-
 Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen und zuverlässigen Betrieb notwendig sind. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, sofern keine andere Rechtsgrundlage angegeben ist. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies auf den Endgeräten zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste.
 
 Die folgende Tabelle führt die von diesem Online Angebot verwendeten Cookies auf und liefert weitere Informationen über diese, insbesondere auch deren Gültigkeit:
@@ -255,11 +252,9 @@ Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Part
 Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
 **Zweck und Rechtsgrundlage**
-
 Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
 
 **Speicherdauer**
-
 Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
 
 ### Anfrage per E-Mail und Telefon
@@ -267,11 +262,9 @@ Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie 
 Wenn Sie uns per E-Mail und Telefon kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
 **Zweck und Rechtsgrundlage**
-
 Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
 
 **Speicherdauer**
-
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 ### Registrierung
@@ -281,11 +274,9 @@ Sie können sich auf diesem Online Angebot registrieren, um zusätzliche Funktio
 Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendigen Änderungen nutzen wir die bei der Registrierung angegebene E-Mail-Adresse, um Sie auf diesem Wege zu informieren.
 
 **Zweck und Rechtsgrundlage**
-
 Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses und ggf. zur Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. b DSGVO).
 
 **Speicherdauer**
-
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
 
 ===
@@ -323,7 +314,6 @@ Posthog erfasst Nutzungsdaten wie aufgerufene Seiten, Verweildauer, verwendetes 
 Wir hosten Posthog auf einem eigenen Server und die Verarbeitung der Daten erfolgt ausschließlich auf diesem Server. Eine Weitergabe an Dritte findet nicht statt. Eine Zusammenführung mit fremden Datenquellen erfolgt nicht.
 
 **Zweck und Rechtsgrundlage**
-
 Wir nutzen Posthog, um neue Funktionen auf dem Online Angebot gezielt zu aktivieren und damit zu testen. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
 ===
@@ -341,7 +331,6 @@ In Posthog erfassen wir nur anonymsierte Daten. Ihren Namen verwenden wir nicht.
 Wenn Sie einen oder mehrere der angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
 
 **Zweck und Rechtsgrundlage**
-
 Die Verarbeitung der von Ihnen bei der Newsletteranmeldung eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen. Der einfachste Weg zum Widerruf Ihrer Einwilligung ist ein Klick auf den „Abmelden“-Link, der in jedem Newsletter enthalten ist. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 ### Brevo
