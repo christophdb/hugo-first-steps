@@ -1,8 +1,8 @@
 ---
-title: 'Protection de données'
+title: 'Protection de données personnelles'
 description: ''
 seo:
-    title: 'Protection des données & RGPD chez SeaTable'
+    title: 'Protection des données personelles & RGPD chez SeaTable'
     description: 'Tout sur la confidentialité : conformité RGPD, stockage sécurisé & vos droits numériques expliqués clairement.'
 date: 2022-11-03
 type: 'legal'
@@ -15,9 +15,8 @@ Version 1.3.0 from November 3, 2022
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Ces protection de données n'est disponible qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
-
-L'**[original allemand]({{< relref path="pages/legal/data-privacy" lang="de" >}})** est juridiquement contraignant.
+Cette déclaration de protection des données personnelles est disponible en anglais et en allemand. La version anglaise est une traduction de commodité non contraignante.
+La **[version originale allemande]({{< relref path="pages/legal/data-privacy" lang="de" >}})** fait foi.
 
 {{< /alert >}}
 

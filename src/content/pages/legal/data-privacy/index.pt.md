@@ -16,8 +16,7 @@ Version 1.3.0 from November 3, 2022
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Esta política de privacidade só está disponível em inglês e alemão. A tradução inglesa é uma tradução não vinculativa e de conveniência.
-
+Esta política de privacidade só está disponível em inglês e alemão. La versión en inglés es una traducción de conveniencia no vinculante.
 O **[original alemão]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** é juridicamente vinculativo.
 
 {{< /alert >}}

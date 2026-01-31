@@ -19,7 +19,7 @@ O **[original alemão]({{< relref path="pages/legal/imprint" lang="de" >}})** é
 
 {{< /alert >}}
 
-## Information according to § 5 German Digital Services Act (DDG))
+## Information according to § 5 German Digital Services Act (DDG)
 
 SeaTable GmbH  
 117er Ehrenhof 5  

@@ -15,7 +15,7 @@ aliases:
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 Les mentions légales sont disponible uniquement en anglais et en allemand. La version anglaise est une traduction de commodité non contraignante.
-La **[version originale allemande]({{< relref path="pages/legal/imprint" lang="de" >}})** est légalement contraignante.
+La **[version originale allemande]({{< relref path="pages/legal/imprint" lang="de" >}})** fait foi.
 
 {{< /alert >}}
 

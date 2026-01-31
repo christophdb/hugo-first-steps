@@ -13,9 +13,8 @@ Version 1.3.0 from November 3, 2022
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This privacy policy is only available in english and german. The english translation is an non-binding, convenience translation.
-
-The **[German original]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
+This privacy statement is only available in English and German. The English version is an non-binding, convenience translation.
+The **[German original version]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 
