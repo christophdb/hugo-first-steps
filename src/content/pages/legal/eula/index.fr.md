@@ -11,9 +11,8 @@ aliases:
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Ces mentions légales ne sont disponibles qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
-
-L'**[original allemand]({{< relref path="pages/legal/eula" lang="de" >}})** est juridiquement contraignant.
+Le CLUF est disponibles uniquement en anglais et en allemand. La version anglaise est une traduction de commodité non contraignante.
+La **[version originale allemande]({{< relref path="pages/legal/eula" lang="de" >}})** fait foi.
 
 {{< /alert >}}
 

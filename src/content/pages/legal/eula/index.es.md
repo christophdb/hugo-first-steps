@@ -12,8 +12,7 @@ aliases:
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-Este pie de imprenta sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
-
+Este EULA solo está disponible en inglés y alemán. La versión en inglés es una traducción de conveniecia no vinculante.
 El **[original alemán]({{< relref path="pages/legal/eula" lang="de" >}})** es jurídicamente vinculante.
 
 {{< /alert >}}
