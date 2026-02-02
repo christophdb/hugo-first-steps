@@ -36,13 +36,13 @@ sections:
           text: "Le modèle de liste d'inventaire convivial est facile à utiliser, moins sujet aux erreurs qu'un modèle Excel et peut être personnalisé."
         - icon: 'wand-magic-sparkles'
           headline: "Automatisation par l'IA"
-          text: "Les automatisations intégrées assistées par IA de SeaTable permettent des processus d'inventaire plus efficaces, conformes au RGPD grâce à un serveur IA dédié."
+          text: "Les automatisations intégrées assistées par IA de SeaTable permettent des processus d'inventaire efficaces, conformes au RGPD grâce à un serveur IA dédié."
         - icon: 'chart-simple'
           headline: 'Analyse'
           text: 'En quelques clics, vous pouvez créer des tableaux de bord analytiques attrayants pour analyser votre inventaire et optimiser vos achats.'
         - icon: 'lock'
           headline: 'Autorisations'
-          text: "Grâce à des autorisations personnalisables, vous pouvez déterminer qui est autorisé à consulter ou à modifier les listes d'inventaire et certaines informations relatives aux actifs."
+          text: "Grâce aux autorisations personnalisables, vous pouvez déterminer qui est autorisé à consulter ou à modifier les listes d'inventaire et certaines informations relatives aux actifs."
         - icon: 'pencil'
           headline: 'Enregistrer sur mobile'
           text: "Enregistrez vos stocks de manière mobile à l'aide du formulaire Web : prenez des photos, synchronisez-les immédiatement et documentez-les où que vous soyez."
@@ -94,8 +94,8 @@ sections:
         text: "Créez facilement de nouveaux objets à l'aide d'un formulaire et attribuez-les directement à des sites, des services ou des collaborateurs. Tous les actifs sont visibles dans le tableau « Inventaire », soit sous forme de feuille de calcul, soit dans différentes vues telles que la galerie ou le calendrier."
         image: '/images/template_page_inventarliste_02.jpg'
         image_alt: "Formulaire pour l'enregistrement de nouveaux articles d'inventaire avec attribution à des sites et à des départements"
-      - headline: "Catégoriser et filtrer l'inventaire
-        text: SeaTable offre des options de filtrage et de regroupement étendues. Vous pouvez ainsi toujours afficher votre inventaire exactement comme vous le souhaitez, par catégorie, emplacement, centre de coûts ou statut. Triez et filtrez en quelques clics."
+      - headline: "Catégoriser et filtrer l'inventaire"
+        text: "SeaTable offre des options de filtrage et de regroupement étendues. Vous pouvez ainsi toujours afficher votre inventaire exactement comme vous le souhaitez, par catégorie, emplacement, centre de coûts ou statut. Triez et filtrez en quelques clics."
         image: '/images/template_page_inventarliste_03.jpg'
         image_alt: "Options de filtrage et de regroupement pour afficher l'inventaire par catégorie, emplacement ou statut"
       - headline: 'Communication et maintenance'
