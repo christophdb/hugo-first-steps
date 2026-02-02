@@ -70,11 +70,7 @@ Suscríbase a nuestro boletín y reciba regularmente consejos y actualizaciones 
 ## FAQ - Desarrollo no-code
 
 {{< faq "¿Qué es el desarrollo ciudadano?" >}}
-Las herramientas no-code permiten a los empleados ajenos al departamento de TI crear sus propias aplicaciones para una necesidad específica. Si esto se hace sin consultar con TI, se denomina TI en la sombra. El desarrollo ciudadano, por otro lado, se refiere a un enfoque estructurado en el que estos empleados trabajan junto con el departamento de TI y siguen unas directrices claras para garantizar la seguridad y el cumplimiento.
-{{< /faq >}}
-
-{{< faq "¿Qué es la TI en la sombra?" >}}
-La TI en la sombra es cuando los departamentos especializados de una empresa utilizan sus propias soluciones sin el conocimiento del departamento de TI. Alberga grandes riesgos en términos de protección de datos, seguridad de los datos y normas de cumplimiento. También socava toda la arquitectura de TI de la empresa, ya que estas aplicaciones no pueden ser tenidas en cuenta por el departamento de TI durante las migraciones de herramientas, las actualizaciones o el soporte.
+Las herramientas no-code permiten a los empleados ajenos al departamento de TI crear sus propias aplicaciones para una necesidad específica. Si esto se hace sin consultar con TI, se denomina [TI en la sombra]({{< relref "posts/schatten-it" >}}). El desarrollo ciudadano, por otro lado, se refiere a un enfoque estructurado en el que estos empleados trabajan junto con el departamento de TI y siguen unas directrices claras para garantizar la seguridad y el cumplimiento.
 {{< /faq >}}
 
 {{< faq "¿Qué significa gobernanza no-code?" >}}

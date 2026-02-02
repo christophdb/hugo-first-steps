@@ -82,8 +82,8 @@ Desta forma, os colaboradores dos seus departamentos especializados podem desenv
   
 Uma vez que a maioria das plataformas sem código são [soluções de nuvem]({{< relref "posts/cloud-computing" >}}) que não requerem a sua própria infraestrutura de servidor, muitas tarefas que normalmente requerem administradores de TI também são eliminadas. No entanto, os **desenvolvedores no-code** são obviamente necessários para implementar e manter a plataforma no-code e para estar disponíveis para os desenvolvedores cidadãos como pessoas de contacto. Para evitar uma TI sombra sem código descontrolada, deve haver uma **estratégia sem código** centralizada que o departamento de TI deve desenvolver e implementar. Esta estratégia inclui a formação de, pelo menos, um cidadão programador por departamento, uma visão geral transparente de todas as aplicações e uma compreensão do papel das TI como parceiro ao nível dos olhos.
 
-{{< warning headline="O que é a TI sombra?" >}}
-Se os departamentos especializados não estiverem satisfeitos com os sistemas informáticos oficiais, podem procurar outras soluções sem o conhecimento do departamento de TI. Esta situação pode resultar em TI sombra na empresa, que está fora de qualquer controlo e comporta grandes riscos em termos de conformidade e segurança das TI. Um [desenvolvimento sem código]({{< relref "posts/20250307-low-code" >}}) transparente pode evitar esta situação.
+{{< warning headline="O que é Shadow IT" >}}
+Se os departamentos especializados não estiverem satisfeitos com os sistemas informáticos oficiais, podem procurar outras soluções sem o conhecimento do departamento de TI. Esta situação pode resultar em [Shadow IT]({{< relref "posts/schatten-it" >}}) na empresa, que está fora de qualquer controlo e comporta grandes riscos em termos de conformidade e segurança das TI. Um [desenvolvimento sem código]({{< relref "posts/20250307-low-code" >}}) transparente pode evitar esta situação.
 {{< /warning >}}
 
 ### Vantagens do desenvolvimento sem código para a sua empresa

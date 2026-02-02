@@ -194,7 +194,7 @@ De acordo com um [inquérito da EY](https://www.ittbusiness.at/article/europaeis
 Para aproveitar as oportunidades económicas e utilizar a inteligência artificial de forma sensata e segura na sua empresa, alguns princípios já provaram o seu valor:
   
 - **Controlo humano**: A inteligência artificial deve apoiar as decisões, mas não tomá-las sozinha. Não deve simplesmente acreditar nos resultados, mas sempre examiná-los e verificá-los.  
-- **Transparência**: Comunique claramente aos seus empregados as condições de enquadramento para a utilização da IA. Isto ajudá-lo-á a evitar a criação de uma TI sombra sobre a qual nada sabe. A utilização da IA também deve ser clara para os clientes.
+- **Transparência**: Comunique claramente aos seus empregados as condições de enquadramento para a utilização da IA. Isto ajudá-lo-á a evitar a criação de uma [TI sombra]({{< relref "posts/schatten-it" >}}) sobre a qual nada sabe. A utilização da IA também deve ser clara para os clientes.
 - **Formação contínua**: A experiência em IA está a tornar-se cada vez mais um fator de sucesso. Torne os seus funcionários aptos para a ação e esclareça com eles as seguintes questões: como funciona a inteligência artificial e onde é utilizada a inteligência artificial?
 - **Soberania dos dados**: Se pretende utilizar a IA sem comprometer a [proteção de dados]({{< relref "posts/digitale-souveraenitaet" >}}), vale a pena executar um modelo de IA nos seus próprios servidores ou, pelo menos, utilizar [plataformas de nuvem]({{< relref "posts/cloud-computing" >}}) na UE.
 - **Conformidade**: Certifique-se de que os sistemas de IA da sua empresa cumprem todas as leis e diretrizes de conformidade aplicáveis, especialmente a Lei da IA da UE, porque em caso de dúvida será responsabilizado.
@@ -217,7 +217,7 @@ Enquanto plataforma de IA sem código, SeaTable permite automatizações suporta
 
 E sem quaisquer linhas de preocupação no que diz respeito à proteção de dados: para além do Gemma 3, o SeaTable suportará no futuro outros modelos de IA de vários fornecedores que são operados em centros de dados alemães em conformidade com o RGPD. Além disso, a troca de dados entre o [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) e os modelos linguísticos é encriptada.
   
-Para um controlo total, os auto-hospedadores também podem, obviamente, utilizar modelos de IA na sua própria infraestrutura. o [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), um componente do [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), baseia-se no LiteLLM e, por conseguinte, suporta a ligação de um grande número de modelos com uma API compatível com OpenAI.
+Para um controlo total, os auto-hospedadores também podem, obviamente, utilizar modelos de IA na sua própria infraestrutura. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), um componente do [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), baseia-se no LiteLLM e, por conseguinte, suporta a ligação de um grande número de modelos com uma API compatível com OpenAI.
 
 {{< newsletter title="Mantenha-se informado" subtitle="" submit="Subscreva agora" >}}
 

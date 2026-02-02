@@ -70,11 +70,7 @@ Subscreva a nossa newsletter e receba regularmente dicas e actualizações sobre
 ## FAQ - Desenvolvimento no-code
 
 {{< faq "O que é Desenvolvimento Cidadão?" >}}
-As ferramentas sem código permitem que os funcionários fora do departamento de TI criem as suas próprias aplicações para uma necessidade específica. Se isto for feito sem consultar as TI, é designado por TI sombra. O desenvolvimento do cidadão, por outro lado, refere-se a uma abordagem estruturada em que estes funcionários trabalham em conjunto com o departamento de TI e seguem diretrizes claras para garantir a segurança e a conformidade.
-{{< /faq >}}
-
-{{< faq "O que é a TI sombra?" >}}
-A TI sombra ocorre quando os departamentos especializados de uma empresa utilizam as suas próprias soluções sem o conhecimento do departamento de TI. Apresenta riscos elevados em termos de proteção de dados, segurança de dados e regras de conformidade. Também prejudica toda a arquitetura de TI da empresa, uma vez que estas aplicações não podem ser tidas em conta pelas TI durante as migrações de ferramentas, actualizações ou suporte.
+As ferramentas sem código permitem que os funcionários fora do departamento de TI criem as suas próprias aplicações para uma necessidade específica. Se isto for feito sem consultar as TI, é designado por [Shadow IT]({{< relref "posts/schatten-it" >}}). O desenvolvimento do cidadão, por outro lado, refere-se a uma abordagem estruturada em que estes funcionários trabalham em conjunto com o departamento de TI e seguem diretrizes claras para garantir a segurança e a conformidade.
 {{< /faq >}}
 
 {{< faq "O que significa governação no-code?" >}}

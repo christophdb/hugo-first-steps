@@ -70,11 +70,7 @@ Inscrivez-vous à notre newsletter et recevez régulièrement des conseils et de
 ## FAQ - Développement no-code
 
 {{< faq "Qu'est-ce que le développement citoyen ?" >}}
-Les outils no-code permettent aux employés extérieurs au service informatique de créer leurs propres applications pour répondre à un besoin spécifique. Si cela est fait sans consultation du service informatique, on parle de shadow IT. Le développement citoyen, d'autre part, fait référence à une approche structurée dans laquelle ces employés travaillent en collaboration avec le service informatique et suivent des directives claires pour assurer la sécurité et la conformité.
-{{< /faq >}}
-
-{{< faq "Qu'est-ce que le shadow IT ?" >}}
-L'informatique cachée se produit lorsque des départements spécialisés au sein d'une entreprise utilisent leurs propres solutions à l'insu du département informatique. Elle comporte des risques élevés en termes de protection et de sécurité des données et de règles de conformité. Elle mine également l'architecture informatique globale de l'entreprise, car ces applications ne sont pas prises en compte par l'informatique lors des migrations d'outils, des mises à jour ou du support.
+Les outils no-code permettent aux employés extérieurs au service informatique de créer leurs propres applications pour répondre à un besoin spécifique. Si cela est fait sans consultation du service informatique, on parle de [shadow IT]({{< relref "posts/schatten-it" >}}). Le développement citoyen, d'autre part, fait référence à une approche structurée dans laquelle ces employés travaillent en collaboration avec le service informatique et suivent des directives claires pour assurer la sécurité et la conformité.
 {{< /faq >}}
 
 {{< faq "Qu'est-ce que la gouvernance no-code ?" >}}

@@ -194,7 +194,7 @@ Según una [encuesta de EY](https://www.ittbusiness.at/article/europaeische-unte
 Para aprovechar las oportunidades económicas y utilizar la inteligencia artificial con sensatez y seguridad en su empresa, algunos principios han demostrado su eficacia:
   
 - **Control humano**: La inteligencia artificial debe apoyar las decisiones, pero no tomarlas sola. No debe limitarse a creer los resultados, sino que siempre debe examinarlos y comprobarlos.  
-- **Transparencia**: Comunique claramente a sus empleados las condiciones marco para el uso de la IA. Esto le ayudará a evitar la creación de una TI en la sombra de la que no saben nada. El uso de la IA también debe quedar claro para los clientes.
+- **Transparencia**: Comunique claramente a sus empleados las condiciones marco para el uso de la IA. Esto le ayudará a evitar la creación de una [TI en la sombra]({{< relref "posts/schatten-it" >}}) de la que no saben nada. El uso de la IA también debe quedar claro para los clientes.
 - **Formación adicional**: La experiencia en IA se está convirtiendo cada vez más en un factor de éxito. Prepare a sus empleados y aclare con ellos las siguientes cuestiones: ¿Cómo funciona y dónde se utiliza la inteligencia artificial?
 - **Soberanía de los datos**: Si desea utilizar la IA sin comprometer la [protección de datos]({{< relref "posts/digitale-souveraenitaet" >}}), merece la pena ejecutar un modelo de IA en sus propios servidores o, al menos, utilizar [plataformas en la nube]({{< relref "posts/cloud-computing" >}}) dentro de la UE.
 - **Cumplimiento**: Asegúrese de que los sistemas de IA de su empresa cumplen todas las leyes y directrices de cumplimiento aplicables, especialmente la Ley de IA de la UE, porque en caso de duda será responsable.
