@@ -22,7 +22,7 @@ Malheureusement, le système ne **permet pas** de fusionner des comptes SeaTable
 Bien entendu, vous avez toujours la possibilité de supprimer un compte (équipe ou membre d'équipe) pour le recréer ensuite dans une autre équipe. Pour ce faire, il est recommandé de procéder comme suit :
 
 1. [Exportez toutes les bases]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) que vous souhaitez transférer dans la nouvelle équipe.
-2. [Supprimez le membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) ou [l'équipe entière]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}) via l'administration d'équipe.
+2. [Supprimez le membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) ou [l'équipe entière]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}) via l'administration d'équipe.
 3. Créez un [nouveau membre d'équipe]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) dans l'autre équipe.
 4. [Importez]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) les bases que vous avez exportées précédemment.
 
@@ -32,6 +32,6 @@ La désactivation du membre de l'équipe dans l'équipe d'origine ne suffit pas.
 
 {{< warning headline="Attention" >}}
 
-Si vous [supprimez l'équipe complète]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}), tous les autres membres de l'équipe seront également supprimés.
+Si vous [supprimez l'équipe complète]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}), tous les autres membres de l'équipe seront également supprimés.
 
 {{< /warning >}}

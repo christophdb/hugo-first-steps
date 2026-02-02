@@ -57,7 +57,7 @@ Ao eliminar toda a sua equipa na gestão da equipa, **termina automaticamente o 
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Eliminar a equipa completa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Eliminar a equipa completa]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## API & Integrações
 

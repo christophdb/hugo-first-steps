@@ -126,4 +126,4 @@ Bestehende Abos können über die Teamverwaltung jederzeit gekündigt werden. Be
 
 Wenn Sie als Team-Administrator Ihr Team löschen, werden Ihr Account, Ihr Team und alle darin enthaltenen Daten dauerhaft und endgültig gelöscht. Soweit möglich werden auch alle Daten, die über Sie gespeichert sind, aus unseren Systemen gelöscht. Dieser Vorgang kann **nicht** rückgängig gemacht und die gelöschten Daten können NICHT wiederhergestellt werden.
 
-[Erfahren Sie mehr zu den Folgen für Ihre Daten, wenn Sie Ihr Team löschen]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+[Erfahren Sie mehr zu den Folgen für Ihre Daten, wenn Sie Ihr Team löschen]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).

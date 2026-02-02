@@ -20,23 +20,21 @@ seo:
 
 ## Cambiar tarjeta de crédito
 
-![Cambie su tarjeta de crédito fácilmente a través de la gestión del equipo](images/Aendern-der-Kreditkarte-1-1.png)
-
 1. Abre la **administración del equipo**.
 2. Haga clic en **Suscripción**.
-3. Haga clic en **"Personalizar la forma de pago**".
-4. Depositar una **nueva** tarjeta de crédito.
-5. Confirme con **"Depositar nueva tarjeta de crédito"**.
-6. La tarjeta de crédito recién depositada es válida **inmediatamente** y sustituye a la antigua.
+3. Haga clic en **"Editar método de pago"**.
+    ![Cambiar la tarjeta de crédito almacenada](images/change-creditcard.png)
 
-![Depositar una nueva tarjeta de crédito ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+4. Será redirigido al portal online de Stripe donde puede almacenar una **nueva o adicional** tarjeta de crédito.
+5. Puede elegir libremente qué tarjeta de crédito debe usarse para pagos futuros.
 
 ## Preguntas frecuentes sobre el pago con tarjeta de crédito
 
 {{< faq "¿Qué tarjetas de crédito se aceptan?" >}}Actualmente se aceptan Visa, Mastercard, American Express, China UnionPay y Cartes Bancaires.
 {{< /faq >}}
-{{< faq "¿Se puede anular una tarjeta de crédito?" >}}Actualmente, una tarjeta de crédito no puede cancelarse. Sin embargo, solo se cargará mientras tengas una suscripción de pago.
-{{< /faq >}}
-{{< faq "¿Dónde se guardan los datos de la tarjeta de crédito?" >}}Los datos de su tarjeta de crédito sólo se almacenan con nuestro proveedor de servicios de pago Stripe. SeaTable no almacena su información de pago.
 
+{{< faq "¿Se puede eliminar una tarjeta de crédito?" >}}Puede eliminar una tarjeta de crédito siempre y cuando no se esté utilizando como método de pago predeterminado para su suscripción actual.
+{{< /faq >}}
+
+{{< faq "¿Dónde se guardan los datos de la tarjeta de crédito?" >}}Los datos de su tarjeta de crédito sólo se almacenan con nuestro proveedor de servicios de pago Stripe. SeaTable no almacena su información de pago.
 {{< /faq >}}

@@ -23,7 +23,7 @@ seo:
 - [Экспорт базы в файл DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Регистрация]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Удалить всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Удалить всю команду]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## Миграция внутри команды на новый адрес электронной почты
 

@@ -18,11 +18,9 @@ Este artigo explica as consequências da eliminação de uma equipa para os dado
 
 ## Eliminar a minha equipa
 
-{{< warning  headline="Nota importante"  text="As equipas **só** podem ser eliminadas pelos administradores das equipas." />}}
+Saiba como eliminar a sua equipa no artigo [Eliminar a Equipa Completa]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}). 
 
-![Clique em "Eliminar completamente a conta da equipa e todos os dados" na parte inferior da página.](images/delete-team.png) 4. Abrir a **administração da equipa**. 5. Clique em **Subscrição**. 6. Clique em **"Eliminar completamente a conta da equipa e todos os dados"** na parte inferior da página. 7. Ativar o **cursor** e confirmar a eliminação com **"Eliminar esta equipa e todos os dados"**. 8. Receberá então automaticamente uma **mensagem** a confirmar a eliminação da sua conta de equipa.
-
-![Confirmar a eliminação da sua equipa.](images/delete-team-confirmation-1.png)
+Este artigo trata dos seus dados e do que acontece com eles após a eliminação.
 
 ## Consequências para os seus dados
 

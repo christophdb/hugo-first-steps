@@ -23,7 +23,7 @@ Si vous êtes l'**administrateur** ou la seule personne de votre équipe, le cha
 - [Exporter une base en tant que fichier DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Inscription]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Création d'une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Supprimer l'équipe complète]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Supprimer l'équipe complète]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## Migration au sein d'une équipe vers une nouvelle adresse e-mail
 

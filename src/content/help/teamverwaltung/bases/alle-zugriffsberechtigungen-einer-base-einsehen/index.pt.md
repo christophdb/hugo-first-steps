@@ -18,10 +18,11 @@ Na **administração da equipa**, pode visualizar todas as **permissões de aces
 
 ## Ver as permissões de acesso
 
-![Ver todas as opções de acesso de uma base](images/Alle-Zugriffsmoeglichkeiten-einer-Base-einsehen-1.gif)
-
 1. Clique na **imagem do** seu **avatar** no canto superior direito.
 2. Seleccione **Gestão de Equipas** a partir do menu pendente.
-3. Ir para **Bases** do lado esquerdo em **Navegação**.
-4. Clique na base cuja **informação de acesso** pretende visualizar.
-5. Seleccione a opção de **Acesso** sob o título. Aqui pode ver todas as pessoas autorizadas a aceder e os seus direitos.
+3. Na **Navegação**, clique em **Bases**.
+    ![Navegue para a visão geral de todas as bases na Gestão de Equipa](/images/open-bases.png)
+
+4. Clique na base cujas **informações de acesso** deseja visualizar.
+5. Selecione a opção **Acesso** sob o cabeçalho. Aqui pode ver todas as pessoas autorizadas e os seus direitos.
+    ![Navegue para a visão geral de todas as bases na Gestão de Equipa](/images/base-details-access-web.png)

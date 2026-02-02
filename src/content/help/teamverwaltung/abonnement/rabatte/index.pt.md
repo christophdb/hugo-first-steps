@@ -15,7 +15,16 @@ seo:
 
 Gostaria de utilizar o SeaTable e é uma associação registada, trabalha numa instituição pública ou numa organização de caridade sem fins lucrativos? Nesse caso, beneficiará de vantagens especiais, pois queremos apoiar as pessoas que trabalham para o bem comum - seja através de trabalho social, ajuda humanitária, projectos ecológicos ou educação e investigação.
 
-O SeaTable concede às instituições públicas um desconto de 25%, às organizações de caridade sem fins lucrativos e às instituições de ensino um desconto padrão de 50% e às associações locais, em casos excepcionais, até 75% de desconto na sua subscrição do SeaTable Plus ou do SeaTable Enterprise. Para beneficiar do desconto, basta apresentar um pedido correspondente através da [administração da equipa]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
+SeaTable oferece os seguintes **descontos em subscrições SeaTable Plus ou SeaTable Enterprise**:
+
+| Destinatário             | Desconto possível |
+| ------------------------ | ----------------- |
+| instituições públicas    | 25% desconto      |
+| organizações sem fins lucrativos | 50% desconto |
+| instituições de ensino   | 50% desconto      |
+| clubes locais            | 50% desconto<br>(até 75% em situações excecionais) |
+
+Para aproveitar o desconto, apresente simplesmente um pedido através da [Gestão de Equipa]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Pedir desconto
 
@@ -23,8 +32,8 @@ Se ainda não registou uma equipa em cloud.seatable.io, comece por [se registar]
 
 1. Abrir a [administração da equipa](https://account.seatable.com).
 2. Mudar para a secção **Assinatura**.
-3. Clique em **É uma organização sem fins lucrativos?**
-   ![Pedir um desconto através da administração da equipa](images/Antrag-auf-Rabatt-in-SeaTable.png)
+3. Clique em **É uma organização sem fins lucrativos**?
+   ![Solicitar desconto através da Gestão de Equipa](images/try-seatable-enterprise.png)
 4. Preencher o **formulário** e clicar em **Enviar candidatura**.
 
 ## Aguardar por feedback

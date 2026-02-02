@@ -20,14 +20,20 @@ seo:
 
 ## Personalizar la dirección de facturación
 
-{{< warning  headline="Nota importante"  text="La dirección de facturación de su equipo sólo puede ser modificada por los **administradores del equipo**." />}}2. Abre la **administración del equipo**. 3. Haga clic en **Suscripción**. 4. Haga clic en **"Ajustar la información de la factura"**. 5. Introduzca una **nueva** dirección de facturación. 6. Guarde el cambio con **Modificar destinatario de** factura.
+{{< warning  headline="Nota importante"  text="La dirección de facturación de su equipo sólo puede ser modificada por los **administradores del equipo**." />}}
 
-![Cambio de dirección de facturación](images/Rechnungsadresse-aendern.png)
+1. Abra la **Gestión de equipo**. 
+2. Haga clic en **Suscripción**. 
+3. Haga clic en **"Editar información de factura"**.
+    ![Cambiar la dirección de factura](images/change-invoice-address.png)
+
+4. Guarde una **nueva** dirección de factura. 
+5. Guarde sus cambios
 
 ## Preguntas frecuentes sobre la dirección de facturación
 
 {{< faq "¿Cuándo es válida la dirección de facturación?" >}}Si cambia su dirección de facturación, todas las facturas futuras se crearán con su nueva dirección de facturación.
 {{< /faq >}}
-{{< faq "¿Puede modificarse la dirección de facturación con carácter retroactivo?" >}}Desgraciadamente, no. Lamentablemente, no es posible modificar la dirección de facturación de las facturas ya generadas. En casos excepcionales, podremos emitirle una nueva factura, pero en cualquier caso le cobraremos 10 euros en concepto de gastos de tramitación. Envíenos la correspondiente [solicitud de asistencia](https://account.seatable.com/support) con el número de factura y las solicitudes de cambio exactas.
 
+{{< faq "¿Puede modificarse la dirección de facturación con carácter retroactivo?" >}}Desgraciadamente, no. Lamentablemente, no es posible modificar la dirección de facturación de las facturas ya generadas. En casos excepcionales, podremos emitirle una nueva factura, pero en cualquier caso le cobraremos 10 euros en concepto de gastos de tramitación. Envíenos la correspondiente [solicitud de asistencia](https://account.seatable.com/support) con el número de factura y las solicitudes de cambio exactas.
 {{< /faq >}}

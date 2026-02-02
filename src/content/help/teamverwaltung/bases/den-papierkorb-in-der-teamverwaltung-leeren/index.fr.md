@@ -16,10 +16,10 @@ seo:
 
 Après **30 jours**, les bases supprimées sont **automatiquement** retirées du système. Mais vous pouvez aussi supprimer définitivement les bases **manuellement** en **vidant la corbeille dans l'administration d'équipe**.
 
-![Vider la corbeille](images/Den-Papierkorb-leeren.gif)
-
 1. Cliquez sur l'**image de** votre **avatar** dans le coin supérieur droit.
 2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
-3. Sur le côté gauche, sous **Navigation**, allez sur **Bases**.
-4. Cliquez sous le titre sur la catégorie **Corbeille**.
-5. Faites défiler vers le bas et cliquez sur **Supprimer définitivement toutes les bases de la corbeille**.
+3. Dans la **Navigation**, allez à **Bases** puis à **Corbeille**
+    ![Naviguez vers la corbeille](/images/open-trash.png)
+
+4. Vous voyez maintenant l'aperçu de toutes les bases déjà supprimées de vos équipes. Vous pouvez maintenant restaurer des bases individuelles ou vider complètement la corbeille.
+    ![Vider la corbeille ou restaurer des bases individuelles](/images/bases-in-trash.png)

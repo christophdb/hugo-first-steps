@@ -18,10 +18,11 @@ Dans l'**administration d'équipe**, vous pouvez voir toutes les **autorisations
 
 ## Consulter les droits d'accès
 
-![Consulter tous les accès d'une base](images/Alle-Zugriffsmoeglichkeiten-einer-Base-einsehen-1.gif)
-
 1. Cliquez sur l'**image de** votre **avatar** dans le coin supérieur droit.
 2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
-3. Sur le côté gauche, sous **Navigation**, allez sur **Bases**.
+3. Dans la **Navigation**, cliquez sur **Bases**.
+    ![Naviguez vers l'aperçu de toutes les bases dans la Gestion d'équipe](/images/open-bases.png)
+
 4. Cliquez sur la base dont vous souhaitez consulter les **informations d'accès**.
-5. Sélectionnez l'option **Accès** sous l'en-tête. Vous pouvez voir ici toutes les personnes autorisées à accéder et leurs droits.
+5. Sélectionnez l'option **Accès** sous l'en-tête. Ici, vous pouvez voir toutes les personnes autorisées et leurs droits.
+    ![Naviguez vers l'aperçu de toutes les bases dans la Gestion d'équipe](/images/base-details-access-web.png)

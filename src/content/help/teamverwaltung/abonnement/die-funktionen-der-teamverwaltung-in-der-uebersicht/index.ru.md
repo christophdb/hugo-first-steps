@@ -57,7 +57,7 @@ weight: 1
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Удалить всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Удалить всю команду]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## API и интеграции
 

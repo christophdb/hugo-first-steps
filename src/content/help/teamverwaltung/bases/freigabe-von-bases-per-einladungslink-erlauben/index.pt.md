@@ -32,7 +32,7 @@ Se permitir a partilha de bases via link de convite, os membros da sua equipa po
 
 Um link de convite também pode ser **duplicado** quantas vezes se desejar e dá a todos os que têm acesso ao link acesso aos **conteúdos da base**. Se pretender restringir esta opção de partilha, desactivar a opção **Permitir a partilha de bases através do** selector de **ligação de convite**. Verá a seguinte mensagem para os links:
 
-![Mensagem de erro Ligação de convite na administração da equipa](images/Fehlermeldung-EInladungslink.png)
+![Mensagem de erro Ligação de convite na administração da equipa](images/invitation-link-deactivated.png)
 
 Todas as ligações de **convite** anteriormente criadas pela equipa **deixarão** de **funcionar**. Ainda é possível criar ligações de convite, mas o destinatário não terá acesso de base.
 

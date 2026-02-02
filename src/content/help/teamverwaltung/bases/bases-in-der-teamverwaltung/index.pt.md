@@ -11,24 +11,25 @@ aliases:
 seo:
     title: 'Bases na administração de equipe – gerenciamento fácil'
     description: 'Veja como admins de equipe controlam as bases: detalhes, permissões, links, papelera e gestão total dos acessos em SeaTable.'
+weight: 1
 ---
 
 Se for **administrador de equipa**, tem acesso a todas as bases da sua equipa através da **administração da** equipa. Pode chamar a vista detalhada das bases individuais, ver acções e ligações das bases ou apagar bases.
 
 ## Para aceder às bases na administração da equipa
 
-![Bases na gestão da equipa](images/bases-in-der-teamverwaltung.gif)
-
 1. Clique na **imagem do** seu **avatar** no canto superior direito.
 2. Seleccione **Gestão de Equipas** a partir do menu pendente.
-3. Ir para **Bases** do lado esquerdo em **Navegação**.
+3. Na **Navegação**, clique em **Bases**.
+    ![Navegue para a visão geral de todas as bases na Gestão de Equipa](/images/open-bases.png)
+
 4. Clique sobre uma **base** para obter mais informações e opções para essa base.
 
 ## O que se pode ver na vista detalhada de uma base
 
 ### Área de informação
 
-![Visualização de detalhes baseada](images/Basedetailanzeige-1.png)
+![Vista detalhada de uma base](images/base-details-info.png)
 
 Aqui pode ler as seguintes **informações**:
 
@@ -40,23 +41,25 @@ Aqui pode ler as seguintes **informações**:
 
 Pode **exportar** a **base** seleccionada, clicando no botão correspondente.
 
-### Acesso
+### Acesso (Web)
 
 Aqui pode ver todos os **membros** que têm **acesso a** esta base e se têm **permissões de leitura ou de escrita**.
 
-![Acesso](images/Access-1.png)
+![Listagem de todas as permissões de acesso](images/base-details-access-web.png)
+
+### Acesso (API)
+
+Se já foram gerados um ou mais tokens de API para esta base, pode visualizar os tokens de API nesta secção.
 
 ### Ligações
 
 Em **Links** pode ver todos os links gerados para a base seleccionada.
 
-![Ligações](images/Links-1.png)
+![Todas as ligações existentes de uma base](images/base-details-links.png)
 
 ### Eliminar
 
 Em **Eliminar**, tem a opção de eliminar a base seleccionada.
-
-![Eliminar](images/Delete-1.png)
 
 ## O cesto dos papéis
 

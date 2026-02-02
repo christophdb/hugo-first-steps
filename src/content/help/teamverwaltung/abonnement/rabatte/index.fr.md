@@ -15,7 +15,16 @@ seo:
 
 Vous souhaitez utiliser SeaTable et vous avez une association enregistrée, vous travaillez dans une institution publique ou une organisation à but non lucratif ? Dans ce cas, vous bénéficiez d'avantages particuliers, car nous souhaitons soutenir les personnes qui s'engagent pour le bien commun, que ce soit par le biais d'un travail social, d'une aide humanitaire, de projets écologiques ou de l'éducation et de la recherche.
 
-SeaTable accorde une remise de 25% aux institutions publiques, une remise standard de 50% aux organisations à but non lucratif et aux établissements d'enseignement et, dans des cas exceptionnels, jusqu'à 75% aux associations locales sur leur abonnement SeaTable Plus ou SeaTable Enterprise. Pour bénéficier de la remise, il suffit d'en faire la demande via l'[administration de l'équipe]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
+SeaTable accorde les **réductions suivantes sur les abonnements SeaTable Plus ou SeaTable Enterprise** :
+
+| Destinataire             | Réduction possible |
+| ------------------------ | ------------------ |
+| établissements publics   | 25% de réduction   |
+| organisations non lucratives | 50% de réduction |
+| établissements éducatifs | 50% de réduction   |
+| clubs locaux             | 50% de réduction<br>(jusqu'à 75% en situation exceptionnelle) |
+
+Pour bénéficier de la réduction, soumettez simplement une demande via la [Gestion d'équipe]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Demander une réduction
 
@@ -23,8 +32,8 @@ Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez
 
 1. Ouvrez [l'administration d'équipe](https://account.seatable.com).
 2. Passez à la section **Abonnement**.
-3. Cliquez sur **Êtes-vous une organisation à but non lucratif ?**
-   ![Faire une demande de réduction via l'administration de l'équipe](images/Antrag-auf-Rabatt-in-SeaTable.png)
+3. Cliquez sur **Êtes-vous une organisation à but non lucratif** ?
+   ![Demander un rabais via la Gestion d'équipe](images/try-seatable-enterprise.png)
 4. Remplissez le **formulaire** et cliquez sur **Envoyer la demande**.
 
 ## Attendre une réponse

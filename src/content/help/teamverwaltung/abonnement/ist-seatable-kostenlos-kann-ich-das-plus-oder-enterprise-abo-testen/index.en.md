@@ -32,3 +32,5 @@ In addition to Free, SeaTable has two other paid subscriptions. An upgrade to on
 ## Can I try Plus or Enterprise for free?
 
 Basically, we offer companies the possibility to test SeaTable Enterprise for 30 days free of charge in order to be able to try out the additional features for themselves. For such a request we offer a corresponding form in [the team administration in the subscription section.](https://account.seatable.com/subscription)
+
+![Try SeaTable Enterprise for 30 days](images/try-seatable-enterprise.png)

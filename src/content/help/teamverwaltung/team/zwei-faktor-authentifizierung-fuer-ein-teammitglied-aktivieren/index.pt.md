@@ -19,10 +19,12 @@ O que se segue descreve apenas como activar esta protecção adicional sobre um 
 
 ## Activar o 2FA para um membro da equipa
 
-![Habilitar a autenticação de dois factores para um membro da equipa](images/Zwei-Faktor-Authentifizierung-fuer-ein-Teammitglied-aktivieren.gif)
-
 1. Mudar para a **administração da equipa**.
-2. Clique na opção **Equipa**.
-3. Seleccionar o **membro da equipa**.
-4. Em **Segurança**, activar a opção de **autenticação de 2 factores**.
+2. Clique na opção **Equipa**, depois **Utilizadores**
+    ![Abra a visão geral dos utilizadores na Gestão de Equipa](images/open-team.png)
+
+3. Selecione o **Membro da Equipa**.
+4. Em **Segurança**, ative a opção **Forçar Autenticação de Dois Fatores (2FA)**.
+    ![Forçar autenticação de dois fatores](images/enforce-2fa-for-a-user.png)
+
 5. Clique em **Guardar Alterações**.

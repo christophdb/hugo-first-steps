@@ -46,31 +46,29 @@ Of course, you also only pay the respective **pro-rata amount** for each change.
 
 {{< warning  headline="Important note"  text="Your team's subscription package can only be changed by **team administrators**." />}}
 
-1. Open the **Team administration**.
+1. Open the **Team Management**.
 2. Switch to the **Subscription** section.
-3. Click **Customize Subscription**.
+3. Click on **Edit Subscription**.
+    ![You manage your subscription in Team Management](images/subscription-status.png)
+
 4. Make the desired changes to the **subscription**, **number of users**, and **billing period**.
-5. Confirm the change of your subscription with **Adjust subscription with costs**.
+5. Confirm the change to your subscription with **Modify Paid Subscription**.
 
-![Confirm the change of your subscription](images/switch-from-plus-to-enterprise.png)
+![Subscription changes can be made via Team Management](images/subscription-modify-and-save.png)
 
-## Cancellation of your paid subscription
+## Cancel Your Paid Subscription
 
-You can return to the free subscription at the end of the already paid term. For this, you need to cancel your paid subscription.
+You can return to the free Free subscription at the end of the already paid term. To do this, you need to cancel your paid subscription.
 
-{{< warning  headline="Termination is not deletion" >}}
+{{< warning  type="warning" headline="Cancellation is not deletion" >}}
 
-Canceling your paid subscription will not delete your team or data. Your team will only be downgraded to the free SeaTable Free at the end of the term. To learn how to delete your team completely, [click here]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+Canceling your paid subscription does not lead to the deletion of your team or your data. Your team will simply be downgraded to free SeaTable Free at the end of the term. Learn how to completely delete your team [here]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).
 
 {{< /warning >}}
 
-1. Open the **Team administration**.
+1. Open the **Team Management**.
 2. Click on **Subscription**.
-3. Click **Cancel Subscription and switch to SeaTable Free**.
-
-![Change your subscription from Plus/Enterprise to Free](images/switch-to-seatable-free.png)
-
-5. Carefully read the **instructions on** how to switch to SeaTable Free.
-6. Activate the **slider** and confirm the change of your subscription with **Cancel subscription and switch to SeaTable Free**.
-
-![Confirm the change of your subscription to SeaTable Free](images/confirm-switch-to-seatable-free.png)
+3. Click on **Cancel Subscription**.
+4. Carefully read the **notes** about switching to SeaTable Free.
+    ![Cancel paid subscription and return to SeaTable Free](images/subscription-cancel-return-free.png)
+5. Confirm the change to your subscription with **Cancel Subscription and Switch to SeaTable Free**.

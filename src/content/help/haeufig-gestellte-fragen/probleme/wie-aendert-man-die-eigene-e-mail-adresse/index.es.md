@@ -23,7 +23,7 @@ Si eres el **administrador** o la única persona de tu equipo, cambiar tu direcc
 - [Exportación de una base como archivo DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Registro]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Eliminar el equipo completo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Eliminar el equipo completo]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## Migración dentro de un equipo a una nueva dirección de correo electrónico
 

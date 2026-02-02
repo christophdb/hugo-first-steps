@@ -21,7 +21,7 @@ Wenn Sie der **Administrator** oder die einzige Person in Ihrem Team sind, ist d
 - [Exportieren einer Base als DTABLE-Datei]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Registrierung]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Das komplette Team löschen]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Das komplette Team löschen]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## Migration innerhalb eines Teams auf eine neue E-Mail-Adresse
 

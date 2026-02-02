@@ -11,15 +11,13 @@ seo:
     description: 'Was passiert bei Löschung eines SeaTable-Teams mit Accounts und Daten? Dauerhafte Löschung, Exporthinweise und Datenschutz im Überblick.'
 ---
 
-Team-Administratoren haben in SeaTable über die Teamverwaltung die Möglichkeit, Ihr Team zu löschen. Welche Folgen die Löschung eines Teams für die dazugehörigen Daten hat, erfahren Sie in diesem Artikel.
+**Team-Administratoren** haben in SeaTable über die Teamverwaltung die Möglichkeit, Ihr Team zu löschen. Welche Folgen die Löschung eines Teams für die dazugehörigen Daten hat, erfahren Sie in diesem Artikel.
 
 ## Mein Team löschen
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Teams können **ausschließlich** von den Teamadmins gelöscht werden." />}}
+Wie Sie Ihr Team löschen, erfahren Sie in dem Artikel [Das komplette Team löschen]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}). 
 
-![Klicken Sie ganz unten auf der Seite auf "Team-Account und alle Daten vollständig löschen."](images/delete-team.png) 3. Öffnen Sie die **Teamverwaltung**. 4. Klicken Sie auf **Abonnement**. 5. Klicken Sie ganz unten auf der Seite auf **"Team-Account und alle Daten vollständig löschen"**. 6. Aktivieren Sie den **Regler** und bestätigen Sie die Löschung mit **"Dieses Team und alle Daten löschen"**. 7. Sie erhalten im Anschluss automatisch eine **Meldung**, in der Ihnen die Löschung Ihres Team-Accounts nochmals bestätigt wird.
-
-![Bestätigen Sie die Löschung Ihres Teams.](images/delete-team-confirmation-1.png)
+In diesem Artikel geht es um Ihre Daten und was mit diesen nach einer Löschung passiert.
 
 ## Folgen für Ihre Daten
 

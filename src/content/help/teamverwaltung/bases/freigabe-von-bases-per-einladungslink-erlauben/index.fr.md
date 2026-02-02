@@ -32,7 +32,7 @@ Si vous autorisez le partage des bases par lien d'invitation, les membres de vot
 
 Un lien d'invitation peut en outre être **reproduit** à l'infini et donne également **accès au contenu de la base** à toute personne ayant accès à ce lien. Si vous souhaitez limiter cette option de partage, désactivez le curseur **Autoriser le partage des bases par lien d'invitation**. Pour les liens, vous verrez le message suivant :
 
-![Message d'erreur Lien d'invitation dans l'administration d'équipe](images/Fehlermeldung-EInladungslink.png)
+![Message d'erreur Lien d'invitation dans l'administration d'équipe](images/invitation-link-deactivated.png)
 
 Tous les **liens d'invitation** créés précédemment par l'équipe **ne fonctionneront** **plus**. Vous pouvez toujours créer des liens d'invitation, mais le destinataire n'aura pas accès à la base.
 

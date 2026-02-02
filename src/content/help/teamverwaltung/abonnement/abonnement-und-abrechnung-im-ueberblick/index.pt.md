@@ -129,4 +129,4 @@ As subscrições existentes podem ser canceladas em qualquer altura através da 
 
 Se eliminar a sua equipa como administrador da equipa, a sua conta, a sua equipa e todos os dados nela contidos serão eliminados de forma permanente e definitiva. Na medida do possível, todos os dados armazenados sobre si serão também eliminados dos nossos sistemas. Este processo **não pode** ser revertido e os dados apagados NÃO podem ser recuperados.
 
-[Saiba mais sobre as consequências para os seus dados se eliminar a sua equipa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+[Saiba mais sobre as consequências para os seus dados se eliminar a sua equipa]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).

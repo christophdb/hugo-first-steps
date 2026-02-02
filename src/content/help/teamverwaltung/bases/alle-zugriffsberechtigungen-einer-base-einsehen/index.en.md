@@ -18,10 +18,11 @@ In **Team administration**, you can view all **access permissions** for a base t
 
 ## Viewing the access permissions
 
-![View all access options of a base](images/Alle-Zugriffsmoeglichkeiten-einer-Base-einsehen-1.gif)
-
 1. Click your **avatar image** in the upper right corner.
 2. Select **Team administration** from the drop-down menu.
-3. Go to **bases** on the left side under **Navigation**.
-4. Click the base whose **access information** you want to view.
-5. Select the **Access** option under the heading. Here you can see all the access authorized persons and their rights.
+3. In the **Navigation**, click on **Bases**.
+    ![Navigate to the overview of all bases in Team Management](/images/open-bases.png)
+
+4. Click on the base whose **access information** you want to view.
+5. Select the **Access** option under the heading. Here you can see all authorized persons and their rights.
+    ![Navigate to the overview of all bases in Team Management](/images/base-details-access-web.png)

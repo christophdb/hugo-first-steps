@@ -57,7 +57,7 @@ Al eliminar todo su equipo en la gestión de equipos, **rescinde automáticament
 
 Los siguientes artículos pueden ser de su interés:
 
-- [Eliminar el equipo completo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Eliminar el equipo completo]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## API e integraciones
 

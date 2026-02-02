@@ -13,7 +13,16 @@ seo:
 
 Sie möchten SeaTable nutzen und haben einen eingetragenen Verein, arbeiten in einer öffentlichen Einrichtung oder einer gemeinnützigen Non-Profit-Organisation? Dann genießen Sie besondere Vorteile, weil wir Menschen unterstützen wollen, die sich für das Gemeinwohl einsetzen – sei es durch soziale Arbeit, humanitäre Hilfe, ökologische Projekte oder Bildung und Forschung.
 
-SeaTable gewährt öffentlichen Einrichtungen 25% Rabatt, gemeinnützige Non-Profit-Organisationen und Bildungseinrichtungen erhalten standardmäßig 50% Rabatt und lokale Vereine in Ausnahmefällen sogar bis zu 75% Rabatt auf ihr SeaTable Plus oder SeaTable Enterprise Abonnement. Um den Rabatt zu nutzen, stellen Sie einfach einen entsprechenden Antrag über die [Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
+SeaTable gewährt folgende **Rabatte auf SeaTable Plus oder SeaTable Enterprise Abonnements**:
+
+| Empfänger               | Möglicher Rabatt |
+| ------------------------ | ---------------- |
+| öffentliche Einrichtungen | 25% Rabatt      |
+| gemeinnützige Non-Profit-Organisationen | 50% Rabatt |
+| Bildungseinrichtungen | 50% Rabatt |
+| lokale Vereine | 50% Rabatt<br>(in Ausnahmesituation bis zu 75%) |
+
+Um den Rabatt zu nutzen, stellen Sie einfach einen entsprechenden Antrag über die [Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Rabatt beantragen
 
@@ -21,8 +30,8 @@ Sollten Sie noch kein Team auf cloud.seatable.io registriert haben, beginnen Sie
 
 1. Öffnen Sie die [Teamverwaltung](https://account.seatable.com).
 2. Wechseln Sie in den Bereich **Abonnement**.
-3. Klicken Sie auf **Sind Sie eine gemeinnützige Organisation?**.
-   ![Antrag auf Rabatt über die Teamverwaltung stellen](images/Antrag-auf-Rabatt-in-SeaTable.png)
+3. Klicken Sie auf **Sind Sie eine gemeinnützige Organisation**?
+   ![Antrag auf Rabatt über die Teamverwaltung stellen](images/try-seatable-enterprise.png)
 4. Füllen Sie das **Formular** aus und klicken Sie auf **Antrag abschicken**.
 
 ## Rückmeldung abwarten

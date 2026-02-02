@@ -47,10 +47,12 @@ Selbstverständlich zahlen Sie bei jeder Änderung auch nur den jeweiligen **ant
 1. Öffnen Sie die **Teamverwaltung**.
 2. Wechseln Sie in den Bereich **Abonnement**.
 3. Klicken Sie auf **Abonnement anpassen**.
+    ![Ihr Abonnement verwalten Sie in der Teamverwaltung](images/subscription-status.png)
+
 4. Nehmen Sie die gewünschten Änderungen am **Abonnement**, der **Anzahl der Benutzer** und am **Abrechnungszeitraum** vor.
 5. Bestätigen Sie die Änderung Ihres Abos mit **Abonnement kostenpflichtig anpassen**.
 
-![Bestätigen Sie die Änderung Ihres Abos](images/switch-from-plus-to-enterprise.png)
+![Änderungen am Abonnement können über die Teamverwaltung vorgenommen werden](images/subscription-modify-and-save.png)
 
 ## Kündigung Ihres kostenpflichtigen Abonnements
 
@@ -58,14 +60,13 @@ Sie können zum Ende der bereits bezahlten Laufzeit zum kostenlosen Free-Abonnem
 
 {{< warning  type="warning" headline="Kündigung ist keine Löschung" >}}
 
-Eine Kündigung Ihres kostenpflichtigen Abonnements führt nicht zur Löschung Ihres Teams oder Ihrer Daten. Ihr Team wird lediglich zum Ende der Laufzeit auf das kostenlose SeaTable Free zurückgestuft. Wie Sie Ihr Team komplett löschen, erfahren Sie [hier]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+Eine Kündigung Ihres kostenpflichtigen Abonnements führt nicht zur Löschung Ihres Teams oder Ihrer Daten. Ihr Team wird lediglich zum Ende der Laufzeit auf das kostenlose SeaTable Free zurückgestuft. Wie Sie Ihr Team komplett löschen, erfahren Sie [hier]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).
 
 {{< /warning >}}
 
 1. Öffnen Sie die **Teamverwaltung**.
 2. Klicken Sie auf **Abonnement**.
-3. Klicken Sie auf **Abonnement kündigen und zu SeaTable Free wechseln**.
-
-![Änderung Ihres Abos von Plus/Enterprise zu Free](images/switch-to-seatable-free.png) 5. Lesen Sie sich sorgfältig die **Hinweise** zum Wechsel auf SeaTable Free durch. 6. Aktivieren Sie den **Regler** und bestätigen Sie die Änderung Ihres Abos mit **Abonnement kündigen und zu SeaTable Free wechseln**.
-
-![Bestätigen Sie die Änderung Ihres Abonnements zu SeaTable Free](images/confirm-switch-to-seatable-free.png)
+3. Klicken Sie auf **Abonnement kündigen**.
+4. Lesen Sie sich sorgfältig die **Hinweise** zum Wechsel auf SeaTable Free durch. 
+    ![Kündigung des kostenlosen Abonnements und Rückkehr zu SeaTable Free](images/subscription-cancel-return-free.png)
+5. Bestätigen Sie die Änderung Ihres Abos mit **Abonnement kündigen und zu SeaTable Free wechseln**.

@@ -16,10 +16,10 @@ seo:
 
 Transcurridos **30 días**, las bases borradas se eliminan **automáticamente** del sistema. Sin embargo, también puedes eliminar permanentemente las bases **manualmente** **vaciando la papelera de reciclaje en la administración del equipo**.
 
-![Vaciar la papelera de reciclaje](images/Den-Papierkorb-leeren.gif)
-
 1. Haz clic en la **imagen de** tu **avatar** en la esquina superior derecha.
 2. Seleccione **Gestión de equipos** en el menú desplegable.
-3. Vaya a **Bases** en el lado izquierdo bajo **Navegación**.
-4. Haga clic en la categoría **Papelera de** reciclaje bajo el título.
-5. Desplácese hacia abajo y haga clic en **Eliminar permanentemente todas las bases de la papelera de reciclaje**.
+3. En la **Navegación**, vaya a **Bases** y luego a **Papelera**
+    ![Navegue a la papelera](/images/open-trash.png)
+
+4. Ahora ve el resumen de todas las bases ya eliminadas de sus equipos. Ahora puede restaurar bases individuales o vaciar completamente la papelera.
+    ![Vaciar papelera o restaurar bases individuales](/images/bases-in-trash.png)

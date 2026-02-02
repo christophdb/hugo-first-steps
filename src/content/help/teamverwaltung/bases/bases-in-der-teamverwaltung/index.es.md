@@ -11,24 +11,25 @@ aliases:
 seo:
     title: 'Bases en la administración de equipos – resumen y gestión'
     description: 'Descubre cómo los administradores gestionan todas las bases: detalles, derechos, enlaces, papelera y restauración en el equipo.'
+weight: 1
 ---
 
 Si eres **administrador de un** equipo, tienes acceso a todas las bases de tu equipo a través de la **administración** del equipo. Puede acceder a la vista detallada de las bases individuales, ver las participaciones y enlaces de las bases o eliminar bases.
 
 ## Para acceder a las bases en la administración del equipo
 
-![Bases en la gestión de equipos](images/bases-in-der-teamverwaltung.gif)
-
 1. Haz clic en la **imagen de** tu **avatar** en la esquina superior derecha.
 2. Seleccione **Gestión de equipos** en el menú desplegable.
-3. Vaya a **Bases** en el lado izquierdo bajo **Navegación**.
+3. En la **Navegación**, haga clic en **Bases**.
+    ![Navegue a la vista general de todas las bases en Gestión de equipo](/images/open-bases.png)
+
 4. Haga clic en una **base** para obtener más información y opciones para esa base.
 
 ## Qué se puede ver en la vista detallada de una base
 
 ### Área de información
 
-![Visualización detallada](images/Basedetailanzeige-1.png)
+![Vista detallada de una base](images/base-details-info.png)
 
 Aquí puede leer la siguiente **información**:
 
@@ -40,23 +41,25 @@ Aquí puede leer la siguiente **información**:
 
 Puede **exportar** la **base** seleccionada haciendo clic en el botón correspondiente.
 
-### Acceda a
+### Acceso (Web)
 
 Aquí puedes ver todos los **miembros** que tienen **acceso a** esta base y si tienen **permisos de lectura o escritura**.
 
-![Acceda a](images/Access-1.png)
+![Listado de todos los permisos de acceso](images/base-details-access-web.png)
+
+### Acceso (API)
+
+Si ya se han generado uno o varios tokens de API para esta base, puede ver los tokens de API en esta sección.
 
 ### Enlaces
 
 En **Enlaces** puede ver todos los enlaces generados para la base seleccionada.
 
-![Enlaces](images/Links-1.png)
+![Todas las vinculaciones existentes de una base](images/base-details-links.png)
 
 ### Borrar
 
 En **Borrar** tiene la opción de borrar la base seleccionada.
-
-![Borrar](images/Delete-1.png)
 
 ## La papelera
 

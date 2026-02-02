@@ -15,7 +15,16 @@ seo:
 
 Would you like to use SeaTable and are you a registered association, work in a public institution or a charitable non-profit organization? Then you will enjoy special benefits because we want to support people who work for the common good - be it through social work, humanitarian aid, ecological projects or education and research.
 
-SeaTable grants public institutions a 25% discount, charitable non-profit organizations and educational institutions receive a standard 50% discount and local associations in exceptional cases even up to 75% discount on their SeaTable Plus or SeaTable Enterprise subscription. To take advantage of the discount, simply submit a corresponding request via the [team administration]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
+SeaTable offers the following **discounts on SeaTable Plus or SeaTable Enterprise subscriptions**:
+
+| Recipient                | Possible discount |
+| ------------------------ | ----------------- |
+| public institutions      | 25% discount      |
+| non-profit organizations | 50% discount      |
+| educational institutions | 50% discount      |
+| local clubs              | 50% discount<br>(up to 75% in exceptional situations) |
+
+To take advantage of the discount, simply submit an application via the [Team Management]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Request discount
 
@@ -23,8 +32,8 @@ If you have not yet registered a team on cloud.seatable.io, start by [registerin
 
 1. Open the [Team administration](https://account.seatable.com).
 2. Switch to the **Subscription** section.
-3. Click on **Are you a non-profit organization?**
-   ![Submit request for discount via team administration](images/Antrag-auf-Rabatt-in-SeaTable.png)
+3. Click on **Are you a non-profit organization**?
+   ![Apply for discount via Team Management](images/try-seatable-enterprise.png)
 4. Fill out the **form** and click on **Send application**.
 
 ## Wait for feedback

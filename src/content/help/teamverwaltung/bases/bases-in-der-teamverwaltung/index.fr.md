@@ -11,24 +11,25 @@ aliases:
 seo:
     title: 'Bases dans l’administration d’équipe – gestion complète'
     description: 'Apprenez à gérer toutes les bases comme admin : afficher infos, droits, partages, liens, corbeille et restaurer ou supprimer en équipe.'
+weight: 1
 ---
 
 Si vous êtes **administrateur d'équipe**, vous avez accès à toutes les bases de votre équipe via l'**administration d'équipe**. Vous pouvez accéder à la vue détaillée de chaque base, voir les partages et les liens des bases ou supprimer des bases.
 
 ## Pour accéder aux bases dans l'administration d'équipe, procédez comme suit
 
-![Bases dans l'administration d'équipe](images/bases-in-der-teamverwaltung.gif)
-
 1. Cliquez sur l'**image de** votre **avatar** dans le coin supérieur droit.
 2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
-3. Sur le côté gauche, sous **Navigation**, allez sur **Bases**.
+3. Dans la **Navigation**, cliquez sur **Bases**.
+    ![Naviguez vers l'aperçu de toutes les bases dans la Gestion d'équipe](/images/open-bases.png)
+
 4. Cliquez sur une **base** pour obtenir plus d'informations et d'options sur la base en question.
 
 ## Ce que vous pouvez voir dans la vue détaillée d'une base
 
 ### Zone d'information
 
-![Affichage des détails de la base](images/Basedetailanzeige-1.png)
+![Vue détaillée d'une base](images/base-details-info.png)
 
 Vous pouvez lire ici les **informations** suivantes :
 
@@ -40,23 +41,25 @@ Vous pouvez lire ici les **informations** suivantes :
 
 Vous pouvez **exporter** la **base** sélectionnée en cliquant sur le bouton correspondant.
 
-### Accès
+### Accès (Web)
 
 Vous pouvez voir ici tous les **membres** qui ont **accès** à cette base et s'ils disposent de **droits de lecture ou d'écriture**.
 
-![Accès](images/Access-1.png)
+![Liste de toutes les autorisations d'accès](images/base-details-access-web.png)
+
+### Accès (API)
+
+Si un ou plusieurs jetons API ont déjà été générés pour cette base, vous pouvez consulter les jetons API dans cette section.
 
 ### Liens
 
 Dans les **liens**, vous pouvez voir tous les liens qui ont été générés pour la base sélectionnée.
 
-![Liens](images/Links-1.png)
+![Toutes les liaisons existantes d'une base](images/base-details-links.png)
 
 ### Supprimer
 
 Sous **Supprimer**, vous avez la possibilité de supprimer la base sélectionnée.
-
-![Supprimer](images/Delete-1.png)
 
 ## La corbeille à papier
 

@@ -129,4 +129,4 @@ Les abonnements existants peuvent être résiliés à tout moment via l'administ
 
 Si, en tant qu'administrateur d'équipe, vous supprimez votre équipe, votre compte, votre équipe et toutes les données qu'ils contiennent seront supprimés de manière permanente et définitive. Dans la mesure du possible, toutes les données enregistrées à votre sujet seront également supprimées de nos systèmes. Ce processus ne peut **pas** être annulé et les données supprimées ne peuvent PAS être récupérées.
 
-[En savoir plus sur les conséquences pour vos données si vous supprimez votre équipe]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+[En savoir plus sur les conséquences pour vos données si vous supprimez votre équipe]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).

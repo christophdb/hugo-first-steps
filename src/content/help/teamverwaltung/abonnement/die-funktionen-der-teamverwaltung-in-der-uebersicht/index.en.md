@@ -57,7 +57,7 @@ By deleting your entire team in team administration, **you automatically termina
 
 The following articles may be of interest to you:
 
-- [Delete the complete team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Delete the complete team]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## API & Integrations
 

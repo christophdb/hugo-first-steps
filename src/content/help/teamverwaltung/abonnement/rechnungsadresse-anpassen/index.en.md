@@ -20,14 +20,20 @@ You want to change your billing address? No problem, via the team administration
 
 ## Customize billing address
 
-{{< warning  headline="Important note"  text="Your team's billing address can only be changed by the **team admins**." />}}2. Open the **Team administration**. 3. Click on **Subscription**. 4. Click on **"Customize billing information"**. 5. Store a **new** billing address. 6. Save the change with **Change invoice recipient**.
+{{< warning  headline="Important note"  text="Your team's billing address can only be changed by the **team admins**." />}}
 
-![Change of billing address](images/Rechnungsadresse-aendern.png)
+1. Open the **Team Management**. 
+2. Click on **Subscription**. 
+3. Click on **"Edit Invoice Information"**.
+    ![Change the invoice address](images/change-invoice-address.png)
+
+4. Store a **new** invoice address. 
+5. Save your changes
 
 ## Frequently asked questions about the billing address
 
 {{< faq "When does the billing address become valid?" >}}If you change your billing address, all future invoices will be created with your new billing address.
 {{< /faq >}}
-{{< faq "Can the billing address be changed retroactively?" >}}Unfortunately no. Unfortunately, it is not possible to change the billing address on invoices that have already been generated. In exceptional cases, we may be able to issue you a new invoice, but will charge a processing fee of 10 € in any case. Please send us an appropriate [support request](https://account.seatable.com/support) with the invoice number and the exact change requests.
 
+{{< faq "Can the billing address be changed retroactively?" >}}Unfortunately no. Unfortunately, it is not possible to change the billing address on invoices that have already been generated. In exceptional cases, we may be able to issue you a new invoice, but will charge a processing fee of 10 € in any case. Please send us an appropriate [support request](https://account.seatable.com/support) with the invoice number and the exact change requests.
 {{< /faq >}}

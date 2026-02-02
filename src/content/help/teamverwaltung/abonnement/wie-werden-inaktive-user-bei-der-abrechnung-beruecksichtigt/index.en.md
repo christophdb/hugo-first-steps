@@ -22,16 +22,14 @@ Alternatively, you can simply use this link:
 
 [To the team administration](https://account.seatable.com/team)
 
-## Set user to inactive
+## Set User to Inactive
 
-{{< warning  headline="Important note"  text="Users can be set to inactive by team admins **only**." />}}2. Open the **Team administration**. 3. Click on **Team**. 4. Click on any **user**. 5. **Activate** the **slider** next to the **"Disable user"** item. 6. Click **Save Changes**.
+Locking team members (i.e. setting their status to Inactive) is described in the help article [Lock or Delete a Team Member]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}).
 
-![Deactivate inactive users via the "Team" tab in the team administration](images/deactivate-user.png)
+## Inactive Team Members Don't Require a License
 
-Deactivated users always appear in the Team overview in the **Team** tab with a red note **Inactive**.
+Deactivated users always appear in the Team overview under the **Team** tab with a red **Inactive** notice.
 
-![Deactivated users can always be recognized in the team overview by the red "inactive" notice](images/inactive-user.png)
+![Inactive users don't affect the total number of booked users](images/inactive-users.png)
 
-Inactive users do **not** need **a license** and do not increase the total number of booked users.
-
-![Inactive users have no influence on the total number of booked users](images/inactive-users-dont-count.png)
+Inactive users **don't require a license** and don't increase the total number of booked users.

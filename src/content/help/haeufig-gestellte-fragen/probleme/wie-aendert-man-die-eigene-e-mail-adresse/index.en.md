@@ -23,7 +23,7 @@ If you are the **administrator** or the only person in your team, changing your 
 - [Exporting a base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Registration]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Delete the complete team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Delete the complete team]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## Migration within a team to a new e-mail address
 

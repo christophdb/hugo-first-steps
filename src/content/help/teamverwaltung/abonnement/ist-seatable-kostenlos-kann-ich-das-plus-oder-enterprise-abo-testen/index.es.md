@@ -32,3 +32,5 @@ Además de la suscripción gratuita, SeaTable también ofrece dos suscripciones 
 ## ¿Es posible probar Plus o Enterprise gratuitamente?
 
 En principio, ofrecemos a las empresas la posibilidad de probar SeaTable Enterprise durante 30 días de forma gratuita para que puedan probar por sí mismas las funciones adicionales. Para tal solicitud, ofrecemos un formulario correspondiente en [la administración del equipo, en la sección de suscripciones.](https://account.seatable.com/subscription)
+
+![Probar SeaTable Enterprise durante 30 días](images/try-seatable-enterprise.png)

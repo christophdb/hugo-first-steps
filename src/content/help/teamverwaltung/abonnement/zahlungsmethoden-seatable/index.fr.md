@@ -15,7 +15,12 @@ seo:
 
 {{< required-version "Administrateurs de l'équipe" >}}
 
-SeaTable propose actuellement deux méthodes de paiement. Le paiement **par carte de crédit** est le mode de paiement le plus courant. Grâce à notre prestataire de services de paiement [Stripe](https://stripe.com), nous acceptons les paiements par Visa, Mastercard, American Express, China UnionPay, Discover, Diners et Cartes Bancaires.
+SeaTable propose actuellement deux méthodes de paiement :
+
+- Paiement par carte de crédit
+- Paiement par facture
+
+Le paiement **par carte de crédit** est le mode de paiement le plus courant. Grâce à notre prestataire de services de paiement [Stripe](https://stripe.com), nous acceptons les paiements par Visa, Mastercard, American Express, China UnionPay, Discover, Diners et Cartes Bancaires.
 
 Le deuxième mode de paiement possible est le **paiement sur facture**, qui n'est toutefois possible que sous certaines conditions. Pour connaître ces conditions, consultez l'article d'aide [Paiement par facture]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).
 
@@ -25,13 +30,14 @@ Le deuxième mode de paiement possible est le **paiement sur facture**, qui n'es
 2. Cliquez sur **Abonnement**.
 3. Sous le point "**Mode de paiement"**, vous pouvez consulter votre mode de paiement actuel.
 
-![Vous pouvez à tout moment consulter votre méthode de paiement via l'onglet Abonnement dans l'administration d'équipe.](images/Zahlungsmethode-einsehen.jpg)
+![Dans la Gestion d'équipe, vous pouvez consulter, modifier et supprimer votre carte de crédit enregistrée.](images/payment-method.png)
 
-## Comment puis-je modifier mon mode de paiement ?
+## Comment puis-je changer ma méthode de paiement ?
 
-1. Ouvrez l'**administration d'équipe**.
-2. Cliquez sur **Abonnement**.
-3. Cliquez sur **"Personnaliser le mode de paiement".**
-4. Vous pouvez maintenant enregistrer une **nouvelle carte de crédit** comme mode de paiement. Cet [article]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}) vous explique comment et sous quelles conditions vous pouvez activer le **paiement sur facture**.
+À l'endroit même où vous pouvez voir votre méthode de paiement dans la Gestion d'équipe, vous pouvez également la modifier. Cliquez sur **Modifier la méthode de paiement** et effectuez les modifications souhaitées.
 
-![Vous pouvez modifier votre mode de paiement à tout moment dans l'onglet Abonnement de l'administration d'équipe.](images/Zahlungsmethode-aendern.jpg)
+Vous pouvez, par exemple, enregistrer une **nouvelle ou supplémentaire carte de crédit** comme méthode de paiement.
+
+## Passage au paiement par facture
+
+Découvrez comment et sous quelles conditions vous pouvez activer le **paiement par facture** dans cet [article]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).

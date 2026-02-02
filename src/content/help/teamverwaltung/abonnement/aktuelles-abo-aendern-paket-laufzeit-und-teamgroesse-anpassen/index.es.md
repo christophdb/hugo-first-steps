@@ -46,31 +46,29 @@ Por supuesto, sólo pagará el **importe pr**orrateado correspondiente a cada ca
 
 {{< warning  headline="Nota importante"  text="El paquete de suscripción de tu equipo sólo puede ser modificado por los **administradores del equipo**." />}}
 
-1. Abre la **administración del equipo**.
-2. Pase a la sección **Suscripción**.
-3. Haga clic en **Personalizar suscripción**.
-4. Realice los cambios deseados en la **suscripción**, el **número de usuarios** y el **periodo de facturación**.
-5. Confirme el cambio de su abono con **Ajustar abono de pago**.
+1. Abra la **Gestión de equipo**.
+2. Cambie a la sección **Suscripción**.
+3. Haga clic en **Editar suscripción**.
+    ![Gestiona su suscripción en Gestión de equipo](images/subscription-status.png)
 
-![Confirme el cambio en su suscripción](images/switch-from-plus-to-enterprise.png)
+4. Realice los cambios deseados en la **suscripción**, el **número de usuarios** y el **período de facturación**.
+5. Confirme el cambio de su suscripción con **Modificar suscripción de pago**.
 
-## Cancelación de la suscripción de pago
+![Los cambios en la suscripción se pueden realizar a través de Gestión de equipo](images/subscription-modify-and-save.png)
 
-Puede volver a la suscripción gratuita al final del periodo que ya ha pagado. Para ello, debe cancelar su suscripción de pago.
+## Cancelación de su suscripción de pago
 
-{{< warning  headline="Terminación no es cancelación" >}}
+Puede volver a la suscripción gratuita Free al final del período ya pagado. Para ello, debe cancelar su suscripción de pago.
 
-La cancelación de su suscripción de pago no elimina su equipo ni sus datos. Su equipo sólo será degradado a la versión gratuita SeaTable Free al final del período. Puede averiguar cómo eliminar su equipo por completo [aquí]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+{{< warning  type="warning" headline="La cancelación no es eliminación" >}}
+
+Cancelar su suscripción de pago no lleva a la eliminación de su equipo o sus datos. Su equipo simplemente será degradado a SeaTable Free gratuito al final del período. Aprenda cómo eliminar completamente su equipo [aquí]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).
 
 {{< /warning >}}
 
-1. Abre la **administración del equipo**.
+1. Abra la **Gestión de equipo**.
 2. Haga clic en **Suscripción**.
-3. Haga clic en **Cancelar suscripción y cambie a SeaTable Free**.
-
-![Cambia tu suscripción de Plus/Enterprise a Gratuita](images/switch-to-seatable-free.png)
-
-5. Lea atentamente las **instrucciones para** cambiar a SeaTable Free.
-6. Active el **control deslizante** y confirme el cambio de su suscripción con **Cancelar suscripción y cambiar a SeaTable Free**.
-
-![Confirme el cambio de su suscripción a SeaTable Free](images/confirm-switch-to-seatable-free.png)
+3. Haga clic en **Cancelar suscripción**.
+4. Lea detenidamente las **notas** sobre el cambio a SeaTable Free.
+    ![Cancelar suscripción de pago y volver a SeaTable Free](images/subscription-cancel-return-free.png)
+5. Confirme el cambio de su suscripción con **Cancelar suscripción y cambiar a SeaTable Free**.
