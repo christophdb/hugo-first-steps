@@ -24,14 +24,12 @@ También puedes utilizar este enlace:
 
 ## Establecer usuario como inactivo
 
-{{< warning  headline="Nota importante"  text="Los usuarios **sólo** pueden ser desactivados por los administradores del equipo." />}}2. Abre la **administración del equipo**. 3. Haga clic en **Equipo**. 4. Haz clic en cualquier **usuario**. 5. **Active** el **control deslizante** situado junto a la opción **"Desactivar usuario"**. 6. Haga clic en **Guardar cambios**.
+El bloqueo de miembros del equipo (es decir, establecer su estado como Inactivo) está descrito en el artículo de ayuda [Bloquear o eliminar un miembro del equipo]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}).
 
-![Desactivar usuarios inactivos a través de la pestaña "Equipo" en la administración del equipo.](images/deactivate-user.png)
+## Los miembros del equipo inactivos no requieren licencia
 
-Los usuarios desactivados siempre aparecen en la vista general del equipo en la pestaña **Equipo** con una nota roja **Inactivo**.
+Los usuarios desactivados siempre aparecen en la vista general del equipo bajo la pestaña **Equipo** con una notificación roja **Inactivo**.
 
-![Los usuarios desactivados siempre pueden reconocerse en la vista general del equipo por el aviso rojo de "inactivo".](images/inactive-user.png)
+![Los usuarios inactivos no afectan el número total de usuarios reservados](images/inactive-users.png)
 
-Los usuarios inactivos **no** necesitan **licencia** y no aumentan el número total de usuarios reservados.
-
-![Los usuarios inactivos no influyen en el número total de usuarios reservados](images/inactive-users-dont-count.png)
+Los usuarios inactivos **no requieren licencia** y no aumentan el número total de usuarios reservados.

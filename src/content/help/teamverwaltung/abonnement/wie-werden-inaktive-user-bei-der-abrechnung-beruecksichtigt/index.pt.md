@@ -22,16 +22,14 @@ Alternativamente, pode simplesmente utilizar este link:
 
 [À direcção da equipa](https://account.seatable.com/team)
 
-## Definir o utilizador como inactivo
+## Definir Utilizador como Inativo
 
-{{< warning  headline="Nota importante"  text="Os utilizadores **só** podem ser definidos como inactivos pelos administradores da equipa." />}}2. Abrir a **administração da equipa**. 3. Clique em **Equipa**. 4. Clique em qualquer **utilizador**. 5. **Ativar** o **cursor** ao lado do item **"Desativar utilizador"**. 6. Clique em **Guardar Alterações**.
+O bloqueio de membros da equipa (ou seja, definir o estado como Inativo) está descrito no artigo de ajuda [Bloquear ou Eliminar um Membro da Equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}).
 
-![Desactivar utilizadores inactivos através do separador "Equipa" na administração da equipa](images/deactivate-user.png)
+## Membros da Equipa Inativos Não Requerem Licença
 
-Os utilizadores desactivados aparecem sempre na vista geral da equipa, no separador **Equipa**, com uma nota vermelha **Inactivo**.
+Os utilizadores desativados aparecem sempre na vista geral da equipa no separador **Equipa** com uma notificação vermelha **Inativo**.
 
-![Os utilizadores desactivados podem sempre ser reconhecidos na visão geral da equipa pelo aviso vermelho "inactivo".](images/inactive-user.png)
+![Os utilizadores inativos não afetam o número total de utilizadores reservados](images/inactive-users.png)
 
-Os utilizadores inactivos não necessitam de **uma licença** e não aumentam o número total de utilizadores reservados.
-
-![Os utilizadores inactivos não têm influência no número total de utilizadores reservados](images/inactive-users-dont-count.png)
+Os utilizadores inativos **não requerem licença** e não aumentam o número total de utilizadores reservados.

@@ -28,4 +28,4 @@ seo:
 
 ## Eliminar el equipo por completo
 
-Si no sólo desea cancelar su suscripción actual, sino también eliminar todo su equipo, lea el artículo de ayuda [Eliminar todo el equipo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+Si no sólo desea cancelar su suscripción actual, sino también eliminar todo su equipo, lea el artículo de ayuda [Eliminar todo el equipo]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).

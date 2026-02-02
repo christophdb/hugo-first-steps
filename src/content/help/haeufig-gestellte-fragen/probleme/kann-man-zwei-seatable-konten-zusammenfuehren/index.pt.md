@@ -22,7 +22,7 @@ Infelizmente, **não** é possível no sistema fundir contas individuais SeaTabl
 É claro que pode eliminar uma conta (equipa ou membro da equipa) em qualquer altura e depois criar uma nova conta noutra equipa. Para o efeito, recomenda-se o seguinte procedimento:
 
 1. [Exportar todas as bases]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) que deseja transferir para a nova equipa.
-2. [Eliminar o membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) ou [toda a equipa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}) através da administração da equipa.
+2. [Eliminar o membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) ou [toda a equipa]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}) através da administração da equipa.
 3. Criar um [novo membro de equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) na outra equipa.
 4. [Importe]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) as suas bases anteriormente exportadas.
 
@@ -32,6 +32,6 @@ Desactivar o membro da equipa na equipa original não é suficiente. Para que o 
 
 {{< warning headline="Atenção" >}}
 
-Se [eliminar toda a equipa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}), todos os outros membros da equipa são também eliminados.
+Se [eliminar toda a equipa]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}), todos os outros membros da equipa são também eliminados.
 
 {{< /warning >}}

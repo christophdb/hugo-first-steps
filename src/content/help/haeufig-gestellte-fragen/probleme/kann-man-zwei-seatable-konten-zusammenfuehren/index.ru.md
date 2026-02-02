@@ -22,7 +22,7 @@ seo:
 Конечно, в любой момент можно удалить учетную запись (команду или члена команды), а затем создать новую в другой команде. Для этого рекомендуется выполнить следующую процедуру:
 
 1. [Экспортируйте все базы]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}), которые вы хотите перенести в новую команду.
-2. [Удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) или [всей команды]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}) через администрацию команды.
+2. [Удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) или [всей команды]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}) через администрацию команды.
 3. Создайте [нового члена команды]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) в другой команде.
 4. [Импортируйте]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) ранее экспортированные базы.
 
@@ -32,6 +32,6 @@ seo:
 
 {{< warning headline="Внимание" >}}
 
-Если вы [удалите всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}), все остальные члены команды также будут удалены.
+Если вы [удалите всю команду]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}), все остальные члены команды также будут удалены.
 
 {{< /warning >}}

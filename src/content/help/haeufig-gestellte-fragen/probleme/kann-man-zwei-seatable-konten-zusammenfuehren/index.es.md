@@ -22,7 +22,7 @@ Desafortunadamente, **no** es posible en el sistema fusionar cuentas individuale
 Por supuesto, puede eliminar una cuenta (equipo o miembro del equipo) en cualquier momento y luego crear una nueva en otro equipo. Para ello, se recomienda seguir el siguiente procedimiento:
 
 1. [Exporta todas las bases]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) que quieras transferir al nuevo equipo.
-2. [Elimina al miembro del equipo]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) o a [todo el equipo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}) a través de la administración del equipo.
+2. [Elimina al miembro del equipo]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) o a [todo el equipo]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}) a través de la administración del equipo.
 3. Crea un [nuevo miembro]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) en el otro equipo.
 4. [Importe]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) sus bases previamente exportadas.
 
@@ -32,6 +32,6 @@ Desactivar al miembro del equipo en el equipo original no es suficiente. Para qu
 
 {{< warning headline="Atención" >}}
 
-Si [elimina todo el equipo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}), también se eliminan todos los demás miembros del equipo.
+Si [elimina todo el equipo]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}), también se eliminan todos los demás miembros del equipo.
 
 {{< /warning >}}

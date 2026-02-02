@@ -46,31 +46,29 @@ Naturalmente, só paga o respetivo **montante proporcional** por cada alteraçã
 
 {{< warning  headline="Nota importante"  text="O pacote de subscrição da sua equipa só pode ser alterado pelos **administradores da equipa**." />}}
 
-1. Abrir a **administração da equipa**.
-2. Mudar para a secção **Assinatura**.
-3. Clique em **Personalizar subscrição**.
-4. Efectue as alterações pretendidas à **assinatura**, ao **número de utilizadores** e ao **período de faturação**.
-5. Confirmar a alteração da sua subscrição com **Ajustar a subscrição mediante o pagamento de uma taxa**.
+1. Abra a **Gestão de Equipa**.
+2. Mude para a secção **Subscrição**.
+3. Clique em **Editar Subscrição**.
+    ![Gerencie a sua subscrição na Gestão de Equipa](images/subscription-status.png)
 
-![Confirme a alteração à sua subscrição](images/switch-from-plus-to-enterprise.png)
+4. Efectue as alterações desejadas na **subscrição**, no **número de utilizadores** e no **período de faturação**.
+5. Confirme a alteração da sua subscrição com **Modificar Subscrição Paga**.
+
+![As alterações na subscrição podem ser efectuadas através da Gestão de Equipa](images/subscription-modify-and-save.png)
 
 ## Cancelamento da sua subscrição paga
 
-Pode voltar à subscrição gratuita no final do período que já pagou. Para tal, tem de cancelar a sua subscrição paga.
+Pode voltar à subscrição gratuita Free no final do período já pago. Para tal, deve cancelar a sua subscrição paga.
 
-{{< warning  headline="A rescisão não é cancelada" >}}
+{{< warning  type="warning" headline="O cancelamento não é eliminação" >}}
 
-O cancelamento da sua subscrição paga não elimina a sua equipa ou os seus dados. A sua equipa apenas será rebaixada para a versão gratuita do SeaTable Free no final do período. Pode descobrir como eliminar completamente a sua equipa [aqui]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+O cancelamento da sua subscrição paga não leva à eliminação da sua equipa ou dos seus dados. A sua equipa será simplesmente rebaixada para SeaTable Free gratuito no final do período. Saiba como eliminar completamente a sua equipa [aqui]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).
 
 {{< /warning >}}
 
-1. Abrir a **administração da equipa**.
+1. Abra a **Gestão de Equipa**.
 2. Clique em **Subscrição**.
-3. Clique em **Cancelar subscrição e mude para o SeaTable Free**.
-
-![Altere a sua assinatura de Plus/Enterprise para Free](images/switch-to-seatable-free.png)
-
-5. Ler cuidadosamente as **instruções para** mudar para o SeaTable Free.
-6. Active a **barra deslizante** e confirme a alteração da sua subscrição com **Cancelar subscrição e mudar para o SeaTable Free**.
-
-![Confirme a alteração da sua subscrição ao SeaTable Free](images/confirm-switch-to-seatable-free.png)
+3. Clique em **Cancelar Subscrição**.
+4. Leia atentamente as **notas** sobre a mudança para SeaTable Free.
+    ![Cancelar subscrição paga e voltar ao SeaTable Free](images/subscription-cancel-return-free.png)
+5. Confirme a alteração da sua subscrição com **Cancelar Subscrição e Mudar para SeaTable Free**.

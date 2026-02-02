@@ -18,11 +18,9 @@ Este artículo explica las consecuencias de eliminar un equipo para los datos as
 
 ## Borrar mi equipo
 
-{{< warning  headline="Nota importante"  text="Los equipos **sólo** pueden ser eliminados por sus administradores." />}}
+Aprenda cómo eliminar su equipo en el artículo [Eliminar el equipo completo]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}). 
 
-![Haz clic en "Eliminar completamente la cuenta del equipo y todos los datos" en la parte inferior de la página.](images/delete-team.png) 4. Abre la **administración del equipo**. 5. Haga clic en **Suscripción**. 6. Haz clic en **"Eliminar completamente la cuenta del equipo y todos los datos"** en la parte inferior de la página. 7. Activa el **control deslizante** y confirma la eliminación con **"Eliminar este equipo y todos los datos"**. 8. A continuación, recibirá automáticamente un **mensaje** confirmando la eliminación de su cuenta de equipo.
-
-![Confirme la eliminación de su equipo.](images/delete-team-confirmation-1.png)
+Este artículo trata sobre sus datos y qué sucede con ellos después de la eliminación.
 
 ## Consecuencias para sus datos
 

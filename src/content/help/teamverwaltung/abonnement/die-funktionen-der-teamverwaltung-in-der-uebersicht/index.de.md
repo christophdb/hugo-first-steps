@@ -55,7 +55,7 @@ Indem Sie Ihr gesamtes Team in der Teamverwaltung löschen, **kündigen Sie auto
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Das komplette Team löschen]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Das komplette Team löschen]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## API & Integrationen
 

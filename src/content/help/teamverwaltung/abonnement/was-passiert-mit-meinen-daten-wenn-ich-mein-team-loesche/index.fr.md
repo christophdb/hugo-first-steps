@@ -18,11 +18,9 @@ Cet article vous explique les conséquences de la suppression d'une équipe sur 
 
 ## Supprimer mon équipe
 
-{{< warning  headline="Remarque importante"  text="Les équipes ne peuvent être supprimées **que** par les admins d'équipe." />}}
+Découvrez comment supprimer votre équipe dans l'article [Supprimer l'équipe complète]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}). 
 
-![Cliquez tout en bas de la page sur "Supprimer complètement le compte d'équipe et toutes les données".](images/delete-team.png) 4. Ouvrez l'**administration d'équipe**. 5. Cliquez sur **Abonnement**. 6. Cliquez tout en bas de la page sur **"Supprimer complètement le compte d'équipe et toutes les données".** 7. Activez le **curseur** et confirmez la suppression en cliquant **sur "Supprimer cette équipe et toutes les données".** 8. Vous recevrez ensuite automatiquement un **message** confirmant une nouvelle fois la suppression de votre compte d'équipe.
-
-![Confirmez la suppression de votre équipe.](images/delete-team-confirmation-1.png)
+Cet article traite de vos données et de ce qui leur arrive après suppression.
 
 ## Conséquences pour vos données
 

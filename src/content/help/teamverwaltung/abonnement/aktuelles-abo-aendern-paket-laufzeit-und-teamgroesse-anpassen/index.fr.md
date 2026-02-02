@@ -46,31 +46,29 @@ Bien entendu, vous ne payez que le **montant proportionnel** à chaque modificat
 
 {{< warning  headline="Remarque importante"  text="Le forfait de votre équipe ne peut être modifié que par les **administrateurs de l'équipe**." />}}
 
-1. Ouvrez l'**administration d'équipe**.
+1. Ouvrez la **Gestion d'équipe**.
 2. Passez à la section **Abonnement**.
-3. Cliquez sur **Personnaliser l'abonnement**.
-4. Apportez les modifications souhaitées à l'**abonnement**, au **nombre d'utilisateurs** et à la **période de facturation**.
-5. Confirmez la modification de votre abonnement en cliquant sur **Modifier l'abonnement payant**.
+3. Cliquez sur **Modifier l'abonnement**.
+    ![Vous gérez votre abonnement dans la Gestion d'équipe](images/subscription-status.png)
 
-![Confirmez la modification de votre abonnement](images/switch-from-plus-to-enterprise.png)
+4. Effectuez les modifications souhaitées sur l'**abonnement**, le **nombre d'utilisateurs** et la **période de facturation**.
+5. Confirmez la modification de votre abonnement avec **Modifier l'abonnement payant**.
+
+![Les modifications d'abonnement peuvent être effectuées via la Gestion d'équipe](images/subscription-modify-and-save.png)
 
 ## Résiliation de votre abonnement payant
 
-Vous pouvez revenir à l'abonnement gratuit à la fin de la période déjà payée. Pour cela, vous devez résilier votre abonnement payant.
+Vous pouvez revenir à l'abonnement gratuit Free à la fin de la période déjà payée. Pour cela, vous devez résilier votre abonnement payant.
 
-{{< warning  headline="La résiliation n'est pas une suppression" >}}
+{{< warning  type="warning" headline="La résiliation n'est pas une suppression" >}}
 
-La résiliation de votre abonnement payant n'entraîne pas la suppression de votre équipe ou de vos données. Votre équipe sera simplement rétrogradée à l'équipe gratuite SeaTable Free à la fin de votre abonnement. Pour savoir comment supprimer complètement votre équipe, [cliquez ici]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+La résiliation de votre abonnement payant ne conduit pas à la suppression de votre équipe ou de vos données. Votre équipe sera simplement rétrogradée vers SeaTable Free gratuit à la fin de la période. Découvrez comment supprimer complètement votre équipe [ici]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}}).
 
 {{< /warning >}}
 
-1. Ouvrez l'**administration d'équipe**.
+1. Ouvrez la **Gestion d'équipe**.
 2. Cliquez sur **Abonnement**.
-3. Cliquez sur **Annuler l'abonnement et passer à SeaTable Free**.
-
-![Modification de votre abonnement de Plus/Enterprise à Free](images/switch-to-seatable-free.png)
-
-5. Lisez attentivement les **instructions** pour passer à SeaTable Free.
-6. Activez le **curseur** et confirmez la modification de votre abonnement en cliquant sur **Annuler l'abonnement et passer à SeaTable Free**.
-
-![Confirmez la modification de votre abonnement à SeaTable Free](images/confirm-switch-to-seatable-free.png)
+3. Cliquez sur **Résilier l'abonnement**.
+4. Lisez attentivement les **notes** concernant le passage à SeaTable Free.
+    ![Résilier l'abonnement payant et revenir à SeaTable Free](images/subscription-cancel-return-free.png)
+5. Confirmez la modification de votre abonnement avec **Résilier l'abonnement et passer à SeaTable Free**.

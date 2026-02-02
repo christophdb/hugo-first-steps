@@ -22,16 +22,14 @@ Vous pouvez aussi simplement utiliser ce lien :
 
 [Vers l'administration d'équipe](https://account.seatable.com/team)
 
-## Rendre l'utilisateur inactif
+## Mettre un utilisateur sur inactif
 
-{{< warning  headline="Remarque importante"  text="Les utilisateurs peuvent être rendus inactifs **uniquement** par les admins d'équipe." />}}2. Ouvrez l'**administration d'équipe**. 3. Cliquez sur **Équipe**. 4. Cliquez sur n'importe quel **utilisateur**. 5. **Activez** le **curseur** à côté de l'option **"Désactiver l'utilisateur".** 6. Cliquez sur **Enregistrer les modifications**.
+Le verrouillage des membres d'équipe (c'est-à-dire la définition du statut sur Inactif) est décrit dans l'article d'aide [Verrouiller ou supprimer un membre d'équipe]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}).
 
-![Désactiver les utilisateurs inactifs via l'onglet "Équipe" dans la gestion des équipes](images/deactivate-user.png)
+## Les membres d'équipe inactifs ne nécessitent pas de licence
 
-Les utilisateurs désactivés apparaissent toujours dans l'aperçu de l'équipe sous l'onglet **Équipe** avec une indication rouge **Inactif**.
+Les utilisateurs désactivés apparaissent toujours dans la vue d'ensemble de l'équipe sous l'onglet **Équipe** avec un avis rouge **Inactif**.
 
-![Les utilisateurs désactivés peuvent toujours être reconnus dans l'aperçu de l'équipe par la mention rouge "inactif".](images/inactive-user.png)
+![Les utilisateurs inactifs n'affectent pas le nombre total d'utilisateurs réservés](images/inactive-users.png)
 
-Les utilisateurs inactifs n'ont **pas** besoin de **licence** et n'augmentent pas le nombre total d'utilisateurs réservés.
-
-![Les utilisateurs inactifs n'ont pas d'influence sur le nombre total d'utilisateurs inscrits.](images/inactive-users-dont-count.png)
+Les utilisateurs inactifs **ne nécessitent pas de licence** et n'augmentent pas le nombre total d'utilisateurs réservés.

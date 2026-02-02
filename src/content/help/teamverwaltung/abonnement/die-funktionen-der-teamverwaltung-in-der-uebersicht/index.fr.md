@@ -57,7 +57,7 @@ En supprimant toute votre équipe dans l'administration d'équipe, **vous résil
 
 Les articles suivants pourraient vous intéresser :
 
-- [Supprimer l'équipe complète]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Supprimer l'équipe complète]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## API & intégrations
 

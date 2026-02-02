@@ -23,7 +23,7 @@ Se é o **administrador** ou a única pessoa da sua equipa, alterar o seu endere
 - [Exportar uma base como um ficheiro DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Inscrição]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Criação de uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Eliminar a equipa completa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
+- [Eliminar a equipa completa]({{< relref "help/teamverwaltung/abonnement/das-komplette-team-loeschen" >}})
 
 ## Migração dentro de uma equipa para um novo endereço de correio electrónico
 
