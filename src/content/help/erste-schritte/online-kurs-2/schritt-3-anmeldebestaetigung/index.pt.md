@@ -25,25 +25,25 @@ Para enviar mensagens de correio eletrónico com o SeaTable, é necessário cria
 
 Para começar, visite a [página de registo do Mailtrap](https://mailtrap.io/register/signup) e crie uma conta gratuita.
 
-![](images/lvl2-mailtrap.png)
+![Página de registo do Mailtrap com formulário de criação de conta](images/lvl2-mailtrap.png)
 
 Confirme o seu endereço de correio eletrónico e inicie sessão. Depois de responder a algumas perguntas sobre os seus interesses - que não são relevantes para o resto do processo - será encaminhado para a página inicial do _Mailtrap_.
 
-![](images/lvl2-mailtrap-inbox.png)
+![Ecrã inicial do Mailtrap com caixa de entrada predefinida «My Inbox»](images/lvl2-mailtrap-inbox.png)
 
 No menu do lado esquerdo, clique em `E-Mail Testing > Inboxes`. Aí já encontrará uma caixa de entrada pré-configurada com o nome `My Inbox`. São necessários os dados de acesso SMTP correspondentes para a configuração no SeaTable.
 
-![](images/lvl2-mailtrap-smtp-credentials.png)
+![Credenciais SMTP da caixa «My Inbox» para utilização no SeaTable](images/lvl2-mailtrap-smtp-credentials.png)
 
 ### Configurar o envio de correio eletrónico no SeaTable
 
 Com os dados de acesso SMTP do Mailtrap, pode agora configurar [o envio de correio eletrónico no SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
-![](images/lvl2-mailtrap-in-seatable.png)
+![Janela do SeaTable com dados SMTP do Mailtrap preenchidos para envio de e-mails](images/lvl2-mailtrap-in-seatable.png)
 
 As mensagens de correio eletrónico não são realmente enviadas, mas aparecem na sua caixa de correio Mailtrap. Teste isto enviando uma mensagem de correio eletrónico para qualquer destinatário - só aparecerá na sua caixa de correio virtual.
 
-![](images/lvl2-mailtest.gif)
+![E-mail de teste na caixa do Mailtrap para verificar o envio a partir do SeaTable](images/lvl2-mailtest.gif)
 
 ## Enviar uma mensagem de correio eletrónico ao cliente
 
@@ -61,7 +61,7 @@ Agora podemos ver no quadro `Registrations` para criar uma nova coluna para envi
 >
 > Beneficiário: `customer@example.com`
 
-![](images/lvl2-create-button.png)
+![Tabela do SeaTable com coluna de botão «Send» para enviar e-mails a participantes](images/lvl2-create-button.png)
 
 Pode utilizar o seguinte modelo de texto para o texto da mensagem:
 
@@ -80,7 +80,7 @@ Pode utilizar o seguinte modelo de texto para o texto da mensagem:
 
 No editor de texto simples, os marcadores de posição entre parênteses rectos são substituídos automaticamente. Se estiver a utilizar o editor de rich text, tem de substituir os marcadores de posição manualmente utilizando a opção `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` inserir.
 
-![](images/lvl2-rich-text-editor.png)
+![Editor de texto formatado do SeaTable com placeholders para curso e data](images/lvl2-rich-text-editor.png)
 
 Em seguida, clique no botão e verifique se a mensagem aparece na sua caixa de correio Mailtrap.
 

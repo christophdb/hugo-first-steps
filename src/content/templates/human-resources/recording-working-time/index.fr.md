@@ -20,11 +20,11 @@ Le premier tableau de la base contient tous les horaires de travail, les demande
 
 Dans une application pour employés construite avec SeaTable, vous pouvez rendre la saisie de données intuitive et conviviale en demandant à vos employés de saisir les heures de travail, les demandes de congé et les congés maladie dans des formulaires web. Vous pouvez également ajouter des instructions concrètes aux champs de saisie afin de guider les personnes qui remplissent les formulaires tout au long du processus.
 
-![](images/Mitarbeiter-App.gif)
+![Application employé pour la saisie des temps avec formulaires web pour heures, congés et arrêts](images/Mitarbeiter-App.gif)
 
 Lorsque vos employés remplissent les formulaires web, SeaTable ajoute de nouvelles entrées dans les tableaux correspondants, que le cadre responsable peut ensuite valider ou rejeter dans une application de gestion. Sur votre tableau de bord, vous pouvez intégrer des statistiques qui vous permettent, à vous et à vos cadres, de garder un œil sur toutes les heures supplémentaires, les congés et les arrêts maladie de vos employés. Des calendriers permettent en outre de présenter les données dans un aperçu calendaire.
 
-![](images/Dashboard_4MB.gif)
+![Tableau de bord RH dans SeaTable avec statistiques sur heures supplémentaires, congés et arrêts](images/Dashboard_4MB.gif)
 
 Bien entendu, vous pouvez utiliser de nombreuses autres fonctionnalités de SeaTable pour développer, selon vos besoins, votre propre application de gestion du temps de travail dans votre entreprise. Sur la base de la base de données des employés, le modèle peut être étendu à volonté avec des tableaux et des colonnes, par exemple pour le calcul des salaires, les formations internes et les plans d'équipes. Révolutionnez votre gestion des ressources humaines avec SeaTable ! Pour en savoir plus sur la saisie du temps de travail,cliquez ici.
 

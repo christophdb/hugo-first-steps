@@ -28,7 +28,7 @@ Téléchargez les documents importants, tels que les confirmations de réservati
 
 L'application de ce modèle vous aide également à saisir facilement vos dépenses via un formulaire. Grâce à des statistiques simples, vous pouvez voir exactement combien vous avez dépensé et pour quoi à la fin de votre voyage.
 
-![](images/image-1721217958013.png)
+![Application de planification de voyage dans SeaTable avec listes de destinations, activités, documents et dépenses](images/image-1721217958013.png)
 
 ## Modèle interactif
 

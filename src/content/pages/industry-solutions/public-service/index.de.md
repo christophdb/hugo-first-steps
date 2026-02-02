@@ -1,18 +1,18 @@
 ---
-title: 'Digitale Verwaltung für Behörden & Unternehmen einfach gemacht'
+title: 'Digitale Verwaltung & KI-gestützte Prozesse für Behörden'
 description: ''
 seo:
-    title: 'Digitale Verwaltung für Behörden & Kommunen | SeaTable'
-    description: 'Digitale Verwaltung einfach gestalten: SeaTable bietet Behörden flexible, DSGVO-konforme No-Code-Lösungen in Cloud oder On-Premises'
+    title: 'Digitale Verwaltung & KI für Behörden | SeaTable'
+    description: 'Effiziente Verwaltung durch KI & No-Code: SeaTable bietet Behörden flexible, DSGVO-konforme Lösungen in der Cloud oder On-Premises.'
 date: '2025-04-03'
 url: '/de/digitale-verwaltung'
 
 sections:
     - name: hero-5
       weight: 1
-      title: Digitale Verwaltung im öffentlichen Dienst
+      title: Digitale Verwaltung mit intelligenter KI-Unterstützung
       subtitle: Die No-Code Lösung für die Digitalisierung des öffentlichen Sektors
-      text: Die Digitalisierung der Verwaltung ist eine große Herausforderung. SeaTable bietet eine flexible und sichere Lösung dafür. Verwaltungen können Prozesse digitalisieren und Daten DSGVO-konform verwalten. Wählen Sie zwischen der SeaTable Cloud-Lösung oder einer eigenen Serverinstallation. Starten Sie jetzt die digitale Verwaltung Ihrer Behörde!
+      text: Die Digitalisierung der Verwaltung erreicht das nächste Level. SeaTable kombiniert **flexible No-Code-Strukturen mit leistungsstarker KI**, um Prozesse nicht nur zu digitalisieren, sondern intelligent zu automatisieren. DSGVO-konform, sicher und wahlweise in der Cloud oder auf dem eigenen Server.
       classes:
           - bg-orange-100
       template: 1acd19d97c8f4ed3ad38
@@ -29,7 +29,7 @@ sections:
           - curved
           - bg-white
       title: Digitalisierung in der öffentlichen Verwaltung effizient umsetzen
-      subtitle: Datensicherheit und Datenschutz
+      subtitle: Datensicherheit trifft auf Innovation
       description: Die Digitalisierung der öffentlichen Verwaltung kann herausfordernd sein. Egal ob Bürgeranfragen, Liegenschaftsverwaltung oder Haushaltsplanung – mit SeaTable wird es einfach!
       items:
           - text: '**Zentralisiertes Datenmanagement:** Alle Infos sicher an einem Ort, immer zugänglich.'
@@ -41,22 +41,22 @@ sections:
 
     - name: 'content-4'
       weight: 3
-      title: Verwaltungsdigitalisierung
+      title: Intelligente Verwaltungsdigitalisierung
       subtitle: Von der Planung bis zur Umsetzung
       text: 'Die Digitalisierung in Behörden braucht clevere Planung und Umsetzung. Mit SeaTable bekommen Sie alle Werkzeuge an die Hand, um den Digitalisierungsprozess zu meistern – von der Analyse bis zur Integration. Digitalisierung heißt nicht nur Automatisierung, sondern auch effizientere Arbeitskultur, Transparenz und Bürgernähe.'
       items:
           - icon: signature
             headline: Antragsmanagement
-            text: 'Erstellen Sie digitale Formulare und verfolgen Sie den Status von Anträgen in Echtzeit.'
+            text: 'Erstellen Sie digitale Formulare und lassen eingehende Anträge automatisch klassifizieren und Prioritäten durch KI vorschlagen.'
           - icon: building
             headline: Liegenschaftsverwaltung
-            text: 'Verwalten Sie Liegenschaften mit strukturierten und anpassbaren Datenbanken.'
+            text: 'Verwalten Sie Liegenschaften mit strukturierten, anpassbaren Datenbanken und automatisierter Dokumentenverwaltung.'
           - icon: substack
             headline: Kommunale Haushaltsplanung
-            text: 'Digitalisieren Sie die Finanzplanung und -verwaltung für eine effizientere Haushaltsplanung.'
+            text: 'Digitalisieren Sie die Finanzplanung und -verwaltung und nutzen Sie KI-gestützte Prognosen für eine effizientere Haushaltsplanung.'
           - icon: ghost
             headline: Personalmanagement
-            text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten.
+            text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten. Automatisieren Sie die KI-gestützte Erstellung von Zeugnisentwürfen oder Stellenbeschreibungen direkt in der Base.
           - icon: check
             headline: Projektmanagement
             text: Steuern Sie Projekte effizient und transparent mit automatisierten Prozessen und Echtzeit-Kollaboration.
@@ -68,7 +68,7 @@ sections:
       weight: 4
       title: Vorlagen für eine digitalisierte Verwaltung
       subtitle: Jetzt loslegen
-      description: Mit SeaTable wird die Digitalisierung im Public Sector zu einer Möglichkeit, Prozesse nicht nur zu digitalisieren, sondern sie effizient zu gestalten und zu optimieren. Importieren Sie vorgefertige Vorlagen mit nur einem Klick in Ihren SeaTable Account.
+      description: Mit SeaTable wird die Digitalisierung im Public Sector zu einer Möglichkeit, Prozesse nicht nur zu digitalisieren, sondern sie effizient zu gestalten und zu optimieren. Importieren Sie vorgefertige Vorlagen mit nur einem Klick in Ihren SeaTable Account. Nutzen Sie integrierte Logiken und KI-Vorbereitungen, um sofort produktiv zu sein.
       items:
           - headline: 'Projektportfolio'
             text: Projekte
@@ -89,12 +89,12 @@ sections:
 
     - name: content-25
       weight: 5
-      title: No-Code Lösung für die Digitalisierung in Behörden
+      title: KI-gestützte No-Code Plattform für die Digitalisierung in Behörden
       subtitle: Effizient und unabhängig von knappen IT-Ressourcen
       text: SeaTable revolutioniert die Digitalisierung in Behörden mit seiner benutzerfreundlichen [KI No-Code-Plattform]({{< relref "/" >}}). **Ohne Programmierkenntnisse** lassen sich komplexe Prozesse einfach abbilden. Perfekt für Behörden, wo IT-Kapazitäten oft knapp sind. Mit der Drag-and-Drop-Oberfläche digitalisieren Sie Verwaltungsprozesse schnell und unkompliziert.
       items:
-          - headline: 'Individuelle Lösungen'
-            text: Ob [Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **Haushaltsplanung** oder Bürgeranfragen – die Möglichkeiten sind vielfältig. SeaTable fügt sich nahtlos in bestehende Strukturen ein und vereinfacht die Digitalisierung ohne großen IT-Aufwand.
+          - headline: 'Individuelle KI-Workflows'
+            text: Erstellen Sie Workflows, die Daten nicht nur speichern, sondern verstehen. Ob [Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **Haushaltsplanung** oder Bürgeranfragen – die Möglichkeiten sind vielfältig. SeaTable fügt sich nahtlos in bestehende Strukturen ein und vereinfacht die Digitalisierung ohne großen IT-Aufwand.
             image: /images/Landing-Page-Public-Services_Property-Management.png
             image_alt: 'SeaTable Vorlage für Liegenschaftsverwaltung in der öffentlichen Verwaltung'
 
@@ -105,14 +105,14 @@ sections:
 
     - name: content-21
       weight: 6
-      title: Digitalisierung der Behörden – effiziente Zusammenarbeit zwischen Behördenstellen
+      title: Digitalisierung der Behörden – Vernetzte Behörden – Intelligent kooperieren
       subtitle: Vorteile der behördenübergreifenden Zusammenarbeit mit SeaTable
       text: Ein zentraler Aspekt der Digitalisierung in der Verwaltung ist die übergreifende Zusammenarbeit zwischen verschiedenen Behördenstellen. SeaTable ermöglicht eine nahtlose Integration und Kommunikation zwischen unterschiedlichen Abteilungen und Behörden, **ohne die Sicherheit und Vertraulichkeit der Daten zu gefährden**, also Digitalisierung bis in die Kommunen hinein.
       items:
           - headline: 'Gemeinsame Datenbanken'
-            text: Nutzen Sie gemeinsame Datenbanken für eine koordinierte Zusammenarbeit und beschleunigte Prozesse.
+            text: Nutzen Sie gemeinsame Datenbanken für eine koordinierte Zusammenarbeit und KI-unterstützte, beschleunigte Prozess.
           - headline: 'Rollenspezifische Zugriffsrechte'
-            text: Kontrollieren Sie den Zugriff auf Daten und Prozesse, um die Datensicherheit zu gewährleisten.
+            text: Kontrollieren Sie den Zugriff präzise, um Datensicherheit auch bei KI-Analysen zu gewährleisten.
           - headline: Effiziente Kommunikation
             text: Nutzen Sie integrierte Kommunikationsfunktionen, um die Zusammenarbeit zu verbessern und Entscheidungsprozesse zu beschleunigen.
 
@@ -151,6 +151,12 @@ sections:
 
           - q: 'Welche Sicherheitsmaßnahmen bietet SeaTable bei der Digitalisierung in der Verwaltung?'
             a: 'SeaTable bietet höchste Sicherheitsstandards und eine DSGVO-konforme Umgebung sowohl für Cloud- als auch für On-Premises-Lösungen. Alle Daten werden in zertifizierten deutschen Rechenzentren eines Schweizer Anbieters gespeichert und es gibt umfassende Möglichkeiten zur Verwaltung von Zugriffsrechten und zur Protokollierung von Datenzugriffen.'
+
+          - q: 'Welche Rolle spielt KI bei der Behörden Digitalisierung mit SeaTable?'
+            a: 'SeaTable nutzt KI, um Texte zu analysieren, Anträge automatisch zu kategorisieren und Routineaufgaben zu automatisieren. Dies ergänzt die klassischen No-Code-Tools perfekt, um Verwaltungsprozesse DSGVO-konform zu beschleunigen.'
+
+          - q: 'Ist die KI-Nutzung in SeaTable wirklich sicher?'
+            a: 'Ja, SeaTable bietet höchste Sicherheitsstandards. KI-Funktionen können so konfiguriert werden, dass sie den strengen Anforderungen der DSGVO und dem Datenschutz im öffentlichen Dienst entsprechen.'
 
           - q: 'Kann SeaTable auch für die Zusammenarbeit mehrerer Behördenstellen genutzt werden?'
             a: 'Ja, SeaTable unterstützt die übergreifende Zusammenarbeit verschiedener Behördenstellen, indem es gemeinsame Datenbanken, rollenspezifische Zugriffsrechte und effiziente Kommunikationsmöglichkeiten bietet. So können verschiedene Behördenstellen sicher und effizient zusammenarbeiten.'

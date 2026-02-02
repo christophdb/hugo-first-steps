@@ -22,7 +22,7 @@ We are thrilled to announce the official release of SeaTable Version 1.2. SeaTab
 
 The home page looked a bit boring in the past. This is over now! In the new version you can change the icon and color of each base. You have a total of 12 colors and more than 25 icons at your disposal. Just click on the pencil icon to the right of the base name and customize the look of your bases according to your wishes.
 
-![](baseColorAndIcon-711x501.jpg)
+![SeaTable home page with colored base icons and editable symbols](baseColorAndIcon-711x501.jpg)
 
 Customizing base icons and colors will help you organize your bases better and find them faster, especially if you have many bases in SeaTable. In a future version, the base header color in the table view will be synchronized with the base icon color.
 
@@ -38,7 +38,7 @@ In SeaTable you always have an overview of the processes in your bases. The log 
 
 A snapshot captures the state of a base at the time it was created. In other words, snapshots are basically machines for traveling back in time. You want to see what a base looked like three days ago? Forget the log, use a snapshot!
 
-![](Snapshots.png)
+![Snapshot overview of a base with list of saved versions and restore option](Snapshots.png)
 
 You can access the available snapshots of a Base in the Table view or from the Base advanced options on the Home page. (Note that the length of time SeaTable stores your snapshots depends on your subscription). When you restore a snapshot, a new Base is created. So don't worry about overwriting your current Base when restoring a Snapshot.
 
@@ -48,7 +48,7 @@ The versatile views are one of the best features of SeaTable. Sort, group and fi
 
 The view function is now even more powerful! In the past, creating a new view that was similar to an existing view was a bit more involved. All sorting, grouping and filtering conditions had to be set up from scratch. This frustration factor is now gone. With SeaTable 1.2, views can be duplicated.
 
-![](duplicate_view.png)
+![View menu with “Duplicate view” option to copy existing table views](duplicate_view.png)
 
 In the view menu you will find the menu item 'Duplicate view'. With one click, a new view is created based on the existing one. The adjustments to the sorting, grouping and filtering conditions in this new view are then quickly made.
 
@@ -60,7 +60,7 @@ A SeaTable Base can be easily shared with other users. Sharing permissions also 
 
 Instead of sharing an entire base, Enterprise subscribers now have the ability to share only specific views on a base's data. Filter the data, hide columns, sort and group the records so that the view speaks the desired message loud and clear, and share only that with your colleagues. That's what the new 'Share View' feature is for.
 
-![](share_view.png)
+![Share view dialog with options for shared access to filtered data](share_view.png)
 
 When sharing a base - even when read-only - you expose the entire data in the base. With shared views, the recipients only have access to the data you want them to see.
 
@@ -68,7 +68,7 @@ When sharing a base - even when read-only - you expose the entire data in the ba
 
 You want to share a base with other team members, but you want to prevent them from changing the content of one or more rows ? Then SeaTable 1.2 has exactly what you need: the new feature to lock rows.
 
-![](lock_row.png)
+![Context menu with “Lock row” enabled and red triangle indicator in row number](lock_row.png)
 
 A right click on a cell calls the context menu of the row where you can find the new option 'row lock'. Once a row is locked, a red triangle will be displayed in the upper right corner of the row number. Repeat the process to unlock it. Base administrators (base owners as well as group administrators) can unlock any row ; other users can only unlock rows locked by themselves.
 
@@ -76,7 +76,7 @@ A right click on a cell calls the context menu of the row where you can find the
 
 Besides row locking, Base administrators can also restrict access to certain columns. With SeaTable 1.2 you can decide who is allowed to edit entries in a column: nobody, only admins or specific users. Needless to say: column permissions can of course be combined with row locking.
 
-![](column_permission.png)
+![Column permissions dialog selecting who may edit cells and column settings](column_permission.png)
 
 column permissions are available for all column types. Open the column context menu and select 'column permissions edit'. The wizard that pops up will guide you through the rest.
 

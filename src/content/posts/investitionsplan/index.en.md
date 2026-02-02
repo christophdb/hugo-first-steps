@@ -30,7 +30,7 @@ Let's assume that you want to install a new plant in your factory to increase pr
 
 ## Why an investment plan is essential for companies
 
-If you set up a company or are in a management position, you are always faced with important **investment decisions**. Whether you want to buy new machinery, [hire staff]({{< relref "posts/20250630-personalplanung" >}}) or drive digitalization – every decision influences the future growth and success of your company. With a well thought-out investment plan, you can manage your expenditure with foresight, set clear priorities and avoid unnecessary risks.
+If you set up a company or are in a management position, you are always faced with important **investment decisions**. Whether you want to buy new machinery, [hire staff]({{< relref "posts/personalplanung" >}}) or drive digitalization – every decision influences the future growth and success of your company. With a well thought-out investment plan, you can manage your expenditure with foresight, set clear priorities and avoid unnecessary risks.
 
 Furthermore, investments usually result in a high **capital requirement**, which you can often only cover with external lenders such as banks and investors. Convincing investment planning shows them that you can handle money and increases your **creditworthiness**. Last but not least, in the investment calculation you also calculate the potential benefit of your investments and determine when your capital investment will be profitable.
 
@@ -76,7 +76,7 @@ The hypothetical costs for these reserves appear in the balance sheet (e.g. in t
 
 4. **Calculate costs and benefits**: Naturally, your investments should bear fruit as quickly as possible. Therefore, carefully calculate the costs you will incur and the benefits you expect for each investment. Such a [cost-benefit analysis]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) will help you avoid unnecessary bad investments.
 
-5. **Plan the time horizon**: An investment plan helps you to schedule necessary expenditure and deploy funds in such a way that financing is secured in the long term. Thanks to a realistic schedule of when you will purchase which capital goods, the risk of [liquidity bottlenecks]({{< relref "posts/20250628_liquiditaetsplanung" >}}) is reduced.
+5. **Plan the time horizon**: An investment plan helps you to schedule necessary expenditure and deploy funds in such a way that financing is secured in the long term. Thanks to a realistic schedule of when you will purchase which capital goods, the risk of [liquidity bottlenecks]({{< relref "posts/liquiditaetsplanung" >}}) is reduced.
  
 6. **Realize your investment plan**: The financing, significance, benefits and timing of your investments have been clarified? Then nothing stands in the way of implementing your investment plan! Check regularly whether your investments are actually achieving the desired success and adjust your plan if necessary.
 

@@ -35,7 +35,7 @@ En SeaTable, el seguimiento del tiempo de los proyectos es gratuito, igual que u
 
 - Facturación rápida y sencilla
 
-![](images/image-1739273084179.png)
+![Tabla de resumen de tiempos de proyecto con columnas de clientes, proyectos y horas](images/image-1739273084179.png)
 
 ## Consejos para registrar el tiempo de su proyecto
 
@@ -55,7 +55,7 @@ Tenemos estos consejos para ayudarle a evitar perder dinero:
 
 Registrar lostiemposde susproyectos es fácil con SeaTable. Con nuestra plantilla de registro de tiempos de proyectos, no sólo puede registrar los tiempos de sus proyectos con precisión, sino también asignarlos directamente a clientes, proyectos y empleados. Las horas puedenvisualizarse, agruparse y totalizarseen distintas vistas enfunción del cliente, el proyecto o el empleado. Esto le permite saber con claridad cuánto tiempo consumen sus proyectos y cómo evoluciona la carga de trabajo en el equipo.
 
-![](images/image-1739272796388.png)
+![Vista de estadísticas en SeaTable con análisis de tiempos por cliente, proyecto o empleado](images/image-1739272796388.png)
 
 Por ejemplo, ¿hay un cliente que siempre está sobrepasando los plazos estimados del proyecto con largas llamadas telefónicas y bucles de coordinación? ¿O hay un empleado que se está ahogando en trabajo mientras los demás aún tienen capacidad? Utilice las estadísticas para analizar cuánto tiempo se está trabajando en qué proyectos y qué cliente está ocupando una cantidad de tiempo especialmente grande. El seguimiento continuo del tiempo de los proyectos también le proporciona información sobre cómo planificar de forma realista los proyectos futuros.
 
@@ -70,7 +70,7 @@ Con el constructor de aplicaciones intuitivo de SeaTable, puedecrearsu propiaapl
 
 Ya hemos añadido un formulario a la aplicación de registro de tiempos de proyectos que guía a los miembros de su equipo a través del proceso de registro de los tiempos de sus proyectos. Los datos introducidos aparecen inmediatamente en la vista general tabular. También puede establecer un filtro especial para que el usuario actual sólo vea los tiempos de su propio proyecto.
 
-![](images/image-1739269583766.gif)
+![App de registro de tiempos de proyecto con formulario web para introducir horas en varios dispositivos](images/image-1739269583766.gif)
 
 ## Facturación más precisa, más beneficios: ¡empieza ahora con la plantilla de control de tiempo de proyectos!
 
@@ -78,7 +78,7 @@ Con el plugin de diseño de páginas SeaTable, puedecrear facturas para sus clie
 
 Si hace clic en los registros de datos del plugin de diseño de páginas, podrá descargar una factura en formato PDF para cada cliente. La información (dirección del cliente, etc.) cambia automáticamente para que puedas utilizar la misma plantilla para facturar todos los proyectos.
 
-![](images/image-1739269600741.gif)
+![Plugin de diseño de página crea automáticamente facturas PDF a partir de tiempos de proyecto](images/image-1739269600741.gif)
 
 ## Resumen de las ventajas de la plantilla de registro de tiempos de proyectos
 

@@ -18,7 +18,7 @@ Deleted tables, rows and columns can be found and restored at any time in the tr
 
 ## Retrieve tables, rows and columns from the trash
 
-![](images/Screenshot-from-2022-10-27-12-04-15.png)
+![Trash in base versions showing list of deleted items](images/Screenshot-from-2022-10-27-12-04-15.png)
 
 1. Click **Versions** in the top right corner of the base header.
 2. Open the **trash**.

@@ -23,25 +23,25 @@ Um E-Mails mit SeaTable zu verschicken, müssen Sie zunächst ein E-Mail-Konto i
 
 Um loszulegen, besuchen Sie die [Registrierungsseite von Mailtrap](https://mailtrap.io/register/signup) und erstellen Sie ein kostenloses Konto.
 
-![](images/lvl2-mailtrap.png)
+![Mailtrap-Registrierungsseite mit Formular zur Kontoerstellung](images/lvl2-mailtrap.png)
 
 Bestätigen Sie Ihre E-Mail-Adresse und loggen Sie sich ein. Nach einigen Fragen zu Ihren Interessen – diese sind für den weiteren Verlauf nicht relevant – gelangen Sie zur Startseite von _Mailtrap_.
 
-![](images/lvl2-mailtrap-inbox.png)
+![Mailtrap-Startseite mit vorkonfigurierter Inbox „My Inbox“](images/lvl2-mailtrap-inbox.png)
 
 Klicken Sie im linken Menü auf `E-Mail Testing > Inboxes`. Dort finden Sie bereits eine vorkonfigurierte Inbox mit dem Namen `My Inbox`. Die dazugehörigen SMTP-Zugangsdaten benötigen Sie für die Konfiguration in SeaTable.
 
-![](images/lvl2-mailtrap-smtp-credentials.png)
+![SMTP-Zugangsdaten der Inbox „My Inbox“ für die Verwendung in SeaTable](images/lvl2-mailtrap-smtp-credentials.png)
 
 ### E-Mail-Versand in SeaTable konfigurieren
 
 Mit den SMTP-Zugangsdaten von Mailtrap können Sie nun den [E-Mail-Versand in SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) einrichten.
 
-![](images/lvl2-mailtrap-in-seatable.png)
+![Dialog in SeaTable mit eingetragenen Mailtrap-SMTP-Daten für den E-Mail-Versand](images/lvl2-mailtrap-in-seatable.png)
 
 Die E-Mails werden nicht wirklich versendet, sondern erscheinen in Ihrem Mailtrap-Postfach. Testen Sie dies, indem Sie eine E-Mail an einen beliebigen Empfänger schicken – sie landet ausschließlich in Ihrem virtuellen Mailpostfach.
 
-![](images/lvl2-mailtest.gif)
+![Beispiel-E-Mail im Mailtrap-Postfach zur Kontrolle des SeaTable-Versands](images/lvl2-mailtest.gif)
 
 ## E-Mail an den Kunden senden
 
@@ -57,7 +57,7 @@ Jetzt können wir in der Tabelle `Registrations` eine neue Spalte für den E-Mai
 >
 > Empfänger: `customer@example.com`
 
-![](images/lvl2-create-button.png)
+![SeaTable-Tabelle mit Button-Spalte „Send“ für den E-Mail-Versand an Teilnehmer](images/lvl2-create-button.png)
 
 Für den Nachrichtentext können Sie folgende Textvorlage verwenden:
 
@@ -73,7 +73,7 @@ Für den Nachrichtentext können Sie folgende Textvorlage verwenden:
 
 Beim einfachen Texteditor werden die Platzhalter in geschweiften Klammern automatisch ersetzt. Wenn Sie den Rich-Text-Editor verwenden, müssen Sie die Platzhalter manuell über die Funktion `{{< seatable-icon icon="dtable-icon-choose-column " >}} Insert column` einfügen.
 
-![](images/lvl2-rich-text-editor.png)
+![Rich-Text-Editor in SeaTable mit Platzhaltern für Kurs- und Datumsangaben](images/lvl2-rich-text-editor.png)
 
 Klicken Sie anschließend auf d0ie Schaltfläche und prüfen Sie, ob die E-Mail in Ihrem Mailtrap-Postfach erscheint.
 

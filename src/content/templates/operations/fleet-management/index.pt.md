@@ -58,7 +58,7 @@ Onossosoftware de gestão de frotaspermite-lhe poupar tempo e recursos. Ao gerir
 
 Com o software de gerenciamento de frotas você pode planejar o uso de seus veículos com precisão. Abaixo explicamos como você pode gerenciar facilmente reservas, devoluções, reparos e agendamentos de inspeção.
 
-![](images/image-1739373488166.png)
+![Tabela de visão geral dos veículos com dados de modelo, matrícula, estado e datas importantes](images/image-1739373488166.png)
 
 O primeiro passo é compilar umavisão geral dos seus veículos: você pode inserir qualquer informação que seja importante para você. Com diferentestipos de colunasevisualizações,você pode projetar o gerenciamento de sua frota da maneira que desejar. Ao contrário de um modelo de Excel de gerenciamento de frota, você pode carregar fotos gratuitamente que podem ser vistas noplugin de galeria. Adicione informações adicionais, como marca, modelo, placa e quilometragem para descrever seus veículos. Outros documentos, como contratos de compra, certificados de seguro ou faturas, também podem ser carregados emcolunas de arquivo.
 
@@ -68,11 +68,11 @@ Abaixo você encontrará mais motivos pelos quais nosso software de gerenciament
 
 Gerencie todas as suasreservasde veículos em uma única tabela. Para fazer uma reserva, os funcionários interessados usam umformulário webbaseado nas colunas desta tabela. Lá, eles inserem os dados de contato, selecionam o veículo desejado e especificam o período de utilização.
 
-![](images/vehicle-request.png)
+![Formulário web de reserva de veículo com campos de contacto, seleção de veículo e período](images/vehicle-request.png)
 
 Após o envio, a solicitação aparece imediatamente na sua tabela e você pode processá-la. Como as tabelas estãovinculadas, você pode atribuir cada solicitação a um funcionário e ao veículo desejado. Em seguida, verifique se o veículo estará disponível no horário desejado ou se já estará reservado para esse período. Para fazer isso, use oplugin Timeline, que mostra claramente as sobreposições de reservas.
 
-![](images/Booked-vehicles.png)
+![Vista de cronologia com veículos reservados e barras coloridas para os períodos de reserva](images/Booked-vehicles.png)
 
 Como em nosso exemplo, você pode rejeitar a solicitação que chegou depois. O SeaTable permite que você use botões paraautomatizardeterminados processos no software de gerenciamento de frotas e iniciá-los com apenas um clique. Isso permite que você processe facilmente as solicitações e rejeite ou confirme a reserva do veículo com o toque de um botão. Ume-mail predefinidoserá enviado ao candidato com as informações relevantes.
 

@@ -41,12 +41,12 @@ Ein App Snapshot speichert nicht:
 ## App Snapshot erstellen
 
 1. Öffnen Sie eine **Universelle App** im [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
-   ![Apps bearbeiten](images/Apps-bearbeiten.png)3. Klicken Sie am oberen linken Seitenrand auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionsverwaltung**.
-   ![Version management in Universal App Builder](images/Version-management-in-Universal-App-Builder.png)5. Ein Fenster öffnet sich. Erstellen Sie dort einen **neuen Snapshot**.
+   ![Universal App Builder im Bearbeitungsmodus mit geöffneter App-Liste](images/Apps-bearbeiten.png)3. Klicken Sie am oberen linken Seitenrand auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionsverwaltung**.
+   ![Versionsverwaltung einer Universellen App mit Liste vorhandener Snapshots](images/Version-management-in-Universal-App-Builder.png)5. Ein Fenster öffnet sich. Erstellen Sie dort einen **neuen Snapshot**.
 2. Optional können Sie dem Snapshot einen **Hinweis** hinzufügen.
 3. Bestätigen Sie mit **Abschicken**.
 
-![Versionsverwaltung im Universal App Builder](images/Version-management-in-Universal-Apps.gif)
+![Erstellung eines neuen App-Snapshots in der Versionsverwaltung mit optionalem Hinweistext](images/Version-management-in-Universal-Apps.gif)
 
 {{< warning  headline="Nummerierung der Versionen"  text="Für jeden Snapshot wird die genaue **Erstellungszeit** und eine **Versionsnummer** erfasst. Wundern Sie sich nicht, wenn Ihre Snapshots keine aufeinanderfolgenden Nummern (1, 2, 3 …) erhalten. SeaTable zählt jede Änderung, die Sie in einer Universellen App vornehmen, als eigene Version. Dadurch können schnell Dutzende Versionen zwischen zwei Snapshots liegen." />}}
 
@@ -61,13 +61,13 @@ Sobald Sie einen Snapshot angelegt haben, stehen Ihnen vier Operationen zur Ausw
 
 Bevor Sie einen Snapshot wiederherstellen und voreilig zu einer anderen Version zurückspringen, sollten Sie sich diese Version zunächst anschauen. Dazu nehmen Sie den gleichen Weg wie oben: Klicken Sie auf die **drei Punkte** am rechten Ende eines Snapshots und wählen Sie im Drop-down-Menü die Operation **Version anschauen** aus.
 
-![Preview version of app snapshot](images/Preview-version-of-app-snapshot.png)
+![Vorschau einer gespeicherten App-Version im Universal App Builder](images/Preview-version-of-app-snapshot.png)
 
 ## App Snapshot wiederherstellen
 
 Um einen App Snapshot wiederherzustellen, klicken Sie auf die **drei Punkte** und wählen im Drop-down-Menü die entsprechende Operation aus.
 
-![Restore version of app snapshot](images/Restore-version-of-app-snapshot.png)
+![Dialog zur Wiederherstellung eines App-Snapshots als aktuelle Version](images/Restore-version-of-app-snapshot.png)
 
 {{< warning  type="warning" headline="Achtung"  text="Die Snapshot-Wiederherstellung im Universal App Builder funktioniert anders als in der Base, wo der Snapshot in einer neuen Base wiederhergestellt wird und die aktuelle Version erhalten bleibt. **Im Universal App Builder hingegen wird die aktuelle Version verworfen, wenn Sie einen Snapshot wiederherstellen.**" />}}
 
@@ -77,12 +77,12 @@ Sobald Sie einen Snapshot wiederherstellen, wird die App auf den Speicherstand d
 
 Falls Sie den Hinweis zu einer Version nachträglich hinzufügen, ändern oder löschen möchten, können Sie dies jederzeit tun. Sie öffnen das entsprechende Textfeld, indem Sie auf die **drei Punkte** am rechten Ende eines Snapshots klicken und im Drop-down-Menü **Hinweis** auswählen. Speichern Sie Ihre Änderungen mit **Abschicken**.
 
-![Modify notes of app snapshot](images/Modify-notes-of-app-snapshot.png)
+![Dialog zum Bearbeiten oder Hinzufügen eines Hinweises zu einem App-Snapshot](images/Modify-notes-of-app-snapshot.png)
 
 ## App Snapshot löschen
 
 Einen Snapshot, den Sie nicht mehr benötigen, können Sie jederzeit löschen. Klicken Sie auf die **drei Punkte** am rechten Ende eines Snapshots und wählen Sie im Drop-down-Menü die Operation **Version löschen** aus.
 
-![](images/Delete-version-of-app-snapshot.png)
+![Bestätigungsdialog zum endgültigen Löschen eines App-Snapshots](images/Delete-version-of-app-snapshot.png)
 
 {{< warning  type="warning" headline="Achtung"  text="Die Löschung eines App Snapshots ist endgültig. Der Speicherstand der früheren Version geht unwiderruflich verloren und kann nicht wiederhergestellt werden." />}}

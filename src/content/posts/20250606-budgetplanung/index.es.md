@@ -117,7 +117,7 @@ La planificación presupuestaria de toda la empresa se compone de los subpresupu
 
 Para que la elaboración del presupuesto sea transparente, es importante implicar a todos los departamentos en la planificación presupuestaria en una fase temprana. Las áreas importantes son la planificación del presupuesto de personal (contratación, salarios, etc.), la planificación del presupuesto de marketing y la planificación del presupuesto de TI. Estos departamentos suelen gestionar grandes presupuestos propios y son indispensables para la planificación presupuestaria estratégica.
 
-A continuación examinaremos más de cerca la planificación presupuestaria en [TI]({{< relref "pages/industry-solutions/software-development" >}}) y [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). Si le interesa la [planificación de personal]({{< relref "20250630-personalplanung" >}}) o el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}}), haga clic en los artículos enlazados para obtener más información.
+A continuación examinaremos más de cerca la planificación presupuestaria en [TI]({{< relref "pages/industry-solutions/software-development" >}}) y [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). Si le interesa la [planificación de personal]({{< relref "personalplanung" >}}) o el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}}), haga clic en los artículos enlazados para obtener más información.
 
 ### Planificación del presupuesto informático
 

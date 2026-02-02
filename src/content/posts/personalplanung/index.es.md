@@ -15,6 +15,8 @@ url: '/es/planificacion-del-personal'
 aliases:
     - '/es/personalplanung/'
     - '/es/planificación-del-personal/'
+register:
+   show: true
 ---
 
 Imagine que una empresa planea lanzar un nuevo producto al mercado, pero carece de mano de obra cualificada para el desarrollo, la producción o la comercialización. El éxito del proyecto está en peligro antes de que realmente haya comenzado. Aquí es donde entra en juego la planificación de la mano de obra, una herramienta estratégica que garantiza que siempre se cuenta con el **personal adecuado con las competencias adecuadas**.

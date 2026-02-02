@@ -115,7 +115,7 @@ La inteligencia artificial también se utiliza en muchas empresas. Dado que el r
 
 *   Entrevistas estandarizadas con asistentes virtuales
 *   Análisis de las cualificaciones y los perfiles de personalidad de los [solicitantes]({{< relref "pages/bewerbermanagement" >}})
-*   Previsiones de [necesidades de personal]({{< relref "posts/20250630-personalplanung" >}}) en determinados escenarios
+*   Previsiones de [necesidades de personal]({{< relref "posts/personalplanung" >}}) en determinados escenarios
 
 ### Administración general
 

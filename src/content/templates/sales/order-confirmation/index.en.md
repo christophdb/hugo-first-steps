@@ -25,7 +25,7 @@ When you use an order confirmation template, you benefit from numerous improveme
 
 -Sustainability: With SeaTable, your order confirmation is completely paperless - without time-consuming and expensive dispatch, but simply at the touch of a button by e-mail.
 
-![](images/image-1743589610782.gif)
+![Editing an order confirmation in SeaTable with automatically filled fields](images/image-1743589610782.gif)
 
 ## When you should create an order confirmation
 
@@ -51,7 +51,7 @@ You can alsohave your customer signthe order confirmation if you want to make su
 
 Although there are no legal requirements as to what information a written order confirmation must contain, thedetails must not deviate from the accepted offer. If you use our template for the order confirmation, you are always on the safe side, as SeaTable uses the same data as in the corresponding offer.
 
-![](images/image-1743589843690.png)
+![Orders overview table with customer, line item and amount information](images/image-1743589843690.png)
 
 The following mandatory information should not be missing in any order confirmation to customers:
 
@@ -91,7 +91,7 @@ The following mandatory information should not be missing in any order confirmat
 
 SeaTable's order confirmation template helps you to organizeproducts,customersandordersclearly, automatically create an order confirmation and save it as a PDF ready for dispatch. Thanks to intelligentlinks, the order confirmation is fed from relevant data from various tables: Customer information, order items and prices flow together seamlessly, whileformulasautomatically calculate discounts and VAT.
 
-![](images/image-1743590730029.gif)
+![SeaTable workflow: create order confirmation at the push of a button, save as PDF and send](images/image-1743590730029.gif)
 
 ### Creating an order confirmation made easy
 

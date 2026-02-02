@@ -36,21 +36,21 @@ In order to be able to create links at all, we need a second table, which we wil
     - `Groceries`
     - `Leisure`
 
-    ![](images/level1-categories.png)
+    ![“Categories” table with four example categories: Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
 4. Switch back to the table `Expenses`.
 
 5. Insert another column. Give the new column the name `Category-Link` and select the column type `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` off. The column links to the table `Categories`.  
-   ![](images/level1-create-link-column.png)
+   ![Dialog for creating “Category-Link” column linking to “Categories” table](images/level1-create-link-column.png)
 
 ## Linking rows between the two tables
 
 You now have two options for linking the data records in both tables:
 
 1. You can assign an entry in the `Expenses` Manually a row from the table `Categories` in which you click on the {{< key "+" >}} and then select the appropriate category. This quickly becomes tedious and error-prone with large amounts of data.  
-   ![](images/level1-link-rows.png)
+   ![Manually linking an expense row to a category via the plus icon](images/level1-link-rows.png)
 2. Alternatively, you can use the [Data processing options]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) of SeaTable to automate the setting of the links.  
-   ![](images/level1-data-operation.png)
+   ![“Data Processing” menu with selection of a data processing operation in the table](images/level1-data-operation.png)
 
 ### Link cells by data processing operation
 
@@ -63,7 +63,7 @@ You must also make the following settings so that SeaTable knows how you want to
 - If column: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Column: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
-![](images/level1-auto-add-link.png)
+![Data processing operation “Assign Category” with type “Auto add link” and matching fields](images/level1-auto-add-link.png)
 
 Click on Execute to carry out the operation. You will see that all rows in the table `Expenses` with a row from the table `Categories` were linked.
 

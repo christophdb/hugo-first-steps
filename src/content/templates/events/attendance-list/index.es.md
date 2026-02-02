@@ -36,7 +36,7 @@ Preste atención alReglamento General de Protección de Datos (RGPD) en cada lis
 
 Es igualmente importanteprotegerla lista de asistentes, por ejemplo en Excel,de accesos no autorizados. Una solución informática que le permita autorizar el acceso a la lista de asistentes sólo a determinadas personas ofrece mejor protección que una plantilla de Excel. También debe comprobar si estáobligado a conservarla lista de asistentes a su acto.
 
-![](images/image-1738157999643.jpg)
+![Los participantes se inscriben en una lista de asistencia y confirman su presencia por escrito](images/image-1738157999643.jpg)
 
 ## ¿Qué debe incluir en una lista de participantes?
 
@@ -58,7 +58,7 @@ La segunda tabla contiene laplantilla de la lista de participantes. Aquí se alm
 
 Utilice formularios web intuitivos en los que sus participantes puedanfirmar digitalmenteeintroducir los datos ellos mismos. Una vez enviados, los datos se guardanautomáticamenteen sus tablas. La plantilla de lista de asistencia de la tabla 3 también funciona conenlacesa las tablas 1 y 2: los participantes sólo tienen que seleccionar la fecha actual y su nombre en la lista de participantes antes de confirmar su asistencia con su firma.
 
-![](images/image-1738157851207.gif)
+![Lista de asistencia digital en SeaTable con formulario web para seleccionar fecha y participante](images/image-1738157851207.gif)
 
 También puede utilizar un formulario web para realizar unaencuesta de evaluacióntras el acto, en la que los participantes puedan aportar sus comentarios y valoraciones.
 

@@ -19,13 +19,13 @@ Um plano de plantação estruturado no SeaTable ajuda-o a organizar o seu jardim
 
 Pode registar os seus canteiros no quadro central - incluindo as linhas, a plantação e a rotação de culturas. Particularmente prático: as ligações às plantas facilitam o planeamento rápido ao longo de vários anos. Isto torna o SeaTable muito fácil de utilizar como um planeador de canteiros intuitivo.
 
-![](images/image-1744693263121.png)
+![Tabela de planeamento de canteiros no SeaTable com linhas, plantações e rotações de culturas](images/image-1744693263121.png)
 
 ## Crie a sua própria enciclopédia de plantas
 
 A segunda tabela é a sua enciclopédia pessoal de plantas: quer se trate de plantas ornamentais, ervas aromáticas ou plantas úteis - aqui pode guardar toda a informação sobre a resistência invernal, o tempo de vida, o tamanho ou os vizinhos de canteiro adequados. Isto não só ajuda no planeamento, como também lhe dá novas ideias e inspiração quando planta canteiros.
 
-![](images/image-1744693157956.png)
+![Tabela de enciclopédia de plantas com tipo, rusticidade, tamanho e vizinhos de canteiro adequados](images/image-1744693157956.png)
 
 ## Acompanhe em pormenor os sucessos da sua jardinagem
 

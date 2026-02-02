@@ -21,7 +21,7 @@ Ceux qui travaillent régulièrement avec [Excel]({{< relref "pages/excel-altern
 
 Pour toutes les colonnes, SeaTable propose une mise en forme conditionnelle basée sur des règles. Une règle est la description d'un contenu hypothétique d'une cellule (par exemple, valeur > 50 ou date postérieure au 31/12/2021) ainsi qu'une instruction de formatage. Si la règle est respectée, la cellule est formatée conformément à l'instruction. Des règles judicieusement choisies permettent entre autres de repérer facilement les valeurs statistiques aberrantes ou inhabituelles. Il est bien sûr possible de définir plusieurs règles par colonne afin de répondre à des exigences plus pointues.
 
-![Formatage conditionnel des cellules](Conditional_cell_formatting2.png)
+![Mise en forme conditionnelle des cellules avec dégradé de couleur et règles pour les valeurs d’une colonne](Conditional_cell_formatting2.png)
 
 Si une colonne a des valeurs de cellules numériques, SeaTable propose un formatage par valeurs en plus du formatage basé sur des règles. Cette mise en forme conditionnelle colore les cellules avec un dégradé de couleurs. Les grandes valeurs sont colorées avec l'extrémité supérieure du dégradé, les petites valeurs avec l'extrémité inférieure. Cela permet de voir d'un coup d'œil l'ordre de grandeur d'une valeur de cellule.
 
@@ -33,13 +33,13 @@ Si vous ne souhaitez pas seulement afficher l'ordre de grandeur des valeurs des 
 
 Dans les tableaux comportant de nombreuses colonnes, le problème se pose souvent que les premières colonnes disparaissent de l'affichage lorsque l'on fait défiler vers la droite. Jusqu'à présent, il était possible de fixer la première colonne et de l'afficher en permanence, même dans les grands tableaux. Dans la nouvelle version, cette fonction est plus flexible : à partir de la version 2.7, il est possible de fixer d'autres colonnes à gauche. Ainsi, même en naviguant dans de grands tableaux, on sait dans quelle entrée on se trouve.
 
-![](Freeze-columns.png)
+![Vue de tableau avec plusieurs colonnes figées à gauche et le reste défilant](Freeze-columns.png)
 
 Pour fixer plusieurs colonnes, il suffit d'utiliser la souris : placez le curseur de la souris sur la ligne verticale qui sépare la numérotation des lignes de la première colonne. Faites ensuite glisser la souris vers la droite pour définir le nombre de colonnes fixées. Si vous souhaitez annuler la fixation des colonnes, déplacez le curseur de la souris sur le cadre entre la dernière colonne fixée et la suivante et tirez la ligne vers la gauche.
 
 ## Valeurs par défaut pour la colonne des dates
 
-![Fonction de valeur par défaut pour les colonnes de date](Default_value_date_column.png)
+![Paramètres de colonne de date avec choix d’une date par défaut statique ou dynamique](Default_value_date_column.png)
 
 Demandée à plusieurs reprises, désormais satisfaite : Après les colonnes de texte, de chiffres et de sélection simple, SeaTable 2.7 ajoute une fonction de valeur par défaut à la colonne de date. Elle permet d'ajouter automatiquement une valeur de date statique ou dynamique aux nouvelles entrées.
 

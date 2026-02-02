@@ -53,7 +53,7 @@ No entanto, a pontuação do devedor também é particularmente importante na em
 Para além de todos os pontos já mencionados, é também particularmente importante transmitir informações sobre pagamentos pendentes. Esta informação pode ser utilizada para tomar decisões sobre possíveis investimentos futuros e a sua própria liquidez num instante. Se um número crescente de pagamentos for cancelado, pode não ser possível iniciar novos investimentos na sua empresa. Se, por outro lado, a maioria das suas contas a receber tiver sido liquidada, a sua empresa será líquida e nada impedirá novos investimentos. Por conseguinte, a liquidez de uma empresa depende sempre das contas a receber pendentes ou liquidadas.
 
 {{< warning headline="Dica" >}}
-Se quiser aprofundar o tema [Planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) também pode obter mais informações sobre o[Plano de investimento]({{< relref "posts/investitionsplan" >}}) e o [Plano de liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) experiência. Aí encontrará dicas práticas, exemplos e modelos para o ajudar a gerir as finanças da sua empresa de forma ainda mais eficiente.
+Se quiser aprofundar o tema [Planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) também pode obter mais informações sobre o[Plano de investimento]({{< relref "posts/investitionsplan" >}}) e o [Plano de liquidez]({{< relref "posts/liquiditaetsplanung" >}}) experiência. Aí encontrará dicas práticas, exemplos e modelos para o ajudar a gerir as finanças da sua empresa de forma ainda mais eficiente.
 {{< /warning >}}
 
 

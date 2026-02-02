@@ -17,7 +17,7 @@ Un système de ticketing dans SeaTable vous aide à centraliser toutes les deman
 
 Le tableau central du logiciel de helpdesk enregistre toutes les demandes entrantes via unformulaire webpersonnalisable.
 
-![](images/image-1743602701710.png)
+![Formulaire web de ticket IT avec champs de contact et description du problème](images/image-1743602701710.png)
 
 Vous pouvez attribuer à chaque entrée des informations importantes telles quele statut, laprioritéet unepersonne responsable. Grâce à l'attribution automatique aux membres de votre équipe selon des compétences définies au préalable et à un changement de statut simple de "ouvert" à "en cours" et "terminé", vous gardez toujours une vue d'ensemble.
 
@@ -45,7 +45,7 @@ Les statistiques: Visualisez les données de vos tickets et analysez les KPI imp
 
 L'application intégréedu logiciel de helpdesk vous offre encore plus. Une interface claire et intuitive vous permet de créer untableau de bord personnaliséque vous pouvez adapter à vos besoins avec peu d'efforts. Les nouveaux tickets peuvent être créés en quelques clics via le formulaire web et les informations pertinentes peuvent être recherchées directement dans labase de connaissances. L'affichage Kanban clair filtre les tickets en fonction de l'utilisateur, de sorte que seuls lestickets qui vous intéressentsont visibles sur votre tableau. Vous pouvez également définir individuellementqui peut voir et modifier quelles donnéesafin de protéger vos tickets contre les accès non autorisés.
 
-![](images/image-1743602924380.png)
+![Tableau de bord de l’app helpdesk IT avec tickets, indicateurs clés et vue Kanban](images/image-1743602924380.png)
 
 ## Avantages de SeaTable en tant que logiciel de helpdesk
 

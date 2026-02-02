@@ -29,7 +29,7 @@ All three fields are defined as mandatory fields. The **Name** and **E-mail** fi
 
 The special feature is the course selection: Here you can only select courses that still have places available. Try it out for yourself: If you click on the selection field, only three courses are displayed, although there are a total of five courses in the table.
 
-![](images/lvl2-limited-course-selection.png)
+![Web form with course selection limited to available courses](images/lvl2-limited-course-selection.png)
 
 Why is that? We have changed the selection in the link column to the view `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` which only shows courses with free places. This means that you will only see the courses that are available in this view in the web form.
 

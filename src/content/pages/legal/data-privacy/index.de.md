@@ -30,17 +30,19 @@ aliases:
 
 {{< legal-2col >}}
 
-Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.com), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (accounts.seatable.com), das SeaTable Forum (forum.seatable.com) und SeaTable Ideas (ideas.seatable.com) sowie der Store SeaTable Market (market.seatable.io). “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
+Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.com), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (account.seatable.com), das SeaTable Forum (forum.seatable.com) und SeaTable Ideas (ideas.seatable.com) sowie der Store SeaTable Market (market.seatable.io). Ebenfalls dazu gehören SeaTable Instanzen im Rahmen unseres Produkts SeaTable Dedicated. “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
 
 **Wer ist verantwortlich für die Datenverarbeitung auf diesem Online Angebot?**  
 Die Datenverarbeitung auf diesem Online Angebot erfolgt durch den Betreiber SeaTable GmbH, dessen Kontaktdaten Sie dem Impressum entnehmen können.
 
 **Wie erfassen wir Ihre Daten?**  
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Formular eingeben.  
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, z.B. wenn Sie sich für unseren Cloud Service SeaTable Cloud registrieren, Sie sich für unseren Newsletter anmelden, Sie uns eine Anfrage schicken oder ein Benutzerkonto für das SeaTable Forum erstellen.  
 Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch des Online Angebots durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie dieses Online Angebot betreten.
+Bei der Datenerfassung wenden wir das Verfahren der Pseduonymisierung und das Prinzip der Datensparsamkeit strikt an. Automatisch erfasste Daten werden grundsätzlich pseudonymisiert. Eine so dass Sie keiner Person zugeordnet werden können. Für die Registrierung an SeaTable Cloud oder die Kontoerstellung für das SeaTable Forum ist lediglich Name und E-Mail-Adresse erforderlich.  Eine Verknüpfung mit fremden Datenquellen findet nicht statt.
 
 **Wofür nutzen wir Ihre Daten?**  
 Die meisten Daten werden erhoben, um vertragliche und vorvertragliche Pflichten zu erfüllen (z.B. E-Mail-Adresse, Anschrift, Anfragen) und um eine fehlerfreie Bereitstellung des Online Angebots zu gewährleisten (z.B. Log-Daten). Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
+Eine Weitergabe der Daten erfolgt nicht. Eine Übertragung von personenbezogenen Daten ins außereuropäische Ausland erfolgt ebenfalls nicht.
 
 **Welche Rechte haben Sie bezüglich Ihrer Daten?**  
 Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem das Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
@@ -52,15 +54,14 @@ Weitere Informationen zu den verwendeten Analyseprogrammen und eingesetzten Drit
 
 ===
 
-Dieser Abschnitt erklärt **einfach und verständlich**, was mit Ihren Daten passiert, wenn Sie SeaTable nutzen (Webseite, Cloud, Forum etc.).
+Dieser Abschnitt erklärt **kurz und verständlich**, was mit Ihren Daten passiert, wenn Sie unsere Webseite oder einen anderen Dienst von uns nutzen.
 
-**Was steht hier drin:**
+Konkret:
 
 - Wie und wann wir Daten erfassen
 - Wofür wir die Daten verwenden
 - Welche Rechte Sie haben
 - Welche Tools wir einsetzen
-- Welchen Dienstleistern wir vertrauen
 
 {{< /legal-2col >}}
 
@@ -78,9 +79,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 ===
 
-Wenn Sie unsere Webseite oder unsere Software nutzen, werden Daten erfasst.
-
-Vor der Registrierung werden nur anonyme Informationen wie Seitenaufrufe erfasst. Wenn Sie sich für SeaTable Cloud registrieren oder in unserem Forum anmelden, fragen wir lediglich nach Ihrem Namen und Ihrer E-Mail-Adresse.
+Wenn Sie unsere Webseite oder einen anderen Dienst von uns nutzen, werden Daten über Sie erfasst. In dieser Datenschutzerklärung erklären wir welche und wie wir diese schützen.
 
 {{< /legal-2col >}}
 
@@ -95,13 +94,13 @@ SeaTable GmbH
 D-55118 Mainz
 
 Telefon: +49 6131 26550  
-E-Mail: info@seatable.io
+E-Mail: info@seatable.com
 
 Die verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
 ===
 
-Wenn Sie Fragen haben, schreiben Sie uns eine E-Mail an info@seatable.io.
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns eine E-Mail an info@seatable.com.
 
 {{< /legal-2col >}}
 
@@ -147,21 +146,22 @@ Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, d�
 
 ===
 
-Das sind Ihre Rechte, die Ihnen per Gesetz zustehen. Diese Rechte finden Sie so oder in ähnlicher Form in jeder Datenschutzerklärung.
+Das sind Ihre Rechte in Sachen Datenschutz, die Ihnen per Gesetz zustehen. Diese sogenannten Betroffenenrechte finden Sie so oder in ähnlicher Form in jeder Datenschutzerklärung.
 
 {{< /legal-2col >}}
 
 {{< legal-2col >}}
 
-### Keine Datenweitergabe in die USA
+### Keine Datenweitergabe ins außereuropäische Ausland
 
-Dieses Online Angebot nutzt keine Leistungen von Unternehmen mit Sitz in den USA und bindet auch keine Tools oder Services US-amerikanischer Unternehmen ein. Ihre personenbezogenen Daten werden nicht an US-Server übermittelt.
+Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Partner und nutzt insbesondere keine Cloud oder KI-Services US-amerikanischer Unternehmen (z.B. Microsoft, Google, AWS).
+Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. 
 
-Ausschließlich im Zusammenhang mit einer Kreditkartenzahlung auf diesem Online Angebot können ggf. personenbezogene Daten indirekt in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig ist.
+Nur bei einer Zahlung mit einer Kreditkartenzahlung oder einem ähnlichen elektronischen Zahlungsmittel (z.B. Google oder Apple Pay) auf diesem Online Angebot können ggf. personenbezogene Daten ins nicht-europäische Ausland und insbesondere in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig ist.
 
 ===
 
-Ihre Daten gelangen nicht in die USA. Nur bei einer Zahlung per Kreditkarte, kriegt das notgedrungen Ihre Kreditkartenanbieter mit.
+Ihre personenbezogenen Daten werden nur in Europa verarbeitet. Bei einer Zahlung mit einer Kreditkarte werden personenenbezogene Daten an Visa und Co. und damit sehr wahrscheinlich in die USA übermittelt.
 
 {{< /legal-2col >}}
 
@@ -169,7 +169,7 @@ Ihre Daten gelangen nicht in die USA. Nur bei einer Zahlung per Kreditkarte, kri
 
 {{< legal-2col >}}
 
-Dieses Online Angebot nutzt die technische Infrasturktur externer Dienstleister (Hoster). Personenbezogene Daten, die auf diesem Online Angebot und im Rahmen Ihrer elektronischen Kommunikation mit Mitarbeitern erfasst werden, werden auf den Servern des zuständigen Hosters gespeichert. Hierbei handelt es sich vor allem um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Webseitenzugriffe und sonstige Daten, die im Rahmen der Nutzung des Online Angebots generiert werden.
+Dieses Online Angebot nutzt die technische Infrastruktur externer Dienstleister (Hoster). Personenbezogene Daten, die auf diesem Online Angebot und im Rahmen Ihrer elektronischen Kommunikation mit Mitarbeitern erfasst werden, werden auf den Servern des zuständigen Hosters gespeichert. Hierbei handelt es sich vor allem um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Webseitenzugriffe und sonstige Daten, die im Rahmen der Nutzung des Online Angebots generiert werden.
 
 **Zweck und Rechtsgrundlage**  
 Der Einsatz der Hoster erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung des Online Angebots (Art. 6 Abs. 1 lit. f DSGVO).
@@ -179,19 +179,19 @@ Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit allen g
 
 ### Exoscale
 
-Der Hoster des Cloud-Dienstes "SeaTable Cloud" ist die Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne, Schweiz (Exoscale).
+Für den Betrieb der Cloud-Dienste SeaTable Cloud und SeaTable Dedicated nutzen wir Infrastruktur der Akenes SA, Boulevard de Grancy 19A, 1006 Lausanne, Schweiz (Exoscale).
 
-Die Daten bei Exoscale werden ausschließlich in deutschen Rechenzentren in Frankfurt am Main und München gespeichert. Das Rechenzentrum in Frankfurt verfügt über Zertifizierungen nach ISO 9001, 14001, 27001 und 50001\. Darüber hinaus ist es zertifiziert nach PCI DSS 3.2 und OHSAS 18001\. Das Rechenzentrum in München ist zertifiziert nach ISO 9001 und 27001 sowie PCI DSS 3.2, SOC-1 Type II und SOC-2 Type II. Mehr Informationen über die Rechenzentren von Exoscale finden Sie unter [https://www.exoscale.com/datacenters/](https://www.exoscale.com/datacenters/).
+Die Daten werden ausschließlich in Exoscales deutschen Rechenzentren in Frankfurt am Main und München verarbeitet und gespeichert. Das Rechenzentrum in Frankfurt verfügt über Zertifizierungen nach ISO 9001, 14001, 27001 und 50001\. Darüber hinaus ist es zertifiziert nach PCI DSS 3.2 und OHSAS 18001\. Das Rechenzentrum in München ist zertifiziert nach ISO 9001 und 27001 sowie PCI DSS 3.2, SOC-1 Type II und SOC-2 Type II. Mehr Informationen über die Rechenzentren von Exoscale finden Sie unter [https://www.exoscale.com/datacenters/](https://www.exoscale.com/datacenters/).
 
 ### Hetzner
 
-Der Hoster von Test- und Demonstrationssystemen, der SeaTable Cloud Teamverwaltung, des SeaTable Forums, des SeaTable Ticketsystems, der SeaTable Ideas, SeaTable Market, des Mailservers und unserer Webkonferenzlösung ist die Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland (Hetzner).
+Die Webseite seatable.com, die Teamverwaltung von SeaTable Cloud, das SeaTable Forum, das SeaTable Ticketsystem, die Feature Request Tool SeaTable Ideas, der SeaTable Market, der Mailserver und unserer Webkonferenzlösung nutzen Server der Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland (Hetzner). Ebenso nutzen wir Hetzner für den Betrieb Test- und Demonstrationssystemen.
 
-Hetzner betreibt Rechenzentren in Europa (Deutschland und Finnland) und den USA. Wir nutzen ausschließlich die europäischen Rechenzentren. Mehr Informationen über die Rechenzentren von Hetzner finden Sie unter [https://www.hetzner.com/de/unternehmen/rechenzentrum/](https://www.hetzner.com/de/unternehmen/rechenzentrum/).
+Wir nutzen ausschließlich die europäischen Rechenzentren von Hetzner. Mehr Informationen über die Rechenzentren von Hetzner finden Sie unter [https://www.hetzner.com/de/unternehmen/rechenzentrum/](https://www.hetzner.com/de/unternehmen/rechenzentrum/).
 
 ===
 
-SeaTable benötigt Server um seinen Dienst anzubieten. Hierzu mieten wir Server bei den Firmen Exoscale und Hetzner. Alle Server laufen in einem deutschen Rechenzentrum.
+Unsere Online-Dienstleistungen erfordern Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern kaufen Sie ein von Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland. Wir nutzen ausschließlich deren deutsche Rechenzentren.
 
 {{< /legal-2col >}}
 
@@ -210,7 +210,7 @@ In den Log-Dateien der verwendeten Server werden Informationen gespeichert, die 
 - Uhrzeit der Serveranfrage
 - IP-Adresse
 
-Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+Eine Zusammenführung dieser Daten mit fremden Datenquellen wird nicht vorgenommen.
 
 **Zweck und Rechtsgrundlage**
 
@@ -218,23 +218,19 @@ Wir nutzen die Log-Daten, um den zuverlässigen Betrieb des Online Angebots sich
 
 ### Cookies
 
-Das Online Angebot verwendet sogenannte Cookies. Cookies sind kleine Textdateien, die entweder vorübergehend für die Dauer einer Sitzung, sogenannte Session-Cookies, oder dauerhaft auf Ihrem Endgerät gespeichert werden, sogenannte permanente Cookies. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch den Webbrowser erfolgt.
+Das Online Angebot verwendet sogenannte Cookies. Cookies sind von Ihrem Webbrowser gespeicherte Datensätze, die entweder vorübergehend für die Dauer einer Sitzung, sogenannte Session-Cookies, oder dauerhaft auf Ihrem Endgerät gespeichert werden, sogenannte permanente Cookies. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder Ihr Webbrowser diese nach Ablauf ihrer Gültigkeit automatisch entfernt. Darüber hinaus unterscheidet man Cookies nach Ihrer Herkunft: First Party Cookies werden von dem besuchten Webangebot gesetzt, d.h. der besuchten Webseite/Webportal/Webshop. Third-Party-Cookies werden von einenm externen Dienst, insbesondere Werbenetzwerken und Social-Media-Plugins, gesetzt.
 
-Teilweise können auch Cookies von Drittunternehmen auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Seite betreten (Third-Party-Cookies). Diese ermöglichen uns oder Ihnen die Nutzung bestimmter Dienstleistungen des Drittunternehmens (z.B. Cookies zur Abwicklung von Zahlungsdienstleistungen).
+Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Funktionen eines Webangebots ohne diese nicht funktionieren würden. Zu diesen notwendigen Cookies gehören Cookies für die Sprach- und Regionaleinstellungen, für die Warenkorbfunktion und solche zum Schutz vor betrügerischen Aktivitäten. Andere Cookies dienen dazu, Daten über das Nutzerverhalten zu sammeln und die Leistung zu verbessern, sogenannte Performance Cookies, oder personalisierte Werbung anzuzeigen, sogenannte Werbe- bzw. Trackingcookies.
 
-Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Websitefunktionen ohne diese nicht funktionieren würden (z.B. die Warenkorbfunktion oder die Anzeige von Videos). Andere Cookies dienen dazu, das Nutzerverhalten auszuwerten oder personalisierte Werbung anzuzeigen.
-
-Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs (notwendige Cookies) oder zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (funktionale Cookies, z.B. für die Warenkorbfunktion) oder zur Optimierung der Website (z.B. Cookies zur Messung des Webpublikums) erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Sofern eine Einwilligung zur Speicherung von Cookies abgefragt wurde, erfolgt die Speicherung der betreffenden Cookies ausschließlich auf Grundlage dieser Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); die Einwilligung ist jederzeit widerrufbar.
+Notwendige Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs (notwendige Cookies) oder zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (funktionale Cookies, z.B. für die Warenkorbfunktion) oder zur Optimierung der Website (z.B. Cookies zur Messung des Webpublikums) erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Sofern eine Einwilligung zur Speicherung von Cookies abgefragt wurde, erfolgt die Speicherung der betreffenden Cookies ausschließlich auf Grundlage dieser Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); die Einwilligung ist jederzeit widerrufbar.
 
 Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies stehen mit großer Wahrscheinlichkeit einige Funktionen des Online Angebots nicht zur Verfügung.
 
-DIESES ONLINE ANGEBOT VERWENDET AUSSCHLIESSLICH COOKIES, DIE FÜR DEN ORGNUNGSGEMÄSSEN BETRIEB NOTWENDIG SIND.
-
-**Übersicht der Cookies**
+Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen Betrieb der notwendig sind. Die folgende Tabelle führt die verwendeten Cookies auf:
 
 | Name des Cookies    | Gültigkeit | Reichweite                 |
 | ------------------- | ---------- | -------------------------- |
-| ph_phc_xxxx_posthog | 365d       | .seatable.com/.seatable.io |
+| ph_phc_xxxx_posthog | 90d        | .seatable.com/.seatable.io |
 | \_t                 | 1d         | forum.seatable.com         |
 | \_forum_session     | Session    | forum.seatable.com         |
 | \_\_profilin        | Session    | forum.seatable.com         |
@@ -242,6 +238,10 @@ DIESES ONLINE ANGEBOT VERWENDET AUSSCHLIESSLICH COOKIES, DIE FÜR DEN ORGNUNGSGE
 | sessionId           | 7d         | cloud.seatable.io          |
 | django_language     | 30d        | cloud.seatable.io          |
 | zammad_session_xxxx | Session    | support.seatable.com       |
+
+Die Spalte Reichweite gibt die Domains an, die auf das Cookie zugreifen dürfen. (Ein Punkt vor einer Domain bedeutet die Domain selbst sowie deren Subdomains.)
+
+Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Party-Cookies.
 
 ### Kontaktformular
 
@@ -273,7 +273,7 @@ Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Si
 
 Wir erfassen Informationen wie:
 
-- IP-Adresse (ohne die letzte Stelle)
+- IP-Adresse
 - Information über Ihren Browser
 - Seiten, die Sie besucht haben
 
@@ -295,23 +295,23 @@ Einzig unser E-Mails verschicken wir nicht selbst. Das übernimmt Brevo für uns
 
 ### Posthog
 
-Dieses Online Angebot nutzt die Entwicklungs- und Analyseplattform Posthog (Self-Hosted Edition). Posthog (Self-Hosted Edition) ist unter der "MIT Expat"-Lizenz veröffentlich und ist damit freie, quelloffene Software.
+Dieses Online Angebot nutzt die Entwicklungs- und Analyseplattform Posthog (Self-Hosted Edition). Posthog (Self-Hosted Edition) ist unter der MIT Expat-Lizenz veröffentlich und ist damit freie, quelloffene Software.
 
-Posthog ermöglicht es uns, gezielt neue oder ausgewählte Funktionen (sogenannte _Feature Flags_) für bestimmte Nutzergruppen zu aktivieren bzw. anzuzeigen. Darüber hinaus wird das anonymisierte Verhalten von Seitenbesuchern analysiert, um die Nutzung und Interaktion mit unserem Angebot besser zu verstehen.
+Posthog ermöglicht es uns, gezielt neue oder ausgewählte Funktionen (sogenannte _Feature Flags_) für bestimmte Nutzergruppen zu aktivieren bzw. anzuzeigen. Darüber hinaus kann mit Posthog Verhalten von Seitenbesuchern analysiert werden, um die Nutzung und Interaktion mit unserem Online Angebot besser zu verstehen.
 
-Dabei werden Nutzungsdaten wie aufgerufene Seiten, Verweildauer, verwendetes Betriebssystem sowie die ungefähre Herkunft der Besucher erfasst. Wir haben Posthog auf einem eigenen Server installiert; die Verarbeitung der Daten erfolgt ausschließlich auf diesem Server. Eine Weitergabe an Dritte findet nicht statt. Eine Zusammenführung mit fremden Datenquellen erfolgt nicht.
+Posthog erfasst Nutzungsdaten wie aufgerufene Seiten, Verweildauer, verwendetes Betriebssystem sowie die ungefähre Herkunft der Besucher. Dafür wird auch ein Cookie verwendet (siehe oben). Die Erfassung erfolgt so, dass keine Rückschlüsse auf konkrete Personen möglich sind: IP-Adressen werden vor der Verarbeitung gekürzt und dadurch anonymisiert. Weitere personenbezogene Daten werden gehasht.
 
-Posthog ist so konfiguriert, dass keine Rückschlüsse auf einzelne Personen möglich sind. IP-Adressen werden vor der Verarbeitung gekürzt und dadurch anonymisiert. Weitere personenbezogene Daten werden gehasht.
+Wir hosten Posthog auf einem eigenen Server und die Verarbeitung der Daten erfolgt ausschließlich auf diesem Server. Eine Weitergabe an Dritte findet nicht statt. Eine Zusammenführung mit fremden Datenquellen erfolgt nicht.
 
 **Zweck und Rechtsgrundlage**
 
-Wir nutzen Posthog, um die Funktionen unserer Website gezielt ausspielen, die Nutzung analysieren und unser Angebot weiter optimieren zu können. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
+Wir nutzen Posthog, um die Funktionen unserer Website gezielt auszuspielen, die Nutzung zu analysieren und unser Angebot zu optimieren. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
 ===
 
-Wir betreiben einen eigenen Posthog Server. Wir nutzen diesen für anonymisierte Analysen und um neue Funktionen gezielt bestimmten Nutzergruppen anzuzeigen.
+Wir betreiben das Analyse-Tool Posthog auf einem eigenen Server. Wir nutzen diesen für anonymisierte Analysen und um neue Funktionen gezielt bestimmten Nutzergruppen anzuzeigen.
 
-In Posthog erfassen wir nur Daten nur Anonym. Ihren Namen verwenden wir nicht. Ihre E-Mailadresse wird gehasht.
+In Posthog erfassen wir nur anonymsierte Daten. Ihren Namen verwenden wir nicht. Ihre E-Mail-Adresse wird gehasht.
 
 {{< /legal-2col >}}
 

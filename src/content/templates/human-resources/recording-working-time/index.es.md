@@ -20,11 +20,11 @@ La primera tabla de Base contiene todas las horas de trabajo, solicitudes de vac
 
 En una aplicación para empleados creada con SeaTable, puede hacer que la introducción de datos sea intuitiva y fácil de usar haciendo que sus empleados introduzcan las horas de trabajo, las solicitudes de vacaciones y las bajas por enfermedad en formularios web. Al hacerlo, puede proporcionar a los campos de entrada instrucciones concretas para guiar a quienes los cumplimenten de forma segura a través del proceso.
 
-![](images/Mitarbeiter-App.gif)
+![App de empleados para registrar tiempos con formularios web de horas, vacaciones y bajas](images/Mitarbeiter-App.gif)
 
 Cuando sus empleados rellenan los formularios web, SeaTable añade nuevas entradas a las tablas correspondientes, que el gestor responsable puede aprobar o rechazar en una app de gestión. En su cuadro de mandos, puede incluir estadísticas que le permitan a usted y a sus responsables hacer un seguimiento de todas las horas extraordinarias, vacaciones y bajas por enfermedad de sus empleados. Los calendarios también le permiten visualizar los datos en una vista general del calendario.
 
-![](images/Dashboard_4MB.gif)
+![Panel de RR. HH. en SeaTable con estadísticas de horas extra, vacaciones y bajas médicas](images/Dashboard_4MB.gif)
 
 Por supuesto, puede utilizar muchas más funciones de SeaTable para desarrollar su propia aplicación para registrar el tiempo de trabajo en su empresa, totalmente según sus deseos. La plantilla puede ampliarse con cualquier número de tablas y columnas basadas en la base de datos de empleados, por ejemplo para el cálculo de nóminas, la formación interna y los horarios de los turnos. ¡Revolucione su gestión de RRHH con SeaTable!Aquíencontrará más información sobre el registro del tiempo de trabajo.
 

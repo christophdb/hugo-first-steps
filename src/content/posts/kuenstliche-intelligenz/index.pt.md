@@ -115,7 +115,7 @@ A inteligência artificial é também utilizada em muitas empresas. Como o desem
 
 *   Entrevistas normalizadas com assistentes virtuais
 *   Análise das qualificações e dos perfis de personalidade dos [candidatos]({{< relref "pages/bewerbermanagement" >}})
-*   Previsões das [necessidades de pessoal]({{< relref "posts/20250630-personalplanung" >}}) em determinados cenários
+*   Previsões das [necessidades de pessoal]({{< relref "posts/personalplanung" >}}) em determinados cenários
 
 ### Administração geral
 

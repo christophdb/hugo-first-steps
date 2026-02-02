@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestão e visualização de dados'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'Processos informáticos'
 color: '#bedeab'
 url: '/pt/gestao-de-dados/'

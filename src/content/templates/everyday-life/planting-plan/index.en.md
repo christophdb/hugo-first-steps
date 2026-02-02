@@ -17,13 +17,13 @@ A structured planting plan in SeaTable helps you to design your garden sustainab
 
 You can record your bed in the central table - including rows, planting and crop rotation. Particularly practical: the links to the plants make it easier for you to plan quickly over several years. This makes SeaTable very easy to use as an intuitive bed planner.
 
-![](images/image-1744693263121.png)
+![Bed planning table in SeaTable with rows, plantings and crop rotation](images/image-1744693263121.png)
 
 ## Create your own plant encyclopedia
 
 The second table is your personal plant encyclopaedia: whether ornamental plants, herbs or useful plants - here you can store all the information on winter hardiness, lifespan, size or suitable bed neighbors. This not only helps with planning, but also gives you new ideas and inspiration when planting beds.
 
-![](images/image-1744693157956.png)
+![Plant encyclopedia table with information on type, hardiness, size and suitable companions](images/image-1744693157956.png)
 
 ## Track your gardening successes in detail
 

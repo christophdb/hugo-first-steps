@@ -8,7 +8,7 @@ date: 2025-03-18
 categories:
     - 'low-code-no-code'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'App Builder'
 color: '#9fe0cc'
 url: '/app-builder'

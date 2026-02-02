@@ -18,7 +18,7 @@ seo:
 
 **Factura** es el término técnico derivado de la palabra latina *factura* para un documento con el que usted solicita a sus clientes el pago de una determinada cantidad de dinero. Cuando se factura algo, significa que se cobra a un cliente por un servicio o un producto.
 
-La facturación garantiza los **ingresos de su empresa** y es, por tanto, el proceso más importante de la contabilidad financiera. La facturación desempeña un papel igualmente central en la [planificación de la liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}) y en el proceso de reclamación, que hace efectivos los créditos contra los clientes morosos. Las facturas también constituyen la base para calcular el IVA.
+La facturación garantiza los **ingresos de su empresa** y es, por tanto, el proceso más importante de la contabilidad financiera. La facturación desempeña un papel igualmente central en la [planificación de la liquidez]({{< relref "posts/liquiditaetsplanung" >}}) y en el proceso de reclamación, que hace efectivos los créditos contra los clientes morosos. Las facturas también constituyen la base para calcular el IVA.
 
 {{< warning headline="¿Cuál es la diferencia entre facturación y contabilidad?" text="Aunque facturación y contabilidad suenan parecido, significan cosas completamente distintas. Con la **contabilidad externa**, usted informa a sus partes interesadas (por ejemplo, acreedores, accionistas y autoridades) sobre la evolución de su empresa y da cuenta de sus finanzas. Suele publicar documentos como los estados financieros anuales o un informe de gestión. En cambio, la facturación consiste simplemente en facturar a sus clientes los servicios prestados." />}}
 

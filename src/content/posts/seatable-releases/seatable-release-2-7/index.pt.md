@@ -21,7 +21,7 @@ Qualquer pessoa que trabalha regularmente com o [Excel]({{< relref "pages/excel-
 
 Para todas as colunas, o SeaTable oferece uma formatação condicional baseada em regras. Uma regra é a descrição de um conteúdo hipotético de uma célula (por exemplo, valor > 50 ou data após 31.12.2021) e uma instrução de formatação. Se a regra for cumprida, a célula é formatada de acordo com a instrução. Regras escolhidas com inteligência podem, entre outras coisas, tornar aberrantes os valores estatísticos ou valores pouco usuais facilmente reconhecíveis. É claro que também pode definir várias regras por coluna para mapear requisitos exigentes.
 
-![Formatação celular condicional](Conditional_cell_formatting2.png)
+![Formatação condicional de células com gradiente de cor e regras para valores numa coluna](Conditional_cell_formatting2.png)
 
 Se uma coluna tiver valores de células numéricas, o SeaTable oferece formatação por valores para além da formatação baseada em regras. Esta formatação condicional colore as células com um gradiente de cor. Os valores grandes são coloridos com a extremidade superior do gradiente, os valores pequenos com a extremidade inferior. Isto torna a magnitude de um valor celular clara num relance.
 
@@ -33,13 +33,13 @@ Se quiser não só mostrar a ordem de grandeza dos valores das células numa col
 
 Em tabelas com muitas colunas, há frequentemente o problema de as primeiras colunas desaparecerem do visor quando se desloca para a direita. Até agora, a primeira coluna podia ser fixada e assim exposta permanentemente mesmo em grandes mesas. Esta função mostra um lado mais flexível no novo lançamento: a partir da versão 2.7, podem ser fixadas colunas adicionais do lado esquerdo. Desta forma, mesmo quando navega em grandes mesas, sabe em que entrada se encontra.
 
-![](Freeze-columns.png)
+![Vista de tabela com várias colunas fixas à esquerda e restantes colunas deslocáveis](Freeze-columns.png)
 
 Para fixar várias colunas, basta usar o rato: mover o ponteiro do rato para a linha vertical que separa a numeração das linhas da primeira coluna. Agora arraste o rato para a direita para definir o número de colunas fixas. Se quiser remover a fixação da coluna, mover o ponteiro do rato para a moldura entre a última coluna fixa e a coluna seguinte e arrastar a linha toda para a esquerda.
 
 ## Valores por omissão para a coluna de datas
 
-![Função de valor por defeito para colunas de datas](Default_value_date_column.png)
+![Definições de coluna de data com seleção de data predefinida estática ou dinâmica](Default_value_date_column.png)
 
 Repetidamente solicitado, agora cumprido: Após o texto, número e colunas de selecção única, SeaTable 2.7 também dá à coluna de datas uma função de valor padrão. Com ele adiciona-se automaticamente um valor de data estático ou dinâmico às novas entradas.
 

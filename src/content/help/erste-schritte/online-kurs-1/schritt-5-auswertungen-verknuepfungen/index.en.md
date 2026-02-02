@@ -22,7 +22,7 @@ We have not yet achieved any direct benefits from linking, but this is about to 
 
 First, increase the row height in the table `Categories`to see more of the links. You will find the corresponding option `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` in the row above the column name. You can also drag individual columns wider to see more content.
 
-![](images/level1-row-height.png)
+![Table view with adjusted row height for better visibility of links](images/level1-row-height.png)
 
 ## Evaluations of the categories
 
@@ -40,7 +40,7 @@ Now create a new column in the table `Categories` to.
 >
 > Calculation method `Sum`
 
-![](images/lvl1-rollup.png)
+![“Sum” link formula column with rollup setting to sum linked amounts](images/lvl1-rollup.png)
 
 Next, you can change the format of the `Sum` to Euro so that the totals displayed are formatted accordingly in Euro.
 

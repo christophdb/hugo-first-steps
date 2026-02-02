@@ -115,7 +115,7 @@ Auch in vielen Unternehmen findet künstliche Intelligenz Anwendung. Da sich die
 
 *   Standardisierte Interviews mit virtuellen Assistenten
 *   Analyse der Qualifikationen und Persönlichkeitsprofile von [Bewerbern]({{< relref "pages/bewerbermanagement" >}})
-*   Prognosen zum [Personalbedarf]({{< relref "posts/20250630-personalplanung" >}}) in bestimmten Szenarien
+*   Prognosen zum [Personalbedarf]({{< relref "posts/personalplanung" >}}) in bestimmten Szenarien
 
 ### Allgemeine Verwaltung
 

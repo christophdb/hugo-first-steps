@@ -19,6 +19,7 @@ Deutschland
 Registergericht: AG Mainz  
 Handelsregisternummer: HRB 49723  
 Umsatzsteuer-Identifikationsnummer: DE331940591
+DUNS Nummer: 343248411
 
 ### Vertreten durch
 
@@ -28,7 +29,7 @@ Dr. Ralf Dyllick-Brenzinger
 ### Kontakt
 
 Telefon: +49 6131 26550  
-E-Mail: info@seatable.io
+E-Mail: info@seatable.com
 
 ## Verantwortlich für den Inhalt nach Paragraph 55 RStV
 

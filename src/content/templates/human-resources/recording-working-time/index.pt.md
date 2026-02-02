@@ -20,11 +20,11 @@ A primeira tabela da Base contém todos os horários de trabalho, pedidos de fé
 
 Num aplicativo de empregados construído com SeaTable, pode tornar a entrada de dados intuitiva e de fácil utilização, fazendo com que os seus empregados entrem nas horas de trabalho, pedidos de férias e licenças por doença em formulários web. Ao fazê-lo, pode fornecer os campos de entrada com instruções concretas para guiar aqueles que os completam em segurança ao longo do processo.
 
-![](images/Mitarbeiter-App.gif)
+![App de colaboradores para registo de tempos com formulários web de horas, férias e baixas](images/Mitarbeiter-App.gif)
 
 Quando os seus empregados preenchem os formulários web, a SeaTable acrescenta novas entradas às tabelas correspondentes, que o gestor responsável pode então aprovar ou rejeitar numa aplicação de gestão. No seu painel de bordo, pode incluir estatísticas que lhe permitem, a si e aos seus gestores, acompanhar as horas extraordinárias, as férias e as baixas por doença de todos os seus empregados. Os calendários também lhe permitem exibir os dados numa visão geral do calendário.
 
-![](images/Dashboard_4MB.gif)
+![Painel de RH no SeaTable com estatísticas de horas extra, férias e ausências por doença](images/Dashboard_4MB.gif)
 
 É claro que pode utilizar muitas mais funcionalidades do SeaTable para desenvolver a sua própria aplicação para registar o tempo de trabalho na sua empresa, inteiramente de acordo com os seus desejos. O modelo pode ser alargado com qualquer número de tabelas e colunas com base na base de dados dos empregados, por exemplo, para a contabilidade dos salários, formação interna e horários de turnos. Revolucione a sua gestão de RH com o SeaTable! Pode encontrar mais informações sobre o tema do registo do tempo de trabalhoaqui.
 

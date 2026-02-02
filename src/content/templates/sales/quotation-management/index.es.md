@@ -21,7 +21,7 @@ Unacarta de ofertacon un diseño claro y atractivo aumenta la probabilidad de qu
 
 Especialmente si recibe consultas todos los días, puede llevarle mucho tiempo y nervios redactarofertas individualesque tiene que reescribir una y otra vez, sin saber si sus ofertas se traducirán realmente en pedidos. Aquí es donde una plantilla de presupuesto profesional proporciona un remedio rápido y fiable, especialmente para las pequeñas empresas. Utilice SeaTable, por ejemplo, para redactar su oferta deformaeficazyautomática.
 
-![](images/image-1741253045784.gif)
+![La plantilla de SeaTable crea automáticamente una oferta y muestra la vista previa del documento](images/image-1741253045784.gif)
 
 ## Lo que habla a favor de una plantilla de oferta
 
@@ -39,7 +39,7 @@ Cuando utiliza una plantilla para redactar un presupuesto, se beneficia de numer
 
 Si nunca ha tenido que crear un presupuesto, probablemente no sepa por dónde empezar. En ese caso, nuestra plantilla para su presupuesto le ayudará enormemente, pues ya contiene todos los elementos que necesita paraelaborar un presupuesto correcto.
 
-![](images/image-1741191669169.png)
+![Vista de tabla de componentes de la oferta con datos de clientes, conceptos e importes](images/image-1741191669169.png)
 
 La siguiente información obligatoria no debe faltar en ningún modelo de oferta:
 
@@ -87,7 +87,7 @@ Pero ten cuidado: incluso con una estimación de costes, el precio final no debe
 
 - Utilice lasestadísticasintegradas en la plantilla de oferta para obtener información valiosa de sus cifras y datos y tomar decisiones bien fundadas.
 
-![](images/image-1741253450663.gif)
+![Flujo en SeaTable: crear oferta con un clic, guardarla como PDF y enviarla por correo electrónico](images/image-1741253450663.gif)
 
 ## Escribir citas con eficacia: así de sencillo
 

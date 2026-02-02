@@ -12,6 +12,8 @@ tags:
     - 'Personalverwaltung'
 color: '#4c9481'
 url: '/de/personalplanung'
+register:
+   show: true
 ---
 
 Stellen Sie sich vor, ein Unternehmen plant, ein neues Produkt auf den Markt zu bringen, aber die Fachkräfte für Entwicklung, Produktion oder Marketing fehlen. Der Erfolg des Projekts ist gefährdet, bevor es richtig begonnen hat. Genau hier kommt die Personalplanung ins Spiel – ein strategisches Werkzeug, das sicherstellt, dass Sie immer die **richtigen Mitarbeiter mit den passenden Qualifikationen einsetzen** können.

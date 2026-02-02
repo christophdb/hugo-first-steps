@@ -26,7 +26,7 @@ Upload important documents such as booking confirmations directly to the cloud s
 
 The app in this template also helps you to conveniently record your expenses using a form. Using simple statistics, you can see exactly how much you have spent on what at the end of the trip.
 
-![](images/image-1721217958013.png)
+![Travel planner app in SeaTable with lists for destinations, activities, documents and expenses](images/image-1721217958013.png)
 
 ## Interactive template
 

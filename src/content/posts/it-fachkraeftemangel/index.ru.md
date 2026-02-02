@@ -11,7 +11,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Управление кандидатами и талантами'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'Цифровая трансформация'
 color: '#9eced1'
 register:

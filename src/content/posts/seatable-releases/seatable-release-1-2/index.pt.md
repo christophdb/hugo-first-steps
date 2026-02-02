@@ -20,7 +20,7 @@ Temos o prazer de anunciar que a versão 1.2 do SeaTable entrou em funcionamento
 
 A página inicial parecia um pouco aborrecida no passado. Isso agora acabou! Na nova versão, podes alterar o ícone e a cor de cada base. Tens um total de 12 cores e mais de 25 símbolos à tua disposição. Basta clicar no ícone do lápis à direita do nome da base e desenhar o aspecto das suas bases de acordo com os seus desejos.
 
-![](baseColorAndIcon-711x501.jpg)
+![Página inicial do SeaTable com ícones de bases coloridos e editáveis](baseColorAndIcon-711x501.jpg)
 
 Personalizar os ícones e as cores das bases ajuda-o a organizar melhor as suas bases e a encontrá-las mais rapidamente, especialmente se tiver muitas bases no SeaTable. Numa versão futura, a cor do cabeçalho da base na vista de tabela será sincronizada com a cor do símbolo da base.
 
@@ -36,7 +36,7 @@ Em SeaTable tem sempre uma visão geral dos processos nas suas bases. O registo 
 
 Um instantâneo captura o estado de uma base no momento em que foi criada. Por outras palavras, os instantâneos são basicamente máquinas que permitem viajar no tempo. Quer ver como era uma base há três dias? Esqueça o registo, use um instantâneo!
 
-![](Snapshots.png)
+![Vista de snapshots de uma base com lista de versões guardadas e opção de restauro](Snapshots.png)
 
 Pode aceder aos instantâneos disponíveis de uma base na vista de tabela ou através das opções avançadas da base na página inicial. (Note que o período de tempo que o SeaTable armazena os seus instantâneos depende da sua subscrição). Quando restaura um instantâneo, é criada uma nova base. Portanto, não se preocupe em sobrescrever sua Base atual ao restaurar um instantâneo.
 
@@ -46,7 +46,7 @@ As vistas versáteis são uma das melhores características do SeaTable. Ordene,
 
 A função de visualização tornou-se agora ainda mais poderosa! No passado, criar uma nova vista semelhante a uma vista existente era um pouco mais complicado. Todas as condições de ordenação, agrupamento e filtragem tinham de ser configuradas de raiz. Este factor de frustração desapareceu. Com o SeaTable 1.2, as vistas podem ser duplicadas.
 
-![](duplicate_view.png)
+![Menu de vistas com opção «Duplicar vista» para copiar vistas de tabela existentes](duplicate_view.png)
 
 No menu de vistas, encontra o item de menu "Duplicar vista". Com um clique, é criada uma nova vista com base na existente. Os ajustamentos às condições de ordenação, agrupamento e filtragem nesta nova vista são então rapidamente efectuados.
 
@@ -58,7 +58,7 @@ Uma Base SeaTable pode ser facilmente partilhada com outros utilizadores. As per
 
 Em vez de partilhar uma base completa, os assinantes Enterprise têm agora a opção de partilhar apenas vistas específicas dos dados de uma base. Filtre os dados, oculte colunas, ordene e agrupe os registos de modo a que a vista transmita a mensagem pretendida em alto e bom som e partilhe-a apenas com os seus colegas. É para isso que serve a nova função "Partilhar vista".
 
-![](share_view.png)
+![Janela de partilha de vista com opções de acesso partilhado a dados filtrados](share_view.png)
 
 Quando partilha uma base - mesmo que seja apenas de leitura - expõe todos os dados armazenados na base. Com uma visão dividida, os destinatários só têm acesso aos dados que supostamente devem ver.
 
@@ -66,7 +66,7 @@ Quando partilha uma base - mesmo que seja apenas de leitura - expõe todos os da
 
 Pretende partilhar uma base com outros membros da equipa, mas quer impedir que estes alterem o conteúdo de uma ou mais linhas? Então o SeaTable 1.2 tem exactamente o que precisa: a nova função de bloqueio de linhas.
 
-![](lock_row.png)
+![Menu contextual com função «Bloquear linha» ativa e triângulo vermelho no número da linha](lock_row.png)
 
 Clicar com o botão direito do rato numa célula abre o menu de contexto da linha, onde se encontra a nova opção "Bloquear linha". Assim que uma linha é bloqueada, é apresentado um triângulo vermelho no canto superior direito do número da linha. Repita o processo para desbloquear. Os administradores da base (proprietários da base e administradores de grupos) podem desbloquear qualquer linha; outros utilizadores só podem desbloquear linhas bloqueadas por eles próprios.
 
@@ -74,7 +74,7 @@ Clicar com o botão direito do rato numa célula abre o menu de contexto da linh
 
 Para além do bloqueio de linhas, os administradores da Base também podem restringir o acesso a determinadas colunas. Com o SeaTable 1.2, pode decidir quem tem permissão para editar entradas numa coluna: ninguém, apenas administradores ou determinados utilizadores. Escusado será dizer que as permissões de coluna podem, naturalmente, ser combinadas com bloqueios de linha.
 
-![](column_permission.png)
+![Janela de permissões de coluna definindo quem pode editar células e definições da coluna](column_permission.png)
 
 As permissões de coluna estão disponíveis para todos os tipos de coluna. Abra o menu de contexto da coluna e seleccione "Editar permissões de coluna". O assistente que aparece guiá-lo-á ao longo de todo o processo.
 

@@ -18,11 +18,11 @@ In the first table of Base all working times, vacation requests and sick notes o
 
 In an employee app built with SeaTable, you can make data entry intuitive and user-friendly by having your employees enter work hours, vacation requests, and sick leave in web forms. In doing so, you can provide the input fields with specific instructions to guide those completing them safely through the process.
 
-![](images/Mitarbeiter-App.gif)
+![Employee app for time recording with web forms for hours, vacation and sick leave](images/Mitarbeiter-App.gif)
 
 As your employees fill out the web forms, SeaTable adds new entries to the appropriate tables, which the responsible manager can then approve or reject in a management app. On your dashboard, you can include statistics that allow you and your managers to keep track of all your employees' overtime, vacation and sick leave. Calendars also allow you to display data in a calendar overview.
 
-![](images/Dashboard_4MB.gif)
+![HR dashboard in SeaTable with statistics on overtime, vacation and sick leave](images/Dashboard_4MB.gif)
 
 Of course, you can use many more features of SeaTable to develop your own application for time tracking in your company, completely according to your wishes. The template can be extended by any number of tables and columns based on the employee database, for example for payroll, internal training and shift schedules. Revolutionize your HR management with SeaTable! You can find more on the topic of working time recordinghere.
 

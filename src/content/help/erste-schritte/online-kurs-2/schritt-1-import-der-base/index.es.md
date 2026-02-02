@@ -50,7 +50,7 @@ En la tabla `Courses` encontrará toda la información importante sobre sus ofer
 
 Esta visión de conjunto estructurada le permite realizar un seguimiento de sus cursos y del número de participantes en todo momento.
 
-![](images/lvl2-table-courses.png)
+![Tabla «Courses» con datos de cursos, número de participantes y estado por curso](images/lvl2-table-courses.png)
 
 {{< warning  headline="Las fechas están en el pasado"  text="Observará que todas las fechas de los cursos están en el pasado. La sencilla razón de ello es que no hemos querido actualizar este curso en línea con regularidad. Por favor, ignore este hecho para este curso online." />}}
 
@@ -65,7 +65,7 @@ En la tabla `Registrations` se registran todos los datos de las personas que se 
 
 Este cuadro le ofrece en todo momento una visión clara del estado actual del registro y de la situación de los pagos.
 
-![](images/lvl2-table-registrations.png)
+![Tabla «Registrations» con nombres, correos y cursos reservados de los participantes](images/lvl2-table-registrations.png)
 
 {{< warning  headline="Columnas ocultas"  text="Se han ocultado dos columnas para mayor claridad. Más adelante verá que, de todos modos, sólo necesitamos estas columnas para la combinación de correspondencia." />}}
 
@@ -82,7 +82,7 @@ En la tabla `Courses` encontrará dos importantes columnas de fórmulas, cuyas v
 
 `{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` es una columna auxiliar que une los valores de las columnas "Título" y "Fecha". La fórmula utilizada es muy sencilla y sólo combina el título y la fecha del curso.
 
-![](images/lvl2-formula-title-date.png)
+![Columna de fórmula «Title and Date» que combina título de curso y fecha en un solo campo](images/lvl2-formula-title-date.png)
 
 A primera vista, esta columna parece superflua, ya que sólo combina los datos existentes. Pero créame: cuando analicemos el formulario de registro dentro de un momento, entenderá por qué esta columna es extremadamente útil.
 
@@ -90,7 +90,7 @@ A primera vista, esta columna parece superflua, ya que sólo combina los datos e
 
 La columna de fórmulas `{{< seatable-icon icon="dtable-icon-formula" >}} Status` determina automáticamente si aún quedan plazas disponibles en un curso o si el curso ya está completo. La lógica detrás de esto es relativamente simple, pero también podría tener en cuenta la fecha del evento cuando se utiliza de manera productiva.
 
-![](images/lvl2-formula-status.png)
+![Columna de fórmula «Status» que calcula plazas libres o completo para cada curso](images/lvl2-formula-status.png)
 
 {{< warning  headline="Las ventajas de las columnas de fórmulas"  text="Las columnas de fórmulas desempeñan un papel central en el desarrollo de bases potentes en SeaTable. Se utilizan para vincular información o definir determinados estados. El beneficio completo de estas columnas a menudo sólo se hace evidente cuando se trabaja con otras funciones." />}}
 
@@ -102,7 +102,7 @@ Esta vista está bloqueada para que no se pueda editar {{< seatable-icon icon="d
 
 Si nos fijamos más detenidamente en el formulario de registro, queda claro por qué este punto de vista es tan útil.
 
-![](images/lvl2-link-column-limit-to-view.png)
+![Configuración de la columna de enlace «Registered for» limitada a la vista «Available Courses»](images/lvl2-link-column-limit-to-view.png)
 
 ### Marcado por colores de filas y columnas
 

@@ -19,13 +19,13 @@ Un plan de plantation structuré dans SeaTable vous aide à aménager votre jard
 
 Dans le tableau central, vous saisissez votre parterre - y compris les rangées, les plantations et la rotation des cultures. Particulièrement pratique : le lien vers les plantes vous facilite la planification rapide sur plusieurs années. Ainsi, SeaTable peut être utilisé facilement comme planificateur intuitif de parterres.
 
-![](images/image-1744693263121.png)
+![Tableau de planification de plates-bandes dans SeaTable avec rangées, plantations et rotations](images/image-1744693263121.png)
 
 ## Créez votre propre dictionnaire des plantes
 
 Le deuxième tableau est votre encyclopédie personnelle des plantes : qu'il s'agisse de plantes ornementales, d'herbes aromatiques ou de plantes utiles, vous enregistrez ici toutes les informations sur la résistance au froid, la durée de vie, la taille ou les voisins de plate-bande appropriés. Cela vous aide non seulement à planifier, mais vous donne également de nouvelles idées et inspirations lors de la création de massifs.
 
-![](images/image-1744693157956.png)
+![Tableau encyclopédique des plantes avec type, rusticité, taille et compagnons adaptés](images/image-1744693157956.png)
 
 ## Suivez en détail les résultats de votre jardin
 

@@ -50,7 +50,7 @@ Mais le scoring des débiteurs est aussi particulièrement important dans l'entr
 En plus de tous les points déjà mentionnés, la transmission d'informations sur les paiements en souffrance est particulièrement importante. Cela permet de prendre rapidement des décisions sur d'éventuels investissements à venir et sur ses propres liquidités. Si les impayés se multiplient, il se peut qu'aucun nouvel investissement ne puisse être lancé dans votre entreprise. En revanche, si la majeure partie de vos créances est réglée, votre entreprise est liquide et plus rien ne s'oppose à de nouveaux investissements. La liquidité d'une entreprise dépend donc toujours des créances encore ouvertes ou réglées.
 
 {{< warning headline="Remarque" >}}
-Si vous souhaitez aller plus loin dans la [Planification financière]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Plan d'investissement]({{< relref "posts/investitionsplan" >}}) et le [Plan de trésorerie]({{< relref "posts/20250628_liquiditaetsplanung" >}}) sur le sujet. Vous y trouverez des conseils pratiques, des exemples et des modèles qui vous aideront à gérer encore plus efficacement les finances de votre entreprise.
+Si vous souhaitez aller plus loin dans la [Planification financière]({{< relref "posts/20250617-finanzplanung" >}}) einarbeiten möchten, können Sie in unserem Blog auch mehr über den [Plan d'investissement]({{< relref "posts/investitionsplan" >}}) et le [Plan de trésorerie]({{< relref "posts/liquiditaetsplanung" >}}) sur le sujet. Vous y trouverez des conseils pratiques, des exemples et des modèles qui vous aideront à gérer encore plus efficacement les finances de votre entreprise.
 {{< /warning >}}
 
 ## Tâches de la comptabilité clients

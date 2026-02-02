@@ -27,7 +27,7 @@ Cuando utiliza una plantilla de confirmación de pedido, se beneficia de numeros
 
 - Sostenibilidad: con SeaTable, la confirmación de su pedido se realiza completamente sin papel, sin necesidad de largos y costosos envíos, sino simplemente pulsando un botón por correo electrónico.
 
-![](images/image-1743589610782.gif)
+![Edición de una confirmación de pedido en SeaTable con campos rellenados automáticamente](images/image-1743589610782.gif)
 
 ## Cuándo debe crear una confirmación de pedido
 
@@ -53,7 +53,7 @@ También puedehacer que su cliente firmela confirmación del pedido si quiere as
 
 Aunque no existen requisitos legales sobre la información que debe contener una confirmación de pedido por escrito, losdetalles no deben desviarse de la oferta aceptada. Si utiliza nuestra plantilla para la confirmación del pedido, siempre irá sobre seguro, ya que SeaTable utiliza los mismos datos que en la oferta correspondiente.
 
-![](images/image-1743589843690.png)
+![Vista de tabla de pedidos con datos de clientes, conceptos y importes](images/image-1743589843690.png)
 
 La siguiente información obligatoria no debe faltar en ninguna confirmación de pedido a los clientes:
 
@@ -93,7 +93,7 @@ La siguiente información obligatoria no debe faltar en ninguna confirmación de
 
 La plantilla de confirmación de pedidos de SeaTable le ayuda a organizar claramentelos productos,clientesypedidos, crear automáticamente una confirmación de pedido y guardarla como PDF lista para su envío. Gracias aenlacesinteligentes, la confirmación de pedido se alimenta de datos relevantes de varias tablas: La información del cliente, los artículos del pedido y los precios fluyen a la perfección, mientras quelas fórmulascalculan automáticamente los descuentos y el IVA.
 
-![](images/image-1743590730029.gif)
+![Flujo en SeaTable: crear confirmación de pedido, guardarla como PDF y enviarla](images/image-1743590730029.gif)
 
 ### Creación sencilla de una confirmación de pedido
 

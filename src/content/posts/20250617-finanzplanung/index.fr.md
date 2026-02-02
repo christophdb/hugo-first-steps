@@ -41,7 +41,7 @@ Dans la phase centrale de la planification financière, vous utilisez les donné
 - **Planification des coûts** : quels sont les coûts fixes et variables et lesquels pouvez-vous réduire ?
 - [Prévision de la rentabilité]({{< relref "posts/rentabilitaetsvorschau" >}}) : Quel est le chiffre d'affaires que vous devez réaliser pour que votre entreprise soit rentable ?
 - **Planification des investissements** : quels achats souhaitez-vous faire et où votre argent est-il bien placé ?
-- [Planification des liquidités]({{< relref "posts/20250628_liquiditaetsplanung" >}}) : comment assurez-vous la solvabilité de votre entreprise ?
+- [Planification des liquidités]({{< relref "posts/liquiditaetsplanung" >}}) : comment assurez-vous la solvabilité de votre entreprise ?
 - **Planification des besoins en capitaux** : de combien de capitaux votre entreprise a-t-elle besoin pour son fonctionnement et ses investissements ?
 - **Planification financière** : d'où proviennent les fonds (propres ou étrangers) ?
 

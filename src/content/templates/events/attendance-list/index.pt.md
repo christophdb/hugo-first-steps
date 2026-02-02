@@ -36,7 +36,7 @@ Tenha em atenção oRegulamento Geral sobre a Proteção de Dados (RGPD)para tod
 
 É igualmente importanteprotegera sua lista de participantes, por exemplo, em Excel,contra o acesso não autorizado. Uma solução de software que permita autorizar apenas determinadas pessoas a aceder à lista de participantes oferece uma melhor proteção do que um modelo Excel. Deve também verificar se éobrigado a conservara lista de presenças do seu evento.
 
-![](images/image-1738157999643.jpg)
+![Os participantes registam-se numa lista de presenças e confirmam a sua participação por escrito](images/image-1738157999643.jpg)
 
 ## O que deve incluir numa lista de participantes?
 
@@ -58,7 +58,7 @@ A segunda tabela contém omodelo de lista de participantes. As informações (po
 
 Utilize formulários Web intuitivos nos quais os participantes podemassinar digitalmenteeintroduzir os seus próprios dados. Após o envio, os dados sãoautomaticamenteguardados nas suas tabelas. O modelo de lista de presenças do quadro 3 também funciona comligaçõesaos quadros 1 e 2: os participantes só têm de selecionar a data atual e o seu nome na lista de participantes antes de confirmarem a sua presença com a sua assinatura.
 
-![](images/image-1738157851207.gif)
+![Lista de presenças digital no SeaTable com formulário web para escolher data e participante](images/image-1738157851207.gif)
 
 Também pode utilizar um formulário Web para realizar uminquérito de avaliaçãoapós o evento, no qual os participantes podem fornecer feedback e classificações.
 

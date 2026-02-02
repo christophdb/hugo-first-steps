@@ -115,7 +115,7 @@ L'intelligence artificielle est également utilisée dans de nombreuses entrepri
 
 *   Entretiens standardisés avec des assistants virtuels
 *   Analyse des qualifications et des profils de personnalité des [candidats]({{< relref "pages/bewerbermanagement" >}})
-*   Prévisions des [besoins en personnel]({{< relref "posts/20250630-personalplanung" >}}) dans des scénarios spécifiques
+*   Prévisions des [besoins en personnel]({{< relref "posts/personalplanung" >}}) dans des scénarios spécifiques
 
 ### Administration générale
 

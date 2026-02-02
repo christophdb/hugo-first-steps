@@ -50,7 +50,7 @@ In the table `Courses` you will find all the important information about your of
 
 This structured overview allows you to keep track of your courses and participant numbers at all times.
 
-![](images/lvl2-table-courses.png)
+![“Courses” table showing course data, participant count and status per course](images/lvl2-table-courses.png)
 
 {{< warning  headline="Dates are in the past"  text="You will notice that all course dates are in the past. The simple reason for this is that we did not want to update this online course regularly. Please ignore this fact for this online course." />}}
 
@@ -65,7 +65,7 @@ In the table `Registrations` all data on the people who have registered for your
 
 This table gives you a clear overview of the current registration status and the status of payments at all times.
 
-![](images/lvl2-table-registrations.png)
+![“Registrations” table with participants’ names, emails and booked courses](images/lvl2-table-registrations.png)
 
 {{< warning  headline="Hidden columns"  text="Two columns have been hidden to improve clarity. You will see later that we only need these columns for the mail merge anyway." />}}
 
@@ -82,7 +82,7 @@ In the table `Courses` you will find two important formula columns, the benefits
 
 `{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` is an auxiliary column that links the values from the "Title" and "Date" columns. The formula used is very simple and only combines the course title and the course date.
 
-![](images/lvl2-formula-title-date.png)
+![“Title and Date” formula column combining course title and date into one display](images/lvl2-formula-title-date.png)
 
 At first glance, this column seems superfluous, as it only combines existing data. But trust me: if we analyze the registration form right away, you will understand why this column is extremely useful.
 
@@ -90,7 +90,7 @@ At first glance, this column seems superfluous, as it only combines existing dat
 
 The formula column `{{< seatable-icon icon="dtable-icon-formula" >}} Status` automatically determines whether there are still places available in a course or whether the course is already fully booked. The logic behind this is relatively simple, but could also take the event date into account when used productively.
 
-![](images/lvl2-formula-status.png)
+![“Status” formula column automatically calculating free seats or fully booked per course](images/lvl2-formula-status.png)
 
 {{< warning  headline="The benefits of formula columns"  text="Formula columns play a central role in the development of powerful bases in SeaTable. They are used to link information or define certain states. The full benefit of these columns often only becomes apparent when working with other functions." />}}
 
@@ -102,7 +102,7 @@ This view is locked against further editing {{< seatable-icon icon="dtable-icon-
 
 If we take a closer look at the registration form, it becomes clear why this view is so helpful.
 
-![](images/lvl2-link-column-limit-to-view.png)
+![Settings of “Registered for” link column limited to “Available Courses” view](images/lvl2-link-column-limit-to-view.png)
 
 ### Colored marking of rows and columns
 

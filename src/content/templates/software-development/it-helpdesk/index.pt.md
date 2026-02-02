@@ -17,7 +17,7 @@ Um sistema de emissão de bilhetes no SeaTable ajuda-o a registar, organizar e r
 
 A tabela central do software de helpdesk regista todos os pedidos de informação recebidos através de umformulário Webpersonalizável.
 
-![](images/image-1743602701710.png)
+![Formulário web de ticket de TI com campos de contacto e descrição do problema](images/image-1743602701710.png)
 
 Pode atribuir informações importantes como oestado,a prioridadee umapessoa responsávela cada entrada. Graças à atribuição automática aos membros da sua equipa de acordo com as responsabilidades previamente definidas e a uma simples mudança de estado de "aberto" para "em curso" ou "concluído", tem sempre uma visão geral.
 
@@ -45,7 +45,7 @@ Estatísticas: Visualize os dados dos seus bilhetes e analise KPIs importantes, 
 
 Aaplicação integradado software de helpdesk oferece ainda mais. Uma interface clara e intuitiva permite-lhe criar umpainel de controlo personalizadoque pode adaptar às suas necessidades com pouco esforço. Podem ser criados novos pedidos com apenas alguns cliques utilizando o formulário Web e as informações relevantes podem ser pesquisadas diretamente nabase de conhecimentos. A vista Kanban clara filtra os bilhetes em função do utilizador, de modo a que apenas osbilhetes relevantes para sisejam visíveis no seu quadro. Também pode definir individualmentequem pode ver e editar que dados, de modo a proteger os seus bilhetes contra o acesso não autorizado.
 
-![](images/image-1743602924380.png)
+![Dashboard da aplicação de helpdesk TI com tickets, métricas-chave e vista Kanban](images/image-1743602924380.png)
 
 ## Vantagens do SeaTable como software de helpdesk
 

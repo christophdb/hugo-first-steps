@@ -58,7 +58,7 @@ Avec notrelogiciel de gestion de flotte, vous économisez du temps et des ressou
 
 Avec un logiciel de gestion de flotte, vous pouvez planifier avec précision l'utilisation de vos véhicules. Ci-dessous, nous expliquons comment vous pouvez facilement gérer les réservations, les retours, les réparations et les rendez-vous d'inspection.
 
-![](images/image-1739373488166.png)
+![Vue d’ensemble des véhicules avec données sur modèle, immatriculation, statut et dates clés](images/image-1739373488166.png)
 
 La première étape consiste à établir unaperçu de vos véhicules: vous pouvez saisir toutes les informations qui sont importantes pour vous. Avec différentstypes de colonnesetvues,vous pouvez concevoir votre gestion de flotte comme vous le souhaitez. Contrairement à un modèle Excel de gestion de flotte, vous pouvez télécharger gratuitement des photos qui peuvent être vues dans leplugin de galerie. Ajoutez des informations supplémentaires telles que la marque, le modèle, la plaque d'immatriculation et le kilométrage pour décrire vos véhicules. D'autres documents tels que des contrats d'achat, des certificats d'assurance ou des factures peuvent également être téléchargés dansles colonnes du fichier.
 
@@ -68,11 +68,11 @@ Vous trouverez ci-dessous d’autres raisons pour lesquelles notre logiciel de g
 
 Gérez toutes vosréservationsde véhicules dans un seul tableau. Pour effectuer une réservation, les employés intéressés utilisent unformulaire Webbasé sur les colonnes de ce tableau. Ils y saisissent leurs coordonnées, sélectionnent le véhicule souhaité et précisent la période d'utilisation.
 
-![](images/vehicle-request.png)
+![Formulaire web de réservation de véhicule avec champs de contact, choix du véhicule et période](images/vehicle-request.png)
 
 Après l'envoi, la demande apparaît immédiatement dans votre tableau et vous pouvez la traiter. Les tables étantliées, vous pouvez attribuer chaque demande à un employé et au véhicule souhaité. Vérifiez ensuite si le véhicule est disponible à l’heure souhaitée ou s’il est déjà réservé durant cette période. Pour ce faire, utilisez leplugin Timeline, qui affiche clairement les chevauchements de réservation.
 
-![](images/Booked-vehicles.png)
+![Vue chronologique avec véhicules réservés et barres colorées pour les périodes de réservation](images/Booked-vehicles.png)
 
 Comme dans notre exemple, vous pouvez rejeter la demande arrivée plus tard. SeaTable vous permet d'utiliser des boutons pourautomatisercertains processus dans le logiciel de gestion de flotte et de les lancer en un seul clic. Cela vous permet de traiter facilement les demandes et de rejeter ou de confirmer la réservation du véhicule en appuyant simplement sur un bouton. Une-mail prédéfinisera ensuite envoyé au demandeur avec les informations pertinentes.
 

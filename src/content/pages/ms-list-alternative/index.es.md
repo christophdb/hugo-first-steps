@@ -13,13 +13,13 @@ aliases:
 sections:
     - name: hero-5
       weight: 1
-      title: ¿Busca una alternativa a las listas de Microsoft?
-      text: "Flexible, intuitivo y conforme a la GDPR: SeaTable le permite gestionar sus listas y procesos sin renunciar al control de sus datos. Ideal para empresas que conceden gran importancia a la protección de datos y no desean almacenar sus datos en la nube de Microsoft."
+      title: ¿Busca una alternativa a Microsoft Lists?
+      text: "Flexible, intuitiva, potenciada por IA y conforme al RGPD: Con SeaTable gestione sus listas y procesos, automatice flujos de trabajo con IA y mantenga siempre el control total sobre sus datos. Ideal para empresas que priorizan la privacidad y prefieren no almacenar su información en la nube de Microsoft."
       classes:
           - bg-gray-200
       template: 3d757663bb3648439b9d
       buttons:
-          - label: Regístrese ahora gratuitamente y empiece
+          - label: Regístrese gratis y comience ahora
             link: 'pages/registration'
             style: primary
           - label: Conozca las funciones
@@ -28,26 +28,26 @@ sections:
     - name: 'content-9'
       weight: 2
       title: SeaTable es la alternativa perfecta a Microsoft Lists
-      subtitle: Ventajas de SeaTable
-      description: Si conoce Microsoft Lists, le encantará SeaTable. SeaTable ofrece más funciones y al mismo tiempo es la única alternativa que le permite ejecutar SeaTable en su propio servidor, en su centro de datos, con su dominio y con su identidad corporativa.
+      subtitle: Ventajas de SeaTable 
+      description: Si conoce Microsoft Lists, le encantará SeaTable. Nuestra [plataforma no-code]({{< relref "/" >}}) ofrece funciones de IA integradas para sus flujos de trabajo y es la única alternativa que permite ejecutar SeaTable en su propio servidor, con su propio dominio e identidad corporativa.
       items:
-          - headline: En las instalaciones
-            text: Los datos de la empresa no deben estar en manos ajenas, sino en un sistema autoalojado.Microsoft Lists sólo está disponible como parte de Office 365 desde la nube de Microsoft. Con SeaTable, usted decide dónde instala su sistema y quién tiene acceso a sus datos.
+          - headline: On-Premise (Local)
+            text: Los datos corporativos no deben estar en manos ajenas, sino en un sistema autohospedado. Microsoft Lists solo existe como parte de Office 365 en la nube de Microsoft. Con SeaTable, usted decide dónde instalar su sistema, qué modelos de IA conectar y quién accede a sus datos.
             icon: bullseye
           - headline: Más funciones y vistas
-            text: Con más de 20 tipos de columnas, SeaTable ofrece muchas más opciones de introducción de datos que Microsoft Lists. Sólo SeaTable permite vincular hojas de cálculo, introducir datos a través de un formulario web y mostrar los datos como Kanban o como gráfico.
+            text: Con más de 20 tipos de columnas, SeaTable ofrece muchas más opciones de captura de datos que Microsoft Lists. Solo SeaTable permite vincular tablas, capturar datos mediante formularios web y visualizar información en Kanban o gráficos, enriquecidos con análisis de datos por IA.
             icon: award
-          - headline: Una solución en su diseño
-            text: No puede adaptar Microsoft Lists al diseño de su empresa, como tampoco puede hacerlo con los demás productos de Office 365. Tiene que aceptar lo que viene. Con SeaTable usted determina bajo qué URL es accesible el sistema, qué colores y qué logotipo se utiliza.
+          - headline: Una solución con su diseño
+            text: Microsoft Lists no permite personalización visual. Con SeaTable, usted define la URL de acceso, los colores y el logotipo, adaptando la plataforma totalmente a su imagen corporativa.
             icon: edit
-          - headline: Prueba gratuita, paquetes empresariales de bajo coste
-            text: SeaTable está disponible en diferentes versiones. La SeaTable Cloud ofrece todas las funciones de usuario para que pueda probar la SeaTable con facilidad. El servidor SeaTable también puede instalarse y probarse de forma gratuita y sin compromiso para un máximo de tres usuarios.
+          - headline: Prueba gratuita y planes business económicos
+            text: La versión SeaTable Cloud incluye todas las funciones de IA para que pueda probarlas cómodamente. También puede instalar SeaTable Server de forma gratuita para hasta tres usuarios sin compromiso.
             icon: leaf
-          - headline: Extensiones y plugins individuales
-            text: El sistema de plugins de SeaTable no pone límites a su imaginación. ¿Necesita una visualización especial de los geodatos? No hay problema. SeaTable ofrece su propio sistema de complementos con el que podrá ampliar las funciones de SeaTable según sus necesidades y adaptarlas a las suyas.
+          - headline: Extensiones, Plugins e IA personalizados
+            text: El sistema de plugins de SeaTable no tiene límites. ¿Necesita visualización de geodatos o modelos de IA para resúmenes? SeaTable AI ofrece una conexión flexible a modelos externos o propios, adaptándose a sus necesidades específicas.
             icon: list-check
-          - headline: Opciones de entrada cada vez más flexibles
-            text: Microsoft Lists ofrece menos funciones de introducción de datos que SeaTable. Utilice formularios web, enlaces de publicación y "hojas de recogida de datos" para que sus empleados o socios comerciales introduzcan los datos. Sólo así podrá consolidar toda la información y los datos en un único sistema.
+          - headline: Entradas de datos más flexibles
+            text: Utilice formularios web, enlaces para compartir y "Data Collection Sheets" para que empleados o socios registren datos, y compleméntelos con procesamiento por IA como traducciones o clasificaciones automáticas.
             icon: edit
          
     - name: customer-1
@@ -58,9 +58,9 @@ sections:
 
     - name: 'content-10'
       weight: 4
-      title: 'SeaTable - Su alternativa a Microsoft Lists con una sólida API'
+      title: 'Alternativa a Microsoft Lists con API potente y automatización por IA'
       subtitle: 'Integraciones estándar'
-      description: Microsoft Lists no ofrece una interfaz API, lo que dificulta la integración de Microsoft Lists con sus propias soluciones. Gracias a la flexible API de SeaTable y a la sencilla integración con terceros, esto ya no será un obstáculo para usted.
+      description: A diferencia de Microsoft Lists, SeaTable ofrece una API flexible e integración fluida con terceros y automatizaciones de IA, eliminando cualquier barrera técnica. 
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -69,86 +69,83 @@ sections:
      
     - name: 'content-3'
       weight: 5
-      title: Amplias funciones en todos los modelos de precio
-      subtitle: ¿En la nube o autoalojado?
+      title: Funciones completas en todos los modelos de precios
+      subtitle: ¿Nube o autohospedado?
       description: ''
       items:
           - headline: SeaTable Cloud
-            text: "Perfecto para empresas que quieren empezar rápidamente y sin una amplia infraestructura informática: flexible y escalable."
+            text: Perfecto para empresas que desean empezar rápidamente sin una gran infraestructura informática; flexible, escalable y con funciones de IA disponibles de inmediato para automatizaciones y análisis.
             image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud – alternativa flexible a Microsoft Lists para gestión de proyectos'
+            image_alt: 'SeaTable Cloud: alternativa flexible a Microsoft Lists para la gestión de proyectos con funciones de IA integradas'
           - headline: SeaTable Server
-            text: Para las empresas que desean mantener un control total sobre sus datos, SeaTable Server ofrece una opción in situ.
+            text: Para las empresas que desean mantener el control total sobre sus datos, SeaTable Server ofrece una opción On-Premises con la posibilidad de conectar modelos de IA propios o externos según sea necesario.
             image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server – alternativa local a Microsoft Lists con control total'
+            image_alt: 'SeaTable Server: alternativa On-Premises a Microsoft Lists con control total e integración de IA propia'
           - headline: SeaTable Dedicated
-            text: Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autoalojado.
+            text: Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autohospedado.
             image: /images/asana-dedicated.jpg
-            image_alt: 'SeaTable Dedicated – instancia dedicada como alternativa a Microsoft Lists con flexibilidad en la nube'
+            image_alt: 'SeaTable Dedicated: instancia dedicada como alternativa a Microsoft Lists con flexibilidad de nube'
 
     - name: 'content-8'
       weight: 10
       title: Pruebe nuestras plantillas gratuitas
       subtitle: Plantillas para cada caso de uso
-      description: 'SeaTable ofrece numerosas plantillas gratuitas para ayudarle a empezar. Importe plantillas a su cuenta SeaTable con un solo clic.'
+      description: 'SeaTable ofrece numerosas plantillas gratuitas para facilitarle el inicio. Importe plantillas con un solo clic a su cuenta de SeaTable y amplíelas con automatizaciones basadas en IA si lo desea.'
       items:
-          - text: "Lista de tareas pendientes"
+          - text: "Lista de tareas"
             image: /images/to-do-liste.png
-            image_alt: "Plantilla de SeaTable Lista de tareas – gestión simple de listas como Microsoft Lists"
-          - text: Planificador de talleres
+            image_alt: "Plantilla SeaTable Lista de tareas: gestión de listas sencilla como en Microsoft Lists, ampliable con priorización de tareas por IA"
+          - text: Planificar taller
             image: /images/workshop-planer.png
-            image_alt: "Plantilla de SeaTable Planificador de Workshops – planificación de eventos y coordinación"
-          - text: Plan de acción
+            image_alt: "Plantilla SeaTable Planificar taller: planificación y coordinación de eventos con análisis opcionales basados en IA"
+          - text: Plan de medidas
             image: /images/maßnahmenplan.png
-            image_alt: "Plantilla de SeaTable Plan de acciones – planificación estructurada de acciones y medidas"
+            image_alt: "Plantilla SeaTable Plan de medidas: planificación estructurada de acciones y medidas"
       buttons:
         - label: Descubra todas las plantillas
           link: "templates"
 
     - name: "content-4"
       weight: 7
-      title: Su alternativa a las listas de Microsoft que cumple con la GDPR
-      subtitle: Sin concesiones en materia de protección de datos
-      text: "SeaTable se aloja exclusivamente en servidores de Alemania y cumple al 100% la normativa GDPR. Combinamos los más altos estándares para la protección de datos sensibles y el cumplimiento de la normativa de protección de datos con procesos de trabajo transparentes y flexibles."
+      title: Su alternativa a Microsoft Lists conforme al RGPD
+      subtitle: Sin concesiones en la protección de datos
+      text: "SeaTable se aloja exclusivamente en servidores en Alemania y cumple al 100 % con el RGPD. Combinamos los más altos estándares de protección de datos sensibles, incluso al utilizar funciones de IA, con procesos de trabajo transparentes y flexibles."
       items:
       - icon: terminal
-        headline: Soluciones locales para un control total de los datos
-        text: "Con SeaTable Server conservará el control total de sus datos, con la misma gama de funciones que con SeaTable Cloud."
+        headline: Soluciones On-Premises para un control total de los datos
+        text: "Con SeaTable Server, usted mantiene el control total sobre sus datos, con las mismas funciones que SeaTable Cloud."
       - icon: user-plus
-        headline: Ajustes de seguridad definidos por el usuario
-        text: "Restrinja el acceso a la información sensible con derechos individuales de acceso y edición."
+        headline: Ajustes de seguridad personalizados
+        text: "Restrinja el acceso a información sensible con derechos individuales de acceso y edición."
       - icon: fingerprint
-        headline: Autenticación e inicio de sesión único
-        text: "Asegure sus datos adicionalmente con autenticación de dos factores y SSO en todos los modelos de suscripción."    
+        headline: Autenticación y Single-Sign-On (SSO)
+        text: "Proteja sus datos adicionalmente con autenticación de dos factores y SSO en todos los planes de suscripción, incluso al usar automatizaciones de IA."
 
     - name: 'content-21'
       weight: 8
-      title: Importa datos de Microsoft Lists a SeaTable
-      text: Ya usas Microsoft Lists y buscas una alternativa autohospedada. Transferir tus datos de Lists a SeaTable es muy sencillo mediante exportación e importación.
+      title: Importar datos de Microsoft Lists a SeaTable
+      text: Si ya utiliza Microsoft Lists y busca una alternativa autohospedada, transferir sus datos a SeaTable es muy sencillo mediante exportación e importación. Después, podrá enriquecer sus procesos actuales paso a paso con funciones de IA.
       items:
           - headline: Transferencia de datos sencilla
-            text: Debido a la estructura de datos similar entre Microsoft Lists y SeaTable, puedes migrar tus tablas existentes a SeaTable sin dificultad. Simplemente exporta tus tablas como archivo CSV y luego impórtalas en SeaTable. No puede ser más fácil.
-          - headline: Prueba gratuita
-            text: Con SeaTable puedes registrarte gratis y sin compromiso. Así puedes probar la migración de datos sin preocupaciones.
+            text: Debido a la estructura de datos similar, puede migrar sus tablas de Lists a SeaTable sin dificultades. En el caso más sencillo, exporte sus tablas como archivo CSV e impórtelas en SeaTable. Más fácil, imposible.
+          - headline: Suscripción de prueba gratuita
+            text: Puede registrarse en SeaTable de forma gratuita y sin compromiso. Así podrá probar la migración de datos y comprobar cómo la IA acelera sus procesos.
 
     - name: "banner-2"
       weight: 9
       title: Pruébelo gratis y descubra las ventajas de SeaTable
       buttons:
-           - label: Regístrese ahora y empiece de inmediato
+           - label: Regístrese ahora y comience de inmediato
              link: pages/registration
-             id: 
 
     - name: faq
       weight: 11
-      title: FAQ - SeaTable como alternativa a Microsoft Lists
+      title: Preguntas frecuentes – SeaTable como alternativa a Microsoft Lists
       items:
           - q: '¿Qué funciones ofrece SeaTable?'
-            a: 'SeaTable ofrece una amplia gama de funciones para una gestión de datos transparente y en tiempo real y unos procesos eficientes: ya sean automatizaciones, funciones de notificación, App Builder o cuadros de mando de informes: puede adaptar SeaTable de forma flexible a sus necesidades. La plataforma es flexible y puede utilizarse tanto como solución en la nube como on-premises.'
-
-          - q: '¿Es realmente gratuito utilizar SeaTable?'
-            a: 'Sí, puede utilizar SeaTable en el plan gratuito de forma ilimitada. Si desea funciones ampliadas y más espacio de almacenamiento, puede optar por la económica versión Premium.'
-
+            a: 'SeaTable ofrece una gran variedad de funciones para una [gestión de datos]({{< relref "posts/20250317-datenmanagement" >}}) transparente en tiempo real: automatizaciones, flujos de trabajo con IA, [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) o paneles de informes. La plataforma es flexible y puede usarse tanto en la nube como On-Premises.'
+          - q: '¿Es SeaTable realmente gratuito?'
+            a: 'Sí, puede usar el Plan Free de SeaTable de forma ilimitada. Para funciones avanzadas, créditos de IA y más almacenamiento, disponemos de versiones Premium económicas.'
           - q: '¿Ofrece SeaTable soporte gratuito?'
-            a: 'Si tiene alguna pregunta sobre SeaTable o las funciones individuales, estamos siempre a su lado. Puede contactar con nuestro soporte a través del foro de SeaTable o directamente por correo electrónico.'
+            a: 'Estamos a su disposición para cualquier duda. Puede contactar con nuestro soporte a través del [Foro de SeaTable](https://forum.seatable.com/) o directamente por correo electrónico.'
 ---

@@ -34,7 +34,7 @@ Pay attention to theGeneral Data Protection Regulation (GDPR)for every list of p
 
 It is equally important toprotectyour attendee list, e.g. in Excel,from unauthorized access. A software solution that allows you to authorize only certain people to access the attendee list offers better protection than an Excel template. You should also check whether the attendance list for your eventneeds to be retained.
 
-![](images/image-1738157999643.jpg)
+![Participants sign an attendance list to confirm their presence](images/image-1738157999643.jpg)
 
 ## What should you include in a list of participants?
 
@@ -56,7 +56,7 @@ The second table contains theparticipant list template. Information (e.g. matric
 
 Use intuitive web forms in which your participants cansign digitallyandenter data themselves. After submission, the data isautomaticallysaved in your tables. The attendance list template in table 3 also works withlinksto tables 1 and 2: participants only need to select the current date and their name from the list of participants before confirming their attendance with their signature.
 
-![](images/image-1738157851207.gif)
+![Digital attendance list in SeaTable with web form to select date and participant](images/image-1738157851207.gif)
 
 You can also use a web form to conduct anevaluation surveyafter the event, in which participants can provide feedback and ratings.
 

@@ -30,7 +30,7 @@ Au départ, chaque nouvelle vue créée ne contient pas de regroupements, de tri
 1. Regroupez les données dans la colonne `Date` par année.
 2. Regroupez ensuite les données par `Category-Link`.
 
-![](images/lvl1-view-groups.png)
+![Vue « Group by date and category » avec regroupement par année et lien de catégorie](images/lvl1-view-groups.png)
 
 ## Créer une vue avec un filtre et un regroupement
 

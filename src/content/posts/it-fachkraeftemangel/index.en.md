@@ -11,7 +11,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Applicants & Talents Management'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'Digital Transformation'
 color: '#9eced1'
 register:
