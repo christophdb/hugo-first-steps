@@ -46,7 +46,7 @@ Com base em centenas de comentários online em que os utilizadores descrevem as 
    
 3. **Campos personalizados**: Com numerosos tipos de campos, pode configurar a informação nos seus registos de dados de muitas formas diferentes e definir os tipos de dados que são permitidos nos campos. Isto permite-lhe normalizar os formatos de dados e minimizar os erros de introdução.
    
-4. **Integração inteligente da IA**: A inteligência artificial está disponível no Airtable para a conceção de interfaces, bem como integrada como um tipo de campo separado. Com os prompts certos, pode criar aplicações em grande escala e gerar conteúdos a partir dos seus dados.
+4. **Integração inteligente da IA**: A [inteligência artificial]({{< relref "posts/kuenstliche-intelligenz" >}}) está disponível no Airtable para a conceção de interfaces, bem como integrada como um tipo de campo separado. Com os prompts certos, pode criar aplicações em grande escala e gerar conteúdos a partir dos seus dados.
 
 ![Airtable Interface Designer](airtable-interface-designer.jpg)
 

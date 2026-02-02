@@ -46,7 +46,7 @@ En se basant sur des centaines d'avis en ligne dans lesquels les clients décriv
    
 3. **Champs définis par l'utilisateur** : Grâce à de nombreux types de champs, vous pouvez configurer de manière polyvalente les informations contenues dans vos enregistrements et définir les types de données autorisés dans les champs. Vous uniformisez ainsi les formats de données et minimisez les erreurs de saisie.
    
-4. **Intégration intelligente de l'IA** : L'intelligence artificielle est disponible dans Airtable pour la conception des applications et est intégrée en tant que type de champ distinct. Avec les bons invites, vous pouvez créer des applications à grande échelle et générer du contenu à partir de vos données.
+4. **Intégration intelligente de l'IA** : L'[intelligence artificielle]({{< relref "posts/kuenstliche-intelligenz" >}}) est disponible dans Airtable pour la conception des applications et est intégrée en tant que type de champ distinct. Avec les bons invites, vous pouvez créer des applications à grande échelle et générer du contenu à partir de vos données.
 
 ![Airtable Interface Designer](airtable-interface-designer.jpg)
 

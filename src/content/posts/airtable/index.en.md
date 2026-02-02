@@ -48,7 +48,7 @@ Based on hundreds of online reviews in which users describe their Airtable exper
    
 3. **Custom fields**: With numerous field types, you can configure the information in your data sets in a versatile way and define the data types that are allowed in fields. This allows you to standardize data formats and minimize input errors.
    
-4. **Smart integration of AI**: Artificial intelligence is available in Airtable for interface design as well as integrated as a separate field type. With the right prompts, you can create applications on a large scale and generate content from your data.
+4. **Smart integration of AI**: [Artificial intelligence]({{< relref "posts/kuenstliche-intelligenz" >}}) is available in Airtable for interface design as well as integrated as a separate field type. With the right prompts, you can create applications on a large scale and generate content from your data.
 
 ![Airtable Interface Designer](airtable-interface-designer.jpg)
 
