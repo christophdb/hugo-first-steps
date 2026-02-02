@@ -20,10 +20,10 @@ Como **administrador de equipo**, puedes **eliminar completamente** tu equipo co
 
 1. Cambia a la **administración del equipo**.
 2. Haga clic en la opción **Suscripción** en **Navegación** en el lado izquierdo.
-3. Desplácese hacia abajo y haga clic en **Cuenta de equipo y elimine todos los datos por completo**.
+3. Seleccione la pestaña **Eliminar equipo**.
 4. Confirme la eliminación.
 
-![Supresión de todo el equipo](images/delete-complete-team.png)
+    ![Eliminar todo el equipo](images/delete-complete-team.png)
 
 ## ¿Qué pasa cuando eliminas tu equipo?
 

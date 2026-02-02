@@ -18,34 +18,30 @@ Para bloquear ou eliminar membros da equipa, é necessário ter **direitos de ad
 
 ## Suspender um membro da equipa
 
-1. Mudar para a **administração da equipa**.
+1. Mude para a **Gestão de Equipa**.
+   ![Mude para a Gestão de Equipa](images/open-team-admin.png)
+   
+2. Clique no item de menu **Equipa**.
+   ![Clique no item de menu Equipa](images/open-team-section.png)
+   
+3. Selecione o **Membro da Equipa**.
 
-![Mudar para a administração da equipa](images/open-team-admin.png)
+4. Altere o estado do membro da equipa de **Ativo** para **Inativo** e guarde as alterações.
 
-3. Clique no item do menu **Equipa**.
+    ![Desativar o utilizador e guardar as alterações](images/deactivate-user-and-save.png)
 
-![Clicar no item de menu Equipa](images/open-team-section.png)
+Assim que o membro da equipa bloqueado tentar iniciar sessão, será apresentada a seguinte mensagem de erro:
 
-5. Seleccionar o **membro da equipa**.
-
-![Seleção do membro da equipa](images/select-user-to-deactivate.png)
-
-7. Abre-se uma nova janela. Na categoria **Pessoa**, active a barra deslizante **Desativar utilizador** e grave as alterações.
-
-![Desativar o utilizador e guardar as alterações](images/deactivate-user-and-save.png)
-
-Assim que o membro da equipa bloqueada tentar iniciar sessão, é exibida a seguinte mensagem de erro:
-
-![Bloquear uma mensagem de erro da conta de um membro no LogIn](images/Fehlermeldung-Account-sperren.png)
+![Bloquear conta de membro - Mensagem de erro no login](images/Fehlermeldung-Account-sperren.png)
 
 ## Eliminar um membro da equipa
 
-1. Mudar para a **administração da equipa**.
-2. Clique no item do menu **Equipa**.
-3. Seleccionar o **membro da equipa**.
-4. Abre-se uma nova janela. Seleccionar a categoria **Eliminar**.
-5. Activar o selector " **Really delete?**
-6. Clique em **Delete Team Member (Eliminar membro da equipa**).
+1. Mude para a **Gestão de Equipa**.
+2. Clique no item de menu **Equipa**.
+3. Selecione o **Membro da Equipa**.
+4. Clique na aba **Eliminar Utilizador**.
+5. Confirme a eliminação.
+
 
 ## Perguntas mais frequentes
 

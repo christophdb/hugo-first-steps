@@ -15,13 +15,14 @@ Als Team-Administrator können Sie neue Mitglieder zum Team hinzufügen und dies
 
 ## Teammitglieder zu Administratoren machen
 
-![Ein Teammitglied zum Administrator machen](images/Ein-Teammitglied-zum-Administrator-machen.gif)
-
 1. Klicken Sie auf Ihr **Profil** in der rechten oberen Ecke.
 2. Wählen Sie im Drop-down-Menü die Option **Teamverwaltung** aus.
 3. Gehen Sie unter **Navigation** auf den Menüpunkt **Team**.
 4. Klicken Sie auf das **Teammitglied**, dem Sie Administrationsrechte geben möchten.
-5. Ein neues Fenster öffnet sich. Aktivieren Sie unter **Sicherheit** den Regler **Administrator**.
+5. Aktivieren Sie unter **Sicherheit** die Checkbox **Administratorrechte geben**.
+
+    ![Ein Teammitglied zum Administrator machen](images/grant-admin-permissions.png)
+
 6. Klicken Sie auf **Änderungen speichern**.
 
 ## Die Rechte eines Team-Administrators

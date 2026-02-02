@@ -20,10 +20,10 @@ As a **team administrator**, you can **completely delete** your team with all it
 
 1. Switch to the **team administration**.
 2. Click the **Subscription** option on the left side under **Navigation**.
-3. Scroll down and click **Team account and delete all data completely**.
+3. Select the **Delete Team** tab.
 4. Confirm the deletion.
 
-![Delete the entire team](images/delete-complete-team.png)
+    ![Delete the entire team](images/delete-complete-team.png)
 
 ## What happens when you delete your team?
 
