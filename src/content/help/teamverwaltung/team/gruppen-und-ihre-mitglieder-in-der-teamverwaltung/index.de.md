@@ -18,7 +18,7 @@ Erfahren Sie im Artikel [Gruppenmitglieder und ihre Berechtigungen]({{< relref "
 
 ## Die Mitgliedschaft und Rollen in einer Gruppe ändern
 
-![Gruppenmitglieder in der Teamverwaltung verwalten](images/Gruppe-verwalten.png)
+![Gruppenmitglieder in der Teamverwaltung verwalten](images/group-management.png)
 
 1. Wechseln Sie in die **Teamverwaltung**.
 2. Klicken Sie auf den Menüpunkt **Team**.

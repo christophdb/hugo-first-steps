@@ -20,7 +20,7 @@ Apprenez tout sur les rôles possibles dans un groupe dans l'article [Les membre
 
 ## Modifier l'appartenance et les rôles dans un groupe
 
-![Gérer les membres du groupe dans l'administration d'équipe](images/Gruppe-verwalten.png)
+![Gérer les membres du groupe dans l'administration d'équipe](images/group-management.png)
 
 1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option de menu **Équipe**.

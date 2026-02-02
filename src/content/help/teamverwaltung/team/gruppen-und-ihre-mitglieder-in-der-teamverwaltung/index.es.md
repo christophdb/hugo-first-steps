@@ -20,7 +20,7 @@ Aprende todo sobre los posibles roles en un grupo en el artículo [Miembros del 
 
 ## Modificar los miembros y las funciones de un grupo
 
-![Gestionar los miembros del grupo en la administración del equipo](images/Gruppe-verwalten.png)
+![Gestionar los miembros del grupo en la administración del equipo](images/group-management.png)
 
 1. Cambia a la **administración del equipo**.
 2. Haga clic en la opción de menú **Equipo**.

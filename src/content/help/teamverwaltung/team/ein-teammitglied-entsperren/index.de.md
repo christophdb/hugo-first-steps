@@ -26,6 +26,8 @@ Aus eigenen Kräften kann das Teammitglied an dieser Stelle nichts mehr tun.
 1. Wechseln Sie in die **Teamverwaltung**.
 2. Klicken Sie auf den Menüpunkt **Team**.
 3. Wählen Sie das gesperrte **Teammitglied** aus.
-4. Schalten Sie den Regler **Benutzer deaktivieren** aus.
+4. Setzen Sie den Status von **Inaktiv** auf **Aktiv**.
 
-![Deaktivierten User wieder aktivieren.](images/enable-disabled-user.png) Sobald Sie die Änderung **gespeichert** haben, kann sich das Teammitglied wieder in der SeaTable Cloud einloggen oder ein neues Passwort anfordern.
+    ![Deaktivierten User wieder aktivieren.](images/enable-disabled-user.png) 
+
+Sobald Sie die Änderung **gespeichert** haben, kann sich das Teammitglied wieder in der SeaTable Cloud einloggen oder ein neues Passwort anfordern.
