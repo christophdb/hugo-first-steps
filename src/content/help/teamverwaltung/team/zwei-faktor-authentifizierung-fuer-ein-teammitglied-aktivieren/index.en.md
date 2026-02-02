@@ -19,10 +19,12 @@ The following describes only how to enable this additional protection on an indi
 
 ## Activation of 2FA for a team member
 
-![Enable two-factor authentication for a team member](images/Zwei-Faktor-Authentifizierung-fuer-ein-Teammitglied-aktivieren.gif)
-
 1. Switch to the **team administration**.
-2. Click on the **Team** option.
-3. Select the **team member**.
-4. Under **Security**, enable the **2-factor authentication** option.
-5. Click **Save Changes**.
+2. Click on the **Team** option, then **Users**
+    ![Open the user overview in Team Management](images/open-team.png)
+
+3. Select the **Team Member**.
+4. Under **Security**, enable the **Enforce Two-Factor Authentication (2FA)** option.
+    ![Enforce two-factor authentication](images/enforce-2fa-for-a-user.png)
+
+5. Click on **Save Changes**.

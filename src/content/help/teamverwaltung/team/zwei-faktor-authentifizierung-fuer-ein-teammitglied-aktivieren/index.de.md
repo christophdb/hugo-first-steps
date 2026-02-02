@@ -17,10 +17,12 @@ Im Folgenden wird nur beschrieben, wie Sie diesen zusätzlichen Schutz bei einem
 
 ## Aktivierung der 2FA für ein Teammitglied
 
-![Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren](images/Zwei-Faktor-Authentifizierung-fuer-ein-Teammitglied-aktivieren.gif)
-
 1. Wechseln Sie in die **Teamverwaltung**.
-2. Klicken Sie auf die Option **Team**.
+2. Klicken Sie auf die Option **Team**, dann **Benutzer**
+    ![Öffnen Sie die Benutzerübersicht in der Teamverwaltung](images/open-team.png)
+
 3. Wählen Sie das **Teammitglied** aus.
-4. Aktivieren Sie unter **Sicherheit** die Option **2-Faktor Authentifizierung**.
+4. Aktivieren Sie unter **Sicherheit** die Option **Zwei-Faktor-Authentifizierung (2FA) erzwingen**.
+    ![Erzwingen Sie die 2-Faktor-Authentifizierung](images/enforce-2fa-for-a-user.png)
+
 5. Klicken Sie auf **Änderungen speichern**.
