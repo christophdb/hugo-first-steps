@@ -16,13 +16,14 @@ Durch die **Zwei-Faktor-Authentifizierung** können Sie neben dem persönlichen 
 
 ## So stellen Sie die 2FA für alle Teammitglieder ein
 
-![Zwei-Faktor-Authentifizierung für das gesamte Team erzwingen](images/Zwei-Faktor-Authentifizierung-fuer-das-gesamte-Team-erzwingen.gif)
-
 1. Gehen Sie auf die **Teamverwaltung**.
-2. Klicken Sie auf die Option **Team**.
-3. Klicken Sie auf **Einstellungen**.
-4. Schalten Sie den Regler **Erzwinge 2FA für alle Teammitglieder** an.
-5. Klicken Sie auf **Einstellungen speichern**.
+2. Klicken Sie auf die Option **Team** und wählen Sie **Einstellungen**.
+    ![Zwei-Faktor-Authentifizierung für das gesamte Team erzwingen](images/open-settings.png)
+
+3. Aktivieren Sie die Checkbox **Erzwinge 2FA für alle Teammitglieder**.
+    ![Zwei-Faktor-Authentifizierung für das gesamte Team erzwingen](images/enforce-2fa-for-all-users.png)
+
+4. Klicken Sie auf **Einstellungen speichern**.
 
 ## Funktionsweise der Zwei-Faktor-Authentifizierung
 

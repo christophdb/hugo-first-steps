@@ -18,13 +18,14 @@ seo:
 
 ## To set 2FA for all team members
 
-![Enforce two-factor authentication for the entire team](images/Zwei-Faktor-Authentifizierung-fuer-das-gesamte-Team-erzwingen.gif)
+1. Go to the **Team Management**.
+2. Click on the **Team** option and select **Settings**.
+    ![Enforce two-factor authentication for the entire team](images/open-settings.png)
 
-1. Go to the **Team administration**.
-2. Click on the **Team** option.
-3. Click **Settings**.
-4. Turn on the slider **Enforce 2FA for all team members**.
-5. Click **Save Settings**.
+3. Check the **Enforce 2FA for all team members** checkbox.
+    ![Enforce two-factor authentication for the entire team](images/enforce-2fa-for-all-users.png)
+
+4. Click on **Save Settings**.
 
 ## How two-factor authentication works
 

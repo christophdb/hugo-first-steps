@@ -18,13 +18,14 @@ seo:
 
 ## Para definir o 2FA para todos os membros da equipa
 
-![Forçar a autenticação de dois factores para toda a equipa](images/Zwei-Faktor-Authentifizierung-fuer-das-gesamte-Team-erzwingen.gif)
+1. Vá para a **Gestão de Equipa**.
+2. Clique na opção **Equipa** e selecione **Definições**.
+    ![Forçar autenticação de dois fatores para toda a equipa](images/open-settings.png)
 
-1. Ir para a **administração da equipa**.
-2. Clique na opção **Equipa**.
-3. Clique em **Definições**.
-4. Ligar o selector **Enforce 2FA para todos os membros da equipa**.
-5. Clique em **Save Settings (Guardar Definições)**.
+3. Ative a caixa de verificação **Forçar 2FA para todos os membros da equipa**.
+    ![Forçar autenticação de dois fatores para toda a equipa](images/enforce-2fa-for-all-users.png)
+
+4. Clique em **Guardar Definições**.
 
 ## Como funciona a autenticação de dois factores
 

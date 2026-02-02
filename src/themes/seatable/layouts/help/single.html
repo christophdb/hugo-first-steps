@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <section class="max-container padding mx-auto w-full" data-pagefind-body>
+    <section class="max-container padding help mx-auto w-full" data-pagefind-body>
         <article class="">
             {{ partial "breadcrumbs-docs.html" . .Section }}
 
@@ -7,7 +7,7 @@
             <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
             <div class="justify-left post mt-16 flex w-full gap-12 md:flex-row">
                 <!-- max width of the blog posts is 768px -> image optimization -->
-                <div class="post-content w-full max-w-3xl lg:w-3/4">
+                <div class="post-content help-content w-full max-w-3xl lg:w-3/4">
                     <!-- table of content for smaller resolutions -->
                     <div class="order-first block px-0 pb-8 lg:order-last lg:hidden">
                         <div class="lg:top-10 print:hidden">{{ partial "toc.html" . }}</div>
