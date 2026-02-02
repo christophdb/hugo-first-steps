@@ -9,24 +9,25 @@ url: '/de/hilfe/bases-in-der-teamverwaltung'
 seo:
     title: 'Bases in der Teamverwaltung – Übersicht & Admin-Optionen'
     description: 'Lernen Sie, wie Team-Admins alle Bases verwalten: Details einsehen, Freigaben prüfen, Links, Papierkorb und Zugriffsrechte steuern.'
+weight: 1
 ---
 
 Wenn Sie **Team-Administrator** sind, haben Sie über die **Teamverwaltung** Zugriff auf alle Bases in Ihrem Team. Sie können die Detailansicht der einzelnen Bases aufrufen, Freigaben und Links der Bases einsehen oder Bases löschen.
 
 ## So greifen Sie auf die Bases in der Teamverwaltung zu
 
-![Bases in der Teamverwaltung](images/bases-in-der-teamverwaltung.gif)
-
 1. Klicken Sie auf Ihr **Avatar-Bild** in der rechten oberen Ecke.
 2. Wählen Sie im Drop-down-Menü die Option **Teamverwaltung** aus.
 3. Gehen Sie auf der linken Seite unter **Navigation** auf **Bases**.
+    ![Navigieren Sie zur Übersicht aller Bases in der Teamverwaltung](/images/open-bases.png)
+
 4. Klicken Sie auf eine **Base**, um mehr Informationen und Optionen zur jeweiligen Base zu erhalten.
 
 ## Was Sie in der Detailansicht einer Base sehen können
 
 ### Info-Bereich
 
-![Basedetailanzeige](images/Basedetailanzeige-1.png)
+![Detailansicht einer Base](images/base-details-info.png)
 
 Hier können Sie folgende **Informationen** auslesen:
 
@@ -38,23 +39,25 @@ Hier können Sie folgende **Informationen** auslesen:
 
 Sie können die ausgewählte **Base exportieren**, indem Sie auf den entsprechenden Button klicken.
 
-### Zugriff
+### Zugriff (Web)
 
 Hier können Sie alle **Mitglieder** sehen, die auf diese Base **Zugriff** haben und ob diese über **Lese- oder Schreibrechte** verfügen.
 
-![Zugriff](images/Access-1.png)
+![Auflistung aller Zugriffsberechtigungen](images/base-details-access-web.png)
+
+### Zugriff (API)
+
+Wenn für diese Base bereits ein oder mehrere API-Token erzeugt wurden, können Sie die API-Token in diesem Bereich einsehen.
 
 ### Links
 
 Bei **Links** können Sie alle Links sehen, die für die ausgewählte Base generiert wurden.
 
-![Verlinkungen](images/Links-1.png)
+![Alle existierenden Verlinkungen einer Base](images/base-details-links.png)
 
 ### Löschen
 
 Unter **Löschen** haben Sie die Möglichkeit, die ausgewählte Base zu löschen.
-
-![Löschen](images/Delete-1.png)
 
 ## Der Papierkorb
 

@@ -32,7 +32,7 @@ Si permite compartir bases mediante enlaces de invitación, los miembros de su e
 
 Un enlace de invitación también puede **duplicarse** tantas veces como se desee y da acceso al **contenido de la base** a todas las personas que tengan acceso al enlace. Si desea restringir esta opción de uso compartido, desactive el control deslizante **Permitir compartir bases mediante enlace de** invitación. Verá el siguiente mensaje para los enlaces:
 
-![Mensaje de error Enlace de invitación en la administración del equipo](images/Fehlermeldung-EInladungslink.png)
+![Mensaje de error Enlace de invitación en la administración del equipo](images/invitation-link-deactivated.png)
 
 Todos los enlaces de **invitación** creados anteriormente por el equipo dejarán **de** **funcionar.** Puedes seguir creando enlaces de invitación, pero el destinatario no tendrá acceso a la base.
 

@@ -11,24 +11,25 @@ aliases:
 seo:
     title: 'Bases in team administration – overview & permissions'
     description: 'See how team admins manage all bases: view details, access rights, shares, exported links and restore or delete bases in seconds.'
+weight: 1
 ---
 
 If you are a **team administrator**, you can access all the bases in your team through the **team administration**. You can view the details of each base, see base shares and links, or delete bases.
 
 ## How to access the bases in the team administration
 
-![Bases in the team administration](images/bases-in-der-teamverwaltung.gif)
-
 1. Click your **avatar image** in the upper right corner.
 2. Select the **Team administration** option from the drop-down menu.
 3. Go to **bases** on the left side under **Navigation**.
+    ![Navigate to the overview of all bases in Team Management](/images/open-bases.png)
+
 4. Click on a **base** to get more information and options about that base.
 
 ## What you can see in the detailed view of a base
 
 ### Info area
 
-![Basedetail display](images/Basedetailanzeige-1.png)
+![Detail view of a base](images/base-details-info.png)
 
 Here you can read out the following **information**:
 
@@ -40,23 +41,25 @@ Here you can read out the following **information**:
 
 You can **export** the selected **base** by clicking the corresponding button.
 
-### Access
+### Access (Web)
 
 Here you can see all **members** who have **access to** this base and whether they have **read or write permissions**.
 
-![Access](images/Access-1.png)
+![List of all access permissions](images/base-details-access-web.png)
+
+### Access (API)
+
+If one or more API tokens have already been generated for this base, you can view the API tokens in this section.
 
 ### Links
 
 In **Links** you can see all links generated for the selected base.
 
-![Links](images/Links-1.png)
+![All existing links of a base](images/base-details-links.png)
 
 ### Delete
 
 Under **Delete** you have the option to delete the selected base.
-
-![Delete](images/Delete-1.png)
 
 ## Trash
 

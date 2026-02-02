@@ -30,7 +30,7 @@ Wenn Sie die Freigabe von Bases per Einladungslink erlauben, können Ihre Teammi
 
 Ein Einladungs-Link kann zudem beliebig oft **vervielfältigt** werden und gibt jedem, der Zugriff auf den Link hat, auch **Zugriff auf die Inhalte der Base**. Wenn Sie diese Freigabe-Option einschränken möchten, dann deaktivieren Sie den Regler **Freigabe von Bases per Einladungslink erlauben**. Bei den Links sehen Sie folgende Meldung:
 
-![Fehlermeldung Einladungslink in der Teamverwaltung](images/Fehlermeldung-EInladungslink.png)
+![Fehlermeldung Einladungslink in der Teamverwaltung](images/invitation-link-deactivated.png)
 
 Alle zuvor vom Team erstellten **Einladungslinks funktionieren** dann **nicht mehr**. Sie können zwar weiterhin Einladungslinks erstellen, aber der Empfänger erhält darüber keinen Base-Zugriff.
 
