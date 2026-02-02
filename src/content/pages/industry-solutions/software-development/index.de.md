@@ -3,7 +3,7 @@ title: 'IT Service Management mit SeaTable: Effizient und flexibel'
 description: ''
 seo:
     title: 'IT Service Management - flexibel & skalierbar | SeaTable'
-    description: 'Optimieren Sie Ihr IT Service Management mit SeaTable: No-Code Plattform für flexible Workflows, Automatisierung und DSGVO-konforme ITSM Prozesse.'
+    description: 'Optimieren Sie Ihr IT Service Management: No-Code Plattform mit nativer KI, flexiblen Workflows und DSGVO-konformen ITSM Prozessen'
 date: '2025-04-03'
 url: '/de/it-service-management'
 
@@ -12,7 +12,7 @@ sections:
       weight: 1
       subtitle: Die No-Code Lösung für Ihre IT Organisation
       title: IT Service Management mit SeaTable
-      text: In einer zunehmend digitalisierten Welt ist ein effizientes und flexibles IT Service Management (ITSM) unerlässlich, um die komplexen Anforderungen moderner IT Organisationen zu bewältigen. Mit SeaTable gestalten Sie Ihre ITSM Prozesse flexibel und sicher – ohne Kompromisse bei Compliance und Innovation!
+      text: text: In einer zunehmend digitalisierten Welt ist ein effizientes und flexibles IT Service Management (ITSM) unerlässlich. Ab SeaTable 6.0 nutzen Sie jetzt die volle Power von Künstlicher Intelligenz direkt in Ihren Tabellen, um ITSM Prozesse smarter und sicherer zu gestalten – ohne Kompromisse bei Compliance und Innovation!
       classes:
           - bg-gray-200
       template: 51d678ca8b004e9b9b79
