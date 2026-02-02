@@ -19,20 +19,19 @@ You can change this ID in just a few steps via the team administration.
 
 ## Changing the User ID
 
-1. Open the **Team administration**.
+1. Open the **Team Management**.
+   ![Opening the Team Management](images/open-the-team-verwaltung.png)
+   
+2. Click on the **Team** tab.
+   ![Open the Team tab in Team Management](images/open-reiter-team.png)
+   
+3. Select a **User**.
 
-![Open the team administration](images/open-the-team-verwaltung.png)
+4. Enter a new **User ID** into the designated text field.
+   ![Entering the new User ID into the text field](images/type-user-id.png)
+   
+5. Confirm with **Save Changes**.
 
-3. Click on the **Team** tab.
-
-![Open the Team tab in team administration](images/open-reiter-team.png)
-
-5. Select a **user**.
-6. Enter a new **user ID** in the text box provided.
-
-![Enter the new user ID in the text field](images/type-user-id.png)
-
-8. Confirm with **Save changes**.
 
 {{< warning headline="Important notes" >}}
 

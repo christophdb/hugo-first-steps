@@ -19,20 +19,19 @@ Pode alterar este ID em apenas alguns passos através da administração da equi
 
 ## Alterar o ID do utilizador
 
-1. Abrir a **administração da equipa**.
+1. Abra a **Gestão de Equipa**.
+   ![Abertura da Gestão de Equipa](images/open-the-team-verwaltung.png)
+   
+2. Clique na aba **Equipa**.
+   ![Abra a aba Equipa na Gestão de Equipa](images/open-reiter-team.png)
+   
+3. Selecione um **Utilizador**.
 
-![Abrir a gestão da equipa](images/open-the-team-verwaltung.png)
+4. Insira um novo **ID de Utilizador** no campo de texto respetivo.
+   ![Inserção do novo ID de Utilizador no campo de texto](images/type-user-id.png)
+   
+5. Confirme com **Guardar Alterações**.
 
-3. Clique no separador **Equipa**.
-
-![Abrir o separador Equipa na administração da equipa](images/open-reiter-team.png)
-
-5. Seleccionar um **utilizador**.
-6. Introduza um novo **ID de utilizador** no campo de texto fornecido.
-
-![Introduzir o novo ID de utilizador no campo de texto](images/type-user-id.png)
-
-8. Confirmar com **Guardar alterações**.
 
 {{< warning headline="Notas importantes" >}}
 

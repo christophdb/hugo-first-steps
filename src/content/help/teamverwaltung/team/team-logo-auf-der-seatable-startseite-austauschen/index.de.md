@@ -23,7 +23,13 @@ Durch die Platzierung ihres Firmen-Logos können Nutzer mit Enterprise-Abonnemen
 ## Das Team-Logo auf der SeaTable Startseite austauschen
 
 1. Wechseln Sie in die **Teamverwaltung**.
-![Wechseln Sie in die Teamverwaltung](images/open-team-admin.png)3. Klicken Sie auf den Menüpunkt **Team**.
-![Klicken Sie auf den Menüpunkt Team](images/open-team-section.png)5. Öffnen Sie die **Einstellungen**.
-![Öffnen der Einstellungen](images/open-settings.png)7. Laden Sie im Bereich **Team-Logo** das gewünschte Logo hoch und speichern Sie die Änderungen mit **Einstellungen speichern**.
+  
+  ![Wechseln Sie in die Teamverwaltung](images/open-team-admin.png)
+
+2. Klicken Sie auf den Menüpunkt **Team** und dann auf **Einstellungen**.
+
+  ![Klicken Sie auf den Menüpunkt Team](images/open-team-section.png)
+
+3. Laden Sie im Bereich **Team-Logo** das gewünschte Logo hoch und speichern Sie die Änderungen mit **Einstellungen speichern**.
+
 ![Laden Sie das gewünschte Team-Logo hoch und speichern Sie die Änderungen](images/upload-team-logo.png)
