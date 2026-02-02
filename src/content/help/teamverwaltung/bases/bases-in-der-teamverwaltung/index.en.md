@@ -20,7 +20,7 @@ If you are a **team administrator**, you can access all the bases in your team t
 
 1. Click your **avatar image** in the upper right corner.
 2. Select the **Team administration** option from the drop-down menu.
-3. Go to **bases** on the left side under **Navigation**.
+3. In the **Navigation**, click on **Bases**.
     ![Navigate to the overview of all bases in Team Management](/images/open-bases.png)
 
 4. Click on a **base** to get more information and options about that base.

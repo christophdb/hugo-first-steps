@@ -16,10 +16,11 @@ In der **Teamverwaltung** können Sie alle **Zugriffsberechtigungen** für eine 
 
 ## Einsehen der Zugriffsberechtigungen
 
-![Alle Zugriffsmöglichkeiten einer Base einsehen](images/Alle-Zugriffsmoeglichkeiten-einer-Base-einsehen-1.gif)
-
 1. Klicken Sie auf Ihr **Avatar-Bild** in der rechten oberen Ecke.
 2. Wählen Sie im Drop-down-Menü die Option **Teamverwaltung**.
-3. Gehen Sie auf der linken Seite unter **Navigation** auf **Bases**.
+3. Klicken Sie in der **Navigation** auf **Bases**.
+    ![Navigieren Sie zur Übersicht aller Bases in der Teamverwaltung](/images/open-bases.png)
+
 4. Klicken Sie auf die Base, deren **Zugriffsinformationen** Sie einsehen möchten.
 5. Wählen Sie die Option **Zugriff** unter der Überschrift aus. Hier können Sie alle zugriffsbefugten Personen und ihre Rechte sehen.
+    ![Navigieren Sie zur Übersicht aller Bases in der Teamverwaltung](/images/base-details-access-web.png)

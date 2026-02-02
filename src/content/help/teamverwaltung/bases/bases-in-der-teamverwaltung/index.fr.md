@@ -20,7 +20,7 @@ Si vous êtes **administrateur d'équipe**, vous avez accès à toutes les bases
 
 1. Cliquez sur l'**image de** votre **avatar** dans le coin supérieur droit.
 2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
-3. Sur le côté gauche, sous **Navigation**, allez sur **Bases**.
+3. Dans la **Navigation**, cliquez sur **Bases**.
     ![Naviguez vers l'aperçu de toutes les bases dans la Gestion d'équipe](/images/open-bases.png)
 
 4. Cliquez sur une **base** pour obtenir plus d'informations et d'options sur la base en question.

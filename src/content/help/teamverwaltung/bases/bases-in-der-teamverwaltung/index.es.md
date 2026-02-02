@@ -20,7 +20,7 @@ Si eres **administrador de un** equipo, tienes acceso a todas las bases de tu eq
 
 1. Haz clic en la **imagen de** tu **avatar** en la esquina superior derecha.
 2. Seleccione **Gestión de equipos** en el menú desplegable.
-3. Vaya a **Bases** en el lado izquierdo bajo **Navegación**.
+3. En la **Navegación**, haga clic en **Bases**.
     ![Navegue a la vista general de todas las bases en Gestión de equipo](/images/open-bases.png)
 
 4. Haga clic en una **base** para obtener más información y opciones para esa base.

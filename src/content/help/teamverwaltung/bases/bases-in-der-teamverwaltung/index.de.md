@@ -18,7 +18,7 @@ Wenn Sie **Team-Administrator** sind, haben Sie über die **Teamverwaltung** Zug
 
 1. Klicken Sie auf Ihr **Avatar-Bild** in der rechten oberen Ecke.
 2. Wählen Sie im Drop-down-Menü die Option **Teamverwaltung** aus.
-3. Gehen Sie auf der linken Seite unter **Navigation** auf **Bases**.
+3. Klicken Sie in der **Navigation** auf **Bases**.
     ![Navigieren Sie zur Übersicht aller Bases in der Teamverwaltung](/images/open-bases.png)
 
 4. Klicken Sie auf eine **Base**, um mehr Informationen und Optionen zur jeweiligen Base zu erhalten.

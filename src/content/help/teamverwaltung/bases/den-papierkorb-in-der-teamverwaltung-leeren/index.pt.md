@@ -16,10 +16,10 @@ seo:
 
 Após **30 dias**, as bases apagadas são **automaticamente** removidas do sistema. No entanto, também pode apagar permanentemente as bases **manualmente**, **esvaziando o caixote do lixo da reciclagem na administração da equipa**.
 
-![Esvaziar o Contentor de Reciclagem](images/Den-Papierkorb-leeren.gif)
-
 1. Clique na **imagem do** seu **avatar** no canto superior direito.
 2. Seleccione **Gestão de Equipas** a partir do menu pendente.
-3. Ir para **Bases** do lado esquerdo em **Navegação**.
-4. Clique na categoria **Lixeira** sob o título.
-5. Desça e clique em **Eliminar permanentemente todas as bases no caixote do lixo da reciclagem**.
+3. Na **Navegação**, vá a **Bases** e depois a **Lixo**
+    ![Navegue para o lixo](/images/open-trash.png)
+
+4. Agora vê o resumo de todas as bases já eliminadas das suas equipas. Pode agora restaurar bases individuais ou esvaziar completamente o lixo.
+    ![Esvaziar lixo ou restaurar bases individuais](/images/bases-in-trash.png)

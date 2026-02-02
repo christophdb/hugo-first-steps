@@ -14,10 +14,10 @@ seo:
 
 Nach **30 Tagen** werden gelöschte Bases **automatisch** aus dem System entfernt. Sie können die Bases aber auch **manuell** endgültig löschen, indem Sie den **Papierkorb in der Teamverwaltung leeren**.
 
-![Den Papierkorb leeren](images/Den-Papierkorb-leeren.gif)
-
 1. Klicken Sie auf Ihr **Avatar-Bild** in der rechten oberen Ecke.
 2. Wählen Sie aus dem Drop-down-Menü die Option **Teamverwaltung**.
-3. Gehen Sie auf der linken Seite unter **Navigation** auf **Bases**.
-4. Klicken Sie unter der Überschrift auf die Kategorie **Papierkorb**.
-5. Scrollen Sie nach unten und klicken Sie auf **Alle Bases im Papierkorb endgültig löschen**.
+3. Gehen Sie in der **Navigation** auf **Bases** und dann auf **Papierkorb**
+    ![Navigieren Sie zum Papierkorb](/images/open-trash.png)
+
+4. Sie sehen nun die Übersicht aller bereits gelöschten Bases Ihrer Teams. Sie können nun einzelne Bases wiederherstellen oder den Papierkorb vollständig löschen.
+    ![Papierkorb leeren oder einzelne Bases wiederherstellen](/images/bases-in-trash.png)
