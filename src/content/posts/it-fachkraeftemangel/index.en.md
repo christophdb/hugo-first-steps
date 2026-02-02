@@ -83,7 +83,7 @@ In this way, employees in your specialist departments can develop **applications
 Since most no-code platforms are [cloud solutions]({{< relref "posts/cloud-computing" >}}) that do not require you to have your own server infrastructure, many tasks that normally require IT administrators are also eliminated. Nevertheless, **no-code developers** are of course required to implement and maintain the no-code platform and to be available to citizen developers as contact persons. To prevent uncontrolled no-code shadow IT, there should be a central **no-code strategy** that the IT department must develop and implement. This includes the training of at least one citizen developer per department, a transparent overview of all applications and an understanding of IT's role as a partner at eye level.
 
 {{< warning headline="What is shadow IT?" >}}
-If specialist departments are dissatisfied with the official IT systems, they may look for other solutions without the knowledge of the IT department. This can result in shadow IT in the company, which is beyond any control and harbors major risks in terms of IT compliance and IT security. Transparent [No Code Development]({{< relref "posts/20250307-low-code" >}}) can prevent this.
+If specialist departments are dissatisfied with the official IT systems, they may look for other solutions without the knowledge of the IT department. This can result in [shadow IT]({{< relref "posts/schatten-it" >}}) in the company, which is beyond any control and harbors major risks in terms of IT compliance and IT security. Transparent [No Code Development]({{< relref "posts/20250307-low-code" >}}) can prevent this.
 {{< /warning >}}
 
 ### Advantages of No Code for your company

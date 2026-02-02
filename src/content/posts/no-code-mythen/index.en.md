@@ -72,11 +72,7 @@ Subscribe to our newsletter and receive regular tips and updates on no-code deve
 ## FAQ - No-code development
 
 {{< faq "What is Citizen Development?" >}}
-No-code tools allow employees outside the IT department to create their own applications for a specific need. If this is done without consultation with IT, it is referred to as shadow IT. Citizen development, on the other hand, refers to a structured approach in which these employees work together with the IT department and follow clear guidelines to ensure security and compliance.
-{{< /faq >}}
-
-{{< faq "What is shadow IT?" >}}
-Shadow IT is when specialist departments within a company use their own solutions without the knowledge of the IT department. It harbors high risks in terms of data protection, data security and compliance rules. It also undermines the company's entire IT architecture, as these applications cannot be taken into account by IT during tool migrations, updates or support.
+No-code tools allow employees outside the IT department to create their own applications for a specific need. If this is done without consultation with IT, it is referred to as [shadow IT]({{< relref "posts/schatten-it" >}}). Citizen development, on the other hand, refers to a structured approach in which these employees work together with the IT department and follow clear guidelines to ensure security and compliance.
 {{< /faq >}}
 
 {{< faq "What does no-code governance mean?" >}}

@@ -194,7 +194,7 @@ According to an [EY survey](https://www.ittbusiness.at/article/europaeische-unte
 In order to take advantage of the economic opportunities and use artificial intelligence in your company sensibly and safely, a few principles have proven their worth:
   
 - **Human control**: Artificial intelligence should support decisions, but not make them alone. You should not simply believe the results, but always question and check them.  
-- **Transparency**: Clearly communicate the framework conditions for the use of AI to your employees. This will help you avoid creating a shadow IT that you know nothing about. The interaction with AI must also be made clear to customers.
+- **Transparency**: Clearly communicate the framework conditions for the use of AI to your employees. This will help you avoid creating a [shadow IT]({{< relref "posts/schatten-it" >}}) that you know nothing about. The interaction with AI must also be made clear to customers.
 - **Further training**: AI expertise is increasingly becoming a success factor. Make your employees fit for prompting and clarify the following questions with them: How does artificial intelligence work and where is artificial intelligence used?
 - **Data sovereignty**: If you want to use AI without compromising on [data protection]({{< relref "posts/digitale-souveraenitaet" >}}), it is worth running an AI model on your own servers or at least using [cloud platforms]({{< relref "posts/cloud-computing" >}}) within the EU.
 - **Compliance**: Make sure that the AI systems in your company meet all applicable laws and compliance guidelines, especially the EU AI Act, because in case of doubt you will be liable.

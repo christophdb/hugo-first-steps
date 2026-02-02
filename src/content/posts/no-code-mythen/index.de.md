@@ -70,11 +70,7 @@ Melden Sie sich zu unserem Newsletter an und erhalten Sie regelmäßig Tipps und
 ## FAQ – No-Code-Entwicklung
 
 {{< faq "Was ist Citizen Development?" >}}
-Mit No-Code-Tools können Mitarbeiter außerhalb der IT-Abteilung für einen konkreten Bedarf eigene Anwendungen erstellen. Geschieht dies ohne Absprache mit der IT spricht man von einer Schatten IT. Citizen Development bezeichnet hingegen eine strukturierte Vorgehensweise, bei der diese Mitarbeiter gemeinsam mit der IT-Abteilung arbeiten und klaren Richtlinien folgen, um Sicherheit und Compliance zu gewährleisten.
-{{< /faq >}}
-
-{{< faq "Was ist eine Schatten-IT?" >}}
-Von einer Schatten-IT spricht man, wenn Fachabteilungen innerhalb eines Unternehmens ohne Kenntnis der IT-Abteilung eigene Lösungen nutzen. Sie birgt hohe Risiken hinsichtlich Datenschutz, Datensicherheit und Compliance-Regeln. Zudem wird dadurch die gesamte IT-Architektur des Unternehmens untergraben, da diese Anwendungen von der IT nicht bei Toolmigrationen, Updates oder Support berücksichtigt werden können.
+Mit No-Code-Tools können Mitarbeiter außerhalb der IT-Abteilung für einen konkreten Bedarf eigene Anwendungen erstellen. Geschieht dies ohne Absprache mit der IT spricht man von einer [Schatten IT]({{< relref "posts/schatten-it" >}}). Citizen Development bezeichnet hingegen eine strukturierte Vorgehensweise, bei der diese Mitarbeiter gemeinsam mit der IT-Abteilung arbeiten und klaren Richtlinien folgen, um Sicherheit und Compliance zu gewährleisten.
 {{< /faq >}}
 
 {{< faq "Was bedeutet No-Code-Governance?" >}}
