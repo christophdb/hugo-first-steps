@@ -20,7 +20,7 @@ Learn all about the possible roles in a group in the article [Group members and 
 
 ## Change the membership and roles in a group
 
-![Manage group members in team administration](images/Gruppe-verwalten.png)
+![Manage group members in team administration](images/group-management.png)
 
 1. Switch to the **team administration**.
 2. Click on the **Team** menu item.

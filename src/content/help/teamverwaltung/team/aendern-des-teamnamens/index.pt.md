@@ -21,11 +21,12 @@ Como administrador da equipa, pode mudar o nome da sua equipa na **administraç�
 
 1. Clique no seu **perfil** no canto superior direito.
 2. Seleccione **Gestão de Equipas** a partir do menu pendente.
-3. Clique na opção **Equipa** em **Navegação** no lado esquerdo.
-4. Clique em **Definições**. Encontrará esta opção abaixo do título.
-5. Introduza o **nome da equipa**.
-6. Clique em **Save Settings (Guardar Definições)**.
+3. Na **Navegação**, clique em **Equipa** e selecione a categoria **Definições**.
+    ![Vá para Definições na Gestão de Equipa](images/open-settings.png)
 
-![Mudar o nome da equipa](images/aendern-des-teamnamens.gif)
+4. Insira o **Nome da Equipa**.
+    ![Alterar o nome da equipa](images/rename-team.png)
+    
+5. Clique em **Guardar Definições**.
 
 {{< warning  headline="Nota"  text="Pode introduzir um máximo de 40 sinais de pontuação como nomes de equipas e usar caracteres especiais." />}}

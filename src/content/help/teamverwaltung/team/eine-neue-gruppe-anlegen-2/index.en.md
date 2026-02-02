@@ -17,12 +17,15 @@ seo:
 As a team administrator, you can create new groups in the team administration. To do this, follow these instructions:
 
 1. Switch to the **team administration**.
-2. Click on the **Team** menu item under **Navigation**.
-3. Select the **Groups** category.
-4. Scroll all the way down and click the **Create Group** button.
-5. Set the **name of** the group.
-6. Select the **team members** to belong to the group by setting their role from **none** to **member** or **admin**.
-7. Click **Create Group**.
+2. Under **Navigation**, click on the menu item **Team**, select the **Groups** category.
+    ![Switch to Team Management and open the Groups section](images/open-group.png)
+
+3. Click on the **Create Group** button.
+4. Set the **Name** of the group.
+5. Select the **Team Members** that should belong to the group by changing their role from **none** to **Member** or **Admin**.
+    ![Assign the desired role to team members in the group](images/create-group.png)
+
+6. Click **Create Group**.
 
 {{< warning  headline="Note"  text="You must select **at least one group member for** a new group to be created." />}}
 

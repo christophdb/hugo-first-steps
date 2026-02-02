@@ -24,18 +24,14 @@ Ao colocar o logótipo da sua empresa, os utilizadores com uma subscrição Ente
 
 ## Substituir o logótipo da equipa na página inicial do SeaTable
 
-1. Mudar para a **administração da equipa**.
+1. Mude para a **Gestão de Equipe**.
 
-![Mudar para a administração da equipa](images/open-team-admin.png)
+  ![Mude para a Gestão de Equipe](images/open-team-admin.png)
 
-3. Clique no item do menu **Equipa**.
+2. Clique no item de menu **Equipe** e depois em **Configurações**.
 
-![Clicar no item de menu Equipa](images/open-team-section.png)
+  ![Clique no item de menu Equipe](images/open-team-section.png)
 
-5. Abrir as **definições**.
+3. Na seção **Logo da Equipe**, carregue o logo desejado e salve as alterações com **Salvar Configurações**.
 
-![Abrir as definições](images/open-settings.png)
-
-7. Carregue o logótipo pretendido na área **Logótipo da equipa** e guarde as alterações com **Guardar definições**.
-
-![Carregue o logótipo da equipa pretendido e guarde as alterações](images/upload-team-logo.png)
+  ![Carregue o logo da equipe desejado e salve as alterações](images/upload-team-logo.png)

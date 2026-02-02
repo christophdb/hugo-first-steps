@@ -17,10 +17,16 @@ Um Teammitglieder zu sperren oder zu löschen, müssen Sie **Administrationsbere
 ## Sperren eines Teammitglieds
 
 1. Wechseln Sie in die **Teamverwaltung**.
-   ![Wechseln Sie in die Teamverwaltung](images/open-team-admin.png)3. Klicken Sie auf den Menüpunkt **Team**.
-   ![Klicken Sie auf den Menüpunkt Team](images/open-team-section.png)5. Wählen Sie das **Teammitglied** aus.
-   ![Auswahl des Teammitglieds](images/select-user-to-deactivate.png)7. Ein neues Fenster öffnet sich. Aktivieren Sie in der Kategorie **Person** den Regler **Benutzer deaktivieren** und speichern Sie die Änderungen.
-   ![Deaktivieren des Benutzers und speichern der Änderungen](images/deactivate-user-and-save.png)
+   ![Wechseln Sie in die Teamverwaltung](images/open-team-admin.png)
+   
+2. Klicken Sie auf den Menüpunkt **Team**, wählen Sie dann **Benutzer**.
+   ![Klicken Sie auf den Menüpunkt Team](images/open-team-section.png)
+   
+3. Wählen Sie das **Teammitglied** aus.
+
+4. Ändern Sie den Status des Teammitglieds von **Aktiv** auf **Inaktiv** und speichern Sie die Änderungen.
+
+    ![Deaktivieren des Benutzers und speichern der Änderungen](images/deactivate-user-and-save.png)
 
 Sobald sich das gesperrte Teammitglied versucht einzuloggen, wird folgende Fehlermeldung angezeigt:
 
@@ -31,9 +37,8 @@ Sobald sich das gesperrte Teammitglied versucht einzuloggen, wird folgende Fehle
 1. Wechseln Sie in die **Teamverwaltung**.
 2. Klicken Sie auf den Menüpunkt **Team**.
 3. Wählen Sie das **Teammitglied** aus.
-4. Ein neues Fenster öffnet sich. Wählen Sie die Kategorie **Löschen** aus.
-5. Aktivieren Sie den Regler **Wirklich löschen?**.
-6. Klicken Sie auf **Teammitglied löschen**.
+4. Klicken Sie auf den Tab **Benutzer löschen**.
+5. Bestätigen Sie die Löschung.
 
 ## Häufige Fragen
 

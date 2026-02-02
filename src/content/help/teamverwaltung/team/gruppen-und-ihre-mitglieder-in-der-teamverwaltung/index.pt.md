@@ -20,7 +20,7 @@ Saiba tudo sobre os possíveis papéis num grupo no artigo [Membros do grupo e a
 
 ## Mudar a composição e os papéis num grupo
 
-![Gerir os membros do grupo na administração da equipa](images/Gruppe-verwalten.png)
+![Gerir os membros do grupo na administração da equipa](images/group-management.png)
 
 1. Mudar para a **administração da equipa**.
 2. Clique no item do menu **Equipa**.

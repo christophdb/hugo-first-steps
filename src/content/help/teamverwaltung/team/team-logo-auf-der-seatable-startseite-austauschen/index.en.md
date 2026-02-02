@@ -24,18 +24,14 @@ By placing their company logo, Enterprise subscription users can customize the u
 
 ## Replace the team logo on the SeaTable home page
 
-1. Switch to the **team administration**.
+1. Switch to the **Team Management**.
 
-![Switch to the team administration](images/open-team-admin.png)
+  ![Switch to the Team Management](images/open-team-admin.png)
 
-3. Click on the **Team** menu item.
+2. Click on the menu item **Team** and then on **Settings**.
 
-![Click on the menu item Team](images/open-team-section.png)
+  ![Click on the Team menu item](images/open-team-section.png)
 
-5. Open the **settings**.
+3. In the **Team Logo** section, upload the desired logo and save the changes with **Save Settings**.
 
-![Open the settings](images/open-settings.png)
-
-7. In the **Team Logo** section, upload the desired logo and save the changes with **Save Settings**.
-
-![Upload the desired team logo and save the changes](images/upload-team-logo.png)
+  ![Upload the desired Team Logo and save the changes](images/upload-team-logo.png)

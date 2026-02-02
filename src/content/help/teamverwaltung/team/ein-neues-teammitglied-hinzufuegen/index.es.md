@@ -22,31 +22,34 @@ Como **administrador** del equipo, puede crear nuevos miembros del equipo a trav
 
 1. Haga clic en su **perfil** en la esquina superior derecha.
 2. Seleccione **Gestión de equipos** en el menú desplegable.
-3. Haga clic en la opción **Equipo** del menú **Navegación**.
-4. Haga clic en el botón **Añadir miembro del equipo**.
-5. Se abre una nueva ventana. Establezca el **nombre de usuario**.
-6. Introduzca la **dirección de correo electrónico de** la persona que desea añadir como miembro del equipo.
-7. Establezca **su propia contraseña** o genere una **contraseña automática** dejando la entrada en blanco.
-8. Seleccione el **idioma** en el que se va a escribir el correo electrónico.
-9. Haga clic en **Añadir miembro del equipo**.
+3. En **Navegación**, haga clic en el elemento del menú **Equipo**, seleccione la categoría **Usuarios**.
+    ![Cambie a la Gestión de equipo y abra la sección Usuarios](images/open-team.png)
+
+4. Haga clic en el botón **Agregar miembro del equipo**.
+5. Introduzca el **Nombre** y la **Dirección de correo electrónico** de la persona que desea agregar como miembro del equipo.
+    ![Introduzca el nombre y la dirección de correo electrónico del nuevo miembro del equipo](images/add-team-member-basic-info.png)
+
+6. Seleccione el **Idioma** en el que desea recibir correos electrónicos en el futuro.
 
 {{< warning  headline="Atención" >}}
 
-**No puede** añadir a un **miembro del equipo** que ya haya creado otra cuenta SeaTable **con la misma** dirección de correo electrónico. Para crear una cuenta con esta dirección de correo electrónico, este usuario debe hacer una copia de seguridad de todos sus datos (por ejemplo, [exportar]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) como [archivo DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) y eliminar su cuenta anterior. Puede encontrar más información al respecto en el artículo ¿Se pueden [fusionar dos cuentas SeaTable?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
+**No puede** añadir a un **miembro del equipo** que ya haya creado otra cuenta SeaTable **con la misma** dirección de correo electrónico. Para crear una cuenta con esta dirección de correo electrónico, este usuario debe hacer una copia de seguridad de todos sus datos (por ejemplo, [exportar]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) como [archivo DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) y eliminar su cuenta anterior. Puede encontrar más información al respecto en el artículo ¿Se pueden [fusionar dos cuentas SeaTable?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
 
 {{< /warning >}}
 
-## Otras opciones al crear un miembro del equipo
+### Opciones de seguridad
 
-Puede configurar las siguientes **opciones de** seguridad activando los controles correspondientes:
+Puede establecer adicionalmente las siguientes **opciones de seguridad**:
 
-- Decide si el nuevo miembro del equipo debe convertirse en **administrador** del mismo.
-- Decida si el nuevo miembro de su equipo debe pasar por **la autenticación de 2 factores**.
+- Decida si su nuevo miembro del equipo debe convertirse en **Administrador** del equipo.
+- Decida si su nuevo miembro del equipo debe pasar por una **Autenticación de 2 factores**.
 
-![Miembro del equipo que añade seguridad](images/Security_Teammitglied-hinzufuegen.png)
+![Seleccione la configuración de seguridad adecuada](images/add-team-member-security.png)
 
-En la pestaña **Grupos**, puede seleccionar los grupos respectivos y determinar el papel que el nuevo miembro del equipo debe tener en el grupo: **ninguno**, **miembro** o **administrador**. Si selecciona una de las dos últimas opciones, añadirá el nuevo miembro del equipo a los grupos.
+### Pertenencia a grupos
 
-![Añadir miembro del equipo - Ajustes del grupo](images/gruppen_teammitglied-hinzufuegen.png)
+En la sección **Grupos**, puede seleccionar los grupos respectivos y determinar el rol que debe tener su nuevo miembro del equipo en el grupo: **ninguno**, **Miembro** o **Admin**. Al seleccionar una de las dos últimas opciones, agrega al nuevo miembro del equipo a los grupos.
+
+![Seleccione los grupos a los que debe pertenecer el miembro del equipo](images/add-team-member-group-membership.png)
 
 {{< warning  headline="Nota"  text="Una vez que la persona que ha añadido **confirma** el **correo electrónico**, se registra automáticamente en SeaTable y aparece como parte de su equipo." />}}

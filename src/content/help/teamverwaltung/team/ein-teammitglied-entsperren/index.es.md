@@ -28,7 +28,8 @@ Llegados a este punto, el miembro del equipo ya no puede hacer nada por sí mism
 1. Cambia a la **administración del equipo**.
 2. Haga clic en la opción de menú **Equipo**.
 3. Seleccione el **miembro del equipo** bloqueado.
-4. Desactive el control **Desactivar usuario**.
+4. Cambie el estado de **Inactivo** a **Activo**.
 
-![Reactivar el usuario desactivado.](images/enable-disabled-user.png)  
+    ![Reactivar al usuario desactivado.](images/enable-disabled-user.png)
+ 
 Una vez realizado el cambio **guardado** el miembro del equipo puede volver a iniciar sesión en la nube SeaTable o solicitar una nueva contraseña.

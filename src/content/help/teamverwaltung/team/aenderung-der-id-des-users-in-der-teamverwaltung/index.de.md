@@ -18,10 +18,17 @@ Jedes **Benutzerkonto** in SeaTable hat neben dem Namen und der E-Mail-Adresse a
 ## Ändern der User-ID
 
 1. Öffnen Sie die **Teamverwaltung**.
-   ![Öffnen der Teamverwaltung](images/open-the-team-verwaltung.png)3. Klicken Sie auf den Reiter **Team**.
-   ![Öffnen Sie den Reiter Team in der Team-Verwaltung](images/open-reiter-team.png)5. Wählen Sie einen **Benutzer** aus.
-2. Geben Sie eine neue **Benutzer-ID** in das dafür vorgesehene Textfeld ein.
-   ![Eingabe der neuen User-ID in das Textfeld](images/type-user-id.png)8. Bestätigen Sie mit **Änderungen speichern**.
+   ![Öffnen der Teamverwaltung](images/open-the-team-verwaltung.png)
+   
+2. Klicken Sie auf den Reiter **Team**.
+   ![Öffnen Sie den Reiter Team in der Team-Verwaltung](images/open-reiter-team.png)
+   
+3. Wählen Sie einen **Benutzer** aus.
+
+4. Geben Sie eine neue **Benutzer-ID** in das dafür vorgesehene Textfeld ein.
+   ![Eingabe der neuen User-ID in das Textfeld](images/type-user-id.png)
+   
+5. Bestätigen Sie mit **Änderungen speichern**.
 
 {{< warning  type="warning" headline="Wichtige Hinweise" >}}
 

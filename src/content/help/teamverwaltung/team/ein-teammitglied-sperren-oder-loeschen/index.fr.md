@@ -19,33 +19,29 @@ Pour bloquer ou supprimer des membres de l'équipe, vous devez disposer de **dro
 ## Suspension d'un membre de l'équipe
 
 1. Passez à l'**administration d'équipe**.
+   ![Passez à la Gestion d'équipe](images/open-team-admin.png)
+   
+2. Cliquez sur l'élément de menu **Équipe**.
+   ![Cliquez sur l'élément de menu Équipe](images/open-team-section.png)
+   
+3. Sélectionnez le **Membre d'équipe**.
 
-![Passez à l'administration d'équipe](images/open-team-admin.png)
+4. Changez le statut du membre d'équipe de **Actif** à **Inactif** et enregistrez les modifications.
 
-3. Cliquez sur l'option de menu **Équipe**.
+    ![Désactiver l'utilisateur et enregistrer les modifications](images/deactivate-user-and-save.png)
 
-![Cliquez sur l'option de menu Équipe](images/open-team-section.png)
+Une fois que le membre d'équipe bloqué tente de se connecter, le message d'erreur suivant s'affiche :
 
-5. Sélectionnez le **membre de l'équipe**.
+![Verrouiller le compte d'un membre - Message d'erreur à la connexion](images/Fehlermeldung-Account-sperren.png)
 
-![Sélection du membre de l'équipe](images/select-user-to-deactivate.png)
+## Supprimer un membre d'équipe
 
-7. Une nouvelle fenêtre s'ouvre. Dans la catégorie **Personne**, activez le curseur **Désactiver l'utilisateur** et enregistrez les modifications.
+1. Passez à la **Gestion d'équipe**.
+2. Cliquez sur l'élément de menu **Équipe**.
+3. Sélectionnez le **Membre d'équipe**.
+4. Cliquez sur l'onglet **Supprimer l'utilisateur**.
+5. Confirmez la suppression.
 
-![Désactiver l'utilisateur et enregistrer les modifications](images/deactivate-user-and-save.png)
-
-Dès que le membre de l'équipe bloqué essaie de se connecter, le message d'erreur suivant s'affiche :
-
-![Bloquer le compte d'un membre - Message d'erreur lors de la connexion](images/Fehlermeldung-Account-sperren.png)
-
-## Supprimer un membre de l'équipe
-
-1. Passez à l'**administration d'équipe**.
-2. Cliquez sur l'option de menu **Équipe**.
-3. Sélectionnez le **membre de l'équipe**.
-4. Une nouvelle fenêtre s'ouvre. Sélectionnez la catégorie **Supprimer**.
-5. Activez le curseur **Supprimer vraiment ?**
-6. Cliquez sur **Supprimer un membre de l'équipe**.
 
 ## Questions fréquentes
 

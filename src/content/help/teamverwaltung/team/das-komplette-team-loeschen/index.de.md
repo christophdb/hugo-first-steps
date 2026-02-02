@@ -18,10 +18,10 @@ Als **Team-Administrator** können Sie Ihr Team mit all seinen Mitgliedern, Base
 
 1. Wechseln Sie in die **Teamverwaltung**.
 2. Klicken Sie auf der linken Seite unter **Navigation** die Option **Abonnement** an.
-3. Scrollen Sie nach unten und klicken Sie auf **Team-Account und alle Daten vollständig löschen**.
+3. Wählen Sie den Tab **Team löschen**.
 4. Bestätigen Sie die Löschung.
 
-![Löschen des gesamten Teams](images/delete-complete-team.png)
+    ![Löschen des gesamten Teams](images/delete-complete-team.png)
 
 ## Was passiert, wenn Sie Ihr Team löschen?
 

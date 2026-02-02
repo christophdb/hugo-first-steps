@@ -22,31 +22,34 @@ As a **team administrator**, you can create new team members via the **team admi
 
 1. Click on your **profile** in the upper right corner.
 2. Select the **Team administration** option from the drop-down menu.
-3. Click on the **Team** menu item under **Navigation**.
-4. Click the **Add Team Member** button.
-5. A new window will open. Set the **user name**.
-6. Enter the **email address of** the person you want to add as a team member.
-7. Set your **own password** or generate an **automatic password** by leaving the input blank.
-8. Select the **language** in which you want the email to be written.
-9. Click **Add Team Member**.
+3. Under **Navigation**, click on the menu item **Team**, select the **Users** category.
+    ![Switch to Team Management and open the Users section](images/open-team.png)
+
+4. Click on the **Add Team Member** button.
+5. Enter the **Name** and **Email Address** of the person you want to add as a team member.
+    ![Enter name and email address of the new team member](images/add-team-member-basic-info.png)
+
+6. Select the **Language** in which you want to receive emails in the future.
 
 {{< warning  headline="Attention" >}}
 
-You **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**. In order to create an account with this email address, this user must back up all their data (e.g. [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) as a [DTABLE file]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) and delete their previous account. You can find out more about this in the article [Can two SeaTable accounts be merged?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
+You **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**. In order to create an account with this email address, this user must back up all their data (e.g. [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) as a [DTABLE file]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) and delete their previous account. You can find out more about this in the article [Can two SeaTable accounts be merged?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
 
 {{< /warning >}}
 
-## Other options when creating a team member
+### Security Options
 
-You can set the following **security options** by activating the corresponding sliders:
+You can additionally set the following **security options**:
 
-- Decide if you want your new team member to become an **administrator of** the team.
-- Decide if you want your new team member to go through **two-factor authentication**.
+- Decide whether your new team member should become a **Administrator** of the team.
+- Decide whether your new team member should undergo **2-Factor Authentication**.
 
-![Add team member security settings](images/Security_Teammitglied-hinzufuegen.png)
+![Select the appropriate security settings](images/add-team-member-security.png)
 
-Under the **Groups** tab you can select the respective groups and determine the role your new team member should have in the group: **none**, **member** or **admin**. Selecting one of the last two options will add the new team member to the groups.
+### Group Membership
 
-![Add Team Member Group Settings](images/gruppen_teammitglied-hinzufuegen.png)
+In the **Groups** section, you can select the respective groups and determine the role your new team member should have in the group: **none**, **Member**, or **Admin**. Selecting one of the last two options adds the new team member to the groups.
+
+![Select the groups the team member should belong to](images/add-team-member-group-membership.png)
 
 {{< warning  headline="Note"  text="Once the person you added **confirms** the **email**, they are automatically logged into SeaTable and listed as part of your team." />}}

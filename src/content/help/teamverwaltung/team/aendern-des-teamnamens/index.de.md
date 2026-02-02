@@ -19,11 +19,12 @@ Als Team-Administrator können Sie in der **Teamverwaltung** den Namen Ihres Tea
 
 1. Klicken Sie auf Ihr **Profil** in der rechten oberen Ecke.
 2. Wählen Sie im Drop-down-Menü die Option **Teamverwaltung**.
-3. Klicken Sie auf der linken Seite unter **Navigation** die Option **Team** an.
-4. Klicken Sie auf **Einstellungen**. Diese Option finden Sie unterhalb der Überschrift.
-5. Geben Sie den **Namen des Teams** ein.
-6. Klicken Sie auf **Einstellungen speichern**.
+3. Klicken Sie in der **Navigation** auf **Team** und wählen Sie die Kategorie **Einstellungen**.
+    ![Gehen Sie in der Teamverwaltung zu Einstellungen](images/open-settings.png)
 
-![Ändern des Teamnamens](images/aendern-des-teamnamens.gif)
+4. Geben Sie den **Namen des Teams**.
+    ![Ändern des Teamnamens](images/rename-team.png)
+
+5. Klicken Sie auf **Einstellungen speichern**.
 
 {{< warning  headline="Hinweis"  text="Sie können maximal 40 Satzzeichen als Teamnamen eingeben und dabei Sonderzeichen verwenden." />}}

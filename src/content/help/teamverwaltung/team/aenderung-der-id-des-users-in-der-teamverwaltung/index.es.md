@@ -19,20 +19,19 @@ Puede cambiar este ID en unos pocos pasos a través de la administración del eq
 
 ## Cambiar el ID de usuario
 
-1. Abre la **administración del equipo**.
+1. Abra la **Gestión de equipo**.
+   ![Apertura de la Gestión de equipo](images/open-the-team-verwaltung.png)
+   
+2. Haga clic en la pestaña **Equipo**.
+   ![Abra la pestaña Equipo en la Gestión de equipo](images/open-reiter-team.png)
+   
+3. Seleccione un **Usuario**.
 
-![Abrir la gestión del equipo](images/open-the-team-verwaltung.png)
+4. Introduzca un nuevo **ID de usuario** en el campo de texto correspondiente.
+   ![Introducción del nuevo ID de usuario en el campo de texto](images/type-user-id.png)
+   
+5. Confirme con **Guardar cambios**.
 
-3. Haga clic en la pestaña **Equipo**.
-
-![Abra la pestaña Equipo en la administración del equipo](images/open-reiter-team.png)
-
-5. Selecciona un **usuario**.
-6. Introduzca un nuevo **ID de usuario** en el campo de texto proporcionado.
-
-![Introduzca el nuevo ID de usuario en el campo de texto](images/type-user-id.png)
-
-8. Confirme con **Guardar cambios**.
 
 {{< warning headline="Notas importantes" >}}
 

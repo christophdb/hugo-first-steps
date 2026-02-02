@@ -17,13 +17,14 @@ En tant qu'administrateur d'équipe, vous pouvez ajouter de nouveaux membres à 
 
 ## Faire des membres de l'équipe des administrateurs
 
-![Faire d'un membre de l'équipe un administrateur](images/Ein-Teammitglied-zum-Administrator-machen.gif)
-
 1. Cliquez sur votre **profil** dans le coin supérieur droit.
 2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
 3. Allez sous **Navigation** sur le point de menu **Équipe**.
 4. Cliquez sur le **membre de l'équipe** auquel vous souhaitez donner des droits d'administration.
-5. Une nouvelle fenêtre s'ouvre. Sous **Sécurité**, activez le curseur **Administrateur**.
+5. Sous **Sécurité**, cochez la case **Accorder les droits d'administrateur**.
+
+    ![Faire d'un membre d'équipe un administrateur](images/grant-admin-permissions.png)
+
 6. Cliquez sur **Enregistrer les modifications**.
 
 ## Les droits d'un administrateur d'équipe

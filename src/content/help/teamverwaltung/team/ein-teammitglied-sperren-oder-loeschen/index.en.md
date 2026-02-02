@@ -18,34 +18,30 @@ To lock or delete team members, you must have **administration permissions**.
 
 ## Blocking a team member
 
-1. Switch to the **team administration**.
+1. Switch to the **Team admin**.
+   ![Switch to the Team admin](images/open-team-admin.png)
+   
+2. Click on the menu item **Team**, then select **Users**.
+   ![Click on the Team menu item](images/open-team-section.png)
+   
+3. Select the **Team Member**.
 
-![Switch to the team administration](images/open-team-admin.png)
+4. Change the team member's status from **Active** to **Inactive** and save the changes.
 
-3. Click on the **Team** menu item.
+    ![Deactivate the user and save the changes](images/deactivate-user-and-save.png)
 
-![Click on the menu item Team](images/open-team-section.png)
+Once the blocked team member tries to log in, the following error message is displayed:
 
-5. Select the **team member**.
+![Lock member account - Error message on login](images/Fehlermeldung-Account-sperren.png)
 
-![Selection of the team member](images/select-user-to-deactivate.png)
+## Delete a Team Member
 
-7. A new window opens. In the **Person** category, activate the **Disable user** slider and save the changes.
+1. Switch to the **Team Management**.
+2. Click on the menu item **Team**.
+3. Select the **Team Member**.
+4. Click on the **Delete User** tab.
+5. Confirm the deletion.
 
-![Deactivate the user and save the changes](images/deactivate-user-and-save.png)
-
-As soon as the locked team member tries to log in, the following error message is displayed:
-
-![Lock member's account error message in LogIn](images/Fehlermeldung-Account-sperren.png)
-
-## Delete a team member
-
-1. Switch to the **team administration**.
-2. Click on the **Team** menu item.
-3. Select the **team member**.
-4. A new window will open. Select the **Delete** category.
-5. Activate the **Really delete?** slider.
-6. Click **Delete Team Member**.
 
 ## Frequently asked questions
 

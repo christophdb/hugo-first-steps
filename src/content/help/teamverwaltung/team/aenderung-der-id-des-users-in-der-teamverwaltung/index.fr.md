@@ -19,20 +19,19 @@ Vous pouvez modifier cet identifiant en quelques étapes seulement via l'adminis
 
 ## Modifier l'ID utilisateur
 
-1. Ouvrez l'**administration d'équipe**.
+1. Ouvrez la **Gestion d'équipe**.
+   ![Ouverture de la Gestion d'équipe](images/open-the-team-verwaltung.png)
+   
+2. Cliquez sur l'onglet **Équipe**.
+   ![Ouvrez l'onglet Équipe dans la Gestion d'équipe](images/open-reiter-team.png)
+   
+3. Sélectionnez un **Utilisateur**.
 
-![Ouvrir l'administration d'équipe](images/open-the-team-verwaltung.png)
+4. Saisissez un nouvel **ID utilisateur** dans le champ de texte prévu à cet effet.
+   ![Saisie du nouvel ID utilisateur dans le champ de texte](images/type-user-id.png)
+   
+5. Confirmez avec **Enregistrer les modifications**.
 
-3. Cliquez sur l'onglet **Équipe**.
-
-![Ouvrez l'onglet Équipe dans l'administration de l'équipe](images/open-reiter-team.png)
-
-5. Sélectionnez un **utilisateur**.
-6. Saisissez un nouvel **ID utilisateur** dans le champ de texte prévu à cet effet.
-
-![Saisir le nouvel ID utilisateur dans le champ de texte](images/type-user-id.png)
-
-8. Confirmez en cliquant sur **Enregistrer les modifications**.
 
 {{< warning headline="Remarques importantes" >}}
 

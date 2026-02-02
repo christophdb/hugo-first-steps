@@ -17,12 +17,15 @@ seo:
 Como administrador da equipa, pode criar novos grupos na administração da equipa. Siga estas instruções:
 
 1. Mudar para a **administração da equipa**.
-2. Clique no item do menu **Equipa** em **Navegação**.
-3. Seleccionar a categoria **Grupos**.
-4. Percorra todo o caminho para baixo e clique no botão **Criar Grupo**.
-5. Definir o **nome do** grupo.
-6. Seleccionar os **membros da equipa** a pertencer ao grupo, estabelecendo o seu papel de **nenhum** para **membro** ou **administrador**.
-7. Clique em **Criar Grupo**.
+2. Em **Navegação**, clique no item de menu **Equipa**, selecione a categoria **Grupos**.
+    ![Mude para a Gestão de Equipa e abra a secção Grupos](images/open-group.png)
+
+3. Clique no botão **Criar Grupo**.
+4. Defina o **Nome** do grupo.
+5. Selecione os **Membros da Equipa** que devem pertencer ao grupo alterando o seu papel de **nenhum** para **Membro** ou **Admin**.
+    ![Atribua o papel desejado aos membros da equipa no grupo](images/create-group.png)
+
+6. Clique em **Criar Grupo**.
 
 {{< warning  headline="Nota"  text="Deve seleccionar **pelo menos um membro do grupo para** que um novo grupo seja criado." />}}
 

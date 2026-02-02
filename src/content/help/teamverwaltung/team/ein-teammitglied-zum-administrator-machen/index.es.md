@@ -17,13 +17,14 @@ Como administrador del equipo, puede añadir nuevos miembros al equipo y **conce
 
 ## Hacer administradores a los miembros del equipo
 
-![Convertir a un miembro del equipo en administrador](images/Ein-Teammitglied-zum-Administrator-machen.gif)
-
 1. Haga clic en su **perfil** en la esquina superior derecha.
 2. Seleccione **Gestión de equipos** en el menú desplegable.
 3. Vaya a la opción de menú **Equipo** en **Navegación**.
 4. Haga clic en el **miembro del** equipo al que desea otorgar derechos de administración.
-5. Se abre una nueva ventana. En **Seguridad**, active el control deslizante **Administrador**.
+5. En **Seguridad**, active la casilla **Otorgar derechos de administrador**.
+
+    ![Hacer de un miembro del equipo un administrador](images/grant-admin-permissions.png)
+
 6. Haga clic en **Guardar cambios**.
 
 ## Los derechos de un administrador de equipo

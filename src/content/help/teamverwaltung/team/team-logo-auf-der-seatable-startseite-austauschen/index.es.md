@@ -24,18 +24,14 @@ Colocando el logotipo de su empresa, los usuarios con una suscripción Enterpris
 
 ## Sustituir el logotipo del equipo en la página de inicio de SeaTable
 
-1. Cambia a la **administración del equipo**.
+1. Cambie a la **Gestión de equipo**.
 
-![Pasar a la administración del equipo](images/open-team-admin.png)
+  ![Cambie a la Gestión de equipo](images/open-team-admin.png)
 
-3. Haga clic en la opción de menú **Equipo**.
+2. Haga clic en el elemento del menú **Equipo** y luego en **Configuración**.
 
-![Haga clic en la opción de menú Equipo](images/open-team-section.png)
+  ![Haga clic en el elemento del menú Equipo](images/open-team-section.png)
 
-5. Abre los **ajustes**.
+3. En la sección **Logo del equipo**, suba el logo deseado y guarde los cambios con **Guardar configuración**.
 
-![Abrir la configuración](images/open-settings.png)
-
-7. Cargue el logotipo deseado en el área **Logotipo del equipo** y guarde los cambios con **Guardar configuración**.
-
-![Cargue el logotipo del equipo que desee y guarde los cambios](images/upload-team-logo.png)
+  ![Suba el logo del equipo deseado y guarde los cambios](images/upload-team-logo.png)

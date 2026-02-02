@@ -18,34 +18,30 @@ Para bloquear o eliminar miembros de un equipo, debe tener **derechos de adminis
 
 ## Suspender a un miembro del equipo
 
-1. Cambia a la **administración del equipo**.
+1. Cambie a la **Gestión de equipo**.
+   ![Cambie a la Gestión de equipo](images/open-team-admin.png)
+   
+2. Haga clic en el elemento del menú **Equipo**.
+   ![Haga clic en el elemento del menú Equipo](images/open-team-section.png)
+   
+3. Seleccione el **Miembro del equipo**.
 
-![Pasar a la administración del equipo](images/open-team-admin.png)
+4. Cambie el estado del miembro del equipo de **Activo** a **Inactivo** y guarde los cambios.
 
-3. Haga clic en la opción de menú **Equipo**.
+    ![Desactivar el usuario y guardar los cambios](images/deactivate-user-and-save.png)
 
-![Haga clic en la opción de menú Equipo](images/open-team-section.png)
+Una vez que el miembro del equipo bloqueado intenta iniciar sesión, se muestra el siguiente mensaje de error:
 
-5. Seleccione el **miembro del equipo**.
-
-![Selección del miembro del equipo](images/select-user-to-deactivate.png)
-
-7. Se abre una nueva ventana. Active el control deslizante **Desactivar usuario** en la categoría **Persona** y guarde los cambios.
-
-![Desactivar el usuario y guardar los cambios](images/deactivate-user-and-save.png)
-
-En cuanto el miembro del equipo bloqueado intenta conectarse, aparece el siguiente mensaje de error:
-
-![Bloqueo de la cuenta de un miembro Mensaje de error en el inicio de sesión](images/Fehlermeldung-Account-sperren.png)
+![Bloquear cuenta de miembro - Mensaje de error en el login](images/Fehlermeldung-Account-sperren.png)
 
 ## Eliminar un miembro del equipo
 
-1. Cambia a la **administración del equipo**.
-2. Haga clic en la opción de menú **Equipo**.
-3. Seleccione el **miembro del equipo**.
-4. Se abre una nueva ventana. Seleccione la categoría **Eliminar**.
-5. Active el control deslizante **¿Borrar de verdad?**
-6. Haga clic en **Eliminar miembro del equipo**.
+1. Cambie a la **Gestión de equipo**.
+2. Haga clic en el elemento del menú **Equipo**.
+3. Seleccione el **Miembro del equipo**.
+4. Haga clic en la pestaña **Eliminar usuario**.
+5. Confirme la eliminación.
+
 
 ## Preguntas frecuentes
 

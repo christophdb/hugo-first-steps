@@ -20,10 +20,10 @@ Como **administrador da equipa**, pode **apagar completamente** a sua equipa com
 
 1. Mudar para a **administração da equipa**.
 2. Clique na opção **Subscrição** em **Navegação** no lado esquerdo.
-3. Desça e clique em **Conta de equipa e apague completamente todos os dados**.
-4. Confirmar a eliminação.
+3. Selecione a aba **Eliminar Equipa**.
+4. Confirme a eliminação.
 
-![Eliminação de toda a equipa](images/delete-complete-team.png)
+    ![Eliminar toda a equipa](images/delete-complete-team.png)
 
 ## O que acontece quando elimina a sua equipa?
 
