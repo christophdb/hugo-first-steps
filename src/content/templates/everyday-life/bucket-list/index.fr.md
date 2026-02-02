@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Modèle Bucket List: vos rêves à portée de main'
     description: 'Liste de rêves digitale : planifiez, organisez et réalisez vos objectifs et expériences, seul ou à plusieurs.'
-template: '9c1486a65e97457a9fdc'
+template: '206a4127465744d99cfa'
 weight: 2
 ---
 
