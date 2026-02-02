@@ -18,19 +18,23 @@ You can view and download your invoices with just a few clicks via the team admi
 Alternatively, you can simply use this link:  
 (you must of course be logged into cloud.seatable.io)
 
-[To your invoices](https://account.seatable.com/subscription#tabs-subscription-2)
+[To your invoices](https://account.seatable.com/invoices)
 
 ## View invoices
 
 1. Open the **Team administration**.
 2. Click on **Subscription**.
 3. Click on **Invoices**.
-4. You can now view all available invoices and also sort them by **payment status**, **amount** or **invoice number**.
+4. You can now display all **available invoices**. Additionally, you can see the invoice amount and invoice date of the **next invoice**.
 
-![Your invoices in SeaTable team administration.](images/seatable-rechnungen-teamverwaltung.png)
+![Your invoices in SeaTable team administration.](images/get-invoices.png)
 
 ## Download the invoice as PDF
 
 In the table with your invoices, the invoice numbers are provided with a link to our payment service provider Stripe.
 
 Just click on the invoice number and the download of the invoice as a PDF document will start shortly.
+
+## Automatic Invoice Dispatch by Email
+
+Since November 2025, SeaTable also offers the option to have your invoices sent to you by email. You can find these options on the **Subscription** page under **Invoice Settings**.

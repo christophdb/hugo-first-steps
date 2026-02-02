@@ -20,23 +20,21 @@ Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer v
 
 ## Changer de carte de crédit
 
-![Modifiez facilement votre carte de crédit via l'administration d'équipe](images/Aendern-der-Kreditkarte-1-1.png)
-
 1. Ouvrez l'**administration d'équipe**.
 2. Cliquez sur **Abonnement**.
-3. Cliquez sur **"Personnaliser le mode de paiement**".
-4. Déposer une **nouvelle** carte de crédit.
-5. Confirmez en cliquant **sur "Déposer une nouvelle carte de crédit".**
-6. La nouvelle carte de crédit déposée est **immédiatement** valable et remplace l'ancienne carte.
+3. Cliquez sur **"Modifier la méthode de paiement"**.
+    ![Changer la carte de crédit enregistrée](images/change-creditcard.png)
 
-![Déposer une nouvelle carte de crédit ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+4. Vous serez redirigé vers le portail en ligne de Stripe où vous pouvez enregistrer une **nouvelle ou supplémentaire** carte de crédit.
+5. Vous pouvez librement choisir quelle carte de crédit doit être utilisée pour les futurs paiements.
 
 ## Questions fréquentes sur le paiement par carte de crédit
 
 {{< faq "Quelles cartes de crédit sont acceptées ?" >}}Actuellement, les cartes acceptées sont Visa, Mastercard, American Express, China UnionPay et Cartes Bancaires.
 {{< /faq >}}
-{{< faq "Une carte de crédit peut-elle être annulée ?" >}}Actuellement, il n'est pas possible de supprimer une carte de crédit. Elle ne sera toutefois débitée que tant que vous aurez un abonnement payant.
-{{< /faq >}}
-{{< faq "Où sont stockées les données des cartes de crédit ?" >}}Les informations relatives à votre carte de crédit sont uniquement conservées par notre prestataire de services de paiement Stripe. SeaTable ne stocke pas vos informations de paiement.
 
+{{< faq "Une carte de crédit peut-elle être supprimée ?" >}}Vous pouvez supprimer une carte de crédit tant qu'elle n'est pas utilisée comme méthode de paiement par défaut pour votre abonnement actuel.
+{{< /faq >}}
+
+{{< faq "Où sont stockées les données des cartes de crédit ?" >}}Les informations relatives à votre carte de crédit sont uniquement conservées par notre prestataire de services de paiement Stripe. SeaTable ne stocke pas vos informations de paiement.
 {{< /faq >}}

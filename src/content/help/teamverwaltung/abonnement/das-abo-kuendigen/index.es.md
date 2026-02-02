@@ -21,10 +21,10 @@ seo:
 
 1. Abre la **administración del equipo**. 
 2. Haga clic en **Suscripción**.
-3. Haga clic en **"Cancelar suscripción y cambiar a SeaTable Free"**.
-4. Su suscripción ha sido cancelada al **final del plazo** que seleccionó. Hasta esa fecha podrá seguir utilizando plenamente SeaTable.
+3. Haga clic en **Cancelar suscripción** y luego confirme la cancelación.
+    ![Las suscripciones existentes se pueden cancelar a través de la Gestión de equipo](images/cancel-subscription.png)
 
-![Las suscripciones existentes pueden cancelarse a través de la administración del equipo](images/Abonnement-loeschen.jpg)
+4. Su suscripción ahora se cancelará al **final** del **período** seleccionado. Hasta ese momento, podrá seguir usando SeaTable completamente.
 
 ## Eliminar el equipo por completo
 

@@ -18,19 +18,23 @@ Pode visualizar e descarregar as suas facturas com apenas alguns cliques atravé
 Alternativamente, pode simplesmente utilizar este link:  
 (tem de estar logado no cloud.seatable.io)
 
-[Às suas facturas](https://account.seatable.com/subscription#tabs-subscription-2)
+[Às suas facturas](https://account.seatable.com/invoices)
 
 ## Ver facturas
 
 1. Abrir a **administração da equipa**.
 2. Clique em **Subscrição**.
 3. Clique em **Facturas**.
-4. Pode agora visualizar todas as facturas disponíveis e também ordená-las por **estado de pagamento**, **montante** ou **número de factura**.
+4. Pode agora mostrar todas as **faturas disponíveis**. Além disso, pode ver o valor da fatura e a data da **próxima fatura**.
 
-![As suas facturas na gestão da equipa SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
+![As suas facturas na gestão da equipa SeaTable.](images/get-invoices.png)
 
 ## Descarregar a factura como PDF
 
 Na tabela com as suas facturas, os números das facturas são fornecidos com um link para o nosso fornecedor de serviços de pagamento Stripe.
 
 Basta clicar no número da factura e o download da factura como um documento PDF começará em breve.
+
+## Envio automático de faturas por e-mail
+
+Desde novembro de 2025, o SeaTable também oferece a opção de receber as suas faturas por e-mail. Pode encontrar estas opções na página **Subscrição** sob **Definições de Faturação**.

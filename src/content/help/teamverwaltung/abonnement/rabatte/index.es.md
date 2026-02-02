@@ -15,7 +15,16 @@ seo:
 
 ¿Le gustaría utilizar SeaTable y es usted una asociación registrada, trabaja en una institución pública o en una organización benéfica sin ánimo de lucro? Entonces disfrutará de ventajas especiales porque queremos apoyar a las personas que trabajan por el bien común, ya sea a través del trabajo social, la ayuda humanitaria, los proyectos ecológicos o la educación y la investigación.
 
-SeaTable concede a las instituciones públicas un descuento del 25%, las organizaciones benéficas sin ánimo de lucro y las instituciones educativas reciben un descuento estándar del 50% y las asociaciones locales, en casos excepcionales, incluso hasta un 75% de descuento en su suscripción a SeaTable Plus o SeaTable Enterprise. Para beneficiarse del descuento, basta con presentar la correspondiente solicitud a través de la [administración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
+SeaTable ofrece los siguientes **descuentos en suscripciones SeaTable Plus o SeaTable Enterprise**:
+
+| Destinatario             | Descuento posible |
+| ------------------------ | ----------------- |
+| instituciones públicas   | 25% descuento     |
+| organizaciones sin fines de lucro | 50% descuento |
+| instituciones educativas | 50% descuento     |
+| clubes locales           | 50% descuento<br>(hasta 75% en situaciones excepcionales) |
+
+Para aprovechar el descuento, simplemente presente una solicitud a través de [Gestión de equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Solicitar descuento
 
@@ -23,8 +32,8 @@ Si aún no has registrado un equipo en cloud.seatable.io, empieza por [registrar
 
 1. Abre la [administración del equipo](https://account.seatable.com).
 2. Pase a la sección **Suscripción**.
-3. Haga clic en ¿Es **usted una organización sin ánimo de lucro?**
-   ![Solicitar un descuento a través de la administración del equipo](images/Antrag-auf-Rabatt-in-SeaTable.png)
+3. Haga clic en **¿Es usted una organización sin fines de lucro**?
+   ![Solicitar descuento a través de Gestión de equipo](images/try-seatable-enterprise.png)
 4. Rellene el **formulario** y haga clic en **Enviar solicitud**.
 
 ## Esperar la respuesta

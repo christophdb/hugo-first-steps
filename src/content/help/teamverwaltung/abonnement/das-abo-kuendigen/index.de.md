@@ -19,10 +19,10 @@ Sie möchten Ihr SeaTable-Abo kündigen? Nutzen Sie hierfür den Reiter Abonneme
 
 1. Öffnen Sie die **Teamverwaltung**. 
 2. Klicken Sie auf **Abonnement**. 
-3. Klicken Sie auf **"Abonnement kündigen und zu SeaTable Free wechseln"**. 
-4. Ihr Abonnement ist nun zum **Ende** der von Ihnen ausgewählten **Laufzeit** gekündigt. Bis zu diesem Zeitpunkt können Sie SeaTable noch vollumfänglich nutzen.
+3. Klicken Sie auf **Abonnement kündigen** und bestätigen Sie anschließend die Kündigung.
+    ![Bestehende Abos können über die Teamverwaltung gekündigt werden](images/cancel-subscription.png)
 
-![Bestehende Abos können über die Teamverwaltung gekündigt werden](images/Abonnement-loeschen.jpg)
+4. Ihr Abonnement wird nun zum **Ende** der von Ihnen ausgewählten **Laufzeit** gekündigt. Bis zu diesem Zeitpunkt können Sie SeaTable noch vollumfänglich nutzen.
 
 ## Team komplett löschen
 

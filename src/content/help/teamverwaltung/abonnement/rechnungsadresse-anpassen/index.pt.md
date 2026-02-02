@@ -20,14 +20,20 @@ Gostaria de alterar o seu endereço de facturação? Não há problema, isto é 
 
 ## Endereço de facturação personalizado
 
-{{< warning  headline="Nota importante"  text="O endereço de facturação da sua equipa só pode ser alterado pelos **administradores da equipa**." />}}2. Abrir a **administração da equipa**. 3. Clique em **Subscrição**. 4. Clique em **"Ajustar informações da fatura"**. 5. Introduzir um **novo** endereço de facturação. 6. Guardar a alteração com **Change invoice recipient**.
+{{< warning  headline="Nota importante"  text="O endereço de facturação da sua equipa só pode ser alterado pelos **administradores da equipa**." />}}
 
-![Alteração do endereço de facturação](images/Rechnungsadresse-aendern.png)
+1. Abra a **Gestão de Equipa**. 
+2. Clique em **Subscrição**. 
+3. Clique em **"Editar Informações de Faturação"**.
+    ![Alterar o endereço de faturação](images/change-invoice-address.png)
+
+4. Registe um **novo** endereço de faturação. 
+5. Guarde as suas alterações
 
 ## Perguntas mais frequentes sobre o endereço de facturação
 
 {{< faq "Quando é que o endereço de facturação se torna válido?" >}}Se alterar o seu endereço de facturação, todas as futuras facturas serão criadas com o seu novo endereço de facturação.
 {{< /faq >}}
-{{< faq "O endereço de facturação pode ser alterado retroactivamente?" >}}Infelizmente não. Infelizmente, não é possível alterar o endereço de facturação nas facturas que já tenham sido geradas. Em casos excepcionais, poderemos emitir-lhe uma nova factura, mas cobraremos uma taxa de processamento de 10 euros em qualquer caso. Envie-nos um [pedido de apoio](https://account.seatable.com/support) correspondente com o número da factura e os pedidos de alteração exactos.
 
+{{< faq "O endereço de facturação pode ser alterado retroactivamente?" >}}Infelizmente não. Infelizmente, não é possível alterar o endereço de facturação nas facturas que já tenham sido geradas. Em casos excepcionais, poderemos emitir-lhe uma nova factura, mas cobraremos uma taxa de processamento de 10 euros em qualquer caso. Envie-nos um [pedido de apoio](https://account.seatable.com/support) correspondente com o número da factura e os pedidos de alteração exactos.
 {{< /faq >}}

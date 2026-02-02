@@ -20,10 +20,10 @@ Vous souhaitez résilier votre abonnement à SeaTable ? Utilisez pour cela l'ong
 {{< warning  headline="Remarque importante"  text="Le pack d'abonnement de votre équipe peut être résilié uniquement par les **administrateurs de l'équipe**." />}}
 1. Ouvrez l'**administration d'équipe**.
 2. Cliquez sur **Abonnement**.
-3. Cliquez sur **"Annuler l'abonnement et passer à SeaTable Free".**
-4. Votre abonnement est maintenant résilié à la **fin** de la **période** que vous avez choisie. Jusqu'à cette date, vous pouvez encore utiliser SeaTable dans son intégralité.
+3. Cliquez sur **Résilier l'abonnement** et confirmez ensuite la résiliation.
+    ![Les abonnements existants peuvent être résiliés via la Gestion d'équipe](images/cancel-subscription.png)
 
-![Les abonnements existants peuvent être résiliés via l'administration d'équipe.](images/Abonnement-loeschen.jpg)
+4. Votre abonnement sera maintenant résilié à la **fin** de la **durée** sélectionnée. Jusqu'à cette date, vous pouvez continuer à utiliser SeaTable pleinement.
 
 ## Supprimer complètement une équipe
 

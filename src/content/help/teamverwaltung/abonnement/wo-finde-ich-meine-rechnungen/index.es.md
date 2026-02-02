@@ -18,19 +18,23 @@ Puede ver y descargar sus facturas con sólo unos clics a través de la administ
 También puedes utilizar este enlace:  
 (por supuesto, debes iniciar sesión en cloud.seatable.io)
 
-[A sus facturas](https://account.seatable.com/subscription#tabs-subscription-2)
+[A sus facturas](https://account.seatable.com/invoices)
 
 ## Ver facturas
 
 1. Abre la **administración del equipo**.
 2. Haga clic en **Suscripción**.
 3. Haga clic en **Facturas**.
-4. Ahora puede ver todas las facturas disponibles y también ordenarlas por **estado de pago**, **importe** o **número de factura**.
+4. Ahora puede mostrar todas las **facturas disponibles**. Además, puede ver el importe de la factura y la fecha de la **próxima factura**.
 
-![Sus facturas en la gestión del equipo SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
+![Sus facturas en la gestión del equipo SeaTable.](images/get-invoices.png)
 
 ## Descargar la factura en PDF
 
 En la tabla con sus facturas, los números de factura se proporcionan con un enlace a nuestro proveedor de servicios de pago Stripe.
 
 Simplemente haga clic en el número de factura y en breve se iniciará la descarga de la factura como documento PDF.
+
+## Envío automático de facturas por correo electrónico
+
+Desde noviembre de 2025, SeaTable también ofrece la opción de recibir sus facturas por correo electrónico. Puede encontrar estas opciones en la página **Suscripción** bajo **Configuración de facturas**.

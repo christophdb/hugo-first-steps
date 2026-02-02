@@ -20,23 +20,21 @@ You want to change the credit card you used to pay your SeaTable subscription? N
 
 ## Change credit card
 
-![Change your credit card easily via the team administration](images/Aendern-der-Kreditkarte-1-1.png)
-
 1. Open the **Team administration**.
 2. Click on **Subscription**.
-3. Click on **"Customize payment method**".
-4. Deposit a **new** credit card.
-5. Confirm with **"Deposit new credit card"**.
-6. The newly deposited credit card is valid **immediately** and replaces the old card.
+3. Click on **"Edit Payment Method"**.
+    ![Change the stored credit card](images/change-creditcard.png)
 
-![Deposit a new credit card ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+4. You will be redirected to the Stripe online portal where you can store a **new or additional** credit card.
+5. You can freely choose which credit card should be used for future payments.
 
 ## Frequently asked questions about payment by credit card
 
 {{< faq "What credit cards are accepted?" >}}Currently Visa, Mastercard, American Express, China UnionPay and Cartes Bancaires are accepted.
 {{< /faq >}}
-{{< faq "Can a credit card be cancelled?" >}}Currently, a credit card cannot be deleted. However, it will only be charged as long as you have a paid subscription.
-{{< /faq >}}
-{{< faq "Where is the credit card data stored?" >}}Your credit card information is only stored by our payment service provider Stripe. SeaTable does not store your payment information.
 
+{{< faq "Can a credit card be deleted?" >}}You can delete a credit card as long as it is not being used as the default payment method for your current subscription.
+{{< /faq >}}
+
+{{< faq "Where is the credit card data stored?" >}}Your credit card information is only stored by our payment service provider Stripe. SeaTable does not store your payment information.
 {{< /faq >}}

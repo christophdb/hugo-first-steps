@@ -20,23 +20,21 @@ Gostaria de alterar o cartão de crédito que utilizou para pagar a sua subscri�
 
 ## Mudança de cartão de crédito
 
-![Mude facilmente o seu cartão de crédito através da gestão da equipa](images/Aendern-der-Kreditkarte-1-1.png)
-
 1. Abrir a **administração da equipa**.
 2. Clique em **Subscrição**.
-3. Clique em **"Personalizar método de pagamento**".
-4. Depositar um **novo** cartão de crédito.
-5. Confirmar com **"Depositar novo cartão de crédito"**.
-6. O cartão de crédito recentemente depositado é válido **imediatamente** e substitui o cartão antigo.
+3. Clique em **"Editar Método de Pagamento"**.
+    ![Alterar o cartão de crédito registado](images/change-creditcard.png)
 
-![Depositar um novo cartão de crédito ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+4. Será redirecionado para o portal online da Stripe onde pode registar um **novo ou adicional** cartão de crédito.
+5. Pode escolher livremente qual cartão de crédito deve ser usado para pagamentos futuros.
 
 ## Perguntas mais frequentes sobre pagamento por cartão de crédito
 
 {{< faq "Que cartões de crédito são aceites?" >}}Actualmente são aceites Visa, Mastercard, American Express, China UnionPay e Cartes Bancaires.
 {{< /faq >}}
-{{< faq "Um cartão de crédito pode ser cancelado?" >}}Actualmente, um cartão de crédito não pode ser cancelado. No entanto, só será cobrado enquanto tiver uma assinatura paga.
-{{< /faq >}}
-{{< faq "Onde estão guardados os dados do cartão de crédito?" >}}Os detalhes do seu cartão de crédito só são guardados com o nosso fornecedor de serviços de pagamento Stripe. O SeaTable não armazena as suas informações de pagamento.
 
+{{< faq "Uma cartão de crédito pode ser eliminado?" >}}Pode eliminar um cartão de crédito desde que não esteja a ser usado como método de pagamento predefinido para a sua subscrição atual.
+{{< /faq >}}
+
+{{< faq "Onde estão guardados os dados do cartão de crédito?" >}}Os detalhes do seu cartão de crédito só são guardados com o nosso fornecedor de serviços de pagamento Stripe. O SeaTable não armazena as suas informações de pagamento.
 {{< /faq >}}
