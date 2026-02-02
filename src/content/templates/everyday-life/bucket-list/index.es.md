@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Plantilla Bucket List: sueños, viajes y logros'
     description: 'Organiza online grandes metas, sueños y deseos vitales: añade, combina y comparte fácilmente con plantilla editable.'
-template: '9c1486a65e97457a9fdc'
+template: '206a4127465744d99cfa'
 weight: 2
 ---
 

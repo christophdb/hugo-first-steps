@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Bucket List Vorlage: Träume & Ziele digital planen'
     description: 'Mit der SeaTable Bucket List Vorlage sammeln Sie Ziele & Wünsche online, behalten den Überblick und werden inspiriert.'
-template: '9c1486a65e97457a9fdc'
+template: '206a4127465744d99cfa'
 weight: 2
 ---
 
@@ -25,3 +25,4 @@ Lassen Sie sich von den Ideen in unseremBlog-Artikelinspirieren.
 ## Interaktives Template
 
 Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Unklarheiten empfehlen wir Ihnen unseren [Hilfebereich]({{< relref "help" >}}).
+

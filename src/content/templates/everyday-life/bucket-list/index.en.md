@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Bucket List Template: Structure Your Life Goals'
     description: 'Digital bucket list template: Easily manage, track & expand your life goals and adventures online, for every dreamer.'
-template: '9c1486a65e97457a9fdc'
+template: '206a4127465744d99cfa'
 weight: 2
 ---
 

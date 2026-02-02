@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Шаблон Bucket List: мечты и планы в цифре'
     description: 'Жизненные цели онлайн: шаблон для bucket list, планирование, категоризация и отслеживание успехов, удобно и гибко.'
-template: '9c1486a65e97457a9fdc'
+template: '206a4127465744d99cfa'
 weight: 2
 ---
 

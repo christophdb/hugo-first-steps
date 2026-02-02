@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Modelo Bucket List: seus sonhos mais organizados'
     description: 'Template digital gratuito para planejar metas e sonhos: modifique, compartilhe e inspire-se em qualquer lugar.'
-template: '9c1486a65e97457a9fdc'
+template: '206a4127465744d99cfa'
 weight: 2
 ---
 
