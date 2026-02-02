@@ -5,8 +5,6 @@ date: 2021-08-26
 lastmod: '2025-09-18'
 author: 'pbr'
 url: '/es/cuentas-por-cobrar'
-aliases:
-    - '/es/Cuentas-por-cobrar'
 color: '#7cbaef'
 seo:
     title: 'Digitalizar cuentas por cobrar: plantilla y guía práctica'
