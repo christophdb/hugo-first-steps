@@ -21,11 +21,12 @@ As a team administrator, you can change the name of your team in the **team admi
 
 1. Click on your **profile** in the upper right corner.
 2. Select **Team administration** from the drop-down menu.
-3. On the left side, under **Navigation**, click the **Team** option.
-4. Click **Settings**. You will find this option below the heading.
-5. Enter the **name of the team**.
-6. Click **Save Settings**.
+3. In the **Navigation**, click on **Team** and select the **Settings** category.
+    ![Go to Settings in Team Management](images/open-settings.png)
 
-![Changing the team name](images/aendern-des-teamnamens.gif)
+4. Enter the **Team Name**.
+    ![Change the team name](images/rename-team.png)
+    
+5. Click on **Save Settings**.
 
 {{< warning  headline="Note"  text="You can enter a maximum of 40 punctuation characters as team names, using special characters." />}}

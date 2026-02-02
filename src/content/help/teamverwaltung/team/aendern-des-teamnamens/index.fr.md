@@ -21,11 +21,12 @@ En tant qu'administrateur d'équipe, vous pouvez modifier le nom de votre équip
 
 1. Cliquez sur votre **profil** dans le coin supérieur droit.
 2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
-3. Cliquez sur l'option **Équipe** à gauche sous **Navigation**.
-4. Cliquez sur **Paramètres**. Vous trouverez cette option sous le titre.
-5. Saisissez le **nom de l'équipe**.
-6. Cliquez sur **Enregistrer les paramètres**.
+3. Dans la **Navigation**, cliquez sur **Équipe** et sélectionnez la catégorie **Paramètres**.
+    ![Allez dans Paramètres dans la Gestion d'équipe](images/open-settings.png)
 
-![Changer le nom de l'équipe](images/aendern-des-teamnamens.gif)
+4. Saisissez le **Nom de l'équipe**.
+    ![Changer le nom de l'équipe](images/rename-team.png)
+    
+5. Cliquez sur **Enregistrer les paramètres**.
 
 {{< warning  headline="Remarque"  text="Vous pouvez saisir au maximum 40 signes de ponctuation comme nom d'équipe et utiliser des caractères spéciaux." />}}

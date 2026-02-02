@@ -17,12 +17,15 @@ seo:
 Como administrador del equipo, puedes crear nuevos grupos en la administración del equipo. Siga estas instrucciones:
 
 1. Cambia a la **administración del equipo**.
-2. Haga clic en la opción **Equipo** del menú **Navegación**.
-3. Seleccione la categoría **Grupos**.
-4. Desplácese hacia abajo y haga clic en el botón **Crear grupo**.
-5. Establece el **nombre** del grupo.
-6. Seleccione los **miembros** del equipo que pertenecerán al grupo estableciendo su función de **ninguno** a **miembro** o **administrador**.
-7. Haga clic en **Crear grupo**.
+2. En **Navegación**, haga clic en el elemento del menú **Equipo**, seleccione la categoría **Grupos**.
+    ![Cambie a la Gestión de equipo y abra la sección Grupos](images/open-group.png)
+
+3. Haga clic en el botón **Crear grupo**.
+4. Establezca el **Nombre** del grupo.
+5. Seleccione los **Miembros del equipo** que deben pertenecer al grupo cambiando su rol de **ninguno** a **Miembro** o **Admin**.
+    ![Asigne el rol deseado a los miembros del equipo en el grupo](images/create-group.png)
+
+6. Haga clic en **Crear grupo**.
 
 {{< warning  headline="Nota"  text="Debe seleccionar **al menos un miembro del grupo para** que se cree un nuevo grupo." />}}
 

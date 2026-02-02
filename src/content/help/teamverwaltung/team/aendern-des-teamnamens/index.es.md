@@ -21,11 +21,12 @@ Como administrador del equipo, puedes cambiar el nombre de tu equipo en la **adm
 
 1. Haga clic en su **perfil** en la esquina superior derecha.
 2. Seleccione **Gestión de equipos** en el menú desplegable.
-3. Haga clic en la opción **"Equipo** " en la parte izquierda de la **navegación**.
-4. Haga clic en la opción **"Configuración"**. Encontrará esta opción debajo del título.
-5. Introduzca el **nombre del equipo**.
-6. Haga clic en **Guardar la configuración**.
+3. En la **Navegación**, haga clic en **Equipo** y seleccione la categoría **Configuración**.
+    ![Vaya a Configuración en la Gestión de equipo](images/open-settings.png)
 
-![Cambiar el nombre del equipo](images/aendern-des-teamnamens.gif)
+4. Introduzca el **Nombre del equipo**.
+    ![Cambiar el nombre del equipo](images/rename-team.png)
+    
+5. Haga clic en **Guardar configuración**.
 
 {{< warning  headline="Nota"  text="Puede introducir un máximo de 40 signos de puntuación como nombres de equipo y utilizar caracteres especiales." />}}
