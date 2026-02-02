@@ -46,7 +46,7 @@ Basierend auf Hunderten Online-Bewertungen, in denen Nutzer ihre Airtable Erfahr
    
 3. **Benutzerdefinierte Felder**: Mit zahlreichen Feldtypen können Sie die Informationen in Ihren Datensätzen vielseitig konfigurieren und die Datentypen festlegen, die in Feldern erlaubt sind. Dadurch vereinheitlichen Sie die Datenformate und minimieren Eingabefehler.
    
-4. **Smarte Einbindung von KI**: Künstliche Intelligenz ist bei Airtable ebenso für das Interface Design verfügbar wie als eigener Feldtyp integriert. Mit den richtigen Prompts können Sie im großen Stil Anwendungen erstellen und Inhalte aus Ihren Daten generieren.
+4. **Smarte Einbindung von KI**: [Künstliche Intelligenz]({{< relref "posts/kuenstliche-intelligenz" >}}) ist bei Airtable ebenso für das Interface Design verfügbar wie als eigener Feldtyp integriert. Mit den richtigen Prompts können Sie im großen Stil Anwendungen erstellen und Inhalte aus Ihren Daten generieren.
 
 ![Airtable Interface Designer](airtable-interface-designer.jpg)
 
