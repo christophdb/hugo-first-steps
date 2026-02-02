@@ -12,7 +12,7 @@ sections:
       weight: 1
       subtitle: Die No-Code Lösung für Ihre IT Organisation
       title: IT Service Management mit SeaTable
-      text: text: In einer zunehmend digitalisierten Welt ist ein effizientes und flexibles IT Service Management (ITSM) unerlässlich. Ab SeaTable 6.0 nutzen Sie jetzt die volle Power von Künstlicher Intelligenz direkt in Ihren Tabellen, um ITSM Prozesse smarter und sicherer zu gestalten – ohne Kompromisse bei Compliance und Innovation!
+      text: In einer zunehmend digitalisierten Welt ist ein effizientes und flexibles IT Service Management (ITSM) unerlässlich. Ab SeaTable 6.0 nutzen Sie jetzt die volle Power von Künstlicher Intelligenz direkt in Ihren Tabellen, um ITSM Prozesse smarter und sicherer zu gestalten – ohne Kompromisse bei Compliance und Innovation!
       classes:
           - bg-gray-200
       template: 51d678ca8b004e9b9b79
