@@ -122,7 +122,7 @@ sections:
     - name: 'content-21'
       weight: 8
       title: Daten von Microsoft Lists zu SeaTable importieren
-      text: Sie nutzen bereits Microsoft Lists und suchen eine selbst gehostete Alternative. Die Übertragung Ihrer Daten von Lists zu SeaTable geht ganz einfach per Export und Import– anschließend können Sie Ihre bestehenden Prozesse Schritt für Schritt mit KI-Funktionen anreichern.
+      text: Sie nutzen bereits Microsoft Lists und suchen eine selbst gehostete Alternative. Die Übertragung Ihrer Daten von Lists zu SeaTable geht ganz einfach per Export und Import – anschließend können Sie Ihre bestehenden Prozesse Schritt für Schritt mit KI-Funktionen anreichern.
       items:
           - headline: Einfache Datenübertragung
             text: Aufgrund der ähnlichen Datenstruktur von Microsoft Lists und SeaTable können Sie bestehende Lists Tabellen ohne große Schwierigkeiten nach SeaTable migrieren. Im einfachsten Fall exportieren Sie Ihre Tabellen als CSV-Datei und importieren diese anschließend in SeaTable, wo Sie sie bei Bedarf um KI-Automationen und intelligente Auswertungen erweitern. Einfacher geht es nicht.
@@ -142,7 +142,7 @@ sections:
       title: FAQs – SeaTable als Microsoft Lists Alternative 
       items:
           - q: 'Welche Funktionen bietet SeaTable?'
-            a: 'SeaTable bietet eine Vielzahl an Funktionen für ein transparentes [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) in Echtzeit und effiziente Prozesse: Egal, ob Automatisierungen, KI-gestützte Workflows,Benachrichtigungsfunktionen, [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) oder Reporting-Dashboards: Sie können SeaTable flexibel an Ihre Anforderungen anpassen. Die Plattform ist flexibel und kann sowohl als Cloud-Lösung als auch On-Premises genutzt werden.'
+            a: 'SeaTable bietet eine Vielzahl an Funktionen für ein transparentes [Datenmanagement]({{< relref "posts/20250317-datenmanagement" >}}) in Echtzeit und effiziente Prozesse: Egal, ob Automatisierungen, KI-gestützte Workflows, Benachrichtigungsfunktionen, [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) oder Reporting-Dashboards: Sie können SeaTable flexibel an Ihre Anforderungen anpassen. Die Plattform ist flexibel und kann sowohl als Cloud-Lösung als auch On-Premises genutzt werden.'
 
           - q: 'Ist SeaTable wirklich kostenlos nutzbar?'
             a: 'Ja, Sie können SeaTable im Free Plan zeitlich unbegrenzt kostenlos nutzen. Für erweiterte Funktionen, KI-Credits und größeren Speicherplatz stehen Ihnen kostengünstige Premium-Versionen zur Verfügung.'
