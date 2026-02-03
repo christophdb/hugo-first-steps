@@ -30,11 +30,12 @@ sections:
           - bg-seatable-blue
       title: ITSM Prozesse nach Ihren Vorstellung
       subtitle: Flexibilität, Sicherheit, Effizienz
-      description: Mit der benutzerfreundlichen No- und Low-Code-Plattform bilden Sie Ihre IT Service Management Prozesse einfach und effizient ab! SeaTable bietet anpassbare Workflows, die sich flexibel in Ihre bestehenden Systeme integrieren lassen – so bleiben Sie agil und sind bestens gerüstet für zukünftige Entwicklungen.
+      description: Mit der benutzerfreundlichen KI No-Code-Plattform bilden Sie Ihre IT Service Management Prozesse einfach ab! Dank der neuen KI-Integrationen automatisieren Sie die Datenverarbeitung und Analyse direkt im Workflow – so bleiben Sie agil und technologisch an der Spitze.
       items:
           - text: DSGVO-konform
+          - text: Native KI-Integration (OpenAI, Anthropic, Mistral)
           - text: 'Einfache Implementierung: No-Code oder Low-Code'
-          - text: 'Automatisierte Workflows'
+          - text: Automatisierte KI-Workflows
           - text: Berechtigungsverwaltung
           - text: App Builder für Frontend-Nutzung
           - text: SeaTable Cloud oder SeaTable Server
@@ -47,10 +48,10 @@ sections:
       subtitle: No-Code-Lösung für effizientes Arbeiten
       text: 'SeaTable vereint als [KI No-Code-Plattform]({{< relref "/" >}}) die Vorteile einer Tabellenkalkulation mit der Leistungsfähigkeit einer Datenbank und einem [No-Code App Builder]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}). Diese Kombination ermöglicht IT-Teams die effiziente Verwaltung komplexer Workflows und Daten sowie die agile Umsetzung ihrer IT-Strategie, was SeaTable zu einer unverzichtbaren Lösung macht:'
       items:
-          - headline: Anpassbare Tabellen und Ansichten
-            text: Benutzerdefinierte Tabellenstrukturen und Visualisierungen für eine bessere Organisation von IT Projekten.
+          - headline: Intelligente KI-Spalte
+            text: Nutzen Sie KI direkt in der Tabelle, um Ticket-Beschreibungen zusammenzufassen, Code-Snippets zu generieren oder Incidents automatisch zu kategorisieren.
             image: /images/Software-Deevelopment_Views.png
-            image_alt: 'SeaTable Tabellen- und Board-Ansichten zur Organisation von IT Projekten'
+            image_alt: 'SeaTable KI-Spalte zur automatischen Datenverarbeitung'
           - headline: Berechnungen und Formel-Editor
             text: Detaillierte Auswertungen und Analysen mit intuitivem Formel-Editor und Statistik-Modul.
             image: /images/Software-Development_Formula.png
@@ -72,7 +73,7 @@ sections:
       weight: 4
       title: 'Verbinden Sie SeaTable mit Ihrer IT Organisation'
       subtitle: 'Standard Integrations'
-      description: Verknüpfen Sie SeaTable mit allen Apps, die Sie bereits verwenden, und nutzen Sie SeaTable als Dreh- und Angelpunkt für Ihr gesamtes IT Service Management.
+      description: Verknüpfen Sie SeaTable mit Ihren bestehenden Tools oder nutzen Sie die neue KI-Datenabfrage, um Informationen systemübergreifend zu strukturieren.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -91,22 +92,21 @@ sections:
           - headline: Lizenzmanagement und Compliance
             text: Mit SeaTable behalten Sie stets den Überblick über Ihre Lizenzen und können sicherstellen, dass Ihre Organisation **jederzeit Compliance-konform** bleibt. Automatisierte Workflows helfen dabei, Lizenzlaufzeiten und Compliance Richtlinien effizient zu überwachen und zu verwalten.
             icon: circle-question
-          - headline: Benutzerdefinierte Automatisierungen und Workflows
-            text: Warum Aufgaben manuell erledigen, wenn Sie sie automatisieren können? Erstellen Sie **benutzerdefinierte Automatisierungen**, um Routineaufgaben zu reduzieren, Fehler zu minimieren und die Effizienz zu steigern.
+          - headline: Intelligente Automatisierungen
+            text: Reduzieren Sie manuelle Routineaufgaben durch KI-Automatisierungen, die Sprache erkennen, Texte übersetzen oder Prioritäten für Incidents vorschlagen.
             icon: circle-question
           - headline: Anpassbare Tabellenstrukturen und Ansichten
             text: Benutzerdefinierte Tabellenstrukturen und Darstellungsmöglichkeiten wie [Kanban-Boards]({{< relref "posts/kanban board freeware" >}}), Kalender und Gantt-Diagramme ermöglichen eine bessere Organisation von IT Service Management Prozessen.
             icon: circle-question
-          - headline: Anpassbare Dashboards und Formulare
-            text: Erstellen Sie **maßgeschneiderte Dashboards** und Formulare für die Anforderungsanalyse, Produktentwicklung und Reportings.
-            icon: circle-question
+          - headline: Anpassbare Dashboards mit KI-Insights
+            text: 'Erstellen Sie Dashboards, die nicht nur Daten visualisieren, sondern durch KI-Anbindung auch Trends und Vorhersagen für Ihre IT-Infrastruktur liefern.            icon: circle-question'
           - headline: Flexibeles und sicheres Software Management
             text: SeaTable bietet ein innovatives, individuell anpassbares Software Management, welches IT Organisationen dabei unterstützt, ihre **ITSM Prozesse zu optimieren** und zu digitalisieren.
             icon: circle-question
 
     - name: banner-2
       weight: 6
-      title: Komplexe IT Prozesse einfach umgesetzt <br>– mit SeaTable
+      title: Komplexe IT Prozesse einfach umgesetzt <br>– jetzt mit KI-Power in SeaTable
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
@@ -144,18 +144,18 @@ sections:
       weight: 11
       title: ITSM Prozesse in SeaTable
       subtitle: Ohne Programmierkenntnisse
-      description: "Digitale und automatisierte Prozesse sind wichtig für den Erfolg Ihrer IT. SeaTable bietet alle Funktionen, um entscheidende Prozesse des Service Managements effizient zu verwalten."
+      description: "Digitale und KI-unterstützende automatisierte Prozesse sind wichtig für den Erfolg Ihrer IT. SeaTable bietet alle Funktionen, um entscheidende Prozesse des Service Managements effizient zu verwalten."
       items:
       - headline: Incident Management und Ticketing System IT
-        text: Verwalten und verfolgen Sie IT Vorfälle effizient und in Echtzeit. Nutzen Sie benutzerdefinierte Workflows für die Verwaltung von Störungen und die schnelle Problemlösung.
+        text: Verwalten und verfolgen Sie IT Vorfälle effizient und in Echtzeit. Automatisieren Sie die Klassifizierung von Tickets mittels KI. Eingehende E-Mails oder Formular-Einträge werden sofort analysiert und dem richtigen Team zugewiesen.
       - headline: Problem Management
         text: Nutzen Sie die Funktionen von SeaTable zur Dokumentation und Optimierung von Problemlösungen und zur Erstellung einer Wissensbasis.
-      - headline: Change Management
-        text: Planen und verwalten Sie Änderungen in der IT Infrastruktur strukturiert und sicher. Automatisierte Workflows helfen dabei, den gesamten Change-Prozess von der Anforderungsanalyse bis zur Implementierung zu steuern.
+      - headline: Change Management mit Risk-Assessment
+        text: Planen und verwalten Sie Änderungen in der IT Infrastruktur strukturiert und sicher. Nutzen Sie KI-gestützte Analysen, um potenzielle Risiken geplanter Änderungen basierend auf historischen Daten besser einzuschätzen.
       - headline: Lizenzmanagement und Lizenzverwaltung
         text: Nutzen Sie die Lizenzmanagement Software von SeaTable, um Lizenzen effizient zu verwalten und Compliance sicherzustellen. Organisieren und überwachen Sie Ihre Lizenzdaten zentral, um Kosten zu optimieren und Risiken zu minimieren.
       - headline: Software Management
-        text: Verwenden Sie SeaTable für effektives Software Management, um Software-Projekte und -Entwicklungen strukturiert und transparent zu planen und durchzuführen.
+        text: Verwenden Sie SeaTable, um Software-Projekte zu planen und technische Dokumentationen durch KI-Unterstützung aktuell zu halten.
       - headline: Skalierbarkeit und Flexibilität
         text: Unterschiedliche Lizenzmodelle (Free, Plus, Enterprise) und Deployment Optionen, Dedicated, Server) passen sich Ihren Anforderungen an. Sie benötigen keine Kreditkarte, um die Plattform zu testen, und können sofort damit beginnen, Ihre ITSM Prozesse zu optimieren.
 
@@ -193,13 +193,17 @@ sections:
       title: FAQ – IT Service Management mit SeaTable
       items:
           - q: 'Wie unterstützt SeaTable die IT Transformation meiner IT Organisation?'
-            a: 'SeaTable bietet eine flexible No-Code und Low-Code Plattform, die die Anpassung und Digitalisierung von ITSM Prozessen erleichtert. Es unterstützt IT Transformationsprozesse durch einfache Anpassung und Integration in bestehende Systeme.'
+            a: 'SeaTable bietet eine flexible No-Code und Low-Code Plattform, die die Anpassung und Digitalisierung von ITSM Prozessen erleichtert. Es unterstützt IT Transformationsprozesse durch einfache Anpassung und Integration in bestehende Systeme. Durch die Integration von KI-Modellen wie GPT-4 oder Claude direkt in die Tabellenstruktur können Prozesse nicht nur digitalisiert, sondern intelligent automatisiert werden, was die Transformation massiv beschleunigt.'
+          - q: 'Welche KI-Modelle kann ich in SeaTable nutzen?'
+            a: 'SeaTable unterstützt führende KI-Anbieter wie OpenAI (GPT), Anthropic (Claude) und Mistral. Sie können diese über die neue KI-Spalte oder in Automatisierungen nutzen.'  
           - q: 'Was ist ITSM und welche Bedeutung hat es für meine IT Organisation?'
             a: 'IT Servicemanagement (ITSM) umfasst alle Prozesse und Aktivitäten, die erforderlich sind, um IT Services für Kunden bereitzustellen und zu verwalten. Es ist entscheidend für die Effizienz und Qualität der IT Services und ermöglicht eine strukturierte Verwaltung der IT Infrastruktur.'
           - q: Was bedeutet ITIL?
             a: "ITIL einfach erklärt: ITIL (Information Technology Infrastructure Library) ist ein Service Management Framework, um IT Services effizient zu verwalten. Mit SeaTable können Sie das ITIL Service Management Framework in Ihre ITSM Service Management Prozesse integrieren und es flexibel anpassen, um spezifische Anforderungen abzubilden. So können Sie Ihre IT Prozesse optimieren und die Effizienz Ihrer IT Services steigern."
           - q: "Ist SeaTable als IT Service Management Software DSGVO-konform?"
             a: "Ja, SeaTable ist vollständig DSGVO-konform und bietet höchste Sicherheitsstandards für den Schutz sensibler Daten in Ihrer IT. Unsere Server stehen ausschließlich in Deutschland. Die Plattform bietet auch IT Security Funktionen zur Überwachung und Verwaltung von Zugriffsrechten."
+          - q: "Kann SeaTable KI-Automatisierungen ohne Programmieraufwand?"
+            a: "Ja, seit dem Release 6.0 können Sie KI-Aktionen direkt in den No-Code-Automatisierungs-Editor einbauen, um z. B. bei neuen Tickets automatisch Analysen oder Antworten generieren zu lassen."
           - q: "Welche Vorteile bietet SeaTable im Vergleich zu anderen ITSM Software Lösungen wie Atlassian?"
             a: "SeaTable bietet eine größere Flexibilität und Anpassbarkeit als herkömmliche ITSM Suiten wie Atlassian ITSM. Mit einer No-Code und Low-Code Plattform, die **keine Programmierkenntnisse** erfordert, können Sie Ihre IT Prozesse effizienter gestalten und optimieren."
           - q: "Wie kann SeaTable mein Lizenzmanagement verbessern?"
