@@ -125,7 +125,32 @@ sections:
       buttons:
         - label: Utilize o quadro Kanban agora
           link: pages/registration
-          
+    
+    - name: "content-9"
+      weight: 16
+      title: 'Gestão de tarefas com base em IA com o SeaTable'
+      subtitle: 'Automação inteligente'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam o seu quadro Kanban a um novo nível. Automatize tarefas recorrentes e economize tempo valioso.'
+      items:
+      - headline: 'Priorização automática com o Classify'
+        text: 'Classifique automaticamente novas tarefas por urgência: a função de IA «Classify» avalia as tarefas com base na sua descrição e data de vencimento e atribui-lhes automaticamente os níveis de prioridade «Alta», «Média» ou «Baixa» – poupando tempo na triagem e garantindo padrões uniformes na equipa.'
+        icon: table
+      - headline: 'Descrições de tarefas com Summarize'
+        text: 'A função Summarize cria automaticamente descrições concisas a partir de textos de tarefas mais longos ou conteúdos de e-mails copiados. Ideal para atualizações rápidas da equipa e reuniões diárias – todos podem ver rapidamente do que se trata, sem a necessidade de ler textos extensos.'
+        icon: circle-info
+      - headline: 'Estimativas automáticas com o Extract'
+        text: 'A função Extract reconhece automaticamente informações importantes nas descrições das tarefas, como dados temporais («cerca de 3 horas»), nomes mencionados de membros da equipa ou dependências técnicas, e insere-as em colunas separadas, reduzindo significativamente o trabalho manual de pós-processamento.'
+        icon: layer-group
+      - headline: 'Fluxos de trabalho personalizados com o Custom Prompt'
+        text: 'Com a função Custom Prompt, pode definir as suas próprias instruções de IA para automatizações específicas do fluxo de trabalho. Exemplos: geração automática de critérios de aceitação, atribuição inteligente a membros da equipa com base nas competências ou criação automática de subtarefas – de acordo com as suas necessidades.'
+        icon: wand-magic-sparkles
+      - headline: 'Reconhecimento de documentos para anexos com OCR'
+        text: 'Carregue maquetes de design, fotografias de quadros brancos ou notas manuscritas – a função OCR reconhece automaticamente texto, requisitos e detalhes e transfere-os para a descrição da sua tarefa. Ideal para resultados de workshops ou capturas rápidas com o smartphone.'
+        icon: image  
+      - headline: 'Relatórios Sprint com um simples clique'
+        text: 'Crie automaticam‚ente resumos de sprints para retrospectivas ou atualizações das partes interessadas: a IA resume de forma estruturada as tarefas concluídas, os bloqueios ainda pendentes e os marcos alcançados, economizando tempo nas revisões de sprints e documentando o progresso de forma consistente.'
+        icon: arrow-right
+
     - name: "content-13"
       weight: 18
       class:
@@ -148,11 +173,23 @@ sections:
       items: 
       - q: "Posso utilizar o modelo Kanban do SeaTable gratuitamente?"
         a: 'Sim, pode utilizar todos os modelos gratuitamente por um período de tempo ilimitado. Tudo o que precisa é de uma conta gratuita e pode começar a utilizar o seu software de quadro kanban imediatamente.'
-      - q: "O SeaTable, enquanto ferramenta Kanban, permite-me definir limites de WIP?"
-        a: "Sim, no nosso modelo pode definir limites individuais para cada membro da equipa na tabela Limite WIP. Pode utilizar a função de notificação integrada para definir alertas se um limite for ultrapassado. Já foi criado um exemplo de notificação na nossa ferramenta Kanban."
-      - q: "Gostaria que os membros da minha equipa vissem apenas as suas próprias tarefas. É possível?"
-        a: 'Quando cria um quadro Kanban digital com o SeaTable, pode definir direitos de leitura e de acesso. Por exemplo, pode criar um quadro Kanban para as suas equipas e um quadro separado para cada membro da equipa que só pode ser visto por eles.'
-      - q: "Gostaria de utilizar o SeaTable como uma ferramenta Kanban. Existe apoio gratuito?"
-        a: 'Sim, pode contactar a nossa equipa de apoio com questões de qualquer tipo. Pode colocar uma questão no nosso Fórum da Comunidade ou contactar-nos diretamente por correio eletrónico.'
+      - q: "O SeaTable é uma alternativa ao Trello, Jira ou Asana para Kanban?"
+        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Asana]({{< relref "pages/asana-alternative" >}}), Jira e Trello. Ao contrário dessas ferramentas, o SeaTable oferece não apenas quadros Kanban, mas também funcionalidade flexível de banco de dados, automações baseadas em IA, permissões granulares e conformidade total com o RGPD por meio de hospedagem alemã — tudo em uma única plataforma.'
+      - q: "É possível importar o meu quadro Trello existente para o SeaTable?"
+        a: 'Sim, é possível migrar os seus quadros do Trello para o SeaTable sem problemas. O SeaTable suporta a importação de ficheiros CSV e exportações JSON. Após a importação, pode ajustar a estrutura dos dados, adicionar colunas adicionais e beneficiar de todas as funcionalidades do SeaTable, como automação de IA e permissões avançadas.'
+      - q: "O SeaTable permite definir limites WIP como ferramenta Kanban?"
+        a: "Sim, no nosso modelo, é possível definir limites individuais para cada membro da equipa na tabela «Limite WIP». Com a função de notificação integrada, pode configurar alertas para quando um limite for excedido. A nossa ferramenta Kanban já inclui um modelo de notificação."
+      - q: "Gostaria que os membros da minha equipa visualizassem apenas as suas próprias tarefas. Isso é possível?"
+        a: 'Ao criar um quadro Kanban digital online com o SeaTable, é possível definir direitos de leitura e acesso individualmente. Por exemplo, pode criar um quadro Kanban para as suas equipas e um quadro separado para cada membro da equipa, visível apenas para ele. Também é possível definir filtros para que os funcionários vejam apenas as tarefas que lhes foram atribuídas.'
+      - q: "O SeaTable suporta métodos ágeis como Scrum e planeamento de sprints?"
+        a: 'Sim, o modelo do quadro Kanban pode ser adaptado de forma flexível para o Scrum. É possível representar sprints como colunas ou tabelas separadas, adicionar pontos de história, criar gráficos de burndown e documentar retrospectivas. O modelo é adequado tanto para o Kanban clássico como para abordagens híbridas Scrum/Kanban.'
+      - q: "É possível gerir e mover tarefas também em dispositivos móveis?"
+        a: 'Sim, o quadro Kanban é totalmente otimizado para dispositivos móveis. É possível criar, editar, comentar e mover tarefas entre colunas por arrastar e soltar com um smartphone ou tablet, seja no escritório, em casa ou em trânsito. Todas as alterações são sincronizadas imediatamente com a sua equipa.'
+      - q: "É possível receber alertas automáticos sobre tarefas em atraso?"
+        a: 'Sim, o modelo de quadro Kanban suporta notificações e alertas inteligentes. É possível definir alertas automáticos para prazos vencidos, tarefas sem atribuição, limites de WIP excedidos ou tarefas bloqueadas. A IA também pode alertar proativamente sobre riscos no seu fluxo de trabalho.' 
+      - q: "É possível criar vários quadros Kanban para diferentes projetos?"
+        a: 'Sim, é possível criar quantos quadros Kanban desejar para diferentes projetos, equipas ou fluxos de trabalho. Cada quadro pode ser configurado individualmente, com colunas, limites de WIP, permissões e automatizações próprias. Os quadros podem ser interligados para representar dependências entre projetos.'  
+      - q: "Gostaria de utilizar o SeaTable como ferramenta Kanban. Existe suporte gratuito?"
+        a: 'Sim, pode contactar o nosso suporte técnico para esclarecer qualquer dúvida. Para tal, coloque a sua questão no nosso fórum da comunidade ou contacte-nos diretamente por e-mail.'
 
 ---

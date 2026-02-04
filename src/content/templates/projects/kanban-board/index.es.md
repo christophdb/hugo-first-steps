@@ -125,7 +125,32 @@ sections:
       buttons:
         - label: Utilice ahora la tabla Kanban
           link: pages/registration
-          
+    
+    - name: "content-9"
+      weight: 16
+      title: 'Gestión de tareas basada en IA con SeaTable'
+      subtitle: 'Automatización inteligente'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán su tablero Kanban a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
+      items:
+      - headline: 'Priorización automática y asignación con Classify'
+        text: 'Clasifique automáticamente las nuevas tareas según su urgencia: la función de IA «Classify» evalúa las tareas en función de su descripción y fecha de vencimiento, y las asigna automáticamente a los niveles de prioridad «Alta», «Media» o «Baja», lo que ahorra tiempo en la clasificación y garantiza unos estándares uniformes en el equipo.'
+        icon: table
+      - headline: 'Descripciones de tareas con Summarize'
+        text: 'La función «Resumir» crea automáticamente descripciones breves y concisas a partir de textos de tareas más largos o contenidos de correos electrónicos copiados. Es perfecta para actualizaciones rápidas del equipo y reuniones diarias: todos pueden ver de un vistazo de qué se trata sin tener que leer textos largos.'
+        icon: circle-info
+      - headline: 'Estimaciones automáticas con Extract'
+        text: 'La función Extract reconoce automáticamente la información importante en las descripciones de las tareas, como los datos temporales («aproximadamente 3 horas»), los nombres de los miembros del equipo mencionados o las dependencias técnicas, y la introduce en columnas separadas, lo que reduce considerablemente el trabajo manual posterior.'
+        icon: layer-group
+      - headline: 'Flujos de trabajo personalizados con Custom Prompt'
+        text: 'Con la función Custom Prompt, puede definir sus propias instrucciones de IA para automatizaciones específicas del flujo de trabajo. Ejemplos: generación automática de criterios de aceptación, asignación inteligente a los miembros del equipo en función de sus habilidades o creación automática de subtareas, según sus necesidades.'
+        icon: wand-magic-sparkles
+      - headline: 'Reconocimiento de documentos para archivos adjuntos con OCR'
+        text: 'Suba maquetas de diseño, fotos de pizarras blancas o notas manuscritas: la función OCR reconoce automáticamente el texto, los requisitos y los detalles, y los transfiere a la descripción de la tarea. Ideal para resultados de talleres o capturas rápidas con el smartphone.'
+        icon: image  
+      - headline: 'Informes Sprint con solo pulsar un botón'
+        text: 'Cree automáticamente resúmenes de sprints para retrospectivas o actualizaciones de las partes interesadas: la IA resume de forma estructurada las tareas completadas, los obstáculos pendientes y los hitos alcanzados, lo que ahorra tiempo en las revisiones de sprints y documenta el progreso de forma coherente.'
+        icon: arrow-right
+
     - name: "content-13"
       weight: 18
       class:
@@ -148,11 +173,23 @@ sections:
       items: 
       - q: "¿Puedo utilizar gratuitamente la plantilla Kanban de SeaTable?"
         a: 'Sí, puede utilizar todas las plantillas gratuitamente durante un periodo de tiempo ilimitado. Todo lo que necesita es una cuenta gratuita y podrá empezar a utilizar su software de tablero kanban de inmediato.'
-      - q: "¿SeaTable como herramienta Kanban me permite establecer límites WIP?"
-        a: "Sí, en nuestra plantilla puede definir límites individuales para cada miembro del equipo en la tabla Límite WIP. Puede utilizar la función de notificación integrada para establecer alertas si se supera un límite. Ya se ha creado un ejemplo de notificación en nuestra herramienta Kanban."
-      - q: "Me gustaría que los miembros de mi equipo sólo vieran sus propias tareas. ¿Es posible?"
-        a: 'Cuando crea un tablero Kanban digital con SeaTable, puede establecer derechos de lectura y acceso. Por ejemplo, puede crear un tablero Kanban para sus equipos y un tablero independiente para cada miembro del equipo que sólo puedan ver ellos.'
-      - q: "Me gustaría utilizar SeaTable como herramienta Kanban. ¿Existe soporte gratuito?"
-        a: 'Sí, puede ponerse en contacto con nuestro equipo de asistencia si tiene preguntas de cualquier tipo. Puede publicar una pregunta en nuestro Foro comunitario o ponerse en contacto con nosotros directamente por correo electrónico.'
+      - q: "¿SeaTable es una alternativa a Trello, Jira o Asana para Kanban?"
+        a: 'Sí, SeaTable es una potente [alternativa a Asana]({{< relref "pages/asana-alternative" >}}), Jira y Trello. A diferencia de estas herramientas, SeaTable no solo ofrece tableros Kanban, sino también una funcionalidad de base de datos flexible, automatizaciones basadas en IA, permisos granulares y total conformidad con el RGPD gracias al alojamiento en Alemania, todo ello en una sola plataforma.'
+      - q: "¿Puedo importar mi tablero Trello actual a SeaTable?"
+        a: 'Sí, puede migrar fácilmente sus tableros de Trello a SeaTable. SeaTable admite la importación de archivos CSV y la exportación de JSON. Después de la importación, puede personalizar la estructura de datos, añadir columnas adicionales y beneficiarse de todas las funciones de SeaTable, como la automatización con IA y los permisos avanzados.'
+      - q: "¿SeaTable me permite establecer límites WIP como herramienta Kanban?"
+        a: "Sí, en nuestra plantilla puede definir límites individuales para cada miembro del equipo en la tabla «Límite WIP». Con la función de notificación integrada, puede configurar alertas para cuando se supere un límite. En nuestra herramienta Kanban ya hay creada una notificación de muestra."
+      - q: "Quiero que los miembros de mi equipo solo vean sus propias tareas. ¿Es posible?"
+        a: 'Si crea un tablero Kanban digital en línea con SeaTable, puede configurar los derechos de lectura y acceso de forma individual. Por ejemplo, puede crear un tablero Kanban para sus equipos y un tablero separado para cada miembro del equipo, que solo él pueda ver. También se pueden establecer filtros para que los empleados solo vean las tareas que se les han asignado.'
+      - q: "¿SeaTable es compatible con métodos ágiles como Scrum y la planificación de sprints?"
+        a: 'Sí, la plantilla del tablero Kanban se puede adaptar de forma flexible para Scrum. Puede representar sprints como columnas o tablas separadas, añadir puntos de historia, crear gráficos de burndown y documentar retrospectivas. La plantilla es adecuada tanto para el Kanban clásico como para los enfoques híbridos Scrum/Kanban.'
+      - q: "¿Puedo gestionar y mover tareas también desde el móvil?"
+        a: 'Sí, el tablero Kanban está totalmente optimizado para dispositivos móviles. Puede crear, editar y comentar tareas con su smartphone o tableta, así como moverlas entre columnas mediante arrastrar y soltar, ya sea en la oficina, en su casa o mientras se desplaza. Todos los cambios se sincronizan inmediatamente con su equipo.'
+      - q: "¿Puedo recibir avisos automáticos sobre tareas vencidas?"
+        a: 'Sí, la plantilla del tablero Kanban admite notificaciones y alertas inteligentes. Puede definir alertas automáticas para plazos vencidos, tareas sin asignar, límites de trabajo en curso (WIP) excedidos o tareas bloqueadas. La IA también puede señalar de forma proactiva los riesgos en su flujo de trabajo.' 
+      - q: "¿Puedo crear varios tableros Kanban para diferentes proyectos?"
+        a: 'Sí, puede crear tantos tableros Kanban como desee para diferentes proyectos, equipos o flujos de trabajo. Cada tablero se puede configurar de forma individual, con sus propias columnas, límites de trabajo en curso, permisos y automatizaciones. Los tableros se pueden vincular entre sí para reflejar las dependencias entre proyectos.'  
+      - q: "Me gustaría utilizar SeaTable como herramienta Kanban. ¿Existe algún servicio de asistencia gratuito?"
+        a: 'Sí, puede ponerse en contacto con nuestro servicio de asistencia para cualquier tipo de pregunta. Para ello, plantee su pregunta en nuestro foro comunitario o póngase en contacto con nosotros directamente por correo electrónico.'
 
 ---

@@ -125,7 +125,32 @@ sections:
       buttons:
         - label: Jetzt das Kanban Board nutzen
           link: pages/registration
-          
+
+    - name: "content-9"
+      weight: 16
+      title: 'KI-gestütztes Aufgabenmanagement mit SeaTable'
+      subtitle: 'Smarte Automatisierung'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihr Kanban Board auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
+      items:
+      - headline: 'Automatische Priorisierung mit Classify'
+        text: 'Lassen Sie neue Tasks automatisch nach Dringlichkeit einordnen: Die KI-Funktion „Classify" bewertet Aufgaben anhand ihrer Beschreibung und des Fälligkeitsdatums und weist sie automatisch den Prioritätsstufen „Hoch", „Mittel" oder „Niedrig" zu – spart Zeit bei der Triage und sorgt für einheitliche Standards im Team.'
+        icon: table
+      - headline: 'Aufgabenbeschreibungen mit Summarize'
+        text: 'Die Summarize-Funktion erstellt automatisch prägnante Kurzbeschreibungen aus längeren Aufgabentexten oder kopierten E-Mail-Inhalten. Perfekt für schnelle Team-Updates und Daily Standups – alle sehen auf einen Blick, worum es geht, ohne lange Texte lesen zu müssen.'
+        icon: circle-info
+      - headline: 'Automatische Schätzungen mit Extract'
+        text: 'Die Extract-Funktion erkennt in Aufgabenbeschreibungen automatisch wichtige Informationen wie Zeitangaben („etwa 3 Stunden"), erwähnte Namen von Teammitgliedern oder technische Abhängigkeiten und trägt sie in separate Spalten ein – reduziert manuelles Nachbearbeiten erheblich.'
+        icon: layer-group
+      - headline: 'Maßgeschneiderte Workflows mit Custom Prompt'
+        text: 'Mit der Custom-Prompt-Funktion definieren Sie eigene KI-Anweisungen für spezifische Workflow-Automatisierungen. Beispiele: Automatische Generierung von Akzeptanzkriterien, intelligente Zuordnung zu Teammitgliedern basierend auf Skills oder automatische Erstellung von Subtasks – ganz nach Ihren Anforderungen.'
+        icon: wand-magic-sparkles
+      - headline: 'Dokumentenerkennung für Attachments mit OCR'
+        text: 'Laden Sie Design-Mockups, Whiteboard-Fotos oder handschriftliche Notizen hoch – die OCR-Funktion erkennt automatisch Text, Anforderungen und Details und überträgt sie in Ihre Aufgabenbeschreibung. Ideal für Workshop-Ergebnisse oder Quick-Captures mit dem Smartphone.'
+        icon: image  
+      - headline: 'Sprint-Berichte auf Knopfdruck'
+        text: 'Erstellen Sie automatisch Sprint-Zusammenfassungen für Retrospektiven oder Stakeholder-Updates: Die KI fasst abgeschlossene Tasks, noch offene Blocker und erreichte Meilensteine strukturiert zusammen – spart Zeit in Sprint Reviews und dokumentiert Fortschritte konsistent.'
+        icon: arrow-right
+                
     - name: "content-13"
       weight: 18
       class:
@@ -148,10 +173,22 @@ sections:
       items:
       - q: "Kann ich die Kanban Vorlage von SeaTable kostenlos nutzen?"
         a: 'Ja, Sie können mit SeaTable die Vorlage "Kanban Board erstellen" kostenlos nutzen. Dafür benötigen Sie lediglich einen kostenfreien Account und können sofort loslegen, Ihre Kanban Board Software zu nutzen.'
+      - q: "Ist SeaTable eine Alternative zu Trello, Jira oder Asana für Kanban?"
+        a: 'Ja, SeaTable ist eine leistungsstarke [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}), Jira und Trello. Im Gegensatz zu diesen Tools bietet SeaTable nicht nur Kanban-Boards, sondern auch flexible Datenbank-Funktionalität, KI-gestützte Automatisierungen, granulare Berechtigungen und vollständige DSGVO-Konformität durch deutsches Hosting – alles in einer Plattform.'
+      - q: "Kann ich mein bestehendes Trello-Board in SeaTable importieren?"
+        a: 'Ja, Sie können Ihre Trello-Boards problemlos in SeaTable migrieren. SeaTable unterstützt den Import von CSV-Dateien und JSON-Exporten. Nach dem Import können Sie die Datenstruktur anpassen, zusätzliche Spalten hinzufügen und von allen SeaTable-Funktionen wie KI-Automatisierung und erweiterten Berechtigungen profitieren.'
       - q: "Erlaubt mir SeaTable als Kanban-Tool WIP-Limits zu setzen?"
         a: "Ja, in unserer Vorlage können Sie im Table 'WIP-Limit' für jedes Teammitglied eigene Limits definieren. Mit der integrierten Benachrichtigungsfunktion richten Sie Alerts ein, wenn ein Limit überschritten wird. In unserem Kanban Tool ist bereits eine Musterbenachrichtigung angelegt."
       - q: "Ich möchte, dass meine Teammitglieder nur ihre eigenen Aufgaben sehen. Geht das?"
-        a: 'Wenn Sie mit SeaTable ein  ein digitales Kanban Board online erstellen, können Sie Lese- und Zugriffsrechte einstellen. Sie können z. B. für sich ein Kanban Board für Ihre Teams anlegen und für jedes Teammitglied ein separates, nur für es einsehbares Board.'
+        a: 'Wenn Sie mit SeaTable ein digitales Kanban Board online erstellen, können Sie Lese- und Zugriffsrechte individuell einstellen. Sie können z. B. für sich ein Kanban Board für Ihre Teams anlegen und für jedes Teammitglied ein separates, nur für es einsehbares Board. Auch Filter können so gesetzt werden, dass Mitarbeiter nur ihre zugewiesenen Tasks sehen.'
+      - q: "Unterstützt SeaTable agile Methoden wie Scrum und Sprint-Planung?"
+        a: 'Ja, die Kanban Board Vorlage lässt sich flexibel für Scrum anpassen. Sie können Sprints als separate Spalten oder Tabellen abbilden, Story Points hinzufügen, Burndown-Charts erstellen und Retrospektiven dokumentieren. Die Vorlage eignet sich sowohl für klassisches Kanban als auch für hybride Scrum/Kanban-Ansätze.'
+      - q: "Kann ich Aufgaben auch mobil verwalten und verschieben?"
+        a: 'Ja, das Kanban Board ist vollständig mobil optimiert. Sie können Tasks mit Smartphone oder Tablet erstellen, bearbeiten, kommentieren und per Drag-and-Drop zwischen Spalten verschieben – egal ob im Büro, im Homeoffice oder unterwegs. Alle Änderungen synchronisieren sich sofort mit Ihrem Team.'
+      - q: "Kann ich automatisch vor überfälligen Tasks gewarnt werden?"
+        a: 'Ja, die Kanban Board Vorlage unterstützt intelligente Benachrichtigungen und Alerts. Sie können automatische Warnungen für überfällige Deadlines, Tasks ohne Zuweisung, überschrittene WIP-Limits oder blockierte Aufgaben definieren. Die KI kann zudem proaktiv auf Risiken in Ihrem Workflow hinweisen.' 
+      - q: "Kann ich mehrere Kanban Boards für verschiedene Projekte erstellen?"
+        a: 'Ja, Sie können beliebig viele Kanban Boards für unterschiedliche Projekte, Teams oder Workflows erstellen. Jedes Board kann individuell konfiguriert werden – mit eigenen Spalten, WIP-Limits, Berechtigungen und Automatisierungen. Die Boards können miteinander verknüpft werden, um projektübergreifende Abhängigkeiten abzubilden.'  
       - q: "Ich möchte SeaTable als Kanban-Tool nutzen. Gibt es einen kostenlosen Support?"
         a: 'Ja, Sie können sich bei Fragen jeder Art an unseren Support wenden. Stellen Sie dafür entweder eine Frage in unserem Community Forum oder kontaktieren Sie uns direkt per E-Mail.'
 
