@@ -15,7 +15,7 @@ sections:
       weight: 1
       subtitle: The No-Code Solution for Your IT Organization
       title: IT Service Management with SeaTable
-      text: In an increasingly digitalized world, efficient and flexible IT Service Management (ITSM) is essential to meet the complex demands of modern IT organizations. With SeaTable, you can design your ITSM processes flexibly and securely—without compromising compliance or innovation!
+      text: In an increasingly digitized world, efficient and flexible IT Service Management (ITSM) is essential. Harness the full power of Artificial Intelligence directly within your spreadsheets to make ITSM processes smarter and more secure – without compromising on compliance or innovation!
       classes:
           - bg-gray-200
       template: 51d678ca8b004e9b9b79
@@ -31,51 +31,52 @@ sections:
       classes:
           - curved
           - bg-seatable-blue
-      title: ITSM Processes Tailored to Your Needs
+      title: ITSM Processes Exactly How You Want Them
       subtitle: Flexibility, Security, Efficiency
-      description: With the user-friendly no- and low-code platform, you can simply and efficiently map your IT Service Management processes! SeaTable offers customizable workflows that integrate flexibly into your existing systems—keeping you agile and well-prepared for future developments.
+      description: Map your IT Service Management processes with ease using our user-friendly AI no-code platform! Thanks to new AI integrations, you can automate data processing and analysis directly within your workflow – staying agile and at the forefront of technology.
       items:
           - text: GDPR-compliant
-          - text: 'Easy implementation: No-Code or Low-Code'
-          - text: 'Automated workflows'
+          - text: Native AI integration (OpenAI, Anthropic, Mistral)
+          - text: 'Easy implementation: No-code or low-code'
+          - text: Automated AI workflows
           - text: Permission management
-          - text: App Builder for frontend use
+          - text: App Builder for frontend usage
           - text: SeaTable Cloud or SeaTable Server
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
-      image_alt: 'SeaTable interface for individual IT service management with tickets and assets'
+      image_alt: 'SeaTable interface for custom IT Service Management with tickets and assets'
 
     - name: content-25
       weight: 3
       title: Powerful Features for Your IT Service Management
-      subtitle: No-Code Solution for Efficient Work
-      text: 'SeaTable combines the advantages of a spreadsheet with the power of a database and a no-code app builder. This combination enables IT teams to efficiently manage complex workflows and data while implementing their IT strategy agilely, making SeaTable an indispensable solution:'
+      subtitle: No-code solution for efficient operations
+      text: 'As an [AI No-Code Platform]({{< relref "/" >}}), SeaTable combines the familiarity of a spreadsheet with the power of a database and a [No-Code App Builder]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}). This combination enables IT teams to efficiently manage complex workflows and data while agilely executing their IT strategy, making SeaTable an indispensable solution:'
       items:
-          - headline: Customizable Tables and Views
-            text: User-defined table structures and visualizations for better organization of IT projects.
+          - headline: Intelligent AI Column
+            text: Use AI directly in your table to summarize ticket descriptions, generate code snippets, or automatically categorize incidents.
             image: /images/Software-Deevelopment_Views.png
-            image_alt: 'SeaTable table and board views for organizing IT projects'
+            image_alt: 'SeaTable AI column for automatic data processing'
           - headline: Calculations and Formula Editor
-            text: Detailed evaluations and analyses with an intuitive formula editor and statistics module.
+            text: Perform detailed evaluations and analyses with an intuitive formula editor and statistics module.
             image: /images/Software-Development_Formula.png
-            image_alt: 'SeaTable formula editor and statistics for IT analyses'
+            image_alt: 'SeaTable formula editor and statistics for IT reporting'
           - headline: Granular Access Rights
-            text: Manage access and editing rights at various levels for maximum security and compliance.
+            text: Manage access and editing permissions at various levels for maximum security and compliance.
             image: /images/Software-Development_Permission-sets.png
             image_alt: 'SeaTable view for granular access rights and permission sets'
           - headline: Versioning and Change Tracking
-            text: Track all changes in real time and restore previous versions.
+            text: Track all changes in real-time and restore previous versions whenever needed.
             image: /images/Software-Development_Logs.png
             image_alt: 'SeaTable change logs for versioning and audit trails in ITSM'
           - headline: Project Management App
-            text: With SeaTable's no-code app builder, create web-based apps—no programming knowledge required. In such a project management app, you can precisely control which data your project team members can see and how it's visualized.
+            text: Create web-based apps with SeaTable’s No-Code App Builder – no programming skills required. Within such an app, you can precisely control who in your project team can see which data and how it is visualized.
             image: /images/Software-Development_Universal-App.png
-            image_alt: 'SeaTable project management app for web-based IT service management workflows'
+            image_alt: 'SeaTable Project Management App for web-based ITSM workflows'
 
     - name: 'content-10'
       weight: 4
-      title: 'Connect SeaTable with Your IT Organization'
+      title: 'Connect SeaTable to Your IT Organization'
       subtitle: 'Standard Integrations'
-      description: Link SeaTable with all the apps you already use and leverage it as the central hub for your entire IT Service Management.
+      description: Link SeaTable to your existing tools or use the new AI data query feature to structure information across different systems.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -84,140 +85,142 @@ sections:
 
     - name: 'content-9'
       weight: 5
-      title: IT Service Management Without Compromise
-      subtitle: Benefits of SeaTable
+      title: IT Service Management Without Compromises
+      subtitle: Advantages of SeaTable
       description: SeaTable supports IT transformation processes through its flexible customization options and [automated workflows]({{< relref "pages/industry-solutions/individual" >}}). By combining powerful data management with intuitive application development, you can digitize and automate even complex processes quickly and securely.
       items:
-          - headline: Security Requirements and Innovations
-            text: Drive innovation without compromising security? SeaTable ensures compliance with the highest security standards. Thanks to granular access rights and **GDPR-compliant data processing**, you can innovatively design your IT processes without compromising data security.
+          - headline: Security Requirements and Innovation
+            text: Driving innovation without jeopardizing security? SeaTable ensures compliance with the highest security standards. Thanks to granular access rights and **GDPR-compliant data processing**, you can design innovative IT processes without compromising data security.
             icon: circle-question
           - headline: License Management and Compliance
-            text: With SeaTable, you always keep track of your licenses and can ensure that your organization remains **compliant at all times**. Automated workflows help efficiently monitor and manage license terms and compliance policies.
+            text: Keep a constant overview of your licenses with SeaTable and ensure your organization **remains compliant at all times**. Automated workflows help monitor and manage license terms and compliance policies efficiently.
             icon: circle-question
-          - headline: Custom Automations and Workflows
-            text: Why complete tasks manually when you can automate them? Create **custom automations** to reduce routine tasks, minimize errors, and increase efficiency.
+          - headline: Intelligent Automations
+            text: Reduce manual routine tasks with AI automations that recognize language, translate text, or suggest incident priorities.
             icon: circle-question
           - headline: Customizable Table Structures and Views
-            text: User-defined table structures and display options like [Kanban boards]({{< relref "posts/kanban board freeware" >}}), calendars, and Gantt charts enable better organization of IT Service Management processes.
+            text: Custom table structures and visualization options like [Kanban boards]({{< relref "posts/kanban board freeware" >}}), calendars, and Gantt charts enable better organization of ITSM processes.
             icon: circle-question
-          - headline: Custom Dashboards and Forms
-            text: Create **tailored dashboards** and forms for requirements analysis, product development, and reporting.
+          - headline: Customizable Dashboards with AI Insights
+            text: 'Build dashboards that don’t just visualize data, but also provide trends and forecasts for your IT infrastructure via AI integration.'
             icon: circle-question
           - headline: Flexible and Secure Software Management
-            text: SeaTable offers innovative, customizable software management that helps IT organizations **optimize and digitize their ITSM processes**.
+            text: SeaTable offers innovative, individually customizable software management that helps IT organizations **optimize and digitize their ITSM processes**.
             icon: circle-question
 
     - name: banner-2
       weight: 6
-      title: Complex IT Processes Made Simple <br>– with SeaTable
+      title: Complex IT Processes Simplified <br>– Now with AI Power in SeaTable
       buttons:
-          - label: Register Now and Get Started
+          - label: Register and Get Started Now
             link: pages/registration
 
     - name: 'content-8'
       weight: 10
-      title: Get Started With Our Free ITSM Templates
+      title: Hit the Ground Running with Our Free ITSM Templates
       subtitle: Templates
-      description:
-          "With our free, flexibly customizable IT Service Management templates, you can start right away. All templates are infinitely expandable, allowing them to be tailored precisely to your IT organization's specific requirements:<br><br>
-          **Import templates into your SeaTable account with just one click!**"
+      description: "Start immediately with our free, flexibly customizable IT Service Management templates. All templates are fully expandable to meet the specific requirements of your IT organization:<br><br>**Import templates into your SeaTable account with just one click!**"
       items:
           - text: Software Testing
             image: /images/Software-Dev_-Software-Test_Template.png
-            image_alt: 'SeaTable ITSM template for organizing software tests and test cases'
+            image_alt: "SeaTable ITSM template for organizing software tests and test cases"
           - text: Bug Tracker
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            image_alt: 'SeaTable bug tracker template for logging and tracking IT issues'
+            image_alt: "SeaTable Bug Tracker template for capturing and tracking IT issues"
           - text: Product Launch
             image: /images/Software-Dev_-Product-Launch_Template.png
-            image_alt: 'SeaTable template for planning product launches in IT projects'
+            image_alt: "SeaTable template for planning product launches in IT projects"
           - text: Technology Roadmap
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            image_alt: 'SeaTable template for technology roadmap and IT strategy planning'
+            image_alt: "SeaTable template for technology roadmaps and IT strategy planning"
           - text: Feature Requests
             image: /images/Software-Dev_-Feature-Request_Template.png
-            image_alt: 'SeaTable template for capturing and prioritizing feature requests'
+            image_alt: "SeaTable template for capturing and prioritizing feature requests"
           - text: Kanban Board
             image: /images/Software-Dev_-Kanban_Template.png
-            image_alt: 'SeaTable Kanban board template for IT service management tasks'
+            image_alt: "SeaTable Kanban board template for ITSM tasks"
       buttons:
-          - label: Discover All Templates
-            link: 'templates'
+        - label: Discover All Templates
+          link: 'templates'
 
-    - name: 'content-16'
+    - name: "content-16"
       weight: 11
       title: ITSM Processes in SeaTable
-      subtitle: No Coding Required
-      description: 'Digital and automated processes are crucial for your IT success. SeaTable provides all the features needed to efficiently manage key service management processes.'
+      subtitle: No Programming Knowledge Required
+      description: "Digital and AI-supported automated processes are vital to your IT's success. SeaTable provides all the features to efficiently manage critical Service Management processes."
       items:
-          - headline: Incident Management and IT Ticketing System
-            text: Efficiently manage and track IT incidents in real-time. Use custom workflows for outage management and rapid problem resolution.
-          - headline: Problem Management
-            text: "Use SeaTable's features to document and optimize problem solutions and create a knowledge base."
-          - headline: Change Management
-            text: Plan and manage IT infrastructure changes systematically and securely. Automated workflows help control the entire change process from requirement analysis to implementation.
-          - headline: License Management
-            text: "Use SeaTable's license management software to efficiently manage licenses and ensure compliance. Centrally organize and monitor your license data to optimize costs and minimize risks."
-          - headline: Software Management
-            text: Use SeaTable for effective software management to plan and execute software projects and developments in a structured and transparent way.
-          - headline: Scalability and Flexibility
-            text: Different license models (Free, Plus, Enterprise) and deployment options (Dedicated, Server) adapt to your requirements. No credit card is needed to test the platform, allowing you to immediately start optimizing your ITSM processes.
+      - headline: Incident Management and IT Ticketing System
+        text: Manage and track IT incidents efficiently and in real-time. Automate ticket classification using AI. Incoming emails or form entries are instantly analyzed and assigned to the correct team.
+      - headline: Problem Management
+        text: Use SeaTable’s features to document and optimize problem resolution and build a comprehensive knowledge base.
+      - headline: Change Management with Risk Assessment
+        text: Plan and manage IT infrastructure changes in a structured and secure manner. Use AI-driven analysis to better assess potential risks of planned changes based on historical data.
+      - headline: License Management and Administration
+        text: Utilize SeaTable’s license management software to efficiently manage licenses and ensure compliance. Organize and monitor your license data centrally to optimize costs and minimize risks.
+      - headline: Software Management
+        text: Use SeaTable to plan software projects and keep technical documentation up-to-date with AI assistance.
+      - headline: Scalability and Flexibility
+        text: Different license models (Free, Plus, Enterprise) and deployment options (Cloud, Dedicated, Server) adapt to your needs. No credit card is required to test the platform and start optimizing your ITSM processes immediately.
 
-    - name: 'content-11'
+    - name: "content-11"
       weight: 12
-      title: IT Transformation With SeaTable
+      title: IT Transformation with SeaTable
       subtitle: The Solution for All IT Service Management Systems
       items:
-          - text: Accelerate your digital transformation while aligning your IT strategy with overarching business goals! With SeaTable, you can customize [digital processes]({{< relref "pages/industry-solutions/operations" >}}) to your company's specific requirements. Through integrations and flexible data models, you can effectively implement digital strategies and accelerate your IT transformation.
-            image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
-            image_alt: 'SeaTable dashboard for digital transformation and IT service management'
-            image_position: right
+      - text: Accelerate your digital transformation while aligning your IT strategy with overall business goals! With SeaTable, you can tailor your [digital processes]({{< relref "pages/industry-solutions/operations" >}}) to your company's specific needs. Through integrations and flexible data models, you can effectively implement digital strategies and speed up your IT transformation.
+      image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
+      image_alt: 'SeaTable dashboard for digital transformation and IT Service Management'
+      image_position: right
 
     - name: 'content-4'
       weight: 13
-      title: IT Service Management With SeaTable
-      subtitle: "Make the Switch Now – It's That Easy!"
-      text: 'SeaTable offers a future-proof IT Service Management solution that supports IT teams through flexibility, security, and user-friendliness. The platform enables quick implementation of ITSM processes and integrates various service management frameworks for efficient IT organization.'
+      title: IT Service Management with SeaTable
+      subtitle: Switch Now – It’s That Easy!
+      text: 'SeaTable offers a future-proof ITSM solution that supports IT teams through flexibility, security, and ease of use. The platform enables rapid implementation of ITSM processes and integrates various service management frameworks for an efficient IT organization.'
       items:
           - icon: signature
-            headline: Easy Transition
-            text: 'Switching to SeaTable is child’s play: Simply register with your email address and get started right away – no credit card required, no hidden costs!<br><br>SeaTable offers numerous import options that make migrating your data simple.'
+            headline: Easy Migration
+            text: 'Switching to SeaTable is a breeze: Just sign up with your email address and start immediately – no credit card, no hidden costs!<br><br>SeaTable offers numerous import options to make migrating your data simple.'
           - icon: building
             headline: Free Templates
-            text: "Start with a free IT template and see for yourself SeaTable's power and flexibility! You'll quickly notice how SeaTable can elevate your IT Service Management to a new level."
+            text: 'Start with a free IT template and experience SeaTable’s power and flexibility for yourself! You’ll quickly see how SeaTable can take your ITSM to the next level.'
           - icon: substack
             headline: Comprehensive Support
-            text: "We're here for you from the start if you have questions about our free project management tool. We're also happy to create a custom support package so you can fully leverage SeaTable's potential for your projects."
+            text: 'We are here to help from the start if you have questions about our free [project management tool]({{< relref "pages/industry-solutions/project-management" >}}). Furthermore, we are happy to provide a custom support offer so you can maximize SeaTable’s potential in your projects.'
           - icon: ghost
             headline: Cost-Effective Solution
-            text: "Manage your projects completely free with SeaTable's Free version – or scale SeaTable according to your needs: If you require advanced features or more storage capacity for your projects, you can easily upgrade to an affordable premium version."
+            text: "Manage your projects completely free of charge with the SeaTable Free version – or scale according to your needs. If you require advanced features or more storage capacity, you can easily upgrade to an affordable premium version."
 
     - name: faq
       weight: 14
       title: FAQ – IT Service Management with SeaTable
       items:
-          - q: 'How does SeaTable support the IT transformation of my IT organization?'
-            a: 'SeaTable provides a flexible No-Code and Low-Code platform that simplifies the adaptation and digitization of ITSM processes. It supports IT transformation processes through easy customization and integration into existing systems.'
-          - q: 'What is ITSM and what significance does it have for my IT organization?'
-            a: 'IT Service Management (ITSM) encompasses all processes and activities required to provide and manage IT services for customers. It is crucial for the efficiency and quality of IT services and enables structured management of IT infrastructure.'
-          - q: What does ITIL mean?
-            a: 'ITIL simply explained: ITIL (Information Technology Infrastructure Library) is a service management framework for managing IT services efficiently. With SeaTable, you can integrate the ITIL Service Management Framework into your ITSM service management processes and adapt it flexibly to map specific requirements. This way, you can optimize your IT processes and increase the efficiency of your IT services.'
-          - q: 'Is SeaTable as an IT Service Management software GDPR-compliant?'
-            a: 'Yes, SeaTable is fully GDPR-compliant and offers the highest security standards for protecting sensitive data in your IT. Our servers are located exclusively in Germany. The platform also provides IT security functions for monitoring and managing access rights.'
-          - q: 'What advantages does SeaTable offer compared to other ITSM software solutions like Atlassian?'
-            a: 'SeaTable offers greater flexibility and adaptability than traditional ITSM suites like Atlassian ITSM. With a No-Code and Low-Code platform that requires no programming skills, you can design and optimize your IT processes more efficiently.'
-          - q: 'How can SeaTable improve my license management?'
-            a: 'SeaTable provides comprehensive license management software that simplifies the management of software licenses and ensures your IT organization remains compliant. It helps you monitor license requirements and reduce costs. Take the next step to improve your IT Service Management and register now for free with SeaTable. Discover the future of service management with SeaTable – flexible, secure, and fully GDPR-compliant.'
+          - q: 'How does SeaTable support the IT transformation of my organization?'
+            a: 'SeaTable provides a flexible no-code and low-code platform that simplifies the adaptation and digitization of ITSM processes. It supports IT transformation through easy customization and integration into existing systems. By integrating AI models like GPT-4 or Claude directly into the table structure, processes can be intelligently automated rather than just digitized, massively accelerating transformation.'
+          - q: 'Which AI models can I use in SeaTable?'
+            a: 'SeaTable supports leading AI providers such as OpenAI (GPT), Anthropic (Claude), and Mistral. You can utilize these via the new AI column or within automations.'  
+          - q: 'What is ITSM and why is it important for my IT organization?'
+            a: 'IT Service Management (ITSM) encompasses all processes and activities required to deliver and manage IT services for customers. It is crucial for the efficiency and quality of IT services and enables structured management of the IT infrastructure.'
+          - q: 'What does ITIL mean?'
+            a: "ITIL (Information Technology Infrastructure Library) is a service management framework used to manage IT services efficiently. With SeaTable, you can integrate the ITIL framework into your ITSM processes and customize it flexibly to meet specific requirements, optimizing your IT processes and increasing service efficiency."
+          - q: "Is SeaTable GDPR-compliant as IT Service Management software?"
+            a: "Yes, SeaTable is fully GDPR-compliant and offers the highest security standards for protecting sensitive IT data. Our servers are located exclusively in Germany. The platform also includes IT security features for monitoring and managing access rights."
+          - q: "Can SeaTable handle AI automations without coding?"
+            a: "Yes, since Release 6.0, you can build AI actions directly into the no-code automation editor to, for example, automatically generate analyses or responses for new tickets."
+          - q: "What advantages does SeaTable offer compared to other ITSM solutions like Atlassian?"
+            a: "SeaTable offers greater flexibility and customizability than traditional ITSM suites like Atlassian ITSM. As a no-code/low-code platform that **requires no programming skills**, you can design and optimize your IT processes more efficiently."
+          - q: "How can SeaTable improve my license management?"
+            a: "SeaTable provides comprehensive license management capabilities that simplify administration and ensure your IT organization stays compliant. It helps monitor license requirements and reduce costs. Take the next step in improving your ITSM and register for free with SeaTable today. Discover the future of service management – flexible, secure, and fully GDPR-compliant."
 
     - name: banner-2
       weight: 15
-      title: 'Your efficient ITSM: Register now for SeaTable for free'
+      title: "Your Efficient ITSM: Register for SeaTable for Free Now"
       buttons:
-          - label: Register now
+          - label: Register Now
             link: pages/registration
 
     - name: form-contact
       weight: 16
-      title: Do you have questions about SeaTable for IT organizations and as an IT Service Management tool?
-      description: We are happy to assist you in answering your questions about SeaTable as an IT Service Management tool.
+      title: Do you have questions about SeaTable for IT organizations or as an ITSM tool?
+      description: We are happy to answer any questions you have regarding SeaTable as your IT Service Management solution.
 ---
