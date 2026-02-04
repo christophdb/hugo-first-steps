@@ -125,7 +125,32 @@ sections:
       buttons:
         - label: Use the Kanban Board now
           link: pages/registration
-          
+    
+    - name: "content-9"
+      weight: 16
+      title: 'AI-powered task management with SeaTable'
+      subtitle: 'Smart automation'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your Kanban board to the next level. Automate recurring tasks and save valuable time.'
+      items:
+      - headline: 'Prioritization with Classify'
+        text: 'Have new tasks automatically sorted by urgency: The AI function "Classify" evaluates tasks based on their description and due date and automatically assigns them to the priority levels "High," "Medium," or "Low"—saving time in triage and ensuring consistent standards across the team.'
+        icon: table
+      - headline: 'Task descriptions with Summarize'
+        text: "The Summarize feature automatically creates concise summaries from longer task texts or copied email content. Perfect for quick team updates and daily standups—everyone can see what's going on at a glance without having to read long texts."
+        icon: circle-info
+      - headline: 'Automatic estimates with Extract'
+        text: 'The Extract function automatically recognizes important information in task descriptions, such as time specifications ("approximately 3 hours"), names of team members mentioned, or technical dependencies, and enters them in separate columns—significantly reducing manual post-processing.'
+        icon: layer-group
+      - headline: 'Tailored workflows with Custom Prompt'
+        text: 'With the custom prompt feature, you can define your own AI instructions for specific workflow automations. Examples: Automatic generation of acceptance criteria, intelligent assignment to team members based on skills, or automatic creation of subtasks—all according to your requirements.'
+        icon: wand-magic-sparkles
+      - headline: 'Document recognition for attachments with OCR'
+        text: 'Upload design mockups, whiteboard photos, or handwritten notes—the OCR feature automatically recognizes text, requirements, and details and transfers them to your task description. Ideal for workshop results or quick captures with your smartphone.'
+        icon: image  
+      - headline: 'Sprint reports at the touch of a button'
+        text: 'Automatically generate sprint summaries for retrospectives or stakeholder updates: AI summarizes completed tasks, outstanding blockers, and milestones achieved in a structured manner—saving time in sprint reviews and consistently documenting progress.'
+        icon: arrow-right
+    
     - name: "content-13"
       weight: 18
       class:
@@ -148,11 +173,22 @@ sections:
       items:
       - q: "Can I use SeaTable's Kanban template free of charge?"
         a: 'Yes, you can use all templates free of charge for an unlimited period of time. All you need is a free account and you can start using your Kanban board software straight away.'
-      - q: "Does SeaTable as a Kanban tool allow me to set WIP limits?"
-        a: "Yes, in our template you can define individual limits for each team member in the 'WIP limit' table. You can use the integrated notification function to set up alerts if a limit is exceeded. A sample notification has already been created in our Kanban tool."
-      - q: "I would like my team members to only see their own tasks. Is that possible?"
-        a: 'When you create a digital Kanban board online with SeaTable, you can set read and access rights. For example, you can create a Kanban board for your teams and a separate board for each team member that can only be viewed by them.'
-      - q: "I would like to use SeaTable as a Kanban tool. Is there free support?"
-        a: 'Yes, you can contact our support team with questions of any kind. You can either post a question in our Community Forum or contact us directly by e-mail.'
-
+      - q: "Is SeaTable an alternative to Trello, Jira, or Asana for Kanban?"
+        a: 'Yes, SeaTable is a powerful [alternative to Asana]({{< relref "pages/asana-alternative" >}}), Jira and Trello. Unlike these tools, SeaTable offers not only Kanban boards, but also flexible database functionality, AI-powered automations, granular permissions, and full GDPR compliance through German hosting—all in one platform.'
+      - q: "Can I import my existing Trello board into SeaTable?"
+        a: 'Yes, you can easily migrate your Trello boards to SeaTable. SeaTable supports importing CSV files and JSON exports. After importing, you can customize the data structure, add additional columns, and benefit from all SeaTable features such as AI automation and advanced permissions.'
+      - q: "Does SeaTable allow me to set WIP limits as a Kanban tool?"
+        a: 'Yes, in our template, you can define individual limits for each team member in the "WIP Limit" table. With the integrated notification function, you can set up alerts when a limit is exceeded. A sample notification has already been created in our Kanban tool.'
+      - q: "I want my team members to only see their own tasks. Is that possible?"
+        a: 'When you create a digital Kanban board online with SeaTable, you can set individual read and access rights. For example, you can create a Kanban board for your teams and a separate board for each team member that only they can view. Filters can also be set so that employees can only see their assigned tasks.'
+      - q: "Does SeaTable support agile methods such as Scrum and sprint planning?"
+        a: 'Yes, the Kanban board template can be flexibly adapted for Scrum. You can map sprints as separate columns or tables, add story points, create burndown charts, and document retrospectives. The template is suitable for both classic Kanban and hybrid Scrum/Kanban approaches.'
+      - q: "Can I also manage and move tasks on my mobile device?"
+        a: "Yes, the Kanban board is fully optimized for mobile devices. You can create, edit, comment on, and drag and drop tasks between columns using your smartphone or tablet—whether you're in the office, working from home, or on the go. All changes are immediately synchronized with your team."
+      - q: "Can I be automatically warned about overdue tasks?"
+        a: 'Yes, the Kanban board template supports smart notifications and alerts. You can define automatic alerts for overdue deadlines, unassigned tasks, exceeded WIP limits, or blocked tasks. The AI can also proactively flag risks in your workflow.' 
+      - q: "Can I create multiple Kanban boards for different projects?"
+        a: 'Yes, you can create as many Kanban boards as you need for different projects, teams, or workflows. Each board can be configured individually—with its own columns, WIP limits, permissions, and automations. The boards can be linked to each other to map cross-project dependencies.'  
+      - q: "I would like to use SeaTable as a Kanban tool. Is there any free support available?"
+        a: 'Yes, you can contact our support team with any questions you may have. Either post your question in our community forum or contact us directly by email.'
 ---
