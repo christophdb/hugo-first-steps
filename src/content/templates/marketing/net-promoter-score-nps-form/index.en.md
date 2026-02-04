@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Integrate NPS calculators into your systems with SeaTable'
       subtitle: 'Evaluate customer satisfaction with Net Promoter Score'
-      description: 'The AI No Code database SeaTable offers all the functions you need for an NPS calculator - and is as simple as a spreadsheet.'
+      description: 'The AI No Code database SeaTable offers all the functions you need for an [NPS calculator]({{< relref "posts/net-promoter-score" >}}) - and is as simple as a spreadsheet.'
       items:
       - text: 'Up-to-date data: All new form submissions are immediately visible in the backend and can be processed immediately.'
       - text: 'Real collaboration: Work on your data together as a team - without time delays or inconsistencies.'
@@ -117,7 +117,33 @@ sections:
       buttons:
         - label: Use the NPS calculator now
           link: pages/registration
-          
+   
+    - name: "content-9"
+      weight: 16
+      title: 'AI-powered feedback analysis with SeaTable'
+      subtitle: 'Smart automation'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your NPS surveys and feedback analyses to a whole new level. Automate evaluations and gain deeper insights into customer opinions.'
+      items:
+      - headline: 'Automatic sentiment analysis with Classify'
+        text: 'Automatically classify free-text comments by sentiment: The AI function "Classify" evaluates customer feedback as "Positive", "Neutral" or "Negative" and recognises emotional tone – perfect for quickly assessing large amounts of feedback without manually reading each response.'
+        icon: table
+      - headline: 'Compact feedback summaries with Summarise'
+        text: 'The Summarise function automatically creates concise summaries from long customer reviews and free-text responses. Quickly gain an overview of key statements for yourself and your team – ideal for management reports and sprint reviews without having to work through all comments in detail.'
+        icon: circle-info
+      - headline: 'Extracting topics and problems with Extract'
+        text: 'The Extract function automatically recognises recurring themes, product names, problem areas or suggestions for improvement in customer feedback and enters them in separate columns in a structured manner. Identify systematic weaknesses and prioritise improvement measures based on data.'
+        icon: layer-group
+      - headline: 'Tailored analysis with Custom Prompt'
+        text: 'Use the custom prompt function to create individual evaluations: let the AI automatically generate specific recommendations for action based on detractor feedback, create categorisations according to product features, or identify churn risks – flexibly according to your analysis requirements.'
+        icon: wand-magic-sparkles
+      - headline: 'Automatic reports for stakeholders'
+        text: 'Automatically generate structured feedback overviews with the most common topics, top issues and recurring improvement requests. AI summarises hundreds of comments into clear lists – perfect as a basis for stakeholder presentations and action planning.'
+        icon: arrow-right
+      - headline: 'Processing multilingual feedback'
+        text: 'Use Custom Prompt to automatically translate international customer feedback into your working language. Collect reviews in different languages and have them automatically translated into the desired target language – perfect for global teams without separate manual translations.'
+        icon: language
+
+
     - name: "content-13"
       weight: 18
       class:
@@ -138,13 +164,27 @@ sections:
       title: 'FAQs about the NPS calculator from SeaTable'
       subtitle: 
       items:
-      - q: "Can I use SeaTable's NPS template free of charge?"
-        a: 'Yes, you can use SeaTable and all templates free of charge for an unlimited period of time. With a free account, you have all the functions you need to conduct even extensive surveys. You can evaluate your Net Promoter Score directly in SeaTable and create attractive reporting dashboards.'
+      - q: "Can I use the SeaTable NPS template free of charge?"
+        a: 'Yes, you can use SeaTable and all templates free of charge for an unlimited period of time. With a free account, you have access to all the features you need to conduct even extensive surveys. You can evaluate your Net Promoter Score directly in SeaTable and create attractive reporting dashboards.'
       - q: "How does an NPS score calculator work?"
-        a: "In an NPS survey, your customers indicate on a scale of 0-10 the likelihood with which they would recommend your company or product to others. Based on the answers, your customers are divided into Detractors (0-6), Passives (7-8) and Promoters (9-10). Your current NPS results from the relative share of promoters minus the relative share of detractors and can be between -100 and +100. A good Net Promoter Score template should contain an integrated NPS calculator."
-      - q: "Can I customize the Net Promoter Score template?"
-        a: 'Yes, you can customize any SeaTable template to suit your needs. The survey form in our Net Promoter Score Calculator template already includes additional questions on customer satisfaction and can be expanded as required, e.g. to create a comprehensive customer survey.'
-
-
+        a: "In an NPS survey, your customers rate on a scale of 0-10 how likely they are to recommend your company or product to others. Based on their answers, your customers are divided into detractors (0-6), passives (7-8) and promoters (9-10). Your current NPS is calculated from the relative share of promoters minus the relative share of detractors and can range from -100 to +100. A good Net Promoter Score template should include an integrated NPS calculator."
+      - q: "Can I customise the Net Promoter Score template?"
+        a: 'Yes, you can customise each SeaTable template to suit your individual needs. The survey form in our Net Promoter Score Calculator template already includes additional questions on customer satisfaction and can be expanded as required, e.g. to create a comprehensive customer survey. Add additional free text fields, multiple-choice questions or rating scales – no programming knowledge required.'
+      - q: "Is SeaTable an alternative to SurveyMonkey, Typeform or Google Forms for NPS surveys?"
+        a: 'Yes, SeaTable is a powerful alternative to external survey tools. Unlike SurveyMonkey, Typeform or Google Forms, SeaTable gives you full control over your customer data – no data leaves your system. In addition, SeaTable offers AI-powered feedback analysis, flexible dashboards and seamless integration with your existing systems – all in a GDPR-compliant platform.'
+      - q: "Can I send NPS surveys automatically by email?"
+        a: 'Yes, SeaTable can be connected to email systems and marketing automation tools. Using n8n or Zapier, you can automatically send personalised survey links to customers – e.g. after a purchase, support interactions or at regular intervals. Reminders for uncompleted surveys can also be automated.'
+      - q: "Can I be notified automatically when detractor feedback arrives?"
+        a: 'Yes, the NPS calculator template supports smart notifications. You can set up automatic alerts for critical ratings (0-6 points), which are immediately forwarded to the relevant teams via email or integrated tools such as Slack. This allows you to respond quickly to dissatisfied customers and proactively resolve issues.'
+      - q: "Does SeaTable support multilingual NPS surveys?"
+        a: 'Yes, you can create NPS surveys in as many languages as you like. The survey form can be adapted for different markets, and the AI functions can automatically evaluate and translate multilingual feedback. Perfect for international companies that want to measure customer satisfaction across national borders.'
+      - q: "Can I analyse NPS trends over time?"
+        a: 'Yes, SeaTable stores all historical data and enables comprehensive trend analyses. You can visualise the development of your Net Promoter Score over weeks, months or years, filter by time periods and track changes in the distribution of promoters, passives and detractors. Dashboards show trends graphically at a glance.'
+      - q: "Can I connect my NPS calculator to CRM systems?"
+        a: 'Yes, SeaTable offers seamless [integrations]({{< relref "pages/integrations" >}}) with n8n and Zapier. You can connect your NPS calculator to CRM systems such as Salesforce, HubSpot or Pipedrive to automatically synchronise customer reviews with contact profiles. This allows sales teams to view NPS scores directly in the CRM and respond to feedback in a targeted manner – without having to switch systems.'
+      - q: "Can I create different NPS surveys for different products or touchpoints?"
+        a: 'Yes, you can create as many NPS surveys as you like for different products, services, customer segments or touchpoints. Each survey can be customised with its own questions, designs and evaluations. The results can be analysed separately or combined – perfect for product- or department-specific evaluations.'
+      - q: "Is there support available for setting up the NPS calculator?"
+        a: 'Yes, you can contact our support team with any questions you may have. Either post your question in our community forum or contact us directly by email. Our support team will be happy to help you set up, customise and optimise your NPS surveys and dashboards.'
 
 ---
