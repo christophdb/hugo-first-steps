@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Integre as calculadoras NPS nos seus sistemas com o SeaTable'
       subtitle: 'Avalie a satisfação do cliente com o Net Promoter Score'
-      description: 'A base de dados AI no-code SeaTable oferece-lhe todas as funções de que necessita para uma calculadora NPS - e é tão simples como uma folha de cálculo.'
+      description: 'A base de dados AI no-code SeaTable oferece-lhe todas as funções de que necessita para uma [calculadora NPS]({{< relref "posts/net-promoter-score" >}}) - e é tão simples como uma folha de cálculo.'
       items:
       - text: 'Dados actualizados: Todos os novos envios de formulários são imediatamente visíveis no backend e podem ser processados imediatamente.'
       - text: 'Colaboração real: Trabalhe nos seus dados em conjunto, como uma equipa - sem atrasos ou inconsistências.'
@@ -117,7 +117,32 @@ sections:
       buttons:
         - label: Utilize a calculadora NPS agora
           link: pages/registration
-          
+    
+    - name: "content-9"
+      weight: 16
+      title: 'Análise de feedback baseada em IA com SeaTable'
+      subtitle: 'Automação inteligente'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam as suas pesquisas NPS e análises de feedback a um novo nível. Automatize as avaliações e obtenha insights mais profundos sobre as opiniões dos clientes.'
+      items:
+      - headline: 'Análise automática de sentimentos com o Classify'
+        text: 'Classifique automaticamente os comentários de texto livre de acordo com o tom: a função de IA «Classify» avalia o feedback dos clientes como «Positivo», «Neutro» ou «Negativo» e reconhece a tonalidade emocional – ideal para avaliações rápidas de grandes quantidades de feedback sem a necessidade de ler manualmente cada resposta.'
+        icon: table
+      - headline: 'Resumos compactos de feedback com o Summarize'
+        text: 'A função Summarize cria automaticamente resumos concisos a partir de avaliações longas de clientes e respostas em texto livre. Obtenha rapidamente uma visão geral das principais mensagens para si e para a sua equipa – ideal para relatórios de gestão e revisões de sprint sem a necessidade de analisar detalhadamente todos os comentários.'
+        icon: circle-info
+      - headline: 'Extrair temas e problemas com o Extract'
+        text: 'A função Extract reconhece automaticamente temas recorrentes, nomes de produtos mencionados, áreas problemáticas ou sugestões de melhoria no feedback dos clientes e insere-os de forma estruturada em colunas separadas. Identifique pontos fracos sistemáticos e priorize medidas de melhoria com base em dados.'
+        icon: layer-group
+      - headline: 'Análise personalizada com prompt personalizado'
+        text: 'Com a função Custom Prompt, é possível criar avaliações personalizadas: permita que a IA gere automaticamente recomendações de ação concretas a partir do feedback dos detratores, crie categorizações de acordo com as características do produto ou identifique riscos de rotatividade – de forma flexível, de acordo com as suas necessidades de análise.'
+        icon: wand-magic-sparkles
+      - headline: 'Relatórios automáticos para as partes interessadas'
+        text: 'Crie automaticamente resumos estruturados de feedback com os tópicos mais frequentes, os principais problemas e as sugestões de melhoria recorrentes. A IA resume centenas de comentários em listas claras – perfeitas como base para apresentações às partes interessadas e planeamento de medidas.'
+        icon: arrow-right
+      - headline: 'Processar feedback multilingue'
+        text: 'Utilize o Custom Prompt para traduzir automaticamente os comentários internacionais dos clientes para o seu idioma de trabalho. Recolha avaliações em diferentes idiomas e transfira-as automaticamente para o idioma de destino desejado – ideal para equipas globais sem traduções manuais separadas.'
+        icon: language
+
     - name: "content-13"
       weight: 18
       class:
@@ -143,8 +168,23 @@ sections:
       - q: "Como funciona uma calculadora de pontuação NPS?"
         a: "Num inquérito NPS, os seus clientes indicam, numa escala de 0 a 10, a probabilidade de recomendarem a sua empresa ou produto a outras pessoas. Com base nas respostas, os seus clientes são classificados em Detractores (0-6), Passivos (7-8) e Promotores (9-10). O seu NPS atual resulta da percentagem relativa de promotores menos a percentagem relativa de detractores e pode situar-se entre -100 e +100. Um bom modelo de Net Promoter Score deve conter uma calculadora de NPS integrada."
       - q: "Posso personalizar o modelo do Net Promoter Score?"
-        a: 'Sim, pode personalizar qualquer modelo SeaTable de acordo com as suas necessidades. O formulário de inquérito no nosso modelo Net Promoter Score Calculator já inclui perguntas adicionais sobre a satisfação do cliente e pode ser expandido conforme necessário, por exemplo, para criar um inquérito abrangente ao cliente.'
-
+        a: 'Sim, é possível personalizar cada modelo do SeaTable de acordo com as suas necessidades. O formulário de pesquisa no nosso modelo Calculadora Net Promoter Score já inclui outras perguntas sobre a satisfação do cliente e pode ser ampliado conforme necessário, por exemplo, para criar uma pesquisa abrangente com os clientes. Adicione campos de texto livre adicionais, perguntas de escolha múltipla ou escalas de avaliação, sem necessidade de conhecimentos de programação.'
+      - q: "O SeaTable é uma alternativa ao SurveyMonkey, Typeform ou Google Forms para pesquisas NPS?"
+        a: 'Sim, o SeaTable é uma alternativa eficaz às ferramentas externas de pesquisa. Ao contrário do SurveyMonkey, Typeform ou Google Forms, com o SeaTable mantém o controlo total sobre os dados dos seus clientes – nenhum dado sai do seu sistema. Além disso, o SeaTable oferece análises de feedback baseadas em IA, painéis flexíveis e integração perfeita nos seus sistemas existentes – tudo numa plataforma em conformidade com o RGPD.'
+      - q: "É possível enviar inquéritos NPS automaticamente por e-mail?"
+        a: 'Sim, o SeaTable pode ser integrado a sistemas de e-mail e ferramentas de automação de marketing. Através do n8n ou do Zapier, é possível enviar automaticamente links de inquéritos personalizados aos clientes – por exemplo, após a conclusão de uma compra, interações de suporte ou em intervalos regulares. Também é possível automatizar lembretes para inquéritos não preenchidos.'
+      - q: "É possível ser notificado automaticamente quando um feedback de detrator for recebido?"
+        a: 'Sim, o modelo da calculadora NPS suporta notificações inteligentes. É possível configurar alertas automáticos para avaliações críticas (0-6 pontos), que são imediatamente encaminhados por e-mail ou através de ferramentas integradas, como o Slack, para as equipas responsáveis. Desta forma, pode responder rapidamente a clientes insatisfeitos e resolver problemas de forma proativa.'
+      - q: "O SeaTable suporta inquéritos NPS multilingues?"
+        a: 'Sim, é possível criar inquéritos NPS em quantos idiomas desejar. O formulário do inquérito pode ser adaptado para diferentes mercados e as funcionalidades de IA podem avaliar e traduzir automaticamente o feedback multilingue. Ideal para empresas internacionais que pretendem medir a satisfação do cliente além-fronteiras.'
+      - q: "É possível analisar as tendências do NPS ao longo do tempo?"
+        a: 'Sim, o SeaTable armazena todos os dados históricos e permite análises de tendências abrangentes. É possível visualizar a evolução da sua pontuação Net Promoter ao longo de semanas, meses ou anos, filtrar por períodos e acompanhar as alterações na distribuição de promotores, passivos e detratores. Os painéis mostram as tendências graficamente de uma só vez.'
+      - q: "É possível conectar a minha calculadora NPS a sistemas de CRM?"
+        a: 'Sim, o SeaTable oferece [integrações]({{< relref "pages/integrations" >}}) perfeitas com o n8n e o Zapier. É possível conectar a sua calculadora NPS a sistemas de CRM, como Salesforce, HubSpot ou Pipedrive, para sincronizar automaticamente as avaliações dos clientes com os perfis de contacto. Assim, as equipas de vendas visualizam as pontuações NPS diretamente no CRM e podem responder de forma direcionada ao feedback, sem alterar de sistema.'
+      - q: "É possível criar diferentes inquéritos NPS para diferentes produtos ou pontos de contacto?"
+        a: 'Sim, é possível criar quantas pesquisas NPS desejar para diferentes produtos, serviços, segmentos de clientes ou pontos de contacto. Cada pesquisa pode ser personalizada com perguntas, designs e avaliações próprias. Os resultados podem ser analisados separadamente ou em conjunto – ideal para avaliações específicas de produtos ou departamentos.'
+      - q: "Existe suporte para a configuração da calculadora NPS?"
+        a: 'Sim, pode contactar o nosso suporte para qualquer tipo de dúvida. Para isso, faça uma pergunta no nosso fórum da comunidade ou contacte-nos diretamente por e-mail. A nossa equipa de suporte terá todo o prazer em ajudá-lo a configurar, personalizar e otimizar as suas pesquisas e painéis NPS.'
 
 
 ---

@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'NPS-Rechner in Ihre Systeme integrieren mit SeaTable'
       subtitle: 'Kundenzufriedenheit mit Net Promoter Score bewerten'
-      description: 'Die AI No Code Datenbank SeaTable bietet alle Funktionen, die Sie für einen NPS Rechner benötigen – und ist dabei so einfach wie eine Tabellenkalkulation.'
+      description: 'Die AI No Code Datenbank SeaTable bietet alle Funktionen, die Sie für einen [NPS Rechner]({{< relref "posts/net-promoter-score" >}}) benötigen – und ist dabei so einfach wie eine Tabellenkalkulation.'
       items:
       - text: 'Aktuelle Daten: Alle neuen Formulareinsendungen sind sofort im Backend sichtbar und können unmittelbar weiterverarbeitet werden.'
       - text: 'Echte Kollaboration: Arbeiten Sie im Team gemeinsam an Ihren Daten – ohne Zeitverzögerungen oder Inkonsistenzen.'
@@ -117,7 +117,32 @@ sections:
       buttons:
         - label: Jetzt den NPS-Rechner nutzen
           link: pages/registration
-          
+    
+    - name: "content-9"
+      weight: 16
+      title: 'KI-gestützte Feedback-Analyse mit SeaTable'
+      subtitle: 'Smarte Automatisierung'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre NPS-Umfragen und Feedback-Analysen auf ein neues Level heben. Automatisieren Sie Auswertungen und gewinnen Sie tiefere Einblicke in Kundenmeinungen.'
+      items:
+      - headline: 'Automatische Sentiment-Analyse mit Classify'
+        text: 'Lassen Sie Freitextkommentare automatisch nach Stimmung klassifizieren: Die KI-Funktion „Classify" bewertet Kundenfeedback als „Positiv", „Neutral" oder „Negativ" und erkennt emotionale Tonalität – perfekt für schnelle Einschätzungen großer Feedback-Mengen ohne manuelles Lesen jeder Antwort.'
+        icon: table
+      - headline: 'Kompakte Feedback-Zusammenfassungen mit Summarize'
+        text: 'Die Summarize-Funktion erstellt automatisch prägnante Zusammenfassungen aus langen Kundenbewertungen und Freitextantworten. Verschaffen Sie sich und Ihrem Team schnell einen Überblick über Kernaussagen – ideal für Management-Reports und Sprint-Reviews ohne detailliertes Durcharbeiten aller Kommentare.'
+        icon: circle-info
+      - headline: 'Themen und Probleme extrahieren mit Extract'
+        text: 'Die Extract-Funktion erkennt in Kundenfeedback automatisch wiederkehrende Themen, genannte Produktnamen, Problembereiche oder Verbesserungsvorschläge und trägt sie strukturiert in separate Spalten ein. Identifizieren Sie systematische Schwachstellen und priorisieren Sie Verbesserungsmaßnahmen datenbasiert.'
+        icon: layer-group
+      - headline: 'Maßgeschneiderte Analyse mit Custom Prompt'
+        text: 'Mit der Custom-Prompt-Funktion erstellen Sie individuelle Auswertungen: Lassen Sie die KI automatisch konkrete Handlungsempfehlungen aus Detraktoren-Feedback generieren, erstellen Sie Kategorisierungen nach Produkt-Features oder identifizieren Sie Churn-Risiken – flexibel nach Ihren Analyseanforderungen.'
+        icon: wand-magic-sparkles
+      - headline: 'Automatische Reports für Stakeholder'
+        text: 'Erstellen Sie automatisch strukturierte Feedback-Übersichten mit den häufigsten Themen, Top-Problemen und wiederkehrenden Verbesserungswünschen. Die KI fasst Hunderte Kommentare in übersichtliche Listen zusammen – perfekt als Basis für Stakeholder-Präsentationen und Maßnahmen-Planung.'
+        icon: arrow-right
+      - headline: 'Mehrsprachiges Feedback verarbeiten'
+        text: 'Nutzen Sie Custom Prompt, um internationales Kundenfeedback automatisch in Ihre Arbeitssprache zu übersetzen. Erfassen Sie Bewertungen in verschiedenen Sprachen und lassen Sie sie automatisch in die gewünschte Zielsprache übertragen – perfekt für globale Teams ohne separate manuelle Übersetzungen.'
+        icon: language
+
     - name: "content-13"
       weight: 18
       class:
@@ -143,8 +168,23 @@ sections:
       - q: "Wie funktioniert ein NPS Score Rechner?"
         a: "In einer NPS-Umfrage geben Ihre Kunden auf einer Skala von 0-10 die Wahrscheinlichkeit an, mit der sie Ihr Unternehmen oder Produkt weiterempfehlen würden. Anhand der Antworten werden Ihre Kunden in Detraktoren (0-6), Passive (7-8) und Promotoren (9-10) eingeteilt. Ihr aktueller NPS ergibt sich aus dem relativen Anteil der Promotoren abzüglich des relativen Anteils der Detraktoren und kann zwischen -100 und +100 liegen. Eine gute Net Promoter Score Vorlage sollte einen integrierten NPS Calculator enthalten."
       - q: "Kann ich die Net Promoter Score Vorlage anpassen?"
-        a: 'Ja, Sie können jede Vorlage von SeaTable individuell an Ihre Bedürfnisse anpassen. Das Umfrageformular in unserem Vorlage Net Promoter Score Rechner umfasst bereits weitere Fragen zur Kundenzufriedenheit und kann beliebig erweitert werden, um z. B. eine umfangreiche Kundenumfrage zu erstellen.'
-
+        a: 'Ja, Sie können jede Vorlage von SeaTable individuell an Ihre Bedürfnisse anpassen. Das Umfrageformular in unserem Vorlage Net Promoter Score Rechner umfasst bereits weitere Fragen zur Kundenzufriedenheit und kann beliebig erweitert werden, um z. B. eine umfangreiche Kundenumfrage zu erstellen. Fügen Sie zusätzliche Freitextfelder, Multiple-Choice-Fragen oder Bewertungsskalen hinzu – ganz ohne Programmierkenntnisse.'
+      - q: "Ist SeaTable eine Alternative zu SurveyMonkey, Typeform oder Google Forms für NPS-Umfragen?"
+        a: 'Ja, SeaTable ist eine leistungsstarke Alternative zu externen Umfrage-Tools. Im Gegensatz zu SurveyMonkey, Typeform oder Google Forms behalten Sie mit SeaTable die volle Kontrolle über Ihre Kundendaten – keine Daten verlassen Ihr System. Zusätzlich bietet SeaTable KI-gestützte Feedback-Analysen, flexible Dashboards und nahtlose Integration in Ihre bestehenden Systeme – alles in einer DSGVO-konformen Plattform.'
+      - q: "Kann ich NPS-Umfragen automatisch per E-Mail versenden?"
+        a: 'Ja, SeaTable lässt sich mit E-Mail-Systemen und Marketing-Automation-Tools verbinden. Über n8n oder Zapier können Sie automatisch personalisierte Umfrage-Links an Kunden versenden – z. B. nach Kaufabschluss, Support-Interaktionen oder in regelmäßigen Abständen. Erinnerungen an nicht ausgefüllte Umfragen lassen sich ebenfalls automatisieren.'
+      - q: "Kann ich automatisch benachrichtigt werden, wenn ein Detraktoren-Feedback eintrifft?"
+        a: 'Ja, die NPS-Rechner Vorlage unterstützt intelligente Benachrichtigungen. Sie können automatische Alerts für kritische Bewertungen (0-6 Punkte) einrichten, die sofort per E-Mail oder über integrierte Tools wie Slack an die zuständigen Teams weitergeleitet werden. So können Sie schnell auf unzufriedene Kunden reagieren und Probleme proaktiv lösen.'
+      - q: "Unterstützt SeaTable mehrsprachige NPS-Umfragen?"
+        a: 'Ja, Sie können NPS-Umfragen in beliebig vielen Sprachen erstellen. Das Umfrageformular lässt sich für verschiedene Märkte anpassen und die KI-Funktionen können mehrsprachiges Feedback automatisch auswerten und übersetzen. Perfekt für internationale Unternehmen, die Kundenzufriedenheit über Ländergrenzen hinweg messen möchten.'
+      - q: "Kann ich NPS-Trends über Zeit analysieren?"
+        a: 'Ja, SeaTable speichert alle historischen Daten und ermöglicht umfassende Trendanalysen. Sie können die Entwicklung Ihres Net Promoter Scores über Wochen, Monate oder Jahre visualisieren, nach Zeiträumen filtern und Veränderungen in der Verteilung von Promotoren, Passiven und Detraktoren nachverfolgen. Dashboards zeigen Trends grafisch auf einen Blick.'
+      - q: "Kann ich meinen NPS-Rechner mit CRM-Systemen verbinden?"
+        a: 'Ja, SeaTable bietet nahtlose [Integrations]({{< relref "pages/integrations" >}}) mit n8n und Zapier an. Sie können Ihren NPS-Rechner mit CRM-Systemen wie Salesforce, HubSpot oder Pipedrive verbinden, um Kundenbewertungen automatisch mit Kontaktprofilen zu synchronisieren. So sehen Vertriebsteams NPS-Scores direkt im CRM und können gezielt auf Feedback reagieren – ohne Systemwechsel.'
+      - q: "Kann ich verschiedene NPS-Umfragen für unterschiedliche Produkte oder Touchpoints erstellen?"
+        a: 'Ja, Sie können beliebig viele NPS-Umfragen für verschiedene Produkte, Services, Kundensegmente oder Touchpoints erstellen. Jede Umfrage kann individuell gestaltet werden mit eigenen Fragen, Designs und Auswertungen. Die Ergebnisse lassen sich getrennt oder zusammengeführt analysieren – perfekt für produkt- oder abteilungsspezifische Bewertungen.'
+      - q: "Gibt es Support für die Einrichtung des NPS-Rechners?"
+        a: 'Ja, Sie können sich bei Fragen jeder Art an unseren Support wenden. Stellen Sie dafür entweder eine Frage in unserem Community Forum oder kontaktieren Sie uns direkt per E-Mail. Unser Support-Team hilft Ihnen gerne bei der Einrichtung, Anpassung und Optimierung Ihrer NPS-Umfragen und Dashboards.'
 
 
 ---
