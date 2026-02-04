@@ -78,7 +78,7 @@ sections:
       - text: "Des données à jour : Les changements d'inventaire peuvent être saisis rapidement et sont immédiatement disponibles pour tous."
       - text: 'Véritable collaboration : travaillez en équipe sur des données, sans délai ni blocage du système.'
       - text: "Tout simplement évolutif : Votre logiciel d'entrepôt évolue avec vos besoins - sans fonctions supplémentaires coûteuses."
-      - text: "Des intégrations faciles à réaliser : L'API SeaTable permet d'intégrer facilement des fournisseurs tiers tels que des services d'expédition ou des plateformes de commerce électronique."
+      - text: 'Des [intégrations]({{< relref "pages/integrations" >}}) faciles à réaliser : API de SeaTable permet d intégrer facilement des fournisseurs tiers tels que des services d expédition ou des plateformes de commerce électronique.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: "L'application SeaTable pour la gestion d'entrepôt avec solution flexible sans code, saisie de données en temps réel et collaboration en équipe"
@@ -125,6 +125,31 @@ sections:
           link: pages/registration
           id: fr-vorlage-Lagerverwaltung-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: "Gestion des entrepôts basée sur l'IA avec SeaTable"
+      subtitle: 'Automatisation intelligente'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent la gestion de vos stocks à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les erreurs et prenez de meilleures décisions sur la base de vos données d inventaire.'
+      items:
+      - headline: 'Classification automatique des articles avec Classify'
+        text: 'Classez automatiquement les nouveaux articles : la fonction IA « Classify » identifie la catégorie appropriée à partir des noms de produits, des descriptions ou des attributions des fournisseurs et classe vos articles de manière autonome, ce qui est idéal pour les gammes de produits en pleine expansion.'
+        icon: table
+      - headline: 'Suggestions de commande et remarques avec Custom Prompt'
+        text: "La fonction Custom Prompt vous permet de générer des suggestions de commande et des recommandations d'action, par exemple sur la base des stocks actuels, des stocks de sécurité et des délais de livraison. L'IA signale les articles critiques et aide à identifier les pénuries à un stade précoce."
+        icon: wand-magic-sparkles
+      - headline: 'Extraire des données à partir de documents avec Extract'
+        text: "Veuillez importer les bons de livraison, les confirmations de commande ou les listes PDF et utiliser la fonction d'extraction pour lire automatiquement les informations pertinentes telles que les numéros d'article, les quantités ou les dates de livraison et les transférer dans votre gestion des stocks."
+        icon: layer-group
+      - headline: 'Résumés concis avec Summarize'
+        text: "Créez des résumés automatiques des rapports d'entrepôt, des commentaires d'inventaire ou des listes d'écarts à l'aide de la fonction Summarize. Vous obtenez ainsi en quelques phrases un aperçu des développements les plus importants dans l'entrepôt."
+        icon: circle-info
+      - headline: "Avertissements automatiques en cas d'anomalies"
+        text: "Combinez l'automatisation avec des fonctionnalités d'intelligence artificielle pour détecter les anomalies dans l'entrepôt, telles que des modèles de comptabilisation inhabituels, des stocks très fluctuants ou des retours supérieurs à la moyenne pour certains articles."
+        icon: bell
+      - headline: "Créer des rapports d'audit et d'inventaire"
+        text: "Créez en un clic des rapports d'inventaire ou d'audit structurés pour l'audit interne, les conseillers fiscaux ou les commissaires aux comptes. L'IA résume les écarts de stock, les écritures de correction et les événements particuliers, vous aidant ainsi à remplir vos obligations en matière de documentation."
+        icon: arrow-right
+
     - name: "content-13"
       weight: 18
       class:
@@ -145,12 +170,26 @@ sections:
       title: "FAQ sur le logiciel de gestion d'entrepôt SeaTable"
       subtitle: 
       items:
-      - q: "Quels sont les avantages de SeaTable par rapport aux autres fournisseurs de services gratuits ?"
-        a: "Les fournisseurs de logiciels gratuits de gestion d'entrepôt ou de modèles Excel de gestion d'entrepôt ne proposent souvent que des versions de base limitées ou n'évoluent pas avec vos besoins. En revanche, SeaTable offre toutes les fonctionnalités nécessaires à une gestion d'entrepôt efficace dès l'abonnement gratuit et peut évoluer indéfiniment."
-      - q: "Le système SeaTable peut-il être étendu à la gestion des stocks ?"
-        a: "Il vous suffit de personnaliser notre modèle en fonction de vos besoins : Notre logiciel de gestion d'entrepôt simple n'est qu'un début et peut être étendu à tout cas d'utilisation de gestion de données dont vous avez besoin."
-      - q: "À qui s'adresse le logiciel de gestion d'entrepôt SeaTable ?"
-        a: "SeaTable est un logiciel de gestion d'entrepôt spécialement conçu pour les petites entreprises ou les artisans qui souhaitent organiser leur entrepôt de manière plus efficace et qui recherchent une alternative aux logiciels spécialisés coûteux ou à la gestion d'entrepôt dans Excel."
-
-
+      - q: "Puis-je utiliser gratuitement le modèle de gestion des stocks de SeaTable ?"
+        a: 'Oui, vous pouvez utiliser SeaTable et le modèle de gestion des stocks gratuitement et sans limitation de durée. Avec un compte gratuit, vous disposez de toutes les fonctionnalités de base pour gérer numériquement vos stocks, vos emplacements de stockage et vos mouvements de marchandises.'
+      - q: "SeaTable constitue-t-il une alternative à Excel pour la gestion des stocks ?"
+        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/excel-alternative" >}}) pour la gestion des stocks. Contrairement à la gestion des stocks dans Excel, SeaTable offre une capacité multi-utilisateurs, un accès en temps réel, des automatisations, des autorisations et des interfaces d application, ce qui est idéal pour les équipes et les entreprises en pleine croissance.'
+      - q: "Puis-je importer ma liste de stock Excel existante dans SeaTable ?"
+        a: "Oui, vous pouvez facilement importer des fichiers Excel ou CSV existants contenant vos données d'entrepôt dans SeaTable. Après l'importation, vous pouvez personnaliser les colonnes, créer des relations entre les tableaux et profiter de tous les avantages du modèle de gestion d'entrepôt."
+      - q: "Le système de gestion des stocks SeaTable peut-il être étendu ?"
+        a: "Oui, vous pouvez adapter le modèle à vos besoins à tout moment. Notre logiciel de gestion des stocks simple n'est qu'un point de départ et peut être développé pour devenir un système complet de gestion des stocks et des inventaires, comprenant par exemple la gestion des fournisseurs, des commandes ou des numéros de lot et de série."
+      - q: "À qui le logiciel de stockage SeaTable est-il destiné ?"
+        a: 'SeaTable est un logiciel de gestion des stocks particulièrement adapté aux petites et moyennes entreprises, aux start-ups et aux artisans qui souhaitent organiser leurs stocks de manière plus efficace et recherchent une alternative aux logiciels spécialisés coûteux ou à la gestion des stocks dans Excel.'
+      - q: "Puis-je représenter les stocks minimums et les commandes automatiques ?"
+        a: 'Oui, vous pouvez définir des stocks minimums et de sécurité pour chaque article et configurer des automatisations qui déclenchent des notifications ou génèrent des suggestions de commande lorsque les stocks sont insuffisants. Cela vous permet de réduire le risque de ruptures de stock.'
+      - q: "Est-il possible de gérer plusieurs sites et emplacements de stockage ?"
+        a: "Oui, le modèle prend en charge plusieurs emplacements de stockage, zones, rayonnages et emplacements. Grâce à des liens et des filtres, vous pouvez garder une vue d'ensemble de l'occupation, de la capacité et des stocks, même dans le cas de structures de stockage complexes."
+      - q: "La gestion des stocks peut-elle être connectée à d'autres systèmes ?"
+        a: "Oui, via API, n8n ou Zapier, vous pouvez connecter votre gestion des stocks à des systèmes de boutique en ligne, des ERP, des solutions d'expédition ou de comptabilité. Cela vous permet d'éviter la double saisie des données et de vous assurer que tous les systèmes fonctionnent avec des stocks à jour."
+      - q: "Puis-je également utiliser la gestion des stocks sur mon appareil mobile ?"
+        a: "Oui, l'interface web SeaTable et l'application universelle sont accessibles sur mobile. Vous pouvez enregistrer les stocks via smartphone ou tablette, vérifier les emplacements de stockage ou effectuer des réservations, que ce soit directement dans l'entrepôt, sur le terrain ou depuis votre bureau à domicile."
+      - q: "Existe-t-il une assistance pour la configuration de la gestion des stocks ?"
+        a: "Oui, vous pouvez contacter notre service d'assistance si vous avez des questions. Pour ce faire, veuillez poser votre question sur notre forum communautaire ou nous contacter directement par e-mail. Nous serons ravis de vous aider à configurer et à personnaliser votre gestion des stocks."
 ---
+
+

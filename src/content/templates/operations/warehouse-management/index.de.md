@@ -78,7 +78,7 @@ sections:
       - text: 'Aktuelle Daten: Bestandsänderungen lassen sich schnell eintragen und sind sofort für alle verfügbar.'
       - text: 'Echte Kollaboration: Arbeiten Sie im Team gemeinsam an Daten – ohne Zeitverzögerung oder Systemabstürze.'
       - text: 'Einfach skalierbar: Ihre Lagersoftware wächst mit Ihren Anforderungen – ohne teure Zusatzfunktionen.'
-      - text: 'Einfache Integrationen: Mit der SeaTable API lassen sich Drittanbieter wie Versanddienstleister oder E-Commerce-Plattformen einfach einbinden.'
+      - text: 'Einfache [Integrationen]({{< relref "pages/integrations" >}}): Mit der SeaTable API lassen sich Drittanbieter wie Versanddienstleister oder E-Commerce-Plattformen einfach einbinden.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'SeaTable App für Lagerverwaltung mit flexibler No-Code-Lösung, Echtzeit-Dateneingabe und Team-Kollaboration'
@@ -125,6 +125,31 @@ sections:
           link: pages/registration
           id: de-vorlage-Lagerverwaltung-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'KI-gestützte Lagerverwaltung mit SeaTable'
+      subtitle: 'Smarte Automatisierung'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Lagerverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und treffen Sie bessere Entscheidungen auf Basis Ihrer Bestandsdaten.'
+      items:
+      - headline: 'Automatische Artikelklassifizierung mit Classify'
+        text: 'Lassen Sie neue Artikel automatisch kategorisieren: Die KI-Funktion „Classify" erkennt anhand von Produktnamen, Beschreibungen oder Lieferantenzuordnungen die passende Kategorie und ordnet Ihre Artikel selbstständig zu – ideal für schnell wachsende Sortimente.'
+        icon: table
+      - headline: 'Bestellvorschläge und Hinweise mit Custom Prompt'
+        text: 'Mit der Custom-Prompt-Funktion lassen Sie sich Bestellvorschläge und Handlungsempfehlungen generieren – z. B. auf Basis aktueller Bestände, Sicherheitsbestände und Lieferzeiten. Die KI weist auf kritische Artikel hin und hilft, Engpässe frühzeitig zu erkennen.'
+        icon: wand-magic-sparkles
+      - headline: 'Daten aus Dokumenten extrahieren mit Extract'
+        text: 'Importieren Sie Lieferscheine, Bestellbestätigungen oder PDF-Listen und nutzen Sie die Extract-Funktion, um relevante Informationen wie Artikelnummern, Mengen oder Liefertermine automatisch auszulesen und in Ihre Lagerverwaltung zu übernehmen.'
+        icon: layer-group
+      - headline: 'Prägnante Zusammenfassungen mit Summarize'
+        text: 'Erstellen Sie automatische Zusammenfassungen von Lagerreports, Inventurkommentaren oder Abweichungslisten mit der Summarize-Funktion. So erhalten Sie in wenigen Sätzen einen Überblick über die wichtigsten Entwicklungen im Lager.'
+        icon: circle-info
+      - headline: 'Automatische Warnungen bei Auffälligkeiten'
+        text: 'Kombinieren Sie Automatisierungen mit KI-Funktionen, um Unregelmäßigkeiten im Lager zu erkennen – z. B. ungewöhnliche Buchungsmuster, stark schwankende Bestände oder überdurchschnittlich hohe Retouren bei bestimmten Artikeln.'
+        icon: bell
+      - headline: 'Audit- und Inventurberichte erstellen'
+        text: 'Erstellen Sie auf Knopfdruck strukturierte Inventur- oder Audit-Berichte für interne Revision, Steuerberater oder Wirtschaftsprüfer. Die KI fasst Bestandsabweichungen, Korrekturbuchungen und besondere Vorkommnisse zusammen und unterstützt so Ihre Dokumentationspflichten.'
+        icon: arrow-right
+
     - name: "content-13"
       weight: 18
       class:
@@ -145,12 +170,26 @@ sections:
       title: 'FAQs zur Lagerverwaltungssoftware von SeaTable'
       subtitle: 
       items:
-      - q: "Welche Vorteile hat SeaTable gegenüber anderen kostenlosen Anbietern?"
-        a: 'Anbieter kostenloser Lager Software oder eine Excel-Vorlage für Lagerverwaltung bieten häufig nur begrenzte Basis-Versionen, oder wachsen nicht mit Ihren Anforderungen mit. SeaTable dagegen bietet bereits im Free Abo alle notwendigen Funktionen für eine effiziente Lagerverwaltung und lässt sich unbegrenzt skalieren.'
+      - q: "Kann ich die Lagerverwaltung Vorlage von SeaTable kostenlos nutzen?"
+        a: 'Ja, Sie können SeaTable und die Vorlage Lagerverwaltung zeitlich unbefristet kostenlos nutzen. Mit einem Free Account stehen Ihnen alle grundlegenden Funktionen zur Verfügung, um Bestände, Lagerorte und Warenbewegungen digital zu verwalten.'
+      - q: "Ist SeaTable eine Alternative zu Excel für die Lagerverwaltung?"
+        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) für Lagerverwaltung. Im Gegensatz zu einer Lagerverwaltung in Excel bietet SeaTable Mehrbenutzerfähigkeit, Echtzeit-Zugriff, Automatisierungen, Berechtigungen und App-Frontends – ideal für Teams und wachsende Unternehmen.'
+      - q: "Kann ich meine bestehende Excel-Lagerliste in SeaTable importieren?"
+        a: 'Ja, Sie können vorhandene Excel- oder CSV-Dateien mit Ihren Lagerdaten einfach in SeaTable importieren. Nach dem Import können Sie Spalten anpassen, Relationen zwischen Tabellen herstellen und von allen Vorteilen der Vorlage für Lagerverwaltung profitieren.'
       - q: "Lässt sich SeaTables System zur Lagerverwaltung erweitern?"
-        a: "Passen Sie unsere Vorlage einfach Ihrem Bedarf an: Unsere einfache Lagerverwaltung Software ist nur der Anfang und lässt sich zu jedem Datenmanagement-Anwendungsfall ausbauen, den Sie benötigen."
+        a: 'Ja, Sie können die Vorlage jederzeit an Ihren Bedarf anpassen. Unsere einfache Lagerverwaltungssoftware ist nur der Startpunkt und lässt sich zu einem umfassenden Lager- und Bestandsmanagement-System ausbauen – z. B. mit Lieferantenverwaltung, Bestellwesen oder Chargen- und Seriennummernverwaltung.'
       - q: "Für wen eignet sich SeaTable als Lagersoftware?"
-        a: 'SeaTable eignet sich als Lagerverwaltungssoftware speziell für kleine Unternehmen oder Handwerksbetriebe, die Ihr Lager effizienter organisieren möchten und nach einer Alternative zu teurer Spezialsoftware oder einer Lagerverwaltung in Excel suchen.'
-
-
+        a: 'SeaTable eignet sich als Lagerverwaltungssoftware besonders für kleine und mittelständische Unternehmen, Start-ups und Handwerksbetriebe, die ihr Lager effizienter organisieren möchten und nach einer Alternative zu teurer Spezialsoftware oder einer Lagerverwaltung in Excel suchen.'
+      - q: "Kann ich Mindestbestände und automatische Nachbestellungen abbilden?"
+        a: 'Ja, Sie können pro Artikel Mindest- und Sicherheitsbestände hinterlegen und Automatisierungen einrichten, die bei Unterschreitung Benachrichtigungen auslösen oder Bestellvorschläge erzeugen. So reduzieren Sie das Risiko von Lieferengpässen.'
+      - q: "Kann ich mehrere Lagerstandorte und Lagerplätze verwalten?"
+        a: 'Ja, die Vorlage unterstützt mehrere Lagerstandorte, Zonen, Regale und Lagerplätze. Über Verknüpfungen und Filter behalten Sie auch bei komplexen Lagerstrukturen den Überblick über Belegung, Kapazität und Bestände.'
+      - q: "Lässt sich die Lagerverwaltung mit anderen Systemen verbinden?"
+        a: 'Ja, über API, n8n oder Zapier können Sie Ihre Lagerverwaltung mit Shop-Systemen, ERP, Versand- oder Buchhaltungslösungen verbinden. So vermeiden Sie doppelte Datenerfassung und stellen sicher, dass alle Systeme mit aktuellen Beständen arbeiten.'
+      - q: "Kann ich die Lagerverwaltung auch mobil nutzen?"
+        a: 'Ja, die SeaTable Weboberfläche und die Universal App sind mobil nutzbar. Sie können Bestände per Smartphone oder Tablet erfassen, Lagerplätze prüfen oder Buchungen durchführen – direkt im Lager, im Außendienst oder im Homeoffice.'
+      - q: "Gibt es Support bei der Einrichtung der Lagerverwaltung?"
+        a: 'Ja, Sie können sich bei Fragen an unseren Support wenden. Stellen Sie dafür entweder eine Frage in unserem Community Forum oder kontaktieren Sie uns direkt per E-Mail. Wir unterstützen Sie gerne bei der Einrichtung und Anpassung Ihrer Lagerverwaltung.'
 ---
+
+

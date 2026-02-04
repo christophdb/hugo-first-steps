@@ -78,7 +78,7 @@ sections:
       - text: 'Datos actualizados: Los cambios en las existencias pueden introducirse rápidamente y están disponibles de inmediato para todos.'
       - text: 'Colaboración real: trabaje con los datos en equipo, sin retrasos ni caídas del sistema.'
       - text: 'Sencillamente escalable: El software de su almacén crece con sus necesidades, sin costosas funciones adicionales.'
-      - text: 'Integraciones sencillas: Con la API de SeaTable, los proveedores externos, como los proveedores de servicios de envío o las plataformas de comercio electrónico, pueden integrarse fácilmente.'
+      - text: '[Integraciones sencillas]({{< relref "pages/integrations" >}}): Con la API de SeaTable, los proveedores externos, como los proveedores de servicios de envío o las plataformas de comercio electrónico, pueden integrarse fácilmente.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'SeaTable app para la gestión de almacenes con solución flexible sin código, entrada de datos en tiempo real y colaboración en equipo'
@@ -125,6 +125,31 @@ sections:
           link: pages/registration
           id: es-vorlage-Lagerverwaltung-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'Gestión de almacenes basada en IA con SeaTable'
+      subtitle: 'Automatización inteligente'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán la gestión de su almacén a un nuevo nivel. Automatice las tareas recurrentes, reduzca los errores y tome mejores decisiones basadas en los datos de su inventario.'
+      items:
+      - headline: 'Clasificación automática de artículos con Classify'
+        text: 'Clasifique automáticamente los nuevos artículos: la función de inteligencia artificial «Classify» reconoce la categoría adecuada basándose en los nombres de los productos, las descripciones o las asignaciones de proveedores, y clasifica sus artículos de forma autónoma, lo que resulta ideal para surtidos en rápido crecimiento.'
+        icon: table
+      - headline: 'Sugerencias de pedidos e indicaciones con Custom Prompt'
+        text: 'Con la función Custom Prompt, puede generar sugerencias de pedidos y recomendaciones de actuación, por ejemplo, basadas en las existencias actuales, las existencias de seguridad y los plazos de entrega. La IA señala los artículos críticos y ayuda a detectar a tiempo los cuellos de botella.'
+        icon: wand-magic-sparkles
+      - headline: 'Extraer datos de documentos con Extract'
+        text: 'Importe albaranes, confirmaciones de pedidos o listas en PDF y utilice la función de extracción para leer automáticamente la información relevante, como números de artículo, cantidades o fechas de entrega, e importarla a su sistema de gestión de almacén.'
+        icon: layer-group
+      - headline: 'Resúmenes concisos con Summarize'
+        text: 'Cree resúmenes automáticos de informes de almacén, comentarios de inventario o listas de desviaciones con la función Summarize. De este modo, obtendrá en pocas frases una visión general de los acontecimientos más importantes en el almacén.'
+        icon: circle-info
+      - headline: 'Alertas automáticas en caso de anomalías'
+        text: 'Combine la automatización con funciones de inteligencia artificial para detectar irregularidades en el almacén, como patrones de registro inusuales, fluctuaciones significativas en las existencias o devoluciones superiores a la media de determinados artículos.'
+        icon: bell
+      - headline: 'Crear informes de auditoría e inventario'
+        text: 'Cree informes estructurados de inventario o auditoría con solo pulsar un botón para la auditoría interna, los asesores fiscales o los auditores. La IA resume las desviaciones de inventario, los asientos de corrección y los acontecimientos especiales, lo que le ayuda a cumplir con sus obligaciones de documentación.'
+        icon: arrow-right
+
     - name: "content-13"
       weight: 18
       class:
@@ -145,11 +170,26 @@ sections:
       title: 'Preguntas frecuentes sobre el software de gestión de almacenes de SeaTable'
       subtitle: 
       items:
-      - q: "¿Qué ventajas tiene SeaTable sobre otros proveedores gratuitos?"
-        a: 'Los proveedores de software de almacén gratuito o de una plantilla Excel para la gestión de almacenes a menudo sólo ofrecen versiones básicas limitadas o no crecen con sus necesidades. SeaTable, en cambio, ya ofrece todas las funciones necesarias para una gestión eficaz del almacén en la suscripción gratuita y puede ampliarse indefinidamente.'
-      - q: "¿Se puede ampliar el sistema de SeaTable para la gestión de almacenes?"
-        a: "Sólo tiene que personalizar nuestra plantilla para adaptarla a sus necesidades: Nuestro sencillo software de gestión de almacenes es sólo el principio y puede ampliarse a cualquier caso de uso de gestión de datos que necesite."
-      - q: "¿Para quién es adecuado SeaTable como software de almacén?"
-        a: 'SeaTable es especialmente adecuado como software de gestión de almacenes para pequeñas empresas o negocios artesanales que desean organizar su almacén de forma más eficiente y buscan una alternativa a los costosos programas informáticos especiales o a la gestión de almacenes en Excel.'
-
+      - q: "¿Puedo utilizar la plantilla de gestión de almacenes de SeaTable de forma gratuita?"
+        a: 'Sí, puede utilizar SeaTable y la plantilla de gestión de almacenes de forma gratuita y sin límite de tiempo. Con una cuenta gratuita, tendrá a su disposición todas las funciones básicas para gestionar digitalmente las existencias, las ubicaciones de almacenamiento y los movimientos de mercancías.'
+      - q: "¿SeaTable es una alternativa a Excel para la gestión de almacenes?"
+        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) para la gestión de almacenes. A diferencia de la gestión de almacenes en Excel, SeaTable ofrece capacidad multiusuario, acceso en tiempo real, automatizaciones, permisos y interfaces de aplicaciones, lo que lo hace ideal para equipos y empresas en crecimiento.'
+      - q: "¿Puedo importar mi lista de inventario actual de Excel a SeaTable?"
+        a: 'Sí, puede importar fácilmente archivos Excel o CSV existentes con sus datos de inventario a SeaTable. Después de la importación, puede personalizar columnas, crear relaciones entre tablas y beneficiarse de todas las ventajas de la plantilla para la gestión de inventario.'
+      - q: "¿Se puede ampliar el sistema de gestión de almacenes de SeaTable?"
+        a: 'Sí, puede adaptar la plantilla a sus necesidades en cualquier momento. Nuestro sencillo software de gestión de almacenes es solo el punto de partida y se puede ampliar hasta convertirlo en un completo sistema de gestión de almacenes y existencias, por ejemplo, con gestión de proveedores, pedidos o números de lote y de serie.'
+      - q: "¿Para quién es adecuado SeaTable como software de almacenamiento?"
+        a: 'SeaTable es un software de gestión de almacenes especialmente adecuado para pequeñas y medianas empresas, start-ups y talleres artesanales que desean organizar su almacén de forma más eficiente y buscan una alternativa al costoso software especializado o a la gestión de almacenes en Excel.'
+      - q: "¿Puedo mostrar los stocks mínimos y los pedidos automáticos?"
+        a: 'Sí, puede almacenar existencias mínimas y de seguridad por artículo y configurar automatizaciones que activen notificaciones o generen sugerencias de pedido cuando se alcancen dichos niveles. De este modo, reducirá el riesgo de que se produzcan problemas de suministro.'
+      - q: "¿Puedo gestionar varias ubicaciones y almacenes?"
+        a: 'Sí, la plantilla admite varias ubicaciones de almacén, zonas, estanterías y ubicaciones de almacenamiento. Mediante enlaces y filtros, podrá mantener una visión general de la ocupación, la capacidad y las existencias, incluso en estructuras de almacén complejas.'
+      - q: "¿Se puede conectar la gestión de almacenes con otros sistemas?"
+        a: 'Sí, a través de API, n8n o Zapier puede conectar su gestión de almacén con sistemas de tienda, ERP, soluciones de envío o contabilidad. De este modo, evitará la duplicación de datos y se asegurará de que todos los sistemas trabajen con inventarios actualizados.'
+      - q: "¿Puedo utilizar la gestión de almacenes también en dispositivos móviles?"
+        a: 'Sí, la interfaz web SeaTable y la aplicación universal se pueden utilizar en dispositivos móviles. Puede registrar existencias, comprobar ubicaciones de almacenamiento o realizar reservas desde su smartphone o tableta, ya sea directamente en el almacén, en el servicio externo o desde su oficina en casa.'
+      - q: "¿Hay asistencia para configurar la gestión de almacenes?"
+        a: 'Sí, puede ponerse en contacto con nuestro servicio de asistencia si tiene alguna pregunta. Para ello, plantee su pregunta en nuestro foro comunitario o póngase en contacto con nosotros directamente por correo electrónico. Estaremos encantados de ayudarle a configurar y personalizar su gestión de almacén.'
 ---
+
+
