@@ -78,7 +78,7 @@ sections:
       - text: 'Up-to-date data: Stock changes can be entered quickly and are immediately available to everyone.'
       - text: 'Real collaboration: Work on data together as a team - without time delays or system crashes.'
       - text: 'Simply scalable: Your warehouse software grows with your requirements - without expensive additional functions.'
-      - text: 'Simple integrations: With the SeaTable API, third-party providers such as shipping service providers or e-commerce platforms can be easily integrated.'
+      - text: 'Simple [integrations]({{< relref "pages/integrations" >}}): With the SeaTable API, third-party providers such as shipping service providers or e-commerce platforms can be easily integrated.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'SeaTable app for warehouse management with flexible no-code solution, real-time data entry and team collaboration'
@@ -125,6 +125,31 @@ sections:
           link: pages/registration
           id: en-vorlage-Lagerverwaltung-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'AI-supported warehouse management with SeaTable'
+      subtitle: 'Smart automation'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your warehouse management to a new level. Automate recurring tasks, reduce errors, and make better decisions based on your inventory data.'
+      items:
+      - headline: 'Automatic article classification with Classify'
+        text: 'Have new items categorized automatically: The AI function "Classify" recognizes the appropriate category based on product names, descriptions, or supplier assignments and assigns your items independently—ideal for rapidly growing product ranges.'
+        icon: table
+      - headline: 'Order suggestions and notes with Custom Prompt'
+        text: 'With the custom prompt function, you can generate order suggestions and recommendations for action—e.g., based on current stock levels, safety stock levels, and delivery times. The AI highlights critical items and helps identify bottlenecks at an early stage.'
+        icon: wand-magic-sparkles
+      - headline: 'Extract data from documents with Extract'
+        text: 'Import delivery notes, order confirmations, or PDF lists and use the extract function to automatically read relevant information such as item numbers, quantities, or delivery dates and transfer it to your warehouse management system.'
+        icon: layer-group
+      - headline: 'Concise summaries with Summarize'
+        text: 'Create automatic summaries of warehouse reports, inventory comments, or deviation lists with the Summarize function. This gives you an overview of the most important developments in the warehouse in just a few sentences.'
+        icon: circle-info
+      - headline: 'Automatic alerts in case of anomalies'
+        text: 'Combine automation with AI capabilities to detect irregularities in the warehouse—such as unusual booking patterns, highly fluctuating inventory levels, or above-average returns for certain items.'
+        icon: bell
+      - headline: 'Create audit and inventory reports'
+        text: 'Create structured inventory or audit reports for internal audits, tax advisors, or auditors at the touch of a button. AI summarizes inventory discrepancies, adjustment entries, and special occurrences, supporting you in meeting your documentation requirements.'
+        icon: arrow-right
+    
     - name: "content-13"
       weight: 18
       class:
@@ -145,11 +170,24 @@ sections:
       title: 'FAQs on the warehouse management software from SeaTable'
       subtitle: 
       items:
-      - q: "What advantages does SeaTable have over other free providers?"
-        a: 'Providers of free warehouse software or an Excel template for warehouse management often only offer limited basic versions or do not grow with your requirements. SeaTable, on the other hand, already offers all the necessary functions for efficient warehouse management in the free subscription and can be scaled indefinitely.'
-      - q: "Can SeaTable's system be extended for warehouse management?"
-        a: "Simply customize our template to suit your needs: Our simple warehouse management software is just the start and can be extended to any data management use case you need."
-      - q: "For whom is SeaTable suitable as warehouse software?"
-        a: 'SeaTable is particularly suitable as warehouse management software for small companies or craft businesses that want to organize their warehouse more efficiently and are looking for an alternative to expensive special software or warehouse management in Excel.'
-
+      - q: "Can I use SeaTable's inventory management template for free?"
+        a: 'Yes, you can use SeaTable and the inventory management template free of charge for an unlimited period of time. With a free account, you have access to all the basic features you need to digitally manage inventory, storage locations, and goods movements.'
+      - q: "Is SeaTable an alternative to Excel for inventory management?"
+        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}) fFor inventory management. Unlike inventory management in Excel, SeaTable offers multi-user capability, real-time access, automation, permissions, and app front ends—ideal for teams and growing businesses.'
+      - q: "Can I import my existing Excel inventory list into SeaTable?"
+        a: 'Yes, you can easily import existing Excel or CSV files containing your warehouse data into SeaTable. After importing, you can customize columns, create relationships between tables, and enjoy all the benefits of the warehouse management template.'
+      - q: "Can SeaTable's inventory management system be expanded?"
+        a: 'Yes, you can customize the template to suit your needs at any time. Our simple warehouse management software is just the starting point and can be expanded into a comprehensive warehouse and inventory management system—e.g., with supplier management, ordering, or batch and serial number management.'
+      - q: "Who is SeaTable suitable for as warehouse software?"
+        a: 'SeaTable is particularly suitable as warehouse management software for small and medium-sized businesses, start-ups, and craft businesses that want to organize their warehouse more efficiently and are looking for an alternative to expensive specialized software or warehouse management in Excel.'
+      - q: "Can I map minimum stock levels and automatic reorders?"
+        a: 'Yes, you can set minimum and safety stock levels for each item and set up automations that trigger notifications or generate order suggestions when stock levels fall below these levels. This reduces the risk of supply bottlenecks.'
+      - q: "Can I manage multiple warehouse locations and storage locations?"
+        a: 'Yes, the template supports multiple warehouse locations, zones, shelves, and storage locations. Links and filters allow you to keep track of occupancy, capacity, and inventory, even with complex warehouse structures.'
+      - q: "Can inventory management be connected to other systems?"
+        a: 'Yes, you can connect your inventory management system to shop systems, ERP, shipping, or accounting solutions via API, n8n, or Zapier. This allows you to avoid duplicate data entry and ensure that all systems are working with up-to-date inventory levels.'
+      - q: "Can I also use inventory management on my mobile device?"
+        a: 'Yes, the SeaTable web interface and universal app are mobile-friendly. You can record inventory via smartphone or tablet, check storage locations, or make bookings—directly in the warehouse, in the field, or from your home office.'
+      - q: "Is there support available for setting up warehouse management?"
+        a: 'Yes, you can contact our support team if you have any questions. Either post a question in our community forum or contact us directly by email. We are happy to assist you with setting up and customizing your warehouse management system.'
 ---

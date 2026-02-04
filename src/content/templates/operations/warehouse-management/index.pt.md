@@ -78,7 +78,7 @@ sections:
       - text: 'Dados actualizados: As alterações de stock podem ser introduzidas rapidamente e ficam imediatamente disponíveis para todos.'
       - text: 'Colaboração real: trabalhe em conjunto com os dados como uma equipa - sem atrasos ou falhas no sistema.'
       - text: 'Simplesmente escalável: O seu software de armazém cresce com as suas necessidades - sem funções adicionais dispendiosas.'
-      - text: 'Integrações simples: Com a API SeaTable, pode integrar facilmente fornecedores terceiros, tais como fornecedores de serviços de transporte ou plataformas de comércio eletrónico.'
+      - text: '[Integrações simples]({{< relref "pages/integrations" >}}): Com a API SeaTable, pode integrar facilmente fornecedores terceiros, tais como fornecedores de serviços de transporte ou plataformas de comércio eletrónico.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
       image_alt: 'Aplicação SeaTable para gestão de armazéns com solução flexível sem código, introdução de dados em tempo real e colaboração entre equipas.'
@@ -125,6 +125,31 @@ sections:
           link: pages/registration
           id: pt-vorlage-Lagerverwaltung-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'Gestão de armazéns com base em IA com SeaTable'
+      subtitle: 'Automação inteligente'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam a sua gestão de armazéns a um novo nível. Automatize tarefas recorrentes, reduza erros e tome melhores decisões com base nos seus dados de inventário.'
+      items:
+      - headline: 'Classificação automática de artigos com o Classify'
+        text: 'Permita que novos artigos sejam categorizados automaticamente: a função de IA «Classify» reconhece a categoria adequada com base nos nomes dos produtos, descrições ou atribuições de fornecedores e classifica os seus artigos de forma independente – ideal para gamas em rápido crescimento.'
+        icon: table
+      - headline: 'Sugestões de encomendas e notas com Custom Prompt'
+        text: 'Com a função Custom Prompt, é possível gerar sugestões de encomendas e recomendações de ação, por exemplo, com base nos stocks atuais, stocks de segurança e prazos de entrega. A IA indica artigos críticos e auxilia a identificar antecipadamente eventuais escassez.'
+        icon: wand-magic-sparkles
+      - headline: 'Extrair dados de documentos com o Extract'
+        text: 'Importe guias de remessa, confirmações de encomendas ou listas em PDF e utilize a função de extração para ler automaticamente informações relevantes, como números de artigos, quantidades ou datas de entrega, e transferi-las para a sua gestão de armazém.'
+        icon: layer-group
+      - headline: 'Resumos concisos com o Summarize'
+        text: 'Crie resumos automáticos de relatórios de armazém, comentários de inventário ou listas de desvios com a função Summarize. Assim, obterá em poucas frases uma visão geral dos desenvolvimentos mais importantes no armazém.'
+        icon: circle-info
+      - headline: 'Avisos automáticos em caso de anomalias'
+        text: 'Combine automatizações com funções de IA para detetar irregularidades no armazém, como padrões de registo invulgares, grandes flutuações nos stocks ou devoluções acima da média para determinados artigos.'
+        icon: bell
+      - headline: 'Criar relatórios de auditoria e inventário'
+        text: 'ECrie relatórios estruturados de inventário ou auditoria com um simples clique para revisão interna, consultores fiscais ou auditores. A IA resume as divergências de inventário, lançamentos de correção e ocorrências especiais, auxiliando assim nas suas obrigações de documentação.'
+        icon: arrow-right
+
     - name: "content-13"
       weight: 18
       class:
@@ -145,12 +170,26 @@ sections:
       title: 'Perguntas frequentes sobre o software de gestão de armazéns da SeaTable'
       subtitle: 
       items:
-      - q: "Que vantagens tem o SeaTable em relação a outros fornecedores gratuitos?"
-        a: 'Os fornecedores de software de armazém gratuito ou de um modelo Excel para a gestão de armazéns oferecem frequentemente apenas versões básicas limitadas ou não crescem de acordo com as suas necessidades. O SeaTable, por outro lado, já oferece todas as funções necessárias para uma gestão de armazém eficiente na subscrição gratuita e pode ser expandido indefinidamente.'
-      - q: "O sistema SeaTable pode ser alargado à gestão de armazéns?"
-        a: "Basta personalizar o nosso modelo para o adaptar às suas necessidades: O nosso software simples de gestão de armazéns é apenas o início e pode ser alargado a qualquer caso de utilização de gestão de dados de que necessite."
-      - q: "Para quem é que o SeaTable é adequado como software de armazém?"
-        a: 'O SeaTable é particularmente adequado como software de gestão de armazém para pequenas empresas ou empresas artesanais que pretendam organizar o seu armazém de forma mais eficiente e que procurem uma alternativa a software especial dispendioso ou à gestão de armazém em Excel.'
-
-
+      - q: "Posso utilizar gratuitamente o modelo de gestão de armazéns do SeaTable?"
+        a: 'Sim, pode utilizar o SeaTable e o modelo de gestão de armazém gratuitamente por tempo ilimitado. Com uma conta gratuita, tem à sua disposição todas as funcionalidades básicas para gerir digitalmente os stocks, os locais de armazenamento e os movimentos de mercadorias.'
+      - q: "O SeaTable é uma alternativa ao Excel para a gestão de armazéns?"
+        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Excel]({{< relref "pages/excel-alternative" >}}) para gestão de armazéns. Ao contrário da gestão de armazéns no Excel, o SeaTable oferece capacidade multisservidor, acesso em tempo real, automatizações, autorizações e interfaces de aplicações – ideal para equipas e empresas em crescimento.'
+      - q: "É possível importar a minha lista de inventário existente no Excel para o SeaTable?"
+        a: 'Sim, é possível importar facilmente ficheiros Excel ou CSV existentes com os seus dados de armazenamento para o SeaTable. Após a importação, pode ajustar colunas, criar relações entre tabelas e beneficiar de todas as vantagens do modelo de gestão de armazenamento.'
+      - q: "O sistema SeaTable para gestão de armazéns pode ser ampliado?"
+        a: 'Sim, pode adaptar o modelo às suas necessidades a qualquer momento. O nosso software simples de gestão de armazéns é apenas o ponto de partida e pode ser expandido para um sistema abrangente de gestão de armazéns e inventários – por exemplo, com gestão de fornecedores, pedidos ou gestão de lotes e números de série.'
+      - q: "Para quem o SeaTable é adequado como software de armazenamento?"
+        a: 'O SeaTable é um software de gestão de armazéns especialmente adequado para pequenas e médias empresas, start-ups e empresas artesanais que desejam organizar o seu armazém de forma mais eficiente e procuram uma alternativa ao software especializado dispendioso ou à gestão de armazéns no Excel.'
+      - q: "É possível visualizar os stocks mínimos e as encomendas automáticas?"
+        a: 'Sim, é possível definir stocks mínimos e de segurança por artigo e configurar automatizações que acionam notificações ou geram sugestões de encomendas quando os níveis ficam abaixo do mínimo. Desta forma, reduz-se o risco de falhas no abastecimento.'
+      - q: "É possível gerir vários locais de armazenamento e espaços de armazenamento?"
+        a: 'Sim, o modelo suporta vários locais de armazenamento, zonas, prateleiras e locais de armazenamento. Através de ligações e filtros, pode manter uma visão geral da ocupação, capacidade e existências, mesmo em estruturas de armazenamento complexas.'
+      - q: "É possível integrar a gestão de armazéns com outros sistemas?"
+        a: 'Sim, através da API, n8n ou Zapier, pode ligar a sua gestão de armazém a sistemas de loja, ERP, soluções de envio ou contabilidade. Desta forma, evita a duplicação de dados e garante que todos os sistemas funcionam com os stocks atualizados.'
+      - q: "É possível utilizar a gestão de armazéns também em dispositivos móveis??"
+        a: 'Sim, a interface web SeaTable e a aplicação universal podem ser utilizadas em dispositivos móveis. É possível registar inventários através de um smartphone ou tablet, verificar locais de armazenamento ou efetuar reservas – diretamente no armazém, no serviço externo ou no escritório em casa.'
+      - q: "Existe suporte para a configuração da gestão de armazéns?"
+        a: 'Sim, pode contactar o nosso suporte técnico caso tenha alguma dúvida. Para tal, coloque a sua questão no nosso fórum da comunidade ou contacte-nos diretamente por e-mail. Teremos todo o prazer em ajudá-lo a configurar e personalizar a sua gestão de armazéns.'
 ---
+
+
