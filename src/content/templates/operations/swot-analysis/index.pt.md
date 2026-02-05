@@ -5,7 +5,6 @@ date: '2025-02-23'
 url: '/pt/modelo/modelo-analise-swot'
 aliases:
     - '/pt/modelo/swot-analysis'
-    - '/pt/modelo/swot-analysis'
 category: 'operations'
 functions:
 seo:
