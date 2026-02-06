@@ -137,7 +137,7 @@ sections:
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie neue Assets automatisch kategorisieren: Die KI-Funktion „Classify" erkennt anhand von Beschreibungen, Herstellern oder Produktnamen die passende Kategorie und ordnet Gegenstände selbstständig der richtigen Klasse zu – perfekt für schnelle und fehlerfreie Bestandserfassung.'
         icon: table
-      - headline: 'Dokumentenerkennung automatisiert mit OCR'
+      - headline: 'Texterkennung für Attachments mit OCR'
         text: 'Laden Sie Kaufbelege, Rechnungen oder Inspektionsprotokolle hoch und die OCR-Funktion erkennt automatisch wichtige Informationen wie Kaufdatum, Preis, Hersteller und Seriennummer. Diese Daten werden direkt in Ihre Inventarliste übernommen – manuelle Dateneingabe entfällt.'
         icon: image
       - headline: 'Intelligente Datenextraktion mit Extract'

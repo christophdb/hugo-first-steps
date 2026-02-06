@@ -138,7 +138,7 @@ sections:
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie Fahrtangaben automatisch klassifizieren: Die KI erkennt anhand von Zieltexten oder Notizen den Fahrzweck (z. B. Geschäftsbesuch, Kundenbesuch, Geschäftsreise) automatisch und ordnet Fahrten der richtigen Kategorie zu. '
         icon: table
-      - headline: 'Dokumentenerkennung automatisiert mit OCR'
+      - headline: 'Texterkennung für Attachments mit OCR'
         text: 'Laden Sie Tankbelege oder Inspektionsberichte hoch und die OCR-Funktion erkennt automatisch Kosten, Daten und Kilometerstand. Diese Informationen werden direkt in Ihre Fahrtenbuch-Tabelle übernommen.'
         icon: image
       - headline: 'Intelligente Datenextraktion mit Extract'

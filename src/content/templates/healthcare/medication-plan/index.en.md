@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Fill out medication plan online'
       subtitle: 'Always up-to-date, always at hand'
-      description: 'A classic medication plan on paper is quickly created - and quickly outdated. If you create your medication plan online, you benefit from many advantages that make your everyday life easier.'
+      description: 'A classic medication plan on paper is quickly created - and quickly outdated. If you create your [medication plan]({{< relref "posts/medikamentenplan" >}}) online, you benefit from many advantages that make your everyday life easier.'
       items:
       - text: 'Always up-to-date: changes can be entered immediately and are available the next second.'
       - text: 'Access from anywhere: you have your data to hand at all times via online access'
@@ -112,6 +112,31 @@ sections:
           link: pages/registration
           id: en-template-medication-plan-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'AI-supported medication plan with SeaTable'
+      subtitle: 'Smart support in everyday life'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that make your medication plan even safer and clearer. Analyze texts, evaluate documents, and reduce manual work—all in compliance with GDPR on German servers.'
+      items:
+      - headline: 'Automatic classification with Classify'
+        text: 'Automatically categorize medications into meaningful groups—such as by active ingredient class, time of administration, or area of application. The AI function "Classify" helps you to clearly structure complex medication plans and avoid errors.'
+        icon: table
+      - headline: 'Automatic text recognition with OCR'
+        text: "Take photos of doctor's letters, medication lists, or discharge reports and let the OCR function automatically recognize relevant information such as preparations, dosages, or frequency. The recognized data can be transferred directly to your medication table."
+        icon: image
+      - headline: 'Intelligent data extraction with Extract'
+        text: 'The Extract function analyzes unstructured texts such as findings or information on the package insert and extracts specific information—for example, instructions for use, contraindications, or maximum daily doses. This provides you with important facts directly in a structured form.'
+        icon: layer-group
+      - headline: 'Summaries with Summarize'
+        text: "The Summarize function automatically summarizes long doctor's letters or detailed medication changes into short, easy-to-understand texts. You can see at a glance what has changed and which points you should address at your next consultation."
+        icon: circle-info
+      - headline: 'Individual AI rules with custom prompts'
+        text: "With Custom Prompts, you can define your own AI instructions related to your medication plan. Examples: Notifications of potential double medication based on existing entries, automatic formulation of questions for your next doctor's appointment, or generation of a summary for your emergency ID card."
+        icon: wand-magic-sparkles
+      - headline: 'Reports at the touch of a button'
+        text: 'Automatically generate reports for general practitioners, specialists, or nursing staff based on your data. AI summarizes medication, changes, and documented side effects in a structured manner, saving you time and ensuring that all relevant information is available.'
+        icon: arrow-right
+
     - name: "content-6"
       weight: 15
       classes:
@@ -126,17 +151,25 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQs on the SeaTable medication plan template'
-      subtitle:
+      title: "FAQs about SeaTable's medication plan template"
       items:
-      - q: "Is SeaTable's medication schedule template free of charge?"
-        a: "Yes, SeaTable's medication schedule template is free to use. You only need a SeaTable account to customize the medication schedule template for free and use all the features."
-      - q: "Why should I create a medication schedule online?"
-        a: "When you fill out and manage your medication schedule online, you have access to the current status at any time and from anywhere and can easily share information with doctors or therapists. With our medication schedule template, your medication remains safe and transparent. Thanks to the page design plugin integrated into our medication schedule template, you can also print out your medication schedule if required."
-      - q: "Can I print the medication schedule template?"
-        a: 'Yes, you can create your medication schedule online and use the page design plugin to automatically generate a clear medication schedule for printing.'
-      - q: 'Can I also use the medication plan template for several people?'
-        a: 'Yes, you can also use our medication plan template for multiple plans. With SeaTable you can create a medication plan for up to 25 users free of charge.'
-      - q: 'Is there an example of a medication schedule to fill out?'
-        a: 'Yes, the medication schedule template contains a clear medication schedule example that you can use as a guide. You can use and customize our medication schedule template free of charge - to suit your personal medication.'
+      - q: "Is SeaTable's template for a medication plan free of charge?"
+        a: "Yes, SeaTable's medication plan template can be used free of charge. All you need is a SeaTable account to customize the medication plan template for free and use all its features."
+      - q: "Why should I create a medication plan online?"
+        a: 'If you fill out and manage your medication plan online, you can access the latest information anytime, anywhere, and easily share it with doctors or therapists. The digital version is easier to keep up to date than paper lists and can be printed out as a clear overview if needed.'
+      - q: "Can I print out the template for the medication plan?"
+        a: "Yes, you can create your medication plan online and use the page design plugin to automatically generate a clear medication plan for printing—for example, for doctor's appointments, hospital stays, or your emergency passport."
+      - q: "Can I use the medication plan template for multiple people?"
+        a: 'Yes, you can also use our medication plan template for multiple people or family members. With SeaTable, you can create a medication plan for up to 25 users in the SeaTable Cloud free of charge.'
+      - q: "Is there an example of a medication plan to fill out?"
+        a: 'Yes, the medication plan template contains a clear example that you can use as a guide. You can download our medication plan template free of charge and customize it to suit your personal medication.'
+      - q: "What AI features does the medication plan template support?"
+        a: 'SeaTable provides you with AI functions such as Summarize, Classify, Extract, OCR, and Custom Prompt. These can be used to evaluate documents, extract information, categorize medications, or create summaries—all integrated directly into your automations.'
+      - q: "Are AI functions GDPR-compliant—especially when it comes to health data?"
+        a: 'Yes, SeaTable operates its own AI server in a German data center. All data remains in Europe and is transmitted in encrypted form. There is no data exchange with external AI providers, so you can also process sensitive health data in compliance with data protection regulations.'
+      - q: "Can I have doctor's letters or medication lists evaluated automatically?"
+        a: "Yes, with the combination of OCR and extract functions, you can digitize doctor's letters, discharge reports, or existing medication lists and automatically transfer relevant information such as preparations, dosages, or instructions for use into structured fields."
+      - q: "Can I link my medication plan to other health templates?"
+        a: 'Yes, you can use the medication plan template with other SeaTable health templates such as a [digital patient record]({{< relref "templates/healthcare/electronic-health-record" >}}) combine or integrate them into existing processes. Step by step, you can create your own personal health overview in one central location.'
+
 ---

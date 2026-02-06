@@ -144,7 +144,7 @@ sections:
       - headline: 'Maßgeschneiderte Workflows mit Custom Prompt'
         text: 'Mit der Custom-Prompt-Funktion definieren Sie eigene KI-Anweisungen für spezifische Workflow-Automatisierungen. Beispiele: Automatische Generierung von Akzeptanzkriterien, intelligente Zuordnung zu Teammitgliedern basierend auf Skills oder automatische Erstellung von Subtasks – ganz nach Ihren Anforderungen.'
         icon: wand-magic-sparkles
-      - headline: 'Dokumentenerkennung für Attachments mit OCR'
+      - headline: 'Texterkennung für Attachments mit OCR'
         text: 'Laden Sie Design-Mockups, Whiteboard-Fotos oder handschriftliche Notizen hoch – die OCR-Funktion erkennt automatisch Text, Anforderungen und Details und überträgt sie in Ihre Aufgabenbeschreibung. Ideal für Workshop-Ergebnisse oder Quick-Captures mit dem Smartphone.'
         icon: image  
       - headline: 'Sprint-Berichte auf Knopfdruck'

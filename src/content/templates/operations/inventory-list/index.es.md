@@ -137,7 +137,7 @@ sections:
       - headline: 'Clasificación automática con Classify'
         text: 'Clasifique automáticamente los nuevos activos: la función de IA «Classify» reconoce la categoría adecuada basándose en descripciones, fabricantes o nombres de productos y asigna los artículos de forma independiente a la clase correcta, lo que resulta perfecto para un inventario rápido y sin errores.'
         icon: table
-      - headline: 'Reconocimiento automático de documentos con OCR'
+      - headline: 'Reconocimiento de texto para archivos adjuntos con OCR'
         text: 'Suba los recibos de compra, las facturas o los informes de inspección, y la función OCR reconocerá automáticamente la información importante, como la fecha de compra, el precio, el fabricante y el número de serie. Estos datos se transferirán directamente a su lista de inventario, sin necesidad de introducirlos manualmente.'
         icon: image
       - headline: 'Extracción inteligente de datos con Extract'

@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: Remplir le plan de médicaments en ligne
       subtitle: "Toujours à jour, toujours à portée de main"
-      description : "Un plan de médicaments classique sur papier est vite créé - et vite dépassé. Si vous remplissez votre plan de médicaments en ligne, vous bénéficiez de nombreux avantages qui vous facilitent la vie au quotidien."
+      description : 'Un plan de médicaments classique sur papier est vite créé - et vite dépassé. Si vous remplissez votre [plan de médicaments]({{< relref "posts/medikamentenplan" >}}) en ligne, vous bénéficiez de nombreux avantages qui vous facilitent la vie au quotidien.'
       items:
       - text: "Toujours à jour : les modifications peuvent être introduites immédiatement et sont disponibles dès la seconde suivante."
       - text: "Accessible de partout : vous avez vos données à portée de main à tout moment grâce à l'accès en ligne"
@@ -112,6 +112,32 @@ sections:
           link: pages/registration
           id: fr-template-medication-plan-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'Plan de traitement médicamenteux assisté par IA avec SeaTable'
+      subtitle: 'Assistance intelligente au quotidien'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui rendent votre plan de traitement encore plus sûr et plus clair. Analysez des textes, évaluez des documents et réduisez le travail manuel, le tout en conformité avec le RGPD sur des serveurs allemands.'
+      items:
+      - headline: 'Classification automatique avec Classify'
+        text: "Classez automatiquement les médicaments dans des groupes pertinents, par exemple selon leur classe de principes actifs, leur heure de prise ou leur domaine d'application. La fonction IA « Classify » vous aide à structurer clairement les plans de médication complexes et à éviter les erreurs."
+        icon: table
+      - headline: 'Reconnaissance automatique de texte avec OCR'
+        text: 'Veuillez photographier les lettres du médecin, les listes de médicaments ou les rapports de sortie et laissez la fonction OCR reconnaître automatiquement les informations pertinentes telles que les préparations, les dosages ou la fréquence. Les données reconnues peuvent être transférées directement dans votre tableau des médicaments.'
+        icon: image
+      - headline: 'Extraction intelligente des données avec Extract'
+        text: "La fonction Extract analyse des textes non structurés, tels que des résultats d'examens ou des remarques figurant sur la notice, et extrait des informations spécifiques, par exemple des remarques concernant la prise, les contre-indications ou les doses journalières maximales. Vous disposez ainsi directement des faits importants sous une forme structurée."
+        icon: layer-group
+      - headline: 'Résumés avec Summarize'
+        text: "La fonction Summarize résume automatiquement les longues lettres du médecin ou les changements de médication détaillés en textes courts et faciles à comprendre. Vous voyez en un coup d'œil ce qui a changé et les points à aborder lors de la prochaine consultation."
+        icon: circle-info
+      - headline: "Règles d'IA personnalisées avec invite personnalisée"
+        text: "Les invites personnalisées vous permettent de définir vos propres instructions d'IA concernant votre plan de traitement médicamenteux. Exemples : remarques sur les doubles traitements potentiels sur la base des entrées existantes, formulation automatique de questions pour le prochain rendez-vous médical ou génération d'un résumé pour la carte d'urgence."
+        icon: wand-magic-sparkles
+      - headline: 'Rapports accessibles en un clic'
+        text: "Créez automatiquement des rapports destinés au médecin généraliste, au médecin spécialiste ou au personnel soignant à partir de vos données. L'IA résume de manière structurée les médicaments, les changements et les effets secondaires documentés, ce qui vous permet de gagner du temps et de vous assurer que toutes les informations pertinentes sont disponibles."
+        icon: arrow-right
+
+
     - name: "content-6"
       weight: 15
       classes:
@@ -126,17 +152,26 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: FAQ sur le modèle de plan de médication SeaTable
-      subtitle:
+      title: 'Questions fréquentes concernant le modèle de plan de traitement médicamenteux de SeaTable'
+      subtitle: 
       items:
-      - q: "Le modèle de calendrier des médicaments de SeaTable est-il gratuit ?"
-        a : "Oui, l'utilisation du modèle de plan de traitement de SeaTable est gratuite. Vous avez seulement besoin d'un compte SeaTable pour personnaliser gratuitement le modèle de plan de traitement et utiliser toutes les fonctionnalités."
-      - q : "Pourquoi devrais-je créer un calendrier de médicaments en ligne ?"
-        a : "Lorsque vous remplissez et gérez votre programme de médicaments en ligne, vous avez accès à l'état actuel à tout moment et de n'importe où, et vous pouvez facilement partager des informations avec des médecins ou des thérapeutes. Grâce à notre modèle de plan de traitement, vos médicaments restent sûrs et transparents. Grâce au plugin de mise en page intégré à notre modèle de calendrier de prise de médicaments, vous pouvez également imprimer votre calendrier de prise de médicaments si vous le souhaitez."
-      - q : "Puis-je imprimer le modèle de calendrier de prise de médicaments ?"
-        a : "Oui, vous pouvez créer votre feuille de médicaments en ligne et utiliser le plugin de mise en page pour générer automatiquement une feuille de médicaments claire à imprimer."
-      - q : "Puis-je utiliser le modèle de plan de traitement pour plusieurs personnes ?"
-        a : "Oui, vous pouvez également utiliser notre modèle de plan de traitement pour plusieurs personnes. Avec SeaTable, vous pouvez créer gratuitement un plan de traitement pour un maximum de 25 utilisateurs."
-      - q : "Existe-t-il un exemple de plan de traitement à remplir ?"
-        a : "Oui, le modèle de plan de traitement contient un exemple clair de plan de traitement que vous pouvez utiliser comme guide. Vous pouvez utiliser et personnaliser gratuitement notre modèle de calendrier de prise de médicaments pour l'adapter à vos médicaments personnels."
+      - q: "Le modèle SeaTable pour un plan de traitement médicamenteux est-il gratuit ?"
+        a: "Oui, le modèle de plan de médication de SeaTable peut être utilisé gratuitement. Il vous suffit de disposer d'un compte SeaTable pour personnaliser gratuitement le modèle de plan de médication et utiliser toutes ses fonctionnalités."
+      - q: "Pourquoi devrais-je créer un plan de traitement en ligne ?"
+        a: 'En remplissant et en gérant votre plan de médication en ligne, vous avez accès à tout moment et où que vous soyez à la version actualisée et pouvez facilement partager les informations avec vos médecins ou thérapeutes. La version numérique est plus facile à mettre à jour que les listes papier et peut être imprimée si nécessaire pour être emportée avec vous.'
+      - q: "Puis-je imprimer le modèle pour le plan de traitement médicamenteux ?"
+        a: "Oui, vous pouvez créer votre plan de traitement en ligne et générer automatiquement un plan de traitement clair à imprimer à l'aide du plugin de conception de page, par exemple pour vos rendez-vous médicaux, vos séjours à l'hôpital ou votre carte d'urgence."
+      - q: "Puis-je également utiliser le modèle de plan de médication pour plusieurs personnes ?"
+        a: "Oui, vous pouvez utiliser notre modèle de plan de médication pour plusieurs personnes ou membres de la famille. Avec SeaTable, vous pouvez créer gratuitement un plan de médication pour jusqu'à 25 utilisateurs dans le cloud SeaTable."
+      - q: "Pourriez-vous fournir un exemple de plan de médication à remplir ?"
+        a: 'Oui, le modèle de plan de médication contient un exemple clair que vous pouvez utiliser comme référence. Vous pouvez utiliser et adapter gratuitement notre modèle de plan de médication en fonction de votre traitement personnel.'
+      - q: "Quelles sont les fonctionnalités d'IA prises en charge par le modèle de plan de traitement médicamenteux ?"
+        a: "SeaTable vous offre des fonctionnalités d'intelligence artificielle telles que Summarize, Classify, Extract, OCR et Custom Prompt. Elles vous permettent d'analyser des documents, d'extraire des informations, de classer des médicaments ou de créer des résumés, le tout directement intégré à vos automatisations."
+      - q: "Les fonctionnalités de l'IA sont-elles conformes au RGPD, en particulier en ce qui concerne les données de santé ?"
+        a: "Oui, SeaTable exploite son propre serveur d'IA dans un centre de données allemand. Toutes les données restent en Europe et sont transmises sous forme cryptée. Aucun échange de données n'a lieu avec des fournisseurs d'IA externes, ce qui vous permet de traiter des données de santé sensibles en toute conformité avec la réglementation sur la protection des données."
+      - q: "Est-il possible de faire analyser automatiquement les lettres des médecins ou les listes de médicaments ?"
+        a: "Oui, grâce à la combinaison des fonctions OCR et d'extraction, vous pouvez numériser les lettres du médecin, les rapports de sortie ou les listes de médicaments existantes et transférer automatiquement les informations pertinentes telles que les préparations, les posologies ou les conseils d'utilisation dans des champs structurés."
+      - q: "Puis-je associer mon plan de traitement à d'autres modèles de santé ?"
+        a: 'Oui, vous pouvez utiliser le modèle de plan de traitement médicamenteux avec d autres modèles SeaTable liés à la santé, tels qu un [dossier médical numérique]({{< relref "templates/healthcare/electronic-health-record" >}}) ou les intégrer dans des processus existants. Vous obtenez ainsi progressivement un aperçu personnalisé de votre état de santé, regroupé en un seul endroit.'
+
 ---

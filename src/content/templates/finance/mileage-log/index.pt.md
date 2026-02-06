@@ -138,7 +138,7 @@ sections:
       - headline: 'Classificação automática com Classify'
         text: 'Classifique automaticamente as informações de viagem: a IA reconhece automaticamente o objetivo da viagem (por exemplo, visita comercial, visita a clientes, viagem de negócios) com base nos textos de destino ou notas e atribui as viagens à categoria correta.'
         icon: table
-      - headline: 'Reconhecimento automático de documentos com OCR'
+      - headline: 'Reconhecimento de texto para anexos com OCR'
         text: 'Carregue recibos de combustível ou relatórios de inspeção e a função OCR reconhecerá automaticamente os custos, dados e quilometragem. Essas informações serão transferidas diretamente para a sua tabela de registo de viagens.'
         icon: image
       - headline: 'Extração inteligente de dados com o Extract'

@@ -137,7 +137,7 @@ sections:
       - headline: 'Automatic classification with Classify'
         text: 'Have your trip details classified automatically: AI automatically recognizes the purpose of the trip (e.g., business visit, customer visit, business trip) based on destination texts or notes and assigns trips to the correct category. '
         icon: table
-      - headline: 'Automated document recognition with OCR'
+      - headline: 'Automated text recognition with OCR'
         text: 'Upload fuel receipts or inspection reports, and the OCR function automatically recognizes costs, dates, and mileage. This information is transferred directly to your logbook table.'
         icon: image
       - headline: 'Intelligent data extraction with Extract'

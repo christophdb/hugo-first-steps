@@ -136,7 +136,7 @@ sections:
       - headline: 'Automatic classification with Classify'
         text: 'Have new assets categorized automatically: The AI function "Classify" uses descriptions, manufacturers, or product names to identify the appropriate category and automatically assigns items to the correct class—perfect for fast and error-free inventory recording.'
         icon: table
-      - headline: 'Automated document recognition with OCR'
+      - headline: 'Automated text recognition with OCR'
         text: 'Upload purchase receipts, invoices, or inspection reports, and the OCR function automatically recognizes important information such as purchase date, price, manufacturer, and serial number. This data is transferred directly to your inventory list—no manual data entry required.'
         icon: image
       - headline: 'Intelligent data extraction with Extract'
