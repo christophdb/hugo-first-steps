@@ -155,15 +155,15 @@ Das deutsche Datenschutzrecht räumt Ihnen umfassende Rechte in Bezug auf Ihre D
 
 ### Keine Datenweitergabe ins außereuropäische Ausland
 
-Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Unterauftragnehmer und nutzt insbesondere keine Cloud-und KI-Services US-amerikanischer Unternehmen (z.B. AWS, Google, Microsoft).
+Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Unterauftragnehmer und nutzt ingit sbesondere keine Cloud-und KI-Services US-amerikanischer Unternehmen (z.B. AWS, Google, Microsoft).
 Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. Dies gilt insbesondere auch für die Nutzung der KI-Funktionen in unseren Cloud Diensten. Diese nutzen ein selbstgehostetes KI-Modell (siehe Hoster).
 
 Nur bei einer Zahlung mit einer Kreditkartenzahlung oder einem ähnlichen elektronischen Zahlungsmittel (z.B. Google oder Apple Pay) auf diesem Online Angebot können ggf. personenbezogene Daten ins nicht-europäische Ausland und insbesondere in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig sind.
 
 ===
 
-Ihre personenbezogenen Daten werden von uns nur in Europa verarbeitet.  
-Bei einer Zahlung eienr Leistung mit einer Kreditkarte, Google oder Apple Pay werden personenenbezogene Daten an Visa und Co. und damit sehr wahrscheinlich in die USA übermittelt.
+Ihre personenbezogenen Daten werden von uns grundsätzlich nur in Europa verarbeitet.  
+Bei Zahlung einer Leistung mit einer Kreditkarte oder mit Google oder Apple Pay werden jedoch mit hoher Wahrscheinlichkeit personenenbezogene Daten an Ziele außerhalb Europas übermittelt. Visa, Mastercard und Co. sind US-Firmen.
 
 {{< /legal-2col >}}
 
@@ -193,7 +193,7 @@ Wir nutzen ausschließlich die europäischen Rechenzentren von Hetzner. Mehr Inf
 
 ===
 
-Unsere Online Angebot erfordert Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern kaufen sie von Dienstleistern ein. Wir arbeiten mit Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland zusammen. Wir nutzen ausschließlich deren deutsche Rechenzentren.
+Unsere Online Angebot erfordert Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern beziehen sie von Dienstleistern. Wir arbeiten mit Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland zusammen. Wir nutzen ausschließlich deren deutsche Rechenzentren.
 
 {{< /legal-2col >}}
 
@@ -272,21 +272,13 @@ Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Si
 
 ===
 
-Beim Besuch unseres Online Angebots erfassen wir Informationen wie:
+Beim Besuch unseres Online Angebots erfassen und speichern unsere Server technische Informationen (z.B. IP-Adresse, Informationen über den verwendeten Browser). Dies ist technisch erforderlich. Diese Log-Daten löschen wir regelmäßig nach Ablauf einer Frist.
 
-- IP-Adresse
-- Information über Ihren Browser
-- Seiten, die Sie besucht haben
-
-Diese Daten löschen wir regelmäßig nach Ablauf einer Frist.
-
-Wenn Sie uns kontaktieren oder sich für einen unserer Dienste registrieren, müssen wir zwangsläufig weitere Informationen über Sie erfassen. Sonst könnten wir z.B. auf Ihre E-Mail-Anfrage nicht antworten oder kein Konto für Sie anlegen.
-
-Diese Daten speichern wir dauerhaft. Wenn Sie wünschen, dass wir diese löschen, dann kontaktieren Sie uns bitte. Wenn wir alle Daten löschen sollen, dann müssen wir auch Ihre Benutzerkonten löschen.
+Wenn Sie uns kontaktieren oder sich für einen unserer Dienste registrieren, müssen wir zwangsläufig weitere Informationen über Sie erfassen. Sonst könnten wir z.B. auf Ihre E-Mail-Anfrage nicht antworten oder kein Konto für Sie anlegen. Diese Daten speichern wir dauerhaft. Wenn Sie wünschen, dass wir diese löschen, dann kontaktieren Sie uns bitte. Wenn wir alle Daten löschen sollen, dann müssen wir auch Ihre Benutzerkonten löschen.
 
 Wir nutzen auch Cookies. Wir nutzen aber nur solche, die für den Betrieb unserer Webseite und unserer Cloud-Dienste technisch notwendig sind. Ohne diese Cookies könnten Sie sich nicht bei den Cloud-Diensten anmelden und auf unserer Webseite würden manche Dinge nicht (korrekt) angezeigt.
 
-Auch ganz wichtig: Wir nutzen keine fremden Cookies, sogenannte Third-Party-Cookies. Sie werden bei uns keine Cookies oder Tracker von Google, Meta, TikTok und Co. finden. Die auf diesem Online Angebot verwendeten Cookies können auch nur von unseren eigenen Server ausgelesen werden.
+Auch ganz wichtig: Wir nutzen keine fremden Cookies, sogenannte Third-Party-Cookies. Sie werden bei uns keine Cookies oder Tracker von Google, Meta, TikTok und Co. finden. Die auf diesem Online Angebot verwendeten Cookies können auch nur von unseren eigenen Servern ausgelesen werden.
 
 Wir betreiben großen Aufwand, um alle unsere Softwarelösungen auf eigenen Servern zu betreiben. Folglich sind wir die Einzigen, die Ihre Daten zu Gesicht bekommen. Wir geben diese an niemanden weiter.
 
@@ -313,7 +305,7 @@ Wir nutzen Posthog, um unser Online Angebot technisch zu optimieren und um neue 
 
 ===
 
-Wir nutzen das Analysetool Posthog für die technische Weiterentwicklung unseres Online Agebots und um neue Funktionen zu testen.
+Wir nutzen das Analysetool Posthog für die technische Weiterentwicklung unseres Online Angebots und um neue Funktionen zu testen.
 
 Posthog wird auf einem eigenen Server betrieben, arbeitet in einem datensparsamen Modus und pseudonymisiert Daten, so dass kein direkter Personenbezug möglich ist.
 
@@ -362,7 +354,7 @@ Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Brevo e
 
 Wir werden Ihnen gelegentlich Newsletter mit Informationen, Neuigkeiten und Angeboten per E-Mail schicken. Wenn Sie dies nicht wollen, dann können Sie sich von unseren Newslettern jederzeit abmelden. Jeder Newsletter enthält in der Fußzeile einen Link zur Abmeldung.
 
-Unsere Newsletter verschicken wir über Brevo (brevo.com), die in Deutschland ansässig sind.
+Unsere Newsletter verschicken wir über Brevo, die in Deutschland ansässig sind.
 
 {{< /legal-2col >}}
 
