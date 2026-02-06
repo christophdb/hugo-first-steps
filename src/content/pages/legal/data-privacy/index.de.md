@@ -51,7 +51,7 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 **Werden Analysetools und Tools von Drittanbietern eingesetzt?**  
 Beim Besuch dieses Online Angebots erfassen wir Daten über Ihr Surfverhalten und machen dieses damit analysierbar. Wir nutzen dafür ein Webverhalten-Analysetool, das wir auf einem eigenen Server in einer datensparsamen Einstellung nutzen. Weitere Informationen zu den verwendeten Analyseprogrammen finden Sie nachfolgend.
-Drittanbieterlösungen (z.B. Google Analytics) setzen wir nicht ein.
+Drittanbieterlösungen (z.B. Google Analytics) setzen wir nicht ein. Dies gilt insbesondere auch für KI-Drittanbieterlösungen.
 
 ===
 
@@ -155,7 +155,7 @@ Das deutsche Datenschutzrecht räumt Ihnen umfassende Rechte in Bezug auf Ihre D
 
 ### Keine Datenweitergabe ins außereuropäische Ausland
 
-Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Unterauftragnehmer und nutzt ingit sbesondere keine Cloud-und KI-Services US-amerikanischer Unternehmen (z.B. AWS, Google, Microsoft).
+Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Unterauftragnehmer und nutzt insbesondere keine Cloud-und KI-Services US-amerikanischer Unternehmen (z.B. AWS, Google, Microsoft).
 Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. Dies gilt insbesondere auch für die Nutzung der KI-Funktionen in unseren Cloud Diensten. Diese nutzen ein selbstgehostetes KI-Modell (siehe Hoster).
 
 Nur bei einer Zahlung mit einer Kreditkartenzahlung oder einem ähnlichen elektronischen Zahlungsmittel (z.B. Google oder Apple Pay) auf diesem Online Angebot können ggf. personenbezogene Daten ins nicht-europäische Ausland und insbesondere in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig sind.
@@ -193,7 +193,7 @@ Wir nutzen ausschließlich die europäischen Rechenzentren von Hetzner. Mehr Inf
 
 ===
 
-Unsere Online Angebot erfordert Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern beziehen sie von Dienstleistern. Wir arbeiten mit Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland zusammen. Wir nutzen ausschließlich deren deutsche Rechenzentren.
+Unser Online Angebot erfordert Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern beziehen sie von Dienstleistern. Wir arbeiten mit Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland zusammen. Wir nutzen ausschließlich deren deutsche Rechenzentren.
 
 {{< /legal-2col >}}
 
