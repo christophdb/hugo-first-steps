@@ -2,127 +2,197 @@
 title: 'Quotation Management'
 description: 'Generate, organize and send quotes in one place, automate approvals and streamline your sales proposal process.'
 date: '2025-04-06'
-url: '/template/quotation-management'
+url: '/template/quotation-management-template'
+aliases:
+    - '/template/quotation-management'
 category: 'sales'
 functions:
 seo:
-    title: 'Quotation Management Template: Create & Send Quotes Easily'
-    description: 'Create, manage, and send quotations digitally with SeaTable’s template—automatic calculations, fast exports, seamless workflows.'
-template: '584c3121cf4a4ffd86e5'
+    title: 'Quotation template: AI-powered & digital quotes'
+    description: 'Use SeaTable AI to create quotes, manage data centrally and send quotations automatically as PDF or by email.'
+
+type: pages
+
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'SeaTable – Your professional quote writing template'
+      text: "No more tediously formatted Word or Excel quotes. With SeaTable's quote template, you can create professional quotes, automate calculations, and send PDFs directly by email—customizable, scalable, and GDPR-compliant. The quote template adapts to your processes—from sole traders to teams in B2B sales."
+      classes:
+          - bg-white
+      template: '584c3121cf4a4ffd86e5'
+      buttons:
+          - label: Register now for free and use the template
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'Writing quotations Template for structured quotation processes'
+      subtitle:  Write an offer online
+      text: 
+      items:
+        - icon: 'check'
+          headline: 'Standardized'
+          text: 'The template ensures consistent offers. All mandatory information, prices, discounts, and VAT are maintained centrally and automatically transferred.'
+        - icon: 'wand-magic-sparkles'
+          headline: 'Automated'
+          text: 'Link customer and product data, use formulas for discounts and net/gross amounts, and create quotes with a single click.'
+        - icon: 'chart-simple'
+          headline: 'Statistics'
+          text: 'Analyze your offers with statistical views—for example, closing rates, offer totals by employee, or sales potential by industry.'
+        - icon: 'lock'
+          headline: 'Audit-proof'
+          text: 'All offers are stored centrally—with history, comments, and permissions. This allows you to keep track of versions, approvals, and statuses at all times and avoid outdated offers.' 
+        - icon: 'language'
+          headline: 'Multilingual'
+          text: "Create your quotation templates in multiple languages or for different countries and automatically use the appropriate quotation version depending on the customer's country."
+        - icon: 'bell'
+          headline: 'Follow-up reminder'
+          text: 'Set reminders and workflows for follow-ups to never miss a deal. For example, trigger automatic notifications when offers are about to expire, no response has been received yet, or a follow-up call is due.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide rely on SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads in the first year of Docker Hub
+      - number: "1.500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Review on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action - Success stories"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Quote template from SeaTable'
+      subtitle: 'Your advantages at a glance'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With our quote writing template, you can digitize your quotation process and map even complex sales workflows from initial contact to order confirmation.'
+      items:
+      - text: 'Get to the quote faster: Use predefined quote templates, linked product and customer data, and automatic calculations for discounts and taxes—so you can write quotes in minutes instead of hours.'
+      - text: 'Everything in one place: The quote template bundles all relevant information in one place so that sales, management, and back office always work with the same, up-to-date data.'
+      - text: 'Legally compliant documentation: Store your terms and conditions, payment terms, and validity periods directly in your quote template and ensure consistent content in every quote—even special requirements such as small business regulations can be included.'
+      - text: 'Scalable: The proposal templates grow with your sales team—from sole proprietors to larger sales organizations with multiple pipelines, regions, and languages.'
+      - text: 'Automated & integrated: Connect your quote template to CRM, email marketing, or accounting via n8n or Zapier and avoid duplicate data entry.'
+      image_position: [left]
+      image: '/images/template_page_angebot_01.png'
+      image_alt: 'SeaTable interface with quote list, status columns, and action buttons for quote creation'
+
+    - name: "content-25"
+      weight: 10
+      title: 'How the quote writing template works'
+      subtitle: 'Create and track quotes'
+      items:
+      - headline: 'Record all offer data'
+        text: 'Customer, responsible sales representative, items, discounts, validity date, and status. Serial number, creation time, and expiration date are set automatically, while discounts and net and gross prices are calculated using formulas.'
+        image: '/images/template_page_angebot_02.png'
+        image_alt: 'Quote table with columns for customer, salesperson, items, discounts, validity, and status'
+      - headline: 'Link customer data'
+        text: 'Save company data such as name, address, contact person, email, phone number, country, and VAT ID. This information is automatically transferred to the respective quote via links and lookup columns.'
+        image: '/images/template_page_angebot_03.png'
+        image_alt: 'Customer data table with company name, address, contact person, contact information, and VAT ID'
+      - headline: 'Maintain product catalog'
+        text: 'Your product and service portfolio, including descriptions, categories, and prices, all in one place. The gross price including VAT is calculated from the net price using a formula, and rollup formulas add up the items in the offer.'
+        image: '/images/template_page_angebot_04.png'
+        image_alt: 'Product catalog in SeaTable with items, descriptions, categories, net and gross prices'
+      - headline: 'From quotation to order confirmation'
+        text: 'You can generate an order confirmation directly from confirmed quotes and thus map the next step in the sales process—ideal in combination with the [order confirmation template]({{< relref "templates/sales/order-confirmation" >}}) by SeaTable.'
+        image: '/images/template_page_angebot_05.png'
+        image_alt: 'SeaTable view in which a confirmed quote can be turned into an order confirmation with a single click'
+            
+    - name: "content-6"
+      weight: 12
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'Your personalized quote app'
+      subtitle: 
+      items:
+      - text: 'With the integrated no-code app builder, you can transform the quote writing template into a customized quote app. Create web forms for new quote requests, guided interfaces for sales, and Kanban views for quote statuses such as "new," "sent," "negotiating," or "won," and share focused views with internal and external stakeholders. This turns the quote writing template into the central hub of your sales department.'
+      image: '/images/template_page_angebot_06.png'
+      image_alt: 'Quotation app in SeaTable App Builder with forms, Kanban board, and guided sales interface'
+
+    - name: "banner-3"
+      weight: 15
+      title: 'Write professional quotes in minutes – with SeaTable'
+      buttons:
+        - label: Use the quote template now
+          link: pages/registration
+     
+    - name: "content-9"
+      weight: 16
+      title: 'AI-supported quotation creation with SeaTable'
+      subtitle: 'Smart automation'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that speed up your quote creation and management. Automate recurring tasks, reduce errors, and free up more time for sales calls—whether you use a quote template for small businesses or professional quote templates for complex B2B deals. The quote writing template can be combined with AI workflows to automatically generate qualified quotes from inquiries.'
+      items:
+      - headline: 'Automatic text modules with Classify'
+        text: 'Have requests for quotes classified automatically. The AI function "Classify" recognizes product categories, industries, or regions and adds appropriate text modules and responsibilities.'
+        icon: table
+      - headline: 'Extract information from queries with Extract'
+        text: 'The Extract function reads unstructured inquiries, emails, or PDFs and transfers relevant data such as budget, desired services, terms, or quantities directly into your quote template.'
+        icon: layer-group
+      - headline: 'Summarize offers with Summarize'
+        text: 'Summarize automatically creates short summaries of longer proposal documents or email threads so that management and sales can quickly see what the proposal is about.'
+        icon: circle-info
+      - headline: 'Individual AI prompts with Custom Prompt'
+        text: 'Define your own AI instructions, for example for alternative offer variants, upselling suggestions, or personalized introductory texts for different customer segments.'
+        icon: wand-magic-sparkles
+      - headline: 'Automated quote checks & approvals'
+        text: 'Automatically generate initial draft contracts with the most important terms and conditions from approved offers. This saves you manual copy-and-paste work, reduces transcription errors, and significantly speeds up your entire contract process.'
+        icon: arrow-right
+      - headline: 'Derive draft contracts from offers'
+        text: 'Automatically generate initial draft contracts with the most important terms and conditions from approved offers. This saves you manual copy-and-paste work, avoids errors, and significantly speeds up your contract process.'
+        icon: image
+        
+        
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Quotation template for small businesses and medium-sized companies'
+      subtitle: 'Security and transparency'
+      description: "SeaTable is a modern AI no-code database solution with automation and app builder, offering all the features you need for a digital, integrated quotation process. Whether you're a small business owner or part of a sales team in a medium-sized company, protecting your data is our top priority."
+      box-position: [right!]
+      items:
+      - headline: GDPR compliant
+        text: 'GDPR compliantIf you use SeaTable Cloud or the integrated AI, all offer data remains in Europe—the infrastructure is operated exclusively on servers in Germany.'
+      - headline: 2FA and SSO
+        text: 'SeaTable supports common authentication techniques such as two-factor authentication and single sign-on, allowing you to control who can access your data.'
+
+    - name: "faq"
+      weight: 20
+      title: 'FAQs about the SeaTable quote template'
+      subtitle: 
+      items:
+      - q: "Can I use SeaTable's free quote template?"
+        a: 'Yes, you can use the quote template free of charge. Simply create a free SeaTable account and add the quote template to your Base to create quotes online right away—even as a quote template for small businesses without VAT registration. The quote template is therefore an ideal introduction to a digital quoting process.'
+      - q: "Is SeaTable an alternative to the quote template in Excel?"
+        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}) Specially designed for collaborative quotation processes. Unlike an Excel quotation template, multiple people can work simultaneously, leave comments, and use AI functions.'
+      - q: "Can I import my existing Excel quote template into SeaTable?"
+        a: 'Yes, you can import your existing quote template in Excel as .xlsx, .xls, or CSV and then customize the structure. You can then benefit from links, formulas, automations, and PDF creation directly from SeaTable. This allows you to migrate your existing quote template step by step to a modern, collaborative system.​'
+      - q: "Can I save quotes directly as PDF files and send them by email?"
+        a: 'Yes, with the Page Design plugin, you can generate a quote PDF at the touch of a button and send it directly to the customer via email using a button, as long as an email account is stored in SeaTable.'
+      - q: "Can I generate an order confirmation and invoice from the quote?"
+        a: 'Yes, based on the same data, you can also generate order confirmations and invoices, allowing you to map the entire process from quotation to payment in SeaTable.'
+      - q: "Does SeaTable support custom offer layouts in my corporate design?"
+        a: 'Yes, with the help of the Page Design plugin, you can design quotation templates in your corporate design—including logo, colors, headers, footers, and recurring text modules.'
+      - q: "Can I create an order confirmation and invoice directly from a quote?"
+        a: 'Yes, you can map your entire process from quotation to invoicing in SeaTable. From a confirmed quotation, you can generate an order confirmation and then use the appropriate [Invoice Template]({{< relref "/templates/finance/invoice-creation" >}}) a legally compliant invoice.'
+      - q: "Can I connect my quotation processes to other systems?"
+        a: 'Yes, SeaTable can be integrated via [Integrations]({{< relref "pages/integrations" >}}) How to connect n8n and Zapier with CRM systems, accounting software, email services, or collaboration tools to automate your quotation process end-to-end.'
+      - q: "Is the quote template also suitable for small businesses and the self-employed?"
+        a: 'Yes, the Small Business Quote Template is ideal for freelancers, small businesses, and agencies who want to write and track professional, error-free quotes without expensive specialized software.'
+      - q: "Is there support available if I have questions about the quote template?"
+        a: 'Yes, if you have any questions, you can use the help section documentation, ask in the community forum, or contact support directly by email.'
+
+
 ---
-
-Well done! If you have to write a quotation for a customer, you have already successfully aroused interest in your products or services. Now it's all about convincing the potential client of your offer. Instead of having to write a new quote for each individual inquiry, you can automate the entire process of creating a quote with a quote template. Why not use SeaTable'squotation templateright away, with which you can create every quotation online - free of charge, conveniently and securely!
-
-## Why you should write an offer
-
-A clearly and attractively designedoffer letterincreases the likelihood that your prospective customer will ultimately take the bait. It serves as a mutual assurance and makes it clear whatservicesyour customer can expect for thepricequoted. While an informal email may be sufficient for a small order, you should definitely prepare a written offer for larger orders in order to document the proposed contractual conditions. The more precisely you specify theitems in the quotation, the fewer misunderstandings are possible.
-
-Especially if you receive inquiries every day, it can take a lot of time and nerves to writeindividual offersthat you have to reformulate again and again - without knowing whether your offers will actually result in orders. This is where a professional quotation template provides a quick and reliable remedy, especially for small businesses. Use SeaTable, for example, to write your quotationefficientlyandautomatically.
-
-![SeaTable template automatically creates a quotation and shows a preview of the quote document](images/image-1741253045784.gif)
-
-## What speaks in favor of an offer template
-
-When you use a template to write a quotation, you benefit from numerous improvements that make your quotation creation process more efficient, easier and more robust.
-
--Save time: Our digital offer template allows you to automatically generate, send and save your offer letters. This reduces manual input and minimizes your administrative workload.
-
--No errors: thanks to automated quotation creation using dynamic fields and formulas, there are no calculation or typing errors as with a quotation template in Word.
-
--Central storage: In SeaTable you can store all existing data relating to your customers, products and orders, link them together and embed them in documents.
-
--Sustainability: With SeaTable, your quotation preparation is completely paperless - without time-consuming and expensive dispatch, but simply at the touch of a button by e-mail.
-
-## How to create a professional quote
-
-If you've never had to create a quote before, you probably don't know where to start. In this case, our template for your quotation will help you enormously, as it already contains all the elements you need toprepare a correct quotation.
-
-![Table overview of quotation components with customer, line item and amount information](images/image-1741191669169.png)
-
-The following mandatory information should not be missing from any offer template:
-
-1. when you write an offer, thenameandaddress of your companyusually form the letterhead together with yourcompany logo.
-
-2. you need thenameandaddress of the client/customernot only for the delivery, but also for tax reasons - because services to companies are taxable where the client is based.
-
-3.subject lineandquotation number: A clear, consecutive numbering of your quotations makes it easier to assign them in future correspondence with your customers.
-
-4. the directsalutationwith the name of the contact person gives your offer letter a personal touch.
-
-5 The exact description of the offer with the individualitems(type, price and quantity of the service) forms the main part of your offer. It must be clear to what extent you are offering your products or services.
-
-6 Now it's time to get down to business: add up the individual items to thenet amount, deduct adiscountif necessary and, for domestic customers, also calculate the gross amount includingVAT.
-
-7 For business customers abroad, you need theVAT identification numberwhen you write an offer. Point out to these customers that they must pay the VAT in their respective country themselves (tax liability of the recipient of the service).
-
-8.dateandvalidity: Don't forget the actual date when you create an offer and add a deadline by which the customer can accept it. As a rule, the period for which you are legally bound by your offer should only be a few weeks.
-
-9. conclude the offer text with a friendlyclosingand agreeting. It is also best to draw the customer's attention to yourGeneral Terms and Conditions (GTC)in the offer letter.
-
-10. yourbank details,VAT IDand other relevant company data should be included in the letterhead of your offer template.
-
-## Win customers by writing transparent offers
-
-Naturally, your potential customers have a great interest in knowing the exactcostsbefore placing an order. However, it can be difficult for service providers to correctly estimate all costs and quote binding fixed prices, especially when it comes to longer-term services - for example, when writing a quote for a construction project. In this case, acost estimateis recommended, which offers significantly more leeway.
-
-### What is the difference between a quote and a cost estimate?
-
-If you write an offer, the prices and services stated arelegally bindingunless you have stated otherwise in the offer template. If the offer is accepted, apurchase contractis concluded directly with the customer. On the other hand, a cost estimate is only anon-binding forecastor apreliminary calculationof costs that are subject to change.
-
-Therefore, make sure to mark your offer letter with afreedom clausesuch as "non-binding offer" if you want to keep the option open to withdraw it or adjust the conditions. Ideally, make this clear in your GTC and mention it in the offer template.
-
-But be careful: even with a cost estimate, the final price should not deviate from your estimate by more than 15 percent. If you are faced withunexpected costs or additional expenses, you must first obtain the customer's approval. Therefore, always calculate realistically.
-
-## The diverse functions of our offer template
-
-- You can customize our quote template to suit your wishes and needs. Design the quote template with thepage design pluginand use a variety of column types and visualization options.
-
-- Create your offer templatein different languagesor for different countries and define dependencies so that the appropriate template is always selected automatically.
-
-- As soon as you have filled in the quotation template with your data and individual designs, the quotation is created free of charge andautomatically at the touch of a button- without any further effort on your part.
-
-- You can also automate the sending process: Integration with your e-mail provider allows you to write a quote with just one click andsenditdirectly by e-mail.
-
-- Use thestatisticsintegrated into the offer template to gain valuable insights from your figures and data and make well-founded decisions.
-
-![SeaTable workflow: create quotation at the push of a button, save as PDF and send via email](images/image-1741253450663.gif)
-
-## Writing offers efficiently - it can be that simple
-
-With SeaTable's quotation template, creating and managing quotations is child's play. The template for your quote helps you to clearly organizeproducts,customersandorders, automatically create the quote and save it as a PDF ready for dispatch.
-
-Thanks to intelligentlinks, the quotation template is fed with relevant data from various tables: Customer information, order items and prices flow together seamlessly, whileformulasautomatically calculate discounts and VAT. With the quotation template, small and large companies alike always have an overview and save valuable time.
-
-### Creating a quote made easy
-
-The page design plugin, which allows you to designquotation letters in several languages, is particularly practical for the quotation template. A single click is all it takes to save a quoteas a PDF- SeaTable automatically uses the appropriate quote template depending on the customer's country. Thanks to the user-friendly interface, you can write a quotation in no time at all. Shipping is also integrated: With an additional button, the finished quote can be sent directlyto the customerbyemail. The entire process runs efficiently and smoothly, without cumbersome copying or manual typing.
-
-### Write more than one quote template
-
-In addition to creating quotes, the write quote template offers valuable additional functions that support your business. The statistics function makes it easy toevaluate sales figuresand turnover, while the gallery plugin gives you an overview of yourproduct portfolio. Thanks to SeaTable's flexible customization options, you can tailor columns, calculations and views to your individual needs and create a quote template that fits your business perfectly.
-
-## Advantages of SeaTable as software for preparing quotations
-
--Free of charge: The quote writing template is free of charge. Start with the free version of SeaTable, which already includes numerous functions. If required, you can easily upgrade to get more functions or storage space for creating quotes.
-
--Collaborative: Thanks to real-time synchronization, SeaTable makes team collaboration much easier. Multiple users can work on tables, update data in the quote template and leave comments at the same time.
-
--Convenient: If you create a quotation online, it is accessible from anywhere and at any time and is also protected against loss. Unlike a quotation template in Word, you can also save structured data and automatically generate documents from it.
-
--Flexible: SeaTable is much more than just a database. Thanks to its versatile customization options, it can be used for a wide range of applications and seamlessly integrated into various business processes.
-
--Secure: Your data is optimally protected with SeaTable. You have the choice of storing it in the cloud or on-premises. Thanks to GDPR compliance and individual access rights, you retain full control over your data at all times.
-
--Scalable: From the first use with a few employees to a company-wide solution for large teams - SeaTable grows with your requirements. Of course, you can also use this template to create your offer free of charge as a small business.
-
-## Increase your sales through appealing offers with SeaTable
-
-Whether as a quotation template for small businesses or quotation creation software for large companies, SeaTable makes it easy to create a quotation for every order. Use theautomated quotation generationfeature to create and send one quotation after another online in no time at all. This gives you more time for the important things instead of wasting valuable hours writing quotes.
-
-If you would like to use the offer writing template free of charge,simply register with your e-mail address.
-
-## Interactive template
-
-Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions of the quote writing template. If you have any questions, please take a look at our [help section]({{< relref "help" >}}).
-
-​

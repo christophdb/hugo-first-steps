@@ -2,129 +2,198 @@
 title: 'Escribir oferta'
 description: 'Elabore, controle y envíe presupuestos de forma digital, agilice aprobaciones y gestione todos los datos en una solución integrada.'
 date: '2025-04-06'
-url: '/es/plantilla/gestion-presupuestos'
+url: '/es/plantilla/plantilla-gestion-ofertas'
 aliases:
     - '/es/plantilla/quotation-management'
+    - '/es/plantilla/gestion-presupuestos'
 category: 'sales'
 functions:
 seo:
-    title: 'Gestión de Presupuestos: Plantilla para Crear Ofertas Online'
-    description: 'Crea, gestiona y envía presupuestos en segundos con la plantilla de SeaTable. Flujo digital y automático para tus ofertas.'
-template: '584c3121cf4a4ffd86e5'
+    title: 'Plantilla de ofertas: con IA y gestión digital'
+    description: 'Cree ofertas con IA en SeaTable, centralice datos y envíe presupuestos automáticamente en PDF o por correo electrónico.'
+
+type: pages
+
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'SeaTable: su plantilla profesional para redactar ofertas'
+      text: 'Se acabaron las tediosas ofertas en Word o Excel. Con la plantilla para redactar ofertas de SeaTable, podrá crear ofertas profesionales, automatizar cálculos y enviar archivos PDF directamente por correo electrónico, de forma personalizable, escalable y conforme al RGPD. La plantilla para redactar ofertas se adapta a sus procesos, desde empresarios individuales hasta equipos de ventas B2B.'
+      classes:
+          - bg-white
+      template: '584c3121cf4a4ffd86e5'
+      buttons:
+          - label: Regístrese ahora gratis y utilice la plantilla
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'Redactar ofertas Plantilla para procesos de oferta estructurados'
+      subtitle:  Escribir una oferta en línea
+      text: 
+      items:
+        - icon: 'check'
+          headline: 'Estandarizado'
+          text: 'Analice sus ofertas con vistas estadísticas, por ejemplo, tasas de cierre, importes por empleado y potencial por sector para tomar mejores decisiones.'
+        - icon: 'wand-magic-sparkles'
+          headline: 'Automatizado'
+          text: 'Vincule los datos de clientes y productos, utilice fórmulas para descuentos e importes netos/brutos y cree ofertas con un solo clic.'
+        - icon: 'chart-simple'
+          headline: 'Estadísticas'
+          text: 'Analice sus ofertas con vistas estadísticas, por ejemplo, tasas de cierre, importes por empleado o potencial de ventas por sector.'
+        - icon: 'lock'
+          headline: 'A prueba de revisiones'
+          text: 'Todas las ofertas se almacenan de forma centralizada, con historial, comentarios y autorizaciones. Así controla siempre versiones, aprobaciones y estado y evita ofertas obsoletas.' 
+        - icon: 'language'
+          headline: 'Multilingüe'
+          text: 'Cree plantillas de oferta en varios idiomas o para distintos países y utilice automáticamente la versión adecuada según el país del cliente, el idioma o la unidad monetaria correspondiente.'
+        - icon: 'bell'
+          headline: 'Recordatorio de seguimiento'
+          text: 'Establezca recordatorios y flujos de trabajo para los seguimientos. Por ejemplo, notificaciones automáticas cuando las ofertas estén a punto de caducar o aún no se haya recibido ninguna respuesta.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes de todo el mundo confían en SeaTable"
+      subtitle: "¿Quién utiliza SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Descargas en el primer año de Docker Hub
+      - number: "1.500+"
+        text: "Usuarios diarios en SeaTable Cloud"
+      - number: "4.6"
+        text: "Valoración en Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en acción: historias de éxito"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Plantilla para redactar ofertas de SeaTable'
+      subtitle: 'Resumen de sus ventajas'
+      description: 'La solución de IA sin código SeaTable destaca por su flexibilidad y adaptabilidad. Con nuestra plantilla para redactar ofertas, digitalizará su proceso de oferta y podrá representar incluso flujos de trabajo de ventas complejos, desde el primer contacto hasta la confirmación del pedido.'
+      items:
+      - text: 'Ofertas más rápidas: utilice plantillas de oferta predefinidas, datos de productos y clientes vinculados, así como cálculos automáticos de descuentos e impuestos, para redactar ofertas en cuestión de minutos en lugar de horas.'
+      - text: 'Todo en un solo lugar: la plantilla para redactar ofertas reúne toda la información relevante en un solo lugar, de modo que los departamentos de ventas, dirección y administración siempre trabajan con los mismos datos actualizados.'
+      - text: 'Documentación con seguridad jurídica: almacene los términos y condiciones generales, las condiciones de pago y los plazos de validez directamente en su plantilla de redacción de ofertas y garantice la coherencia del contenido en cada oferta; también se pueden incluir requisitos especiales, como las regulaciones para pequeñas empresas.'
+      - text: 'Escalable: las plantillas de ofertas crecen con su equipo de ventas, desde empresarios individuales hasta grandes organizaciones de ventas con múltiples canales, regiones e idiomas.'
+      - text: 'Automatizado e integrado: conecte su plantilla de oferta mediante n8n o Zapier con CRM, marketing por correo electrónico o contabilidad y evite la duplicación de datos.'
+      image_position: [left]
+      image: '/images/template_page_angebot_01.png'
+      image_alt: 'Interfaz de SeaTable con lista de ofertas, columnas de estado y botones de acción para la creación de ofertas.'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Así funciona la plantilla para redactar ofertas'
+      subtitle: 'Crear y realizar un seguimiento de las ofertas'
+      items:
+      - headline: 'Registre todos los datos de la oferta.'
+        text: 'Cliente, comercial responsable, posiciones, descuentos, fecha de validez y estado. El número de serie, la fecha de creación y la fecha de caducidad se establecen automáticamente, mientras que los descuentos y los precios netos y brutos se calculan mediante una fórmula.'
+        image: '/images/template_page_angebot_02.png'
+        image_alt: 'Tabla de ofertas con columnas para cliente, vendedor, posiciones, descuentos, validez y estado.'
+      - headline: 'Vincular datos de clientes'
+        text: 'Guarde los datos de la empresa, como el nombre, la dirección, la persona de contacto, el correo electrónico, el número de teléfono, el país y el número de identificación fiscal. Mediante enlaces y columnas de búsqueda, esta información se transfiere automáticamente a la oferta correspondiente.'
+        image: '/images/template_page_angebot_03.png'
+        image_alt: 'Tabla de datos de clientes con nombre de la empresa, dirección, persona de contacto, información de contacto y número de identificación fiscal.'
+      - headline: 'Mantener el catálogo de productos'
+        text: 'Su cartera de productos y servicios, incluyendo descripciones, categorías y precios, centralizada en un solo lugar. A partir del precio neto se calcula el precio bruto, incluido el IVA, mediante una fórmula, y las fórmulas de acumulación suman las posiciones de la oferta.'
+        image: '/images/template_page_angebot_04.png'
+        image_alt: 'Catálogo de productos en SeaTable con artículos, descripciones, categorías, precios netos y brutos.'
+      - headline: 'De la oferta a la confirmación del pedido'
+        text: 'A partir de las ofertas confirmadas, puede generar directamente una confirmación de pedido y, de este modo, reflejar el siguiente paso en el proceso de venta, lo que resulta ideal en combinación con la [plantilla de confirmación de pedido]({{< relref "templates/sales/order-confirmation" >}}) de SeaTable.'
+        image: '/images/template_page_angebot_05.png'
+        image_alt: 'Vista de SeaTable en la que, con un solo clic, una oferta confirmada se convierte en una confirmación de pedido.'
+            
+    - name: "content-6"
+      weight: 12
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'Su aplicación de ofertas personalizada'
+      subtitle: 
+      items:
+      - text: 'Con el generador de aplicaciones sin código integrado de SeaTable, puede convertir la plantilla para redactar ofertas en una aplicación de ofertas personalizada. Cree formularios web para nuevas solicitudes de oferta, interfaces guiadas para ventas y vistas Kanban para el estado de las ofertas, como «nueva», «enviada», «en negociación» o «ganada», y comparta vistas específicas con las partes interesadas internas y externas. De este modo, la plantilla para redactar ofertas se convierte en el centro neurálgico de sus ventas.'
+      image: '/images/template_page_angebot_06.png'
+      image_alt: 'Aplicación de ofertas en SeaTable App Builder con formularios, tablero Kanban e interfaz de ventas guiada.'
+
+    - name: "banner-3"
+      weight: 15
+      title: 'Redacte ofertas profesionales en cuestión de minutos con SeaTable.'
+      buttons:
+        - label: Utilice ahora la plantilla para redactar ofertas
+          link: pages/registration
+     
+    - name: "content-9"
+      weight: 16
+      title: 'Elaboración de ofertas asistida por IA con SeaTable'
+      subtitle: 'Automatización inteligente'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que aceleran la creación y gestión de sus ofertas. Automatice las tareas recurrentes, reduzca los errores y gane más tiempo para las conversaciones de ventas, independientemente de si utiliza una plantilla de oferta para pequeñas empresas o plantillas de oferta profesionales para acuerdos B2B complejos. La plantilla para redactar ofertas se puede combinar con flujos de trabajo de IA para generar automáticamente ofertas cualificadas a partir de solicitudes.'
+      items:
+      - headline: 'Bloques de texto automáticos con Classify'
+        text: 'Clasifique automáticamente las solicitudes de presupuesto. La función de IA «Classify» reconoce categorías de productos, sectores o regiones y añade los módulos de texto y las responsabilidades adecuados.'
+        icon: table
+      - headline: 'Extraer información de consultas con Extract'
+        text: 'La función Extract lee consultas no estructuradas, correos electrónicos o archivos PDF y transfiere datos relevantes, como el presupuesto, los servicios deseados, los plazos o las cantidades, directamente a su plantilla de oferta.'
+        icon: layer-group
+      - headline: 'Resumir ofertas con Summarize'
+        text: 'Summarize crea automáticamente resúmenes breves de documentos de oferta largos o cadenas de correos electrónicos para que la dirección y el departamento de ventas puedan identificar rápidamente de qué trata la oferta.'
+        icon: circle-info
+      - headline: 'Indicaciones de IA individuales con Custom Prompt'
+        text: 'Defina sus propias instrucciones de IA, por ejemplo, para variantes de ofertas alternativas, sugerencias de ventas adicionales o textos introductorios personalizados para diferentes segmentos de clientes.'
+        icon: wand-magic-sparkles
+      - headline: 'Comprobaciones y aprobaciones automatizadas de ofertas'
+        text: 'Cree automáticamente los primeros borradores de contrato con las condiciones más importantes a partir de las ofertas aprobadas. De este modo, se ahorrará el trabajo manual de copiar y pegar, reducirá los errores de transcripción y acelerará considerablemente todo el proceso contractual.'
+        icon: arrow-right
+      - headline: 'Derivar borradores de contratos a partir de ofertas'
+        text: 'Cree automáticamente los primeros borradores de contrato con las condiciones más importantes a partir de las ofertas aprobadas. De este modo, se ahorrará el trabajo manual de copiar y pegar, evitará errores y acelerará considerablemente su proceso contractual.'
+        icon: image
+        
+        
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Plantilla de oferta para pequeñas empresas y medianas empresas'
+      subtitle: 'Seguridad y transparencia'
+      description: 'SeaTable es una moderna solución de base de datos sin código con inteligencia artificial, automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para un proceso de oferta digital e integrado. Ya sea una pequeña empresa o un equipo de ventas de una mediana empresa, la protección de sus datos es nuestra prioridad.'
+      box-position: [right!]
+      items:
+      - headline: Conforme al RGPD
+        text: 'Conforme al RGPD Si utiliza SeaTable Cloud o la IA integrada, todos los datos de las ofertas permanecen en Europa, ya que la infraestructura se gestiona exclusivamente en servidores ubicados en Alemania.'
+      - headline: 2FA y SSO
+        text: 'SeaTable es compatible con las técnicas de autenticación más habituales, como la autenticación de dos factores y el inicio de sesión único, para que usted pueda controlar quién tiene acceso a sus datos.'
+
+    - name: "faq"
+      weight: 20
+      title: 'Preguntas frecuentes sobre la plantilla para redactar ofertas de SeaTable'
+      subtitle: 
+      items:
+      - q: "¿Puedo utilizar la plantilla para redactar ofertas de SeaTable de forma gratuita?"
+        a: 'Sí, puede utilizar la plantilla para redactar ofertas de forma gratuita. Solo tiene que crear una cuenta gratuita en SeaTable y añadir la plantilla de oferta a su base de datos para crear ofertas directamente en línea, incluso como plantilla de oferta para pequeños empresarios sin IVA. La plantilla para redactar ofertas es, por lo tanto, una introducción ideal al proceso de oferta digital.'
+      - q: "¿SeaTable es una alternativa a la plantilla de ofertas de Excel?"
+        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) Especialmente diseñado para procesos de oferta colaborativos. A diferencia de una plantilla de oferta en Excel, varias personas pueden trabajar al mismo tiempo, dejar comentarios y utilizar funciones de inteligencia artificial.'
+      - q: "¿Puedo importar mi plantilla de oferta existente de Excel a SeaTable?"
+        a: 'Sí, puede importar su plantilla de oferta existente en Excel como .xlsx, .xls o CSV y, a continuación, ajustar la estructura. Después, podrá beneficiarse de los enlaces, fórmulas, automatizaciones y creación de PDF directamente desde SeaTable. De este modo, podrá migrar paso a paso su plantilla de oferta existente a un sistema moderno y colaborativo.​'
+      - q: "¿Puedo guardar las ofertas directamente en formato PDF y enviarlas por correo electrónico?"
+        a: 'Sí, con el complemento Page Design puede crear un PDF con la oferta con solo pulsar un botón y enviarlo directamente por correo electrónico al cliente mediante otro botón, siempre que haya configurado una cuenta de correo electrónico en SeaTable.'
+      - q: "¿Puedo crear la confirmación del pedido y la factura a partir de la oferta?"
+        a: 'Sí, basándose en los mismos datos, también puede generar confirmaciones de pedidos y facturas, lo que le permite mapear todo el proceso, desde la oferta hasta el pago, en SeaTable.'
+      - q: "¿SeaTable admite diseños de ofertas personalizados con mi identidad corporativa?"
+        a: 'Sí, con la ayuda del plugin Page Design puede diseñar plantillas de ofertas con su diseño corporativo, incluyendo el logotipo, los colores, los encabezados y pies de página, así como los bloques de texto recurrentes.'
+      - q: "¿Puedo crear una confirmación de pedido y una factura directamente a partir de una oferta?"
+        a: 'Sí, puede representar todo el proceso, desde la elaboración de la oferta hasta la facturación, en SeaTable. A partir de una oferta confirmada, puede generar una confirmación del pedido y, a continuación, con la plantilla adecuada [Escribir factura]({{< relref "/templates/finance/invoice-creation" >}}) una factura conforme a la ley.'
+      - q: "¿Puedo conectar mis procesos de oferta con otros sistemas?"
+        a: 'Sí, SeaTable se puede integrar a través de [Integraciones]({{< relref "pages/integrations" >}}) cómo conectar n8n y Zapier con sistemas CRM, software de contabilidad, servicios de correo electrónico o herramientas de colaboración para automatizar todo el proceso de oferta.'
+      - q: "¿La plantilla de oferta también es adecuada para pequeños empresarios y autónomos?"
+        a: 'Sí, la plantilla de oferta para pequeños empresarios es ideal para autónomos, pequeñas empresas y agencias que desean redactar y realizar un seguimiento de ofertas profesionales y sin errores sin necesidad de utilizar costosos programas informáticos especializados.'
+      - q: "¿Hay asistencia disponible si tengo preguntas sobre la plantilla de la oferta?"
+        a: 'Sí, si tiene alguna pregunta, puede consultar la documentación de la sección de ayuda, preguntar en el foro de la comunidad o ponerse en contacto directamente con el servicio de asistencia por correo electrónico.'
+
+
 ---
-
-¡Bien hecho! Si tiene que redactar un presupuesto para un cliente, ya ha conseguido despertar el interés por sus productos o servicios. Ahora se trata de convencer al cliente potencial de su oferta. En lugar de tener que escribir un nuevo presupuesto para cada consulta individual, puede utilizar una plantilla de presupuesto para automatizar todo el proceso de creación de un presupuesto. Utilice ahora mismo laplantilla de presupuestode SeaTable, con la que podrá crear todos los presupuestos en línea de forma gratuita, cómoda y segura.
-
-## Por qué debe redactar una oferta
-
-Unacarta de ofertacon un diseño claro y atractivo aumenta la probabilidad de que el cliente potencial pique el anzuelo. Sirve de garantía mutua y deja claro quéserviciospuede esperar el cliente por elprecioofertado. Aunque un correo electrónico informal puede ser suficiente para un pedido pequeño, no hay duda de que debe preparar una oferta por escrito para pedidos más grandes, a fin de documentar las condiciones contractuales que ofrece. Cuanto más exactamente se especifiquen loselementos de la oferta, menos malentendidos habrá.
-
-Especialmente si recibe consultas todos los días, puede llevarle mucho tiempo y nervios redactarofertas individualesque tiene que reescribir una y otra vez, sin saber si sus ofertas se traducirán realmente en pedidos. Aquí es donde una plantilla de presupuesto profesional proporciona un remedio rápido y fiable, especialmente para las pequeñas empresas. Utilice SeaTable, por ejemplo, para redactar su oferta deformaeficazyautomática.
-
-![La plantilla de SeaTable crea automáticamente una oferta y muestra la vista previa del documento](images/image-1741253045784.gif)
-
-## Lo que habla a favor de una plantilla de oferta
-
-Cuando utiliza una plantilla para redactar un presupuesto, se beneficia de numerosas mejoras que hacen que su proceso de creación de presupuestos sea más eficaz, sencillo y sólido.
-
-- Ahorre tiempo: Nuestra plantilla de oferta digital le permite generar, enviar y guardar automáticamente sus cartas de oferta. Esto reduce las entradas manuales y minimiza su carga de trabajo administrativo.
-
-- Sin errores: gracias a la creación automatizada de presupuestos mediante campos dinámicos y fórmulas, no se producen errores de cálculo ni de escritura como con una plantilla de presupuesto en Word.
-
-- Almacenamiento centralizado: en SeaTable puede almacenar todos los datos existentes relativos a sus clientes, productos y pedidos, vincularlos entre sí e incrustarlos en documentos.
-
-- Sostenibilidad: con SeaTable, la preparación de su presupuesto se realiza completamente sin papel, sin necesidad de largos y costosos envíos, sino simplemente pulsando un botón por correo electrónico.
-
-## Cómo crear un presupuesto profesional
-
-Si nunca ha tenido que crear un presupuesto, probablemente no sepa por dónde empezar. En ese caso, nuestra plantilla para su presupuesto le ayudará enormemente, pues ya contiene todos los elementos que necesita paraelaborar un presupuesto correcto.
-
-![Vista de tabla de componentes de la oferta con datos de clientes, conceptos e importes](images/image-1741191669169.png)
-
-La siguiente información obligatoria no debe faltar en ningún modelo de oferta:
-
-1. cuando redacta una oferta, elnombrey ladirección de su empresasuelen formar el membrete junto conel logotipo desuempresa.
-
-2. necesita elnombrey ladirección del clienteno sólo para la entrega, sino también por motivos fiscales, ya que los servicios a empresas están sujetos a impuestos en el lugar donde tiene su sede el cliente.
-
-3.asuntoynúmero de presupuesto: una numeración clara y consecutiva de sus presupuestos facilita su asignación en la futura correspondencia con sus clientes.
-
-4. elsaludodirecto con el nombre de la persona de contacto da a su carta de oferta un toque personal.
-
-5 La descripción exacta de la oferta con loselementosindividuales (tipo, precio y cantidad del servicio) constituye la parte principal de su oferta. Debe quedar claro en qué medida ofrece sus productos o servicios.
-
-6 Ahora es el momento de ponerse manos a la obra: sume los distintos conceptos para obtener elimporte neto, deduzca undescuentosi es necesario y, en el caso de los clientes nacionales, calcule también el importe bruto,IVAincluido.
-
-7 Para las empresas extranjeras, necesitará elnúmero de identificación a efectos del IVAcuando redacte la oferta. Señale a estos clientes que deben pagar ellos mismos el IVA en sus respectivos países (responsabilidad fiscal del destinatario del servicio).
-
-8.fechayvalidez: no olvide la fecha actual cuando cree una oferta y añada un plazo en el que el cliente pueda aceptarla. Por regla general, el periodo durante el cual está legalmente vinculado por su oferta solo debe ser de unas semanas.
-
-9. Concluya el texto de la oferta con uncierreamistoso y unsaludo. Lo mejor es llamar la atención del cliente sobre susCondiciones Generales de Contratación (CGC) en la carta de oferta.
-
-10. susdatos bancarios,CIFy otros datos relevantes de la empresa deben figurar en el membrete de su modelo de oferta.
-
-## Gane clientes redactando ofertas transparentes
-
-Naturalmente, a sus clientes potenciales les interesa mucho conocer loscostesexactos antes de hacer un pedido. Sin embargo, puede resultar difícil para los proveedores de servicios calcular correctamente todos los costes y ofrecer precios fijos vinculantes, sobre todo cuando se trata de servicios a largo plazo, por ejemplo, al redactar un presupuesto para un proyecto de construcción. En este caso, se recomienda una estimaciónde costes, que ofrece bastante más margen de maniobra.
-
-### ¿Qué diferencia hay entre un presupuesto y una estimación de costes?
-
-Cuando redacta una oferta, los precios y servicios indicados sonjurídicamente vinculantes, a menos que haya indicado lo contrario en el modelo de oferta. Si se acepta la oferta, se celebra uncontrato de compradirectamente con el cliente. Por otro lado, un presupuesto es sólo unaprevisión no vinculanteo uncálculo preliminarde costes que están sujetos a cambios.
-
-Por lo tanto, asegúrate de incluir en tu carta de oferta unacláusula de libertadcomo "oferta no vinculante" si quieres mantener abierta la opción de retirarla o ajustar las condiciones. Lo ideal es dejarlo claro en las condiciones generales y mencionarlo en el modelo de oferta.
-
-Pero ten cuidado: incluso con una estimación de costes, el precio final no debe desviarse de tu estimación en más de un 15%. Si te enfrentas acostes imprevistos o gastos adicionales, primero debes obtener la aprobación del cliente. Por tanto, calcule siempre de forma realista.
-
-## Las diversas funciones de nuestra plantilla de oferta
-
-- Puede personalizar nuestra plantilla de presupuesto para adaptarla a sus deseos y necesidades. Diseñe la plantilla de presupuesto con elplugin de diseño de páginasy utilice diversos tipos de columnas y opciones de visualización.
-
-- Cree su plantilla de ofertaen distintos idiomaso para distintos países y defina dependencias para que siempre se seleccione automáticamente la plantilla adecuada.
-
-- En cuanto haya rellenado la plantilla de presupuesto con sus datos y diseños individuales, el presupuesto se crea de forma gratuita yautomática con sólo pulsar un botón, sin ningún esfuerzo adicional por su parte.
-
-- También puede automatizar el proceso de envío: La integración con su proveedor de correo electrónico le permite redactar un presupuesto con un solo clic yenviarlo directamente por correo electrónico.
-
-- Utilice lasestadísticasintegradas en la plantilla de oferta para obtener información valiosa de sus cifras y datos y tomar decisiones bien fundadas.
-
-![Flujo en SeaTable: crear oferta con un clic, guardarla como PDF y enviarla por correo electrónico](images/image-1741253450663.gif)
-
-## Escribir citas con eficacia: así de sencillo
-
-Con la plantilla de presupuestos de SeaTable, crear y gestionar presupuestos es un juego de niños. La plantilla para su presupuesto le ayuda a organizar claramentelos productos,clientesypedidos, crear automáticamente el presupuesto y guardarlo como PDF listo para su envío.
-
-Gracias a losenlacesinteligentes, la plantilla de presupuesto se alimenta con los datos pertinentes de varias tablas: La información del cliente, los artículos del pedido y los precios fluyen a la perfección, mientras quelas fórmulascalculan automáticamente los descuentos y el IVA. Con la plantilla de presupuesto, tanto las pequeñas como las grandes empresas tienen siempre una visión de conjunto y ahorran un tiempo valioso.
-
-### Crear un presupuesto es fácil
-
-El plugin de diseño de páginas, que permite diseñarcartas de oferta en varios idiomas, resulta especialmente práctico para la plantilla de oferta. SeaTable utiliza automáticamente la plantilla de presupuesto adecuada en función del país del cliente. Gracias a la interfaz de fácil manejo, podrá redactar un presupuesto en un abrir y cerrar de ojos. El envío también está integrado: Con un botón adicional, el presupuesto terminado puede enviarse directamenteal cliente por correo electrónico. Todo el proceso se desarrolla de forma eficaz y fluida, sin engorrosas copias ni mecanografía manual.
-
-### Escribir más de una plantilla de presupuesto
-
-Además de la creación de ofertas, la plantilla de oferta de escritura ofrece valiosas funciones adicionales que respaldan su negocio. La función de estadísticas facilita elanálisis de las cifras de ventasy el volumen de negocios, mientras que el complemento de galería le ofrece una visión general de sucartera de productos. Gracias a las flexibles opciones de personalización de SeaTable, puede adaptar columnas, cálculos y vistas a sus necesidades individuales y crear una plantilla de presupuesto que se ajuste perfectamente a su negocio.
-
-## Ventajas de SeaTable como programa informático para preparar presupuestos
-
--Gratuito: La plantilla de redacción de presupuestos es gratuita. Comience con la versión gratuita de SeaTable, que ya incluye numerosas funciones. Si lo desea, puede actualizarla para obtener más funciones o espacio de almacenamiento para crear presupuestos.
-
--Colaboración: Gracias a la sincronización en tiempo real, SeaTable facilita enormemente la colaboración en equipo. Varios usuarios pueden trabajar simultáneamente en las tablas, actualizar datos en la plantilla de presupuesto y dejar comentarios.
-
--Cómodo: si crea un presupuesto en línea, puede acceder a él desde cualquier lugar y en cualquier momento, y además está protegido contra pérdidas. A diferencia de una plantilla de presupuesto en Word, también puede guardar datos estructurados y generar automáticamente documentos a partir de ellos.
-
--Flexible: SeaTable es mucho más que una base de datos. Gracias a sus versátiles opciones de personalización, puede utilizarse para una amplia gama de aplicaciones e integrarse a la perfección en diversos procesos empresariales.
-
--Seguro: Sus datos están protegidos de forma óptima con SeaTable. Puede elegir entre almacenarlos en la nube o en sus instalaciones. Gracias al cumplimiento de la normativa GDPR y a los derechos de acceso individuales, conservará el control total de sus datos en todo momento.
-
--Escalable: Desde el primer uso con unos pocos empleados hasta una solución para toda la empresa para grandes equipos - SeaTable crece con sus necesidades. Por supuesto, también puede utilizar esta plantilla para crear su oferta de forma gratuita como pequeña empresa.
-
-## Aumente sus ventas mediante ofertas atractivas con SeaTable
-
-Sea como plantilla de presupuesto para pequeñas empresas o como software de presupuestos para grandes empresas, SeaTable facilita la creación de un presupuesto para cada pedido. Utilice la funciónde generación automática de presupuestospara crear y enviar en línea un presupuesto tras otro en un abrir y cerrar de ojos. Así tendrá más tiempo para las cosas importantes en lugar de perder valiosas horas escribiendo presupuestos.
-
-Si desea utilizar gratuitamente la plantilla de redacción de ofertas,sólo tiene que registrarse con su dirección de correo electrónico.
-
-## Plantilla interactiva
-
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de redacción de presupuestos. Si tiene alguna duda, consulte nuestra [sección de ayuda]({{< relref "help" >}}).
-
-​
