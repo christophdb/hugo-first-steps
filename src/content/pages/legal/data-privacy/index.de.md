@@ -4,7 +4,7 @@ description: ''
 seo:
     title: 'Datenschutz & DSGVO bei SeaTable'
     description: 'Alles zum Datenschutz bei SeaTable : DSGVO, Speicherung in Deutschland für Ihre Datensicherheit.'
-date: 2022-11-03
+date: 2026-02-05
 version: '1.3.0'
 type: 'legal-new'
 url: '/de/datenschutz'
@@ -15,7 +15,7 @@ aliases:
 <div class="max-w-[800px] mx-auto mt-8">
 <p>Auf dieser Seite finden Sie die Datenschutzerklärung der SeaTable GmbH für dieses Online Angebot. Durch die Nutzung unserer Website erklären Sie sich mit unserer Datenschutzerklärung einverstanden und stimmen deren Bedingungen zu.</p>
 
-<p>Für ein leichteres Verständnis haben wir das juristische Fachjargons in leicht verständlicher Sprache zusammengefasst. Wie Ihnen wahrscheinlich bewusst ist,  sind die Zusammenfassungen rechtlich nicht bindend.</p>
+<p>Für ein leichteres Verständnis haben wir das juristische Fachjargon in leicht verständlicher Sprache zusammengefasst. Wie Ihnen wahrscheinlich bewusst ist,  sind die Zusammenfassungen rechtlich nicht bindend.</p>
 </div>
 
 <div class="grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
@@ -23,7 +23,7 @@ aliases:
         <h2 class="text-3xl mb-12">Die vollständige Datenschutzerklärung</h2>
     </div>
     <div class="legal-right hidden md:block">
-        <h3 class="text-2xl pt-2">und was diese bedeutet...</h3>
+        <h3 class="text-2xl pt-2">... und was diese bedeutet</h3>
     </div>
 </div>
 
@@ -38,12 +38,12 @@ Die Datenverarbeitung auf diesem Online Angebot erfolgt durch den Betreiber SeaT
 
 **Wie erfassen wir Ihre Daten?**  
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, z.B. wenn Sie sich für unseren Cloud Service SeaTable Cloud registrieren, Sie sich für unseren Newsletter anmelden, Sie uns eine Anfrage schicken oder ein Benutzerkonto für das SeaTable Forum erstellen.  
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch des Online Angebots durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem, Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie dieses Online Angebot betreten.
-Bei der Datenerfassung wenden wir das Verfahren der Pseduonymisierung und das Prinzip der Datensparsamkeit strikt an. Automatisch erfasste Daten werden grundsätzlich pseudonymisiert. Eine so dass Sie keiner Person zugeordnet werden können. Für die Registrierung an SeaTable Cloud oder die Kontoerstellung für das SeaTable Forum ist lediglich Name und E-Mail-Adresse erforderlich. Eine Verknüpfung mit fremden Datenquellen findet nicht statt.
+Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch des Online Angebots durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem, Uhrzeit des Seitenaufrufs, IP-Adresse). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie dieses Online Angebot aufrufen.  
+Wir wenden das Prinzip der Datensparsamkeit konsequent an. Wir verzichten auf den Einsatz von sogenannten Third-Party-Cookies (z.B. Google Analytics). Erfasste Daten werden pseudonymisiert, so daß Sie nicht mehr einer Person zugeordnet werden können (z.B. IP-Adressen werden ohne die letzten drei Stellen gespeichert).
 
 **Wofür nutzen wir Ihre Daten?**  
-Die meisten Daten werden erhoben, um vertragliche und vorvertragliche Pflichten zu erfüllen (z.B. E-Mail-Adresse, Anschrift, Anfragen) und um eine fehlerfreie Bereitstellung des Online Angebots zu gewährleisten (z.B. Log-Daten). Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
-Eine Weitergabe Ihrer Daten an andere erfolgt nicht. Eine Übertragung von personenbezogenen Daten ins außereuropäische Ausland erfolgt ebenfalls nicht.
+Die meisten Daten werden erhoben, um vertragliche und vorvertragliche Pflichten zu erfüllen (z.B. E-Mail-Adresse, Anschrift, Anfragen) und um eine fehlerfreie Bereitstellung des Online Angebots zu gewährleisten (z.B. Log-Daten). Andere Daten werden für die technische Optimierung unseres Online Angebots verwendet. Diese können auch zur Analyse Ihres Nutzerverhaltens verwendet werden.  
+Eine Verknüpfung mit fremden Datenquellen und auch die Weitergabe Ihrer Daten an andere erfolgt nicht. Insbesondere eine Übertragung von personenbezogenen Daten ins außereuropäische Ausland erfolgt nicht.
 
 **Welche Rechte haben Sie bezüglich Ihrer Daten?**  
 Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem das Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
@@ -51,7 +51,7 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 **Werden Analysetools und Tools von Drittanbietern eingesetzt?**  
 Beim Besuch dieses Online Angebots erfassen wir Daten über Ihr Surfverhalten und machen dieses damit analysierbar. Wir nutzen dafür ein Webverhalten-Analysetool, das wir auf einem eigenen Server in einer datensparsamen Einstellung nutzen. Weitere Informationen zu den verwendeten Analyseprogrammen finden Sie nachfolgend.
-Drittanbieterlösungen (z.B. Google Analytics) setzen wir nicht ein.
+Drittanbieterlösungen (z.B. Google Analytics) setzen wir nicht ein. Dies gilt insbesondere auch für KI-Drittanbieterlösungen.
 
 ===
 
@@ -80,7 +80,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 ===
 
-Wenn Sie unsere Webseite oder einen anderen Dienst von uns nutzen, werden Daten über Sie erfasst. In dieser Datenschutzerklärung erklären wir welche und wie wir diese schützen.
+Wenn Sie unsere Webseite oder einen anderen Dienst von uns nutzen, werden Daten über Sie erfasst. In dieser Datenschutzerklärung erklären wir, welche Daten das sind, warum wir die Daten erfassen und und wie wir diese schützen.
 
 {{< /legal-2col >}}
 
@@ -101,7 +101,7 @@ Die verantwortliche Stelle ist die natürliche oder juristische Person, die alle
 
 ===
 
-Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns eine E-Mail an info@seatable.com.
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie bitte eine E-Mail an info@seatable.com.
 
 {{< /legal-2col >}}
 
@@ -147,7 +147,7 @@ Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, d�
 
 ===
 
-Das sind Ihre Rechte in Sachen Datenschutz, die Ihnen per Gesetz zustehen. Diese sogenannten Betroffenenrechte finden Sie so (oder sollten Sie zumindest) in ähnlicher Form in jeder Datenschutzerklärung eines in der EU-ansässigen Unternehmens finden.
+Das deutsche Datenschutzrecht räumt Ihnen umfassende Rechte in Bezug auf Ihre Daten ein. Diese hier beschriebenen sogenannten Betroffenenrechte finden Sie so (oder sollten Sie zumindest) in ähnlicher Form in jeder Datenschutzerklärung eines in der EU-ansässigen Unternehmens finden.
 
 {{< /legal-2col >}}
 
@@ -155,14 +155,15 @@ Das sind Ihre Rechte in Sachen Datenschutz, die Ihnen per Gesetz zustehen. Diese
 
 ### Keine Datenweitergabe ins außereuropäische Ausland
 
-Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Unterauftragnehmer und nutzt insbesondere keine Cloud- oder KI-Services US-amerikanischer Unternehmen (z.B. Microsoft, Google, AWS).
-Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt.
+Dieses Online Angebot bezieht seine Rechenzentrumsdienstleistungen ausschließlich von in Europa ansässigen Unternehmen. Dieses Online Angebot setzt auch konsequent auf europäische Unterauftragnehmer und nutzt insbesondere keine Cloud-und KI-Services US-amerikanischer Unternehmen (z.B. AWS, Google, Microsoft).
+Ein Transfer oder eine sonstige Übermittlung von personenbezogenen Daten ins außereuropäische Ausland findet nicht statt. Dies gilt insbesondere auch für die Nutzung der KI-Funktionen in unseren Cloud Diensten. Diese nutzen ein selbstgehostetes KI-Modell (siehe Hoster).
 
 Nur bei einer Zahlung mit einer Kreditkartenzahlung oder einem ähnlichen elektronischen Zahlungsmittel (z.B. Google oder Apple Pay) auf diesem Online Angebot können ggf. personenbezogene Daten ins nicht-europäische Ausland und insbesondere in die USA gesendet werden. Dies ist unvermeidbar, da alle großen Kreditkartenanbieter in den USA ansässig sind.
 
 ===
 
-Ihre personenbezogenen Daten werden nur in Europa verarbeitet. Bei einer Zahlung mit einer Kreditkarte werden personenenbezogene Daten an Visa und Co. und damit sehr wahrscheinlich in die USA übermittelt.
+Ihre personenbezogenen Daten werden von uns grundsätzlich nur in Europa verarbeitet.  
+Bei Zahlung einer Leistung mit einer Kreditkarte oder mit Google oder Apple Pay werden jedoch mit hoher Wahrscheinlichkeit personenenbezogene Daten an Ziele außerhalb Europas übermittelt. Visa, Mastercard und Co. sind US-Firmen.
 
 {{< /legal-2col >}}
 
@@ -186,13 +187,13 @@ Die Daten werden ausschließlich in Exoscales deutschen Rechenzentren in Frankfu
 
 ### Hetzner
 
-Die Webseite seatable.com, die Teamverwaltung von SeaTable Cloud, das SeaTable Forum, das SeaTable Ticketsystem, die Feature Request Tool SeaTable Ideas, der SeaTable Market, sowie unser Mailserver und unsere Webkonferenzlösung nutzen Server der Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland (Hetzner). Ebenso nutzen wir Hetzner für den Betrieb von Test- und Demonstrationssystemen.
+Die Webseite seatable.com, die Teamverwaltung von SeaTable Cloud, das SeaTable Forum, das SeaTable Ticketsystem, das Feature Request Tool SeaTable Ideas, der SeaTable Market, sowie unser Mailserver und unsere Webkonferenzlösung nutzen Server der Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland (Hetzner). Ebenso nutzen wir Hetzner für den Betrieb von Test- und Demonstrationssystemen sowie das Hosting von Sprachmodellen (LLMs).
 
 Wir nutzen ausschließlich die europäischen Rechenzentren von Hetzner. Mehr Informationen über die Rechenzentren von Hetzner finden Sie unter [https://www.hetzner.com/de/unternehmen/rechenzentrum/](https://www.hetzner.com/de/unternehmen/rechenzentrum/).
 
 ===
 
-Unsere Online-Dienstleistungen erfordern Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern kaufen Sie ein von Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland. Wir nutzen ausschließlich deren deutsche Rechenzentren.
+Unser Online Angebot erfordert Rechenzentrumsleistungen. Diese erbringen wir nicht selbst, sondern beziehen sie von Dienstleistern. Wir arbeiten mit Exoscale mit Sitz in Lausanne, Schweiz und Hetzner mit Sitz in Gunzenhausen, Deutschland zusammen. Wir nutzen ausschließlich deren deutsche Rechenzentren.
 
 {{< /legal-2col >}}
 
@@ -213,23 +214,25 @@ In den Log-Dateien der verwendeten Server werden Informationen gespeichert, die 
 
 Eine Zusammenführung dieser Daten mit fremden Datenquellen wird nicht vorgenommen.
 
-**Zweck und Rechtsgrundlage**
+**Zweck und Rechtsgrundlage**  
 Wir nutzen die Log-Daten, um den zuverlässigen Betrieb des Online Angebots sicherzustellen und um die technische Infrastruktur kontinuierlich weiterzuentwickeln. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
 
-**Speicherdauer**
-Die Log-Daten der Server werden automatisiert in regelmäßigen Zyklen bereinigt. Die Fristen sind abhängig von der Bedeutung der Log-Daten für den technischen Betrieb. Spätstens nach 180 Tagen werden die Daten gelöscht.
+**Speicherdauer**  
+Die Log-Daten der Server werden automatisiert in regelmäßigen Zyklen bereinigt. Die Fristen sind abhängig von der Rolle der Log-Daten für den technischen Betrieb. Spätstens nach 180 Tagen werden die Daten gelöscht.
 
 ### Cookies
 
-Das Online Angebot verwendet sogenannte Cookies. Cookies sind von Ihrem Webbrowser gespeicherte Datensätze, die entweder vorübergehend für die Dauer einer Sitzung, sogenannte Session-Cookies, oder dauerhaft auf Ihrem Endgerät gespeichert werden, sogenannte permanente Cookies. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder Ihr Webbrowser diese nach Ablauf ihrer Gültigkeit automatisch entfernt. Darüber hinaus unterscheidet man Cookies nach Ihrer Herkunft: First Party Cookies werden von dem besuchten Webangebot gesetzt, d.h. der besuchten Webseite/Webportal/Webshop. Third-Party-Cookies werden von einem externen Dienst, insbesondere Werbenetzwerken und Social-Media-Plugins, gesetzt.
+Das Online Angebot verwendet sogenannte Cookies. Cookies sind von Ihrem Webbrowser gespeicherte Datensätze, die entweder vorübergehend für die Dauer einer Sitzung, sogenannte Session-Cookies, oder dauerhaft auf Ihrem Endgerät gespeichert werden, sogenannte permanente Cookies. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder Ihr Webbrowser diese nach Ablauf ihrer Gültigkeit automatisch entfernt. Darüber hinaus unterscheidet man Cookies nach Ihrer Herkunft: First-Party-Cookies werden von dem besuchten Webangebot gesetzt, d.h. der besuchten Webseite/Webportal/Webshop. Third-Party-Cookies werden von einem externen Dienst, insbesondere Werbenetzwerken und Social-Media-Plugins, gesetzt.
 
 Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da diese für die sichere elektronische Kommunikation benötigt werden und bestimmte Funktionen eines Webangebots ohne diese nicht funktionieren würden. Zu diesen notwendigen Cookies gehören Cookies für die Sprach- und Regionaleinstellungen, für die Warenkorbfunktion und solche zum Schutz vor betrügerischen Aktivitäten. Andere Cookies dienen dazu, Daten über das Nutzerverhalten zu sammeln und die Leistung zu verbessern, sogenannte Performance Cookies, oder personalisierte Werbung anzuzeigen, sogenannte Werbe- bzw. Trackingcookies.
 
 Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies stehen mit großer Wahrscheinlichkeit einige Funktionen des Online Angebots nicht zur Verfügung.
 
-**Zweck und Rechtsgrundlage**
-Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen und zuverlässigen Betrieb notwendig sind. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, sofern keine andere Rechtsgrundlage angegeben ist. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies auf den Endgeräten zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste.
+**Zweck und Rechtsgrundlage**  
+Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen und zuverlässigen Betrieb notwendig sind. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, sofern keine andere Rechtsgrundlage angegeben ist. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies auf den Endgeräten zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste.  
+Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Party-Cookies.
 
+**Speicherdauer**  
 Die folgende Tabelle führt die von diesem Online Angebot verwendeten Cookies auf und liefert weitere Informationen über diese, insbesondere auch deren Gültigkeit:
 
 | Name des Cookies    | Gültigkeit | Reichweite                 |
@@ -245,27 +248,15 @@ Die folgende Tabelle führt die von diesem Online Angebot verwendeten Cookies au
 
 Die Spalte Reichweite gibt die Domains an, die auf das Cookie zugreifen dürfen. (Ein Punkt vor einer Domain bedeutet die Domain selbst sowie deren Subdomains.)
 
-Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Party-Cookies.
+### Kontaktformular, Anfragen per E-Mail und Telefon
 
-### Kontaktformular
+Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Gleiches gilt für Anfragen per E-Mail und Telefon. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
-Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+**Zweck und Rechtsgrundlage**  
+Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), sofern diese abgefragt wurde.
 
-**Zweck und Rechtsgrundlage**
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
-
-**Speicherdauer**
-Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
-
-### Anfrage per E-Mail und Telefon
-
-Wenn Sie uns per E-Mail und Telefon kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
-
-**Zweck und Rechtsgrundlage**
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
-
-**Speicherdauer**
-Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
+**Speicherdauer**  
+Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 ### Registrierung
 
@@ -273,25 +264,21 @@ Sie können sich auf diesem Online Angebot registrieren, um zusätzliche Funktio
 
 Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendigen Änderungen nutzen wir die bei der Registrierung angegebene E-Mail-Adresse, um Sie auf diesem Wege zu informieren.
 
-**Zweck und Rechtsgrundlage**
+**Zweck und Rechtsgrundlage**  
 Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses und ggf. zur Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. b DSGVO).
 
-**Speicherdauer**
+**Speicherdauer**  
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
 
 ===
 
-Wir erfassen Informationen wie:
+Beim Besuch unseres Online Angebots erfassen und speichern unsere Server technische Informationen (z.B. IP-Adresse, Informationen über den verwendeten Browser). Dies ist technisch erforderlich. Diese Log-Daten löschen wir regelmäßig nach Ablauf einer Frist.
 
-- IP-Adresse
-- Information über Ihren Browser
-- Seiten, die Sie besucht haben
+Wenn Sie uns kontaktieren oder sich für einen unserer Dienste registrieren, müssen wir zwangsläufig weitere Informationen über Sie erfassen. Sonst könnten wir z.B. auf Ihre E-Mail-Anfrage nicht antworten oder kein Konto für Sie anlegen. Diese Daten speichern wir dauerhaft. Wenn Sie wünschen, dass wir diese löschen, dann kontaktieren Sie uns bitte. Wenn wir alle Daten löschen sollen, dann müssen wir auch Ihre Benutzerkonten löschen.
 
-Wenn Sie uns kontaktieren oder für SeaTable Cloud registrieren, müssen wir zwangsläufig weitere Informationen über Sie erfassen. Sonst könnten wir z.B. auf Ihre E-Mailanfrage nicht antworten oder kein Konto für Sie anlegen.
+Wir nutzen auch Cookies. Wir nutzen aber nur solche, die für den Betrieb unserer Webseite und unserer Cloud-Dienste technisch notwendig sind. Ohne diese Cookies könnten Sie sich nicht bei den Cloud-Diensten anmelden und auf unserer Webseite würden manche Dinge nicht (korrekt) angezeigt.
 
-Wir nutzen auch Cookies, aber nur welche, die wir zwingend für den Betrieb unserer Webseite und unseres Angebots benötigen. Ohne Cookies, könnten Sie sich bei SeaTable Cloud nicht anmelden oder auf unserer Webseite würden manche Dinge nicht angezeigt werden.
-
-Ganz wichtig: wir nutzen keine fremden Cookies. Sie werden bei uns kein Adobe, TikTok, Microsoft und Co. finden. Die Cookies können auch nur von unserer eigenen Webseiten ausgelesen werden.
+Auch ganz wichtig: Wir nutzen keine fremden Cookies, sogenannte Third-Party-Cookies. Sie werden bei uns keine Cookies oder Tracker von Google, Meta, TikTok und Co. finden. Die auf diesem Online Angebot verwendeten Cookies können auch nur von unseren eigenen Servern ausgelesen werden.
 
 Wir betreiben großen Aufwand, um alle unsere Softwarelösungen auf eigenen Servern zu betreiben. Folglich sind wir die Einzigen, die Ihre Daten zu Gesicht bekommen. Wir geben diese an niemanden weiter.
 
@@ -305,22 +292,22 @@ Einzig unser E-Mails verschicken wir nicht selbst. Das übernimmt Brevo für uns
 
 ### Posthog
 
-Dieses Online Angebot nutzt die Entwicklungs- und Analyseplattform Posthog (Self-Hosted Edition). Posthog (Self-Hosted Edition) ist unter der MIT Expat-Lizenz veröffentlich und ist damit freie, quelloffene Software.
+Dieses Online Angebot nutzt die Entwicklungs- und Analyseplattform Posthog (Self-Hosted Edition). Posthog (Self-Hosted Edition) ist unter der MIT Expat-Lizenz veröffentlicht und ist damit freie, quelloffene Software.
 
 Posthog ermöglicht es uns, gezielt neue oder ausgewählte Funktionen (sogenannte _Feature Flags_) für bestimmte Nutzergruppen zu aktivieren bzw. anzuzeigen. Darüber hinaus kann mit Posthog Verhalten von Seitenbesuchern analysiert werden, um die Nutzung und Interaktion mit unserem Online Angebot besser zu verstehen.
 
-Posthog erfasst Nutzungsdaten wie aufgerufene Seiten, Verweildauer, verwendetes Betriebssystem, Browsersprache sowie die ungefähre Herkunft der Besucher. Dafür speichert Posthog ein Cookie auf dem Endgerät (siehe oben). Die Erfassung erfolgt so, dass keine Rückschlüsse auf konkrete Personen möglich sind: IP-Adressen werden vor der Verarbeitung gekürzt und dadurch anonymisiert. Weitere personenbezogene Daten werden gehasht.
+Posthog erfasst Nutzungsdaten wie aufgerufene Seiten, Verweildauer, verwendetes Betriebssystem, Browsersprache sowie die ungefähre Herkunft der Besucher. Dafür speichert Posthog ein Cookie auf dem Endgerät (siehe oben). Die Erfassung erfolgt so, dass keine Rückschlüsse auf konkrete Personen möglich sind: IP-Adressen werden vor der Verarbeitung gekürzt und erlauben so keinen direkten Personenbezug. Weitere personenbezogene Daten werden gehasht.
 
 Wir hosten Posthog auf einem eigenen Server und die Verarbeitung der Daten erfolgt ausschließlich auf diesem Server. Eine Weitergabe an Dritte findet nicht statt. Eine Zusammenführung mit fremden Datenquellen erfolgt nicht.
 
-**Zweck und Rechtsgrundlage**
-Wir nutzen Posthog, um neue Funktionen auf dem Online Angebot gezielt zu aktivieren und damit zu testen. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
+**Zweck und Rechtsgrundlage**  
+Wir nutzen Posthog, um unser Online Angebot technisch zu optimieren und um neue Funktionen auf dem Online Angebot gezielt zu aktivieren und damit zu testen. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
 ===
 
-Wir betreiben das Analyse-Tool Posthog auf einem eigenen Server. Wir nutzen diesen für anonymisierte Analysen und um neue Funktionen gezielt bestimmten Nutzergruppen anzuzeigen.
+Wir nutzen das Analysetool Posthog für die technische Weiterentwicklung unseres Online Angebots und um neue Funktionen zu testen.
 
-In Posthog erfassen wir nur anonymsierte Daten. Ihren Namen verwenden wir nicht. Ihre E-Mail-Adresse wird gehasht.
+Posthog wird auf einem eigenen Server betrieben, arbeitet in einem datensparsamen Modus und pseudonymisiert Daten, so dass kein direkter Personenbezug möglich ist.
 
 {{< /legal-2col >}}
 
@@ -330,7 +317,7 @@ In Posthog erfassen wir nur anonymsierte Daten. Ihren Namen verwenden wir nicht.
 
 Wenn Sie einen oder mehrere der angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
 
-**Zweck und Rechtsgrundlage**
+**Zweck und Rechtsgrundlage**  
 Die Verarbeitung der von Ihnen bei der Newsletteranmeldung eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen. Der einfachste Weg zum Widerruf Ihrer Einwilligung ist ein Klick auf den „Abmelden“-Link, der in jedem Newsletter enthalten ist. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 ### Brevo
@@ -365,10 +352,9 @@ Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Brevo e
 
 ===
 
-Wir werden Ihnen gerne gelegentlich einen Newsletter per E-Mail schicken. Wir versprechen keinen Spam zu verschicken. Trotzdem können Sie sich jederzeit davon abmelden.
-Den Link zur Abmeldung finden Sie in jeder Newsletter-E-Mail.
+Wir werden Ihnen gelegentlich Newsletter mit Informationen, Neuigkeiten und Angeboten per E-Mail schicken. Wenn Sie dies nicht wollen, dann können Sie sich von unseren Newslettern jederzeit abmelden. Jeder Newsletter enthält in der Fußzeile einen Link zur Abmeldung.
 
-Unsere E-Mails verschicken wir über Brevo (brevo.com).
+Unsere Newsletter verschicken wir über Brevo, die in Deutschland ansässig sind.
 
 {{< /legal-2col >}}
 
@@ -394,7 +380,7 @@ Wir haben alle verwendeten Google Fonts auf den Servern des Online Angebots inst
 
 ===
 
-Wir nutzen YouTube Videos und Google Fonts auf unserer Webseite. Von dort werden keine Daten an Google übertragen.
+Wir nutzen YouTube Videos und Google Fonts auf unserer Webseite. Es werden aber keine Daten an Google übertragen.
 
 {{< /legal-2col >}}
 
