@@ -17,6 +17,14 @@ Utilizando el **enlace de invitación**, puede compartir bases con otra persona 
 
 La persona tiene que iniciar **sesión** o **registrarse para** acceder a la base que le has enviado. Al hacerlo, se convierten ellos mismos en **administradores** y pueden crear su propio equipo. Sin embargo, podéis seguir trabajando juntos en la base que compartíais.
 
+{{< warning headline="Se requieren permisos de equipo" >}}
+
+Un administrador del equipo puede desactivar globalmente el uso de enlaces de invitación en la gestión del equipo. Todavía es posible crear enlaces, pero intentar abrirlos producirá un error.
+
+Para más información, consulta el artículo [Permitir compartir bases mediante enlace de invitación]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}}).
+
+{{< /warning >}}
+
 ## Para crear un enlace de invitación para una Base
 
 ![Enlace de liberación explicado](images/Freigabelinks-erklaert.gif)

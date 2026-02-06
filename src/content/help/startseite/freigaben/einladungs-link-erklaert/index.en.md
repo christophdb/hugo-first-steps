@@ -17,6 +17,14 @@ Using the **invitation link**, you can share bases with another person in SeaTab
 
 The person must **log in** or **register to** get access to the base you send. In doing so, they become an **administrator** themselves and can create their own team. However, you can still work together on the base you shared.
 
+{{< warning headline="Team permission required" >}}
+
+A team administrator can globally disable the use of invitation links in team management. Links can still be created, but attempting to open them will result in an error.
+
+For more details, see the article [Allow sharing of bases via invitation link]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}}).
+
+{{< /warning >}}
+
 ## To create an invitation link for a base
 
 ![Invitation link explained](images/Freigabelinks-erklaert.gif)

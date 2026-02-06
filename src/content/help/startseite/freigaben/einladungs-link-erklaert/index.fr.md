@@ -17,6 +17,14 @@ Le **lien d'invitation** vous permet de partager des bases avec une autre person
 
 La personne doit **se connecter** ou **s'enregistrer** pour avoir accès à la base que vous lui avez envoyée. Ce faisant, elle devient elle-même **administrateur** et peut créer sa propre équipe. Vous pouvez toutefois continuer à travailler ensemble sur la base que vous avez partagée.
 
+{{< warning headline="Autorisation d'équipe requise" >}}
+
+Un administrateur d’équipe peut interdire globalement l’utilisation des liens d’invitation dans la gestion de l’équipe. Les liens peuvent encore être créés, mais leur ouverture entraînera une erreur.
+
+Pour plus de détails, consultez l’article [Autoriser le partage de bases via un lien d’invitation]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}}).
+
+{{< /warning >}}
+
 ## Pour créer un lien d'invitation pour une base, procédez comme suit
 
 ![Lien de partage expliqué](images/Freigabelinks-erklaert.gif)

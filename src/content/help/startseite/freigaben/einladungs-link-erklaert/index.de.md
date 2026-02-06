@@ -15,6 +15,14 @@ Mithilfe des **Einladungs-Links** können Sie Bases mit einer anderen Person in 
 
 Die Person muss sich **anmelden** oder **registrieren**, um Zugriff auf die von Ihnen zugesandte Base zu bekommen. Dabei wird sie selbst **Administrator** und kann ihr eigenes Team gründen. Sie können jedoch weiterhin gemeinsam an der von Ihnen geteilten Base arbeiten.
 
+{{< warning  headline="Team-Berechtigung erforderlich" >}}
+
+Ein Team-Administrator kann in der Teamverwaltung die Nutzung von Einladungslinks pauschal verbieten. Es können zwar weiterhin Links erstellt werden, diese erzeugen jedoch beim Aufruf einen Fehler.
+
+Weitere Details finden Sie im Artikel [Freigabe von Bases per Einladungslink erlauben]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}}).
+
+{{< /warning >}}
+
 ## So erstellen Sie einen Einladungs-Link für eine Base
 
 ![Freigabelink erklärt](images/Freigabelinks-erklaert.gif)

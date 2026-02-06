@@ -17,6 +17,14 @@ Usando o **link de convite**, pode partilhar bases com outra pessoa no SeaTable 
 
 A pessoa tem de **iniciar a sessão** ou **registar-se para** ter acesso à base que lhe foi enviada. Ao fazê-lo, tornam-se eles próprios um **administrador** e podem criar a sua própria equipa. No entanto, podem continuar a trabalhar em conjunto na base que partilharam.
 
+{{< warning  headline="Autorização de equipa necessária" >}}
+
+Um administrador de equipa pode desativar globalmente a utilização de ligações de convite na gestão da equipa. As ligações ainda podem ser criadas, mas a sua abertura resultará num erro.
+
+Para mais detalhes, consulte o artigo [Permitir partilha de bases através de ligação de convite]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}}).
+
+{{< /warning >}}
+
 ## Para criar um link de convite para uma Base
 
 ![Ligação de lançamento explicada](images/Freigabelinks-erklaert.gif)
