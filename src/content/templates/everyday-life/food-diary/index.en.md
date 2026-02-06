@@ -30,7 +30,7 @@ sections:
       subtitle: Digital food diary
       text: 
       items:
-        - icon: 'pencil'
+        - icon: 'puzzle-piece'
           headline: 'Flexible'
           text: 'You can easily adapt our free template to your individual needs and add to it - without any effort.'
         - icon: 'pencil'
@@ -40,7 +40,7 @@ sections:
           headline: 'Clearly arranged'
           text: 'Group and filter your entries and visualize correlations - perfect for suspected allergies.'
         - icon: 'globe'
-          headline: 'Universal App'
+          headline: 'App Builder'
           text: 'Use the app to record data and as a food diary front end - with input masks and a knowledge base.' 
         - icon: 'bell'
           headline: 'Reminder'
@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'With SeaTable to your nutrition log app'
       subtitle: 'Use the food diary app online for free'
-      description: 'SeaTable is a modern no-code database solution and as easy to use as a spreadsheet - with all the functions you need for a food diary.'
+      description: 'SeaTable is a modern no-code database solution and as easy to use as a spreadsheet - with all the functions you need for a [food diary]({{< relref "posts/ernaehrungstagebuch" >}}).'
       items:
       - text: 'Customizable: Create a nutrition log app according to your wishes.'
       - text: 'Access from anywhere: You can access your data at any time via online access.'
@@ -107,6 +107,31 @@ sections:
           link: pages/registration
           id: en-vorlage-ernährungstagebuch-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'AI-supported food diary with SeaTable'
+      subtitle: 'Recognize patterns, use data more intelligently'
+      description: 'With SeaTable, you have access to [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) available to assist you in evaluating your food diary. Analyze texts, extract information from documents, and automatically summarize findings.'
+      items:
+      - headline: 'Automatic categorization with Classify'
+        text: 'Have entries automatically classified by categories such as "breakfast," "snack," "high sugar content," or "suspicious in case of complaints." This will help you recognize patterns in your eating habits more quickly and enable you to discuss them with experts in a more targeted manner.'
+        icon: table
+      - headline: 'Automatic text recognition with OCR'
+        text: 'Scan or photograph food packaging, nutrition counseling handouts, or plans from clinics and have relevant information recognized automatically. The OCR function reads text from images and makes it available for further evaluation.'
+        icon: image
+      - headline: 'Intelligent data extraction with Extract'
+        text: 'With the Extract function, you can extract specific information such as calorie counts, allergens, or recommended daily amounts from texts and write them into separate columns. This reduces manual effort and ensures consistent data structures.'
+        icon: layer-group
+      - headline: 'Summaries with Summarize'
+        text: 'Have longer notes or free-text descriptions—such as complaints or eating situations—summarized automatically. The Summarize function creates summaries that you can use for doctors, nutritionists, or diary reviews.'
+        icon: circle-info
+      - headline: 'Individual AI rules with custom prompts'
+        text: "With Custom Prompts, you can define your own AI instructions for your food diary. Examples: Notifications about noticeable patterns with certain foods, suggestions for questions to ask at your next doctor's appointment, or short weekly reports on eating habits and well-being."
+        icon: wand-magic-sparkles
+      - headline: 'Reports at the touch of a button'
+        text: 'Automatically generate reports on your eating habits, documented symptoms, and potential triggers. The AI summarizes your data in a structured way so that you can easily export it or discuss it with your healthcare professionals.'
+        icon: arrow-right
+
     - name: "content-6"
       weight: 15
       classes:
@@ -121,14 +146,23 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQ - Nutrition diary app template'
+      title: 'FAQ – Food Diary App Template'
       subtitle: 
       items:
-      - q: "Can the food diary app be shared with third parties?"
-        a: 'Yes, you can share your digital food diary with third parties, e.g. doctors or therapists, in various ways and give each user individual access rights. If you want to share your food diary app with third parties who do not have a SeaTable account, they will only have read-only access.'
-      - q: "Is my food log app safe with SeaTable?"
-        a: "Yes, SeaTable stands for the highest standards of data protection and data security. The SeaTable Cloud is hosted exclusively on certified servers in Germany and is 100% GDPR-compliant."
+      - q: "Can the nutrition diary app be shared with third parties?"
+        a: 'Yes, you can share your digital food diary with third parties, such as doctors, therapists, or nutritionists, in various ways and give each user individual access rights. People without a SeaTable account can access selected data in read-only mode via shared views.'
+      - q: "Is my food log app secure with SeaTable?"
+        a: 'Yes, SeaTable stands for high standards of data protection and data security. The SeaTable Cloud is hosted exclusively on certified servers in Germany and is fully GDPR-compliant. You decide at any time who is allowed to view or edit which data.'
       - q: "Is the food diary app free to use?"
-        a: 'Yes, you can use the nutrition log app for free, without time restrictions or limited functions. All you need is a SeaTable Free account.'
-      
+        a: 'Yes, you can use the nutrition log app for free. With the free account, you can get started without any time limits and customize the template to suit your needs. As your project grows, you can switch to a paid plan with additional features at any time.'
+      - q: "Can I customize and expand my food diary?"
+        a: 'Yes, you can add additional columns, tables, automations, or other app pages—for example, for recipes, weekly plans, exercise logs, or mood tracking. SeaTable can be customized without any programming knowledge and remains flexible.'
+      - q: "Can I export or print my food diary?"
+        a: "Yes, you can export your data as a file or prepare it for printing using suitable views, for example as an overview for doctor's appointments, nutritional counseling, or for your own documentation. This allows you to keep track of your entries even when you are offline."
+      - q: "Can I combine the food diary template with other templates?"
+        a: 'Yes, you can combine the food diary with other SeaTable templates, such as a medication plan or a general [health record]({{< relref "templates/healthcare/electronic-health-record" >}}). This gradually creates a centralized, comprehensive overview of your health data—all in one solution.'
+      - q: "Can I set reminders for entries or specific times?"
+        a: 'Yes, with automation, you can set up reminder emails or notifications—for example, to document meals in a timely manner or schedule regular check-ins for complaints and well-being. This helps you keep your food diary consistently.'
+      - q: "Is the food diary template also suitable for multiple people?"
+        a: 'Yes, you can also use the food diary template for multiple people, such as family members or clients in counseling. To do this, create separate tables or filters/views for each person and use permissions to control who can see which data.'      
 ---
