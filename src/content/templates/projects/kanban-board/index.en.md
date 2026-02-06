@@ -144,7 +144,7 @@ sections:
       - headline: 'Tailored workflows with Custom Prompt'
         text: 'With the custom prompt feature, you can define your own AI instructions for specific workflow automations. Examples: Automatic generation of acceptance criteria, intelligent assignment to team members based on skills, or automatic creation of subtasks—all according to your requirements.'
         icon: wand-magic-sparkles
-      - headline: 'Document recognition for attachments with OCR'
+      - headline: 'Text recognition for attachments with OCR'
         text: 'Upload design mockups, whiteboard photos, or handwritten notes—the OCR feature automatically recognizes text, requirements, and details and transfers them to your task description. Ideal for workshop results or quick captures with your smartphone.'
         icon: image  
       - headline: 'Sprint reports at the touch of a button'

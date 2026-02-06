@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: Preencha o plano de medicação em linha
       subtitle: Sempre atualizado, sempre à mão
-      description: Um plano de medicação clássico em papel é rapidamente criado - e rapidamente desatualizado. Se criar o seu plano de medicação online, beneficia de muitas vantagens que facilitam o seu dia a dia.
+      description: Um plano de medicação clássico em papel é rapidamente criado - e rapidamente desatualizado. Se criar o seu [plano de medicação]({{< relref "posts/medikamentenplan" >}}) online, beneficia de muitas vantagens que facilitam o seu dia a dia.
       items:
       - text: "Sempre atualizado: as alterações podem ser introduzidas imediatamente e ficam disponíveis no segundo seguinte."
       - text: "Acesso a partir de qualquer lugar: tem os seus dados sempre à mão através do acesso em linha."
@@ -112,6 +112,31 @@ sections:
           link: pages/registration
           id: pt-template-medication-plan-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'Plano de medicação baseado em IA com SeaTable'
+      subtitle: 'Apoio inteligente no dia a dia'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que tornam o seu plano de medicação ainda mais seguro e claro. Analise textos, avalie documentos e reduza o trabalho manual – em conformidade com o RGPD em servidores alemães.'
+      items:
+      - headline: 'Classificação automática com Classify'
+        text: 'Classifique automaticamente os medicamentos em grupos significativos, por exemplo, por classe de princípio ativo, hora de administração ou área de aplicação. A função de IA «Classify» auxilia a estruturar de forma clara planos de medicação complexos e a evitar erros.'
+        icon: table
+      - headline: 'Reconhecimento automático de texto com OCR'
+        text: 'Fotografe cartas médicas, listas de medicamentos ou relatórios de alta hospitalar e permita que a função OCR reconheça automaticamente informações relevantes, como preparações, dosagens ou frequência. Os dados reconhecidos podem ser transferidos diretamente para a sua tabela de medicamentos.'
+        icon: image
+      - headline: 'Extração inteligente de dados com o Extract'
+        text: 'A função Extract analisa textos não estruturados, como resultados ou indicações na bula, e extrai informações específicas – por exemplo, indicações sobre a ingestão, contraindicações ou doses diárias máximas. Assim, os factos importantes ficam diretamente à sua disposição de forma estruturada.'
+        icon: layer-group
+      - headline: 'Resumos com o Summarize'
+        text: 'A função Summarize resume automaticamente cartas médicas extensas ou alterações detalhadas na medicação em textos curtos e de fácil compreensão. Pode ver rapidamente o que mudou e quais os pontos que deve abordar na próxima consulta.'
+        icon: circle-info
+      - headline: 'Regras de IA personalizadas com prompt personalizado'
+        text: 'Com os prompts personalizados, pode definir as suas próprias instruções de IA relacionadas com o seu plano de medicação. Exemplos: avisos sobre potencial medicação dupla com base nas entradas existentes, formulação automática de perguntas para a próxima consulta médica ou geração de um resumo para o cartão de emergência.'
+        icon: wand-magic-sparkles
+      - headline: 'Relatórios com um simples clique'
+        text: 'Crie relatórios automaticamente com base nos seus dados para o médico de família, especialista ou pessoal de enfermagem. A IA resume de forma estruturada a medicação, as alterações e os efeitos secundários documentados, poupando-lhe tempo e garantindo que todas as informações relevantes estão disponíveis.'
+        icon: arrow-right
+
     - name: "content-6"
       weight: 15
       classes:
@@ -126,17 +151,26 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: FAQs sobre o modelo de plano de medicação SeaTable
-      subtitle:
+      title: 'Perguntas frequentes sobre o modelo de plano de medicação do SeaTable'
+      subtitle: 
       items:
-      - q: "O modelo de horário de medicação do SeaTable é gratuito?"
-        a: "Sim, o modelo de horário de medicação do SeaTable é de utilização gratuita. Apenas necessita de uma conta SeaTable para personalizar o modelo de horário de medicação gratuitamente e utilizar todas as funcionalidades."
-      - q: "Porque é que devo criar um horário de medicação online?"
-        a: "Quando preenche e gere o seu horário de medicação online, tem acesso ao estado atual a qualquer momento e a partir de qualquer lugar e pode facilmente partilhar informações com médicos ou terapeutas. Com o nosso modelo de horário de medicação, a sua medicação permanece segura e transparente. Graças ao plug-in de design de página integrado no nosso modelo de horário de medicação, também pode imprimir o seu horário de medicação, se necessário."
-      - q: "Posso imprimir o modelo de horário de medicação?"
-        a: "Sim, pode criar a sua agenda de medicação online e utilizar o plug-in de design de página para gerar automaticamente uma agenda de medicação clara para impressão."
-      - q: "Também posso utilizar o modelo de plano de medicação para várias pessoas?"
-        a: "Sim, também pode utilizar o nosso modelo de plano de medicação para vários planos. Com o SeaTable, pode criar um plano de medicação para até 25 utilizadores gratuitamente."
-      - q: "Existe um exemplo de um plano de medicação para preencher?"
-        a: "Sim, o modelo de plano de medicação contém um exemplo claro de plano de medicação que pode utilizar como guia. Pode utilizar e personalizar gratuitamente o nosso modelo de horário de medicação - de acordo com a sua medicação pessoal."
+      - q: "O modelo do SeaTable para um plano de medicação é gratuito?"
+        a: 'Sim, o modelo de plano de medicação do SeaTable pode ser utilizado gratuitamente. Basta ter uma conta SeaTable para personalizar o modelo de plano de medicação gratuitamente e utilizar todas as funcionalidades.'
+      - q: "Por que devo criar um plano de medicação online?"
+        a: 'Ao preencher e gerir o seu plano de medicação online, tem acesso ao estado atual a qualquer momento e em qualquer lugar e pode partilhar facilmente as informações com médicos ou terapeutas. A versão digital é mais fácil de manter atualizada do que as listas em papel e, se necessário, pode ser impressa numa versão clara e fácil de transportar.'
+      - q: "É possível imprimir o modelo do plano de medicação?"
+        a: 'Sim, é possível criar o seu plano de medicação online e, com o plugin de design de páginas, gerar automaticamente um plano de medicação claro para impressão – por exemplo, para consultas médicas, internamentos hospitalares ou o cartão de emergência.'
+      - q: "Posso utilizar o modelo de plano de medicação para várias pessoas?"
+        a: 'Sim, é possível utilizar o nosso modelo de plano de medicação para várias pessoas ou membros da família. Com o SeaTable, é possível criar um plano de medicação gratuito para até 25 utilizadores na nuvem SeaTable.'
+      - q: "Existe algum exemplo de plano de medicação para preencher?"
+        a: 'Sim, o modelo de plano de medicação contém um exemplo claro que pode ser utilizado como orientação. Pode utilizar o nosso modelo de plano de medicação gratuitamente e adaptá-lo à sua medicação pessoal.'
+      - q: "Quais funções de IA são suportadas pelo modelo de plano de medicação?"
+        a: 'Com o SeaTable, tem à sua disposição funções de IA como Summarize, Classify, Extract, OCR e Custom Prompt. Estas permitem avaliar documentos, extrair informações, categorizar medicamentos ou criar resumos – tudo isto integrado diretamente nas suas automatizações.'
+      - q: "As funções de IA estão em conformidade com o RGPD, especialmente no que diz respeito aos dados de saúde?"
+        a: 'Sim, a SeaTable opera o seu próprio servidor de IA num centro de dados alemão, todos os dados permanecem na Europa e são transmitidos de forma encriptada. Não há troca de dados com fornecedores externos de IA, para que possa processar dados sensíveis de saúde em conformidade com a proteção de dados.'
+      - q: "É possível avaliar automaticamente relatórios médicos ou listas de medicamentos?"
+        a: 'Sim, com a combinação das funções OCR e Extract, é possível digitalizar cartas médicas, relatórios de alta ou listas de medicamentos existentes e transferir automaticamente informações relevantes, como preparações, dosagens ou instruções de uso, para campos estruturados.'
+      - q: "Posso associar o meu plano de medicação a outros modelos de saúde?"
+        a: 'Sim, é possível utilizar o modelo de plano de medicação com outros modelos de saúde do SeaTable, como um [registo digital do paciente]({{< relref "templates/healthcare/electronic-health-record" >}}) Combine ou integre em processos existentes. Assim, passo a passo, cria a sua visão geral pessoal da saúde num local central.'
+
 ---

@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Medikamentenplan online ausfüllen'
       subtitle: 'Immer aktuell, immer zur Hand'
-      description: 'Ein klassischer Medikamentenplan auf Papier ist schnell erstellt – und schnell veraltet. Wenn Sie Ihren Medikamentenplan online erstellen, profitieren Sie von vielen Vorteilen, die Ihren Alltag erleichtern.'
+      description: 'Ein klassischer Medikamentenplan auf Papier ist schnell erstellt – und schnell veraltet. Wenn Sie Ihren [Medikamentenplan]({{< relref "posts/medikamentenplan" >}}) online erstellen, profitieren Sie von vielen Vorteilen, die Ihren Alltag erleichtern.'
       items:
       - text: 'Immer aktuell: Änderungen lassen sich sofort eintragen und sind in der nächsten Sekunde verfügbar.'
       - text: 'Zugriff von überall: Über den Online-Zugang haben Sie Ihre Daten jederzeit parat.'
@@ -112,6 +112,31 @@ sections:
           link: pages/registration
           id: de-vorlage-medikamentenplan-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'KI-gestützter Medikamentenplan mit SeaTable'
+      subtitle: 'Smarte Unterstützung im Alltag'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihren Medikamentenplan noch sicherer und übersichtlicher machen. Analysieren Sie Texte, werten Sie Dokumente aus und reduzieren Sie manuelle Arbeit – DSGVO-konform auf deutschen Servern.'
+      items:
+      - headline: 'Automatische Klassifizierung mit Classify'
+        text: 'Lassen Sie Medikamente automatisch in sinnvolle Gruppen einordnen – etwa nach Wirkstoffklasse, Einnahmezeit oder Anwendungsgebiet. Die KI-Funktion „Classify“ unterstützt Sie dabei, komplexe Medikationspläne übersichtlich zu strukturieren und Fehler zu vermeiden.'
+        icon: table
+      - headline: 'Automatische Texterkennung mit OCR'
+        text: 'Fotografieren Sie Arztbriefe, Medikamentenlisten oder Entlassberichte und lassen Sie die OCR-Funktion relevante Informationen wie Präparate, Dosierungen oder Häufigkeit automatisch erkennen. Die erkannten Daten können direkt in Ihre Medikamententabelle übernommen werden.'
+        icon: image
+      - headline: 'Intelligente Datenextraktion mit Extract'
+        text: 'Die Extract-Funktion analysiert unstrukturierte Texte wie Befunde oder Hinweise auf dem Beipackzettel und extrahiert gezielt Informationen – zum Beispiel Hinweise zur Einnahme, Kontraindikationen oder maximale Tagesdosierungen. So stehen Ihnen wichtige Fakten direkt in strukturierter Form zur Verfügung.'
+        icon: layer-group
+      - headline: 'Zusammenfassungen mit Summarize'
+        text: 'Lange Arztbriefe oder ausführliche Medikationsänderungen fasst die Summarize-Funktion automatisch in kurzen, leicht verständlichen Texten zusammen. Sie sehen auf einen Blick, was sich geändert hat und welche Punkte Sie bei der nächsten Konsultation ansprechen sollten.'
+        icon: circle-info
+      - headline: 'Individuelle KI-Regeln mit Custom Prompt'
+        text: 'Mit Custom Prompts definieren Sie eigene KI-Anweisungen rund um Ihren Medikamentenplan. Beispiele: Hinweise auf potenzielle Doppelmedikation auf Basis der vorhandenen Einträge, automatische Formulierung von Fragen für das nächste Arztgespräch oder Generierung einer Kurzfassung für den Notfallausweis.'
+        icon: wand-magic-sparkles
+      - headline: 'Berichte auf Knopfdruck'
+        text: 'Erstellen Sie auf Basis Ihrer Daten automatisch Berichte für Hausarzt, Facharzt oder Pflegepersonal. Die KI fasst Medikation, Änderungen und dokumentierte Nebenwirkungen strukturiert zusammen – so sparen Sie Zeit und stellen sicher, dass alle relevanten Informationen vorliegen.'
+        icon: arrow-right
+
     - name: "content-6"
       weight: 15
       classes:
@@ -132,15 +157,20 @@ sections:
       - q: "Ist SeaTables Vorlage für einen Medikamentenplan kostenlos?"
         a: 'Ja, die Medikationsplan Vorlage von SeaTable kann kostenlos genutzt werden. Sie benötigen lediglich einen SeaTable-Account, um die Vorlage Medikamentenplan kostenlos anzupassen und alle Funktionen zu nutzen.'
       - q: "Warum sollte ich einen Medikamentenplan online erstellen?"
-        a: "Wenn Sie Ihren Medikamentenplan online ausfüllen und verwalten, haben Sie jederzeit und von jedem Ort Zugriff auf den aktuellen Stand und können Informationen leicht mit Ärzten oder Therapeuten teilen. Mit unserer Vorlage für einen Medikamentenplan bleibt Ihre Medikation sicher und transparent. Dank des in unserer Vorlage für einen Medikamentenplan integrierten Seitendesign-Plugins können Sie bei Bedarf Ihren Medikamentenplan auch ausdrucken."
+        a: 'Wenn Sie Ihren Medikamentenplan online ausfüllen und verwalten, haben Sie jederzeit und von jedem Ort Zugriff auf den aktuellen Stand und können Informationen leicht mit Ärzten oder Therapeuten teilen. Die digitale Variante ist leichter aktuell zu halten als Papierlisten und lässt sich bei Bedarf als übersichtliche Druckversion mitnehmen.'
       - q: "Kann ich die Vorlage für den Medikamentenplan ausdrucken?"
-        a: 'Ja, Sie können Ihren Medikamentenplan online erstellen und mit dem Seitendesign-Plugin automatisch einen übersichtlichen Mediplan zum Ausdrucken erzeugen.'
-      - q: 'Kann ich die Medikamentenplan Vorlage auch für mehrere Personen nutzen?'
-        a: 'Ja, Sie können unsere Vorlage für einen Medikamentenplan auch für mehrere Pläne nutzen. Mit SeaTable erstellen Sie einen Medikamentenplan kostenlos für bis zu 25 Nutzer.'
-      - q: 'Gibt es ein Beispiel für einen Medikationsplan zum Ausfüllen?'
-        a: 'Ja, die Medikamentenplan Vorlage enthält ein übersichtliches Medikamentenplan Beispiel, das Sie als Orientierung nutzen können. Sie können unseren Vorlage für einen Medikamentenplan kostenlos nutzen und anpassen – passend zu Ihrer persönlichen Medikation.'
-
-
-
+        a: 'Ja, Sie können Ihren Medikamentenplan online erstellen und mit dem Seitendesign-Plugin automatisch einen übersichtlichen Mediplan zum Ausdrucken erzeugen – zum Beispiel für Arzttermine, Krankenhausaufenthalte oder den Notfallpass.'
+      - q: "Kann ich die Medikamentenplan Vorlage auch für mehrere Personen nutzen?"
+        a: 'Ja, Sie können unsere Vorlage für einen Medikamentenplan auch für mehrere Personen oder Familienmitglieder nutzen. Mit SeaTable erstellen Sie einen Medikamentenplan kostenlos für bis zu 25 Nutzer in der SeaTable Cloud.'
+      - q: "Gibt es ein Beispiel für einen Medikationsplan zum Ausfüllen?"
+        a: 'Ja, die Medikamentenplan Vorlage enthält ein übersichtliches Beispiel, das Sie als Orientierung nutzen können. Sie können unsere Vorlage für einen Medikamentenplan kostenlos übernehmen und anpassen – passend zu Ihrer persönlichen Medikation.'
+      - q: "Welche KI-Funktionen unterstützt die Medikamentenplan Vorlage?"
+        a: 'Mit SeaTable stehen Ihnen KI-Funktionen wie Summarize, Classify, Extract, OCR und Custom Prompt zur Verfügung. Damit lassen sich Dokumente auswerten, Informationen extrahieren, Medikamente kategorisieren oder Zusammenfassungen erstellen – direkt in Ihren Automatisierungen integriert.'
+      - q: "Sind die KI-Funktionen DSGVO-konform – gerade bei Gesundheitsdaten?"
+        a: 'Ja, SeaTable betreibt einen eigenen KI-Server in einem deutschen Rechenzentrum, alle Daten bleiben in Europa und werden verschlüsselt übertragen. Es findet kein Datenaustausch mit externen KI-Anbietern statt, sodass Sie auch sensible Gesundheitsdaten datenschutzkonform verarbeiten können.'
+      - q: "Kann ich Arztbriefe oder Medikamentenlisten automatisch auswerten lassen?"
+        a: 'Ja, mit der Kombination aus OCR- und Extract-Funktion können Sie Arztbriefe, Entlassberichte oder vorhandene Medikamentenlisten digitalisieren und relevante Informationen wie Präparate, Dosierungen oder Einnahmehinweise automatisch in strukturierte Felder übertragen.'
+      - q: "Kann ich meinen Medikamentenplan mit anderen Gesundheitsvorlagen verbinden?"
+        a: 'Ja, Sie können die Medikamentenplan Vorlage mit weiteren SeaTable-Gesundheitsvorlagen wie einer [digitalen Patientenakte]({{< relref "templates/healthcare/electronic-health-record" >}}) kombinieren oder über Integrationen in bestehende Prozesse einbinden. So entsteht Schritt für Schritt Ihre persönliche Gesundheitsübersicht an einem zentralen Ort.'
 
 ---

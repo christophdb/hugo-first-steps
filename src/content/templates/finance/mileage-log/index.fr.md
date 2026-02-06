@@ -138,7 +138,7 @@ sections:
       - headline: 'Classification automatique avec Classify'
         text: "Laissez les données de trajet être classées automatiquement : l'IA identifie automatiquement le motif du trajet (par exemple, visite professionnelle, visite client, voyage d'affaires) à partir des textes de destination ou des notes et attribue les trajets à la bonne catégorie."
         icon: table
-      - headline: "Reconnaissance automatique des documents grâce à l'OCR"
+      - headline: "Reconnaissance de texte pour les pièces jointes avec OCR"
         text: "Veuillez télécharger les reçus de carburant ou les rapports d'inspection, et la fonction OCR identifiera automatiquement les coûts, les dates et le kilométrage. Ces informations seront directement transférées dans votre tableau de bord."
         icon: image
       - headline: 'Extraction intelligente des données avec Extract'

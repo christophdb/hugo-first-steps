@@ -144,7 +144,7 @@ sections:
       - headline: 'Flujos de trabajo personalizados con Custom Prompt'
         text: 'Con la función Custom Prompt, puede definir sus propias instrucciones de IA para automatizaciones específicas del flujo de trabajo. Ejemplos: generación automática de criterios de aceptación, asignación inteligente a los miembros del equipo en función de sus habilidades o creación automática de subtareas, según sus necesidades.'
         icon: wand-magic-sparkles
-      - headline: 'Reconocimiento de documentos para archivos adjuntos con OCR'
+      - headline: 'Reconocimiento de texto para archivos adjuntos con OCR'
         text: 'Suba maquetas de diseño, fotos de pizarras blancas o notas manuscritas: la función OCR reconoce automáticamente el texto, los requisitos y los detalles, y los transfiere a la descripción de la tarea. Ideal para resultados de talleres o capturas rápidas con el smartphone.'
         icon: image  
       - headline: 'Informes Sprint con solo pulsar un botón'
