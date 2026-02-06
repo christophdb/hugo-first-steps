@@ -2,129 +2,197 @@
 title: 'Escrever oferta'
 description: 'Organize, crie e envie propostas, agilize aprovações e tenha um fluxo comercial digital do início ao fim.'
 date: '2025-04-06'
-url: '/pt/modelo/gestao-orcamentos'
+url: '/pt/modelo/modelo-gestao-propostas'
 aliases:
     - '/pt/modelo/quotation-management'
+    - '/pt/modelo/gestao-orcamentos'
 category: 'sales'
 functions:
 seo:
-    title: 'Gerenciamento de Orçamentos: Modelo Digital de Propostas'
-    description: 'Faça, envie e gerencie orçamentos rapidamente com o modelo SeaTable: automação, armazenamento central e envio por e-mail.'
-template: '584c3121cf4a4ffd86e5'
+    title: 'Modelo de propostas: IA integrada & digital'
+    description: 'Use IA no SeaTable para criar propostas, gerir dados num só lugar e enviar orçamentos automaticamente em PDF ou por e-mail.'
+type: pages
+
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'SeaTable – O seu modelo profissional para elaborar propostas'
+      text: 'Acabe com as ofertas formatadas em Word ou Excel. Com o modelo de criação de ofertas do SeaTable, pode criar ofertas profissionais, automatizar cálculos e enviar PDFs diretamente por e-mail – personalizável, escalável e em conformidade com o RGPD. O modelo de criação de ofertas adapta-se aos seus processos – desde empresários individuais até equipas de vendas B2B.'
+      classes:
+          - bg-white
+      template: '584c3121cf4a4ffd86e5'
+      buttons:
+          - label: Registe-se gratuitamente agora e utilize o modelo
+            link: 'pages/registration'
+            style: primary
+    
+    - name: "content-27"
+      weight: 2
+      title: 'Redigir propostas Modelo para processos de proposta estruturados'
+      subtitle:  Escrever uma proposta online
+      text: 
+      items:
+        - icon: 'check'
+          headline: 'Padronizado'
+          text: 'O modelo garante ofertas uniformes. Todas as informações obrigatórias, preços, descontos e IVA são mantidos centralmente e transferidos automaticamente.'
+        - icon: 'wand-magic-sparkles'
+          headline: 'Automatizado'
+          text: 'Ligue os dados dos clientes e dos produtos, utilize fórmulas para descontos e montantes líquidos/brutos e crie ofertas com um clique.'
+        - icon: 'chart-simple'
+          headline: 'Estatísticas'
+          text: 'Analise as suas ofertas com visualizações estatísticas – por exemplo, taxas de conclusão, valores totais das ofertas por funcionário ou potencial de receita por setor.'
+        - icon: 'lock'
+          headline: 'À prova de revisão'
+          text: 'Todas as ofertas são armazenadas centralmente – com histórico, comentários e autorizações. Desta forma, pode manter as versões, aprovações e status sempre à vista e evitar ofertas desatualizadas.' 
+        - icon: 'language'
+          headline: 'Multilíngue'
+          text: 'Crie os seus modelos de orçamento em vários idiomas ou para diferentes países e utilize automaticamente a versão de orçamento adequada, dependendo do país do cliente.'
+        - icon: 'bell'
+          headline: 'Lembrete de acompanhamento'
+          text: 'Defina lembretes e fluxos de trabalho para acompanhamentos. Por exemplo, notificações automáticas quando as ofertas estão prestes a expirar ou ainda não foi recebida nenhuma resposta.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam na SeaTable"
+      subtitle: "Quem utiliza o SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads no primeiro ano do Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários na SeaTable Cloud"
+      - number: "4.6"
+        text: "Avaliação na Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação - Histórias de sucesso"
+          id: de-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Modelo de elaboração de propostas do SeaTable'
+      subtitle: 'As suas vantagens em resumo'
+      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o nosso modelo de elaboração de propostas, digitalize o seu processo de proposta e represente fluxos de trabalho de vendas complexos, desde o primeiro contacto até à confirmação da encomenda.'
+      items:
+      - text: 'Obtenha a sua oferta mais rapidamente: utilize modelos de oferta predefinidos, dados de produtos e clientes associados, bem como cálculos automáticos de descontos e impostos – assim, poderá elaborar ofertas em minutos, em vez de horas.'
+      - text: 'Tudo num único local: o modelo de proposta reúne todas as informações relevantes num único local, para que as equipas de vendas, a administração e o back office possam trabalhar sempre com os mesmos dados atualizados.'
+      - text: 'Documentação juridicamente segura: inclua os termos e condições gerais, condições de pagamento e prazos de validade diretamente no seu modelo de proposta e garanta a consistência do conteúdo em cada proposta – mesmo requisitos especiais, como regulamentos para pequenas empresas, podem ser incluídos.'
+      - text: 'Escalável: os modelos de oferta crescem com a sua equipa de vendas – desde empresários individuais até grandes organizações de vendas com vários pipelines, regiões e idiomas.'
+      - text: 'Automatizado e integrado: conecte o seu modelo de oferta via n8n ou Zapier ao CRM, e-mail marketing ou contabilidade e evite a duplicação de dados.'
+      image_position: [left]
+      image: '/images/template_page_angebot_01.png'
+      image_alt: 'Interface SeaTable com lista de ofertas, colunas de estado e botões de ação para a criação de ofertas'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Como funciona o modelo para elaborar propostas'
+      subtitle: 'Criar e acompanhar ofertas'
+      items:
+      - headline: 'Registe todos os dados da oferta'
+        text: 'Cliente, representante de vendas responsável, posições, descontos, data de validade e estado. O número de série, a data de criação e a data de validade são definidos automaticamente, os descontos e os preços líquidos e brutos são calculados por fórmula.'
+        image: '/images/template_page_angebot_02.png'
+        image_alt: 'Tabela de ofertas com colunas para cliente, vendedor, posições, descontos, validade e estado'
+      - headline: 'Ligar dados de clientes'
+        text: 'Guarde os dados da empresa, tais como nome, endereço, pessoa de contacto, e-mail, número de telefone, país e identificação fiscal. Através de ligações e colunas de pesquisa, estas informações são automaticamente transferidas para a respetiva oferta.'
+        image: '/images/template_page_angebot_03.png'
+        image_alt: 'Tabela de dados do cliente com nome da empresa, endereço, pessoa de contacto, informações de contacto e número de identificação fiscal'
+      - headline: 'Atualizar o catálogo de produtos'
+        text: 'O seu portfólio de produtos e serviços, incluindo descrições, categorias e preços, centralizado num único local. A partir do preço líquido, o preço bruto, incluindo IVA, é calculado através de uma fórmula, e as fórmulas de rollup somam os itens da oferta.'
+        image: '/images/template_page_angebot_04.png'
+        image_alt: 'Catálogo de produtos no SeaTable com artigos, descrições, categorias, preços líquidos e brutos'
+      - headline: 'Da oferta à confirmação da encomenda'
+        text: 'A partir de ofertas confirmadas, é possível gerar diretamente uma confirmação de encomenda e, assim, representar a próxima etapa no processo de venda – ideal em combinação com o [modelo de confirmação de encomenda]({{< relref "templates/sales/order-confirmation" >}}) da SeaTable.'
+        image: '/images/template_page_angebot_05.png'
+        image_alt: 'Visualização do SeaTable, na qual uma confirmação de encomenda é gerada a partir de uma oferta confirmada com um clique'
+            
+    - name: "content-6"
+      weight: 12
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'A sua aplicação de ofertas personalizada'
+      subtitle: 
+      items:
+      - text: 'Com o No-Code App Builder integrado do SeaTable, pode transformar o modelo de elaboração de propostas numa aplicação de propostas personalizada. Crie formulários web para novos pedidos de orçamento, interfaces guiadas para vendas e visualizações Kanban para o estado dos orçamentos, como «novo», «enviado», «em negociação» ou «ganho», e partilhe visualizações específicas com partes interessadas internas e externas. Assim, o modelo de orçamento torna-se o centro nevrálgico das suas vendas.'
+      image: '/images/template_page_angebot_06.png'
+      image_alt: 'Aplicação de ofertas no SeaTable App Builder com formulários, quadro Kanban e interface de vendas guiada'
+
+    - name: "banner-3"
+      weight: 15
+      title: 'Elabore propostas profissionais em poucos minutos – com o SeaTable'
+      buttons:
+        - label: Utilize agora o modelo para elaborar a sua proposta
+          link: pages/registration
+     
+    - name: "content-9"
+      weight: 16
+      title: 'Criação de propostas com base em IA com o SeaTable'
+      subtitle: 'Automação inteligente'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que aceleram a criação e gestão das suas propostas. Automatize tarefas recorrentes, reduza erros e ganhe mais tempo para conversas de vendas, independentemente de utilizar um modelo de proposta para pequenos empresários ou modelos de propostas profissionais para negócios B2B complexos. O modelo de redação de propostas pode ser combinado com fluxos de trabalho de IA para gerar automaticamente propostas qualificadas a partir de consultas.'
+      items:
+      - headline: 'Blocos de texto automáticos com Classify'
+        text: 'Classifique automaticamente as solicitações de orçamento. A função de IA "Classify" reconhece categorias de produtos, setores ou regiões e adiciona blocos de texto adequados, bem como responsabilidades.'
+        icon: table
+      - headline: 'Extrair informações de consultas com o Extract'
+        text: 'A função Extract lê consultas não estruturadas, e-mails ou PDFs e transfere dados relevantes, como orçamento, serviços desejados, prazos ou quantidades, diretamente para o seu modelo de oferta.'
+        icon: layer-group
+      - headline: 'Resumir ofertas com Summarize'
+        text: 'O Summarize cria automaticamente resumos curtos de documentos de propostas mais longos ou trocas de e-mails, para que a gerência e a equipa de vendas possam identificar rapidamente o conteúdo da proposta.'
+        icon: circle-info
+      - headline: 'Prompts de IA personalizados com o Custom Prompt'
+        text: 'Defina as suas próprias instruções de IA, por exemplo, para variantes alternativas de ofertas, sugestões de upsell ou textos introdutórios personalizados para diferentes segmentos de clientes.'
+        icon: wand-magic-sparkles
+      - headline: 'Verificações e aprovações automatizadas de ofertas'
+        text: 'Crie automaticamente as primeiras versões preliminares de contratos com as condições mais importantes a partir de ofertas aprovadas. Desta forma, evita o trabalho manual de copiar e colar, reduz erros de transcrição e acelera significativamente todo o seu processo contratual.'
+        icon: arrow-right
+      - headline: 'Derivar rascunhos de contratos a partir de propostas'
+        text: 'Crie automaticamente as primeiras versões preliminares de contratos com as condições mais importantes a partir de ofertas aprovadas. Desta forma, evita o trabalho manual de copiar e colar, evita erros e acelera significativamente o seu processo contratual.'
+        icon: image
+        
+        
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Modelo de oferta para pequenos empresários e médias empresas'
+      subtitle: 'Segurança e transparência'
+      description: 'O SeaTable é uma solução moderna de base de dados sem código com IA, com automatizações e criador de aplicações, oferecendo todas as funcionalidades necessárias para um processo de cotação digital e integrado. Seja um modelo de cotação para pequenos empresários ou uma equipa de vendas em médias empresas, a proteção dos seus dados é a nossa prioridade.'
+      box-position: [right!]
+      items:
+      - headline: Em conformidade com o RGPD
+        text: 'Em conformidade com o RGPD: Ao utilizar o SeaTable Cloud ou a IA integrada, todos os dados das ofertas permanecem na Europa – a infraestrutura é operada exclusivamente em servidores localizados na Alemanha.'
+      - headline: 2FA e SSO
+        text: 'O SeaTable suporta técnicas de autenticação comuns, como autenticação de dois fatores e login único, para que possa controlar quem tem acesso aos seus dados.'
+
+    - name: "faq"
+      weight: 20
+      title: 'Perguntas frequentes sobre o modelo de proposta do SeaTable'
+      subtitle: 
+      items:
+      - q: "Posso utilizar gratuitamente o modelo de propostas da SeaTable?"
+        a: 'Sim, pode utilizar gratuitamente o modelo para escrever propostas. Basta criar uma conta gratuita no SeaTable e adicionar o modelo de proposta à sua base para criar propostas diretamente online – também como modelo de proposta para pequenos empresários sem identificação fiscal. O modelo para escrever propostas é, portanto, uma introdução ideal a um processo de proposta digital.'
+      - q: "O SeaTable é uma alternativa ao modelo de oferta no Excel?"
+        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Excel]({{< relref "pages/excel-alternative" >}}) especialmente para processos colaborativos de apresentação de propostas. Ao contrário de um modelo de proposta em Excel, várias pessoas podem trabalhar simultaneamente, deixar comentários e utilizar funções de IA.'
+      - q: "É possível importar o meu modelo de oferta existente do Excel para o SeaTable?"
+        a: 'Sim, é possível importar o seu modelo de oferta existente em Excel como .xlsx, .xls ou CSV e, em seguida, ajustar a estrutura. Depois disso, poderá beneficiar de ligações, fórmulas, automatizações e criação de PDF diretamente a partir do SeaTable. Desta forma, poderá migrar o seu modelo de oferta existente, passo a passo, para um sistema moderno e colaborativo.​'
+      - q: "É possível guardar ofertas diretamente como PDF e enviá-las por e-mail?"
+        a: 'Sim, com o plugin Page Design, é possível criar um PDF de oferta com um simples clique e enviá-lo diretamente por e-mail ao cliente através de um botão, desde que uma conta de e-mail esteja registada no SeaTable.'
+      - q: "É possível gerar a confirmação do pedido e a fatura a partir da proposta?"
+        a: 'Sim, com base nos mesmos dados, também é possível gerar confirmações de encomendas e faturas, representando assim todo o processo, desde a oferta até ao pagamento, no SeaTable.'
+      - q: "O SeaTable suporta layouts de ofertas personalizados de acordo com o meu design corporativo?"
+        a: 'Sim, com a ajuda do plugin Page Design, pode criar modelos de ofertas com o design da sua empresa, incluindo logótipo, cores, cabeçalhos e rodapés, bem como blocos de texto recorrentes.'
+      - q: "É possível criar diretamente uma confirmação de encomenda e uma fatura a partir de uma oferta?"
+        a: 'Sim, é possível mapear todo o seu processo, desde a elaboração da proposta até à faturação, no SeaTable. A partir de uma proposta confirmada, pode gerar uma confirmação de encomenda e, em seguida, utilizar o [modelo adequado para emitir a fatura]({{< relref "/templates/finance/invoice-creation" >}}) uma fatura em conformidade com a lei.'
+      - q: "É possível integrar os meus processos de oferta com outros sistemas?"
+        a: 'Sim, o SeaTable pode ser integrado através de [Integrações]({{< relref "pages/integrations" >}}) como integrar o n8n e o Zapier com sistemas de CRM, software de contabilidade, serviços de e-mail ou ferramentas de colaboração para automatizar de forma consistente o seu processo de cotação.'
+      - q: "O modelo de proposta também é adequado para pequenos empresários e trabalhadores independentes?"
+        a: 'Sim, o modelo de proposta para pequenos empresários é ideal para freelancers, pequenas empresas e agências que desejam redigir e acompanhar propostas profissionais e sem erros, sem a necessidade de software especializado dispendioso.'
+      - q: "Existe suporte disponível caso eu tenha dúvidas sobre o modelo de oferta?"
+        a: 'Sim, em caso de dúvidas, pode utilizar a documentação da área de ajuda, colocar a sua questão no fórum da comunidade ou contactar diretamente o suporte por e-mail.'
+
+
 ---
-
-Muito bem! Se tiver de redigir um orçamento para um cliente, já despertou com êxito o interesse pelos seus produtos ou serviços. Agora, o que importa é convencer o potencial cliente da sua oferta. Em vez de ter de escrever um novo orçamento para cada pedido individual, pode automatizar todo o processo de criação de orçamentos com um modelo de orçamento. Porque não utilizar imediatamente omodelo de orçamentoda SeaTable, com o qual pode criar todos os orçamentos online - gratuitamente, de forma cómoda e segura!
-
-## Porque é que deve escrever uma oferta
-
-Umacarta de ofertaconcebida de forma clara e atractiva aumenta a probabilidade de o potencial cliente morder o isco. Serve de garantia mútua e torna claro quais osserviçosque o cliente pode esperar pelopreçoindicado. Embora um e-mail informal possa ser suficiente para uma pequena encomenda, deve definitivamente preparar um orçamento escrito para encomendas maiores, a fim de documentar as condições contratuais propostas. Quanto mais precisa for a especificação doselementos do orçamento, menos mal-entendidos serão possíveis.
-
-Especialmente se receber pedidos de informação todos os dias, pode levar muito tempo e nervosismo a escreverofertas individuaisque tem de reescrever vezes sem conta - sem saber se as suas ofertas resultarão efetivamente em encomendas. É aqui que um modelo de orçamento profissional constitui uma solução rápida e fiável, especialmente para as pequenas empresas. Utilize o SeaTable, por exemplo, para escrever o seu orçamento deforma eficienteeautomática.
-
-![O modelo SeaTable cria automaticamente uma proposta e mostra a pré-visualização do documento](images/image-1741253045784.gif)
-
-## O que é que favorece um modelo de oferta
-
-Quando utiliza um modelo para redigir uma cotação, beneficia de inúmeras melhorias que tornam o seu processo de criação de cotações mais eficiente, mais simples e mais robusto.
-
-- Poupe tempo: O nosso modelo de oferta digital permite-lhe gerar, enviar e guardar automaticamente as suas cartas de oferta. Isto reduz a introdução manual de dados e minimiza o seu volume de trabalho administrativo.
-
-- Sem erros: Graças à criação automática de cotações utilizando campos dinâmicos e fórmulas, não existem erros de cálculo ou de digitação como acontece com um modelo de cotação no Word.
-
-- Armazenamento centralizado: No SeaTable, pode armazenar todos os dados existentes relativos aos seus clientes, produtos e encomendas, ligá-los entre si e incorporá-los em documentos.
-
-- Sustentabilidade: Com o SeaTable, a preparação das suas cotações é completamente sem papel - sem expedições demoradas e dispendiosas, mas simplesmente com o toque de um botão por correio eletrónico.
-
-## Como criar um orçamento profissional
-
-Se nunca teve de criar um orçamento antes, provavelmente não sabe por onde começar. Neste caso, o nosso modelo de orçamento irá ajudá-lo imenso, uma vez que já contém todos os elementos de que necessita parapreparar um orçamento correto.
-
-![Vista de tabela dos componentes da proposta com informações de clientes, itens e valores](images/image-1741191669169.png)
-
-As seguintes informações obrigatórias não devem faltar em nenhum modelo de oferta:
-
-1. Quando redige uma oferta, onomeeo endereço da sua empresaconstituem normalmente o papel timbrado, juntamente como logótipo da empresa.
-
-2. é necessário onomeeo endereço do clientenão só para a entrega, mas também por razões fiscais, uma vez que os serviços prestados a empresas são tributáveis no local onde o cliente está estabelecido.
-
-3.assuntoenúmero da cotação: uma numeração clara e consecutiva das suas cotações facilita a sua atribuição na correspondência futura com os seus clientes.
-
-4. Asaudaçãodireta com o nome da pessoa a contactar dá um toque pessoal à sua carta de oferta.
-
-5 A descrição exacta da oferta com oselementosindividuais (tipo, preço e quantidade do serviço) constitui a parte principal da sua oferta. Deve ser claro em que medida está a oferecer os seus produtos ou serviços.
-
-6 Agora é tempo de pôr mãos à obra: somar as rubricas individuais para obter omontante líquido, deduzir umdescontose necessário e, para os clientes nacionais, calcular também o montante bruto comIVA.
-
-7 Para as empresas estrangeiras, onúmero de identificação para efeitos de IVAé necessário aquando da elaboração da proposta. Chame a atenção destes clientes para o facto de terem de pagar eles próprios o IVA no respetivo país (responsabilidade fiscal do destinatário do serviço).
-
-8.Dataevalidade: Não se esqueça da data atual quando criar uma oferta e acrescente um prazo para o cliente a aceitar. Regra geral, o período durante o qual o cliente está legalmente vinculado à sua oferta deve ser de apenas algumas semanas.
-
-9. concluir o texto da oferta com umfechoamigável e umasaudação. É preferível chamar a atenção do cliente para as suasCondições Gerais de Venda (CGV)na carta de oferta.
-
-    10.Osseusdados bancários, o seu númerode IVAe outros dados relevantes da empresa devem ser incluídos no cabeçalho do seu modelo de oferta.
-
-## Conquistar clientes através de ofertas transparentes
-
-Naturalmente, os seus potenciais clientes têm um grande interesse em saber oscustosexactos antes de fazerem uma encomenda. No entanto, pode ser difícil para os prestadores de serviços estimar corretamente todos os custos e apresentar preços fixos vinculativos, especialmente quando se trata de serviços a longo prazo - por exemplo, ao redigir um orçamento para um projeto de construção. Neste caso, recomenda-se umaestimativa de custos, que oferece uma margem de manobra significativamente maior.
-
-### Qual é a diferença entre um orçamento e uma estimativa de custos?
-
-Quando redige um orçamento, os preços e serviços indicados sãojuridicamente vinculativos, exceto se tiver indicado o contrário no modelo de orçamento. Se a oferta for aceite, é celebrado umcontrato de compradiretamente com o cliente. Por outro lado, um orçamento é apenas umaprevisão não vinculativaou umcálculo preliminarde custos que estão sujeitos a alterações.
-
-Por conseguinte, certifique-se de que rotula a sua carta de oferta com umacláusula de liberdade, como "oferta não vinculativa", se quiser manter a opção de a retirar ou ajustar as condições. Idealmente, deve deixar este aspeto claro nas suas condições gerais e mencioná-lo no modelo de oferta.
-
-Mas atenção: mesmo com uma estimativa de custos, o preço final não deve desviar-se da sua estimativa em mais de 15 por cento. Se for confrontado comcustos inesperados ou despesas adicionais, deve obter primeiro a aprovação do cliente. Por conseguinte, calcule sempre de forma realista.
-
-## As diversas funções do nosso modelo de oferta
-
-- Pode personalizar o nosso modelo de orçamento de acordo com os seus desejos e necessidades. Conceba o modelo de orçamento com oplug-in de design de páginae utilize uma variedade de tipos de colunas e opções de visualização.
-
-- Crie o seu modelo de ofertaem diferentes línguasou para diferentes países e defina dependências para que o modelo adequado seja sempre selecionado automaticamente.
-
-- Assim que tiver preenchido o modelo de orçamento com os seus dados e desenhos individuais, o orçamento é criado gratuita eautomaticamente com o toque de um botão- sem qualquer esforço adicional da sua parte.
-
-- Também pode automatizar o processo de expedição: A integração com o seu fornecedor de correio eletrónico permite-lhe redigir um orçamento com apenas um clique e enviá-lodiretamente por correio eletrónico.
-
-- Utilize asestatísticasintegradas no modelo de oferta para obter informações valiosas dos seus números e dados e tomar decisões bem fundamentadas.
-
-![Fluxo no SeaTable: criar proposta com um clique, guardar em PDF e enviar por e-mail](images/image-1741253450663.gif)
-
-## Escrever citações de forma eficiente - pode ser tão simples quanto isso
-
-Com o modelo de cotação do SeaTable, criar e gerir cotações é uma brincadeira de crianças. O modelo de orçamento ajuda-o a organizar claramenteos produtos,os clienteseas encomendas, a criar automaticamente o orçamento e a guardá-lo como PDF pronto a ser enviado.
-
-Graças aligaçõesinteligentes, o modelo de orçamento é alimentado com dados relevantes de várias tabelas: A informação do cliente, os itens da encomenda e os preços fluem em conjunto sem problemas, enquantoas fórmulascalculam automaticamente os descontos e o IVA. Com o modelo de orçamento, as pequenas e grandes empresas têm sempre uma visão geral e poupam tempo valioso.
-
-### Criar um orçamento de forma fácil
-
-O plugin de design de página, que lhe permite concebercartas de orçamento em várias línguas, é particularmente prático para o modelo de orçamento. Basta um único clique para guardar um orçamentocomo PDF- o SeaTable utiliza automaticamente o modelo de orçamento adequado, consoante o país do cliente. Graças à interface de fácil utilização, é possível redigir um orçamento num instante. O envio também está integrado: Com um botão adicional, a cotação finalizada pode ser enviada diretamentepara o clientepore-mail. Todo o processo decorre de forma eficiente e sem problemas, sem cópias incómodas ou digitação manual.
-
-### Escrever mais do que um modelo de citação
-
-Para além da criação de orçamentos, o modelo write quotation oferece funções adicionais valiosas que apoiam o seu negócio. A função de estatísticas facilita aanálise dos números de vendase do volume de negócios, enquanto o plugin da galeria lhe dá uma visão geral da suacarteira de produtos. Graças às opções de personalização flexíveis do SeaTable, pode adaptar colunas, cálculos e vistas às suas necessidades individuais e criar um modelo de orçamento que se adapte perfeitamente ao seu negócio.
-
-## Vantagens do SeaTable como software de preparação de orçamentos
-
--Gratuito: O modelo de redação de orçamentos é gratuito. Comece com a versão gratuita do SeaTable, que já inclui inúmeras funções. Se necessário, pode simplesmente atualizar para obter mais funções ou espaço de armazenamento para criar orçamentos.
-
--Colaboração: Graças à sincronização em tempo real, o SeaTable facilita muito a colaboração em equipa. Vários utilizadores podem trabalhar em tabelas simultaneamente, atualizar dados no modelo de orçamento e deixar comentários.
-
--Prático: Se criar uma cotação em linha, pode aceder a ela a partir de qualquer lugar e a qualquer momento e está também protegida contra perdas. Ao contrário de um modelo de cotação no Word, também pode guardar dados estruturados e gerar automaticamente documentos a partir deles.
-
--Flexível: O SeaTable é muito mais do que uma simples base de dados. Graças às suas versáteis opções de personalização, pode ser utilizado para uma vasta gama de aplicações e perfeitamente integrado em vários processos empresariais.
-
--Seguro: Os seus dados estão protegidos de forma óptima com o SeaTable. Tem a opção de os armazenar na nuvem ou no local. Graças à conformidade com o RGPD e aos direitos de acesso individuais, mantém sempre o controlo total sobre os seus dados.
-
--Escalável: Desde a primeira utilização com alguns empregados até uma solução para toda a empresa para grandes equipas - o SeaTable cresce com as suas necessidades. Naturalmente, também pode utilizar este modelo para criar a sua oferta gratuitamente como uma pequena empresa.
-
-## Aumente as suas vendas através de ofertas apelativas com o SeaTable
-
-Quer se trate de um modelo de orçamento para pequenas empresas ou de um software de orçamentos para grandes empresas, o SeaTable facilita a criação de um orçamento para cada encomenda. Utilize a funçãode geração automática de orçamentospara criar e enviar um orçamento após outro online num instante. Isto dá-lhe mais tempo para as coisas importantes em vez de perder horas valiosas a escrever orçamentos.
-
-Se quiser utilizar o modelo de oferta gratuitamente,basta registar-se com o seu endereço de correio eletrónico.
-
-## Modelo interativo
-
-Percorra o nosso modelo incorporado de forma interactiva ou leia a descrição clicando no símbolo i a seguir ao nome do modelo. Isto dar-lhe-á uma melhor noção das funções do modelo de redação de citações. Se tiver alguma dúvida, consulte a nossasecção de ajuda.
-
-​
