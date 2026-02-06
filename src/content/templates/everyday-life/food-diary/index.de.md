@@ -30,7 +30,7 @@ sections:
       subtitle: Digitales Ernährungstagebuch
       text: 
       items:
-        - icon: 'pencil'
+        - icon: 'puzzle-piece'
           headline: 'Flexibel'
           text: 'Sie können unsere kostenlose Vorlage kann einfach individuell an Ihre Bedürfnisse anpassen und ergänzen – ohne Aufwand.'
         - icon: 'pencil'
@@ -40,7 +40,7 @@ sections:
           headline: 'Übersichtlich'
           text: 'Gruppieren und filtern Sie Ihre Einträge und visualisieren Sie Zusammenhänge – perfekt bei Verdacht auf Allergien.'
         - icon: 'globe'
-          headline: 'Universal App'
+          headline: 'App Builder'
           text: 'Nutzen Sie die App zur Datenerfassung und als Ernährungstagebuch Frontend – mit Eingabemasken und einer Knowledge Base.' 
         - icon: 'bell'
           headline: 'Erinnerungen'
@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Mit SeaTable zu Ihrer Ernährungsprotokoll App'
       subtitle: 'Ernährungstagebuch App kostenlos online nutzen'
-      description: 'SeaTable ist eine moderne No-Code Datenbanklösung und so einfach zu bedienen, wie eine Tabellenkalkulation – mit allen Funktionen, die Sie für ein Ernährungstagebuch benötigen.'
+      description: 'SeaTable ist eine moderne No-Code Datenbanklösung und so einfach zu bedienen, wie eine Tabellenkalkulation – mit allen Funktionen, die Sie für ein [Ernährungstagebuch]({{< relref "posts/ernaehrungstagebuch" >}}) benötigen.'
       items:
       - text: 'Individuell anpassbar: Erstellen Sie eine Ernährungsprotokoll App nach Ihren Wünschen.'
       - text: 'Zugriff von überall: Über den Online-Zugang haben Sie Ihre Daten jederzeit parat.'
@@ -107,6 +107,31 @@ sections:
           link: pages/registration
           id: de-vorlage-ernährungstagebuch-registration-3
 
+    - name: "content-9"
+      weight: 16
+      title: 'KI-gestütztes Ernährungstagebuch mit SeaTable'
+      subtitle: 'Muster erkennen, Daten smarter nutzen'
+      description: 'Mit SeaTable stehen Ihnen [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) zur Verfügung, die Sie bei der Auswertung Ihres Ernährungstagebuchs unterstützen. Analysieren Sie Texte, extrahieren Sie Informationen aus Dokumenten und fassen Sie Erkenntnisse automatisch zusammen.'
+      items:
+      - headline: 'Automatische Kategorisierung mit Classify'
+        text: 'Lassen Sie Einträge automatisch nach Kategorien wie „Frühstück“, „Snack“, „hoher Zuckeranteil“ oder „verdächtig bei Beschwerden“ klassifizieren. So erkennen Sie schneller Muster in Ihrem Essverhalten und können gezielter mit Expertinnen und Experten darüber sprechen.'
+        icon: table
+      - headline: 'Automatische Texterkennung mit OCR'
+        text: 'Scannen oder fotografieren Sie Lebensmittelverpackungen, Handzettel von Ernährungsberatungen oder Pläne aus Kliniken und lassen Sie relevante Informationen automatisch erkennen. Die OCR-Funktion liest Texte aus Bildern aus und macht sie für weitere Auswertungen verfügbar.'
+        icon: image
+      - headline: 'Intelligente Datenextraktion mit Extract'
+        text: 'Mit der Extract-Funktion können Sie gezielt Informationen wie Kalorienangaben, Allergene oder empfohlene Tagesmengen aus Texten ziehen und in eigene Spalten schreiben lassen. Das reduziert manuellen Aufwand und sorgt für einheitliche Datenstrukturen.'
+        icon: layer-group
+      - headline: 'Zusammenfassungen mit Summarize'
+        text: 'Lassen Sie sich längere Notizen oder Freitextbeschreibungen – etwa zu Beschwerden oder Essenssituationen – automatisch zusammenfassen. Die Summarize-Funktion erstellt Kurzfassungen, die Sie für Ärztinnen, Ernährungsberater oder Tagebuch-Rückblicke nutzen können.'
+        icon: circle-info
+      - headline: 'Individuelle KI-Regeln mit Custom Prompt'
+        text: 'Mit Custom Prompts definieren Sie eigene KI-Anweisungen rund um Ihr Ernährungstagebuch. Beispiele: Hinweise auf auffällige Muster bei bestimmten Lebensmitteln, Vorschläge für Fragen zum nächsten Arzttermin oder kurze Wochenreports zu Essgewohnheiten und Wohlbefinden.'
+        icon: wand-magic-sparkles
+      - headline: 'Reports auf Knopfdruck'
+        text: 'Erstellen Sie automatisch Berichte über Ihre Essgewohnheiten, dokumentierte Beschwerden und mögliche Auslöser. Die KI fasst Ihre Daten strukturiert zusammen, sodass Sie diese einfach exportieren oder mit behandelnden Fachpersonen besprechen können.'
+        icon: arrow-right
+
     - name: "content-6"
       weight: 15
       classes:
@@ -125,10 +150,19 @@ sections:
       subtitle: 
       items:
       - q: "Kann die App Ernährungstagebuch für Dritte freigegeben werden?"
-        a: 'Ja, Sie können Ihr digitales Ernährungstagebuch auf verschiedene Weise für Dritte, z. B. Ärzte oder Therapeuten, freigeben und jedem Nutzer individuelle Zugriffsrechte geben. Wenn Sie Ihre Ernährungsprotokoll App mit Dritten teilen möchten, die keinen SeaTable-Account haben, erhalten diese nur Lesezugriff.'
+        a: 'Ja, Sie können Ihr digitales Ernährungstagebuch auf verschiedene Weise für Dritte, zum Beispiel Ärztinnen, Therapeuten oder Ernährungsberater, freigeben und jedem Nutzer individuelle Zugriffsrechte geben. Personen ohne SeaTable-Account können über freigegebene Ansichten lesend auf ausgewählte Daten zugreifen.'
       - q: "Ist meine Essensprotokoll App bei SeaTable sicher?"
-        a: "Ja, SeaTable steht für höchste Ansprüche an Datenschutz und Datensicherheit. Die SeaTable Cloud wird ausschließlich auf zertifizierten Servern in Deutschland gehostet und ist 100 % DSGVO-konform."
+        a: 'Ja, SeaTable steht für hohe Anforderungen an Datenschutz und Datensicherheit. Die SeaTable Cloud wird ausschließlich auf zertifizierten Servern in Deutschland gehostet und ist vollständig DSGVO-konform. Sie entscheiden jederzeit selbst, wer welche Daten sehen oder bearbeiten darf.'
       - q: "Ist die Ernährungstagebuch App kostenlos nutzbar?"
-        a: 'Ja, Sie können die Ernährungsprotokoll App kostenlos nutzen, ohne zeitliche Einschränkungen oder limitierte Funktionen. Alles was Sie dafür benötigen, ist ein SeaTable Free-Account.'
-      
+        a: 'Ja, Sie können die Ernährungsprotokoll App kostenlos nutzen. Mit dem Free-Account starten Sie ohne zeitliche Begrenzung und können die Vorlage direkt an Ihre Bedürfnisse anpassen. Wenn Ihr Projekt wächst, können Sie später jederzeit auf einen kostenpflichtigen Tarif mit zusätzlichen Funktionen wechseln.'
+      - q: "Kann ich mein Ernährungstagebuch anpassen und erweitern?"
+        a: 'Ja, Sie können zusätzliche Spalten, Tabellen, Automatisierungen oder weitere App-Seiten hinzufügen – zum Beispiel für Rezepte, Wochenpläne, Bewegungsprotokolle oder Stimmungstracking. SeaTable lässt sich ohne Programmierkenntnisse individuell erweitern und bleibt dabei flexibel.'
+      - q: "Kann ich mein Ernährungstagebuch exportieren oder ausdrucken?"
+        a: 'Ja, Ihre Daten können Sie als Datei exportieren oder über passende Ansichten für Ausdrucke vorbereiten, zum Beispiel als Übersicht für Arzttermine, Ernährungsberatung oder für die eigene Dokumentation. So behalten Sie auch offline den Überblick über Ihre Einträge.'
+      - q: "Kann ich die Vorlage Ernährungstagebuch auch mit anderen Vorlagen kombinieren?"
+        a: 'Ja, Sie können das Ernährungstagebuch mit weiteren SeaTable-Vorlagen kombinieren, etwa mit einem Medikamentenplan oder einer allgemeinen [Gesundheitsakte]({{< relref "templates/healthcare/electronic-health-record" >}}). So entsteht nach und nach eine zentrale, ganzheitliche Übersicht über Ihre Gesundheitsdaten – alles in einer Lösung.'
+      - q: "Kann ich Erinnerungen für Einträge oder bestimmte Uhrzeiten einrichten?"
+        a: 'Ja, mit Automatisierungen können Sie Erinnerungs-E-Mails oder Benachrichtigungen einrichten – zum Beispiel, um Mahlzeiten zeitnah zu dokumentieren oder regelmäßige Check-ins für Beschwerden und Wohlbefinden zu planen. Das unterstützt Sie dabei, Ihr Ernährungstagebuch konsequent zu führen.'
+      - q: "Eignet sich die Ernährungstagebuch Vorlage auch für mehrere Personen?"
+        a: 'Ja, Sie können die Vorlage Ernährungstagebuch auch für mehrere Personen verwenden, etwa für Familienmitglieder oder Klientinnen in der Beratung. Legen Sie dazu entweder separate Tabellen oder Filter/Ansichten pro Person an und steuern Sie über Berechtigungen, wer welche Daten sehen darf.'      
 ---

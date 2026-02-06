@@ -30,7 +30,7 @@ sections:
       subtitle: Diario digital de alimentos
       text: 
       items:
-        - icon: 'pencil'
+        - icon: 'puzzle-piece'
           headline: 'Flexible'
           text: 'Puede personalizar y complementar fácilmente nuestra plantilla gratuita para adaptarla a sus necesidades individuales, sin ningún esfuerzo.'
         - icon: 'pencil'
@@ -40,7 +40,7 @@ sections:
           headline: 'Claramente dispuestos'
           text: 'Agrupe y filtre sus entradas y visualice las correlaciones: perfecto para sospechas de alergias.'
         - icon: 'globe'
-          headline: 'Aplicación universal'
+          headline: 'Creador de aplicaciones'
           text: 'Utilice la aplicación para registrar datos y como interfaz de un diario alimentario, con máscaras de entrada y una base de conocimientos.' 
         - icon: 'bell'
           headline: 'Recuerdos'
@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Con SeaTable a su aplicación de registro nutricional'
       subtitle: 'Utilice gratuitamente la aplicación del diario de alimentos en línea'
-      description: 'SeaTable es una moderna solución de base de datos sin código y tan fácil de usar como una hoja de cálculo, con todas las funciones necesarias para un diario de alimentos.'
+      description: 'SeaTable es una moderna solución de base de datos sin código y tan fácil de usar como una hoja de cálculo, con todas las funciones necesarias para un [diario alimentos]({{< relref "posts/ernaehrungstagebuch" >}}).'
       items:
       - text: 'Personalizable: Cree una aplicación de registro nutricional según sus deseos.'
       - text: 'Acceso desde cualquier lugar: puede acceder a sus datos en cualquier momento a través del acceso en línea.'
@@ -106,6 +106,31 @@ sections:
         - label: Utilice ahora el diario de alimentos
           link: pages/registration
           id: es-vorlage-ernährungstagebuch-registration-3
+    
+    - name: "content-9"
+      weight: 16
+      title: 'Diario alimenticio basado en IA con SeaTable'
+      subtitle: 'Reconocer patrones, utilizar los datos de forma más inteligente'
+      description: 'Con SeaTable, dispone de [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) que le ayudarán a evaluar su diario alimenticio. Analice textos, extraiga información de documentos y resuma automáticamente los resultados.'
+      items:
+      - headline: 'Categorización automática con Classify'
+        text: 'Clasifique automáticamente las entradas por categorías como «desayuno», «merienda», «alto contenido en azúcar» o «sospechoso en caso de molestias». De este modo, podrá identificar más rápidamente patrones en sus hábitos alimenticios y hablar de ellos con mayor precisión con los expertos.'
+        icon: table
+      - headline: 'Reconocimiento automático de texto con OCR'
+        text: 'Escanee o fotografíe envases de alimentos, folletos de asesoramiento nutricional o planes de clínicas y deje que la aplicación reconozca automáticamente la información relevante. La función OCR lee los textos de las imágenes y los pone a disposición para su posterior evaluación.'
+        icon: image
+      - headline: 'Extracción inteligente de datos con Extract'
+        text: 'Con la función Extract, puede extraer información específica, como datos calóricos, alérgenos o cantidades diarias recomendadas, de los textos y escribirla en columnas propias. Esto reduce el trabajo manual y garantiza estructuras de datos uniformes.'
+        icon: layer-group
+      - headline: 'Resúmenes con Summarize'
+        text: 'Deje que se resuman automáticamente las notas más largas o las descripciones de texto libre, por ejemplo, sobre molestias o situaciones relacionadas con la alimentación. La función «Resumir» crea resúmenes que puede utilizar para médicos, nutricionistas o revisiones de diarios.'
+        icon: circle-info
+      - headline: 'Reglas de IA individuales con Custom Prompt'
+        text: 'Con las indicaciones personalizadas, puede definir sus propias instrucciones de IA relacionadas con su diario alimenticio. Ejemplos: indicaciones sobre patrones llamativos en determinados alimentos, sugerencias para preguntas en la próxima cita con el médico o breves informes semanales sobre hábitos alimenticios y bienestar.'
+        icon: wand-magic-sparkles
+      - headline: 'Informes con solo pulsar un botón'
+        text: 'Cree automáticamente informes sobre sus hábitos alimenticios, molestias documentadas y posibles desencadenantes. La IA resume sus datos de forma estructurada para que pueda exportarlos fácilmente o comentarlos con los profesionales que le tratan.'
+        icon: arrow-right
 
     - name: "content-6"
       weight: 15
@@ -121,13 +146,23 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'Preguntas más frecuentes - Plantilla de aplicación de diario nutricional'
+      title: 'Preguntas frecuentes: plantilla de la aplicación «Diario alimenticio»'
       subtitle: 
       items:
-      - q: "¿Se puede compartir la aplicación del diario de alimentos con terceros?"
-        a: 'Sí, puede compartir su diario digital de comidas con terceros, por ejemplo, médicos o terapeutas, de varias maneras y otorgar a cada usuario derechos de acceso individuales. Si desea compartir su aplicación de diario de comidas con terceros que no tengan una cuenta SeaTable, sólo tendrán acceso de sólo lectura.'
-      - q: "¿Es segura mi aplicación de registro de alimentos con SeaTable?"
-        a: "Sí, SeaTable defiende los más altos estándares de protección y seguridad de datos. La Nube SeaTable está alojada exclusivamente en servidores certificados en Alemania y cumple al 100% con la GDPR."
-      - q: "¿Es gratuita la aplicación del diario de alimentos?"
-        a: 'Sí, puede utilizar la aplicación de registro nutricional de forma gratuita, sin restricciones de tiempo ni funciones limitadas. Todo lo que necesita es una cuenta SeaTable Free.'
----      
+      - q: "¿Se puede compartir la aplicación «Diario alimenticio» con terceros?"
+        a: 'Sí, puede compartir su diario alimenticio digital con terceros, como médicos, terapeutas o nutricionistas, de diferentes maneras y otorgar derechos de acceso individuales a cada usuario. Las personas que no tengan una cuenta de SeaTable pueden acceder a datos seleccionados en modo de lectura a través de vistas compartidas.'
+      - q: "¿Mi aplicación de registro de comidas está segura en SeaTable?"
+        a: 'Sí, SeaTable cumple con los más altos requisitos en materia de protección y seguridad de datos. La nube de SeaTable se aloja exclusivamente en servidores certificados en Alemania y cumple totalmente con el RGPD. Usted decide en todo momento quién puede ver o editar qué datos.'
+      - q: "¿La aplicación del diario alimenticio es gratuita?"
+        a: 'Sí, puede utilizar la aplicación de registro alimenticio de forma gratuita. Con la cuenta gratuita, puede empezar sin límite de tiempo y adaptar la plantilla directamente a sus necesidades. Si su proyecto crece, puede cambiar en cualquier momento a una tarifa de pago con funciones adicionales.'
+      - q: "¿Puedo modificar y ampliar mi diario alimenticio?"
+        a: 'Sí, puede añadir columnas, tablas, automatizaciones o páginas de aplicaciones adicionales, por ejemplo, para recetas, planes semanales, registros de actividad física o seguimiento del estado de ánimo. SeaTable se puede ampliar de forma individualizada sin necesidad de conocimientos de programación y sigue siendo flexible.'
+      - q: "¿Puedo exportar o imprimir mi diario alimenticio?"
+        a: 'Sí, puede exportar sus datos como archivo o prepararlos para imprimir mediante las vistas adecuadas, por ejemplo, como resumen para citas médicas, asesoramiento nutricional o para su propia documentación. De este modo, podrá mantener una visión general de sus entradas incluso sin conexión.'
+      - q: "¿Puedo combinar la plantilla del diario alimenticio con otras plantillas?"
+        a: 'Sí, puede combinar el diario alimenticio con otras plantillas de SeaTable, como un plan de medicación o un [expediente médico]({{< relref "templates/healthcare/electronic-health-record" >}}) general. De este modo, se crea poco a poco una visión general centralizada y completa de sus datos de salud, todo en una sola solución.'
+      - q: "¿Puedo configurar recordatorios para entradas o horas específicas?"
+        a: 'Sí, con las automatizaciones puede configurar correos electrónicos recordatorios o notificaciones, por ejemplo, para documentar las comidas a tiempo o planificar controles periódicos para detectar molestias y comprobar el bienestar. Esto le ayudará a llevar su diario alimenticio de forma sistemática.'
+      - q: "¿La plantilla del diario alimenticio también es adecuada para varias personas?"
+        a: 'Sí, puede utilizar la plantilla del diario alimenticio para varias personas, por ejemplo, para miembros de la familia o clientes en el ámbito de la asesoría. Para ello, cree hojas de cálculo o filtros/vistas separados para cada persona y controle quién puede ver qué datos mediante permisos.'      
+---
