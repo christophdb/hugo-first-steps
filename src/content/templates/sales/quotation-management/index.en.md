@@ -164,7 +164,7 @@ sections:
       box-position: [right!]
       items:
       - headline: GDPR compliant
-        text: 'GDPR compliantIf you use SeaTable Cloud or the integrated AI, all offer data remains in Europe—the infrastructure is operated exclusively on servers in Germany.'
+        text: 'If you use SeaTable Cloud or the integrated AI, all offer data remains in Europe—the infrastructure is operated exclusively on servers in Germany.'
       - headline: 2FA and SSO
         text: 'SeaTable supports common authentication techniques such as two-factor authentication and single sign-on, allowing you to control who can access your data.'
 
