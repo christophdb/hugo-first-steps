@@ -165,7 +165,7 @@ sections:
       box-position: [right!]
       items:
       - headline: DSGVO-konform
-        text: 'DSGVO-konformWenn Sie SeaTable Cloud oder die integrierte KI nutzen, bleiben alle Angebotsdaten in Europa – die Infrastruktur wird ausschließlich auf Servern in Deutschland betrieben.'
+        text: 'Wenn Sie SeaTable Cloud oder die integrierte KI nutzen, bleiben alle Angebotsdaten in Europa – die Infrastruktur wird ausschließlich auf Servern in Deutschland betrieben.'
       - headline: 2FA und SSO
         text: 'SeaTable unterstützt gängige Authentifizierungstechniken wie Zwei-Faktor-Authentifizierung und Single Sign-on, sodass Sie kontrollieren, wer auf Ihre Daten zugreifen darf.'
 

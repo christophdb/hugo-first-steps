@@ -165,7 +165,7 @@ sections:
       box-position: [right!]
       items:
       - headline: Conforme au RGPD
-        text: "Conforme au RGPD Si vous utilisez SeaTable Cloud ou l'IA intégrée, toutes les données relatives aux offres restent en Europe – l'infrastructure est exclusivement exploitée sur des serveurs situés en Allemagne."
+        text: "Si vous utilisez SeaTable Cloud ou l'IA intégrée, toutes les données relatives aux offres restent en Europe – l'infrastructure est exclusivement exploitée sur des serveurs situés en Allemagne."
       - headline: 2FA et SSO
         text: "SeaTable prend en charge les techniques d'authentification courantes telles que l'authentification à deux facteurs et l'authentification unique, vous permettant ainsi de contrôler qui a accès à vos données."
 
