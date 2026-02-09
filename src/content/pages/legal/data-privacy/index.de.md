@@ -13,7 +13,7 @@ aliases:
 ---
 
 <div class="max-w-[800px] mx-auto mt-8">
-<p>Auf dieser Seite finden Sie die Datenschutzerklärung der SeaTable GmbH für dieses Online Angebot. Durch die Nutzung unserer Website erklären Sie sich mit unserer Datenschutzerklärung einverstanden und stimmen deren Bedingungen zu.</p>
+<p>Auf dieser Seite finden Sie die Datenschutzerklärung der SeaTable GmbH für dieses Online Angebot. Durch dessen Nutzung erklären Sie sich mit unserer Datenschutzerklärung einverstanden und stimmen deren Bedingungen zu.</p>
 
 <p>Für ein leichteres Verständnis haben wir das juristische Fachjargon in leicht verständlicher Sprache zusammengefasst. Wie Ihnen wahrscheinlich bewusst ist,  sind die Zusammenfassungen rechtlich nicht bindend.</p>
 </div>
@@ -37,7 +37,7 @@ Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren persone
 Die Datenverarbeitung auf diesem Online Angebot erfolgt durch den Betreiber SeaTable GmbH, dessen Kontaktdaten Sie dem Impressum entnehmen können.
 
 **Wie erfassen wir Ihre Daten?**  
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, z.B. wenn Sie sich für unseren Cloud Service SeaTable Cloud registrieren, Sie sich für unseren Newsletter anmelden, Sie uns eine Anfrage schicken oder ein Benutzerkonto für das SeaTable Forum erstellen.  
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, z.B. wenn Sie sich für unseren Cloud-Service SeaTable Cloud registrieren, Sie sich für unseren Newsletter anmelden, Sie uns eine Anfrage schicken oder ein Benutzerkonto für das SeaTable Forum erstellen.  
 Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch des Online Angebots durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem, Uhrzeit des Seitenaufrufs, IP-Adresse). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie dieses Online Angebot aufrufen.  
 Wir wenden das Prinzip der Datensparsamkeit konsequent an. Wir verzichten auf den Einsatz von sogenannten Third-Party-Cookies (z.B. Google Analytics). Erfasste Daten werden pseudonymisiert, so daß Sie nicht mehr einer Person zugeordnet werden können (z.B. IP-Adressen werden ohne die letzten drei Stellen gespeichert).
 
@@ -226,10 +226,11 @@ Das Online Angebot verwendet sogenannte Cookies. Cookies sind von Ihrem Webbrows
 
 Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da diese für die sichere elektronische Kommunikation benötigt werden und bestimmte Funktionen eines Webangebots ohne diese nicht funktionieren würden. Zu diesen notwendigen Cookies gehören Cookies für die Sprach- und Regionaleinstellungen, für die Warenkorbfunktion und solche zum Schutz vor betrügerischen Aktivitäten. Andere Cookies dienen dazu, Daten über das Nutzerverhalten zu sammeln und die Leistung zu verbessern, sogenannte Performance Cookies, oder personalisierte Werbung anzuzeigen, sogenannte Werbe- bzw. Trackingcookies.
 
-Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies stehen mit großer Wahrscheinlichkeit einige Funktionen des Online Angebots nicht zur Verfügung.
+Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies für dieses Online Angebot stehen einige Funktionen des Online Angebots nicht zur Verfügung.
 
 **Zweck und Rechtsgrundlage**  
-Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen und zuverlässigen Betrieb notwendig sind. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, sofern keine andere Rechtsgrundlage angegeben ist. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies auf den Endgeräten zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste.  
+Dieses Online Angebot verwendet ausschließlich Cookies, die für den ordnungsgemäßen und zuverlässigen Betrieb notwendig sind. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, sofern keine andere Rechtsgrundlage angegeben ist. Der Betreiber des Online Angebots hat ein berechtigtes Interesse an der Speicherung von Cookies auf den Endgeräten zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste.
+
 Das Online Angebot nutzt keine Cookies von Drittanbietern, sogenannte Third-Party-Cookies.
 
 **Speicherdauer**  
@@ -260,9 +261,9 @@ Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie 
 
 ### Registrierung
 
-Sie können sich auf diesem Online Angebot registrieren, um zusätzliche Funktionen zu nutzen (z.B. SeaTable Cloud). Die dazu eingegebenen Daten verwenden wir nur zum Zwecke der Nutzung des jeweiligen Angebotes oder Dienstes, für den Sie sich registriert haben. Die für die Registrierung erforderlichen Angaben müssen vollständig angegeben werden. Anderenfalls werden wir die Registrierung ablehnen.
+Zu diesem Online Angebot gehören Dienste, für die Sie sich registrieren müssen, um diese nutzen zu können (z.B. SeaTable Cloud). Die dazu eingegebenen Daten verwenden wir nur zum Zwecke der Nutzung des jeweiligen Angebotes oder Dienstes, für den Sie sich registriert haben. Die für die Registrierung erforderlichen Angaben müssen vollständig angegeben werden. Anderenfalls werden wir die Registrierung ablehnen.
 
-Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendigen Änderungen nutzen wir die bei der Registrierung angegebene E-Mail-Adresse, um Sie auf diesem Wege zu informieren.
+Wir nutzen die bei der Registrierung angegebene E-Mail-Adresse, um Sie über wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendigen Änderungen zu informieren.
 
 **Zweck und Rechtsgrundlage**  
 Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses und ggf. zur Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. b DSGVO).
@@ -280,9 +281,7 @@ Wir nutzen auch Cookies. Wir nutzen aber nur solche, die für den Betrieb unsere
 
 Auch ganz wichtig: Wir nutzen keine fremden Cookies, sogenannte Third-Party-Cookies. Sie werden bei uns keine Cookies oder Tracker von Google, Meta, TikTok und Co. finden. Die auf diesem Online Angebot verwendeten Cookies können auch nur von unseren eigenen Servern ausgelesen werden.
 
-Wir betreiben großen Aufwand, um alle unsere Softwarelösungen auf eigenen Servern zu betreiben. Folglich sind wir die Einzigen, die Ihre Daten zu Gesicht bekommen. Wir geben diese an niemanden weiter.
-
-Einzig unser E-Mails verschicken wir nicht selbst. Das übernimmt Brevo für uns. Später mehr dazu.
+Wir betreiben großen Aufwand, um möglichst viele Softwarelösungen selbst zu betreiben. In den Fällen, in denen wir das tun, sind wir die Einzigen, die Ihre Daten zu Gesicht bekommen. Natürlich geben wir diese an niemanden weiter. Nur die Zahlungsabwicklung für unseren Cloud-Dienst und den Versand unserer E-Mails übernehmen wir nicht selbst. Dafür nutzen wir Stripe bzw. Brevo. Später mehr dazu.
 
 {{< /legal-2col >}}
 
@@ -331,7 +330,7 @@ Mit Brevo läßt sich der Versand von Newsletter organisieren und analysieren. S
 
 Außerdem können wir erkennen, ob nach dem Öffnen / Anklicken bestimmte vorher definierte Aktionen durchgeführt wurden (Conversion-Rate). Wir können so z.B. erkennen, ob Sie nach dem Anklicken des Newsletters einen Kauf getätigt haben.
 
-Brevo ermöglicht es uns auch, die Newsletter-Empfänger anhand verschiedener Kategorien zu unterteilen (Clustering). Dabei lassen sich die Newsletterempfänger z.B. nach Alter, Geschlecht oder Wohnort unterteilen. Auf diese Weise lassen sich die Newsletter besser an die jeweiligen Zielgruppen anpassen.
+Brevo ermöglicht es uns auch, die Newsletterempfänger anhand verschiedener Kategorien zu unterteilen (Clustering). Dabei lassen sich die Newsletterempfänger z.B. nach Alter, Geschlecht oder Wohnort unterteilen. Auf diese Weise lassen sich die Newsletter besser an die jeweiligen Zielgruppen anpassen.
 
 Ausführliche Informationen zu den Funktionen von Brevo finden Sie unter [https://www.brevo.com/de/features/email-marketing/](https://www.brevo.com/de/features/email-marketing/).
 
@@ -341,7 +340,7 @@ Die Datenschutzerklärung von Brevo finden Sie unter [https://www.brevo.com/de/
 Die Nutzung von Brevo erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses (Art. 6 Abs. 1 lit.b DSGVO) und der Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. f DSGVO). Sie können den Empfang von Newslettern jederzeit abbestellen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 **Speicherdauer**  
-Die von Ihnen zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter bei uns bzw. dem Newsletterdiensteanbieter gespeichert und nach der Abbestellung des Newsletters aus der Newsletterverteilerliste gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden, bleiben hiervon unberührt.
+Die von Ihnen zum Zwecke des Newsletterbezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter bei uns bzw. dem Newsletterdiensteanbieter gespeichert und nach der Abbestellung des Newsletters aus der Newsletterverteilerliste gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden, bleiben hiervon unberührt.
 
 Nach Ihrer Austragung aus der Newsletterverteilerliste wird Ihre E-Mail-Adresse bei uns bzw. dem Newsletterdiensteanbieter ggf. in einer Blacklist gespeichert, um künftige Mailings zu verhindern. Die Daten aus der Blacklist werden nur für diesen Zweck verwendet und nicht mit anderen Daten zusammengeführt. Dies dient sowohl Ihrem Interesse als auch unserem Interesse an der Einhaltung der gesetzlichen Vorgaben beim Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO). Die Speicherung in der Blacklist ist zeitlich nicht befristet. Sie können der Speicherung widersprechen, sofern Ihre Interessen unser berechtigtes Interesse überwiegen.
 
@@ -354,7 +353,7 @@ Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Brevo e
 
 Wir werden Ihnen gelegentlich Newsletter mit Informationen, Neuigkeiten und Angeboten per E-Mail schicken. Wenn Sie dies nicht wollen, dann können Sie sich von unseren Newslettern jederzeit abmelden. Jeder Newsletter enthält in der Fußzeile einen Link zur Abmeldung.
 
-Unsere Newsletter verschicken wir über Brevo, die in Deutschland ansässig sind.
+Unsere Newsletter verschicken wir über Brevo. Brevo ist in Deutschland ansässig.
 
 {{< /legal-2col >}}
 
@@ -368,7 +367,7 @@ Dieses Online Angebot verlinkt Videos über Text- und Bildlinks von YouTube. Anb
 
 Die Verlinkung eines Videos in einer Seite dieses Online Angebots führt nicht dazu, dass beim Aufruf der Seite Daten an YouTube übermittelt oder Cookies auf Ihrem Endgerät gespeichert werden. Beim Aufruf der Seite mit einem verlinkten Video werden ausschließlich Daten von den Servern dieses Online Angebots geladen.
 
-Erst durch Klick auf den Link werden Sie auf die Seite von YouTube umgeleitet und eine Verbindung zu den Servern von YouTube hergestellt. In diesem Fall wird YouTube unter anderem mitgeteilt, von welcher Seite Sie zu dem Video abgesprungen sind. Wenn Sie in Ihrem YouTube Account eingeloggt sind, ermöglichen Sie YouTube, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen.
+Erst durch Klick auf den Link werden Sie auf die Seite von YouTube umgeleitet und eine Verbindung zu den Servern von YouTube hergestellt. In diesem Fall wird YouTube unter anderem mitgeteilt, von welcher Seite Sie zu dem Video abgesprungen sind. Wenn Sie in Ihrem Google Account eingeloggt sind, ermöglichen Sie Google, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen.
 
 Weitere Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de).
 
@@ -388,9 +387,9 @@ Wir nutzen YouTube Videos und Google Fonts auf unserer Webseite. Es werden aber 
 
 {{< legal-2col >}}
 
-Zur Bearbeitung von Nutzeranfragen verwenden wir das Helpdesk- und Ticket-System Zammad (Zammad). Entwickler der Software ist die Zammad GmbH, Marienstraße 18, 10117 Berlin, Deutschland. Die Software ist unter der GNU Affero General Public License (AGPL), Version 3, veröffentlicht und ist damit freie, quelloffene Software.
+Zur Bearbeitung von Anfragen verwenden wir das Helpdesk- und Ticket-System Zammad (Zammad). Entwickler der Software ist die Zammad GmbH, Marienstraße 18, 10117 Berlin, Deutschland. Die Software ist unter der GNU Affero General Public License (AGPL), Version 3, veröffentlicht und ist damit freie, quelloffene Software.
 
-Wir haben Zammad auf einem eigenen Server installiert. Wenn Sie an uns eine Anfrage per E-Mail senden (ausgenommen E-Mails an persönliche Postfächer), dann werden alle mit diesem Kommunikationsvorgang verbundenen Daten ausschließlich auf diesem verarbeitet.
+Wir haben Zammad auf einem eigenen Server installiert. Wenn Sie an uns eine Anfrage per E-Mail senden (ausgenommen E-Mails an persönliche Postfächer), dann werden alle mit diesem Kommunikationsvorgang verbundenen Daten ausschließlich auf diesem verarbeitet. Eine Weitergabe findet nicht statt.
 
 **Zweck und Rechtsgrundlage**  
 Wir nutzen Zammad, um Ihre Anfragen schnell und effizient bearbeiten zu können. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
@@ -400,7 +399,7 @@ Die an uns gerichteten Anfragen und Nachrichten verbleiben bei uns, bis Sie uns 
 
 ===
 
-Wir nutzen das Ticketsystem Zammad, welches wir auf einem eigenen Server installiert haben. Wenn Sie uns eine Anfrage schicken, speichern und beantworten diese.
+Wir nutzen das Ticketsystem Zammad, um Anfragen an uns schnell und nachvollziehbar zu beantworten. Zammad haben wir auf einem eigenen Server installiert, so dass Ihre Daten nur bei uns bleiben.
 
 {{< /legal-2col >}}
 
@@ -416,7 +415,7 @@ Die erhobenen Kundendaten werden nach Abschluss des Auftrags oder Beendigung der
 
 ### Datenübermittlung bei Vertragsschluss für Dienstleistungen und digitale Inhalte
 
-Wir übermitteln personenbezogene Daten an Dritte nur dann, wenn dies im Rahmen der Vertragsabwicklung notwendig ist, etwa an das mit der Zahlungsabwicklung beauftragte Kreditinstitut.
+Wir übermitteln personenbezogene Daten an Dritte nur dann, wenn dies im Rahmen der Vertragsabwicklung notwendig ist, etwa an den mit der Zahlungsabwicklung beauftragte Dienstleister.
 
 Eine weitergehende Übermittlung der Daten erfolgt nicht bzw. nur dann, wenn Sie der Übermittlung ausdrücklich zugestimmt haben. Eine Weitergabe Ihrer Daten an Dritte ohne ausdrückliche Einwilligung, etwa zu Zwecken der Werbung, erfolgt nicht.
 
@@ -440,11 +439,11 @@ Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Stripe 
 
 ===
 
-Wir fragen nur die notwendigsten Informationen von Ihnen ab:
+Wir erfassen und verarbeiten nur die notwendigsten Kunden- und Vertragsinformationen:
 
-- vor der Registrierung gar nicht
-- zur Registrierung nur Namen und E-Mail-Adresse
-- Bei einem kostenpflichtigen Abonnement nur die Rechnungsadresse und Kreditkarteninformation
+- Beim einfachen Seitenbesuch: keine
+- Bei einer Registrierung: Nur Namen und E-Mail-Adresse
+- Bei Upgrade auf ein kostenpflichtiges Abonnement: nur Rechnungsinformationen (z.B. Adresse, Empfänger, Steuernummer) sowie Zahlinformationen (z.B. Kreditkartennummer)
 
 Die Kreditkartendaten verarbeiten wir nicht selbst, sondern nutzen den Zahlungsdienstleister Stripe.
 
