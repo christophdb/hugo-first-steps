@@ -5,7 +5,7 @@ date: '2024-08-16'
 url: '/ru/shablon/debitorskaya-zadolzhennost'
 aliases:
     - '/ru/шаблон/crm-accounts-receivable'
-category: 'sales'
+category: 'finance'
 functions:
 seo:
     title: 'CRM дебиторская задолженность: полный контроль'

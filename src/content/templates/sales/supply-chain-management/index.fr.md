@@ -5,7 +5,7 @@ date: '2024-08-24'
 url: '/fr/modele/gestion-chaine-logistique'
 aliases:
     - '/fr/modele/supply-chain-management/'
-category: 'sales'
+category: 'operations'
 functions:
 seo:
     title: 'Gestion de la chaîne logistique moderne'

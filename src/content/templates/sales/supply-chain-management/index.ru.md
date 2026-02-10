@@ -5,7 +5,7 @@ date: '2024-08-24'
 url: '/ru/shablon/upravleniya-tsepockoy-postavok'
 aliases:
     - '/ru/шаблон/supply-chain-management'
-category: 'sales'
+category: 'operations'
 functions:
 seo:
     title: 'Управление цепочкой поставок: онлайн-решение'

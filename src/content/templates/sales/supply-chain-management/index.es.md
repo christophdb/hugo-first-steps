@@ -5,7 +5,7 @@ date: '2024-08-24'
 url: '/es/plantilla/gestion-cadena-suministro'
 aliases:
     - '/es/plantilla/supply-chain-management/'
-category: 'sales'
+category: 'operations'
 functions:
 seo:
     title: 'Gestión de la cadena de suministro digital'

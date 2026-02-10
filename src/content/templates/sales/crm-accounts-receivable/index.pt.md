@@ -5,7 +5,7 @@ date: '2024-08-16'
 url: '/pt/modelo/crm-contas-receber'
 aliases:
     - '/pt/modelo/crm-accounts-receivable'
-category: 'sales'
+category: 'finance'
 functions:
 seo:
     title: 'CRM contas a receber: centralize faturas e pagamentos'

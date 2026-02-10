@@ -5,7 +5,7 @@ date: '2024-08-16'
 url: '/es/plantilla/crm-cuentas-cobrar'
 aliases:
     - '/es/plantilla/crm-accounts-receivable'
-category: 'sales'
+category: 'finance'
 functions:
 seo:
     title: 'CRM cuentas por cobrar: controla tus facturas'

@@ -3,7 +3,7 @@ title: 'Supply chain management'
 description: 'Automate inventory, manage supply and demand digitally, and improve transparency at every stage of your supply chain.'
 date: '2024-08-24'
 url: '/template/supply-chain-management'
-category: 'sales'
+category: 'operations'
 functions:
 seo:
     title: 'Supply Chain Management: Plan & Track'

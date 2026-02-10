@@ -3,7 +3,7 @@ title: 'CRM - accounts receivable'
 description: 'Organize invoices, monitor payments, manage reminders and centralize all receivables processes for your company.'
 date: '2024-08-16'
 url: '/template/crm-accounts-receivable'
-category: 'sales'
+category: 'finance'
 functions:
 seo:
     title: 'CRM Accounts Receivable: Track Invoices & Payments'

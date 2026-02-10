@@ -5,7 +5,7 @@ date: '2024-08-24'
 url: '/pt/modelo/gestao-cadeia-suprimentos'
 aliases:
     - '/pt/modelo/supply-chain-management/'
-category: 'sales'
+category: 'operations'
 functions:
 seo:
     title: 'Gestão de cadeia de suprimentos simplificada'

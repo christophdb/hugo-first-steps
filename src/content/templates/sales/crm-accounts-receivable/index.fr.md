@@ -5,7 +5,7 @@ date: '2024-08-16'
 url: '/fr/modele/crm-comptes-clients'
 aliases:
     - '/fr/modele/crm-accounts-receivable'
-category: 'sales'
+category: 'finance'
 functions:
 seo:
     title: 'CRM comptes clients : gestion des factures et paiements'
