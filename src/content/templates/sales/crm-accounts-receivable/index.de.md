@@ -5,7 +5,7 @@ date: '2024-08-16'
 url: '/de/vorlage/crm-debitorenbuchhaltung'
 aliases:
     - '/de/vorlage/crm-accounts-receivable'
-category: 'sales'
+category: 'finance'
 functions:
 seo:
     title: 'CRM Debitorenbuchhaltung: Rechnungen und Forderungen im Griff'

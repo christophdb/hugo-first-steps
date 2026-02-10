@@ -5,7 +5,7 @@ date: '2024-08-24'
 url: '/de/vorlage/lieferkettenmanagement'
 aliases:
     - '/de/vorlage/supply-chain-management/'
-category: 'sales'
+category: 'operations'
 functions:
 seo:
     title: 'Lieferkettenmanagement: SCM digital steuern'
