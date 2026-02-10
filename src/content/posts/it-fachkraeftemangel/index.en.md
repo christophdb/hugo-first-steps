@@ -106,9 +106,9 @@ No-code platforms bring the following benefits to your company:
 
 ## Use SeaTable as a no-code platform
 
-SeaTable makes it easy to take advantage of no-code development. Start with the **free version** and discover all the basic features of the no-code solution: intuitive [data management]({{< relref "posts/20250317-datenmanagement" >}}), easy visualization and evaluation (e.g. with views and statistics) and the **integrated no-code app builder**, with which you can [create your own applications]({{< relref "posts/20250318-app-erstellen" >}}) without having to write a single line of code.  
-  
-In contrast to non-European solutions, SeaTable offers you secure **data protection**: When you implement the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) as a no-code platform, your data is stored in German data centers in compliance with GDPR and protected from being passed on to servers in the USA and other countries.  
+SeaTable makes it easy to take advantage of no-code development. Start with the **free version** and discover all the basic features of the no-code solution: intuitive [data management]({{< relref "posts/20250317-datenmanagement" >}}), easy visualization and evaluation (e.g. with views and statistics) and the **integrated no-code app builder**, with which you can [create your own applications]({{< relref "posts/20250318-app-erstellen" >}}) without having to write a single line of code. The range of functions is supplemented by integrated AI features that allow you to automatically analyze, classify, and enrich data. 
+
+In contrast to non-European solutions, SeaTable offers you secure **data protection**: When you implement the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) as a no-code platform, your data is stored in German data centers in compliance with GDPR and protected from being passed on to servers in the USA and other countries - even when using integrated AI functions.  
   
 Another advantage that makes [SeaTable as a no-code platform]({{< relref "/" >}}) stand out is the **free choice of deployment type**. Benefit from the convenience and scalability of the SeaTable Cloud or retain full control and data sovereignty with an on-premises installation of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 
