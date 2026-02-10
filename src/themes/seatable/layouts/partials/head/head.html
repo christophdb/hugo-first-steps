@@ -79,6 +79,16 @@
         {{ "<!-- OpenGraph and Twitter cards are not generated in development mode -->" | safeHTML }}
     {{ end }}
 
+    <!-- structured data -->
+    {{ partial "structured-data/organization.html" . }}
+    {{ if eq .Section "posts" }}
+        {{ if .IsPage }}
+            {{ partial "structured-data/blog-post.html" . }}
+        {{ else if .IsSection }}
+            {{ partial "structured-data/blog-list.html" . }}
+        {{ end }}
+    {{ end }}
+
     {{ partial "head/css.html" . }}
     {{ partial "head/js.html" . }}
 
