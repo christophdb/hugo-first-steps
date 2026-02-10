@@ -75,7 +75,7 @@ Cloud solutions such as the SeaTable no-code platform offer another advantage th
 **The embedded template is scrollable and clickable.**
 {{< template id="d58845a24cda4807847e" >}}
 
-{{< button label="Download template now" link="/templates/sales/supply-chain-management/" >}}
+{{< button label="Download template now" link="/templates/operations/supply-chain-management/" >}}
 
 ## 5 tips for successful supply chain management
 

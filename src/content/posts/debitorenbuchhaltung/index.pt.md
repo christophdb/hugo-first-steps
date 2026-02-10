@@ -129,7 +129,7 @@ A contabilidade também fornece uma visão clara de todos os clientes e forneced
 
 ## Como organizar as suas contas a receber de forma eficiente no SeaTable
 
-A contabilidade das contas a receber constitui a espinha dorsal de uma contabilidade financeira eficiente em todas as empresas. Com o software SeaTable**, compatível com o RGPD, pode mapear digitalmente esta área, gerir todas as informações relevantes de forma centralizada e, assim, simplificar significativamente todo o processo, desde a preparação da cotação até à receção do pagamento. O software gratuito[Modelo]({{< relref "templates/sales/crm-accounts-receivable" >}}) oferece-lhe folhas de tabela para clientes, produtos e ofertas, bem como uma folha de faturação especial na qual todos os dados importantes são claramente resumidos.
+A contabilidade das contas a receber constitui a espinha dorsal de uma contabilidade financeira eficiente em todas as empresas. Com o software SeaTable**, compatível com o RGPD, pode mapear digitalmente esta área, gerir todas as informações relevantes de forma centralizada e, assim, simplificar significativamente todo o processo, desde a preparação da cotação até à receção do pagamento. O software gratuito[Modelo]({{< relref "templates/finance/crm-accounts-receivable" >}}) oferece-lhe folhas de tabela para clientes, produtos e ofertas, bem como uma folha de faturação especial na qual todos os dados importantes são claramente resumidos.
 
 {{< template-box id="9abcb338414a450b8f66" submit="Modelo de teste" text="Percorra o nosso modelo interativo e descubra as primeiras funções." >}}
 

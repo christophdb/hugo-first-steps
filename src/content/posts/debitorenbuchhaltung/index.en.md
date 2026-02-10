@@ -130,7 +130,7 @@ Accounting also provides a clear overview of all customers and suppliers, allowi
 
 ## How to efficiently organize your accounts receivable in SeaTable
 
-Accounts receivable accounting forms the backbone of efficient financial accounting in every company. With the **GDPR-compliant SeaTable** software, you can map this area digitally, manage all relevant information centrally and thus significantly simplify the entire process from quotation preparation to receipt of payment. The free [Template]({{< relref "templates/sales/crm-accounts-receivable" >}}) offers you table sheets for customers, products and offers as well as a special invoice sheet in which all important data is clearly arranged.
+Accounts receivable accounting forms the backbone of efficient financial accounting in every company. With the **GDPR-compliant SeaTable** software, you can map this area digitally, manage all relevant information centrally and thus significantly simplify the entire process from quotation preparation to receipt of payment. The free [Template]({{< relref "templates/finance/crm-accounts-receivable" >}}) offers you table sheets for customers, products and offers as well as a special invoice sheet in which all important data is clearly arranged.
 
 {{< template-box id="9abcb338414a450b8f66" submit="Test template" text="Scroll through our interactive template and discover the first functions." >}}
 

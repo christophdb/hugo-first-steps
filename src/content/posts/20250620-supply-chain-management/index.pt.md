@@ -77,7 +77,7 @@ As soluções na nuvem, como a plataforma no-code da SeaTable, oferecem outra va
 **O modelo incorporado pode ser deslocado e clicado.**
 {{< template id="d58845a24cda4807847e" >}}
 
-{{< button label="Descarregar modelo agora" link="/templates/sales/supply-chain-management/" >}}
+{{< button label="Descarregar modelo agora" link="/templates/operations/supply-chain-management/" >}}
 
 ## 5 dicas para uma gestão bem sucedida da cadeia de abastecimento
 

@@ -77,7 +77,7 @@ seo:
 **Встроенный шаблон можно прокручивать и нажимать.**
 {{< template id="d58845a24cda4807847e">}}
 
-{{< button label="Загрузите шаблон прямо сейчас" link="/templates/sales/supply-chain-management/" >}}
+{{< button label="Загрузите шаблон прямо сейчас" link="/templates/operations/supply-chain-management/" >}}
 
 ## 5 советов для успешного управления цепочками поставок
 
