@@ -1,5 +1,5 @@
 ---
-title: 'Fahrtenbuch'
+title: 'Fahrtenbuch Vorlage'
 description: 'Fahrten digital und steuerkonform erfassen, mehrere Fahrzeuge zentral verwalten und Kilometer für Privat- und Dienstfahrten im Blick behalten.'
 date: '2025-02-23'
 url: '/de/vorlage/elektronisches-fahrtenbuch'

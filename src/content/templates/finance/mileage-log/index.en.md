@@ -1,5 +1,5 @@
 ---
-title: 'Mileage Log'
+title: 'Logbook template'
 description: 'Record trips digitally and tax-compliantly, manage multiple vehicles centrally, and keep mileage for private and business trips in view.'
 date: '2025-02-23'
 url: '/template/electronic-mileage-log'

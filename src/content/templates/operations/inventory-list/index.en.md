@@ -1,5 +1,5 @@
 ---
-title: 'Inventory List'
+title: 'Inventory List Template'
 description: 'Manage inventory, record new entries, link delivery data, and generate reports for your warehouse digitally.'
 date: '2025-02-28'
 url: '/template/inventory-list-template'
