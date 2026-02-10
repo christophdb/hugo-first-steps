@@ -2,7 +2,7 @@
 title: 'Shadow IT e como evitá-lo'
 description: 'Quer seja o grupo de conversação da equipa no WhatsApp, a troca de ficheiros através do Dropbox ou a tradução de um relatório com o ChatGPT – Shadow IT parece muitas vezes discreta. Surge quando os funcionários utilizam as suas próprias soluções de TI para trabalhar sem que o departamento de TI tenha conhecimento disso. O que pode parecer pragmático à primeira vista pode, no entanto, conduzir a sérios riscos informáticos para as empresas.'
 seo:
-    title: 'Shadow IT e como evitá-lo'
+    title: 'TI paralela sob controlo: como identificá-la e evitá-la'
     description: 'Neste artigo, encontrará tudo, desde a definição de Shadow IT a exemplos, causas e riscos e como lidar com as TI sombra.'
 date: 2026-01-27
 url: '/pt/shadow-it/'
