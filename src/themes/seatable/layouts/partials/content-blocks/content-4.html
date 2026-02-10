@@ -46,7 +46,7 @@
             <h3 class="text-4xl font-bold text-white">{{ .gridheadline | safeHTML }}</h3>
         </div>
         {{ if .items }}
-            <div class="mt-12 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+            <ul class="mt-12 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 list-none">
                 {{ range .items }}
                     {{ $link := "" }}
                     <!-- Initialize $link as empty -->
@@ -54,16 +54,16 @@
                         {{ $link = page.GetPage .link }}
                         <!-- Update $link -->
                     {{ end }}
-                    <div class="flex flex-col rounded-md bg-gray-100 p-8">
+                    <li class="flex flex-col rounded-md bg-gray-100 p-8">
                         <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
                         <h3 class="mt-3 text-2xl font-bold">{{ .headline | markdownify }}</h3>
                         <p class="mb-8 mt-4">{{ .text | markdownify }}</p>
                         {{ if $link }}
                             <a class="mt-auto flex items-center gap-1" href="{{ $link.RelPermalink }}">{{ T "read_more" }} {{ partial "icon.html" "arrow-right" }}</a>
                         {{ end }}
-                    </div>
+                    </li>
                 {{ end }}
-            </div>
+            </ul>
         {{ end }}
     </section>
 </section>
