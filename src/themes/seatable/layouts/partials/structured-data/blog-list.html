@@ -1,0 +1,40 @@
+{{ if eq .Section "posts" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ .Title }},
+  "url": {{ .Permalink }},
+  "inLanguage": {{ .Language.Lang }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "SeaTable",
+    "url": {{ .Site.BaseURL | plainify }}
+  },
+  "about": [
+    "Low-Code",
+    "No-Code",
+    "Automatisierung",
+    "Datenmanagement",
+    "CRM",
+    "Künstliche Intelligenz"
+  ],
+  "hasPart": [
+    {{- $pages := .Pages.ByDate.Reverse -}}
+    {{- range $index, $p := $pages -}}
+    {{- if $index }},{{ end }}
+    {
+      "@type": "BlogPosting",
+      "headline": "{{ $p.Title | safeJS }}",
+      "url": {{ $p.Permalink | plainify }},
+      "datePublished": "{{ $p.Date.Format "2006-01-02" | safeJS }}",
+      "author": {
+        "@type": "Organization",
+        "name": "SeaTable"
+      }
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{ end }}
