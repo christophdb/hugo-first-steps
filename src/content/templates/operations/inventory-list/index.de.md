@@ -10,7 +10,7 @@ category: 'operations'
 functions:
 seo:
     title: 'SeaTable Inventarliste Vorlage für Ihr Unternehmen'
-    description: 'Inventarliste online führen: Bestände erfassen, analysieren und mit KI-Funktionen DSGVO-konform verwalten.'
+    description: 'Professionelle Inventarliste Vorlage: Bestände online erfassen, smart analysieren und per KI-Funktion sicher DSGVO-konform verwalten.'
 
 type: pages
 

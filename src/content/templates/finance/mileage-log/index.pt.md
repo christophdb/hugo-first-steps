@@ -1,5 +1,5 @@
 ---
-title: 'Modelo de diário de bordo'
+title: 'Modelo de livro de viagens'
 description: 'Registre deslocamentos de forma digital e conforme à legislação, gerencie vários veículos e controle quilômetros privados e de trabalho.'
 date: '2025-02-23'
 url: '/pt/modelo/registro-viagens-eletronico'
