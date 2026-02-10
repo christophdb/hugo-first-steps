@@ -8,7 +8,7 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Quotation template: AI-powered & digital quotes'
+    title: 'Quote template: Digital & AI-supported'
     description: 'Use SeaTable AI to create quotes, manage data centrally and send quotations automatically as PDF or by email.'
 
 type: pages
