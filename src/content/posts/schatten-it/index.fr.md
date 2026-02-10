@@ -2,7 +2,7 @@
 title: "Le Shadow IT et comment l'éviter"
 description: "Qu'il s'agisse du groupe de discussion de l'équipe sur WhatsApp, de l'échange de fichiers via Dropbox ou de la traduction d'un rapport avec ChatGPT, le Shadow IT passe souvent inaperçue. Il apparaît lorsque les employés utilisent leurs propres solutions informatiques pour travailler, sans que le service informatique en soit informé. Ce qui peut sembler pragmatique à première vue peut cependant entraîner de sérieux risques informatiques pour les entreprises."
 seo:
-    title: "Shadow IT et comment l'éviter"
+    title: "Shadow IT fantôme sous contrôle : comment la reconnaître et l'éviter"
     description: "Dans cet article, vous trouverez tout ce qu'il faut savoir, de la définition du Shadow IT à la gestion du Shadow IT, en passant par des exemples, des causes et des risques."
 date: 2026-01-27
 url: '/fr/shadow-it/'

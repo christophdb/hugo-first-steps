@@ -2,7 +2,7 @@
 title: 'Schatten IT und wie Sie sie vermeiden'
 description: 'Sei es die Team-Chatgruppe auf WhatsApp, der Dateiaustausch per Dropbox oder die Übersetzung eines Reports mit ChatGPT – Schatten IT sieht oft unscheinbar aus. Sie entsteht, wenn Mitarbeiter eigene IT-Lösungen für die Arbeit einsetzen, ohne dass die IT-Abteilung davon weiß. Was auf den ersten Blick pragmatisch wirkt, kann für Unternehmen aber zu ernsthaften IT Risiken führen.'
 seo:
-    title: 'Schatten IT und wie Sie sie vermeiden'
+    title: 'Schatten-IT voll Griff: Wie Sie sie erkennen und vermeiden'
     description: 'In diesem Artikel finden Sie alles von der Schatten IT Definition über Beispiele, Ursachen und Risiken bis hin zum Umgang mit Schatten-IT.'
 date: 2026-01-27
 url: '/de/schatten-it/'

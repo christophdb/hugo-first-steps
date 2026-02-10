@@ -2,7 +2,7 @@
 title: 'TI en la sombra y cómo evitarla'
 description: 'Ya sea el grupo de chat del equipo en WhatsApp, el intercambio de archivos a través de Dropbox o la traducción de un informe con ChatGPT, la TI en la sombra suele pasar desapercibida. Surge cuando los empleados utilizan sus propias soluciones informáticas para trabajar sin que el departamento de TI lo sepa. Sin embargo, lo que a primera vista puede parecer pragmático puede acarrear graves riesgos informáticos para las empresas.'
 seo:
-    title: 'TI en la sombra y cómo evitarla'
+    title: 'La TI en la sombra bajo control: cómo detectarla y evitarla'
     description: 'En este artículo encontrará desde la definición de la TI en la sombra hasta ejemplos, causas y riesgos y cómo hacer frente a la TI en la sombra.'
 date: 2026-01-27
 url: '/es/ti-en-la-sombra/'

@@ -2,7 +2,7 @@
 title: 'Shadow IT and how to avoid it'
 description: 'Be it the team chat group on WhatsApp, file exchange via Dropbox or the translation of a report with ChatGPT – shadow IT often looks inconspicuous. It arises when employees use their own IT solutions for work without the IT department knowing about it. What may seem pragmatic at first glance can, however, lead to serious IT risks for companies.'
 seo:
-    title: 'Shadow IT and how to avoid it'
+    title: 'Shadow IT under control: How to recognize and avoid it'
     description: 'In this article you will find everything from the definition of shadow IT to examples, causes and risks and how to deal with shadow IT.'
 date: 2026-01-27
 url: '/shadow-it/'
