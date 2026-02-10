@@ -9,8 +9,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Angebotsmanagement Vorlage: KI-gestützt & digital'
-    description: 'Mit SeaTable Angebote per KI erstellen, Daten zentral verwalten und Angebote automatisiert als PDF oder E-Mail versenden.'
+    title: 'Angebot schreiben Vorlage: Digital & KI-gestützt'
+    description: 'Professionelles Angebot schreiben: Nutze unsere KI-gestützte Vorlage, um Daten zentral zu verwalten & PDFs automatisiert zu versenden.'
 
 type: pages
 
