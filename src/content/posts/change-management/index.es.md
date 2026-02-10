@@ -223,9 +223,9 @@ Una buena planificación, análisis, comunicación regular y transparente, gesti
 
 ## SeaTable como herramienta de gestión del cambio
 
-SeaTable es una moderna [herramienta de base de datos sin código]({{< relref "/" >}}) que puede adaptar con flexibilidad a los requisitos de su empresa o proyecto. Especialmente para las medidas de gestión de cambios, esta solución ofrece una **variedad de funciones** con las que podrá cubrir fácilmente también otros procesos. Gracias a la **intuitiva interfaz de usuario** y a las numerosas opciones de personalización, los nuevos usuarios se orientarán rápidamente sin necesidad de formación ni de largas implementaciones.
+SeaTable es una moderna [Herramienta de base de datos sin código KI]({{< relref "/" >}}) que puede adaptar con flexibilidad a los requisitos de su empresa o proyecto. Especialmente para las medidas de gestión de cambios, esta solución ofrece una **variedad de funciones** con las que podrá cubrir fácilmente también otros procesos. Gracias a la **intuitiva interfaz de usuario** y a las numerosas opciones de personalización, los nuevos usuarios se orientarán rápidamente sin necesidad de formación ni de largas implementaciones.
 
-La **colaboración transparente en tiempo real, las funciones integradas de chat y notificación**, la gestión de datos compartidos y la **automatización** le ayudarán a alcanzar sus hitos en la gestión de cambios. Por ejemplo, utilice nuestra **plantilla gratuita de análisis DAFO** para su análisis del campo de fuerzas o nuestro **plan de estructura del proyecto** para su planificación de la gestión del cambio.
+La **colaboración transparente en tiempo real, las funciones integradas de chat y notificaciones**, la gestión conjunta de datos, las **automatizaciones** y las acciones de IA en los flujos de trabajo le ayudarán a alcanzar sus objetivos en la gestión del cambio. Por ejemplo, utilice nuestra **plantilla gratuita de análisis DAFO** para su análisis del campo de fuerzas o nuestro **plan de estructura del proyecto** para su planificación de la gestión del cambio.
 
 {{< tabs
 title1="Plantilla: análisis DAFO"
@@ -238,9 +238,9 @@ text2="Desplácese por nuestra plantilla interactiva de estructura de desglose d
 id2="898485ee9b7949c5b987"
 submit2="Plantilla de prueba" >}}
 
-**Los cuadros de mando y las estadísticas personalizables** le permiten revisar el progreso del proyecto a intervalos regulares. Con el **Constructor de aplicaciones universales**, puede diseñar un **Front End** fácil de usar para sus interesados en sólo unos minutos, mientras que los plugins **Pizarra y Árbol** le permiten mantener una visión completa de su gestión de cambios.
+**Los paneles de control y las estadísticas personalizables** con evaluación basada en IA le permiten comprobar el progreso del proyecto a intervalos regulares. Con el **Constructor de aplicaciones universales**, puede diseñar un **Front End** fácil de usar para sus interesados en sólo unos minutos, mientras que los plugins **Pizarra y Árbol** le permiten mantener una visión completa de su gestión de cambios.
 
-Como [solución en la nube]({{< relref "pages/product/seatable-cloud" >}}), SeaTable se aloja exclusivamente en servidores de Alemania y **cumple íntegramente la GDPR**. Para un control aún mayor de sus datos, puede alojar el software en sus propios servidores con [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). La versión básica gratuita le proporciona numerosas funciones básicas.
+Como [solución en la nube]({{< relref "pages/product/seatable-cloud" >}}), SeaTable se aloja exclusivamente en servidores de Alemania y **cumple íntegramente la GDPR**. Para un control aún mayor de sus datos, puede alojar el software en sus propios servidores con [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) – Incluye recursos de IA dedicados y configuración de modelos individualizada. La versión básica gratuita le proporciona numerosas funciones básicas.
 
 ## Conclusión
 

@@ -223,9 +223,9 @@ Um bom planeamento, análises, comunicação regular e transparente, gestão das
 
 ## O SeaTable como ferramenta de gestão da mudança
 
-O SeaTable é uma ferramenta moderna [de base de dados sem código]({{< relref "/" >}}) que pode adaptar de forma flexível aos requisitos da sua empresa ou projeto. Especialmente para medidas de gestão da mudança, esta solução oferece uma **variedade de funções** com as quais pode facilmente abranger também outros processos. Graças à **interface de utilizador intuitiva** e às numerosas opções de personalização, os novos utilizadores encontrarão rapidamente o seu caminho sem necessidade de formação ou de implementações demoradas.
+O SeaTable é uma ferramenta moderna [Ferramenta de base de dados sem código de IA]({{< relref "/" >}}) que pode adaptar de forma flexível aos requisitos da sua empresa ou projeto. Especialmente para medidas de gestão da mudança, esta solução oferece uma **variedade de funções** com as quais pode facilmente abranger também outros processos. Graças à **interface de utilizador intuitiva** e às numerosas opções de personalização, os novos utilizadores encontrarão rapidamente o seu caminho sem necessidade de formação ou de implementações demoradas.
 
-A **colaboração transparente em tempo real, as funções integradas de chat e notificação**, a gestão de dados partilhados e a **automatização** ajudam-no a atingir os seus objectivos de gestão da mudança. Por exemplo, utilize o nosso **modelo gratuito de análise SWOT** para a sua análise do campo de forças ou o nosso **plano de estrutura de projeto** para o seu planeamento da gestão da mudança.
+**Colaboração transparente em tempo real, funções integradas de chat e notificação**, gestão conjunta de dados, **automatizações** e ações de IA em fluxos de trabalho ajudam-no a atingir os seus objetivos na gestão da mudança. Por exemplo, utilize o nosso **modelo gratuito de análise SWOT** para a sua análise do campo de forças ou o nosso **plano de estrutura de projeto** para o seu planeamento da gestão da mudança.
 
 {{< tabs
 title1="Modelo: análise SWOT"
@@ -238,9 +238,9 @@ text2="Percorra o nosso modelo interativo de estrutura analítica de trabalho co
 id2="898485ee9b7949c5b987"
 submit2="Modelo de teste" >}}
 
-Os **painéis e estatísticas personalizáveis** permitem-lhe analisar o progresso do projeto em intervalos regulares. Com o **App Builder**, pode conceber um **front end de fácil utilização** para os seus intervenientes em apenas alguns minutos, enquanto os plugins **Whiteboard e Tree** lhe permitem manter uma visão completa da sua gestão de alterações.
+**Painéis e estatísticas personalizáveis** com avaliação baseada em IA permitem-lhe verificar o progresso do projeto em intervalos regulares. Com o **App Builder**, pode conceber um **front end de fácil utilização** para os seus intervenientes em apenas alguns minutos, enquanto os plugins **Whiteboard e Tree** lhe permitem manter uma visão completa da sua gestão de alterações.
 
-Enquanto [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), o SeaTable está alojado exclusivamente em servidores na Alemanha e é **compatível com o RGPD**. Para um controlo ainda maior sobre os seus dados, pode alojar o software nos seus próprios servidores com o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). A versão básica gratuita fornece-lhe várias funções básicas.
+Enquanto [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), o SeaTable está alojado exclusivamente em servidores na Alemanha e é **compatível com o RGPD**. Para um controlo ainda maior sobre os seus dados, pode alojar o software nos seus próprios servidores com o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) – incluindo recursos dedicados de IA e configuração individual do modelo. A versão básica gratuita fornece-lhe várias funções básicas.
 
 ## Conclusão
 

@@ -223,9 +223,9 @@ Good planning, analyses, regular and transparent communication, stakeholder mana
 
 ## SeaTable as a change management tool
 
-SeaTable is a modern [no-code database tool]({{< relref "/" >}}) that you can flexibly adapt to the requirements of your company or project. Especially for change management measures, this solution offers a **variety of functions** with which you can easily cover other processes as well. Thanks to the **intuitive user interface** and the numerous customization options, new users will quickly find their way around without the need for training or lengthy implementations.
+SeaTable is a modern [AI no-code database tool]({{< relref "/" >}}) that you can flexibly adapt to the requirements of your company or project. Especially for change management measures, this solution offers a **variety of functions** with which you can easily cover other processes as well. Thanks to the **intuitive user interface** and the numerous customization options, new users will quickly find their way around without the need for training or lengthy implementations.
 
-Transparent **real-time collaboration, integrated chat and notification functions**, shared data management and **automation** help you achieve your change management milestones. For example, use our **free SWOT analysis template** for your force field analysis or our **project structure plan** for your change management planning.
+Transparent **real-time collaboration, integrated chat and notification functions**, shared data management, **automation** and AI actions in workflows help you achieve your change management milestones. For example, use our **free SWOT analysis template** for your force field analysis or our **project structure plan** for your change management planning.
 
 {{< tabs
 title1="Template: SWOT analysis"
@@ -238,9 +238,9 @@ text2="Scroll through our interactive work breakdown structure template as an ex
 id2="898485ee9b7949c5b987"
 submit2="Test template" >}}
 
-**Customizable dashboards and statistics** allow you to review project progress at regular intervals. With the **App Builder**, you can design a **user-friendly front end** for your stakeholders in just a few minutes, while the **Whiteboard and Tree** plugins allow you to maintain a complete overview of your change management.
+**Customizable dashboards and statistics** with AI-based evaluation allow you to review project progress at regular intervals. With the **App Builder**, you can design a **user-friendly front end** for your stakeholders in just a few minutes, while the **Whiteboard and Tree** plugins allow you to maintain a complete overview of your change management.
 
-As a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}), SeaTable is hosted exclusively on servers in Germany and is **fully GDPR compliant**. For even greater control over your data, you can host the software on your own servers with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). The free basic version provides you with numerous basic functions.
+As a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}), SeaTable is hosted exclusively on servers in Germany and is **fully GDPR compliant**. For even greater control over your data, you can host the software on your own servers with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) - including dedicated AI resources and individual model configuration. The free basic version provides you with numerous basic functions.
 
 ## Conclusion
 

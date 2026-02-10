@@ -223,9 +223,9 @@ Une bonne planification, des analyses, une communication régulière et transpar
 
 ## SeaTable comme outil de gestion du changement
 
-SeaTable est un [outil de base de données sans code]({{< relref "/" >}}) moderne que vous pouvez adapter de manière flexible aux besoins de votre entreprise ou de votre projet. Spécialement conçue pour les mesures de gestion du changement, cette solution offre une **variété de fonctions** qui vous permettent de couvrir facilement d'autres processus. Grâce à l'interface utilisateur **intuitive** et aux nombreuses possibilités de personnalisation, les nouveaux utilisateurs prennent rapidement leurs marques sans avoir besoin d'une formation ou d'une longue mise en œuvre.
+SeaTable est un [Outil de base de données IA sans code]({{< relref "/" >}}) moderne que vous pouvez adapter de manière flexible aux besoins de votre entreprise ou de votre projet. Spécialement conçue pour les mesures de gestion du changement, cette solution offre une **variété de fonctions** qui vous permettent de couvrir facilement d'autres processus. Grâce à l'interface utilisateur **intuitive** et aux nombreuses possibilités de personnalisation, les nouveaux utilisateurs prennent rapidement leurs marques sans avoir besoin d'une formation ou d'une longue mise en œuvre.
 
-Une collaboration transparente **en temps réel, des fonctions intégrées de chat et de notification**, une gestion commune des données et des **automatisations** vous aident à atteindre les étapes clés de votre gestion du changement. Utilisez par exemple notre **modèle gratuit d'analyse SWOT** pour votre analyse du champ de force ou notre **organigramme de projet** pour votre planification de la gestion du changement.
+Une collaboration transparente **en temps réel, des fonctions intégrées de chat et de notification**, une gestion commune des données, des **automatisations et des actions IA dans les workflows** vous aident à atteindre vos objectifs en matière de gestion du changement. Utilisez par exemple notre **modèle gratuit d'analyse SWOT** pour votre analyse du champ de force ou notre **organigramme de projet** pour votre planification de la gestion du changement.
 
 {{< tabs
 title1="Modèle : analyse SWOT"
@@ -238,9 +238,9 @@ text2="Faites défiler notre modèle d'organigramme de projet interactif comme e
 id2="898485ee9b7949c5b987"
 submit2="Tester le modèle" >}}
 
-**Des tableaux de bord et des statistiques personnalisables** vous permettent de vérifier les progrès du projet à intervalles réguliers. Avec le **App Builder**, vous concevez en quelques minutes un **front-end** convivial pour vos parties prenantes, tandis que les plugins **Whiteboard et Tree** vous permettent de garder une vue complète de votre gestion du changement.
+**Des tableaux de bord et des statistiques personnalisables** avec analyse basée sur l'IA vous permettent de vérifier régulièrement l'avancement des projets. Avec le **App Builder**, vous concevez en quelques minutes un **front-end** convivial pour vos parties prenantes, tandis que les plugins **Whiteboard et Tree** vous permettent de garder une vue complète de votre gestion du changement.
 
-En tant que [solution cloud]({{< relref "pages/product/seatable-cloud" >}}), SeaTable est hébergé exclusivement sur des serveurs situés en Allemagne et est **entièrement conforme au RGPD**. Pour un contrôle encore plus grand de vos données, vous pouvez utiliser [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) pour héberger le logiciel sur vos propres serveurs. Dans la version de base gratuite, vous disposez de nombreuses fonctionnalités de base.
+En tant que [solution cloud]({{< relref "pages/product/seatable-cloud" >}}), SeaTable est hébergé exclusivement sur des serveurs situés en Allemagne et est **entièrement conforme au RGPD**. Pour un contrôle encore plus grand de vos données, vous pouvez utiliser [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) pour héberger le logiciel sur vos propres serveurs – y compris ressources IA dédiées et configuration individuelle des modèles. Dans la version de base gratuite, vous disposez de nombreuses fonctionnalités de base.
 
 ## Conclusion
 
