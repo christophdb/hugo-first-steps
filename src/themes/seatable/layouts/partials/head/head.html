@@ -15,23 +15,21 @@
     {{ with (.Params.seo.description | default .Params.Summary | default .Params.Description) | default .Site.Params.description -}}
         <meta name="description" content="{{ . | safeHTML }}" />
     {{- end }}
-    {{ with .Site.Params.robots }}
+    {{- with .Site.Params.robots -}}
         <meta name="robots" content="{{ . }}" />
-    {{ end }}
-    {{ with .Params.robots }}
+    {{- end -}}
+    {{- with .Params.robots -}}
         <meta name="robots" content="{{ . }}" />
-    {{ end }}
+    {{- end -}}
 
-    {{ if .Params.noindex }}
+    {{- if .Params.noindex -}}
         <meta name="robots" content="noindex, nofollow" />
-    {{ end }}
-
+    {{- end -}}
 
     <!-- Do not index taxonomy and term pages -->
     {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.seo.index "noindex") -}}
         <meta name="robots" content="noindex" />
     {{- end }}
-
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
@@ -44,7 +42,6 @@
         {{- end -}}
     {{ end }}
 
-
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -54,9 +51,9 @@
 
     <!-- hier kann man noch ganz viel machen: apple-touch-icon etc... -->
     <!-- site verification google, bing, ... -->
-    {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}
+    {{- if .Site.Params.Seo.googleSearchConsoleVerificationTag -}}
         <meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />
-    {{ end }}
+    {{- end -}}
 
     {{/* Verification for prefix-based properties (one per language) */}}
     <meta name="google-site-verification" content="E2ZqrTXGnRUVI2ojFqaO1UCciOZW3fXsw8Wzroy6Glc" />
@@ -65,7 +62,7 @@
     <meta name="slug" content="/{{ with .File }}{{ strings.TrimPrefix "content/" .Dir | strings.TrimSuffix "/" }}{{ end }}" />
 
     <!-- social ... -->
-    {{ if hugo.IsProduction }}
+    {{- if hugo.IsProduction -}}
         {{ template "_internal/opengraph.html" . }}
         {{ template "_internal/twitter_cards.html" . }}
 
@@ -75,9 +72,9 @@
             {{/* Image for pages (excluding templates since they have a featured image) */}}
             <meta property="og:image" content="{{ absURL `images/logos/seatable-og-pages.png` }}" />
         {{ end }}
-    {{ else }}
+    {{- else -}}
         {{ "<!-- OpenGraph and Twitter cards are not generated in development mode -->" | safeHTML }}
-    {{ end }}
+    {{- end }}
 
     <!-- structured data -->
     {{ partial "structured-data/organization.html" . }}
@@ -89,8 +86,8 @@
         {{ end }}
     {{ end }}
 
-    {{ partial "head/css.html" . }}
-    {{ partial "head/js.html" . }}
+    {{- partial "head/css.html" . -}}
+    {{- partial "head/js.html" . -}}
 
-    {{ partial "posthog/init.html" . }}
+    {{- partial "posthog/init.html" . -}}
 </head>

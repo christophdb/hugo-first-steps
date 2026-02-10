@@ -9,7 +9,7 @@
   "publisher": {
     "@type": "Organization",
     "name": "SeaTable",
-    "url": {{ .Site.BaseURL }}
+    "url": {{ .Site.BaseURL | plainify }}
   },
   "about": [
     "Low-Code",
@@ -25,9 +25,9 @@
     {{- if $index }},{{ end }}
     {
       "@type": "BlogPosting",
-      "headline": {{ $p.Title | jsonify }},
-      "url": {{ $p.Permalink | jsonify }},
-      "datePublished": {{ $p.Date.Format "2006-01-02" | jsonify }},
+      "headline": "{{ $p.Title | safeJS }}",
+      "url": {{ $p.Permalink | plainify }},
+      "datePublished": "{{ $p.Date.Format "2006-01-02" | safeJS }}",
       "author": {
         "@type": "Organization",
         "name": "SeaTable"
