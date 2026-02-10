@@ -77,7 +77,7 @@ Las soluciones en la nube, como la plataforma sin código SeaTable, ofrecen otra
 **La plantilla incrustada se puede desplazar y pulsar.**
 {{< template id="d58845a24cda4807847e" >}}
 
-{{< button label="Descargar plantilla ahora" link="/templates/sales/supply-chain-management/" >}}
+{{< button label="Descargar plantilla ahora" link="/templates/operations/supply-chain-management/" >}}
 
 ## 5 consejos para gestionar con éxito la cadena de suministro
 

@@ -75,7 +75,7 @@ Cloud-Lösungen wie die No-Code-Plattform SeaTable bieten indes noch einen weite
 **Das eingebettete Template ist scroll- und klickbar.**
 {{< template id="d58845a24cda4807847e" >}}
 
-{{< button label="Jetzt Template downloaden" link="/templates/sales/supply-chain-management/" >}}
+{{< button label="Jetzt Template downloaden" link="/templates/operations/supply-chain-management/" >}}
 
 ## 5 Tipps für Ihr erfolgreiches Supply Chain Management
 

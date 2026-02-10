@@ -77,7 +77,7 @@ Les solutions en nuage telles que la plate-forme SeaTable no-code offrent un aut
 **Le modèle intégré est déroulant et cliquable.**
 {{< template id="d58845a24cda4807847e" >}}
 
-{{< button label="Télécharger le modèle maintenant" link="/templates/sales/supply-chain-management/" >}}
+{{< button label="Télécharger le modèle maintenant" link="/templates/operations/supply-chain-management/" >}}
 
 ## 5 conseils pour une gestion réussie de la chaîne d'approvisionnement
 
