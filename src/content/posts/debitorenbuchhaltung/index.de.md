@@ -130,7 +130,7 @@ Die Buchhaltung verschafft zudem einen klaren Überblick über alle Kunden und L
 
 ## So effizient gestalten Sie Ihre Debitorenbuchhaltung in SeaTable
 
-Die Debitorenbuchhaltung bildet das Rückgrat einer effizienten Finanzbuchaltung in jedem Unternehmen. Mit der **DSGVO-konformen Software SeaTable** können Sie diesen Bereich digital abbilden, alle relevanten Informationen zentral verwalten und so den gesamten Prozess von der Angebotserstellung bis zum Zahlungseingang deutlich vereinfachen. Das kostenlose [Template]({{< relref "templates/sales/crm-accounts-receivable" >}}) bietet Ihnen neben Tabellenblättern für Kunden, Produkte und Angebote auch ein spezielles Rechnungsblatt, in dem alle wichtigen Daten übersichtlich zusammenlaufen.
+Die Debitorenbuchhaltung bildet das Rückgrat einer effizienten Finanzbuchaltung in jedem Unternehmen. Mit der **DSGVO-konformen Software SeaTable** können Sie diesen Bereich digital abbilden, alle relevanten Informationen zentral verwalten und so den gesamten Prozess von der Angebotserstellung bis zum Zahlungseingang deutlich vereinfachen. Das kostenlose [Template]({{< relref "templates/finance/crm-accounts-receivable" >}}) bietet Ihnen neben Tabellenblättern für Kunden, Produkte und Angebote auch ein spezielles Rechnungsblatt, in dem alle wichtigen Daten übersichtlich zusammenlaufen.
 
 {{< template-box id="9abcb338414a450b8f66" submit="Vorlage testen" text="Scrollen Sie durch unser interaktives Template und entdecken Sie erste Funktionen." >}}
 

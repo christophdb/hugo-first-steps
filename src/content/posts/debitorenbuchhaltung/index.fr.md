@@ -125,7 +125,7 @@ La comptabilité donne également une vue d'ensemble claire de tous les clients 
 
 ## Pour organiser efficacement votre comptabilité clients dans SeaTable
 
-La comptabilité clients constitue l'épine dorsale d'une comptabilité financière efficace dans toute entreprise. Le logiciel SeaTable**, conforme au **RGPD, vous permet de représenter numériquement ce domaine, de gérer toutes les informations pertinentes de manière centralisée et de simplifier ainsi considérablement l'ensemble du processus, de l'établissement du devis à la réception du paiement. Le logiciel gratuit [Modèle]({{< relref "templates/sales/crm-accounts-receivable" >}}) vous propose, outre des feuilles de calcul pour les clients, les produits et les offres, une feuille de calcul spéciale dans laquelle toutes les données importantes sont clairement regroupées.
+La comptabilité clients constitue l'épine dorsale d'une comptabilité financière efficace dans toute entreprise. Le logiciel SeaTable**, conforme au **RGPD, vous permet de représenter numériquement ce domaine, de gérer toutes les informations pertinentes de manière centralisée et de simplifier ainsi considérablement l'ensemble du processus, de l'établissement du devis à la réception du paiement. Le logiciel gratuit [Modèle]({{< relref "templates/finance/crm-accounts-receivable" >}}) vous propose, outre des feuilles de calcul pour les clients, les produits et les offres, une feuille de calcul spéciale dans laquelle toutes les données importantes sont clairement regroupées.
 
 {{< template-box id="9abcb338414a450b8f66" submit="Modèle de test" text="Faites défiler notre modèle interactif et découvrez les premières fonctionnalités." >}}
 

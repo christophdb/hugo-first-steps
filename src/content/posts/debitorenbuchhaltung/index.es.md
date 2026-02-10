@@ -130,7 +130,7 @@ La contabilidad también proporciona una visión clara de todos los clientes y p
 
 ## Cómo organizar eficazmente sus cuentas por cobrar en SeaTable
 
-La contabilidad de las cuentas por cobrar constituye la columna vertebral de una contabilidad financiera eficiente en todas las empresas. Con el software SeaTable**, que cumple con la directiva GDPR, puede mapear digitalmente esta área, gestionar toda la información relevante de forma centralizada y, por lo tanto, simplificar significativamente todo el proceso, desde la preparación de la oferta hasta la recepción del pago. El software [Template]({{< relref "templates/sales/crm-accounts-receivable" >}}) le ofrece hojas de tablas para clientes, productos y ofertas, así como una hoja de facturas especial en la que se resumen claramente todos los datos importantes.
+La contabilidad de las cuentas por cobrar constituye la columna vertebral de una contabilidad financiera eficiente en todas las empresas. Con el software SeaTable**, que cumple con la directiva GDPR, puede mapear digitalmente esta área, gestionar toda la información relevante de forma centralizada y, por lo tanto, simplificar significativamente todo el proceso, desde la preparación de la oferta hasta la recepción del pago. El software [Template]({{< relref "templates/finance/crm-accounts-receivable" >}}) le ofrece hojas de tablas para clientes, productos y ofertas, así como una hoja de facturas especial en la que se resumen claramente todos los datos importantes.
 
 {{< template-box id="9abcb338414a450b8f66" submit="Plantilla de prueba" text="Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
 
