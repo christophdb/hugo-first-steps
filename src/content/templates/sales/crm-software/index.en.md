@@ -4,7 +4,7 @@ description: 'Manage customer data, capture new leads and deals, and create quot
 date: '2025-02-28'
 url: '/templates/crm-software/'
 aliases:
-    - '/template/crm-offer-management'
+    - '/templates/crm-offer-management'
 category: 'sales'
 functions:
 seo:
