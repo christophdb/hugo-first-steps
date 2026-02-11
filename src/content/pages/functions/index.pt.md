@@ -42,7 +42,7 @@ sections:
             icon: leaf
 
           - headline: Destaque por cores
-            text: 'O SeaTable pode lidar com todos os tipos de informações. Não se limite a texto e números. Um total de 25 tipos diferentes de colunas está disponível.'
+            text: 'O SeaTable permite destacar visualmente linhas inteiras através da formatação de linhas, para identificar mais rapidamente registos de dados importantes e distingui-los rapidamente.'
             icon: signature
 
           - headline: Autorizações

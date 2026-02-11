@@ -39,7 +39,7 @@ sections:
             icon: leaf
 
           - headline: Farbliche Hervorhebung
-            text: 'SeaTable kann mit allen Arten von Informationen umgehen. Limitieren Sie sich nicht auf Text und Zahlen. In Summe stehen 25 verschiedenen Spaltentypen zur Verfügung.'
+            text: 'SeaTable ermöglicht es, ganze Zeilen per Zeilen‑Formatierung visuell hervorzuheben, um wichtige Datensätze schneller zu erkennen und auf einen Blick zu unterscheiden.'
             icon: signature
 
           - headline: Berechtigungen

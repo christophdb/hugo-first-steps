@@ -42,7 +42,7 @@ sections:
             icon: leaf
 
           - headline: Color highlighting
-            text: "SeaTable can handle all kinds of information. Don't limit yourself to text and numbers. A total of 25 different column types are available."
+            text: "SeaTable allows you to visually highlight entire rows using row formatting, enabling you to identify important data records more quickly and distinguish them at a glance."
             icon: signature
 
           - headline: Authorizations
