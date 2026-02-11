@@ -31,11 +31,11 @@ sections:
             icon: medal
 
           - headline: Ansichten
-            text: Jeder kriegt nur das zu sehen, was er auch sehen soll. Damit dieses auch nur das sehen und will und können sollen..
+            text: 'Erstellen Sie persönliche oder gemeinsam genutzte Ansichten für unterschiedliche Workflows. So sieht jeder nur die Spalten und Daten, die für seine aktuelle Aufgabe wirklich wichtig sind.'
             icon: up-right-and-down-left-from-center
 
           - headline: Filter, Sortierung und Gruppierung
-            text: 'Sie sorgen dafür, dass Ihre Projekte, Aufgaben und Ideen übersichtlich bleiben. Bases für Projekte und Tabellen für Ihre Daten.'
+            text: 'Filtern, sortieren und gruppieren Sie Ihre Daten flexibel, um schnell genau die Informationen zu sehen, die Sie für Ihre Arbeit benötigen.'
             icon: leaf
 
           - headline: Farbliche Hervorhebung
@@ -43,7 +43,7 @@ sections:
             icon: signature
 
           - headline: Berechtigungen
-            text: 'Jeder kriegt nur das zu sehen, was er auch sehen soll. Damit dieses auch nur das sehen und will und können sollen.'
+            text: 'Vergeben Sie individuelle Zugriffsrechte und schützen Sie sensible Daten, damit jedes Teammitglied nur sieht und bearbeitet, was für ihn relevant ist.'
             icon: shield-halved
 
     - name: 'banner-3'

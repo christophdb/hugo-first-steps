@@ -33,11 +33,11 @@ sections:
             icon: medal
 
           - headline: Vues
-            text: Tout le monde ne voit que ce qu'il est censé voir. Ainsi, chacun voit uniquement ce qu'il souhaite et ce qu'il doit pouvoir voir...
+            text: "Créez des vues personnelles ou partagées pour différents flux de travail. Ainsi, chaque utilisateur ne voit que les colonnes et les données qui sont réellement pertinentes pour sa tâche actuelle."
             icon: up-right-and-down-left-from-center
 
           - headline: Filtres, tri et regroupement
-            text: 'Elles garantissent que vos projets, tâches et idées restent clairement organisés. Des bases pour les projets et des tables pour vos données.'
+            text: "Filtrez, triez et regroupez vos données de manière flexible afin d'accéder rapidement aux informations dont vous avez besoin pour votre travail."
             icon: leaf
 
           - headline: Mise en évidence par couleur
@@ -45,7 +45,7 @@ sections:
             icon: signature
 
           - headline: Autorisations
-            text: "Tout le monde ne voit que ce qu'il est censé voir. Ainsi, chacun voit uniquement ce qu'il souhaite et ce qu'il doit pouvoir voir."
+            text: "Attribuez des droits d'accès individuels et protégez les données sensibles afin que chaque membre de l'équipe ne puisse voir et modifier que les informations qui le concernent."
             icon: shield-halved
 
     - name: 'banner-3'
