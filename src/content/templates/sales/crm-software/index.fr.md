@@ -3,6 +3,8 @@ title: 'Logiciel CRM'
 description: 'Gérez les données clients, acquérez de nouveaux prospects et concluez des contrats, et créez des devis en un seul clic.'
 date: '2025-02-28'
 url: '/fr/modeles/logiciel-crm/'
+aliases:
+    - '/fr/modele/crm-offer-management'
 category: 'sales'
 functions:
 seo:
@@ -72,7 +74,7 @@ sections:
         - curved
       title: 'Logiciel CRM de SeaTable'
       subtitle: "Vos avantages en un coup d'œil"
-      description: "Grâce à la solution IA no-code de SeaTable, vous pouvez utiliser un outil CRM moderne et évolutif pour vos opérations commerciales. Notre modèle offre de nombreux avantages pour mettre en place des processus rationalisés et générer davantage de transactions."
+      description: Grâce à la solution IA no-code de SeaTable, vous pouvez utiliser [un outil CRM moderne et évolutif]({{< relref "posts/no-code-crm" >}}) pour vos opérations commerciales. Notre modèle offre de nombreux avantages pour mettre en place des processus rationalisés et générer davantage de transactions.
       items:
       - text: "Toujours à jour : grâce à la fonction de commentaire intégrée, aux notifications automatiques et à l'historique complet des modifications, vous restez toujours informé."
       - text: "Une véritable collaboration : vous et votre équipe travaillez ensemble en temps réel et avez toujours accès aux informations les plus récentes, même sans réunions de suivi."

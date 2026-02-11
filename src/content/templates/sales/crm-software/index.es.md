@@ -3,6 +3,8 @@ title: 'Software CRM'
 description: "Gestione los datos de los clientes, capte nuevos clientes potenciales y acuerdos, y cree presupuestos con solo pulsar un botón."
 date: '2025-02-28'
 url: '/es/plantilla/software-crm/'
+aliases:  
+    - '/es/plantilla/crm-offer-management'
 category: 'sales'
 functions:
 seo:
@@ -72,7 +74,7 @@ sections:
         - curved
       title: 'Software CRM de SeaTable'
       subtitle: 'Sus ventajas de un vistazo'
-      description: "Con la solución no-code y con IA de SeaTable, puede utilizar una herramienta CRM moderna y escalable para sus operaciones de ventas. Nuestra plantilla ofrece muchas ventajas para configurar procesos ágiles y generar más negocios."
+      description: Con la solución no-code y con IA de SeaTable, puede utilizar [una herramienta CRM moderna y escalable]({{< relref "posts/no-code-crm" >}}) para sus operaciones de ventas. Nuestra plantilla ofrece muchas ventajas para configurar procesos ágiles y generar más negocios.
       items:
       - text: 'Siempre al día: gracias a la función de comentarios integrada, las notificaciones automáticas y el historial completo de cambios, siempre estará informado.'
       - text: 'Verdadera colaboración: usted y su equipo trabajan juntos en tiempo real y siempre tienen acceso a la información más reciente, incluso sin reuniones de estado.'
