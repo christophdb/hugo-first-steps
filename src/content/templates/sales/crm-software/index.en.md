@@ -3,6 +3,8 @@ title: 'CRM Software'
 description: 'Manage customer data, capture new leads and deals, and create quotes at the touch of a button.'
 date: '2025-02-28'
 url: '/templates/crm-software/'
+aliases:
+    - '/template/crm-offer-management'
 category: 'sales'
 functions:
 seo:
@@ -72,7 +74,7 @@ sections:
         - curved
       title: 'CRM software from SeaTable'
       subtitle: 'Your advantages at a glance'
-      description: "With SeaTable's AI no-code solution, you can use a modern and scalable CRM tool for your sales operations. Our template offers many advantages for setting up lean processes and generating more deals."
+      description: With SeaTable's AI no-code solution, you can use [a modern and scalable CRM tool]({{< relref "posts/no-code-crm" >}}) for your sales operations. Our template offers many advantages for setting up lean processes and generating more deals.
       items:
       - text: 'Always up to date: Thanks to the integrated comment function, automatic notifications, and complete change history, you always stay informed.'
       - text: 'True collaboration: You and your team work together in real time and always have access to the latest information—even without status meetings.'

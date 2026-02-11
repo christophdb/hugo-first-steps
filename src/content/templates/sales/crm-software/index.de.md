@@ -3,6 +3,8 @@ title: 'CRM Software'
 description: 'Verwalten Sie Kundendaten, erfassen Sie neue Leads und Deals und erstellen Sie Angebote auf Knopfdruck.'
 date: '2025-02-28'
 url: '/de/vorlagen/crm-software/'
+aliases: 
+    - '/de/vorlage/crm-offer-management'
 category: 'sales'
 functions:
 seo:
@@ -72,7 +74,7 @@ sections:
         - curved
       title: 'CRM Software von SeaTable'
       subtitle: 'Ihre Vorteile auf einen Blick'
-      description: 'Mit der KI No-Code-Lösung von SeaTable nutzen Sie ein modernes und skalierbares Tool für Ihre Sales-Operationen. Unsere CRM-Vorlage bietet viele Vorteile, um schlanke Prozesse aufzusetzen und mehr Deals zu generieren.'
+      description: 'Mit der KI No-Code-Lösung von SeaTable nutzen Sie ein [modernes und skalierbares CRM-Tool]({{< relref "posts/no-code-crm" >}}) für Ihre Sales-Operationen. Unsere CRM-Vorlage bietet viele Vorteile, um schlanke Prozesse aufzusetzen und mehr Deals zu generieren.'
       items:
       - text: 'Stets aktuell: Dank der integrierten Kommentarfunktion, automatischen Benachrichtigungen und vollständiger Änderungshistorie bleiben Sie immer informiert.'
       - text: 'Echte Kollaboration: Sie und Ihr Team arbeiten in Echtzeit zusammen und verfügen stets über aktuelle Informationen – auch ohne Status-Meetings.'
