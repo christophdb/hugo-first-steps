@@ -41,7 +41,7 @@ sections:
             icon: leaf
 
           - headline: Resaltado por colores
-            text: 'SeaTable puede manejar todo tipo de información. No se limite a texto y números. Hay un total de 25 tipos diferentes de columnas disponibles.'
+            text: 'SeaTable permite resaltar visualmente filas completas mediante el formato de filas, lo que permite identificar más rápidamente los registros importantes y distinguirlos de un vistazo.'
             icon: signature
 
           - headline: Autorizaciones

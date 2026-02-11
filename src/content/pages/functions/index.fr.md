@@ -41,7 +41,7 @@ sections:
             icon: leaf
 
           - headline: Mise en évidence par couleur
-            text: "SeaTable peut gérer tous types d'informations. Ne vous limitez pas au texte et aux chiffres. Un total de 25 types de colonnes différents est disponible."
+            text: "SeaTable permet de mettre en évidence visuellement des lignes entières grâce au formatage des lignes, afin d'identifier plus rapidement les enregistrements importants et de les distinguer d'un seul coup d'œil."
             icon: signature
 
           - headline: Autorisations
