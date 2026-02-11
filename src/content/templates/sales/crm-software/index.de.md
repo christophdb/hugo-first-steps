@@ -4,7 +4,7 @@ description: 'Verwalten Sie Kundendaten, erfassen Sie neue Leads und Deals und e
 date: '2025-02-28'
 url: '/de/vorlagen/crm-software/'
 aliases: 
-    - '/de/vorlage/crm-offer-management'
+    - '/de/vorlagen/crm-offer-management'
 category: 'sales'
 functions:
 seo:

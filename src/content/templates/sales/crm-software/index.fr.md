@@ -4,7 +4,7 @@ description: 'Gérez les données clients, acquérez de nouveaux prospects et co
 date: '2025-02-28'
 url: '/fr/modeles/logiciel-crm/'
 aliases:
-    - '/fr/modele/crm-offer-management'
+    - '/fr/modeles/crm-offer-management'
 category: 'sales'
 functions:
 seo:
