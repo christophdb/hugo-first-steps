@@ -42,11 +42,11 @@ Hierzu bietet Ihnen SeaTable viele Möglichkeiten, um kostengünstig, lukrativ u
 
 Der Vorteil eines CRM in SeaTable: Sie haben immer einen zentralen Sammelpunkt, an dem alle Informationen sämtlicher Abteilungen zusammenlaufen und somit immer alle Kundendaten, Vertriebsphasen und vieles mehr auf einen Blick. Dadurch müssen Sie sich nicht mehr die Informationen durch einzelne Abteilungen selber zusammenstellen. Dies spart Ihnen viel Zeit und vor allem auch Nerven. Weiterhin passt sich SeaTable flexibel an alle Ihre Anforderungen an.
 
-[Hier geht es direkt zu unserem Template CRM Angebotsmanagement]({{< relref "templates/sales/crm-offer-management" >}})
+[Hier geht es direkt zu unserem Template CRM Angebotsmanagement]({{< relref "templates/sales/crm-software" >}})
 
 ## Neue Kundendaten erfassen
 
-Um mit der Erfassung der eigentlichen Kundendaten zu starten, steht Ihnen bei unserem [CRM-Template]({{< relref "templates/sales/crm-offer-management" >}}) ein vordefiniertes [Webformular]({{< relref "help/base-editor/webformulare" >}}) zur Verfügung, das Sie nach Belieben an Ihr Design und an Ihre Wünsche anpassen können. Hiermit erfassen Sie alle relevanten Informationen, die für Ihr CRM wichtig sind, wie z. B. den Kundennamen, die Anschrift des Kunden, den Ansprechpartner, die Telefonnummer, die E-Mail-Adresse, das Umsatzpotenzial, wichtige Dateianhänge und vieles mehr.
+Um mit der Erfassung der eigentlichen Kundendaten zu starten, steht Ihnen bei unserem [CRM-Template]({{< relref "templates/sales/crm-software" >}}) ein vordefiniertes [Webformular]({{< relref "help/base-editor/webformulare" >}}) zur Verfügung, das Sie nach Belieben an Ihr Design und an Ihre Wünsche anpassen können. Hiermit erfassen Sie alle relevanten Informationen, die für Ihr CRM wichtig sind, wie z. B. den Kundennamen, die Anschrift des Kunden, den Ansprechpartner, die Telefonnummer, die E-Mail-Adresse, das Umsatzpotenzial, wichtige Dateianhänge und vieles mehr.
 
 Diese Daten wandern im Anschluss in Ihr persönliches CRM-System bzw. in die SeaTable Tabelle „Customer Data“ und werden dort direkt nach Umsatzpotenzial farblich gekennzeichnet.
 
@@ -146,6 +146,6 @@ Dieser Artikel sollte Ihnen verdeutlicht haben, wie leistungsstark und flexibel 
 
 Zudem brauchen Sie nicht für jeden einzelnen Aufgabenbereich eine separate Lösung, sondern können mit SeaTable abteilungsübergreifende Prozesse effektiv und effizient abbilden. SeaTable lässt Ihnen wirklich keine Wünsche offen und passt sich ganz an Ihre persönlichen Bedürfnisse an. Worauf warten Sie noch? Verzichten Sie auf teure CRM-Softwareanbieter und starten Sie noch heute mit Ihrem SeaTable-CRM-System durch.
 
-[Zum Template „CRM-Angebotsmanagement“]({{< relref "templates/sales/crm-offer-management" >}})  
+[Zum Template „CRM-Angebotsmanagement“]({{< relref "templates/sales/crm-software" >}})  
 [Jetzt SeaTable kostenlos in der Cloud ausprobieren]({{< relref "pages/registration" >}})  
 [Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben]({{< relref "pages/product/seatable-server" >}})
