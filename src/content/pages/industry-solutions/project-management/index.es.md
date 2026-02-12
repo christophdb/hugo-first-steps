@@ -43,7 +43,7 @@ sections:
       headline: Vista en tiempo real y colaboración en equipo
       text: "Con funciones integrales de colaboración y notificaciones inteligentes, sus procesos se integran de manera fluida y todos saben lo que deben hacer. En SeaTable siempre estará actualizado, ya sea para la asignación de tareas basada en IA, el seguimiento del progreso o la edición conjunta de documentos."
 
-    - icon: heart
+    - icon: robot
       headline: Automatización de tareas rutinarias con IA
       text: Automatice en SeaTable los [flujos de trabajo]({{< relref "pages/industry-solutions/individual" >}}) repetitivos mediante lógica inteligente de IA. Esto reduce drásticamente el trabajo manual y minimiza los errores humanos. A través de la API de SeaTable o plataformas de automatización, también puede integrar todas sus herramientas favoritas con SeaTable.
 

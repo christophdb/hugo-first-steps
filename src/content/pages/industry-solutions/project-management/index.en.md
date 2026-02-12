@@ -44,7 +44,7 @@ sections:
         headline: Real-time overview and team collaboration
         text: "With comprehensive collaboration features and smart notifications, your processes are seamlessly connected and everyone knows what to do. In SeaTable, you always stay up to date – whether it’s AI-based task assignment, progress tracking, or joint document editing."
 
-      - icon: heart
+      - icon: robot
         headline: AI-powered automation of routine tasks
         text: Automate recurring [workflows]({{< relref "pages/industry-solutions/individual" >}}) in SeaTable using smart AI logic. This drastically reduces manual data entry and minimizes human error. Through the SeaTable API or automation platforms, you can also integrate all your favorite tools with SeaTable.
 

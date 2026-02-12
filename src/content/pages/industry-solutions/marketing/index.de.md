@@ -61,7 +61,7 @@ sections:
       - icon: location-dot
         headline: Eventmanagement
         text: Mit SeaTable als leistungsstarkem Marketing Management Tool organisieren Sie Kundenveranstaltungen, Messen oder Webinare effizient.
-      - icon: heart
+      - icon: circle-question
         headline: Kundenfeedback und Umfragen
         text: Erstellen Sie benutzerdefinierte Umfragen und Formulare und werten Sie die Ergebnisse mit Statistiken und Dashboards direkt aus.
     # TODO: content-4 wenn kein link definiert, dann wird kein link angezeigt.
