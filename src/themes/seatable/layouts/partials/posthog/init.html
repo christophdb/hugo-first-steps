@@ -59,7 +59,7 @@
             disable_surveys: true,
             autocapture: false,
             cookie_expiration: 90,
-            person_profiles: 'identified_only', // or 'always' to create profiles for anonymous users as well
+            person_profiles: 'always',
             loaded: function (posthog) {
                 // Super Properties registrieren
                 const { language, slug } = getLanguageAndSlug();
