@@ -7,12 +7,21 @@ seo:
 url: '/fr/integrations/'
 
 sections:
-    - name: "content-10"
+    
+    - name: "hero-2"
       weight: 1
       classes:
-      title: Automatisez votre travail
-      subtitle: Intégrations avec SeaTable
-      description: "Intégrez SeaTable à vos outils préférés via l'API SeaTable ou des plateformes d'automatisation pour relier vos informations commerciales les plus importantes et créer des applications plus puissantes."
+        - bg-[#ece5e2]
+      title: 'Intégrations avec SeaTable – votre centre de contrôle connecté'
+      subtitle: 'Connecter, automatiser, adapter'
+      text: "Faites de SeaTable le centre névralgique de vos données : toutes les informations issues du CRM, de la gestion de projet, du support et des applications spécialisées sont regroupées dans une interface flexible basée sur des tableaux. Les équipes gardent ainsi une vue d'ensemble, gèrent les flux de travail de manière transparente et réduisent les doublons manuels grâce à des intégrations et des automatisations fluides."
+    
+    - name: "content-10"
+      weight: 3
+      classes:
+      title: Veuillez sélectionner votre plateforme préférée
+      subtitle: Automatisez votre travail
+      description: "Connectez SeaTable aux outils d'automatisation les plus courants et utilisez des milliers de connexions prêtes à l'emploi, de Zapier à Make en passant par n8n et Integrately."
       items:
       - image: '/images/logos/zapier.svg'
         image_alt: 'Intégrations avec SeaTable et Zapier'
@@ -24,7 +33,7 @@ sections:
         image_alt: 'Intégrations avec SeaTable et Integrately' 
 
     - name: 'customer-2'
-      weight: 2
+      weight: 4
       marquee_rows: 2
       title: Des milliers d’intégrations disponibles
       subtitle: Applications & outils pour tous les types de travail
@@ -42,7 +51,7 @@ sections:
             link: 'posts/20250307-low-code'
 
     - name: 'content-27'
-      weight: 4
+      weight: 2
       title: 'Automatisez vos workflows'
       subtitle: 'Intégrations disponibles'
       text: Connectez SeaTable à toutes vos applications préférées. Les plateformes suivantes vous permettent d’échanger automatiquement des données entre SeaTable et d’autres solutions logicielles.
