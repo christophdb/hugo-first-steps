@@ -1,5 +1,5 @@
 ---
-title: 'Kanban Board'
+title: 'Kanban Board Template'
 description: 'Optimize workflows, manage teams in real-time, and benefit from flexible automation and analytics.'
 date: '2025-03-05'
 url: '/template/kanban-board-template'

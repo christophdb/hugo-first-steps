@@ -1,5 +1,5 @@
 ---
-title: 'Food Diary'
+title: 'Food Diary Template'
 description: 'Log your meals in a structured way, spot patterns in intolerances and share relevant data with experts.'
 date: '2025-07-18'
 url: '/template/food-diary'

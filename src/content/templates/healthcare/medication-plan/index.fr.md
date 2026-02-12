@@ -1,5 +1,5 @@
 ---
-title: Plan de médication
+title: Modèle plan de médication
 description: 'Gardez médicaments, dosages et contacts médicaux sous contrôle, mettez vos données à jour à tout moment et générez un récapitulatif imprimable en toute sécurité.'
 date: '2025-09-23'
 url: '/fr/modeles/plan-de-medication'

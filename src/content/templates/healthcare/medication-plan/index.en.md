@@ -1,5 +1,5 @@
 ---
-title: 'Medication plan'
+title: 'Medication plan template'
 description: 'Keep medications, dosages, and doctor contacts central, update data anytime, and generate a secure, printable overview digitally.'
 date: '2025-09-23'
 url: '/templates/medication-plan'
