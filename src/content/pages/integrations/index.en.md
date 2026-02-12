@@ -7,12 +7,21 @@ seo:
 url: '/integrations/'
 
 sections:
-    - name: "content-10"
+    
+    - name: "hero-2"
       weight: 1
       classes:
-      title: Automate Your Work
-      subtitle: Integrations with SeaTable
-      description: Integrate SeaTable with your favorite tools via the SeaTable API or automation platforms to connect your key business information and create more powerful applications.
+        - bg-[#ece5e2]
+      title: 'Integrations with SeaTable – your control center for connected workflows'
+      subtitle: 'Connect, automate, scale'
+      text: 'Make SeaTable the control center for your data: All information from CRM, project management, support, and specialized applications comes together in a flexible, table-based interface. This allows teams to maintain an overview, manage workflows transparently, and reduce manual duplication of work thanks to seamless integrations and automations.'
+    
+    - name: "content-10"
+      weight: 3
+      classes:
+      title: Select your preferred platform
+      subtitle: Automate your work
+      description: Connect SeaTable with the most popular automation tools and use thousands of pre-built connections—from Zapier to Make to n8n and Integrately.
       items:
       - image: '/images/logos/zapier.svg'
         image_alt: 'Integrations with SeaTable and Zapier'
@@ -25,7 +34,7 @@ sections:
 
 
     - name: 'customer-2'
-      weight: 2
+      weight: 3
       marquee_rows: 2
       title: Thousands of Integrations Available
       subtitle: Apps & Tools for Every Kind of Work
@@ -43,7 +52,7 @@ sections:
             link: 'posts/20250307-low-code'
 
     - name: 'content-27'
-      weight: 4
+      weight: 2
       title: 'Automate Your Workflows'
       subtitle: 'Available Integrations'
       text: Connect SeaTable with all your favorite apps. The following platforms allow you to automatically exchange data between SeaTable and other software solutions.

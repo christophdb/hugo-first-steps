@@ -7,12 +7,21 @@ seo:
 url: '/es/integraciones/'
 
 sections:
-    - name: "content-10"
+    
+    - name: "hero-2"
       weight: 1
       classes:
-      title: Automatiza tu trabajo
-      subtitle: Integraciones con SeaTable
-      description: Integre SeaTable con sus herramientas favoritas a través de la API de SeaTable o de plataformas de automatización para conectar la información clave de su negocio y crear aplicaciones más potentes.
+        - bg-[#ece5e2]
+      title: 'Integraciones con SeaTable – su centro de control conectado'
+      subtitle: 'Conectar, automatizar, escalar'
+      text: 'Convierta SeaTable en el centro de control de sus datos: toda la información de CRM, gestión de proyectos, asistencia técnica y aplicaciones especializadas se reúne en una interfaz flexible basada en tablas. De este modo, los equipos mantienen una visión general, controlan los flujos de trabajo de forma transparente y reducen la duplicación manual del trabajo gracias a integraciones y automatizaciones perfectas.'
+    
+    - name: "content-10"
+      weight: 3
+      classes:
+      title: Elija su plataforma favorita
+      subtitle: Automatice su trabajo
+      description: Conecte SeaTable con las herramientas de automatización más populares y aproveche miles de conexiones predefinidas, desde Zapier y Make hasta n8n e Integrately.
       items:
       - image: '/images/logos/zapier.svg'
         image_alt: 'Integraciones con SeaTable y Zapier'
@@ -24,7 +33,7 @@ sections:
         image_alt: 'Integraciones con SeaTable y Integrately' 
 
     - name: 'customer-2'
-      weight: 2
+      weight: 4
       marquee_rows: 2
       title: Miles de integraciones disponibles
       subtitle: Apps y herramientas para todo tipo de trabajo
@@ -42,7 +51,7 @@ sections:
             link: 'posts/20250307-low-code'
 
     - name: 'content-27'
-      weight: 4
+      weight: 2
       title: 'Automatiza tus flujos de trabajo'
       subtitle: 'Integraciones disponibles'
       text: Conecta SeaTable con todas tus aplicaciones favoritas. Las siguientes plataformas te permiten intercambiar datos automáticamente entre SeaTable y otras soluciones de software.
