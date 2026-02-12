@@ -66,7 +66,7 @@ sections:
       - icon: location-dot 
         headline: Event management 
         text: With SeaTable as a powerful marketing management tool, you can efficiently organize customer events, trade shows, or webinars. 
-      - icon: heart 
+      - icon: circle-question 
         headline: Customer feedback and surveys 
         text: Create custom surveys and forms and evaluate the results directly with statistics and dashboards.
 

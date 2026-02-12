@@ -64,7 +64,7 @@ sections:
       - icon: location-dot
         headline: "Gestion d'événements"
         text: "SeaTable est un outil de gestion marketing performant qui vous permet d'organiser efficacement des événements clients, des salons ou des webinaires."
-      - icon: heart
+      - icon: circle-question
         headline: "Commentaires des clients et enquêtes"
         text: "Créez des enquêtes et des formulaires personnalisés et évaluez directement les résultats à l'aide de statistiques et de tableaux de bord."
 

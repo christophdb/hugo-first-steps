@@ -41,7 +41,7 @@ sections:
         headline: Echtzeit-Kollaboration
         text: "In SeaTable arbeiten Ihre Teams transparent und in Echtzeit zusammen. Dadurch hat jeder stets die aktuellen Daten und Ihre Prozesse greifen ineinander."
       
-      - icon: heart
+      - icon: robot
         headline: KI-Automatisierungen
         text: Nutzen Sie die integrierten KI-unterstützten Automatisierungen für effiziente Prozesse und schlanke Workflows – mit SeaTables eigenem KI-Server. 
 

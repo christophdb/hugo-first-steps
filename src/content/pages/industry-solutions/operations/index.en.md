@@ -41,7 +41,7 @@ sections:
         headline: Real-time collaboration
         text: "In SeaTable, your teams work together transparently and in real time.Everyone always has the latest data and your processes interlock."
       
-      - icon: heart
+      - icon: robot
         headline: AI automations
         text: Use the integrated AI-supported automations for efficient processes and lean workflows - with SeaTable's own AI server. 
 
