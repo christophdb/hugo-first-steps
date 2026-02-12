@@ -244,21 +244,8 @@
                                 console.log(data);
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
-
-                                    if (typeof this.email === 'string' && this.email.trim() !== '') {
-                                        window.crypto.subtle.digest('SHA-256', new TextEncoder().encode(this.email.toLowerCase().trim()))
-                                            .then(hashBuffer => {
-                                                const hashArray = Array.from(new Uint8Array(hashBuffer));
-                                                const hashedEmail = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-                                                if (typeof posthog !== 'undefined') {
-                                                    posthog.identify(hashedEmail, { email: hashedEmail });
-                                                    posthog.capture('cloud_register_submit');
-                                                }
-                                            })
-                                            .catch(err => {
-                                                console.error('Hashing failed:', err);
-                                                posthog.capture('cloud_register_submit');
-                                            });
+                                    if (typeof posthog !== 'undefined') {
+                                        posthog.capture('cloud_register_submit');
                                     }
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
