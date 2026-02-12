@@ -1,5 +1,5 @@
 ---
-title: 'Medikamentenplan'
+title: 'Medikamentenplan Vorlage'
 description: 'Medikamente, Dosierungen und Arztkontakte zentral im Blick behalten, Daten jederzeit aktualisieren und eine druckbare Übersicht sicher digital erstellen.'
 date: '2025-09-23'
 url: '/de/vorlage/medikamentenplan'

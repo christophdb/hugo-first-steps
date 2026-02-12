@@ -1,5 +1,5 @@
 ---
-title: 'Quotation Management'
+title: 'Quotation Management Template'
 description: 'Generate, organize and send quotes in one place, automate approvals and streamline your sales proposal process.'
 date: '2025-04-06'
 url: '/template/quotation-management-template'

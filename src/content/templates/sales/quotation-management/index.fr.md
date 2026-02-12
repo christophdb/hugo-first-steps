@@ -1,5 +1,5 @@
 ---
-title: 'Écrire une offre'
+title: "Modèle rédaction offre"
 description: 'Centralisez la création, gestion et envoi des devis, optimisez les validations et automatisez l’ensemble du processus de vente.'
 date: '2025-04-06'
 url: '/fr/modele/modele-gestion-offres'

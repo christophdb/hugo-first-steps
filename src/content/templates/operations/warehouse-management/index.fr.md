@@ -1,5 +1,5 @@
 ---
-title: 'Gestion des stocks'
+title: 'Modèle gestion des stocks'
 description: "Centralisez produits, emplacements et mouvements, gérez alertes automatiques et visualisez l’activité du stock instantanément en dashboard."
 date: '2025-07-18'
 url: '/fr/modele/gestion-des-stocks'
