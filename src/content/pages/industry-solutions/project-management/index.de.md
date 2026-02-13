@@ -41,9 +41,9 @@ sections:
         headline: Echtzeit-Überblick und Zusammenarbeit im Team
         text: "Dank umfassender Kollaborationsfunktionen und intelligenter Benachrichtigungen greifen Ihre Prozesse ineinander und jeder weiß, was zu tun ist. In SeaTable bleiben Sie auf dem neuesten Stand – egal, ob es um die KI-basierte Zuweisung von Aufgaben, die Nachverfolgung von Fortschritten oder die gemeinsame Bearbeitung von Dokumenten geht."
       
-      - icon: heart
+      - icon: robot
         headline: KI-gestützte Automatisierung von Routinetätigkeiten
-        text: Automatisieren Sie in SeaTable wiederkehrende [Workflows]({{< relref "pages/industry-solutions/individual" >}}) mithilfe von smarter KI-Logik. So reduzieren Sie den manuellen Arbeitsaufwand bei der Datenerfassung drastisch und minimieren menschliche Fehler. Über die SeaTable API oder Automationsplattformen können Sie zudem all Ihre Lieblingstools mit SeaTable integrieren.
+        text: Automatisieren Sie in SeaTable wiederkehrende Workflows mithilfe von smarter KI-Logik. So reduzieren Sie den manuellen Arbeitsaufwand bei der Datenerfassung drastisch und minimieren menschliche Fehler. Über die SeaTable API oder Automationsplattformen können Sie zudem all Ihre Lieblingstools mit SeaTable integrieren.
 
       - icon: globe
         headline: Skalierbarkeit, Datenschutz und KI-Souveränität
