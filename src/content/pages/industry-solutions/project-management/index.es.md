@@ -61,7 +61,7 @@ sections:
         - bg-white
       title: Gestión de proyectos para equipos de cualquier tamaño
       subtitle: Gestionar equipos de proyecto
-      description: 'Con la [plataforma sin código de IA]({{< relref "/" >}}) SeaTable, dispone de una herramienta flexible para la gestión de proyectos con la que puede diseñar [procesos personalizados]({{< relref "pages/industry-solutions/individual" >}}). Aproveche las automatizaciones integradas y los derechos de acceso granulares para proyectos ágiles y una gestión eficaz de las partes interesadas.'
+      description: 'Con la [plataforma no-code de IA]({{< relref "/" >}}) SeaTable, dispone de una herramienta flexible para la gestión de proyectos con la que puede diseñar [procesos personalizados]({{< relref "pages/industry-solutions/individual" >}}). Aproveche las automatizaciones integradas y los derechos de acceso granulares para proyectos ágiles y una gestión eficaz de las partes interesadas.'
       items:
         - text: "Mejora de la **colaboración en equipo** gracias a las funciones de comentarios y notificaciones"
         - text: "**Flujos de trabajo asistidos por IA** para proyectos ágiles"
@@ -77,7 +77,7 @@ sections:
       subtitle: Herramientas de gestión de proyectos
       items:
       - headline: Gran libertad de diseño
-        text: La plataforma de IA sin código SeaTable le permite diseñar sus procesos de forma personalizada. Dispondrá de todas las herramientas necesarias para desarrollar su proyecto según sus ideas y utilizar diferentes [métodos de gestión de proyectos]({{< relref "posts/20250308-projektmanagement-methoden" >}})..
+        text: La plataforma de IA no-code SeaTable le permite diseñar sus procesos de forma personalizada. Dispondrá de todas las herramientas necesarias para desarrollar su proyecto según sus ideas y utilizar diferentes [métodos de gestión de proyectos]({{< relref "posts/20250308-projektmanagement-methoden" >}})..
       - headline: Transparencia y protección de datos
         text: Con SeaTable, puede reunir toda la información en un solo lugar, trabajar conjuntamente en proyectos y sincronizar los cambios en tiempo real. De este modo, se consigue transparencia para todos los participantes en el proyecto. 
       - headline: Solución económica

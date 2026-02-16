@@ -62,7 +62,7 @@ sections:
         - bg-white
       title: Gestion de projet pour toutes les tailles d'équipes
       subtitle: Gérer des équipes de projet
-      description: 'Avec la plateforme [KI No-Code]({{< relref "/" >}}), SeaTable vous offre un outil flexible de gestion de projet pour concevoir [des processus personnalisés]({{< relref "pages/industry-solutions/individual" >}}). Utilisez les automatisations intégrées et les droits accès granulaires pour des projets agiles et une gestion efficace des parties prenantes.'
+      description: 'Avec la plateforme [IA No-Code]({{< relref "/" >}}), SeaTable vous offre un outil flexible de gestion de projet pour concevoir [des processus personnalisés]({{< relref "pages/industry-solutions/individual" >}}). Utilisez les automatisations intégrées et les droits accès granulaires pour des projets agiles et une gestion efficace des parties prenantes.'
       items:
         - text: "**Amélioration de la collaboration** en équipe grâce aux fonctionnalités de commentaires et aux notifications"
         - text: "**Workflows assistés par IA** pour des projets optimisés"
@@ -78,7 +78,7 @@ sections:
       subtitle: Outils de gestion de projet
       items:
       - headline: Une grande liberté de conception
-        text: La plateforme IA sans code SeaTable vous permet de personnaliser vos processus. Vous disposez de tous les outils nécessaires pour développer votre projet selon vos idées et utiliser différentes [méthodes de gestion de projet]({{< relref "posts/20250308-projektmanagement-methoden" >}}).
+        text: La plateforme IA no-code SeaTable vous permet de personnaliser vos processus. Vous disposez de tous les outils nécessaires pour développer votre projet selon vos idées et utiliser différentes [méthodes de gestion de projet]({{< relref "posts/20250308-projektmanagement-methoden" >}}).
       - headline: Transparence et protection des données
         text: Avec SeaTable, vous regroupez toutes les informations en un seul endroit, collaborez sur des projets et synchronisez les modifications en temps réel. Cela garantit une transparence totale pour tous les participants au projet. 
       - headline: Solution économique
