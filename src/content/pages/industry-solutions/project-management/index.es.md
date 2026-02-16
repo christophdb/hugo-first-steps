@@ -10,194 +10,199 @@ aliases:
   - '/es/projectmanagement-tools/'
 
 sections:
-  - name: hero-5
-    weight: 1
-    title: La solución más flexible entre las herramientas de gestión de proyectos
-    text: Planifique y controle sus proyectos de manera eficiente con SeaTable. Trabaje en equipo de forma colaborativa en tiempo real y **utilice flujos de trabajo basados en IA** para optimizar y automatizar sus procesos. SeaTable le ofrece todas las ventajas de las herramientas modernas de gestión de proyectos que necesita para una organización de proyectos colaborativa.
-    classes:
-      - bg-gray-200
-    template: 1acd19d97c8f4ed3ad38
-    buttons:
-      - label: Empiece ahora
-        link: 'pages/registration'
-        style: primary
-        id: es-project-management-registration
-      - label: Conozca las funciones
-        link: pages/functions
+    - name: hero-5
+      weight: 1
+      title: La solución más flexible entre las herramientas de gestión de proyectos
+      text: Planifique y controle sus proyectos de forma eficiente con SeaTable. Trabaje en equipo de forma colaborativa en tiempo real y utilice flujos de trabajo basados en IA para procesos inteligentes. Aproveche todas las ventajas de una herramienta de gestión de proyectos moderna y dinámica.
+      classes:
+          - bg-gray-200
+      template: 1acd19d97c8f4ed3ad38
+      buttons:
+          - label: Empiecen ahora mismo
+            link: 'pages/registration'
+            style: primary
+            id: es-project-management-registration
+          - label: Conocer las funciones
+            link: pages/functions
 
-  - name: "content-4"
-    weight: 4
-    title: SeaTable es la solución perfecta para su gestión de proyectos
-    subtitle: Ventajas de SeaTable
-    text: "Como gerente de proyectos, debe mantener siempre una visión general para gestionar eficazmente proyectos complejos. Sin embargo, el software tradicional de gestión de proyectos a menudo llega a sus límites, especialmente cuando se trata de metodologías ágiles. SeaTable le ofrece una experiencia excepcional, potenciando con funciones modernas de IA y las siguientes ventajas:"
-    items:
-    - icon: edit
-      headline: Flexibilidad y adaptabilidad a sus necesidades con potencia de IA
-      text: "Desarrolle con SeaTable soluciones personalizadas con soporte de IA que se adapten exactamente a sus necesidades. Ya sea que quiera implementar métodos ágiles, crear informes de estado con IA o supervisar con diagramas de Gantt clásicos, SeaTable le ofrece la libertad de realizar su visión de una gestión de proyectos eficiente."
+    - name: "content-4"
+      weight: 2
+      title: SeaTable es la solución perfecta para la gestión de sus proyectos.
+      subtitle: Ventajas de SeaTable
+      text: 
+      items:
+      - icon: edit
+        headline: Flexible e intuitivo
+        text: SeaTable ofrece una interfaz intuitiva, plantillas fáciles de usar y accesibilidad inmediata. Desarrolle soluciones personalizadas que se adapten exactamente a sus necesidades.
+      - icon: table
+        headline: Kanban, Gantt y más
+        text: Registre todos los datos en tablas claramente estructuradas y cree con unos pocos clics diagramas de Gantt, tableros Kanban, planes de estructura de proyectos o paneles de control ilustrativos y personalizables.
 
-    - icon: up-right-and-down-left-from-center
-      headline: Interfaz intuitiva y visualización inteligente de datos
-      text: "Gracias al diseño intuitivo y la interfaz impulsada por IA, podrá representar sus tareas diarias de forma rápida y eficiente. Todos los datos están claramente organizados en tablas y pueden visualizarse fácilmente en calendarios, organigramas, estadísticas generadas por IA, tableros Kanban y líneas de tiempo."
+      - icon: up-right-and-down-left-from-center
+        headline: Colaboración en tiempo real
+        text: Gracias a las completas funciones de colaboración, podrá aportar transparencia a sus proyectos. Con la función de chat, las notificaciones automáticas y los cambios en tiempo real, todos estarán siempre al día.
+      
+      - icon: robot
+        headline: Automatización basada en IA
+        text: Aproveche las automatizaciones integradas asistidas por IA para obtener flujos de trabajo optimizados y un procesamiento de datos inteligente. De este modo, reducirá el trabajo manual. 
 
-    - icon: location-dot
-      headline: Vista en tiempo real y colaboración en equipo
-      text: "Con funciones integrales de colaboración y notificaciones inteligentes, sus procesos se integran de manera fluida y todos saben lo que deben hacer. En SeaTable siempre estará actualizado, ya sea para la asignación de tareas basada en IA, el seguimiento del progreso o la edición conjunta de documentos."
+      - icon: expand
+        headline: Escalable
+        text: "¿Sus necesidades crecen? SeaTable crece con usted. Adapte su herramienta de gestión de proyectos de forma flexible a su proyecto. SeaTable Free es gratuito para siempre: solo tendrá que ampliarlo cuando sea necesario."
+      
+      - icon: shield
+        headline: Conforme al RGPD
+        text: La protección de los datos confidenciales de los proyectos es especialmente importante. SeaTable ofrece SSO, permisos de acceso granulares y aloja SeaTable Cloud y el servidor SeaTable AI exclusivamente en servidores europeos ubicados en Alemania.
+        
+    - name: content-12
+      weight: 3
+      classes: 
+        - curved
+        - bg-white
+      title: Gestión de proyectos para equipos de cualquier tamaño
+      subtitle: Gestionar equipos de proyecto
+      description: 'Con la [plataforma sin código de IA]({{< relref "/" >}}) SeaTable, dispone de una herramienta flexible para la gestión de proyectos con la que puede diseñar [procesos personalizados]({{< relref "pages/industry-solutions/individual" >}}). Aproveche las automatizaciones integradas y los derechos de acceso granulares para proyectos ágiles y una gestión eficaz de las partes interesadas.'
+      items:
+        - text: "Mejora de la **colaboración en equipo** gracias a las funciones de comentarios y notificaciones"
+        - text: "**Flujos de trabajo asistidos por IA** para proyectos ágiles"
+        - text: "**Fácil implementación** sin conocimientos de programación"
+        - text: "Aplicación de gestión de proyectos clara gracias al **creador de aplicaciones de arrastrar y soltar**"
+        - text: "Como solución escalable **en la nube o local**"
+      image: /images/Projektmanagement_Teamwork-6.png
+      image_alt: 'Vista de gestión de proyectos de SeaTable para el trabajo en equipo con tareas y estados'    
 
-    - icon: heart
-      headline: Automatización de tareas rutinarias con IA
-      text: Automatice en SeaTable los [flujos de trabajo]({{< relref "pages/industry-solutions/individual" >}}) repetitivos mediante lógica inteligente de IA. Esto reduce drásticamente el trabajo manual y minimiza los errores humanos. A través de la API de SeaTable o plataformas de automatización, también puede integrar todas sus herramientas favoritas con SeaTable.
-
-    - icon: globe
-      headline: Escalabilidad, protección de datos y soberanía de IA
-      text: "¿Su equipo crece o cambia el alcance del proyecto? SeaTable crece con usted. No importa cuán complejo sea el proyecto, con nuestros paquetes en la nube puede escalar libremente, mientras sus datos y consultas de IA se alojan exclusivamente en servidores europeos y se protegen según el RGPD."
-
-    - icon: shield
-      headline: Rentabilidad mediante soluciones inteligentes y personalizadas
-      text: "Como herramienta gratuita de gestión de proyectos, SeaTable destaca por su rentabilidad y funciones modernas de IA. Elija entre varios modelos y adapte su software de gestión de proyectos, incluidos los créditos de IA, a su proyecto. SeaTable Free es gratuito para siempre: solo escalará cuando sea necesario."
-
-  - name: content-12
-    weight: 8
-    classes:
-      - curved
-      - bg-white
-    title: Gestión de proyectos para todos los tamaños de equipo
-    subtitle: Gestionar equipos de proyecto
-    items:
-      - text: Mejora de la comunicación en los equipos
-      - text: Colaboración en tiempo real
-      - text: Flujos de trabajo automatizados por IA
-      - text: Implementación sin conocimientos de programación
-      - text: 100 por ciento conforme con el RGPD
-    image: /images/Projektmanagement_Teamwork-6.png
-    iamge_alt: 'Vista de gestión de proyectos en SeaTable para trabajo en equipo con tareas y estados'
-
-  - name: content-1
-    weight: 9
-    title: SeaTable es flexible y fácil de usar
-    subtitle: Herramientas de gestión de proyectos
-    items:
-      - headline: Incorporación rápida
-        text: Muchos sistemas de gestión de proyectos ofrecen funciones complicadas que confunden en lugar de ayudar. SeaTable ofrece una interfaz intuitiva, plantillas fáciles de usar y accesibilidad inmediata.
-      - headline: Mucha libertad creativa
-        text: La [plataforma No‑Code con IA]({{< relref "/" >}}) le permite empezar desde cero y personalizar sus procesos individualmente. Obtiene todas las herramientas necesarias para desarrollar su proyecto según sus ideas.
+    - name: content-1
+      weight: 9
+      title: SeaTable es flexible y fácil de usar.
+      subtitle: Herramientas de gestión de proyectos
+      items:
+      - headline: Gran libertad de diseño
+        text: La plataforma de IA sin código SeaTable le permite diseñar sus procesos de forma personalizada. Dispondrá de todas las herramientas necesarias para desarrollar su proyecto según sus ideas y utilizar diferentes [métodos de gestión de proyectos]({{< relref "posts/20250308-projektmanagement-methoden" >}})..
       - headline: Transparencia y protección de datos
-        text: Con SeaTable, puede agrupar toda la información en un solo lugar, trabajar en proyectos conjuntamente y sincronizar los cambios en tiempo real. Esto crea transparencia para todos los participantes del proyecto.
+        text: Con SeaTable, puede reunir toda la información en un solo lugar, trabajar conjuntamente en proyectos y sincronizar los cambios en tiempo real. De este modo, se consigue transparencia para todos los participantes en el proyecto. 
       - headline: Solución económica
-        text: Con SeaTable puede configurar su software de gestión de proyectos individualmente. Sólo paga por las funciones que realmente necesita, o puede utilizar la versión gratuita, que puede actualizar si es necesario, de forma transparente y justa.
-    image: /images/Projektmanagement_Group-3.png
-    image_alt: 'Equipo que comenta proyectos usando SeaTable como herramienta de gestión'
-
-  - name: 'content-8'
-    weight: 10
-    title: Plantillas para iniciar su próximo proyecto
-    subtitle: Empieza ahora
-    description: "Utilice plantillas gratuitas específicamente para la gestión de proyectos para empezar. Un curso online gratuito le ayudará paso a paso a crear su primera base propia. ¡Experimente lo fácil que es llevar la gestión de sus proyectos al siguiente nivel con SeaTable!\n**Importe plantillas en su cuenta de SeaTable con un solo clic!**"
-    items:
-      - text: Plan de proyecto
-        image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-        image_alt: "Plantilla de plan de proyecto de SeaTable con tareas e hitos"
-      - text: Gestión de la cartera de proyectos
-        image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-        image_alt: "Plantilla de gestión de portafolio de proyectos de SeaTable para varios proyectos"
-      - text: Plan de acción
-        image: /images/Projektmanagement_Action-Plan_Template_9.png
-        image_alt: "Plantilla de plan de acción de SeaTable para tareas y responsabilidades"
-    buttons:
-      - label: Explore nuestras plantillas
-        link: 'templates'
-
-  - name: banner-2
-    weight: 20
-    title: No importa cómo sea su proyecto, con SeaTable puede hacerlo realidad
-    buttons:
-      - label: Regístrese ahora y empiece
-        link: pages/registration
-        id: es-project-management-registration-2
-
-  - name: "content-9"
-    weight: 26
-    classes:
-      - bg-white
-      - "!pt-40"
-    title: 4 consejos para proyectos exitosos
-    subtitle: Gestión ágil de proyectos
-    description: "SeaTable le ofrece una forma totalmente nueva de organizar la gestión de sus proyectos: Usted utiliza un conjunto de herramientas de software y elabora su plan de proyecto y sus procesos según sus propios deseos. Con estos 4 consejos, su próximo proyecto en SeaTable se desarrollará sin problemas y con éxito:"
-    items:
+        text: Con SeaTable puede **configurar su software de gestión de proyectos de forma personalizada**. Solo paga por las funciones que realmente necesita o utiliza la versión gratuita, que puede actualizar cuando lo desee, de forma transparente y justa.
+      image: /images/Projektmanagement_Group-3.png
+      image_alt: 'El equipo discute los proyectos con SeaTable como herramienta de gestión de proyectos.'
+      
+    - name: 'content-8'
+      weight: 10
+      title: Plantillas para comenzar su próximo proyecto
+      subtitle: Empiecen ahora mismo
+      description: Para empezar, utilice nuestras plantillas gratuitas específicas para la gestión de proyectos. **Importe plantillas a su cuenta de SeaTable con un solo clic.**
+      # bei items die links hinzufügen!
+      items:
+          - text: Plan del proyecto
+            image: /images/1-Projektmanagement_Project-Plan_Template_9.png
+            image_alt: "Plantilla SeaTable para plan de proyecto con tareas e hitos"
+          - text: Gestión de cartera de proyectos
+            image: /images/Projektmanagement_Project-Portfolio_Template_9.png
+            image_alt: "Plantilla de gestión de cartera de proyectos SeaTable para varios proyectos"
+          - text: plan de acción
+            image: /images/Projektmanagement_Action-Plan_Template_9.png
+            image_alt: "Plantilla de plan de acción de SeaTable para tareas y responsabilidades"
+      buttons:
+        - label: Explore nuestras plantillas
+          link: 'templates'
+          
+    - name: banner-2
+      weight: 20
+      title: Haga realidad su proyecto con SeaTable
+      buttons:
+          - label: Regístrese ahora y comience
+            link: pages/registration
+            id: es-project-management-registration-2
+            
+    - name: "content-9"
+      weight: 19
+      classes:
+        - bg-white
+      title: 3 consejos para proyectos exitosos
+      subtitle: Gestión ágil de proyectos
+      description: 'SeaTable le ofrece una forma completamente nueva de organizar la gestión de sus proyectos y utilizar [métodos ágiles de gestión de proyectos]({{< relref "posts/20250318-agiles-projektmanagement" >}}): utilice un kit de software y elabore su plan de proyecto, su planificación de hitos o su gestión de recursos según sus propias necesidades.'
+      items:
       - headline: Establecer objetivos
-        text: "Una de las garantías de éxito más importantes en la gestión de proyectos es que los objetivos del proyecto estén claramente definidos desde el principio. Por lo tanto, debe aclarar todos los objetivos del proyecto al principio y registrarlos visiblemente para todos con la ayuda de herramientas de gestión de proyectos como SeaTable. Un plan de estructura de proyecto, por ejemplo, es adecuado para una presentación clara."
+        text: Aclare todos los objetivos del proyecto por adelantado y documéntelos de forma visible para todos utilizando herramientas de gestión de proyectos como SeaTable. Para una presentación clara, se recomienda, por ejemplo, un plan de estructura del proyecto.
         icon: circle-question
       - headline: Comunicación clara
-        text: Si la información importante no está clara o no llega a tiempo a todos los participantes del proyecto, puede dar lugar a errores y retrasos. Por lo tanto, un software de gestión de proyectos como SeaTable permite a todas las partes interesadas tener una visión general transparente del estado actual del proyecto, el trabajo colaborativo y la comunicación directa.
-        icon: bullseye
+        text: Comuníquese de forma transparente con los participantes en el proyecto y las partes interesadas para evitar malentendidos. En SeaTable, puede conceder acceso restringido a usuarios externos y garantizar una gestión eficiente de las partes interesadas.
+        icon: comment
       - headline: Horarios flexibles
-        text: "Para que los cambios imprevistos no hagan descarrilar sus proyectos, debe confiar en herramientas flexibles de gestión de proyectos en las que pueda cambiar su plan de proyecto de forma espontánea. Con SeaTable, puede adaptar de forma flexible el calendario en la gestión de proyectos, reaccionar a los cuellos de botella de recursos, redistribuir las tareas y, sin embargo, mantener el objetivo en mente."
-        icon: fire
-      - headline: Involucrar a las partes interesadas
-        text: "La gestión de las partes interesadas es una tarea especialmente crítica. En una herramienta de gestión de proyectos como SeaTable, puede dar a las partes interesadas acceso limitado a los datos de su proyecto. Configure automatizaciones para informarles sobre los hitos importantes o enviar informes."
-        icon: star
-
-  - name: content-25
-    weight: 28
-    title: Una herramienta de gestión de proyectos - numerosos casos de uso
-    subtitle: Hay mucho que hacer en su gestión de proyectos
-    items:
-      - headline: Planificador de proyectos
-        text: Gestione cada actividad de su próximo proyecto con un planificador de proyectos claro. Con la plantilla de plan de proyecto de SeaTable, tiene la herramienta perfecta de planificación de proyectos para proyectos grandes y pequeños.
+        text: Apueste por herramientas de gestión de proyectos personalizables que puedan reflejar métodos ágiles. Con SeaTable, puede ajustar su calendario de forma flexible, reaccionar ante la escasez de recursos, redistribuir tareas y, aun así, mantener la vista puesta en el objetivo.
+        icon: fire  
+        
+    - name: content-25
+      weight: 28
+      title: "Una herramienta de gestión de proyectos: numerosos casos de aplicación"
+      subtitle: Más flexible que la gestión de proyectos con Monday y compañía.
+      items:
+      - headline: Planes de proyecto
+        text: Gestione todas las actividades de su próximo proyecto con un planificador de proyectos claro y conciso. Con la plantilla de planificación de proyectos de SeaTable, tendrá la herramienta perfecta para planificar proyectos grandes y pequeños.
         image: /images/Projektmanagement_-Project-Plan_10.png
-        iamge_alt: 'Vista de planificador de proyectos de SeaTable con línea temporal y tareas'
-      - headline: Plan de estructura del proyecto
-        text: Con un plan de estructura de proyecto, usted divide su proyecto en subtareas y paquetes de trabajo planificables. Gracias a la plantilla de planificación de la estructura del proyecto de SeaTable, esto es muy fácil.
+        image_alt: 'Vista del planificador de proyectos SeaTable con línea de tiempo y tareas'
+      - headline: plan de estructura del proyecto
+        text: Con un plan de estructura del proyecto, puede dividir su proyecto en subtareas y paquetes de trabajo planificables. Gracias a la [plantilla de planificación de la estructura del proyecto]({{< relref "templates/projects/work-breakdown-structure" >}}) de SeaTable, esto es muy fácil.
         image: /images/Projektmanagement_Projektstrukturplan_7.png
-        image_alt: 'Plantilla de estructura de proyecto de SeaTable con paquetes de trabajo'
-      - headline: Calendario del proyecto
-        text: Un calendario de proyecto es un método para visualizar la secuencia cronológica de las actividades en un proyecto. En SeaTable, puede utilizar el plugin de la línea de tiempo para esto.
-        image: /images/1-Projektmanagement_Projektablaufplan_7.png
-        image_alt: 'Cronograma de proyecto de SeaTable con secuencia temporal de actividades'
-      - headline: Gestión de la cartera de proyectos
-        text: La gestión de la cartera de proyectos (PPM) incluye la gestión de todos los proyectos de una organización. La gestión de la cartera de proyectos requiere muchos datos y requiere la evaluación de muchos proyectos.
+        image_alt: 'Plantilla de estructura de proyecto SeaTable con paquetes de trabajo'
+      - headline: Gestión de cartera de proyectos
+        text: La [gestión de la cartera de proyectos]({{< relref "posts/20250327-portfoliomanagement" >}}) (PPM) abarca la gestión de todos los proyectos de una organización. La gestión de la cartera de proyectos requiere un gran volumen de datos y el análisis de numerosos proyectos.
         image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
-        image_alt: 'Vista de portafolio de proyectos de SeaTable para varios proyectos en paralelo'
+        image_alt: 'Vista de la cartera de proyectos de SeaTable para varios proyectos paralelos'
       - headline: Aplicación de gestión de proyectos
-        text: Con el constructor de aplicaciones sin código de SeaTable, puede crear aplicaciones basadas en la web, sin necesidad de conocimientos de programación. En una aplicación de gestión de proyectos o aplicación de planificación de proyectos, puede controlar con precisión quién puede ver qué datos y cómo se visualizan.
+        text: Con el creador de aplicaciones sin código de SeaTable, puede crear aplicaciones basadas en la web sin necesidad de tener conocimientos de programación. En una aplicación de gestión de proyectos o de planificación de proyectos de este tipo, puede controlar exactamente quién puede ver qué datos y cómo se visualizan.
         image: /images/Projektmanagement_Universal-App_7.png
-        image_alt: 'Aplicación de gestión de proyectos de SeaTable como interfaz web de planificación'
-        # TODO: doppelte Bilder mit (1) entfernen.
+        image_alt: 'Aplicación SeaTable para la gestión de proyectos como interfaz web para la planificación de proyectos'
+        # TODO: doppelte Bilder mit (1) entfernen.   
+    
+    - name: "content-5"
+      weight: 27
+      items:
+      - title: Alternativa flexible a Jira 
+        subtitle: Alternativa a la gestión de proyectos Jira
+        text: Jira es una herramienta potente, pero también compleja, que requiere conocimientos previos o una formación inicial guiada. Como herramienta alternativa a Jira para la gestión de proyectos, SeaTable permite representar procesos complejos sin necesidad de una fase de aprendizaje prolongada.
+      - title: Alternativa intuitiva a la herramienta de proyectos Monday
+        subtitle: Monday Gestión de proyectos Alternativa
+        text: SeaTable convence como solución alternativa de gestión de proyectos con una interfaz de usuario más intuitiva y funciones bien pensadas. A diferencia de Monday.com, SeaTable también ofrece diferentes vistas, como Kanban, Gantt o calendario, en todos los planes.
+      - title: Alternativa más económica a Asana para proyectos
+        subtitle: "Asana: alternativa para la gestión de proyectos"
+        text: Como [herramienta de proyectos alternativa a Asana]({{< relref "pages/asana-alternative" >}}), SeaTable destaca por su mayor flexibilidad, su manejo más intuitivo y su precio más económico. SeaTable ofrece una amplia gama de servicios incluso en su suscripción gratuita y también es más económico en los demás niveles de suscripción con el mismo conjunto de funciones.
 
-  - name: "content-21"
-    weight: 30
-    title: ¡Cambie a SeaTable ahora - es así de fácil!
-    subtitle: El valor añadido de SeaTable
-    items:
-      - headline: Cambio fácil
-        text: "El cambio a SeaTable es muy fácil: Simplemente regístrese con su dirección de correo electrónico y empiece directamente - ¡sin tarjeta de crédito, sin costes ocultos!<br><br>SeaTable ofrece numerosas opciones de importación, que facilitan la migración de sus datos y el cambio de sus anteriores herramientas de gestión de proyectos."
+    - name: "content-21"
+      weight: 30
+      title: "Cambie ahora a SeaTable: ¡es muy fácil!"
+      subtitle: Su nuevo programa de gestión de proyectos
+      items:
+      - headline: Cambio sencillo
+        text: 'Pasarse a SeaTable es muy fácil: solo tiene que registrarse con su dirección de correo electrónico y empezar a utilizarlo directamente, sin tarjeta de crédito y sin costes ocultos. SeaTable ofrece numerosas opciones de importación que facilitan la migración de sus datos y el cambio desde sus herramientas de gestión de proyectos anteriores.'
       - headline: Plantillas gratuitas
-        text: Empiece con una plantilla gratuita de gestión de proyectos y compruebe usted mismo el rendimiento y la flexibilidad de SeaTable. Rápidamente notará cómo SeaTable puede llevar su gestión de proyectos a un nuevo nivel. Suba sus propios datos y su nuevo sistema de gestión de proyectos estará listo para su uso en poco tiempo.
-      - headline: Soporte integral
-        text: "Estamos a su lado desde el principio si tiene alguna pregunta sobre nuestra herramienta gratuita de gestión de proyectos: Utilice más de 350 artículos de ayuda, el curso online para principiantes, los tutoriales de YouTube o nuestro foro de la comunidad.\nAdemás, estaremos encantados de crearle una oferta de soporte individual para que pueda explotar todo el potencial de SeaTable en sus proyectos."
+        text: Empiece con una plantilla de gestión de proyectos gratuita y compruebe por sí mismo la potencia y flexibilidad de SeaTable. Pronto se dará cuenta de cómo SeaTable puede llevar su gestión de proyectos a un nuevo nivel. Cargue sus propios datos y, en muy poco tiempo, su nuevo sistema de gestión de proyectos estará listo para usar.
+      - headline: Asistencia integral
+        text: 'Estamos a su disposición desde el principio si tiene alguna pregunta sobre nuestra herramienta gratuita de gestión de proyectos: utilice más de 350 artículos de ayuda, el curso en línea para principiantes, los tutoriales de YouTube o nuestro foro comunitario.'
       - headline: Solución económica
-        text: "Gestione sus proyectos de forma totalmente gratuita con la versión gratuita de SeaTable - o escale SeaTable según sus necesidades: Si necesita funciones avanzadas o más capacidades de almacenamiento para sus proyectos, puede simplemente actualizar a una versión premium rentable."
+        text: "Gestione sus proyectos con la versión gratuita de SeaTable sin ningún coste, o amplíe SeaTable según sus necesidades: si necesita funciones avanzadas o más capacidad de almacenamiento para sus proyectos, solo tiene que actualizar a una versión premium muy asequible."
 
-  - name: banner-2
-    weight: 98
-    title: SeaTable le allana el camino para una gestión de proyectos exitosa
-    buttons:
-      - label: Regístrese ahora y empiece
-        link: pages/registration
-        id: es-project-management-registration-3
+    - name: banner-2
+      weight: 96
+      title: SeaTable le allana el camino hacia una gestión de proyectos exitosa
+      buttons:
+          - label: Regístrese ahora y comience
+            link: pages/registration
+            id: es-project-management-registration-3
 
-  - name: faq
-    weight: 99
-    title: FAQ – Gestión de proyectos con SeaTable
-    items:
-      - q: ¿Para qué proyectos puedo utilizar SeaTable?
-        a: Puede utilizar SeaTable para todos sus proyectos, por ejemplo, proyectos de software, proyectos de construcción o desarrollos de productos. Gracias a los flexibles tipos de columnas y a las diversas opciones de visualización, SeaTable es la solución perfecta para cualquier reto al que tenga que enfrentarse un gestor de proyectos.
-      - q: ¿Puedo compartir mi plan de proyecto con terceros?
-        a: Por supuesto. Muchos equipos de proyecto trabajan con partes interesadas externas, ya sea a través de una aplicación de gestión de proyectos o directamente en SeaTable. En ambos casos, usted utiliza las comparticiones y los permisos para determinar quién puede acceder a qué contenido.
-      - q: ¿Qué suscripción necesito para una gestión eficiente de proyectos?
-        a: Con la suscripción gratuita, ya obtiene las funciones más importantes para proyectos y equipos más pequeños. Con la suscripción Plus, la colaboración con las partes interesadas externas se hace mucho más fácil gracias a las opciones ampliadas de compartición, y los límites de almacenamiento más elevados le permiten gestionar proyectos más grandes. La suscripción Enterprise añade finalmente automatizaciones, una personalización ampliada y el almacenamiento de big data para proyectos con gran cantidad de datos.
-      - q: ¿Cómo puedo migrar mis datos a SeaTable?
-        a: "SeaTable ofrece numerosas opciones de importación, que facilitan la migración de sus datos y el cambio de sus anteriores herramientas de gestión de proyectos. Suba sus datos existentes y en poco tiempo su nuevo sistema de gestión de proyectos estará listo para su uso. Gracias a la intuitiva interfaz gráfica de usuario, se orientará rápidamente."
-      - q: "¿Es SeaTable una alternativa a Monday, Jira o Asana?"
-        a: "Asana, Monday y Jira son tres conocidas herramientas de gestión de proyectos que utilizan muchos equipos de todo el mundo. Si te preguntas si estas herramientas de gestión de proyectos son gratuitas, la respuesta es no - aparte de versiones muy limitadas. A diferencia de SeaTable, hay que aceptar costes elevados, especialmente para equipos grandes, ya que se incurre en cantidades de dos dígitos por usuario y mes. Si quieres gestionar proyectos con Monday, Jira o Asana, puede salirte realmente caro. SeaTable, en cambio, es una herramienta de gestión de proyectos gratuita convincente para equipos de cualquier tamaño gracias a su amplia suscripción gratuita.
-        Además, las herramientas clásicas de gestión de proyectos son menos intuitivas que SeaTable. Esto es especialmente cierto en el caso de las herramientas gratuitas de gestión de proyectos. La gran cantidad de funciones puede resultar abrumadora para los principiantes, sobre todo si se quiere trazar la gestión de proyectos en lunes. Jira está especialmente especializado en proyectos de software y gestión ágil de proyectos según Scrum, lo que ya requiere muchos conocimientos. El hecho de que la mayoría de los participantes en un proyecto tengan que adquirir primero estos conocimientos hace que la familiarización lleve un tiempo relativamente largo, mientras que con SeaTable se puede empezar directamente. Asana y Jira también son menos flexibles que SeaTable y no se recomiendan para proyectos con muchos datos. Más información en nuestro [blog]({{< relref \"posts\" >}})."
----
+    - name: faq
+      weight: 99
+      title: "Preguntas frecuentes: gestión de proyectos con SeaTable"
+      items:
+          - q: ¿Para qué proyectos puedo utilizar SeaTable?
+            a: 'Puede utilizar SeaTable para todos sus proyectos, por ejemplo, proyectos de software, [proyectos de construcción]({{< relref "posts/bauzeitenplan" >}}) o desarrollos de productos. Gracias a los tipos de columnas flexibles y a las múltiples opciones de visualización, SeaTable es la solución perfecta para cualquier reto al que se enfrente un gestor de proyectos y ofrece todas las funciones a las que está acostumbrado de las herramientas de gestión de proyectos ágiles.'
+          - q: ¿Puedo compartir mi plan de proyecto con personas externas?
+            a: Por supuesto. Muchos equipos de proyecto colaboran con partes interesadas externas, ya sea a través de una aplicación de gestión de proyectos o directamente en SeaTable. En ambos casos, puede utilizar permisos y autorizaciones para determinar quién puede acceder a qué contenido.
+          - q: ¿Qué suscripción necesita para una gestión de proyectos eficiente?
+            a: Depende de sus necesidades. Con la suscripción gratuita, ya dispone de las funciones más importantes para equipos pequeños, que otras herramientas de gestión de proyectos no ofrecen. Con la suscripción Plus, la colaboración con partes interesadas externas resulta mucho más sencilla gracias a las opciones de uso compartido ampliadas, y los límites de almacenamiento más altos le permiten gestionar incluso proyectos de gran envergadura. Por último, la suscripción Enterprise añade automatizaciones, personalización avanzada y almacenamiento de big data para proyectos con gran volumen de datos. 
+          - q: ¿Cómo puedo migrar sus datos a SeaTable?
+            a: SeaTable ofrece numerosas opciones de importación que facilitan la migración de sus datos y el cambio desde sus herramientas de gestión de proyectos anteriores. Suba sus datos existentes y, en muy poco tiempo, su nuevo sistema de gestión de proyectos estará listo para usar. Gracias a la interfaz gráfica intuitiva, se familiarizará rápidamente con él.
+          - q: ¿SeaTable es una alternativa a Monday, Jira o Asana?
+            a: 'Sí, por supuesto. Muchos equipos recurren a estas herramientas de gestión de proyectos porque son conocidas. Sin embargo, cada una tiene sus puntos débiles específicos, que no tiene con SeaTable gracias a su gran flexibilidad. Además, Asana, Monday y Jira no ofrecen versiones gratuitas, salvo versiones con funciones muy limitadas. A diferencia de SeaTable, esto significa que tendrá que asumir altos costes, especialmente en el caso de equipos grandes. SeaTable, por el contrario, se puede utilizar de forma gratuita como un software de gestión de proyectos completo. Otra ventaja: SeaTable también se puede utilizar de forma autohospedada, por ejemplo, como alternativa a Jira.' 
+          - q: ¿Puedo utilizar SeaTable para planificar mis proyectos?
+            a: Sí, por supuesto. SeaTable es una herramienta de planificación de proyectos adecuada para equipos de cualquier tamaño. Le permite planificar todos los pasos de su proyecto de forma individualizada y con mayor flexibilidad que las herramientas tradicionales de gestión de proyectos. Gracias a sus numerosas funciones, SeaTable permite representar métodos de gestión de proyectos muy diferentes, como [Kanban]({{< relref "posts/kanban-methoden" >}}), un [plan de estructura del proyecto]({{< relref "posts/20250317-projektstrukturplan" >}}) o incluso Scrum.        
+---            
