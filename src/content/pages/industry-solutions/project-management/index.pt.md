@@ -78,7 +78,7 @@ sections:
       subtitle: Ferramentas de gestão de projetos
       items:
       - headline: Ampla liberdade de design
-        text: A plataforma de IA sem código SeaTable permite que personalize os seus processos. Receberá todas as ferramentas necessárias para desenvolver o seu projeto de acordo com as suas ideias e utilizar diferentes [métodos de gestão de projetos]({{< relref "posts/20250308-projektmanagement-methoden" >}}).
+        text: A plataforma de IA no-code SeaTable permite que personalize os seus processos. Receberá todas as ferramentas necessárias para desenvolver o seu projeto de acordo com as suas ideias e utilizar diferentes [métodos de gestão de projetos]({{< relref "posts/20250308-projektmanagement-methoden" >}}).
       - headline: Transparência e proteção de dados
         text: Com o SeaTable, pode reunir todas as informações num único local, colaborar em projetos e sincronizar alterações em tempo real. Isso proporciona transparência para todos os participantes do projeto. 
       - headline: Solução acessível
