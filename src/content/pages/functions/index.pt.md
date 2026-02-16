@@ -34,11 +34,11 @@ sections:
             icon: medal
 
           - headline: Visualizações
-            text: Todos veem apenas o que devem ver. Assim, cada um vê apenas o que quer e deve ser capaz de ver...
+            text: 'Crie vistas pessoais ou partilhadas para diferentes fluxos de trabalho. Desta forma, cada pessoa visualiza apenas as colunas e os dados que são realmente relevantes para a sua tarefa atual.'
             icon: up-right-and-down-left-from-center
 
           - headline: Filtros, ordenação e agrupamento
-            text: 'Eles garantem que seus projetos, tarefas e ideias permaneçam claramente organizados. Bases para projetos e tabelas para seus dados.'
+            text: 'Filtre, ordene e agrupe os seus dados de forma flexível para visualizar rapidamente as informações necessárias para o seu trabalho.'
             icon: leaf
 
           - headline: Destaque por cores
@@ -46,7 +46,7 @@ sections:
             icon: signature
 
           - headline: Autorizações
-            text: 'Todos veem apenas o que devem ver. Assim, cada um vê apenas o que quer e deve ser capaz de ver.'
+            text: 'Atribua direitos de acesso individuais e proteja dados confidenciais para que cada membro da equipa veja e edite apenas o que é relevante para ele.'
             icon: shield-halved
 
     - name: 'banner-3'

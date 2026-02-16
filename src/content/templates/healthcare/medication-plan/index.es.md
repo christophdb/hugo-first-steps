@@ -1,5 +1,5 @@
 ---
-title: 'Plan de medicación'
+title: 'Plantilla plan de medicación'
 description: 'Controle medicamentos, dosis y contactos médicos en un solo lugar, actualice los datos en cualquier momento y genere un resumen imprimible de forma segura.'
 date: '2025-09-23'
 url: '/es/plantilla/plan-de-medicacion'

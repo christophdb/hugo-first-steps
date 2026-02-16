@@ -9,12 +9,21 @@ url: '/de/integrationen/'
 # TODO: mehr inhalte wie auf https://monday.com/lang/de/integrations, z.B. Kundenstimmen
 
 sections:
-    - name: "content-10"
+
+    - name: "hero-2"
       weight: 1
       classes:
-      title: Automatisieren Sie Ihre Arbeit
-      subtitle: Integrationen mit SeaTable
-      description: Integrieren Sie SeaTable über die SeaTable API oder Automatisierungs-Plattformen in Ihre bevorzugten Tools, um Ihre wichtigsten Geschäftsinformationen zu verknüpfen und leistungsfähigere Anwendungen zu erstellen.
+        - bg-[#ece5e2]
+      title: 'Integrationen mit SeaTable – Ihre Schaltzentrale für vernetzte Workflows'
+      subtitle: 'Verbinden, automatisieren, skalieren'
+      text: 'Machen Sie SeaTable zur Schaltzentrale Ihrer Daten: Alle Infos aus CRM, Projektmanagement, Support und Fachanwendungen laufen in einer flexiblen, tabellenbasierten Oberfläche zusammen. So behalten Teams den Überblick, steuern Workflows transparent und reduzieren manuelle Doppelarbeit dank nahtloser Integrationen und Automationen.'
+      
+    - name: "content-10"
+      weight: 3
+      classes:
+      title: Wählen Sie Ihre Lieblings‑Plattform
+      subtitle: Automatisieren Sie Ihre Arbeit
+      description: Verbinden Sie SeaTable mit den gängigsten Automatisierungs‑Tools und nutzen Sie Tausende vorgefertigter Verbindungen – von Zapier über Make bis n8n und Integrately.
       items:
       - image: '/images/logos/zapier.svg'
         image_alt: 'Integrationen mit SeaTable und Zapier'
@@ -44,7 +53,7 @@ sections:
             link: 'posts/20250307-low-code'
 
     - name: 'content-27'
-      weight: 4
+      weight: 2
       title: 'Automatisieren Sie Ihre Workflows'
       subtitle: 'Verfügbare Integrationen'
       text: Verbinden Sie SeaTable mit all Ihren Lieblings-Apps. Die folgenden Plattformen ermöglichen es Ihnen, Daten zwischen SeaTable und anderen Softwarelösungen automatisiert auszutauschen.

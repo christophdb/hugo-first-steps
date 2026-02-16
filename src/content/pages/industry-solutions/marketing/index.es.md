@@ -64,7 +64,7 @@ sections:
       - icon: location-dot 
         headline: Gestión de eventos 
         text: Con SeaTable como potente herramienta de gestión de marketing, puede organizar eventos para clientes, ferias o seminarios web de forma eficiente. 
-      - icon: heart 
+      - icon: circle-question 
         headline: Comentarios de clientes y encuestas 
         text: Cree encuestas y formularios personalizados y evalúe los resultados directamente con estadísticas y paneles de control.
     # TODO: content-4 si no se define ningún enlace, entonces no se muestra ningún enlace.

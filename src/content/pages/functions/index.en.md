@@ -34,11 +34,11 @@ sections:
             icon: medal
 
           - headline: Views
-            text: Everyone only gets to see what they are supposed to see. So that they only see what they want to and should be able to...
+            text: 'Create personal or shared views for different workflows. This way, everyone only sees the columns and data that are really important for their current task.'
             icon: up-right-and-down-left-from-center
 
           - headline: Filters, sorting and grouping
-            text: 'They ensure that your projects, tasks and ideas remain clearly organized. Bases for projects and tables for your data.'
+            text: 'Flexibly filter, sort, and group your data to quickly see exactly the information you need for your work.'
             icon: leaf
 
           - headline: Color highlighting
@@ -46,7 +46,7 @@ sections:
             icon: signature
 
           - headline: Authorizations
-            text: 'Everyone only gets to see what they are supposed to see. So that they only see what they want and should be able to.'
+            text: 'Assign individual access rights and protect sensitive data so that each team member can only see and edit what is relevant to them.'
             icon: shield-halved
 
     - name: 'banner-3'

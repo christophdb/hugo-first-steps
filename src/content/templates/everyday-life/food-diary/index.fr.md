@@ -1,5 +1,5 @@
 ---
-title: 'Journal alimentaire'
+title: 'Modèle journal alimentaire'
 description: "Consignez vos repas de manière structurée, repérez des schémas d’intolérances et partagez les données pertinentes avec des spécialistes."
 date: '2025-07-18'
 url: '/fr/modele/journal-alimentaire'

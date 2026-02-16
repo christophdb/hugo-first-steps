@@ -1,5 +1,5 @@
 ---
-title: 'Ernährungstagebuch'
+title: 'Ernährungstagebuch Vorlage'
 description: 'Dokumentieren Sie Ihre Mahlzeiten strukturiert, erkennen Sie Muster bei Unverträglichkeiten und teilen Sie relevante Daten mit Experten.'
 date: '2025-07-18'
 url: '/de/vorlage/ernaehrungstagebuch'

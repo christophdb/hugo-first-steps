@@ -43,7 +43,7 @@ sections:
         headline: Colaboración en tiempo real
         text: "En SeaTable, sus equipos trabajan juntos de forma transparente y en tiempo real, todo el mundo dispone siempre de los datos más recientes y sus procesos se entrelazan."
       
-      - icon: heart
+      - icon: robot
         headline: Automatizaciones de IA
         text: Utilice las automatizaciones integradas soportadas por IA para conseguir procesos eficientes y flujos de trabajo ágiles - con el propio servidor de IA de SeaTable. 
 

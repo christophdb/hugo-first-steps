@@ -1,5 +1,5 @@
 ---
-title: 'Diario alimentario'
+title: 'Plantilla diario alimentario'
 description: 'Registra tus comidas de forma estructurada, detecta patrones de intolerancias y comparte los datos relevantes con especialistas.'
 date: '2025-07-18'
 url: '/es/plantilla/diario-alimentario'

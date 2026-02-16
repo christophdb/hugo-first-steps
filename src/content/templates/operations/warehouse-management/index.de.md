@@ -1,5 +1,5 @@
 ---
-title: 'Lagerverwaltung'
+title: 'Lagerverwaltung Vorlage'
 description: 'Steuern Sie Lager, Produkte und Lagerorte zentral, automatisieren Sie Benachrichtigungen und werten Sie Bestände live mit Dashboards aus.'
 date: '2025-07-18'
 url: '/de/vorlage/lagerverwaltung'

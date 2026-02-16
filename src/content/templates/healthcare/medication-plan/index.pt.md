@@ -1,5 +1,5 @@
 ---
-title: 'Plano de medicação'
+title: 'Modelo plano de medicação'
 description: 'Controle medicamentos, dosagens e contactos médicos num só local, atualize os dados a qualquer momento e crie um resumo imprimível com segurança.'
 date: '2025-09-23'
 url: '/pt/modelo/plano-de-medicacao'

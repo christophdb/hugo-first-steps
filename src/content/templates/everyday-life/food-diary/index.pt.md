@@ -1,5 +1,5 @@
 ---
-title: 'Diário alimentar'
+title: 'Modelo diário alimentar'
 description: 'Registe suas refeições de forma estruturada, identifique padrões de intolerâncias e compartilhe dados relevantes com especialistas.'
 date: '2025-07-18'
 url: '/pt/modelo/diario-alimentar'
