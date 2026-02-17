@@ -13,18 +13,23 @@ seo:
     description: 'Descubre cómo activar pagos por factura en SeaTable Enterprise: solo planes anuales, mínimo 10 usuarios, administración sencilla y transferencia bancaria directa.'
 ---
 
-SeaTable ofrece actualmente dos métodos de pago para reservar una suscripción Plus o Enterprise. La **tarjeta de crédito** es el medio de pago utilizado en la gran mayoría de los casos. Gracias a nuestro proveedor de servicios de pago Stripe, aceptamos pagos con Visa, Mastercard, American Express, China UnionPay y Cartes Bancaires.
+SeaTable ofrece actualmente dos métodos de pago para contratar una suscripción de pago. La **tarjeta de crédito** es el método de pago utilizado en la mayoría de los casos. Gracias a nuestro proveedor de servicios de pago Stripe, aceptamos pagos con Visa, Mastercard, American Express, China UnionPay y Cartes Bancaires.
 
-En cambio, el pago **a** cuenta sólo es posible en determinadas condiciones. Puede averiguar cuáles son en este artículo.
+El pago mediante **factura** solo es posible bajo ciertas condiciones. En este artículo puede consultar cuáles son.
 
-## Requisitos para el pago mediante factura
+## Requisitos para el pago por factura
 
-- Contrata una **suscripción Enterprise para** su equipo.
+- Contrata una nueva **suscripción Enterprise** para su equipo.
 - Su equipo tiene un tamaño mínimo de **10 miembros**.
-- Se elige como plazo la suscripción anual, de modo que los costes de **un** año se pagan por **adelantado**.
+- Se elige una suscripción anual, por lo que los costes de **un año se pagan por adelantado**.
 
-Si se cumplen estos requisitos, puede activar el pago mediante factura en cualquier momento en la administración del equipo. Esto es posible tanto al contratar inicialmente una nueva suscripción de pago como si ya tiene una suscripción de pago.
+Si se cumplen estos requisitos, puede seleccionar el pago por factura. Esta opción solo está disponible en el momento de la contratación inicial de una nueva suscripción de pago.
+A continuación, recibirá una factura nuestra solicitando la transferencia del importe a nuestra cuenta bancaria en Alemania.
 
-Recibirá entonces una factura nuestra con la solicitud de que transfiera el importe de la factura a nuestra cuenta bancaria alemana.
+![Activar pago por factura](images/payment-invoice.png)
 
-![Activar el pago a cuenta](images/Zahlung-per-Rechnung.png)
+## Pago por factura para una suscripción existente
+
+Si ya dispone de una suscripción de pago, la opción **pago por factura** no aparecerá.
+
+Por favor, [contáctenos]({{< relref "pages/contact" >}}) si cumple los requisitos y desea cambiar posteriormente al **pago por factura**.
