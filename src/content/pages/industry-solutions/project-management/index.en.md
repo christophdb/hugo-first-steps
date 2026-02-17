@@ -99,7 +99,7 @@ sections:
           - text: Project portfolio management
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
             image_alt: "SeaTable project portfolio management template for multiple projects"
-          - text: action plan
+          - text: Action plan
             image: /images/Projektmanagement_Action-Plan_Template_9.png
             image_alt: "SeaTable action plan template for tasks and responsibilities"
       buttons:
@@ -141,7 +141,7 @@ sections:
         text: Manage every activity of your next project with a clear project planner. With SeaTable's project plan template, you have the perfect project planning tool for large and small projects alike.
         image: /images/Projektmanagement_-Project-Plan_10.png
         image_alt: 'SeaTable project planner view with timeline and tasks'
-      - headline: project structure plan
+      - headline: Project structure plan
         text: With a project structure plan, you can divide your project into manageable subtasks and work packages. Thanks to SeaTable's [project structure planning template]({{< relref "templates/projects/work-breakdown-structure" >}}), this is a breeze.
         image: /images/Projektmanagement_Projektstrukturplan_7.png
         image_alt: 'SeaTable project structure plan template with work packages'

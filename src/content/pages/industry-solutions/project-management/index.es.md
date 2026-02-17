@@ -98,7 +98,7 @@ sections:
           - text: Gestión de cartera de proyectos
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
             image_alt: "Plantilla de gestión de cartera de proyectos SeaTable para varios proyectos"
-          - text: plan de acción
+          - text: Plan de acción
             image: /images/Projektmanagement_Action-Plan_Template_9.png
             image_alt: "Plantilla de plan de acción de SeaTable para tareas y responsabilidades"
       buttons:
@@ -140,7 +140,7 @@ sections:
         text: Gestione todas las actividades de su próximo proyecto con un planificador de proyectos claro y conciso. Con la plantilla de planificación de proyectos de SeaTable, tendrá la herramienta perfecta para planificar proyectos grandes y pequeños.
         image: /images/Projektmanagement_-Project-Plan_10.png
         image_alt: 'Vista del planificador de proyectos SeaTable con línea de tiempo y tareas'
-      - headline: plan de estructura del proyecto
+      - headline: Plan de estructura del proyecto
         text: Con un plan de estructura del proyecto, puede dividir su proyecto en subtareas y paquetes de trabajo planificables. Gracias a la [plantilla de planificación de la estructura del proyecto]({{< relref "templates/projects/work-breakdown-structure" >}}) de SeaTable, esto es muy fácil.
         image: /images/Projektmanagement_Projektstrukturplan_7.png
         image_alt: 'Plantilla de estructura de proyecto SeaTable con paquetes de trabajo'
