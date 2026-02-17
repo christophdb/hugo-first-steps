@@ -27,10 +27,16 @@
       "@type": "BlogPosting",
       "headline": "{{ $p.Title | safeJS }}",
       "url": {{ $p.Permalink | plainify }},
-      "datePublished": "{{ $p.Date.Format "2006-01-02" | safeJS }}",
+      {{ $images := $p.Resources.ByType "image" -}}
+      {{ $featured := $images.GetMatch "feature*" -}}
+      {{ if $featured -}}
+        "image": {{ absURL $featured.RelPermalink }},
+      {{- end }}
+      "datePublished": "{{ $p.Date.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
       "author": {
         "@type": "Organization",
-        "name": "SeaTable"
+        "name": "SeaTable",
+        "url": {{ $.Site.BaseURL | plainify }}
       }
     }
     {{- end -}}
