@@ -10,12 +10,12 @@ url: '/de/workflow-management'
 sections:
     - name: hero-5
       weight: 1
-      subtitle: SeaTable für individuelle Anforderungen im Workflow Management mit KI Power
-      title: Workflow Management maßgeschneidert und einfach
-      text: SeaTable ist Ihr zuverlässiges und flexibles Workflow Management Tool, mit dem Sie Ihre individuellen Arbeitsabläufe erstellen, automatisieren und in Echtzeit überwachen können.
+      subtitle: SeaTable für individuelle Anforderungen mit KI Power
+      title: Workflow Management – flexibel und einfach
+      text: SeaTable ist Ihr zuverlässiges und maßgeschneidertes Workflow Management Tool für Ihre Prozessoptimierung. Erstellen Sie individuelle, automatisierte Arbeitsabläufe und überwachen sie diese in Echtzeit. 
       classes:
           - bg-green-100
-      template: 76c0775460d44fee93a4
+      template: 80356f5aa87e4a879b52
       buttons:
           - label: Jetzt loslegen
             link: 'pages/registration'
@@ -23,42 +23,61 @@ sections:
           - label: Funktionen kennenlernen
             link: pages/functions
 
-    - name: 'content-4'
+    - name: "content-4"
       weight: 2
-      title: Mit Workflow Management die Herausforderungen moderner Unternehmen meistern
-      subtitle: Bleiben Sie flexibel
+      title: Workflow Management mit SeaTable
+      subtitle: Flexibel und anpassbar
+      text: 
       items:
-          - icon: signature
-            headline: Anpassung an sich ändernde Geschäftsanforderungen
-            text: "Unternehmen sehen sich immer wieder schnell wechselnden Marktbedingungen und Anforderungen gegenüber. Ein flexibles, **KI-gestütztes Workflow-Managementsystem** wie SeaTable hilft dabei, diese Anforderungen zu bewältigen, indem es die schnelle Integration neuer Technologien, datenbasierter Entscheidungen und intelligenter Workflows ermöglicht."
-
-          - icon: building
-            headline: Sicherheitsanforderungen und Innovation
-            text: "Mit SeaTable gestalten Sie innovative, KI-unterstützte Workflows, ohne Kompromisse bei der Datensicherheit einzugehen. Dies ist besonders wichtig, wenn neue Technologien oder KI-Modelle in bestehende Prozesse integriert werden müssen. So können Sie neue Workflows testen, KI-gestützte Prüfungen durchführen und gleichzeitig die Einhaltung Ihrer IT-Richtlinien sicherstellen."
-
-          - icon: substack
-            headline: IT- und Geschäftsstrategien in Einklang bringen
-            text: "Unternehmen haben oft Schwierigkeiten, ihre IT-Strategie mit den übergeordneten Geschäftszielen in Einklang zu bringen. Mit SeaTable können Sie Ihre Workflows so gestalten, dass sie durch KI-Analysen und Automatisierung die Geschäftsstrategie optimal unterstützen und die digitale Transformation nachhaltig vorantreiben."
-
-          - icon: ghost
-            headline: Effizienz und Wettbewerbsfähigkeit verbessern
-            text: "Die KI-gestützte Automatisierung Ihrer Workflows mit SeaTable steigert die Effizienz und ermöglicht es Ihrem Team, sich auf strategisch wichtigere Aufgaben zu konzentrieren. Mit einem maßgeschneiderten Workflow-Management-Tool können Sie Prozesse optimieren, intelligente Automationen nutzen, Zeit sparen und Ihre Wettbewerbsfähigkeit auf dem Markt erhöhen."
-
-          - icon: star
-            headline: Komplexe IT-Infrastrukturen effizient verwalten
-            text: Die Verwaltung von komplexen IT-Infrastrukturen ist oft zeitaufwendig und teuer. SeaTable bietet eine flexible, [KI No-Code-Plattform]({{< relref "/" >}}), die ohne komplexe IT-Setups auskommt und gleichzeitig die volle Kontrolle über Prozesse und Daten gewährleistet. KI-basierte Analysen helfen Ihnen zudem, Engpässe frühzeitig zu erkennen und das Management zu vereinfachen.
-
-          - icon: ghost
-            headline: Software-Compliance und Lizenzmanagement sicherstellen
-            text: "SeaTable unterstützt Sie bei der Verwaltung Ihrer Lizenzen und gewährleistet durch Überwachung, dass alle Vorschriften eingehalten werden. Das integrierte Lizenzmanagement hilft Ihnen, den Überblick über Lizenzen und deren Gültigkeit zu behalten, unnötige Kosten zu vermeiden und Risiken intelligent zu minimieren."
+          - icon: edit
+            headline: Flexibel und intuitiv
+            text: Mit SeaTable gestalten Sie Workflows, die genau auf die Anforderungen Ihres Unternehmens abgestimmt sind. 
+          - icon: table
+            headline: Visuelle Gestaltung
+            text: Die benutzerfreundliche No-Code-Plattform erlaubt es Ihnen, Prozesse per Drag-and-Drop zu gestalten.
+          - icon: shield
+            headline: DSGVO-konform
+            text: SeaTable Cloud und unser SeaTable KI-Server werden ausschließlich auf zertifizierten europäischen Servern in Deutschland gehostet.  
+          - icon: expand
+            headline: Skalierbar
+            text: SeaTable skaliert mit Ihnen und Ihren wachsenden Anforderungen. Ideal, um Arbeitsabläufe zu digitalisieren.    
+          - icon: up-right-and-down-left-from-center
+            headline: Echtzeit-Kollaboration
+            text: Dank umfassender Echtzeit-Kollaborationsfunktionen schaffen Sie maximale Transparenz in allen Prozessen.
+          - icon: robot
+            headline: KI-unterstützte Automatisierungen
+            text: SeaTable hilft Ihnen, wiederkehrende Prozesse zu automatisieren und manuelle Eingriffe zu minimieren.     
+    
+    - name: "content-5"
+      weight: 4
+      items:
+      - title: Passen sie sich an Veränderungen an
+        subtitle: Schnell und agil
+        text: Unternehmen sehen sich schnell wechselnden Herausforderungen gegenüber. Mit einem flexiblen, **KI-gestützten Workflow-Management System** wie SeaTable reagieren Sie schnell und agil auf neue Anforderungen und gestalten belastbare, intelligente Workflows.
+      - title: Stabiles Workflow Management
+        subtitle: Effiziente IT-Infrastrukturen
+        text: SeaTable bietet eine flexible KI No-Code-Plattform, die ohne komplexe Setups auskommt und Ihnen gleichzeitig die volle Kontrolle über Prozesse und Daten gewährleistet. So [entlasten Sie Ihre IT-Abteilung]({{< relref "posts/it-fachkraeftemangel" >}}) und [befähigen Fachabteilungen]({{< relref "posts/20250317-citizen-developer" >}}) zur Selbsthilfe.
+      - title: Datenkontrolle und Compliance herstellen
+        subtitle: Sicherheit und Innovation
+        text: Nutzen Sie die Vorzüge moderner Workflow Automation ohne Abstriche beim Datenschutz und behalten Sie volle [Datensouveränität]({{< relref "posts/digitale-souveraenitaet" >}}). Gestalten Sie innovative KI Workflows, ohne Kompromisse bei der Datensicherheit einzugehen oder interne IT-Richtlinien zu brechen.
+      - title: Workflow Management für Unternehmen 
+        subtitle: Digitale Transformation
+        text: Mit SeaTable können Sie Ihre Workflows so gestalten, dass sie die Geschäftsstrategie unterstützen und dabei helfen, Ihre digitale Transformation voranzutreiben.     
+    
+    - name: banner-2
+      weight: 7
+      title: Gestalten Sie schlanke Workflows
+      buttons:
+          - label: Jetzt registrieren und loslegen
+            link: pages/registration       
 
     - name: content-12
       weight: 3
       classes:
           - curved
-      title: Ihr individuelles Workflow Managementsystem
+      title: Ihr individuelles Workflow Management System
       subtitle: Für Ihren Workflow
-      description: Erstellen und automatisieren Sie individuelle Arbeitsabläufe und behalten Sie alle Prozesse in Echtzeit im Blick. Dank der intuitiven Oberfläche können Sie direkt loslegen, ohne eine Zeile Code schreiben zu müssen.
+      description: Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen und automatisieren Sie individuelle Arbeitsabläufe und behalten alle Prozesse in Echtzeit im Blick. Dank der intuitiven Oberfläche können Sie direkt loslegen, ohne eine Zeile Code schreiben zu müssen. 
       items:
           - text: Keine aufwendige Implementierung dank No-Code
           - text: Kollaboratives Arbeiten in Echtzeit
@@ -68,25 +87,8 @@ sections:
       image: /images/Landing-Page-Workflow-Management_3.png
       image_alt: 'SeaTable Workflow Management Oberfläche mit Aufgaben und Statusspalten'
 
-    - name: 'content-1'
-      weight: 4
-      title: Workflow Management mit SeaTable
-      subtitle: Flexibel und anpassbar
-      description: 'Ob einfache Aufgabenlisten oder ein komplexes Workflow System: SeaTable bietet die **notwendige Flexibilität, um Prozesse individuell zu gestalten**.'
-      items:
-          - headline: Individuelle Workflows
-            text: Mit SeaTable gestalten Sie Workflows, die genau auf die Anforderungen Ihres Unternehmens abgestimmt sind.
-          - headline: Visuelle Gestaltung
-            text: Die benutzerfreundliche No-Code-Plattform erlaubt es Ihnen, Prozesse per Drag-and-Drop zu gestalten.
-          - headline: Automatisierung nach Maß
-            text: SeaTable hilft Ihnen, wiederkehrende Prozesse zu automatisieren und manuelle Eingriffe zu minimieren.
-          - headline: Skalierbarkeit
-            text: SeaTable skaliert mit Ihnen und Ihren wachsenden Anforderungen. Es ist die ideale Lösung für Unternehmen jeder Größe, die ihre Arbeitsabläufe digitalisieren und optimieren möchten.
-      image: /images/Landing-Page-Workflow-Managment.png
-      iamge_alt: 'SeaTable Ansicht zur visuellen Gestaltung individueller Workflows'
-
     - name: 'content-10'
-      weight: 5
+      weight: 6
       title: 'Verbinden Sie SeaTable mit Ihren Tools'
       subtitle: 'Integration'
       description: Verknüpfen Sie SeaTable mit allen Apps, die Sie bereits verwenden, und nutzen Sie SeaTable als Dreh- und Angelpunkt für Ihre gesamten Workflows.
@@ -97,7 +99,7 @@ sections:
           - image: '/images/logos/seatable-api.svg'
 
     - name: 'content-11'
-      weight: 6
+      weight: 5
       classes:
           - curved
           - bg-gray-100
@@ -110,50 +112,75 @@ sections:
       image_alt: 'SeaTable Workflow Ansicht für Echtzeit-Zusammenarbeit im Team'
 
     - name: 'content-4'
-      weight: 7
+      weight: 8
       title: Beispiele für maßgeschneiderte Workflows mit SeaTable
       subtitle: Ihr schweizer Taschenmesser
       text: 'SeaTable bietet unzählige Möglichkeiten zur Gestaltung individueller Workflows, die perfekt auf die Bedürfnisse Ihres Unternehmens zugeschnitten sind. Hier einige Beispiele:'
-      buttons:
-          - label: Jetzt ausprobieren
-            link: pages/registration
-            style: primary
-      gridheadline: Workflow Management im …
       items:
-          - icon: signature
+          - icon: puzzle-piece
             headline: Marketing
-            text: 'Bilden Sie Ihre Marketingaktivitäten in SeaTable ab. Sämtliche Prozesse und Daten in einem zentralen Marketing Tool! Ob Kampagnenmanagement, Content-Planung, Monitoring oder Reporting – mit SeaTable gestalten Sie effizientes Marketingmanagement. Sie haben jederzeit den Überblick über den Fortschritt und die Performance Ihrer Aktivitäten.'
+            text: 'Sämtliche Prozesse und Daten in einem zentralen Marketing Tool! Ob Kampagnenmanagement, Content-Planung, Monitoring oder Reporting – mit SeaTable gestalten Sie effizientes Marketingmanagement.'
             link: pages/industry-solutions/marketing
           - icon: building
             headline: Projektmanagement
-            text: 'Mit SeaTable lassen sich Projektpläne und Aufgabenlisten erstellen, die in Echtzeit aktualisiert und automatisiert werden. Deadlines und Abhängigkeiten sind immer im Blick und alle Teammitglieder arbeiten auf demselben Stand.'
+            text: 'Mit SeaTable lassen sich Projektpläne und Aufgabenlisten erstellen, die in Echtzeit aktualisiert und automatisiert werden. Deadlines und Abhängigkeiten sind immer im Blick.'
             link: pages/industry-solutions/project-management
-          - icon: substack
+          - icon: people-group
             headline: Human Resources
-            text: 'SeaTable unterstützt Sie bei der Verwaltung und Automatisierung Ihrer Personalprozesse – von der Erfassung und Verwaltung von Mitarbeiterdaten über das Onboarding neuer Mitarbeiter bis hin zur Verwaltung von Urlaubsanträgen und Abwesenheiten. Es ermöglicht eine nahtlose Integration von Dokumenten, automatisierte Genehmigungsprozesse und die Synchronisation mit anderen HR-Tools.'
+            text: 'SeaTable unterstützt Sie bei der Verwaltung und Automatisierung Ihrer Personalprozesse. Es ermöglicht eine nahtlose Integration von Dokumenten und die Synchronisation mit anderen HR-Tools.'
             link: pages/industry-solutions/hr
           - icon: code
-            headline: Lizenzmanagement und Compliance
-            text: 'Verwalten Sie Softwarelizenzen und Compliance-Prozesse automatisch mit SeaTable. Verfolgen Sie den Status Ihrer Lizenzen, vermeiden Sie Compliance-Verstöße und stellen Sie sicher, dass Ihr Unternehmen immer den neuesten Richtlinien entspricht.'
+            headline: Lizenzmanagement
+            text: 'Verfolgen Sie Lizenzstatus, vermeiden Sie Compliance-Verstöße und stellen Sie sicher, dass Ihr Unternehmen immer den neuesten Richtlinien entspricht.'
             link: pages/industry-solutions/software-development
+          - icon: check
+            headline: Sales
+            text: 'Gestalten Sie Ihre Sales- und CRM-Prozesse flexibel nach Ihren Anforderungen. Erstellen Sie automatisierte Vertriebsprozesse, bilden Sie Deal-Pipelines ab und stärken Sie die Kundenbindung.'
+            link: pages/industry-solutions/kundenmanagement
+          - icon: sack-dollar
+            headline: Finance
+            text: 'Verwalten Sie Ihre Finanzen in einem einheitlichen Tool – vom Kapitalbedarfs- und Finanzierungsplan bis zu Finanzanalysen und Reports. Erstellen Sie einen KI Workflow für automatisierte Analysen'
+            link: pages/industry-solutions/finanzplan-erstellen     
+
+    - name: "content-4"
+      weight: 10
+      title: Ihre DSGVO-konforme Software für automatisierte Workflows 
+      subtitle: Keine Kompromisse beim Datenschutz
+      text: ""
+      items:
+      - icon: terminal
+        headline: Hosting in Deutschland
+        text: "SeaTable Cloud und der SeaTable KI-Server werden auf lizenzierten Servern in Deutschland gehostet. Für DSGVO-konforme KI-Funktionen."
+
+      - icon: user-plus
+        headline: Sicherheitseinstellungen
+        text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten."
+
+      - icon: fingerprint
+        headline: Authentifizierung und SSO
+        text: "SeaTable unterstützt alle gängigen Authentifizierungstechniken und ermöglicht Zwei-Faktor-Authentifizierung und SSO."      
 
     - name: 'content-3'
-      weight: 8
+      weight: 9
       title: Ihre Wahl für das optimale Workflow System
       subtitle: Cloud oder eigener Server
-      description: 'Mit SeaTable haben Sie die Wahl zwischen zwei leistungsfähigen Bereitstellungsoptionen für Ihr Workflow Tool:'
+      description: 'Mit SeaTable haben Sie die Wahl zwischen drei leistungsfähigen Bereitstellungsoptionen für Ihr Workflow Tool:'
       items:
           - headline: SeaTable Cloud
-            text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen. Die SeaTable Cloud ist sofort einsatzbereit und bietet maximale Flexibilität und Skalierbarkeit.
+            text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
             image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Workflow Management Basis'
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage zur Planung finanzrelevanter Projekte'
           - headline: SeaTable Server
-            text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option – ideal für Unternehmen mit strengen Compliance-Vorgaben.
+            text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
             image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für selbst gehostete Workflows'
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für finanzielle Maßnahmenpakete'
+          - headline: SeaTable Dedicated
+            text: Für Unternehmen, die die Einfachheit der Cloud und die Flexibilität eines selbst gehosteten Systems benötigen.  
+            image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated Umgebung für unternehmensweite Finanz- und Planungsprozesse'
 
     - name: faq
-      weight: 14
+      weight: 13
       title: FAQ – Workflow Management mit SeaTable
       items:
         - q: 'Was ist ein Workflow und warum ist er entscheidend für Unternehmen?'
@@ -163,7 +190,7 @@ sections:
           a: 'SeaTable ist flexibel, anpassbar und KI‑unterstützt. Als Workflow Management Tool ermöglicht es Ihnen, Workflows schnell an neue Geschäftsanforderungen anzupassen, ohne dass komplexe IT‑Änderungen notwendig sind. Durch KI‑gestützte [Prozessoptimierung]({{< relref "pages/industry-solutions/operations" >}}) erkennt SeaTable automatisch Engpässe und schlägt gezielte Anpassungen vor. So können Sie schneller auf Marktveränderungen reagieren und Ihre Wettbewerbsfähigkeit sichern.'
         
         - q: 'Wie gewährleistet SeaTable die IT-Sicherheit bei innovativen Lösungen?'
-          a: 'Mit SeaTable können Sie innovative, KI‑unterstützte Workflows erstellen, ohne Kompromisse bei der Sicherheit einzugehen. Durch Self-Hosting-Optionen und die Einhaltung strengster Sicherheitsstandards bleiben alle Daten, inklusive KI‑verarbeiteter Inhalte, gemäß DSGVO geschützt. SeaTable bietet somit die ideale Kombination aus Innovation, Datenhoheit und Sicherheit.'
+          a: 'Mit SeaTable können Sie innovative, KI‑unterstützte Workflows erstellen, ohne Kompromisse bei der Sicherheit einzugehen. Durch Self-Hosting-Optionen und die Einhaltung strengster Sicherheitsstandards bleiben alle Daten, inklusive KI‑verarbeiteter Inhalte, gemäß DSGVO geschützt. Mit unserem selbsgehosteten KI-Server können Sie zudem KI-gestützte Workflows erstellen, ohne Abstriche bei Compliance zu machen. SeaTable bietet somit die ideale Kombination aus Innovation, Datenhoheit und Sicherheit.'
         
         - q: 'Wie hilft SeaTable dabei, IT und Geschäftsstrategien in Einklang zu bringen?'
           a: 'Mit SeaTable gestalten Sie Ihre Workflows so, dass sie Ihre Geschäftsziele aktiv unterstützen. KI‑basierte Analysen helfen dabei, Abhängigkeiten zwischen IT‑Prozessen und Unternehmenszielen sichtbar zu machen. Dadurch können Sie sicherstellen, dass Ihre digitale Strategie eng mit Ihren Geschäftszielen verbunden ist und die IT nahtlos mit den geschäftlichen Anforderungen harmoniert.'
@@ -172,20 +199,23 @@ sections:
           a: 'Ja. Durch seine flexible API und die Unterstützung externer Automatisierungsplattformen lässt sich SeaTable einfach mit modernen Technologien und KI‑Diensten verbinden. So können Sie bestehende Systeme erweitern, neue Technologien integrieren und Ihre Prozesse schrittweise modernisieren – ohne zusätzliche Softwarekomplexität.'
         
         - q: 'Wie verbessert SeaTable das Lizenzmanagement und die Software-Compliance?'
-          a: 'SeaTable bietet intelligente Überwachungs- und Automationsfunktionen, um Ihr Lizenzmanagement effizient zu gestalten. Prüfmechanismen erkennen Unstimmigkeiten automatisch und informieren Sie frühzeitig über ablaufende oder doppelte Lizenzen. So bleibt Ihre IT jederzeit compliant und Sie vermeiden unnötige Kosten.'
+          a: 'Mit SeaTable als Workflow Management Software behalten Sie den Überblick über Ihre Softwarelizenzen und können sicherstellen, dass Ihre IT vollständig compliant bleibt. Dank der Automatisierung Ihrer Lizenzverwaltung und der regelmäßigen Überprüfung auf Compliance können Sie sicherstellen, dass alle genutzten Softwarelizenzen jederzeit den aktuellen Vorschriften entsprechen.'
         
         - q: 'Kann ich in SeaTable individuelle Workflows und Automationen anlegen?'
           a: 'Mit SeaTable erhalten Sie ein leistungsstarkes No‑Code-Tool, das die Erstellung individueller Workflows und Automationen stark vereinfacht. Dank integrierter KI‑Funktionen können Sie Aufgaben automatisch priorisieren, Workflows selbstlernend optimieren und Benachrichtigungen oder Berichte intelligent steuern. Zusätzlich zur Integration gängiger Automatisierungstools bietet SeaTable über die API die Möglichkeit, Ihre eigenen Systeme und KI‑Modelle nahtlos in Ihr Workflow‑Managementsystem einzubinden.'
 
+        - q: Wie kann ich bei SeaTable meine Daten mit KI verarbeiten, ohne dass diese auf andere Server transferiert werden?
+          a: SeaTable bietet einen modernen Workflow Automation Editor mit integrierter KI-Funktion an. Um die Sicherheit Ihrer Daten zu gewährleisten hosten wir dafür unser eigenes KI-Modell auf einem deutschen Server. Wenn Sie bei der Automatisierung Ihrer Workflows bei automatisierten Workflows die KI-Aktionen ausführen, werden die Daten auf unseren KI-Server übertragen, dort verarbeitet und zurückgespielt. Es findet kein Datentransfer zu anderen Servern außerhalb der SeaTable-Infrastruktur statt.   
+
     - name: banner-2
-      weight: 15
-      title: 'Kostenlos ausprobieren und die Zukunft des Workflow Managements gestalten'
+      weight: 11
+      title: 'Testen Sie die smarte Lösung für smarte Prozesse'
       buttons:
-          - label: Jetzt registrieren
+          - label: Jetzt kostenlos registrieren
             link: pages/registration
 
     - name: form-contact
-      weight: 16
+      weight: 12
       title: Möchten Sie mehr darüber erfahren, wie Sie SeaTable nutzen können, um Ihre Workflows effizient zu managen?
       description: Schicken Sie uns eine Nachricht – wir melden uns zeitnah!
 ---

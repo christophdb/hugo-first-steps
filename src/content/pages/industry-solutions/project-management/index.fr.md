@@ -99,7 +99,7 @@ sections:
           - text: Gestion de portefeuille de projets
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
             image_alt: "Modèle SeaTable de gestion de portefeuille de projets pour plusieurs projets"
-          - text: plan d'action
+          - text: Plan d'action
             image: /images/Projektmanagement_Action-Plan_Template_9.png
             image_alt: "Modèle de plan d'action SeaTable pour les tâches et les responsabilités"
       buttons:
@@ -141,7 +141,7 @@ sections:
         text: "Gérez chaque activité de votre prochain projet à l'aide d'un planificateur de projet clair. Le modèle de planification de projet de SeaTable constitue l'outil idéal pour planifier vos projets, qu'ils soient de grande ou de petite envergure."
         image: /images/Projektmanagement_-Project-Plan_10.png
         image_alt: 'Vue du planificateur de projet SeaTable avec chronologie et tâches'
-      - headline: plan de structure du projet
+      - headline: Plan de structure du projet
         text: 'Un plan de structure de projet vous permet de diviser votre projet en sous-tâches et lots de travail planifiables. Grâce au [modèle de planification de la structure du projet]({{< relref "templates/projects/work-breakdown-structure" >}}) de SeaTable, cela est extrêmement simple.'
         image: /images/Projektmanagement_Projektstrukturplan_7.png
         image_alt: 'Modèle de plan de structure de projet SeaTable avec lots de travail'

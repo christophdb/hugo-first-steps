@@ -99,7 +99,7 @@ sections:
           - text: Gestão do portfólio de projetos
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
             image_alt: "Modelo SeaTable para gestão de portfólio de projetos para vários projetos"
-          - text: plano de ação
+          - text: Plano de ação
             image: /images/Projektmanagement_Action-Plan_Template_9.png
             image_alt: "Modelo de plano de ação SeaTable para tarefas e responsabilidades"
       buttons:
