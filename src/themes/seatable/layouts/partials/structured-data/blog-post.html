@@ -11,16 +11,17 @@
   {{- end }}
   "description": "{{ .Params.description | default .Summary | safeJS }}",
   "url": {{ .Permalink | plainify }},
-  "datePublished": "{{ .Date.Format "2006-01-02" | safeJS }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02" | safeJS }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
   "inLanguage": "{{ .Language.Lang | safeJS }}",
   "mainEntityOfPage": {
-    "@type": "WebPage", 
+    "@type": "WebPage",
     "@id": {{ .Permalink | plainify }}
   },
   "author": {
     "@type": "Organization",
-    "name": "SeaTable"
+    "name": "SeaTable",
+    "url": {{ .Site.BaseURL | plainify }}
   },
   "publisher": {
     "@type": "Organization",
