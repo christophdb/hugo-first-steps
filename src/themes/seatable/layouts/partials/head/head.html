@@ -26,10 +26,12 @@
         <meta name="robots" content="noindex, nofollow" />
     {{- end -}}
 
+
     <!-- Do not index taxonomy and term pages -->
     {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.seo.index "noindex") -}}
         <meta name="robots" content="noindex" />
     {{- end }}
+
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
@@ -41,6 +43,7 @@
             <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
         {{- end -}}
     {{ end }}
+
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -76,8 +79,12 @@
         {{ "<!-- OpenGraph and Twitter cards are not generated in development mode -->" | safeHTML }}
     {{- end }}
 
+
     <!-- structured data -->
-    {{ partial "structured-data/organization.html" . }}
+    {{ if .IsHome }}
+        {{ partial "structured-data/organization.html" . }}
+    {{ end }}
+
     {{ if eq .Section "posts" }}
         {{ if .IsPage }}
             {{ partial "structured-data/blog-post.html" . }}
@@ -86,6 +93,28 @@
         {{ end }}
     {{ end }}
 
+    {{ if eq .TranslationKey "/pages/prices" }}
+        {{ partial "structured-data/pricing.html" . }}
+    {{ end }}
+
+    {{ if eq .TranslationKey "/pages/product/seatable-cloud" }}
+        {{ partial "structured-data/seatable-cloud.html" . }}
+    {{ end }}
+
+    {{ if eq .TranslationKey "/pages/product/seatable-dedicated" }}
+        {{ partial "structured-data/seatable-dedicated.html" . }}
+    {{ end }}
+
+    {{ if eq .TranslationKey "/pages/product/seatable-server" }}
+        {{ partial "structured-data/seatable-server.html" . }}
+    {{ end }}
+
+    {{ if eq .Section "help" }}
+        <!-- noch habe ich hier keine strukturierten daten -->
+    {{ end }}
+
+
+    <!-- other css and html -->
     {{- partial "head/css.html" . -}}
     {{- partial "head/js.html" . -}}
 
