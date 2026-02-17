@@ -60,8 +60,16 @@
             autocapture: false,
             cookie_expiration: 90,
             person_profiles: 'always',
+            // Filter crawlers (SISTRIX + Sogou)
+            before_send: function (event) {
+                const ua = (navigator && navigator.userAgent) || '';
+                if (ua.includes('Optimizer') || ua.includes('Sogou web spider')) {
+                    return null; // don't send event
+                }
+                return event;
+            },
             loaded: function (posthog) {
-                // Super Properties registrieren
+                // register "super properties"
                 const { language, slug } = getLanguageAndSlug();
                 posthog.register({
                     current_language: language,
