@@ -4,17 +4,10 @@
     <meta name="viewport" content="width=device-width" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <title>{{ .Title | emojify | safeHTML }}</title>
-    {{ if .Params.seo.title -}}
-        <meta name="title" content="{{ .Params.seo.title | emojify | safeHTML }}" />
-    {{- else -}}
-        <meta name="title" content="{{ .Title | emojify | safeHTML }}" />
-    {{- end -}}
+    <title>{{ .Params.seo.title | default .Title | emojify | safeHTML }}</title>
 
-    {{/* Metadata */}}
-    {{ with (.Params.seo.description | default .Params.Summary | default .Params.Description) | default .Site.Params.description -}}
-        <meta name="description" content="{{ . | safeHTML }}" />
-    {{- end }}
+    {{- /* Metadata */}}
+    <meta name="description" content="{{ .Params.seo.description | default .Params.Description | emojify | safeHTML }}" />
     {{- with .Site.Params.robots -}}
         <meta name="robots" content="{{ . }}" />
     {{- end -}}
@@ -66,8 +59,8 @@
 
     <!-- social ... -->
     {{- if hugo.IsProduction -}}
-        {{ template "_internal/opengraph.html" . }}
-        {{ template "_internal/twitter_cards.html" . }}
+        {{ partial "head/opengraph.html" . }}
+        {{ partial "head/twitter_cards.html" . }}
 
         {{ if or (eq .Type "help") (eq .Type "help-start") }}
             <meta property="og:image" content="{{ absURL `images/logos/seatable-og-help.png` }}" />
@@ -81,37 +74,37 @@
 
 
     <!-- structured data -->
-    {{ if .IsHome }}
+    {{- if .IsHome }}
         {{ partial "structured-data/organization.html" . }}
-    {{ end }}
+    {{- end }}
 
-    {{ if eq .Section "posts" }}
-        {{ if .IsPage }}
+    {{- if eq .Section "posts" }}
+        {{- if .IsPage }}
             {{ partial "structured-data/blog-post.html" . }}
-        {{ else if .IsSection }}
+        {{- else if .IsSection }}
             {{ partial "structured-data/blog-list.html" . }}
         {{ end }}
-    {{ end }}
+    {{- end }}
 
-    {{ if eq .TranslationKey "/pages/prices" }}
+    {{- if eq .TranslationKey "/pages/prices" }}
         {{ partial "structured-data/pricing.html" . }}
-    {{ end }}
+    {{- end }}
 
-    {{ if eq .TranslationKey "/pages/product/seatable-cloud" }}
+    {{- if eq .TranslationKey "/pages/product/seatable-cloud" }}
         {{ partial "structured-data/seatable-cloud.html" . }}
-    {{ end }}
+    {{- end }}
 
-    {{ if eq .TranslationKey "/pages/product/seatable-dedicated" }}
+    {{- if eq .TranslationKey "/pages/product/seatable-dedicated" }}
         {{ partial "structured-data/seatable-dedicated.html" . }}
-    {{ end }}
+    {{- end }}
 
-    {{ if eq .TranslationKey "/pages/product/seatable-server" }}
+    {{- if eq .TranslationKey "/pages/product/seatable-server" }}
         {{ partial "structured-data/seatable-server.html" . }}
-    {{ end }}
+    {{- end }}
 
-    {{ if eq .Section "help" }}
+    {{- if eq .Section "help" }}
         <!-- noch habe ich hier keine strukturierten daten -->
-    {{ end }}
+    {{- end }}
 
 
     <!-- other css and html -->
