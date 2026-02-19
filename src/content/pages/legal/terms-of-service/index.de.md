@@ -40,7 +40,7 @@ Mit Abschluss der Registrierung wird Ihrem Benutzerkonto ein Team zugewiesen. Al
 
 Für jedes weitere Teammitglied wird ein Benutzerkonten angelegt. Dieses Benutzerkonto ist fest dem Team zugewiesen. Ein Transfer eines Benutzerkontos zu einem anderen Team ist nicht möglich.
 
-Für Unternehmenskunden kann die Registrierung auch über ein Bestellformular erfolgen. Kontaktieren Sie dazu das Sales-Team unter sales@seatable.io.
+Für Unternehmenskunden kann die Registrierung auch über ein Bestellformular erfolgen. Kontaktieren Sie dazu das Sales-Team unter sales@seatable.com.
 
 ## Benutzerkonten
 
@@ -50,7 +50,7 @@ Sie sind für die Geheimhaltung der Zugangsdaten verantwortlich. Achten Sie dara
 
 Als Teamadministrator haben Sie jedes Teammitglied über die Geheimhaltungspflichten seiner Passwörter zu informieren und zu unterweisen.
 
-Sie sind für alle Aktivitäten in Ihrem Benutzerkonto und durch Ihr Benutzerkonto ausgeführten Aktionen verantwortlich. Sie sind verpflichtet, uns über jede unbefugte Benutzung Ihres Benutzerkontos per E-Mail an abuse@seatable.io zu informieren.
+Sie sind für alle Aktivitäten in Ihrem Benutzerkonto und durch Ihr Benutzerkonto ausgeführten Aktionen verantwortlich. Sie sind verpflichtet, uns über jede unbefugte Benutzung Ihres Benutzerkontos per E-Mail an abuse@seatable.com zu informieren.
 
 ## Abonnements
 

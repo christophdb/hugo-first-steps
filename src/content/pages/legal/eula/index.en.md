@@ -79,7 +79,7 @@ The **[German original version]({{< relref path="pages/legal/eula" lang="de" >}
 
 1. The Customer is obliged to use the Software only in accordance with the provisions of the License Agreement and in accordance with laws and regulations applicable to such use and may not infringe on any third-party rights in connection with such use. The Customer must, in particular, comply with all applicable data protection and export control provisions.
 1. The requirements for the Software are specified in the administrator manual. The Customer is to familiarize himself/herself with these requirements prior to download, installation, and use of the Software.
-1. The Customer is obliged to document material bugs and errors (collectively “Defects”) immediately after occurrence in a form conforming with industry standards and notify SeaTable, either via the Customer’s account manager or by email to support@seatable.io. The report of any Defect must include:  
+1. The Customer is obliged to document material bugs and errors (collectively “Defects”) immediately after occurrence in a form conforming with industry standards and notify SeaTable, either via the Customer’s account manager or by email to support@seatable.com. The report of any Defect must include:  
    – detailed description of the defect  
    – instructions to reproduce the defect  
    – relevant logs  

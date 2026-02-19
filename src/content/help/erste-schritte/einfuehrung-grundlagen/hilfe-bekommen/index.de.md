@@ -47,5 +47,5 @@ Wir geben unser Bestes, um Ihre Anfrage schnell und hilfreich zu beantworten. Ty
 {{< /faq >}}
 
 {{< faq "Kann ich den SeaTable Support auch ohne einen SeaTable Account kontaktieren?" >}}
-Nein. Um den SeaTable Support zu kontaktieren, benötigen Sie ein Plus oder Enterprise Abo. Selbstverständlich können Sie sich aber jederzeit an unser [Sales Team](mailto:sales@seatable.io) wenden.
+Nein. Um den SeaTable Support zu kontaktieren, benötigen Sie ein Plus oder Enterprise Abo. Selbstverständlich können Sie sich aber jederzeit an unser [Sales Team](mailto:sales@seatable.com) wenden.
 {{</ faq >}}

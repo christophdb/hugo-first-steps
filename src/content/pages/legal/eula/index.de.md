@@ -69,7 +69,7 @@ Alle Rechte, Ansprüche und Vorteile aus einer solchen Dokumentation einschliess
 
 Der Kunde wird die Software nur im Rahmen der Bestimmungen des Lizenzvertrags und in Übereinstimmung mit den für diese Nutzung geltenden Gesetzen und Vorschriften nutzen und im Rahmen der Nutzung keine Rechte Dritter verletzen. Der Kunde hat insbesondere die Vorschriften zum Datenschutz und Exportkontrollvorschriften zu beachten.
 Die Systemanforderungen der Software sind im Administratorenhandbuch dargestellt. Der Kunde wird sich vor dem Download, der Installation und dem Betrieb der Software mit diesen vertraut machen.
-Der Kunde wird wesentliche Fehler und Mängel (gemeinsam “Fehler”) unmittelbar nach Auftreten in branchenüblicher Form dokumentieren und SeaTable informieren, entweder über den Ansprechpartner des Kunden oder per E-Mail an support@seatable.io.Die Dokumentation eines Fehlers muss wenigstens folgendes beinhalten:– Detaillierte Beschreibung des Fehlers
+Der Kunde wird wesentliche Fehler und Mängel (gemeinsam “Fehler”) unmittelbar nach Auftreten in branchenüblicher Form dokumentieren und SeaTable informieren, entweder über den Ansprechpartner des Kunden oder per E-Mail an support@seatable.com.Die Dokumentation eines Fehlers muss wenigstens folgendes beinhalten:– Detaillierte Beschreibung des Fehlers
 – Hinweise zur Reproduktion des Fehlers
 – Relevante Logdateien
 – Eingesetzte Version der Software

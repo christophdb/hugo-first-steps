@@ -86,13 +86,13 @@ Mehr Informationen über das [DTABLE-Dateiformat]({{< relref "help/startseite/i
 
 Die Rechenzentren unseres Infrastrukturpartners Exoscale sind zertifiziert nach ISO 9001 und 27001 sowie weiterer, teilweise strikterer Anforderungen.
 
-Im September 2024 hat das Prüfinstitut SRC Security Research & Consulting GmbH SeaTable Server einen Penetrationstest unterzogen. Den Managementbericht können Sie [hier](/Seatable-2401_Management_Summary_v1.2.pdf) unterladen. Schreiben Sie an security@seatable.io, um den vollständigen Bericht zu erhalten.
+Im September 2024 hat das Prüfinstitut SRC Security Research & Consulting GmbH SeaTable Server einen Penetrationstest unterzogen. Den Managementbericht können Sie [hier](/Seatable-2401_Management_Summary_v1.2.pdf) unterladen. Schreiben Sie an security@seatable.com, um den vollständigen Bericht zu erhalten.
 
 Aktuell liegt für SeaTable keine Zertifizierung vor. Eine Zertifizierung von SeaTable Server durch das [Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de/) ist für die zweite Jahreshälfte 2025 geplant.
 
 ## Schwachstelle melden
 
-Wenn Sie eine Sicherheitslücke entdecken oder davon Kenntnis erhalten, dann senden Sie uns bitte eine E-Mail an [security@seatable.io](mailto:security@seatable.io). Wir werden mit hoher Intensität an der Beseitigung der Sicherheitslücke arbeiten.
+Wenn Sie eine Sicherheitslücke entdecken oder davon Kenntnis erhalten, dann senden Sie uns bitte eine E-Mail an [security@seatable.com](mailto:security@seatable.com). Wir werden mit hoher Intensität an der Beseitigung der Sicherheitslücke arbeiten.
 
 Ein Bug Bounty Programm befindet sich derzeit in Planung. Es wird voraussichtlich 2025 starten.
 

@@ -120,7 +120,7 @@ Der Auftragnehmer unterrichtet den Auftraggeber unverzüglich bei von ihm oder d
 
 ### 5.5
 
-Ein Datenschutzbeauftragter gemäß Art. 38, 39 DSGVO wird beim Auftragnehmer nicht bestellt, da die gesetzliche Notwendigkeit für eine Bestellung nicht vorliegt. Als Ansprechpartner wird Herr Dr. Ralf Dyllick-Brenzinger (rdb@seatable.io) benannt.
+Ein Datenschutzbeauftragter gemäß Art. 38, 39 DSGVO wird beim Auftragnehmer nicht bestellt, da die gesetzliche Notwendigkeit für eine Bestellung nicht vorliegt. Als Ansprechpartner wird Herr Dr. Ralf Dyllick-Brenzinger (rdb@seatable.com) benannt.
 
 ## 6. Pflichten des Auftragnehmers bzgl. technisch-organisatorischer Maßnahmen (Art. 32 DSGVO)
 
@@ -215,7 +215,3 @@ Sollte eine Bestimmung dieses Vertrages ungültig oder undurchsetzbar sein oder 
 ### 12.2
 
 Als Gerichtsstand wird Mainz vereinbart.
-
-## Frühere Versionen
-
-- [Version 1.1.2 vom 01.07.2022]({{< relref "/pages/legal/avv/v1-1-2" >}})

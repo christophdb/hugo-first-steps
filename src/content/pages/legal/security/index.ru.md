@@ -92,13 +92,13 @@ More information about the DTABLE file format can be found in the [SeaTable Manu
 
 The data centers of our infrastructure partner Exoscale are ISO 9001 and 27001 certified in addition to some, partly stricter certifications.
 
-In September 2024, the IT security firm SRC Security Research & Consulting GmbH, based in Bonn, Germany, performed a penetration test of SeaTable Server. You can download the management report (in German) [here](/Seatable-2401_Management_Summary_v1.2.pdf). We provide the full report (in German) upon request. Please contact security@seatable.io.
+In September 2024, the IT security firm SRC Security Research & Consulting GmbH, based in Bonn, Germany, performed a penetration test of SeaTable Server. You can download the management report (in German) [here](/Seatable-2401_Management_Summary_v1.2.pdf). We provide the full report (in German) upon request. Please contact security@seatable.com.
 
 There is currently no certification for SeaTable. A certification of SeaTable Server by the German Federal Office for Information Security (BSI) is planned for the second half of 2025.
 
 ## Report a Bug
 
-If you discover or become aware of a security vulnerability, please email us at security@seatable.io. We will work with high intensity to eliminate the vulnerability.
+If you discover or become aware of a security vulnerability, please email us at security@seatable.com. We will work with high intensity to eliminate the vulnerability.
 
 A bug bounty program is currently under construction. It is expected to launch in 2025.
 

@@ -44,6 +44,6 @@ Besides the user manual, there are other sources that you can use to learn more 
 {{< /faq >}}
 {{< faq "When will I receive feedback from SeaTable support?" >}}We do our best to answer your inquiry quickly and helpfully. Typically, you will receive a response the same day or the next business day.
 {{< /faq >}}
-{{< faq "Can I contact SeaTable support without a SeaTable account?" >}}No. To contact SeaTable support, you need a Plus or Enterprise subscription. Of course, you can always contact our [sales team](mailto:sales@seatable.io).
+{{< faq "Can I contact SeaTable support without a SeaTable account?" >}}No. To contact SeaTable support, you need a Plus or Enterprise subscription. Of course, you can always contact our [sales team](mailto:sales@seatable.com).
 
 {{< /faq >}}
