@@ -52,6 +52,3 @@ With this documentation, SeaTable GmbH fulfills its obligations under section 7.
 
 Further information about the subprocessors can be found in the privacy policy, which is available at any time on the SeaTable website under [Privacy Policy]({{< relref "pages/legal/data-privacy" >}}).
 
-## Previous Versions
-
-- [Version 1.1.2 dated 01.07.2022]({{< relref "/pages/legal/subprocessors/v1-1-2" >}})

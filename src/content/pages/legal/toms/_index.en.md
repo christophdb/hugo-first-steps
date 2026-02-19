@@ -129,7 +129,3 @@ _Art. 32(1)(d) GDPR; Art. 25(1) GDPR_
 | Regular review of access authorizations                                                              | Annual employee awareness training                                                                        |
 | Regular review of data protection provisions and assessment of appropriateness of technical measures | Regular review of data protection provisions and assessment of appropriateness of organizational measures |
 |                                                                                                      | Disciplinary measures in case of data protection breach                                                   |
-
-## Previous Versions
-
-- [Version 1.1.2 dated 01.07.2022]({{< relref "pages/legal/toms/v1-1-2" >}})

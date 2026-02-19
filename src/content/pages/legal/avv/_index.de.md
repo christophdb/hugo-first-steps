@@ -215,7 +215,3 @@ Sollte eine Bestimmung dieses Vertrages ungültig oder undurchsetzbar sein oder 
 ### 12.2
 
 Als Gerichtsstand wird Mainz vereinbart.
-
-## Frühere Versionen
-
-- [Version 1.1.2 vom 01.07.2022]({{< relref "/pages/legal/avv/v1-1-2" >}})
