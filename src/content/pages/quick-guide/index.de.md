@@ -22,7 +22,7 @@ sections:
           - text: Suchen Sie neue Mitarbeiter
           - text: Überwachen Sie eine Marketing-Kampagne
           - text: Verwalten Sie die Lizenzen in Ihrem Unternehmen
-      image: '/quick-guide/step1-create-a-base.gif'
+      image: '/images/quick-guide/step1-create-a-base.gif'
       image_alt: 'SeaTable GIF: Erstellung einer neuen Base für Projekte oder Prozesse'
       image_position: right
 
