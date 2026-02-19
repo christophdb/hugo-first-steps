@@ -44,6 +44,6 @@ Para além do manual do utilizador, existem outras fontes que pode utilizar para
 {{< /faq >}}
 {{< faq "Quando vou receber feedback do SeaTable Support?" >}}Fazemos o nosso melhor para responder ao seu pedido de informação de forma rápida e útil. Normalmente, receberá uma resposta no mesmo dia ou no dia útil seguinte.
 {{< /faq >}}
-{{< faq "Posso contactar o apoio SeaTable sem uma conta SeaTable?" >}}Não. Para contactar o Suporte do SeaTable, é necessária uma subscrição Plus ou Enterprise. Naturalmente, pode sempre contactar a nossa [equipa de vendas](mailto:sales@seatable.io).
+{{< faq "Posso contactar o apoio SeaTable sem uma conta SeaTable?" >}}Não. Para contactar o Suporte do SeaTable, é necessária uma subscrição Plus ou Enterprise. Naturalmente, pode sempre contactar a nossa [equipa de vendas](mailto:sales@seatable.com).
 
 {{< /faq >}}

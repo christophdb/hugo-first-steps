@@ -50,7 +50,7 @@ Upon completion of the registration, a team will be assigned to your user accoun
 
 A user account is created for each additional team member. This user account is permanently assigned to the team. It is not possible to transfer a user account to another team.
 
-Corporate customers can also register via an order form. Please contact the sales team at sales@seatable.io.
+Corporate customers can also register via an order form. Please contact the sales team at sales@seatable.com.
 
 ## User Accounts
 
@@ -60,7 +60,7 @@ You are responsible for safeguarding your SeaTable login credentials. Make sure 
 
 As team administrator you must inform and instruct each team member about password secrecy.
 
-You are responsible for all activity on your user account or actions carried out by your account, whether or not you authorized that activity. You must immediately notify us by e-mail to abuse@seatable.io of any unauthorized use of your account.
+You are responsible for all activity on your user account or actions carried out by your account, whether or not you authorized that activity. You must immediately notify us by e-mail to abuse@seatable.com of any unauthorized use of your account.
 
 ## Subscriptions
 

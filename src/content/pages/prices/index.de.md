@@ -198,7 +198,7 @@ sections:
           - q: Wie kann ich die Rechnungsadresse anpassen?
             a: Sie können die Rechnungsadresse jederzeit im  anpassen.<br><br>Die nachträgliche Änderung einer Rechnung ist nicht möglich.
           - q: Kann ich die Größe einer laufenden SeaTable Server Lizenz ändern?
-            a: Eine SeaTable Server Lizenz für 50 Benutzer und mehr können Sie jederzeit vergrößern. Kontaktieren Sie bitte sales@seatable.io und nennen Sie den Lizenzkey und die gewünschte Benutzeranzahl. Der Lizenzpreis für die zusätzlichen wird zeitanteilig berechnet.<br><br>Eine SeaTable Server Lizenz für 10 und 25 Benutzer können Sie während der Laufzeit nicht vergrößern. Wenn Sie mehr Benutzer benötigen, dann müssen Sie eine neue Lizenz erwerben.<br><br>Die Kombination mehrerer Lizenzen ist nicht möglich. Eine SeaTable Server Instanz kann nur mit einer Lizenz verbunden werden.
+            a: Eine SeaTable Server Lizenz für 50 Benutzer und mehr können Sie jederzeit vergrößern. Kontaktieren Sie bitte sales@seatable.com und nennen Sie den Lizenzkey und die gewünschte Benutzeranzahl. Der Lizenzpreis für die zusätzlichen wird zeitanteilig berechnet.<br><br>Eine SeaTable Server Lizenz für 10 und 25 Benutzer können Sie während der Laufzeit nicht vergrößern. Wenn Sie mehr Benutzer benötigen, dann müssen Sie eine neue Lizenz erwerben.<br><br>Die Kombination mehrerer Lizenzen ist nicht möglich. Eine SeaTable Server Instanz kann nur mit einer Lizenz verbunden werden.
           - q: Kann ich mehrere SeaTable Server Lizenzen kombinieren?
             a: Die Kombination mehrerer SeaTable Server Lizenzen ist nicht möglich. Auf einer SeaTable Server Instanz ist immer nur eine Lizenz aktiviert.
           - q: Wie erfolgt die automatische Verlängerung?

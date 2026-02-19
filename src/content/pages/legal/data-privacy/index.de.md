@@ -490,10 +490,3 @@ Wir nutzen **Jitsi Meet** (auf eigenem Server) und **TeamViewer** (mit DSGVO-Ver
 
 {{< /legal-2col >}}
 
-## Frühere Versionen dieser Datenschutzerklärung
-
-- [Datenschutzerklärung SeaTable Version 1.0.0 vom 7. Juli 2020](/Datenschutzerklaerung_SeaTable_Datum20200709_Version1.0.0.pdf)
-- [Datenschutzerklärung SeaTable Version 1.0.1 vom 25. Juli 2020](/Datenschutzerklaerung_SeaTable_Stand20200725_Version1.0.1.pdf)
-- [Datenschutzerklärung SeaTable Version 1.1.0 vom 20. Mai 2021](/Datenschutzerklaerung_SeaTable_Stand20210520_Version1.1.0.pdf)
-- [Datenschutzerklärung SeaTable Version 1.2.0 vom 14. April 2022](/Datenschutzerklaerung_SeaTable_Stand20220414_Version1.2.0.pdf)
-- [Datenschutzerklärung SeaTable Version 1.2.1 vom 8. Juli 2022](/Datenschutzerklaerung_SeaTable_Stand20220708_Version1.2.1.pdf)

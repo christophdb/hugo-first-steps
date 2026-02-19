@@ -57,7 +57,7 @@ Weitere Hinweise:
 
 ### Externe Links
 
-E-Mailadressen wie cdb@seatable.io und externe URLs wie https://www.google.de werden im Fließtext automatisch in Links umgewandelt.
+E-Mailadressen wie cdb@seatable.com und externe URLs wie https://www.google.de werden im Fließtext automatisch in Links umgewandelt.
 
 Für einen anderen Link-Text muss dieser in eckigen Klammern angegeben werden:
 

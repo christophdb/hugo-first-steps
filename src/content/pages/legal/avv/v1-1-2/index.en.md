@@ -126,7 +126,7 @@ The processor must promptly notify the controller of any violations of data prot
 
 ### 5.5
 
-A Data Protection Officer under Art. 38 and 39 GDPR has not been appointed, as no statutory requirement exists. The contact person is Dr. Ralf Dyllick-Brenzinger (rdb@seatable.io).
+A Data Protection Officer under Art. 38 and 39 GDPR has not been appointed, as no statutory requirement exists. The contact person is Dr. Ralf Dyllick-Brenzinger (rdb@seatable.com).
 
 ## 6. Obligations Regarding Technical and Organizational Measures (Art. 32 GDPR)
 

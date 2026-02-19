@@ -68,7 +68,7 @@ SeaTable GmbH
 Germany
 
 Phone: +49 6131 26550  
-Email: info@seatable.io
+Email: info@seatable.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, email addresses, etc.).
 

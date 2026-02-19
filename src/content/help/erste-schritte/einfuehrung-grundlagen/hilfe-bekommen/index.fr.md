@@ -44,6 +44,6 @@ Outre le guide de l'utilisateur, il existe d'autres sources qui vous permettront
 {{< /faq >}}
 {{< faq "Quand recevrai-je un retour de l'assistance SeaTable ?" >}}Nous faisons de notre mieux pour répondre rapidement et utilement à votre demande. En règle générale, vous recevrez une réponse le jour même ou le jour ouvrable suivant.
 {{< /faq >}}
-{{< faq "Puis-je contacter l'assistance SeaTable sans avoir de compte SeaTable ?" >}}Non, pour contacter le support SeaTable, vous devez avoir un abonnement Plus ou Enterprise. Mais vous pouvez bien entendu contacter notre [équipe de vente](mailto:sales@seatable.io) à tout moment.
+{{< faq "Puis-je contacter l'assistance SeaTable sans avoir de compte SeaTable ?" >}}Non, pour contacter le support SeaTable, vous devez avoir un abonnement Plus ou Enterprise. Mais vous pouvez bien entendu contacter notre [équipe de vente](mailto:sales@seatable.com) à tout moment.
 
 {{< /faq >}}
