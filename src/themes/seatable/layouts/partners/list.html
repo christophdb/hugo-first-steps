@@ -1,0 +1,324 @@
+{{ define "main" }}
+    <section class="max-container mt-12 p-4">
+        <div class="text-center">
+            <h1 class="mx-auto mb-8 max-w-3xl text-3xl leading-tight sm:text-4xl">{{ .Title }}</h1>
+            {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
+        </div>
+
+        <div x-data="partners()" class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+            <!-- Categories -->
+            <div class="mt-12 hidden w-1/4 min-w-[220px] lg:block">
+                <div class="sticky top-8 py-2 pl-5">
+                    <h3 class="mb-4 mr-16 border-b pb-2 text-sm uppercase text-gray-400">{{ T "partners.available_filters" }}</h3>
+
+                    <div>
+                        <!-- Sprache -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            {{ T "partners.language" }}
+                            <div x-data="languageFilter" class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 font-normal hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Industry -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            {{ T "partners.industry_expertise" }}
+                            <div x-data="industryExpertiseFilter" class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Land -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            {{ T "partners.country" }}
+                            <div x-data="countryFilter" class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Support areas -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            {{ T "partners.services" }}
+                            <div x-data="supportAreasFilter" class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+
+                        <!-- Typical customers -->
+                        <label class="poppins my-6 block text-base font-bold">
+                            {{ T "partners.typical_customers" }}
+                            <div x-data="typicalCustomerFilter" class="relative mt-1">
+                                <!-- „Select“-Box (Klick öffnet Panel) -->
+                                <button
+                                    type="button"
+                                    class="mt-1 flex w-full items-center justify-between rounded border border-gray-300 bg-white px-4 py-2 text-left font-normal"
+                                    @click="toggleOpen()">
+                                    <span x-text="label()"></span>
+                                    <svg class="ml-2 h-4 w-4 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+
+                                <!-- Panel mit Optionen, erst sichtbar bei Klick -->
+                                <div
+                                    x-cloak
+                                    x-show="open"
+                                    @click.outside="open = false"
+                                    x-transition
+                                    class="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded border border-gray-300 bg-white shadow-lg">
+                                    <template x-for="option in options" :key="option">
+                                        <label class="flex cursor-pointer items-center px-3 py-2 hover:bg-gray-100" @click.prevent="toggle(option)">
+                                            <input type="checkbox" class="mr-2 rounded border-gray-300" :value="option" :checked="isSelected(option)" />
+                                            <span x-text="option"></span>
+                                        </label>
+                                    </template>
+                                </div>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-content my-12 w-full lg:w-3/4">
+                <div class="mb-20 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
+                    <template x-for="partner in getFilteredPartners()">
+                        <div class="duration-50 rounded-lg border border-gray-300 transition-colors hover:border-gray-600 hover:bg-orange-100 hover:shadow-lg">
+                            <a :href="window.location.pathname.replace(/\/$/, '') + '/' + partner.slug" class="flex h-full flex-col !no-underline">
+                                <img x-show="partner.logo_path" :src="partner.logo_path" alt="Feature Image" class="mx-auto my-8 block h-20 w-48 object-contain" />
+                                {{/* Fallback div */}}
+                                <div x-show="!partner.logo_path" class="mx-auto my-8 block h-20 w-48 bg-white object-contain"></div>
+
+                                <div class="mb-8 mt-4 border-t border-gray-200 px-8">
+                                    <h3 x-text="partner.partner" class="!pt-6 !text-xl tracking-tight"></h3>
+                                    <p x-text="partner.short_description" class="line-clamp-4 !pb-0 !text-sm font-normal !leading-relaxed text-gray-600"></p>
+                                </div>
+                                <div class="mb-8 mt-auto flex flex-row items-end justify-between px-8">
+                                    <div
+                                        class="flex flex-col gap-1"
+                                        x-data="{ typeClasses: {
+                                            'Solution partner': 'bg-green-800',
+                                            'Service partner': 'bg-blue-700',
+                                            'Hosting partner': 'bg-purple-700',
+                                        }}">
+                                        <template x-for="type in partner.partner_type" :key="type">
+                                            <span x-text="type" :class="typeClasses[type]" class="rounded px-2 py-1 text-sm font-normal text-white"></span>
+                                        </template>
+                                    </div>
+                                    <span
+                                        x-text="partner.country.country_region"
+                                        class="rounded border border-gray-400 bg-white px-2 py-1 font-roboto text-sm font-normal text-seatable-blue"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </template>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{ $partners := .Site.Data.partners }}
+
+    <script>
+        function filterSelect({options}) {
+            return {
+                open: false,
+                options: options,
+                selected: [],
+
+                toggleOpen() {
+                    this.open = !this.open;
+                },
+
+                toggle(option) {
+                    const idx = this.selected.indexOf(option);
+                    if (idx > -1) {
+                        this.selected.splice(idx, 1);
+                    } else {
+                        this.selected.push(option);
+                    }
+                },
+
+                isSelected(option) {
+                    return this.selected.includes(option);
+                },
+
+                label() {
+                    return this.selected.length ? this.selected.join(', ') : '{{ T "partners.select_placeholder" }}';
+                },
+            };
+        }
+
+        function partners() {
+            const partners = {{ $partners | jsonify | safeJS }};
+
+            const languageOptions = Array.from(new Set(partners.flatMap(partner => partner.languages))).sort();
+            const industryExpertiseOptions = Array.from(new Set(partners.flatMap(partner => partner.industry_expertise))).sort();
+            const countryOptions = Array.from(new Set(partners.flatMap(partner => partner.country.country_region))).sort();
+            const supportAreaOptions = Array.from(new Set(partners.flatMap(partner => partner.support_areas))).sort();
+
+            return {
+                partners: partners,
+
+                languageFilter: filterSelect({
+                    options: languageOptions,
+                }),
+
+                industryExpertiseFilter: filterSelect({
+                    options: industryExpertiseOptions,
+                }),
+
+                countryFilter: filterSelect({
+                    options: countryOptions,
+                }),
+
+                supportAreasFilter: filterSelect({
+                    options: supportAreaOptions,
+                }),
+
+                typicalCustomerFilter: filterSelect({
+                    options: ['Micro organizations (<10 employees)', 'Small organizations (<50 employees)', 'Medium organizations (<500 employees)', 'Large organizations (>500 employees)'],
+                }),
+
+                getFilteredPartners() {
+                    let filteredPartners = this.partners;
+
+                    if (this.languageFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.languages.some(
+                                language => this.languageFilter.selected.includes(language)
+                            )
+                        );
+                    }
+
+                    if (this.industryExpertiseFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.industry_expertise.some(
+                                expertise => this.industryExpertiseFilter.selected.includes(expertise)
+                            )
+                        );
+                    }
+
+                    if (this.countryFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => this.countryFilter.selected.includes(partner.country.country_region)
+                        );
+                    }
+
+                    if (this.supportAreasFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.support_areas.some(
+                                area => this.supportAreasFilter.selected.includes(area)
+                            )
+                        );
+                    }
+
+                    if (this.typicalCustomerFilter.selected.length > 0) {
+                        filteredPartners = filteredPartners.filter(
+                            partner => partner.typical_customer.some(
+                                tc => this.typicalCustomerFilter.selected.includes(tc)
+                            )
+                        );
+                    }
+
+                    return filteredPartners;
+                },
+            };
+        }
+    </script>
+{{ end }}
