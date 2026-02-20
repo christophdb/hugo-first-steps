@@ -43,7 +43,7 @@ sections:
             text: SeaTable scales with you and your growing requirements. Ideal for digitizing workflows.    
           - icon: up-right-and-down-left-from-center
             headline: Real-time collaboration
-            text: Thanks to comprehensive real-time collaboration features, you can achieve maximum transparency in all processes.
+            text: Thanks to comprehensive real-time collaboration features, you can achieve maximum transparency.
           - icon: robot
             headline: AI-supported automation
             text: SeaTable helps you automate recurring processes and minimize manual intervention.     
@@ -119,7 +119,7 @@ sections:
       items:
           - icon: puzzle-piece
             headline: Marketing
-            text: 'All processes and data in one central marketing tool! Whether campaign management, content planning, monitoring, or reporting—with SeaTable, you can design efficient marketing management.'
+            text: 'Whether campaign management, content planning, monitoring, or reporting—with SeaTable, you can design efficient marketing management.'
             link: pages/industry-solutions/marketing
           - icon: building
             headline: Project management
@@ -139,7 +139,7 @@ sections:
             link: pages/industry-solutions/kundenmanagement
           - icon: sack-dollar
             headline: Finance
-            text: 'Manage your finances in a single tool—from capital requirements and financing plans to financial analyses and reports. Create an AI workflow for automated analyses.'
+            text: 'Manage your finances in a single tool—from capital requirements and financing plans to financial reports. Create an AI workflow for automated analyses.'
             link: pages/industry-solutions/finanzplan-erstellen     
 
     - name: "content-4"
@@ -150,7 +150,7 @@ sections:
       items:
       - icon: terminal
         headline: Hosting in Germany
-        text: "SeaTable Cloud and the SeaTable AI server are hosted on licensed servers in Germany. For GDPR-compliant AI functions."
+        text: "SeaTable and the SeaTable AI are hosted on licensed servers in Germany. For GDPR-compliant AI functions."
 
       - icon: user-plus
         headline: Security settings
@@ -158,7 +158,7 @@ sections:
 
       - icon: fingerprint
         headline: Authentication and SSO
-        text: "SeaTable supports all common authentication techniques and enables two-factor authentication and SSO."      
+        text: "SeaTable supports all common authentication techniques and enables 2FA and SSO."      
 
     - name: 'content-3'
       weight: 9

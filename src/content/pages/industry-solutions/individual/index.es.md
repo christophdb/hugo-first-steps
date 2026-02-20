@@ -33,22 +33,22 @@ sections:
       items:
           - icon: edit
             headline: Flexible e intuitivo
-            text: Con SeaTable, puede diseñar flujos de trabajo que se adapten perfectamente a las necesidades de su empresa. 
+            text: Con SeaTable, diseñe flujos de trabajo digitales que se adapten con precisión a los requisitos específicos de su empresa.
           - icon: table
             headline: Diseño visual
-            text: La plataforma no-code, fácil de usar, le permite diseñar procesos mediante la función de arrastrar y soltar.
+            text: La plataforma No-Code, fácil de usar, le permite diseñar procesos sencillamente mediante la función de arrastrar y soltar.
           - icon: shield
             headline: Conforme al RGPD
-            text: SeaTable Cloud y nuestro servidor SeaTable AI se alojan exclusivamente en servidores europeos certificados en Alemania.  
+            text: SeaTable Cloud y nuestro servidor de IA se alojan exclusivamente en servidores europeos certificados en Alemania.  
           - icon: expand
             headline: Escalable
-            text: SeaTable se adapta a usted y a sus crecientes necesidades. Ideal para digitalizar los flujos de trabajo.    
+            text: SeaTable escala con usted y sus crecientes requisitos. Es ideal para digitalizar sus flujos de trabajo eficientemente.    
           - icon: up-right-and-down-left-from-center
             headline: Colaboración en tiempo real
-            text: Gracias a las completas funciones de colaboración en tiempo real, podrá lograr la máxima transparencia en todos los procesos.
+            text: Gracias a las funciones de colaboración en tiempo real, creará la máxima transparencia en todos los procesos de trabajo.
           - icon: robot
-            headline: Automatizaciones asistidas por IA
-            text: SeaTable le ayuda a automatizar procesos recurrentes y a minimizar las intervenciones manuales.     
+            headline: Automatizaciones por IA
+            text: SeaTable le ayuda a automatizar procesos recurrentes y a minimizar significativamente las intervenciones manuales.    
     
     - name: "content-5"
       weight: 4
@@ -120,28 +120,28 @@ sections:
       text: 'SeaTable ofrece innumerables posibilidades para diseñar flujos de trabajo individuales que se adaptan perfectamente a las necesidades de su empresa. Aquí tiene algunos ejemplos:'
       items:
           - icon: puzzle-piece
-            headline: Marketing
-            text: '¡Todos los procesos y datos en una herramienta de marketing centralizada! Ya sea para la gestión de campañas, la planificación de contenidos, la supervisión o la elaboración de informes, con SeaTable podrá diseñar una gestión de marketing eficiente.'
+            headline: Gestión de Marketing
+            text: '¡Centralice todos los procesos y datos en una sola herramienta! Desde campañas hasta informes: diseñe una gestión de marketing eficiente y ágil con SeaTable.'
             link: pages/industry-solutions/marketing
           - icon: building
-            headline: Gestión de proyectos
-            text: 'Con SeaTable se pueden crear planes de proyectos y listas de tareas que se actualizan y automatizan en tiempo real. Las fechas límite y las dependencias están siempre a la vista.'
+            headline: Gestión de Proyectos
+            text: 'Cree planes de proyecto y listas de tareas actualizados en tiempo real. Mantenga plazos y dependencias siempre bajo control mediante flujos de trabajo automatizados.'
             link: pages/industry-solutions/project-management
           - icon: people-group
             headline: Recursos Humanos
-            text: SeaTable le ayuda a gestionar y automatizar sus procesos de recursos humanos. Permite una integración perfecta de documentos y la sincronización con otras herramientas de RR. HH.
+            text: SeaTable optimiza la gestión y automatización de sus procesos de personal. Integre documentos y sincronice datos fluidamente con otras herramientas de RR.HH.
             link: pages/industry-solutions/hr
           - icon: code
-            headline: Gestión de licencias
-            text: Realice un seguimiento del estado de las licencias, evite incumplimientos normativos y asegúrese de que su empresa cumpla siempre con las directrices más recientes.
+            headline: Gestión de Licencias
+            text: Supervise el estado de las licencias, evite infracciones de cumplimiento y asegure que su empresa cumpla siempre con las normativas y directrices más recientes.
             link: pages/industry-solutions/software-development
           - icon: check
-            headline: Ventas
-            text: Diseñe sus procesos de ventas y CRM de forma flexible según sus necesidades. Cree procesos de ventas automatizados, represente los canales de ventas y refuerce la fidelidad de los clientes.
+            headline: Ventas y CRM
+            text: Diseñe procesos de ventas y CRM flexibles según sus requisitos. Cree flujos automatizados, visualice pipelines de negocios y fortalezca la fidelización de clientes.
             link: pages/industry-solutions/kundenmanagement
           - icon: sack-dollar
-            headline: Finanzas
-            text: Gestione sus finanzas en una herramienta única, desde las necesidades de capital y los planes de financiación hasta los análisis financieros y los informes. Cree un flujo de trabajo de IA para realizar análisis automatizados.
+            headline: Gestión Financiera
+            text: 'Gestione sus finanzas en una herramienta unificada: desde la planificación hasta los informes. Cree un flujo de trabajo de IA para análisis automatizados y rápidos.'
             link: pages/industry-solutions/finanzplan-erstellen     
 
     - name: "content-4"
@@ -156,7 +156,7 @@ sections:
 
       - icon: user-plus
         headline: Configuración de seguridad
-        text: Configure derechos de acceso y edición individuales y restrinja el acceso a datos confidenciales.
+        text: Configure derechos de acceso individuales y restrinja el uso de datos sensibles mediante permisos granulares de lectura y escritura.
 
       - icon: fingerprint
         headline: Autenticación y SSO
@@ -169,7 +169,7 @@ sections:
       description: "Con SeaTable, puede elegir entre tres potentes opciones de implementación para su herramienta de flujo de trabajo:"
       items:
           - headline: SeaTable Cloud
-            text: Perfecto para empresas que desean empezar rápidamente y sin una infraestructura informática compleja, de forma flexible y escalable.
+            text: Perfecto para empresas que desean empezar rápidamente y sin una infraestructura informática compleja, de forma flexible.
             image: /images/template-projektplan.png
             image_alt: Plantilla de SeaTable Cloud para planificar proyectos financieros
           - headline: SeaTable Server

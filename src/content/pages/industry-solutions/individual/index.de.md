@@ -154,7 +154,7 @@ sections:
 
       - icon: user-plus
         headline: Sicherheitseinstellungen
-        text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten."
+        text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten durch granulare Lese- und Schreibrechte."
 
       - icon: fingerprint
         headline: Authentifizierung und SSO
