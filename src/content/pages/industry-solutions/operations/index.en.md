@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: "Process management software for efficient operations"
-      text: "Visualize complex processes, standardize and automate your daily workflows, and use existing resources more efficiently: SeaTable is the intuitive AI-based no-code solution that helps your operations team eliminate manual tasks, reduce error rates, and drive sustainable growth through digital excellence."
+      text: "Visualize complex processes, standardize and automate your daily workflows, and make efficient use of existing resources: SeaTable is the **intuitive, AI-powered, no-code solution** for your operational team."
       classes:
           - bg-gray-200
       template: d58845a24cda4807847e
@@ -27,17 +27,17 @@ sections:
       weight: 2
       title: SeaTable is the perfect solution for your process management
       subtitle: Advantages of SeaTable
-      text: SeaTable combines the ease of use of a spreadsheet with the power of a database, modern AI functions and automation as well as a flexible [app builder]({{< relref "posts/20250318-app-erstellen" >}}).
+      text:
       items:
       - icon: edit
         headline: Flexibility
         text: "With SeaTable, you can develop individual solutions that adapt exactly to your needs and processes - without any IT effort."
 
-      - icon: up-right-and-down-left-from-center
+      - icon: chart-line
         headline: Process analyses
         text: "Create appealing reporting dashboards with just a few clicks and analyze your processes for data-driven business decisions."
 
-      - icon: location-dot
+      - icon: people-group
         headline: Real-time collaboration
         text: "In SeaTable, your teams work together transparently and in real time.Everyone always has the latest data and your processes interlock."
       
@@ -45,11 +45,11 @@ sections:
         headline: AI automations
         text: Use the integrated AI-supported automations for efficient processes and lean workflows - with SeaTable's own AI server. 
 
-      - icon: globe
+      - icon: eye
         headline: Visualization
         text: "Use different views, dashboards and whiteboards for quick visualization and comprehensible process modeling."
       
-      - icon: shield
+      - icon: money-check-dollar
         headline: Cost efficiency
         text: "With SeaTable, you only pay for the functions and users you actually need. For small teams, SeaTable Free is a permanently free option."
 
@@ -59,12 +59,13 @@ sections:
         - curved
         - bg-white
       title: Process management tool for every team size
+      description: 'The [AI no-code solution SeaTable]({{< relref "/" >}}) combines the ease of use of a spreadsheet with the power of a database, [modern AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) and automations, and a flexible no-code app builder.'
       subtitle: Managing operations teams
       items:
-        - text: AI-supported automation for lean processes
-        - text: Own AI server for maximum data protection and compliance
-        - text: Increased efficiency through real-time collaboration
-        - text: Easy integration with other tools thanks to integrated API
+        - text: "AI-supported automation for **lean processes**"
+        - text: "Own AI server for **maximum data protection and compliance**"
+        - text: "Increased efficiency through **real-time collaboration**"
+        - text: "**Easy integration with other tools** thanks to integrated API"
         - text: Cloud server and AI server are hosted exclusively in Germany
       image: /images/landing_page_operations_01.jpg
       image_alt: 'SeaTable process management interface with AI automations and real-time collaboration'
@@ -108,19 +109,19 @@ sections:
       subtitle: Managing business processes
       items:
       - headline: Customizable reporting dashboards
-        text: Capture relevant metrics and create meaningful reports for more business growth thanks to data-driven decisions - with customizable dashboards.
+        text: "Capture relevant metrics and **create meaningful reports for more business growth thanks to data-driven decisions** - with customizable dashboards."
         image: /images/landing_page_operations_analyse-dashboards.jpg
         iamge_alt: 'SeaTable reporting dashboards for process analysis and business intelligence'
       - headline: Overview of all workflows
-        text: "Delays, inefficient processes, overloads: With automated notifications and process visualizations, you can maintain an overview and react immediately."
+        text: "Delays, inefficient processes, overloads: With **automated notifications and process visualizations**, you can maintain an overview and react immediately."
         image: /images/landing_page_operations_workflow-overview.jpg
         image_alt: 'SeaTable workflow overview with automated notifications and process visualization'
       - headline: Transparent and efficient processes
-        text: "Automated status updates, clear task management and integrated comment functions: With SeaTable, your team always works together in real time and with up-to-date data."
+        text: "Automated status updates, **clear task management and integrated comment functions**: With SeaTable, your team always works together in real time and with up-to-date data."
         image: /images/landing_page_operations_communication.jpg
         iamge_alt: 'SeaTable communication tools for transparent collaboration and task management'
       - headline: Operations front end
-        text: "With SeaTable's no-code app builder, you can create your individual operations and process management front end with just a few clicks."
+        text: 'With our [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create your individual operations and process management front end with just a few clicks.'
         image: /images/landing_page_operations_app.jpg
         image_alt: 'SeaTable no-code app builder for customized operations and process management frontend'
 
@@ -128,7 +129,7 @@ sections:
       weight: 7
       title: Your GDPR-compliant software for process management
       subtitle: No compromises when it comes to data protection
-      text: "SeaTable Cloud is hosted exclusively on licensed servers in Germany. This means that SeaTable is 100% GDPR-compliant as process management software and guarantees the highest level of data protection and data security."
+      text: 'SeaTable Cloud is hosted exclusively on licensed European servers in Germany. This makes SeaTable 100% GDPR-compliant as process management software and guarantees maximum data protection and [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}).'
       items:
       - icon: terminal
         headline: Own AI server
@@ -174,11 +175,13 @@ sections:
       title: FAQ - SeaTable business process management software
       items:
           - q: Does SeaTable provide templates for my operations team?
-            a: Yes, SeaTable offers several ready-to-use templates for operations teams, such as Supply Chain Management, Ordering Work Process and Fulfillment, Inventory or Fleet Management.
+            a: Yes, SeaTable offers several ready-to-use templates for operations teams, such as [Supply Chain Management]({{< relref "templates/operations/supply-chain-management" >}}), Ordering Work Process and Fulfillment, [Inventory]({{< relref "templates/operations/inventory-list" >}}) or [Fleet Management]({{< relref "templates/operations/fleet-management" >}}).
+          - q: Is SeaTable's use of AI GDPR-compliant?  
+            a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and our [own AI model]({{< relref "posts/ai-powered-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.  
           - q: As a process management software, how can SeaTable improve business operations?
             a: SeaTable business process management software can improve your operations by enabling your employees to manage and analyze processes and projects in real time using workflows, forms and dashboards. SeaTable is a flexible and customizable process management tool for process automation and business process optimization. This allows you to create transparency in your company.
           - q: As a process management tool, does SeaTable offer analysis functions?
-            a: 'Visualize your data: SeaTable makes it easy to create appealing dashboards for your data and process analysis. Use our modern [AI no-code solution]({{< relref "/" >}}) as process control software for your operations team and record important metrics such as throughput time, error rate or planned and actual costs for your analysis.'
+            a: 'Visualize your data: SeaTable makes it easy to create appealing dashboards for your data and process analysis. Use our modern AI no-code solution as process control software for your operations team and record important metrics such as throughput time, error rate or planned and actual costs for your analysis.'
           - q: Is SeaTable also suitable as process modeling software?
             a: "Streamline your processes: The business process management software SeaTable offers various integrated options to visualize your business processes and is also suitable as business process modeling software. Use the options already included in the free account, such as the whiteboard plugin or diagram plugins, to map your workflows transparently without having to use expensive process management tools or special process modeling software."
           - q: Does SeaTable offer support?
