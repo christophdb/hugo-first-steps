@@ -10,14 +10,14 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: 'Projektstrukturplan Vorlage | Erfolgreiche Projekte umsetzen'
+    title: 'Projektstrukturplanung Vorlage | Erfolgreiche Projekte umsetzen'
     description: 'Gliedern Sie Projekte in Phasen und Arbeitspakete, behalten Sie Abhängigkeiten im Blick und arbeiten Sie im Team mit flexiblen Projektstrukturplan Vorlagen in SeaTable.'
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – Ihre professionelle Projektstrukturplan Vorlage'
+      title: 'SeaTable – Ihre professionelle Projektstrukturplanung Vorlage'
       text: 'Strukturieren Sie Ihre Projekte mühelos in Phasen, Arbeitspakete und Aufgaben – alles zentral an einem Ort. Mit dieser Vorlage stellen Sie Verantwortlichkeiten, Deadlines und Abhängigkeiten klar dar, und fördern eine transparente Kommunikation im Team. Profitieren Sie von einer übersichtlichen, kollaborativen und flexibel anpassbaren Vorlage – starten Sie jetzt und optimieren Sie Ihre Projektplanung!'
       classes:
           - bg-white
@@ -74,9 +74,9 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Projektstrukturplan Vorlage online nutzen mit SeaTable'
+      title: 'Projektstrukturplanung Vorlage online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Projektstrukturplan Vorlage planen Sie Projekte von der Grobstruktur bis zur Einzelaufgabe, behalten Ressourcen im Blick und schaffen eine gemeinsame Grundlage für die Projektstrukturplanung im gesamten Team – mit Funktionen, die viele Teams sonst nur von Asana und ähnlichen [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) kennen, jedoch deutlich flexibler und datenbankbasiert.'
+      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Projektstrukturplanung Vorlage planen Sie Projekte von der Grobstruktur bis zur Einzelaufgabe, behalten Ressourcen im Blick und schaffen eine gemeinsame Grundlage für die Projektstrukturplanung im gesamten Team – mit Funktionen, die viele Teams sonst nur von Asana und ähnlichen [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) kennen, jedoch deutlich flexibler und datenbankbasiert.'
       items:
       - text: 'Stets aktuell: Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleiben Ihre Projektstrukturplan Vorlagen immer auf dem neuesten Stand – vom ersten Projektstrukturplan Beispiel bis zur laufenden Umsetzung.'
       - text: 'Zugriff von überall: Mit einer online geführten Projektstrukturplanung Vorlage haben Sie jederzeit Zugriff auf Ihren Projektstrukturplan – im Büro, im Homeoffice oder beim Kunden.'
