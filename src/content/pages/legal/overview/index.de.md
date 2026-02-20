@@ -41,6 +41,7 @@ sections:
           - icon: substack
             headline: EVB-IT
             text: Die EVB-IT regelt die elektronische Datenverarbeitung im öffentlichen Sektor und legt Mindestanforderungen an IT-Sicherheit sowie Datenschutz in der Auftragsverarbeitung fest.
+            link: pages/legal/evb-it
 
     - name: 'content-22'
       weight: 3
