@@ -344,7 +344,7 @@ Die von Ihnen zum Zwecke des Newsletterbezugs bei uns hinterlegten Daten werden 
 
 Nach Ihrer Austragung aus der Newsletterverteilerliste wird Ihre E-Mail-Adresse bei uns bzw. dem Newsletterdiensteanbieter ggf. in einer Blacklist gespeichert, um künftige Mailings zu verhindern. Die Daten aus der Blacklist werden nur für diesen Zweck verwendet und nicht mit anderen Daten zusammengeführt. Dies dient sowohl Ihrem Interesse als auch unserem Interesse an der Einhaltung der gesetzlichen Vorgaben beim Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO). Die Speicherung in der Blacklist ist zeitlich nicht befristet. Sie können der Speicherung widersprechen, sofern Ihre Interessen unser berechtigtes Interesse überwiegen.
 
-Wenn Sie keine Analyse durch Brevo wollen, müssen Sie den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. Des Weiteren können Sie den Newsletter auch direkt auf der Website abbestellen.
+Wenn Sie keine Analyse durch Brevo wollen, müssen Sie den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung.
 
 **Auftragsverarbeitung**  
 Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir mit Brevo einen Vertrag zur Auftragsverarbeitung abgeschlossen. Darüber hinaus ist Brevo vom TÜV Rheinland zertifiziert. Damit bestätigt der TÜV Rheinland als unabhängiger Dritter, dass Brevo ein Datenschutzmanagementsystem zum Schutz der Kundendaten etabliert.
