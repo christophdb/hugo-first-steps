@@ -28,7 +28,7 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: SeaTable est la solution idéale pour la gestion de vos projets.
+      title: SeaTable est la solution idéale pour la gestion de vos projets
       subtitle: Avantages de SeaTable
       text: 
       items:
@@ -37,11 +37,11 @@ sections:
         text: "SeaTable offre une interface intuitive, des modèles faciles à utiliser et une accessibilité immédiate. Développez des solutions sur mesure qui s'adaptent parfaitement à vos besoins."
       - icon: table
         headline: Kanban, Gantt et plus encore
-        text: Saisissez toutes les données dans des tableaux clairement structurés et créez en quelques clics des diagrammes de Gantt, des tableaux Kanban, des plans de structure de projet ou des tableaux de bord clairs et personnalisables.
+        text: Saisissez toutes les données dans des tableaux structurés et générez en quelques clics des diagrammes de Gantt, des tableaux Kanban, des structures de projet ou des tableaux de bord personnalisables.
 
       - icon: up-right-and-down-left-from-center
         headline: Collaboration en temps réel
-        text: Grâce à des fonctionnalités de collaboration complètes, vous pouvez assurer la transparence de vos projets. Avec la fonctionnalité de chat, les notifications automatiques et les modifications en temps réel, tout le monde est toujours à jour.
+        text: Créez de la transparence dans vos projets grâce à des fonctions de collaboration complètes. Avec le chat, les notifications automatisées et les modifications en temps réel, chacun reste informé.
       
       - icon: robot
         headline: Automatisation assistée par IA
@@ -49,11 +49,11 @@ sections:
 
       - icon: expand
         headline: Évolutif
-        text: Vos exigences augmentent ? SeaTable s'adapte à votre évolution. Adaptez votre outil de gestion de projet de manière flexible à votre projet. SeaTable Free est gratuit de manière permanente – vous ne passez à la version supérieure que lorsque cela est nécessaire.
+        text: Vos besoins augmentent ? SeaTable évolue avec vous. Adaptez votre outil de gestion de projet de manière flexible. SeaTable Free reste gratuit en permanence—vous ne passez à l'échelle que si nécessaire.
       
       - icon: shield
         headline: Conforme au RGPD
-        text: "La protection des données sensibles relatives aux projets est particulièrement importante. SeaTable propose l'authentification unique (SSO), des autorisations d'accès granulaires et héberge SeaTable Cloud et le serveur IA SeaTable exclusivement sur des serveurs européens situés en Allemagne."
+        text: "La protection des données sensibles est primordiale. SeaTable offre le SSO, des droits d'accès granulaires et héberge le cloud ainsi que le serveur IA exclusivement sur des serveurs européens en Allemagne."
         
     - name: content-12
       weight: 3
@@ -74,7 +74,7 @@ sections:
 
     - name: content-1
       weight: 9
-      title: SeaTable est flexible et convivial.
+      title: SeaTable est flexible et convivial
       subtitle: Outils de gestion de projet
       items:
       - headline: Une grande liberté de conception
@@ -184,7 +184,7 @@ sections:
 
     - name: banner-2
       weight: 96
-      title: SeaTable vous facilite la gestion de projets réussie.
+      title: SeaTable vous facilite la gestion de projets réussie
       buttons:
           - label: Inscrivez-vous dès maintenant et commencez
             link: pages/registration

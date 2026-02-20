@@ -28,32 +28,32 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: SeaTable é a solução ideal para a gestão do seu projeto.
+      title: SeaTable é a solução ideal para a gestão do seu projeto
       subtitle: Vantagens do SeaTable
       text: 
       items:
       - icon: edit
         headline: Flexível e intuitivo
-        text: O SeaTable oferece uma interface intuitiva, modelos fáceis de usar e acessibilidade imediata. Desenvolva soluções personalizadas que se adaptam exatamente às suas necessidades.
+        text: O SeaTable oferece uma interface intuitiva, modelos de fácil utilização e acessibilidade imediata. Desenvolva soluções personalizadas que se adaptam precisamente às suas necessidades empresariais.
       - icon: table
         headline: Kanban, Gantt e muito mais
-        text: Registe todos os dados em tabelas claramente estruturadas e crie, com apenas alguns cliques, diagramas de Gantt, quadros Kanban, planos de estrutura de projetos ou painéis informativos ilustrativos e personalizáveis.
+        text: Registe todos os dados em tabelas estruturadas e gere diagramas de Gantt, quadros Kanban, estruturas analíticas de projetos ou painéis visuais e personalizáveis com apenas alguns cliques.
 
       - icon: up-right-and-down-left-from-center
         headline: Colaboração em tempo real
-        text: Graças a funções de colaboração abrangentes, é possível criar transparência nos seus projetos. Com a função de chat, notificações automáticas e alterações em tempo real, todos estão sempre atualizados.
+        text: Garanta transparência nos seus projetos graças a funções de colaboração abrangentes. Com chat, notificações automatizadas e alterações em tempo real, todos os envolvidos mantêm-se sempre atualizados.
       
       - icon: robot
         headline: Automação baseada em IA
-        text: Utilize as automatizações integradas com suporte de IA para fluxos de trabalho simplificados e processamento inteligente de dados. Desta forma, reduzirá o trabalho manual. 
+        text: Utilize as automações integradas assistidas por IA para fluxos de trabalho ágeis e processamento inteligente de dados. Desta forma, reduzirá significativamente o esforço manual operacional.
 
       - icon: expand
         headline: Escalável
-        text: As suas necessidades estão a aumentar? O SeaTable cresce com você. Adapte a sua ferramenta de gestão de projetos de forma flexível ao seu projeto. O SeaTable Free é gratuito para sempre – só precisa de escalar quando necessário.
+        text: Os seus requisitos aumentam? O SeaTable cresce consigo. Adapte a sua ferramenta de gestão de projetos de forma flexível. O SeaTable Free é permanentemente gratuito—só escala quando necessário.
       
       - icon: shield
         headline: Em conformidade com o RGPD
-        text: A proteção de dados confidenciais de projetos é particularmente importante. O SeaTable oferece SSO, permissões de acesso granulares e hospeda o SeaTable Cloud e o servidor SeaTable AI exclusivamente em servidores europeus na Alemanha.
+        text: A proteção de dados sensíveis é fundamental. O SeaTable oferece SSO, permissões de acesso granulares e aloja a nuvem e o servidor de IA exclusivamente em servidores europeus na Alemanha.
         
     - name: content-12
       weight: 3
@@ -123,13 +123,13 @@ sections:
       description: 'O SeaTable oferece uma forma totalmente nova de organizar a gestão do seu projeto e utilizar [métodos ágeis de projeto]({{< relref "posts/20250318-agiles-projektmanagement" >}}): utilize um kit de software e crie o seu plano de projeto, o seu planeamento de marcos ou a sua gestão de recursos de acordo com as suas necessidades.'
       items:
       - headline: Estabelecer objetivos
-        text: Defina todos os objetivos do projeto com antecedência e documente-os de forma visível para todos, utilizando ferramentas de gestão de projetos como o SeaTable. Para uma apresentação clara, um plano de estrutura do projeto é uma boa opção.
+        text: Clarifique os objetivos do projeto antecipadamente e documente-os visivelmente para todos usando ferramentas como o SeaTable. Uma estrutura analítica do projeto é ideal para uma apresentação clara.
         icon: circle-question
       - headline: Comunicação clara
-        text: Comunique-se de forma transparente com os participantes do projeto e as partes interessadas para evitar mal-entendidos. No SeaTable, é possível conceder acesso restrito a pessoas externas, garantindo uma gestão eficiente das partes interessadas.
+        text: Comunique de forma transparente com os participantes e partes interessadas para evitar mal-entendidos. No SeaTable, pode conceder acesso limitado a externos, garantindo uma gestão eficiente.
         icon: comment
       - headline: Horários flexíveis
-        text: Opte por ferramentas de gestão de projetos personalizáveis que possam refletir métodos ágeis. Com o SeaTable, pode ajustar o seu cronograma de forma flexível, responder a escassez de recursos, redistribuir tarefas e ainda assim manter o foco no objetivo.
+        text: Aposte em ferramentas de gestão de projetos adaptáveis que suportem métodos ágeis. Com o SeaTable, ajuste o seu cronograma flexivelmente, reaja à escassez de recursos e redistribua tarefas.
         icon: fire  
         
     - name: content-25
@@ -184,7 +184,7 @@ sections:
 
     - name: banner-2
       weight: 96
-      title: O SeaTable facilita o seu caminho para uma gestão de projetos bem-sucedida.
+      title: O SeaTable facilita o seu caminho para uma gestão de projetos bem-sucedida
       buttons:
           - label: Registe-se agora e comece
             link: pages/registration
