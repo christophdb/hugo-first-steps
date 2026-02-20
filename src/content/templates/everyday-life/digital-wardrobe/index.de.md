@@ -9,7 +9,6 @@ seo:
     title: 'Der Digitale Kleiderschrank: Ihr Mode-Manager'
     description: 'Ihr Kleiderschrank neu erfunden: Mit unserer Kleiderschrank App haben Sie Ihre Lieblingsoutfits immer im Blick. Erfahren Sie mehr!'
 template: '8c47a8b1db804094a5ff'
-draft: true
 
 type: pages
 sections:

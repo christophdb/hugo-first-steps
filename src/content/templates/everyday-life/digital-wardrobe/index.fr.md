@@ -9,7 +9,6 @@ seo:
     title: 'La garde-robe numérique : votre gestionnaire de mode'
     description: 'Réinventez votre garde-robe : grâce à notre application, vous avez toujours vos tenues préférées à portée de main. Découvrez-en davantage.'
 template: '8c47a8b1db804094a5ff'
-draft: true
 
 type: pages
 sections:
