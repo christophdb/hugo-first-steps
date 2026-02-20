@@ -2,7 +2,7 @@
 title: 'No-code platform | Individual solutions without programming'
 description: 'The flexible no-code low-code platform. Create individual applications for your business processes without any programming knowledge.'
 seo:
-    title: 'No-Code Platform | Custom Solutions Without Coding'
+    title: 'AI-supported No-Code Platform | Custom Solutions Without Coding'
     description: 'The flexible No-Code and Low-Code platform. Create custom applications for your business processes without any programming skills.'
 aliases:
     - '/en/home/'
@@ -12,8 +12,8 @@ sections:
   weight: 1
   h2_left: "No code,"
   h2_right: "no limits"
-  h1: "No-code platform: Organize data and create apps with SeaTable - without a line of code!" 
-  description: "With SeaTable, you can design individual databases,<br>workflows and apps in no time at all - without any programming knowledge.<br>Our no-code solution combines the intuitive operation of tables with the power of modern database and app builder functions and also impresses as a flexible low-code platform for all users."
+  h1: "No-code platform meets AI: Organize data and create apps with SeaTable - without a line of code!" 
+  description: "With SeaTable, you can design individual databases,<br>workflows and apps in no time at all - without any programming knowledge.<br>Our AI no-code solution combines the intuitive operation of tables with the power of modern database and app builder functions and also impresses as a flexible low-code platform for all users."
   buttons:
     - label: Get started now
       link: "pages/registration"
@@ -29,8 +29,8 @@ sections:
 - name: content-4
   weight: 2
   subtitle: 'What is SeaTable?'
-  title: 'No-code platform: As flexible as Excel with the power of a database.'
-  text: 'SeaTable can handle all the information from you and your team: Images, documents, e-mails, checkboxes, selection lists, links and much more - manage everything conveniently and without programming knowledge directly in the web browser.'
+  title: 'AI No-code platform: As flexible as Excel with the power of a database.'
+  text: 'SeaTable can handle all the information from you and your team: Images, documents, emails, checkboxes, selection lists, links, AI-supported workflows, and much more—manage everything conveniently and without any programming knowledge directly in your web browser.'
   buttons:
     - label: 'Try it out now'
       link: 'pages/registration'
@@ -39,7 +39,7 @@ sections:
   items:
       - icon: 'chart-simple'
         headline: 'Marketing'
-        text: 'Plan campaigns, manage leads and analyze results with SeaTable. Automate workflows and optimize your marketing strategy.'
+        text: 'Plan campaigns, manage leads and analyze results with SeaTable. Automate workflows with AI capabilities and optimize your marketing strategy.'
         link: '/pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
@@ -69,9 +69,9 @@ sections:
 
 - name: "content-8"
   weight: 3
-  title: "Maximum overview and flexibility with the SeaTable no-code platform"
+  title: "Maximum overview and flexibility with the SeaTable no-code platform with AI"
   subtitle: "Visualization of the data"
-  description: "Visualize and manage all types of data - images, documents, emails, checkboxes, picklists, shortcuts and more - directly in the web browser. Our no-code platform offers versatile visualization options and enables collaborative work in real time so that your team always has a complete overview and works together efficiently."
+  description: "Visualize and manage all types of data - images, documents, emails, checkboxes, picklists, shortcuts and more - directly in the web browser. Our no-code platform offers versatile visualization options and AI features for citizen developers. SeaTable enables real-time collaboration, so your team always has a complete overview and can work together efficiently."
   items:
   - text: "Base Editor"
     image: "/images/template-content-marketing-strategie.png"
@@ -132,7 +132,7 @@ sections:
 - name: content-2
   weight: 6
   subtitle: 'Why SeaTable?'
-  title: 'Discover the advantages of the SeaTable no-code platform
+  title: 'Discover the advantages of the SeaTable AI no-code platform
   description:'
   items:
   - headline: "No code, full flexibility"
@@ -179,9 +179,9 @@ sections:
 - name: content-5
   weight: 8
   items:
-  - title: Automate processes
+  - title: Automate processes with AI
     subtitle: Save valuable time
-    text: "Our no-code platform allows you to automate recurring tasks, create workflows and configure notifications.
+    text: "Our no-code platform enables you to automate recurring tasks with AI support, create workflows, and configure notifications. 
       This allows you to focus on the essentials and increase the efficiency of your company."
 
   - subtitle: Without limits
@@ -195,16 +195,16 @@ sections:
 
 - name: banner-1
   weight: 9
-  title: Discover the advantages of the SeaTable no-code platform
+  title: Discover the advantages of the SeaTable AI no-code platform
 
 - name: "content-9"
   weight: 10
-  title: Advantages of the SeaTable No-Code solution
+  title: Advantages of the SeaTable AI no-code solution
   subtitle: Innovation
-  description: Change the way your company works with our innovative no-code/low-code platform.
+  description: Change the way your company works with our innovative AI no-code/low-code platform.
   items:
   - headline: "Flexibility for all business areas"
-    text: "Our solution adapts seamlessly to a wide range of use cases. Whether you need a CRM solution, a project management tool, a marketing tool, a human resources management tool, an IT service management tool or a specific application for your business, SeaTable offers you the customization you need to create individual solutions without programming knowledge.<br/><br/>
+    text: "Our solution adapts seamlessly to a wide range of use cases. Whether you need a CRM solution, a project management tool, a marketing tool, a human resources management tool, an IT service management tool or a specific application for your business, SeaTable offers you the adaptability you need to create AI-powered solutions without any programming knowledge.<br/><br/>
     The SeaTable no-code platform enables you to develop customized digital solutions that meet your specific business needs."
     icon: toggle-off
   - headline: Efficient business processes
@@ -217,17 +217,17 @@ sections:
     text: "Use our APIs and SDKs for easy integration. SeaTable integrates seamlessly with a variety of third-party tools so you can continue to use your existing systems and processes.<br/><br/>Connect your applications and synchronize data in real time to create an efficient and cohesive IT landscape. SeaTable's no-code and low-code platform supports integration with CRM systems, marketing tools and many other business applications."
     icon: leaf
   - headline: Ease of use
-    text: "Thanks to the intuitive interface and WYSIWYG app builder, you can create applications without programming knowledge. SeaTable makes it easy to create complex databases and apps tailored to your exact needs.<br/><br/>Drag-and-drop functionality and pre-built templates make it quick and easy to get started. SeaTable's no-code platform is so user-friendly that anyone, regardless of technical ability, can create their own apps."
+    text: "Thanks to the intuitive interface and WYSIWYG app builder, you can create applications without programming knowledge. SeaTable makes it easy to create complex databases and apps tailored to your exact needs.<br/><br/>Drag-and-drop functionality and pre-built templates make it quick and easy to get started. SeaTable's AI no-code platform is so user-friendly that anyone, regardless of technical ability, can create their own apps."
     icon: signature
   - headline: GDPR compliance
-    text: "Your data is hosted exclusively in the EU to ensure the highest data protection standards.<br/><br/>SeaTable offers robust security features and ensures that your data is stored securely and compliant with the latest data protection guidelines. Our no-code platform guarantees that your data is protected in accordance with GDPR requirements."
+    text: "Your data is hosted exclusively in the EU to ensure the highest data protection standards.<br/><br/>SeaTable offers robust security features and ensures that your data is stored securely and in compliance with the latest data protection guidelines. Our AI no-code platform guarantees data protection-compliant AI integrations for businesses with our self-hosted AI server. Your data is protected at all times in accordance with GDPR requirements."
     icon: shield-halved
 
 - name: "content-10"
   weight: 11
   title: Integrate SeaTable with your world
   subtitle: "Integration"
-  description: "Connect SeaTable with all the apps you already use and use SeaTable as a hub to organize your life.<br/><br/>We offer apps for all leading integration platforms, so you don't have to write a single row code."
+  description: "Connect SeaTable with all the apps you already use and use SeaTable as an AI-powered hub to organize your life.< your life.<br/><br/>We offer apps for all leading integration platforms, so you don't have to write a single row code."
   items:
   - image: "/images/logos/zapier.svg"
   - image: "/images/logos/make.svg"
@@ -254,17 +254,17 @@ sections:
   items:
   - title: Airtable alternative
     subtitle: Teamwork, GDPR-compliant
-    text: "As an Airtable alternative, SeaTable offers fully-fledged no-code database functions, app builder, relational tables, cloud and on-premises operation and the whole thing is hosted in Germany in compliance with the GDPR - ideal for structured, cross-team workflows for companies."
+    text: "As an Airtable alternative, SeaTable offers fully-fledged no-code database functions, AI-supported automation, app builder, relational tables, cloud and on-premises operation and the whole thing is hosted in Germany in compliance with the GDPR - ideal for structured, cross-team workflows for companies."
     buttons:
     - label: "Find out more about SeaTable as an Airtable alternative"
       link: "/pages/airtable-alternative"
   - subtitle: Task management, project planning
     title: Asana alternative
-    text: "Task and project management with Asana? SeaTable as a flexible Asana alternative, combines task management, project planning, resource overview, milestone and time management, dashboards and file management - ideal as a scalable alternative to Asana."
+    text: "Task and project management with Asana? SeaTable as a flexible Asana alternative, combines task management, project planning, resource overview, milestone and time management, dashboards and file management - ideal as a scalable alternative to Asana with AI functions."
     buttons:
     - label: "Learn more about SeaTable as an Asana alternative"
       link: "/pages/asana-alternative"
-  - subtitle: Automation, collaboration
+  - subtitle: AI-automation, collaboration
     title: Excel alternative & Microsoft Access alternative
     text: "From classic lists to complex data models: SeaTable replaces Excel and Microsoft Access databases, picking up where both programs reach their limits and enabling modern, collaborative tables with added structure, security and automation."
     buttons:
@@ -272,19 +272,19 @@ sections:
       link: "/pages/excel-alternative"
   - subtitle: Flexibility, data protection
     title: Personio alternative
-    text: "Digital HR processes, smart workflows and data security: SeaTable enables companies to manage their personnel and sensitive data efficiently, flexibly and in compliance with GDPR. Statistics and individualized dashboards are on a par with Personio's performance management and can also be flexibly adapted."
+    text: "Digital HR processes, smart AI-supported workflows and data security: SeaTable enables companies to manage their personnel and sensitive data efficiently, flexibly and in compliance with GDPR. Statistics and individualized dashboards are on a par with Personio's performance management and can also be flexibly adapted."
     buttons:
     - label: "Learn more about SeaTable as a Personio alternative"
       link: "/pages/industry-solutions/hr"
   - subtitle: Sales processes, scalability
     title: HubSpot alternative
-    text: "The most flexible of the CRM alternatives: SeaTable brings all relevant sales data into one platform.  You bring your processes and your teams into the tool and do not have to adapt to predefined structures - the most flexible and scalable solution among the HubSpot alternatives."
+    text: "The most flexible of all CRM alternatives: SeaTable brings all relevant sales data together in one platform with process automation and data analysis using AI. You can integrate your processes and teams into the tool without having to adapt to predefined structures—the most flexible and scalable solution among HubSpot alternatives."
     buttons:
     - label: "Learn more about SeaTable as a HubSpot alternative"
       link: "/pages/industry-solutions/kundenmanagement"
   - subtitle: Knowledge management, relational data
     title: Notion alternative
-    text: "SeaTable combines knowledge management, structured data and collaborative tools - with a no-code database, relational structures and app builder - the GDPR-compliant solution among the Notion alternatives for complex business requirements."
+    text: "SeaTable combines knowledge management, structured data, and collaborative tools with a no-code database, AI-powered automations, relational structures, and app builders—the GDPR-compliant solution among Notion alternatives for complex business requirements."
     buttons:
     - label: "Learn more about SeaTable as a Notion alternative"
       link: "/posts/wissensmanagement"
@@ -306,7 +306,7 @@ sections:
   - q: "Is it free to use the no-code / low-code platform?"
     a: "Yes, you can use our basic functions free of charge and upgrade to advanced functions later."
   - q: "What is SeaTable's pricing model?"
-    a: "SeaTable offers a flexible pricing model that adapts to your company's needs and budget. Start with our free trial and discover the benefits of our no-code platform without risk. Once you're convinced, choose the plan that best suits your needs. The SeaTable no-code platform offers you a cost-effective solution to digitize your business processes and increase your efficiency."
+    a: "SeaTable offers a flexible pricing model that adapts to your company's needs and budget. Start with our free trial and discover the benefits of our no-code platform without risk. Once you're convinced, choose the plan that best suits your needs. The SeaTable AI no-code platform offers you a cost-effective solution to digitize your business processes and increase your efficiency."
   - q: "Can you host SeaTable on your own server? What deployment options are available?"
     a: "The choice is yours: use SeaTable in the cloud or run it on your own server. Our flexible deployment option allows you to choose the solution that best suits your requirements and security policies. Benefit from the scalability and convenience of the cloud or the control and security of an on-premises installation. SeaTable's no-code and low-code platforms give you the flexibility to choose the deployment option that's right for your business."
   - q: "What are the key features of low code / no code solutions?"

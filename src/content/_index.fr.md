@@ -1,8 +1,8 @@
 ---
-title: 'Plate-forme No-Code | Solutions individuelles sans programmation'
+title: 'Plateforme No-Code | Solutions individuelles sans programmation'
 description: 'La plateforme flexible No-Code Low-Code. Créez des applications personnalisées pour vos processus commerciaux, sans aucune connaissance en programmation.'
 seo:
-    title: 'Plateforme No-Code | Solutions sur mesure sans programmation'
+    title: 'lateforme No-Code assistée par IA | Solutions sur mesure sans programmation'
     description: 'La plateforme No-Code et Low-Code flexible. Créez des applications personnalisées pour vos processus métier sans compétences en programmation.'
 
 sections:
@@ -10,8 +10,8 @@ sections:
   weight: 1
   h2_left: "No code,"
   h2_right: "no limits"
-  h1: "Plate-forme No-Code : Organisez vos données et créez des applications avec SeaTable, sans une ligne de code !"
-  description: "SeaTable vous permet de créer des bases de données, des workflows et des applications personnalisés en un clin d'œil, sans aucune connaissance en programmation.<br>Notre solution sans code associe l'utilisation intuitive des feuilles de calcul à la puissance des fonctions modernes de base de données et de construction d'applications, tout en offrant une plate-forme flexible à faible code pour tous les utilisateurs."
+  h1: "Plateforme No-Code l'IA : Organisez vos données et créez des applications avec SeaTable, sans une ligne de code !"
+  description: "SeaTable vous permet de créer des bases de données, des workflows et des applications personnalisés en un clin d'œil, sans aucune connaissance en programmation.<br>Notre solution no-code basée sur l'IA combine l'utilisation intuitive des feuilles de calcul à la puissance des fonctions modernes de base de données et de construction d'applications, tout en offrant une plateforme flexible à faible code pour tous les utilisateurs."
   buttons:
     - label: "Commencer maintenant"
       link: "pages/registration"
@@ -25,8 +25,8 @@ sections:
 - name: content-4
   weight: 2
   subtitle: "Qu'est-ce que SeaTable ?"
-  title: "Plate-forme sans code : aussi flexible qu'Excel avec la puissance d'une base de données."
-  text: "SeaTable peut gérer toutes les informations de vous et de votre équipe : images, documents, e-mails, cases à cocher, listes de sélection, raccourcis et bien d'autres - tout gérer confortablement et sans connaissances en programmation directement dans le navigateur web."
+  title: "Plateforme sans code IA: aussi flexible qu'Excel avec la puissance d'une base de données."
+  text: "SeaTable gère toutes les informations de votre équipe : images, documents, e-mails, cases à cocher, listes de sélection, liens, workflows assistés par IA, et bien plus encore. Gérez tout cela facilement et sans coder, directement dans votre navigateur web."
   buttons:
       - label: 'Essayer maintenant'
         link: 'pages/registration'
@@ -35,7 +35,7 @@ sections:
   items:
       - icon: 'chart-simple'
         headline: 'Marketing'
-        text: "Planifiez des campagnes, gérez des leads et analysez les résultats avec SeaTable. Automatisez les flux de travail et optimisez votre stratégie marketing."
+        text: 'Utilisez les diagrammes de Gantt et les tableaux Kanban pour gérer vos projets efficacement. Suivez l’avancement et coordonnez vos équipes.'
         link: '/pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
@@ -65,9 +65,9 @@ sections:
 
 - name: "content-8"
   weight: 3
-  title: "Une visibilité et une flexibilité maximales avec la plateforme SeaTable No-Code"
+  title: "Vision globale et flexibilité maximale avec la plateforme no-code SeaTable et l'IA"
   subtitle: "Visualisation des données"
-  description: "Visualisez et gérez tous les types de données - images, documents, e-mails, cases à cocher, listes de sélection, raccourcis et plus encore - directement dans le navigateur web. Notre plate-forme No-Code offre des options de visualisation polyvalentes et permet un travail collaboratif en temps réel, de sorte que votre équipe dispose toujours d'une vue d'ensemble complète et travaille efficacement ensemble."
+  description: "VVisualisez et gérez tous types de données directement dans votre navigateur. Notre plateforme offre des options de visualisation polyvalentes et des fonctionnalités d'IA pour les **citizen developers**. SeaTable permet une collaboration en temps réel pour une efficacité optimale."
   items:
   - text: "Éditeur de base"
     image: "/images/template-content-marketing-strategie.png"
@@ -129,7 +129,7 @@ sections:
 - name: content-2
   weight: 6
   subtitle: Pourquoi SeaTable ?
-  title: Découvrez les avantages de la plateforme no-code SeaTable
+  title: Découvrez les avantages de la plateforme no-code SeaTable avec IA
   description: 
   items:
   - headline: "Pas de code, flexibilité totale"
@@ -152,7 +152,7 @@ sections:
   weight: 7
   title: "Lancez votre prochain projet d'équipe avec nos modèles No-Code"
   subtitle: Commencez dès maintenant
-  description: 'La plate-forme No-Code de SeaTable vous permet de lancer de nouveaux projets d équipe de manière particulièrement efficace : importez des [modèles no-code prédéfinis]({{< relref "templates/_index.de.md" >}}) et personnalisables directement dans votre compte SeaTable en un seul clic. Vous mettez ainsi immédiatement en place des processus structurés, gagnez un temps précieux lors de la numérisation et bénéficiez de solutions de bonnes pratiques flexibles pour chaque cas d utilisation.'
+  description: 'La plateforme No-Code de SeaTable vous permet de lancer de nouveaux projets d équipe de manière particulièrement efficace : importez des [modèles no-code prédéfinis]({{< relref "templates/_index.de.md" >}}) et personnalisables directement dans votre compte SeaTable en un seul clic. Vous mettez ainsi immédiatement en place des processus structurés, gagnez un temps précieux lors de la numérisation et bénéficiez de solutions de bonnes pratiques flexibles pour chaque cas d utilisation.'
   items:
   - headline: "Suivi du temps de travail"
     text: Ressources humaines
@@ -175,9 +175,9 @@ sections:
 - name: content-5
   weight: 8
   items:
-  - title: Automatisez les processus
+  - title: Automatisez les processus avec l'IA
     subtitle: Gagnez un temps précieux
-    text: "Notre plateforme no-code vous permet d'automatiser les tâches répétitives, de créer des workflows et de configurer des notifications. Vous pouvez ainsi vous concentrer sur l'essentiel et augmenter l'efficacité de votre entreprise."
+    text: "Notre plateforme no-code vous permet d'automatiser les tâches récurrentes grâce à l'IA, de créer des workflows et de configurer des notifications. Vous pouvez ainsi vous concentrer sur l'essentiel et augmenter l'efficacité de votre entreprise."
 
   - subtitle: Sans limites
     title: La base de données qui prend le relais là où Excel atteint ses limites
@@ -190,11 +190,11 @@ sections:
 
 - name: banner-1
   weight: 9
-  title: Découvrez les avantages de la plateforme no-code SeaTable
+  title: Découvrez les avantages de la plateforme no-code SeaTable avec IA
 
 - name: "content-9"
   weight: 10
-  title: Avantages de la solution No-Code SeaTable
+  title: Avantages de la solution No-Code SeaTable avec IA
   subtitle: Innovation
   description: Transformez le fonctionnement de votre entreprise avec notre plateforme innovante no-code/low-code.
   items:
