@@ -39,7 +39,7 @@ sections:
           text: 'Erfassen Sie neue Kleidungsstücke ganz einfach mobil über ein Eingabe-Formular. So bleibt Ihr Kleiderschrank immer aktuell und kein Teil wird vergessen.'
         - icon: 'eye'
           headline: 'Visualisierungen'
-          text: 'Mit SeaTables Galerie-Ansicht und Image-Spalten haben Sie Ihre Kleidung stets vor Augen und können Outfits zusammenstellen und kombinieren.  '
+          text: 'Mit SeaTables Galerie-Ansicht und Image-Spalten haben Sie Ihre Kleidung stets vor Augen und können Outfits zusammenstellen und kombinieren. '
         - icon: 'robot'
           headline: 'KI-gestütze Automatisierungen'
           text: 'SeaTables integrierte KI-gestützte Automatisierungen ermöglichen smarte Datenverarbeitungen und Style-Tipps – DSGVO-konform dank eigenem KI-Server.'
@@ -57,14 +57,13 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Kleiderschrank-App und Outfit-Planer von SeaTable'
       subtitle: 'Flexibler als andere Kleiderschrank-Apps'
-      description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen organisierten Kleiderschrank und mehr Transparenz und Überblick im Alltag.'
+      description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen organisierten Kleiderschrank und **mehr Transparenz und Überblick im Alltag**.'
       items:
       - text: '**Stets aktuell**: Neue Teile oder Ideen können jedrzeit eingetragen werden und sind immer aktuell.'
       - text: '**Zugriff von überall**: Mit der Cloud-Lösung haben Sie Ihren gesamten Kleiderschrank immer dabei.'
       - text: '**Smarter shoppen**: Vermeiden Sie Fehlkäufe, indem Sie im Laden direkt prüfen, was Sie schon besitzen und was dazu passt.'
       - text: '**Visuelle Inspiration**: Mit der Galerie-Ansicht und dem Kalender planen Sie Ihre Looks anschaulich und stressfrei im Voraus.'
-      <!-- n fehlt bei Teilen, doppelte Leerstelle nach Kleiderschrank -->
-      - text: '**Kollaborativ nutzen**: Teile Sie sich einen digitalen Kleiderschrank  als Familie oder geben Sie Ihre Wishlist für Freunde frei.' 
+      - text: '**Kollaborativ nutzen**: Teilen Sie sich einen digitalen Kleiderschrank  als Familie oder geben Sie Ihre Wishlist für Freunde frei.' 
       image_position: [left]
       image: '/images/template_page_digitalerkleiderschrank_01.png'
       image_alt: 'Digitaler Kleiderschrank App in Tabellenansicht'
@@ -76,7 +75,7 @@ sections:
        - bg-gray-100
       title: 'Digitaler Kleiderschrank für Ordnung und Stil'
       subtitle: 'Jederzeit verfügbar'
-      description: 'SeaTable ist eine moderne KI No-Code Datenbank mit App Builder und bietet alle Funktionen, die Sie für eine digitale Garderobenverwaltung benötigen. So bringen Sie Struktur in Ihre Outfits.'
+      description: 'SeaTable ist eine moderne KI No-Code Datenbank mit App Builder und bietet alle Funktionen, die Sie für eine **digitale Garderobenverwaltung** benötigen. So bringen Sie Struktur in Ihre Outfits.'
       box-position: [right!]
       items:
       - headline: Bewusster Konsum
@@ -90,16 +89,15 @@ sections:
       subtitle: 'Kleiderschrank digitalisieren'
       items:
       - headline: 'Kleiderschrank mit Galerie'
-      <!-- Dopplung: entweder mit zusätzlichen oder mit relevanten -->
-        text: 'Erfassen Sie hier alle Ihre Kleidungsstücke mit zusätzlichen mit relevanten Details wie Kategorie, Größe und Material sowie Fotos. Die Galerie-Ansicht verwandelt Ihre Sammlung in einen digitalen Showroom, mit dem Sie Outfits kombinieren können.'
+        text: 'Erfassen Sie hier alle Ihre Kleidungsstücke mit relevanten Details wie Kategorie, Größe und Material sowie Fotos. Die Galerie-Ansicht verwandelt Ihre Sammlung in einen **digitalen Showroom**, mit dem Sie Outfits kombinieren können.'
         image: '/images/template_page_digitalerkleiderschrank_02.png'
         image_alt: 'Kostenlose App für Kleiderschrank und Outfit-Planung mit Galerie-Ansicht.'
       - headline: 'Outfit-Planer'
-        text: 'Stellen Sie aus Ihren Kleidungsstücken komplette Outfits für verschiedene Anlässe zusammen und erfassen Sie diese übersichtlich. Die strukturierte Planung spart Ihnen im Alltag Zeit und garantiert eine abwechslungsreiche Nutzung Ihrer Garderobe'
+        text: 'Stellen Sie aus Ihren Kleidungsstücken komplette **Outfits für verschiedene Anlässe** zusammen und erfassen Sie diese übersichtlich. Die strukturierte Planung spart Ihnen im Alltag Zeit und garantiert eine abwechslungsreiche Nutzung Ihrer Garderobe'
         image: '/images/template_page_digitalerkleiderschrank_04.png'
         image_alt: 'Übersichtliche Darstellung verschiedener Outfits und Kombinationen in der Kleiderschrank App.'
       - headline: 'Wunschliste anlegen und teilen'
-        text: 'Sammeln und priorisieren Sie Ihre Kleidungs-Wünsche übersichtlich an einem Ort, anstatt sie nur im Gedächtnis zu behalten. Erfüllte Wünsche lassen sich direkt markieren oder die gesamte Liste bequem mit anderen teilen.'
+        text: '**Sammeln und priorisieren Sie Ihre Kleidungs-Wünsche** übersichtlich an einem Ort, anstatt sie nur im Gedächtnis zu behalten. Erfüllte Wünsche lassen sich direkt markieren oder die gesamte Liste bequem mit anderen teilen.'
         image: '/images/template_page_digitalerkleiderschrank_05.png'
         image_alt: 'Kleiderschrank App mit Wunschlist für Freunde und Verwandte.'
       - headline: 'Übersichtliche Statistiken'
@@ -119,16 +117,13 @@ sections:
       weight: 16
       title: 'Ihr digitaler Kleiderschrank mit KI-Funktionen'
       subtitle: 'Smarter Alltagshelfer'
-      <!-- Überflüssige Leerstelle vor dem Punkt -->
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) . Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – DSGVO-konform auf deutschen Servern.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
-      <!-- zweimal kurz hintereinander und bei "und Tragekomfort und" -->
         text: 'Erfassen Sie Notizen zu Anlass, Stimmung und Tragekomfort und generieren Sie automatisch eine kurze Style-Headline zu jedem Outfit. In der Kalender-Ansicht haben Sie dann einen prägnanten Überblick über den Look, ohne den kompletten Datensatz lesen zu müssen.'
         icon: circle-info
       - headline: 'Automatische Klassifizierung mit Classify'
-      <!-- passend 3x kurz hintereinander -->
-        text: 'Sortieren Sie Ihre Kleidung automatisch in passende Kategorien, z. B. die passende Saison, in passende Anlässe oder Regen-/Wetterfestigkeit. Mit der KI-Funktion "Classify" sparen Sie manuellen Aufwand und erleichtern sich späteres Filtern und Gruppieren.'
+        text: 'Sortieren Sie Ihre Kleidung automatisch in Kategorien, z. B. die passende Saison, in besondere Anlässe oder Regen-/Wetterfestigkeit. Mit der KI-Funktion "Classify" sparen Sie manuellen Aufwand und erleichtern sich späteres Filtern und Gruppieren.'
         icon: table
       - headline: 'Automatische Datenextraktion mit Extract'
         text: 'Kopieren Sie ganze Produktbeschreibungen aus Online-Shops einfach in Ihre Wishlist und extrahieren Sie gezielt Informationen zu Marke, Preis oder Material in die entsprechenden Spalten. So bleibt Ihre Wunschliste sauber gepflegt, ohne dass Sie alles manuell eingeben müssen.'
@@ -151,7 +146,7 @@ sections:
       title: 'Ihre persönliche Kleiderschrank-App'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie im Handumdrehen Ihre ganz persönliche App für Kleiderschrank, Outfit-Planung und Kleider-Wunschliste. Erstellen Sie eine visuelle Galerie aller Kleidungsstücke und Outfit-Kombinationen und nutzen Sie Statistik-Dashboards um Ihren Kleiderschrank nach Material, Anlass oder Kleidungsart auszuwerten. Über ein Formular erfassen Sie neue Teile ganz einfach von überall. Ein übersichtliches Design und strukturierte Detailansichten bieten zusätzlichen Komfort und volle Kontrolle über Ihre Garderobe.'
+      - text: 'Mit SeaTables **integriertem No-Code App Builder** erstellen Sie im Handumdrehen Ihre ganz persönliche App für Kleiderschrank, **Outfit-Planung** und Kleider-Wunschliste. Erstellen Sie eine visuelle Galerie aller Kleidungsstücke und Outfit-Kombinationen und nutzen Sie Statistik-Dashboards um Ihren Kleiderschrank nach Material, Anlass oder Kleidungsart auszuwerten. Über ein Formular erfassen Sie neue Teile ganz einfach von überall. Ein **übersichtliches Design und strukturierte Detailansichten** bieten zusätzlichen Komfort und volle Kontrolle über Ihre Garderobe.'
       image: '/images/template_page_digitalerkleiderschrank_06.png'
       image_alt: 'Individuelle Kleiderschrank App mit SeaTable No-Code App Builder.'
 
@@ -167,10 +162,9 @@ sections:
       - q: "Kann ich meinen digitalen Kleiderschrank mit mehreren Personen nutzen?"
         a: 'Ja, Sie können unsere Vorlage für einen Online-Kleiderschrank auch für mehrere Personen anlegen oder freigeben. Wenn Sie SeaTable in der Free-Subscription nutzen, können Sie bis zu 24 weitere Nutzer einladen, oder alternativ einen Freigabe-Link für externe Nutzer erstellen, mit dem diese auf Ihr App-Frontend zugreifen können.'  
       - q: "Welche KI-Funktionen unterstützt die Kleiderschrank-App?"
-      <!-- ab einem statt ab einen; Text sollte im Plural stehen und statt Kleidung vielleicht Kleidungsstücke, damit die Aufzählung konsistent ist -->
-        a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einen Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Text aus Bildern extrahieren, Kleidung kategorisieren oder Outfitvorschläge erzeugen'
+        a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einem Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Texte aus Bildern extrahieren, Kleidungsstücke kategorisieren oder Outfitvorschläge erzeugen'
       - q: "Kann ich meinen digitalen Kleiderschrank mit anderen Vorlagen verbinden?"
-        a: 'Absolut, Sie können Ihre Vorlage mit weiteren passenden SeaTable-Vorlagen wie z. B. dem [Haushaltsbuch]){{< relref "templates/finance/budget-book" >}} oder dem [Urlaubsplaner]({{< relref "templates/events/travel-planner" >}}) kombinieren oder über [Integrationen]({{< relref "pages/integrations" >}}) mit anderen genutzten Tools verknüpfen. '
+        a: 'Absolut, Sie können Ihre Vorlage mit weiteren passenden SeaTable-Vorlagen wie z. B. dem [Haushaltsbuch]({{< relref "templates/finance/budget-book" >}}) oder dem [Urlaubsplaner]({{< relref "templates/events/travel-planner" >}}) kombinieren oder über [Integrationen]({{< relref "pages/integrations" >}}) mit anderen genutzten Tools verknüpfen. '
       - q: "Kann ich auch Fotos von Outfits und Kombinationen speichern?"
         a: 'Ja, Sie können Fotos, Videos und andere Dateien speichern und mit Ihren gespeicherten Kleidungsstücken und Outfits verknüpfen.'
       - q: 'Ist die KI-Nutzung bei SeaTable DSGVO-konform?'
