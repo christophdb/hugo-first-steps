@@ -41,6 +41,7 @@ sections:
           - icon: substack
             headline: EVB-IT
             text: The EVB-IT regulates electronic data processing in the public sector and sets minimum requirements for IT security and data protection in data processing agreements.
+            link: pages/legal/evb-it
 
     - name: 'content-22'
       weight: 3
