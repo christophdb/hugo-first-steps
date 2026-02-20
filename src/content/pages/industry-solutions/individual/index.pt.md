@@ -33,22 +33,22 @@ sections:
       items:
           - icon: edit
             headline: Flexível e intuitivo
-            text: Com o SeaTable, pode criar fluxos de trabalho que se adaptam exatamente às necessidades da sua empresa. 
+            text: Com o SeaTable, desenhe fluxos de trabalho que se adaptam precisamente aos requisitos específicos da sua empresa.
           - icon: table
             headline: Design visual
-            text: A plataforma intuitiva e no-code permite que você crie processos através de arrastar e soltar.
+            text: A plataforma No-Code de fácil utilização permite-lhe desenhar processos simplesmente através da função arrastar e soltar.
           - icon: shield
             headline: Em conformidade com o RGPD
-            text: O SeaTable Cloud e o nosso servidor SeaTable AI são hospedados exclusivamente em servidores europeus certificados na Alemanha.  
+            text: A SeaTable Cloud e o nosso servidor de IA são alojados exclusivamente em servidores europeus certificados na Alemanha.  
           - icon: expand
             headline: Escalável
-            text: O SeaTable adapta-se a si e às suas necessidades crescentes. Ideal para digitalizar fluxos de trabalho.    
+            text: O SeaTable escala consigo e com os seus crescentes requisitos. É ideal para digitalizar os seus fluxos de trabalho.  
           - icon: up-right-and-down-left-from-center
             headline: Colaboração em tempo real
             text: Graças às abrangentes funcionalidades de colaboração em tempo real, é possível alcançar a máxima transparência em todos os processos.
           - icon: robot
             headline: Automações assistidas por IA
-            text: O SeaTable auxilia a automatizar processos recorrentes e a minimizar intervenções manuais.     
+            text: O SeaTable ajuda-o a automatizar processos recorrentes e a minimizar significativamente as intervenções manuais.     
     
     - name: "content-5"
       weight: 4
@@ -120,11 +120,11 @@ sections:
       text: 'O SeaTable oferece inúmeras possibilidades para criar fluxos de trabalho personalizados, perfeitamente adaptados às necessidades da sua empresa. Aqui estão alguns exemplos:'
       items:
           - icon: puzzle-piece
-            headline: Marketing
-            text: 'Todos os processos e dados numa ferramenta de marketing centralizada! Seja gestão de campanhas, planeamento de conteúdo, monitorização ou relatórios – com o SeaTable, pode criar uma gestão de marketing eficiente..'
+            headline: Gestão de Marketing
+            text: 'Centralize processos e dados numa ferramenta única! Da gestão de campanhas aos relatórios – desenhe uma gestão de marketing eficiente e integrada com o SeaTable.'
             link: pages/industry-solutions/marketing
           - icon: building
-            headline: Gestão de projetos
+            headline: Gestão de Projetos
             text: 'Com o SeaTable, é possível criar planos de projeto e listas de tarefas que são atualizados e automatizados em tempo real. Os prazos e as dependências estão sempre visíveis.'
             link: pages/industry-solutions/project-management
           - icon: people-group
@@ -132,15 +132,15 @@ sections:
             text: 'O SeaTable auxilia na gestão e automatização dos seus processos de recursos humanos. Permite uma integração perfeita de documentos e a sincronização com outras ferramentas de RH.'
             link: pages/industry-solutions/hr
           - icon: code
-            headline: Gestão de licenças
+            headline: Gestão de Licenças
             text: 'Acompanhe o estado das licenças, evite violações de conformidade e garanta que a sua empresa esteja sempre em conformidade com as diretrizes mais recentes.'
             link: pages/industry-solutions/software-development
           - icon: check
-            headline: Vendas
+            headline: Vendas e CRM
             text: 'Organize os seus processos de vendas e CRM de forma flexível, de acordo com as suas necessidades. Crie processos de vendas automatizados, mapeie pipelines de negócios e fortaleça a fidelização dos clientes.'
             link: pages/industry-solutions/kundenmanagement
           - icon: sack-dollar
-            headline: Finanças
+            headline: Gestão Financeira
             text: 'Gerencie as suas finanças numa ferramenta única – desde o plano de necessidades de capital e financiamento até análises financeiras e relatórios. Crie um fluxo de trabalho de IA para análises automatizadas.'
             link: pages/industry-solutions/finanzplan-erstellen     
 
@@ -152,15 +152,15 @@ sections:
       items:
       - icon: terminal
         headline: Hospedagem na Alemanha
-        text: "O SeaTable Cloud e o servidor SeaTable AI são hospedados em servidores licenciados na Alemanha. Para funções de IA em conformidade com o RGPD."
+        text: "A SeaTable Cloud e o servidor de IA são hospedados na Alemanha. Recursos de IA No-Code em total conformidade com o RGPD."
 
       - icon: user-plus
         headline: Configurações de segurança
-        text: "Defina direitos individuais de acesso e edição e restrinja o acesso a dados confidenciais."
+        text: Configure direitos de acesso individuais e restrinja dados sensíveis através de permissões granulares de leitura e escrita.
 
       - icon: fingerprint
         headline: Autenticação e SSO
-        text: "O SeaTable suporta todas as técnicas de autenticação comuns e permite a autenticação de dois fatores e SSO."      
+        text: "O SeaTable suporta os padrões comuns, permitindo autenticação de dois fatores e logon único (SSO) para maior segurança."      
 
     - name: 'content-3'
       weight: 9
@@ -189,7 +189,7 @@ sections:
           a: 'Um fluxo de trabalho é a sequência sistemática de tarefas e processos que devem ser realizados dentro de uma empresa para atingir determinados objetivos. Através de uma gestão de fluxo de trabalho bem estruturada, as empresas podem economizar tempo, minimizar erros e melhorar significativamente a colaboração em equipa. No entanto, em muitas empresas, grande parte dos fluxos de trabalho ainda é executada manualmente, o que leva a atrasos, erros e ineficiências. É aqui que entra em cena uma ferramenta eficaz de gestão de fluxo de trabalho como o SeaTable. Ela permite digitalizar os seus fluxos de trabalho, automatizá-los com o apoio da IA e integrá-los perfeitamente. Processos recorrentes, como entradas de dados, relatórios de estado ou aprovações, são simplificados por automatizações inteligentes, enquanto as intervenções manuais são reduzidas ao mínimo. Isto significa não só uma economia de tempo significativa, mas também uma redução significativa das fontes de erro. Com uma ferramenta de gestão de fluxo de trabalho flexível e compatível com IA, como o SeaTable, as empresas podem adaptar rapidamente os seus processos para atender às exigências atuais do mercado e, ao mesmo tempo, manter o [controlo sobre a segurança, a conformidade de TI]({{< relref "pages/industry-solutions/software-development" >}}) e a gestão de licenças.'
         
         - q: 'Como o SeaTable pode auxiliar a lidar com as rápidas mudanças nas necessidades comerciais?'
-          a: 'O SeaTable é flexível, personalizável e suportado por IA. Como ferramenta de gestão de fluxos de trabalho, permite-lhe adaptar rapidamente os fluxos de trabalho a novas necessidades comerciais, sem a necessidade de alterações complexas de TI. Através da [otimização de processos]({{< relref "pages/industry-solutions/operations" >}})apoiada por IA, o SeaTable identifica automaticamente os pontos de estrangulamento e sugere ajustes específicos. Desta forma, pode reagir mais rapidamente às mudanças do mercado e garantir a sua competitividade.'
+          a: 'O SeaTable é flexível, personalizável e suportado por IA. Como ferramenta de gestão de fluxos de trabalho, permite-lhe adaptar rapidamente os fluxos de trabalho a novas necessidades comerciais, sem a necessidade de alterações complexas de TI. Através da [otimização de processos]({{< relref "pages/industry-solutions/operations" >}}) apoiada por IA, o SeaTable identifica automaticamente os pontos de estrangulamento e sugere ajustes específicos. Desta forma, pode reagir mais rapidamente às mudanças do mercado e garantir a sua competitividade.'
         
         - q: 'Como o SeaTable garante a segurança de TI em soluções inovadoras?'
           a: 'Com o SeaTable, é possível criar fluxos de trabalho inovadores e apoiados por IA sem comprometer a segurança. Através de opções de auto-hospedagem e da conformidade com os mais rigorosos padrões de segurança, todos os dados, incluindo conteúdos processados por IA, permanecem protegidos de acordo com o RGPD. Com o nosso servidor de IA auto-hospedado, também pode criar fluxos de trabalho baseados em IA sem comprometer a conformidade. O SeaTable oferece, assim, a combinação ideal de inovação, soberania de dados e segurança.'
