@@ -9,7 +9,6 @@ seo:
     title: 'The Digital Wardrobe: Your Fashion Manager'
     description: 'Your wardrobe reinvented: with our wardrobe app, you always have your favorite outfits at your fingertips. Learn more!'
 template: '8c47a8b1db804094a5ff'
-draft: true
 
 type: pages
 sections:

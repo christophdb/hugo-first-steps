@@ -9,7 +9,6 @@ seo:
     title: 'El armario digital: su gestor de moda'
     description: 'Su armario reinventado: con nuestra aplicación para armarios, siempre tendrá sus conjuntos favoritos al alcance de la mano. ¡Más información!'
 template: '8c47a8b1db804094a5ff'
-draft: true
 
 type: pages
 sections:

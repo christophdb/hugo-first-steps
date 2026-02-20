@@ -9,7 +9,6 @@ seo:
     title: 'O guarda-roupa digital: o seu gestor de moda'
     description: 'O seu guarda-roupa reinventado: com a nossa aplicação de guarda-roupa, terá sempre as suas roupas favoritas ao seu alcance. Saiba mais!'
 template: '8c47a8b1db804094a5ff'
-draft: true
 
 type: pages
 sections:
