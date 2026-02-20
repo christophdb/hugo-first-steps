@@ -13,12 +13,11 @@ tags:
 color: '#ff5b5f'
 register:
    show: true
-draft: true
 ---
 
 ## Was ist Personio?
 
-Personio ist eine cloudbasierte [HR-Management-Software]({{< relref "posts/20250317-hris" >}}), die vor allem für Unternehmen mit 10 bis 5.000 Mitarbeitern konzipiert ist. Die Basis-Version (Personio Core) vereint Funktionen wie:
+Personio ist eine cloudbasierte [HR-Management-Software]({{< relref "posts/20250317-hris" >}}), die vor allem für Unternehmen mit 10 bis 5.000 Mitarbeitern konzipiert ist. Die Basis-Version (Personio Core) vereint Funktionen wie
 
 *   [Personalstammdaten]({{< relref "posts/20250505-master-data-management" >}}) und digitale Personalakte
 *   [Zeiterfassung]({{< relref "pages/arbeitszeiterfassung" >}}) und Abwesenheitsmanagement
