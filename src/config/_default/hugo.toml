@@ -61,6 +61,10 @@ endLevel = 2
 ordered = false
 startLevel = 2
 
+[markup.highlight]
+style = 'rose-pine-moon'
+
 [security]
 [security.funcs]
 getenv = ['^HUGO_', '^CI$', '^SEATABLE_INTERNAL_API_URL$']
+
