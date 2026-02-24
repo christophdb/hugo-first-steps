@@ -37,13 +37,13 @@ sections:
           text: 'O modelo de CRM intuitivo pode ser adaptado de forma flexível às suas necessidades e é fácil de utilizar, sem a complexidade das soluções de CRM comuns.'
         - icon: 'wand-magic-sparkles'
           headline: 'Automação por IA'
-          text: "Com as automações suportadas por IA do SeaTable, é possível criar pipelines de negócios e análises de ganhos/perdas — em conformidade com o GDPR, graças ao seu próprio servidor."
+          text: "Com as automações por IA é possível criar pipelines de negócios e análises de ganhos/perdas — em conformidade com o GDPR, graças ao seu próprio servidor."
         - icon: 'chart-simple'
           headline: 'Análises e relatórios'
           text: 'Crie painéis informativos para relatórios de receitas, análises do ciclo de vida do cliente e comparações de períodos com apenas alguns cliques.'
         - icon: 'lock'
           headline: 'Permissões'
-          text: 'Graças às permissões ajustáveis individualmente, é possível determinar quem tem permissão para visualizar ou editar pipelines de negócios e informações específicas de clientes.' 
+          text: 'Graças às permissões ajustáveis individualmente, é possível determinar quem tem permissão para visualizar ou editar  informações específicas de clientes.' 
         - icon: 'pencil'
           headline: 'Criar orçamentos'
           text: 'Crie orçamentos profissionais em formato PDF com um simples clique e envie-os diretamente do CRM, com conexão de e-mail integrada.'
@@ -74,13 +74,13 @@ sections:
         - curved
       title: 'Software CRM de SeaTable'
       subtitle: 'Sus ventajas de un vistazo'
-      description: Con la solución no-code y con IA de SeaTable, puede utilizar [una herramienta CRM moderna y escalable]({{< relref "posts/no-code-crm" >}}) para sus operaciones de ventas. Nuestra plantilla ofrece muchas ventajas para configurar procesos ágiles y generar más negocios.
+      description: Con **la solución no-code y con IA** de SeaTable, puede utilizar [una herramienta CRM moderna y escalable]({{< relref "posts/no-code-crm" >}}) para sus operaciones de ventas. Nuestra plantilla ofrece muchas ventajas para configurar procesos ágiles y generar más negocios.
       items:
-      - text: 'Siempre al día: gracias a la función de comentarios integrada, las notificaciones automáticas y el historial completo de cambios, siempre estará informado.'
-      - text: 'Verdadera colaboración: usted y su equipo trabajan juntos en tiempo real y siempre tienen acceso a la información más reciente, incluso sin reuniones de estado.'
-      - text: "Escalable: SeaTable crece al ritmo de sus necesidades, independientemente del tamaño de su base de datos y de su equipo de ventas."
-      - text: "Automatizado e integrado: integre fácilmente sistemas adicionales, como proveedores de servicios de pago o bases de datos de empresas, a través de n8n o Make."
-      - text: "Cumple con el RGPD: SeaTable Cloud y el servidor SeaTable AI están alojados exclusivamente en servidores europeos en Alemania." 
+      - text: '**Siempre al día**: gracias a la función de comentarios integrada, las notificaciones automáticas y el historial completo de cambios, siempre estará informado.'
+      - text: '**Verdadera colaboración**: usted y su equipo trabajan juntos en tiempo real y siempre tienen acceso a la información más reciente, incluso sin reuniones de estado.'
+      - text: "*Escalable**: SeaTable crece al ritmo de sus necesidades, independientemente del tamaño de su base de datos y de su equipo de ventas."
+      - text: "**Automatizado e integrado**: integre fácilmente sistemas adicionales, como proveedores de servicios de pago o bases de datos de empresas, a través de n8n o Make."
+      - text: "**Cumple con el RGPD**: SeaTable Cloud y el servidor SeaTable AI están alojados exclusivamente en servidores europeos en Alemania." 
       image_position: [left]
       image: '/images/template_page_crm_01.png/'
       image_alt: 'Información clara para los clientes'
@@ -95,19 +95,19 @@ sections:
         image: '/images/template_page_crm_02.png'
         image_alt: 'Sistema CRM con formulario sencillo para introducir datos'
       - headline: 'Gestionar el proceso de ventas'
-        text: 'Gestione sus actividades de forma transparente y clara con notas y seguimientos en una tabla. Utilice filtros, grupos y la vista Kanban para mostrar los procesos de negociación individuales de cada director de ventas.'
+        text: 'Gestione sus actividades de forma transparente y clara con notas y seguimientos en una tabla. Utilice filtros, grupos y la vista Kanban para mostrar **los procesos de negociación individuales de cada director de ventas**.'
         image: '/images/template_page_crm_03.png'
         image_alt: 'El proceso de ventas como una vista Kanban clara'
       - headline: 'Ofertas y promociones'
-        text: 'Registre toda la información de las transacciones en una tabla separada y vincúlela a su galería de productos y a los datos de los clientes. Utilice el complemento Page Designer para crear archivos PDF profesionales de forma automática o con solo pulsar un botón.'
+        text: 'Registre toda la información de las transacciones en una tabla separada y vincúlela a su galería de productos y a los datos de los clientes. Utilice el complemento Page Designer para **crear archivos PDF profesionales de forma automática** o con solo pulsar un botón.'
         image: '/images/template_page_crm_04.png'
         image_alt: 'Cree presupuestos automáticamente en CRM con Page Designer'
       - headline: 'Análisis convincentes'
-        text: 'Cree atractivos análisis de ventas y evaluaciones de clientes utilizando la vista de estadísticas o la aplicación CRM. Exporte informes o cree paneles de control convincentes para la dirección.'
+        text: 'Cree atractivos análisis de ventas y evaluaciones de clientes utilizando la vista de estadísticas o la aplicación CRM. Exporte informes o cree **paneles de control convincentes para la dirección**.'
         image: '/images/template_page_crm_05.png'
         image_alt: 'Panel de análisis para informes de CRM convincentes'
       - headline: 'Gestión de reclamaciones'
-        text: 'Registren todas las quejas y comentarios de los clientes a través de un formulario de contacto en una tabla separada. Los empleados responsables son asignados e informados inmediatamente a través de columnas vinculadas y notificaciones automáticas.'
+        text: 'Registren todas las quejas y comentarios de los clientes a través de un **formulario de contacto** en una tabla separada. Los empleados responsables son asignados e informados inmediatamente a través de columnas vinculadas y notificaciones automáticas.'
         image: '/images/template_page_crm_06.png'
         image_alt: 'Formulario de comentarios de los clientes integrado en el CRM' 
             
@@ -119,7 +119,7 @@ sections:
       title: 'Interfaz clara para su CRM'
       subtitle: 
       items:
-      - text: "Cree fácilmente su propia interfaz CRM personalizada con el creador de aplicaciones no-code integrado de SeaTable. Nuestro programa CRM gratuito ya incluye una aplicación CRM personalizable. Simplemente adapte el formulario de ofertas, el formulario de contacto o los perfiles de clientes a sus necesidades. Cree un manual personalizado con la página personalizada o utilice la página de consultas para ampliar su programa CRM y su base de conocimientos. El panel de control ya contiene algunas estadísticas preparadas que también puede personalizar y complementar para supervisar y evaluar sus actividades."
+      - text: Cree fácilmente su propia interfaz CRM personalizada con el [creador de aplicaciones no-code]({{< relref "posts/20250318-app-erstellen" >}}) integrado de SeaTable. Nuestro programa CRM gratuito ya incluye una aplicación CRM personalizable. Simplemente adapte el formulario de ofertas, el formulario de contacto o los perfiles de clientes a sus necesidades. Cree un **manual personalizado** con la página personalizada o utilice la página de consultas para ampliar su programa CRM y su base de conocimientos. El panel de control ya contiene algunas estadísticas preparadas que también puede personalizar y complementar para **supervisar y evaluar sus actividades**.
       image: '/images/template_page_crm_07.png'
       image_alt: 'Aplicación CRM con menú y panel de control.'
 
@@ -138,21 +138,21 @@ sections:
      
       items:
       - headline: 'Clasificación con Classify'
-        text: 'Los datos entrantes se clasifican automáticamente. Esto le permite crear una puntuación inteligente de clientes potenciales con puntuaciones únicas basadas en datos de interacción, datos de la empresa y previsiones de ventas, lo que resulta perfecto para establecer prioridades.'
+        text: 'Os dados entrantes são classificados automaticamente. Crie pontuações inteligentes de leads com scores únicos baseados em interações, dados empresariais e previsões de vendas – ideal para priorização.'
         icon: table
       - headline: 'Reconocimiento de texto con OCR'
         text: 'Extraiga texto de gráficos o imágenes cargados en columnas CRM. Esto permite un rápido procesamiento de la información y la vinculación con los datos de las transacciones para la elaboración de informes de ventas.'
         icon: image
       - headline: 'Leer información con Extract'
-        text: 'Extraiga los nombres y funciones de los contactos, por ejemplo, de los correos electrónicos entrantes. Esto optimiza la calificación de los clientes potenciales y facilita las actualizaciones del proceso de ventas para los gestores de cuentas.'
+        text: 'Extraia nomes e funções dos contactos, por exemplo, de e-mails entrantes. Isso otimiza a qualificação de leads e facilita as atualizações do processo de vendas para os gestores de contas.'
         icon: layer-group
       - headline: 'Resúmenes con Summarize'
         text: 'La función Resumir crea automáticamente resúmenes breves de notas de conversaciones o cadenas de correos electrónicos. Esto le proporciona una visión general rápida para informes o reuniones de equipo.'
         icon: circle-info
-      - headline: 'Flujos de trabajo con indicaciones personalizadas'
-        text: 'Con indicaciones personalizadas, puede definir sus propias acciones, por ejemplo, generar alertas y recomendaciones basadas en el valor de la operación, el estado del proceso de ventas y el historial, lo que resulta perfecto para las previsiones de ventas.'
+      - headline: 'Fluxos com prompts personalizados'
+        text: 'Com indicações personalizadas, defina ações próprias, como alertas e recomendações baseadas no valor da operação, estado do processo de vendas e histórico. Ideal para previsões de vendas.'
         icon: wand-magic-sparkles
-      - headline: 'Seguimientos basados en datos de clientes potenciales'
+      - headline: 'Seguimentos data leads'
         text: "Genere sugerencias para los siguientes pasos basadas en la información conocida y el historial de comunicación de un cliente potencial. Esto le ayudará a aumentar su tasa de conversión mediante recomendaciones basadas en datos."
         icon: arrow-right
         
