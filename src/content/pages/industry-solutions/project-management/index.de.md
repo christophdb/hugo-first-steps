@@ -157,7 +157,7 @@ sections:
       items:
       - title: Flexible Alternative zu Jira 
         subtitle: Jira Projektmanagement Alternative
-        text: Jira ist ein möchtiges, aber auch komplexes Tool, das Vorkenntnisse oder ein begleitetes Onboarding voraussetzt. Als alternatives Projektmanagement Tool zu Jira erlaubt SeaTable die Abbildung komplexer Prozesse ohne aufwendige Lernphase.
+        text: Jira ist ein mächtiges, aber auch komplexes Tool, das Vorkenntnisse oder ein begleitetes Onboarding voraussetzt. Als alternatives Projektmanagement Tool zu Jira erlaubt SeaTable die Abbildung komplexer Prozesse ohne aufwendige Lernphase.
       - title: Intuitive Alternative zum Projekttool Monday
         subtitle: Monday Projektmanagement Alternative
         text: SeaTable überzeugt als alternative Projektmanagement-Lösung mit einer intuitiveren Benutzeroberfläche und durchdachten Funktionen. Im Gegensatz zu Monday.com bietet SeaTable zudem verschiedene Ansichten wie Kanban, Gantt oder Kalender in allen Tarifen.
