@@ -19,7 +19,7 @@ SeaTable Server ist SeaTable für den eigenen Server. Durch die Installation von
 
 ### SeaTable Enterprise Edition
 
-Die SeaTable Server Enterprise Edition ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die den vollen Funktionsumfang und volle Datenkontrolle erhalten möchten. Nur die Enterprise Edition bietet die Möglichkeit eine externe Authentifizierung per LDAP oder SAML zu verwenden. Auch die erweiterten Freigabeberechtigungen und Automationen finden Sie nur in dieser Edition.  
+Die SeaTable Server Enterprise Edition ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die den vollen Funktionsumfang und volle Datenkontrolle erhalten möchten. Nur die Enterprise Edition bietet die Möglichkeit eine externe Authentifizierung per LDAP oder SAML zu verwenden. Auch die *erweiterten* Freigabeberechtigungen und Automationen finden Sie nur in dieser Edition.  
 Sie können jederzeit eine SeaTable Enterprise Lizenz für bis zu drei Anwender erhalten. Sie finden das entsprechende Registrierungsformular [unter diesem Link](/on-premises/). Die Installation erfolgt gemäß dem [Administrationshandbuch](https://admin.seatable.com) mithilfe von Docker.
 
 ### SeaTable Developer Edition
@@ -33,7 +33,7 @@ Die SeaTable Server Developer Edition richtet sich primär an Entwickler, die Se
 | **Plattform und Umgebung**          |                                                                                 |                                                                     |
 | Server-Betriebssystem               | Linux                                                                           | Linux                                                               |
 | Installationsmethode                | Docker                                                                          | Docker                                                              |
-| Docker Images                       | [Docker Hub](https://hub.docker.com/r/seatable/seatable-developer)              | [Docker Hub](https://hub.docker.com/r/seatable/seatable-developer)  |
+| Docker Images                       | [Docker Hub](https://hub.docker.com/r/seatable/seatable-developer)              | [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise)  |
 | **Lizenz**                          |                                                                                 |                                                                     |
 | Lizenztyp                           | [hybrid (Open Source und proprietär)](https://manual.seatable.io/home/#license) | [proprietär]({{< relref "pages/legal/terms-of-service" >}})         |
 | Lizenzpreismodell                   | kostenlos                                                                       | Benutzerbasiert                                                     |
