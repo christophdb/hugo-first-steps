@@ -74,13 +74,13 @@ sections:
         - curved
       title: 'CRM software from SeaTable'
       subtitle: 'Your advantages at a glance'
-      description: With SeaTable's AI no-code solution, you can use [a modern and scalable CRM tool]({{< relref "posts/no-code-crm" >}}) for your sales operations. Our template offers many advantages for setting up lean processes and generating more deals.
+      description: With SeaTable's **AI no-code solution**, you can use [a modern and scalable CRM tool]({{< relref "posts/no-code-crm" >}}) for your sales operations. Our template offers many advantages for setting up lean processes and generating more deals.
       items:
-      - text: 'Always up to date: Thanks to the integrated comment function, automatic notifications, and complete change history, you always stay informed.'
-      - text: 'True collaboration: You and your team work together in real time and always have access to the latest information—even without status meetings.'
-      - text: "Scalable: SeaTable grows with your requirements—no matter how large your database and sales team are."
-      - text: "Automated & integrated: Easily integrate additional systems such as payment service providers or company databases via n8n or Make."
-      - text: "GDPR compliant: SeaTable Cloud and the SeaTable AI server are hosted exclusively on European servers in Germany." 
+      - text: '**Always up to date**: Thanks to the integrated comment function, automatic notifications, and complete change history, you always stay informed.'
+      - text: '**True collaboration**: You and your team work together in real time and always have access to the latest information—even without status meetings.'
+      - text: "**Scalable**: SeaTable grows with your requirements—no matter how large your database and sales team are."
+      - text: "**Automated & integrated**: Easily integrate additional systems such as payment service providers or company databases via n8n or Make."
+      - text: "**GDPR compliant**: SeaTable Cloud and the SeaTable AI server are hosted exclusively on European servers in Germany." 
       image_position: [left]
       image: '/images/template_page_crm_01.png/'
       image_alt: 'Clear customer information'
@@ -95,19 +95,19 @@ sections:
         image: '/images/template_page_crm_02.png'
         image_alt: 'CRM system with simple data entry form'
       - headline: 'Manage sales pipeline'
-        text: 'Manage your activities transparently and clearly with notes and follow-ups in a table. Use filters, groups, and the Kanban view to display individual deal pipelines for each sales manager.'
+        text: 'Manage your activities transparently and clearly with notes and follow-ups in a table. Use filters, groups, and the Kanban view to **display individual deal pipelines for each sales manager**.'
         image: '/images/template_page_crm_03.png'
         image_alt: 'Sales pipeline as a clear Kanban view'
       - headline: 'Deals and offers'
-        text: 'Record all deal information in a separate table and link it to your product gallery and customer data. Use the Page Designer plugin to create professional PDFs automatically or at the touch of a button.'
+        text: 'Record all deal information in a separate table and link it to your product gallery and customer data. Use the Page Designer plugin to **create professional PDFs automatically** or at the touch of a button.'
         image: '/images/template_page_crm_04.png'
         image_alt: 'Create quotes automatically in CRM with Page Designer'
       - headline: 'Convincing analyses'
-        text: 'Create appealing sales analyses and customer evaluations using the statistics view or the CRM app. Export reports or create compelling dashboards for management.'
+        text: 'Create appealing sales analyses and customer evaluations using the statistics view or the CRM app. Export reports or create **compelling dashboards for management**.'
         image: '/images/template_page_crm_05.png'
         image_alt: 'Analysis dashboard for compelling CRM reports'
       - headline: 'Complaint management'
-        text: 'Record all customer complaints and feedback via a customer contact form in a separate table. The responsible employees are immediately assigned and informed via linked columns and automatic notifications.'
+        text: 'Record all customer complaints and feedback via a **customer contact form** in a separate table. The responsible employees are immediately assigned and informed via linked columns and automatic notifications.'
         image: '/images/template_page_crm_06.png'
         image_alt: 'Customer feedback form integrated into CRM' 
             
@@ -119,7 +119,7 @@ sections:
       title: 'Clear front end for your CRM'
       subtitle: 
       items:
-      - text: "Easily create your own custom CRM frontend with SeaTable's integrated no-code app builder. Our free CRM program already includes a customizable CRM app. Simply adapt the deal form, contact form, or customer profiles to your requirements. Create a custom playbook with the custom page or use the query page to expand your CRM program and knowledge base. The dashboard already contains some ready-made statistics that you can also customize and supplement to monitor and evaluate your activities."
+      - text: Easily create your own custom CRM frontend with SeaTable's integrated [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}). Our free CRM program already includes a customizable CRM app. Simply adapt the deal form, contact form, or customer profiles to your requirements. Create a **custom playbook** with the custom page or use the query page to expand your CRM program and knowledge base. The dashboard already contains some ready-made statistics that you can also customize and supplement to **monitor and evaluate your activities**."
       image: '/images/template_page_crm_07.png'
       image_alt: 'CRM app with menu and dashboard.'
 
@@ -138,7 +138,7 @@ sections:
      
       items:
       - headline: 'Classification with Classify'
-        text: 'Incoming data is automatically categorized. This allows you to create intelligent lead scoring with unique scores based on interaction data, company data, and sales forecasts—perfect for prioritization.'
+        text: 'Incoming data is automatically categorized. Create intelligent lead scoring with unique scores based on interaction data, company data, and sales forecasts—perfect for prioritization.'
         icon: table
       - headline: 'Text recognition with OCR'
         text: 'Extract text from uploaded graphics or images into CRM columns. This enables fast information processing and linking to deal data for sales reporting.'

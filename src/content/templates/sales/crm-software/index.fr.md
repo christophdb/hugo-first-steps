@@ -74,13 +74,13 @@ sections:
         - curved
       title: 'Logiciel CRM de SeaTable'
       subtitle: "Vos avantages en un coup d'œil"
-      description: Grâce à la solution IA no-code de SeaTable, vous pouvez utiliser [un outil CRM moderne et évolutif]({{< relref "posts/no-code-crm" >}}) pour vos opérations commerciales. Notre modèle offre de nombreux avantages pour mettre en place des processus rationalisés et générer davantage de transactions.
+      description: Grâce à **la solution IA no-code** de SeaTable, vous pouvez utiliser [un outil CRM moderne et évolutif]({{< relref "posts/no-code-crm" >}}) pour vos opérations commerciales. Notre modèle offre de nombreux avantages pour mettre en place des processus rationalisés et générer davantage de transactions.
       items:
-      - text: "Toujours à jour : grâce à la fonction de commentaire intégrée, aux notifications automatiques et à l'historique complet des modifications, vous restez toujours informé."
-      - text: "Une véritable collaboration : vous et votre équipe travaillez ensemble en temps réel et avez toujours accès aux informations les plus récentes, même sans réunions de suivi."
-      - text: "Évolutif : SeaTable s'adapte à vos besoins, quelle que soit la taille de votre base de données et de votre équipe commerciale."
-      - text: "Automatisé et intégré : intégrez facilement des systèmes supplémentaires tels que des prestataires de services de paiement ou des bases de données d'entreprise via n8n ou Make."
-      - text: "Conforme au RGPD : SeaTable Cloud et le serveur SeaTable AI sont hébergés exclusivement sur des serveurs européens situés en Allemagne." 
+      - text: "**Toujours à jour** : grâce à la fonction de commentaire intégrée, aux notifications automatiques et à l'historique complet des modifications, vous restez toujours informé."
+      - text: "**Une véritable collaboration** : vous et votre équipe travaillez ensemble en temps réel et avez toujours accès aux informations les plus récentes, même sans réunions de suivi."
+      - text: "**Évolutif** : SeaTable s'adapte à vos besoins, quelle que soit la taille de votre base de données et de votre équipe commerciale."
+      - text: "**Automatisé et intégré** : intégrez facilement des systèmes supplémentaires tels que des prestataires de services de paiement ou des bases de données d'entreprise via n8n ou Make."
+      - text: "**Conforme au RGPD** : SeaTable Cloud et le serveur SeaTable AI sont hébergés exclusivement sur des serveurs européens situés en Allemagne." 
       image_position: [left]
       image: '/images/template_page_crm_01.png/'
       image_alt: 'Informations claires sur les clients'
@@ -95,19 +95,19 @@ sections:
         image: '/images/template_page_crm_02.png'
         image_alt: "Système CRM avec formulaire de saisie de données simplifié"
       - headline: Gérer le pipeline des ventes
-        text: "Gérez vos activités de manière transparente et claire à l'aide de notes et de suivis dans un tableau. Utilisez des filtres, des groupes et la vue Kanban pour afficher les pipelines de transactions individuels de chaque responsable commercial."
+        text: "Gérez vos activités de manière transparente et claire à l'aide de notes et de suivis dans un tableau. Utilisez des filtres, des groupes et la vue Kanban pour afficher **les pipelines de transactions individuels de chaque responsable commercial**."
         image: '/images/template_page_crm_03.png'
         image_alt: "Le pipeline des ventes sous forme de tableau Kanban clair"
       - headline: 'Offres et promotions'
-        text: "Enregistrez toutes les informations relatives aux transactions dans un tableau distinct et associez-le à votre galerie de produits et à vos données clients. Utilisez le plugin Page Designer pour créer automatiquement ou en un seul clic des fichiers PDF de qualité professionnelle."
+        text: "Enregistrez toutes les informations relatives aux transactions dans un tableau distinct et associez-le à votre galerie de produits et à vos données clients. Utilisez le plugin Page Designer pour **créer automatiquement ou en un seul clic des fichiers PDF de qualité professionnelle**."
         image: '/images/template_page_crm_04.png'
         image_alt: "Créer automatiquement des devis dans le CRM avec Page Designer"
       - headline: 'Analyses convaincantes'
-        text: "Créez des analyses commerciales et des évaluations clients attrayantes à l'aide de la vue statistiques ou de l'application CRM. Exportez des rapports ou créez des tableaux de bord convaincants pour la direction."
+        text: "Créez des analyses commerciales et des évaluations clients attrayantes à l'aide de la vue statistiques ou de l'application CRM. Exportez des rapports ou créez **des tableaux de bord convaincants pour la direction**."
         image: '/images/template_page_crm_05.png'
         image_alt: "Tableau de bord d'analyse pour des rapports CRM convaincants"
       - headline: Gestion des réclamations
-        text: "Veuillez enregistrer toutes les réclamations et tous les commentaires des clients via un formulaire de contact dans un tableau séparé. Les employés responsables sont immédiatement assignés et informés grâce à des colonnes liées et des notifications automatiques."
+        text: "Veuillez enregistrer toutes les réclamations et tous les commentaires des clients via un **formulaire de contact** dans un tableau séparé. Les employés responsables sont immédiatement assignés et informés grâce à des colonnes liées et des notifications automatiques."
         image: '/images/template_page_crm_06.png'
         image_alt: "Formulaire de commentaires clients intégré au CRM"
             
@@ -119,7 +119,7 @@ sections:
       title: Interface claire pour votre CRM
       subtitle: 
       items:
-      - text: "Créez facilement votre propre interface CRM personnalisée grâce au générateur d'applications no-code intégré à SeaTable. Notre programme CRM gratuit comprend déjà une application CRM personnalisable. Il vous suffit d'adapter le formulaire de transaction, le formulaire de contact ou les profils clients à vos besoins. Créez un guide personnalisé à l'aide de la page personnalisée ou utilisez la page de requête pour développer votre programme CRM et votre base de connaissances. Le tableau de bord contient déjà des statistiques prêtes à l'emploi que vous pouvez également personnaliser et compléter pour suivre et évaluer vos activités."
+      - text: Créez facilement votre propre interface CRM personnalisée grâce au [générateur d'applications no-code]({{< relref "posts/20250318-app-erstellen" >}}) intégré à SeaTable. Notre programme CRM gratuit comprend déjà une application CRM personnalisable. Il vous suffit d'adapter le formulaire de transaction, le formulaire de contact ou les profils clients à vos besoins. Créez un **guide personnalis**é** à l'aide de la page personnalisée ou utilisez la page de requête pour développer votre programme CRM et votre base de connaissances. Le tableau de bord contient déjà des statistiques prêtes à l'emploi que vous pouvez également personnaliser et compléter pour **suivre et évaluer vos activités**.
       image: '/images/template_page_crm_07.png'
       image_alt: 'Application CRM avec menu et tableau de bord.'
 
@@ -138,7 +138,7 @@ sections:
      
       items:
       - headline: Classification avec Classify
-        text: "Les données entrantes sont automatiquement classées par catégorie. Cela vous permet de créer un système intelligent de notation des prospects avec des scores uniques basés sur les données d'interaction, les données de l'entreprise et les prévisions de ventes, ce qui est idéal pour établir des priorités."
+        text: "Les données entrantes sont auto-classées par catégorie. Cela permet un système intelligent de notation des prospects avec scores uniques (données d’interaction, entreprise, prévisions de ventes) – idéal pour prioriser."
         icon: table
       - headline: "Reconnaissance de texte avec OCR"
         text: "Extrayez le texte des graphiques ou des images téléchargés dans les colonnes du CRM. Cela permet un traitement rapide des informations et leur mise en relation avec les données commerciales pour l'établissement des rapports de vente."
@@ -150,10 +150,10 @@ sections:
         text: "La fonction Résumer crée automatiquement de brefs résumés des notes de conversation ou des fils de discussion par e-mail. Cela vous permet d'avoir un aperçu rapide pour les rapports ou les réunions d'équipe."
         icon: circle-info
       - headline: 'Workflows avec invite personnalisée'
-        text: "Grâce aux invites personnalisées, vous pouvez définir vos propres actions, par exemple pour générer des alertes et des recommandations en fonction de la valeur des transactions, de l'état du pipeline commercial et de l'historique, ce qui est idéal pour les prévisions de ventes."
+        text: "Grâce aux invites personnalisées, vous définissez vos actions, comme générer des alertes et recommandations selon la valeur des transactions, l’état du pipeline et l’historique – idéal pour les prévisions de ventes."
         icon: wand-magic-sparkles
-      - headline: 'Suivi basé sur les données relatives aux prospects'
-        text: "Générez des suggestions pour les prochaines étapes en vous basant sur les informations disponibles et l'historique des communications avec le prospect. Cela vous aidera à augmenter votre taux de conversion grâce à des recommandations fondées sur les données."
+      - headline: 'Suivi data prospects'
+        text: "Générez des suggestions pour les prochaines étapes à partir des informations disponibles et de l’historique des communications avec le prospect. Cela optimise le taux de conversion grâce à des recommandations data-driven."
         icon: arrow-right
         
         

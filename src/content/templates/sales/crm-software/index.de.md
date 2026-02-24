@@ -74,13 +74,13 @@ sections:
         - curved
       title: 'CRM Software von SeaTable'
       subtitle: 'Ihre Vorteile auf einen Blick'
-      description: 'Mit der KI No-Code-Lösung von SeaTable nutzen Sie ein [modernes und skalierbares CRM-Tool]({{< relref "posts/no-code-crm" >}}) für Ihre Sales-Operationen. Unsere CRM-Vorlage bietet viele Vorteile, um schlanke Prozesse aufzusetzen und mehr Deals zu generieren.'
+      description: 'Mit der **KI No-Code-Lösung** von SeaTable nutzen Sie ein [modernes und skalierbares CRM-Tool]({{< relref "posts/no-code-crm" >}}) für Ihre Sales-Operationen. Unsere CRM-Vorlage bietet viele Vorteile, um schlanke Prozesse aufzusetzen und mehr Deals zu generieren.'
       items:
-      - text: 'Stets aktuell: Dank der integrierten Kommentarfunktion, automatischen Benachrichtigungen und vollständiger Änderungshistorie bleiben Sie immer informiert.'
-      - text: 'Echte Kollaboration: Sie und Ihr Team arbeiten in Echtzeit zusammen und verfügen stets über aktuelle Informationen – auch ohne Status-Meetings.'
-      - text: 'Skalierbar: SeaTable wächst mit Ihren Anforderungen – egal, wie groß Ihre Datenbank und Ihr Sales-Team ist.'
-      - text: 'Automatisiert & integriert: Integrieren Sie einfach weitere Systeme wie Zahlungsdienstleister oder Firmendatenbanken über n8n oder Make.'
-      - text: 'DSGVO-konform: SeaTable Cloud und der SeaTable KI-Server werden ausschließlich auf europäischen Servern in Deutschland gehostet.' 
+      - text: '**Stets aktuell**: Dank der integrierten Kommentarfunktion, automatischen Benachrichtigungen und vollständiger Änderungshistorie bleiben Sie immer informiert.'
+      - text: '**Echte Kollaboration**: Sie und Ihr Team arbeiten in Echtzeit zusammen und verfügen stets über aktuelle Informationen – auch ohne Status-Meetings.'
+      - text: '**Skalierbar**: SeaTable wächst mit Ihren Anforderungen – egal, wie groß Ihre Datenbank und Ihr Sales-Team ist.'
+      - text: '**Automatisiert & integriert**: Integrieren Sie einfach weitere Systeme wie Zahlungsdienstleister oder Firmendatenbanken über n8n oder Make.'
+      - text: '**DSGVO-konform**: SeaTable Cloud und der SeaTable KI-Server werden ausschließlich auf europäischen Servern in Deutschland gehostet.' 
       image_position: [left]
       image: '/images/template_page_crm_01.png/'
       image_alt: 'Übersichtliche Kundeninformationen'
@@ -91,23 +91,23 @@ sections:
       subtitle: 'Kostenloses CRM Programm mit vielen Funktionen'
       items:
       - headline: 'Leads und Kunden verwalten'
-        text: 'Legen Sie neue Leads ganz einfach über ein Formular an und weisen Sie sie direkt Sales Mitarbeiter zu. Alle Kunden und Kontakte sind in den Tabellen "Contacts" und "Companies" einsehbar und miteinander verlinkt.'
+        text: 'Legen Sie neue Leads ganz einfach über ein Formular an und weisen Sie sie direkt Sales Mitarbeitern zu. Alle Kunden und Kontakte sind in den Tabellen "Contacts" und "Companies" einsehbar und miteinander verlinkt.'
         image: '/images/template_page_crm_02.png'
         image_alt: 'CRM System mit einfacher Dateneingabe-Maske'
       - headline: 'Sales-Pipeline managen'
-        text: 'Verwalten Sie Ihre Aktivitäten transparent und übersichtlich mit Notizen und Follow-ups in einer Tabelle. Nutzen Sie Filter, Gruppen und die Kanban-Ansicht, um individuelle Deal Pipelines für jeden Sales Manager darzustellen.'
+        text: 'Verwalten Sie Ihre Aktivitäten transparent und übersichtlich mit Notizen und Follow-ups in einer Tabelle. Nutzen Sie Filter, Gruppen und die Kanban-Ansicht, um **individuelle Deal Pipelines für jeden Sales Manager** darzustellen.'
         image: '/images/template_page_crm_03.png'
         image_alt: 'Sales Pipeline als übersichtliche Kanban-Ansicht'
       - headline: 'Deals und Angebote'
-        text: 'Erfassen Sie alle Deal-Informationen in einer separaten Tabelle und verlinken diese mit Ihrer Produkt-Galerie und den Kundendaten. Nutzen Sie das Page Designer Plugin, um automatisiert oder auf Knopdruck professionelle PDFs zu erstellen.'
+        text: 'Erfassen Sie alle Deal-Informationen in einer separaten Tabelle und verlinken diese mit Ihrer Produkt-Galerie und den Kundendaten. Nutzen Sie das Page Designer Plugin, um **automatisiert oder auf Knopdruck professionelle PDFs** zu erstellen.'
         image: '/images/template_page_crm_04.png'
         image_alt: 'Mit dem Page Designer Angebote automatisiert im CRM erstellen'
       - headline: 'Überzeugende Analysen'
-        text: 'Erstellen Sie mit der Statistik-Ansicht oder der CRM App ansprechende Umsatzanalysen und Kundenauswertungen. Exportieren Sie Reports oder erstellen Sie überzeugende Dashboards für das Management.'
+        text: 'Erstellen Sie mit der Statistik-Ansicht oder der CRM App ansprechende Umsatzanalysen und Kundenauswertungen. Exportieren Sie Reports oder erstellen Sie **überzeugende Dashboards für das Management**.'
         image: '/images/template_page_crm_05.png'
         image_alt: 'Analyse-Dashboard für überzeugende CRM-Reports'
       - headline: 'Beschwerdemanagement'
-        text: 'Erfassen Sie alle Kundenbeschwerden und Feedback über ein Kundenkontaktformular in einer separaten Tabelle. Die zuständigen Mitarbeiter werden über verknüpfte Spalten und automatische Benachrichtigungen sofort zugewiesen und informiert.'
+        text: 'Erfassen Sie alle Kundenbeschwerden und Feedback über ein **Kundenkontaktformular** in einer separaten Tabelle. Die zuständigen Mitarbeiter werden über verknüpfte Spalten und automatische Benachrichtigungen sofort zugewiesen und informiert.'
         image: '/images/template_page_crm_06.png'
         image_alt: 'Kundenfeedback-Formular integriert in CRM' 
             
@@ -119,7 +119,7 @@ sections:
       title: 'Übersichtliches Frontend für Ihr CRM'
       subtitle: 
       items:
-      - text: 'Erstellen Sie ganz einfach Ihr individuelles CRM Frontend mit SeaTables integriertem No-Code App Builder. Unser kostenloses CRM Programm beinhaltet bereits eine individualisierbare CRM App. Passen Sie einfach das Deal-Formular, das Kontakt-Formular oder die Kundenprofile an Ihre Anforderungen an. Erstellen Sie ein individuelles Playbook mit der Custom-Page oder nutzen Sie die Query Page, um Ihr CRM-Programm und eine Wissensdatenbank zu erweitern. Auf dem Dashboard finden Sie bereits einige vorgefertigte Statistiken, die Sie ebenfalls individuell anpassen und ergänzen können, um Ihre Aktivitäten zu monitoren und auszuwerten.'
+      - text: 'Erstellen Sie ganz einfach Ihr individuelles CRM Frontend mit SeaTables integriertem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}). Unser kostenloses CRM Programm beinhaltet bereits eine individualisierbare CRM App. Passen Sie einfach das Deal-Formular, das Kontakt-Formular oder die Kundenprofile an Ihre Anforderungen an. Erstellen Sie ein **individuelles Playbook** mit der Custom-Page oder nutzen Sie die Query Page, um Ihr CRM-Programm und eine Wissensdatenbank zu erweitern. Auf dem Dashboard finden Sie bereits einige vorgefertigte Statistiken, die Sie ebenfalls individuell anpassen und ergänzen können, um Ihre **Aktivitäten zu monitoren und auszuwerten**.'
       image: '/images/template_page_crm_07.png'
       image_alt: 'CRM App mit Menü und Dashboard.'
 
