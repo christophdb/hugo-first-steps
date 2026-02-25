@@ -18,7 +18,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Ihre Vorlage für moderne Fuhrparkverwaltung'
-      text: 'Organisieren Sie Ihre Fuhrparkverwaltung übersichtlich in einer zentralen Vorlage – von Fahrzeugstammdaten über Fahrer bis zu Buchungen, Schäden und Terminen. Mit dieser Vorlage für digitale Fuhrparkverwaltung steuern Sie Verfügbarkeit, Kosten und Pflichten klar strukturiert und ersetzen starre Exceltabellen durch ein flexibles, kollaboratives System.'
+      text: 'Organisieren Sie Ihre Fuhrparkverwaltung übersichtlich in einer zentralen Vorlage – von **Fahrzeugstammdaten über Fahrer** bis zu **Buchungen, Schäden und Terminen**. Mit dieser Vorlage für digitale Fuhrparkverwaltung steuern Sie Verfügbarkeit, Kosten und Pflichten klar strukturiert und **ersetzen starre Exceltabellen** durch ein flexibles, kollaboratives System.'
       classes:
           - bg-white
       template: 'd781991c26e24261bdce'
@@ -35,22 +35,22 @@ sections:
       items:
         - icon: 'check'
           headline: 'Intuitiv'
-          text: 'Führen Sie die Vorlage ohne lange Einführung ein und ermöglichen Sie Ihrem Team, den gesamten Fuhrpark sofort strukturiert zu organisieren. So reduzieren Sie Rückfragen, Medienbrüche und Abstimmungsaufwand im Tagesgeschäft deutlich.'
+          text: 'Führen Sie die Vorlage ohne lange Einführung ein und ermöglichen Sie Ihrem Team, den gesamten Fuhrpark **sofort strukturiert** zu organisieren. So reduzieren Sie Rückfragen, Medienbrüche und Abstimmungsaufwand im Tagesgeschäft deutlich.'
         - icon: 'bars'
           headline: 'Strukturiert'
-          text: 'Erfassen Sie Fahrzeuge, Fahrer, Buchungen, Kosten und Termine einheitlich in einer zentralen Ansicht und ersetzen Sie verstreute Exceltabellen. Dadurch minimieren Sie Fehler, Doppelpflege und schaffen eine verlässliche Datengrundlage.'
+          text: 'Erfassen Sie Fahrzeuge, Fahrer, Buchungen, Kosten und Termine einheitlich in einer zentralen Ansicht und **ersetzen Sie verstreute Exceltabellen**. Dadurch minimieren Sie Fehler, Doppelpflege und schaffen eine verlässliche Datengrundlage.'
         - icon: 'chart-line'
           headline: 'Übersichtlich'
-          text: 'Erkennen Sie auf einen Blick, welche Fahrzeuge verfügbar sind, wie stark die Flotte ausgelastet ist und welche Termine anstehen. So reagieren Sie schneller auf Engpässe, planen Touren präziser und erhöhen die Verfügbarkeit Ihrer Fahrzeuge.'
+          text: 'Erkennen Sie auf einen Blick, welche **Fahrzeuge verfügbar** sind, wie stark die **Flotte ausgelastet** ist und welche Termine anstehen. So reagieren Sie schneller auf Engpässe, planen Touren präziser und erhöhen die Verfügbarkeit Ihrer Fahrzeuge.'
         - icon: 'lock'
           headline: 'Berechtigungen'
-          text: 'Steuern Sie granular, wer Fahrzeuge anfragen, Buchungen freigeben oder sensible Kostendaten sehen darf. So trennen Sie operative Nutzung vom Controlling und stellen sicher, dass nur Berechtigte kritische Informationen ändern können.' 
+          text: 'Steuern Sie granular, wer **Fahrzeuge anfragen, Buchungen freigeben** oder sensible Kostendaten sehen darf. So trennen Sie operative Nutzung vom Controlling und stellen sicher, dass nur Berechtigte kritische Informationen ändern können.' 
         - icon: 'pencil'
           headline: 'Web-Formular'
-          text: 'Sammeln Sie Fahrzeuganfragen über ein Web-Formular, in dem Mitarbeiter Zeitraum, Zweck und gewünschtes Fahrzeug angeben. Alle Anfragen landen automatisch strukturiert in Ihrer Übersicht, sodass Sie sie prüfen, freigeben und dokumentieren können.'
+          text: 'Sammeln Sie Fahrzeuganfragen über ein Web-Formular, in dem Mitarbeiter Zeitraum, Zweck und gewünschtes Fahrzeug angeben. Alle **Anfragen landen automatisch strukturiert in Ihrer Übersicht**, sodass Sie sie prüfen, freigeben und dokumentieren können.'
         - icon: 'bell'
           headline: 'Benachrichtigungen'
-          text: 'Lassen Sie sich automatisch an HU, UVV-Prüfungen, Wartungen oder Reifenwechsel erinnern und vermeiden Sie verpasste Termine. So reduzieren Sie Stillstände, senken das Risiko und halten Ihre Flotte dauerhaft rechtssicher und einsatzbereit.' 
+          text: 'Lassen Sie sich automatisch an **HU, UVV-Prüfungen, Wartungen oder Reifenwechsel erinnern** und vermeiden Sie verpasste Termine. So reduzieren Sie Stillstände, senken das Risiko und halten Ihre Flotte dauerhaft rechtssicher und einsatzbereit.' 
 
     - name: "customer-1"
       weight: 4
@@ -78,11 +78,11 @@ sections:
       subtitle: 'Ihre Vorteile im Überblick'
       description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Vorlage für digitale Fuhrparkverwaltung erfassen Sie alle Fahrzeuge, Buchungen, Schäden und Termine zentral, behalten Kosten im Blick und schaffen eine gemeinsame Grundlage für Ihr Flottenmanagement – deutlich strukturierter als klassische Fuhrparkmanagement Excel‑Dateien.'
       items:
-      - text: 'Stets aktuell: Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleiben Sie immer auf dem neuesten Stand – von der ersten Fahrzeuganlage bis zur laufenden Nutzung durch mehrere Standorte.'
-      - text: 'Zugriff von überall: Mit einer online geführten Vorlage haben Sie jederzeit Zugriff auf Fahrzeugdaten, Buchungen und Termine – im Büro, unterwegs oder direkt aus dem Fahrzeug heraus.'
-      - text: 'Transparenz im Fuhrpark: Verknüpfen Sie Fahrzeuge, Fahrer, Reparaturen und Fahrten in einer digitalen Vorlage – so sehen Sie, welche Fahrzeuge stark genutzt werden, wo Kostentreiber liegen und welche Termine anstehen.'
-      - text: 'Skalierbar: Ihre Fuhrparkverwaltung wächst mit Ihren Anforderungen – unabhängig davon, ob Sie wenige Dienstfahrzeuge, einen regionalen Fuhrpark oder eine große Flotte mit unterschiedlichen Standorten verwalten.'
-      - text: 'Automatisiert & integriert: Nutzen Sie SeaTable als zentrale Plattform, die sich flexibel an Ihre Prozesse anpasst, ein digitales Fahrtenbuch ergänzt und starre Exceltabellen langfristig ablöst.'
+      - text: '**Stets aktuell:** Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleiben Sie immer auf dem neuesten Stand – von der ersten Fahrzeuganlage bis zur laufenden Nutzung durch mehrere Standorte.'
+      - text: '**Zugriff von überall:** Mit einer online geführten Vorlage haben Sie jederzeit Zugriff auf Fahrzeugdaten, Buchungen und Termine – im Büro, unterwegs oder direkt aus dem Fahrzeug heraus.'
+      - text: '**Transparenz im Fuhrpark:** Verknüpfen Sie Fahrzeuge, Fahrer, Reparaturen und Fahrten in einer digitalen Vorlage – so sehen Sie, welche Fahrzeuge stark genutzt werden, wo Kostentreiber liegen und welche Termine anstehen.'
+      - text: '**Skalierbar:** Ihre Fuhrparkverwaltung wächst mit Ihren Anforderungen – unabhängig davon, ob Sie wenige Dienstfahrzeuge, einen regionalen Fuhrpark oder eine große Flotte mit unterschiedlichen Standorten verwalten.'
+      - text: '**Automatisiert & integriert:** Nutzen Sie SeaTable als zentrale Plattform, die sich flexibel an Ihre Prozesse anpasst, ein digitales Fahrtenbuch ergänzt und starre Exceltabellen langfristig ablöst.'
       image_position: [left]
       image: '/images/template_page_fuhrparkverwaltung_01.png'
       image_alt: 'SeaTable Vorlage für Fuhrparkverwaltung mit Tabellen für Fahrzeuge, Fahrer und Buchungen.'
@@ -93,19 +93,19 @@ sections:
       subtitle: 'Fuhrparkverwaltung Beispiel aus der Praxis'
       items:
       - headline: 'Fahrzeuge zentral verwalten'
-        text: 'In der ersten Tabelle der Vorlage legen Sie alle Fahrzeuge an. Sie erfassen Kennzeichen, Fahrzeugtyp, Laufleistung, technische Daten, Kauf- oder Leasinginformationen sowie Zuordnungen zu Kostenstellen. Über Verknüpfungen sehen Sie direkt, welche Buchungen, Schäden und Termine zu einem Fahrzeug gehören – so entsteht eine praxisnahe digitale Fuhrparkverwaltung mit vollständiger Fahrzeugakte.'
+        text: 'In der ersten Tabelle der Vorlage legen Sie alle Fahrzeuge an. Sie erfassen Kennzeichen, Fahrzeugtyp, Laufleistung, technische Daten, Kauf- oder Leasinginformationen sowie **Zuordnungen zu Kostenstellen**. Über Verknüpfungen sehen Sie direkt, welche Buchungen, Schäden und Termine zu einem Fahrzeug gehören – so entsteht eine praxisnahe digitale Fuhrparkverwaltung mit vollständiger Fahrzeugakte.'
         image: '/images/template_page_fuhrparkverwaltung_02.png'
         image_alt: 'Tabelle mit Fahrzeugstammdaten, Kennzeichen, Laufleistung und verknüpften Vorgängen.'
       - headline: 'Fahrer und Nutzer strukturiert abbilden'  
-        text: 'Eine zweite Tabelle bündelt alle Fahrer und Mitarbeiter mit Kontaktdaten, Abteilung und ggf. Führerscheinklasse. Über Verknüpfungen zur Buchungstabelle sehen Sie, wer welche Fahrzeuge wann genutzt hat – ideal für Transparenz, Nachvollziehbarkeit und Auswertungen.'
+        text: 'Eine zweite Tabelle bündelt alle Fahrer und Mitarbeiter mit Kontaktdaten, Abteilung und ggf. Führerscheinklasse. Über Verknüpfungen zur Buchungstabelle sehen Sie, **wer welche Fahrzeuge wann genutzt hat** – ideal für Transparenz, Nachvollziehbarkeit und Auswertungen.'
         image: '/images/template_page_fuhrparkverwaltung_03.png'
         image_alt: 'Tabelle mit Fahrern, Kontaktdaten und verknüpften Fahrzeugbuchungen.'
       - headline: 'Buchungen und Reservierungen steuern'
-        text: 'In einer dritten Tabelle verwalten Sie alle Buchungen und Reservierungen. Mitarbeiter senden ihre Anfragen über ein Web-Formular; in Ihrem digitalen Flottenmanagment ergänzen Sie Status, Freigaben und Fahrzeugzuordnung. Über Timeline-Ansichten prüfen Sie Verfügbarkeiten und vermeiden Doppelbuchungen – deutlich effizienter als eine Fuhrparkmanagement Excel‑Liste.'
+        text: 'In einer dritten Tabelle verwalten Sie alle Buchungen und Reservierungen. Mitarbeiter senden ihre **Anfragen über ein Web-Formular**; in Ihrem digitalen Flottenmanagment ergänzen Sie Status, Freigaben und Fahrzeugzuordnung. Über Timeline-Ansichten **prüfen Sie Verfügbarkeiten** und vermeiden Doppelbuchungen – deutlich effizienter als eine Fuhrparkmanagement Excel‑Liste.'
         image: '/images/template_page_fuhrparkverwaltung_04.png'
         image_alt: 'Tabelle mit Fahrzeugbuchungen, Zeiträumen und Status.'
       - headline: 'Übergabeprotokolle, Schäden und Termine dokumentieren'
-        text: 'Weitere Tabellen dienen der Dokumentation von Übergaben, Rücknahmen, Schäden, Reparaturen und Pflichtterminen. Verknüpfen Sie Protokolle mit Fahrzeugen und Buchungen, erfassen Sie Kosten und erhalten Sie automatisch Erinnerungen vor wichtigen Terminen wie HU, UVV oder Reifenwechsel – so bleibt Ihre digitale Fuhrparkverwaltung vollständig und revisionssicher.'
+        text: 'Weitere Tabellen dienen der Dokumentation von Übergaben, Rücknahmen, Schäden, Reparaturen und Pflichtterminen. Verknüpfen Sie Protokolle mit Fahrzeugen und Buchungen, erfassen Sie Kosten und **erhalten Sie automatisch Erinnerungen** vor wichtigen Terminen wie HU, UVV oder Reifenwechsel – so bleibt Ihre digitale Fuhrparkverwaltung vollständig und revisionssicher.'
         image: '/images/template_page_fuhrparkverwaltung_05.png'
         image_alt: 'Tabelle mit Übergabeprotokollen, Schäden und verknüpften Reparaturen.'
             
@@ -135,22 +135,22 @@ sections:
       description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Fuhrparkverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Flottenalltag, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Auswertungen, Optimierung und strategische Entscheidungen im Fuhrparkmanagement.'
       items:
       - headline: 'Klassifizierung mit Classify'
-        text: 'Mit Classify ordnen Sie neue Fahrzeuge oder Buchungsanfragen automatisch nach Typ, Einsatzbereich oder Standort zu. So landen Datensätze direkt in der richtigen Kategorie und Sie sehen sofort, welche Teile Ihrer Flotte besonders stark genutzt werden.'
+        text: 'Mit Classify ordnen Sie neue Fahrzeuge oder Buchungsanfragen automatisch nach **Typ, Einsatzbereich oder Standort** zu. So landen Datensätze direkt in der richtigen Kategorie und Sie sehen sofort, welche Teile Ihrer Flotte besonders stark genutzt werden.'
         icon: table
       - headline: 'Datenextraktion mit Extract'
-        text: 'Mit Extract ziehen Sie aus Werkstattrechnungen, Schadensberichten oder E-Mails automatisch Informationen wie Kosten, Kilometerstände oder Schadensarten. Die erkannten Werte landen strukturiert in Feldern Ihrer Tabelle und erleichtern Auswertungen und Kostenkontrolle erheblich.'
+        text: 'Mit Extract **ziehen Sie aus Werkstattrechnungen, Schadensberichten oder E-Mails automatisch Informationen** wie Kosten, Kilometerstände oder Schadensarten. Die erkannten Werte landen strukturiert in Feldern Ihrer Tabelle und erleichtern Auswertungen und Kostenkontrolle erheblich.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Mit OCR erkennen Sie Texte aus Scans von Rechnungen, Übergabeprotokollen oder Fahrtenbüchern automatisch und übernehmen Inhalte direkt in Ihre digitale Fuhrparkübersicht. Kennzeichen, Beträge, Kilometer oder Daten stehen so ohne manuelles Abtippen zur Verfügung.'
+        text: 'Mit OCR erkennen Sie **Texte aus Scans von Rechnungen, Übergabeprotokollen oder Fahrtenbüchern automatisch** und übernehmen Inhalte direkt in Ihre digitale Fuhrparkübersicht. Kennzeichen, Beträge, Kilometer oder Daten stehen so ohne manuelles Abtippen zur Verfügung.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
-        text: 'Mit Summarize fassen Sie umfangreiche Schadensakten, E-Mail-Verläufe mit Werkstätten oder Monatsberichte automatisch in wenigen Sätzen zusammen. Sie erfassen den Kern komplexer Vorgänge schneller und bereiten Entscheidungen oder Management-Updates deutlich effizienter vor.'
+        text: 'Mit Summarize fassen Sie umfangreiche Schadensakten, E-Mail-Verläufe mit Werkstätten oder Monatsberichte automatisch in wenigen Sätzen zusammen. Sie **erfassen den Kern komplexer Vorgänge schneller** und bereiten Entscheidungen oder Management-Updates deutlich effizienter vor.'
         icon: circle-info
       - headline: 'Maßgeschneiderte Automatisierung mit Custom Prompt'
-        text: 'Mit Custom Prompt definieren Sie eigene KI-Anweisungen, die typische Routinen im Fuhrpark unterstützen – etwa Hinweise auf auffällige Kosten, Vorschläge zur Nutzung von Poolfahrzeugen oder automatisch formulierte Hinweise zu anstehenden Terminen in Ihrer Flotte.'
+        text: 'Mit Custom Prompt definieren Sie **eigene KI-Anweisungen**, die typische Routinen im Fuhrpark unterstützen – etwa Hinweise auf auffällige Kosten, Vorschläge zur Nutzung von Poolfahrzeugen oder automatisch formulierte Hinweise zu anstehenden Terminen in Ihrer Flotte.'
         icon: wand-magic-sparkles
       - headline: 'Status- und Kostenübersichten auf Knopfdruck'
-        text: 'Mit KI-gestützten Status- und Kostenübersichten erzeugen Sie automatisch verständliche Analysen zu Auslastung, Kosten, Reparaturhäufigkeit und Terminstatus nach Fahrzeug, Standort oder Zeitraum. Die KI hebt Auffälligkeiten hervor, damit Sie Potenziale und Risiken frühzeitig erkennen.'
+        text: 'Mit KI-gestützten Status- und Kostenübersichten **erzeugen Sie automatisch verständliche Analysen** zu Auslastung, Kosten, Reparaturhäufigkeit und Terminstatus nach Fahrzeug, Standort oder Zeitraum. Die KI hebt Auffälligkeiten hervor, damit Sie Potenziale und Risiken frühzeitig erkennen.'
         icon: arrow-right
         
         
