@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Plantilla de gestión de flotas para su flota de vehículos'
       subtitle: Utilizar la gestión digital de flotas en línea

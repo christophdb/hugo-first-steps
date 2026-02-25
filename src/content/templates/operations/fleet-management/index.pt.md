@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Modelo de gestão de frota para a sua frota de veículos'
       subtitle: Utilizar a gestão digital de frotas online
