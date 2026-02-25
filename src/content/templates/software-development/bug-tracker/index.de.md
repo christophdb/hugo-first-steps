@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Bug Tracker System für effizientes Software Testing'
       subtitle: Bug Tracking online nutzen

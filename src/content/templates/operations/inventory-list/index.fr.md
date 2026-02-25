@@ -25,7 +25,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Logiciel de gestion des stocks pour votre entreprise'
       subtitle: Utiliser la liste d'inventaire en ligne

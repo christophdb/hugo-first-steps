@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Mantenga una visión general con nuestra plantilla de diario de alimentos'
       subtitle: Diario digital de alimentos

@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Sistema de seguimiento de errores para pruebas de software eficientes'
       subtitle: Utilizar el seguimiento de errores en línea

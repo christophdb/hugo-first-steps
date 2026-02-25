@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: "Outil d'analyse SWOT pour la planification stratégique"
       subtitle: Effectuer une analyse SWOT en ligne

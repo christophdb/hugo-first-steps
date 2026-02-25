@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Kanban board software for agile teams'
       subtitle: Use Kanban Board online

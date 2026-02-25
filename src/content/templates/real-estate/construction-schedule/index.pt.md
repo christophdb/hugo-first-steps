@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'O que o seu modelo de calendário de construção pode fazer por si'
       subtitle: Visão global, flexibilidade, transparência

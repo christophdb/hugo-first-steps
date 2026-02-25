@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'La solución CRM para un mayor éxito'
       subtitle: Seguridad, visión general, automatización

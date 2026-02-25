@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Logiciel de tableau Kanban pour les équipes agiles'
       subtitle: Utiliser le tableau Kanban en ligne

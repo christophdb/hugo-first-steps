@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Список инвентаря программного обеспечения для вашей компании'
       subtitle: 'Использование инвентарного списка в режиме онлайн'

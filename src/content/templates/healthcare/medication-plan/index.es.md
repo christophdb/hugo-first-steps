@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Lo que la plantilla del plan de medicación puede hacer por usted'
       subtitle: Seguridad, visión general, comodidad

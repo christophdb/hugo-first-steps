@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Qué puede hacer por usted su plantilla de calendario de construcción'
       subtitle: Visión general, flexibilidad, transparencia

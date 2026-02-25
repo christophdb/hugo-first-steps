@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Carnet de bord numérique pour les entreprises'
       subtitle: Tenir un carnet de bord en ligne

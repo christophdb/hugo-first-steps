@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'What the medication plan template can do for you'
       subtitle: Safety, overview, comfort

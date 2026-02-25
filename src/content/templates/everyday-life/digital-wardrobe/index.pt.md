@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: Acompanhe tudo com o nosso aplicativo de guarda-roupa digital
       subtitle: Planeie as suas roupas

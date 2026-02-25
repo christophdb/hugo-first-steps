@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Herramienta de análisis DAFO para la planificación estratégica'
       subtitle: Realizar un análisis DAFO en línea

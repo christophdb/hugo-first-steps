@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Mantenha uma visão geral com o nosso modelo de diário alimentar'
       subtitle: Diário alimentar digital

@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: O que o modelo de plano de medicação pode fazer por si
       subtitle: Segurança, visão geral, conforto

@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Das kann Ihre Bauzeitenplan Vorlage für Sie'
       subtitle: Übersicht, Flexibilität, Transparenz

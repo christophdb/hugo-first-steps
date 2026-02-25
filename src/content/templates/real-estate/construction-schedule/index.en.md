@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'What your construction schedule template can do for you'
       subtitle: Overview, flexibility, transparency
