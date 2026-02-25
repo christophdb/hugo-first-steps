@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Libro de ruta digital para empresas'
       subtitle: Llevar un libro de ruta online

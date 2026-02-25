@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Modèle de plan de structure de projet pour votre projet'
       subtitle: Utiliser la planification de projet en ligne

@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Ваше программное обеспечение для управления складом в облаке'
       subtitle: Интуитивно понятный, гибкий, безопасный

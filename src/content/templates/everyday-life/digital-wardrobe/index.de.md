@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Behalten Sie mit unserer digitalen Kleiderschrank-App den Überblick'
       subtitle: Outfits planen

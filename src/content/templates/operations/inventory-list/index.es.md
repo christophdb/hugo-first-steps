@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Lista de inventario de software para su empresa'
       subtitle: Utilizar la lista de inventario en línea

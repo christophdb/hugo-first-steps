@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Plantilla del plan de estructura del proyecto para su proyecto'
       subtitle: Utilizar la planificación de proyectos en línea

@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Su calculadora NPS para un control total de los datos'
       subtitle: Intuitivo, flexible, sin complicaciones

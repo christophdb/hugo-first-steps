@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: "Ce que votre modèle de calendrier de construction peut faire pour vous"
       subtitle: "Vue d'ensemble, flexibilité, transparence"

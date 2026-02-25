@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'CRM-решение для достижения большего успеха'
       subtitle: Безопасность, обзор, автоматизация

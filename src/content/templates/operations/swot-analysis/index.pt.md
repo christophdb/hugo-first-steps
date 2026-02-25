@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: "Ferramenta de análise SWOT para o planeamento estratégico"
       subtitle: Realizar uma análise SWOT online

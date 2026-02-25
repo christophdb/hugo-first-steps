@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'O seu software de gestão de armazéns na nuvem'
       subtitle: Intuitivo, flexível, seguro

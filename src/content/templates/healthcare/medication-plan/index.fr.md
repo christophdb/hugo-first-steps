@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: "Ce que le modèle de plan de médication peut faire pour vous"
       subtitle: "Sécurité, vue d'ensemble, confort"

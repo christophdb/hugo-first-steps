@@ -24,7 +24,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: "Gardez une vue d'ensemble grâce à notre modèle de journal alimentaire"
       subtitle: Journal alimentaire numérique

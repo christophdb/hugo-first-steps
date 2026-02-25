@@ -27,7 +27,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Шаблон для составления предложений для структурированных процессов предложения'
       subtitle:  Составить предложение онлайн
