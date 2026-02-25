@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Modelo de elaboração de propostas do SeaTable'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o nosso modelo de elaboração de propostas, digitalize o seu processo de proposta e represente fluxos de trabalho de vendas complexos, desde o primeiro contacto até à confirmação da encomenda.'
+      description: 'A solução de IA no-code SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o nosso modelo de elaboração de propostas, digitalize o seu processo de proposta e represente fluxos de trabalho de vendas complexos, desde o primeiro contacto até à confirmação da encomenda.'
       items:
       - text: 'Obtenha a sua oferta mais rapidamente: utilize modelos de oferta predefinidos, dados de produtos e clientes associados, bem como cálculos automáticos de descontos e impostos – assim, poderá elaborar ofertas em minutos, em vez de horas.'
       - text: 'Tudo num único local: o modelo de proposta reúne todas as informações relevantes num único local, para que as equipas de vendas, a administração e o back office possam trabalhar sempre com os mesmos dados atualizados.'
@@ -116,7 +116,7 @@ sections:
       title: 'A sua aplicação de ofertas personalizada'
       subtitle: 
       items:
-      - text: 'Com o No-Code App Builder integrado do SeaTable, pode transformar o modelo de elaboração de propostas numa aplicação de propostas personalizada. Crie formulários web para novos pedidos de orçamento, interfaces guiadas para vendas e visualizações Kanban para o estado dos orçamentos, como «novo», «enviado», «em negociação» ou «ganho», e partilhe visualizações específicas com partes interessadas internas e externas. Assim, o modelo de orçamento torna-se o centro nevrálgico das suas vendas.'
+      - text: 'Com o no-code App Builder integrado do SeaTable, pode transformar o modelo de elaboração de propostas numa aplicação de propostas personalizada. Crie formulários web para novos pedidos de orçamento, interfaces guiadas para vendas e visualizações Kanban para o estado dos orçamentos, como «novo», «enviado», «em negociação» ou «ganho», e partilhe visualizações específicas com partes interessadas internas e externas. Assim, o modelo de orçamento torna-se o centro nevrálgico das suas vendas.'
       image: '/images/template_page_angebot_06.png'
       image_alt: 'Aplicação de ofertas no SeaTable App Builder com formulários, quadro Kanban e interface de vendas guiada'
 
@@ -160,7 +160,7 @@ sections:
        - bg-gray-100
       title: 'Modelo de oferta para pequenos empresários e médias empresas'
       subtitle: 'Segurança e transparência'
-      description: 'O SeaTable é uma solução moderna de base de dados sem código com IA, com automatizações e criador de aplicações, oferecendo todas as funcionalidades necessárias para um processo de cotação digital e integrado. Seja um modelo de cotação para pequenos empresários ou uma equipa de vendas em médias empresas, a proteção dos seus dados é a nossa prioridade.'
+      description: 'O SeaTable é uma solução no-code moderna de base de dados com IA, com automatizações e criador de aplicações, oferecendo todas as funcionalidades necessárias para um processo de cotação digital e integrado. Seja um modelo de cotação para pequenos empresários ou uma equipa de vendas em médias empresas, a proteção dos seus dados é a nossa prioridade.'
       box-position: [right!]
       items:
       - headline: Em conformidade com o RGPD

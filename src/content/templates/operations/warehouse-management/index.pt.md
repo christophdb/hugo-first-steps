@@ -73,7 +73,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Gestão simples de armazéns em linha com o SeaTable'
       subtitle: 'Aplicação para gestão de armazéns'
-      description: 'A solução SeaTable no-code impressiona pela sua flexibilidade e personalização. Isto significa que mesmo os processos dinâmicos podem ser facilmente mapeados no seu software de gestão de armazém.'
+      description: 'A no-code solução SeaTable impressiona pela sua flexibilidade e personalização. Isto significa que mesmo os processos dinâmicos podem ser facilmente mapeados no seu software de gestão de armazém.'
       items:
       - text: 'Dados actualizados: As alterações de stock podem ser introduzidas rapidamente e ficam imediatamente disponíveis para todos.'
       - text: 'Colaboração real: trabalhe em conjunto com os dados como uma equipa - sem atrasos ou falhas no sistema.'
@@ -81,7 +81,7 @@ sections:
       - text: '[Integrações simples]({{< relref "pages/integrations" >}}): Com a API SeaTable, pode integrar facilmente fornecedores terceiros, tais como fornecedores de serviços de transporte ou plataformas de comércio eletrónico.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
-      image_alt: 'Aplicação SeaTable para gestão de armazéns com solução flexível sem código, introdução de dados em tempo real e colaboração entre equipas.'
+      image_alt: 'Aplicação SeaTable para gestão de armazéns com no-code solução flexível, introdução de dados em tempo real e colaboração entre equipas.'
 
     - name: "content-25"
       weight: 10
@@ -113,9 +113,9 @@ sections:
       title: 'Aplicação front-end clara para gestão de armazéns'
       subtitle: 
       items:
-      - text: 'Utilize a aplicação universal sem código como um front end online de gestão de armazém e crie formulários, visualizações claras ou painéis de controlo com KPIs relevantes para as suas análises com apenas alguns cliques. A consulta de stocks e armazéns fornece informações específicas sobre produtos individuais ou informações de ocupação sobre locais de armazenamento - sem necessidade de pesquisas manuais complicadas.'
+      - text: 'Utilize a aplicação no-code como um front end online de gestão de armazém e crie formulários, visualizações claras ou painéis de controlo com KPIs relevantes para as suas análises com apenas alguns cliques. A consulta de stocks e armazéns fornece informações específicas sobre produtos individuais ou informações de ocupação sobre locais de armazenamento - sem necessidade de pesquisas manuais complicadas.'
       image: '/images/template_page_lagerverwaltung_06.jpg'
-      image_alt: 'SeaTable No-Code Universal App como front end para a gestão do armazém com formulários, painéis de KPI e consultas de stock específicas'
+      image_alt: 'SeaTable app no-code como front end para a gestão do armazém com formulários, painéis de KPI e consultas de stock específicas'
 
     - name: "banner-3"
       weight: 12
@@ -157,7 +157,7 @@ sections:
        - bg-gray-100
       title: 'O seu software de gestão de armazéns da SeaTable'
       subtitle: 'Gestão de armazéns em linha'
-      description: 'Com o software de gestão de armazéns SeaTable, pode registar tudo numa base de dados flexível e sem código e ter sempre uma visão geral. Graças às estatísticas integradas, pode analisar, por exemplo, a taxa de rotação das existências, o intervalo de armazenamento ou a taxa de utilização do espaço de armazenamento em tempo real.'
+      description: 'Com o software de gestão de armazéns SeaTable, pode registar tudo numa no-code base de dados flexível e ter sempre uma visão geral. Graças às estatísticas integradas, pode analisar, por exemplo, a taxa de rotação das existências, o intervalo de armazenamento ou a taxa de utilização do espaço de armazenamento em tempo real.'
       box-position: [right!]
       items:
       - headline: Produtividade

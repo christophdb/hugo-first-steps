@@ -73,7 +73,7 @@ sections:
        - bg-gray-100
       title: 'Mit SeaTable zum digitalen Ernährungstagebuch'
       subtitle: 'Ihre Vorteile mit SeaTable'
-      description: 'SeaTable bietet eine einzigartige Kombination aus vertrauter Tabellenoberfläche, den erweiterten Funktionen einer No-Code-Datenbank und einem Universal App-Builder. Erstellen Sie Ihre eigene Ernährungsprotokoll App kostenlos mit wenigen Klicks und behalten Sie den Überbclik über Ihre Essgewohnheiten.'
+      description: 'SeaTable bietet eine einzigartige Kombination aus vertrauter Tabellenoberfläche, den erweiterten Funktionen einer No-Code Datenbank und einem Universal App-Builder. Erstellen Sie Ihre eigene Ernährungsprotokoll App kostenlos mit wenigen Klicks und behalten Sie den Überbclik über Ihre Essgewohnheiten.'
       box-position: [right!]
       items:
       - headline: Allergien erkennen

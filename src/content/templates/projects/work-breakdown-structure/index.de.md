@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Projektstrukturplanung Vorlage online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Projektstrukturplanung Vorlage planen Sie Projekte von der Grobstruktur bis zur Einzelaufgabe, behalten Ressourcen im Blick und schaffen eine gemeinsame Grundlage für die Projektstrukturplanung im gesamten Team – mit Funktionen, die viele Teams sonst nur von Asana und ähnlichen [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) kennen, jedoch deutlich flexibler und datenbankbasiert.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Projektstrukturplanung Vorlage planen Sie Projekte von der Grobstruktur bis zur Einzelaufgabe, behalten Ressourcen im Blick und schaffen eine gemeinsame Grundlage für die Projektstrukturplanung im gesamten Team – mit Funktionen, die viele Teams sonst nur von Asana und ähnlichen [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) kennen, jedoch deutlich flexibler und datenbankbasiert.'
       items:
       - text: 'Stets aktuell: Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleiben Ihre Projektstrukturplan Vorlagen immer auf dem neuesten Stand – vom ersten Projektstrukturplan Beispiel bis zur laufenden Umsetzung.'
       - text: 'Zugriff von überall: Mit einer online geführten Projektstrukturplanung Vorlage haben Sie jederzeit Zugriff auf Ihren Projektstrukturplan – im Büro, im Homeoffice oder beim Kunden.'
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Projektstrukturplan Vorlage für jeden Anwendungsfall'
       subtitle: 'Transparenz und Zusammenarbeit'
-      description: 'SeaTable ist eine moderne KI No-Code-Datenbanklösung mit Automatisierungen und App Builder und bietet alle Funktionen, die Sie für professionelle Projektstrukturplan Vorlagen benötigen. Im Mittelpunkt stehen Nachvollziehbarkeit, Teamwork und flexible Anpassung bei höchsten Sicherheitsstandards – von der ersten Projektstrukturplan Vorlage bis zur skalierbaren Multi-Projektumgebung'
+      description: 'SeaTable ist eine moderne KI No-Code Datenbanklösung mit Automatisierungen und App Builder und bietet alle Funktionen, die Sie für professionelle Projektstrukturplan Vorlagen benötigen. Im Mittelpunkt stehen Nachvollziehbarkeit, Teamwork und flexible Anpassung bei höchsten Sicherheitsstandards – von der ersten Projektstrukturplan Vorlage bis zur skalierbaren Multi-Projektumgebung.'
       box-position: [right!]
       items:
       - headline: DSGVO-konform

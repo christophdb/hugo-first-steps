@@ -73,7 +73,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Gestión sencilla de almacenes en línea con SeaTable'
       subtitle: 'App para la gestión de almacenes'
-      description: 'La solución sin código SeaTable impresiona por su flexibilidad y capacidad de personalización. Esto significa que incluso los procesos dinámicos pueden mapearse fácilmente en su software de gestión de almacenes.'
+      description: 'La no-code solución SeaTable impresiona por su flexibilidad y capacidad de personalización. Esto significa que incluso los procesos dinámicos pueden mapearse fácilmente en su software de gestión de almacenes.'
       items:
       - text: 'Datos actualizados: Los cambios en las existencias pueden introducirse rápidamente y están disponibles de inmediato para todos.'
       - text: 'Colaboración real: trabaje con los datos en equipo, sin retrasos ni caídas del sistema.'
@@ -81,7 +81,7 @@ sections:
       - text: '[Integraciones sencillas]({{< relref "pages/integrations" >}}): Con la API de SeaTable, los proveedores externos, como los proveedores de servicios de envío o las plataformas de comercio electrónico, pueden integrarse fácilmente.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
-      image_alt: 'SeaTable app para la gestión de almacenes con solución flexible sin código, entrada de datos en tiempo real y colaboración en equipo'
+      image_alt: 'SeaTable app para la gestión de almacenes con no-code solución flexible, entrada de datos en tiempo real y colaboración en equipo'
 
     - name: "content-25"
       weight: 10
@@ -113,9 +113,9 @@ sections:
       title: 'Una aplicación clara para la gestión de almacenes'
       subtitle: 
       items:
-      - text: 'Utilice la aplicación universal sin código como interfaz en línea de gestión de almacenes y cree formularios, vistas claras o cuadros de mando con los KPI relevantes para sus análisis con sólo unos clics. La consulta de existencias y almacenes proporciona información específica sobre productos individuales o información de ocupación sobre ubicaciones de almacenamiento, sin necesidad de engorrosas búsquedas manuales.'
+      - text: 'Utilice la aplicación no-code como interfaz en línea de gestión de almacenes y cree formularios, vistas claras o cuadros de mando con los KPI relevantes para sus análisis con sólo unos clics. La consulta de existencias y almacenes proporciona información específica sobre productos individuales o información de ocupación sobre ubicaciones de almacenamiento, sin necesidad de engorrosas búsquedas manuales.'
       image: '/images/template_page_lagerverwaltung_06.jpg'
-      image_alt: 'SeaTable No-Code Universal App como front-end para la gestión del almacén con formularios, cuadros de mando de KPI y consultas de existencias específicas'
+      image_alt: 'SeaTable no-code app como front-end para la gestión del almacén con formularios, cuadros de mando de KPI y consultas de existencias específicas'
 
     - name: "banner-3"
       weight: 12
@@ -157,7 +157,7 @@ sections:
        - bg-gray-100
       title: 'Su software de gestión de almacenes de SeaTable'
       subtitle: 'Gestión de almacenes en línea'
-      description: 'Con el software de gestión de almacenes de SeaTable, lo registrará todo en una base de datos flexible sin códigos y tendrá siempre una visión de conjunto. Gracias a las estadísticas integradas, podrá analizar en tiempo real, por ejemplo, el índice de rotación de existencias, el alcance del almacenamiento o el índice de utilización del espacio de almacenamiento.'
+      description: 'Con el software de gestión de almacenes de SeaTable, lo registrará todo en una no-code base de datos flexible y tendrá siempre una visión de conjunto. Gracias a las estadísticas integradas, podrá analizar en tiempo real, por ejemplo, el índice de rotación de existencias, el alcance del almacenamiento o el índice de utilización del espacio de almacenamiento.'
       box-position: [right!]
       items:
       - headline: Productividad

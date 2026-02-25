@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilize o modelo de plano de estrutura do projeto online com o SeaTable'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o modelo de plano de estrutura do projeto, é possível planear projetos desde a estrutura geral até às tarefas individuais, manter os recursos sob controlo e criar uma base comum para o planeamento da estrutura do projeto em toda a equipa – com funcionalidades que muitas equipas normalmente só encontram no Asana e em outras ferramentas de [gestão de projetos]({{< relref "pages/industry-solutions/project-management" >}}) semelhante, mas significativamente mais flexível e baseado em banco de dados.'
+      description: 'A solução de IA no-code SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o modelo de plano de estrutura do projeto, é possível planear projetos desde a estrutura geral até às tarefas individuais, manter os recursos sob controlo e criar uma base comum para o planeamento da estrutura do projeto em toda a equipa – com funcionalidades que muitas equipas normalmente só encontram no Asana e em outras ferramentas de [gestão de projetos]({{< relref "pages/industry-solutions/project-management" >}}) semelhante, mas significativamente mais flexível e baseado em banco de dados.'
       items:
       - text: 'Sempre atualizado: graças aos comentários, ao histórico de alterações e à atualização em tempo real, os seus modelos de plano de estrutura do projeto permanecem sempre atualizados – desde o primeiro exemplo de plano de estrutura do projeto até à implementação contínua.'
       - text: 'Acesso a partir de qualquer lugar: com um modelo de planeamento da estrutura do projeto online, tem acesso ao seu plano de estrutura do projeto a qualquer momento – no escritório, em casa ou na casa do cliente.'
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Modelo de plano de estrutura do projeto para cada caso de aplicação'
       subtitle: 'Transparência e cooperação'
-      description: 'O SeaTable é uma solução moderna de base de dados sem código com IA, com automatizações e criador de aplicações, e oferece todas as funcionalidades necessárias para modelos profissionais de estrutura de projeto. O foco está na rastreabilidade, trabalho em equipa e personalização flexível com os mais elevados padrões de segurança – desde o primeiro modelo de estrutura de projeto até um ambiente escalável para múltiplos projetos.'
+      description: 'O SeaTable é uma no-code solução moderna de base de dados com IA, com automatizações e criador de aplicações, e oferece todas as funcionalidades necessárias para modelos profissionais de estrutura de projeto. O foco está na rastreabilidade, trabalho em equipa e personalização flexível com os mais elevados padrões de segurança – desde o primeiro modelo de estrutura de projeto até um ambiente escalável para múltiplos projetos.'
       box-position: [right!]
       items:
       - headline: Em conformidade com o RGPD

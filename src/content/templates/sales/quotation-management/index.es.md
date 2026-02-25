@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Plantilla para redactar ofertas de SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La solución de IA sin código SeaTable destaca por su flexibilidad y adaptabilidad. Con nuestra plantilla para redactar ofertas, digitalizará su proceso de oferta y podrá representar incluso flujos de trabajo de ventas complejos, desde el primer contacto hasta la confirmación del pedido.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad. Con nuestra plantilla para redactar ofertas, digitalizará su proceso de oferta y podrá representar incluso flujos de trabajo de ventas complejos, desde el primer contacto hasta la confirmación del pedido.'
       items:
       - text: 'Ofertas más rápidas: utilice plantillas de oferta predefinidas, datos de productos y clientes vinculados, así como cálculos automáticos de descuentos e impuestos, para redactar ofertas en cuestión de minutos en lugar de horas.'
       - text: 'Todo en un solo lugar: la plantilla para redactar ofertas reúne toda la información relevante en un solo lugar, de modo que los departamentos de ventas, dirección y administración siempre trabajan con los mismos datos actualizados.'
@@ -117,7 +117,7 @@ sections:
       title: 'Su aplicación de ofertas personalizada'
       subtitle: 
       items:
-      - text: 'Con el generador de aplicaciones sin código integrado de SeaTable, puede convertir la plantilla para redactar ofertas en una aplicación de ofertas personalizada. Cree formularios web para nuevas solicitudes de oferta, interfaces guiadas para ventas y vistas Kanban para el estado de las ofertas, como «nueva», «enviada», «en negociación» o «ganada», y comparta vistas específicas con las partes interesadas internas y externas. De este modo, la plantilla para redactar ofertas se convierte en el centro neurálgico de sus ventas.'
+      - text: 'Con el generador de aplicaciones no-code integrado de SeaTable, puede convertir la plantilla para redactar ofertas en una aplicación de ofertas personalizada. Cree formularios web para nuevas solicitudes de oferta, interfaces guiadas para ventas y vistas Kanban para el estado de las ofertas, como «nueva», «enviada», «en negociación» o «ganada», y comparta vistas específicas con las partes interesadas internas y externas. De este modo, la plantilla para redactar ofertas se convierte en el centro neurálgico de sus ventas.'
       image: '/images/template_page_angebot_06.png'
       image_alt: 'Aplicación de ofertas en SeaTable App Builder con formularios, tablero Kanban e interfaz de ventas guiada.'
 
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Plantilla de oferta para pequeñas empresas y medianas empresas'
       subtitle: 'Seguridad y transparencia'
-      description: 'SeaTable es una moderna solución de base de datos sin código con inteligencia artificial, automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para un proceso de oferta digital e integrado. Ya sea una pequeña empresa o un equipo de ventas de una mediana empresa, la protección de sus datos es nuestra prioridad.'
+      description: 'SeaTable es una moderna solución no-code de base de datos con inteligencia artificial, automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para un proceso de oferta digital e integrado. Ya sea una pequeña empresa o un equipo de ventas de una mediana empresa, la protección de sus datos es nuestra prioridad.'
       box-position: [right!]
       items:
       - headline: Conforme al RGPD

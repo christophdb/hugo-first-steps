@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'NPS-Rechner in Ihre Systeme integrieren mit SeaTable'
       subtitle: 'Kundenzufriedenheit mit Net Promoter Score bewerten'
-      description: 'Die AI No Code Datenbank SeaTable bietet alle Funktionen, die Sie für einen [NPS Rechner]({{< relref "posts/net-promoter-score" >}}) benötigen – und ist dabei so einfach wie eine Tabellenkalkulation.'
+      description: 'Die AI No-Code Datenbank SeaTable bietet alle Funktionen, die Sie für einen [NPS Rechner]({{< relref "posts/net-promoter-score" >}}) benötigen – und ist dabei so einfach wie eine Tabellenkalkulation.'
       items:
       - text: 'Aktuelle Daten: Alle neuen Formulareinsendungen sind sofort im Backend sichtbar und können unmittelbar weiterverarbeitet werden.'
       - text: 'Echte Kollaboration: Arbeiten Sie im Team gemeinsam an Ihren Daten – ohne Zeitverzögerungen oder Inkonsistenzen.'
@@ -150,7 +150,7 @@ sections:
        - bg-gray-100
       title: 'NPS Rechner für jeden Anwendungsfall'
       subtitle: 'Cloud oder On-Premises'
-      description: 'SeaTable ist eine moderne AI No Code Datenbanklösung mit App Builder und bietet alle Funktionen, die Sie für ein digitales, integriertes Umfrage-Tool benötigen. Sie entscheiden, wie Sie SeaTable nutzen.'
+      description: 'SeaTable ist eine moderne AI No-Code Datenbanklösung mit App Builder und bietet alle Funktionen, die Sie für ein digitales, integriertes Umfrage-Tool benötigen. Sie entscheiden, wie Sie SeaTable nutzen.'
       box-position: [right!]
       items:
       - headline: DSGVO-konform

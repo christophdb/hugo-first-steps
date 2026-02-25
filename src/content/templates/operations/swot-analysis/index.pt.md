@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Realizar uma análise SWOT digitalmente com o SeaTable'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução SeaTable, baseada em IA e sem código, destaca-se pela sua flexibilidade, transparência e colaboração em tempo real. Com o nosso modelo de análise SWOT, beneficia de atualizações em tempo real, priorizações visuais Kanban e derivação direta de estratégias – para um planeamento empresarial que realmente funciona: no portfólio de projetos, nas estratégias de marketing, nas operações diárias e ao nível C. Se até agora utilizava um modelo de análise SWOT [Excel]({{< relref "pages/excel-alternative" >}}) Se trabalhou com o Google Sheets, poderá importar os seus dados em poucos passos e continuar a utilizá-los no SeaTable como uma solução moderna e colaborativa.'
+      description: 'A solução SeaTable, baseada em IA no-code, destaca-se pela sua flexibilidade, transparência e colaboração em tempo real. Com o nosso modelo de análise SWOT, beneficia de atualizações em tempo real, priorizações visuais Kanban e derivação direta de estratégias – para um planeamento empresarial que realmente funciona: no portfólio de projetos, nas estratégias de marketing, nas operações diárias e ao nível C. Se até agora utilizava um modelo de análise SWOT [Excel]({{< relref "pages/excel-alternative" >}}) Se trabalhou com o Google Sheets, poderá importar os seus dados em poucos passos e continuar a utilizá-los no SeaTable como uma solução moderna e colaborativa.'
       items:
       - text: 'Colaboração em tempo real: toda a sua equipa trabalha em sincronia numa [análise SWOT]({{< relref "posts/swot-analyse" >}}) – Desde a gestão de projetos e marketing, passando pelas operações, até à gestão.'
       - text: 'Torne as estratégias visíveis: com a visualização Kanban integrada, é possível visualizar os fatores SWOT e priorizá-los através de arrastar e soltar – ideal para workshops, apresentações da diretoria e debates estratégicos.'
@@ -115,7 +115,7 @@ sections:
       title: 'Crie o seu painel SWOT com o App Builder'
       subtitle: 
       items:
-      - text: 'Com o No-Code App Builder integrado do SeaTable, é possível criar facilmente a sua interface estratégica personalizada. Utilize o formulário web para a introdução colaborativa de fatores SWOT, crie diferentes visualizações para diferentes perspetivas – por exemplo, uma visualização de gestão com quadro Kanban para prioridades, visualizações detalhadas para gestores de projeto e gestores de marketing, bem como resumos operacionais para a equipa de operações – todos a trabalhar com a mesma base de dados. Partilhe os seus resultados SWOT com as partes interessadas ou com a administração através de um link e utilize autorizações granulares para garantir a confidencialidade. A proteção por palavra-passe e o acesso definido pelo utilizador oferecem segurança adicional.'
+      - text: 'Com o no-code App Builder integrado do SeaTable, é possível criar facilmente a sua interface estratégica personalizada. Utilize o formulário web para a introdução colaborativa de fatores SWOT, crie diferentes visualizações para diferentes perspetivas – por exemplo, uma visualização de gestão com quadro Kanban para prioridades, visualizações detalhadas para gestores de projeto e gestores de marketing, bem como resumos operacionais para a equipa de operações – todos a trabalhar com a mesma base de dados. Partilhe os seus resultados SWOT com as partes interessadas ou com a administração através de um link e utilize autorizações granulares para garantir a confidencialidade. A proteção por palavra-passe e o acesso definido pelo utilizador oferecem segurança adicional.'
       image: '/images/template_page_swot_06.jpg'
       image_alt: 'Visualização da aplicação de um painel SWOT com diferentes páginas para gestão, projetos e marketing'
 
@@ -158,7 +158,7 @@ sections:
        - bg-gray-100
       title: 'Segurança para os seus dados estratégicos'
       subtitle: 'Em conformidade com o RGPD e confidencial'
-      description: 'O SeaTable é uma plataforma moderna de IA sem código, com automações e criador de aplicações, que oferece todas as funcionalidades para o planeamento estratégico digital e confidencial. Para nós, a proteção das suas informações estratégicas é a nossa prioridade.'
+      description: 'O SeaTable é uma plataforma moderna de IA no-code, com automações e criador de aplicações, que oferece todas as funcionalidades para o planeamento estratégico digital e confidencial. Para nós, a proteção das suas informações estratégicas é a nossa prioridade.'
       box-position: [right!]
       items:
       - headline: 'Em conformidade com o RGPD'

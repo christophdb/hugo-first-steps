@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utiliser le modèle de plan de structure de projet en ligne avec SeaTable'
       subtitle: 'Vos avantages en bref'
-      description: 'La solution IA sans code SeaTable séduit par sa flexibilité et son adaptabilité. Le modèle de plan de structure de projet vous permet de planifier vos projets, de la structure générale aux tâches individuelles, de garder un œil sur les ressources et de créer une base commune pour la planification de la structure du projet au sein de toute l équipe, avec des fonctionnalités que de nombreuses équipes ne trouvent autrement que dans Asana et d autres [outils de gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) similaires, mais nettement plus flexibles et basés sur une base de données.'
+      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et son adaptabilité. Le modèle de plan de structure de projet vous permet de planifier vos projets, de la structure générale aux tâches individuelles, de garder un œil sur les ressources et de créer une base commune pour la planification de la structure du projet au sein de toute l équipe, avec des fonctionnalités que de nombreuses équipes ne trouvent autrement que dans Asana et d autres [outils de gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) similaires, mais nettement plus flexibles et basés sur une base de données.'
       items:
       - text: "Toujours à jour : grâce aux commentaires, à l'historique des modifications et aux mises à jour en temps réel, vos modèles de plan de structure de projet sont toujours à jour, du premier exemple de plan de structure de projet à la mise en œuvre en cours."
       - text: "Accès depuis n'importe où : grâce à un modèle de planification de structure de projet en ligne, vous avez accès à tout moment à votre plan de structure de projet, que ce soit au bureau, en télétravail ou chez un client."
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: "Modèle de plan de structure de projet pour chaque cas d'utilisation"
       subtitle: 'Transparence et collaboration'
-      description: "SeaTable est une solution moderne de base de données sans code, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires pour créer des modèles de structure de projet professionnels. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité, tout en respectant les normes de sécurité les plus strictes, du premier modèle de structure de projet à l'environnement multi-projets évolutif."
+      description: "SeaTable est une no-code solution moderne de base de données, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires pour créer des modèles de structure de projet professionnels. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité, tout en respectant les normes de sécurité les plus strictes, du premier modèle de structure de projet à l'environnement multi-projets évolutif."
       box-position: [right!]
       items:
       - headline: Conforme au RGPD

@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilizar o sistema Bug Tracker online com o SeaTable'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução SeaTable, baseada em inteligência artificial e sem código, destaca-se pela sua flexibilidade e adaptabilidade. Com o nosso sistema Bug Tracker, pode reunir todas as informações sobre erros de software, testes e versões num único local, mapear os seus fluxos de trabalho de controlo de qualidade existentes sem programação e manter sempre uma visão geral, mesmo em projetos complexos.'
+      description: 'A IA no-code solução o SeaTable destaca-se pela sua flexibilidade e adaptabilidade. Com o nosso sistema Bug Tracker, pode reunir todas as informações sobre erros de software, testes e versões num único local, mapear os seus fluxos de trabalho de QA existentes sem programação e manter sempre uma visão geral, mesmo em projetos complexos.'
       items:
       - text: 'Sempre atualizado: mantenha-se sempre a par das falhas abertas e fechadas graças aos comentários, ao histórico completo de alterações e às atualizações em tempo real.'
       - text: 'Acesso a partir de qualquer lugar: com um sistema de rastreamento de erros online, o utilizador tem acesso a qualquer momento e mantém uma visão geral – no escritório, em casa ou no local do cliente.'
@@ -160,8 +160,7 @@ sections:
        - curved
        - bg-gray-100
       title: 'Sistema de rastreamento de erros para qualquer organização'
-      subtitle: 'Transparência e cooperação'
-      description: 'O SeaTable é uma solução moderna de base de dados sem código com IA, com automatizações e criador de aplicações, e oferece todas as funcionalidades necessárias para um sistema profissional de rastreamento de erros. O foco está na rastreabilidade, trabalho em equipa e personalização flexível com os mais elevados padrões de segurança.'
+      subtitle: 'SeaTable é uma IA no-code solução moderna de base de dados com automatizações e App Builder, oferecendo todas as funcionalidades necessárias para um sistema profissional de rastreamento de bugs. O foco está na rastreabilidade, trabalho em equipa e adaptação flexível, com os mais elevados padrões de segurança.'
       box-position: [right!]
       items:
       - headline: Em conformidade com o RGPD

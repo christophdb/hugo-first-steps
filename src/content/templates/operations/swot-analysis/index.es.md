@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Realizar un análisis DAFO digital con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La solución de IA sin código SeaTable destaca por su flexibilidad, transparencia y colaboración en tiempo real. Con nuestra plantilla de análisis DAFO, se beneficiará de actualizaciones en tiempo real, priorizaciones visuales Kanban y derivación directa de estrategias, para una planificación empresarial que realmente funciona: en la cartera de proyectos, en las estrategias de marketing, en las operaciones diarias y a nivel directivo. Si hasta ahora ha utilizado una plantilla de análisis DAFO [Excel]({{< relref "pages/excel-alternative" >}}) Si ha trabajado con Google Sheets, puede importar sus datos en unos pocos pasos y continuar utilizándolos en SeaTable como una solución moderna y colaborativa.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad, transparencia y colaboración en tiempo real. Con nuestra plantilla de análisis DAFO, se beneficiará de actualizaciones en tiempo real, priorizaciones visuales Kanban y derivación directa de estrategias, para una planificación empresarial que realmente funciona: en la cartera de proyectos, en las estrategias de marketing, en las operaciones diarias y a nivel directivo. Si hasta ahora ha utilizado una plantilla de análisis DAFO [Excel]({{< relref "pages/excel-alternative" >}}) Si ha trabajado con Google Sheets, puede importar sus datos en unos pocos pasos y continuar utilizándolos en SeaTable como una solución moderna y colaborativa.'
       items:
       - text: 'Colaboración en tiempo real: todo su equipo trabaja de forma sincronizada en un [análisis DAFO]({{< relref "posts/swot-analyse" >}}) – Desde la gestión de proyectos y el marketing hasta las operaciones y la gestión.'
       - text: 'Haga visibles las estrategias: con la vista Kanban integrada, puede visualizar los factores SWOT y priorizarlos mediante arrastrar y soltar, lo que resulta ideal para talleres, presentaciones a la junta directiva y debates estratégicos.'
@@ -116,7 +116,7 @@ sections:
       title: 'Cree su panel de control SWOT con el creador de aplicaciones'
       subtitle: 
       items:
-      - text: 'Con el generador de aplicaciones sin código integrado en SeaTable, puede crear su propia interfaz estratégica personalizada con muy poco esfuerzo. Utilice el formulario web para introducir de forma colaborativa los factores SWOT, cree diferentes vistas para distintas perspectivas, por ejemplo, una vista de gestión con un tablero Kanban para las prioridades, vistas detalladas para los gestores de proyectos y los responsables de marketing, así como resúmenes operativos para el equipo de operaciones, todos ellos trabajando con la misma base de datos. Comparta los resultados de su análisis DAFO con las partes interesadas o la junta directiva mediante un enlace y utilice permisos granulares para garantizar la confidencialidad. La protección con contraseña y los accesos definidos por el usuario ofrecen una seguridad adicional.'
+      - text: 'Con el generador de aplicaciones no-code integrado en SeaTable, puede crear su propia interfaz estratégica personalizada con muy poco esfuerzo. Utilice el formulario web para introducir de forma colaborativa los factores SWOT, cree diferentes vistas para distintas perspectivas, por ejemplo, una vista de gestión con un tablero Kanban para las prioridades, vistas detalladas para los gestores de proyectos y los responsables de marketing, así como resúmenes operativos para el equipo de operaciones, todos ellos trabajando con la misma base de datos. Comparta los resultados de su análisis DAFO con las partes interesadas o la junta directiva mediante un enlace y utilice permisos granulares para garantizar la confidencialidad. La protección con contraseña y los accesos definidos por el usuario ofrecen una seguridad adicional.'
       image: '/images/template_page_swot_06.jpg'
       image_alt: 'Vista de la aplicación de un panel SWOT con diferentes páginas para gestión, proyectos y marketing.'
 
@@ -159,7 +159,7 @@ sections:
        - bg-gray-100
       title: 'Seguridad para sus datos estratégicos'
       subtitle: 'Conforme al RGPD y confidencial'
-      description: 'SeaTable es una moderna plataforma de IA sin código con automatizaciones y creador de aplicaciones que ofrece todas las funciones necesarias para la planificación estratégica digital y confidencial. Para nosotros, la protección de su información estratégica es lo primero.'
+      description: 'SeaTable es una moderna plataforma de IA no-code con automatizaciones y creador de aplicaciones que ofrece todas las funciones necesarias para la planificación estratégica digital y confidencial. Para nosotros, la protección de su información estratégica es lo primero.'
       box-position: [right!]
       items:
       - headline: Conforme al RGPD

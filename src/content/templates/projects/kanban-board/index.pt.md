@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilize o quadro Kanban online com o SeaTable'
       subtitle: 'As suas vantagens'
-      description: 'A solução de IA sem código SeaTable impressiona pela sua flexibilidade e capacidade de personalização. Com o nosso modelo de quadro kanban, beneficia de muitas vantagens e pode também mapear processos dinâmicos.'
+      description: 'A solução de IA no-code SeaTable impressiona pela sua flexibilidade e capacidade de personalização. Com o nosso modelo de quadro kanban, beneficia de muitas vantagens e pode também mapear processos dinâmicos.'
       items:
       - text: 'Sempre atualizado: Mantenha-se sempre atualizado graças às funções de comunicação, ao histórico completo de alterações e à atualização em tempo real.'
       - text: 'Acesso a partir de qualquer lugar: Com um quadro Kanban online, pode aceder a qualquer momento e proteger os seus dados contra perda.'
@@ -115,7 +115,7 @@ sections:
       title: 'A sua aplicação Kanban personalizada'
       subtitle: 
       items:
-      - text: 'Com o construtor de aplicações sem código integrado do SeaTable, pode criar o seu front end Kanban personalizado com pouco esforço. Utilize o Kanban na gestão de projectos, por exemplo, e crie diferentes páginas e painéis de controlo para os colaboradores e as partes interessadas, partilhe os quadros com entidades externas através de uma ligação e guarde informações adicionais importantes. A proteção por palavra-passe e as autorizações definidas pelo utilizador oferecem segurança adicional.'
+      - text: 'Com o construtor de aplicações no-code integrado do SeaTable, pode criar o seu front end Kanban personalizado com pouco esforço. Utilize o Kanban na gestão de projectos, por exemplo, e crie diferentes páginas e painéis de controlo para os colaboradores e as partes interessadas, partilhe os quadros com entidades externas através de uma ligação e guarde informações adicionais importantes. A proteção por palavra-passe e as autorizações definidas pelo utilizador oferecem segurança adicional.'
       image: '/images/template_page_kanban_06.jpg'
       image_alt: 'Crie quadros Kanban e dashboards personalizados com o SeaTable App Builder - basta partilhar, guardar e utilizar de forma flexível para a gestão de projectos.'
 
@@ -158,7 +158,7 @@ sections:
        - bg-gray-100
       title: 'Software gratuito de quadros Kanban para todos os casos de utilização'
       subtitle: 'Segurança máxima'
-      description: 'O SeaTable é uma solução moderna de base de dados sem código de IA com automações e construtor de aplicações e oferece todas as funções de que necessita para uma ferramenta Kanban digital e integrada. A proteção dos seus dados é a nossa principal prioridade.'
+      description: 'O SeaTable é uma IA no-code solução moderna de base de dados com automações e construtor de aplicações e oferece todas as funções de que necessita para uma ferramenta Kanban digital e integrada. A proteção dos seus dados é a nossa principal prioridade.'
       box-position: [right!]
       items:
       - headline: Em conformidade com o RGPD

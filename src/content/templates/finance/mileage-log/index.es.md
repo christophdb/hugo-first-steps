@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Lleve su libro de ruta online con SeaTable'
       subtitle: 'Sus ventajas'
-      description: 'La solución de IA sin código SeaTable destaca por su flexibilidad y adaptabilidad, y es una potente [alternativa a las plantillas estáticas de Excel]({{< relref "pages/excel-alternative" >}}) para libros de ruta. Con nuestro libro de ruta digital, se beneficiará de la colaboración en tiempo real, los análisis automáticos y el archivo a prueba de revisiones, ideal para equipos que desean documentar los viajes de negocios de conformidad con la normativa fiscal sin ahogarse en el caos de Excel.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad, y es una potente [alternativa a las plantillas estáticas de Excel]({{< relref "pages/excel-alternative" >}}) para libros de ruta. Con nuestro libro de ruta digital, se beneficiará de la colaboración en tiempo real, los análisis automáticos y el archivo a prueba de revisiones, ideal para equipos que desean documentar los viajes de negocios de conformidad con la normativa fiscal sin ahogarse en el caos de Excel.'
       items:
       - text: 'Siempre actualizado: manténgase al día gracias a las actualizaciones en tiempo real, el historial completo de cambios y la autenticación digital de los conductores.'
       - text: 'Acceso desde cualquier lugar: con un libro de ruta online, tendrá acceso en cualquier momento, incluso desde el móvil directamente en el vehículo, y protegerá sus datos contra pérdidas o daños.'
@@ -118,7 +118,7 @@ sections:
       title: 'Su panel de control personalizado del libro de ruta en la aplicación'
       subtitle: 
       items:
-      - text: 'Con el generador de aplicaciones sin código integrado en SeaTable, puede crear fácilmente su propio interfaz de libro de ruta personalizado. Utilice el formulario web de la plantilla para que sus empleados registren sus desplazamientos diarios. Cree paneles de estadísticas para la dirección, vistas de calendario para la planificación de viajes o vistas separadas para cada conductor: cada uno solo verá sus propias entradas. Comparta informes mediante un enlace con su departamento de contabilidad o la agencia tributaria, guarde los recibos de combustible y los documentos de inspección, y utilice permisos granulares. La protección con contraseña y los accesos definidos por el usuario ofrecen una seguridad adicional.'
+      - text: 'Con el generador de aplicaciones no-code integrado en SeaTable, puede crear fácilmente su propio interfaz de libro de ruta personalizado. Utilice el formulario web de la plantilla para que sus empleados registren sus desplazamientos diarios. Cree paneles de estadísticas para la dirección, vistas de calendario para la planificación de viajes o vistas separadas para cada conductor: cada uno solo verá sus propias entradas. Comparta informes mediante un enlace con su departamento de contabilidad o la agencia tributaria, guarde los recibos de combustible y los documentos de inspección, y utilice permisos granulares. La protección con contraseña y los accesos definidos por el usuario ofrecen una seguridad adicional.'
       image: '/images/template_page_fahrtenbuch_06.jpg'
       image_alt: 'Vista de la app del libro de rutas con paneles individuales y vistas filtradas por conductor'
 
@@ -162,7 +162,7 @@ sections:
        - bg-gray-100
       title: 'Plantilla de libro de ruta para una documentación conforme a la ley'
       subtitle: 'Máxima seguridad'
-      description: 'SeaTable es una moderna solución de base de datos sin código con inteligencia artificial, automatizaciones y creador de aplicaciones, y ofrece todas las funciones que necesita para llevar un libro de ruta digital y a prueba de auditorías. Para nosotros, la protección de sus datos y la seguridad jurídica son lo primero.'
+      description: 'SeaTable es una moderna no-code solución de base de datos con inteligencia artificial, automatizaciones y creador de aplicaciones, y ofrece todas las funciones que necesita para llevar un libro de ruta digital y a prueba de auditorías. Para nosotros, la protección de sus datos y la seguridad jurídica son lo primero.'
       box-position: [right!]
       items:
       - headline: Conforme al RGPD

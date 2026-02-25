@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Con SeaTable a su aplicación de registro nutricional'
       subtitle: 'Utilice gratuitamente la aplicación del diario de alimentos en línea'
-      description: 'SeaTable es una moderna solución de base de datos sin código y tan fácil de usar como una hoja de cálculo, con todas las funciones necesarias para un [diario alimentos]({{< relref "posts/ernaehrungstagebuch" >}}).'
+      description: 'SeaTable es una moderna no-code solución de base de datos y tan fácil de usar como una hoja de cálculo, con todas las funciones necesarias para un [diario alimentos]({{< relref "posts/ernaehrungstagebuch" >}}).'
       items:
       - text: 'Personalizable: Cree una aplicación de registro nutricional según sus deseos.'
       - text: 'Acceso desde cualquier lugar: puede acceder a sus datos en cualquier momento a través del acceso en línea.'
@@ -73,7 +73,7 @@ sections:
        - bg-gray-100
       title: 'Un diario digital de alimentos con SeaTable'
       subtitle: 'Sus ventajas con SeaTable'
-      description: 'SeaTable ofrece una combinación única de una interfaz familiar de hoja de cálculo, las funciones avanzadas de una base de datos sin código y un creador de aplicaciones universal. Cree gratis su propia app de registro nutricional con unos pocos clics y lleve un registro de sus hábitos alimentarios.'
+      description: 'SeaTable ofrece una combinación única de una interfaz familiar de hoja de cálculo, las funciones avanzadas de una no-code base de datos y un creador de aplicaciones universal. Cree gratis su propia app de registro nutricional con unos pocos clics y lleve un registro de sus hábitos alimentarios.'
       box-position: [right!]
       items:
       - headline: Reconocer las alergias
@@ -95,7 +95,7 @@ sections:
         image: '/images/template_page_ernaehrungstagebuch_03.jpg'
         image_alt: 'Base de datos de intolerancias y alérgenos en la aplicación de diario alimentario con síntomas y resumen de alimentos, personalizable.'
       - headline: 'App universal para la adquisición y el análisis de datos'
-        text: 'Su aplicación de registro nutricional consta de dos partes: una base de datos similar a Excel y una aplicación universal sin código como interfaz. Aquí encontrará el formulario de introducción de datos, un panel de análisis, una visión general de su ingesta diaria de líquidos y la máscara de búsqueda de la base de datos de intolerancias.'
+        text: 'Su aplicación de registro nutricional consta de dos partes: una base de datos similar a Excel y una aplicación no-code como interfaz. Aquí encontrará el formulario de introducción de datos, un panel de análisis, una visión general de su ingesta diaria de líquidos y la máscara de búsqueda de la base de datos de intolerancias.'
         image: '/images/template_page_ernaehrungstagebuch_04.jpg'
         image_alt: 'App con base de datos, cuadro de mandos y formulario para diario alimentario.'
       
@@ -140,9 +140,9 @@ sections:
       title: 'Su propia aplicación de diario alimentario con SeaTable'
       subtitle: 
       items:
-      - text: 'Con el creador de aplicaciones sin código integrado de SeaTable, puede crear su propia aplicación de nutrición personalizada en unos pocos pasos. Además de las comidas, los horarios y los síntomas, también puede registrar los nutrientes o información detallada sobre la situación alimentaria o las pautas de ejercicio, por ejemplo. Sus necesidades y deseos determinarán el aspecto de su diario digital de alimentación.'
+      - text: 'Con el creador de aplicaciones no-code integrado de SeaTable, puede crear su propia aplicación de nutrición personalizada en unos pocos pasos. Además de las comidas, los horarios y los síntomas, también puede registrar los nutrientes o información detallada sobre la situación alimentaria o las pautas de ejercicio, por ejemplo. Sus necesidades y deseos determinarán el aspecto de su diario digital de alimentación.'
       image: '/images/template_page_ernaehrungstagebuch_05.jpg'
-      image_alt: 'Aplicación de diario alimentario personalizado con SeaTable No-Code Builder, recogida de datos de comidas, nutrientes y dolencias.'
+      image_alt: 'Aplicación de diario alimentario personalizado con SeaTable no-code builder, recogida de datos de comidas, nutrientes y dolencias.'
 
     - name: "faq"
       weight: 20

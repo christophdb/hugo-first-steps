@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Inventarliste online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Inventarliste Software profitieren Sie von vielen Vorteilen und können auch komplexe [Inventarprozesse]({{< relref "pages/industry-solutions/operations" >}}) abbilden.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Inventarliste Software profitieren Sie von vielen Vorteilen und können auch komplexe [Inventarprozesse]({{< relref "pages/industry-solutions/operations" >}}) abbilden.'
       items:
       - text: 'Stets aktuell: Bleiben Sie dank der Kommunikationsfunktionen, vollständiger Änderungshistorie und Echtzeitaktualisierung immer auf dem neuesten Stand.'
       - text: 'Zugriff von überall: Mit einer Online-Inventarliste haben Sie zu jeder Zeit Zugriff und schützen Ihre Daten vor Verlust.'

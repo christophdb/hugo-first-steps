@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Plano de medicação para uma visão geral e segurança'
       subtitle: 'Panorama digital'
-      description: "O SeaTable é uma solução moderna de base de dados sem código com o App Builder e oferece todas as funções de que um plano de medicação eletrónico necessita. Pode facilmente manter uma visão geral e registar os efeitos secundários para os discutir com o seu médico."
+      description: "O SeaTable é uma solução no-code moderna de base de dados com o App Builder e oferece todas as funções de que um plano de medicação eletrónico necessita. Pode facilmente manter uma visão geral e registar os efeitos secundários para os discutir com o seu médico."
       box-position: [right!]
       items:
       - headline: Evite riscos
@@ -145,9 +145,9 @@ sections:
       title: A sua própria aplicação de plano de medicação com SeaTable
       subtitle:
       items:
-      - text: "Com o criador de aplicações sem código integrado do SeaTable, pode criar a sua própria aplicação de saúde pessoal em apenas alguns passos. Para além dos medicamentos e dos contactos do médico, também pode registar efeitos secundários ou dados adicionais, como os valores da tensão arterial, para os discutir na sua próxima consulta de tratamento. A função de lembrete integrada proporciona-lhe segurança adicional."
+      - text: "Com o criador de aplicações no-code integrado do SeaTable, pode criar a sua própria aplicação de saúde pessoal em apenas alguns passos. Para além dos medicamentos e dos contactos do médico, também pode registar efeitos secundários ou dados adicionais, como os valores da tensão arterial, para os discutir na sua próxima consulta de tratamento. A função de lembrete integrada proporciona-lhe segurança adicional."
       image: '/images/Template-Page_Medikamentenplan_Screenshot_6.png'
-      image_alt: 'Modelo de plano de medicação: Aplicação sem código com função de lembrete, contactos do médico, valores medidos, notas.'
+      image_alt: 'Modelo de plano de medicação: Aplicação no-code com função de lembrete, contactos do médico, valores medidos, notas.'
 
     - name: "faq"
       weight: 20

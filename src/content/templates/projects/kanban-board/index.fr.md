@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utiliser le tableau Kanban en ligne avec SeaTable'
       subtitle: 'Vos avantages'
-      description: "La solution d'intelligence artificielle sans code SeaTable convainc par sa flexibilité et son adaptabilité. Avec notre modèle de tableau kanban, vous bénéficiez de nombreux avantages et pouvez également reproduire des processus dynamiques."
+      description: "La solution d'IA no-code SeaTable convainc par sa flexibilité et son adaptabilité. Avec notre modèle de tableau kanban, vous bénéficiez de nombreux avantages et pouvez également reproduire des processus dynamiques."
       items:
       - text: "Toujours à jour : restez à jour grâce aux fonctions de communication, à l'historique complet des modifications et aux mises à jour en temps réel."
       - text: "Accès de n'importe où : avec un tableau KANBAN en ligne, vous pouvez accéder à tout moment et protéger vos données contre les pertes."
@@ -115,7 +115,7 @@ sections:
       title: 'Votre application Kanban personnalisée'
       subtitle: 
       items:
-      - text: "Le générateur d'applications intégrées No-Code de SeaTable vous permet de créer facilement un frontal Kanban personnalisé. Par exemple, utilisez Kanban dans la gestion de projet et créez différentes pages et tableaux de bord pour les employés et les parties prenantes, partagez des tableaux avec des personnes externes via des liens et enregistrez des informations supplémentaires importantes. Une protection par mot de passe et des autorisations définies par l'utilisateur offrent une sécurité supplémentaire."
+      - text: "Le générateur d'applications intégrées no-code de SeaTable vous permet de créer facilement un frontal Kanban personnalisé. Par exemple, utilisez Kanban dans la gestion de projet et créez différentes pages et tableaux de bord pour les employés et les parties prenantes, partagez des tableaux avec des personnes externes via des liens et enregistrez des informations supplémentaires importantes. Une protection par mot de passe et des autorisations définies par l'utilisateur offrent une sécurité supplémentaire."
       image: '/images/template_page_kanban_06.jpg'
       image_alt: "Créez des tableaux Kanban et des tableaux de bord personnalisés avec l'App Builder de SeaTable - partagez, sécurisez et utilisez de manière flexible pour la gestion de projet."
 
@@ -158,7 +158,7 @@ sections:
        - bg-gray-100
       title: "Modèle de tableau kanban pour chaque cas d'utilisation"
       subtitle: 'Sécurité maximale'
-      description: "SeaTable est une solution moderne de base de données sans code d'intelligence artificielle avec des automatisations et un constructeur d'applications, offrant toutes les fonctionnalités dont vous avez besoin pour un outil Kanban numérique et intégré. La protection de vos données est notre priorité."
+      description: "SeaTable est une solution no-code moderne de base de données d'intelligence artificielle avec des automatisations et un constructeur d'applications, offrant toutes les fonctionnalités dont vous avez besoin pour un outil Kanban numérique et intégré. La protection de vos données est notre priorité."
       box-position: [right!]
       items:
       - headline: Conforme à la directive RGPD
