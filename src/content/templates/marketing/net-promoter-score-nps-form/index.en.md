@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Integrate NPS calculators into your systems with SeaTable'
       subtitle: 'Evaluate customer satisfaction with Net Promoter Score'
-      description: 'The AI No Code database SeaTable offers all the functions you need for an [NPS calculator]({{< relref "posts/net-promoter-score" >}}) - and is as simple as a spreadsheet.'
+      description: 'The AI no-code database SeaTable offers all the functions you need for an [NPS calculator]({{< relref "posts/net-promoter-score" >}}) - and is as simple as a spreadsheet.'
       items:
       - text: 'Up-to-date data: All new form submissions are immediately visible in the backend and can be processed immediately.'
       - text: 'Real collaboration: Work on your data together as a team - without time delays or inconsistencies.'
@@ -151,7 +151,7 @@ sections:
        - bg-gray-100
       title: 'NPS calculator for every application'
       subtitle: 'Cloud oder On-Premises'
-      description: 'SeaTable is a modern AI No Code database solution with App Builder and offers all the features you need for a digital, integrated survey tool. You decide how you use SeaTable.'
+      description: 'SeaTable is a modern AI no-code database solution with App Builder and offers all the features you need for a digital, integrated survey tool. You decide how you use SeaTable.'
       box-position: [right!]
       items:
       - headline: DSGVO compliant

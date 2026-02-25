@@ -74,7 +74,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: "Utiliser la liste d'inventaire en ligne avec SeaTable"
       subtitle: 'Vos avantages'
-      description: 'La solution IA sans code SeaTable séduit par sa flexibilité et son adaptabilité. Grâce à notre logiciel de gestion des stocks, vous bénéficiez de nombreux avantages et pouvez également gérer des [processus inventaire]({{< relref "pages/industry-solutions/operations" >}}) complexes.'
+      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et son adaptabilité. Grâce à notre logiciel de gestion des stocks, vous bénéficiez de nombreux avantages et pouvez également gérer des [processus inventaire]({{< relref "pages/industry-solutions/operations" >}}) complexes.'
       items:
       - text: "Toujours à jour : restez informé grâce aux fonctions de communication, à l'historique complet des modifications et aux mises à jour en temps réel."
       - text: "Accès depuis n'importe où : grâce à une liste d'inventaire en ligne, vous avez accès à vos données à tout moment et les protégez contre toute perte."
@@ -115,9 +115,9 @@ sections:
       title: "Votre application d'inventaire personnalisée"
       subtitle: 
       items:
-      - text: "Grâce au générateur d'applications sans code intégré à SeaTable, vous pouvez facilement créer votre propre interface d'inventaire personnalisée. Utilisez le formulaire web du modèle pour vos processus d'inventaire et guidez vos employés à l'aide d'instructions étape par étape. Créez des vues de galerie pour des aperçus clairs, des vues Kanban pour la gestion des différents états des articles ou des tableaux de bord statistiques pour la direction. Partagez des vues ciblées avec des personnes externes via un lien, enregistrez les preuves d'achat et les protocoles d'inspection, et utilisez des autorisations granulaires pour les droits d'accès."
+      - text: "Grâce au générateur d'applications no-code intégré à SeaTable, vous pouvez facilement créer votre propre interface d'inventaire personnalisée. Utilisez le formulaire web du modèle pour vos processus d'inventaire et guidez vos employés à l'aide d'instructions étape par étape. Créez des vues de galerie pour des aperçus clairs, des vues Kanban pour la gestion des différents états des articles ou des tableaux de bord statistiques pour la direction. Partagez des vues ciblées avec des personnes externes via un lien, enregistrez les preuves d'achat et les protocoles d'inspection, et utilisez des autorisations granulaires pour les droits d'accès."
       image: '/images/template_page_inventarliste_06.jpg'
-      image_alt: "Créateur d'applications sans code avec formulaire Web, galerie et affichage Kanban pour une application d'inventaire personnalisée"
+      image_alt: "Créateur d'applications no-code avec formulaire Web, galerie et affichage Kanban pour une application d'inventaire personnalisée"
 
     - name: "banner-3"
       weight: 15
@@ -159,7 +159,7 @@ sections:
        - bg-gray-100
       title: "Modèle de liste d'inventaire pour chaque cas d'application"
       subtitle: 'Sécurité et transparence'
-      description: "SeaTable est une solution moderne de base de données sans code, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires pour un outil d'inventaire numérique et intégré. La protection de vos données est notre priorité absolue."
+      description: "SeaTable est une solution no-code moderne de base de données, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires pour un outil d'inventaire numérique et intégré. La protection de vos données est notre priorité absolue."
       box-position: [right!]
       items:
       - headline: Conforme au RGPD

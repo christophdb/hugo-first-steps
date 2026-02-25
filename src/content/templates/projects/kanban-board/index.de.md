@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Kanban Board online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Kanban Board Software profitieren Sie von vielen Vorteilen und können auch dynamische Prozesse abbilden.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Kanban Board Software profitieren Sie von vielen Vorteilen und können auch dynamische Prozesse abbilden.'
       items:
       - text: 'Stets aktuell: Bleiben Sie dank der Kommunikationsfunktionen, vollständiger Änderungshistorie und Echtzeitaktualisierung immer auf dem neuesten Stand.'
       - text: 'Zugriff von überall: Mit einem Online-Kanban-Board haben Sie zu jeder Zeit Zugriff und schützen Ihre Daten vor Verlust.'

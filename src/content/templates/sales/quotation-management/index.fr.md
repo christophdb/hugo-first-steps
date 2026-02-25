@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: "Modèle de rédaction d'offres de SeaTable"
       subtitle: 'Vos avantages en bref'
-      description: "La solution IA sans code SeaTable séduit par sa flexibilité et sa personnalisation. Grâce à notre modèle de rédaction d'offres, vous pouvez numériser votre processus d'offre et représenter même les workflows commerciaux complexes, du premier contact à la confirmation de commande."
+      description: "La solution IA no-code SeaTable séduit par sa flexibilité et sa personnalisation. Grâce à notre modèle de rédaction d'offres, vous pouvez numériser votre processus d'offre et représenter même les workflows commerciaux complexes, du premier contact à la confirmation de commande."
       items:
       - text: "Accédez plus rapidement à l'offre : utilisez des modèles d'offre prédéfinis, des données produits et clients associées ainsi que des calculs automatiques pour les remises et les taxes. Vous pouvez ainsi rédiger des offres en quelques minutes seulement."
       - text: "Tout en un seul endroit : le modèle de rédaction d'offre regroupe toutes les informations pertinentes en un seul endroit, de sorte que les équipes commerciales, la direction et le back-office travaillent toujours avec les mêmes données actualisées."
@@ -117,7 +117,7 @@ sections:
       title: 'Votre application personnalisée pour les offres'
       subtitle: 
       items:
-      - text: "Grâce au générateur d'applications sans code intégré de SeaTable, vous pouvez transformer le modèle de rédaction d'offres en une application d'offres personnalisée. Créez des formulaires Web pour les nouvelles demandes d'offres, des interfaces guidées pour les ventes et des vues Kanban pour le statut des offres telles que « nouvelle », « envoyée », « en cours de négociation » ou « remportée », et partagez des vues ciblées avec les parties prenantes internes et externes. Le modèle de rédaction d'offre devient ainsi le centre névralgique de vos ventes."
+      - text: "Grâce au générateur d'applications no-code intégré de SeaTable, vous pouvez transformer le modèle de rédaction d'offres en une application d'offres personnalisée. Créez des formulaires Web pour les nouvelles demandes d'offres, des interfaces guidées pour les ventes et des vues Kanban pour le statut des offres telles que « nouvelle », « envoyée », « en cours de négociation » ou « remportée », et partagez des vues ciblées avec les parties prenantes internes et externes. Le modèle de rédaction d'offre devient ainsi le centre névralgique de vos ventes."
       image: '/images/template_page_angebot_06.png'
       image_alt: 'Application de devis dans SeaTable App Builder avec formulaires, tableau Kanban et interface commerciale guidée'
 
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: "Modèle d'offre pour les petites entreprises et les PME"
       subtitle: 'Sécurité et transparence'
-      description: "SeaTable est une solution moderne de base de données IA sans code, dotée de fonctions d'automatisation et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires à un processus d'offre numérique et intégré. Que vous soyez un petit entrepreneur ou une équipe commerciale dans une PME, la protection de vos données est au cœur de nos préoccupations."
+      description: "SeaTable est une solution no-code moderne de base de données IA, dotée de fonctions d'automatisation et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires à un processus d'offre numérique et intégré. Que vous soyez un petit entrepreneur ou une équipe commerciale dans une PME, la protection de vos données est au cœur de nos préoccupations."
       box-position: [right!]
       items:
       - headline: Conforme au RGPD

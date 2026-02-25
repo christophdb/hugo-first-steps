@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Modèle de gestion de flotte automobile à utiliser en ligne'
       subtitle: 'Vos avantages en bref'
-      description: 'La solution IA sans code SeaTable séduit par sa flexibilité et son adaptabilité. Grâce au modèle de gestion numérique de flotte, vous pouvez enregistrer de manière centralisée tous les véhicules, les réservations, les dommages et les rendez-vous, garder un œil sur les coûts et créer une base commune pour la gestion de votre flotte, de manière beaucoup plus structurée que les fichiers Excel classiques de gestion de flotte.'
+      description: "L'IA no-code solution SeaTable se distingue par sa flexibilité et sa personnalisation. Grâce au modèle de gestion numérique de flotte, vous pouvez enregistrer de manière centralisée tous les véhicules, les réservations, les dommages et les rendez-vous, garder un œil sur les coûts et créer une base commune pour la gestion de votre flotte, de manière beaucoup plus structurée que les fichiers Excel classiques de gestion de flotte."
       items:
       - text: "Toujours à jour : grâce aux commentaires, à l'historique des modifications et aux mises à jour en temps réel, vous restez toujours informé, depuis la première installation du véhicule jusqu'à son utilisation continue sur plusieurs sites."
       - text: "Accès depuis n'importe où : grâce à un modèle en ligne, vous avez accès à tout moment aux données du véhicule, aux réservations et aux rendez-vous, que ce soit au bureau, en déplacement ou directement depuis le véhicule."
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Modèle de gestion de flotte automobile pour éviter le désordre dans Excel'
       subtitle: 'Transparence et collaboration'
-      description: "SeaTable est une solution moderne de base de données sans code, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires à une gestion professionnelle et numérique de votre parc automobile. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité d'adaptation, tout en respectant les normes de sécurité les plus strictes, que ce soit pour la gestion d'un petit parc automobile ou d'une flotte évolutive répartie sur plusieurs sites."
+      description: "SeaTable est une solution moderne d'IA no-code Solution de base de données avec automatisations et générateur d'applications, offrant toutes les fonctionnalités nécessaires à une gestion professionnelle et numérique de votre parc automobile. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité d'adaptation, tout en respectant les normes de sécurité les plus strictes, qu'il s'agisse d'une petite gestion de parc automobile ou d'une flotte évolutive répartie sur plusieurs sites."
       box-position: [right!]
       items:
       - headline: Alternative à Excel

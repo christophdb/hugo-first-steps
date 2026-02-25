@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Bug Tracker System online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserem Bug Tracker System bündeln Sie alle Informationen zu Softwarefehlern, Tests und Versionen an einem Ort, bilden Ihre bestehenden QA-Workflows ohne Programmierung ab und behalten auch bei komplexen Projekten stets den Überblick.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserem Bug Tracker System bündeln Sie alle Informationen zu Softwarefehlern, Tests und Versionen an einem Ort, bilden Ihre bestehenden QA-Workflows ohne Programmierung ab und behalten auch bei komplexen Projekten stets den Überblick.'
       items:
       - text: 'Stets aktuell: Bleiben Sie dank Kommentaren, vollständiger Änderungshistorie und Echtzeitaktualisierung immer auf dem neuesten Stand zu offenen und geschlossenen Bugs.'
       - text: 'Zugriff von überall: Mit einem online geführten Bug Tracker System haben Sie zu jeder Zeit Zugriff und behalten den Überblick – im Büro, im Homeoffice oder beim Kunden.'

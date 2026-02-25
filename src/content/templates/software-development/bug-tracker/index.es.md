@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilizar el sistema Bug Tracker en línea con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La solución SeaTable, basada en inteligencia artificial y sin código, destaca por su flexibilidad y adaptabilidad. Con nuestro sistema Bug Tracker, podrá reunir toda la información sobre errores de software, pruebas y versiones en un solo lugar, representar sus flujos de trabajo de control de calidad existentes sin necesidad de programación y mantener siempre una visión general, incluso en proyectos complejos.'
+      description: 'La IA no-code solución SeaTable destaca por su flexibilidad y adaptabilidad. Con nuestro sistema Bug Tracker, puede reunir toda la información sobre errores de software, pruebas y versiones en un solo lugar, mapear sus flujos de trabajo de control de calidad existentes sin necesidad de programación y mantener una visión general incluso en proyectos complejos.'
       items:
       - text: 'Siempre al día: manténgase siempre informado sobre los errores abiertos y cerrados gracias a los comentarios, el historial completo de cambios y las actualizaciones en tiempo real.'
       - text: 'Acceso desde cualquier lugar: con un sistema de seguimiento de errores en línea, tiene acceso en todo momento y mantiene una visión general, ya sea en la oficina, en su oficina en casa o en las instalaciones del cliente.'
@@ -160,8 +160,7 @@ sections:
        - curved
        - bg-gray-100
       title: 'Sistema de seguimiento de errores para cualquier organización'
-      subtitle: 'Transparencia y cooperación'
-      description: 'SeaTable es una moderna solución de base de datos sin código con inteligencia artificial, automatizaciones y creador de aplicaciones, que ofrece todas las funciones que necesita para un sistema profesional de seguimiento de errores. Se centra en la trazabilidad, el trabajo en equipo y la personalización flexible con los más altos estándares de seguridad.'
+      subtitle: 'SeaTable es una IA no-code solución moderna de base de datos con automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para un sistema profesional de seguimiento de errores. Se centra en la trazabilidad, el trabajo en equipo y la adaptación flexible con los más altos estándares de seguridad.'
       box-position: [right!]
       items:
       - headline: Conforme al RGPD

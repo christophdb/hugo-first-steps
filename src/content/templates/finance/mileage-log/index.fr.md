@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Tenir un carnet de route en ligne avec SeaTable'
       subtitle: 'Vos avantages'
-      description: 'La solution IA sans code SeaTable séduit par sa flexibilité et sa personnalisation. Elle constitue une [alternative performante aux modèles Excel]({{< relref "pages/excel-alternative" >}}) statiques de carnets de route. Avec notre carnet de bord numérique, vous bénéficiez d une collaboration en temps réel, d évaluations automatiques et d un archivage conforme aux normes d audit – idéal pour les équipes qui souhaitent documenter leurs déplacements professionnels de manière conforme à la législation fiscale sans se perdre dans le chaos d Excel.'
+      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et sa personnalisation. Elle constitue une [alternative performante aux modèles Excel]({{< relref "pages/excel-alternative" >}}) statiques de carnets de route. Avec notre carnet de bord numérique, vous bénéficiez d une collaboration en temps réel, d évaluations automatiques et d un archivage conforme aux normes d audit – idéal pour les équipes qui souhaitent documenter leurs déplacements professionnels de manière conforme à la législation fiscale sans se perdre dans le chaos d Excel.'
       items:
       - text: "Toujours à jour : restez informé grâce aux mises à jour en temps réel, à l'historique complet des modifications et à l'authentification numérique des conducteurs."
       - text: "Accès depuis n'importe où : avec un carnet de bord en ligne, vous avez accès à vos données à tout moment, même depuis votre véhicule, et vous les protégez contre toute perte ou détérioration."
@@ -118,7 +118,7 @@ sections:
       title: "Votre tableau de bord personnalisé dans l'application"
       subtitle: 
       items:
-      - text: "Grâce au générateur d'applications sans code intégré à SeaTable, vous pouvez facilement créer votre propre interface de carnet de bord personnalisée. Utilisez le formulaire web du modèle pour la saisie quotidienne des trajets par vos employés. Créez des tableaux de bord statistiques pour la direction, des vues calendaires pour la planification des trajets ou des vues séparées pour chaque conducteur – chacun ne voit que ses propres entrées. Partagez des rapports via un lien avec votre service comptable ou l'administration fiscale, enregistrez les reçus de carburant et les documents d'inspection, et utilisez des autorisations granulaires. Une protection par mot de passe et des accès personnalisés offrent une sécurité supplémentaire."
+      - text: "Grâce au générateur d'applications no-code intégré à SeaTable, vous pouvez facilement créer votre propre interface de carnet de bord personnalisée. Utilisez le formulaire web du modèle pour la saisie quotidienne des trajets par vos employés. Créez des tableaux de bord statistiques pour la direction, des vues calendaires pour la planification des trajets ou des vues séparées pour chaque conducteur – chacun ne voit que ses propres entrées. Partagez des rapports via un lien avec votre service comptable ou l'administration fiscale, enregistrez les reçus de carburant et les documents d'inspection, et utilisez des autorisations granulaires. Une protection par mot de passe et des accès personnalisés offrent une sécurité supplémentaire."
       image: '/images/template_page_fahrtenbuch_06.jpg'
       image_alt: 'Vue appli du carnet de route avec tableaux de bord individuels et vues filtrées par conducteur'
 
@@ -162,7 +162,7 @@ sections:
        - bg-gray-100
       title: 'Modèle de carnet de route pour une documentation conforme à la législation'
       subtitle: 'Sécurité maximale'
-      description: "SeaTable est une solution moderne de base de données sans code, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires à la gestion d'un carnet de bord numérique et conforme aux exigences d'audit. La protection de vos données et la sécurité juridique sont notre priorité absolue."
+      description: "SeaTable est une solution no-code moderne de base de données, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires à la gestion d'un carnet de bord numérique et conforme aux exigences d'audit. La protection de vos données et la sécurité juridique sont notre priorité absolue."
       box-position: [right!]
       items:
       - headline: Conforme au RGPD

@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Angebote schreiben Vorlage von SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Angebote schreiben Vorlage digitalisieren Sie Ihren Angebotsprozess und bilden auch komplexe Vertriebs-Workflows vom Erstkontakt bis zur Auftragsbestätigung ab.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Angebote schreiben Vorlage digitalisieren Sie Ihren Angebotsprozess und bilden auch komplexe Vertriebs-Workflows vom Erstkontakt bis zur Auftragsbestätigung ab.'
       items:
       - text: 'Schneller zum Angebot: Nutzen Sie vordefinierte Angebot Vorlagen, verknüpfte Produkt- und Kundendaten sowie automatische Berechnungen für Rabatte und Steuern – so schreiben Sie Angebote in Minuten statt Stunden.'
       - text: 'Alles an einem Ort: Die Angebot schreiben Vorlage bündelt alle relevanten Informationen an einem Ort, sodass Vertrieb, Geschäftsführung und Backoffice immer mit denselben, aktuellen Daten arbeiten.'

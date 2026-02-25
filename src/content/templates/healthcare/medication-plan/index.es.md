@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: 'Plan de medicación para una visión de conjunto y seguridad'
       subtitle: 'Panorama digital'
-      description: 'SeaTable es una moderna solución de base de datos sin código con App Builder y ofrece todas las funciones que necesita un plan de medicación electrónico. Puede mantener fácilmente una visión de conjunto y registrar los efectos secundarios para comentarlos con su médico.'
+      description: 'SeaTable es una moderna solución no-code de base de datos con App Builder y ofrece todas las funciones que necesita un plan de medicación electrónico. Puede mantener fácilmente una visión de conjunto y registrar los efectos secundarios para comentarlos con su médico.'
       box-position: [right!]
       items:
       - headline: Evitar riesgos
@@ -146,9 +146,9 @@ sections:
       title: 'Su propia aplicación de plan de medicación con SeaTable'
       subtitle:
       items:
-      - text: "Con el creador de aplicaciones sin código integrado de SeaTable, puede crear su propia aplicación de salud personal en unos pocos pasos. Además de los medicamentos y los contactos con el médico, también puede registrar los efectos secundarios o datos adicionales, como los valores de la tensión arterial, para comentarlos en su próxima cita de tratamiento. La función de recordatorio integrada proporciona seguridad adicional."
+      - text: "Con el creador de aplicaciones no-code integrado de SeaTable, puede crear su propia aplicación de salud personal en unos pocos pasos. Además de los medicamentos y los contactos con el médico, también puede registrar los efectos secundarios o datos adicionales, como los valores de la tensión arterial, para comentarlos en su próxima cita de tratamiento. La función de recordatorio integrada proporciona seguridad adicional."
       image: '/images/Template-Page_Medikamentenplan_Screenshot_6.png'
-      image_alt: 'Plantilla de plan de medicación: Aplicación sin código con función de recordatorio, contactos médicos, valores medidos, notas.'
+      image_alt: 'Plantilla de plan de medicación: Aplicación no-code con función de recordatorio, contactos médicos, valores medidos, notas.'
 
     - name: "faq"
       weight: 20

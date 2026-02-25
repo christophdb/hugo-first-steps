@@ -73,7 +73,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Einfache Lagerverwaltung online mit SeaTable'
       subtitle: 'App für Lagerverwaltung'
-      description: 'Die No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. So lassen sich auch dynamische Prozesse in Ihrer Lagerverwaltungssoftware einfach abbilden.'
+      description: 'Die No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. So lassen sich auch dynamische Prozesse in Ihrer Lagerverwaltungssoftware einfach abbilden.'
       items:
       - text: 'Aktuelle Daten: Bestandsänderungen lassen sich schnell eintragen und sind sofort für alle verfügbar.'
       - text: 'Echte Kollaboration: Arbeiten Sie im Team gemeinsam an Daten – ohne Zeitverzögerung oder Systemabstürze.'
@@ -81,7 +81,7 @@ sections:
       - text: 'Einfache [Integrationen]({{< relref "pages/integrations" >}}): Mit der SeaTable API lassen sich Drittanbieter wie Versanddienstleister oder E-Commerce-Plattformen einfach einbinden.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
-      image_alt: 'SeaTable App für Lagerverwaltung mit flexibler No-Code-Lösung, Echtzeit-Dateneingabe und Team-Kollaboration'
+      image_alt: 'SeaTable App für Lagerverwaltung mit flexibler No-Code Lösung, Echtzeit-Dateneingabe und Team-Kollaboration'
 
     - name: "content-25"
       weight: 10
@@ -157,7 +157,7 @@ sections:
        - bg-gray-100
       title: 'Ihre Lagerverwaltung Software von SeaTable'
       subtitle: 'Lagerverwaltung online'
-      description: 'Mit der Lagerverwaltungssoftware von SeaTable erfassen Sie alles in einer flexiblen No-Code-Datenbank und behalten stets den Überblick. Dank der integrierten Statistiken können Sie z. B. Lagerumschlagshäufigkeit, Lagerreichweite oder Lagerflächen-Nutzungsgrad in Echtzeit analysieren.'
+      description: 'Mit der Lagerverwaltungssoftware von SeaTable erfassen Sie alles in einer flexiblen No-Code Datenbank und behalten stets den Überblick. Dank der integrierten Statistiken können Sie z. B. Lagerumschlagshäufigkeit, Lagerreichweite oder Lagerflächen-Nutzungsgrad in Echtzeit analysieren.'
       box-position: [right!]
       items:
       - headline: Produktivität

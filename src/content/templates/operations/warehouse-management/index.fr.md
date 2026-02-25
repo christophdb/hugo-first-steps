@@ -73,7 +73,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Gestion simple des stocks en ligne avec SeaTable'
       subtitle: "Application de gestion d'entrepôt"
-      description: "La solution sans code SeaTable convainc par sa flexibilité et son adaptabilité. Ainsi, même les processus dynamiques peuvent être facilement représentés dans votre logiciel de gestion d'entrepôt."
+      description: "La no-code solution SeaTable convainc par sa flexibilité et son adaptabilité. Ainsi, même les processus dynamiques peuvent être facilement représentés dans votre logiciel de gestion d'entrepôt."
       items:
       - text: "Des données à jour : Les changements d'inventaire peuvent être saisis rapidement et sont immédiatement disponibles pour tous."
       - text: 'Véritable collaboration : travaillez en équipe sur des données, sans délai ni blocage du système.'
@@ -81,7 +81,7 @@ sections:
       - text: 'Des [intégrations]({{< relref "pages/integrations" >}}) faciles à réaliser : API de SeaTable permet d intégrer facilement des fournisseurs tiers tels que des services d expédition ou des plateformes de commerce électronique.'
       image_position: [left]
       image: '/images/template_page_lagerverwaltung_01.jpg'
-      image_alt: "L'application SeaTable pour la gestion d'entrepôt avec solution flexible sans code, saisie de données en temps réel et collaboration en équipe"
+      image_alt: "L'application SeaTable pour la gestion d'entrepôt avec no-codee solution flexible, saisie de données en temps réel et collaboration en équipe"
 
     - name: "content-25"
       weight: 10
@@ -113,9 +113,9 @@ sections:
       title: "Application frontale claire pour la gestion d'entrepôt"
       subtitle: 
       items:
-      - text: "Utilisez l'application universelle No-Code comme frontal de gestion d'entrepôt en ligne et créez en quelques clics des formulaires, des vues claires ou des tableaux de bord avec des KPI pertinents pour vos analyses. La consultation des stocks et des entrepôts fournit des informations ciblées sur des produits individuels ou des informations d'occupation sur les emplacements de stockage - sans recherches manuelles fastidieuses."
+      - text: "Utilisez l'application no-code comme frontal de gestion d'entrepôt en ligne et créez en quelques clics des formulaires, des vues claires ou des tableaux de bord avec des KPI pertinents pour vos analyses. La consultation des stocks et des entrepôts fournit des informations ciblées sur des produits individuels ou des informations d'occupation sur les emplacements de stockage - sans recherches manuelles fastidieuses."
       image: '/images/template_page_lagerverwaltung_06.jpg'
-      image_alt: “Application universelle SeaTable No-Code en tant que frontal pour la gestion d'entrepôt avec formulaires, tableaux de bord KPI et consultation ciblée des stocks“
+      image_alt: “Application no-code SeaTable en tant que frontal pour la gestion d'entrepôt avec formulaires, tableaux de bord KPI et consultation ciblée des stocks“
 
     - name: "banner-3"
       weight: 12

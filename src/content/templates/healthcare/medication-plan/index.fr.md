@@ -74,7 +74,7 @@ sections:
        - bg-gray-100
       title: "Plan de médicaments pour une vue d'ensemble et la sécurité"
       subtitle: "Vue d'ensemble numérique"
-      description : "SeaTable est une solution moderne de base de données sans code avec App Builder et offre toutes les fonctions dont un plan de médication électronique a besoin. Vous pouvez facilement garder une vue d'ensemble et enregistrer les effets secondaires pour en discuter avec votre médecin."
+      description : "SeaTable est une solution no-code moderne de base de données avec App Builder et offre toutes les fonctions dont un plan de médication électronique a besoin. Vous pouvez facilement garder une vue d'ensemble et enregistrer les effets secondaires pour en discuter avec votre médecin."
       box-position: [right!]
       items:
       - headline: Éviter les risques
@@ -146,9 +146,9 @@ sections:
       title: "Votre propre plan de médication grâce à l'application SeaTable"
       subtitle:
       items:
-      - text: "Avec le constructeur d'applications intégré sans code de SeaTable, vous pouvez créer votre propre application de santé personnelle en quelques étapes seulement. Outre les médicaments et les contacts médicaux, vous pouvez également enregistrer les effets secondaires ou des données supplémentaires telles que les valeurs de la tension artérielle afin d'en discuter lors de votre prochain rendez-vous de traitement. La fonction de rappel intégrée offre une sécurité supplémentaire."
+      - text: "Avec le constructeur d'applications no-code intégré de SeaTable, vous pouvez créer votre propre application de santé personnelle en quelques étapes seulement. Outre les médicaments et les contacts médicaux, vous pouvez également enregistrer les effets secondaires ou des données supplémentaires telles que les valeurs de la tension artérielle afin d'en discuter lors de votre prochain rendez-vous de traitement. La fonction de rappel intégrée offre une sécurité supplémentaire."
       image: '/images/Template-Page_Medikamentenplan_Screenshot_6.png'
-      image_alt: "Modèle de plan de médication : Application sans code avec fonction de rappel, contacts avec le médecin, valeurs mesurées, notes."
+      image_alt: "Modèle de plan de médication : Application no-code avec fonction de rappel, contacts avec le médecin, valeurs mesurées, notes."
 
     - name: "faq"
       weight: 20

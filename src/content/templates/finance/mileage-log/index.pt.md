@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Manter um livro de viagens online com o SeaTable'
       subtitle: 'As suas vantagens'
-      description: 'A solução SeaTable, baseada em inteligência artificial e sem código, destaca-se pela sua flexibilidade e adaptabilidade, constituindo uma [alternativa eficiente aos modelos estáticos de Excel]({{< relref "pages/excel-alternative" >}}) para registos de viagens. Com o nosso livro de viagens digital, beneficia de colaboração em tempo real, avaliações automáticas e arquivo à prova de revisão – ideal para equipas que pretendem documentar viagens de negócios em conformidade com os requisitos fiscais, sem se perderem no caos do Excel.'
+      description: 'A solução SeaTable, baseada em IA no-code, destaca-se pela sua flexibilidade e adaptabilidade, constituindo uma [alternativa eficiente aos modelos estáticos de Excel]({{< relref "pages/excel-alternative" >}}) para registos de viagens. Com o nosso livro de viagens digital, beneficia de colaboração em tempo real, avaliações automáticas e arquivo à prova de revisão – ideal para equipas que pretendem documentar viagens de negócios em conformidade com os requisitos fiscais, sem se perderem no caos do Excel.'
       items:
       - text: 'Sempre atualizado: mantenha-se sempre a par das últimas novidades graças às atualizações em tempo real, ao histórico completo de alterações e à autenticação digital dos condutores.'
       - text: 'Acesso a partir de qualquer lugar: com um livro de viagens online, tem acesso a qualquer momento – mesmo em dispositivos móveis diretamente no veículo – e protege os seus dados contra perda ou danos.'
@@ -118,7 +118,7 @@ sections:
       title: 'O seu painel de controlo individual do livro de viagens na aplicação'
       subtitle: 
       items:
-      - text: 'Com o No-Code App Builder integrado do SeaTable, pode criar facilmente o seu próprio front-end de livro de viagens. Utilize o formulário web do modelo para o registo diário das viagens dos seus funcionários. Crie painéis de estatísticas para a gerência, visualizações de calendário para o planeamento de viagens ou visualizações separadas para cada motorista – cada um vê apenas as suas próprias entradas. Partilhe relatórios por link com o seu departamento de contabilidade ou com a administração fiscal, armazene recibos de combustível e documentos de inspeção e utilize permissões granulares. A proteção por palavra-passe e o acesso definido pelo utilizador oferecem segurança adicional.'
+      - text: 'Com o no-code App Builder integrado do SeaTable, pode criar facilmente o seu próprio front-end de livro de viagens. Utilize o formulário web do modelo para o registo diário das viagens dos seus funcionários. Crie painéis de estatísticas para a gerência, visualizações de calendário para o planeamento de viagens ou visualizações separadas para cada motorista – cada um vê apenas as suas próprias entradas. Partilhe relatórios por link com o seu departamento de contabilidade ou com a administração fiscal, armazene recibos de combustível e documentos de inspeção e utilize permissões granulares. A proteção por palavra-passe e o acesso definido pelo utilizador oferecem segurança adicional.'
       image: '/images/template_page_fahrtenbuch_06.jpg'
       image_alt: 'Vista da aplicação do livro de bordo com dashboards individuais e vistas filtradas por condutor'
 
@@ -162,7 +162,7 @@ sections:
        - bg-gray-100
       title: 'Modelo de livro de registo de viagens para documentação juridicamente segura'
       subtitle: 'Segurança máxima'
-      description: 'O SeaTable é uma solução moderna de base de dados sem código com IA, com automatizações e criador de aplicações, e oferece todas as funcionalidades necessárias para um livro de viagens digital e à prova de revisão. Para nós, a proteção dos seus dados e a segurança jurídica são a nossa prioridade.'
+      description: 'O SeaTable é uma solução no-code moderna de base de dados com IA, com automatizações e criador de aplicações, e oferece todas as funcionalidades necessárias para um livro de viagens digital e à prova de revisão. Para nós, a proteção dos seus dados e a segurança jurídica são a nossa prioridade.'
       box-position: [right!]
       items:
       - headline: Em conformidade com o RGPD

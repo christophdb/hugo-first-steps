@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Fahrtenbuch online führen mit SeaTable'
       subtitle: 'Ihre Vorteile'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit und ist die leistungsstarke [Alternative zu statischen Fahrtenbuch Excel Vorlagen]({{< relref "pages/excel-alternative" >}}). Mit unserem digitalen Fahrtenbuch profitieren Sie von Echtzeit-Zusammenarbeit, automatischen Auswertungen und revisionssicherer Archivierung – ideal für Teams, die Geschäftsfahrten steuerkonform dokumentieren möchten, ohne im Excel-Chaos zu versinken.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit und ist die leistungsstarke [Alternative zu statischen Fahrtenbuch Excel Vorlagen]({{< relref "pages/excel-alternative" >}}). Mit unserem digitalen Fahrtenbuch profitieren Sie von Echtzeit-Zusammenarbeit, automatischen Auswertungen und revisionssicherer Archivierung – ideal für Teams, die Geschäftsfahrten steuerkonform dokumentieren möchten, ohne im Excel-Chaos zu versinken.'
       items:
       - text: 'Stets aktuell: Bleiben Sie dank Echtzeitaktualisierung, vollständiger Änderungshistorie und digitaler Fahrerauthentifizierung immer auf dem neuesten Stand.'
       - text: 'Zugriff von überall: Mit einem Online-Fahrtenbuch haben Sie zu jeder Zeit Zugriff – auch mobil direkt am Fahrzeug – und schützen Ihre Daten vor Verlust oder Beschädigung.'

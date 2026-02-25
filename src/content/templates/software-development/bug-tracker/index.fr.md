@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utiliser le système Bug Tracker en ligne avec SeaTable'
       subtitle: 'Vos avantages en bref'
-      description: "La solution IA sans code SeaTable séduit par sa flexibilité et son adaptabilité. Notre système Bug Tracker vous permet de regrouper toutes les informations relatives aux erreurs logicielles, aux tests et aux versions en un seul endroit, de cartographier vos workflows QA existants sans programmation et de garder une vue d'ensemble même dans le cas de projets complexes."
+      description: "L'IA no-code solution SeaTable séduit par sa flexibilité et son adaptabilité. Notre système Bug Tracker vous permet de regrouper toutes les informations relatives aux erreurs logicielles, aux tests et aux versions en un seul endroit, de cartographier vos workflows QA existants sans programmation et de garder une vue d'ensemble même dans le cas de projets complexes."
       items:
       - text: "Toujours à jour : restez informé des bogues ouverts et fermés grâce aux commentaires, à l'historique complet des modifications et aux mises à jour en temps réel."
       - text: "Accès depuis n'importe où : grâce à un système de suivi des bogues en ligne, vous avez accès à tout moment et gardez une vue d'ensemble, que ce soit au bureau, en télétravail ou chez le client."
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Système de suivi des bogues pour chaque organisation'
       subtitle: 'Transparence et collaboration'
-      description: "SeaTable est une solution moderne de base de données sans code, dotée d'une intelligence artificielle, d'automatisations et d'un générateur d'applications. Elle offre toutes les fonctionnalités nécessaires à un système professionnel de suivi des bogues. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité d'adaptation, tout en respectant les normes de sécurité les plus strictes."
+      description: "SeaTable est une solution moderne d'IA no-code solution de base de données avec automatisations et générateur d'applications, offrant toutes les fonctionnalités nécessaires à un système professionnel de suivi des bogues. L'accent est mis sur la traçabilité, le travail d'équipe et la flexibilité d'adaptation, tout en respectant les normes de sécurité les plus élevées."
       box-position: [right!]
       items:
       - headline: Conforme au RGPD

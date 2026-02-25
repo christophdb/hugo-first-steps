@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilice la plantilla del plan de estructura del proyecto en línea con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La solución de IA sin código SeaTable destaca por su flexibilidad y adaptabilidad. Con la plantilla de plan de estructura del proyecto, puede planificar proyectos desde la estructura general hasta las tareas individuales, mantener una visión general de los recursos y crear una base común para la planificación de la estructura del proyecto en todo el equipo, con funciones que muchos equipos solo encuentran en Asana y otras [herramientas de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) similares, pero mucho más flexibles y basados en bases de datos.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad. Con la plantilla de plan de estructura del proyecto, puede planificar proyectos desde la estructura general hasta las tareas individuales, mantener una visión general de los recursos y crear una base común para la planificación de la estructura del proyecto en todo el equipo, con funciones que muchos equipos solo encuentran en Asana y otras [herramientas de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) similares, pero mucho más flexibles y basados en bases de datos.'
       items:
       - text: 'Siempre actualizado: gracias a los comentarios, el historial de cambios y las actualizaciones en tiempo real, sus plantillas de plan de estructura del proyecto estarán siempre al día, desde el primer ejemplo de plan de estructura del proyecto hasta su implementación continua.'
       - text: 'Acceso desde cualquier lugar: con una plantilla de planificación de la estructura del proyecto en línea, tendrá acceso a su plan de estructura del proyecto en cualquier momento, ya sea en la oficina, en su casa o en las instalaciones del cliente.'
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Plantilla del plan de estructura del proyecto para cada caso de aplicación'
       subtitle: 'Transparencia y cooperación'
-      description: 'SeaTable es una moderna solución de base de datos sin código con automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para crear plantillas de diagramas de estructura de proyectos profesionales. Se centra en la trazabilidad, el trabajo en equipo y la personalización flexible con los más altos estándares de seguridad, desde la primera plantilla de diagrama de estructura de proyectos hasta un entorno multiproyecto escalable.'
+      description: 'SeaTable es una moderna no-code solución de base de datos con automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para crear plantillas de diagramas de estructura de proyectos profesionales. Se centra en la trazabilidad, el trabajo en equipo y la personalización flexible con los más altos estándares de seguridad, desde la primera plantilla de diagrama de estructura de proyectos hasta un entorno multiproyecto escalable.'
       box-position: [right!]
       items:
       - headline: Conforme al RGPD

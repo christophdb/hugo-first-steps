@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilizar o modelo de gestão de frotas online'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução SeaTable, baseada em inteligência artificial e sem código, destaca-se pela sua flexibilidade e adaptabilidade. Com o modelo para gestão digital de frotas, é possível registar todos os veículos, reservas, danos e datas de forma centralizada, monitorizar os custos e criar uma base comum para a gestão da sua frota – de forma significativamente mais estruturada do que os ficheiros Excel clássicos de gestão de frotas.'
+      description: 'A IA no-code Solução o SeaTable destaca-se pela sua flexibilidade e adaptabilidade. Com o modelo para gestão digital de frotas, pode registar todos os veículos, reservas, danos e datas de forma centralizada, manter os custos sob controlo e criar uma base comum para a gestão da sua frota – de forma significativamente mais estruturada do que os ficheiros Excel clássicos de gestão de frotas.'
       items:
       - text: 'Sempre atualizado: graças aos comentários, ao histórico de alterações e às atualizações em tempo real, o utilizador permanece sempre informado – desde a primeira instalação do veículo até à utilização contínua em vários locais.'
       - text: 'Acesso a partir de qualquer lugar: com um modelo online, tem acesso a qualquer momento aos dados do veículo, reservas e compromissos – no escritório, em viagem ou diretamente a partir do veículo.'
@@ -160,8 +160,7 @@ sections:
        - curved
        - bg-gray-100
       title: 'Modelo de gestão de frota em vez de confusão na gestão de frota no Excel'
-      subtitle: 'Transparência e cooperação'
-      description: 'O SeaTable é uma solução moderna de base de dados sem código com IA, com automatizações e criador de aplicações, oferecendo todas as funcionalidades necessárias para uma gestão profissional e digital da frota. O foco está na rastreabilidade, trabalho em equipa e personalização flexível com os mais elevados padrões de segurança – desde a gestão de uma pequena frota inicial até uma frota escalável com várias localizações.'
+      subtitle: 'SeaTable é uma IA no-code solução moderna de base de dados com automatizações e App Builder, oferecendo todas as funcionalidades necessárias para uma gestão profissional e digital da frota. O foco está na rastreabilidade, trabalho em equipa e adaptação flexível com os mais elevados padrões de segurança – desde a primeira pequena gestão de frota até à frota escalável com várias localizações.'
       box-position: [right!]
       items:
       - headline: Alternativa ao Excel

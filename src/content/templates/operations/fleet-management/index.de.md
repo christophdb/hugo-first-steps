@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Fuhrparkverwaltung Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Vorlage für digitale Fuhrparkverwaltung erfassen Sie alle Fahrzeuge, Buchungen, Schäden und Termine zentral, behalten Kosten im Blick und schaffen eine gemeinsame Grundlage für Ihr Flottenmanagement – deutlich strukturierter als klassische Fuhrparkmanagement Excel‑Dateien.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Vorlage für digitale Fuhrparkverwaltung erfassen Sie alle Fahrzeuge, Buchungen, Schäden und Termine zentral, behalten Kosten im Blick und schaffen eine gemeinsame Grundlage für Ihr Flottenmanagement – deutlich strukturierter als klassische Fuhrparkmanagement Excel‑Dateien.'
       items:
       - text: '**Stets aktuell:** Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleiben Sie immer auf dem neuesten Stand – von der ersten Fahrzeuganlage bis zur laufenden Nutzung durch mehrere Standorte.'
       - text: '**Zugriff von überall:** Mit einer online geführten Vorlage haben Sie jederzeit Zugriff auf Fahrzeugdaten, Buchungen und Termine – im Büro, unterwegs oder direkt aus dem Fahrzeug heraus.'
@@ -161,7 +161,7 @@ sections:
        - bg-gray-100
       title: 'Fuhrparkverwaltung Vorlage statt Fuhrpark-Chaos in Excel'
       subtitle: 'Transparenz und Zusammenarbeit'
-      description: 'SeaTable ist eine moderne KI No-Code-Datenbanklösung mit Automatisierungen und App Builder und bietet alle Funktionen, die Sie für eine professionelle, digitale Fuhrparkverwaltung benötigen. Im Mittelpunkt stehen Nachvollziehbarkeit, Teamwork und flexible Anpassung bei höchsten Sicherheitsstandards – von der ersten kleinen Fuhrparkverwaltung bis zur skalierbaren Multi-Standort-Flotte.'
+      description: 'SeaTable ist eine moderne KI No-Code Datenbanklösung mit Automatisierungen und App Builder und bietet alle Funktionen, die Sie für eine professionelle, digitale Fuhrparkverwaltung benötigen. Im Mittelpunkt stehen Nachvollziehbarkeit, Teamwork und flexible Anpassung bei höchsten Sicherheitsstandards – von der ersten kleinen Fuhrparkverwaltung bis zur skalierbaren Multi-Standort-Flotte.'
       box-position: [right!]
       items:
       - headline: Alternative zu Excel
