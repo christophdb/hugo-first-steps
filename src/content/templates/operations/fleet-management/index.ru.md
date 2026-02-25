@@ -26,7 +26,7 @@ sections:
             link: 'pages/registration'
             style: primary
     
-    - name: "content-27"
+    - name: "content-4"
       weight: 2
       title: 'Шаблон управления автопарком для вашего автопарка'
       subtitle: Использование цифрового управления автопарком в режиме онлайн
