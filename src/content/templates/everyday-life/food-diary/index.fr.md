@@ -1,135 +1,135 @@
 ---
-title: 'Modèle journal alimentaire'
-description: "Consignez vos repas de manière structurée, repérez des schémas d’intolérances et partagez les données pertinentes avec des spécialistes."
+title: 'Modèle de journal alimentaire'
+description: "Documentez vos repas de manière structurée, identifiez les schémas d''intolérances et partagez les données pertinentes avec des experts."
 date: '2025-07-18'
 url: '/fr/modele/journal-alimentaire'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Modèle carnet alimentaire : application gratuite'
-    description: 'Modèle carnet alimentaire : saisissez repas & symptômes, analysez habitudes, partagez en ligne avec médecins ou nutritionnistes. SeaTable.'
+    title: 'Modèle de journal alimentaire : utilisez-le gratuitement dès maintenant'
+    description: 'Modèle de journal alimentaire numérique : enregistrez vos repas, identifiez les intolérances, analysez les données et partagez-les avec des experts – SeaTable.'
 template: '166dab67dcff4ee799fb'
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'Modèle de journal alimentaire gratuit'
-      text: "Traquez les intolérances alimentaires et les mauvaises habitudes alimentaires avec l'application Journal alimentaire de SeaTable. Enregistrez vos repas en quelques clics et mettez en évidence les liens entre les aliments, les habitudes alimentaires et les troubles."
+      title: 'Modèle gratuit de journal alimentaire'
+      text: 'Débusquez les intolérances alimentaires et les mauvaises habitudes grâce au modèle de journal alimentaire de SeaTable. Enregistrez vos repas en quelques clics et visualisez les liens entre vos aliments, vos habitudes et vos symptômes.'
       classes:
           - bg-white
       template: 166dab67dcff4ee799fb
       buttons:
-          - label: Inscrivez-vous gratuitement et utilisez le modèle
+          - label: S''inscrire gratuitement et utiliser le modèle
             link: 'pages/registration'
             style: primary
     
     - name: "content-4"
       weight: 2
-      title: "Gardez une vue d'ensemble grâce à notre modèle de journal alimentaire"
+      title: 'Gardez une vue d''ensemble avec notre modèle de journal alimentaire'
       subtitle: Journal alimentaire numérique
       text: 
       items:
         - icon: 'puzzle-piece'
           headline: 'Flexible'
-          text: 'Vous pouvez facilement personnaliser et compléter notre modèle gratuit en fonction de vos besoins - sans effort.'
+          text: 'Vous pouvez adapter et compléter notre modèle gratuit selon vos besoins individuels, très simplement et sans effort.'
         - icon: 'pencil'
-          headline: 'Entrée'
-          text: 'Saisissez vos repas directement et facilement via le formulaire intégré, même lorsque vous êtes en déplacement.'
+          headline: 'Saisie'
+          text: 'Enregistrez vos repas directement et facilement via le formulaire intégré – même lors de vos déplacements.'
         - icon: 'list'
-          headline: 'Aperçu'
-          text: "Regroupez et filtrez vos entrées et visualisez les corrélations - parfait en cas de suspicion d'allergie."
+          headline: 'Clair'
+          text: 'Groupez et filtrez vos entrées pour visualiser les corrélations – idéal en cas de suspicion d''allergies.'
         - icon: 'globe'
-          headline: "Créateur d'applications"
-          text: "Utilisez l'application pour la collecte de données et comme frontal du journal alimentaire - avec des masques de saisie et une base de connaissances." 
+          headline: 'App Builder'
+          text: 'Utilisez l''application pour la collecte de données et comme interface de votre journal, avec des masques de saisie et une base de connaissances.' 
         - icon: 'bell'
-          headline: 'Rappel'
-          text: 'Documentez les repas, les malaises et les informations pertinentes - de manière fiable grâce aux rappels intégrés.'
+          headline: 'Rappels'
+          text: 'Documentez vos plats, vos malaises et les informations pertinentes de manière fiable grâce aux rappels intégrés.'
         - icon: 'chart-line'
-          headline: 'Évaluations'
-          text: "Utilisez le tableau de bord de l'application universelle et évaluez votre journal alimentaire - sans outils supplémentaires."
+          headline: 'Analyses'
+          text: 'Utilisez le tableau de bord dans l''application universelle pour analyser votre journal alimentaire sans outils supplémentaires.' 
 
     - name: "content-12"
       weight: 5
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: "Utilisez SeaTable pour créer votre application d'historique alimentaire"
-      subtitle: "Utiliser gratuitement l'application Journal alimentaire en ligne"
-      description: 'SeaTable est une no-code solution moderne de base de données et aussi facile à utiliser qu un tableur - avec toutes les fonctions dont vous avez besoin pour un [journal alimentaire]({{< relref "posts/ernaehrungstagebuch" >}}).'
+      title: 'Réalisez votre protocole nutritionnel avec SeaTable'
+      subtitle: 'Utilisez gratuitement le modèle de journal alimentaire en ligne'
+      description: 'SeaTable est une solution de base de données no-code moderne, aussi simple à utiliser qu''un tableur, avec toutes les fonctions dont vous avez besoin pour un [journal alimentaire]({{< relref "posts/ernaehrungstagebuch" >}}).'
       items:
-      - text: 'Personnalisable : créez une application de journal alimentaire selon vos besoins.'
-      - text: "Accès de n'importe où : l'accès en ligne vous permet d'avoir vos données à portée de main à tout moment."
-      - text: "Partager avec d'autres personnes : Partagez votre journal alimentaire numérique avec des médecins ou des nutritionnistes."
-      - text: "Toujours à portée de main : vous pouvez accéder à votre journal alimentaire de n'importe où et à tout moment."
+      - text: 'Personnalisable : créez votre modèle de protocole nutritionnel selon vos souhaits.'
+      - text: 'Accès partout : grâce à l''accès en ligne, vos données sont toujours à portée de main.'
+      - text: 'Partage : partagez votre journal numérique avec des médecins ou des nutritionnistes.'
+      - text: 'Toujours disponible : vous pouvez accéder à votre journal alimentaire n''importe où et à tout moment.'
       image_position: [left]
       image: '/images/template_page_ernaehrungstagebuch_01.jpg'
-      image_alt: "Application de journal alimentaire en vue tableau avec icônes de confidentialité, de partage et d'utilisation mobile"
+      image_alt: 'Modèle de journal alimentaire en vue tableau avec des icônes pour la protection des données, le partage et l''utilisation mobile'
 
     - name: "content-13"
       weight: 18
       class:
        - curved
        - bg-gray-100
-      title: 'Un journal alimentaire numérique avec SeaTable'
+      title: 'Passez au journal alimentaire numérique avec SeaTable'
       subtitle: 'Vos avantages avec SeaTable'
-      description: "SeaTable offre une combinaison unique d'une interface de tableur familière, des fonctionnalités avancées d'une no-code base de données et d'un constructeur d'applications universel. Créez gratuitement votre propre application de suivi alimentaire en quelques clics et gardez un œil sur vos habitudes alimentaires."
+      description: 'SeaTable offre une combinaison unique entre une interface de tableau familière, les fonctions avancées d''une base de données no-code et un constructeur d''applications universelles. Créez votre propre protocole nutritionnel gratuitement en quelques clics et gardez le contrôle sur vos habitudes alimentaires.'
       box-position: [right!]
       items:
-      - headline: Reconnaître les allergies
-        text: Les intolérances ou allergies alimentaires non détectées peuvent causer de graves problèmes à long terme. Une documentation minutieuse de son alimentation et de ses éventuels troubles permet de détecter les allergies à un stade précoce et d'y voir plus clair.
+      - headline: Identifier les allergies
+        text: Des intolérances ou allergies non détectées peuvent causer de graves problèmes à long terme. Une documentation soignée de votre alimentation et de vos éventuels symptômes aide à identifier les allergies précocement et apporte de la clarté.
       - headline: Transparence
-        text: Ce modèle facilite les échanges avec les médecins et les diététiciens. En effet, avec des données structurées et disponibles à tout moment, vous gagnez du temps et facilitez les échanges. Un modèle peut s'avérer particulièrement utile pendant un traitement en cours.
+        text: Ce modèle facilite les échanges avec les médecins et les nutritionnistes. Grâce à des données structurées et actualisées en temps réel, vous gagnez du temps et facilitez le dialogue. Un modèle est particulièrement utile pendant une thérapie en cours.
 
     - name: "content-25"
       weight: 10
-      title: 'Créez votre application personnalisée de journal alimentaire avec SeaTable'
-      subtitle: "Plus qu'une application de journal alimentaire traditionnelle"
+      title: 'Créez votre modèle de journal alimentaire personnalisé avec SeaTable'
+      subtitle: 'Plus qu''un simple carnet alimentaire classique'
       items:
-      - headline: 'Application de journal alimentaire'
-        text: "Enregistrez tous vos repas et collations avec les aliments qu'ils contiennent. Vous pouvez facilement saisir toutes les données via un formulaire web personnalisable dans l'application universelle et les adapter à tout moment. Regroupez et filtrez vos entrées ou créez de nouvelles vues pour identifier les liens."
+      - headline: 'Carnet alimentaire'
+        text: 'Enregistrez tous vos repas et collations avec les aliments consommés. Vous pouvez saisir toutes les données via un formulaire web personnalisable dans l''application universelle et les modifier à tout moment. Regroupez et filtrez vos entrées ou créez de nouvelles vues pour identifier des connexions.'
         image: '/images/template_page_ernaehrungstagebuch_02.jpg'
-        image_alt: "Application gratuite de journal alimentaire en ligne avec SeaTable, tableau, personnalisable, partage avec les médecins, protection élevée des données, et accès mobile"
-      - headline: 'Base de données des intolérances et des allergènes'
-        text: "L'application Journal alimentaire de SeaTable est plus qu'une simple application de journal alimentaire. Dans la base de données intégrée et extensible sur les intolérances alimentaires, vous trouverez les symptômes et les aliments allergènes les plus courants des intolérances les plus répandues."
+        image_alt: 'Modèle de journal alimentaire gratuit en ligne avec SeaTable, tableau, personnalisable, partage avec médecins, haute protection des données et accès mobile'
+      - headline: 'Base de données pour les intolérances et allergènes'
+        text: 'Le modèle SeaTable est bien plus qu''un simple relevé de repas. Dans la base de données intégrée et évolutive sur les intolérances alimentaires, vous trouverez les symptômes les plus fréquents et les aliments allergènes pour les intolérances les plus courantes.'
         image: '/images/template_page_ernaehrungstagebuch_03.jpg'
-        image_alt: "Base de données des intolérances et des allergènes dans l'application Journal alimentaire avec symptômes et aperçu des aliments, personnalisable."
-      - headline: "Application universelle pour la collecte et l'analyse des données"
-        text: "Votre application de protocole alimentaire se compose de deux parties : une base de données de type Excel et une application no-code en guise de frontal. Vous y trouverez le formulaire de saisie des données, un tableau de bord d'analyse, un aperçu de la consommation de liquides par jour et le masque de recherche pour la base de données des intolérances."
+        image_alt: 'Base de données pour les intolérances et allergènes dans le journal alimentaire avec symptômes et aperçu des aliments, personnalisable.'
+      - headline: 'App universelle pour la saisie et l''analyse'
+        text: 'Votre application de protocole se compose de deux parties : une base de données de type Excel et une interface utilisateur no-code. Vous y trouverez le formulaire de saisie, un tableau de bord analytique, un suivi de l''hydratation quotidienne et le masque de recherche pour la base de données des intolérances.'
         image: '/images/template_page_ernaehrungstagebuch_04.jpg'
-        image_alt: 'Application avec base de données, tableau de bord et formulaire de journal alimentaire.'
+        image_alt: 'Base de données, tableau de bord et formulaire pour le journal alimentaire.'
       
     - name: "banner-3"
       weight: 12
       title: 'Inscrivez-vous gratuitement dès maintenant et utilisez le modèle de journal alimentaire'
       buttons:
-        - label: Utilisez le journal alimentaire dès maintenant
+        - label: Utiliser le journal alimentaire maintenant
           link: pages/registration
-          id: fr-vorlage-ernährungstagebuch-registration-3
+          id: fr-modele-journal-alimentaire-registration-3
 
     - name: "content-9"
       weight: 16
       title: 'Journal alimentaire assisté par IA avec SeaTable'
-      subtitle: 'Identifier les modèles, utiliser les données de manière plus intelligente'
-      description: 'Avec SeaTable, vous disposez de [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) qui vous assistent dans l évaluation de votre journal alimentaire. Analysez des textes, extrayez des informations de documents et résumez automatiquement vos conclusions.'
+      subtitle: 'Identifier des schémas, utiliser les données intelligemment'
+      description: 'Avec SeaTable, vous disposez de [fonctions d''IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) pour vous aider à analyser votre journal. Analysez des textes, extrayez des informations de documents et résumez automatiquement vos observations.'
       items:
       - headline: 'Catégorisation automatique avec Classify'
-        text: 'Classez automatiquement les entrées par catégories telles que « Petit-déjeuner », « Collation », « Teneur élevée en sucre » ou « Suspect en cas de troubles ». Vous identifierez ainsi plus rapidement les habitudes alimentaires et pourrez en discuter de manière plus ciblée avec des experts.'
+        text: 'Laissez l''IA classer automatiquement vos entrées par catégories telles que « Petit-déjeuner », « Snack », « Teneur élevée en sucre » ou « Suspect en cas de symptômes ». Identifiez plus rapidement les schémas comportementaux et discutez-en plus précisément avec des experts.'
         icon: table
-      - headline: 'Reconnaissance automatique de texte avec OCR'
-        text: "Veuillez scanner ou photographier les emballages alimentaires, les brochures de conseils nutritionnels ou les plans des cliniques et laissez l'application reconnaître automatiquement les informations pertinentes. La fonction OCR lit les textes à partir des images et les rend disponibles pour une analyse ultérieure."
+      - headline: 'Reconnaissance de texte avec OCR'
+        text: 'Scannez ou photographiez les emballages alimentaires, les brochures nutritionnelles ou les plans de cliniques. La fonction OCR extrait le texte des images pour le rendre disponible pour vos analyses.'
         icon: image
-      - headline: 'Extraction intelligente des données avec Extract'
-        text: "La fonction Extract vous permet d'extraire de manière ciblée des informations telles que les calories, les allergènes ou les quantités journalières recommandées à partir de textes et de les inscrire dans des colonnes distinctes. Cela réduit le travail manuel et garantit l'uniformité des structures de données."
+      - headline: 'Extraction intelligente avec Extract'
+        text: 'Utilisez la fonction Extract pour tirer des informations spécifiques comme les calories, les allergènes ou les apports journaliers recommandés à partir de textes bruts et les placer dans des colonnes dédiées.'
         icon: layer-group
       - headline: 'Résumés avec Summarize'
-        text: 'Veuillez permettre la synthèse automatique de notes plus longues ou de descriptions en texte libre, par exemple concernant des symptômes ou des situations alimentaires. La fonction « Summarize » crée des résumés que vous pouvez utiliser pour les médecins, les nutritionnistes ou les rétrospectives de journal.'
+        text: 'Faites résumer automatiquement vos notes plus longues ou vos descriptions libres sur vos symptômes. La fonction Summarize crée des synthèses utiles pour vos médecins ou vos bilans personnels.'
         icon: circle-info
-      - headline: "Règles d'IA personnalisées avec invite personnalisée"
-        text: "Les invites personnalisées vous permettent de définir vos propres instructions d'IA pour votre journal alimentaire. Exemples : remarques sur des habitudes alimentaires particulières, suggestions de questions à poser lors de votre prochain rendez-vous médical ou brefs rapports hebdomadaires sur vos habitudes alimentaires et votre bien-être."
+      - headline: 'Règles IA personnalisées avec Custom Prompt'
+        text: 'Définissez vos propres instructions IA pour votre journal. Exemples : repérer des motifs suspects pour certains aliments, suggérer des questions pour votre prochain rendez-vous médical ou générer des rapports hebdomadaires sur votre bien-être.'
         icon: wand-magic-sparkles
-      - headline: 'Rapports accessibles en un clic'
-        text: "Générez automatiquement des rapports sur vos habitudes alimentaires, vos symptômes documentés et les éventuels facteurs déclenchants. L'IA synthétise vos données de manière structurée afin que vous puissiez facilement les exporter ou les discuter avec les professionnels de santé qui vous suivent."
+      - headline: 'Rapports en un clic'
+        text: 'Générez automatiquement des rapports sur vos habitudes, vos symptômes documentés et les déclencheurs potentiels. L''IA structure vos données pour que vous puissiez les exporter facilement pour vos professionnels de santé.'
         icon: arrow-right
 
     - name: "content-6"
@@ -137,32 +137,32 @@ sections:
       classes:
         - curved
         - bg-gray-100
-      title: 'Votre propre application de journal alimentaire avec SeaTable'
+      title: 'Créez votre propre journal alimentaire avec SeaTable'
       subtitle: 
       items:
-      - text: "Avec l'outil intégré no-code app builder de SeaTable, vous pouvez créer votre propre application de nutrition en quelques étapes. En plus des repas, des heures de repas et des symptômes, vous pouvez enregistrer des nutriments ou des informations détaillées sur la situation alimentaire ou les habitudes d'exercice. Vos exigences et vos souhaits déterminent la forme de votre journal alimentaire numérique !"
+      - text: 'Grâce au constructeur no-code intégré de SeaTable, créez votre plan nutritionnel personnalisé en quelques étapes. Enregistrez non seulement les repas et les horaires, mais aussi les nutriments, le contexte des repas ou vos activités physiques. Vos besoins déterminent l''apparence de votre journal numérique !'
       image: '/images/template_page_ernaehrungstagebuch_05.jpg'
-      image_alt: 'Application de journal alimentaire personnalisé avec SeaTable no-code builder, collecte de données sur les repas, les nutriments et les troubles.'
+      image_alt: 'Journal alimentaire individuel avec le constructeur no-code de SeaTable, saisie des repas, nutriments et symptômes.'
 
     - name: "faq"
       weight: 20
-      title: "FAQ – Modèle d'application pour journal alimentaire"
+      title: 'FAQ – Modèle de journal alimentaire'
       subtitle: 
       items:
-      - q: "Est-il possible de partager le journal alimentaire de l'application avec des tiers ?"
-        a: "Oui, vous avez la possibilité de partager votre journal alimentaire numérique de différentes manières avec des tiers, par exemple des médecins, des thérapeutes ou des nutritionnistes, et d'attribuer des droits d'accès individuels à chaque utilisateur. Les personnes ne disposant pas d'un compte SeaTable peuvent accéder à certaines données en lecture seule via des vues partagées."
-      - q: "Mon application de journal alimentaire est-elle sécurisée sur SeaTable ?"
-        a: 'Oui, SeaTable répond à des exigences élevées en matière de protection et de sécurité des données. Le cloud SeaTable est hébergé exclusivement sur des serveurs certifiés en Allemagne et est entièrement conforme au RGPD. Vous décidez à tout moment qui est autorisé à consulter ou à modifier quelles données.'
-      - q: "L'application Journal alimentaire est-elle accessible gratuitement ?"
-        a: "Oui, vous pouvez utiliser l'application Journal alimentaire gratuitement. Avec le compte gratuit, vous pouvez commencer sans limite de temps et adapter directement le modèle à vos besoins. Si votre projet prend de l'ampleur, vous pouvez à tout moment passer à un forfait payant offrant des fonctionnalités supplémentaires."
-      - q: "Puis-je personnaliser et compléter mon journal alimentaire ?"
-        a: "Oui, vous pouvez ajouter des colonnes, des tableaux, des automatisations ou d'autres pages d'application supplémentaires, par exemple pour des recettes, des plans hebdomadaires, des journaux d'activité physique ou le suivi de l'humeur. SeaTable peut être personnalisé sans connaissances en programmation et reste flexible."
+      - q: "Puis-je partager le modèle de journal alimentaire avec des tiers ?"
+        a: 'Oui, vous pouvez partager votre journal de différentes manières avec des tiers (médecins, thérapeutes, nutritionnistes) et attribuer des droits d''accès individuels. Les personnes sans compte SeaTable peuvent consulter les données sélectionnées via des vues partagées en lecture seule.'
+      - q: "Mes données de protocole alimentaire sont-elles en sécurité chez SeaTable ?"
+        a: 'Oui, SeaTable répond à des exigences élevées en matière de protection et de sécurité des données. Le cloud SeaTable est hébergé exclusivement sur des serveurs certifiés en Allemagne et est entièrement conforme au RGPD. Vous décidez à tout moment qui peut voir ou modifier vos données.'
+      - q: "Le modèle de journal alimentaire est-il gratuit ?"
+        a: 'Oui, vous pouvez utiliser le modèle gratuitement. Avec le compte gratuit, vous commencez sans limite de temps et pouvez adapter le modèle immédiatement. Si votre projet grandit, vous pouvez passer à tout moment à un forfait payant pour plus de fonctions.'
+      - q: "Puis-je adapter et étendre mon journal alimentaire ?"
+        a: 'Oui, vous pouvez ajouter des colonnes, des tableaux ou des automatisations supplémentaires – par exemple pour des recettes, des plans hebdomadaires ou le suivi de l''humeur. SeaTable s''étend individuellement sans connaissances en programmation.'
       - q: "Puis-je exporter ou imprimer mon journal alimentaire ?"
-        a: "Oui, vous pouvez exporter vos données sous forme de fichier ou les préparer pour l'impression à l'aide de vues adaptées, par exemple sous forme d'aperçu pour les rendez-vous médicaux, les consultations diététiques ou pour votre propre documentation. Vous conservez ainsi une vue d'ensemble de vos entrées même hors ligne."
-      - q: "Puis-je également associer le modèle de journal alimentaire à d'autres modèles ?"
-        a: 'Oui, vous pouvez associer le journal alimentaire à d autres modèles SeaTable, tels qu un plan de traitement médicamenteux ou un [dossier médical général]({{< relref "templates/healthcare/electronic-health-record" >}}). Ainsi, vous obtenez progressivement une vue d ensemble centralisée et complète de vos données de santé, le tout dans une seule et même solution.'
-      - q: "Puis-je configurer des rappels pour des entrées ou des heures spécifiques ?"
-        a: "Oui, grâce à l'automatisation, vous pouvez configurer des e-mails de rappel ou des notifications, par exemple pour documenter vos repas en temps réel ou planifier des contrôles réguliers pour les plaintes et le bien-être. Cela vous aide à tenir votre journal alimentaire de manière cohérente."
-      - q: "Le modèle de journal alimentaire convient-il également à plusieurs personnes ?"
-        a: 'Oui, vous pouvez utiliser le modèle de journal alimentaire pour plusieurs personnes, par exemple pour les membres de votre famille ou vos clients. Pour ce faire, créez des tableaux séparés ou des filtres/vues pour chaque personne et utilisez les autorisations pour contrôler qui peut voir quelles données.'      
+        a: 'Oui, vos données peuvent être exportées sous forme de fichier ou préparées pour l''impression via des vues adaptées, par exemple pour un rendez-vous médical. Vous gardez ainsi le contrôle même hors ligne.'
+      - q: "Puis-je combiner ce modèle avec d'autres modèles ?"
+        a: 'Oui, vous pouvez combiner le journal alimentaire avec d''autres modèles SeaTable, comme un plan de médication ou un [dossier de santé]({{< relref "templates/healthcare/electronic-health-record" >}}). Vous créez ainsi progressivement une vue d''ensemble centralisée de vos données de santé.'
+      - q: "Puis-je configurer des rappels pour les saisies ?"
+        a: 'Oui, grâce aux automatisations, vous pouvez configurer des e-mails ou des notifications de rappel pour documenter vos repas à temps ou planifier des bilans réguliers de vos symptômes. Cela vous aide à tenir votre journal de manière constante.'
+      - q: "Le modèle convient-il pour plusieurs personnes ?"
+        a: 'Oui, vous pouvez utiliser ce modèle pour plusieurs personnes, par exemple pour des membres de la famille ou des clients. Créez des tableaux séparés ou des filtres/vues par personne et gérez les accès via les autorisations.'
 ---
