@@ -5,7 +5,7 @@ date: '2025-02-28'
 url: '/fr/modeles/outil-crm/'
 aliases:
     - '/fr/modeles/crm-offer-management'
-    - '/fr/modeles/logiciel-crm/
+    - '/fr/modeles/logiciel-crm/'
 category: 'sales'
 functions:
 seo:
