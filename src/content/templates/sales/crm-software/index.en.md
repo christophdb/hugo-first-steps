@@ -1,23 +1,24 @@
 ---
-title: 'CRM Software'
+title: 'CRM Tool'
 description: 'Manage customer data, capture new leads and deals, and create quotes at the touch of a button.'
 date: '2025-02-28'
-url: '/templates/crm-software/'
+url: '/templates/crm-tool/'
 aliases:
     - '/templates/crm-offer-management'
+    - '/templates/crm-software/'
 category: 'sales'
 functions:
 seo:
-    title: 'SeaTables CRM software for smart sales processes' 
-    description: 'Flexible CRM software: manage customer data, record leads and deals, create quotes at the touch of a button, and generate smart scores using AI.'
+    title: 'SeaTables CRM tool for smart sales processes' 
+    description: 'Flexible CRM tool: manage customer data, record leads and deals, create quotes at the touch of a button, and generate smart scores using AI.'
 
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – Your flexible CRM software'
-      text: 'With SeaTable, complex CRM systems are a thing of the past. Our intuitive CRM software helps you improve your customer management and gain a clear view of your sales pipeline. Flexible, scalable, GDPR-compliant, and AI-supported.'
+      title: 'SeaTable – Your flexible CRM tool'
+      text: 'With SeaTable, complex CRM systems are a thing of the past. Our intuitive CRM tool helps you improve your customer management and gain a clear view of your sales pipeline. Flexible, scalable, GDPR-compliant, and AI-supported.'
       classes:
           - bg-white
       template: '80356f5aa87e4a879b52'
@@ -72,7 +73,7 @@ sections:
       weight: 5
       classes:
         - curved
-      title: 'CRM software from SeaTable'
+      title: 'CRM tool from SeaTable'
       subtitle: 'Your advantages at a glance'
       description: With SeaTable's **AI no-code solution**, you can use [a modern and scalable CRM tool]({{< relref "posts/no-code-crm" >}}) for your sales operations. Our template offers many advantages for setting up lean processes and generating more deals.
       items:
@@ -134,7 +135,7 @@ sections:
       weight: 16
       title: 'AI-powered CRM solution from SeaTable'
       subtitle: 'Smart automation with integrated AI'
-      description: With SeaTable's CRM software, you benefit from integrated, powerful [AI functions]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) that help you get the most out of your customer data. Automate tasks and save time!
+      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) that help you get the most out of your customer data. Automate tasks and save time!
      
       items:
       - headline: 'Classification with Classify'
@@ -174,7 +175,7 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQs – CRM software from SeaTable'
+      title: 'FAQs – CRM tool from SeaTable'
       subtitle: 
       items:
       - q: "Is the template for a CRM tool free to use?" 
