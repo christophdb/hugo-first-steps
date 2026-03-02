@@ -44,7 +44,7 @@ sections:
       subtitle: Für eine höhere Kundenzufriedenheit
       items:
       - headline: Flexibles Kundenbeziehungsmanagement
-        text: Organisieren Sie Ihre [Kundendaten]({{< relref "templates/sales/crm-software" >}}) passgenau nach Ihren Anforderungen. Speichern Sie Kontaktdaten, **Angebote, Forecasts, Kundenhistorie und Follow-ups** an einem zentralen Ort. Mit den **integrierten KI-Funktionen**  klassifizieren Sie Kontakte und fassen E-Mails zusammen.
+        text: Organisieren Sie Ihre [Kundendaten]({{< relref "templates/sales/crm-tool" >}}) passgenau nach Ihren Anforderungen. Speichern Sie Kontaktdaten, **Angebote, Forecasts, Kundenhistorie und Follow-ups** an einem zentralen Ort. Mit den **integrierten KI-Funktionen**  klassifizieren Sie Kontakte und fassen E-Mails zusammen.
         image: /images/landing-page-kundenmanagement-verwaltung.jpg
         image_alt: 'SeaTable Ansicht zur Verwaltung von Kundendaten, Notizen, Interaktionen und KI-Auswertungen'
 

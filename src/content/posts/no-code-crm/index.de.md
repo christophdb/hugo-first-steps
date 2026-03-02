@@ -162,7 +162,7 @@ Sie wünschen sich ein genaueres Tutorial für Anfänger? Hier finden Sie ein Yo
 
 ### Nutzen Sie eine No-Code CRM Vorlage
 
-Damit Sie nicht von Grund auf neu anfangen müssen, haben wir Ihnen eine [praktische Vorlage]({{< relref "templates/sales/crm-software" >}}) in SeaTable gebaut, die bereits die üblichen Anforderungen an ein CRM abdeckt. 
+Damit Sie nicht von Grund auf neu anfangen müssen, haben wir Ihnen eine [praktische Vorlage]({{< relref "templates/sales/crm-tool" >}}) in SeaTable gebaut, die bereits die üblichen Anforderungen an ein CRM abdeckt. 
 
 {{< template-box id="80356f5aa87e4a879b52" height="530" >}}
 

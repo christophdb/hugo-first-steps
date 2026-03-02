@@ -102,7 +102,7 @@ Qui sont vos clients potentiels et comment les atteindre ? Avant de créer une s
 
 Lorsque vous avez acquis vos premiers clients et que vous devez gérer des commandes, il devient évident que vos processus bien pensés fonctionnent réellement. C'est pourquoi il est recommandé de les mettre en place sur des plates-formes sans code, afin que vous puissiez rapidement adapter et optimiser les processus dans des conditions réelles. Par exemple, vous pouvez gagner beaucoup de temps en utilisant des outils No-Code pour :
 
-*   gérer les données clients dans un [système CRM]({{< relref "templates/sales/crm-software" >}})
+*   gérer les données clients dans un [système CRM]({{< relref "templates/sales/crm-tool" >}})
 *   traiter les demandes dans un [système de billetterie]({{< relref "posts/20250521-ticketing-system" >}})
 *   rédiger des [devis]({{< relref "templates/sales/quotation-management" >}}) et des [factures]({{< relref "templates/finance/invoice-creation" >}})
 *   documenter les [commandes]({{< relref "templates/sales/order-confirmation" >}}) pour la comptabilité

@@ -102,7 +102,7 @@ Quem são os seus potenciais clientes e como é que os alcança? Antes de criar 
 
 Quando tiver adquirido os seus primeiros clientes e tiver de processar encomendas, torna-se claro se os seus processos bem pensados estão realmente a funcionar. Por isso, é aconselhável que os configure em plataformas sem código, para que possa adaptar e otimizar rapidamente os processos em condições reais. Por exemplo, pode poupar muito tempo se utilizar ferramentas sem código para:
 
-*   manter os dados dos clientes num [sistema CRM]({{< relref "templates/sales/crm-software" >}})
+*   manter os dados dos clientes num [sistema CRM]({{< relref "templates/sales/crm-tool" >}})
 *   processar pedidos de informação num [sistema de bilhética]({{< relref "posts/20250521-ticketing-system" >}})
 *   redigir [orçamentos]({{< relref "templates/sales/quotation-management" >}}) e [facturas]({{< relref "templates/finance/invoice-creation" >}})
 *   documentar [encomendas]({{< relref "templates/sales/order-confirmation" >}}) para o departamento de contabilidade

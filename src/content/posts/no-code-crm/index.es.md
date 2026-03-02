@@ -162,7 +162,7 @@ Con SeaTable puede crear un CRM sin código en 5 pasos:
 
 ### Utilice una plantilla CRM sin código
 
-Para que no tenga que empezar desde cero, le hemos creado una [práctica plantilla]({{< relref "templates/sales/crm-software" >}}) en SeaTable que ya cubre los requisitos habituales de un CRM.
+Para que no tenga que empezar desde cero, le hemos creado una [práctica plantilla]({{< relref "templates/sales/crm-tool" >}}) en SeaTable que ya cubre los requisitos habituales de un CRM.
 
 {{< template-box id="80356f5aa87e4a879b52" height="530" >}}
 

@@ -162,7 +162,7 @@ Would you like a more detailed tutorial for beginners? Here you will find a YouT
 
 ### Use a no-code CRM template
 
-So that you don't have to start from scratch, we have built a [practical template]({{< relref "templates/sales/crm-software" >}}) in SeaTable that already covers the usual requirements for a CRM.
+So that you don't have to start from scratch, we have built a [practical template]({{< relref "templates/sales/crm-tool" >}}) in SeaTable that already covers the usual requirements for a CRM.
 
 {{< template-box id="80356f5aa87e4a879b52" height="530" >}}
 

@@ -102,7 +102,7 @@ Llevar un registro de todos los ingresos y gastos es esencial para cualquier emp
 
 Una vez que haya conseguido sus primeros clientes y tenga que procesar los pedidos, quedará claro si sus procesos bien pensados están funcionando realmente. Por ello, es aconsejable establecerlos en plataformas sin código para que pueda adaptar y optimizar rápidamente los procesos en condiciones reales. Por ejemplo, puede ahorrar mucho tiempo si utiliza herramientas sin código para:
 
-*   mantener los datos de los clientes en un [sistema CRM]({{< relref "templates/sales/crm-software" >}})
+*   mantener los datos de los clientes en un [sistema CRM]({{< relref "templates/sales/crm-tool" >}})
 *   procesar consultas en un [sistema de tickets]({{< relref "posts/20250521-ticketing-system" >}})
 *   redactar [presupuestos]({{< relref "templates/sales/quotation-management" >}}) y [facturas]({{< relref "templates/finance/invoice-creation" >}})
 *   documentar [pedidos]({{< relref "templates/sales/order-confirmation" >}}) para el departamento de contabilidad

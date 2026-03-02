@@ -103,7 +103,7 @@ Wer sind Ihre potenziellen Kunden und wie erreichen Sie sie? Bevor Sie ein Start
 
 Wenn Sie Ihre ersten Kunden gewonnen haben und Aufträge abwickeln müssen, zeigt sich, ob Ihre durchdachten Prozesse wirklich funktionieren. Daher empfiehlt es sich, diese auf No-Code-Plattformen aufzusetzen, damit Sie die Abläufe unter realen Bedingungen schnell anpassen und optimieren können. Zum Beispiel können Sie viel Zeit sparen, wenn Sie mit No-Code-Tools:
 
-*   Kundendaten in einem [CRM-System]({{< relref "templates/sales/crm-software" >}}) pflegen
+*   Kundendaten in einem [CRM-System]({{< relref "templates/sales/crm-tool" >}}) pflegen
 *   Anfragen in einem [Ticketing-System]({{< relref "posts/20250521-ticketing-system" >}}) abarbeiten
 *   [Angebote]({{< relref "templates/sales/quotation-management" >}}) und [Rechnungen]({{< relref "templates/finance/invoice-creation" >}}) schreiben
 *   [Aufträge]({{< relref "templates/sales/order-confirmation" >}}) für die Buchhaltung dokumentieren
