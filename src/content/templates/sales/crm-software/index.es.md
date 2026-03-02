@@ -1,23 +1,24 @@
 ---
-title: 'Software CRM'
+title: 'Herramienta CRM' 
 description: "Gestione los datos de los clientes, capte nuevos clientes potenciales y acuerdos, y cree presupuestos con solo pulsar un botón."
 date: '2025-02-28'
-url: '/es/plantilla/software-crm/'
+url: '/es/plantilla/herramienta-crm/'
 aliases:  
     - '/es/plantilla/crm-offer-management'
+    - '/es/plantilla/software-crm/'
 category: 'sales'
 functions:
 seo:
-    title: "Software SeaTables CRM para procesos de ventas inteligentes" 
-    description: 'Software CRM flexible: gestione los datos de los clientes, registre clientes potenciales y acuerdos, cree presupuestos con solo pulsar un botón y genere puntuaciones inteligentes mediante IA.'
+    title: "Herramienta CRM de SeaTable para procesos de ventas inteligentes" 
+    description: 'Herramienta CRM flexible: gestione los datos de los clientes, registre clientes potenciales y acuerdos, cree presupuestos con solo pulsar un botón y genere puntuaciones inteligentes mediante IA.'
 
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable: su software CRM flexible'
-      text: 'Con SeaTable, los complejos sistemas CRM son cosa del pasado. Nuestro intuitivo software CRM le ayuda a mejorar la gestión de sus clientes y a obtener una visión clara de su canal de ventas. Flexible, escalable, compatible con el RGPD y compatible con IA.'
+      title: 'SeaTable: su herramienta CRM flexible'
+      text: 'Con SeaTable, los complejos sistemas CRM son cosa del pasado. Nuestro intuitivo herramienta CRM le ayuda a mejorar la gestión de sus clientes y a obtener una visión clara de su canal de ventas. Flexible, escalable, compatible con el RGPD y compatible con IA.'
       classes:
           - bg-white
       template: '80356f5aa87e4a879b52'
@@ -72,7 +73,7 @@ sections:
       weight: 5
       classes:
         - curved
-      title: 'Software CRM de SeaTable'
+      title: 'Herramienta CRM de SeaTable'
       subtitle: 'Sus ventajas de un vistazo'
       description: Con la **solución no-code y con IA** de SeaTable, puede utilizar [una herramienta CRM moderna y escalable]({{< relref "posts/no-code-crm" >}}) para sus operaciones de ventas. Nuestra plantilla ofrece muchas ventajas para configurar procesos ágiles y generar más negocios.
       items:
@@ -134,7 +135,7 @@ sections:
       weight: 16
       title: 'Solución CRM basada en IA de SeaTable'
       subtitle: 'Automatización inteligente con IA integrada'
-      description: Con el software CRM de SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})  integradas, que le ayudan a sacar el máximo partido a los datos de sus clientes. Automatice tareas y ahorre tiempo.
+      description: Con el plantilla CRM de SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})  integradas, que le ayudan a sacar el máximo partido a los datos de sus clientes. Automatice tareas y ahorre tiempo.
      
       items:
       - headline: 'Clasificación con Classify'
@@ -174,7 +175,7 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: "Preguntas frecuentes: software CRM de SeaTable"
+      title: "Preguntas frecuentes: herramienta CRM de SeaTable"
       subtitle: 
       items:
       - q: "¿La plantilla para la herramienta CRM es de uso gratuito?" 

@@ -1,23 +1,24 @@
 ---
-title: 'CRM Software'
+title: 'CRM Tool'
 description: 'Verwalten Sie Kundendaten, erfassen Sie neue Leads und Deals und erstellen Sie Angebote auf Knopfdruck.'
 date: '2025-02-28'
-url: '/de/vorlagen/crm-software/'
+url: '/de/vorlagen/crm-tool/'
 aliases: 
     - '/de/vorlagen/crm-offer-management'
+    - '/de/vorlagen/crm-software/'
 category: 'sales'
 functions:
 seo:
-    title: 'SeaTables CRM Software für smarte Sales Prozesse'
-    description: 'Flexible CRM Software: Kundendaten verwalten, Leads und Deals erfassen, Angebote auf Knopfdruck erstellen und mit KI smarte Scorings erstellen.'
+    title: 'SeaTables CRM Tool für smarte Sales Prozesse'
+    description: 'Flexibles CRM Tool: Kundendaten verwalten, Leads und Deals erfassen, Angebote auf Knopfdruck erstellen und mit KI smarte Scorings erstellen.'
 
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – Ihre flexible CRM Software'
-      text: 'Mit SeaTable sind komplexe CRM-Systeme Vergangenheit. Mit unserer intuitiven CRM Software verbessern Sie Ihr Kundenmanagement und gewinnen einen klaren Blick auf Ihre Sales Pipeline. Flexibel – skalierbar – DSGVO-konform – mit KI-Unterstützung.'
+      title: 'SeaTable – Ihr flexibles CRM Tool'
+      text: 'Mit SeaTable sind komplexe CRM-Systeme Vergangenheit. Mit unserem intuitiven CRM Tool verbessern Sie Ihr Kundenmanagement und gewinnen einen klaren Blick auf Ihre Sales Pipeline. Flexibel – skalierbar – DSGVO-konform – mit KI-Unterstützung.'
       classes:
           - bg-white
       template: '80356f5aa87e4a879b52'
@@ -72,7 +73,7 @@ sections:
       weight: 5
       classes:
         - curved
-      title: 'CRM Software von SeaTable'
+      title: 'CRM Tool von SeaTable'
       subtitle: 'Ihre Vorteile auf einen Blick'
       description: 'Mit der **KI No-Code-Lösung** von SeaTable nutzen Sie ein [modernes und skalierbares CRM-Tool]({{< relref "posts/no-code-crm" >}}) für Ihre Sales-Operationen. Unsere CRM-Vorlage bietet viele Vorteile, um schlanke Prozesse aufzusetzen und mehr Deals zu generieren.'
       items:
@@ -134,7 +135,7 @@ sections:
       weight: 16
       title: 'KI-unterstützte CRM Lösung von SeaTable'
       subtitle: 'Smarte Automatisierung mit integrierter KI'
-      description: 'Mit der CRM Software von SeaTable profitieren Sie von integrierten, leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), mit denen Sie das Beste aus Ihren Kundendaten machen. Automatisieren Sie Aufgaben und sparen Sie Zeit!'
+      description: 'Mit der CRM Vorlage von SeaTable profitieren Sie von integrierten, leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), mit denen Sie das Beste aus Ihren Kundendaten machen. Automatisieren Sie Aufgaben und sparen Sie Zeit!'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Eingehende Daten werden automatisch kategorisiert. So erstellen Sie ein intelligentes Lead Scoring mit eindeutigen Scores basierend auf Interaktionsdaten, Unternehmensdaten und Umsatzprognosen – perfekt für Priorisierungen.'
@@ -173,13 +174,13 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQs – CRM Software von SeaTable'
+      title: 'FAQs – CRM Tool von SeaTable'
       subtitle: 
       items:
       - q: "Ist die Vorlage für ein CRM-Tool kostenlos nutzbar?"
         a: 'Ja, Sie können alle SeaTable-Vorlagen dauerhaft kostenlos nutzen. Sie müssen sich dafür lediglich einmal kostenfrei bei SeaTable anmelden und können es sofort als CRM-Programm nutzen.'
       - q: "Kann ich CRM-Daten aus bestehenden Systemen übernehmen?"
-        a: 'Absolut, Sie können vorhandene CRM-Daten über einen Datenimport unkompliziert in Ihre neue CRM Software SeaTable übernehmen. Sie können Daten über eine API-Schnittstelle importieren oder alternativ CSV-  XLSX-Dateien direkt importieren.'
+        a: 'Absolut, Sie können vorhandene CRM-Daten über einen Datenimport unkompliziert in Ihr neues CRM Tool SeaTable übernehmen. Sie können Daten über eine API-Schnittstelle importieren oder alternativ CSV-  XLSX-Dateien direkt importieren.'
       - q: "Kann ich mit SeaTable ein automatisches Lead Scoring aufsetzen?"
         a: "Ja, SeaTable erlaubt Ihnen, in Ihrem CRM-Tool einzelnen Kontakten Attribute anhand verschiedener Kriterien zuzuweisen. Mit unseren integrierten KI-unterstützten Automatisierungen lassen sich ganz einfach verschiedene Faktoren berücksichtigen und in ein einheitliches Bewertungssystem umsetzen."   
       - q: "Sales Manager sollen nur ihre eigene Deal Pipeline einsehen können. Geht das?"
