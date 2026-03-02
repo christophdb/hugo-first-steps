@@ -44,7 +44,7 @@ sections:
       subtitle: Pour une plus grande satisfaction client
       items:
       - headline: Gestion flexible de la relation client
-        text: Organisez vos [données clients]({{< relref "templates/sales/crm-software" >}}) de manière personnalisée selon vos besoins. Enregistrez les coordonnées, **les offres, les prévisions, l'historique client et les suivis** dans un emplacement centralisé. Grâce aux **fonctionnalités d'IA intégrées**, vous pouvez classer vos contacts et regrouper vos e-mails.
+        text: Organisez vos [données clients]({{< relref "templates/sales/crm-tool" >}}) de manière personnalisée selon vos besoins. Enregistrez les coordonnées, **les offres, les prévisions, l'historique client et les suivis** dans un emplacement centralisé. Grâce aux **fonctionnalités d'IA intégrées**, vous pouvez classer vos contacts et regrouper vos e-mails.
         image: /images/landing-page-kundenmanagement-verwaltung.jpg
         image_alt: 'Vue SeaTable pour la gestion des données clients, des notes, des interactions et des évaluations IA'
 

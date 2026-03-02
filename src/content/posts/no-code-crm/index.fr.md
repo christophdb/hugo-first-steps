@@ -162,7 +162,7 @@ Vous souhaitez un tutoriel plus précis pour les débutants ? Vous trouverez ici
 
 ### Utilisez un modèle de CRM sans code
 
-Pour vous éviter de partir de zéro, nous avons construit un [modèle pratique]({{< relref "templates/sales/crm-software" >}}) dans SeaTable qui couvre déjà les besoins habituels d'un CRM.
+Pour vous éviter de partir de zéro, nous avons construit un [modèle pratique]({{< relref "templates/sales/crm-tool" >}}) dans SeaTable qui couvre déjà les besoins habituels d'un CRM.
 
 {{< template-box id="80356f5aa87e4a879b52" height="530" >}}
 

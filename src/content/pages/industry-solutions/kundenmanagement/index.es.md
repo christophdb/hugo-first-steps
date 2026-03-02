@@ -44,7 +44,7 @@ sections:
       subtitle: Para una mayor satisfacción del cliente
       items:
       - headline: Gestión flexible de las relaciones con los clientes
-        text: 'Organice los [datos de sus clientes]({{< relref "templates/sales/crm-software" >}}) según sus necesidades. Guarde los datos de contacto, **las ofertas, las previsiones, el historial de los clientes y los seguimientos** en un lugar centralizado. Con las **funciones de inteligencia artificial integradas**, puede clasificar los contactos y resumir los correos electrónicos.'  
+        text: 'Organice los [datos de sus clientes]({{< relref "templates/sales/crm-tool" >}}) según sus necesidades. Guarde los datos de contacto, **las ofertas, las previsiones, el historial de los clientes y los seguimientos** en un lugar centralizado. Con las **funciones de inteligencia artificial integradas**, puede clasificar los contactos y resumir los correos electrónicos.'  
         image: /images/landing-page-kundenmanagement-verwaltung.jpg
         image_alt: Vista de SeaTable para la gestión de datos de clientes, notas, interacciones y evaluaciones de IA.
 

@@ -44,7 +44,7 @@ sections:
       subtitle: For greater customer satisfaction
       items:
       - headline: Flexible customer relationship management
-        text: Organize your [customer data]({{< relref "templates/sales/crm-software" >}}) precisely according to your requirements. Store contact details, **quotes, forecasts, customer history, and follow-ups** in one central location. Use the **integrated AI functions** to classify contacts and summarize emails.
+        text: Organize your [customer data]({{< relref "templates/sales/crm-tool" >}}) precisely according to your requirements. Store contact details, **quotes, forecasts, customer history, and follow-ups** in one central location. Use the **integrated AI functions** to classify contacts and summarize emails.
         image: /images/landing-page-kundenmanagement-verwaltung.jpg
         image_alt: 'SeaTable view for managing customer data, notes, interactions, and AI evaluations'
 

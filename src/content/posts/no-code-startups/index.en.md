@@ -102,7 +102,7 @@ Who are your potential customers and how do you reach them? Before you found a s
 
 Once you have acquired your first customers and have to process orders, it becomes clear whether your well-thought-out processes are really working. It is therefore advisable to set these up on no-code platforms so that you can quickly adapt and optimize the processes under real conditions. For example, you can save a lot of time if you use no-code tools:
 
-*   maintain customer data in a [CRM system]({{< relref "templates/sales/crm-software" >}})
+*   maintain customer data in a [CRM system]({{< relref "templates/sales/crm-tool" >}})
 *   process inquiries in a [ticketing system]({{< relref "posts/20250521-ticketing-system" >}})
 *   write [quotations]({{< relref "templates/sales/quotation-management" >}}) and [invoices]({{< relref "templates/finance/invoice-creation" >}})
 *   document [orders]({{< relref "templates/sales/order-confirmation" >}}) for the accounting department

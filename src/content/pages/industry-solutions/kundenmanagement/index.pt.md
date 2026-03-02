@@ -44,7 +44,7 @@ sections:
       subtitle: Para uma maior satisfação do cliente
       items:
       - headline: Gestão flexível das relações com os clientes
-        text: Organize os seus [dados de clientes]({{< relref "templates/sales/crm-software" >}}) de acordo com as suas necessidades. Armazene dados de contacto, **ofertas, previsões, histórico de clientes e acompanhamentos** num local centralizado. Com as **funcionalidades de IA integradas**, pode classificar contactos e resumir e-mails.
+        text: Organize os seus [dados de clientes]({{< relref "templates/sales/crm-tool" >}}) de acordo com as suas necessidades. Armazene dados de contacto, **ofertas, previsões, histórico de clientes e acompanhamentos** num local centralizado. Com as **funcionalidades de IA integradas**, pode classificar contactos e resumir e-mails.
         image: /images/landing-page-kundenmanagement-verwaltung.jpg
         image_alt: 'SeaTable: visualização para a gestão de dados de clientes, notas, interações e análises de IA'
 
