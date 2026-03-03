@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Criar um plano financeiro de forma simples'
-      text: 'Crie o seu plano financeiro sem esforço com o SeaTable! Esta Plataforma KI sem código inovadora combina as vantagens das folhas de cálculo com as poderosas funções das modernas bases de dados na nuvem. Ideal para empresas, start-ups e freelancers que pretendam criar e otimizar o seu plano financeiro.'
+      text: 'Tabelas complexas e ferramentas financeiras confusas consomem tempo e causam estresse. Simplifique o seu planeamento financeiro com o SeaTable – a plataforma no-code baseada em IA que **combina gestão de dados e automação**. Crie, analise e otimize os seus planos financeiros de forma eficiente – estruturada, segura e perfeitamente integrada.'
       classes:
           - bg-white
       template: 8fa08d31d16c4a54a1bb
@@ -23,45 +23,44 @@ sections:
             link: pages/functions
 
     - name: content-12
-      weight: 2
+      weight: 3
       classes: 
         - curved
         - bg-seatable-blue
       title: "Crie um planeamento financeiro com o SeaTable"
       subtitle: Crie um plano financeiro em linha
-      description: Beneficia de uma solução flexível, simples e colaborativa que leva o plano financeiro da sua empresa para o próximo nível. Comece agora!
+      description: Com a [solução AI no-code]({{< relref "/" >}}) SeaTable, pode utilizar uma ferramenta de planeamento uniforme – desde as necessidades de capital e [plano de financiamento]({{< relref "posts/20250617-finanzplanung" >}}) até análises financeiras. Reúna todos os dados relevantes de forma automatizada numa única fonte de verdade e crie a máxima transparência em vez do [caos do Excel]({{< relref "pages/excel-alternative" >}}).
       items:
-        - text: Crie planos financeiros flexíveis e personalizáveis
         - text: Integração automatizada de dados para previsões de lucros e perdas e de fluxos de caixa
         - text: Crie controlos e relatórios com apenas alguns cliques
         - text: Interface de fácil utilização semelhante ao Excel
         - text: Integração simples de ferramentas
-        - text: Em conformidade com a DSRGPDGVO
+        - text: Em conformidade com a RGPD
         - text: Implementação rápida sem TI graças à ausência de código
       image: /images/landing-page-finanzplan-erstellen.png
       image_alt: 'Interface do SeaTable para criar e analisar um plano financeiro'
  
     - name: "content-4"
-      weight: 3
+      weight: 2
       title: Planeamento financeiro integrado na empresa
       subtitle: Planeamento da liquidez, previsão de rentabilidade, análise financeira 
-      text: "Com o SeaTable, utiliza uma ferramenta de planeamento normalizada - desde os requisitos de capital e planos de financiamento até às análises e relatórios financeiros. Deixe que todos os dados relevantes fluam automaticamente numa única fonte de verdade. Trabalhe em conjunto e de forma colaborativa em tempo real. Crie a máxima transparência graças às funções integradas de automatização e notificação."
+      text: ""
       items:
       - icon: sack-dollar
         headline: Plano financeiro
-        text: "Crie um plano financeiro em dias em vez de semanas: Com o SeaTable, pode planear mais rapidamente e aceder aos dados mais recentes em qualquer altura." 
+        text: "Crie planos em dias, em vez de semanas, graças a uma maior transparência. Trabalhe sempre com números atualizados e previsões fiáveis." 
 
       - icon: chart-line
         headline: Previsão de rentabilidade
         text: "Planeie com antecedência e crie notificações automáticas para reconhecer os desvios do plano numa fase inicial."
 
-      - icon: scale-balanced
-        headline: Crie um plano de investimento
-        text: "Maior transparência e integridade dos dados: associe a previsão e o orçamento para criar um plano de investimento fiável." 
-
       - icon: chart-simple
-        headline: Relatórios de gestão
-        text: "Visualize dados financeiros complexos em dashboards de análise claros. Crie relatórios significativos com dados em tempo real." 
+        headline: Relatórios de Gestão
+        text: Visualize dados financeiros complexos em painéis de análise intuitivos. Crie relatórios significativos com dados em tempo real.
+
+      - icon: robot
+        headline: Automações de IA
+        text: "Utilize as automatizações integradas com suporte de IA para fluxos de trabalho eficientes e processamento inteligente de dados." 
 
       - icon: user-plus
         headline: Trabalhe em colaboração
@@ -75,7 +74,7 @@ sections:
       weight: 6
       title: Estabeleça um plano financeiro sem comprometer a proteção de dados
       subtitle: Para dados financeiros seguros
-      text: "Especialmente se utilizar uma solução na nuvem e criar o seu plano financeiro online, os seus dados devem ser particularmente bem protegidos. A proteção e a segurança dos dados são a nossa principal prioridade. Porque nós fazemos compromissos quando se trata de proteger os seus dados - e você também não o deve fazer quando elabora um plano financeiro."
+      text: "Especialmente se utilizar uma solução na nuvem e criar o seu plano financeiro online, os seus dados devem ser particularmente bem protegidos. A proteção e a segurança dos dados são a nossa principal prioridade. Porque **nós fazemos compromissos quando se trata de proteger os seus dados** - e você também não o deve fazer quando elabora um plano financeiro."
       items:
       - icon: terminal
         headline: No local
@@ -158,7 +157,7 @@ sections:
           - q: 'O SeaTable também pode ser utilizado para criar um plano de investimento, por exemplo?'
             a: "Pode mapear todos os seus processos financeiros no SeaTable sem comprometer os seus requisitos. Pode criar um plano de investimento no SeaTable de forma tão flexível e colaborativa como cria planos financeiros ou mapeia a sua gestão de facturas."
           - q: 'Qual é o grau de segurança dos dados financeiros e empresariais sensíveis com o SeaTable?'
-            a: "A proteção dos seus dados é a nossa principal prioridade. O SeaTable Cloud está alojado exclusivamente em servidores de um fornecedor suíço na Alemanha e, portanto, é totalmente compatível com o RGPD. Quando cria um plano de financiamento com o Plataforma de IA sem código, os seus dados estão seguros."
+            a: "A proteção dos seus dados é a nossa principal prioridade. O SeaTable Cloud está alojado exclusivamente em servidores de um fornecedor suíço na Alemanha e, portanto, é totalmente compatível com o RGPD. Quando cria um plano de financiamento com o Plataforma de IA no-code, os seus dados estão seguros."
           - q: 'O SeaTable pode ser ligado a outros sistemas da empresa?'
             a: "Sim, o SeaTable integra-se facilmente com outros sistemas de contabilidade ou de prestadores de serviços de pagamento - através da API do SeaTable ou de ferramentas de automatização. Assim, tem sempre a possibilidade de escolher: pode criar os seus requisitos de capital e plano de financiamento ou um plano de investimento no SeaTable e ligá-lo a outras ferramentas, ou utilizar o SeaTable para outros casos de utilização e processos."
           - q: 'Quanto tempo demora a criar um plano financeiro com o SeaTable e existe um modelo de plano financeiro?'
