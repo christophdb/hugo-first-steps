@@ -82,7 +82,7 @@ sections:
       - text: 'Scalable: Your project portfolio tool grows with your requirements—regardless of how many projects, programs, locations, or team members you manage.'
       - text: 'Automated & integrated: Use SeaTable as a central database in project portfolio management that adapts flexibly to your processes and seamlessly complements other applications such as reporting or collaboration tools.'
       image_position: [left]
-      image: '/images/template_page_einarbeitungsplan_01.png'
+      image: '/images/template_page_projektportfolio_01.png'
       image_alt: 'Project portfolio tool from SeaTable with table view for projects, goals, tasks, and resources at a glance'
 
     - name: "content-25"
@@ -92,19 +92,19 @@ sections:
       items:
       - headline: 'Manage projects centrally'
         text: 'In the first table of the project portfolio template, you create all projects—including status, priority, budget, strategic fit, and responsible person. Links to goals, tasks, and departments create a project portfolio example that combines both operational details and strategic metrics in a project portfolio tool.'
-        image: '/images/template_page_einarbeitungsplan_02.png'
+        image: '/images/template_page_projektportfolio_02.png'
         image_alt: 'Project portfolio template with project list, status, priority, budget, and responsible persons in a central table'
       - headline: 'Linking strategic goals'  
         text: 'A second table bundles the overarching corporate goals, programs, or initiatives. Since this table is linked to the projects, you can see at a glance in the project portfolio template which projects contribute to which goals and how high the strategic benefit is in relation to the effort involved—an important component of project portfolio management.'
-        image: '/images/template_page_einarbeitungsplan_03.png'
+        image: '/images/template_page_projektportfolio_03.png'
         image_alt: 'Project portfolio template with linked corporate goals and programs for evaluating the strategic benefits of projects'
       - headline: 'Tasks and costs at a glance'
         text: 'In a third table, you list all project-related tasks with effort, actual times, and costs. Using links to the project, the project portfolio tool automatically totals these values for each project, so that you can see at any time in the project portfolio template how effort and budget are distributed across your entire project portfolio.'
-        image: '/images/template_page_einarbeitungsplan_04.png'
+        image: '/images/template_page_projektportfolio_04.png'
         image_alt: 'Project portfolio tool with task table, actual times and costs, automatically totaled per project in the portfolio'
       - headline: 'Tree view for clear portfolio structure'
         text: 'Use the tree view to map your project portfolio as a hierarchy: corporate goals, programs, or areas, including projects and related tasks. This turns every project portfolio template into an intuitive navigation interface where you can quickly identify connections, dependencies, and focal points in project portfolio management.'
-        image: '/images/template_page_einarbeitungsplan_05.png'
+        image: '/images/template_page_projektportfolio_05.png'
         image_alt: 'Tree view in the project portfolio tool with hierarchy of corporate goals, programs, projects, and tasks'
             
     - name: "content-6"
@@ -116,7 +116,7 @@ sections:
       subtitle: 
       items:
       - text: 'With the integrated App Builder, you can easily create your own custom front end for the project portfolio tool. Combine forms for new project ideas, tree views for structural overviews, calendar or timeline views for durations, and focused filter views for PMO, management, or specialist departments. Share specific sections with stakeholders via links and use permissions to control who can view or edit which elements of the project portfolio template – turning every project portfolio tool into a tailor-made solution for your project portfolio management.'
-      image: '/images/template_page_einarbeitungsplan_06.png'
+      image: '/images/template_page_projektportfolio_06.png'
       image_alt: 'Custom project portfolio app in SeaTable with forms, tree view, calendar, and filtered views for teams'
 
     - name: "banner-3"
