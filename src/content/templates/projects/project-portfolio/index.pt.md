@@ -9,8 +9,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: 'Ferramenta de portfólio de projetos SeaTable para gestão profissional de portfólios'
-    description: 'Controle e analise todos os projetos de forma central com a ferramenta de portfólio de projetos da SeaTable, mantendo prioridades e recursos sempre visíveis.'
+    title: 'Ferramenta de portfólio de projetos SeaTable online'
+    description: 'Controle e analise seu portfólio de projetos de forma central com a ferramenta flexível da SeaTable e ganhe mais transparência.'
 type: pages
 
 sections:

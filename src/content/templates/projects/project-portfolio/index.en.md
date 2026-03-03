@@ -8,8 +8,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: 'Project portfolio tool by SeaTable for professional portfolio management'
-    description: 'Control and analyze all projects centrally with SeaTable’s flexible project portfolio tool – keep priorities, resources and status transparent at any time.'
+    title: 'Project portfolio tool by SeaTable for your PMO'
+    description: 'Control and analyze your project portfolio centrally with SeaTable’s flexible project portfolio tool and gain more transparency.'
 type: pages
 
 sections:
