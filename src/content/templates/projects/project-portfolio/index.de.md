@@ -83,7 +83,7 @@ sections:
       - text: 'Skalierbar: Ihr Projektportfolio Tool wächst mit Ihren Anforderungen – unabhängig davon, wie viele Projekte, Programme, Standorte oder Teammitglieder Sie verwalten.'
       - text: 'Automatisiert & integriert: Nutzen Sie SeaTable als zentrale Datenbasis im Projektportfoliomanagement, die sich flexibel an Ihre Prozesse anpasst und andere Anwendungen wie Reporting- oder Kollaborationstools nahtlos ergänzt.'
       image_position: [left]
-      image: '/images/template_page_einarbeitungsplan_01.png'
+      image: '/images/template_page_projektportfolio_01.png'
       image_alt: 'Projektportfolio Tool von SeaTable mit Tabellenansicht für Projekte, Ziele, Aufgaben und Ressourcen im Überblick'
 
     - name: "content-25"
@@ -93,19 +93,19 @@ sections:
       items:
       - headline: 'Projekte zentral verwalten'
         text: 'In der ersten Tabelle der Projektportfolio Vorlage legen Sie alle Projekte an – inklusive Status, Priorität, Budget, strategischem Fit und verantwortlicher Person. Über Verknüpfungen zu Zielen, Aufgaben und Abteilungen entsteht ein Projektportfolio Beispiel, das sowohl operative Details als auch strategische Kennzahlen in einem Projektportfolio Tool vereint.'
-        image: '/images/template_page_einarbeitungsplan_02.png'
+        image: '/images/template_page_projektportfolio_02.png'
         image_alt: 'Projektportfolio Vorlage mit Projektliste, Status, Priorität, Budget und Verantwortlichen in einer zentralen Tabelle'
       - headline: 'Strategische Ziele verknüpfen'  
         text: 'Eine zweite Tabelle bündelt die übergeordneten Unternehmensziele, Programme oder Initiativen. Da diese Tabelle mit den Projekten verknüpft ist, sehen Sie in der Projektportfolio Vorlage auf einen Blick, welche Projekte zu welchen Zielen beitragen und wie hoch der strategische Nutzen im Verhältnis zum Aufwand ist – ein wichtiger Bestandteil im Projektportfoliomanagement.'
-        image: '/images/template_page_einarbeitungsplan_03.png'
+        image: '/images/template_page_projektportfolio_03.png'
         image_alt: 'Projektportfolio Vorlage mit verknüpften Unternehmenszielen und Programmen zur Bewertung des strategischen Nutzens der Projekte'
       - headline: 'Aufgaben und Kosten im Blick'
         text: 'In einer dritten Tabelle listen Sie alle projektbezogenen Aufgaben mit Aufwand, Ist-Zeiten und Kosten auf. Über Verknüpfungen zum Projekt summiert das Projektportfolio Tool diese Werte automatisch je Projekt auf, sodass Sie in der Projektportfolio Vorlage jederzeit erkennen, wie sich Aufwand und Budget über Ihr gesamtes Projektportfolio verteilen.'
-        image: '/images/template_page_einarbeitungsplan_04.png'
+        image: '/images/template_page_projektportfolio_04.png'
         image_alt: 'Projektportfolio Tool mit Aufgabentabelle, Ist-Zeiten und Kosten, automatisch summiert je Projekt im Portfolio'
       - headline: 'Tree-Ansicht für klare Portfolio-Struktur'
         text: 'Nutzen Sie die Tree-Ansicht, um Ihr Projektportfolio als Hierarchie abzubilden: Unternehmensziele, Programme oder Bereiche, darunter Projekte und die zugehörigen Aufgaben. So wird jede Projektportfolio Vorlage zu einer intuitiven Navigationsoberfläche, in der Sie Zusammenhänge, Abhängigkeiten und Schwerpunkte im Projektportfoliomanagement schnell erkennen.'
-        image: '/images/template_page_einarbeitungsplan_05.png'
+        image: '/images/template_page_projektportfolio_05.png'
         image_alt: 'Tree-Ansicht im Projektportfolio Tool mit Hierarchie aus Unternehmenszielen, Programmen, Projekten und Aufgaben'
             
     - name: "content-6"
@@ -117,7 +117,7 @@ sections:
       subtitle: 
       items:
       - text: 'Mit dem integrierten App Builder erstellen Sie mit wenig Aufwand Ihr individuelles Frontend rund um das Projektportfolio Tool. Kombinieren Sie Formulare für neue Projektideen, Tree-Ansichten für Strukturübersichten, Kalender- oder Timeline-Ansichten für Laufzeiten sowie fokussierte Filteransichten für PMO, Management oder Fachbereiche. Teilen Sie gezielte Ausschnitte per Link mit Stakeholdern und steuern Sie über Berechtigungen, wer welche Elemente der Projektportfolio Vorlage sehen oder bearbeiten darf – so wird aus jedem Projektportfolio Tool eine maßgeschneiderte Lösung für Ihr Projektportfoliomanagement.'
-      image: '/images/template_page_einarbeitungsplan_06.png'
+      image: '/images/template_page_projektportfolio_06.png'
       image_alt: 'Individuelle Projektportfolio App in SeaTable mit Formularen, Tree-Ansicht, Kalender und gefilterten Ansichten für Teams'
 
     - name: "banner-3"
