@@ -9,8 +9,8 @@ aliases:
 category: 'projekte'
 functions:
 seo:
-    title: 'Projektportfolio Tool von SeaTable für professionelles Projektportfoliomanagement'
-    description: 'Steuern und analysieren Sie alle Projekte zentral mit dem flexiblen Projektportfolio Tool von SeaTable – für Transparenz, Prioritäten & Ressourcen im Blick.'
+    title: 'Projektportfolio Tool von SeaTable für Ihr PMO'
+    description: 'Steuern und analysieren Sie Ihr Projektportfolio zentral mit dem flexiblen Projektportfolio Tool von SeaTable für mehr Überblick.'
 type: pages
 
 sections:

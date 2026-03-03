@@ -9,8 +9,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: 'Outil de portefeuille de projets SeaTable pour un pilotage professionnel'
-    description: 'Pilotez et analysez tous vos projets de manière centralisée avec l’outil de portefeuille de projets SeaTable et gardez priorités et ressources sous contrôle.'
+    title: 'Outil de portefeuille de projets SeaTable en ligne'
+    description: 'Pilotez et analysez votre portefeuille de projets de façon centralisée avec l’outil flexible SeaTable et gagnez en visibilité.'
 type: pages
 
 sections:
@@ -22,7 +22,7 @@ sections:
           - bg-white
       template: '1acd19d97c8f4ed3ad38'
       buttons:
-          - label: Inscrive-vous gratuitement dès maintenant et utilisez le modèle.
+          - label: Inscrive-vous gratuitement et utilisez le modèle.
             link: 'pages/registration'
             style: primary
     
@@ -34,7 +34,7 @@ sections:
       items:
         - icon: 'check'
           headline: 'Stratégique'
-          text: 'Le modèle de portefeuille de projets convivial est facile à utiliser, relie les données opérationnelles des projets aux objectifs stratégiques et vous aide à planifier vos ressources et à établir vos priorités.'
+          text: 'Le modèle de portefeuille de projets convivial est facile à utiliser : il relie les données opérationnelles aux objectifs stratégiques, facilite la planification des ressources, la hiérarchisation des priorités et offre une vue d’ensemble claire pour une gestion optimale.'
         - icon: 'bars'
           headline: 'Structuré'
           text: 'Une structure clairement définie garantit que chaque modèle de portefeuille de projets présente de manière uniforme les projets, les programmes, les objectifs, les budgets, les risques et les responsables, ce qui est idéal pour une gestion professionnelle du portefeuille de projets.'

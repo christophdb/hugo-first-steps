@@ -9,8 +9,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: 'Herramienta de portafolio de proyectos de SeaTable para una gestión profesional'
-    description: 'Controle y analice todos los proyectos de forma central con la herramienta de portafolio de proyectos de SeaTable y mantenga claras prioridades y recursos.'
+    title: 'Herramienta de portafolio de proyectos SeaTable'
+    description: 'Controle y analice su portafolio de proyectos de forma central con la herramienta flexible de SeaTable y gane transparencia.'
 type: pages
 
 sections:
@@ -37,7 +37,7 @@ sections:
           text: 'La plantilla de cartera de proyectos, fácil de usar, conecta los datos operativos del proyecto con los objetivos estratégicos y le ayuda a planificar los recursos y establecer prioridades.'
         - icon: 'bars'
           headline: 'Estructurado'
-          text: 'Una estructura claramente definida garantiza que cada plantilla de cartera de proyectos refleje de forma uniforme los proyectos, programas, objetivos, presupuestos, riesgos y responsables, lo que resulta ideal para una gestión profesional de la cartera de proyectos.'
+          text: 'Una estructura claramente definida garantiza que cada plantilla de cartera de proyectos refleje de forma uniforme los proyectos, programas, objetivos, presupuestos, riesgos, recursos y responsables, asegurando transparencia y coherencia para una gestión profesional y eficaz de la cartera.'
         - icon: 'chart-line'
           headline: 'Transparente'
           text: 'Con solo unos clics, podrá ver la carga de trabajo, el estado y la contribución estratégica de cada proyecto, detectar cuellos de botella de forma temprana y utilizar su herramienta de cartera de proyectos como base para la elaboración de informes y revisiones de gestión.'
