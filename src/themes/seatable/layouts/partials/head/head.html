@@ -86,7 +86,7 @@
         {{ end }}
     {{- end }}
 
-    {{- if eq .TranslationKey "/pages/prices" }}
+    {{- if or (eq .TranslationKey "/pages/prices") (strings.HasPrefix .TranslationKey "/pages/industry-solutions/") (strings.HasPrefix .TranslationKey "/templates") }}
         {{ partial "structured-data/pricing.html" . }}
     {{- end }}
 
