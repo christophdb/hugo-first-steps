@@ -11,7 +11,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Creating a financial plan made easy'
-      text: 'Create your financial plan effortlessly with SeaTable! This innovative AI no-code-platform combines the benefits of spreadsheets with the powerful features of modern cloud databases. Perfect for companies, start-ups and freelancers who want to create and optimize their financial plan.'
+      text: 'Complex spreadsheets and confusing finance tools cost time and nerves. Simplify your financial planning with SeaTable—the AI-powered no-code platform that **combines data management and automation**. Create, analyze, and optimize your financial plans efficiently—in a structured, secure, and seamlessly integrated way.'
       classes:
           - bg-white
       template: 8fa08d31d16c4a54a1bb
@@ -23,15 +23,14 @@ sections:
             link: pages/functions
 
     - name: content-12
-      weight: 2
+      weight: 3
       classes: 
         - curved
         - bg-seatable-blue
       title: "Create financial planning with SeaTable"
       subtitle: Create a financial plan online
-      description: You benefit from a flexible, simple and collaborative solution that takes your company's financial plan to the next level. Get started now!
+      description: With the [AI no-code solution]({{< relref "/" >}}) SeaTable, you can use a unified planning tool—from capital requirements and [financing plans]({{< relref "posts/20250617-finanzplanung" >}}) to financial analyses. Let all relevant data flow together automatically in a single source of truth and create maximum transparency [instead of Excel chaos]({{< relref "pages/excel-alternative" >}}).
       items:
-        - text: Create flexibly customizable financial plans
         - text: Automated data integration for P&L and cash flow forecasts
         - text: Create controlling and reports in just a few clicks
         - text: User-friendly Excel-like interface
@@ -42,26 +41,26 @@ sections:
       image_alt: 'SeaTable interface for creating and analyzing a financial plan'
  
     - name: "content-4"
-      weight: 3
+      weight: 2
       title: Integrated financial planning in the company
       subtitle: Liquidity planning, profitability forecast, financial analysis
-      text: "With SeaTable, you use a standardized planning tool - from capital requirements and financing plans to financial analyses and reports. Let all relevant data flow together automatically in a single source of truth. Work together collaboratively in real time. Create maximum transparency thanks to integrated automation and notification functions."
+      text: ""
       items:
       - icon: sack-dollar
-        headline: Financial plan
-        text: "Create a financial plan in days instead of weeks: With SeaTable you can plan faster and access current figures at any time." 
+        headline: Financial and investment plan
+        text: "Create plans in days instead of weeks thanks to greater transparency. Always work with up-to-date figures and reliable forecasts." 
 
       - icon: chart-line
         headline: Profitability forecast
-        text: "Plan ahead and set up automated notifications to detect deviations from the plan at an early stage."
-
-      - icon: scale-balanced
-        headline: Create an investment plan
-        text: "Greater transparency and data integrity: link forecasting and budget to create a reliable investment plan." 
+        text: "Plan ahead and set up automated notifications to detect deviations from the plan at an early stage–for more reliable and transparent forecasts."
 
       - icon: chart-simple
-        headline: Management Reports
+        headline: Management reports
         text: "Visualize complex financial data in clear analysis dashboards. Create meaningful reports with real-time data." 
+
+      - icon: robot
+        headline: AI-powered automations
+        text: "Reduce manual work and errors: Use the integrated AI-supported automations for streamlined workflows and intelligent data processing."
 
       - icon: user-plus
         headline: Work collaboratively
@@ -69,13 +68,13 @@ sections:
         
       - icon: terminal
         headline: Simply record data
-        text: "Enter data, create a financial plan: Create a user-friendly finance frontend with our App Builder."
+        text: "Enter data easily and reduce your manual effort: Create a user-friendly finance frontend with our no-code App Builder."
 
     - name: "content-4"
       weight: 6
       title: Set up a financial plan without compromising on data protection
       subtitle: For secure financial data
-      text: "Especially if you use a cloud solution and create your financial plan online, your data must be particularly well protected. Data protection and data security are our top priority. Because we make compromises when it comes to protecting your data - and neither should you when you draw up a financial plan."
+      text: "When you use a cloud solution and create your financial plan online, your data needs to be particularly well protected. Data protection and data security are our top priorities. **We do not compromise when it comes to protecting your data**—and neither should you when creating a financial plan."
       items:
       - icon: terminal
         headline: On-Premises
