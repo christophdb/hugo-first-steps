@@ -77,7 +77,7 @@ sections:
       weight: 4
       title: Sichere und DSGVO-konforme HR-Digitalisierung mit SeaTable 
       subtitle: Keine Kompromisse beim Datenschutz
-      text: "Der Schutz sensibler Mitarbeiterdaten ist besonders wichtig. SeaTable bietet [Single Sign-on]({{< relref "posts/single-sign-on" >}}), granulare Zugriffsberechtigungen und hostet seine Cloud ausschließlich auf Servern in Deutschland."
+      text: "Der Schutz sensibler Mitarbeiterdaten ist besonders wichtig. SeaTable bietet Single Sign-on, granulare Zugriffsberechtigungen und hostet seine Cloud ausschließlich auf Servern in Deutschland."
       items:
       - icon: location-dot
         headline: Hosting in Deutschland
