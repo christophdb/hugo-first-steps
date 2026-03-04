@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'Créer un token API SeaTable : sécurité et étapes'
     description: 'Créez des tokens API dans SeaTable pour bases et interfaces : durée illimitée, gestion sécurisée, token base temporaire, instructions simples.'
-
+weight: 1
+star: true
 
 ---
 

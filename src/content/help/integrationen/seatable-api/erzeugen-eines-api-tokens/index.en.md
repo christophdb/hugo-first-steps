@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'How to Create API Tokens in SeaTable: Secure Guide'
     description: 'Generate API tokens for specific bases in SeaTable—unlimited validity, per application, with safety tips for account and base tokens.'
-
+weight: 1
+star: true
 
 ---
 

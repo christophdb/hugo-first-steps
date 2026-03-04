@@ -1,7 +1,7 @@
 ---
 title: 'Preguntas más frecuentes'
 description: ''
-weight: 10
+weight: 11
 url: '/es/ayuda/pmf'
 icon: 'circle-question'
 color: bg-lime-100
