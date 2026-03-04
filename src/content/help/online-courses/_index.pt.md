@@ -6,6 +6,6 @@ url: '/pt/ajuda/cursos-online'
 icon: 'graduation-cap'
 color: bg-emerald-200
 seo:
-    title: 'Онлайн-курсы с получением диплома и сертификата'
-    description: "Систематически изучайте SeaTable в наших онлайн-курсах: интерактивные учебные модули, практические упражнения и итоговый экзамен с получением сертификата. Идеально подходит для углубления знаний и подтверждения вашей компетенции в SeaTable."
+    title: 'Cursos online com diploma e certificado'
+    description: "Aprenda a usar o SeaTable de forma sistemática nos nossos cursos online: módulos de aprendizagem interativos, exercícios práticos e exame final com certificado. Perfeito para aprofundar os seus conhecimentos e confirmar a sua competência no SeaTable."
 ---
