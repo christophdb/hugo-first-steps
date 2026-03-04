@@ -8,6 +8,7 @@ date: 2026-03-03
 url: '/de/relationale-datenbank/'
 categories:
     - 'best-practice'
+    - 'low-code-no-code'
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'No Code & Low Code'
@@ -44,7 +45,6 @@ Dieser klare Aufbau relationaler Datenbanken ermöglicht es, Daten in verschiede
 -   **1:1-Beziehung**: Jedem Datensatz aus Tabelle A ist maximal ein Datensatz aus Tabelle B zugeordnet und jedem Datensatz aus Tabelle B ist maximal ein Datensatz aus Tabelle A zugeordnet.
 -   **1:n-Beziehung**: Jeder Datensatz aus Tabelle A kann mit mehreren Datensätzen aus Tabelle B verknüpft sein, aber jedem Datensatz aus Tabelle B ist maximal ein Datensatz aus Tabelle A zugeordnet.  
 -   **n:m-Beziehung**: Jeder Datensatz aus Tabelle A kann mit mehreren Datensätzen aus Tabelle B verknüpft sein und jeder Datensatz aus Tabelle B kann mit mehreren Datensätzen aus Tabelle A verknüpft sein.
-    
 
 ### Primär- und Fremdschlüssel
 
@@ -146,14 +146,13 @@ Weit verbreitete **relationale Datenbankmanagementsysteme (RDBMS)** sind beispie
 
 ### No-Code-Datenbanken
 
-In den letzten Jahren haben sich zudem [No-Code-Plattformen]({{< relref "posts/20250307-low-code" >}}) wie *SeaTable* auf dem Markt etabliert, die eine visuelle Benutzeroberfläche mit einer relationalen Datenbank vereinen. So können Sie und Ihre Mitarbeiter ohne jegliche Programmierkenntnisse relationale Datenbanken, Anwendungen und Prozesse erstellen und diese ohne SQL-Abfragen nutzen.
+In den letzten Jahren haben sich zudem **No-Code-Plattformen wie SeaTable** auf dem Markt etabliert, die eine visuelle Benutzeroberfläche mit einer relationalen Datenbank vereinen. So können Sie und Ihre Mitarbeiter ohne jegliche Programmierkenntnisse relationale Datenbanken, Anwendungen und Prozesse erstellen und diese ohne SQL-Abfragen nutzen.
 
 {{< warning headline="Beachten Sie die Kosten!" >}}
 
-Die Kosten relationaler Datenbanken variieren erheblich. Größere Systeme schlagen bei klassischen Lösungen schnell mit mehreren Tausend bis Zehntausend Euro zu Buche, wohingegen Sie mit SeaTable komplett [kostenlos]({{< relref "pages/prices" >}}) starten. Nehmen Sie sich daher genügend Zeit, um sich für ein relationales Datenbankmanagementsystem zu entscheiden und wägen Sie ab, ob Sie eine klassische relationale Datenbank oder den No-Code-Ansatz besser finden.
+Die Kosten relationaler Datenbanken variieren erheblich. Größere Systeme schlagen bei klassischen Lösungen schnell mit mehreren Tausend bis Zehntausend Euro zu Buche, wohingegen Sie mit SeaTable komplett [kostenlos]({{< relref "pages/prices" >}}) starten. Nehmen Sie sich daher genügend Zeit, um sich für ein relationales Datenbankmanagementsystem zu entscheiden und wägen Sie ab, ob Sie eine klassische relationale Datenbank oder den [No-Code-Ansatz]({{< relref "posts/20250307-low-code" >}}) besser finden.
 
 {{< /warning >}}
-
 
 ## SeaTable – die relationale No-Code-Datenbank für agile Datenverwaltung
 
