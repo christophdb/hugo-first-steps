@@ -21,7 +21,7 @@ Bem-vindo ao **Curso Online SeaTable Nível 2!**
 Este curso é ideal para si se:
 
 - pretende desenvolver um processo comercial com o SeaTable.
-- Se pretender aprofundar as funções do SeaTable depois de concluir o [curso online de Nível 1]({{< relref "help/erste-schritte/online-kurs-1/level-eins-einfuehrung" >}}).
+- Se pretender aprofundar as funções do SeaTable depois de concluir o [curso online de Nível 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## O que é que vou aprender neste curso em linha?
 

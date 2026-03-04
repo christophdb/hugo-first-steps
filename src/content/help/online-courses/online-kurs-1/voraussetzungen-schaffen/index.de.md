@@ -15,7 +15,7 @@ weight: 2
 
 In der Einführung haben wir bereits darauf hingewiesen, dass Sie Zugang zu einem SeaTable System haben müssen und optimalerweise einen Account in unserem Community-Forum besitzen, um diesen Online Kurs zu absolvieren. In diesem Artikel möchten wir diese beiden Aspekte kurz erläutern.
 
-Sollten Sie bereits einen SeaTable und Forums Account besitzen, können Sie diesen Teil auch gern überspringen und direkt [zur nächsten Seite springen]({{< relref "help/erste-schritte/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
+Sollten Sie bereits einen SeaTable und Forums Account besitzen, können Sie diesen Teil auch gern überspringen und direkt [zur nächsten Seite springen]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
 ## SeaTable Server
 

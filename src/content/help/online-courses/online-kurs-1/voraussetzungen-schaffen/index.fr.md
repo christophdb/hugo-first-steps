@@ -18,7 +18,7 @@ weight: 2
 Dans l'introduction, nous avons déjà indiqué que pour suivre ce cours en ligne, vous devez avoir accès à un système SeaTable et, idéalement, posséder un compte sur notre forum communautaire.  
 Dans cet article, nous souhaitons expliquer brièvement ces deux aspects.
 
-Si vous avez déjà un compte SeaTable et Forums, vous pouvez passer cette partie et [aller]({{< relref "help/erste-schritte/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
+Si vous avez déjà un compte SeaTable et Forums, vous pouvez passer cette partie et [aller]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
 ## Serveur SeaTable
 

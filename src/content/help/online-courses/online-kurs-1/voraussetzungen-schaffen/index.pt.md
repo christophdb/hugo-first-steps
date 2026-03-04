@@ -18,7 +18,7 @@ weight: 2
 Na introdução, já referimos que é necessário ter acesso a um sistema SeaTable e, idealmente, ter uma conta no nosso fórum da comunidade para poder concluir este curso online.  
 Neste artigo, gostaríamos de explicar brevemente estes dois aspectos.
 
-Se já tiver uma conta no SeaTable e no Fórum, pode [saltar]({{< relref "help/erste-schritte/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
+Se já tiver uma conta no SeaTable e no Fórum, pode [saltar]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
 ## Servidor SeaTable
 
