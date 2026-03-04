@@ -90,6 +90,10 @@
         {{ partial "structured-data/pricing.html" . }}
     {{- end }}
 
+    {{- if or (strings.HasPrefix .TranslationKey "/pages/industry-solutions/") (strings.HasPrefix .TranslationKey "/templates") }}
+        {{ partial "structured-data/breadcrumb-list.html" . }}
+    {{- end }}
+
     {{- if eq .TranslationKey "/pages/product/seatable-cloud" }}
         {{ partial "structured-data/seatable-cloud.html" . }}
     {{- end }}
