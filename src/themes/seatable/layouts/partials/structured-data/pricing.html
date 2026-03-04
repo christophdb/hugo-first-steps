@@ -1,16 +1,55 @@
 <script type="application/ld+json">
 {
-"@context": "https://schema.org",
-"@type": "SoftwareApplication",
-"name": "{{ .Site.Title }}",
-"applicationCategory": "BusinessApplication",
-"operatingSystem": "Web",
-"offers": {
-    "@type": "AggregateOffer",
-    "lowPrice": "0",
-    "highPrice": "18",
-    "priceCurrency": "EUR",
-    "offerCount": "5"
-}
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "{{ .Site.Title }}",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Free",
+            "price": "0",
+            "priceCurrency": "EUR",
+            "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "0",
+                "priceCurrency": "EUR",
+                "unitText": "user/month",
+                "billingDuration": "P1M"
+            },
+            "availability": "https://schema.org/InStock"
+        },
+        {
+            "@type": "Offer",
+            "name": "Plus",
+            "price": "9",
+            "priceCurrency": "EUR",
+            "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "9",
+                "valueAddedTaxIncluded": false,
+                "priceCurrency": "EUR",
+                "unitText": "user/month",
+                "billingDuration": "P1M"
+            },
+            "availability": "https://schema.org/InStock"
+        },
+        {
+            "@type": "Offer",
+            "name": "Enterprise",
+            "price": "18",
+            "priceCurrency": "EUR",
+            "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "18",
+                "valueAddedTaxIncluded": false,
+                "priceCurrency": "EUR",
+                "unitText": "user/month",
+                "billingDuration": "P1M"
+            },
+            "availability": "https://schema.org/InStock"
+        }
+    ]
 }
 </script>
