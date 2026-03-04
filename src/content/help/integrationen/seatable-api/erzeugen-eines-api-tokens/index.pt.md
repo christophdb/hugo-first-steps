@@ -11,7 +11,8 @@ aliases:
 seo:
     title: 'Como criar API Token no SeaTable: segurança e uso'
     description: 'Crie tokens API no SeaTable com validade ilimitada por base; token base expira, gere para cada app ou integração e proteja seu acesso.'
-
+weight: 1
+star: true
 
 ---
 
