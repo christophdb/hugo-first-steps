@@ -32,7 +32,7 @@ Los clientes con una suscripción de pago Plus o Enterprise también tienen la o
 
 Además del manual de usuario, hay otras fuentes que puede utilizar para aprender más sobre las funciones y posibles usos de SeaTable.
 
-- En el [Blog de SeaTable]({{ relref "posts" }}) publicamos regularmente artículos y ayuda sobre cómo utilizar SeaTable de forma más eficiente. No dude en echar un vistazo a los distintos artículos.
+- En el [Blog de SeaTable]({{< relref "posts" >}}) publicamos regularmente artículos y ayuda sobre cómo utilizar SeaTable de forma más eficiente. No dude en echar un vistazo a los distintos artículos.
 - Nuestro [canal de YouTube](https://youtube.com/seatable) le ofrece una variedad de vídeos que tanto le facilitarán la introducción a SeaTable como le servirán para convertirse en un experto en SeaTable. Seguro que encuentra el vídeo adecuado para usted.
 - También publicamos regularmente pequeños tutoriales para problemas típicos en nuestro foro [de la comunidad](https://forum.seatable.com). Busca en el foro el término **tutorial** y encontrarás varias pequeñas ayudas.
 

@@ -30,7 +30,7 @@ Kunden mit einem kostenpflichtigen Plus oder Enterprise Abonnement haben zusätz
 
 Neben dem Benutzerhandbuch gibt es noch weitere Quellen, mit denen Sie mehr über die Funktionen und Einsatzmöglichkeiten von SeaTable erfahren können.
 
-- Im [SeaTable Blog]({{ relref "posts" }}) veröffentlichen wir regelmäßig Artikel und Hilfestellungen zur effizienteren Nutzung von SeaTable. Stöbern Sie doch einfach mal durch die verschiedenen Artikel.
+- Im [SeaTable Blog]({{< relref "posts" >}}) veröffentlichen wir regelmäßig Artikel und Hilfestellungen zur effizienteren Nutzung von SeaTable. Stöbern Sie doch einfach mal durch die verschiedenen Artikel.
 - Unser [YouTube-Kanal](https://youtube.com/seatable) bietet Ihnen eine Vielzahl von Videos, die sowohl den Einstieg in SeaTable erleichtern als auch dazu dienen, sich selbst zum SeaTable Experten zu machen. Sie werden bestimmt das passende Video für sich finden.
 - Auch in unserem [Community-Forum](https://forum.seatable.com) veröffentlichen wir regelmäßig kleine Tutorials für typische Probleme. Suchen Sie im Forum nach dem Begriff **Tutorial** und Sie werden diverse kleine Hilfestellungen finden.
 

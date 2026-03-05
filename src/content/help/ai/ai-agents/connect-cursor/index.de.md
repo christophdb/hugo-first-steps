@@ -29,22 +29,12 @@ Ein API-Token ist unlimitiert gültig und ist wie ein Passwort zu behandeln. Fal
 
 ## Schritt 2: MCP Server in Cursor hinzufügen
 
-Cursor verwaltet MCP Server über die Einstellungen. Öffnen Sie diese über **Cursor** → **Settings** → **MCP** oder nutzen Sie die Tastenkombination `Cmd+Shift+J` (Mac) bzw. `Ctrl+Shift+J` (Windows/Linux).
+Cursor verwaltet MCP Server über die Einstellungen. Öffnen Sie diese über **Cursor** → **Settings** → **Tools & MCP** oder nutzen Sie die Tastenkombination `Cmd+Shift+J` (Mac) bzw. `Ctrl+Shift+J` (Windows/Linux).
+
+![Einen MCP Server in Cursor hinzufügen](images/cursor-add-customer-mcp.png)
 
 1. Klicken Sie auf **+ Add new MCP Server**.
-2. Wählen Sie als Typ **Streamable HTTP**.
-3. Vergeben Sie einen Namen, z.B. `seatable`.
-4. Tragen Sie als URL ein: `https://mcp.seatable.com/mcp`
-5. Fügen Sie unter **Headers** folgenden Eintrag hinzu:
-
-| Header | Wert |
-|---|---|
-| `Authorization` | `Bearer HIER-IHREN-API-TOKEN-EINFUEGEN` |
-
-6. Ersetzen Sie `HIER-IHREN-API-TOKEN-EINFUEGEN` durch den Token aus Schritt 1.
-7. Klicken Sie auf **Save**.
-
-Alternativ können Sie die Konfiguration manuell in der Datei `.cursor/mcp.json` in Ihrem Projektordner hinterlegen:
+2. Fügen Sie die folgenden Konfiguration in die sich öffnende `.cursor/mcp.json` ein:
 
 ```json
 {
@@ -60,13 +50,17 @@ Alternativ können Sie die Konfiguration manuell in der Datei `.cursor/mcp.json`
 }
 ```
 
+3. Ersetzen Sie `HIER-IHREN-API-TOKEN-EINFUEGEN` durch den Token aus Schritt 1.
+
 Sie können mehrere Bases gleichzeitig anbinden. Erstellen Sie für jede Base einen eigenen Eintrag mit einem eindeutigen Namen, zum Beispiel `seatable-crm` und `seatable-projekte`.
 
 ## Schritt 3: Verbindung prüfen
 
-Nach dem Speichern sollte der MCP Server in den Cursor-Settings unter **MCP** als verbunden angezeigt werden — erkennbar am grünen Punkt neben dem Namen. Falls stattdessen ein roter Punkt erscheint, prüfen Sie URL und Token nochmals.
+Nach dem Speichern sollte der MCP Server in den Cursor-Settings unter **Tools & MCP** als verbunden angezeigt werden — erkennbar am grünen Punkt neben dem Namen. Falls stattdessen ein roter Punkt erscheint, prüfen Sie URL und Token nochmals.
 
-Öffnen Sie den Cursor-Chat (`Cmd+L` / `Ctrl+L`) und stellen Sie eine erste Testfrage:
+![Verbindungsstatus des MCP Servers in Cursor](images/cursor-mcp-connected.png)
+
+Öffnen Sie nun den Cursor-Chat (`Cmd+L` / `Ctrl+L`) und stellen Sie eine erste Testfrage:
 
 > *"Welche Tabellen gibt es in meiner SeaTable-Base?"*
 
@@ -96,4 +90,4 @@ Sie müssen Tabellen- und Spaltennamen nicht exakt schreiben. Cursor erkennt kle
 ## Nächste Schritte
 
 - [Gute Fragen stellen: So bekommen Sie die besten Antworten]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Berechtigungen und Datenschutz bei KI-Agenten]({{ relref "help/ai/ai-agents/good-questions" }})
+- [Berechtigungen und Datenschutz bei KI-Agenten]({{< relref "help/ai/ai-agents/good-questions" >}})
