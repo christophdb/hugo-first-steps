@@ -187,6 +187,36 @@ Z.B.: [Kontaktiere uns]({{</* relref "pages/contact" */>}}).
 {{</* /faq */>}}
 ```
 
+Im Hintergrund werden dafür automatisch strukturierte Metadaten vom Typ `FAQPage` in die Seite eingefügt, damit Google diese Informationen besser verarbeiten kann.
+Aus diesem Grund sollte dieser Shortcode ausschließlich für Inhalte verwendet werden, bei denen es sich tatsächlich um Fragen handelt.
+Für alle anderen Zwecke sollte der `accordion`-Shortcode verwendet werden.
+
+## Accordion
+
+Folgende Syntax erzeugt ein aufklappbares Element in einem Blogbeitrag:
+
+{{< accordion "Titel" >}}
+
+Inhalt, der nach dem Aufklappen sichtbar wird
+
+{{< /accordion >}}
+
+<br>
+
+Der zugehörige Code dazu sieht so aus:
+
+```
+{{</* accordion "Titel" */>}}
+
+Inhalt, der nach dem Aufklappen sichtbar wird
+
+{{</* /accordion */>}}
+```
+
+Der `accordion`-Shortcode erlaubt **exakt die gleichen Formatierungsmöglichkeiten** wie der `faq`-Shortcode.
+Der einzige Unterschied liegt darin, dass beim `accordion`-Shortcode **keine strukturierten Metadaten** erzeugt werden.
+Aus diesem Grund sollte der `accordion`-Shortcode z.B. für Elemente genutzt werden, bei denen es sich **nicht um Fragen handelt**.
+
 ## Buttons
 
 ```
