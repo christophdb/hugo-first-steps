@@ -106,8 +106,8 @@
         {{ partial "structured-data/seatable-server.html" . }}
     {{- end }}
 
-    {{- if eq .Section "help" }}
-        <!-- noch habe ich hier keine strukturierten daten -->
+    {{- if and (eq .Section "help") (ne .Type "help-start") }}
+        {{ partial "structured-data/help-page.html" . }}
     {{- end }}
 
 
