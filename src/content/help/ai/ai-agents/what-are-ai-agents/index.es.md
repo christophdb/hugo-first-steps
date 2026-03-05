@@ -37,6 +37,8 @@ En términos concretos, esto significa:
 
 El agente reconoce automáticamente la estructura de su base — tablas, columnas, tipos de columnas — y utiliza los formatos correctos. También corrige errores tipográficos en los nombres de tablas o columnas de forma autónoma en la mayoría de los casos.
 
+{{< youtube 5T4pWJgfOgc >}}
+
 ## ¿Cuál es la diferencia entre agentes de IA y automatizaciones de IA?
 
 SeaTable también ofrece **automatizaciones de IA** — acciones automatizadas que involucran a la IA cuando ocurren ciertos eventos, por ejemplo para resumir textos o categorizar entradas. Estas se ejecutan en segundo plano basándose en reglas, sin ninguna intervención por su parte.

@@ -37,6 +37,8 @@ Konkret bedeutet das:
 
 Der Agent erkennt dabei automatisch die Struktur Ihrer Base, Tabellen, Spalten, Spaltentypen und verwendet die richtigen Formate. Auch Tippfehler in Tabellen- oder Spaltennamen korrigiert er in den meisten Fällen selbstständig.
 
+{{< youtube 5T4pWJgfOgc >}}
+
 ## Was unterscheidet KI-Agenten von KI-Automationen?
 
 SeaTable bietet auch **KI-Automationen** — automatisierte Aktionen, die bei bestimmten Ereignissen eine KI einbinden, zum Beispiel um Texte zusammenzufassen oder Einträge zu kategorisieren. Diese laufen regelbasiert im Hintergrund, ohne dass Sie eingreifen.
