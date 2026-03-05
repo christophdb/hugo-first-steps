@@ -14,7 +14,13 @@ In dieser Anleitung verbinden Sie Claude Desktop mit Ihrer SeaTable-Base. Nach d
 
 - Ein SeaTable Cloud Account mit mindestens einer Base
 - Claude Desktop (kostenlos verfügbar unter [claude.ai/download](https://claude.ai/download))
-- Ein Anthropic-Konto (für die Nutzung von Claude)
+- Ein kostenpflichtiges Anthropic-Konto (für die Nutzung von Claude)
+
+{{< warning headline="Das Free Abo reicht aktuell nicht" >}}
+
+Das kostenlose Free-Konto unterstützt aktuell keine Verbindung zu eigenen MCP Servern. Dafür ist ein kostenpflichtiger Claude Account erforderlich.
+
+{{< /warning >}}
 
 ## Schritt 1: API-Token in SeaTable erstellen
 
@@ -29,10 +35,13 @@ Ein API-Token ist unlimitiert gültig und ist wie ein Passwort zu behandeln. Fal
 
 ## Schritt 2: Claude Desktop konfigurieren
 
-Claude Desktop verwendet eine JSON-Konfigurationsdatei, um MCP Server einzubinden. Öffnen Sie die Datei über das Menü:
+Claude Desktop verwendet eine JSON-Konfigurationsdatei, um MCP Server einzubinden. 
 
 1. Öffnen Sie Claude Desktop.
-2. Gehen Sie zu **Settings** → **Developer** → **Edit Config**.
+2. Gehen Sie zu **Settings** → **Developer**
+
+![Anlegen eines eigenen MCP Servers in Claude Desktop](images/claude-add-custom-mcp.png)
+
 3. Die Datei `claude_desktop_config.json` öffnet sich in Ihrem Texteditor.
 4. Fügen Sie folgende Konfiguration ein:
 
@@ -40,11 +49,14 @@ Claude Desktop verwendet eine JSON-Konfigurationsdatei, um MCP Server einzubinde
 {
   "mcpServers": {
     "seatable": {
-      "type": "streamable-http",
-      "url": "https://mcp.seatable.com/mcp",
-      "headers": {
-        "Authorization": "Bearer HIER-IHREN-API-TOKEN-EINFUEGEN"
-      }
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npx-cli.js",
+        "mcp-remote",
+        "https://mcp.seatable.com/mcp",
+        "--header",
+        "Authorization: Bearer HIER-IHREN-API-TOKEN-EINFUEGEN"
+      ]
     }
   }
 }
@@ -57,9 +69,13 @@ Sie können mehrere Bases gleichzeitig anbinden. Erstellen Sie für jede Base ei
 
 ## Schritt 3: Verbindung prüfen
 
-Nach dem Neustart sehen Sie in Claude Desktop ein kleines Werkzeug-Symbol (🔨) im Eingabefeld. Das zeigt an, dass der MCP Server verbunden ist. Klicken Sie darauf, um die verfügbaren Tools zu sehen — Sie sollten SeaTable-Werkzeuge wie `list_tables`, `list_rows` oder `query_sql` finden.
+Nach dem Neustart sehen Sie in Claude Desktop unter `Tools` die Verbindung zu **SeaTable**. Das zeigt an, dass der MCP Server verbunden ist. Klicken Sie darauf, um die verfügbaren Tools zu sehen — Sie sollten SeaTable-Werkzeuge wie `list_tables`, `list_rows` oder `query_sql` finden. 
 
-Stellen Sie eine erste Testfrage:
+Alternativ können Sie den Status der Verbindung in den Einstellungen einsehen.
+
+![Status der Verbindung zum MCP Server](images/claude-mcp-connected.png)
+
+Stellen Sie nun eine erste Testfrage:
 
 > *"Welche Tabellen gibt es in meiner Base?"*
 
@@ -89,4 +105,4 @@ Sie müssen Tabellen- und Spaltennamen nicht exakt schreiben. Claude erkennt kle
 ## Nächste Schritte
 
 - [Gute Fragen stellen: So bekommen Sie die besten Antworten]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Berechtigungen und Datenschutz bei KI-Agenten]({{ relref "help/ai/ai-agents/good-questions" }})
+- [Berechtigungen und Datenschutz bei KI-Agenten]({{< relref "help/ai/ai-agents/good-questions" >}})
