@@ -37,6 +37,8 @@ In concrete terms, this means:
 
 The agent automatically recognizes the structure of your base — tables, columns, column types — and uses the correct formats. It also corrects typos in table or column names on its own in most cases.
 
+{{< youtube 5T4pWJgfOgc >}}
+
 ## What is the difference between AI agents and AI automations?
 
 SeaTable also offers **AI automations** — automated actions that involve AI when certain events occur, for example to summarize texts or categorize entries. These run rule-based in the background without any intervention on your part.

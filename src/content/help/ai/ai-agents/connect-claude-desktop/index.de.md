@@ -14,11 +14,11 @@ In dieser Anleitung verbinden Sie Claude Desktop mit Ihrer SeaTable-Base. Nach d
 
 - Ein SeaTable Cloud Account mit mindestens einer Base
 - Claude Desktop (kostenlos verfügbar unter [claude.ai/download](https://claude.ai/download))
-- Ein kostenpflichtiges Anthropic-Konto (für die Nutzung von Claude)
+- Ein Anthropic-Konto (für die Nutzung von Claude)
 
-{{< warning headline="Das Free Abo reicht aktuell nicht" >}}
+{{< warning headline="Das Free Abo reicht, erfordert aber eine spezielle Konfiguration" >}}
 
-Das kostenlose Free-Konto unterstützt aktuell keine Verbindung zu eigenen MCP Servern. Dafür ist ein kostenpflichtiger Claude Account erforderlich.
+Das kostenlose Free-Konto von Anthropic unterstützt aktuell zwar Verbindungen zu eigenen MCP Servern, diese müssen aber etwas umständlich über eine Konfigurationsdateien konfiguriert werden.
 
 {{< /warning >}}
 
