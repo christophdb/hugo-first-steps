@@ -6,7 +6,6 @@ seo:
     description: 'Повысьте эффективность и производительность с помощью наших решений ИИ для бизнеса. Узнайте больше об автоматизации с помощью ИИ.'
 date: '2026-03-04'
 url: '/ru/avtomatizatsiya-iskusstvennogo-intellekta'
-draft: true
 
 sections:
     - name: hero-5

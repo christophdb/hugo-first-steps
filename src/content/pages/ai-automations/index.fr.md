@@ -6,7 +6,6 @@ seo:
     description: "Améliorez votre efficacité et votre productivité grâce à nos solutions d'IA pour les entreprises. En savoir plus sur l'automatisation par l'IA!"
 date: '2026-03-04'
 url: '/fr/automatisation-intelligence-artificielle'
-draft: true
 
 sections:
     - name: hero-5

@@ -6,7 +6,6 @@ seo:
     description: 'Increase your efficiency and productivity with our AI solutions for businesses. Learn more about AI automation!'
 date: '2026-03-04'
 url: '/ai-automation'
-draft: true
 
 sections:
     - name: hero-5
