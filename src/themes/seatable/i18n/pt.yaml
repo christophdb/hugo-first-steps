@@ -22,7 +22,7 @@ registration:
     submit: 'Inscreva-se agora'
     send: 'Enviando registro...'
     success: 'Registro concluído com sucesso. Verifique sua caixa de entrada.'
-    error: 'Ocorreu um erro.'
+    error: 'Ocorreu um erro.<br>Por favor, tente novamente em um minuto.'
 
 contact:
     concern:

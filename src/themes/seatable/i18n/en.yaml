@@ -22,7 +22,7 @@ registration:
     submit: 'Sign up now'
     send: 'Registration is being sent...'
     success: 'Registration successful. Check your email inbox.'
-    error: 'An error has occurred.'
+    error: 'An error has occurred.<br>Please try again in a minute.'
 
 contact:
     concern:

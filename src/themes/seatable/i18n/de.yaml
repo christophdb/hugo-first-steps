@@ -22,7 +22,7 @@ registration:
     submit: 'Jetzt anmelden'
     send: 'Registrierung wird geschickt...'
     success: 'Registrierung erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
-    error: 'Es ist ein Fehler aufgetreten.'
+    error: 'Es ist ein Fehler aufgetreten.<br>Bitte versuchen Sie es in einer Minute erneut.'
 
 contact:
     concern:

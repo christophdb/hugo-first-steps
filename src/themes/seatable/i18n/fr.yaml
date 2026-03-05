@@ -22,7 +22,7 @@ registration:
     submit: "S'inscrire maintenant"
     send: "Envoi de l'inscription en cours..."
     success: 'Inscription réussie. Vérifiez votre boîte mail.'
-    error: "Une erreur s'est produite."
+    error: "Une erreur s'est produite.<br>Veuillez réessayer dans une minute."
 
 contact:
     concern:
