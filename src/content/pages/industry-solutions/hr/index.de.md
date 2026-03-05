@@ -32,7 +32,7 @@ sections:
       items:
       - icon: edit
         headline: Compliance und Audit-Trails
-        text: "Halten Sie Ihre HR-Daten revisionssicher. Die SeaTable KI unterstützt Sie bei der Identifizierung von Unstimmigkeiten in Dokumenten und sichert DSGVO-konforme Workflows."
+        text: "Halten Sie Ihre HR-Daten revisionssicher. Die SeaTable KI unterstützt Sie bei der Identifizierung von Unstimmigkeiten in Dokumenten und sichert DSGVO-konforme HR-Workflows."
 
       - icon: people-group
         headline: Performance-Management
@@ -123,7 +123,7 @@ sections:
         image: /images/Landing-Page_HR_Organigramm.png
         image_alt: 'SeaTable Organigrammansicht zur Darstellung der Unternehmensstruktur'
 
-      - headline: "Workflows durch KI optimieren"
+      - headline: "HR-Workflows durch KI optimieren"
         text: Von der Urlaubsplanung für Mitarbeiter über die [Reisekostenabrechnung]({{< relref "posts/reisekostenabrechnung" >}}) bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um die Effizienz Ihrer operativen Personalarbeit zu steigern.
         image: /images/Landing-Page_HR_Prozesse-optimieren.png
         image_alt: 'SeaTable HR Dashboard zur Optimierung und Automatisierung von HR-Prozessen'
