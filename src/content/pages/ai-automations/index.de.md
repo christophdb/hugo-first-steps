@@ -11,8 +11,8 @@ draft: true
 sections:
     - name: hero-5
       weight: 1
-      title: KI-Automatisierung für Ihr Unternehmen DSGVO-konform
-      text: Viele Unternehmen experimentieren mit externen GPT-Tools, ohne genau zu wissen, wo sensible Daten oder  Dokumente am Ende landen. Mit der KI No-Code Datenbank SeaTable erstellen Sie Ihre KI-Automatisierung dort, wo Ihre Daten sind – **transparent und DSGVO-konform ohne Datenübertragung an Dritte**.
+      title: KI-Automatisierung für Ihr Unternehmen – DSGVO-konform
+      text: Viele Unternehmen experimentieren mit externen GPT-Tools, ohne genau zu wissen, wo sensible Daten oder Dokumente am Ende landen. Mit der KI No-Code Datenbank SeaTable erstellen Sie Ihre KI-Automatisierung dort, wo Ihre Daten sind – **transparent und DSGVO-konform**.
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -32,7 +32,7 @@ sections:
       items:
       - icon: edit
         headline: Intuitiv durch No-Code
-        text: "Konfigurieren Sie Ihre KI-gestützten Prozesse über denselben visuellen Editor wie Ihre übrigen  automatisierten Workflows – ohne zu coden oder IT-Support zu benötigen."
+        text: "Konfigurieren Sie Ihre KI-gestützten Prozesse über denselben visuellen Editor wie Ihre übrigen automatisierten Workflows – ohne zu coden oder IT-Support zu benötigen."
 
       - icon: table
         headline: Datenintegrität und SSoT
@@ -40,7 +40,7 @@ sections:
 
       - icon: up-right-and-down-left-from-center
         headline: Echtzeit-Kollaboration und KI
-        text: "Mit SeaTable arbeiten Ihre Teams in Echtzeit transparent in einer zentralen Datenbank, während KI-gestützte Prozesse Daten extrahieren, klassifizieren oder zusammenfassen. "
+        text: "Mit SeaTable arbeiten Ihre Teams in Echtzeit transparent in einer zentralen Datenbank, während KI-gestützte Prozesse Daten extrahieren, klassifizieren oder zusammenfassen."
       
       - icon: robot
         headline: Flexible KI-Funktionen
@@ -70,7 +70,7 @@ sections:
         - text: "DSGVO-konforme KI-Nutzung mit **lizenzierten europäischen Servern**"
         - text: "**Verbesserte Zusammenarbeit** in Teams dank integrierter Chat-Funktion und Benachrichtigungen"
       image: /images/landing_page_ki-automatisierung_01.png
-      image_alt: 'SeaTable Projektmanagement Ansicht für Teamarbeit mit Aufgaben und Status'    
+      image_alt: 'SeaTables KI-Automatisierungen im Automatisierungs-Editor'    
 
     - name: content-1
       weight: 4
@@ -83,13 +83,13 @@ sections:
       - headline: Individuelle Datenstrukturen dank No-Code
         text: 'Mit der No-Code Datenbank SeaTable zwängen Sie Ihre Prozesse und Daten nicht in vorgegebene Strukturen sondern bauen eine maßgeschneiderte Datenstruktur auf – ohne Programmieraufwand.'
       - headline: Transparenz und Auditierbarkeit
-        text: Alle Input-Felder sind benannt und in den Logs dokumentiert. So ist jederzeit nachvollziehbar, welche Daten in Automatisierungen durch KI von wem verarbeitet werden – unverzichtbar für KI-Lösungen für Unternehmen.      
+        text: Alle Input-Felder sind benannt und in den Logs dokumentiert. So ist jederzeit nachvollziehbar, welche Daten in Automatisierungen von wem durch KI verarbeitet werden – unverzichtbar für KI-Lösungen für Unternehmen.      
       image: /images/landing_page_ki-automatisierung_02.png
-      image_alt: 'Team bespricht Projekte mit SeaTable als Projektmanagement Tool'     
+      image_alt: 'Klare Datenstrukturen für belastbare KI-Automatisierungen'     
               
     - name: banner-2
       weight: 5
-      title: Smarte KI-Workflows ohne Risiko – SeaTable
+      title: Smarte KI-Workflows – SeaTable
       buttons:
           - label: Jetzt kostenlos registrieren
             link: pages/registration
@@ -103,25 +103,25 @@ sections:
       - headline: Rechnungsverarbeitung und Finance
         text: Eingehende Rechnungen werden per E-Mail oder Upload in eine Base übernommen; **KI-Automatisierungen extrahieren Rechnungsnummer, Datum, Beträge oder Lieferant** und schreiben sie in klar definierte Felder – inklusive Statuswechsel für Freigabe-Workflows. Bei Zahlungsverzug **erzeugen Sie automatisch Mahn-E-Mails**, die direkt aus SeaTable verschickt werden können.
         image: /images/landing_page_ki-automatisierung_03.png
-        image_alt: 'SeaTable Projektplaner Ansicht mit Zeitachse und Aufgaben'
-      - headline: IT Support
-        text: Supportanfragen oder [interne Tickets]({{< relref "templates/software-development/it-helpdesk" >}}) werden **automatisch analysiert, kategorisiert und priorisiert**, bevor sie an zuständige Mitarbeiter weitergeleitet werden. Aus technischen Kommentaren der IT-Admins werden prägnante Kurzbeschreibungen für Kunden und Endanwender erzeugt. Der manuelle Aufwand für Klassifikation und Dokumentation sinkt, während die Qualität und Transparenz steigt – in Compliance mit dem [IT Service Management]({{< relref "pages/industry-solutions/software-development" >}}).
+        image_alt: 'SeaTable Rechnungsverarbeitung mit KI-Funktion'
+      - headline: IT-Support
+        text: Supportanfragen oder [interne Tickets]({{< relref "templates/software-development/it-helpdesk" >}}) werden **automatisch analysiert, kategorisiert und priorisiert**, bevor sie an zuständige Mitarbeiter weitergeleitet werden. Aus technischen Kommentaren der IT-Admins werden prägnante Kurzbeschreibungen für Kunden und Endanwender erzeugt. Der manuelle Aufwand für Klassifikation und Dokumentation sinkt, während die Qualität und Transparenz steigt – in Compliance mit dem [IT-Service-Management]({{< relref "pages/industry-solutions/software-development" >}}).
         image: /images/landing_page_ki-automatisierung_04.png
-        image_alt: 'SeaTable Projektstrukturplan Vorlage mit Arbeitspaketen'
+        image_alt: 'Tickets direkt über KI-Funktionen klassifizieren'
       - headline: Dokumenten- und Vertragsanalyse
         text: "**OCR und Extraktionsfunktionen** lesen Inhalte aus PDFs oder Bildern aus und ziehen gezielt die Informationen, die Sie für Compliance-Checks, Reporting oder Vertragsmanagement benötigen. So können z. B.  Vertragslaufzeiten, Kündigungsfristen, Vertragsparteien oder regulatorisch relevante Klauseln automatisch in strukturierte Felder übernommen und in Übersichten, Erinnerungen oder Freigabeprozesse eingebunden werden."
         image: /images/landing_page_ki-automatisierung_05.png
-        image_alt: 'SeaTable Projektportfolio Ansicht für mehrere parallele Projekte'
+        image_alt: 'Texte und Dokumente mit smarten KI-Prozessen zusammenfassen'
       - headline: Projektreports aus Meeting-Notizen generieren
-        text: Teams dokumentieren Meetings, Entscheidungen und Risiko-Einschätzungen häufig als Freitext-Feld oder an verschiedenen Stellen. Mit SeaTable werden diese Notizen als Datensätze z. B. in einer Projektmanagement-Base zentral erfasst. Mit den integrierten KI-Aktionen entstehen aus langen Berichte, Protokollen oder Notizen **automatisch standardisierte Zusammenfassungen** für Projektleiter, Stakeholder oder Management-Reports.
+        text: Teams dokumentieren Meetings, Entscheidungen und Risiko-Einschätzungen häufig als Freitext-Feld oder an verschiedenen Stellen. Mit SeaTable werden diese Notizen als Datensätze z. B. in einer Projektmanagement-Base zentral erfasst. Mit den integrierten KI-Aktionen entstehen aus langen Berichten, Protokollen oder Notizen **automatisch standardisierte Zusammenfassungen** für Projektleiter, Stakeholder oder Management-Reports.
         image: /images/landing_page_ki-automatisierung_06.png
-        image_alt: 'SeaTable Projektmanagement App als webbasierte Projektplanungsoberfläche'  
+        image_alt: 'Mit KI-Automatisierungen automatisch Reports und Zusammenfassungen erstellen'  
 
     - name: "content-4"
       weight: 6
       title: Datenschutz und KI-Automatisierungen bei SeaTable
       subtitle: Datenkontrolle anstatt Kontrollverlust
-      text: 'Alle SeaTable-Komponenten werden ausschließlich auf **zertifizierten europäischen Servern in Deutschland** gehostet und sind absolut DSGVO-konform. Wir sind ein verlässlicher **Partner für Unternehmen, mit hohen Datenschutz- und Compliance-Anforderungen**, die öffentlich zugängliche GPT-Tools vermeiden und ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) schützen möchten.'
+      text: 'Alle SeaTable-Komponenten werden ausschließlich auf **zertifizierten europäischen Servern in Deutschland** gehostet und sind absolut DSGVO-konform. Wir sind ein verlässlicher **Partner für Unternehmen, mit hohen Datenschutz- und Compliance-Anforderungen**, die öffentlich zugängliche GPT-Tools meiden und ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) schützen möchten.'
       items:
       - icon: terminal
         headline: Eigener KI-Server
@@ -143,9 +143,9 @@ sections:
       subtitle: Flexibles Frontend für maximale Benutzerfreundlichkeit
       items:
           - text: Nutzen Sie SeaTables integrierten [No‑Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}), um schlank strukturierte Dateneingaben für Ihre KI-Automatisierungen zu ermöglichen. Mit dem App Builder erstellen Sie individuelle Formulare, um Anfragen, Projekte, Service-Tickets oder Rechnungen zu erfassen und die Inhalte in genau definierte Felder Ihrer Datenbank zu schreiben. So erhalten Sie mit wenig Aufwand **ideal vorbereitete Daten für KI-Extraktion, Klassifizierung oder Zusammenfassungen**.
-      image: /images/template_page_crm_07.png
+      image: /images/landing_page_ki-automatisierung_07.png
       image_position: left
-      image_alt: 'SeaTable Workflow Ansicht für Echtzeit-Zusammenarbeit im Team'     
+      image_alt: 'SeaTable App Builder für intuitive Dateneingabemasken und schnelle KI-Prozesse'     
 
     - name: banner-2
       weight: 96
@@ -164,7 +164,7 @@ sections:
           - q: Wie funktioniert die integrierte SeaTable KI?
             a: SeaTable hostet das multimodale Modell Gemma‑3‑12B auf einem eigenen Server im deutschen Hetzner-Rechenzentrum in Frankfurt. Ihre KI Automation übergibt die relevanten Inhalte verschlüsselt an das Modell, und die KI schreibt die Ergebnisse wieder strukturiert in Ihre SeaTable-Base zurück. 
           - q: Können wir eigene KI-Modelle nutzen?
-            a: SeaTable Server-Kunden können mit der [Komponente SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) unterschiedliche LLMs und Anbieter über eine OpenAI-kompatible API für ihre KI-Automatisierungen anbinden. Dabei können Sie zwischen selbst gehosteten Modellen oder Cloud-GPTs wählen. SeaTable Cloud-Nutzer können aktuell noch keine eigenen Modelle anbinden. 
+            a: SeaTable Server-Kunden können mit der [Komponente SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) unterschiedliche LLMs und Anbieter über eine OpenAI-kompatible API für ihre KI-Automatisierungen anbinden. Dabei können Sie zwischen selbst gehosteten Modellen oder Cloud-GPTs wählen. SeaTable Cloud-Nutzer können aktuell noch keine eigenen Modelle anbinden.  
           - q: Sind unsere Daten bei der KI-Nutzung DSGVO-konform geschützt?
             a: Absolut, der Schutz Ihrer Daten hat bei SeaTable Priorität und wir legen sehr großen Wert darauf, dass alle KI-Prozesse DSGVO-konform ablaufen. Darum hosten wir unser eigenes KI-Modell auf deutschen Servern. Ihre Daten werden ausschließlich innerhalb der SeaTable-Infrastruktur verarbeitet und nicht an externe Anbieter weitergegeben oder zum Training externer KI-Systeme genutzt. Wenn Sie besonders sensible Daten verarbeiten oder sehr strenge Datenschutzvorgaben erfüllen müssen, können Sie SeaTable mit KI-Funktion alternativ komplett on‑premises betreiben.
           - q: Ist die Nutzung der KI-Funktion bei SeaTable in der Subscription enthalten?
