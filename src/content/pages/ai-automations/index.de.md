@@ -6,7 +6,6 @@ seo:
     description: 'Steigern Sie mit unseren KI-Lösungen für Unternehmen Ihre Effizienz und Produktivität. Erfahren Sie mehr über KI-Automatisierung!'
 date: '2026-03-04'
 url: '/de/ki-automatisierung'
-draft: true
 
 sections:
     - name: hero-5
