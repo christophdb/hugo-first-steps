@@ -3,7 +3,7 @@ title: 'Hochzeitsplaner'
 description: 'Behalten Sie Aufgaben, Gäste und Budget Ihrer Hochzeit digital im Blick – planen, verwalten und teilen Sie alles zentral und entspannt.'
 date: '2024-08-24'
 url: '/de/vorlage/hochzeitsplaner'
-liases:
+aliases:
     - '/de/vorlage/wedding-planner'
 category: 'events'
 functions:
