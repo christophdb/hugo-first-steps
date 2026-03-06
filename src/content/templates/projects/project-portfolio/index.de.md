@@ -5,7 +5,7 @@ date: '2026-03-03'
 url: '/de/vorlage/projektportfolio-tool'
 aliases:
     - '/de/vorlage/project-portfolio'
-    - /de/vorlage/projektportfolio'
+    - '/de/vorlage/projektportfolio'
 category: 'projekte'
 functions:
 seo:
