@@ -5,7 +5,7 @@ date: '2025-02-23'
 url: '/de/vorlage/swot-analyse-vorlage'
 aliases:
     - '/de/vorlage/swot-analysis'
-    - /de/vorlage/swot-analyse'
+    - '/de/vorlage/swot-analyse'
 category: 'operations'
 functions:
 seo:
