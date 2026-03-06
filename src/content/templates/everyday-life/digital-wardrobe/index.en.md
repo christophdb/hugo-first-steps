@@ -14,7 +14,7 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – More flexible than other wardrobe apps'
+      title: 'SeaTable – Your flexible digital wardrobe'
       text: 'With the digital wardrobe in SeaTable, you can organize your clothes in one place—with photos, categories, and filters. Plan outfits and combinations more flexibly than in many other wardrobe apps and customize the view to suit your needs.'
       classes:
           - bg-white
@@ -26,7 +26,7 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: 'Keep track of everything with our digital wardrobe app'
+      title: 'Keep track of everything with our digital wardrobe'
       subtitle: Plan outfits
       text: 
       items:
@@ -54,7 +54,7 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Wardrobe app and outfit planner from SeaTable'
+      title: 'Digital Wardrobe and outfit planner from SeaTable'
       subtitle: More flexible than other wardrobe apps
       description: A simple list in note-taking apps or Excel is quick to create—but it can also be confusing. With the [AI no-code solution SeaTable]({{< relref "/" >}}), you can create your own personal wardrobe app for an organized closet and **more transparency and clarity in your everyday life**.
       items:
@@ -85,7 +85,7 @@ sections:
     - name: "content-25"
       weight: 10
       title: The benefits of SeaTable's digital wardrobe
-      subtitle: 'Digitize your wardrobe'
+      subtitle: 'Digitize your clothes'
       items:
       - headline: 'Wardrobe with gallery'
         text: Record all your garments here with relevant details such as category, size, and material, as well as photos. The gallery view transforms your collection into a **digital showroom** where you can combine outfits.
@@ -106,9 +106,9 @@ sections:
       
     - name: "banner-3"
       weight: 12
-      title: Register for free and use the wardrobe app
+      title: Register for free and use the digital wardrobe
       buttons:
-        - label: Try out the digital wardrobe now
+        - label: Try out now
           link: pages/registration
           id: en-vorlage-digitalerkleiderschrank-registration-2
 
@@ -151,12 +151,12 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: FAQ – Digital Wardrobe App by SeaTable
+      title: FAQ – Digital Wardrobe by SeaTable
       subtitle: 
       items:
       - q: Is the SeaTable wardrobe app permanently free?
         a: Yes, you can use all SeaTable templates permanently free of charge. All you need is a free SeaTable Cloud account to customize templates and use all features.
-      - q: "Why should I even use a wardrobe app?"
+      - q: "Why should I even use a digital wardrobe?"
         a: A wardrobe app provides you with a complete overview of all your clothes with photos, categories, and smart filters. This way, you'll never forget what great clothes and accessories you have in your wardrobe. Statistics functions and dashboards allow you to track how often items are worn and how much they cost per use. This helps you use your wardrobe more sustainably and avoid bad purchases.
       - q: "Can I share my digital wardrobe with other people?"
         a: Yes, you can also create or share our template for an online wardrobe for multiple people. If you use SeaTable with a free subscription, you can invite up to 24 additional users or alternatively create a share link for external users, which they can use to access your app frontend.  

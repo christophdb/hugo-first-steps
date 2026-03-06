@@ -14,7 +14,7 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable: más flexible que otras aplicaciones para guardar ropa'
+      title: 'SeaTable: su armario digital flexible'
       text: Con el armario digital de SeaTable, puede organizar su ropa en un solo lugar, con fotos, categorías y filtros. Planifique conjuntos y combinaciones de forma más flexible que en muchas otras aplicaciones de armario y personalice la vista para adaptarla a sus necesidades.
       classes:
           - bg-white
@@ -26,7 +26,7 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: Lleve un control de todo con nuestra aplicación de armario digital
+      title: Mantenga una visión general con nuestro armario digital
       subtitle: Planificar conjuntos
       text: 
       items:
@@ -54,7 +54,7 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: Aplicación para el armario y planificador de conjuntos de SeaTable
+      title: Armario digital y planificador de outfits de SeaTable
       subtitle: Más flexible que otras aplicaciones de armario
       description: Una simple lista en aplicaciones para tomar notas o en Excel es rápida de crear, pero también puede resultar confusa. Con la [solución de IA no-code SeaTable]({{< relref "/" >}}), puede crear su propia aplicación de armario personal para tener un armario organizado y **más transparencia y claridad en su vida cotidiana**.
       items:
@@ -151,12 +151,12 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: "Preguntas frecuentes: aplicación armario digital de SeaTable"
+      title: "Preguntas frecuentes: armario digital de SeaTable"
       subtitle: 
       items:
       - q: ¿La aplicación SeaTable Wardrobe es gratuita de forma permanente? 
         a: Sí, puede utilizar todas las plantillas de SeaTable de forma permanente y gratuita. Solo necesita una cuenta gratuita de SeaTable Cloud para personalizar las plantillas y utilizar todas las funciones.
-      - q: ¿Por qué debería usar una aplicación para organizar el armario? 
+      - q: ¿Por qué debería utilizar un armario digital? 
         a: Una aplicación para organizar el armario le ofrece una visión general completa de toda su ropa con fotos, categorías y filtros inteligentes. De esta forma, nunca olvidará las fantásticas prendas y accesorios que tiene en su armario. Las funciones estadísticas y los paneles de control le permiten realizar un seguimiento de la frecuencia con la que se usan las prendas y cuánto cuestan por uso. Esto le ayuda a utilizar su armario de forma más sostenible y a evitar compras innecesarias.
       - q: ¿Puedo compartir mi armario digital con otras personas? 
         a: Sí, también puede crear o compartir nuestra plantilla para un armario online para varias personas. Si utiliza SeaTable con una suscripción gratuita, puede invitar hasta 24 usuarios adicionales o, alternativamente, crear un enlace compartido para usuarios externos, que pueden utilizar para acceder a la interfaz de su aplicación.  
