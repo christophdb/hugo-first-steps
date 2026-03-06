@@ -14,7 +14,7 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – Plus flexible que les autres applications de gestion de placards'
+      title: 'SeaTable – Votre garde-robe numérique flexible'
       text: "Grâce à la garde-robe numérique de SeaTable, vous pouvez organiser vos vêtements en un seul endroit, avec des photos, des catégories et des filtres. Planifiez vos tenues et vos combinaisons de manière plus flexible que dans de nombreuses autres applications de garde-robe et personnalisez l'affichage en fonction de vos besoins."
       classes:
           - bg-white
@@ -26,7 +26,7 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: 'Gardez une trace de tout grâce à notre application de garde-robe numérique.'
+      title: "Gardez une vue d'ensemble grâce à notre garde-robe numérique"
       subtitle: Préparer les tenues
       text: 
       items:
@@ -54,7 +54,7 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: Application de gestion de garde-robe et planificateur de tenues de SeaTable
+      title: Armoire numérique et planificateur de tenues par SeaTable
       subtitle: Plus flexible que les autres applications de garde-robe
       description: Une simple liste dans une application de prise de notes ou dans Excel est rapide à créer, mais elle peut également prêter à confusion. Grâce à [la solution IA no-code SeaTable]({{< relref "/" >}}), vous pouvez créer votre propre application de garde-robe personnelle pour un placard bien organisé et une **plus grande transparence et clarté dans votre vie quotidienne**.
       items:
@@ -156,7 +156,7 @@ sections:
       items:
       - q: "L'application SeaTable pour la gestion de garde-robe est-elle gratuite de manière permanente ?"
         a: "Oui, vous pouvez utiliser tous les modèles SeaTable gratuitement et de manière permanente. Il vous suffit de disposer d'un compte SeaTable Cloud gratuit pour personnaliser les modèles et utiliser toutes les fonctionnalités."
-      - q: "Pourquoi devrais-je utiliser une application de garde-robe ?"
+      - q: "Pourquoi devrais-je utiliser une  garde-robe numérique ?"
         a: "Une application de gestion de garde-robe vous offre une vue d'ensemble complète de tous vos vêtements avec des photos, des catégories et des filtres intelligents. Ainsi, vous n'oublierez jamais les superbes vêtements et accessoires que vous possédez. Les fonctions statistiques et les tableaux de bord vous permettent de suivre la fréquence à laquelle vous portez vos vêtements et leur coût par utilisation. Cela vous aide à utiliser votre garde-robe de manière plus durable et à éviter les achats inutiles."
       - q: "Puis-je partager ma garde-robe numérique avec d'autres personnes ?"
         a: "Oui, vous pouvez également créer ou partager notre modèle de garde-robe en ligne pour plusieurs personnes. Si vous utilisez SeaTable avec un abonnement gratuit, vous pouvez inviter jusqu'à 24 utilisateurs supplémentaires ou créer un lien de partage pour les utilisateurs externes, qu'ils peuvent utiliser pour accéder à l'interface de votre application."  

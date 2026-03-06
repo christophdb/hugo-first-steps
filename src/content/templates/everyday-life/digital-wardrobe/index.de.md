@@ -14,8 +14,8 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – Flexibler als andere Kleiderschrank Apps'
-      text: 'Mit dem digitalen Kleiderschrank in SeaTable haben Sie Ihre Kleidung strukturiert an einem Ort – mit Fotos, Kategorien und Filtern. Planen Sie Outfits und Kombinationen flexibler als in vielen anderen Kleiderschrank Apps und passen Sie die Ansicht genau an Ihre Bedürfnisse an.'
+      title: 'SeaTable – Ihr flexibler digitaler Kleiderschrank'
+      text: 'Mit dem digitalen Kleiderschrank in SeaTable haben Sie Ihre Kleidung strukturiert an einem Ort – mit Fotos, Kategorien und Filtern. Planen Sie Outfits und Kombinationen flexibler als in vielen anderen Kleiderschrank-Apps und passen Sie die Ansicht genau an Ihre Bedürfnisse an.'
       classes:
           - bg-white
       template: 8c47a8b1db804094a5ff
@@ -26,7 +26,7 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: 'Behalten Sie mit unserer digitalen Kleiderschrank-App den Überblick'
+      title: 'Behalten Sie mit unserem digitalen Kleiderschrank den Überblick'
       subtitle: Outfits planen
       text: 
       items:
@@ -54,7 +54,7 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Kleiderschrank-App und Outfit-Planer von SeaTable'
+      title: 'Digitaler Kleiderschrank und Outfit-Planer von SeaTable'
       subtitle: 'Flexibler als andere Kleiderschrank-Apps'
       description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen organisierten Kleiderschrank und **mehr Transparenz und Überblick im Alltag**.'
       items:
@@ -85,7 +85,7 @@ sections:
     - name: "content-25"
       weight: 10
       title: 'Die Vorteile des digitalen Kleiderschranks von SeaTable'
-      subtitle: 'Kleiderschrank digitalisieren'
+      subtitle: 'Garderobe digitalisieren'
       items:
       - headline: 'Kleiderschrank mit Galerie'
         text: 'Erfassen Sie hier alle Ihre Kleidungsstücke mit relevanten Details wie Kategorie, Größe und Material sowie Fotos. Die Galerie-Ansicht verwandelt Ihre Sammlung in einen **digitalen Showroom**, mit dem Sie Outfits kombinieren können.'
@@ -98,7 +98,7 @@ sections:
       - headline: 'Wunschliste anlegen und teilen'
         text: '**Sammeln und priorisieren Sie Ihre Kleidungs-Wünsche** übersichtlich an einem Ort, anstatt sie nur im Gedächtnis zu behalten. Erfüllte Wünsche lassen sich direkt markieren oder die gesamte Liste bequem mit anderen teilen.'
         image: '/images/template_page_digitalerkleiderschrank_05.png'
-        image_alt: 'Kleiderschrank App mit Wunschlist für Freunde und Verwandte.'
+        image_alt: 'Kleiderschrank App mit Wunschliste für Freunde und Verwandte.'
       - headline: 'Übersichtliche Statistiken'
         text: 'Werten Sie Ihr Bekleidungs-Inventar aus! Mit den integrierten Statistiken und einem Dashboard in der App legen Sie per Drag-and-Drop ganz einfach Auswertungen an, um gezielter einzukaufen oder ungenutzte Kleidung schneller auszusortieren.'
         image: '/images/template_page_digitalerkleiderschrank_03.png'
@@ -106,9 +106,9 @@ sections:
       
     - name: "banner-3"
       weight: 12
-      title: 'Kostenlos registrieren und die Kleiderschrank App nutzen'
+      title: 'Kostenlos registrieren und den digitalen Kleiderschrank nutzen'
       buttons:
-        - label: Jetzt digitalen Kleiderschrank testen
+        - label: Jetzt testen
           link: pages/registration
           id: de-vorlage-digitalerkleiderschrank-registration-2
 
@@ -151,12 +151,12 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQ – Digitaler Kleiderschrank-App von SeaTable'
+      title: 'FAQ – Digitaler Kleiderschrank von SeaTable'
       subtitle: 
       items:
       - q: "Ist SeaTables Kleiderschrank-App dauerhaft kostenlos?"
         a: 'Ja, Sie können alle Vorlagen von SeaTable dauerhaft kostenlos nutzen. Alles was Sie dafür benötigen, ist ein kostenloser SeaTable Cloud-Account, um Vorlagen anzupassen und alle Funktionen zu nutzen.'
-      - q: "Warum sollte ich überhaupt eine Kleiderschrank App nutzen?"
+      - q: "Warum sollte ich überhaupt einen digitalen Kleiderschrank nutzen?"
         a: 'Eine Kleiderschrank-App bietet Ihnen eine vollständige Übersicht über alle Kleidungsstücke mit Fotos, Kategorien und intelligenten Filtern. So vergessen Sie nie wieder, welche tollen Kleidungsstücke und Accessoires sich in Ihrem Schrank befinden. Über Statistik-Funktionen und Dashboards können Sie nachvollziehen, wie oft Teile getragen werden und was sie pro Nutzung kosten. So nutzen Sie Ihre Garderobe nachhaltiger und vermeiden Fehlkäufe.'
       - q: "Kann ich meinen digitalen Kleiderschrank mit mehreren Personen nutzen?"
         a: 'Ja, Sie können unsere Vorlage für einen Online-Kleiderschrank auch für mehrere Personen anlegen oder freigeben. Wenn Sie SeaTable in der Free-Subscription nutzen, können Sie bis zu 24 weitere Nutzer einladen, oder alternativ einen Freigabe-Link für externe Nutzer erstellen, mit dem diese auf Ihr App-Frontend zugreifen können.'  

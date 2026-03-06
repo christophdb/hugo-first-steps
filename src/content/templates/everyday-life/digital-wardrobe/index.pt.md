@@ -14,7 +14,7 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: SeaTable – Mais flexível do que outros aplicativos de guarda-roupa
+      title: SeaTable – O seu guarda-roupa digital flexível
       text: Com o guarda-roupa digital no SeaTable, é possível organizar as suas roupas num único local — com fotos, categorias e filtros. Planeie conjuntos e combinações de forma mais flexível do que em muitos outros aplicativos de guarda-roupa e personalize a visualização de acordo com as suas necessidades.
       classes:
           - bg-white
@@ -26,7 +26,7 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: Acompanhe tudo com o nosso aplicativo de guarda-roupa digital
+      title: Mantenha uma visão geral com o nosso guarda-roupa digital
       subtitle: Planeie as suas roupas
       text: 
       items:
@@ -54,7 +54,7 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Aplicação para guarda-roupa e planeamento de conjuntos da SeaTable'
+      title: 'Guarda-roupa digital e planeador de roupas da SeaTable'
       subtitle: Mais flexível do que outros aplicativos de guarda-roupa
       description: Uma lista simples em aplicativos de anotações ou no Excel é rápida de criar, mas também pode ser confusa. Com a [solução de IA no-code SeaTable]({{< relref "/" >}}), é possível criar o seu próprio aplicativo de guarda-roupa pessoal para um armário organizado e **mais transparência e clareza na sua vida cotidiana**.
       items:
@@ -151,12 +151,12 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: Perguntas frequentes – Aplicação guarda-roupa digital da SeaTable
+      title: Perguntas frequentes – Guarda-roupa digital da SeaTable
       subtitle: 
       items:
       - q: O aplicativo SeaTable guarda-roupa digital é gratuito permanentemente? 
         a: Sim, você pode utilizar todos os modelos do SeaTable gratuitamente e de forma permanente. Basta ter uma conta gratuita no SeaTable Cloud para personalizar os modelos e utilizar todos os recursos.
-      - q: "Por que eu deveria utilizar um aplicativo de guarda-roupa?" 
+      - q: "Por que eu deveria utilizar um guarda-roupa digital?" 
         a: Um aplicativo de guarda-roupa fornece uma visão geral completa de todas as suas roupas com fotos, categorias e filtros inteligentes. Dessa forma, você nunca se esquecerá das excelentes roupas e acessórios que possui no seu guarda-roupa. As funções estatísticas e os painéis permitem que você acompanhe a frequência com que os itens são usados e quanto custam por utilização. Isso ajuda a utilizar o seu guarda-roupa de forma mais sustentável e a evitar compras inadequadas.
       - q: Posso partilhar o meu guarda-roupa digital com outras pessoas? 
         a: Sim, também pode criar ou partilhar o nosso modelo de guarda-roupa online para várias pessoas. Se utilizar o SeaTable com uma subscrição gratuita, pode convidar até 24 utilizadores adicionais ou, em alternativa, criar um link de partilha para utilizadores externos, que eles podem utilizar para aceder à interface da sua aplicação.  
