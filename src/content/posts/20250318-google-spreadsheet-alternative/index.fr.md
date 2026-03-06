@@ -27,16 +27,16 @@ Mais plus votre entreprise grandit, plus vous devez saisir de données et de doc
 
 L'époque où Excel occupait la première place incontestée en matière de tableur est révolue. Aujourd'hui, les **tableurs en ligne comme Google Sheets** bouleversent la scène et offrent toutes sortes de fonctionnalités qui vont au-delà de ce que proposent les versions de bureau classiques. Ces outils basés sur un navigateur ne facilitent pas seulement l'évaluation et la visualisation des données, ils établissent également de nouvelles normes en matière de convivialité et de collaboration en temps réel.
 
-Ceux qui souhaitent utiliser non seulement des formules et des diagrammes, mais aussi **des fonctions de base de données ou des formulaires web**, devraient miser sur les feuilles de calcul en ligne. Dans la nouvelle génération d'alternatives Google Spreadsheet, des formats de données étendus et différentes vues d'application sont donnés. Le triomphe des feuilles de calcul en ligne n'est donc pas dû au hasard - elles offrent des fonctions dont vous ne pourrez plus vous passer à l'avenir.
+Ceux qui souhaitent utiliser non seulement des formules et des diagrammes, mais aussi **des fonctions de base de données ou des formulaires web**, devraient miser sur les feuilles de calcul en ligne. Dans la nouvelle génération d'alternatives Google Spreadsheet, des formats de données étendus et différentes vues d'application sont donnés. Le triomphe des feuilles de calcul en ligne n'est donc pas dû au hasard – elles offrent des fonctions dont vous ne pourrez plus vous passer à l'avenir.
 
-**Qu'est-ce qu'un tableur ?
-Un spreadsheet est un tableau numérique qui sert à **organiser, analyser et traiter des données\*\* dans une grille de lignes et de colonnes. Le terme vient de l'anglais et se compose de "spread" (étaler) et de "sheet" (feuille). Il est souvent utilisé comme synonyme de tableur.
+**Qu'est-ce qu'un tableur ?**
+Un spreadsheet est un tableau numérique qui sert à **organiser, analyser et traiter des données** dans une grille de lignes et de colonnes. Le terme vient de l'anglais et se compose de "spread" (étaler) et de "sheet" (feuille). Il est souvent utilisé comme synonyme de tableur.
 
 ![Feuille de calcul Excel vide](Online-Tabellen.jpg)
 
 ## Google Spreadsheet : un bref aperçu
 
-Google Sheets est un **outil basé sur le cloud** qui sert de premier choix à de nombreux utilisateurs lorsqu'il s'agit de feuilles de calcul. L'une des principales raisons en est qu'il est gratuit et ne nécessite qu'un compte Google - un compte que la plupart des gens utilisent déjà de toute façon. En outre, un tableur Google offre les avantages d'une application en ligne moderne : de la **collaboration en temps réel à l'enregistrement automatique**.
+Google Sheets est un **outil basé sur le cloud** qui sert de premier choix à de nombreux utilisateurs lorsqu'il s'agit de feuilles de calcul. L'une des principales raisons en est qu'il est gratuit et ne nécessite qu'un compte Google – un compte que la plupart des gens utilisent déjà de toute façon. En outre, un tableur Google offre les avantages d'une application en ligne moderne : de la **collaboration en temps réel à l'enregistrement automatique**.
 
 Un autre avantage de la création d'une feuille de calcul à l'aide de Google est l'intégration **immédiate avec d'autres services Google** tels que Google Docs, Google Drive et Google Analytics. Cette intégration étroite vous permet d'échanger des données et du contenu entre Google Docs et un tableur Google, par exemple. Créer un tableau dans Google Docs n'est possible que dans une mesure limitée, car il a été conçu principalement pour les documents texte.
 
@@ -52,7 +52,7 @@ Les particuliers et les entreprises du monde entier utilisent quotidiennement Go
 
 L'un des principaux avantages de Google Sheets est sa facilité d'utilisation. L'interface **conviviale** permet même aux utilisateurs inexpérimentés de s'orienter rapidement et de travailler de manière productive. Un autre point fort est l'**intégration sans faille avec d'autres applications Google**. Grâce à la connexion avec Google Drive, Gmail et d'autres services Google, les données et les fichiers peuvent être facilement synchronisés et partagés en temps réel. Cela conduit directement à un autre point positif : la possibilité de collaboration.
 
-Comme Google Sheets est disponible en ligne, **plusieurs utilisateurs peuvent travailler simultanément sur une feuille de calcul et les modifications sont immédiatement visibles pour tous** - idéal pour les équipes travaillant sur des projets à partir de différents endroits. En outre, Google Sheets offre une large disponibilité de modules complémentaires qui offrent des fonctions supplémentaires et des possibilités de personnalisation, ainsi qu'une accessibilité sur différents appareils. Que ce soit sur un ordinateur, une tablette ou un smartphone, **Google Sheets est disponible de partout**, ce qui est un avantage inestimable, surtout dans un monde du travail mobile.
+Comme Google Sheets est disponible en ligne, **plusieurs utilisateurs peuvent travailler simultanément sur une feuille de calcul et les modifications sont immédiatement visibles pour tous** – idéal pour les équipes travaillant sur des projets à partir de différents endroits. En outre, Google Sheets offre une large disponibilité de modules complémentaires qui offrent des fonctions supplémentaires et des possibilités de personnalisation, ainsi qu'une accessibilité sur différents appareils. Que ce soit sur un ordinateur, une tablette ou un smartphone, **Google Sheets est disponible de partout**, ce qui est un avantage inestimable, surtout dans un monde du travail mobile.
 
 ### Inconvénients
 
@@ -76,9 +76,9 @@ De nombreux programmes permettent de créer un tableau, gratuitement et de mani�
 
 SeaTable se distingue particulièrement par sa qualité de [plate-forme sans code]({{< relref "/" >}}) et de constructeur d'applications. Elle permet non seulement de créer et de gérer des tableaux, mais aussi de **construire des applications sur mesure, adaptées à leurs besoins**. Cette possibilité ouvre de toutes nouvelles voies dans la gestion des données et l'optimisation des processus, ce que Google Spreadsheets ne peut pas offrir sous cette forme.
 
-Les avantages de SeaTable sont évidents : il est flexible, puissant et permet une **collaboration transparente** - le tout dans une plateforme unique et intuitive. Donc, si vous cherchez une solution qui fait plus que les tableurs traditionnels tout en répondant à vos besoins individuels, SeaTable est le choix idéal.
+Les avantages de SeaTable sont évidents : il est flexible, puissant et permet une **collaboration transparente** – le tout dans une plateforme unique et intuitive. Donc, si vous cherchez une solution qui fait plus que les tableurs traditionnels tout en répondant à vos besoins individuels, SeaTable est le choix idéal.
 
-La comparaison montre clairement que SeaTable n'est pas seulement une alternative à Google Spreadsheet - c'est la **prochaine étape dans l'évolution des tableurs**. Avec sa **combinaison unique de collaboration, de flexibilité et de fonctions de construction d'applications**, il se démarque clairement et vous offre la liberté de gérer et d'utiliser vos données comme votre méthode de travail l'exige.
+La comparaison montre clairement que SeaTable n'est pas seulement une alternative à Google Spreadsheet – c'est la **prochaine étape dans l'évolution des tableurs**. Avec sa **combinaison unique de collaboration, de flexibilité et de fonctions de construction d'applications**, il se démarque clairement et vous offre la liberté de gérer et d'utiliser vos données comme votre méthode de travail l'exige.
 
 ![Alternative SeaTable à une feuille Google](Google-Spreadsheet.jpg)
 
@@ -115,11 +115,11 @@ Avec SeaTable, vous pouvez ajouter bien plus que des chiffres et du texte à vos
 
 ### Vues orientées vers les applications
 
-SeaTable permet non seulement la saisie, mais aussi **l'analyse et la visualisation complètes de données quantitatives**. Pour cela, vous disposez de filtres, de tris et de regroupements dans le tableau, mais aussi d'un tableau de bord avec diverses statistiques. Une image vaut mille mots - et les plug-ins (par ex. calendrier, Kanban, galerie ou organigramme) vous permettent de représenter facilement vos données sous forme graphique, même s'il ne s'agit pas d'informations numériques. Vous surmontez ainsi les obstacles des tableurs traditionnels et tirez des enseignements précieux de vos données. Pour savoir comment vous pouvez même créer vos propres applications avec SeaTable, cliquez ici.
+SeaTable permet non seulement la saisie, mais aussi **l'analyse et la visualisation complètes de données quantitatives**. Pour cela, vous disposez de filtres, de tris et de regroupements dans le tableau, mais aussi d'un tableau de bord avec diverses statistiques. Une image vaut mille mots – et les plug-ins (par ex. calendrier, Kanban, galerie ou organigramme) vous permettent de représenter facilement vos données sous forme graphique, même s'il ne s'agit pas d'informations numériques. Vous surmontez ainsi les obstacles des tableurs traditionnels et tirez des enseignements précieux de vos données. Pour savoir comment vous pouvez même créer vos propres applications avec SeaTable, cliquez ici.
 
 ### Fonction de base de données
 
-L'une des fonctions les plus remarquables de SeaTable est l'intégration à la base de données. Les références de cellules pour les formules existent partout, mais SeaTable vous permet désormais de créer des références de cellules vers **des enregistrements entiers dans d'autres tables** - une révolution pour l'analyse au-delà des limites des tables. Cette fonction vous permet de relier des données, de les mettre en relation et de les analyser de manière aussi complète que dans les bases de données relationnelles.
+L'une des fonctions les plus remarquables de SeaTable est l'intégration à la base de données. Les références de cellules pour les formules existent partout, mais SeaTable vous permet désormais de créer des références de cellules vers **des enregistrements entiers dans d'autres tables** – une révolution pour l'analyse au-delà des limites des tables. Cette fonction vous permet de relier des données, de les mettre en relation et de les analyser de manière aussi complète que dans les [bases de données relationnelles]({{< relref "posts/relationale-datenbank" >}}).
 
 SeaTable n'est pas seulement une alternative à Google Spreadsheet, c'est aussi une puissante plate-forme sans code qui fera passer votre façon de travailler avec les tableaux à un niveau supérieur. Essayez-le, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et découvrez à quel point la gestion des données peut être simple et efficace.
 

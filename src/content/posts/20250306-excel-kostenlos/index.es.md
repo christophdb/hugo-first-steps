@@ -42,7 +42,7 @@ Si sólo quieres tener una visión general rápida, echa un vistazo a la siguien
 
 En esta comparación, sólo se han tenido en cuenta las aplicaciones locales compatibles con al menos dos familias de sistemas operativos. Por este motivo, no se incluye Apple Numbers como aplicación pura de hoja de cálculo para macOS/iOS, ni tampoco Gnumeric, que es una aplicación pura para Linux desde 2014.
 
-Un actor emergente entre las hojas de cálculo es SeaTable, que como [no-code database and app builder]({{< relref "/" >}}) tiene una gama de funciones significativamente ampliada en comparación con Excel y otras soluciones, revitalizando así la competencia. Al igual que las demás soluciones presentadas en este artículo, la versión gratuita de SeaTable también es gratuita, a diferencia de Excel.
+Un actor emergente entre las hojas de cálculo es SeaTable, que como [AI no-code database and app builder]({{< relref "/" >}}) tiene una gama de funciones significativamente ampliada en comparación con Excel y otras soluciones, revitalizando así la competencia. Al igual que las demás soluciones presentadas en este artículo, la versión gratuita de SeaTable también es gratuita, a diferencia de Excel.
 
 ### Clasificación de las hojas de cálculo
 
@@ -50,7 +50,7 @@ En la comparación tabular no se han incluido las dos propiedades **modo de func
 
 ![Clasificación de las hojas de cálculo](Excel_Alternativen_Matrix.jpg)
 
-Hace 15 años, una comparación de las hojas de cálculo sólo habría mostrado **aplicaciones locales** como Calc y Apple Numbers en los dos cuadrantes inferiores. Con el triunfo de la computación en nube, las **hojas de cálculo basadas en navegador** han ganado enormes cuotas de mercado y se han convertido cada vez más en las aplicaciones líderes. No en vano, ahora Excel también está disponible gratuitamente como aplicación web del paquete Microsoft 365, además de la versión clásica de escritorio.
+Hace 15 años, una comparación de las hojas de cálculo sólo habría mostrado **aplicaciones locales** como Calc y Apple Numbers en los dos cuadrantes inferiores. Con el triunfo de la [computación en nube]({{< relref "posts/cloud-computing" >}}), las **hojas de cálculo basadas en navegador** han ganado enormes cuotas de mercado y se han convertido cada vez más en las aplicaciones líderes. No en vano, ahora Excel también está disponible gratuitamente como aplicación web del paquete Microsoft 365, además de la versión clásica de escritorio.
 
 ### Ventajas de las soluciones en la nube
 
@@ -174,7 +174,7 @@ Los campos de selección simple son similares a las listas desplegables que pued
 
 ### Hojas de cálculo con la potencia de las bases de datos sin código y los creadores de aplicaciones
 
-Otra función de SeaTable que no está disponible en ninguna de las otras aplicaciones son los **enlaces**. Con los enlaces, los registros de datos se pueden relacionar entre sí y se pueden asignar dependencias y afiliaciones (no confundir con las referencias de celdas en Excel). Esto es posible tanto dentro de una tabla como entre todas las tablas de una base de datos. Las **funciones de análisis** asociadas permiten analizar fácilmente los datos vinculados de forma gráfica y tabular en la hoja de cálculo basada en navegador. SeaTable ofrece funcionalidades que de otro modo sólo conocerían las bases de datos y es la solución ideal para utilizar hojas de cálculo como Excel de forma gratuita.
+Otra función de SeaTable que no está disponible en ninguna de las otras aplicaciones son los **enlaces**. Con los enlaces, los registros de datos se pueden relacionar entre sí y se pueden asignar dependencias y afiliaciones (no confundir con las referencias de celdas en Excel). Esto es posible tanto dentro de una tabla como [entre todas las tablas de una base de datos]({{< relref "posts/relationale-datenbank" >}}). Las **funciones de análisis** asociadas permiten analizar fácilmente los datos vinculados de forma gráfica y tabular en la hoja de cálculo basada en navegador. SeaTable ofrece funcionalidades que de otro modo sólo conocerían las bases de datos y es la solución ideal para utilizar hojas de cálculo como Excel de forma gratuita.
 
 Los principiantes en SeaTable tendrán que acostumbrarse primero a definir los tipos de columnas antes de introducir los datos y a pensar en términos de **lógica de base de datos** entre tablas. Sin embargo, la **interfaz de usuario intuitiva** hace que este reto sea manejable. La migración desde Excel se facilita con [funciones de importación para archivos CSV y XLSX]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}). Sin embargo, debido a los formatos de datos utilizados por SeaTable, puede perderse información durante la importación.
 

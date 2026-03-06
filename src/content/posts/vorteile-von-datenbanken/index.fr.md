@@ -1,5 +1,5 @@
 ---
-title: 'Bases de données - 5 avantages par rapport aux tableaux simples'
+title: 'Bases de données – 5 avantages par rapport aux tableaux simples'
 description: 'Les tableurs deviennent vite limités face à de gros volumes de données. Les bases de données offrent un stockage extensible, une collaboration fluide, moins d’erreurs et un haut niveau de performance. L’article présente 5 avantages essentiels et des solutions modernes pour améliorer la gestion des données.'
 date: 2021-03-30
 categories:
@@ -18,7 +18,7 @@ seo:
 
 La plupart des gens sont confrontés chaque jour à des données qui doivent être gérées efficacement. Le propriétaire d'un supermarché doit garder une vue d'ensemble sur le stock de marchandises, un directeur de rédaction doit avoir toutes les publications à l'œil et un coiffeur doit gérer les rendez-vous de ses clients. Dans presque toutes les professions, les données jouent un rôle. Le mieux est de gérer de grandes quantités d'informations dans des **bases de données**. Mais qu'est-ce qu'une base de données, quels sont les avantages des bases de données et pourquoi un simple tableau ne suffit-il pas dans la plupart des cas ?
 
-## Principes de base des bases de données
+## Principes des bases de données
 
 ### Qu'est-ce qu'une base de données ?
 
@@ -26,17 +26,15 @@ En principe, une base de données n'est rien d'autre qu'une collection logique d
 
 ### Types de bases de données
 
-Il existe de nombreuses façons de structurer les bases de données. Ci-dessous, nous expliquons brièvement les 5 types :
+Il existe de nombreuses façons de structurer les bases de données. Ci-dessous, nous expliquons brièvement 5 types :
 
-1. **Base de données hiérarchique :** la base de données hiérarchique utilise un classement pour structurer les données.
-2. **Base de données réseau :** la base de données réseau est similaire à la base de données hiérarchique, mais elle permet à l'enregistrement enfant de se connecter à différents enregistrements parents, ce qui permet des relations dans les deux sens.
-3. **Base de données orientée objet :** ici, les informations sont stockées sous forme d'objets.
-4. **Base de données relationnelle :** elle est orientée table, chaque enregistrement étant lié à chaque autre enregistrement.
-5. **Base de données non relationnelle** (ou base de données NoSQL) : Une base de données No-SQL utilise une variété de formats tels que des documents, des diagrammes, etc. qui offrent une grande flexibilité à une conception de base de données.
+1. **Base de données hiérarchique** : La base de données hiérarchique utilise un classement pour structurer les données.
+2. **Base de données réseau** : La base de données réseau est similaire à la base de données hiérarchique, mais elle permet à l'enregistrement enfant de se connecter à différents enregistrements parents, ce qui permet des relations dans les deux sens.
+3. **Base de données orientée objet** : Ici, les informations sont stockées sous forme d'objets.
+4. **Base de données relationnelle** : Elle se compose de tables dans lesquelles chaque enregistrement peut être relié à n'importe quel autre enregistrement. Les liens sont le grand avantage des [bases de données relationnelles]({{< relref "posts/relationale-datenbank" >}}).
+5. **Base de données non relationnelle** (ou base de données NoSQL) : Une base de données NoSQL utilise une variété de formats tels que des documents, des graphiques, paires clé-valeur etc. qui offrent une grande flexibilité à une conception de base de données.
 
 ![Les liens sont le grand avantage des bases de données relationnelles](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
-
-Les liens sont le grand avantage des bases de données relationnelles.
 
 ## Avantages des bases de données
 
@@ -59,13 +57,13 @@ Même si vous n'avez peut-être pas (encore) besoin de traiter vous-même d'éno
 
 Imaginez que vous avez créé une entreprise. En plus de votre magasin spécialisé stationnaire, vous avez maintenant décidé de vendre vos marchandises en ligne. Au début, vous recevez 2 à 4 commandes par jour. Il est donc assez facile de saisir les informations relatives aux commandes dans un **tableur**. Vous commencez à faire de la publicité en ligne et votre entreprise est soudain en plein essor. Le volume des commandes augmente et vous décidez d'ajouter encore plus de produits à votre assortiment.
 
-La quantité d'informations que vous devez traiter chaque jour peut surcharger un tableur comme Excel. La feuille de calcul devient inerte ou se fige, car la **capacité de stockage** est tout simplement trop faible. En revanche, l'un des avantages des bases de données, comme nous l'avons déjà mentionné plus haut, est qu'elles ont une capacité de stockage beaucoup plus importante et qu'elles évoluent sans problème avec votre entreprise. Elles sont donc nettement plus **évolutives** que les simples tableaux.
+La quantité d'informations que vous devez traiter chaque jour peut surcharger un tableur comme [Excel]({{< relref "pages/excel-alternative" >}}). La feuille de calcul devient inerte ou se fige, car la **capacité de stockage** est tout simplement trop faible. En revanche, l'un des avantages des bases de données, comme nous l'avons déjà mentionné plus haut, est qu'elles ont une capacité de stockage beaucoup plus importante et qu'elles évoluent sans problème avec votre entreprise. Elles sont donc nettement plus **évolutives** que les simples tableaux.
 
 ### 2\. gérer plusieurs utilisateurs en même temps
 
 Plus le volume de commandes augmente, plus le nombre de collaborateurs dont vous avez besoin augmente également. Au cours des premiers mois, vous embauchez directement 5 nouveaux collaborateurs. Contrairement à la plupart des tableurs, les bases de données sont conçues pour permettre à plusieurs utilisateurs de **collaborer simultanément**. L'interrogation, la recherche et l'édition simultanées de la base de données sont ainsi possibles sans problème, sans que les modifications apportées par différentes personnes n'entrent en conflit. Les mécanismes intégrés dans les systèmes de gestion de base de données y veillent.
 
-En outre, vous pouvez attribuer **des droits d'accès et de modification** en fonction des compétences ou des responsabilités de l'employé concerné. Bien que les tableurs récents basés sur le cloud puissent résoudre certains de ces problèmes, ils ne disposent généralement pas du contrôle d'accès granulaire qu'offre une base de données.
+En outre, vous pouvez attribuer **des droits d'accès et de modification** en fonction des compétences ou des responsabilités de l'employé concerné. Bien que les tableurs récents basés sur le [cloud]({{< relref "posts/cloud-computing" >}}) puissent résoudre certains de ces problèmes, ils ne disposent généralement pas du contrôle d'accès granulaire qu'offre une base de données.
 
 ### 3\. fiabilité et prévention des erreurs de saisie humaines
 
@@ -79,7 +77,7 @@ Vous pouvez profiter des avantages des bases de données pour rendre les informa
 
 L'**absence de redondance** garantit non seulement la clarté et la simplicité, mais elle est également utile lorsque vous apportez une modification aux données. Par exemple, l'adresse d'un de vos clients pourrait changer. Désormais, vous ne devez pas la modifier à chaque commande, il suffit de la modifier une fois de **manière centralisée** dans la base de données clients. Comme un numéro de client unique est attribué aux commandes, elles **font** toutes **référence** à l'enregistrement de client correspondant avec la nouvelle adresse.
 
-Dans certains cas, les redondances sont toutefois utiles. En particulier dans le cas des bases de données relationnelles, comme dans les [entrepôts de données](https://de.wikipedia.org/wiki/Data_Warehouse) ou dans le [domaine de la Business Intelligence](https://de.wikipedia.org/wiki/Business_Intelligence), des redondances sont sciemment intégrées afin d'améliorer les requêtes SQL qui prennent beaucoup de temps.
+Dans certains cas, les redondances sont toutefois utiles. En particulier dans le cas des bases de données relationnelles, comme dans les [entrepôts de données]({{< relref "posts/20250326-data-warehouse" >}}) ou dans le [domaine de la Business Intelligence](https://de.wikipedia.org/wiki/Business_Intelligence), des redondances sont sciemment intégrées afin d'améliorer les requêtes SQL qui prennent beaucoup de temps.
 
 ### 5\. niveau de performance
 
@@ -93,7 +91,7 @@ Vous pouvez enregistrer les résultats de telles requêtes sous forme de **vue**
 
 ## Les bases de données sont de plus en plus faciles à utiliser
 
-Si, par le passé, vous deviez apprendre certains langages informatiques pour réaliser les requêtes de données susmentionnées, il existe aujourd'hui de nombreux systèmes de base de données, comme SeaTable, dotés d'une interface utilisateur graphique intuitive. Ceux-ci permettent même aux débutants d'utiliser immédiatement les bases de données afin d'améliorer votre flux de travail.
+Si, par le passé, vous deviez apprendre certains langages informatiques pour réaliser les requêtes de données susmentionnées, il existe aujourd'hui des [bases de données d'IA no-code comme SeaTable]({{< relref "/" >}}), dotés d'une interface utilisateur graphique intuitive. Ceux-ci permettent même aux débutants d'utiliser immédiatement les bases de données afin d'améliorer votre flux de travail.
 
 ![Avantages des bases de données comme SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
@@ -105,4 +103,4 @@ Les avantages des bases de données vous semblent évidents, mais l'idée de con
 
 Consultez de nombreux exemples d'utilisation de SeaTable dans notre [bibliothèque de modèles]({{< relref "templates" >}}). Vous y trouverez des exemples dans les domaines du marketing, des ventes, de la gestion de projet, du développement de logiciels, des ressources humaines et bien plus encore. Nous avons même préparé pour vous une [introduction au produit en 7 parties](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) sur notre chaîne YouTube, dans laquelle nous vous guidons à travers tout le processus de création d'une base SeaTable.
 
-Profitez des avantages d'une base de données et dites adieu dès aujourd'hui aux tableaux compliqués ! Cliquez [ici]({{< relref "pages/registration" >}}) pour vous inscrire gratuitement !
+Profitez des avantages d'une base de données et dites adieu dès aujourd'hui aux tableaux compliqués ! [Cliquez ici]({{< relref "pages/registration" >}}) pour vous inscrire gratuitement !

@@ -119,7 +119,7 @@ He aquí un resumen de las diferencias entre bases de datos relacionales y no re
 
 ## En qué debe fijarse al seleccionar una base de datos
 
-Si tienes que elegir entre distintos tipos de bases de datos, debes tener en cuenta ciertos factores a la hora de tomar tu decisión. Hágase, entre otras, las siguientes preguntas:
+Si tiene que elegir entre distintos tipos de bases de datos, debe tener en cuenta ciertos factores a la hora de tomar su decisión. Hágase, entre otras, las siguientes preguntas:
 
 *   ¿Prefiere almacenar datos estructurados o datos no estructurados (por ejemplo, documentos)?
 *   ¿Cuáles son sus requisitos en cuanto a integridad de los datos y fiabilidad de la base de datos?
@@ -158,9 +158,9 @@ Los costes de las bases de datos relacionales varían considerablemente. Los sis
 
 SeaTable es una [plataforma de IA sin código]({{< relref "/" >}}) que se basa en un modelo de base de datos relacional. Está diseñada para registrar datos estructurados en tablas, pero también puede manejar datos no estructurados (por ejemplo, imágenes, documentos) gracias a una **gestión de archivos** especial. La gran diferencia con las bases de datos relacionales clásicas es la **interfaz de usuario visual**, que permite a cualquiera analizar y editar datos y crear bases de datos, flujos de trabajo y aplicaciones **sin conocimientos de SQL**.
 
-SeaTable ofrece **una gran flexibilidad** y le ayuda a personalizar, optimizar y automatizar sus procesos. También puede utilizar **funciones de IA** para que la gestión de sus datos sea aún más eficiente. También tiene la libertad de elegir si desea disfrutar de la **conveniencia** y **escalabilidad** de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) o prefiere instalar [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) en sus instalaciones para conservar la plena [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}). Comience con la versión gratuita y compruébelo usted mismo
+SeaTable ofrece **una gran flexibilidad** y le ayuda a personalizar, optimizar y automatizar sus procesos. También puede utilizar **funciones de IA** para que la gestión de sus datos sea aún más eficiente. También tiene la libertad de elegir si desea disfrutar de la **conveniencia** y **escalabilidad** de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) o prefiere instalar [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) en sus instalaciones para conservar la plena [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}). Comience con la versión gratuita y compruébelo usted mismo.
 
-{{< button label="Regístrate gratis" link="/pages/registration" >}}
+{{< button label="Regístrese gratis" link="/pages/registration" >}}
 
 ## Perspectivas de futuro para las bases de datos relacionales
 

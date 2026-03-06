@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Data Management & Visualisation'
-    - 'IT Processes'
+    - 'Tools & Plugins'
     - 'No Code & Low Code'
 color: '#bedeab'
 url: '/data-management/'
@@ -20,7 +20,7 @@ aliases:
 
 ## Data management guarantees success
 
-**Data is worth its weight in gold**: Whether customer, employee, product or project data - in the digital age, your company's ability to manage and process data efficiently is crucial to your long-term success. **Data management** - often referred to as data management - is the key to getting to grips with the flood of information your company is confronted with on a daily basis. Consequently, a well thought-out **data management system** is a central prerequisite for digitization in companies: This is the only way to improve operational processes and gain a competitive edge.
+**Data is worth its weight in gold**: Whether customer, employee, product or project data – in the digital age, your company's ability to manage and process data efficiently is crucial to your long-term success. **Data management** is the key to getting to grips with the flood of information your company is confronted with on a daily basis. Consequently, a well thought-out **data management system** is a central prerequisite for digitization in companies: This is the only way to improve operational processes and gain a competitive edge.
 
 But why is data management so important for process digitization? And what challenges and opportunities does it present? Find out in this article!
 
@@ -55,7 +55,7 @@ When it comes to **data protection** and **data security**, you should take vari
 
 ## Data management as the basis for digitization in companies
 
-Technology companies such as SAP, Google and Meta recognized this decades ago: Data is invaluable. In our fast-moving world, it is the capital of many companies to recognize trends early on, make well-founded decisions and always be one step ahead of the competition. The availability, quality and use of data are therefore among the most important factors for digitization in companies. However, data management not only includes the introduction of new technologies, but also the optimization of processes and structures.
+Technology companies such as SAP, Google and Meta recognized this decades ago: **Data is invaluable**. In our fast-moving world, it is the capital of many companies to recognize trends early on, make well-founded decisions and always be one step ahead of the competition. The **availability, quality and use of data** are therefore among the most important factors for digitization in companies. However, data management not only includes the introduction of new technologies, but also the optimization of processes and structures.
 
 Without effective data management, companies cannot fully exploit the potential of process digitalization, as precise data processing is the basis for digital and automated business processes. This high significance of data in the value chain is now also prompting small and medium-sized companies to expand their data management in order to get more out of their data.
 
@@ -86,7 +86,7 @@ Although data management is essential for work and digitalization in companies, 
 1. **Data quality**: One of the biggest challenges in data management is ensuring data quality. If data is outdated, incomplete or incorrect, it can lead to incorrect analysis and decisions. Continuous data maintenance, in which you update and cleanse the data, is therefore essential.
 1. **Data security and data protection**: Data protection and compliance regulations are multinational and change regularly. As the amount of data collected increases, so does the risk of data protection conflicts. On the one hand, you must ensure that personal data is protected against unauthorized access; on the other hand, you must be able to easily delete the stored data or adapt it to changed usage guidelines.
 
-![Data management is essential for digitization in companies](Header-Data-Management.jpg 'How-you-can-use-data-management-for-digitization-in-companies')
+![Data management is essential for digitization in companies](Header-Data-Management.jpg)
 
 ## How you can use data management for digitization in companies
 
@@ -98,7 +98,7 @@ If you invest in a robust data management system, you can overcome these data ma
 
 ## Proven data management systems
 
-In principle, big data is exactly what it sounds like - a huge amount of data. You need to structure and process this data in order to make sense of it. As a rule, you store data in databases, which are structured differently depending on their purpose. It can be challenging to provide a powerful infrastructure, especially when it comes to processing large amounts of data.
+In principle, big data is exactly what it sounds like – a huge amount of data. You need to structure and process this data in order to make sense of it. As a rule, you store data in databases, which are structured differently depending on their purpose. It can be challenging to provide a powerful infrastructure, especially when it comes to processing large amounts of data.
 
 Data management systems are basic IT systems with which you **capture, store and analyze** data in your company. Various data management systems exist for different requirements, such as relational databases, NoSQL databases or data warehouses. Relational databases are the most widespread and are characterized by a table-based structure. NoSQL databases, on the other hand, are particularly suitable for processing large volumes of data.
 
@@ -106,15 +106,15 @@ Data management systems are basic IT systems with which you **capture, store and
 
 There is a wide range of tools and software that you can use for your data management. Here is an overview of some proven data management systems:
 
-- **Relational database management systems (RDBMS)**: Relational databases structure data using relationships that can be represented in tables. This makes it possible to store, retrieve and process data efficiently. The most commonly used database language is SQL, which is also the name of well-known relational database management systems such as MySQL, Microsoft SQL Server and PostgreSQL.
+- **Relational database management systems (RDBMS)**: [Relational databases]({{< relref "posts/relationale-datenbank" >}}) structure data using relationships that can be represented in tables. This makes it possible to store, retrieve and process data efficiently. The most commonly used database language is SQL, which is also the name of well-known relational database management systems such as MySQL, Microsoft SQL Server and PostgreSQL.
 - **NoSQL database management systems**: Compared to RDBMS, NoSQL databases offer a flexible data structure and horizontal scaling that is better suited for large data volumes, high performance requirements and frequent changes. Examples of NoSQL database management systems are MongoDB, Apache Cassandra and CouchDB.
-- **Data Warehouses**: A data warehouse is a database specializing in analytics that consolidates large amounts of data from various sources into a consistent data set. Data managers can then process and analyze this data in order to gain comprehensive insights into a company's business processes, for example. Data warehouse systems worth mentioning are Oracle Exadata, IBM Netezza, Amazon Redshift and Snowflake.
+- **Data Warehouses**: A [data warehouse]({{< relref "posts/20250326-data-warehouse" >}}) is a database specializing in analytics that consolidates large amounts of data from various sources into a consistent data set. Data managers can then process and analyze this data in order to gain comprehensive insights into a company's business processes, for example. Data warehouse systems worth mentioning are Oracle Exadata, IBM Netezza, Amazon Redshift and Snowflake.
 - **Data lakes**: A data lake is a repository in which all of an organization's raw data is stored. It can contain both structured data from relational databases and unstructured data (e.g. emails, PDF documents and image files). In contrast to the data warehouse, the data in the data lake is only processed for analysis or visualization when required. Data lake systems such as Amazon S3, Microsoft Azure Data Lake or Google Cloud Storage enable fast and flexible processing of large volumes of data.
-- **MDM tools**: Master data management tools help you to manage and maintain your company's master data. The most important master data includes information about customers, suppliers, products and personnel. With MDM tools such as SAP Master Data Governance or IBM InfoSphere MDM, you can eliminate inconsistencies and ensure that your core business data is unique, complete, error-free and up-to-date.
+- **MDM tools**: [Master data management]({{< relref "posts/20250505-master-data-management" >}}) tools help you to manage and maintain your company's master data. The most important master data includes information about customers, suppliers, products and personnel. With MDM tools such as SAP Master Data Governance or IBM InfoSphere MDM, you can eliminate inconsistencies and ensure that your core business data is unique, complete, error-free and up-to-date.
 
 ### What is the best data management system?
 
-Choosing the right data management software depends on the specific requirements you have for data access, storage, security, integration and analysis. You can decide whether you want to store and analyze your data on your own servers ([On-Premises]({{< relref "pages/product/seatable-server" >}}), in a cloud or in a hybrid mix.
+Choosing the right data management software depends on the specific requirements you have for data access, storage, security, integration and analysis. You can decide whether you want to store and analyze your data [on-premises]({{< relref "pages/product/seatable-server" >}}) on your own servers, in a [cloud]({{< relref "posts/cloud-computing" >}}) or in a hybrid mix.
 
 One trend that can be observed is the increasing use of cloud-based data management solutions. A cloud-based data management platform allows you to store data securely and process it efficiently without having to invest in expensive infrastructure.
 
@@ -124,11 +124,11 @@ One trend that can be observed is the increasing use of cloud-based data managem
 
 In the table-based [no-code database SeaTable]({{< relref "/" >}}) you can efficiently store, retrieve and analyze your data without having to have any SQL knowledge or other prior technical experience. Not only can you easily structure and link data, you can also store files, images and documents.
 
-Unlike other relational databases, SeaTable's **graphical user interface** allows you to carry out analyses directly. Numerous statistics are available for further analysis. If this is not enough, you can visualize your data in galleries, calendars, organization charts, etc. with the help of [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+Unlike other relational databases, SeaTable's **graphical user interface** allows you to carry out analyses directly. Numerous statistics are available for further analysis. If this is not enough, you can visualize your data in galleries, calendars, organization charts, etc. with the help of plugins.
 
 With the **no-code app builder** from SeaTable, you can build your own apps without any programming knowledge and thus control access to the data in your database precisely. For the app design, there are ready-made page types with visual elements that you can simply drag and drop together.
 
-SeaTable gives you the freedom to choose between the convenience of a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}) and the data sovereignty you enjoy with a self-hosted system. Are your ears pricked right now? Then [register for free]({{< relref "pages/registration" >}}) and try out the SeaTable Cloud for an unlimited time.
+SeaTable gives you the freedom to choose between the convenience of a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}) and the [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}) you enjoy with a self-hosted system. Are your ears pricked right now? Then [register for free]({{< relref "pages/registration" >}}) and try out the SeaTable Cloud for an unlimited time.
 
 ## Drive digitalization forward in your company
 
@@ -136,7 +136,7 @@ In an increasingly digitalized world, data management is not only a technologica
 
 ## FAQ
 
-{{< faq "What is data management? " >}}**Data management** refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data.
+{{< faq "What is data management? " >}}Data management refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data.
 {{< /faq >}}
 {{< faq "What does data management involve? " >}}Data management includes complex sub-areas such as data collection and storage, data integration and modeling, data maintenance and quality, data analysis and data protection.
 {{< /faq >}}

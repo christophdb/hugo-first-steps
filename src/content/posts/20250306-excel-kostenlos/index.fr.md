@@ -42,7 +42,7 @@ Si vous souhaitez simplement avoir un aperçu rapide, consultez le tableau ci-de
 
 Dans cette comparaison, seules les applications locales supportant au moins deux familles de systèmes d'exploitation ont été prises en compte. C'est la raison pour laquelle Apple Numbers, qui est un simple tableur pour MacOS/iOS, n'y figure pas, pas plus que Gnumeric, qui est depuis 2014 une simple application pour Linux.
 
-Un acteur émergent parmi les tableurs est SeaTable, qui, en tant que [base de données No-Code et App-Builder]({{< relref "/" >}}), présente une gamme de fonctions nettement plus étendue qu'Excel et d'autres solutions, ce qui relance la concurrence. Comme les autres solutions présentées dans cet article, la version gratuite de SeaTable est également gratuite, contrairement à Excel.
+Un acteur émergent parmi les tableurs est SeaTable, qui, en tant que [base de données d'IA No-Code et App-Builder]({{< relref "/" >}}), présente une gamme de fonctions nettement plus étendue qu'Excel et d'autres solutions, ce qui relance la concurrence. Comme les autres solutions présentées dans cet article, la version gratuite de SeaTable est également gratuite, contrairement à Excel.
 
 ### Classement des tableurs
 
@@ -50,7 +50,7 @@ Les deux propriétés **Mode d'exploitation** et **Disponibilité du code source
 
 ![Classification des tableurs](Excel_Alternativen_Matrix.jpg)
 
-Il y a 15 ans, une comparaison des tableurs aurait montré exclusivement des **applications locales** comme Calc et Apple Numbers dans les deux quadrants inférieurs. Avec le triomphe du cloud computing, les **tableurs basés sur un navigateur** ont gagné d'énormes parts de marché et sont devenus de plus en plus les applications leaders. Ce n'est pas sans raison qu'Excel est désormais disponible gratuitement en tant qu'application web du package Microsoft 365, en plus de la version de bureau classique.
+Il y a 15 ans, une comparaison des tableurs aurait montré exclusivement des **applications locales** comme Calc et Apple Numbers dans les deux quadrants inférieurs. Avec le triomphe du [cloud computing]({{< relref "posts/cloud-computing" >}}), les **tableurs basés sur un navigateur** ont gagné d'énormes parts de marché et sont devenus de plus en plus les applications leaders. Ce n'est pas sans raison qu'Excel est désormais disponible gratuitement en tant qu'application web du package Microsoft 365, en plus de la version de bureau classique.
 
 ### Avantages des solutions Cloud
 
@@ -174,7 +174,7 @@ Les sélections simples sont similaires aux listes déroulantes que vous pouvez 
 
 ### Tableur avec la puissance des bases de données No-Code et des constructeurs d'applications
 
-Une autre fonction de SeaTable, qui n'est disponible dans aucune autre application, est celle des **concaténations**. Les jointures permettent de mettre en relation des ensembles de données et de représenter des dépendances et des appartenances (à ne pas confondre avec les références de cellules dans Excel). Cela est possible aussi bien à l'intérieur d'une table qu'à travers toutes les tables d'une base de données. Grâce aux **fonctions d'analyse** correspondantes, les données liées peuvent être facilement évaluées sous forme de graphiques et de tableaux dans le tableur basé sur un navigateur. SeaTable apporte des fonctionnalités que l'on ne trouve habituellement que dans les bases de données et constitue la solution optimale pour pouvoir utiliser gratuitement des feuilles de calcul comme dans Excel.
+Une autre fonction de SeaTable, qui n'est disponible dans aucune autre application, est celle des **concaténations**. Les jointures permettent de mettre en relation des ensembles de données et de représenter des dépendances et des appartenances (à ne pas confondre avec les références de cellules dans Excel). Cela est possible aussi bien à l'intérieur d'une table qu'à travers [toutes les tables d'une base de données]({{< relref "posts/relationale-datenbank" >}}). Grâce aux **fonctions d'analyse** correspondantes, les données liées peuvent être facilement évaluées sous forme de graphiques et de tableaux dans le tableur basé sur un navigateur. SeaTable apporte des fonctionnalités que l'on ne trouve habituellement que dans les bases de données et constitue la solution optimale pour pouvoir utiliser gratuitement des feuilles de calcul comme dans Excel.
 
 Les débutants de SeaTable devront d'abord s'habituer à définir les types de colonnes avant de saisir les données et à penser en termes de logique **de base de données** pour l'ensemble des tableaux. L'interface utilisateur **intuitive** rend toutefois ce défi gérable. La migration depuis Excel est facilitée par [les fonctions d'importation pour les fichiers CSV et XLSX]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}). En raison des formats de données utilisés par SeaTable, des pertes d'informations peuvent toutefois survenir lors de l'importation.
 
@@ -186,7 +186,7 @@ Bien entendu, SeaTable dispose également des fonctions classiques d'un tableur 
 
 SeaTables [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) offre des options de visualisation avancées pour les types de données non numériques : Le plug-in de carte permet de représenter les données d'adresse et de géoposition sur une carte et le plug-in de galerie affiche clairement les données d'image stockées dans une table dans des albums. Les données de rendez-vous saisies dans un tableau peuvent être affichées dans le plugin Calendrier ou dans le plugin Ligne de temps et le plugin Kanban représente des flux de travail avec différentes phases, comme on ne le connaît normalement que dans les applications [Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}).
 
-De plus, SeaTable vous permet de créer vos propres apps sans connaissances en programmation. Une app se compose de pages que vous pouvez composer dans le [No-Code-App-Builder] intégré ({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) à l'aide de différents types de pages. Une app accède aux données de SeaTable et les présente de manière optimale à l'utilisateur. L'avantage est que la conception de l'application permet de contrôler précisément les données qu'un utilisateur voit, la manière dont les données sont visualisées et la manière dont il peut interagir avec les données. Les flux de travail peuvent ainsi être représentés avec précision.
+De plus, SeaTable vous permet de créer vos propres apps sans connaissances en programmation. Une app se compose de pages que vous pouvez composer dans le [No-Code-App-Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) à l'aide de différents types de pages. Une app accède aux données de SeaTable et les présente de manière optimale à l'utilisateur. L'avantage est que la conception de l'application permet de contrôler précisément les données qu'un utilisateur voit, la manière dont les données sont visualisées et la manière dont il peut interagir avec les données. Les flux de travail peuvent ainsi être représentés avec précision.
 
 ### Dans le cloud ou sur ses propres serveurs
 

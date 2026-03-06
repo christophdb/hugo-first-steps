@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Gestão e visualização de dados'
     - 'No Code & Low Code'
-    - 'Processos informáticos'
+    - 'Ferramentas e plugins'
 color: '#bedeab'
 url: '/pt/gestao-de-dados/'
 aliases:
@@ -19,7 +19,7 @@ aliases:
 
 ## A gestão de dados garante o sucesso
 
-**Os dados valem o seu peso em ouro**: Quer sejam dados de clientes, funcionários, produtos ou projectos - na era digital, a capacidade da sua empresa para gerir e processar dados de forma eficiente é crucial para o seu sucesso a longo prazo. A **gestão de dados** - muitas vezes referida como gestão de dados - é a chave para lidar com o fluxo de informações com que a sua empresa é confrontada diariamente. Consequentemente, um **sistema de gestão de dados** bem concebido é um pré-requisito central para a digitalização nas empresas: Esta é a única forma de melhorar os processos operacionais e ganhar uma vantagem competitiva.
+**Os dados valem o seu peso em ouro**: Quer sejam dados de clientes, funcionários, produtos ou projectos – na era digital, a capacidade da sua empresa para gerir e processar dados de forma eficiente é crucial para o seu sucesso a longo prazo. A **gestão de dados** é a chave para lidar com o fluxo de informações com que a sua empresa é confrontada diariamente. Consequentemente, um **sistema de gestão de dados** bem concebido é um pré-requisito central para a digitalização nas empresas: Esta é a única forma de melhorar os processos operacionais e ganhar uma vantagem competitiva.
 
 Mas porque é que a gestão de dados é tão importante para a digitalização de processos? E que desafios e oportunidades apresenta? Descubra neste artigo!
 
@@ -54,7 +54,7 @@ No que diz respeito à **proteção de dados** e à **segurança de dados**, dev
 
 ## A gestão de dados como base para a digitalização nas empresas
 
-Empresas de tecnologia como a SAP, Google e Meta reconheceram este facto há décadas: Os dados têm um valor inestimável. No nosso mundo em rápida evolução, é o capital de muitas empresas reconhecer as tendências numa fase inicial, tomar decisões bem fundamentadas e estar sempre um passo à frente da concorrência. A disponibilidade, a qualidade e a utilização dos dados estão, por isso, entre os factores mais importantes para a digitalização nas empresas. No entanto, a gestão de dados não inclui apenas a introdução de novas tecnologias, mas também a otimização de processos e estruturas.
+Empresas de tecnologia como a SAP, Google e Meta reconheceram este facto há décadas: **Os dados têm um valor inestimável**. No nosso mundo em rápida evolução, é o capital de muitas empresas reconhecer as tendências numa fase inicial, tomar decisões bem fundamentadas e estar sempre um passo à frente da concorrência. A **disponibilidade, a qualidade e a utilização dos dados** estão, por isso, entre os factores mais importantes para a digitalização nas empresas. No entanto, a gestão de dados não inclui apenas a introdução de novas tecnologias, mas também a otimização de processos e estruturas.
 
 Sem uma gestão eficaz dos dados, as empresas não podem explorar plenamente o potencial da digitalização dos processos, uma vez que o processamento exato dos dados é a base dos processos empresariais digitais e automatizados. Esta elevada importância dos dados na cadeia de valor está agora também a levar as pequenas e médias empresas a expandir a sua gestão de dados, de modo a obterem mais dos seus dados.
 
@@ -85,7 +85,7 @@ Embora a gestão de dados seja essencial para o trabalho e a digitalização nas
 1. **Qualidade dos dados**: Um dos maiores desafios da gestão de dados é garantir a qualidade dos dados. Se os dados estiverem desactualizados, incompletos ou incorrectos, podem conduzir a análises e decisões incorrectas. A manutenção contínua dos dados, em que os dados são actualizados e limpos, é, por isso, essencial.
 1. **Segurança e proteção dos dados**: Os regulamentos de proteção e conformidade de dados são multinacionais e mudam regularmente. À medida que a quantidade de dados recolhidos aumenta, aumenta também o risco de conflitos em matéria de proteção de dados. Por um lado, é necessário garantir que os dados pessoais estão protegidos contra o acesso não autorizado; por outro lado, é necessário poder apagar facilmente os dados armazenados ou adaptá-los a orientações de utilização alteradas.
 
-![A gestão de dados é essencial para a digitalização nas empresas](Header-Data-Management.jpg 'Como se pode utilizar a gestão de dados para a digitalização nas empresas')
+![A gestão de dados é essencial para a digitalização nas empresas](Header-Data-Management.jpg)
 
 ## Como pode utilizar a gestão de dados para a digitalização nas empresas
 
@@ -97,7 +97,7 @@ Se investir num sistema de gestão de dados robusto, pode ultrapassar estes desa
 
 ## Sistemas de gestão de dados comprovados
 
-Em princípio, os grandes volumes de dados são exatamente o que parecem - uma enorme quantidade de dados. É necessário estruturar e processar estes dados para que façam sentido. Regra geral, os dados são armazenados em bases de dados, que são estruturadas de forma diferente consoante a sua finalidade. Pode ser um desafio fornecer uma infraestrutura poderosa, especialmente quando se trata de processar grandes quantidades de dados.
+Em princípio, os grandes volumes de dados são exatamente o que parecem – uma enorme quantidade de dados. É necessário estruturar e processar estes dados para que façam sentido. Regra geral, os dados são armazenados em bases de dados, que são estruturadas de forma diferente consoante a sua finalidade. Pode ser um desafio fornecer uma infraestrutura poderosa, especialmente quando se trata de processar grandes quantidades de dados.
 
 Os sistemas de gestão de dados são sistemas informáticos básicos com os quais **captura, armazena e analisa** dados na sua empresa. Existem vários sistemas de gestão de dados para diferentes requisitos, tais como bases de dados relacionais, bases de dados NoSQL ou armazéns de dados. As bases de dados relacionais são as mais comuns e caracterizam-se por uma estrutura baseada em tabelas. As bases de dados NoSQL, por outro lado, são particularmente adequadas para o processamento de grandes volumes de dados.
 
@@ -105,15 +105,15 @@ Os sistemas de gestão de dados são sistemas informáticos básicos com os quai
 
 Existe uma vasta gama de ferramentas e software que pode utilizar para a gestão de dados. Eis um resumo de alguns sistemas de gestão de dados comprovados:
 
-- **Sistemas de gestão de bases de dados relacionais (RDBMS)**: As bases de dados relacionais estruturam os dados utilizando relações que podem ser representadas em tabelas. Isto permite armazenar, recuperar e processar dados de forma eficiente. A linguagem de base de dados mais utilizada é a SQL, que é também o nome de sistemas de gestão de bases de dados relacionais bem conhecidos, como o MySQL, o Microsoft SQL Server e o PostgreSQL.
+- **Sistemas de gestão de bases de dados relacionais (RDBMS)**: As [bases de dados relacionais]({{< relref "posts/relationale-datenbank" >}}) estruturam os dados utilizando relações que podem ser representadas em tabelas. Isto permite armazenar, recuperar e processar dados de forma eficiente. A linguagem de base de dados mais utilizada é a SQL, que é também o nome de sistemas de gestão de bases de dados relacionais bem conhecidos, como o MySQL, o Microsoft SQL Server e o PostgreSQL.
 - **Sistemas de gestão de bases de dados NoSQL**: Em comparação com os RDBMS, as bases de dados NoSQL oferecem uma estrutura de dados flexível e um escalonamento horizontal que é mais adequado para grandes volumes de dados, requisitos de elevado desempenho e alterações frequentes. Exemplos de sistemas de gestão de bases de dados NoSQL são o MongoDB, o Apache Cassandra e o CouchDB.
-- **Data Warehouses**: Um armazém de dados é uma base de dados especializada em análises que consolida grandes quantidades de dados de várias fontes num conjunto de dados consistente. Os gestores de dados podem então processar e analisar estes dados de modo a obter uma visão abrangente dos processos comerciais de uma empresa, por exemplo. Os sistemas de armazém de dados que merecem ser mencionados são o Oracle Exadata, o IBM Netezza, o Amazon Redshift e o Snowflake.
+- **Data Warehouses**: Um [armazém de dados]({{< relref "posts/20250326-data-warehouse" >}}) é uma base de dados especializada em análises que consolida grandes quantidades de dados de várias fontes num conjunto de dados consistente. Os gestores de dados podem então processar e analisar estes dados de modo a obter uma visão abrangente dos processos comerciais de uma empresa, por exemplo. Os sistemas de armazém de dados que merecem ser mencionados são o Oracle Exadata, o IBM Netezza, o Amazon Redshift e o Snowflake.
 - **Lagos de dados**: Um lago de dados é um repositório no qual são armazenados todos os dados brutos de uma organização. Pode conter tanto dados estruturados de bases de dados relacionais como dados não estruturados (por exemplo, e-mails, documentos PDF e ficheiros de imagem). Em contraste com o armazém de dados, os dados no lago de dados só são processados para análise ou visualização quando necessário. Os sistemas de data lake, como o Amazon S3, o Microsoft Azure Data Lake ou o Google Cloud Storage, permitem o processamento rápido e flexível de grandes volumes de dados.
-- **Ferramentas de gestão de dados mestres**: As ferramentas de gestão de dados mestres ajudam-no a gerir e a manter os dados mestres da sua empresa. Os dados mestres mais importantes incluem informações sobre clientes, fornecedores, produtos e pessoal. Com as ferramentas MDM, como o SAP Master Data Governance ou o IBM InfoSphere MDM, é possível eliminar inconsistências e garantir que os dados principais da sua empresa são únicos, completos, sem erros e actualizados.
+- **Ferramentas de gestão de dados mestres**: As ferramentas de [gestão de dados mestres]({{< relref "posts/20250505-master-data-management" >}}) ajudam-no a gerir e a manter os dados mestres da sua empresa. Os dados mestres mais importantes incluem informações sobre clientes, fornecedores, produtos e pessoal. Com as ferramentas MDM, como o SAP Master Data Governance ou o IBM InfoSphere MDM, é possível eliminar inconsistências e garantir que os dados principais da sua empresa são únicos, completos, sem erros e actualizados.
 
 ### Qual é o melhor sistema de gestão de dados?
 
-A escolha do software de gestão de dados correto depende dos requisitos específicos que tem para o acesso, armazenamento, segurança, integração e análise de dados. Pode decidir se pretende armazenar e analisar os seus dados nos seus próprios servidores ([On-Premises]({{< relref "pages/product/seatable-server" >}}), numa nuvem ou numa combinação híbrida.
+A escolha do software de gestão de dados correto depende dos requisitos específicos que tem para o acesso, armazenamento, segurança, integração e análise de dados. Pode decidir se pretende armazenar e analisar os seus dados nos seus próprios servidores [on-premises]({{< relref "pages/product/seatable-server" >}}), numa [nuvem]({{< relref "posts/cloud-computing" >}}) ou numa combinação híbrida.
 
 Uma tendência que pode ser observada é a utilização crescente de soluções de gestão de dados baseadas na nuvem. Uma plataforma de gestão de dados baseada na nuvem permite-lhe armazenar dados de forma segura e processá-los de forma eficiente sem ter de investir em infra-estruturas dispendiosas.
 
@@ -123,11 +123,11 @@ Uma tendência que pode ser observada é a utilização crescente de soluções 
 
 Na [base de dados sem código SeaTable]({{< relref "/" >}}) baseada em tabelas, pode armazenar, recuperar e analisar eficazmente os seus dados sem ter de possuir quaisquer conhecimentos de SQL ou outra experiência técnica prévia. Não só pode facilmente estruturar e ligar dados, como também pode armazenar ficheiros, imagens e documentos.
 
-Ao contrário de outras bases de dados relacionais, a **interface gráfica do utilizador** do SeaTable permite-lhe efetuar análises diretamente. Estão disponíveis numerosas estatísticas para uma análise mais aprofundada. Se isto não for suficiente, pode visualizar os seus dados em galerias, calendários, organogramas, etc. com a ajuda de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+Ao contrário de outras bases de dados relacionais, a **interface gráfica do utilizador** do SeaTable permite-lhe efetuar análises diretamente. Estão disponíveis numerosas estatísticas para uma análise mais aprofundada. Se isto não for suficiente, pode visualizar os seus dados em galerias, calendários, organogramas, etc. com a ajuda de plugins.
 
 Com o **no-code app builder** do SeaTable, pode criar as suas próprias aplicações sem quaisquer conhecimentos de programação e, assim, controlar com precisão o acesso aos dados da sua base de dados. Para o design da aplicação, existem tipos de páginas prontas com elementos visuais que pode simplesmente arrastar e largar.
 
-O SeaTable dá-lhe a liberdade de escolher entre a conveniência de uma [solução na nuvem]({{< relref "pages/product/seatable-cloud" >}}) e a soberania dos dados de que desfruta com um sistema auto-hospedado. Está com as orelhas em pé neste momento? Então [registe-se gratuitamente]({{< relref "pages/registration/" >}}) e experimente o SeaTable Cloud por tempo ilimitado.
+O SeaTable dá-lhe a liberdade de escolher entre a conveniência de uma [solução na nuvem]({{< relref "pages/product/seatable-cloud" >}}) e a [soberania dos dados]({{< relref "posts/digitale-souveraenitaet" >}}) de que desfruta com um sistema auto-hospedado. Está com as orelhas em pé neste momento? Então [registe-se gratuitamente]({{< relref "pages/registration/" >}}) e experimente o SeaTable Cloud por tempo ilimitado.
 
 ## Impulsione a digitalização na sua empresa
 
@@ -135,7 +135,7 @@ Num mundo cada vez mais digitalizado, a gestão de dados não é apenas um desaf
 
 ## FAQ
 
-{{< faq "O que é a gestão de dados? " >}}A **gestão de dados** refere-se ao conjunto de todos os processos, métodos e tecnologias que as empresas utilizam para registar, armazenar, analisar e utilizar sistematicamente os seus dados.
+{{< faq "O que é a gestão de dados? " >}}A gestão de dados refere-se ao conjunto de todos os processos, métodos e tecnologias que as empresas utilizam para registar, armazenar, analisar e utilizar sistematicamente os seus dados.
 {{< /faq >}}
 {{< faq "O que envolve a gestão de dados? " >}}A gestão de dados inclui subáreas complexas, como a recolha e o armazenamento de dados, a integração e a modelação de dados, a manutenção e a qualidade dos dados, a análise e a proteção dos dados.
 {{< /faq >}}
