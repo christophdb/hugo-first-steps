@@ -50,11 +50,11 @@ Jedoch mussten die damaligen Data Warehouses eine **enorme Redundanz** bewältig
 
 ![KI im DWH](KI-in-Data-Warehouses.jpg)
 
-Heute eröffnen **KI, maschinelles Lernen und Automatisierung** ganz neue Möglichkeiten, um die Leistung von Data Warehouses zu verbessern. Diese Entwicklung führt letztlich zu **autonomen Data Warehouses**, die sich vollständig selbst verwalten und keine Administration mehr durch den Menschen erfordern. Dies kann die IT-Abteilung in Ihrem Unternehmen entlasten und Freiräume schaffen, um noch mehr Erkenntnisse aus Ihren Daten zu gewinnen. Zugleich können Sie mit einem modernen Data Warehouse die Kosten senken und optimale Data Warehouse Architekturen für die Anforderungen unterschiedlicher Benutzer und Fachbereiche entwerfen.
+Heute eröffnen [künstliche Intelligenz]({{< relref "posts/kuenstliche-intelligenz" >}}), **maschinelles Lernen und Automatisierung** ganz neue Möglichkeiten, um die Leistung von Data Warehouses zu verbessern. Diese Entwicklung führt letztlich zu **autonomen Data Warehouses**, die sich vollständig selbst verwalten und keine Administration mehr durch den Menschen erfordern. Dies kann die IT-Abteilung in Ihrem Unternehmen entlasten und Freiräume schaffen, um noch mehr Erkenntnisse aus Ihren Daten zu gewinnen. Zugleich können Sie mit einem modernen Data Warehouse die Kosten senken und optimale Data Warehouse Architekturen für die Anforderungen unterschiedlicher Benutzer und Fachbereiche entwerfen.
 
 ## Wie ein Data Warehouse aufgebaut ist
 
-Wie Sie Ihr Data Warehouse-System genau konfigurieren, hängt von den spezifischen Data Warehouse Anforderungen Ihres Unternehmens ab, die Sie zunächst definieren sollten. Alle **Data Warehouse Architekturen** teilen sich jedoch ein grundlegendes Design: Rohdaten werden in einem Repository zwischengespeichert, das auf der einen Seite von Datenquellen gespeist wird und auf der anderen Seite strukturierte Daten in eine relationale Datenbank schreibt. Die Nutzer greifen am Ende über BI-Tools zur Analyse, Visualisierung und Berichterstellung auf die bereinigten Daten zu.
+Wie Sie Ihr Data Warehouse-System genau konfigurieren, hängt von den spezifischen Data Warehouse Anforderungen Ihres Unternehmens ab, die Sie zunächst definieren sollten. Alle **Data Warehouse Architekturen** teilen sich jedoch ein grundlegendes Design: Rohdaten werden in einem Repository zwischengespeichert, das auf der einen Seite von Datenquellen gespeist wird und auf der anderen Seite strukturierte Daten in eine [relationale Datenbank]({{< relref "posts/relationale-datenbank" >}}) schreibt. Die Nutzer greifen am Ende über BI-Tools zur Analyse, Visualisierung und Berichterstellung auf die bereinigten Daten zu.
 
 ### Schlüsselkomponenten beim Data Warehousing
 
@@ -80,7 +80,7 @@ Um Daten aus verschiedenen Quellen zu sammeln, zu transformieren und in die zent
 
 Die bisherigen Erklärungen waren ziemlich technisch. Hier haben wir noch ein anschauliches Beispiel für Sie, an dem deutlich wird, wie ein Data Warehouse Prozess reibungslos abläuft.
 
-Nehmen wir an, Sie betreiben einen **Online-Shop** und wollen die Verkäufe, die Zugriffszahlen und die Kundendaten analysieren. Zuerst müssen Sie sich also überlegen, welche Datenquellen in Ihr Data Warehouse einfließen sollen und welche Systeme Sie dazu anzapfen müssen. Dies könnten in diesem Fall die **Bestellhistorie** aus Shopify, der **Web-Traffic** aus Google Analytics und die **CRM-Daten** aus Pipedrive sein. Diese Daten werden nun bereinigt, harmonisiert und im Datawarehouse gespeichert. Nun können Sie alle Verkäufe und Zugriffszahlen statistisch auswerten, Kundenanalysen durchführen und daraus Rückschlüsse für Ihre Vertriebsstrategie und die Verbesserung Ihres Online-Shops ziehen.
+Nehmen wir an, Sie betreiben einen **Online-Shop** und wollen die Verkäufe, die Zugriffszahlen und die Kundendaten analysieren. Zuerst müssen Sie sich also überlegen, welche Datenquellen in Ihr Data Warehouse einfließen sollen und welche Systeme Sie dazu anzapfen müssen. Dies könnten in diesem Fall die **Bestellhistorie** aus Shopify, der **Web-Traffic** aus Google Analytics und die [CRM-Daten aus Pipedrive]({{< relref "posts/no-code-crm" >}}) sein. Diese Daten werden nun bereinigt, harmonisiert und im Datawarehouse gespeichert. Nun können Sie alle Verkäufe und Zugriffszahlen statistisch auswerten, Kundenanalysen durchführen und daraus Rückschlüsse für Ihre Vertriebsstrategie und die Verbesserung Ihres Online-Shops ziehen.
 
 ![Datawarehouse Beispiel Visualisierung](Data-Warehouse-Beispiel-Visualisierung.jpg)
 
@@ -101,7 +101,7 @@ Ein Data Lake ist quasi ein **Sammelbecken für alle Rohdaten einer Organisation
 
 ## Die zwei grundlegenden Data Warehouse Technologien
 
-Auf dem Markt gibt es verschiedene Data Warehouse Lösungen, die sich grundsätzlich in **Cloud oder On-Premises** einteilen lassen. Ursprünglich wurden Data Warehouses nur auf On-Premises-Servern bereitgestellt. Diese lokalen Data Warehouses können auch heute noch bestimmte Vorteile in puncto **Sicherheit und Datenhoheit** haben. Die Verwaltung dieser Systeme kann jedoch bei komplexen Datawarehouse Architekturen sehr aufwändig sein.
+Auf dem Markt gibt es verschiedene Data Warehouse Lösungen, die sich grundsätzlich in [Cloud]({{< relref "posts/cloud-computing" >}}) oder **On-Premises** einteilen lassen. Ursprünglich wurden Data Warehouses nur auf On-Premises-Servern bereitgestellt. Diese lokalen Data Warehouses können auch heute noch bestimmte Vorteile in puncto **Sicherheit** und [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}) haben. Die Verwaltung dieser Systeme kann jedoch bei komplexen Datawarehouse Architekturen sehr aufwändig sein.
 
 ### Vorteile von "Data Warehouse in the Cloud"
 
@@ -129,7 +129,7 @@ SeaTable ist eine [No-Code-Plattform]({{< relref "/" >}}), die gegenüber andere
 
 Über **Integrationen mit Zapier, Make oder n8n** sowie die **SeaTable API** können Daten aus unzähligen Quellen in SeaTable zusammenfließen. Damit SeaTable alle Daten in strukturierter Form speichern kann, wählen Sie vorab die gewünschten [Datentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Dies ist dank des **benutzerfreundlichen Baukastenprinzips** ebenso leicht, wie mit dem **integrierten App Builder** [eigene Apps zu erstellen]({{< relref "posts/20250318-app-erstellen" >}}). Zudem ermöglicht SeaTable die **Zusammenarbeit im Team** und aktualisiert Daten in Echtzeit – Änderungen werden sofort für alle Benutzer sichtbar und in der Versionshistorie vollständig dokumentiert.
 
-Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse [On-Premises]({{< relref "pages/product/seatable-server" >}}) oder in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) betreiben möchten. Profitieren Sie von der Skalierbarkeit und dem Komfort der **SeaTable Cloud** oder hosten Sie **SeaTable Server** unter voller Kontrolle und Datenhoheit auf Ihren eigenen Servern. Starten Sie mit der kostenlosen Basis-Version, die Sie jederzeit auf ein [Plus- oder Enterprise-Abo]({{< relref "pages/prices" >}}) upgraden können, sobald Sie mehr Funktionen oder Speicherplatz benötigen.
+Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse **On-Premises** oder in der **Cloud** betreiben möchten. Profitieren Sie von der Skalierbarkeit und dem Komfort der [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) oder hosten Sie [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) unter voller Kontrolle und Datenhoheit auf Ihren eigenen Servern. Starten Sie mit der kostenlosen Basis-Version, die Sie jederzeit auf ein [Plus- oder Enterprise-Abo]({{< relref "pages/prices" >}}) upgraden können, sobald Sie mehr Funktionen oder Speicherplatz benötigen.
 
 [Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und erleben Sie, wie einfach Data Warehousing sein kann.
 

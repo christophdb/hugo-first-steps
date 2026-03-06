@@ -24,7 +24,7 @@ Doch je größer Ihr Unternehmen wird, desto mehr Daten und Dokumente müssen Si
 
 ## Warum Online-Tabellen wie Google Spreadsheet der neue Standard sind
 
-Die Zeiten, in denen Excel in Sachen Tabellenkalkulation unangefochten an erster Stelle stand, sind vorbei. Heute mischen **Online--Tabellenkalkulationen wie Google Sheets** die Szene auf und bieten allerlei Funktionen, die über das hinausgehen, was klassische Desktop-Versionen bieten. Diese browserbasierten Tools machen nicht nur die Datenauswertung und -visualisierung einfach, sondern setzen auch neue Maßstäbe in Sachen Benutzerfreundlichkeit und Echtzeit-Kollaboration.
+Die Zeiten, in denen Excel in Sachen Tabellenkalkulation unangefochten an erster Stelle stand, sind vorbei. Heute mischen **Online-Tabellenkalkulationen wie Google Sheets** die Szene auf und bieten allerlei Funktionen, die über das hinausgehen, was klassische Desktop-Versionen bieten. Diese browserbasierten Tools machen nicht nur die Datenauswertung und -visualisierung einfach, sondern setzen auch neue Maßstäbe in Sachen Benutzerfreundlichkeit und Echtzeit-Kollaboration.
 
 Wer nicht nur Formeln und Diagramme, sondern auch **Datenbankfunktionen oder Web-Formulare nutzen** möchte, sollte auf Online-Spreadsheets setzen. In der neuen Generation von Google Spreadsheet Alternativen sind erweiterte Datenformate und unterschiedliche Anwendungsansichten gegeben. Der Siegeszug der Online-Spreadsheets kommt also nicht von ungefähr – sie bieten Funktionen, auf die Sie zukünftig nicht mehr verzichten möchten.
 
@@ -117,7 +117,7 @@ SeaTable ermöglicht nicht nur die Erfassung, sondern auch die **umfassende Ausw
 
 ### Datenbankfunktion
 
-Eine der herausragendsten Funktionen von SeaTable ist die Datenbankintegration. Zellverweise für Formeln sind überall gegeben, aber mit SeaTable können Sie jetzt auch Zellverweise auf **ganze Datensätze in anderen Tabellen erstellen** – eine Revolution für die Auswertung über Tabellengrenzen hinweg. Diese Funktion bietet Ihnen die Möglichkeit, Daten zu verknüpfen, miteinander in Beziehung zu setzen und so umfassend zu analysieren, wie es sonst nur in relationalen Datenbanken möglich ist.
+Eine der herausragendsten Funktionen von SeaTable ist die Datenbankintegration. Zellverweise für Formeln sind überall gegeben, aber mit SeaTable können Sie jetzt auch Zellverweise auf **ganze Datensätze in anderen Tabellen erstellen** – eine Revolution für die Auswertung über Tabellengrenzen hinweg. Diese Funktion bietet Ihnen die Möglichkeit, Daten zu verknüpfen, miteinander in Beziehung zu setzen und so umfassend zu analysieren, wie es sonst nur in [relationalen Datenbanken]({{< relref "posts/relationale-datenbank" >}}) möglich ist.
 
 SeaTable ist nicht nur eine Google Spreadsheet Alternative, sondern eine leistungsstarke No-Code-Plattform, die Ihre Arbeitsweise mit Tabellen auf ein neues Level heben wird. Probieren Sie es aus, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und entdecken Sie, wie einfach und effektiv Datenmanagement sein kann.
 

@@ -44,7 +44,7 @@ If you just want to get a quick overview, take a look at the following table, wh
 
 In this comparison, only local applications that support at least two operating system families were considered. For this reason, Apple Numbers as a pure spreadsheet application for MacOS/iOS is not included, nor is Gnumeric, which has been a pure application for Linux since 2014.
 
-An up-and-coming player among spreadsheets is SeaTable, which as a [no-code database and app builder]({{< relref "/" >}}) has a significantly expanded range of functions compared to Excel and other solutions, thus revitalizing the competition. Like the other solutions presented in this article, the free version of SeaTable is also free of charge, unlike Excel.
+An up-and-coming player among spreadsheets is SeaTable, which as a [AI no-code database and app builder]({{< relref "/" >}}) has a significantly expanded range of functions compared to Excel and other solutions, thus revitalizing the competition. Like the other solutions presented in this article, the free version of SeaTable is also free of charge, unlike Excel.
 
 ### Classification of spreadsheets
 
@@ -52,7 +52,7 @@ Not included in the tabular comparison are the two properties **operating mode**
 
 ![Classification of spreadsheets](Excel_Alternativen_Matrix.jpg)
 
-A comparison of spreadsheets 15 years ago would have shown only **local applications** such as Calc and Apple Numbers in the bottom two quadrants. With the triumph of cloud computing, **browser-based spreadsheets** have gained enormous market share and have increasingly become the leading applications. It is not without reason that Excel is now also available free of charge as a web application of the Microsoft 365 package in addition to the classic desktop version.
+A comparison of spreadsheets 15 years ago would have shown only **local applications** such as Calc and Apple Numbers in the bottom two quadrants. With the triumph of [cloud computing]({{< relref "posts/cloud-computing" >}}), **browser-based spreadsheets** have gained enormous market share and have increasingly become the leading applications. It is not without reason that Excel is now also available free of charge as a web application of the Microsoft 365 package in addition to the classic desktop version.
 
 ### Advantages of cloud solutions
 
@@ -176,7 +176,7 @@ Single selection fields are similar to the drop-down lists that you can display 
 
 ### Spreadsheets with the power of no-code databases and app builders
 
-Another function of SeaTable that is not available in any of the other applications is **links**. With links, data records can be related to each other and dependencies and affiliations can be mapped (not to be confused with cell references in Excel). This is possible both within a table and across all tables in a database. The linked data can be easily analyzed graphically and tabularly in the browser-based spreadsheet using the associated **analysis functions**. SeaTable offers functionalities that are otherwise only known from databases and is the ideal solution for using spreadsheets like Excel free of charge.
+Another function of SeaTable that is not available in any of the other applications is **links**. With links, data records can be related to each other and dependencies and affiliations can be mapped (not to be confused with cell references in Excel). This is possible both within a table and [across all tables in a database]({{< relref "posts/relationale-datenbank" >}}). The linked data can be easily analyzed graphically and tabularly in the browser-based spreadsheet using the associated **analysis functions**. SeaTable offers functionalities that are otherwise only known from databases and is the ideal solution for using spreadsheets like Excel free of charge.
 
 SeaTable beginners will first have to get used to defining the column types before entering data and to thinking in terms of **database logic** across tables. However, the **intuitive user interface** makes this challenge manageable. Migration from Excel is made easier with [import functions for CSV and XLSX files]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}). However, due to the data formats used by SeaTable, information may be lost during import.
 

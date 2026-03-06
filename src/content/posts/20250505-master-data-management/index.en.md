@@ -69,9 +69,9 @@ Master data is business-relevant data that you absolutely need for functioning c
 
 Examples of master data:
 
-- **Customer master data**: Whether e-mail or delivery address, accounts or purchase history: everything you need for business and payment processing with customers is hugely important. You should therefore extract this master data from webshops, ERP or CRM systems and merge it into a master data management system.
+- **Customer master data**: Whether e-mail or delivery address, accounts or purchase history: everything you need for business and payment processing with customers is hugely important. You should therefore extract this master data from webshops, ERP or [CRM systems]({{< relref "pages/industry-solutions/kundenmanagement" >}}) and merge it into a master data management system.
 - **Employee master data**: In addition to work-related data (e.g. name, position, educational qualifications and date of hire), this includes sensitive data such as tax class, bank details, social security, nationality, marital status, and emergency contacts. It is best to keep this HR master data well protected in an [HR database]({{< relref "posts/20250317-hris" >}}).
-- **Supplier master data**: This is about all the data you need for smooth procurement processes. This can be contractually agreed prices and delivery quantities, but also location and logistics data. Usually, an ERP system is the central data source for supply chain management.
+- **Supplier master data**: This is about all the data you need for smooth procurement processes. This can be contractually agreed prices and delivery quantities, but also location and logistics data. Usually, an ERP system is the central data source for [supply chain management]({{< relref "posts/20250620-supply-chain-management" >}}).
 - **Product master data**: As your product data is relevant across departments (e.g. for marketing, sales, logistics, and product development), an up-to-date, centralized database is of the utmost importance. This includes unique product numbers, quantities and prices as well as attributes such as dimensions, color and material.
 - **Asset master data**: This refers to the assets of your company, which you usually record in an [inventory list]({{< relref "posts/inventarliste-erstellen" >}}). Tangible assets can be real estate, machinery, vehicles, office furniture or financial resources, while intangible assets include patents or your company's master data.
 
@@ -115,7 +115,7 @@ All master data goes through a life cycle from initial creation to archiving and
 
 If you are now convinced and want to introduce a master data management tool, you should take the following tips to heart:
 
-1. **Analyze your current data inventory**: In how many systems is important data stored? Where do data silos arise? Identify redundancies, inconsistencies and weaknesses in your existing data structures.
+1. **Analyze your current data inventory**: In how many systems is important data stored? Where do data silos arise? Identify redundancies, inconsistencies and weaknesses in your existing [data structures]({{< relref "posts/relationale-datenbank" >}}).
 2. **Define a strategy and a framework**: Determine which data you want to manage centrally and which processes are necessary for this. Give your master data management an orderly framework with the help of data governance guidelines.
 3. **Train your employees**: The best strategies and guidelines are useless if there is a lack of implementation. Make your team aware of the importance and benefits of master data management and explain how each individual can contribute.
 4. **Continuously maintain and optimize your master data**: Regularly review data quality and adjust master data management processes as needed. You can use [artificial intelligence]({{< relref "posts/kuenstliche-intelligenz" >}}) and machine learning to compare large master data records with other data and automatically check for matches or discrepancies.
@@ -130,7 +130,7 @@ If you want to customize your master data for different user groups, the **no-co
 
 As SeaTable is not only designed for master data management, your departments and users can develop their own processes in separate workspaces and bases and store specific information that goes beyond the master data. The countless use cases cover [IT management]({{< relref "pages/industry-solutions/software-development" >}}), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [project management]({{< relref "pages/industry-solutions/project-management" >}}) and [human resources]({{< relref "pages/industry-solutions/hr" >}}), among others.
 
-Another advantage that makes SeaTable stand out as a master data management tool is the free choice of deployment type. Benefit from the convenience and scalability of the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) or retain full control and data sovereignty with an on-premises installation of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). In either case, SeaTable grows flexibly with your company.
+Another advantage that makes SeaTable stand out as a master data management tool is the free choice of deployment type. Benefit from the convenience and scalability of the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) or retain full control and [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}) with an on-premises installation of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). In either case, SeaTable grows flexibly with your company.
 
 [Register today]({{< relref "pages/registration" >}}), use the free basic version and only pay for additional functions, users or resources as soon as you need them.
 

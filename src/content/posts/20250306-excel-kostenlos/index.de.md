@@ -41,7 +41,7 @@ Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in 
 
 In diesem Vergleich wurden nur lokale Anwendungen berücksichtigt, die mindestens zwei Betriebssystemfamilien unterstützen. Aus diesem Grund ist Apple Numbers als reine Tabellenkalkulation für MacOS/iOS genauso wenig dabei wie Gnumeric, das seit 2014 eine reine Anwendung für Linux ist.
 
-Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [No-Code-Datenbank und App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
+Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [KI No-Code-Datenbank und App-Builder]({{< relref "/" >}}) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
 
 ### Einordnung der Tabellenkalkulationen
 
@@ -49,7 +49,7 @@ Nicht in der tabellarischen Gegenüberstellung enthalten sind die beiden Eigensc
 
 ![Klassifikation der Tabellenkalkulationen](Excel_Alternativen_Matrix.jpg)
 
-Ein Vergleich von Tabellenkalkulationen hätte vor 15 Jahren ausschließlich **lokale Anwendungen** wie Calc und Apple Numbers aus den beiden unteren Quadranten gezeigt. Mit dem Siegeszug von Cloud Computing haben **Browser-basierte Tabellenkalkulationen** enorme Marktanteile gewonnen und sind mehr und mehr zu den führenden Anwendungen geworden. Nicht ohne Grund gibt es neben der klassischen Desktop-Version mittlerweile auch Excel kostenlos als Webanwendung des Microsoft-365-Pakets.
+Ein Vergleich von Tabellenkalkulationen hätte vor 15 Jahren ausschließlich **lokale Anwendungen** wie Calc und Apple Numbers aus den beiden unteren Quadranten gezeigt. Mit dem Siegeszug von [Cloud Computing]({{< relref "posts/cloud-computing" >}}) haben **Browser-basierte Tabellenkalkulationen** enorme Marktanteile gewonnen und sind mehr und mehr zu den führenden Anwendungen geworden. Nicht ohne Grund gibt es neben der klassischen Desktop-Version mittlerweile auch Excel kostenlos als Webanwendung des Microsoft-365-Pakets.
 
 ### Vorteile von Cloud-Lösungen
 
@@ -173,7 +173,7 @@ Einfachauswahlfelder sind den Drop-down-Listen, die Sie in Excel via Datenvalidi
 
 ### Tabellenkalkulation mit der Power von No-Code-Datenbanken und App-Buildern
 
-Eine weitere Funktion von SeaTable, die in keiner der anderen Anwendungen zur Verfügung steht, sind **Verknüpfungen**. Mit Verknüpfungen lassen sich Datensätze miteinander in Beziehung setzen und Abhängigkeiten sowie Zugehörigkeiten abbilden (nicht zu verwechseln mit Zellverweisen in Excel). Dies geht sowohl innerhalb einer Tabelle als auch über alle Tabellen in einer Datenbank hinweg. Über dazugehörige **Analysefunktionen** lassen sich die verknüpften Daten in der Browser-basierten Tabellenkalkulation spielend einfach grafisch und tabellarisch auswerten. SeaTable bringt Funktionalitäten mit, die man sonst nur aus Datenbanken kennt, und ist die optimale Lösung, um Spreadsheets wie in Excel kostenlos nutzen zu können.
+Eine weitere Funktion von SeaTable, die in keiner der anderen Anwendungen zur Verfügung steht, sind **Verknüpfungen**. Mit Verknüpfungen lassen sich Datensätze miteinander in Beziehung setzen und Abhängigkeiten sowie Zugehörigkeiten abbilden (nicht zu verwechseln mit Zellverweisen in Excel). Dies geht sowohl innerhalb einer Tabelle als auch [über alle Tabellen in einer Datenbank hinweg]({{< relref "posts/relationale-datenbank" >}}). Über dazugehörige **Analysefunktionen** lassen sich die verknüpften Daten in der Browser-basierten Tabellenkalkulation spielend einfach grafisch und tabellarisch auswerten. SeaTable bringt Funktionalitäten mit, die man sonst nur aus Datenbanken kennt, und ist die optimale Lösung, um Spreadsheets wie in Excel kostenlos nutzen zu können.
 
 SeaTable Einsteiger werden sich zunächst daran gewöhnen müssen, vor der Datenerfassung die Spaltentypen zu definieren und tabellenübergreifend in einer **Datenbank-Logik** zu denken. Die **intuitive Benutzeroberfläche** macht diese Herausforderung jedoch überschaubar. Die Migration von Excel wird mit [Importfunktionen für CSV- und XLSX-Dateien]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) erleichtert. Aufgrund der von SeaTable verwendeten Datenformate können beim Import aber Informationsverluste entstehen.
 

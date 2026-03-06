@@ -1,6 +1,6 @@
 ---
 title: 'Como utilizar os seus dados com um armazém de dados'
-description: 'Data warehouse, base de dados, data lake: estes termos podem ser confusos - afinal, todos eles se referem a um sistema que armazena dados. O artigo a seguir esclarece o assunto e explica as vantagens de um data warehouse e como funciona o armazenamento de dados.'
+description: 'Data warehouse, base de dados, data lake: estes termos podem ser confusos – afinal, todos eles se referem a um sistema que armazena dados. O artigo a seguir esclarece o assunto e explica as vantagens de um data warehouse e como funciona o armazenamento de dados.'
 seo:
     title: 'Data warehouse: as vantagens para a sua empresa em resumo'
     description: 'Descubra as técnicas básicas e avançadas de armazenamento de dados. Saiba como armazenar dados de forma eficaz'
@@ -18,7 +18,7 @@ color: '#34ba9d'
 
 Um armazém de dados (também abreviado para DWH) é um **sistema de armazenamento centralizado** que reúne grandes quantidades de dados de diferentes fontes, estrutura-os e prepara-os **para análise**. Ao armazenar e visualizar o **histórico** dos dados, é possível identificar padrões, tendências e correlações ao longo do tempo. É por esta razão que a inteligência empresarial também desempenha um papel importante nos armazéns de dados.
 
-As funções de análise permitem-lhe obter informações valiosas sobre várias áreas de negócio a partir dos seus dados, a fim de melhorar a **tomada de decisões**. Se incorporar todos os dados da sua empresa no seu armazém de dados, este pode mesmo ser descrito como uma **fonte única de verdade** - ou seja, uma base de dados completa e fiável.
+As funções de análise permitem-lhe obter informações valiosas sobre várias áreas de negócio a partir dos seus dados, a fim de melhorar a **tomada de decisões**. Se incorporar todos os dados da sua empresa no seu armazém de dados, este pode mesmo ser descrito como uma **fonte única de verdade** – ou seja, uma base de dados completa e fiável.
 
 ## As vantagens de um armazém de dados
 
@@ -50,11 +50,11 @@ No entanto, os armazéns de dados da altura tinham de lidar com uma **enorme red
 
 ![IA em DWH](KI-in-Data-Warehouses.jpg)
 
-Atualmente, a **IA, a aprendizagem automática e a automatização** estão a abrir possibilidades inteiramente novas para melhorar o desempenho dos armazéns de dados. Este desenvolvimento acaba por conduzir a **armazéns de dados autónomos** que são completamente autogeridos e já não necessitam de administração humana. Isto pode aliviar a carga do departamento de TI da sua empresa e libertar tempo para obter ainda mais informações dos seus dados. Ao mesmo tempo, é possível reduzir os custos com um armazém de dados moderno e conceber arquitecturas de armazém de dados optimizadas para as necessidades de diferentes utilizadores e áreas especializadas.
+Atualmente, a [IA]({{< relref "posts/kuenstliche-intelligenz" >}}), **a aprendizagem automática e a automatização** estão a abrir possibilidades inteiramente novas para melhorar o desempenho dos armazéns de dados. Este desenvolvimento acaba por conduzir a **armazéns de dados autónomos** que são completamente autogeridos e já não necessitam de administração humana. Isto pode aliviar a carga do departamento de TI da sua empresa e libertar tempo para obter ainda mais informações dos seus dados. Ao mesmo tempo, é possível reduzir os custos com um armazém de dados moderno e conceber arquitecturas de armazém de dados optimizadas para as necessidades de diferentes utilizadores e áreas especializadas.
 
 ## Como é estruturado um armazém de dados
 
-A forma exacta de configurar o sistema de data warehouse depende dos requisitos específicos de data warehouse da sua empresa, que devem ser definidos em primeiro lugar. No entanto, todas as arquitecturas de **data warehouse** partilham uma conceção básica: os dados brutos são armazenados temporariamente num repositório que é alimentado por fontes de dados, por um lado, e escreve dados estruturados numa base de dados relacional, por outro. No final, os utilizadores acedem aos dados depurados através de ferramentas de BI para análise, visualização e elaboração de relatórios.
+A forma exacta de configurar o sistema de data warehouse depende dos requisitos específicos de data warehouse da sua empresa, que devem ser definidos em primeiro lugar. No entanto, todas as arquitecturas de **data warehouse** partilham uma conceção básica: os dados brutos são armazenados temporariamente num repositório que é alimentado por fontes de dados, por um lado, e escreve dados estruturados numa [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}), por outro. No final, os utilizadores acedem aos dados depurados através de ferramentas de BI para análise, visualização e elaboração de relatórios.
 
 ### Principais componentes do armazenamento de dados
 
@@ -62,7 +62,7 @@ Um conceito típico de data warehouse pode ser dividido nos seguintes níveis:
 
 1. **Fontes de dados internas**, por exemplo, sistemas ERP e CRM, ou **fontes de dados externas**, como dispositivos IoT ou plataformas de redes sociais, fornecem dados brutos.
 1. Os dados em bruto são temporariamente armazenados e transformados numa **área de preparação**. No processo **ETL**, o armazém de dados transforma os dados para armazenamento estruturado.
-1. o núcleo do armazém de dados é normalmente uma **base de dados relacional**, que armazena e gere os dados estruturados e limpos.
+1. O núcleo do armazém de dados é normalmente uma **base de dados relacional**, que armazena e gere os dados estruturados e limpos.
 1. Um armazém de dados está normalmente dividido em vários **data marts**. Estes concentram-se em áreas especializadas ou departamentos individuais (por exemplo, vendas, marketing, finanças).
 1. A **exploração de dados**, a **análise estatística de dados**, a **visualização gráfica** e a **elaboração de relatórios** são efectuadas com ferramentas de BI como o Tableau, o Microsoft Power BI ou o Google Looker.
 
@@ -73,14 +73,14 @@ Um conceito típico de data warehouse pode ser dividido nos seguintes níveis:
 Um armazém de dados utiliza os chamados processos ETL para recolher dados de várias fontes, transformá-los e carregá-los na base de dados central. A abreviatura significa **Extrair, Transformar, Carregar**. O processo ETL ocorre em três etapas na área de preparação:
 
 1. A **extração**: O armazém de dados recolhe os dados pretendidos de várias fontes. Para que isto funcione, normalmente é necessário ligar outros sistemas ao sistema de data warehouse através de uma API.
-1. a **transformação**: Trata-se de limpar, enriquecer e formatar os dados de uma forma normalizada. Por exemplo, o armazém de dados remove duplicados, acrescenta valores em falta e adapta os tipos de dados.
-1. o **carregamento**: Finalmente, os dados limpos são transferidos para a base de dados central.
+1. A **transformação**: Trata-se de limpar, enriquecer e formatar os dados de uma forma normalizada. Por exemplo, o armazém de dados remove duplicados, acrescenta valores em falta e adapta os tipos de dados.
+1. O **carregamento**: Finalmente, os dados limpos são transferidos para a base de dados central.
 
 ### Exemplo de um processo de data warehouse
 
 As explicações anteriores foram bastante técnicas. Aqui está outro exemplo ilustrativo para mostrar como um processo de data warehouse funciona sem problemas.
 
-Vamos supor que gere uma **loja online** e pretende analisar as vendas, o tráfego e os dados dos clientes. Em primeiro lugar, é necessário considerar quais as fontes de dados que devem ser incluídas na sua base de dados e quais os sistemas a que deve aceder. Neste caso, pode ser o **histórico de encomendas** do Shopify, o **tráfego web** do Google Analytics e os **dados de CRM** do Pipedrive. Estes dados são agora limpos, harmonizados e armazenados no armazém de dados. Pode agora avaliar estatisticamente todos os números de vendas e de acessos, efetuar análises de clientes e tirar conclusões para a sua estratégia de vendas e para a melhoria da sua loja virtual.
+Vamos supor que gere uma **loja online** e pretende analisar as vendas, o tráfego e os dados dos clientes. Em primeiro lugar, é necessário considerar quais as fontes de dados que devem ser incluídas na sua base de dados e quais os sistemas a que deve aceder. Neste caso, pode ser o **histórico de encomendas** do Shopify, o **tráfego web** do Google Analytics e os dados de [CRM do Pipedrive]({{< relref "posts/no-code-crm" >}}). Estes dados são agora limpos, harmonizados e armazenados no armazém de dados. Pode agora avaliar estatisticamente todos os números de vendas e de acessos, efetuar análises de clientes e tirar conclusões para a sua estratégia de vendas e para a melhoria da sua loja virtual.
 
 ![Visualização de exemplo de armazém de dados](Data-Warehouse-Beispiel-Visualisierung.jpg)
 
@@ -101,7 +101,7 @@ Um lago de dados é uma espécie de **bacia de recolha de todos os dados brutos 
 
 ## As duas tecnologias básicas de armazenamento de dados
 
-Existem várias soluções de data warehouse no mercado, que podem ser basicamente classificadas como **na nuvem ou no local**. Originalmente, os data warehouses eram fornecidos apenas em servidores locais. Ainda hoje, estes armazéns de dados locais podem ter certas vantagens em termos de **segurança e soberania dos dados**. No entanto, a administração destes sistemas pode ser muito morosa para arquitecturas complexas de armazéns de dados.
+Existem várias soluções de data warehouse no mercado, que podem ser basicamente classificadas como [na nuvem]({{< relref "posts/cloud-computing" >}}) ou **no local**. Originalmente, os data warehouses eram fornecidos apenas em servidores locais. Ainda hoje, estes armazéns de dados locais podem ter certas vantagens em termos de **segurança** e [soberania dos dados]({{< relref "posts/digitale-souveraenitaet" >}}). No entanto, a administração destes sistemas pode ser muito morosa para arquitecturas complexas de armazéns de dados.
 
 ### Vantagens do "Data Warehouse na nuvem"
 
@@ -115,21 +115,21 @@ Um data warehouse na nuvem tem as seguintes vantagens, entre outras:
 Segue-se uma visão geral das diferenças entre a nuvem e o local.
 
 |                               | **Nuvem**                                                                                 | **No local**                                                                                   |
-| ----------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ----------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Disposições**               | Instalação possível em qualquer parte do mundo num curto espaço de tempo                  | A instalação do hardware no local pode demorar várias semanas                                  |
-| **Custos**                    | Princípio da repartição, sem custos adicionais para as infra-estruturas e o pessoal       | elevados custos de aquisição e de funcionamento das infra-estruturas e do pessoal              | elevados custos de funcionamento das infra-estruturas e do pessoal |
+| **Custos**                    | Princípio da repartição, sem custos adicionais para as infra-estruturas e o pessoal       | elevados custos de aquisição e de funcionamento das infra-estruturas e do pessoal              |
 | **Escalabilidade**            | Escalonamento flexível e automático sem limites                                           | Planeamento manual da capacidade com limites claros                                            |
 | **Segurança**                 | Elevada encriptação, cópias de segurança automáticas                                      | controlo total e soberania dos dados, segurança dependente dos seus processos de TI            |
 | **Atualização em tempo real** | Muito rápido graças à tecnologia in-memory                                                | Frequentemente baseado em lotes com atrasos                                                    |
 | **Usabilidade**               | Muitas vezes de fácil utilização graças a elementos pré-fabricados, sem dependência de TI | frequentemente complexos, os peritos em TI têm de ligar as fontes de dados e administrar o DWH |
 
-## SeaTable - o armazém de dados flexível, simples e económico
+## SeaTable – o armazém de dados flexível, simples e económico
 
-O SeaTable é uma [plataforma sem código] ({{< relref "/" >}}) que oferece a vantagem, em relação a outras bases de dados relacionais, de os utilizadores poderem trabalhar numa **interface gráfica do utilizador intuitiva** sem conhecimentos de SQL ou outros conhecimentos de TI. Com a ajuda de vários **views, plugins e estatísticas**, pode facilmente preparar e visualizar os dados da forma que desejar. Isto facilita a realização de análises precisas e a tomada de decisões bem fundamentadas sem qualquer problema.
+SeaTable é uma [plataforma sem código]({{< relref "/" >}}) que oferece a vantagem, em relação a outras bases de dados relacionais, de os utilizadores poderem trabalhar numa **interface gráfica do utilizador intuitiva** sem conhecimentos de SQL ou outros conhecimentos de TI. Com a ajuda de vários **views, plugins e estatísticas**, pode facilmente preparar e visualizar os dados da forma que desejar. Isto facilita a realização de análises precisas e a tomada de decisões bem fundamentadas sem qualquer problema.
 
-Os dados de inúmeras fontes podem fluir para o SeaTable através de **integrações com Zapier, Make ou n8n** e da **API do SeaTable**. Para permitir que o SeaTable guarde todos os dados de forma estruturada, selecione previamente os [tipos de dados] desejados ({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Graças ao **princípio modular de fácil utilização**, isto é tão fácil como utilizar o **Construtor de aplicações integrado** [para criar as suas próprias aplicações]({{< relref "posts/20250318-app-erstellen" >}}). O SeaTable também permite a **colaboração em equipa** e actualiza os dados em tempo real - as alterações são imediatamente visíveis para todos os utilizadores e totalmente documentadas no histórico de versões.
+Os dados de inúmeras fontes podem fluir para o SeaTable através de **integrações com Zapier, Make ou n8n** e da **API do SeaTable**. Para permitir que o SeaTable guarde todos os dados de forma estruturada, selecione previamente os [tipos de dados]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Graças ao **princípio modular de fácil utilização**, isto é tão fácil como utilizar o **Construtor de aplicações integrado** [para criar as suas próprias aplicações]({{< relref "posts/20250318-app-erstellen" >}}). SeaTable também permite a **colaboração em equipa** e actualiza os dados em tempo real – as alterações são imediatamente visíveis para todos os utilizadores e totalmente documentadas no histórico de versões.
 
-Além disso, pode escolher se pretende operar o seu armazém de dados [on-premises]({{< relref "pages/product/seatable-server" >}}) ou na [cloud]({{< relref "pages/product/seatable-cloud" >}}). Beneficie da escalabilidade e da comodidade do **SeaTable Cloud** ou aloje o **SeaTable Server** nos seus próprios servidores com total controlo e soberania dos dados. Comece com a versão básica gratuita, que pode atualizar para uma subscrição [Plus ou Enterprise]({{< relref "pages/prices" >}}) em qualquer altura, assim que necessitar de mais funções ou espaço de armazenamento.
+Além disso, pode escolher se pretende operar o seu armazém de dados **on-premises** ou **na cloud**. Beneficie da escalabilidade e da comodidade do [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) ou aloje o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) nos seus próprios servidores com total controlo e soberania dos dados. Comece com a versão básica gratuita, que pode atualizar para uma subscrição [Plus ou Enterprise]({{< relref "pages/prices" >}}) em qualquer altura, assim que necessitar de mais funções ou espaço de armazenamento.
 
 [Registe-se gratuitamente]({{< relref "pages/registration" >}}) e experimente como o armazenamento de dados pode ser fácil.
 

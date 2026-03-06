@@ -50,11 +50,11 @@ Sin embargo, los almacenes de datos de la época tenían que hacer frente a una 
 
 ![La IA en los almacenes de datos](KI-in-Data-Warehouses.jpg)
 
-Hoy en día, **la IA, el aprendizaje automático y la automatización** están abriendo posibilidades completamente nuevas para mejorar el rendimiento de los almacenes de datos. Este desarrollo conduce en última instancia a **almacenes de datos autónomos** que son completamente autogestionables y ya no requieren administración humana. Esto puede aliviar la carga del departamento de TI de su empresa y liberar tiempo para obtener aún más información de sus datos. Al mismo tiempo, puede reducir costes con un almacén de datos moderno y diseñar arquitecturas de almacén de datos optimizadas para los requisitos de diferentes usuarios y áreas especializadas.
+Hoy en día, la [IA]({{< relref "posts/kuenstliche-intelligenz" >}}), el aprendizaje automático y la automatización** están abriendo posibilidades completamente nuevas para mejorar el rendimiento de los almacenes de datos. Este desarrollo conduce en última instancia a **almacenes de datos autónomos** que son completamente autogestionables y ya no requieren administración humana. Esto puede aliviar la carga del departamento de TI de su empresa y liberar tiempo para obtener aún más información de sus datos. Al mismo tiempo, puede reducir costes con un almacén de datos moderno y diseñar arquitecturas de almacén de datos optimizadas para los requisitos de diferentes usuarios y áreas especializadas.
 
 ## Cómo se estructura un almacén de datos
 
-La forma exacta de configurar su sistema de almacén de datos depende de los requisitos específicos del almacén de datos de su empresa, que deberá definir en primer lugar. Sin embargo, todas las **arquitecturas de almacén de datos** comparten un diseño básico: los datos en bruto se almacenan temporalmente en un repositorio que se alimenta, por un lado, de fuentes de datos y, por otro, escribe los datos estructurados en una base de datos relacional. Al final, los usuarios acceden a los datos depurados a través de herramientas de BI para su análisis, visualización y elaboración de informes.
+La forma exacta de configurar su sistema de almacén de datos depende de los requisitos específicos del almacén de datos de su empresa, que deberá definir en primer lugar. Sin embargo, todas las **arquitecturas de almacén de datos** comparten un diseño básico: los datos en bruto se almacenan temporalmente en un repositorio que se alimenta, por un lado, de fuentes de datos y, por otro, escribe los datos estructurados en una [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}). Al final, los usuarios acceden a los datos depurados a través de herramientas de BI para su análisis, visualización y elaboración de informes.
 
 ### Componentes clave del almacenamiento de datos
 
@@ -62,9 +62,9 @@ Un concepto típico de almacén de datos puede dividirse en los siguientes nivel
 
 1. Las **fuentes de datos internas**, por ejemplo, los sistemas ERP y CRM, o las **fuentes de datos externas**, como los dispositivos IoT o las plataformas de medios sociales, proporcionan datos en bruto.
 1. Los datos brutos se almacenan temporalmente y se transforman en una **zona de preparación**. En el proceso **ETL**, el almacén de datos transforma los datos para su almacenamiento estructurado.
-1. el núcleo del almacén de datos suele ser una **base de datos relacional**, que almacena y gestiona los datos estructurados y depurados.
-1. un almacén de datos suele dividirse en varios **marcos de datos**. Éstos se centran en áreas especializadas o departamentos concretos (por ejemplo, ventas, marketing o finanzas).
-1. la **extracción de datos**, el **análisis estadístico de datos**, la **visualización gráfica** y la **elaboración de informes** se llevan a cabo con herramientas de BI como Tableau, Microsoft Power BI o Google Looker.
+1. El núcleo del almacén de datos suele ser una **base de datos relacional**, que almacena y gestiona los datos estructurados y depurados.
+1. Un almacén de datos suele dividirse en varios **marcos de datos**. Éstos se centran en áreas especializadas o departamentos concretos (por ejemplo, ventas, marketing o finanzas).
+1. La **extracción de datos**, el **análisis estadístico de datos**, la **visualización gráfica** y la **elaboración de informes** se llevan a cabo con herramientas de BI como Tableau, Microsoft Power BI o Google Looker.
 
 ![Modelo de almacenamiento de datos](Grafik-Data-Warehouse.jpg)
 
@@ -73,14 +73,14 @@ Un concepto típico de almacén de datos puede dividirse en los siguientes nivel
 Un almacén de datos utiliza los llamados procesos ETL para recopilar datos de diversas fuentes, transformarlos y cargarlos en la base de datos central. La abreviatura significa **Extraer, Transformar, Cargar**. El proceso ETL se desarrolla en tres pasos en la zona de preparación:
 
 1. La **extracción**: El almacén de datos recopila los datos deseados de diversas fuentes. Para que esto funcione, normalmente hay que conectar otros sistemas al sistema de almacén de datos a través de una API.
-1. la **transformación**: Se trata de limpiar, enriquecer y formatear los datos de manera estandarizada. Por ejemplo, el almacén de datos elimina duplicados, añade valores que faltan y adapta los tipos de datos.
-1. la **carga**: Por último, los datos depurados se transfieren a la base de datos central.
+1. La **transformación**: Se trata de limpiar, enriquecer y formatear los datos de manera estandarizada. Por ejemplo, el almacén de datos elimina duplicados, añade valores que faltan y adapta los tipos de datos.
+1. La **carga**: Por último, los datos depurados se transfieren a la base de datos central.
 
 ### Ejemplo de proceso de un almacén de datos
 
 Las explicaciones anteriores eran bastante técnicas. He aquí otro ejemplo ilustrativo para mostrarle cómo funciona un proceso de almacén de datos.
 
-Supongamos que dirige una **tienda online** y desea analizar los datos de ventas, tráfico y clientes. En primer lugar, debe considerar qué fuentes de datos deben incluirse en su almacén de datos y a qué sistemas debe acceder. En este caso, podría tratarse del **historial de pedidos** de Shopify, el **tráfico web** de Google Analytics y los **datos de CRM** de Pipedrive. Estos datos se limpian, armonizan y almacenan en el almacén de datos. Ahora puede evaluar estadísticamente todas las cifras de ventas y accesos, realizar análisis de clientes y sacar conclusiones para su estrategia de ventas y la mejora de su tienda online.
+Supongamos que dirige una **tienda online** y desea analizar los datos de ventas, tráfico y clientes. En primer lugar, debe considerar qué fuentes de datos deben incluirse en su almacén de datos y a qué sistemas debe acceder. En este caso, podría tratarse del **historial de pedidos** de Shopify, el **tráfico web** de Google Analytics y los datos de [CRM de Pipedrive]({{< relref "posts/no-code-crm" >}}). Estos datos se limpian, armonizan y almacenan en el almacén de datos. Ahora puede evaluar estadísticamente todas las cifras de ventas y accesos, realizar análisis de clientes y sacar conclusiones para su estrategia de ventas y la mejora de su tienda online.
 
 ![Visualización de ejemplo de almacén de datos](Data-Warehouse-Beispiel-Visualisierung.jpg)
 
@@ -88,10 +88,9 @@ Supongamos que dirige una **tienda online** y desea analizar los datos de ventas
 
 Un almacén de datos y una base de datos son dos [sistemas de gestión de datos]({{< relref "posts/20250317-datenmanagement" >}}) diferentes. Mientras que una base de datos suele centrarse en el **almacenamiento de datos**, el sistema de almacén de datos traza un proceso más largo, desde la adquisición de datos hasta su análisis, pasando por su integración y preparación. No obstante, los almacenes de datos también almacenan enormes cantidades de datos en una base de datos central, que es el corazón de toda solución DWH. A su vez, un almacén de datos sirve de **base para los análisis y la elaboración de informes** en toda la empresa.
 
-| **Almacén de datos** | **Base de datos** |
-| -------------------- | ----------------- |
-
-| Propósito / Enfoque Análisis e Informes Almacenamiento de Datos
+| | **Almacén de datos** | **Base de datos** |
+| ---- | -------------------- | ----------------- |
+| **Propósito / Enfoque** | Análisis e Informes | Almacenamiento de Datos |
 | **Alcance** | Generalmente en toda la empresa | Variable |
 
 ## ¿Cuál es la diferencia entre un almacén de datos y un lago de datos?
@@ -102,7 +101,7 @@ Un lago de datos es una especie de **cuenca de recogida de todos los datos bruto
 
 ## Las dos tecnologías básicas de almacén de datos
 
-Existen varias soluciones de almacén de datos en el mercado, que básicamente pueden clasificarse en **nube u on-premises**. Originalmente, los almacenes de datos sólo se ofrecían en servidores locales. Incluso hoy en día, estos almacenes de datos locales pueden tener ciertas ventajas en términos de **seguridad y soberanía de los datos**. Sin embargo, la administración de estos sistemas puede llevar mucho tiempo en el caso de arquitecturas complejas de almacenes de datos.
+Existen varias soluciones de almacén de datos en el mercado, que básicamente pueden clasificarse en [nube]({{< relref "posts/cloud-computing" >}}) u **on-premises**. Originalmente, los almacenes de datos sólo se ofrecían en servidores locales. Incluso hoy en día, estos almacenes de datos locales pueden tener ciertas ventajas en términos de **seguridad** y [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}). Sin embargo, la administración de estos sistemas puede llevar mucho tiempo en el caso de arquitecturas complejas de almacenes de datos.
 
 ### Ventajas del "almacén de datos en la nube"
 
@@ -115,23 +114,22 @@ Un almacén de datos en la nube tiene, entre otras, las siguientes ventajas:
 
 A continuación encontrará un resumen de las diferencias entre la nube y las instalaciones.
 
-| **En la nube**    | En las instalaciones\*\*                                                          | En las instalaciones                                                            |
-| ----------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------- | ---------------------------------- | ---------------------------------------------------------------------- |
-| **Entrega**       | Instalación posible en cualquier lugar del mundo en poco tiempo                   | La instalación del hardware in situ puede llevar varias semanas                 | **En la nube** | En las instalaciones de la empresa |
-| **Costes**        | Principio de "pago por uso", sin costes adicionales de infraestructura y personal | Elevados costes de adquisición y funcionamiento de infraestructura y personal   |                | Escalabilidad\*\*                  | Posibilidad de instalación en cualquier lugar del mundo en poco tiempo |
-| **Escalabilidad** | Escalabilidad flexible, automática y sin límites                                  | Planificación manual de la capacidad con límites claros                         |                | Seguridad                          |
-| **seguridad**     | alta codificación, copias de seguridad automáticas                                | control total y soberanía de datos, seguridad dependiente de sus procesos de TI |
+| | En la nube | En las instalaciones |
+| --------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Entrega** | Instalación posible en cualquier lugar del mundo en poco tiempo | La instalación del hardware in situ puede llevar varias semanas | **Costes** | Principio de pago por uso, sin costes adicionales
+| **Costes** | Principio de pago por uso, sin costes adicionales de infraestructura y personal | Elevados costes de adquisición y funcionamiento de infraestructura y personal | | Escalabilidad** | Posibilidad de instalación en cualquier lugar del mundo en poco tiempo
+| **Escalabilidad** | Escalabilidad flexible, automática y sin límites | Planificación manual de la capacidad con límites claros | | Seguridad
+| **Seguridad** | alta encriptación, copias de seguridad automáticas | control total y soberanía de datos, seguridad dependiente de sus procesos de TI | | seguridad dependiente de sus procesos de TI | seguridad dependiente de sus procesos de TI | seguridad dependiente de sus procesos de TI
+| **Actualización** |  en tiempo real, muy rápida gracias a la tecnología en memoria | a menudo por lotes con retrasos |      
+| **Usabilidad** | a menudo fácil de usar gracias a los elementos prefabricados, sin dependencia de TI | a menudo complejo, los expertos en TI tienen que conectar las fuentes de datos y administrar el DWH |
 
-| Actualización en tiempo real: muy rápida gracias a la tecnología en memoria.
-| Usabilidad\*\* | a menudo fácil de usar gracias a los elementos prefabricados, sin dependencia de TI | a menudo complejo, los expertos en TI tienen que conectar las fuentes de datos y administrar el DWH |
-
-## SeaTable - el almacén de datos flexible, sencillo y rentable
+## SeaTable – el almacén de datos flexible, sencillo y rentable
 
 SeaTable es una [plataforma sin código]({{< relref "/" >}}) que ofrece la ventaja sobre otras bases de datos relacionales de que los usuarios pueden trabajar en una **intuitiva interfaz gráfica de usuario** sin SQL ni otros conocimientos informáticos. Con la ayuda de diversas **vistas, plugins y estadísticas**, puede preparar y visualizar fácilmente los datos de la forma que desee. Así le resultará más fácil realizar análisis precisos y tomar decisiones fundamentadas sin quebraderos de cabeza.
 
 Los datos de innumerables fuentes pueden fluir hacia SeaTable a través de **integraciones con Zapier, Make o n8n** y la **API de SeaTable**. Para que SeaTable pueda guardar todos los datos de forma estructurada, seleccione de antemano los [tipos de datos deseados]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Gracias al **principio modular de fácil uso**, esto es tan sencillo como utilizar el **Constructor de aplicaciones integrado** [para crear sus propias aplicaciones]({{< relref "posts/20250318-app-erstellen" >}}). SeaTable también permite la **colaboración en equipo** y actualiza los datos en tiempo real - los cambios son inmediatamente visibles para todos los usuarios y están totalmente documentados en el historial de versiones.
 
-Además, puede elegir si desea operar su almacén de datos [on-premises]({{< relref "pages/product/seatable-server" >}}) o en la [nube]({{< relref "pages/product/seatable-cloud" >}}). Benefíciese de la escalabilidad y comodidad de **SeaTable Cloud** o aloje **SeaTable Server** en sus propios servidores con total control y soberanía de los datos. Comience con la versión básica gratuita, que puede actualizar a una [suscripción Plus o Enterprise]({{< relref "pages/prices" >}}) en cualquier momento en cuanto necesite más funciones o espacio de almacenamiento.
+Además, puede elegir si desea operar su almacén de datos **on-premises** o **en la nube**. Benefíciese de la escalabilidad y comodidad de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) o aloje [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) en sus propios servidores con total control y soberanía de los datos. Comience con la versión básica gratuita, que puede actualizar a una [suscripción Plus o Enterprise]({{< relref "pages/prices" >}}) en cualquier momento en cuanto necesite más funciones o espacio de almacenamiento.
 
 [Regístrese gratis]({{< relref "pages/registration" >}}) y experimente lo fácil que puede ser el almacenamiento de datos.
 

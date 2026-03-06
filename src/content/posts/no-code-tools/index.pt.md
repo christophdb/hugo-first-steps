@@ -90,7 +90,7 @@ Baserow é uma base de dados de código aberto sem código, com a qual é possí
  
 ### AirTable
 
-O Airtable combina a flexibilidade de uma folha de cálculo com as funções de uma base de dados relacional e é especialmente adequado para equipas que pretendem organizar projetos, conteúdos e processos de forma visual. Trata-se de uma ferramenta sem código baseada na nuvem, proveniente dos EUA, que é utilizada principalmente como base de dados flexível e como plataforma de projetos e processos. Para a troca de dados, estão disponíveis exportações CSV e Excel, bem como acesso API.
+O Airtable combina a flexibilidade de uma folha de cálculo com as funções de uma [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}) e é especialmente adequado para equipas que pretendem organizar projetos, conteúdos e processos de forma visual. Trata-se de uma ferramenta sem código baseada na nuvem, proveniente dos EUA, que é utilizada principalmente como base de dados flexível e como plataforma de projetos e processos. Para a troca de dados, estão disponíveis exportações CSV e Excel, bem como acesso API.
 
 |                            | **Resultados**                                                     | 
 | -------------------------- | ------------------------------------------------------------------ | 

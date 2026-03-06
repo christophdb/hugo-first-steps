@@ -50,21 +50,21 @@ Cependant, les entrepôts de données de l'époque devaient faire face à une **
 
 ![L'IA dans les entrepôts de données](KI-in-Data-Warehouses.jpg)
 
-Aujourd'hui, **l'IA, l'apprentissage automatique et l'automatisation** ouvrent de toutes nouvelles possibilités pour améliorer les performances des entrepôts de données. Cette évolution aboutit finalement à des **entrepôts de données autonomes** qui se gèrent entièrement eux-mêmes et ne nécessitent plus d'administration humaine. Cela peut décharger le service informatique de votre entreprise et lui permettre d'obtenir encore plus de connaissances à partir de vos données. En même temps, un entrepôt de données moderne vous permet de réduire les coûts et de concevoir des architectures d'entrepôt de données optimales pour les besoins de différents utilisateurs et domaines spécialisés.
+Aujourd'hui, l'[IA]({{< relref "posts/kuenstliche-intelligenz" >}}), **l'apprentissage automatique et l'automatisation** ouvrent de toutes nouvelles possibilités pour améliorer les performances des entrepôts de données. Cette évolution aboutit finalement à des **entrepôts de données autonomes** qui se gèrent entièrement eux-mêmes et ne nécessitent plus d'administration humaine. Cela peut décharger le service informatique de votre entreprise et lui permettre d'obtenir encore plus de connaissances à partir de vos données. En même temps, un entrepôt de données moderne vous permet de réduire les coûts et de concevoir des architectures d'entrepôt de données optimales pour les besoins de différents utilisateurs et domaines spécialisés.
 
 ## Comment un entrepôt de données est-il structuré ?
 
-La manière exacte de configurer votre système d'entrepôt de données dépend des besoins spécifiques de votre entreprise en matière d'entrepôt de données, que vous devez d'abord définir. Toutes les architectures **d'entrepôt de données** partagent cependant une conception de base : les données brutes sont stockées temporairement dans un référentiel qui est alimenté d'une part par des sources de données et qui écrit d'autre part des données structurées dans une base de données relationnelle. Au final, les utilisateurs accèdent aux données nettoyées via des outils de BI pour l'analyse, la visualisation et la création de rapports.
+La manière exacte de configurer votre système d'entrepôt de données dépend des besoins spécifiques de votre entreprise en matière d'entrepôt de données, que vous devez d'abord définir. Toutes les architectures **d'entrepôt de données** partagent cependant une conception de base : les données brutes sont stockées temporairement dans un référentiel qui est alimenté d'une part par des sources de données et qui écrit d'autre part des données structurées dans une [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}). Au final, les utilisateurs accèdent aux données nettoyées via des outils de BI pour l'analyse, la visualisation et la création de rapports.
 
 ### Composants clés de l'entreposage de données
 
 Un concept typique d'entrepôt de données peut être divisé selon les niveaux suivants :
 
 1. **Les sources de données internes**, par exemple les systèmes ERP et CRM, ou **les sources de données externes**, comme les appareils IoT ou les plateformes de médias sociaux, fournissent des données brutes.
-1. les données brutes sont temporairement stockées et transformées dans une **Staging Area**. Lors du processus **ETL**, l'entrepôt de données transforme les données pour un stockage structuré.
-1. le cœur du datawarehouse est généralement constitué d'une **base de données relationnelle** qui stocke et gère les données structurées et nettoyées.
-1. un entrepôt de données se divise généralement en plusieurs **marchés de données**. Ceux-ci se concentrent sur des domaines spécialisés ou sur des départements individuels (par ex. ventes, marketing, finances).
-1. le **Data Mining**, l'analyse statistique des **données**, la **visualisation graphique** et le **reporting** sont réalisés à l'aide d'outils BI tels que Tableau, Microsoft Power BI ou Google Looker.
+1. Les données brutes sont temporairement stockées et transformées dans une **Staging Area**. Lors du processus **ETL**, l'entrepôt de données transforme les données pour un stockage structuré.
+1. Le cœur du datawarehouse est généralement constitué d'une **base de données relationnelle** qui stocke et gère les données structurées et nettoyées.
+1. Un entrepôt de données se divise généralement en plusieurs **marchés de données**. Ceux-ci se concentrent sur des domaines spécialisés ou sur des départements individuels (par ex. ventes, marketing, finances).
+1. Le **Data Mining**, l'analyse statistique des **données**, la **visualisation graphique** et le **reporting** sont réalisés à l'aide d'outils BI tels que Tableau, Microsoft Power BI ou Google Looker.
 
 ![Modèle d'entrepôt de données](Grafik-Data-Warehouse.jpg)
 
@@ -80,7 +80,7 @@ Pour collecter des données provenant de différentes sources, les transformer e
 
 Les explications données jusqu'ici étaient assez techniques. Nous vous proposons ici un autre exemple clair qui montre comment un processus d'entrepôt de données se déroule sans problème.
 
-Supposons que vous exploitiez une **boutique en ligne** et que vous souhaitiez analyser les ventes, le nombre de visites et les données clients. Vous devez donc d'abord déterminer quelles sources de données doivent être intégrées dans votre entrepôt de données et quels systèmes vous devez utiliser à cet effet. Dans ce cas, il pourrait s'agir de l'**historique des commandes** de Shopify, du **trafic web** de Google Analytics et des données **CRM** de Pipedrive. Ces données sont maintenant nettoyées, harmonisées et stockées dans le datawarehouse. Vous pouvez maintenant évaluer statistiquement toutes les ventes et les chiffres d'accès, effectuer des analyses de clients et en tirer des conclusions pour votre stratégie de vente et l'amélioration de votre boutique en ligne.
+Supposons que vous exploitiez une **boutique en ligne** et que vous souhaitiez analyser les ventes, le nombre de visites et les données clients. Vous devez donc d'abord déterminer quelles sources de données doivent être intégrées dans votre entrepôt de données et quels systèmes vous devez utiliser à cet effet. Dans ce cas, il pourrait s'agir de l'**historique des commandes** de Shopify, du **trafic web** de Google Analytics et des données [CRM de Pipedrive]({{< relref "posts/no-code-crm" >}}). Ces données sont maintenant nettoyées, harmonisées et stockées dans le datawarehouse. Vous pouvez maintenant évaluer statistiquement toutes les ventes et les chiffres d'accès, effectuer des analyses de clients et en tirer des conclusions pour votre stratégie de vente et l'amélioration de votre boutique en ligne.
 
 ![Exemple de visualisation de l'entrepôt de données](Data-Warehouse-Beispiel-Visualisierung.jpg)
 
@@ -101,7 +101,7 @@ Un Data Lake est pour ainsi dire un **bassin de collecte de toutes les données 
 
 ## Les deux technologies de base des entrepôts de données
 
-Il existe sur le marché différentes solutions d'entrepôts de données, qui peuvent être classées en principe en **cloud ou sur site**. À l'origine, les entrepôts de données étaient uniquement mis à disposition sur des serveurs sur site. Ces entrepôts de données locaux peuvent encore aujourd'hui présenter certains avantages en termes de **sécurité et de souveraineté des données**. Toutefois, leur gestion peut s'avérer très lourde dans le cas d'architectures d'entrepôts de données complexes.
+Il existe sur le marché différentes solutions d'entrepôts de données, qui peuvent être classées en principe en [cloud]({{< relref "posts/cloud-computing" >}}) ou **sur site**. À l'origine, les entrepôts de données étaient uniquement mis à disposition sur des serveurs sur site. Ces entrepôts de données locaux peuvent encore aujourd'hui présenter certains avantages en termes de **sécurité** et de [souveraineté des données]({{< relref "posts/digitale-souveraenitaet" >}}). Toutefois, leur gestion peut s'avérer très lourde dans le cas d'architectures d'entrepôts de données complexes.
 
 ### Avantages des "entrepôts de données dans le cloud
 
@@ -123,13 +123,13 @@ Ci-dessous, vous trouverez un aperçu des différences entre le cloud et le sur 
 | **Mise à jour en temps réel** | très rapide grâce à la technologie in-memory                                                    | souvent basée sur le traitement par lots avec des retards                                                  |
 | **Utilisation**               | souvent conviviale grâce à des éléments prédéfinis, pas de dépendance informatique              | souvent complexe, les experts informatiques doivent connecter les sources de données et administrer le DWH |
 
-## SeaTable - l'entrepôt de données flexible, simple et économique
+## SeaTable – l'entrepôt de données flexible, simple et économique
 
 SeaTable est une [plate-forme sans code]({{< relref "/" >}}) qui présente l'avantage, par rapport à d'autres bases de données relationnelles, de permettre aux utilisateurs de travailler sur une **interface utilisateur graphique intuitive** sans avoir besoin de SQL ou d'autres connaissances informatiques. À l'aide de différents **affichages, plug-ins et statistiques**, vous pouvez facilement préparer et visualiser les données comme vous le souhaitez. Cela vous permet de réaliser des analyses précises et de prendre des décisions éclairées sans vous casser la tête.
 
-Grâce aux **intégrations avec Zapier, Make ou n8n** et à l'API **SeaTable**, les données provenant d'innombrables sources peuvent converger vers SeaTable. Pour que SeaTable puisse stocker toutes les données sous forme structurée, il suffit de sélectionner au préalable les [types de données]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) souhaités. C'est aussi facile grâce au **principe modulaire convivial** que de créer ses propres applications grâce au **constructeur d'applications intégré** [Apps]({{< relref "posts/20250318-app-erstellen" >}}). De plus, SeaTable permet la **collaboration en équipe** et actualise les données en temps réel - les modifications sont immédiatement visibles pour tous les utilisateurs et entièrement documentées dans l'historique des versions.
+Grâce aux **intégrations avec Zapier, Make ou n8n** et à l'API **SeaTable**, les données provenant d'innombrables sources peuvent converger vers SeaTable. Pour que SeaTable puisse stocker toutes les données sous forme structurée, il suffit de sélectionner au préalable les [types de données]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) souhaités. C'est aussi facile grâce au **principe modulaire convivial** que de créer ses propres applications grâce au [constructeur d'applications intégré]({{< relref "posts/20250318-app-erstellen" >}}). De plus, SeaTable permet la **collaboration en équipe** et actualise les données en temps réel – les modifications sont immédiatement visibles pour tous les utilisateurs et entièrement documentées dans l'historique des versions.
 
-De plus, vous pouvez choisir d'exploiter votre entrepôt de données [sur site]({{< relref "pages/product/seatable-server" >}}) ou dans le [nuage]({{< relref "pages/product/seatable-cloud" >}}). Profitez de l'évolutivité et du confort du **SeaTable Cloud** ou hébergez **SeaTable Server** sur vos propres serveurs avec un contrôle total et la souveraineté des données. Commencez avec la version de base gratuite, que vous pouvez mettre à niveau à tout moment vers un [abonnement Plus ou Enterprise]({{< relref "pages/prices" >}}) dès que vous avez besoin de plus de fonctionnalités ou d'espace de stockage.
+De plus, vous pouvez choisir d'exploiter votre entrepôt de données sur site ou dans le nuage. Profitez de l'évolutivité et du confort du [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) ou hébergez [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs avec un contrôle total et la souveraineté des données. Commencez avec la version de base gratuite, que vous pouvez mettre à niveau à tout moment vers un [abonnement Plus ou Enterprise]({{< relref "pages/prices" >}}) dès que vous avez besoin de plus de fonctionnalités ou d'espace de stockage.
 
 [Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et découvrez à quel point l'entreposage de données peut être simple.
 

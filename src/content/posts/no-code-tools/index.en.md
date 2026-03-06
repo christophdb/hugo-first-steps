@@ -91,7 +91,7 @@ Baserow is an open-source, no-code database that allows tables, relations, and v
  
 ### AirTable
 
-Airtable combines the flexibility of a spreadsheet with the functions of a relational database and is particularly suitable for teams that want to organize projects, content, and processes visually. It is a cloud-based, no-code tool from the US that is primarily used as a flexible database and as a project and process platform. CSV and Excel exports as well as API access are available for data exchange.
+Airtable combines the flexibility of a spreadsheet with the functions of a [relational database]({{< relref "posts/relationale-datenbank" >}}) and is particularly suitable for teams that want to organize projects, content, and processes visually. It is a cloud-based, no-code tool from the US that is primarily used as a flexible database and as a project and process platform. CSV and Excel exports as well as API access are available for data exchange.
 
 |                            | **results**                                                        | 
 | -------------------------- | ------------------------------------------------------------------ | 

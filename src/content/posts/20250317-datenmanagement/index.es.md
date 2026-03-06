@@ -18,7 +18,7 @@ aliases:
 
 ## Éxito garantizado en la gestión de datos
 
-**Los datos valen su peso en oro**: Ya sean datos de clientes, empleados, productos o proyectos, en la era digital, la capacidad de su empresa para gestionar y procesar los datos de forma eficiente es crucial para su éxito a largo plazo. La **gestión de datos** -a menudo denominada gestión de datos- es la clave para controlar la avalancha de información a la que se enfrenta su empresa a diario. Por consiguiente, un sistema de gestión de datos bien concebido es un requisito esencial para la digitalización de las empresas: Es la única forma de mejorar los procesos operativos y obtener una ventaja competitiva.
+**Los datos valen su peso en oro**: Ya sean datos de clientes, empleados, productos o proyectos, en la era digital, la capacidad de su empresa para gestionar y procesar los datos de forma eficiente es crucial para su éxito a largo plazo. La **gestión de datos** es la clave para controlar la avalancha de información a la que se enfrenta su empresa a diario. Por consiguiente, un sistema de gestión de datos bien concebido es un requisito esencial para la digitalización de las empresas: Es la única forma de mejorar los procesos operativos y obtener una ventaja competitiva.
 
 Pero, ¿por qué es tan importante la gestión de datos para la digitalización de procesos? ¿Y qué retos y oportunidades presenta? Descúbralo en este artículo.
 
@@ -37,7 +37,7 @@ Pero, ¿por qué es tan importante la gestión de datos para la digitalización 
 
 **La gestión de datos** incluye una serie de tareas como identificar, recopilar y almacenar datos, mantenerlos y analizarlos y tomar ciertas precauciones para la seguridad de los datos. Estas subáreas son especialmente relevantes:
 
-Todo empieza con la captura, recogida o generación de datos: mientras que **la captura de datos** significa la introducción selectiva de datos para su tratamiento electrónico, **la recogida de datos** tiene lugar durante un periodo de tiempo más largo. La generación de datos\*\* se refiere a la generación y recopilación de grandes cantidades de datos mediante algoritmos.
+Todo empieza con la captura, recogida o generación de datos: mientras que **la captura de datos** significa la introducción selectiva de datos para su tratamiento electrónico, **la recogida de datos** tiene lugar durante un periodo de tiempo más largo. La **generación de datos** se refiere a la generación y recopilación de grandes cantidades de datos mediante algoritmos.
 
 La tarea de la **integración de datos** consiste en fusionar y armonizar datos procedentes de distintas fuentes. En la **modelación de datos**, se estructuran los datos para poder procesarlos posteriormente con mayor facilidad y rapidez.
 
@@ -53,7 +53,7 @@ En cuanto a la **protección de los datos** y la **seguridad de los datos**, deb
 
 ## La gestión de datos como base de la digitalización en las empresas
 
-Empresas tecnológicas como SAP, Google y Meta lo reconocieron hace décadas: Los datos tienen un valor incalculable. En nuestro mundo tan cambiante, es el capital de muchas empresas para reconocer tendencias en una fase temprana, tomar decisiones bien fundamentadas y estar siempre un paso por delante de la competencia. Por ello, la disponibilidad, la calidad y el uso de los datos figuran entre los factores más importantes para la digitalización de las empresas. Sin embargo, la gestión de datos no sólo incluye la introducción de nuevas tecnologías, sino también la optimización de procesos y estructuras.
+Empresas tecnológicas como SAP, Google y Meta lo reconocieron hace décadas: **Los datos tienen un valor incalculable**. En nuestro mundo tan cambiante, es el capital de muchas empresas para reconocer tendencias en una fase temprana, tomar decisiones bien fundamentadas y estar siempre un paso por delante de la competencia. Por ello, la **disponibilidad, la calidad y el uso de los datos** figuran entre los factores más importantes para la digitalización de las empresas. Sin embargo, la gestión de datos no sólo incluye la introducción de nuevas tecnologías, sino también la optimización de procesos y estructuras.
 
 Sin una gestión eficaz de los datos, las empresas no pueden aprovechar plenamente el potencial de la digitalización de los procesos, ya que el tratamiento preciso de los datos es la base de los procesos empresariales digitales y automatizados. Esta gran importancia de los datos en la cadena de valor está impulsando ahora también a las pequeñas y medianas empresas a ampliar su gestión de datos para sacarles más partido.
 
@@ -84,7 +84,7 @@ Aunque la gestión de datos es esencial para el trabajo y la digitalización en 
 1. **Calidad de los datos**: Uno de los mayores retos de la gestión de datos es garantizar su calidad. Si los datos están obsoletos, incompletos o son incorrectos, pueden dar lugar a análisis y decisiones erróneos. Por eso es esencial un mantenimiento continuo de los datos, en el que se actualicen y depuren.
 1. **Seguridad y protección de datos**: La normativa sobre protección de datos y cumplimiento de la normativa es multinacional y cambia con regularidad. A medida que aumenta la cantidad de datos recopilados, también lo hace el riesgo de conflictos relacionados con la protección de datos. Por un lado, hay que garantizar la protección de los datos personales frente a accesos no autorizados; por otro, hay que poder eliminar fácilmente los datos almacenados o adaptarlos a las nuevas pautas de uso.
 
-![La gestión de datos es esencial para la digitalización en las empresas](Header-Data-Management.jpg 'Cómo-puede-utilizar-la-gestión-de-datos-para-la-digitalización-en-las-empresas')
+![La gestión de datos es esencial para la digitalización en las empresas](Header-Data-Management.jpg)
 
 ## Cómo puede utilizar la gestión de datos para la digitalización en las empresas
 
@@ -104,15 +104,15 @@ Los sistemas de gestión de datos son sistemas informáticos básicos con los qu
 
 Existe una amplia gama de herramientas y programas informáticos para la gestión de datos. Aquí tienes un resumen de algunos sistemas de gestión de datos de probada eficacia:
 
-- **Sistemas de gestión de bases de datos relacionales (RDBMS)**: Las bases de datos relacionales estructuran los datos mediante relaciones que pueden representarse en tablas. Esto permite almacenar, recuperar y procesar datos de forma eficiente. El lenguaje de bases de datos más utilizado es SQL, que es también el nombre de conocidos sistemas de gestión de bases de datos relacionales como MySQL, Microsoft SQL Server y PostgreSQL.
+- **Sistemas de gestión de bases de datos relacionales (RDBMS)**: Las [bases de datos relacionales]({{< relref "posts/relationale-datenbank" >}}) estructuran los datos mediante relaciones que pueden representarse en tablas. Esto permite almacenar, recuperar y procesar datos de forma eficiente. El lenguaje de bases de datos más utilizado es SQL, que es también el nombre de conocidos sistemas de gestión de bases de datos relacionales como MySQL, Microsoft SQL Server y PostgreSQL.
 - **Sistemas de gestión de bases de datos NoSQL**: En comparación con los RDBMS, las bases de datos NoSQL ofrecen una estructura de datos flexible y un escalado horizontal que se adapta mejor a grandes volúmenes de datos, requisitos de alto rendimiento y cambios frecuentes. Algunos ejemplos de sistemas de gestión de bases de datos NoSQL son MongoDB, Apache Cassandra y CouchDB.
-- **Almacenes de datos**: Un almacén de datos es una base de datos especializada en análisis que combina grandes cantidades de datos de diferentes fuentes en una base de datos coherente. A continuación, los gestores de datos pueden procesar y analizar estos datos para, por ejemplo, obtener información exhaustiva sobre los procesos de negocio de una empresa. Entre los sistemas de almacén de datos cabe mencionar Oracle Exadata, IBM Netezza, Amazon Redshift y Snowflake.
+- **Almacenes de datos**: Un [almacén de datos]({{< relref "posts/20250326-data-warehouse" >}}) es una base de datos especializada en análisis que combina grandes cantidades de datos de diferentes fuentes en una base de datos coherente. A continuación, los gestores de datos pueden procesar y analizar estos datos para, por ejemplo, obtener información exhaustiva sobre los procesos de negocio de una empresa. Entre los sistemas de almacén de datos cabe mencionar Oracle Exadata, IBM Netezza, Amazon Redshift y Snowflake.
 - **Lagos de datos**: Un lago de datos es un repositorio en el que se almacenan todos los datos en bruto de una organización. Puede contener tanto datos estructurados procedentes de bases de datos relacionales como datos no estructurados (por ejemplo, correos electrónicos, documentos PDF y archivos de imagen). A diferencia del almacén de datos, los datos del lago de datos sólo se preparan para su análisis o visualización cuando es necesario. Los sistemas de lago de datos como Amazon S3, Microsoft Azure Data Lake o Google Cloud Storage permiten un procesamiento rápido y flexible de grandes volúmenes de datos.
-- **Herramientas MDM**: Las herramientas de gestión de datos maestros le ayudan a gestionar y mantener los datos maestros de su empresa. Los datos maestros más importantes incluyen información sobre clientes, proveedores, productos y personal. Con herramientas de MDM como SAP Master Data Governance o IBM InfoSphere MDM, puede eliminar incoherencias y garantizar que los datos principales de su empresa son claros, completos, no contienen errores y están actualizados.
+- **Herramientas MDM**: Las herramientas de [gestión de datos maestros]({{< relref "posts/20250505-master-data-management" >}}) le ayudan a gestionar y mantener los datos maestros de su empresa. Los datos maestros más importantes incluyen información sobre clientes, proveedores, productos y personal. Con herramientas de MDM como SAP Master Data Governance o IBM InfoSphere MDM, puede eliminar incoherencias y garantizar que los datos principales de su empresa son claros, completos, no contienen errores y están actualizados.
 
 ### ¿Cuál es el mejor sistema de gestión de datos?
 
-La elección del software de gestión de datos adecuado depende de los requisitos específicos que tenga en materia de acceso, almacenamiento, seguridad, integración y análisis de datos. Puede decidir si desea almacenar y analizar sus datos en sus propios servidores [On-Premises]({{< relref "pages/product/seatable-server" >}}), en una nube o en una combinación híbrida.
+La elección del software de gestión de datos adecuado depende de los requisitos específicos que tenga en materia de acceso, almacenamiento, seguridad, integración y análisis de datos. Puede decidir si desea almacenar y analizar sus datos en sus propios servidores [on-premises]({{< relref "pages/product/seatable-server" >}}), en una [nube]({{< relref "posts/cloud-computing" >}}) o en una combinación híbrida.
 
 Una tendencia que se observa es el uso creciente de soluciones de gestión de datos basadas en la nube. Una plataforma de gestión de datos basada en la nube permite almacenar datos de forma segura y procesarlos eficazmente sin tener que invertir en costosas infraestructuras.
 
@@ -122,11 +122,11 @@ Una tendencia que se observa es el uso creciente de soluciones de gestión de da
 
 En la [base de datos sin código SeaTable basada en tablas]({{< relref path="/" lang="es" >}}) puede almacenar, recuperar y analizar sus datos de forma eficaz sin necesidad de tener conocimientos de SQL u otra experiencia técnica previa. No sólo puede estructurar y vincular datos fácilmente, sino que también puede almacenar archivos, imágenes y documentos.
 
-A diferencia de otras bases de datos relacionales, puede realizar análisis directamente en la **interfaz gráfica de usuario** de SeaTable. Dispone de numerosas estadísticas para realizar otros análisis. Si esto no es suficiente, puede utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) para visualizar sus datos en galerías, calendarios, organigramas, etc.
+A diferencia de otras bases de datos relacionales, puede realizar análisis directamente en la **interfaz gráfica de usuario** de SeaTable. Dispone de numerosas estadísticas para realizar otros análisis. Si esto no es suficiente, puede utilizar plugins para visualizar sus datos en galerías, calendarios, organigramas, etc.
 
 Con el **constructor de aplicaciones sin código** de SeaTable, puede crear sus propias aplicaciones sin conocimientos de programación y controlar así con precisión el acceso a los datos de su base de datos. Para el diseño de la aplicación, existen tipos de páginas ya preparadas con elementos visuales que sólo tiene que arrastrar y soltar.
 
-SeaTable te da la libertad de elegir entre la comodidad de una [solución en la nube]({{< relref "pages/product/seatable-cloud" >}}) y la soberanía de datos de la que disfrutas con un sistema autoalojado. ¿Está entusiasmado? Entonces [regístrese gratis]({{< relref "pages/registration" >}}) y pruebe SeaTable Cloud por tiempo ilimitado.
+SeaTable te da la libertad de elegir entre la comodidad de una [solución en la nube]({{< relref "pages/product/seatable-cloud" >}}) y la [soberanía de datos]({{< relref "posts/digitale-souveraenitaet" >}}) de la que disfrutas con un sistema autoalojado. ¿Está entusiasmado? Entonces [regístrese gratis]({{< relref "pages/registration" >}}) y pruebe SeaTable Cloud por tiempo ilimitado.
 
 ## Impulse la digitalización en su empresa
 
@@ -134,7 +134,7 @@ En un mundo cada vez más digitalizado, la gestión de datos no es sólo un reto
 
 ## FAQ
 
-{{< faq "¿Qué es la gestión de datos? " >}}**La gestión de datos** se refiere al conjunto de todos los procesos, métodos y tecnologías que las empresas utilizan para registrar, almacenar, analizar y utilizar sistemáticamente sus datos.
+{{< faq "¿Qué es la gestión de datos? " >}}La gestión de datos se refiere al conjunto de todos los procesos, métodos y tecnologías que las empresas utilizan para registrar, almacenar, analizar y utilizar sistemáticamente sus datos.
 {{< /faq >}}
 {{< faq "¿Qué implica la gestión de datos? " >}}La gestión de datos incluye subáreas complejas como la recopilación y almacenamiento de datos, su integración y modelización, su mantenimiento y calidad, su análisis y su protección.
 {{< /faq >}}

@@ -1,5 +1,5 @@
 ---
-title: 'Bases de datos - 5 ventajas sobre las tablas simples'
+title: 'Bases de datos – 5 ventajas sobre las tablas simples'
 description: 'Las hojas de cálculo resultan útiles, pero carecen de capacidad y control. Las bases de datos permiten trabajar con múltiples usuarios, evitan datos redundantes, garantizan seguridad y ofrecen gran rendimiento. Conozca 5 ventajas claves y cómo herramientas modernas facilitan su uso diario.'
 date: 2021-03-30
 categories:
@@ -30,13 +30,11 @@ Hay muchas formas de estructurar las bases de datos. A continuación explicamos 
 
 1. **Base de datos jerárquica:** La base de datos jerárquica utiliza un orden de clasificación para estructurar los datos.
 2. **Base de datos en red:** La base de datos en red es similar a la base de datos jerárquica, pero permite que el registro de datos subordinado establezca una conexión con varios registros de datos supraordenados, de modo que las relaciones son posibles en ambas direcciones.
-3. **Base de datos orientada a objetos:** la información se almacena aquí en forma de objetos.
-4. **Base de datos relacional:** está orientada a tablas, por lo que cada registro de datos está vinculado a todos los demás.
-5. **Base de datos no relacional** (o base de datos NoSQL): Una base de datos No-SQL utiliza diversos formatos, como documentos, diagramas, etc., que ofrecen una gran flexibilidad al diseño de una base de datos.
+3. **Base de datos orientada a objetos:** La información se almacena aquí en forma de objetos.
+4. **Base de datos relacional:** Consiste en tablas en las que cada registro de datos puede vincularse a cualquier otro registro de datos. Los enlaces son la gran ventaja de las [bases de datos relacionales]({{< relref "posts/relationale-datenbank" >}}).
+5. **Base de datos no relacional** (o base de datos NoSQL): Una base de datos NoSQL utiliza diversos formatos, como documentos, gráficos, pares clave-valor etc., que ofrecen una gran flexibilidad al diseño de una base de datos.
 
 ![Los enlaces son la gran ventaja de las bases de datos relacionales](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
-
-Los enlaces son la gran ventaja de las bases de datos relacionales.
 
 ## Ventajas de las bases de datos
 
@@ -59,13 +57,13 @@ Aunque (todavía) no necesite procesar grandes cantidades de información, las v
 
 Imagine que ha fundado una empresa. Además de su tienda física, ha decidido vender sus productos en Internet. Al principio, recibe de 2 a 4 pedidos al día. Por tanto, es bastante fácil registrar la información de los pedidos en una **hoja de cálculo**. Empieza a anunciarse en Internet y, de repente, su negocio se dispara. El volumen de pedidos aumenta y decide añadir más productos a su gama.
 
-La enorme cantidad de información que tienes que procesar cada día puede saturar una hoja de cálculo como Excel. La hoja de cálculo se vuelve lenta o se bloquea porque su **capacidad de almacenamiento** es demasiado pequeña. En cambio, una de las ventajas de las bases de datos, como ya se ha dicho, es que tienen una capacidad de almacenamiento mucho mayor y pueden crecer fácilmente con la empresa. Por tanto, son mucho más **escalables** que las simples tablas.
+La enorme cantidad de información que tienes que procesar cada día puede saturar una hoja de cálculo como [Excel]({{< relref "pages/excel-alternative" >}}). La hoja de cálculo se vuelve lenta o se bloquea porque su **capacidad de almacenamiento** es demasiado pequeña. En cambio, una de las ventajas de las bases de datos, como ya se ha dicho, es que tienen una capacidad de almacenamiento mucho mayor y pueden crecer fácilmente con la empresa. Por tanto, son mucho más **escalables** que las simples tablas.
 
 ### 2\. tratar con varios usuarios al mismo tiempo
 
 A medida que aumenta el volumen de pedidos, también lo hace el número de empleados que necesita. En los primeros meses, contratas directamente a 5 nuevos empleados. A diferencia de la mayoría de las hojas de cálculo, las bases de datos están diseñadas para que varios usuarios puedan **trabajar juntos al mismo** tiempo. Es posible realizar consultas, búsquedas y ediciones simultáneas de la base de datos sin problemas y sin que los cambios realizados por distintas personas choquen entre sí. Esto lo garantizan los mecanismos integrados en los sistemas de gestión de bases de datos.
 
-También puedes asignar **derechos de acceso y edición** en función de la experiencia o responsabilidad del empleado correspondiente. Aunque las hojas de cálculo más recientes basadas en la nube pueden resolver algunos de los problemas, suelen carecer del control de acceso granular que ofrece una base de datos.
+También puedes asignar **derechos de acceso y edición** en función de la experiencia o responsabilidad del empleado correspondiente. Aunque las hojas de cálculo más recientes basadas en la [nube]({{< relref "posts/cloud-computing" >}}) pueden resolver algunos de los problemas, suelen carecer del control de acceso granular que ofrece una base de datos.
 
 ### 3\. fiabilidad y prevención de errores humanos de introducción de datos
 
@@ -79,7 +77,7 @@ Puedes aprovechar las bases de datos para que la información sea fácilmente ac
 
 La **falta de redundancia** no sólo garantiza claridad y sencillez, sino que también es útil si se produce un cambio en los datos. Por ejemplo, la dirección de uno de sus clientes puede cambiar. No tiene que cambiarla para cada pedido, basta con cambiarla una vez de **forma centralizada** en la base de datos de clientes. Como los pedidos tienen asignado un número de cliente único, todos ellos **hacen** referencia al registro de datos de cliente correspondiente con la nueva dirección.
 
-En algunos casos, sin embargo, las redundancias también tienen sentido. Especialmente en las bases de datos relacionales, como los [almacenes de datos](https://de.wikipedia.org/wiki/Data_Warehouse) o el [sector de la inteligencia empresarial](https://de.wikipedia.org/wiki/Business_Intelligence), las redundancias se incorporan deliberadamente para mejorar las consultas SQL, que consumen mucho tiempo.
+En algunos casos, sin embargo, las redundancias también tienen sentido. Especialmente en las bases de datos relacionales, como los [almacenes de datos]({{< relref "posts/20250326-data-warehouse" >}}) o el sector de [la inteligencia empresarial](https://de.wikipedia.org/wiki/Business_Intelligence), las redundancias se incorporan deliberadamente para mejorar las consultas SQL, que consumen mucho tiempo.
 
 ### 5\. rendimiento
 
@@ -93,7 +91,7 @@ Puedes guardar los resultados de estas consultas como una **vista** que represen
 
 ## Las bases de datos son cada vez más fáciles de usar
 
-Mientras que antes había que aprender determinados lenguajes informáticos para realizar las consultas de datos mencionadas, hoy en día hay muchos sistemas de bases de datos como SeaTable que están equipados con una interfaz gráfica de usuario intuitiva. Gracias a ellos, incluso los principiantes pueden utilizar inmediatamente las bases de datos para mejorar su flujo de trabajo.
+Mientras que antes había que aprender determinados lenguajes informáticos para realizar las consultas de datos mencionadas, hoy en día hay unas [bases de datos de IA sin código como SeaTable]({{< relref "/" >}}) que están equipados con una interfaz gráfica de usuario intuitiva. Gracias a ellos, incluso los principiantes pueden utilizar inmediatamente las bases de datos para mejorar su flujo de trabajo.
 
 ![Ventajas de bases de datos como SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
@@ -103,6 +101,6 @@ A diferencia de las bases de datos tradicionales, SeaTable tiene una interfaz gr
 
 ¿Cree que las ventajas de las bases de datos son evidentes, pero la idea de crear su propia base de datos le echa para atrás? Buenas noticias: Ya no necesita conocimientos especiales para hacerlo. Con SeaTable, puede construir fácilmente su propia base de datos sin conocimientos de programación.
 
-Eche un vistazo a muchos ejemplos de cómo utilizar SeaTable en nuestra [biblioteca de plantillas]({{< relref "templates/finance" >}}). Aquí encontrará ejemplos de los campos de marketing, ventas, gestión de proyectos, desarrollo de software, recursos humanos y muchos más. Incluso hemos preparado una [introducción al producto de 7 partes](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) para usted en nuestro canal de YouTube, en la que le guiamos a través de todo el proceso de creación de una Base SeaTable.
+Eche un vistazo a muchos ejemplos de cómo utilizar SeaTable en nuestra [biblioteca de plantillas]({{< relref "templates" >}}). Aquí encontrará ejemplos de los campos de marketing, ventas, gestión de proyectos, desarrollo de software, recursos humanos y muchos más. Incluso hemos preparado una [introducción al producto de 7 partes](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) para usted en nuestro canal de YouTube, en la que le guiamos a través de todo el proceso de creación de una Base SeaTable.
 
-¡Aproveche las ventajas de una base de datos y diga adiós a las tablas confusas hoy mismo! [Haga clic aquí]({{< relref "pages/registration" >}}) para registrarse gratis
+¡Aproveche las ventajas de una base de datos y diga adiós a las tablas confusas hoy mismo! [Haga clic aquí]({{< relref "pages/registration" >}}) para registrarse gratis.

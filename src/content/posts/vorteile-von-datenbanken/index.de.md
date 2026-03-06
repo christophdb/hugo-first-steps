@@ -1,6 +1,6 @@
 ---
 title: 'Datenbanken – 5 Vorteile gegenüber einfachen Tabellen'
-description: 'Tabellen sind praktisch, stoßen aber schnell an Grenzen. Datenbanken bieten mehr Speicher, Mehrbenutzerfähigkeit, klare Strukturen und hohe Zuverlässigkeit. In diesem Artikel erfahren Sie die fünf entscheidenden Vorteile gegenüber Tabellen und wie Sie mit modernen Tools wie SeaTable Ihr Datenmanagement'
+description: 'Tabellen sind praktisch, stoßen aber schnell an Grenzen. Datenbanken bieten mehr Speicherkapazität, Leistung, Zuverlässigkeit und Mehrbenutzerfähigkeit. In diesem Artikel erfahren Sie die fünf entscheidenden Vorteile gegenüber Tabellen und wie Sie mit modernen Tools wie SeaTable ohne Programmierkenntnisse durchstarten können.'
 date: 2021-03-30
 categories:
     - 'best-practice'
@@ -26,17 +26,15 @@ Grundsätzlich ist eine Datenbank nichts anderes als eine logische Sammlung von 
 
 ### Arten von Datenbanken
 
-Es gibt viele Möglichkeiten, Datenbanken zu strukturieren. Nachfolgend erklären wir kurz die 5 Arten:
+Es gibt viele Möglichkeiten, Datenbanken zu strukturieren. Nachfolgend erklären wir kurz 5 Arten:
 
 1. **Hierarchische Datenbank:** Die hierarchische Datenbank nutzt eine Rangfolge, um die Daten zu strukturieren.
 2. **Netzwerkdatenbank:** Die Netzwerkdatenbank ist der hierarchischen ähnlich, jedoch ermöglicht diese dem untergeordneten Datensatz eine Verbindung mit verschiedenen übergeordneten Datensätzen herzustellen, sodass Beziehungen in beide Richtungen möglich sind.
 3. **Objektorientierte Datenbank:** Hier werden Informationen objektartig gespeichert.
-4. **Relationale Datenbank:** Sie ist tabellenorientiert, wobei jeder Datensatz mit jedem anderen Datensatz verknüpft ist.
-5. **Nicht-relationale Datenbank** (oder NoSQL-Datenbank): Eine No-SQL-Datenbank verwendet eine Vielzahl von Formaten wie Dokumente, Diagramme usw., die einem Datenbankdesign große Flexibilität bieten.
+4. **Relationale Datenbank:** Sie besteht aus Tabellen, in denen jeder Datensatz mit jedem anderen Datensatz verknüpft werden kann. Verknüpfungen sind der große Vorteil von [relationalen Datenbanken]({{< relref "posts/relationale-datenbank" >}}).
+5. **Nicht-relationale Datenbank** (oder NoSQL-Datenbank): No-SQL-Datenbanken verwenden eine Vielzahl von Formaten wie Dokumente, Graphen, Key-Value-Paare usw., die einem Datenbankdesign große Flexibilität geben.
 
 ![Verknüpfungen sind der große Vorteil von relationalen Datenbanken](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
-
-Verknüpfungen sind der große Vorteil von relationalen Datenbanken.
 
 ## Vorteile von Datenbanken
 
@@ -59,13 +57,13 @@ Auch wenn Sie selbst vielleicht (noch) keine riesigen Mengen an Informationen ve
 
 Stellen Sie sich vor, Sie haben ein Unternehmen gegründet. Neben Ihrem stationären Fachgeschäft haben Sie sich nun entschieden, Ihre Waren auch online zu vertreiben. Anfangs erhalten Sie 2 bis 4 Bestellungen am Tag. Es ist also ziemlich einfach, die Bestellinformationen in einer **Tabellenkalkulation** zu erfassen. Sie beginnen online Werbung zu schalten und Ihr Geschäft boomt plötzlich. Das Auftragsvolumen steigt und Sie entscheiden zudem, noch mehr Waren ins Sortiment zu nehmen.
 
-Die schiere Menge an Information, die tagtäglich von Ihnen verarbeitet werden muss, kann eine Tabellenkalkulation wie Excel überfordern. Die Tabelle wird träge oder friert ein, da die **Speicherkapazität** schlichtweg zu gering ist. Einer der Vorteile von Datenbanken ist hingegen, wie bereits oben erwähnt, dass sie eine viel größere Speicherkapazität haben und problemlos mit Ihrem Unternehmen mitwachsen. Sie sind also deutlich besser **skalierbar** als einfache Tabellen.
+Die schiere Menge an Information, die tagtäglich von Ihnen verarbeitet werden muss, kann eine Tabellenkalkulation wie [Excel]({{< relref "pages/excel-alternative" >}}) überfordern. Die Tabelle wird träge oder friert ein, da die **Speicherkapazität** schlichtweg zu gering ist. Einer der Vorteile von Datenbanken ist hingegen, wie bereits oben erwähnt, dass sie eine viel größere Speicherkapazität haben und problemlos mit Ihrem Unternehmen mitwachsen. Sie sind also deutlich besser **skalierbar** als einfache Tabellen.
 
 ### 2\. Umgang mit mehreren Benutzern zur gleichen Zeit
 
 Mit steigendem Auftragsvolumen steigt auch die Zahl der Mitarbeiter, die Sie benötigen. In den ersten Monaten stellen Sie direkt 5 neue Mitarbeiter ein. Im Gegensatz zu den meisten Tabellenkalkulationen sind Datenbanken so konzipiert, dass mehrere Benutzer **gleichzeitig zusammenarbeiten** können. Gleichzeitiges Abfragen, Durchsuchen und Bearbeiten der Datenbank ist dabei problemlos möglich, ohne dass Änderungen von verschiedenen Personen miteinander kollidieren. Dafür sorgen eingebaute Mechanismen in den Datenbank-Management-Systemen.
 
-Zudem können Sie **Zugriffs- und Bearbeitungsrechte** je nach Kompetenz oder Zuständigkeit des entsprechenden Mitarbeiters vergeben. Obwohl neuere Cloud-basierte Tabellenkalkulationen einige der Probleme lösen können, so fehlt Ihnen in der Regel doch die granulare Zugriffskontrolle, die eine Datenbank bietet.
+Zudem können Sie **Zugriffs- und Bearbeitungsrechte** je nach Kompetenz oder Zuständigkeit des entsprechenden Mitarbeiters vergeben. Obwohl neuere [Cloud]({{< relref "posts/cloud-computing" >}})-basierte Tabellenkalkulationen einige der Probleme lösen können, so fehlt Ihnen in der Regel doch die granulare Zugriffskontrolle, die eine Datenbank bietet.
 
 ### 3\. Zuverlässigkeit und Vermeiden von menschlichen Eingabefehlern
 
@@ -79,7 +77,7 @@ Sie können die Vorteile von Datenbanken nutzen, um Informationen für die zukü
 
 Die **Redundanzfreiheit** garantiert nicht nur Übersichtlichkeit und Einfachheit, sondern ist auch dann nützlich, wenn Sie eine Änderung an den Daten vornehmen. Zum Beispiel könnte sich die Adresse einer Ihrer Kunden ändern. Sie müssen diese nun nicht bei jeder Bestellung ändern, sondern es reicht, sie einmal **zentral** in der Kundendatenbank zu ändern. Da den Bestellungen eine eindeutige Kundennummer zugeordnet ist, **referenzieren** sie alle auf den entsprechenden Kundendatensatz mit der neuen Adresse.
 
-In einigen Fällen sind Redundanzen jedoch auch sinnvoll. Besonders bei relationalen Datenbanken wie im [Data Warehouse](https://de.wikipedia.org/wiki/Data_Warehouse) oder im [Business Intelligence-Bereich](https://de.wikipedia.org/wiki/Business_Intelligence) werden bewusst Redundanzen eingebaut, um zeitaufwändige SQL-Abfragen zu verbessern.
+In einigen Fällen sind Redundanzen jedoch auch sinnvoll. Besonders bei relationalen Datenbanken wie im [Data Warehouse]({{< relref "posts/20250326-data-warehouse" >}}) oder im [Business Intelligence-Bereich](https://de.wikipedia.org/wiki/Business_Intelligence) werden bewusst Redundanzen eingebaut, um zeitaufwändige SQL-Abfragen zu verbessern.
 
 ### 5\. Leistungsstärke
 
@@ -93,7 +91,7 @@ Die Ergebnisse solcher Abfragen können Sie als **Ansicht** speichern, die eine 
 
 ## Datenbanken werden immer benutzerfreundlicher
 
-Mussten Sie in der Vergangenheit noch bestimmte Computersprachen erlernen, um oben genannte Datenabfragen zu verwirklichen, so gibt es heute viele Datenbanksysteme wie SeaTable, die mit einer intuitiven grafischen Benutzeroberfläche ausgestattet sind. Diese ermöglichen auch Anfängern, Datenbanken sofort zu nutzen, um Ihren Workflow zu verbessern.
+Mussten Sie in der Vergangenheit noch bestimmte Computersprachen erlernen, um oben genannte Datenabfragen zu verwirklichen, so gibt es heute [KI No-Code-Datenbanken wie SeaTable]({{< relref "/" >}}), die mit einer intuitiven grafischen Benutzeroberfläche ausgestattet sind. Diese ermöglichen auch Anfängern, Datenbanken sofort zu nutzen, um Ihren Workflow zu verbessern.
 
 ![Vorteile von Datenbanken wie SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
@@ -103,6 +101,6 @@ Im Gegensatz zu klassischen Datenbanken hat SeaTable eine grafische Benutzerober
 
 Leuchten Ihnen die Vorteile von Datenbanken ein, doch die Vorstellung, eine eigene Datenbank zu bauen, schreckt Sie immer noch ab? Gute Nachrichten: Selbst dafür brauchen Sie heute keine besonderen Kenntnisse mehr. Mit SeaTable fügen Sie ohne Programmierkenntnisse ganz einfach die Bausteine Ihrer eigenen Datenbank zusammen.
 
-Schauen Sie sich viele Beispiele für die Nutzung von SeaTable in unserer [Vorlagen-Bibliothek]({{< relref "templates/finance" >}}) an. Hier finden Sie Beispiele aus den Bereichen Marketing, Vertrieb, Projektmanagement, Softwareentwicklung, Personalwesen und viele mehr. Wir haben sogar eine [7-teilige Produkteinführung](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) auf unserem YouTube-Kanal für Sie vorbereitet, bei welcher wir Sie einmal durch den gesamten Prozess der Erstellung einer SeaTable Base leiten.
+Schauen Sie sich viele Beispiele für die Nutzung von SeaTable in unserer [Vorlagen-Bibliothek]({{< relref "templates" >}}) an. Hier finden Sie Beispiele aus den Bereichen Marketing, Vertrieb, Projektmanagement, Softwareentwicklung, Personalwesen und viele mehr. Wir haben sogar eine [7-teilige Produkteinführung](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) auf unserem YouTube-Kanal für Sie vorbereitet, bei welcher wir Sie einmal durch den gesamten Prozess der Erstellung einer SeaTable Base leiten.
 
 Nutzen Sie die Vorteile einer Datenbank und verabschieden Sie sich noch heute von unübersichtlichen Tabellen! [Hier]({{< relref "pages/registration" >}}) geht’s direkt zur kostenlosen Registrierung!

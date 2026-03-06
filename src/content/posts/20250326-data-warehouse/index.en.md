@@ -1,6 +1,6 @@
 ---
 title: 'How to make your data usable with a data warehouse'
-description: 'Data warehouse, database, data lake: these terms can be confusing - after all, they all refer to a system that stores data. The following article sheds light on the subject and explains the advantages of a data warehouse and how data warehousing works.'
+description: 'Data warehouse, database, data lake: these terms can be confusing – after all, they all refer to a system that stores data. The following article sheds light on the subject and explains the advantages of a data warehouse and how data warehousing works.'
 seo:
     title: 'Data Warehouse: Benefits for your company at a glance'
     description: 'Discover the basics and advanced techniques of data warehousing. Learn how to store data effectively'
@@ -20,7 +20,7 @@ color: '#34ba9d'
 
 A data warehouse (also abbreviated to DWH) is a **central storage system** that brings together large amounts of data from different sources, structures it and prepares it **for analysis**. By storing and visualizing the **history** of the data, you can identify patterns, trends and correlations over time. This is why business intelligence also plays an important role in data warehouses.
 
-The analysis functions enable you to derive valuable insights into various business areas from your data in order to improve **decision-making**. If you incorporate all of your company's data into your data warehouse, it can even be described as a **single source of truth** - i.e. a complete and reliable database.
+The analysis functions enable you to derive valuable insights into various business areas from your data in order to improve **decision-making**. If you incorporate all of your company's data into your data warehouse, it can even be described as a **single source of truth** – i.e. a complete and reliable database.
 
 ## The advantages of a data warehouse
 
@@ -52,11 +52,11 @@ However, the data warehouses of the time had to cope with **enormous redundancy*
 
 ![AI in DWH](KI-in-Data-Warehouses.jpg)
 
-Today, **AI, machine learning and automation** are opening up entirely new possibilities to improve the performance of data warehouses. This development ultimately leads to **autonomous data warehouses** that are completely self-managing and no longer require human administration. This can relieve the burden on your company's IT department and free up time to gain even more insights from your data. At the same time, you can reduce costs with a modern data warehouse and design optimal data warehouse architectures for the requirements of different users and specialist areas.
+Today, [AI]({{< relref "posts/kuenstliche-intelligenz" >}}), **machine learning and automation** are opening up entirely new possibilities to improve the performance of data warehouses. This development ultimately leads to **autonomous data warehouses** that are completely self-managing and no longer require human administration. This can relieve the burden on your company's IT department and free up time to gain even more insights from your data. At the same time, you can reduce costs with a modern data warehouse and design optimal data warehouse architectures for the requirements of different users and specialist areas.
 
 ## How a data warehouse is structured
 
-Exactly how you configure your data warehouse system depends on the specific data warehouse requirements of your company, which you should first define. However, all **data warehouse architectures** share a basic design: raw data is temporarily stored in a repository that is fed by data sources on the one hand and writes structured data to a relational database on the other. Users then access the cleansed data via BI tools for analysis, visualization and reporting.
+Exactly how you configure your data warehouse system depends on the specific data warehouse requirements of your company, which you should first define. However, all **data warehouse architectures** share a basic design: raw data is temporarily stored in a repository that is fed by data sources on the one hand and writes structured data to a [relational database]({{< relref "posts/relationale-datenbank" >}}) on the other. Users then access the cleansed data via BI tools for analysis, visualization and reporting.
 
 ### Key components of data warehousing
 
@@ -82,7 +82,7 @@ A data warehouse uses so-called ETL processes to collect data from various sourc
 
 The previous explanations were quite technical. Here we have another illustrative example for you, which clearly shows how a data warehouse process runs smoothly.
 
-Let's assume you run an **online shop** and want to analyze sales, access figures and customer data. First of all, you need to think about which data sources you want to include in your data warehouse and which systems you need to tap into. In this case, this could be the **order history** from Shopify, the **web traffic** from Google Analytics and the **CRM data** from Pipedrive. This data is now cleansed, harmonized and stored in the data warehouse. You can now statistically evaluate all sales and access figures, carry out customer analyses and draw conclusions for your sales strategy and the improvement of your online store.
+Let's assume you run an **online shop** and want to analyze sales, access figures and customer data. First of all, you need to think about which data sources you want to include in your data warehouse and which systems you need to tap into. In this case, this could be the **order history** from Shopify, the **web traffic** from Google Analytics and the [CRM data from Pipedrive]({{< relref "posts/no-code-crm" >}}). This data is now cleansed, harmonized and stored in the data warehouse. You can now statistically evaluate all sales and access figures, carry out customer analyses and draw conclusions for your sales strategy and the improvement of your online store.
 
 ![Data warehouse example visualization](Data-Warehouse-Beispiel-Visualisierung.jpg)
 
@@ -103,13 +103,13 @@ A data lake is a kind of **collection basin for all the raw data of an organizat
 
 ## The two basic data warehouse technologies
 
-There are various data warehouse solutions on the market, which can basically be divided into **cloud or on-premises**. Originally, data warehouses were only provided on on-premises servers. Even today, these local data warehouses can still have certain advantages in terms of **security and data sovereignty**. However, the administration of these systems can be very time-consuming for complex data warehouse architectures.
+There are various data warehouse solutions on the market, which can basically be divided into [cloud]({{< relref "posts/cloud-computing" >}}) or **on-premises**. Originally, data warehouses were only provided on on-premises servers. Even today, these local data warehouses can still have certain advantages in terms of **security** and [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}). However, the administration of these systems can be very time-consuming for complex data warehouse architectures.
 
 ### Advantages of "Data Warehouse in the Cloud"
 
 A data warehouse in the cloud has the following advantages, among others:
 
-- **elasticity and scalability**: Since you have a cloud data warehouse hosted in a data center, you have almost unlimited computing power and storage space at your disposal. Depending on the amount of data, you can flexibly expand or reduce the capacities used, i.e. scale up or down.
+- **Elasticity and scalability**: Since you have a cloud data warehouse hosted in a data center, you have almost unlimited computing power and storage space at your disposal. Depending on the amount of data, you can flexibly expand or reduce the capacities used, i.e. scale up or down.
 - **Lower operating costs**: With DWH in the cloud, you don't have to invest in your infrastructure, hire additional staff and only pay for the amount of resources you actually need (pay-as-you-go principle).
 - **Rapid deployment**: You can create a cloud data warehouse in a short time thanks to ready-made processes and customize it according to your requirements, whereas an on-premises setup can take several months and involves a lot of development work.
 - **Real-time data**: In-memory DWH technologies enable data processing at breakneck speed. Based on real-time data, you can immediately identify and analyze sudden changes.
@@ -121,17 +121,17 @@ Below is an overview of the differences between cloud and on-premises.
 | **Delivery**           | Setup possible anywhere in the world in a short time                          | On-site hardware setup can take several weeks                                     |
 | **Costs**              | Pay-as-you-go principle, no additional costs for infrastructure and personnel | High acquisition and operating costs for infrastructure and personnel             |
 | **Scalability**        | flexible, automatic scaling without limits                                    | manual capacity planning with clear limits                                        |
-| **security**           | high encryption, automatic backups                                            | full control and data sovereignty, security dependent on your IT processes        |
+| **Security**           | high encryption, automatic backups                                            | full control and data sovereignty, security dependent on your IT processes        |
 | **Real-time updating** | very fast thanks to in-memory technology                                      | often batch-based with delays                                                     |
 | **Operability**        | often user-friendly thanks to prefabricated elements, no IT dependency        | often complex, IT experts have to connect the data sources and administer the DWH |
 
-## SeaTable - the flexible, simple and cost-effective data warehouse
+## SeaTable – the flexible, simple and cost-effective data warehouse
 
 SeaTable is a [no-code platform]({{< relref "/" >}}) that offers the advantage over other relational databases that users can work on an **intuitive graphical user interface** without SQL or other IT knowledge. With the help of various **views, plugins and statistics**, you can easily prepare and visualize the data the way you want. This makes it easier for you to carry out precise analyses and make well-founded decisions without any headaches.
 
 Data from countless sources can flow into SeaTable via **integrations with Zapier, Make or n8n** and the **SeaTable API**. To enable SeaTable to store all data in a structured form, select the desired [data types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) in advance. Thanks to the **user-friendly modular principle**, this is just as easy as using the **integrated App Builder** [to create your own apps]({{< relref "posts/20250318-app-erstellen" >}}). SeaTable also enables **team collaboration** and updates data in real time - changes are immediately visible to all users and fully documented in the version history.
 
-What's more, you can choose whether you want to operate your data warehouse [on-premises]({{< relref "pages/product/seatable-server" >}}) or in the [cloud]({{< relref "pages/product/seatable-cloud" >}}). Benefit from the scalability and convenience of the **SeaTable Cloud** or host **SeaTable Server** on your own servers with full control and data sovereignty. Start with the free basic version, which you can upgrade to a [Plus or Enterprise subscription]({{< relref "pages/prices" >}}) at any time as soon as you need more functions or storage space.
+What's more, you can choose whether you want to operate your data warehouse **on-premises** or in the **cloud**. Benefit from the scalability and convenience of the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) or host [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) on your own servers with full control and data sovereignty. Start with the free basic version, which you can upgrade to a [Plus or Enterprise subscription]({{< relref "pages/prices" >}}) at any time as soon as you need more functions or storage space.
 
 [Register for free]({{< relref "pages/registration" >}}) and experience how easy data warehousing can be.
 

@@ -118,9 +118,9 @@ SeaTable permite no sólo la recopilación, sino también la **evaluación y vis
 
 ### Función de base de datos
 
-Una de las características más destacadas de SeaTable es su integración con bases de datos. Las referencias de celdas para fórmulas están en todas partes, pero con SeaTable ahora también puede crear referencias de celdas a **conjuntos de datos enteros en otras tablas** - una revolución para analizar a través de los límites de las tablas. Esta función le permite vincular datos, relacionarlos entre sí y analizarlos de forma tan exhaustiva como sólo es posible en bases de datos relacionales.
+Una de las características más destacadas de SeaTable es su integración con bases de datos. Las referencias de celdas para fórmulas están en todas partes, pero con SeaTable ahora también puede crear referencias de celdas a **conjuntos de datos enteros en otras tablas** - una revolución para analizar a través de los límites de las tablas. Esta función le permite vincular datos, relacionarlos entre sí y analizarlos de forma tan exhaustiva como sólo es posible en [bases de datos relacionales]({{< relref "posts/relationale-datenbank" >}}).
 
-SeaTable no es sólo una alternativa a Google Spreadsheet, sino una potente plataforma sin código que llevará su forma de trabajar con tablas al siguiente nivel. Pruébela, ['regístrese gratuitamente']({{< relref "pages/registration" >}}) y descubra lo fácil y eficaz que puede ser la gestión de datos.
+SeaTable no es sólo una alternativa a Google Spreadsheet, sino una potente plataforma sin código que llevará su forma de trabajar con tablas al siguiente nivel. Pruébela, [regístrese gratuitamente]({{< relref "pages/registration" >}}) y descubra lo fácil y eficaz que puede ser la gestión de datos.
 
 ## Preguntas más frecuentes
 
