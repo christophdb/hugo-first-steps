@@ -1,7 +1,7 @@
 ---
 title: 'Connect SeaTable with Cursor'
 description: 'Connect Cursor to your SeaTable base via the MCP server — explained step by step.'
-weight: 3
+weight: 4
 url: '/en/help/connect-ai-agent-with-cursor'
 seo:
     title: 'Connect SeaTable with Cursor — Setup in 5 Minutes'
@@ -78,16 +78,9 @@ Your questions should refer to tables and columns that actually exist in your ba
 
 You don't need to type table and column names exactly. Cursor recognizes minor typos and corrects them automatically. Feel free to write "Contacts" instead of "contacts" or "Projects" instead of "projects" — Cursor will find the right table.
 
-## Common issues
-
-| Problem | Solution |
-|---|---|
-| Red dot next to the server | URL or token is incorrect. Check both in the MCP settings. |
-| "Invalid API token" | Check the token — it must be copied completely, without spaces at the beginning or end. |
-| "Connection timeout" | Check your internet connection. The MCP server at mcp.seatable.com must be reachable. |
-| Cursor does not use the MCP server | Make sure you are using the chat (not inline edit) and that the server is shown as connected. |
-
 ## Next steps
 
+- [Use cases for AI agents]({{< relref "help/ai/ai-agents/use-cases" >}})
 - [Asking good questions: How to get the best answers]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Permissions and data privacy for AI agents]({{< relref "help/ai/ai-agents/good-questions" >}})
+- [Troubleshooting AI agents]({{< relref "help/ai/ai-agents/troubleshooting" >}})
+- [Permissions and data privacy for AI agents]({{< relref "help/ai/ai-agents/data-security" >}})

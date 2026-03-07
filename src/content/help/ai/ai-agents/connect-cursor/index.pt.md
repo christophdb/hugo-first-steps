@@ -1,7 +1,7 @@
 ---
 title: 'Ligar o SeaTable ao Cursor'
 description: 'Ligue o Cursor à sua base SeaTable através do servidor MCP — explicado passo a passo.'
-weight: 3
+weight: 4
 url: '/pt/ajuda/ligar-agente-ia-ao-cursor'
 seo:
     title: 'Ligar o SeaTable ao Cursor — Configuração em 5 minutos'
@@ -78,16 +78,9 @@ As suas perguntas devem referir-se a tabelas e colunas que realmente existam na 
 
 Não precisa de escrever os nomes das tabelas e colunas de forma exata. O Cursor reconhece pequenos erros de digitação e corrige-os automaticamente. Escreva «Contactos» em vez de «contactos» ou «Projetos» em vez de «projetos» — o Cursor encontrará a tabela correta.
 
-## Problemas frequentes
-
-| Problema | Solução |
-|---|---|
-| Ponto vermelho junto ao servidor | O URL ou o token está incorreto. Verifique ambos nas definições do MCP. |
-| «Invalid API token» | Verifique o token — deve estar copiado na íntegra, sem espaços no início ou no fim. |
-| «Connection timeout» | Verifique a sua ligação à Internet. O servidor MCP em mcp.seatable.com tem de estar acessível. |
-| O Cursor não utiliza o servidor MCP | Certifique-se de que está a utilizar o chat (e não a edição inline) e de que o servidor aparece como ligado. |
-
 ## Próximos passos
 
+- [Exemplos de utilização de agentes de IA]({{< relref "help/ai/ai-agents/use-cases" >}})
 - [Fazer boas perguntas: como obter as melhores respostas]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Permissões e proteção de dados para agentes de IA]({{< relref "help/ai/ai-agents/good-questions" >}})
+- [Resolução de problemas de agentes de IA]({{< relref "help/ai/ai-agents/troubleshooting" >}})
+- [Permissões e proteção de dados para agentes de IA]({{< relref "help/ai/ai-agents/data-security" >}})

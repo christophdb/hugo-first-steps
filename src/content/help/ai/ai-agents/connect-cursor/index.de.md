@@ -1,7 +1,7 @@
 ---
 title: 'SeaTable mit Cursor verbinden'
 description: 'Verbinden Sie Cursor über den MCP Server mit Ihrer SeaTable-Base — Schritt für Schritt erklärt.'
-weight: 3
+weight: 4
 url: '/de/hilfe/ki-agent-mit-cursor-verbinden'
 seo:
     title: 'SeaTable mit Cursor verbinden — Einrichtung in 5 Minuten'
@@ -78,16 +78,9 @@ Ihre Fragen sollten sich auf Tabellen und Spalten beziehen, die tatsächlich in 
 
 Sie müssen Tabellen- und Spaltennamen nicht exakt schreiben. Cursor erkennt kleine Tippfehler und korrigiert sie automatisch. Schreiben Sie ruhig "Kontakte" statt "kontakte" oder "Projekte" statt "Projects" — Cursor findet die richtige Tabelle.
 
-## Häufige Probleme
-
-| Problem | Lösung |
-|---|---|
-| Roter Punkt neben dem Server | URL oder Token ist fehlerhaft. Prüfen Sie beides in den MCP-Settings. |
-| "Invalid API token" | Prüfen Sie den Token — er muss vollständig kopiert sein, ohne Leerzeichen am Anfang oder Ende. |
-| "Connection timeout" | Prüfen Sie Ihre Internetverbindung. Der MCP Server unter mcp.seatable.com muss erreichbar sein. |
-| Cursor nutzt den MCP Server nicht | Stellen Sie sicher, dass Sie den Chat verwenden (nicht Inline-Edit) und dass der Server als verbunden angezeigt wird. |
-
 ## Nächste Schritte
 
+- [Anwendungsbeispiele für KI-Agenten]({{< relref "help/ai/ai-agents/use-cases" >}})
 - [Gute Fragen stellen: So bekommen Sie die besten Antworten]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Berechtigungen und Datenschutz bei KI-Agenten]({{< relref "help/ai/ai-agents/good-questions" >}})
+- [Fehlerbehebung bei KI-Agenten]({{< relref "help/ai/ai-agents/troubleshooting" >}})
+- [Berechtigungen und Datenschutz bei KI-Agenten]({{< relref "help/ai/ai-agents/data-security" >}})
