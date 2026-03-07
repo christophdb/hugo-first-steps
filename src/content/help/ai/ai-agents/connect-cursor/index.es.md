@@ -78,16 +78,9 @@ Sus preguntas deben referirse a tablas y columnas que realmente existan en su ba
 
 No es necesario escribir los nombres de tablas y columnas de forma exacta. Cursor reconoce pequeños errores tipográficos y los corrige automáticamente. Escriba «Contactos» en lugar de «contactos» o «Proyectos» en lugar de «proyectos» — Cursor encontrará la tabla correcta.
 
-## Problemas frecuentes
-
-| Problema | Solución |
-|---|---|
-| Punto rojo junto al servidor | La URL o el token es incorrecto. Compruebe ambos en la configuración de MCP. |
-| «Invalid API token» | Compruebe el token — debe estar copiado completamente, sin espacios al principio o al final. |
-| «Connection timeout» | Compruebe su conexión a Internet. El servidor MCP en mcp.seatable.com debe ser accesible. |
-| Cursor no utiliza el servidor MCP | Asegúrese de estar usando el chat (no la edición en línea) y de que el servidor aparece como conectado. |
-
 ## Próximos pasos
 
+- [Ejemplos de uso de agentes de IA]({{< relref "help/ai/ai-agents/use-cases" >}})
 - [Hacer buenas preguntas: cómo obtener las mejores respuestas]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Permisos y protección de datos para agentes de IA]({{< relref "help/ai/ai-agents/good-questions" >}})
+- [Solución de problemas de agentes de IA]({{< relref "help/ai/ai-agents/troubleshooting" >}})
+- [Permisos y protección de datos para agentes de IA]({{< relref "help/ai/ai-agents/data-security" >}})

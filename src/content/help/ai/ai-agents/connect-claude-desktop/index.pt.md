@@ -93,16 +93,9 @@ As suas perguntas devem referir-se a tabelas e colunas que realmente existam na 
 
 Não precisa de escrever os nomes de tabelas e colunas de forma exata. O Claude reconhece pequenos erros de digitação e corrige-os automaticamente. Escreva à vontade «Contactos» em vez de «contactos» ou «Projetos» em vez de «projects». O Claude encontrará a tabela correta.
 
-## Problemas frequentes
-
-| Problema | Solução |
-|---|---|
-| Nenhum ícone de ferramenta visível | Verifique se o ficheiro de configuração contém JSON válido e reinicie o Claude Desktop. |
-| «Invalid API token» | Verifique o token — deve ser copiado na íntegra, sem espaços no início ou no fim. |
-| «Connection timeout» | Verifique a sua ligação à Internet. O servidor MCP em mcp.seatable.com deve estar acessível. |
-| O Claude diz que não tem acesso | Certifique-se de que o servidor MCP aparece como ligado nas definições. |
-
 ## Próximos passos
 
+- [Exemplos de utilização de agentes de IA]({{< relref "help/ai/ai-agents/use-cases" >}})
 - [Fazer boas perguntas: como obter as melhores respostas]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Permissões e proteção de dados para agentes de IA]({{< relref "help/ai/ai-agents/good-questions" >}})
+- [Resolução de problemas de agentes de IA]({{< relref "help/ai/ai-agents/troubleshooting" >}})
+- [Permissões e proteção de dados para agentes de IA]({{< relref "help/ai/ai-agents/data-security" >}})

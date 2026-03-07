@@ -68,17 +68,9 @@ Sus preguntas deben referirse a tablas y columnas que realmente existan en su ba
 
 No necesita escribir los nombres de tablas y columnas de forma exacta. Claude reconoce pequeños errores tipográficos y los corrige automáticamente. Escriba tranquilamente «Contactos» en lugar de «contactos» o «Proyectos» en lugar de «projects». Claude encontrará la tabla correcta.
 
-## Problemas frecuentes
-
-| Problema | Solución |
-|---|---|
-| «Invalid API token» | Compruebe el token — debe copiarse completamente, sin espacios al principio o al final. |
-| «Connection timeout» | Compruebe su conexión a Internet. El servidor MCP en mcp.seatable.com debe ser accesible. |
-| Claude dice que no tiene acceso | Compruebe con `claude mcp list` si el servidor MCP está correctamente registrado. |
-| El servidor MCP no se reconoce | Reinicie Claude Code e inténtelo de nuevo. |
-| Claude pierde el acceso de repente | Claude Code actualmente no se reconecta automáticamente cuando la sesión ha expirado. Escriba `/mcp` y seleccione **Reconnect** para restablecer la conexión. |
-
 ## Próximos pasos
 
+- [Ejemplos de uso de agentes de IA]({{< relref "help/ai/ai-agents/use-cases" >}})
 - [Hacer buenas preguntas: cómo obtener las mejores respuestas]({{< relref "help/ai/ai-agents/good-questions" >}})
-- [Permisos y protección de datos para agentes de IA]({{< relref "help/ai/ai-agents/good-questions" >}})
+- [Solución de problemas de agentes de IA]({{< relref "help/ai/ai-agents/troubleshooting" >}})
+- [Permisos y protección de datos para agentes de IA]({{< relref "help/ai/ai-agents/data-security" >}})
