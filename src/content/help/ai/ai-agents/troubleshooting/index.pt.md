@@ -1,7 +1,7 @@
 ---
 title: 'Resolução de problemas de agentes de IA'
 description: 'Soluções para os problemas mais comuns ao ligar agentes de IA ao SeaTable através do servidor MCP.'
-weight: 7
+weight: 8
 url: '/pt/ajuda/resolucao-problemas-agentes-ia'
 seo:
     title: 'Agentes de IA: resolução de problemas frequentes'

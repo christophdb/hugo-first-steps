@@ -1,7 +1,7 @@
 ---
 title: 'Wie Sie einem KI-Agenten gute Fragen stellen'
 description: 'So formulieren Sie Fragen an Ihren KI-Agenten, damit Sie die besten Ergebnisse erhalten.'
-weight: 4
+weight: 7
 url: '/de/hilfe/ki-agenten-gute-fragen-stellen'
 seo:
     title: 'KI-Agenten: Gute Fragen stellen und bessere Antworten erhalten'

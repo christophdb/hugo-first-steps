@@ -1,7 +1,7 @@
 ---
 title: 'Устранение неполадок ИИ-агентов'
 description: 'Решения распространённых проблем при подключении ИИ-агентов к SeaTable через MCP-сервер.'
-weight: 7
+weight: 8
 url: '/ru/pomosh/ustranenie-nepoladok-ii-agentov'
 seo:
     title: 'ИИ-агенты: устранение неполадок и решения'

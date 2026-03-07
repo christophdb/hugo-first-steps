@@ -1,7 +1,7 @@
 ---
 title: 'Troubleshooting AI agents'
 description: 'Solutions for common problems when connecting AI agents to SeaTable via the MCP server.'
-weight: 7
+weight: 8
 url: '/en/help/ai-agent-troubleshooting'
 seo:
     title: 'AI Agent Troubleshooting: Common Problems and Solutions'

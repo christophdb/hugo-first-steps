@@ -1,7 +1,7 @@
 ---
 title: 'Comment poser de bonnes questions à un agent IA'
 description: 'Comment formuler vos questions à un agent IA pour obtenir les meilleurs résultats.'
-weight: 4
+weight: 7
 url: '/fr/aide/poser-bonnes-questions-agent-ia'
 seo:
     title: 'Agents IA : poser de bonnes questions et obtenir de meilleures réponses'

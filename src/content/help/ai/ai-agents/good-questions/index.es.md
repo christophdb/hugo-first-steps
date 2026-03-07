@@ -1,7 +1,7 @@
 ---
 title: 'Cómo hacer buenas preguntas a un agente de IA'
 description: 'Cómo formular sus preguntas a un agente de IA para obtener los mejores resultados.'
-weight: 4
+weight: 7
 url: '/es/ayuda/hacer-buenas-preguntas-agente-ia'
 seo:
     title: 'Agentes de IA: hacer buenas preguntas y obtener mejores respuestas'
