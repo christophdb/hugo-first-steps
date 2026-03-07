@@ -1,7 +1,7 @@
 ---
 title: 'Fehlerbehebung bei KI-Agenten'
 description: 'Lösungen für häufige Probleme bei der Verbindung von KI-Agenten mit SeaTable über den MCP Server.'
-weight: 7
+weight: 8
 url: '/de/hilfe/ki-agenten-fehlerbehebung'
 seo:
     title: 'KI-Agenten Troubleshooting: Häufige Probleme und Lösungen'

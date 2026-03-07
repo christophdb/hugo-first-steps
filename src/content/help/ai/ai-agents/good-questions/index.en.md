@@ -1,7 +1,7 @@
 ---
 title: 'How to Ask Good Questions to an AI Agent'
 description: 'How to phrase your questions to an AI agent to get the best results.'
-weight: 4
+weight: 7
 url: '/help/ask-ai-agent-good-questions'
 seo:
     title: 'AI Agents: Ask Good Questions and Get Better Answers'

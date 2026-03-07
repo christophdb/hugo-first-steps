@@ -1,7 +1,7 @@
 ---
 title: 'Dépannage des agents IA'
 description: 'Solutions aux problèmes courants lors de la connexion des agents IA à SeaTable via le serveur MCP.'
-weight: 7
+weight: 8
 url: '/fr/aide/depannage-agents-ia'
 seo:
     title: 'Dépannage des agents IA : problèmes courants et solutions'
