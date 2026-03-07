@@ -1,7 +1,7 @@
 ---
 title: 'SeaTable mit Cursor verbinden'
 description: 'Verbinden Sie Cursor über den MCP Server mit Ihrer SeaTable-Base — Schritt für Schritt erklärt.'
-weight: 3
+weight: 4
 url: '/de/hilfe/ki-agent-mit-cursor-verbinden'
 seo:
     title: 'SeaTable mit Cursor verbinden — Einrichtung in 5 Minuten'

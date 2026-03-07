@@ -1,7 +1,7 @@
 ---
 title: 'Connect SeaTable with Cursor'
 description: 'Connect Cursor to your SeaTable base via the MCP server — explained step by step.'
-weight: 3
+weight: 4
 url: '/en/help/connect-ai-agent-with-cursor'
 seo:
     title: 'Connect SeaTable with Cursor — Setup in 5 Minutes'

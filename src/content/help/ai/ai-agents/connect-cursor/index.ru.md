@@ -1,7 +1,7 @@
 ---
 title: 'Подключение SeaTable к Cursor'
 description: 'Подключите Cursor к вашей базе SeaTable через сервер MCP — пошаговая инструкция.'
-weight: 3
+weight: 4
 url: '/ru/pomoshch/podklyuchenie-ii-agenta-k-cursor'
 seo:
     title: 'Подключение SeaTable к Cursor — настройка за 5 минут'
