@@ -165,7 +165,7 @@ sections:
       - headline: An alternative to static planners
         text: 'Organize your study routine in SeaTable far more flexibly than in calendars, Excel or Word – thanks to linked tables, personalized views, forms and automations for university, university of applied sciences and study group.'
       - headline: Link your studies and literature
-        text: 'Connect your student planner directly to a [bibliography]({{< relref "templates/projects/bibliography" >}}), so that books, sources, seminar texts and materials run together in a structured way with modules, term papers and your semester organization.'
+        text: 'Connect your student planner directly to a [bibliography]({{< relref "templates/everyday-life/bibliography" >}}), so that books, sources, seminar texts and materials run together in a structured way with modules, term papers and your semester organization.'
       - headline: Data protection, German standard
         text: 'When you use SeaTable Cloud or the integrated AI, your data on courses, grades and study documents stays in Europe – the infrastructure runs exclusively on servers located in Germany, in line with strict European standards.'
       - headline: Secure login, controlled access 

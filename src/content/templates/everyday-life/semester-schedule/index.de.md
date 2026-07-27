@@ -166,7 +166,7 @@ sections:
       - headline: Alternative zu statischen Planern
         text: 'Organisieren Sie Ihren Studienalltag in SeaTable deutlich flexibler als in Kalendern, Excel oder Word – dank verknüpfter Tabellen, personalisierter Ansichten, Formularen und Automatisierungen für Uni, Fachhochschule und Lerngruppe.'
       - headline: Studium und Literatur verknüpfen
-        text: 'Verbinden Sie Ihren Studienplaner direkt mit einem [Literaturverzeichnis]({{< relref "templates/projects/bibliography" >}}), damit Bücher, Quellen, Seminartexte und Materialien strukturiert mit Modulen, Hausarbeiten und Ihrer Semesterorganisation zusammenlaufen.'
+        text: 'Verbinden Sie Ihren Studienplaner direkt mit einem [Literaturverzeichnis]({{< relref "templates/everyday-life/bibliography" >}}), damit Bücher, Quellen, Seminartexte und Materialien strukturiert mit Modulen, Hausarbeiten und Ihrer Semesterorganisation zusammenlaufen.'
       - headline: Datenschutz nach deutschem Standard
         text: 'Wenn Sie SeaTable Cloud oder die integrierte KI nutzen, bleiben Ihre Daten zu Kursen, Noten und Studienunterlagen in Europa – die Infrastruktur wird ausschließlich auf Servern in Deutschland betrieben.'
       - headline: Sicher anmelden, Zugriff steuern 
