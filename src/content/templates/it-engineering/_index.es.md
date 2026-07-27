@@ -1,6 +1,8 @@
 ---
 title: 'Desarrollo de software'
-url: '/es/plantillas/desarrollo-de-software'
+url: '/es/plantillas/ti-e-ingenieria'
+aliases:
+    - '/es/plantillas/desarrollo-de-software'
 weight: 7
 seo:
     title: 'Plantillas desarrollo software – Bug tracker y roadmap'

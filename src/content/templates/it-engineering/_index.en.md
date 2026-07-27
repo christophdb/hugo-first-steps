@@ -1,6 +1,8 @@
 ---
 title: 'Software development'
-url: '/templates/software-development'
+url: '/templates/it-and-engineering'
+aliases:
+    - '/templates/software-development'
 weight: 7
 seo:
     title: 'Software development templates – Bug tracker & roadmap'
