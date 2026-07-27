@@ -25,6 +25,8 @@ Wenn Sie das Tabellenbeziehungen-Plugin eingerichtet und geöffnet haben, sehen 
 
 Um die Tabellenbeziehungen zu visualisieren, werden Ihnen nicht nur **durchgezogene Linien** für _direkte_ Verbindungen über [Verknüpfungsspalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sondern auch **gestrichelte Linien** für _indirekte_ Verbindungen über Linkformel-Spalten (z. B. [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) angezeigt.
 
+{{< youtube Qu0fuxvrdsY >}}
+
 ## Verwaltung eines Beziehungsdiagramms
 
 Standardmäßig ist beim ersten Öffnen des Tabellenbeziehungen-Plugins bereits ein Diagramm mit allen Tabellenbeziehungen angelegt. Wenn Sie ein weiteres Beziehungsdiagramm erstellen möchten, klicken Sie auf {{< seatable-icon icon="dtable-icon-add-table" >}} **Beziehungsdiagramm hinzufügen**. Daraufhin öffnet sich ein Eingabefeld, in das Sie den gewünschten **Namen** tippen.

@@ -26,6 +26,9 @@ Depois de ter configurado e aberto o plugin de relações de tabela, começa por
 
 Para visualizar as relações de tabela, verá não só **linhas sólidas** para ligações _directas_ através de [colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), mas também **linhas tracejadas** para ligações _indirectas_ através de colunas de fórmula de ligação (por exemplo, [pesquisas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
 
+**Veja o nosso vídeo explicativo com legendas em português.**
+{{< youtube Qu0fuxvrdsY >}}
+
 ## Gestão de um diagrama de relações
 
 Por defeito, já é criado um diagrama com todas as relações de tabela quando o plugin de relações de tabela é aberto pela primeira vez. Se pretender criar outro diagrama de relações, clique em {{< seatable-icon icon="dtable-icon-add-table" >}} **Adicionar diagrama de relações**. Isto abre um campo de entrada no qual pode introduzir o **nome** pretendido.
