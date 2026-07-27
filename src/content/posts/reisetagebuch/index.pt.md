@@ -151,7 +151,7 @@ SeaTable é um banco de dados No-Code com funções de IA e um App Builder integ
 
 Uma grande vantagem do SeaTable é que você pode **relacionar tabelas entre si por meio de colunas de vínculo.** Assim, você pode conectar suas atividades planejadas ou reservadas no planejador de viagem (tabela 1) com uma visão geral de custos (tabela 2) e seu diário de viagem (tabela 4). O modelo é arredondado pela prática lista de bagagem e [lista de tarefas]({{< relref "templates/projects/to-do-list" >}}) na tabela 3.
   
-Mas o grande destaque é o **aplicativo de diário de viagem** baseado nas tabelas. Registre novas anotações de diário de forma estruturada por meio de um formulário, carregue imagens e visualize-as em uma galeria organizada ou folheie o seu diário com uma página criada para cada anotação. Deixe que, com o [planejador de viagem]({{< relref "templates/events/travel-planner" >}}), suas ideias se transformem em reservas concretas e memórias duradouras!
+Mas o grande destaque é o **aplicativo de diário de viagem** baseado nas tabelas. Registre novas anotações de diário de forma estruturada por meio de um formulário, carregue imagens e visualize-as em uma galeria organizada ou folheie o seu diário com uma página criada para cada anotação. Deixe que, com o [planejador de viagem]({{< relref "templates/everyday-life/travel-planner" >}}), suas ideias se transformem em reservas concretas e memórias duradouras!
 
 ![Aplicativo de diário de viagem](travel-diary-app.gif)
 

@@ -196,7 +196,7 @@ Algumas despedidas de solteiro têm temas ou cores específicos.
 
 ## Planeador online para a despedida de solteiro ou de solteira perfeita
 
-Está a enfrentar o desafio de planear a melhor despedida de solteiro para o seu melhor amigo? Não precisa de se preocupar! Com o [modelo gratuito]({{< relref "templates/events/hen-stag-party-planner" >}}) da SeaTable, pode concretizar os seus planos sem esforço.
+Está a enfrentar o desafio de planear a melhor despedida de solteiro para o seu melhor amigo? Não precisa de se preocupar! Com o [modelo gratuito]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) da SeaTable, pode concretizar os seus planos sem esforço.
 
 O modelo pode ser facilmente personalizado de acordo com as suas necessidades, eliminando as entradas de exemplo e introduzindo os seus próprios dados. No SeaTable, pode organizar e visualizar os dados de forma tão clara que tem sempre uma visão geral das actividades, tarefas, hóspedes e finanças.
 

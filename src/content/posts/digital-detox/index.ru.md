@@ -186,7 +186,7 @@ register:
 В этом вам могут помочь полезные шаблоны от SeaTable:
 
 *   С помощью [трекера привычек]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) отслеживайте свои личные цели и вырабатывайте здоровые привычки.
-*   С помощью [планировщика путешествий]({{< relref "templates/events/travel-planner" >}}) подготовьте свой следующий отпуск в режиме цифрового детокса или ведите [дневник путешествий]({{< relref "posts/reisetagebuch" >}}).
+*   С помощью [планировщика путешествий]({{< relref "templates/everyday-life/travel-planner" >}}) подготовьте свой следующий отпуск в режиме цифрового детокса или ведите [дневник путешествий]({{< relref "posts/reisetagebuch" >}}).
 *   Составьте свой [персональный план тренировок]({{< relref "templates/healthcare/personal-exercise-guide" >}}) и документируйте свой прогресс.
 
 {{< tabs

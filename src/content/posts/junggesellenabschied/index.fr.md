@@ -197,7 +197,7 @@ Certains enterrements de vie de garçon ont des thèmes ou des couleurs spécifi
 
 ## Planificateur en ligne pour un enterrement de vie de garçon ou de jeune fille parfait
 
-Vous êtes confronté(e) au défi de planifier l'ultime enterrement de vie de garçon pour votre meilleur(e) ami(e) ? Ne vous inquiétez pas ! Avec le [modèle gratuit]({{< relref "templates/events/hen-stag-party-planner" >}}) de SeaTable, vous pouvez réaliser votre planification sans effort.
+Vous êtes confronté(e) au défi de planifier l'ultime enterrement de vie de garçon pour votre meilleur(e) ami(e) ? Ne vous inquiétez pas ! Avec le [modèle gratuit]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) de SeaTable, vous pouvez réaliser votre planification sans effort.
 
 Vous pouvez facilement adapter le modèle à vos besoins en supprimant les entrées d'exemple et en ajoutant vos propres données. SeaTable vous permet de classer et de visualiser les données de manière claire afin de toujours garder une vue d'ensemble des activités, des choses à faire, des invités et des finances.
 

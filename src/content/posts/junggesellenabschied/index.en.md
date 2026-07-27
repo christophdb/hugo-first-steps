@@ -177,7 +177,7 @@ Some stag parties have specific themes or colors.
 
 ## Online planner for the perfect stag or hen party
 
-Are you facing the challenge of planning the ultimate stag party for your best friend? No need to worry! With SeaTable's [free template]({{< relref "templates/events/hen-stag-party-planner" >}}), you can realize your planning effortlessly.
+Are you facing the challenge of planning the ultimate stag party for your best friend? No need to worry! With SeaTable's [free template]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}), you can realize your planning effortlessly.
 
 The template can be easily adapted to your needs by deleting the sample entries and entering your own data. In SeaTable, you can organize and visualize data so clearly that you always have an overview of activities, to-dos, guests and finances.
 
