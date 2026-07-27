@@ -181,7 +181,7 @@ Para que as suas ideias de livro de visitas resultem no dia do casamento, recome
 
 ## Criar o seu livro de visitas de casamento digital: SeaTable como plataforma de organização flexível
 
-O [planeador de casamentos]({{< relref "templates/events/wedding-planner" >}}) do SeaTable é um verdadeiro fator de mudança. Contém não só valiosas **listas de verificação e panorâmicas** para a organização do seu casamento, mas também um **livro de visitas digital** integrado. Em vez de uma página em branco, os seus convidados recebem um formulário web com pequenas tarefas e perguntas criativas para preencher. Todos os convidados podem submeter os seus contributos **em simultâneo** e sem copiar uns dos outros, para que os conteúdos se tornem realmente únicos.
+O [planeador de casamentos]({{< relref "templates/everyday-life/wedding-planner" >}}) do SeaTable é um verdadeiro fator de mudança. Contém não só valiosas **listas de verificação e panorâmicas** para a organização do seu casamento, mas também um **livro de visitas digital** integrado. Em vez de uma página em branco, os seus convidados recebem um formulário web com pequenas tarefas e perguntas criativas para preencher. Todos os convidados podem submeter os seus contributos **em simultâneo** e sem copiar uns dos outros, para que os conteúdos se tornem realmente únicos.
 
 {{< template id="de0ea6ddde484de99645" >}}
 

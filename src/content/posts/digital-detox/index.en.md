@@ -186,7 +186,7 @@ A common mistake during a digital detox is suddenly demonizing everything digita
 Useful templates from SeaTable can help you with this:
 
 *   Use the [Habit Tracker]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) to track your personal goals and establish healthy habits.
-*   Prepare your next digital detox vacation with the [Travel Planner]({{< relref "templates/events/travel-planner" >}}) or keep a [travel journal]({{< relref "posts/reisetagebuch" >}}).
+*   Prepare your next digital detox vacation with the [Travel Planner]({{< relref "templates/everyday-life/travel-planner" >}}) or keep a [travel journal]({{< relref "posts/reisetagebuch" >}}).
 *   Create your [personal exercise guide]({{< relref "templates/healthcare/personal-exercise-guide" >}}) and document your progress.
 
 {{< tabs

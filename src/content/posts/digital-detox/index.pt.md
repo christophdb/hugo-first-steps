@@ -186,7 +186,7 @@ Um erro frequente na desintoxicação digital consiste em, de repente, demonizar
 Os modelos úteis do SeaTable podem ajudá-lo nisso:
 
 *   Acompanhe com o [Habit Tracker]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) os seus objetivos pessoais e estabeleça hábitos saudáveis.
-*   Prepare com o [Planeador de Viagens]({{< relref "templates/events/travel-planner" >}}) as suas próximas férias de desintoxicação digital ou mantenha um [diário de viagem]({{< relref "posts/reisetagebuch" >}}).
+*   Prepare com o [Planeador de Viagens]({{< relref "templates/everyday-life/travel-planner" >}}) as suas próximas férias de desintoxicação digital ou mantenha um [diário de viagem]({{< relref "posts/reisetagebuch" >}}).
 *   Crie o seu [plano de treino pessoal]({{< relref "templates/healthcare/personal-exercise-guide" >}}) e documente os seus progressos.
 
 {{< tabs

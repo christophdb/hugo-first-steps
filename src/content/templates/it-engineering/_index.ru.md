@@ -1,8 +1,9 @@
 ---
 title: 'Разработка программного обеспечения'
-url: '/ru/shablon/razrabotki-po'
+url: '/ru/shablon/it-razrabotka-programmnogo-obespecheniya'
 aliases:
     - '/ru/шаблоны/разработка-программного-обеспечения'
+    - '/ru/shablon/razrabotki-po'
 weight: 7
 seo:
     title: 'Шаблоны Разработка ПО – отслеживание багов и roadmap'

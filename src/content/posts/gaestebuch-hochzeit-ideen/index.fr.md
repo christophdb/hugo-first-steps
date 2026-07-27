@@ -181,7 +181,7 @@ Pour que vos idées de livre d'or fassent mouche le jour du mariage, une bonne p
 
 ## Créer votre livre d'or de mariage numérique : SeaTable, une plateforme d'organisation flexible
 
-Le [planificateur de mariage]({{< relref "templates/events/wedding-planner" >}}) de SeaTable est un véritable game changer. Il contient non seulement de précieuses **checklists et vues d'ensemble** pour l'organisation de votre mariage, mais aussi un **livre d'or numérique** intégré. Au lieu d'une page blanche, vos invités reçoivent un formulaire web à remplir, comportant de petites missions et des questions créatives. Tous les invités peuvent soumettre leurs messages **simultanément** sans se copier les uns sur les autres, pour que les contenus soient vraiment uniques.
+Le [planificateur de mariage]({{< relref "templates/everyday-life/wedding-planner" >}}) de SeaTable est un véritable game changer. Il contient non seulement de précieuses **checklists et vues d'ensemble** pour l'organisation de votre mariage, mais aussi un **livre d'or numérique** intégré. Au lieu d'une page blanche, vos invités reçoivent un formulaire web à remplir, comportant de petites missions et des questions créatives. Tous les invités peuvent soumettre leurs messages **simultanément** sans se copier les uns sur les autres, pour que les contenus soient vraiment uniques.
 
 {{< template id="de0ea6ddde484de99645" >}}
 
