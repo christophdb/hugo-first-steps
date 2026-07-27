@@ -4,7 +4,6 @@ date: 2025-12-03
 lastmod: '2025-12-03'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'kgr'
 url: '/ru/pomoshch/vid-galerei'
 aliases:
     - '/ru/pomoshch/galereya-instruktsiya-seatable'

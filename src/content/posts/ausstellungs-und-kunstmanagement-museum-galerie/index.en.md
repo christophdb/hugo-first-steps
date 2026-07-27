@@ -4,7 +4,6 @@ description: 'Art management made easy: see how museums and galleries benefit fr
 date: 2021-03-09
 lastmod: '2023-07-05'
 coverImage: 'seatable-art-exhibition-management.jpg'
-author: 'cdb'
 url: '/exhibition-art-management-museum-gallery'
 aliases:
     - /ausstellungs-und-kunstmanagement-museum-galerie

@@ -4,7 +4,6 @@ date: 2025-12-03
 lastmod: '2025-12-03'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'kgr'
 url: '/de/hilfe/die-galerie-ansicht'
 aliases:
     - '/de/hilfe/anleitung-zum-galerie-plugin'

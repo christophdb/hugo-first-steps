@@ -4,7 +4,6 @@ date: 2025-12-03
 lastmod: '2025-12-03'
 categories:
     - 'grundlagen-von-ansichten'
-author: 'kgr'
 url: '/fr/aide/vue-de-galerie'
 aliases:
     - '/fr/aide/guide-plugin-galerie-seatable'
