@@ -200,4 +200,4 @@ Algunas despedidas de soltero tienen temas o colores específicos.
 
 La plantilla puede adaptarse fácilmente a sus necesidades eliminando las entradas de ejemplo e introduciendo sus propios datos. En SeaTable, puede organizar y visualizar los datos de forma tan clara que siempre tendrá una visión general de las actividades, las tareas pendientes, los invitados y las finanzas.
 
-Pero SeaTable no sólo ayuda a los testigos del matrimonio: los futuros esposos también pueden utilizar SeaTable como [planificador de bodas]({{< relref "templates/events/wedding-planner" >}}) gratuito para que el día más bonito de sus vidas sea perfecto. Para registrarse gratuitamente, introduzca [aquí]({{< relref "pages/registration" >}}) su dirección de correo electrónico.
+Pero SeaTable no sólo ayuda a los testigos del matrimonio: los futuros esposos también pueden utilizar SeaTable como [planificador de bodas]({{< relref "templates/everyday-life/wedding-planner" >}}) gratuito para que el día más bonito de sus vidas sea perfecto. Para registrarse gratuitamente, introduzca [aquí]({{< relref "pages/registration" >}}) su dirección de correo electrónico.

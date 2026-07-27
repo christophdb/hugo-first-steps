@@ -181,7 +181,7 @@ Damit Ihre Gästebuch-Ideen am Hochzeitstag zünden, empfiehlt sich eine gute Vo
 
 ## Ihr digitales Hochzeitsgästebuch erstellen: SeaTable als flexible Organisations-Plattform
 
-Der [Hochzeitsplaner]({{< relref "templates/events/wedding-planner" >}}) von SeaTable ist ein echter Gamechanger. Er enthält nicht nur wertvolle **Checklisten und Übersichten** für die Organisation Ihrer Hochzeit, sondern auch ein integriertes **digitales Gästebuch**. Statt einer leeren Seite bekommen Ihre Gäste ein Webformular mit kleinen Aufgaben und kreativen Fragen zum Ausfüllen. Alle Gäste können ihre Beiträge **gleichzeitig** einreichen und nicht voneinander abschreiben, damit die Inhalte wirklich einzigartig werden.
+Der [Hochzeitsplaner]({{< relref "templates/everyday-life/wedding-planner" >}}) von SeaTable ist ein echter Gamechanger. Er enthält nicht nur wertvolle **Checklisten und Übersichten** für die Organisation Ihrer Hochzeit, sondern auch ein integriertes **digitales Gästebuch**. Statt einer leeren Seite bekommen Ihre Gäste ein Webformular mit kleinen Aufgaben und kreativen Fragen zum Ausfüllen. Alle Gäste können ihre Beiträge **gleichzeitig** einreichen und nicht voneinander abschreiben, damit die Inhalte wirklich einzigartig werden.
 
 {{< template id="de0ea6ddde484de99645" >}}
 

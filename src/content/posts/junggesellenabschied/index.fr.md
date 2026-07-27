@@ -201,4 +201,4 @@ Vous êtes confronté(e) au défi de planifier l'ultime enterrement de vie de ga
 
 Vous pouvez facilement adapter le modèle à vos besoins en supprimant les entrées d'exemple et en ajoutant vos propres données. SeaTable vous permet de classer et de visualiser les données de manière claire afin de toujours garder une vue d'ensemble des activités, des choses à faire, des invités et des finances.
 
-SeaTable n'aide pas seulement les témoins de mariage : les futurs mariés peuvent également utiliser SeaTable comme [organisateur de mariage]({{< relref "templates/events/wedding-planner" >}}) gratuit pour organiser à la perfection le plus beau jour de leur vie. Pour vous inscrire gratuitement, indiquez [ici]({{< relref "pages/registration" >}}) votre adresse e-mail.
+SeaTable n'aide pas seulement les témoins de mariage : les futurs mariés peuvent également utiliser SeaTable comme [organisateur de mariage]({{< relref "templates/everyday-life/wedding-planner" >}}) gratuit pour organiser à la perfection le plus beau jour de leur vie. Pour vous inscrire gratuitement, indiquez [ici]({{< relref "pages/registration" >}}) votre adresse e-mail.
