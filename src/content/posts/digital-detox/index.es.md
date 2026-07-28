@@ -186,7 +186,7 @@ Un error frecuente en la desintoxicación digital consiste en demonizar de repen
 Las útiles plantillas de SeaTable pueden serle de gran ayuda:
 
 *   Con el [gestor de hábitos]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) puede hacer un seguimiento de sus objetivos personales y establecer hábitos saludables.
-*   Con el [planificador de viajes]({{< relref "templates/events/travel-planner" >}}) puede preparar sus próximas vacaciones de desintoxicación digital o llevar un [diario de viaje]({{< relref "posts/reisetagebuch" >}}).
+*   Con el [planificador de viajes]({{< relref "templates/everyday-life/travel-planner" >}}) puede preparar sus próximas vacaciones de desintoxicación digital o llevar un [diario de viaje]({{< relref "posts/reisetagebuch" >}}).
 *   Cree su [plan de entrenamiento personal]({{< relref "templates/healthcare/personal-exercise-guide" >}}) y documente sus progresos.
 
 {{< tabs

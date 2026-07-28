@@ -166,7 +166,7 @@ sections:
       - headline: Alternativa aos planeadores estáticos
         text: 'Organize o seu dia a dia académico na SeaTable com muito mais flexibilidade do que em calendários, Excel ou Word, graças a tabelas ligadas, vistas personalizadas, formulários e automações para universidade, instituto politécnico e grupo de estudo.'
       - headline: Ligar estudos e bibliografia
-        text: 'Ligue o seu planeador de estudos diretamente a uma [bibliografia]({{< relref "templates/projects/bibliography" >}}), para que livros, fontes, textos de seminário e materiais convirjam de forma estruturada com módulos, trabalhos e a sua organização do semestre.'
+        text: 'Ligue o seu planeador de estudos diretamente a uma [bibliografia]({{< relref "templates/everyday-life/bibliography" >}}), para que livros, fontes, textos de seminário e materiais convirjam de forma estruturada com módulos, trabalhos e a sua organização do semestre.'
       - headline: Proteção de dados na Alemanha
         text: 'Quando usa a SeaTable Cloud ou a IA integrada, os seus dados sobre cursos, notas e documentos de estudo permanecem na Europa: a infraestrutura é operada exclusivamente em servidores localizados na Alemanha, segundo normas europeias rigorosas.'
       - headline: Acesso seguro e controlado 

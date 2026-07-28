@@ -186,7 +186,7 @@ Une erreur fréquente lors d'une détox digitale consiste à diaboliser soudaine
 Des modèles utiles de SeaTable peuvent vous y aider :
 
 *   Suivez vos objectifs personnels avec le [Suivi d'habitudes]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) et instaurez des habitudes saines.
-*   Préparez vos prochaines vacances de détox digitale avec le [Planificateur de voyage]({{< relref "templates/events/travel-planner" >}}) ou tenez un [carnet de voyage]({{< relref "posts/reisetagebuch" >}}).
+*   Préparez vos prochaines vacances de détox digitale avec le [Planificateur de voyage]({{< relref "templates/everyday-life/travel-planner" >}}) ou tenez un [carnet de voyage]({{< relref "posts/reisetagebuch" >}}).
 *   Créez votre [plan d'entraînement personnel]({{< relref "templates/healthcare/personal-exercise-guide" >}}) et documentez vos progrès.
 
 {{< tabs

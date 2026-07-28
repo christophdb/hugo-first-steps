@@ -151,7 +151,7 @@ SeaTable ist eine No-Code-Datenbank mit KI-Funktionen und integriertem App Build
 
 Ein großer Vorteil von SeaTable ist, dass Sie **Tabellen über Verknüpfungsspalten miteinander in Beziehung setzen können.** So können Sie Ihre geplanten oder gebuchten Aktivitäten im Reiseplaner (Tabelle 1) mit einer Kostenübersicht (Tabelle 2) und Ihrem Reisetagebuch (Tabelle 4) verbinden. Abgerundet wird die Vorlage von der praktischen Pack- und [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}) in Tabelle 3.
   
-Das absolute Highlight ist aber die auf den Tabellen basierende **Reisetagebuch App**. Erfassen Sie über ein Formular auf strukturierte Weise neue Tagebucheinträge, laden Sie Bilder hoch und sehen Sie sich diese in einer übersichtlichen Galerie an oder blättern Sie mit je einer gestalteten Seite pro Eintrag durch Ihr Tagebuch. Lassen Sie mit dem [Reiseplaner]({{< relref "templates/events/travel-planner" >}}) aus Ihren Ideen verbindliche Buchungen und bleibende Erinnerungen werden!
+Das absolute Highlight ist aber die auf den Tabellen basierende **Reisetagebuch App**. Erfassen Sie über ein Formular auf strukturierte Weise neue Tagebucheinträge, laden Sie Bilder hoch und sehen Sie sich diese in einer übersichtlichen Galerie an oder blättern Sie mit je einer gestalteten Seite pro Eintrag durch Ihr Tagebuch. Lassen Sie mit dem [Reiseplaner]({{< relref "templates/everyday-life/travel-planner" >}}) aus Ihren Ideen verbindliche Buchungen und bleibende Erinnerungen werden!
 
 ![Reisetagebuch App](travel-diary-app.gif)
 

@@ -24,7 +24,10 @@ Puede encontrar información sobre cómo activar el plugin en una base [aquí]({
 
 Una vez que haya configurado y abierto el plugin de relaciones entre tablas, verá en primer lugar **todas** las tablas de la base. **Todas las columnas** que se crean en las respectivas tablas aparecen bajo los nombres de tabla coloreados.
 
-Para visualizar las relaciones de la tabla, no sólo verá **líneas continuas** para los enlaces _directos_ a través de [columnas de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sino también **líneas discontinuas** para los enlaces _indirectos_ a través de columnas de fórmulas de enlace (por ejemplo, [búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
+Para visualizar las relaciones de la tabla, no sólo verá **líneas continuas** para los enlaces _directos_ a través de [columnas de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sino también **líneas discontinuas** para los enlaces _indirectos_ a través de columnas de fórmulas de enlace (por ejemplo, [búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}})).
+
+**Vea nuestro vídeo explicativo con subtítulos en espanhol.**
+{{< youtube Qu0fuxvrdsY >}}
 
 ## Gestión de un diagrama de relaciones
 

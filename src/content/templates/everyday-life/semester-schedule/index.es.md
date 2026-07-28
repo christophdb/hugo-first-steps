@@ -166,7 +166,7 @@ sections:
       - headline: Alternativa a planificadores estáticos
         text: 'Organice su día a día académico en SeaTable con mucha más flexibilidad que en calendarios, Excel o Word, gracias a tablas vinculadas, vistas personalizadas, formularios y automatizaciones para universidad, centro de estudios superiores y grupo de estudio.'
       - headline: Vincule estudios y bibliografía
-        text: 'Conecte su planificador de estudios directamente con una [bibliografía]({{< relref "templates/projects/bibliography" >}}), para que libros, fuentes, textos de seminario y materiales converjan de forma estructurada con módulos, trabajos y su organización del semestre.'
+        text: 'Conecte su planificador de estudios directamente con una [bibliografía]({{< relref "templates/everyday-life/bibliography" >}}), para que libros, fuentes, textos de seminario y materiales converjan de forma estructurada con módulos, trabajos y su organización del semestre.'
       - headline: Protección de datos alemana
         text: 'Cuando usa SeaTable Cloud o la IA integrada, sus datos sobre cursos, notas y documentos de estudio permanecen en Europa: la infraestructura se opera exclusivamente en servidores ubicados en Alemania, conforme a estrictos estándares europeos.'
       - headline: Acceso seguro y controlado 
