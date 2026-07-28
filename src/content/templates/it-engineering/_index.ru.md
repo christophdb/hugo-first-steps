@@ -1,5 +1,5 @@
 ---
-title: 'Разработка программного обеспечения'
+title: 'Pазработка программного обеспечения'
 url: '/ru/shablon/it-razrabotka-programmnogo-obespecheniya'
 aliases:
     - '/ru/шаблоны/разработка-программного-обеспечения'
