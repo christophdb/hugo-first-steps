@@ -25,6 +25,8 @@ Lesen Sie im Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/b
 
 Bei jeder Überprüfung können Sie nur die doppelten Einträge in **einer** Tabellenansicht anzeigen lassen, jedoch **mehrere Spalten** gleichzeitig überprüfen.
 
+{{< youtube xkqOHFbHS7k >}}
+
 ## Sichten der doppelten Einträge
 
 Die **doppelten Einträge** werden Ihnen direkt in Tabellenform angezeigt, sobald Sie die zu überprüfende(n) Tabellenspalte(n) ausgewählt haben.

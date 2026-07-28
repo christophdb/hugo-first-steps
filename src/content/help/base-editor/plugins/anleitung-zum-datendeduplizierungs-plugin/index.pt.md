@@ -27,6 +27,9 @@ Leia o artigo [Activando um Plugin numa Base]({{< relref "help/base-editor/plugi
 
 Para cada verificação, é possível exibir apenas as entradas duplicadas **numa** vista de tabela, mas é possível verificar **várias colunas** ao mesmo tempo.
 
+**Veja o nosso vídeo explicativo com legendas em português.**
+{{< youtube xkqOHFbHS7k >}}
+
 ## Visualizar os registos duplicados
 
 As **entradas duplicadas** são exibidas directamente em forma de tabela, logo que se tenha seleccionado a(s) coluna(s) da tabela a ser(em) verificada(s).

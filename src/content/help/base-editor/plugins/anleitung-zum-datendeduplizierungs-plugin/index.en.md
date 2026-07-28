@@ -27,6 +27,8 @@ Read the article [Activating a Plugin in a base]({{< relref "help/base-editor/pl
 
 For each check, you can display only the duplicate entries in **a** table view, but check **multiple columns** at once.
 
+{{< youtube VSDUxLiFxjc >}}
+
 ## Viewing the duplicate entries
 
 The **duplicate entries** are displayed directly in table form as soon as you have selected the table column(s) to be checked.
