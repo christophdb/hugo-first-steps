@@ -26,6 +26,8 @@ Once you have set up and opened the table relationships plugin, you will first s
 
 To visualize the table relationships, you will not only see **solid lines** for _direct_ links via [link columns]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), but also **dashed lines** for _indirect_ links via link formula columns (e.g. [lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}})).
 
+{{< youtube pZXZlIzzhFQ >}}
+
 ## Managing a relationship chart
 
 By default, a chart with all table relationships is already created when the table relationships plugin is opened for the first time. If you would like to create another relationship chart, click on {{< seatable-icon icon="dtable-icon-add-table" >}} **Add relationship chart**. This opens an input field in which you can enter the desired **name**.
