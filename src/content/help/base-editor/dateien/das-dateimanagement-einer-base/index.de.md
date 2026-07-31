@@ -16,6 +16,8 @@ Die **Dateiverwaltung** revolutioniert den Umgang mit Dateien in Ihrer Base. Sie
 
 In diesem Übersichtsartikel finden Sie alle Informationen zum Aufbau und zu den einzelnen Funktionen der Dateiverwaltung.
 
+{{< youtube 173mYvEaJuk >}}
+
 ## Die Dateiverwaltung in der Übersicht
 
 In der Dateiverwaltung befinden sich verschiedene Ordner, die wiederum verschiedene Dateien enthalten. Grundsätzlich lässt sich zwischen **drei Ordner-Typen** unterscheiden:
