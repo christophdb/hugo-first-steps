@@ -18,6 +18,9 @@ seo:
 
 Neste artigo de síntese, encontrará todas as informações sobre a estrutura e as funções individuais do gestor de ficheiros.
 
+**Veja o nosso vídeo explicativo com legendas em português.**
+{{< youtube 173mYvEaJuk >}}
+
 ## Visão geral da gestão de ficheiros
 
 O gestor de ficheiros contém várias pastas, que por sua vez contêm vários ficheiros. Pode ser feita uma distinção básica entre **três tipos de pastas**:
