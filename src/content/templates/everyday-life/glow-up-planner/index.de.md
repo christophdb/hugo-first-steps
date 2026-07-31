@@ -17,7 +17,7 @@ sections:
        text: 'Sie stehen jeden Morgen vor dem Spiegel und wissen genau, was Sie verändern möchten – doch sobald der Tag startet, gehen gute Vorsätze im Alltag unter. Die neue Skin-Care-Routine wird vergessen, das Workout verschoben und Ihre Selfcare-Ideen liegen verstreut in verschiedenen Apps. **Mit der Glow-up-Planer-Vorlage von SeaTable bringen Sie Struktur in Ihre persönliche Self-Improvement-Reise**: Nutzen Sie die Vorlage, um eine tägliche Glow-up-Checkliste zu führen, Gewohnheiten zu tracken und Ihren Fortschritt mit Vorher-Nachher-Dokumentation sichtbar zu machen. Dabei spielt es keine Rolle, ob Sie nur eine neue Morgenroutine oder Abendroutine entwickeln oder langfristige Ziele festhalten möchten. Mit der Glow-up-Planer-Vorlage von SeaTable bündeln Sie alles in einem Tool und **machen aus guten Vorsätzen Routinen**.'
        classes:
            - bg-white
-       template: 
+       template: f00eb095f0cc4918a638
        buttons:
            - label: Jetzt kostenlosen Glow-up Planer nutzen
              link_to_template: true
