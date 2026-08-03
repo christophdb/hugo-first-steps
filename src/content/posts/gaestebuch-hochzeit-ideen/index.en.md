@@ -181,7 +181,7 @@ For your guestbook ideas to take off on the wedding day, good preparation is adv
 
 ## Creating Your Digital Wedding Guestbook: SeaTable as a Flexible Organization Platform
 
-SeaTable's [wedding planner]({{< relref "templates/events/wedding-planner" >}}) is a real game changer. It contains not only valuable **checklists and overviews** for organizing your wedding, but also an integrated **digital guestbook**. Instead of a blank page, your guests get a web form with small tasks and creative questions to fill out. All guests can submit their contributions **at the same time** and cannot copy from one another, so the content becomes truly unique.
+SeaTable's [wedding planner]({{< relref "templates/everyday-life/wedding-planner" >}}) is a real game changer. It contains not only valuable **checklists and overviews** for organizing your wedding, but also an integrated **digital guestbook**. Instead of a blank page, your guests get a web form with small tasks and creative questions to fill out. All guests can submit their contributions **at the same time** and cannot copy from one another, so the content becomes truly unique.
 
 {{< template id="de0ea6ddde484de99645" >}}
 

@@ -186,7 +186,7 @@ Ein häufiger Fehler beim Digital Detox besteht darin, plötzlich alles, was dig
 Nützliche Vorlagen von SeaTable können Ihnen dabei behilflich sein:
 
 *   Verfolgen Sie mit dem [Habit Tracker]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) Ihre persönlichen Ziele und etablieren Sie gesunde Gewohnheiten.
-*   Bereiten Sie mit dem [Reiseplaner]({{< relref "templates/events/travel-planner" >}}) Ihren nächsten Digital Detox Urlaub vor oder führen Sie ein [Reisetagebuch]({{< relref "posts/reisetagebuch" >}}).
+*   Bereiten Sie mit dem [Reiseplaner]({{< relref "templates/everyday-life/travel-planner" >}}) Ihren nächsten Digital Detox Urlaub vor oder führen Sie ein [Reisetagebuch]({{< relref "posts/reisetagebuch" >}}).
 *   Erstellen Sie Ihren [persönlichen Trainingsplan]({{< relref "templates/healthcare/personal-exercise-guide" >}}) und dokumentieren Sie Ihre Fortschritte.
 
 {{< tabs

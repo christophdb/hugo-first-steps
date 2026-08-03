@@ -151,7 +151,7 @@ SeaTable est une base de données No-Code dotée de fonctions d'IA et d'un App B
 
 L'un des grands atouts de SeaTable est que vous pouvez **relier vos tableaux entre eux via des colonnes de liaison.** Vous pouvez ainsi connecter vos activités prévues ou réservées dans le planificateur de voyage (tableau 1) avec un aperçu des coûts (tableau 2) et votre carnet de voyage (tableau 4). Le modèle est complété par la pratique liste de bagages et [liste de tâches]({{< relref "templates/projects/to-do-list" >}}) dans le tableau 3.
 
-Mais le point fort absolu est l'**application de carnet de voyage** basée sur les tableaux. Saisissez de nouvelles entrées de journal de manière structurée via un formulaire, téléchargez des images et consultez-les dans une galerie claire, ou feuilletez votre journal avec une page mise en forme pour chaque entrée. Transformez vos idées en réservations concrètes et en souvenirs durables grâce au [planificateur de voyage]({{< relref "templates/events/travel-planner" >}}) !
+Mais le point fort absolu est l'**application de carnet de voyage** basée sur les tableaux. Saisissez de nouvelles entrées de journal de manière structurée via un formulaire, téléchargez des images et consultez-les dans une galerie claire, ou feuilletez votre journal avec une page mise en forme pour chaque entrée. Transformez vos idées en réservations concrètes et en souvenirs durables grâce au [planificateur de voyage]({{< relref "templates/everyday-life/travel-planner" >}}) !
 
 ![Application de carnet de voyage](travel-diary-app.gif)
 

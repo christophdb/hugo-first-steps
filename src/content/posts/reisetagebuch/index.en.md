@@ -151,7 +151,7 @@ SeaTable is a No-Code database with AI features and an integrated App Builder. T
 
 A major advantage of SeaTable is that you can **relate tables to each other via link columns.** This way, you can connect your planned or booked activities in the travel planner (table 1) with a cost overview (table 2) and your travel diary (table 4). The template is rounded off by the practical packing and [to-do list]({{< relref "templates/projects/to-do-list" >}}) in table 3.
   
-The absolute highlight, however, is the **travel diary app** based on the tables. Record new diary entries in a structured way via a form, upload images and view them in a clear gallery, or flip through your diary with a designed page for each entry. Turn your ideas into binding bookings and lasting memories with the [travel planner]({{< relref "templates/events/travel-planner" >}})!
+The absolute highlight, however, is the **travel diary app** based on the tables. Record new diary entries in a structured way via a form, upload images and view them in a clear gallery, or flip through your diary with a designed page for each entry. Turn your ideas into binding bookings and lasting memories with the [travel planner]({{< relref "templates/everyday-life/travel-planner" >}})!
 
 ![Travel diary app](travel-diary-app.gif)
 

@@ -18,6 +18,8 @@ seo:
 
 In this overview article you will find all information on the structure and individual functions of the file manager.
 
+{{< youtube 8BuAuqKgYtQ >}}
+
 ## Overview of file management
 
 The file manager contains various folders, which in turn contain various files. A basic distinction can be made between **three folder types**:

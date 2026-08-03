@@ -18,6 +18,9 @@ Le **gestionnaire de fichiers** révolutionne l'utilisation des fichiers dans vo
 
 Dans cet article de synthèse, vous trouverez toutes les informations sur la structure et les différentes fonctions du gestionnaire de fichiers.
 
+**Regardez notre vidéo explicative sous-titrée en français.**
+{{< youtube 173mYvEaJuk >}}
+
 ## Aperçu de la gestion des fichiers
 
 Dans le gestionnaire de fichiers se trouvent différents dossiers qui contiennent à leur tour différents fichiers. En principe, on peut distinguer **trois types de dossiers**:

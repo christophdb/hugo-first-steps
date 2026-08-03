@@ -181,7 +181,7 @@ Para que sus ideas de libro de visitas triunfen el día de la boda, se recomiend
 
 ## Cree su libro de visitas de boda digital: SeaTable como plataforma de organización flexible
 
-El [planificador de bodas]({{< relref "templates/events/wedding-planner" >}}) de SeaTable es un auténtico cambio de juego. No solo incluye valiosas **listas de tareas y resúmenes** para organizar su boda, sino también un **libro de visitas digital** integrado. En lugar de una página en blanco, sus invitados reciben un formulario web con pequeñas tareas y preguntas creativas para completar. Todos los invitados pueden enviar sus aportaciones **al mismo tiempo** y no copiarse unos de otros, para que los contenidos sean realmente únicos.
+El [planificador de bodas]({{< relref "templates/everyday-life/wedding-planner" >}}) de SeaTable es un auténtico cambio de juego. No solo incluye valiosas **listas de tareas y resúmenes** para organizar su boda, sino también un **libro de visitas digital** integrado. En lugar de una página en blanco, sus invitados reciben un formulario web con pequeñas tareas y preguntas creativas para completar. Todos los invitados pueden enviar sus aportaciones **al mismo tiempo** y no copiarse unos de otros, para que los contenidos sean realmente únicos.
 
 {{< template id="de0ea6ddde484de99645" >}}
 

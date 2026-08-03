@@ -27,6 +27,9 @@ Consultez l'article [Activer un plugin dans une base]({{< relref "help/base-edit
 
 Lors de chaque vérification, vous pouvez n'afficher que les entrées en double dans **une** vue de tableau, mais vérifier **plusieurs colonnes** à la fois.
 
+**Regardez notre vidéo explicative sous-titrée en français.**
+{{< youtube xkqOHFbHS7k >}}
+
 ## Visualisation des entrées en double
 
 Les **entrées en double** s'affichent directement sous forme de tableau dès que vous avez sélectionné la ou les colonnes du tableau à vérifier.

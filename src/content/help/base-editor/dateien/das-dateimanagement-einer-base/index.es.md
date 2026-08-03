@@ -18,6 +18,10 @@ La **gestión de** archivos revoluciona la forma de manejar los archivos en tu B
 
 En este artículo general encontrarás toda la información sobre la estructura y las funciones individuales del gestor de archivos.
 
+**Vea nuestro vídeo explicativo con subtítulos en espanhol.**
+{{< youtube 173mYvEaJuk >}}
+
+
 ## Visión general de la gestión de archivos
 
 El gestor de archivos contiene varias carpetas, que a su vez contienen varios archivos. Se puede hacer una distinción básica entre **tres tipos de** carpetas:

@@ -24,7 +24,10 @@ Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "h
 
 Lorsque vous avez configuré et ouvert le plug-in Relations entre les tableaux, vous voyez d'abord **tous les tableaux** qui se trouvent dans la base. Sous les noms de tableau en couleur sont listées **toutes les colonnes** qui ont été créées dans les tableaux respectives.
 
-Pour visualiser les liens des tableaux, vous verrez non seulement **des lignes pleines** pour les liens _directs_ via les [colonnes de liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), mais aussi des **lignes en pointillés** pour les liens _indirects_ via les colonnes de formules de liens (par exemple [les lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
+Pour visualiser les liens des tableaux, vous verrez non seulement **des lignes pleines** pour les liens _directs_ via les [colonnes de liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), mais aussi des **lignes en pointillés** pour les liens _indirects_ via les colonnes de formules de liens (par exemple [les lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}})).
+
+**Regardez notre vidéo explicative sous-titrée en français.**
+{{< youtube Qu0fuxvrdsY >}}
 
 ## Gestion d'un diagramme de relations
 

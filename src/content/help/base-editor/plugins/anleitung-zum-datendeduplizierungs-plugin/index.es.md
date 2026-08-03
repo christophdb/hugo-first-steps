@@ -27,6 +27,9 @@ Lea el artículo [Activar un plugin en una base]({{< relref "help/base-editor/pl
 
 Para cada comprobación, puede mostrar sólo las entradas duplicadas en **una** vista de tabla, pero puede comprobar **varias columnas** al mismo tiempo.
 
+**Vea nuestro vídeo explicativo con subtítulos en espanhol.**
+{{< youtube xkqOHFbHS7k >}}
+
 ## Ver las entradas duplicadas
 
 Las **entradas duplicadas** se muestran directamente en forma de tabla en cuanto haya seleccionado la columna o columnas de la tabla que desea comprobar.
