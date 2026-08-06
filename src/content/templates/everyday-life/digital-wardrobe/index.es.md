@@ -47,7 +47,24 @@ sections:
           text: 'Anote fechas importantes, ocasiones especiales o viajes en el calendario y planifique sus conjuntos con antelación gracias a la práctica vista de calendario.' 
         - icon: 'chart-line'
           headline: 'Paneles de control'
-          text: "¿Cuántos pantalones o chaquetas tiene? ¿O ropa adecuada para el invierno? Con los paneles de estadísticas claros, siempre lo sabrá."  
+          text: "¿Cuántos pantalones o chaquetas tiene? ¿O ropa adecuada para el invierno? Con los paneles de estadísticas claros, siempre lo sabrá."
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes de todo el mundo confían en SeaTable"
+      subtitle: "¿Quién usa SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Descargas el primer año desde Docker Hub
+      - number: "1.500+"
+        text: "Usuarios diarios en SeaTable Cloud"
+      - number: "4,6"
+        text: "Valoración en Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en acción: casos de éxito"
+          id: es-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

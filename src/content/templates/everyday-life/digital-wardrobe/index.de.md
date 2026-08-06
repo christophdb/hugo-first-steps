@@ -49,6 +49,23 @@ sections:
           headline: 'Dashboards'
           text: 'Wie viele Hosen oder Jacken besitzen Sie? Oder passende Winterkleidung? Mit den übersichtlichen Statistik-Dashboards wissen Sie jederzeit Bescheid.'  
 
+    - name: "customer-1"
+      weight: 4
+      title: "Führende Unternehmen weltweit vertrauen auf SeaTable"
+      subtitle: "Wer nutzt SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads im ersten Jahr von Docker Hub
+      - number: "1.500+"
+        text: "Tägliche Nutzer auf SeaTable Cloud"
+      - number: "4.6"
+        text: "Bewertung auf Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable im Einsatz - Erfolgsgeschichten"
+          id: de-homepage-customer-1
+
     - name: "content-12"
       weight: 5
       classes:

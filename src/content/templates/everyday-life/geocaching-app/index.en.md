@@ -46,7 +46,24 @@ sections:
           text: "With SeaTable's geocaching app, you can always keep track of cache locations, logbook entries, trackables, and statistics." 
         - icon: 'chart-line'
           headline: 'Statistics & Analysis'
-          text: 'Informative dashboards show you at a glance how many active caches you have and how many finds have been logged.'  
+          text: 'Informative dashboards show you at a glance how many active caches you have and how many finds have been logged.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide trust SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100,000+"
+        text: Downloads in the first year on Docker Hub
+      - number: "1,500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Rating on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action – success stories"
+          id: en-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

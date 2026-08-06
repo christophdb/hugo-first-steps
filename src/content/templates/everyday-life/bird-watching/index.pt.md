@@ -46,7 +46,24 @@ sections:
           text: 'Associe nomes de espécies, fotos de aves autóctones, dados de avistamentos e locais num único sistema. Assim não precisa de alternar entre app de identificação, galeria, mapa e bloco de notas, e gere toda a sua observação de aves de forma central.' 
         - icon: 'up-right-and-down-left-from-center'
           headline: 'Escolha a vista certa'
-          text: 'Use a vista de galeria para as suas melhores fotos, tabelas para o registo de avistamentos ou mapas para hotspots e aves migratórias. A sua app de aves personalizada mantém-se organizada e ajuda-o a identificar e comparar aves autóctones.'  
+          text: 'Use a vista de galeria para as suas melhores fotos, tabelas para o registo de avistamentos ou mapas para hotspots e aves migratórias. A sua app de aves personalizada mantém-se organizada e ajuda-o a identificar e comparar aves autóctones.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam na SeaTable"
+      subtitle: "Quem utiliza a SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Transferências no primeiro ano no Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários na SeaTable Cloud"
+      - number: "4,6"
+        text: "Avaliação no Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação – casos de sucesso"
+          id: pt-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
@@ -55,13 +72,14 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Identificar e documentar aves sem esforço'
       subtitle: 'Observação de aves com SeaTable'
-      description: 'Com a plataforma de IA no-code SeaTable, utiliza uma app de aves que lhe oferece mais do que as apps de identificação clássicas ou notas dispersas. Além de identificar aves com uma app, cria também a sua própria base de dados para avistamentos, fotos e locais. Sobretudo quando quer identificar aves autóctones e guardar fotos, a combinação entre ajuda à identificação e documentação flexível é especialmente valiosa. Na sua app de aves pessoal, reúne observação de aves, documentação fotográfica e lista de espécies num só lugar.'
+      description: 'Com a [plataforma de IA no-code]({{< relref "/" >}}) SeaTable, utiliza uma app de aves que lhe oferece mais do que as apps de identificação clássicas ou notas dispersas. Além de identificar aves com uma app, cria também a sua própria base de dados para avistamentos, fotos e locais. Sobretudo quando quer identificar aves autóctones e guardar fotos, a combinação entre ajuda à identificação e documentação flexível é especialmente valiosa. Na sua app de aves pessoal, reúne observação de aves, documentação fotográfica e lista de espécies num só lugar.'
       items:
       - text: '**Uma base de dados própria em vez de papelada**: Registe cada avistamento diretamente em formato digital e associe fotos, nomes de espécies e dados de observação sem quebras entre ferramentas.'
       - text: '**Sempre à mão**: Abra a sua app de aves a qualquer momento e em qualquer lugar, por exemplo para adicionar novos avistamentos ou comparar fotos de aves autóctones já registadas.'
       - text: '**Disponível a qualquer hora**: Utilize a sua app de aves em movimento no telemóvel ou em casa no computador para identificar aves, comparar fotos e criar novos registos.'
       - text: '**Sem conhecimentos prévios**: A SeaTable tem uma interface intuitiva e adapta-se como base de dados no-code, sem programação, aos seus fluxos de trabalho de ornitologia.' 
-      - text: '**Para jardim, excursão e ciência cidadã**: Documente aves autóctones, aves migratórias ou visitantes raros e amplie o modelo a qualquer momento com critérios próprios.**Em conformidade com o RGPD**: Na SeaTable, os seus dados são alojados em conformidade com o RGPD nos servidores da empresa suíça Exoscale, em Frankfurt.'
+      - text: '**Para jardim, excursão e ciência cidadã**: Documente aves autóctones, aves migratórias ou visitantes raros e amplie o modelo a qualquer momento com critérios próprios.'
+      - text: '**Em conformidade com o RGPD**: Na SeaTable, os seus dados são alojados em conformidade com o RGPD nos servidores da empresa suíça Exoscale, em Frankfurt.'
       image_position: [left]
       image: '/images/template_page_birdwatching_01.png'
       image_alt: 'App de aves com lista de espécies e vista geral dos avistamentos para uma observação de aves organizada.'

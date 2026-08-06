@@ -46,7 +46,24 @@ sections:
           text: "Reliez noms d'espèces, photos d'oiseaux locaux, données d'observation et lieux dans un seul système. Plus besoin de jongler entre appli d'identification, galerie, carte et carnet : vous gérez toute votre observation des oiseaux au même endroit." 
         - icon: 'up-right-and-down-left-from-center'
           headline: 'Choisir la bonne vue'
-          text: "Utilisez la vue galerie pour vos plus belles photos, les tableaux pour votre journal d'observations ou les cartes pour les hotspots et oiseaux migrateurs. Votre application oiseaux reste claire et vous aide à identifier et comparer les oiseaux locaux."  
+          text: "Utilisez la vue galerie pour vos plus belles photos, les tableaux pour votre journal d'observations ou les cartes pour les hotspots et oiseaux migrateurs. Votre application oiseaux reste claire et vous aide à identifier et comparer les oiseaux locaux."
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Des entreprises de premier plan font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable ?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Téléchargements la 1re année sur Docker Hub
+      - number: "1 500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4,6"
+        text: "Note sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action – témoignages clients"
+          id: fr-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
@@ -55,13 +72,14 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: "Reconnaître et documenter les oiseaux, facilement"
       subtitle: "L'observation avec SeaTable"
-      description: "Avec la plateforme IA no-code SeaTable, vous disposez d'une application oiseaux qui offre bien plus que les applis d'identification classiques ou des notes éparses. Vous pouvez non seulement reconnaître les oiseaux avec une appli, mais aussi bâtir votre propre base de données pour vos observations, photos et lieux. C'est particulièrement utile lorsque vous voulez identifier les oiseaux locaux et enregistrer des photos : l'aide à l'identification et la documentation flexible se combinent. Dans votre application oiseaux personnelle, observation de la nature, documentation photo et liste d'espèces sont réunies au même endroit."
+      description: Avec [la plateforme IA no-code]({{< relref "/" >}}) SeaTable, vous disposez d'une application oiseaux qui offre bien plus que les applis d'identification classiques ou des notes éparses. Vous pouvez non seulement reconnaître les oiseaux avec une appli, mais aussi bâtir votre propre base de données pour vos observations, photos et lieux. C'est particulièrement utile lorsque vous voulez identifier les oiseaux locaux et enregistrer des photos – l'aide à l'identification et la documentation flexible se combinent. Dans votre application oiseaux personnelle, observation de la nature, documentation photo et liste d'espèces sont réunies au même endroit.
       items:
       - text: "**Une vraie base de données, fini les bouts de papier** : saisissez chaque observation directement en numérique et reliez photos, noms d'espèces et données d'observation sans rupture d'outil."
       - text: "**Toujours à portée de main** : ouvrez votre application oiseaux à tout moment et où que vous soyez, par exemple pour ajouter de nouvelles observations ou comparer des espèces."
       - text: "**Disponible à tout moment** : utilisez votre application oiseaux en déplacement sur smartphone ou chez vous au bureau pour identifier les oiseaux, comparer des photos et créer de nouvelles entrées."
       - text: "**Aucune connaissance requise** : SeaTable offre une interface intuitive et s'adapte comme base de données no-code à vos flux de travail en ornithologie, sans compétences en programmation." 
-      - text: "**Pour le jardin, l'excursion et la science citoyenne** : documentez oiseaux locaux, migrateurs ou visiteurs rares et enrichissez le modèle de vos propres critères. **Conforme au RGPD** : vos données sont hébergées selon le RGPD sur les serveurs de l'entreprise suisse Exoscale à Francfort."
+      - text: "**Pour le jardin, l'excursion et la science citoyenne** : documentez oiseaux locaux, migrateurs ou visiteurs rares et enrichissez le modèle de vos propres critères." 
+      - text: "**Conforme au RGPD** : vos données sont hébergées selon le RGPD sur les serveurs de l'entreprise suisse Exoscale à Francfort."
       image_position: [left]
       image: '/images/template_page_birdwatching_01.png'
       image_alt: "Application oiseaux SeaTable avec liste d'espèces et aperçu clair des observations enregistrées et de leurs lieux"

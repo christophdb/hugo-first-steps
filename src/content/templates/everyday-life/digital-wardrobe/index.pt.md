@@ -47,7 +47,24 @@ sections:
           text: 'Registe datas importantes, ocasiões especiais ou viagens no calendário e planeie as suas roupas com antecedência, com a prática visualização do calendário.' 
         - icon: 'chart-line'
           headline: 'Painéis'
-          text: "Quantas calças ou casacos possui? Ou roupas adequadas para o inverno? Com os painéis de estatísticas claros, estará sempre a par."  
+          text: "Quantas calças ou casacos possui? Ou roupas adequadas para o inverno? Com os painéis de estatísticas claros, estará sempre a par."
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam na SeaTable"
+      subtitle: "Quem utiliza a SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Transferências no primeiro ano no Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários na SeaTable Cloud"
+      - number: "4,6"
+        text: "Avaliação no Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação – casos de sucesso"
+          id: pt-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

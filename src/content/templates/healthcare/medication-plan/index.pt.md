@@ -104,6 +104,23 @@ sections:
         image: '/images/Template-Page_Medikamentenplan_Screenshot_4.png'
         image_alt: "Modelo de plano de medicamentos: Armazenamento de dados em conformidade com o RGPD, controlo de acesso, servidores alemães."
 
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam na SeaTable"
+      subtitle: "Quem utiliza a SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Transferências no primeiro ano no Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários na SeaTable Cloud"
+      - number: "4,6"
+        text: "Avaliação no Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação – casos de sucesso"
+          id: pt-homepage-customer-1    
+
     - name: "banner-3"
       weight: 12
       title: Controlo total da sua medicação - dosagem e ingestão sempre à vista

@@ -46,7 +46,24 @@ sections:
           text: 'Síntomas, calendario de alergia al polen, lista de medicamentos: en SeaTable todo está vinculado y disponible en cualquier momento.'
         - icon: 'bell'
           headline: 'Panel de síntomas'
-          text: 'Paneles informativos le muestran la evolución de sus síntomas, las molestias más frecuentes y qué medicamentos ha utilizado más.' 
+          text: 'Paneles informativos le muestran la evolución de sus síntomas, las molestias más frecuentes y qué medicamentos ha utilizado más.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes de todo el mundo confían en SeaTable"
+      subtitle: "¿Quién usa SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Descargas el primer año desde Docker Hub
+      - number: "1.500+"
+        text: "Usuarios diarios en SeaTable Cloud"
+      - number: "4,6"
+        text: "Valoración en Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en acción: casos de éxito"
+          id: es-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

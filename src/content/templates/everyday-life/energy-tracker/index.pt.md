@@ -46,7 +46,24 @@ sections:
           text: 'O monitor de energia para eletricidade, gás, água, dados do contrato e faturas anuais – tudo centralizado e à vista de imediato.' 
         - icon: 'chart-line'
           headline: 'Painéis'
-          text: "Os painéis de controlo mostram-lhe, num relance, como o seu consumo varia ao longo do ano. Desta forma, poderá identificar imediatamente os picos de consumo."  
+          text: "Os painéis de controlo mostram-lhe, num relance, como o seu consumo varia ao longo do ano. Desta forma, poderá identificar imediatamente os picos de consumo."
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam na SeaTable"
+      subtitle: "Quem utiliza a SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Transferências no primeiro ano no Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários na SeaTable Cloud"
+      - number: "4,6"
+        text: "Avaliação no Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação – casos de sucesso"
+          id: pt-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

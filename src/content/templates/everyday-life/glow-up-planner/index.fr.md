@@ -48,6 +48,23 @@ sections:
            headline: 'Un affichage très clair'
            text: 'Utilisez des vues galerie pour vos produits skincare et vos tenues, des tableaux pour votre checklist glow up ou des vues calendrier pour vos jours de routine. Votre planificateur glow up reste lisible, même avec des centaines d''entrées.'
 
+     - name: "customer-1"
+       weight: 4
+       title: "Des entreprises de premier plan font confiance à SeaTable"
+       subtitle: "Qui utilise SeaTable ?"
+       marquee_rows: 2
+       items: 
+       - number: "100 000+"
+         text: Téléchargements la 1re année sur Docker Hub
+       - number: "1 500+"
+         text: "Utilisateurs quotidiens sur SeaTable Cloud"
+       - number: "4,6"
+         text: "Note sur Capterra"
+       buttons:
+         - link: "categories/customer-story"
+           label: "SeaTable en action – témoignages clients"
+           id: fr-homepage-customer-1      
+
      - name: "content-12"
        weight: 5
        classes:

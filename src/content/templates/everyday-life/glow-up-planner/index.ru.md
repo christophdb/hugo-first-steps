@@ -48,6 +48,23 @@ sections:
            headline: 'Наглядное представление'
            text: 'Используйте представления галереи для средств ухода и образов, таблицы для чек-листа glow up или календарь для дней с рутинами. Так ваш планер glow up остается наглядным и удобным в работе, даже когда в нем накопились сотни записей за год.'
 
+     - name: "customer-1"
+       weight: 4
+       title: "Ведущие компании по всему миру доверяют SeaTable"
+       subtitle: "Кто использует SeaTable?"
+       marquee_rows: 2
+       items: 
+       - number: "100 000+"
+         text: Скачиваний за первый год на Docker Hub
+       - number: "1 500+"
+         text: "Ежедневных пользователей SeaTable Cloud"
+       - number: "4,6"
+         text: "Оценка на Capterra"
+       buttons:
+         - link: "categories/customer-story"
+           label: "SeaTable в деле — истории успеха"
+           id: ru-homepage-customer-1      
+
      - name: "content-12"
        weight: 5
        classes:

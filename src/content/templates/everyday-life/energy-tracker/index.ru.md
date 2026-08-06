@@ -46,7 +46,24 @@ sections:
           text: 'Монитор энергопотребления для учета электроэнергии, газа, воды, данных по договорам и годовых счетов — всё в одном месте.' 
         - icon: 'chart-line'
           headline: 'Панели мониторинга'
-          text: 'Наглядные информационные панели позволяют вам с первого взгляда увидеть, как меняется ваш расход в течение года.'  
+          text: 'Наглядные информационные панели позволяют вам с первого взгляда увидеть, как меняется ваш расход в течение года.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Ведущие компании по всему миру доверяют SeaTable"
+      subtitle: "Кто использует SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Скачиваний за первый год на Docker Hub
+      - number: "1 500+"
+        text: "Ежедневных пользователей SeaTable Cloud"
+      - number: "4,6"
+        text: "Оценка на Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable в деле — истории успеха"
+          id: ru-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

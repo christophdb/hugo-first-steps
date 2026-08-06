@@ -46,7 +46,24 @@ sections:
           text: 'Симптомы, календарь аллергии на пыльцу, список лекарств: в SeaTable все связано и доступно в любой момент.'
         - icon: 'bell'
           headline: 'Панель симптомов'
-          text: 'Наглядные панели показывают динамику Ваших симптомов, самые частые жалобы и то, какие лекарства Вы применяли чаще всего.' 
+          text: 'Наглядные панели показывают динамику Ваших симптомов, самые частые жалобы и то, какие лекарства Вы применяли чаще всего.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Ведущие компании по всему миру доверяют SeaTable"
+      subtitle: "Кто использует SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Скачиваний за первый год на Docker Hub
+      - number: "1 500+"
+        text: "Ежедневных пользователей SeaTable Cloud"
+      - number: "4,6"
+        text: "Оценка на Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable в деле — истории успеха"
+          id: ru-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
