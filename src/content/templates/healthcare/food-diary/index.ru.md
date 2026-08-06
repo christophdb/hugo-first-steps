@@ -49,7 +49,24 @@ sections:
           text: 'Документируйте блюда, недомогания и важную информацию – надежно благодаря встроенным напоминаниям.'
         - icon: 'chart-line'
           headline: 'Аналитика'
-          text: 'Используйте дашборд в Universal App для анализа вашего дневника питания – без дополнительных инструментов.' 
+          text: 'Используйте дашборд в Universal App для анализа вашего дневника питания – без дополнительных инструментов.'
+        
+    - name: "customer-1"
+      weight: 4
+      title: "Ведущие компании по всему миру доверяют SeaTable"
+      subtitle: "Кто использует SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Скачиваний за первый год на Docker Hub
+      - number: "1 500+"
+        text: "Ежедневных пользователей SeaTable Cloud"
+      - number: "4,6"
+        text: "Оценка на Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable в деле — истории успеха"
+          id: ru-homepage-customer-1    
 
     - name: "content-12"
       weight: 5

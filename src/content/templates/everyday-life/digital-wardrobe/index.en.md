@@ -47,7 +47,24 @@ sections:
           text: 'Record important dates, special occasions, or trips in the calendar and plan outfits in advance—with the practical calendar view.' 
         - icon: 'chart-line'
           headline: 'Dashboards'
-          text: "How many pants or jackets do you own? Or suitable winter clothing? With the clear statistics dashboards, you'll always know."  
+          text: "How many pants or jackets do you own? Or suitable winter clothing? With the clear statistics dashboards, you'll always know."
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide trust SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100,000+"
+        text: Downloads in the first year on Docker Hub
+      - number: "1,500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Rating on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action – success stories"
+          id: en-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

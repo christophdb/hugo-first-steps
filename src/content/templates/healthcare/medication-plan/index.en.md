@@ -47,7 +47,24 @@ sections:
           text: 'With the page design plugin you get a printable medication plan - ideal for practice, emergency and travel.'
         - icon: 'bell'
           headline: 'Reminder'
-          text: 'Document income, side effects and important information - integrated reminders provide more security.' 
+          text: 'Document income, side effects and important information - integrated reminders provide more security.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide trust SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100,000+"
+        text: Downloads in the first year on Docker Hub
+      - number: "1,500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Rating on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action – success stories"
+          id: en-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

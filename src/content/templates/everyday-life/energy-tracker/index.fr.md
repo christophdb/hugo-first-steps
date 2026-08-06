@@ -46,7 +46,24 @@ sections:
           text: "le suivi de la consommation d'énergie pour l'électricité, le gaz, l'eau, les données contractuelles et les factures annuelles : tout est visible d'un seul coup d'œil."
         - icon: 'chart-line'
           headline: 'Tableaux de bord'
-          text: Des tableaux de bord pertinents vous permettent de voir d'un seul coup d'œil comment votre consommation évolue au fil de l'année. 
+          text: Des tableaux de bord pertinents vous permettent de voir d'un seul coup d'œil comment votre consommation évolue au fil de l'année.
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Des entreprises de premier plan font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable ?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Téléchargements la 1re année sur Docker Hub
+      - number: "1 500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4,6"
+        text: "Note sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action – témoignages clients"
+          id: fr-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
