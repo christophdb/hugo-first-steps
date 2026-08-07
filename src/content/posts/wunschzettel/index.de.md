@@ -15,7 +15,6 @@ tags:
 color: '#ea5034'
 register:
    show: true
-draft: true
 ---
 
 ### Key Take-aways
