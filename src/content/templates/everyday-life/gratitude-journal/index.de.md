@@ -1,23 +1,23 @@
 ---
 title: 'Dankbarkeitstagebuch'
-description: ''
+description: 'Mit der Dankbarkeitstagebuch Vorlage mit integrierter App richten Sie Ihren Fokus auf die positiven Aspekte in Ihrem Leben. So werden Sie gelassener im Alltag und erleben schöne Momente intensicher und bewusster.'
 date: '2026-08-05'
 url: '/de/vorlage/dankbarkeitstagebuch-vorlage'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Dankbarkeitstagebuch Vorlage von SeaTable – für mehr mentale Stärke im Alltag'
+    description: 'Mit der Dankbarkeitstagebuch Vorlage mit integrierter App richten Sie Ihren Fokus auf die positiven Aspekte in Ihrem Leben. So werden Sie gelassener im Alltag und erleben schöne Momente intensicher und bewusster.'
 
 type: pages
 sections:
      - name: hero-5
        weight: 1
        title: 'Dankbarkeitstagebuch Vorlage für mehr Gelassenheit im Alltag'
-       text: 'Lenken Sie Ihren Fokus weg von Problemen und hin zu den positiven Aspekten Ihres Lebens. Wenn Sie festhalten, was gut läuft und wofür Sie dankbar sind, erkennen Sie Schritt für Schritt Ihre kleinen und großen Erfolge, und finden mehr Achtsamkeit und Wertschätzung in Ihrer täglichen Routine. Die kostenlose SeaTable-Vorlage für ein Dankbarkeitstagebuch hilft Ihnen dabei, Gedanken, Stimmungen und Dankbarkeitsmomente strukturiert zu erfassen – Als Grundlage für bessere mentale Gesundheit, mehr Selbstfürsorge und bewusstere Reflektion im Alltag.'
+       text: 'Lenken Sie Ihren Fokus weg von Problemen und hin zu den positiven Aspekten Ihres Lebens. Wenn Sie festhalten, was gut läuft und wofür Sie dankbar sind, erkennen Sie Schritt für Schritt Ihre kleinen und großen Erfolge, und finden mehr Achtsamkeit und Wertschätzung in Ihrer täglichen Routine. Die kostenlose SeaTable-Vorlage für ein Dankbarkeitstagebuch hilft Ihnen dabei, **Gedanken, Stimmungen und Dankbarkeitsmomente strukturiert zu erfassen** – als Grundlage für bessere mentale Gesundheit, mehr Selbstfürsorge und bewusstere Reflexion im Alltag.'
        classes:
            - bg-white
-       template: 
+       template: 6c509bb762414e97bea1
        buttons:
            - label: Jetzt kostenlose Dankbarkeitstagebuch-Vorlage nutzen
              link_to_template: true
@@ -43,10 +43,27 @@ sections:
            text: 'Nutzen Sie integrierte KI-Funktionen, um Einträge zusammenzufassen und Muster zu erkennen. Das spart Zeit bei der Pflege Ihres Dankbarkeitstagebuchs und verschafft Ihnen mehr Überblick.'
          - icon: 'expand'
            headline: 'Mobil jederzeit verfügbar'
-           text: 'Greifen Sie jederzeit per Smartphone auf Ihr Dankbarkeitstagebuch zu. Erstellen sie neue Einträge oder vergegenwärtigen Sie sich zwischendurch besondere Momente als Teil Ihrer täglichen Routine.'
+           text: 'Greifen Sie jederzeit per Smartphone auf Ihr Dankbarkeitstagebuch zu. Erstellen Sie neue Einträge oder vergegenwärtigen Sie sich zwischendurch besondere Momente als Teil Ihrer täglichen Routine.'
          - icon: 'eye'
            headline: 'Übersichtliche Darstellung'
-           text: 'Dank verschiedener Ansichten, Filter- und Gruppierungsfunktionen strukturieren Sie Ihre Einträge so, wie Sie möchten. Mit der integrierten Galerie-Ansicht bereiten Dankbarkeitsreflektionen auch visuell Freude.'
+           text: 'Dank verschiedener Ansichten, Filter- und Gruppierungsfunktionen strukturieren Sie Ihre Einträge so, wie Sie möchten. Mit der integrierten Galerie-Ansicht bereiten Dankbarkeitsreflexionen auch visuell Freude.'
+
+     - name: "customer-1"
+       weight: 4
+       title: "Führende Unternehmen weltweit vertrauen auf SeaTable"
+       subtitle: "Wer nutzt SeaTable?"
+       marquee_rows: 2
+       items: 
+       - number: "100.000+"
+         text: Downloads im ersten Jahr von Docker Hub
+       - number: "1.500+"
+         text: "Tägliche Nutzer auf SeaTable Cloud"
+       - number: "4.6"
+         text: "Bewertung auf Capterra"
+       buttons:
+         - link: "categories/customer-story"
+           label: "SeaTable im Einsatz - Erfolgsgeschichten"
+           id: de-homepage-customer-1      
 
      - name: "content-12"
        weight: 5
@@ -62,8 +79,8 @@ sections:
        - text: '**Ohne Vorwissen individualisierbar**: SeaTable bietet eine intuitive Oberfläche, damit Sie Ihr Dankbarkeitstagebuch digital führen und gestalten können, wie Sie möchten.'
        - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
        image_position: [left]
-       image: 
-       image_alt: ''
+       image: '/images/template_page_dankbarkeitstagebuch_01.png'
+       image_alt: 'Übersichtlich strukturierte Vorlage für ihr Dankbarkeitstagebuch'
 
      - name: "content-25"
        weight: 10
@@ -71,21 +88,21 @@ sections:
        subtitle: "So einfach funktioniert's"
        items:
        - headline: Perfekt für tägliche Achtsamkeit
-         text: Nutzen Sie die Dankbarkeitstagebuch Vorlage, um Dankbarkeitsmomente, Gedanken und Stimmungen übersichtlich an einem zentralen Ort zu sammeln. Sie beantworten jeden Tag wenige Fragen, reflektieren, was gut gelaufen ist, und verankern damit Achtsamkeit und Dankbarkeit als feste tägliche Routine in Ihrem Alltag.
-         image:
-         image_alt:  
+         text: Nutzen Sie die Dankbarkeitstagebuch Vorlage, um Dankbarkeitsmomente, Gedanken und Stimmungen übersichtlich an einem zentralen Ort zu sammeln. Sie beantworten jeden Tag wenige Fragen, reflektieren, was gut gelaufen ist, und verankern damit **Achtsamkeit und Dankbarkeit als feste tägliche Routine in Ihrem Alltag**.
+         image: '/images/template_page_dankbarkeitstagebuch_02.png'
+         image_alt: 'Tabellarische Übersicht aller Einträge in der Dankbarkeitstagebuch Vorlage' 
        - headline: 'Einträge einfach erfassen'
-         text: 'Wenn Sie Erstellen Sie neue Dankbarkeitstagebuch-Einträge ganz leicht über ein Formular. Das flexibel erweiterbare Formular enthält bereits einige Fragen danach, was Ihnen Freude gemacht hat, wofür sie dankbar sind und wie Sie Ihr Dankbarkeitlevel auf einer Skala von 0 bis 10 bewerten. Der neue Eintrag wird automatisch mit dem aktuellen Datum in der Tabelle “Diary” gespeichert.'
-         image: ''
-         image_alt: ''
+         text: 'Erstellen Sie neue Dankbarkeitstagebuch-Einträge ganz leicht über ein Formular. Das flexibel erweiterbare Formular enthält bereits einige Fragen danach, was Ihnen Freude gemacht hat, wofür sie dankbar sind und wie Sie Ihr Dankbarkeitlevel auf einer Skala von 0 bis 10 bewerten. Der neue Eintrag wird automatisch mit dem aktuellen Datum in der Tabelle “Diary” gespeichert.'
+         image: '/images/template_page_dankbarkeitstagebuch_04.png'
+         image_alt: 'Dankbarkeitstagebuch Vorlage mit Eingabeformular'
        - headline: 'Tagebuchansicht wie ein echtes Journal'
          text: 'In der Dankbarkeitstagebuch App sehen Sie auf der Diary-Seite alle Einträge so angeordnet, wie Sie es von einem klassischen Tagebuch kennen. Sie blättern mit einem Klick durch vorherige oder nächste Einträge, lesen Text, sehen Fotos und Ihr Stimmungstracking. Dadurch sehen Sie in der Dankbarkeitstagebuch-Vorlage Ihre Geschichte und Ihr inneres Glow-up als zusammenhängendes Journal.'
-         image: ''
-         image_alt: ''
+         image: '/images/template_page_dankbarkeitstagebuch_03.png'
+         image_alt: 'Ein einzelner Dankbarkeitseintrag in der Dankbarkeitstagebuch Vorlage'
        - headline: 'Stimmungstracking und persönliche Statistiken'
-         text: 'Auf der Dashboard-Seite sehen Sie, wie sich Ihr Dankbarkeitslevel im Laufe der Zeit verändert hat und wann Sie am dankbarsten sind. Diagramme und Kennzahlen zeigen Trends Ihrer Stimmung und Ihrer Achtsamkeit; so wird die Dankbarkeitstagebuch Vorlage zu einem Werkzeug für Ihre mentale Gesundheit und unterstützt Sie dabei, Selbstfürsorge und positive Perspektive langfristig zu verankern.'
-         image: 
-         image_alt: 
+         text: 'Auf der Dashboard-Seite sehen Sie, **wie sich Ihr Dankbarkeitslevel im Laufe der Zeit verändert hat und wann Sie am dankbarsten sind**. Diagramme und Kennzahlen zeigen Trends Ihrer Stimmung und Ihrer Achtsamkeit. So wird die Dankbarkeitstagebuch Vorlage zu einem Werkzeug für Ihre mentale Gesundheit und unterstützt Sie dabei, **Selbstfürsorge und positive Perspektive langfristig zu verankern**.'
+         image: '/images/template_page_dankbarkeitstagebuch_05.png'
+         image_alt: 'Dankbarkeitstagebuch Vorlage mit integrierten Statistiken'
 
      - name: "banner-3"
        weight: 12
@@ -104,14 +121,14 @@ sections:
        subtitle:
        items:
        - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit dem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihr persönliches digitales Dankbarkeitstagebuch. Über die integrierte App-Funktion greifen Sie bequem auf die Diary-Ansicht, Tabellenübersicht, Fotogalerie, Kalender und Ihr individuelles Dashboard zu. So nutzen Sie SeaTable als Dankbarkeitstagebuch App, passen Ihre Dankbarkeitstagebuch Vorlage an Ihre Bedürfnisse an und führen Ihre Achtsamkeitspraxis auf allen Geräten für Ihre tägliche Routine.'
-       image: 
-       image_alt:
+       image: '/images/template_page_dankbarkeitstagebuch_06.png'
+       image_alt: 'Dankbarkeitstagebuch App mit persönlichem Dashboard'
 
      - name: "content-9"
        weight: 16
        title: 'Dankbarkeitstagebuch-Vorlage mit integrierten KI-Funktionen'
-       subtitle: 'Ihr intelligenter Assistent für Reflektion und Achtsamkeit'
-       description: 'Mit SeaTable profitieren Sie von **leistungsstarken, integrierten KI-unterstützten Automatisierungen**. So erweitern Sie Ihre Dankbarkeitstagebuch Vorlage um smarte Hilfen für Reflektion, Stimmungstracking und Auswertungen – DSGVO-konform mit eigenem KI-Server in Deutschland.'
+       subtitle: 'Ihr intelligenter Assistent für Reflexion und Achtsamkeit'
+       description: 'Mit SeaTable profitieren Sie von **leistungsstarken, integrierten KI-unterstützten Automatisierungen**. So erweitern Sie Ihre Dankbarkeitstagebuch Vorlage um smarte Hilfen für Reflexion, Stimmungstracking und Auswertungen – DSGVO-konform mit eigenem KI-Server in Deutschland.'
        items:
        - headline: 'Einträge kompakt zusammenfassen'
          text: 'Fassen Sie längere Tagebucheinträge automatisch zu kurzen, gut lesbaren Zusammenfassungen zusammen. Das ist ideal, wenn Sie regelmäßig schreiben und später schnell nachvollziehen möchten, wie sich Ihre Achtsamkeit und Ihre Stimmung verändert haben.'
@@ -143,7 +160,7 @@ sections:
        box-position: [right!]
        items:
        - headline: Transparenz
-         text: Sehen Sie auf einen Blick, wie oft Sie schreiben, wie sich Ihre Stimmung verändert und welche Themen besonders häufig vorkommen. Mit Tabellen, Kalenderansichten und Dashboard-Grafiken macht die Dankbarkeitstagebuch Vorlage positive Erfahrungen sichtbar und unterstützt Ihre Reflektion.
+         text: Sehen Sie auf einen Blick, wie oft Sie schreiben, wie sich Ihre Stimmung verändert und welche Themen besonders häufig vorkommen. Mit Tabellen, Kalenderansichten und Dashboard-Grafiken macht die Dankbarkeitstagebuch Vorlage positive Erfahrungen sichtbar und unterstützt Ihre Reflexion.
        - headline: Flexibilität
          text: Vergessen Sie verstreute Notizzettel, vorstrukturierte Notizbücher und starre Achtsamkeits-Apps. Passen Sie die digitale Dankbarkeitstagebuch Vorlage individuell an Ihre Vorstellungen und Bedürfnisse an und erstellen Sie sich genau die Dashboards, die Sie brauchen. 
 
