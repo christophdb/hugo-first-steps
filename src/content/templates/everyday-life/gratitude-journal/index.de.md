@@ -1,13 +1,13 @@
 ---
 title: 'Dankbarkeitstagebuch'
-description: 'Mit der Dankbarkeitstagebuch Vorlage mit integrierter App richten Sie Ihren Fokus auf die positiven Aspekte in Ihrem Leben. So werden Sie gelassener im Alltag und erleben schöne Momente intensicher und bewusster.'
+description: 'Mit der Dankbarkeitstagebuch Vorlage mit integrierter App richten Sie Ihren Fokus auf die positiven Aspekte in Ihrem Leben. So werden Sie gelassener im Alltag und erleben schöne Momente intensiver und bewusster.'
 date: '2026-08-05'
 url: '/de/vorlage/dankbarkeitstagebuch-vorlage'
 category: 'everyday-life'
 functions:
 seo:
     title: 'Dankbarkeitstagebuch Vorlage von SeaTable – für mehr mentale Stärke im Alltag'
-    description: 'Mit der Dankbarkeitstagebuch Vorlage mit integrierter App richten Sie Ihren Fokus auf die positiven Aspekte in Ihrem Leben. So werden Sie gelassener im Alltag und erleben schöne Momente intensicher und bewusster.'
+    description: 'Mit der Dankbarkeitstagebuch Vorlage mit integrierter App richten Sie Ihren Fokus auf die positiven Aspekte in Ihrem Leben. So werden Sie gelassener im Alltag und erleben schöne Momente intensiver und bewusster.'
 
 type: pages
 sections:
