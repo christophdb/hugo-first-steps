@@ -66,10 +66,9 @@ Pour une fête d'anniversaire, les **restaurants, les bars ou les clubs**, par e
 
 Une fois que vous vous êtes occupé de la date, de la liste des invités et du lieu de votre fête d'anniversaire, les points fondamentaux de votre fête sont réglés. Il est donc temps de s'occuper des invitations pour votre fête inoubliable ! Grâce à votre liste d'invités établie à l'avance, vous avez un aperçu de tous les invités à inviter.
 
-**Conseil : Save the Date**  
-Pour les grandes fêtes d'anniversaire, il est judicieux d'envoyer des mois à l'avance une invitation save the date avec la date aux invités. Vous augmentez ainsi les chances qu'un maximum d'invités acceptent votre invitation, prévoient la fête et puissent se libérer à temps.
+{{< warning headline="Conseil : Save the Date" text="Pour les grandes fêtes d'anniversaire, il est judicieux d'envoyer des mois à l'avance une invitation save the date avec la date aux invités. Vous augmentez ainsi les chances qu'un maximum d'invités acceptent votre invitation, prévoient la fête et puissent se libérer à temps." />}}
 
-Les cartes d'invitation bien conçues sont un excellent moyen d'annoncer à l'avance non seulement la date et le lieu de votre fête d'anniversaire, mais aussi, le cas échéant, le thème. Si vous le souhaitez, personnalisez vos invitations pour chaque invité. Cela donne une impression personnelle, augmente l'anticipation de votre fête et peut augmenter le nombre de réponses positives. Pensez à communiquer à vos invités toutes les informations importantes et déjà fixées dans l'invitation et fixez une date limite pour les réactions. Cela vous permettra de planifier en toute sécurité et de réagir à temps en cas de désistement. Il est également judicieux de demander, lors de l'invitation, si les invités ont des allergies ou des habitudes alimentaires et de préciser s'ils participent avec leur partenaire et éventuellement leurs enfants.
+Les cartes d'invitation bien conçues sont un excellent moyen d'annoncer à l'avance non seulement la date et le lieu de votre fête d'anniversaire, mais aussi, le cas échéant, le thème. Si vous le souhaitez, personnalisez vos invitations pour chaque invité. Cela donne une impression personnelle, augmente l'anticipation de votre fête et peut augmenter le nombre de réponses positives. Pensez à communiquer à vos invités toutes les informations importantes et déjà fixées dans l'invitation et fixez une date limite pour les réactions. Cela vous permettra de planifier en toute sécurité et de réagir à temps en cas de désistement. Il est également judicieux de demander, lors de l'invitation, si les invités ont des [allergies]({{< relref "templates/healthcare/allergy-diary" >}}) ou des habitudes alimentaires et de préciser s'ils participent avec leur partenaire et éventuellement leurs enfants.
 
 ## Étape 2 : Les détails de votre fête
 
@@ -91,7 +90,7 @@ Si vous ne faites pas appel à des assistants, vous devrez servir vous-même la 
 
 ### Faire appel à un service de restauration
 
-En faisant appel à un service de restauration pour vos invités, vous économisez beaucoup de temps et de stress, surtout si vous organisez une fête en grand comité. Il vous suffit d'indiquer au traiteur le nombre de vos invités et il établira une offre de restauration adaptée à vos souhaits. Si le recours à un service de restauration n'entre pas dans votre budget, vous pouvez également organiser un food truck, une solution plus économique. Celui-ci fournira à vos invités de délicieux plats directement sur place. Lorsque vous prenez votre décision, gardez toujours à l'esprit le cadre et, le cas échéant, le thème de votre fête d'anniversaire et veillez à ce que tous les invités y trouvent leur compte. Vous trouverez ci-dessous quelques suggestions savoureuses :
+En faisant appel à un service de restauration pour vos invités, vous économisez beaucoup de temps et de stress, surtout si vous organisez une fête en grand comité. Il vous suffit d'indiquer au traiteur le nombre de vos invités et il établira une offre de restauration adaptée à vos souhaits. Si le recours à un service de restauration n'entre pas dans votre [budget]({{< relref "posts/20250606-budgetplanung" >}}), vous pouvez également organiser un food truck, une solution plus économique. Celui-ci fournira à vos invités de délicieux plats directement sur place. Lorsque vous prenez votre décision, gardez toujours à l'esprit le cadre et, le cas échéant, le thème de votre fête d'anniversaire et veillez à ce que tous les invités y trouvent leur compte. Vous trouverez ci-dessous quelques suggestions savoureuses :
 
 - Réception au champagne avec petites bouchées
 - Fingerfood et salades
@@ -104,7 +103,7 @@ En faisant appel à un service de restauration pour vos invités, vous économis
 
 ### Demander de l'aide à vos invités
 
-Une solution tout aussi pratique, mais plus économique, consiste à demander à vos invités d'apporter de la nourriture et des boissons. De cette manière, vous pourrez rapidement constituer un généreux buffet de salades, snacks, gâteaux et autres délices. De plus, vous éviterez à vos invités la recherche désespérée de cadeaux.
+Une solution tout aussi pratique, mais plus économique, consiste à demander à vos invités d'apporter de la nourriture et des boissons. De cette manière, vous pourrez rapidement constituer un généreux buffet de salades, snacks, gâteaux et autres délices. De plus, vous éviterez à vos invités la recherche désespérée de [cadeaux]({{< relref "posts/wunschzettel" >}}).
 
 Néanmoins, vous devez bien sûr planifier vous-même la partie de la restauration qui serait trop exigeante pour des invités individuels. Il s'agit notamment des caisses de boissons et des plats chauds fraîchement préparés. Avant de faire les courses pour votre fête, il peut être utile de demander les préférences et les souhaits de vos invités. Si vous avez choisi un thème pour votre fête d'anniversaire, adaptez l'offre de nourriture et de boissons en fonction de ce thème.
 
@@ -124,7 +123,7 @@ En plus d'une bonne musique, vous pouvez marquer des points lors de votre fête 
 - courtes allocutions et discours
 - un diaporama avec des photos amusantes de l'enfant qui fête son anniversaire
 - chanter ensemble ou un concours de karaoké
-- Photobox ou mur de photos pour garder des souvenirs de votre fête
+- Photobox ou [livre d'or]({{< relref "posts/gaestebuch-hochzeit-ideen" >}}) pour garder des souvenirs de votre fête
 
 En fonction de votre budget, de nombreuses possibilités s'offrent à vous. Faites preuve de créativité et créez des moments inoubliables avec vos proches grâce à un mélange de musique et de divertissement.
 
@@ -142,16 +141,18 @@ Votre fête d'anniversaire approche à grands pas et vous avez déjà réglé to
 
 ### Préparatifs finaux et courses
 
-Alors que le grand jour approche à grands pas, profitez du temps qu'il vous reste pour faire les derniers préparatifs et les courses. Si vous organisez la fête dans un lieu loué, contactez l'organisateur et discutez des préparatifs sur place. Si vous organisez vous-même votre fête d'anniversaire, commencez à préparer le lieu de la fête, récupérez l'équipement loué et faites les dernières courses. Pour ce faire, restez en contact étroit avec vos invités, surtout si vous les avez impliqués dans la planification. Demandez-leur de l'aide si nécessaire et informez-les à l'avance de tout changement inattendu.
+Alors que le grand jour approche à grands pas, profitez du temps qu'il vous reste pour faire les derniers préparatifs et les courses. Si vous organisez la fête dans un lieu loué, contactez l'[organisateur]({{< relref "posts/veranstaltung-verwalten" >}}) et discutez des préparatifs sur place. Si vous organisez vous-même votre fête d'anniversaire, commencez à préparer le lieu de la fête, récupérez l'équipement loué et faites les dernières courses. Pour ce faire, restez en contact étroit avec vos invités, surtout si vous les avez impliqués dans la planification. Demandez-leur de l'aide si nécessaire et informez-les à l'avance de tout changement inattendu.
 
 ### Contrôle final
 
 Dès que votre fête n'est plus qu'à quelques jours, il est temps de faire un dernier contrôle. Avez-vous pensé à tout ? La nourriture est-elle commandée ou achetée ? Le lieu est-il prêt ? Suivez pas à pas chaque point de votre [check-list](https://de.wikihow.com/Eine-Geburtstagsparty-planen) et vérifiez si votre fête est entièrement planifiée.
 
-Vous avez encore du retard à rattraper dans certains domaines ? Pas de problème ! De nombreuses choses peuvent encore être réglées quelques jours avant votre fête. Vous avez passé en revue tous les points et n'avez plus trouvé de choses à faire en suspens ? Alors tout est prêt pour votre fête et il ne nous reste plus qu'à vous souhaiter une fête d'anniversaire inoubliable !
+Vous avez encore du retard à rattraper dans certains domaines ? Pas de problème ! De nombreuses choses peuvent encore être réglées quelques jours avant votre fête. Vous avez passé en revue tous les points et n'avez plus trouvé de [tâches]({{< relref "templates/projects/to-do-list" >}}) en suspens ? Alors tout est prêt pour votre fête et il ne nous reste plus qu'à vous souhaiter une fête d'anniversaire inoubliable !
 
 ## Conclusion
 
 Planifier et organiser une fête d'anniversaire - ce qui semble être un jeu d'enfant pour beaucoup s'avère souvent être un processus long et laborieux d'après notre propre expérience. En effet, si l'on veut organiser une fête unique et inoubliable, il faut s'occuper le plus tôt possible de tous les préparatifs importants. Avec tout ce stress, il peut vite arriver d'oublier une personne importante lors de la planification, de commander trop peu de nourriture et de boissons ou de perdre de vue le budget dont on dispose.
 
-Pour vous éviter toutes ces mésaventures et vous permettre de vous réjouir de votre prochaine fête, SeaTable a développé un [organisateur de fête]({{< relref "templates/everyday-life/party-planner" >}}) qui vous permet de préparer votre fête de manière claire et structurée, tout en gardant un œil sur vos invités. N'hésitez pas à l'essayer en [vous inscrivant]({{< relref "pages/registration" >}}) gratuitement.
+Pour vous éviter toutes ces mésaventures et vous permettre de vous réjouir de votre prochaine fête, SeaTable a développé un [organisateur de fête]({{< relref "templates/everyday-life/party-planner" >}}) qui vous permet de préparer votre fête de manière claire et structurée, tout en gardant un œil sur vos invités. N'hésitez pas à essayer le modèle en [vous inscrivant]({{< relref "pages/registration" >}}) gratuitement.
+
+{{< template-box id="c7b0c4bf967442cba68a" >}}
