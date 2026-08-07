@@ -64,10 +64,9 @@ Für eine Geburtstagsparty bieten sich beispielsweise **Restaurants, Bars oder C
 
 Nachdem Sie sich um den Termin, die Gästeliste und die Location für Ihre Geburtstagsfeier gekümmert haben, sind die grundlegenden Eckpunkte Ihrer Feier geklärt. Zeit also, sich an die Einladungen zu Ihrer unvergesslichen Party zu machen! Dank Ihrer frühzeitig erstellten Gästeliste haben Sie alle einzuladenden Gäste auf einen Blick.
 
-**Tipp: Save the Date**  
-Bei größeren Geburtstagsfeiern ist es sinnvoll, schon Monate im Voraus eine Save-the-Date-Einladung mit dem Termin an die Gäste zu schicken. So erhöhen Sie die Chance, dass möglichst viele Gäste Ihre Einladung annehmen, die Party einplanen und sich rechtzeitig freinehmen können.
+{{< warning headline="Tipp: Save the Date" text="Bei größeren Geburtstagsfeiern ist es sinnvoll, schon Monate im Voraus eine Save-the-Date-Einladung mit dem Termin an die Gäste zu schicken. So erhöhen Sie die Chance, dass möglichst viele Gäste Ihre Einladung annehmen, die Party einplanen und sich rechtzeitig freinehmen können." />}}
 
-Liebevolle Einladungskarten bieten Ihnen eine tolle Möglichkeit, nicht nur den Termin und die Location Ihrer Geburtstagsparty, sondern ggf. auch das Motto im Vorhinein anzukündigen. Gestalten Sie Ihre Einladungen, wenn Sie mögen, für jeden Gast individuell. Dies macht einen persönlichen Eindruck, steigert die Vorfreude auf Ihre Party und kann die Anzahl an Zusagen erhöhen. Denken Sie daran, Ihren Gästen alle wichtigen und bereits feststehenden Informationen in der Einladung mitzuteilen, und legen Sie eine Deadline für Rückmeldungen fest. So haben Sie Planungssicherheit und können frühzeitig auf Absagen reagieren. Sinnvoll ist es auch, bei der Einladung Allergien und Essgewohnheiten abzufragen und zu klären, ob die Gäste mit Partner und evtl. Kindern teilnehmen.
+Liebevolle Einladungskarten bieten Ihnen eine tolle Möglichkeit, nicht nur den Termin und die Location Ihrer Geburtstagsparty, sondern ggf. auch das Motto im Vorhinein anzukündigen. Gestalten Sie Ihre Einladungen, wenn Sie mögen, für jeden Gast individuell. Dies macht einen persönlichen Eindruck, steigert die Vorfreude auf Ihre Party und kann die Anzahl an Zusagen erhöhen. Denken Sie daran, Ihren Gästen alle wichtigen und bereits feststehenden Informationen in der Einladung mitzuteilen, und legen Sie eine Deadline für Rückmeldungen fest. So haben Sie Planungssicherheit und können frühzeitig auf Absagen reagieren. Sinnvoll ist es auch, bei der Einladung [Allergien]({{< relref "templates/healthcare/allergy-diary" >}}) und Essgewohnheiten abzufragen und zu klären, ob die Gäste mit Partner und evtl. Kindern teilnehmen.
 
 ## Schritt 2: Die Einzelheiten Ihrer Party
 
@@ -89,7 +88,7 @@ Wenn Sie keine Helfer damit beauftragen, werden Sie auf der Geburtstagsparty sel
 
 ### Einen Catering-Service beauftragen
 
-Vor allem bei Feiern im größeren Kreis erspart es Ihnen viel Zeit und Stress, für die Bewirtung Ihrer Gäste einen Catering-Service zu beauftragen. Teilen Sie dem Caterer einfach die Anzahl Ihrer Gäste mit und dieser erstellt ein passendes Verpflegungsangebot nach Ihren Wünschen. Falls die Beauftragung eines Catering-Services nicht in Ihr Budget passt, besteht auch die kostengünstigere Möglichkeit, einen Foodtruck zu organisieren. Dieser versorgt Ihre Gäste direkt vor Ort mit leckeren Speisen. Behalten Sie bei Ihrer Entscheidung auf jeden Fall den Rahmen und ggf. auch das Motto Ihrer Geburtstagsparty im Blick und sorgen Sie dafür, dass für alle Gäste etwas dabei ist. Nachfolgend finden Sie einige leckere Vorschläge:
+Vor allem bei Feiern im größeren Kreis erspart es Ihnen viel Zeit und Stress, für die Bewirtung Ihrer Gäste einen Catering-Service zu beauftragen. Teilen Sie dem Caterer einfach die Anzahl Ihrer Gäste mit und dieser erstellt ein passendes Verpflegungsangebot nach Ihren Wünschen. Falls die Beauftragung eines Catering-Services nicht in Ihr [Budget]({{< relref "posts/20250606-budgetplanung" >}}) passt, besteht auch die kostengünstigere Möglichkeit, einen Foodtruck zu organisieren. Dieser versorgt Ihre Gäste direkt vor Ort mit leckeren Speisen. Behalten Sie bei Ihrer Entscheidung auf jeden Fall den Rahmen und ggf. auch das Motto Ihrer Geburtstagsparty im Blick und sorgen Sie dafür, dass für alle Gäste etwas dabei ist. Nachfolgend finden Sie einige leckere Vorschläge:
 
 - Sektempfang mit kleinen Häppchen
 - Fingerfood und Salate
@@ -102,7 +101,7 @@ Vor allem bei Feiern im größeren Kreis erspart es Ihnen viel Zeit und Stress, 
 
 ### Ihre Gäste um Hilfe bitten
 
-Eine ebenso bequeme, aber günstigere Lösung ist es, Ihre Gäste um das Mitbringen von Speisen und Getränken zu bitten. Auf diesem Wege kommt schnell ein großzügiges Buffet an Salaten, Snacks, Kuchen und anderen Köstlichkeiten zusammen. Noch dazu ersparen Sie Ihren Gästen damit die verzweifelte Suche nach Geschenken.
+Eine ebenso bequeme, aber günstigere Lösung ist es, Ihre Gäste um das Mitbringen von Speisen und Getränken zu bitten. Auf diesem Wege kommt schnell ein großzügiges Buffet an Salaten, Snacks, Kuchen und anderen Köstlichkeiten zusammen. Noch dazu ersparen Sie Ihren Gästen damit die verzweifelte Suche nach [Geschenken]({{< relref "posts/wunschzettel" >}}).
 
 Dennoch müssen Sie natürlich den Teil der Verpflegung selbst planen, der für einzelne Gäste zu viel verlangt wäre. Dazu zählen Getränkekisten und warme, frisch zubereitete Speisen. Vor dem Einkauf für Ihre Party kann es sinnvoll sein, Vorlieben und Wünsche Ihrer Gäste abzufragen. Falls Sie ein Motto für Ihre Geburtstagsfeier festgelegt haben, richten Sie das Angebot an Essen und Getränken nach diesem Thema aus.
 
@@ -122,7 +121,7 @@ Neben guter Musik können Sie mit einem abwechslungsreichen Rahmenprogramm auf I
 - kurze Ansprachen und Reden
 - eine Diashow mit lustigen Bildern des Geburtstagskindes
 - gemeinsam singen oder ein Karaoke-Wettbewerb
-- Fotobox oder Fotowand, um Erinnerungen an Ihre Party festzuhalten
+- Fotobox oder [Gästebuch]({{< relref "posts/gaestebuch-hochzeit-ideen" >}}), um Erinnerungen an Ihre Party festzuhalten
 
 Abhängig von Ihrem Budget stehen Ihnen zahlreiche Möglichkeiten zur Verfügung. Seien Sie kreativ und sorgen Sie mit einem bunten Mix aus Musik und Unterhaltungsprogramm für unvergessliche Momente mit Ihren Liebsten.
 
@@ -140,16 +139,18 @@ Ihre Geburtstagsfeier rückt immer näher und Sie haben bereits alle Details gek
 
 ### Abschließende Vorbereitungen und Besorgungen
 
-Während der große Tag immer näher rückt, sollten Sie die verbleibende Zeit für die finalen Vorbereitungen und Besorgungen nutzen. Bei einer Party in einer angemieteten Location setzen Sie sich dazu mit dem Veranstalter in Verbindung und sprechen die Vorbereitungen vor Ort durch. Wenn Sie Ihre Geburtstagsfeier selbst organisieren, fangen Sie an die Party-Location herzurichten, holen Sie gemietete Ausstattung ab und erledigen Sie die letzten noch ausstehenden Besorgungen. Bleiben Sie dazu stets in engem Kontakt mit Ihren Gästen, vor allem wenn Sie diese in die Planung einbezogen haben. Bitten Sie diese ggf. um Hilfe und teilen Sie diesen unerwartete Änderungen frühzeitig mit.
+Während der große Tag immer näher rückt, sollten Sie die verbleibende Zeit für die finalen Vorbereitungen und Besorgungen nutzen. Bei einer Party in einer angemieteten Location setzen Sie sich dazu mit dem [Veranstalter]({{< relref "posts/veranstaltung-verwalten" >}}) in Verbindung und sprechen die Vorbereitungen vor Ort durch. Wenn Sie Ihre Geburtstagsfeier selbst organisieren, fangen Sie an die Party-Location herzurichten, holen Sie gemietete Ausstattung ab und erledigen Sie die letzten noch ausstehenden Besorgungen. Bleiben Sie dazu stets in engem Kontakt mit Ihren Gästen, vor allem wenn Sie diese in die Planung einbezogen haben. Bitten Sie diese ggf. um Hilfe und teilen Sie diesen unerwartete Änderungen frühzeitig mit.
 
 ### Finaler Check
 
 Sobald Ihre Feier nur noch wenige Tage entfernt ist, ist es Zeit für einen finalen Check. Haben Sie an alles gedacht? Ist die Verpflegung bestellt oder eingekauft? Ist die Location vorbereitet? Arbeiten Sie sich Schritt für Schritt durch jeden Punkt Ihrer [Checkliste](https://de.wikihow.com/Eine-Geburtstagsparty-planen) und überprüfen Sie, ob Ihre Party vollständig geplant ist.
 
-Haben Sie in bestimmten Bereichen noch Nachholbedarf? Kein Problem! Viele Dinge lassen sich auch noch wenige Tage vor Ihrer Party regeln. Sie sind alle Punkte durchgegangen und haben keine ausstehenden To-dos mehr gefunden? Dann ist für Ihre Party alles bestens vorbereitet und uns bleibt nichts anderes übrig, als Ihnen eine unvergessliche Geburtstagsfeier zu wünschen!
+Haben Sie in bestimmten Bereichen noch Nachholbedarf? Kein Problem! Viele Dinge lassen sich auch noch wenige Tage vor Ihrer Party regeln. Sie sind alle Punkte durchgegangen und haben keine ausstehenden [To-dos]({{< relref "templates/projects/to-do-list" >}}) mehr gefunden? Dann ist für Ihre Party alles bestens vorbereitet und uns bleibt nichts anderes übrig, als Ihnen eine unvergessliche Geburtstagsfeier zu wünschen!
 
 ## Fazit
 
 Eine Geburtstagsfeier planen und organisieren – was für viele nach einem Kinderspiel klingt, stellt sich aus eigener Erfahrung oftmals als langwieriger und mühevoller Prozess heraus. Denn wer eine einzigartige und unvergessliche Party veranstalten möchte, muss sich möglichst früh um alle wichtigen Vorbereitungen kümmern. Bei all dem Stress kann es schnell passieren, dass man eine wichtige Person bei der Planung vergisst, zu wenig Speisen und Getränke bestellt oder sein zur Verfügung stehendes Budget aus den Augen verliert.
 
-Damit Ihnen all diese Missgeschicke erspart bleiben und Sie voller Vorfreude Ihrer kommenden Feier entgegenblicken können, haben wir von SeaTable einen [Party-Planer]({{< relref "templates/everyday-life/party-planner" >}}) entwickelt, mit dem Sie Ihre Party übersichtlich und strukturiert vorbereiten können und dabei stets Ihre Gäste im Blick behalten. Probieren Sie es gerne aus, indem Sie sich kostenlos [registrieren]({{< relref "pages/registration" >}}).
+Damit Ihnen all diese Missgeschicke erspart bleiben und Sie voller Vorfreude Ihrer kommenden Feier entgegenblicken können, haben wir von SeaTable einen [Party-Planer]({{< relref "templates/everyday-life/party-planner" >}}) entwickelt, mit dem Sie Ihre Party übersichtlich und strukturiert vorbereiten können und dabei stets Ihre Gäste im Blick behalten. Probieren Sie die Vorlage gerne aus, indem Sie sich kostenlos [registrieren]({{< relref "pages/registration" >}}).
+
+{{< template-box id="c7b0c4bf967442cba68a" >}}

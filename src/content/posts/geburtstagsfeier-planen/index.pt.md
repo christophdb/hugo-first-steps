@@ -66,10 +66,9 @@ Para festas de aniversário, são opções **restaurantes, bares ou clubes**, ma
 
 Depois de definir a data, a lista de convidados e o local, os pontos principais da festa estão resolvidos. Agora é hora de preparar os convites para sua festa inesquecível! Com a lista pronta, você tem todos os convidados à mão.
 
-**Dica: Save the Date**  
-Para festas maiores, é útil enviar um convite “save the date” meses antes. Assim, aumenta a chance de que mais convidados possam se programar, reservar a data e conseguir folga.
+{{< warning headline="Dica: Save the Date" text="Para festas maiores, é útil enviar um convite “save the date” meses antes. Assim, aumenta a chance de que mais convidados possam se programar, reservar a data e conseguir folga." />}}
 
-Convites personalizados são uma ótima oportunidade para informar não só a data e o local da festa, mas também o tema, se houver. Se quiser, personalize cada convite para cada convidado. Isso causa uma boa impressão, aumenta a expectativa para a festa e pode aumentar o número de confirmações. Lembre-se de incluir todas as informações importantes e já definidas no convite e estabeleça um prazo para as respostas. Assim, você tem segurança para planejar e pode reagir a recusas a tempo. Também é útil perguntar sobre alergias e hábitos alimentares e se os convidados virão acompanhados de parceiros ou filhos.
+Convites personalizados são uma ótima oportunidade para informar não só a data e o local da festa, mas também o tema, se houver. Se quiser, personalize cada convite para cada convidado. Isso causa uma boa impressão, aumenta a expectativa para a festa e pode aumentar o número de confirmações. Lembre-se de incluir todas as informações importantes e já definidas no convite e estabeleça um prazo para as respostas. Assim, você tem segurança para planejar e pode reagir a recusas a tempo. Também é útil perguntar sobre [alergias]({{< relref "templates/healthcare/allergy-diary" >}}) e hábitos alimentares e se os convidados virão acompanhados de parceiros ou filhos.
 
 ## Passo 2: Os detalhes da sua festa
 
@@ -91,7 +90,7 @@ Se não tiver ajudantes, você mesmo terá que servir comida e bebida durante a 
 
 ### Contratando um serviço de buffet
 
-Principalmente para festas maiores, contratar um buffet poupa tempo e estresse. Informe o número de convidados ao buffet e ele montará uma oferta adequada ao seu gosto. Se o orçamento for apertado, uma opção mais econômica é contratar um food truck, que serve pratos deliciosos no local. Considere o estilo e o tema da festa e garanta opções para todos os convidados. Algumas sugestões saborosas:
+Principalmente para festas maiores, contratar um buffet poupa tempo e estresse. Informe o número de convidados ao buffet e ele montará uma oferta adequada ao seu gosto. Se o [orçamento]({{< relref "posts/20250606-budgetplanung" >}}) for apertado, uma opção mais econômica é contratar um food truck, que serve pratos deliciosos no local. Considere o estilo e o tema da festa e garanta opções para todos os convidados. Algumas sugestões saborosas:
 
 - Recepção com espumante e petiscos
 - Finger food e saladas
@@ -104,7 +103,7 @@ Principalmente para festas maiores, contratar um buffet poupa tempo e estresse. 
 
 ### Pedindo ajuda aos convidados
 
-Uma solução prática e econômica é pedir aos convidados que tragam comida e bebida. Assim, rapidamente se forma um buffet variado com saladas, petiscos, bolos e outras delícias. Além disso, isso poupa aos convidados a busca por presentes.
+Uma solução prática e econômica é pedir aos convidados que tragam comida e bebida. Assim, rapidamente se forma um buffet variado com saladas, petiscos, bolos e outras delícias. Além disso, isso poupa aos convidados a busca por [presentes]({{< relref "posts/wunschzettel" >}}).
 
 Mesmo assim, você deve planejar a parte da alimentação que seria demais pedir a um convidado, como bebidas em grande quantidade e pratos quentes. Antes das compras, vale a pena perguntar sobre as preferências dos convidados. Se a festa tiver um tema, alinhe o cardápio a ele.
 
@@ -124,7 +123,7 @@ Além de boa música, um programa variado pode valorizar sua festa. Sugestões p
 - Discursos e falas curtas
 - Apresentação de slides com fotos engraçadas do aniversariante
 - Cantar juntos ou competição de karaokê
-- Cabine de fotos ou mural para registrar lembranças da festa
+- Cabine de fotos ou [livro de visitas]({{< relref "posts/gaestebuch-hochzeit-ideen" >}}) para registrar lembranças da festa
 
 Dependendo do orçamento, há inúmeras possibilidades. Seja criativo e garanta momentos inesquecíveis com uma combinação de música e entretenimento.
 
@@ -142,16 +141,18 @@ A festa está chegando e todos os detalhes já estão definidos? Então, cerca d
 
 ### Preparativos finais e compras
 
-Com o grande dia se aproximando, use o tempo restante para os últimos preparativos e compras. Se a festa for em um local alugado, entre em contato com o responsável e alinhe os preparativos no local. Se for organizar tudo sozinho, comece a arrumar o espaço, buscar equipamentos alugados e resolver as últimas pendências. Mantenha contato com os convidados, principalmente se eles estiverem ajudando no planejamento. Peça ajuda se necessário e informe sobre mudanças inesperadas com antecedência.
+Com o grande dia se aproximando, use o tempo restante para os últimos preparativos e compras. Se a festa for em um local alugado, entre em contato com o [responsável]({{< relref "posts/veranstaltung-verwalten" >}}) e alinhe os preparativos no local. Se for organizar tudo sozinho, comece a arrumar o espaço, buscar equipamentos alugados e resolver as últimas pendências. Mantenha contato com os convidados, principalmente se eles estiverem ajudando no planejamento. Peça ajuda se necessário e informe sobre mudanças inesperadas com antecedência.
 
 ### Checagem final
 
 Faltando poucos dias para a festa, faça uma checagem final. Você pensou em tudo? A comida está encomendada ou comprada? O local está pronto? Siga cada item da sua [lista de verificação](https://de.wikihow.com/Eine-Geburtstagsparty-planen) e veja se tudo está planejado.
 
-Faltou algo? Sem problemas! Muitas coisas podem ser resolvidas até poucos dias antes. Se tudo estiver pronto e não houver mais pendências, então está tudo certo para sua festa – só nos resta desejar uma comemoração inesquecível!
+Faltou algo? Sem problemas! Muitas coisas podem ser resolvidas até poucos dias antes. Se tudo estiver pronto e não houver mais [tarefas pendentes]({{< relref "templates/projects/to-do-list" >}}), então está tudo certo para sua festa – só nos resta desejar uma comemoração inesquecível!
 
 ## Conclusão
 
 Organizar e planejar uma festa de aniversário – o que para muitos parece fácil, na prática pode ser um processo demorado e trabalhoso. Quem quer uma festa única e inesquecível precisa cuidar de todos os detalhes com antecedência. Com tanta coisa para fazer, é fácil esquecer alguém, pedir pouca comida e bebida ou perder o controle do orçamento.
 
-Para evitar esses contratempos e esperar pela festa com tranquilidade, nós da SeaTable desenvolvemos um [Planejador de Festas]({{< relref "templates/everyday-life/party-planner" >}}), que permite preparar sua festa de forma clara e estruturada, sempre de olho nos convidados. Experimente gratuitamente, basta [registrar-se]({{< relref "pages/registration" >}}).
+Para evitar esses contratempos e esperar pela festa com tranquilidade, nós da SeaTable desenvolvemos um [Planejador de Festas]({{< relref "templates/everyday-life/party-planner" >}}), que permite preparar sua festa de forma clara e estruturada, sempre de olho nos convidados. Experimente o modelo gratuitamente, basta [registrar-se]({{< relref "pages/registration" >}}).
+
+{{< template-box id="c7b0c4bf967442cba68a" >}}
