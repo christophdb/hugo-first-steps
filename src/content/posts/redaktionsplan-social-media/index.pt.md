@@ -9,7 +9,7 @@ tags:
 url: '/pt/calendario-editorial-midia-social'
 aliases:
     - '/pt/redaktionsplan-social-media/'
-color: '#cc0512'
+color: '#93aae5'
 seo:
     title: 'Planejamento de conteúdo social: organize e programe fácil'
     description: 'Aprenda a criar um plano de conteúdo para gerenciar, agendar e analisar suas redes sociais com uma única ferramenta eficiente'
@@ -58,12 +58,11 @@ Antes de começar a montar seu plano editorial, desenvolva sua estratégia de so
 3. É preciso gerenciar imagens e vídeos?
 4. Trata-se de posts orgânicos ou campanhas mais complexas?
 5. Quantos membros da equipe vão colaborar no plano editorial?
+6. Quais canais de social media você utiliza?
 
 ![Plataformas possíveis para seu content plan de social media](Social-Media-Plan_card.jpg)
 
-Quais canais de social media você utiliza?
-
-Depois, escolha a ferramenta que melhor apoia seu objetivo. Abaixo você encontra mais sobre possíveis [**ferramentas e modelos para seu plano de social media**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Depois, escolha a ferramenta que melhor apoia seu objetivo. Abaixo você encontra mais sobre possíveis [ferramentas e modelos para seu plano de social media]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ## O que um plano editorial de social media deve abranger
 
@@ -108,8 +107,8 @@ Várias ferramentas são adequadas para criar seu plano editorial. Escolha entre
 Se você já usa Google Docs ou Microsoft 365, uma opção simples é **criar o plano de social media no Excel ou Google Sheets**. Crie uma nova aba para cada mês ou ano, contendo uma tabela. Nela, você pode linkar outros documentos como briefings, imagens e vídeos, e inserir os textos diretamente.
 
 Na internet, você encontra **diversos modelos de plano de social media para essas ferramentas**.  
-**Vantagem:** Você trabalha com um programa conhecido e pode começar imediatamente.  
-**Desvantagem:** A interface é pouco amigável e as tabelas são **pouco flexíveis e trabalhosas** de editar.
+- **Vantagem:** Você trabalha com um programa conhecido e pode começar imediatamente.  
+- **Desvantagem:** A interface é pouco amigável e as tabelas são **pouco flexíveis e trabalhosas** de editar.
 
 ### Plano editorial com ferramenta de gerenciamento de social media
 
@@ -117,9 +116,11 @@ Outra opção são **ferramentas como Hootsuite, CoSchedule ou ContentPepper**. 
 
 ### Plano de social media no SeaTable
 
-Além disso, há **soluções inteligentes de banco de dados** como o SeaTable. Nas tabelas, você pode inserir todo tipo de informação, armazenar imagens, documentos e listas de tarefas. Assim, todo o conteúdo fica centralizado e os processos são refletidos em um plano editorial, onde **todos os membros da equipe colaboram em tempo real**.
+Além disso, há **soluções inteligentes de banco de dados** como o SeaTable. Nas tabelas, você pode inserir todo tipo de informação, armazenar imagens, documentos e listas de tarefas. Assim, todo o conteúdo fica centralizado e os processos são refletidos em um plano editorial, onde **todos os membros da equipe colaboram em tempo real**. Para sempre focar no que é mais importante, você pode **estruturar, exibir e analisar** os dados do seu plano de social media no SeaTable **de diferentes formas**.
 
-Para sempre focar no que é mais importante, você pode estruturar, exibir e analisar os dados do seu plano de social media no SeaTable de diferentes formas. [Cadastre-se online]({{< relref "pages/registration" >}}) e comece imediatamente. Aqui você encontra o [modelo gratuito de plano editorial]({{< relref "templates/marketing/social-media-plan" >}}), que pode ser ajustado às suas necessidades.
+{{< template-box id="e386be96230744a18802" >}}
+
+[Cadastre-se online]({{< relref "pages/registration" >}}) e comece imediatamente. Aqui você encontra o [modelo gratuito de plano editorial]({{< relref "templates/marketing/social-media-plan" >}}), que pode ser ajustado às suas necessidades.
 
 ## Conclusão
 

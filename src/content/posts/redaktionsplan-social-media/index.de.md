@@ -1,5 +1,5 @@
 ---
-title: 'Redaktionsplan für Social-Media - Damit behaltet ihr den Überblick'
+title: 'Redaktionsplan für Social-Media – so behalten Sie den Überblick'
 description: 'Um in Social Media messbare Erfolge zu erzielen, müssen Sie kontinuierlich neue Inhalte veröffentlichen. Und das oft mehrmals pro Woche für unterschiedliche Kanäle. Es gilt, termingerecht interessanten und unterhaltsamen Content zu posten. Bei der Umsetzung hilft Ihnen ein Social-Media-Plan. Lesen Sie in diesem Artikel, wie Sie mit einem solchen Redaktionsplan erfolgreich durchstarten.'
 date: 2024-02-07
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
     - 'Contentplanung'
 url: '/de/redaktionsplan-social-media'
-color: '#cc0512'
+color: '#93aae5'
 seo:
     title: 'Social-Media-Redaktionsplan: Jetzt effektiv planen'
     description: 'Erfahren Sie, wie Sie mit einem Social-Media-Plan Ihre Inhalte effizient steuern, planen und analysieren – jetzt alles in einem Tool'
@@ -56,12 +56,11 @@ Bevor Sie mit dem Konzept für Ihren Social-Media-Redaktionsplan beginnen, sollt
 3. Soll die Verwaltung von Bildern und Videos möglich sein?
 4. Geht es um organische Beiträge oder umfangreichere Social-Media-Kampagnen?
 5. Wie viele Teammitglieder sollen im Redaktionsplan Social-Media zusammenarbeiten?
+6. Welche Social-Media-Kanäle nutzen Sie?
 
 ![Mögliche Plattformen für Ihren Social Media Contentplan](Social-Media-Plan_card.jpg)
 
-Welche Social-Media-Kanäle nutzen Sie?
-
-Anschließend geht es an die Wahl des Tools, welches Ihr Vorhaben optimal unterstützt. Weiter unten lesen Sie mehr über mögliche [**Tools und Vorlagen für Ihren Social-Media-Plan**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Anschließend geht es an die Wahl des Tools, welches Ihr Vorhaben optimal unterstützt. Weiter unten lesen Sie mehr über mögliche [Tools und Vorlagen für Ihren Social-Media-Plan]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ## Was ein Social-Media-Redaktionsplan abdecken sollte
 
@@ -95,7 +94,7 @@ Um auf Instagram erfolgreich zu sein, ist eine gründliche Planung unerlässlich
 - **Effizienz:** Zeitersparnis durch vorbereitete Inhalte.
 - **Analyse:** Erfolge können besser gemessen und optimiert werden.
 
-Mit SeaTable kannst du deinen Instagram-Content ganz einfach planen. Nutze unsere Vorlage, um deine Ideen zu sammeln, Aufgaben zu verteilen und den Fortschritt zu verfolgen. So behältst du stets den Überblick und kannst deine Instagram-Strategie erfolgreich umsetzen.
+Mit SeaTable können Sie Ihren Instagram-Content ganz einfach planen. Nutzen Sie unsere Vorlage, um Ihre Ideen zu sammeln, Aufgaben zu verteilen und den Fortschritt zu verfolgen. So behalten Sie stets den Überblick und können Ihre Instagram-Strategie erfolgreich umsetzen.
 
 ## Tools und Vorlagen für Ihren Social-Media-Plan
 
@@ -105,19 +104,21 @@ Für die Erstellung Ihres Social-Media-Redaktionsplans eignen sich verschiedene 
 
 Wenn Sie bereits Google Docs oder Microsoft 365 nutzen, wäre eine einfache Möglichkeit, den **Social-Media-Plan in Excel oder Google Sheets zu erstellen**. Legen Sie für jeden Monat oder jedes Jahr ein neues Blatt an, welches eine Tabelle enthält. Hier verlinken Sie auf weitere Dokumente wie zum Beispiel Briefings, Bilder und Videos und tragen Texte direkt in die Liste ein.
 
-Im Internet finden Sie z**ahlreiche Social-Media-Plan-Vorlagen für die zwei bekanntesten Tools**.  
-**Der Vorteil:** Sie können mit einem vertrauten Programm arbeiten und sofort loslegen.  
-**Der Nachteil** von Excel und anderen Tabellenkalkulationen ist, dass die **Oberfläche wenig benutzerfreundlich** gestaltet ist und die Tabellen **unflexibel und umständlich** zu bearbeiten sind.
+Im Internet finden Sie **zahlreiche Social-Media-Plan-Vorlagen für die zwei bekanntesten Tools**.  
+- **Der Vorteil:** Sie können mit einem vertrauten Programm arbeiten und sofort loslegen.  
+- **Der Nachteil** von Excel und anderen Tabellenkalkulationen ist, dass die **Oberfläche wenig benutzerfreundlich** gestaltet ist und die Tabellen **unflexibel und umständlich** zu bearbeiten sind.
 
 ### Redaktionsplan mit Social-Media-Management-Tool
 
-Eine andere Option sind **Social-Media-Tools wie Hootsuite,CoSchedule oder ContentPepper**. Diese kommen direkt aus dem [Social-Media-Management]({{< relref "posts/social-media-management" >}}) und sind daher auf die Content-Planung spezialisiert. Der große Vorteil von Social-Media-Management-Tools ist, dass Sie die Beiträge mit ihnen sowohl planen und erstellen als auch direkt auf Social Media posten können. So sparen Sie sich den Aufwand für die Veröffentlichung auf den einzelnen Plattformen.
+Eine andere Option sind **Social-Media-Tools wie Hootsuite, CoSchedule oder ContentPepper**. Diese kommen direkt aus dem [Social-Media-Management]({{< relref "posts/social-media-management" >}}) und sind daher auf die Content-Planung spezialisiert. Der große Vorteil von Social-Media-Management-Tools ist, dass Sie die Beiträge mit ihnen sowohl planen und erstellen als auch direkt auf Social Media posten können. So sparen Sie sich den Aufwand für die Veröffentlichung auf den einzelnen Plattformen.
 
 ### Social-Media-Plan in SeaTable
 
-Darüber hinaus gibt es **intelligente Datenbank-Lösungen** wie SeaTable. In den Tabellen lassen sich Informationen aller Art eintragen sowie Bilder, Dokumente und To-do-Listen speichern. So bündeln Sie den gesamten Content an einem Ort und bilden Ihre Prozesse in einem Redaktionsplan ab, mit dem alle **Teammitglieder gemeinsam und in Echtzeit arbeiten** können.
+Darüber hinaus gibt es **intelligente Datenbank-Lösungen** wie SeaTable. In den Tabellen lassen sich Informationen aller Art eintragen sowie Bilder, Dokumente und To-do-Listen speichern. So bündeln Sie den gesamten Content an einem Ort und bilden Ihre Prozesse in einem Redaktionsplan ab, mit dem alle **Teammitglieder gemeinsam und in Echtzeit arbeiten** können. Um immer das Wichtigste für sich im Blick zu haben, können Sie die Daten in Ihrem SeaTable Social-Media-Plan **unterschiedlich strukturieren, darstellen und mit Statistiken auswerten**. 
 
-Um immer das Wichtigste für sich im Blick zu haben, können Sie die Daten in Ihrem SeaTable Social-Media-Plan **unterschiedlich strukturieren, darstellen und mit Statistiken auswerten**. [Sie registrieren sich online]({{< relref "pages/registration" >}}) und legen sofort los. Hier erhalten Sie die kostenfreie [Redaktionsplan Vorlage]({{< relref "templates/marketing/social-media-plan" >}}), die Sie genau an Ihre Bedürfnisse anpassen können.
+{{< template-box id="e386be96230744a18802" >}}
+
+[Sie registrieren sich online]({{< relref "pages/registration" >}}) und legen sofort los. Hier erhalten Sie die kostenfreie [Redaktionsplan Vorlage]({{< relref "templates/marketing/social-media-plan" >}}), die Sie genau an Ihre Bedürfnisse anpassen können.
 
 ## Fazit
 
