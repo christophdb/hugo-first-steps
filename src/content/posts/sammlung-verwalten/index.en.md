@@ -78,6 +78,8 @@ Apart from general open source collection programs, there are a large number of 
 
 For example, if you collect shoes, your database in SeaTable could look like this:
 
+{{< template-box id="cc4113f9d66f488db6e2" >}}
+
 [Register]({{< relref "pages/registration" >}}) with your e-mail address and start with the free version, which is completely sufficient for private collections. If you need more functions or storage space, switch to the Plus version for €7 per person per month or the Enterprise version for €14 per user per month.
 
 ## Conclusion
