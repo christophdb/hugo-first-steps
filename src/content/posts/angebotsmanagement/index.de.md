@@ -103,6 +103,8 @@ Dafür bietet der Markt heute schon einige Softwarelösungen, die vielseitig sin
 
 Wer das Rund-um-Sorglos-Paket für sein Angebotsmanagement sucht, findet mit [SeaTable]({{< relref "/" >}}) eine optimale, kostengünstige Alternative. Mit den Funktionen dieses Tools können Sie sämtliche Vertriebsprozesse automatisieren und alle Daten mittels integriertem Webformular unkompliziert sammeln. Für das Lösen von Kundenproblemen, die Beantwortung von Anfragen und das Sortieren von Feedback ist das ein großes Plus.
 
+{{< template-box id="80356f5aa87e4a879b52" >}}
+
 Sowohl CRM und Customer Support als auch Supply Chain Management können Sie mit SeaTable zentral an einem Ort managen und allen Mitarbeitern ganz ohne zusätzlichen Aufwand zur Verfügung stellen. So weiß jeder immer, wie der aktuelle Stand eines jeden Angebots ist. Und: mittels Zeitleiste und Kanban-Board können Sie [Fristen ganz einfach visualisieren und einhalten]({{< relref "templates/projects/project-plan" >}}). So legen Sie die Basis für eine wirklich erfolgreiche Vertriebsarbeit.
 
 Bildquelle Titelbild: © contrastwerkstatt/Adobe Stock
