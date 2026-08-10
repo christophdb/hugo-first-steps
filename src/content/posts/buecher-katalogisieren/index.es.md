@@ -18,7 +18,9 @@ tags:
 color: '#71c392'
 ---
 
-En este artículo le explicamos cómo puede catalogar sus libros, cuáles son las ventajas de hacerlo y qué aplicaciones le ayudan específicamente a catalogar sus libros.
+¿Le encanta leer y no se cansa de los libros? Eso es maravilloso, porque no hay mejor manera de sumergirse en mundos ajenos que con un libro. Pero, ¿sabe exactamente cuántos y qué libros posee en ese momento? ¿Y dónde se encuentra actualmente cada libro? Si no es así, existe la solución perfecta, porque con las aplicaciones adecuadas podrá catalogar sus libros de forma fácil, rápida y sin mucho esfuerzo.
+
+Este artículo explica las ventajas decisivas, qué aplicaciones le ayudan específicamente a catalogar sus libros y los mejores consejos para una gestión sensata de su propia colección de libros.
 
 ## Catalogación de libros: ¿por qué hacerlo?
 

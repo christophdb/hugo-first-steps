@@ -1,6 +1,6 @@
 ---
 title: 'Cataloguer des livres en toute simplicité'
-description: 'Passionné de lecture ? Organisez facilement votre collection : gérez les prêts, les listes d’envies et les statistiques de lecture. Découvrez les applications idéales pour suivre tous vos ouvrages et optimiser la gestion de votre bibliothèque, même virtuelle—pour que chaque livre soit toujours à portée de main.'
+description: 'Passionné de lecture ? Organisez facilement votre collection : gérez les prêts, les listes d’envies et les statistiques de lecture. Découvrez les applications idéales pour suivre tous vos ouvrages et optimiser la gestion de votre bibliothèque, même virtuelle – pour que chaque livre soit toujours à portée de main.'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
@@ -18,7 +18,9 @@ tags:
 color: '#71c392'
 ---
 
-Vous découvrirez dans cet article comment cataloguer vos livres, quels en sont les avantages et quelles applications vous aideront concrètement à cataloguer vos livres.
+Vous aimez lire et vous ne vous lassez jamais des livres ? C'est merveilleux, car il n'y a rien de mieux qu'un livre pour se plonger dans des univers inconnus. Mais savez-vous d'emblée combien de livres vous possédez et lesquels ? Et où se trouve tel ou tel livre ? Si ce n'est pas le cas, il existe une solution parfaite, car avec les bonnes applications, vous pouvez cataloguer vos livres - simplement, rapidement et sans grand effort.
+
+Vous trouverez dans cet article les avantages décisifs de cette solution, les applications qui vous aideront concrètement à cataloguer vos livres et les meilleurs conseils pour gérer judicieusement votre propre collection de livres.
 
 ## Cataloguer des livres - pourquoi le faire ?
 
