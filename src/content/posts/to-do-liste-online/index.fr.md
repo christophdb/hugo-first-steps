@@ -8,6 +8,7 @@ tags:
     - 'Outils & plugins'
     - 'Gestion de projet'
 url: '/fr/liste-taches-en-ligne'
+color: '#ca9fb9'
 aliases:
     - /fr/to-do-liste-online
 seo:
@@ -15,15 +16,15 @@ seo:
     description: "Découvrez la meilleure application pour votre liste de tâches et créez votre liste en ligne facilement avec un modèle prêt à l’emploi."
 ---
 
-Créer et gérer une liste de choses à faire utilisable en ligne avec une application présente de nombreux avantages. En effet, une **liste de choses à faire** vous aide, tant dans votre vie privée que dans vos activités professionnelles quotidiennes, à maîtriser efficacement vos tâches et à ne rien oublier dans le stress du quotidien. Découvrez dans cet article pourquoi vous devriez utiliser un **modèle** pour votre liste de choses à faire et quelle **application** est la plus appropriée pour une liste de choses à faire.
-
 ## Pourquoi une liste de choses à faire ?
 
 À la maison comme dans la [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
 
 Un **statut** vous permet d'indiquer si une tâche est en cours ou terminée. Un statut en suspens est également envisageable, lorsque vous attendez une réponse ou une contribution. En outre, vous devriez classer vos tâches par ordre de **priorité** afin de toujours traiter les plus importantes en premier.
 
-### Voici à quoi pourrait ressembler votre liste de choses à faire avec un modèle :
+### Voici à quoi pourrait ressembler votre liste de choses à faire avec un modèle
+
+{{< template id="6381c036ff2649739c80" >}}
 
 Vous souhaitez travailler directement avec ce modèle gratuit pour votre liste de choses à faire ? [Alors cliquez ici >>.]({{< relref "templates/projects/to-do-list" >}})
 
@@ -107,6 +108,8 @@ Dans la comparaison de toutes les apps considérées, SeaTable a de loin **le pl
 
 Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite]({{< relref "pages/registration" >}}) et le [modèle interactif]({{< relref "templates/projects/to-do-list" >}}). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
 
+{{< template-box id="6381c036ff2649739c80" >}}
+
 {{< warning headline="RGPD et souveraineté des données" >}}
 
 Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs.
@@ -117,15 +120,11 @@ Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la pla
 
 Une fois le choix de l'outil arrêté, il s'agit d'établir votre première liste de choses à faire dans l'application concernée. Lors de la mise en œuvre, tenez compte des conseils suivants :
 
-- Terminez la journée en **planifiant le** lendemain.
+- Terminez la journée en **planifiant le lendemain**.
 - Répartissez le temps de manière réaliste et prévoyez une **marge** pour pouvoir tenir compte des imprévus sans vous mettre sous pression.
-- Célébrez vos réussites. Choisissez un outil qui vous permet de **cocher** les tâches **ou de les marquer comme terminées**. Vous vous sentirez ainsi plus à l'aise.
+- Célébrez vos réussites. Choisissez un outil qui vous permet de **cocher les tâches ou de les marquer comme terminées**. Vous vous sentirez ainsi plus à l'aise.
 - Au quotidien, ne tenez pas seulement une, mais **au moins trois listes de choses à faire** dans l'application. Vous pouvez les classer par thème, par exemple en fonction des loisirs, des activités ménagères et des achats. Ou bien vous inscrivez toutes les tâches dans un backlog avec la date correspondante, afin de présenter les tâches dans une liste mensuelle, hebdomadaire et quotidienne grâce à différentes vues.
 
-![L'employé établit une liste de choses à faire en ligne](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
-
-Commencez par établir votre propre liste de choses à faire © Tarokmew / Adobe Stock
-
-## Conclusion
+## Conclusion : utilisez une liste de choses à faire numérique
 
 Une liste numérique de choses à faire est un outil important pour être organisé au quotidien. Comme vous avez accès à la liste de tâches où que vous soyez, vous pouvez noter immédiatement vos pensées et vous libérer l'esprit. Vous avez la possibilité de mieux structurer votre travail, de classer les choses à faire selon certains critères et de ne plus rien oublier. De même, il est plus facile de gérer le travail et la communication au sein de l'équipe.

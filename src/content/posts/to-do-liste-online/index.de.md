@@ -14,15 +14,15 @@ seo:
     description: 'Finden Sie die beste App für Ihre To-do-Liste und erstellen Sie Ihre Aufgabenliste einfach online mit einer passenden Vorlage.'
 ---
 
-Eine online nutzbare To do Liste mit einer App zu erstellen und zu verwalten bringt viele Vorteile mit sich. Denn eine **To-do-Liste** unterstützt Sie sowohl im Privatleben als auch im beruflichen Tagesgeschäft dabei, Ihre Aufgaben effizient zu meistern und im stressigen Alltag nichts zu vergessen. Lesen Sie in diesem Artikel, warum Sie für Ihre To do Liste eine **Vorlage** einsetzen sollten und welche **App** sich für eine To do Liste anbietet.
-
 ## Wofür Sie eine To-do-Liste brauchen
 
 Privat zuhause wie im professionellen [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) gilt es, alle anstehenden Aufgaben im Blick zu behalten und diese nach und nach abzuarbeiten. In einer To-do-Liste erfassen Sie zuallererst Ihre konkreten **Aufgaben**. Daraufhin definieren Sie gegebenenfalls **Unteraufgaben** oder übergreifende **Kategorien**, legen **Zuständigkeiten** fest und setzen **Fristen**.
 
 Mithilfe eines **Status** können Sie kennzeichnen, ob ein To-do in Bearbeitung oder erledigt ist. Auch ein Schwebezustand ist denkbar, wenn Sie auf Antwort oder Input warten. Zudem sollten Sie Ihre To-dos nach **Priorität** ordnen, um immer die wichtigsten Aufgaben zuerst anzugehen.
 
-### So könnte Ihre To-do-Liste mit einer Vorlage aussehen:
+### So könnte Ihre To-do-Liste mit einer Vorlage aussehen
+
+{{< template id="6381c036ff2649739c80" >}}
 
 Sie möchten direkt mit dieser kostenlosen Vorlage für Ihre To do Liste arbeiten? [Dann klicken Sie hier >>]({{< relref "templates/projects/to-do-list" >}})
 
@@ -106,6 +106,8 @@ Im Vergleich aller betrachteten Apps hat SeaTable den mit Abstand **größten Fu
 
 Bei SeaTable können Sie mit der [kostenfreien Version]({{< relref "pages/registration" >}}) und dem [interaktiven Template]({{< relref "templates/projects/to-do-list" >}}) sofort beginnen. Weitere Features sind in der Plus-Version für 7 € pro User und Monat, der Enterprise-Version für 14 € pro User und Monat oder einer dedizierten Cloud-Lösung erhältlich.
 
+{{< template-box id="6381c036ff2649739c80" >}}
+
 {{< warning headline="DSGVO und Datenhoheit" >}}
 
 Die Server der SeaTable Cloud befinden sich in Deutschland, sodass sich die Plattform auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet. Zudem haben Sie die Möglichkeit, [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) auf Ihren eigenen Servern zu installieren.
@@ -121,10 +123,6 @@ Wenn die Wahl des Tools feststeht, geht es an die Erstellung Ihrer ersten To do 
 - Feiern Sie Ihre Erfolge. Wählen Sie ein Tool, mit dem Sie Aufgaben **abhaken oder als erledigt markieren** können. Das gibt Ihnen ein gutes Gefühl.
 - Führen Sie im Alltag nicht nur eine, sondern **mindestens drei To-do-Listen** in der App. Diese können Sie thematisch zum Beispiel nach Hobbys, Haushaltstätigkeiten und Einkäufen unterscheiden. Oder Sie tragen in einem Backlog alle Aufgaben mit entsprechendem Datum ein, um mit verschiedenen Ansichten die Aufgaben in einer Monats-, Wochen- und Tagesliste darzustellen.
 
-![Mitarbeiter erstellt eine To do Liste online.](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
-
-Starten Sie mit Ihrer eigenen To-do-Liste © Tarokmew / Adobe Stock
-
-## Fazit
+## Fazit: Nutzen Sie eine digitale To-do-Liste
 
 Eine digitale To-do-Liste ist ein wichtiges Instrument, um organisiert durch den Alltag zu kommen. Da Sie von überall Zugriff auf die Aufgabenliste haben, können Sie Ihre Gedanken sofort notieren und bekommen den Kopf frei. Sie haben die Möglichkeit, Ihre Arbeit besser zu strukturieren, To-dos nach bestimmten Kriterien zu ordnen und nichts mehr zu vergessen. Ebenso lässt sich die Arbeit und Kommunikation im Team leichter managen.

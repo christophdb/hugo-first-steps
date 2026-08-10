@@ -9,7 +9,7 @@ tags:
 url: '/social-media-editorial-calendar'
 aliases:
     - /redaktionsplan-social-media
-color: '#cc0512'
+color: '#93aae5'
 seo:
     title: 'Social Media Content Plan: Organize and Schedule Effortlessly'
     description: 'Learn how to craft a social media editorial plan to manage, schedule, and analyze your content efficiently with all-in-one tools'
@@ -58,12 +58,11 @@ Before you start with the concept for your social media editorial plan, you shou
 3. Should it be possible to manage images and videos?
 4. Is it about organic posts or more extensive social media campaigns?
 5. How many team members should work together in the social media editorial plan?
+6. Which social media channels do you use?
 
 ![Possible platforms for your social media content plan](Social-Media-Plan_card.jpg)
 
-Which social media channels do you use?
-
-Then it's time to choose the tool that best supports your project. Below you can read more about possible [**tools and templates for your social media plan**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Then it's time to choose the tool that best supports your project. Below you can read more about possible [tools and templates for your social media plan]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ## What a social media editorial plan should cover
 
@@ -107,9 +106,9 @@ Various tools are suitable for creating your social media editorial plan. Choose
 
 If you already use Google Docs or Microsoft 365, an easy option would be to create the **social media plan in Excel or Google Sheets**. Create a new sheet containing a table for each month or year. Here you can link to other documents such as briefings, images and videos and enter texts directly into the list.
 
-You can find**numerous social media plan templates for the two best-known tools** on the Internet.  
-**The advantage:** you can work with a familiar program and get started straight away.  
-**The disadvantage** of Excel and other spreadsheets is that the **interface is not very user-friendly** and the tables are **inflexible and cumbersome** to edit.
+You can find **numerous social media plan templates for the two best-known tools** on the Internet.  
+- **The advantage:** you can work with a familiar program and get started straight away.  
+- **The disadvantage** of Excel and other spreadsheets is that the **interface is not very user-friendly** and the tables are **inflexible and cumbersome** to edit.
 
 ### Editorial plan with social media management tool
 
@@ -117,9 +116,11 @@ Another option are **social media tools such as Hootsuite, CoSchedule or Content
 
 ### Social media plan in SeaTable
 
-There are also **intelligent database solutions** such as SeaTable. All kinds of information can be entered in the tables, as well as images, documents and to-do lists. This allows you to bundle all content in one place and map your processes in an editorial plan that all **team members** can **work** with **together in real time**.
+There are also **intelligent database solutions** such as SeaTable. All kinds of information can be entered in the tables, as well as images, documents and to-do lists. This allows you to bundle all content in one place and map your processes in an editorial plan that all **team members** can **work** with **together in real time**. You can **structure and display** the data in your SeaTable social media plan **in different ways and analyze it with statistics** so that you always have the most important information at a glance.
 
-You can **structure and display** the data in your SeaTable social media plan **in different ways and analyze it with statistics** so that you always have the most important information at a glance. [Register online]({{< relref "pages/registration" >}}) and get started right away. Here you can get the free [editorial plan template]({{< relref "templates/marketing/social-media-plan" >}}), which you can customize exactly to your needs.
+{{< template-box id="e386be96230744a18802" >}}
+
+[Register online]({{< relref "pages/registration" >}}) and get started right away. Here you can get the free [editorial plan template]({{< relref "templates/marketing/social-media-plan" >}}), which you can customize exactly to your needs.
 
 ## Conclusion
 

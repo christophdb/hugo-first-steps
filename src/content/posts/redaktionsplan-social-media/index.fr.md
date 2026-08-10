@@ -9,7 +9,7 @@ tags:
 url: '/fr/calendrier-editorial-social-media'
 aliases:
     - /fr/redaktionsplan-social-media
-color: '#cc0512'
+color: '#93aae5'
 seo:
     title: 'Gestion de contenu social : Planifiez et organisez efficacement'
     description: 'Découvrez comment élaborer un plan éditorial pour gérer, programmer et analyser votre contenu social efficacement avec un seul outil'
@@ -58,12 +58,11 @@ Avant de commencer à concevoir votre plan éditorial pour les médias sociaux, 
 3. Doit-il être possible de gérer des images et des vidéos ?
 4. S'agit-il de contributions organiques ou de campagnes de médias sociaux plus importantes ?
 5. Combien de membres de l'équipe doivent-ils collaborer dans le plan éditorial des médias sociaux ?
+6. Quels sont les canaux de médias sociaux que vous utilisez ?
 
 ![Plateformes possibles pour votre plan de contenu de médias sociaux](Social-Media-Plan_card.jpg)
 
-Quels sont les canaux de médias sociaux que vous utilisez ?
-
-Il s'agit ensuite de choisir l'outil qui soutiendra le mieux votre projet. Vous trouverez ci-dessous plus d'informations sur les [**Outils et modèles pour votre plan de médias sociaux**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Il s'agit ensuite de choisir l'outil qui soutiendra le mieux votre projet. Vous trouverez ci-dessous plus d'informations sur les [outils et modèles pour votre plan de médias sociaux]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ## Ce que doit couvrir un plan éditorial pour les médias sociaux
 
@@ -93,11 +92,11 @@ Pour réussir sur Instagram, une planification minutieuse est indispensable. Pla
 **Pourquoi la planification est-elle si importante ?**
 
 - **Cohérence :** un plan bien pensé permet d'obtenir un look et une sensation cohérents.
-- **la pertinence :** Le contenu peut être mieux adapté au groupe cible.
+- **Pertinence :** Le contenu peut être mieux adapté au groupe cible.
 - **Efficacité :** Gain de temps grâce à des contenus préparés à l'avance.
 - **Analyse :** les succès peuvent être mieux mesurés et optimisés.
 
-Avec SeaTable, tu peux facilement planifier ton contenu Instagram. Utilise notre modèle pour rassembler tes idées, répartir les tâches et suivre les progrès. Ainsi, tu gardes toujours une vue d'ensemble et tu peux mettre en œuvre ta stratégie Instagram avec succès.
+Avec SeaTable, vous pouvez facilement planifier votre contenu Instagram. Utilisez notre modèle pour rassembler vos idées, répartir les tâches et suivre les progrès. Ainsi, vous gardez toujours une vue d'ensemble et vous pouvez mettre en œuvre votre stratégie Instagram avec succès.
 
 ## Outils et modèles pour votre plan de médias sociaux
 
@@ -107,19 +106,21 @@ Différents outils conviennent à la création de votre plan éditorial pour les
 
 Si vous utilisez déjà Google Docs ou Microsoft 365, une possibilité simple serait de créer le **plan des médias sociaux dans Excel ou Google Sheets**. Créez une nouvelle feuille pour chaque mois ou chaque année, qui contient un tableau. Ici, vous faites un lien vers d'autres documents comme par exemple des briefings, des images et des vidéos et vous inscrivez des textes directement dans la liste.
 
-Vous trouverez sur Internet**de nombreux modèles de plans pour les médias sociaux pour les deux outils les plus connus**.  
-**L'avantage :** vous pouvez travailler avec un programme familier et vous lancer immédiatement.  
-**L'inconvénient** d'Excel et d'autres tableurs est que l'**interface** est conçue de manière **peu conviviale** et que les tableaux sont **peu flexibles et difficiles** à éditer.
+Vous trouverez sur Internet **de nombreux modèles de plans pour les médias sociaux pour les deux outils les plus connus**.  
+- **L'avantage :** vous pouvez travailler avec un programme familier et vous lancer immédiatement.  
+- **L'inconvénient** d'Excel et d'autres tableurs est que l'**interface** est conçue de manière **peu conviviale** et que les tableaux sont **peu flexibles et difficiles** à éditer.
 
 ### Plan éditorial avec outil de gestion des médias sociaux
 
-Une autre option consiste à **utiliser des outils de médias sociaux tels que Hootsuite,CoSchedule ou ContentPepper**. Ceux-ci sont directement issus de la [gestion des médias sociaux]({{< relref "posts/social-media-management" >}}) et sont donc spécialisés dans la planification de contenu. Le grand avantage des outils de gestion des médias sociaux est qu'ils vous permettent à la fois de planifier et de créer des contributions et de les publier directement sur les médias sociaux. Vous vous épargnez ainsi le travail de publication sur les différentes plates-formes.
+Une autre option consiste à **utiliser des outils de médias sociaux tels que Hootsuite, CoSchedule ou ContentPepper**. Ceux-ci sont directement issus de la [gestion des médias sociaux]({{< relref "posts/social-media-management" >}}) et sont donc spécialisés dans la planification de contenu. Le grand avantage des outils de gestion des médias sociaux est qu'ils vous permettent à la fois de planifier et de créer des contributions et de les publier directement sur les médias sociaux. Vous vous épargnez ainsi le travail de publication sur les différentes plates-formes.
 
 ### Plan des médias sociaux dans SeaTable
 
-Il existe en outre **des solutions de base de données intelligentes** comme SeaTable. Ces tableaux permettent de saisir des informations de toutes sortes et de stocker des images, des documents et des listes de choses à faire. Vous regroupez ainsi l'ensemble du contenu en un seul endroit et représentez vos processus dans un plan éditorial avec lequel tous les **membres de l'équipe** peuvent **travailler ensemble et en temps réel**.
+Il existe en outre **des solutions de base de données intelligentes** comme SeaTable. Ces tableaux permettent de saisir des informations de toutes sortes et de stocker des images, des documents et des listes de choses à faire. Vous regroupez ainsi l'ensemble du contenu en un seul endroit et représentez vos processus dans un plan éditorial avec lequel tous les **membres de l'équipe** peuvent **travailler ensemble et en temps réel**. Pour avoir toujours l'essentiel sous les yeux, vous pouvez **structurer et afficher** les données de votre plan de médias sociaux SeaTable **de différentes manières et les analyser à l'aide de statistiques**.
 
-Pour avoir toujours l'essentiel sous les yeux, vous pouvez **structurer et afficher** les données de votre plan de médias sociaux SeaTable **de différentes manières et les analyser à l'aide de statistiques**. [Vous vous inscrivez en ligne]({{< relref "pages/registration" >}}) et commencez immédiatement. Vous recevez ici le [modèle de plan éditorial]({{< relref "templates/marketing/social-media-plan" >}}) gratuit que vous pouvez adapter exactement à vos besoins.
+{{< template-box id="e386be96230744a18802" >}}
+
+[Vous vous inscrivez en ligne]({{< relref "pages/registration" >}}) et commencez immédiatement. Vous recevez ici le [modèle de plan éditorial]({{< relref "templates/marketing/social-media-plan" >}}) gratuit que vous pouvez adapter exactement à vos besoins.
 
 ## Conclusion
 

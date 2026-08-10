@@ -77,6 +77,8 @@ En dehors des programmes de collection open source généraux, il existe une mul
 
 Par exemple, si vous collectionnez des chaussures, votre base de données pourrait ressembler à ceci dans SeaTable :
 
+{{< template-box id="cc4113f9d66f488db6e2" >}}
+
 [Inscrivez-vous]({{< relref "pages/registration" >}}) avec votre adresse e-mail et commencez avec la version gratuite, qui suffit amplement pour les collections privées. Si vous avez besoin de plus de fonctions ou d'espace de stockage, passez à la version Plus pour 7 € par personne et par mois ou à la version Enterprise pour 14 € par utilisateur et par mois.
 
 ## Conclusion

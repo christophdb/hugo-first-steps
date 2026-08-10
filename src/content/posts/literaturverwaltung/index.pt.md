@@ -114,6 +114,8 @@ No entanto, o JabRef também tem pontos fracos. A gestão de referências não f
 
 SeaTable oferece-lhe uma alternativa **tabular** aos programas de gestão de literatura já apresentados. A interface do utilizador é de utilização **intuitiva** e oferece muitas funcionalidades úteis para o ajudar a organizar a sua literatura de forma rápida e fácil.
 
+{{< template id="afeb7cc5783744bfa3f7" >}}
+
 O [modelo]({{< relref "templates/everyday-life/bibliography" >}}) dá-lhe uma visão geral da forma como pode utilizar o programa e adaptá-lo às suas necessidades. O SeaTable é uma base de dados na qual pode introduzir os seus dados em tabelas, ligá-los a tarefas e enriquecê-los com documentos. **A colaboração em equipa** é possível **em tempo real**.
 
 SeaTable está disponível como uma **versão gratuita na nuvem** ou como um programa para o seu próprio servidor. Se pretender receber funcionalidades adicionais e colaborar com mais utilizadores, tem a opção de fazer uma atualização. A versão Plus custa 7 euros por utilizador por mês e a versão Enterprise custa 14 euros por utilizador por mês.
@@ -204,5 +206,7 @@ Não confie totalmente no programa. Deve rever a bibliografia antes de apresenta
 O programa de gestão de referências mais adequado para si depende das funções que pretende utilizar e do montante que está disposto a investir no programa. É também aconselhável testar os programas gratuitamente.
 
 O SeaTable oferece-lhe um [modelo]({{< relref "templates/everyday-life/bibliography" >}}) no qual pode encontrar exemplos de literatura e seguir o processo desde a introdução das fontes até à produção da bibliografia. Pode adaptar o modelo às suas necessidades, inserir as suas próprias fontes e estruturas e visualizá-las com muitas ferramentas úteis.
+
+{{< template-box id="afeb7cc5783744bfa3f7" >}}
 
 Se pretender utilizar o SeaTable como programa de gestão de referências, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente.
