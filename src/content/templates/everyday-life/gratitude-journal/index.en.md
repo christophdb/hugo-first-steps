@@ -179,6 +179,6 @@ sections:
          a: 'You can expand or modify your gratitude journal template at any time—for example, by adding different questions or extra columns for mood tracking, goals, or a small [food diary]({{< relref "templates/healthcare/food-diary" >}}). Since SeaTable is a no-code platform, you can tailor your digital gratitude journal to your lifestyle without any programming.'
        - q: "Can I securely store my entries in the cloud while still keeping them private?"
          a: 'Yes, your entries are stored in a secure cloud environment and are visible only to you by default, unless you intentionally share the base with others. This allows you to use your gratitude journal digitally while deciding whether to keep it completely private or share it with your family.'
-       - q: “Is there a limit to the number of entries or photos in the gratitude journal template?”
-         a: “SeaTable’s gratitude journal template is flexible and scales with your needs. You can add as many entries and photos as you like without being constrained by rigid app limits. This makes SeaTable particularly well-suited for long-term mindfulness and journaling projects and allows you to customize and expand your gratitude journal template.'
+       - q: 'Is there a limit to the number of entries or photos in the gratitude journal template?'
+         a: SeaTable’s gratitude journal template is flexible and scales with your needs. You can add as many entries and photos as you like without being constrained by rigid app limits. This makes SeaTable particularly well-suited for long-term mindfulness and journaling projects and allows you to customize and expand your gratitude journal template.
 ---    
