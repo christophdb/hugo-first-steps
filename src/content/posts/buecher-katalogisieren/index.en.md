@@ -19,13 +19,11 @@ tags:
 color: '#71c392'
 ---
 
-Do you love reading and can't get enough of books? That's wonderful, because there's no better way to immerse yourself in foreign worlds than with a book. But do you know exactly how many and which books you own right away? And where which book is currently located? If not, there is the perfect solution, because with the right apps you can catalog your books - easily, quickly and without much effort.
-
-In this article, you'll learn about the decisive advantages, which apps specifically help you catalog your books, and the best tips for sensibly managing your own book collection.
+In this article, you'll learn how to catalog your books, what the advantages are and which apps specifically help you catalog your books.
 
 ## Cataloging books - why do it at all?
 
-The question of whether and how useful it is to catalog your books depends primarily on how large your private book collection is. If you can count your books on two hands, you certainly don't need a digital organizer. However, as soon as your book consumption starts to move in the direction of bookworm, there are several arguments in favor of cataloging books:
+The question of whether and how useful it is to catalog your books depends primarily on how large your private book collection is. If you can count your books on two hands, you certainly don't need a digital organizer to manage your book collection. However, as soon as your book consumption starts to move in the direction of bookworm, there are several arguments in favor of cataloging books.
 
 ### Cataloging your books provides clarity
 
@@ -39,7 +37,7 @@ Cataloging books © Viktoriia / Adobe Stock
 
 ### You can easily keep book wish lists
 
-You can never have enough books. But what was the name of that one work you heard about the other day? It's good to have a digital wish list of the books you're dying to read. That's also perfectly solved with a book app that helps you catalog your books. Plus, a wishlist is a great way to help friends and family choose gifts at birthday time.
+You can never have enough books. But what was the name of that one work you heard about the other day? It's good to have a digital wish list of the books you're dying to read. That's also perfectly solved with a book app that helps you catalog your books. Plus, a [wish list]({{< relref "posts/wunschzettel" >}}) is a great way to help friends and family choose gifts at birthday time.
 
 ### Cataloging books promotes exchange
 
@@ -55,8 +53,7 @@ If you not only want to catalog your books, but also want to record how many boo
 
 Have you decided that you want to catalog your books? Now it's time to find the right method. The "old-school" variant with a notebook and handwritten list is an option. The disadvantage of this, however, is that you can record your books this way, but nothing more. This is because a notebook offers you neither automatic search functions, statistics nor the option of networking with others. You also have to enter each work manually and it is difficult to change the list later.
 
-It is similar if you organize your books using Excel  
-or Google Sheets. Here you also have to enter each individual title and the associated information yourself. That takes a lot of time. Automation, networking and statistics? They don't exist there either.
+It is similar if you organize your books using Excel or Google Sheets. Here you also have to enter each individual title and the associated information yourself. That takes a lot of time. Automation, networking and statistics? They don't exist there either.
 
 If you want to catalog, organize and manage your books in a meaningful way, you should work with a book app or library apps. It's quick, uncomplicated and doesn't require a pen or piece of paper.
 
@@ -66,7 +63,7 @@ Cataloging books © NDABCREATIVITY / Adobe Stock
 
 ## How does a book app work?
 
-First and foremost, book and library apps are there to make it easier for you to manage your collected works. The principle behind it is very simple: scan the [ISBN](https://de.wikipedia.org/wiki/Internationale_Standardbuchnummer) or the blurb, assign it to a suitable category and you're done. The following overview shows you which are the best-known book apps and which functions they offer:
+First and foremost, book and library apps are there to make it easier for you to manage your collected works. The principle behind it is very simple: scan the [ISBN](https://en.wikipedia.org/wiki/ISBN) or the blurb, assign it to a suitable category and you're done. The following overview shows you which are the best-known book apps and which functions they offer:
 
 ### Book Stats
 
@@ -80,13 +77,15 @@ If you want to catalog books with as little effort as possible, this free librar
 
 In addition to the possibility of recording books read, this free platform offers readers the opportunity to exchange ideas with like-minded people, but also with the authors of their favorite books. You can also rate books and access the ratings of others. If you wish, you can add community members to your own friends list and see what others are reading or recommending. The disadvantage is that you have to enter each book manually. There is also no cataloging function to help you keep track of the inventory or the location of the books.
 
-### My library
+### My Library
 
 This free book app uses numerous online databases such as Amazon, Google, Open Library, Libris and many more when searching for titles. Titles that the app cannot find must be entered manually. The big advantage of this app is that it automatically converts photographed blurb texts from photos to text and saves time-consuming typing. It also offers a separate list for comics. But: This app only works on Android devices for cataloging books.
 
 ### SeaTable
 
-If you want to [create]({{< relref "posts/inventarliste-erstellen" >}}) an [inventory list]({{< relref "posts/inventarliste-erstellen" >}}) for your books using simple tables, SeaTable is the right tool for you. Simply enter the relevant title in a list, add further information on the author and publisher if required and organize it clearly (e.g. by genre, reading status or rating). Would you like to make your book catalog available to others? You can easily do this by sharing your lists.
+If you want to [create an inventory list]({{< relref "posts/inventarliste-erstellen" >}}) using simple tables, SeaTable is the right tool for you. Simply enter the relevant title in a list, add further information on the author and publisher if required and organize it clearly (e.g. by genre, reading status or rating). Would you like to make your book catalog available to others? You can easily do this by sharing your lists.
+
+{{< template-box id="1a98cfea0a6548d599c3" >}}
 
 You can open the free cloud version of SeaTable directly in your browser. [Register]({{< relref "pages/registration" >}}) today and get started with our [free template]({{< relref "templates/everyday-life/book-list-library" >}}) for your book list or library. By the way: The tool is also suitable for academic [literature management]({{< relref "posts/literaturverwaltung" >}}).
 

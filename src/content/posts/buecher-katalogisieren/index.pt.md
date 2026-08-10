@@ -18,19 +18,17 @@ tags:
 color: '#71c392'
 ---
 
-Adora ler e não se farta de livros? Isso é ótimo, porque não há melhor maneira de mergulhar em mundos estrangeiros do que com um livro. Mas sabe exatamente quantos e quais os livros que possui imediatamente? E onde é que cada livro se encontra atualmente? Se não, existe a solução perfeita, porque com as aplicações certas pode catalogar os seus livros - de forma fácil, rápida e sem grande esforço.
-
-Este artigo explica as vantagens decisivas, as aplicações que o ajudam especificamente a catalogar os seus livros e as melhores dicas para uma gestão sensata da sua própria colecção de livros.
+Neste artigo, fica a saber como pode catalogar os seus livros, quais são as vantagens de o fazer e que aplicações o ajudam especificamente a catalogar os seus livros.
 
 ## Catalogação de livros - porquê fazê-lo de todo?
 
-A questão da utilidade de catalogar os seus livros depende, em primeiro lugar, da dimensão da sua coleção privada de livros. Se consegue contar os seus livros com duas mãos, não precisa certamente de um organizador digital. No entanto, a partir do momento em que o seu consumo de livros começa a aproximar-se do de um "bookworm", há vários argumentos a favor da catalogação dos livros:
+A questão da utilidade de catalogar os seus livros depende, em primeiro lugar, da dimensão da sua coleção privada de livros. Se consegue contar os seus livros com duas mãos, não precisa certamente de um organizador digital para gerir a sua coleção de livros. No entanto, a partir do momento em que o seu consumo de livros começa a aproximar-se do de um rato de biblioteca, há vários argumentos a favor da catalogação dos livros.
 
 ### A catalogação dos seus livros proporciona clareza
 
-Quanto maior for o número de livros, mais difícil será manter um registo de todos eles. Pode acontecer que um ou dois livros sejam comprados duas vezes. Se os seus livros estiverem corretamente catalogados, pode evitar estas compras em duplicado. A catalogação dos livros também ajuda a manter o registo dos livros emprestados ou emprestados e a não se esquecer de os devolver.
+Quanto maior for o número de livros, mais difícil será manter um registo de todos eles. Pode acontecer que um ou dois livros sejam comprados duas vezes. Se os seus livros estiverem corretamente catalogados, pode evitar estas compras em duplicado. A catalogação dos livros também ajuda a manter o registo dos livros que emprestou ou requisitou e a não se esquecer de os devolver.
 
-Tem mais de uma estante e os locais dos seus livros estão espalhados por várias salas? Então é também muito útil catalogar os seus livros. Com a aplicação do livro certo, sabe exactamente qual é o livro onde está e não tem de o procurar quando precisa dele rapidamente.
+Tem mais de uma estante e os locais dos seus livros estão espalhados por várias salas? Então é também muito útil catalogar os seus livros. Com a aplicação de livros certa, sabe exatamente onde está cada livro e não tem de o procurar quando precisa dele rapidamente.
 
 ![A mulher cataloga os seus livros com aplicação de livro.](buecher-katalogisieren-frau.jpg)
 
@@ -38,13 +36,13 @@ Catalogação de livros © Viktoriia / Adobe Stock
 
 ### Pode facilmente manter listas de desejos de livros
 
-Nunca se pode ter livros suficientes. Mas qual foi o nome daquele trabalho de que ouviu falar no outro dia? É bom ter os livros que ainda deseja absolutamente ler escritos numa lista de desejos digital. Isso também é perfeitamente resolvido com uma aplicação de livro que o ajuda a catalogar os seus livros. Mais: Através da lista de desejos pode ajudar de forma óptima amigos e familiares a escolherem presentes na altura do aniversário.
+Nunca se pode ter livros suficientes. Mas qual foi o nome daquele trabalho de que ouviu falar no outro dia? É bom ter os livros que ainda deseja absolutamente ler escritos numa lista de desejos digital. Isso também é perfeitamente resolvido com uma aplicação de livros que o ajuda a catalogar os seus livros. Mais: Através da [lista de desejos]({{< relref "posts/wunschzettel" >}}) pode ajudar de forma ótima amigos e familiares a escolherem presentes na altura do aniversário.
 
 ### A catalogação de livros promove o intercâmbio
 
 Mesmo que leia normalmente sozinho, a socialização com pessoas que pensam da mesma forma é uma obrigação para muitos leitores. Uma aplicação de biblioteca para catalogar livros também pode ajudar. Muitas aplicações incluem agora também uma função de fórum que facilita a troca de ideias com outros fãs de livros.
 
-Quem leu o livro mais espesso? E quem tem devorado mais livros? Para além da possibilidade de catalogar livros e trocar ideias entre si, muitas aplicações de livros também oferecem vários desafios de leitura nos seus fóruns, nos quais qualquer pessoa da comunidade pode participar.
+Quem leu o livro mais grosso? E quem devorou mais livros? Para além da possibilidade de catalogar livros e trocar ideias entre si, muitas aplicações de livros também oferecem vários desafios de leitura nos seus fóruns, nos quais qualquer pessoa da comunidade pode participar.
 
 ### Mantém melhor as estatísticas quando tem uma visão geral de todos os factos
 
@@ -54,8 +52,7 @@ Se não quiser apenas catalogar os seus livros, mas também registar quantos liv
 
 Já decidiu que quer catalogar os seus livros? Agora é altura de encontrar o método certo. A primeira opção é a versão "old-school", com um caderno e uma lista escrita à mão. No entanto, a desvantagem deste método é que os livros são catalogados desta forma, mas nada mais. Com efeito, um caderno não oferece funções de pesquisa automática, estatísticas nem a possibilidade de trabalhar em rede com outros. Além disso, é necessário registar cada obra manualmente e é difícil alterar a lista mais tarde.
 
-É semelhante se organizar os seus livros utilizando o Excel  
-ou o Google Sheets para organizar os seus livros. Aqui também tem de introduzir cada título individual e as informações associadas. Isso leva muito tempo. Automatização, redes e estatísticas? Também não existem aqui.
+É semelhante se organizar os seus livros utilizando o Excel ou o Google Sheets. Aqui também tem de introduzir cada título individual e as informações associadas. Isso leva muito tempo. Automatização, redes e estatísticas? Também não existem aqui.
 
 Se quiser catalogar, organizar e gerir os seus livros de forma sensata, deve utilizar uma aplicação para livros ou uma aplicação para bibliotecas. É rápido, descomplicado e não requer uma caneta ou um pedaço de papel.
 
@@ -65,9 +62,9 @@ Catalogação de livros © NDABCREATIVITY / Adobe Stock
 
 ## Como funciona uma aplicação de livro?
 
-Antes de mais, as aplicações para livros e bibliotecas existem para facilitar a gestão das suas obras coleccionadas. O princípio subjacente é muito simples: digitalize o [ISBN](https://de.wikipedia.org/wiki/Internationale_Standardbuchnummer) ou a sinopse, atribua-o a uma categoria adequada e já está. A seguinte visão geral mostra-lhe quais são as aplicações de livros mais conhecidas e quais as funções que oferecem:
+Antes de mais, as aplicações para livros e bibliotecas existem para facilitar a gestão das suas obras colecionadas. O princípio subjacente é muito simples: digitalize o [ISBN](https://pt.wikipedia.org/wiki/International_Standard_Book_Number) ou a sinopse, atribua-o a uma categoria adequada e já está. A seguinte visão geral mostra-lhe quais são as aplicações de livros mais conhecidas e quais as funções que oferecem:
 
-### Estatísticas de livros
+### Book Stats
 
 Os livros podem ser adicionados através de pesquisa ou leitura de código de barras/ISBN e ordenados por várias categorias, como título, autor, capa, número de página e género. Esta aplicação gratuita para catalogar livros também permite criar várias estatísticas e listas diferentes (lidos, não lidos, lista de desejos, etc.). A Book Stats pode ser utilizada tanto em dispositivos Android como iOS.
 
@@ -85,16 +82,18 @@ Esta aplicação gratuita de livros utiliza várias bases de dados online, como 
 
 ### SeaTable
 
-Se pretende [criar]({{< relref "posts/inventarliste-erstellen" >}}) uma [lista de inventário]({{< relref "posts/inventarliste-erstellen" >}}) para os seus livros utilizando tabelas simples, o SeaTable é a ferramenta certa para si. Basta introduzir o título relevante numa lista, adicionar mais informações sobre o autor e a editora, se necessário, e organizá-la de forma clara (por exemplo, por género, estado de leitura ou classificação). Gostaria de disponibilizar o seu catálogo de livros a outras pessoas? Pode fazê-lo facilmente partilhando as suas listas.
+Se pretende [criar uma lista de inventário]({{< relref "posts/inventarliste-erstellen" >}}) utilizando tabelas simples, o SeaTable é a ferramenta certa para si. Basta introduzir o título relevante numa lista, adicionar mais informações sobre o autor e a editora, se necessário, e organizá-la de forma clara (por exemplo, por género, estado de leitura ou classificação). Gostaria de disponibilizar o seu catálogo de livros a outras pessoas? Pode fazê-lo facilmente partilhando as suas listas.
+
+{{< template-box id="1a98cfea0a6548d599c3" >}}
 
 Pode abrir a versão gratuita do SeaTable na nuvem diretamente no seu browser. [Registe-se]({{< relref "pages/registration" >}}) hoje e comece a utilizar o nosso [modelo gratuito]({{< relref "templates/everyday-life/book-list-library" >}}) para a sua lista de livros ou biblioteca. A propósito: a ferramenta também é adequada para a [gestão de literatura]({{< relref "posts/literaturverwaltung" >}}) académica.
 
 ## Três dicas sobre a melhor forma de catalogar livros
 
-Independentemente do meio que acabe por utilizar, há três factores que determinam o quão bem pode catalogar os seus livros e qual é realmente a aplicação correcta:
+Independentemente do meio que acabe por utilizar, há três fatores que determinam o quão bem pode catalogar os seus livros e qual é realmente a aplicação correta:
 
 1. **Sistematização sensata**: Antes mesmo de começar a registar os seus livros, considere qual o sistema de arquivo mais adequado às suas necessidades.
-2. **Informação inteligente**: A informação que se pretende registar também é importante para a escolha da aplicação certa. O título e o autor são suficientes ou devem ser incluídos outros aspectos como o género, o estado de leitura, etc.?
+2. **Informação inteligente**: A informação que se pretende registar também é importante para a escolha da aplicação certa. O título e o autor são suficientes ou devem ser incluídos outros aspetos como o género, o estado de leitura, etc.?
 3. **Gestão do tempo**: Quanto mais livros tiver, mais tempo demorará a catalogá-los. Para não perder a motivação, planeie mais tempo. No final, será recompensado com uma biblioteca privada completa.
 
 ![Pilha de livros a serem catalogados numa aplicação de livro.](buecher-stapel.jpg)
