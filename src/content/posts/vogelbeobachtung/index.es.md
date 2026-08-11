@@ -14,7 +14,7 @@ seo:
 register:
    draft: true
 ---
-Unos prismáticos, una tranquila mañana en el bosque y el canto de un pájaro desconocido. Lo que antes se consideraba un pasatiempo anticuado para jubilados está viviendo ahora un sorprendente renacimiento. La observación de aves está en auge, y no solo entre el público de más edad. Cada vez son más los jóvenes que descubren **la observación de especies de aves autóctonas y exóticas como una forma consciente de desconectar de la rutina digital**. 
+Unos prismáticos, una tranquila mañana en el bosque y el canto de un pájaro desconocido. Lo que antes se consideraba un pasatiempo anticuado para jubilados está viviendo ahora un sorprendente renacimiento. La observación de aves está en auge, y no solo entre el público de más edad. Cada vez son más los jóvenes que descubren **la observación de especies de aves autóctonas y exóticas como una forma consciente de [desconectar de la rutina digital]({{< relref "posts/digital-detox" >}})**. 
 
 En este artículo descubrirás por qué la observación de aves es tan popular precisamente ahora, cómo dar los primeros pasos, si merece la pena participar en excursiones de observación de aves y por qué resulta útil documentar digitalmente tus observaciones.
 

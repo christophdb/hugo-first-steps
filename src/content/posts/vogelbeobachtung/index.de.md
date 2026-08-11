@@ -14,7 +14,7 @@ seo:
 register:
    draft: true
 ---
-Ein Fernglas, ein ruhiger Morgen im Wald und der Ruf eines unbekannten Vogels. Was früher als verstaubtes Hobby der Rentner galt, erlebt gerade eine überraschende Renaissance. Vogelbeobachtung boomt, und das nicht nur bei der älteren Zielgruppe. Immer mehr junge Menschen entdecken **das Beobachten heimischer und exotischer Vogelarten als bewusste Auszeit vom digitalen Alltag**. 
+Ein Fernglas, ein ruhiger Morgen im Wald und der Ruf eines unbekannten Vogels. Was früher als verstaubtes Hobby der Rentner galt, erlebt gerade eine überraschende Renaissance. Vogelbeobachtung boomt, und das nicht nur bei der älteren Zielgruppe. Immer mehr junge Menschen entdecken **das Beobachten heimischer und exotischer Vogelarten als bewusste [Auszeit vom digitalen Alltag]({{< relref "posts/digital-detox" >}})**. 
 
 In diesem Artikel erfahren Sie, warum Vogelbeobachtung gerade jetzt so beliebt ist, wie Ihnen der Einstieg gelingt, ob Birdwatching-Touren sich lohnen und warum sich die digitale Dokumentation Ihrer Beobachtungen auszahlt.
 
