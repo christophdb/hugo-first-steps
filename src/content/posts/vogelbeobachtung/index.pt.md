@@ -14,7 +14,7 @@ seo:
 register:
    draft: true
 ---
-Um par de binóculos, uma manhã tranquila na floresta e o canto de um pássaro desconhecido. O que antes era considerado um passatempo antiquado dos reformados está agora a viver um renascimento surpreendente. A observação de aves está em alta, e não apenas entre o público mais velho. Cada vez mais jovens estão a descobrir **a observação de espécies de aves nativas e exóticas como uma pausa consciente da rotina digital**. 
+Um par de binóculos, uma manhã tranquila na floresta e o canto de um pássaro desconhecido. O que antes era considerado um passatempo antiquado dos reformados está agora a viver um renascimento surpreendente. A observação de aves está em alta, e não apenas entre o público mais velho. Cada vez mais jovens estão a descobrir **a observação de espécies de aves nativas e exóticas como [uma pausa consciente da rotina digital]({{< relref "posts/digital-detox" >}})**. 
 
 Neste artigo, irá descobrir por que razão a observação de aves é tão popular neste momento, como dar os primeiros passos, se vale a pena participar em excursões de observação de aves e por que razão a documentação digital das suas observações compensa.
 
