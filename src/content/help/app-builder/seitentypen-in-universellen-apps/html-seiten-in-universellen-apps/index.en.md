@@ -1,0 +1,56 @@
+---
+title: 'HTML pages in SeaTable apps'
+date: 2026-08-11
+lastmod: '2026-08-11'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/help/html-pages-in-seatable-apps'
+seo:
+    title: 'Adding HTML Pages to SeaTable Apps: Guide'
+    description: 'Add fully customized pages based on HTML, JavaScript and CSS to your app so you can design the user interface exactly the way you want.'
+weight: 12
+---
+
+The other [app page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) offer numerous configuration options, but they predefine the structure and behavior of a page. With **HTML pages**, you can add completely customized pages based on HTML, JavaScript and CSS to your app. This lets you design apps exactly the way you envision them and implement even complex interactions without difficulty. **Typical use cases** are:
+- Individually designed forms, lists and info pages
+- Custom chart types or diagrams with clickable elements
+- Combined views, e.g. a table and a single record on one page
+
+![Example of an HTML page](images/html-page.png)
+
+HTML pages can display **static content**, but they unfold their true potential in combination with the **data in a base**. Just like the other page types of the app builder, they can retrieve data from a base and modify records in a base. When it comes to **designing the user interface**, there are almost no limitations. Whatever can be implemented with HTML, CSS and JavaScript can also be built into your app as an HTML page.
+
+{{< warning headline="Not a no-code approach yet" >}}
+
+At present, this page type is aimed at **users with programming experience**. The entire code of the page must be created outside of SeaTable and then uploaded to the app as a bundle. However, an AI feature that will let you create HTML pages in natural language and without programming knowledge is already in development.
+
+{{< /warning >}}
+
+## How to create an HTML page
+
+1. Open an app in **editing mode**. To do so, hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Edit apps](images/edit-apps.png)
+2. Click **the orange circle with the plus icon** in the top left and then select **Add HTML page**.
+   ![Add HTML page](images/add-html-page.png)
+3. Give the page a **name** and optionally define an **icon** for the page.
+   ![Create HTML page](images/create-html-page.png)
+4. Confirm with **Submit**.
+5. On your device, create a **zip file** that contains HTML, JavaScript and CSS files.
+6. **Upload the file** by clicking in the designated area or dragging the file there.
+   ![Upload zip file](images/upload-zip-file.png)
+7. SeaTable then renders the file as a **page in the app**.
+
+{{< warning headline="Attention" >}}
+
+The zip file may be **no larger than 10 MB** and must contain an HTML file named **index.html**.
+
+{{< /warning >}}
+
+## How to create the required files
+
+There are **two ways** to build an HTML page and provide it as a zip file:
+- The **low-code approach**: Design the page in a **visual HTML editor**, connect it to your base using ready-made **code snippets**, optionally add **images and graphics** and package everything as a **zip file**. This approach is ideal for individually designed forms, dashboards and pages with simple read and write operations.
+- The **developer approach**: As soon as you want to create larger HTML pages with more complex logic, e.g. when page elements are supposed to interact with each other, you need the **complete JavaScript toolchain**. Development requires **Node.js** and **npm**, a **development server** with live reload as well as an **API token** generated in the base.
+
+You can find further information, examples and templates in our [developer manual](https://developer.seatable.com/html-pages/).
