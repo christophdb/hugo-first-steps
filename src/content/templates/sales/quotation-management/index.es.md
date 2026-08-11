@@ -6,6 +6,8 @@ url: '/es/plantilla/plantilla-gestion-ofertas'
 aliases:
     - '/es/plantilla/quotation-management'
     - '/es/plantilla/gestion-presupuestos'
+    - '/es/crm-gestion-ofertas'
+    - '/es/crm-angebotsmanagement'
 category: 'sales'
 functions:
 seo:

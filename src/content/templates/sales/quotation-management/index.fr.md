@@ -6,6 +6,8 @@ url: '/fr/modele/modele-gestion-offres'
 aliases:
     - '/fr/modele/quotation-management'
     - '/fr/modele/gestion-devis'
+    - '/fr/crm-gestion-offres'
+    - '/fr/crm-angebotsmanagement'
 category: 'sales'
 functions:
 seo:

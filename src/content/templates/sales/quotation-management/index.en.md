@@ -5,6 +5,8 @@ date: '2025-04-06'
 url: '/template/quotation-management-template'
 aliases:
     - '/template/quotation-management'
+    - '/crm-quote-management'
+    - '/crm-angebotsmanagement'
 category: 'sales'
 functions:
 seo:

@@ -6,6 +6,7 @@ url: '/de/vorlage/angebot-schreiben-vorlage'
 aliases:
     - '/de/vorlage/quotation-management'
     - '/de/vorlage/angebot-schreiben'
+    - '/de/crm-angebotsmanagement'
 category: 'sales'
 functions:
 seo:
