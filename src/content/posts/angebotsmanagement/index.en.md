@@ -101,7 +101,7 @@ Offer management © Patrick Daxenbichler / adobe stock
 
 Precisely tailored supply management does not happen on its own. There are too many aspects to consider. In order to maintain an overview and organize all processes as efficiently and effectively as possible, it has great advantages to manage the complete offer processing using software.
 
-The market already offers a number of software solutions that are versatile and can be flexibly adapted to the requirements of sales. Whether [classic CRM]({{< relref "posts/crm-angebotsmanagement" >}}), customer service or other sales areas - with the right tools, you can combine your entire sales business in one system and reduce the complexity of offer management to a minimum. The best-known tools for digital offer management include HubSpot, SAP CRM and ActiveCampaign.
+The market already offers a number of software solutions that are versatile and can be flexibly adapted to the requirements of sales. Whether [classic CRM]({{< relref "templates/sales/crm-sales" >}}), customer service or other sales areas - with the right tools, you can combine your entire sales business in one system and reduce the complexity of offer management to a minimum. The best-known tools for digital offer management include HubSpot, SAP CRM and ActiveCampaign.
 
 If you are looking for the all-round carefree package for your offer management, SeaTable is an optimal, cost-effective alternative. With the functions of this tool, you can automate all sales processes and easily collect all data using an integrated web form. For solving customer problems, answering inquiries and sorting feedback, this is a big plus.
 

@@ -6,6 +6,8 @@ url: '/pt/modelo/modelo-gestao-propostas'
 aliases:
     - '/pt/modelo/quotation-management'
     - '/pt/modelo/gestao-orcamentos'
+    - '/pt/crm-gestao-propostas'
+    - '/pt/crm-angebotsmanagement'
 category: 'sales'
 functions:
 seo:

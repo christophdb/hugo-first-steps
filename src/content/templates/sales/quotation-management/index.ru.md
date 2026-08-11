@@ -6,6 +6,8 @@ url: '/ru/shablon/shablon-upravleniya-ofertami '
 aliases:
     - '/ru/шаблон/quotation-management'
     - '/ru/shablon/upravleniya-kommercheskimi-predlozheniyami'
+    - '/ru/crm-upravlenie-predlozheniyami'
+    - '/ru/crm-angebotsmanagement'
 category: 'sales'
 functions:
 seo:
