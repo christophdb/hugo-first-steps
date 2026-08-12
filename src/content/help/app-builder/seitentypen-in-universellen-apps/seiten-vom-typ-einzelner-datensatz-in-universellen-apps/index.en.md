@@ -58,10 +58,11 @@ For all text and number-based column types, you also have the option of setting 
 
 There are also a few special features for the following column types:
 
-- If you click on an e-mail address in an **E-mail column**, the e-mail client installed on your device (e.g. Microsoft Outlook or Mozilla Thunderbird) will open.
-- If you click on a link in an **URL column**, the corresponding website will open in a new tab of your browser.
-- If you click on a thumbnail in a **File column**, the file will open in a suitable viewer in a new tab of your browser. If an online office editor is configured, you can also open and edit Office documents directly in the browser.
-- With **Link columns**, all entries linked to the data record can be clearly displayed in a table. You can adjust the column width and also hide columns via the element settings so that only the essential information of the linked entries is displayed.
+- For column types with a visual highlight – for example [single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) or [collaborator columns]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) – the **labels** can optionally be displayed as plain **text**.
+- If you click on an e-mail address in an [E-mail column]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), the e-mail client installed on your device (e.g. Microsoft Outlook or Mozilla Thunderbird) will open.
+- If you click on a link in an [URL column]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}), the corresponding website will open in a new tab of your browser.
+- If you click on a thumbnail in a [File column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), the file will open in a suitable viewer in a new tab of your browser. If an online office editor is configured, you can also open and edit Office documents directly in the browser.
+- With [Link columns]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), all entries linked to the data record can be clearly displayed in a table. You can adjust the column width and also hide columns via the element settings so that only the essential information of the linked entries is displayed.
 
 ![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
@@ -100,13 +101,17 @@ If you have displayed the toolbar, app users with the corresponding page authori
 
 ## Modify single records
 
-With the appropriate authorization, app users can edit the single records on this page.
+With the appropriate authorization, app users can edit the table fields of the single records on this page.
 
 ![Modify record on single record pages](images/Modify-record-on-single-record-pages.gif)
 
 - Click on **Modify record** in the toolbar.
 - The window with the **row details** opens. Make the desired changes to the data record there.
 - Close the window by clicking on the **x symbol** to save the changes.
+
+For an even smoother and more intuitive workflow, you can also edit individual table fields **directly on the page**. To do this, click on a field and make your changes in **edit mode**. They are saved immediately.
+
+![Inline editing on single record pages](images/inline-editing-single-record-page.png)
 
 ## Generate QR code for single records
 
@@ -120,17 +125,18 @@ Just like on table and query pages, you can also use columns of the [button]({{<
 
 ## Link column settings
 
-In the **settings for the link column**, you can define which data is visible and which operations are permitted for each linked table.
+In the **settings for the link column**, you can define for each linked table which data is visible and editable and which operations are permitted. Depending on the configuration, users may create new records in the linked table as well as link, modify and remove existing records. This allows you to control the respective **permissions** precisely.
 
 ![Link column settings on single record pages in SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Field settings**: Here you can define exactly which columns the following authorizations apply to.
-- **Allow adding new entries**: If you activate this slider, users can add new entries to the linked table. You can use the field settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
-- **Allow linking of existing entries**: If you activate this slider, users can link existing entries in the linked table. You can use the field settings to define which columns are **visible**.
-- Limit **links to a maximum of one row :** If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
+- **Column settings for the linked table**: Here you can define exactly to what extent the following permissions apply to specific columns.
+- **Add and link new records**: If you activate this slider, users can add new entries to the linked table. You can use the column settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
+- **Link existing records**: If you activate this slider, users can link existing entries in the linked table. You can use the column settings to define which columns are **visible**.
 - **Preset filters**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking entries.
-- **Activate big data** function: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
-- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the field settings to define which columns are **editable**.
+- **Enable big data feature**: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
+- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the column settings to define which columns are **editable**.
+- **Remove existing records**: This authorization lets you specify whether users are allowed to delete existing links.
+- **Limit links to a maximum of one row**: If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
 
 ## Page authorizations
 

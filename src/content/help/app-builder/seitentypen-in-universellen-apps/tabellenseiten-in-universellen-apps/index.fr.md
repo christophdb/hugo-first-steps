@@ -74,17 +74,18 @@ Comme indiqué ci-dessus, les paramètres d'affichage individuels de l'utilisate
 
 ## Paramètres de la colonne des liens
 
-Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et quelles opérations sont autorisées.
+Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et modifiables et quelles opérations sont autorisées. Selon la configuration, les utilisateurs peuvent créer de nouveaux enregistrements dans le tableau lié ainsi que relier, modifier et supprimer des enregistrements existants. Cela permet un contrôle précis des **autorisations** correspondantes.
 
 ![Paramètres de colonne de lien sur les pages de tableau dans les applications](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Paramètres des colonnes** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
-- **Ajouter et relier de nouveaux enregistrements** : Si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres de champ vous permettent de définir quelles colonnes sont **nécessaires**, c'est-à-dire qu'elles doivent être remplies.
-- **Relier des enregistrements existants** : Si vous activez ce curseur, les utilisateurs peuvent lier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** dans les paramètres de champ.
-- **Filtres prédéfinis** : Si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la liaison d'entrées.
-- **Activer la fonction Big Data** : Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20 000 enregistrements, à condition qu'il y ait autant d'entrées dans le tableau lié.
-- **Limiter les liens à une seule ligne maximum** : Si vous activez ce curseur, les utilisateurs ne pourront lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne de jointure.
-- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
+- **Paramètres des colonnes du tableau lié** : Ici, vous pouvez définir précisément dans quelle mesure les autorisations suivantes s'appliquent à certaines colonnes.
+- **Créer et relier de nouveaux enregistrements**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des colonnes permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
+- **Relier des enregistrements existants**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres des colonnes.
+- **Filtres prédéfinis**: si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la création de liens vers des entrées.
+- **Activer la fonction Big Data**: Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20.000 enregistrements, à condition qu'il y ait autant d'entrées dans le tableau lié.
+- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres des colonnes.
+- **Supprimer des enregistrements existants** : Cette autorisation permet de déterminer précisément si les utilisateurs peuvent supprimer des liens existants.
+- **Limiter les liens à une ligne maximum**: Si vous activez ce curseur, les utilisateurs ne pourront plus lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne des liens.
 
 ## Empêcher l'ajout de doublons
 

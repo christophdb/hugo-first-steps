@@ -57,10 +57,11 @@ Bei allen text- und zahlenbasierten Spaltentypen haben Sie auch die Möglichkeit
 
 Zudem gibt es ein paar Besonderheiten bei folgenden Spaltentypen:
 
-- Wenn Sie auf eine E-Mail-Adresse in einer **E-Mail-Spalte** klicken, öffnet sich der auf Ihrem Gerät installierte E-Mail-Client (z. B. Microsoft Outlook oder Mozilla Thunderbird).
-- Wenn Sie auf einen Link in einer **URL-Spalte** klicken, öffnet sich die entsprechende Internetseite in einem neuen Tab Ihres Browsers.
-- Wenn Sie auf ein Miniatursymbol in einer **Datei-Spalte** klicken, öffnet sich die Datei in einem geeigneten Viewer in einem neuen Tab Ihres Browsers. Auch Office-Dokumente können Sie, sofern ein Online Office Editor konfiguriert ist, direkt im Browser öffnen und bearbeiten.
-- Bei **Verknüpfungsspalten** lassen sich alle mit dem Datensatz verknüpften Einträge übersichtlich in einer Tabelle darstellen. Sie können die Spaltenbreite anpassen und über die Elementeinstellungen auch Spalten ausblenden, sodass nur die wesentlichen Informationen der verknüpften Einträge angezeigt werden.
+- Bei Spaltentypen mit visueller Hervorhebung – beispielsweise [Einfachauswahl-]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) oder [Mitarbeiter-Spalten]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) – können die **Labels** optional als reiner **Text** angezeigt werden.
+- Wenn Sie auf eine E-Mail-Adresse in einer [E-Mail-Spalte]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) klicken, öffnet sich der auf Ihrem Gerät installierte E-Mail-Client (z. B. Microsoft Outlook oder Mozilla Thunderbird).
+- Wenn Sie auf einen Link in einer [URL-Spalte]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}) klicken, öffnet sich die entsprechende Internetseite in einem neuen Tab Ihres Browsers.
+- Wenn Sie auf ein Miniatursymbol in einer [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) klicken, öffnet sich die Datei in einem geeigneten Viewer in einem neuen Tab Ihres Browsers. Auch Office-Dokumente können Sie, sofern ein Online Office Editor konfiguriert ist, direkt im Browser öffnen und bearbeiten.
+- Bei [Verknüpfungsspalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) lassen sich alle mit dem Datensatz verknüpften Einträge übersichtlich in einer Tabelle darstellen. Sie können die Spaltenbreite anpassen und über die Elementeinstellungen auch Spalten ausblenden, sodass nur die wesentlichen Informationen der verknüpften Einträge angezeigt werden.
 
 ![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
@@ -99,13 +100,17 @@ Wenn Sie die Toolbar eingeblendet haben, können die App-Nutzer mit der entsprec
 
 ## Eintrag bearbeiten
 
-Mit der entsprechenden Berechtigung können App-Nutzer auf dieser Seite die einzelnen Datensätze bearbeiten.
+Mit der entsprechenden Berechtigung können App-Nutzer auf dieser Seite die Tabellenfelder der einzelnen Datensätze bearbeiten.
 
 ![Modify record on single record pages](images/Modify-record-on-single-record-pages.gif)
 
 - Klicken Sie in der Toolbar auf **Eintrag bearbeiten**.
 - Das Fenster mit den **Zeilendetails** öffnet sich. Nehmen Sie dort die gewünschten Änderungen am Datensatz vor.
 - Schließen Sie das Fenster mit einem Klick auf das **x-Symbol**, um die Änderungen zu speichern.
+
+Für einen noch flüssigeren und intuitiveren Ablauf können Sie einzelne Tabellenfelder auch **direkt auf der Seite** bearbeiten. Klicken Sie dazu auf ein Feld und nehmen Sie im **Bearbeitungsmodus** Ihre Änderungen vor. Diese werden unmittelbar gespeichert.
+
+![Inline editing on single record pages](images/inline-editing-single-record-page.png)
 
 ## QR-Code für einzelne Einträge generieren
 
@@ -119,17 +124,18 @@ Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ 
 
 ## Einstellungen der Verknüpfungsspalte
 
-In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sichtbar und welche Operationen erlaubt sind.
+In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sicht- und bearbeitbar und welche Operationen erlaubt sind. Benutzer dürfen je nach Konfiguration neue Datensätze in der verknüpften Tabelle anlegen sowie bestehende Datensätze verknüpfen, modifizieren und entfernen. Dies ermöglicht eine präzise Steuerung der jeweiligen **Berechtigungen**.
 
 ![Link column settings on single record pages](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Feldeinstellungen**: Hier können Sie genau definieren, für welche Spalten die folgenden Berechtigungen gelten.
-- **Hinzufügen neuer Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** und welche Spalten **erforderlich** sind, also ausgefüllt werden müssen.
-- **Verknüpfen bestehender Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle verlinken. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
-- **Verknüpfungen auf maximal eine Zeile begrenzen**: Wenn Sie diesen Regler aktivieren, können Nutzer in den Zellen der Verknüpfungsspalte nur noch jeweils eine Zeile der verknüpften Tabelle verlinken.
+- **Spalteneinstellungen für die verknüpfte Tabelle**: Hier können Sie genau definieren, inwiefern die folgenden Berechtigungen für bestimmte Spalten gelten.
+- **Neue Einträge erstellen und verknüpfen**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Spalteneinstellungen können Sie definieren, welche Spalten dabei **sichtbar** und welche Spalten **erforderlich** sind, also ausgefüllt werden müssen.
+- **Bestehende Einträge verknüpfen**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüpften Tabelle verlinken. Über die Spalteneinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
 - **Voreingestellte Filter**: Wenn Sie hier einen Filter hinzufügen, werden beim Verlinken von Einträgen nur Optionen angezeigt, die die Filterbedingungen erfüllen.
 - **Big-Data-Funktion aktivieren**: Wenn die Big-Data-Funktion aktiviert ist, können Nutzer mehr als 20.000 Datensätze durchsuchen, sofern in der verknüpften Tabelle so viele Einträge vorhanden sind.
-- **Verknüpfte Einträge bearbeiten**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle bearbeiten. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **bearbeitbar** sind.
+- **Verknüpfte Einträge bearbeiten**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle bearbeiten. Über die Spalteneinstellungen können Sie definieren, welche Spalten dabei **bearbeitbar** sind.
+- **Bestehende Einträge entfernen**: Mit dieser Berechtigung lässt sich gezielt festlegen, ob Nutzer bestehende Verknüpfungen löschen dürfen.
+- **Verknüpfungen auf maximal eine Zeile begrenzen**: Wenn Sie diesen Regler aktivieren, können Nutzer in den Zellen der Verknüpfungsspalte nur noch jeweils eine Zeile der verknüpften Tabelle verlinken.
 
 ## Seitenberechtigungen
 

@@ -58,10 +58,11 @@ Para todos os tipos de colunas baseadas em texto e números, também tem a opç�
 
 Existem também algumas caraterísticas especiais para os seguintes tipos de colunas:
 
-- Se clicar num endereço de correio eletrónico numa **coluna de correio eletrónico**, será aberto o cliente de correio eletrónico instalado no seu dispositivo (por exemplo, Microsoft Outlook ou Mozilla Thunderbird).
-- Se clicar numa ligação numa coluna **URL**, o sítio Web correspondente será aberto num novo separador do seu browser.
-- Se clicar num símbolo de miniatura numa coluna **Arquivo**, o ficheiro abre-se num visualizador adequado num novo separador do seu browser. Se estiver configurado um Editor do Office Online, também pode abrir e editar documentos do Office diretamente no browser.
-- Com **Colunas de ligação**, todos os registos ligados ao registo de dados podem ser claramente apresentadas numa tabela. Pode ajustar a largura da coluna e também ocultar colunas através das definições do elemento, para que apenas sejam apresentadas as informações essenciais dos registos ligados.
+- Nos tipos de coluna com destaque visual – por exemplo, colunas de [seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou de [colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) – as **etiquetas** podem ser apresentadas, opcionalmente, como **texto** simples.
+- Se clicar num endereço de correio eletrónico numa [coluna de correio eletrónico]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), será aberto o cliente de correio eletrónico instalado no seu dispositivo (por exemplo, Microsoft Outlook ou Mozilla Thunderbird).
+- Se clicar numa ligação numa coluna [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}), o sítio Web correspondente será aberto num novo separador do seu browser.
+- Se clicar num símbolo de miniatura numa coluna [Arquivo]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), o ficheiro abre-se num visualizador adequado num novo separador do seu browser. Se estiver configurado um Editor do Office Online, também pode abrir e editar documentos do Office diretamente no browser.
+- Com [Colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), todos os registos ligados ao registo de dados podem ser claramente apresentadas numa tabela. Pode ajustar a largura da coluna e também ocultar colunas através das definições do elemento, para que apenas sejam apresentadas as informações essenciais dos registos ligados.
 
 ![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
@@ -100,13 +101,17 @@ Se tiver exibido a barra de ferramentas, os utilizadores de aplicações com a a
 
 ## Modificar o registo
 
-Com a autorização adequada, os utilizadores da aplicação podem editar os registos de dados individuais nesta página.
+Com a autorização adequada, os utilizadores da aplicação podem editar os campos de tabela dos registos de dados individuais nesta página.
 
 ![Modificar o registo em páginas de registo único](images/Modify-record-on-single-record-pages.gif)
 
 - Clique em **Modificar o registo** na barra de ferramentas.
 - Abre-se a janela com os **detalhes da linha**. Efectue aí as alterações desejadas no registo de dados.
 - Feche a janela clicando no **símbolo x** para guardar as alterações.
+
+Para um processo ainda mais fluido e intuitivo, também pode editar campos de tabela individuais **diretamente na página**. Para tal, clique num campo e efetue as suas alterações no **modo de edição**. Estas são guardadas imediatamente.
+
+![Edição inline em páginas de registo único](images/inline-editing-single-record-page.png)
 
 ## Gerar código QR para registos
 
@@ -120,17 +125,18 @@ Tal como nas páginas de tabelas e consultas, também aqui pode utilizar colunas
 
 ## Definições da coluna de ligações
 
-Nas **opções da coluna de ligação**, é possível especificar quais os dados visíveis e quais as operações permitidas para cada tabela ligada.
+Nas **opções da coluna de ligação**, é possível especificar, para cada tabela ligada, quais os dados visíveis e editáveis e quais as operações permitidas. Consoante a configuração, os utilizadores podem criar novos registos na tabela ligada, bem como ligar, modificar e remover registos existentes. Isto permite um controlo preciso das respetivas **permissões**.
 
 ![Ligar definições de coluna em páginas de registo único nas aplicações](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
-- **Adicionar e ligar novos registos**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
-- **Ligar registos existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis**.
-- **Limitar as ligações a um registro máximo**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
+- **Definições de coluna da tabela ligada**: Aqui pode definir exatamente em que medida as seguintes autorizações se aplicam a determinadas colunas.
+- **Criar e ligar novos registos**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de coluna para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
+- **Ligar registos existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de coluna para definir as colunas que são **visíveis**.
 - **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que satisfazem as condições do filtro serão apresentadas ao ligar as entradas.
-- **Ativar** a função de grandes volumes de dados: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
-- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
+- **Ativar a função de grandes volumes de dados**: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
+- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de coluna para definir quais as colunas que são **editáveis**.
+- **Remover registos existentes**: Com esta autorização é possível determinar se os utilizadores podem eliminar ligações existentes.
+- **Limitar as ligações a um registro máximo**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
 
 ## Autorizações de páginas
 

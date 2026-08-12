@@ -63,17 +63,18 @@ Pode editar facilmente as entradas do calendário clicando **numa entrada** e ef
 
 ## Definições da coluna de ligações
 
-Nas **opções da coluna de ligação**, é possível especificar quais os dados visíveis e quais as operações permitidas para cada tabela ligada.
+Nas **opções da coluna de ligação**, é possível especificar, para cada tabela ligada, quais os dados visíveis e editáveis e quais as operações permitidas. Consoante a configuração, os utilizadores podem criar novos registos na tabela ligada, bem como ligar, modificar e remover registos existentes. Isto permite um controlo preciso das respetivas **permissões**.
 
 ![Ligar definições de coluna em páginas de calendário nas aplicações](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
-- **Adicionar e ligar novos registos**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
-- **Ligar registos existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis**.
-- **Limitar as ligações a um registro máximo**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
+- **Definições de coluna da tabela ligada**: Aqui pode definir exatamente em que medida as seguintes autorizações se aplicam a determinadas colunas.
+- **Criar e ligar novos registos**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de coluna para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
+- **Ligar registos existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de coluna para definir as colunas que são **visíveis**.
 - **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que satisfazem as condições do filtro serão apresentadas ao ligar as entradas.
-- **Ativar** a função de grandes volumes de dados: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
-- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
+- **Ativar a função de grandes volumes de dados**: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
+- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de coluna para definir quais as colunas que são **editáveis**.
+- **Remover registos existentes**: Com esta autorização é possível determinar se os utilizadores podem eliminar ligações existentes.
+- **Limitar as ligações a um registro máximo**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
 
 ## Autorizações de páginas
 
