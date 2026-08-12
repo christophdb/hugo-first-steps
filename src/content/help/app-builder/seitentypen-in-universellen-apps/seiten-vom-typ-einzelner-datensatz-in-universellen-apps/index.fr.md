@@ -58,10 +58,11 @@ Pour tous les types de colonnes basées sur le texte et les chiffres, vous avez 
 
 En outre, il existe quelques particularités pour les types de colonnes suivants :
 
-- Si vous cliquez sur une adresse e-mail dans une colonne **E-mail**, le client de messagerie installé sur votre appareil (par exemple, Microsoft Outlook ou Mozilla Thunderbird) s'ouvre.
-- Si vous cliquez sur un lien dans une colonne **URL**, la page Internet correspondante s'ouvre dans un nouvel onglet de votre navigateur.
-- Si vous cliquez sur une icône de miniature dans une colonne de **fichier**, le fichier s'ouvre dans un visualiseur approprié dans un nouvel onglet de votre navigateur. Vous pouvez également ouvrir et modifier des documents Office directement dans le navigateur, à condition qu'un éditeur Office en ligne soit configuré.
-- Dans le cas des **colonnes de liens**, toutes les entrées liées à l'enregistrement peuvent être présentées de manière claire dans un tableau. Vous pouvez ajuster la largeur des colonnes et utiliser les paramètres de l'élément pour masquer les colonnes afin de n'afficher que les informations essentielles des entrées liées.
+- Pour les types de colonnes avec une mise en évidence visuelle – par exemple les colonnes [Sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) – les **étiquettes** peuvent être affichées, en option, sous forme de **texte** simple.
+- Si vous cliquez sur une adresse e-mail dans une colonne [E-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), le client de messagerie installé sur votre appareil (par exemple, Microsoft Outlook ou Mozilla Thunderbird) s'ouvre.
+- Si vous cliquez sur un lien dans une colonne [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}), la page Internet correspondante s'ouvre dans un nouvel onglet de votre navigateur.
+- Si vous cliquez sur une icône de miniature dans une colonne de [fichier]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), le fichier s'ouvre dans un visualiseur approprié dans un nouvel onglet de votre navigateur. Vous pouvez également ouvrir et modifier des documents Office directement dans le navigateur, à condition qu'un éditeur Office en ligne soit configuré.
+- Dans le cas des [colonnes de liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), toutes les entrées liées à l'enregistrement peuvent être présentées de manière claire dans un tableau. Vous pouvez ajuster la largeur des colonnes et utiliser les paramètres de l'élément pour masquer les colonnes afin de n'afficher que les informations essentielles des entrées liées.
 
 ![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
@@ -100,13 +101,17 @@ Si vous avez affiché la barre d'outils, les utilisateurs de l'application peuve
 
 ## Modifier l'enregistrement
 
-Avec l'autorisation correspondante, les utilisateurs de l'application peuvent modifier les différents enregistrements sur cette page.
+Avec l'autorisation correspondante, les utilisateurs de l'application peuvent modifier les champs de tableau des différents enregistrements sur cette page.
 
 ![Modifier l'enregistrement sur des pages d'enregistrement unique](images/Modify-record-on-single-record-pages.gif)
 
 - Cliquez sur **Modifier l'enregistrement** dans la barre d'outils.
 - La fenêtre avec les **détails de la ligne** s'ouvre. Effectuez-y les modifications souhaitées sur l'enregistrement.
 - Fermez la fenêtre en cliquant sur le **symbole x** pour enregistrer les modifications.
+
+Pour un déroulement encore plus fluide et intuitif, vous pouvez également modifier certains champs de tableau **directement sur la page**. Pour ce faire, cliquez sur un champ et effectuez vos modifications en **mode édition**. Celles-ci sont enregistrées immédiatement.
+
+![Édition en ligne sur les pages d'enregistrement unique](images/inline-editing-single-record-page.png)
 
 ## Générer un code QR pour des enregistrements uniques
 
@@ -120,17 +125,18 @@ Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colon
 
 ## Paramètres de la colonne des liens
 
-Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et quelles opérations sont autorisées.
+Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et modifiables et quelles opérations sont autorisées. Selon la configuration, les utilisateurs peuvent créer de nouveaux enregistrements dans le tableau lié ainsi que relier, modifier et supprimer des enregistrements existants. Cela permet un contrôle précis des **autorisations** correspondantes.
 
 ![Paramètres de colonne de lien sur les pages d'enregistrement unique](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Paramètres des colonnes** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
-- **Ajouter et relier de nouveaux enregistrements**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des champs permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
-- **Relier des enregistrements existants**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres de champ.
-- **Limiter les liens à une ligne maximum**: Si vous activez ce curseur, les utilisateurs ne pourront plus lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne des liens.
+- **Paramètres des colonnes du tableau lié** : Ici, vous pouvez définir précisément dans quelle mesure les autorisations suivantes s'appliquent à certaines colonnes.
+- **Créer et relier de nouveaux enregistrements**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des colonnes permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
+- **Relier des enregistrements existants**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres des colonnes.
 - **Filtres prédéfinis**: si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la création de liens vers des entrées.
 - **Activer la fonction Big Data**: Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20.000 enregistrements, à condition qu'il y ait autant d'entrées dans le tableau lié.
-- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
+- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres des colonnes.
+- **Supprimer des enregistrements existants** : Cette autorisation permet de déterminer précisément si les utilisateurs peuvent supprimer des liens existants.
+- **Limiter les liens à une ligne maximum**: Si vous activez ce curseur, les utilisateurs ne pourront plus lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne des liens.
 
 ## Autorisations des pages
 

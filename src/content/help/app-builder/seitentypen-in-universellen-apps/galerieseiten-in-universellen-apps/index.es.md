@@ -47,17 +47,18 @@ Por lo tanto, decida qué datos deben ser **visibles** y muestre u oculte las co
 
 ## Configuración de la columna de enlaces
 
-En **la configuración de la columna de enlace**, puede especificar qué datos son visibles y qué operaciones están permitidas para cada tabla enlazada.
+En **la configuración de la columna de enlace**, puede especificar para cada tabla enlazada qué datos son visibles y editables y qué operaciones están permitidas. Según la configuración, los usuarios pueden crear nuevos registros en la tabla enlazada, así como vincular, modificar y eliminar registros existentes. Esto permite un control preciso de los **permisos** correspondientes.
 
 ![Configuración de columnas de enlace en páginas de tablas](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Configuración de campos**: Aquí puede definir exactamente a qué columnas se aplican las siguientes autorizaciones.
-- **Añadir y vincular nuevos registros**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para definir qué columnas son **visibles** y qué columnas son **obligatorias**, es decir, deben rellenarse.
-- **Vincular registros existentes**: Si activa este control deslizante, los usuarios podrán vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
-- **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada en las celdas de la columna de enlace.
+- **Configuración de columnas de la tabla enlazada**: Aquí puede definir exactamente en qué medida se aplican las siguientes autorizaciones a determinadas columnas.
+- **Crear y vincular nuevos registros**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de columnas para definir qué columnas son **visibles** y qué columnas son **obligatorias**, es decir, deben rellenarse.
+- **Vincular registros existentes**: Si activa este control deslizante, los usuarios podrán vincular entradas existentes en la tabla vinculada. Puede utilizar la configuración de columnas para definir qué columnas son **visibles**.
 - **Filtros preestablecidos**: si añade un filtro aquí, al enlazar las entradas sólo se mostrarán las opciones que cumplan las condiciones del filtro.
 - **Activar la función de big data**: Si la función big data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya este número de entradas en la tabla vinculada.
-- **Modificar registros enlazados**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **editables**.
+- **Modificar registros enlazados**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar la configuración de columnas para definir qué columnas son **editables**.
+- **Eliminar registros existentes**: Con esta autorización puede determinar si los usuarios pueden eliminar los enlaces existentes.
+- **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada en las celdas de la columna de enlace.
 
 ## Autorizaciones de páginas
 

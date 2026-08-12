@@ -110,3 +110,11 @@ Mit diesem Seitentyp haben Sie die Möglichkeit, eine Seite mit statischen Eleme
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 
 [Erfahren Sie mehr über Seiten des Typs Einzelner Datensatz in Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})
+
+## Seitentyp: HTML
+
+Im Gegensatz zu allen anderen Seitentypen, die vorgefertigte Elemente enthalten und einen Großteil der Seitenstruktur vorgeben, haben Sie hier freie Hand: Über den No-Code-Ansatz hinaus können Sie **individuelle Benutzeroberflächen auf Basis von HTML, JavaScript und CSS gestalten** und als HTML-Seiten zu Ihrer App hinzufügen. So können Sie Apps exakt nach Ihren Vorstellungen programmieren und selbst komplexe Interaktionen problemlos umsetzen. Typische Anwendungsfälle sind zum Beispiel **individuell designte Formulare, Diagrammtypen oder Schaubilder mit klickbaren Elementen**.
+
+![Beispiel für eine HTML-Seite](images/html-page.png)
+
+[Erfahren Sie mehr über HTML-Seiten in Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/html-seiten-in-universellen-apps" >}})

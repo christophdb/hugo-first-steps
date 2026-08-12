@@ -74,17 +74,18 @@ As mentioned above, the user's individual view settings **have no effect on the 
 
 ## Link column settings
 
-In the **settings for the link column**, you can define which data is visible and which operations are permitted for each linked table.
+In the **settings for the link column**, you can define for each linked table which data is visible and editable and which operations are permitted. Depending on the configuration, users may create new records in the linked table as well as link, modify and remove existing records. This allows you to control the respective **permissions** precisely.
 
 ![Link column settings on table pages in SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Field settings**: Here you can define exactly which columns the following authorizations apply to.
-- **Add and link new records**: If you activate this slider, users can add new records to the linked table. You can use the field settings to specify which columns are **required**, i.e. must be filled in.
-- **Link existing records**: If you activate this slider, users can link existing records in the linked table. You can use the field settings to define which columns are **visible**.
-- **Preset filter**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking records.
-- **Enable big data feature**: When the Big Data feature is enabled, users can search more than 20,000 records if there are that many records in the linked table.
-- **Limit linking to max one record**: If you activate this slider, users can only link one row of the linked table at a time in the cells of the link column.
-- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the field settings to define which columns are **editable**.
+- **Column settings for the linked table**: Here you can define exactly to what extent the following authorizations apply to specific columns.
+- **Create and link new records**: If you activate this slider, users can add new entries to the linked table. You can use the column settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
+- **Link existing records**: If you activate this slider, users can link existing entries in the linked table. You can use the column settings to define which columns are **visible**.
+- **Preset filters**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking entries.
+- **Enable big data feature**: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
+- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the column settings to define which columns are **editable**.
+- **Remove existing records**: This authorization lets you specify whether users are allowed to delete existing links.
+- **Limit links to a maximum of one row**: If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
 
 ## Prevent duplicates from being added
 

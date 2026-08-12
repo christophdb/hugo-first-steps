@@ -58,10 +58,11 @@ Para todos los tipos de columnas basadas en texto y números, también tiene la 
 
 También hay algunas características especiales para los siguientes tipos de columnas:
 
-- Si pulsa sobre una dirección de correo electrónico en una **columna de correo**, se abrirá el cliente de correo electrónico instalado en su dispositivo (por ejemplo, Microsoft Outlook o Mozilla Thunderbird).
-- Si pulsa sobre un enlace en una columna **URL**, se abrirá el sitio web correspondiente en una nueva pestaña de su navegador.
-- Si hace clic en un símbolo de miniatura en una columna **Archivo**, el archivo se abrirá en un visor adecuado en una nueva pestaña de su navegador. Si tiene configurado un editor de Office en línea, también podrá abrir y editar documentos de Office directamente en el navegador.
-- Con las **columnas de enlace**, todas los registros vinculados al registro de datos pueden visualizarse claramente en una tabla. Puede ajustar la anchura de las columnas y también ocultarlas a través de la configuración del elemento para que sólo se muestre la información esencial de los registros vinculados.
+- En los tipos de columna con resaltado visual — por ejemplo, las columnas de [selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) o de [colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) — las **etiquetas** pueden mostrarse opcionalmente como **texto** simple.
+- Si pulsa sobre una dirección de correo electrónico en una [columna de correo]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), se abrirá el cliente de correo electrónico instalado en su dispositivo (por ejemplo, Microsoft Outlook o Mozilla Thunderbird).
+- Si pulsa sobre un enlace en una columna [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}), se abrirá el sitio web correspondiente en una nueva pestaña de su navegador.
+- Si hace clic en un símbolo de miniatura en una columna [Archivo]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), el archivo se abrirá en un visor adecuado en una nueva pestaña de su navegador. Si tiene configurado un editor de Office en línea, también podrá abrir y editar documentos de Office directamente en el navegador.
+- Con las [columnas de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), todas los registros vinculados al registro de datos pueden visualizarse claramente en una tabla. Puede ajustar la anchura de las columnas y también ocultarlas a través de la configuración del elemento para que sólo se muestre la información esencial de los registros vinculados.
 
 ![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
@@ -100,13 +101,17 @@ Si ha desplegado la barra de herramientas, los usuarios de la aplicación con la
 
 ## Modificar registro
 
-Con la autorización adecuada, los usuarios de la aplicación pueden editar los registros de datos individuales en esta página.
+Con la autorización adecuada, los usuarios de la aplicación pueden editar los campos de tabla de los registros de datos individuales en esta página.
 
 ![Modificar el registro en páginas de registro único](images/Modify-record-on-single-record-pages.gif)
 
 - Haga clic en **Modificar registro** en la barra de herramientas.
 - Se abre la ventana con los **detalles de la línea**. Realice allí los cambios deseados en el registro de datos.
 - Cierre la ventana haciendo clic en el **símbolo x** para guardar los cambios.
+
+Para un flujo de trabajo aún más fluido e intuitivo, también puede editar campos de tabla concretos **directamente en la página**. Para ello, haga clic en un campo y realice sus cambios en el **modo de edición**. Estos se guardan de inmediato.
+
+![Edición en línea en páginas de registro único](images/inline-editing-single-record-page.png)
 
 ## Generar código QR para registros individuales
 
@@ -120,17 +125,18 @@ Al igual que en las páginas de tablas y consultas, aquí también puede utiliza
 
 ## Configuración de la columna de enlaces
 
-En **la configuración de la columna de enlace**, puede especificar qué datos son visibles y qué operaciones están permitidas para cada tabla enlazada.
+En **la configuración de la columna de enlace**, puede especificar para cada tabla enlazada qué datos son visibles y editables y qué operaciones están permitidas. Según la configuración, los usuarios pueden crear nuevos registros en la tabla enlazada, así como vincular, modificar y eliminar registros existentes. Esto permite un control preciso de los **permisos** correspondientes.
 
 ![Configuración de columnas de enlace en páginas de registro único](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Configuración de campos**: Aquí puede definir exactamente a qué columnas se aplican las siguientes autorizaciones.
-- **Añadir y vincular nuevos registros**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para definir qué columnas son **visibles** y qué columnas son **obligatorias**, es decir, deben rellenarse.
-- **Vincular registros existentes**: Si activa este control deslizante, los usuarios podrán vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
-- **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada en las celdas de la columna de enlace.
+- **Configuración de columnas de la tabla enlazada**: Aquí puede definir exactamente en qué medida se aplican las siguientes autorizaciones a determinadas columnas.
+- **Crear y vincular nuevos registros**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de columnas para definir qué columnas son **visibles** y qué columnas son **obligatorias**, es decir, deben rellenarse.
+- **Vincular registros existentes**: Si activa este control deslizante, los usuarios podrán vincular entradas existentes en la tabla vinculada. Puede utilizar la configuración de columnas para definir qué columnas son **visibles**.
 - **Filtros preestablecidos**: si añade un filtro aquí, al enlazar las entradas sólo se mostrarán las opciones que cumplan las condiciones del filtro.
 - **Activar la función de big data**: Si la función big data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya este número de entradas en la tabla vinculada.
-- **Modificar registros enlazados**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **editables**.
+- **Modificar registros enlazados**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar la configuración de columnas para definir qué columnas son **editables**.
+- **Eliminar registros existentes**: Con esta autorización puede determinar si los usuarios pueden eliminar los enlaces existentes.
+- **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada en las celdas de la columna de enlace.
 
 ## Autorizaciones de páginas
 

@@ -111,3 +111,11 @@ Este tipo de página permite diseñar una página con elementos estáticos, camp
 ![Pasar de un registro a otro en páginas de un solo registro](images/Switch-between-records-on-single-record-pages.gif)
 
 [Más información sobre las páginas de registro único en las aplicaciones.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})
+
+## Tipo de página: HTML
+
+A diferencia de todos los demás tipos de página, que contienen elementos predefinidos y determinan en gran medida la estructura de la página, aquí tiene total libertad: más allá del enfoque no-code, puede **diseñar interfaces de usuario individuales basadas en HTML, JavaScript y CSS** y añadirlas a su aplicación como páginas HTML. De este modo, puede programar aplicaciones exactamente según sus ideas e implementar sin problemas incluso interacciones complejas. Casos de uso típicos son, por ejemplo, **formularios con un diseño individual, tipos de gráficos propios o diagramas con elementos en los que se puede hacer clic**.
+
+![Ejemplo de una página HTML](images/html-page.png)
+
+[Más información sobre las páginas HTML en las aplicaciones.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/html-seiten-in-universellen-apps" >}})
