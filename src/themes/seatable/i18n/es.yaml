@@ -209,7 +209,7 @@ templates:
     preview: 'Vista previa'
 
 template-box:
-    text: '¿Tienes curiosidad? Desplázate por nuestra plantilla interactiva y descubre sus primeras funciones.'
+    text: '¿Tiene curiosidad? Desplácese por nuestra plantilla interactiva y descubra las primeras funciones.'
     submit: 'Probar plantilla'
 
 customer-logo:
