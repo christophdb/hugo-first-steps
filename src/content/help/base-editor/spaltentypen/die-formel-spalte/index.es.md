@@ -69,6 +69,8 @@ A continuación figuran algunos ejemplos que ilustran la utilidad y el uso de la
 - [Ejemplo de fórmula: Calcular los días que faltan para un evento]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
 - [Ejemplo de fórmula: Buscar una palabra en un texto]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
+Encontrará una visión general completa de todas las fórmulas en la [Referencia de la fórmula]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
+
 ## Las convenciones matemáticas también se aplican en SeaTable
 
 Por supuesto, puede confiar en que las convenciones matemáticas también se aplican en las fórmulas de SeaTable. He aquí los ejemplos más importantes:
