@@ -72,6 +72,8 @@ Im Folgenden finden Sie ein paar Beispiele, die den Nutzen und die Nutzung von F
 - [Formelbeispiel: Berechne Tage bis zu einem Event]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
 - [Formelbeispiel: Nach einem Wort in einem Text suchen]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
+Eine vollständige Übersicht aller Formeln finden Sie unter [Formelreferenz]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
+
 ## Mathematische Konventionen gelten auch in SeaTable
 
 Selbstverständlich können Sie sich darauf verlassen, dass mathematische Konventionen auch in den Formeln von SeaTable Ihre Anwendung finden. Hier die wichtigsten Beispiele:
