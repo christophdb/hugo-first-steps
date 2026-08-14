@@ -76,7 +76,8 @@ sections:
        description: 'Mit der [KI No-Code Lösung]({{< relref "/" >}}) von SeaTable verwalten Sie Ihre Wünsche zentral und teilen sie bei Bedarf mit Familie und Freunden. Führen Sie Ihre [digitale Wunschliste]({{< relref "posts/wunschzettel" >}}) nicht in einer starren App, sondern in einer flexibel anpassbaren Datenbank. So bleibt jede Wunschliste übersichtlich, egal ob Sie sie nur für sich selbst oder für die gesamte Familie erstellen möchten.'
        items:
        - text: '**Eigene Datenbank statt Papierwunschzettel**: Erfassen Sie jede Geschenkidee direkt in Ihrer Wunschzettel Vorlage und verknüpfen Sie Ideen, Preise, Links und Personen digital.'
-       - text: '**Immer griffbereit**: Sie können Ihren digitalen Wunschzettel jederzeit aufrufen, um spontan Ideen zu ergänzen oder Einträge zu ändern. So wächst Ihre Geschenkideensammlung über das ganze Jahr.'
+       - text: '**Immer griffbereit**: Sie können Ihren digitalen Wunschzettel jederzeit aufrufen, um spontan Ideen zu ergänzen oder Einträge zu ändern. So wächst Ihre Geschenkideensammlung über das ganze Jahr.' 
+       <!-- hier wird zweimal an verwendet wodurch der Satz keinen Sinn macht: an Ihre Vorstellungen an einen digitalen Wunschzettel -->
        - text: '**Kein Vorwissen nötig**: SeaTable bietet eine intuitive Oberfläche und lässt sich ohne Programmierkenntnisse an Ihre Vorstellungen an einen digitalen Wunschzettel anpassen.'
        - text: '**Wunschliste erstellen für jeden Anlass**: Managen Sie Weihnachtswunschzettel, Geburtstagswünsche, Babyparty-Geschenke oder Hochzeitstische in demselben System.'
        - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
@@ -98,7 +99,7 @@ sections:
          image: 
          image_alt: 
        - headline: 'Wunschzettel anlegen und teilen'
-         text: Mit der digitalen Wunschzettel Vorlage von SeaTable Sammeln und priorisieren Sie Ihre Wünsche übersichtlich und zentral an einem Ort. Sie können die gesamte Liste bequem mit Freunden und Familie teilen, erfüllte Wünsche abhaken und transparent in Echtzeit festhalten, welche Geschenkideen noch zur Auswahl stehen.    
+         text: Mit der digitalen Wunschzettel Vorlage von SeaTable sammeln und priorisieren Sie Ihre Wünsche übersichtlich und zentral an einem Ort. Sie können die gesamte Liste bequem mit Freunden und Familie teilen, erfüllte Wünsche abhaken und transparent in Echtzeit festhalten, welche Geschenkideen noch zur Auswahl stehen.    
        - headline: 'Zugriff einfach managen'
          text: 'Steuern Sie Lese- und Bearbeitungsrechte granular, damit nur bestimmte Personen Vorschläge machen, während andere z. B. ausschließlich Einträge sehen und reservieren können. Auf diese Weise lässt sich für jede Person eine individuelle Wunschliste erstellen, die Überraschungen wahrt und Planung erleichtert.'
          image: 
@@ -134,7 +135,7 @@ sections:
          text: Mit der Summarize-Funktion erstellen Sie automatisch kurze Zusammenfassungen, zum Beispiel aus längeren Wunschbeschreibungen oder Notizen aus Chat-Gesprächen. So wird aus frei formulierten Ideen eine klar lesbare, verständliche Beschreibung im digitalen Wunschzettel.
          icon: circle-info
        - headline: 'Wünsche automatisch strukturieren'
-         text: 'Lassen Sie Ihre Wünsche automatisch anhand von hinterlegten Kriterien klassifizieren, etwa nach Anlass, Zielgruppe  oder Preisbereich. Ihre Wunschzettel Vorlage sortiert Geschenkideen damit nachvollziehbar, ohne dass Sie jede Kategorie manuell pflegen müssen.'
+         text: 'Lassen Sie Ihre Wünsche automatisch anhand von hinterlegten Kriterien klassifizieren, etwa nach Anlass, Zielgruppe oder Preisbereich. Ihre Wunschzettel Vorlage sortiert Geschenkideen damit nachvollziehbar, ohne dass Sie jede Kategorie manuell pflegen müssen.'
          icon: table
        - headline: 'Texte aus Bildern auslesen'
          text: 'Fotografieren Sie handgeschriebene Wunschzettel, Prospektseiten oder Geschenkideen aus Katalogen und lassen Sie mit der OCR-Funktion den Text automatisch erkennen. Anschließend können Sie die Inhalte weiterverarbeiten und in Ihren digitalen Wunschzettel übernehmen.' 
@@ -143,7 +144,7 @@ sections:
          text: 'Lesen Sie automatisch relevante Informationen aus Produkttexten aus, zum Beispiel Preisangaben, Händlernamen oder Artikelnummern. Die Extract-Funktion überträgt diese Daten direkt in Ihre Wunschzettel Vorlage, sodass Sie Links und Shop-Angaben nicht händisch zerlegen müssen.'
          icon: layer-group
        - headline: 'Eigene KI-Regeln definieren'
-         text: 'Mit der Custom-Funktion definieren Sie eigene Prompts, um Ihre Wunschzettel Vorlage flexibel zu erweitern, z. B., um aus verschiedenen den Spalten automatisch kurze Geschenkideen-Vorschläge zu erzeugen oder persönliche Geschenktexte für Karten vorzuschlagen.'
+         text: 'Mit der Custom-Funktion definieren Sie eigene Prompts, um Ihre Wunschzettel Vorlage flexibel zu erweitern, z. B., um aus verschiedenen Spalten automatisch kurze Geschenkideen-Vorschläge zu erzeugen oder persönliche Geschenktexte für Karten vorzuschlagen.'
          icon: wand-magic-sparkles
        - headline: 'Qualitätscheck Ihrer Einträge'
          text: 'Verwenden Sie KI-Automationen, um Ihre Einträge zu prüfen, z. B. ob die Beschreibung verständlich ist, ob ein Link oder Bild fehlt oder ob Preis- und Anlassangaben zu Budgetvorgaben passen. So bleibt Ihr Geschenkbudget stets transparent und planbar.'
@@ -170,7 +171,7 @@ sections:
        subtitle:
        items:
        - q: "Kann ich meinen Wunschzettel online mit Verwandten und Freunden teilen, ohne dass diese ein Konto benötigen?"   
-         a: 'Ja, Sie können aus Ihrer Wunschzettel Vorlage eine App erstellen und diese per Link teilen. Viele Ansichten – zum Beispiel Formularseiten oder einfache Geschenkübersichten – lassen sich so konfigurieren, dass Beschenkte oder Schenkende keinen SeaTable-Account benötigen, um Wunschzettel online einzusehen oder Vorschläge zu machen'
+         a: 'Ja, Sie können aus Ihrer Wunschzettel Vorlage eine App erstellen und diese per Link teilen. Viele Ansichten – zum Beispiel Formularseiten oder einfache Geschenkübersichten – lassen sich so konfigurieren, dass Beschenkte oder Schenkende keinen SeaTable-Account benötigen, um Wunschzettel online einzusehen oder Vorschläge zu machen.'
        - q: "Ist die Nutzung von SeaTable für Privatpersonen kostenlos?"
          a: 'Ja, um die kostenlose Vorlage für einen digitalen Wunschzettel zu nutzen, reicht grundsätzlich ein dauerhaft kostenloser SeaTable Free-Account aus. Damit können Privatpersonen ihren digitalen Wunschzettel anlegen, anpassen und langfristig führen, ohne zusätzliche Abonnementkosten.'
        - q: "Wie wird verhindert, dass Geschenke doppelt gekauft werden, wenn ich eine Wunschliste erstellen möchte?"
