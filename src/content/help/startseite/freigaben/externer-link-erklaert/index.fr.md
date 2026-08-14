@@ -1,7 +1,7 @@
 ---
 title: 'Créer un lien externe pour une base'
 date: 2022-11-07
-lastmod: '2023-01-17'
+lastmod: '2026-08-14'
 categories:
     - 'freigaben'
 author: 'vge'
@@ -23,8 +23,8 @@ Par conséquent, les liens externes vous offrent de nombreuses possibilités int
 
 Un lien externe est une **URL** qui vous permet d'accéder **en lecture** à un recueil de données dans SeaTable. Un tel recueil de données peut être une [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) ou une [vue]({{< relref "help/erste-schritte/einfuehrung-funktionen/ansichten/" >}}).
 
-- **Lien externe pour une base**: En appelant ce lien externe, le visiteur peut **voir** toutes les données enregistrées dans une base, y compris tous les tableaux. Le visiteur peut en outre accéder à **toutes les vues** et [statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) **existantes**. Il peut en outre utiliser les **outils d'évaluation** que sont le [regroupement, le tri et le filtre]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
-- **Lien externe pour une vue**: un tel lien externe donne **un accès en lecture à _une_ vue spécifique d'un tableau**. Les autres vues et tableaux de la base, ainsi que **les lignes et colonnes masquées**, restent **cachés** aux utilisateurs du lien externe. Pour en savoir plus, consultez l'article [Créer un lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
+- **Lien externe pour une base** : En appelant ce lien externe, le visiteur peut **voir** toutes les données enregistrées dans une base, y compris tous les tableaux. Le visiteur peut en outre accéder à **toutes les vues existantes** et aux [statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}). Il peut en outre utiliser les **outils d'évaluation** que sont le [regroupement, le tri et le filtre]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
+- **Lien externe pour une vue** : un tel lien externe donne **un accès en lecture à _une_ vue spécifique d'un tableau**. Les autres vues et tableaux de la base, ainsi que **les lignes et colonnes masquées**, restent **cachés** aux utilisateurs du lien externe. Pour en savoir plus, consultez l'article [Créer un lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 Les liens externes sont en principe des **liens publics**, c'est-à-dire que le lien peut être consulté par toute personne, qu'elle soit ou non connectée à SeaTable. C'est aussi l'une des principales [différences avec le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}).
 
@@ -32,21 +32,22 @@ Les liens externes sont toujours appropriés lorsque vous souhaitez rendre des d
 
 ## Comment créer un lien externe pour une base
 
-![Lien externe expliqué](images/Externer-Link-erklaert.gif)
+![Créer un lien externe](images/create-external-link.gif)
 
 1. Allez sur la **page d'accueil** de SeaTable.
-2. Déplacez le curseur de la souris sur la **base** que vous souhaitez diviser et cliquez sur les **trois points** qui apparaissent à droite.
+2. Déplacez le curseur de la souris sur la **base** que vous souhaitez partager et cliquez sur les **trois points** qui apparaissent à droite.
 3. Sélectionnez l'option **Partager**.
 4. Cliquez sur **Lien externe**.
-5. Définissez si vous souhaitez attribuer **des droits de lecture et d'écriture** ou uniquement **des droits de lecture**.
-6. Décidez également si vous souhaitez une **protection par mot de passe** et/ou une **date d'expiration**.
-7. Choisissez si vous souhaitez générer une **URL aléatoire** ou définir une **URL personnalisée**.
-8. Cliquez sur **Créer**.
+5. Décidez si vous souhaitez ajouter une **protection par mot de passe**, une **date d'expiration** et une **description** en cochant les cases correspondantes.
+6. Choisissez si vous souhaitez générer une **URL aléatoire** ou définir une **URL personnalisée**.
+7. Cliquez sur **Créer**.
+
+Vous pouvez maintenant **copier le lien** et le partager avec autant de personnes que vous le souhaitez.
 
 ## Intégration d'un lien externe dans une page web
 
-Les liens externes conviennent parfaitement à la publication d'enregistrements individuels sur un site web. Les visiteurs du site web ne voient que les contenus qui ont été partagés, mais ne peuvent pas les modifier.
+Les liens externes conviennent parfaitement à la publication d'un certain nombre d'enregistrements sur un site web. Les visiteurs du site web voient les contenus qui ont été partagés, mais ne peuvent pas les modifier.
 
-Une simple _balise embed_ permet d'intégrer une base ou une vue dans une page web via un lien externe. Les bases de notre [bibliothèque de modèles]({{< relref "templates" >}}) sont par exemple intégrées dans notre site web au moyen de liens externes. C'est également de cette manière que nous publions les articles de presse de SeaTable sur notre page de presse.
+Une simple _balise embed_ permet d'intégrer une base ou une vue dans une page web via un lien externe. Les [modèles de SeaTable]({{< relref "templates" >}}) sont par exemple intégrés dans notre site web au moyen de liens externes.
 
-![Intégration d'un lien externe dans une page web](images/externer-link-in-webseite.gif)
+![Intégration d'un lien externe dans une page web](images/external-link-embedded-on-website.png)

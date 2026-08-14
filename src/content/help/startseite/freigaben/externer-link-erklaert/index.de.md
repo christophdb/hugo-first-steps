@@ -1,7 +1,7 @@
 ---
 title: 'Externen Link für eine Base erstellen'
 date: 2022-11-07
-lastmod: '2023-01-17'
+lastmod: '2026-08-14'
 categories:
     - 'freigaben'
 author: 'vge'
@@ -30,21 +30,22 @@ Externe Links eignen sich immer dann, wenn Sie **externen Personen** Daten in Ba
 
 ## So erstellen Sie einen externen Link für eine Base
 
-![Externer Link erklärt](images/Externer-Link-erklaert.gif)
+![Externen Link erstellen](images/create-external-link.gif)
 
 1. Gehen Sie auf die **Startseite** von SeaTable.
 2. Bewegen Sie den Mauszeiger auf die **Base**, die Sie teilen möchten, und klicken Sie auf die rechts erscheinenden **drei Punkte**.
 3. Wählen Sie die Option **Freigeben** aus.
 4. Klicken Sie auf **Externer Link**.
-5. Stellen Sie ein, ob Sie **Lese- und Schreibrechte** oder nur **Leserechte** vergeben möchten.
-6. Entscheiden Sie auch, ob Sie einen **Passwortschutz** und/oder ein **Ablaufdatum** haben möchten.
-7. Wählen Sie aus, ob Sie eine **zufällige URL** generieren oder eine **eigene URL** festlegen möchten.
-8. Klicken Sie auf **Erstellen**.
+5. Entscheiden Sie, ob Sie einen **Passwortschutz**, ein **Ablaufdatum** und eine **Beschreibung** hinzufügen möchten, indem Sie die Kästchen aktivieren.
+6. Wählen Sie aus, ob Sie eine **zufällige URL** generieren oder eine **eigene URL** festlegen möchten.
+7. Klicken Sie auf **Erstellen**.
+
+Nun können Sie den **Link kopieren** und mit beliebig vielen Personen teilen.
 
 ## Einbetten eines externen Links in eine Webseite
 
-Externe Links eignen sich super, um einzelne Datensätze auf einer Webseite zu veröffentlichen. Die Besucher der Webseite sehen nur die Inhalte, die freigegeben wurden, können die Inhalte jedoch nicht verändern.
+Externe Links eignen sich hervorragend, um eine bestimmte Menge an Datensätzen auf einer Webseite zu veröffentlichen. Die Besucher der Webseite sehen die Inhalte, die freigegeben wurden, können die Inhalte jedoch nicht verändern.
 
-Mit einem einfachen _embed-Tag_ können Sie eine Base oder eine Ansicht über einen externen Link in eine Webseite integrieren. Die Bases in unserer [Template-Bibliothek]({{< relref "templates" >}}) sind beispielsweise mittels externer Links in unsere Webseite eingebettet. Auf diese Weise veröffentlichen wir auch die Presseartikel von SeaTable auf unserer Presseseite.
+Mit einem einfachen _embed-Tag_ können Sie eine Base oder eine Ansicht über einen externen Link in eine Webseite integrieren. Die [Templates von SeaTable]({{< relref "templates" >}}) sind beispielsweise mittels externer Links in unsere Webseite eingebettet.
 
-![Einbetten von einem externen Link in eine Webseite](images/externer-link-in-webseite.gif)
+![Einbetten von einem externen Link in eine Webseite](images/external-link-embedded-on-website.png)

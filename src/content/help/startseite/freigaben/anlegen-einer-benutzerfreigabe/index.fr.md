@@ -9,7 +9,7 @@ url: '/fr/aide/partager-base-utilisateurs'
 aliases:
     - '/fr/aide/anlegen-einer-benutzerfreigabe'
 seo:
-    title: 'Partager une base SeaTable à des utilisateurs: guide'
+    title: 'Partager une base SeaTable à des utilisateurs : guide'
     description: 'Donnez droits de lecture/édition, ajoutez plusieurs membres et gérez la base depuis SeaTable – contrôle et retrait des accès inclus.'
 ---
 
@@ -17,12 +17,12 @@ Vous pouvez **partager des bases avec d'autres utilisateurs** au sein de votre �
 
 ## Pour créer un partage pour un utilisateur
 
-![Créer un partage d'utilisateurs](images/Anlegen-einer-Benutzerfreigabe.gif)
+![Créer un partage utilisateur](images/Anlegen-einer-Benutzerfreigabe.gif)
 
 1. Allez sur la **page d'accueil de SeaTable**.
-2. Déplacez le curseur de la souris sur la **base** que vous souhaitez diviser et cliquez sur les **trois points** qui apparaissent à droite.
+2. Déplacez le curseur de la souris sur la **base** que vous souhaitez partager et cliquez sur les **trois points** qui apparaissent à droite.
 3. Sélectionnez l'option **Partager**.
-4. Allez sur **Partage pour les utilisateurs**.
+4. Allez sur **Partager avec les utilisateurs**.
 5. Sélectionnez un **utilisateur** de votre équipe.
 6. Définissez si vous souhaitez attribuer **des droits de lecture et d'écriture** ou uniquement **des droits de lecture**.
 7. Cliquez sur **Envoyer**.

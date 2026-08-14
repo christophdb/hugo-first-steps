@@ -23,9 +23,12 @@ Ausführliche Erklärungen zum Thema Ansichtsfreigaben finden Sie im Artikel [Fr
 
 1. Öffnen Sie die **Ansicht** einer Tabelle, die Sie freigeben möchten.
 2. Klicken Sie auf **Ansicht teilen** {{< seatable-icon icon="dtable-icon-share" >}} und wählen Sie anschließend **Freigabe für Gruppe**.
-   ![Freigabe einer Ansicht an eine Gruppe](images/Freigabe-einer-Ansicht-an-eine-Gruppe.png)4. Wählen Sie eine **Gruppe** aus, der Sie die Ansicht freigeben möchten.
-3. Entscheiden Sie im Feld **Berechtigung**, ob die Gruppenmitglieder die Ansicht lediglich lesen oder auch bearbeiten können.
-4. **Benennen** Sie die Freigabe und bestätigen Sie diese mit **Abschicken**.
+
+![Freigabe einer Ansicht an eine Gruppe](images/Freigabe-einer-Ansicht-an-eine-Gruppe.png)
+
+3. Wählen Sie eine **Gruppe** aus, der Sie die Ansicht freigeben möchten.
+4. Entscheiden Sie im Feld **Berechtigung**, ob die Gruppenmitglieder die Ansicht lediglich lesen oder auch bearbeiten können.
+5. **Benennen** Sie die Freigabe und bestätigen Sie diese mit **Abschicken**.
 
 Wenn Sie die Ansicht erfolgreich an eine Gruppe freigegeben haben, erscheint sie mit dem Namenszusatz **Freigegeben** bei allen Gruppenmitgliedern im Bereich der entsprechenden Gruppe auf der **Startseite**.
 

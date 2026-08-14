@@ -14,16 +14,16 @@ seo:
 
 ---
 
-Si otro usuario te ha liberado una base, puedes **dejar** esta **liberación por ti mismo**. Esto es posible en cualquier momento con sólo unos clics en la página de inicio.
+Si otro usuario ha compartido una base con usted, puede **abandonar** este **recurso compartido** por iniciativa propia. Esto es posible en cualquier momento con solo unos clics en la página de inicio.
 
-## Abandonar una base liberada
+## Abandonar una base compartida
 
-![Abandono de bases liberadas](images/leave-shared-base.png)
+![Salir de las bases compartidas](images/leave-shared-base.png)
 
-1. Cambie a la página de **inicio** de SeaTable.
-2. Mueva el puntero del ratón a la **base liberada** y haga clic en los **tres puntos** que aparecen a la derecha {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}.
+1. Cambie a la **página de inicio** de SeaTable.
+2. Mueva el puntero del ratón a la **base compartida con usted** y haga clic en los **tres puntos** que aparecen a la derecha {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}.
 3. Haga clic en **Salir de Compartir**.
 
-## Impacto
+## Consecuencias
 
-Si usted mismo finaliza un recurso compartido del modo descrito anteriormente, **perderá el** **acceso a cualquier dato** de la base compartida. Sin embargo, **cualquier cambio** que hayas realizado en la base **antes de** abandonar el uso compartido seguirá **guardado** en la base.
+Si usted mismo finaliza un recurso compartido del modo descrito anteriormente, **perderá el acceso a cualquier dato** de la base compartida. Sin embargo, **cualquier cambio** que haya realizado en la base **antes de** abandonar el uso compartido seguirá **guardado** en la base.

@@ -24,13 +24,13 @@ seo:
 2. Mueva el ratón sobre la **base** de la que desea compartir tablas individuales.
 3. Haga clic en los **tres puntos** que aparecen a la derecha.
 4. Seleccione la opción de menú **Compartir**.
-5. A continuación, se abre una **ventana** en la que puede crear varias acciones.
+5. A continuación, se abre una **ventana** en la que puede crear varias comparticiones.
 
 ## Compartición dentro de la base
 
 ![Compartición dentro de la base](images/share-a-base.png)
 
-Si se encuentra en una base, también puede crear una compartición sin tener que cambiar a la página de inicio. Para ello, haga clic en el **icono de compartir** {{< seatable-icon icon="dtable-icon-share" >}} en la parte superior derecha de **las opciones de la base**. La ventana que se abre para crear una compartición es la misma que en la página de inicio.
+Si se encuentra **en una base**, también puede crear una compartición sin tener que cambiar a la página de inicio. Para ello, haga clic en el **icono de compartir** {{< seatable-icon icon="dtable-icon-share" >}} en la parte superior derecha de **las opciones de la base**. La ventana que se abre para crear una compartición es la misma que en la página de inicio.
 
 ## Crear una compartición personalizada
 

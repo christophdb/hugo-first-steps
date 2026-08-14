@@ -21,14 +21,14 @@ You can **delete** both **external links** and **invitation links** at any time 
 - Deletion via the share icon {{< seatable-icon icon="dtable-icon-share" >}} for bases or views
 - Deletion via [team administration]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
-{{< warning  headline="Note"  text="External links are for bases and Views, Invitation links are for bases only." />}}
+{{< warning  headline="Note"  text="External links are for bases and views, invitation links are for bases only." />}}
 
 ## Deletion via the share icon
 
 ![Click the share icon in your table](images/share-single-tablesheets-from-the-base-options.png)
 
-1. Open a **base** or **view for** which you want to delete a link.
-2. Click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} for bases or Views.
+1. Open a **base** or **view** for which you want to delete a link.
+2. Click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} for bases or views.
 3. Depending on which type of link you want to delete, click either **Invitation Link** or **External Link**.
 4. Hover your mouse over the link and click the **x icon**.
 
@@ -38,15 +38,15 @@ You can **delete** both **external links** and **invitation links** at any time 
 
 {{< warning  headline="For team admins only"  text="To access the team administration, you must be a **team administrator**." />}}
 
-1. Switch to the SeaTable **home** page and click on your **avatar image**.
+1. Switch to the SeaTable **home page** and click on your **avatar image**.
 
 ![Access to the team administration](images/Zugriff-auf-die-Teamverwaltung.png)
 
-3. Open the **team administration** of your account.
-4. Click **bases** in the navigation.
-5. Depending on which type of link you want to delete, click either **Invitation Links** or **External Links**.
-6. Select the **link** you want to delete.
-7. Confirm the deletion by activating the **Controller** and click on **Delete invitation link** (for invitation links) resp. **Delete share** (for external links).  
+2. Open the **team administration** of your account.
+3. Click **Bases** in the navigation.
+4. Depending on which type of link you want to delete, click either **Invitation Links** or **External Links**.
+5. Select the **link** you want to delete.
+6. Confirm the deletion by activating the **toggle** and click on **Delete invitation link** (for invitation links) or **Delete share** (for external links).  
    ![Confirm the deletion](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
 {{< warning  headline="Works only with base links" >}}

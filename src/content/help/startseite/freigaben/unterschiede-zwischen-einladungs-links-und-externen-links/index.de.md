@@ -15,7 +15,7 @@ Beide Freigabetypen ermöglichen es Ihnen, mit **externen Personen** zusammenzua
 
 ## Externe Links
 
-Einen [externen Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) können Sie an andere Personen versenden, **ohne** dass diese ein **SeaTable Konto** benötigen. Ein externer Link für eine Base ist somit ein **öffentlicher Link**, der **Lesezugriff** auf eine Base gewährt. Einen externen Link können Sie auch verwenden, um eine Base in eine Webseite einzubetten.
+Einen [externen Link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) können Sie an andere Personen versenden, **ohne** dass diese ein **SeaTable Konto** benötigen. Ein externer Link für eine Base ist somit ein **öffentlicher Link**, der **Lesezugriff** auf eine Base gewährt. Einen externen Link können Sie auch verwenden, um eine Base in eine Webseite einzubetten.
 
 ![Unterschied zwischen External-Link und Einladungs-Link_hier der Externe Link](images/unterschied-zwischen-einladungs-link-und-externem-link.png)
 

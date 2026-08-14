@@ -9,15 +9,15 @@ url: '/fr/aide/differences-lien-invitation-externe'
 aliases:
     - '/fr/aide/unterschiede-zwischen-einladungs-links-und-externen-links'
 seo:
-    title: 'Différences : lien d’invitation ou lien externe dans SeaTable – usages & sécurité'
-    description: 'Lien d’invitation vs lien externe dans SeaTable : besoin de compte, droits accordés et cas d’usage pour chaque partage.'
+    title: "Différences : lien d'invitation ou lien externe dans SeaTable – usages & sécurité"
+    description: "Lien d'invitation vs lien externe dans SeaTable : besoin de compte, droits accordés et cas d'usage pour chaque partage."
 ---
 
 Ces deux types de partage vous permettent de collaborer avec **des personnes externes** **sans les ajouter à votre équipe**.
 
 ## Liens externes
 
-Vous pouvez envoyer un [lien externe]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) à d'autres personnes **sans** qu'elles aient besoin d'un **compte SeaTable**. Un lien externe pour une base est donc un **lien public** qui donne **un accès en lecture** à une base. Vous pouvez également utiliser un lien externe pour intégrer une base dans une page web.
+Vous pouvez envoyer un [lien externe]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) à d'autres personnes **sans** qu'elles aient besoin d'un **compte SeaTable**. Un lien externe pour une base est donc un **lien public** qui donne **un accès en lecture** à une base. Vous pouvez également utiliser un lien externe pour intégrer une base dans une page web.
 
 ![Différence entre lien externe et lien d'invitation_ici le lien externe](images/unterschied-zwischen-einladungs-link-und-externem-link.png)
 

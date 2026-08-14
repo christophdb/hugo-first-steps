@@ -5,65 +5,65 @@ lastmod: '2022-12-19'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/pt/ajuda/compartilhar-visualizacao-membro-seatable '
+url: '/pt/ajuda/compartilhar-visualizacao-membro-seatable'
 aliases:
     - '/pt/ajuda/freigabe-einer-ansicht-an-ein-teammitglied'
 seo:
-    title: 'Compartilhar visualização no SeaTable – membro e permissões'
-    description: 'Compartilhe uma visualização no SeaTable com um membro da equipe, controle permissões de leitura ou edição e saiba diferenciar do compartilhamento total.'
+    title: 'Partilhar vista no SeaTable – membro e permissões'
+    description: 'Partilhe uma vista no SeaTable com um membro da equipa, controle as permissões de leitura ou edição e saiba distingui-la da partilha total.'
 ---
 
 {{< required-version "Mais" "Empresa" >}}
 
-Para permitir uma colaboração óptima, pode partilhar as opiniões das tabelas com os membros da sua equipa e outros utilizadores. Ao partilhar, pode decidir se outros utilizadores só podem ler a visão partilhada ou também editá-la.
+Para permitir uma colaboração ótima, pode partilhar vistas de tabelas com os membros da sua equipa e com outros utilizadores. Ao partilhar, pode decidir se os outros utilizadores só podem ler a vista partilhada ou também editá-la.
 
-Se conceder a outro utilizador direitos de edição a uma visão partilhada, ele ou ela está autorizado a alterar quaisquer entradas na visão. As alterações correspondentes são então também aplicadas à sua opinião ou à opinião de todos os utilizadores a quem tenha partilhado a sua opinião.
+Se conceder a outro utilizador direitos de edição sobre uma vista partilhada, este fica autorizado a alterar quaisquer entradas na vista. As alterações correspondentes são depois aplicadas também à sua vista e à vista de todos os utilizadores com quem partilhou a sua vista.
 
-## Partilhar uma visão com um membro da equipa
+## Partilhar uma vista com um membro da equipa
 
-![Partilhar uma visão com um membro da equipa](images/sharing-a-view-with-a-team-member-1.gif)
+![Partilhar uma vista com um membro da equipa](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Abra a **vista** de uma tabela que deseja partilhar.
-2. Clique em **Share View** e depois seleccione **Share with User**.
-3. Seleccione um **utilizador** a quem deseja partilhar a visão.
-4. No campo **Autorização**, decidir se o membro da sua equipa só pode ler a vista ou também editá-la.
-5. **Nomear a** libertação e confirmar com **Submeter**.
+2. Clique em **Partilhar vista** e depois selecione **Partilhar com utilizador**.
+3. Selecione um **utilizador** com quem deseja partilhar a vista.
+4. No campo **Autorização**, decida se o membro da sua equipa só pode ler a vista ou também editá-la.
+5. **Nomeie** a partilha e confirme com **Submeter**.
 
-Se partilhou com sucesso a visão com outro utilizador, esta aparece na sua página inicial sob o separador **Partilhado comigo**:
+Se tiver partilhado com sucesso a vista com outro utilizador, esta aparece na página inicial dele sob o separador **Partilhado comigo**:
 
-![Vistas divididas na página inicial](images/Screenshot-from-2022-11-10-17-01-26.png)
+![Vistas partilhadas na página inicial](images/Screenshot-from-2022-11-10-17-01-26.png)
 
-Se um utilizador abre uma visão que foi partilhada com ele, pode ser assim, por exemplo:
+Quando um utilizador abre uma vista que foi partilhada com ele, esta pode ter o seguinte aspeto, por exemplo:
 
-![Aspecto de uma vista dividida](images/Screenshot-from-2022-11-10-17-15-12.png)
+![Aspeto de uma vista partilhada](images/Screenshot-from-2022-11-10-17-15-12.png)
 
-## Resolver uma visão dividida
+## Anular a partilha de uma vista
 
-Se já não quiser partilhar uma vista de tabela com outro utilizador, pode apagar facilmente a partilha novamente:
+Se já não quiser partilhar uma vista de tabela com outro utilizador, pode apagar facilmente a partilha:
 
-![Resolver uma visão dividida.](images/resolve-a-split-view.gif)
+![Anular a partilha de uma vista.](images/resolve-a-split-view.gif)
 
-1. Abra a **vista de** uma tabela que tenha partilhado com outro utilizador.
-2. Clique em **Share View**.
-3. Em Partilhar com o **Utilizador**, seleccionar a partilha desejada e premir **Apagar**.
+1. Abra a **vista** de uma tabela que tenha partilhado com outro utilizador.
+2. Clique em **Partilhar vista**.
+3. Em **Partilhar com utilizador**, selecione a partilha desejada e prima **Apagar**.
 
-## Diferença entre partilhar uma base inteira e partilhar um ponto de vista
+## Diferença entre partilhar uma base inteira e partilhar uma vista
 
-Numa base há um total de dois **ícones de partilha** com os quais se pode partilhar tanto uma vista de base inteira como uma vista de tabela individual. Dependendo da sua função, encontrará estes ícones ou na área das **Opções Base** (aqui com fundo colorido) ou na área das **Opções de Visualização** (aqui branco):
+Numa base há um total de dois **ícones de partilha** com os quais pode partilhar uma base inteira ou uma vista de tabela individual. Consoante a sua função, encontra estes ícones na área das **Opções da base** (aqui com fundo colorido) ou na área das **Opções de vista** (aqui a branco):
 
-![Partilha de ícones numa base](images/share-icons-new-1.png)
+![Ícones de partilha numa base](images/share-icons-new-1.png)
 
 ### Partilha de uma base
 
-- Toda a base (incluindo todas as **tabelas**, **vistas** e **dados**) é divulgada a outro utilizador.
+- Toda a base (incluindo todas as **tabelas**, **vistas** e **dados**) é partilhada com outro utilizador.
 
 ### Partilha de uma vista
 
-- Apenas a **vista** seleccionada **de uma tabela** é divulgada a outro utilizador.
+- Apenas a **vista de uma tabela** selecionada é partilhada com outro utilizador.
 
-## Características especiais
+## Particularidades
 
-Ao partilhar uma vista, há algumas características especiais que precisam de ser tidas em conta:
+Ao partilhar uma vista há algumas particularidades a ter em conta:
 
-- As colunas ocultas numa vista **não** são mostradas aos telespectadores da ligação da acção.
-- Se uma vista de tabela partilhada contiver links para as entradas de outra tabela que não tenha partilhado com o respectivo utilizador, o utilizador ainda pode **ver** as entradas correspondentes e, dependendo dos direitos que lhe tenha concedido para a vista partilhada, **editá-las** também.
+- As colunas ocultas numa vista **não** são mostradas a quem abre a ligação de partilha.
+- Se uma vista de tabela partilhada contiver ligações para as entradas de outra tabela que não tenha partilhado com o respetivo utilizador, este pode ainda assim **ver** as entradas correspondentes e, consoante os direitos que lhe tenha concedido para a vista partilhada, também **editá-las**.
