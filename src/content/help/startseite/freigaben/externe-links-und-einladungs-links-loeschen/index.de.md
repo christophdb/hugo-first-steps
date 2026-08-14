@@ -36,11 +36,16 @@ Sowohl **externe Links** als auch **Einladungs-Links** können Sie jederzeit auf
 {{< warning  type="warning" headline="Nur für Team-Admins"  text="Um auf die Teamverwaltung zugreifen zu können, müssen Sie **Team-Administrator** sein." />}}
 
 1. Wechseln Sie auf die **Startseite** von SeaTable und klicken Sie auf Ihr **Avatarbild**.
-   ![Zugriff auf die Teamverwaltung](images/Zugriff-auf-die-Teamverwaltung.png)3. Öffnen Sie die **Teamverwaltung** Ihres Kontos.
-2. Klicken Sie in der Navigation auf **Bases**.
-3. Klicken Sie, je nachdem welche Art von Link Sie löschen möchten, entweder auf **Einladung-Links** oder auf **Externe Links**.
-4. Wählen Sie den zu löschenden **Link** aus.
-5. Bestätigen Sie die Löschung durch Aktivieren des **Reglers** und klicken Sie auf **Einladungs-Link löschen** (für Einladungs-Links) bzw. **Freigabe löschen** (für externe Links). ![Bestätigen Sie die Löschung](images/confirm-delete-invitation-and-external-links-way2.jpg)
+
+![Zugriff auf die Teamverwaltung](images/Zugriff-auf-die-Teamverwaltung.png)
+
+2. Öffnen Sie die **Teamverwaltung** Ihres Kontos.
+3. Klicken Sie in der Navigation auf **Bases**.
+4. Klicken Sie, je nachdem welche Art von Link Sie löschen möchten, entweder auf **Einladungs-Links** oder auf **Externe Links**.
+5. Wählen Sie den zu löschenden **Link** aus.
+6. Bestätigen Sie die Löschung durch Aktivieren des **Reglers** und klicken Sie auf **Einladungs-Link löschen** (für Einladungs-Links) bzw. **Freigabe löschen** (für externe Links).
+
+![Bestätigen Sie die Löschung](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
 {{< warning  headline="Funktioniert nur bei Base-Links" >}}
 

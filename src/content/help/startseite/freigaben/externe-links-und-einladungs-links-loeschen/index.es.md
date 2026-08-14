@@ -18,10 +18,10 @@ Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitaci
 
 ## Formas de eliminar enlaces externos y enlaces de invitación
 
-- Supresión mediante el icono de compartir {{< seatable-icon icon="dtable-icon-share" >}} para bases o vistas
-- Supresión a través de la [administración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
+- Eliminación mediante el icono de compartir {{< seatable-icon icon="dtable-icon-share" >}} para bases o vistas
+- Eliminación a través de la [administración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
-{{< warning  headline="Nota"  text="Los enlaces externos están disponibles para las bases y las vistas, los enlaces de invitación sólo para las bases." />}}
+{{< warning  headline="Nota"  text="Los enlaces externos están disponibles para las bases y las vistas, los enlaces de invitación solo para las bases." />}}
 
 ## Eliminación mediante el icono de compartir
 
@@ -34,32 +34,32 @@ Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitaci
 
 ![Eliminar enlaces externos y enlaces de invitación](images/delete-invitation-and-external-links.jpg)
 
-## Supresión a través de la administración del equipo
+## Eliminación a través de la administración del equipo
 
-{{< warning  headline="Sólo para administradores de equipo"  text="Para acceder a la administración del equipo, debe ser **administrador del mismo**." />}}
+{{< warning  headline="Solo para administradores de equipo"  text="Para acceder a la administración del equipo, debe ser **administrador del equipo**." />}}
 
-1. Vaya a la **página de inicio** de SeaTable y haga clic en la **imagen de** su **avatar**.
+1. Vaya a la **página de inicio** de SeaTable y haga clic en su **imagen de avatar**.
 
-![Acceso a la dirección del equipo](images/Zugriff-auf-die-Teamverwaltung.png)
+![Acceso a la administración del equipo](images/Zugriff-auf-die-Teamverwaltung.png)
 
-3. Abra la **gestión de equipos de** su cuenta.
-4. Haga clic en **Bases** en la navegación.
-5. Dependiendo del tipo de enlace que desee eliminar, haga clic en **Enlaces de invitación** o **Enlaces externos**.
-6. Seleccione el **enlace** que desea eliminar.
-7. Confirme la eliminación activando la tecla **Controlador** y haga clic en **Borrar enlace de invitación** (para los enlaces de invitación) o **Suprimir liberación** (para enlaces externos).  
+2. Abra la **administración del equipo** de su cuenta.
+3. Haga clic en **Bases** en la navegación.
+4. Dependiendo del tipo de enlace que desee eliminar, haga clic en **Enlaces de invitación** o **Enlaces externos**.
+5. Seleccione el **enlace** que desea eliminar.
+6. Confirme la eliminación activando el **regulador** y haga clic en **Borrar enlace de invitación** (para los enlaces de invitación) o **Eliminar compartición** (para enlaces externos).  
    ![Confirmar la eliminación](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Sólo funciona con enlaces de base" >}}
+{{< warning  headline="Solo funciona con enlaces de base" >}}
 
-No se puede eliminar un [enlace externo para una vista]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) a través de la administración del equipo, sino sólo a través del icono de compartir para las vistas.
+No se puede eliminar un [enlace externo para una vista]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) a través de la administración del equipo, sino solo a través del icono de compartir para las vistas.
 
 {{< /warning >}}
 
-## Consecuencias de la supresión
+## Consecuencias de la eliminación
 
-### Supresión de un enlace de invitación
+### Eliminación de un enlace de invitación
 
-La supresión de un **enlace de invitación** tiene las siguientes **consecuencias**:
+La eliminación de un **enlace de invitación** tiene las siguientes **consecuencias**:
 
 Si los usuarios intentan abrir un enlace de invitación **eliminado**, aparece el siguiente **mensaje de error**.
 
@@ -69,16 +69,16 @@ Una vez eliminado el enlace de invitación, **ningún otro usuario** podrá acce
 
 {{< warning  headline="Los usuarios invitados conservan el acceso" >}}
 
-Los usuarios que aceptaron tu invitación antes de que se borrara el enlace pueden seguir accediendo a la base compartida y aparecen en la lista de [usuarios compartidos]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Sin embargo, por supuesto puedes eliminar el recurso compartido allí.
+Los usuarios que aceptaron su invitación antes de que se borrara el enlace pueden seguir accediendo a la base compartida y aparecen en la lista de [comparticiones de usuario]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Sin embargo, por supuesto puede eliminar la compartición allí.
 
 {{< /warning >}}
 
-### Supresión de un enlace externo
+### Eliminación de un enlace externo
 
-La supresión de un **enlace** externo tiene las siguientes **consecuencias**:
+La eliminación de un **enlace externo** tiene las siguientes **consecuencias**:
 
 Si los usuarios intentan abrir un enlace externo **eliminado**, aparece el siguiente **mensaje de error**.
 
 ![Mensaje de error al eliminar un enlace externo](images/Fehlermeldung-bei-Loeschung-eines-externen-Links.png)
 
-Al eliminar un enlace externo, todos los usuarios **pierden el** acceso a los datos. Incluso los sitios web en los que se ha incrustado una vista a través de un enlace externo ya no pueden mostrar los datos.
+Al eliminar un enlace externo, todos los usuarios **pierden el acceso** a los datos. Incluso los sitios web en los que se ha incrustado una vista a través de un enlace externo ya no pueden mostrar los datos.

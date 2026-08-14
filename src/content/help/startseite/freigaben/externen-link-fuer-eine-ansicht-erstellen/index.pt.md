@@ -9,38 +9,38 @@ url: '/pt/ajuda/criar-link-externo-visualizacao'
 aliases:
     - '/pt/ajuda/externen-link-fuer-eine-ansicht-erstellen'
 seo:
-    title: 'Criar e compartilhar link externo para visualização SeaTable'
-    description: 'Descubra como compartilhar uma visualização SeaTable com usuários externos usando link de só leitura, senha e data limite. Passo a passo completo.'
+    title: 'Criar e partilhar link externo para vista SeaTable'
+    description: 'Descubra como partilhar uma vista SeaTable com utilizadores externos usando uma ligação de apenas leitura, palavra-passe e data limite. Passo a passo.'
 ---
 
 {{< required-version "Mais" "Empresa" >}}
 
 Para partilhar vistas de tabela com utilizadores que **não estão registados no SeaTable**, é possível criar uma ligação externa para uma vista.
 
-Em princípio, as ligações externas são **públicas** e, portanto, acessíveis sem necessidade de iniciar sessão. Fornecem **acesso apenas para leitura aos** dados na visão partilhada.
+Em princípio, as ligações externas são **públicas** e, portanto, acessíveis sem necessidade de iniciar sessão. Fornecem **acesso apenas de leitura** aos dados que se encontram na vista partilhada.
 
-Além disso, estão disponíveis várias opções com as quais se pode assegurar uma ligação externa:
+Além disso, estão disponíveis várias opções com as quais pode proteger uma ligação externa:
 
-- Tem a opção de definir uma **data de expiração automática para** uma ligação externa. Após o número de dias seleccionado, a ligação externa perde a sua validade.
-- Além disso, também pode definir qualquer **palavra-passe** para uma ligação externa. Isto deve ser introduzido correctamente por outro utilizador para ter acesso à vista.
+- Tem a possibilidade de definir uma **data de expiração automática** para uma ligação externa. Após o número de dias selecionado, a ligação externa perde a sua validade.
+- Além disso, pode também definir uma **palavra-passe** à sua escolha para uma ligação externa. Esta deve ser introduzida corretamente por outro utilizador para obter acesso à vista.
 
-Tudo o resto que deve saber sobre links externos pode ser encontrado no artigo [Creating an External Link for a Base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
+Tudo o resto que deve saber sobre ligações externas pode ser encontrado no artigo [Criar uma ligação externa para uma base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
 
 ## Criar uma ligação externa para uma vista
 
-![Criar uma ligação externa para uma vista em SeaTable](images/create-an-external-link-for-a-view-2.gif)
+![Criar uma ligação externa para uma vista no SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
-1. Abra a **vista** de uma tabela que deseja partilhar.
-2. Clique em **Share View** e depois em **External Link**.
-3. Se necessário, defina a sua própria **palavra-passe** ou uma **palavra-passe** gerada aleatoriamente e/ou uma **data de validade para** a ligação.
-4. Seleccione se pretende gerar um **URL aleatório** para a ligação ou defina você mesmo um **URL desejado**.
-5. Confirmar com **Create**.
-6. A ligação criada é então exibida abaixo e pode simplesmente ser **copiada**.
+1. Abra uma **vista** que pretende partilhar.
+2. Nas opções de vista, clique em **Partilhar vista** e depois em **Ligação externa**.
+3. Se necessário, defina para a ligação uma **palavra-passe** própria ou gerada aleatoriamente, uma **data de expiração** e uma **descrição**.
+4. Selecione se pretende gerar um **URL aleatório** ou definir um **URL próprio**.
+5. Confirme com **Criar**.
+6. A ligação criada é apresentada em seguida em baixo e pode ser simplesmente **copiada**.
 
-## Embutir num sítio web
+## Incorporação num site
 
-Também pode utilizar ligações externas para incorporar **vistas** numa página web. Para o fazer, basta inserir o **link** no editor do seu sistema de gestão de conteúdos.
+Também pode utilizar ligações externas para **incorporar vistas numa página web**. Para tal, basta inserir a ligação no editor do seu sistema de gestão de conteúdos.
 
-Por exemplo, é este o aspecto da integração de uma tabela com comunicados de imprensa na nossa página de imprensa:
+Por exemplo, este poderia ser o aspeto da integração de uma tabela com comunicados de imprensa num site:
 
-![Incorporação de vistas externas num website.](images/image-1666823263581.png)
+![Incorporação de vistas externas num site.](images/image-1666823263581.png)

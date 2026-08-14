@@ -29,7 +29,7 @@ Si vous accordez à un autre utilisateur des droits de modification sur une vue 
 4. Dans le champ **Autorisation**, déterminez si le membre de votre équipe peut uniquement lire la vue ou s'il peut également la modifier.
 5. **Nommez** le partage et confirmez-le en cliquant sur **Envoyer**.
 
-Si vous avez réussi à partager la vue avec un autre utilisateur, elle apparaît sur sa page d'accueil sous l'onglet **Partagé avec moi**:
+Si vous avez réussi à partager la vue avec un autre utilisateur, elle apparaît sur sa page d'accueil sous l'onglet **Partagé avec moi** :
 
 ![Vues partagées sur la page d'accueil](images/Screenshot-from-2022-11-10-17-01-26.png)
 
@@ -37,19 +37,19 @@ Lorsqu'un utilisateur ouvre une vue partagée avec lui, celle-ci peut par exempl
 
 ![Apparence d'une vue partagée](images/Screenshot-from-2022-11-10-17-15-12.png)
 
-## Résoudre une vue partagée
+## Supprimer le partage d'une vue
 
 Si vous ne souhaitez plus partager une vue de tableau avec un autre utilisateur, vous pouvez facilement supprimer le partage :
 
-![Résoudre une vue partagée.](images/resolve-a-split-view.gif)
+![Supprimer le partage d'une vue.](images/resolve-a-split-view.gif)
 
-1. Ouvrir la **vue** d'un tableau que vous avez partagé avec un autre utilisateur.
+1. Ouvrez la **vue** d'un tableau que vous avez partagé avec un autre utilisateur.
 2. Cliquez sur **Partager la vue**.
-3. Sous **Partage avec les utilisateurs**, sélectionnez le partage souhaité et appuyez sur **Supprimer**.
+3. Sous **Partager avec les utilisateurs**, sélectionnez le partage souhaité et appuyez sur **Supprimer**.
 
 ## Différence entre le partage d'une base entière et le partage d'une vue
 
-Dans une base, il y a en tout deux **icônes de partage** avec lesquelles vous pouvez partager soit une base entière, soit une vue de tableau individuelle. En fonction de leur fonction, ces icônes se trouvent soit dans la zone **Options de la base** (ici en couleur), soit dans la zone **Options de la vue** (ici en blanc) :
+Dans une base, il y a en tout deux **icônes de partage** avec lesquelles vous pouvez partager soit une base entière, soit une vue de tableau individuelle. Selon leur fonction, ces icônes se trouvent soit dans la zone **Options de la base** (ici en couleur), soit dans la zone **Options de la vue** (ici en blanc) :
 
 ![Icônes de partage dans une base](images/share-icons-new-1.png)
 

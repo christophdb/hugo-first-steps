@@ -17,7 +17,7 @@ seo:
 
 Pour partager des vues de tableaux avec des utilisateurs qui ne sont **pas enregistrés sur SeaTable**, il est possible de créer un lien externe pour une vue.
 
-En principe, les liens externes sont **publics** et donc accessibles sans login. Ils offrent alors un **accès en lecture** seule aux données qui se trouvent dans la vue partagée.
+En principe, les liens externes sont **publics** et donc accessibles sans login. Ils offrent alors un **accès en lecture seule** aux données qui se trouvent dans la vue partagée.
 
 Vous disposez en outre de différentes options pour sécuriser un lien externe :
 
@@ -30,17 +30,17 @@ Pour tout ce que vous devez savoir sur les liens externes, consultez l'article [
 
 ![Créer un lien externe pour une vue dans SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
-1. Ouvrez la **vue** d'un tableau que vous souhaitez partager.
-2. Cliquez sur **Partager la vue**, puis sur **Lien externe**.
-3. Si nécessaire, définissez un **mot de passe** personnel ou généré de manière aléatoire et/ou une **date d'expiration** pour le lien.
-4. Choisissez si vous souhaitez générer une **URL aléatoire** pour le lien ou définir vous-même une **URL souhaitée**.
+1. Ouvrez une **vue** que vous souhaitez partager.
+2. Dans les options de la vue, cliquez sur **Partager la vue**, puis sur **Lien externe**.
+3. Si nécessaire, définissez pour le lien un **mot de passe** personnel ou généré de manière aléatoire, une **date d'expiration** et une **description**.
+4. Choisissez si vous souhaitez générer une **URL aléatoire** ou définir vous-même une **URL personnalisée**.
 5. Confirmez en cliquant sur **Créer**.
 6. Le lien créé s'affiche ensuite en bas et peut être facilement **copié**.
 
 ## Intégration dans un site web
 
-Vous pouvez également utiliser des liens externes pour intégrer **des vues** dans une page web. Pour cela, il suffit d'insérer le **lien** dans l'éditeur de votre système de gestion de contenu.
+Vous pouvez également utiliser des liens externes pour **intégrer des vues dans une page web**. Pour cela, il suffit d'insérer le lien dans l'éditeur de votre système de gestion de contenu.
 
-Voici par exemple à quoi ressemble l'intégration d'un tableau de communiqués de presse sur notre page de presse :
+Voici par exemple à quoi pourrait ressembler l'intégration d'un tableau de communiqués de presse sur un site web :
 
 ![Intégration de vues externes dans un site web.](images/image-1666823263581.png)

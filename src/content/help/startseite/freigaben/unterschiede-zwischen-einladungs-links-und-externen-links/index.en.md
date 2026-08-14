@@ -17,7 +17,7 @@ Both sharing types allow you to collaborate with **external people** **without a
 
 ## External links
 
-You can send an [external link to]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) other people **without** requiring them to have a **SeaTable account**. Thus, an external link for a base is a **public link** that grants **read access** to a base. You can also use an external link to embed a base in a web page.
+You can send an [external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) to other people **without** requiring them to have a **SeaTable account**. Thus, an external link for a base is a **public link** that grants **read access** to a base. You can also use an external link to embed a base in a web page.
 
 ![Difference between External-Link and Invitation-Link_here the External-Link](images/unterschied-zwischen-einladungs-link-und-externem-link.png)
 
