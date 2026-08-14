@@ -21,7 +21,7 @@ seo:
 
 Sus empleados ya ven la oficina y el edificio de la empresa cada semana. ¿Qué le parece un lugar que sus colegas aún no conozcan? Una fiesta de Navidad fuera de la empresa siempre aporta un toque especial y ofrece la oportunidad perfecta para dejar atrás la rutina diaria del trabajo. Dependiendo del presupuesto de que disponga para su fiesta, existen numerosas posibilidades, pero debe planificarlas con suficiente antelación.
 
-![Ideas para una fiesta de Navidad fuera de la empresa](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Ideas para una fiesta de Navidad fuera de la empresa](weihnachtsfeier_ideen_außen.png)
 
 ### Thriller navideño
 
@@ -77,7 +77,7 @@ Una vez finalizadas todas las disciplinas y elegidos los ganadores, el evento de
 
 Si no desea celebrar su fiesta de Navidad en un lugar externo, sino que prefiere utilizar cómodamente las instalaciones de su empresa, esto no significa en absoluto que su fiesta no pueda ser también extraordinaria. También hay muchas ideas para hacer de su fiesta de Navidad in situ un evento corporativo especial.
 
-![Ideas para la fiesta de Navidad en la empresa](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Ideas para la fiesta de Navidad en la empresa](weihnachtsfeier_ideen_innen.png)
 
 ### Fiesta del lema
 

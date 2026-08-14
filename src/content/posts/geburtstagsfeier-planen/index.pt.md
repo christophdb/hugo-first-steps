@@ -22,7 +22,7 @@ Você vai comemorar seu aniversário em breve ou quer organizar uma festa de ani
 
 Os primeiros passos para planejar uma festa de aniversário devem ser dados cerca de **oito semanas** antes do evento. O objetivo inicial é definir os pontos principais.
 
-![Passo 1: Os parâmetros básicos da sua festa de aniversário](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Passo 1: Os parâmetros básicos da sua festa de aniversário](geburtstagsparty_schritt_1.png)
 
 ## Planejando a data da festa de aniversário
 
@@ -74,7 +74,7 @@ Convites personalizados são uma ótima oportunidade para informar não só a da
 
 Depois de definir os pontos principais, é hora de cuidar dos detalhes da sua festa. O planejamento antecipado é especialmente importante nesta etapa. Por isso, pelo menos um mês antes da festa, organize pontos básicos como alimentação e música.
 
-![Passo 2: Os detalhes da sua festa de aniversário](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Passo 2: Os detalhes da sua festa de aniversário](geburtstagsparty_schritt_2.png)
 
 ## Planejando a alimentação da festa de aniversário
 
@@ -137,7 +137,7 @@ Além da decoração, para festas fora de restaurantes, pense também na estrutu
 
 A festa está chegando e todos os detalhes já estão definidos? Então, cerca de uma semana antes, é hora dos preparativos finais para o grande dia.
 
-![Passo 3: Os últimos preparativos para sua festa de aniversário](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Passo 3: Os últimos preparativos para sua festa de aniversário](geburtstagsparty_schritt_3.png)
 
 ### Preparativos finais e compras
 

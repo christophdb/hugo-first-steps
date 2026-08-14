@@ -19,7 +19,7 @@ Trinken Sie mit Ihren Kollegen jedes Jahr Glühwein auf dem Weihnachtsmarkt oder
 
 Das Büro und das Firmengebäude bekommen Ihre Mitarbeiter schon jede Woche zu Gesicht. Wie wäre es also mit einem Ort, den Ihre Kollegen noch nicht kennen? Eine Weihnachtsfeier außerhalb der Firma bringt immer ein besonderes Flair mit sich und bietet die perfekte Gelegenheit, den Arbeitsalltag hinter sich zu lassen. Abhängig vom Budget, das Ihnen für Ihre Feier zur Verfügung steht, ergeben sich dabei zahlreiche Möglichkeiten, die Sie jedoch weit genug im Voraus planen sollten.
 
-![Ideen für eine Weihnachtsfeier außerhalb der Firmenräume](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Ideen für eine Weihnachtsfeier außerhalb der Firmenräume](weihnachtsfeier_ideen_außen.png)
 
 ### Weihnachtskrimi
 
@@ -75,7 +75,7 @@ Wie wäre es mit einem Märchenschloss oder einer mittelalterlichen Burg für Ih
 
 Wenn Sie Ihre Weihnachtsfeier nicht in einer externen Location veranstalten, sondern lieber bequem auf Ihre Firmenräume zurückgreifen möchten, bedeutet dies keineswegs, dass Ihre Feier nicht auch außergewöhnlich sein kann. Dafür gibt es ebenfalls genügend Ideen, die Ihre Weihnachtsfeier vor Ort zu einem besonderen Firmenevent machen.
 
-![Ideen für die Weihnachtsfeier in den Firmenräumen](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Ideen für die Weihnachtsfeier in den Firmenräumen](weihnachtsfeier_ideen_innen.png)
 
 ### Mottoparty
 

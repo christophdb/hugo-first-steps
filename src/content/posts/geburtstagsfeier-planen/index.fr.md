@@ -22,7 +22,7 @@ Vous allez bientôt fêter votre anniversaire ou vous souhaitez organiser une f�
 
 Il est préférable de planifier les premières étapes d'une fête d'anniversaire environ **huit semaines** à l'avance. Il s'agit d'abord de définir les points essentiels.
 
-![Étape 1 : Le cadre de votre fête d'anniversaire](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Étape 1 : Le cadre de votre fête d'anniversaire](geburtstagsparty_schritt_1.png)
 
 ## Planifier une date pour une fête d'anniversaire
 
@@ -74,7 +74,7 @@ Les cartes d'invitation bien conçues sont un excellent moyen d'annoncer à l'av
 
 Une fois que les grandes lignes de votre fête d'anniversaire ont été définies, il est temps de s'occuper des détails concrets de votre fête. Une planification en temps utile est particulièrement payante à cette étape. C'est pourquoi, au plus tard un mois avant votre fête, vous devriez vous occuper des choses de base comme la nourriture et la musique.
 
-![Étape 2 : Les détails de votre fête d'anniversaire](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Étape 2 : Les détails de votre fête d'anniversaire](geburtstagsparty_schritt_2.png)
 
 ## Planifier les repas pour une fête d'anniversaire
 
@@ -137,7 +137,7 @@ Outre la décoration, vous devez également penser à un équipement suffisant p
 
 Votre fête d'anniversaire approche à grands pas et vous avez déjà réglé tous les détails ? Il est alors grand temps, environ une semaine avant votre fête, de commencer les préparatifs finaux de votre journée inoubliable.
 
-![Étape 3 : Les derniers préparatifs de votre fête d'anniversaire](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Étape 3 : Les derniers préparatifs de votre fête d'anniversaire](geburtstagsparty_schritt_3.png)
 
 ### Préparatifs finaux et courses
 

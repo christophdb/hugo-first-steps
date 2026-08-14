@@ -21,7 +21,7 @@ Do you drink mulled wine with your colleagues at the Christmas market every year
 
 Your employees already see the office and the company building every week. So how about somewhere your colleagues don't know yet? A Christmas party outside the company always brings a special flair and offers the perfect opportunity to leave the daily work routine behind. Depending on the budget you have available for your party, there are plenty of options, but you should plan far enough in advance.
 
-![Ideas for a Christmas party outside the company premises](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Ideas for a Christmas party outside the company premises](weihnachtsfeier_ideen_außen.png)
 
 ### Christmas Thriller
 
@@ -77,7 +77,7 @@ How about a fairytale castle or a medieval castle for your Christmas party?
 
 If you don't want to hold your Christmas party in an external location, but prefer to comfortably use your company premises, this by no means means means that your party can't be extraordinary. There are also plenty of ideas for this, which will make your on-site Christmas party a special corporate event.
 
-![Ideas for Christmas party at the company premises](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Ideas for Christmas party at the company premises](weihnachtsfeier_ideen_innen.png)
 
 ### Theme party
 
