@@ -21,7 +21,7 @@ Do you drink mulled wine with your colleagues at the Christmas market every year
 
 Your employees already see the office and the company building every week. So how about somewhere your colleagues don't know yet? A Christmas party outside the company always brings a special flair and offers the perfect opportunity to leave the daily work routine behind. Depending on the budget you have available for your party, there are plenty of options, but you should plan far enough in advance.
 
-![Ideas for a Christmas party outside the company premises](weihnachtsfeier_ideen_außen.png)
+![Ideas for a Christmas party outside the company premises](weihnachtsfeier_ideen_aussen.png)
 
 ### Christmas Thriller
 

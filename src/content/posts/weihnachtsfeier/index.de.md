@@ -19,7 +19,7 @@ Trinken Sie mit Ihren Kollegen jedes Jahr Glühwein auf dem Weihnachtsmarkt oder
 
 Das Büro und das Firmengebäude bekommen Ihre Mitarbeiter schon jede Woche zu Gesicht. Wie wäre es also mit einem Ort, den Ihre Kollegen noch nicht kennen? Eine Weihnachtsfeier außerhalb der Firma bringt immer ein besonderes Flair mit sich und bietet die perfekte Gelegenheit, den Arbeitsalltag hinter sich zu lassen. Abhängig vom Budget, das Ihnen für Ihre Feier zur Verfügung steht, ergeben sich dabei zahlreiche Möglichkeiten, die Sie jedoch weit genug im Voraus planen sollten.
 
-![Ideen für eine Weihnachtsfeier außerhalb der Firmenräume](weihnachtsfeier_ideen_außen.png) 
+![Ideen für eine Weihnachtsfeier außerhalb der Firmenräume](weihnachtsfeier_ideen_aussen.png) 
 
 ### Weihnachtskrimi
 

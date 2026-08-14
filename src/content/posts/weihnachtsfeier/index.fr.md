@@ -21,7 +21,7 @@ Vous buvez chaque année du vin chaud sur le marché de Noël avec vos collègue
 
 Vos collaborateurs voient déjà le bureau et le bâtiment de l'entreprise chaque semaine. Que diriez-vous donc d'un endroit que vos collègues ne connaissent pas encore ? Une fête de Noël en dehors de l'entreprise apporte toujours une ambiance particulière et offre l'occasion idéale de laisser derrière soi le quotidien du travail. En fonction du budget dont vous disposez pour votre fête, de nombreuses possibilités s'offrent à vous, mais vous devez les planifier suffisamment à l'avance.
 
-![Idées pour une fête de Noël en dehors des locaux de l'entreprise](weihnachtsfeier_ideen_außen.png)
+![Idées pour une fête de Noël en dehors des locaux de l'entreprise](weihnachtsfeier_ideen_aussen.png)
 
 ### Polar de Noël
 

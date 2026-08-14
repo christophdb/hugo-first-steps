@@ -21,7 +21,7 @@ Bebe vinho quente com os seus colegas todos os anos no mercado de Natal ou vai c
 
 Os seus empregados já vêem o escritório e o edifício da empresa todas as semanas. Então, que tal um sítio que os seus colegas ainda não conheçam? Uma festa de Natal fora da empresa dá sempre um toque especial e oferece a oportunidade perfeita para deixar para trás a rotina diária de trabalho. Dependendo do orçamento que tem disponível para a sua festa, existem inúmeras possibilidades, mas deve planear com bastante antecedência.
 
-![Ideias para uma festa de Natal fora das instalações da empresa](weihnachtsfeier_ideen_außen.png)
+![Ideias para uma festa de Natal fora das instalações da empresa](weihnachtsfeier_ideen_aussen.png)
 
 ### Thriller de Natal
 
