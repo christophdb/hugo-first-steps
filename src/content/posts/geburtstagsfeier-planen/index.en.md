@@ -22,7 +22,7 @@ Are you celebrating your birthday soon or want to plan a birthday party for your
 
 The first steps for a birthday party are best planned about **eight weeks** in advance. The first thing to do is to set the basic cornerstones.
 
-![Step 1: The framework of your birthday party](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Step 1: The framework of your birthday party](geburtstagsparty_schritt_1.png)
 
 ## Schedule a birthday party
 
@@ -74,7 +74,7 @@ Lovely invitation cards are a great way to announce in advance not only the date
 
 Once the key points of your birthday party have been clarified, it's time to take care of the concrete details of your party. Timely planning pays off especially in this step. Therefore, you should take care of basic things like catering and music at least one month before your party.
 
-![Step 2: The details of your birthday party](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Step 2: The details of your birthday party](geburtstagsparty_schritt_2.png)
 
 ## Plan catering for a birthday party
 
@@ -137,7 +137,7 @@ In addition to the decoration, you should also think about sufficient equipment 
 
 Your birthday party is getting closer and closer and you have already sorted out all the details? Then about a week before your party it is high time to start with the final preparations for your unforgettable day.
 
-![Step 3: The final preparations for your birthday party](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Step 3: The final preparations for your birthday party](geburtstagsparty_schritt_3.png)
 
 ### Final preparations and errands
 

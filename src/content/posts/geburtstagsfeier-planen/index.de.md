@@ -20,7 +20,7 @@ Sie feiern demnächst Ihren Geburtstag oder wollen für Ihre Liebsten eine Gebur
 
 Die ersten Schritte für eine Geburtstagsfeier planen Sie am besten etwa **acht Wochen** im Voraus. Dabei geht es zunächst darum, die grundlegenden Eckpunkte festzulegen.
 
-![Schritt 1: Die Rahmenbedingungen Ihrer Geburtstagsfeier](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Schritt 1: Die Rahmenbedingungen Ihrer Geburtstagsfeier](geburtstagsparty_schritt_1.png)
 
 ## Termin für eine Geburtstagsfeier planen
 
@@ -72,7 +72,7 @@ Liebevolle Einladungskarten bieten Ihnen eine tolle Möglichkeit, nicht nur den 
 
 Sobald die Eckpunkte Ihrer Geburtstagsfeier geklärt sind, ist es Zeit, sich um die konkreten Einzelheiten Ihrer Party zu kümmern. Eine rechtzeitige Planung zahlt sich in diesem Schritt besonders aus. Daher sollten Sie sich spätestens einen Monat vor Ihrer Party um grundlegende Dinge wie Verpflegung und Musik kümmern.
 
-![Schritt 2: Die Einzelheiten Ihrer Geburtstagsfeier](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Schritt 2: Die Einzelheiten Ihrer Geburtstagsfeier](geburtstagsparty_schritt_2.png)
 
 ## Verpflegung für eine Geburtstagsfeier planen
 
@@ -135,7 +135,7 @@ Neben der Dekoration sollten Sie bei einer Feier, die nicht in einer Gaststätte
 
 Ihre Geburtstagsfeier rückt immer näher und Sie haben bereits alle Details geklärt? Dann ist es etwa eine Woche vor Ihrer Party höchste Zeit, mit den finalen Vorbereitungen für Ihren unvergesslichen Tag zu beginnen.
 
-![Schritt 3: Die letzten Vorbereitungen für Ihre Geburtstagsfeier](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Schritt 3: Die letzten Vorbereitungen für Ihre Geburtstagsfeier](geburtstagsparty_schritt_3.png)
 
 ### Abschließende Vorbereitungen und Besorgungen
 

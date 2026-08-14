@@ -22,7 +22,7 @@ color: '#fe5d4c'
 
 Los primeros pasos para una fiesta de cumpleaños se planifican mejor con unas **ocho semanas** de antelación. Lo primero que hay que hacer es establecer los pilares básicos.
 
-![Paso 1: El marco de su fiesta de cumpleaños](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Paso 1: El marco de su fiesta de cumpleaños](geburtstagsparty_schritt_1.png)
 
 ## Planificar una fecha para una fiesta de cumpleaños
 
@@ -74,7 +74,7 @@ Unas bonitas tarjetas de invitación son una forma estupenda de anunciar por ade
 
 Una vez aclarados los puntos clave de su fiesta de cumpleaños, es hora de ocuparse de los detalles concretos de la misma. Una planificación a tiempo merece la pena sobre todo en este paso. Por lo tanto, debe ocuparse de cosas básicas como el catering y la música al menos un mes antes de la fiesta.
 
-![Paso 2: Los detalles de su fiesta de cumpleaños](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Paso 2: Los detalles de su fiesta de cumpleaños](geburtstagsparty_schritt_2.png)
 
 ## Planificar el catering de una fiesta de cumpleaños
 
@@ -137,7 +137,7 @@ Además de la decoración, también debe pensar en el equipamiento suficiente pa
 
 ¿Su fiesta de cumpleaños está cada vez más cerca y ya ha organizado todos los detalles? Entonces, aproximadamente una semana antes de la fiesta, ya es hora de empezar con los últimos preparativos para un día inolvidable.
 
-![Paso 3: Los últimos preparativos para su fiesta de cumpleaños](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Paso 3: Los últimos preparativos para su fiesta de cumpleaños](geburtstagsparty_schritt_3.png)
 
 ### Últimos preparativos y recados
 
