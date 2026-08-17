@@ -1,13 +1,15 @@
 ---
 title: 'Diario de gratitud'
-description: 'Con la plantilla del diario de gratitud y su aplicación integrada, podrá centrarse en los aspectos positivos de su vida. Esto le ayudará a sentirse más a gusto en su día a día y a vivir los momentos bonitos de forma más intensa y consciente.'
+description: 'Discover the power of a gratitude journal! Learn to notice and appreciate the positive things in life—for greater satisfaction in your daily life.'
 date: '2026-08-05'
-url: '/es/plantilla/plantilla-para-el-diario-de-la-gratitud'
+url: '/es/plantilla/diario-de-gratitud-digital'
+aliases:
+  - '/es/plantilla/plantilla-para-el-diario-de-la-gratitud'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Plantilla de diario de gratitud de SeaTable: para una mayor fortaleza mental en la vida cotidiana'
-    description: 'Con la plantilla del diario de gratitud y su aplicación integrada, podrá centrarse en los aspectos positivos de su vida. Esto le ayudará a sentirse más a gusto en su día a día y a vivir los momentos bonitos de forma más intensa y consciente.'
+    title: 'Plantilla de diario de gratitud de SeaTable: para una mayor fortaleza mental'
+    description: 'Discover the power of a gratitude journal! Learn to notice and appreciate the positive things in life—for greater satisfaction in your daily life.'
 
 type: pages
 sections:

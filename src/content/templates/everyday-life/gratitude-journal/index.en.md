@@ -1,13 +1,15 @@
 ---
 title: 'Gratitude Journal'
-description: 'With the gratitude journal template and its built-in app, you can focus on the positive aspects of your life. This will help you feel more at ease in your daily life and experience beautiful moments more intensely and mindfully.'
+description: 'Discover the power of a gratitude journal! Learn to notice and appreciate the positive things in life—for greater satisfaction in your daily life.'
 date: '2026-08-05'
-url: '/template/gratitude-journal-template'
+url: '/template/digital-gratitude-journal'
+aliases:
+  - '/template/gratitude-journal-template'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Gratitude Journal Template by SeaTable – For Greater Mental Strength in Everyday Life'
-    description: 'With the gratitude journal template and its built-in app, you can focus on the positive aspects of your life. This will help you feel more at ease in your daily life and experience beautiful moments more intensely and mindfully.'
+    title: 'Gratitude Journal Template by SeaTable – For Greater Mental'
+    description: 'Discover the power of a gratitude journal! Learn to notice and appreciate the positive things in life—for greater satisfaction in your daily life.'
 
 type: pages
 sections:

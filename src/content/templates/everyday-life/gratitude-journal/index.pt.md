@@ -1,13 +1,15 @@
 ---
 title: 'Diário de Gratidão'
-description: 'Com o modelo de diário de gratidão e a sua aplicação integrada, poderá concentrar-se nos aspetos positivos da sua vida. Isto irá ajudá-lo a sentir-se mais à vontade no seu dia-a-dia e a viver momentos bonitos de forma mais intensa e consciente.'
+description: 'Descubra o poder de um diário de gratidão! Aprenda a identificar e a valorizar as coisas positivas da vida — para obter uma maior satisfação no seu dia-a-dia.'
 date: '2026-08-05'
-url: '/pt/modelo/modelo-de-diario-de-gratidao'
+url: '/pt/modelo/diario-de-gratidao-digital'
+aliases:
+  - '/pt/modelo/modelo-de-diario-de-gratidao'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Modelo de Diário de Gratidão da SeaTable – Para uma maior resiliência mental no dia-a-dia'
-    description: 'Com o modelo de diário de gratidão e a sua aplicação integrada, poderá concentrar-se nos aspetos positivos da sua vida. Isto irá ajudá-lo a sentir-se mais à vontade no seu dia-a-dia e a viver momentos bonitos de forma mais intensa e consciente.'
+    title: 'Modelo de Diário de Gratidão da SeaTable – Para uma maior resiliência mental'
+    description: 'Descubra o poder de um diário de gratidão! Aprenda a identificar e a valorizar as coisas positivas da vida — para obter uma maior satisfação no seu dia-a-dia.'
 
 type: pages
 sections:
