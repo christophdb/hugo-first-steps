@@ -1,151 +1,153 @@
 ---
-title: 'Wunschzettel'
-description: ''
+title: 'Wish List'
+description: With SeaTable's free wish list template, you can collect and manage gift ideas, mark items as reserved or purchased, and share your wish list online with family and friends.
 date: '2026-08-05'
-url: '/template/wunschzettel-vorlage'
+url: '/template/wish-list-template'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
-draft: true     
+    title: 'Digital Wish List Template by SeaTable – Create and Share Your Wish List Online'
+    description: With SeaTable's free wish list template, you can collect and manage gift ideas, mark items as reserved or purchased, and share your wish list online with family and friends.
 
 type: pages
 sections:
      - name: hero-5
-       weight: "Digitale Wunschzettel Vorlage für Familien und Freunde"
-       text: Geschenkideen entstehen spontan im Alltag und landen dann irgendwo auf Zetteln, in Chats oder im Kopf. Und wenn Weihnachten, Geburtstage oder Hochzeiten näher rücken, fehlt der Überblick. Dazu kommen unkoordinierte Absprachen, doppelte Geschenke und verpasste Wünsche. Mit unserer kostenlosen Wunschzettel Vorlage von SeaTable bündeln Sie alle Geschenkideen und Geschenkabsprachen in einem übersichtlichen System. Sie können eine Wunschliste erstellen, Ihren digitalen Wunschzettel als App nutzen und Wunschzettel online mit Familie und Freunden teilen, sodass jeder genau weiß, was zu wem und zu welchem Anlass passt. Mit der Wunschzettel-Vorlage von SeaTable bündeln Sie alles in einem Tool undsorgen für strahlende Augen.
+       weight: 1 
+       title: "Digital Wish List Template for Families and Friends"
+       text: Gift ideas pop into your head spontaneously throughout the day and then end up scattered on scraps of paper, in chats, or just in your head. And as Christmas, birthdays, or weddings approach, it’s hard to keep track of everything. The result is uncoordinated plans, duplicate gifts, and forgotten wishes. With our **free wish list template** from SeaTable, you can **consolidate all your gift ideas into one organized system**. You can create a wish list, use your digital wish list as an app, and share it online with family and friends. That way, everyone knows exactly what’s right for whom and for what occasion—and you can look forward to seeing their eyes light up.  
        classes:
            - bg-white
-       template: 6c509bb762414e97bea1
+       template: 5dc8ddb3a06541548dc8
        buttons:
-           - label: Jetzt kostenlose Wunschzettel-Vorlage nutzen
+           - label: Use the free wish list template now
              link_to_template: true
              style: primary
 
      - name: "content-4"
        weight: 2
-       title: 'Mit der Wunschzettel Vorlage von SeaTable behalten Sie jede Geschenkidee im Blick'
-       subtitle: Die Vorteile Ihres digitalen Wunschzettels
+       title: With SeaTable's wish list template, you can keep track of every gift idea
+       subtitle: The benefits of your digital wish list
        text:
        items:
          - icon: 'edit'
-           headline: 'Wünsche clever strukturieren' 
-           text: 'Erfassen Sie Wünsche und Geschenkideen strukturiert und mit transparenter Priorisierung. Sie können für jede Person eine eigene Wunschliste erstellen und Kategorien wie Geburtstag, Weihnachten oder Hochzeit definieren.'
+           headline: 'Organize Your Wish List' 
+           text: 'Keep track of your wishes and gift ideas in an organized way with clear prioritization. You can create a separate wish list for each person and define categories such as birthday, Christmas, or wedding.'
          - icon: 'pencil'
-           headline: 'Mit Links, Bildern und Details'
-           text: 'Ergänzen Sie jeden Eintrag um Web-Links, Preise und Fotos. So vermeiden Sie Missverständnisse und können Wunschzettel online verwalten, die nicht nur aus Stichworten bestehen, sondern aus klaren, klickbaren Geschenkideen.'
+           headline: 'Links, Pictures, and Details'
+           text: 'Add links, prices, and photos to each entry. This helps you avoid misunderstandings and manage online wish lists that consist not just of keywords, but of clear gift ideas.'
          - icon: 'table'
-           headline: 'Mit Freunden und Familie nutzen'
-           text: 'Erstellen Sie separate Wunschlisten für verschiedene Personen und Anlässe und teilen Sie diese ganz einfach mit Familie und Freunden. So können sich Eltern, Großeltern und Gäste bequem abstimmen und Sie vermeiden doppelte Geschenke.'
+           headline: 'Use with Friends and Family'
+           text: Create separate wish lists for different people and occasions, and share them with friends and family. This way, everyone can easily coordinate, and you'll avoid duplicate gifts.
          - icon: 'robot'
-           headline: 'KI-gestützte Automatisierungen'
-           text: 'Nutzen Sie die integrierten KI-unterstützten Automatisierungen für schlanke Workflows und smarte Datenverarbeitung. So erstellen Sie z. B. automatisierte kurze Notizen und reduzieren manuellen Aufwand.'
+           headline: 'AI-Powered Automation'
+           text: 'Take advantage of the built-in AI-powered automation features to streamline workflows and optimize data processing. For example, you can create automated short notes and reduce manual effort.'
          - icon: 'expand'
-           headline: 'Mobil jederzeit verfügbar'
-           text: 'Greifen Sie jederzeit und von überall per Smartphone auf Ihre digitale Wunschliste zu, um spontane Ideen direkt einzutragen. So bleibt Ihr digitaler Wunschzettel immer aktuell und kein Wunsch geht verloren.'
+           headline: 'Mobile Access Anytime'
+           text: 'Access your digital wish list anytime, anywhere via your smartphone to add spontaneous ideas right away. This way, your digital wish list is always up to date, and no wish gets lost.'
          - icon: 'eye'
-           headline: 'Eine Datenbank, mehrere Apps'
-           text: 'Speichern Sie alle konkreten Wünsche und Ideen in einer strukturierten Datenbank und erstellen Sie ohne Programmierkenntnisse separate Apps für verschiedene Anlässe oder Personenkreise – ganz einfach per drag-and-drop.'
+           headline: 'One Database, Multiple Apps'
+           text: 'Save all your specific requests and ideas in a structured database and create separate apps for different occasions or groups of people—no programming knowledge required.'
 
      - name: "customer-1"
        weight: 4
-       title: "Führende Unternehmen weltweit vertrauen auf SeaTable"
-       subtitle: "Wer nutzt SeaTable?"
+       title: "Leading companies worldwide trust SeaTable"
+       subtitle: "Who uses SeaTable?"
        marquee_rows: 2
        items: 
-       - number: "100.000+"
-         text: Downloads im ersten Jahr von Docker Hub
-       - number: "1.500+"
-         text: "Tägliche Nutzer auf SeaTable Cloud"
+       - number: "100,000+"
+         text: Downloads in the first year on Docker Hub
+       - number: "1,500+"
+         text: "Daily users on SeaTable Cloud"
        - number: "4.6"
-         text: "Bewertung auf Capterra"
+         text: "Rating on Capterra"
        buttons:
          - link: "categories/customer-story"
-           label: "SeaTable im Einsatz - Erfolgsgeschichten"
-           id: de-homepage-customer-1      
+           label: "SeaTable in action – success stories"
+           id: en-homepage-customer-1      
 
      - name: "content-12"
        weight: 5
        classes:
          - curved
          - [bg-gray-200, bg-seatable-blue]
-       title: 'Geschenkideen sammeln und Wunschlisten erstellen leicht gemacht'
-       subtitle: 'Wünsche mit SeaTable organisieren'
-       description: 'Mit der [KI No-Code Lösung]({{< relref "/" >}}) von SeaTable verwalten Sie Ihre Wünsche zentral und teilen sie bei Bedarf mit Familie und Freunden. Führen Sie Ihre [digitale Wunschliste]({{< relref "posts/wunschzettel" >}}) nicht in einer starren App, sondern in einer flexibel anpassbaren Datenbank, mit verschiedenen Listen und Apps für verschiedene Anlässe. So bleibt jede Wunschliste übersichtlich, egal ob Sie sie nur für sich selbst oder für die gesamte Familie erstellen möchten.'
+       title: 'Collect gift ideas and create wish lists'
+       subtitle: 'Organize your wishes with SeaTable'
+       description: With SeaTable's [AI no-code solution]({{< relref "/" >}}), you can manage your wishes in one place and share them with family and friends as needed. Keep your [digital wish list]({{< relref "posts/wunschzettel" >}}) in a flexible, customizable database rather than a rigid app. This way, every wish list stays organized, whether you’re creating it just for yourself or for the whole family.
        items:
-       - text: '**Eigene Datenbank statt Papierwunschzettel**: Erfassen Sie jede Geschenkidee direkt in Ihrer Wunschzettel Vorlage und verknüpfen Sie Ideen, Preise, Links und Personen digital.'
-       - text: '**Immer griffbereit**:Sie können Ihren digitalen Wunschzettel jederzeit und von überall aufrufen, um spontan Ideen zu ergänzen, Prioritäten zu ändern oder neue Anlässe hinzuzufügen. So entsteht über das ganze Jahr eine Geschenkideensammlung, anstatt nur zu Weihnachten.'
-       - text: '**Kein Vorwissen nötig**: SeaTable bietet eine intuitive Oberfläche und lässt sichohne Programmierkenntnisse an Ihre Vorstellungen an einen digitalen Wunschzettel anpassen.'
-       - text: '**Für Weihnachten, Geburtstage und Hochzeitstisch**: Dokumentieren Sie Weihnachtswunschzettel, Geburtstagswünsche, Babyparty-Geschenke oder Ihren Hochzeitstisch in demselben System. Mit unserer Wunschzettel-Vorlage können Sie unterschiedliche Anlässe filtern, kombinieren oder getrennt halten und so für jede Situation genau die passende Wunschliste erstellen'
-       - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
+       - text: '**Your Own Database Instead of a Paper Wish List**: Enter every gift idea directly into your wish list template and digitally link ideas, prices, links, and people.'
+       - text: '**Always at your fingertips**: You can access your digital wish list at any time to spontaneously add ideas or edit entries. This way, your collection of gift ideas grows throughout the year.'
+       - text: '**No prior knowledge required**: SeaTable offers an intuitive interface and can be customized to your needs without any programming knowledge.'
+       - text: '**Create wish lists for any occasion**: Manage Christmas wish lists, birthday wishes, baby shower gifts, or wedding registries all in the same system.'
+       - text: '**Data protection compliant**: With SeaTable, your data is hosted on servers operated by the Swiss company Exoscale in Frankfurt in compliance with the GDPR.'
        image_position: [left]
-       image: ''
-       image_alt: 
+       image: '/images/template_page_wunschzettel_01.png'
+       image_alt: 'Wish List Template with Various Lists'
 
      - name: "content-25"
        weight: 10
-       title: 'Ihr digitaler Wunschzettel mit zahlreichen Funktionen'
-       subtitle: "So einfach funktioniert's"
+       title: 'Your Digital Wish List with Numerous Features'
+       subtitle: "Here's how easy it is"
        items:
-       - headline: Geschenkeübersicht mit allen Details erfassen
-         text: Im Mittelpunkt der Wunschzettel Vorlage steht die Tabelle „Gifts“, in der Sie alle Geschenkideen sammeln. Nutzen Sie ein intuitives Formular, um für jeden Wunsch einen sprechenden Namen, Kategorie, Preis, eine Produkt-URL und für wen das Geschenk gedacht ist einzutragen. Eine Checkbox markiert, ob ein Geschenk bereits gekauft wurde. So wird aus einer einfachen Liste ein strukturierter digitaler Wunschzettel mit klaren Status und Verantwortlichkeiten.
-         image: 
-         image_alt: 
-       - headline: 'Personen- und Budgetverwaltung im Hintergrund'
-         text: 'In der zweiten Tabelle „People“ hinterlegen Sie alle Personen, für die Sie Geschenke kaufen oder deren Wünsche Sie teilen möchten. Da diese Tabelle mit „Gifts“ verknüpft ist, können Sie in Ihrer Wunschzettel Vorlage Empfänger und Schenkende auswählen und z. B. die Gesamtbeträge pro Person zusammenrechnen, um innerhalb eines Budgets zu bleiben. So wird Ihre Wunschliste nie zur Kostenfalle, sondern bleibt transparent und planbar.'
-         image: 
-         image_alt: 
-       - headline: 'Wunschzettel anlegen und teilen'
-         text: Mit der digitalen Wunschzettel Vorlage von SeaTable Sammeln und priorisieren Sie Ihre Wünsche übersichtlich und zentral an einem Ort. Sie können die gesamte Liste bequem mit Freunden und Familie teilen, erfüllte Wünsche abhaken und transparent in Echtzeit festhalten, welche Geschenkideen noch zur Auswahl stehen.    
-       - headline: 'Zugriff einfach managen'
-         text: 'Steuern Sie Lese- und Bearbeitungsrechte granular, damit nur bestimmte Personen Vorschläge machen, während andere z. B. ausschließlich Einträge sehen und reservieren können. Auf diese Weise lässt sich für jede Person eine individuelle Wunschliste erstellen, die Überraschungen wahrt und Planung erleichtert.'
-         image: 
-         image_alt: 
+       - headline: Create a gift overview with all the details
+         text: At the heart of the wish list template is the “Gifts” table, where you can collect all your gift ideas. Use an intuitive form to enter the category, price, a product URL, and the recipient for each wish. This turns a simple list into **a structured digital wish list** with clear statuses and responsibilities.
+         image: '/images/template_page_wunschzettel_02.png'
+         image_alt: 'Wish List Template with a Simple Input Form'
+       - headline: 'People and Budget Management'
+         text: 'In the second table, "People," you can enter all the people for whom you want to buy gifts or whose wishes you want to share. This table is linked to “Gifts,” so you can select recipients and gift-givers and, for example, add up the total amounts per person to stay within your budget.'
+         image: '/images/template_page_wunschzettel_03.png'
+         image_alt: 'Wish List Template with a Clear Overview of Wishes'
+       - headline: 'Create and Share a Wish List'
+         text: With SeaTable’s digital wish list template, you can collect and prioritize your **wishes clearly and centrally in one place**. You can easily share the entire list with friends and family, check off fulfilled wishes, and **track in real time** which gift ideas are still available.  
+         image: '/images/template_page_wunschzettel_04.png'
+         image_alt: 'Granular Permission Management in the Wish List Template'  
+       - headline: 'Easily Manage Access'
+         text: 'Control read and edit permissions in detail so that only certain people can make suggestions, while others can, for example, only view and reserve entries. This way, you can create a personalized wish list for each person, **which keeps the surprises intact and makes planning easier**.'
+         image: '/images/template_page_wunschzettel_05.png'
+         image_alt: 'Options for Sharing Your Wish List Template Externally'
        
      - name: "banner-3"
        weight: 12
-       title: 'Weil Ihre Wünsche mehr verdienen als lose Zettel und chaotische Chat-Gruppen'
+       title: 'Because your requests deserve more than loose pieces of paper and chaotic chat groups'
        buttons:
-         - label: Jetzt Wunschzettel-Vorlage testen
+         - label: Try the Wish List Template Now
            link: pages/registration
-           id: de-vorlage-wishlist-registration-2
+           id: en-vorlage-wishlist-registration-2
 
      - name: "content-6"
        weight: 15
        classes:
          - curved 
          - bg-gray-100
-       title: 'Ihre Wunschzettel-Vorlage als App'
+       title: 'Your Wish List Template as an App'
        subtitle:
        items:
-       - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit beliebig vielen [No-Code Apps]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihren digitalen Wunschzettel. Die Apps "Christmas Wishes", für die gemeinsame Nutzung in der Familie, und "Birthday Wishes", für die Wünsche einer einzelnen Person, sind bereits integriert. Damit greifen Sie ganz bequem auf die Geschenkeübersicht, Personenverwaltung, Formularseiten und Abfrageansichten zu und sehen alle relevanten Informationen in ansprechenden Dashboards. So können Sie Wunschzettel online verwalten, eine Wunschliste erstellen, Familienwünsche koordinieren und Ihre gesamte Geschenkplanung ähnlich komfortabel organisieren wie mit einem Familienplaner.'
-       image: 
-       image_alt: 
+       - text: 'SeaTable not only provides the database in the background, but also a user-friendly front end with as many [no-code apps]({{< relref "posts/20250318-app-erstellen" >}}) as you like. The "Christmas Wishes" app, for sharing within the family, and the "Birthday Wishes" app, for an individual’s wishes, are already integrated. This allows you to conveniently access the gift overview, contact management, form pages, and query views, and see all relevant information in attractive dashboards. This allows you to manage wish lists online, create a wish list, coordinate family wishes, and organize your entire gift-giving plan just as conveniently as you would with a family planner.'
+       image: '/images/template_page_wunschzettel_06.png'
+       image_alt: 'A separate wish list app for every occasion'
 
      - name: "content-9"
        weight: 16
-       title: 'Wunschzettel Vorlage mit integrierten KI-Funktionen'
-       subtitle: 'Ihr intelligenter Assistent beim Geschenkfinden'
-       description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten KI-unterstützten Automatisierungen. So erweitern Sie Ihre Wunschzettel Vorlage um smarte Hilfen für Geschenkideen, Abstimmung und Budgetplanung – DSGVO-konform mit eigenem KI-Server in Deutschland'
+       title: 'Wish List Template with Built-in AI Features'
+       subtitle: 'Your Smart Assistant for Finding Gifts'
+       description: 'With SeaTable, you benefit from powerful, built-in AI-powered automations. This allows you to enhance your wish list template with smart tools for gift ideas, voting, and budget planning—all GDPR-compliant with your own AI server in Germany.'
        items:
-       - headline: 'Geschenkbeschreibungen zusammenfassen'
-         text: Mit der Summarize-Funktion erstellen Sie automatisch kurze Zusammenfassungen, zum Beispiel aus längeren Wunschbeschreibungen oder Notizen aus Chat-Gesprächen. So wird aus frei formulierten Ideen eine klar lesbare Beschreibung im digitalen Wunschzettel, die Familie und Freunde schnell verstehen
+       - headline: 'Summarize Descriptions'
+         text: With the Summarize feature, you can automatically create short summaries—for example, from longer wish list descriptions or notes from chat conversations. This turns freely expressed ideas into a clear, easy-to-read description on your digital wish list.
          icon: circle-info
-       - headline: 'Wünsche automatisch strukturieren'
-         text: 'Lassen Sie Ihre Wünsche automatisch anhand von hinterlegten Kriterien klassifizieren, etwa nach Anlass, Zielgruppe  oder Preisbereich. Ihre Wunschzettel Vorlage sortiert Geschenkideen damit nachvollziehbar, ohne dass Sie jede Kategorie manuell pflegen müssen.'
+       - headline: 'Automatically Organize Your Wishes'
+         text: 'Categorize your wish list based on predefined criteria, such as occasion, target audience, or price range. Your wish list template will organize gift ideas in a clear and easy-to-follow way, without you having to manually maintain each category.'
          icon: table
-       - headline: 'Texte aus Bildern auslesen'
-         text: 'Fotografieren Sie handgeschriebene Wunschzettel, Prospektseiten oder Geschenkideen aus Katalogen und lassen Sie mit der OCR-Funktion den Text automatisch erkennen. Anschließend können Sie die Inhalte weiterverarbeiten und in Ihren digitalen Wunschzettel übernehmen.' 
+       - headline: 'Extract Text from Images'
+         text: 'Take photos of handwritten wish lists, brochure pages, or gift ideas from catalogs, and use the OCR feature to automatically recognize the text. You can then process the content further and add it to your digital wish list.' 
          icon: image  
-       - headline: 'Produktbeschreibungen auslesen'
-         text: 'Lesen Sie automatisch relevante Informationen aus Produkttexten aus, zum Beispiel Preisangaben, Händlernamen oder Artikelnummern. Die Extract-Funktion überträgt diese Daten direkt in Ihre Wunschzettel Vorlage, sodass Sie Links und Shop-Angaben nicht händisch zerlegen müssen.'
+       - headline: 'Extract Product Descriptions'
+         text: 'Automatically extract relevant information from product descriptions, such as prices, retailer names, or item numbers. The Extract feature transfers this data directly into your wish list template.'
          icon: layer-group
-       - headline: 'Eigene KI-Regeln für Wünsche definieren'
-         text: 'Mit der Custom-Funktion definieren Sie eigene Prompts, um Ihre Wunschzettel Vorlage flexibel zu erweitern, z. B., um aus verschiedenen den Spalten automatisch kurze Geschenkideen-Vorschläge zu erzeugen oder persönliche Geschenktexte für Karten vorzuschlagen.'
+       - headline: 'Define Your Own AI Rules'
+         text: 'With the Custom feature, you can define your own prompts to flexibly expand your wish list template—for example, to automatically generate short gift ideas from different columns or to suggest personalized gift messages for cards.'
          icon: wand-magic-sparkles
-       - headline: 'Qualitätscheck Ihrer Einträge'
-         text: 'Verwenden Sie KI-Automationen, um Ihre Einträge zu prüfen, z. B. ob die Beschreibung verständlich ist, ob ein Link oder Bild fehlt oder ob Preis- und Anlassangaben zu Budgetvorgaben passen.'
+       - headline: 'Quality Check for Your Entries'
+         text: 'Use AI-powered automations to review your entries—for example, to check whether the description is clear, whether a link or image is missing, or whether the price align with your budget guidelines. This ensures your gift budget remains easy to plan.'
          icon: arrow-right
 
      - name: "content-13"
@@ -153,31 +155,31 @@ sections:
        class:
          - curved
          - bg-gray-100
-       title: 'Die Vorteile der digitalen Wunschzettel Vorlage von SeaTable'
-       subtitle: 'Jederzeit verfügbar'
-       description: 'Von der ersten Geschenkidee bis zur abgestimmten Wunschliste für die ganze Familie: Die Wunschzettel Vorlage von SeaTable bietet alle Funktionen, die Sie für Ihre strukturierte Geschenkeplanung brauchen. Im Mittelpunkt stehen Transparenz über Ihre Wünsche, eine einfache Datenerfassung und die gemeinsame Nutzung mit anderen Personen.'
+       title: The Benefits of SeaTable's Wish List Template
+       subtitle: 'Create a Transparent Wish List'
+       description: 'From your first gift idea to a coordinated wish list for the whole family: SeaTable’s Wish List Template offers all the features you need for structured gift planning. It focuses on transparency regarding your wishes, a digital wish list with easy data entry, and the ability to share it with others.'
        box-position: [right!]
        items:
-       - headline: Transparenz
-         text: ehen Sie auf einen Blick, welche Wünsche für welchen Anlass existieren, wer bereits etwas reserviert oder gekauft hat und wie hoch die geplante Ausgabe pro Person ist. Mit Tabellen-, Galerie- und Abfrageansichten macht die Wunschzettel Vorlage Ihre Geschenkideen nachvollziehbar und unterstützt Sie dabei, Wunschzettel online so zu organisieren, dass alle Beteiligten den Überblick behalten.
-       - headline: Kollaboration
-         text: Vergessen Sie mündliche Absprachen, vollgeschriebene Chat-Verläufe und starre Listen-Apps. Die digitale Wunschzettel Vorlage lässt sich problemlos mit weiteren Personen teilen und gemeinsam nutzen. In SeaTable arbeiten Nutzer in Echtzeit zusammen, so dass jeder stets den aktuellen Stand sieht und sich darauf verlassen kann, dass die Liste verfügbarer Geschenke aktuell ist. .
+       - headline: Transparency
+         text: See at a glance which wishes are on the list for each occasion, who has already reserved or purchased something, and what the planned spending per person is. With table, gallery, and query views, you can create a digital wish list that’s easy for everyone involved to follow.
+       - headline: Collaboration
+         text: Forget verbal agreements, cluttered chat histories, and rigid list apps. The digital wish list template can be easily shared and used collaboratively with others. In SeaTable, users work together in real time, so everyone always sees the latest status. 
 
      - name: "faq"
        weight: 20
-       title: 'FAQs – Digitaler Wunschzettel mit SeaTable'
+       title: 'FAQs – Digital Wish List with SeaTable'
        subtitle:
        items:
-       - q: "Kann ich meinen Wunschzettel online mit Verwandten und Freunden teilen, ohne dass diese ein Konto benötigen?"   
-         a: 'Ja, Sie können aus Ihrer Wunschzettel Vorlage eine App erstellen und diese per Link teilen. Viele Ansichten – zum Beispiel Formularseiten oder einfache Geschenkübersichten – lassen sich so konfigurieren, dass Beschenkte oder Schenkende keinen SeaTable-Account benötigen, um Wünsche zu sehen oder Vorschläge zu machen'
-       - q: "Ist die Nutzung von SeaTable für Privatpersonen kostenlos?"
-         a: 'Ja, um die kostenlose Vorlage für einen digitalen Wunschzettel zu nutzen, reicht grundsätzlich ein dauerhaft kostenloser SeaTable Free-Account aus. Damit können Privatpersonen ihren digitalen Wunschzettel anlegen, anpassen und langfristig führen, ohne zusätzliche Abonnementkosten.'
-       - q: "Wie wird verhindert, dass Geschenke doppelt gekauft werden, wenn ich eine Wunschliste erstelle?"
-         a: 'In Ihrer Wunschzettel Vorlage können Angehörige Wünsche über dafür vorgesehene Spalten als „reserviert“ oder „gekauft“ markieren. Leserechte lassen sich so einstellen, dass nur Schenkende diese Informationen sehen, während der Empfänger weiterhin überrascht wird. So lassen sich Mehrfachkäufe vermeiden.'
-       - q: "Kann ich Fotos, Produktlinks und Preisangaben in die Wunschzettel-Vorlage einfügen?"
-         a: 'Ja, die Tabelle „Gifts“ ist genau darauf ausgelegt: Sie trägt Produktlinks, Preise und Bilder pro Geschenk ein. Mit der Galerie-Ansicht sehen Sie alle Wünsche visuell, während Tabellen-Ansichten Ihnen detaillierte Preis- und Budgetübersichten liefern.'
-       - q: "Kann ich unterschiedliche Wunschzettel online für verschiedene Anlässe getrennt verwalten?"
-         a: 'Ja, Sie können Anlässe wie Weihnachten, Geburtstag, Hochzeit oder Babyparty über eigene Felder abbilden und Ansichten entsprechend filtern. Alternativ legen Sie separate Apps auf Basis derselben Wunschzettel Vorlage an, zum Beispiel einen Weihnachtswunschzettel für die Familie und eine persönliche Wunschliste für Ihren Geburtstag.'
-       - q: "Eignet sich die Wunschzettel Vorlage auch für gemeinsame Listen, etwa Hochzeitstisch oder Babyparty?"
-         a: 'Durch die Personen- und Linksstruktur können Sie problemlos gemeinsame Wunschlisten erstellen, bei denen mehrere Personen auf denselben digitalen Wunschzettel zugreifen. Alle können Ideen ergänzen, Prioritäten setzen und Reservierungen verwalten – ideal für Hochzeitstisch, Babyparty oder andere Anlässe, bei denen viele Geschenke koordiniert werden müssen.'  
----    
+       - q: "Can I share my wish list online with family and friends without them needing an account?" 
+         a: 'Yes, you can create an app from your wish list template and share it via a link. Many views—such as form pages or simple gift overviews—can be configured so that recipients or gift-givers don’t need a SeaTable account to view the wish list online or make suggestions.'
+       - q: “Is SeaTable free for individuals?”
+         a: 'Yes, to use the free template for a digital wish list, all you generally need is a SeaTable Free account, which is free forever. This allows individuals to create, customize, and maintain their digital wish list long-term without any additional subscription costs.'
+       - q: "How can I prevent duplicate purchases when I create a wish list?"
+         a: 'In your wish list template, family members can mark items as “reserved” or “purchased” using the columns provided for this purpose. Read permissions can be set so that only gift-givers see this information, while the recipient remains in the dark. This helps prevent duplicate purchases.'
+       - q: "Can I add photos, product links, and prices to the wish list template?"
+         a: 'Yes, the “Gifts” table is designed specifically for this: it includes product links, prices, and images for each gift. The gallery view lets you see all wishes visually, while the table view provides detailed price and budget overviews.'
+       - q: "Can I manage different wish lists online separately for various occasions?"
+         a: 'Yes, you can map occasions such as Christmas, birthdays, weddings, or baby showers in your online wish list using custom fields and filter views accordingly. Alternatively, you can create separate apps based on the same wish list template—for example, a Christmas wish list for the family and a personal wish list for your birthday.'
+       - q: "Is the wish list template also suitable for shared lists, such as a wedding registry or baby shower?"
+         a: 'Thanks to the contact and link structure, you can easily create a shared wish list that allows multiple people to access the same online wish list. Everyone can add ideas, set priorities, and manage reservations—ideal for wedding registries, baby showers, or other occasions where many gifts need to be coordinated.'
+---     
