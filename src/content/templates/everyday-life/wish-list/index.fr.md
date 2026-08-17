@@ -1,13 +1,13 @@
 ---
 title: 'Liste de souhaits'
-description: 'Grâce au modèle gratuit de liste de souhaits proposé par SeaTable, vous pouvez rassembler et gérer vos idées de cadeaux, marquer les souhaits comme « réservés » ou « achetés » et partager votre liste de souhaits en ligne avec votre famille et vos amis.'
+description: 'Collectez, gérez et partagez des idées de cadeaux en ligne grâce au modèle gratuit de liste de souhaits SeaTable, qui inclut une fonction de réservation.'
 date: '2026-08-05'
 url: '/fr/modele/modele-de-liste-de-souhaits'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Modèle de liste de souhaits numérique de SeaTable – Créez et partagez votre liste de souhaits en ligne'
-    description : 'Grâce au modèle gratuit de liste de souhaits de SeaTable, vous pouvez rassembler et gérer vos idées de cadeaux, marquer les souhaits comme réservés ou achetés, et partager votre liste de souhaits en ligne avec votre famille et vos amis.'
+    title: 'Modèle de liste de souhaits numérique | Créer une liste de souhaits en ligne'
+    description : 'Collectez, gérez et partagez des idées de cadeaux en ligne grâce au modèle gratuit de liste de souhaits SeaTable, qui inclut une fonction de réservation.'
 
 type: pages
 sections:

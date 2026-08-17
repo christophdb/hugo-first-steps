@@ -1,13 +1,13 @@
 ---
 title: 'Wish List'
-description: With SeaTable's free wish list template, you can collect and manage gift ideas, mark items as reserved or purchased, and share your wish list online with family and friends.
+description: Collect, manage, and share gift ideas online with SeaTable's free wish list template, which includes a reservation feature.
 date: '2026-08-05'
 url: '/template/wish-list-template'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Digital Wish List Template by SeaTable – Create and Share Your Wish List Online'
-    description: With SeaTable's free wish list template, you can collect and manage gift ideas, mark items as reserved or purchased, and share your wish list online with family and friends.
+    title: 'Digital Wish List Template | Create a Wish List Online'
+    description: Collect, manage, and share gift ideas online with SeaTable's free wish list template, which includes a reservation feature.
 
 type: pages
 sections:

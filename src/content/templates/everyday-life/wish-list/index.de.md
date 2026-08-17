@@ -1,13 +1,13 @@
 ---
 title: 'Wunschzettel'
-description: 'Mit der kostenlosen Wunschzettel Vorlage von SeaTable sammeln und verwalten Sie Geschenkideen, markieren Wünsche als reserviert oder gekauft und teilen Wunschzettel online mit Familie und Freunden.'
+description: 'Sammeln, verwalten und teilen Sie Geschenkideen online mit der kostenlosen SeaTable-Wunschzettel-Vorlage – inkl. Reservierungsfunktion'
 date: '2026-08-05'
 url: '/de/vorlage/wunschzettel-vorlage'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Digitale Wunschzettel Vorlage von SeaTable – Wunschzettel online erstellen und teilen'
-    description: 'Mit der kostenlosen Wunschzettel Vorlage von SeaTable sammeln und verwalten Sie Geschenkideen, markieren Wünsche als reserviert oder gekauft und teilen Wunschzettel online mit Familie und Freunden.'
+    title: 'Digitale Wunschzettel Vorlage | Wunschzettel online erstellen'
+    description: 'Sammeln, verwalten und teilen Sie Geschenkideen online mit der kostenlosen SeaTable-Wunschzettel-Vorlage – inkl. Reservierungsfunktion.'
 
 type: pages
 sections:
