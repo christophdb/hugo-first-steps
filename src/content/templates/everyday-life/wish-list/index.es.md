@@ -1,13 +1,13 @@
 ---
 title: 'Lista de deseos'
-description: 'Con la plantilla gratuita de lista de deseos de SeaTable, podrá recopilar y gestionar ideas de regalos, marcar los deseos como «reservados» o «comprados» y compartir la lista de deseos en línea con familiares y amigos.'
+description: 'Recopile, gestione y comparta ideas de regalos en línea con la plantilla gratuita de SeaTable para listas de deseos, que incluye una función de reserva.'
 date: '2026-08-05'
 url: '/es/plantilla/plantilla-de-lista-de-deseos'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Plantilla de lista de deseos digital de SeaTable: «Cree y comparta su lista de deseos en línea'
-    description: "Con la plantilla gratuita de lista de deseos de SeaTable, podrá recopilar y gestionar ideas de regalos, marcar los deseos como reservados o comprados y compartir su lista de deseos en línea con familiares y amigos."
+    title: 'Plantilla de lista de deseos digital | Crear una lista de deseos en línea'
+    description: "Recopile, gestione y comparta ideas de regalos en línea con la plantilla gratuita de SeaTable para listas de deseos, que incluye una función de reserva."
 
 type: pages
 sections:

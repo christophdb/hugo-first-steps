@@ -1,13 +1,13 @@
 ---
 title: 'Lista de desejos'
-description: 'Com o modelo gratuito de lista de desejos da SeaTable, pode recolher e gerir ideias para presentes, assinalar os desejos como reservados ou comprados e partilhar a sua lista de desejos online com a família e os amigos.'
+description: 'Recolha, organize e partilhe ideias para presentes online com o modelo gratuito de lista de desejos da SeaTable – incluindo a função de reserva.'
 date: '2026-08-05'
 url: '/pt/modelo/modelo-de-lista-de-desejos'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Modelo de lista de desejos digital da SeaTable – Crie e partilhe a sua lista de desejos online'
-    description: 'Com o modelo gratuito de lista de desejos da SeaTable, pode recolher e gerir ideias para presentes, assinalar os desejos como reservados ou comprados e partilhar a sua lista de desejos online com a família e os amigos.'
+    title: 'Modelo de lista de desejos digital | Criar uma lista de desejos online'
+    description: 'Recolha, organize e partilhe ideias para presentes online com o modelo gratuito de lista de desejos da SeaTable – incluindo a função de reserva.'
 
 type: pages
 sections:
