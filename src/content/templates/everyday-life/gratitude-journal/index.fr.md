@@ -1,13 +1,15 @@
 ---
 title: 'Journal de gratitude'
-description: 'Grâce au modèle de journal de gratitude et à son application intégrée, vous pouvez vous concentrer sur les aspects positifs de votre vie. Cela vous aidera à vous sentir plus serein au quotidien et à vivre les beaux moments de manière plus intense et plus consciente.'
+description: '¡Descubra el poder de un diario de gratitud! Aprenda a fijarse en las cosas positivas de la vida y a valorarlas, para alcanzar una mayor satisfacción en su día a día.'
 date: '2026-08-05'
-url: '/fr/modele/modele-de-journal-de-gratitude'
+url: '/fr/modele/journal-de-gratitude-numerique'
+aliases:
+  - '/fr/modele/modele-de-journal-de-gratitude'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Modèle de journal de gratitude par SeaTable – Pour renforcer votre résilience mentale au quotidien'
-    description: 'Grâce au modèle de journal de gratitude et à son application intégrée, vous pouvez vous concentrer sur les aspects positifs de votre vie. Cela vous aidera à vous sentir plus serein au quotidien et à vivre les beaux moments de manière plus intense et plus consciente.'
+    title: 'Modèle de journal de gratitude par SeaTable – Pour renforcer votre résilience mentale'
+    description: '¡Descubra el poder de un diario de gratitud! Aprenda a fijarse en las cosas positivas de la vida y a valorarlas, para alcanzar una mayor satisfacción en su día a día.'
 
 type: pages
 sections:
