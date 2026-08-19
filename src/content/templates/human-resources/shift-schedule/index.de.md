@@ -132,8 +132,8 @@ sections:
       - headline: 'Anträge strukturiert lesen'
         text: 'Mit Extract lesen Sie Informationen aus Urlaubsanträgen, Verfügbarkeiten oder Krankmeldungen automatisch aus und übernehmen sie in Ihre Schichtplan Vorlage. Dadurch werden Abwesenheitsverwaltung und Personaleinsatzplanung konsistenter, schneller und weniger fehleranfällig.'
         icon: layer-group
-      - headline: 'Dokumente per OCR erfassen'
-        text: 'Mit OCR digitalisieren Sie z. B. Fotos von Aushängen oder eingescannte Unterlagen und überführen relevante Inhalte in Ihren Online Schichtplaner. So reduzieren Sie Medienbrüche, halten Pläne aktuell und dokumentieren Änderungen nachvollziehbar an einem Ort.'
+      - headline: 'Bilder per OCR erfassen'
+        text: 'Mit OCR digitalisieren Sie z. B. Fotos von Aushängen oder Unterlagen und überführen relevante Inhalte in Ihren Online Schichtplaner. So reduzieren Sie Medienbrüche, halten Pläne aktuell und dokumentieren Änderungen nachvollziehbar an einem Ort.'
         icon: image
       - headline: 'Planungsstand zusammenfassen'
         text: 'Mit Summarize erstellt die KI kurze Übersichten zu offenen Schichten, auffälligen Wochenstunden, Ausfällen oder Engpässen. Damit erhalten Schichtleiter und HR in wenigen Sekunden eine verständliche Zusammenfassung, ohne jeden Dienstplan manuell prüfen zu müssen.'

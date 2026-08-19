@@ -141,8 +141,8 @@ sections:
       - headline: 'Extraiga datos clave'
         text: 'Extraiga automáticamente de los textos libres datos útiles como lugar, tiempo, hora o comportamiento. Así, unas notas sueltas se convierten en un cuaderno de avistamientos analizable que le ayuda a reconocer un ave desconocida y a preparar sus observaciones para análisis posteriores.'
         icon: layer-group
-      - headline: 'Lea textos de PDF con OCR'
-        text: 'Use OCR para extraer automáticamente el texto de capturas, PDF o documentos escaneados y pasarlo a los campos adecuados de su app de aves. Así incorpora listas de observación, lugares o notas a su cuaderno de avistamientos sin teclear los contenidos manualmente.'
+      - headline: 'Extraer texto de imágenes de forma fiable'
+        text: 'Utiliza el OCR para extraer automáticamente textos de capturas de pantalla o imágenes y transferirlos a los campos correspondientes de tu aplicación de aves. De este modo, podrás incorporar rápidamente listas de observaciones, lugares de avistamiento o notas a tu diario de avistamientos, sin tener que escribir el contenido manualmente.'
         icon: image
       - headline: 'Aplique reglas de IA propias'
         text: 'Defina reglas propias para su observación de aves con Custom Prompts, por ejemplo para valorar la calidad de un avistamiento, detectar patrones típicos o estructurar descripciones libres. Así, su app de aves personalizada se ajusta aún más a su forma de trabajar en ornitología.'

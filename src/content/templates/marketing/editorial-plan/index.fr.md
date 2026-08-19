@@ -141,7 +141,7 @@ sections:
         text: "Avec Extract, vous pouvez extraire automatiquement des informations telles que des groupes de thèmes, des mots-clés ou des groupes cibles à partir de briefings, d'e-mails ou de notes de réunion, et les transférer de manière structurée dans votre plan éditorial. Les contenus identifiés sont directement intégrés dans les champs de votre plan de contenu, ce qui réduit le temps nécessaire pour passer de l'idée à la planification."
         icon: layer-group
       - headline: 'Reconnaissance de texte avec OCR'
-        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez capturer le contenu d'images telles que des notes numérisées ou des tableaux blancs photographiés et transférer les informations pertinentes directement dans votre plan éditorial. Cela vous permet d'intégrer rapidement des idées hors ligne et des documents existants dans votre modèle de plan de contenu."
+        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez extraire du contenu à partir d'images, par exemple des notes photographiées ou des tableaux blancs, et intégrer directement les informations pertinentes dans votre plan éditorial. Cela vous permet d'intégrer rapidement dans votre modèle de plan de contenu des idées trouvées hors ligne ainsi que des documents existants."
         icon: image
       - headline: 'Résumés automatisés avec Summarize'
         text: "Summarize vous permet de résumer automatiquement en quelques phrases des briefings volumineux, des transcriptions d'entretiens ou des rapports de campagne. Vous saisissez plus rapidement l'essentiel de contenus complexes et préparez les thèmes pour votre plan éditorial de manière nettement plus efficace."

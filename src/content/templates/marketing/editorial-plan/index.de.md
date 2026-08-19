@@ -141,7 +141,7 @@ sections:
         text: 'Mit Extract ziehen Sie aus Briefings, E-Mails oder Meeting-Notizen automatisch Informationen wie Themencluster, Keywords oder Zielgruppen und überführen sie strukturiert in Ihren Redaktionsplan. Die erkannten Inhalte landen direkt in den Feldern Ihres Content Plans und verkürzen den Weg von der Idee zur Planung.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Mit OCR erfassen Sie Inhalte aus Bildern wie z. B. aus gescannten Notizen oder abfotografierten Whiteboards und übernehmen relevante Informationen direkt in Ihren Redaktionsplan. So lassen sich auch Offline-Ideen und bestehende Unterlagen schnell in Ihre Content Plan Vorlage integrieren.'
+        text: 'Mit OCR erfassen Sie Inhalte aus Bildern wie z. B. aus abfotografierten Notizen oder Whiteboards und übernehmen relevante Informationen direkt in Ihren Redaktionsplan. So lassen sich auch Offline-Ideen und bestehende Unterlagen schnell in Ihre Content Plan Vorlage integrieren.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
         text: 'Mit Summarize fassen Sie umfangreiche Briefings, Interview-Transkripte oder Kampagnenreports automatisch in wenigen Sätzen zusammen. Sie erfassen den Kern komplexer Inhalte schneller und bereiten Themen für Ihren Redaktionsplan deutlich effizienter auf.'

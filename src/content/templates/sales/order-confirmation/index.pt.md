@@ -138,7 +138,7 @@ sections:
         text: 'Com Extract importa conteúdos de e-mails, encomendas ou orçamentos diretamente para o seu modelo de confirmação de encomenda. A IA reconhece data de entrega, condições de pagamento, contactos ou referências e transfere-os automaticamente para as colunas certas. Poupa tempo e reduz erros.'
         icon: layer-group
       - headline: 'Capte os dados por OCR'
-        text: 'Com OCR lê conteúdos de encomendas digitalizadas, confirmações assinadas ou documentos complementares. A IA reconhece nomes, datas, valores ou números e adiciona-os ao seu modelo digital de confirmação de encomenda. Assim integra também documentos manuais em fluxos digitais.'
+        text: 'Com o OCR, pode extrair diretamente o conteúdo de pedidos fotografados, confirmações assinadas ou imagens complementares. A IA reconhece nomes, datas, montantes ou números e insere-os no seu modelo de confirmação de pedido digital. Desta forma, é possível integrar facilmente documentos manuais em fluxos de trabalho digitais.'
         icon: image
       - headline: 'Resuma o estado da encomenda'
         text: 'Com Summarize a IA cria relatórios breves sobre aprovações abertas, encomendas confirmadas ou atrasos críticos. Números, comentários e estados do seu modelo são condensados e apresentados com clareza. Isto facilita a coordenação na gestão de projetos e acelera as decisões.'

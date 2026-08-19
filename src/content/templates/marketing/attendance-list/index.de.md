@@ -140,7 +140,7 @@ sections:
         text: 'Mit Extract übertragen Sie Inhalte aus Anmeldelisten, E-Mails oder bestehenden Dokumenten strukturiert in Ihre Teilnehmerliste Vorlage. Die KI erkennt Namen, Kontaktdaten oder Kurszuordnungen und füllt automatisch die passenden Spalten.'
         icon: layer-group
       - headline: 'OCR für Unterschriften & Ausweise'
-        text: 'Mit OCR lesen Sie Inhalte aus Fotos und Scans aus – etwa unterschriebene Anwesenheitslisten, Ausweisdaten oder Badges von Teilnehmenden. Die KI erkennt Namen, Kennnummern oder Kurszuordnungen direkt aus Bilddateien und überträgt sie in Ihre Anwesenheitsliste Vorlage, sodass auch analoge Check-ins und Zugangskontrollen nahtlos in Ihr digitales Anwesenheitsmanagement einfließen.'
+        text: 'Mit OCR lesen Sie Inhalte aus Fotos aus – etwa unterschriebene Anwesenheitslisten, Ausweisdaten oder Badges von Teilnehmenden. Die KI erkennt Namen, Kennnummern oder Kurszuordnungen direkt aus Bilddateien und überträgt sie in Ihre Anwesenheitsliste Vorlage, sodass auch analoge Check-ins und Zugangskontrollen nahtlos in Ihr digitales Anwesenheitsmanagement einfließen.'
         icon: image
       - headline: 'Zusammenfassungen für Reports und Nachweise'
         text: 'Mit Summarize erzeugen Sie aus Ihren Anwesenheitsdaten automatisch kurze Zusammenfassungen, zum Beispiel zur Anwesenheitsquote pro Kurs, Abteilung oder Event. Die KI fasst Tabellenwerte zusammen und liefert kompakte Reports, die Sie für Seminarverwaltung, HR-Reporting oder Zertifikatsübersichten nutzen können.'

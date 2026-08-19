@@ -141,8 +141,8 @@ sections:
       - headline: 'Extract the key details'
         text: 'Automatically extract useful data from free text, such as location, weather, time or behaviors. This turns loose observation notes into an analyzable sightings log that helps you identify an unknown bird and prepare observations cleanly for later analysis.'
         icon: layer-group
-      - headline: 'Read text from PDFs safely'
-        text: 'Use OCR to automatically extract text from screenshots, PDFs or scanned documents and transfer it into the right fields of your bird app. This way you import observation lists, locations or notes into your sightings log without retyping content manually.'
+      - headline: 'Reliably Extract Text from Images'
+        text: 'Use OCR to automatically extract text from screenshots or images and transfer it to the appropriate fields in your bird app. This allows you to quickly import observation lists, locations, or notes into your sighting log without having to type the content manually.'
         icon: image
       - headline: 'Apply your own AI rules'
         text: 'Use Custom Prompts to define individual rules for your birdwatching, for example to rate sighting quality, detect typical patterns or structure free descriptions. This tailors your personalized bird app even more precisely to how you work in ornithology.'

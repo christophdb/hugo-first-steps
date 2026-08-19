@@ -132,8 +132,8 @@ sections:
       - headline: 'Lea solicitudes con IA'
         text: 'Con Extract lee de forma automática la información de solicitudes de vacaciones, disponibilidades o bajas y la incorpora a su plantilla de plan de turnos. Así la gestión de ausencias y la planificación de personal son más coherentes, rápidas y mucho menos propensas a errores.'
         icon: layer-group
-      - headline: 'Capture documentos con OCR'
-        text: 'Con OCR digitaliza, por ejemplo, fotos de anuncios o documentos escaneados y traslada el contenido relevante a su planificador de turnos online. Así reduce las rupturas de formato, mantiene los planes al día y documenta los cambios de forma trazable en un solo lugar.'
+      - headline: 'Capturar imágenes mediante OCR'
+        text: 'Con el OCR, puede digitalizar, por ejemplo, fotos de carteles o documentos e incorporar el contenido relevante a su planificador de turnos en línea. De este modo, se reducen los cambios de formato, se mantienen los planes actualizados y se documentan los cambios de forma trazable en un único lugar.'
         icon: image
       - headline: 'Resuma la planificación'
         text: 'Con Summarize la IA crea resúmenes breves de turnos libres, horas semanales llamativas, ausencias o cuellos de botella. Así responsables de turno y RR. HH. obtienen en segundos un resumen claro, sin revisar cada cuadrante de forma manual.'

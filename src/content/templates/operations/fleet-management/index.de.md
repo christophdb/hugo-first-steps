@@ -141,7 +141,7 @@ sections:
         text: 'Mit Extract **ziehen Sie aus Werkstattrechnungen, Schadensberichten oder E-Mails automatisch Informationen** wie Kosten, Kilometerstände oder Schadensarten. Die erkannten Werte landen strukturiert in Feldern Ihrer Tabelle und erleichtern Auswertungen und Kostenkontrolle erheblich.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Mit OCR erkennen Sie **Texte aus Scans von Rechnungen, Übergabeprotokollen oder Fahrtenbüchern automatisch** und übernehmen Inhalte direkt in Ihre digitale Fuhrparkübersicht. Kennzeichen, Beträge, Kilometer oder Daten stehen so ohne manuelles Abtippen zur Verfügung.'
+        text: 'Mit OCR erkennen Sie **Texte aus Bildern von Rechnungen, Übergabeprotokollen oder Fahrtenbüchern automatisch** und übernehmen Inhalte direkt in Ihre digitale Fuhrparkübersicht. Kennzeichen, Beträge, Kilometer oder Daten stehen so ohne manuelles Abtippen zur Verfügung.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
         text: 'Mit Summarize fassen Sie umfangreiche Schadensakten, E-Mail-Verläufe mit Werkstätten oder Monatsberichte automatisch in wenigen Sätzen zusammen. Sie **erfassen den Kern komplexer Vorgänge schneller** und bereiten Entscheidungen oder Management-Updates deutlich effizienter vor.'

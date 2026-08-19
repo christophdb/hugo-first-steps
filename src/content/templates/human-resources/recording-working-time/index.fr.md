@@ -141,7 +141,7 @@ sections:
         text: "Avec Extract, vous extrayez automatiquement les données issues des demandes de congés, des arrêts maladie ou des e-mails, puis vous les transférez de manière structurée dans votre modèle de saisie des temps. Vous réduisez ainsi les tâches manuelles et vous vous assurez de disposer d'une base de données complète et à jour."
         icon: layer-group
       - headline: 'Saisie de documents avec OCR'
-        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez extraire automatiquement le contenu d'images téléchargées, telles que des arrêts de travail ou des feuilles de présence numérisées, et les associer directement aux entrées correspondantes. Vous numérisez et automatisez ainsi vos processus étape par étape."
+        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez extraire automatiquement le contenu des images téléchargées, comme les arrêts maladie ou les feuilles de présence, et les associer directement aux entrées correspondantes. Vous numérisez et automatisez ainsi vos processus étape par étape."
         icon: image
       - headline: 'Résumés des rapports RH'
         text: "Avec Summarize, vous pouvez générer automatiquement de brefs résumés à partir de vos données de temps de travail, par exemple sur l'évolution des heures supplémentaires, les taux d'absentéisme ou la charge de travail des différentes équipes. Ces analyses facilitent l'élaboration des rapports de gestion et les entretiens avec les collaborateurs."

@@ -138,7 +138,7 @@ sections:
         text: 'Avec Extract, vous reprenez le contenu d’e-mails, de commandes ou de devis directement dans votre modèle de confirmation de commande. L’IA reconnaît date de livraison, conditions de paiement, interlocuteurs ou références et les transfère automatiquement dans les bonnes colonnes. Gain de temps et moins d’erreurs.'
         icon: layer-group
       - headline: 'Reprenez les données par OCR'
-        text: 'Avec OCR, vous lisez le contenu de commandes scannées, de confirmations signées ou de documents joints. L’IA reconnaît noms, dates, montants ou numéros et les ajoute à votre modèle numérique de confirmation de commande. Vous intégrez ainsi proprement les documents manuels dans des flux numériques.'
+        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez extraire directement le contenu des commandes photographiées, des confirmations signées ou des images complémentaires. L'IA reconnaît les noms, les dates, les montants ou les numéros et les ajoute à votre modèle de confirmation de commande numérique. Cela permet ainsi d'intégrer facilement des documents manuels dans des flux de travail numériques."
         icon: image
       - headline: 'Résumez le statut commande'
         text: 'Avec Summarize, l’IA crée de courts rapports sur les validations ouvertes, les commandes confirmées ou les retards critiques. Les chiffres, commentaires et statuts de votre modèle sont condensés et présentés clairement. Cela facilite la coordination en gestion de projet et accélère les décisions.'

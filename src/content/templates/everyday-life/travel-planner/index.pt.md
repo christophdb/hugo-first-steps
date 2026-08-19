@@ -140,7 +140,7 @@ sections:
         text: 'Com Extract, transfere conteúdos de notas, confirmações de reserva, e-mails ou capturas de ecrã diretamente para o seu planeador. Preços, datas, moradas e responsabilidades são registados com clareza, para que a sua aplicação reflita depressa todo o planeamento.'
         icon: layer-group
       - headline: 'Ler conteúdos com OCR'
-        text: 'Com OCR, extrai informação de bilhetes digitalizados, confirmações de reserva, faturas ou notas manuscritas. O seu modelo completa os dados em falta bem mais depressa, mantém rota, orçamento e lista de bagagem sempre atualizados e poupa tempo valioso antes da partida.'
+        text: 'Com o OCR, pode extrair informações de bilhetes fotografados, confirmações de reserva, faturas ou notas manuscritas. Desta forma, o seu modelo preenche os dados em falta muito mais rapidamente, mantém o itinerário, o orçamento de viagem e a lista de bagagem sempre atualizados e poupa-lhe tempo antes da partida.'
         icon: image
       - headline: 'Resumir o estado da viagem'
         text: 'Com Summarize, a IA cria resumos curtos sobre tarefas em aberto, reservas em falta, despesas comuns ou o estado atual da organização. Assim o seu grupo de viagem vê de imediato o que falta ainda organizar ou o que falta reservar antes da próxima road trip em conjunto.'

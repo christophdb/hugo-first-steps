@@ -132,8 +132,8 @@ sections:
       - headline: 'Lire les demandes en clair'
         text: "Avec Extract, lisez automatiquement les informations des demandes de congés, disponibilités ou arrêts maladie et intégrez-les à votre modèle de planning. La gestion des absences et du personnel gagne en cohérence, en rapidité et en fiabilité, avec bien moins d'erreurs."
         icon: layer-group
-      - headline: 'Saisir des documents en OCR'
-        text: "Avec l'OCR, numérisez par exemple des photos d'affichages ou des documents scannés et transférez le contenu utile vers votre planning en ligne. Vous limitez les ruptures de support, gardez les plannings à jour et tracez chaque changement de façon claire au même endroit."
+      - headline: 'Numériser des images par OCR'
+        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez, par exemple, numériser des photos d'affiches ou de documents et transférer les informations pertinentes dans votre planificateur de plis en ligne. Vous réduisez ainsi les ruptures de format, maintenez vos plis à jour et consignez les modifications de manière traçable en un seul et même endroit."
         icon: image
       - headline: "Résumer l'état du planning"
         text: "Avec Summarize, l'IA génère de courtes synthèses sur les postes ouverts, les heures atypiques, les absences ou les tensions. Chefs d'équipe et RH obtiennent en quelques secondes un résumé clair et exploitable, sans vérifier chaque tableau de service ligne par ligne."

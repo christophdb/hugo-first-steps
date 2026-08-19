@@ -140,7 +140,7 @@ sections:
         text: 'Avec Extract, vous reprenez le contenu de notes, confirmations de réservation, e-mails ou captures d''écran directement dans votre planificateur. Prix, dates, adresses et responsabilités sont saisis clairement, pour que votre application reflète rapidement votre organisation.'
         icon: layer-group
       - headline: 'Lire le contenu par OCR'
-        text: 'Avec OCR, vous extrayez les informations de billets scannés, confirmations de réservation, factures ou notes manuscrites. Votre modèle complète les données manquantes bien plus vite, garde itinéraire, budget et liste de bagages à jour et vous fait gagner du temps avant le départ.'
+        text: 'Grâce à la reconnaissance optique de caractères (OCR), vous pouvez extraire des informations à partir de photos de billets, de confirmations de réservation, de factures ou de notes manuscrites. Ainsi, votre modèle complète les informations manquantes bien plus rapidement, maintient votre itinéraire, votre budget de voyage et votre liste de bagages à jour en permanence, et vous fait gagner du temps avant le départ.'
         icon: image
       - headline: 'Résumer l''état du voyage'
         text: 'Avec Summarize, l''IA crée de courtes synthèses des tâches ouvertes, des réservations manquantes, des dépenses communes ou de l''avancement de l''organisation. Votre groupe de voyage voit immédiatement ce qu''il reste à organiser ou à réserver avant le prochain road trip.'

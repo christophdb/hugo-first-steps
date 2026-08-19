@@ -140,7 +140,7 @@ sections:
         text: 'With Extract, you can automatically extract data from vacation requests, sick leave notifications, or emails and transfer it in a structured format to your time tracking template. This reduces manual effort and ensures a complete, up-to-date data set.'
         icon: layer-group
       - headline: 'Document Capture with OCR'
-        text: 'With OCR, you can automatically capture content from uploaded images—such as sick notes or scanned timesheets—and link it directly to the corresponding entries. This allows you to digitize and automate your processes step by step.'
+        text: 'With OCR, you can automatically capture content from uploaded images—such as sick notes or timesheets—and link it directly to the corresponding entries. This allows you to digitize and automate your processes step by step.'
         icon: image
       - headline: 'Summaries for HR Reports'
         text: 'With Summarize, you can automatically generate brief summaries from your time-tracking data—for example, on overtime trends, absence rates, or the workload of individual teams. These analyses make management reports and employee reviews easier.'

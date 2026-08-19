@@ -134,7 +134,7 @@ sections:
         text: 'Laissez l''IA classer automatiquement vos entrées par catégories telles que « Petit-déjeuner », « Snack », « Teneur élevée en sucre » ou « Suspect en cas de symptômes ». Identifiez plus rapidement les schémas comportementaux et discutez-en plus précisément avec des experts.'
         icon: table
       - headline: 'Reconnaissance de texte avec OCR'
-        text: 'Scannez ou photographiez les emballages alimentaires, les brochures nutritionnelles ou les plans de cliniques. La fonction OCR extrait le texte des images pour le rendre disponible pour vos analyses.'
+        text: "Photographiez des emballages alimentaires, des brochures de conseils nutritionnels ou des plans provenant d'établissements hospitaliers, et laissez le système reconnaître automatiquement les informations pertinentes. La fonction OCR extrait les textes des images et les rend disponibles pour des analyses ultérieures."
         icon: image
       - headline: 'Extraction intelligente avec Extract'
         text: 'Utilisez la fonction Extract pour tirer des informations spécifiques comme les calories, les allergènes ou les apports journaliers recommandés à partir de textes bruts et les placer dans des colonnes dédiées.'
