@@ -140,7 +140,7 @@ sections:
         text: 'Con Extract incorpora contenidos de notas, confirmaciones de reserva, correos o capturas de pantalla directamente a su planificador. Precios, fechas, direcciones y responsabilidades se registran con claridad para que su app refleje enseguida toda la planificación.'
         icon: layer-group
       - headline: 'Leer contenidos con OCR'
-        text: 'Con OCR extrae información de entradas escaneadas, confirmaciones de reserva, facturas o notas manuscritas. Su plantilla completa los datos que faltan mucho más rápido, mantiene al día ruta, presupuesto y lista de equipaje y le ahorra un tiempo valioso antes de salir.'
+        text: 'Con el OCR, puede extraer información de billetes fotografiados, confirmaciones de reserva, facturas o notas manuscritas. De este modo, su plantilla completa los datos que faltan mucho más rápido, mantiene siempre actualizados el itinerario, el presupuesto del viaje y la lista de equipaje, y le ahorra tiempo antes de la salida.'
         icon: image
       - headline: 'Resumir el estado del viaje'
         text: 'Con Summarize, la IA crea resúmenes breves sobre tareas pendientes, reservas que faltan, gastos comunes o el estado actual de la organización. Así su grupo de viaje ve enseguida qué queda todavía por organizar o por reservar antes del próximo road trip en común.'

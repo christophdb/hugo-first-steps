@@ -141,8 +141,8 @@ sections:
       - headline: 'Extrair dados relevantes'
         text: 'Extraia automaticamente de textos livres dados úteis como local, meteorologia, hora ou comportamentos. Assim, notas de observação soltas transformam-se num registo de avistamentos analisável, que o ajuda a reconhecer uma ave desconhecida e a preparar observações para análises posteriores.'
         icon: layer-group
-      - headline: 'Ler texto de PDFs com OCR'
-        text: 'Utilize OCR para extrair automaticamente texto de capturas de ecrã, PDFs ou documentos digitalizados e transferi-lo para os campos certos da sua app de aves. Assim importa listas de observação, locais ou notas rapidamente para o seu registo de avistamentos, sem escrever tudo à mão.'
+      - headline: 'Ler textos a partir de imagens com segurança'
+        text: 'Utilize o OCR para extrair automaticamente textos de capturas de ecrã ou imagens e transferi-los para os campos adequados da sua aplicação de observação de aves. Desta forma, pode importar rapidamente listas de observações, locais de avistamento ou notas para o seu diário de observações, sem ter de digitar manualmente o conteúdo.'
         icon: image
       - headline: 'Regras de IA à sua medida'
         text: 'Defina com Custom Prompts regras individuais para a sua observação de aves, por exemplo para avaliar a qualidade dos avistamentos, reconhecer padrões típicos ou estruturar descrições livres. Assim, a sua app de aves personalizada adapta-se ainda melhor à sua forma de trabalhar na ornitologia.'

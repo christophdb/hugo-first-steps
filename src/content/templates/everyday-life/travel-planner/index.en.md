@@ -138,7 +138,7 @@ sections:
         text: 'With Extract, you transfer content from notes, booking confirmations, emails or screenshots directly into your travel planner. Prices, dates, addresses and responsibilities are captured clearly, so that your travel planner app reflects your vacation planning quickly.'
         icon: layer-group
       - headline: 'Read content via OCR'
-        text: 'With OCR, you read information from scanned tickets, booking confirmations, invoices or handwritten notes. Your template completes missing details considerably faster, keeps route, travel budget and packing list up to date and saves valuable time before departure.'
+        text: 'With OCR, you can extract information from photographs of tickets, booking confirmations, invoices or handwritten notes. This allows your template to fill in missing details much more quickly, keeps your itinerary, travel budget and packing list up to date at all times, and saves you time before you set off.'
         icon: image
       - headline: 'Summarize your trip status'
         text: 'With Summarize, the AI creates short overviews of open to-dos, missing bookings, shared expenses or the current state of your travel organization. This way, your travel group sees immediately what still needs to be organized or booked before the next road trip.'

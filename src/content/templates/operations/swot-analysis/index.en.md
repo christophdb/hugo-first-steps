@@ -136,7 +136,7 @@ sections:
         text: 'Automatically translate SWOT factors into other languages with a custom prompt—ideal for international teams or global strategy workshops. Each team member works in their own language, and the AI consolidates the results centrally in a shared analysis.'
         icon: language
       - headline: 'Text recognition with OCR'
-        text: 'OCR makes scanned documents and whiteboard photos searchable. The recognized text is sent directly to your SWOT analysis template, where it can be evaluated in a structured manner and used for further analysis.'
+        text: 'With OCR, photographed documents and whiteboard photos become searchable; the recognized text is inserted directly into your SWOT analysis template, where it can be analyzed in a structured manner and used for further analysis.'
         icon: image
       - headline: 'Document analysis with Extract'
         text: 'With Extract, you can evaluate market studies, reports, or competitive analyses and automatically transfer relevant text passages into your tables—a practical basis for deriving SWOT factors.'

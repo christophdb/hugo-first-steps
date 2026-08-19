@@ -138,7 +138,7 @@ sections:
         text: 'Con Extract incorpora contenidos de correos, pedidos o presupuestos directamente a su plantilla de confirmación de pedido. La IA reconoce fecha de entrega, condiciones de pago, contactos o referencias y los traslada automáticamente a las columnas adecuadas. Esto ahorra tiempo y reduce errores de transcripción.'
         icon: layer-group
       - headline: 'Capture datos con OCR'
-        text: 'Con OCR lee contenidos de pedidos escaneados, confirmaciones firmadas o documentos complementarios. La IA reconoce nombres, fechas, importes o números y los añade a su plantilla digital de confirmación de pedido. Así integra también documentos manuales en flujos de trabajo digitales.'
+        text: 'Con el OCR, puede extraer directamente el contenido de pedidos fotografiados, confirmaciones firmadas o imágenes complementarias. La IA reconoce nombres, fechas, importes o números y los introduce en su plantilla de confirmación de pedido digital. De este modo, incluso los documentos manuales se pueden integrar perfectamente en los flujos de trabajo digitales.'
         icon: image
       - headline: 'Resuma el estado del pedido'
         text: 'Con Summarize la IA crea informes breves sobre aprobaciones abiertas, pedidos confirmados o retrasos críticos. Cifras, comentarios y estados de su plantilla se condensan y presentan con claridad. Esto facilita la coordinación en la gestión de proyectos y acelera las decisiones.'

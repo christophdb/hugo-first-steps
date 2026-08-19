@@ -137,7 +137,7 @@ sections:
         text: 'Übersetzen Sie SWOT-Faktoren automatisch in andere Sprachen mit einem Custom Prompt – ideal für internationale Teams oder globale Strategieworkshops. Jedes Teammitglied arbeitet in seiner Sprache, die KI konsolidiert die Ergebnisse zentral in einer gemeinsamen Analyse.'
         icon: language
       - headline: 'Texterkennung mit OCR'
-        text: 'Mit OCR werden gescannte Unterlagen und Whiteboard-Fotos durchsuchbar, der erkannte Text landet direkt in Ihrer SWOT Analyse Vorlage und kann dort strukturiert ausgewertet und für weitere Analysen genutzt werden.'
+        text: 'Mit OCR werden abfotografierte Unterlagen und Whiteboard-Fotos durchsuchbar, der erkannte Text landet direkt in Ihrer SWOT Analyse Vorlage und kann dort strukturiert ausgewertet und für weitere Analysen genutzt werden.'
         icon: image
       - headline: 'Dokumentenanalyse mit Extract'
         text: 'Mit Extract werten Sie Marktstudien, Reports oder Wettbewerbsanalysen aus und lassen relevante Textpassagen automatisiert in Ihre Tabellen übernehmen – eine praktische Basis, um daraus SWOT-Faktoren abzuleiten.'

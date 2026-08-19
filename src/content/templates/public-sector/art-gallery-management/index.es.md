@@ -140,7 +140,7 @@ sections:
         text: 'Con Extract, la IA transfiere contenidos de contratos de préstamo, informes periciales o listas de inventario a su plantilla. Se reconocen las descripciones de los objetos, las medidas y los datos de procedencia, y se introducen en los campos correspondientes, sin necesidad de tener que introducirlos manualmente en su inventario digital.'
         icon: layer-group
       - headline: 'OCR para fichas y expedientes'
-        text: 'Mediante el OCR, SeaTable extrae el contenido de texto de imágenes escaneadas, como fichas o antiguos libros de inventario. Los textos reconocidos se asignan a los objetos correspondientes en el sistema; de este modo, el material de archivo analógico pasa a estar disponible en formato digital y se puede consultar de forma inmediata.'
+        text: 'Gracias al OCR, SeaTable lee el contenido de texto de imágenes, como fichas o antiguos libros de inventario. Los textos reconocidos se asignan a los objetos correspondientes en el sistema; de este modo, el material de archivo analógico pasa a estar disponible en formato digital y se puede consultar de forma inmediata.'
         icon: image
       - headline: 'Informes de estado con solo pulsar un botón'
         text: 'Con Summarize, SeaTable genera automáticamente informes concisos: piezas prestadas, restauraciones en curso o revisiones de estado pendientes. La IA resume los campos de las tablas y ofrece resúmenes claros para las reuniones del patronato y la gestión de colecciones en los museos.'

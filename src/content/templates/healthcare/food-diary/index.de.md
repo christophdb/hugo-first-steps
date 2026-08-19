@@ -134,7 +134,7 @@ sections:
         text: 'Lassen Sie Einträge automatisch nach Kategorien wie „Frühstück“, „Snack“, „hoher Zuckeranteil“ oder „verdächtig bei Beschwerden“ klassifizieren. So erkennen Sie schneller Muster in Ihrem Essverhalten und können gezielter mit Expertinnen und Experten darüber sprechen.'
         icon: table
       - headline: 'Automatische Texterkennung mit OCR'
-        text: 'Scannen oder fotografieren Sie Lebensmittelverpackungen, Handzettel von Ernährungsberatungen oder Pläne aus Kliniken und lassen Sie relevante Informationen automatisch erkennen. Die OCR-Funktion liest Texte aus Bildern aus und macht sie für weitere Auswertungen verfügbar.'
+        text: 'Fotografieren Sie Lebensmittelverpackungen, Handzettel von Ernährungsberatungen oder Pläne aus Kliniken und lassen Sie relevante Informationen automatisch erkennen. Die OCR-Funktion liest Texte aus Bildern aus und macht sie für weitere Auswertungen verfügbar.'
         icon: image
       - headline: 'Intelligente Datenextraktion mit Extract'
         text: 'Mit der Extract-Funktion können Sie gezielt Informationen wie Kalorienangaben, Allergene oder empfohlene Tagesmengen aus Texten ziehen und in eigene Spalten schreiben lassen. Das reduziert manuellen Aufwand und sorgt für einheitliche Datenstrukturen.'

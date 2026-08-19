@@ -141,7 +141,7 @@ sections:
         text: 'Com o Extract, pode extrair automaticamente dados de pedidos de férias, atestados médicos ou e-mails e transferi-los de forma estruturada para o seu modelo de registo de horas. Desta forma, reduz o trabalho manual e garante uma base de dados completa e atualizada.'
         icon: layer-group
       - headline: 'Digitalização de documentos com OCR'
-        text: 'Com o OCR, pode capturar automaticamente o conteúdo de imagens carregadas, como atestados médicos ou folhas de ponto digitalizadas, e associá-lo diretamente aos registos correspondentes. Desta forma, digitaliza e automatiza os seus processos passo a passo.'
+        text: 'Com o OCR, pode capturar automaticamente conteúdos de imagens carregadas, como atestados médicos ou folhas de ponto, e associá-los diretamente às entradas correspondentes. Desta forma, digitaliza e automatiza os seus processos passo a passo.'
         icon: image
       - headline: 'Resumos para relatórios de RH'
         text: 'Com o Summarize, pode criar automaticamente resumos concisos a partir dos seus dados de horário de trabalho, por exemplo, sobre a evolução das horas extraordinárias, as taxas de ausência ou a carga de trabalho de cada equipa. Estas análises facilitam a elaboração de relatórios de gestão e as reuniões de avaliação de desempenho.'

@@ -140,7 +140,7 @@ sections:
         text: 'Mit Extract übernehmen Sie Inhalte aus Notizen, Buchungsbestätigungen, E-Mails oder Screenshots direkt in Ihren Reiseplaner. Preise, Termine, Adressen und Zuständigkeiten werden übersichtlich erfasst, damit Ihre Reiseplaner App die Urlaubsplanung schnell abbildet.'
         icon: layer-group
       - headline: 'Inhalte per OCR auslesen'
-        text: 'Mit OCR lesen Sie Informationen aus gescannten Tickets, Buchungsbestätigungen, Rechnungen oder handschriftlichen Notizen aus. So ergänzt Ihre Vorlage fehlende Angaben deutlich schneller, hält Route, Reisebudget und Packliste stets aktuell und spart vor der Abreise Zeit.'
+        text: 'Mit OCR lesen Sie Informationen aus fotografierten Tickets, Buchungsbestätigungen, Rechnungen oder handschriftlichen Notizen aus. So ergänzt Ihre Vorlage fehlende Angaben deutlich schneller, hält Route, Reisebudget und Packliste stets aktuell und spart vor der Abreise Zeit.'
         icon: image
       - headline: 'Reisestatus zusammenfassen'
         text: 'Mit Summarize erstellt die KI kurze Übersichten zu offenen To-dos, fehlenden Buchungen, gemeinsamen Ausgaben oder dem aktuellen Stand der Reiseorganisation. Dadurch sieht Ihre Reisegruppe sofort, was vor dem nächsten Roadtrip noch organisiert oder gebucht werden muss.'

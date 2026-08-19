@@ -139,7 +139,7 @@ sections:
         text: 'With Extract, you can automatically extract information such as topic clusters, keywords, or target groups from briefings, emails, or meeting notes and transfer them in a structured manner to your editorial plan. The recognized content goes directly into the fields of your content plan, shortening the path from idea to planning.'
         icon: layer-group
       - headline: 'Text recognition with OCR'
-        text: 'With OCR, you can capture content from images such as scanned notes or photographed whiteboards and transfer relevant information directly into your editorial plan. This allows you to quickly integrate offline ideas and existing documents into your content plan template.'
+        text: 'With OCR, you can capture content from images—such as photographed notes or whiteboards—and import relevant information directly into your editorial calendar. This allows you to quickly integrate even offline ideas and existing documents into your content plan template.'
         icon: image
       - headline: 'Automated summaries with Summarize'
         text: 'With Summarize, you can automatically summarize extensive briefings, interview transcripts, or campaign reports in just a few sentences. You can grasp the essence of complex content more quickly and prepare topics for your editorial plan much more efficiently.'

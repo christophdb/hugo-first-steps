@@ -141,8 +141,8 @@ sections:
       - headline: 'Wichtige Details gezielt extrahieren'
         text: 'Extrahieren Sie aus Freitexten automatisch nützliche Angaben wie Fundort, Wetter, Uhrzeit oder Verhaltensweisen. Dadurch wird aus losen Beobachtungsnotizen ein auswertbares Sichtungs-Logbuch, das Ihnen hilft, einen unbekannten Vogel zu erkennen und Beobachtungen sauber für spätere Analysen aufzubereiten.'
         icon: layer-group
-      - headline: 'Texte aus PDFs sicher auslesen'
-        text: 'Nutzen Sie OCR, um Texte aus Screenshots, PDFs oder gescannten Dokumenten automatisch zu extrahieren und in passende Felder Ihrer Vogel-App zu übertragen. So übernehmen Sie Beobachtungslisten, Fundorte oder Notizen schnell in Ihr Sichtungs-Logbuch, ohne Inhalte manuell abzutippen.'
+      - headline: 'Texte aus Bildern sicher auslesen'
+        text: 'Nutzen Sie OCR, um Texte aus Screenshots oder Bildern automatisch zu extrahieren und in passende Felder Ihrer Vogel-App zu übertragen. So übernehmen Sie Beobachtungslisten, Fundorte oder Notizen schnell in Ihr Sichtungs-Logbuch, ohne Inhalte manuell abzutippen.'
         icon: image
       - headline: 'Eigene KI-Regeln flexibel anwenden'
         text: 'Definieren Sie mit Custom Prompts individuelle Regeln für Ihre Vogelbeobachtung, zum Beispiel zur Bewertung von Sichtungsqualität, zur Erkennung typischer Muster oder zur Strukturierung freier Beschreibungen. So wird Ihre personalisierte Vogel-App noch genauer auf Ihre Arbeitsweise in der Ornithologie zugeschnitten.'

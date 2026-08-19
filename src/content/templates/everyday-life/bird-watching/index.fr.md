@@ -141,8 +141,8 @@ sections:
       - headline: 'Extraire les détails clés'
         text: "Extrayez automatiquement des textes libres des informations utiles : lieu, météo, heure ou comportements. Vos notes éparses deviennent un journal d'observations exploitable, qui vous aide à reconnaître un oiseau inconnu et à préparer vos observations pour l'analyse."
         icon: layer-group
-      - headline: 'Lire les textes des PDF'
-        text: "Utilisez l'OCR pour extraire automatiquement le texte de captures, PDF ou documents scannés et le reporter dans les bons champs de votre application oiseaux. Vous reprenez listes d'observations, lieux ou notes dans votre journal, sans les retaper à la main."
+      - headline: "Extraire du texte à partir d'images en toute sécurité"
+        text: "Utilisez la reconnaissance optique de caractères (OCR) pour extraire automatiquement du texte à partir de captures d'écran ou d'images et le transférer dans les champs correspondants de votre application ornithologique. Vous pouvez ainsi importer rapidement des listes d'observations, des lieux d'observation ou des notes dans votre journal d'observations, sans avoir à saisir manuellement le contenu."
         icon: image
       - headline: "Vos propres règles d'IA"
         text: "Définissez avec des Custom Prompts vos propres règles d'observation : évaluation de la qualité des observations, détection de motifs typiques ou structuration de descriptions libres. Votre application oiseaux s'adapte encore mieux à votre méthode en ornithologie."

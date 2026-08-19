@@ -140,7 +140,7 @@ sections:
         text: 'With Extract, you can evaluate unstructured information such as job descriptions, internal memos, or emails and automatically extract relevant data such as contact persons, training needs, or compliance issues. This information is entered into separate fields in the onboarding plan and forms a reliable basis for your onboarding concept.'
         icon: layer-group
       - headline: 'Text recognition with OCR'
-        text: 'Upload scans of contracts, paper forms, or handwritten onboarding checklists and use the OCR function to automatically recognize the text they contain. This way, contract data, dates, or notes are immediately available in a structured format in your onboarding plan template, without the need for time-consuming manual transfers.'
+        text: 'Upload pictures of contracts, paper forms, or handwritten onboarding checklists and use the OCR function to automatically recognize the text they contain. This way, contract data, dates, or notes are immediately available in a structured format in your onboarding plan template, without the need for time-consuming manual transfers.'
         icon: image
       - headline: 'Automated summaries with Summarize'
         text: 'Summarize automatically summarizes feedback discussions, notes from the first few weeks, or longer comment threads in just a few sentences. Together with your onboarding plan template, this gives you a quick overview of the status of new employee onboarding and allows you to identify early on where additional support is needed.'

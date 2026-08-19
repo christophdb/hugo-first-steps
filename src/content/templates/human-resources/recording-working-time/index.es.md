@@ -141,7 +141,7 @@ sections:
         text: 'Con Extract, podrá extraer automáticamente datos de solicitudes de vacaciones, bajas por enfermedad o correos electrónicos y transferirlos de forma estructurada a su plantilla de registro de horas. De este modo, reducirá el trabajo manual y garantizará una base de datos completa y actualizada.'
         icon: layer-group
       - headline: 'Digitalización de documentos con OCR'
-        text: 'Con el OCR, puede capturar automáticamente el contenido de imágenes subidas, como bajas por enfermedad o hojas de horas escaneadas, y vincularlo directamente con las entradas correspondientes. De este modo, digitalizará y automatizará sus procesos paso a paso.'
+        text: 'Con el OCR, puede capturar automáticamente el contenido de las imágenes subidas, como bajas por enfermedad o hojas de horas, y vincularlo directamente con las entradas correspondientes. De este modo, digitalizará y automatizará sus procesos paso a paso.'
         icon: image
       - headline: 'Resúmenes para informes de RR. HH.'
         text: 'Con Summarize, puede generar automáticamente breves resúmenes a partir de sus datos de horas de trabajo, por ejemplo, sobre la evolución de las horas extras, los índices de absentismo o la carga de trabajo de cada equipo. Estos análisis facilitan la elaboración de informes de gestión y las reuniones con los empleados.'

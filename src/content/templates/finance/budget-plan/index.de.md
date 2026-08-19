@@ -139,7 +139,7 @@ sections:
         text: 'Mit Extract übernehmen Sie Inhalte aus Rechnungen, E-Mails, Freigaben oder internen Dokumenten in Ihre Budgetplaner Vorlage. Die KI erkennt Beträge, Kategorien, Zeiträume oder Verantwortliche und überträgt diese automatisch in passende Spalten. Das reduziert manuellen Aufwand und beschleunigt die Pflege Ihrer Budgetdaten deutlich.'
         icon: layer-group
       - headline: 'Belege per OCR schneller erfassen'
-        text: 'Mit OCR lesen Sie Inhalte aus eingescannten Rechnungen, Quittungen oder Finanzbelegen direkt aus. Die KI erkennt relevante Angaben wie Datum, Betrag, Kostenstelle oder Lieferant und ergänzt diese in Ihrer Budgetplaner-App. So lassen sich auch analoge Unterlagen sauber in digitale Finanzprozesse und Auswertungen integrieren.'
+        text: 'Mit OCR lesen Sie Inhalte aus fotografierten Rechnungen, Quittungen oder Finanzbelegen direkt aus. Die KI erkennt relevante Angaben wie Datum, Betrag, Kostenstelle oder Lieferant und ergänzt diese in Ihrer Budgetplaner-App. So lassen sich auch analoge Unterlagen sauber in digitale Finanzprozesse und Auswertungen integrieren.'
         icon: image
       - headline: 'Abweichungen kompakt zusammenfassen'
         text: 'Mit Summarize erstellen Sie automatisch kurze Zusammenfassungen zu Budgetabweichungen, Restbudgets oder kritischen Entwicklungen. Die KI verdichtet Zahlen aus Ihrer Budgetplaner Vorlage zu verständlichen Statusberichten, die sich für Management-Updates, Teamabstimmungen oder schnelle Entscheidungen im laufenden Budgetjahr eignen.'

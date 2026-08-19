@@ -134,8 +134,8 @@ sections:
       - headline: 'Extraia os dados'
         text: 'Com o Extract, você leva as informações relevantes de e-mails, textos de formulários ou notas de pagamento direto para os campos certos. A IA reconhece valor, data, finalidade, contato ou tipo de doação e acelera assim a contabilidade preparatória e a criação de comprovantes.'
         icon: layer-group
-      - headline: 'Capture documentos por OCR'
-        text: 'Com o OCR, você extrai automaticamente as informações de comprovantes de transferência fotografados ou documentos enviados. A IA extrai dados dos doadores, valores e referências, para que menos dados precisem ser transferidos e verificados manualmente.'
+      - headline: 'Capturar imagens através de OCR'
+        text: 'Com o OCR, é possível extrair automaticamente informações de comprovativos de transferência bancária ou documentos fotografados. A IA extrai os dados dos doadores, os montantes e as referências, reduzindo assim a necessidade de introduzir e verificar manualmente os dados.'
         icon: image
       - headline: 'Resuma as doações'
         text: 'Com o Summarize, a IA cria resumos curtos sobre comprovantes em aberto, novas doações, status dos projetos ou evoluções relevantes. Assim, tesoureiros e finance analysts identificam mais rápido o que importa e mantêm a gestão de doações em dia sem revisão demorada.'

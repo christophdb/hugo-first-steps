@@ -139,7 +139,7 @@ sections:
         text: 'Mit Extract übernehmen Sie Inhalte aus E-Mails, Bestellungen oder Angebotsdokumenten direkt in Ihre Auftragsbestätigung Vorlage. Die KI erkennt Liefertermin, Zahlungsbedingungen, Ansprechpartner oder Referenzen und überträgt diese automatisch in passende Spalten. Das spart Zeit und reduziert Übertragungsfehler deutlich.'
         icon: layer-group
       - headline: 'Belegdaten per OCR übernehmen'
-        text: 'Mit OCR lesen Sie Inhalte aus eingescannten Aufträgen, unterschriebenen Bestätigungen oder ergänzenden Unterlagen direkt aus. Die KI erkennt Namen, Datumsangaben, Beträge oder Nummern und ergänzt diese in Ihrer digitalen Auftragsbestätigung Vorlage. So lassen sich auch manuelle Dokumente sauber in digitale Workflows integrieren.'
+        text: 'Mit OCR lesen Sie Inhalte aus abfotografierten Aufträgen, unterschriebenen Bestätigungen oder ergänzenden Bildern direkt aus. Die KI erkennt Namen, Datumsangaben, Beträge oder Nummern und ergänzt diese in Ihrer digitalen Auftragsbestätigung Vorlage. So lassen sich auch manuelle Dokumente sauber in digitale Workflows integrieren.'
         icon: image
       - headline: 'Auftragsstatus zusammenfassen'
         text: 'Mit Summarize erstellt die KI kurze Statusberichte zu offenen Freigaben, bestätigten Aufträgen oder kritischen Verzögerungen. Zahlen, Kommentare und Statuswerte aus Ihrer Auftragsbestätigung Vorlage werden verdichtet und verständlich aufbereitet. Das erleichtert Abstimmungen im Projektmanagement und beschleunigt operative Entscheidungen.'

@@ -149,7 +149,7 @@ sections:
         text: 'Mit Extract lesen Sie Daten aus Urlaubsanträgen, Krankmeldungen oder E-Mails automatisch aus und übertragen sie strukturiert in Ihre Zeiterfassungsvorlage. So reduzieren Sie manuellen Aufwand und sichern eine lückenlose, aktuelle Datengrundlage.'
         icon: layer-group
       - headline: 'Dokumentenerfassung mit OCR'
-        text: 'Mit OCR erfassen Sie Inhalte aus hochgeladenen Bildern, etwa Krankmeldungen oder eingescannten Stundenzetteln, automatisch und verknüpfen sie direkt mit den passenden Einträgen. So digitalisieren und automatisieren Sie Ihre Prozesse Schritt für Schritt.'
+        text: 'Mit OCR erfassen Sie Inhalte aus hochgeladenen Bildern, etwa Krankmeldungen oder Stundenzetteln, automatisch und verknüpfen sie direkt mit den passenden Einträgen. So digitalisieren und automatisieren Sie Ihre Prozesse Schritt für Schritt.'
         icon: image
       - headline: 'Zusammenfassungen für HR-Reports'
         text: 'Mit Summarize erstellen Sie aus Ihren Arbeitszeitdaten automatisch kurze Zusammenfassungen, zum Beispiel zu Überstundenentwicklung, Abwesenheitsquoten oder Auslastung einzelner Teams. Diese Auswertungen erleichtern Management-Reports und Mitarbeitergespräche.'

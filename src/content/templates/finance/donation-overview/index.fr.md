@@ -134,8 +134,8 @@ sections:
       - headline: 'Extraire les données'
         text: 'Avec Extract, vous reprenez les informations utiles des e-mails, textes de formulaires ou notes de paiement directement dans les bons champs. L’IA reconnaît montant, date, affectation, interlocuteur ou type de don et accélère ainsi la comptabilité préparatoire et la création de justificatifs.'
         icon: layer-group
-      - headline: 'Saisir les documents par OCR'
-        text: 'Avec OCR, vous extrayez automatiquement les informations de justificatifs de virement photographiés ou de documents transmis. L’IA extrait données des donateurs, montants et références, afin de réduire les données à saisir et à vérifier manuellement.'
+      - headline: 'Numériser des images par OCR'
+        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez extraire automatiquement les informations contenues dans des justificatifs de virement ou des documents photographiés. L'IA extrait les données des donateurs, les montants et les références, ce qui réduit le nombre de données à saisir et à vérifier manuellement."
         icon: image
       - headline: 'Résumer les dons reçus'
         text: 'Avec Summarize, l’IA crée de brefs aperçus des attestations ouvertes, des nouveaux dons, de l’état des projets ou des évolutions notables. Trésoriers et finance analysts repèrent ainsi plus vite l’essentiel et gardent la gestion des dons à jour sans examen fastidieux.'

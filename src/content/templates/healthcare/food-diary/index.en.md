@@ -134,7 +134,7 @@ sections:
         text: 'Have entries automatically classified into categories like "Breakfast," "Snack," "High Sugar," or "Suspicious symptoms." This helps you recognize patterns in your eating behavior faster and discuss them more specifically with experts.'
         icon: table
       - headline: 'Automatic Text Recognition with OCR'
-        text: 'Scan or photograph food packaging, handouts from nutritionists, or plans from clinics and have relevant information recognized automatically. The OCR function reads text from images and makes it available for further analysis.'
+        text: 'Take photos of food packaging, nutrition counseling handouts, or hospital charts, and have the system automatically recognize relevant information. The OCR feature extracts text from images and makes it available for further analysis.'
         icon: image
       - headline: 'Intelligent Data Extraction'
         text: 'Use the Extract function to pull specific information like calorie counts, allergens, or recommended daily amounts from texts and write them into dedicated columns. This reduces manual effort and ensures consistent data structures.'

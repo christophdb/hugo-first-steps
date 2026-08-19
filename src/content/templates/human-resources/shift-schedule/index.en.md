@@ -131,8 +131,8 @@ sections:
       - headline: 'Read requests in structure'
         text: 'With Extract, you pull information from leave requests, availability or sick notes automatically and transfer it into your shift schedule template. This makes absence management and staff planning more consistent, noticeably faster and far less prone to manual data-entry errors.'
         icon: layer-group
-      - headline: 'Capture documents via OCR'
-        text: 'With OCR, you digitize photos of notices or scanned documents and move the relevant content into your online shift scheduler. You reduce media breaks, keep plans current at all times and document every change traceably in one central, reliable and audit-ready place.'
+      - headline: 'Capture Images Using OCR'
+        text: 'With OCR, you can digitize items such as photos of posted notices or documents and transfer relevant content into your online shift scheduler. This helps you reduce media discontinuities, keep schedules up to date, and document changes in a traceable manner all in one place.'
         icon: image
       - headline: 'Summarize plans at a glance'
         text: 'With Summarize, the AI creates short overviews of open shifts, unusual weekly hours, absences or bottlenecks. Managers and HR get a clear, readable summary in seconds, without reviewing every single duty roster manually line by line before making a staffing decision.'

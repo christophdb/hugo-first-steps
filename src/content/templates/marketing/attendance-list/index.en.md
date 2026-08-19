@@ -137,7 +137,7 @@ sections:
         text: 'With Extract, you can transfer content from registration lists, emails, or existing documents into your participant list template in a structured format. The AI recognizes names, contact information, and course assignments, and automatically fills in the appropriate columns.'
         icon: layer-group
       - headline: 'OCR for signatures & ID cards'
-        text: 'With OCR, you can extract content from photos and scans—such as signed attendance sheets, ID information, or participant badges. The AI recognizes names, ID numbers, or course assignments directly from image files and transfers them to your attendance sheet template, allowing even analog check-ins and access controls to be seamlessly integrated into your digital attendance management system.'
+        text: 'With OCR, you can extract content from photos—such as signed attendance sheets, ID information, or participant badges. The AI recognizes names, ID numbers, or course assignments directly from image files and transfers them to your attendance list template, so that even analog check-ins and access controls are seamlessly integrated into your digital attendance management system.'
         icon: image
       - headline: 'Summaries for reports and documentation'
         text: 'With Summarize, you can automatically generate brief summaries from your attendance data—for example, attendance rates by course, department, or event. The AI aggregates table values and provides concise reports that you can use for seminar management, HR reporting, or certificate overviews.'

@@ -139,7 +139,7 @@ sections:
         text: 'Con Extract, puede extraer automáticamente información como costes, kilometraje o tipos de daños de facturas de taller, informes de daños o correos electrónicos. Los valores reconocidos se introducen de forma estructurada en los campos de su tabla, lo que facilita considerablemente las evaluaciones y el control de costes.'
         icon: layer-group
       - headline: 'Reconocimiento de texto con OCR'
-        text: 'Con OCR, puede reconocer automáticamente textos de facturas, protocolos de entrega o libros de ruta escaneados e importar el contenido directamente a su resumen digital de la flota. De este modo, tendrá a su disposición matrículas, importes, kilómetros o datos sin necesidad de teclearlos manualmente.'
+        text: 'Con el OCR, podrá **reconocer automáticamente textos a partir de imágenes de facturas, actas de entrega o libros de ruta** e incorporar el contenido directamente a su resumen digital de la flota. De este modo, dispondrá de matrículas, importes, kilómetros o fechas sin necesidad de introducirlos manualmente.'
         icon: image
       - headline: 'Resúmenes automatizados con Summarize'
         text: 'Con Summarize, puede resumir automáticamente en pocas frases extensos expedientes de siniestros, historiales de correos electrónicos con talleres o informes mensuales. Podrá captar más rápidamente la esencia de procesos complejos y preparar decisiones o actualizaciones de gestión de forma mucho más eficiente.'

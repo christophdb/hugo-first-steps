@@ -134,7 +134,7 @@ sections:
         text: 'Clasifique automáticamente las entradas por categorías como "desayuno", "snack", "alto contenido de azúcar" o "sospechoso por molestias". Así identificará más rápido patrones en su comportamiento alimentario y podrá hablar de ello con expertos de forma más específica.'
         icon: table
       - headline: 'Reconocimiento automático de texto con OCR'
-        text: 'Escanee o fotografíe envases de alimentos, folletos de nutricionistas o planes de clínicas y deje que la información relevante se reconozca automáticamente. La función OCR extrae textos de imágenes y los pone a disposición para análisis posteriores.'
+        text: 'Haga fotos de envases de alimentos, folletos de asesoramiento nutricional o planes de clínicas y deje que el sistema detecte automáticamente la información relevante. La función OCR extrae el texto de las imágenes y lo pone a disposición para su posterior análisis.'
         icon: image
       - headline: 'Extracción inteligente de datos con Extract'
         text: 'Con la función Extract, puede extraer información específica como calorías, alérgenos o cantidades diarias recomendadas de los textos y escribirla en sus propias columnas. Esto reduce el esfuerzo manual y garantiza estructuras de datos uniformes.'

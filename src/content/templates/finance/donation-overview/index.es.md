@@ -134,8 +134,8 @@ sections:
       - headline: 'Extraiga datos de comprobantes'
         text: 'Con Extract incorpora los datos relevantes de correos, textos de formularios o notas de pago directamente a los campos adecuados. La IA reconoce importe, fecha, finalidad, persona de contacto o tipo de donación y agiliza así la contabilidad previa y la creación de comprobantes.'
         icon: layer-group
-      - headline: 'Capture documentos con OCR'
-        text: 'Con OCR lee automáticamente la información de comprobantes de transferencia fotografiados o documentos enviados. La IA extrae datos de donantes, importes y referencias, de modo que haya que transferir y comprobar menos datos de forma manual.'
+      - headline: 'Capturar imágenes mediante OCR'
+        text: 'Con el OCR, puede extraer automáticamente la información de los comprobantes de transferencia o documentos fotografiados. La inteligencia artificial extrae los datos de los donantes, los importes y las referencias, lo que reduce la necesidad de introducir y comprobar datos manualmente.'
         icon: image
       - headline: 'Resuma las donaciones'
         text: 'Con Summarize la IA crea resúmenes breves sobre certificados abiertos, nuevas donaciones, estado de los proyectos o desarrollos llamativos. Así tesoreros y finance analysts detectan antes lo relevante y mantienen al día la gestión de donaciones sin revisiones costosas.'

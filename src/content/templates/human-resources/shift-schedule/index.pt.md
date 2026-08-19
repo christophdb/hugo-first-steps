@@ -132,8 +132,8 @@ sections:
       - headline: 'Ler pedidos de forma clara'
         text: 'Com o Extract, lê automaticamente as informações de pedidos de férias, disponibilidades ou baixas médicas e transfere-as para o seu modelo de escala de turnos. Assim, a gestão de ausências e o planeamento de pessoal tornam-se mais consistentes, rápidos e menos sujeitos a erros.'
         icon: layer-group
-      - headline: 'Capturar documentos com OCR'
-        text: 'Com o OCR, digitaliza, por exemplo, fotografias de avisos ou documentos digitalizados e passa os conteúdos relevantes para o seu planeamento de turnos online. Assim, reduz quebras de suporte, mantém os planos atualizados e documenta as alterações de forma clara num só lugar.'
+      - headline: 'Capturar imagens através de OCR'
+        text: 'Com o OCR, pode digitalizar, por exemplo, fotografias de avisos afixados ou documentos e transferir os conteúdos relevantes para o seu planeador de turnos online. Desta forma, reduz as descontinuidades entre formatos, mantém os planos atualizados e documenta as alterações de forma compreensível num único local.'
         icon: image
       - headline: 'Resumir o estado do plano'
         text: 'Com o Summarize, a IA cria resumos curtos sobre turnos por preencher, horas semanais fora do normal, faltas ou falta de pessoal. Assim, chefes de turno e RH recebem em segundos um resumo claro, sem terem de verificar manualmente cada mapa de turnos de forma individual.'
