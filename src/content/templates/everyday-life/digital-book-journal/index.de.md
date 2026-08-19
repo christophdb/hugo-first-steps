@@ -80,7 +80,7 @@ sections:
       - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.' 
       image_position: [left]
       image: '/images/template_page_bookjournal_01.png'
-      image_alt: 'Book Journal Vorlage mit Fragenliste für strukturierte Rezensionen'   
+      image_alt: 'Book Journal Vorlage mit Fragenliste für strukturierte Rezensionen'    
 
     - name: "content-25"
       weight: 10
@@ -96,11 +96,12 @@ sections:
         image: '/images/template_page_bookjournal_03.png'
         image_alt: 'Book Journal Vorlage mit einer übersichtlichen Leseliste mit Rating und Lesedatum'
       - headline: 'Strukturierte Rezensionen schreiben'
+      <!-- Rezensionen ist im folgenden Satz fälschlicherweise im Plural -->
         text: 'Verfassen Sie zu jedem beendeten Buch eine strukturierte Rezensionen, **unterstützt durch gezielte Fragen**. Felder für Schreibstil & Spannung, Figurenentwicklung, Weltbau und Key Takeaways helfen Ihnen, Ihre Gedanken klar zu formulieren. '
         image: '/images/template_page_bookjournal_04.png'
         image_alt: 'Book Journal Vorlage mit Buch-Steckbriefen für Hintergrundinformationen'
       - headline: 'Battle of the Books'
-        text: 'Im „Battle of the Books“ tragen Sie Ihre Favoriten gegeneinander aus, bis ein Jahreshighlight feststeht – visualisiert mit einem Org-Chart-Plugin, das den Turnierbaum zeigt. So bleibt Ihre Book Journal Vorlage **spielerisch und motivierend, statt ein trockenes Archiv**.'
+        text: 'Im „Battle of the Books“ tragen Sie Ihre Favoriten gegeneinander aus, bis ein Jahreshighlight feststeht – visualisiert mit einem Org-Chart-Plugin, das den Turnierbaum zeigt. So bleibt Ihre Book Journal Vorlage **spielerisch und motivierend, statt ein trockenes Archiv**.' <!-- "statt ein trockenes Archiv" finde ich etwas holprig, vielleicht lieber "statt zu einem trockenen Archiv zu werden" -->
         image: '/images/template_page_bookjournal_05.png'
         image_alt: 'Book Journal Vorlage mit integriertem Battle-of-the-Books-Chart.'    
       
@@ -110,7 +111,7 @@ sections:
       buttons:
         - label: Jetzt testen
           link: pages/registration
-          id: de-vorlage-bookjounral-registration-2
+          id: de-vorlage-bookjounral-registration-2 <!-- ist "bookjounral" an dieser Stelle ein Tippfehler? -->
 
     - name: "content-6"
       weight: 15
@@ -131,7 +132,7 @@ sections:
       description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten KI-unterstützten Automatisierungen. So erweitern Sie Ihre Book Journal Vorlage um **smarte Hilfen für Rezensionen und Kategorisierung** – DSGVO-konform mit eigenem KI-Server in Deutschland.'
       items:
       - headline: 'Rezensionen verdichten'
-        text: 'Fassen Sie ausführliche Rezensionen zu kurzen pointierten Aussagen zusammen – etwa als Diskussionsgrundlage im Lesekreis oder als knappe Buchempfehlung für Social-Media.'
+        text: 'Fassen Sie ausführliche Rezensionen zu kurzen pointierten Aussagen zusammen – etwa als Diskussionsgrundlage im Lesekreis oder als knappe Buchempfehlung für Social Media.'
         icon: circle-info
       - headline: 'Bücher kategorisieren'
         text: 'Nutzen Sie "Classify", um Bucheinträge z. B. anhand von Kurzbeschreibungen in "Klassiker", "Bestseller" oder "Geheimtipp" zu klassifizieren.'
@@ -164,7 +165,7 @@ sections:
       - headline: Transparenz
         text: Sehen Sie auf einen Blick, wie viele Bücher Sie pro Monat lesen, welche Genres überwiegen, wie sich Ihre Bewertungen verteilen und welche Titel in Ihren Reading Challenges am häufigsten gewinnen.
       - headline: Flexibilität
-        text: Vergessen Sie verstreute Notizzettel, vorstrukturierte Notizbücher und starre Apps. Erstellen Sie Ihr digitales Buchjournal individuell nach Ihren Vorstellungen und erfassen Sie die Daten, die Sie, die  Sie brauchen.
+        text: Vergessen Sie verstreute Notizzettel, vorstrukturierte Notizbücher und starre Apps. Erstellen Sie Ihr digitales Buchjournal individuell nach Ihren Vorstellungen und erfassen Sie die Daten, die Sie, die  Sie brauchen. <!-- "die Sie" ist doppelt -->
 
     - name: "faq"
       weight: 20
@@ -178,7 +179,7 @@ sections:
       - q: Kann ich mein Book Journal mit Freunden teilen? 
         a: Ja, Sie können einzelne Ansichten oder die gesamte Base einfach mit anderen SeaTable-Nutzern teilen und Zugriffsrechte vergeben. So nutzen Sie die Book Journal Vorlage gemeinsam im Lesekreis, sehen, wer welches Buch gelesen hat und tauschen Rezensionen und Diskussionsnotizen aus.
       - q: Eignet sich die Book Journal Vorlage auch für Einsteiger, die ihr Book Journal selber machen möchten? 
-        a: Auf jeden Fall. Die App für gelesene Bücher so angelegt, dass Sie sofort starten können. Gleichzeitig können Sie bei Bedarf Spalten hinzufügen oder entfernen, wenn Sie Ihr eigenes Book Journal selber machen und nach und nach verfeinern möchten. 
+        a: Auf jeden Fall. Die App für gelesene Bücher so angelegt, dass Sie sofort starten können. <!-- "ist" fehlt vor "so angelegt" --> Gleichzeitig können Sie bei Bedarf Spalten hinzufügen oder entfernen, wenn Sie Ihr eigenes Book Journal selber machen und nach und nach verfeinern möchten. 
       - q: Ist die Vorlage kostenlos nutzbar?
         a: Ja, Sie können unsere Book Journal Vorlage und die dazugehörige App für gelesene Bücher dauerhaft kostenlos nutzen. Dafür benötigen Sie lediglich einen unbefristet kostenlosen SeaTable Free-Account.
       - q: Kann ich SeaTable auch als privates Bibliotheksverzeichnis nutzen? 
