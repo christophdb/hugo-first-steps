@@ -72,7 +72,7 @@ sections:
          - [bg-gray-200, bg-seatable-blue]
        title: 'Glow-up planen und dokumentieren leicht gemacht'
        subtitle: 'Mit SeaTable zu echten Selfcare-Routinen'
-       description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie ein Tool für Ihr Glow-up, das über klassische Selfcare-Journale hinausgeht. Sie können nicht nur eine Glow-up-Checkliste erstellen oder eine **Datenbank für Routinen, Workouts und Produkte** aufbauen, sondern sie auch **mit anderen Self-Improvement-Enthusiasten teilen**. So schaffen Sie mit einem zentralen Tool die Basis für Ihr ganz persönliches Level-up.'
+       description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie ein Tool für Ihr [Glow-up]({{< relref "posts/glow-up" >}}), das über klassische Selfcare-Journale hinausgeht. Sie können nicht nur eine Glow-up-Checkliste erstellen oder eine **Datenbank für Routinen, Workouts und Produkte** aufbauen, sondern sie auch **mit anderen Self-Improvement-Enthusiasten teilen**. So schaffen Sie mit einem zentralen Tool die Basis für Ihr ganz persönliches Level-up.'
        items:
        - text: '**Digitale Datenbank statt Notizzetteln**: Erfassen Sie jede Routine, jedes Workout und jede Reflexion direkt digital und verknüpfen Sie Produkte, Ziele und Beobachtungen ohne Tool-Brüche in Ihrem Selfcare-Planer.'
        - text: '**Immer griffbereit**: Sie können Ihren Glow-up-Planer jederzeit und von überall aufrufen, um z. B. Ihre Glow-up-Checkliste zu aktualisieren und Gewohnheiten digital zu tracken.'
