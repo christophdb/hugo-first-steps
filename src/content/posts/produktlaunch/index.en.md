@@ -19,6 +19,8 @@ Once you have successfully completed the product development process, nothing st
 
 While the development process is already very well structured in most companies, too little attention is usually paid to the product launch process. Have you really completed all the necessary steps and forgotten nothing? With our [template]({{< relref "templates/it-engineering/product-launch" >}}) and these [5 tips](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nothing stands in the way of a successful product launch!
 
+{{< template-box id="61e4639f122f45a2bcba" >}}
+
 ## Structure of our product launch template
 
 Our product launch template consists of three linked tables. Let's take a closer look at them:

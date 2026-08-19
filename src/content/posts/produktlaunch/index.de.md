@@ -17,6 +17,8 @@ Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht ei
 
 Während der Prozess der Entwicklung bei den meisten Unternehmen schon sehr gut strukturiert ist, wird dem Produkteinführungsprozess meist zu wenig Aufmerksamkeit geschenkt. Haben Sie wirklich alle notwendigen Schritte absolviert und nichts vergessen? Mit unserem [Template]({{< relref "templates/it-engineering/product-launch" >}}) und diesen [5 Tipps](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/) steht einem erfolgreichen Produktlaunch nichts mehr im Wege!
 
+{{< template-box id="61e4639f122f45a2bcba" >}}
+
 ## Aufbau unseres Produktlaunch-Templates
 
 Unser Produktlaunch-Template besteht aus drei verknüpften Tabellen. Schauen wir uns diese einmal genauer an:

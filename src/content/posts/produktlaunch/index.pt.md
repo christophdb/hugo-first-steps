@@ -19,6 +19,8 @@ Uma vez concluído com sucesso o processo de desenvolvimento do produto, nada se
 
 Embora o processo de desenvolvimento já esteja muito bem estruturado na maioria das empresas, é normalmente dada muito pouca atenção ao processo de lançamento do produto. Concluiu realmente todos os passos necessários e não se esqueceu de nada? Com o nosso [modelo]({{< relref "templates/it-engineering/product-launch" >}}) e estas [5 dicas](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada impede o lançamento de um produto de sucesso!
 
+{{< template-box id="61e4639f122f45a2bcba" >}}
+
 ## Estrutura do nosso modelo de lançamento de produtos
 
 O nosso modelo de lançamento de produto consiste em três tabelas ligadas. Vamos dar-lhes uma olhadela mais atenta:

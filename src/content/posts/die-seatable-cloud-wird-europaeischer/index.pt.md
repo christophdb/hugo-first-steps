@@ -7,7 +7,7 @@ author: 'cdb'
 url: '/pt/seatable-cloud-mais-europeia'
 aliases:
     - /pt/die-seatable-cloud-wird-europaeischer
-color: 'e86569'
+color: '#e86569'
 categories:
     - 'product-features'
 seo:
@@ -15,19 +15,21 @@ seo:
     description: 'Agora com infraestrutura europeia, SeaTable oferece mais proteção e conformidade de dados.'
 ---
 
-Com o SeaTable, você gerencia e organiza projetos, clientes, ativos, ideias e resultados de trabalho de todos os tipos. Assim, você confia ao SeaTable os dados centrais e mais importantes da sua empresa ou equipe. O fato de que a proteção dos seus dados é muito importante para nós fica evidente pelo fato de sermos o único fornecedor de soluções de planilhas online que oferece aos clientes a possibilidade de operar seu próprio [Servidor SeaTable]({{< relref "pages/product/seatable-server" >}}). Só assim você mantém controle total e soberania absoluta sobre seus dados. Mas também para nossos clientes em nuvem, aplicamos os mais altos padrões de segurança para seus dados.
+Com o SeaTable, gerencia e organiza [projetos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), [clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}), ativos, ideias e resultados de trabalho de todos os tipos. Assim, confia ao SeaTable os dados centrais e mais importantes da sua empresa ou equipe. O fato de que a proteção dos seus dados é muito importante para nós fica evidente pelo fato de sermos o único fornecedor de soluções de planilhas online que oferece aos clientes a possibilidade de operar seu próprio [Servidor SeaTable]({{< relref "pages/product/seatable-server" >}}). Só assim mantém controle total e soberania absoluta sobre seus dados. Mas também para nossos clientes em nuvem, aplicamos os mais altos padrões de segurança para seus dados.
 
-Até agora, utilizávamos os serviços da AWS como base para nossa plataforma em nuvem. AWS significa Amazon Web Services, o provedor de computação em nuvem, bancos de dados e armazenamento de dados da Amazon. Empresas em todo o mundo confiam na líder de mercado AWS, pois ela oferece uma enorme gama de funções e uma disponibilidade global confiável a preços competitivos. No entanto, isso não muda o fato de a Amazon ser uma empresa americana, sujeita a leis e decisões judiciais dos EUA, que, em princípio, permitem às autoridades americanas o acesso a servidores fora dos Estados Unidos.
+Até agora, utilizávamos os serviços da AWS como base para nossa plataforma em nuvem. AWS significa Amazon Web Services, o provedor de [computação em nuvem]({{< relref "posts/cloud-computing" >}}), [bancos de dados]({{< relref "posts/vorteile-von-datenbanken" >}}) e armazenamento de dados da Amazon. Empresas em todo o mundo confiam na líder de mercado AWS, pois ela oferece uma enorme gama de funções e uma disponibilidade global confiável a preços competitivos. No entanto, isso não muda o fato de a Amazon ser uma empresa americana, sujeita a leis e decisões judiciais dos EUA, que, em princípio, permitem às autoridades americanas o acesso a servidores fora dos Estados Unidos.
 
 ## AWS dificilmente compatível com a proteção de dados europeia
 
-O SeaTable tem suas raízes e sede em Mainz. Nós nos consideramos uma empresa europeia e, embora atuemos globalmente, vemos nosso mercado principal na Europa, onde o interesse por soluções seguras e em conformidade com a proteção de dados é geralmente mais difundido do que no resto do mundo. Portanto, para nós faz todo sentido operar nossa solução em nuvem também em uma infraestrutura europeia.
+O SeaTable tem suas raízes e sede em Mainz. Nós nos consideramos uma empresa europeia e, embora atuemos globalmente, vemos nosso mercado principal na Europa, onde o interesse por soluções seguras e em conformidade com a proteção de dados é geralmente mais difundido do que no resto do mundo. Portanto, para nós faz todo sentido operar nossa solução em nuvem também em uma [infraestrutura]({{< relref "posts/it-infrastruktur" >}}) europeia.
 
 **Por isso, decidimos que, a partir de hoje, 20 de maio de 2021, nossa plataforma em nuvem será migrada da AWS para o provedor suíço [Exoscale](https://www.exoscale.com/)**.
 
 Para nossos clientes, nada muda por enquanto. A URL [cloud.seatable.io](https://cloud.seatable.io) permanece a mesma, a plataforma continua com a mesma aparência. Os arquivos e bancos de dados reais dos nossos clientes atuais na nuvem serão transferidos apenas alguns quilômetros, já que tanto os data centers da AWS quanto os da Exoscale estão localizados em Frankfurt.
 
-Ainda assim, é um grande passo deixar o principal provedor americano de infraestrutura e mudar para uma empresa suíça. Isso garante a você e a nós que seus dados estarão, a partir de agora, melhor protegidos e sujeitos às exigências europeias de proteção de dados.
+Ainda assim, é um grande passo deixar o principal provedor americano de infraestrutura e mudar para uma empresa suíça. Isso lhe garante, e a nós, que seus dados estarão, a partir de agora, melhor protegidos e sujeitos às exigências europeias de proteção de dados.
+
+![Proteção de dados europeia em vez de dependência americana](seatable-europa-aws-exoscale-migraton.jpg)
 
 ## Por que Exoscale em vez de AWS?
 
@@ -46,15 +48,15 @@ Com a Exoscale, encontramos um provedor que atende a todos os nossos requisitos 
 
 No futuro, para nossa oferta em nuvem do SeaTable, utilizaremos os seguintes serviços da Exoscale:
 
-- banco de dados SQL em cluster para suas bases SeaTable
+- [banco de dados SQL]({{< relref "posts/relationale-datenbank" >}}) em cluster para suas bases SeaTable
 - armazenamento de objetos S3 para seus arquivos
 - distribuição de acesso por meio de um load balancer dedicado
 - backups geograficamente separados em Frankfurt e Munique
 
 ## Exoscale: nossa recomendação para sistemas dedicados futuros
 
-Para empresas que não desejam operar seu próprio servidor, também oferecemos a opção de configurar um sistema SeaTable dedicado. Assim, a empresa recebe seu próprio servidor, com possibilidade de customização e acesso por uma URL própria. Ao mesmo tempo, assumimos a manutenção e o suporte do sistema em nome do cliente. Em um sistema dedicado, naturalmente levamos em consideração as preferências do cliente na escolha da infraestrutura necessária, mas no futuro recomendaremos a Exoscale como provedor preferencial. Se nossa configuração atual do cloud.seatable.io na Exoscale pode suportar milhares de acessos simultâneos, isso deve ser suficiente para qualquer cliente.
+Para empresas que não desejam operar seu próprio servidor, também oferecemos a opção de configurar um sistema SeaTable dedicado. Assim, a empresa recebe seu próprio servidor, com possibilidade de customização e acesso por uma URL própria. Ao mesmo tempo, assumimos a manutenção e o suporte do sistema em nome do cliente. Em um [sistema dedicado]({{< relref "pages/product/seatable-dedicated" >}}), naturalmente levamos em consideração as preferências do cliente na escolha da infraestrutura necessária, mas no futuro recomendaremos a Exoscale como provedor preferencial. Se nossa configuração atual do cloud.seatable.io na Exoscale pode suportar milhares de acessos simultâneos, isso deve ser suficiente para qualquer cliente.
 
 ## A migração da AWS para a Exoscale é um passo importante em direção à infraestrutura europeia
 
-Com a migração da AWS para a Exoscale, os dados dos clientes passarão a estar sob responsabilidade de uma empresa suíça e em um data center alemão. Este é um passo importante em relação à proteção de dados, soberania dos dados, GDPR da UE e Privacy Shield. No entanto, nossas considerações não terminam aqui. Queremos, sempre que possível, continuar priorizando provedores europeus para nossa TI central. Já estamos nos preparando para substituir nossa atual plataforma de marketing por e-mail, ActiveCampaign, pela [Sendinblue da França](https://www.brevo.com/). Também informaremos assim que essa mudança for concluída.
+Com a migração da AWS para a Exoscale, os dados dos clientes passarão a estar sob responsabilidade de uma empresa suíça e em um data center alemão. Este é um passo importante em relação à proteção de dados, [soberania dos dados]({{< relref "posts/digitale-souveraenitaet" >}}), GDPR da UE e Privacy Shield. No entanto, nossas considerações não terminam aqui. Queremos, sempre que possível, continuar priorizando provedores europeus para nossa TI central. Já estamos nos preparando para substituir nossa atual plataforma de marketing por e-mail, ActiveCampaign, pela [Brevo, da França](https://www.brevo.com/). Também informaremos assim que essa mudança for concluída.
