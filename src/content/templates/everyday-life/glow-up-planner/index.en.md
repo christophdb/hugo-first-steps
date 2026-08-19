@@ -74,7 +74,7 @@ sections:
          - [bg-gray-200, bg-seatable-blue]
        title: 'Planning and documenting your glow up made easy'
        subtitle: 'Real selfcare routines'
-       description: 'With the [AI no-code platform]({{< relref "/" >}}) SeaTable you use a tool for your glow up that goes far beyond classic selfcare journals. You can not only create a glow up checklist or build a **database for routines, workouts and products**, but also **share it with other self-improvement enthusiasts**. With one central tool you create the basis for your very own level-up: flexible enough to grow with every new habit, and structured enough to keep your daily routine reliable instead of leaving it to chance every single day.'
+       description: 'With the [AI no-code platform]({{< relref "/" >}}) SeaTable you use a tool for your [glow up]({{< relref "posts/glow-up" >}}) that goes far beyond classic selfcare journals. You can not only create a glow up checklist or build a **database for routines, workouts and products**, but also **share it with other self-improvement enthusiasts**. With one central tool you create the basis for your very own level-up: flexible enough to grow with every new habit, and structured enough to keep your daily routine reliable instead of leaving it to chance every single day.'
        items:
        - text: '**A digital database instead of sticky notes**: record every routine, every workout and every reflection digitally and link products, goals and observations in your selfcare planner without switching between tools.'
        - text: '**Always at hand**: you can open your glow up planner anytime and anywhere, for example to update your glow up checklist after your evening routine and track habits digitally while they are still fresh.'
