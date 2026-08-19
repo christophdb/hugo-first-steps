@@ -1,5 +1,5 @@
 ---
-title: 'How to: Wie Sie einen Maßnahmenplan für das ganze Jahr erstellen'
+title: 'Wie Sie einen Maßnahmenplan für das ganze Jahr erstellen'
 description: 'So erstellen Sie einen effizienten Maßnahmenplan für das ganze Jahr: Nutzen Sie übersichtliche Kalender, Verantwortlichkeiten, Statusanzeigen & verknüpfen Sie Jahresziele mit Aktionen. Inklusive kostenloser Vorlage & Anleitung.'
 date: 2021-05-04
 categories:
@@ -18,27 +18,23 @@ Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue
 
 ## Was ist ein Maßnahmenplan?
 
-Für das Erreichen von Zielen innerhalb von Unternehmen ist ein Maßnahmenplan ein sehr mächtiges Werkzeug. Die Übersicht im Plan dient zur Strukturierung von Aktivitäten und hält fest, wann diese von wem unter welchen Bedingungen und wo genau stattfinden sollen. Es kann also quasi als eine Art [To-Do-Liste]({{< relref "posts/to-do-liste-online" >}}) und Kommunikationsmittel für das gesamte Unternehmen verstanden werden. Für verschiedene Ziele können so unterschiedliche Maßnahmen festgelegt werden, an denen sich die Mitarbeiter im Unternehmen orientieren können und mit denen konkret gearbeitet wird. So bleiben Ziele nicht nur Visionen, sondern werden mit den richtigen Anstrengungen und einem effizienten Maßnahmenplan im Nu zur Realität.
+Für das Erreichen von Zielen innerhalb von Unternehmen ist ein Maßnahmenplan ein sehr mächtiges Werkzeug. Die Übersicht im Plan dient zur Strukturierung von Aktivitäten und hält fest, wann diese von wem unter welchen Bedingungen und wo genau stattfinden sollen. Es kann also quasi als eine Art [To-do-Liste]({{< relref "posts/to-do-liste-online" >}}) und Kommunikationsmittel für das gesamte Unternehmen verstanden werden. Für verschiedene Ziele können so unterschiedliche Maßnahmen festgelegt werden, an denen sich die Mitarbeiter im Unternehmen orientieren können und mit denen konkret gearbeitet wird. So bleiben Ziele nicht nur Visionen, sondern werden mit den richtigen Anstrengungen und einem effizienten Maßnahmenplan im Nu zur Realität.
 
 ### Und warum ist ein Maßnahmenplan wichtig für Unternehmen?
 
-Der Plan hilft bei der Umsetzung der Unternehmensstrategie auf vielen Ebenen und bietet Orientierung für alle. Denn wie sonst sollen Mitarbeiter wissen, was genau zu tun ist? Ohne einen Plan können verfolgte Ziele nur sehr schwer erreicht werden, weshalb eine gesammelte Aktivitätenplanung sehr wichtig ist. Es muss dabei auch nicht immer um das gesamte Unternehmen oder die Jahresplanung gehen. Maßnahmenpläne können auch abteilungsweise genutzt werden, etwa zur Steigerung der Mitarbeiterzufriedenheit oder für Fortschritte im Change Management. Im Großen bieten Maßnahmenpläne diese ausschlaggebenden Vorteile:
+Der Plan hilft bei der **Umsetzung der Unternehmensstrategie** auf vielen Ebenen und bietet **Orientierung** für alle. Denn wie sonst sollen Mitarbeiter wissen, was genau zu tun ist? Ohne einen Plan können verfolgte Ziele nur sehr schwer erreicht werden, weshalb eine gesammelte Aktivitätenplanung sehr wichtig ist. Es muss dabei auch nicht immer um das gesamte Unternehmen oder die Jahresplanung gehen. Maßnahmenpläne können auch abteilungsweise genutzt werden, etwa zur Steigerung der Mitarbeiterzufriedenheit oder für Fortschritte im [Change Management]({{< relref "posts/change-management" >}}). 
 
-### Übersichtliche Struktur
+Im Großen und Ganzen bieten Maßnahmenpläne diese ausschlaggebenden **Vorteile**:
 
-Ein Maßnahmenplan hilft den Mitarbeitern und dem Unternehmen alle Maßnahmen und Termine strukturiert im Blick zu behalten.
-
-### Effiziente Abläufe und Workflows
-
-Es hilft immer den Elefanten in kleine Scheiben zu schneiden. Durch einen übersichtlichen Maßnahmenplan werden Abläufe und Workflows effizienter.
-
-Jede Aufgabe und jede Maßnahme braucht eine klare Verantwortlichkeit. Der Maßnahmenplan hilft dabei diese Zuständigkeit von Mitarbeiter zur Aufgabe festzulegen und für jeden transparent zu machen.
+- **Übersichtliche Struktur**: Ein Maßnahmenplan hilft den Mitarbeitern und dem Unternehmen alle Maßnahmen und Termine strukturiert im Blick zu behalten.
+- **Effiziente Abläufe und Workflows**: Es hilft immer, Mammutaufgaben in kleine Scheiben zu schneiden. Durch einen übersichtlichen Maßnahmenplan werden Abläufe und Workflows effizienter.
+- **Klare Zuständigkeiten**: Jede Aufgabe und jede Maßnahme braucht eine klare Verantwortlichkeit. Der Maßnahmenplan hilft dabei diese Zuständigkeit von Mitarbeitern zur Aufgabe festzulegen und für jeden transparent zu machen.
 
 ## Maßnahmenplan als vielseitiges Tool
 
-Ein Maßnahmenplan kann unternehmensübergreifend angesetzt werden, wenn Unternehmensziele im Großen formuliert werden. Er kann aber auch im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) vielseitig eingesetzt werden, und das in den verschiedensten Kontexten. Überall, wo es Projekte zu verwalten gibt, ist der Maßnahmenplan sinnvoll: Etwa kurzfristig, wenn in einem Workshop Maßnahmen für bestimmte Ziele erarbeitet werden sollen, zum Beispiel für die nächste Werbekampagne eines Produkts. Oder auch langfristig, wenn eine festgelegte Strategie verfolgt werden soll, wie etwa im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) oder in der Kommunikationsabteilung, wenn es um die strategische Kommunikation nach außen hin geht.
+Ein Maßnahmenplan kann unternehmensübergreifend angesetzt werden, wenn Unternehmensziele im Großen formuliert werden. Er kann aber auch im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) vielseitig eingesetzt werden, und das in den verschiedensten Kontexten. Überall, wo es Projekte zu verwalten gibt, ist der Maßnahmenplan sinnvoll: Etwa kurzfristig, wenn in einem Workshop Maßnahmen für bestimmte Ziele erarbeitet werden sollen, zum Beispiel für die nächste Werbekampagne eines Produkts. Oder auch langfristig, wenn eine festgelegte Strategie verfolgt werden soll, wie etwa im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) oder in der Kommunikationsabteilung, wenn es um die strategische Kommunikation nach außen geht.
 
-Unternehmen müssen ihren Auftritt nach außen hin sehr gut planen, und das am besten weit im Voraus. Es muss klar sein: Wann finden besondere Events statt, die wir kommunizieren müssen? Wann sind wichtige Termine und wer ist daran beteiligt? Dies geschieht meistens in der Marketing- oder Kommunikationsabteilung, in der die externe Kommunikation und Marketingmaßnahmen geplant und umgesetzt werden. Wie wichtig ein [Maßnahmenplan für das Unternehmen](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/externe-kommunikation/) und die PR-Strategie ist, darf nicht unterschätzt werden.
+Unternehmen müssen ihren Auftritt nach außen hin sehr gut planen, und das am besten weit im Voraus. Es muss klar sein: Wann finden besondere [Events]({{< relref "posts/veranstaltung-verwalten" >}}) statt, die wir kommunizieren müssen? Wann sind wichtige Termine und wer ist daran beteiligt? Dies geschieht meistens in der Marketing- oder Kommunikationsabteilung, in der die externe Kommunikation und Marketingmaßnahmen geplant und umgesetzt werden. Wie wichtig ein [Maßnahmenplan für das Unternehmen](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/externe-kommunikation/) und die PR-Strategie ist, darf nicht unterschätzt werden.
 
 Die Jahresplanung für Aktivitäten in Unternehmen muss rechtzeitig für das ganze Jahr erfolgen. Einen Maßnahmenplan für die Jahresplanung zu nutzen, kann hierbei sehr hilfreich sein – hier können nicht nur Jahresziele formuliert und festgelegt, sondern auch schon Ideen zur Umsetzung dieser gesammelt werden.
 
@@ -48,8 +44,8 @@ In der Kommunikationsabteilung von Unternehmen müssen die Kommunikationsaktivit
 
 - Pressemitteilungen
 - Advertorials
-- Social Media Beiträge
-- Get Together-Events mit Journalisten
+- [Social-Media-Beiträge]({{< relref "posts/redaktionsplan-social-media" >}})
+- Get-Together-Events mit Journalisten
 - Unternehmenszeitschrift
 - Werbekampagnen
 
@@ -61,17 +57,13 @@ Dabei kann ein Maßnahmenplan sehr gut Abhilfe schaffen. Dort sind all diese Ter
 
 Mit unserem [SeaTable Template für einen Maßnahmenplan]({{< relref "templates/projects/action-plan" >}}) haben Sie jeden Termin und jede Maßnahme immer im Blick. Gestalten Sie den Plan ganz nach Ihren Wünschen und Aktivitätenplanungen. Dabei können Sie Ihre Maßnahmen im gleichen Dokument im Handumdrehen mit Ihren (Jahres-)Zielen verbinden – so haben Sie alle Informationen an einem Ort gebündelt.
 
-Unser Template besteht im Wesentlichen aus einem 365-Tage-Kalender mit markierten Wochenenden und Feiertagen, in dem Sie alles rund um Ihre Planung problemlos eintragen können. Dies hat den Vorteil, dass Sie die Wochentage und Monate in einem ganzheitlichen Blick betrachten können. Das gibt eine bessere Übersicht darüber, wann und in welchen Zeitabständen ein besonderer Termin oder eine Maßnahme stattfinden soll und erleichtert die Jahresplanung. Für eine ausführliche Projektplanung sind in den Spalten Zeit, Ort, Verantwortliche Personen und Abteilungen sowie wichtige To-Do’s integriert. So kann der Ablauf einzelner Maßnahmen ganz genau geplant werden und wichtige Termine sind stets mit wenigen Klicks greifbar. Sie werden sehen: Mit SeaTable ist die Planung für das ganze Jahr perfekt strukturiert und organisiert.
+Unser Template besteht im Wesentlichen aus einem **365-Tage-Kalender mit markierten Wochenenden und Feiertagen**, in dem Sie alles rund um Ihre Planung problemlos eintragen können. Dies hat den Vorteil, dass Sie die Wochentage und Monate in einem ganzheitlichen Blick betrachten können. Das gibt eine bessere Übersicht darüber, wann und in welchen Zeitabständen ein besonderer Termin oder eine Maßnahme stattfinden soll und erleichtert die Jahresplanung. Für eine ausführliche Projektplanung sind die Spalten **Event, Ort, verantwortliche Abteilungen und Mitarbeiter sowie wichtige To-dos und Ziele** integriert. So kann der Ablauf einzelner Maßnahmen ganz genau geplant werden und wichtige Termine sind stets mit wenigen Klicks greifbar. Sie werden sehen: Mit SeaTable ist die Planung für das ganze Jahr perfekt strukturiert und organisiert.
 
-![Mit einem Maßnahmenplan im Kalenderformat haben Sie jederzeit einen Überblick über Ihre Maßnahmen](Overview.jpg)
-
-Die Übersicht im Maßnahmenplan
+{{< template-box id="f8cbffefa532432e9ca8" >}}
 
 Nicht nur Ihre Terminplanung findet hier Platz, sondern auch gleichzeitig Ihre geplanten Projekte und Ziele. Diese können Sie in einem weiteren Tabellenblatt anlegen und kontinuierlich Fortschritte dokumentieren. Das Praktische: Durch die Mitarbeiter-Spalte können Sie Aufgaben und Projekte direkt an die verantwortlichen Personen abgeben, um Chaos zu vermeiden. So gehen Sie sicher, dass alles rechtzeitig erledigt wird und alle Mitarbeiter wissen, was ihre Aufgaben sind. Damit sorgen Sie für einen idealen Workflow, bei dem nichts mehr verloren geht.
 
 ![Ihre Ziele können Sie in Ihrem Maßnahmenplan festhalten, um kontinuierlich daran zu arbeiten](Annual-Goals.jpg)
-
-Ziele in Ihrem Maßnahmenplan visualisieren und voranbringen
 
 Mit der Flexibilität von SeaTable und den vielen Gestaltungsmöglichkeiten ist die Erstellung eines Maßnahmenplans ein Kinderspiel. Ziele können übergreifend miteinander verbunden werden, ebenso sich jährlich wiederholende Termine oder Maßnahmen. Visionieren Sie damit Ihre Strategie und setzen Sie Ihre Pläne direkt und effektiv um.
 

@@ -1,6 +1,6 @@
 ---
-title: '5 Schritte zum Contentplan für Ihr Marketing: Expertentipps und Checkliste'
-description: 'In der heutigen Zeit ist eine Online-Präsenz entscheidend für den Erfolg Ihres Unternehmens. Über Social Media, Ihre Webseite, einen Blog oder Formate wie einen Podcast gilt es, regelmäßig Inhalte zu veröffentlichen. Das können zum Beispiel Artikel, Erklärvideos oder Infografiken sein. Ein Contentplan, auch Redaktionsplan genannt, hilft Ihnen bei der Planung und Erstellung all dieser Inhalte. '
+title: 'In 5 Schritten zum Contentplan für Ihr Marketing: Expertentipps und Checkliste'
+description: 'In der heutigen Zeit ist eine Online-Präsenz entscheidend für den Erfolg Ihres Unternehmens. Über Social Media, Ihre Webseite, einen Blog oder Formate wie einen Podcast gilt es, regelmäßig Inhalte zu veröffentlichen. Das können zum Beispiel Artikel, Erklärvideos oder Infografiken sein. Ein Contentplan, auch Redaktionsplan genannt, hilft Ihnen bei der Planung und Erstellung all dieser Inhalte. Lesen Sie im Folgenden, wie Sie Ihren Contentplan mit einer kostenlosen Vorlage ganz einfach erstellen können und worauf Sie dabei achten müssen.'
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
@@ -15,21 +15,17 @@ seo:
     description: 'Redaktionsplan effizient erstellen – mit Checkliste, Vorlage & Experten-Tipps für erfolgreichen Content.'
 ---
 
-In der heutigen Zeit ist eine Online-Präsenz entscheidend für den Erfolg Ihres Unternehmens. Über Social Media, Ihre Webseite, einen Blog oder Formate wie einen Podcast gilt es, regelmäßig Inhalte zu veröffentlichen. Das können zum Beispiel Artikel, Erklärvideos oder Infografiken sein. Ein Contentplan, auch Redaktionsplan genannt, hilft Ihnen bei der **Planung und Erstellung all Ihrer Inhalte**.
+## Welche Vorteile hat ein Contentplan?
 
-Lesen Sie im Folgenden, wie Sie **Ihren Contentplan mit einer kostenlosen Vorlage ganz einfach erstellen** können und worauf Sie dabei achten müssen.
-
-## Welche Vorteile hat ein Contentplan
-
-Die Nutzung eines übergreifenden Contentplans bringt einige Vorteile für Ihr Marketing mit sich:
+Es bringt einige Vorteile für Ihr Marketing mit sich, einen übergreifenden Contentplan zu erstellen und als Redaktionsplan zu nutzen. Hier nur fünf Aspekte:
 
 ### Der Content erscheint wie geplant
 
-Deadlines für Entwürfe und wichtige Veröffentlichungstermine behalten Sie mit einem Contentplan stets im Blick. Es ist klar, **wer welche Aufgaben bis wann erledigen** muss. Personelle Engpässe bei der Erstellung des Contentplans oder verpasste Fristen gehören damit der Vergangenheit an.
+Deadlines für Entwürfe und wichtige Veröffentlichungstermine behalten Sie mit einem Contentplan stets im Blick. Es ist klar, **wer welche Aufgaben bis wann erledigen** muss. [Personelle Engpässe]({{< relref "posts/personalplanung" >}}) oder verpasste Fristen bei der Content-Erstellung gehören damit der Vergangenheit an.
 
 ### Verantwortlichkeiten sind klar verteilt
 
-Jedem geplanten Beitrag sollten Sie einen Verantwortlichen zuweisen. So kann jeder im Team den **Redaktionsplan nach seinen To-dos filtern** und auf einen Blick sehen, was zu erledigen ist. Die **Abstimmung über mehrere Personen oder Abteilungen hinweg ist leichter**, wenn klar ist, wer an welchem Projekt beteiligt ist und wer noch Kapazitäten hat.
+Jedem geplanten Beitrag sollten Sie einen Verantwortlichen zuweisen. So kann jeder im Team den Redaktionsplan nach seinen [To-dos]({{< relref "posts/to-do-liste-online" >}}) filtern und auf einen Blick sehen, was zu erledigen ist. Die **Abstimmung über mehrere Personen oder Abteilungen hinweg ist leichter**, wenn klar ist, wer an welchem Projekt beteiligt ist und wer noch Kapazitäten hat.
 
 ![Marketingteam erstellt Redaktionsplan Vorlage.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
@@ -56,15 +52,15 @@ Als Nächstes geht es um die Wahl des passenden Rahmens für Ihren Contentplan. 
 - Wollen Sie komplexe Kampagnen steuern oder ausschließlich organischen Content posten?
 - Verfolgen Sie eine SEO-Strategie für die Inhalte?
 - Welche Teilaufgaben gehören zu der Content-Planung und welche Prozesse wollen Sie mit dem Plan für den Content abbilden?
-- Wie viele Parteien sollen über den Redaktionsplan zusammenarbeiten?
+- Wie viele Personen sollen über den Redaktionsplan zusammenarbeiten?
 - Benötigen Sie einen Kalender und automatische Erinnerungen?
 - Mit welchen Daten und Statistiken möchten Sie die Performance analysieren?
+
+Die Antworten auf die Fragen der Checkliste bestimmen den Aufbau und Umfang der benötigten Contentplan-Vorlage.
 
 ![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 Die Planung des Contents erfordert ein durchdachtes Konzept. Bildrechte: © Andrey Popov / Adobe Stock
-
-Die Antworten auf die Fragen der Checkliste bestimmen den Aufbau und Umfang der benötigten Contentplan-Vorlage.
 
 ## Contentplan erstellen in 5 Schritten
 
@@ -88,7 +84,7 @@ Nach der Definition der Ziele geht es darum, sich für die passenden Medien, Con
 
 Wichtige Medien für das Content Marketing sind üblicherweise **Ihre Webseite, Blogs, Suchmaschinen, Video- und Social-Media-Plattformen** wie zum Beispiel YouTube, Instagram, TikTok und Facebook. Welche Art von Beiträgen möchten Sie veröffentlichen? Wählen Sie zwischen **Text, Bild, Audio, Video** oder einem Mix aus mehreren Content-Arten. Je nachdem, welches Medium Sie wählen, ergeben sich daraus die möglichen Content-Formate. Zu den Content-Formaten zählen Blogartikel, YouTube-Videos, [Podcast-Episoden]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), Social-Media-Posts, Präsentationen, Webinare, White Paper, Infografiken, Newsletter und mehr.
 
-**Generell gilt:** Fokussieren Sie sich auf zwei bis drei Formate, in denen Sie besonders gut sind oder es werden möchten. Diese sollten auf die Nutzungsgewohnheiten und Erwartungen Ihrer Zielgruppe abgestimmt sein.
+{{< warning headline="Tipp" text="Fokussieren Sie sich zu Beginn auf zwei bis drei Formate, in denen Sie besonders gut sind oder es werden möchten. Diese sollten auf die Nutzungsgewohnheiten und Erwartungen Ihrer Zielgruppe abgestimmt sein." />}}
 
 ### 3\. Content-Mix und Frequenz festlegen
 
@@ -105,6 +101,8 @@ Legen Sie für die Contentplanung außerdem fest, **wann und wie oft Inhalte ver
 ### 4\. Einen Redaktionsplan erstellen
 
 Jetzt geht es an die konkrete Erstellung des Redaktionsplans. Mit dem richtigen Tool ist das kinderleicht. Wählen Sie zum Beispiel eine vorhandene Vorlage für Ihren Contentplan aus, passen Sie die Tabellen an Ihre eigenen Bedürfnisse an und fügen Sie Ihre Daten ein.
+
+{{< template id="62d7d05bf70348c080e8" >}}
 
 In Ihrem Content Plan sollten mindestens **Spalten für einen Arbeitstitel oder die Content-Idee sowie für den geplanten Veröffentlichungstermin enthalten**. Nützlich sind darüber hinaus Spalten für Dokumente und Bilder, den Bearbeitungsstatus, den Verantwortlichen, das Format, das Medium oder weitere Informationen.
 
@@ -136,11 +134,9 @@ Die Kommunikation zur Planung von Beiträgen erstreckt sich manchmal über diver
 
 ![Kommunikation leicht gemacht - Anmerkungen können Sie direkt im Contentplan machen](Team-communication.jpg)
 
-Einfache und direkte Kommunikation im Redaktionsplanplan
-
 ### 5\. Mit Statistiken Klarheit schaffen
 
-Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann **erstellen Sie mit SeaTable aussagekräftige [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})**. Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
+Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann erstellen Sie mit SeaTable aussagekräftige [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}). Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
 
 ![Statistiken geben wertvolle Einblicke, wie gut der Content performt](Statistics.jpg)
 
@@ -154,6 +150,8 @@ Alles in allem sollten Sie darauf achten, dass …
 
 ## Fazit zum Contentplan
 
-Wenn Sie einen [Marketingplan]({{< relref "templates/marketing/content-calendar" >}}) erstellen gehört ein übersichtlicher Contentplan dazu, um den Überblick über die geplanten Inhalte, Termine, Aufgaben sowie deren Status zu behalten. So lassen sich Beiträge im Team erfolgreich planen und verwirklichen.
+Wenn Sie einen [Marketingplan]({{< relref "posts/20250318-marketingplan" >}}) erstellen, gehört ein übersichtlicher Contentplan dazu, um den Überblick über die geplanten Inhalte, Termine, Aufgaben sowie deren Status zu behalten. So lassen sich Beiträge im Team erfolgreich planen und verwirklichen.
+
+{{< template-box id="62d7d05bf70348c080e8" >}}
 
 Wenn wir Ihr Interesse an SeaTable geweckt haben, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) in unserer Cloud und beginnen Sie direkt mit der Contentplan Vorlage zu arbeiten.

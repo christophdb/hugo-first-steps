@@ -28,7 +28,7 @@ Jede Art von Marketing zielt darauf ab, die **Aufmerksamkeit von Menschen oder K
 
 Natürlich können Sie eine Content Marketing Strategie auch so ausrichten, dass der Verkauf von Produkten im Vordergrund steht. Normalerweise ist aber beabsichtigt, **Interesse zu wecken, eine Marke bekannt zu machen oder eine positive Assoziation** mit einer Marke oder einem Produkt zu erzielen.
 
-Gerade wenn Sie erklärungsbedürftige Produkte entwickeln oder es nicht **den einen Kaufmoment** gibt, verspricht Content Marketing **langfristig erfolgreicher und wirkungsvoller** zu sein als bezahlte Werbung, die große Streuverluste mit sich bringen kann. Wenn Ihre Firma den Content sinnvoll auf eine zukünftige Zielgruppe zuschneidet, wird sich der potenzielle Kunde im entsprechenden Moment an Ihre Marke erinnern und sich für das entsprechende Produkte entscheiden.
+Gerade wenn Sie erklärungsbedürftige Produkte entwickeln oder es nicht **den einen Kaufmoment** gibt, verspricht Content Marketing **langfristig erfolgreicher und wirkungsvoller** zu sein als bezahlte Werbung, die große Streuverluste mit sich bringen kann. Wenn Ihre Firma den Content sinnvoll auf eine zukünftige Zielgruppe zuschneidet, wird sich der potenzielle Kunde im entsprechenden Moment an Ihre Marke erinnern und sich für das entsprechende Produkt entscheiden.
 
 ### Die Vorteile von Content Marketing im Überblick
 
@@ -62,7 +62,7 @@ Es gibt verschiedene Definitionen von Content Marketing, aber die Beschreibung m
 
 ## Warum reine Kanban- und Prozessmanagement-Tools nicht für das Content Marketing geeignet sind
 
-Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kleinen Puzzleteilen besteht und dass nicht ein einziger guter Artikel den gewünschten Erfolgt bringt. Beispielsweise erstellen SEO-Agentur selbst bei kleinen Projekten eine Content Pipeline mit Dutzenden, wenn nicht sogar Hunderten Suchbegriffen, und erstellt dann den passenden Content.
+Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kleinen Puzzleteilen besteht und dass nicht ein einziger guter Artikel den gewünschten Erfolg bringt. Beispielsweise erstellen SEO-Agenturen selbst bei kleinen Projekten eine Content Pipeline mit Dutzenden, wenn nicht sogar Hunderten Suchbegriffen, und produzieren dann den passenden Content.
 
 Content Marketing erfordert ein Tool, das den Überblick über diese Masse an Informationen ermöglicht und eine zielgerichtete Veröffentlichung von geplanten Inhalten erlaubt.
 
@@ -108,7 +108,7 @@ Beispielhafte Beschreibung der Personas in SeaTable
 
 ### Erstellen Sie zielgerichteten Content für Ihre Kunden
 
-Selbstständige Designer lesen z. B. sehr gerne Artikel auf [medium.com](https://medium.com/@seatable). Sie nutzen vorwiegend Apple Geräte und fahren eher Fahrrad als einen Porsche. Sie lieben es, Bilder als Inspirationsquelle präsentiert zu bekommen. Zudem freuen Sie sich über konkrete Tutorials, How-tos und Inhalte, die Sie unmittelbar in Ihrer Arbeit weiterbringen. Um diese Persona für ein Produkt zu begeistern, benötigen Sie normalerweise nur etwas Motivationshilfe. Ein grundsätzliches Interesse ist in jedem Fall gegeben. Liefern Sie deshalb konkrete Tipps und praktische Hilfestellungen. Das passende Format könnten kurze YouTube-Videos und passende Blog-Artikel auf medium.com oder dem Firmenblog sein.
+Selbstständige Designer lesen z. B. sehr gerne Artikel auf [medium.com](https://medium.com/@seatable). Sie nutzen vorwiegend Apple Geräte und fahren eher Fahrrad als einen Porsche. Sie lieben es, Bilder als Inspirationsquelle präsentiert zu bekommen. Zudem freuen sie sich über konkrete Tutorials, How-tos und Inhalte, die sie unmittelbar in ihrer Arbeit weiterbringen. Um diese Persona für ein Produkt zu begeistern, benötigen Sie normalerweise nur etwas Motivationshilfe. Ein grundsätzliches Interesse ist in jedem Fall gegeben. Liefern Sie deshalb konkrete Tipps und praktische Hilfestellungen. Das passende Format könnten kurze YouTube-Videos und passende Blog-Artikel auf medium.com oder dem Firmenblog sein.
 
 Kreative Teams verlangen nach Empfehlungen für neue Tools und nach effizienzsteigernden Prozessverbesserungen. Ein solches Team kennt vielleicht schon Ihr Produkt und benötigt ein paar Success Stories von anderen Kunden, um sich für eine Probeversion zu registrieren oder ein Testprodukt zu bestellen.
 
@@ -134,7 +134,7 @@ In der folgenden Tabelle sehen Sie eine Grundstruktur, die Sie beliebig an Ihre 
 - Persona (für wen der Artikel relevant ist)
 - Content-Idee (woher die Idee kam)
 
-![Content Marketing Strategie](content-marketing-strategie-seatable.png)
+{{< template id="791a438b055a4680908c" >}}
 
 Diese Tabelle unseres [Content Marketing Strategy Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) wirkt zwar auf den ersten Blick ziemlich umfangreich, ist aber für eine durchschnittliche Content Pipeline das Minimum, um die notwendige Übersicht zu behalten. Gewöhnen Sie sich vom ersten Tag an diese Daten zu erfassen und Sie werden keine Probleme haben, zu jedem Zeitpunkt den Überblick zu behalten.
 
@@ -172,7 +172,7 @@ Ihr Ziel sollte es sein, beständig im Austausch mit Ihren Kunden zu stehen und 
 
 ## 3\. Veröffentlichung und Analyse
 
-Eine gute Strategie und guter Content alleine reichen aber noch nicht, um das volle Potenzial von Content Marketing auszuschöpfen. Unternehmen, die mit Content Marketing wirklich erfolgreich sind, arbeiten konsequent daran, aus ihren Fehlern zu Lernen und etablieren einen konstante Feedbackschleife.
+Eine gute Strategie und guter Content alleine reichen aber noch nicht, um das volle Potenzial von Content Marketing auszuschöpfen. Unternehmen, die mit Content Marketing wirklich erfolgreich sind, arbeiten konsequent daran, aus ihren Fehlern zu lernen, und etablieren eine konstante Feedbackschleife.
 
 Sie hören zu, was die Leute über die Artikel sagen, und überlegen, was sie davon in kommenden Artikeln verwenden können. Gleichzeitig überarbeiten sie ihre Personas und beobachten, auf welche Artikel ihre Community besonders gut reagiert hat und bei welchem Keyword die meiste Interaktion aufgetreten ist.
 
@@ -198,12 +198,14 @@ Sie werden sehen, dass es sich lohnt, diese Auswertungen in SeaTable zu erfassen
 
 Statistische Auswertungen der Zugriffszahlen und der geplanten Postings mit SeaTable
 
-Das Analysieren Ihrer Inhalte und Zugriffszahlen kann in der Hektik der nächsten Veröffentlichungen leicht untergehen. Natürlich ist es wichtig, dass Sie **regelmäßig neuen Content veröffentlichen**. Trotzdem sollten Sie sich die Zeit nehmen, bei jedem Artikel, den Sie veröffentlichen, eine kurze Erwähnung auf ihren Socila-Media Kanälen zu posten. Auch für diesen Schritt können Sie SeaTable zur Planung nutzen oder das Posting direkt per Zapier absetzen. Sie werden begeistert sein, wie viel sich in Ihrem Content Marketing Prozess optimieren lässt, wenn Sie sich etwas Zeit nehmen und über Verbesserungen nachdenken.
+Das Analysieren Ihrer Inhalte und Zugriffszahlen kann in der Hektik der nächsten Veröffentlichungen leicht untergehen. Natürlich ist es wichtig, dass Sie **regelmäßig neuen Content veröffentlichen**. Trotzdem sollten Sie sich die Zeit nehmen, bei jedem Artikel, den Sie veröffentlichen, eine kurze Erwähnung auf Ihren Social-Media-Kanälen zu posten. Auch für diesen Schritt können Sie SeaTable zur Planung nutzen oder das Posting direkt per Zapier absetzen. Sie werden begeistert sein, wie viel sich in Ihrem Content Marketing Prozess optimieren lässt, wenn Sie sich etwas Zeit nehmen und über Verbesserungen nachdenken.
 
 ## Ein Redaktionsplan zur Organisation Ihrer Content Marketing Strategie
 
 Es fragt sich, warum so viele Unternehmer das Gefühl haben, dass ihr Content Marketing nicht funktioniert. Wahrscheinlich liegt es daran, dass die Unternehmen entweder keine Strategie oder das falsche Tool haben.
 
 Überzeugen Sie sich selbst davon, dass **Content Marketing ein wirksames Mittel ist und entscheidend zu Ihrem Unternehmenserfolg beitragen** kann. Wenn Sie Erfolg haben wollen, dann verzichten Sie auf austauschbare Inhalte und unübersichtliche Projektmanagement-Tools.
+
+{{< template-box id="791a438b055a4680908c" >}}
 
 Verwenden Sie SeaTable, um Ihre Personas, Ziele und Inhalte festzulegen und deren Erarbeitung genauestens zu überwachen. Etablieren Sie einen sich selbst verbessernden Prozess und Sie werden sehen, wie sich der Erfolg einstellen wird. Starten Sie jetzt mit unseren [Marketing-Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) und passen Sie diese an Ihre Bedürfnisse an.

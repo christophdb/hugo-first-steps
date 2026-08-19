@@ -1,5 +1,5 @@
 ---
-title: 'Cómo desarrollar una estrategia de marketing de contenidos - SeaTable'
+title: 'Cómo desarrollar una estrategia de marketing de contenidos'
 description: 'El marketing de contenidos es un enfoque de marketing muy popular para colocar sus propios productos entre los clientes y posibles clientes.'
 date: 2021-02-28
 lastmod: '2023-06-26'
@@ -18,15 +18,15 @@ seo:
     description: 'El marketing de contenidos es un enfoque de marketing muy popular para colocar sus propios productos entre los clientes y posibles clientes.'
 ---
 
-El marketing de contenidos es un popular enfoque de marketing para colocar los propios productos entre los clientes y posibles interesados. La idea básica del marketing de contenidos es muy sencilla: creas contenidos para tu grupo objetivo, los publicas e inspiras a tus clientes.
+El marketing de contenidos es un popular enfoque de marketing para colocar los propios productos entre los clientes y posibles interesados. La idea básica del marketing de contenidos es muy sencilla: se crean contenidos para el grupo objetivo, se publican y se entusiasma a los clientes.
 
 Por sencillo que pueda parecer a primera vista, el marketing de contenidos sólo funciona si se ofrecen contenidos de alta calidad que interesen al cliente, y si se dispone de una estructura adecuada y de las herramientas adecuadas para la planificación, la ejecución y el aprendizaje. Porque una estrategia de marketing de contenidos no persigue efectos a corto plazo, como ocurriría con la publicidad de pago, por ejemplo, sino que representa un enfoque de comunicación y ventas orgánico y a largo plazo de las empresas actuales.
 
-Para crear su propia estrategia de marketing de contenidos y seleccionar una herramienta adecuada, primero es importante entender qué es exactamente el marketing de contenidos y cómo se interrelacionan cada una de sus partes.
+Para crear su propia estrategia de marketing de contenidos y seleccionar una [herramienta de marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) adecuada, primero es importante entender qué es exactamente el marketing de contenidos y cómo se interrelacionan cada una de sus partes.
 
 ## ¿Cuáles son las ventajas del marketing de contenidos?
 
-Todo tipo de marketing pretende atraer la atención de las personas o los clientes. Pero mientras que la publicidad suele tratar de atraer a la gente para que realice una acción inmediata, el marketing de contenidos pretende captar la atención de las personas mucho antes de que se interesen realmente por el producto. A través de historias y contenidos emocionantes, se quiere captar la atención de la gente en cada etapa del [Customer Journey](https://de.wikipedia.org/wiki/Customer_Journey) y dar a conocer su propia empresa y sus productos.
+Todo tipo de marketing pretende atraer la atención de las personas o los clientes. Pero mientras que la publicidad suele tratar de atraer a la gente para que realice una acción inmediata, el marketing de contenidos pretende captar la atención de las personas mucho antes de que se interesen realmente por el producto. A través de historias y contenidos emocionantes, se quiere captar la atención de la gente en cada etapa del [Customer Journey](https://de.wikipedia.org/wiki/Customer_Journey) y sensibilizar sobre su propia empresa y sus productos.
 
 Por supuesto, también se puede alinear una estrategia de marketing de contenidos de forma que el objetivo sea vender productos. Sin embargo, normalmente la intención es generar interés, dar a conocer una marca o lograr una asociación positiva con una marca o un producto.
 
@@ -35,10 +35,10 @@ Especialmente si desarrolla productos que requieren una explicación o no hay _u
 ### Resumen de las ventajas del marketing de contenidos
 
 - se dirige a un grupo objetivo y quiere proporcionar un beneficio
-- Trabaja en todas las fases del recorrido del cliente
-- Es menos intrusiva y tiende a percibirse menos como publicidad
+- Funciona en todas las fases del recorrido del cliente
+- Es menos intrusivo y tiende a percibirse menos como publicidad
 - Puede autorreforzarse mediante efectos virales
-- armoniza con SEO, PR y marketing en redes sociales
+- armoniza con SEO, PR y [marketing en redes sociales]({{< relref "posts/social-media-management" >}})
 
 **Al mismo tiempo, el marketing de contenidos también tiene puntos débiles**
 
@@ -56,25 +56,25 @@ Entonces, ¿qué es importante en una estrategia de marketing de contenidos? ¿Q
 
 Existen varias definiciones de marketing de contenidos, pero la descripción con las tres P es la que mejor lo resume. Son los tres términos en inglés: _Preparation_, _Production_ y _Publication_. A veces también se lee sobre _Produce_, _Publish_ y _Promote_. Al final, sin embargo, siempre se trata del desarrollo específico de contenidos relevantes para el cliente.
 
-**Preparation** incluye la planificación estratégica y la preparación de su propia estrategia de contenidos. Aquí debe definir el grupo objetivo o ficticio [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) seleccionar, identificar los canales adecuados y los términos SEO y, a partir de ahí, desarrollar un plan para el contenido adecuado.
+**Preparation** incluye la planificación estratégica y la preparación de su propia estrategia de contenidos. Aquí debe seleccionar el grupo objetivo o [personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) ficticias, identificar los canales adecuados y los términos SEO y, a partir de ahí, desarrollar un plan para el contenido adecuado.
 
 **Production** consiste en todos los pasos necesarios para dar vida al contenido y supervisar su creación. Para ello, se determina quién crea el contenido y en qué momento, cuáles deben ser las palabras clave y los titulares exactos, quién suministra la información y edita posteriormente el contenido, etc.
 
-**Publication** es el tercer y último paso del marketing de contenidos e incluye la publicación, la promoción del contenido, la evaluación de los éxitos y la retroalimentación constante para mejorar el proceso.
+**Publication** es el tercer y último paso del marketing de contenidos e incluye la publicación, la promoción del contenido, la evaluación de los accesos y la retroalimentación constante para mejorar el proceso.
 
 ## Por qué las herramientas Kanban puras y de gestión de procesos no son adecuadas para el marketing de contenidos
 
-Es importante comprender que el marketing de contenidos suele constar de muchas pequeñas piezas del puzzle y que no basta con un buen artículo para lograr el éxito deseado. Por ejemplo, la agencia SEO crea _Content Marketing Star_ incluso para proyectos pequeños, una canalización de contenidos con docenas, si no cientos, de términos de búsqueda, y luego crea el contenido apropiado.
+Es importante comprender que el marketing de contenidos suele constar de muchas pequeñas piezas del puzzle y que no basta con un buen artículo para lograr el éxito deseado. Por ejemplo, incluso en proyectos pequeños las agencias SEO crean un flujo de contenidos con docenas, si no cientos, de términos de búsqueda, y luego producen el contenido correspondiente.
 
 El marketing de contenidos requiere una herramienta que ofrezca una visión general de esta masa de información y permita la publicación selectiva de los contenidos planificados.
 
-Las típicas herramientas Kanban y de gestión de proyectos, como Trello o Asana, se ven rápidamente desbordadas por esta gran cantidad de información. Si, por ejemplo, importas una búsqueda de palabras clave de Google con cientos de términos SEO a un software de este tipo, prácticamente ya has perdido la visión de conjunto necesaria.
+Las típicas herramientas Kanban y de [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), como Trello o Asana, se ven rápidamente desbordadas por esta gran cantidad de información. Si, por ejemplo, importa una búsqueda de palabras clave de Google con cientos de términos SEO en un software de este tipo, prácticamente ya ha perdido la visión de conjunto necesaria.
 
 Así que vamos a repasar los pasos necesarios para construir una estrategia de marketing de contenidos y cómo es una herramienta de marketing de contenidos adecuada.
 
-## 1\. definición de la persona / grupo destinatario
+## 1\. Definición de la persona / grupo objetivo
 
-En marketing, se supone que hay que conocer a los clientes para poder hacerles una oferta adecuada. Normalmente, existen dos conceptos sobre cómo proceder: o bien se define un grupo objetivo o bien se utiliza el denominado personaje.
+En marketing, se supone que hay que conocer a los clientes para poder hacerles una oferta adecuada. Normalmente, existen dos conceptos sobre cómo proceder: o bien se define un grupo objetivo o bien se utiliza la denominada persona.
 
 Un grupo objetivo se refiere a todas las personas a las que desea dirigirse con una campaña de marketing. Un grupo objetivo es, por tanto, un subconjunto de su mercado total y suele formarse a partir de una segmentación del mercado. Esta segmentación puede hacerse, por ejemplo, en función de la edad, el sexo, el lugar de residencia, las preferencias personales, etc.
 
@@ -88,7 +88,7 @@ Por lo tanto, si desea crear un flujo de contenidos de calidad, es importante sa
 
 Cuanto más precisa sea la descripción de su persona, más fácil le resultará predecir sus expectativas y su comportamiento en relación con el contenido. Y eso es exactamente lo que quiere conseguir con el marketing de contenidos. Quiere diseñar y producir contenidos que se perciban como útiles y que sus futuros clientes disfruten leyendo.
 
-Intente describir a sus personajes con la mayor precisión posible:
+Intente describir a sus personas con la mayor precisión posible:
 
 - ¿Cuál es su profesión?
 - ¿En qué puesto trabajan?
@@ -102,7 +102,7 @@ Suponga que su empresa tiene los siguientes tres segmentos de clientes:
 - Equipos creativos
 - Agencias creativas
 
-A continuación, su primera tarea sería averiguar todo lo que pueda sobre estos segmentos de clientes y, por tanto, sobre sus personas. No te limites a pensar en ello, documenta tus hallazgos.
+A continuación, su primera tarea sería averiguar todo lo que pueda sobre estos segmentos de clientes y, por tanto, sobre sus personas. No se limite a pensar en ello, documente sus resultados.
 
 ![Descripción de las personas compradoras en SeaTable](buyer-personas-in-seatable.png)
 
@@ -112,17 +112,17 @@ Ejemplo de descripción de las personas en SeaTable
 
 A los diseñadores autónomos, por ejemplo, les encanta leer artículos en [medium.com](https://medium.com/@seatable). Utilizan sobre todo dispositivos Apple y prefieren ir en bicicleta a conducir un Porsche. Les encanta que les presenten imágenes como fuente de inspiración. También disfrutan con tutoriales concretos, how-tos y contenidos que les ayuden directamente en su trabajo. Para entusiasmar a esta persona con un producto, normalmente sólo se necesita un poco de ayuda motivacional. En cualquier caso, el interés básico está dado. Por lo tanto, proporcione consejos concretos y ayuda práctica. El formato adecuado podrían ser vídeos cortos de YouTube y artículos de blog adecuados en medium.com o en el blog de la empresa.
 
-Los equipos creativos piden recomendaciones sobre nuevas herramientas y mejoras de procesos que aumenten la eficacia. Es posible que un equipo de este tipo ya conozca tu producto y necesite algunas historias de éxito de otros clientes para apuntarse a una prueba o pedir un producto de prueba.
+Los equipos creativos piden recomendaciones sobre nuevas herramientas y mejoras de procesos que aumenten la eficacia. Es posible que un equipo de este tipo ya conozca su producto y necesite algunas historias de éxito de otros clientes para apuntarse a una prueba o pedir un producto de prueba.
 
 Las agencias creativas, por su parte, ya trabajan de una manera mucho más formalizada. Es probable que algunos empleados se entusiasmen rápidamente con una nueva herramienta, pero al mismo tiempo tienen que convencer a sus jefes de las ventajas concretas. Ayude a estas personas con pistas sobre cómo aumentar la eficacia o las ventajas concretas de su solución. La mejor forma de hacerlo es con historias de éxito, informes de prensa y libros blancos.
 
 Equipado con estos conocimientos sobre sus clientes y sus necesidades, ya puede pasar a la fase de producción.
 
-## 2\. la producción de contenidos para su marketing de contenidos
+## 2\. La producción de contenidos para su marketing de contenidos
 
-Los retos clave en la creación de contenidos son el seguimiento del progreso y la asignación de responsabilidades. Olvídate de Kanban o de herramientas exhaustivas de gestión de proyectos que pueden hacerte perder de vista solo un puñado de entradas.
+Los retos clave en la creación de contenidos son el seguimiento del progreso y la asignación de responsabilidades. Olvídese de las herramientas Kanban o de las exhaustivas herramientas de gestión de proyectos con las que pierde la visión de conjunto ya con un puñado de entradas.
 
-Para cada entrada de blog, cada vídeo, cada mención en línea, determina quién del equipo es responsable de ello y para cuándo debe estar listo este contenido. Incluso si hay que suministrar contenido externo o hay dependencias temporales, no deje que esto le desanime. Sólo si se definen claramente las responsabilidades, la creación de contenidos se convertirá en un proceso eficaz.
+Para cada entrada de blog, cada vídeo, cada mención en línea, determine quién del equipo es responsable de ello y para cuándo debe estar listo este contenido. Incluso si hay que suministrar contenido externo o hay dependencias temporales, no deje que esto le desanime. Sólo si se definen claramente las responsabilidades, la creación de contenidos se convertirá en un proceso eficaz.
 
 ### Ponga orden en su canal de contenidos
 
@@ -136,9 +136,9 @@ La siguiente tabla muestra una estructura básica que puede adaptar a sus necesi
 - Persona (para quien el artículo es relevante)
 - Idea del contenido (de dónde surgió la idea)
 
-![Estrategia de marketing de contenidos](content-marketing-strategie-seatable.png)
+{{< template id="791a438b055a4680908c" >}}
 
-Esta tabla de nuestra [Plantilla de estrategia de marketing de contenidos]({{< relref "templates/marketing/content-marketing-strategy" >}}) parece bastante extensa a primera vista, pero es lo mínimo para que un canal de contenidos medio mantenga la visión de conjunto necesaria. Acostúmbrate a registrar estos datos desde el primer día y no tendrás problemas para llevar la cuenta en cualquier momento.
+Esta tabla de nuestra [Plantilla de estrategia de marketing de contenidos]({{< relref "templates/marketing/content-marketing-strategy" >}}) parece bastante extensa a primera vista, pero es lo mínimo para que un canal de contenidos medio mantenga la visión de conjunto necesaria. Acostúmbrese a registrar estos datos desde el primer día y no tendrá problemas para mantener la visión de conjunto en cualquier momento.
 
 ### Permitir una visión individual de los datos
 
@@ -160,39 +160,39 @@ Como autor o editor, es posible que desee ver las fechas de publicación program
 
 ![Planificación editorial a través de arrastrar y soltar en SeaTable](redaktionsplanung-seatable-kalender.png)
 
-Planificación editorial mediante arrastrar y soltar en SeaTable
+[Crear un plan editorial]({{< relref "posts/redaktionsplan-contentplan" >}}) mediante arrastrar y soltar en SeaTable
 
 Cada una de estas vistas destaca determinados aspectos de la cadena de contenidos y oculta o enmascara otros. De este modo, todos los miembros del equipo obtienen exactamente la información que necesitan para su trabajo.
 
 ### Garantizar nuevas ideas constantes
 
-Asegúrate también de no quedarte sin ideas antes de tiempo. Pida ideas a sus empleados y a sus clientes, o pídales temas que le interesen. Con SeaTable puede crear un cuestionario en minutos y distribuirlo.
+Asegúrese también de no quedarse sin ideas antes de tiempo. Pida a sus empleados y a sus clientes ideas o temas que les interesen. Con SeaTable puede crear un cuestionario en minutos y distribuirlo.
 
 ![Lluvia de ideas para preparar el marketing de contenidos](seatable-content-brainstorming-1.png)
 
 Su objetivo debe ser estar en constante intercambio con sus clientes y mantener lo más bajas posible las barreras para informar de esas ideas. Ya lo verá: La mejor forma de publicar buenos contenidos a intervalos regulares es mantener un flujo constante de ideas de alta calidad.
 
-## 3\. publicación y análisis
+## 3\. Publicación y análisis
 
 Pero una buena estrategia y un buen contenido no bastan por sí solos para aprovechar todo el potencial del marketing de contenidos. Las empresas que realmente tienen éxito con el marketing de contenidos trabajan constantemente para aprender de sus errores y establecer un bucle de retroalimentación constante.
 
-Escuchan lo que la gente dice sobre los artículos y piensan en lo que pueden utilizar en próximos artículos. Al mismo tiempo, revisan sus personajes y observan a qué artículos ha reaccionado especialmente bien su comunidad y qué palabra clave ha tenido más interacción.
+Escuchan lo que la gente dice sobre los artículos y piensan en lo que pueden utilizar en próximos artículos. Al mismo tiempo, revisan sus personas y observan a qué artículos ha reaccionado especialmente bien su comunidad y qué palabra clave ha tenido más interacción.
 
 Cree una sección de comentarios en su sitio web y permita que sus clientes le den su opinión directamente a través de un formulario. Puede utilizar estas opiniones directamente para adaptar mejor sus próximos artículos a los deseos de sus clientes.
 
 Este tipo de análisis para mejorar la propia estrategia de marketing de contenidos no es realmente ciencia de cohetes, sino principalmente el resultado de acciones sencillas, similares a una lista de comprobación, que en la mayoría de los casos simplemente se olvidan o no se les da prioridad.
 
-No cometa el mismo error y establezca esos procesos de retroalimentación y análisis desde el principio. SeaTable le proporciona todas las capacidades necesarias que necesita.
+No cometa el mismo error y establezca esos procesos de retroalimentación y análisis desde el principio. SeaTable le proporciona todas las funciones que necesita.
 
-### Hazte una lista de control de los comentarios
+### Elabore una lista de control para el feedback
 
-Asegúrese de que sus artículos se asignan siempre a uno de sus personajes. Sólo así tendrá la oportunidad de revisar su contenido después de publicarlo y mejorarlo continuamente con el tiempo. Redacte contenidos de acuerdo con las suposiciones sobre lo que quieren sus clientes y perfeccione estas percepciones de forma continua.
+Asegúrese de que sus artículos se asignan siempre a una de sus personas. Sólo así tendrá la oportunidad de revisar su contenido después de publicarlo y mejorarlo continuamente con el tiempo. Redacte contenidos de acuerdo con las suposiciones sobre lo que quieren sus clientes y perfeccione estas percepciones de forma continua.
 
 Oblíguese a pensar en los contenidos de esta forma estructurada para controlar realmente sus decisiones estratégicas.
 
 ### Controlar las cifras reales de acceso
 
-Notará rápidamente que con buenos artículos puede observar un aumento del tráfico orgánico en su sitio web al cabo de pocas semanas. Haga el esfuerzo y guarde regularmente las cifras de acceso de sus artículos. Al principio, aún deberías tomar las cifras manualmente de [Google Analytics](https://analytics.google.com/analytics/web/), más adelante puedes configurar la recopilación automática de datos, por ejemplo, con [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) o la [API SeaTable](https://api.seatable.com).
+Notará rápidamente que con buenos artículos puede observar un aumento del tráfico orgánico en su sitio web al cabo de pocas semanas. Haga el esfuerzo y guarde regularmente las cifras de acceso de sus artículos. Al principio, aún debería tomar las cifras manualmente de [Google Analytics](https://analytics.google.com/analytics/web/) u otras herramientas de análisis; más adelante puede configurar la recopilación automática de datos, por ejemplo, con [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) o la [API SeaTable](https://api.seatable.com).
 
 Verá que merece la pena registrar estas evaluaciones en SeaTable para que luego las cifras se muestren como estadísticas en un gráfico de barras, de líneas o de tarta.
 
@@ -200,7 +200,7 @@ Verá que merece la pena registrar estas evaluaciones en SeaTable para que luego
 
 Evaluaciones estadísticas de las cifras de acceso y las contabilizaciones programadas con SeaTable
 
-Analizar sus contenidos y cifras de acceso puede perderse fácilmente en las prisas de los próximos lanzamientos. Por supuesto, es importante que publique nuevos contenidos con regularidad. No obstante, debería dedicar tiempo a publicar una breve mención en Facebook, Twitter o LinkedIn por cada artículo que publique. También puede utilizar SeaTable para programar este paso, o Zapier directamente la publicación. Te sorprenderá todo lo que se puede optimizar en tu proceso de marketing de contenidos si dedicas algo de tiempo a pensar en las mejoras.
+Analizar sus contenidos y cifras de acceso puede perderse fácilmente en las prisas de los próximos lanzamientos. Por supuesto, es importante que publique nuevos contenidos con regularidad. No obstante, debería dedicar tiempo a publicar una breve mención en sus redes sociales por cada artículo que publique. También puede utilizar SeaTable para programar este paso o enviar la publicación directamente a través de Zapier. Le sorprenderá todo lo que se puede optimizar en su proceso de marketing de contenidos si dedica algo de tiempo a pensar en las mejoras.
 
 ## Un plan editorial para organizar su estrategia de marketing de contenidos
 
@@ -208,4 +208,6 @@ La pregunta es por qué tantos empresarios sienten que su marketing de contenido
 
 Convénzase de que el marketing de contenidos es una herramienta eficaz y puede contribuir decisivamente al éxito de su empresa. Si quiere tener éxito, prescinda de contenidos intercambiables y herramientas de gestión de proyectos confusas.
 
-Utilice SeaTable para establecer sus personas, objetivos y contenidos y supervise de cerca su desarrollo. Establezca un proceso de auto-mejora y verá cómo llega el éxito. Empieza ahora con nuestras [plantillas de marketing]({{< relref "templates/marketing/content-marketing-strategy" >}}) y personalízalas según tus necesidades.
+{{< template-box id="791a438b055a4680908c" >}}
+
+Utilice SeaTable para establecer sus personas, objetivos y contenidos y supervise de cerca su desarrollo. Establezca un proceso de auto-mejora y verá cómo llega el éxito. Empiece ahora con nuestras [plantillas de marketing]({{< relref "templates/marketing/content-marketing-strategy" >}}) y personalícelas según sus necesidades.

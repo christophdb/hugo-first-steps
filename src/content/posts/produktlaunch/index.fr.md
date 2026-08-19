@@ -19,6 +19,8 @@ Une fois le processus de développement du produit terminé avec succès, plus r
 
 Alors que le processus de développement est déjà très bien structuré dans la plupart des entreprises, le processus de lancement du produit ne bénéficie généralement pas d'une attention suffisante. Avez-vous vraiment franchi toutes les étapes nécessaires et n'avez-vous rien oublié ? Avec notre [modèle]({{< relref "templates/it-engineering/product-launch" >}}) et ces [5 conseils](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), plus rien ne s'oppose à un lancement de produit réussi !
 
+{{< template-box id="61e4639f122f45a2bcba" >}}
+
 ## Structure de notre modèle de lancement de produit
 
 Notre modèle de lancement de produit se compose de trois tableaux liés entre eux. Examinons-les de plus près :

@@ -1,5 +1,5 @@
 ---
-title: 'Kunstmanagement – wie Sie Museen und Galerien digital managen - SeaTable'
+title: 'Kunstmanagement – wie Sie Museen und Galerien digital managen'
 description: 'Ausstellungen, Museen oder Galerien digital verwalten? SeaTable bietet maximale Flexibilität für Sammlungen, Kontakte, Leihgaben, Pflege, Logistik und Literatur. Wie Sie digitale Prozesse individuell gestalten, Workflows abbilden und typische Problemfälle effizient lösen, erfahren Sie im Beitrag.'
 date: 2021-03-09
 lastmod: '2023-07-05'
@@ -81,9 +81,7 @@ Die Stärke von SeaTable liegt darin, dass Sie selbst festlegen, welche Informat
 
 Unser Template [Art Gallery Management]({{< relref "templates/public-sector/art-gallery-management" >}}) verfügt über einige Beispieleinträge, um Ihnen die Möglichkeiten darzustellen. Die einzelnen Kunstobjekte stehen im Zentrum des Sammlungsmanagements und sind mit den Künstlern verknüpft. Gleichzeitig wird erfasst, wo sich das Kunstwerk gerade befindet, und es gibt Verlinkungen zu den geplanten Restaurationen und Leihgaben. Eine Erweiterung um öffentliche Referenzen, Schaffensperioden oder Kunstkategorien können jederzeit hinzugefügt werden.
 
-![Objektübersicht des Art Gallery Templates](art-gallery-management-objects.png)
-
-Objektübersicht des Art Gallery Templates
+{{< template-box id="59d653f20de446a79f03" >}}
 
 ### Visuelle Darstellung der Objekte mit der Galerie-Ansicht
 

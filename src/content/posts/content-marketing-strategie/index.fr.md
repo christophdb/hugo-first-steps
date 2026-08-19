@@ -1,5 +1,5 @@
 ---
-title: 'Comment développer une stratégie de marketing de contenu - SeaTable'
+title: 'Comment développer une stratégie de marketing de contenu'
 description: "Le marketing de contenu est une approche marketing très populaire pour faire connaître ses produits aux clients et aux prospects potentiels."
 date: 2021-02-28
 lastmod: '2023-06-26'
@@ -22,11 +22,11 @@ Le marketing de contenu est une approche marketing très appréciée pour placer
 
 Aussi simple que cela puisse paraître à première vue, le marketing de contenu ne fonctionne que si vous proposez un contenu de qualité qui intéresse le client ; et si vous disposez d'une structure et d'outils appropriés pour la planification, la mise en œuvre et les apprentissages. En effet, une stratégie de marketing de contenu ne vise pas des effets à court terme, comme ce serait par exemple le cas avec la publicité payante, mais représente une approche de vente et de communication organique à long terme des entreprises actuelles.
 
-Pour pouvoir mettre en place sa propre stratégie de marketing de contenu et choisir un outil approprié, il est tout d'abord important de comprendre ce qu'est exactement le marketing de contenu et comment les différentes parties sont liées entre elles.
+Pour pouvoir mettre en place sa propre stratégie de marketing de contenu et choisir un [outil marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) approprié, il est tout d'abord important de comprendre ce qu'est exactement le marketing de contenu et comment les différentes parties sont liées entre elles.
 
 ## Quels sont les avantages du marketing de contenu ?
 
-Tout type de marketing vise à attirer l'attention des gens ou des clients. Mais alors que la publicité tente typiquement d'inciter les gens à une action immédiate, le marketing de contenu vise à attirer les gens bien avant qu'ils ne s'intéressent réellement au produit. On souhaite, par le biais d'histoires et de contenus passionnants, toucher les gens à chaque étape de leur vie. [Customer Journey](https://de.wikipedia.org/wiki/Customer_Journey) atteindre et sensibiliser à leur propre entreprise et à leurs propres produits.
+Tout type de marketing vise à attirer l'attention des gens ou des clients. Mais alors que la publicité tente typiquement d'inciter les gens à une action immédiate, le marketing de contenu vise à attirer les gens bien avant qu'ils ne s'intéressent réellement au produit. On souhaite, par le biais d'histoires et de contenus passionnants, toucher les gens à chaque étape du [Customer Journey](https://de.wikipedia.org/wiki/Customer_Journey) et les sensibiliser à sa propre entreprise et à ses propres produits.
 
 Il est bien sûr possible d'orienter une stratégie de marketing de contenu de manière à ce que la vente de produits soit au premier plan. Mais l'objectif est généralement d'éveiller l'intérêt, de faire connaître une marque ou de créer une association positive avec une marque ou un produit.
 
@@ -38,7 +38,7 @@ C'est justement lorsque vous développez des produits nécessitant des explicati
 - fonctionne à toutes les étapes du parcours client
 - est moins intrusif et a tendance à être moins perçu comme une publicité
 - peut s'auto-amplifier par des effets viraux
-- s'harmonise avec le SEO, les RP et le marketing des médias sociaux
+- s'harmonise avec le SEO, les RP et le [marketing des médias sociaux]({{< relref "posts/social-media-management" >}})
 
 **En même temps, le marketing de contenu a aussi des faiblesses**
 
@@ -56,7 +56,7 @@ Qu'est-ce qui est important dans une stratégie de marketing de contenu ? Que do
 
 Il existe différentes définitions du marketing de contenu, mais la description avec les trois P est celle qui correspond le mieux. Ceux-ci représentent les trois termes anglais : _Preparation_, _Production_ et _Publication_. On lit aussi parfois _Produce_, _Publish_ et _Promote_. Mais au final, il s'agit toujours d'élaborer de manière ciblée un contenu pertinent pour le client.
 
-**Preparation** comprend la planification stratégique et la préparation de votre propre stratégie de contenu. Pour ce faire, il convient de définir le groupe cible ou des [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) sélectionner, identifier les bons canaux et les termes SEO et, à partir de là, élaborer un plan pour le bon contenu.
+**Preparation** comprend la planification stratégique et la préparation de votre propre stratégie de contenu. Pour ce faire, il convient de sélectionner le groupe cible ou des [personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) fictifs, d'identifier les bons canaux et les termes SEO et, à partir de là, d'élaborer un plan pour le bon contenu.
 
 **Production** consiste en toutes les étapes nécessaires pour donner vie aux contenus et surveiller leur création. Pour cela, vous déterminez qui doit créer le contenu et quand, quels doivent être les mots-clés et les titres exacts, qui doit fournir les informations et qui doit ensuite rédiger le contenu, etc.
 
@@ -64,15 +64,15 @@ Il existe différentes définitions du marketing de contenu, mais la description
 
 ## Pourquoi les outils purement Kanban et de gestion des processus ne sont pas adaptés au marketing de contenu
 
-Il est important de comprendre que le marketing de contenu se compose généralement de nombreuses petites pièces de puzzle et qu'un seul bon article ne permet pas d'obtenir le résultat escompté. Par exemple, l'agence de référencement crée _Content Marketing Star_ même pour les petits projets, un pipeline de contenu avec des dizaines, voire des centaines de termes de recherche, et crée ensuite le contenu approprié.
+Il est important de comprendre que le marketing de contenu se compose généralement de nombreuses petites pièces de puzzle et qu'un seul bon article ne permet pas d'obtenir le résultat escompté. Par exemple, même pour de petits projets, les agences SEO créent un pipeline de contenu comportant des dizaines, voire des centaines de termes de recherche, puis produisent le contenu correspondant.
 
 Le marketing de contenu nécessite un outil qui permette d'avoir une vue d'ensemble de cette masse d'informations et de publier de manière ciblée les contenus prévus.
 
-Les outils typiques de gestion de projet et de kanban comme Trello ou Asana sont rapidement dépassés par cette grande quantité d'informations. Si l'on importe par exemple une recherche de mots-clés Google avec des centaines de termes SEO dans un tel logiciel, on a pratiquement déjà perdu la vue d'ensemble nécessaire.
+Les outils typiques de kanban et de [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) comme Trello ou Asana sont rapidement dépassés par cette grande quantité d'informations. Si l'on importe par exemple une recherche de mots-clés Google avec des centaines de termes SEO dans un tel logiciel, on a pratiquement déjà perdu la vue d'ensemble nécessaire.
 
 Passons donc en revue les étapes nécessaires à la mise en place d'une stratégie de marketing de contenu et à quoi ressemble un outil de marketing de contenu approprié.
 
-## 1\. définition du persona / groupe cible
+## 1\. Définition du persona / groupe cible
 
 En marketing, on part du principe qu'il faut connaître son client pour lui proposer une offre adaptée. Il existe typiquement deux approches pour ce faire : soit vous définissez un groupe cible, soit vous utilisez ce que l'on appelle un persona.
 
@@ -98,8 +98,8 @@ Essayez de décrire vos personas le plus précisément possible :
 
 Supposons que votre entreprise ait les trois segments de clientèle suivants :
 
-- Concepteurs indépendants
-- Des équipes créatives
+- Designers indépendants
+- Équipes créatives
 - Agences créatives
 
 Votre première tâche serait alors de tout découvrir sur ces segments de clientèle et donc sur vos personas. Ne vous contentez pas d'y réfléchir, mais documentez vos résultats.
@@ -118,7 +118,7 @@ Les agences créatives, quant à elles, travaillent déjà de manière plus form
 
 Muni de cette connaissance de vos clients et de leurs besoins, vous pouvez maintenant passer à la phase de production.
 
-## 2\. la production du contenu pour votre marketing de contenu
+## 2\. La production du contenu pour votre marketing de contenu
 
 Les principaux défis de la création de contenu sont le suivi de l'avancement et l'attribution des responsabilités. Oubliez les outils Kanban ou les outils de gestion de projet complets qui vous font perdre la vue d'ensemble dès qu'il y a une poignée d'entrées.
 
@@ -136,7 +136,7 @@ Le tableau suivant présente une structure de base que vous pouvez adapter à vo
 - Persona (pour qui l'article est pertinent)
 - Idée de contenu (d'où vient l'idée)
 
-![Stratégie de marketing de contenu](content-marketing-strategie-seatable.png)
+{{< template id="791a438b055a4680908c" >}}
 
 Ce tableau de notre [modèle de stratégie de marketing de contenu]({{< relref "templates/marketing/content-marketing-strategy" >}}) semble certes assez volumineux au premier abord, mais il s'agit du minimum nécessaire pour un pipeline de contenu moyen afin de conserver la vue d'ensemble nécessaire. Prenez l'habitude de saisir ces données dès le premier jour et vous n'aurez aucun problème à garder une vue d'ensemble à tout moment.
 
@@ -160,29 +160,29 @@ En tant qu'auteur ou rédacteur, vous souhaitez peut-être que les dates de publ
 
 ![Planification éditoriale par glisser-déposer dans SeaTable](redaktionsplanung-seatable-kalender.png)
 
-Planification éditoriale par glisser-déposer dans SeaTable
+[Créer un plan éditorial]({{< relref "posts/redaktionsplan-contentplan" >}}) par glisser-déposer dans SeaTable
 
 Chacune de ces différentes vues met en évidence certains aspects du pipeline de contenu, tandis que d'autres sont cachés ou masqués. Ainsi, chaque membre de l'équipe reçoit exactement la bonne quantité d'informations dont il a besoin pour son travail.
 
 ### Faites en sorte d'avoir constamment de nouvelles idées
 
-Veillez également à ne pas être à court d'idées prématurément. Demandez à vos collaborateurs et à vos clients des idées ou des sujets qui vous intéressent. Avec SeaTable, vous générez un questionnaire correspondant en quelques minutes et pouvez ensuite le distribuer.
+Veillez également à ne pas être à court d'idées prématurément. Demandez à vos collaborateurs et à vos clients des idées ou des sujets qui les intéressent. Avec SeaTable, vous générez un questionnaire correspondant en quelques minutes et pouvez ensuite le distribuer.
 
 ![Le brainstorming pour préparer le marketing de contenu](seatable-content-brainstorming-1.png)
 
 Votre objectif doit être d'être en contact permanent avec vos clients et de réduire au maximum les obstacles à la communication de ces idées. Vous verrez : Le meilleur moyen de publier régulièrement du contenu de qualité est d'obtenir un flux constant d'idées de qualité.
 
-## 3\. publication et analyse
+## 3\. Publication et analyse
 
 Une bonne stratégie et un bon contenu ne suffisent toutefois pas pour exploiter pleinement le potentiel du marketing de contenu. Les entreprises qui réussissent vraiment avec le marketing de contenu s'efforcent systématiquement d'apprendre de leurs erreurs et établissent une boucle de feedback constante.
 
-Ils écoutent ce que les gens ont à dire sur les articles et réfléchissent à ce qu'ils peuvent utiliser dans les prochains articles. En même temps, ils révisent leurs personas et observent les articles auxquels leur communauté a particulièrement bien réagi et les mots-clés qui ont suscité le plus d'interaction.
+Elles écoutent ce que les gens ont à dire sur les articles et réfléchissent à ce qu'elles peuvent utiliser dans les prochains articles. En même temps, elles révisent leurs personas et observent les articles auxquels leur communauté a particulièrement bien réagi et les mots-clés qui ont suscité le plus d'interaction.
 
 Créez une zone de feedback sur votre site web et permettez à vos clients de vous faire part de leurs réflexions directement via un formulaire. Vous pouvez utiliser immédiatement ce feedback pour mieux adapter vos prochains articles aux souhaits de vos clients.
 
-Ce type d'analyse visant à améliorer sa propre stratégie de marketing de contenu n'est vraiment pas une science fulgurante, mais résulte principalement d'actions simples, semblables à des check-lists, qui, dans la plupart des cas, sont simplement oubliées ou auxquelles on n'accorde pas la priorité.
+Ce type d'analyse visant à améliorer sa propre stratégie de marketing de contenu n'a vraiment rien de sorcier, mais résulte principalement d'actions simples, semblables à des check-lists, qui, dans la plupart des cas, sont simplement oubliées ou auxquelles on n'accorde pas la priorité.
 
-Ne faites pas la même erreur et établissez dès le départ de tels processus de feedback et d'analyse. SeaTable vous fournit toutes les compétences dont vous avez besoin.
+Ne faites pas la même erreur et établissez dès le départ de tels processus de feedback et d'analyse. SeaTable vous fournit toutes les fonctionnalités dont vous avez besoin.
 
 ### Faites une check-list de feedback
 
@@ -192,7 +192,7 @@ Obligez-vous à réfléchir au contenu de cette manière structurée pour être 
 
 ### Surveiller le nombre réel d'accès
 
-Vous constaterez rapidement qu'avec de bons articles, vous pouvez observer une augmentation du trafic organique sur votre site web après quelques semaines seulement. Prenez la peine d'enregistrer régulièrement le nombre de visites de vos articles. Au début, reprenez manuellement les chiffres de [Google Analytics](https://analytics.google.com/analytics/web/), mais plus tard, vous pourrez mettre en place une collecte automatique des données, par exemple avec [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) ou l'[API SeaTable](https://api.seatable.com).
+Vous constaterez rapidement qu'avec de bons articles, vous pouvez observer une augmentation du trafic organique sur votre site web après quelques semaines seulement. Prenez la peine d'enregistrer régulièrement le nombre de visites de vos articles. Au début, reprenez manuellement les chiffres de [Google Analytics](https://analytics.google.com/analytics/web/) ou d'autres outils d'analyse, mais plus tard, vous pourrez mettre en place une collecte automatique des données, par exemple avec [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) ou l'[API SeaTable](https://api.seatable.com).
 
 Vous verrez qu'il vaut la peine de saisir ces évaluations dans SeaTable pour ensuite afficher les chiffres sous forme de statistiques dans un graphique à barres, linéaire ou en camembert.
 
@@ -200,12 +200,14 @@ Vous verrez qu'il vaut la peine de saisir ces évaluations dans SeaTable pour en
 
 Évaluations statistiques du nombre de visites et de publications prévues avec SeaTable
 
-L'analyse de vos contenus et des chiffres de fréquentation peut facilement être noyée dans la frénésie des prochaines publications. Bien sûr, il est important que vous publiiez régulièrement de nouveaux contenus. Néanmoins, vous devriez prendre le temps de poster une brève mention sur Facebook, Twitter ou LinkedIn pour chaque article que vous publiez. Pour cette étape également, vous pouvez utiliser SeaTable pour planifier ou envoyer directement le post par Zapier. Vous serez étonné de voir à quel point il est possible d'optimiser votre processus de marketing de contenu si vous prenez le temps de réfléchir à des améliorations.
+L'analyse de vos contenus et des chiffres de fréquentation peut facilement être noyée dans la frénésie des prochaines publications. Bien sûr, il est important que vous publiiez régulièrement de nouveaux contenus. Néanmoins, vous devriez prendre le temps de poster une brève mention sur vos réseaux sociaux pour chaque article que vous publiez. Pour cette étape également, vous pouvez utiliser SeaTable pour planifier ou envoyer directement le post par Zapier. Vous serez étonné de voir à quel point il est possible d'optimiser votre processus de marketing de contenu si vous prenez le temps de réfléchir à des améliorations.
 
 ## Un plan éditorial pour organiser votre stratégie de marketing de contenu
 
 On peut se demander pourquoi tant d'entrepreneurs ont l'impression que leur marketing de contenu ne fonctionne pas. C'est probablement parce qu'ils n'ont soit pas de stratégie, soit pas le bon outil.
 
 Convainquez-vous que le content marketing est un moyen efficace et qu'il peut contribuer de manière décisive au succès de votre entreprise. Si vous voulez réussir, renoncez aux contenus interchangeables et aux outils de gestion de projet confus.
+
+{{< template-box id="791a438b055a4680908c" >}}
 
 Utilisez SeaTable pour définir vos personas, vos objectifs et votre contenu et suivez de près leur élaboration. Mettez en place un processus d'auto-amélioration et vous verrez comment le succès sera au rendez-vous. Commencez dès maintenant avec nos [modèles de marketing]({{< relref "templates/marketing/content-marketing-strategy" >}}) et adaptez-les à vos besoins.

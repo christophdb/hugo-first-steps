@@ -5,12 +5,12 @@ categories:
     - 'best-practice'
 tags: 
     - 'Projektmanagement'
-    - 'Marketingplanung'
+    - 'Vertriebsplanung'
 date: 2021-04-29
 lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/produktmanagement'
-color: '#6b64c4'
+color: '#b74b40'
 seo:
     title: 'Perfektes Produktmanagement in 4 Schritten'
     description: 'Erfahren Sie, wie Sie mit 4 Schritten effizientes Produktmanagement organisieren und Daten mit SeaTable optimal strukturieren.'
@@ -38,7 +38,7 @@ Zu den Aufgaben des Produktmanagements gehören alle Stadien, die ein Produkt du
 - **Konzeption**: Strategiebildung zu Markt, Preis, Distribution, Kommunikation; Prototyp, Kostenübersicht
 - **Umsetzung**: technische Umsetzung, Strategieumsetzung, Produktlaunch
 
-Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
+Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales" >}}) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
 
 ### Herausforderungen im Produktmanagement
 
@@ -56,11 +56,9 @@ Sammeln Sie ganz einfach alle Daten an einem Ort: Mit SeaTable. [Unser Template 
 
 ### 1\. Generelle Produktübersicht
 
-Um jedem Mitarbeiter einen umfassenden Blick über das Produkt zu geben, ist ein Standard-Übersichtsblatt sinnvoll. Hier sind die wichtigsten Produktinformationen aufgelistet, wie etwa Produktreihe, Produkttyp, der offizielle Produktname für den Handel, Artikelnummer, Preise und dazugehörige Produktbilder. Insbesondere für Fachfremde ist eine Kurzübersicht besonders wertvoll. Mit den verschiedenen Ansichten in SeaTable können die Daten mit wenigen Klicks zum Beispiel nach Produktreihe oder Produkttyp [gefiltert und gespeichert]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) werden und lästiges manuelles Sortieren fällt weg.
+Um jedem Mitarbeiter einen umfassenden Blick über das Produkt zu geben, ist ein Standard-Übersichtsblatt sinnvoll. Hier sind die wichtigsten Produktinformationen aufgelistet, wie etwa Produktreihe, Produkttyp, der offizielle Produktname für den Handel, Artikelnummer, Preise und dazugehörige Produktbilder. Insbesondere für Fachfremde ist eine Kurzübersicht besonders wertvoll. Mit den verschiedenen Ansichten in SeaTable können die Daten mit wenigen Klicks zum Beispiel nach Produktreihe oder Produkttyp [gefiltert und gruppiert]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) werden und lästiges manuelles Sortieren fällt weg.
 
-![In dieser Ansicht haben Sie alle Produkte sofort im Blick - perfekt für das Produktmanagement](Range-View_2.jpg)
-
-Die Produktübersicht gibt dem Produktmanagement Struktur
+{{< template-box id="faf9c0823ac748b59ef5" >}}
 
 ### 2\. Spezifisches Produktdatenblatt
 
@@ -68,7 +66,7 @@ Manchmal reicht eine Produktübersicht nicht aus und es muss ein wenig spezifisc
 
 ![Sie benötigen Produktdetails? Kein Problem mit SeaTable. So geht Ihnen das Produktmanagement leicht von der Hand](Product-Data_1.jpg)
 
-Im Produktdatenblatt finden Sie alle wichtigen Informationen rund um das Produkt
+Im Produktdatenblatt finden Sie alle wichtigen Informationen rund um das Produkt.
 
 ### 3\. Alle Kontakte im Blick
 
@@ -76,7 +74,7 @@ Im Produktentwicklungsprozess durchläuft das Produkt eine ganze Reihe an versch
 
 ![Kontaktdaten von Lieferanten und Kunden sind sehr wichtig für ein reibungsloses Produktmanagement](Suppliers-and-Contacts.jpg)
 
-Notieren Sie alle wichtigen Kontaktdaten Ihrer Lieferanten und Kunden
+Notieren Sie alle wichtigen Kontaktdaten Ihrer Lieferanten und Kunden.
 
 ### 4\. Verkaufszahlen intelligent auswerten
 
@@ -84,10 +82,8 @@ Im Produktmanagement sind die Umsätze ein wichtiges Kontrollinstrument, um den 
 
 ![Im Produktmanagement spielen auch Verkaufszahlen eine wichtige Rolle. Mit SeaTable verlieren Sie nichts aus den Augen](Sales_1.jpg)
 
-Sortieren Sie Verkaufszahlen nach Regionen
+Sortieren Sie Verkaufszahlen nach Regionen. Statistiken geben wertvolle Informationen über die Verkaufszahlen Ihres Produkts.
 
 ![Einfache Statistiken erleichtern Ihr Produktmanagement](Statistics-1.jpg)
-
-Statistiken geben wertvolle Informationen über die Verkaufszahlen Ihres Produkts
 
 Der Produktentwicklungsprozess im Produktmanagement ist nicht zu unterschätzen. Dabei müssen sehr viele Posten berücksichtigt werden. Um nicht den Überblick zu verlieren, bieten wir mit unserem SeaTable Produktmanagement Template eine hervorragende Möglichkeit, direkt organisiert und strukturiert in eine neue Art des Produktmanagements zu starten. Erleben Sie einfache Prozesse und effiziente Datensammlung – einfach [hier das Template downloaden]({{< relref "templates/product-design/product-library" >}}) und loslegen!
