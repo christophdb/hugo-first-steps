@@ -15,34 +15,34 @@ tags:
 color: '#b3060f'
 ---
 
-Die eigenen Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Viel zu oft passiert es, dass das Geld am Ende des Monats einfach weg ist und man sich kaum erinnern kann, wofür man es eigentlich ausgegeben hat. Genau dann schafft ein **Haushaltsbuch** Abhilfe und bringt Ordnung in das Finanzchaos!
+Verlieren Sie öfter Ihre Ausgaben aus dem Blick? Kennen Sie es, dass Ihr Kontostand am Ende des Monats gesunken ist und Sie sich kaum erinnern können, wofür Sie Ihr Geld ausgegeben haben? Genau dann schafft ein **Haushaltsbuch** Abhilfe und bringt Ordnung in das Finanzchaos!
 
 ## Gute Gründe für ein Haushaltsbuch
 
 ### Ausgaben mit einem Haushaltsbuch dokumentieren
 
-Mal ehrlich: Wie oft prüfen Sie Ihre Kontoauszüge und rechnen zusammen, wofür Sie Geld ausgegeben haben? Solange das Konto nicht im Minus ist, scheuen wir meist den Aufwand und wollen es vielleicht gar nicht so genau wissen. Denn wenn wir sehen würden, wie viel die Shoppingtouren, das Ausgehen mit Freunden oder das Rauchen auf Dauer kosten, würden wir womöglich unseren Lebensstil hinterfragen.
+Mal ehrlich: Wie oft prüfen Sie Ihre Kontoauszüge und rechnen zusammen, wofür Sie Geld ausgegeben haben? Solange das Konto nicht im Minus ist, scheuen wir meist den Aufwand und wollen es vielleicht gar nicht so genau wissen. Denn wenn wir sehen würden, wie viel die **Shoppingtouren**, **das Ausgehen mit Freunden oder das Rauchen** auf Dauer kosten, würden wir womöglich unseren Lebensstil hinterfragen.
 
 ![Führen Sie ein Haushaltsbuch](Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
 
-Neben unvermeidbaren Fixkosten können auch kleinere Kostenfallen beträchtliche Summen ergeben. Spätestens, wenn Sie feststellen, dass nach Abzug aller Kosten kaum etwas übrig bleibt, sollten Sie handeln. Mit einem Haushaltsbuch können Sie lückenlos dokumentieren, wofür Sie Ihr Geld ausgeben. Verschaffen Sie sich einen Überblick über Ihre laufenden Kosten, um die Gewissheit zu haben, dass Ihr Geld nicht einfach spurlos verschwindet.
+Neben unvermeidbaren Fixkosten können auch **kleinere Kostenfallen** beträchtliche Summen ergeben. Spätestens, wenn Sie feststellen, dass nach Abzug aller Kosten kaum etwas übrig bleibt, sollten Sie handeln. Mit einem Haushaltsbuch können Sie lückenlos dokumentieren, wofür Sie Ihr Geld ausgeben. Verschaffen Sie sich einen Überblick über Ihre **laufenden Kosten**, um die Gewissheit zu haben, dass Ihr Geld nicht einfach spurlos verschwindet.
 
 ### Unnötig hohe Ausgaben aufdecken
 
-Bleibt am Ende des Monats weniger Geld übrig, als Sie dachten? Möglicherweise liegt das an besonders hohen Ausgaben in einem bestimmten Bereich. In vielen Haushalten lassen sich die höchsten Ausgaben den Bereichen Wohnen, Versicherungen, Mobilität und Telekommunikation zuordnen. Durch eine Übersicht über Ihre Ausgaben können Sie in Ihrem Haushaltsbuch schnell die höchsten Kosten identifizieren und überlegen, ob Sie hier nicht sparen können.
+Bleibt am Ende des Monats weniger Geld übrig, als Sie dachten? Möglicherweise liegt das an besonders hohen Ausgaben in einem bestimmten Bereich. In vielen Haushalten lassen sich die höchsten Ausgaben den Bereichen **Wohnen, Versicherungen, Mobilität und Telekommunikation** zuordnen. Durch eine Übersicht über Ihre Ausgaben können Sie in Ihrem Haushaltsbuch schnell die höchsten Kosten identifizieren und überlegen, ob Sie hier nicht sparen können.
 
 ### Langfristige Planung dank Haushaltsbuch
 
-Werden Sie regelmäßig von unerwarteten Abbuchungen auf Ihrem Konto überrascht? Ein Haushaltsbuch ermöglicht es Ihnen, die eigenen Einnahmen und Ausgaben genau vorauszusagen und langfristig Ihr Budget (z. B. für Urlaube) zu planen. So wissen Sie immer, wie viel Sie bis Ende des Monats oder Jahres übrig haben, und es besteht keine Gefahr, dass Ihnen vorher schon das Geld ausgeht.
+Werden Sie regelmäßig von unerwarteten Abbuchungen auf Ihrem Konto überrascht? Ein Haushaltsbuch ermöglicht es Ihnen, **die eigenen Einnahmen und Ausgaben genau vorauszusagen** und langfristig Ihr Budget (z. B. für [Urlaube]({{< relref "templates/everyday-life/travel-planner" >}})) zu planen. So wissen Sie immer, wie viel Sie bis Ende des Monats oder Jahres übrig haben, und es besteht keine Gefahr, dass Ihnen vorher schon das Geld ausgeht.
 
 ## Was Sie im Haushaltsbuch erfassen sollten
 
 Ein Haushaltsbuch enthält in der Regel alle Ausgaben, die eine Person oder Familie pro Monat oder Jahr hat. Diese unterscheiden sich in **Fixkosten** und **variable Kosten**.
 
-- Fixkosten sind feststehende Zahlungen, die Sie regelmäßig tätigen müssen oder automatisch von Ihrem Konto abgebucht werden, zum Beispiel Mietzahlungen, Versicherungen, Kosten für Strom, Internet und Telefon, Abonnements und viele andere wiederkehrende Kosten.
-- Variable Kosten sind hingegen nicht fest, sondern werden zumeist einzeln getätigt und haben daher immer eine unterschiedliche Höhe. Jeder Einkauf, jedes Essen im Restaurant und jedes Einzelticket zählen dazu. Diese Kosten fallen mal höher, mal niedriger aus.
+- Fixkosten sind feststehende Zahlungen, die Sie regelmäßig tätigen müssen oder automatisch von Ihrem Konto abgebucht werden, zum Beispiel Mietzahlungen, Versicherungen, Kosten für [Energie]({{< relref "templates/everyday-life/energy-tracker" >}}), Internet und Telefon, Abonnements und viele andere wiederkehrende Kosten.
+- Variable Kosten sind hingegen nicht fest, sondern werden zumeist einzeln getätigt und haben daher immer eine unterschiedliche Höhe. Jeder [Einkauf]({{< relref "templates/everyday-life/shopping-list" >}}), jedes Essen im Restaurant und jedes Einzelticket zählen dazu. Diese Kosten fallen mal höher, mal niedriger aus.
 
-Wenn Sie möchten, können Sie Ihr Haushaltsbuch um Ihre monatlichen **Einnahmen** erweitern. Dazu zählen Ihr monatliches Fixgehalt und variables Einkommen aus Nebenjobs, Verkäufen, Gutschriften oder Geschenken. Als Differenz können Sie den finanziellen **Überschuss** errechnen, der Ihnen nach Abzug aller Kosten bleibt. Diesen können Sie sparen oder für langfristige Investitionen einplanen.
+Wenn Sie möchten, können Sie Ihr Haushaltsbuch um Ihre monatlichen **Einnahmen** erweitern. Dazu zählen Ihr monatliches Fixgehalt und variables Einkommen aus Nebenjobs, Verkäufen, Gutschriften oder Geschenken. Als Differenz können Sie den finanziellen **Überschuss** errechnen, der Ihnen nach Abzug aller Kosten bleibt. Diesen können Sie sparen oder für langfristige [Investitionen]({{< relref "posts/investitionsplan" >}}) einplanen.
 
 ## Wie Sie ein Haushaltsbuch erstellen
 
@@ -50,7 +50,7 @@ Es spricht also alles dafür, ein Haushaltsbuch zu erstellen und Ihre Ausgaben z
 
 ### Beispiel: Haushaltsbuch mit SeaTable
 
-Die No-Code-Datenbank SeaTable bietet Ihnen eine hervorragende Möglichkeit, Ihr Haushaltsbuch zu erstellen – mit einer intuitiven Benutzeroberfläche und vielen Funktionen, die über eine klassische **Tabellenkalkulation** wie Excel hinausgehen. Greifen Sie nicht nur spielend leicht von allen Endgeräten auf Ihre Daten in der Cloud zu, sondern nutzen Sie auch **Statistiken**, **Formeln**, **Gruppierungen** und **Filter**, um Ihre Daten auszuwerten.
+Die No-Code-Datenbank [SeaTable]({{< relref "/" >}}) bietet Ihnen eine hervorragende Möglichkeit, Ihr Haushaltsbuch zu erstellen – mit einer intuitiven Benutzeroberfläche und vielen Funktionen, die über eine klassische **Tabellenkalkulation** wie Excel hinausgehen. Greifen Sie nicht nur spielend leicht von allen Endgeräten auf Ihre Daten in der Cloud zu, sondern nutzen Sie auch **Statistiken**, **Formeln**, **Gruppierungen** und **Filter**, um Ihre Daten auszuwerten.
 
 In Ihrem digitalen Haushaltsbuch können Sie alle Ausgaben ganz simpel eintragen. Am Beispiel einer vierköpfigen Familie haben wir eine [kostenlose Vorlage]({{< relref "templates/everyday-life/budget-book" >}}) gebaut, in der alle wichtigen Punkte enthalten sind:
 
@@ -58,9 +58,11 @@ In Ihrem digitalen Haushaltsbuch können Sie alle Ausgaben ganz simpel eintragen
 - Höhe der Ausgabe und Upload der Rechnung
 - Datum, Monat und Kostenträger der Ausgabe
 
+{{< template id="07029bcd3c644efc898c" >}}
+
 Ob Einkäufe, Miete und Nebenkosten, die Autoversicherung oder die Nachhilfe für den Sohn – mit SeaTable behalten Sie den Überblick über all Ihre Kosten. Mithilfe von [Einfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) können Sie Ihre Ausgaben individuell **kategorisieren**, **filtern** und **gruppieren**. Für eine chronologische Ordnung in Ihrem Haushaltsbuch **sortieren** Sie Ihre Ausgaben einfach nach [Datum]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). In zwei weiteren Tabellen können Sie Ihre monatlichen **Einnahmen** auflisten sowie Ihr überschüssiges **Budget** errechnen.
 
-Wenn Sie die Vorlage für Ihr Haushaltsbuch verwenden möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) in SeaTable. Danach können Sie die [Vorlage]({{< relref "templates/everyday-life/budget-book" >}}) in Ihren Arbeitsbereich importieren und flexibel an Ihre Bedürfnisse anpassen.
+Wenn Sie die Vorlage für Ihr Haushaltsbuch verwenden möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) in SeaTable. Danach können Sie die Vorlage in Ihren Arbeitsbereich importieren und flexibel an Ihre Bedürfnisse anpassen.
 
 ## 12 Tipps, mit denen Sie bares Geld sparen
 
@@ -104,7 +106,7 @@ Gerade in größeren Städten lohnt sich ein **eigenes Auto** für viele Mensche
 
 ![Auto-Stellplatz](david-schultz-ZLk6gA8EyG0-unsplash.jpg)
 
-Auf ein eigenes Auto verzichten und den Stellplatz vermieten – so sparen Sie Kosten und generieren zugleich Einnahmen.
+Auf ein eigenes Auto verzichten und den Stellplatz vermieten – so sparen Sie Kosten und generieren zugleich Einnahmen. Wenn Sie beruflich auf ein Fahrzeug angewiesen sind, sollten Sie über ein [Fahrtenbuch]({{< relref "posts/fahrtenbuch" >}}) nachdenken.
 
 Wenn Ihr Wohnort gut an **öffentliche Verkehrsmittel** angebunden ist, können Sie diese öfter nutzen oder gänzlich auf ein Auto verzichten. Mit Bus und Bahn sparen Sie nicht nur Geld, sondern bleiben dank der Spaziergänge zwischen Ihrer Wohnung und den Haltestellen auch fit.
 
@@ -154,4 +156,6 @@ Gleichzeitig können Sie positive Gewohnheiten etablieren: Zum Beispiel ist es g
 
 Sie sehen: Ihre Ausgaben und Lebenshaltungskosten zu überwachen hat nur Vorteile. Mit einem Haushaltsbuch bleiben Sie immer Herr der Lage und wissen genau, wo Ihr Geld geblieben ist. SeaTable passt sich dabei Ihren Bedürfnissen an. Wenn Sie für Ihr Haushaltsbuch bislang Excel nutzen, können Sie Ihre Tabellen einfach in SeaTable importieren. Sie können sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und SeaTable ausprobieren!
 
-Wenn Sie unsere Vorlage nutzen möchten, schauen Sie sich doch mal in unserem Template-Bereich [Finanzen]({{< relref "templates/finance" >}}) um. Es gibt noch viele weitere Anwendungsfälle, wie SeaTable Ihnen den Alltag erleichtern kann.
+{{< template-box id="07029bcd3c644efc898c" >}}
+
+Wenn Sie SeaTable nutzen möchten, schauen Sie sich doch mal in unserem [Template-Bereich]({{< relref "templates" >}}) um. Es gibt noch viele weitere Anwendungsfälle, wie SeaTable Ihnen den Alltag erleichtern kann.

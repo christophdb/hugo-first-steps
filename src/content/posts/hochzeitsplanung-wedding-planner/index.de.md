@@ -17,11 +17,9 @@ Einer der schönsten und wichtigsten Tage im Leben steht vor der Tür: die eigen
 
 ## Checkliste Hochzeitsplanung mit über 200 To-dos
 
-Normalerweise startet die Planung einer Hochzeit ungefähr 13 Monate vor dem großen Tag. Wenn man eine beliebte Hochzeitslocation haben möchte, teilweise sogar noch früher. Wichtig ist, dass man bei der schieren Menge an Aufgaben nicht den Überblick verliert. Deshalb steht in Zentrum unseres Templates [Wedding Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) die _Checkliste_ mit bereits über 200 vordefinierten Aufgaben. Zusätzlich wird in dieser Tabelle erfasst, wann das entsprechende To-do erledigt werden muss. Es gibt immer ein übergeordnetes To-do, welches mehrere einzelne Unterpunkte beinhaltet, um Sie durch den ganzen Prozess zu leiten. Die Spalte _Check_ ist eine [Checkbox-Spalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox), die dazu dient, erledigte To-dos abzuhaken.
+Normalerweise startet die Planung einer Hochzeit ungefähr 13 Monate vor dem großen Tag. Wenn man eine beliebte Hochzeitslocation haben möchte, teilweise sogar noch früher. Wichtig ist, dass man bei der schieren Menge an Aufgaben nicht den Überblick verliert. Deshalb steht in Zentrum unseres Templates [Wedding Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) die _Checkliste_ mit bereits über 200 vordefinierten Aufgaben. Zusätzlich wird in dieser Tabelle erfasst, wann das entsprechende To-do erledigt werden muss. Es gibt immer ein übergeordnetes To-do, welches mehrere einzelne Unterpunkte beinhaltet, um Sie durch den ganzen Prozess zu leiten. Die Spalte _Done_ ist eine [Checkbox-Spalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox), die dazu dient, erledigte To-dos abzuhaken.
 
-![Hochzeitplanung Checkliste](wedding-more-than-200-todos.png)
-
-Unsere Checkliste für die Hochzeitplanung enthält bereits über 200 ToDos, damit Sie nichts vergessen.
+{{< template id="de0ea6ddde484de99645" >}}
 
 ### Eigene To-dos erstellen
 

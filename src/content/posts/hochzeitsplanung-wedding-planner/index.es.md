@@ -20,11 +20,9 @@ Uno de los días más bonitos e importantes de la vida está a la vuelta de la e
 
 ## Lista de control para la planificación de la boda con más de 200 tareas pendientes
 
-Normalmente, la planificación de una boda comienza unos 13 meses antes del gran día. Si quieres tener un lugar popular para la boda, a veces incluso antes. Es importante no perder de vista el gran número de tareas. Por eso, en el centro de nuestra plantilla Wedding [Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) se encuentra la _lista de comprobación_, que ya cuenta con más de 200 tareas predefinidas. Además, esta tabla registra cuándo debe completarse la tarea correspondiente. Siempre hay una tarea superior, que contiene varios subapartados individuales para guiarle a través de todo el proceso. La columna _"Check"_ es una [casilla de verificación]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) que se utiliza para marcar las tareas pendientes completadas.
+Normalmente, la planificación de una boda comienza unos 13 meses antes del gran día. Si quieres tener un lugar popular para la boda, a veces incluso antes. Es importante no perder de vista el gran número de tareas. Por eso, en el centro de nuestra plantilla Wedding [Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) se encuentra la _lista de comprobación_, que ya cuenta con más de 200 tareas predefinidas. Además, esta tabla registra cuándo debe completarse la tarea correspondiente. Siempre hay una tarea superior, que contiene varios subapartados individuales para guiarle a través de todo el proceso. La columna _"Done"_ es una [casilla de verificación]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) que se utiliza para marcar las tareas pendientes completadas.
 
-![Lista de control para la planificación de la boda](wedding-more-than-200-todos.png)
-
-Nuestra lista de control para la planificación de la boda ya contiene más de 200 tareas para que no se le olvide nada.
+{{< template id="de0ea6ddde484de99645" >}}
 
 ### Cree sus propias tareas pendientes
 
