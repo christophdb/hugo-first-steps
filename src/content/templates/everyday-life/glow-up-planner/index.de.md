@@ -93,7 +93,7 @@ sections:
          image: '/images/template_page_glow-up-planner_02.png'
          image_alt: 'Glow-up-Planer mit Skin-Care-Routinen für morgens und abends'
        - headline: 'Fitnesspläne und Workouts zusammenstellen'
-         text: 'Stellen Sie in Ihrem Glow-up Planer strukturierte Fitnesspläne mit passenden Workouts für verschiedene Muskelgruppen zusammen. Sie hinterlegen Übungen, Sätze, Wiederholungen und Trainingsfrequenzen, **behalten Belastung und Regeneration im Blick** und sehen direkt, welche Workouts zu Ihrem Glow up, Ihrer Ausstrahlung und Ihrem gewünschten Lebensstil passen'
+         text: 'Stellen Sie in Ihrem Glow-up Planer strukturierte Fitnesspläne mit passenden Workouts für verschiedene Muskelgruppen zusammen. Sie hinterlegen Übungen, Sätze, Wiederholungen und Trainingsfrequenzen, **behalten Belastung und Regeneration im Blick** und sehen direkt, welche Workouts zu Ihrem Glow up, Ihrer Ausstrahlung und Ihrem gewünschten Lebensstil passen.'
          image: '/images/template_page_glow-up-planner_03.png'
          image_alt: 'Glow-up Planer mit Trainingsplan und Workout-Übersicht'
        - headline: 'Ernährung und Nährstoffaufnahme'
@@ -101,7 +101,7 @@ sections:
          image: '/images/template_page_glow-up-planner_04.png'
          image_alt: 'Glow-up Planer mit Ernährungsübersicht und Nährstoffaufnahme'
        - headline: 'Gewohnheiten festlegen und tracken'
-         text: 'Entwickeln Sie feste Gewohnheiten, legen Sie die Frequenz fest und markieren Sie erledigte Tage. So erkennen Sie schnell, wo Ihr Glow-up stabil läuft und wo Sie nachjustieren sollten. Kalender-Ansichten, einfache Checklisten und übersichtliche Statistiken helfen Ihnen, Ihre täglichen Gewohnheiten zu tracken und **aus Vorsätzen verlässliche Habits zu machen**, die zu mehr Wohlbefinden und innerem Glow führen'
+         text: 'Entwickeln Sie feste Gewohnheiten, legen Sie die Frequenz fest und markieren Sie erledigte Tage. So erkennen Sie schnell, wo Ihr Glow-up stabil läuft und wo Sie nachjustieren sollten. Kalender-Ansichten, einfache Checklisten und übersichtliche Statistiken helfen Ihnen, Ihre täglichen Gewohnheiten zu tracken und **aus Vorsätzen verlässliche Habits zu machen**, die zu mehr Wohlbefinden und innerem Glow führen.'
          image: '/images/template_page_glow-up-planner_05.png'
          image_alt: 'Glow-up Planer mit Habit-Tracking und Fortschrittsübersicht'
 
