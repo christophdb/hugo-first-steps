@@ -7,6 +7,7 @@ url: '/de/vorlage/studienplaner'
 aliases:
     - '/de/vorlage/semester-schedule'
     - '/de/vorlage/semesterplaner'
+    - '/de/studentenplaner'
 category: 'everyday-life'
 functions:
 seo:
