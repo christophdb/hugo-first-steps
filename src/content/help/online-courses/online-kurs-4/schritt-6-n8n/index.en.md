@@ -20,7 +20,7 @@ This step is a demonstration: you can simply follow along to see how these piece
 
 ## A workflow orchestrator
 
-This kind of tool has a name: a **workflow orchestrator**. The principle is always the same — you connect applications together as a sequence of actions, without writing any code: you configure each step, a node, and the tool passes the data from one to the next. Several solutions share this space and feel very similar in use; you may already have come across *Zapier* or *Make*, which offer comparable services.
+This kind of tool has a name: a **workflow orchestrator**. The principle is broadly the same from one to the next — you connect applications together as a sequence of actions, without writing any code: you configure each step, a node, and the tool passes the data from one to the next. Several solutions share this space and feel very similar in use; you may already have come across *Zapier* or *Make*, which offer comparable services.
 
 We put n8n forward for two specific reasons. First, it is **open source** and you can host it yourself: your data does not necessarily pass through a third-party service. Second, and most importantly, it is SeaTable that **develops and maintains** the official n8n node — you stay within an ecosystem the vendor controls and documents, rather than being at the mercy of a connector built by someone else. The other tools can talk to SeaTable too, most often through its API; but with n8n, you are on ground you master from end to end.
 

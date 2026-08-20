@@ -50,7 +50,7 @@ A document on its own does not say much: it is its lines that count. The `Line i
 
 ## How it all fits together
 
-The `Documents` and `Line items` tables are linked: on the document side, the `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Line items` column gathers all of its lines; on the line side, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Document` points to the document it belongs to. This is the structure any commercial document follows — a header and its lines — from the invoice to the delivery note. Each line also links its `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Product` to the catalog, which lets it show the product's `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Description` without retyping it.
+The `Documents` and `Line items` tables are linked: on the document side, the `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Line items` column gathers all of its lines; on the line side, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Document` points to the document it belongs to. A header and its lines is a very common way to organize a commercial document, whether it is an invoice or a delivery note. Each line also links its `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Product` to the catalog, which lets it show the product's `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Description` without retyping it.
 
 In a well-run warehouse, the same goods pass through three states, and your base tells them apart:
 

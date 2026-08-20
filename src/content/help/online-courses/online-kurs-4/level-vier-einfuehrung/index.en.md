@@ -58,8 +58,8 @@ New to this companion? The plugin includes a short Welcome course — pick it fr
 
 To follow this course successfully, you will need:
 
-1. **SeaTable**: any SeaTable system works. The easiest is a [free SeaTable Cloud account]({{< relref "pages/registration" >}}). Everything the course uses is available on the free plan, both on the cloud and self-hosted.
-2. **The course plugin**: the online-courses plugin, to add to your base. We explain how to install it just before the first step. <!-- TODO: plugin install procedure / link -->
+1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine.
+2. **The course plugin**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), to add to your base. We explain how to install it just before the first step. 
 3. **Forum**: an [account on our community forum](https://forum.seatable.com/)  if you would like to receive a badge after completing the course.
 4. **Optional, for the webhook step**: you will send an external notification using [ntfy](https://ntfy.sh/). No account is needed and you can confirm receipt in your browser, but to receive it on your phone you will need to install the ntfy app from your app store.
 5. **Optional, for the n8n step**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Google](https://www.google.com/drive/) account (for Google Drive) — n8n offers a free trial with no credit card, and a Google account is one you very likely already have. Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
@@ -74,7 +74,7 @@ The course takes **about an hour and a half**, but you go at your own pace. Brea
 
 At the end of this course, you can test your knowledge with a quiz:
 
-- The quiz is in English and mixes multiple-choice questions with tasks about the base you will have equipped throughout the course. <!-- TODO: quiz URL -->
-- If you pass, you receive a badge for your forum profile, which makes your skills visible. <!-- TODO: forum badge URL -->
+- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-4/) is in English and mixes multiple-choice questions with tasks about the base you will have equipped throughout the course.
+- If you pass, you receive a [badge for your forum profile](https://forum.seatable.com/badges/114/completed-seatable-course-4-automation-integration), which makes your skills visible.
 
 What are we waiting for? Let's go!

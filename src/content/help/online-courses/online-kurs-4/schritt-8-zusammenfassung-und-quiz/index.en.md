@@ -32,7 +32,7 @@ And, cutting across all of this, **artificial intelligence**: it read a delivery
 
 All that's left is to put your knowledge to the test. The quiz actually takes the shape of a **SeaTable form** — one last nod to what you have just learned. It mixes questions about the features you came across and questions about the base you have equipped throughout the course.
 
-When you're ready, open the [Course 4 quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-level-4). If you pass, you receive a badge for your profile on the forum, which makes your skills visible. <!-- TODO: forum badge URL -->
+When you're ready, open the [Course 4 quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-4/). If you pass, you receive a [badge for your profile on the forum](https://forum.seatable.com/badges/114/completed-seatable-course-4-automation-integration), which makes your skills visible.
 
 ## What's next?
 

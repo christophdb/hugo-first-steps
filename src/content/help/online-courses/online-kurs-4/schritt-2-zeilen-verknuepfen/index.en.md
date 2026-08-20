@@ -28,7 +28,7 @@ A SeaTable automation always follows the same pattern: a trigger — the event t
 >
 > Second action: Add links between `Line items` and `Documents` — by comparing `{{< seatable-icon icon="dtable-icon-single-line-text" >}}Document reference` (`Line items`) and `{{< seatable-icon icon="dtable-icon-single-line-text" >}}Delivery reference` (`Documents`)
 
-You build it in your base, with the plugin as your companion. In your base, open the **online-courses plugin** and select **Step 2**.
+You build it in your base, with the online courses plugin as your companion. [Activate it in your base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}}) if not already done, and then open it and select **Step 2**.
 
 It starts by asking whether you would like a hand. Go it alone and it sends you straight to a check of your finished automation, matched against the summary above. Choose the guided path and it walks you through the stages below, one page at a time, confirming each before you move to the next — the very stages laid out here, so you can follow along on the course as well.
 
