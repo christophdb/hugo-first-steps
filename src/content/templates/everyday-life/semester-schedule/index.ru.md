@@ -7,6 +7,8 @@ url: '/ru/shablon/planirovshchik-ucheby'
 aliases:
     - '/ru/shablon/raspisaniya-semestra'
     - '/ru/шаблон/semester-schedule'
+    - '/ru/studentcheskiy-planner'
+    - '/ru/studentenplaner'
 category: 'everyday-life'
 functions:
 seo:
