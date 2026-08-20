@@ -1,5 +1,6 @@
 ---
-title: 'Planifier des funérailles - pour des adieux dans la dignité'
+title: 'Planifier des funérailles – pour des adieux dans la dignité'
+description: Vous avez perdu un être cher et souhaitez que les funérailles à venir se déroulent sans encombre ? Ou souhaitez-vous organiser vos propres funérailles afin de soulager vos proches après votre décès ? Cet article vous fournit toutes les informations importantes dont vous devez tenir compte pour l'organisation des obsèques.
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/fr/organiser-funerailles'
 aliases:
     - /fr/beerdigung-planen
 seo:
-    title:
-    description:
+    title: Planifier des funérailles - pour des adieux dans la dignité
+    description: En cas de décès, les proches ne savent souvent pas comment organiser des funérailles. Cet article vous aide à faire vos adieux dans la dignité.
 categories:
     - 'best-practice'
 tags:
@@ -16,7 +17,7 @@ tags:
 color: '#a59ecd'
 ---
 
-Vous avez perdu un être cher et souhaitez que les funérailles à venir se déroulent sans encombre ? Ou vous souhaitez organiser vos propres funérailles afin de soulager vos proches après votre décès ? Cet article vous fournit toutes les informations importantes dont vous devez tenir compte pour l'organisation des obsèques.
+## Questions fréquentes lorsque vous planifiez des funérailles
 
 {{< faq "Combien coûtent des funérailles ?" >}}
 
@@ -35,7 +36,7 @@ Vous aurez notamment besoin de la carte d'identité du défunt, de son acte de n
 
 {{< faq "Faut-il faire appel à une entreprise de pompes funèbres ?" >}}
 
-Oui. En Allemagne, la loi stipule que certaines activités, comme le transport du corps, ne peuvent être effectuées que par un entrepreneur de pompes funèbres.
+Oui. En Allemagne et dans d'autres pays, la loi stipule que certaines activités, comme le transport du corps, ne peuvent être effectuées que par un entrepreneur de pompes funèbres.
 {{< /faq >}}
 
 {{< faq "Qui inviter aux funérailles ?" >}}
@@ -50,43 +51,37 @@ Le décès d'un proche est associé à une grande **tristesse** pour les proches
 
 ![Un enterrement dans un cimetière](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
-Un enterrement classique dans un cimetière reste pour beaucoup le premier choix.
-
-C'est pourquoi il est conseillé de parler ouvertement de la mort et des funérailles avec votre famille et vos amis de votre vivant. Cela vous permettra non seulement d'exprimer vos propres souhaits, mais aussi de prendre connaissance des idées de vos proches et d'éviter que l'organisation des funérailles ne corresponde pas aux souhaits de la personne décédée.
+Un enterrement classique dans un cimetière reste pour beaucoup le premier choix. C'est pourquoi vous devriez parler ouvertement de la mort et des funérailles avec votre famille et vos amis de votre vivant. Cela vous permettra non seulement d'exprimer vos propres souhaits, mais aussi de prendre connaissance des idées de vos proches et d'éviter que l'organisation des funérailles ne corresponde pas aux souhaits de la personne décédée.
 
 ## Désigner les responsables des funérailles
 
-Afin d'éviter le chaos en cas de décès, il est préférable de déterminer au préalable qui s'occupera des obsèques et du règlement de vos affaires juridiques. Décidez d'une ou de plusieurs **personnes de confiance**. Il peut s'agir de parents proches comme le conjoint, les enfants ou les frères et sœurs, mais aussi d'amis proches.
+Afin d'éviter le chaos en cas de décès, vous devriez déterminer au préalable qui s'occupera des obsèques et du règlement de vos affaires juridiques. Décidez d'une ou de plusieurs **personnes de confiance**. Il peut s'agir de parents proches comme le conjoint, les enfants ou les frères et sœurs, mais aussi d'amis proches.
 
 {{< warning headline="Remarque importante" text="N'oubliez pas de donner à vos personnes de confiance une [procuration](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) qui leur permettra, entre autres, d'accéder à vos comptes après votre décès. Sinon, les personnes responsables risquent de ne pas pouvoir agir, car elles devront attendre des semaines, voire des mois, l'ouverture du testament ou la délivrance d'un certificat d'héritier." />}}
 
 ![Planifier des funérailles - en cas d'urgence, les personnes concernées ne savent souvent pas par quoi commencer.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
-Planifier des funérailles - en cas d'urgence, les personnes concernées ne savent souvent pas par quoi commencer.
-
-Pour que vos obsèques se déroulent exactement comme vous l'avez imaginé, vous devriez rechercher un dialogue ouvert avec vos personnes de confiance et les mettre au courant de tous vos souhaits. Une **planification précoce** et une **prévoyance financière** de votre part peuvent soulager considérablement vos proches. D'autant plus qu'en Allemagne, ils sont tenus, en vertu de l'assistance légale aux morts, d'organiser des funérailles appropriées.
+En cas d'urgence, les personnes concernées qui doivent organiser des funérailles ne savent souvent pas par quoi commencer. Pour que vos obsèques se déroulent exactement comme vous l'avez imaginé, vous devriez rechercher un dialogue ouvert avec vos personnes de confiance et les mettre au courant de tous vos souhaits. Une **planification précoce** et une **prévoyance financière** de votre part peuvent soulager considérablement vos proches. D'autant plus qu'en Allemagne et dans d'autres pays, ils sont tenus, en vertu de l'assistance légale aux morts, d'organiser des funérailles appropriées.
 
 ## Choisir le mode et le lieu d'inhumation
 
 Le choix d'un mode de sépulture est directement lié à l'endroit où vous ou la personne décédée souhaitez être enterré(e). Il s'agit de la décision centrale que vous devez prendre. C'est de cette décision que découlera toute la planification ultérieure.
 
-**Les types d'enterrement autorisés en Allemagne sont**
+**Les types d'enterrement autorisés en Allemagne sont :**
 
 - Un enterrement classique dans un cimetière
 - Une crémation suivie de l'inhumation de l'urne dans le columbarium
 - une crémation suivie d'une inhumation dans la nature (par exemple dans une forêt de repos ou dans des zones maritimes désignées)
 
-Peut-être y a-t-il des parents ou des amis à côté desquels vous aimeriez reposer ? Dans ce cas, une tombe commune pourrait également convenir. En dehors des cimetières, les lieux de repos alternatifs dans la nature sont de plus en plus populaires.
+Peut-être y a-t-il des parents ou des amis à côté desquels vous aimeriez reposer ? Dans ce cas, une **tombe commune** pourrait également convenir. En dehors des cimetières, les lieux de repos alternatifs dans la nature sont de plus en plus populaires.
 
 ![Chemin forestier](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
 
-Un dernier repos paisible dans la nature est de plus en plus apprécié.
+Un **dernier repos paisible dans la nature** est de plus en plus apprécié – en Allemagne, les enterrements ne sont toutefois pas du tout autorisés partout, mais uniquement dans des zones autorisées !
 
-En Allemagne, les enterrements ne sont toutefois pas du tout autorisés partout, mais uniquement dans des zones autorisées !
+{{< warning headline="Attention" text="Dans de nombreux pays, il est par exemple **interdit** d'enterrer les défunts dans son propre jardin ou de ramener les cendres chez soi. En Allemagne, il est également interdit de créer des diamants artificiels à partir des cendres d'un défunt, de lancer les cendres dans le ciel nocturne lors d'un feu d'artifice ou de les envoyer dans l'espace à l'aide d'une fusée." />}}
 
-{{< warning headline="Attention" text="Il est par exemple **interdit** d'enterrer les défunts dans son propre jardin ou de ramener les cendres chez soi. En Allemagne, il est également interdit de créer des diamants artificiels à partir des cendres d'un défunt, de lancer les cendres dans le ciel nocturne lors d'un feu d'artifice ou de les envoyer dans l'espace à l'aide d'une fusée." />}}
-
-Discutez avec vos proches de la manière dont ils aimeraient se souvenir de vous. En effet, les avis sont très partagés sur la manière dont on souhaite se souvenir d'un être cher : certains préfèrent une tombe comme lieu de commémoration, d'autres un objet personnel ou des photos en souvenir de la personne décédée ; et d'autres encore font chaque année, le jour du décès, quelque chose qui leur rappelle les moments passés ensemble.
+Discutez avec vos proches de la manière dont ils aimeraient se souvenir de vous. En effet, les avis sont très partagés sur la manière dont on souhaite se souvenir d'un être cher : certains préfèrent une **tombe comme lieu de commémoration**, d'autres un objet personnel ou des photos en souvenir de la personne décédée ; et d'autres encore font chaque année, le jour du décès, quelque chose qui leur rappelle les moments passés ensemble.
 
 ## Planifier les frais d'obsèques
 
@@ -96,9 +91,7 @@ L'enterrement classique dans un cimetière est le plus cher. Une grande partie d
 
 ![Tombes dans un cimetière](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
 
-Urne ou cercueil ? Le type d'enterrement joue un rôle important dans le coût de la tombe.
-
-Les frais de sépulture varient en outre selon le cimetière, l'emplacement et la taille de la tombe. Même si vous pouvez agir sur certains leviers, un enterrement signifie souvent des coûts élevés pour les proches. C'est pourquoi, dans l'idéal, vous devriez épargner de l'argent avant votre décès afin de couvrir les frais prévisibles pour vos souhaits.
+Urne ou cercueil ? Le type d'enterrement joue un rôle important dans le coût de la tombe. Les **frais** de sépulture varient en outre selon le cimetière, l'emplacement et la taille de la tombe. Même si vous pouvez agir sur certains leviers, un enterrement signifie souvent des coûts élevés pour les proches. C'est pourquoi, dans l'idéal, vous devriez **épargner de l'argent** avant votre décès afin de couvrir les frais prévisibles pour vos souhaits.
 
 ## Obtenir les documents pour les funérailles
 
@@ -118,11 +111,11 @@ Vous ne pouvez pas épargner cette procédure à vos proches, mais vous pouvez d
 
 ## Faire appel à une entreprise de pompes funèbres
 
-En Allemagne, il n'est pas possible d'enterrer un défunt sans faire appel à un entrepreneur de pompes funèbres. Par exemple, dans la plupart des Länder, la loi prévoit que le corps doit être transporté du lieu de décès à une entreprise de pompes funèbres - et de là à la dernière demeure.
+En Allemagne et dans d'autres pays, il n'est pas possible d'enterrer un défunt sans faire appel à un entrepreneur de pompes funèbres. Par exemple, dans la plupart des pays, la loi prévoit que le corps doit être transporté du lieu de décès à une entreprise de pompes funèbres - et de là à la dernière demeure.
 
 ![](adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
 
-**Les autres services funéraires sont**
+**Les autres services funéraires sont :**
 
 - les soins et/ou l'incinération du corps
 - l'organisation des obsèques, y compris toutes les formalités
@@ -137,23 +130,21 @@ Si la personne décédée a exprimé ses souhaits ou les a consignés par écrit
 
 ### Engager un orateur funéraire
 
-Les cérémonies funéraires sont généralement accompagnées d'un orateur indépendant ou d'un ecclésiastique de la paroisse concernée. Contactez suffisamment tôt un orateur funéraire approprié et discutez avec lui du déroulement de la cérémonie. En règle générale, il abordera dans son **discours** la vie de la personne décédée et aura besoin pour cela d'informations détaillées et de suffisamment de temps de préparation.
+Les cérémonies funéraires sont généralement accompagnées d'**un orateur indépendant ou d'un ecclésiastique** de la paroisse concernée. Contactez suffisamment tôt un orateur funéraire approprié et discutez avec lui du déroulement de la cérémonie. En règle générale, il abordera dans son **discours** la vie de la personne décédée et aura besoin pour cela d'informations détaillées et de suffisamment de temps de préparation.
 
 ![Orateur pour les funérailles](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
 
 Prêtre, pasteur ou orateur indépendant : qu'est-ce qui convient à vos funérailles prévues ?
 
-Un ecclésiastique organise généralement la cérémonie gratuitement, tandis qu'un orateur indépendant est rémunéré sur une base horaire. Vous pouvez engager un **orateur professionnel** qui personnalisera la cérémonie avec vous pour quelques centaines d'euros.
+Un ecclésiastique organise généralement la cérémonie **gratuitement**, tandis qu'un orateur indépendant est **rémunéré sur une base horaire**. Vous pouvez engager un orateur professionnel qui personnalisera la cérémonie avec vous pour quelques centaines d'euros.
 
 ### Lieu et déroulement d'une cérémonie funéraire
 
-Dans la plupart des cas, les obsèques sont précédées d'une cérémonie à proximité de la dernière demeure (par exemple dans un cimetière), dans une chapelle ou une salle de cérémonie. Vous pouvez également organiser la cérémonie indépendamment de l'enterrement, par exemple au funérarium ou dans un tout autre lieu. Les pompes funèbres disposent généralement des contacts nécessaires dans leur région pour coordonner l'**utilisation des locaux**.
+Dans la plupart des cas, les obsèques sont précédées d'une **cérémonie à proximité de la dernière demeure** (par exemple dans un cimetière), dans une chapelle ou une salle de cérémonie. Vous pouvez également organiser la cérémonie **indépendamment de l'enterrement proprement dit**, par exemple au funérarium ou dans un tout autre lieu. Les pompes funèbres disposent généralement des contacts nécessaires dans leur région pour coordonner l'**utilisation des locaux**.
 
-Demandez à temps aux proches s'ils souhaitent contribuer **activement** à la cérémonie funéraire. Ils pourraient par exemple adresser quelques mots à la personne décédée ou lire un poème. Lors de cérémonies religieuses, des **prières** peuvent également être prononcées. Faites jouer **de la musique** que la personne décédée aimait lors de la cérémonie. De nombreuses salles de cérémonie disposent d'une bonne chaîne stéréo ou même d'un piano. Si certains membres de la famille sont musicalement et émotionnellement capables de le faire, vous pouvez également jouer des instruments et chanter ensemble.
+Demandez à temps aux proches s'ils souhaitent contribuer **activement** à la cérémonie funéraire. Ils pourraient par exemple adresser quelques mots à la personne décédée ou lire un poème. Lors de cérémonies religieuses, des **prières** peuvent également être prononcées. Faites jouer **de la musique** que la personne décédée aimait lors de la cérémonie. De nombreuses salles de cérémonie disposent d'une bonne chaîne stéréo ou même d'un piano. Si certains membres de la famille sont musicalement et émotionnellement capables de le faire, vous pouvez également **jouer des instruments et chanter ensemble**. La musique et le chant peuvent apporter du réconfort lors d'une cérémonie funéraire.
 
 ![Cahier de chants pour les funérailles](david-beale-gOsGgt4olNs-unsplash-min.jpg)
-
-La musique et le chant peuvent apporter du réconfort lors d'une cérémonie funéraire.
 
 Souvent, l'assemblée se réunit encore une fois après les funérailles **dans un restaurant ou un café** pour ce que l'on appelle **la veillée funèbre**. Cela est particulièrement utile si de nombreuses personnes sont venues de loin. Si vous souhaitez proposer ce service, vous devez réserver suffisamment tôt des tables dans un restaurant et convenir avec le restaurateur des plats et des boissons souhaités.
 
@@ -171,7 +162,7 @@ Les vêtements de deuil traditionnels diffèrent d'une culture à l'autre : en E
 
 ![Vêtements de deuil pour l'enterrement](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
-Les vêtements de deuil ne sont toutefois pas obligatoires. Les cérémonies funéraires non conventionnelles ou joyeuses sont également autorisées si le défunt a souhaité que l'on célèbre sa vie et sa personne plutôt que **l'ambiance funèbre**. Planifiez donc la cérémonie funéraire en vous détachant des traditions et en respectant entièrement les souhaits du défunt.
+Les [vêtements de deuil]({{< relref "posts/kleiderschrank-organisieren" >}}) ne sont toutefois pas obligatoires. Les cérémonies funéraires non conventionnelles ou joyeuses sont également autorisées si le défunt a souhaité que l'on célèbre sa vie et sa personne plutôt que **l'ambiance funèbre**. Planifiez donc la cérémonie funéraire en vous détachant des traditions et en respectant entièrement les [souhaits]({{< relref "posts/bucket-list" >}}) du défunt.
 
 ## Avis de décès et invitation des personnes endeuillées
 
@@ -179,22 +170,18 @@ En cas de décès d'un être cher, vous devez **en informer** le plus rapidement
 
 {{< warning headline="Congé spécial" text="Il n'existe **pas de dispositions légales** relatives aux congés spéciaux en cas de décès. Renseignez-vous auprès de votre employeur pour savoir s'il accorde un congé spécial payé au-delà des jours de congé convenus dans le contrat de travail. **Il est d'usage de prévoir 1 à 2 jours de congé spécial en cas de décès d'un membre de la famille proche.** Il s'agit du conjoint, des enfants, des parents, des beaux-parents, des grands-parents et des frères et sœurs." />}}
 
-Pour **informer les personnes endeuillées**, vous avez, dans le meilleur des cas, accès à une liste de contacts dans le téléphone portable ou le compte e-mail du défunt. Si vous connaissez très bien l'entourage du défunt, vous pouvez également noter les personnes de mémoire et trouver leurs coordonnées. Si la personne décédée était active sur les médias sociaux, vous pouvez écrire à des contacts sur ces sites.
+Pour **informer les personnes endeuillées**, vous avez, dans le meilleur des cas, accès à une [liste de contacts dans le téléphone portable ou le compte e-mail du défunt]({{< relref "posts/digitaler-nachlass" >}}). Si vous connaissez très bien l'entourage du défunt, vous pouvez également noter les personnes de mémoire et trouver leurs coordonnées. Si la personne décédée était active sur les [médias sociaux]({{< relref "posts/social-media-management" >}}), vous pouvez écrire à des contacts sur ces sites.
 
 Une fois que vous avez planifié la date et le lieu de la cérémonie, vous pouvez également faire paraître un **avis de décès** dans un quotidien local et inviter à la cérémonie. Si celle-ci a lieu dans un lieu public tel qu'un cimetière, toute personne ayant reçu l'information peut assister à la cérémonie. Vous pouvez toutefois demander aux personnes présentes aux obsèques de s'abstenir de présenter leurs condoléances sur place.
 
 ![Avis de décès dans les journaux](pexels-guel-isik-3837464.jpg)
 
-Les personnes âgées, en particulier, lisent encore souvent les avis de décès dans les journaux locaux.
-
 Si la cérémonie funéraire ne doit avoir lieu que dans un cercle restreint, n'inscrivez pas de date dans l'avis de décès, afin que seules les personnes invitées y participent vraiment. Vous devriez de toute façon inviter **personnellement** - et idéalement une semaine avant la cérémonie - les personnes les plus proches du défunt. Vous vous assurez ainsi que chacun reçoit la nouvelle à temps et a la possibilité de faire ses adieux au défunt.
 
-## Liste de contrôle et planificateur en ligne pour les funérailles
+## Planificateur en ligne et liste de contrôle pour les funérailles
 
-Avec tout ce qu'il faut prévoir pour un enterrement, il est facile de se perdre. SeaTable a donc réuni les principales choses à faire dans une liste de contrôle. Vous pouvez également utiliser le planificateur en ligne pour coordonner l'invitation des personnes à enterrer ou calculer le coût des funérailles.
+Avec tout ce qu'il faut prévoir pour un enterrement, il est facile de se perdre. SeaTable a donc réuni les principales choses à faire dans une liste de contrôle. Vous pouvez également utiliser le planificateur en ligne pour coordonner l'invitation des personnes endeuillées ou calculer le coût des funérailles.
 
-![Modèle SeaTable «Planifier des funérailles» avec checklist, tâches et aperçu des coûts](Funeral-planner.png)
-
-Modèle SeaTable avec aperçu des coûts pour les funérailles
+{{< template-box id="6624590d2b024f068339" >}}
 
 Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/funeral-planner" >}}).

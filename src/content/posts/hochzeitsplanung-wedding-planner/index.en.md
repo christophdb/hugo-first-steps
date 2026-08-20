@@ -21,11 +21,9 @@ One of the most beautiful and important days in life is just around the corner: 
 
 ## Checklist wedding planning with over 200 to-dos
 
-Usually the planning of a wedding starts about 13 months before the big day. If you want to have a popular wedding location, sometimes even earlier. It is important not to lose track of the sheer number of tasks. That's why at the centre of our Wedding [Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) template is the _checklist_ with already over 200 predefined tasks. In addition, this table records when the corresponding to-do must be completed. There is always a superordinate to-do, which contains several individual sub-items to guide you through the whole process. The _Check_ column is a [checkbox column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) that is used to tick off completed to-dos.
+Usually the planning of a wedding starts about 13 months before the big day. If you want to have a popular wedding location, sometimes even earlier. It is important not to lose track of the sheer number of tasks. That's why at the centre of our Wedding [Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) template is the _checklist_ with already over 200 predefined tasks. In addition, this table records when the corresponding to-do must be completed. There is always a superordinate to-do, which contains several individual sub-items to guide you through the whole process. The _Done_ column is a [checkbox column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) that is used to tick off completed to-dos.
 
-![Wedding Planning Checklist](wedding-more-than-200-todos.png)
-
-Our wedding planning checklist already contains over 200 to-dos so that you don't forget anything.
+{{< template id="de0ea6ddde484de99645" >}}
 
 ### Create your own to-dos
 

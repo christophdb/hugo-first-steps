@@ -20,11 +20,9 @@ L'un des plus beaux et des plus importants jours de la vie est sur le point d'ar
 
 ## Check-list de planification de mariage avec plus de 200 choses à faire
 
-En général, l'organisation d'un mariage commence environ 13 mois avant le grand jour. Parfois même plus tôt si l'on souhaite avoir un lieu de mariage populaire. Il est important de ne pas perdre la vue d'ensemble face à la quantité de tâches à accomplir. C'est pourquoi la _liste de contrôle_ avec plus de 200 tâches prédéfinies se trouve au centre de notre modèle [Wedding Planner]({{< relref "templates/everyday-life/wedding-planner" >}}). De plus, ce tableau indique quand la tâche en question doit être effectuée. Il y a toujours une tâche principale qui contient plusieurs sous-rubriques individuelles pour vous guider tout au long du processus. La colonne _Check_ est une [colonne de cases à]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) cocher qui sert à cocher les choses à faire terminées.
+En général, l'organisation d'un mariage commence environ 13 mois avant le grand jour. Parfois même plus tôt si l'on souhaite avoir un lieu de mariage populaire. Il est important de ne pas perdre la vue d'ensemble face à la quantité de tâches à accomplir. C'est pourquoi la _liste de contrôle_ avec plus de 200 tâches prédéfinies se trouve au centre de notre modèle [Wedding Planner]({{< relref "templates/everyday-life/wedding-planner" >}}). De plus, ce tableau indique quand la tâche en question doit être effectuée. Il y a toujours une tâche principale qui contient plusieurs sous-rubriques individuelles pour vous guider tout au long du processus. La colonne _Done_ est une [colonne de cases à cocher]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) qui sert à cocher les choses à faire terminées.
 
-![Liste de contrôle de planification de mariage](wedding-more-than-200-todos.png)
-
-Notre check-list pour l'organisation du mariage contient déjà plus de 200 ToDos, afin que vous n'oubliiez rien.
+{{< template id="de0ea6ddde484de99645" >}}
 
 ### Créer ses propres to-do
 
