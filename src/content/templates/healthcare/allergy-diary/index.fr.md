@@ -46,7 +46,24 @@ sections:
           text: 'Symptômes, calendrier d’allergie au pollen, liste de médicaments : dans SeaTable, tout est relié et accessible à tout moment.'
         - icon: 'bell'
           headline: 'Tableau de bord des symptômes'
-          text: 'Des tableaux de bord clairs montrent l’évolution de vos symptômes, vos troubles les plus fréquents et les médicaments les plus utilisés.' 
+          text: 'Des tableaux de bord clairs montrent l’évolution de vos symptômes, vos troubles les plus fréquents et les médicaments les plus utilisés.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Des entreprises de premier plan font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable ?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Téléchargements la 1re année sur Docker Hub
+      - number: "1 500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4,6"
+        text: "Note sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action – témoignages clients"
+          id: fr-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

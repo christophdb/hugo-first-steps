@@ -10,7 +10,7 @@ tags:
 url: '/de/vorteile-datenbanken'
 aliases:
     - /de/vorteile-von-datenbanken
-color: '#d4ad2a'
+color: '#c0621d'
 seo:
     title: 'Datenbanken – 5 Vorteile gegenüber einfachen Tabellen'
     description: 'Erfahren Sie, warum Datenbanken Tabellen überlegen sind: Mehr Nutzerfreundlichkeit, Skalierbarkeit und Sicherheit für Ihre Daten.'

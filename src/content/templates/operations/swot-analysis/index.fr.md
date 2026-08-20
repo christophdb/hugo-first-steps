@@ -136,7 +136,7 @@ sections:
         text: "Traduisez automatiquement les facteurs SWOT dans d'autres langues à l'aide d'une invite personnalisée, ce qui est idéal pour les équipes internationales ou les ateliers stratégiques mondiaux. Chaque membre de l'équipe travaille dans sa propre langue, tandis que l'IA consolide les résultats de manière centralisée dans une analyse commune."
         icon: language
       - headline: 'Reconnaissance de texte avec OCR'
-        text: "Grâce à la reconnaissance optique de caractères (OCR), les documents numérisés et les photos de tableaux blancs deviennent consultables. Le texte reconnu est directement intégré à votre modèle d'analyse SWOT, où il peut être évalué de manière structurée et utilisé pour d'autres analyses."
+        text: "Grâce à la reconnaissance optique de caractères (OCR), les documents photographiés et les photos de tableaux blancs deviennent consultables ; le texte reconnu est directement intégré à votre modèle d'analyse SWOT, où il peut être évalué de manière structurée et utilisé pour des analyses ultérieures."
         icon: image
       - headline: 'Analyse de documents avec Extract'
         text: 'Avec Extract, vous pouvez évaluer des études de marché, des rapports ou des analyses concurrentielles et transférer automatiquement les passages pertinents dans vos tableaux, ce qui constitue une base pratique pour en déduire des facteurs SWOT.'

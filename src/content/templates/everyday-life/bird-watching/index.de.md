@@ -48,6 +48,23 @@ sections:
           headline: 'Ansichten passend wählen'
           text: 'Nutzen Sie Galerie-Ansicht für Ihre schönsten Fotos, Tabellen für Ihr Sichtungs-Logbuch oder Karten für Hotspots und Zugvögel. Ihre personalisierte Vogel-App bleibt dadurch übersichtlich und unterstützt Sie dabei, heimische Vögel zu bestimmen und zu vergleichen.'  
 
+    - name: "customer-1"
+      weight: 4
+      title: "Führende Unternehmen weltweit vertrauen auf SeaTable"
+      subtitle: "Wer nutzt SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Downloads im ersten Jahr von Docker Hub
+      - number: "1.500+"
+        text: "Tägliche Nutzer auf SeaTable Cloud"
+      - number: "4.6"
+        text: "Bewertung auf Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable im Einsatz - Erfolgsgeschichten"
+          id: de-homepage-customer-1
+
     - name: "content-12"
       weight: 5
       classes:
@@ -55,13 +72,14 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Vögel erkennen und dokumentieren leicht gemacht'
       subtitle: 'Vogelbeobachtung mit SeaTable'
-      description: 'Mit der KI No-Code Plattform SeaTable nutzen Sie eine Vogel-App, die Ihnen mehr bietet als klassische Bestimmungs-Apps oder verstreute Notizen. Sie können nicht nur Vögel erkennen mit einer App, sondern auch Ihre eigene Datenbank für Sichtungen, Bilder und Fundorte aufbauen. Gerade wenn Sie heimische Vögel bestimmen und Bilder speichern wollen, ist die Kombination aus Bestimmungshilfe und flexibler Dokumentation besonders wertvoll. In Ihrer persönlichen Vogel-App halten Sie Naturbeobachtung, Fotodokumentation und Artenliste an einem Ort fest.'
+      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie eine Vogel-App, die Ihnen mehr bietet als klassische Bestimmungs-Apps oder verstreute Notizen. Sie können nicht nur Vögel erkennen mit einer App, sondern auch Ihre eigene Datenbank für Sichtungen, Bilder und Fundorte aufbauen. Gerade wenn Sie heimische Vögel bestimmen und Bilder speichern wollen, ist die Kombination aus Bestimmungshilfe und flexibler Dokumentation besonders wertvoll. In Ihrer persönlichen Vogel-App halten Sie Naturbeobachtung, Fotodokumentation und Artenliste an einem Ort fest.'
       items:
       - text: '**Eigene Datenbank statt Zettelwirtschaft**: Erfassen Sie jede Sichtung direkt digital und verknüpfen Sie Bilder, Artennamen und Beobachtungsdaten ohne Tool-Brüche.'
       - text: '**Immer griffbereit**: Sie können Ihre Panini-Tauschbörse jederzeit und von überall aufrufen, um z. B. neue Einträge zu machen oder zu tauschen.'
       - text: '**Jederzeit verfügbar**: Nutzen Sie Ihre Vogel-App unterwegs auf dem Smartphone oder zuhause am Desktop, um Vögel zu bestimmen, Bilder zu vergleichen und neue Einträge anzulegen.'
       - text: '**Kein Vorwissen nötig**: SeaTable bietet eine intuitive Oberfläche und lässt sich als No-Code-Datenbank ohne Programmierkenntnisse an Ihre Ornithologie-Workflows anpassen.' 
-      - text: '**Für Garten, Exkursion und Citizen Science**: Dokumentieren Sie heimische Vögel, Zugvögel oder seltene Gäste und erweitern Sie die Vorlage jederzeit um eigene Kriterien.**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
+      - text: '**Für Garten, Exkursion und Citizen Science**: Dokumentieren Sie heimische Vögel, Zugvögel oder seltene Gäste und erweitern Sie die Vorlage jederzeit um eigene Kriterien.'
+      - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
       image_position: [left]
       image: '/images/template_page_birdwatching_01.png'
       image_alt: 'Vogel-App mit Artenliste und Sichtungsübersicht'
@@ -123,8 +141,8 @@ sections:
       - headline: 'Wichtige Details gezielt extrahieren'
         text: 'Extrahieren Sie aus Freitexten automatisch nützliche Angaben wie Fundort, Wetter, Uhrzeit oder Verhaltensweisen. Dadurch wird aus losen Beobachtungsnotizen ein auswertbares Sichtungs-Logbuch, das Ihnen hilft, einen unbekannten Vogel zu erkennen und Beobachtungen sauber für spätere Analysen aufzubereiten.'
         icon: layer-group
-      - headline: 'Texte aus PDFs sicher auslesen'
-        text: 'Nutzen Sie OCR, um Texte aus Screenshots, PDFs oder gescannten Dokumenten automatisch zu extrahieren und in passende Felder Ihrer Vogel-App zu übertragen. So übernehmen Sie Beobachtungslisten, Fundorte oder Notizen schnell in Ihr Sichtungs-Logbuch, ohne Inhalte manuell abzutippen.'
+      - headline: 'Texte aus Bildern sicher auslesen'
+        text: 'Nutzen Sie OCR, um Texte aus Screenshots oder Bildern automatisch zu extrahieren und in passende Felder Ihrer Vogel-App zu übertragen. So übernehmen Sie Beobachtungslisten, Fundorte oder Notizen schnell in Ihr Sichtungs-Logbuch, ohne Inhalte manuell abzutippen.'
         icon: image
       - headline: 'Eigene KI-Regeln flexibel anwenden'
         text: 'Definieren Sie mit Custom Prompts individuelle Regeln für Ihre Vogelbeobachtung, zum Beispiel zur Bewertung von Sichtungsqualität, zur Erkennung typischer Muster oder zur Strukturierung freier Beschreibungen. So wird Ihre personalisierte Vogel-App noch genauer auf Ihre Arbeitsweise in der Ornithologie zugeschnitten.'

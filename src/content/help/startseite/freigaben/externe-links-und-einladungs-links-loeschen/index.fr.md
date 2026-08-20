@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/externe-links-und-einladungs-links-loeschen'
 seo:
     title: 'Supprimer liens externes et invitations dans SeaTable'
-    description: 'Guide complet pour supprimer les liens externes et d’invitation dans SeaTable en toute sécurité, avec explications sur les accès.'
+    description: "Guide complet pour supprimer les liens externes et d'invitation dans SeaTable en toute sécurité, avec explications sur les accès."
 
 ---
 
@@ -32,21 +32,21 @@ Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d
 3. Selon le type de lien que vous souhaitez supprimer, cliquez soit sur **Lien d'invitation**, soit sur **Lien externe**.
 4. Passez avec la souris sur le lien et cliquez sur le **symbole x**.
 
-![Suppression de liens externes et de liens d’invitation](images/delete-invitation-and-external-links.jpg)
+![Suppression de liens externes et de liens d'invitation](images/delete-invitation-and-external-links.jpg)
 
 ## Suppression via l'administration d'équipe
 
 {{< warning  headline="Réservé aux administrateurs de l'équipe"  text="Pour pouvoir accéder à l'administration d'équipe, vous devez être **administrateur d'équipe**." />}}
 
-1. Allez sur la **page d'accueil** de SeaTable et cliquez sur l'**image de** votre **avatar**.
+1. Allez sur la **page d'accueil** de SeaTable et cliquez sur votre **image d'avatar**.
 
 ![Accès à l'administration d'équipe](images/Zugriff-auf-die-Teamverwaltung.png)
 
-3. Ouvrez l'**administration d'équipe** de votre compte.
-4. Cliquez dans la navigation sur **Bases**.
-5. Selon le type de lien que vous souhaitez supprimer, cliquez soit sur **Liens d'invitation**, soit sur **Liens externes**.
-6. Sélectionnez le **lien** à supprimer.
-7. Confirmez la suppression en activant le bouton "Supprimer". **Régulateur** et cliquez sur **Supprimer le lien d'invitation** (pour les liens d'invitation) ou **Supprimer la validation** (pour les liens externes).  
+2. Ouvrez l'**administration d'équipe** de votre compte.
+3. Cliquez dans la navigation sur **Bases**.
+4. Selon le type de lien que vous souhaitez supprimer, cliquez soit sur **Liens d'invitation**, soit sur **Liens externes**.
+5. Sélectionnez le **lien** à supprimer.
+6. Confirmez la suppression en activant le **curseur**, puis cliquez sur **Supprimer le lien d'invitation** (pour les liens d'invitation) ou **Supprimer le partage** (pour les liens externes).  
    ![Confirmer la suppression](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
 {{< warning  headline="Ne fonctionne que pour les liens de base" >}}

@@ -28,17 +28,17 @@ Alles, was Sie sonst noch über externe Links wissen sollten, erfahren Sie im Ar
 
 ![Externen Link für eine Ansicht erstellen in SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
-1. Öffnen Sie die **Ansicht** einer Tabelle, die Sie freigeben möchten.
-2. Klicken Sie auf **Ansicht teilen** und anschließend auf **Externer Link**.
-3. Legen Sie bei Bedarf ein eigenes oder zufällig generiertes **Passwort** und/oder ein **Ablaufdatum** für den Link fest.
-4. Wählen Sie aus, ob Sie für den Link eine **zufällige URL** generieren oder selbst eine **Wunsch-URL** festlegen möchten.
+1. Öffnen Sie eine **Ansicht**, die Sie freigeben möchten.
+2. Klicken Sie in den Ansichtsoptionen auf **Ansicht teilen** und anschließend auf **Externer Link**.
+3. Legen Sie bei Bedarf ein eigenes oder zufällig generiertes **Passwort**, ein **Ablaufdatum** und eine **Beschreibung** für den Link fest.
+4. Wählen Sie aus, ob Sie eine **zufällige URL** generieren oder eine **eigene URL** festlegen möchten.
 5. Bestätigen Sie mit **Erstellen**.
 6. Der erstellte Link wird Ihnen im Anschluss unten angezeigt und kann einfach **kopiert** werden.
 
 ## Einbinden in eine Website
 
-Externe Links können Sie auch verwenden, um **Ansichten** in eine Webseite einzubetten. Dazu fügen Sie den **Link** einfach in den Editor Ihres Content-Management-Systems ein.
+Externe Links können Sie auch verwenden, um **Ansichten in eine Webseite einzubetten**. Dazu fügen Sie den Link einfach in den Editor Ihres Content-Management-Systems ein.
 
-So sieht zum Beispiel die Einbindung von einer Tabelle mit Pressemitteilungen auf unserer Presseseite aus:
+So könnte zum Beispiel die Einbindung einer Tabelle mit Pressemitteilungen auf einer Webseite aussehen:
 
 ![Einbetten von externen Ansichten in eine Website.](images/image-1666823263581.png)

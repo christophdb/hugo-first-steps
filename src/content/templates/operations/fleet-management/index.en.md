@@ -138,7 +138,7 @@ sections:
         text: 'With Extract, you can automatically extract information such as costs, mileage, or types of damage from workshop invoices, damage reports, or emails. The recognized values are structured in fields in your table, making evaluations and cost control much easier.'
         icon: layer-group
       - headline: 'Text recognition with OCR'
-        text: 'With OCR, you can automatically recognize text from scanned invoices, handover reports, or logbooks and transfer the content directly to your digital fleet overview. License plate numbers, amounts, mileage, and other data are available without having to type them in manually.'
+        text: 'With OCR, you can **automatically recognize text from images of invoices, handover reports, or logbooks** and import the content directly into your digital fleet overview. License plate numbers, amounts, mileage, and other data are thus available without having to type them in manually.'
         icon: image
       - headline: 'Automated summaries with Summarize'
         text: 'With Summarize, you can automatically summarize extensive damage reports, email exchanges with repair shops, or monthly reports in just a few sentences. You can grasp the essence of complex processes more quickly and prepare decisions or management updates much more efficiently.'

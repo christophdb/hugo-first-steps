@@ -47,7 +47,24 @@ sections:
           text: 'Document meals, discomfort, and relevant information – reliably, thanks to integrated reminders.'
         - icon: 'chart-line'
           headline: 'Analysis'
-          text: 'Use the dashboard in the Universal App to analyze your food diary – no extra tools required.' 
+          text: 'Use the dashboard in the Universal App to analyze your food diary – no extra tools required.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide trust SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100,000+"
+        text: Downloads in the first year on Docker Hub
+      - number: "1,500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Rating on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action – success stories"
+          id: en-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
@@ -117,7 +134,7 @@ sections:
         text: 'Have entries automatically classified into categories like "Breakfast," "Snack," "High Sugar," or "Suspicious symptoms." This helps you recognize patterns in your eating behavior faster and discuss them more specifically with experts.'
         icon: table
       - headline: 'Automatic Text Recognition with OCR'
-        text: 'Scan or photograph food packaging, handouts from nutritionists, or plans from clinics and have relevant information recognized automatically. The OCR function reads text from images and makes it available for further analysis.'
+        text: 'Take photos of food packaging, nutrition counseling handouts, or hospital charts, and have the system automatically recognize relevant information. The OCR feature extracts text from images and makes it available for further analysis.'
         icon: image
       - headline: 'Intelligent Data Extraction'
         text: 'Use the Extract function to pull specific information like calorie counts, allergens, or recommended daily amounts from texts and write them into dedicated columns. This reduces manual effort and ensures consistent data structures.'

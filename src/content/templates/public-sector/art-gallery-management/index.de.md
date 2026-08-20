@@ -140,7 +140,7 @@ sections:
         text: 'Mit Extract überträgt die KI Inhalte aus Leihverträgen, Gutachten oder Inventarlisten in Ihre Vorlage. Objektbezeichnungen, Maße und Herkunftsangaben werden erkannt und in die passenden Felder geschrieben – ohne manuelles Abtippen in Ihrem digitalen Bestandsverzeichnis.'
         icon: layer-group
       - headline: 'OCR für Karteikarten und Akten'
-        text: 'Mit OCR liest SeaTable Textinhalte aus eingescannten Bildern, wie z. B. Karteikarten oder alten Inventarbüchern. Die erkannten Texte werden den jeweiligen Objekten im System zugeordnet – analoges Archivmaterial wird so digital und sofort durchsuchbar verfügbar.'
+        text: 'Mit OCR liest SeaTable Textinhalte aus Bildern, wie z. B. Karteikarten oder alten Inventarbüchern. Die erkannten Texte werden den jeweiligen Objekten im System zugeordnet – analoges Archivmaterial wird so digital und sofort durchsuchbar verfügbar.'
         icon: image
       - headline: 'Statusberichte auf Knopfdruck'
         text: 'Mit Summarize erzeugt SeaTable automatisch kompakte Berichte: verliehene Exponate, laufende Restaurierungen oder fällige Zustandsprüfungen. Die KI fasst Tabellenfelder zusammen und liefert verständliche Übersichten für Kuratoriumsmeetings und das Sammlungsmanagement für Museen.'

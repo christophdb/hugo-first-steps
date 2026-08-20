@@ -99,9 +99,11 @@ Angebotsmanagement © Patrick Daxenbichler / adobe stock
 
 Ein passgenaues Angebotsmanagement realisiert sich nicht von allein. Dafür sind zu viele Aspekte zu berücksichtigen. Um den Überblick zu behalten und sämtliche Prozesse so effizient und effektiv wie möglich organisieren, hat es große Vorteile, die komplette Angebotsbearbeitung mittels Software zu managen.
 
-Dafür bietet der Markt heute schon einige Softwarelösungen, die vielseitig sind und sich flexibel auf die Anforderung des Vertriebs anpassen lassen. Ob [klassisches CRM]({{< relref "posts/crm-angebotsmanagement" >}}), Customer Service oder andere Sales-Bereiche – mit den passenden Tools vereinen Sie Ihr komplettes Vertriebsgeschäft in einem System und reduzieren die Komplexität des Angebotsmanagements auf ein Minimum. Zu den bekanntesten Tools für ein digitales Angebotsmanagement gehören HubSpot, SAP CRM oder ActiveCampaign.
+Dafür bietet der Markt heute schon einige Softwarelösungen, die vielseitig sind und sich flexibel auf die Anforderung des Vertriebs anpassen lassen. Ob [klassisches CRM]({{< relref "templates/sales/crm-sales" >}}), Customer Service oder andere Sales-Bereiche – mit den passenden Tools vereinen Sie Ihr komplettes Vertriebsgeschäft in einem System und reduzieren die Komplexität des Angebotsmanagements auf ein Minimum. Zu den bekanntesten Tools für ein digitales Angebotsmanagement gehören HubSpot, SAP CRM oder ActiveCampaign.
 
 Wer das Rund-um-Sorglos-Paket für sein Angebotsmanagement sucht, findet mit [SeaTable]({{< relref "/" >}}) eine optimale, kostengünstige Alternative. Mit den Funktionen dieses Tools können Sie sämtliche Vertriebsprozesse automatisieren und alle Daten mittels integriertem Webformular unkompliziert sammeln. Für das Lösen von Kundenproblemen, die Beantwortung von Anfragen und das Sortieren von Feedback ist das ein großes Plus.
+
+{{< template-box id="80356f5aa87e4a879b52" >}}
 
 Sowohl CRM und Customer Support als auch Supply Chain Management können Sie mit SeaTable zentral an einem Ort managen und allen Mitarbeitern ganz ohne zusätzlichen Aufwand zur Verfügung stellen. So weiß jeder immer, wie der aktuelle Stand eines jeden Angebots ist. Und: mittels Zeitleiste und Kanban-Board können Sie [Fristen ganz einfach visualisieren und einhalten]({{< relref "templates/projects/project-plan" >}}). So legen Sie die Basis für eine wirklich erfolgreiche Vertriebsarbeit.
 

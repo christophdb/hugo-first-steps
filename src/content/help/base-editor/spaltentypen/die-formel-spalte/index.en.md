@@ -69,6 +69,8 @@ Below are a few examples that illustrate the utility and use of formulas.
 - [Formula example: Calculate days until an event]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
 - [Formula example: Search for a word in a text]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
+You can find a complete overview of all formulas in the [Formula Reference]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
+
 ## Mathematical conventions also apply in SeaTable
 
 Of course you can rely on the fact that mathematical conventions also find their application in the formulas of SeaTable. Here are the most important examples:

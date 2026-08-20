@@ -111,3 +111,11 @@ Ce type de page vous permet de concevoir une page avec des éléments statiques,
 ![Commutation entre les enregistrements sur les pages d'un seul enregistrement](images/Switch-between-records-on-single-record-pages.gif)
 
 [En savoir plus sur les pages de type enregistrement unique dans les apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})
+
+## Type de page : HTML
+
+Contrairement à tous les autres types de page, qui contiennent des éléments prédéfinis et imposent une grande partie de la structure de la page, vous avez ici les mains libres : au-delà de l'approche no-code, vous pouvez **concevoir des interfaces utilisateur individuelles basées sur HTML, JavaScript et CSS** et les ajouter à votre application sous forme de pages HTML. Vous pouvez ainsi programmer des applications exactement selon vos idées et réaliser sans problème des interactions même complexes. Les cas d'application typiques sont par exemple **des formulaires au design individuel, des types de graphiques personnalisés ou des schémas avec des éléments cliquables**.
+
+![Exemple d'une page HTML](images/html-page.png)
+
+[En savoir plus sur les pages HTML dans les apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/html-seiten-in-universellen-apps" >}})

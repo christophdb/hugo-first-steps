@@ -3,9 +3,10 @@ title: 'Análise do concorrente'
 description: 'Compare e analise concorrentes centralmente, identifique nichos de mercado e tome decisões estratégicas baseadas em dados.'
 date: '2025-10-09'
 lastmod: '2026-05-13'
-url: '/pt/modelo/analiz-konkurentov'
+url: '/pt/modelo/analise-da-concorrencia'
 aliases:
     - '/pt/modelo/competitor-analysis'
+    - '/pt/modelo/analiz-konkurentov'
 category: 'marketing'
 functions:
 seo:

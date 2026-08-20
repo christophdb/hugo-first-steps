@@ -141,7 +141,7 @@ sections:
         text: 'Mit Extract werten Sie unstrukturierte Informationen wie Stellenbeschreibungen, interne Memos oder E‑Mails aus und ziehen automatisch relevante Daten wie Ansprechpartner, Schulungsbedarf oder Compliance‑Themen. Diese landen im Einarbeitungsplan in eigenen Feldern und bilden eine verlässliche Grundlage für Ihr Einarbeitungskonzept.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Laden Sie Scans von Verträgen, Papierformularen oder handschriftlich ausgefüllten Onboarding Checklisten hoch und nutzen Sie die OCR‑Funktion, um enthaltene Texte automatisch zu erkennen. So stehen Vertragsdaten, Termine oder Hinweise direkt strukturiert in Ihrer Einarbeitungsplan Vorlage zur Verfügung, ohne aufwändige manuelle Übertragungen.'
+        text: 'Laden Sie Bilder von Verträgen, Papierformularen oder handschriftlich ausgefüllten Onboarding Checklisten hoch und nutzen Sie die OCR‑Funktion, um enthaltene Texte automatisch zu erkennen. So stehen Vertragsdaten, Termine oder Hinweise direkt strukturiert in Ihrer Einarbeitungsplan Vorlage zur Verfügung, ohne aufwändige manuelle Übertragungen.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
         text: 'Summarize fasst Feedbackgespräche, Notizen aus den ersten Wochen oder längere Kommentarthreads automatisch in wenigen Sätzen zusammen. Gemeinsam mit Ihrer Einarbeitungsplan Vorlage gewinnen Sie so schnell einen Überblick über den Stand der Einarbeitung neuer Mitarbeiter und erkennen frühzeitig, wo zusätzlicher Unterstützungsbedarf besteht.'

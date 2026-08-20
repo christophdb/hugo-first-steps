@@ -140,7 +140,7 @@ sections:
         text: "Grâce à Extract, l'IA transfère les données des contrats de prêt ou listes d'inventaire vers votre modèle. Désignations, dimensions et informations d'origine sont reconnues et saisies automatiquement – sans ressaisie manuelle dans votre inventaire numérique au musée."
         icon: layer-group
       - headline: 'OCR pour fiches et dossiers'
-        text: "Grâce à l'OCR, SeaTable extrait le contenu textuel de fiches ou d'anciens registres d'inventaire numérisés. Les textes sont associés aux objets correspondants dans le système – vos archives analogiques deviennent ainsi consultables sous forme numérique immédiatement."
+        text: "Grâce à la technologie OCR, SeaTable extrait le contenu textuel d'images, telles que des fiches ou d'anciens registres d'inventaire. Les textes reconnus sont associés aux objets correspondants dans le système : les archives analogiques deviennent ainsi numériques et immédiatement consultables."
         icon: image
       - headline: "Rapports d'état en un clic"
         text: "Grâce à Summarize, SeaTable génère des rapports concis sur les œuvres prêtées, restaurations en cours ou contrôles d'état à effectuer. L'IA synthétise les champs des tableaux et fournit des aperçus clairs pour vos réunions et la gestion des collections du musée."

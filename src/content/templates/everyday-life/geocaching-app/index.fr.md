@@ -46,7 +46,24 @@ sections:
           text: "Grâce à l'application de géocaching SeaTable, vous pouvez à tout moment suivre l'emplacement des caches, consulter les entrées du journal de bord, suivre les objets traçables et consulter les statistiques." 
         - icon: 'chart-line'
           headline: 'Statistiques et analyses'
-          text: Créez des rapports détaillés grâce à des tableaux de bord modulables et voyez d'un seul coup d'œil combien de caches actives vous possédez et combien de trouvailles ont été enregistrées.  
+          text: Créez des rapports détaillés grâce à des tableaux de bord modulables et voyez d'un seul coup d'œil combien de caches actives vous possédez et combien de trouvailles ont été enregistrées.
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Des entreprises de premier plan font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable ?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Téléchargements la 1re année sur Docker Hub
+      - number: "1 500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4,6"
+        text: "Note sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action – témoignages clients"
+          id: fr-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

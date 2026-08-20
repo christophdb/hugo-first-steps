@@ -6,6 +6,8 @@ lastmod: '2026-07-08'
 url: '/template/student-planner'
 aliases:
     - '/template/semester-schedule'
+    - '/student-planner'
+    - '/studentenplaner'
 category: 'everyday-life'
 functions:
 seo:

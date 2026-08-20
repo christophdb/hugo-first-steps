@@ -48,6 +48,23 @@ sections:
           headline: 'Estadísticas y análisis'
           text: 'Cree informes detallados gracias a paneles de control personalizables y compruebe de un solo vistazo cuántos cachés activos tiene y cuántos hallazgos se han registrado.'  
 
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes de todo el mundo confían en SeaTable"
+      subtitle: "¿Quién usa SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Descargas el primer año desde Docker Hub
+      - number: "1.500+"
+        text: "Usuarios diarios en SeaTable Cloud"
+      - number: "4,6"
+        text: "Valoración en Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en acción: casos de éxito"
+          id: es-homepage-customer-1
+
     - name: "content-12"
       weight: 5
       classes:

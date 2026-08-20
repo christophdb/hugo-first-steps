@@ -47,7 +47,24 @@ sections:
           text: 'Documentez vos plats, vos malaises et les informations pertinentes de manière fiable grâce aux rappels intégrés.'
         - icon: 'chart-line'
           headline: 'Analyses'
-          text: 'Utilisez le tableau de bord dans l''application universelle pour analyser votre journal alimentaire sans outils supplémentaires.' 
+          text: 'Utilisez le tableau de bord dans l''application universelle pour analyser votre journal alimentaire sans outils supplémentaires.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Des entreprises de premier plan font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable ?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Téléchargements la 1re année sur Docker Hub
+      - number: "1 500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4,6"
+        text: "Note sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action – témoignages clients"
+          id: fr-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
@@ -117,7 +134,7 @@ sections:
         text: 'Laissez l''IA classer automatiquement vos entrées par catégories telles que « Petit-déjeuner », « Snack », « Teneur élevée en sucre » ou « Suspect en cas de symptômes ». Identifiez plus rapidement les schémas comportementaux et discutez-en plus précisément avec des experts.'
         icon: table
       - headline: 'Reconnaissance de texte avec OCR'
-        text: 'Scannez ou photographiez les emballages alimentaires, les brochures nutritionnelles ou les plans de cliniques. La fonction OCR extrait le texte des images pour le rendre disponible pour vos analyses.'
+        text: "Photographiez des emballages alimentaires, des brochures de conseils nutritionnels ou des plans provenant d'établissements hospitaliers, et laissez le système reconnaître automatiquement les informations pertinentes. La fonction OCR extrait les textes des images et les rend disponibles pour des analyses ultérieures."
         icon: image
       - headline: 'Extraction intelligente avec Extract'
         text: 'Utilisez la fonction Extract pour tirer des informations spécifiques comme les calories, les allergènes ou les apports journaliers recommandés à partir de textes bruts et les placer dans des colonnes dédiées.'

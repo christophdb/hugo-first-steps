@@ -47,7 +47,24 @@ sections:
           text: 'Documente alimentos, mal-estar e informações relevantes – de forma fiável graças aos lembretes integrados.'
         - icon: 'chart-line'
           headline: 'Análises'
-          text: 'Utilize o painel de controlo na Universal App e analise o seu diário alimentar – sem ferramentas extras.' 
+          text: 'Utilize o painel de controlo na Universal App e analise o seu diário alimentar – sem ferramentas extras.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam na SeaTable"
+      subtitle: "Quem utiliza a SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Transferências no primeiro ano no Docker Hub
+      - number: "1.500+"
+        text: "Utilizadores diários na SeaTable Cloud"
+      - number: "4,6"
+        text: "Avaliação no Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação – casos de sucesso"
+          id: pt-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
@@ -117,7 +134,7 @@ sections:
         text: 'Deixe que as entradas sejam classificadas automaticamente por categorias como "Pequeno-almoço", "Lanche", "Alto teor de açúcar" ou "Suspeito em caso de queixas". Assim, você reconhece padrões no seu comportamento alimentar mais rapidamente e pode falar sobre eles de forma mais direcionada com especialistas.'
         icon: table
       - headline: 'Reconhecimento automático de texto com OCR'
-        text: 'Digitalize ou fotografe embalagens de alimentos, folhetos de aconselhamento nutricional ou planos de clínicas e deixe que as informações relevantes sejam reconhecidas automaticamente. A função OCR lê textos de imagens e disponibiliza-os para análises futuras.'
+        text: 'Fotografe embalagens de alimentos, folhetos de aconselhamento nutricional ou planos de clínicas e deixe que as informações relevantes sejam reconhecidas automaticamente. A função OCR extrai textos das imagens e disponibiliza-os para análises posteriores.'
         icon: image
       - headline: 'Extração inteligente de dados com Extract'
         text: 'Com a função Extract, você pode extrair especificamente informações como calorias, alérgenos ou quantidades diárias recomendadas de textos e inseri-las em colunas próprias. Isso reduz o esforço manual e garante estruturas de dados uniformes.'

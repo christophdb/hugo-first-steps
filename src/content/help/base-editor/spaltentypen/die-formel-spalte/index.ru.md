@@ -69,6 +69,8 @@ SeaTable предоставляет **редактор формул** для в�
 - [Пример формулы: Расчет дней до события]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
 - [Пример формулы: Поиск слова в тексте]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
+Полный обзор всех формул вы найдете в [Справочнике формул]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
+
 ## Математические соглашения также применяются в SeaTable
 
 Конечно, вы можете рассчитывать на то, что в формулах SeaTable также применяются математические условности. Вот наиболее важные примеры:

@@ -1,6 +1,6 @@
 ---
 title: 'Créer un plan éditorial | un plan de contenu : Conseils et astuces avec modèle'
-description: 'Concevez votre plan de contenu : structuration, choix des canaux, calendrier, responsabilité et analyse. Profitez de notre checklist, exemples et modèles pour une planification digitale performante.'
+description: "De nos jours, une présence en ligne est essentielle pour le succès de votre entreprise. Il convient de publier régulièrement des contenus via les médias sociaux, votre site web, un blog ou des formats tels qu'un podcast. Il peut s'agir par exemple d'articles, de vidéos explicatives ou d'infographies. Un plan de contenu, également appelé plan éditorial, vous aide à planifier et à créer tous vos contenus. Lisez ci-dessous comment créer facilement votre plan de contenu à l'aide d'un modèle gratuit et ce à quoi vous devez faire attention."
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
@@ -18,21 +18,17 @@ seo:
     description: 'Gagnez en efficacité : modèles gratuits et astuces pour votre planning éditorial et stratégie de contenu.'
 ---
 
-De nos jours, une présence en ligne est essentielle pour le succès de votre entreprise. Il convient de publier régulièrement des contenus via les médias sociaux, votre site web, un blog ou des formats tels qu'un podcast. Il peut s'agir par exemple d'articles, de vidéos explicatives ou d'infographies. Un plan de contenu, également appelé plan éditorial, vous aide à **planifier et à créer tous vos contenus**.
-
-Lisez ci-dessous comment **créer facilement votre plan de contenu à l'aide d'un modèle gratuit** et ce à quoi vous devez faire attention.
-
 ## Quels sont les avantages d'un plan de contenu ?
 
-L'utilisation d'un plan de contenu transversal présente certains avantages pour votre marketing :
+Créer un plan de contenu transversal et l'utiliser comme plan éditorial présente certains avantages pour votre marketing. Voici seulement cinq aspects :
 
 ### Le contenu apparaît comme prévu
 
-Avec un plan de contenu, vous gardez toujours un œil sur les délais pour les projets et les dates de publication importantes. Il est clair **qui** doit **effectuer quelles tâches et quand**. Les goulots d'étranglement au niveau du personnel lors de l'élaboration du plan de contenu ou les délais manqués appartiennent ainsi au passé.
+Avec un plan de contenu, vous gardez toujours un œil sur les délais pour les projets et les dates de publication importantes. Il est clair **qui** doit **effectuer quelles tâches et quand**. Les [goulots d'étranglement au niveau du personnel]({{< relref "posts/personalplanung" >}}) ou les délais manqués lors de la création de contenu appartiennent ainsi au passé.
 
 ### Les responsabilités sont clairement réparties
 
-Vous devriez attribuer un responsable à chaque contribution planifiée. Ainsi, chaque membre de l'équipe peut **filtrer** le **plan éditorial en fonction de ce qu'il a à** faire et voir d'un seul coup d'œil ce qui doit être fait. La **coordination entre plusieurs personnes ou départements est plus facile** si l'on sait clairement qui est impliqué dans quel projet et qui a encore des capacités.
+Vous devriez attribuer un responsable à chaque contribution planifiée. Ainsi, chaque membre de l'équipe peut filtrer le plan éditorial en fonction de ses [tâches à faire]({{< relref "posts/to-do-liste-online" >}}) et voir d'un seul coup d'œil ce qui doit être fait. La **coordination entre plusieurs personnes ou départements est plus facile** si l'on sait clairement qui est impliqué dans quel projet et qui a encore des capacités.
 
 ![L'équipe marketing crée un modèle de plan éditorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
@@ -59,15 +55,15 @@ L'étape suivante consiste à choisir le cadre approprié pour votre plan de con
 - Souhaitez-vous gérer des campagnes complexes ou publier exclusivement du contenu organique ?
 - Suivez-vous une stratégie de référencement pour le contenu ?
 - Quelles sont les tâches partielles qui font partie de la planification du contenu et quels sont les processus que vous souhaitez reproduire avec le plan pour le contenu ?
-- Combien de parties doivent collaborer via le plan éditorial ?
+- Combien de personnes doivent collaborer via le plan éditorial ?
 - Vous avez besoin d'un calendrier et de rappels automatiques ?
 - Quelles données et statistiques souhaitez-vous utiliser pour analyser les performances ?
+
+Les réponses aux questions de la liste de contrôle déterminent la structure et l'étendue du modèle de plan de contenu requis.
 
 ![Une collaboratrice marketing crée un modèle de planification éditoriale.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 La planification du contenu nécessite un concept bien pensé. Droits d'image : © Andrey Popov / Adobe Stock
-
-Les réponses aux questions de la liste de contrôle déterminent la structure et l'étendue du modèle de plan de contenu requis.
 
 ## Créer un plan de contenu en 5 étapes
 
@@ -91,7 +87,7 @@ Une fois les objectifs définis, il s'agit de choisir les médias, les types de 
 
 Les médias importants pour le marketing de contenu sont généralement **votre site web, les blogs, les moteurs de recherche, les plateformes de vidéos et de médias sociaux** comme par exemple YouTube, Instagram, TikTok et Facebook. Quel type de contribution souhaitez-vous publier ? Choisissez entre **texte, image, audio, vidéo** ou un mélange de plusieurs types de contenu. En fonction du média que vous choisissez, les formats de contenu possibles en découlent. Les formats de contenu comprennent les articles de blog, les vidéos YouTube, les [épisodes de podcast]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), les posts sur les réseaux sociaux, les présentations, les webinaires, les livres blancs, les infographies, les newsletters et bien d'autres.
 
-**En règle générale,** concentrez-vous sur deux ou trois formats dans lesquels vous êtes particulièrement bon ou souhaitez le devenir. Ceux-ci doivent être adaptés aux habitudes d'utilisation et aux attentes de votre groupe cible.
+{{< warning headline="Conseil" text="Au début, concentrez-vous sur deux ou trois formats dans lesquels vous êtes particulièrement bon ou souhaitez le devenir. Ceux-ci doivent être adaptés aux habitudes d'utilisation et aux attentes de votre groupe cible." />}}
 
 ### 3\. définir le mix de contenus et la fréquence
 
@@ -108,6 +104,8 @@ Pour la planification du contenu, déterminez également **quand et à quelle fr
 ### 4\. établir un plan éditorial
 
 Il s'agit maintenant d'élaborer concrètement le plan éditorial. Avec le bon outil, c'est un jeu d'enfant. Choisissez par exemple un modèle existant pour votre plan de contenu, adaptez les tableaux à vos propres besoins et insérez vos données.
+
+{{< template id="62d7d05bf70348c080e8" >}}
 
 Votre plan de contenu doit au moins **contenir des colonnes pour un titre de travail ou une idée de contenu ainsi que pour la date de publication prévue**. Il est également utile de prévoir des colonnes pour les documents et les images, le statut de traitement, le responsable, le format, le support ou d'autres informations.
 
@@ -139,11 +137,9 @@ La communication pour la planification des contributions s'étend parfois sur di
 
 ![La communication facilitée - vous pouvez faire des remarques directement dans le plan de contenu](Team-communication.jpg)
 
-Communication simple et directe dans le plan éditorial
-
 ### 5\. clarifier les choses grâce aux statistiques
 
-Vous souhaitez expérimenter avec différentes données et évaluer votre contenu comme vous le souhaitez ? Alors **créez [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) pertinentes avec SeaTable**. Analysez par exemple les mois au cours desquels vous avez publié un nombre particulièrement élevé de contributions, quel collaborateur a écrit le plus de contributions ou sur quel canal le contenu a eu le plus de succès. Cela offre de nombreux aperçus précieux sur les domaines où les choses fonctionnent bien - et sur ceux où il y a peut-être encore des améliorations à apporter.
+Vous souhaitez expérimenter avec différentes données et évaluer votre contenu comme vous le souhaitez ? Alors créez [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) pertinentes avec SeaTable. Analysez par exemple les mois au cours desquels vous avez publié un nombre particulièrement élevé de contributions, quel collaborateur a écrit le plus de contributions ou sur quel canal le contenu a eu le plus de succès. Cela offre de nombreux aperçus précieux sur les domaines où les choses fonctionnent bien - et sur ceux où il y a peut-être encore des améliorations à apporter.
 
 ![Les statistiques donnent un aperçu précieux de la performance du contenu](Statistics.jpg)
 
@@ -157,6 +153,8 @@ Tout bien considéré, vous devez veiller à ce que ...
 
 ## Conclusion sur le plan de contenu
 
-Lors de l'élaboration d'un [plan marketing]({{< relref "templates/marketing/content-calendar" >}}), un plan de contenu clair est nécessaire pour garder une vue d'ensemble sur les contenus prévus, les délais, les tâches et leur statut. Ainsi, les contributions peuvent être planifiées et réalisées avec succès en équipe.
+Lors de l'élaboration d'un [plan marketing]({{< relref "posts/20250318-marketingplan" >}}), un plan de contenu clair est nécessaire pour garder une vue d'ensemble sur les contenus prévus, les délais, les tâches et leur statut. Ainsi, les contributions peuvent être planifiées et réalisées avec succès en équipe.
+
+{{< template-box id="62d7d05bf70348c080e8" >}}
 
 Si nous avons éveillé votre intérêt pour SeaTable, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) dans notre nuage et commencez à travailler directement avec le modèle de plan de contenu.

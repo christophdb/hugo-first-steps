@@ -101,9 +101,11 @@ Gestión de ofertas © Patrick Daxenbichler / adobe stock
 
 Una gestión de suministros a medida no se produce por sí sola. Hay demasiados aspectos que considerar. Para mantener una visión de conjunto y organizar todos los procesos de la forma más eficiente y eficaz posible, tiene grandes ventajas gestionar toda la tramitación de la oferta con un software.
 
-El mercado ya ofrece una serie de soluciones de software que son versátiles y pueden adaptarse con flexibilidad a los requisitos de las ventas. Ya sea [el clásico CRM]({{< relref "posts/crm-angebotsmanagement" >}}), el servicio de atención al cliente u otras áreas de ventas, con las herramientas adecuadas puede combinar todo su negocio de ventas en un solo sistema y reducir la complejidad de la gestión de ofertas al mínimo. Las herramientas más conocidas para la gestión de ofertas digitales son HubSpot, SAP CRM y ActiveCampaign.
+El mercado ya ofrece una serie de soluciones de software que son versátiles y pueden adaptarse con flexibilidad a los requisitos de las ventas. Ya sea [el clásico CRM]({{< relref "templates/sales/crm-sales" >}}), el servicio de atención al cliente u otras áreas de ventas, con las herramientas adecuadas puede combinar todo su negocio de ventas en un solo sistema y reducir la complejidad de la gestión de ofertas al mínimo. Las herramientas más conocidas para la gestión de ofertas digitales son HubSpot, SAP CRM y ActiveCampaign.
 
 Si busca un paquete completo para la gestión de su oferta, SeaTable es una alternativa óptima y rentable. Con las funciones de esta herramienta, puede automatizar todos los procesos de venta y recopilar todos los datos de forma sencilla mediante el formulario web integrado. Para resolver los problemas de los clientes, responder a las consultas y clasificar los comentarios, es una gran ventaja.
+
+{{< template-box id="80356f5aa87e4a879b52" >}}
 
 Con SeaTable, puede gestionar el CRM y la atención al cliente, así como la gestión de la cadena de suministro, de forma centralizada en un solo lugar y ponerlos a disposición de todos los empleados sin ningún esfuerzo adicional. De este modo, todos conocen siempre el estado actual de cada oferta. Y: con el cronograma y el tablero Kanban, puede [visualizar y cumplir fácilmente los plazos]({{< relref "templates/projects/project-plan" >}}). Así es como se sientan los cimientos de un trabajo de ventas realmente exitoso.
 

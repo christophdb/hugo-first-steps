@@ -48,6 +48,23 @@ sections:
           headline: 'Symptom dashboard'
           text: 'Informative dashboards show your symptom history, your most frequent complaints and which medications you have used most.' 
 
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide trust SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100,000+"
+        text: Downloads in the first year on Docker Hub
+      - number: "1,500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Rating on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action – success stories"
+          id: en-homepage-customer-1      
+
     - name: "content-12"
       weight: 5
       classes:

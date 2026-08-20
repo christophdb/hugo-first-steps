@@ -75,6 +75,8 @@ Abgesehen von allgemeinen Open-Source-Sammlungsprogrammen existiert eine Vielzah
 
 Wenn Sie zum Beispiel Schuhe sammeln, könnte Ihre Datenbank in SeaTable so aussehen:
 
+{{< template-box id="cc4113f9d66f488db6e2" >}}
+
 [Registrieren Sie sich]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse und beginnen Sie mit der kostenfreien Version, die für private Sammlungen völlig ausreicht. Benötigen Sie mehr Funktionen oder Speicherplatz, wechseln Sie zur Plus-Variante für 7 € pro Person pro Monat oder zur Enterprise-Version für 14 € pro User pro Monat.
 
 ## Fazit

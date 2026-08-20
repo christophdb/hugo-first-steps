@@ -9,13 +9,13 @@ url: '/fr/aide/partager-base-groupe-seatable'
 aliases:
     - '/fr/aide/eine-base-an-eine-gruppe-freigeben'
 seo:
-    title: 'Partager une base SeaTable avec un groupe : mode d’emploi, droits et limites'
+    title: "Partager une base SeaTable avec un groupe : mode d'emploi, droits et limites"
     description: 'Découvrez comment partager des bases SeaTable avec des groupes en lecture ou écriture, connaître les limites et gérer les accès.'
 ---
 
-Dans SeaTable, les bases appartiennent toujours à un **utilisateur** ou à un **groupe**. Vous pouvez donc [partager]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) des bases soit avec des groupes, soit [avec des utilisateurs individuels]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Cet article explique comment partager une base avec un groupe entier.
+Dans SeaTable, les bases appartiennent toujours à un **utilisateur** ou à un **groupe**. Vous pouvez donc partager des bases soit avec des groupes, soit [avec des utilisateurs individuels]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Cet article explique comment partager une base avec un groupe entier.
 
-Dans ce cas, vous pouvez décider individuellement pour chaque base s'il s'agit d'une **Autorisation de lecture** ou pour obtenir une **Partage en lecture et en écriture** doit agir.
+Dans ce cas, vous pouvez décider individuellement pour chaque base s'il doit s'agir d'un **partage en lecture** ou d'un **partage en lecture et écriture**.
 
 {{< warning  headline="Remarque"  text="Si vous accordez à un groupe une **autorisation de lecture et d'écriture**, **tous les membres** du groupe peuvent **voir** et **modifier** le contenu de la base. Ils ne peuvent cependant **pas** installer **de plugins** ni **partager** la base avec d'autres utilisateurs ou groupes." />}}
 
@@ -26,7 +26,7 @@ Vous pouvez partager vos bases aussi bien **à partir de la page d'accueil** qu'
 ![Partage d'une base avec un groupe](images/Freigabe-einer-Base-an-eine-Gruppe.gif)
 
 1. Allez sur la **page d'accueil de SeaTable**.
-2. Déplacez le curseur de la souris sur la **base** que vous souhaitez diviser et cliquez sur les **trois points** qui apparaissent à droite.
+2. Déplacez le curseur de la souris sur la **base** que vous souhaitez partager et cliquez sur les **trois points** qui apparaissent à droite.
 3. Cliquez sur **Partager**.
 4. Allez sur **Partager avec le groupe**.
 5. Sélectionnez le **groupe** souhaité avec lequel vous souhaitez partager la **base**.

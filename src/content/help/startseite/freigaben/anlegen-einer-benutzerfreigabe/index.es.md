@@ -10,34 +10,34 @@ aliases:
     - '/es/ayuda/anlegen-einer-benutzerfreigabe'
 seo:
     title: 'Compartir una base SeaTable con otros usuarios: tutorial'
-    description: 'Otorga acceso de lectura o edición, selecciona varios usuarios, administra permisos y cancela la compartición en Bases de SeaTable fácilmente.'
+    description: 'Otorgue acceso de lectura o edición, seleccione varios usuarios, administre permisos y cancele la compartición en bases de SeaTable fácilmente.'
 ---
 
-Puedes **compartir bases con otros usuarios** de tu equipo. Puedes elegir entre un uso compartido de **lectura** o un **uso compartido de lectura y escritura**.
+Puede **compartir bases con otros usuarios** de su equipo. Puede elegir entre una **compartición de lectura** y una **compartición de lectura y escritura**.
 
-## Para crear un recurso compartido para un usuario
+## Cómo crear una compartición para un usuario
 
-![Crear un recurso compartido de usuario](images/Anlegen-einer-Benutzerfreigabe.gif)
+![Crear una compartición de usuario](images/Anlegen-einer-Benutzerfreigabe.gif)
 
 1. Vaya a la **página de inicio de SeaTable**.
-2. Mueva el puntero del ratón a la **base** que desea dividir y haga clic en los **tres puntos** que aparecen a la derecha.
+2. Mueva el puntero del ratón a la **base** que desea compartir y haga clic en los **tres puntos** que aparecen a la derecha.
 3. Seleccione la opción **Compartir**.
 4. Vaya a **Compartir con usuarios**.
 5. Seleccione un **usuario** de su equipo.
-6. Establezca si desea asignar **derechos de lectura y escritura** o sólo **de lectura**.
+6. Establezca si desea asignar **derechos de lectura y escritura** o solo **derechos de lectura**.
 7. Haga clic en **Enviar**.
 
-### Liberación dentro de la base
+### Compartición dentro de la base
 
-![Liberación dentro de la base](images/share-a-base.png)
+![Compartición dentro de la base](images/share-a-base.png)
 
-Si te encuentras **en una** base, también puedes crear una acción sin tener que cambiar a la página de inicio. Para ello, haga clic en el **icono** de compartir {{< seatable-icon icon="dtable-icon-share" >}} situado en la parte superior derecha de las **opciones de** la base. La ventana que se abre para crear una acción es exactamente igual a la de la página de inicio. Sólo tienes que seguir las instrucciones del paso 4.
+Si se encuentra **en una base**, también puede crear una compartición sin tener que cambiar a la página de inicio. Para ello, haga clic en el **icono de compartir** {{< seatable-icon icon="dtable-icon-share" >}} situado en la parte superior derecha de las **opciones de la base**. La ventana que se abre para crear una compartición es exactamente igual a la de la página de inicio. Solo tiene que seguir las instrucciones anteriores a partir del paso 4.
 
 ## Cómo añadir a varias personas al mismo tiempo
 
 Siga las instrucciones de clic anteriores hasta el paso 5. Haga clic en el icono {{< seatable-icon icon="dtable-icon-add\_members" >}} para **añadir personas**.
 
-![Crear una acción personalizada para varios usuarios](images/Anlegen-einer-Benutzerdefinierten-Freigabe.png)
+![Crear una compartición personalizada para varios usuarios](images/Anlegen-einer-Benutzerdefinierten-Freigabe.png)
 
 Seleccione aquí varios usuarios colocando las **marcas** correspondientes.
 
@@ -47,12 +47,12 @@ Seleccione aquí varios usuarios colocando las **marcas** correspondientes.
 
 Haga clic en el **símbolo x** para eliminar los usuarios añadidos.
 
-![Revocar una participación de usuario](images/entziehen-einer-Benutzerfreigabe.gif)
+![Revocar una compartición de usuario](images/entziehen-einer-Benutzerfreigabe.gif)
 
-## Permisos de las personas con las que has compartido una base
+## Permisos de las personas con las que ha compartido una base
 
-Un usuario al que usted ha concedido una autorización **no es el propietario de** la base y **no puede**, por ejemplo, cambiar el nombre de la base.
+Un usuario al que usted ha concedido una autorización **no es el propietario** de la base y **no puede**, por ejemplo, cambiar el nombre de la base.
 
-Con el **uso compartido de lectura y escritura**, el usuario puede **ver** y **editar** el contenido de la base. Sin embargo, no puede instalar **ningún plug-in** y **no puede** **compartir** la base con otros usuarios y grupos. Cualquier cambio en la base se aplica a todos los usuarios con acceso.
+Con la **compartición de lectura y escritura**, el usuario puede **ver** y **editar** el contenido de la base. Sin embargo, no puede instalar **ningún plug-in** y **no puede** **compartir** la base con otros usuarios y grupos. Cualquier cambio en la base se aplica a todos los usuarios con acceso.
 
-Si sólo existe una **liberación de lectura**, el usuario no puede **editar** el contenido de la base. Sin embargo, tiene la **opción de crear una copia** de la base para realizar cambios en la tabla copiada. Éstos **no son visibles para** los usuarios con acceso a la base original.
+Si solo existe una **compartición de lectura**, el usuario no puede **editar** el contenido de la base. Sin embargo, tiene la **opción de crear una copia de la base** para realizar cambios en la tabla copiada. Estos **no son visibles** para los usuarios con acceso a la base original.

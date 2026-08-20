@@ -139,7 +139,7 @@ sections:
         text: 'With Extract, you import information from invoices, emails, spreadsheets and internal documents straight into your budget planner template. The AI identifies amounts, categories, time periods and responsible managers, then fills the corresponding columns automatically. This reduces manual copy‑and‑paste work and significantly speeds up data maintenance for recurring budget updates.'
         icon: layer-group
       - headline: 'Capture receipts faster with OCR'
-        text: 'With OCR, you read data directly from scanned invoices, receipts and financial documents into your budget planner app. The AI recognizes date, amount, cost center and supplier and records them in structured fields. This way, paper documents and PDF attachments become part of your digital budget process and can be evaluated together with all other financial data at any time.'
+        text: 'With OCR, you can extract information directly from photographs of invoices, receipts or financial documents. The AI recognises relevant details such as the date, amount, cost centre or supplier and enters them into your budget planning app. This allows even paper-based documents to be seamlessly integrated into digital financial processes and reports.'
         icon: image
       - headline: 'Summarize budget variances clearly'
         text: 'With Summarize, you generate concise overviews of budget variances, remaining budgets and critical trends with one click. The AI condenses values from your budget planner template into understandable status reports for projects, departments or cost centers. These summaries are ideal for management updates, team meetings and quick decisions in the current financial year.'

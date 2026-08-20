@@ -47,7 +47,24 @@ sections:
           text: "Notez les dates importantes, les occasions spéciales ou les voyages dans le calendrier et planifiez vos tenues à l'avance grâce à la vue calendrier pratique." 
         - icon: 'chart-line'
           headline: Tableaux de bord
-          text: "Combien de pantalons ou de vestes possédez-vous ? Ou de vêtements d'hiver adaptés ? Grâce aux tableaux de bord statistiques clairs, vous serez toujours informé."  
+          text: "Combien de pantalons ou de vestes possédez-vous ? Ou de vêtements d'hiver adaptés ? Grâce aux tableaux de bord statistiques clairs, vous serez toujours informé."
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Des entreprises de premier plan font confiance à SeaTable"
+      subtitle: "Qui utilise SeaTable ?"
+      marquee_rows: 2
+      items: 
+      - number: "100 000+"
+        text: Téléchargements la 1re année sur Docker Hub
+      - number: "1 500+"
+        text: "Utilisateurs quotidiens sur SeaTable Cloud"
+      - number: "4,6"
+        text: "Note sur Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en action – témoignages clients"
+          id: fr-homepage-customer-1      
 
     - name: "content-12"
       weight: 5

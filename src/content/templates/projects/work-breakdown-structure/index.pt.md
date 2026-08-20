@@ -141,7 +141,7 @@ sections:
         text: 'Com o Extract, é possível avaliar informações não estruturadas do projeto, como registos ou e-mails, e extrair automaticamente dados relevantes, como responsáveis, prazos ou esforço. Estes são inseridos em campos específicos do seu modelo de planeamento da estrutura do projeto, facilitando o planeamento posterior.'
         icon: layer-group
       - headline: 'Reconhecimento de texto com OCR'
-        text: 'Carregue digitalizações ou capturas de ecrã relacionadas com o planeamento do projeto e utilize a função OCR para reconhecer automaticamente os textos nelas contidos. Desta forma, os marcos, orçamentos ou riscos ficam imediatamente disponíveis no seu modelo de estrutura do plano do projeto.'
+        text: 'Carregue imagens ou capturas de ecrã relacionadas com o planeamento do projeto e utilize a função OCR para reconhecer automaticamente os textos nelas contidos. Desta forma, os marcos, orçamentos ou riscos ficam diretamente disponíveis no seu modelo de plano de estrutura do projeto.'
         icon: image
       - headline: 'Resumos automáticos com Summarize'
         text: 'O Summarize resume automaticamente relatórios de estado extensos ou threads de comentários extensos em poucas frases. Em combinação com o seu modelo de plano estrutural do projeto, pode captar o essencial de uma fase do projeto mais rapidamente e preparar reuniões de estado de forma eficiente.'

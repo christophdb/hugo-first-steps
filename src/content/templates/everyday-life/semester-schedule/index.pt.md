@@ -7,6 +7,8 @@ url: '/pt/modelo/planeador-de-estudos'
 aliases:
     - '/pt/modelo/plano-semestre'
     - '/pt/modelo/semester-schedule'
+    - '/pt/planejador-estudantil'
+    - '/pt/studentenplaner'
 category: 'everyday-life'
 functions:
 seo:

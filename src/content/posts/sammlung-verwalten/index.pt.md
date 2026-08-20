@@ -77,6 +77,8 @@ Além dos programas open source, existem muitos produtos de nicho. Por exemplo, 
 
 Se você coleciona tênis, por exemplo, seu banco de dados no SeaTable pode ser assim:
 
+{{< template-box id="cc4113f9d66f488db6e2" >}}
+
 [Cadastre-se]({{< relref "pages/registration" >}}) com seu e-mail e comece com a versão gratuita, suficiente para coleções pessoais. Se precisar de mais funções ou espaço, mude para a versão Plus por €7 por pessoa/mês ou para a versão Enterprise por €14 por usuário/mês.
 
 ## Conclusão

@@ -135,8 +135,8 @@ sections:
       - headline: 'Belegdaten präzise extrahieren'
         text: 'Mit Extract übernehmen Sie relevante Angaben aus E-Mails, Formulartexten oder Zahlungsnotizen direkt in passende Felder. Die KI erkennt Betrag, Datum, Verwendungszweck, Ansprechpartner oder Spendenart und beschleunigt so die vorbereitende Buchführung und Belegerstellung.'
         icon: layer-group
-      - headline: 'Dokumente per OCR erfassen'
-        text: 'Mit OCR lesen Sie Informationen aus abfotografierten Überweisungsbelegen oder eingereichten Dokumenten automatisiert aus. Die KI extrahiert Spenderdaten, Beträge und Referenzen, damit weniger Daten manuell übertragen und geprüft werden müssen.'
+      - headline: 'Bilder per OCR erfassen'
+        text: 'Mit OCR lesen Sie Informationen aus abfotografierten Überweisungsbelegen oder Dokumenten automatisiert aus. Die KI extrahiert Spenderdaten, Beträge und Referenzen, damit weniger Daten manuell übertragen und geprüft werden müssen.'
         icon: image
       - headline: 'Spendeneingänge kompakt zusammenfassen'
         text: 'Mit Summarize erstellt die KI kurze Übersichten zu offenen Bescheinigungen, neuen Spendeneingängen, Projektständen oder auffälligen Entwicklungen. Dadurch erkennen Schatzmeister und Finance Analysts schneller, was relevant ist, und halten die Spendenverwaltung im Verein ohne aufwendige Sichtung aktuell.'

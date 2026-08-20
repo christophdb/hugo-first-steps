@@ -141,7 +141,7 @@ sections:
         text: "Avec Extract, vous pouvez extraire automatiquement des informations telles que les coûts, le kilométrage ou les types de dommages à partir des factures d'atelier, des rapports de dommages ou des e-mails. Les valeurs reconnues sont structurées dans les champs de votre tableau, ce qui facilite considérablement les évaluations et le contrôle des coûts."
         icon: layer-group
       - headline: 'Reconnaissance de texte avec OCR'
-        text: "Grâce à la reconnaissance optique de caractères (OCR), vous pouvez reconnaître automatiquement les textes issus de numérisations de factures, de protocoles de transfert ou de carnets de bord et transférer directement leur contenu dans votre aperçu numérique du parc automobile. Les numéros d'immatriculation, les montants, les kilomètres ou les données sont ainsi disponibles sans saisie manuelle."
+        text: "Grâce à la technologie OCR, vous pouvez **reconnaître automatiquement les textes contenus dans les images de factures, de procès-verbaux de remise ou de carnets de bord** et importer directement ces informations dans votre tableau de bord numérique de gestion de flotte. Les numéros d'immatriculation, les montants, les kilomètres ou les dates sont ainsi disponibles sans qu'il soit nécessaire de les saisir manuellement."
         icon: image
       - headline: 'Résumés automatique avec Summarize'
         text: "Summarize vous permet de résumer automatiquement en quelques phrases des dossiers de sinistres volumineux, des échanges d'e-mails avec des ateliers ou des rapports mensuels. Vous saisissez plus rapidement l'essentiel des processus complexes et préparez les décisions ou les mises à jour de gestion de manière nettement plus efficace."

@@ -140,7 +140,7 @@ sections:
         text: 'Com o Extract, importa informação de faturas, e‑mails, folhas de cálculo ou documentos internos diretamente para o modelo de planeamento orçamental. A IA reconhece montantes, categorias, períodos e responsáveis e preenche automaticamente as colunas adequadas. Isto reduz trabalho manual repetitivo e acelera de forma sustentável a atualização contínua dos seus dados orçamentais em todas as equipas.'
         icon: layer-group
       - headline: 'Registar recibos com OCR'
-        text: 'Com o OCR, extrai dados de faturas, recibos e documentos financeiros digitalizados diretamente para a aplicação de planeamento orçamental. A IA identifica data, montante, centro de custo e fornecedor e grava tudo em campos estruturados. Assim, documentos em papel e PDFs passam a integrar o fluxo financeiro digital e podem ser avaliados em conjunto com os restantes dados orçamentais existentes.'
+        text: 'Com o OCR, pode extrair diretamente o conteúdo de faturas, recibos ou documentos financeiros fotografados. A IA reconhece dados relevantes, como data, montante, centro de custos ou fornecedor, e insere-os na sua aplicação de planeamento orçamental. Desta forma, é possível integrar facilmente documentos em papel nos processos financeiros digitais e nas análises.'
         icon: image
       - headline: 'Resumir claramente os desvios'
         text: 'Com o Summarize, gera resumos curtos sobre desvios, saldos orçamentais e evoluções críticas. A IA sintetiza os valores do modelo de planeamento orçamental em relatórios de estado compreensíveis para projetos, departamentos ou centros de custo. Estes resumos são ideais para atualizações de gestão, alinhamento entre equipas e decisões rápidas durante o ano orçamental.'

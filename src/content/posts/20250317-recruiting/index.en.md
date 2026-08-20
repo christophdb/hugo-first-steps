@@ -17,9 +17,9 @@ aliases:
 
 ## How to reach the best talent online
 
-Recruiting is no longer a one-sided process in which companies dictate the rules. The balance of power on the labor market has shifted - and significantly so. According to a recent study by the [market research institute Bilendi](https://www.bilendi.de/), every second person is convinced that they can choose their job. Skilled workers are becoming increasingly scarce, while HR departments are desperately trying to fill vacancies. The days when applicants had to scramble for jobs are over in many sectors.
+Recruiting is no longer a one-sided process in which companies dictate the rules. The balance of power on the labor market has shifted - and significantly so. According to a recent study by the market research institute Bilendi, every second person is convinced that they can choose their job. [Skilled workers are becoming increasingly scarce]({{< relref "posts/it-fachkraeftemangel" >}}), while HR departments are desperately trying to fill vacancies. The days when applicants had to scramble for jobs are over in many sectors.
 
-Today, employees often have the upper hand: they make demands, expect attractive working conditions and choose the employers that best meet their expectations. For HR managers, this means that they have to be clever and proactive in their recruiting in order not to lose out in the race for the best minds. But don't worry - in this article you will find out what is important when recruiting, why social recruiting is promising and which tools can help you optimally with applicant management.
+Today, employees often have the upper hand: they make demands, expect attractive working conditions and choose the employers that best meet their expectations. For HR managers, this means that they have to be clever and proactive in their recruiting in order not to lose out in the race for the best minds. But don't worry - in this article you will find out what is important when recruiting, why social recruiting is promising and which tools can help you optimally with [applicant management]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}}).
 
 ![Recruiting starts with a well thought-out strategy](Header-3.jpg)
 
@@ -45,13 +45,13 @@ External recruitment has the advantage that you reach a **greater number of pote
 
 Even though many companies have their own recruiting processes, there are basic phases that are essential. Each of them not only helps to find the best talent, but also strengthens your employer branding. That's why we give you valuable tips for each phase.
 
-- **Determine staffing requirements**: It is not always clear at first glance where and in which area reinforcements are needed. It is therefore worth carrying out a precise needs analysis on a regular basis. Rely on data-based decisions and evaluate which areas have the greatest potential for growth in the long term.
+- **Determine staffing requirements**: It is not always clear at first glance where and in which area reinforcements are needed. It is therefore worth carrying out a precise needs analysis on a regular basis as part of your [personnel planning]({{< relref "posts/personalplanung" >}}). Rely on data-based decisions using [HR software]({{< relref "posts/hr-software" >}}) and evaluate which areas have the greatest potential for growth in the long term.
 - **Create a job description**: A good job description is more than just a list of tasks. It should accurately and attractively articulate the requirements, skills needed and benefits. The key? Authenticity! Let applicants know right from the start what they can expect - from day-to-day work to development opportunities. Use keyword analysis tools to ensure that your job advertisement can be found online.
 - **Select applicants**: Not every application meets the minimum requirements - and that's perfectly normal. With an efficient applicant management system, you can quickly separate the wheat from the chaff. Filter not only by qualifications, but also by cultural fit if possible. After all, similar values and a matching mindset contribute just as much to team success as proven skills.
 - **Conduct interviews**: Interviews are the perfect opportunity to assess both the technical and interpersonal skills of a candidate. Use structured interview guidelines to evaluate fairly and comparably. But also think beyond traditional questions. Why not start with a creative challenge or simulate a mini-project?
 - **Make a decision**: All relevant information should be collected centrally and presented clearly in order to make an informed decision. An evaluation system helps you to compare candidates objectively. Involve your team at an early stage - it is often the colleagues in the respective departments who provide important insights into potential candidates.
 - **Contract signing**: An employment contract is the first step towards working together. Show your new employees at this stage that they are welcome. A small gesture, such as a personalized message or a first insight into the team, leaves a lasting impression.
-- **Onboarding**: Successful onboarding determines how quickly new employees settle into the company. Rely on pre-boarding to establish contact before the first day of work and create a clear induction plan. Offer informal meetings or mentoring programs to make it easier to get started.
+- **Onboarding**: Successful [onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) determines how quickly new employees settle into the company. Rely on pre-boarding to establish contact before the first day of work and create a clear induction plan. Offer informal meetings or mentoring programs to make it easier to get started.
 
 ![Recruiting Funnel Funnel](Recruiting-Funnel.jpg)
 
@@ -111,9 +111,9 @@ The calculation of cost-per-hire is simple: **It is the sum of internal and exte
 
 The search for new talent can quickly become an expensive challenge for companies. This often raises the question: Where can you make savings without sacrificing quality? A smart answer is to use the right tools. Especially in the area of recruiting, there are software solutions that make processes more efficient and save your budget at the same time - an excellent option for this is [SeaTable]({{< relref "/" >}}).
 
-With SeaTable, you have the entire application process under control. From job advertisement to onboarding, everything can be managed centrally and clearly. The **free template for personnel recruiting** allows you to collect applications via a web form in which all important **data and documents** are recorded directly. These are then organized and clearly arranged in a table so that you always have an overview.
+With SeaTable, you have the entire application process under control. From job advertisement to onboarding, everything can be managed centrally and clearly. The [free template for personnel recruiting]({{< relref "templates/human-resources/hr-recruiting" >}}) allows you to collect applications via a web form in which all important **data and documents** are recorded directly. These are then organized and clearly arranged in a table so that you always have an overview.
 
-{{< template id="9abba02477a7435eb3d7" >}}
+{{< template-box id="9abba02477a7435eb3d7" >}}
 
 Process management is also easier: thanks to the integrated **Kanban board** and **calendar**, you can organize your processes clearly and efficiently. Larger HR departments in particular benefit from **collaborative working** in Base. Document the status of recruiting tasks, group your **to-dos** and find the right employees for your team more quickly.
 

@@ -7,6 +7,8 @@ url: '/es/plantilla/planificador-de-estudios'
 aliases:
     - '/es/plantilla/plan-semestre'
     - '/es/plantilla/semester-schedule'
+    - '/es/planificador-estudiantil'
+    - '/es/studentenplaner'
 category: 'everyday-life'
 functions:
 seo:

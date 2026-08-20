@@ -137,7 +137,7 @@ sections:
         text: 'Traduzca automáticamente los factores SWOT a otros idiomas con un mensaje personalizado, ideal para equipos internacionales o talleres de estrategia global. Cada miembro del equipo trabaja en su propio idioma y la IA consolida los resultados de forma centralizada en un análisis conjunto.'
         icon: language
       - headline: 'Reconocimiento de texto con OCR'
-        text: 'Con OCR, los documentos escaneados y las fotos de pizarras blancas se pueden buscar, el texto reconocido se guarda directamente en su plantilla de análisis SWOT, donde se puede evaluar de forma estructurada y utilizar para análisis posteriores.'
+        text: 'Gracias al OCR, los documentos fotografiados y las fotos de pizarras blancas se pueden buscar; el texto reconocido se introduce directamente en tu plantilla de análisis DAFO, donde se puede evaluar de forma estructurada y utilizarse para análisis posteriores.'
         icon: image
       - headline: 'Análisis de documentos con Extract'
         text: 'Con Extract, puede evaluar estudios de mercado, informes o análisis de la competencia e importar automáticamente los pasajes de texto relevantes a sus tablas, lo que constituye una base práctica para derivar factores SWOT.'

@@ -46,7 +46,24 @@ sections:
           text: 'Link species names, photos of native birds, sighting data and locations in a single system. No more switching between an ID app, gallery, maps app and notebook, because you manage your entire birdwatching centrally in one place.' 
         - icon: 'up-right-and-down-left-from-center'
           headline: 'Choose the right views'
-          text: 'Use the gallery view for your best photos, tables for your sightings log or maps for hotspots and migratory birds. Your personalized bird app stays clear and helps you identify and compare native birds with ease.'  
+          text: 'Use the gallery view for your best photos, tables for your sightings log or maps for hotspots and migratory birds. Your personalized bird app stays clear and helps you identify and compare native birds with ease.'
+          
+    - name: "customer-1"
+      weight: 4
+      title: "Leading companies worldwide trust SeaTable"
+      subtitle: "Who uses SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100,000+"
+        text: Downloads in the first year on Docker Hub
+      - number: "1,500+"
+        text: "Daily users on SeaTable Cloud"
+      - number: "4.6"
+        text: "Rating on Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable in action – success stories"
+          id: en-homepage-customer-1      
 
     - name: "content-12"
       weight: 5
@@ -55,13 +72,14 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Identify and document birds, made easy'
       subtitle: 'Birdwatching with SeaTable'
-      description: 'With the SeaTable AI no-code platform, you get a bird app that offers more than classic ID apps or scattered notes. You can not only identify birds with an app, but also build your own database for sightings, photos and locations. Especially when you want to identify native birds and save photos, the combination of identification help and flexible documentation proves particularly valuable. In your personal bird app, you keep nature observation, photo documentation and species list together in one place.'
+      description: 'With the SeaTable [AI no-code platform]({{< relref "/" >}}), you get a bird app that offers more than classic ID apps or scattered notes. You can not only identify birds with an app, but also build your own database for sightings, photos and locations. Especially when you want to identify native birds and save photos, the combination of identification help and flexible documentation proves particularly valuable. In your personal bird app, you keep nature observation, photo documentation and species list together in one place.'
       items:
       - text: '**Your own database instead of paper chaos**: Capture every sighting digitally and link photos, species names and observation data without switching tools or losing information along the way.'
       - text: '**Always at hand**: Open your bird app anytime and anywhere, for example to add new sightings on the spot or to review earlier finds while you are out in the field.'
       - text: '**Available anytime**: Use your bird app on your smartphone while out and about or at home on your desktop to identify birds, compare photos and create new entries.'
       - text: '**No prior knowledge needed**: SeaTable offers an intuitive interface and, as a no-code database, adapts to your ornithology workflows without any programming skills.' 
-      - text: '**For garden, excursion and citizen science**: Document native birds, migratory birds or rare guests and extend the template with your own criteria at any time. **GDPR-compliant**: With SeaTable, your data is hosted in a GDPR-compliant way on servers of the Swiss company Exoscale in Frankfurt.'
+      - text: '**For garden, excursion and citizen science**: Document native birds, migratory birds or rare guests and extend the template with your own criteria at any time.'
+      - text: '**GDPR-compliant**: With SeaTable, your data is hosted in a GDPR-compliant way on servers of the Swiss company Exoscale in Frankfurt.'
       image_position: [left]
       image: '/images/template_page_birdwatching_01.png'
       image_alt: 'Bird app showing a species list and a clear overview of logged sightings with photos and location data'
@@ -123,8 +141,8 @@ sections:
       - headline: 'Extract the key details'
         text: 'Automatically extract useful data from free text, such as location, weather, time or behaviors. This turns loose observation notes into an analyzable sightings log that helps you identify an unknown bird and prepare observations cleanly for later analysis.'
         icon: layer-group
-      - headline: 'Read text from PDFs safely'
-        text: 'Use OCR to automatically extract text from screenshots, PDFs or scanned documents and transfer it into the right fields of your bird app. This way you import observation lists, locations or notes into your sightings log without retyping content manually.'
+      - headline: 'Reliably Extract Text from Images'
+        text: 'Use OCR to automatically extract text from screenshots or images and transfer it to the appropriate fields in your bird app. This allows you to quickly import observation lists, locations, or notes into your sighting log without having to type the content manually.'
         icon: image
       - headline: 'Apply your own AI rules'
         text: 'Use Custom Prompts to define individual rules for your birdwatching, for example to rate sighting quality, detect typical patterns or structure free descriptions. This tailors your personalized bird app even more precisely to how you work in ornithology.'

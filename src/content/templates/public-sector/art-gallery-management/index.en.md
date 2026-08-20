@@ -139,7 +139,7 @@ sections:
         text: 'With Extract, the AI transfers content from loan agreements, expert reports or inventory lists into your template. Object descriptions, dimensions and details of provenance are recognised and entered into the appropriate fields – without the need for manual typing in your digital inventory.'
         icon: layer-group
       - headline: 'OCR for index cards and files'
-        text: 'Using OCR, SeaTable extracts text from scanned images, such as index cards or old inventory books. The recognised text is then linked to the relevant items in the system – making analogue archive material available in digital form and instantly searchable.'
+        text: 'Using OCR, SeaTable extracts text from images, such as index cards or old inventory ledgers. The recognized text is assigned to the corresponding items in the system—making analog archival material digitally accessible and immediately searchable.'
         icon: image
       - headline: 'Status reports at the touch of a button'
         text: 'With Summarize, SeaTable automatically generates concise reports: on loaned exhibits, ongoing restorations or due condition assessments. The AI summarises table fields and provides clear overviews for board meetings and collection management in museums.'

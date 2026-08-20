@@ -10,7 +10,7 @@ tags:
 url: '/database-benefits'
 aliases:
     - /vorteile-von-datenbanken
-color: '#d4ad2a'
+color: '#c0621d'
 seo:
     title: 'Databases: 5 Key Advantages over Tables'
     description: 'Learn the key benefits of databases: scalability, collaboration, error reduction, and efficiency compared to traditional spreadsheets.'

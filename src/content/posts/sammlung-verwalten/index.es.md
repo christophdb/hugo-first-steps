@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de la colección con herramientas digitales'
-description: 'Ya sean monedas, cómics o arte digital: descubre herramientas para catalogar, analizar y proteger tus objetos preciados. Análisis de apps como Evernote, Data Crow y SeaTable para mantener tu colección bajo control.'
+description: 'Ya sean monedas, cómics o arte digital: descubra herramientas para catalogar, analizar y proteger sus objetos preciados. Análisis de apps como Evernote, Data Crow y SeaTable para mantener su colección bajo control.'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
@@ -9,7 +9,7 @@ aliases:
     - /es/sammlung-verwalten
 seo:
     title: 'Gestor de colecciones: apps y soluciones clave'
-    description: 'Los mejores programas digitales para organizar y controlar cualquier tipo de colección: compara y gestiona tus objetos de valor.'
+    description: 'Los mejores programas digitales para organizar y controlar cualquier tipo de colección: compare y gestione sus objetos de valor.'
 categories:
     - 'best-practice'
 tags:
@@ -29,7 +29,7 @@ Los particulares y las empresas gestionan los cobros por diferentes motivos. Dep
 
 ### Utilizar programas de gestión para las clasificaciones
 
-Una posibilidad, por ejemplo, es clasificar elementos, como ocurre en una colección de DVD. Aquí puedes clasificar las películas con una puntuación del uno al cinco. Más tarde puedes establecer clasificaciones y filtros para ordenar las películas de mejor a peor o mostrar sólo las películas con cuatro estrellas o más.
+Una posibilidad, por ejemplo, es clasificar elementos, como ocurre en una colección de DVD. Aquí puede clasificar las películas con una puntuación del uno al cinco. Más tarde puede establecer clasificaciones y filtros para ordenar las películas de mejor a peor o mostrar sólo las películas con cuatro estrellas o más.
 
 ### Comparaciones, investigaciones y más
 
@@ -41,7 +41,7 @@ Un software de cobros también es útil en caso de siniestro. Un ejemplo: usted 
 
 ### Controlar las ubicaciones de almacenamiento con el software de recogida
 
-Si una colección se encuentra en distintos lugares, puede vigilarla mediante una aplicación. Esto permite a los usuarios registrar datos en los distintos lugares. Así no se olvida de qué objetos tiene y puede mantener una visión de conjunto. Si necesita algo, sólo tiene que consultar la aplicación para ver dónde está. Por ejemplo, si quieres prestar uno de tus coches clásicos para una boda, la aplicación te dirá en qué garaje está aparcado.
+Si una colección se encuentra en distintos lugares, puede vigilarla mediante una aplicación. Esto permite a los usuarios registrar datos en los distintos lugares. Así no se olvida de qué objetos tiene y puede mantener una visión de conjunto. Si necesita algo, sólo tiene que consultar la aplicación para ver dónde está. Por ejemplo, si quiere prestar uno de sus coches clásicos para una boda, la aplicación le dirá en qué garaje está aparcado.
 
 ### Gestionar los préstamos de la colección
 
@@ -49,11 +49,11 @@ El software de gestión de colecciones es ideal para gestionar préstamos. Si pr
 
 ## ¿Qué soluciones existen para gestionar los cobros?
 
-Tienes varias opciones para gestionar tu colección. Existen aplicaciones y programas de gestión de pago y gratuitos. A continuación encontrarás un resumen de cinco herramientas.
+Tiene varias opciones para gestionar su colección. Existen aplicaciones y programas de gestión de pago y gratuitos. A continuación encontrará un resumen de cinco herramientas.
 
 ### Evernote: la aplicación de notas para capturar y gestionar rápidamente sus colecciones
 
-Una opción para gestionar las colecciones es [Evernote](https://evernote.com/de-de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
+Una opción para gestionar las colecciones es [Evernote](https://evernote.com/de-de). Aquí puede escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
 
 ![Alguien mira la herramienta Evernote para gestionar su colección.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
@@ -65,7 +65,7 @@ El software [Data Crow](https://www.datacrow.net/) es especialmente adecuado par
 
 ### GCstar - software gratuito de recogida
 
-Otro programa gratuito de gestión de cobros es [GCstar](https://gitlab.com/GCstar/). Este programa de gestión tiene las mismas funciones de registro y gestión de colecciones que Data Crow. También tiene la opción de enriquecer su colección con información de Internet. Guarde el lugar donde adquirió el artículo y registre si presta el artículo de la colección a alguien. Por supuesto, además de los medios de comunicación, también puedes inventariar otros objetos. Si le interesa una solución de código abierto, puede instalar Data Crow y GCstar a modo de prueba y comparar las interfaces.
+Otro programa gratuito de gestión de cobros es [GCstar](https://gitlab.com/GCstar/). Este programa de gestión tiene las mismas funciones de registro y gestión de colecciones que Data Crow. También tiene la opción de enriquecer su colección con información de Internet. Guarde el lugar donde adquirió el artículo y registre si presta el artículo de la colección a alguien. Por supuesto, además de los medios de comunicación, también puede inventariar otros objetos. Si le interesa una solución de código abierto, puede instalar Data Crow y GCstar a modo de prueba y comparar las interfaces.
 
 ### Software especializado para coleccionistas
 
@@ -77,10 +77,12 @@ Aparte de los programas generales de colección de código abierto, hay un gran 
 
 Por ejemplo, si colecciona zapatos, su base de datos en SeaTable podría tener este aspecto:
 
+{{< template-box id="cc4113f9d66f488db6e2" >}}
+
 [Regístrese]({{< relref "pages/registration" >}}) con su dirección de correo electrónico y empiece con la versión gratuita, que es totalmente suficiente para colecciones privadas. Si necesita más funciones o espacio de almacenamiento, cambie a la versión Plus por 7 € por persona y mes o a la versión Enterprise por 14 € por usuario y mes.
 
 ## Conclusión:
 
-Cada objeto de colección es valioso para los coleccionistas. Puedes mantener una visión general con una aplicación de gestión de colecciones adecuada o un software de gestión general apto para colecciones.
+Cada objeto de colección es valioso para los coleccionistas. Puede mantener una visión general con una aplicación de gestión de colecciones adecuada o un software de gestión general apto para colecciones.
 
 La oferta de software de coleccionismo es tan amplia y variada como las colecciones que existen. Si colecciona peces o coches clásicos, por ejemplo, encontrará en Internet el programa de gestión adecuado. Si, por el contrario, desea utilizar el mismo programa para gestionar distintas colecciones, merece la pena recurrir a programas claros y versátiles como SeaTable. Con la [versión]({{< relref "pages/registration" >}}) gratuita, podrá gestionar eficazmente su colección en tablas inteligentes.

@@ -19,6 +19,8 @@ Una vez que haya completado con éxito el proceso de desarrollo del producto, na
 
 Aunque el proceso de desarrollo ya está muy bien estructurado en la mayoría de las empresas, se suele prestar muy poca atención al proceso de lanzamiento del producto. ¿Realmente ha completado todos los pasos necesarios y no ha olvidado nada? Con nuestra [plantilla]({{< relref "templates/it-engineering/product-launch" >}}) y estos [5 consejos](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada se interpone en el camino de un lanzamiento de producto exitoso.
 
+{{< template-box id="61e4639f122f45a2bcba" >}}
+
 ## Estructura de nuestra plantilla de lanzamiento de productos
 
 Nuestra plantilla de lanzamiento de productos consta de tres tablas vinculadas. Veámoslos más de cerca:

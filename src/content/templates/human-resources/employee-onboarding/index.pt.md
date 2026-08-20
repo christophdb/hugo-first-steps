@@ -141,7 +141,7 @@ sections:
         text: 'Com o Extract, pode avaliar informações não estruturadas, como descrições de cargos, memorandos internos ou e-mails, e extrair automaticamente dados relevantes, como pessoas de contacto, necessidades de formação ou temas de conformidade. Estes dados são inseridos em campos específicos do plano de integração e constituem uma base fiável para o seu conceito de integração.'
         icon: layer-group
       - headline: 'Reconhecimento de texto com OCR'
-        text: 'Carregue digitalizações de contratos, formulários em papel ou listas de verificação de integração preenchidas à mão e utilize a função OCR para reconhecer automaticamente os textos contidos. Desta forma, os dados dos contratos, prazos ou notas ficam diretamente disponíveis e estruturados no seu modelo de plano de integração, sem necessidade de transferências manuais demoradas.'
+        text: 'Carregue imagens de contratos, formulários em papel ou listas de verificação de integração preenchidas à mão e utilize a função OCR para reconhecer automaticamente os textos nelas contidos. Desta forma, os dados dos contratos, as datas ou as notas ficam diretamente disponíveis de forma estruturada no seu modelo de plano de integração, sem a necessidade de transferências manuais demoradas.'
         icon: image
       - headline: 'Resumos automatizados com o Summarize'
         text: 'O Summarize resume automaticamente em poucas frases as conversas de feedback, notas das primeiras semanas ou longas sequências de comentários. Juntamente com o seu modelo de plano de integração, obtém rapidamente uma visão geral do estado da integração dos novos colaboradores e identifica atempadamente onde é necessário apoio adicional.'

@@ -1,5 +1,5 @@
 ---
-title: 'Create a to-do list online with the app'
+title: 'Create a to-do list online with an app'
 description: 'Creating and managing an online to-do list with an app has many advantages. This is because a to-do list helps you to manage your tasks efficiently in both your private and professional life and not forget anything in stressful everyday life. Read this article to find out why you should use a template for your to-do list and which app is best for this.'
 date: 2024-04-03
 categories:
@@ -16,15 +16,15 @@ seo:
     description: 'Discover the best app for your to-do list and easily create your task list online with a ready-to-use template.'
 ---
 
-Creating and managing an online to-do list with an app has many advantages. This is because a **to-do list** helps you to manage your tasks efficiently both in your private life and in your day-to-day business and not forget anything in stressful everyday life. Read this article to find out why you should use a **template** for your to-do list and which **app** is best for a to-do list.
-
 ## What you need a to-do list for
 
 Both at home and in professional [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), it is important to keep track of all upcoming tasks and work through them one by one. First of all, record your specific **tasks** in a to-do list. You then define any **subtasks** or overarching **categories**, determine **responsibilities** and set **deadlines**.
 
 You can use a **status** to indicate whether a to-do is being processed or has been completed. A pending status is also conceivable if you are waiting for a response or input. You should also **prioritize** your to-dos so that you always tackle the most important tasks first.
 
-### Your to-do list could look like this with a template:
+### Your to-do list could look like this with a template
+
+{{< template id="6381c036ff2649739c80" >}}
 
 Would you like to work directly with this free template for your to-do list? [Then click here >>]({{< relref "templates/projects/to-do-list" >}})
 
@@ -108,6 +108,8 @@ SeaTable has by far the **widest range of functions** of all the apps we looked 
 
 With SeaTable, you can get started right away with the [free version]({{< relref "pages/registration" >}}) and the [interactive template]({{< relref "templates/projects/to-do-list" >}}). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
 
+{{< template-box id="6381c036ff2649739c80" >}}
+
 {{< warning headline="GDPR and data sovereignty" >}}
 
 The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}) on your own servers.
@@ -123,10 +125,6 @@ Once you have decided on the tool, it's time to create your first to-do list in 
 - Celebrate your successes. Choose a tool that allows you to **tick off** tasks **or mark them as completed**. This will give you a good feeling.
 - Keep not just one, but **at least three to-do lists** in the app in your everyday life. You can differentiate them thematically, for example, according to hobbies, household chores and shopping. Or you can enter all tasks in a backlog with the corresponding date in order to display the tasks in a monthly, weekly and daily list with different views.
 
-![Employee creates a to-do list online.](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
-
-Start with your own to-do list © Tarokmew / Adobe Stock
-
-## Conclusion
+## Conclusion: Use a digital to-do list
 
 A digital to-do list is an important tool for staying organized in everyday life. As you can access your to-do list from anywhere, you can jot down your thoughts immediately and clear your head. You have the opportunity to structure your work better, organize to-dos according to certain criteria and never forget anything again. It is also easier to manage work and communication within the team.

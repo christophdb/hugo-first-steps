@@ -134,8 +134,8 @@ sections:
       - headline: 'Extract receipt data'
         text: 'With Extract you pull relevant details from emails, form texts or payment notes straight into the right fields. The AI recognizes amount, date, designated purpose, contact person or donation type and so speeds up preparatory bookkeeping and document creation.'
         icon: layer-group
-      - headline: 'Capture documents via OCR'
-        text: 'With OCR you read out information from photographed transfer receipts or submitted documents automatically. The AI extracts donor data, amounts and references so that less data has to be transferred and checked by hand across your records.'
+      - headline: 'Capture Images Using OCR'
+        text: 'With OCR, you can automatically extract information from photographed payment slips or documents. The AI extracts donor data, amounts, and reference numbers, reducing the need to manually enter and verify data.'
         icon: image
       - headline: 'Summarize incoming donations'
         text: 'With Summarize the AI creates short overviews of open receipts, new incoming donations, project status or notable developments. This helps treasurers and finance analysts spot what is relevant faster and keep club donation management current without time-consuming review.'

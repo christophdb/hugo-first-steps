@@ -112,3 +112,11 @@ This page type allows you to design a page with static elements, dynamic table f
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 
 [Learn more about single record pages in SeaTable apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})
+
+## Page type: HTML
+
+Unlike all other page types, which contain predefined elements and specify much of the page structure, this page type gives you a free hand: going beyond the no-code approach, you can **design custom user interfaces based on HTML, JavaScript and CSS** and add them to your app as HTML pages. This allows you to program apps exactly the way you envision them and to implement even complex interactions without difficulty. Typical use cases are, for example, **individually designed forms, custom chart types or diagrams with clickable elements**.
+
+![Example of an HTML page](images/html-page.png)
+
+[Learn more about HTML pages in SeaTable apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/html-seiten-in-universellen-apps" >}})

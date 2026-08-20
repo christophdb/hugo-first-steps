@@ -14,7 +14,7 @@ seo:
 register:
    draft: true
 ---
-Une paire de jumelles, une matinée tranquille en forêt et le chant d'un oiseau inconnu. Ce qui était autrefois considéré comme un passe-temps désuet réservé aux retraités connaît actuellement un regain d'intérêt surprenant. L'observation des oiseaux est en plein essor, et pas seulement auprès des personnes âgées. De plus en plus de jeunes découvrent **l'observation d'espèces d'oiseaux locales et exotiques comme une pause bienvenue loin du quotidien numérique**. 
+Une paire de jumelles, une matinée tranquille en forêt et le chant d'un oiseau inconnu. Ce qui était autrefois considéré comme un passe-temps désuet réservé aux retraités connaît actuellement un regain d'intérêt surprenant. L'observation des oiseaux est en plein essor, et pas seulement auprès des personnes âgées. De plus en plus de jeunes découvrent **l'observation d'espèces d'oiseaux locales et exotiques comme [une pause bienvenue loin du quotidien numérique]({{< relref "posts/digital-detox" >}})**. 
 
 Dans cet article, vous découvrirez pourquoi l’observation des oiseaux est si populaire en ce moment, comment vous y mettre, si les sorties d’observation valent le coup et pourquoi la documentation numérique de vos observations est utile.
 

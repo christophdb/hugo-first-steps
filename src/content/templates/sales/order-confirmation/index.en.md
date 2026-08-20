@@ -136,7 +136,7 @@ sections:
         text: 'With Extract, you pull content from emails, orders or quote documents straight into your order confirmation template. The AI recognizes delivery date, payment terms, contacts or references and transfers them automatically into matching columns. This saves time and clearly reduces transfer errors.'
         icon: layer-group
       - headline: 'Capture data via OCR'
-        text: 'With OCR, you read content from scanned orders, signed confirmations or supporting documents. The AI recognizes names, dates, amounts or numbers and adds them to your digital order confirmation template. This lets you integrate manual documents cleanly into digital workflows.'
+        text: 'With OCR, you can extract content directly from photographed orders, signed confirmations, or supplementary images. The AI recognizes names, dates, amounts, and numbers and populates them into your digital order confirmation template. This allows even manual documents to be seamlessly integrated into digital workflows.'
         icon: image
       - headline: 'Summarize order status'
         text: 'With Summarize, the AI creates short status reports on open approvals, confirmed orders or critical delays. Figures, comments and status values from your order confirmation template are condensed and presented clearly. This eases coordination in project management and speeds up decisions.'

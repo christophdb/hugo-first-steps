@@ -28,10 +28,10 @@ For detailed explanations about view sharing, see the article [Sharing a view wi
 
 ![Sharing a view with a group](images/Freigabe-einer-Ansicht-an-eine-Gruppe.png)
 
-4. Select a **group** you want to share the view with.
-5. Decide in the **Permission** field whether the group members can only read the view or also edit it.
-6. **Name** the share and confirm it with **Submit**.
+3. Select a **group** you want to share the view with.
+4. Decide in the **Permission** field whether the group members can only read the view or also edit it.
+5. **Name** the share and confirm it with **Submit**.
 
-If you have successfully shared the view with a group, it will appear with the name suffix **Shared** with all group members in the area of the corresponding group on the **Home page**.
+If you have successfully shared the view with a group, it will appear with the name suffix **Shared** for all group members in the area of the corresponding group on the **home page**.
 
-![Split view in a group on the home page](images/Geteilte-Ansicht-in-einer-Gruppe-auf-der-Startseite.png)
+![Shared view in a group on the home page](images/Geteilte-Ansicht-in-einer-Gruppe-auf-der-Startseite.png)

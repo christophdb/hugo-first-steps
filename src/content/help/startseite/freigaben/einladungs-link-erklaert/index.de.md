@@ -1,7 +1,7 @@
 ---
 title: "Einladungs-Link erstellen"
 date: 2022-11-07
-lastmod: "2023-01-17"
+lastmod: '2026-08-14'
 categories: 
   - "freigaben"
 author: "vge"
@@ -25,18 +25,20 @@ Weitere Details finden Sie im Artikel [Freigabe von Bases per Einladungslink erl
 
 ## So erstellen Sie einen Einladungs-Link für eine Base
 
-![Freigabelink erklärt](images/Freigabelinks-erklaert.gif)
+![Einladungslink erstellen](images/create-invite-link.gif)
 
 1. Gehen Sie auf die **Startseite von SeaTable**.
 2. Bewegen Sie den Mauszeiger auf die **Base**, die Sie teilen möchten, und klicken Sie auf die rechts erscheinenden **drei Punkte**.
 3. Wählen Sie die Option **Freigeben** aus.
-4. Stellen Sie ein, ob Sie **Lese- und Schreibrechte** oder nur **Leserechte** vergeben möchten.
-5. Setzen Sie bei Bedarf ein **Passwort** und/oder wählen Sie ein **Ablaufdatum** für den Link.
-6. Klicken Sie auf **Erstellen**.
-7. Sie können den **Einladungs-Link** nun kopieren und versenden.
+4. Klicken Sie auf **Einladungs-Link**.
+5. Stellen Sie ein, ob Sie **Lese- und Schreibrechte** oder nur **Leserechte** vergeben möchten.
+6. Entscheiden Sie zudem, ob Sie einen **Passwortschutz**, ein **Ablaufdatum** und eine **Beschreibung** hinzufügen möchten, indem Sie die Kästchen aktivieren.
+7. Klicken Sie auf **Erstellen**.
+
+Sie können nun den **Einladungs-Link kopieren** und versenden.
 
 ## Sicherheitsaspekte von Einladungs-Links
 
-Ein **Einladungs-Link** gibt jedem, der Zugriff auf den Link hat, auch Zugriff auf die Inhalte der Base, für die der Link erstellt wurde. Um den Zugriff sicherer zu gestalten, sollten Sie dem Link ein **Passwort** und/oder ein **Ablaufdatum** hinzufügen.
+Ein Einladungs-Link gibt jedem, der Zugriff auf den Link hat, auch **Zugriff auf die Inhalte der Base**, für die der Link erstellt wurde. Um den Zugriff sicherer zu gestalten, sollten Sie dem Link ein **Passwort** und/oder ein **Ablaufdatum** hinzufügen.
 
 Zudem empfiehlt es sich, alle Links regelmäßig zu überwachen. Eine Liste sämtlicher Einladungslinks können Sie in der **Teamverwaltung** einsehen und dort auch löschen.

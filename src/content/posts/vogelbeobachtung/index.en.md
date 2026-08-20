@@ -14,7 +14,7 @@ seo:
 register:
    draft: true
 ---
-A pair of binoculars, a quiet morning in the woods, and the call of an unfamiliar bird. What used to be considered a stuffy hobby for retirees is currently experiencing a surprising resurgence. Birdwatching is booming—and not just among older people. More and more young people are discovering **that observing native and exotic bird species offers a deliberate break from their digital daily lives**. 
+A pair of binoculars, a quiet morning in the woods, and the call of an unfamiliar bird. What used to be considered a stuffy hobby for retirees is currently experiencing a surprising resurgence. Birdwatching is booming—and not just among older people. More and more young people are discovering **that observing native and exotic bird species offers a [deliberate break from their digital daily lives]({{< relref "posts/digital-detox" >}})**. 
 
 In this article, you’ll learn why birdwatching is so popular right now, how to get started, whether birdwatching tours are worth it, and why digitally documenting your observations pays off.
 
