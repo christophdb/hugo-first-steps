@@ -16,13 +16,13 @@ seo:
     description: 'Colaboração remota eficiente: veja 6 dicas para equipes à distância mais produtivas e unidas.'
 ---
 
-A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade]({{< relref "posts/homeoffice-tipps" >}}) é muitas vezes [prejudicada]({{< relref "posts/homeoffice-tipps" >}}). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
+A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e não é raro que [a produtividade seja prejudicada]({{< relref "posts/homeoffice-tipps" >}}) por isso. Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
 
 ![A produtividade sofre com a incapacidade de manter a comunicação informal](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
 [Fonte da imagem](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
-## O que é stand-up afinal?
+## O que é afinal um stand-up?
 
 Não, não estamos aqui a falar de um espectáculo de comédia. Embora algumas reuniões se aproximem bastante, se formos honestos. Mas não. Uma reunião diária de stand-up é uma reunião curta para actualizar toda a equipa, e sim, é verdade, deve ser realizada de pé. Porque se estiver de pé, é mais provável que mantenha a reunião curta, em vez de a arrastar desnecessariamente para fora.
 
@@ -30,15 +30,13 @@ A duração ideal para uma breve actualização da equipa remota é de 15 minuto
 
 ## Vantagens do stand-up remoto num piscar de olhos
 
-As vantagens de uma reunião permanente são óbvias. Deveria...
+As vantagens de uma reunião realizada de pé são óbvias. Ela deve ser…
 
-- rápido (máx. 15 minutos)
+- rápida (máx. 15 minutos)
 - eficiente (sem conversa fiada)
-- produtivo (só trabalhar com os pontos da agenda)
-- cooperativa (troca de equipas, sem relatório para o chefe)
-- Preparado (pense no que quer dizer com antecedência)
-
-... be.
+- produtiva (só se tratam os pontos da agenda)
+- cooperativa (troca dentro da equipa, sem prestar contas ao chefe)
+- preparada (pense com antecedência no que quer dizer)
 
 As longas reuniões que são assustadoras e avassaladoras são coisa do passado. Os stand-ups, por outro lado, podem ajudar a sua equipa a manter-se actualizada e a tornar-se uma parte útil do trabalho quotidiano.
 
@@ -60,19 +58,19 @@ Deve ter-se cuidado com a terceira pergunta. É aqui que existe o maior potencia
 
 ### Cumprir o horário
 
-É aqui que as reuniões em linha têm finalmente uma vantagem. Quando se trata de chegar a horas, tem menos razões para chegar atrasado a casa porque não tem de se mudar fisicamente para uma sala de reuniões. Em geral, deve ainda estabelecer uma cultura empresarial na qual se torne padrão chegar a tempo (se não um pouco cedo) para a reunião.
+É aqui que as reuniões em linha têm finalmente uma vantagem. Quando se trata de chegar a horas, em casa tem menos razões para se atrasar, porque não precisa de se deslocar fisicamente até uma sala de reuniões. Em geral, deve ainda estabelecer uma cultura empresarial na qual se torne padrão chegar a tempo (se não um pouco cedo) para a reunião.
 
 ![Manter um olho no tempo](sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
 
-O início tardio das reuniões é na realidade uma queixa muito comum do pessoal em geral. Há igualmente queixas sobre o momento errado de uma reunião. Ou leva demasiado tempo ou está programado para ser demasiado curto. Começar a tempo e terminar a tempo - mesmo que alguém apareça tarde.
+O início tardio das reuniões é na realidade uma queixa muito comum do pessoal em geral. Há igualmente queixas sobre o momento errado de uma reunião. Ou leva demasiado tempo ou está programado para ser demasiado curto. Comece a horas e termine a horas – mesmo que alguém apareça tarde.
 
-A produtividade das reuniões de stand-up reside na sua brevidade. Cumprir estritamente a regra dos 15 minutos, no início um temporizador definido para 15 minutos com um tempo de soneca de 3 minutos pode ajudar. Desta forma, pode encontrar uma conclusão arredondada quando o temporizador expirar.
+A produtividade das reuniões de stand-up reside na sua brevidade. Cumpra estritamente a regra dos 15 minutos; no início, pode ajudar um temporizador definido para 15 minutos com um tempo de soneca de 3 minutos. Desta forma, pode chegar a uma conclusão limpa quando o temporizador expirar.
 
 ### Respeitar o tempo de todos
 
-O maior comedor de tempo em reuniões é que muitas pessoas querem falar ao mesmo tempo. Esquece-se frequentemente de deixar os outros terminarem, precisamente quando se quer dizer algo sobre um determinado ponto. A produtividade é outra coisa. No local, poderia resolver o problema muito simplesmente seleccionando um objecto que está sempre na mão da pessoa que fala. Mas como é que isto pode ser implementado online? Faça uso da tecnologia!
+O maior [desperdício de tempo]({{< relref "posts/no-code-vorteile" >}}) em reuniões é que muitas pessoas querem falar ao mesmo tempo. Esquece-se frequentemente de deixar os outros terminarem, precisamente quando se quer dizer algo sobre um determinado ponto. A produtividade é outra coisa. No local, poderia resolver o problema muito simplesmente seleccionando um objecto que está sempre na mão da pessoa que fala. Mas como é que isto pode ser implementado online? Faça uso da tecnologia!
 
-Uma solução simples, por exemplo, seria ligar o microfone apenas quando se está realmente a falar. Se alguém quiser então dizer algo, terá primeiro de ultrapassar o obstáculo de se desabafar, o que lhe lembrará que ainda não é a sua vez. Além disso, alguns fornecedores permitem-lhe levantar uma mão virtual. Se for nomeado um moderador de reunião, ele ou ela pode então simplesmente tomar a vez da pessoa.
+Uma solução simples, por exemplo, seria ligar o microfone apenas quando se está realmente a falar. Se outra pessoa quiser então dizer algo, terá primeiro de ultrapassar o obstáculo de desativar o silêncio, o que lhe lembrará que ainda não é a sua vez. Além disso, alguns fornecedores permitem levantar uma mão virtual. Se for nomeado um moderador da reunião, basta-lhe dar a palavra a cada pessoa por sua vez.
 
 ### Manter-se fiel ao assunto
 
@@ -82,19 +80,19 @@ Há algumas razões pelas quais as pessoas divagam nas reuniões e a produtivida
 2. Em que está a trabalhar neste momento?
 3. Quais são os desafios e que ajuda pode ser necessária?
 
-Como acima mencionado, a pergunta 3 tem o maior potencial para se transformar em conversas um-a-um desnecessárias entre duas pessoas. Deixar claro que a assistência não consiste em explicar imediatamente como se pode ajudar exactamente, mas que um simples sinal de mão é suficiente. Posteriormente, as pessoas em questão podem então organizar uma conversa individual por conta própria.
+Como acima mencionado, a pergunta 3 tem o maior potencial para se transformar em conversas um-a-um desnecessárias entre duas pessoas. Deixe claro que a assistência não consiste em explicar imediatamente como se pode ajudar, mas que um simples sinal de mão é suficiente. Posteriormente, as pessoas em questão podem então organizar uma conversa individual por conta própria.
 
-Especialmente se for um especialista na matéria e a solução lhe parecer, portanto, simples e clara, tem o desejo de dar uma ajuda detalhada imediatamente. Deixar claro mais uma vez que a reunião de stand-up só existe realmente para pôr todos ao corrente da situação. A assistência geralmente não diz respeito a todas as pessoas na reunião e limita a produtividade.
+Especialmente se for um especialista na matéria e a solução lhe parecer, portanto, simples e clara, tem o desejo de dar uma ajuda detalhada imediatamente. Deixe claro mais uma vez que a reunião de stand-up só existe realmente para pôr todos ao corrente da situação. A assistência geralmente não diz respeito a todas as pessoas na reunião e limita a produtividade.
 
-Outra razão para menor produtividade é a **conversa fiada**. Compreensível. Trancado nas suas próprias quatro paredes, é tentador conversar fora do armário e simplesmente socializar novamente com os colegas. Falar sobre o fim-de-semana, família ou bons filmes que viu fortalece a coesão e isso é exactamente o que é importante e bom. Contudo, a reunião de stand-up não é simplesmente o lugar certo para isso. A próxima dica oferece uma solução.
+Outra razão para menor produtividade é a **conversa fiada**. Compreensível. Trancado nas suas próprias quatro paredes, é tentador contar histórias pessoais e simplesmente voltar a conviver um pouco com os colegas. Falar sobre o fim-de-semana, família ou bons filmes que viu fortalece a coesão e isso é exactamente o que é importante e bom. Contudo, a reunião de stand-up não é simplesmente o lugar certo para isso. A próxima dica oferece uma solução.
 
 ### Eventos online longe dos compromissos
 
-Talvez a razão para um aumento de conversa fiada seja que os seus empregados não têm um espaço para se encontrarem longe das suas funções. No entanto, a conversa fiada inspira e aumenta a produtividade no final do dia. Estes eventos em linha são óptimos para a formação de equipas:
+Talvez a razão para um aumento de conversa fiada seja que os seus empregados não têm um espaço para se encontrarem longe das suas funções. No entanto, a conversa fiada inspira e aumenta a produtividade ao longo do resto do dia. Estes eventos em linha são óptimos para a formação de equipas:
 
 1. Intervalos para almoço conjunto à distância
 2. Noite do Filme Conjunto com posterior intercâmbio
-3. Quiznight (sobre um quiz de pub)
+3. Noite de quiz (por exemplo, um pub quiz)
 4. Game Night (com jogos como o [skribbl.io](https://skribbl.io/))
 5. O bom e velho Bingo
 6. Provas de gin ou vinho
@@ -104,15 +102,17 @@ Estas são apenas algumas ideias. Pode organizar você mesmo tais eventos em lin
 
 ### Manter o formato flexível
 
-O que funciona para uma equipa não funciona necessariamente para cada equipa ao mesmo tempo. Tente chegar juntos à solução que irá aumentar a produtividade de toda a sua equipa. Tente tempos e agendas diferentes e mantenha-se sempre flexível. Obter feedback após algumas semanas e, se necessário, alterar novamente a hora e o local da reunião.
+O que funciona para uma equipa não funciona necessariamente para cada equipa ao mesmo tempo. Tente chegar juntos à solução que irá aumentar a produtividade de toda a sua equipa. Tente tempos e agendas diferentes e mantenha-se sempre flexível. Peça feedback após algumas semanas e, se necessário, altere novamente a hora e o formato da reunião.
 
 As nossas 6 dicas centram-se na ideia de que os stand-ups diários de 15 minutos funcionam para toda a equipa. Mas não é preciso! Talvez seja benéfico para o seu negócio dividir a reunião em várias reuniões separadas porque a sua equipa é particularmente numerosa. Talvez 2 stand-ups por semana sejam suficientes para que possa pôr todos ao corrente da situação.
 
 Pode também descobrir que os stand-ups são especialmente bons na fase de desenvolvimento, mas tendem a distrair e a fazer com que a produtividade seja menor na fase de implementação. Mantenha-se flexível e veja o stand-up diário como uma excelente forma de aumentar a produtividade e coesão da sua equipa.
 
-### Stand-ups de documentos
+### Documentar os stand-ups
 
-Especialmente em reuniões diárias, pode acontecer que um ou outro colega esteja ausente devido a outro compromisso. Deixá-los saber como comunicar a sua ausência e manter informações importantes num único local. Desta forma, o participante desaparecido pode procurar depois se algo de relevante para ele aconteceu. Para o planeamento e notas das suas reuniões à distância, já fornecemos [aqui]({{< relref "templates/projects/team-meetings" >}}) um modelo e também explicamos em pormenor [neste post]({{< relref "templates/projects/team-meetings" >}}) como pode criar um e adaptá-lo às suas necessidades.
+Especialmente em reuniões diárias, pode acontecer que um ou outro colega esteja ausente devido a outro compromisso. Deixe-o saber como deve comunicar a sua ausência e reúna as informações importantes num único local. Desta forma, o participante ausente pode consultar depois se aconteceu algo de relevante para ele. Para o planeamento e as notas das suas reuniões à distância, já disponibilizámos aqui um [modelo]({{< relref "templates/projects/team-meetings" >}}) e explicámos em pormenor como pode criar um e adaptá-lo às suas necessidades.
+
+{{< template-box id="049628c4ea884375b7b9" >}}
 
 Organizar uma equipa inteira à distância, mantendo ao mesmo tempo uma alta produtividade, é um desafio. Apesar de todas as possibilidades tecnológicas à nossa disposição, ainda pode ser difícil criar um ambiente de colaboração. Os stand-ups diários são uma óptima forma de se actualizarem uns aos outros e de se sentirem parte de um quadro mais amplo. Os problemas são identificados precocemente e o sentimento de pertença é aumentado.
 

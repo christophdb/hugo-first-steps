@@ -1,6 +1,6 @@
 ---
 title: 'Knowledge management: How to make knowledge usable'
-description: 'Knowledge is one of the most important resources in any company. It is not for nothing that knowledge is already cited as a production factor alongside land, capital and labor when it comes to the success of a company. But what does it take to make the knowledge of your employees available to others in your company? The answer: a functioning knowledge management system!'
+description: 'Knowledge is one of the most important resources in any company. But what does it take to make the knowledge of your employees available to others in your company? The answer: a functioning knowledge management system! Find out here how to successfully manage the knowledge in your company and what you should look out for when selecting a suitable knowledge management system.'
 date: 2024-08-09
 categories:
     - 'best-practice'
@@ -22,7 +22,7 @@ Find out here how you can successfully manage the accumulated knowledge in your 
 
 ## What is knowledge management?
 
-Optimizing the handling of knowledge in the company - that's what knowledge _management_ is all about. The overarching aim is to build up a **knowledge database** that is intended to make company processes more efficient and innovative.
+Optimizing the handling of knowledge in the company – that is what knowledge management is all about. The overarching aim is to build up a **knowledge database** that is intended to make company processes more efficient and innovative.
 
 You can achieve this by collecting the knowledge hidden in your company, processing it, making it accessible to everyone and ultimately applying it effectively.
 
@@ -44,9 +44,7 @@ The key to knowledge management in your company is therefore to record the indiv
 
 ![A good working atmosphere in your company lays an important foundation for effective knowledge management.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
-A pleasant working atmosphere helps you to gather and share knowledge.
-
-For your knowledge management to be as efficient as possible, explicit and tacit knowledge should go hand in hand. Therefore, create a **culture** in your company in which employees are motivated to share their hidden knowledge treasures with each other and actively pass on knowledge.
+A pleasant working atmosphere helps you to gather and share knowledge. For your knowledge management to be as efficient as possible, explicit and tacit knowledge should go hand in hand. Therefore, create a **culture** in your company in which employees are motivated to share their hidden knowledge treasures with each other and actively pass on knowledge.
 
 ## Two strategies in knowledge management
 
@@ -58,11 +56,9 @@ With this variant, you bundle the knowledge of individuals in a **central storag
 
 ### People-to-people strategy
 
-This variant is used when the knowledge is too complex for everyone to understand. **Experts** are then needed to pass on their knowledge personally to specific colleagues and are also available to answer questions.
+This variant is used when the knowledge is too complex for everyone to understand. **Experts** are then needed to pass on their knowledge personally to specific colleagues and are also available to answer questions. So if you have experts in your company, they should be available quickly and easily in the event of problems.
 
 ![An expert should always be available during working hours, even if the person is working from home.](Design-ohne-Titel-28-e1722945260552-711x505.png)
-
-If you have experts in your company, they should be available quickly and easily in the event of problems.
 
 You can also combine the two strategies, e.g. pass on your knowledge in a workshop and document the most important results and make them available in a knowledge database.
 
@@ -104,9 +100,9 @@ In **customer support**, for example, a sophisticated knowledge management syste
 
 ![Customer support consists of several components.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
-Save your employees a lot of work by offering your customers help to help themselves.
+Save your employees a lot of work by offering your customers help to help themselves. You can find an example of such a help area [here]({{< relref "help" >}}). Even so, there are always situations in which customers need personal assistance. For these cases, you should maintain a [ticketing system]({{< relref "posts/20250521-ticketing-system" >}}) that lets you work through requests in a structured way.
 
-[This help area]({{< relref "help" >}}) is an example of a well-managed knowledge management system. On the one hand, this reduces the support workload for your employees and, on the other, saves your customers a long wait.
+An [IT helpdesk]({{< relref "templates/it-engineering/it-helpdesk" >}}) is an example of a well-managed knowledge management system. On the one hand, this reduces the support workload for your employees and, on the other, saves your customers a long wait.
 
 ### Internal use
 
@@ -120,7 +116,7 @@ If you are considering whether a knowledge management system is worthwhile for y
 
 ![Knowledge management has many advantages, but faces a number of challenges, especially at the beginning of the process.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
-Weigh up the two sides against each other.
+Weigh the two sides against each other.
 
 ### Advantages:
 
@@ -133,7 +129,7 @@ Weigh up the two sides against each other.
 
 - **High start-up costs**: In order to introduce a knowledge management system, you need to plan financial and time resources for setting up digital systems and developing, structuring and processing knowledge.
 - **Outdated knowledge**: Keeping knowledge up to date costs a lot of time and energy and requires discipline from your employees.
-- **Security risks**: Nowadays, sensitive information is usually stored on a central server. However, the access authorizations and the associated data protection guidelines also harbour risks.
+- **Security risks**: Nowadays, sensitive information is usually stored on a central [server]({{< relref "posts/it-infrastruktur" >}}) or in the [cloud]({{< relref "posts/cloud-computing" >}}). However, the access authorizations and the associated data protection guidelines also harbor risks.
 - **Complex system**: Knowledge management systems are usually complex. A long training period is therefore required so that your employees can use the system efficiently.
 
 ## Which knowledge management system is right for you?
@@ -143,36 +139,43 @@ If you want to set up successful knowledge management in your company, you can h
 {{< accordion "Wikis and information management systems" >}}
 
 Examples: Confluence, Guru
+
 {{< /accordion >}}
 
 {{< accordion "Groupware and collaboration systems" >}}
 
 Examples: BSCW, Microsoft SharePoint
+
 {{< /accordion >}}
 
 {{< accordion "Instant messengers and communication systems" >}}
 
 Examples: Slack, Microsoft Teams
+
 {{< /accordion >}}
 
 {{< accordion "Document management and file exchange systems" >}}
 
-Examples: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+Examples: [Seafile](https://www.seafile.com/en/home/), Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+
 {{< /accordion >}}
 
 {{< accordion "Customer relationship management systems" >}}
 
-Examples: Pipedrive, Salesforce
+Examples: [Pipedrive, Salesforce]({{< relref "posts/no-code-crm" >}})
+
 {{< /accordion >}}
 
 {{< accordion "Project management systems" >}}
 
-Examples: Asana, Jira
+Examples: [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Jira
+
 {{< /accordion >}}
 
 {{< accordion "HR and personnel management systems" >}}
 
-Examples: Personio, DATEV
+Examples: [Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}), DATEV
+
 {{< /accordion >}}
 
 {{< accordion "Content management systems" >}}
@@ -193,11 +196,11 @@ To find the right software for your company, you should test several solutions a
 
 ## Flexible and efficient knowledge management with SeaTable
 
-A good answer to all these questions is the intuitive and easy-to-use **SeaTable** knowledge database. At various levels (bases, tables, views, rows), it enables you and your employees to record information in a structured way, find it quickly, share it easily with others or filter it according to relevance for a particular group of people. This means you and your employees always have an overview.
+A good answer to all these questions is the intuitive and easy-to-use knowledge database [SeaTable]({{< relref "/" >}}). At various levels (bases, tables, views, rows), it enables you and your employees to record information in a structured way, find it quickly, share it easily with others or filter it according to relevance for a particular group of people. This means you and your employees always have an overview.
 
 ![Documenting knowledge is a simple task with SeaTable](knowledge-management.jpg)
 
-When you choose SeaTable, you give your employees a whole toolbox with which they can build a flexible knowledge database. SeaTable supports real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), including [comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) and [a]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) complete [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). This allows you and your employees to convert your personal, implicit knowledge into explicit knowledge and make it available to others. SeaTable also allows you to visualize data graphically using various [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) and [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+When you choose SeaTable, you give your employees a whole toolbox with which they can build a flexible knowledge database. SeaTable supports real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), including [comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) and a complete [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). This allows you and your employees to convert your personal, implicit knowledge into explicit knowledge and make it available to others. SeaTable also allows you to visualize data graphically using various [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) and [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 You can use SeaTable in the cloud, which is hosted in GDPR-compliant German data centers, or install it [on-premises]({{< relref "pages/product/seatable-server" >}}) on your own servers. So your data is safe in any case! You can also use authorizations in many places in SeaTable to control exactly who can see and edit which data.
 

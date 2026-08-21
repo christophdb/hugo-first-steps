@@ -1,6 +1,6 @@
 ---
 title: 'Wissensmanagement: Wie Sie Wissen nutzbar machen'
-description: 'Wissen ist eine der wichtigsten Ressourcen in jedem Unternehmen. Nicht umsonst wird Wissen bereits als Produktionsfaktor in einer Reihe mit Boden, Kapital und Arbeit genannt, wenn es um den Erfolg eines Unternehmens geht. Doch was braucht es, um das Wissen Ihrer Mitarbeiter für andere in Ihrem Unternehmen nutzbar zu machen? Die Antwort: ein funktionierendes Wissensmanagement! Wie Sie das Wissen in Ihrem Unternehmen erfolgreich managen und worauf Sie bei der Auswahl eines geeigneten Wissensmanagementsystems achten sollten, erfahren Sie hier.'
+description: 'Wissen ist eine der wichtigsten Ressourcen in jedem Unternehmen. Doch was braucht es, um das Wissen Ihrer Mitarbeiter für andere in Ihrem Unternehmen nutzbar zu machen? Die Antwort: ein funktionierendes Wissensmanagement! Wie Sie das Wissen in Ihrem Unternehmen erfolgreich managen und worauf Sie bei der Auswahl eines geeigneten Wissensmanagementsystems achten sollten, erfahren Sie hier.'
 date: 2024-08-09
 categories:
     - 'best-practice'
@@ -42,9 +42,7 @@ Zentral für das Wissensmanagement in Ihrem Unternehmen ist deshalb, die von Ihr
 
 ![Ein gutes Arbeitsklima in Ihrer Firma legt einen wichtigen Grundstein für ein funktionierendes Wissensmanagement.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
-Ein angenehmes Arbeitsklima hilft Ihnen dabei, Wissen zu sammeln und gemeinsam zu nutzen.
-
-Damit Ihr Wissensmanagement möglichst effizient ausfällt, sollten explizites und implizites Wissen Hand in Hand gehen. Schaffen Sie daher in Ihrem Unternehmen eine **Kultur**, in der die Mitarbeitenden motiviert sind, ihre verborgenen Wissensschätze miteinander zu teilen und aktiv Wissen weiterzugeben.
+Ein angenehmes Arbeitsklima hilft Ihnen dabei, Wissen zu sammeln und gemeinsam zu nutzen. Damit Ihr Wissensmanagement möglichst effizient ausfällt, sollten explizites und implizites Wissen Hand in Hand gehen. Schaffen Sie daher in Ihrem Unternehmen eine **Kultur**, in der die Mitarbeitenden motiviert sind, ihre verborgenen Wissensschätze miteinander zu teilen und aktiv Wissen weiterzugeben.
 
 ## Zwei Strategien im Wissensmanagement
 
@@ -56,11 +54,9 @@ Bei dieser Variante bündeln Sie das Wissen von Einzelpersonen an einem **zentra
 
 ### People-to-People-Strategie
 
-Diese Variante kommt zum Einsatz, wenn das Wissen zu komplex ist, um es für alle verständlich zu formulieren. Dann braucht es **Experten**, welche ihr Wissen persönlich an bestimmte Kollegen weitergeben und auch bei Rückfragen zur Verfügung stehen.
+Diese Variante kommt zum Einsatz, wenn das Wissen zu komplex ist, um es für alle verständlich zu formulieren. Dann braucht es **Experten**, welche ihr Wissen persönlich an bestimmte Kollegen weitergeben und auch bei Rückfragen zur Verfügung stehen. Wenn Sie Experten in Ihrer Firma haben, sollten diese also schnell und einfach bei Problemen erreichbar sein.
 
 ![Ein Experte sollte zur Arbeitszeit immer ansprechbar sein, auch wenn die Person im Homeoffice ist.](Design-ohne-Titel-28-e1722945260552-711x505.png)
-
-Wenn Sie Experten in Ihrer Firma haben, sollten diese schnell und einfach bei Problemen erreichbar sein.
 
 Sie können die beiden Strategien auch kombinieren, z. B. Ihr Wissen in einem Workshop weitergeben und die wichtigsten Ergebnisse dokumentieren sowie in einer Wissensdatenbank zur Verfügung stellen.
 
@@ -68,7 +64,7 @@ Sie können die beiden Strategien auch kombinieren, z. B. Ihr Wissen in einem Wo
 
 Um das gesammelte Wissen Ihres Unternehmens effizient nutzen zu können, sollte Ihnen bewusst sein, aus welchen **acht Bausteinen** sich das Wissensmanagement zusammensetzt.
 
-![Die acht Bausteine von Wissensmanagement bauen aufeinander auf und ermöglichen es Ihnen, ein Ihr Unternehmen insgesamt effizienter zu gestalten.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
+![Die acht Bausteine von Wissensmanagement bauen aufeinander auf und ermöglichen es Ihnen, Ihr Unternehmen insgesamt effizienter zu gestalten.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
 Systematik nach Probst, Raub und Romhardt
 
@@ -102,9 +98,9 @@ Im **Kundensupport** beispielsweise kann Ihnen ein ausgefeiltes Wissensmanagemen
 
 ![Der Kundensupport besteht aus mehreren Komponenten.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
-Ersparen Sie Ihren Mitarbeitern viel Arbeit, indem Sie Ihren Kunden Hilfe zur Selbsthilfe anbieten.
+Ersparen Sie Ihren Mitarbeitern viel Arbeit, indem Sie Ihren Kunden Hilfe zur Selbsthilfe anbieten. Ein Beispiel für einen solchen Hilfebereich finden Sie [hier]({{< relref "help" >}}). Dennoch gibt es immer wieder Situationen, in denen Kunden persönliche Hilfe benötigen. Für diese Fälle sollten Sie ein [Ticketing-System]({{< relref "posts/20250521-ticketing-system" >}}) pflegen, mit dem Sie Anfragen strukturiert abarbeiten können.
 
-[Dieser Hilfebereich]({{< relref "help" >}}) ist ein Beispiel für ein gut geführtes Wissensmanagementsystem. Dadurch senken Sie einerseits den Supportaufwand Ihrer Mitarbeiter und ersparen andererseits Ihren Kunden eine lange Wartezeit.
+Ein [IT Helpdesk]({{< relref "templates/it-engineering/it-helpdesk" >}}) ist ein Beispiel für ein gut geführtes Wissensmanagementsystem. Dadurch senken Sie einerseits den Supportaufwand Ihrer Mitarbeiter und ersparen andererseits Ihren Kunden eine lange Wartezeit.
 
 ### Interner Einsatz
 
@@ -131,7 +127,7 @@ Wägen Sie die beiden Seiten gegeneinander ab.
 
 - **Hohe Startkosten**: Um ein Wissensmanagementsystem einzuführen, müssen Sie finanzielle und zeitliche Ressourcen für die Einrichtung digitaler Systeme sowie die Erarbeitung, Strukturierung und Aufbereitung des Wissens einplanen.
 - **Veralteter Wissensstand**: Das Wissen immer auf dem aktuellen Stand zu halten kostet viel Zeit und Energie und verlangt Disziplin von Ihren Mitarbeitern.
-- **Sicherheitsrisiken**: Die sensiblen Informationen sind heutzutage meist auf einem zentralen Server gespeichert. Die Zugangsberechtigungen und die damit verbundenen Datenschutzrichtlinien bergen jedoch auch Risiken.
+- **Sicherheitsrisiken**: Die sensiblen Informationen sind heutzutage meist auf einem zentralen [Server]({{< relref "posts/it-infrastruktur" >}}) oder in der [Cloud]({{< relref "posts/cloud-computing" >}}) gespeichert. Die Zugangsberechtigungen und die damit verbundenen Datenschutzrichtlinien bergen jedoch auch Risiken.
 - **Komplexes System**: Wissensmanagementsysteme sind meist komplex. Es bedarf also einer langen Einarbeitungszeit, damit Ihre Mitarbeiter das System effizient nutzen können.
 
 ## Welches Wissensmanagementsystem ist für Sie geeignet?
@@ -141,36 +137,43 @@ Möchten Sie in Ihrem Unternehmen ein erfolgreiches Wissensmanagement aufbauen, 
 {{< accordion "Wikis und Informationsmanagementsysteme" >}}
 
 Beispiele: Confluence, Guru
+
 {{< /accordion >}}
 
 {{< accordion "Groupware und Kollaborationssysteme" >}}
 
 Beispiele: BSCW, Microsoft SharePoint
+
 {{< /accordion >}}
 
 {{< accordion "Instant Messenger und Kommunikationssysteme" >}}
 
 Beispiele: Slack, Microsoft Teams
+
 {{< /accordion >}}
 
 {{< accordion "Dokumentenmanagement- und Dateiaustauschsysteme" >}}
 
-Beispiele: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+Beispiele: [Seafile](https://www.seafile.com/en/home/), Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+
 {{< /accordion >}}
 
 {{< accordion "Customer-Relationship-Management-Systeme" >}}
 
-Beispiele: Pipedrive, Salesforce
+Beispiele: [Pipedrive, Salesforce]({{< relref "posts/no-code-crm" >}})
+
 {{< /accordion >}}
 
 {{< accordion "Projektmanagementsysteme" >}}
 
-Beispiele: Asana, Jira
+Beispiele: [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Jira
+
 {{< /accordion >}}
 
 {{< accordion "HR- und Personalmanagementsysteme" >}}
 
-Beispiele: Personio, DATEV
+Beispiele: [Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}), DATEV
+
 {{< /accordion >}}
 
 {{< accordion "Contentmanagementsysteme" >}}
@@ -191,7 +194,7 @@ Um die für Ihr Unternehmen passende Software zu finden, sollten Sie mehrere Lö
 
 ## Flexibles und effizientes Wissensmanagement mit SeaTable
 
-Eine gute Antwort auf all diese Fragen ist die intuitiv und unkompliziert zu bedienende Wissensdatenbank **SeaTable**. Auf verschiedenen Ebenen (Bases, Tabellen, Ansichten, Zeilen) ermöglicht sie es Ihnen und Ihren Mitarbeitern, Informationen strukturiert zu erfassen, schnell zu finden, einfach mit anderen zu teilen oder nach Relevanz für eine betreffende Personengruppe zu filtern. So behalten Sie und Ihre Mitarbeiter stets den Überblick.
+Eine gute Antwort auf all diese Fragen ist die intuitiv und unkompliziert zu bedienende Wissensdatenbank [SeaTable]({{< relref "/" >}}). Auf verschiedenen Ebenen (Bases, Tabellen, Ansichten, Zeilen) ermöglicht sie es Ihnen und Ihren Mitarbeitern, Informationen strukturiert zu erfassen, schnell zu finden, einfach mit anderen zu teilen oder nach Relevanz für eine betreffende Personengruppe zu filtern. So behalten Sie und Ihre Mitarbeiter stets den Überblick.
 
 ![Die Dokumentation von Wissen ist mit SeaTable eine einfache Aufgabe](knowledge-management.jpg)
 

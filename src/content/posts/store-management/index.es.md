@@ -1,6 +1,6 @@
 ---
 title: 'Gestión organizada de la tienda con SeaTable'
-description: 'Más sucursales significan más tareas: SeaTable reúne toda la información clave sobre empleados, ventas, formaciones y materiales en un solo sitio. Personaliza vistas, automatiza procesos y facilita el seguimiento para una gestión de tiendas sencilla y productiva.'
+description: 'Más sucursales significan más tareas: SeaTable reúne toda la información clave sobre empleados, ventas, formaciones y materiales en un solo sitio. Personalice vistas, automatice procesos y facilite el seguimiento para una gestión de tiendas sencilla y productiva.'
 date: 2021-10-21
 categories:
     - 'best-practice'
@@ -17,13 +17,15 @@ seo:
 
 Con la apertura de nuevos locales, no sólo crece el volumen de negocio, sino también el esfuerzo organizativo. Ahora es importante mantener una visión general. Nuestra plantilla de gestión de tiendas le ayuda con las siguientes preguntas: ¿Dónde están sus sucursales de mayor volumen de negocio? ¿Qué tiendas necesitan más atención porque no han alcanzado el volumen de negocio previsto? ¿Dónde se necesita nuevo personal y cuál es la calidad de su personal contratado? ¿Qué empleados podrían utilizar qué formación?
 
-Además, su equipo de ventas también se enfrenta a nuevos retos: Hay más sucursales que deben ser auditadas a intervalos regulares. Esto significa más citas y una demanda creciente. Necesita trabajar de forma estructurada y simplificar los procesos con la ayuda de nuestra [solución de gestión de tiendas]({{< relref "templates/sales/store-management" >}}).
+Además, su equipo de ventas también se enfrenta a nuevos retos: Hay más sucursales que deben ser auditadas a intervalos regulares. Esto significa más citas y una demanda creciente. Necesita trabajar de forma estructurada y simplificar los procesos con la ayuda de nuestra solución de gestión de tiendas.
 
 ## SeaTable como herramienta de organización para la gestión de su tienda
 
 Hay muchas cosas que hay que tener en cuenta en la gestión de una tienda. Nuestra solución de software le ayuda a realizar un seguimiento de los empleados y de la formación. Le muestra el volumen de negocio en diferentes grupos de facturación y, con nuestro plugin de estadísticas, también proporciona la base para varios análisis de facturación. Para sus gestores de ventas, SeaTable ofrece un sencillo formulario web que puede utilizarse para organizar los controles de las tiendas.
 
 La vista de la línea de tiempo también muestra todas las próximas citas. Por último, pero no menos importante, nuestra Plantilla de Gestión de Tiendas también le ayuda a ordenar y hacer un seguimiento de todos los materiales del punto de venta en todas las sucursales. A continuación, explicaremos cómo está estructurada exactamente la plantilla y cómo puede utilizarla.
+
+{{< template-box id="c090ef310bd54007ab0a" >}}
 
 [Haga clic aquí para ir directamente a nuestra plantilla]({{< relref "templates/sales/store-management" >}})
 
@@ -37,7 +39,7 @@ Una columna adicional para documentos le permite almacenar contratos de trabajo 
 
 ## Organice la formación continua de sus empleados
 
-Dado que los empleados son uno de los recursos más importantes para las empresas, a éstas les interesa promover estos recursos y hacerlos aún más valiosos. Por ello, la formación continua puede considerarse una inversión sostenible en la empresa. Porque los nuevos conocimientos que adquieren sus empleados no sólo les benefician a ellos, [sino también a toda la empresa](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
+Dado que los empleados son uno de los recursos más importantes para las empresas, a éstas les interesa promover estos recursos y hacerlos aún más valiosos. Por ello, la formación continua puede considerarse una [inversión]({{< relref "posts/investitionsplan" >}}) sostenible en la empresa. Porque los nuevos conocimientos que adquieren sus empleados no sólo les benefician a ellos, sino también a toda la empresa.
 
 Nuestra tercera base "Formación" le ofrece una visión general de las distintas necesidades de sus empleados y de las oportunidades de formación continua asociadas. Puede introducir todos los cursos de formación disponibles en la primera columna. A continuación, introduzca la fecha en la que tendrá lugar la formación continua. Otra columna muestra las plazas disponibles para esta formación continua.
 
@@ -47,7 +49,7 @@ Si su gestión de recursos humanos es cada vez más compleja y el número de for
 
 ## Mantenga una visión general de sus ventas
 
-En la gestión de las tiendas, es fundamental vigilar la facturación de cada una de las sucursales. Esto no sólo es crucial para un análisis tal cual, sino también para la futura planificación estratégica de la ubicación. En su Base de Ingresos puede ver y analizar las cifras de facturación.
+En la gestión de las tiendas, es fundamental vigilar la facturación de cada una de las sucursales. Esto no sólo es crucial para un análisis de la situación actual, sino también para la futura planificación estratégica de la ubicación. En su Base de Ingresos puede ver y analizar las cifras de facturación.
 
 Hemos agrupado toda la base por trimestres. En sus reglas de agrupación puede establecer fácilmente por qué columna debe ordenarse toda la base. Si prefiere clasificar por año o por rama, puede, por supuesto, hacer este ajuste fácilmente [cambiando las reglas de agrupación]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
@@ -65,11 +67,9 @@ Para añadir más estadísticas, basta con hacer clic en "+nuevo gráfico" en el
 
 ### Nuestro plug-in Map es adecuado para el análisis del volumen de negocio geográfico
 
-Para obtener una visión geográfica de sus ventas, tal vez para ver en qué regiones su producto o servicio es particularmente bien recibido, existe el complemento Mapa. Al hacer clic en Mapa, todas las ramas se muestran en el color del grupo de facturación correspondiente. De este modo, se pueden reconocer inmediatamente las regiones con alta y baja rotación. Esto le proporciona importantes criterios de decisión a la hora de planificar la ubicación estratégica.
+Para obtener una visión geográfica de sus ventas, tal vez para ver en qué regiones su producto o servicio es particularmente bien recibido, existe el complemento Mapa. Al hacer clic en Mapa, todas las ramas se muestran en el color del grupo de facturación correspondiente. De este modo, se pueden reconocer inmediatamente las regiones con un volumen de negocio alto y bajo. Esto le proporciona importantes criterios de decisión a la hora de planificar la ubicación estratégica.
 
-![Gestión de sucursales a través del complemento de la tarjeta](Bildschirmfoto-2021-10-06-um-11.55.12.png)
-
-Complemento de la tarjeta con el volumen de negocios de las ramas individuales
+![Gestión de sucursales a través del complemento de mapa](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 ## Vea las responsabilidades de su equipo de ventas
 
@@ -77,7 +77,7 @@ Para tener una visión general de las responsabilidades de su equipo de ventas, 
 
 ## Cómo ayuda nuestra solución de gestión de tiendas a su equipo de ventas
 
-A medida que aumenta el número de tiendas, sus gestores de ventas también tienen más trabajo. Dependiendo del tipo de empresa, sus responsables de ventas tienen las siguientes tareas en el proceso de gestión de la tienda, por ejemplo
+A medida que aumenta el número de tiendas, sus gestores de ventas también tienen más trabajo. Dependiendo del tipo de empresa, sus responsables de ventas tienen las siguientes tareas en el proceso de gestión de la tienda, por ejemplo:
 
 1. Visitas periódicas a las sucursales
 2. Revisión de los materiales de punto de venta utilizados
@@ -87,21 +87,17 @@ A medida que aumenta el número de tiendas, sus gestores de ventas también tien
 
 Nuestra plantilla de gestión de tiendas ofrece una solución para todas estas tareas.
 
-### Todas las citas de un vistazo - con el plug-in de la línea de tiempo
+### Todas las citas de un vistazo – con la vista de la línea de tiempo
 
-El complemento Timeline permite a sus vendedores ver cuándo están programadas las próximas citas para una visita personal a las tiendas que tienen asignadas. Como hemos creado una vista separada para cada empleado en esta base, que explicaremos de nuevo más adelante, también hay una línea de tiempo separada para cada empleado individual en el complemento de línea de tiempo. Si quiere añadir aquí nuevas líneas de tiempo para nuevos empleados, debe crear también una nueva vista en el complemento de línea de tiempo después de haber creado la nueva vista en la base. En la configuración, puede especificar la vista correspondiente como base para la fuente de datos.
+La vista de la línea de tiempo permite a sus vendedores ver cuándo están programadas las próximas citas para una visita personal a las tiendas que tienen asignadas. Si quiere añadir aquí nuevas líneas de tiempo para nuevos empleados, tiene que crear una vista de la línea de tiempo filtrada. En la configuración puede indicar entonces la tabla correspondiente como base para la fuente de datos.
 
 ![Gestión de la tienda ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
-
-Complemento de la línea de tiempo
 
 ### Realice fácilmente las comprobaciones de la tienda a través de formularios web
 
 Durante cada visita personal a la tienda, su personal de ventas tiene la tarea de comprobar la exactitud de varios aspectos, dependiendo del tipo de empresa. Para ello, hemos creado un [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}) que su personal de ventas puede rellenar fácilmente durante o después de su visita a la tienda. Encontrará los formularios web en la esquina superior derecha, en "Formularios". Cuando su jefe de ventas haga clic en el formulario web, podrá empezar a rellenarlo inmediatamente.
 
 ![Gestión de la tienda Comprobación de la tienda](Bildschirmfoto-2021-10-06-um-13.12.55.png)
-
-Formulario web para la comprobación de la tienda
 
 La tabla subyacente sigue siendo la tabla "Comprobación de la tienda". Cada entrada a través de un formulario web aparece en las filas y columnas de esta tabla.
 

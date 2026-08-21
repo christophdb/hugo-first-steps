@@ -1,5 +1,6 @@
 ---
-title: "Créer une liste d'inventaire - avec un modèle gratuit, Excel ou Word"
+title: "Créer une liste d'inventaire – gardez une vue d'ensemble !"
+description: "Vous effectuez un inventaire chaque année, voire chaque mois ? Alors vous êtes au bon endroit ! Dans cet article, vous apprendrez à créer votre liste d'inventaire, à standardiser le processus et à simplifier votre inventaire."
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
@@ -16,7 +17,7 @@ tags:
 color: '#bed8cb'
 ---
 
-Vous effectuez un **inventaire** chaque année ou même chaque mois ? Alors vous êtes au bon endroit ! Dans cet article, vous apprendrez comment **créer** votre **liste d'inventaire**, standardiser le processus et simplifier votre inventaire. Pour ce faire, vous pouvez importer une liste d'inventaire dans Excel ou construire votre propre modèle dans Word. Vous découvrirez également les avantages d'une base de données gratuite comme **SeaTable par rapport à Excel et Word**.
+Importez une liste d'inventaire dans Excel ou créez votre propre modèle dans Word. Découvrez les avantages qu'offre une base de données gratuite comme SeaTable par rapport à Excel et Word.
 
 ## Qu'est-ce qu'une liste d'inventaire ?
 
@@ -30,9 +31,9 @@ Chaque commerçant et chaque entreprise qui est tenu de tenir une comptabilité 
 
 Utilisez une liste d'inventaire numérique pour répertorier votre stock. Droits d'image : tradol / Adobe Stock
 
-## Quelle est la différence entre inventaire et inventaire physique ?
+## Quelle est la différence entre l'inventaire physique et l'inventaire ?
 
-Par **inventaire**, on entend le stock complet d'une entreprise ; c'est-à-dire : tous les biens que possède votre entreprise. L'**inventaire** est la prise d'inventaire, c'est-à-dire le processus par lequel vous enregistrez vos actifs.
+Par **inventaire**, on entend le stock complet d'une entreprise ; c'est-à-dire : tous les biens que possède votre entreprise. L'**inventaire physique** est la prise d'inventaire, c'est-à-dire le processus par lequel vous enregistrez vos actifs.
 
 ## Qu'est-ce qui fait partie de l'inventaire d'une entreprise ?
 
@@ -49,9 +50,9 @@ Tout d'abord, l'inventaire se distingue selon que vous recensez des actifs maté
 
 De plus, le **moment où** vous créez votre inventaire fait une différence :
 
-- La méthode la plus courante est celle dite **Inventaire à jour fixe**. Comme son nom l'indique, il s'agit d'inventorier les stocks à une date précise, généralement à la fin de l'exercice. Il s'agit de la méthode la plus précise, mais elle présente l'inconvénient que tout le travail d'inventaire physique est effectué entre Noël et le Nouvel An, période pendant laquelle de nombreux employés sont en vacances et ne sont pas sur place.
-- C'est pourquoi il existe **inventaire déplacé**. Cette forme d'inventaire vous permet d'effectuer l'inventaire de manière flexible à une date de votre choix, au maximum trois mois avant ou deux mois après la date de clôture du bilan. Comme vous devez ensuite mettre à jour ou recalculer les stocks à l'aide des entrées et des sorties de votre liste d'inventaire, l'inventaire décalé est toutefois moins précis que l'inventaire à jour fixe.
-- En revanche, l'inventaire **inventaire permanent** est un processus continu qui présente l'avantage de répartir les dépenses de manière régulière sur toute l'année et de se contenter d'un inventaire comptable à la date de clôture du bilan. Néanmoins, une fois par an, il est nécessaire de procéder à un inventaire physique de tous les actifs afin de comparer les stocks réels avec les stocks comptables. Ensuite, vous devez documenter précisément toutes les entrées et sorties dans votre liste d'inventaire afin de mettre à jour les stocks sur le plan comptable.
+- La méthode la plus courante est celle dite de l'**inventaire à date fixe**. Comme son nom l'indique, il s'agit d'inventorier les stocks à une date précise, généralement à la fin de l'exercice. Il s'agit de la méthode la plus précise, mais elle présente l'inconvénient que tout le travail d'inventaire physique est effectué entre Noël et le Nouvel An, période pendant laquelle de nombreux employés sont en vacances et ne sont pas sur place.
+- C'est pourquoi il existe aussi l'**inventaire décalé**. Cette forme d'inventaire vous permet d'effectuer l'inventaire de manière flexible à une date de votre choix, au maximum trois mois avant ou deux mois après la date de clôture du bilan. Comme vous devez ensuite mettre à jour ou recalculer les stocks à l'aide des entrées et des sorties de votre liste d'inventaire, l'inventaire décalé est toutefois moins précis que l'inventaire à date fixe.
+- En revanche, l'**inventaire permanent** est un processus continu qui présente l'avantage de répartir les dépenses de manière régulière sur toute l'année et de se contenter d'un inventaire comptable à la date de clôture du bilan. Néanmoins, une fois par an, il est nécessaire de procéder à un inventaire physique de tous les actifs afin de comparer les stocks réels avec les stocks comptables. Ensuite, vous devez documenter précisément toutes les entrées et sorties dans votre liste d'inventaire afin de mettre à jour les stocks sur le plan comptable.
 
 ![Un magasinier fait l'inventaire dans Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
@@ -75,11 +76,9 @@ Dans votre liste d'inventaire, vous devriez inclure les points suivants :
 
 En outre, chaque objet doit recevoir un **numéro unique** dès que vous l'enregistrez dans votre inventaire. Si vous en disposez encore, vous pouvez également joindre le **ticket de caisse** ou la **facture** et indiquer la **date d'achat** et le **prix unitaire** de l'époque. En option, vous pouvez également ajouter des informations telles que le **numéro de série** des objets, la **durée et la date de fin de la garantie** ainsi que la **date du prochain inventaire**.
 
-Un exemple de liste d'inventaire est un tableau avec ces colonnes (cliquez sur l'image pour l'agrandir) :
+Un exemple de liste d'inventaire est une [base de données]({{< relref "posts/relationale-datenbank" >}}) avec deux tableaux liés et diverses colonnes. Cliquez et faites défiler cette liste d'inventaire donnée en exemple :
 
-![Exemple : modèle de liste d'inventaire](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
-
-Voici à quoi pourrait ressembler votre liste d'inventaire.
+{{< template id="11568480344f4a61ab49" >}}
 
 Passons maintenant à la partie pratique - comment pouvez-vous exactement créer un inventaire ?
 
@@ -95,7 +94,7 @@ Les feuilles de calcul Excel sont populaires pour les inventaires. Droits d'imag
 
 Si vous ne disposez pas encore d'une liste d'inventaire Excel, créez-en une sans plus attendre : ouvrez un nouveau document Excel vide. Réfléchissez **aux titres des colonnes dont vous avez besoin pour votre liste d'inventaire** (par exemple numéro d'identification, désignation, emplacement, quantité et valeur) et tapez-les.
 
-Ensuite **, formatez les cellules en fonction des types de données dont vous avez besoin**. Souhaitez-vous par exemple afficher dans une colonne des nombres avec deux chiffres après la virgule ? Comment les montants ou les devises doivent-ils être représentés ? Y a-t-il des valeurs négatives ?
+Ensuite, **formatez les cellules en fonction des types de données dont vous avez besoin**. Souhaitez-vous par exemple afficher dans une colonne des nombres avec deux chiffres après la virgule ? Comment les montants ou les devises doivent-ils être représentés ? Y a-t-il des valeurs négatives ?
 
 Une fois le formatage terminé, il est temps d'**associer les colonnes Excel aux formules**. Par exemple, à côté de la liste d'inventaire, tapez dans une cellule l'intitulé "Total". Vous pouvez alors utiliser la formule _\=SOMME()_ pour additionner toutes les valeurs à la fin du tableau.
 
@@ -119,7 +118,7 @@ Word, le programme de traitement de texte de Microsoft, a probablement déjà é
 
 Pour ce faire, ouvrez un document vide, cliquez sur Insérer et ensuite sur Tableau. Vous avez maintenant plusieurs possibilités : Vous pouvez par exemple créer un tableau (non formaté) avec autant de lignes et de colonnes que vous le souhaitez, recourir à un modèle formaté pour la liste d'inventaire ou intégrer dans votre document un modèle Excel qui offre les fonctions mentionnées ci-dessus.
 
-Quelle que soit l'option choisie, vous décidez également dans Word des titres de colonne dont vous avez besoin pour votre liste d'inventaire (par exemple numéro d'identification, objet, type, emplacement, quantité et valeur). Ensuite, vous saisissez manuellement vos actifs. Cela pourrait ressembler à ceci (cliquez sur l'image pour l'agrandir) :
+Quelle que soit l'option choisie, vous décidez également dans Word des titres de colonne dont vous avez besoin pour votre liste d'inventaire (par exemple numéro d'identification, objet, type, emplacement, quantité et valeur). Ensuite, vous saisissez manuellement vos actifs. Cela pourrait ressembler à ceci :
 
 ![Liste d'inventaire dans Word](Inventarliste-in-Word.png)
 
@@ -131,7 +130,7 @@ Le principal avantage de Word est que les tableaux peuvent être créés **rapid
 
 Par rapport à Excel, les tableaux dans Word ne se prêtent toutefois pas à d'autres **calculs et évaluations**, mais uniquement à la **saisie de texte pur**, pour laquelle aucun autre type de données ou de formules n'est prévu pour le tableur. Pour les petites entreprises avec peu d'inventaire, qui n'ont besoin que de listes simples pour leur inventaire, cela peut suffire.
 
-Pour les grandes entreprises qui ont beaucoup d'objets et des cas d'application plus complexes, il est fortement déconseillé de tenir des listes d'inventaire dans Word (sauf si vous voulez rendre votre comptabilité folle). C'est là qu'interviennent **des bases de données comme SeaTable**, qui permettent d **'avoir une vue d'ensemble et d'analyser de grandes quantités de données avec une facilité enfantine**.
+Pour les grandes entreprises qui ont beaucoup d'objets et des cas d'application plus complexes, il est fortement déconseillé de tenir des listes d'inventaire dans Word (sauf si vous voulez rendre votre comptabilité folle). C'est là qu'interviennent **des bases de données comme SeaTable**, qui permettent d'**avoir une vue d'ensemble et d'analyser de grandes quantités de données avec une facilité enfantine**.
 
 ## Créer un inventaire avec SeaTable
 
@@ -154,7 +153,7 @@ Vous pouvez également créer [des formulaires Web]({{< relref "help/base-editor
 
 ![Soumettre un article pendant l'inventaire](Submit-an-item-during-inventory.gif)
 
-La **visualisation** et l **'analyse** des données sont encore plus flexibles et simples dans SeaTable que dans Excel. Vous pouvez créer [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}), utiliser [des plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) pour les afficher ou utiliser des vues pour filtrer, trier et regrouper les données.
+La **visualisation** et l'**analyse** des données sont encore plus flexibles et simples dans SeaTable que dans Excel. Vous pouvez créer [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}), utiliser [des plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) pour les afficher ou utiliser des vues pour filtrer, trier et regrouper les données.
 
 Enfin, vous pouvez enregistrer **des images** et **des fichiers** tels que des documents PDF dans SeaTable. Vous pouvez ainsi inclure dans votre inventaire des preuves d'achat, des factures ou des photos de l'état actuel pendant l'inventaire.
 
@@ -164,8 +163,9 @@ La plupart des entreprises doivent tenir une liste d'inventaire. Pour ce faire, 
 
 Réfléchissez aux **informations dont** vous avez besoin sur votre inventaire, aux **personnes** impliquées dans l'inventaire et **au nombre de personnes qui** doivent avoir accès aux données. **Comment** souhaitez-vous préparer les données et **quelles sont les fonctions** nécessaires à cet effet ?
 
-Une fois que vous avez répondu à ces questions de base, vous pouvez facilement passer à la mise en œuvre. Si vous souhaitez utiliser le modèle SeaTable pour votre inventaire, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et commencez directement.
+{{< template-box id="11568480344f4a61ab49" >}}
 
+Une fois que vous avez répondu à ces questions de base, vous pouvez facilement passer à la mise en œuvre. Si vous souhaitez utiliser le modèle SeaTable pour votre inventaire, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et commencez directement.
 
 ## FAQ Créer une liste d'inventaire
 

@@ -1,11 +1,12 @@
 ---
-title: 'Creating an inventory - how to keep track'
-description: "Do you carry out an inventory every year or even every month? Then you've come to the right place! In this article, you will learn how to create your inventory list, standardise the process and simplify your inventory."
+title: 'Creating an inventory list – how to keep track'
+description: "Do you carry out an inventory every year or even every month? Then you've come to the right place! In this article, you will learn how to create your inventory list, standardize the process and simplify your inventory."
 seo:
     title: 'Create an inventory list - record stocks accurately'
-    description: 'Record your business inventory accurately! Gain full control over your assets and optimise business processes'
+    description: 'Record your business inventory accurately! Gain full control over your assets and optimize business processes'
 date: 2024-02-23
 lastmod: '2025-01-10'
+author: 'kgr'
 categories:
     - 'best-practice'
 tags:
@@ -16,7 +17,7 @@ aliases:
     - /inventarliste-erstellen/
 ---
 
-Do you carry out an **inventory** every year or even every month? Then you've come to the right place! In this article, you will learn how to create your **inventory list**, standardize the process and simplify your inventory. You can import an inventory list into Excel or create your own template in Word. You will also find out what advantages a free database like **SeaTable** offers **over Excel and Word**.
+Import an inventory list into Excel or create your own template in Word. Find out what advantages a free database like SeaTable offers over Excel and Word.
 
 ## What is an inventory list?
 
@@ -32,7 +33,7 @@ Use a digital inventory list to record your stock. Image rights: tradol / Adobe 
 
 ## What is the difference between stocktaking and inventory?
 
-An **inventory** is the complete stock of a company, i.e. all the assets that your company owns. The **inventory** is the process by which you record your assets.
+An **inventory** is the complete stock of a company, i.e. all the assets that your company owns. **Stocktaking** is the process by which you record your assets.
 
 ## What counts as a company's inventory?
 
@@ -45,12 +46,12 @@ The assets (fixed and current assets) and liabilities of your company belong to 
 
 ## Types of inventory
 
-First of all, the inventory differs according to whether you are recording tangible or intangible assets. For physical inventories, you must carry out a **physical inventory** once a year, in which you count, measure or weigh all the goods in your warehouse, for example. With a **book inventory**, on the other hand, you record the intangible assets, which can be tracked using accounting documents such as bank statements and invoices.
+First of all, the inventory differs according to whether you are recording tangible or intangible assets. For physical stock, you must carry out a **physical inventory** once a year, in which you count, measure or weigh all the goods in your warehouse, for example. With a **book inventory**, on the other hand, you record the intangible assets, which can be tracked using accounting documents such as bank statements and invoices.
 
 It also makes a difference **when** you create your inventory:
 
 - The most common is the so-called **key date inventory**. As the name suggests, you take stock on a specific date, usually at the end of a financial year. Although this is the most accurate method, it has the disadvantage that the entire effort for the physical inventory is incurred in the period between Christmas and New Year, when many employees are on vacation and not on site.
-- This is why there is also the **misplaced inventory**. With this form of stocktaking, you can carry out the inventory flexibly on a day of your choice, which is a maximum of three months before or two months after the balance sheet date. However, as you then have to update or count back the stocks using the receipts and issues in your inventory list, the postponed inventory is less accurate than the key date inventory.
+- This is why there is also the **postponed inventory**. With this form of stocktaking, you can carry out the inventory flexibly on a day of your choice, which is a maximum of three months before or two months after the balance sheet date. However, as you then have to update or count back the stocks using the receipts and issues in your inventory list, the postponed inventory is less accurate than the key date inventory.
 - In contrast, the **perpetual inventory** is an ongoing process with the advantage that the effort is spread evenly throughout the year and a book inventory is sufficient on the balance sheet date. Nevertheless, a physical inventory of all assets is necessary once a year in order to compare the actual stocks with the book stocks. You must then document all additions and disposals precisely in your inventory list in order to update the stocks for accounting purposes.
 
 ![Warehouse worker takes inventory in Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
@@ -59,7 +60,7 @@ You should regularly compare your inventory list with the actual stock. Image ri
 
 ## Why is it important to create an inventory list?
 
-Creating an inventory list is not only worthwhile for the balance sheet. After all, you always want to keep track of what [assets](https://de.wikipedia.org/wiki/Verm%C3%B6gensgegenstand) your company currently has. An inventory list helps you to always **have** the **currently available, desired or required inventory on your screen**. By listing your assets, you can compare them over a longer period of time - provided you always use the same template for your inventory list.
+Creating an inventory list is not only worthwhile for the balance sheet. After all, you always want to keep track of what [assets](https://de.wikipedia.org/wiki/Verm%C3%B6gensgegenstand) your company currently has. An inventory list helps you to always **keep track of the inventory currently available, desired or required**. By listing your assets, you can compare them over a longer period of time - provided you always use the same template for your inventory list.
 
 ## What information belongs in the inventory list?
 
@@ -75,11 +76,9 @@ You should include the following items in your inventory list:
 
 In addition, each item should be given a **unique number** as soon as you enter it in your inventory list. If still available, you can also attach the **receipt** or **invoice** and enter the **date of purchase** and the **unit price** at the time. Optionally, you can also enter information such as the **serial number** of the items, the **term and end date of the warranty** and the **date of the next inventory**.
 
-An example of an inventory list is a table with these columns (click on the image to enlarge):
+An example of an inventory list is a [database]({{< relref "posts/relationale-datenbank" >}}) with two linked tables and various columns. Click and scroll through this sample inventory list:
 
-![Example: Template for an inventory list](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
-
-Your inventory list could look like this.
+{{< template id="11568480344f4a61ab49" >}}
 
 Now we come to the practical part - how exactly can you create an inventory?
 
@@ -119,7 +118,7 @@ Word, the word processing program from Microsoft, has probably been used by almo
 
 To do this, open an empty document, click on Insert and then on Table. You now have several options: For example, you can create an (unformatted) table with any number of rows and columns, use a formatted template for the inventory list or integrate an Excel template into your document that offers the functions mentioned above.
 
-Regardless of which option you choose, you also decide in Word which column titles you need for your inventory list (e.g. identification number, item, type, location, quantity and value). You then enter your assets manually. This could look like this (click on the image to enlarge):
+Regardless of which option you choose, you also decide in Word which column titles you need for your inventory list (e.g. identification number, item, type, location, quantity and value). You then enter your assets manually. This could look like this:
 
 ![Inventory list in Word](Inventarliste-in-Word.png)
 
@@ -163,6 +162,8 @@ Last but not least, you can save **images** and **files** such as PDF documents 
 Most companies have to keep an inventory list. An inventory list standardizes and simplifies the process, whether in Excel, Word or a database such as SeaTable. How you create a digital inventory list varies from program to program, but follows similar steps.
 
 Think about **what information** you need about your inventory, **who** is involved in the inventory and **how many people** need access to the data. **How** do you want to prepare the data and **which functions** are required for this?
+
+{{< template-box id="11568480344f4a61ab49" >}}
 
 Once you have clarified these basic questions, it's easy to get started. If you would like to use the SeaTable template for your inventory list, [register for free]({{< relref "pages/registration" >}}) and get started right away.
 

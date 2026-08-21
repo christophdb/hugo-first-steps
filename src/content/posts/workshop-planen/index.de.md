@@ -22,31 +22,37 @@ Sie möchten einen **Workshop planen** oder gar die gesamte **Personalentwicklun
 
 ## Warum Workshops und Weiterbildungen wichtig sind
 
-Mitarbeiter sind die kostbarste Ressource eines Unternehmens. Daher liegt es in Ihrem Interesse, Ihre **Human Resources** zu fördern und Ihr Unternehmen dadurch noch wertvoller zu machen. Weiterbildungen, Schulungen und Workshops können Sie demnach als **nachhaltige Investition** in Ihr Unternehmen betrachten. Denn die neuen Skills und das Know-how, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, sondern auch dem Unternehmen zugute.
+Mitarbeiter sind die kostbarste Ressource eines Unternehmens. Daher liegt es in Ihrem Interesse, Ihre [Human Resources]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) zu fördern und Ihr Unternehmen dadurch noch wertvoller zu machen. Weiterbildungen, Schulungen und Workshops können Sie demnach als nachhaltige [Investition]({{< relref "posts/investitionsplan" >}}) in Ihr Unternehmen betrachten. Denn die neuen Skills und das Know-how, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, sondern auch dem Unternehmen zugute.
 
 ![Workshop planen](Workshops.jpg)
 
 Je nach Komplexität des Themas und Expertise in Ihrem Unternehmen können Sie entweder **interne Workshops** mit Ihren Mitarbeitern durchführen, externe Fachleute zu einer **Inhouse-Schulung** dazuholen oder **externe Weiterbildungen**, zum Beispiel bei der Agentur für Arbeit, einer IHK oder Akademie, in Anspruch nehmen.
 
-**Drei Beispiele für interne Mitarbeiter-Workshops:**
+### Drei Beispiele für interne Mitarbeiter-Workshops
 
-- **Onboarding**: Vor allem für die Einarbeitung am Anfang sind Workshops unerlässlich, um neue Mitarbeiter mit der Unternehmenskultur, bestehenden Prozessen und Software-Anwendungen vertraut zu machen.
+- [Onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}): Vor allem für die Einarbeitung am Anfang sind Workshops unerlässlich, um neue Mitarbeiter mit der Unternehmenskultur, bestehenden Prozessen und Software-Anwendungen vertraut zu machen.
 - **Lean Management**: Wenn Sie Ihre Geschäftsprozesse optimieren möchten, tragen gezielte Workshops mit Ihren Mitarbeitern dazu bei, Arbeitsabläufe zu verschlanken, zu verbessern und effizienter zu gestalten.
-- **Change Management**: Wenn große, strukturelle Veränderungen in Ihrem Unternehmen anstehen, können Workshops dabei helfen, diese den Mitarbeitern Stück für Stück näherzubringen.
+- [Change Management]({{< relref "posts/change-management" >}}): Wenn große, strukturelle Veränderungen in Ihrem Unternehmen anstehen, können Workshops dabei helfen, diese den Mitarbeitern Stück für Stück näherzubringen.
 
 ### Workshops: Ein Must-have für attraktive Arbeitgeber
 
 Für Sie und Ihre Mitarbeiter haben Weiterbildungen, Schulungen und Workshops natürlich einige Vorteile. Zum einen erweitern Ihre Mitarbeiter ihre **Qualifikationen** und erlernen **neue Skills**, die sie im Arbeitsalltag einsetzen können. Das macht sie zu wertvollen Teammitgliedern, die an den Aufgaben in ihren individuellen Positionen wachsen.
 
-Zum anderen entwickeln Ihre Mitarbeiter **bessere Aufstiegschancen**, da neue Kompetenzen und Führungsqualitäten ihr Einsatzgebiet erweitern können. Dadurch können Sie Ihren **Bedarf an Fach- und Führungskräften** gegebenenfalls aus der eigenen Belegschaft decken. Und zu guter Letzt sind Workshops auch eine spannende **Abwechslung** für Arbeitnehmer, wenn sich im Arbeitsalltag gerade keine neuen Aufgaben und Projekte ergeben.
+Zum anderen entwickeln Ihre Mitarbeiter **bessere Aufstiegschancen**, da neue Kompetenzen und Führungsqualitäten ihr Einsatzgebiet erweitern können. Dadurch können Sie Ihren [Bedarf an Fach- und Führungskräften]({{< relref "posts/personalplanung" >}}) gegebenenfalls aus der eigenen Belegschaft decken. Und zu guter Letzt sind Workshops auch eine spannende **Abwechslung** für Arbeitnehmer, wenn sich im Arbeitsalltag gerade keine neuen Aufgaben und Projekte ergeben.
 
-{{< warning headline="Mitarbeiterbindung und -zufriedenheit" text="Regelmäßige Weiterbildungen, Schulungen und Workshops können nicht nur die **Produktivität** und **Einsatzfähigkeit**, sondern auch die Zufriedenheit Ihrer Mitarbeiter steigern. Sie fühlen sich ernst genommen und sehen es als positives Signal, wenn Sie ihre Meinung hören wollen, sie in Veränderungen einbinden oder ihnen die Möglichkeit bieten, sich weiterzuentwickeln. Das stärkt die **Mitarbeiterbindung** an das Unternehmen und hat langfristig zur Folge, dass die Fluktuation sinkt und Sie weniger Zeit und Geld für das Suchen und Rekrutieren neuer Mitarbeiter ausgeben müssen." />}}
+{{< warning headline="Mitarbeiterbindung und -zufriedenheit" >}}
+
+Regelmäßige Weiterbildungen, Schulungen und Workshops können nicht nur die **Produktivität** und **Einsatzfähigkeit**, sondern auch die Zufriedenheit Ihrer Mitarbeiter steigern. Sie fühlen sich ernst genommen und sehen es als positives Signal, wenn Sie ihre Meinung hören wollen, sie in Veränderungen einbinden oder ihnen die Möglichkeit bieten, sich weiterzuentwickeln. Das stärkt die **Mitarbeiterbindung** an das Unternehmen und hat langfristig zur Folge, dass die Fluktuation sinkt und Sie weniger Zeit und Geld für das [Suchen und Rekrutieren neuer Mitarbeiter]({{< relref "posts/20250317-recruiting" >}}) ausgeben müssen.
+
+{{< /warning >}}
 
 ## Workshops managen – mit der richtigen Software ein Klacks
 
 Das Planen, Organisieren und Managen von Workshops kann in größeren Unternehmen schnell unübersichtlich werden. Es gilt eine **Menge an unterschiedlichen Daten** zu verwalten. Dafür ist es sinnvoll, in gute Lösungen zu investieren, die den Aufwand auf ein Minimum reduzieren. Hier setzt SeaTable an: Als **leistungsfähige Software** mit praktischen und hochflexiblen Funktionen ist SeaTable ein ideales Tool für die Organisation und Verwaltung von Workshops.
 
 Mit SeaTable haben Sie Ihre Workshops und Weiterbildungsmaßnahmen immer im Blick und bündeln alle Informationen an einem zentralen Sammelpunkt. Sie managen nicht nur Ihre Workshops, sondern auch die Coaches sowie die Anmeldungen und das Feedback der Teilnehmer.
+
+{{< template id="3d757663bb3648439b9d" >}}
 
 [Unsere kostenlose Vorlage]({{< relref "templates/human-resources/workshop-planner" >}}) für Sie enthält vier verschiedene Tabellen, welche die wichtigsten Prozesse bei der Workshop-Planung abdecken.
 
@@ -58,7 +64,7 @@ Selbstverständlich sollten Sie Ihr Angebot an den Bedarf anpassen und ermitteln
 
 ![Gesamtüberblick über Ihre Workshops](Overview-1.jpg)
 
-Verschaffen Sie sich einen Überblick über alle Workshops, Schulungen und Weiterbildungsmaßnahmen, die in Ihrem Unternehmen bereits stattfinden oder für die es zusätzlichen Bedarf gibt. Dazu können Sie alle wichtigen Informationen und Dokumente zu einem Workshop einfach in einer Datenbank erfassen. Die Verknüpfung mit anderen Tabellen ermöglicht hierbei die direkte Zuordnung zu einem Coach.
+Verschaffen Sie sich einen Überblick über alle Workshops, Schulungen und Weiterbildungsmaßnahmen, die in Ihrem Unternehmen bereits stattfinden oder für die es zusätzlichen Bedarf gibt. Dazu können Sie alle wichtigen Informationen und Dokumente zu einem Workshop einfach in einer [Datenbank]({{< relref "posts/relationale-datenbank" >}}) erfassen. Die Verknüpfung mit anderen Tabellen ermöglicht hierbei die direkte Zuordnung zu einem Coach.
 
 ## Coaches für den Workshop suchen
 
@@ -117,5 +123,7 @@ Das gesammelte Feedback können Sie in SeaTable einfach **auswerten**, indem Sie
 ## Fazit: Workshop planen mit SeaTable
 
 Mit SeaTable können Sie jeden Vorgang rund um die Workshop-Planung sinnvoll abbilden und alle Daten mühelos verwalten. Im Vordergrund steht dabei immer die größtmögliche Effizienz für Sie, Ihre Mitarbeiter und andere Beteiligte. Denkbar sind auch noch weitere Tabellen und Prozesse, die Sie flexibel nach Ihren Wünschen ergänzen können, wie etwa die Buchung von Meetingräumen oder eine Inventarliste Ihrer Materialien.
+
+{{< template-box id="3d757663bb3648439b9d" >}}
 
 [Registrieren Sie sich]({{< relref "pages/registration" >}}) noch heute kostenlos und probieren Sie unsere [Vorlage]({{< relref "templates/human-resources/workshop-planner" >}}) direkt aus! Die Funktionen lassen sich für eine Vielzahl weiterer Anwendungsfälle nutzen.

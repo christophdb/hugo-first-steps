@@ -15,40 +15,46 @@ categories:
 tags:
     - 'Candidats & gestion des talents'
     - 'Éducation'
-color: '#a462c3'
+color: '#53d189'
 ---
 
-L’apprentissage tout au long de la vie est l’une des choses les plus importantes de nos jours lorsqu’il s’agit de **qualifications professionnelles** et de **développement personnel** . Qu’il s’agisse d’un atelier, d’une formation ou d’une formation continue : en tant qu’employeur, il est essentiel que vous souteniez vos collaborateurs et leur offriez des possibilités de développement. Après tout, il s’agit d’un emploi attrayant pour de nombreux employés aujourd’hui et **votre entreprise bénéficie** à bien des égards d’employés bien formés.
+L’apprentissage tout au long de la vie est l’une des choses les plus importantes de nos jours lorsqu’il s’agit de **qualifications professionnelles** et de **développement personnel**. Qu’il s’agisse d’un atelier, d’une formation ou d’une formation continue : en tant qu’employeur, il est essentiel que vous souteniez vos collaborateurs et leur offriez des possibilités de développement. Car pour de nombreux salariés, cela fait aujourd’hui partie intégrante d’un emploi attrayant, et **votre entreprise bénéficie** à bien des égards de collaborateurs bien formés.
 
 Vous souhaitez **planifier** un **atelier** ou même gérer l'ensemble du **développement du personnel**? Dans ce cas, vous êtes probablement confronté à une tâche colossale, car cela implique beaucoup d'efforts. Cet article vous fournit des informations utiles sur l'**organisation d'ateliers et de formations**. Si vous cherchez un modèle approprié pour la planification de votre atelier, vous le trouverez également ici.
 
 ## Pourquoi les ateliers et les formations continues sont importants
 
-Les collaborateurs sont la ressource la plus précieuse d'une entreprise. Il est donc dans votre intérêt de promouvoir vos **ressources humaines** et de rendre ainsi votre entreprise encore plus précieuse. Vous pouvez donc considérer les formations continues, les formations et les ateliers comme un **investissement durable** dans votre entreprise. En effet, les nouvelles compétences et le savoir-faire que vos collaborateurs acquièrent ne profitent pas seulement à eux, mais aussi à l'entreprise.
+Les collaborateurs sont la ressource la plus précieuse d'une entreprise. Il est donc dans votre intérêt de promouvoir vos [ressources humaines]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) et de rendre ainsi votre entreprise encore plus précieuse. Vous pouvez donc considérer les formations continues, les formations et les ateliers comme un [investissement]({{< relref "posts/investitionsplan" >}}) durable dans votre entreprise. En effet, les nouvelles compétences et le savoir-faire que vos collaborateurs acquièrent ne profitent pas seulement à eux, mais aussi à l'entreprise.
 
 ![Planifier un atelier](Workshops.jpg)
 
 Selon la complexité du sujet et l'expertise de votre entreprise, vous pouvez soit organiser **des ateliers internes** avec vos collaborateurs, soit faire appel à des spécialistes externes pour une **formation en interne**, soit faire appel à **des formations externes**, par exemple auprès de l'agence pour l'emploi, d'une chambre de commerce et d'industrie ou d'une académie.
 
-**Trois exemples d'ateliers internes pour les collaborateurs :**
+### Trois exemples d'ateliers internes pour les collaborateurs
 
-- **Onboarding**: les ateliers sont indispensables, surtout pour l'intégration au début, afin de familiariser les nouveaux collaborateurs avec la culture d'entreprise, les processus existants et les applications logicielles.
-- **Lean Management**: si vous souhaitez optimiser vos processus d'entreprise, des ateliers ciblés avec vos collaborateurs contribuent à alléger, à améliorer et à rendre plus efficaces les processus de travail.
-- **Gestion du changement**: si des changements structurels importants sont prévus dans votre entreprise, des ateliers peuvent vous aider à les faire comprendre petit à petit à vos collaborateurs.
+- [Onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) : les ateliers sont indispensables, surtout pour l'intégration au début, afin de familiariser les nouveaux collaborateurs avec la culture d'entreprise, les processus existants et les applications logicielles.
+- **Lean Management** : si vous souhaitez optimiser vos processus d'entreprise, des ateliers ciblés avec vos collaborateurs contribuent à alléger, à améliorer et à rendre plus efficaces les processus de travail.
+- [Gestion du changement]({{< relref "posts/change-management" >}}) : si des changements structurels importants sont prévus dans votre entreprise, des ateliers peuvent aider à les faire comprendre petit à petit à vos collaborateurs.
 
 ### Les ateliers de travail : Un must pour les employeurs attractifs
 
 Pour vous et vos collaborateurs, les formations continues, les formations et les ateliers présentent bien sûr plusieurs avantages. D'une part, vos collaborateurs élargissent leurs **qualifications** et acquièrent **de nouvelles compétences** qu'ils peuvent utiliser dans leur travail quotidien. Cela fait d'eux des membres précieux de l'équipe, qui grandissent en accomplissant les tâches liées à leurs postes individuels.
 
-D'autre part, vos collaborateurs développent **de meilleures chances de promotion**, car de nouvelles compétences et qualités de direction peuvent élargir leur champ d'action. Cela vous permet de couvrir vos **besoins en personnel qualifié et de direction**, le cas échéant, à partir de votre propre personnel. Enfin, les ateliers constituent également un **changement** passionnant pour les employés lorsqu'il n'y a pas de nouvelles tâches ou de nouveaux projets dans leur travail quotidien.
+D'autre part, vos collaborateurs développent **de meilleures chances de promotion**, car de nouvelles compétences et qualités de direction peuvent élargir leur champ d'action. Cela vous permet de couvrir vos [besoins en personnel qualifié et en cadres]({{< relref "posts/personalplanung" >}}), le cas échéant, à partir de votre propre personnel. Enfin, les ateliers constituent également un **changement** passionnant pour les employés lorsqu'il n'y a pas de nouvelles tâches ou de nouveaux projets dans leur travail quotidien.
 
-{{< warning headline="Fidélisation et satisfaction des employés" text="Des formations continues, des formations et des ateliers réguliers peuvent non seulement augmenter la **productivité** et la **capacité d'intervention**, mais aussi la satisfaction de vos collaborateurs. Ils se sentent pris au sérieux et considèrent comme un signal positif le fait que vous souhaitiez écouter leur avis, les impliquer dans les changements ou leur offrir la possibilité d'évoluer. Cela renforce l'**attachement des collaborateurs** à l'entreprise et a pour conséquence, à long terme, de réduire le taux de rotation du personnel et de vous faire dépenser moins de temps et d'argent pour la recherche et le recrutement de nouveaux collaborateurs." />}}
+{{< warning headline="Fidélisation et satisfaction des collaborateurs" >}}
+
+Des formations continues, des formations et des ateliers réguliers peuvent non seulement augmenter la **productivité** et la **capacité d'intervention**, mais aussi la satisfaction de vos collaborateurs. Ils se sentent pris au sérieux et considèrent comme un signal positif le fait que vous souhaitiez écouter leur avis, les impliquer dans les changements ou leur offrir la possibilité d'évoluer. Cela renforce l'**attachement des collaborateurs** à l'entreprise et a pour conséquence, à long terme, de réduire le taux de rotation du personnel et de vous faire dépenser moins de temps et d'argent pour la [recherche et le recrutement de nouveaux collaborateurs]({{< relref "posts/20250317-recruiting" >}}).
+
+{{< /warning >}}
 
 ## Gérer des ateliers - un jeu d'enfant avec le bon logiciel
 
 La planification, l’organisation et la gestion d’ateliers peuvent rapidement devenir déroutantes dans les grandes entreprises. Il y a **beaucoup de données différentes** à gérer. Pour y parvenir, il est judicieux d’investir dans de bonnes solutions qui réduisent l’effort au minimum. C’est là qu’intervient SeaTable : en tant que **logiciel puissant** avec des fonctions pratiques et très flexibles, SeaTable est un outil idéal pour l’organisation et la gestion d’ateliers.
 
 Avec SeaTable, vous avez toujours une vue d'ensemble de vos ateliers et de vos formations et vous rassemblez toutes les informations en un point central. Vous gérez non seulement vos ateliers, mais aussi les coachs ainsi que les inscriptions et le feedback des participants.
+
+{{< template id="3d757663bb3648439b9d" >}}
 
 [Le modèle que nous vous proposons gratuitement]({{< relref "templates/human-resources/workshop-planner" >}}) contient quatre tableaux différents qui couvrent les principaux processus de planification d'un atelier.
 
@@ -60,11 +66,11 @@ Bien entendu, vous devez adapter votre offre aux besoins et déterminer les doma
 
 ![Vue d'ensemble de vos ateliers](Overview-1.jpg)
 
-Obtenez une vue d'ensemble de tous les ateliers, formations et mesures de formation continue qui ont déjà lieu dans votre entreprise ou pour lesquels il existe un besoin supplémentaire. Pour ce faire, vous pouvez facilement saisir dans une base de données toutes les informations et tous les documents importants relatifs à un atelier. Le lien avec d'autres tableaux permet une attribution directe à un coach.
+Obtenez une vue d'ensemble de tous les ateliers, formations et mesures de formation continue qui ont déjà lieu dans votre entreprise ou pour lesquels il existe un besoin supplémentaire. Pour ce faire, vous pouvez facilement saisir dans une [base de données]({{< relref "posts/relationale-datenbank" >}}) toutes les informations et tous les documents importants relatifs à un atelier. Le lien avec d'autres tableaux permet une attribution directe à un coach.
 
 ## Chercher des coachs pour l'atelier
 
-Selon que l'expertise nécessaire sur un sujet est disponible dans votre entreprise, vous pouvez faire appel soit **à vos collaborateurs**, soit à **des experts externes** pour coacher vos ateliers. Vérifiez si les coachs sont aptes à mener un atelier avec le succès souhaité. En outre, vous devriez déposer des informations telles que les coordonnées, la photo et les qualifications des coachs.
+Selon que l'expertise nécessaire sur un sujet est disponible dans votre entreprise, vous pouvez faire appel soit **à vos collaborateurs**, soit à **des experts externes** pour coacher vos ateliers. Vérifiez si les coachs sont aptes à mener un atelier avec le succès souhaité. En outre, vous devriez enregistrer des informations telles que les coordonnées, la photo et les qualifications des coachs.
 
 ![Enregistrez toutes les informations importantes sur vos formateurs d'atelier](Coaches-1.jpg)
 
@@ -78,9 +84,9 @@ Un atelier sur la façon dont vos employés peuvent [soumettre leurs frais de d�
 
 ## Réserver un lieu et un traiteur
 
-Où souhaitez-vous que votre atelier ait lieu ? Si votre entreprise dispose de **salles de réunion** suffisamment grandes sur ses sites, c’est une bonne idée d’organiser des ateliers dans vos propres locaux. Cela permet à vos employés d’intégrer facilement les rendez-vous dans leur vie quotidienne au bureau. Pour les ateliers d’une journée complète ou si vous n’avez pas de salles libres au bureau, vous pouvez également louer des salles de conférence dans **des espaces de coworking** ou des **hôtels de conférence** .
+Où souhaitez-vous que votre atelier ait lieu ? Si votre entreprise dispose de **salles de réunion** suffisamment grandes sur ses sites, c’est une bonne idée d’organiser des ateliers dans vos propres locaux. Cela permet à vos employés d’intégrer facilement les rendez-vous dans leur vie quotidienne au bureau. Pour les ateliers d’une journée complète ou si vous n’avez pas de salles libres au bureau, vous pouvez également louer des salles de conférence dans **des espaces de coworking** ou des **hôtels de conférence**.
 
-Là, vous pouvez réserver la **restauration pour la pause déjeuner** , tandis que vous devez l’organiser vous-même dans les locaux de votre entreprise (si votre site ne dispose pas d’une cantine ou d’une cafétéria). Les petites collations ainsi que les boissons fraîches, le café et le thé sont toujours bien accueillis et satisfont les participants à votre atelier.
+Là, vous pouvez réserver la **restauration pour la pause déjeuner**, tandis que vous devez l’organiser vous-même dans les locaux de votre entreprise (si votre site ne dispose pas d’une cantine ou d’une cafétéria). Les petites collations ainsi que les boissons fraîches, le café et le thé sont toujours bien accueillis et satisfont les participants à votre atelier.
 
 ## Gérer les inscriptions en ligne
 
@@ -96,9 +102,9 @@ Selon le thème de l'atelier, différentes méthodes et différents matériaux c
 
 - La **question des attentes** est indispensable à chaque atelier. Dès le début, demandez à vos participants ce qu’ils attendent de l’atelier et quels aspects doivent absolument être clarifiés. À la fin, relisez vos notes : si vous pouvez cocher tous les points, vous et vos participants pouvez être satisfaits.
 - En guise d’introduction, vous pouvez également demander aux participants de lancer des réflexions et des idées sur le thème de l’atelier dans la salle. **Le brainstorming** est plus efficace dans une atmosphère ouverte, exempte de critiques et de préjugés.
-- Pour la représentation visuelle et l’organisation des pensées et des idées, une **carte mentale** est recommandée. Vous pouvez les écrire sur un tableau noir ou un tableau à feuilles mobiles, ou sur des cartes en papier que vous accrochez au mur. Pour un atelier en ligne, par exemple, vous pouvez utiliser un [tableau Miro](https://miro.com/) .
+- Pour la représentation visuelle et l’organisation des pensées et des idées, une **carte mentale** est recommandée. Vous pouvez les écrire sur un tableau noir ou un tableau à feuilles mobiles, ou sur des cartes en papier que vous accrochez au mur. Pour un atelier en ligne, par exemple, vous pouvez utiliser un [tableau Miro](https://miro.com/).
 - **Les jeux de rôle interactifs** sont idéaux pour la formation au leadership, par exemple, car vous pouvez adopter le point de vue de différents membres de l’équipe et vous entraîner à gérer les conflits.
-- Une autre méthode pour examiner un sujet sous différents angles est **les 6 chapeaux de la pensée de de Bono** . Vous divisez les participants en six groupes : le chapeau blanc représente les faits, le rouge les émotions, le jaune les opportunités, le noir les risques, le vert les idées et le bleu les structures.
+- Une autre méthode pour examiner un sujet sous différents angles est celle des **6 chapeaux de la réflexion** de De Bono. Vous divisez alors les participants en six groupes : le chapeau blanc représente les faits, le rouge les émotions, le jaune les opportunités, le noir les risques, le vert les idées et le bleu les structures.
 
 {{< warning headline="Conseil" text="Si vous utilisez une **présentation** dans votre atelier, vous devez tester au préalable si la **technologie** (projecteur, haut-parleurs, câbles pour l’ordinateur portable) fonctionne parfaitement." />}}
 
@@ -119,5 +125,7 @@ Vous pouvez facilement **évaluer** les commentaires recueillis dans SeaTable, p
 ## Conclusion : Planifier un atelier avec SeaTable
 
 Avec SeaTable, vous pouvez représenter chaque processus lié à la planification d'un atelier et gérer toutes les données sans effort. L'objectif est toujours d'être le plus efficace possible pour vous, vos collaborateurs et les autres personnes concernées. D'autres tableaux et processus sont également envisageables, que vous pouvez compléter de manière flexible en fonction de vos besoins, comme par exemple la réservation de salles de réunion ou un inventaire de votre matériel.
+
+{{< template-box id="3d757663bb3648439b9d" >}}
 
 [Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd’hui et essayez notre [modèle]({{< relref "templates/human-resources/workshop-planner" >}}) tout de suite ! Les fonctions peuvent être utilisées pour une variété d’autres cas d’utilisation.

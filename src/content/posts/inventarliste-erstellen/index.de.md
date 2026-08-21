@@ -1,5 +1,5 @@
 ---
-title: 'Inventar erstellen – so behalten Sie den Überblick!'
+title: 'Inventarliste erstellen – so behalten Sie den Überblick!'
 description: 'Sie führen jedes Jahr oder sogar jeden Monat eine Inventur durch? Dann sind Sie hier genau richtig! In diesem Artikel erfahren Sie, wie Sie Ihre Inventarliste erstellen, den Prozess standardisieren und Ihre Inventur vereinfachen können.'
 seo:
     title: 'Inventarliste erstellen – Bestände präzise erfassen'
@@ -74,11 +74,9 @@ In Ihre Inventarliste sollten Sie folgende Punkte aufnehmen:
 
 Zudem sollte jeder Gegenstand eine **eindeutige Nummer** erhalten, sobald Sie ihn in Ihrer Inventarliste erfassen. Falls noch vorhanden, können Sie auch den **Kassenzettel** oder die **Rechnung** beifügen sowie das **Kaufdatum** und den damaligen **Stückpreis** angeben. Optional können Sie zusätzlich Angaben wie die **Seriennummer** der Objekte, die **Laufzeit und das Enddatum der Garantie** sowie das **Datum der nächsten Inventur** hinterlegen.
 
-Ein Beispiel für eine Inventarliste ist eine Tabelle mit diesen Spalten (klicken Sie zum Vergrößern auf das Bild):
+Ein Beispiel für eine Inventarliste ist eine [Datenbank]({{< relref "posts/relationale-datenbank" >}}) mit zwei verknüpften Tabellen und diversen Spalten. Klicken und scrollen Sie durch diese exemplarische Inventarliste:
 
-![Beispiel: Vorlage für eine Inventarliste](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
-
-So könnte Ihre Inventarliste aussehen.
+{{< template id="11568480344f4a61ab49" >}}
 
 Kommen wir jetzt zum praktischen Teil – wie genau können Sie ein Inventar erstellen?
 
@@ -118,7 +116,7 @@ Word, das Textverarbeitungsprogramm von Microsoft, hat vermutlich fast jeder sch
 
 Öffnen Sie dazu ein Leeres Dokument, klicken Sie auf Einfügen und anschließend auf Tabelle. Nun haben Sie mehrere Möglichkeiten: Beispielsweise können Sie eine (unformatierte) Tabelle mit beliebig vielen Zeilen und Spalten erstellen, auf eine formatierte Vorlage für die Inventurliste zurückgreifen oder eine Excel-Vorlage in Ihr Dokument einbinden, welche die oben erwähnten Funktionen bietet.
 
-Egal, welche Option Sie wählen – auch in Word entscheiden Sie, welche Spaltentitel Sie für Ihre Inventurliste benötigen (zum Beispiel Identifikationsnummer, Gegenstand, Art, Standort, Menge und Wert). Anschließend tippen Sie Ihre Vermögensgegenstände händisch ein. Dies könnte so aussehen (klicken Sie zum Vergrößern auf das Bild):
+Egal, welche Option Sie wählen – auch in Word entscheiden Sie, welche Spaltentitel Sie für Ihre Inventurliste benötigen (zum Beispiel Identifikationsnummer, Gegenstand, Art, Standort, Menge und Wert). Anschließend tippen Sie Ihre Vermögensgegenstände händisch ein. Dies könnte so aussehen:
 
 ![Inventarliste in Word](Inventarliste-in-Word.png)
 
@@ -162,6 +160,8 @@ Nicht zuletzt können Sie **Bilder** und **Dateien** wie PDF-Dokumente in SeaTab
 Die meisten Unternehmen müssen eine Inventarliste führen. Dabei standardisiert und vereinfacht eine Inventurliste den Prozess, sei es in Excel, Word oder einer Datenbank wie SeaTable. Wie Sie eine digitale Bestandsliste anlegen, ist von Programm zu Programm unterschiedlich, folgt jedoch ähnlichen Schritten.
 
 Überlegen Sie, **welche Informationen** Sie über Ihr Inventar benötigen, **wer** an der Inventur beteiligt ist und **wie viele Beteiligte** Zugriff auf die Daten benötigen. **Wie** möchten Sie die Daten aufbereiten und **welche Funktionen** sind dafür nötig?
+
+{{< template-box id="11568480344f4a61ab49" >}}
 
 Sobald Sie diese grundlegenden Fragen geklärt haben, starten Sie ganz einfach in die Umsetzung. Wenn Sie die SeaTable Vorlage für Ihre Inventarliste nutzen möchten, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und legen Sie direkt los.
 
