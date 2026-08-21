@@ -20,7 +20,7 @@ Most companies take measures to enable working from home and organize online sem
 
 [Image source](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
-## What is stand-up anyway?
+## What exactly is a stand-up?
 
 No, we're not talking about a comedy show here. Although some meetings come pretty close, if we're honest. But no. A daily stand-up meeting is a short meeting to update the whole team, and yes, that's right, it should be held standing up. Because if you stand, it's more likely to actually keep the meeting short, rather than dragging it out unnecessarily.
 
@@ -28,15 +28,13 @@ The ideal length for a short remote team update is 15 minutes. Of course, it is 
 
 ## Advantages of the remote stand-up at a glance
 
-The advantages of a standing meeting are obvious. It should...
+The advantages of a standing meeting are obvious. It should be…
 
 - fast (max. 15 minutes)
 - efficient (no small talk)
-- productive (only working through items on the agenda)
-- cooperative (team exchange, no reporting to the boss)
-- Prepared (think about what you want to say in advance)
-
-... be.
+- productive (only working through the items on the agenda)
+- cooperative (team exchange, not reporting to the boss)
+- prepared (think about what you want to say in advance)
 
 Lengthy meetings that are daunting and overwhelming are a thing of the past. Stand-ups, on the other hand, can help your team stay up-to-date and become a useful part of everyday work.
 
@@ -66,11 +64,11 @@ Starting meetings late is actually a very common complaint from staff in general
 
 The productivity of stand-up meetings lies in their brevity. Stick strictly to the 15-minute rule, at the beginning a timer set for 15 minutes with a 3-minute snooze time might help. This way you can find a rounded conclusion once the timer has expired.
 
-### Respect the time of all
+### Respect everyone's time
 
-The biggest time eater in meetings is that many people want to speak at once. You often forget to let others finish, just when you want to say something on a certain point. Productivity is something else. On-site, you could solve the problem quite simply by selecting an object that is always in the hand of the person speaking. But how can this be implemented online? Make use of technology!
+The biggest [time eater]({{< relref "posts/no-code-vorteile" >}}) in meetings is that many people want to speak at once. You often forget to let others finish, just when you want to say something on a certain point. Productivity is something else. On-site, you could solve the problem quite simply by selecting an object that is always in the hand of the person speaking. But how can this be implemented online? Make use of technology!
 
-A simple solution, for example, would be to only ever switch on the microphone when you are actually speaking. If someone else then wants to say something, they first have to overcome the hurdle of unmuting themselves, which will remind them that it is not yet their turn. In addition, some providers allow you to raise a virtual hand. If a meeting moderator is appointed, he or she can then simply take the person's turn.
+A simple solution, for example, would be to only ever switch on the microphone when you are actually speaking. If someone else then wants to say something, they first have to overcome the hurdle of unmuting themselves, which will remind them that it is not yet their turn. In addition, some providers allow you to raise a virtual hand. If a meeting moderator is appointed, they can simply give each person the floor in turn.
 
 ### Keep to the point
 
@@ -84,7 +82,7 @@ As mentioned above, question 3 has the greatest potential to drift into unnecess
 
 Especially if you are an expert in the field and the solution therefore seems simple and clear to you, you feel the need to give detailed help immediately. Make it clear once again that the stand-up meeting is really only there to bring everyone up to speed. Assistance usually does not concern every person in the meeting and limits productivity.
 
-Another reason for less productivity is **small talk**. Understandable. Locked up in your own four walls, it's tempting to chat out of the closet and simply socialise with colleagues again. Talking about the weekend, family or good films you've seen strengthens cohesion and that's exactly what's important and good. However, the stand-up meeting is simply not the right place for this. The next tip offers a solution.
+Another reason for less productivity is **small talk**. Understandable. Locked up in your own four walls, it's tempting to share personal stories and simply socialize with colleagues again. Talking about the weekend, family or good films you've seen strengthens cohesion and that's exactly what's important and good. However, the stand-up meeting is simply not the right place for this. The next tip offers a solution.
 
 ### Online events away from commitments
 
@@ -92,13 +90,13 @@ Perhaps the reason for an increase in small talk is that your employees don't ha
 
 1. Joint remote lunch breaks
 2. Joint Movie Night with subsequent exchange
-3. Quiznight (about a pub quiz)
+3. Quiz night (e.g. a pub quiz)
 4. Game Night (with games like [skribbl.io](https://skribbl.io/))
 5. Good old Bingo
 6. Gin or wine tastings
 7. Joint Yoga Hour
 
-These are just a few ideas. You can either organise such online events yourself or order them ready-planned for a manageable budget, for example [here](https://b-ceed.de/remote-teamevents/).
+These are just a few ideas. You can either organize such online events yourself or order them ready-planned for a manageable budget, for example [here](https://b-ceed.de/remote-teamevents/).
 
 ### Keep the format flexible
 
@@ -110,8 +108,10 @@ You may also find that stand-ups are especially good in the development phase, b
 
 ### Document stand-ups
 
-Especially in daily meetings, it can happen that one or the other colleague is absent due to another appointment. Let them know how to communicate their absence and keep important information in one place. This way, the missing participant can look up afterwards if something relevant to him happened. For the planning and notes of your remote meetings, we have already provided a template [here]({{< relref "templates/projects/team-meetings" >}}) and also explained in detail in [this post]({{< relref "templates/projects/team-meetings" >}}) how you can create one yourself and adapt it to your needs.
+Especially in daily meetings, it can happen that one or the other colleague is absent due to another appointment. Let them know how to communicate their absence and keep important information in one place. This way, the absent participant can check afterwards whether anything relevant to them happened. For the planning and notes of your remote meetings, we have already provided a [template]({{< relref "templates/projects/team-meetings" >}}) here and explained in detail how you can create one yourself and adapt it to your needs.
 
-Organising an entire team remotely while maintaining high productivity is a challenge. Despite all the technological possibilities at our disposal, it can still be difficult to create a collaborative environment. Daily stand-ups are a great way to update each other and feel part of a bigger picture. Problems are identified early and the sense of belonging is increased.
+{{< template-box id="049628c4ea884375b7b9" >}}
+
+Organizing an entire team remotely while maintaining high productivity is a challenge. Despite all the technological possibilities at our disposal, it can still be difficult to create a collaborative environment. Daily stand-ups are a great way to update each other and feel part of a bigger picture. Problems are identified early and the sense of belonging is increased.
 
 Try it out!

@@ -20,30 +20,30 @@ Die Verzahnung von mehreren Prozessen entlang der Wertschöpfungskette eines Pro
 
 Diese Prozesse richtig zu gestalten und zu kontrollieren ist die Aufgabe eines Supply Chain Managers. Und dank moderner Softwarelösungen haben Sie heute ideale Möglichkeiten, um Ihr **Supply Chain Management** (SCM), auf Deutsch auch Lieferkettenmanagement genannt, optimal abzubilden. So haben Sie Ihre gesamte Wertschöpfungskette stets im Griff.
 
-In diesem Blog-Artikel erfahren Sie mehr über das Thema SCM und wie Sie die digitale Transformation nutzen, um Ihre Materialbedarfsplanung, ihre Produktion und ihren Versand zu optimieren.
+In diesem Blog-Artikel erfahren Sie mehr über das Thema SCM und wie Sie die digitale Transformation nutzen, um Ihre Materialbedarfsplanung, Ihre Produktion und Ihren Versand zu optimieren.
 
 ## Was ist Supply Chain Management überhaupt?
 
 Generell gesprochen dreht sich beim Supply Chain Management alles um die Planung, Steuerung und Integration aller Aktivitäten entlang der Wertschöpfungskette von einem oder mehreren Produkten. Diese startet im Normalfall beim Rohstofflieferanten und endet bei Ihrem Kunden. Ein Supply Chain Manager ist für die integrierte prozessorientierte Planung und Steuerung sämtlicher Waren-, Informations- und Geldflüsse verantwortlich.
 
-1.	**Materialfluss**: Der Materialfluss beschäftigt sich mit der eigentlichen Beförderung der Ware und beinhaltet den Weg vom Rohstofflieferanten über das Zentrallager bis hin zum Endkunden und gegebenenfalls der Rückgabe der Ware.
-2.	**Informationsfluss**: Hier werden alle relevanten Informationen über Aufträge und deren Lieferungen übertragen. Das bedeutet, dass alle Informationen, ob von extern (Partner) oder intern (Abteilungen), an einem Ort zentral zusammenfließen. So können z. B. bei Lieferschwierigkeiten schnellere und effizientere Entscheidungen getroffen werden.
-3.	**Finanzfluss**: Der Finanzfluss umfasst die Kreditbedingungen, Zahlungspläne, sowie Warensendungen und Eigentumsverhältnisse.
+1.	**Materialfluss**: Der Materialfluss beschäftigt sich mit der eigentlichen Beförderung der Ware und beinhaltet den Weg vom Rohstofflieferanten über das [Zentrallager]({{< relref "templates/operations/warehouse-management" >}}) bis hin zum Endkunden und gegebenenfalls der Rückgabe der Ware.
+2.	**Informationsfluss**: Hier werden alle relevanten Informationen über [Aufträge]({{< relref "posts/auftragsabwicklung" >}}) und deren Lieferungen übertragen. Das bedeutet, dass alle Informationen, ob von extern (Partner) oder intern (Abteilungen), an einem Ort zentral zusammenfließen. So können z. B. bei Lieferschwierigkeiten schnellere und effizientere Entscheidungen getroffen werden.
+3.	**Finanzfluss**: Der [Finanzfluss]({{< relref "posts/20250617-finanzplanung" >}}) umfasst die Kreditbedingungen, Zahlungspläne sowie Warensendungen und Eigentumsverhältnisse.
 
 ![Supply Chain Management vs. Logistik](production-4408573_1920.jpg)
 
 ## Was ist der Unterschied zwischen Supply Chain Management und Logistik?
 
-Logistik und Supply Chain Management werden häufig synonym verwendet. Tatsächlich geht SCM jedoch weit über reine Logistikprozesse hinaus und umfasst alle Prozesse entlang der Lieferkette. Die reine Logistik befasst sich demgegenüber primär mit dem physischen Transport und der Lagerung von Waren.
+Logistik und Supply Chain Management werden häufig synonym verwendet. Tatsächlich geht SCM jedoch weit über reine Logistikprozesse hinaus und umfasst [alle Prozesse]({{< relref "pages/landing-pages/industry-solutions/operations" >}}) entlang der Lieferkette. Die reine Logistik befasst sich demgegenüber primär mit dem physischen Transport und der Lagerung von Waren.
 
 ## Die Bedeutung des Supply Chain Managements für Unternehmen
 
-Das Supply Chain Management ist entscheidend für den Erfolg eines Unternehmens. Mit geplanten und durchgeführten Prozessen in [Beschaffung]({{< relref "posts/20250606-budgetplanung/" >}}), Produktion und Vertrieb, einer effizienten Logistik und einer stabilen Lieferkette lassen sich mehrere Ziele erreichen. Dabei geht es immer darum, eine reibungslose Logistik sicherzustellen und Verzögerungen oder Störungen auf ein Minimum zu reduzieren, damit die gesamte Wertschöpfungskette optimal funktionieren kann. 
+Das Supply Chain Management ist entscheidend für den Erfolg eines Unternehmens. Mit geplanten und durchgeführten Prozessen in [Beschaffung]({{< relref "posts/20250327-beschaffung-unternehmen" >}}), Produktion und [Vertrieb]({{< relref "posts/20250506-distributionspolitik" >}}), einer effizienten Logistik und einer stabilen Lieferkette lassen sich mehrere Ziele erreichen. Dabei geht es immer darum, eine reibungslose Logistik sicherzustellen und Verzögerungen oder Störungen auf ein Minimum zu reduzieren, damit die gesamte Wertschöpfungskette optimal funktionieren kann. 
 
 * **Kosten reduzieren:** Durch eine optimale Ressourcenplanung und verlässliche Lieferanten werden langfristig Kosten gesenkt. Hierzu zählen unter anderem der schnelle Abbau von Beständen, die Senkung von Lagerkosten, die Sicherstellung einer zeitgerechten Lieferung (Just-in-time-Versorgung) und die Verkürzung der Cash-to-Cash-Zyklen.
 * **Größere Flexibilität:** Wertschöpfungsketten und Prozesse lassen sich mit einem effizienten Supply Chain Management so gestalten, dass Sie auch kurzfristig auf geänderte Marktbedingungen und Lieferengpässe reagieren können.
-* **Kunden- und Lieferantenbindung:** Durch optimierte Prozesse und schnelle Reaktionsfähigkeit werden die Beziehungen zu Kunden und Lieferanten gepflegt und gestärkt. Dadurch erhöhen Sie die Lieferzuverlässigkeit erhöht. 
-* **Effizienzsteigerungen:** Workflows und Prozesse werden kontinuierlich überprüft und verbessert.
+* **Kunden- und Lieferantenbindung:** Durch optimierte Prozesse und schnelle Reaktionsfähigkeit werden die Beziehungen zu Kunden und Lieferanten gepflegt und gestärkt. Dadurch erhöhen Sie die Lieferzuverlässigkeit. 
+* **Effizienzsteigerungen:** [Workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) und Prozesse werden kontinuierlich überprüft und verbessert.
 * **Informationsaustausch:** Zu den Aufgaben im Supply Chain Management gehört auch, für einen reibungslosen Informationsaustausch zu sorgen, damit die beteiligten Mitarbeiter und externen Dienstleister relevante Informationen zeitnah erhalten.
 
 ![Supply Chain Management](Supply-Chain-Management.jpg)
@@ -60,7 +60,7 @@ Das Supply Chain Management ist entscheidend für den Erfolg eines Unternehmens.
 
 ## Supply Chain Management in Echtzeit dank moderner Technologien
 
-Supply Chain Manager können bei ihrer Arbeit enorm von modernen Technologien profitieren. Dank Echtzeitinformationen werden Bestell- und Lieferstatus automatisch aktualisiert. Mittels automatisierter Benachrichtigungen können Sie **bei Verzögerungen zeitnah reagieren**. Bestandsführung, Bedarfsprognose, die Kommunikation und Zusammenarbeit im Unternehmen oder die Datenanalyse: Es gibt kaum einen Bereich im SCM, in dem durch die digitale Transformation keine neuen Maßstäbe gesetzt werden. Verantwortliche Mitarbeiter werden dadurch schneller und agiler und können effizientere Prozesse entwickeln.
+Supply Chain Manager können bei ihrer Arbeit enorm von modernen Technologien profitieren. Dank Echtzeitinformationen werden Bestell- und Lieferstatus automatisch aktualisiert. Mittels automatisierter Benachrichtigungen können Sie **bei Verzögerungen zeitnah reagieren**. [Bestandsführung]({{< relref "posts/inventarliste-erstellen" >}}), Bedarfsprognose, die Kommunikation und Zusammenarbeit im Unternehmen oder die [Datenanalyse]({{< relref "posts/20250317-datenmanagement" >}}): Es gibt kaum einen Bereich im SCM, in dem durch die digitale Transformation keine neuen Maßstäbe gesetzt werden. Verantwortliche Mitarbeiter werden dadurch schneller und agiler und können effizientere Prozesse entwickeln.
 
 ![Modernes Supply Chain Management Tool](Modern-SCM-Tool.jpg)
 
@@ -68,9 +68,9 @@ Ein **modernes SCM** basiert auf Systemen, die Datenerfassung, Analyse und Entsc
 
 ### Supply Chain Management in einer Cloud-Umgebung
 
-Moderne Cloud-Umgebungen ermöglichen ein flexibleres Supply Chain Management. Neben den bereits genannten Vorteilen – **Schnelligkeit, Prozessautomatisierung, Echtzeit-Kommunikation** – lässt sich das Unternehmenswachstum mit einer Cloud-Lösung problemlos skalieren. Sie aktivieren zusätzliche Ressourcen oder Funktionen erst dann, wenn sie benötigt werden. Unternehmen minimieren damit ihr finanzielles Risiko und reduzieren Kosten. 
+Moderne Cloud-Umgebungen ermöglichen ein flexibleres Supply Chain Management. Neben den bereits genannten Vorteilen – **Schnelligkeit, Prozessautomatisierung, Echtzeit-Kommunikation** – lässt sich das Unternehmenswachstum mit einer [Cloud-Lösung]({{< relref "posts/cloud-computing" >}}) problemlos skalieren. Sie aktivieren zusätzliche Ressourcen oder Funktionen erst dann, wenn sie benötigt werden. Unternehmen minimieren damit ihr finanzielles Risiko und reduzieren Kosten. 
 
-Cloud-Lösungen wie die No-Code-Plattform SeaTable bieten indes noch einen weiteren, nicht zu unterschätzenden Vorteil: sie sind keine normierten Lösungen von der Stange. Im Gegenteil können Supply Chain Manager das System an Ihre spezifischen Anforderungen anpassen – entweder von Grund auf neu oder mit einer Supply Chain Management Vorlage als Basis. 
+Cloud-Lösungen wie die [No-Code-Plattform SeaTable]({{< relref "/" >}}) bieten indes noch einen weiteren, nicht zu unterschätzenden Vorteil: sie sind keine normierten Lösungen von der Stange. Im Gegenteil können Supply Chain Manager das System an ihre spezifischen Anforderungen anpassen – entweder von Grund auf neu oder mit einer Supply Chain Management Vorlage als Basis. 
 
 **Das eingebettete Template ist scroll- und klickbar.**
 {{< template id="d58845a24cda4807847e" >}}
@@ -84,7 +84,7 @@ Ein effizientes und wirksames Supply Chain Management für Ihr Unternehmen zu en
 1. **Arbeiten Sie kooperativ:** Wir haben bereits gezeigt, dass ein modernes SCM verschiedene abteilungsübergreifende Bereiche einschließt. Beteiligen Sie alle betroffenen Mitarbeiter an den Prozessen und fördern Sie eine kooperative und kollaborative Arbeitsatmosphäre, um gemeinsam die besten Lösungen zu erarbeiten.  
 2. **Kommunizieren Sie regelmäßig:** Teilen Sie relevante Informationen aktiv und offen mit den betroffenen Kollegen und Abteilungen. Dadurch können Sie schneller auf Probleme reagieren und Schwachstellen in Ihren Prozessen erkennen.
 3. **Bestimmen Sie Verantwortliche:** Legen Sie von Anfang an klare Verantwortlichkeiten für die einzelnen Prozessschritte innerhalb Ihrer Wertschöpfungskette fest. Viele Schwierigkeiten lassen sich vermeiden, wenn jedem Beteiligten klar ist, wer wann tätig werden oder eine Entscheidung treffen muss.
-4. **Optimieren Sie kontinuierlich:** Prozessoptimierung ist eine laufende Aufgabe. Legen Sie dafür einen repetitiven Workflow fest, z. B. den PDCA-Zyklus. Bei diesem kreisförmigen Konzept wiederholen sich die vier Schritte Plan, Do, Check und Act ständig. Dadurch werden Ihre Prozesse immer effizienter und Ihr Unternehmen gewinnt einen Wettbewerbsvorteil
+4. **Optimieren Sie kontinuierlich:** Prozessoptimierung ist eine laufende Aufgabe. Legen Sie dafür einen repetitiven Workflow fest, z. B. den PDCA-Zyklus. Bei diesem kreisförmigen Konzept wiederholen sich die vier Schritte Plan, Do, Check und Act ständig. Dadurch werden Ihre Prozesse immer effizienter und Ihr Unternehmen gewinnt einen Wettbewerbsvorteil.
 5. **Wählen Sie passende Software:** Kommunikation, Prozessdarstellung, Automatisierung von Aufgaben, Monitoring und Reporting, Lieferantenmanagement – die Liste der Aufgaben, die eine Supply Chain Management Plattform abdecken muss, ist lang. Analysieren Sie daher genau Ihren Bedarf und das Angebot am Markt. Eine oft übersehene Alternative zu SCM-Software oder Work Management Plattformen sind No-Code Lösungen wie SeaTable. Diese ermöglichen es Ihnen, alle Informationen und Prozesse zentral und für alle Beteiligten zugänglich zu speichern und die Struktur Ihren spezifischen Bedürfnissen anzupassen.  
 
 ![SCM - Suppliers](SCM-Manager.jpg)
@@ -107,5 +107,5 @@ Cloudbasierte SCM-Systeme ermöglichen kollaboratives Arbeiten und Informations
 In einer Supply Chain Management-Strategie wird zwischen der operativen, der taktischen und der strategischen Ebene unterschieden. Diese unterscheiden sich in ihrer zeitlichen Ausrichtung.
 1.	Operatives Supply Chain Management: Alle Entscheidungen sind kurzfristig bzw. innerhalb von Tagen oder wenigen Wochen umsetzbar. Im Normalfall betrifft dies schnell realisierbare Prozesse, wie z.B. die Ablaufplanung, Verladung oder Auftragsverarbeitung. Weiterhin werden auch Beziehungen zwischen Bestellungen und Beständen analysiert. Ziel hierbei ist es, eine möglichst hohe Kundenzufriedenheit zu erzielen, da man sich vor allem mit den Kundenbeziehungen beschäftigt.
 2.	Taktisches Supply Chain Management: Alle Entscheidungen sind mittelfristig bzw. zwischen einem Vierteljahr und einem Jahr umsetzbar. Diese betreffen z.B. Entscheidungen im Bezug auf Produktionsmengen, Produktionsressourcen, Bestände, Versandstrategien und Transporte.
-3.	Strategisches Supply Chain Management: Hier werden Entscheidungen mit langfristigem Erfolg getroffen. Darunter fallen z.B. die Standortwahl für das eigene Lager, die Produktions- und Lagerkapazitäten, die Investitionen, die Lieferantenauswahl, Make-or-Buy-Entscheidungen und die [Vertriebsstrategien]< relref "posts/vertriebsstrategie" >.
+3.	Strategisches Supply Chain Management: Hier werden Entscheidungen mit langfristigem Erfolg getroffen. Darunter fallen z.B. die Standortwahl für das eigene Lager, die Produktions- und Lagerkapazitäten, die Investitionen, die Lieferantenauswahl, Make-or-Buy-Entscheidungen und die [Vertriebsstrategien]({{< relref "posts/vertriebsstrategie" >}}).
 {{< /faq >}}

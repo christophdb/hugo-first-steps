@@ -1,6 +1,6 @@
 ---
 title: 'Gestión del conocimiento: cómo hacer que el conocimiento sea utilizable'
-description: "El conocimiento es uno de los recursos más importantes de cualquier empresa. No en vano ya se menciona el conocimiento como factor de producción junto a la tierra, el capital y la mano de obra cuando se trata del éxito de una empresa. Pero, ¿qué hace falta para que los conocimientos de sus empleados estén a disposición de los demás en su empresa? La respuesta: ¡un sistema de gestión del conocimiento que funcione! Descubra aquí cómo puede gestionar con éxito el conocimiento en su empresa y en qué debe fijarse a la hora de seleccionar un sistema de gestión del conocimiento adecuado."
+description: "El conocimiento es uno de los recursos más importantes de cualquier empresa. Pero, ¿qué hace falta para que los conocimientos de sus empleados estén a disposición de los demás en su empresa? La respuesta: ¡un sistema de gestión del conocimiento que funcione! Descubra aquí cómo puede gestionar con éxito el conocimiento en su empresa y en qué debe fijarse a la hora de seleccionar un sistema de gestión del conocimiento adecuado."
 date: 2024-08-09
 categories:
     - 'best-practice'
@@ -22,7 +22,7 @@ Descubra aquí cómo puede gestionar con éxito el conocimiento acumulado en su 
 
 ## ¿Qué es la gestión del conocimiento?
 
-Optimizar el manejo del conocimiento en la empresa: de eso trata _la gestión_ del conocimiento. El objetivo general es crear una **base de datos de conocimientos** que haga más eficientes e innovadores los procesos de la empresa.
+Optimizar el manejo del conocimiento en la empresa: de eso trata la gestión del conocimiento (también conocida como _knowledge management_). El objetivo general es crear una **base de datos de conocimientos** que haga más eficientes e innovadores los procesos de la empresa.
 
 Puede conseguirlo recopilando y procesando los conocimientos ocultos en su empresa, haciéndolos accesibles a todos y, en última instancia, aplicándolos eficazmente.
 
@@ -44,25 +44,21 @@ Por lo tanto, es crucial para la gestión del conocimiento en su empresa registr
 
 ![Un buen ambiente de trabajo en su empresa sienta una base importante para una gestión eficaz del conocimiento.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
-Un ambiente de trabajo agradable ayuda a reunir y compartir conocimientos.
-
-Para que su gestión del conocimiento sea lo más eficaz posible, el conocimiento explícito y el tácito deben ir de la mano. Por lo tanto, cree una **cultura** en su empresa en la que los empleados se sientan motivados para compartir entre sí sus tesoros ocultos de conocimientos y transmitirlos activamente.
+Un ambiente de trabajo agradable le ayuda a reunir y compartir conocimientos. Para que su gestión del conocimiento sea lo más eficaz posible, el conocimiento explícito y el tácito deben ir de la mano. Por lo tanto, cree una **cultura** en su empresa en la que los empleados se sientan motivados para compartir entre sí sus tesoros ocultos de conocimientos y transmitirlos activamente.
 
 ## Dos estrategias en la gestión del conocimiento
 
 ¿Cómo se consigue que los conocimientos de un empleado sean accesibles a todos los demás? Hay dos **estrategias** para hacer circular el conocimiento de modo que toda la organización pueda beneficiarse del conocimiento tácito de cada empleado.
 
-### Estrategia "de persona a documento
+### Estrategia people-to-document
 
-Con esta variante, se agrupan los conocimientos de las personas en un **almacén central** accesible para todos. Debe asegurarse de que los conocimientos se presentan de forma comprensible para que la información se entienda rápidamente y pueda aplicarse de inmediato.
+Con esta variante, usted agrupa los conocimientos de las personas en un **almacén central** accesible para todos. Debe asegurarse de que los conocimientos se presentan de forma comprensible para que la información se entienda rápidamente y pueda aplicarse de inmediato.
 
-### Estrategia interpersonal
+### Estrategia people-to-people
 
-Esta variante se utiliza cuando los conocimientos son demasiado complejos para que todos puedan entenderlos. Entonces se necesitan **expertos** que puedan transmitir sus conocimientos personalmente a determinados compañeros y que también estén disponibles para responder a preguntas.
+Esta variante se utiliza cuando los conocimientos son demasiado complejos para que todos puedan entenderlos. Entonces se necesitan **expertos** que puedan transmitir sus conocimientos personalmente a determinados compañeros y que también estén disponibles para responder a preguntas. Así pues, si tiene expertos en su empresa, debe poder acceder a ellos rápida y fácilmente en caso de problemas.
 
 ![Un experto debe estar siempre disponible durante el horario laboral, aunque trabaje desde casa.](Design-ohne-Titel-28-e1722945260552-711x505.png)
-
-Si tiene expertos en su empresa, debe poder acceder a ellos rápida y fácilmente en caso de problemas.
 
 También puede combinar las dos estrategias, por ejemplo, transmitir sus conocimientos en un taller y documentar los resultados más importantes y ponerlos a disposición en una base de datos de conocimientos.
 
@@ -104,9 +100,9 @@ En **atención al cliente**, por ejemplo, un sofisticado sistema de gestión del
 
 ![La atención al cliente consta de varios componentes.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
-Ahorre mucho trabajo a sus empleados ofreciendo a sus clientes ayuda para ayudarse a sí mismos.
+Ahorre mucho trabajo a sus empleados ofreciendo a sus clientes ayuda para ayudarse a sí mismos. Puede ver un ejemplo de este tipo de área de ayuda [aquí]({{< relref "help" >}}). Aun así, siempre hay situaciones en las que los clientes necesitan ayuda personal. Para esos casos debería mantener un [sistema de tickets]({{< relref "posts/20250521-ticketing-system" >}}) con el que pueda tramitar las solicitudes de forma estructurada.
 
-[Esta área de ayuda]({{< relref "help" >}}) es un ejemplo de un sistema de gestión del conocimiento bien gestionado. Por un lado, reduce la carga de trabajo de asistencia de sus empleados y, por otro, ahorra a sus clientes una larga espera.
+Un [servicio de asistencia informática]({{< relref "templates/it-engineering/it-helpdesk" >}}) es un ejemplo de un sistema de gestión del conocimiento bien gestionado. Por un lado, reduce la carga de trabajo de asistencia de sus empleados y, por otro, ahorra a sus clientes una larga espera.
 
 ### Uso interno
 
@@ -120,20 +116,20 @@ Si está pensando si un sistema de gestión del conocimiento merece la pena para
 
 ![La gestión del conocimiento tiene muchas ventajas, pero se enfrenta a una serie de retos, sobre todo al principio del proceso.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
-Sopesa las dos partes entre sí.
+Sopese ambas partes.
 
 ### Ventajas:
 
 - **Mayor eficacia**: al organizar sistemáticamente la información, sus empleados pueden encontrarla más rápidamente y utilizarla para su trabajo.
 - **Formación continua independiente**: Gracias a la presentación clara y comprensible de los conocimientos existentes, sus empleados tienen la oportunidad de adquirir conocimientos de forma independiente.
 - **Procesos de toma de decisiones más rápidos**: Como todos los empleados tienen acceso a los datos y documentos pertinentes, pueden tomar decisiones informadas de forma independiente.
-- **Retención del conocimiento a largo plazo**: en un sistema de gestión del conocimiento, éste se almacena durante mucho tiempo y puede conservarse independientemente de las personas.
+- **Retención del conocimiento a largo plazo**: en un sistema de gestión del conocimiento, este se almacena durante mucho tiempo y puede conservarse independientemente de cada persona.
 
 ### Desventajas:
 
 - **Elevados costes de puesta en marcha**: para implantar un sistema de gestión del conocimiento, hay que planificar los recursos financieros y de tiempo necesarios para establecer sistemas digitales y desarrollar, estructurar y procesar el conocimiento.
 - **Conocimientos obsoletos**: Mantener los conocimientos actualizados cuesta mucho tiempo y energía y exige disciplina por parte de sus empleados.
-- **Riesgos de seguridad**: Hoy en día, la información sensible suele almacenarse en un servidor central. Sin embargo, las autorizaciones de acceso y las directrices de protección de datos asociadas también entrañan riesgos.
+- **Riesgos de seguridad**: Hoy en día, la información sensible suele almacenarse en un [servidor]({{< relref "posts/it-infrastruktur" >}}) central o en la [nube]({{< relref "posts/cloud-computing" >}}). Sin embargo, las autorizaciones de acceso y las directrices de protección de datos asociadas también entrañan riesgos.
 - **Sistema complejo**: los sistemas de gestión del conocimiento suelen ser complejos. Por ello, es necesario un largo periodo de familiarización para que sus empleados puedan utilizar el sistema de forma eficiente.
 
 ## ¿Qué sistema de gestión del conocimiento le conviene?
@@ -143,36 +139,43 @@ Si quiere implantar con éxito la gestión del conocimiento en su empresa, difí
 {{< accordion "Wikis y sistemas de gestión de la información" >}}
 
 Ejemplos: Confluence, Guru
+
 {{< /accordion >}}
 
 {{< accordion "Groupware y sistemas de colaboración" >}}
 
 Ejemplos: BSCW, Microsoft SharePoint
+
 {{< /accordion >}}
 
 {{< accordion "Mensajeros instantáneos y sistemas de comunicación" >}}
 
 Ejemplos: Slack, Microsoft Teams
+
 {{< /accordion >}}
 
 {{< accordion "Sistemas de gestión de documentos e intercambio de archivos" >}}
 
-Ejemplos: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+Ejemplos: [Seafile](https://www.seafile.com/en/home/), Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+
 {{< /accordion >}}
 
 {{< accordion "Sistemas de gestión de las relaciones con los clientes" >}}
 
-Ejemplos: Pipedrive, Salesforce
+Ejemplos: [Pipedrive, Salesforce]({{< relref "posts/no-code-crm" >}})
+
 {{< /accordion >}}
 
 {{< accordion "Sistemas de gestión de proyectos" >}}
 
-Ejemplos: Asana, Jira
+Ejemplos: [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Jira
+
 {{< /accordion >}}
 
 {{< accordion "Sistemas de RRHH y gestión de personal" >}}
 
-Ejemplos: Personio, DATEV
+Ejemplos: [Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}), DATEV
+
 {{< /accordion >}}
 
 {{< accordion "Sistemas de gestión de contenidos" >}}
@@ -193,13 +196,13 @@ Para encontrar el software adecuado para su empresa, debe probar varias solucion
 
 ## Gestión flexible y eficaz del conocimiento con SeaTable
 
-Una buena respuesta a todas estas preguntas es la base de datos de conocimientos **SeaTable**, intuitiva y fácil de usar. En varios niveles (bases, tablas, vistas, filas), le permite a usted y a sus empleados registrar información de forma estructurada, encontrarla rápidamente, compartirla fácilmente con otros o filtrarla según su relevancia para un grupo concreto de personas. De este modo, usted y sus empleados siempre tendrán una visión de conjunto.
+Una buena respuesta a todas estas preguntas es la base de datos de conocimientos [SeaTable]({{< relref "/" >}}), intuitiva y fácil de usar. En varios niveles (bases, tablas, vistas, filas), le permite a usted y a sus empleados registrar información de forma estructurada, encontrarla rápidamente, compartirla fácilmente con otros o filtrarla según su relevancia para un grupo concreto de personas. De este modo, usted y sus empleados siempre tendrán una visión de conjunto.
 
 ![Documentar los conocimientos es una tarea sencilla con SeaTable](knowledge-management.jpg)
 
-Cuando elige SeaTable, proporciona a sus empleados toda una caja de herramientas con la que pueden construir una base de datos de conocimientos flexible. SeaTable soporta la [colaboración]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en tiempo real, incluyendo [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) y [un]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) completo [historial de cambios]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Esto le permite a usted y a sus empleados convertir sus conocimientos personales e implícitos en conocimientos explícitos y ponerlos a disposición de los demás. SeaTable también le ofrece la posibilidad de visualizar los datos gráficamente mediante varios [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) y [aplicaciones]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+Cuando elige SeaTable, proporciona a sus empleados toda una caja de herramientas con la que pueden construir una base de datos de conocimientos flexible. SeaTable soporta la [colaboración]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en tiempo real, incluyendo [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) y un completo [historial de cambios]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Esto le permite a usted y a sus empleados convertir sus conocimientos personales e implícitos en conocimientos explícitos y ponerlos a disposición de los demás. SeaTable también le ofrece la posibilidad de visualizar los datos gráficamente mediante varios [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) y [aplicaciones]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
-Puede utilizar SeaTable en la nube, que se aloja en centros de datos alemanes que cumplen la normativa GDPR, o instalarlo [in situ]({{< relref "pages/product/seatable-server" >}}) en sus propios servidores. Así, sus datos estarán seguros en cualquier caso. También puede utilizar autorizaciones en muchos lugares de SeaTable para controlar con precisión quién puede ver y editar qué datos.
+Puede utilizar SeaTable en la nube, que se aloja en centros de datos alemanes que cumplen el RGPD, o instalarlo [in situ]({{< relref "pages/product/seatable-server" >}}) en sus propios servidores. Así, sus datos estarán seguros en cualquier caso. También puede utilizar autorizaciones en muchos lugares de SeaTable para controlar con precisión quién puede ver y editar qué datos.
 
 ## Conclusión: Construya su propia gestión del conocimiento
 
