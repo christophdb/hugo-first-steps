@@ -24,7 +24,7 @@ But what actually is a marketing plan? How do you go about it? What marketing pl
 
 ## What is a marketing plan?
 
-A marketing plan is the basis for any effective marketing campaign. Think of it as a roadmap that describes all the necessary measures to address your defined customer groups and achieve your goals. Your plan should serve as a central document containing the current and future marketing activities within a defined period of time, as an important **guide to action for your marketing department** and also for the entire company. This provides your teams with a tool to **prioritize, plan and implement measures in a structured manner** and to communicate them consistently to the outside world. Depending on the defined goal and the overarching strategy, marketing plans can include activities across several channels or just for one channel. Examples of marketing plans are
+A marketing plan is the basis for any effective marketing campaign. Think of it as a roadmap that describes all the necessary measures to address your defined customer groups and achieve your goals. Your plan should serve as a central document containing the current and future marketing activities within a defined period of time, as an important **guide to action for your marketing department** and also for the entire company. This provides your teams with a tool to **prioritize, plan and implement measures in a structured manner** and to communicate them consistently to the outside world. Depending on the defined goal and the overarching strategy, marketing plans can include activities across several channels or just for one channel. Examples of marketing plans are:
 
 - Social media plan
 - Product marketing plan
@@ -130,11 +130,35 @@ A carefully created plan is the basis for the success of your campaigns. It crea
 
 ### Get started right away with your customized marketing plan template
 
-Whether [marketing campaign]({{< relref "templates/marketing/content-calendar" >}}) social media or editorial plan, competitor analysis, customer feedback or NPS questionnaire - SeaTable has ready-made templates for every marketing plan that include all important aspects and can be flexibly adapted to your needs at the same time. So you can get started with your marketing planning straight away. A digital template ensures that you can simplify your work processes and reduce your workload. With a digital tool like SeaTable, you can use your marketing plan to optimize processes, for example, and enable your entire team to work more efficiently and creatively. And these are not the only advantages:
+Whether [editorial plan]({{< relref "templates/marketing/editorial-plan" >}}), [social media plan]({{< relref "templates/marketing/social-media-plan" >}}), [marketing campaign]({{< relref "templates/marketing/content-calendar" >}}), [competitor analysis]({{< relref "templates/marketing/competitor-analysis" >}}), [customer feedback]({{< relref "templates/marketing/customer-feedback" >}}) or [NPS questionnaire]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) - SeaTable has ready-made templates for every marketing plan that include all important aspects and can be flexibly adapted to your needs at the same time. So you can get started with your marketing planning straight away.
 
-- As a digital tool, SeaTable makes it possible to automate recurring activities across all project phases. This saves valuable time.
-- Thanks to clear and detailed planning, the tool helps to organize projects transparently and to manage them in terms of time and content.
-- As a central system that contains all information, SeaTable ensures that every team member knows the goals, measures and deadlines of a project and can therefore organize their work efficiently
+{{< tabs
+
+title1="Content Marketing Strategy"
+text1="Develop a content strategy including SEO and personas for well thought-out campaigns."
+id1="791a438b055a4680908c"
+submit1="Use template"
+
+title2="Competitor Analysis"
+text2="Compare and analyze competitors to identify market gaps and USPs."
+id2="c08760ae51e94e9e9632"
+submit2="Use template"
+
+title3="Editorial Plan"
+text3="Manage content, ideas, deadlines and tasks as a team in one central place."
+id3="62d7d05bf70348c080e8"
+submit3="Use template"
+
+title4="Social Media Plan"
+text4="Plan social media posts for all your channels and celebrate measurable success."
+id4="e386be96230744a18802"
+submit4="Use template"  >}}
+
+A digital template ensures that you can simplify your work processes and reduce your workload. With a digital tool like SeaTable, you can use your marketing plan to optimize processes, for example, and enable your entire team to work more efficiently and creatively. And these are not the only advantages:
+
+- As a digital tool, SeaTable makes it possible to [automate]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) recurring activities across all project phases. This saves valuable time.
+- Thanks to clear and detailed planning, the tool helps to organize [projects]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) transparently and to manage them in terms of time and content.
+- As a central system that contains all information, SeaTable ensures that every team member knows the goals, measures and deadlines of a project and can therefore organize their work efficiently.
 - Whether texts, images or date values - SeaTable can work with any type of information. You also have the option of integrating other applications and tools into SeaTable for your marketing plan template - all clearly arranged in one place.
 
 ## FAQ - Marketing plan
@@ -150,6 +174,6 @@ Whether [marketing campaign]({{< relref "templates/marketing/content-calendar" >
 - Budget
 - Idea and action plan
   {{< /faq >}}
-  {{< faq "Why should you use a cloud solution like SeaTable to create a marketing plan? " >}}Using a cloud tool such as SeaTables offers several advantages. Firstly, these tools enable faster, more efficient and more transparent teamwork, which avoids misunderstandings. Secondly, it is easier to manage the timing and content of all tasks when information is centralized and can be accessed at any time.
+  {{< faq "Why should you use a cloud solution like SeaTable to create a marketing plan? " >}}Using a [cloud tool]({{< relref "posts/cloud-computing" >}}) such as SeaTable offers several advantages. Firstly, these tools enable faster, more efficient and more transparent teamwork, which avoids misunderstandings. Secondly, it is easier to manage the timing and content of all tasks when information is centralized and can be accessed at any time.
 
 {{< /faq >}}

@@ -19,11 +19,11 @@ color: '#f4a64b'
 
 **¿Ha elaborado ya su presupuesto para el próximo año?** Si no es así, ha llegado el momento: cuanto antes sepa de cuánto dinero dispone, con mayor precisión podrá iniciar las medidas para alcanzar sus objetivos: ¿Quiere contratar a más empleados o está planeando una gran campaña publicitaria? No importa lo que tenga en mente, este artículo le proporcionará valiosos consejos para planificar su presupuesto.
 
-El siguiente artículo trata de la **planificación presupuestaria en las empresas** y de la mejor forma de abordarla. Para **los hogares** recomendamos un [libro de presupuestos]({{< relref "posts/haushaltsbuch-fuehren" >}}).
+El siguiente artículo trata de la **planificación presupuestaria en las empresas** y de la mejor forma de abordarla. Para los **hogares particulares** le recomendamos un [libro de presupuestos]({{< relref "posts/haushaltsbuch-fuehren" >}}).
 
 ## ¿Qué es la elaboración de un presupuesto?
 
-La presupuestación – también conocida como planificación presupuestaria o asignación presupuestaria – trata, como su nombre indica, de **la asignación de presupuestos y la planificación de recursos**. Por definición, la planificación presupuestaria se realiza para el futuro, normalmente para el ejercicio financiero siguiente. Por un lado, se puede determinar el presupuesto para toda la empresa y, por otro, llevar a cabo una **presupuestación detallada para departamentos específicos o proyectos individuales**. El plan presupuestario resultante especifica a dónde debe ir a parar el dinero disponible en la empresa y qué objetivos quiere alcanzar con él y en qué periodo de tiempo.
+La presupuestación – también conocida como planificación presupuestaria o asignación presupuestaria – trata, como su nombre indica, de **la asignación de presupuestos y la planificación de recursos**. Por definición, la planificación presupuestaria se realiza para el futuro, normalmente para el ejercicio financiero siguiente. Por un lado, puede determinar el presupuesto para toda la empresa y, por otro, llevar a cabo una **presupuestación detallada para departamentos específicos o proyectos individuales**. El plan presupuestario resultante especifica a dónde debe ir a parar el dinero disponible en la empresa y qué objetivos quiere alcanzar con él y en qué periodo de tiempo.
 
 ![empleado realizando la planificación presupuestaria en un ordenador portátil](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
 
@@ -31,7 +31,7 @@ La presupuestación – también conocida como planificación presupuestaria o a
 
 - **Distribución razonable del presupuesto**: La planificación presupuestaria le ayuda a distribuir el dinero y los recursos de forma sensata entre los departamentos y proyectos y a utilizarlos específicamente allí donde aportarán el mayor beneficio posible.
 - **Objetivos vinculantes**: Con un plan presupuestario vinculante, puede asegurarse de que sus directivos formulen objetivos claros y tomen medidas eficaces para alcanzarlos.
-- **Transparencia financiera**: La elaboración de presupuestos proporciona claridad sobre en qué se gasta el dinero. Puede vigilar los costes y los objetivos, medir el éxito y anticiparse a los acontecimientos indeseables.
+- **Transparencia financiera**: La elaboración de presupuestos proporciona claridad sobre en qué gasta su dinero. Puede vigilar los costes y los objetivos, medir el éxito y anticiparse a los acontecimientos indeseables.
 - **Inversiones prioritarias**: La lista de deseos en los departamentos suele ser larga. Un presupuesto fijo le ayuda a priorizar las inversiones cruciales y a evitar gastos innecesarios.
 
 ## El presupuesto va de la mano de la planificación financiera
@@ -58,7 +58,7 @@ Existen tres procedimientos o métodos de presupuestación que han demostrado se
 
 - **Descendente**: La dirección determina el presupuesto global, así como la asignación presupuestaria, y a continuación los directores de departamento/proyecto planifican las medidas que pueden aplicar con él.
 - **De abajo arriba**: Aquí, los propios directores de departamento/proyecto determinan qué presupuesto necesitan para sus tareas y pasan la planificación presupuestaria a los responsables de la toma de decisiones. Éstos suman los subpresupuestos, los comparan con el presupuesto global y determinan lo que se aprueba.
-- **Procedimiento de contracorriente**: Aquí se combinan el enfoque descendente y el ascendente. La dirección fija los objetivos, pero no entra en detalles sobre la elaboración del presupuesto. A continuación, los responsables de departamento/proyecto desarrollan medidas adecuadas y concretan los gastos previstos. Por último, el nivel directivo debe revisar la presupuestación y armonizarla con el presupuesto global.
+- **Procedimiento de contracorriente**: Aquí combina el enfoque descendente con el ascendente. La dirección fija los objetivos, pero no entra en detalles sobre la elaboración del presupuesto. A continuación, los responsables de departamento/proyecto desarrollan medidas adecuadas y concretan los gastos previstos. Por último, el nivel directivo debe revisar la presupuestación y armonizarla con el presupuesto global.
 
 ![proceso de planificación presupuestaria: ¿descendente, ascendente o ambos?](susan-q-yin-BiWM-utpVVc-unsplash.jpg)
 
@@ -72,7 +72,7 @@ Pueden surgir los siguientes problemas:
 - La elaboración de presupuestos suele requerir un **gran gasto de tiempo** e inmoviliza capacidades de personal que no están disponibles para el trabajo productivo.
 - Hoy en día, **la evolución económica** es tan rápida y difícil de predecir que un presupuesto planificado con mucha antelación rara vez hace justicia a las circunstancias reales.
 - **Los objetivos presupuestarios estrictos** limitan el margen de maniobra de los departamentos cuando los costes aumentan (por ejemplo, en caso de subidas de precios inesperadas).
-- También puede conducir al estancamiento de la empresa si se orienta demasiado al **presupuesto de años anteriores** sin replantear y optimizar los procesos.
+- También puede conducir al estancamiento de la empresa si usted se orienta demasiado al **presupuesto de años anteriores** sin replantear y optimizar los procesos.
 - Por último, pero no por ello menos importante, las **rivalidades entre directivos o departamentos enteros** pueden dificultar una planificación presupuestaria eficaz y favorecer las solicitudes de gastos innecesarios.
 
 ![el pensamiento de estatus entre directivos puede poner en peligro el uso eficiente de los recursos y, por tanto, la estrategia corporativa](felix-mittermeier-nAjil1z3eLk-unsplash.jpg)
@@ -95,15 +95,15 @@ No eleve a proporciones inconmensurables los objetivos que quiere alcanzar con s
 
 ### 4\. Evite la ineficacia
 
-**El dinero y los recursos deben utilizarse de la forma más eficiente (sin despilfarros) y eficaz (para alcanzar los objetivos) posible**. Sin embargo, puede resultar contraproducente limitarse a recortar del presupuesto del año siguiente los fondos que un departamento no haya utilizado. En lugar de recompensar el uso económico de los recursos, esto anima a los departamentos a utilizar el presupuesto del año siguiente, independientemente de si las medidas tienen sentido o no.
+**El dinero y los recursos deben utilizarse de la forma más eficiente (sin despilfarros) y eficaz (para alcanzar los objetivos) posible**. Sin embargo, puede resultar contraproducente limitarse a recortar del presupuesto del año siguiente los fondos que un departamento no haya utilizado. En lugar de recompensar el uso económico de los recursos, esto anima a los departamentos a agotar a toda costa el presupuesto del año siguiente, independientemente de si las medidas tienen sentido o no.
 
-### 5\. Reconocer el potencial de conflicto
+### 5\. Reconozca el potencial de conflicto
 
 El tamaño del presupuesto puede llevar rápidamente al **pensamiento competitivo o de estatus ("Quien tiene más presupuesto es más importante")** entre los directivos. Por lo tanto, asegúrese de reconocer los conflictos relacionados con el presupuesto en una fase temprana y comunique claramente que todos los departamentos y proyectos contribuyen al éxito general.
 
 ### 6\. Exija transparencia
 
-Sobre todo en las luchas de poder internas, a menudo se pasan por alto los resultados o se formulan objetivos exagerados para obtener un presupuesto mejor. Sea consciente de ello y **examine críticamente para qué se necesitan los fondos y por qué**. En última instancia, debe asignar su presupuesto de forma que su organización alcance sus objetivos empresariales.
+Sobre todo en las luchas de poder internas, a menudo se maquillan los resultados o se formulan objetivos exagerados para obtener un presupuesto mejor. Sea consciente de ello y **examine críticamente para qué se necesitan los fondos y por qué**. En última instancia, debe asignar su presupuesto de forma que su empresa alcance sus objetivos empresariales.
 
 ### 7\. Sea flexible
 
@@ -121,11 +121,11 @@ A continuación examinaremos más de cerca la planificación presupuestaria en [
 
 ### Planificación del presupuesto informático
 
-El funcionamiento de los sistemas informáticos, los procesos automatizados y la eficiente [gestión de datos]({{< relref "posts/20250317-datenmanagement" >}}) son de vital importancia para todas las áreas de una empresa. Además, casi todos los empleados necesitan hardware de alto rendimiento (por ejemplo, ordenadores portátiles, teléfonos móviles de empresa) para poder trabajar de forma productiva. Esto significa que la planificación del presupuesto de TI desempeña un papel cada vez más importante. Básicamente, se pueden diferenciar estos tipos de gastos en la presupuestación informática:
+El funcionamiento de los sistemas informáticos, los procesos automatizados y la eficiente [gestión de datos]({{< relref "posts/20250317-datenmanagement" >}}) son de vital importancia para todas las áreas de una empresa. Además, casi todos los empleados necesitan hardware de alto rendimiento (por ejemplo, ordenadores portátiles, teléfonos móviles de empresa) para poder trabajar de forma productiva. Esto significa que la planificación del presupuesto de TI desempeña un papel cada vez más importante. Básicamente, puede diferenciar estos tipos de gastos en la presupuestación informática:
 
 - **Gastos de capital (inversiones puntuales)**: Se trata de activos fijos como hardware e infraestructuras que usted mismo adquiere para un periodo de tiempo más largo, por ejemplo, dispositivos finales, servidores, tecnología de red, monitores, auriculares, etc.
 
-- **Gastos de explotación corrientes**: Aquí se incluyen los costes de licencia de todas las aplicaciones de software, sistemas operativos y herramientas utilizadas (SaaS), pero también la infraestructura alquilada, como servidores externos y servicios en la nube (IaaS), así como los costes de Internet y telefonía. A esto hay que añadir servicios como los contratos de consultoría informática, mantenimiento y asistencia. Si es necesario, también puede incluir los costes de su propio personal informático en la planificación del presupuesto informático y eliminarlos de la planificación del presupuesto de personal.
+- **Gastos de explotación (costes corrientes de funcionamiento)**: Aquí se incluyen los costes de licencia de todas las aplicaciones de software, sistemas operativos y herramientas utilizadas (SaaS), pero también la infraestructura alquilada, como servidores externos y servicios en la nube (IaaS), así como los costes de Internet y telefonía. A esto hay que añadir servicios como los contratos de consultoría informática, mantenimiento y asistencia. Si es necesario, también puede incluir los costes de su propio personal informático en la planificación del presupuesto informático y eliminarlos de la planificación del presupuesto de personal.
 - Además, todos los **proyectos** que desee completar con un resultado concreto dentro de un ejercicio financiero, por ejemplo, la automatización de un proceso empresarial, la introducción de una nueva herramienta o una prueba de penetración, deben tenerse en cuenta en la elaboración del presupuesto de TI.
 - También debe incluir en su presupuestación de TI **las tareas en curso, como la formación en TI de los nuevos empleados**, porque el tiempo es oro.
 
@@ -151,11 +151,11 @@ Veamos un ejemplo de planificación presupuestaria en la práctica. Supongamos q
 
 En primer lugar, la dirección **analiza todos los gastos y costes de explotación en 2023** y compara las cifras con el plan presupuestario de 2023. Si se ha superado el presupuesto de un centro de costes, los responsables explican por qué el presupuesto previsto no era suficiente. A continuación, **formulan sus expectativas y objetivos** para el año siguiente.
 
-Basándose en estos análisis y objetivos, los directivos comunican cuánto dinero quieren gastar en un proceso ascendente. A continuación, los directivos establecen un **presupuesto global realista para 2024** y los objetivos que deben alcanzarse con él.
+Basándose en estos análisis y objetivos, los directivos comunican cuánto dinero quieren gastar en un proceso ascendente. A continuación, la dirección establece un **presupuesto global realista para 2024** y los objetivos que deben alcanzarse con él.
 
 ## Cree sus planes presupuestarios con SeaTable
 
-Mucha gente utiliza hojas de cálculo [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para su planificación presupuestaria, pero éstas sólo ofrecen funciones y opciones de visualización limitadas. En **SeaTable** puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y empezar directamente con la plantilla mostrada arriba. Podrá agrupar y evaluar todos los centros de costes, objetivos, presupuestos y gastos en dicha base de datos central.
+Mucha gente utiliza [hojas de cálculo de Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para su planificación presupuestaria, pero éstas sólo ofrecen funciones y opciones de visualización limitadas. En **SeaTable** puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y empezar directamente con la plantilla mostrada arriba. Podrá agrupar y evaluar todos los centros de costes, objetivos, presupuestos y gastos en dicha base de datos central.
 
 Asigne a sus gestores la responsabilidad del presupuesto y utilice **SeaTable como herramienta de colaboración** para trabajar en la elaboración del presupuesto con varios departamentos al mismo tiempo. Esto le permitirá ajustar el plan presupuestario a lo largo del año, seguir el **registro de gastos en tiempo real** y tener siempre una visión general del presupuesto actual.
 

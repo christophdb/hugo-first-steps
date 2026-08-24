@@ -20,7 +20,7 @@ Qu'il s'agisse de camions, de bus ou de voitures de service classiques, la gesti
 
 ## Qu'est-ce qu'un parc de véhicules ?
 
-Le **parc automobile** ou la **flotte de** votre entreprise comprend tous les véhicules qui se trouvent dans votre [inventaire]({{< relref "posts/inventarliste-erstellen" >}}). Il s'agit le plus souvent de **voitures de société** classiques. Mais il peut également s'agir de véhicules spéciaux : Bus et trains, camions, véhicules de chantier, chariots élévateurs, tracteurs ou autres véhicules.
+Le **parc automobile**, ou la **flotte**, de votre entreprise comprend tous les véhicules qui se trouvent dans votre [inventaire]({{< relref "posts/inventarliste-erstellen" >}}). Il s'agit le plus souvent de **voitures de société** classiques. Mais il peut également s'agir de véhicules spéciaux : bus et trains, camions, véhicules de chantier, chariots élévateurs, tracteurs ou autres véhicules.
 
 ![Gestion de la flotte de véhicules](fuhrparkmanagement-mit-seatable.jpg)
 
@@ -33,13 +33,13 @@ Il existe deux types de véhicules dans la gestion de parc automobile :
 
 La gestion de parc automobile comprend l'organisation complète de votre [flotte de véhicules](https://de.wikipedia.org/wiki/Fuhrpark), de l'acquisition à la cession en passant par l'entretien. Une gestion de flotte sans faille garantit en outre la **rentabilité** et le **maintien de votre activité**. Pour cela, vous devez entretenir les véhicules existants, les maintenir en état et les faire réparer si nécessaire. Pour que votre flotte de véhicules soit immobilisée le moins possible, vous devez la gérer efficacement et ancrer des processus fixes de gestion de la flotte.
 
-Toute entreprise possédant des véhicules d'entreprise devrait disposer d'un système efficace de gestion de son parc automobile. Peu importe que les véhicules soient utilisés pour le **transport de marchandises** ou comme **voitures de service** pour les déplacements professionnels. **Les véhicules utilitaires** tels que les ambulances, les excavateurs et les tracteurs font également partie des cas d'application.
+Toute entreprise possédant des véhicules d'entreprise devrait disposer d'un système efficace de gestion de son parc automobile. Peu importe que les véhicules soient utilisés pour le **transport de marchandises** ou comme **voitures de service** pour les déplacements professionnels. Les **véhicules utilitaires** tels que les ambulances, les excavateurs et les tracteurs font également partie des cas d'application.
 
 ## Tâches dans la gestion du parc automobile
 
-La charge de travail liée à la gestion de votre flotte dépend entièrement de la **taille** de votre parc automobile et de l **'** utilisation que vous faites des véhicules dans votre entreprise. Les entreprises de transport qui coordonnent chaque jour des centaines de véhicules et qui dépendent d'un fonctionnement sans faille pour leur succès commercial organiseront certainement leur gestion de flotte différemment des entreprises qui n'ont besoin de leur parc automobile que pour les déplacements professionnels de leurs collaborateurs.
+La charge de travail liée à la gestion de votre flotte dépend entièrement de la **taille** de votre parc automobile et de l'**utilisation** que vous faites des véhicules dans votre entreprise. Les entreprises de transport qui coordonnent chaque jour des centaines de véhicules et qui dépendent d'un fonctionnement sans faille pour leur succès commercial organiseront certainement leur gestion de flotte différemment des entreprises qui n'ont besoin de leur parc automobile que pour les déplacements professionnels de leurs collaborateurs.
 
-L’objectif de la gestion de flotte (tant publique que privée) est de rendre tous les processus impliquant des véhicules aussi efficaces et rentables que possible. Cela comprend les **coûts d’acquisition** , les **coûts d’exploitation** , mais aussi **l’entretien et les réparations** . Une autre tâche importante est l’ **attribution et la réservation** des véhicules sans problème et sans complications. Vous pouvez par exemple utiliser des systèmes de réservation numériques pour faciliter la remise et garantir une documentation complète.
+L'objectif de la gestion de flotte (tant publique que privée) est de rendre tous les processus impliquant des véhicules aussi efficaces et rentables que possible. Cela comprend les **coûts d'acquisition**, les **coûts d'exploitation**, mais aussi **l'entretien et les réparations**. Une autre tâche importante est l'**attribution et la réservation** des véhicules sans problème et sans complications. Vous pouvez par exemple utiliser des systèmes de réservation numériques pour faciliter la remise et garantir une documentation complète.
 
 ![Clé de voiture pour la remise du véhicule](Anrita1705-automobile-7600895_1280.jpg)
 
@@ -49,7 +49,7 @@ L’objectif de la gestion de flotte (tant publique que privée) est de rendre t
 - Gestion des documents relatifs aux véhicules (cartes grises, contrats de vente, assurances, etc.)
 - Réservation, attribution et, le cas échéant, planification de l'itinéraire
 - Restitution et ravitaillement des véhicules
-- commander et surveiller les réparations et les inspections
+- Commander et surveiller les réparations et les inspections
 - Respect des dispositions légales (par exemple, contrôle du permis de conduire des conducteurs)
 
 Voyons maintenant en détail différents aspects et conseils de gestion de flotte.
@@ -72,7 +72,7 @@ Les **frais administratifs** sont généralement moins élevés avec le leasing,
 
 ![Financer une flotte de véhicules](Fuhrpark-finanzieren.jpg)
 
-**L’assurance** entraîne également des coûts permanents élevés en matière de gestion des véhicules et des flottes. Cependant, vous n’êtes pas obligé d’assurer chacun de vos véhicules individuellement. Si vous ne possédez que trois véhicules d’entreprise, vous pouvez bénéficier de polices d’assurance automobile de groupe, ce qui peut réduire les coûts et les efforts administratifs.
+L'**assurance** entraîne également des coûts permanents élevés en matière de gestion des véhicules et des flottes. Cependant, vous n'êtes pas obligé d'assurer chacun de vos véhicules individuellement. Dès trois véhicules d'entreprise, vous pouvez bénéficier de polices d'assurance automobile de groupe, ce qui peut réduire les coûts et les efforts administratifs.
 
 ## Gestion de la flotte et protection des données
 
@@ -86,19 +86,21 @@ En outre, vous devez contrôler deux fois par an les permis de conduire des cond
 
 ## Systèmes pour la gestion de votre parc automobile
 
-Pour gérer votre parc de véhicules, vous avez le choix entre plusieurs possibilités. La solution logicielle doit répondre à plusieurs exigences : D'une part, elle doit être **flexible** et donc applicable à vos scénarios individuels. D'autre part, elle doit pouvoir collecter différents types d'informations (par exemple des fichiers, des images et des données GPS) tout en restant simple **d'utilisation**.
+Pour gérer votre parc de véhicules, vous avez le choix entre plusieurs possibilités. La solution logicielle doit répondre à plusieurs exigences : D'une part, elle doit être **flexible** et donc applicable à vos scénarios individuels. D'autre part, elle doit pouvoir collecter différents types d'informations (par exemple des fichiers, des images et des données GPS) tout en restant **simple d'utilisation**.
 
 ![Gestion de la flotte de véhicules](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
-Selon la taille de l'entreprise, les exigences d'un tel logiciel sont différentes. Les grandes entreprises telles que les entreprises de transport ou les sociétés de transport peuvent recourir à des **solutions sectorielles** spécifiques, mais celles-ci sont souvent coûteuses. Les petites entreprises qui disposent d'une flotte de véhicules de taille raisonnable ne doivent toutefois pas se lancer dans des dépenses excessives pour un système de gestion de flotte coûteux.
+Selon la taille de l'entreprise, les exigences d'un tel logiciel sont différentes. Les grandes entreprises telles que les sociétés de transport public ou les transporteurs routiers peuvent recourir à des **solutions sectorielles** spécifiques, mais celles-ci sont souvent coûteuses. Les petites entreprises qui disposent d'une flotte de véhicules de taille raisonnable ne doivent toutefois pas se lancer dans des dépenses excessives pour un système de gestion de flotte coûteux.
 
 Le logiciel de base de données **SeaTable** permet une gestion de flotte gratuite pour les petites entreprises. La solution basée sur le cloud et conforme au RGPD est idéale pour la gestion de flottes de petite et moyenne taille, par exemple dans les entreprises artisanales ou d'autres entreprises disposant de personnel sur le terrain.
 
 ## Gérez votre parc de véhicules avec SeaTable
 
-Gardez une trace de l'ensemble de votre flotte ! Avec notre [logiciel de gestion de flotte gratuit,]({{< relref "templates/operations/fleet-management" >}}) vous pouvez cataloguer vos véhicules et gérer tous les processus de gestion de flotte en un rien de temps. Documentez facilement et de manière pratique les réservations, les retours, les réparations et les rendez-vous pour vos véhicules.
+Gardez une trace de l'ensemble de votre flotte ! Avec notre [logiciel de gestion de flotte gratuit]({{< relref "templates/operations/fleet-management" >}}), vous pouvez cataloguer vos véhicules et gérer tous les processus de gestion de flotte en un rien de temps. Documentez facilement et de manière pratique les réservations, les retours, les réparations et les rendez-vous pour vos véhicules.
 
-SeaTable vous offre une gestion claire et intuitive de votre flotte et des demandes de réservation entrantes. Cela signifie que vous avez toujours un aperçu des véhicules disponibles à quel moment et de l'état de votre flotte.
+{{< template-box id="d781991c26e24261bdce" >}}
+
+SeaTable vous offre une gestion claire et intuitive de votre flotte et des demandes de réservation entrantes. Cela signifie que vous savez toujours quels véhicules sont disponibles à quel moment et dans quel état se trouve votre flotte.
 
 [Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et essayez dès aujourd'hui SeaTable et son modèle personnalisable et flexible pour la gestion de votre parc automobile !
 
@@ -106,7 +108,7 @@ SeaTable vous offre une gestion claire et intuitive de votre flotte et des deman
 
 {{< faq "Qu'est-ce qu'un parc de véhicules ?" >}}
 
-Une flotte est l’ensemble des véhicules possédés par votre entreprise.
+Une flotte est l'ensemble des véhicules possédés par votre entreprise.
 {{< /faq >}}
 
 {{< faq "Qu'est-ce que la gestion de flotte ?" >}}
@@ -116,11 +118,11 @@ La gestion de flotte fait référence à tous les processus qui affectent votre 
 
 {{< faq "Que comprend la gestion de flotte ?" >}}
 
-La gestion de flotte commence par une **évaluation** du nombre de véhicules dont votre entreprise a besoin, puis clarifie le **financement, l'achat ou la vente** des véhicules. Elle doit assurer une **gestion soignée des documents du véhicule** (carte grise, contrats d'achat, assurances, etc.) et le **stockage conforme au RGPD des données du conducteur** (par exemple, données de déplacement, reçus de carburant, permis de conduire). Les activités quotidiennes comprennent **la réservation, la remise et la planification des itinéraires** en toute fluidité, ainsi que les éventuelles **réparations et inspections** .
+La gestion de flotte commence par une **évaluation** du nombre de véhicules dont votre entreprise a besoin, puis clarifie le **financement, l'achat ou la vente** des véhicules. Elle doit assurer une **gestion soignée des documents du véhicule** (carte grise, contrats d'achat, assurances, etc.) et le **stockage conforme au RGPD des données du conducteur** (par exemple, données de déplacement, reçus de carburant, permis de conduire). Les activités quotidiennes comprennent **la réservation, la remise et la planification des itinéraires** en toute fluidité, ainsi que les éventuelles **réparations et inspections**.
 {{< /faq >}}
 
 {{< faq "Combien coûte la gestion de flotte ?" >}}
 
-Cela dépend de la taille de votre flotte de véhicules et ne peut donc pas être répondu en termes généraux. Toutefois, vous devez savoir que si vous **achetez** des véhicules, vous devrez vous occuper vous-même de toute la gestion de votre flotte. Lors **de la location,** les sociétés de location de voitures peuvent fournir des services complets tels que des assurances et des inspections sur demande.
+Cela dépend de la taille de votre flotte de véhicules ; il est donc impossible d'y répondre de manière générale. Toutefois, vous devez savoir que si vous **achetez** des véhicules, vous devrez vous occuper vous-même de toute la gestion de votre flotte. Dans le cas du **leasing**, les sociétés de location de voitures peuvent fournir sur demande des services complets tels que des assurances et des inspections.
 
 {{< /faq >}}

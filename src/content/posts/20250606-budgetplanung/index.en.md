@@ -35,7 +35,7 @@ Budgeting – also known as budget planning or budget allocation – is, as the 
 
 ## Budgeting goes hand in hand with financial planning
 
-**Operational budget planning** is part of short-term [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), in which you estimate your future income and expenditure for the coming year. You use the data from the current and/or previous financial year to derive forecasts for future developments. In contrast to a [financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), budgeting generally focuses on the expenditure side - regardless of where the money comes from.
+**Operational budget planning** is part of short-term [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), in which you estimate your future income and expenditure for the coming year. You use the data from the current and/or previous financial year to derive forecasts for future developments. In contrast to a [financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), budgeting generally focuses on the expenditure side – regardless of where the money comes from.
 
 **Strategic budget planning** for the next two to five years is also quite common. This helps you to make long-term business decisions that will drive your company forward and ensure its success, such as opening new locations. However, the further into the future the planning horizon is, the more difficult and uncertain it is to make an accurate forecast.
 
@@ -71,7 +71,7 @@ The following problems can occur:
 - Budgeting usually requires a **high expenditure of time** and ties up personnel capacities that are not available for productive work.
 - Today, **economic developments** are so fast-moving and difficult to predict that a budget planned well in advance rarely does justice to the actual circumstances.
 - **Strict budget targets** restrict the departments' room for maneuver when costs rise (e.g. in the event of unexpected price increases).
-- It can also lead to the stagnation of the company if you orientate yourself too closely to the **budgeting of previous years** without rethinking and optimizing processes.
+- It can also lead to the stagnation of the company if you orient yourself too closely to the **budgeting of previous years** without rethinking and optimizing processes.
 - Last but not least, **rivalries between managers or entire departments** can make efficient budget planning more difficult and encourage unnecessary spending.
 
 ![status thinking among managers can jeopardize the efficient use of resources and thus the corporate strategy](felix-mittermeier-nAjil1z3eLk-unsplash.jpg)
@@ -126,7 +126,7 @@ Functioning IT systems, automated processes and efficient [data management]({{< 
 
 - **Operating expenditures (ongoing operating costs)**: This includes the license fees for all software applications, operating systems and tools used (SaaS), but also rented infrastructure such as external servers and cloud services (IaaS) as well as internet and telephony costs. Added to this are services such as IT consulting, maintenance and support contracts. If necessary, you can also include the costs for your own IT staff in the IT budget planning and remove them from the personnel budget planning.
 - Furthermore, all **projects** that you want to complete with a concrete result within a financial year, e.g. the automation of a business process, the introduction of a new tool or a penetration test, must be taken into account in IT budgeting.
-- You should also include **ongoing tasks such as IT training for new employees** in your IT budgeting - because time is money.
+- You should also include **ongoing tasks such as IT training for new employees** in your IT budgeting – because time is money.
 
 Thanks to IT budgeting, it quickly becomes clear whether you can only finance the bare essentials or high-end solutions with your money and how quickly digitization and automation projects can be implemented. Include a buffer in the budget for unforeseen expenses (e.g. price increases, repair or replacement of broken devices).
 
@@ -138,7 +138,7 @@ A popular area of application for budgeting is project management. There, it pro
 
 Especially if customers, investors or other stakeholders are involved in a project, they will almost certainly demand **transparent and realistic budgeting**. In this case, a budget plan is essential and can be used to negotiate financial resources.
 
-**Budgeting should definitely take place before the project starts**. It determines whether and to what extent a project is feasible. Budgeting reveals the objectives - both opportunities and risks become apparent. You should therefore start budgeting as early as possible.
+**Budgeting should definitely take place before the project starts**. It determines whether and to what extent a project is feasible. Budgeting reveals the objectives – both opportunities and risks become apparent. You should therefore start budgeting as early as possible.
 
 In order to be able to realistically calculate cost estimates, it is helpful to review past projects. **How well did the budget planning work in previous projects and what should you adjust this time?** Creating a budget plan can be time-consuming, but it gives you the opportunity to evaluate old projects and make new ones even better.
 
