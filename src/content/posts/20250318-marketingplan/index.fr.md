@@ -18,7 +18,7 @@ aliases:
 
 ## Créer un plan marketing en 6 étapes
 
-Le marketing est une tâche centrale pour toute entreprise : il permet de promouvoir la **connaissance de la marque et du produit**, de transmettre des informations importantes au client et de favoriser ainsi le succès commercial. Au cœur d'un marketing réussi se trouve la rédaction d'un plan marketing. C'est la **base de toutes les activités de marketing réussies**. Cependant, les petites et moyennes entreprises n'ont souvent pas les ressources nécessaires pour élaborer un plan soigneusement conçu.
+Le marketing est une tâche centrale pour toute entreprise : il permet de promouvoir la **connaissance de la marque et du produit**, de transmettre des informations importantes au client et de favoriser ainsi le succès commercial. Au cœur d'un marketing réussi se trouve la rédaction d'un plan marketing. C'est la **base de toutes les activités de marketing réussies**. Cependant, les petites et moyennes entreprises n'ont souvent pas, dans leurs activités quotidiennes, les ressources nécessaires pour élaborer un plan soigneusement conçu.
 
 Mais qu'est-ce qu'un plan marketing ? Comment faut-il procéder ? Quels sont les contenus du plan marketing à couvrir ? Nous avons élaboré un plan en six étapes avec des conseils supplémentaires pour passer du plan à la mise en œuvre.
 
@@ -56,19 +56,19 @@ Avec un plan marketing bien pensé, vous créez avant tout la base d'un travail 
 
 **Des structures claires:** Un plan d'action marketing vous aide à comprendre et à définir les structures et les processus nécessaires. Vous augmenterez ainsi la productivité et la satisfaction des collaborateurs de votre équipe.
 
-Celui qui travaille avec un bon plan a en outre la possibilité de définir précisément les options d'action adaptées à chaque objectif et à chaque canal, puis de les adapter aux besoins de votre groupe cible.
+Si vous travaillez avec un bon plan, vous avez en outre la possibilité de définir précisément les options d'action adaptées à chaque objectif et à chaque canal, puis de les adapter aux besoins de votre groupe cible.
 
-## Comment élaborer un plan marketing professionnel ?
+## Comment élaborer un plan marketing professionnel
 
 Toute action marketing vise à **atteindre un objectif précis dans un délai donné**. Pour cela, de nombreuses étapes d'action différentes et nécessaires doivent être planifiées, mises en œuvre, analysées et documentées. Pour que votre équipe marketing ne perde pas la vue d'ensemble, il est judicieux de miser sur le travail avec un modèle de plan marketing numérique. Cela vous aide à communiquer de manière transparente, à structurer les processus, à prioriser efficacement les tâches et à avoir à tout moment une vue d'ensemble actualisée de vos projets.
 
-Lorsque vous rédigez un plan marketing, il est important de se baser sur les exigences et les idées de votre entreprise. Toutefois, il existe des contenus de plan marketing qui devraient être inclus dans tous les cas afin de tirer le meilleur parti de vos mesures. Voici les cinq points que vous devez inclure dans votre plan marketing.
+Lorsque vous rédigez un plan marketing, il est important de vous baser sur les exigences et les idées de votre entreprise. Toutefois, il existe des contenus de plan marketing qui devraient être inclus dans tous les cas afin de tirer le meilleur parti de vos mesures. Voici les cinq points que vous devez inclure dans votre plan marketing.
 
 ![Formule pour un plan marketing réussi](Einen-professionellen-Marketing-Plan-erstellen.jpg)
 
-### 1\. Analysez la situation actuelle et définissez une stratégie.
+### 1\. Analysez la situation actuelle et définissez une stratégie
 
-Avant de pouvoir définir les mesures appropriées pour vos projets marketing, il est important de voir où vous et votre entreprise en êtes actuellement. Obtenez une **vue d'ensemble du statu quo** de votre département marketing : quels sont les **points forts** et quels sont les **points faibles** ? Quelles **opportunités** le marché offre-t-il et quels sont les **risques** possibles ? Quelle est la **caractéristique de vente unique** (USP) de votre produit ou de votre service par rapport à la concurrence ? Comment le département marketing est-il organisé (personnel, ressources, capacités) ? Où vous situez-vous actuellement et où souhaitez-vous aller - quelle est votre vision ? À ce stade, considérez également vos concurrents.
+Avant de pouvoir définir les mesures appropriées pour vos projets marketing, il est important de voir où vous et votre entreprise en êtes actuellement. Obtenez une **vue d'ensemble du statu quo** de votre département marketing : quels sont les **points forts** et quels sont les **points faibles** ? Quelles **opportunités** le marché offre-t-il et quels sont les **risques** possibles ? Quelle est la **proposition de vente unique** (USP) de votre produit ou de votre service par rapport à la concurrence ? Comment le département marketing est-il organisé (personnel, ressources, capacités) ? Où vous situez-vous actuellement et où souhaitez-vous aller - quelle est votre vision ? À ce stade, considérez également vos concurrents.
 
 Une fois que vous avez défini la situation actuelle, l'étape suivante consiste à déterminer les objectifs que vous souhaitez atteindre dans un avenir proche, moyen ou lointain.
 
@@ -84,9 +84,9 @@ N'hésitez pas à prendre un peu plus de temps pour cette étape et à consigner
 
 ### 4\. Déterminez votre budget
 
-Vous connaissez maintenant vos objectifs, vos groupes cibles et vos concurrents. Vous pouvez maintenant passer à l'étape suivante et définir le budget qui vous permettra d'atteindre vos objectifs marketing. Définissez des budgets par canal de marketing et prévoyez de préférence toujours une réserve. Il est important à ce stade d'avoir une image réaliste de ses propres possibilités, tant en ce qui concerne les ressources que l'on peut investir que les résultats que l'on peut obtenir.
+Vous connaissez maintenant vos objectifs, vos groupes cibles et vos concurrents. Vous pouvez maintenant passer à l'étape suivante et définir le budget qui vous permettra d'atteindre vos objectifs marketing. Définissez des budgets par canal de marketing et prévoyez de préférence toujours une réserve. Il est important à ce stade d'avoir une image réaliste de vos propres possibilités, tant en ce qui concerne les ressources que vous pouvez investir que les résultats que vous pouvez obtenir.
 
-La taille du budget ne préjuge pas du succès escompté des campagnes. Il est vrai qu'avec un budget plus important, vous obtiendrez généralement un plus grand succès. Mais seulement si votre campagne est réellement adaptée aux besoins du groupe cible et si elle lui parle, car il n'y a pas de lien obligatoire entre la taille du budget et le succès. Il s'agit plutôt de travailler proprement lors de la troisième étape et de développer des idées créatives. Si vous avez fait cela, il est possible d'obtenir de bons résultats même avec de faibles budgets.
+La taille du budget ne préjuge pas du succès escompté des campagnes. Il est vrai qu'avec un budget plus important, vous obtiendrez généralement un plus grand succès. Mais seulement si votre campagne est réellement adaptée aux besoins du groupe cible et si elle lui parle, car il n'y a pas de lien obligatoire entre la taille du budget et le succès. Il s'agit plutôt de travailler proprement lors de la troisième étape et de développer des idées créatives. Si vous avez fait cela, il est possible d'obtenir de bons résultats même avec de faibles budgets ; en revanche, sans groupe cible clairement défini, vous n'obtiendrez guère de succès, même avec des investissements élevés.
 
 ### 5\. Remplissez le plan marketing avec vos idées et vos mesures
 
@@ -108,7 +108,7 @@ Les instruments de marketing et les outils d'analyse font partie de toute planif
 
 ## De la volonté à la réalisation : Mise en œuvre des campagnes
 
-Votre plan marketing est maintenant terminé, mais le plus important reste à faire : la mise en œuvre. Ce conseil peut paraître banal, mais il ne faut pas en abuser. En effet, vous avez probablement déjà constaté que des idées créatives se sont tout simplement enlisées - soit parce que personne ne se sentait compétent, soit parce que les tâches ont tout simplement été ignorées dans des processus peu transparents et peu clairs. Or, l'élaboration d'un plan marketing est un processus complexe qui prend beaucoup de temps et qui ne peut généralement pas être géré par une seule personne. C'est un investissement dans le succès futur de votre entreprise. C'est pourquoi il est important de s'assurer que ces ressources ne sont pas gaspillées.
+Votre plan marketing est maintenant terminé, mais le plus important reste à faire : la mise en œuvre. Ce conseil peut paraître banal, mais on ne saurait trop y insister. En effet, vous avez probablement déjà constaté que des idées créatives se sont tout simplement enlisées - soit parce que personne ne se sentait responsable, soit parce que les tâches ont tout simplement été ignorées dans des processus peu transparents et peu clairs. Or, l'élaboration d'un plan marketing est un processus complexe qui prend beaucoup de temps et qui ne peut généralement pas être géré par une seule personne. C'est un investissement dans le succès futur de votre entreprise. C'est pourquoi il est important de s'assurer que ces ressources ne sont pas gaspillées.
 
 ### Des processus clairs et une communication transparente
 
@@ -116,11 +116,11 @@ Lorsque vous élaborez un plan marketing et planifiez des campagnes, les process
 
 ### Planification marketing avec des outils numériques
 
-Créer un plan marketing sous forme de modèle sur papier est une possibilité - mais qui n'est pas forcément efficace. Vous imaginez que tous les membres de l'équipe marketing travaillent avec une seule feuille de papier sur laquelle ils notent, corrigent, raturent, etc. toutes les données relatives au projet ? Les outils numériques de planification marketing sont beaucoup plus simples, rapides et transparents. Qu'il s'agisse de Hubspot, SeaTable ou Asana, les [outils marketing] numériques ({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) comme celui-ci vous aident à rassembler toutes les informations, à garder un œil sur la gestion du temps et du contenu et à tout présenter de manière claire pour tous les participants.
+Créer un plan marketing sous forme de modèle sur papier est une possibilité - mais qui n'est pas forcément efficace. Vous imaginez que tous les membres de l'équipe marketing travaillent avec une seule feuille de papier sur laquelle ils notent, corrigent, raturent, etc. toutes les données relatives au projet ? Les outils numériques de planification marketing sont beaucoup plus simples, rapides et transparents. Qu'il s'agisse de Hubspot, SeaTable ou Asana, les [outils marketing numériques]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) comme ceux-ci vous aident à rassembler toutes les informations, à garder un œil sur la gestion du temps et du contenu et à tout présenter de manière claire pour tous les participants.
 
 ### Mesurer, mesurer, mesurer : L'optimisation ne s'arrête jamais
 
-Vous savez déjà qu'il est important de penser à l'analyse et à l'optimisation de vos campagnes dès l'élaboration du plan marketing. Soyez conscient qu'il s'agit d'un processus continu. Il est probable que vous allongiez les intervalles avec le temps. Vous devriez toutefois contrôler régulièrement vos mesures jusqu'à la fin de la campagne et les optimiser si nécessaire - ou arrêter certaines mesures. Important : agissez sur la base des données au lieu de vous en tenir à des hypothèses préconçues. Il est tout aussi important de remettre en question et d'adapter régulièrement ses propres processus. Les responsabilités ne sont-elles pas claires ? Les processus sont-ils conçus de manière à ce que l'on pense à tout ? Les processus de travail s'imbriquent-ils les uns dans les autres ? Existe-t-il des goulots d'étranglement au sein de l'équipe qui mettent en péril le calendrier des campagnes ? Avec un plan de marketing en ligne, vous créez la transparence nécessaire. Utilisez de préférence un outil qui permet un travail collaboratif en temps réel, afin que les membres de votre équipe soient toujours au même niveau d'information.
+Vous savez déjà qu'il est important de penser à l'analyse et à l'optimisation de vos campagnes dès l'élaboration du plan marketing. Soyez conscient qu'il s'agit d'un processus continu. Il est probable que vous allongiez les intervalles avec le temps. Vous devriez toutefois contrôler régulièrement vos mesures jusqu'à la fin de la campagne et les optimiser si nécessaire - ou arrêter certaines mesures. Important : agissez sur la base des données au lieu de vous en tenir à des hypothèses préconçues. Il est tout aussi important de remettre en question et d'adapter régulièrement vos propres processus. Les responsabilités ne sont-elles pas claires ? Les processus sont-ils conçus de manière à ce que rien ne soit oublié ? Les processus de travail s'imbriquent-ils les uns dans les autres ? Existe-t-il des goulots d'étranglement au sein de l'équipe qui mettent en péril le calendrier des campagnes ? Avec un plan de marketing en ligne, vous créez la transparence nécessaire. Utilisez de préférence un outil qui permet un travail collaboratif en temps réel, afin que les membres de votre équipe soient toujours au même niveau d'information.
 
 ![Analyse du concept marketing](Optimierung-hoert-nicht-auf.jpg)
 
@@ -130,10 +130,34 @@ Un plan soigneusement élaboré est la base du succès de vos campagnes. Il perm
 
 ### Commencez directement avec votre modèle de plan marketing personnalisé
 
-Qu'il s'agisse d'une [campagne marketing]({{< relref "templates/marketing/content-calendar" >}}), d'un plan pour les médias sociaux ou d'un plan éditorial, d'une analyse de la concurrence, d'un retour d'informations de la part des clients ou d'un questionnaire NPS, SeaTable propose des modèles prêts à l'emploi pour chaque plan marketing, qui contiennent tous les aspects importants tout en étant flexibles et adaptables à vos besoins. Vous pouvez ainsi vous lancer directement dans votre planification marketing. Un modèle numérique vous permet de simplifier vos processus de travail et de réduire la charge de travail. Avec un outil numérique comme SeaTable, vous avez la possibilité d'utiliser votre plan marketing pour optimiser les processus, par exemple, et de permettre ainsi à toute votre équipe de travailler de manière plus efficace et plus créative. Et ce ne sont pas les seuls avantages :
+Qu'il s'agisse d'un [plan éditorial]({{< relref "templates/marketing/editorial-plan" >}}), d'un [plan pour les médias sociaux]({{< relref "templates/marketing/social-media-plan" >}}), d'une [campagne marketing]({{< relref "templates/marketing/content-calendar" >}}), d'une [analyse de la concurrence]({{< relref "templates/marketing/competitor-analysis" >}}), d'un [retour d'informations de la part des clients]({{< relref "templates/marketing/customer-feedback" >}}) ou d'un [questionnaire NPS]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}), SeaTable propose des modèles prêts à l'emploi pour chaque plan marketing, qui contiennent tous les aspects importants tout en étant flexibles et adaptables à vos besoins. Vous pouvez ainsi vous lancer directement dans votre planification marketing.
 
-- En tant qu'outil numérique, SeaTable permet d'automatiser les tâches répétitives à travers toutes les phases du projet. Cela permet de gagner un temps précieux.
-- Grâce à une planification claire et détaillée, l'outil permet d'organiser les projets de manière transparente et de les contrôler en termes de temps et de contenu.
+{{< tabs
+
+title1="Stratégie de marketing de contenu"
+text1="Élaborez une stratégie de contenu incluant le SEO et les personas pour des campagnes bien pensées."
+id1="791a438b055a4680908c"
+submit1="Utiliser le modèle"
+
+title2="Analyse de la concurrence"
+text2="Comparez et analysez vos concurrents afin d'identifier les lacunes du marché et les USP."
+id2="c08760ae51e94e9e9632"
+submit2="Utiliser le modèle"
+
+title3="Plan éditorial"
+text3="Gérez les contenus, les idées, les échéances et les tâches en équipe, à un endroit central."
+id3="62d7d05bf70348c080e8"
+submit3="Utiliser le modèle"
+
+title4="Plan pour les médias sociaux"
+text4="Planifiez vos publications pour tous vos canaux sociaux et célébrez des succès mesurables."
+id4="e386be96230744a18802"
+submit4="Utiliser le modèle"  >}}
+
+Un modèle numérique vous permet de simplifier vos processus de travail et de réduire la charge de travail. Avec un outil numérique comme SeaTable, vous avez la possibilité d'utiliser votre plan marketing pour optimiser les processus, par exemple, et de permettre ainsi à toute votre équipe de travailler de manière plus efficace et plus créative. Et ce ne sont pas les seuls avantages :
+
+- En tant qu'outil numérique, SeaTable permet d'[automatiser]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) les tâches répétitives à travers toutes les phases du projet. Cela permet de gagner un temps précieux.
+- Grâce à une planification claire et détaillée, l'outil permet d'organiser les [projets]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) de manière transparente et de les contrôler en termes de temps et de contenu.
 - En tant que système central contenant toutes les informations, SeaTable permet à chaque membre de l'équipe de connaître les objectifs, les mesures et les délais d'un projet et de répartir ainsi efficacement son travail.
 - Qu'il s'agisse de textes, d'images ou de valeurs de dates, SeaTable peut travailler avec tout type d'information. Ainsi, pour votre modèle de plan marketing, vous avez également la possibilité d'intégrer d'autres applications et outils dans SeaTable - tout cela de manière très claire et en un seul endroit.
 
@@ -150,6 +174,6 @@ Qu'il s'agisse d'une [campagne marketing]({{< relref "templates/marketing/conten
 - Budget
 - Plan d'idées et de mesures
   {{< /faq >}}
-  {{< faq "Pourquoi utiliser une solution cloud comme SeaTable pour créer un plan marketing ? " >}}L'utilisation d'un outil en nuage tel que SeaTables présente plusieurs avantages. D'une part, ces outils permettent de travailler en équipe de manière plus rapide, plus efficace et plus transparente, ce qui évite les malentendus. D'autre part, la gestion du temps et du contenu de toutes les tâches est facilitée lorsque les informations sont centralisées et peuvent être consultées à tout moment.
+  {{< faq "Pourquoi utiliser une solution cloud comme SeaTable pour créer un plan marketing ? " >}}L'utilisation d'un [outil cloud]({{< relref "posts/cloud-computing" >}}) tel que SeaTable présente plusieurs avantages. D'une part, ces outils permettent de travailler en équipe de manière plus rapide, plus efficace et plus transparente, ce qui évite les malentendus. D'autre part, la gestion du temps et du contenu de toutes les tâches est facilitée lorsque les informations sont centralisées et peuvent être consultées à tout moment.
 
 {{< /faq >}}

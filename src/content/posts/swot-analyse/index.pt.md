@@ -1,6 +1,6 @@
 ---
 title: 'Exemplo de análise SWOT: Concentrar-se nos pontos fortes e fracos internos'
-description: 'Descubra como a análise SWOT identifica forças, fraquezas, oportunidades e ameaças. Veja dicas práticas, exemplo real e baixe um modelo grátis para otimizar sua estratégia empresarial.'
+description: 'Descubra como a análise SWOT identifica forças, fraquezas, oportunidades e ameaças. Veja dicas práticas, um exemplo real e descarregue um modelo grátis para otimizar a sua estratégia empresarial.'
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
@@ -9,7 +9,7 @@ aliases:
     - /pt/swot-analyse
 seo:
     title: 'Análise SWOT: exemplo e modelo grátis para negócios'
-    description: 'Reforce sua estratégia com SWOT: exemplos práticos e modelo gratuito para analisar fatores internos e externos em seu planejamento empresarial.'
+    description: 'Reforce a sua estratégia com a SWOT: exemplos práticos e modelo gratuito para analisar fatores internos e externos no seu planeamento empresarial.'
 categories:
     - 'best-practice'
 tags:
@@ -20,109 +20,109 @@ tags:
 color: '#9f91c7'
 ---
 
-A **análise SWOT** é uma **ferramenta** crucial **para o planeamento estratégico de uma empresa**, uma vez que tem em conta factores internos e externos. Este artigo utiliza um exemplo de análise SWOT para explicar a melhor forma de proceder e como um modelo de análise SWOT o pode ajudar a implementá-la.
-
 ## A análise SWOT explicada de forma simples
 
-### O que é que significa SWOT?
+### O que significa SWOT?
 
 Vamos começar com uma definição. SWOT significa
 
-- Pontos fortes – pontos fortes
-- Fraquezas – fraquezas
-- Oportunidades – oportunidades
-- Ameaças – riscos
+- Strengths – Pontos fortes
+- Weaknesses – Pontos fracos
+- Opportunities – Oportunidades
+- Threats – Ameaças
 
 ![Consultor de gestão à procura de um novo modelo para um exemplo de análise SWOT no seu computador portátil.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
 
-Análise SWOT © tudo possível / Adobe Stock
+Análise SWOT © everythingpossible / Adobe Stock
 
-A análise SWOT é um exemplo de como você pode analisar a sua empresa (interna) e as influências ambientais relevantes (externas).
+A análise SWOT é um exemplo de como pode analisar a sua empresa (interna) e as influências ambientais relevantes (externas).
 
-### O que é uma análise SWOT?
+## O que é uma análise SWOT?
 
-Numa análise SWOT, faz-se um **balanço da sua empresa ou equipa sob a forma de uma matriz**. Em primeiro lugar, **analisam-se os pontos fortes e fracos internos**: Por exemplo, tem produtos inovadores ou tem falta de conhecimentos ou de mão de obra num determinado departamento?
+Numa análise SWOT, faz um **balanço da sua empresa ou equipa sob a forma de uma matriz**. Em primeiro lugar, analisa **os pontos fortes e fracos internos**: existem, por exemplo, produtos inovadores ou falta-lhe know-how ou mão de obra num determinado departamento?
 
-Em seguida, **analisa o ambiente da sua empresa ou equipa**. Agora é altura de analisar **as oportunidades e os riscos externos**. Como estão a evoluir os seus mercados? Por exemplo, está a debater-se com o aumento dos custos dos materiais ou com novos concorrentes? Ou está a beneficiar das tendências sociais?
+Em seguida, **analisa o ambiente da sua empresa ou equipa**. Agora é altura de analisar **as oportunidades e as ameaças externas**. Como estão a evoluir os seus mercados? Está, por exemplo, a debater-se com o aumento dos custos dos materiais ou com novos [concorrentes]({{< relref "posts/wettbewerbsanalyse" >}})? Ou as tendências sociais estão a favorecê-lo?
 
-Na segunda etapa, você obtém **recomendações estratégicas de ação** a partir do inventário. O que você deve fazer quando as oportunidades encontram os pontos fracos ou as ameaças encontram os pontos fortes?
+Na segunda etapa, retira desse balanço **recomendações estratégicas de ação**. O que tem de fazer quando as oportunidades encontram os pontos fracos ou as ameaças encontram os pontos fortes?
 
 ![Representação gráfica de uma matriz SWOT como modelo para uma análise SWOT.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
 
 Exemplo de análise SWOT © r0b\_ / Adobe Stock
 
-Uma vez que são considerados tanto os factores ambientais como os factores internos da empresa, a análise SWOT é um exemplo e uma **ferramenta importante para o planeamento estratégico empresarial**.
+Uma vez que são considerados tanto o ambiente como os fatores internos da empresa, a análise SWOT é um exemplo e uma **ferramenta importante para o planeamento estratégico empresarial**.
 
-### Para realizar uma análise SWOT
+## Como realizar uma análise SWOT
 
-A melhor maneira de o fazer é [planear]({{< relref "posts/workshop-planen" >}}) um [workshop]({{< relref "posts/workshop-planen" >}}) em que as suas equipas façam um brainstorming em conjunto sobre as quatro categorias. **Deve reunir** todas as **ideias numa matriz**. Um mapa mental num quadro branco ou um modelo de análise SWOT em Excel ou Word que explique a análise SWOT de forma simples pode ajudar no início.
+A melhor maneira de o fazer é [planear um workshop]({{< relref "posts/workshop-planen" >}}) em que as suas equipas façam um brainstorming em conjunto sobre as quatro categorias. Deve reunir todas as **ideias numa matriz**. No início, um mapa mental num quadro branco ou um modelo de análise SWOT em Excel ou Word que explique a análise SWOT de forma simples pode ajudar.
 
 Mas o que pertence às quatro categorias?
 
-### Análise SWOT: exemplo das categorias
+## Análise SWOT: exemplo das categorias
 
-Nas quatro categorias, analise o estado actual da sua empresa e o ambiente empresarial. Proceder como se segue:
+Nas quatro categorias, analisa o estado atual da sua empresa e do ambiente empresarial. Proceda da seguinte forma:
 
-1. **Forças**: Os pontos fortes da sua empresa são todas as características que fazem com que ela se destaque da concorrência. A análise SWOT contém então, por exemplo:
+1. **Pontos fortes (Strengths)**: os pontos fortes da sua empresa são todas as características que a distinguem particularmente da concorrência. A análise SWOT contém então, por exemplo:
     - Produtos inovadores
-    - Excelente serviço ao cliente
-    - Conhecimentos tecnológicos
-2. **Fraquezas**: Os pontos fracos representam as desvantagens da sua empresa na concorrência geral. Na análise SWOT, podem ser, por exemplo:
+    - Um serviço ao cliente excelente
+    - Know-how tecnológico
+2. **Pontos fracos (Weaknesses)**: os pontos fracos representam as desvantagens da sua empresa na concorrência em geral. Na análise SWOT, podem ser, por exemplo:
     - Dependência de fornecedores
     - Falta de know-how no desenvolvimento de produtos
-    - Falta de investimento em tecnologias futuras
-3. **Oportunidades**: Oportunidades são fatores do ambiente de negócios que representam vantagens para a empresa. Por exemplo, o seguinte é relevante para a análise SWOT:
+    - Falta de investimento em tecnologias de futuro
+3. **Oportunidades (Opportunities)**: as oportunidades são fatores do ambiente empresarial que representam vantagens para a empresa. Para a análise SWOT são relevantes, por exemplo:
     - Tendências na sociedade
     - Normas legais
     - Desenvolvimentos tecnológicos
-4. **Riscos (ameaças)**: Já os riscos são fatores do ambiente empresarial que significam desvantagens ou mesmo perigos para a empresa. Por exemplo:
+4. **Ameaças (Threats)**: já as ameaças são fatores do ambiente empresarial que significam desvantagens ou mesmo perigos para a empresa. Por exemplo:
     - Alterações nas taxas de câmbio
     - Novos concorrentes
-    - Desenvolvimentos tecnológicos que tornarão o produto redundante no futuro
+    - Desenvolvimentos tecnológicos que tornarão o produto supérfluo no futuro
 
-Além disso, preste atenção às dicas a seguir ao conduzir sua análise.
+Além disso, preste atenção às dicas seguintes ao realizar a sua análise.
 
-### Dicas para a realização da análise SWOT
+## Dicas para a realização da análise SWOT
 
-Ao analisar os factores externos num exemplo de análise SWOT, deve ter em conta que uma análise SWOT consiste simplesmente em resolver dois problemas. Como é que **pode acompanhar as tendências do mercado** e **como é que pode prever e ajudar a moldá-las**? Afinal de contas, o objetivo não é apenas acompanhar, mas também inspirar os seus clientes.
+Ao analisar os fatores externos num exemplo de análise SWOT, deve ter em conta que uma análise SWOT consiste em resolver dois problemas. Como é que **pode acompanhar as tendências do mercado** e **como é que pode prevê-las e ajudar a moldá-las**? Afinal, não quer apenas seguir a corrente, mas entusiasmar os seus clientes.
 
-Deve também escolher um [modelo de análise SWOT]({{< relref "templates/operations/swot-analysis" >}}) para facilitar o seu trabalho. A análise começa com a escolha da ferramenta certa e deve também pensar em reunir a equipa certa.
+Escolha também um [modelo de análise SWOT]({{< relref "templates/operations/swot-analysis" >}}) para facilitar o seu trabalho. A análise começa com a escolha da ferramenta certa e deve ainda pensar na constituição da equipa adequada.
 
-O processo [de balanço]({{< relref "posts/inventarliste-erstellen" >}}) é muito moroso. Quem pode ser destacado para as reuniões e seminários? São necessários conhecimentos especializados de vários departamentos. **Que colegas têm uma visão dos pontos fortes, pontos fracos, oportunidades e riscos da sua empresa e do seu ambiente de negócios?** O ideal seria reunir uma equipa de dez funcionários.
+O [balanço]({{< relref "posts/inventarliste-erstellen" >}}) implica um grande investimento de tempo. Quem pode dispensar para as reuniões e os workshops? Além disso, são necessárias competências de vários departamentos. **Que colegas têm uma visão dos pontos fortes, dos pontos fracos, das oportunidades e das ameaças da sua empresa e do seu ambiente empresarial?** O ideal seria reunir uma equipa de dez colaboradores.
 
-![Uma equipe fala sobre um novo exemplo de análise SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Uma equipa fala sobre um novo exemplo de análise SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 
-Uma equipe fala sobre um exemplo de análise SWOT © weedezign / Adobe Stock
+Uma equipa fala sobre um exemplo de análise SWOT © weedezign / Adobe Stock
 
-**Outra dica:** seja criativo. Organize os workshops de brainstorming de forma a que as (novas) ideias surjam de forma divertida.
+**Outra dica:** seja criativo. Organize os workshops de brainstorming de forma a que as (novas) ideias surjam de forma lúdica.
 
-### Que estratégias você pode derivar da análise?
+## Que estratégias pode retirar da análise?
 
-A [análise SWOT](https://de.wikipedia.org/wiki/SWOT-Analyse) resulta em quatro direcções diferentes. Para tal, compara os pontos fortes e fracos da sua empresa com as oportunidades e os riscos do ambiente empresarial:
+Da análise SWOT resultam **quatro orientações diferentes**. Para tal, relaciona os pontos fortes e fracos da sua empresa com as oportunidades e as ameaças do ambiente empresarial:
 
-1. **Expandir** (combinação força-oportunidade): Os pontos fortes aumentam a viabilidade de suas oportunidades. Veja quais oportunidades você pode explorar com sucesso com quais pontos fortes da sua empresa. Faz sentido expandir ainda mais determinadas áreas de negócios ou áreas de produtos?
-2. **Alcançar** (combinação fraqueza-oportunidade): Existe uma oportunidade que você só poderá concretizar se compensar uma fraqueza interna? A sua gestão tem que tomar uma decisão aqui: você deve investir para compensar os pontos fracos? Então você pode aproveitar a oportunidade.
-3. **Cobertura** (combinação força-risco): Ao avaliar os riscos, você deve se perguntar quais riscos sua empresa pode combater com quais forças. Um ponto forte pode potencialmente transformar um risco em uma oportunidade se você reagir antecipadamente?
-4. **Evitar** (combinação fraqueza-risco): Onde as fraquezas encontram os riscos? Você deve ter um cuidado especial aqui. Pense em como você poderia se proteger do perigo. Que atividades, se houver, você deve evitar? Você deve se retirar completamente de uma área de negócios?
+1. **Expandir** (combinação ponto forte-oportunidade): os pontos fortes aumentam a viabilidade das suas oportunidades. Veja que oportunidades pode aproveitar com sucesso e com que pontos fortes da sua empresa. Faz sentido expandir ainda mais determinadas áreas de negócio ou de produtos?
+2. **Recuperar** (combinação ponto fraco-oportunidade): existe uma oportunidade que só pode concretizar se compensar um ponto fraco interno? Aqui, a sua gestão tem de tomar uma decisão: deve investir-se na recuperação dos pontos fracos? Assim, poderá aproveitar a oportunidade em seguida.
+3. **Salvaguardar** (combinação ponto forte-ameaça): ao avaliar as ameaças, deve perguntar-se a que ameaças a sua empresa pode responder e com que pontos fortes. Poderá um ponto forte transformar até uma ameaça numa oportunidade, se reagir atempadamente?
+4. **Evitar** (combinação ponto fraco-ameaça): onde é que os pontos fracos se encontram com as ameaças? Aqui deve ter um cuidado especial. Pense em como se poderia proteger dos perigos. Que atividades deve evitar, se for caso disso? Deve retirar-se por completo de uma área de negócio?
 
-Agora que você já sabe o que pode ser retratado com a análise SWOT, por exemplo, é hora de colocar em prática.
+Agora que sabe o que é possível representar, por exemplo, com a análise SWOT, é altura de passar à implementação prática.
 
 ## Existe um bom modelo de análise SWOT?
 
-A resposta é sim. Não há falta de um modelo para a análise SWOT. Pode encontrar um exemplo de análise SWOT para Excel, Word e programas semelhantes através da pesquisa no Google. Os modelos estão organizados em forma de lista ou de matriz.
+A resposta é sim. Não faltam modelos para a análise SWOT. Pode encontrar um exemplo de análise SWOT para Excel, Word e programas semelhantes através da pesquisa no Google. Os modelos estão organizados em forma de lista ou de matriz.
 
 Aqui pode ver um bom **exemplo de análise SWOT para empresas**:
 
+{{< template-box id="13fe52fa8c814d5bbeb7" >}}
+
 ## Como funciona o modelo de análise SWOT da SeaTable
 
-Gostaria de utilizar o modelo SeaTable para efetuar a sua análise? Então [registe-se]({{< relref "pages/registration" >}}) no nosso sítio Web num instante. Na biblioteca, encontrará o **modelo gratuito**, no qual a análise SWOT é explicada de forma simples e preenchida com dados de amostra. Clique em Utilizar o modelo e comece a sua análise.
+Gostaria de utilizar o modelo da SeaTable para efetuar a sua análise? Então [registe-se]({{< relref "pages/registration" >}}) no nosso site num instante. Na biblioteca, encontrará o **modelo gratuito**, no qual a análise SWOT é explicada de forma simples e preenchida com dados de exemplo. Clique em Utilizar modelo e comece a sua análise.
 
-Na primeira tabela você encontrará exemplos de entradas organizadas de acordo com as quatro categorias SWOT correspondentes. Você insere o fator na primeira coluna antes de determinar sua origem (interna ou externa) e classificá-lo nas categorias individuais.
+Na primeira tabela encontrará entradas de exemplo organizadas de acordo com as quatro categorias SWOT correspondentes. Na primeira coluna, introduz o fator antes de determinar a sua origem (interna ou externa) e de o classificar nas diferentes categorias.
 
-Depois de introduzir todas as informações, pode visualizar a sua matriz completa e registar as medidas possíveis num plano de ação. Graças à solução na nuvem, pode aceder aos seus dados a partir de qualquer lugar e a qualquer momento e partilhá-los com outros utilizadores.
+Depois de introduzir todas as informações, pode visualizar a sua matriz concluída e registar as medidas possíveis num plano de ação. Graças à solução na nuvem, tem a possibilidade de aceder aos seus dados a partir de qualquer lugar e a qualquer momento e de os partilhar com outros utilizadores.
 
-## Conclusão
+## Conclusão: realizar a análise SWOT com um modelo
 
-Com uma análise SWOT, é possível determinar a situação da empresa e **delinear cenários para o futuro**. Utiliza as quatro categorias de pontos fortes, pontos fracos, oportunidades e ameaças e considera factores internos e externos.
+Com uma análise SWOT determina em que situação se encontra a sua empresa e pode **delinear cenários para o futuro**. Serve-se das quatro categorias – pontos fortes, pontos fracos, oportunidades e ameaças – e considera tanto os fatores internos como os externos.
 
-Registe-se gratuitamente no SeaTable para **começar a fazer o seu exemplo de análise SWOT**. Um modelo gratuito que explica simplesmente a análise SWOT ajudá-lo-á a realizá-la.
+Registe-se gratuitamente na SeaTable para **começar com o seu exemplo de análise SWOT**. Um modelo gratuito que explica a análise SWOT de forma simples ajudá-lo-á na sua realização.

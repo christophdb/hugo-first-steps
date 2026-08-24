@@ -127,11 +127,35 @@ Ein sorgfältig erstellter Plan ist die Grundlage für den Erfolg Ihrer Kampagne
 
 ### Direkt loslegen mit Ihrer individuellen Marketing Plan Vorlage
 
-Ob [Marketingkampagne]({{< relref "templates/marketing/content-calendar" >}}), Social-Media- oder Redaktionsplan, Konkurrenzanalyse, Kundenfeedback oder NPS Fragebogen – für jede Marketingplanung gibt es bei SeaTable fertige Vorlagen, die alle wichtigen Aspekte beinhalten und sich gleichzeitig flexibel an Ihre Bedürfnisse anpassen lassen. So können Sie direkt mit Ihrer Marketingplanung loslegen. Eine digitale Vorlage sorgt dafür, dass Sie Ihre Arbeitsprozesse vereinfachen und den Arbeitsaufwand reduzieren können. Mit einem digitalen Tool wie SeaTable haben Sie die Möglichkeit, Ihren Marketingplan zum Beispiel zur Prozessoptimierung zu nutzen und Ihrem gesamten Team so ein effizienteres und kreativeres Arbeiten zu ermöglichen. Und das sind nicht die einzigen Vorteile:  
+Ob [Redaktionsplan]({{< relref "templates/marketing/editorial-plan" >}}), [Social-Media-Plan]({{< relref "templates/marketing/social-media-plan" >}}), [Marketingkampagne]({{< relref "templates/marketing/content-calendar" >}}), [Konkurrenzanalyse]({{< relref "templates/marketing/competitor-analysis" >}}), [Kundenfeedback]({{< relref "templates/marketing/customer-feedback" >}}) oder [NPS Fragebogen]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) – für jede Marketingplanung gibt es bei SeaTable fertige Vorlagen, die alle wichtigen Aspekte beinhalten und sich gleichzeitig flexibel an Ihre Bedürfnisse anpassen lassen. So können Sie direkt mit Ihrer Marketingplanung loslegen. 
 
-- Als digitales Tool macht SeaTable es möglich, wiederkehrende Tätigkeiten über alle Projektphasen hinweg zu automatisieren. Das spart wertvolle Zeit.
-- Dank übersichtlicher und detaillierter Planung hilft das Tool, Projekte transparent zu organisieren sowie zeitlich und inhaltlich zu steuern.
-- Als zentrales System, das alle Informationen enthält, sorgt SeaTable dafür, dass jedes Teammitglied die Ziele, Maßnahmen und Fristen eines Projektes kennt und so seine Arbeit effizient einteilen kann 
+{{< tabs
+
+title1="Content-Marketing-Strategie"
+text1="Entwickeln Sie eine Content-Strategie inklusive SEO und Personas für durchdachte Kampagnen."
+id1="791a438b055a4680908c"
+submit1="Template nutzen"
+
+title2="Konkurrenzanalyse"
+text2="Vergleichen und analysieren Sie Wettbewerber, um Marktlücken und USPs zu identifizieren."
+id2="c08760ae51e94e9e9632"
+submit2="Template nutzen"
+
+title3="Redaktionsplan"
+text3="Verwalten Sie Content, Ideen, Termine und Aufgaben im Team an einem zentralen Ort."
+id3="62d7d05bf70348c080e8"
+submit3="Template nutzen"
+
+title4="Social-Media-Plan"
+text4="Planen Sie Social-Media-Posts für all Ihre Kanäle und feiern Sie messbare Erfolge."
+id4="e386be96230744a18802"
+submit4="Template nutzen"  >}}
+
+Eine digitale Vorlage sorgt dafür, dass Sie Ihre Arbeitsprozesse vereinfachen und den Arbeitsaufwand reduzieren können. Mit einem digitalen Tool wie SeaTable haben Sie die Möglichkeit, Ihren Marketingplan zum Beispiel zur Prozessoptimierung zu nutzen und Ihrem gesamten Team so ein effizienteres und kreativeres Arbeiten zu ermöglichen. Und das sind nicht die einzigen Vorteile:  
+
+- Als digitales Tool macht SeaTable es möglich, wiederkehrende Tätigkeiten über alle Projektphasen hinweg zu [automatisieren]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Das spart wertvolle Zeit.
+- Dank übersichtlicher und detaillierter Planung hilft das Tool, [Projekte]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) transparent zu organisieren sowie zeitlich und inhaltlich zu steuern.
+- Als zentrales System, das alle Informationen enthält, sorgt SeaTable dafür, dass jedes Teammitglied die Ziele, Maßnahmen und Fristen eines Projektes kennt und so seine Arbeit effizient einteilen kann.
 - Ob Texte, Bilder oder Datumswerte – SeaTable kann mit jeder Art von Information arbeiten. So haben Sie für Ihre Marketingplanvorlage auch die Möglichkeit, andere Anwendungen und Tools in SeaTable zu integrieren – alles ganz übersichtlich an einem Ort.
 
 ## FAQ – Marketingplan
@@ -147,6 +171,6 @@ Ob [Marketingkampagne]({{< relref "templates/marketing/content-calendar" >}}), S
 - Budget
 - Ideen- und Maßnahmenplan
   {{< /faq >}}
-  {{< faq "Warum sollte man eine Cloud-Lösung wie SeaTable nutzen, um einen Marketingplan zu erstellen? " >}}Die Nutzung eines Cloud-Tools wie z. B. SeaTables bietet einige Vorteile. Zum einen ermöglichen diese Tools ein schnelleres, effizienteres und transparenteres Arbeiten im Team, wodurch Missverständnisse vermieden werden. Zum anderen wird die zeitliche und inhaltliche Steuerung aller Aufgaben erleichtert, wenn Informationen zentral zusammengeführt und jederzeit abgerufen werden können.
+  {{< faq "Warum sollte man eine Cloud-Lösung wie SeaTable nutzen, um einen Marketingplan zu erstellen? " >}}Die Nutzung eines [Cloud-Tools]({{< relref "posts/cloud-computing" >}}) wie z. B. SeaTable bietet einige Vorteile. Zum einen ermöglichen diese Tools ein schnelleres, effizienteres und transparenteres Arbeiten im Team, wodurch Missverständnisse vermieden werden. Zum anderen wird die zeitliche und inhaltliche Steuerung aller Aufgaben erleichtert, wenn Informationen zentral zusammengeführt und jederzeit abgerufen werden können.
 
 {{< /faq >}}

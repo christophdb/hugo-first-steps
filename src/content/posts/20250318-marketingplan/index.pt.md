@@ -23,7 +23,7 @@ Mas o que é exatamente um plano de marketing? Como é que se faz? Que conteúdo
 
 ## O que é um plano de marketing?
 
-Um plano de marketing é a base de qualquer campanha de marketing eficaz. Pense nele como um roteiro que descreve todas as medidas necessárias para abordar os seus grupos de clientes definidos e atingir os seus objectivos. O seu plano deve servir como um documento central que contém as actividades de marketing actuais e futuras dentro de um período de tempo definido, como um importante **guia de ação para o seu departamento de marketing** e também para toda a empresa. Isto fornece às suas equipas uma ferramenta para definir **prioridades, planear e implementar medidas de forma estruturada** e para as comunicar de forma consistente ao mundo exterior. Dependendo do objetivo definido e da estratégia global, os planos de marketing podem incluir actividades em vários canais ou apenas num canal. São exemplos de planos de marketing
+Um plano de marketing é a base de qualquer campanha de marketing eficaz. Pense nele como um roteiro que descreve todas as medidas necessárias para abordar os seus grupos de clientes definidos e atingir os seus objectivos. O seu plano deve servir como um documento central que contém as actividades de marketing actuais e futuras dentro de um período de tempo definido, como um importante **guia de ação para o seu departamento de marketing** e também para toda a empresa. Isto fornece às suas equipas uma ferramenta para definir **prioridades, planear e implementar medidas de forma estruturada** e para as comunicar de forma consistente ao mundo exterior. Dependendo do objetivo definido e da estratégia global, os planos de marketing podem incluir actividades em vários canais ou apenas num canal. São exemplos de planos de marketing:
 
 - Plano para as redes sociais
 - Plano de marketing de produtos
@@ -43,9 +43,9 @@ Antes de nos aprofundarmos na melhor forma de criar um plano de marketing, devem
 - A **estratégia de marketing** formula os objectivos a longo prazo e os elementos do conceito de marketing em termos concretos. Desta forma, formula-se um caminho básico desde o estado atual até ao estado alvo planeado. Depois de ter definido a sua estratégia, pode derivar um plano coerente a partir dela.
 - O **plano de marketing** serve, em última análise, para implementar a sua estratégia a nível operacional. Por conseguinte, primeiro é necessária uma estratégia, que, por sua vez, é precedida pela criação de um conceito de marketing, antes de se poder elaborar um plano de marketing. Só então é possível definir medidas concretas, determinar orçamentos para canais individuais e definir objectivos específicos e períodos de tempo para as medidas.
 
-## Porque é que se deve desenvolver um plano de marketing?
+## Porque é que deve desenvolver um plano de marketing?
 
-Com um plano de marketing bem pensado, cria-se a base para o trabalho bem sucedido da sua equipa. Sem um plano claro, as suas medidas não serão capazes de se interligar, mas irão flutuar lado a lado como bolhas de sabão e afastar-se. Para além de campanhas concretas e medidas individuais, as empresas também obtêm outros conhecimentos importantes:
+Com um plano de marketing bem pensado, cria a base para o trabalho bem sucedido da sua equipa. Sem um plano claro, as suas medidas não serão capazes de se interligar, mas irão flutuar lado a lado como bolhas de sabão e afastar-se. Para além de campanhas concretas e medidas individuais, as empresas também obtêm outros conhecimentos importantes:
 
 **Análise da concorrência:** Antes de poder criar um plano de marketing, precisa de olhar mais de perto para o seu mercado. Quem são os seus concorrentes? Como e onde é que eles se posicionam? Isto dar-lhe-á uma melhor compreensão do ambiente em que opera com a sua oferta.
 
@@ -71,34 +71,34 @@ Antes de poder definir as medidas adequadas para os seus projectos de marketing,
 
 Uma vez definida a situação atual, o passo seguinte é determinar os objectivos que gostaria de alcançar num futuro próximo, médio e distante.
 
-### 2\. Formule sua visão e objetivos
+### 2\. Formule a sua visão e os seus objectivos
 
 Agora já sabe qual é a situação do seu departamento de marketing. Agora é hora de descobrir a direção que as suas medidas de marketing devem tomar: Qual é o seu objetivo? O melhor é utilizar o método SMART como guia e escolher metas que sejam específicas, mensuráveis, realizáveis, relevantes para os objectivos da empresa e com prazos definidos. Neste ponto da criação do plano de marketing, lembre-se também de definir métricas e pontos de referência ou objectivos para análise posterior. Depois de ter tudo claramente definido, pode determinar os pontos de partida e de chegada do seu plano de marketing.
 
 ### 3\. Dê uma olhadela ao seu grupo-alvo
 
-Antes de começar a planejar as etapas específicas necessárias para atingir seu objetivo, você deve saber quem é seu grupo-alvo. Planear actividades de marketing específicas sem saber para quem pode funcionar, mas está normalmente associado a um desperdício significativo. Por conseguinte, recomenda-se vivamente uma análise cuidadosa do grupo-alvo: a quem pretende dirigir-se com as suas actividades? Quais são as caraterísticas do seu grupo-alvo? Que canais podem ser utilizados para os atingir? Como atrair e manter o interesse do seu grupo-alvo (também a longo prazo)? Com base nestas informações, pode então desenvolver personalidades de utilizadores ideais e típicos, as chamadas buyer personas, às quais as suas medidas são adaptadas quando planeia actividades de marketing.
+Antes de começar a planear os passos específicos necessários para atingir o seu objetivo, deve saber quem é o seu grupo-alvo. Planear actividades de marketing específicas sem saber para quem pode funcionar, mas está normalmente associado a um desperdício significativo. Por conseguinte, recomenda-se vivamente uma análise cuidadosa do grupo-alvo: a quem pretende dirigir-se com as suas actividades? Quais são as caraterísticas do seu grupo-alvo? Que canais podem ser utilizados para os atingir? Como atrair e manter o interesse do seu grupo-alvo (também a longo prazo)? Com base nestas informações, pode então desenvolver personalidades de utilizadores ideais e típicos, as chamadas buyer personas, às quais as suas medidas são adaptadas quando planeia actividades de marketing.
 
 Dedique um pouco mais de tempo a esta etapa e registe todas as informações sobre o seu grupo-alvo e as suas personas em pormenor. Um modelo de plano de marketing ajudá-lo-á a estruturar os seus dados de forma clara. Afinal de contas, o grupo-alvo é o fator decisivo para determinar se uma campanha tem um bom desempenho ou é um fracasso.
 
 ### 4\. Determine o seu orçamento
 
-Agora você conhece seus objetivos, seus grupos-alvo e seus concorrentes. O próximo passo é determinar o orçamento que pretende utilizar para atingir os seus objectivos de marketing. Defina orçamentos para cada canal de marketing e inclua sempre uma reserva. Nesta altura, é importante ter uma visão realista das suas próprias possibilidades, tanto em termos dos recursos que pode investir como dos resultados que podem ser alcançados.
+Agora já conhece os seus objectivos, os seus grupos-alvo e os seus concorrentes. O próximo passo é determinar o orçamento que pretende utilizar para atingir os seus objectivos de marketing. Defina orçamentos para cada canal de marketing e inclua sempre uma reserva. Nesta altura, é importante ter uma visão realista das suas próprias possibilidades, tanto em termos dos recursos que pode investir como dos resultados que podem ser alcançados.
 
 No entanto, a dimensão do orçamento não diz nada sobre o sucesso esperado das campanhas. É verdade que, em geral, se obtém maior sucesso com um orçamento maior. No entanto, isto só acontece se a sua campanha for realmente adaptada às necessidades do grupo-alvo e lhe for apelativa, uma vez que não existe uma correlação inevitável entre a dimensão do orçamento e o sucesso. O que importa aqui é que tenha trabalhado corretamente na terceira etapa e desenvolvido ideias criativas. Se o tiver feito, pode obter bons resultados mesmo com orçamentos baixos; no entanto, se não tiver um grupo-alvo claro, dificilmente será bem sucedido, mesmo com investimentos elevados.
 
 ### 5\. Preencher o plano de marketing com as suas ideias e medidas
 
-Uma vez que o grupo-alvo tenha sido analisado e o orçamento determinado, a verdadeira diversão começa e você pode criar seu plano de marketing e enchê-lo de vida. Já conhece os seus objectivos, o seu USP e os seus potenciais clientes. Agora é altura de desenvolver ideias e criar campanhas. Se ainda não o fez, pense nos canais de comunicação e nas ferramentas de marketing do mix de canais identificados que são realmente relevantes. Determine objectivos intermédios e divida as suas campanhas em fases individuais. Certifique-se de que tem uma combinação equilibrada de canais e medidas no seu plano de ação de marketing. Tenha cuidado para não ver as suas medidas como projectos individuais e separados. Combine diferentes canais e actividades num percurso coerente do cliente para criar uma experiência de marca consistente, por exemplo, correio eletrónico, SEO, anúncios, eventos, o seu sítio Web, etc. É também uma boa ideia utilizar exemplos e modelos de planos de marketing existentes para esta etapa.
+Uma vez que o grupo-alvo tenha sido analisado e o orçamento determinado, começa a verdadeira diversão e pode criar o seu plano de marketing e enchê-lo de vida. Já conhece os seus objectivos, o seu USP e os seus potenciais clientes. Agora é altura de desenvolver ideias e criar campanhas. Se ainda não o fez, pense nos canais de comunicação e nas ferramentas de marketing do mix de canais identificados que são realmente relevantes. Determine objectivos intermédios e divida as suas campanhas em fases individuais. Certifique-se de que tem uma combinação equilibrada de canais e medidas no seu plano de ação de marketing. Tenha cuidado para não ver as suas medidas como projectos individuais e separados. Combine diferentes canais e actividades num percurso coerente do cliente para criar uma experiência de marca consistente, por exemplo, correio eletrónico, SEO, anúncios, eventos, o seu sítio Web, etc. É também uma boa ideia utilizar exemplos e modelos de planos de marketing existentes para esta etapa.
 
 ### 6\. Controlo e análise do sucesso
 
-Um bom plano de ação de marketing não inclui apenas uma visão geral de todas as actividades da campanha, mas também a documentação do progresso da campanha. Isto consolida uma abordagem estruturada e também torna possível manter um olho no progresso e na rentabilidade de uma campanha em todos os momentos. Pode ver imediatamente se uma medida está a ir na direção errada e pode tomar contramedidas numa fase inicial. Quando cria um plano de marketing, deve pensar no seu controlo e na medição do desempenho o mais tardar nesta altura. Os índices, também conhecidos como métricas, podem fornecer conclusões sobre o sucesso das suas actividades e o potencial de otimização. No marketing de desempenho moderno baseado em dados, não há falta de números, independentemente do canal. No entanto, nem todas as métricas são igualmente adequadas para fazer uma declaração fiável sobre o sucesso ou o fracasso de uma campanha. Mais uma vez, o fator decisivo aqui é o objetivo que se pretende atingir. Responda às seguintes perguntas:
+Um bom plano de ação de marketing não inclui apenas uma visão geral de todas as actividades da campanha, mas também a documentação do progresso da campanha. Isto consolida uma abordagem estruturada e também torna possível manter um olho no progresso e na rentabilidade de uma campanha em todos os momentos. Pode ver imediatamente se uma medida está a ir na direção errada e pode tomar contramedidas numa fase inicial. Quando cria um plano de marketing, deve pensar no seu controlo e na medição do desempenho o mais tardar nesta altura. Os índices, também conhecidos como métricas, podem fornecer conclusões sobre o sucesso das suas actividades e o potencial de otimização. No marketing de desempenho moderno baseado em dados, não há falta de números, independentemente do canal. No entanto, nem todas as métricas são igualmente adequadas para fazer uma declaração fiável sobre o sucesso ou o fracasso de uma campanha. Mais uma vez, o fator decisivo aqui é o objetivo que pretende atingir. Responda às seguintes perguntas:
 
 - Que índices pode utilizar para monitorizar e otimizar as medidas?
 - Que indicadores-chave, os KPIs (Key Performance Indicators), pode utilizar para avaliar o sucesso de uma medida?
 - Necessita de ferramentas de análise adicionais?
-- Com que periodicidade se devem avaliar as acções?
+- Com que periodicidade deve avaliar as medidas?
 - De que forma e com que periodicidade deve comunicar os resultados? A quem?
 
 Os instrumentos de marketing e as ferramentas de análise fazem parte de qualquer plano de marketing. Isto permite-lhe ver a preto e branco que medidas foram bem sucedidas e quais foram menos bem sucedidas. Esta experiência pode ser muito valiosa para projectos posteriores.
@@ -111,11 +111,11 @@ O seu plano de marketing está agora completo, mas a parte mais importante ainda
 
 ### Processos claros e comunicação transparente
 
-Quando se cria um plano de marketing e se planeiam campanhas, os processos de trabalho são inevitavelmente considerados. Estabeleça processos e responsabilidades claros. Comunique o seu plano dentro da empresa e faça com que todos os departamentos afectados participem. A melhor campanha de geração de contactos não produzirá resultados úteis se o departamento de vendas não tiver conhecimento da mesma e se não houver diálogo antes e durante a campanha. Torne o seu plano e a sua comunicação transparentes para que os membros da equipa e as partes interessadas envolvidas estejam sempre a par do estado atual. Isto evitará pedidos de informação desnecessários ou decisões baseadas em informações desactualizadas.
+Quando se cria um plano de marketing e se planeiam campanhas, os processos de trabalho são inevitavelmente considerados. Estabeleça processos e responsabilidades claros. Comunique o seu plano dentro da empresa e faça com que todos os departamentos afectados participem. A melhor campanha de geração de contactos não produzirá resultados úteis se o seu departamento de vendas não tiver conhecimento da mesma e se não houver diálogo antes e durante a campanha. Torne o seu plano e a sua comunicação transparentes para que os membros da equipa e as partes interessadas envolvidas estejam sempre a par do estado atual. Isto evitará pedidos de informação desnecessários ou decisões baseadas em informações desactualizadas.
 
 ### Planeamento de marketing com ferramentas digitais
 
-Criar um plano de marketing como um modelo em papel é uma opção - mas não necessariamente a mais eficaz. Ou consegue imaginar todos os membros da equipa de marketing a trabalhar com apenas uma folha de papel onde escrevem todos os dados do projeto, fazem correcções, riscam-nos, etc.? As ferramentas digitais para o planeamento de marketing são muito menos complicadas, mais rápidas e mais transparentes. Quer se trate do Hubspot, do SeaTable ou do Asana - [ferramentas de marketing] digitais ({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) como estas ajudam-no a reunir toda a informação, a controlar o tempo e o conteúdo e a apresentar tudo de forma clara para todos os envolvidos.
+Criar um plano de marketing como um modelo em papel é uma opção - mas não necessariamente a mais eficaz. Ou consegue imaginar todos os membros da equipa de marketing a trabalhar com apenas uma folha de papel onde escrevem todos os dados do projeto, fazem correcções, riscam-nos, etc.? As ferramentas digitais para o planeamento de marketing são muito menos complicadas, mais rápidas e mais transparentes. Quer se trate do Hubspot, do SeaTable ou do Asana - as [ferramentas de marketing digitais]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) como estas ajudam-no a reunir toda a informação, a controlar o tempo e o conteúdo e a apresentar tudo de forma clara para todos os envolvidos.
 
 ### Medir, medir, medir: A otimização nunca pára
 
@@ -125,15 +125,39 @@ Já sabe que é importante considerar a análise e a otimização das suas campa
 
 ## Conclusão: Criar um plano de marketing
 
-Um plano cuidadosamente criado é a base para o sucesso das suas campanhas. Cria clareza sobre os objectivos, os canais, as medidas e os funcionários envolvidos, define responsabilidades e melhora a organização e os fluxos de trabalho dentro da equipa. Se for estabelecido em conformidade, você e a sua equipa tornar-se-ão mais eficientes e ganharão tempo valioso para aquilo que realmente faz avançar as suas campanhas: o trabalho criativo. E garante a transparência e a consulta necessárias dentro da empresa. Utilize os nossos seis passos para o seu próximo plano de ação de marketing para atingir os seus objectivos. E se ainda estiver preocupado com o facto de a redação de um plano de marketing ocupar um tempo valioso que preferia gastar noutro lado: Com o nosso modelo de plano de marketing gratuito, está um grande passo mais perto de um plano criado de forma eficiente.
+Um plano cuidadosamente criado é a base para o sucesso das suas campanhas. Cria clareza sobre os objectivos, os canais, as medidas e os funcionários envolvidos, define responsabilidades e melhora a organização e os fluxos de trabalho dentro da equipa. Se for estabelecido em conformidade, ganhará, juntamente com a sua equipa, mais eficiência e tempo valioso para aquilo que realmente faz avançar as suas campanhas: o trabalho criativo. E garante a transparência e a consulta necessárias dentro da empresa. Utilize os nossos seis passos para o seu próximo plano de ação de marketing para atingir os seus objectivos. E se ainda estiver preocupado com o facto de a redação de um plano de marketing ocupar um tempo valioso que preferia gastar noutro lado: Com o nosso modelo de plano de marketing gratuito, está um grande passo mais perto de um plano criado de forma eficiente.
 
 ### Comece já com o seu modelo de plano de marketing personalizado
 
-Quer se trate de [campanha de marketing]({{< relref "templates/marketing/content-calendar" >}}), redes sociais ou plano editorial, análise da concorrência, feedback do cliente ou questionário NPS - a SeaTable tem modelos prontos para cada plano de marketing que contêm todos os aspectos importantes e podem ser adaptados de forma flexível às suas necessidades ao mesmo tempo. Isto significa que pode começar imediatamente com o seu planeamento de marketing. Um modelo digital assegura que pode simplificar os seus processos de trabalho e reduzir a sua carga de trabalho. Com uma ferramenta digital como o SeaTable, pode utilizar o seu plano de marketing para otimizar os processos, por exemplo, e permitir que toda a sua equipa trabalhe de forma mais eficiente e criativa. E estas não são as únicas vantagens:
+Quer se trate de um [plano editorial]({{< relref "templates/marketing/editorial-plan" >}}), de um [plano para as redes sociais]({{< relref "templates/marketing/social-media-plan" >}}), de uma [campanha de marketing]({{< relref "templates/marketing/content-calendar" >}}), de uma [análise da concorrência]({{< relref "templates/marketing/competitor-analysis" >}}), de [feedback do cliente]({{< relref "templates/marketing/customer-feedback" >}}) ou de um [questionário NPS]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) - a SeaTable tem modelos prontos para cada plano de marketing que contêm todos os aspectos importantes e podem, ao mesmo tempo, ser adaptados de forma flexível às suas necessidades. Isto significa que pode começar imediatamente com o seu planeamento de marketing.
 
-- Como ferramenta digital, o SeaTable torna possível automatizar actividades recorrentes em todas as fases do projeto. Isto poupa tempo valioso.
-- Graças a um planeamento claro e detalhado, a ferramenta ajuda a organizar os projectos de forma transparente e a geri-los em termos de tempo e conteúdo.
-- Enquanto sistema centralizado que contém todas as informações, o SeaTable garante que cada membro da equipa conhece os objectivos, as medidas e os prazos de um projeto, podendo assim organizar o seu trabalho de forma eficiente
+{{< tabs
+
+title1="Estratégia de marketing de conteúdo"
+text1="Desenvolva uma estratégia de conteúdo com SEO e personas para campanhas bem pensadas."
+id1="791a438b055a4680908c"
+submit1="Utilizar modelo"
+
+title2="Análise da concorrência"
+text2="Compare e analise os concorrentes para identificar lacunas de mercado e USP."
+id2="c08760ae51e94e9e9632"
+submit2="Utilizar modelo"
+
+title3="Plano editorial"
+text3="Faça a gestão de conteúdos, ideias, prazos e tarefas em equipa num local central."
+id3="62d7d05bf70348c080e8"
+submit3="Utilizar modelo"
+
+title4="Plano para as redes sociais"
+text4="Planeie as publicações para todos os seus canais e celebre êxitos mensuráveis."
+id4="e386be96230744a18802"
+submit4="Utilizar modelo"  >}}
+
+Um modelo digital assegura que pode simplificar os seus processos de trabalho e reduzir a sua carga de trabalho. Com uma ferramenta digital como o SeaTable, pode utilizar o seu plano de marketing para otimizar os processos, por exemplo, e permitir que toda a sua equipa trabalhe de forma mais eficiente e criativa. E estas não são as únicas vantagens:
+
+- Como ferramenta digital, o SeaTable torna possível [automatizar]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) actividades recorrentes em todas as fases do projeto. Isto poupa tempo valioso.
+- Graças a um planeamento claro e detalhado, a ferramenta ajuda a organizar os [projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) de forma transparente e a geri-los em termos de tempo e conteúdo.
+- Enquanto sistema centralizado que contém todas as informações, o SeaTable garante que cada membro da equipa conhece os objectivos, as medidas e os prazos de um projeto, podendo assim organizar o seu trabalho de forma eficiente.
 - Quer sejam textos, imagens ou valores de datas - o SeaTable pode trabalhar com qualquer tipo de informação. Também tem a opção de integrar outras aplicações e ferramentas no SeaTable para o seu modelo de plano de marketing - tudo claramente organizado num único local.
 
 ## FAQ - Plano de marketing
@@ -149,6 +173,6 @@ Quer se trate de [campanha de marketing]({{< relref "templates/marketing/content
 - Orçamento
 - Ideia e plano de ação
   {{< /faq >}}
-  {{< faq "Porque é que deve utilizar uma solução na nuvem como o SeaTable para criar um plano de marketing? " >}}A utilização de uma ferramenta na nuvem, como o SeaTables, oferece várias vantagens. Em primeiro lugar, estas ferramentas permitem um trabalho de equipa mais rápido, mais eficiente e mais transparente, o que evita mal-entendidos. Em segundo lugar, é mais fácil gerir o tempo e o conteúdo de todas as tarefas quando a informação está centralizada e pode ser acedida a qualquer momento.
+  {{< faq "Porque é que deve utilizar uma solução na nuvem como o SeaTable para criar um plano de marketing? " >}}A utilização de uma [ferramenta na nuvem]({{< relref "posts/cloud-computing" >}}), como o SeaTable, oferece várias vantagens. Em primeiro lugar, estas ferramentas permitem um trabalho de equipa mais rápido, mais eficiente e mais transparente, o que evita mal-entendidos. Em segundo lugar, é mais fácil gerir o tempo e o conteúdo de todas as tarefas quando a informação está centralizada e pode ser acedida a qualquer momento.
 
 {{< /faq >}}
