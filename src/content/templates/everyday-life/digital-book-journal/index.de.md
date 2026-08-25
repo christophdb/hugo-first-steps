@@ -17,7 +17,7 @@ sections:
       text: 'Ungelesene Bücher stapeln sich, Lieblingszitate verschwinden auf losen Zetteln und wichtige Gedanken und Learnings aus gelesenen Büchern geraten in Vergessenheit. Gleichzeitig sind Rezensionen, Leseziele und Reading Challenges über verschiedene Apps verstreut. Doch mit der kostenlosen Book Journal Vorlage von SeaTable **bringen Sie Ordnung in Ihr Leseleben**: Nutzen Sie SeaTable als **App für gelesene Bücher, um Lieblingszitate und Gedanken** digital zu erfassen. Mit dieser flexiblen Vorlage gestalten Sie Ihr digitales Bücherregal!'
       classes:
           - bg-white
-      template: 
+      template: '61554681ce2a4f8a8f26'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
             link_to_template: true
