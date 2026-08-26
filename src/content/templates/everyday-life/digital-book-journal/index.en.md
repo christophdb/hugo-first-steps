@@ -1,21 +1,21 @@
 ---
 title: 'Digital Book Journal'
-description: 'Digital Book Journal Template for Avid Readers & Book Clubs: Organize Your Reading Lists, Quotes, and Notes!'
+description: 'Digital book journal template for avid readers and book clubs: collect reading lists, quotes and notes in one clear structure.'
 date: '2025-07-18'
 url: '/template/book-journal-template/'
 category: 'everyday-life'
 functions:
 seo:
     title: "Book Journal Template: Free App for Books You've Read"
-    description: 'Digital Book Journal Template for Avid Readers & Book Clubs: Design Your Own Bookshelf. Create Your Own Book Journal Now!'
+    description: 'Digital book journal template for avid readers and book clubs: design your bookshelf. Create your own book journal now!'
 draft: true    
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'Book Journal Template for Your Digital Bookshelf'
-      text: 'Unread books pile up, favorite quotes get lost on loose pieces of paper, and important thoughts and lessons from books you’ve read slip into oblivion. At the same time, reviews, reading goals, and reading challenges are scattered across various apps. But with SeaTable’s free Book Journal template, **you can bring order to your reading life**: Use SeaTable as an **app for books you’ve read to digitally record your favorite quotes and thoughts**. With this flexible template, you can design your own digital bookshelf!'
+      title: 'Book Journal Template for Your Digital Bookshelf and Reading Log'
+      text: 'Unread books pile up, favourite quotes get lost on scraps of paper, and the thoughts and learnings from every book you finish quietly fade away. At the same time, your reviews, reading goals and reading challenges are scattered across several apps. With the free book journal template from SeaTable, **you bring order to your reading life**: use SeaTable as an **app for books you have read and capture your favourite quotes and thoughts** digitally. This flexible template lets you design your digital bookshelf, adapt it to the way you read and keep everything you have read within easy reach, from quotes to ratings.'
       classes:
           - bg-white
       template: 61554681ce2a4f8a8f26
@@ -26,28 +26,28 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: A Personalized Reading Journal and Organized Digital Bookshelf
-      subtitle: The Benefits of a Digital Book Journal
+      title: 'A Personal Reading Journal and an Organized Digital Bookshelf'
+      subtitle: Benefits of a digital journal
       text: 
       items:
         - icon: 'edit'
           headline: 'Flexible and intuitive'
-          text: 'The user-friendly book journal template is easy to use and can be easily customized to suit your preferences and structure. '
+          text: 'The book journal template is easy to use from the very first entry and adapts effortlessly to your structure, your categories and the way you want to document every book you read, with no technical setup and no rigid structure required.'
         - icon: 'pencil'
-          headline: 'Structure Instead of Chaos'
-          text: "Organize each book by genre, author, and mood. That way, it's easy to spot the stories that really captivated you."
+          headline: 'Structure instead of chaos'
+          text: 'Sort every book by genre, author and reading mood. That way you can see at a glance which stories genuinely captivated you, which ones you want to recommend in your reading circle and which deserve a second reading later in the year.'
         - icon: 'eye'
-          headline: 'Digital Bookshelf'
-          text: Use SeaTable as an app to track the books you've read, and showcase your digital bookshelf in the gallery view with covers, titles, and genres.
+          headline: 'Your digital bookshelf'
+          text: 'Use SeaTable as an app for books you have read and present your digital bookshelf in the gallery view, complete with its cover, title and genre. It feels just like browsing your own shelves, but from any device and at any time of day.'
         - icon: 'robot'
-          headline: 'Built-in AI Support'
-          text: 'Take advantage of built-in AI features for smart data processing, such as summarization, OCR, and classification.'
+          headline: 'Built-in AI assistance'
+          text: 'Take advantage of built-in AI features for smart data processing: automatic summaries of your longer reviews, reliable text recognition via OCR, or automatic classification of your books by genre, style and mood – all inside your base.'
         - icon: 'table'
-          headline: 'Available on mobile'
-          text: Access your Book Journal anytime from your smartphone. Jot down new quotes or thoughts on the fly while you're reading on the go.
+          headline: 'Available on your phone'
+          text: 'Open your book journal on your smartphone whenever and wherever you like. Record new quotes or spontaneous thoughts straight away, the moment they come to mind, whether you are reading on the train, in a café or away on a longer holiday.'
         - icon: 'chart-line'
-          headline: 'Share with friends'
-          text: Share your digital book journal with friends or your book club, and add the books you've read together to the app so you can discuss them.
+          headline: 'Share it with friends'
+          text: 'Keep your digital book journal together with friends or with your whole book club and add all the books you have read together to the app. Every meeting then starts from a shared, well-documented basis for a much richer discussion.'
 
     - name: "customer-1"
       weight: 4
@@ -71,45 +71,45 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Documenting Reading Experiences in a Structured Way'
-      subtitle: 'Capturing Thoughts and Takeaways'
-      description: 'With the Book Journal template from the [AI No-Code Platform]({{< relref "/" >}}) SeaTable, you can create a digital book journal that combines a book club, a collection of quotes, a digital bookshelf, and a reading challenge. Take advantage of the features of traditional book journal apps and the flexibility of a fully customizable no-code solution, without being tied to rigid reading apps.'
+      title: 'Document Your Reading in a Structured Way'
+      subtitle: 'Thoughts and key takeaways'
+      description: 'With the book journal template from the [AI no-code platform]({{< relref "/" >}}) SeaTable, you create a digital book journal that combines book club, quote collection, digital bookshelf and reading challenge in one place. Benefit from the features of conventional book journal apps and the flexibility of a freely customizable no-code solution, without being tied to rigid reading apps. Everything is managed in a single database that you can extend whenever you like, with exactly the columns, views and reading statistics you actually need.'
       items:
-      - text: '**From Quote to Review**: Save your favorite quotes along with context, your own interpretation, and a link to the book. This turns the Book Journal template into a creative collection of ideas for book club discussions, social media posts on Bookstagram, or re-reads.'
-      - text: '**Visualize Reading Challenges**: Use our app for books you’ve read to track reading challenges like “12 Books in 12 Months,” “Battle of the Books,” or genre bingos.'
-      - text: '**Reading as a Reflective Routine**: Keep a reflective book journal where you record what you’ve learned, key takeaways, and your overall impressions.'
-      - text: '**GDPR-Compliant**: With SeaTable, your data is hosted on servers operated by the Swiss company Exoscale in Frankfurt in compliance with the GDPR.' 
+      - text: '**From quote to review**: save your favourite quotes together with their context, your own interpretation and a link to the book. The template becomes a creative pool of ideas for book club discussions, Bookstagram posts or re-reads.'
+      - text: '**Visualize reading challenges**: use our app for books you have read to document challenges such as "12 books in 12 months", "Battle of the Books" or a genre bingo, with your progress always in view.'
+      - text: '**Reading as a reflective routine**: keep a thoughtful book journal in which you record your learnings, key takeaways and the mood each book left you with once you finished it.'
+      - text: '**GDPR-compliant**: at SeaTable, your data is hosted in line with the GDPR on servers run by the Swiss company Exoscale in Frankfurt, with European data protection guarantees.'
       image_position: [left]
       image: '/images/template_page_bookjournal_01.png'
-      image_alt: 'Book Journal Template with a List of Questions for Structured Reviews'   
+      image_alt: 'Book journal template from SeaTable with a list of guiding questions for writing well-structured book reviews'   
 
     - name: "content-25"
       weight: 10
-      title: 'Digital Book Journal with Many Features'
-      subtitle: "It's that easy"
+      title: 'A Digital Book Journal with Many Features'
+      subtitle: "It's really that simple"
       items:
-      - headline: "Book Collection and Wish List as a Gallery"
-        text: 'Record every book you own, want, or are currently reading. You can organize entries into categories and add details such as the author, publication date, genre, and a short description. The gallery view displays all covers side by side, so you can **browse your digital book collection just like a bookshelf**.'
+      - headline: 'Book Collection and Wish List as a Gallery'
+        text: 'Record every book you own, wish for or are currently reading right now. You sort entries into categories and add details such as the author, publication date, genre and a short description. The gallery view shows all covers side by side, so you can **browse your digital collection just like a real bookshelf** and decide on your next read within a few seconds.'
         image: '/images/template_page_bookjournal_02.png'
-        image_alt: 'Book Journal Template with Gallery View for Your Digital Bookshelf'
-      - headline: "Keep a Reading Journal and Track Your Reading Progress"
-        text: "The 'Diary' table is your reading journal, where you can document each reading session. Linked to your book collection, you can record the date, notes, mood, and spontaneous thoughts. This creates **a continuous book journal that shows your reading progress**."
+        image_alt: 'Book journal template with the gallery view showing your digital bookshelf with all the book covers side by side'
+      - headline: 'Keep a Reading Diary and Track Progress'
+        text: 'The "Diary" table is your reading log, where you document every reading session with the date, notes, mood and spontaneous thoughts. Because it is linked to your book collection, every entry stays attached to the right title. The result is **a continuous book journal that makes your reading progress visible** and shows how consistently you read across the year.'
         image: '/images/template_page_bookjournal_03.png'
-        image_alt: 'Book Journal Template with a Clear Reading List, Including Ratings and Reading Dates'
-      - headline: 'Writing Structured Reviews'
-        text: 'For every book you finish, write a structured review, **guided by specific questions**. Sections on writing style & suspense, character development, world-building, and key takeaways will help you articulate your thoughts clearly.'
+        image_alt: 'Book journal template with a clear reading list including ratings and the date each book was finished'
+      - headline: 'Write Structured, Comparable Reviews'
+        text: 'For every book you finish, write a structured review, **guided by targeted questions**. Fields for writing style and suspense, character development, world-building and key takeaways help you put your thoughts into clear words. Your reviews become comparable with one another and are ready for the next book club meeting or for your social media channels.'
         image: '/images/template_page_bookjournal_04.png'
-        image_alt: 'Book Journal Template with Book Profiles for Background Information'
-      - headline: 'Battle of the Books'
-        text: 'In the “Battle of the Books,” you pit your favorites against each other until a highlight of the year is determined—visualized with an org chart plugin that displays the tournament bracket. This keeps your Book Journal template **fun and motivating, rather than turning it into a dry archive**.'
+        image_alt: 'Book journal template with book profiles that gather all the background information on each individual title'
+      - headline: 'Battle of the Books: Your Annual Duel'
+        text: 'In the "Battle of the Books" you pit your favourite titles against each other, round after round, until the highlight of the year is decided – visualized with an org chart plugin that displays the tournament bracket. This keeps your book journal template **playful and motivating instead of turning it into a dry archive** that nobody ever wants to open again.'
         image: '/images/template_page_bookjournal_05.png'
-        image_alt: 'Book Journal Template with a built-in Battle of the Books chart.'    
+        image_alt: 'Book journal template with the Battle of the Books tournament bracket built in as a clearly arranged org chart'    
       
     - name: "banner-3"
       weight: 12
-      title: 'Collect quotes, organize your thoughts, write reviews—with SeaTable'
+      title: 'Collect quotes, organize your thoughts, write reviews – all with SeaTable'
       buttons:
-        - label: Jetzt testen
+        - label: Test the Book Journal template
           link: pages/registration
           id: en-vorlage-bookjournal-registration-2
 
@@ -118,36 +118,36 @@ sections:
       classes:
         - curved
         - bg-gray-100
-      title: 'Your Personal Bookkeeping App'
+      title: 'Your Personalized Book Journal App'
       subtitle: 
       items:
-      - text: 'With SeaTables’ built-in [no-code app]({{< relref "posts/20250318-app-erstellen" >}}), you can create a user-friendly, clean front end for your very own digital book journal. Through the app, you can easily access your collection, reading journal, reviews, and quotes. This lets you combine a digital bookshelf with a reading tracker and an author overview—ideal for avid readers, book clubs, and Bookstagrammers.'
+      - text: 'With the [no-code app]({{< relref "posts/20250318-app-erstellen" >}}) built into SeaTable, you create a clear, user-friendly front end for your very own digital book journal. Through the app you conveniently access your collection, your reading log, your reviews and your quotes, on your computer as well as on your phone. This combines a digital bookshelf with a reading tracker and an author overview – ideal for avid readers, book clubs and Bookstagrammers. And all of it without a single line of code: the app is built from your existing tables and can be adjusted whenever your reading habits change.'
       image: '/images/template_page_bookjournal_06.png'
-      image_alt: 'Custom Book Journal App built with SeaTables No-Code App Builder.'      
+      image_alt: 'Custom book journal app created with the no-code App Builder from SeaTable, including a gallery view'      
 
     - name: "content-9"
       weight: 16
-      title: 'Book Journal Template with Built-in AI Features'
-      subtitle: 'Your Smart Reading Assistant'
-      description: 'With SeaTable, you can take advantage of powerful, integrated AI-powered automation. This allows you to enhance your Book Journal template with **smart features for reviews and categorization**—all in compliance with the GDPR, using your own AI server in Germany.'
+      title: 'Book Journal with AI Features'
+      subtitle: 'Your smart reading assistant'
+      description: 'With SeaTable you benefit from powerful, AI-supported automations that are built directly into the platform. This lets you extend your book journal template with **smart support for reviews and categorization** – GDPR-compliant and with a dedicated AI server in Germany. You need no additional tools, no external subscriptions and no technical knowledge to get started.'
       items:
-      - headline: 'Summarize reviews'
-        text: 'Summarize detailed reviews into short, pithy statements—perhaps as a basis for discussion in a book club or as a brief book recommendation for social media.'
+      - headline: 'Condense your reviews'
+        text: 'Summarize detailed reviews into short, pointed statements – for example as a basis for discussion in your book club or as a concise book recommendation for social media. The AI keeps the essence of your original verdict and your personal tone as it condenses the text.'
         icon: circle-info
-      - headline: 'Categorize books'
-        text: 'Use "Classify" to categorize book entries—for example, based on brief descriptions—into "Classics," "Bestsellers," or "Hidden Gems."'
+      - headline: 'Categorize your books'
+        text: 'Use "Classify" to automatically sort the entries in your book collection based on their short descriptions into categories such as "classic", "bestseller" or "hidden gem" in seconds, without having to work through your entire library manually, title by title yourself.'
         icon: table
-      - headline: 'Extract Details'
-        text: 'Automatically extract information—such as authors, main characters, or settings—from book blurbs or notes. This generates useful data that can help you write a review.'
+      - headline: 'Extract book details'
+        text: 'Use "Extract" to automatically pull authors, main characters or settings out of publisher blurbs or your own notes. This turns loose text into usable, comparable data that supports you when you sit down to write a review or prepare a book club discussion later on.'
         icon: layer-group
-      - headline: 'Extracting Text from Images'
-        text: 'Use the OCR feature to extract text from photos—such as book covers—and automatically add it to your digital book journal. This saves you the trouble of doing it manually.'
+      - headline: 'Read text from images'
+        text: 'Use the OCR feature to lift text from photos, for example from book covers or pages with underlined passages, and transfer it automatically into your digital book journal. This saves you a great deal of manual typing and no favourite quote gets lost along the way.'
         icon: image
-      - headline: 'Use Your Own AI Rules'
-        text: 'Use Custom Prompts to define custom rules for your reading documentation. For example, you can use them to identify reading patterns and evaluate typical reading times per book.'
+      - headline: 'Use your own AI rules'
+        text: 'Define your own individual rules for your reading documentation with Custom Prompts. You can use them to identify reading patterns, evaluate how long you typically take per book and see which genres you move through faster than others over the course of the year.'
         icon: wand-magic-sparkles
       - headline: 'Translate quotes and notes'
-        text: Automatically translate quotes and summaries into other languages. This is especially useful if you're active in international discussion forums.
+        text: 'Automatically translate your quotes, notes and full summaries into other languages. This is particularly useful and quick if you regularly take part in international discussion forums about books or want to share your reviews and favourite quotes with readers in other countries.'
         icon: arrow-right
 
     
@@ -157,31 +157,31 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Book Journal Template by SeaTable'
+      title: 'The Book Journal Template by SeaTable'
       subtitle: 'Transparent and flexible'
-      description: 'From your first wish list to a detailed year-end review: SeaTable’s Book Journal template offers all the features you need for a **functional digital book journal**. It focuses on providing insight into your reading habits, simplifying data entry, and allowing you to flexibly expand your app to track the books you’ve read.'
+      description: 'From your first wish list to a detailed year in review: the book journal template from SeaTable offers all the features that you need for a **genuinely functional digital book journal**. The focus is on full transparency about your reading habits, on simple data entry and on the freedom to extend your app for books you have read whenever you want to take it further.'
       box-position: [right!]
       items:
-      - headline: Transparency
-        text: See at a glance how many books you read each month, which genres you read most often, how your ratings are distributed, and which titles win the most in your reading challenges.
-      - headline: Flexibility
-        text: Forget about scattered sticky notes, pre-formatted notebooks, and rigid apps. Create your own digital book journal tailored to your needs and record the data you need.
+      - headline: Transparency in your reading
+        text: See at a glance how many books you read each month, which genres dominate, how your ratings are distributed and which titles win most often in your reading challenges. Your reading statistics update by themselves.
+      - headline: Complete flexibility, no limits
+        text: Forget scattered sticky notes, pre-structured notebooks and rigid apps. Create your digital book journal exactly the way you imagine it and record only the data you genuinely need, with the columns and views you choose.
 
     - name: "faq"
       weight: 20
-      title: 'FAQ – Book Journal Template by SeaTable'
+      title: 'FAQ – Everything about the Book Journal Template'
       subtitle: 
       items:
-      - q: "Can I use SeaTable as a free app for tracking the books I've read on my smartphone and PC?"
-        a: Yes, with a free SeaTable account, you can use the Book Journal template on both your desktop and mobile devices. 
-      - q: Can I customize the Book Journal template if I want to track specific criteria or genres? 
-        a: Yes, you can customize the Book Journal template at any time to suit your individual needs. 
-      - q: Can I share my Book Journal with friends? 
-        a: Yes, you can easily share individual views or the entire database with other SeaTable users and grant access permissions. This way, you can use the Book Journal template together in a book club, see who has read which book, and exchange reviews and discussion notes.
-      - q: Is the Book Journal template also suitable for beginners who want to create their own Book Journal? 
-        a: Absolutely. The app for books you’ve read is designed so you can get started right away. At the same time, you can add or remove columns as needed if you want to create your own book journal and gradually refine it. 
+      - q: "Can I use SeaTable as a free app for the books I have read on my smartphone and PC?"
+        a: Yes. With a free SeaTable account you can use the book journal template on your desktop as well as on your mobile device. Your data is synchronized automatically, so you always work with the same information on every device.
+      - q: Can I extend the book journal template if I want to track specific criteria or genres? 
+        a: Yes. You can extend the book journal template at any time and adapt it to your individual needs. Add columns for sub-genres, tropes, reading format or any other criterion and create the views that suit the way you read best.
+      - q: Can I share my book journal with friends? 
+        a: Yes. You can easily share individual views or the entire base with other SeaTable users and assign access rights. This way you use the book journal template together in your book club, see who has read which book and exchange reviews and notes.
+      - q: Is the book journal template also suitable for beginners who want to create their own book journal? 
+        a: Absolutely. The app for books you have read is designed so that you can get started right away. At the same time you can add or remove columns whenever you like if you want to create your own book journal and refine it step by step.
       - q: Is the template free to use?
-        a: Yes, you can use our Book Journal template and the accompanying app for books you’ve read for free indefinitely. All you need is a SeaTable Free account, which is free for life.
-      - q: Can I also use SeaTable as a private library catalog? 
-        a: Yes, you can expand the app for your read books into a comprehensive private library database or combine it with our [Book List Template]({{< relref "templates/everyday-life/book-list-library" >}}).        
+        a: Yes. You can use our book journal template and the accompanying app for books you have read free of charge and permanently. All you need is a SeaTable Free account, which is free for life and requires no payment details.
+      - q: Can I also use SeaTable as a private library catalogue? 
+        a: Yes. You can extend the app for the books you have read into a comprehensive private library database or combine it with our [book list template]({{< relref "templates/everyday-life/book-list-library" >}}).        
 ---
