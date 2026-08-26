@@ -8,7 +8,7 @@ functions:
 seo:
     title: "Book Journal Template: Free App for Books You've Read"
     description: 'Digital book journal template for avid readers and book clubs: design your bookshelf. Create your own book journal now!'
-draft: true    
+   
 
 type: pages
 sections:
