@@ -22,6 +22,10 @@ In addition to the **Color cells** option, there is also the possibility to [mar
 
 {{< /warning >}}
 
+**In this how-to video, we'll show you in just a few minutes how to color cells in SeaTable.**
+
+{{< youtube zZrjsQphZaA >}}
+
 ## Coloring by rules or by values
 
 Each column of a table view offers the option **Color column cells**:  
