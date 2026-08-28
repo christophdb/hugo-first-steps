@@ -92,7 +92,7 @@ sections:
       subtitle: 'Beispiel aus der Praxis'
       items:
       - headline: 'Stoffplan-Tabelle für Themen & Fächer'
-        text: 'In der Tabelle "Lernplan" planen Sie jedes Thema im Detail: von Fach und Modul über Priorität und Lernziele bis zu geplanter Lernzeit, Meilensteinen und Lernfortschritt. So halten Sie den gesamten Inhalt Ihrer Prüfungsvorbereitung strukturiert fest und ergänzen bei Bedarf weitere Hinweise zu Skripten, Notizen und Deadlines.'
+        text: 'In der Tabelle "Lernplan" planen Sie jedes Thema im Detail: von Fach und Modul über Priorität und Lernziele bis zu geplanter Lernzeit, Meilensteinen und Lernfortschritt. So halten Sie den gesamten Inhalt Ihrer Prüfungsvorbereitung strukturiert fest, ergänzen bei Bedarf weitere Hinweise zu Skripten, Notizen und Deadlines und nutzen den Lernplan auch als Lerntagebuch-Vorlage.'
         image: '/images/template_page_lernplan_02.png'
         image_alt: 'Tabellarische Themenübersicht mit Lernzielen, Prioritäten, Zeitplanung und Lernfortschritt im digitalen Lernplan'
       - headline: 'Fächer-Tabelle für organisatorische Infos'  
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Lernmanagement'
       subtitle: 'Smarte Automatisierung für Lernende und Dozenten'
-      description: 'Entdecken Sie die leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) in SeaTable! Ihre "Lernplan Vorlage" wird zum smarten Assistenten, der Ihre Prüfungsvorbereitung und Selbstorganisation revolutioniert. Verwandeln Sie Ihr Lernplan-Template in ein intelligentes Zentrum für Stoffplanung, Lernziele und Prüfungstermine. Verabschieden Sie sich von starren PDF- oder Excel-Dateien – erleben Sie maximale Effizienz und Fortschritt auf eine völlig neue Art. Machen Sie Ihren Lernprozess zum Erfolgserlebnis!'
+      description: 'Entdecken Sie die leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) in SeaTable! Ihre "Lernplan Vorlage" wird zum smarten Assistenten, der Ihre Prüfungsvorbereitung und Selbstorganisation revolutioniert. Verwandeln Sie Ihr Lernplan-Template in ein intelligentes Zentrum für Stoffplanung, Lernziele, Lerntagebuch-Vorlage und Prüfungstermine. Verabschieden Sie sich von starren PDF- oder Excel-Dateien – erleben Sie maximale Effizienz und Fortschritt auf eine völlig neue Art. Machen Sie Ihren Lernprozess zum Erfolgserlebnis!'
       items:
       - headline: 'Themen automatisch sortieren'
         text: 'Die KI-Funktion Classify ordnet Ihre Lernthemen automatisch in Kategorien ein. So sehen Sie auf einen Blick, welche Fächer oder Stoffgebiete Sie bereits bearbeitet haben und wo noch Lücken bestehen. Planen Sie gezielt, welche Inhalte als nächstes auf dem Lernplan stehen.'
@@ -185,8 +185,10 @@ sections:
         a: 'Die Lernplan Vorlage macht Ihren Lernfortschritt sichtbar: Fortschrittsbalken, Statusfelder und abgehakte Meilensteine zeigen Ihnen jederzeit, was Sie bereits erreicht haben. Diese visuelle Erfolgskontrolle hilft gegen Prokrastination und Motivationsverlust – besonders in langen Klausurenphasen.'
       - q: "Kann ich Dateien wie PDFs oder Bilder direkt im Lernplan speichern?"
         a: 'Ja, Sie können Skripte, Notizen, Bilder und PDF-Dateien direkt in Ihrer Lernplan Vorlage ablegen und mit dem jeweiligen Thema oder Fach verknüpfen. So sind alle Lernmaterialien zentral gespeichert und immer griffbereit – ohne separate Ordner oder verstreute Dateiablagen.'
+      - q: Eignet sich der Lernplan auch als Lerntagebuch Vorlage?
+        a: Ja, in den Spalten "Progress" und "Notes" können Sie für jede Lerneinheit Ihren Fortschritt und offene oder weitergehende Fragen dokumentieren. Mit der integrierten Lerntagebuch Vorlage können Sie Ihre Lerneinheiten und Lernstrategien bewerten und Ziele mit tatsächlichen Ergebnissen abgleichen. 
       - q: "Eignet sich die Vorlage auch für Lerngruppen?"
-        a: 'Ja, SeaTable unterstützt kollaboratives Lernen in Gruppen. Mit klaren Zugriffsrechten und Rollenberechtigungen können Studenten, Dozenten und Prüfungskandidaten gemeinsam an einem Lernplan arbeiten – mit Kommentaren, Statusfeldern und transparenter Aufgabenverteilung für die gesamte Klausurenphase.'
+        a: 'Ja, SeaTable unterstützt kollaboratives Lernen in Gruppen. Mit klaren Zugriffsrechten und Rollenberechtigungen können Studenten, Dozenten und Prüfungskandidaten gemeinsam an einem Lernplan arbeiten – mit Kommentaren, Statusfeldern und transparenter Aufgabenverteilung für die gesamte Klausurenphase. Der Lernplan eignet sich auch als Lerntagebuch Vorlage, um den Lernfortschritt und offenen Fragen festzuhalten.'
       - q: "Wie unterscheidet sich SeaTable von einem klassischen Lernplan Template in Excel?"
         a: 'Statische Excel- oder PDF-Lernpläne sind bei Verzögerungen schnell veraltet und lassen sich kaum anpassen. Mit SeaTable arbeiten Sie in einer interaktiven Lernplan Vorlage mit Drag-and-Drop, Kalenderansichten, Kanban-Boards und Automatisierungen – ideal für wiederkehrende Prüfungsphasen und komplexe Studienstrukturen.'
       - q: "Kann ich meinen bestehenden Lernplan in SeaTable übernehmen?"

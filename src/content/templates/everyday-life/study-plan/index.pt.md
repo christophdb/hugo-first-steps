@@ -92,7 +92,7 @@ sections:
       subtitle: 'Exemplo prático'
       items:
       - headline: 'Tabela do plano de estudos para temas e disciplinas'
-        text: 'Na tabela «Plano de Estudo», pode planear cada tema em pormenor: desde a disciplina e o módulo, passando pela prioridade e pelos objetivos de aprendizagem, até ao tempo de estudo previsto, aos marcos e ao progresso na aprendizagem. Desta forma, pode registar de forma estruturada todo o conteúdo da sua preparação para os exames e, se necessário, acrescentar mais informações sobre apostilas, notas e prazos.'
+        text: 'Na tabela «Plano de Estudo», pode planear cada tema em pormenor: desde a disciplina e o módulo, passando pela prioridade e pelos objetivos de aprendizagem, até ao tempo de estudo previsto, aos marcos e ao progresso na aprendizagem. Desta forma, pode registar de forma estruturada todo o conteúdo da sua preparação para os exames e, se necessário, acrescentar mais informações sobre apostilas, notas e prazos, e utilize também o plano de estudo como modelo para um diário de estudo.'
         image: '/images/template_page_lernplan_02.png'
         image_alt: 'Resumo temático em formato de tabela com objetivos de aprendizagem, prioridades, cronograma e progresso na aprendizagem no plano de aprendizagem digital'
       - headline: 'Tabela de categorias para informações organizacionais'  
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Gestão da aprendizagem apoiada por IA'
       subtitle: 'Automação inteligente para alunos e professores'
-      description: 'Descubra as poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) no SeaTable! O seu «modelo de plano de estudos» transforma-se num assistente inteligente que revoluciona a sua preparação para os exames e a sua auto-organização. Transforme o seu modelo de plano de estudos num centro inteligente para o planeamento dos conteúdos, os objetivos de aprendizagem e as datas dos exames. Diga adeus aos arquivos rígidos em PDF ou Excel – experimente a máxima eficiência e progresso de uma forma totalmente nova. Transforme o seu processo de aprendizagem numa experiência de sucesso!'
+      description: 'Descubra as poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) no SeaTable! O seu «modelo de plano de estudos» transforma-se num assistente inteligente que revoluciona a sua preparação para os exames e a sua auto-organização. Transforme o seu modelo de plano de estudos num centro inteligente para o planeamento dos conteúdos, os objetivos de aprendizagem, um modelo de diário de aprendizagem e as datas dos exames. Diga adeus aos arquivos rígidos em PDF ou Excel – experimente a máxima eficiência e progresso de uma forma totalmente nova. Transforme o seu processo de aprendizagem numa experiência de sucesso!'
       items:
       - headline: 'Ordenar temas automaticamente'
         text: 'A função de IA «Classify» classifica automaticamente os seus temas de estudo em categorias. Assim, poderá ver num relance quais as disciplinas ou áreas de estudo que já abordou e onde ainda existem lacunas. Planeie de forma específica quais os conteúdos que se seguem no seu plano de estudos.'
@@ -185,8 +185,10 @@ sections:
         a: 'O modelo de plano de aprendizagem torna visível o seu progresso: barras de progresso, campos de estado e marcos marcados mostram-lhe, a qualquer momento, o que já alcançou. Este acompanhamento visual do sucesso ajuda a combater a procrastinação e a perda de motivação – especialmente durante longos períodos de exames.'
       - q: "Posso guardar ficheiros como PDFs ou imagens diretamente no plano de aprendizagem?"
         a: 'Sim, pode guardar guiões, notas, imagens e ficheiros PDF diretamente no seu modelo de plano de estudos e associá-los ao tema ou disciplina correspondente. Desta forma, todos os materiais didáticos ficam armazenados num único local e sempre à mão – sem pastas separadas ou ficheiros dispersos.'
+      - q: O plano de estudo também pode ser utilizado como modelo de diário de estudo?
+        a: Sim, nas colunas «Progresso» e «Notas», pode registar o seu progresso e quaisquer questões por responder ou que exijam acompanhamento para cada unidade de estudo. Com o modelo de diário de estudo integrado, pode avaliar as suas unidades de estudo e estratégias de aprendizagem e comparar os seus objetivos com os resultados efetivos. 
       - q: "Este modelo também é adequado para grupos de estudo?"
-        a: 'Sim, o SeaTable apoia a aprendizagem colaborativa em grupo. Com direitos de acesso e autorizações de funções bem definidos, alunos, docentes e candidatos a exames podem trabalhar em conjunto num plano de aprendizagem – com comentários, campos de estado e uma distribuição transparente de tarefas durante toda a fase de exames.'
+        a: 'Sim, o SeaTable apoia a aprendizagem colaborativa em grupo. Com direitos de acesso e autorizações de funções bem definidos, alunos, docentes e candidatos a exames podem trabalhar em conjunto num plano de aprendizagem – com comentários, campos de estado e uma distribuição transparente de tarefas durante toda a fase de exames. O plano de estudo também pode ser utilizado como modelo de diário de estudo para acompanhar o seu progresso e anotar quaisquer dúvidas que ainda tenha.'
       - q: "Em que medida o SeaTable difere de um modelo clássico de plano de estudos no Excel?"
         a: 'Os planos de estudos estáticos em Excel ou PDF ficam rapidamente desatualizados em caso de atrasos e são difíceis de adaptar. Com o SeaTable, trabalha numa plantilla interativa de plano de estudos com a funcionalidade «arrastar e largar», vistas de calendário, quadros Kanban e automatizações – ideal para períodos de exames recorrentes e estruturas de estudos complexas.'
       - q: "Posso importar o meu plano de aprendizagem atual para o SeaTable?"

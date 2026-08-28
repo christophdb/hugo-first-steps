@@ -91,7 +91,7 @@ sections:
       subtitle: 'Real-world example'
       items:
       - headline: 'Curriculum Table for Topics & Subjects'
-        text: 'In the "Study Plan" table, you can plan each topic in detail: from subject and module to priority and learning objectives, as well as planned study time, milestones, and progress. This allows you to organize all the content of your exam preparation in a structured way and add additional notes on lecture notes, study materials, and deadlines as needed.'
+        text: 'In the "Study Plan" table, you can plan each topic in detail: from subject and module to priority and learning objectives, as well as planned study time, milestones, and progress. This allows you to organize all the content of your exam preparation in a structured way, add additional notes on lecture notes, study materials, and deadlines as needed, and also use the study plan as a template for a study journal.'
         image: '/images/template_page_lernplan_02.png'
         image_alt: 'Tabular overview of topics, including learning objectives, priorities, schedule, and progress tracking in the digital learning plan'
       - headline: 'Subject Table for Organizational Information'  
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-powered learning management'
       subtitle: 'Smart Automation for Students and Instructors'
-      description: 'Discover the powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) in SeaTable! Your "Study Plan Template" becomes a smart assistant that revolutionizes your exam preparation and self-management. Turn your study plan template into a smart hub for curriculum planning, learning goals, and exam dates. Say goodbye to rigid PDF or Excel files—experience maximum efficiency and progress in a whole new way. Turn your learning process into a success story!'
+      description: 'Discover the powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) in SeaTable! Your "Study Plan Template" becomes a smart assistant that revolutionizes your exam preparation and self-management. Turn your study plan template into a smart hub for curriculum planning, learning goals, a learning journal template and exam dates. Say goodbye to rigid PDF or Excel files—experience maximum efficiency and progress in a whole new way. Turn your learning process into a success story!'
       items:
       - headline: 'Sort topics automatically'
         text: 'The AI feature "Classify" automatically organizes your study topics into categories. This lets you see at a glance which subjects or topics you have already covered and where you still have gaps in your knowledge. Use this to plan exactly which content should be next on your study schedule.'
@@ -184,8 +184,10 @@ sections:
         a: 'The study plan template makes your progress visible: progress bars, status fields, and checked-off milestones show you at any time what you’ve already accomplished. This visual way of tracking your progress helps combat procrastination and loss of motivation—especially during long exam periods.'
       - q: "Can I save files like PDFs or images directly in the study plan?"
         a: 'Yes, you can save scripts, notes, images, and PDF files directly in your study plan template and link them to the relevant topic or subject. This way, all your study materials are stored in one place and always at your fingertips—without the need for separate folders or scattered files.'
+      - q: Can the study plan also be used as a study journal template?
+        a: Yes, in the "Progress" and "Notes" columns, you can document your progress and any unanswered or follow-up questions for each study unit. With the built-in study journal template, you can evaluate your study units and learning strategies and compare your goals with your actual results. 
       - q: "Is this template also suitable for study groups?"
-        a: 'Yes, SeaTable supports collaborative learning in groups. With clear access rights and role-based permissions, students, instructors, and exam candidates can work together on a study plan—using comments, status fields, and transparent task assignment throughout the entire exam period.'
+        a: 'Yes, SeaTable supports collaborative learning in groups. With clear access rights and role-based permissions, students, instructors, and exam candidates can work together on a study plan—using comments, status fields, and transparent task assignment throughout the entire exam period. The study plan can also be used as a study journal template to track your progress and note any questions you still have.'
       - q: "How does SeaTable differ from a traditional study plan template in Excel?"
         a: 'Static Excel or PDF study plans quickly become outdated when delays occur and are difficult to adapt. With SeaTable, you work in an interactive study plan template featuring drag-and-drop functionality, calendar views, Kanban boards, and automations—ideal for recurring exam periods and complex academic structures.'
       - q: "Can I import my existing study plan into SeaTable?"
