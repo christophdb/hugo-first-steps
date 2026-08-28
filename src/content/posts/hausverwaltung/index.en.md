@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'Property Management: Digital Solutions & Tips'
     description: 'Manage rental properties, payments and maintenance with digital tools. All info, documents and tenants at a glance.'
-color: '#75b389'     
+color: '#75b389'
 ---
 
 **Property rental** is a profitable business for individuals, companies, and municipalities alike. If you manage properties, you need to ensure effective **property management**—whether you’re renting out a few apartments privately or managing a large portfolio as a company.
@@ -25,7 +25,7 @@ Property management primarily involves managing individual rental units. In this
 
 ![Property rental](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
 
-As an owner, you are responsible for managing and renting out your properties.
+As an **owner**, you are responsible for managing and renting out your properties.
 
 There are **external property management companies** that support property owners with management or take over the process entirely. This means they ensure the properties are well-maintained and that operations run smoothly. They are compensated by the owners for this administrative work.
 
@@ -41,25 +41,23 @@ If you **own and rent out multiple properties**, it’s often wise to hire a pro
 
 In this case, you should consider whether the **cost of external property management** is worth it: The more tenants you have, the more worthwhile this becomes. You can specify in a contract exactly which tasks you delegate to the company and who is responsible for things like payment reminders, maintenance, or tenant communication. Of course, if you feel up to it, you can also handle all property management tasks yourself.
 
-> The more tenants you have to manage, the more worthwhile it is to hire an external property management company, which takes a lot of work off your plate as an owner. Despite high costs, real estate is a [profitable investment](https://www.immoanleger.de/10-gruende-immobilien-investieren/) in the long run, as property values rise and you can move in yourself if needed.
+> The more tenants you have to manage, the more worthwhile it is to hire an external property management company, which takes a lot of work off your plate as an owner. Despite high costs, real estate is a profitable investment in the long run, as property values rise and you can move in yourself if needed.
 
 ## Property Management in Homeowners’ Associations
 
-Sometimes, you can’t avoid professional property management and have no chance to handle all property matters yourself. Often, when you buy a **condominium**, you also acquire shares in common property (such as green spaces, stairwells, and roofs), which belong to the **homeowners’ association** and must be managed by a property manager.
+Sometimes, you can’t avoid professional property management and have no chance to handle all property matters yourself. Often, when you buy a **condominium**, you also acquire shares in common property (such as green spaces, stairwells, and roofs), which belong to the **homeowners’ association** and must be managed by a property manager. In this case, the management company also takes care of green spaces, for example.
 
 ![Property management in homeowners’ associations](house-1353389_640-e1620395214642.jpg)
-
-In this case, the management company also takes care of green spaces, for example.
 
 The **German Condominium Act** legally defines which tasks the property manager must handle. You should keep an eye on whether the management company is fulfilling its duties properly to spot any untrustworthy companies.
 
 ## What Tasks Are Involved in Property Management?
 
-The tasks of property management vary depending on the number and size of properties and are not to be underestimated. They go far beyond just monitoring rent payments and include all activities related to the property. These include selecting new tenants, communicating with tenants and service providers for repairs, as well as billing operating costs and reading heating, water, and electricity meters.
+The tasks of property management vary depending on the number and size of properties and are not to be underestimated. They go far beyond just **monitoring rent payments** and include all activities related to the property. These include selecting new tenants, communicating with tenants and service providers for repairs, as well as **billing operating costs** and reading heating, water, and electricity meters.
 
 The tasks of a property manager are regulated by the Condominium Act and can be divided into various **categories**. This shows how diverse property management is and that it requires knowledge not everyone naturally has.
 
-**Business/Financial**
+#### Business/Financial
 
 - Monitoring rent payments
 - Managing community funds
@@ -67,21 +65,21 @@ The tasks of a property manager are regulated by the Condominium Act and can be 
 - Managing dunning processes
 - Preparing heating and operating cost statements
 
-**Technical**
+#### Technical
 
 - Ensuring safety (e.g., fire protection)
-- Maintenance work
+- [Maintenance work]({{< relref "templates/real-estate/janitorial-services" >}})
 - Monitoring consumption (water, heating, electricity)
 - Modernization projects
 - Instructing and supervising service providers
 
-**Legal**
+#### Legal
 
 - Managing leases, rent increases or reductions
 - Enforcing legal requirements
 - Documenting move-in/move-out inspections
 
-**Organizational**
+#### Organizational
 
 - Organizing owners’ meetings
 - Communicating with tenants
@@ -91,19 +89,19 @@ The tasks of a property manager are regulated by the Condominium Act and can be 
 
 ![Tasks of property management](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
 
-The tasks of property management go far beyond just monitoring rent payments.
-
 Property management involves many tasks, which can be a lot of work, especially for working owners. That’s why many private owners consider hiring an external management company to handle all tasks related to their rental properties. You should personally weigh whether outsourcing is necessary, as it means giving up a significant amount of **control** over your own properties.
 
 ## Managing Properties: Software for Property Management
 
-Whether you rent out a few apartments privately or manage properties on a large scale, a software solution for property management must always provide a structured **overview of all properties, tenants, payments, documents, and tasks**. User-friendly no-code databases like SeaTable are ideal for this.
+Whether you rent out a few apartments privately or manage properties on a large scale, a software solution for property management must always provide a structured **overview of all properties, tenants, payments, documents, and tasks**. User-friendly no-code databases like [SeaTable]({{< relref "/" >}}) are ideal for this.
 
 ### Everything at a Glance
 
-The more properties you manage, the harder it is to keep track. To collect all important information in one central place, a **database** with a graphical user interface is ideal. Always know who lives in which property and what needs to be done for each one. Bundle data such as address, size, and features of your rental units, and store photos and floor plans of your properties. With a well-organized table, you have an optimal overview, especially for a quick portfolio.
+The more properties you manage, the harder it is to keep track. To collect all important information in one central place, a [relational database]({{< relref "posts/relationale-datenbank" >}}) with a graphical user interface is ideal. Always know who lives in which property and what needs to be done for each one. Bundle data such as address, size, and features of your rental units, and store photos and floor plans of your properties. With a well-organized table, you have an optimal overview, especially for a quick portfolio.
 
 Here’s what a property management database in SeaTable could look like:
+
+{{< template id="6f9a2b4869804608978c" >}}
 
 ### Documenting Rental Income and Tenant Information
 
@@ -117,7 +115,7 @@ As a landlord, you need to take care of repairs, modernization, and maintenance.
 
 If you own multiple properties, coordinating contractors and maintenance can take a lot of time.
 
-## Conclusion
+## Conclusion: Property Management Made Easy
 
 **Property management software** needs to do a lot. When choosing and testing software, ask yourself these questions: Can you use the software to…
 
@@ -130,8 +128,6 @@ If you own multiple properties, coordinating contractors and maintenance can tak
 
 With the SeaTable [property management template]({{< relref "templates/real-estate/property-management" >}}), you can easily manage all these aspects of your properties. Store contracts, invoices, inspection reports, floor plans, and photos directly in your SeaTable database.
 
-![Record photos and data of your properties](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
-
-In a database, you can record photos and highlights of your properties (e.g., fully equipped kitchen, terrace).
+{{< template-box id="6f9a2b4869804608978c" >}}
 
 [Register for free]({{< relref "pages/registration" >}}) to use the template and efficiently organize your data. Flexibly set up the table structure you need for property management to keep an overview of all your data and minimize your administrative workload.

@@ -22,6 +22,10 @@ En plus de l'option **Colorer les cellules**, il est également possible de [mar
 
 {{< /warning >}}
 
+**Dans cette vidéo explicative, nous vous expliquons en quelques minutes comment colorer des cellules dans SeaTable (sous-titrée en français).**
+
+{{< youtube dN5arPRpgeg >}}
+
 ## Coloration par des règles ou selon des valeurs
 
 Chaque colonne dans une vue de tableau offre l'option **Formater les cellules de la colonne** :  

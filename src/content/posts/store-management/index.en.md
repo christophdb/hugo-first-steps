@@ -1,5 +1,5 @@
 ---
-title: 'Organised Store Management with SeaTable'
+title: 'Organized Store Management with SeaTable'
 description: 'Managing multiple stores is complex—SeaTable makes it easy. Keep track of employees, analyze sales by location, plan trainings, conduct store checks, and organize POS material orders seamlessly. Advanced dashboards and smart features boost retail efficiency and transparency.'
 date: 2021-10-21
 categories:
@@ -15,15 +15,17 @@ seo:
     description: 'Efficiently manage store locations, sales, staff, and POS material—SeaTable centralizes all your processes in one platform.'
 ---
 
-With the opening of new locations, not only the turnover grows, but also the organisational effort. Now it is important to keep an overview. Our Store Management Template helps you with the following questions: Where are your highest-turnover branches? Which shops need more attention because they have not reached the projected turnover? Where are new staff needed and what is the quality of your recruited staff? Which employees could use which training?
+With the opening of new locations, not only the turnover grows, but also the organizational effort. Now it is important to keep an overview. Our Store Management Template helps you with the following questions: Where are your highest-turnover branches? Which shops need more attention because they have not reached the projected turnover? Where are new staff needed and what is the quality of your recruited staff? Which employees could use which training?
 
-In addition, your sales team is also confronted with new challenges: There are more branches that need to be audited at regular intervals. This means more appointments and growing demand. You need to work in a structured way and simplify processes with the help of our [store management solution]({{< relref "templates/sales/store-management" >}}).
+In addition, your sales team is also confronted with new challenges: There are more branches that need to be audited at regular intervals. This means more appointments and growing demand. You need to work in a structured way and simplify processes with the help of our store management solution.
 
-## SeaTable as an organisational tool for your store management
+## SeaTable as an organizational tool for your store management
 
 There are a lot of things to consider in store management. Our software solution helps you to keep track of employees and training. It shows you the sales in different sales clusters and with our statistics plugin it also provides the basis for various sales analyses. For your sales managers, SeaTable offers a simple web form that can be used to make store checks more organized.
 
 The timeline view also displays all upcoming appointments. Last but not least, our Store Management Template also helps you to order and keep track of all POS materials in all branches. In the following, we will explain how exactly the template is structured and how you can use it.
+
+{{< template-box id="c090ef310bd54007ab0a" >}}
 
 [Click here to go directly to our template]({{< relref "templates/sales/store-management" >}})
 
@@ -35,25 +37,25 @@ The entire row is highlighted in red if the corresponding employee is a Store Ma
 
 An additional column for documents allows you to store employment contracts or resumes, so you have all important documents in one place. Another linked column is the "Trainings" column, here you can organize trainings for your employees in the next table.
 
-## Organise further training for your employees
+## Organize further training for your employees
 
-Since employees are one of the most important resources for companies, it is in the interest of companies to promote these resources and thereby make them even more valuable. Accordingly, further training can be seen as a sustainable investment in the company. Because the new knowledge that your employees acquire not only benefits them, [but also the entire company](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
+Since employees are one of the most important resources for companies, it is in the interest of companies to promote these resources and thereby make them even more valuable. Accordingly, further training can be seen as a sustainable [investment]({{< relref "posts/investitionsplan" >}}) in the company. Because the new knowledge that your employees acquire not only benefits them, but also the entire company.
 
 Our third base "Trainings" provides you with an overview of the various needs of your employees and the associated training opportunities. You can enter all available trainings in the first column. Then enter the date on which the further training will take place. Another column shows the available places for this further training.
 
-Next, all employees who are to participate in the training are entered through a linked column. If a training is fully booked, you can place a tick in the next column. Afterwards, the row will change colour from green to red, so you can see directly which trainings are still available and which are already fully booked for this date. Last but not least, you can tick the box if all employees are registered for the respective training.
+Next, all employees who are to participate in the training are entered through a linked column. If a training is fully booked, you can place a tick in the next column. Afterwards, the row will change color from green to red, so you can see directly which trainings are still available and which are already fully booked for this date. Last but not least, you can tick the box if all employees are registered for the respective training.
 
 If your human resource management is becoming more complex and the number of trainings is growing, we can recommend [this template]({{< relref "templates/human-resources/workshop-planner" >}}). Here, everything revolves around further training and internal workshops.
 
 ## Keep an overview of your sales
 
-In store management, it is crucial to keep an eye on the turnover of your individual branches. This is not only crucial for an as-is analysis, but also for future strategic location planning. In your Revenue Base you can view and analyse turnover figures.
+In store management, it is crucial to keep an eye on the turnover of your individual branches. This is not only crucial for an as-is analysis, but also for future strategic location planning. In your Revenue Base you can view and analyze turnover figures.
 
 We have grouped the entire base by quarter. In your grouping rules you can easily set by which column the entire base should be sorted. If you prefer to sort by year or by branch, you can of course easily make this adjustment by [changing the grouping rules]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
-With a column for your turnover potential and the actual turnover, deficits and potentials can be easily identified. In addition, we have added a turnover cluster to categorise your branches according to turnover and colour the row again accordingly. Our chosen cluster can of course be easily adapted to your needs. Simply change the single-select options in the last column to your preferred cluster.
+With a column for your turnover potential and the actual turnover, deficits and potentials can be easily identified. In addition, we have added a turnover cluster to categorize your branches according to turnover and color the row again accordingly. Our chosen cluster can of course be easily adapted to your needs. Simply change the single-select options in the last column to your preferred cluster.
 
-### Analyse your turnover with the Advanced Statistics Plugin
+### Analyze your turnover with the Advanced Statistics Plugin
 
 With our Advanced Statistic Plugin you can easily carry out analyses of your sales. We have already created three useful [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) for our example template. Clicking on the plug-in above your table takes you directly to the statistics area. Here you can use the + sign to create new dashboards in which you can then insert several statistics.
 
@@ -65,11 +67,9 @@ To add more statistics, simply click "+new chart" in the plug-in menu. In the st
 
 ### Our Map plug-in is suitable for geographical turnover analyses
 
-To get a geographical overview of your sales, perhaps to see in which regions your product or service is particularly well received, there is the Map plug-in. With a click on Map, all branches are displayed in the colour of the corresponding turnover cluster. In this way, regions with high and low turnover can be recognised immediately. This provides you with important decision-making criteria when it comes to strategic location planning.
+To get a geographical overview of your sales, perhaps to see in which regions your product or service is particularly well received, there is the Map plug-in. With a click on Map, all branches are displayed in the color of the corresponding turnover cluster. In this way, regions with high and low turnover can be recognized immediately. This provides you with important decision-making criteria when it comes to strategic location planning.
 
-![Branch management via the card plug-in](Bildschirmfoto-2021-10-06-um-11.55.12.png)
-
-Card plug-in with turnover of the individual branches
+![Branch management via the map plug-in](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 ## See the responsibilities of your sales team
 
@@ -87,13 +87,11 @@ As the number of shops increases, your sales managers also have more to do. Depe
 
 Our Store Management Template offers a solution for all these tasks.
 
-### All appointments at a glance - with the timeline plug-in
+### All appointments at a glance – with the timeline view
 
-The Timeline plug-in allows your sales staff to see when the next appointments for a personal visit to the stores assigned to them are scheduled. As we have created a separate view for each employee in this base, which we will explain again below, there is also a separate timeline for each individual employee in the timeline plug-in. If you want to add new timelines for new employees here, you must also create a new view in the timeline plug-in after the new view has been created in the base. In the settings, you can then specify the corresponding view as the basis for the data source.
+The timeline view shows your sales staff when the next appointments for a personal visit to the stores assigned to them are scheduled. If you want to add new timelines for new employees here, you need to create a filtered timeline view. In the settings, you can then specify the corresponding table as the basis for the data source.
 
 ![Store Management ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
-
-Timeline plug-in
 
 ### Carry out store checks easily via web forms
 
@@ -101,17 +99,15 @@ During each personal store visit, your sales staff have the task of checking var
 
 ![Store Management Store Check](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
-Web form for the Store Check
-
 The underlying table remains the "Store Check" table. Each entry via a web form appears in the rows and columns of this table.
 
-### Personalised views for your sales staff
+### Personalized views for your sales staff
 
 Each sales employee has a [personalized view]({{< relref "help/base-editor/ansichten" >}}) in this template so that they only see the stores they are responsible for. The view was created with the filter rule using the "Responsible" column with the respective name. If your sales employees then select their name in the web form, the store checks will also appear in the corresponding base.
 
-To make filling out the web form less error prone, we have set each field to be filled out to "required". This makes it impossible to submit without filling in the field. These and many other settings, such as help texts for filling out the web form or different formatting options, can be easily set by clicking on the small pencil next to the web form.
+To make filling out the web form less error-prone, we have set each field to be filled out to "required". This makes it impossible to submit without filling in the field. These and many other settings, such as help texts for filling out the web form or different formatting options, can be easily set by clicking on the small pencil next to the web form.
 
-![Store Management personalised views](Bildschirmfoto-2021-10-06-um-13.16.42.png)
+![Store Management personalized views](Bildschirmfoto-2021-10-06-um-13.16.42.png)
 
 ## Easy ordering of POS materials
 

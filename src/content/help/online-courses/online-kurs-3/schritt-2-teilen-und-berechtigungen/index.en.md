@@ -35,7 +35,7 @@ You can also open this dialog from inside the base, through the share icon {{< s
 
 Please note that you'll have to type either the username or the **whole user email address** for the system to find the corresponding user.
 
-You can also share a base with a whole **group**, but only a group you are a member of — and then everyone in it sees the base. That makes group sharing the way to give the rest of *your own* Commercial team access, not a way to reach another department. To get data to a separate team like Marketing without adding yourself to their group, you use a common dataset — which is exactly what Step 5 is about.
+You can also share a base with a whole **group**, but only a group you are a member of — and then everyone in it sees the base. That makes group sharing the way to give the rest of **your own** Commercial team access, not a way to reach another department. To get data to a separate team like Marketing without adding yourself to their group, you use a common dataset — which is exactly what Step 5 is about.
 
 Now switch to Malika's window 🕶. The first thing she sees is the **notification bell** {{< seatable-icon icon="dtable-icon-notice" >}} at the top right of her home page showing a new alert: SeaTable has told her that a base was shared with her. Refresh the page and the `Sales CRM` base also appears in her workspace, in the `{{< seatable-icon icon="dtable-icon-share-with-me" >}} Shared with me` section. Open it, and you can read and edit the data — Malika is now collaborating on your base.
 

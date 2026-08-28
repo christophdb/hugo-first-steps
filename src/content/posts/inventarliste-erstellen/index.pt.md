@@ -1,5 +1,6 @@
 ---
-title: 'Criar uma lista de inventário - com um modelo gratuito, Excel ou Word'
+title: 'Criar uma lista de inventário – assim mantém a visão geral!'
+description: 'Faz um inventário todos os anos ou mesmo todos os meses? Então veio ao sítio certo! Neste artigo, vai aprender a criar a sua lista de inventário, a normalizar o processo e a simplificar o seu inventário.'
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
@@ -16,7 +17,7 @@ tags:
 color: '#bed8cb'
 ---
 
-Faz um **inventário** todos os anos ou mesmo todos os meses? Então veio ao sítio certo! Neste artigo, aprenderá a criar a sua **lista de inventário**, a normalizar o processo e a simplificar o seu inventário. Pode importar uma lista de inventário para o Excel ou criar o seu próprio modelo no Word. Descobrirá também as vantagens que uma base de dados gratuita como o **SeaTable** oferece **em relação ao Excel e ao Word**.
+Importe uma lista de inventário para o Excel ou crie o seu próprio modelo no Word. Descubra que vantagens uma base de dados gratuita como o SeaTable oferece em relação ao Excel e ao Word.
 
 ## O que é uma lista de inventário?
 
@@ -24,7 +25,7 @@ Pode utilizar uma lista de inventário para registar as existências da sua empr
 
 ## Quem tem de manter uma lista de inventário?
 
-Todos os comerciantes e todas as empresas que são obrigados a manter uma contabilidade por partidas dobradas devem efetuar um inventário. Este inventário deve ser efectuado aquando da abertura da empresa e após cada exercício financeiro. Trata-se de registar as existências e de elaborar um inventário.
+Todos os comerciantes e todas as empresas que são obrigados a manter uma contabilidade por partidas dobradas devem efetuar um inventário. Este inventário deve ser efetuado aquando da abertura da empresa e após cada exercício financeiro. Trata-se de registar as existências e de elaborar um inventário.
 
 ![Trabalhador de armazém utiliza o iPad com uma lista de inventário.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
@@ -32,26 +33,26 @@ Utilize uma lista de inventário digital para registar o seu stock. Direitos de 
 
 ## Qual é a diferença entre o inventário e a inventariação?
 
-Um **inventário** é o stock completo de uma empresa, ou seja, todos os bens que a sua empresa possui. O **inventário** é o processo pelo qual se registam os activos.
+Um **inventário** é o stock completo de uma empresa, ou seja, todos os bens que a sua empresa possui. A **inventariação** é o processo pelo qual regista os seus ativos.
 
 ## O que conta como inventário de uma empresa?
 
-Os activos (fixos e circulantes) e os passivos da sua empresa pertencem ao inventário e, por conseguinte, à sua lista de inventário. É preferível enumerar tanto **os activos incorpóreos como os activos corpóreos**. As dívidas seguem numa outra lista de inventário.
+Os ativos (fixos e circulantes) e os passivos da sua empresa pertencem ao inventário e, por conseguinte, à sua lista de inventário. É preferível enumerar tanto **os ativos incorpóreos como os ativos corpóreos**. As dívidas seguem numa outra lista de inventário.
 
-- **Os activos fixos incluem activos** que são permanentemente utilizados para as operações comerciais da sua empresa. Podem ser imóveis, máquinas, equipamento técnico, veículos, mobiliário de escritório, activos financeiros ou direitos e activos incorpóreos, como patentes.
-- **Os activos correntes são todos os activos** que só são detidos na empresa para venda, consumo, processamento posterior ou reembolso a curto prazo. São normalmente a base (por exemplo, matérias-primas e fontes de energia em stock) ou o resultado (por exemplo, produtos acabados, saldos bancários, contas a receber) do processo de produção.
+- **Os ativos fixos incluem ativos** que são permanentemente utilizados para as operações comerciais da sua empresa. Podem ser imóveis, máquinas, equipamento técnico, veículos, mobiliário de escritório, ativos financeiros ou direitos e ativos incorpóreos, como patentes.
+- **Os ativos correntes são todos os ativos** que só são detidos na empresa para venda, consumo, processamento posterior ou reembolso a curto prazo. São normalmente a base (por exemplo, matérias-primas e fontes de energia em stock) ou o resultado (por exemplo, produtos acabados, saldos bancários, contas a receber) do processo de produção.
 
 {{< warning headline="Não é necessário inventariar" text="Não é necessário fazer um inventário dos **bens de consumo de curta duração que perdem o seu valor no prazo de 12 meses** ou **que** são destruídos pelo ato de utilização. Trata-se, por exemplo, de cartuchos de impressora, artigos de higiene ou alimentos, independentemente do preço de compra." />}}
 
 ## Tipos de inventário
 
-Em primeiro lugar, o inventário difere consoante se trate de um registo de activos corpóreos ou incorpóreos. Para os inventários físicos, é necessário efetuar um **inventário físico** uma vez por ano, no qual se contam, medem ou pesam todas as mercadorias no armazém, por exemplo. Com um **inventário contabilístico**, por outro lado, são registados os activos incorpóreos, que podem ser controlados através de documentos contabilísticos, como extractos bancários e facturas.
+Em primeiro lugar, o inventário difere consoante se trate de um registo de ativos corpóreos ou incorpóreos. No caso das existências físicas, tem de efetuar um **inventário físico** uma vez por ano, no qual conta, mede ou pesa todas as mercadorias do seu armazém, por exemplo. Com um **inventário contabilístico**, por outro lado, regista os ativos incorpóreos, que podem ser controlados através de documentos contabilísticos, como extratos bancários e faturas.
 
 Também faz diferença **quando** cria o seu inventário:
 
 - O mais comum é o chamado **inventário de data fixada**. Como o nome sugere, o inventário é feito numa data específica, normalmente no final de um exercício financeiro. Embora este seja o método mais exato, tem a desvantagem de todo o esforço para o inventário físico ser incorrido no período entre o Natal e o Ano Novo, quando muitos empregados estão de férias e não estão no local.
-- É por isso que existe também o **inventário extraviado**. Com esta forma de inventário, é possível efetuar o inventário de forma flexível num dia à escolha, que pode ser, no máximo, três meses antes ou dois meses depois da data do balanço. No entanto, como é necessário atualizar ou voltar a calcular as existências com base nas entradas e saídas da lista de inventário, o inventário adiado é menos exato do que o inventário em data fixada.
-- Em contrapartida, o **inventário permanente** é um processo contínuo com a vantagem de o esforço ser distribuído uniformemente ao longo do ano e de um inventário contabilístico ser suficiente à data do balanço. No entanto, é necessário proceder a um inventário físico de todos os activos uma vez por ano, a fim de comparar as existências reais com as existências contabilísticas. Em seguida, é necessário documentar com precisão todos os acréscimos e cessões na lista de inventário, a fim de atualizar as existências para efeitos contabilísticos.
+- É por isso que existe também o **inventário deslocado**. Com esta forma de inventário, é possível efetuar o inventário de forma flexível num dia à escolha, que pode ser, no máximo, três meses antes ou dois meses depois da data do balanço. No entanto, como é necessário atualizar ou voltar a calcular as existências com base nas entradas e saídas da lista de inventário, o inventário deslocado é menos exato do que o inventário em data fixada.
+- Em contrapartida, o **inventário permanente** é um processo contínuo com a vantagem de o esforço ser distribuído uniformemente ao longo do ano e de um inventário contabilístico ser suficiente à data do balanço. No entanto, é necessário proceder a um inventário físico de todos os ativos uma vez por ano, a fim de comparar as existências reais com as existências contabilísticas. Em seguida, é necessário documentar com precisão todos os acréscimos e cessões na lista de inventário, a fim de atualizar as existências para efeitos contabilísticos.
 
 ![O trabalhador do armazém faz o inventário em Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
@@ -59,13 +60,13 @@ Deve comparar regularmente a sua lista de inventário com as existências reais.
 
 ## Porque é que é importante criar uma lista de inventário?
 
-A criação de uma lista de inventário não é apenas útil para o balanço. Afinal de contas, é sempre desejável manter um registo dos [activos](https://de.wikipedia.org/wiki/Verm%C3%B6gensgegenstand) que a empresa possui atualmente. Uma lista de inventário ajuda-o a **ter** sempre **no seu ecrã** o **inventário disponível, desejado ou necessário**. Ao listar os seus activos, pode compará-los durante um longo período de tempo - desde que utilize sempre o mesmo modelo para a sua lista de inventário.
+A criação de uma lista de inventário não é apenas útil para o balanço. Afinal de contas, é sempre desejável manter um registo dos [ativos](https://de.wikipedia.org/wiki/Verm%C3%B6gensgegenstand) que a empresa possui atualmente. Uma lista de inventário ajuda-o a **ter** sempre **no seu ecrã** o **inventário disponível, desejado ou necessário**. Ao listar os seus ativos, pode compará-los durante um longo período de tempo - desde que utilize sempre o mesmo modelo para a sua lista de inventário.
 
 ## Que informações pertencem à lista do inventário?
 
-A lista de inventário deve incluir os seguintes elementos
+A lista de inventário deve incluir os seguintes elementos:
 
-- os **activos**
+- os **ativos**
 - o **tipo** ou **categoria**
 - a **quantidade contada**
 - a **condição**
@@ -75,11 +76,9 @@ A lista de inventário deve incluir os seguintes elementos
 
 Além disso, deve ser atribuído um **número único** a cada artigo logo que este é introduzido na lista de inventário. Se ainda estiver disponível, pode também anexar o **recibo** ou **fatura** e introduzir a **data de compra** e o **preço unitário** na altura. Opcionalmente, também é possível introduzir informações como o **número de série** dos artigos, o **prazo e a data final da garantia** e a **data do próximo inventário**.
 
-Um exemplo de uma lista de inventário é uma tabela com estas colunas (clique na imagem para a aumentar):
+Um exemplo de lista de inventário é uma [base de dados]({{< relref "posts/relationale-datenbank" >}}) com duas tabelas ligadas e várias colunas. Clique e percorra esta lista de inventário exemplificativa:
 
-![Exemplo: Modelo para uma lista de inventário](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
-
-A sua lista de inventário pode ter o seguinte aspeto.
+{{< template id="11568480344f4a61ab49" >}}
 
 Agora chegamos à parte prática - como é que se pode criar um inventário exatamente?
 
@@ -103,8 +102,8 @@ Quando estiver satisfeito com a estrutura da sua lista de inventário, crie o se
 
 1. Clique em **Ficheiro** > **Guardar como**.
 2. Selecione uma **localização de armazenamento**, por exemplo, Este PC.
-3. Introduzir o **nome do ficheiro** pretendido.
-4. No campo abaixo, seleccione o **tipo de ficheiro**, por exemplo, um livro de trabalho do Excel com ou sem macros.
+3. Introduza o **nome do ficheiro** pretendido.
+4. No campo abaixo, selecione o **tipo de ficheiro**, por exemplo, um livro de trabalho do Excel com ou sem macros.
 5. Clique em **Guardar**.
 
 ### Vantagens e desvantagens do Excel
@@ -119,7 +118,7 @@ Quase toda a gente já utilizou o Word, o programa de processamento de texto da 
 
 Para o fazer, abra um documento vazio, clique em Inserir e depois em Tabela. Tem agora várias opções: Por exemplo, pode criar uma tabela (não formatada) com qualquer número de linhas e colunas, utilizar um modelo formatado para a lista de inventário ou integrar um modelo Excel no seu documento que ofereça as funções acima mencionadas.
 
-Independentemente da opção escolhida, o usuário também decide no Word quais títulos de coluna são necessários para a lista de inventário (por exemplo, número de identificação, item, tipo, localização, quantidade e valor). Em seguida, introduz os seus activos manualmente. A lista pode ter o seguinte aspeto (clique na imagem para a aumentar):
+Independentemente da opção escolhida, também é no Word que decide quais os títulos de coluna de que necessita para a sua lista de inventário (por exemplo, número de identificação, artigo, tipo, localização, quantidade e valor). Em seguida, introduz os seus ativos manualmente. A lista pode ter o seguinte aspeto:
 
 ![Lista de inventário no Word](Inventarliste-in-Word.png)
 
@@ -140,7 +139,7 @@ O software de base de dados sem código **SeaTable** já tem um [modelo de lista
 1. Adicione o modelo como uma **nova base** na sua página inicial. Para saber como o fazer, consulte [estas instruções]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Clique na base para a **abrir**.
 3. Leia a [descrição de base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) e obtenha uma visão geral.
-4. [Eliminar os dados de amostra]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) e preencher os quadros com o seu próprio inventário.
+4. [Elimine os dados de exemplo]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) e preencha as tabelas com o seu próprio inventário.
 
 Se quiser criar o seu próprio inventário, pode **adicionar ou eliminar qualquer número de colunas nas tabelas** ou [começar com uma base completamente nova]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Pode depois [partilhar]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) a sua lista de inventário com todos os membros da sua equipa. E é tudo. Nada impede o seu inventário.
 
@@ -148,7 +147,7 @@ Se quiser criar o seu próprio inventário, pode **adicionar ou eliminar qualque
 
 Os programas baseados na Web, como o SeaTable, permitem a **criação e gestão colaborativa de listas de inventário** com várias pessoas. A vantagem em relação ao Excel é que todos os envolvidos podem ver os dados ao mesmo tempo e **todas as alterações** são **sincronizadas em tempo real**.
 
-Por exemplo, é possível evitar que uma **lista de inventário desactualizada** seja utilizada e actualizada em paralelo por diferentes colaboradores. Se, por exemplo, o departamento de contabilidade necessitar de informações da lista de inventário, pode obter a versão mais recente diretamente no SeaTable e não tem de esperar até que diferentes empregados tenham fundido as suas versões.
+Por exemplo, é possível evitar que uma **lista de inventário desatualizada** seja utilizada e atualizada em paralelo por diferentes colaboradores. Se, por exemplo, o departamento de contabilidade necessitar de informações da lista de inventário, pode obter a versão mais recente diretamente no SeaTable e não tem de esperar até que diferentes empregados tenham fundido as suas versões.
 
 Também é possível criar [formulários Web]({{< relref "help/base-editor/webformulare" >}}) para o inventário a partir de quadros no SeaTable. Aí pode orientar os seus empregados no processo de inventário e dar-lhes instruções mais pormenorizadas sobre o que registar e o que procurar.
 
@@ -156,13 +155,15 @@ Também é possível criar [formulários Web]({{< relref "help/base-editor/webfo
 
 A **visualização** e **a avaliação** dos dados no SeaTable são ainda mais flexíveis e fáceis do que no Excel. Pode criar [estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}), utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) para visualização ou filtrar, ordenar e agrupar os dados utilizando vistas.
 
-Por último, mas não menos importante, pode guardar **imagens** e **ficheiros**, como documentos PDF, no SeaTable. Pode incluir recibos de compras, facturas ou fotografias do estado atual durante o inventário na sua lista de existências.
+Por último, mas não menos importante, pode guardar **imagens** e **ficheiros**, como documentos PDF, no SeaTable. Pode incluir recibos de compras, faturas ou fotografias do estado atual durante o inventário na sua lista de existências.
 
 ## Conclusão
 
 A maioria das empresas tem de manter uma lista de inventário. Uma lista de inventário normaliza e simplifica o processo, seja em Excel, Word ou numa base de dados como o SeaTable. A forma de criar uma lista de inventário digital varia de programa para programa, mas segue passos semelhantes.
 
 Pense nas **informações** de que precisa sobre o seu inventário, **quem** está envolvido no inventário e **quantas pessoas** precisam de ter acesso aos dados. **Como** pretende preparar os dados e **que funções** são necessárias para o efeito?
+
+{{< template-box id="11568480344f4a61ab49" >}}
 
 Depois de esclarecer estas questões básicas, é fácil começar. Se pretender utilizar o modelo SeaTable para a sua lista de inventário, [registe-se gratuitamente]({{< relref "pages/registration" >}}) e comece já a trabalhar.
 

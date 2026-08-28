@@ -68,7 +68,7 @@ Die Produktivität von Stand-up Meetings liegt in Ihrer Kürze. Halten Sie sich 
 
 ### Respektieren Sie die Zeit aller
 
-Der größte Zeitfresser in Meetings ist, dass viele Menschen auf einmal sprechen wollen. Man vergisst häufig, andere ausreden zu lassen, gerade wenn man zu einem bestimmten Punkt etwas sagen möchte. Produktivität ist etwas anderes. Vor Ort könnte man das Problem ganz einfach lösen, indem man einen Gegenstand auswählt, den immer nur die sprechende Person in der Hand hat. Aber wie lässt sich das online umsetzen? Machen Sie sich die Technologie zunutze!
+Der größte [Zeitfresser]({{< relref "posts/no-code-vorteile" >}}) in Meetings ist, dass viele Menschen auf einmal sprechen wollen. Man vergisst häufig, andere ausreden zu lassen, gerade wenn man zu einem bestimmten Punkt etwas sagen möchte. Produktivität ist etwas anderes. Vor Ort könnte man das Problem ganz einfach lösen, indem man einen Gegenstand auswählt, den immer nur die sprechende Person in der Hand hat. Aber wie lässt sich das online umsetzen? Machen Sie sich die Technologie zunutze!
 
 Eine einfache Lösung wäre zum Beispiel, das Mikrofon immer nur dann anzuschalten, wenn man auch wirklich spricht. Möchte jemand anderes dann etwas sagen, so muss er erst die Hürde überwinden, sich zu entmuten, was ihn daran erinnern wird, dass er noch nicht an der Reihe ist. Zudem kann man bei manchen Anbietern auch eine virtuelle Hand heben. Ist ein Meeting Moderator bestimmt, kann dieser die Personen dann einfach dran nehmen.
 
@@ -110,7 +110,9 @@ Vielleicht stellt sich auch heraus, dass die Stand-ups vor allem in der Entwickl
 
 ### Stand-ups dokumentieren
 
-Vor allem bei täglichen Meetings kann es passieren, dass öfter der ein oder andere Kollege aufgrund eines anderen Termins fehlt. Lassen Sie ihn wissen, wie er sein Fehlen kommunizieren soll und halten Sie wichtige Informationen an einem Ort fest. So kann der fehlende Teilnehmer im Nachhinein nachlesen, ob etwas für ihn Relevantes passiert ist. Für die Planung und Notizen Ihrer Remote-Meetings haben wir [hier]({{< relref "templates/projects/team-meetings" >}}) schon ein Template bereitgestellt und [in diesem Beitrag]({{< relref "templates/projects/team-meetings" >}}) auch ausführlich erklärt, wie Sie sich selbst ein solches erstellen und auf Ihre Bedürfnisse anpassen können.
+Vor allem bei täglichen Meetings kann es passieren, dass öfter der ein oder andere Kollege aufgrund eines anderen Termins fehlt. Lassen Sie ihn wissen, wie er sein Fehlen kommunizieren soll und halten Sie wichtige Informationen an einem Ort fest. So kann der fehlende Teilnehmer im Nachhinein nachlesen, ob etwas für ihn Relevantes passiert ist. Für die Planung und Notizen Ihrer Remote-Meetings haben wir hier schon ein [Template]({{< relref "templates/projects/team-meetings" >}}) bereitgestellt und ausführlich erklärt, wie Sie sich selbst ein solches erstellen und auf Ihre Bedürfnisse anpassen können.
+
+{{< template-box id="049628c4ea884375b7b9" >}}
 
 Ein ganzes Team remote zu organisieren und dabei eine hohe Produktivität zu gewährleisten, ist eine Herausforderung. Trotz all der technischen Möglichkeiten, die uns zur Verfügung stehen, kann es immer noch schwierig sein, eine kollaborative Umgebung zu erschaffen. Tägliche Stand-ups sind eine tolle Möglichkeit sich gegenseitig auf den neusten Stand zu bringen und sich als Teil eines größeren Ganzen zu fühlen. Probleme werden früh erkannt und das Zugehörigkeitsgefühl wird gesteigert.
 

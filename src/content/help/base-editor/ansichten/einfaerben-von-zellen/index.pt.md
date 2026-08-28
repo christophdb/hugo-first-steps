@@ -22,6 +22,10 @@ Para além da opção de **colorir células**, existe também a possibilidade de
 
 {{< /warning >}}
 
+**Neste vídeo explicativo, mostramos-lhe, em poucos minutos, como colorir células no SeaTable (com legendas em português).**
+
+{{< youtube dN5arPRpgeg >}}
+
 ## Coloração por regras ou por valores
 
 Cada coluna numa vista de tabela oferece a opção **Células colunas coloridas**:  

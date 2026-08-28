@@ -15,9 +15,9 @@ seo:
     description: "Pilotez filiales, chiffres d'affaires, équipe et matériel POS grâce à SeaTable, votre outil centralisé de gestion."
 ---
 
-Avec l'ouverture de nouveaux sites, non seulement le chiffre d'affaires augmente, mais aussi l'effort d'organisation. Il est maintenant important de garder une vue d'ensemble. Notre modèle de gestion de magasin vous aide à répondre aux questions suivantes : Où se trouvent vos succursales à forte rotation ? Quels sont les magasins qui nécessitent plus d'attention parce qu'ils n'ont pas atteint le chiffre d'affaires prévu ? Où avez-vous besoin de nouveau personnel et quelle est la qualité de votre personnel recruté ? Quels employés pourraient utiliser quelle formation ?
+Avec l'ouverture de nouveaux sites, non seulement le chiffre d'affaires augmente, mais aussi l'effort d'organisation. Il est maintenant important de garder une vue d'ensemble. Notre modèle de gestion de magasin vous aide à répondre aux questions suivantes : Où se trouvent vos succursales réalisant le chiffre d'affaires le plus élevé ? Quels sont les magasins qui nécessitent plus d'attention parce qu'ils n'ont pas atteint le chiffre d'affaires prévu ? Où avez-vous besoin de nouveau personnel et quelle est la qualité de votre personnel recruté ? Quels employés pourraient utiliser quelle formation ?
 
-En outre, votre équipe de vente est également confrontée à de nouveaux défis : Il y a plus de branches qui doivent être auditées à intervalles réguliers. Cela signifie plus de rendez-vous et une demande croissante. Vous devez travailler de manière structurée et simplifier les processus à l'aide de notre [solution de gestion des magasins]({{< relref "templates/sales/store-management" >}}).
+En outre, votre équipe de vente est également confrontée à de nouveaux défis : Il y a davantage de filiales qui doivent être contrôlées à intervalles réguliers. Cela signifie plus de rendez-vous et une demande croissante. Vous devez travailler de manière structurée et simplifier les processus à l'aide de notre solution de gestion des magasins.
 
 ## SeaTable comme outil d'organisation pour la gestion de votre magasin
 
@@ -25,9 +25,11 @@ Il y a beaucoup de choses à prendre en compte dans la gestion des magasins. Not
 
 La vue de la ligne de temps affiche également tous les rendez-vous à venir. Enfin, notre modèle de gestion de magasin vous aide également à commander et à suivre tout le matériel de PLV dans toutes les succursales. Dans les lignes qui suivent, nous allons vous expliquer comment le modèle est structuré et comment vous pouvez l'utiliser.
 
+{{< template-box id="c090ef310bd54007ab0a" >}}
+
 [Cliquez ici pour accéder directement à notre modèle]({{< relref "templates/sales/store-management" >}})
 
-## Maintenir une vue d'ensemble de toutes les succursales et de leurs employés.
+## Maintenir une vue d'ensemble de toutes les succursales et de leurs employés
 
 Votre premier tableau "Stores" vous donne un aperçu de toutes les filiales. Vous y voyez l'adresse exacte, tous les collaborateurs par filiale et le Sales Manager responsable de la filiale en question. La colonne qui affiche vos collaborateurs est liée au deuxième tableau "Employees". Vous voyez ici une liste complète de vos collaborateurs par filiale. Outre une image, la position respective de l'employé est également affichée ici.
 
@@ -37,7 +39,7 @@ Une colonne supplémentaire pour les documents vous permet de classer les contra
 
 ## Organiser des formations continues pour vos employés
 
-Les employés étant l'une des ressources les plus importantes des entreprises, il est dans l'intérêt de ces dernières de promouvoir ces ressources et de les rendre ainsi encore plus précieuses. Par conséquent, la formation continue peut être considérée comme un investissement durable dans l'entreprise. Car les nouvelles connaissances acquises par vos employés ne profitent pas seulement à eux, [mais aussi à toute l'entreprise](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
+Les employés étant l'une des ressources les plus importantes des entreprises, il est dans l'intérêt de ces dernières de promouvoir ces ressources et de les rendre ainsi encore plus précieuses. Par conséquent, la formation continue peut être considérée comme un [investissement]({{< relref "posts/investitionsplan" >}}) durable dans l'entreprise. Car les nouvelles connaissances acquises par vos employés ne profitent pas seulement à eux, mais aussi à toute l'entreprise.
 
 Notre troisième base "Formations" vous donne un aperçu des différents besoins de vos collaborateurs et des possibilités de formation continue qui y sont liées. Vous pouvez inscrire toutes les formations continues disponibles dans la première colonne. Ensuite, vous inscrivez la date à laquelle la formation continue a lieu. Une autre colonne indique les places disponibles pour cette formation.
 
@@ -47,11 +49,11 @@ Si votre gestion des ressources humaines devient plus complexe et que le nombre 
 
 ## Gardez une vue d'ensemble de vos ventes
 
-Dans la gestion des magasins, il est crucial de garder un œil sur le chiffre d'affaires de vos différentes succursales. Cela est non seulement crucial pour une analyse en l'état, mais aussi pour la planification stratégique future de l'emplacement. Dans votre base de revenus, vous pouvez consulter et analyser les chiffres d'affaires.
+Dans la gestion des magasins, il est crucial de garder un œil sur le chiffre d'affaires de vos différentes succursales. Cela est non seulement crucial pour une analyse de l'état actuel, mais aussi pour la planification stratégique future de l'emplacement. Dans votre base de revenus, vous pouvez consulter et analyser les chiffres d'affaires.
 
 Nous avons regroupé l'ensemble de la base par trimestre. Dans vos règles de regroupement, vous pouvez facilement définir par quelle colonne la base entière doit être triée. Si vous préférez trier par année ou par branche, vous pouvez bien sûr facilement procéder à cet ajustement en [modifiant les règles de regroupement]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
-Avec une colonne pour votre potentiel de chiffre d'affaires et le chiffre d'affaires réel, les déficits et les potentiels peuvent être facilement identifiés. En outre, nous avons ajouté un cluster de chiffre d'affaires pour classer vos branches en fonction de leur chiffre d'affaires et colorer à nouveau la ligne en conséquence. Le cluster que nous avons choisi peut bien sûr être facilement adapté à vos besoins. Pour ce faire, il suffit de modifier les options de sélection unique de la dernière colonne en fonction du groupe que vous préférez.
+Avec une colonne pour votre potentiel de chiffre d'affaires et le chiffre d'affaires réel, les déficits et les potentiels peuvent être facilement identifiés. En outre, nous avons ajouté un cluster de chiffre d'affaires pour classer vos filiales en fonction de leur chiffre d'affaires et colorer à nouveau la ligne en conséquence. Le cluster que nous avons choisi peut bien sûr être facilement adapté à vos besoins. Pour ce faire, il suffit de modifier les options de sélection unique de la dernière colonne en fonction du groupe que vous préférez.
 
 ### Analysez votre chiffre d'affaires avec le plugin Statistiques avancées
 
@@ -65,11 +67,9 @@ Pour ajouter d'autres statistiques, il suffit de cliquer sur "+new chart" dans l
 
 ### Notre plug-in Carte est adapté aux analyses du chiffre d'affaires géographique
 
-Pour obtenir un aperçu géographique de vos ventes, peut-être pour voir dans quelles régions votre produit ou service est particulièrement bien accueilli, il existe le plug-in Carte. En cliquant sur la carte, toutes les branches sont affichées dans la couleur de la grappe de chiffre d'affaires correspondante. De cette façon, les régions à forte et faible rotation peuvent être reconnues immédiatement. Vous disposez ainsi de critères de décision importants pour la planification stratégique d'un emplacement.
+Pour obtenir un aperçu géographique de vos ventes, peut-être pour voir dans quelles régions votre produit ou service est particulièrement bien accueilli, il existe le plug-in Carte. En cliquant sur la carte, toutes les filiales sont affichées dans la couleur du cluster de chiffre d'affaires correspondant. De cette façon, les régions à fort et à faible chiffre d'affaires peuvent être reconnues immédiatement. Vous disposez ainsi de critères de décision importants pour la planification stratégique d'un emplacement.
 
 ![Gestion des branches via le plug-in de la carte](Bildschirmfoto-2021-10-06-um-11.55.12.png)
-
-Plug-in de cartes avec les chiffres d'affaires des différents points de vente
 
 ## Voir les responsabilités de votre équipe de vente
 
@@ -79,7 +79,7 @@ Afin de garder une vue d'ensemble des responsabilités de votre équipe de vente
 
 À mesure que le nombre de magasins augmente, vos directeurs des ventes ont également plus de travail. Selon le type d'entreprise, vos responsables des ventes ont les tâches suivantes dans le processus de gestion des magasins, par exemple :
 
-1. Des visites régulières dans les agences
+1. Des visites régulières dans les filiales
 2. Examen des matériels de PLV utilisés
 3. Examen de l'aspect général extérieur et intérieur
 4. Vérification que toutes les normes sont respectées
@@ -87,21 +87,17 @@ Afin de garder une vue d'ensemble des responsabilités de votre équipe de vente
 
 Notre modèle de gestion de magasin offre une solution pour toutes ces tâches.
 
-### Tous les rendez-vous d'un seul coup d'œil - avec le plug-in ligne de temps
+### Tous les rendez-vous d'un seul coup d'œil – avec la vue Ligne de temps
 
-Le plug-in Timeline permet à vos vendeurs de voir quand sont prévus les prochains rendez-vous pour une visite personnelle dans les magasins qui leur sont assignés. Comme nous avons créé une vue séparée pour chaque employé dans cette base, ce que nous expliquerons à nouveau ci-dessous, il y a également une ligne de temps séparée pour chaque employé individuel dans le plug-in de ligne de temps. Si vous voulez ajouter de nouvelles lignes de temps pour les nouveaux employés ici, vous devez également créer une nouvelle vue dans le plug-in ligne de temps après que la nouvelle vue ait été créée dans la base. Dans les paramètres, vous pouvez alors spécifier la vue correspondante comme base de la source de données.
+La vue Ligne de temps permet à vos collaborateurs de vente de voir quand sont prévus les prochains rendez-vous pour une visite personnelle dans les magasins qui leur sont attribués. Si vous souhaitez ajouter ici de nouvelles lignes de temps pour de nouveaux collaborateurs, vous devez créer une vue Ligne de temps filtrée. Dans les paramètres, vous pouvez ensuite indiquer le tableau correspondant comme base de la source de données.
 
 ![Gestion des magasins ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
-
-Plug-in ligne de temps
 
 ### Effectuer facilement des contrôles en magasin via des formulaires web
 
 Lors de chaque visite personnelle dans un magasin, vos collaborateurs de vente ont pour mission de vérifier l'exactitude de différents aspects selon le type d'entreprise. Pour cela, nous avons mis en place un [formulaire web]({{< relref "help/base-editor/webformulare/webformulare" >}}) qui peut être rempli très facilement par vos collaborateurs de vente pendant ou après leur visite dans le magasin. Vous trouverez les formulaires web en haut à droite sous "Forms". Si votre manager des ventes clique sur le formulaire web, il peut directement commencer à le remplir.
 
 ![Gestion des magasins Vérification des magasins](Bildschirmfoto-2021-10-06-um-13.12.55.png)
-
-Formulaire web pour le contrôle du magasin
 
 Le tableau sous-jacent reste le tableau "Store Check". Chaque entrée via un formulaire web apparaît dans les lignes et les colonnes de ce tableau.
 

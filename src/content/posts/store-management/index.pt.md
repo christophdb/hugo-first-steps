@@ -15,15 +15,17 @@ seo:
     description: 'Gerencie filiais, vendas, equipe e materiais POS com eficiência e controle total usando SeaTable.'
 ---
 
-Com a abertura de novos locais, não só cresce o volume de negócios, mas também o esforço organizacional. Agora é importante manter uma visão geral. O nosso Modelo de Gestão de Loja ajuda-o com as seguintes perguntas: Onde estão os seus ramos com maior rotatividade? Que lojas precisam de mais atenção porque ainda não atingiram o volume de negócios previsto? Onde é necessário pessoal novo e qual é a qualidade do seu pessoal recrutado? Que empregados poderiam utilizar que formação?
+Com a abertura de novos locais, não só cresce o volume de negócios, mas também o esforço organizacional. Agora é importante manter uma visão geral. O nosso Modelo de Gestão de Loja ajuda-o com as seguintes perguntas: Onde estão as suas lojas com maior volume de negócios? Que lojas precisam de mais atenção porque ainda não atingiram o volume de negócios previsto? Onde é necessário pessoal novo e qual é a qualidade do seu pessoal recrutado? Que empregados poderiam utilizar que formação?
 
-Além disso, a sua equipa de vendas é também confrontada com novos desafios: Há mais ramos que precisam de ser auditados a intervalos regulares. Isto significa mais nomeações e uma procura crescente. É necessário trabalhar de forma estruturada e simplificar os processos com a ajuda da nossa [solução de gestão de lojas]({{< relref "templates/sales/store-management" >}}).
+Além disso, a sua equipa de vendas é também confrontada com novos desafios: Há mais lojas que têm de ser verificadas a intervalos regulares. Isto significa mais compromissos e uma procura crescente. É necessário trabalhar de forma estruturada e simplificar os processos com a ajuda da nossa solução de gestão de lojas.
 
 ## SeaTable como uma ferramenta organizacional para a gestão da sua loja
 
-Há muitas coisas a considerar na gestão de lojas. A nossa solução de software ajuda-o a manter um registo dos empregados e da formação. Mostra-lhe o volume de negócios em diferentes grupos de volume de negócios e, com o nosso plugin estatístico, fornece também a base para várias análises de volume de negócios. Para os seus gestores de vendas, a SeaTable oferece um simples formulário web que pode ser utilizado para organizar cheques de loja.
+Há muitas coisas a considerar na gestão de lojas. A nossa solução de software ajuda-o a manter um registo dos empregados e da formação. Mostra-lhe o volume de negócios em diferentes grupos de volume de negócios e, com o nosso plugin estatístico, fornece também a base para várias análises de volume de negócios. Para os seus gestores de vendas, a SeaTable oferece um simples formulário web que pode ser utilizado para organizar as verificações de loja de forma mais estruturada.
 
-A vista da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todos os ramos. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
+A vista da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todas as lojas. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
+
+{{< template-box id="c090ef310bd54007ab0a" >}}
 
 [Clique aqui para ir directamente para o nosso modelo]({{< relref "templates/sales/store-management" >}})
 
@@ -37,7 +39,7 @@ Uma coluna adicional para documentos permite-lhe armazenar contratos de trabalho
 
 ## Organize formação complementar para os seus empregados
 
-Uma vez que os empregados são um dos recursos mais importantes para as empresas, é do interesse das empresas promover estes recursos e, assim, torná-los ainda mais valiosos. Consequentemente, a formação contínua pode ser vista como um investimento sustentável na empresa. Porque os novos conhecimentos que os seus empregados adquirem não só os beneficia, [mas também a toda a empresa](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
+Uma vez que os empregados são um dos recursos mais importantes para as empresas, é do interesse das empresas promover estes recursos e, assim, torná-los ainda mais valiosos. Consequentemente, a formação contínua pode ser vista como um [investimento]({{< relref "posts/investitionsplan" >}}) sustentável na empresa. Porque os novos conhecimentos que os seus empregados adquirem não beneficiam apenas os próprios, mas também toda a empresa.
 
 A nossa terceira base "Formações" dá-lhe uma visão geral das várias necessidades dos seus empregados e das oportunidades de formação contínua associadas. Pode introduzir todos os cursos de formação disponíveis na primeira coluna. Em seguida, introduza a data em que a formação contínua terá lugar. Outra coluna mostra os lugares disponíveis para esta formação complementar.
 
@@ -47,11 +49,11 @@ Se a sua gestão de recursos humanos estiver a tornar-se mais complexa e o núme
 
 ## Mantenha uma visão geral das suas vendas
 
-Na gestão de lojas, é crucial estar atento ao volume de negócios das suas sucursais individuais. Isto é crucial não só para uma análise tal como está, mas também para um futuro planeamento estratégico da localização. Na sua Base de Receitas pode visualizar e analisar os números do volume de negócios.
+Na gestão de lojas, é crucial estar atento ao volume de negócios das suas sucursais individuais. Isto é crucial não só para uma análise da situação actual, mas também para um futuro planeamento estratégico da localização. Na sua Base de Receitas pode visualizar e analisar os números do volume de negócios.
 
 Agrupámos a base inteira por trimestre. Nas suas regras de agrupamento pode facilmente definir por qual coluna toda a base deve ser classificada. Se preferir ordenar por ano ou por ramo, pode naturalmente fazer este ajustamento facilmente, [alterando as regras de agrupamento]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
-Com uma coluna para o seu potencial de rotatividade e a rotatividade real, os défices e potenciais podem ser facilmente identificados. Além disso, adicionámos um grupo de volume de negócios para classificar os seus ramos de acordo com o volume de negócios e colorir a fila em conformidade novamente. O nosso grupo escolhido pode, evidentemente, ser facilmente adaptado às suas necessidades. Para o fazer, basta alterar as opções de selecção única na última coluna para o agrupamento que preferir.
+Com uma coluna para o seu potencial de volume de negócios e o volume de negócios real, os défices e potenciais podem ser facilmente identificados. Além disso, adicionámos um grupo de volume de negócios para classificar as suas lojas de acordo com o volume de negócios e colorir a fila em conformidade novamente. O nosso grupo escolhido pode, evidentemente, ser facilmente adaptado às suas necessidades. Para o fazer, basta alterar as opções de selecção única na última coluna para o agrupamento que preferir.
 
 ### Analise o seu volume de negócios com o Plugin de Estatísticas Avançadas
 
@@ -59,17 +61,15 @@ Com o nosso Plugin Estatístico Avançado pode facilmente realizar análises das
 
 ![Gestão de lojas ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
-No nosso exemplo aqui, a primeira estatística mostra-lhe as diferenças entre o volume de negócios potencial e o volume de negócios real. A segunda estatística mostra-lhe o potencial de rotação por loja. Desta forma, pode ver directamente quais as lojas que podem esperar uma rotação particularmente elevada neste trimestre e concentrar-se nelas. A última estatística compara o volume de negócios Q1 com o volume de negócios Q2, para que se possa identificar fortes diferenças e possíveis fontes de erro.
+No nosso exemplo aqui, a primeira estatística mostra-lhe as diferenças entre o volume de negócios potencial e o volume de negócios real. A segunda estatística mostra-lhe o potencial de volume de negócios por loja. Desta forma, pode ver directamente quais as lojas que podem esperar um volume de negócios particularmente elevado neste trimestre e concentrar-se nelas. A última estatística compara o volume de negócios Q1 com o volume de negócios Q2, para que se possa identificar fortes diferenças e possíveis fontes de erro.
 
 Para adicionar mais estatísticas, basta clicar em "+novo gráfico" no menu do plug-in. No módulo de estatísticas, pode então efetuar todas as definições desejadas e criar as estatísticas úteis para as suas análises.
 
-### O nosso plug-in de mapa é adequado para análises de rotatividade geográfica
+### O nosso plug-in de mapa é adequado para análises geográficas do volume de negócios
 
-Para obter uma visão geográfica do seu volume de negócios, talvez para ver em que regiões o seu produto ou serviço é particularmente bem recebido, existe o plug-in do Mapa. Com um clique no Mapa, todos os ramos são exibidos na cor do grupo de volume de negócios correspondente. Desta forma, as regiões com alta e baixa rotação podem ser reconhecidas imediatamente. Isto proporciona-lhe critérios importantes para a tomada de decisões quando se trata de planeamento estratégico de localização.
+Para obter uma visão geográfica do seu volume de negócios, talvez para ver em que regiões o seu produto ou serviço é particularmente bem recebido, existe o plug-in do Mapa. Com um clique no Mapa, todas as lojas são exibidas na cor do grupo de volume de negócios correspondente. Desta forma, as regiões com um volume de negócios elevado e reduzido podem ser reconhecidas imediatamente. Isto proporciona-lhe critérios importantes para a tomada de decisões quando se trata de planeamento estratégico de localização.
 
-![Gestão de sucursais através do plug-in do cartão](Bildschirmfoto-2021-10-06-um-11.55.12.png)
-
-Plug-in de cartão com vendas das filiais individuais
+![Gestão de sucursais através do plug-in do mapa](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 ## Veja as responsabilidades da sua equipa de vendas
 
@@ -79,7 +79,7 @@ A fim de manter uma visão geral das responsabilidades da sua equipa de vendas, 
 
 À medida que o número de lojas aumenta, os seus gestores de vendas também têm mais a fazer. Dependendo do tipo de empresa, os seus gestores de vendas têm as seguintes tarefas no processo de gestão da loja, por exemplo:
 
-1. Visitas regulares aos balcões
+1. Visitas regulares às lojas
 2. Revisão dos materiais de POS utilizados
 3. Revisão da aparência geral externa e interna
 4. Verificação de que todas as normas são cumpridas
@@ -87,13 +87,11 @@ A fim de manter uma visão geral das responsabilidades da sua equipa de vendas, 
 
 O nosso Modelo de Gestão de Loja oferece uma solução para todas estas tarefas.
 
-### Todos os compromissos num relance - com o plug-in da linha do tempo
+### Todos os compromissos num relance – com a vista da linha de tempo
 
-O plug-in da Linha do Tempo permite que o seu pessoal de vendas veja quando estão agendados os próximos compromissos para uma visita pessoal às lojas a eles atribuídas. Como criámos uma visão separada para cada empregado nesta base, que explicaremos novamente abaixo, existe também uma linha temporal separada para cada empregado individual no plug-in da linha temporal. Se quiser acrescentar aqui novas linhas de tempo para novos empregados, deve também criar uma nova vista no plug-in da linha de tempo depois de a nova vista ter sido criada na base. Nas definições, pode então especificar a visão correspondente como base para a fonte de dados.
+A vista da linha de tempo permite que o seu pessoal de vendas veja quando estão agendados os próximos compromissos para uma visita pessoal às lojas que lhe estão atribuídas. Se quiser acrescentar aqui novas linhas de tempo para novos empregados, tem de criar uma vista da linha de tempo filtrada. Nas definições, pode então indicar a tabela correspondente como base para a fonte de dados.
 
 ![Gestão de lojas ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
-
-Plug-in na linha do tempo
 
 ### Efectuar verificações de loja facilmente através de formulários web
 
@@ -101,13 +99,11 @@ Durante cada visita pessoal à loja, o seu pessoal de vendas tem a tarefa de ver
 
 ![Verificação da loja de gestão da loja](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
-Formulário Web para a verificação da loja
-
 A tabela subjacente continua a ser a tabela "Store Check". Cada entrada através de um formulário Web aparece nas linhas e colunas desta tabela.
 
 ### Vistas personalizadas para o seu pessoal de vendas
 
-Cada vendedor tem uma [vista personalizada]({{< relref "help/base-editor/ansichten" >}}) neste modelo, de modo a ver apenas os balcões pelos quais é responsável. A vista foi criada com a regra de filtragem através da coluna "Responsável" com o respetivo nome. Se os vendedores seleccionarem o seu nome no formulário Web, os controlos de loja também aparecem na base correspondente.
+Cada vendedor tem uma [vista personalizada]({{< relref "help/base-editor/ansichten" >}}) neste modelo, de modo a ver apenas as lojas pelas quais é responsável. A vista foi criada com a regra de filtragem através da coluna "Responsável" com o respetivo nome. Se os vendedores seleccionarem o seu nome no formulário Web, os controlos de loja também aparecem na base correspondente.
 
 Para tornar o preenchimento do formulário Web menos propenso a erros, definimos cada campo a ser preenchido como "obrigatório". Desta forma, é impossível submeter o formulário sem preencher o campo. Estas e muitas outras definições, tais como textos de ajuda para preencher o formulário Web ou várias opções de formatação, podem ser facilmente efectuadas clicando no pequeno lápis junto ao formulário Web.
 

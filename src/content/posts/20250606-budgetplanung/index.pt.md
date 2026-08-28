@@ -19,7 +19,7 @@ color: '#f4a64b'
 
 **Já elaborou o seu orçamento para o próximo ano?** Se não, está na hora: quanto mais cedo souber quanto dinheiro tem disponível, mais precisamente poderá iniciar medidas para atingir os seus objectivos: Quer contratar mais empregados ou está a planear uma grande campanha publicitária? Independentemente do que tem em mente, este artigo dar-lhe-á dicas valiosas para o planeamento do orçamento.
 
-O artigo seguinte trata do **planeamento orçamental nas empresas** e da melhor forma de o abordar. Para **residências privadas** recomendamos-lhe um [livro de orçamento]({{< relref "posts/haushaltsbuch-fuehren" >}}).
+O artigo seguinte trata do **planeamento orçamental nas empresas** e da melhor forma de o abordar. Para **agregados familiares particulares** recomendamos-lhe um [livro de orçamento]({{< relref "posts/haushaltsbuch-fuehren" >}}).
 
 ## O que é a orçamentação?
 
@@ -29,12 +29,9 @@ A orçamentação - também conhecida como planeamento orçamental ou atribuiç�
 
 ## Vantagens do planeamento orçamental prospetivo
 
-- **Atribuição sensível do orçamento**: O planeamento orçamental ajuda-o a atribuir dinheiro e recursos de forma sensata a departamentos e projectos e a utilizá-los especificamente onde trarão o maior benefício possível.
-
+- **Atribuição criteriosa do orçamento**: O planeamento orçamental ajuda-o a atribuir dinheiro e recursos de forma sensata a departamentos e projectos e a utilizá-los especificamente onde trarão o maior benefício possível.
 - **Objectivos vinculativos**: Com um plano orçamental vinculativo, pode garantir que os seus gestores formulam objectivos claros e tomam medidas eficazes para os alcançar.
-
 - **Transparência financeira**: A orçamentação permite-lhe saber claramente em que é que está a gastar o seu dinheiro. Pode controlar os custos e os objectivos, medir o sucesso e antecipar desenvolvimentos indesejáveis.
-
 - **Investimentos prioritários**: A lista de desejos dos departamentos é muitas vezes longa. Um orçamento fixo ajuda-o a estabelecer prioridades para os investimentos cruciais e a evitar despesas desnecessárias.
 
 ## O orçamento anda de mãos dadas com o planeamento financeiro
@@ -72,7 +69,7 @@ Tal como todos os processos empresariais, a elaboração do orçamento pode deco
 Podem ocorrer os seguintes problemas:
 
 - Dependendo da **complexidade da estrutura da empresa** (por exemplo, filiais, localizações, níveis organizacionais), a orçamentação detalhada pode rapidamente tornar-se confusa.
-- A elaboração do orçamento exige geralmente um **despendimento elevado de tempo** e consome capacidades de pessoal que não estão disponíveis para trabalho produtivo.
+- A elaboração do orçamento exige geralmente um **grande dispêndio de tempo** e consome capacidades de pessoal que não estão disponíveis para trabalho produtivo.
 - Hoje em dia, a **evolução económica** é tão rápida e difícil de prever que um orçamento planeado com bastante antecedência raramente faz justiça às circunstâncias reais.
 - Os **objectivos orçamentais rigorosos** limitam a margem de manobra dos serviços quando os custos aumentam (por exemplo, em caso de aumento inesperado dos preços).
 - Pode também levar à estagnação da empresa se se orientar demasiado pela **orçamentação dos anos anteriores** sem repensar e otimizar os processos.
@@ -106,7 +103,7 @@ A dimensão do orçamento pode rapidamente levar a um **pensamento competitivo o
 
 ### 6\. Exija transparência
 
-Especialmente nas lutas internas pelo poder, os resultados são muitas vezes encobertos ou os objectivos formulados são exagerados, a fim de obter um melhor orçamento. Esteja ciente disso e **analise de forma crítica para que são necessários os fundos e porquê**. Em última análise, deve afetar o seu orçamento de forma a que a sua empresa atinja os seus objectivos comerciais.
+Especialmente nas lutas internas pelo poder, os resultados são muitas vezes embelezados ou são formulados objectivos exagerados, a fim de obter um melhor orçamento. Esteja ciente disso e **analise de forma crítica para que são necessários os fundos e porquê**. Em última análise, deve distribuir o seu orçamento de forma a que a sua empresa atinja os seus objectivos comerciais.
 
 ### 7\. Mantenha-se flexível
 
@@ -116,7 +113,7 @@ Especialmente nas lutas internas pelo poder, os resultados são muitas vezes enc
 
 ## Elaboração do orçamento em departamentos individuais
 
-O planeamento do orçamento para toda a empresa é composto pelos sub-orçamentos de todos os departamentos. Ao afetar o orçamento, não se esqueça de que haverá inevitavelmente desequilíbrios: por exemplo, o departamento de RH suporta, de longe, os custos mais elevados, mas também fornece recursos humanos a todos os outros departamentos.
+O planeamento do orçamento para toda a empresa é composto pelos sub-orçamentos de todos os departamentos. Ao distribuir o orçamento, não se esqueça de que haverá inevitavelmente desequilíbrios: por exemplo, o departamento de RH suporta, de longe, os custos mais elevados, mas também fornece recursos humanos a todos os outros departamentos.
 
 Para que a orçamentação seja transparente, é importante envolver todos os serviços no planeamento orçamental numa fase inicial. As áreas importantes são o planeamento do orçamento de pessoal (recrutamento, salários, etc.), o planeamento do orçamento de marketing e o planeamento do orçamento de TI. Estes departamentos gerem normalmente grandes orçamentos próprios e são indispensáveis para o planeamento estratégico do orçamento.
 
@@ -138,13 +135,13 @@ Graças à orçamentação de TI, rapidamente se torna claro se só pode financi
 
 ### Planeamento orçamental na gestão de projectos
 
-Uma área popular de aplicação da orçamentação é a gestão de projectos. Aí, fornece-lhe uma visão geral do **que é possível num projeto**. Dependendo dos recursos, pode decidir, por exemplo, se quer contratar prestadores de serviços externos ou se prefere gerir a maior parte sozinho.
+Uma área popular de aplicação da orçamentação é a gestão de projectos. Aí, a orçamentação dá-lhe uma visão geral do **que é possível num projeto**. Dependendo dos recursos, pode decidir, por exemplo, se quer contratar prestadores de serviços externos ou se prefere gerir a maior parte sozinho.
 
 Especialmente se os clientes, investidores ou outras partes interessadas estiverem envolvidos num projeto, é quase certo que irão exigir um **orçamento transparente e realista**. Neste caso, um plano orçamental é essencial e pode ser utilizado para negociar recursos financeiros.
 
 **A orçamentação deve definitivamente ter lugar antes do início do projeto**. Determina se e até que ponto um projeto é viável. A orçamentação revela os objectivos - tanto as oportunidades como os riscos tornam-se evidentes. Por isso, deve começar a elaborar o orçamento o mais cedo possível.
 
-Para poder calcular realisticamente as estimativas de custos, é útil rever projectos anteriores. \*\*A elaboração de um plano orçamental pode ser morosa, mas dá-lhe a oportunidade de avaliar projectos antigos e de melhorar ainda mais os novos.
+Para poder calcular realisticamente as estimativas de custos, é útil rever projectos anteriores. **Até que ponto o planeamento orçamental funcionou bem em projectos anteriores e o que deve adaptar desta vez?** A elaboração de um plano orçamental pode ser morosa, mas dá-lhe a oportunidade de avaliar projectos antigos e de conceber ainda melhor os novos.
 
 ## Um exemplo de como pode implementar o planeamento orçamental
 

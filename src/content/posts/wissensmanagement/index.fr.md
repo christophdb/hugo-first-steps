@@ -1,6 +1,6 @@
 ---
 title: 'Gestion des connaissances : comment rendre les connaissances utilisables'
-description: "La connaissance est l'une des ressources les plus importantes de toute entreprise. Ce n'est pas pour rien que la connaissance est déjà citée comme facteur de production au même titre que la terre, le capital et le travail lorsqu'il s'agit de la réussite d'une entreprise. Mais que faut-il faire pour que les connaissances de vos collaborateurs soient utiles à d'autres dans votre entreprise ? La réponse : une gestion des connaissances efficace ! Découvrez ici comment gérer efficacement les connaissances au sein de votre entreprise et ce à quoi vous devez faire attention lorsque vous choisissez un système de gestion des connaissances approprié."
+description: "La connaissance est l'une des ressources les plus importantes de toute entreprise. Mais que faut-il faire pour que les connaissances de vos collaborateurs soient utiles à d'autres dans votre entreprise ? La réponse : une gestion des connaissances efficace ! Découvrez ici comment gérer efficacement les connaissances au sein de votre entreprise et ce à quoi vous devez faire attention lorsque vous choisissez un système de gestion des connaissances approprié."
 date: 2024-08-09
 categories:
     - 'best-practice'
@@ -22,7 +22,7 @@ Vous apprendrez ici comment gérer avec succès les connaissances accumulées da
 
 ## Qu'est-ce que la gestion des connaissances ?
 
-Optimiser l'utilisation des connaissances au sein de l'entreprise, tel est l'objectif de la gestion des connaissances (également appelée _Knowledge Management_ ). L'objectif général est de créer une **base de connaissances** qui rendra les processus de l'entreprise plus efficaces et plus innovants.
+Optimiser l'utilisation des connaissances au sein de l'entreprise, tel est l'objectif de la gestion des connaissances (également appelée _knowledge management_). L'objectif général est de créer une **base de connaissances** qui rendra les processus de l'entreprise plus efficaces et plus innovants.
 
 Vous y parviendrez en collectant les connaissances cachées dans votre entreprise, en les préparant, en les rendant accessibles à tous et, en fin de compte, en les appliquant efficacement.
 
@@ -44,9 +44,7 @@ Il est donc essentiel pour la gestion des connaissances dans votre entreprise de
 
 ![Un bon climat de travail dans votre entreprise pose une pierre angulaire importante pour une gestion des connaissances qui fonctionne.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
-Une ambiance de travail agréable vous aide à rassembler et à partager les connaissances.
-
-Pour que votre gestion des connaissances soit la plus efficace possible, les connaissances explicites et implicites doivent aller de pair. Créez donc dans votre entreprise une **culture** dans laquelle les collaborateurs sont motivés à partager leurs trésors de connaissances cachés et à transmettre activement leur savoir.
+Une ambiance de travail agréable vous aide à rassembler et à partager les connaissances. Pour que votre gestion des connaissances soit la plus efficace possible, les connaissances explicites et implicites doivent aller de pair. Créez donc dans votre entreprise une **culture** dans laquelle les collaborateurs sont motivés à partager leurs trésors de connaissances cachés et à transmettre activement leur savoir.
 
 ## Deux stratégies dans la gestion des connaissances
 
@@ -58,17 +56,15 @@ Dans cette variante, vous regroupez les connaissances de personnes individuelles
 
 ### Stratégie people-to-people
 
-Cette variante est utilisée lorsque les connaissances sont trop complexes pour être formulées de manière compréhensible pour tous. Il faut alors **des experts** qui transmettent personnellement leur savoir à certains collègues et qui sont également disponibles en cas de questions.
+Cette variante est utilisée lorsque les connaissances sont trop complexes pour être formulées de manière compréhensible pour tous. Il faut alors **des experts** qui transmettent personnellement leur savoir à certains collègues et qui sont également disponibles en cas de questions. Si vous avez donc des experts dans votre entreprise, ils doivent pouvoir être contactés rapidement et facilement en cas de problème.
 
-![Un expert devrait toujours être disponible aux heures de travail, même si la personne se trouve dans son bureau à domicile.](Design-ohne-Titel-28-e1722945260552-711x505.png)
-
-Si vous avez des experts dans votre entreprise, ils doivent pouvoir être contactés rapidement et facilement en cas de problème.
+![Un expert devrait toujours être disponible aux heures de travail, même s'il est en télétravail.](Design-ohne-Titel-28-e1722945260552-711x505.png)
 
 Vous pouvez également combiner les deux stratégies, par exemple en partageant vos connaissances lors d'un atelier et en documentant les principaux résultats et en les mettant à disposition dans une base de connaissances.
 
 ## Ce que la gestion des connaissances doit apporter
 
-Pour pouvoir utiliser efficacement les connaissances accumulées par votre entreprise, vous devez être conscient des **huit éléments qui** composent la gestion des connaissances.
+Pour pouvoir utiliser efficacement les connaissances accumulées par votre entreprise, vous devez être conscient des **huit éléments** qui composent la gestion des connaissances.
 
 ![Les huit éléments de la gestion des connaissances s'appuient les uns sur les autres et vous permettent d'améliorer l'efficacité globale de votre entreprise.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
@@ -81,13 +77,13 @@ Il en résulte une sorte de guide dont vous pouvez vous inspirer pour élaborer 
 - **Acquisition de connaissances :** acheter des connaissances à des experts externes pour combler les lacunes de connaissances.
 - **Partage des connaissances :** accès ouvert et partage actif des connaissances existantes.
 
-Un grand nombre de méthodes connues entrent en ligne de compte pour la diffusion des connaissances, par exemple [les ateliers]({{< relref "posts/workshop-planen" >}}), les leçons apprises, les [réunions d'équipe]({{< relref "templates/projects/team-meetings" >}}), le mentoring, [l]({{< relref "posts/20250324-onboarding-prozess" >}}) '[onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) ou les newsletters internes.
+Un grand nombre de méthodes connues entrent en ligne de compte pour la diffusion des connaissances, par exemple [les ateliers]({{< relref "posts/workshop-planen" >}}), les leçons apprises, les [réunions d'équipe]({{< relref "templates/projects/team-meetings" >}}), le mentoring, l'[onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) ou les newsletters internes.
 
 ![Pour gérer les connaissances, il est important que tous les collaborateurs soient au même niveau et qu'ils échangent activement des informations.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
 Pour une bonne gestion des connaissances, il est important d'avoir un échange actif.
 
-Les autres éléments constitutifs sont
+Les autres éléments constitutifs sont :
 
 - **Utilisation des connaissances :** utiliser les connaissances existantes pour améliorer les résultats du travail et de l'entreprise.
 - **Conservation des connaissances :** sauvegarder les connaissances accumulées dans un lieu de stockage central et les actualiser en permanence.
@@ -96,7 +92,7 @@ Les autres éléments constitutifs sont
 
 ## Dans quels domaines pouvez-vous utiliser la gestion des connaissances ?
 
-La gestion des connaissances peut apporter beaucoup et peut donc être utilisée avec profit pour différents processus d'entreprise. Les domaines d'application peuvent être répartis en gros entre l **'** utilisation **interne** et l'utilisation **externe**.
+La gestion des connaissances peut apporter beaucoup et peut donc être utilisée avec profit pour différents processus d'entreprise. Vous pouvez répartir grossièrement les domaines d'application entre l'utilisation **interne** et l'utilisation **externe**.
 
 ### Utilisation externe
 
@@ -104,9 +100,9 @@ Dans le domaine du **support client**, par exemple, un système de gestion des c
 
 ![Le support client se compose de plusieurs éléments.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
-Épargnez beaucoup de travail à vos collaborateurs en proposant à vos clients de les aider à s'aider eux-mêmes.
+Épargnez beaucoup de travail à vos collaborateurs en proposant à vos clients de les aider à s'aider eux-mêmes. Vous trouverez un exemple d'une telle rubrique d'aide [ici]({{< relref "help" >}}). Il y a néanmoins toujours des situations dans lesquelles les clients ont besoin d'une aide personnelle. Pour ces cas-là, vous devriez entretenir un [système de ticketing]({{< relref "posts/20250521-ticketing-system" >}}) qui vous permet de traiter les demandes de manière structurée.
 
-[Cette rubrique d'aide]({{< relref "help" >}}) est un exemple de système de gestion des connaissances bien géré. Cela vous permet d'une part de réduire les efforts d'assistance de vos collaborateurs et d'autre part d'épargner à vos clients un long temps d'attente.
+Un [helpdesk informatique]({{< relref "templates/it-engineering/it-helpdesk" >}}) est un exemple de système de gestion des connaissances bien géré. Cela vous permet d'une part de réduire les efforts d'assistance de vos collaborateurs et d'autre part d'épargner à vos clients un long temps d'attente.
 
 ### Utilisation interne
 
@@ -116,7 +112,7 @@ Une **culture d'entreprise** basée sur le partage des connaissances aide chaque
 
 ## Opportunités et défis de la gestion des connaissances
 
-Si vous vous demandez si un système de gestion des connaissances est rentable pour votre entreprise, ne vous inquiétez pas : à long terme, la gestion des connaissances est toujours rentable ! Il y a toutefois quelques **défis à relever**.
+Si vous vous demandez si un système de gestion des connaissances est rentable pour votre entreprise, ne vous inquiétez pas : à long terme, la gestion des connaissances est toujours rentable ! Il y a toutefois quelques **défis** auxquels vous devez vous attendre.
 
 ![La gestion des connaissances présente de nombreux avantages, mais elle est confrontée à certains défis, en particulier au début du processus.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
@@ -124,52 +120,68 @@ Pesez le pour et le contre.
 
 ### Avantages :
 
-- **Augmentation de l'efficacité**: en classant systématiquement les informations, vos collaborateurs peuvent les trouver plus rapidement et les utiliser pour leur travail.
-- **Formation continue autonome**: Grâce à la préparation claire et compréhensible des connaissances existantes, vos collaborateurs ont la possibilité d'acquérir des connaissances de manière autonome.
-- **Des processus décisionnels plus rapides**: Comme tous les collaborateurs ont accès aux données et aux documents pertinents, ils peuvent prendre des décisions éclairées de manière autonome.
-- **Conservation des connaissances à long terme**: dans un système de gestion des connaissances, les connaissances sont stockées pour une longue durée et peuvent être conservées indépendamment des personnes individuelles.
+- **Augmentation de l'efficacité** : en classant systématiquement les informations, vos collaborateurs peuvent les trouver plus rapidement et les utiliser pour leur travail.
+- **Formation continue autonome** : grâce à la préparation claire et compréhensible des connaissances existantes, vos collaborateurs ont la possibilité d'acquérir des connaissances de manière autonome.
+- **Des processus décisionnels plus rapides** : comme tous les collaborateurs ont accès aux données et aux documents pertinents, ils peuvent prendre des décisions éclairées de manière autonome.
+- **Conservation des connaissances à long terme** : dans un système de gestion des connaissances, les connaissances sont stockées pour une longue durée et peuvent être conservées indépendamment des personnes individuelles.
 
 ### Inconvénients :
 
-- **Coûts de démarrage élevés**: pour mettre en place un système de gestion des connaissances, vous devez prévoir des ressources financières et temporelles pour la mise en place de systèmes numériques ainsi que pour l'élaboration, la structuration et la préparation des connaissances.
-- **Niveau de connaissances obsolète**: maintenir les connaissances à jour demande beaucoup de temps et d'énergie et exige de la discipline de la part de vos collaborateurs.
-- **Les risques pour la sécurité**: De nos jours, les informations sensibles sont généralement stockées sur un serveur central. Cependant, les droits d'accès et les politiques de protection des données qui y sont associées comportent également des risques.
-- **Un système complexe**: les systèmes de gestion des connaissances sont généralement complexes. Une longue période de formation est donc nécessaire pour que vos collaborateurs puissent utiliser le système de manière efficace.
+- **Coûts de démarrage élevés** : pour mettre en place un système de gestion des connaissances, vous devez prévoir des ressources financières et temporelles pour la mise en place de systèmes numériques ainsi que pour l'élaboration, la structuration et la préparation des connaissances.
+- **Niveau de connaissances obsolète** : maintenir les connaissances à jour demande beaucoup de temps et d'énergie et exige de la discipline de la part de vos collaborateurs.
+- **Risques pour la sécurité** : de nos jours, les informations sensibles sont généralement stockées sur un [serveur]({{< relref "posts/it-infrastruktur" >}}) central ou dans le [cloud]({{< relref "posts/cloud-computing" >}}). Cependant, les droits d'accès et les politiques de protection des données qui y sont associées comportent également des risques.
+- **Un système complexe** : les systèmes de gestion des connaissances sont généralement complexes. Une longue période de formation est donc nécessaire pour que vos collaborateurs puissent utiliser le système de manière efficace.
 
 ## Quel système de gestion des connaissances vous convient le mieux ?
 
 Si vous souhaitez mettre en place une gestion des connaissances efficace dans votre entreprise, vous ne pouvez guère faire l'impasse sur un **système de gestion des connaissances** sous la forme d'un logiciel. Le choix de **solutions logicielles** adaptées est vaste. En fonction de vos exigences, il existe une énorme variété de systèmes avec des objectifs différents :
 
 {{< accordion "Wikis et systèmes de gestion de l'information" >}}
+
 Exemples : Confluence, Guru
+
 {{< /accordion >}}
 
 {{< accordion "Groupware et systèmes de collaboration" >}}
+
 Exemples : BSCW, Microsoft SharePoint
+
 {{< /accordion >}}
 
 {{< accordion "Messageries instantanées et systèmes de communication" >}}
+
 Exemples : Slack, Microsoft Teams
+
 {{< /accordion >}}
 
 {{< accordion "Systèmes de gestion de documents et d'échange de fichiers" >}}
-Exemples : Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+
+Exemples : [Seafile](https://www.seafile.com/en/home/), Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
+
 {{< /accordion >}}
 
 {{< accordion "Systèmes de gestion de la relation client" >}}
-Exemples : Pipedrive, Salesforce
+
+Exemples : [Pipedrive, Salesforce]({{< relref "posts/no-code-crm" >}})
+
 {{< /accordion >}}
 
 {{< accordion "Systèmes de gestion de projets" >}}
-Exemples : Asana, Jira
+
+Exemples : [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Jira
+
 {{< /accordion >}}
 
 {{< accordion "Systèmes de gestion des RH et du personnel" >}}
-Exemples : Personio, DATEV
+
+Exemples : [Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}), DATEV
+
 {{< /accordion >}}
 
 {{< accordion "Systèmes de gestion de contenu" >}}
+
 Exemples : WordPress, TYPO3
+
 {{< /accordion >}}
 
 Pour trouver le logiciel le mieux adapté à votre entreprise, vous devriez tester plusieurs solutions en vous posant les questions suivantes :
@@ -184,11 +196,11 @@ Pour trouver le logiciel le mieux adapté à votre entreprise, vous devriez test
 
 ## Une gestion des connaissances flexible et efficace avec SeaTable
 
-La base de connaissances **SeaTable**, intuitive et simple d'utilisation **,** est une bonne réponse à toutes ces questions. À différents niveaux (bases, tableaux, vues, lignes), elle vous permet, à vous et à vos collaborateurs, de saisir des informations de manière structurée, de les trouver rapidement, de les partager facilement avec d'autres ou de les filtrer en fonction de leur pertinence pour un groupe de personnes donné. Ainsi, vous et vos collaborateurs gardez toujours une vue d'ensemble.
+La base de connaissances [SeaTable]({{< relref "/" >}}), intuitive et simple d'utilisation, est une bonne réponse à toutes ces questions. À différents niveaux (bases, tableaux, vues, lignes), elle vous permet, à vous et à vos collaborateurs, de saisir des informations de manière structurée, de les trouver rapidement, de les partager facilement avec d'autres ou de les filtrer en fonction de leur pertinence pour un groupe de personnes donné. Ainsi, vous et vos collaborateurs gardez toujours une vue d'ensemble.
 
 ![Documenter les connaissances est une tâche simple avec SeaTable](knowledge-management.jpg)
 
-En choisissant SeaTable, vous offrez à vos collaborateurs une boîte à outils complète qui leur permet de créer une base de connaissances flexible. SeaTable permet une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en temps réel, avec [des commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) et [un historique]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) complet [des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Vous et vos collaborateurs pouvez ainsi transformer vos connaissances personnelles implicites en connaissances explicites et les mettre à la disposition des autres. SeaTable vous permet également de visualiser graphiquement les données à l'aide de différents [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) et [applications]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+En choisissant SeaTable, vous offrez à vos collaborateurs une boîte à outils complète qui leur permet de créer une base de connaissances flexible. SeaTable permet une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en temps réel, avec des [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) et un [historique des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) complet. Vous et vos collaborateurs pouvez ainsi transformer vos connaissances personnelles implicites en connaissances explicites et les mettre à la disposition des autres. SeaTable vous permet également de visualiser graphiquement les données à l'aide de différents [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) et [applications]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 Vous pouvez utiliser SeaTable dans le cloud, qui est hébergé dans des centres de données allemands conformément au RGPD, ou l'installer [sur site]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs. Vos données sont ainsi sécurisées dans tous les cas ! Les autorisations vous permettent en outre de contrôler précisément qui peut voir et traiter quelles données à de nombreux endroits de SeaTable.
 

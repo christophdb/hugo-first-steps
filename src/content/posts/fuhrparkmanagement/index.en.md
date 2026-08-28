@@ -20,18 +20,18 @@ Whether trucks, buses or classic company cars: managing a fleet of vehicles is a
 
 ## What is a vehicle fleet?
 
-Your company's **vehicle** **fleet** includes all vehicles in your [inventory]({{< relref "posts/inventarliste-erstellen" >}}). These are most frequently classic **company cars**. However, it can also include special vehicles: Buses and trains, trucks, construction site vehicles, forklifts, tractors or other vehicles.
+Your company's **vehicle fleet**, or **fleet**, includes all vehicles in your [inventory]({{< relref "posts/inventarliste-erstellen" >}}). These are most frequently classic **company cars**. However, it can also include special vehicles: buses and trains, trucks, construction site vehicles, forklifts, tractors or other vehicles.
 
 ![Fleet management](fuhrparkmanagement-mit-seatable.jpg)
 
 There are two types of vehicles in fleet management:
 
 - Pool vehicles that can be used by several people
-- Company car driven by exactly one person
+- Company cars driven by exactly one person
 
 ## What is fleet management?
 
-Fleet management covers the complete organization of your [vehicle fleet](https://de.wikipedia.org/wiki/Fuhrpark), from acquisition to maintenance and disposal. Smooth fleet management also ensures the **profitability** and **maintenance of your business**. To do this, you need to look after existing vehicles, maintain them and have them repaired if necessary. To ensure that your vehicle fleet stands still as little as possible, you should manage your fleet efficiently and establish fixed fleet management processes.
+Fleet management covers the complete organization of your [vehicle fleet](https://de.wikipedia.org/wiki/Fuhrpark), from acquisition to maintenance and disposal. Smooth fleet management also ensures the **profitability** and **maintenance of your business**. To do this, you need to look after existing vehicles, maintain them and have them repaired if necessary. To keep downtime in your vehicle fleet to a minimum, you should manage your fleet efficiently and establish fixed fleet management processes.
 
 Every company that owns company vehicles should have an efficient fleet management system. It doesn't matter whether you use the vehicles to **transport goods** or as **company cars** for business trips. **Commercial vehicles** such as ambulances, excavators and tractors are also among the use cases.
 
@@ -76,7 +76,7 @@ The **administrative burden** is usually lower with leasing, as many car rental 
 
 ## Fleet management and data protection
 
-As you probably know, you must comply with the **General Data Protection Regulation (GDPR** ) wherever you collect and store personal data. In fleet management, data protection comes into play at many points. It is therefore advisable to obtain a **declaration of consent** from the driver before the vehicle is handed over. Make everyone aware of what data you will store about them, for what purpose and for how long.
+As you probably know, you must comply with the **General Data Protection Regulation (GDPR)** wherever you collect and store personal data. In fleet management, data protection comes into play at many points. It is therefore advisable to obtain a **declaration of consent** from the driver before the vehicle is handed over. Make everyone aware of what data you will store about them, for what purpose and for how long.
 
 {{< warning headline="Note" text="Modern systems can, for example, locate vehicles for route planning and create precise **movement profiles**. **Fuel card usage** can also be used to draw conclusions about routes, consumption and driving style." />}}
 
@@ -86,17 +86,19 @@ Furthermore, you must check the driver's licenses twice a year to ensure that th
 
 ## Systems for your fleet management
 
-You have various options to choose from for managing your vehicle fleet. The software solution should meet several requirements: Firstly, it should be **flexible** and therefore applicable to your individual scenarios. It should also be able to record different types of information (e.g. files, images and GPS data) while remaining easy **to use**.
+You have various options to choose from for managing your vehicle fleet. The software solution should meet several requirements: firstly, it should be **flexible** and therefore applicable to your individual scenarios. It should also be able to record different types of information (e.g. files, images and GPS data) while remaining **easy to use**.
 
 ![Fleet management](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
-The requirements for such software vary depending on the size of the company. Large companies such as transport companies or haulage firms can fall back on special **industry solutions**, but these are often expensive. Smaller companies with a manageable fleet, however, do not have to go to the expense of an expensive fleet management system.
+The requirements for such software vary depending on the size of the company. Large companies such as public transport operators or freight forwarders can fall back on special **industry solutions**, but these are often expensive. Smaller companies with a manageable fleet, however, do not have to go to the expense of an expensive fleet management system.
 
 The database software **SeaTable** makes free fleet management possible for small companies. The cloud-based and GDPR-compliant solution is ideal for managing small to medium-sized fleets, for example of craft businesses or other companies that have employees in the field.
 
 ## Manage your fleet with SeaTable
 
 Keep track of your entire fleet! With our free [fleet management software]({{< relref "templates/operations/fleet-management" >}}), you can catalog your vehicles and handle all fleet management processes in no time at all. Conveniently and easily document bookings, returns, repairs and appointments for your vehicles.
+
+{{< template-box id="d781991c26e24261bdce" >}}
 
 SeaTable offers you clear and intuitive management of your fleet and incoming booking requests. This means you always have an overview of which vehicles are available at what time and the status of your fleet.
 
@@ -116,7 +118,7 @@ Fleet management refers to all processes that affect your vehicle fleet.
 
 {{< faq "What does fleet management involve?" >}}
 
-Fleet management begins with **an assessment of** how many vehicles your company **needs** and then clarifies the **financing, purchase or sale of** the vehicles. It must ensure the careful **management of vehicle documents** (vehicle registration documents, purchase contracts, insurance policies, etc.) and the **GDPR-compliant storage of driver data** (e.g. movement data, fuel receipts, driving licenses). Day-to-day business involves smooth **booking, handover and route planning** as well as any **repairs and inspections**.
+Fleet management begins with a **needs assessment** of how many vehicles your company requires and then clarifies the **financing, purchase or sale** of the vehicles. It must ensure the careful **management of vehicle documents** (vehicle registration documents, purchase contracts, insurance policies, etc.) and the **GDPR-compliant storage of driver data** (e.g. movement data, fuel receipts, driving licenses). Day-to-day business involves smooth **booking, handover and route planning** as well as any **repairs and inspections**.
 {{< /faq >}}
 
 {{< faq "What does fleet management cost?" >}}
