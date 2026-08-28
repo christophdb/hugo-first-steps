@@ -1,5 +1,8 @@
 {{ $name := .Get "name" }}
 {{ $file := .Get "file" }}
+{{/* a bundle file (images/foo.jpg) is a Page Resource: resolve it to its RelPermalink,
+     since a raw relative href would 404. An absolute /downloads/... path falls through. */}}
+{{ with $.Page.Resources.GetMatch $file }}{{ $file = .RelPermalink }}{{ end }}
 {{ $text := .Get "text" | default "Download this base and run the script directly." }}
 {{ $ext := path.Ext $file | default ".dtable" }}
 {{ with .Inner }}{{ end }}
