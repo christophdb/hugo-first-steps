@@ -1,7 +1,7 @@
 ---
 title: 'Step 7: Connect the existing with the API'
 date: 2026-07-02
-lastmod: '2026-07-23'
+lastmod: '2026-08-27'
 categories:
     - 'online-kurs-4'
 author: 'bha'
@@ -11,76 +11,104 @@ aliases:
     - '/help/step-8-connect-the-existing-with-the-api'
 seo:
     title: 'Step 7 of SeaTable course 4: bringing data in through the API'
-    description: 'Learn how an existing piece of software pushes data into SeaTable through its API: the api.seatable.com explorer, the append_rows operation, and the matching Python code.'
+    description: 'Learn how an outside system pushes data into SeaTable through its API: the api.seatable.com reference, the append_rows operation, and the matching Python code.'
 ---
 
-From the very start, your delivery lines have been arriving, linking up, and getting validated. But one question has stayed open: the **purchase-order** lines — the ones that say what you had ordered from your suppliers — where do they come from? You never entered them yourself. That is the subject of this last technical building block, and it reverses the direction of everything we have seen so far: instead of taking information out of SeaTable, we are going to bring it in, from the outside.
+Every delivery so far has reached your base the same way: on paper, at the gate, and then read into `Line items` — by a person, or by the AI of step 4. One of your suppliers is about to change that. They are modernizing their operations, and their delivery notes no longer travel on paper. The moment the truck is loaded, their system sends it straight to you, as data. No sheet in a plastic sleeve, no photograph, nothing to decipher: the lines are simply there when you go looking. Just this one supplier, though: the rest will go on handing a printed note to your driver at the gate.
 
-## Connecting the existing system, not replacing it
+That is the subject of this last technical building block, and it reverses the direction of everything we have seen so far. Until now you took information out of SeaTable; here, something outside brings information in.
 
-In a real company, orders are not born in SeaTable: they already live in a management or accounting software. When you enter a supplier invoice there, that software already knows the ordered lines. So the idea is not to re-enter everything in SeaTable, nor to rebuild that software here: it is to **connect the one that already exists**.
+## Connecting the existing, not replacing it
 
-Concretely, when the invoice is entered, that system calls the **SeaTable API** to drop the order lines into it — all at once, in a single request. That is how the order lines in your base appeared without you touching them: pushed from the outside, by the tool that holds them.
+Your supplier is not going to come and work in your base, and you are not going to work in theirs. What they have is a system that already knows, down to the box, what went onto that truck — the very system that printed the paper note yesterday. What you have is a base that knows what to do with those lines. The only thing missing between the two is a way to talk.
 
-{{< warning headline="You connect, you do not replace" text="This is an important matter of posture. SeaTable is not trying to replace your management software: it plugs into it. The API is the meeting point between what you build here and the systems already in place in the company — each keeps its role, and the data flows between them." />}}
+That way is the API: a door SeaTable leaves open for other programs. When the truck is loaded, their system knocks on it and drops the note's lines into your base — all at once, in a single request. Nobody re-types anything, and nothing has to be rebuilt on either side.
 
-## The API in practice
+{{< warning headline="You connect, you do not replace" text="This is an important matter of posture. SeaTable is not trying to replace the software already in place, whether it is yours or your supplier's: it plugs into it. The API is the meeting point between what you build here and the systems that already exist — each keeps its role, and the data flows between them." />}}
 
-You do not have a management software at hand, but you can play its role. Head to the API explorer, [api.seatable.com](https://api.seatable.com): it lists every operation possible on a base and lets you try them out directly, with your own API token. The one we are interested in adds several rows in a single call: `append_rows`.
+## Discovering the API reference
 
-<!-- TODO (spine open point #9): resolve what document the pushed order lines hang from. Links are now made on the raw Delivery reference, and the course is delivery-only (Line items no longer carries a movement type). A line whose Document reference matches no document stays unlinked — yet the whole payoff here is watching it link itself. Provisional plan: push the lines with the Delivery reference of note B ("your existing system records what was ordered for this delivery"), which also gives Documents.PO reference a visible job. Confirm before finalizing this section; the append_rows fields below assume it. -->
+You do not have a supplier's shipping system at hand, but you can play its part. Head to the API reference, [api.seatable.com](https://api.seatable.com): it lists every operation possible on a base and lets you try them out directly. The one we are interested in adds several rows in a single call: [`Append row(s)`](https://api.seatable.com/reference/appendrows).
 
-Point it at your base and the `Line items` table, describe a few order lines — each carrying the `Delivery reference` of a delivery already in your base, so your linking automation can attach it — then fire the request. Go back into your base: the rows are there, already tied to their product and their document, because the automation you built in step 2 caught them the instant they appeared. You have just done, by hand, what the management software does automatically for every invoice. Open the **online-courses plugin**, select **Step 7**, and let it confirm that your pushed line arrived and linked itself.
+That call needs three things from you, and two of them sit in the same place: open the `API Tokens` dialog of your base, where you will find your base UUID and where you create an API token, with read/write permission. The third is the Base-Token that the endpoint actually asks for.
 
-![The api.seatable.com explorer: the append_rows operation and the generated Python code alongside it](images/lvl4-api-explorer.png)
+{{< warning headline="What is a Base-Token?" text="The Append row(s) endpoint asks for a Base-Token. As they serve different purposes, SeaTable handles [three different types of token](https://api.seatable.com/reference/authentication#seatables-three-tokens). The Base-Token authenticates a base API request (=base operations) like add a new row, append a row or delete a row. The most common way to get one is to [generate it from an API-Token](https://api.seatable.com/reference/getbasetokenwithapitoken) — the value you are interested in is the content of the `access_token` of the API call response." />}}
 
-Look at what the explorer shows next to the request: the **matching code**, in Python, with the `requests` library you already came across at the webhooks step. The loop closes: the API, the scripts, the webhooks — everywhere the same gesture, an HTTP request. What you have just run by hand, a management software runs behind the scenes for every invoice.
+One thing has to exist before anything can be pushed: the note itself. Their system sends the whole of it — the header of the delivery first, then its lines — and we are going to split that conversation in two, so that the half you do by hand stays small enough to read. Open the online courses plugin, select **Step 7a**, and let it play the first half. A new document appears in `Documents`, reference `DN-2026-000871`, and its `{{< seatable-icon icon="dtable-icon-file" >}} File` column is empty: there is nothing to photograph any more.
 
-One last thing worth a thought before you leave it: what would happen if that software fired the same request twice for the same invoice? You would find, at the scale of a whole system, the very question of idempotence you met with the validation button in step 3 — the same precaution applies, whether you click a button or wire two pieces of software together.
+To the right of the form, enter your Base-Token and the server URL — nothing can be sent without them. Then point the call at your base via `base_uuid` and at the `Line items` table using `table_name`. The panel nests, which takes a moment to get used to: `rows` holds an `OBJECT` for each row you are adding, and inside it `ADD FIELD` gives you one column and its value. Below is what a single line looks like once it is filled in.
 
-{{< warning headline="An API token opens your base" text="The explorer asks you for an API token, the one for your base. Handy for trying things out, but keep in mind what it represents: the access key to your data. In production, it is the calling software that holds it — it must keep it on the server side, never expose it in a page nor send it to a browser." />}}
+![The settings panel of the append_rows operation on api.seatable.com, filled in with one delivery line](images/lvl4-api-explorer.png)
 
-## Try it yourself
+Create at least one row to add. Give it a `Qty`, and — more important — the two references your linking automation matches on: in `Document reference`, the `Delivery reference` of the document the plugin has just created; in `Product reference`, that of a product already in your catalog.
 
-You have played the outside system writing *in*; now do the smallest version of it with your own hands. Off to the side of your base sits a **webform** with a single `Reference` field and **barcode scanning turned on**. Take a real product from your desk — a bag of coffee, anything with a barcode — open that form on your phone and **scan it**. A new row lands in `Products`, carrying nothing but its barcode. You have just fed your base from the physical world, in one gesture.
-
-## Going further: enrich from Open Food Facts
-
-That freshly scanned row holds a barcode and nothing else — so let a script fill in the rest. The API you used above pulls data in from a system *you* own; a script can travel the other way just as easily, out to a public service on the open web.
-
-Every barcode in your `Products` catalog is described in [Open Food Facts](https://world.openfoodfacts.org), a free, community-run database of food products. So rather than typing a product's `Description`, `Brand` and `Qty` by hand, you let a script look them up from the barcode alone.
-
-On the `Products` table, create a **button column** named `🌐 Open Food Facts` and attach the script below — the same button-and-script pattern you built in step 3. Click it on your freshly scanned row and watch `Description`, `Brand` and `Qty` appear on their own.
+Right below the form, a panel writes the request call out as code. Here is the result in Python, with the `requests` library you already came across at the webhooks step:
 
 ```python
 import requests
-from seatable_api import Base, context
 
-base = Base(context.api_token, context.server_url)
-base.auth()
+url = "https://cloud.seatable.io/api-gateway/api/v2/dtables/YOUR_BASE_UUID/rows/"
 
-def get_product(barcode: str):
-    url = f"https://world.openfoodfacts.org/api/v3/product/{barcode}.json"
-    headers = {"User-Agent": "SeaTableOnlineCourseLevel4/1.0 (https://seatable.com)"}
-    params = {"fields": "product_name,brands,code,quantity"}
+payload = {
+    "table_name": "Line items",
+    "rows": [
+        {
+            "Document reference": "DN-2026-000871",
+            "Product reference": "9300605048454",
+            "Qty": 12
+        }
+    ]
+}
+headers = {
+    "accept": "application/json",
+    "content-type": "application/json",
+    "authorization": "Bearer YOUR_BASE_TOKEN"
+}
 
-    resp = requests.get(url, headers=headers, params=params, timeout=10)
-    resp.raise_for_status()
-    data = resp.json()
-
-    if data.get("status") == "success":
-        return data["product"]
-    print(f"Product {barcode} can't be found")
-    return None
-
-p = get_product(context.current_row.get('Reference'))
-if p:
-    base.update_row('Products', context.current_row['_id'], {
-        'Description': p.get("product_name"),
-        'Brand': p.get("brands") or "–",
-        'Qty': p.get("quantity") or "–",
-    })
+response = requests.post(url, json=payload, headers=headers)
+print(response.text)
 ```
+
+## The API in practice
+
+Fire the request and you will see underneath what came back:
+
+```
+{
+  "inserted_row_count": 1,
+  "row_ids": [
+    {
+      "_id": "S5nv1sJORr2Pr4NlWpssZw"
+    }
+  ],
+  "first_row": {
+    "vBRI": "DN-2026-000871",
+    "0000": "9300605048454",
+    "ai6E": 12,
+    "_id": "S5nv1sJORr2Pr4NlWpssZw",
+    "_ctime": "2026-08-26T16:05:36.625+00:00",
+    "_mtime": "2026-08-26T16:05:36.625+00:00"
+  }
+}
+```
+
+One row in, one row back — described by its column keys rather than their names, which is how a base talks about itself underneath. The loop closes: the API, the scripts, the webhooks — everywhere the same gesture, an HTTP request. What you have just run by hand, your supplier's system runs behind the scenes for every truck it loads.
+
+Go back into your base: the row is there, already tied to its product and to its document, because the automation you built in step 2 caught it the instant it appeared. That is the whole point of this delivery — it never touched a scanner, a camera or a keyboard, and it is indistinguishable from the ones that did. Back in the plugin, at **Step 7b**, ask it to confirm that your pushed line arrived and linked itself — and that it really came in through the API, because a row typed into the grid by hand would prove nothing here.
+
+One last thing worth a thought before you leave it: what would happen if that system fired the same request twice for the same shipment? You would find, at the scale of a whole system, the very question of idempotence you met with the validation button in step 3 — the same precaution applies, whether you click a button or wire two pieces of software together.
+
+{{< warning headline="A token opens your base" text="The API reference asks you for a token — Account, API or Base. Handy for trying things out, but keep in mind what it represents: the access key to your data. In production, it is the calling software that holds it — it must keep it on the server side, never expose it in a page nor send it to a browser." />}}
+
+## Do it yourself: the API the other way round
+
+Everything above had an outside system writing **into** SeaTable: it called, your base answered. The same door opens the other way. A script of yours can call somebody else's API just as easily, ask it a question and write the answer into a row — and that is worth seeing at least once, because it is what turns your base from a place that stores what you know into one that goes and finds out.
+
+Here is the smallest useful version of it. Off to the side of your base sits a `New product` webform with a single `Reference` field and barcode scanning turned on. Take a real product from your desk — a bag of coffee, anything with a barcode — open that form on your phone and scan it. A new row lands in `Products`, carrying nothing but its barcode. You have just fed your base from the physical world, in one gesture — and you are left with a row that is almost entirely empty.
+
+So let a script fill in the rest. Every barcode in your `Products` catalog is described in [Open Food Facts](https://world.openfoodfacts.org), a free, community-run database of food products. So rather than typing a product's `Description`, `Brand` and `Qty` by hand, you let a script look them up from the barcode alone.
+
+On the `Products` table, create a button column named `🌐 Open Food Facts` and attach the already present `retrieve data from Open Food Facts` script to it — the same button-and-script pattern you built in step 3. Click it on your freshly scanned row and watch `Description`, `Brand` and `Qty` appear on their own.
 
 The script reads the row's `Reference`, asks Open Food Facts about that barcode (`GET /product/{barcode}.json` — no key needed to read), and writes three of the fields it returns back onto the row: `product_name` into `Description`, `brands` into `Brand`, `quantity` into `Qty`. It is the mirror image of what you did above — there, an outside system wrote into your base; here, your base reaches outside and brings something back.
 
@@ -88,6 +116,7 @@ The script reads the row's `Reference`, asks Open Food Facts about that barcode 
 
 ## Help article with further information
 
-- [Using the SeaTable API]({{< relref "help/integrationen/seatable-api/" >}})
+- [Introduction to the use of the SeaTable API]({{< relref "help/integrationen/seatable-api/einfuehrung-in-die-nutzung-der-seatable-api/" >}})
 - [Creating an API token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens/" >}})
-- [The interactive API explorer](https://api.seatable.com)
+- [SeaTable API Authentication](https://api.seatable.com/reference/authentication)
+- [The interactive API reference](https://api.seatable.com)

@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2026-07-02
-lastmod: '2026-07-02'
+lastmod: '2026-08-27'
 categories:
     - 'online-kurs-4'
 author: 'bha'
@@ -37,10 +37,10 @@ Throughout the course, you will learn to:
 
 - automate an action without writing a single line of code — a trigger, a condition, an action.
 - write a short Python script for what automation alone cannot do.
-- call SeaTable's API, and let an outside tool write to it in turn.
+- let AI read a delivery note and extract its lines on its own.
 - send a notification to the outside world with a webhook.
 - orchestrate a small workflow with n8n to archive a document.
-- let AI read a delivery note and extract its lines on its own.
+- call SeaTable's API, and let an outside tool write to it in turn.
 
 By the end, you will have a complete toolkit to automate your processes and connect them to the outside world.
 
@@ -48,7 +48,7 @@ By the end, you will have a complete toolkit to automate your processes and conn
 
 Like the previous courses, you follow this one here, on the site. What is new is a companion: a plugin you add to your base and switch to at certain moments — to discover a feature, or to have what you just built checked. You set up an automation or a script by following the course, you open the plugin, you click `Verify`, and it checks whether the expected effect is really there in your data.
 
-![The online-courses plugin open on the warehouse base, showing the current exercise and the verify button](images/lvl4-course-plugin.png)
+![The online courses plugin open on the warehouse base, showing the current exercise and the verify button](images/lvl4-course-plugin.png)
 
 Some steps, on the other hand, take you out of SeaTable for real — sending an actual notification to your phone, archiving an actual file in another service. For those, the plugin scores nothing: it simply tells you to trigger the action, then to go and see the result on the other side. That manual check is part of the lesson.
 
@@ -59,12 +59,13 @@ New to this companion? The plugin includes a short Welcome course — pick it fr
 To follow this course successfully, you will need:
 
 1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine.
-2. **The course plugin**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), to add to your base. We explain how to install it just before the first step. 
-3. **Forum**: an [account on our community forum](https://forum.seatable.com/)  if you would like to receive a badge after completing the course.
-4. **Optional, for the webhook step**: you will send an external notification using [ntfy](https://ntfy.sh/). No account is needed and you can confirm receipt in your browser, but to receive it on your phone you will need to install the ntfy app from your app store.
-5. **Optional, for the n8n step**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Google](https://www.google.com/drive/) account (for Google Drive) — n8n offers a free trial with no credit card, and a Google account is one you very likely already have. Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
-6. **Browser**: we recommend Google Chrome.
-7. **Language**: the course is available in several languages, but the quiz, screenshots and sample data are in English.
+2. **Artificial intelligence, for one step**: the step where SeaTable reads a delivery note needs a system with AI available. On SeaTable Cloud there is nothing to do — it is included and free. On a self-hosted system, an administrator has to [install the SeaTable AI component](https://admin.seatable.com/installation/components/seatable-ai/) and point it at a model. Without it you can still read that step and carry on with the course, but you will not be able to run the chain it builds.
+3. **The course plugin**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), to add to your base. You will activate it in the first step, when you first need it.
+4. **Forum**: an [account on our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
+5. **Optional, for the webhook step**: you will send an external notification using [ntfy](https://ntfy.sh/). No account is needed and you can confirm receipt in your browser, but to receive it on your phone you will need to install the ntfy app from your app store.
+6. **Optional, for the n8n step**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Google](https://www.google.com/drive/) account (for Google Drive) — n8n offers a free trial with no credit card, and a Google account is one you very likely already have. Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
+7. **Browser**: we recommend Google Chrome.
+8. **Language**: the course is available in several languages, but the quiz, screenshots and sample data are in English.
 
 ## How long does the course last?
 
