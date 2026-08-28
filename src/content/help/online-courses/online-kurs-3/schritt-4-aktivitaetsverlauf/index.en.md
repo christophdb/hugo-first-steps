@@ -41,7 +41,7 @@ Now switch back to your window 🌐 and open that row's log to see what happened
 
 ## A later, unrelated edit
 
-While you have the record open, you notice that `James Bennett`'s `Phone` number is out of date. In your window 🌐, correct it — set it to `+49 75 899 3917`. This is a separate, deliberate change — and, importantly, it happens *after* Malika changed the `Status`. Keep that order in mind; it matters in a moment.
+While you have the record open, you notice that `James Bennett`'s `Phone` number is out of date. In your window 🌐, correct it — set it to `+49 75 899 3917`. This is a separate, deliberate change — and, importantly, it happens **after** Malika changed the `Status`. Keep that order in mind; it matters in a moment.
 
 ## The mistake
 
@@ -61,7 +61,7 @@ Open that entry's menu and choose `{{< seatable-icon icon="dtable-icon-revoke" >
 
 Restore is not a time machine that rewinds the whole row to how it looked on a past date. It **undoes one specific change** — it reverts the value that entry altered, and leaves everything else exactly as it is.
 
-This is easiest to see with the `Phone` number. You corrected it *after* Malika changed the `Status`. A time-machine rollback to before the `Status` change would have wiped that later correction too — but it stays, because Restore only touches the one change you picked. The `Industry` value Malika updated back in Step 3 stays as well; only the `Status` returns to its previous value. You reversed precisely the one mistake and nothing more. That precision is what makes restoring from the log safe to use on a live base that other people are working in.
+This is easiest to see with the `Phone` number. You corrected it **after** Malika changed the `Status`. A time-machine rollback to before the `Status` change would have wiped that later correction too — but it stays, because Restore only touches the one change you picked. The `Industry` value Malika updated back in Step 3 stays as well; only the `Status` returns to its previous value. You reversed precisely the one mistake and nothing more. That precision is what makes restoring from the log safe to use on a live base that other people are working in.
 
 {{< warning headline="Not everything can be restored" text="Restore works on changed values, and also on deleted rows, columns and tables. It does not work on everything, though: a newly inserted row or column cannot be undone from the log — it appears there, but its menu shows No Options instead of Restore. Comments are not covered at all, as they never appear in the history log in the first place. And note that restoring is itself a change: the entry you undid stays listed, and the restore adds a new event of its own to the log." />}}
 

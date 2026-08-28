@@ -60,7 +60,7 @@ Switch back to your window 🌐 to see Malika's reply and the resolved marker. Y
 
 ## Try it yourself
 
-Test the rule that you can only mention collaborators: start a comment, type `@`, and look at who appears. Malika is there because you shared the base with her in Step 2 — but a teammate you have *not* shared this base with will not appear, however much they belong to your team. It is the quickest way to see why sharing had to come first.
+Test the rule that you can only mention collaborators: start a comment, type `@`, and look at who appears. Malika is there because you shared the base with her in Step 2 — but a teammate you have **not** shared this base with will not appear, however much they belong to your team. It is the quickest way to see why sharing had to come first.
 
 You can now discuss any record with a colleague and be sure they hear about it. But conversations explain intentions — they do not, by themselves, record what actually changed in the data. For that, SeaTable keeps a complete history, which is the subject of the next step.
 
