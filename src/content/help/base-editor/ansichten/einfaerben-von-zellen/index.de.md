@@ -20,6 +20,10 @@ Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen fa
 
 {{< /warning >}}
 
+**In diesem How-to-Video erklären wir Ihnen in wenigen Minuten, wie Sie Zellen in SeaTable einfärben.**
+
+{{< youtube dN5arPRpgeg >}}
+
 ## Einfärben durch Regeln oder nach Werten
 
 Jede Spalte einer Tabellenansicht bietet die Option **Zellen der Spalte formatieren** an: ![Menüoption „Zellen der Spalte formatieren“ in SeaTable](images/color-cells.png)
