@@ -83,7 +83,7 @@ Run it, and every customer that existed in the old list gets its segment and its
 
 ## Linking campaigns the right way
 
-`Acquired via` is the best the old list could do: a single campaign name typed into a field. The flat manual copy was never connected to the real `Campaigns` records, so it could not say that a customer belongs to *several* campaigns, or follow a campaign to its customers. Rebuilding the table is the moment to fix that.
+`Acquired via` is the best the old list could do: a single campaign name typed into a field. The flat manual copy was never connected to the real `Campaigns` records, so it could not say that a customer belongs to **several** campaigns, or follow a campaign to its customers. Rebuilding the table is the moment to fix that.
 
 In `Campaign Hub`, add an `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Audience` link column on `Campaigns`, pointing to `Customers (live)`. From now on, when Marketing launches a campaign, they pick its target customers right there — a proper, many-to-many link, not a single label.
 
@@ -105,7 +105,7 @@ Malika's table updates to match yours — the edit appears, the new customer sho
 
 ## Try it yourself
 
-See the one-way rule bite: in Malika's window 🕶, edit one of the *synced* cells in `Customers (live)` — change a customer's name, say. Then synchronise and watch your source value wipe her edit out, while her own `Segment` column stays untouched. That is the difference between borrowed data and your own, made visible: the synced columns are not Marketing's to change, but the columns they add are theirs to keep.
+See the one-way rule bite: in Malika's window 🕶, edit one of the **synced** cells in `Customers (live)` — change a customer's name, say. Then synchronise and watch your source value wipe her edit out, while her own `Segment` column stays untouched. That is the difference between borrowed data and your own, made visible: the synced columns are not Marketing's to change, but the columns they add are theirs to keep.
 
 You have now distributed live data across teams while keeping your master private and authoritative — the heart of collaboration in SeaTable. One light, enjoyable tool remains before we wrap up.
 
