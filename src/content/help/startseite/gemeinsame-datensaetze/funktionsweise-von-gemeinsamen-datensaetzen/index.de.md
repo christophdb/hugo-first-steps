@@ -26,6 +26,10 @@ Im Vergleich zu einer [Ansichtsfreigabe]({{< relref "help/startseite/freigaben/f
 
 {{< warning headline="Gemeinsame Datensätze und Big Data Backend" text="Zum aktuellen Zeitpunkt ist es nicht möglich, Gemeinsame Datensätze innerhalb einer Big Data Ansicht zu nutzen." />}}
 
+**In diesem How-to-Video erklären wir Ihnen in wenigen Minuten, wie Sie einen gemeinsamen Datensatz in SeaTable anlegen und importieren.**
+
+{{< youtube Mz2p1VrGPqA >}}
+
 Im folgenden Überblick finden Sie auch die Links zu den verschiedenen Hilfe-Artikeln in der Rubrik Gemeinsame Datensätze.
 
 ## Anlegen eines gemeinsamen Datensatzes

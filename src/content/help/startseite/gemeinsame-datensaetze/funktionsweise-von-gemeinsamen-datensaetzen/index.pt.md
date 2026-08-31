@@ -28,6 +28,10 @@ Em comparação com uma partilha de [vistas]({{< relref "help/startseite/freigab
 
 {{< warning headline="Registros Compartilhados e Big Data Backend" text="No momento, não é possível usar registros compartilhados em uma visualização Big Data." />}}
 
+**Neste vídeo tutorial, explicamos-lhe, em poucos minutos, como criar e importar um conjunto de dados partilhado no SeaTable (com legendas em português).**
+
+{{< youtube Mz2p1VrGPqA >}}
+
 Na síntese seguinte encontrará também os links para os vários artigos de ajuda na secção de Conjuntos de Dados Comuns.
 
 ## Criação de um conjunto de dados comum

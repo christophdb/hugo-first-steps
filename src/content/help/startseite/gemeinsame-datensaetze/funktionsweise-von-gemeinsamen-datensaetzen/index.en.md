@@ -29,6 +29,10 @@ Compared to a [view]({{< relref "help/startseite/freigaben/freigabe-einer-ansich
 
 {{< warning headline="Common datasets and Big Data storage" text="At this time, it is not possible to use common datasets within a Big Data view." />}}
 
+**In this how-to video, we'll show you in just a few minutes how to create and import a common dataset in SeaTable.**
+
+{{< youtube _gV2nAlui9I >}}
+
 In the following overview you will also find the links to the various help articles in the common datasets section.
 
 ## Create a common dataset
