@@ -16,10 +16,6 @@ weight: 2
 
 With the help of automations, you can **automate processes**. This not only saves you time, but also minimizes the number of human errors. The first step towards automated workflows is to create an automation.
 
-**In this video, we give you a quick overview of our automation editor.**
-
-{{< youtube AMEY5z0nRig >}}
-
 ## Create an automation rule
 
 1. Open the **Base** in which you want to create an automation.
