@@ -28,6 +28,10 @@ En comparación con una [vista]({{< relref "help/startseite/freigaben/freigabe-e
 
 {{< warning headline="Registros compartidos y Big Data Backend" text="Actualmente no es posible utilizar registros compartidos dentro de una vista Big Data." />}}
 
+**En este vídeo tutorial le explicamos en pocos minutos cómo crear e importar un conjunto de datos compartido en SeaTable (con subtítulos en español).**
+
+{{< youtube Mz2p1VrGPqA >}}
+
 En el siguiente resumen también encontrará los enlaces a los distintos artículos de ayuda de la sección Conjuntos de datos comunes.
 
 ## Creación de un conjunto de datos común

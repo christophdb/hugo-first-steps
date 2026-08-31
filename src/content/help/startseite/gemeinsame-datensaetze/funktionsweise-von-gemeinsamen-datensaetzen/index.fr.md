@@ -28,6 +28,10 @@ Par rapport au [partage d'une vue]({{< relref "help/startseite/freigaben/freigab
 
 {{< warning headline="Jeux de données partagés et Big Data Backend" text="À l’heure actuelle, il n’est pas possible d’utiliser des jeux de données partagés dans une vue Big Data." />}}
 
+**Dans cette vidéo explicative, nous vous expliquons en quelques minutes comment créer et importer un ensemble de données partagé dans SeaTable (avec des sous-titres en français).**
+
+{{< youtube Mz2p1VrGPqA >}}
+
 Dans l'aperçu suivant, vous trouverez également les liens vers les différents articles d'aide dans la rubrique Jeux de données communs.
 
 ## Création d'un jeu de données commun
