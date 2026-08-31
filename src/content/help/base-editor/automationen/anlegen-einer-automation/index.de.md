@@ -14,6 +14,10 @@ weight: 2
 
 Mithilfe von Automationen können Sie **Prozesse automatisieren**. So sparen Sie nicht nur Zeit, sondern minimieren auch die Anzahl menschlicher Fehler. Den ersten Schritt hin zu automatisierten Workflows stellt dabei das Anlegen einer Automation dar.
 
+**In diesem Video geben wir Ihnen einen kurzen Überblick über den SeaTable-Automationen-Editor.**
+
+{{< youtube DxCTzO4UkyM >}}
+
 ## Eine Automatisierungsregel anlegen
 
 1. Öffnen Sie die **Base**, in der Sie eine Automation anlegen möchten.
