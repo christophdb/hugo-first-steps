@@ -16,6 +16,10 @@ weight: 2
 
 Con la ayuda de las automatizaciones, puede **automatizar procesos** de modo que no sólo ahorre tiempo, sino que también minimice el número de errores humanos. El primer paso hacia los flujos de trabajo automatizados es crear una automatización.
 
+**En este vídeo, te ofrecemos una breve descripción general de nuestro editor de automatización (con subtítulos en español).**
+
+{{< youtube AMEY5z0nRig >}}
+
 ## Crear una regla de automatización
 
 1. Abra la **Base** en la que desea crear una automatización.

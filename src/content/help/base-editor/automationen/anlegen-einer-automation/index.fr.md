@@ -15,6 +15,10 @@ seo:
 
 Les automatisations permettent d'**automatiser les processus**, ce qui permet non seulement de gagner du temps, mais aussi de réduire le nombre d'erreurs humaines. La première étape vers l'automatisation des flux de travail est la création d'une automatisation.
 
+**Dans cette vidéo, nous vous proposons un aperçu rapide de notre éditeur d'automatisation (avec sous-titres en français).**
+
+{{< youtube AMEY5z0nRig >}}
+
 ## Créer une automatisation
 
 1. Ouvrez la **Base** dans laquelle vous souhaitez créer une automation.
