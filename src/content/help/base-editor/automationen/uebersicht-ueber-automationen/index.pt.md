@@ -23,6 +23,10 @@ Consequentemente, as automatizações têm um efeito particularmente grande em *
 
 O artigo seguinte destina-se a dar-lhe uma visão geral do tema das automatizações no SeaTable e contém links para os vários artigos de ajuda em torno desta característica.
 
+**Neste vídeo, apresentamos-lhe uma visão geral rápida do nosso editor de automação (com legendas em português).**
+
+{{< youtube AMEY5z0nRig >}}
+
 ## O editor de automatização
 
 Pode aceder ao editor de automatização de uma base através do ícone correspondente no cabeçalho da base.

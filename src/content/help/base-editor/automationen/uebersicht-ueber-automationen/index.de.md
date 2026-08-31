@@ -21,6 +21,10 @@ Dementsprechend entfalten Automationen eine besonders große Wirkung in **umfang
 
 Der folgende Artikel soll Ihnen einen Überblick über das Thema Automationen in SeaTable verschaffen und enthält Links zu den verschiedenen Hilfe-Artikeln rund um dieses Feature.
 
+**In diesem Video geben wir Ihnen einen kurzen Überblick über den SeaTable-Automationen-Editor.**
+
+{{< youtube DxCTzO4UkyM >}}
+
 ## Der Automations-Editor von SeaTable
 
 Sie erreichen den Automations-Editor einer Base über das entsprechende Icon im Base-Header.

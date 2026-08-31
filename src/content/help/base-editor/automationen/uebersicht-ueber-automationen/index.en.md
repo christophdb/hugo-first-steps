@@ -23,6 +23,10 @@ Accordingly, automations have a particularly large impact in **large data sets**
 
 The following article is intended to give you an overview of the topic of automations in SeaTable and includes links to the various help articles related to this feature.
 
+**In this video, we give you a quick overview of our automation editor.**
+
+{{< youtube AMEY5z0nRig >}}
+
 ## The SeaTable automation editor
 
 You can access the automation editor of a base via the corresponding icon in the base header.
