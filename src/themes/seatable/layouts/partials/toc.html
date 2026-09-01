@@ -3,6 +3,9 @@
         {{ i18n "article.table_of_contents" }}
     </summary>
     <div class="border-dotted border-neutral-300 bg-neutral-100 p-4">
-        {{ .TableOfContents | replaceRE "id=\"TableOfContents\"" "id=\"TableOfContentsMobile\"" | emojify | safeHTML }}
+        {{/* Hugo assembles the table of contents before shortcodes are substituted, so a shortcode
+             used inside a heading leaks its raw placeholder (HAHAHUGOSHORTCODE…HBHB) into the TOC.
+             Strip it: the heading keeps the shortcode, the TOC entry keeps only the text. */}}
+        {{ .TableOfContents | replaceRE "HAHAHUGOSHORTCODE[0-9a-zA-Z]+HBHB\\s*" "" | replaceRE "id=\"TableOfContents\"" "id=\"TableOfContentsMobile\"" | emojify | safeHTML }}
     </div>
 </details>

@@ -1,9 +1,14 @@
-{{ $icon := "" }}
-{{ if .IsNamedParams }}
-    {{ $icon = .Get "icon" }}
-{{ else }}
-    {{ $icon = .Get 0 }}
-{{ end }}
-
-
-<span class="dtable-font {{ $icon }}" {{ if .Get "color" }}style="color: {{ .Get `color` }}"{{ end }}></span>
+{{- /* Leading whitespace is trimmed: it used to be emitted INSIDE the
+       surrounding element (typically a code span), rendering as a stray
+       space with the code background at the end of the previous line, and
+       giving the line a break point before the icon. The trailing newline
+       is deliberately KEPT — around 340 call sites write the column name
+       (or punctuation) straight after the shortcode with no space of their
+       own and rely on it. */ -}}
+{{- $icon := "" -}}
+{{- if .IsNamedParams -}}
+    {{- $icon = .Get "icon" -}}
+{{- else -}}
+    {{- $icon = .Get 0 -}}
+{{- end -}}
+<span class="dtable-font {{ $icon }}"{{ if .Get "color" }} style="color: {{ .Get `color` }}"{{ end }}></span>

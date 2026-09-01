@@ -1,0 +1,18 @@
+{{- /*
+    Inline icon for use INSIDE a heading (e.g. the plugin sections of the plugins overview).
+    A plain Markdown image cannot be used there: the render-image hook wraps every image in a
+    <figure>, which is a block element and would break the heading.
+
+    Usage: {{< plugin-icon src="images/plugin-icon-map.png" alt="Map plugin icon" >}}
+    The src is resolved as a page resource of the current page bundle; any other value is
+    passed through unchanged.
+*/ -}}
+{{- $src := .Get "src" | default (.Get 0) -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $url := $src -}}
+{{- with $.Page.Resources.GetMatch $src -}}
+    {{- $url = .RelPermalink -}}
+{{- end -}}
+{{- /* border/padding are reset inline: .help-content img carries a 1px #ddd frame + 5px padding,
+       which is meant for screenshots and would put a grey box around the icon. */ -}}
+<img src="{{ $url }}" alt="{{ $alt }}" loading="lazy" style="display:inline-block;width:1.15em;height:1.15em;margin:0 0.4em 0 0;padding:0;border:0;vertical-align:-0.16em" />

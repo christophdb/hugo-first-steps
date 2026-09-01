@@ -20,7 +20,7 @@
   'y': 65.5
 
 - 'label': 'Course 4 — Automation & Integration'
-  'description': 'Automate your workflows and connect external tools.<br><br>Will cover automations, scripts, API basics, webhooks, and integrations with n8n, Zapier, and Make.<br><br><em>Coming soon.</em>'
+  'description': 'Automate your workflows and connect external tools.<br><br>Will cover automations, scripts, API basics, webhooks, and integrations with a workflow automation service.<br><br><em>Coming soon.</em>'
   'link': ''
   'position': 'left'
   'x': 96.2
