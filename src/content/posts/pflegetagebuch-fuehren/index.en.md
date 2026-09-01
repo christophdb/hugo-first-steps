@@ -12,7 +12,7 @@ tags:
     - 'Everyday Life & Leisure'
 color: '#44c4c5'
 register:
-   draft: true
+   show: true
 ---
 
 ## What Is a Care Journal?

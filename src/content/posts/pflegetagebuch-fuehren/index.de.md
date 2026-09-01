@@ -4,7 +4,7 @@ description: 'Zwischen Beruf, eigener Familie und der Pflege eines Angehörigen 
 seo:
     title: 'Pflegetagebuch führen: Pflegebedarf richtig dokumentieren'
     description: 'Pflegetagebuch richtig führen: So dokumentieren Sie den Pflegebedarf lückenlos, vermeiden Fehler bei der MDK-Prüfung & sichern den passenden Pflegegrad'
-date: 2026-08-27
+date: 2026-08-31
 url: '/de/pflegetagebuch-fuehren/'
 categories:
     - 'best-practice'
@@ -12,7 +12,7 @@ tags:
     - 'Alltag & Freizeit'
 color: '#44c4c5'
 register:
-   draft: true
+   show: true
 ---
 
 ## Was ist ein Pflegetagebuch?

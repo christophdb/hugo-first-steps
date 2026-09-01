@@ -12,7 +12,7 @@ tags:
     - 'Vida cotidiana e lazer'
 color: '#44c4c5'
 register:
-   draft: true
+   show: true
 ---
 
 ## O que é um diário de cuidados?

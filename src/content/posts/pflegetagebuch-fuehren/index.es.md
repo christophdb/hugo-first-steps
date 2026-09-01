@@ -4,7 +4,7 @@ description: 'Entre el trabajo, su propia familia y el cuidado de un familiar, a
 seo:
     title: 'Llevar un diario de cuidados: cómo documentar correctamente las necesidades de cuidados'
     description: 'Cómo llevar correctamente el diario de cuidados: así documentará de forma exhaustiva las necesidades de cuidados, evitará errores en la evaluación del BVD y garantizará la asignación del grado de dependencia adecuado'
-date: 2026-08-27
+date: 2026-08-31
 url: '/es/llevar-un-diario-de-cuidados/'
 categories:
     - 'best-practice'
