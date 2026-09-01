@@ -25,19 +25,19 @@ SeaTable records changes in three places, each answering a different question.
 - **The base log** answers "what happened in this base?" You open it from the versions icon within the history dropdown in the base's top-right corner. It holds the most recent changes (up to the last 1,000 entries), newest first, and you can filter it by who made the change, which table, and when. This is the only one of the three from which you can **restore**.
 - **The row log** answers "what happened to this one record?" You open a row's details and switch to its log. It is a focused, read-only timeline for that single row.
 
-Each entry, wherever you read it, tells you the same essentials: who made the change, when, which column, and what changed.
+The three do not go into the same detail, and that difference shapes the rest of this step. The row log is the precise one: for each change it names the column and puts the value that was replaced next to the one that replaced it. The base log works at the level of the record — who changed which row, in which table, and when — but not which value changed, nor what it was before. So you read a change in the row log, and you undo it in the base log. This step uses both, in that order.
 
 ## A colleague changes your data
 
 Let's create the situation. Malika had understood that the customer `James Bennett` just signed a contract. Because you gave her read-write access back in Step 2, she did not need to ask you — she marked it herself.
 
-In Malika's window 🕶, open `James Bennett` in the `Customers` table and change his `Status` from `Prospect` to `Client`.
+In Malika's window 🕶, find `James Bennett` in the `Customers` table and change his `Status` from `Prospect` to `Client` directly in the grid.
 
-Now switch back to your window 🌐 and open that row's log to see what happened: click the double-arrow icon {{< seatable-icon icon="dtable-icon-open" >}} on its row number to open the row, then switch to the log. There it is — `Status` changed from `Prospect` to `Client`, stamped with Malika's name and the time. Scroll a little and you will also see the `Industry` change Malika made on this row back in Step 3. With two real accounts at work, the history names each of you correctly, so it is always clear who did what.
+Now switch back to your window 🌐 and open that row's log to see what happened: click the double-arrow icon {{< seatable-icon icon="dtable-icon-open" >}} on its row number to open the row, then switch to the log. There it is — `Status` changed from `Prospect` to `Client`, stamped with Malika's name and the time. Note that time; you will need it shortly. Scroll a little and you will also see the `Industry` change Malika made on this row back in Step 3. With two real accounts at work, the history names each of you correctly, so it is always clear who did what.
 
 ![The row log for James Bennett showing the Status change and who made it](images/lvl3-row-log.png)
 
-{{< warning headline="The row log shows, it does not undo" text="The row log is a read-only timeline. It is the quickest way to understand the story of a single record, but it has no Restore button. To reverse a change you go to the base log, which is covered next." />}}
+{{< warning headline="The row log shows, it does not undo" text="The row log is a read-only timeline, and the most detailed of the three: it is the only one that shows you the value a change replaced, and the column it sat in. What it does not have is a Restore button. Undoing happens in the base log, which is why this step needs both — you find out what happened here, and you act there." />}}
 
 ## A later, unrelated edit
 
@@ -47,15 +47,17 @@ While you have the record open, you notice that `James Bennett`'s `Phone` number
 
 The phone was easy. The `Status` is the real problem: `James Bennett` never signed, so it has to go back to its previous value.
 
-You could just retype it. But was he a `Prospect` before, or a `Lead`? The change was Malika's, not yours, so you may not even be sure what she overwrote — and re-keying a value you are not certain of is how small errors creep in. The history removes the doubt: it holds the exact value that was there before, and it can put it back for you.
+The row log has already told you what that value was: `Prospect`. So you could retype it and be done. But retyping is not undoing — it is a second change stacked on the first, and it only works here because a single cell is at stake and you had the log open. Restore reverses the change itself, and it reaches where retyping cannot: a deleted row, a deleted column, a whole deleted table. Learn it on the easy case and it is there for you on the hard one.
 
 ## Restoring a single change
 
-Open the **base log** from the versions icon within the history dropdown in the top-right corner of the base. The list can be long, so narrow it down with the filters — filter by the `Customers` table, or by Malika's name, until you find the entry where `James Bennett`'s `Status` changed from `Prospect` to `Client`.
+Open the **base log** from the versions icon within the history dropdown in the top-right corner of the base. It lists every change made in the base, newest first, so narrow it down with the filters along the top: the `Customers` table, and Malika as the creator.
+
+What is left is a run of entries that all read much the same — `Malika modified table Customers`, then `Row James Bennett modified` — because the base log records that a row changed, not which value changed in it. This is where the time you noted earlier earns its keep: the entry stamped with the moment of the `Status` change is the one to act on.
 
 Open that entry's menu and choose `{{< seatable-icon icon="dtable-icon-revoke" >}} Restore`. SeaTable immediately sets the `Status` back to `Prospect` and confirms with a short message. Open `James Bennett` again to check: he is a `Prospect` once more.
 
-{{< zoom image="images/lvl3-base-log-restore.gif" alt="The base log with the Status change selected and the Restore option in the three-dot menu" >}}
+{{< zoom image="images/lvl3-base-log-restore.gif" alt="The base log filtered to Malika's changes in the Customers table, with Restore chosen from an entry's menu" >}}
 
 ## What Restore really does
 
