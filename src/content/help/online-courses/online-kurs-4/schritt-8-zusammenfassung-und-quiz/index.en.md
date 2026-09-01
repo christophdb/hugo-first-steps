@@ -40,4 +40,4 @@ The process you have built was deliberately kept simple to get to the point, but
 
 And here is one challenge to stand on your own feet. All along you worked in a single direction — deliveries arriving from your suppliers, adding to the stock. But your base carries a second `Movement type` for the opposite direction: the `Customer order`, where goods leave your shelves. Point the same building blocks the other way — when a customer order comes in, check the stock is there, record what goes out, subtract it from `Stock`, and alert whoever needs to know. It is the patterns you already know, running in reverse — and this time, no one walks you through it.
 
-Thank you for taking this course, and well done for the road you have travelled.
+Thank you for taking this course, and well done for the road you have traveled.

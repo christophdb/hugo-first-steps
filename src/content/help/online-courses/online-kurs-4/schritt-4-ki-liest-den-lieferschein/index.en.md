@@ -208,7 +208,7 @@ if lines:
 
 Three things moved: the catalog is read once, before the loop, rather than for every line; `snap()` sits above the work it serves; and it is called at the single place where the line's reference is written. The rest is exactly what you already had.
 
-Run the chain again and the orphaned line finds its product. Note what the cutoff protects you from: below it, the script keeps the reference exactly as the AI read it rather than attaching the line to a plausible-looking neighbour. A line you can see is unmatched is a small annoyance; a line silently attached to the wrong product is a wrong stock.
+Run the chain again and the orphaned line finds its product. Note what the cutoff protects you from: below it, the script keeps the reference exactly as the AI read it rather than attaching the line to a plausible-looking neighbor. A line you can see is unmatched is a small annoyance; a line silently attached to the wrong product is a wrong stock.
 
 ## AI proposes, you validate
 
