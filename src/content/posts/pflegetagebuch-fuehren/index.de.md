@@ -67,7 +67,7 @@ Das Punktestystem orientiert sich an sechs Modulen:
 
 Statt mit vagen Aussagen sollten Sie unbedingt mit glaubhaften Zahlen argumentieren, die Ihnen ein Pflegetagebuch liefern kann: Wie oft benötigt Ihr Angehöriger Unterstützung beim Aufstehen? Wie viele Minuten dauert die Hilfe beim Waschen oder Anziehen? Wie häufig müssen Sie nachts unterstützen? Solche **Detailinformationen sind ausschlaggebend** für die Einstufung des Pflegegrads.
 
-![Gutachtern interviewt Pflegebedürftige: Ein Pflegetagebuch hilft bei der Vorbereitung](pflegetagebuch_gutachten.png)
+![Gutachterin interviewt Pflegebedürftige: Ein Pflegetagebuch hilft bei der Vorbereitung](pflegetagebuch_gutachten.png)
 
 ### Transparenz gegenüber der Pflegekasse: Den tatsächlichen Pflegebedarf nachweisen
 
@@ -89,10 +89,9 @@ Pflegende Angehörige sollten einige Regeln beachten, wenn Sie ein Tagebuch füh
     
 *   Dokumentieren Sie auch intime oder unangenehme Situationen, wie Hilfe beim Toilettengang, Inkontinenz oder aggresives Verhalten.
     
-*   Erfassen Sie unabhängig von einzelnen Handlungen täglich die Stimmung der pflegebedürftigen Person, um dem Gutachter weiteren Kontext geben zu können.
-    
+*   Erfassen Sie unabhängig von einzelnen Handlungen täglich die Stimmung der pflegebedürftigen Person, um dem Gutachter weiteren Kontext geben zu können.    
 
-Orienteren Sie sich bei der Struktur Ihres Pflegeprotokolls am besten an den Pflegebereichen, die für das Gutachten relevant sind. Erfassen Sie zusätzlich **die hauswirtschaftliche Versorgung** – Einkaufen, Kochen, Putzen. Damit vermitteln Sie dem Gutacher ein vollständigeres Bild der Pflegesituation, auch wenn die hauswirtschaftliche Versorgung nicht in die eigentliche Bewertung einfließt. **Vitalwerte**, ein persönlicher [Medikamentenplan]({{< relref "posts/medikamentenplan" >}}) oder ein [Ernährungsprotokoll]({{< relref "posts/ernaehrungstagebuch" >}})können je nach Situation ebenfalls sinnvolle Bestandteile des Pflegetagebuchs sein.
+Orienteren Sie sich bei der Struktur Ihres Pflegeprotokolls am besten an den Lebensbereichen, die für das Gutachten relevant sind. Erfassen Sie zusätzlich **die hauswirtschaftliche Versorgung** – Einkaufen, Kochen, Putzen. Damit vermitteln Sie dem Gutacher ein vollständigeres Bild der Pflegesituation, auch wenn die hauswirtschaftliche Versorgung nicht in die eigentliche Bewertung einfließt. **Vitalwerte**, ein persönlicher [Medikamentenplan]({{< relref "posts/medikamentenplan" >}}) oder ein [Ernährungsprotokoll]({{< relref "posts/ernaehrungstagebuch" >}})können je nach Situation ebenfalls sinnvolle Bestandteile des Pflegetagebuchs sein.
 
 ### Zeitaufwand und Hilfebedarf exakt erfassen
 

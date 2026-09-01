@@ -1,185 +1,185 @@
 ---
-title: 'Pflegetagebuch führen: Wie Sie den Pflegebedarf richtig dokumentieren'
-description: 'Zwischen Beruf, eigener Familie und der Pflege eines Angehörigen bleibt oft nicht genug Zeit, um jede Pflegeleistung zu dokumentieren. Genau das kann zum Problem werden, wenn Sie einen Pflegegrad-Antrag stellen müssen. In diesem Artikel erfahren Sie, wie Sie mit einem gut geführten Pflegetagebuch für Klarheit, Sicherheit und die nötige Beweiskraft gegenüber der Pflegekasse sorgen.'
+title: 'Keeping a Care Journal: How to Properly Document Care Needs'
+description: 'Between work, your own family, and caring for a loved one, there often isn’t enough time to document every care-related task. This is precisely what can become a problem when you need to apply for a care level. In this article, you’ll learn how a well-maintained care journal can provide clarity, peace of mind, and the necessary evidence for the relevant authorities.'
 seo:
-    title: 'Pflegetagebuch führen: Pflegebedarf richtig dokumentieren'
-    description: 'Pflegetagebuch richtig führen: So dokumentieren Sie den Pflegebedarf lückenlos, vermeiden Fehler bei der MDK-Prüfung & sichern den passenden Pflegegrad'
-date: 2026-08-27
-url: '/pflegetagebuch-fuehren/'
+    title: 'Keeping a Care Journal: Properly Documenting Care Needs'
+    description: 'How to Keep a Care Journal Correctly: How to Comprehensively Document Care Needs, Avoid Errors During Assessments, and Ensure the Correct Care Classification'
+date: 2026-08-31
+url: '/Keeping a Care Diary/'
 categories:
     - 'best-practice'
 tags:
-    - 'Alltag & Freizeit'
+    - 'Everyday Life & Leisure'
 color: '#44c4c5'
 register:
    draft: true
 ---
 
-## Was ist ein Pflegetagebuch?
+## What Is a Care Journal?
 
-Ein Pflegetagebuch ist eine strukturierte, meist über mehrere Wochen geführte freiwillige Dokumentation, in der Sie als pflegender Angehöriger genau festhalten, wann und in welchem Umfang eine pflegebedürftige Person im Alltag Unterstützung benötigt. Dabei geht es im Kern weniger darum, welche Tätigkeit ausgeführt wurde – etwa Hilfe beim Ankleiden, beim Essen und Trinken oder beim Gehen –, sondern darum, wie selbstständig diese Person die Handlungen noch ausführen kann und wie viel Zeit die Unterstützung in Anspruch nimmt. Mit Hilfe eines Pflegetagebuchs übersetzen Sie gewissermaßen den Pflegealltag in eine nachvollziehbare, belastbare Datenbasis, mit der Sie den tatsächlichen Pflegebedarf gegenüber Versicherungen und Pflegekassen belegen können. Idealerweise folgt das Pflegetagebuch dabei derselben Struktur, die auch der Begutachtung durch medizinische Dienste oder Pflegekassen zugrunde liegt.
+A care journal is a structured, **voluntary record** that is typically kept over several weeks. In it, family caregivers document exactly when and to what extent a person in need of care requires assistance with daily activities. Essentially, the focus is less on which specific tasks were performed—such as help with dressing, eating and drinking, or walking—and more on how independently the person can still perform these activities and how much time the assistance takes. 
 
-## Key Take-aways:
+With the help of a care diary, you essentially translate the day-to-day reality of caregiving into a transparent, reliable database. This allows you to **document the actual care needs to the relevant authorities**. Ideally, the care diary should follow the same structure that forms the basis for assessments by medical services or long-term care insurance providers.
 
-*   Pflegende Angehörige sind nicht verpflichtet, eine Pflegetagebuch zu führen.
+## Key Takeaways
+
+*   Family caregivers are not required to keep a care diary.
     
-*   Ein Pflegetagebuch dokumentiert den wirklichen Pflegebedarf über einen längeren Zeitraum und dient als Nachweis gegenüber dem MD und den Pflegekassen, wenn Sie einen Pflegegrad beantragen.
+*   A care diary documents the actual care needs over an extended period and serves as evidence for the relevant authorities when you apply for a care needs assessment.
     
-*   Wenn alle sechs Begutachtungsmodule konsequent erfasst werden, steigt die Chance auf den korrekten Pflegegrad.
+*   If all relevant areas of life are consistently recorded, the chances of receiving the correct care classification increase.
+ 
+*   An integrated care plan also helps structure daily care routines and provides emotional and mental relief for family caregivers.
     
-*   Ein integrierter Pflegeplan hilft zudem dabei, den Pflegealltag zu strukturien und pflegende Angehörige emotional und mental zu entlasten.
+*   A digital care diary provides greater transparency and structure and can be easily shared with others.
+ 
+
+![A care diary for family members creates structure and reduces mental stress](pflegetagebuch_haeusliche_pflege.png)
+
+## Why Family Caregivers Should Keep a Care Journal
+
+Caring for a family member at home is time-consuming and often emotionally draining. Between work, one’s own family, caregiving tasks, and necessary discussions with doctors and insurance providers, keeping a precise record of the care actually provided often falls by the wayside. As a result, in many cases, care needs are incorrectly assessed by the evaluating professionals, and important benefits from long-term care insurers are not approved. This leads to even more pressure, stress, and exhaustion for family caregivers. A structured, digital care journal helps break this dangerous cycle and **ensure that eligible care benefits are received**.
+
+## Using the Care Journal to Determine the Correct Care Level
+
+Whether individuals in need of care receive benefits from the long-term care insurance fund—and to what extent—depends on their individual support needs. These needs are assessed during a care evaluation conducted by an MD assessor. Based on this assessment, a care level is determined, which dictates the scope of approved benefits.
+
+The problem: The in-home assessment often lasts only about an hour and is rarely sufficient to correctly assess needs. Especially if the person requiring care is having a “good day” on that particular day—for example, in cases of dementia—needs may be misjudged, with significant financial consequences.
+
+### Proper Preparation: Facts and Figures Instead of Gut Feelings
+
+Family caregivers often go into the assessment appointment with a vague sense of being overwhelmed, without being able to substantiate this feeling with concrete, verifiable information. As understandable as this may be given the emotional, mental, and often physical strain involved, the assessor evaluates based on a clear point system and considers only facts.
+
+The specific structure of the assessment system varies by state and the responsible agency, but typically focuses on the same areas of daily life:
+
+1.  **Mobility**: assesses physical mobility, changing positions in bed, getting up, sitting down, walking, and climbing stairs
     
-*   Ein digitales Pflegetagebuch sorgt für mehr Transparenz und Struktur und lässt sich leicht mit weiteren Personen teilen.
+2.  **Cognitive and communicative abilities**: takes into account temporal and spatial orientation, recognizing people, understanding risks, and carrying on conversations. 
     
-
-## Warum pflegende Angehörige eine Pflegetagebuch führen sollten
-
-Angehörige zuhause zu pflegen ist zeitintensiv und oft emotional belastend. Zwischen Job, eigener Familie, den Pflegemaßnahmen und notwendigen Gesprächen mit Ärzten und Pflegekassen kommt die haargenaue Dokumentation der tatsächlich geleisteten Pflege oft zu kurz. In der Folge wird der Pflegebedarf durch den Medizinischen Dienst (MD, früher MDK) in vielen Fällen falsch eingeschätzt und wichtige Leistungen der Pflegekassen nicht bewilligt. Noch mehr Druck, Belastung und Erschöpfung bei den pflegenden Angehörigen sind die Folge. Ein strukturiertes, digitales Pflegetagebuch hilft dabei, diese gefährliche Spirale zu durchbrechen und zustehende Pflegeleistungen zu sichern.
-
-## Mit dem Pflegetagebuch zum richtigen Pflegegrad
-
-Ob Pflegebedürftige Leistungen von der Pflegekasse erhalten und in welchem Umfang, hängt von ihrem individuellen Unterstützungsbedarf ab. Dieser wird im Rahmen einer Pflegebegutachtung durch einen Gutachter des MD eingeschätzt und auf dieser Grundlage dann ein Pflegegrad festgestellt, der über den bewilligten Leistungsumfang entscheidet.
-
-Das Problem: Die häusliche Begutachtung dauert häufig nur etwa eine Stunde und reicht selten aus, um den Bedarf korrekt zu beurteilen. Insbesondere wenn die zu pflegende Person an diesem Tag einen "guten Tag" hat, z. B. bei Demenzerkrankungen, können Bedarfe falsch beurteilt werden – mit spürbaren finanziellen Folgen.
-
-### Die richtige Vorbereitung: Zahlen und Fakten statt Bauchgefühl
-
-Pflegende Angehörige gehen häufig mit einem diffusen Gefühl der Überforderung in den Begutachtungstermin, ohne dieses Gefühl mit konkreten, nachvollziehbaren Angaben begründen zu können. So verständlich dies aufgrund der emotinalen und nervlichen, häufig auch körperlichen Belastung ist: Der Gutachter bewertet nach einem klaren Punktesystem und berücksichtigt dafür ausschließlich Zahlen und Fakten.
-
-Das Punktestystem orientiert sich an sechs Modulen:
-
-1.  Mobilität: Wird mit 10 % gewichtet und berücksichtigt die körperliche Beweglichkeit, Positionswechsel im Bett, Aufstehen, Hinsetzen, Gehen und Treppensteigen
+3.  **Behaviors and psychological issues**: takes into account nighttime restlessness, anxiety, and aggressive behavior.
     
-2.  Kognitive und kommunikative Fähigkeiten: Wird mit 15 % gewichtet und berücksichtigt die zeitliche und räumliche Orientierung, Erkennen von Personen, Verstehen von Risiken und Führen von Gesprächen. (Wird nur berücksichtigit, wenn hier mehr Punkte als in Modul 3.)
+4.  **Self-care** (i.e., basic care and personal hygiene): takes into account personal hygiene, nutrition, and toileting.
     
-3.  Verhaltensweisen und psychische Problemlagen: Wird mit 15 % gewichtet und berücksichtigt nächtliche Unruhe, Ängste, aggresives Verhalten. (Wird nur berücksichtigit, wenn hier mehr Punkte als in Modul 2.)
+5.  **Managing Illness- or Therapy-Related Requirements**: Takes into account independent medication intake, wound care, doctor’s visits, and therapies.
     
-4.  Selbstversorgung (d. h. Grundpflege und Körperpflege): Wird mit 40 % gewichtet und berücksichtigt Körperpflege, Ernährung und Toilettenbenutzung.
+6.  **Organizing daily life and social interactions**: considers whether the person plans their own daily routine, pursues hobbies, and maintains contact with others.    
+
+Instead of relying on vague statements, you should definitely back up your case with credible figures, which a care diary can provide: How often does your loved one need help getting out of bed? How many minutes does it take to help them wash or get dressed? How often do you need to assist them at night? Such **detailed information is crucial** for determining the care needs classification.
+
+![Assessor interviews a person in need of care: A care diary helps with preparation](pflegetagebuch_gutachten.png)
+
+### Transparency with the long-term care insurance fund: Documenting actual care needs
+
+The responsible agency is generally required by law to make the decision regarding the care level based on the assessment results. Without credible evidence of the actual care situation, the assessment appointment itself is the only basis for the decision. If you apply for a care level and immediately start keeping a care diary, you’ll ensure the necessary transparent documentation from the very beginning. In any case, you should start no later than **two weeks before an assessment appointment** in order to gather reliable data. This is the only way you can provide complete evidence of the areas where help is actually needed and the extent of that need.
+
+## Step-by-Step Guide: How to Keep a Complete Care Log
+
+Family caregivers should follow a few rules when keeping a log to document care needs:
+
+*   Start early—no later than the day you submit your application.
     
-5.  Umgang mit krankheits- oder therapiebedingten Anforderungen: Wird mit 20 % gewichtet und berücksichtigt die selbstständige Medikamenteneinnahme, Wundversorgung, Arztbesuche und Therapien.
+*   Keep the care log for at least two weeks.
+ 
+*   Record every instance of assistance provided promptly, preferably immediately afterward.
+ 
+*   Note the approximate time spent in minutes.
     
-6.  Gestaltung des Alltagslebens und sozialer Kontakte: Wird mit 15 % gewichtet und berücksichtigt, ob der Tagesablauf selbst geplant wird, Hobbys gepflegt werden und Kontakte zu anderen Menschen bestehen.
+*   Use consistent, clear terminology to describe how independently the person in need of care can still perform the task.
+ 
+*   Also document intimate or uncomfortable situations, such as assistance with using the restroom, incontinence, or aggressive behavior.
     
+*   Regardless of specific tasks, record the care recipient’s mood daily to provide the assessor with additional context. 
 
-Statt mit vagen Aussagen sollten Sie unbedingt mit glaubhaften Zahlen argumentieren, die Ihnen ein Pflegetagebuch liefern kann: Wie oft benötigt Ihr Angehöriger Untestützung beim Aufstehen? Wie viele Minuten dauert die Hilfe beim Waschen oder Anziehen? Wie häufig müssen Sie nachts unterstützen? Solche Detailinformationen sind ausschlaggebend für die Einstufung des Pflegegrads.
+When structuring your care log, it’s best to base it on the areas of daily life relevant to the assessment. Additionally, record **household tasks**—shopping, cooking, cleaning. This will give the assessor a more complete picture of the care situation, even if household tasks are not included in the actual assessment. **Vital signs**, a personal [medication plan]({{< relref "posts/medikamentenplan" >}}), or a [nutrition log]({{< relref "posts/ernaehrungstagebuch" >}}) can also be useful components of the care log, depending on the situation.
 
-### Transparenz gegenüber der Pflegekasse: Den tatsächlichen Pflegebedarf nachweisen
+### Accurately Record Time Spent and Need for Assistance
 
-Die Pflegekassen sind gesetzlich verpflichtet, die Entscheidung über den Pflegegrad auf Grundlage des MD-Gutachtens zu treffen. Ohne glaubhafte Nachweise über die tatsächliche Pflegesituation bleibt als Entscheidungsgrundlage lediglich der Begutachtungstermin selbst. Wenn Sie den Pflegegrad beantragen und sofort anfangen, ein Pflegetagebuch zu führen, sorgen Sie von Anfang an für die notwendige transparente Dokumentation. In jedem Fall sollten Sie spätestens zwei Wochen vor einem Begutachtungstermin damit beginnen, um belastbare Daten zu gewinnen. Nur so können Sie lückenlos belegen, in welchen Bereichen tatsächlich Hilfe geleistet werden muss und in welchem Umfang.
+For each activity, document whether your family member in need of care can perform it independently, mostly independently, mostly with assistance, or with full assistance. 
+**This grading system forms the basis for the assessors’ scoring** and is important to prevent an overly low care classification from being approved.
 
-## Schritt-für-Schritt-Anleitung: So führen Sie ein lückenloses Pflegeprotokoll
+### Accurately recording special burdens and nighttime care assignments
 
-Pflegende Angehörige sollten einige Regeln beachten, wenn Sie ein Tagebuch führen, um den Pflegebedarf zu dokumentieren:
+Nighttime care interventions are most often omitted from the documentation. However, they are particularly significant for the assessment, as they **indicate an increased need for care and limited independence**. Therefore, be sure to consistently note how often assistance was needed at night, how long it lasted, and what kind of assistance it was—such as help using the restroom, calming the person during nighttime restlessness, or repositioning them in bed. **Special challenges** such as aggressive behavior, anxiety, or delusions should also be noted without fail, as they are evaluated in the “Behaviors and Mental Health Issues” module.
 
-*   Fangen Sie rechtzeitig an, spätestens am Tag der Antragstellung.
+![Both the person receiving care and their family members benefit from a structured care diary](pflegetagebuch_04.png)
+
+## Side Note: Care Plan and Care Diary
+
+The care plan should be distinguished from the care diary. While the care diary documents daily, step-by-step activities, a care plan provides the underlying structural framework. Unlike a care journal for family members, the care plan is created by licensed nursing professionals (sometimes with the involvement of physicians) and serves to guide care in a structured and goal-oriented manner. In addition to specifying the scope of care and care goals, this is where care measures are recorded, along with how often they should be performed and by whom—such as the family itself, an in-home care service, or a combination of both.
+
+While a private care journal is voluntary and serves as documentation—not legally required—for assessors, doctors, and caregivers, the care plan is a mandatory, legally and professionally binding document that forms part of the official care documentation. A proven violation of the care plan may, under certain circumstances, result in serious consequences. 
+
+## Digital or Analog Care Journal
+
+If you decide to document the care of your loved ones in a journal, you are not bound by any specific requirements. You’re free to choose between analog and digital options. However, you should be aware of the pros and cons of both formats.
+
+### Pros and Cons of Traditional Paper Notes
+
+A handwritten care log may seem straightforward at first—after all, a pen is always close at hand. Furthermore, there are no specific guidelines that a voluntary care journal for family members must follow, so you can **in principle use any notebook or writing pad** for this purpose. And finally, you’ll find **numerous printable templates** online. In daily practice, however, a traditional care journal often proves to be a problem. 
+
+![A traditional care journal with a pen](analoges_pflegetagebuch_02.png)
+
+**Disadvantages of a paper care diary**
+
+*   The log gets misplaced or lost
+ 
+*   Notes are quickly jotted down on random scraps of paper and not transferred later
     
-*   Führen Sie das Pflegetagebuch mindestens über einen Zeitraum von zwei Wochen.
+*   On exhausting nights, family members are often too tired to write an entry
+ 
+
+But it is precisely these details—which are then no longer recorded—that can be crucial for an assessment: How often did the patient need assistance at night? How long did personal care assistance take compared to other days? Are behavioral issues increasing in daily life? Such information only becomes meaningful when viewed over a longer period of time—and can rarely be accurately reconstructed retroactively.
+
+## The Benefits of Digital Care Documentation
+
+With a digital, structured care log, you can easily avoid the drawbacks of a paper notebook without sacrificing flexibility or ease of use.
+
+**Benefits of a digital care log:**
+
+*   Digital care journals can often be flexibly customized
+ 
+*   A centralized, structured database accessible at any time, rather than scattered notes.
+ 
+*   A structured input form for quick, timely entries.
     
-*   Notieren Sie jede geleistete Unterstützung zeitnah, am besten direkt im Anschluss.
-    
-*   Halten Sie den ungefähren Zeitaufwand in Minuten fest.
-    
-*   Notieren Sie mit einheitlichen, klar verständlichen Begriffen, wie eigenständig der Pflegebedürftige die Handlung noch ausführen kann.
-    
-*   Dokumentieren Sie auch intime oder unangenehme Situationen, wie Hilfe beim Toilettengang, Inkontinenz oder aggresvives Verhalten.
-    
-*   Erfassen Sie unabhängig von einzelnen Handlungen täglich die Stimmung der pflegebedürftigen person, um dem Gutachter weiteren Kontext geben zu können.
-    
+*   Automatic timestamps and change logs for maximum transparency with auditors.
+ 
+*   Automatic calculation of cumulative time spent.
+ 
+*   Shared access for multiple caregivers.     
 
-Wie bereits erwähnt, begutachtet der Medizinische Dienst sechs Module, oder Lebensbereiche. Orienteren Sie sich bei der Struktur Ihres Pflegeprotokolls daher am besten an diesen Modulen und erfassen Sie zusätzlich die hauswirtschaftliche Versorgung – Einkaufen, Kochen, Putzen. Damit vermitteln Sie dem Gutacher ein vollständigeres Bild der Pflegesituation, auch wenn die hauswirtschaftliche Versorgung nicht in die eigentliche Bewertung einfließt.
+## How SeaTable’s digital care logbook provides lasting relief in everyday care
 
-### Zeitaufwand und Hilfebedarf exakt erfassen
+SeaTable is an [AI no-code platform]({{< relref "/" >}}) that lets you easily capture data, text, and documents and create structured applications. Customize the **free care log template** **to suit your specific situation** without any programming knowledge. You can also share your care log with others and update it collaboratively in real time. This way, other family members or an in-home care service can access the same up-to-date information simultaneously, rather than having to gather relevant details later via chat or email.
 
-Dokumentieren Sie für jede Tätigkeit, ob Ihr pflegebedürftiger Angehöriger sie selbstständig, überwiegend selbstständig, überwiegend unselbstständig oder unselbstständig ausführen kann. Reicht es bereits aus, wenn Sie begleitend dabei sind, oder müssen Sie die Handlung teilweise oder vollständig übernehmen?  
-Diese Abstufung bildet die Grundlage für die Punktevergabe durch die MD-Gutachter und ist wichtig, um zu vermeiden, dass ein zu niedriger Pflegegrad bewilligt wird.
+{{< template-box id="bc53ed17009447c39f90" submit="Try the template" text="Curious? Scroll through our interactive template and discover its key features." >}}
 
-### Besondere Belastungen und nächtliche Hilfseinsätze richtig festhalten
+In the stressful day-to-day reality of caregiving, take advantage of the fact that SeaTable offers far more than just a simple table structure: The **integrated automations** with AI features simplify data processing. In the **care diary app** already included in the template, you can enter new entries using a structured input form. The dashboard, which is always up to date, provides **statistical analyses of care workload**, vital signs, and moods.
 
-Nächtliche Pflegeeinsätze werden am häufigsten vergessen, sind jedoch für die Begutachtung besonders aussagekräftig, da sie auf einen erhöhten Pflegeaufwand und eine eingeschränkte Selbstständigkeit hinweisen. Notieren Sie deshalb konsequent, wie oft nachts Hilfe nötig war, wie lange diese dauerte und welcher Art sie war – etwa Unterstützung beim Toilettengang, Beruhigung bei nächtlicher Unruhe oder Lagewechsel im Bett. Auch besondere Belastungen wie aggressives Verhalten, Ängste oder Wahnvorstellungen sollten unbedingt notiert werden, da sie im Modul „Verhaltensweisen und psychische Problemlagen" bewertet werden.
+Especially when it comes to a sensitive topic like private care documentation, **strong data protection** is crucial. With [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data is securely stored on certified servers operated by the Swiss company Exoscale in Germany.
 
-## Exkurs: Pflegeplan und Pflegetagebuch
+## Conclusion: Apply for the appropriate care level with structure and peace of mind
 
-Vom Pflegetagebuch zu unterscheiden ist der Pflegeplan. Während das Pflegetagebuch die tägliche, kleinschrittige Dokumentation abbildet, liefert ein Pflegeplan den strukturellen Rahmen dahinter. Anders als ein Pflegetagebuch für Angehörige wird der Pflegeplan von Pflegefachkräften (manchmal unter Beteiligung von Ärzten) erstellt. Der Pflegeplan dient der strukturierten und zielgerichteten Steuerung der Pflege. Neben einer Benennung des Pflegebereichs und der Pflegeziele ist dies der Ort, an dem konkrete Pflegemaßnahmen festgehalten werden, wie häufig sie durchgeführt werden sollen und durch wen – etwa die Familie selbst, einen ambulanten Pflegedienst oder eine Kombination aus beidem.
+A care diary is a crucial tool for transparently documenting actual care needs and securing approval for the correct care level. Family caregivers who are already at their limit benefit especially from a digital solution like SeaTable, which makes documentation, analysis, and preparation for the next assessment appointment as easy as possible. Instead of getting lost in a sea of paperwork, structured, digital care journals provide transparency and generate traceable, analyzable data—saving caregivers both time and stress.
 
-Während das private Pflegetagebuch freiwillig ist und der rechtlich nicht erforderlichen Dokumentation für Gutachter, Ärzte und Pflegepersonen dient, handelt es sich beim Pflegeplan um ein erforderliches, rechtlich und fachlich verbindliches Dokument der offiziellen Pflegedokumentation. Ein nachgewiesener Verstoß gegen den Pflegeplan kann unter Umständen strafrechtliche und arbeitsrechtliche Konsequenzen nach sich ziehen.
+## FAQ – Keeping a Care Journal for Family Members
 
-## Digitales oder analoges Pflegetagebuch
-
-Wenn Sie sich dafür entscheiden, die Pflege Ihrer Angehörigen in einem Tagebuch zu dokumentieren, sind Sie an keine Vorgaben gebunden. Sie können frei zwischen analogen und digitalen Angeboten wählen. Dabei sollten Sie sich jedoch der Vor- und Nachteile beider Medien bewusst sein.
-
-### Vorteile und Nachteile klassischer Papiernotizen
-
-Ein handschriftliches Pflegeprotokoll erscheint zunächst unkompliziert, schließlich ist ein Stift schnell zur Hand. Zudem gibt es keine Vorgaben, an denen sich ein freiwilliges Pflegetagebuch für Angehörige orientieren muss, so dass Sie prinzipiell jedes Notizbuch oder Schreibheft dafür nutzen können. Und schließlich finden Sie im Internet zahlreiche Vorlagen zum Ausdrucken. In der täglichen Praxis erweist sich ein klassisches Pflegetagebuch jedoch oft als Problem.
-
-**Vorteile eines analogen Pflegetagebuchs**
-
-*   Unkompliziert und einfach zu nutzen
-    
-*   Leicht gemeinsam mit anderen zu führen
-    
-
-**Nachteile eines analogen Pflegetagebuchs**
-
-*   Das Protokoll wird verlegt oder geht verloren
-    
-*   Notizen werden schnell auf irgendeinen Zettel notiert und später nicht übertragen
-    
-*   In anstrengenden Nächte sind viele zu müde, um noch einen Eintrag zu schreiben
-    
-
-Doch es sind gerade die Details, die dann eben nicht mehr erfasst werden und die für die Begutachtung entscheidend sein können: Wie oft musste nachts geholfen werden? Wie lange dauerte die Unterstützung bei der Körperpflege im Vergleich zu anderen Tagen? Nehmen Verhaltensauffälligkeiten im Alltag zu? Solche Informationen erhalten Ihre Aussagekraft erst in der Nachbetrachtung über einen längeren Zeitraum – und lassen sich nachträglich oft kaum rekonstruieren.
-
-## Die Vorteile der digitalen Pflegedokumentation
-
-Mit einem digitalen, strukturierten Pflegetagebuch lassen sich die Nachteile eines Papiernotizbuches mühelos vermeiden, ohne auf Flexibilität und eine einfache Handhabung zu verzichten.
-
-**Vorteile eines digitalen Pflegetagebuchs:**
-
-*   Digitale Pflegetagebücher lassen sich häufig flexibel anpassen
-    
-*   Eine zentrale, jederzeit zugängliche strukturierte Datenbasis anstatt verstreuter Notizen.
-    
-*   Eine strukturierte Eingabemaske für schnelle zeitnahe Einträge.
-    
-*   Automatische Zeitstempel und Änderungs-Logs für maximale Transparenz.
-    
-*   Automatische Berechnung kumulierter Zeitaufwände.
-    
-*   Gemeinsamer Zugriff für mehrere Pflegepersonen. 
-    
-
-## Wie das digitale Pflegetagebuch von SeaTable den Pflegealltag nachhaltig entlastet
-
-SeaTable ist eine KI No-Code Plattform, mit der Sie ganz leicht Daten, Texte und Dokumente erfassen und strukturierte Anwendungen erstellen können. Sie können die Pflegetagebuch-Vorlage ohne jegliche Programmierkenntnisse individuell auf Ihre Situation zuschneiden und dauerhaft kostenlos nutzen. Zudem können Sie Ihr Pflegetagebuch mit weiteren Personen teilen und gemeinsam in Echtzeit pflegen. So können weitere Angehörige oder ein ambulanter Pflegedienst zeitgleich auf denselben aktuellen Stand zugreifen, statt über Chats oder E-Mail nachträglich relevante Informationen zusammenzusuchen.
-
-{{< template-box id="14498b7d75cd47ab934c" submit="Vorlage testen" text="Neugierig geworden? Scrollen Sie durch unsere interaktive Vorlage und entdecken Sie erste Funktionen." >}}
-
-Profitieren Sie im stressigen Pflegealltag davon, dass SeaTable weit mehr bietet, als eine reine Tabellenstruktur: Die integrierten Automationen mit integrierten KI-Funktionen erleichtern die Datenverarbeitung. In der bereits in der Vorlage enthaltenen Pflegetagebuch-App erfassen Sie neue Einträge mithilfe eines strukturierten Eingabeformulars. Das jederzeit aktuelle Dashboard liefert statistische Auswertungen über den Pflegeaufwand, Vitalwerte oder Stimmungen.
-
-Gerade bei einem sensiblen Thema wie der privaten Pflegedokumentation ist ein hoher Datenschutz wichtig. Mit SeaTable Cloud sind Ihre Daten sicher auf zertifizierten Servern des Schweizer Unternehmens Exoscale in Deutschland gespeichert.
-
-## Fazit: Mit Struktur und Gelassenheit den passenden Pflegegrad beantragen
-
-Ein Pflegetagebuch ist ein entscheidendes Hilfsmittel, um den tatsächlichen Pflegebedarf transparent zu dokumentieren und den richtigen Pflegegrad bewilligt zu bekommen. Wer als pflegender Angehöriger ohnehin am Limit ist, profitiert besonders von einer digitalen Lösung wie SeaTable, die Dokumentation, Auswertung und Vorbereitung auf den nächsten Begutachtungstermin so einfach wie möglich macht. Anstatt sich im Papierchaos zu verlieren, schaffen strukturierte, digitale Pflegetagebücher Transparenz und nachvollziehbare, auswertbare Daten schonen Zeit und Nerven pflegender Angehöriger.
-
-## FAQ – Pflegetagebuch für Angehörige führen
-
-{{< faq "Wie lange sollte man ein Pflegetagebuch oder Pflegeprotokoll führen?" >}}
-Da sich der Pflegebedarf von Tag zu Tag unterscheiden kann wird allgemein empfohlen, ein Pflegetagebuch mindestens zwei Wochen zu führen. Am besten beginnen Sie bereits an dem Tag damit, das Pflegetagebuch zu führen, an dem Sie eine Pflegeleistung beantragen.
+{{< faq "How long should you keep a care journal or care log?" >}}
+Since care needs can vary from day to day, it is generally recommended that you keep a care log for at least two weeks. It is best to start keeping the care log on the very day you apply for care services.
 {{< /faq >}}
-    
-{{< faq "Was ist der Unterschied zwischen einem Pflegeplan und einem Pflegetagebuch?" >}}
-In einem Pflegeplan  wird festgehalten, welche pflegerischen Maßnahmen und Medikamentengaben über welchen Zeitraum geplant sind. Mit einem Tagebuch dokumentieren Sie hingegen den wirklichen täglichen Pflegeaufwand unabhängig davon, ob diese Maßnahmen im Plan stehen, oder nicht.
-{{< /faq >}} 
-    
-{{< faq "Welche Vorteile bietet ein digitales Pflegetagebuch?" >}}
-Mit einem digitalen MDK Pflegetagebuch können Sie Maßnahmen jederzeit und ortsunabhängig erfassen. Zudem lässt es sich problemlos mit weiteren Personen teilen, z. B. Ärzten, weiteren plegenden Angehörigen oder Pflegepersonal. Ein Papierpflegetagebuch kann dagegen im Alltag schnell mal verloren gehen oder vergessen werden.
+
+{{< faq "What is the difference between a care plan and a care log?" >}}
+A care plan outlines which care measures and medication administrations are scheduled over a specific period of time. In contrast, a care journal is used to document the actual daily care provided, regardless of whether these measures are included in the plan or not.
 {{< /faq >}}
-    
-{{< faq "Sollte auch die hauswirtschaftliche Versorgung im Pflegetagebuch berücksichtig werden?" >}}
-Ja, denn obwohl die hauswirtschaftliche Versorgung nicht direkt in die Bewertung des Pflegegrades einfließt, fragen Gutachter regelmäßig danach. Sie brauchen diese Informationen, um sich ein vollständiges Bild zu machen und die passende Versorgungsplanung zu erstellen. Ein MDK Pflegetagebuch sollte daher auch diese Informationen beinhalten.
+
+{{< faq "What are the benefits of a digital care journal?" >}}
+With a digital care log, you can record care activities anytime, anywhere. It’s also easy to share with others, such as doctors, other family caregivers, or nursing staff. A paper care log, on the other hand, can easily get lost or forgotten in the course of daily life.
 {{< /faq >}}
-    
-{{< faq "Hilft ein Pflegetagebuch auch dabei, einen abgelehnten Pflegegradantrag anzufechten?" >}}
-Ja, auf jeden Fall. Sie können gegen einen abgelehnten Antrag innerhalb eines Monats Widerspruch einlegen. Eine sorgfältige Pflegedokumentation dient dabei als wichtiger Vergleichsmaßstab zu den im Gutachten festgestellten Bewertungen.
+
+{{< faq "Should household chores also be included in the care log?" >}}
+Yes, because even though domestic care is not directly factored into the assessment of the care level, assessors regularly ask about it. They need this information to get a complete picture and to develop an appropriate care plan. A care diary should therefore also include this information.
+{{< /faq >}}
+
+{{< faq "Can a care diary also help in appealing a denied care level application?" >}}
+Yes, definitely. You can file an appeal against a denied application within the time limit specified by law. Thorough care documentation serves as an important benchmark for comparing the assessments made in the expert report.
 {{< /faq >}}
