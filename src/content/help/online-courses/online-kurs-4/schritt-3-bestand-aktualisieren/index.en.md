@@ -157,7 +157,7 @@ Now press `Run now` again. You are notified a second time, for a dispute that is
 
 On your own base you are alone, so you assign the delivery to yourself. In a real team — as you saw in [Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung/" >}}) — this would be the buyer who placed the order, the one person who calls the supplier once and settles every line of that delivery in a single conversation.
 
-Now open the online courses plugin in your base and select **Step 3**. It starts by giving your rule something to find: it puts a discrepancy on another line, then asks you for a `Run now`. What it verifies afterwards is not only that a reviewer is there, but that an automation, and not you, is the one that put it there — which you would otherwise have to go and dig out of the row's history.
+Now open the online courses plugin in your base, select **Step 3** and click `Prepare the delivery`. It starts by giving your rule something to find: it puts a discrepancy on another line, then asks you for a `Run now`. What it verifies afterwards is not only that a reviewer is there, but that an automation, and not you, is the one that put it there — which you would otherwise have to go and dig out of the row's history.
 
 ## Going further
 

@@ -158,7 +158,7 @@ That hand-off deserves a second look, because it is not a given. An automation's
 
 You have the chain. What you do not have is anything to feed it: that delivery is already in your base, lines and all.
 
-So put it back. In your base, open the online courses plugin and select **Step 4**: it removes the line items of that delivery, then the document itself, returning your base to the moment before the truck pulled in. Nothing of value is lost — those lines were a stand-in for the ones you are about to obtain properly.
+So put it back. In your base, open the online courses plugin, select **Step 4** and click `Rewind the delivery`: it removes the line items of that delivery, then the document itself, returning your base to the moment before the truck pulled in. Nothing of value is lost — those lines were a stand-in for the ones you are about to obtain properly.
 
 Now receive the same delivery the way a warehouse really receives one — and from where it really happens. The `Delivery check` app you worked in during step 3 has a second page, `📄 New delivery note`: a short form, today's date already filled in, and a field for the document. Attach the photo of the delivery note there and submit it. Nothing else is asked of you: no reference, no supplier, not one line. Everything written on that slip is in the picture, and reading it is the machine's job now.
 
@@ -167,6 +167,8 @@ Now receive the same delivery the way a warehouse really receives one — and fr
 {{< dtable-download name="The photographed delivery note" file="images/lvl4-dirty-delivery-note.jpg" text="This is what the driver handed over. Download it, then attach it to your new document." />}}
 
 Then watch it run: text recognition fills `OCR text`, the AI writes its JSON, the script creates the lines, and your step-2 automation links them. And because you already saw these very lines in step 2, you are in the rare position of knowing what the right answer looks like. Compare them.
+
+{{< warning headline="An AI action takes its time" text="Reading a photograph and writing the JSON back is far slower than an ordinary automation action — count in tens of seconds rather than the instant response you are used to, and longer on a busy day or a crowded delivery note. Nothing on screen tells you it is working, so give it a minute before you conclude that it failed. If you would rather not wait in the dark, open the execution log of the automation from the base options: a run is listed there as soon as the rule fires, with its time and status. That is what separates the two cases worth telling apart — a rule that never triggered at all, and a rule that fired and is simply still working." />}}
 
 Look at the `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Product` column in particular. If one of the new lines has stayed empty there, nothing is broken: the recognition misread a character in that barcode — a digit swallowed, a 0 taken for an 8 — and a reference that is wrong by a single character matches no product at all. Your linking automation did its work; it simply found nothing to link.
 
@@ -248,6 +250,7 @@ One last look at that function, at the line you did not write. `process.extractO
 
 - [AI-powered automation actions]({{< relref "help/ai/ai-automations/introduction/" >}})
 - [Execution limit for automations]({{< relref "help/base-editor/automationen/ausfuehrungslimit-bei-automationen" >}})
+- [Show execution log of an automation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
 - [Python scripts in SeaTable]({{< relref "help/skripte/python/" >}})
 - [SeaTable Developer Manual - Python](https://developer.seatable.com/python/)
 - [RapidFuzz documentation](https://rapidfuzz.github.io/RapidFuzz/index.html)
