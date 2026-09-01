@@ -21,7 +21,7 @@ Download the following file to your computer and import it as a new base **into 
 
 [SeaTable Course 3 - Sales CRM.dtable](/SeaTable-Course-3-Sales-CRM.dtable)
 
-Importing into the `Commercial` group, rather than your personal workspace, matters for later: in Step 5 you will publish a common dataset, which only works from a base that lives in a group. If you were not able to create groups, you can still follow this step and most of the course with the base in your personal workspace — only Step 5 will be out of reach.
+Importing into the `Commercial` group, rather than your personal workspace, matters for later: in Step 5 you will publish a common dataset, which only works from a base that belongs to a group. If you were not able to create groups, you can still follow this step and most of the course with the base in your personal workspace — only Step 5 will be out of reach.
 
 Even though you do not have to build the base yourself, take the time to get to know it well. The course refers back to these tables, columns and views in every later step, and a few of the column types may be new to you.
 
@@ -94,7 +94,7 @@ The `Customers` table comes with two purpose-built views.
     - Hidden columns: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Created`, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Deals`, `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Total Deal Value`
 
 
-A view in SeaTable is just a lens on the same underlying data — the rows live in one place, and each view decides what to show, hide, filter and group. You will lean on this distinction in the next steps: you share a **view**, not raw access to everything, and later you will publish `Active Customers` to another team as a live dataset.
+A view in SeaTable is just a lens on the same underlying data — the rows are stored in one place, and each view decides what to show, hide, filter and group. You will lean on this distinction in the next steps: you share a **view**, not raw access to everything, and later you will publish `Active Customers` to another team as a live dataset.
 
 {{< warning headline="Prefer automatic columns for timestamps" >}}The `Created` column in `Customers` is an ordinary `Date` column, so we could fill it with realistic past dates for this course. In your own bases, when you want to record when a row was created or last changed, prefer the `Created time` and `Last modified time` column types instead. They are filled in automatically by SeaTable, so there is no risk of forgetting to set them, mistyping a date, or backdating a change.{{< /warning >}}
 

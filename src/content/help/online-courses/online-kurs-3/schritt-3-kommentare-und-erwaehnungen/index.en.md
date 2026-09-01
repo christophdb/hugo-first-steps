@@ -48,7 +48,7 @@ Now switch to Malika's window 🕶. This time her notification bell shows a new 
 
 Now act on the request. Because Malika has read-write access, you can update `James Bennett`'s `Industry` right there, then reply in the same thread to say it is done. The whole discussion stays attached to the record — the question, the change, and the confirmation, all in one place.
 
-{{< warning headline="Some data describes the company, not the contact" text="Industry describes the company, Indelo, rather than James Bennett himself — yet here it sits on each customer row. Indelo has another contact in this base, Lena de Vries, so correcting Indelo's industry on one row means you should correct it on the others too. A quick filter on the Company column (filtering rule: `Company` is Indelo) finds them all before you edit. A cleaner design would store each company once in its own table and link the customers to it, so a company's details live in a single place — more powerful, but more complex, which is why this course keeps everything in one table." />}}
+{{< warning headline="Some data describes the company, not the contact" text="Industry describes the company, Indelo, rather than James Bennett himself — yet here it sits on each customer row. Indelo has another contact in this base, Lena de Vries, so correcting Indelo's industry on one row means you should correct it on the others too. A quick filter on the Company column (filtering rule: `Company` is Indelo) finds them all before you edit. A cleaner design would store each company once in its own table and link the customers to it, so a company's details are stored in a single place — more powerful, but more complex, which is why this course keeps everything in one table." />}}
 
 ## Closing the loop
 
@@ -56,7 +56,7 @@ When a request has been dealt with, you don't delete the conversation — you ma
 
 Switch back to your window 🌐 to see Malika's reply and the resolved marker. You have just run a complete loop — ask, notify, act, confirm, resolve — without ever leaving the data.
 
-{{< warning headline="Comments live where they are written" text="Comments are tied to the row they sit on. They are not copied when you duplicate a row, they are not carried into a table created from a common dataset, and they are not saved in snapshots or exported files. There is also no separate inbox of open comments and no general chat in SeaTable: the row's thread is the conversation. Keep discussions on the record they concern, and they will still make sense months later." />}}
+{{< warning headline="Comments stay where they are written" text="Comments are tied to the row they sit on. They are not copied when you duplicate a row, they are not carried into a table created from a common dataset, and they are not saved in snapshots or exported files. There is also no separate inbox of open comments and no general chat in SeaTable: the row's thread is the conversation. Keep discussions on the record they concern, and they will still make sense months later." />}}
 
 ## Try it yourself
 

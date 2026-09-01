@@ -48,7 +48,7 @@ Whether you follow along with a real colleague or on your own, you will need:
 
 1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine.
 2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-3. **Two groups**: Two groups in your team — a `Commercial` group, where your `Sales CRM` base will live, and a `Marketing` group for your colleague. We explain how to create them below. This is more than tidiness: a base must sit in a group for the common dataset in Step 5 to work.
+3. **Two groups**: Two groups in your team — a `Commercial` group, where your `Sales CRM` base will be, and a `Marketing` group for your colleague. We explain how to create them below. This is more than tidiness: a base must sit in a group for the common dataset in Step 5 to work.
 4. **Browser and language**: We recommend Google Chrome, and the course and quiz are in English.
 
 If you are taking the solo path — playing both roles yourself, with no teammate following along — you will also need:
@@ -62,7 +62,7 @@ If you are taking the solo path — playing both roles yourself, with no teammat
 
 Throughout the course you play two roles, one in each window:
 
-- **🌐 You (Commercial)**: your main window, signed in to your own account on the Commercial team. You own the company's customer list, and this is the role you play for most of the course. In SeaTable's own logs this account appears under your own name (in this course's screenshots it is labelled "Commercial").
+- **🌐 You (Commercial)**: your main window, signed in to your own account on the Commercial team. You own the company's customer list, and this is the role you play for most of the course. In SeaTable's own logs this account appears under your own name (in this course's screenshots it is labeled "Commercial").
 - **🕶 Malika (Marketing)**: your second account, opened in a private window. Malika is Head of Marketing and needs to read, comment on, and reuse your data.
 
 Every instruction in the course is tagged with the window it belongs to — 🌐 your window (Commercial) or 🕶 Malika's window (Marketing) — so you always know where to act.
@@ -75,16 +75,16 @@ From your [team administration](https://account.seatable.com), invite a second e
 
 ### Setting up your groups
 
-SeaTable lets you organise bases into **groups** — shared containers that may stand for a particular project, or in our case for a department. This course uses two:
+SeaTable lets you organize bases into **groups** — shared containers that may stand for a particular project, or in our case for a department. This course uses two:
 
-- a **`Commercial`** group, your own department, where your `Sales CRM` base will live from Step 1 onwards.
-- a **`Marketing`** group, your colleague's department, which Malika belongs to and which you will distribute the live dataset to in Step 5.
+- a **`Commercial`** group, your own department, where your `Sales CRM` base will be from Step 1 onwards.
+- a **`Marketing`** group, your colleague's department, which Malika runs and which you will distribute the live dataset to in Step 5.
 
-From your [team administration](https://account.seatable.com), create both groups, then add the Malika account as a member of the **`Marketing`** group. The help articles at the bottom of this page walk through it.
+From your [team administration](https://account.seatable.com), create both groups, then add the Malika account to the **`Marketing`** group — **as an administrator of that group, not just as a member**. The distinction matters in Step 5: only a group's owner or administrator can add a base to it, and Marketing will need a base of their own. The help articles at the bottom of this page walk through it.
 
-{{< warning headline="Adding a member and creating groups may need administrator rights" text="Adding a team member, creating groups, and adding people to them all depend on your role in the team. If any of these are unavailable to you, ask your team administrator to set them up — you can request the second account and both groups, Commercial and Marketing, in a single go." />}}
+{{< warning headline="Adding a member and creating groups may need administrator rights" text="Adding a team member, creating groups, and adding people to them all depend on your role in the team. If any of these are unavailable to you, ask your team administrator to set them up — you can request the second account, both groups, Commercial and Marketing, and administrator rights for the second account on Marketing, in a single go." />}}
 
-{{< warning headline="The Commercial group is what makes Step 5 possible" text="A base can only publish a common dataset if it lives in a group, not in your personal workspace (`My bases` homepage section). Importing Sales CRM into the Commercial group in Step 1 is what makes Step 5 possible. If you cannot create groups, you can still follow Steps 1 to 4 and Step 6 with the base in your personal workspace — only Step 5 will be out of reach, unless you move the base into a group later." />}}
+{{< warning headline="The Commercial group is what makes Step 5 possible" text="A base can only publish a common dataset if it belongs to a group, not in your personal workspace (`My bases` homepage section). Importing Sales CRM into the Commercial group in Step 1 is what makes Step 5 possible. If you cannot create groups, you can still follow Steps 1 to 4 and Step 6 with the base in your personal workspace — only Step 5 will be out of reach, unless you move the base into a group later." />}}
 
 ### Opening your two windows
 

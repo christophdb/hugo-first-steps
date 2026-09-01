@@ -25,7 +25,7 @@ So Malika is in the team, but looking at her home page right now, your `Sales CR
 
 ## Sharing your base with a colleague
 
-Malika needs to work in your base, so you will share it with her. Because Malika is in Marketing and your base lives with Commercial, the right tool here is a direct **user share** — you hand access to one named person.
+Malika needs to work in your base, so you will share it with her. Because Malika is in Marketing and your base belongs to Commercial, the right tool here is a direct **user share** — you hand access to one named person.
 
 In your window 🌐, on the SeaTable home page, open the `Sales CRM` tile's menu and choose `Share`. Under `Share to user`, select Malika, set the permission to `Read-Write`, and submit.
 
