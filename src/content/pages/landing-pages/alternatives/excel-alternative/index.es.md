@@ -83,7 +83,7 @@ sections:
       weight: 5
       title: 'Automatice sus flujos de trabajo con IA'
       subtitle: 'Integración e Inteligencia'
-      description: 'Combine **automatizaciones potentes con lógica de IA** para eliminar definitivamente las tareas rutinarias manuales. Integre sus herramientas actuales o utilice **scripts de Python y consultas de IA** directamente en su Base.<br><br>En la versión Enterprise, puede definir reglas complejas que no solo gestionan datos, sino que trabajan proactivamente para usted.'
+      description: 'Combine automatizaciones potentes con lógica de IA para eliminar definitivamente las tareas rutinarias manuales. Integre sus herramientas actuales o utilice scripts de Python y consultas de IA directamente en su Base.<br><br>En la versión Enterprise, puede definir reglas complejas que no solo gestionan datos, sino que trabajan proactivamente para usted.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'

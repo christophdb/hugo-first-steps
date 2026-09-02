@@ -107,8 +107,8 @@ sections:
     - name: 'content-10'
       weight: 8
       title: 'Asana Alternative mit leistungsstarker API'
-      subtitle: 'Standard Integrationen'
-      description: Die nahtlose Integration verschiedener Tools und automatisierter Workflows in ihre Prozesse ist entscheidend. SeaTable bietet für diesen Zweck eine **flexible API und Drittanbieter-Integrationen**, mit denen Sie Ihre Workflows automatisieren können.
+      subtitle: 'Standard-Integrationen'
+      description: Die nahtlose Integration verschiedener Tools und automatisierter Workflows in ihre Prozesse ist entscheidend. SeaTable bietet für diesen Zweck eine flexible API und Drittanbieter-Integrationen, mit denen Sie Ihre Workflows automatisieren können.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'

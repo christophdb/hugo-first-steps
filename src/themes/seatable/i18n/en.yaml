@@ -237,5 +237,5 @@ blog-register:
 
 cookies:
     text: 'This website uses cookies to ensure you get the best experience on our website.'
-    link: More informationen
+    link: More information
     confirm: Got it

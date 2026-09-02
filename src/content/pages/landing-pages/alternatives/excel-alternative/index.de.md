@@ -95,7 +95,7 @@ sections:
       weight: 5
       title: 'Automatisieren Sie Ihre Workflows mit KI'
       subtitle: 'Integration & Intelligenz'
-      description: 'Verknüpfen Sie **leistungsstarke Automatisierungen mit KI-Logik**, um manuelle Routineaufgaben endgültig zu eliminieren. Integrieren Sie Ihre bestehenden Tools oder nutzen Sie **Python-Skripte und KI-Abfragen** direkt in Ihrer Base.<br><br>In der Enterprise-Version definieren Sie komplexe Regeln, die Daten nicht nur verwalten, sondern proaktiv für Sie arbeiten lassen.'
+      description: 'Verknüpfen Sie leistungsstarke Automatisierungen mit KI-Logi*, um manuelle Routineaufgaben endgültig zu eliminieren. Integrieren Sie Ihre bestehenden Tools oder nutzen Sie Python-Skripte und KI-Abfragen direkt in Ihrer Base.<br><br>In der Enterprise-Version definieren Sie komplexe Regeln, die Daten nicht nur verwalten, sondern proaktiv für Sie arbeiten lassen.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'

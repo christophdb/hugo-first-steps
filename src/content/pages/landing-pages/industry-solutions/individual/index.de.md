@@ -91,7 +91,7 @@ sections:
       weight: 6
       title: 'Verbinden Sie SeaTable mit Ihren Tools'
       subtitle: 'Integration'
-      description: Verknüpfen Sie SeaTable mit allen Apps, die Sie bereits verwenden, und nutzen Sie SeaTable als zentralen Dreh- und Angelpunkt für IIhr unternehmensweites Workflowmanagement.
+      description: Verknüpfen Sie SeaTable mit allen Apps, die Sie bereits verwenden, und nutzen Sie SeaTable als zentralen Dreh- und Angelpunkt für Ihr unternehmensweites Workflowmanagement.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
