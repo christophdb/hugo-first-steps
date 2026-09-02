@@ -83,7 +83,7 @@ sections:
       weight: 5
       title: 'Automate Your Workflows with AI'
       subtitle: 'Integration & Intelligence'
-      description: 'Combine **powerful automations with AI logic** to finally eliminate manual routine tasks. Integrate your existing tools or use **Python scripts and AI queries** directly in your base.<br><br>In the Enterprise version, you can define complex rules that don’t just manage data but work proactively for you.'
+      description: 'Combine powerful automations with AI logic** to finally eliminate manual routine tasks. Integrate your existing tools or use Python scripts and AI queries directly in your base.<br><br>In the Enterprise version, you can define complex rules that don’t just manage data but work proactively for you.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'

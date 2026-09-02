@@ -95,7 +95,7 @@ sections:
 
     - name: 'content-10'
       weight: 7
-      title: 'Veuillez connecter SeaTable à votre infrastructure informatique.'
+      title: 'Veuillez connecter SeaTable à votre infrastructure informatique'
       subtitle: "L'intégration"
       description: Intégrez SeaTable à vos outils existants et utilisez-le comme pivot pour l'ensemble de votre gestion des services informatiques, ou utilisez la nouvelle requête de données IA pour structurer les informations à travers tous les systèmes.
       items:

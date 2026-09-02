@@ -132,8 +132,8 @@ sections:
 - name: content-2
   weight: 6
   subtitle: 'Why SeaTable?'
-  title: 'Discover the advantages of the SeaTable AI no-code platform
-  description:'
+  title: 'Discover the advantages of the SeaTable AI no-code platform'
+  description:
   items:
   - headline: "No code, full flexibility"
     text: "Say goodbye to complex programming processes. Even the most demanding processes can be created using a simple drag-and-drop interface."
@@ -227,7 +227,7 @@ sections:
   weight: 11
   title: Integrate SeaTable with your world
   subtitle: "Integration"
-  description: "Connect SeaTable with all the apps you already use and use SeaTable as an AI-powered hub to organize your life.< your life.<br/><br/>We offer apps for all leading integration platforms, so you don't have to write a single row code."
+  description: "Connect SeaTable with all the apps you already use and use SeaTable as an AI-powered hub to organize your life.<br/><br/>We offer apps for all leading integration platforms, so you don't have to write a single row of code."
   items:
   - image: "/images/logos/zapier.svg"
   - image: "/images/logos/make.svg"
