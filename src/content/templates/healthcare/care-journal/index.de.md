@@ -1,14 +1,13 @@
 ---
 title: 'Digitales Pflegetagebuch'
 description: 'Entlastung im Pflegealltag: Erfassen Sie Pflegezeiten und Aufgaben digital im Familienkreis. Strukturierte Vorlage für die Pflegeeinstufung nutzen!'
-date: '2025-07-18'
+date: '2026-09-04'
 url: '/de/vorlage/pflegetagebuch-vorlage/'
-category: 'everyday-life'
+category: 'healthcare'
 functions:
 seo:
     title: 'Pflegetagebuch Vorlage für Angehörige – digital & einfach'
-    description: 'Entlastung im Pflegealltag: Erfassen Sie Pflegezeiten und Aufgaben digital im Familienkreis. Strukturierte Vorlage für die Pflegeeinstufung nutzen!'
-draft: true    
+    description: 'Entlastung im Pflegealltag: Erfassen Sie Pflegezeiten und Aufgaben digital im Familienkreis. Strukturierte Vorlage für die Pflegeeinstufung nutzen!'  
 
 type: pages
 sections:
@@ -47,7 +46,7 @@ sections:
           text: 'Pflegezeiten, Vitalwerte, wichtige Dokumente und Notfallkontakte sind mit der Pflegetagebuch-App von SeaTable zentral gespeichert und stets im Blick.' 
         - icon: 'chart-line'
           headline: 'Berichte direkt erstellen'
-          text: 'Erstellen Sie basierend auf dem Pflegetagebuch automatisiert Pflegeberichte mit dem Page Designer und drucken Sie diese aus oder versenden Sie sie direkt per E-Mail.'  
+          text: 'Erstellen Sie mit dem Page Designer automatisierte Pflegeberichte und drucken Sie diese aus oder versenden Sie sie direkt per E-Mail.'  
 
     - name: "customer-1"
       weight: 4
@@ -73,7 +72,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Pflegetagebuch digital führen mit SeaTable'
       subtitle: 'Schluss mit Papierchaos'
-      description: 'Wenn Sie ein strukturiertes, digitales [Pflegetagebuch]({{< relref "posts/pflegetagebuch-fuehren" >}}) führen möchten, ist die [KI No-Code-Plattform]({{< relref "/" >}}) SeaTable die richtige Lösung. Die Kombination aus **strukturierter No-Code-Datenbank und einfacher Zugänglichkeit** bietet Ihnen weit mehr Gestaltungsmöglichkeiten als reine Tabellen oder andere Apps. So sind Sie jederzeit **bestens auf die MD-Begutachtung vorbereitet**.' 
+      description: 'Wenn Sie ein strukturiertes, digitales [Pflegetagebuch]({{< relref "posts/pflegetagebuch-fuehren" >}}) führen möchten, ist die [KI No-Code-Plattform]({{< relref "/" >}}) SeaTable die richtige Lösung. Die Kombination aus **strukturierter No-Code-Datenbank und einfacher Zugänglichkeit** bietet Ihnen weit mehr Gestaltungsmöglichkeiten als reine Tabellen oder andere Apps. So sind Sie jederzeit **bestens auf die medizinische Begutachtung vorbereitet**.' 
       items:
       - text: '**Immer aktuell**: Mit SeaTable erfassen Sie Pflegesituationen und Vitalwerte in Sekunden und greifen jederzeit in Echtzeit auf aktualisierte Daten zu.'
       - text: '**Mit Angehörigen oder Pflegediensten teilen**: Nutzen Sie die Pflegetagebuch-Vorlage gemeinsam mit weiteren Angehörigen oder gewähren Sie dem Pflegedienst Zugriff.'
@@ -122,7 +121,7 @@ sections:
       title: 'Ihre flexible Pflegetagebuch App für Desktop und unterwegs'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie ohne Programmieraufwand eine übersichtliche Pflegetagebuch-App als intuitive, individuelle Benutzeroberfläche für Ihr Pflegejournal. In unserer Vorlage ist bereits eine App enthalten, die neben Eingabeformularen und Infoseiten für jede pflegebedürftige Person auch ein flexibel anpassbares Monitoring-Dashboard beinhaltet. So können Sie Pflegebedarfe und Vitalwerte über einen längeren Zeitraum miteinander vergleichen und Verbesserungen oder Verschlechterungen erkennen. Das ist besonders hilfreich als schnelle Übersicht bei MD-Begutachtungen.'
+      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie ohne Programmieraufwand eine übersichtliche Pflegetagebuch-App als intuitive, individuelle Benutzeroberfläche für Ihr Pflegejournal. In unserer Vorlage ist bereits eine App enthalten, die neben Eingabeformularen und Infoseiten für jede pflegebedürftige Person auch ein flexibel anpassbares Monitoring-Dashboard beinhaltet. So können Sie Pflegebedarfe und Vitalwerte über einen längeren Zeitraum miteinander vergleichen und Verbesserungen oder Verschlechterungen erkennen. Das ist besonders hilfreich als schnelle Übersicht bei medizinischen Begutachtungen.'
       image: '/images/template_page_care_journal_06.png'
       image_alt: 'Monitoring-Dashboard in der Pflegetagebuch-App'      
 
@@ -182,5 +181,5 @@ sections:
       - q: Wie sieht ein ausgefülltes Pflegetagebuch-Beispiel in der Vorlage aus?
         a: Schauen Sie sich am besten direkt die eingebettete, scroll- und anklickbare Vorlage an, wenn Sie ein Pflegetagebuch Beispiel ausgefüllt sehen möchten. Anhand unseres ausgefüllten Pflegetagebuch Beispiels erhalten Sie einen guten Eindruck davon, wie ein Pflegetagebuch aussieht.
       - q: Kann ich SeaTable dauerhaft kostenlos nutzen?  
-        a: Ja, mit einem dauerhaft kostenlosen SeaTable Free-Account können Sie alle Vorlagen nutzen und bei Bedarf ganz einfach auf einen anderen Plan upgraden.
+        a: Ja, mit einem dauerhaft kostenlosen SeaTable Free-Account können Sie alle Vorlagen unbegrenzt nutzen, und bei Bedarf ganz einfach auf einen anderen Plan upgraden.
 ---
