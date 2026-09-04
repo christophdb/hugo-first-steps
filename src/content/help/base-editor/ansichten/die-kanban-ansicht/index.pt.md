@@ -46,13 +46,16 @@ As colunas são rotuladas com **cartões móveis**, que pode mover tanto dentro 
 4. Active o cursor se a nova vista não deve ser visível para todos mas **privada**.
 5. Confirme com **Submeter**.
 
-![criar uma vista Kanban](images/kanban-view-settings.jpg)
+![Agrupar uma vista Kanban](images/group-kanban-view.jpg)
 
-6. Especifique a coluna que pretende utilizar para o **agrupamento**, ou seja, a definição das colunas. A visão Kanban é então gerada automaticamente.
-7. No campo **Título**, entrar a coluna com a qual deseja rotular os cartões Kanban.
-8. Opcionalmente, também pode ativar os **controladores** para ativar determinadas funções ou exibir mais colunas.
+6. Clique em **Adicionar Agrupamento** e especifique a **coluna** que pretende utilizar para o agrupamento, ou seja, a definição das colunas. A vista Kanban é então gerada automaticamente.
 
-Se pretender alterar algo mais tarde, clique no ícone **roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} no canto superior direito e ajuste as **configurações**.
+![Configurar uma vista Kanban](images/kanban-view-settings.jpg)
+
+7. Vá às **configurações** e indique no campo **Título** a coluna com a qual deseja rotular os cartões Kanban.
+8. Opcionalmente, também pode ativar os **controladores** para ativar determinadas funções.
+
+Se pretender alterar algo mais tarde, clique no ícone **roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} no canto superior direito e ajuste as configurações.
 
 ## Definições da vista Kanban
 
@@ -64,18 +67,22 @@ Pode utilizar as opções do cursor para alterar a apresentação visual da vist
 
 ![definições da vista Kanban](images/show-other-fields-in-kanban-view.gif)
 
-## Mostrar e ocultar outras colunas
-
-Todas as **colunas** que criou na sua tabela estão listadas na secção inferior. Ao ativar os **controladores** individuais, as entradas nas respectivas colunas tornam-se visíveis como notas informativas nos cartões.
-
-{{< warning  headline="Sugestão"  text="Abra os **detalhes da linha** clicando num cartão para ver toda a informação de uma linha, mesmo que os cursores não estejam activados." />}}
-
 ## Opções de vista
 
 Pode utilizar as seguintes opções numa vista Kanban:
 - [Bloquear vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
 - [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) por qualquer valor
+- [Agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) por apenas uma coluna
+- [Ocultar colunas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Partilhar a vista com outros]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Mostrar e ocultar outras colunas
+
+![Ocultar colunas na vista Kanban](images/hide-columns-in-kanban-view.jpg) 
+
+Se pretender mostrar menos informação nos cartões, clique em **Ocultar** e desative os **controladores** das respectivas colunas. Ao reativar os controladores, as entradas dessas colunas voltam a ficar visíveis nos cartões.
+
+{{< warning  headline="Nota"  text="Se os controladores **não estiverem ativados**, também não poderá ver nem editar os valores das colunas ocultas ao abrir os **detalhes da linha**." />}}
 
 ## Adicionar um novo registo na vista Kanban
 

@@ -46,13 +46,16 @@ You provide the columns with **movable cards** that you can move both within a c
 4. Activate the slider if the new view should not be visible to everyone but **private**.
 5. Confirm with **Submit**.
 
-![create a Kanban view](images/kanban-view-settings.jpg)
+![Group a Kanban view](images/group-kanban-view.jpg)
 
-6. Specify which column you want to use for the **grouping**, i.e. the definition of the columns. The Kanban view is then generated automatically.
-7. In the **Title field**, enter the column with which you want to label the Kanban cards.
-8. Optionally, you can also activate **sliders** to activate certain functions or display more columns.
+6. Click on **Add group** and specify which **column** you want to use for the grouping, i.e. the definition of the columns. The Kanban view is then generated automatically.
 
-If you want to change something later, click on the **gearwheel icon** {{< seatable-icon icon="dtable-icon-set-up" >}} in the top right-hand corner and adjust the **settings**.
+![Set up a Kanban view](images/kanban-view-settings.jpg)
+
+7. Go to the **settings** and enter the column with which you want to label the Kanban cards in the **Title field**.
+8. Optionally, you can also activate **sliders** to enable certain functions.
+
+If you want to change something later, click on the **gearwheel icon** {{< seatable-icon icon="dtable-icon-set-up" >}} in the top right-hand corner and adjust the settings.
 
 ## Settings of the Kanban view
 
@@ -64,18 +67,22 @@ You can use the slider options to change the visual display of the Kanban view.
 
 ![kanban view settings](images/show-other-fields-in-kanban-view.gif)
 
-## Show and hide other columns
-
-All **columns** that you have created in your table are listed in the lower section. By activating the individual **controllers**, the entries in the respective columns become visible as informative notes on the cards.
-
-{{< warning headline="Note" text="Open the **row details** by clicking on a card to see all the information in a row, even if the sliders are not activated." />}}
-
 ## View options
 
 You can use the following options in a Kanban view:
 - [Lock view]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
 - [Filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) or [sort]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) by any value
+- [Group]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) by exactly one column
+- [Hide columns]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Share view with others]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Show and hide other columns
+
+![Hide columns in the Kanban view](images/hide-columns-in-kanban-view.jpg) 
+
+If you want to display less information on the cards, click on **Hide columns** and deactivate the **sliders** of the respective columns. Reactivating the sliders makes the entries in these columns visible on the cards again.
+
+{{< warning  headline="Note"  text="If the sliders are **not activated**, you cannot see or edit the values in the hidden columns when you open the **row details** either." />}}
 
 ## Add a new record in the Kanban view
 

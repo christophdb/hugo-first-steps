@@ -46,13 +46,16 @@ Vous munissez les colonnes de **cartes mobiles** que vous pouvez **déplacer** a
 4. Activez le curseur si vous souhaitez que la nouvelle vue ne soit pas visible par tous, mais **privée**.
 5. Confirmez en cliquant sur **Envoyer**.
 
-![créer une vue Kanban](images/kanban-view-settings.jpg)
+![Regrouper une vue Kanban](images/group-kanban-view.jpg)
 
-6. Définissez la colonne que vous souhaitez utiliser pour le **regroupement**, c'est-à-dire la définition des colonnes. La vue Kanban est ensuite générée automatiquement.
-7. Dans le champ **Titre**, indiquez la colonne avec laquelle vous souhaitez étiqueter les cartes Kanban.
-8. Vous pouvez également activer des **régulateurs** pour activer certaines fonctions ou afficher plus de colonnes.
+6. Cliquez sur **Ajouter un regroupement** et définissez la **colonne** que vous souhaitez utiliser pour le regroupement, c'est-à-dire la définition des colonnes. La vue Kanban est ensuite générée automatiquement.
 
-Si vous souhaitez modifier quelque chose ultérieurement, cliquez sur **l'icône de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} dans le coin supérieur droit et ajustez les **paramètres**.
+![Paramétrer une vue Kanban](images/kanban-view-settings.jpg)
+
+7. Allez dans les **paramètres** et indiquez dans le champ **Titre** la colonne avec laquelle vous souhaitez étiqueter les cartes Kanban.
+8. Vous pouvez également activer des **régulateurs** pour activer certaines fonctions.
+
+Si vous souhaitez modifier quelque chose ultérieurement, cliquez sur **l'icône de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} dans le coin supérieur droit et ajustez les paramètres.
 
 ## Paramètres de la vue Kanban
 
@@ -64,18 +67,22 @@ Les options du curseur vous permettent de modifier la représentation visuelle d
 
 ![Paramètres de la vue Kanban](images/show-other-fields-in-kanban-view.gif)
 
-## Afficher ou masquer d'autres colonnes
-
-Dans la partie inférieure, toutes les **colonnes** que vous avez créées dans votre tableau sont listées. En activant les différents **régulateurs**, les entrées de chaque colonne seront visibles sur les cartes sous forme de notes informatives.
-
-{{< warning headline="Note" text="En cliquant sur une carte, ouvrez les **Détails de la ligne** pour voir toutes les informations d'une ligne, même si les curseurs ne sont pas activés." />}}
-
 ## Options de vue
 
 Vous pouvez utiliser les options suivantes dans une vue Kanban :
 - [Verrouiller la vue]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
-- [Filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) 
+- [Filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) ou [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) selon n'importe quelle valeur
+- [Regrouper]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) selon une seule colonne
+- [Masquer des colonnes]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Partager la vue]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Afficher ou masquer d'autres colonnes
+
+![Masquer des colonnes dans la vue Kanban](images/hide-columns-in-kanban-view.jpg) 
+
+Si vous souhaitez afficher moins d'informations sur les cartes, cliquez sur **Masquer** et désactivez les **régulateurs** des colonnes concernées. En réactivant les régulateurs, les entrées de ces colonnes redeviennent visibles sur les cartes.
+
+{{< warning  headline="Note"  text="Si les régulateurs ne sont **pas activés**, vous ne pouvez pas non plus voir ni modifier les valeurs des colonnes masquées lorsque vous ouvrez les **Détails de la ligne**." />}}
 
 ## Ajouter un nouvel enregistrement dans la vue Kanban
 
