@@ -45,13 +45,16 @@ Die Säulen versehen Sie mit **beweglichen Karten**, die Sie sowohl innerhalb ei
 4. Aktivieren Sie den Regler, falls die neue Ansicht nicht für alle sichtbar, sondern **privat** sein soll.
 5. Bestätigen Sie mit **Abschicken**.
 
-![Eine Kanban-Ansicht erstellen](images/kanban-view-settings.jpg)
+![Eine Kanban-Ansicht gruppieren](images/group-kanban-view.jpg)
 
-6. Legen Sie fest, welche Spalte Sie für die **Gruppierung**, also die Definition der Säulen, verwenden wollen. Die Kanban-Ansicht generiert sich im Anschluss automatisch.
-7. Geben Sie im **Titelfeld** die Spalte an, mit der Sie die Kanban-Karten beschriften möchten.
-8. Optional können Sie noch **Regler** aktivieren, um bestimmte Funktionen einzuschalten oder mehr Spalten anzeigen zu lassen.
+6. Klicken Sie auf **Gruppierung hinzufügen** und legen Sie fest, welche **Spalte** Sie für die Gruppierung, also die Definition der Säulen, verwenden wollen. Die Kanban-Ansicht generiert sich im Anschluss automatisch.
 
-Falls Sie nachträglich noch etwas ändern möchten, klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} in der oberen rechten Ecke und passen die **Einstellungen** an.
+![Eine Kanban-Ansicht einstellen](images/kanban-view-settings.jpg)
+
+7. Gehen Sie zu den **Einstellungen** und geben Sie im **Titelfeld** die Spalte an, mit der Sie die Kanban-Karten beschriften möchten.
+8. Optional können Sie noch **Regler** aktivieren, um bestimmte Funktionen einzuschalten.
+
+Falls Sie nachträglich noch etwas ändern möchten, klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} in der oberen rechten Ecke und passen die Einstellungen an.
 
 ## Einstellungen der Kanban-Ansicht
 
@@ -63,18 +66,22 @@ Falls Sie nachträglich noch etwas ändern möchten, klicken Sie auf das **Zahnr
 
 ![Einstellungen der Kanban-Ansicht](images/show-other-fields-in-kanban-view.gif) 
 
-## Weitere Spalten ein- und ausblenden
-
-Im unteren Teil werden alle **Spalten** aufgeführt, die Sie in Ihrer Tabelle angelegt haben. Durch die Aktivierung der einzelnen **Regler** werden die Einträge in den jeweiligen Spalten als informative Notizen auf den Karten sichtbar. 
-
-{{< warning  headline="Hinweis"  text="Öffnen Sie durch Klicken auf eine Karte die **Zeilendetails**, um alle Informationen einer Zeile sehen zu können, auch wenn die Regler nicht aktiviert sind." />}}
-
 ## Ansichtsoptionen
 
 Folgende Optionen können Sie in einer Kanban-Ansicht nutzen:
 - [Ansicht sperren]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
 - nach beliebigen Werten [filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) oder [sortieren]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- nach genau einer Spalte [gruppieren]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Spalten ausblenden]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Ansicht mit anderen teilen]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Weitere Spalten ein- und ausblenden
+
+![Spalten in der Kanban-Ansicht ausblenden](images/hide-columns-in-kanban-view.jpg) 
+
+Wenn Sie weniger Informationen auf den Karten anzeigen möchten, klicken Sie auf **Ausblenden** und deaktivieren die **Regler** der jeweiligen Spalten. Durch die Reaktivierung der Regler werden die Einträge in den Spalten wieder auf den Karten sichtbar.
+
+{{< warning  headline="Hinweis"  text="Wenn die Regler **nicht aktiviert** sind, können Sie die Werte in den ausgeblendeten Spalten auch nicht sehen oder bearbeiten, wenn Sie die **Zeilendetails** öffnen." />}}
 
 ## Einen neuen Datensatz in der Kanban-Ansicht hinzufügen
 

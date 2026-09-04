@@ -46,13 +46,16 @@ Las columnas están etiquetadas con **tarjetas móviles**, que puede mover tanto
 4. Active el control deslizante si la nueva vista no debe ser visible para todos sino **privada**.
 5. Confirme con **Submitir**.
 
-![crear una vista Kanban](images/kanban-view-settings.jpg)
+![Agrupar una vista Kanban](images/group-kanban-view.jpg)
 
-6. Especifique qué columna desea utilizar para la **agrupación**, es decir, la definición de las columnas. A continuación, la vista Kanban se genera automáticamente.
-7. En el campo **Título**, introduzca la columna con la que desea etiquetar las tarjetas Kanban.
-8. Opcionalmente, también puede activar los **controladores** para activar determinadas funciones o visualizar más columnas.
+6. Haga clic en **Añadir agrupación** y especifique qué **columna** desea utilizar para la agrupación, es decir, la definición de las columnas. A continuación, la vista Kanban se genera automáticamente.
 
-Si desea cambiar algo más adelante, haga clic en el **icono de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la esquina superior derecha y ajuste la **configuración**.
+![Configurar una vista Kanban](images/kanban-view-settings.jpg)
+
+7. Vaya a la **configuración** e introduzca en el campo **Título** la columna con la que desea etiquetar las tarjetas Kanban.
+8. Opcionalmente, también puede activar los **controladores** para activar determinadas funciones.
+
+Si desea cambiar algo más adelante, haga clic en el **icono de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la esquina superior derecha y ajuste la configuración.
 
 ## Ajustes de la vista Kanban
 
@@ -64,18 +67,22 @@ Puede utilizar las opciones de la rueda dentada para cambiar la presentación vi
 
 ![configuración de la vista Kanban](images/show-other-fields-in-kanban-view.gif)
 
-## Mostrar y ocultar otras columnas
-
-Todas las **columnas** que haya creado en su tabla aparecen en la sección inferior. Al activar los **controladores** individuales, las entradas de las columnas respectivas se hacen visibles como notas informativas en las fichas.
-
-{{< warning headline="Nota" text="Abra los **detalles de las filas** haciendo clic en una tarjeta para ver toda la información de una fila, aunque los controles deslizantes no estén activados." />}}
-
 ## Opciones de vista
 
 Puede utilizar las siguientes opciones en una vista Kanban:
 - [Bloquear vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
 - [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) u [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) por cualquier valor
+- [Agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) por una sola columna
+- [Ocultar columnas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Compartir vista con otros]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+
+## Mostrar y ocultar otras columnas
+
+![Ocultar columnas en la vista Kanban](images/hide-columns-in-kanban-view.jpg) 
+
+Si desea mostrar menos información en las tarjetas, haga clic en **Ocultar** y desactive los **controladores** de las columnas correspondientes. Al reactivar los controladores, las entradas de esas columnas vuelven a ser visibles en las tarjetas.
+
+{{< warning  headline="Nota"  text="Si los controladores **no están activados**, tampoco podrá ver ni editar los valores de las columnas ocultas al abrir los **detalles de la fila**." />}}
 
 ## Añadir un nuevo registro en la vista Kanban
 
