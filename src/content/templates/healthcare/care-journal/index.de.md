@@ -6,7 +6,7 @@ url: '/de/vorlage/pflegetagebuch-vorlage/'
 category: 'everyday-life'
 functions:
 seo:
-    title: 'Pflegetagebuch Vorlage für Angehörige – Digital & Einfach'
+    title: 'Pflegetagebuch Vorlage für Angehörige – digital & einfach'
     description: 'Entlastung im Pflegealltag: Erfassen Sie Pflegezeiten und Aufgaben digital im Familienkreis. Strukturierte Vorlage für die Pflegeeinstufung nutzen!'
 draft: true    
 
@@ -40,14 +40,14 @@ sections:
           headline: 'Dashboards'
           text: 'Mit aussagekräftigen Statistiken erkennen Sie auf einen Blick, wie groß der Pflegebedarf z. B. nachts ist. Veränderungen über mehrere Tage werden so sichtbar.'
         - icon: 'robot'
-          headline: 'KI-gestützte Autmationen'
+          headline: 'KI-gestützte Automationen'
           text: 'Die integrierten KI-Funktionen ermöglichen smarte, automatisierte Datenverarbeitungen. DSGVO-konform dank eigenem KI-Server.'
         - icon: 'table'
           headline: 'Zentral an einem Ort'
           text: 'Pflegezeiten, Vitalwerte, wichtige Dokumente und Notfallkontakte sind mit der Pflegetagebuch-App von SeaTable zentral gespeichert und stets im Blick.' 
         - icon: 'chart-line'
           headline: 'Berichte direkt erstellen'
-          text: 'Erstellen Sie basierend auf dem Pflegetagebuch automatisiert Pflegeberichte mit dem Page Designer und drucken Sie diese aus oder versenden sie direkt als E-Mail.'  
+          text: 'Erstellen Sie basierend auf dem Pflegetagebuch automatisiert Pflegeberichte mit dem Page Designer und drucken Sie diese aus oder versenden Sie sie direkt per E-Mail.'  
 
     - name: "customer-1"
       weight: 4
@@ -79,7 +79,7 @@ sections:
       - text: '**Mit Angehörigen oder Pflegediensten teilen**: Nutzen Sie die Pflegetagebuch-Vorlage gemeinsam mit weiteren Angehörigen oder gewähren Sie dem Pflegedienst Zugriff.'
       - text: '**Ein Pflegejournal für alle Pflegefälle**: Sie können mehrere familiäre Pflegefälle in einem Pflegetagebuch dokumentieren und Einträge durch klare Verknüpfungen sauber trennen.'
       - text: '**Mobil verfügbar**: Sie können SeaTable auch mobil auf dem Smartphone oder Tablet nutzen.'
-      - text: '**Keine Kompromisse beim Datenschutz**: Mit SeaTable haben Sie die Gewissheit, dass Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gespeichert werden. ' 
+      - text: '**Keine Kompromisse beim Datenschutz**: Mit SeaTable haben Sie die Gewissheit, dass Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gespeichert werden.' 
       image_position: [left]
       image: '/images/template_page_care_journal_01.png'
       image_alt: 'Pflegetagebuch Vorlage mit Ansichten-Menü'   
@@ -102,7 +102,7 @@ sections:
         image: '/images/template_page_care_journal_04.png'
         image_alt: 'Vitalwert-Tabelle in der Pflegetagebuch Vorlage'
       - headline: 'Alle pflegebedürftigen Angehörigen auf einen Blick'
-        text: 'Wenn Sie mehrere Angehörige pflegen, legen Sie einfach mehrere Einträge in der Tabelle "Care recipient" an. Pflegepersonen, Notfallkontakte und Pflegesituationen weisen Sie durch Verknüpfungen eindeutig einem pflegebedürftigen Angehörigen zu. In der integrierten App sehen sie alle relevanten Informationen strukturiert auf einen Blick.'
+        text: 'Wenn Sie mehrere Angehörige pflegen, legen Sie einfach mehrere Einträge in der Tabelle "Care recipient" an. Pflegepersonen, Notfallkontakte und Pflegesituationen weisen Sie durch Verknüpfungen eindeutig einem pflegebedürftigen Angehörigen zu. In der integrierten App sehen Sie alle relevanten Informationen strukturiert auf einen Blick.'
         image: '/images/template_page_care_journal_05.png'
         image_alt: 'Datenblatt der pflegebedürftigen Person in der Pflegetagebuch-App'    
       
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Ihr Pflegetagebuch mit integrierten KI-Funktionen'
       subtitle: 'Smarter Helfer im Pflegealltag'
-      description: 'SeaTable bietet leistungsstarke, integrierte KI-Funktionen  für automatisierte Prozesse. Erstellen Sie kurze Zusammenfassungen aus Vollmachten oder einen Tagesbericht anhand von einzelnen Stichworten – komplett DSGVO-konform.'
+      description: 'SeaTable bietet leistungsstarke integrierte KI-Funktionen für automatisierte Prozesse. Erstellen Sie kurze Zusammenfassungen aus Vollmachten oder einen Tagesbericht anhand von einzelnen Stichworten – komplett DSGVO-konform.'
       items:
       - headline: 'Dokumente zusammenfassen'
         text: 'Speichern Sie Vollmachten oder Arztbriefe im Pflegetagebuch und erstellen Sie automatisierte Zusammenfassungen. So wissen Sie immer, was in welcher Datei steht.'
@@ -139,7 +139,7 @@ sections:
         text: 'Nutzen Sie die Classify-Funktion, um Vitalwerte anhand von Norm- oder Referenzwerten z. B. in "unauffällig", "auffällig" und "kritisch" einzuordnen.'
         icon: table
       - headline: 'Details extrahieren'
-        text: 'Lesen Sie z. B. Notizen, Arztbriefe oder Medikamentenbeilagen automatisch aus und erfassen besonders relevante Informationen in separaten Spalten.'
+        text: 'Lesen Sie z. B. Notizen, Arztbriefe oder Medikamentenbeilagen automatisch aus und erfassen Sie besonders relevante Informationen in separaten Spalten.'
         icon: layer-group
       - headline: 'Texte aus Bildern auslesen'
         text: 'Fotografieren Sie z. B. handschriftliche Notizen, analoge Pflegetagebücher oder Laborberichte und lesen Sie relevanten Text mit OCR aus.'
@@ -162,7 +162,7 @@ sections:
       box-position: [right!]
       items:
       - headline: Transparenz
-        text: Sehen Sie in der Kalenderansicht auf einen Blick, ob an einem keine Einträge oder weniger Pflegetätigkeiten als üblich erfasst wurden. Über die Logs können Sie jeden Eintrag und jede Änderung genau nachverfolgen. Dashboards machen Veränderungen im Pflegeaufwand sofort sichtbar. 
+        text: Sehen Sie in der Kalenderansicht auf einen Blick, ob an einem Tag keine Einträge oder weniger Pflegetätigkeiten als üblich erfasst wurden. Über die Logs können Sie jeden Eintrag und jede Änderung genau nachverfolgen. Dashboards machen Veränderungen im Pflegeaufwand sofort sichtbar. 
       - headline: Kollaboration
         text: Vergessen Sie mündliche Übergaben oder handgeschriebene Notizzettel. Die digitale Pflegetagebuch Vorlage lässt sich problemlos mit weiteren Personen teilen und gemeinsam nutzen. In SeaTable arbeiten Nutzer in Echtzeit zusammen, so dass jeder stets den aktuellen Stand sieht.
 
@@ -172,15 +172,15 @@ sections:
       subtitle: 
       items:
       - q: "Kann ich SeaTable als Pflegetagebuch-App auch auf dem Smartphone nutzen?"
-        a: Ja, Sie können die Vorlage problemlos mobil nutzen und Pflegeaufwände bequem mit dem Smartphone oder Tablet erfassen. Die integrierte Pflegetagebuch-App lässt sich ebenfalls über jedes gerät aufrufen, so dass Sie das Pflegetagebuch online ausfüllen können, egal wo Sie gerade sind.  
+        a: Ja, Sie können die Vorlage problemlos mobil nutzen und Pflegeaufwände bequem mit dem Smartphone oder Tablet erfassen. Die integrierte Pflegetagebuch-App lässt sich ebenfalls über jedes Gerät aufrufen, so dass Sie das Pflegetagebuch online ausfüllen können, egal wo Sie gerade sind.  
       - q: Welche Vorteile bietet ein digitales Pflegetagebuch gegenüber Aufzeichnungen auf Papier?
         a: "Ein digitales Pflegetagebuch bietet entscheidende Vorteile: Mehrere Personen können zeitgleich unabhängig von ihrem Standort auf dieselben Daten zugreifen, einmal erfasste Einträge gehen nicht mehr verloren, Änderungen lassen sich genau nachvollziehen, und dank automatischer Berechnungen und Dashboards sehen Sie auf einen Blick tägliche und wöchentliche Pflegeleistungen."
       - q: Wie hilft mir die Pflegetagebuch Vorlage bei der Einstufung des Pflegebedarfs? 
         a: Sie dokumentieren in Ihrem Pflegetagebuch minutengenau alle Pflegetätigkeiten und wie selbstständig die gepflegte Person diese noch ausführen kann. Dann verknüpfen Sie die Tätigkeit mit den jeweiligen Lebensbereichen oder Pflegemodulen, die der Gutachter bei der Beurteilung des Pflegebedarfs berücksichtigt. So können Sie den tatsächlichen Bedarf belastbar nachweisen. 
       - q: Kann ich die Vorlage um andere Bereiche wie einen Medikamentenplan oder einen Essensplan ergänzen? 
-        a: Ja, Sie können alle SeaTable-Vorlagen individuell anpassen und beliebig um weitere Bereiche erweitern. In unserer Vorlagen-Bibliothek finden Sie bereits fertige Vorlage für einen [Medikamentenplan]({{< relref "templates/healthcare/medication-plan" >}}), eine [digitale Gesundheitsakte]({{< relref "templates/healthcare/electronic-health-record" >}}), ein [Ernährungstagebuch]({{< relref "templates/healthcare/food-diary" >}}) oder einen [Essensplan]({{< relref "templates/healthcare/recipes-meal-plan" >}}). 
+        a: Ja, Sie können alle SeaTable-Vorlagen individuell anpassen und beliebig um weitere Bereiche erweitern. In unserer Vorlagen-Bibliothek finden Sie bereits fertige Vorlagen für einen [Medikamentenplan]({{< relref "templates/healthcare/medication-plan" >}}), eine [digitale Gesundheitsakte]({{< relref "templates/healthcare/electronic-health-record" >}}), ein [Ernährungstagebuch]({{< relref "templates/healthcare/food-diary" >}}) oder einen [Essensplan]({{< relref "templates/healthcare/recipes-meal-plan" >}}). 
       - q: Wie sieht ein ausgefülltes Pflegetagebuch-Beispiel in der Vorlage aus?
         a: Schauen Sie sich am besten direkt die eingebettete, scroll- und anklickbare Vorlage an, wenn Sie ein Pflegetagebuch Beispiel ausgefüllt sehen möchten. Anhand unseres ausgefüllten Pflegetagebuch Beispiels erhalten Sie einen guten Eindruck davon, wie ein Pflegetagebuch aussieht.
       - q: Kann ich SeaTable dauerhaft kostenlos nutzen?  
-        a: Ja, mit einem dauerhaft kostenlosen SeaTable Free-Account können Sie alle Vorlagen unbegrenzt nutzen, und bei Bedarf ganz einfach auf einen anderen Plan upgraden.        
+        a: Ja, mit einem dauerhaft kostenlosen SeaTable Free-Account können Sie alle Vorlagen nutzen und bei Bedarf ganz einfach auf einen anderen Plan upgraden.
 ---
