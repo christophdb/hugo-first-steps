@@ -11,18 +11,17 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Bildung'
     - 'Alltag & Freizeit'
     - 'Projektmanagement'
-color: '#f1c449'
+    - 'Bildung'
+color: '#ffa6dc'
 register:
    show: true
-draft: true
 ---
 
 ## Was ist Prokrastination? Bedeutung und Definition
 
-Prokrastination, scherzhaft auch *Aufschieberitis* genannt, ist die wissenschaftliche Bezeichnung für **chronisches Aufschiebeverhalten**. Was für die einen nur eine nervige Angewohnheit ist, kann für die anderen zum schwerwiegenden Problem werden. Vor allem bekommt Prokrastination Bedeutung, wenn wir **geplante erforderliche Handlungen unnötig hinauszögern**, obwohl wir wissen, dass dies negative Folgen haben wird. Das stellt im Gegensatz zur Alltagsprokrastination eine ernst zu nehmende Problematik dar, die sowohl die private als auch die schulische, akademische und berufliche Leistung beeinträchtigen kann.
+Prokrastination, scherzhaft auch *Aufschieberitis* genannt, ist die wissenschaftliche Bezeichnung für **chronisches Aufschiebeverhalten**. Was für die einen nur eine nervige Angewohnheit ist, kann für die anderen zum schwerwiegenden Problem werden. Vor allem bekommt Prokrastination Bedeutung, wenn wir **geplante und erforderliche Handlungen unnötig hinauszögern**, obwohl wir wissen, dass dies negative Folgen haben wird. Das stellt im Gegensatz zur Alltagsprokrastination eine ernst zu nehmende Problematik dar, die sowohl die private als auch die schulische, akademische und berufliche Leistung beeinträchtigen kann.
 
 ![Eine Frau steht wegen Prokrastination unter Zeitdruck](prokrastination-zeitdruck.jpg)
 
@@ -64,9 +63,9 @@ Wer ständig etwas Wichtiges vor sich herschiebt, kann das aus den unterschiedli
 - **Unklare Ziele**: Viele Betroffene von Prokrastination haben Schwierigkeiten, den Sinn in unliebsamen, aber erforderlichen Tätigkeiten zu sehen, sich in den positiven zukünftigen Zustand nach der Erledigung hineinzuversetzen und das Ziel vor Augen zu behalten.
 - **Schlechtes Zeitmanagement**: Wenn man nie gelernt hat, sinnvolle Prioritäten zu setzen und die Zeit vorausschauend einzuteilen, begünstigt das, dass man dringende Aufgaben verdrängt und die Zeit mit unwichtigen Ersatzhandlungen vergeudet.
 - **Fehlende Struktur**: Laut mehreren Studien neigen Menschen, die keinen strukturierten Tagesablauf haben, viel häufiger zur Prokrastination als gut organisierte Menschen.
-- **Zu viele Ablenkungen**: Störfaktoren in der Arbeitsumgebung, zum Beispiel aufleuchtende Nachrichten auf dem Smartphone, machen es leicht, auf Ersatzhandlungen auszuweichen. Gerade Schüler haben häufig Angst, etwas zu verpassen, lassen sich schnell ablenken und verschwenden viel Zeit mit [Social Media]({{< relref "posts/social-media-management" >}}).
+- **Zu viele Ablenkungen**: Störfaktoren in der Arbeitsumgebung, zum Beispiel aufleuchtende Nachrichten auf dem Smartphone, machen es leicht, auf Ersatzhandlungen auszuweichen. Einige Menschen haben Angst, etwas zu verpassen, lassen sich schnell ablenken und verschwenden viel Zeit mit [Social Media]({{< relref "posts/social-media-management" >}}) und anderen Apps.
 
-![Studentin versucht verzweifelt ihre Prokrastination zu überwinden](prokrastination-studium.jpg)
+![Ablenkung durch das Smartphone begünstigt Prokrastination](prokrastination-ablenkung.jpg)
 
 ### Psychologische Ursachen
 
@@ -75,6 +74,8 @@ Wer ständig etwas Wichtiges vor sich herschiebt, kann das aus den unterschiedli
 - **Persönliche Prädisposition**: Mehrere Studien haben zudem belegt, dass Prokrastination mit bestimmten Persönlichkeitsmerkmalen zusammenhängt. Wer weniger gewissenhaft ist und schlecht Impulse kontrollieren kann, neigt demnach eher zum Prokrastinieren.
 - **Perfektionismus**: Oft prokrastinieren auch Perfektionisten. Denn der Anspruch, eine Aufgabe perfekt zu erledigen, hält sie oft schon davon ab, mit dem ersten Schritt anzufangen.
 - **Komorbidität**: Nicht zuletzt können ernsthafte psychische Erkrankungen wie ADHS oder Depressionen eine Konzentrationsschwäche oder Antriebslosigkeit verursachen und im Zusammenhang mit Prokrastination stehen.
+
+![Studentin versucht verzweifelt ihre Prokrastination zu überwinden](prokrastination-studium.jpg)
 
 {{< warning headline="Kann Prokrastination Ursachen in der Kindheit haben?" >}}
 
@@ -136,6 +137,8 @@ Misserfolge, Rückschläge, negative Konsequenzen: Manchmal ist die Prokrastinat
 ### 8. Wiederkehrende Aufgaben automatisieren
 
 Gerade **lästige und redundante Verwaltungsaufgaben** erzeugen bei vielen Menschen einen inneren Widerstand. Sie können sich kaum motivieren, weil das ständige manuelle Wiederholen von Arbeitsschritten mental auslaugt, langweilig ist und unnötig viel Zeit kostet. Glücklicherweise bieten **moderne digitale Lösungen** die Möglichkeit, viele wiederkehrende Aufgaben zu automatisieren. So können Sie Aufgaben, die früher häufig wegen administrativer Prokrastination liegen geblieben sind, schnell erledigen lassen und die Zeit für sinnvollere Tätigkeiten nutzen.
+
+![Automatisieren Sie Aufgaben, um administrative Prokrastination zu überwinden](prokrastinieren-administration.jpg)
 
 ## Prokrastination überwinden mit SeaTable: So organisieren Sie Ihren Alltag mühelos
 
