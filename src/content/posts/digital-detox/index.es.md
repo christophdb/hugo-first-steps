@@ -60,7 +60,7 @@ Este comportamiento se vuelve problemático cuando se convierte en un [hábito](
 *   creciente inquietud interior e irritabilidad
 *   sensación de agobio y agotamiento
 *   trastornos del sueño y cansancio
-*   apatía y procrastinación
+*   apatía y [procrastinación]({{< relref "posts/prokrastination" >}})
 *   aislamiento social y abandono de las relaciones
 
 {{< warning headline="Efectos sobre el cuerpo" >}}

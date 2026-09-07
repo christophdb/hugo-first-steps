@@ -50,7 +50,7 @@ Quizá constate así que procesa y memoriza mejor la información por la mañana
 
 ## La estructura perfecta del diario de aprendizaje: de la planificación a la reflexión
 
-Sobre todo en fases de estudio prolongadas, como la preparación de un examen o un trabajo de fin de carrera, la motivación puede decaer rápidamente o puede perderse la orientación. Entonces, una buena estructura del diario de aprendizaje le ayuda a repartir el tiempo en sesiones de estudio con sentido, a mantener el ritmo durante varias semanas y a **vencer la procrastinación** con un enfoque planificado.
+Sobre todo en fases de estudio prolongadas, como la preparación de un examen o un trabajo de fin de carrera, la motivación puede decaer rápidamente o puede perderse la orientación. Entonces, una buena estructura del diario de aprendizaje le ayuda a repartir el tiempo en sesiones de estudio con sentido, a mantener el ritmo durante varias semanas y a [vencer la procrastinación]({{< relref "posts/prokrastination" >}}) con un enfoque planificado.
 
 Al cortar la materia en muchas porciones pequeñas, podrá digerirla mejor y celebrar éxitos intermedios. Así surge un **ciclo de aprendizaje** en el que se repiten los siguientes pasos:
 

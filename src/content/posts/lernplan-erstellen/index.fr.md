@@ -18,7 +18,7 @@ tags:
 color: '#67bddc'
 ---
 
-De nombreux élèves et étudiants sont pris dans un tourbillon de procrastination et d'apprentissage de dernière minute. Peut-être que vous aussi, vous repoussez une fois de plus l'étude jusqu'à ce que, la dernière nuit avant l'examen, vous deviez bachoter pendant des heures pour acquérir tant bien que mal les connaissances nécessaires. Mais ne vous inquiétez pas, il existe une meilleure solution : établissez un **plan d'étude** efficace !
+De nombreux élèves et étudiants sont pris dans un tourbillon de [procrastination]({{< relref "posts/prokrastination" >}}) et d'apprentissage de dernière minute. Peut-être que vous aussi, vous repoussez une fois de plus l'étude jusqu'à ce que, la dernière nuit avant l'examen, vous deviez bachoter pendant des heures pour acquérir tant bien que mal les connaissances nécessaires. Mais ne vous inquiétez pas, il existe une meilleure solution : établissez un **plan d'étude** efficace !
 
 Qu'il s'agisse de vos **examens du baccalauréat** ou de vos **examens à l'université**, un plan de révision bien conçu peut faire la différence entre la réussite et l'échec. Dans cet article, nous vous montrons en 7 étapes simples comment élaborer un plan de révision pour aborder la prochaine phase d'examen avec moins de stress.
 

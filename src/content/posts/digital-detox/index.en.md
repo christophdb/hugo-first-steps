@@ -60,7 +60,7 @@ This behavior becomes problematic when it turns into a [habit]({{< relref "posts
 *   increasing inner restlessness and irritability
 *   a feeling of being overwhelmed and exhausted
 *   sleep disorders and fatigue
-*   listlessness and procrastination
+*   listlessness and [procrastination]({{< relref "posts/prokrastination" >}})
 *   social isolation and neglect
 
 {{< warning headline="Effects on the Body" >}}

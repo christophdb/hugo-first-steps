@@ -18,7 +18,7 @@ tags:
 color: '#67bddc'
 ---
 
-Many pupils and students are caught in a maelstrom of procrastination and last-minute studying. Perhaps you too are putting off studying until you have to cram for hours on the last night before the exam in order to acquire the necessary knowledge by the skin of your teeth. But don't worry, there is a better way: create an effective **study plan**!
+Many pupils and students are caught in a maelstrom of [procrastination]({{< relref "posts/prokrastination" >}}) and last-minute studying. Perhaps you too are putting off studying until you have to cram for hours on the last night before the exam in order to acquire the necessary knowledge by the skin of your teeth. But don't worry, there is a better way: create an effective **study plan**!
 
 Whether it's your **high school final exams** or your **university exams**, a well-thought-out study plan can make the difference between success and failure. In this article, we show you in 7 simple steps how you can create a study plan to start the next exam phase with less stress.
 

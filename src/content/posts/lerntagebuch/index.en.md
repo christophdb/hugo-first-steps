@@ -50,7 +50,7 @@ In the process, you may notice that you process and store input faster in the mo
 
 ## The perfect learning journal structure – from planning to reflection
 
-Especially during longer study phases such as exam preparation or a thesis, motivation can quickly fade or you can lose your bearings. A good learning journal structure then helps you to divide your time sensibly into study sessions, stay on the ball for several weeks and **overcome procrastination** with a planned approach.
+Especially during longer study phases such as exam preparation or a thesis, motivation can quickly fade or you can lose your bearings. A good learning journal structure then helps you to divide your time sensibly into study sessions, stay on the ball for several weeks and [overcome procrastination]({{< relref "posts/prokrastination" >}}) with a planned approach.
 
 By cutting your learning material into many small chunks, you can digest it more easily and celebrate interim successes. This creates a **learning cycle** in which the following steps repeat:
 
