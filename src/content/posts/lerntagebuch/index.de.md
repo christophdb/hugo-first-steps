@@ -50,7 +50,7 @@ Vielleicht stellen Sie dabei fest, dass Sie Input morgens, mittags oder abends s
 
 ## Der perfekte Lerntagebuch Aufbau – von der Planung bis zur Reflexion
 
-Vor allem bei längeren Lernphasen wie einer Prüfungsvorbereitung oder einer Abschlussarbeit kann die Motivation schnell nachlassen oder die Orientierung verlorengehen. Dann hilft Ihnen ein guter Lerntagebuch Aufbau, die Zeit sinnvoll in Lerneinheiten einzuteilen, über mehrere Wochen hinweg am Ball zu bleiben und mit einem planvollen Vorgehen **die Prokrastination zu überwinden**.
+Vor allem bei längeren Lernphasen wie einer Prüfungsvorbereitung oder einer Abschlussarbeit kann die Motivation schnell nachlassen oder die Orientierung verlorengehen. Dann hilft Ihnen ein guter Lerntagebuch Aufbau, die Zeit sinnvoll in Lerneinheiten einzuteilen, über mehrere Wochen hinweg am Ball zu bleiben und mit einem planvollen Vorgehen [die Prokrastination zu überwinden]({{< relref "posts/prokrastination" >}}).
 
 Indem Sie Ihren Lernstoff in viele kleine Häppchen schneiden, können Sie ihn leichter verdauen und Zwischenerfolge feiern. So entsteht ein **Lernkreislauf**, in dem sich folgende Schritte wiederholen:
 

@@ -60,7 +60,7 @@ Ce comportement devient problématique lorsqu'il se transforme en [habitude]({{<
 *   agitation intérieure et irritabilité croissantes
 *   sentiment de surmenage et d'épuisement
 *   troubles du sommeil et fatigue
-*   manque de motivation et procrastination
+*   manque de motivation et [procrastination]({{< relref "posts/prokrastination" >}})
 *   isolement social et négligence
 
 {{< warning headline="Répercussions sur le corps" >}}

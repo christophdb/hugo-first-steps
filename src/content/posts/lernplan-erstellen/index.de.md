@@ -15,7 +15,7 @@ tags:
 color: '#67bddc'
 ---
 
-Viele Schüler und Studenten sind in einem Strudel aus Prokrastination und Last-Minute-Lernen gefangen. Vielleicht schieben auch Sie mal wieder das Lernen vor sich her, bis Sie in der letzten Nacht vor der Prüfung stundenlang pauken müssen, um sich mit Ach und Krach das nötige Wissen anzueignen. Aber keine Sorge, es gibt eine bessere Möglichkeit: Erstellen Sie sich einen effektiven **Lernplan**!
+Viele Schüler und Studenten sind in einem Strudel aus [Prokrastination]({{< relref "posts/prokrastination" >}}) und Last-Minute-Lernen gefangen. Vielleicht schieben auch Sie mal wieder das Lernen vor sich her, bis Sie in der letzten Nacht vor der Prüfung stundenlang pauken müssen, um sich mit Ach und Krach das nötige Wissen anzueignen. Aber keine Sorge, es gibt eine bessere Möglichkeit: Erstellen Sie sich einen effektiven **Lernplan**!
 
 Egal, ob es sich um Ihre **Abiturprüfungen** oder um Ihre **Klausuren an der Uni** handelt – ein gut durchdachter Lernplan kann den Unterschied zwischen Erfolg und Misserfolg machen. In diesem Artikel zeigen wir Ihnen in 7 einfachen Schritten, wie Sie einen Lernplan erstellen können, um stressfreier in die nächste Prüfungsphase zu starten.
 

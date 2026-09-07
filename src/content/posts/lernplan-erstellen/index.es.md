@@ -16,7 +16,7 @@ tags:
     - 'Educación'
 color: '#67bddc'
 ---
-Muchos alumnos y estudiantes se ven atrapados en una vorágine de procrastinación y estudio de última hora. Quizá usted también posponga el estudio hasta que tenga que empollar durante horas la última noche antes del examen para adquirir a duras penas los conocimientos necesarios. Pero no se preocupe, hay una forma mejor: ¡cree un **plan de estudio** eficaz!
+Muchos alumnos y estudiantes se ven atrapados en una vorágine de [procrastinación]({{< relref "posts/prokrastination" >}}) y estudio de última hora. Quizá usted también posponga el estudio hasta que tenga que empollar durante horas la última noche antes del examen para adquirir a duras penas los conocimientos necesarios. Pero no se preocupe, hay una forma mejor: ¡cree un **plan de estudio** eficaz!
 
 Tanto si se trata de sus **exámenes de bachillerato** como de sus **exámenes en la universidad**, un plan de estudio bien elaborado puede marcar la diferencia entre el éxito y el fracaso. En este artículo le mostramos en 7 sencillos pasos cómo crear un plan de estudio para empezar la próxima fase de exámenes con menos estrés.
 

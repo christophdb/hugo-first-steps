@@ -50,7 +50,7 @@ Talvez constate que processa e memoriza melhor a informação de manhã, ao meio
 
 ## A estrutura perfeita do diário de aprendizagem – do planeamento à reflexão
 
-Sobretudo em fases de estudo mais longas, como a preparação de um exame ou uma tese, a motivação pode diminuir rapidamente ou pode perder-se a orientação. Nessa altura, uma boa estrutura do diário de aprendizagem ajuda-o a dividir o tempo em sessões de estudo com sentido, a manter o ritmo ao longo de várias semanas e a **vencer a procrastinação** com uma abordagem planeada.
+Sobretudo em fases de estudo mais longas, como a preparação de um exame ou uma tese, a motivação pode diminuir rapidamente ou pode perder-se a orientação. Nessa altura, uma boa estrutura do diário de aprendizagem ajuda-o a dividir o tempo em sessões de estudo com sentido, a manter o ritmo ao longo de várias semanas e a [vencer a procrastinação]({{< relref "posts/prokrastination" >}}) com uma abordagem planeada.
 
 Ao cortar a matéria em muitas pequenas porções, consegue digeri-la mais facilmente e celebrar êxitos intermédios. Surge assim um **ciclo de aprendizagem** no qual se repetem os seguintes passos:
 

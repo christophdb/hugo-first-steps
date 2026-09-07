@@ -50,7 +50,7 @@ Vous constaterez peut-être ainsi que vous traitez et mémorisez mieux les infor
 
 ## La structure parfaite du journal d'apprentissage – de la planification à la réflexion
 
-Lors de phases d'apprentissage longues, comme la préparation d'un examen ou la rédaction d'un mémoire, la motivation peut vite retomber ou l'on peut perdre ses repères. Une bonne structure de journal d'apprentissage vous aide alors à répartir judicieusement votre temps en séances d'apprentissage, à rester dans la course pendant plusieurs semaines et à **surmonter la procrastination** grâce à une démarche planifiée.
+Lors de phases d'apprentissage longues, comme la préparation d'un examen ou la rédaction d'un mémoire, la motivation peut vite retomber ou l'on peut perdre ses repères. Une bonne structure de journal d'apprentissage vous aide alors à répartir judicieusement votre temps en séances d'apprentissage, à rester dans la course pendant plusieurs semaines et à [surmonter la procrastination]({{< relref "posts/prokrastination" >}}) grâce à une démarche planifiée.
 
 En découpant votre matière en de nombreuses petites bouchées, vous la digérez plus facilement et pouvez célébrer des réussites intermédiaires. Il en résulte un **cycle d'apprentissage** dans lequel les étapes suivantes se répètent :
 

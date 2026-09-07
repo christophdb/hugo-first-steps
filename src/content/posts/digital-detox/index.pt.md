@@ -60,7 +60,7 @@ Este comportamento torna-se problemático quando se transforma num [hábito]({{<
 *   inquietação interior e irritabilidade crescentes
 *   sensação de sobrecarga e esgotamento
 *   distúrbios do sono e cansaço
-*   falta de energia e procrastinação
+*   falta de energia e [procrastinação]({{< relref "posts/prokrastination" >}})
 *   isolamento social e negligência
 
 {{< warning headline="Efeitos sobre o corpo" >}}

@@ -17,7 +17,7 @@ tags:
 color: '#67bddc'
 ---
 
-Muitos alunos e estudantes são apanhados num turbilhão de procrastinação e de estudos de última hora. Talvez também esteja a adiar o estudo até ter de estudar durante horas na última noite antes do exame para, a muito custo, adquirir os conhecimentos necessários. Mas não se preocupe, há uma maneira melhor: criar um **plano de estudo** eficaz!
+Muitos alunos e estudantes são apanhados num turbilhão de [procrastinação]({{< relref "posts/prokrastination" >}}) e de estudos de última hora. Talvez também esteja a adiar o estudo até ter de estudar durante horas na última noite antes do exame para, a muito custo, adquirir os conhecimentos necessários. Mas não se preocupe, há uma maneira melhor: criar um **plano de estudo** eficaz!
 
 Quer se trate dos seus **exames finais do ensino secundário** ou dos seus **exames na universidade** – um plano de estudo bem elaborado pode fazer a diferença entre o sucesso e o fracasso. Neste artigo, mostramos-lhe em 7 passos simples como pode criar um plano de estudo para começar a próxima fase de exames com menos stress.
 

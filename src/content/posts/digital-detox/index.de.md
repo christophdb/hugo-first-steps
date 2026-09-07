@@ -60,7 +60,7 @@ Problematisch wird dieses Verhalten, wenn daraus eine [Gewohnheit]({{< relref "p
 *   zunehmende innere Unruhe und Gereiztheit
 *   Gefühl von Überforderung und Erschöpfung
 *   Schlafstörungen und Müdigkeit
-*   Antriebslosigkeit und Prokrastination
+*   Antriebslosigkeit und [Prokrastination]({{< relref "posts/prokrastination" >}})
 *   soziale Isolation und Vernachlässigung
 
 {{< warning headline="Auswirkungen auf den Körper" >}}
