@@ -84,8 +84,8 @@ sections:
           - text: Integrierte Automatisierungen für schlanke Prozesse
           - text: DSGVO-konform
           - text: Berechtigungsverwaltung
-      image: /images/Landing-Page-Workflow-Management_3.png
-      image_alt: 'SeaTable Workflow Management Oberfläche mit Aufgaben und Statusspalten'
+      image: /images/landing-page-individuell-01.png
+      image_alt: 'SeaTable Workflow Management Oberfläche mit Funktionen'
 
     - name: 'content-10'
       weight: 6
@@ -106,8 +106,10 @@ sections:
       title: Workflow Management ohne Verzögerungen
       subtitle: Echtzeit-Zusammenarbeit
       items:
-          - text: Ein entscheidender Vorteil von SeaTable ist die Möglichkeit zur Zusammenarbeit in Echtzeit. In vielen Unternehmen führen verzögerte Workflows zu ineffizienten Prozessen und verpassten Chancen. Mit SeaTable können Teams gleichzeitig und ortsunabhängig an Workflows arbeiten. Alle Änderungen werden in Echtzeit synchronisiert, sodass jeder Mitarbeiter immer auf dem neuesten Stand ist.
-      image: /images/Landing-Page-Workflow-Management_2.png
+          - text: Ein entscheidender Vorteil von SeaTable ist die Möglichkeit zur Zusammenarbeit in Echtzeit. In vielen Unternehmen führen verzögerte Workflows zu ineffizienten Prozessen und verpassten Chancen. Mit SeaTable können Teams gleichzeitig und ortsunabhängig an Workflows arbeiten. Alle Änderungen werden in Echtzeit synchronisiert, sodass jeder Mitarbeiter immer auf dem neuesten Stand ist. 
+
+          - text: Wie Sie die Zusammenarbeit im Team mit SeaTable optimal gestalten, erfahren Sie in unserem [Online-Kurs 3](https://seatable.com/help/online-course-3/)anhand praktischer Anwendungsbeispiele.
+      image: /images/landing-page-individuell-02.png
       image_position: left
       image_alt: 'SeaTable Workflowmanagement Ansicht für Echtzeit-Zusammenarbeit im Team'
 

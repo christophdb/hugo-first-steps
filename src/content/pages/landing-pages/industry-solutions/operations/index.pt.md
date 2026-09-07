@@ -69,8 +69,8 @@ sections:
         - text: "Maior eficiência **através da colaboração em tempo real**"
         - text: "**Fácil integração com outras ferramentas** graças à API integrada"
         - text: O servidor de nuvem e o servidor de IA estão alojados exclusivamente na Alemanha
-      image: /images/landing_page_operations_01.jpg
-      image_alt: 'Interface de gestão de processos do SeaTable com automatizações de IA e colaboração em tempo real'
+      image: /images/landing-page-operations-01.png
+      image_alt: 'Interface de gestão de processos do SeaTable com possibilidades de integração'
 
     - name: "content-10"
       weight: 8
@@ -108,24 +108,24 @@ sections:
     - name: content-25
       weight: 4
       title: Software de gestão eficiente para empresas
-      subtitle: Gestão de processos empresariais
+      subtitle: Gerir processos empresariais
       items:
-      - headline: Painéis de controlo personalizáveis
-        text: "Capture métricas relevantes e crie **relatórios significativos para um maior crescimento do negócio graças a decisões baseadas em dados** - com painéis de controlo personalizáveis."
-        image: /images/landing_page_operations_analyse-dashboards.jpg
-        image_alt: 'Painéis de relatórios do SeaTable para análise de processos e inteligência de negócios'
+      - headline: Painéis de relatórios personalizáveis 
+        text: "Registe métricas relevantes e crie **relatórios significativos para um maior crescimento do negócio** graças a decisões baseadas em dados – com painéis personalizáveis."
+        image: /images/landing-page-operations-02.png
+        image_alt: 'Painéis de relatórios do SeaTable para análises de processos e inteligência empresarial'
       - headline: Visão geral de todos os fluxos de trabalho
-        text: "Atrasos, processos ineficientes, sobrecargas: Com **notificações automáticas e visualizações de processos**, pode manter uma visão geral e reagir imediatamente."
-        image: /images/landing_page_operations_workflow-overview.jpg
-        image_alt: 'Visão geral de workflows do SeaTable com notificações automatizadas e visualização de processos'
+        text: "Atrasos, processos ineficientes, sobrecargas: com **notificações automatizadas e visualização de processos**, mantém-se a visão geral e pode reagir imediatamente."
+        image: /images/landing-page-operations-03.png
+        image_alt: 'Visão geral do fluxo de trabalho do SeaTable com notificações automatizadas e visualização do processo'
       - headline: Processos transparentes e eficientes
-        text: "Actualizações de estado automatizadas, **gestão clara de tarefas e funções de comentário integradas**: Com o SeaTable, a sua equipa trabalha sempre em conjunto, em tempo real e com dados actualizados."
-        image: /images/landing_page_operations_communication.jpg
-        image_alt: 'Ferramentas de comunicação do SeaTable para colaboração transparente e gestão de tarefas'
-      - headline: Front end de operações
-        text: 'Com o [criador de aplicações no-code]({{< relref "posts/20250318-app-erstellen" >}}) do SeaTable, pode criar o seu front end individual de gestão de operações e processos com apenas alguns cliques.'
-        image: /images/landing_page_operations_app.jpg
-        image_alt: 'Construtor de aplicações sem código do SeaTable para frontend operacional personalizado'
+        text: "Atualizações automáticas do estado, **gestão de tarefas clara e funcionalidades de comentários integradas**: com o SeaTable, a sua equipa colabora sempre em tempo real e com dados atualizados." 
+        image: /images/landing-page-operations-04.png
+        image_alt: 'Ferramentas de comunicação do SeaTable para uma colaboração transparente e gestão de tarefas'
+      - headline: Operações - Front-end
+        text: 'Com o [Construtor de Aplicações Sem Código]({{< relref "posts/20250318-app-erstellen" >}}) da SeaTable, pode criar, com apenas alguns cliques, o seu **front-end personalizado de gestão de operações e processos.**'
+        image: /images/landing-page-operations-05.png
+        image_alt: 'SeaTable No-Code App Builder para interfaces operacionais personalizadas e gestão de processos'
 
     - name: "content-4"
       weight: 7

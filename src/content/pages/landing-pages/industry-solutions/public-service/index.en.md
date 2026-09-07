@@ -42,8 +42,8 @@ sections:
           - text: '**Flexibility and adaptability:** SeaTable offers an intuitive interface and instant accessibility for customized solutions.'
           - text: '**Interdisciplinary collaboration:** SeaTable seamlessly connects authorities thanks to real-time collaboration and chat functionality.'
           - text: "**Cloud or your own server**: Use SeaTable in accordance with your compliance requirements without any functional restrictions."
-      image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
-      image_alt: 'SeaTable interface for digital administration featuring centralized data management'
+      image: /images/landing-page-oeffentlicher-dienst-01.png
+      image_alt: 'SeaTable Options for Sharing Data'
 
     - name: 'content-4'
       weight: 3
@@ -101,13 +101,13 @@ sections:
       items:
           - headline: 'Custom AI Workflows'
             text: Build workflows that don’t just store data, but understand it. From [Property Management]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) to **budget planning**, or citizen inquiries—the possibilities are endless. SeaTable integrates seamlessly into existing structures and simplifies digitization without requiring significant IT resources.
-            image: /images/Landing-Page-Public-Services_Property-Management.png
-            image_alt: 'SeaTable template for property management in public administration'
+            image: /images/landing-page-oeffentlicher-dienst-02.png
+            image_alt: 'SeaTable Options for Automation and AI'
 
           - headline: 'User-Friendly Apps'
             text: With SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can easily create user-friendly apps. Employees can quickly find their way around, which increases acceptance and makes digitization more efficient. Optimize your administrative processes and **meet modern requirements for digital administration**.
-            image: /images/Landing-Page-Public-Services-Universal-App.png
-            image_alt: 'SeaTable Universal App for user-friendly government applications'
+            image: /images/landing-page-oeffentlicher-dienst-03.png
+            image_alt: 'SeaTable Universal App for User-Friendly Management Applications'
 
     - name: banner-2
       weight: 6

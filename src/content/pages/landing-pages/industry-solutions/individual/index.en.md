@@ -84,8 +84,8 @@ sections:
           - text: Integrated automation for lean processes 
           - text: GDPR compliant 
           - text: Authorization management
-      image: /images/Landing-Page-Workflow-Management_3.png
-      image_alt: 'SeaTable workflow management interface with tasks and status columns'
+      image: /images/landing-page-individuell-01.png
+      image_alt: 'SeaTable Workflow Management Interface with Features'
 
     - name: 'content-10'
       weight: 6
@@ -107,9 +107,11 @@ sections:
       subtitle: real-time collaboration
       items:
           - text: A key advantage of SeaTable is its ability to enable real-time collaboration. In many companies, delayed workflows lead to inefficient processes and missed opportunities. With SeaTable, teams can work on workflows simultaneously, regardless of their location. All changes are synchronized in real time, so every employee is always up to date.
-      image: /images/Landing-Page-Workflow-Management_2.png
+
+          - text: To learn how to optimize teamwork with SeaTable, check out our [Online Course 3](https://seatable.com/help/online-course-3/), which features practical examples.
+      image: /images/landing-page-individuell-02.png
       image_position: left
-      image_alt: 'SeaTable Workflow view for real-time team collaboration'
+      image_alt: 'SeaTable Workflow Management View for Real-Time Team Collaboration'
 
     - name: 'content-4'
       weight: 8

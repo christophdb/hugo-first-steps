@@ -35,8 +35,8 @@ sections:
         - text: "Fonctions d'IA pour des flux de **travail intelligents et automatisés**"
         - text: "**Intégration et personnalisation simplifiées** sans assistance informatique"
         - text: "**Conforme à 100 % au RGPD** avec des serveurs situés en Allemagne – également pour le traitement par IA"
-      image: /images/landing-page-kundenmanagement-2.png
-      image_alt: 'Interface SeaTable pour une gestion flexible et assistée par IA de la clientèle avec contacts et activités'
+      image: /images/landing-page-sales-00.png
+      image_alt: 'Gestionnaire de clients avec les options proposées par SeaTable'
 
     - name: content-25
       weight: 4
@@ -45,18 +45,19 @@ sections:
       items:
       - headline: Gestion flexible de la relation client
         text: Organisez vos [données clients]({{< relref "templates/sales/crm-tool" >}}) de manière personnalisée selon vos besoins. Enregistrez les coordonnées, **les offres, les prévisions, l'historique client et les suivis** dans un emplacement centralisé. Grâce aux **fonctionnalités d'IA intégrées**, vous pouvez classer vos contacts et regrouper vos e-mails.
-        image: /images/landing-page-kundenmanagement-verwaltung.jpg
-        image_alt: 'Vue SeaTable pour la gestion des données clients, des notes, des interactions et des évaluations IA'
+        image: /images/landing-page-sales-02.png
+        image_alt: 'SeaTable Kanban pour la visualisation des prospects'
 
       - headline: Pipeline commercial et suivi des offres
         text: Gardez une vue d'ensemble de vos processus de vente et augmentez votre taux de conclusion. Avec SeaTable, vous pouvez **visualiser votre pipeline de transactions** et vos [offres]({{< relref "posts/angebotsmanagement" >}}) dans un aperçu clair. Les automatisations basées sur l'intelligence artificielle vous aident à évaluer les prospects et à préformuler des offres. 
-        image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
-        image_alt: 'SeaTable Sales Pipeline pour la visualisation des prospects et des offres dans Kanban avec assistance IA'
+        image: /images/landing-page-sales-03.png
+        image_alt: 'Pipeline commercial SeaTable pour la visualisation des prospects et des offres'
 
       - headline: Automatisation et intelligence artificielle pour plus de temps et de transparence
         text: Les automatisations intégrées à SeaTable vous permettent de configurer des notifications simples et de créer des [flux de travail complexes assistés par l'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Les e-mails peuvent être envoyés directement depuis SeaTable et, si nécessaire, pré-rédigés ou analysés par l'IA, pour une gestion plus efficace des tâches.
-        image: /images/landing-page-kundenmanagement-automatisierung.jpg
-        image_alt: Automatisations SeaTable et étapes d'IA pour les flux de travail CRM avec notifications et tâches 
+        image: /images/landing-page-sales-04.png
+        image_alt: "Automatisations SeaTable et actions d'IA pour les workflows CRM avec notifications et tâches" 
+    
     
     - name: "banner-2"
       weight: 7
@@ -83,7 +84,7 @@ sections:
       title: Renforcer la satisfaction et la fidélité des clients
       subtitle: Gestion du service clientèle 
       description: Avec SeaTable, vous optimisez la gestion de vos relations clients et pouvez traiter les demandes rapidement et efficacement. Grâce à notre générateur d'applications no-code, vous pouvez facilement créer une **interface client** avec un [formulaire de ticket]({{< relref "posts/20250521-ticketing-system" >}}). Utilisez des flux de travail intégrés pour votre suivi des **accords de niveau de service**. Les fonctionnalités d'IA vous aident à **classer automatiquement les demandes d'assistance** et à extraire les informations pertinentes de longs textes. 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image: /images/landing-page-sales-05.png
       image_alt: Système de tickets SeaTable pour le traitement des demandes d'assistance, des SLA et la classification assistée par IA.     
     
     - name: 'content-10'

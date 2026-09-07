@@ -41,8 +41,8 @@ sections:
           - text: '**Flexibilité et adaptabilité** : SeaTable offre une interface intuitive et un accès immédiat à des solutions sur mesure.'
           - text: '**Collaboration interdisciplinaire :** SeaTable connecte les autorités de manière transparente grâce à une collaboration en temps réel et à une fonction de chat.'
           - text: '**Cloud ou serveur dédié** : utilisez SeaTable conformément à vos exigences de conformité sans aucune restriction fonctionnelle.'
-      image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
-      image_alt: Interface SeaTable pour l'administration numérique avec gestion centralisée des données
+      image: /images/landing-page-oeffentlicher-dienst-01.png
+      image_alt: 'Options de SeaTable pour le partage des données'
 
     - name: 'content-4'
       weight: 2
@@ -100,13 +100,13 @@ sections:
       items:
           - headline: "Workflows d'IA personnalisés"
             text: Créez des flux de travail qui non seulement stockent les données, mais les comprennent également. Qu'il s'agisse de [gestion immobilière]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), de **planification budgétaire** ou de demandes des citoyens, les possibilités sont multiples. SeaTable s'intègre parfaitement dans les structures existantes et simplifie la numérisation sans nécessiter d'importants efforts informatiques.
-            image: /images/Landing-Page-Public-Services_Property-Management.png
-            image_alt: "Modèle SeaTable pour la gestion immobilière dans l'administration publique"
+            image: /images/landing-page-oeffentlicher-dienst-02.png
+            image_alt: "Options SeaTable pour l'automatisation et l'IA"
 
           - headline: 'Applications conviviales'
             text: Avec SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), vous pouvez facilement créer des applications conviviales. Les employés s'y familiarisent rapidement, ce qui augmente leur acceptation et rend la numérisation plus efficace. Optimisez vos processus administratifs et répondez **aux exigences modernes d'une administration numérique**.
-            image: /images/Landing-Page-Public-Services-Universal-App.png
-            image_alt: 'Application universelle SeaTable pour des applications de gestion conviviales'
+            image: /images/landing-page-oeffentlicher-dienst-03.png
+            image_alt: 'Application SeaTable Universal pour des applications de gestion conviviales'
 
     - name: banner-2
       weight: 6

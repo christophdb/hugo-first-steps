@@ -35,8 +35,8 @@ sections:
         - text: "Funciones de IA para **flujos de trabajo inteligentes y automatizados**"
         - text: "**Fácil integración y personalización** sin necesidad de asistencia informática"
         - text: "**100 % conforme con el RGPD** con servidores en Alemania, también para el procesamiento de IA"
-      image: /images/landing-page-kundenmanagement-2.png
-      image_alt: 'Interfaz SeaTable para una gestión de clientes flexible y basada en IA con contactos y actividades'
+      image: /images/landing-page-sales-00.png
+      image_alt: 'Gestor de clientes con opciones de SeaTable'
 
     - name: content-25
       weight: 4
@@ -45,18 +45,19 @@ sections:
       items:
       - headline: Gestión flexible de las relaciones con los clientes
         text: 'Organice los [datos de sus clientes]({{< relref "templates/sales/crm-tool" >}}) según sus necesidades. Guarde los datos de contacto, **las ofertas, las previsiones, el historial de los clientes y los seguimientos** en un lugar centralizado. Con las **funciones de inteligencia artificial integradas**, puede clasificar los contactos y resumir los correos electrónicos.'  
-        image: /images/landing-page-kundenmanagement-verwaltung.jpg
-        image_alt: Vista de SeaTable para la gestión de datos de clientes, notas, interacciones y evaluaciones de IA.
+        image: /images/landing-page-sales-02.png
+        image_alt: 'SeaTable Kanban para la visualización de clientes potenciales'
 
       - headline: Canal de ventas y seguimiento de ofertas
         text: Mantenga una visión general de sus procesos de venta y aumente su tasa de cierre. Con SeaTable, puede **visualizar su cartera de negocios** y [ofertas]({{< relref "posts/angebotsmanagement" >}}) en una clara visión general. Las automatizaciones de IA le ayudan a evaluar clientes potenciales y preformular ofertas. 
-        image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
-        image_alt: 'SeaTable Sales Pipeline para visualizar clientes potenciales y ofertas en Kanban con soporte de IA'
+        image: /images/landing-page-sales-03.png
+        image_alt: 'SeaTable Sales-Pipeline para visualizar clientes potenciales y ofertas'
 
       - headline: Automatización e IA para ganar tiempo y transparencia
         text: Con las automatizaciones integradas de SeaTable, puede configurar notificaciones sencillas y crear complejos [flujos de trabajo asistidos por IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Los **correos electrónicos se pueden enviar directamente desde SeaTable** y, si es necesario, la IA los puede redactar o analizar previamente para una gestión más eficiente de las tareas. 
-        image: /images/landing-page-kundenmanagement-automatisierung.jpg
-        image_alt: 'Automatizaciones y pasos de IA de SeaTable para flujos de trabajo de CRM con notificaciones y tareas' 
+        image: /images/landing-page-sales-04.png
+        image_alt: 'Automatizaciones de SeaTable y acciones de IA para flujos de trabajo de CRM con notificaciones y tareas' 
+    
     
     - name: "banner-2"
       weight: 7
@@ -83,7 +84,7 @@ sections:
       title: Reforzar la satisfacción y la fidelidad de los clientes
       subtitle: Gestión de atención al cliente 
       description: 'Con SeaTable, optimizará la gestión de sus contactos con los clientes y podrá procesar las consultas de forma rápida y eficiente. Con nuestro creador de aplicaciones no-code, podrá crear fácilmente una [interfaz de cliente] con un [formulario de tickets]({{< relref "posts/20250521-ticketing-system" >}}). Utilice flujos de trabajo integrados para el **seguimiento de SLA**. Las funciones de IA le ayudan a **clasificar automáticamente las solicitudes de asistencia** y a extraer información relevante de textos largos.'
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image: /images/landing-page-sales-05.png
       image_alt: Sistema de tickets SeaTable para gestionar solicitudes de asistencia, SLA y clasificación basada en IA.     
     
     - name: 'content-10'

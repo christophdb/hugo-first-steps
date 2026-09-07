@@ -35,8 +35,8 @@ sections:
         - text: "AI features for **smart, automated workflows**"
         - text: "**Easy integration and customization** without IT support"
         - text: "**100% GDPR compliant** with servers in Germany – also for AI processing"
-      image: /images/landing-page-kundenmanagement-2.png
-      image_alt: 'SeaTable interface for flexible, AI-supported customer management with contacts and activities'
+      image: /images/landing-page-sales-00.png
+      image_alt: 'Account Manager with Options from SeaTable'
 
     - name: content-25
       weight: 4
@@ -45,18 +45,19 @@ sections:
       items:
       - headline: Flexible customer relationship management
         text: Organize your [customer data]({{< relref "templates/sales/crm-tool" >}}) precisely according to your requirements. Store contact details, **quotes, forecasts, customer history, and follow-ups** in one central location. Use the **integrated AI functions** to classify contacts and summarize emails.
-        image: /images/landing-page-kundenmanagement-verwaltung.jpg
-        image_alt: 'SeaTable view for managing customer data, notes, interactions, and AI evaluations'
+        image: /images/landing-page-sales-02.png
+        image_alt: 'SeaTable Kanban for Visualizing Leads'
 
       - headline: Sales pipeline and quote tracking
         text: Keep track of your sales processes and increase your closing rate. With SeaTable, you can **visualize your deal pipeline** and [quotes]({{< relref "posts/angebotsmanagement" >}}) in a clear overview. AI automations help you evaluate leads and pre-formulate quotes. 
-        image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
-        image_alt: 'SeaTable sales pipeline for visualizing leads and offers in Kanban with AI support'
+        image: /images/landing-page-sales-03.png
+        image_alt: 'SeaTable Sales Pipeline for Visualizing Leads and Quotes'
 
       - headline: Automation and AI for more time and transparency
         text: With SeaTable's integrated automations, you can set up simple notifications and create complex [AI-powered workflows]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Emails can be sent directly from SeaTable and, if necessary, pre-formulated or analyzed by AI for more efficient task management.
-        image: /images/landing-page-kundenmanagement-automatisierung.jpg
-        image_alt: 'SeaTable automations and AI steps for CRM workflows with notifications and tasks' 
+        image: /images/landing-page-sales-04.png
+        image_alt: 'SeaTable Automations and AI Steps for CRM Workflows with Notifications and Tasks' 
+    
     
     - name: "banner-2"
       weight: 7
@@ -83,7 +84,7 @@ sections:
       title: Strengthen customer satisfaction and loyalty
       subtitle: Customer Support Management 
       description: With SeaTable, you can optimize your customer contact management and process inquiries quickly and efficiently. With our no-code app builder, you can easily create a **customer frontend** with a [ticketing form]({{< relref "posts/20250521-ticketing-system" >}}). Use integrated workflows for your **SLA tracking**. AI features help you **automatically classify support requests** and extract relevant information from long texts. 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image: /images/landing-page-sales-05.png
       image_alt: 'SeaTable ticket system for processing support requests, SLAs, and AI-supported classification'     
     
     - name: 'content-10'

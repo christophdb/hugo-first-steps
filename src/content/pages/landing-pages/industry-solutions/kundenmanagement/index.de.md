@@ -35,8 +35,8 @@ sections:
         - text: "KI-Funktionen für **smarte, automatisierte Workflows**"
         - text: "**Einfache Integration und Individualisierung** ohne IT-Unterstützung"
         - text: "**100 % DSGVO-konform** mit Servern in Deutschland – auch für KI-Verarbeitung"
-      image: /images/landing-page-kundenmanagement-2.png
-      image_alt: 'SeaTable Oberfläche für flexibles, KI-gestütztes Kundenmanagement mit Kontakten und Aktivitäten'
+      image: /images/landing-page-sales-00.png
+      image_alt: 'Kundenmanager mit Auswahlmöglichkeiten von SeaTable'
 
     - name: content-25
       weight: 4
@@ -45,17 +45,17 @@ sections:
       items:
       - headline: Flexibles Kundenbeziehungsmanagement
         text: Organisieren Sie Ihre [Kundendaten]({{< relref "templates/sales/crm-tool" >}}) passgenau nach Ihren Anforderungen. Speichern Sie Kontaktdaten, **Angebote, Forecasts, Kundenhistorie und Follow-ups** an einem zentralen Ort. Mit den **integrierten KI-Funktionen**  klassifizieren Sie Kontakte und fassen E-Mails zusammen.
-        image: /images/landing-page-kundenmanagement-verwaltung.jpg
-        image_alt: 'SeaTable Ansicht zur Verwaltung von Kundendaten, Notizen, Interaktionen und KI-Auswertungen'
+        image: /images/landing-page-sales-02.png
+        image_alt: 'SeaTable Kanban zur Visualisierung von Leads'
 
       - headline: Sales-Pipeline und Angebotsverfolgung
         text: Behalten Sie den Überblick über Ihre Verkaufsprozesse und steigern Sie Ihre Abschlussrate. Mit SeaTable **visualisieren Sie Ihre Deal-Pipeline** und [Angebote]({{< relref "posts/angebotsmanagement" >}}) in einer klaren Übersicht. KI-Automatisierungen  helfen Ihnen, Leads zu bewerten und Angebote vorzuformulieren. 
-        image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
-        image_alt: 'SeaTable Sales-Pipeline zur Visualisierung von Leads und Angeboten in Kanban mit KI-Unterstützung'
+        image: /images/landing-page-sales-03.png
+        image_alt: 'SeaTable Sales-Pipeline zur Visualisierung von Leads und Angeboten'
 
       - headline: Automatisierungen und KI für mehr Zeit und Transparenz
         text: Mit SeaTables integrierten Automatisierungen können Sie einfache Benachrichtigungen einrichten und komplexe [KI-unterstützte Workflows]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) erstellen. **E-Mails können direkt aus SeaTable verschickt** und bei Bedarf von der KI vorformuliert oder analysiert werden – für ein effizienteres Aufgabenmanagement.
-        image: /images/landing-page-kundenmanagement-automatisierung.jpg
+        image: /images/landing-page-sales-04.png
         image_alt: 'SeaTable Automatisierungen und KI-Schritte für CRM-Workflows mit Benachrichtigungen und Aufgaben' 
     
     - name: "banner-2"
@@ -83,7 +83,7 @@ sections:
       title: Kundenzufriedenheit und Kundenbindung stärken
       subtitle: Kundensupport Management 
       description: 'Mit SeaTable optimieren Sie Ihr Kundenkontaktmanagement und können Anfragen schnell und effizient bearbeiten. Mit unserem No-Code App Builder erstellen Sie ohne Mühe ein **Customer Frontend** mit [Ticketing-Formular]({{< relref "posts/20250521-ticketing-system" >}}). Nutzen Sie integrierte Workflows für Ihr **SLA-Tracking**. KI-Funktionen unterstützen Sie dabei, **Support-Anfragen automatisch zu klassifizieren** und relevante Informationen aus langen Texten zu extrahieren.' 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image: /images/landing-page-sales-05.png
       image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'     
     
     - name: 'content-10'

@@ -69,8 +69,8 @@ sections:
           - text: "Efficacité accrue grâce à la **collaboration en temps réel**"
           - text: "**Intégration facile avec d'autres outils* grâce à l'API intégrée"
           - text: Le serveur Cloud et le serveur AI sont exclusivement hébergés en Allemagne.
-      image: /images/landing_page_operations_01.jpg
-      image_alt: 'Interface de gestion des procédés SeaTable avec automatisations IA et collaboration en temps réel'
+      image: /images/landing-page-operations-01.png
+      image_alt: "Interface de gestion des processus SeaTable avec possibilités d'intégration"
 
     - name: 'content-10'
       weight: 8
@@ -108,24 +108,24 @@ sections:
     - name: content-25
       weight: 4
       title: Logiciel de gestion efficace pour les entreprises
-      subtitle: Gestion des processus d'entreprise
+      subtitle: Gérer les processus métier
       items:
-          - headline: Tableaux de bord de reporting personnalisables
-            text: "Capturez des métriques pertinentes et **créez des rapports significatifs pour une croissance accrue de l'entreprise grâce à des décisions axées sur les données** - avec des tableaux de bord personnalisables."
-            image: /images/landing_page_operations_analyse-dashboards.jpg
-            image_alt: 'Tableaux de bord de reporting SeaTable pour analyse des procédés et business intelligence'
-          - headline: Aperçu de tous les flux de travail
-            text: "Délais, processus inefficaces, surcharges : **Avec des notifications automatisées et des visualisations de processus**, vous pouvez maintenir une vue d'ensemble et réagir immédiatement."
-            image: /images/landing_page_operations_workflow-overview.jpg
-            image_alt: "Vue d'aperçu des workflows SeaTable avec notifications automatisées et visualisation des procédés"
-          - headline: Des processus transparents et efficaces
-            text: 'Mises à jour automatiques des statuts, **gestion claire des tâches et fonctions de commentaires intégrées** : Avec SeaTable, votre équipe travaille toujours ensemble en temps réel et avec des données à jour.'
-            image: /images/landing_page_operations_communication.jpg
-            image_alt: 'Outils de communication SeaTable pour collaboration transparente et gestion des tâches'
-          - headline: Opérations frontales
-            text: 'Avec le [constructeur applications no-code]({{< relref "posts/20250318-app-erstellen" >}}) de SeaTable, vous pouvez créer votre interface personnalisée pour les opérations et la gestion des processus en quelques clics seulement.'
-            image: /images/landing_page_operations_app.jpg
-            image_alt: "Créateur d'applications sans code SeaTable pour frontend opérationnel personnalisé"
+      - headline: Tableaux de bord de reporting personnalisables 
+        text: "Recueillez les indicateurs pertinents et créez **des rapports pertinents pour stimuler la croissance de votre entreprise** grâce à des décisions fondées sur les données, à l’aide de tableaux de bord personnalisables."
+        image: /images/landing-page-operations-02.png
+        image_alt: "Tableaux de bord SeaTable Reporting pour l'analyse des processus et la veille économique"
+      - headline: Aperçu de tous les workflows
+        text: "Retards, processus inefficaces, surcharges : grâce aux **notifications automatisées et à la visualisation des processus**, vous gardez une vue d'ensemble et pouvez réagir immédiatement."
+        image: /images/landing-page-operations-03.png
+        image_alt: 'Présentation du workflow SeaTable avec notifications automatisées et visualisation des processus'
+      - headline: Des processus transparents et efficaces
+        text: "Mises à jour automatisées du statut, **gestion claire des tâches et fonctions de commentaires intégrées** : avec SeaTable, votre équipe collabore en permanence en temps réel et avec des données actualisées." 
+        image: /images/landing-page-operations-04.png
+        image_alt: 'Outils de communication SeaTable pour une collaboration transparente et la gestion des tâches'
+      - headline: Opérations - Interface utilisateur
+        text: Grâce au [générateur d'applications sans code]({{< relref "posts/20250318-app-erstellen" >}}) de SeaTable, vous pouvez créer en quelques clics votre **interface personnalisée de gestion des opérations et des processus.**"
+        image: /images/landing-page-operations-05.png
+        image_alt: "SeaTable, un générateur d'applications « no-code » pour des interfaces opérationnelles personnalisées et la gestion des processus"
 
     - name: 'content-4'
       weight: 7

@@ -67,8 +67,8 @@ sections:
         - text: "Increased efficiency through **real-time collaboration**"
         - text: "**Easy integration with other tools** thanks to integrated API"
         - text: Cloud server and AI server are hosted exclusively in Germany
-      image: /images/landing_page_operations_01.jpg
-      image_alt: 'SeaTable process management interface with AI automations and real-time collaboration'
+      image: /images/landing-page-operations-01.png
+      image_alt: 'SeaTable Process Management Interface with Integration Capabilities'
 
     - name: "content-10"
       weight: 8
@@ -105,25 +105,25 @@ sections:
 
     - name: content-25
       weight: 4
-      title: Efficient management software for companies
-      subtitle: Managing business processes
+      title: Efficient Management Software for Businesses
+      subtitle: Managing Business Processes
       items:
-      - headline: Customizable reporting dashboards
-        text: "Capture relevant metrics and **create meaningful reports for more business growth thanks to data-driven decisions** - with customizable dashboards."
-        image: /images/landing_page_operations_analyse-dashboards.jpg
-        iamge_alt: 'SeaTable reporting dashboards for process analysis and business intelligence'
-      - headline: Overview of all workflows
-        text: "Delays, inefficient processes, overloads: With **automated notifications and process visualizations**, you can maintain an overview and react immediately."
-        image: /images/landing_page_operations_workflow-overview.jpg
-        image_alt: 'SeaTable workflow overview with automated notifications and process visualization'
+      - headline: Customizable Reporting Dashboards 
+        text: "Track relevant metrics and create **insightful reports to drive business growth** through data-driven decisions—with customizable dashboards."
+        image: /images/landing-page-operations-02.png
+        image_alt: 'SeaTable Reporting Dashboards for Process Analysis and Business Intelligence'
+      - headline: Overview of All Workflows
+        text: "Delays, inefficient processes, and overloads: With **automated notifications and process visualizations**, you can stay on top of things and respond immediately."
+        image: /images/landing-page-operations-03.png
+        image_alt: 'SeaTable Workflow Overview with Automated Notifications and Process Visualization'
       - headline: Transparent and efficient processes
-        text: "Automated status updates, **clear task management and integrated comment functions**: With SeaTable, your team always works together in real time and with up-to-date data."
-        image: /images/landing_page_operations_communication.jpg
-        iamge_alt: 'SeaTable communication tools for transparent collaboration and task management'
-      - headline: Operations front end
-        text: 'With our [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create your individual operations and process management front end with just a few clicks.'
-        image: /images/landing_page_operations_app.jpg
-        image_alt: 'SeaTable no-code app builder for customized operations and process management frontend'
+        text: "Automated status updates, **clear task management, and built-in commenting features**: With SeaTable, your team always collaborates in real time and with up-to-date data." 
+        image: /images/landing-page-operations-04.png
+        image_alt: 'SeaTable Communication Tools for Transparent Collaboration and Task Management'
+      - headline: Operations Frontend
+        text: With SeaTable's [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create your **custom operations and process management front end** with just a few clicks."
+        image: /images/landing-page-operations-05.png
+        image_alt: 'SeaTable No-Code App Builder for Customized Operations Front Ends and Process Management'
 
     - name: "content-4"
       weight: 7
