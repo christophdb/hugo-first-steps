@@ -1,25 +1,27 @@
 ---
-title: 'Digital Care Journal'
-description: 'Making Daily Care Easier: Track care times and tasks digitally within your family. Use a structured template for care level assessment!'
+title: 'Care diary template'
+description: 'Make daily caregiving easier: record care times and tasks digitally as a family. Use the structured template to prepare for the care assessment.'
 date: '2026-09-04'
-url: '/template/care-diary-template/'
+url: '/template/care-diary/'
+aliases:
+    - '/template/care-diary-template/'
 category: 'healthcare'
 functions:
 seo:
-    title: 'Care Diary Template for Family Members – Digital & Simple'
-    description: 'Making Daily Care Easier: Track care times and tasks digitally within your family. Use a structured template for care assessment!'
+    title: 'Care Diary Template for Family Caregivers, Free & Digital'
+    description: 'Make daily caregiving easier: record care times and tasks digitally and walk into the care assessment fully prepared.'
 
 type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'Care Diary Template for Family Caregivers'
-      text: 'Between doctor’s appointments, your own family, and the daily routine of caregiving, there’s often no time to keep a complete record of care needs. And when the medical assessment is due, you may have a vague sense of the situation but no meaningful data. With SeaTable’s free care diary template, you can easily record care times, care activities, and household support digitally and keep track of all care needs. This way, you’ll be fully prepared for the assessment and receive the care services you need.'
+      title: 'The Free Care Diary Template for Family Caregivers and Relatives'
+      text: 'Between doctor’s appointments, your own family and the daily routine of caregiving, there is rarely any time left to document care needs without gaps. And when the medical assessment comes around, you have a vague sense of the situation but no meaningful data to back it up. With the free care diary template from SeaTable, you record care times, care activities and household support digitally and without effort, and keep every care need in view. That way you walk into the assessment fully prepared, can prove every minute you invest and receive the care benefits you actually need.'
       classes:
           - bg-white
       template: bc53ed17009447c39f90
       buttons:
-          - label: Register for free now and use the template
+          - label: Register for free and use the template
             link_to_template: true
             style: primary
     
@@ -30,23 +32,23 @@ sections:
       text: 
       items:
         - icon: 'edit'
-          headline: 'Flexible and intuitive'
-          text: 'Easily customize the care log template to suit your needs and create a flexible, tailor-made care log. No programming knowledge required.'
+          headline: 'Flexible and Intuitive'
+          text: 'Adapt the care diary template to your own situation in just a few clicks and build a fully tailored care diary: add your own fields, categories and views at any time, with no programming knowledge and no help from an IT department required.'
         - icon: 'pencil'
           headline: 'Simple Data Collection'
-          text: 'Easily and flexibly record care times, care activities, and vital signs using customizable forms—even on mobile devices and with attachments.'
+          text: 'Record care times, care activities and vital signs through customizable forms – on mobile devices and with attachments too. Every entry is saved immediately and is available to everyone in the caring family in real time, wherever they happen to be.'
         - icon: 'eye'
-          headline: 'Dashboards'
-          text: 'With meaningful statistics, you can see at a glance how great the need for care is—for example, at night. This makes it easy to spot changes over several days.'
+          headline: 'Meaningful Dashboards'
+          text: 'Clear statistics show you at a glance how great the need for care really is, at night for example. Changes across several days become clearly visible, giving you solid, evidence-based arguments for the upcoming medical assessment.'
         - icon: 'robot'
-          headline: 'AI-powered automation'
-          text: 'The built-in AI features enable smart, automated data processing. GDPR-compliant thanks to a dedicated AI server.'
+          headline: 'AI-Powered Automation'
+          text: 'The built-in AI features enable smart, automated data processing: short summaries, classifications and text extraction without any manual work at all. Fully GDPR-compliant thanks to our own dedicated AI server hosted here in Europe.'
         - icon: 'table'
-          headline: 'All in one place'
-          text: "Care schedules, vital signs, important documents, and emergency contacts are all stored in one place with SeaTable's Care Diary app and are always at a glance." 
+          headline: 'Everything in One Place'
+          text: 'Care times, vital signs, important documents and emergency contacts are all stored centrally in the SeaTable care diary app. Everything stays in view there and remains accessible from any of your devices, at any time of day or night.' 
         - icon: 'chart-line'
-          headline: 'Create reports directly'
-          text: 'Use the Page Designer to create automated maintenance reports, and then print them or send them directly via email.'  
+          headline: 'Instant Care Reports'
+          text: 'Use the Page Designer to create automated care reports, then print them out or send them straight out by email yourself. Especially useful when preparing for the medical assessment or when coordinating closely with your home care service.'  
 
     - name: "customer-1"
       weight: 4
@@ -70,84 +72,84 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Keep a Digital Care Journal with SeaTable'
+      title: 'Keep a Digital Care Diary with SeaTable'
       subtitle: 'Put an End to Paper Chaos'
-      description: 'If you want to keep a structured, digital [care journal]({{< relref "posts/pflegetagebuch-fuehren" >}}), the [AI no-code platform]({{< relref "/" >}}) SeaTable is the right solution. The combination of a **structured no-code database and easy accessibility** offers you far more design options than simple spreadsheets or other apps. This ensures you’re **fully prepared for the medical assessment** at all times.' 
+      description: 'If you want to keep a structured, digital [care diary]({{< relref "posts/pflegetagebuch-fuehren" >}}), the [AI no-code platform]({{< relref "/" >}}) SeaTable is the right solution. The combination of a **structured no-code database and genuinely easy access** gives you far more design options than plain spreadsheets or other apps: define your own views, forms and automations without writing a single line of code, and share the diary with the whole caring family. This way you are **always well prepared for the medical assessment** and can back up every minute of care you invest with hard data.' 
       items:
-      - text: '**Always Up to Date**: With SeaTable, you can record care situations and vital signs in seconds and access updated data in real time at any time.'
-      - text: '**Share with family members or care providers**: Use the care diary template together with other family members, or grant access to your care provider.'
-      - text: '**A Care Journal for All Care Recipients**: You can document multiple family members who require care in a single care journal and clearly separate entries using distinct links.'
-      - text: '**Available on mobile**: You can also use SeaTable on your smartphone or tablet.'
-      - text: '**No Compromises on Data Protection**: With SeaTable, you can rest assured that your data is stored on servers operated by the Swiss company Exoscale in Frankfurt in compliance with the GDPR.' 
+      - text: '**Always up to date**: with SeaTable you record care situations and vital signs in a matter of seconds and access the updated data in real time whenever you need it.'
+      - text: '**Share with relatives or care services**: use the care diary template together with other family members, or grant separate, limited access to your home care service.'
+      - text: '**One diary for every care recipient**: document several relatives in need of care in a single care diary and keep the entries cleanly separated through clear links.'
+      - text: '**Available on mobile**: use SeaTable on your smartphone or tablet as well and record each care activity the very moment you carry it out, with no paper notes at all.'
+      - text: '**No compromises on data protection**: with SeaTable your data is stored in full compliance with the GDPR on servers run by the Swiss company Exoscale in Frankfurt.' 
       image_position: [left]
       image: '/images/template_page_care_journal_01.png'
-      image_alt: 'Care Diary Template with a View Menu'   
+      image_alt: 'SeaTable care diary template with the view menu and all the recorded daily care activities and times'   
 
     - name: "content-25"
       weight: 10
-      title: "Here's what the SeaTable Care Diary Template has to offer"
-      subtitle: "It's that easy to document care needs"
+      title: 'What the SeaTable Care Diary Template Offers'
+      subtitle: "Documenting Made Easy"
       items:
-      - headline: 'Documenting Care Activities, Times, and Situations'
-        text: 'The "Care Journal" table is at the heart of the care journal template. Here, you document all relevant information—including not only the actual care provided but also, for example, any notable behavioral patterns of the person in need of care. Using link columns, **you can assign the activity to the appropriate care module and the caregiver**.'
+      - headline: 'Document Care Tasks, Times and Situations'
+        text: 'The "Care Journal" table is the heart of the care diary template. Here you document all the relevant information: alongside the actual care provided, also any unusual behaviour shown by the person in need of care. Using link columns, **you assign each activity to the matching care module and to the caregiver**, so that you can later filter and evaluate the data by area of daily life.'
         image: '/images/template_page_care_journal_02.png'
-        image_alt: 'Calendar View in the Care Log Template'
+        image_alt: 'Calendar view of the SeaTable care diary template with all the care activities recorded for the week'
       - headline: 'Caregivers and Emergency Contacts'
-        text: 'A major advantage of SeaTable’s care diary template is that you have all the relevant information immediately at your fingertips. **Enter all caregivers and emergency contacts along with their contact information** in the "Caregivers" and "Emergency Contacts" tables, and **use the gallery view to visualize the data**. That way, you won’t have to spend time searching for phone numbers in stressful, emergency situations.'
+        text: 'A key advantage of the SeaTable care diary template is that you have all the important information immediately at hand. **Record all caregivers and emergency contacts together with their contact details** in the "Caregivers" and "Emergency contacts" tables and **use the gallery view to visualize them**. That way you never have to search for a phone number in a stressful emergency.'
         image: '/images/template_page_care_journal_03.png'
-        image_alt: 'Care Log Template with a Gallery View of Caregivers'
-      - headline: 'Record Vital Signs'
-        text: 'Depending on the person’s overall health, it’s a good idea to also record vital signs, as abnormal readings often indicate a greater need for care. In SeaTable’s care log template, you can use a simple form for this purpose. All entries are stored in the “Vital Signs” table and can then be easily **viewed over time** using the statistics module or the care log app.'
+        image_alt: 'Care diary template from SeaTable with the gallery view of caregivers and their full contact details'
+      - headline: 'Record and Track Vital Signs Over Time'
+        text: 'Depending on the person’s general state of health, it makes sense to record vital signs as well, since unusual readings often point to a greater need for care. In the SeaTable care diary template you use a simple form for this. All entries are stored in the "Vital signs" table and can then be **analysed over time** through the statistics module or the care diary app.'
         image: '/images/template_page_care_journal_04.png'
-        image_alt: 'Vital Signs Table in the Care Diary Template'
-      - headline: 'All family members in need of care at a glance'
-        text: 'If you care for multiple family members, simply create multiple entries in the "Care Recipient" table. Use links to clearly assign caregivers, emergency contacts, and care situations to each family member in need of care. In the integrated app, you can see all relevant information in a structured format at a glance.'
+        image_alt: 'Vital signs table in the SeaTable care diary template with all the values recorded over a longer period'
+      - headline: 'All Family Members in Care at a Glance'
+        text: 'If you care for several relatives, simply create several entries in the "Care recipient" table. Caregivers, emergency contacts and care situations are assigned unambiguously to each person in need of care through links. In the built-in app you see all the relevant information structured at a single glance, without switching between files or tables.'
         image: '/images/template_page_care_journal_05.png'
-        image_alt: 'Data Sheet for the Person Needing Care in the Care Diary App'    
+        image_alt: 'Data sheet of the person in need of care in the SeaTable care diary app with all their contacts and data'    
       
     - name: "banner-3"
       weight: 12
-      title: 'Optimally Document Care Needs with the Digital Care Journal'
+      title: 'Document Care Needs Reliably with the Digital Care Diary Template'
       buttons:
-        - label: Jetzt testen
+        - label: Try the template for free
           link: pages/registration
-          id: en-vorlage-pflegetagebuch-registration-2
+          id: en-template-care-journal-registration-2
 
     - name: "content-6"
       weight: 15
       classes:
         - curved
         - bg-gray-100
-      title: 'Your flexible care journal app for desktop and on the go'
+      title: 'Your Flexible Care Diary App'
       subtitle: 
       items:
-      - text: 'With SeaTable’s built-in no-code app builder, you can create a clear and organized care log app—an intuitive, customizable user interface for your care journal—without any coding. Our template already includes an app that features not only data entry forms and information pages for each person requiring care but also a flexibly customizable monitoring dashboard. This allows you to compare care needs and vital signs over an extended period and identify improvements or deteriorations. This is particularly helpful as a quick overview during medical assessments'
+      - text: 'With SeaTable’s built-in no-code app builder you create a clear, well-organized care diary app without any coding: an intuitive, individual user interface for your care journal. Our template already includes an app that offers not only entry forms and information pages for every person in need of care, but also a fully customizable monitoring dashboard. This lets you compare care needs and vital signs over longer periods and spot improvements or deteriorations early. It is particularly helpful as a quick overview during medical assessments.'
       image: '/images/template_page_care_journal_06.png'
-      image_alt: 'Monitoring Dashboard in the Care Log App'      
+      image_alt: 'Monitoring dashboard in the SeaTable care diary app with all the vital signs recorded over a longer period'      
 
     - name: "content-9"
       weight: 16
-      title: 'Your Care Journal with Built-in AI Features'
-      subtitle: 'A Smart Helper for Everyday Care'
-      description: 'SeaTable offers powerful built-in AI features for automated processes. Create brief summaries from power of attorney documents or a daily report based on individual keywords—all in full compliance with the GDPR.'
+      title: 'Your Care Diary with Built-in AI'
+      subtitle: 'A Smart Everyday Helper'
+      description: 'SeaTable offers powerful built-in AI features to automate processes in your care diary. Create short summaries from powers of attorney or doctors’ letters, generate a daily report from just a few keywords, and classify recorded vital signs automatically against reference values. Everything is processed on our own dedicated AI server and in full compliance with the GDPR.'
       items:
-      - headline: 'Summarize Documents'
-        text: Save powers of attorney or doctor's notes in the care log and generate automated summaries. This way, you'll always know what's in each file.
+      - headline: 'Summarize Documents with AI'
+        text: 'Store powers of attorney, doctors’ letters or official decisions in the care diary and generate automated summaries of every file. That way you always know exactly what a document contains without even opening it, and find the information you need in a matter of seconds.'
         icon: circle-info
       - headline: 'Classify Vital Signs'
-        text: 'Use the Classify feature to categorize vital signs based on standard or reference values—for example, as "normal," "abnormal," and "critical."'
+        text: 'Use the Classify feature to sort recorded vital signs automatically according to standard or reference values, for example into "normal", "abnormal" and "critical". Any deviation becomes visible immediately and stays fully documented for the medical assessment.'
         icon: table
-      - headline: 'Extract Details'
-        text: 'Automatically extract information from notes, doctors’ letters, or medication inserts, and record particularly relevant information in separate columns.'
+      - headline: 'Extract Key Details Fast'
+        text: 'Use the Extract feature to read notes, doctors’ letters or medication package inserts automatically and record the particularly relevant details in separate columns. Your most important data therefore always stays structured and ready to filter, sort and evaluate.'
         icon: layer-group
-      - headline: 'Extract Text from Images'
-        text: 'Take photos of handwritten notes, paper care logs, or lab reports, for example, and use the OCR function to extract relevant text.'
+      - headline: 'Read Text from Images'
+        text: 'Photograph handwritten notes, paper care diaries or printed lab reports and extract all the relevant text automatically with the OCR feature. This lets you transfer the paper documents you have already collected effortlessly into your brand new digital care diary.'
         icon: image
       - headline: 'Use Your Own AI Rules'
-        text: 'Record basic care and use a custom prompt to automatically create notes based on keywords. This saves you the effort of manual data entry.'
+        text: 'Record basic care activities and generate automated notes from just a few short keywords using your own Custom Prompt. This noticeably reduces manual typing and gives you entries that are phrased consistently and understandably for the assessor on every single day.'
         icon: wand-magic-sparkles
-      - headline: 'Translate documents'
-        text: 'After a doctor’s visit abroad, translate medical letters or package inserts from other languages. This ensures no information is lost.'
+      - headline: 'Translate Medical Documents'
+        text: 'After a doctor’s visit abroad, translate doctors’ letters or package inserts from any other language directly inside the care diary. That way no important detail is lost and the full medical documentation stays available and understandable in your own language.'
         icon: arrow-right 
 
     - name: "content-13"
@@ -155,31 +157,31 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'The Benefits of Your Care Log Template'
-      subtitle: 'Focus on Transparency'
-      description: 'Is the current care level still appropriate, or does a new assessment appointment need to be scheduled? Have all care activities been recorded, or were any entries missed? SeaTable’s care log template offers all the features you need for complete, transparent, and meaningful care documentation. The focus is on comprehensive documentation, transparency, and collaboration.'
+      title: 'The Benefits of Your Care Diary Template'
+      subtitle: 'Transparency in Focus'
+      description: 'Is the current care level still appropriate, or is it time to request a new assessment? Have all care activities been recorded, or were entries forgotten? The SeaTable care diary template gives you every function you need for complete, transparent and meaningful care documentation. The focus is on gap-free records, transparency and collaboration across the whole family.'
       box-position: [right!]
       items:
-      - headline: Transparency
-        text: In the calendar view, you can see at a glance whether there are no entries for a particular day or fewer care activities than usual. Using the logs, you can track every entry and every change in detail. Dashboards make changes in care workload immediately visible. 
-      - headline: Collaboration
-        text: Forget about verbal handoffs or handwritten notes. The digital care log template can be easily shared and used collaboratively with others. In SeaTable, users collaborate in real time, so everyone always sees the latest information.
+      - headline: Transparency on Every Entry
+        text: In the calendar view you can see at a glance whether a day has no entries at all or fewer care activities than usual. Using the logs, you can trace every entry and every change in detail. Dashboards make any shift in the care workload immediately visible. 
+      - headline: Collaboration in Real Time
+        text: Forget verbal handovers and handwritten notes. The digital care diary template can easily be shared and used together with other people. In SeaTable, users work together in real time, so everyone always sees the most current information.
 
     - name: "faq"
       weight: 20
-      title: 'FAQ – Care Log Template by SeaTable'
+      title: 'FAQ – Frequently Asked Questions on the Care Diary Template'
       subtitle: 
       items:
-      - q: "Can I also use SeaTable as a care journal app on my smartphone?"
-        a: Yes, you can easily use the template on your mobile device and conveniently record care activities using your smartphone or tablet. The built-in care log app can also be accessed from any device, so you can fill out the care log online no matter where you are.  
-      - q: What are the advantages of a digital care log over paper records?
-        a: "A digital care log offers significant advantages: Multiple people can access the same data at the same time, regardless of their location; entries that have been recorded once are no longer lost; changes can be accurately tracked; and thanks to automatic calculations and dashboards, you can see daily and weekly care services at a glance."
-      - q: How does the care diary template help me determine the level of care needed? 
-        a: In your care diary, you document all care activities down to the minute and note how independently the person receiving care can still perform them. Then, you link each activity to the relevant areas of daily living or care modules that the assessor takes into account when evaluating care needs. This allows you to reliably document the actual care needs. 
-      - q: Can I add other sections to the template, such as a medication plan or a meal plan? 
-        a: Yes, you can customize all SeaTable templates and add additional sections as needed. In our template library, you’ll find ready-made templates for a [medication plan]({{< relref "templates/healthcare/medication-plan" >}}), a [digital health record]({{< relref "templates/healthcare/electronic-health-record" >}}), a [food diary]({{< relref "templates/healthcare/food-diary" >}}), or a [meal plan]({{< relref "templates/healthcare/recipes-meal-plan" >}}). 
-      - q: What does a completed care diary example look like in the template?
-        a: If you’d like to see a completed example of a care log, take a look at the embedded, scrollable, and clickable template right here. Our completed care log example will give you a good idea of what a care log looks like.
-      - q: Can I use SeaTable for free indefinitely?  
-        a: Yes, with a permanently free SeaTable Free account, you can use all templates without any limits, and easily upgrade to a different plan if needed.
+      - q: "Can I also use SeaTable as a care diary app on my smartphone?"
+        a: "Yes, you can use the template on mobile devices without any trouble and conveniently record care activities with your smartphone or tablet. The built-in care diary app opens on any device as well, so you can fill in the care diary online wherever you happen to be."
+      - q: What advantages does a digital care diary have over paper records?
+        a: "Several people can work with the same data at the same time regardless of location, entries that have been recorded are no longer lost, and every change can be traced precisely. Thanks to automatic calculations and dashboards, you also see daily and weekly care services at a glance."
+      - q: How does the care diary template help with the care level assessment? 
+        a: You document every care activity down to the minute, along with how independently the person receiving care can still perform it. You then link each activity to the areas of daily life or care modules the assessor takes into account. This lets you prove the actual need for care reliably. 
+      - q: Can I extend the template with a medication plan or a meal plan? 
+        a: Yes, you can customize all SeaTable templates and extend them with further sections as you like. Our template library already contains ready-made templates for a [medication plan]({{< relref "templates/healthcare/medication-plan" >}}), a [digital health record]({{< relref "templates/healthcare/electronic-health-record" >}}), a [food diary]({{< relref "templates/healthcare/food-diary" >}}) or a [meal plan]({{< relref "templates/healthcare/recipes-meal-plan" >}}). 
+      - q: What does a filled-out care diary example look like in the template?
+        a: The best approach is to look directly at the embedded template, which you can scroll through and click on. Our filled-out care diary example gives you a very concrete impression of what a properly kept care diary actually looks like in practice.
+      - q: Can I use SeaTable free of charge permanently?  
+        a: Yes, with a permanently free SeaTable Free account you can use all templates without any limits. If you ever need more features or more storage, you can switch to a different plan very easily at any time.
 ---
