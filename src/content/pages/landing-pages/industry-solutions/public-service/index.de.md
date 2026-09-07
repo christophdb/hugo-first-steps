@@ -37,8 +37,8 @@ sections:
           - text: '**Flexibilität und Anpassbarkeit:** SeaTable bietet eine intuitive Oberfläche und sofortige Zugänglichkeit für maßgeschneiderte Lösungen.'
           - text: '**Interdisziplinäre Zusammenarbeit:** SeaTable verbindet Behörden nahtlos dank Echtzeit-Kollaboration und Chat-Funktion.'
           - text: '**Cloud oder eigener Server**: Nutzen Sie SeaTable entsprechend Ihren Compliance-Vorgaben ohne Funktionseinschränkungen.'
-      image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
-      image_alt: 'SeaTable Oberfläche für digitale Verwaltung mit zentralem Datenmanagement'
+      image: /images/landing-page-oeffentlicher-dienst-01.png
+      image_alt: 'SeaTable Optionen für die Freigabe von Daten'
 
     - name: 'content-4'
       weight: 2
@@ -96,12 +96,12 @@ sections:
       items:
           - headline: 'Individuelle KI-Workflows'
             text: Erstellen Sie Workflows, die Daten nicht nur speichern, sondern verstehen. Ob [Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **Haushaltsplanung** oder Bürgeranfragen – die Möglichkeiten sind vielfältig. SeaTable fügt sich nahtlos in bestehende Strukturen ein und vereinfacht die Digitalisierung ohne großen IT-Aufwand.
-            image: /images/Landing-Page-Public-Services_Property-Management.png
-            image_alt: 'SeaTable Vorlage für Liegenschaftsverwaltung in der öffentlichen Verwaltung'
+            image: /images/landing-page-oeffentlicher-dienst-02.png
+            image_alt: 'SeaTable Optionen für Automatisierungen und KI'
 
           - headline: 'Benutzerfreundliche Apps'
             text: Mit dem SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie mühelos benutzerfreundliche Apps. Mitarbeiter finden sich schnell zurecht, was die Akzeptanz steigert und die Digitalisierung effizienter macht. Optimieren Sie Ihre Verwaltungsprozesse und **erfüllen Sie moderne Anforderungen an eine digitale Verwaltung**.
-            image: /images/Landing-Page-Public-Services-Universal-App.png
+            image: /images/landing-page-oeffentlicher-dienst-03.png
             image_alt: 'SeaTable Universal App für benutzerfreundliche Verwaltungsanwendungen'
 
     - name: banner-2

@@ -43,6 +43,36 @@ sections:
       image: /images/landing-page-marketing-01.png
       image_alt: 'Dashboard de marketing do SeaTable para planeamento de campanhas e análise de desempenho'
 
+    - name: content-25
+      weight: 4
+      title: Funcionalidades que revolucionam os seus processos de marketing
+      subtitle: Visão geral das vantagens para os seus processos de marketing
+      items:
+      - headline: "Análise e planeamento de marketing"
+        text: Desenvolva as suas estratégias de gestão de marketing de forma centralizada no SeaTable e crie uma base fiável para o seu planeamento. Realize uma **análise estruturada da concorrência** e, com um **planeamento orçamental flexível**, mantenha sempre sob controlo os seus recursos disponíveis e as suas despesas.
+        image:  /images/landing-page-marketing-02.png
+        image_alt: 'Opções de colunas do SeaTable para uma análise da concorrência'
+
+      - headline: "Gestão de leads"
+        text: Recolha novos leads através de formulários e faça a sua gestão de forma clara num funil personalizado. Através da segmentação por interesses ou comportamento, pode **agrupar os seus contactos de forma específica** e planear ações de marketing adequadas para diferentes públicos-alvo.
+        image:  /images/landing-page-marketing-03.png
+        image_alt: 'Estatísticas do SeaTable sob a forma de um funil de marketing'
+
+      - headline: "Monitorização e Elaboração de Relatórios"
+        text: Mantenha-se a par **dos principais indicadores das suas atividades de marketing com o KPI Monitoring**. Um sistema de monitorização centralizado reúne os dados relevantes, enquanto os painéis de controlo permitem análises rápidas. Para análises regulares, crie **relatórios de marketing** claros e otimize assim as suas campanhas.
+        image:  /images/landing-page-marketing-04.png
+        image_alt: 'Opções do SeaTable para um painel de indicadores-chave de desempenho (KPI)'
+
+      - headline: "Gestão de eventos"
+        text: Organize feiras, webinars e outros eventos de marketing de forma centralizada com o SeaTable. Desde o **planeamento do evento e gestão de participantes, passando por e-mails automatizados, até ao feedback e à análise**, mantém todas as etapas importantes da gestão do seu evento organizadas num único local.
+        image:  /images/landing-page-marketing-07.png
+        image_alt: 'Plug-ins e funcionalidades do SeaTable para a gestão de eventos'
+
+      - headline: "Redes sociais"
+        text: Organize imagens, vídeos e outros conteúdos de forma centralizada no SeaTable através da Gestão de Recursos de Marketing. Planeie as suas **publicações num plano editorial claro** e desenvolva vídeos e conteúdos para as redes sociais a partir de um storyboard, desde a ideia inicial até à publicação.
+        image:  /images/landing-page-marketing-08.png
+        image_alt: 'Formatos de ficheiros do SeaTable para a gestão de recursos de marketing'
+
     - name: 'content-4'
       weight: 2
       title: Uma ferramenta de marketing – muitos casos de utilização
@@ -166,6 +196,22 @@ sections:
             text: Envie convites, bilhetes e lembretes automaticamente através do SeaTable.
           - headline: Feedback e análise
             text: Realize inquéritos e avalie o sucesso do seu evento.
+
+    - name: "content-21"
+      weight: 7
+      title: Desde o planeamento até à elaboração de relatórios
+      subtitle: Ferramenta de planeamento de campanhas 
+      items:
+      - headline: Estratégia de marketing
+        text: "Para começar, defina o objetivo da campanha, como leads, vendas ou notoriedade, e identifique o público-alvo e a persona. Planeie os canais adequados, como Meta, Google ou e-mail, determine o orçamento e a duração e distribua as responsabilidades pela equipa diretamente no SeaTable."
+      - headline: Planeamento de campanhas
+        text: "Planifique todos os conteúdos e ações da sua campanha de forma clara e num único local. Organize publicações nas redes sociais, variantes de anúncios, séries de newsletters, páginas de destino e textos, bem como recursos de design e criativos, e recolha feedback diretamente no respetivo registo. Além disso, mantenha o orçamento sob controlo durante todo o processo de planeamento da campanha."
+      - headline: Gestão de tarefas
+        text: "Crie tarefas específicas para o design, o texto, os anúncios e o acompanhamento, e atribua responsabilidades a cada membro da equipa. Com prazos, prioridades e acompanhamento do estado em tempo real, poderá identificar imediatamente quais as tarefas que ainda estão pendentes. Através da automatização, é possível, por exemplo, enviar lembretes de prazos ou gerar tarefas automaticamente a partir de campanhas."
+      - headline: Acompanhamento do desempenho
+        text: "Acompanhe centralmente os dados de desempenho provenientes de várias fontes no SeaTable e utilize o monitorização de KPI para acompanhar a evolução da sua campanha. Com fórmulas para o ROI, CTR e outros indicadores-chave, analise os resultados diretamente e apresente-os de forma clara em painéis visuais e estatísticas."
+      - headline: Relatórios
+        text: "Compare as campanhas entre si e identifique quais os canais de sucesso que proporcionam os melhores resultados. Analise a eficiência orçamental, registe os ensinamentos e as otimizações e deduza, a partir daí, recomendações concretas para futuras campanhas. Desta forma, os insights retirados dos relatórios são integrados diretamente na sua próxima estratégia de marketing."
 
     - name: banner-2
       weight: 14

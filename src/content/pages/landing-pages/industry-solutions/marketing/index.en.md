@@ -46,6 +46,36 @@ sections:
       image: /images/landing-page-marketing-01.png
       image_alt: 'SeaTable marketing dashboard for campaign planning and performance analysis'
 
+    - name: content-25
+      weight: 4
+      title: Features That Will Revolutionize Your Marketing Processes
+      subtitle: An Overview of the Benefits for Your Marketing Processes
+      items:
+      - headline: "Marketing Analysis & Planning"
+        text: Develop your marketing management strategies centrally in SeaTable and create a reliable foundation for your planning. Conduct a **structured competitive analysis** and use **flexible budget planning** to keep track of your available resources and expenses at all times.
+        image:  /images/landing-page-marketing-02.png
+        image_alt: 'SeaTable Column Options for a Competitive Analysis'
+
+      - headline: "Lead Management"
+        text: Generate new leads with forms and manage them clearly in a customized funnel. By segmenting leads based on interests or behavior, you can **group your contacts in a targeted manner** and plan appropriate marketing campaigns for different target audiences.
+        image:  /images/landing-page-marketing-03.png
+        image_alt: 'SeaTable Statistics Presented as a Marketing Funnel'
+
+      - headline: "Monitoring & Reporting"
+        text: Keep track of the most important metrics for your marketing activities with KPI Monitoring. A centralized monitoring system consolidates relevant data, while dashboards enable quick analysis. To conduct regular analyses, create clear **marketing reports** and use them to optimize your campaigns.
+        image:  /images/landing-page-marketing-04.png
+        image_alt: 'SeaTable Options for a KPI Dashboard'
+
+      - headline: "Event Management"
+        text: Plan trade shows, webinars, and other marketing events centrally with SeaTable. From **event planning and attendee management to automated emails, feedback, and analysis**, you can keep track of all the key steps in your event management in one organized place.
+        image:  /images/landing-page-marketing-07.png
+        image_alt: 'SeaTable Plugins and Features for Event Management'
+
+      - headline: "Social Media"
+        text: Use Marketing Asset Management to centrally organize images, videos, and other content in SeaTable. Plan your **publications in a clear editorial calendar** and use a storyboard to develop videos and social media content from the initial idea through to publication.
+        image:  /images/landing-page-marketing-08.png
+        image_alt: 'SeaTable File Formats for Marketing Asset Management'
+
     - name: 'content-4'
       weight: 2
       title: One marketing tool – many use cases
@@ -170,6 +200,22 @@ sections:
             text: Send invitations, tickets, and reminders automatically via SeaTable.
           - headline: Feedback and analysis
             text: Conduct surveys and evaluate the success of your event.
+
+    - name: "content-21"
+      weight: 7
+      title: From Planning to Reporting
+      subtitle: Campaign Planning Tool 
+      items:
+      - headline: Marketing Strategy
+        text: "Start by setting the campaign goal—such as leads, sales, or brand awareness—and defining your target audience and persona. Plan the appropriate channels, such as Meta, Google, or email; determine the budget and duration; and assign responsibilities within the team directly in SeaTable."
+      - headline: Campaign Planning
+        text: "Plan all of your campaign’s content and activities in one convenient place. Organize social media posts, ad variations, newsletter series, landing pages and copy, as well as design assets and creative elements, and collect feedback directly within each record. You can also keep track of your budget throughout the entire campaign planning process."
+      - headline: Task Management
+        text: "Create specific to-do lists for design, copy, ads, and tracking, and assign responsibilities to each team member. With deadlines, priorities, and real-time status tracking, you can immediately see which tasks are still pending. Automation allows you, for example, to send deadline reminders or automatically generate tasks from campaigns."
+      - headline: Performance Tracking
+        text: "Track performance data from various sources centrally in SeaTable and use KPI monitoring to track your campaign’s progress. With formulas for ROI, CTR, and other metrics, you can analyze results directly and present them clearly in visual dashboards and statistics."
+      - headline: Reporting
+        text: "Compare campaigns with one another and identify which successful channels deliver the best results. Analyze budget efficiency, document insights and optimizations, and use them to derive concrete recommendations for future campaigns. This way, the insights from your reporting are directly incorporated into your next marketing strategy."   
 
     - name: banner-2
       weight: 14

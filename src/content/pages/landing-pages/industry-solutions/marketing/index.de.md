@@ -41,6 +41,36 @@ sections:
       image: /images/landing-page-marketing-01.png
       image_alt: 'SeaTable Marketing Dashboard für Kampagnenplanung und Performance-Analyse'
 
+    - name: content-25
+      weight: 4
+      title: Funktionen, die Ihre Marekting Prozesse revolutionieren
+      subtitle: Vorteile für Ihre Marekting Prozesse in der Übersicht
+      items:
+      - headline: "Marketinganalyse & Planung"
+        text: Entwickeln Sie Ihre Marketing Management Strategien zentral in SeaTable und schaffen Sie eine verlässliche Grundlage für Ihre Planung. Führen Sie eine **strukturierte Wettbewerbsanalyse** durch und behalten Sie mit **flexiblem Budget Planning** Ihre verfügbaren Ressourcen und Ausgaben jederzeit im Blick.
+        image:  /images/landing-page-marketing-02.png
+        image_alt: 'SeaTable Spaltenoptionen für eine Wettbewerbsanalyse'
+
+      - headline: "Leadmanagement"
+        text: Sammeln Sie neue Leads mit Formularen und verwalten Sie diese übersichtlich in einem individuellen Funnel. Durch die Segmentierung nach Interessen oder Verhalten können Sie Ihre **Kontakte gezielt gruppieren** und passende Marketingmaßnahmen für unterschiedliche Zielgruppen planen.
+        image:  /images/landing-page-marketing-03.png
+        image_alt: 'SeaTable Statistik in Form eines Marketingfunnels'
+
+      - headline: "Monitoring & Reporting"
+        text: Behalten Sie **mit KPI Monitoring die wichtigsten Kennzahlen Ihrer Marketingaktivitäten** im Blick. Ein zentrales Monitoring bündelt relevante Daten, während Dashboards für schnelle Auswertungen sorgen. Für regelmäßige Analysen erstellen Sie übersichtliche **Marketing Reports** und optimieren so Ihre Kampagnen.
+        image:  /images/landing-page-marketing-04.png
+        image_alt: 'SeaTable Optionen für ein KPI Dashboard'
+
+      - headline: "Eventmanagement"
+        text: Planen Sie Messen, Webinare und weitere Marketingevents zentral mit SeaTable. Von der **Veranstaltungsplanung und Teilnehmerverwaltung über automatisierte E-Mails bis hin zu Feedback und Analyse** behalten Sie alle wichtigen Schritte Ihres Eventmanagements übersichtlich an einem Ort.
+        image:  /images/landing-page-marketing-07.png
+        image_alt: 'SeaTable Plugins und Funktionen für Eventmanagement'
+
+      - headline: "Social Media"
+        text: Organisieren Sie mit Marketing Asset Management Bilder, Videos und weitere Inhalte zentral in SeaTable. Planen Sie Ihre **Veröffentlichungen in einem übersichtlichen Redaktionsplan** und entwickeln Sie mit einem Storyboard Videos und Social-Media-Inhalte von der ersten Idee bis zur Veröffentlichung.
+        image:  /images/landing-page-marketing-08.png
+        image_alt: 'SeaTable Dateiformate für ein Marketing Asset Management'
+
     - name: "content-4"
       weight: 2
       title: Ein Marketing Tool – viele Anwendungsfälle
@@ -67,7 +97,7 @@ sections:
     # TODO: content-4 wenn kein link definiert, dann wird kein link angezeigt.
 
     - name: "content-10"
-      weight: 7
+      weight: 6
       classes:
         - curved
         - bg-white
@@ -108,62 +138,21 @@ sections:
             link: pages/registration
             id: de-marketing-registration-2
 
-    - name: 'content-13'
-      weight: 11
-      classes:
-          - curved
-          - bg-gray-100
+    - name: "content-21"
+      weight: 7
       title: Von der Planung bis zum Reporting
-      subtitle: Kampagnenplanungs Tool
-      description: Mit SeaTable können Sie Ihre Marketing Kampagnen strukturiert organisieren und zentral verwalten.
+      subtitle: Kampagnenplanungs Tool 
       items:
-          - headline: Kampagnenplanung
-            text: Planen und überwachen Sie Ihre Kampagnen von der ersten Idee bis zur Erfolgsmessung!
-          - headline: KPI Monitoring
-            text: Überwachen Sie die Performance Ihrer Kampagnen in Echtzeit in Dashboards.
-          - headline: Marketing Automation
-            text: Automatisieren Sie wiederkehrende Aufgaben wie z. B. das Versenden von E-Mails.
-          - headline: Marketing Budget
-            text: Planen, überwachen und optimieren Sie Ihr Budget.
-
-    - name: 'content-13'
-      weight: 12
-      classes:
-          - curved
-          - bg-gray-100
-          - "!pt-0"
-      title: Monitoring und Analyse
-      subtitle: Marketing Reporting
-      description: Monitoren Sie alle Metriken für Ihre Reportings im Marketing und erstellen Sie überzeugende Dashboards.
-      box_position: left
-      items:
-          - headline: Zentrales Monitoring
-            text: Sammeln Sie alle Metriken von verschiedenen Online Marketing Plattformen in SeaTable.
-          - headline: Dashboards
-            text: Nutzen Sie grafische Darstellungen um Trends und KPIs besser zu verstehen.
-          - headline: Reports Marketing
-            text: Erstellen Sie detaillierte Berichte über die Performance Ihrer Kampagnen.
-          - headline: Marketing Analyse
-            text: Verbessern Sie Ihre Kampagnenstrategie mit detaillierten Analysen und Auswertungen.
-
-    - name: 'content-13'
-      weight: 13
-      classes:
-          - curved
-          - bg-gray-100
-          - "!pt-0"
-      title: Eventmanagement
-      subtitle: Messen, Webinare und mehr
-      description: Planen, organisieren und verwalten Sie Ihre Events effizient mit SeaTable und behalten Sie die Übersicht über jede Phase der Eventplanung inklusive Eventbudget.
-      items:
-          - headline: Veranstaltungsplanung
-            text: Organisieren Sie jede Phase Ihres Events mit SeaTable.
-          - headline: Teilnehmerverwaltung
-            text: Anmeldeformulare, Bezahlstatusabfrage und Ticketversand in einem Tool.
-          - headline: Automatisierte E-Mails
-            text: Versenden Sie Einladungen, Tickets und Erinnerungen automatisch über SeaTable.
-          - headline: Feedback und Analyse
-            text: Führen Sie Umfragen durch und werten Sie den Erfolg Ihres Events aus.
+      - headline: Marketing Strategie
+        text: "Legen Sie zu Beginn das Kampagnenziel fest, etwa Leads, Sales oder Awareness, und definieren Sie Zielgruppe & Persona. Planen Sie die passenden Kanäle wie Meta, Google oder E-Mail, bestimmen Sie Budget & Laufzeit und verteilen Sie die Verantwortlichkeiten im Team direkt in SeaTable."
+      - headline: Kampagnenplanung
+        text: "Planen Sie alle Inhalte und Maßnahmen Ihrer Kampagne übersichtlich an einem Ort. Organisieren Sie Social Media Posts, Anzeigenvarianten, Newsletter-Strecken, Landingpages & Texte sowie Design-Assets & Creatives und sammeln Sie Feedback direkt im jeweiligen Datensatz. Auch das Budget behalten Sie während der gesamten Kampagnenplanung im Blick."
+      - headline: Taskmanagement
+        text: "Erstellen Sie konkrete To-dos für Design, Text, Ads & Tracking und weisen Sie Verantwortlichkeiten pro Teammitglied zu. Mit Deadlines & Prioritäten und Status-Tracking in Echtzeit erkennen Sie sofort, welche Aufgaben noch offen sind. Durch Automatisierung lassen sich beispielsweise Erinnerungen an Deadlines versenden oder Aufgaben automatisch aus Kampagnen generieren."
+      - headline: Performance Tracking
+        text: "Tracken Sie Performance-Daten aus verschiedenen Quellen zentral in SeaTable und nutzen Sie KPI Monitoring, um die Entwicklung Ihrer Kampagne zu verfolgen. Mit Formeln für ROI, CTR und weitere Kennzahlen werten Sie Ergebnisse direkt aus und stellen diese in visuellen Dashboards & Statistiken übersichtlich dar."
+      - headline: Reporting
+        text: "Vergleichen Sie Kampagnen miteinander und erkennen Sie, welche erfolgreichen Kanäle die besten Ergebnisse liefern. Analysieren Sie die Budgeteffizienz, halten Sie Learnings & Optimierungen fest und leiten Sie daraus konkrete Empfehlungen für zukünftige Kampagnen ab. So fließen die Erkenntnisse aus dem Reporting direkt in Ihre nächste Marketing Strategie ein."
 
     - name: banner-2
       weight: 14

@@ -85,8 +85,8 @@ sections:
           - text: Automatisations intégrées pour des processus rationalisés 
           - text: Conforme au RGPD 
           - text: Gestion des autorisations
-      image: /images/Landing-Page-Workflow-Management_3.png
-      image_alt: 'Interface de gestion des flux de travail SeaTable avec colonnes de tâches et de statut'
+      image: /images/landing-page-individuell-01.png
+      image_alt: 'Interface de gestion des flux de travail SeaTable avec ses fonctionnalités'
 
     - name: 'content-10'
       weight: 6
@@ -108,7 +108,9 @@ sections:
       subtitle: Collaboration en temps réel
       items:
           - text: "L'un des principaux avantages de SeaTable est la possibilité de collaborer en temps réel. Dans de nombreuses entreprises, les retards dans les flux de travail entraînent des processus inefficaces et des opportunités manquées. Avec SeaTable, les équipes peuvent travailler simultanément sur les flux de travail, quel que soit leur emplacement. Toutes les modifications sont synchronisées en temps réel, de sorte que chaque collaborateur dispose toujours des dernières informations."
-      image: /images/Landing-Page-Workflow-Management_2.png
+
+          - text: Pour découvrir comment optimiser la collaboration au sein de votre équipe avec SeaTable, suivez notre [cours en ligne n° 3](https://seatable.com/help/online-course-3/) à travers des exemples d'application concrets.
+      image: /images/landing-page-individuell-02.png
       image_position: left
       image_alt: "Vue SeaTable Workflow pour une collaboration en temps réel au sein de l'équipe"
 

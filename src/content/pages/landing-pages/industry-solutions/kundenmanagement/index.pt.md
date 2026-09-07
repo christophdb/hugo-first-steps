@@ -35,8 +35,8 @@ sections:
         - text: "Funcionalidades de IA para **fluxos de trabalho inteligentes e automatizados**"
         - text: "**Integração e personalização simples** sem assistência de TI"
         - text: "**100% em conformidade com o RGPD** com servidores na Alemanha – também para processamento de IA"
-      image: /images/landing-page-kundenmanagement-2.png
-      image_alt: 'Interface SeaTable para gestão flexível de clientes com base em IA, incluindo contactos e atividades'
+      image: /images/landing-page-sales-00.png
+      image_alt: 'Gestor de clientes com opções do SeaTable'
 
     - name: content-25
       weight: 4
@@ -45,18 +45,18 @@ sections:
       items:
       - headline: Gestão flexível das relações com os clientes
         text: Organize os seus [dados de clientes]({{< relref "templates/sales/crm-tool" >}}) de acordo com as suas necessidades. Armazene dados de contacto, **ofertas, previsões, histórico de clientes e acompanhamentos** num local centralizado. Com as **funcionalidades de IA integradas**, pode classificar contactos e resumir e-mails.
-        image: /images/landing-page-kundenmanagement-verwaltung.jpg
-        image_alt: 'SeaTable: visualização para a gestão de dados de clientes, notas, interações e análises de IA'
+        image: /images/landing-page-sales-02.png
+        image_alt: 'SeaTable Kanban para a visualização de leads'
 
       - headline: Pipeline de vendas e acompanhamento de propostas
         text: Mantenha uma visão geral dos seus processos de vendas e aumente a sua taxa de conclusão. Com o SeaTable, **visualize o seu pipeline de negócios** e as suas [ofertas]({{< relref "posts/angebotsmanagement" >}}) numa visão geral clara. As automatizações de IA auxiliam na avaliação de leads e na pré-formulação de ofertas. 
-        image: /images/landing-page-kundenmanagement-vertriebsautomatisierung.jpg
-        image_alt: 'SeaTable Sales Pipeline para visualização de leads e ofertas em Kanban com suporte de IA'
+        image: /images/landing-page-sales-03.png
+        image_alt: 'Pipeline de vendas do SeaTable para a visualização de leads e propostas'
 
       - headline: Automações e IA para maior tempo e transparência
         text: Com as automatizações integradas do SeaTable, é possível configurar notificações simples e criar [fluxos de trabalho complexos com suporte de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Os **e-mails podem ser enviados diretamente do SeaTable** e, se necessário, pré-formulados ou analisados pela IA, para uma gestão de tarefas mais eficiente.
-        image: /images/landing-page-kundenmanagement-automatisierung.jpg
-        image_alt: 'Automações SeaTable e etapas de IA para fluxos de trabalho de CRM com notificações e tarefas' 
+        image: /images/landing-page-sales-04.png
+        image_alt: 'Automatizações do SeaTable e passos de IA para fluxos de trabalho de CRM com notificações e tarefas' 
     
     - name: "banner-2"
       weight: 7
@@ -83,7 +83,7 @@ sections:
       title: Reforçar a satisfação e a fidelização dos clientes
       subtitle: Gestão de Apoio ao Cliente 
       description: 'Com o SeaTable, otimize a gestão do contacto com os clientes e processe as solicitações de forma rápida e eficiente. Com o nosso No-Code App Builder, crie facilmente um **Customer Frontend** com [formulário de ticketing]({{< relref "posts/20250521-ticketing-system" >}}). Utilize fluxos de trabalho integrados para o seu **rastreamento de SLA**. Funções de IA ajudam a **classificar automaticamente as solicitações de suporte** e extrair informações relevantes de textos longos.' 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image: /images/landing-page-sales-05.png
       image_alt: 'Sistema de tickets SeaTable para processamento de solicitações de suporte, SLAs e classificação baseada em IA'     
     
     - name: 'content-10'

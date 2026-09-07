@@ -67,8 +67,8 @@ sections:
         - text: "Effizienzsteigerungen durch **Echtzeit-Kollaboration**"
         - text: "**Einfache Integration mit anderen Tools** dank integrierter API"
         - text: Cloud-Server und KI-Server werden ausschließlich in Deutschland gehostet
-      image: /images/landing_page_operations_01.jpg
-      image_alt: 'SeaTable Prozessmanagement Oberfläche mit KI-Automatisierungen und Echtzeit-Kollaboration'
+      image: /images/landing-page-operations-01.png
+      image_alt: 'SeaTable Prozessmanagement Oberfläche mit Integrationsmöglichkeiten'
 
     - name: "content-10"
       weight: 8
@@ -110,19 +110,19 @@ sections:
       items:
       - headline: Anpassbare Reporting-Dashboards 
         text: "Erfassen Sie relevante Metriken und erstellen Sie **aussagekräftige Reportings für mehr Business Growth** dank datengetriebener Entscheidungen – mit individuell gestaltbaren Dashboards."
-        image: /images/landing_page_operations_analyse-dashboards.jpg
+        image: /images/landing-page-operations-02.png
         image_alt: 'SeaTable Reporting-Dashboards für Prozessanalysen und Business Intelligence'
       - headline: Überblick über alle Workflows
         text: "Verzögerungen, ineffiziente Prozesse, Überlastungen: Mit **automatisierten Benachrichtigungen und Prozessvisualisierungen** behalten Sie den Überblick und können sofort reagieren."
-        image: /images/landing_page_operations_workflow-overview.jpg
+        image: /images/landing-page-operations-03.png
         image_alt: 'SeaTable Workflow-Übersicht mit automatisierten Benachrichtigungen und Prozessvisualisierung'
       - headline: Transparente und effiziente Prozesse
         text: "Automatisierte Statusupdates, **übersichtliches Task Management und integrierte Kommentarfunktionen**: Mit SeaTable arbeitet Ihr Team stets in Echtzeit zusammen und mit aktuellen Daten." 
-        image: /images/landing_page_operations_communication.jpg
+        image: /images/landing-page-operations-04.png
         image_alt: 'SeaTable Kommunikations-Tools für transparente Zusammenarbeit und Task Management'
       - headline: Operations-Frontend
         text: 'Mit dem [No-Code App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) von SeaTable erstellen Sie mit wenigen Klicks Ihr **individuelles Operations- und Prozessmanagement-Frontend.**'
-        image: /images/landing_page_operations_app.jpg
+        image: /images/landing-page-operations-05.png
         image_alt: 'SeaTable No-Code App Builder für individualisierte Operations-Frontend und Prozessmanagement'
 
     - name: "content-4"
