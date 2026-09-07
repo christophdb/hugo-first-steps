@@ -29,6 +29,21 @@ Barrierefreiheit:
 [ ] favicon kontrollieren mit https://realfavicongenerator.net/favicon-checker
 [ ] content-blocks nicht id, sondern class name
 
+Security:
+[x] HSTS bewusst NICHT gesetzt (Entscheidung 09/2026). Ein wirksamer Wert waere ein Jahr
+    gewesen - kuerzere max-age laufen zwischen zwei Besuchen ab und tun nichts. Ein Jahr
+    haette bedeutet: jede neue *.seatable.com braucht HTTPS ab dem ersten Request, sonst
+    ist sie unerreichbar, und Zertifikatsfehler waeren nicht mehr wegklickbar. Dafuer ist
+    der Gegenwert zu klein, weil moderne Browser Navigationen ohnehin zuerst ueber HTTPS
+    versuchen. Falls das jemand neu aufmacht: entweder ein Jahr oder gar nicht, ein
+    kleiner max-age-Wert ist reine Kosmetik.
+[ ] Optional/gross: echte script-src CSP. Setzt voraus, dass das Theme auf @alpinejs/csp
+    umgestellt wird (alle x-data/@click in Alpine.data()-Komponenten) und die Inline-Scripts
+    aus baseof.html + posthog/init.html in Hugo-Assets wandern. Ohne das braucht die Policy
+    'unsafe-inline'/'unsafe-eval' und ist als XSS-Schutz wertlos.
+[ ] placehold.co Platzhalterbilder in partials/seatable-pages.html ersetzen (einzige
+    externe Bildquelle der Seite).
+
 Allgemein:
 [ ] style.css aufräumen
 [ ] nike zeug rauswerfen. [class="error" auf registration seite]

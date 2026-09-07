@@ -23,6 +23,15 @@ services:
             # Enable zstd/gzip compression
             caddy.encode:
             caddy.file_server:
+            # Security headers
+            # frame-ancestors/X-Frame-Options: nobody may embed this site in an iframe.
+            # No script-src on purpose: the theme's Alpine.js build compiles expressions via
+            # the AsyncFunction constructor and would require 'unsafe-eval', which would make
+            # the policy look protective without being so. See TODOS.md.
+            caddy.header.Content-Security-Policy: "\"frame-ancestors 'self'\""
+            caddy.header.X-Frame-Options: SAMEORIGIN
+            caddy.header.X-Content-Type-Options: nosniff
+            caddy.header.Referrer-Policy: strict-origin-when-cross-origin
             caddy.handle_errors: 404
             caddy.handle_errors.rewrite: '/404.html'
             caddy.handle_errors.file_server:
