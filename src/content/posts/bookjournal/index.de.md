@@ -2,7 +2,7 @@
 title: 'Wie Sie ein Book Journal erstellen und den Überblick über BookTok-Trends behalten'
 description: 'Ein Buch geht viral und plötzlich kennt es jeder. Eben kannten Sie den Titel noch nicht einmal und jetzt steht er schon auf Ihrer Must-read-Liste. Wie Sie mit einem Book Journal Ihre wachsende Leseliste organisieren und den Überblick behalten, erfahren Sie in diesem Artikel.'
 seo:
-    title: 'Wie Sie ein Book Journal erstellen und den Überblick über BookTok-Trends behalten'
+    title: 'Book Journal erstellen: So behalten Sie BookTok-Trends im Blick'
     description: 'Entdecken Sie, wie ein Book Journal Ihnen helfen kann, Ihre Lesegewohnheiten zu verbessern und Ihre Buchauswahl zu verfeinern.'
 date: 2026-08-20
 url: '/de/book-journal-booktok-trend'
@@ -13,7 +13,6 @@ categories:
 color: '#bbcfbd'
 register:
    show: true
-draft: true
 ---
 Ein einziger Hashtag hat den europäischen Buchmarkt in den letzten Jahren spürbar verändert. #BookTok, die Buch-Community auf TikTok, sorgte 2025 dafür, dass in Europa mehr als 50 Millionen empfohlene Bücher verkauft wurden. Über 800 Millionen Euro Umsatz stecken dahinter, wie eine gemeinsame Analyse von NielsenIQ BookData und [Media Control](https://media-control-de.azurewebsites.net/booktok-community-treibt-weiter-buchverk%C3%A4ufe.html) zeigt. 
 
@@ -21,7 +20,7 @@ Was als spontanes Teilen von Lieblingsbüchern begann, ist zu einer eigenen Kult
 
 Für Verlage und Buchhandlungen ist diese Entwicklung erfreulich. Für Leserinnen und Leser bringt der BookTok Trend allerdings eine ganz eigene Herausforderung mit sich. Wie Sie bei der wachsenden Flut an Buchempfehlungen den Überblick behalten und warum ein Book Journal dabei eine wichtige Rolle spielen kann, erfahren Sie in diesem Artikel.
 
-![Ein Bücherstapel und eine Tasse Tee.](buecherstapel-und-tee.png)
+![Ein Stapel mit Büchern.](buecherstapel.png)
 
 ## Was ist BookTok und warum bewegt der Trend den Buchmarkt?
 
@@ -47,7 +46,7 @@ Vom klassischen Lesetagebuch unterscheidet sich das Book Journal vor allem in se
 
 Analog ist dieses Prinzip längst bekannt. Viele Leser führen ihre Bücher in [Bullet Journals]({{< relref "posts/bullet-journal" >}}) oder mit selbst gestalteten Reading Trackern, oft mit ausgemalten Buchsymbolen oder handgezeichneten Tabellen für die Jahresstatistik. Das sieht hübsch aus und macht Spaß, stößt aber schnell an Grenzen, sobald die Leseliste wächst oder man unterwegs schnell nachschauen möchte, ob ein bestimmter Titel schon gelesen wurde.
 
-![Frau sitzt, umringt von Büchern, mit einem Laptop auf dem Schoß.](digitales-buchjournal.png)
+![Frau steht vor Bücherregal und liest ein Buch.](frau-liest-buch.png)
 
 ## Analoges Buchjournal vs. digitales Book Journal
 
