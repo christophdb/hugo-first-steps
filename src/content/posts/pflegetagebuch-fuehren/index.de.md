@@ -178,7 +178,7 @@ Mit einem digitalen MDK Pflegetagebuch können Sie Maßnahmen jederzeit und orts
 {{< /faq >}}
 
 {{< faq "Sollte auch die hauswirtschaftliche Versorgung im Pflegetagebuch berücksichtig werden?" >}}
-Ja, denn obwohl die hauswirtschaftliche Versorgung nicht direkt in die Bewertung des Pflegegrades einfließt, fragen Gutachter regelmäßig danach. Sie brauchen diese Informationen, um sich ein vollständiges Bild zu machen und die passende Versorgungsplanung zu erstellen. Ein MDK Pflegetagebuch sollte daher auch diese Informationen beinhalten.
+Ja, denn obwohl die hauswirtschaftliche Versorgung nicht direkt in die Bewertung des Pflegegrades einfließt, fragen Gutachter regelmäßig danach. Sie brauchen diese Informationen, um sich ein vollständiges Bild zu machen und die passende Versorgungsplanung zu erstellen. Ein MDK Pflegetagebuch sollte daher auch Informationen über die hauswirtschaftliche Versorgung beinhalten.
 {{< /faq >}}
 
 {{< faq "Hilft ein Pflegetagebuch auch dabei, einen abgelehnten Pflegegradantrag anzufechten?" >}}
