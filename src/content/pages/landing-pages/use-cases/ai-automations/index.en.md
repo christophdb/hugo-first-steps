@@ -108,7 +108,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Classify tickets directly using AI functions'
       - headline: Document and contract analysis
-        text: "**OCR and extraction functions** read content from PDFs or images and extract the information you need for compliance checks, reporting, or contract management. For example, contract terms, notice periods, contracting parties, or regulatory clauses can be automatically transferred to structured fields and integrated into overviews, reminders, or approval processes."
+        text: "**OCR and extraction features** read content from images or PDFs and extract the information you need for compliance checks, reporting, or contract management. For example, contract terms, notice periods, contracting parties, or regulatory clauses can be automatically transferred to structured fields and integrated into overviews, reminders, or approval processes."
         image: /images/landing_page_ki-automatisierung_05.png
         image_alt: 'Summarize texts and documents with smart AI processes'
       - headline: Generate project reports from meeting notes

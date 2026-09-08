@@ -108,7 +108,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Tickets direkt über KI-Funktionen klassifizieren'
       - headline: Dokumenten- und Vertragsanalyse
-        text: "**OCR und Extraktionsfunktionen** lesen Inhalte aus PDFs oder Bildern aus und ziehen gezielt die Informationen, die Sie für Compliance-Checks, Reporting oder Vertragsmanagement benötigen. So können z. B.  Vertragslaufzeiten, Kündigungsfristen, Vertragsparteien oder regulatorisch relevante Klauseln automatisch in strukturierte Felder übernommen und in Übersichten, Erinnerungen oder Freigabeprozesse eingebunden werden."
+        text: "**OCR und Extraktionsfunktionen** lesen Inhalte aus Bildern beziehungsweise PDFs aus und ziehen gezielt die Informationen, die Sie für Compliance-Checks, Reporting oder Vertragsmanagement benötigen. So können z. B.  Vertragslaufzeiten, Kündigungsfristen, Vertragsparteien oder regulatorisch relevante Klauseln automatisch in strukturierte Felder übernommen und in Übersichten, Erinnerungen oder Freigabeprozesse eingebunden werden."
         image: /images/landing_page_ki-automatisierung_05.png
         image_alt: 'Texte und Dokumente mit smarten KI-Prozessen zusammenfassen'
       - headline: Projektreports aus Meeting-Notizen generieren
