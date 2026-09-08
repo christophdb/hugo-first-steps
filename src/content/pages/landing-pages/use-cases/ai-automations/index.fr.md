@@ -108,7 +108,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: "Classez les tickets directement à l'aide des fonctions d'IA"
       - headline: Analyse de documents et de contrats
-        text: "Les **fonctions OCR et d'extraction** lisent le contenu des fichiers PDF ou des images et extraient les informations dont vous avez besoin pour les contrôles de conformité, les rapports ou la gestion des contrats. Par exemple, les durées des contrats, les délais de préavis, les parties contractantes ou les clauses réglementaires pertinentes peuvent être automatiquement transférées dans des champs structurés et intégrées dans des aperçus, des rappels ou des processus de validation."
+        text: "Les **fonctions OCR et d'extraction** lisent le contenu des images ou des fichiers PDF et extraient les informations dont vous avez besoin pour les contrôles de conformité, les rapports ou la gestion des contrats. Par exemple, les durées des contrats, les délais de préavis, les parties contractantes ou les clauses réglementaires pertinentes peuvent être automatiquement transférées dans des champs structurés et intégrées dans des aperçus, des rappels ou des processus de validation."
         image: /images/landing_page_ki-automatisierung_05.png
         image_alt: "Résumer des textes et des documents à l'aide de processus d'IA intelligents"
       - headline: Générer des rapports à partir des notes de réunion

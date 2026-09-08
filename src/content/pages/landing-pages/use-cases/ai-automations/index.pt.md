@@ -108,7 +108,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Classificar bilhetes diretamente através de funções de IA'
       - headline: Análise de documentos e contratos
-        text: "As **funções de OCR e extração** leem o conteúdo de PDFs ou imagens e extraem especificamente as informações necessárias para verificações de conformidade, relatórios ou gestão de contratos. Assim, por exemplo, prazos contratuais, prazos de rescisão, partes contratantes ou cláusulas regulamentares relevantes podem ser automaticamente transferidos para campos estruturados e integrados em resumos, lembretes ou processos de aprovação."
+        text: "As **funções de OCR e extração** leem o imagens ou conteúdo de PDFs e extraem especificamente as informações necessárias para verificações de conformidade, relatórios ou gestão de contratos. Assim, por exemplo, prazos contratuais, prazos de rescisão, partes contratantes ou cláusulas regulamentares relevantes podem ser automaticamente transferidos para campos estruturados e integrados em resumos, lembretes ou processos de aprovação."
         image: /images/landing_page_ki-automatisierung_05.png
         image_alt: 'Resuma textos e documentos com processos inteligentes de IA'
       - headline: Gerar relatórios de projeto a partir de notas de reuniões
