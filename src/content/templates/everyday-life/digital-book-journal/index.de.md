@@ -72,7 +72,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Leseerlebnisse strukturiert dokumentieren'
       subtitle: 'Gedanken und Takeaways erfassen'
-      description: 'Mit der Book Journal Vorlage der [KI No-Code-Plattform]({{< relref "/" >}}) SeaTable erstellen Sie ein digitales Buchjournal, das Lesekreis, Zitatesammlung, digitales Bücherregal und Reading Challenge vereint. Profitieren Sie von den Funktionen herkömmlicher Buchjournal-Apps und der Flexibilität einer frei anpassbaren No-Code-Lösung, ohne an starre Lese-Apps gebunden zu sein.'
+      description: 'Mit der Book Journal Vorlage der [KI No-Code-Plattform]({{< relref "/" >}}) SeaTable erstellen Sie ein [digitales Buchjournal]({{< relref "/posts/bookjournal" >}}), das Lesekreis, Zitatesammlung, digitales Bücherregal und Reading Challenge vereint. Profitieren Sie von den Funktionen herkömmlicher Buchjournal-Apps und der Flexibilität einer frei anpassbaren No-Code-Lösung, ohne an starre Lese-Apps gebunden zu sein.' 
       items:
       - text: '**Vom Zitat zur Rezension**: Speichern Sie Lieblingszitate mit Kontext, eigener Interpretation und Verknüpfung zum Buch. So wird die Book Journal Vorlage zur kreativen Ideensammlung für Diskussionen im Lesekreis, Social-Media-Posts auf Bookstagram oder Re-Reads.'
       - text: '**Reading Challenges visualisieren**: Nutzen Sie unsere App für gelesene Bücher, um Reading Challenges wie „12 Bücher in 12 Monaten“, „Battle of the Books“ oder Genre-Bingos zu dokumentieren.'
